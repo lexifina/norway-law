@@ -1,0 +1,7 @@
+# I
+I forskrift av 10. februar 1994 nr. 123 for flyttbare innretninger med produksjonstekniske installasjoner og utstyr gjøres følgende endring:
+§ 10 oppheves.
+# II
+Endringen trer i kraft 1. juli 1997.
+Opphevingen innebærer ingen materiell endring, da kravene i tidligere § 10 om elektriske anlegg fremkommer av forskrift av 4. september 1987 nr. 855 om anmeldelse av nybygg, besiktelse og sertifisering m.v. av flyttbare innretninger § 5 nr. 2.4.
+Opphevingen vil bli innarbeidet i Sjøfartsdirektoratets forskriftssamling «Regler for flyttbare innretninger».
