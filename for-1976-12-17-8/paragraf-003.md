@@ -1,0 +1,3 @@
+# § 3. Krav til regnskapet når det også drives annen virksomhet.
+Driver den næringsdrivende også annen virksomhet, skal regnskapet føres slik at resultatet av og formue i slik virksomhet som nevnt i § 1 fremgår særskilt. Herunder henføres til denne del av virksomheten de inntekter og utgifter som vedrører dem, slik at resultatet fremkommer som for et frittstående foretak.
+Hvis virksomhet som nevnt i § 1 drives av en filial av et utenlandsk foretak, skal det på begjæring kunne fremlegges årsregnskap for den samlede virksomhet, med redegjørelse for hvordan resultatet av driften av filialen er innpasset i det samlede resultat.
