@@ -1,0 +1,4 @@
+# § 2-5. Opptak på grunnlag av høgare yrkesfagleg utdanning og høgare utdanning
+Søkarar som ikkje har bestått vidaregåande opplæring som gir generell studiekompetanse, kan få generell studiekompetanse på grunnlag av bestått 2-årig høgare yrkesfagleg utdanning (120 fagskulepoeng/studiepoeng frå fagskule).
+Søkarar som ikkje har bestått vidaregåande opplæring som gir generell studiekompetanse, kan få generell studiekompetanse på grunnlag av bestått eitt år norsk høgare utdanning (60 studiepoeng).
+Søkarar som har teke utdanninga omtalt i første og andre ledd på eit anna undervisningsspråk enn norsk eller eit anna nordisk språk, må dokumentere kunnskapar i norsk med éi av prøvane omtalt i vedlegg I (GSU-lista). Desse søkarane må i tillegg kunne dokumentere kunnskapar i engelsk med éi av prøvane omtalt i dette vedlegget.

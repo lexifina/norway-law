@@ -1,0 +1,3 @@
+# § 2-2. Opptak på grunnlag av norsk vidaregåande opplæring
+Søkarar som har bestått studieførebuande norsk vidaregåande opplæring eller bestått fag- og yrkesopplæring med påbygging til generell studiekompetanse, får generell studiekompetanse. Sjå også § 7-2.
+Søkarar som ikkje har bestått norsk vidaregåande opplæring som gir generell studiekompetanse, kan få generell studiekompetanse på grunnlag av 23/6-regelen. Vilkåra er at søkaren fyller 23 år eller meir i løpet av opptaksåret og har bestått faga norsk, engelsk, matematikk, naturfag, samfunnskunnskap og historie frå studieførebuande norsk vidaregåande opplæring i et omfang som fastsett i fag- og timefordelinga og tilbodsstrukturen med heimel i opplæringslova § 1-6 tredje og fjerde ledd.

@@ -1,0 +1,3 @@
+# § 5-6. Omrekning frå utanlandske til norske karakterar
+Søkarar med utanlandsk vidaregåande opplæring skal rangerast på grunnlag av § 5-1. Karakterpoenga skal bereknast slik som fastsett i vedlegg II. Dersom det er fastsett lineær omrekning og dette blir urimeleg, skal rangering skje etter § 5-1 fjerde ledd.
+For søkarar med utanlandsk vidaregåande opplæring som kvalifiserer for opptak etter § 2-3 tredje ledd skal tilleggspoeng for fag som nemnd i § 5-7 som er avlagt i norsk vidaregåande opplæring, reknast inn i karakterpoengsummen etter ei gjennomsnittsutrekning som om søkaren hadde 25 karakterar frå det utanlandske vitnemålet.

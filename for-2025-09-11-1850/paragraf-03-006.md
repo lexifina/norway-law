@@ -1,0 +1,3 @@
+# § 3-6. Opptak til einskilde språkfag for søkarar med samisk, kvensk og finsk tilknyting
+Universitet og høgskular kan ta opp søkarar som ikkje har generell studiekompetanse til samisk semesteremne og samisk nybyrjarkurs, dersom søkarane kan dokumentere samisk tilknyting. Institusjonen fastset nærare reglar for å dokumentere krav om tilknyting.
+Universitet og høgskular kan ta opp søkarar som ikkje har generell studiekompetanse til årseining i kvensk eller semesteremne i finsk, dersom søkarane kan dokumentere høvesvis kvensk eller finsk tilknyting. Institusjonen fastset nærare reglar for å dokumentere krav om tilknyting.

@@ -1,0 +1,2 @@
+# § 5-12. Kvotar for sikre eit visst antal studentar av begge kjønn
+Når særskilde omstende gjer det ønskeleg, og vilkåra i likestillings- og diskrimineringsloven om positiv særbehandling er oppfylt, kan departementet fastsette kvotar på einskilde studium for å jamne ut skilnader, oppnå meir likestilling mellom kjønna og sikre at eit visst antal studentar av begge kjønn er representert på studiet og i yrket studiet fører til.

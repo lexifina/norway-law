@@ -1,0 +1,2 @@
+# § 3-3. Opptak på grunnlag av dispensasjon
+Søkarar som ikkje har oppnådd generell studiekompetanse på grunn av funksjonsnedsetting har rett til å få vurdert beståtte fag opp mot eit konkret studium. Det er eit vilkår at søkaren kan dokumentere at det har vore umogleg for dei å oppfylle einskilde av dei krava ein normalt må oppfylle for å få generell studiekompetanse. Dersom dispensasjonsvurderinga viser at søkaren har dei nødvendige faglege føresetnadene for det konkrete studiet, er søkaren kvalifisert for opptak til dette studiet.

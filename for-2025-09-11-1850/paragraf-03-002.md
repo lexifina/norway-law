@@ -1,0 +1,3 @@
+# § 3-2. Opptak på grunnlag av realkompetanse
+Søkarar som er 25 år eller eldre i opptaksåret og som ikkje har oppnådd generell studiekompetanse og ikkje er kvalifisert for opptak etter føresegnene i §§ 3-4 til 3-7, har rett til å få vurdert sin realkompetanse opp mot eit konkret studium. Dersom realkompetansevurderinga viser at søkaren har dei nødvendige faglege føresetnadene for det konkrete studiet, er søkaren kvalifisert for opptak til dette studiet.
+Med realkompetanse siktar ein til kunnskap, ferdigheiter og generell kompetanse søkar har tileigna seg uavhengig av læringsarena gjennom formell, ikkje-formell og uformell læring.

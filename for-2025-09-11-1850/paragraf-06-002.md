@@ -1,0 +1,4 @@
+# § 6-2. Behandling av personopplysningar i opptaket
+Institusjonane og Direktoratet for høgare utdanning og kompetanse kan innhente opplysningar om namn, fødselsnummer eller d-nummer, arbeidserfaring og vitnemål og annan dokumentasjon på oppnådd kompetanse frå andre offentlege myndigheiter, offentlege system for vitnemål, statlege, fylkeskommunale og private utdanningsinstitusjonar, når formålet er å behandle søknad om opptak til utdanning ved universitet og høgskular som deltek i det samordna opptaket etter universitets- og høyskoleloven § 8-5 tredje ledd.
+Institusjonane og Direktoratet for høgare utdanning og kompetanse kan ta avgjerder etter heilt eller delvis automatisert saksbehandling. Søkaren kan krevje at vedtaket skal overprøvast manuelt.
+Direktoratet for høgare utdanning og kompetanse er behandlingsansvarleg for den nasjonale opptakstenesta.

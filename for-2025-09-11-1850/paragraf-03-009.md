@@ -1,0 +1,6 @@
+# § 3-9. Opptak på vilkår på grunn av dokumentert fråvær ved eksamen
+Søkarar som har dokumentert fråvær ved eksamen, jf. opplæringsforskrifta § 9-36, kan få opptak til høgare utdanning på vilkår av at søkaren har karakteren to eller betre i standpunktkarakter og består eksamenen ved første avhaldne eksamen etter opptaket. Det er ein føresetnad for opptak at søkarane oppfyller spesielle opptakskrav med sin standpunktkarakter.
+Søkarar som får opptak etter første ledd, kan ikkje få reservert studieplassen til seinare opptak.
+Studentar med opptak etter første ledd som ikkje fyller opptakskrava til studiet innan den fastsette fristen, mistar studieplassen og studieretten.
+Studentar som går opp til eksamen i eit studium dei har fått opptak til etter første ledd, får ikkje utteljing i studiepoeng for denne eksamenen utan at opptakskrava er oppfylte.
+Institusjonar som gir opptak etter første ledd, skal så langt det er mogleg og rimeleg legge til rette for at studenten både kan gå opp til eksamen i vidaregåande opplæring, og gjennomføre studiet. Dersom institusjonane ikkje kan legge til rette på denne måten, skal studenten få forlenge studieretten på same vilkår til neste gong det blir arrangert eksamen i det aktuelle faget i vidaregåande opplæring.
