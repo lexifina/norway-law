@@ -1,0 +1,2 @@
+# § 1
+Forskriften får anvendelse i et område innenfor de eksisterende 500 meters sikkerhetssoner rundt Statfjord C plattform med tilhørende lastebøye, og området mellom disse, avgrenset av to parallelle linjer tangensialt på sikkerhetssonene.UTMGEOGRAFISKEKOORDINATERKOORDINATERStatfjord C6.976.479 N61° 17′ 47″, 696 NPlattform441.196 Ø01° 54′ 09″, 151 ØStatfjord C6.794.766 N61° 16′ 51″, 80 NLastebøye440.164 Ø01° 53′ 01″, 80 Ø
