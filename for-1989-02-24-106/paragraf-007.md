@@ -1,0 +1,2 @@
+# § 7. Krigsskade på penger, verdipapirer og verdigjenstander
+Får kommunen melding om at penger, verdipapirer som aksjer, obligasjoner o.l. eller verdigjenstander som gull, edle stener, kunstverk er gått tapt ved krigshending, bør den såvidt mulig søke å sikre bevis. Den bør oppfordre melderen til å sannsynliggjøre tapet best mulig, ved å gjøre rede for sin besittelse av gjenstandene, ved vitneutsagn o.l.
