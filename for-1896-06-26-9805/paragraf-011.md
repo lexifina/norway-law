@@ -1,0 +1,2 @@
+# § 11
+Efterat Approbation paa Afhændelsen er meddelt, bliver behørigt Skjøde at utfærdige, hvorefter dette ledsaget af de i nærværende Forskrifters § 1 eller 10 omhandlede Dokumenter, samt – i Tilfælde – Pantobligation til Stamhuset for den Del af Løsnings- eller Kjøbesummen, som skal blive indestaaende i Bruget eller Parcellen, bliver at indsende til Justitsdepartementet for at forsynes med foreskrevne Paategninger, jfr. den citerede Lovs § 3 og § 8 tredie Passus.

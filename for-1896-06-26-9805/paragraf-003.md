@@ -1,0 +1,2 @@
+# § 3
+Findes der efter sidste Leilænding Livsarving, som efter Lov af 23de Juni 1888 § 5 har Ret til at indløse Bruget eller Parcellen efter Taxt eller har Forkjøbsret til samme, bliver Bekjendtgjørelse om det paatænkte Salg og – i Tilfælde – om det gjorte Underhaandsbud at læse 1 Gang fra Kirkebakken i det Hoved- eller Unnersogn, hvori Bruget eller Parcellen er beliggende. Bekjendtgjørelsen bliver at forsyne med Lensmandens Paategning om, hvor og naar Læsning har fundet Sted.
