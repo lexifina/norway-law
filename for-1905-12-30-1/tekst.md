@@ -1,0 +1,1 @@
+Kongelig Resolution, hvorved bestemmes, at det til offentlig Brug bestemte Kongevaaben skal – som i et fremlagt Udkast – bestaa af Rigsvaabenets Skjold paa den kongelige Hermelinskaabe, der holdes af den norske Kongekrone. Kongevaabenets Skjold er omgivet af St. Olafsordenens Kjede. Kaaben og Kronens Hætte er purpurfarvet
