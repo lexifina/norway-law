@@ -1,0 +1,4 @@
+# § 5-5. Gevinst ved salg av næringstomt
+1) Denne paragraf gjelder gevinst ved salg eller tap av tomt som er brukt som driftsmiddel i næring.
+2) Er gevinst avsatt etter § 45 tiende ledd tredje punktum, kan salgssummen eller erstatningen nyttes til reinvestering i avskrivbart driftsmiddel eller på tomt som skal brukes i næring. Dette gjelder også driftsmiddel som er ervervet samme år som salget eller tapet finner sted uavhengig av om anskaffelsen skjer før eller etter salgs- eller tapstidspunktet. Gevinsten skal nedskrives på driftsmidlet i samme forhold som salgssummen eller erstatningen er benyttet.
+3) Fristen for reinvestering er 4 år, jfr. § 45 ellevte ledd b. Gevinst skal nedskrives på den første næringstomt som erverves, jfr. § 45 tiende ledd c. Dette gjelder ikke når gevinsten er anvendt tidligere år etter reglene ellers i denne paragraf.

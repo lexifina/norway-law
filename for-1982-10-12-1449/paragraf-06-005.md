@@ -1,0 +1,3 @@
+# § 6-5. Avskrivningsgrunnlaget for forretningseiendom
+Gevinst samt avsetning etter lov av 19. juni 1969 nr. 72 og etter lov av 14. februar 1962 nr. 1, som nyttes til nedskrivning på forretningseiendom etter at skattyter har gått over til nye avskrivningsregler, reduserer avskrivningsgrunnlaget, jfr. § 3-2 i disse forskrifter. Gevinst m.v. som er nyttet til slik nedskrivning før overgangen, reduserer ikke avskrivningsgrunnlaget.
+Har faste installasjoner som skal avskrives sammen med bygningen etter § 3-2, tidligere vært avskrevet særskilt, skal kostprisen på installasjonene inngå i bygningens avskrivningsgrunnlag.
