@@ -1,0 +1,3 @@
+# § 4.
+Trygdet arbeidsinntekt beregnet etter yrkesskadetrygdlovens § 57 nr. 3 avrundes ned til nærmeste hele kronebeløp som er delelig med hundre.
+Ved fastsettingen av fradrag etter yrkesskadetrygdlovens §§ 12 nr. 3 annet til femte ledd og 19 nr. 1 annet til fjerde ledd skal beregningen av den tilleggspensjon som svarer til trygdet arbeidsinntekt skje ved hjelp av et poengtall. Poengtallet framkommer ved at trygdet arbeidsinntekt fratrekkes grunnbeløpet og deretter divideres med grunnbeløpet. Poengtallet pr. 1. januar 1980 i den enkelte stønadssak skal benyttes også ved framtidige justeringer av fradragene som følge av endringer i grunnbeløpet.
