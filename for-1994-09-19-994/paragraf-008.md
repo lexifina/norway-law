@@ -1,0 +1,2 @@
+# § 8. Deltakere
+Den som er ansvarlig for virksomheten plikter å se til at deltakerne er skikket for å delta i rafting. Deltakernes alder, vannfølelse, fysikk, helse og praktiske ferdigheter skal vurderes i forhold til den strekning som skal raftes. Deltakere, som skal rafte høyere vanskelighetsgrader, skal 1) ha en viss trening i og erfaring fra rafting på lavere grader, 2) ha utvist gode ferdigheter og 3) ha gjennomgått trening i egenredning.

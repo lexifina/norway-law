@@ -1,0 +1,2 @@
+# § 9. Deltakernes utstyr
+Den som er ansvarlig for virksomheten plikter å se til at deltakerne minst er utstyrt med følgende verneutstyr: drakt som beskytter ved opphold i vann, egnet fottøy, utstyr for tilstrekkelig friksjon mellom drakt og farkost, utstyr for oppdrift i vann og utstyr til vern mot slag av utsatte kroppsdeler. Når forholdene tilsier det, skal drakter som dekker hele kroppen være tilgjengelig.
