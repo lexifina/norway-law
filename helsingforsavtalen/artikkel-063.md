@@ -1,0 +1,3 @@
+# Art 63.
+Ministerrådets beslutninger er bindende for de enkelte land. Beslutning vedrørende spørsmål som etter et av landenes forfatning krever godkjennelse av den folkevalgte forsamling, er dog ikke bindende for dette land før den folkevalgte forsamling har godkjent beslutningen. Hvis slik godkjennelse kreves, skal Ministerrådet underrettes om dette før Ministerrådet treffer beslutningen. Før den folkevalgte forsamlings godkjennelse foreligger, er heller ikke noe annet land bundet av beslutningen.
+Beslutning truffet i overensstemmelse med denne overenskomst er bindende for Færøyene, Grønland og Åland i den utstrekning de slutter seg til beslutningen i samsvar med selvstyreordningene.
