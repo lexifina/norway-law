@@ -1,0 +1,3 @@
+# § 19. Opplysningsplikt
+Offentlig myndighet i stat med utenrikshandel som konferansen betjener eller der et av medlemmene hører hjemme, kan kreve overlevert konferanse- og trafikkdelingsavtaler med endringer og andre dokumenter som gjelder avtalen.
+Departementet kan til bruk for norske myndigheters behandling av en sak som utspringer av anvendelsen av eller gjennomføringen av reglene i loven og forskriftene, kreve at konferansen eller i tilfelle norsk medlem av denne uten ugrunnet opphold gir opplysninger om de forhold saken gjelder, når departementet finner at slike opplysninger er påkrevet for å kunne ivareta norske skipsfarts- eller transportbrukerinteresser. Tilsvarende gjelder norsk transportbruker eller transportbrukerorganisasjon som saken angår.

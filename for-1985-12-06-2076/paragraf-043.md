@@ -1,0 +1,4 @@
+# § 43. Dekning av transportbehov
+Konferansen bør påse at medlemslinjene sørger for regelmessig, egnet og effektiv varetransport av det omfang transportbehovet tilsier, på de ruter den betjener. Konferansen skal planlegge seilingene slik at opphopning av skip og for store mellomrom mellom anløpene så vidt mulig unngås, og ta hensyn til om særlige tiltak trengs for å møte sesongmessige variasjoner i lastemengden.
+Konferansen og andre parter nevnt i § 46, bør holde seg orientert og ha et nært samarbeid om forhold vedrørende transportbehovet, trafikkavviklingen og særlig mulighetene for å rasjonalisere og effektivisere denne. Innsparinger bør i rimelig omfang komme til uttrykk i fraktratenivået.
+Transportbrukerne bør gi rimelig varsel om tilgang på last i havner som bare betjenes av konferansen når et minstekvantum foreligger.

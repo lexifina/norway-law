@@ -1,0 +1,2 @@
+# § 39. Innføring av eksportfremmende fraktrater
+En konferanse bør innføre særskilte fraktrater for å fremme transporten av nye eksportvarer fra stater konferansen betjener. Når ratene fastsettes, skal det tas hensyn til vilkårene for handel med slike varer fra disse stater, særlig hva angår utviklingsland og kystløse stater, samt til konkurranseforvridende virkninger for eksporten av tilsvarende varer fra andre stater betjent av konferansen. § 28 gjelder tilsvarende.

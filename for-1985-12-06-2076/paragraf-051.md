@@ -1,0 +1,3 @@
+# § 51. Linjefart mellom OECD-stater
+I linjefart mellom OECD-stater kan transportbrukere og linjerederier fra disse stater ikke kreve at tvister dem imellom undergis internasjonal megling for så vidt annen behandlingsmåte er avtalt. De skal dessuten benytte seg fullt ut av den mulighet som § 50 tredje ledd gir til å få tvisten løst på annen måte enn ved internasjonal megling.
+Departementet kan bestemme at første ledd ikke skal gjelde fart mellom Norge, Finland, Sverige, Danmark eller øvrige EF-stater og en annen OECD-stat, dersom denne stat ikke gjør tilsvarende regler gjeldende for slik fart.

@@ -1,0 +1,4 @@
+# § 17. Avstemning og vedtak
+Konferanseavtalens regler om vedtak skal bygge på at alle linjerederier med fullt medlemskap står likt ved avstemninger og skal ikke vanskeliggjøre konferansens arbeid eller avvikling av trafikken. Det skal angis hvilke vedtak som krever enstemmighet.
+Dersom konferanseavtalen angir at en sak skal anses å gjelde samhandelen mellom to stater og samtidig fastsetter at en beslutning i saken krever samtykke fra de to grupper av nasjonale linjer i disse stater, anses vedtak likevel ikke truffet før begge grupper har gitt sin tilslutning. De to grupper av nasjonale linjer skal samordne sine synspunkter før avstemning i en slik sak.
+Annet ledd gjelder ikke i fart mellom OECD-stater. Departementet kan likevel bestemme at annet ledd skal gjelde i fart mellom Norge, Finland, Sverige, Danmark eller de øvrige EF-stater og annen OECD-stat.

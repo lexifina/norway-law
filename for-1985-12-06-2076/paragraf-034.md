@@ -1,0 +1,4 @@
+# § 34. Forhøyelsens varighet i visse fartsområder
+Når en alminnelig fraktforhøyelse gjennomføres, bør konferansen samtidig fastsette en minste gyldighetsperiode for å angi hvor lenge de nye fraktratene skal forbli gjeldende uten endringer. Selv om dette er gjort, kan særlige frakttillegg kreves etter reglene i §§ 35 til 38.
+Gyldighetsperioden behandles under konsultasjonene etter § 31. Oppnås det ikke enighet om noe annet, må det gå minst 10 måneder fra det tidspunkt fraktforhøyelsen trådte i kraft før det kan gis forhåndsvarsel etter § 30 om ny alminnelig fraktforhøyelse.
+Første og annet ledd gjelder ikke linjefart mellom OECD-stater. Departementet kan likevel fastsette at bestemmelsene skal gjelde fart mellom Norge, Finland, Sverige, Danmark eller øvrige EF-stater og en annen OECD-stat, dersom denne stat gjør tilsvarende regler gjeldende for slik fart.

@@ -1,0 +1,3 @@
+# § 30. Forhåndsvarsel
+Før en alminnelig fraktforhøyelse skal konferansen gi forhåndsvarsel til transportbrukerne og deres organisasjoner eller representanter, samt når det kreves, til offentlig myndighet i de stater konferansen betjener. Varselet skal være på minst 150 dager eller i samsvar med regional praksis eller avtale, og skal så godt som mulig angi forhøyelsens omfang, ikrafttreden og begrunnelse.
+Dersom den del av en stats utenrikshandel som fraktes av konferansen på en bestemt rute, består vesentlig av ett eller noen få vareslag, skal forhøyelsen av raten for ett eller flere av disse vareslag anses som alminnelig fraktforhøyelse.

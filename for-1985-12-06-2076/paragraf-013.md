@@ -1,0 +1,6 @@
+# § 13. Krav om trafikkdeling
+I konferanser uten trafikkdelingsordning kan hver gruppe av nasjonale linjer kreve at det blir fastsatt trafikkdeler etter § 11 eller innført annen tilsvarende ordning for den samhandel mellom de to stater som fraktes av konferansen.
+Kravet avgjøres av konferansen innen 6 måneder etter mottakelsen. Oppnås ikke enighet, har gruppene av nasjonale linjer flertall ved avgjørelsen av om ordningen skal innføres.
+Er gruppene av nasjonale linjer uenige om det skal fastsettes trafikkandeler etter § 11, kan de i stedet kreve gjennomført annen ordning som vil gi dem vesentlig samme fordeler. Tilsvarende krav kan fremsettes dersom det i konferansen ikke deltar noen nasjonal linje fra den ene av de to stater.
+Konferansen skal gjøre sitt beste for å imøtekomme krav etter tredje ledd. Imøtekommes ikke kravet, kan de offentlige myndigheter i de to stater drøfte spørsmålet og i tilfelle gjøre partene kjent med sine synspunkter. Oppnås ikke enighet kan tvisten kreves behandlet etter reglene i kapittel 7.
+Et linjerederi som ikke er nasjonal linje, kan også foreslå at det innføres en trafikkdelingsordning. Forslag behandles av konferansen i samsvar med reglene i forskriftene.
