@@ -1,0 +1,4 @@
+# § 3-6. Medhjelperens godtgjørelse.
+Medhjelperen godtgjøres etter den timesats som Justisdepartementet har fastsatt etter forskrift 26. oktober 1992 om salær fra det offentlige til advokater m v (salærforskriften) § 3. Det gis godtgjørelse for hver påbegynt halvtime. Det gis ikke godtgjørelse for reisefravær. Om fravikelse av timesatsen og nedsettelse gjelder salærforskriften § 6 tilsvarende. Medhjelperens legitimerte utgifter utover de utlegg som dekkes av timesatsen, kan dekkes i den utstrekning utgiftene er rimelige og har vært nødvendige for saken.
+Om salæroppgave gjelder salærforskriften § 4 første og annet ledd tilsvarende. Salæroppgaven innleveres til namsmannen som fastsetter godtgjørelsen. Nærmere regler om anvisning og utbetaling gis ved rundskriv.
+Om klage over namsmannens salærfastsettelse gjelder tvangsfullbyrdelsesloven § 5-16, jf. gjeldsordningsloven § 7-5.
