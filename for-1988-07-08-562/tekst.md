@@ -1,0 +1,1 @@
+Statens Reindriftsskule, Statens skogskule Steinkjer, Statens skogskule Brandbu, Statens skogskule Evenstad og Statens landbruksmaskinskule Blæstad førast ut av lov om fagskulane i landbruket sitt virkeområde.
