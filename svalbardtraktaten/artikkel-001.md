@@ -1,0 +1,2 @@
+# Art 1.
+De høie kontraherende parter er enig om å anerkjenne under de vilkår som er fastsatt i nærværende traktat Norges fulle og uinnskrenkede høihetsrett over Spitsbergenøgruppen, som foruten Bjørnøya eller Beeren-Eiland omfatter alle øer mellem 10° og 35° lengde øst for Greenwich og mellem 74° og 81° nordlig bredde, særlig: Vest-Spitsbergen, Nordostlandet, Barents' Øy, Edge-Øy, Kong Karls Land. Hopen eller Hopen-Eiland og Prins Karls Forland tillikemed alle de øer, holmer og skjær, som hører dertil (se det vedføiede kart).
