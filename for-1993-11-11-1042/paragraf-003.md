@@ -1,0 +1,4 @@
+# § 3
+Om kva det han gjevast stønad til Transportstønad kan gjevast som:
+1) Direkte tilskott i kr. pr. m3. Direkte tilskott kan gjevast til skogsvirke og flis hogd av skogsvirke. Det kan og gjevast tilskott til transport av sekundærvirke frå sagbruksindustrien. Fylkesmannen fastset tilskottssatsane for dei enkelte sortiment innafor ramma av tildelt beløp. Tilskott ut over 20 % av gjeldande virkespris for vedkommande sortiment, krev førehandsgodkjenning av Landbruksdepartementet. Vanlegvis skal det ikkje gjevast tilskott til tømmertransport frå område som ligg innafor kjøparbedriftas naturlege forsyningsområde.
+2) Investeringstilskott til anlegg som fører til meir rasjonell og rimeleg langtransport. Fylkesmannen kan med godkjenning frå departementet gje tilskott til fellestiltak som sikrar avsetnad, fremjar rasjonell levering og fører til rimelegare langtransport.
