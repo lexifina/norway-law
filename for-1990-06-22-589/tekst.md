@@ -1,0 +1,5 @@
+# I
+Finans- og tolldepartementet har 22. juni 1990 med hjemmel i lov 14. juli 1950 nr. 10 om valutaregulering, opphevet forskrifter av 29. juli 1955 med senere endringer, gitt med hjemmel i lov om valutaregulering, med virkning fra 1. juli 1990.
+# II
+Finans- og tolldepartementets myndighet etter lov om valutaregulering ble samtidig delegert til Norges Bank.
+Endringen trer i kraft straks.
