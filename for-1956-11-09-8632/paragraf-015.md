@@ -1,0 +1,4 @@
+# § 15. Samanslåing med andre sjøtrygdelag.
+Sjøtrygdelaget kan verta samanslått med eit anna eller fleire andre sjøtrygdelag. I så fall må styret utarbeida framlegg til avtale om samanslåinga som mellom anna skal innehalda framlegg om eventuelle endringar i vedtektene og tidspunkt for gjennomføringa av samanslåinga.
+Samanslåinga kan skje ved at trygdingane saman med aktiva og passiva vert førte over til det sjøtrygdelaget som skal halda fram. Framlegg om avtale om samanslåinga med eventuelle vedlegg skal godkjennast av medlemsmøtet, og må for å vera gyldige vedtakast med det fleirtal som er fastsett i § 14, 1. leden vedkomande endringar i vedtektene.
+Dei tilsette skal orienterast om avtalen vedkomande samanslåinga. Avtale om samanslåinga og endringar i vedtektene tek ikkje til å gjelda før dei er godkjende av Forsikringsrådet.
