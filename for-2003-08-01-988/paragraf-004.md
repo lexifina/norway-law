@@ -1,0 +1,2 @@
+# § 4
+Personer med bruttoinntekt eller tilsvarende næringsinntekt under kr 70.000,- pr. år betaler ikke tilleggsandel. Denne grensen forhøyes med kr 10.000,- for personer som faktisk forsørger ektefelle eller andre, og når det skal tas hensyn til ektefellens eller andres økonomiske situasjon (jf. rettshjelploven § 8 annet og tredje ledd). Videre forhøyes grensen med ytterligere kr 10.000,- dersom personen forsørger barn. Grensen forhøyes følgelig med kr 20.000,- for personer som både forsørger ektefelle eller andre og barn, eller er aleneforsørger.
