@@ -1,0 +1,7 @@
+# I
+I forskrift 2. juli 2007 nr. 877 om kjøre- og hviletid og fartsskriver for vegtransport i EØS gjøres følgende endring:
+Ny § 2a skal lyde:
+§ 2a. Innenlands godstransport med kjøretøy over 2 500 kg
+Innenlands godstransport med kjøretøy der største tillatte masse, medregnet vekten av tilhenger eller semitrailer, overstiger 2 500 kg, skal fra 1. april 2027 være omfattet av forordning (EF) nr. 561/2006. Kjøretøy omfattet av forordning (EF) 561/2006 er også omfattet av bestemmelsene om fartsskriver, jf. forordning (EU) 165/2014 om bruk av fartsskriver innen vegtransport artikkel 3 nr. 1.
+# II
+Endringen trer i kraft 1. april 2027.
