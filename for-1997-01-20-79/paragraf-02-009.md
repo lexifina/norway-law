@@ -1,0 +1,3 @@
+# § 2-9. Uriktig beregnet gjenanskaffelsesverdi
+Skattyter som ved ligningen benytter uriktig gjenanskaffelsesverdi kan ilegges tilleggsskatt etter bestemmelsene i ligningsloven § 10-2.
+Dersom gjenanskaffelsesverdi for et driftsmiddel er uriktig fastsatt, kan NVE foreta ny fastsettelse. Bestemmelsene i ligningsloven § 9-6 gjelder tilsvarende. Ved slik omgjøring skal NVE varsle driftsmidlets eiere og vedkommende ligningsmyndigheter. Dersom den uriktig fastsatte gjenanskaffelsesverdi har vært lagt til grunn ved ligningen, kan ligningen endres etter ligningsloven kapittel 9. Ved retting av gjenanskaffelsesverdi kan skattyter velge at anskaffelseskostnad isteden legges til grunn, selv om selvangivelsesfristen er utløpt.

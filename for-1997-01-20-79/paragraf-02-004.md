@@ -1,0 +1,3 @@
+# § 2-4. Grunnlaget for NVEs beregninger
+NVE fastsetter driftsmidlets gjenanskaffelsesverdi på grunnlag av opplysninger innhentet etter bestemmelsene i denne forskriften samt øvrige opplysninger som foreligger.
+Dersom opplysninger som kreves i skjema eller utbes etter § 2-2 ikke gis innen de fastsatte frister, avgjør NVE hvilke faktiske forhold som skal legges til grunn for beregningene. Det samme gjelder dersom det ikke er medvirket til besiktigelse som nevnt i § 2-2. Grunnlaget for beregningene kan videre fastsettes ved skjønn dersom NVE finner at de innhentede opplysninger er uriktige eller ufullstendige.
