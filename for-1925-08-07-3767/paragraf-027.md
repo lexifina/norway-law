@@ -1,0 +1,4 @@
+# § 27
+1. Arbeidsgiveren er forpliktet til å skaffe sine arbeidere sundt og forsvarlig husrum og i den utstrekning forholdene tillater det å sørge for sanitære innretninger.Nærmere forskrifter om bebyggelsen og husenes innretning utferdiges av vedkommende departement. Departementet kan også, når behov foreligger, pålegge arbeidsgiveren å holde forsamlingslokale og en passende samling av bøker i et sprog som arbeiderne forstår.
+2. Arbeidsgiveren er forpliktet til å ha til stede ved anlegget de fornødne lægemidler, kirurgiske instrumenter og forbindingssaker.Nærmere forskrifter herom utferdiges av vedkommende departement.
+3. Departementet kan pålegge arbeidsgiveren å holde et for øiemedet tjenlig sykehus med isolasjonslokale og fornødent utstyr og betjening, beregnet på et så stort antall pasienter som departementet bestemmer. Når departementet finner det påkrevet, plikter arbeidsgiveren dessuten å sørge for lægehjelp på stedet.

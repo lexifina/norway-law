@@ -1,0 +1,3 @@
+# § 28
+1. Arbeidsgiveren er forpliktet til å sørge for at der på den tid av året da forbindelsen med utenverdenen kan ventes avbrutt ved isforholdene er til stede ved anlegget de beholdninger av proviant, klær og andre livsfornødenheter som hans arbeidere trenger til minst ett års opphold. Beholdningene fordeles i betryggende depoter.Nærmere forskrifter til gjennemførelse av disse bestemmelser utferdiges av vedkommende departement.
+2. Politichefen kan i fornødent fall påby eller selv iverksette hjemsendelse av så mange arbeidere som han finner bydende nødvendig forat beholdningene skal være tilstrekkelig for de gjenværendes opphold.Klage har ikke opsettende virkning.
