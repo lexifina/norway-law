@@ -1,0 +1,2 @@
+# § 1
+Den som er antatt som stevnevidne og tidligere ikke har avlagt ed eller forsikring som stevnevidne skal før han begynner å gjøre tjeneste gi forsikring om, at han samvittighetsfullt vil opfylle sine plikter som stevnevidne og at han vil bevidne den rene sannhet om de forkynnelser som blir overdratt ham. Dette gjelder også de ansatte i politiet og fengselstjenestemenn som det blir overdratt å utføre forkynnelser.
