@@ -1,0 +1,2 @@
+# § 25. Liming og forsegling.
+Leverandøren av materialet skal kunne foreskrive et limstoff som ikke skader refleksmaterialet eller underlaget, og som gir tilstrekkelig god vedheft under de påkjenninger som er nevnt i denne spesifikasjonen. Leverandøren skal også foreskrive en best mulig forsegling av kantene på refleksmaterialet, fordi den største faren for nedbryting kommer fra inntrengning av væsker langs kantene.
