@@ -1,0 +1,2 @@
+# Art 11.
+Den ene høie kontraherende parts undersåtter skal på den annen høie kontraherende parts territorium nyte godt av fullstendig samme behandling som den sistnevnte parts egne undersåtter for så vidt angår fri rettshjelp for fattige og fengsling for gjeld; og forutsatt at de bor innen et av disse territorier, skal de ikke plikte å stille sikkerhet for saksomkostninger i noe tilfelle hvor den annen høie kontraherende parts egne undersåtter ikke vilde ha plikt til det.
