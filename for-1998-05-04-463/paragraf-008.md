@@ -1,0 +1,2 @@
+# § 8
+Dersom eit apparat vert bode fram for sal, leige eller kjøp på avbetaling på dei vilkåra som er fastsette i § 14 i forskrift av 10. januar 1996 nr. 16 om angivelse av husholdningsapparaters energi- og ressursforbruk ved hjelp av merking og standardiserte vareopplysninger, og ved hjelp av ei trykksak, til dømes ein postordrekatalog, skal trykksaka innehalde alle dei opplysningane som er gjevne i vedlegg III til denne forskrifta.
