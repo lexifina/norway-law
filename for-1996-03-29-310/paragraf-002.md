@@ -1,0 +1,2 @@
+# § 2
+Innenfor området som vil bli endelig fastlagt av Oljedirektoratet forbys oppankring og fiske med bunnredskaper som bunntrål og snurrevad.Innretningens endelige betegnelser og posisjoner er:Undervanns-UTMGeografiskeinnretningkoordinaterkoordinaterP7 212 875,0 N65° 01′ 22,8″ N400 079,0 Ø6° 52′ 44,6″ ØL7 225 879,0 N65° 08′ 18,0″ N395 983,0 Ø6° 46′ 57,0″ ØK7 225 489,0 N65° 08′ 01,3″ N392 416,0 Ø6° 42′ 24,6″ ØG7 220 500,1 N65° 05′ 17,6″ N390 139,8 Ø6° 39′ 44,3″ Ø
