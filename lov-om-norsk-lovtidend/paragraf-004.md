@@ -1,0 +1,2 @@
+# § 4
+Kongen kan gi nærmere regler om utgivelse og drift av Norsk Lovtidend og om andre måter for staten til å formidle kunnskap om innholdet av lover og forskrifter. Det kan fastsettes at databaser og lignende der slikt lov- og forskriftsmateriale inngår som en vesentlig del, ikke skal være gjenstand for utlegg eller arrest og ikke skal kunne overdras eller pantsettes uten departementets samtykke.
