@@ -1,0 +1,1 @@
+I medhold av lov om Norges økonomiske sone av 17. desember 1976 nr. 91 § 4 bokstav d og § 7 bokstav c og e bestemmes at lov av 14. juni 1985 nr. 68 om oppdrett av fiske, skalldyr m.v. med umiddelbar virkning gis anvendelse i Norges økonomiske sone.
