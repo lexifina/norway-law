@@ -1,0 +1,2 @@
+# § 3
+Avgjerd om foreldreansvar, om kvar barnet skal bu fast og samvær frå tida før lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tek til å gjelde, står framleis ved makt til den i tilfelle vert endra. Ei sak som er avgjort av doms- eller styringsmakt etter dei tidlegare reglane, kan bringast inn for retten som endringssak. Retten skal handsame saka etter dei nye reglane der saka vert teken opp for retten etter at lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tok til å gjelde.
