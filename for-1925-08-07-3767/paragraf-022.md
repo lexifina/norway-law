@@ -1,0 +1,5 @@
+# § 22
+1. Driften av enhver grube skal foregå bergmessig.
+2. Den eller de menn som skal forestå den tekniske ledelse på stedet må ha den for stillingen nødvendige fagkunnskap og erfaring.
+3. Drift må ikke uten tillatelse av eier eller bruker åpnes på de steder hvor søkning efter § 7, post 5, er forbudt. Drift under dagen kan heller ikke finne sted på disse steder medmindre bergmesteren finner at driften er av sådan art eller foregår på en sådan måte at den ikke kan forårsake synkninger eller på annen måte kan være til skade for de i dagen værende bygninger eller anlegg. Er vedkommende bygning eller anlegg opført efterat utmålsforretningen er blitt endelig, er tillatelse som foran nevnt dog ikke nødvendig.Forat drift skal kunne åpnes eller finne sted under dagen innenfor den i § 7, post 5, nevnte avstand fra offentlig eller videnskapelig anlegg, kirke eller kirkegård, utkreves tillatelse av Kongen.
+4. Ved enhver bedrift som sysselsetter ikke-norske arbeidere skal der være minst én funksjonær som forstår og kan gjøre sig forståelig på norsk og i tilfelle på det fremmede sprog som er almindelig brukt ved gruben.

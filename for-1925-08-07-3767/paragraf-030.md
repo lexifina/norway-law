@@ -1,0 +1,3 @@
+# § 30
+1. Nettooverskuddet av den handel med arbeiderne som arbeidsgiveren selv eller gjennem andre driver eller er interessert i på stedet skal efter revidert årsregnskap anvendes til almennyttig øiemed for arbeiderne. Anvendelsen fastsettes av arbeidsgiveren i forening med et av arbeiderne opnevnt utvalg, som i tilfelle av tvist kan forlange saken forelagt til avgjørelse av politichefen. Ved beregningen av nettooverskuddet er arbeidsgiveren berettiget til å fratrekke en rimelig rente av den kapital han har nedlagt til anlegg av handelsbod.
+2. Bestemmelsen i post 1 gjelder også hvis arbeidsgiveren har nogen fortjeneste på sitt underhold av arbeiderne på Spitsbergen (Svalbard).
