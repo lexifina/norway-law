@@ -1,0 +1,2 @@
+# § 11. Ikrafttredelse
+Denne forskriften trer i kraft 1. januar 1997. Samtidig oppheves forskrift av 2. september 1996 nr. 843 om innkreving av omsetningsavgift på kjøtt av storfe, svin og sau, forskrift av 22. november 1993 nr. 1059 om innkreving av avgift ved omsetning av egg, forskrift av 22. november 1993 nr. 1060 om innkreving av avgift ved omsetning av fjørfeslakt samt forskrift av 3. oktober 1959 nr. 1 om oppkreving og betaling av avgift på rå, uberedte skinn av rev og mink som er alet i pelsdyrgård.
