@@ -1,0 +1,2 @@
+# § 1
+Lov 20. juni 2003 nr. 40 om endringer i barneloven mv. skal som hovudregel leggjast til grunn for saker som kjem inn etter at lova tek til å gjelde. For saker for domstolane vil dette normalt vere når stemning kjem inn. I ei rettssak som går når lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tek til å gjelde, skal likevel ny § 31 i barnelova leggjast til grunn dersom hovudforhandling ikkje allereie er byrja.

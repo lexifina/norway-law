@@ -1,0 +1,2 @@
+# § 2
+Ei sak som på den tid då lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tek til å gjelde, allereie er teken opp for handsaming av ei avgjerdsmakt som ikkje lenger kan ta mot slike saker, kan få si avgjerd der. Dette gjeld så lenge saka ikkje er endeleg avgjort. Sak for fylkesmannen eller departementet skal handsamast etter dei tidlegare reglane, men slik at ny § 31 i barnelova skal leggjast til grunn dersom vedtak ikkje er fatta.
