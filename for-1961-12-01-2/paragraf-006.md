@@ -1,0 +1,2 @@
+# § 6. Alminnelig bestemmelse om valg av sikringsmidler
+Ved valg av sikringsmidler skal det tas sikte på å verne samfunnet mot nye lovbrudd fra den domfelte. Så langt det er forenlig med dette hensyn skal det også tas sikte på å fremme den domfeltes sosiale tilpasning og hans muligheter for å føre et lovlydig liv. I den forbindelse skal/bør en særlig se hen til at sikringsdømte, som har behov for det, får et adekvat behandlingstilbud, jfr. §§ 7 og 8.

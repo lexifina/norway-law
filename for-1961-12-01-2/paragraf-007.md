@@ -1,0 +1,7 @@
+# § 7. Sikring i frihet etter straffelovens § 39.1 a-d
+Av sikringsmidlene som er nevnt i straffelovens § 39.1 a-d, kan flere anvendes samtidig.
+Ved sikring i frihet bør den sikringsdømte som regel stilles under tilsyn (§ 39.1 b). I så fall gjelder Regler om tilsyn med lovbrytere, gitt av Justisdepartementet 1. desember 1961.
+Når en arbeidsfør person sikres i frihet, bør han om nødvendig få hjelp til å komme i ordnede bolig- og arbeidsforhold. Det kan stilles som vilkår for en fri sikringsform at den sikringsdømte retter seg etter de pålegg og kontrollbestemmelser som blir fastsatt for ham.
+Sikringsdømte som ikke kan forsørge seg selv, bør ved eventuell sikring i frihet gis et vernet boligtilbud og nødvendig støtte av sosiale myndigheter eller anbringes i privat forpleining (§ 39.1 d). Sikrede som trenger særlig tilsyn, omsorg eller behandling bør såvidt mulig gis opphold i institusjon eller på behandlingssted, jfr. § 39.1 a. Ved forpleining skal det på særskilt skjema opprettes kontrakt mellom politimesteren på forpleiningsstedet og forpleieren. Utgiftene ved forpleiningen dekkes av staten, etter at fylkesmannen på anbringelsesstedet på forhånd har godkjent utgiftene.
+Om utgiftene gjelder de regler som er gitt om dette.
+Blir sikringsdømte som er dømt for alvorlige forbrytelser, sikret etter § 39.1 a-d, skal den myndighet som setter beslutningen i verk, underrette politiet på anbringelsesstedet.
