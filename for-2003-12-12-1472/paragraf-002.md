@@ -1,0 +1,3 @@
+# § 2. Oppreisning etter frihetsberøvelse
+En siktet som har vært pågrepet eller varetektsfengslet har rett til oppreisning etter følgende satser, dersom han blir frifunnet eller forfølgningen mot ham blir innstilt: kr 1500 for første påbegynte døgn hvis frihetsberøvelsen varer i mer enn 4 timer, og kr 1500 for annet påbegynte døgn regnet fra tidspunktet for pågripelsen.
+Deretter tilkjennes kr 400 i oppreisning for hvert påbegynte døgn med frihetsberøvelse. Holdes den siktede i politiarrest, er satsen likevel kr 1500 for hvert påbegynte døgn i politiarresten også der oppholdet overstiger to døgn.
