@@ -1,0 +1,3 @@
+# § 16. Utfyllende bestemmelser.
+Lønns- og prisdepartementet kan gi nærmere bestemmelser om Prisdirektoratets organisasjon og virksomhet, herunder om forholdet til departementet.
+Til utfylling og gjennomføring av resolusjonen og de bestemmelser som departementet måtte gi, fastsetter prisdirektøren nærmere bestemmelser, herunder bestemmelser om stedfortreder for prisdirektøren, bestemmelser om saksfordelingen mellom avdelingene og kontorene, bestemmelser om samvirket mellom kontorene, bestemmelser om særoppdrag for bestemte tjenestemenn utenom kontororganisasjonen, bestemmelser om post- og arkivordningen og bestemmelser om kasseforretninger og regnskapsførsel.

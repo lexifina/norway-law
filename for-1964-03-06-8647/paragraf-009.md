@@ -1,0 +1,2 @@
+# § 9. Inngrep mot mislige former for konkurranse.
+Prisdirektoratet skal også i den utstrekning det finner grunn til det, overvåke enkeltstående ervervsdrivendes konkurranseformer. Dersom foretatt undersøkelser viser at det foreligger mislig konkurranse som bør foranledige forbud eller andre tiltak etter prisloven, treffer Prisdirektoratet bestemmelse om inngrep. I saker der avgjørelsen anses av prinsipiell betydning eller av særlig viktighet, bør direktoratet legge saken fram for departementet.
