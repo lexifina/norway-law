@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Forskriften gjelder for bestemte former for undervisningsvirksomhet som innebærer innesluttet bruk av genmodifiserte mikroorganismer ved videregående skoler, høgskoler og universiteter som utfører laboratorieøvelser med genmodifiserte mikroorganismer i samsvar med vedlegg I. Den genmodifiserte mikroorganismen skal ikke innebære noen risiko for skade/sykdom på mennesker, dyr, planter eller miljø.
