@@ -1,0 +1,5 @@
+# § 5
+Overdrager og erverver av leiegård som omfattes av kommunens forkjøpsrett, skal straks gi skriftlig melding til kommunen. Departementet kan ved forskrift bestemme hvilke opplysninger meldingen skal inneholde, og hvilken kommunal instans meldingen skal sendes til.
+Hverken overdrager eller erverver kan disponere rettslig over leiegården etter det tidspunkt forkjøpsrett kan gjøres gjeldende. De kan derfor ikke foreta seksjonering, påhefte leiegården servitutter, inngå nye leiekontrakter eller foreta andre rettslige disposisjoner uten samtykke fra kommunen. De kan heller ikke foreta byggearbeider eller andre påkostninger utover nødvendig vedlikehold uten kommunens samtykke. Disposisjonsforbudet gjelder ikke tinglysing av skjøte eller kjøpekontrakt i tilknytning til den overføring som utløste forkjøpsretten.
+Overdrager og erverver kan kreve at kommunen erstatter husleietap som følge av disposisjonsforbudet.
+Overdrager og erverver av leiegård som omfattes av kommunens forkjøpsrett plikter å vedlikeholde leiegården fram til overskjøting til kommunen finner sted.
