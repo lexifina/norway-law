@@ -1,0 +1,3 @@
+# Art 3.
+Den myndighet som skal iverksette inndrivingen kan, hvis det finnes nødvendig, kreve bevis for at dommen, kjennelsen, beslutningen eller avtalen oppfyller de vilkår for fullbyrdelse som gjelder etter artikkel 1, annet ledd. Bevis utferdiges av den myndighet som er fastsatt i artikkel 2, annet ledd i den stat hvor dommen, kjennelsen eller beslutningen er avsagt eller avtalen inngått.
+Er underholdsbidraget ikke fastsatt til et bestemt beløp i dommen, kjennelsen, beslutningen eller avtalen, eller kreves det fullbyrdelse for et høyere beløp enn der fastsatt, kan bevis også kreves for bidragets størrelse i samsvar med reglene i første ledd.
