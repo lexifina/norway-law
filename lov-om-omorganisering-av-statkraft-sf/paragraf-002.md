@@ -1,0 +1,3 @@
+# § 2. Overføring av eiendeler, forpliktelser mv.
+Overføring av forpliktelser fra Statkraft SF til selskaper som nevnt i § 1 i forbindelse med overføring av Statkrafts virksomhet skjer med frigjørende virkning for Statkraft SF. De overførte forpliktelsene kan heller ikke gjøres gjeldende mot staten. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen og kan ikke gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.
+Første ledd gjelder ikke for lån som faller inn under statens ansvar etter avsnitt III nr. 2 i lov 20. desember 2002 nr. 88 om endringer i lov 30. august 1991 nr. 71 om statsforetak mv.
