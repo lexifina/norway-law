@@ -1,0 +1,5 @@
+# § 3. Endringene i panteloven
+Endringene i panteloven ved tvangsfullbyrdelsesloven 26 juni 1992 nr 86 § 16-3 annet ledd nr 131 gjelder for panteretter som stiftes etter 1 januar 1993.
+Panteloven ny § 1-15 gjelder også for panteretter stiftet før 1 januar 1993 når panthaveren etter 1 januar 1993 kjøper pantet under inndrivelse av pantekravet.
+Panteloven ny § 5-14 gjelder også for namsutlegg stiftet før 1 januar 1993. Fristen for å sørge for sletting løper tidligst fra 1 juli 1993.
+Panteloven § 1-5 første ledd bokstav b slik den lyder etter endringen ved tvangsfullbyrdelsesloven 26 juni 1992 nr 86, gjelder for påkrav som sendes eller tilsvarende rettslige skritt som tas etter 1 januar 1993. Virkningen av påkrav som er sendt eller tilsvarende rettslige skritt som er tatt før 1 januar 1993, varer like lenge som tidligere selv om nytt varsel er nødvendig etter 1 januar 1993, jf tvangsfullbyrdelsesloven 26 juni 1992 nr 86 § 4-19. Dersom virkningen ikke var løpt ut 1 januar 1993, og nytt varsel er nødvendig, løper virkningen tidligst ut 1 april 1993.
