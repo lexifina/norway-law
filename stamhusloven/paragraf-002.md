@@ -1,0 +1,2 @@
+# § 2
+I arvefølgen i stamhuset Jarlsberg gjøres den innskrenkning at stamhuset kun skal arves av mannlige og kvinnelige medlemmer av den nuværende norske linje av slekten Wedel Jarlsberg slik at den eldre i linjen går foran den yngre og den nærmere linjen går foran den fjernere. Er ingen sådan arving til, tilfaller stamhuset Universitetet i Oslo som fri eiendom på nærmere vilkår som Kongen bestemmer.
