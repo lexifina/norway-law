@@ -1,0 +1,2 @@
+# § 3-1. Krav til dokumentasjon
+For at et driftsmiddels anskaffelseskostnad skal kunne nyttes som grunnlag for fastsettelse av skattemessig verdi, jf. overgangsreglene bokstav A nr. 1 annet ledd, må anskaffelseskostnaden sannsynliggjøres ved revisorgodkjent regnskap for ervervsåret, eller kvittering, kjøpsavtale eller lignende dokumentasjon fra ervervsåret. Senere påkostninger må dokumenteres på tilsvarende måte.

@@ -1,0 +1,2 @@
+# § 1-3. Taushetsplikt
+Enhver som deltar eller har deltatt i Norges vassdrags- og energiverk (NVE) sitt arbeid med beregning av gjenanskaffelsesverdier etter disse bestemmelsene, plikter å hindre at uvedkommende får adgang eller kjennskap til det han/hun i sitt arbeid har fått vite om noens økonomiske, bedriftsmessige eller personlige forhold. Skriftlig erklæring om at man kjenner til og vil overholde taushetsplikten skal avgis før arbeidet påbegynnes.

@@ -1,0 +1,5 @@
+# § 4-1. Reduksjon med beregnede avskrivninger frem til 1. januar 1997
+Fastsatt gjenanskaffelsesverdi eller dokumentert anskaffelseskostnad reduseres med beregnede avskrivninger i perioden fra erverv av driftsmiddelet og til 1. januar 1997, før den kan legges til grunn som skattemessig inngangsverdi for driftsmidlet. Som ervervsår regnes året for første gangs idriftsettelse av driftsmidlet.
+Beregnede avskrivninger skal utgjøre summen av de maksimalt tillatte årlige avskrivninger for vedkommende driftsmiddel fra og med ervervsåret til og med inntektsåret 1996, i henhold til de avskrivningsregler og avskrivningssatser som skal gjelde for vedkommende driftsmiddel for inntektsåret 1997. For driftsmidler som pga hjemfall avskrives etter en forhøyet sats, skal den forhøyede satsen benyttes ved fastsettelse av beregnede avskrivninger.
+Ved valg av gjenanskaffelsesverdi regnes året for første gangs erverv av driftsmidlet i kraftanlegget som ervervsår, uavhengig av eierskifter, slik at ny eier etter eierskifte tillegges tidligere eieres eiertid.
+For påkostninger beregnes avskrivninger som for selvstendig driftsmiddel.
