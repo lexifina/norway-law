@@ -1,0 +1,9 @@
+# § 1
+Eit sjøtrygdelag kan skipast når minst 10 mann gjer vedtak om det på eit skipingsmøte, og dei ti går med i laget med minst 30 vågnadseiningar og minst kr. 1.000.000 i samla trygdesum. Møter nokon av dei for andre, skal han leggja fram skriftleg fullmakt, og den lyt godkjennast samrøyst på møtet.
+Møtelyden skal velja ein møtestyrar.
+Før det vert teke avgjerd om å skipa laget, skal alle avtalar som nokon av skipingsmennene har gjort innbyrdes eller med andre om lagskipinga eller lagsverksemda, leggjast fram i original eller rettkjend avskrift, og lesast opp. Ein slik avtale gjeld ikkje utan han vert godteken av alle skipingsmennene. Avtalen må ikkje stå i strid med den vedtekta som vert fastsett. Har nokon av skipingsmennene hatt utlegg som gjeld skipinga, skal ei noggrann oppgåve over dei leggjast fram på møtet og lesast opp der. Vert ikkje det gjort, kan utlegga ikkje krevjast att hjå laget.
+Laget er skipa når det er fastlege at skipingsmennene er samde om det, og dei er så mange mann som nemnt i fyrste leden og har så mange vågnadseiningar og så stor trygdesum som nemnt der. Alle skipingsmennene lyt melda seg inn i laget.
+Skipingsmennene skal så gjeva vedtekt for laget. Alle skipingsmennene lyt vera einige i vedtekta.
+Dinest skal det veljast tillitsmenn i samsvar med vedtekta. Kvar som er med, har ei røyst for kvar vågnadseinig som han har meldt inn, og dessutan kan han røysta etter fullmakt for like mange vågnadseiningar. Men ingen kan ha meir enn 3 røyster ihoplagt. Står røystene likt, vert det halde lutdraging.
+Det skal førast møtebok på skipingsmøtet. I den skal gjevast opplysing om alt som er framlagt på møtet, alle vedtaka skal førast inn, og heile vedtekta. Møteboka skal lesast opp når møtet skal slutta, og alle skipingsmennene som er der, skal skriva under.
+Styret skal senda utskrift av møteboka til Trygderådet så snart som råd, og seinast innan 2 veker.
