@@ -1,0 +1,4 @@
+# § 5
+Tenestemålet for eit lokalt statsorgan skal samsvare med målvedtaket i den kommunen som er tenestekrins for organet. Tenestemålet skal nyttast i skriv til alle statlege organ.
+Tenestemålet for eit regionalt statsorgan skal samsvare med fleirtalsmålforma for kommunane i tenestekrinsen. Utrekning av fleirtalsmålforma skal følgje reglane i lov om målbruk i offentleg teneste § 7. I skriv frå det regionale statsorganet til lokale statsorgan skal tenestemålet til det lokale statsorganet nyttast. I skriv frå det regionale statsorganet til alle andre statsorgan skal tenestemålet til det regionale statsorganet nyttast.
+Sentrale statsorgan er språkleg nøytrale. Eit sentralt statsorgan som skriv til eit anna språkleg nøytralt organ, står fritt i val av målform. I skriv til eit regionalt statsorgan skal tenestemålet til det regionale statsorganet nyttast. I skriv til det lokale statsorgan skal tenestemålet til det lokale statsorganet nyttast.
