@@ -1,0 +1,7 @@
+# § 3. Metoder for prisangivelse
+Følgende metoder for prisangivelse kan anvendes:
+1) Prisangivelse
+a) ved listepris fritt verk, eller
+b) ved listepris fastsatt på grunnlag av annet basispunkt enn det sted hvor det leverende verk ligger.
+2) For salg til avtakere i Norge kan prisangivelse skje etter bestemmelsessted.
+3) Tilpasning i nedadgående skala inntil den lavere pris som gjelder for kjøper i henhold til annet foretaks prisliste eller, dersom publiseringsplikten ikke gjelder, til en konkurrents faktisk anvendte priser og salgsvilkår. Den enkelte bedrift kan bare velge et basispunkt for hvert produkt. Finner Konkurransetilsynet at basispunktet er unaturlig, kan foretaket pålegges å endre basispunkt. Det skal gis skriftlig melding til Konkurransetilsynet om det basispunkt prisen er basert på. Priser angitt etter bestemmelsessted må være forenlige med og stå i rimelig forhold til priser som foretaket angir på grunnlag av sitt valgte basispunkt for leveranser til områder hvor Traktaten om opprettelse av Det Europeiske Kull- og Stålfellesskap får anvendelse. Foretak som gjør gjeldende at pristilpasning er foretatt i samsvar med første ledd nr. 3, skal på anmodning fra Konkurransetilsynet kunne godtgjøre at vilkårene for pristilpasning er tilstede, og at forskriftene for øvrig er overholdt. Det er forbudt for fabrikk å anvende lavere priser ved leveranse fra eget lager enn ved direkteleveranser.

@@ -1,0 +1,4 @@
+# § 8. Salg ved mellommann
+Foretak skal påse at mellommann som selger varer for foretakets regning følger forskriftenes §§ 2 og 3 og også foretakets prislister eller priser og salgsvilkår samt transporttillegg.
+Samme plikt har produksjonsforetak overfor en felles salgsorganisasjon som er etablert for salg av foretakenes produkter og overfor salgsforetak som er avhengig av produksjonsforetaket og som er gitt i oppdrag stadig å selge foretakets produkter under forutsetning av at dette er salgsselskapets hovedvirksomhet. Det samme gjelder mellommann som selger for slik oranisasjon eller slikt salgsforetaks regning.
+Dersom foretaket har grunn til å anta at mellommann, organisasjon eller salgsforetak som beskrevet ovenfor, ikke følger anvisninger gitt i samsvar med disse forskrifter, skal foretaket ikke lenger selge ved denne mellommann.
