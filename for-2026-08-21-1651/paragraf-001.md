@@ -1,0 +1,3 @@
+# § 1. Inntektstap frem til og med det året den skadelidte fyller 21 år
+Erstatning etter skadeserstatningsloven § 3-2a annet ledd fastsettes til et antall G som regulert i følgende tabell:Overgangserstatning (aldersjustert)Den skadelidtes alder på skadevirkningstidspunktetErstatning (G)04,914,925,035,045,155,265,275,385,395,4105,5115,5125,6135,7145,6155,6165,6175,5185,1
+Ved lavere medisinsk invaliditet enn 40 prosent reduseres erstatningen slik:Medisinsk invaliditetErstatning35-39 %80 % av full overgangserstatning30-34 %70 % av full overgangserstatning25-29 %60 % av full overgangserstatning20-24 %50 % av full overgangserstatning15-19 %40 % av full overgangserstatning10-14 %30 % av full overgangserstatningMindre enn 10 %Ingen overgangserstatning

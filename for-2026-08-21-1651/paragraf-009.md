@@ -1,0 +1,2 @@
+# § 9. Overgangsregler
+Forskriften gjelder for tilfeller der den erstatningsbetingende hendelsen finner sted etter at forskriften har trådt i kraft. Forskriften gjelder også for tilfeller der den erstatningsbetingende hendelsen har funnet sted før ikrafttredelsen, dersom oppgjøret ikke fullt ut er avsluttet ved forskriftens ikrafttredelse. Oppgjøret anses avsluttet når partene har kommet til enighet, det er truffet rettskraftig avgjørelse, eller betalingsforpliktelsen er gjort opp etter skadeserstatningsloven § 3-2a tredje ledd nytt syvende punktum.
