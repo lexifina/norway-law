@@ -1,0 +1,2 @@
+# § 11
+Garantistillelse for lån til skolebygg begrenses til de tilfelle hvor det er klart at finansieringen av et høyt prioritert skolebygg ellers ikke vil kunne ordnes. Garantien gis i den form at banken innestår for at forfalne renter og avdrag blir betalt slik at forpliktelsen til å stille de forfalne terminer med etterrenter til disposisjon for kreditor blir effektiv etter varsel fra kreditor med 3 måneders frist.
