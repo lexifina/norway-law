@@ -1,0 +1,2 @@
+# Art XI.
+Denne overenskomst skal ratifiseres. Ratifikasjonsdokumentene skal utveksles i Oslo. Overenskomsten skal tre i kraft 1 måned etter dagen for utveksling av ratifikasjonsdokumentene, og skal gjelde i 3 år fra den dag den trer i kraft. Hvis ingen av de kontraherende parter minst 6 måneder før utløpet av den nevnte 3-årsperiode har underrettet den annen ad diplomatisk veg om at den har til hensikt å bringe overenskomsten til opphør, skal denne forbli i kraft inntil 6 måneder har forløpt fra den dag da en av de kontraherende parter har gitt slik underretning.
