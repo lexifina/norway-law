@@ -1,0 +1,2 @@
+# § 4
+Retten kan fastsette nærmere vilkår for hvordan fotograferingen eller opptaket skal gjennomføres. Det kan herunder blant annet bestemmes at fotografering eller opptak bare skal kunne skje under bestemte deler av hovedforhandlingen, eller at det bare skal kunne foretas fotografering eller opptak bare for radio. Retten kan også bestemme at fotografi eller opptak ikke skal offentliggjøres eller at dette først skal kunne skje etter en nærmere fastsatt tid.
