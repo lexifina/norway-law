@@ -1,0 +1,3 @@
+# § 5. Fastsetting av tjenestetid for rett til full pensjon
+Kravet til tjenestetid for rett til full oppsatt alderspensjon fastsettes i samsvar med operapensjonsloven § 4 annet ledd.
+For kunstnere ved Operaen som ved operapensjonslovens ikrafttredelse har fratrådt sin kunstnerstilling med rett til oppsatt alderspensjon, skal den oppsatte alderspensjonen utgjøre en så stor del av full pensjon som forholdet mellom opptjent tjenestetid og 20 år for ballettdansere og 23 år for sangsolister og korsangere. Det samme gjelder kunstnere som ved operapensjonslovens ikrafttredelse stod i stilling, og som hadde ti år eller mindre igjen til kunstnerstillingens pensjonsalder.
