@@ -1,0 +1,1 @@
+Fiskeridirektøren har 20. september 2000 med ikrafttredelse straks fastsatt forskrift om fiske etter reker – stenging av områder i fiskevernsonen ved Svalbard, Svalbards territorialfarvann og indre farvann. Forskriften med senere endringer gjengis ikke her, men kan leses i publikasjonen «Juridiske meldinger» på Fiskeridirektoratets hjemmeside http://www.fiskeridir.no/.
