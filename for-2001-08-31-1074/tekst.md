@@ -1,0 +1,1 @@
+Med hjemmel i lov av 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger (postloven) § 7 meddeles Posten Norge BA tillatelse til å utgi og godta bruk av frimerker og andre frankeringsmidler der Norge eller Noreg forekommer. Tillatelsen trer i kraft 1. oktober 2001 og gjelder inntil videre.
