@@ -1,0 +1,4 @@
+# § 4
+Blir fondsmidler som er avsatt etter lovens kapitler II og III anvendt til anskaffelse av driftsmidler som nevnt i landsskatteloven § 44, byskatteloven § 38, begges første ledd, bokstav c, eller til betaling av ertsforekomster, jfr. landsskatteloven § 47, byskatteloven § 44, begges annet ledd, kan den skattepliktige kreve fradrag for ekstraordinær avskrivning på driftsmidlet eller forekomsten med et beløp svarende til det som er tatt fra vedkommende fond, forutsatt at anskaffelsen er i samsvar med de vilkår som gjelder for vedkommende fondsavsetning.
+Ved avskrivning som nevnt i foregående ledd, får lovens § 5, siste ledd, tilsvarende anvendelse.
+Fradrag for avskrivninger som nevnt i første ledd og i lovens § 5, annet ledd, reduserer ikke det fradrag som i det enkelte år kan kreves for ordinær avskrivning, dog slik at de samlede fradrag ikke kan overstige kostprisen.

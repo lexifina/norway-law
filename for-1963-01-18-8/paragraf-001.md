@@ -1,0 +1,2 @@
+# § 1
+Næringsdrivende selskaper (konsortier) som nevnt i landskattelovens § 20, byskattelovens § 15, begges annet ledd, kan foreta fondsavsetninger som omhandlet i lov nr. 1 av 14. desember 1962. Avsetningene beregnes på grunnlag av den samlede selskapsinntekt som kommer til beskatning hos interessentene. Krever også den enkelte interessent fradrag for fondsavsetning for vedkommende år, skal det ved beregningen av dette avsetningsbeløp gjøres fradrag for en forholdsmessig del av selskapets avsetning.
