@@ -1,0 +1,2 @@
+# § 8. Erklæringer fra anlegg
+Representanter for anlegg som har kjemikalier listet opp i konvensjonens Vedlegg om kjemikalier, herunder de anlegg som driver virksomhet som ikke er forbudt i henhold til konvensjonen, plikter på begjæring fra norske myndigheter eller konvensjonens organer, å gi den informasjon om produksjonsanlegg og kjemikalier m. v. som følger av konvensjonens Verifikasjonsvedlegg del VI A, VII A, VIII A og IX A.
