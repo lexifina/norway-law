@@ -1,0 +1,3 @@
+# § 4. Ansvar
+Ansvarlig for laboratorium eller anlegg søker om godkjenning av laboratorium eller anlegg, jf. kap. 3. Ansvaret omfatter også inneslutningstiltak, sikkerhet og kontroll, jf. kap. 3 og 5. Det skal føres protokoll, og den skal på anmodning stilles til disposisjon for tilsynsmyndigheten.
+Bruker er ansvarlig for forhåndsvurdering og melding eller søknad om godkjenning av den innesluttede bruken, jf. kap. 4. Brukers ansvar omfatter også kontroll med at den innesluttede bruken er i overensstemmelse med forskriften og den godkjenning som er gitt. Det skal føres protokoll over den innesluttede bruken, og protokollen skal på anmodning stilles til disposisjon for tilsynsmyndigheten.
