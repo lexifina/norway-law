@@ -1,0 +1,1 @@
+Interimstyret for Postbanken har i perioden frem til tidspunktet for fusjonen mellom Postgiro og Norges Postbank myndighet til å foreta disposisjoner med virkning for Postbanken knyttet til gjennomføring av fusjonen, og til forberedelser av driften m.m av Postbanken f.o.m. 1. januar 1995, slik det fremgår av St.prp. nr. 38 (1993-94) og Innst. S. nr. 212 (1993-94).
