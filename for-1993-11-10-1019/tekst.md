@@ -1,0 +1,42 @@
+# I
+For Jan Mayen fastsettes følgende endringer i vegtrafikkloven og i forskrifter gitt i medhold av loven:
+Til loven § 4:
+Forskrift med hjemmel i første ledd om konkurransekjøring på veg åpen for alminnelig ferdsel gjelder ikke. Forskrift med hjemmel i første ledd om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel gjelder ikke.
+I stedet for annet ledd gjelder:
+Departementet, politimesteren i Bodø eller den han gir myndighet, kan gi særlige trafikkbestemmelser for Jan Mayen.
+Til loven § 5:
+I tillegg til tredje ledd gjelder:
+Utgift til offentlig trafikkskilt kan kreves dekket av den som er ansvarlig for vegstrekningen.
+Til loven § 6:
+Tredje til sjette ledd gjelder ikke.
+Til loven §§ 7 og 8:
+Gjelder ikke.
+Til loven § 11:
+Forskrift med hjemmel i paragrafen om godkjenning og registrering av utrykningskjøretøy gjelder ikke. Forskrift med hjemmel i § 11 om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel gjelder ikke.
+Til loven § 13:
+Annet til fjerde ledd gjelder ikke.
+Til loven §§ 14, 15 og 16:
+Gjelder ikke.
+Til loven § 17:
+Første ledd gjelder ikke.
+Til loven §§ 18, 19 og 20:
+Gjelder ikke.
+Til loven § 21:
+Annet ledd gjelder ikke.
+Til loven § 24:
+Annet til niende ledd gjelder ikke.
+Til loven §§ 26, 27 og 28:
+Gjelder ikke.
+Til loven § 31:
+Femte ledd gjelder ikke.
+Til loven § 31a:
+Annet ledd gjelder ikke.
+Til loven §§ 32, 36a, 36b, 37, 40, 40a, 40b og 41:
+Gjelder ikke.
+# II
+Myndighet som i vegtrafikkloven eller forskrift gitt i medhold av loven, er tillagt annen myndighet enn Kongen, departementet, eller – ved delegering – Vegdirektoratet, tilligger politimesteren i Bodø eller den han gir myndighet.
+Politimesteren i Bodø eller den han gir myndighet, kan fastsette generelle unntak eller unntak i enkelttilfeller fra det som er fastsatt i denne forskrift, når det er ønskelig av hensyn til de stedlige forhold.
+Generelle unntak innberettes til Vegdirektoratet.
+# III
+Denne forskrift trer i kraft 1. januar 1994.
+Samtidig oppheves bestemmelser av 14. april 1967 om vegtrafikklovgivningens gyldighet for Svalbard og Jan Mayen §§ 3 og 4.
