@@ -1,0 +1,1 @@
+Midlertidig forskrift av 19. desember 2003 nr. 1595 om sikkerhet og arbeidsmiljø for enkelte petroleumsanlegg på land og tilknyttede rørledningssystemer skal fra 1. januar 2004 gjelde for det planlagte fremtidige integrerte landanlegget i Nyhamna. Petroleumstilsynet skal være tilsynsmyndighet for dette anlegget.
