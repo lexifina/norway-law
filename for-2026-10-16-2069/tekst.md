@@ -1,0 +1,10 @@
+# I
+I forskrift 20. desember 2018 nr. 2054 om sikkerhetsklarering og annen klarering (klareringsforskriften) gjøres følgende endringer:
+§ 1 skal lyde:
+§ 1. Forvaltningsorganer med klareringsmyndighet
+Det sentrale klareringsdirektoratet klarerer nødvendige personer i forsvarssektoren og i sivile sektorer. Etterretningstjenesten og Politiets sikkerhetstjeneste klarerer personer i eller tilknyttet egen virksomhet.
+Klareringsmyndighetene kan avtale hvem av dem som skal være klareringsmyndighet i enkeltsaker og for grupper av personer.
+Er det tvil om hvem som er rett klareringsmyndighet, fastsetter det sentrale klareringsdirektoratet hvilken klareringsmyndighet som skal behandle saken.
+Personer som utøver klareringsmyndighet, skal minst ha klarering på samme nivå som klareringsanmodningene de behandler.
+# II
+Forskriften trer i kraft 1. januar 2027.
