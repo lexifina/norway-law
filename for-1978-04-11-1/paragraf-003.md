@@ -1,0 +1,3 @@
+# § 3
+Skjer transporten uten tillatelse, hvis slik kreves, eller i strid med inngått avtale eller bestemmelser som gjelder for tillatelsen, skal Tollvesenet nekte fortsatt transport. Vedtak om avvising, underretning om vedtaket og begrunnelse gis i regelen muntlig. Vedtak om avvising eller bortvising iverksettes straks.
+Kjøretøy som befinner seg i Norge, skal umiddelbart føres ut av riket. Føreren av kjøretøyet skal likevel først gis anledning til å få spørsmålet om avvising eller bortvising muntlig forlelagt for Samferdselsdepartementet. Det samme gjelder spørsmålet om oppsettende virkning av klage, og om dispensasjon fra bestemmelsene i disse forskrifter. Han skal også orienteres om retten til senere å klage skriftlig til Samferdselsdepartementet.
