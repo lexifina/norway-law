@@ -1,0 +1,3 @@
+# § 7. Offentliggjøring av prislister
+Offentliggjøring av prislister og fraktpristillegg i samsvar med §§ 4 og 6 skjer ved at listen og fraktpristillegget tilstilles Konkurransetilsynet og på oppfordring andre interesserte parter. Priser i følge liste og fraktpristillegg kan anvendes tidligst to dager etter at de er avgitt til posten. Tilsvarende bestemmelser gjelder for endringer i priser og frakttillegg.
+Avvik fra prislistene kan, under hensyntagen til bestemmelsene i forskriftenes § 2, anvendes overfor bestemte forbrukerkategorier. Slike avvik skal meldes skriftlig til Konkurransetilsynet og på begjæring til andre interesserte parter. Uten særskilt pålegg fra Konkurransetilsynet behøver slike avvik ikke medtas i prislistene.
