@@ -1,0 +1,2 @@
+# § 1
+Forskriften får anvendelse på to grupper av brønnrammer på Nornefeltet, samt langs traséene for feltinterne rørledninger og kabler. Det nordlige området omfatter en sirkel med radius på 550 meter rundt to brønnrammer og en rørledningskorridor med bredde 1050 meter inn mot sikkerhetssonen. Det sørlige området omfatter en sirkel med radius på 600 meter rundt tre brønnrammer og en rørledningskorridor med bredde 1250 meter. Områdene har følgende koordinater:
