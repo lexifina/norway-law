@@ -1,0 +1,3 @@
+# § 1
+Hvis et fremmed land begrenser eller hindrer overføring av betalingsmidler til Norge, kan Finansdepartementet treffe de bestemmelser som finnes påkrevd for at norske tilgodehavender i vedkommende land kan få dekning ved utjevning i tilgodehavender i Norge.
+Dersom det av fremmed land gjennem valutarestriksjoner legges hindringer i veien for det frie varebytte mellem dette land og Norge, kan Finansdepartementet bestemme at landets tilgodehavender i Norge bare kan anvendes til dekning av norske tilgodehavender i vedkommende land og treffe de bestemmelser som finnes påkrevd til gjennemføring herav.
