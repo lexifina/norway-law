@@ -1,0 +1,1 @@
+Den norske Regjerings Resolution, hvorved det bestemmes, at Norges Kongeflag eller det Flag, som benyttes af Kongen og den kongelige Familie, skal være et høirødt Flag, hvis Bredde skal forholde sig til dets Længde som 5 til 7 og indeholdende en opreist, kronet gylden Løve, holdende i Forlabberne en opløftet Stridsøkse med gyldent Skaft og Blad af Sølv.
