@@ -1,0 +1,2 @@
+# § 3
+Dei obligatoriske opplysningane som er fastsette i denne forskrifta, skal arbeidast ut etter målemetodane i harmoniserte standardar som det er offentleggjort tilvisingsnummer for i Tidend for Dei europeiske fellesskapa. Føresegner i denne forskrifta som krev opplysningar om støy, skal gjelde berre dersom slike opplysningar er påkravde etter artikkel 3 i rådsdirektiv 86/594/EØF. Dersom det er naudsynt, skal opplysningane arbeidast ut i samsvar med føresegnene i det førnemnde direktivet.
