@@ -1,0 +1,6 @@
+# § 9. Lovvalg i annen forsikring enn livsforsikring
+En avtale om tegning av annen forsikring enn livsforsikring står under lovgivningen i det land der risikoen består, når forsikringstakeren har vanlig bosted eller hovedsete i vedkommende land.
+Når en forsikringstaker ikke har vanlig bosted eller hovedsete i det land der risikoen består, kan partene i forsikringsavtalen velge å anvende enten lovgivningen i det land der risikoen består, eller lovgivningen i det land der forsikringstakeren har vanlig bosted eller hovedsete.
+Når en forsikringstaker utøver handels- eller industrivirksomhet eller et fritt yrke, og avtalen dekker to eller flere risikoer som gjelder disse virksomhetene og består i forskjellige land, kan partene velge mellom lovgivningen i disse land og i det land der forsikringstakeren har vanlig bosted eller hovedsete.
+Når de risikoer som dekkes av avtalen, er begrenset til skader som oppstår i et annet land enn det land der risikoen består, kan partene alltid velge lovgivningen i landet der skaden kan oppstå.
+Partenes vedtakelse av en bestemt lovgivning kan, hvis alle andre relevante omstendigheter på vedtakelsestidspunktet bare har tilknytning til ett enkelt land, ikke sette til side ufravikelige regler i dette landets lovgivning.
