@@ -1,0 +1,2 @@
+# § 13. Oppbevaring av dokumenter
+Alle sertifikater og øvrige dokumenter som er forbundet med import, eksport og handel med uslepne diamanter må oppbevares for en periode på minst 10 år regnet fra datoen for tollklarering av forsendelsen. Dokumentene skal på forespørsel uten ugrunnet opphold overgis tilsynsmyndigheten, tollmyndighetene eller annen offentlig myndighet i Norge som har som oppgave å føre kontroll med handel med uslepne diamanter.

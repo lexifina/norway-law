@@ -1,0 +1,4 @@
+# § 3. Tilsynsmyndighet
+Norges Gullsmedforbund er tilsynsmyndighet etter denne forskriften.
+Tilsynsmyndigheten skal føre kontroll med at import eller eksport av uslepne diamanter til eller fra Norge oppfyller vilkårene i KP-sertifiseringsordning. Tilsynsmyndigheten skal herunder utstede Norges sertifikater i KP-sertifiseringsordning. Utenriksdepartementet skal føre kontroll med tilsynsmyndighetens virksomhet. Tilsynsmyndigheten plikter å avgi en årlig rapport til Utenriksdepartementet om utførelsen av dens oppgaver.
+Tilsynsmyndigheten kan kreve gebyr for fremstilling, utstedelse og/eller kontroll av sertifikater og for kontroll av forsendelser med uslepne diamanter. Dette gebyret skal ikke overstige de gjennomsnittlige kostnadene tilsynsmyndigheten har med å gjennomføre vedkommende oppgaver.
