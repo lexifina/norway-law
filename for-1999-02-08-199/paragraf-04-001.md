@@ -1,0 +1,4 @@
+# § 4-1. Søknad, dokumentasjon
+Tilskudd til distribusjon av politiske partiers publikasjoner tildeles etter søknad på eget søknadsskjema. Tilskudd til informasjonsvirksomhet i de politiske partiene tildeles uten særskilt søknad.
+En publikasjon som søker om tilskudd etter forskriftens kapittel 3, må i søknaden framlegge en oppgave bekreftet av Posten eller av annet uavhengig distribusjonsselskap over antall distribuerte eksemplarer i året før tilskuddsåret. Publikasjonen må også bekrefte at den i året før tilskuddsåret i gjennomsnitt hadde en størrelse på minst 12 sider i A4-format. Søknaden skal undertegnes av publikasjonens redaktør og revisor.
+Ved første gangs søknad, eller etter anmodning fra Medietilsynet, må publikasjonen framlegge bekreftelse fra landsstyret eller tilsvarende organ i et politisk parti som oppfyller vilkårene i § 2-1 i denne forskriften, om at publikasjonen er tilknyttet partiet.
