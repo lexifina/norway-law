@@ -1,0 +1,5 @@
+# § 30. Gjennomføring av avhjelp
+Avhjelp skal skje uten kostnad og uten vesentlig ulempe for forbrukeren innen rimelig tid og uten risiko for at forbrukeren ikke får dekket sine utlegg av selgeren.
+Selgeren har ikke rett til å foreta mer enn to avhjelpsforsøk for samme mangel, med mindre det foreligger særlige grunner som gjør at ytterligere avhjelp er rimelig.
+Hvis selgerens avhjelp vil medføre at forbrukeren i mer enn en uke vil bli avskåret fra å bruke tingen, kan forbrukeren kreve å få stilt en erstatningsgjenstand til rådighet for selgerens regning. Dette gjelder likevel bare hvis kravet fremstår som rimelig sett i forhold til forbrukerens behov og den kostnad eller ulempe som selgeren påføres.
+Dersom det ikke foreligger en mangel, kan selgeren bare kreve betaling for undersøkelser som har vært nødvendige for å avgjøre om det foreligger en mangel, og betaling for reparasjon av tingen, dersom selgeren har gjort forbrukeren uttrykkelig oppmerksom på at han eller hun selv må dekke slike kostnader.

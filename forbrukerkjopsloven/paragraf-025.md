@@ -1,0 +1,2 @@
+# § 25. Opplysningsplikt om hindring
+Hindres selgeren i å oppfylle kjøpet til rett tid, skal forbrukeren gis melding om hindringen og dens virkning på muligheten for å oppfylle. Får forbrukeren ikke slik melding innen rimelig tid etter at selgeren fikk eller burde ha fått kjennskap til hindringen, kan forbrukeren kreve erstattet tap som kunne ha vært unngått om han eller hun hadde fått meldingen i tide.

@@ -1,0 +1,3 @@
+# § 48. Spesifikasjon
+Skal forbrukeren bestemme tingens form, mål eller andre egenskaper og dette ikke gjøres til avtalt tid eller innen rimelig tid etter at selgeren har oppfordret til det, kan selgeren selv gjøre det i samsvar med hva han eller hun må anta er forbrukerens interesse. Dette hindrer ikke selgeren i å gjøre gjeldende andre krav som han eller hun har.
+Selgeren må opplyse forbrukeren om de spesifikasjoner han eller hun vil bruke og gi forbrukeren en rimelig frist til å endre spesifikasjonene. Gjør ikke forbrukeren dette i tide etter å ha fått selgerens melding, blir selgerens spesifikasjoner bindende.

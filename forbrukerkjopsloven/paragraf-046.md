@@ -1,0 +1,3 @@
+# § 46. Erstatning. Rente
+Betales ikke kjøpesummen i tide, kan selgeren kreve rente av kjøpesummen etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
+Selgeren kan også kreve erstatning for det tapet han eller hun lider som følge av kontraktsbrudd fra forbrukerens side. Dette gjelder likevel ikke så langt forbrukeren godtgjør at kontraktsbruddet skyldes stans i samferdselen eller betalingsformidlingen eller annen hindring utenfor forbrukerens kontroll som han eller hun ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av. Reglene ellers i § 24 tredje og fjerde ledd gjelder tilsvarende. Erstatningen utmåles etter reglene i kapittel 11.

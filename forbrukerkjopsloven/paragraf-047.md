@@ -1,0 +1,2 @@
+# § 47. Opplysningsplikt om hindring
+Hindres forbrukeren i å oppfylle kjøpet til rett tid, skal selgeren gis melding om hindringen og dens virkning på muligheten for å oppfylle. Får selgeren ikke slik melding innen rimelig tid etter at forbrukeren fikk eller burde ha fått kjennskap til hindringen, kan selgeren kreve erstattet tap som kunne ha vært unngått om han eller hun hadde fått meldingen i tide.

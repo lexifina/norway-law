@@ -1,0 +1,5 @@
+# § 14. Risikoens overgang
+Risikoen går over på forbrukeren når tingen er levert i samsvar med § 7. Hvis leveringstiden er kommet og forbrukeren unnlater å overta en ting som er stilt til hans eller hennes rådighet, har forbrukeren likevel risikoen for tap eller skade som skyldes egenskaper ved tingen selv, for eksempel forråtnelse.
+Skal forbrukeren hente tingen på et annet sted enn hos selgeren, går risikoen over når leveringstiden er inne og forbrukeren er kjent med at tingen er stilt til hans eller hennes rådighet på leveringsstedet.
+Risikoen går ikke over på forbrukeren før det ved merking, transportdokument eller på annen måte er gjort klart at tingen er tiltenkt forbrukeren.
+Er en ting kjøpt og levert på prøve eller for øvrig med rett til tilbakelevering, har forbrukeren risikoen for tingen inntil den igjen er overtatt av selgeren. Dette gjelder likevel ikke når forbrukeren har rett til å levere tingen tilbake etter angrerettloven eller tilsvarende angrefrist etter avtale om forbrukerkjøp.

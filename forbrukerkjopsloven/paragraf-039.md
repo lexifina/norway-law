@@ -1,0 +1,3 @@
+# § 39. Sted for betaling
+Kjøpesummen skal betales på selgerens forretningssted. Dersom selgeren har mer enn ett forretningssted, legges det forretningsstedet til grunn som har nærmest tilknytning til kjøpet, med hensyn til slike forhold som partene forutsatte på den tid da kjøpet ble inngått. Dersom selgeren ikke har forretningssted med tilknytning til kjøpet, legges selgerens bosted til grunn. Dersom betaling skal skje mot overlevering av tingen eller et dokument, skal det gjøres på det stedet der overleveringen skjer.
+Selgeren svarer for økte kostnader i forbindelse med betalingen som skyldes at forretningsstedet er flyttet etter at kjøpet ble inngått.
