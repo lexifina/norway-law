@@ -1,0 +1,2 @@
+# § 6. Samfunnsmessige og etiske vurderinger
+Ved søknad om godkjenning etter § 5 tredje ledd skal det foretas en vurdering av de samfunnsmessige og etiske aspekter ved virksomheten, med en særlig vekt på formålet med virksomheten. Søknaden skal inneholde de opplysninger som er nødvendige for at godkjenningsmyndighetene skal kunne foreta en slik vurdering, og brukers egen vurdering skal fremgå av søknaden.
