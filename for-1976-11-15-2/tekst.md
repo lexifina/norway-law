@@ -1,0 +1,2 @@
+Bestemmelsene i vegtrafikkloven § 6 annet og sjette ledd om maksimalhastighet får ikke anvendelse ved kjøring som foretas for prøving av bremser på kjøretøy i samsvar med Vegdirektoratets Bestemmelser om kjøretøy, Hovedgruppe 15. Det er en forutsetning at kjøringen skjer på trygg måte og at den foretas på avstengt område utenfor veg etter skriftlig oppdrag fra Vegdirektoratet.
+Vedtaket trer i kraft straks.
