@@ -1,0 +1,3 @@
+# § 16. Generalforsamlingens valg av medlemmer til bedriftsforsamlingen
+Siste ordinære generalforsamling før utløpet av funksjonstiden for de medlemmer de tilsatte har valgt til bedriftsforsamlingen skal fastsette antall medlemmer i bedriftsforsamlingen og velge sine medlemmer og eventuelle vararepresentanter til denne, hvorav ett medlem utpekes til å innkalle til det første møte i bedriftsforsamlingen.
+Dersom det er tatt initiativ til å inngå avtale om å avvikle bedriftsforsamlingen, jf § 31 kan generalforsamlingens vedtak og valg i henhold til denne paragraf foretas med forbehold eller utsettes. Har slik utsettelse funnet sted, og slik avtale ikke inngås med de tilsatte må ekstraordinær generalforsamling innkalles.
