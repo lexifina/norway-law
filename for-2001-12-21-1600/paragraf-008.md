@@ -1,0 +1,5 @@
+# § 8. Krav til inneslutningsnivå
+Laboratorier og anlegg klassifiseres i inneslutningsnivå 1, 2, 3 og 4, hvor 1 er laveste inneslutningsnivå. Minstekrav til inneslutningstiltak fremgår av tabell i vedlegg I C, I D og I F. I visse tilfeller kan det være nødvendig å anvende en kombinasjon av tiltak fra tabellene.
+Dersom det er tvil om hvilket inneslutningsnivå og inneslutningstiltak som er hensiktsmessig for en planlagt innesluttet bruk, skal de strengeste vernetiltakene anvendes, med mindre tilstrekkelig bevis, etter avtale med vedkommende myndighet, gjør det berettiget å anvende mindre strenge tiltak.
+For laboratorier og anlegg i alle inneslutningsnivåer skal levedyktige mikroorganismer minst innesluttes i et system som fysisk atskiller dem fra miljøet (lukket system).
+Laboratoriet og anlegget skal være egnet til formålet, utstyrt og innredet for de funksjoner og operasjoner som skal utføres, slik at arbeidsplassen og miljøet utsettes for det lavest praktisk mulige nivå av GMM og slik at høyt sikkerhetsnivå er garantert.
