@@ -1,0 +1,3 @@
+# § 18.
+Overskot når laget er oppløyst, skal nyttast så:
+..................................................
