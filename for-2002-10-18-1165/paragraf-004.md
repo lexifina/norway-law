@@ -1,0 +1,2 @@
+# § 4
+Denne forskrift trer i kraft 1. november 2002. Samtidig oppheves Prisdirektoratets dispensasjon av 27. mars 1961 fra forskrifter om konkurransereguleringer av priser og avanser av 1. juli 1960. Videre oppheves dispensasjonene fra konkurranseloven § 3-1 og § 3-2 for sentraler i følgende fylker og kommuner: Oslo, Akershus, Drammen, Lier, Nedre Eiker, Røyken, Hurum, Trondheim, Bergen, Askøy, Fjell, Sund, Stavanger, Randaberg, Sola, Sandnes, Kristiansand, Søgne, Songdalen og Vennesla.
