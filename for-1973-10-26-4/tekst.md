@@ -1,0 +1,2 @@
+I medhold av lov 13. august 1915 nr. 7 om tvangsfullbyrding § 3 følgende forskrifter om bekreftelse av underskrift på gjeldsbrev som er umiddelbart tvangsgrunnlag etter denne lovbestemmelse:
+3. Namsmyndigheten kan godta et gjeldsbrev som tvangsgrunnlag etter lovens § 3 nr. 6 selv om underskriften ikke er bekreftet på foreskreven måte, såfremt det finnes ubetenkelig fordi mangelen etter forholdene har mindre betydning, og det for øvrig er klart for namsmyndigheten at underskriften er ekte.
