@@ -1,0 +1,2 @@
+# § 9
+Arbeidsgiveren er ved dødsfall, når dette er en følge av ulykken og senest er inntrådt innen ett år regnet fra den dag ulykken inntraff, forpliktet til en gang for alle å betale avdødes efterlatte kr 7.500,-. Fra denne sum blir dog å trekke hvad avdøde i årets løp måtte være utbetalt i invalideerstatning. Erstatning tilkommer kun avdødes hustru, barn og pleiebarn under 15 år når avdøde kan regnes som deres forsørger. Om erstatning skal ydes, avgjøres i tvilstilfelle av Sosialdepartementet.
