@@ -1,0 +1,4 @@
+# Art 48.
+Danmarks rikes delegasjon består av de medlemmer som er valgt av folketinget og de representanter som er utpekt av regjeringen samt av Færøyenes og Grønlands delegasjoner som nevnt i annet avsnitt. Finlands delegasjon består av medlemmer som er valgt av riksdagen og de representanter som er utpekt av regjeringen samt av Ålands delegasjon nevnt i annet avsnitt. Delegasjonen for hvert av de øvrige land består av de medlemmer som er valgt av den folkevalgte forsamling og de representanter som er utpekt av regjeringen.
+Færøyenes delegasjon består av de medlemmer som er valgt av lagtinget og de representanter som er utpekt av landsstyret. Grønlands delegasjon består av de medlemmer som er valgt av landstinget og de representanter som er utpekt av landsstyret. Ålands delegasjon består av de medlemmer som er valgt av lagtinget og de representanter som er utpekt av landskapsstyrelsen.
+Med «delegasjon» forstås i artikkel 58, annet avsnitt, landets delegasjon.

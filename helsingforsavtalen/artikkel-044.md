@@ -1,0 +1,2 @@
+# Art 44.
+I Nordisk Råd samarbeider de nordiske lands samt Færøyenes, Grønlands og Ålands folkevalgte forsamlinger, landenes regjeringer samt Færøyenes og Grønlands landsstyrer og Ålands landskapsstyrelse. Rådet kan ta initiativ og gi råd i spørsmål som angår samarbeid mellom alle eller noen av disse land og Færøyene, Grønland og Åland, og har for øvrig de oppgaver som fremgår av denne og andre avtaler.

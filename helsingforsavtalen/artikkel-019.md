@@ -1,0 +1,2 @@
+# Art 19.
+Avtalepartene har til hensikt så langt det er mulig å fremme et produksjons- og investeringssamarbeid mellom sine land og herunder søke å legge forholdene til rette for direkte samarbeid mellom foretak i to eller flere av de nordiske land. Avtalepartene bør som ledd i et videre internasjonalt samarbeid søke å oppnå en hensiktsmessig arbeidsdeling mellom landene når det gjelder produksjon og investeringer.
