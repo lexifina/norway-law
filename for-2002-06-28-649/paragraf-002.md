@@ -1,0 +1,2 @@
+# § 2. (pålegg, vilkår mv. gitt i medhold av naturvernforskriften og arealplanforskriften)
+For virksomhet som er igangsatt i henhold til forskrift om vern av naturmiljøet på Svalbard av 16. desember 1983 nr. 1818 (naturvernforskriften) eller forskrift om arealplanlegging i bosettingene på Svalbard av 24. januar 1997 nr. 37 (arealplanforskriften), skal pålegg, vilkår mv. gitt i medhold av forskriftene fortsatt gjelde.
