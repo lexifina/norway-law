@@ -1,0 +1,3 @@
+# § 3. Definisjon
+1. Med næringsmiddelimitasjoner menes produkter som på tross av at de ikke er næringsmidler har en form, lukt, utseende, farge, presentasjonsform, merking, størrelse, volum el. som gjør at de, særlig av barn, kan forveksles med næringsmidler.
+2. Med farlige næringsmiddelimitasjoner menes produkter som er nevnt i § 3, nr. 1 dersom disse utgjør en risiko for helseskade. Det skal særlig vurderes om barn vil kunne foreta en slik forveksling og derved putte dem i munnen, suge på dem, inhalere dem el., og dette kan medføre fare i form av kvelning, forgiftning, perforering eller blokkering av spiserøret osv.
