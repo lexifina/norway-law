@@ -1,0 +1,3 @@
+# § 7. Datakvalitet, dataintegritet og tilgjengelighet
+Veiesystemet skal sikre høy datakvalitet og dataintegritet. Komponenter og programvare i veiesystemet som har avgjørende betydning for å lagre veiedata og hendelser i veiesystemet, skal være konstruert slik at de er sikret mot manipulering og utilsiktet feilbruk. De anvendte sikkerhetstiltakene skal gjøre det mulig å påvise om inngrep har funnet sted. Alle hendelser og informasjon om gjennomførte veiinger skal lagres sammen med et sikkert tidsstempel.
+Lagrede veiedata og data om hendelser i vekten skal sikres slik at dataene ikke går tapt.
