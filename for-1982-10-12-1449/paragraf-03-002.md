@@ -1,0 +1,3 @@
+# § 3-2. Avskrivningsgrunnlaget
+1) Fast installasjon som må anses som en del av forretningseiendom, skal avskrives sammen med bygningen. Dette gjelder installasjoner som varmeanlegg, kjøle- og fryseanlegg, elektriske anlegg, sanitæranlegg, heisanlegg, o.l.
+2) Avskrivning på forretningseiendom beregnes av kostprisen og senere påkostning. Gevinst som nyttes til nedskrivning på forretningseiendom, reduserer likevel avskrivningsgrunnlaget, jfr. § 45 ellevte ledd c. Det samme gjelder nedskrivning etter § 7 i distriktsskatteloven og nedskrivning etter § 5 i lov av 14. desember 1962 nr. 1, samt bidrag som nevnt i § 44A nr. 7 første punktum.
