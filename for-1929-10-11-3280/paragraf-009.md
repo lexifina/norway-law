@@ -1,0 +1,2 @@
+# § 9
+Arbeidsgiveren er ved dødsfall, når dette er en følge av ulykken og senest er inntrådt innen ett år regnet fra den dag ulykken inntraff, forpliktet til én gang for alle å betale avdødes efterlatte 2 års lønn, beregnet som i § 8 fastsatt, dog ikke under kr 7.500. Fra denne sum blir dog å trekke hvad avdøde i årets løp måtte være utbetalt i invaliditetserstatning. Erstatning tilkommer kun avdødes hustru, barn eller pleiebarn under 15 år, når avdøde på ulykkestiden var deres forsørger.
