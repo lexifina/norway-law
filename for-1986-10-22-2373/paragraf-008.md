@@ -1,0 +1,2 @@
+# § 8. Orientering til nærstående slektninger
+Ved henvendelse til siktedes pårørende, jf. straffeprosessloven § 122, skal disse gjøres oppmerksom på formålet med undersøkelsen. De skal gjøres kjent med sin rett til ikke å forklare seg for personundersøkeren. De skal videre gjøres kjent med at de opplysningene som gis vil komme til siktedes kunnskap ved at han gjør seg kjent med personundersøkelsen eller ved at opplysningene brukes under rettsforhandlingene.
