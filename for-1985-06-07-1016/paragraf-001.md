@@ -1,0 +1,3 @@
+# § 1
+Når det etter sjøfartsloven § 372 første ledd kan foretas innføring i skipsbyggingsregisteret, foretas innføringen ved skipsregisteret i Tromsø når byggestedet ligger i Møre og Romsdal, Sør-Trøndelag, Nord-Trøndelag, Nordland, Troms eller Finnmark fylke. Ligger byggestedet i et annet fylke, foretas innføringen ved skipsregisteret i Stavanger.
+Når det etter sjøfartsloven § 372 annet ledd kan foretas innføring i skipsregisteret, foretas innføringen ved skipsregisteret i Tromsø for så vidt innretningen er plassert nord for 62 breddegrad, og ved skipsregisteret i Stavanger for så vidt den er plassert sør for 62 breddegrad.
