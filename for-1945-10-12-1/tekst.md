@@ -1,0 +1,1 @@
+I forhold til lovgivningsbestemmelser m.v. som knytter rettsvirkninger til frigjøringen, okkupasjonens opphør, avslutningen av alminnelig våpenstilstand eller fiendtlighetenes opphør skal som det avgjørende tidspunkt gjelde kl. 00.01 9 mai 1945 (dagjeldende norsk tid).
