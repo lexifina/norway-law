@@ -1,0 +1,3 @@
+Med heimel i § 3 første leden i lov frå 16. juni 1961 om rettshøve mellom grannar vert det fastsett desse føresegnene om målingsmåten:
+Trehøgda skal målast i loddrett line frå grunnen der treet (stomnen) står og til høgste punktet i trekrona.
+Fråstandet til hus, hage, tun eller dyrka jord på granneeigedomen skal målast i vassrett line frå næraste ytterkant på trestomnen. Når trestomnen ikkje hallar nemnande, kan målet takast i ei lagleg høgd frå bakken, men elles skal målet takast i ei høgd som svarar til halve trehøgda (sjå ovanfor) eller – om sjølve stomnen er lågare – i høgd med øvste punktet på stomnen.
