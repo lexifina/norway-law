@@ -1,0 +1,3 @@
+# § 2
+Afhændelsen er undergivet Approbation af det Regjeringsdepartement, Kongen dertil bemyndiger. Dette har at vaage over, at Stamhusets Formue ikke ved Afhændelsen forringes.
+Til Veiledning ved Approbation har Stamhusbesidderen at indgive til Departementet en Forklaring over vedkommende Gaardsbrugs eller Parcels Matrikulskyld, Beliggenhed, omtrentlige Størrelse af Indmark, Udmark og Skov, Rettigheder, Tilliggelser, Herligheder og paahvilende Byrder, hvad der paa samme antages at kunne saaes og fødes, de samme tilhørende Huses Antal og Forfatning samt, hvad Stamhusbesidderen af Bruget har oppebaaret i Indtægt af enhver Art.
