@@ -1,0 +1,5 @@
+# § 4
+Det skal flagges ved statlige virksomheter på de offisielle flaggdager. Flagging skal skje ved bruk av statsflagget.
+De offisielle flaggdager er:1. januar1. nyttårsdag21. januarH.K.H. Prinsesse Ingrid Alexandras fødselsdag6. februarSamefolkets dag21. februarH.M. Kong Harald Vs fødselsdag1. maiOffentlig høytidsdag8. maiFrigjøringsdagen 194517. maiGrunnlovsdagen7. juniUnionsoppløsningen 19054. juliH.M. Dronning Sonjas fødselsdag20. juliH.K.H. Kronprins Haakon Magnus' fødselsdag29. juliOlsokdagen19. augustH.K.H. Kronprinsesse Mette-Marits fødselsdag25. desember1. juledagBevegelig1. påskedagBevegelig1. pinsedagBevegeligDagen for Stortingsvalg
+Dessuten kan der også flagges med statsflagg ved andre høytidelige og festlige anledninger innen nasjonen eller kongehuset og ved offisielle besøk av medlemmer av kongehuset og av utenlandske statsoverhoder og fyrstelige personer, samt når det av hensyn til vedkommende statsinstitusjon utøvende virksomhet anses særlig viktig eller ønskelig.
+Derimot må statsflagget ikke heises ved høytideligheter av helt privat karakter uten i forbindelse med vedkommende statsinstitusjons utøvende virksomhet.
