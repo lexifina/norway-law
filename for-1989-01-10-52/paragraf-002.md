@@ -1,0 +1,2 @@
+# § 2.
+Varer som ikke er lisenspliktige etter § 1, kan utføres uten særskilt tillatelse fra Utenriksdepartementet dersom de ikke omfattes av departementets forskrifter av 10. januar 1989 nr. 51 til gjennomføring av utførselsreguleringen for strategiske varer, tjenester og teknologi eller departementets bestemmelser av 26. januar 1963 om ervervsmessig utførsel av skytevåpen, våpendeler og ammunisjon.
