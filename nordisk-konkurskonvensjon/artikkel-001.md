@@ -1,0 +1,4 @@
+# Art 1.
+Konkurs som er åpnet i en av de kontraherende stater, skal også omfatte skyldnerens formue i de andre stater.
+Med hensyn til sådan formue anvendes, hvis ikke annet er bestemt i de følgende artikler, de i førstnevnte stat gjeldende lovbestemmelser om de innskrenkninger konkursen medfører i skyldnerens adgang til å råde over sin formue, om hvad der hører til boets masse eller gjennem omstøtelse kan inndras i massen, om skyldnerens rettigheter og plikter under konkursen, om bestyrelsen og behandlingen av boet, om fordringshaveres og andre rettighetshaveres dekningsrett i konkursen, om utlodninger, om akkord og om avslutning av konkursen.
+Formuegjenstander som efter loven i den stat hvor de finnes, overhodet ikke kan tjene til fyldestgjørelse av fordringshavere, kan ikke inndras i boet.

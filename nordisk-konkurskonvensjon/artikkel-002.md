@@ -1,0 +1,3 @@
+# Art 2.
+Er der i en av statene åpnet en konkurs som omfatter formue i nogen av de andre stater, bør konkursboets styre uten ophold kunngjøre konkursbeslutningen gjennem innrykning i den offentlige kunngjørelsestidende i denne stat. Overensstemmende med der gjeldende lov bør styret også sørge for tinglysning eller innførsel i grunnbok, skibsregister eller annet offentlig register.
+Særskilt underretning om konkursen bør, så snart skje kan, sendes til alle kjente fordringshavere i de andre stater forsåvidt fordringene ikke tas i betraktning uten anmeldelse. Fordringshavere i de andre stater skal likeledes underrettes om innsigelser som reises mot deres fordringer.
