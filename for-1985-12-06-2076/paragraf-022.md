@@ -1,0 +1,5 @@
+# § 22. Transportbrukernes ansvar
+Eksklusivordningen skal uttrykkelig fastsette hvilke rettigheter og forpliktelser transportbrukerne skal ha, i samsvar med blant annet følgende regler:
+a) transportbrukeren skal være bundet for så vidt angår last som det etter salgsavtalen er overlatt til ham eller hans datterselskap, tilknyttede selskap eller speditør å bestemme transportmåten for. Transportbrukeren skal ikke ved å bruke mellommann eller på annen måte omgå sine forpliktelser etter eksklusivordningen;
+b) kontrakt mellom linjerederiet og transportbrukeren skal uttrykkelig angi det beløp transportbrukeren skal betale i tilfelle av kontraktsbrudd, og ansvaret skal ikke overstige frakten for det enkelte lasteparti, beregnet etter den rate kontrakten fastsetter. Linjerederier kan nedsette eller frafalle sitt krav etter kontrakten.
+c) transportbrukeren kan gjeninntre i eksklusivordningen dersom han oppfyller de vilkår som er fastsatt av konferansen. Eksklusivordningen skal angi disse vilkår uttrykkelig.
