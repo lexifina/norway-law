@@ -1,0 +1,5 @@
+# § 3. Fastsetjing av fostringstilskotet etter overgangsreglane
+Fostringstilskotet skal setjast til det opphavlege netto fostringstilskotet justert for halvparten av differansen mellom fostringstilskotet fastsett etter dei nye reglane og det opphavlege netto fostringstilskotet, men slik at endringa aldri vert mindre enn kr 1.250 per barn per månad. Når overgangsperioden er slutt, skal fostringstilskotet vere lik det opphavlege fastsette fostringstilskotet rekna på det tidspunktet vedtaket om endring vart gjort.
+Reglane i forskrifta om fastsetjing og endring av fostringstilskot § 6 om tilskotsevne og § 7 om maksimumsgrense og § 10 om barnetillegg i trygd o.a. gjeld tilsvarande når fostringstilskotet vert fastsett etter reglane i denne forskrifta.
+Reglane i barnelova § 73 om indeksregulering gjeld både for det nye fostringstilskotet etter dei vanlege reglane og for det fostringstilskotet som gjeld etter overgangsreglane. Det nye fostringstilskotet skal reknast med indeksregulering frå det tidspunktet overgangsreglane er oppheva.
+Fostringstilskot kan berre krevjast fastsett etter overgangsreglane ein gong for kvart barn.
