@@ -1,0 +1,1 @@
+Lov av 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 74 femte ledd gjøres gjeldende for Svalbard og Jan Mayen i medhold av forurensningsloven § 3 tredje ledd første punktum, med virkning fra 1. september 1997.
