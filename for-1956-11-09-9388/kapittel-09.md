@@ -1,0 +1,1 @@
+# Sakene på lagsmøtet, røysterett.

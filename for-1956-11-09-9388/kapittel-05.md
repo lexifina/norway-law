@@ -1,0 +1,1 @@
+# Høgstesum for eiga regning.
