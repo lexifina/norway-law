@@ -1,0 +1,3 @@
+# § 5. Unntak etter vedtak truffet av forurensningsmyndigheten
+Forurensningsmyndigheten kan etter søknad gi et tidsbegrenset unntak fra forbudene i § 3 dersom en virksomhet ikke kan etterleve forbudene som følge av at det ikke er driftsmessig forsvarlig å tilknytte et økt kraftforbruk for virksomheten til strømnettet innen 1. januar 2030. Virksomheten skal framlegge dokumentasjon fra nettselskapet på at tilknytningen ikke kan skje innen fristen.
+Forurensningsmyndigheten kan ellers gjøre unntak fra forbudene i § 3 dersom det er nødvendig for å ivareta nasjonale sikkerhetshensyn eller i andre særlige tilfeller.
