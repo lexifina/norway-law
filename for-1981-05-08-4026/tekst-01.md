@@ -1,0 +1,1 @@
+Norges regjering og Sveriges regjering, som vil styrke industri- og energisamarbeidet mellom de to land, ønsker som et ledd i dette samarbeidet å inngå en avtale om opprettelse av et fond for norsk/svensk industrielt samarbeid. De to lands regjeringer er blitt enige om følgende protokoll til Avtalen av 25. mars 1981 om økonomisk samarbeid, særlig på industri- og energiområdene:
