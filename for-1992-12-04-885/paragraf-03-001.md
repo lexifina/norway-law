@@ -1,0 +1,3 @@
+# § 3-1. Medhjelperoppdragets omfang.
+Med mindre namsmannen ved oppnevnelsen eller senere har bestemt annet, skal medhjelperen utføre medhjelperoppdraget i samsvar med §§ 3-3 til 3-5. Medhjelperen skal utføre oppdraget slik at timebegrensningen i annet ledd kan overholdes.
+Det kan ikke gis medhjelpergodtgjørelse for mer enn 10 timers innsats i samme sak. Dersom det er strengt nødvendig, kan tingretten samtykke i at det gis godtgjørelse for inntil 15 timer. For innsats før gjeldsforhandling er åpnet kan det ikke gis godtgjørelse for mer enn 5 timer, med mindre namsmannen finner det strengt nødvendig.

@@ -1,0 +1,3 @@
+# § 2-2. Sikkerhetens form.
+Sikkerheten stilles ved at det hos namsmannen deponeres en erklæring fra norsk skadeforsikringsforetak eller annet norsk foretak med rett til å drive finansieringsvirksomhet etter lov om finansieringsvirksomhet og finansinstitusjoner 10. juni 1988 nr. 40 § 1-4 (sikkerhetsstilleren) om at sikkerhetsstilleren påtar seg på vilkår som nevnt i forskriften her § 2-5 å innestå for oppfyllelse av medhjelperens ansvar som nevnt i § 2-3 innenfor rammen av et nærmere angitt beløp som oppfyller kravene i § 2-4.
+Namsmannen kan nekte å godta erklæringen dersom det er tvil om den oppfyller kravene i første ledd.
