@@ -1,0 +1,3 @@
+# § 9 A-2. Barns rettigheter i kommunale botiltak med døgnbemanning
+Barnet har rett til vern av sin personlige integritet, forsvarlig omsorg og beskyttelse under opphold i kommunale botiltak med døgnbemanning.
+Barn har rett til å medvirke i alle forhold som vedrører barnet under opphold i botiltaket, jf. § 1-4. Barnet skal få tilstrekkelig og tilpasset informasjon og har rett til fritt å gi uttrykk for sine meninger. Barnet skal bli lyttet til, og barnets meninger skal vektlegges i samsvar med barnets alder og modenhet. Botiltaket må sørge for at barnets rett til medvirkning blir ivaretatt ved utformingen av tiltakets daglige liv og ved andre forhold som vedrører barnet.

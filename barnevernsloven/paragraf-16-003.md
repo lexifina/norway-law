@@ -7,7 +7,7 @@ c) opphold i barnevernsinstitusjon. Etaten kan i særlige tilfeller tilby opphol
 Barne-, ungdoms- og familieetaten skal videre blant annet
 a) rekruttere og gi grunnleggende opplæring til fosterhjem
 b) etablere og drifte barnevernsinstitusjoner etter denne loven, som også kan ha tilknyttede spesialisttjenester for omsorg og behandling av barn
-c) godkjenne barnevernsinstitusjoner i samsvar med § 10-17, sentre for foreldre og barn i samsvar med § 10-21 og omsorgssentre for enslige mindreårige asylsøkere i samsvar med § 11-5
+c) godkjenne kommunale botiltak med døgnbemanning i samsvar med § 9 A-5, barnevernsinstitusjoner i samsvar med § 10-19, sentre for foreldre og barn i samsvar med § 10-23 og omsorgssentre for enslige mindreårige asylsøkere i samsvar med § 11-5.
 d) tilby veiledet praksis i institusjon når en utdanningsinstitusjon ber om det, og samarbeide med utdanningsinstitusjonen om gjennomføring av veiledet praksis.
 Barne-, ungdoms- og familieetaten kan tilby barnevernstjenesten
 a) utredning av omsorgssituasjonen til barn i alderen 0-6 år dersom det er stor usikkerhet ved om et barn utsettes for alvorlig omsorgssvikt
