@@ -1,0 +1,2 @@
+# § 2
+Det i § 1 bestemte Flag skal benyttes paa Handelsfartøier, naar de i udenlandsk Havn ønsker at erholde Beskyttelse og Bistand af Gesandtskaber, Konsuler eller Handelsagenter. Paa Statens offentlige Bygninger, Post- og Toldfartøier benyttes samme Flag med Split og Tunge, dog saaledes, at i Postflagets og Toldflagets Midte anbringes et hvidt Felt, hvori Ordene «Post» eller «Told» med Krone over.
