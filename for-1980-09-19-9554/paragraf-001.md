@@ -1,0 +1,2 @@
+# § 1
+Bestemmelsene i § 3 nr. 4 i lov om krigspensjonering for militærpersoner og § 6 nr. 4 i lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner får, foruten ved innleggelse i helseinstitusjon, herunder private forpleiningssted som nevnt i folketrygdlovens § 7-9 nr. 1 første ledd, tilsvarende anvendelse for pensjonist som er innlagt i institusjon med rett til fri forpleining av det offentlige i medhold av andre lover, og for pensjonist som er innsatt i en av fengselsvesenets anstalter.
