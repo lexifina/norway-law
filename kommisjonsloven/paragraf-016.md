@@ -1,0 +1,2 @@
+# § 16
+Har kommissionæren forsømt sine pligter ved at kjøpe over eller sælge under en fastsat prisgrænse eller forøvrig til en pris, som er ufordelagtigere, end forholdene burde ha medført, kan han avverge, at avtalen av den grund avvises, ved, at han uten ugrundet ophold betaler eller stiller betryggende sikkerhet for prisforskjellen. Dette gjælder dog ikke, hvis kommittenten ved kommissionærens forhold har lidt væsentlig skade eller ulempe, som ikke dækkes av prisforskjellen, eller hvis kommissionæren har handlet svigagtig.

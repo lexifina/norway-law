@@ -1,0 +1,2 @@
+# § 15
+Har kommissionæren sluttet avtale for kommittentens regning, og har han ved avslutningen eller senere forsømt sine pligter kan kommittenten avvise avtalen, hvis hans tarv er væsentlig tilsidesat, eller kommissionæren har handlet svigagtig. Kan kommittenten, naar han saaledes avviser avtalen, paa grund av bestemmelsen i § 54 ikke faa tilbake gods, som kommissionæren har solgt, skal denne isteden betale dets værdi.
