@@ -1,0 +1,4 @@
+# § 2
+Viser det seg under ligningsbehandlingen at en skattepliktig kunne ha foretatt en større fondsavsetning enn det beløp han har regnet med som maksimumsfradrag og deponert i bank, jfr. lovens § 3, første ledd, og § 10, annet ledd, og § 6 i denne resolusjon, skal han gis adgang til med virkning for ligningen å avsette det manglende, forutsatt at dette beløp utgjør minst kr. 1.000. Beløpet må i tilfelle deponeres innen en frist som fastsettes av ligningssjefen.
+Har den skattepliktige avsatt og deponert et beløp som overstiger lovens maksimumsgrense, skal avsetningen godkjennes dersom det overskytende beløp ikke overstiger kr. 200 og de øvrige vilkår for godkjenning er til stede. Er det overskytende beløp større, skal det straks frigis. Ligningskontoret skal sende melding herom til vedkommende bank.
+Regulering av fondsavsetning kan ikke foretas senere enn 2 år etter utløpet av vedkommende inntektsår.

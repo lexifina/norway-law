@@ -1,0 +1,4 @@
+# § 10
+Midler som er deponert i Norges Bank i henhold til lovens kapittel I skal utbetales så snart 4-årsfristen i lovens § 2 fjerde ledd er utløpt. Tilsvarende gjelder for midler avsatt etter lovens kapittel II når 5-årsfristen i lovens § 10 er utløpt. Norges Bank skal også foreta utbetaling av overskytende beløp med tillegg av påløpne renter når banken mottar melding som nevnt i § 2 annet ledd i denne resolusjonen.
+Norges Bank skal sende melding til vedkommende ligningskontor om enhver utbetaling av fondsmidler og renter. Banken skal også sende melding til ligningskontoret når den får kjennskap til sikkerhetsstillelse som nevnt i § 9.
+Dersom fondsmidler tas ut av Norges Bank før fristene i lovens § 2 fjerde ledd og § 10 er utløpt, må anvendelse finne sted innen utgangen av det år uttak foretas.

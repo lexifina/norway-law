@@ -1,0 +1,2 @@
+# § 3
+Fondsmidler som er avsatt etter lovens kapitler II og III, skal tillegges den skattepliktiges inntekt ved ligningen for det inntektsår midlene blir utbetalt fra vedkommende bank, medmindre annet følger av bestemmelsene om etterligning i lovens § 11 eller § 7, annet ledd i denne resolusjon. Finansdepartementet kan i særlige tilfelle samtykke i at midlene skattlegges som inntekt for et senere år.
