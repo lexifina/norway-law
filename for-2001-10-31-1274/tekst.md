@@ -1,0 +1,2 @@
+Med heimel i lov av 26. april 1985 nr. 21 om utdanningsstøtte til elever og studenter § 8 femte ledd har departementet den 31. oktober 2001 fastsett forskrift om utanrettslege gjeldsordningar og ettergiving av fordringar som er uråd å drive inn.
+Forskrifta gjeld frå og med 1. november 2001 og ein kan få ho ved Statens lånekasse for utdanning. Forskrifta vil også være å finne på Lånekassens internettside: http://www.lanekassen.no.
