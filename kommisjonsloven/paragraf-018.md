@@ -1,0 +1,2 @@
+# § 18
+Har kommissionæren forsømt sine pligter ved at sælge under eller kjøpe over en fastsat prisgrænse, og blir avtalen ikke avvist, skal erstatningen utgjøre forskjellen mellem den avtalte pris og den fastsatte prisgrænse, hvis ikke bevis for større skade er ført. Krævet forholdene, at kommissionæren fravek prisgrænsen, men er fravikelsen ved hans forsømmelse blit større end paakrævet, skal erstatningen utgjøre mindst forskjellen mellem den pris, han har opnaadd, og den, han burde ha opnaadd.

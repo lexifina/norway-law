@@ -1,0 +1,3 @@
+# § 64
+Naar salgskommissionæren gjør bruk av sin ret til at gjøre fordringen paa betaling for solgt gods gjældende mot tredjemand, kan denne bringe i motregning ogsaa de krav paa kommissionæren, som han har erhvervet paa en tid, da han visste, at kommissionæren hadde solgt for en andens regning. Krav, som tredjemand har paa kommittenten, kan han kun bringe i motregning i den utstrækning, han kan godtgjøre, at kommissionæren ikke derved lider nogen skade.
+Gjør kommittenten fordringen gjældende, kan tredjemand bringe i motregning ogsaa krav paa kommissionæren, som han har erhvervet, før han visste eller burde vite, at det var kommittenten, som hadde retten til at gjøre fordringen gjældende mot ham.

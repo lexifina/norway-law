@@ -1,0 +1,2 @@
+# § 31
+En salgskommissionær, som har git kommittenten forskud paa kjøpesummen, eller som forøvrig i anledning av opdraget har noget krav paa kommittenten, har panteret for sit krav i det gods, som er sendt ham til salg, naar han selv eller nogen paa hans vegne er i besiddelse av godset eller av konnossement eller fragtbrev av saadan art, at avsenderen ikke uten at forevise det kan raade over godset.

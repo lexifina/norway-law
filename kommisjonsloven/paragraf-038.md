@@ -1,0 +1,4 @@
+# § 38
+Skyldes det forsinkelse fra kommittentens side, at gods, som er kjøpt for hans regning, ikke er overgit i hans besiddelse, har kommissionæren ret til at sælge det for kommittentens regning, hvis han ikke uten væsentlig omkostning eller ulempe kan vedbli at sørge for det, eller kommittenten ikke raader over det inden rimelig tid, efterat han er blit opfordret til det. Før salg finder sted, skal kommissionæren saavidt mulig gi kommittenten betimelig varsel. Salget skal skje på forsvarlig måte. Kommissionæren kan ikke beregne provision av salget.
+Kan salg ikke finde sted, eller er det aapenbart, at de med et salg forbundne omkostninger ikke vil kunne dækkes av salgssummen, er kommissionæren berettiget til at skaffe godset bort.
+Disse regler faar tilsvarende anvendelse paa salgskommissionæren, naar han ikke længer pligter at beholde gods, som han har til salg. Sælger han godset, har han dog samme ret til provision, som han ellers vilde hat.

@@ -1,0 +1,2 @@
+# § 20
+Finder kommittenten, at kommissionæren har forsømt sine pligter, og vil han derpaa støtte nogen ret efter § 15, § 17 eller § 19, skal han gi kommissionæren meddelelse om, at han vil paaberope sig forsømmelsen. Han skal gi meddelelsen uten ugrundet ophold, efterat han har faat underretning fra kommissionæren om, hvorledes denne har forholdt sig. Gjør han ikke det, kan han ikke paaberope sig forsømmelsen. Indeholder meddelelsen ikke, at kommittenten vil avvise en avtale, som er sluttet for hans regning, kan han ikke senere gjøre dette.

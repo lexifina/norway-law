@@ -1,0 +1,3 @@
+# § 54
+Har salgskommissionæren faat godset i sin besiddelse, og forsømmer han sine pligter ved at sælge det til lavere pris, end forholdene burde ha medført, eller forøvrig i strid med kommittentens tarv, faar kjøperen allikevel ret til godset, hvis han, da avtalen blev sluttet, hverken visste eller burde vite, at kommissionæren ved den væsentlig tilsidesatte kommittentens tarv eller handlet svigagtig mot denne.
+Forføier salgskommissionæren, mens han har godset i sin besiddelse, uberettiget over det paa anden maate end ved salg, er forføiningen allikevel bindende overfor tredjemand, hvis denne var i god tro ved erhvervelsen. Det samme gjælder, hvis indkjøpskommissionæren uberettiget forføier over gods, som han har kjøpt for kommittentens regning og har i sin besiddelse.
