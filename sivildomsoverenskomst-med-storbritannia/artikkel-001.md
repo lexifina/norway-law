@@ -1,0 +1,9 @@
+# Art I.
+I denne overenskomst:
+1) betyr ordene «territoriet til en (eller den annen) av de kontraherende parter»:
+a) når det gjelder Kongeriket Norge, Norge, og
+b) når det gjelder Det Forente Kongerike Storbritannia og Nord-Irland (heretter kalt Det Forente Kongerike), England og Wales, Skottland og Nord-Irland samt territorier som overenskomsten i medhold av artikkel X er utvidet til å gjelde for.
+2) betyr ordet «dom» hvilken som helst avgjørelse av en domstol, uansett hvordan den er betegnet (dom, ordre o.l.) ved hvilken partenes rettigheter er fastlagt, og som ikke kan omgjøres av vedkommende domstol. Det omfatter dommer som er påanket eller som fremdeles kan påankes ved domstolene i landet til den opprinnelige domstol. Hvis det beløp som ifølge en dom skal betales i omkostninger og renter ikke er fastsatt i selve dommen, men i en særlig rettslig beslutning, skal en slik beslutning anses for å være en del av dommen for så vidt angår denne overenskomst.
+3) betyr ordene «opprinnelige domstol» i forhold til hvilken som helst dom, den domstol som har avsagt dommen, og ordene «den mottakende domstol» den domstol ved hvilken dommen søkes anerkjent, eller til hvilken det inngis søknad om registrering av en dom eller om godtakelse av dommen for fullbyrdelse.
+4) betyr ordet «domsdebitor» den person mot hvilken dommen er avsagt i den opprinnelige domstol, og omfatter, hvor det er nødvendig, hvilken som helst person mot hvilken en slik dom kan fullbyrdes ifølge loven i landet til den opprinnelige domstol. Ordet «domskreditor» betyr den person som dommen er avsagt til fordel for, og omfatter, hvor det er nødvendig, hvilken som helst annen person som har fått hjemmel til de rettigheter som dommen gjelder.
+5) omfatter ordet «anke» ethvert rettergangsskritt som tar sikte på å få dommen opphevet, endret eller satt tilside. Det omfatter også en begjæring om gjenopptakelse eller om stansning av fullbyrdelsen.
