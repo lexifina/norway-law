@@ -1,0 +1,1 @@
+# Lova er fråvikeleg.
