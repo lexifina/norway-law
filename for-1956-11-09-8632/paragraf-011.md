@@ -1,0 +1,4 @@
+# § 11. Ansvar og plikter for medlemene.
+Medlemene sitt ansvar er avgrensa til å svara ein forskotspremie (inkl. ekstrapremie) og til ein eventuell etterskotspremie, som ikkje må vere større enn det dobbelte av forskotspremien (inkl. ekstrapremie). Vedtak om etterskotspremie vert gjort av medlemsmøtet.
+Eig sjøtrygdelaget for lite til å bera alle krav og utgifter i rekneskapsbolken, trass i at det er likna ut etterskotspremie, skal den summen som vantar, fordelast høveleg på alle skadar som medlemene har lide og meldt frå om i rekneskapsbolken. Utover denne tilskotsplikta har medlemene ikkje noko økonomisk ansvar overfor sjøtrygdelaget, dei andre medlemene eller tredjemann.
+Medlem som går ut av sjøtrygdelaget, har ikkje rett til nokon del av eigenkapitalen eller overskotet i sjøtrygdelaget.
