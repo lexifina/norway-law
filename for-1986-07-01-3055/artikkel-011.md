@@ -1,0 +1,3 @@
+# Art 11.
+Denne overenskomst gjelder ikke spørsmål om tillatelse til personbefordring mot vederlag eller transport av annet gods enn førerens og passasjerers reisegods, og heller ikke de bestemmelser om toll, skatter eller andre avgifter eller om forsikring av motordrevne kjøretøy eller arbeidsmiljø som gjelder eller blir utferdiget i det enkelte land.
+Hvert land kan gjøre unntak fra denne overenskomst om førerkort til personer som ikke er fylt 18 år, og for trafikk med kjøretøy som nyttes til transport av personer eller gods mot vederlag, og som utføres med kjøretøy som er registrert i det pågjeldende land.
