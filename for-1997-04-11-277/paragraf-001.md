@@ -1,0 +1,3 @@
+# § 1
+Forskriften skal gjelda for forankringssystemet til høvesvis produksjonsplattforma og lagerinnretninga på Njordfeltet. Utstrekninga av området framgår av vedlagde koordinater.UTMGeografiskYtterpunkterNordØstNordØst17.129.260411.94064°16' 35,35''7°10' 53,56''27.129.550412.24064°16' 44,99''7°11' 15,23''37.129.980414.90064°17' 01,29''7°14' 32,00''47.129.710415.80064°16' 53,37''7°15' 39,43''57.129.040416.24064°16' 32,12''7°16' 13,49''67.128.330416.22064°16' 09,18''7°16' 13,44''77.127.830415.72064°15' 52,59''7°15' 37,31''87.127.650414.94064°15' 46,09''7°14' 39,75''97.127.630412.24064°15' 43,00''7°11' 19,30''107.127.980411.88064°15' 53,97''7°10' 57,82''
+UTM koordinater. UTM sone 32, SM 9° Ø – ED50.
