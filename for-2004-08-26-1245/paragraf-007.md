@@ -1,0 +1,4 @@
+# § 7. Kontroll og tilsyn
+(1) Det skal føres kontroll og tilsyn med lysanleggene og de enkelte lysenheter som sikrer at kravene i flyplassens godkjenningsvilkår overholdes. Når betryggende innstilling ikke kan sikres på annen måte, skal lysanleggene kontrollflys av en godkjent kontrollflyorganisasjon.
+(2) Det skal føres tilstrekkelig tilsyn med den elektrisitetsforsyning, herunder flyplassens bakenforliggende forsynings- og fordelingsanlegg, med tilhørende rom, kummer, arealer og føringsveier, som er nødvendig for flyplassens lysanlegg, for å kunne avdekke og avverge feil under utvikling. Det skal videre føres rullerende og planlagt kontroll som kan sikre stabil og varig funksjon av de enkelte anleggene.
+(3) Bestemmelsen i § 7 annet ledd gjelder også tilsyn med utstyr og automatikk for omkopling og forsyning fra alternativ forsyningskilde. Hvor reservekraftforsyning er basert på egen produksjon, skal tilsyn og kontroll også omfatte anleggene for dette.
