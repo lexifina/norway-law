@@ -1,0 +1,2 @@
+# § 1
+Ved emisjon (kapitalforhøyelse) eller salg av statens aksjer i Statoil ASA kan selskapet med samtykke av Kongen stille nødvendige garantier i forbindelse med emisjonen eller salget, herunder avgi skadesløserklæring for krav som følge av uriktige, villedende eller mangelfulle opplysninger i de prospekter som benyttes ved fremsettelse av tilbudet om å tegne eller kjøpe aksjer i selskapet. Slike garantier skal fastsette en beløpsmessig grense for selskapets ansvar, på hvilket tidspunkt garantien bortfaller og angi andre bestemmelser om omfanget av selskapets ansvar.
