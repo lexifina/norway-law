@@ -1,0 +1,5 @@
+# § 8
+Hvad der indbetales for afhændet Jordegods eller iøvrigt indkommer til Stamhuset, bliver snarest muligt paa betryggende Maade at forsikre for Stamhusets Regning. En Tiendedel af den ved Salget dannede Fideikommiskapitals Renter skal aarlig tillægges Kapitalen og forsikres paa samme Maade.
+Midlerne bør fortrinsvis udsættes mod Pant i Jordegods efter de til enhver Tid gjældende Regler om Pantesikkerhed for afdragsfrit Udlaan af offentlige Midler. Savnes hertil Adgang, kan de anbringes i norske Hypothekbank eller Statsobligationer. Uforsikrede Midler blive midlertidig at indsætte i Norges Bank eller i autoriseret, Sparebank.
+Samtlige Obligationer gives af Departementet Paategning om, at de er Stamhuset tilhørende og derfor ikke maa raades over uden Departementets Samtykke. Panteobligationer, der ved Thinglæsningen befindes at mangle saadan Paategning, bliver af Pantebogsføreren at indsende til Departementet.
+Stamhusbesidderen er pligtig til at forestaa Midlernes Anbringelse saavelsom til at opbevare Obligationerne og Bankbøgerne. Han har paa den af Departementet foreskrevne Maade at redegjøre for, at Midlerne er til enhver Tid betryggende anbragte.

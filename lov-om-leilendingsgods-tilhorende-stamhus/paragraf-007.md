@@ -1,0 +1,2 @@
+# § 7
+Af Kjøbesummen kan indtil Halvdelen blive indestaaende i Bruget mod Panteobligation til Stamhuset. Dog maa ikke større Beløb indestaa, end hvad der efter de til enhver Tid gjældende Regler om pantesikkerhed for afdragsfrit Udlaan af offentlige Midler i Jordegods kan udlaanes paa vedkommende Eiendom. Saalænge Obligationen ikke misligholdes, og det af Skyldneren paa Forlangende godtgjøres, at Sikkerheden er uforringet, er Obligationen uopsigelig fra Kreditors Side.
