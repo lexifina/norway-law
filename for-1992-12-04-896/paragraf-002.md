@@ -1,0 +1,3 @@
+# § 2. Gjeldsbrev utstedt til finansinstitusjon m m
+Gjeldsbrev som er utstedt til foretak med rett til å drive finansieringsvirksomhet etter lov om finansieringsvirksomhet og finansinstitusjoner 10 juni 1988 nr 40 § 1-4, er tvangsgrunnlag selv om skyldnerens underskrift ikke er bekreftet i samsvar med § 1. Det samme gjelder for den som ved påskrift på gjeldsbrevet har påtatt seg selvskyldneransvar ved en overdragelse eller har stilt seg som selvskyldnerkausjonist.
+Første ledd gjelder også for gjeldsbrev som er utstedt til andre foretak eller institusjoner hvis plan er fastsatt ved lov eller stortingsbeslutning eller er godkjent av Kongen.
