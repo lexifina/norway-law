@@ -1,0 +1,3 @@
+# § 10. Den alminnelige lovvalgsregel for annen forsikring enn livsforsikring
+Hvis partene i en avtale om annen forsikring enn livsforsikring ikke har vedtatt et gyldig lovvalg, og lovvalget ikke følger av bestemmelsene i denne loven, står et rettsforhold under loven i det land som det har sin nærmeste tilknytning til etter de tilknytningspunkter som er nevnt i § 9. Det skal legges til grunn at avtalen har sterkest tilknytning til det land der risikoen består, når ikke noe annet alt i alt fremgår.
+Dersom en del av avtalen kan skilles ut og har en sterkere tilknytning til et annet av de land som kan komme i betraktning etter § 9, kan lovgivningen i vedkommende land anvendes på denne delen av avtalen når særlige grunner taler for det.
