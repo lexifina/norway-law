@@ -1,0 +1,1 @@
+# Bergverksordning for Spitsbergen (Svalbard).
