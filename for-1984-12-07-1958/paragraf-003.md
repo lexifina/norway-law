@@ -1,0 +1,3 @@
+# § 3
+For årlige vederlag som forfalt første gang før 1. januar 1980 og ikke er justert etter dette, foretas en engangsjustering av det årlige vederlaget regnet fra det kalenderår da vederlaget forfalt første gang, og fram til 1985. Disse justeringene skal gjennomføres med virkning fra og med det regulære forfall i 1985.
+Ved engangsjustering etter første ledd skal man samholde gjennomsnittet for Statistisk sentralbyrås konsumprisindeks for 1984 med tilsvarende indekstall for det kalenderår da vederlaget forfalt første gang. Etter engangsjusteringen skal vederlaget justeres i samsvar med §§ 1 og 2.
