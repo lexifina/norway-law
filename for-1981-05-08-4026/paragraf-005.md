@@ -1,0 +1,2 @@
+# § 5.
+Styret består av høyst seks medlemmer og høyst seks vararepresentanter. Administrerende direktør er ikke medlem av styret. Medlemmene og vararepresentantene oppnevnes for en tid av høyst 3 år av den norske, respektive den svenske regjering, med tre hver. Formannen, respektive varaformannen, oppnevnes blant medlemmene av den norske, respektive den svenske regjering, vekselvis for en tid av høyst 1 år.

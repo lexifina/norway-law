@@ -1,0 +1,1 @@
+# Stiftelsens organisasjon

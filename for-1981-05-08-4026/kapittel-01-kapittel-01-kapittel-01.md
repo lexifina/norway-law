@@ -1,0 +1,3 @@
+# Størrelsen på lån
+5. Lån kan gis med høyst 50 pst. av kostnaden for det utviklingsprosjekt lånet gjelder. Hensyn skal tas til om annen norsk eller svensk statlig støtte er blitt gitt for samme formål. Om helt særlige grunner foreligger, kan et lån gis til en større del av kostnaden. Lån til ett prosjekt får dog ikke overstige 50 mill. svenske kroner. Et lån kan ikke gis med større beløp enn det som er nødvendig for å oppnå formålet med støtten.
+Prosjekter hvis totale kostnader er mindre enn 3 mill. svenske kroner skal ikke støttes. Prosjekter som gjelder utvinning av olje og gass skal ikke støttes.
