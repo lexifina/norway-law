@@ -1,0 +1,6 @@
+# § 7
+1. Søkning efter naturlige forekomster av de i § 2 nevnte mineraler og bergarter kan foretas så vel på egen som på annen manns eiendom og på statens grunn.
+2. Den som vil søke på annen manns eiendom eller på statens grunn må ha søkeseddel fra bergmesteren eller politichefen og plikter på forlangende å forevise denne.
+3. Søkesedlen gjelder i 2 år fra utstedelsen og gir søkeren rett til å foreta ethvert arbeide som må anses fornødent eller hensiktsmessig for å opsøke de i § 2 nevnte mineraler og bergarter eller for å undersøke allerede gjorte fund, derunder også sådan drift hvis formål er en foreløbig undersøkelse av forekomsten for å bedømme dens drivverdighet.
+4. Innenfor annen manns utmål må søkning ikke foretas medmindre utmålshaveren har gitt tillatelse.
+5. Innenfor en avstand av 500 m. fra fabrikk eller industrielt anlegg under opførelse eller drift, transportanlegg eller kaianlegg samt våningshus, herunder ikke innbefattet fangsthytter som kun leilighetsvis brukes, må søkning ikke foretas medmindre samtykke er gitt av anleggets eller bygningens eier og bruker. Heller ikke må søkning foretas innenfor en sådan avstand fra offentlig eller videnskapelig anlegg, kirke eller kirkegård.

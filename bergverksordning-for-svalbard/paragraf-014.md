@@ -1,0 +1,5 @@
+# § 14
+1. Når utmålsforretningen er blitt endelig, har utmålshaveren erhvervet enerett til å utvinne alle i § 2 nevnte mineraler og bergarter ved bergverksdrift innenfor utmålet, under forutsetning av at han opfyller den forpliktelse til drift som § 15 pålegger ham.
+2. Andre mineraler og bergarter har utmålshaveren rett til å bryte ut og beholde i den utstrekning som er nødvendig eller hensiktsmessig for driften. Det som er utbrutt, men ikke anvendes på denne måte, kan grunneieren råde over.
+3. Frivillig og tvungen overdragelse av retten til et utmål og frivillig eller stiftelse eller overdragelse av panterett eller andre rettigheter over utmålet kan med full rettsvirkning bare skje på den måte som gjelder for fast eiendom.
+4. Efter begjæring av utmålshaveren kan bergmesteren dele et utmål ved å utskille en del av dette som et særskilt utmål. Delingen foretas uten utmålsforretning på stedet. Bestemmelsene i § 12, post 3 og 4, samt § 13 får tilsvarende anvendelse.For behandlingen av en begjæring om deling betales kr. 2.500 for hver del som begjæres utskilt fra det oprinnelige utmål.

@@ -1,0 +1,3 @@
+# § 17
+1. Når utmålsforretningen er blitt endelig, plikter utmålshaveren for hvert utmål å erlegge en årlig avgift av inntil kr. 6.000. For denne avgift har Staten første prioritets panterett i vedkommende utmål og avgiften kan inndrives efter de regler som blir fastsatt for inndrivelse av skatter av fast eiendom.
+2. Hvis der ved tvangsauksjon over utmålet ikke opnås dekning for skyldige avgifter, faller utmålet i det fri. Det kan da ikke på nytt tildeles utmålshaveren eller noget selskap hvori han innehar aktiemajoriteten, medmindre de skyldige avgifter med påløpne omkostninger først blir betalt og i tilfelle også de avgifter som vilde ha påløpet i mellemtiden.
