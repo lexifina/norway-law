@@ -1,0 +1,2 @@
+# § 12. Prøving.
+For godkjenningsprøven innsendes minst 2 eksemplarer av bøyelyset. Disse beholdes av prøvelaboratoriet. Dersom det foretas endringer på bøyelyset etter at godkjenning er gitt, kan Fiskeridirektoratet kreve ny godkjenning utført. Fiskeridirektoratet forbeholder seg også rett til å ta stikkprøver av den enkelte fabrikants produksjon og underkaste disse prøving dersom og når dette finnes hensiktsmessig.
