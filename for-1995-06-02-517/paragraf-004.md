@@ -1,0 +1,2 @@
+# § 4. Plikt til å vise til spesifikasjonar i anbodsdokumentasjonen
+Dei offentlege oppdragsgjevarane nemnde i Vedlegg II til denne forskrifta, skal i dei generelle dokumenta eller anbodsgrunnlaget for kontrakt for innkjøp av flysikringsutstyr vise til tekniske spesifikasjonar og relevante obligatoriske Eurocontrol-standardar vedteke i samsvar med Rådsdirektiv 93/65/EØF, endra ved Kommisjonsdirektiv 97/15/EF. Denne regelen fritek ikkje for plikter som elles måtte følgje av dei alminnelege reglane om offentlege innkjøp.
