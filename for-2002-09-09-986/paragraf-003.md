@@ -1,0 +1,2 @@
+# § 3. Bruk av andre vegetabilske fettstoffer enn kakaosmør
+Sjokoladeprodukter definert i vedlegg IA, pkt. 3, 4, 5, 6, 8 og 9 kan i tillegg til kakaosmør tilsettes de vegetabilske fettstoffer som er angitt i vedlegg II. Tilsetningen skal ikke utgjøre mer enn 5% av det ferdige produktet etter fradrag av den samlede vekt av de øvrige spiselige stoffer som er tilsatt i overensstemmelse med vedlegg IB, uten at minsteinnholdet av kakaosmør eller kakaotørrstoff reduseres.
