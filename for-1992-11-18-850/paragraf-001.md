@@ -1,0 +1,4 @@
+# § 1
+Kommunalt vedtak om å utskrive eiendomsskatt omfatter også statlig eiendom som kan benyttes til bolig, kontorvirksomhet eller annen forretningsmessig virksomhet, uten at et må foretas grunnleggende endringer i eiendommen.
+Er vilkårene for utskriving av eiendomsskatt etter denne forskrift oppfylt for en del av en statlig eiendom, gjelder skatteplikten denne del. Kommunen kan la være å utskrive eiendomsskatt på slik del når den er uvesentlig.
+Er vilkårene for utskrivning av eiendomsskatt etter denne forskrift oppfylt for en del av en bygning, takseres en andel av tomtearealet svarende til forholdstallet mellom bygningens totalareal og arealet av den del som er eiendomsskattepliktig. Dersom det er mulig å skille ut en særskilt del av tomtegrunnen som eiendomsskattepliktig, skal denne delen likevel takseres direkte.
