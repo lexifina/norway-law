@@ -1,0 +1,5 @@
+# § 5
+Erstatning kan etter søknad gis ved skade på/tap av private eiendeler når skaden/tapet er skjedd i tilknytning til tjenesten ved tyveri, innbrudd, naturskade, brann o.l.
+For militært personell, unntatt vernepliktige, kan det i helt spesielle tilfeller tilstås erstatning der skaden/tapet er skjedd under utførelse av tjenesteoppdrag som medfører en særlig risiko for at skader på/tap av personlige effekter inntreffer, uten at det på en påregnelig måte har vært mulig å ta forholdsregler for å avverge skaden/tapet.
+For vernepliktige gjelder at billighetserstatning kan tilstås for private effekter som han/hun har bruk for i tjenesten. Vilkåret er at skaden/tapet skjer under tjenestegjøringen (ikke fritiden) og at han/hun ikke kan bebreides for skaden/tapet.
+Vernepliktige får uavhengig av første ledd erstattet briller dersom de er uten skyld i at brillene ble skadet/tapt. Kontaktlinser erstattes bare med briller, dersom ikke særlige grunner tilsier noe annet. Det maksimale beløp som kan erstattes er 1.500 kroner, dersom ikke spesielle grunner tilsier et høyere beløp.
