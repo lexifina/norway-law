@@ -1,0 +1,3 @@
+# § 14
+Stamhusbesidderen har at drage Omsorg for, at de i Henhold til Bestemmelserne i foranstaaende §§ 12 og 13 indkomne Midler, saasnart dertil er Anledning, bliver forsikrede paa den i Lovens § 8 bestemte Maade. Indtil saadan Anbringelse kan finde Sted, bliver Midlerne at indsætte i Norges Bank eller i autoriseret Sparebank, hvorom Indberetning afgives i Forbindelse med det i § 13 omhandlede Regnskab.
+De Pantobligationer, Hypothek- eller Statsobligationer, hvori Midlerne anbringes, bliver strax at indsende til Justitsdepartementet for at forsynes med Paategning overensstemmende med Lovens § 8 tredie Passus.

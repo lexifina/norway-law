@@ -1,0 +1,3 @@
+# § 16
+I Tilfælde, hvor Expropriation af Stamhusets faste Gods finder Sted, har Stamhusbesidderen til Justitsdepartementet at indsende Udskrift af Taxtforretningen samt at den i Tilfælde afholdte Overtaxtforretning. Finder Stamhusbesidderen ikke Grund til at forlange Overtaxt, bliver Udskrift af taxtforretningen at indsende strax efter dennes Afholdelse.
+Saavel i Tilfælde af Expropriation som naar i Henhold til særskilt naadigst Tilladelse frivillig Afhændelse af andet Stamhuset tilhørende fast Gods end Leilændingsgods maatte finde Sted, bliver der med de indkomne Midler at forholde saaledes, som i nærværende Forskrifters §§ 12 – 14 bestemt.
