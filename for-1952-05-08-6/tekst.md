@@ -1,0 +1,1 @@
+I medhold av lov av 31. mai 1918 nr. 2 § 21, 2. ledd, bestemmes at medlemmer av den norsk-lutherske kirke, The Evangelical Lutheran Church i U.S.A. skal være likestillet med den norske statskirkes medlemmer med hensyn til adgangen til kirkelig vigsel.
