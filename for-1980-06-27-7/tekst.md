@@ -1,0 +1,1 @@
+Det i lov om ektefellers formuesforhold av 20. mai 1927 § 47 nevnte register over tinglyste ektepakter m.v. skal med virkning fra 1. september 1980 føres ved Landsregisteret for rettigheter i løsøre (løsøreregisteret) ved Brønnøy sorenskriverembete.
