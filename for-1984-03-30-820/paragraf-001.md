@@ -1,0 +1,3 @@
+# § 1
+Den som har rett til medisinsk stønad etter lov om folketrygd skal betale vederlag for hjelp for lege eller fysioterapeut ansatt i kommunens helsetjeneste, dersom det ikke i forskrifter etter folketrygdlovens § 2-5 er bestemt at det skal ytes fri hjelp. Det samme gjelder for den som har rett til slik stønad i henhold til gjensidighetsavtale med annet land om sosial trygghet, inngått i medhold av lov om folketrygd § 18-12.
+Vederlaget skal i det enkelte tilfelle svare til forskjellen mellom den honorarsats som til enhver tid gjelder etter avtale mellom staten og Den norske lægeforening, respektive Norske Fysioterapeuters Forbund, og folketrygdens refusjonssats.
