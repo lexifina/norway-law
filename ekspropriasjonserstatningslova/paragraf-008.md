@@ -1,0 +1,2 @@
+# § 8. Ulemper på attverande eigedom.
+Eigaren skal ha vederlag for skade og ulempe på attverande eigedom, så langt dette ikkje vert dekt av vederlaget for den eigedomen som vert avstått. Det skal likevel ikkje gjevast vederlag for ulemper av allmenn karakter for eigedomar i distriktet, dersom ulempene ikkje overstig det ein eigar eller rettshavar må finna seg i utan skadebot eller vederlag etter grannelova eller forurensingslova.

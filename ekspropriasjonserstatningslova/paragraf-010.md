@@ -1,0 +1,2 @@
+# § 10. Kva tidspunkt som skal leggjast til grunn.
+Til grunn for fastsetjinga av vederlaget skal leggjast det tidspunktet då skjønet vert avheimla. Er oreigning sett i verk før den tid, skal verdien på overtakingstidspunktet leggjast til grunn. Ved fastsetjinga av vederlaget skal det takast omsyn til tap som følgjer av at utbetalinga av vederlaget heilt eller i nokon mon skjer på eit seinare tidspunkt enn overtakinga.
