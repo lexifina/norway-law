@@ -1,0 +1,2 @@
+# § 2
+Underskudd fra inntektsåret 1988 eller tidligere år settes til fremførbart underskudd ved kommuneskatteligningen for vedkommende år, jf. skatteloven § 53 første ledd. Underskudd etter første punktum kommer bare til fradrag dersom skattyteren drev næring som nevnt i folketrygdloven § 6-4 første ledd nr. 2 i vedkommende inntektsår, og underskuddet ikke er kommet til fradrag ved kommuneskatteligningen i tidligere år.
