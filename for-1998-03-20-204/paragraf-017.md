@@ -1,0 +1,2 @@
+# § 17. Observatører til bedriftsforsamlingen
+En eller flere lokale fagforeninger som omfatter to tredjedeler av de tilsatte eller et flertall av de tilsatte kan beslutte at det skal velges observatører til bedriftsforsamlingen. Det kan velges inntil halvparten så mange observatører som de tilsatte har medlemmer i bedriftsforsamlingen. Beslutning om hvor mange observatører som skal velges må meddeles valgstyret senest seks uker før valgdagen.
