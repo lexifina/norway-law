@@ -1,0 +1,5 @@
+# § 4. Godskriving av pensjonspoeng når uførheten helt eller delvis skyldes yrkesskade
+Den som mottar uførepensjon som helt eller delvis skyldes yrkesskade, får godskrevet pensjonspoeng for hvert år han eller hun har mottatt slik pensjon etter et av de følgende alternativene:
+a) Dersom pensjonisten mottar hel uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene for hvert år svare til det poengtallet som etter folketrygdloven § 3-30 første ledd bokstav c legges til grunn for beregningen av tilleggspensjonen.
+b) Dersom pensjonisten mottar gradert uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene svare til en så stor del av det nevnte poengtallet som den graderte pensjonen utgjør av hel pensjon.
+c) Dersom bare en del av uførepensjonen gis på grunnlag av en yrkesskade, skal de godskrevne pensjonspoengene svare til summen av det framtidig poengtallet som godskrives etter folketrygdloven § 3-19, og det poengtallet som godskrives etter bokstav b i paragrafen her.
