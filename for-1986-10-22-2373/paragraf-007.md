@@ -1,0 +1,3 @@
+# § 7. Når siktede eller verger ikke samtykker
+Dersom siktede helt eller delvis motsetter seg personundersøkelsen, ved selv ikke å medvirke til den eller ved ikke å gi samtykke til at bestemte personer eller instanser kontaktes eller i det hele motsetter seg at personundersøkelsen utføres, må daglig leder, i samråd med oppdragsgiver, nøye overveie om det i det hele bør utføres personundersøkelse.
+Oppdragsgiver underrettes dersom undersøkelsen ikke utføres, med en begrunnelse fra daglig leder. Dersom undersøkelsen utføres, skal oppdragsgiver underrettes om siktedes manglende samtykke og på hvilke punkter undersøkelsen ikke er fullstendig. Det samme gjelder dersom verge ikke samtykker.

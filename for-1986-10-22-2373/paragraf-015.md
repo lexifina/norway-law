@@ -1,0 +1,2 @@
+# § 15. Oppbevaring/makulering av materiale
+Daglig leder for friomsorgskontoret må sørge for slik sikring av personundersøkelsene at bare de som har rett til eller krav på opplysninger får tilgang til dem. De skal ligge nedlåst når de ikke brukes i arbeidet. Dersom retten ikke beslutter tilsyn i den sak personundersøkelsen gjelder, skal opplysningene i forbindelse med undersøkelsen makuleres etter fem år, med mindre det i mellomtiden kommer et nytt oppdrag på vedkommende. Overføring til godkjent arkivinstans likestilles med makulering.
