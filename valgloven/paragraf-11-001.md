@@ -1,10 +1,10 @@
 # § 11-1. Valgdistriktene ved stortingsvalg
 Ved valg til Stortinget velges representanter med vararepresentanter fra følgende 19 valgdistrikter:
 a) Østfold valgdistrikt, som består av kommunene Aremark, Fredrikstad, Halden, Hvaler, Indre Østfold, Marker, Moss, Rakkestad, Råde, Sarpsborg, Skiptvet og Våler (Østfold)
-b) Akershus valgdistrikt, som består av kommunene Asker, Aurskog-Høland, Bærum, Eidsvoll, Enebakk, Frogn, Gjerdrum, Hurdal, Jevnaker, Lillestrøm, Lunner, Lørenskog, Nannestad, Nes, Nesodden, Nittedal, Nordre Follo, Rælingen, Ullensaker, Vestby og Ås
+b) Akershus valgdistrikt, som består av kommunene Asker, Aurskog-Høland, Bærum, Eidsvoll, Enebakk, Frogn, Gjerdrum, Gran, Hurdal, Jevnaker, Lillestrøm, Lunner, Lørenskog, Nannestad, Nes, Nesodden, Nittedal, Nordre Follo, Rælingen, Ullensaker, Vestby og Ås
 c) Oslo valgdistrikt, som består av Oslo kommune
 d) Hedmark valgdistrikt, som består av kommunene Alvdal, Eidskog, Elverum, Engerdal, Folldal, Grue, Hamar, Kongsvinger, Løten, Nord-Odal, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Sør-Odal, Tolga, Trysil, Tynset, Våler (Innlandet), Åmot og Åsnes
-e) Oppland valgdistrikt, som består av kommunene Dovre, Etnedal, Gausdal, Gjøvik, Gran, Lesja, Lillehammer, Lom, Nord-Aurdal, Nord-Fron, Nordre Land, Ringebu, Sel, Skjåk, Søndre Land, Sør-Aurdal, Sør-Fron, Vang, Vestre Slidre, Vestre Toten, Vågå, Østre Toten, Øyer og Øystre Slidre
+e) Oppland valgdistrikt, som består av kommunene Dovre, Etnedal, Gausdal, Gjøvik, Lesja, Lillehammer, Lom, Nord-Aurdal, Nord-Fron, Nordre Land, Ringebu, Sel, Skjåk, Søndre Land, Sør-Aurdal, Sør-Fron, Vang, Vestre Slidre, Vestre Toten, Vågå, Østre Toten, Øyer og Øystre Slidre
 f) Buskerud valgdistrikt, som består av kommunene Drammen, Flesberg, Flå, Gol, Hemsedal, Hol, Hole, Kongsberg, Krødsherad, Lier, Modum, Nesbyen, Nore og Uvdal, Ringerike, Rollag, Sigdal, Øvre Eiker og Ål
 g) Vestfold valgdistrikt, som består av kommunene Færder, Holmestrand, Horten, Larvik, Sandefjord og Tønsberg
 h) Telemark valgdistrikt, som består av kommunene Bamble, Drangedal, Fyresdal, Hjartdal, Kragerø, Kviteseid, Midt-Telemark, Nissedal, Nome, Notodden, Porsgrunn, Seljord, Siljan, Skien, Tinn, Tokke og Vinje
