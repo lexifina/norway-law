@@ -1,0 +1,4 @@
+# § 2. Vilkår for tillatelse
+Den norske tannlegeforening kan gi tannleger som dokumenterer å ha gjennomgått utdanning i bruk av lystgassanalgesi ved tannbehandling ved et av de odontologiske fakulteter i Norge, med bestått eksamen, tillatelse til selvstendig å nytte lystgassanalgesi i tannlegevirksomhet.
+Det samme gjelder tannleger som dokumenterer å ha gjennomgått tilsvarende utdanning som nevnt i første ledd ved odontologiske læresteder i andre land, og som av et av de odontologiske fakultetene i Norge anses å være faglig jevngod med den norske utdanningen.
+Tannleger som kan dokumentere å ha gjennomgått kurs i bruk av lystgass uten at det kan dokumenteres at utdanningen er jevngod med den norske utdanningen, kan få dispensasjon fra kravet i første ledd. Forutsetningen for dispensasjon er at vedkommende består en teoretisk og praktisk prøve i bruk av lystgass ved et av de odontologiske fakultetene i Norge.
