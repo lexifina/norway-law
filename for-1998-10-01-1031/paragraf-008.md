@@ -1,0 +1,3 @@
+# § 8. Søknadsbehandling
+Norsk kulturråd avgjør hvilke virksomheter som skal få tilskudd på bakgrunn av en skriftlig innstilling. Norsk kulturråd avgjør om innstillingen skal avgis av administrasjonen ved Norsk kulturråd eller av et utvalg som er oppnevnt av Norsk kulturråd.
+Innstillingen skal omfatte de virksomhetene administrasjonen mener bør få tilskudd innenfor den ramme bevilgningen setter. I tillegg skal det, i den utstrekning det finnes kvalifiserte virksomheter, føres opp et antall reservekandidater som svarer til en tredjedel av de innstilte virksomhetene. Reservekandidatene føres opp i prioritert rekkefølge. Det skal gis en begrunnelse for innstillingene der de momenter som har vært utslagsgivende presiseres.
