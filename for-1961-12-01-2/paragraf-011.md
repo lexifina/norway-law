@@ -1,0 +1,5 @@
+# § 11. Meldinger til Justisdepartementet. Endringer i sikringen
+Senest ett år etter at sikring er satt i verk, og senere med høyst ett års mellomrom, skal sikringssaken forelegges for Justisdepartementet med uttalelse om sikringsformen bør gjelde uforandret eller om de anvendte sikringsmidler bør byttes om med andre, eller om sikringen eventuelt bør innstilles. Hvis særlige grunner tilsier det, forelegges spørsmålet uavhengig av de nevnte frister.
+Saken forelegges av påtalemyndigheten, unntatt tilfelle hvor den sikringsdømte utholder fengselsstraff eller sikring i anstalt i fengselsvesenet. I så fall forelegges saken av direktøren for vedkommende anstalt.
+I påtalemyndighetens innberetning skal det gis opplysninger om sikringsdømtes forhold, med uttalelse fra tilsynsfører, Kontoret for kriminalomsorg i frihet, forpleier eller fra sykehus eller annet anbringelsessted hvor den sikringsdømte er anbrakt. Om legeerklæring vises til § 3.
+Innberetningen forberedes av den politimester som har hatt etterforskningen i sikringssaken, og sendes av ham til statsadvokaten til videre ekspedisjon.
