@@ -1,0 +1,5 @@
+# § 3
+For at vigsel kan finne sted, må brudefolke fast bosatt i Norge fylle de materielle betingelser for inngåelse av ekteskap etter lov om inngåelse og oppløsning av ekteskap av 31. mai 1918 (ekteskapsloven).
+Den som har sitt faste bosted (domisil) utenfor Norge, må fylle de ekteskapsbetingelser som følger av hans hjemlands (bostedlandets) lov. Dessuten må han fylle betingelsene etter § 1 og §§ 5 – 10 i ekteskapsloven. Stasjonssjefen ved vedkommende norske utenriksstasjon er bemyndiget til i tilfelle å dispensere fra de i ekteskapslovens § 1 fastsatte aldersgrenser. Bestemmelsene i lovens §§ 2 – 4 om myndighet, samtykke av foreldre eller verge m.v. så vel som skifteplikten (lovens § 11) gjelder derimot ikke for disse personer, idet for så vidt gjelder det som er nevnt i hjemlandets lov.
+For danske, finske, islandske og svenske statsborgere gjelder visse særregler etter konvensjon av 6. februar 1931 med endringskonvensjonen av 26. mars 1953, og 3. november 1969.
+Det vises også til nærværende forskrifters § 12.
