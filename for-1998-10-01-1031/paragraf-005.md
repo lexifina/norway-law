@@ -1,0 +1,4 @@
+# § 5. Vilkår for å bli tilsatt som aspirant
+For å bli ansatt i aspirantstilling, må kunstneren i hovedsak bo i Norge og høyst tre år tidligere ha fullført utdanning fra norsk høyskole i kunstfag eller likeverdig utenlandsk skole. Som likeverdig regnes de skolene som er godkjent for kunstfagstipend av Statens lånekasse. Det kan gjøres unntak frå treårsregelen, for eksempel på grunn av verneplikt, sivilarbeid, barneomsorg, langvarig sykdom eller liknende.
+For læresteder der utdanningen er delt opp i en grunnutdanning og en utdanning på høyere nivå, hovedfag, diplom, eller lignende, kreves det som en hovedregel at kunstneren har fullført høyere nivå.
+I særlige tilfeller kan det gjøres unntak fra kravet til utdanning, for eksempel for kunstgrener der det ikke finnes utdanning i Norge. I disse tilfellene må det ikke ha gått mer enn tre år fra det tidspunktet den som skal tilsettes, debuterte kunstnerisk, og søkeren må kunne dokumentere et godt kunstnerisk nivå.

@@ -1,0 +1,3 @@
+# § 1. Aspirantordningen
+Profesjonelle kunstneriske virksomheter av skapende, utøvende eller formidlende karakter innen alle kunstformer kan etter søknad få tilskudd til å tilsette kunstnere som er i etableringsfasen, i aspirantstillinger med inntil tre års varighet. Tilskuddet skal brukes til lønn, feriepenger og arbeidsgiveravgift. Andre utgifter som virksomheten eventuelt får i tilknytning til aspirantstillingen, må den dekke selv. Dersom virksomheten etter tariffavtaler er forpliktet til å gi aspiranten høyere lønn, må den dekke mellomlegget selv.
+De økonomiske rammene for ordningen fastsetter Stortinget hvert år gjennom budsjettbehandlingen.
