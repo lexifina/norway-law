@@ -1,0 +1,1 @@
+# Elektrisk utstyr tilkoplet lavspenningsanlegg

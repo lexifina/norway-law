@@ -1,0 +1,1 @@
+# Bevaring av bygningsmessige egenskaper
