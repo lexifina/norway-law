@@ -1,0 +1,2 @@
+# § 15. Melding av ulykker/uhell
+Personskader eller skader på anlegg eller eiendom som er forårsaket av elektrisitet, skal i hvert enkelt tilfelle meldes snarest mulig til sentral tilsynsmyndighet.
