@@ -1,0 +1,2 @@
+# § 1
+Dersom et konkursbo som er åpnet i henhold til konkursloven § 60 ikke har tilstrekkelig midler til å dekke kostnadene ved bobehandlingen, er den som har begjært konkurs åpnet ansvarlig for de bokostnadene boet ikke kan dekke. Ansvaret er begrenset til 50 ganger rettsgebyret. Med rettsgebyret menes det gebyret som etter lov 17. desember 1982 nr. 86 om rettsgebyr § 1 annet ledd gjaldt da konkursbegjæringen ble innlevert.
