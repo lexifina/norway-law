@@ -1,0 +1,4 @@
+# § 66. Dispensasjon
+(1) Luftfartstilsynet kan dispensere fra bestemmelsene i denne forskrift når særlige grunner foreligger.
+(2) Ved vurderingen av om slike særlige grunner foreligger, skal det blant annet ses hen til kostnadene forbundet med fysisk utbedring av avvik sammenholdt med den sikkerhetsmessige gevinst slik utbedring antas å gi, og muligheten for å avhjelpe avvik gjennom fastsettelse av kompenserende tiltak. Dersom det etter en slik vurdering fremstår som overveiende sannsynlig at fysisk utbedring ikke gir sikkerhetsgevinst eller bare helt ubetydelig sikkerhetsgevinst, kan slik utbedring unnlates.
+(3) Det er en forutsetning for innvilgelse av dispensasjon at helikopterplassens innehaver godtgjør at fysisk utbedring er vurdert, og viser til slike vurderinger med begrunnelser, samt eventuelle forslag til kompenserende tiltak.

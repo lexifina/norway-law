@@ -1,0 +1,4 @@
+# § 57. Generelt
+(1) Helikopterplassens innehaver skal fremskaffe, dokumentere og vedlikeholde de data om helikopterplassen som fremgår av nedenstående punkter og andre data av betydning for flysikkerheten etter Luftfartstilsynets nærmere bestemmelser.
+(2) Helikopterplassens innehaver skal gjøre de data om helikopterplassen som fremgår av nedenstående punkter kjent for helikopterplassens brukere. Innehaver av helikopterplass med trafikk under IFR-forhold og/eller luftrutetrafikk skal oversende helikopterplassdataene til Kunngjøringstjenesten for luftfarten i den form, med den nøyaktighet og integritet og for øvrig slik Kunngjøringstjenesten bestemmer.
+(3) Dersom dataene gjøres kjent for brukerne gjennom et kunngjøringssystem, skal helikopterplassens innehaver overvåke de data om helikopterplassen som publiseres, og meddele utgiveren/kunngjøringstjenesten de endringer som er nødvendige for at helikopterplassdataene til enhver tid skal være korrekte.

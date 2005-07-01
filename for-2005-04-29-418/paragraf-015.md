@@ -1,0 +1,2 @@
+# § 15. Minsteavstander
+Følgende misteavstander gjelder mellom lufttaksebane, taksebane og annen lufttaksebane eller taksebane for helikopter, et objekt eller en oppstillingsplass:TaksebaneLufttaksebaneObjektOppstillingsplassTaksebane2 D (Mellom kantene)4 D (Mellom senterlinjene)1 D (Kant til objekt)2 D (Mellom kantene)Lufttaksebane4 D (Mellom senterlinjene)4 D (Mellom senterlinjene)1,5 D (Senterlinje til objekt)4 D (Senterlinje til kant)D = D-verdien til dimensjonerende helikopter

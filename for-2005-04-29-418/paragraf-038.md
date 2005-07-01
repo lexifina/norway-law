@@ -1,0 +1,2 @@
+# § 38. Merking av siktepunkt
+Dersom FATO ikke er merket med identifikasjonsmerking eller settingspunkt i sentrum, skal det etableres et siktepunkt sentralt i FATO. Siktepunktet skal merkes med en likesidet trekant plassert slik at en side er 90 på senterlinjen og med spissen mot den fremherskende vindretningen. Trekantens sider skal ha lengde 9 m og bredde 1 m. Trekanten skal merkes med gul farge.

@@ -1,0 +1,3 @@
+# § 43. Merking av taksebane
+(1) Senterlinjen på taksebane med fast dekke skal merkes med en heltrukket gul linje med bredde 0,15 m. Merkingen skal utføres slik at luftfartøy ledes kontinuerlig fra kanten av FATO og fram til oppstillingsplattformens ledelinje.
+(2) Taksebanekanten på taksebane uten fast dekke skal merkes med fargepulver eller på annen hensiktsmessig måte. På taksebane med fast dekke skal grensen til utenforliggende område merkes dersom slikt område ikke klart skiller seg fra taksebanen og ikke har tilstrekkelig jevnhet og bæreevne. Merking av taksebanekant skal være som angitt i pkt. 18.12 i forskrift om utforming av store flyplasser (BSL E 3-2).

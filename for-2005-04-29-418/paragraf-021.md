@@ -1,0 +1,4 @@
+# § 21. Innflygingsflate – FATO for VFR-forhold
+(1) En innflygingsflate for et FATO som bare skal godkjennes for VFR-forhold, skal bestå av tre seksjoner. Sidekantene til første seksjon skal divergere med 10% for helikopterplasser som skal godkjennes for flyging i dagslys, og 15% for plasser som skal godkjennes for flyging i mørke. Seksjonen skal ha en lengde på 245 m og en helning på 8%.
+(2) Andre seksjon av en innflygingsflate for et FATO for VFR-forhold skal ha samme divergens som første seksjon og lengde ut til det punkt der divergensen gjør at seksjonens bredde blir 7 ganger RD-verdien for dimensjonerende helikopter for flyging i dagslys og 10 ganger RD-verdien for flyging i mørke. Andre seksjon skal ha en helning på 12,5%.
+(3) Tredje seksjon av en innflygingsflate for et FATO for VFR-forhold skal ha parallelle sidekanter og en lengde ut til det punkt der innflygingsflaten når en høyde av 150 m over innerkanten. Tredje seksjon skal ha en helning på 15%.
