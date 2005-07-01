@@ -1,0 +1,3 @@
+# § 24. Utflygingsflate i sving
+(1) En utflygingsflate kan legges i en eller flere svinger. Utflygingsflaten skal da være en kompleks flate som dannes ved at det i ethvert punkt på flatens senterlinje dras horisontale linjer vinkelrett på senterlinjen, og linjene skal ligge på samme nivå som tilsvarende linjer om utflygingsflaten hadde vært rett.
+(2) En sving på en utflygingsflate skal ikke være større enn 120°, og svingradius på flatens senterlinje skal ikke være mindre enn 270 m. Svingen skal ikke starte nærmere innerkanten enn 370 m. Dersom det er flere svinger, skal avstanden fra der en svinger slutter og til der den neste svingen begynner være minst 370 m.

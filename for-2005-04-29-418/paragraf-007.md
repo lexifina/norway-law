@@ -1,0 +1,5 @@
+# § 7. Landings- og startområde
+(1) En helikopterplass etter denne forskrift skal ha minst ett landings- og startområde – FATO (Final Approach and Take-off Area). FATO skal om mulig være slik plassert at minst en innflygingsretning blir mot fremherskende vindretning.
+(2) Størrelse på FATO skal minst være som beskrevet i flygehåndboken for dimensjonerende helikopter og bredden skal ikke være mindre enn 1,5 ganger D-verdien for dimensjonerende helikopter. Dersom flygehåndboken beskriver et område for avbrutt start, skal dette inngå i FATO. Dersom flygehåndboken ikke beskriver lengden på FATO, skal størrelsen på FATO ikke være mindre enn en sirkel med diameter 1,5 ganger D-verdien til dimensjonerende helikopter.
+(3) Helningen på FATO skal være tilstrekkelig til å sikre god vannavrenning, og gjennomsnittshelningen skal ikke overstige 3% i noen retning. Ingen del av FATO skal ha en lokal helning som overstiger 5%.
+(4) Overflaten på FATO skal være motstandsdyktig mot rotorturbulens, den skal være uten ujevnheter som negativt kan påvirke start eller landing med helikopter, og den skal ha tilstrekkelig bæreevne i tilfelle avbrutt start.

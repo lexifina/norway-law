@@ -1,0 +1,7 @@
+# § 30. Generelt
+(1) Hinder skal defineres ved bruk av hinderflater. Det skal fastsettes slike hinderflater som angitt i kapittel 5. Terreng og objekter som gjennomtrenger hinderflatene skal anses som hinder og behandles i samsvar med bestemmelsene i dette kapittel.
+(2) Innenfor sikkerhetsområdet skal alle faste og bevegelige objekter anses som hinder.
+(3) Bevegelige objekter som gjennomtrenger en hinderflate skal anses som hinder. Dersom det er veier eller jernbaner innenfor det området som omfattes av hinderflatene, skal hinderfriheten bedømmes ut fra at kjøretøyer er 5 m høye og jernbanetog er 7 m høye.
+(4) Terreng og faste objekter som utgjør hinder skal kunngjøres, og eventuelt merkes og belyses.
+(5) Luftfartøyer, kjøretøyer og andre bevegelige objekter som utgjør hinder skal fjernes, eller det skal på annen måte sikres at bevegelige objekter ikke utgjør et hinder, før helikopterplassen brukes for start eller landing.
+(6) For faste eller bevegelige objekter, herunder terreng, som utgjør hinder og som ikke fjernes, skal helikopterplassens innehaver besørge en risikoanalyse etter en anerkjent standard. Ved risikoanalysen skal det vurderes hvilken risiko for luftfarten hindrene representerer og hvilke kompenserende tiltak som eventuelt må fastsettes. Kompenserende tiltak skal fastsettes av Luftfartstilsynet i henhold til bestemmelsene i § 67, og skal fremgå av helikopterplassens godkjenningsdokument.

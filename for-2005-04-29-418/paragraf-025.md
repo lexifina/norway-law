@@ -1,0 +1,4 @@
+# § 25. Utflygingsflate – FATO for VFR-forhold
+(1) En utflygingsflate for et FATO som bare skal godkjennes for VFR-forhold skal bestå av to seksjoner.
+(2) Sidekantene til første seksjon av en utflygingsflate for et FATO for VFR-forhold skal divergere med 10% for helikopterplasser som bare skal godkjennes for flyging i dagslys, og 15% for plasser som skal godkjennes for flyging i mørke. Første seksjon skal ha en lengde ut til det punkt der divergensen gjør at seksjonens bredde blir 7 ganger RD-verdien for dimensjonerende helikopter for flyging i dagslys, og 10 ganger RD-verdien for flyging i mørke. Første seksjon skal ha en helning på 4,5%.
+(3) Andre seksjon av en utflygingsflate for et FATO for VFR-forhold skal ha parallelle sidekanter og lengde ut til det punkt der innflygingsflaten når en høyde av 150 m over innerkanten. Andre seksjon skal ha en helning på 4,5%.

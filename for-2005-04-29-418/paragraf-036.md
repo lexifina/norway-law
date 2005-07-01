@@ -1,0 +1,4 @@
+# § 36. Merking av FATO
+(1) Ytterkanten av FATO skal merkes dersom det av hensyn til sikkerheten er nødvendig å markere yttergrensen av FATO. Merkingen av FATO skal være med gule firkantede striper som skal være 1 m brede.
+(2) For et firkantet FATO skal stripenes lengde være en femtedel av siden de markerer, og de skal plasseres med en stripe i hvert hjørne og med like mellomrom. Dog skal mellomrommenes lengde ikke være større enn 25 m skal, slik at for store FATO kan det være nødvendig med flere enn tre striper på langsidene.
+(3) For et sirkelformet FATO skal stripenes lengde være en tiendedel av omkretsen til FATO, og de skal plasseres med like mellomrom. Dog skal mellomrommenes lengde ikke være større enn 10 m skal, slik at for store FATO kan det være nødvendig med flere enn fem striper.

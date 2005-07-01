@@ -1,0 +1,8 @@
+# § 33. Merking av hinder
+(1) Innenfor sikkerhetsområdet skal alle hinder merkes. Øvrige hinder skal merkes dersom ikke hinderet har en utforming eller farge som gjør at det klart skiller seg fra omgivelsene og er godt synlig sett fra luftfartøy. Det er ikke nødvendig å merke hinder som er utstyrt med høyintensitetslys om dagen og hinderlys i samsvar med § 52 i mørke.
+(2) Midlertidige og bevegelige hinder skal merkes som angitt i forskrift 27. juni 2003 nr. 935 om bakketjeneste ved flyplasser (BSL E 4-1).
+(3) Dersom bare en del av et objekt anses som hinder, skal også den del av objektet som ikke er hinder merkes ned til 1,5 m under hinderflaten.
+(4) Faste hinder som skal merkes, skal merkes med farger i rødt og hvitt eller oransje og hvitt, og fargene skal så langt det er mulig være dagslysreflekterende.
+(5) Hinder med hovedsakelig ubrutt overflate og som er minst 4,5 m både horisontalt og vertikalt, skal merkes i rutemønster. Rutene skal være rektangulære med sider på minimum 1,5 og maksimum 3 m. Hjørnene skal være røde eller oransje.
+(6) Hinder med hovedsakelig ubrutt overflate og som er større enn 1,5 m enten horisontalt eller vertikalt, og mindre enn 4,5 m i den andre utstrekningen, skal merkes med bånd. Med bånd merkes også alle objekter med gjennombrutt overflate. Båndene skal plasseres tvers på hinderets største utstrekning (enten vertikalt eller horisontalt), og bredden på båndene skal være i henhold til nedenstående tabell.Hinderets utstrekningBåndets største breddeMindre enn 3 m0,50 m3 – 10 m1,00 m10 – 20 m1,50 m20 – 30 m2,00 m30 – 40 m3,00 m40 – 50 m4,00 m50 – 60 m5,00 m60 – 200 m6,00 mOver 200 m10,00 m
+(7) Hinder som er mindre enn 1,5 m både horisontalt og vertikalt merkes ensfarget rødt eller oransje.
