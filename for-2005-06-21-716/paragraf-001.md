@@ -1,0 +1,2 @@
+# § 1. Satser for beiteavgift
+Beiteavgiften er nkr 5,65 pr. rein uten hensyn til varigheten av oppholdet i Norge, samt nkr 2,20 for hver dag reinen har oppholdt seg i Norge. Er oppholdet ikke brakt til opphør innen 14 dager etter at melding etter § 37 annet ledd i lov 9. juni 1972 nr. 31 om svensk reinbeiting i Norge og norsk reinbeiting i Sverige er mottatt, er avgiften fra og med den femtende dag etter mottakelsen av meldingen nkr 4,25 pr. dag.
