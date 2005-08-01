@@ -1,0 +1,2 @@
+# § 6. Krav til flyteutstyret
+Flyteutstyr skal være godkjent av Sjøfartsdirektoratet eller annen navngitt offentlig myndighet, typegodkjent i henhold til Sjøsikkerhetskonvensjonen, eller produsert og varedeklarert av produsent eller importør etter anerkjente normer fastsatt i samsvar med CEN eller NS/ISO-standard. Flyteutstyret skal være varig merket, slik at godkjenningen, typegodkjenningen eller varedeklarasjonen vises på flyteutstyret.
