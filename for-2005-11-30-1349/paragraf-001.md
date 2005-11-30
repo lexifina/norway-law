@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EF) nr. 599/2004
+EØS-avtalen vedlegg I kapittel I del 1.2 nr. 119 (forordning (EF) nr. 599/2004) om vedtakelse av en harmonisert sertifikatmodell og en inspeksjonsrapport i forbindelse med handel innenfor EØS-området med dyr og produkter av animalsk opprinnelse gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
