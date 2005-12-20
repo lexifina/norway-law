@@ -1,0 +1,2 @@
+# § 20. Kreering og diplom/vitnemål
+Når institusjonen har godkjent opplæring, avhandling, prøveforelesning og disputas, kreeres doktoranden til Philosophiae Doctor av institusjonens styre. Diplom og vitnemål utferdiges av institusjonen. Institusjonen fastlegger hvilke opplysninger som skal inngå i vitnemålet. I vitnemålet skal det også gis opplysninger om det faglige opplæringsprogram doktoranden har deltatt i.
