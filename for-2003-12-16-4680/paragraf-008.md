@@ -1,0 +1,3 @@
+# § 8. Tilknytning til forskermiljø
+Hovedveileder har i samråd med institusjonen hovedansvar for å legge til rette for at doktorgradsstudenten deltar regelmessig i et aktivt forskermiljø med seniorforskere og andre doktorgradsstudenter. For doktorgradsstudenter som har hovedtilknytning ved annen institusjon skal det inngås avtale mellom gradstildelende og samarbeidende institusjon som regulerer arbeidsvilkårene og herunder sikrer doktorgradsstudentens deltakelse i et aktivt forskermiljø (jf. § 6).
+Dr.gradsstudentene skal knyttes til en fagseksjon. Seksjonsleder er i samråd med veileder ansvarlig for å legge til rette for at dr.gradsstudenten deltar regelmessig i et forskermiljø.
