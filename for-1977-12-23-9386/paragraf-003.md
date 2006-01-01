@@ -1,0 +1,2 @@
+# § 3. Valg til forstanderskapet.
+Av og blant de ansatte i banken velges en fjerdedel av forstanderskapets medlemmer og en fjerdedel av varamedlemmene. Er antall medlemmer av forstanderskapet ikke delelig med fire, skal minst en fjerdedel av medlemmene og av varamedlemmene velges av de ansatte. Dette må dog ikke føre til at mer enn en fjerdedel av de ansatte i banken blir medlemmer av forstanderskapet. Ved valgkretsinndeling må det i hver valgkrets velges minst halvdelen så mange varamedlemmer som medlemmer.
