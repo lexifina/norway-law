@@ -1,0 +1,5 @@
+# § 16. Handelsagentens tilbakeholdsrett.
+Har handelsagenten ikke fått provisjon eller annet vederlag fra hovedmannen i rett tid, har agenten i den utstrekning det er nødvendig for å sikre sine krav, rett til å holde tilbake varer, materiale og dokumenter som tilhører hovedmannen og som agenten har mottatt i forbindelse med oppdraget. Agenten har tilsvarende rett hvis det er klart at hovedmannen vil bli forsinket med betalingen. Fullmakter og andre dokumenter som er av vesentlig betydning for hovedmannen, kan agenten ikke holde tilbake.
+Har handelsagenten kjøpt varer for hovedmannens regning og sendt varene videre til hovedmannen, har agenten som ledd i sin tilbakeholdsrett etter første ledd rett til å hindre at de utleveres til hovedmannen. Agenten har samme rett når det gjelder varer agenten har hatt til salg for hovedmannen og som er sendt tilbake. Dette gjelder selv om hovedmannen har mottatt transportdokumenter.
+Handelsagentens tilbakeholdsrett faller bort når hovedmannen stiller tilfredsstillende sikkerhet for agentens krav.
+Bestemmelsene i denne paragrafen kan ikke fravikes til skade for handelsagenten.

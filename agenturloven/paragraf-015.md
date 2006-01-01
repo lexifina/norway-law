@@ -1,0 +1,4 @@
+# § 15. Handelsagentens rett til opplysninger.
+Handelsagenten har rett til å få alle opplysninger fra hovedmannen som denne har tilgang til og som agenten trenger for å kunne kontrollere om provisjonsoppgaven inneholder de provisjonsbeløp som er inntjent. Agenten har i denne sammenheng rett til utdrag fra hovedmannens registrerte regnskapsopplysninger.
+Avslår hovedmannen å gi opplysninger som nevnt i første ledd, eller kommer de ikke innen rimelig tid, har handelsagenten rett til selv å granske hovedmannens registrerte regnskapsopplysninger og regnskapsmateriale. Hovedmannen kan bestemme at en statsautorisert eller registrert revisor skal foreta gjennomgangen i stedet for agenten. Agenten velger revisor. Agenten har tilsvarende rettigheter hvis det er grunn til å anta at opplysninger i provisjonsoppgaven eller opplysninger gitt etter første ledd er uriktige.
+Bestemmelsene i denne paragrafen kan ikke fravikes til skade for handelsagenten.

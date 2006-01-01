@@ -1,0 +1,2 @@
+# § 19. Hovedmannens reklamasjonsplikt overfor avtaler handelsagenten har inngått.
+Har handelsagenten inngått avtale om salg eller kjøp for hovedmannen uten å ha fullmakt til det, skal hovedmannen melde fra til tredjemann hvis avtalen ikke blir godkjent. Slik melding må gis uten ugrunnet opphold etter at hovedmannen fikk kjennskap til avtalen. Ellers er hovedmannen bundet av avtalen. Dette gjelder likevel ikke hvis tredjemann forsto eller burde forstått at handelsagenten inngikk avtale uten fullmakt til det.
