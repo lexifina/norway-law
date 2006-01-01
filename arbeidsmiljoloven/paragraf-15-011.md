@@ -1,10 +1,6 @@
 # § 15-11. Retten til å fortsette i stillingen
 (1) Ved tvist om et arbeidsforhold lovlig er brakt til opphør etter reglene i § 15-7 kan arbeidstaker fortsette i stillingen så lenge forhandlinger pågår etter § 17-3.
 (2) Dersom søksmål reises innen de frister som følger av § 17-4, kan arbeidstaker fortsette i stillingen. Etter krav fra arbeidsgiver kan retten likevel bestemme at arbeidstaker skal fratre under sakens behandling dersom retten finner det urimelig at arbeidsforholdet opprettholdes under sakens behandling. Retten fastsetter samtidig fristen for arbeidstakers fratreden.
-(3) Retten til å fortsette i stillingen gjelder ikke:
-a) ved tvist om avskjed, oppsigelse i prøvetiden, for innleid arbeidstaker eller midlertidig ansatt,
-b) under ankebehandling dersom dommen fastslår at oppsigelsen er gyldig.
-Dersom dommen fastslår at oppsigelsen er gyldig skal retten samtidig fastsette frist for arbeidstakers fratreden. Etter krav fra arbeidstaker kan retten likevel bestemme at arbeidsforholdet skal fortsette inntil saken er rettskraftig avgjort.
-(4) Retten til å fortsette i stillingen gjelder ikke når arbeidsforholdet er bortfalt som følge av at virksomheten er nedlagt.
-(5) Retten til å fortsette i stillingen gjelder ikke for deltakere i arbeidsmarkedstiltak i regi av eller i samarbeid med Aetat som sies opp fordi vedkommende skaffes ordinært arbeid, overføres til annet tiltak eller tiltaket avsluttes.
-(6) Retten kan bestemme at arbeidstaker som er urettmessig utestengt fra arbeidsplassen etter at oppsigelsesfristen eller tidsrommet for arbeidsavtalen er utløpt, har rett til å gjeninntre i stillingen dersom arbeidstaker ber om dette innen fire uker fra utestengningen.
+(3) Retten til å fortsette i stillingen gjelder ikke ved tvist om avskjed, oppsigelse i prøvetiden, for innleid arbeidstaker eller midlertidig ansatt. Etter krav fra arbeidstaker kan retten likevel bestemme at arbeidsforholdet skal fortsette inntil saken er rettskraftig avgjort.
+(4) Retten til å fortsette i stillingen gjelder ikke for deltakere i arbeidsmarkedstiltak i regi av eller i samarbeid med Aetat som sies opp fordi vedkommende skaffes ordinært arbeid, overføres til annet tiltak eller tiltaket avsluttes.
+(5) Retten kan bestemme at arbeidstaker som er urettmessig utestengt fra arbeidsplassen etter at oppsigelsesfristen eller tidsrommet for arbeidsavtalen er utløpt, har rett til å gjeninntre i stillingen dersom arbeidstaker ber om dette innen fire uker fra utestengningen.

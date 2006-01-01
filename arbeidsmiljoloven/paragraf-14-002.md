@@ -7,4 +7,3 @@
 (6) Er det flere fortrinnsberettigede til en stilling, plikter arbeidsgiver å følge de samme regler for utvelgelse som de som gjelder ved oppsigelser på grunn av driftsinnskrenkning eller rasjonaliseringstiltak.
 (7) Reglene i denne paragraf gjelder tilsvarende for arbeidstaker som er sagt opp i forbindelse med at virksomheten går konkurs. Dette gjelder bare når virksomheten fortsetter eller gjenopptas og den under hensyn til sted, art, omfang og lignende må anses som en fortsettelse av den opprinnelige virksomhet.
 (8) Sjette ledd gjelder ikke ved konkurs, offentlig skifte av insolvent dødsbo eller ved overdragelse av virksomhet etter at det er åpnet gjeldsforhandlinger.
-(9) For arbeidstaker i staten gjelder fortrinnsretten også til stillinger i annen virksomhet i staten. Kongen kan gi forskrift om vilkår for og utøvelse av fortrinnsrett etter dette ledd.
