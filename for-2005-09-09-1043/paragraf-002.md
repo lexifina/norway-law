@@ -1,0 +1,2 @@
+# § 2. Sameiets skatteposisjoner
+Den enkelte sameiers skattemessige inngangsverdi for de eiendeler som inngår i sameiet, settes til en andel av sameiets skattemessig inngangsverdi for eiendelene pr. 31. desember 2005, svarende til eierandelen i sameiet. Sameiets øvrige skatteposisjoner, herunder gevinst- og tapskonto, negative saldi, tomme positive saldi, betingede skattefrie gevinster mv., fordeles mellom sameierne på samme måte.
