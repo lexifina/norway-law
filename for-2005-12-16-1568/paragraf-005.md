@@ -1,0 +1,2 @@
+# § 5. Personer som uten å være arbeidstakere utplasseres i virksomheter i opplærings- eller attføringsøyemed eller som deltar i arbeidsmarkedstiltak
+Personer som uten å være arbeidstakere utplasseres i virksomheter i opplærings- eller attføringsøyemed eller som deltar i arbeidsmarkedstiltak, skal anses som arbeidstakere i forhold til arbeidsmiljøloven kapittel 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 18 og 19, med unntak av § 19-2.

@@ -1,0 +1,2 @@
+# § 3. Innsatte i kriminalomsorgens anstalter
+Innsatte i kriminalomsorgens anstalter skal når de utfører arbeid anses som arbeidstakere i forhold til arbeidsmiljøloven kapittel 1, kapittel 2 med unntak av § 2-3, kapittel 3, kapittel 4 med unntak av § 4-1 tredje ledd, § 4-2 første og andre ledd bokstav c og d, § 4-3 første ledd og § 4-4 fjerde ledd, § 4-6 andre ledd, kapittel 5, 6 og 7, kapittel 11 med unntak av § 11-2, § 11-3 tredje ledd og § 11-5, kapittel 18 og 19, med unntak av § 19-2.
