@@ -1,0 +1,10 @@
+# § 9. Flertallsvalg.
+Dersom valget skal foregå som flertallsvalg, har enhver som har stemmerett, forslagsrett. Forslagsrett har også lokal fagforening.
+Et forslag kan inneholde inntil det antall medlemmer og varamedlemmer som kan velges. Forslaget skal fremsettes skriftlig og det skal gå fram av forslaget hvem som er forslagsstiller. Forslag må inneholde tydelig betegnelse av kandidatene ved for- og etternavn og opplysninger om hvor i banken kandidaten arbeider. Dersom det i banken er mer enn en tredjedel kvinnelige ansatte, bør det være foreslått minst en kvinnelig kandidat.
+Valgstyret skal senest syv dager før valgdagen utarbeide og kunngjøre en liste over dem som er foreslått, i alfabetisk rekkefølge. Av listen skal det få fram hvem som er forslagsstiller til den enkelte kandidat.
+Valgstyret skal utarbeide stemmesedler. De foreslåtte kandidaters navn skal føres opp på stemmesedlene når dette er praktisk. Navnene føres opp i alfabetisk rekkefølge med opplysninger hvor i banken kandidaten arbeider og hvem som er forslagsstiller. Valgstyret skal informere velgerne om hvordan de skal gå fram for å markere på stemmeseddelen hvem de stemmer på. Stemmesedlene skal inneholde opplysninger om hva som kan føre til at stemmeseddelen blir forkastet dom ugyldig.
+Det skal avgis stemme på inntil det antall medlemmer og varamedlemmer som skal velges.
+Det kan bare stemmes på kandidater som er foreslått. Kumulasjon er ikke tillatt. Er kumulasjon foretatt, eller er det ført opp andre navn enn dem som er foreslått, eller er det for øvrig foretatt overføringer eller rettlser, skal disse settes ut av betraktning ved opptelling av stemmene.
+Dersom det er avgitt stemme på flere foreslåtte kandidater enn det antall som skal velges, skal stemmesedlene forkastes som ugyldige.
+De som har fått flest stemmer, er valgt i den rekkefølge stemmesedlene tilsier. Første varamedlem blir den som har fått flest stemmer etter siste medlem. Annet varamedlem bli den som kommer dernest i stemmetall osv., jfr. § 13, første ledd.
+Ved stemmelikhet avgjøres valget ved loddtrekning.

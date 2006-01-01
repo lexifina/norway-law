@@ -1,0 +1,8 @@
+# § 32. Søknad om unntak.
+Banken, lokal fagforening, valgstyret eller et flertall av de ansatte kan søke departementet om unntak fra reglene om de ansattes rett til representasjon etter sparebanklovens § 8 andre ledd, § 14 første ledd og § 17a og 17b, jfr. § 8 og § 14, og reglene om framgangsmåten ved valg etter disse forskrifter.
+Dersom søknaden gjelder valg til et avdelingsorgan har også avdelingsstyret, lokal fagforening i avdelingen og et flertall av de ansatte i avdelingen adgang til å søke om unntak.
+Søknaden skal framsette skriftlig og være begrunnet. Søknad fra banken skal være undertegnet av bankens styre og være vedlagt uttalelse fra lokale fagforeninger. Søknad fra de ansatte eller lokal fagforening skal vedlegges uttalelse fra bankens styre. Søknad fra valgstyret skal være vedlagt uttalelser fra bankens styre og lokale fagforeninger.
+Departementet kan sette vilkår for å gjøre unntak fra lovens og forskriftenes bestemmelser. Slike vilkår skal sikre de ansattes medbestemmelsesrett i samsvar med lovens formål. Unntak gjelder for ubestemt tid med mindre departementet i det enkelte tilfelle har fastsatt tidsbegrensning. Departementet kan av eget tiltak trekke et vedtak om unntak tilbake dersom vilkårene ikke oppfylles eller forholdene endrer seg.
+Banken, et flertall av de ansatte og lokal fagforening kan hver for seg søke departemente em at en tidligere fastsatt unntaksordning oppheves eller endres.
+Departementet kan innkalle representanter for å drøfte framgangsmåten og opplegget for de ansattes representasjon.
+Forvaltningsloven av 10. februar 1967 gjelder for departementets saksbehandling etter denne paragraf.
