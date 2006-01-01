@@ -1,0 +1,2 @@
+# § 12-7. Varslingsplikt
+Permisjon etter §§ 12-2 til 12-6 skal varsles arbeidsgiver snarest mulig og senest en uke i forveien ved fravær utover to uker, senest fire uker i forveien ved fravær utover tolv uker og senest tolv uker i forveien ved fravær utover ett år. Oversittelse av fristene medfører ikke at arbeidstaker må utsette permisjonen dersom permisjon er nødvendig på grunn av forhold som arbeidstakeren ikke hadde kjennskap til ved fristens utløp.

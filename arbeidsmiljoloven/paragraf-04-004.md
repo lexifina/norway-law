@@ -1,0 +1,6 @@
+# § 4-4. Krav til det fysiske arbeidsmiljøet
+(1) Fysiske arbeidsmiljøfaktorer som bygnings- og utstyrsmessige forhold, inneklima, lysforhold, støy, stråling o.l. skal være fullt forsvarlig ut fra hensynet til arbeidstakernes helse, miljø og sikkerhet.
+(2) Arbeidsplassen skal innredes og utformes slik at arbeidstaker unngår uheldige fysiske belastninger. Nødvendige hjelpemidler skal stilles til arbeidstakers disposisjon. Det skal legges til rette for variasjon i arbeidet og for å unngå tunge løft og ensformig gjentakelsesarbeid. Ved oppstilling og bruk av maskiner og annet arbeidsutstyr skal det sørges for at arbeidstaker ikke blir utsatt for uheldige belastninger ved vibrasjon, ubekvem arbeidsstilling o.l.
+(3) Maskiner og annet arbeidsutstyr skal være konstruert og ha nødvendige verneinnretninger slik at arbeidstaker er vernet mot skader.
+(4) Innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker skal være forsvarlig utført, innredet og vedlikeholdt. Eventuelle husordensregler skal fastsettes i samråd med representanter for arbeidstakerne.
+(5) Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av kravene i denne paragraf og kan herunder bestemme at reglene skal gjelde for utleiere av lokaler o.l.

@@ -1,0 +1,3 @@
+# § 15-12. Virkninger av usaklig oppsigelse mv.
+(1) Dersom oppsigelsen er i strid med §§ 15-6 til 15-10, skal retten, etter påstand fra arbeidstaker, kjenne oppsigelsen ugyldig. I særlige tilfeller kan retten, etter påstand fra arbeidsgiver, bestemme at arbeidsforholdet skal opphøre dersom den etter avveining av partenes interesser finner at det vil være åpenbart urimelig at arbeidsforholdet fortsetter.
+(2) Arbeidstaker kan kreve erstatning dersom oppsigelsen er i strid med §§ 15-6 til 15-11. Erstatningen fastsettes til det beløp som retten finner rimelig under hensyn til det økonomiske tap, arbeidsgivers og arbeidstakers forhold og omstendighetene for øvrig.

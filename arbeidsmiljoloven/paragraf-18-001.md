@@ -1,0 +1,3 @@
+# § 18-1. Arbeidstilsynet
+(1) Arbeidstilsynet fører tilsyn med at bestemmelsene i og i medhold av denne lov blir overholdt. Når det er nødvendig med særskilt ekspertise for å gjennomføre tilsyn etter denne lov, kan Arbeidstilsynet oppnevne sakkyndige til å utføre kontroll og foreta undersøkelser mv. på Arbeidstilsynets vegne. Departementet kan fastsette bestemmelser om Arbeidstilsynets organisasjon og virksomhet.
+(2) Departementet kan bestemme at tilsynet med deler av den offentlige forvaltning og transportbedrifter som drives av staten skal ordnes på annen måte enn det som følger av loven. Departementet kan bestemme at annen offentlig myndighet enn Arbeidstilsynet skal føre tilsyn med at bestemmelsene i eller i medhold av denne lov blir overholdt.

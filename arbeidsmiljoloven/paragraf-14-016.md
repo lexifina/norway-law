@@ -1,0 +1,3 @@
+# § 14-16. Arbeidsreglement
+(1) Ved industriell virksomhet og ved handels- og kontorvirksomhet, som sysselsetter mer enn 10 arbeidstakere, skal det for de arbeidstakere som ikke har en ledende eller kontrollerende stilling, være arbeidsreglement. Departementet kan bestemme at arbeidsreglement skal utarbeides i andre virksomheter for andre arbeidstakere enn nevnt foran. Reglementet skal inneholde de ordensregler som trengs og regler for arbeidsordningen. Reglementet må ikke inneholde bestemmelser som er i strid med loven.
+(2) I arbeidsreglementet kan ikke fastsettes bøter for forseelser mot reglementet. Ved virksomhet som ikke kommer inn under første ledd kan det fastsettes arbeidsreglement. §§ 14-17 til 14-20 skal i tilfelle gjelde tilsvarende.

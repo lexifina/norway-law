@@ -1,0 +1,3 @@
+# § 14-14. Virkninger av ulovlig innleie av arbeidstaker
+(1) Dersom det foreligger brudd på bestemmelsene i § 14-12 skal retten etter påstand fra den innleide arbeidstakeren avsi dom for at den innleide har et fast arbeidsforhold hos innleier. I særlige tilfeller kan retten likevel, etter påstand fra innleier, bestemme at den innleide arbeidstakeren ikke har et fast arbeidsforhold dersom den etter en avveining av partenes interesser finner at dette vil være åpenbart urimelig.
+(2) Ved brudd på bestemmelsene i § 14-12 kan den innleide arbeidstaker kreve erstatning fra innleier. Erstatningen fastsettes i samsvar med § 15-12 andre ledd.

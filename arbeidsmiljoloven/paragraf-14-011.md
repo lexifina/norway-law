@@ -1,0 +1,3 @@
+# § 14-11. Virkninger av ulovlig midlertidig ansettelse
+(1) Dersom det foreligger brudd på bestemmelsene i §§ 14-9 eller 14-10, skal retten etter påstand fra arbeidstaker avsi dom for at det foreligger et fast arbeidsforhold eller at arbeidsforholdet fortsetter. I særlige tilfeller kan retten likevel, etter påstand fra arbeidsgiver, bestemme at arbeidsforholdet skal opphøre dersom den etter en avveining av partenes interesser finner at det vil være åpenbart urimelig at arbeidsforholdet fortsetter.
+(2) Ved brudd på bestemmelsene i §§ 14-9 eller 14-10 kan arbeidstakeren kreve erstatning. Erstatningen fastsettes i samsvar med § 15-12 andre ledd.

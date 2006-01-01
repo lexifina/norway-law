@@ -1,0 +1,3 @@
+# § 15-5. Virkninger av formfeil ved oppsigelse
+(1) Dersom arbeidsgivers oppsigelse ikke er gitt skriftlig eller ikke inneholder opplysninger som nevnt i § 15-4 og arbeidstaker går til søksmål innen 4 måneder etter at oppsigelsen fant sted, skal oppsigelsen kjennes ugyldig, med mindre særlige omstendigheter gjør dette åpenbart urimelig.
+(2) Er oppsigelsen ugyldig, kan arbeidstaker kreve erstatning. Det samme gjelder dersom oppsigelsen er mangelfull, men arbeidstaker ikke krever dom for ugyldighet eller det ikke blir avsagt dom for ugyldighet fordi særlige omstendigheter gjør dette åpenbart urimelig, jf. første ledd. Erstatningen fastsettes i samsvar med § 15-12 andre ledd.

@@ -1,0 +1,6 @@
+# § 17-4. Søksmålsfrister i tvister om oppsigelse, avskjed, suspensjon mv.
+(1) Ved tvist om oppsigelse, avskjed, brudd på lovens regler om fortrinnsrett eller om det har foreligget ulovlig midlertidig ansettelse, innleie, eller suspensjon, er søksmålsfristen åtte uker. Dersom arbeidstaker bare krever erstatning, er søksmålsfristen seks måneder. Partene kan i den enkelte sak bli enige om en lengre søksmålsfrist.
+(2) Søksmålsfristen etter første ledd regnes fra forhandlingenes avslutning. Er forhandlinger ikke holdt, regnes fristen fra de tidspunkter som er nevnt i § 17-3 andre ledd.
+(3) Dersom arbeidsgivers oppsigelse eller avskjed ikke oppfyller formkravene i § 15-4 første og andre ledd, gjelder ingen søksmålsfrist.
+(4) Ved tvist om det foreligger ulovlig midlertidig ansettelse, innleie eller suspensjon gjelder ingen søksmålsfrist.
+(5) Retten til å fortsette i stillingen etter § 15-11 gjelder dersom søksmål reises innen utløpet av oppsigelsesfristen, og innen åtte uker fra forhandlingenes avslutning eller fra oppsigelsen fant sted. Det samme gjelder hvis arbeidstaker skriftlig underetter arbeidsgiver om at søksmål vil bli reist innen åtte ukers-fristen. Fristene gjelder ikke dersom arbeidsgivers oppsigelse eller avskjed ikke oppfyller formkravene i § 15-4 første og andre ledd, jf. tredje ledd i paragrafen her.

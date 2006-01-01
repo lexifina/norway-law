@@ -1,0 +1,3 @@
+# § 12-12. Militærtjeneste mv.
+(1) Arbeidstaker har rett til permisjon ved pliktig eller frivillig militærtjeneste eller lignende allmenn vernetjeneste. Det samme gjelder ved frivillig tjenestegjøring av til sammen 24 måneders varighet i styrker organisert av norske myndigheter for deltakelse i internasjonale fredsoperasjoner, hvis arbeidstaker snarest mulig etter å ha inngått bindende avtale om tjenestegjøring i slike styrker varsler arbeidsgiver om dette.
+(2) Arbeidstaker som ønsker å fortsette i stillingen etter tjenestegjøringen, skal varsle arbeidsgiver før tjenesten begynner. Arbeidsgiver plikter ikke å ta arbeidstaker tilbake i arbeid før en måned etter mottak av varsel om fra hvilken dag arbeidstaker kan gjenoppta arbeidet.

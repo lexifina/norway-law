@@ -1,0 +1,4 @@
+# § 15-9. Oppsigelsesvern ved svangerskap, og etter fødsel eller adopsjon
+(1) Arbeidstaker som er gravid kan ikke av den grunn sies opp. Oppsigelse som finner sted i denne perioden, skal anses å ha sin grunn i dette forhold dersom ikke noe annet gjøres overveiende sannsynlig. Graviditeten må dokumenteres ved legeattest dersom arbeidsgiver krever det.
+(2) Arbeidstaker som har permisjon etter §§ 12-2, 12-3, 12-4 eller 12-5 første ledd i inntil ett år, må ikke sies opp med virkning i fraværsperioden når arbeidsgiver er klar over at fraværet skyldes disse grunner eller arbeidstaker uten unødig opphold gir beskjed om at dette er grunnen for fraværet. Er arbeidstaker lovlig sagt opp til fratreden på et tidspunkt som faller innenfor dette tidsrommet, er oppsigelsen gyldig, men oppsigelsen forlenges med et tilsvarende tidsrom.
+(3) For arbeidstaker som har permisjon etter §§ 12-5 andre ledd eller 12-6 utover ett år, gjelder første ledd første og andre punktum tilsvarende.

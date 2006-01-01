@@ -1,0 +1,7 @@
+# § 4-1. Generelle krav til arbeidsmiljøet
+(1) Arbeidsmiljøet i virksomheten skal være fullt forsvarlig ut fra en enkeltvis og samlet vurdering av faktorer i arbeidsmiljøet som kan innvirke på arbeidstakernes fysiske og psykiske helse. Standarden for sikkerhet, helse og arbeidsmiljø skal til enhver tid utvikles og forbedres i samsvar med utviklingen i samfunnet.
+(2) Ved planlegging og utforming av arbeidet skal det legges vekt på å forebygge skader og sykdommer. Arbeidets organisering, tilrettelegging og ledelse, arbeidstidsordninger, teknologi, lønnssystemer mv. skal være slik at arbeidstakerne ikke utsettes for uheldige fysiske eller psykiske belastninger og slik at sikkerhetshensyn ivaretas.
+(3) Virksomheten skal innrettes for arbeidstakere av begge kjønn.
+(4) Atkomstveier, sanitæranlegg, arbeidsutstyr mv. skal så langt det er mulig og rimelig være utformet og innrettet slik at arbeidstakere med funksjonshemming kan arbeide i virksomheten.
+(5) Departementet kan gi forskrift om begrensning i adgangen til å sysselsette visse grupper arbeidstakere som i særlig grad kan være utsatt for ulykkes- eller helsefare og om omplassering av slike arbeidstakere.
+(6) Departementet kan gi forskrift som pålegger bruk av identitetskort for arbeidstakere innenfor bransjer der det er nødvendig eller hensiktsmessig for å ivareta arbeidstakernes helse, miljø og sikkerhet og om oversiktslister over hvem som til enhver tid er sysselsatt på arbeidsplassen.

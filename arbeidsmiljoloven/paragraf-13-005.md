@@ -1,0 +1,2 @@
+# § 13-5. Særlig om tilrettelegging for arbeidstakere med funksjonshemming
+Arbeidsgiver skal så langt det er mulig iverksette nødvendige tiltak for at arbeidstaker med funksjonshemming skal kunne få eller beholde arbeid, utføre og ha fremgang i arbeidet og ha tilgang til opplæring og annen kompetanseutvikling. Dette gjelder ikke dersom tiltakene vil innebære en uforholdsmessig stor byrde for arbeidsgiver.

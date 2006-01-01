@@ -1,0 +1,14 @@
+# § 7-2. Arbeidsmiljøutvalgets oppgaver
+(1) Arbeidsmiljøutvalget skal virke for gjennomføring av et fullt forsvarlig arbeidsmiljø i virksomheten. Utvalget skal delta i planleggingen av verne- og miljøarbeidet, og nøye følge utviklingen i spørsmål som angår arbeidstakernes sikkerhet, helse og velferd.
+(2) Arbeidsmiljøutvalget skal behandle:
+a) spørsmål som angår bedriftshelsetjeneste og den interne vernetjeneste,
+b) spørsmål om opplæring, instruksjon og opplysningsvirksomhet i virksomheten, som har betydning for arbeidsmiljøet,
+c) planer som krever Arbeidstilsynets samtykke i henhold til § 18-9,
+d) andre planer som kan få vesentlig betydning for arbeidsmiljøet, så som planer om byggearbeider, innkjøp av maskiner, rasjonalisering, arbeidsprosesser, og forebyggende vernetiltak,
+e) etablering og vedlikehold av virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid, jf. § 3-1,
+f) helse- og velferdsmessige spørsmål knyttet til arbeidstidsordninger.
+(3) Utvalget kan også behandle spørsmål om arbeidstakere med redusert arbeidsevne, jf. § 4-6.
+(4) Utvalget skal gjennomgå alle rapporter om yrkessykdommer, arbeidsulykker og tilløp til ulykker, søke å finne årsaken til ulykken eller sykdommen, og se til at arbeidsgiveren treffer tiltak for å hindre gjentakelse. Utvalget skal i alminnelighet ha adgang til Arbeidstilsynets og politiets etterforskningsdokumenter. Når utvalget finner det nødvendig, kan det vedta at undersøkelser skal foretas av sakkyndige eller granskingskommisjon som utvalget oppnevner. Arbeidsgiveren kan uten ugrunnet opphold forelegge vedtaket for Arbeidstilsynet til avgjørelse. Utvalget skal gjennomgå alle rapporter om yrkeshygieniske undersøkelser og måleresultater. Før utvalget behandler rapporter som nevnt i dette ledd, skal medisinske opplysninger av personlig karakter tas ut av rapportene, med mindre den opplysningen gjelder, samtykker i at de legges fram for utvalget.
+(5) Hvis arbeidsmiljøutvalget finner det påkrevet for å verne arbeidstakernes liv eller helse, kan utvalget vedta at arbeidsgiveren skal gjennomføre konkrete tiltak til utbedring av arbeidsmiljøet, innenfor rammen av bestemmelsene gitt i eller i medhold av denne lov. For å klarlegge om det foreligger helsefare, kan utvalget også vedta at arbeidsgiveren skal utføre målinger eller undersøkelser av arbeidsmiljøet. Utvalget skal sette en tidsfrist for gjennomføringen av vedtaket. Hvis arbeidsgiveren ikke finne å kunne gjennomføre utvalgets vedtak, skal spørsmålet uten ugrunnet opphold forelegges for Arbeidstilsynet til avgjørelse.
+(6) Arbeidsmiljøutvalget skal hvert år avgi rapport om sin virksomhet til virksomhetens styrende organer, arbeidstakernes organisasjoner og Arbeidstilsynet. Direktoratet for arbeidstilsynet gir nærmere regler om årsrapportens innhold og utforming.
+(7) Departementet kan gi forskrift med nærmere regler om utvalgets virksomhet, herunder regler om saksbehandlingen og om taushetsplikt for utvalgets medlemmer.
