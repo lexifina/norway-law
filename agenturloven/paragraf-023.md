@@ -1,0 +1,4 @@
+# § 23. Handelsagentens adgang til å ta imot betaling og inngå endringsavtaler.
+Handelsagenten kan ikke ta imot betaling uten at det foreligger en særlig fullmakt til det. Agenten kan heller ikke etter at avtalen er inngått, uten særlig fullmakt gi henstand med betalingen, nedsette prisen eller gjøre noen annen endring i avtalen.
+Får hovedmannen kjennskap til at handelsagenten har gått ut over sin rett etter første ledd, skal hovedmannen melde fra til tredjemann uten ugrunnet opphold hvis betalingen eller endringen ikke blir godkjent. Ellers anses hovedmannen for å ha godkjent endringen eller betalingen. Dette gjelder likevel ikke hvis tredjemann forsto eller burde forstått at handelsagenten ikke hadde rett til å motta betaling eller inngå endringsavtale.
+Denne paragrafen gjelder tilsvarende ved kjøp fra tredjemann.

@@ -1,0 +1,4 @@
+# § 24. Reklamasjon ved mangler eller forsinkelse.
+Vil tredjemann gjøre gjeldende at det er mangler ved kjøpte varer eller at de er levert for sent, kan melding om dette rettes til handelsagenten hvis denne har medvirket ved inngåelsen av avtalen eller tredjemann hører til agentens område eller kundekrets. Tilsvarende gjelder for andre meldinger tredjemann vil gi hovedmannen i forbindelse med oppfyllelsen av avtalen. Agenten kan imidlertid ikke uten særlig fullmakt treffe noen avgjørelse i forbindelse med meldingene.
+Får hovedmannen kjennskap til at handelsagenten uten særlig fullmakt har truffet slik avgjørelse som nevnt i første ledd, skal hovedmannen melde fra til tredjemann uten ugrunnet opphold. Ellers er hovedmannen bundet av agentens avgjørelse. Dette gjelder likevel ikke hvis tredjemann forsto eller burde forstått at handelsagenten traff avgjørelsen uten fullmakt til det.
+Denne paragrafen gjelder tilsvarende ved kjøp fra tredjemann.

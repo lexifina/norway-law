@@ -1,0 +1,6 @@
+# § 41. Avgangsvederlag.
+Lønnes den handelsreisende helt eller delvis med provisjon, gjelder § 28 tilsvarende.
+Den handelsreisende har likevel ikke rett til avgangsvederlag etter § 28 dersom han eller hun kan avskjediges etter arbeidsmiljøloven § 15-14. Den handelsreisende har heller ikke rett til avgangsvederlag dersom han eller hun selv sier opp arbeidsforholdet, med mindre det etter omstendighetene finnes rimelig at den handelsreisende får avgangsvederlag.
+Den handelsreisende har heller ikke rett til avgangsvederlag i den utstrekning han eller hun har påført arbeidsgiveren et tap ved ikke å oppfylle sine plikter etter avtalen eller loven. Dette gjelder likevel ikke hvis den handelsreisende kan bevise at forholdet ikke skyldes feil eller forsømmelse på den handelsreisendes side. Har arbeidsgiveren forsømt ved rimelige tiltak å begrense sitt tap, må arbeidsgiveren bære den tilsvarende del av tapet. Reduksjonen i avgangsvederlaget kan begrenses hvis den vil virke urimelig for den handelsreisende ut fra tapets størrelse i forhold til det tap som vanligvis oppstår i liknende tilfeller, og forholdene ellers.
+Får den handelsreisende utbetalt avgangsvederlag, gjelder ikke avtaleloven § 38 tredje ledd.
+Bestemmelsen i § 31, jf. § 35, gjelder tilsvarende.
