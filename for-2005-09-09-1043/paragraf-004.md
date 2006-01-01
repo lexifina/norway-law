@@ -1,0 +1,2 @@
+# § 4. Særregler ved endring av ligningsmåte fra brutto- til nettoligning pr. 1. januar 1992
+For deltaker som fikk endret ligningsmåte fra brutto- til nettoligning i forbindelse med skattereformen 1992, og som pr. 31. desember 1991 hadde rett til oppregulering av inngangsverdien på eiendel som tilhørte sameiet, skal deltakerens andel av den oppregulerte verdien tillegges deltakerens inngangsverdi for andelen av eiendelen.
