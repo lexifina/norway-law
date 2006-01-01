@@ -1,0 +1,2 @@
+# § 29. Trekk fra eksamen
+Student som ønsker å trekke seg fra eksamen som de er meldt opp til må gjøre dette senest en måned før første vurderingsordning starter. Dette gjelder også studenter med studieplan som automatisk blir oppmeldt. Den som trekker seg etter denne fristen, eventuelt i eksamenslokalet, og som ikke har gyldig grunn til det, får registrert «ikke møtt». «Ikke møtt» teller som et eksamensforsøk.
