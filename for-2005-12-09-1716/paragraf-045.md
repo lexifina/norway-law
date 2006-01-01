@@ -1,0 +1,4 @@
+# § 45. Øvrige bestemmelser
+1) Vitnemål utstedes på norsk for studieprogram hvor undervisningsspråket er norsk. Et eget vitnemålstillegg, Diploma Supplement, gir en nærmere beskrivelse på engelsk av kandidatens utdanning i det norske utdanningssystemet.
+2) Det utstedes bare ett vitnemål for oppnådd grad.
+3) Rektor fastsetter utformingen av vitnemål og Diploma Supplement.

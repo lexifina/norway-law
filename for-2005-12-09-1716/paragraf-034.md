@@ -1,0 +1,2 @@
+# § 34. Eksamen etter tidligere ordning
+1) For eksamen under bachelornivå gjelder det pensum og den eksamensform som til enhver tid er fastsatt for denne eksamen. Unntatt fra dette er utsatt eksamen, hvor det er samme pensum og eksamensform som ved den foregående ordinære eksamen. Dersom en eksamen/fagblokk opphører, kan studenten gå opp etter det pensum og den eksamensordning som gjaldt ved ordinær eksamen i inntil et år.
