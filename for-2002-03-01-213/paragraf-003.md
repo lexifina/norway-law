@@ -1,0 +1,2 @@
+# § 3. Stemmerett
+Alle som på valgdagen har vært ansatt i selskapet sammenhengende i minst 3 måneder, har stemmerett. Ansatte som arbeider i hovedstilling, jf. § 1 bokstav b, tilkommer en hel stemme. Deltidsansatte, jf. § 1 bokstav c, tilkommer en halv stemme. Dersom valgresultatet åpenbart avslører hvordan en deltidsansatt har stemt, skal valgstyret avrunde valgresultatet opp til nærmeste hele stemme.
