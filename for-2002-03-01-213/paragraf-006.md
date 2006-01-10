@@ -1,0 +1,10 @@
+# § 6. Flertallsvalg
+Dersom valget skal foregå som flertallsvalg, har enhver som har stemmerett, forslagsrett. Forslagsrett har også lokal fagforening.
+Et forslag kan inneholde inntil det antall styremedlemmer og vararepresentanter som skal velges. Forslaget skal framsettes skriftlig og det skal gå fram av forslaget hvem som er forslagsstiller. Forslaget må inneholde tydelig betegnelse av kandidatene ved for- og etternavn og opplysning om hvor i selskapet kandidatene arbeider. Dersom det i selskapet er mer enn en tredjedel kvinnelige ansatte, bør det være foreslått minst en kvinnelig kandidat.
+Valgstyret skal senest sju dager før valgdagen utarbeide og kunngjøre en liste over dem som er foreslått, i alfabetisk rekkefølge. Av listen skal det gå fram hvem som er forslagsstiller til den enkelte kandidat.
+Valgstyret skal utarbeide stemmesedler. På stemmesedlene skal valgstyret, når det er praktisk mulig, føre opp de foreslåtte kandidaters navn i alfabetisk rekkefølge med opplysning om hvor i selskapet den enkelte arbeider og hvem som er forslagsstiller. Valgstyret skal informere velgerne om hvordan de skal gå fram for å markere på stemmeseddelen hvem de stemmer på. Stemmesedlene skal inneholde opplysninger om hva som kan føre til at en stemmeseddel blir forkastet som ugyldig.
+Det skal avgis stemme på inntil det antall styremedlemmer og vararepresentanter som står for valg.
+Det kan bare stemmes på kandidater som er foreslått. Kumulasjon er ikke tillatt. Er kumulasjon foretatt, eller er det ført opp andre navn enn dem som er foreslått, eller er det for øvrig foretatt oppføringer eller rettelser, skal disse settes ut av betraktning ved opptelling av stemmene.
+Dersom det er avgitt stemme på flere foreslåtte kandidater enn det antall som skal velges, skal stemmeseddelen forkastes som ugyldig.
+De som har fått flest stemmer er valgt i den rekkefølge stemmetallene tilsier. Første vararepresentant blir den som har fått flest stemmer etter siste styremedlem. Annen vararepresentant blir den som kommer dernest i stemmetall osv. jf. § 10 første ledd.
+Ved stemmelikhet avgjøres valget ved loddtrekning.
