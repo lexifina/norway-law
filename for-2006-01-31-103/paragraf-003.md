@@ -1,0 +1,2 @@
+# § 3. Kostnader ved beslag og destruksjon
+Kostnader i forbindelse med beslag og/eller destruksjon i samsvar med forordning (EF) nr. 745/2004 artikkel 4 nr. 3 pålegges den som er ansvarlig for den personlige forsendelsen i henhold til nærmere retningslinjer fra Mattilsynet. Som ansvarlig regnes den som medbringer i egen bagasje eller på annen måte foranlediger import av produkter som nevnt i forordning (EF) nr. 745/2004 artikkel 1 nr. 1.
