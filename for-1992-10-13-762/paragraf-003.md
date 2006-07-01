@@ -1,0 +1,2 @@
+# § 3
+Tilskotsfuten tek avgjerd om ettergjeving etter søknad frå tilskotspliktige. Tilskotsfuten kan ettergje både offentleg og privat gjeld. Tilskotsfuten skal vise varsemd ved ettergjeving av privat gjeld. Partane skal høyrast før tilskotsfuten ettergjev privat gjeld. Tilskotsfuten sitt vedtak kan klagast inn for næraste overordna organ eller det organ som Arbeids- og velferdsdirektoratet bestemmer.
