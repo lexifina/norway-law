@@ -1,0 +1,2 @@
+# § 2. Plikt til å gi opplysningar som verkar inn på stønadsretten
+Personar som vert pålagte frammøte på det felles lokale kontoret etter § 1, skal ved frammøtet vise pass eller anna reisedokument for kontroll av opphald i utlandet i stønadsperioden. Ved frammøtet skal dei òg gi opplysningar om eventuelle endringar i inntekt, formue, sivilstand, personar dei forsørgjer og andre tilhøve som verkar inn på retten til supplerande stønad.

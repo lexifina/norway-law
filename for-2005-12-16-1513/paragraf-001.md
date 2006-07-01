@@ -1,0 +1,2 @@
+# § 1. Plikt til å møte personleg
+Ein person som får supplerande stønad etter lov 29. april 2005 nr. 21 kan bli innkalla til personleg frammøte på det felles lokale kontoret i arbeids- og velferdsforvaltninga opptil to gonger i året. Det same gjeld ektemake, sambuar eller registrert partnar som ikkje har fylt 67 år. Frammøte etter første eller andre punktumet kjem i tillegg til personleg frammøte ved søknad om stønad eller forlenga stønad.
