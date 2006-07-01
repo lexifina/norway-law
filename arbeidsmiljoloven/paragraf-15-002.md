@@ -10,6 +10,6 @@ e) hvilke arbeidstakergrupper som normalt er sysselsatt,
 f) over hvilken periode oppsigelsene vil kunne bli foretatt,
 g) forslag til kriterier for utvelgelse av de som eventuelt skal sies opp,
 h) forslag til kriterier for beregning av eventuelle ekstraordinære sluttvederlag.
-Meldingen skal gis tidligst mulig og senest samtidig med at arbeidsgiver innkaller til drøftinger. Tilsvarende melding skal også gis til Aetat, jf. arbeidsmarkedsloven § 8.
-(4) Arbeidstakernes tillitsvalgte kan kommentere meldingen direkte overfor Aetat.
-(5) Planlagte masseoppsigelser får tidligst virkning 30 dager etter at Aetat er underrettet. Aetat kan forlenge fristen i henhold til arbeidsmarkedsloven § 8 tredje ledd.
+Meldingen skal gis tidligst mulig og senest samtidig med at arbeidsgiver innkaller til drøftinger. Tilsvarende melding skal også gis til Arbeids- og velferdsetaten, jf. arbeidsmarkedsloven § 8.
+(4) Arbeidstakernes tillitsvalgte kan kommentere meldingen direkte overfor Arbeids- og velferdsetaten.
+(5) Planlagte masseoppsigelser får tidligst virkning 30 dager etter at Arbeids- og velferdsetaten er underrettet. Arbeids- og velferdsetaten kan forlenge fristen i henhold til arbeidsmarkedsloven § 8 tredje ledd.

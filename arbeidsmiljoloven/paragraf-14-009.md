@@ -3,7 +3,7 @@
 a) når arbeidets karakter tilsier det og arbeidet atskiller seg fra det som ordinært utføres i virksomheten,
 b) for arbeid i stedet for en annen eller andre (vikariat),
 c) for praksisarbeid,
-d) deltaker i arbeidsmarkedstiltak i regi av eller i samarbeid med Aetat,
+d) deltaker i arbeidsmarkedstiltak i regi av eller i samarbeid med Arbeids- og velferdsetaten,
 e) for idrettsutøvere, idrettstrenere, dommere og andre ledere innen den organiserte idretten.
 (2) Departementet kan i forskrift gi nærmere bestemmelser om midlertidig ansettelse for praksisarbeid og om hvilke typer arbeidsmarkedstiltak som omfattes av første ledd bokstav d.
 (3) Landsomfattende arbeidstakerorganisasjon kan inngå tariffavtale med en arbeidsgiver eller en arbeidsgiverforening om adgang til midlertidig ansettelse innenfor en nærmere angitt arbeidstakergruppe som skal utføre kunstnerisk arbeid, forskningsarbeid eller arbeid i forbindelse med idrett. Dersom tariffavtalen er bindende for et flertall av arbeidstakerne innenfor en nærmere angitt arbeidstakergruppe i virksomheten, kan arbeidsgiver på samme vilkår inngå midlertidig arbeidsavtale med andre arbeidstakere som skal utføre tilsvarende arbeid.
