@@ -1,0 +1,2 @@
+# § 10
+Arbeids- og velferdsetaten skal innhente mulige merknader fra motparten, gi en kort redegjørelse for saken og snarest sende den til Ankenemndas sekretariat. Arbeids- og velferdsetaten plikter eventuelt å bistå med innhenting av ytterligere opplysninger i saken. Nemnda skal påse at de forhold som har betydning for behandlingen av vedkommende sak blir klarlagt så godt som mulig før vedtak fattes.
