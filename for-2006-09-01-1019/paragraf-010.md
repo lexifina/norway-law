@@ -1,0 +1,3 @@
+# § 10. Rapportering
+Lagringspliktige eller den som lagrar petroleumsprodukt for lagringspliktige, skal årleg sende inn opplysningar om import, sal og beredskapslageret mv. til departementet på særskilt skjema. Opplysningane skal sendast innan 15. april og innehalde oversikt over produksjon, import og sal i føregåande basisår. Denne rapporteringa er grunnlaget når styresmaktene fastset lagringsplikt og omfang av lagerhald. Fire gonger årleg, innan 15. januar, 15. april, 15. juli og 15. oktober, skal oversikt over lagerhaldet sendast inn, med mindre departementet bestemmer noko anna.
+Den lagringspliktige skal samtidig gi erklæring om at lagringsplikta er oppfylt.
