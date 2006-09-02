@@ -1,0 +1,2 @@
+# § 8. Lagring av andre
+Heile eller delar av lagringspliktig volum kan lagrast av andre for den lagringspliktige si rekning, mellom anna kan ei eller fleire verksemder innanfor eit konsern oppfylle lagringsplikta ved at morselskapet held lager som oppfyller lagringsplikta for eitt eller alle dotterselskap. Avtale om lagring skal innehalde føresegner om at den lagringspliktige skal ha rett til å disponere over fastsette volum av fastsette produkt innan ein fastsett periode, om vedtak blir fatta etter § 11.
