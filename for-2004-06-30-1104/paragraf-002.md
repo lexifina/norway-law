@@ -1,0 +1,3 @@
+# § 2. Samarbeid om produksjon og omsetning av visse hagebruks-, gartneri- og fjørfekjøttprodukter mv.
+Primærprodusenter og produsentorganisasjoner som produserer poteter, grønnsaker, urter, frukt, bær, blomster, planteskoleprodukter, planter og plantedeler til dekorasjonsformål, and, gås, kalkun, kylling, honning eller grovfôr kan samarbeide om produksjon og omsetning av disse produktene. Dette gjelder også samarbeid om oppformering, produksjon og omsetning av settepoteter, såfrø, såkorn og plantemateriale som produksjonsmiddel.
+Produksjon og omsetning skal i denne sammenheng også omfatte forskning, utvikling, foredling, distribusjon, markedsføring og andre tiltak for å bringe produktet frem til markedet.
