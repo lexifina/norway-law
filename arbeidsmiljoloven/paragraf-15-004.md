@@ -5,5 +5,5 @@ a) arbeidstakers rett til å kreve forhandling og reise søksmål,
 b) retten til å fortsette i stillingen etter bestemmelsene i §§ 17-3, 17-4 og 15-11,
 c) de frister som gjelder for å kreve forhandling, reise søksmål og for å fortsette i stillingen, og
 d) hvem som er arbeidsgiver og rett saksøkt i en eventuell tvist.
-Er oppsigelsen begrunnet i virksomhetens forhold, skal den også inneholde opplysninger om fortrinnsrett etter § 14-2. I oppsigelsen skal det også opplyses om hvem som er arbeidsgiver og rett saksøkt i en eventuell tvist.
+Er oppsigelsen begrunnet i virksomhetens forhold, skal den også inneholde opplysninger om fortrinnsrett etter § 14-2.
 (3) Dersom arbeidstaker krever det, skal arbeidsgiver oppgi de omstendigheter som påberopes som grunn for oppsigelsen. Arbeidstaker kan kreve å få opplysningene skriftlig.
