@@ -1,5 +1,5 @@
 # § 12-5. Foreldrepermisjon
-(1) Foreldrene har rett til permisjon etter reglene i paragrafen her og §§ 12-2 og 12-4 i til sammen tolv måneder. Foreldrene har uansett rett til permisjon når det ytes fødselspenger eller adopsjonspenger fra folketrygden.
+(1) Foreldrene har uansett rett til permisjon når det ytes foreldrepenger fra folketrygden.
 (2) Hver av foreldrene har i tillegg til permisjon etter første ledd, rett til permisjon i inntil tolv måneder for hver fødsel. Denne permisjonen må tas ut umiddelbart etter foreldrenes permisjon etter første ledd. Arbeidstaker som har delvis permisjon etter § 12-6 har likevel ikke rett til permisjon etter leddet her.
 (3) Med mindre begge foreldrene har omsorgen for barnet, kan retten til permisjon etter første ledd utøves av en annen som har omsorg for barnet. Arbeidstaker som er alene om omsorgen for barnet har rett til inntil to års permisjon etter andre ledd.
 (4) Adoptivforeldre og fosterforeldre har rett til permisjon etter paragrafen her når omsorgen for barnet overtas. Det samme gjelder arbeidstaker som har eller får tildelt foreldreansvar når den andre av foreldrene dør, og som har hatt mindre enn vanlig samvær med barnet. Retten til permisjon gjelder ikke ved stebarnsadopsjon eller hvis barnet er over 15 år.
