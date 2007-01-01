@@ -1,3 +1,4 @@
-# § 2-4. Forbud mot gjengjeldelse som følge av varsling
-(1) Arbeidstaker har rett til å varsle offentligheten om kritikkverdige forhold i virksomheten der dette ikke er i strid med annen lov.
-(2) Gjengjeldelse mot arbeidstaker som varsler etter første ledd er forbudt.
+# § 2-4. Varsling om kritikkverdige forhold i virksomheten
+(1) Arbeidstaker har rett til å varsle om kritikkverdige forhold i virksomheten.
+(2) Arbeidstakers fremgangsmåte ved varslingen skal være forsvarlig. Arbeidstaker har uansett rett til å varsle i samsvar med varslingsplikt eller virksomhetens rutiner for varsling. Det samme gjelder varsling til tilsynsmyndigheter eller andre offentlige myndigheter.
+(3) Arbeidsgiver har bevisbyrden for at varsling har skjedd i strid med denne bestemmelsen.
