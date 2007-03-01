@@ -1,0 +1,4 @@
+# § 5. Journalens form, språk og autentisitet
+Journalen skal være samlet, skriftlig og utformet på en måte som gjør de journalførte opplysningene lett tilgjengelige for dyrehelsepersonellet, pasientens eier og innehaver og Mattilsynet. Det skal være enkelt å finne og hente ut de samlede opplysningene knyttet til bestemte pasienter, pasientbesetninger, dyrehelsepersonell, eiere og innehavere. Opplysningene skal kunne framstilles kronologisk.
+Journalen skal fortrinnsvis skrives på norsk. Dansk, svensk og engelsk kan benyttes i den utstrekning det er forsvarlig. Det samme gjelder bruk av latinske faguttrykk og alminnelige, faglige forkortelser. I særlige tilfeller kan Mattilsynet gi tillatelse til å benytte annet språk.
+Nedtegnelsene i journalen skal gjøres uten ugrunnet opphold etter at dyrehelsehjelpen er gitt. Hver nedtegnelse skal signeres.
