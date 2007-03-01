@@ -7,5 +7,6 @@ c) avbryte arbeidet dersom arbeidstaker mener at det ikke kan fortsette uten å 
 d) sørge for at arbeidsgiver eller verneombudet blir underrettet så snart arbeidstaker blir kjent med at det forekommer trakassering eller diskriminering på arbeidsplassen,
 e) melde fra til arbeidsgiver dersom arbeidstaker blir skadet i arbeidet eller pådrar seg sykdom som arbeidstaker mener har sin grunn i arbeidet eller forholdene på arbeidsstedet,
 f) medvirke ved utarbeiding og gjennomføring av oppfølgingsplaner ved helt eller delvis fravær fra arbeidet på grunn av ulykke, sykdom, slitasje eller lignende,
-g) rette seg etter påbud fra Arbeidstilsynet.
+g) delta i dialogmøte etter innkalling fra arbeidsgiver, jf. § 4-6 fjerde ledd.
+h) rette seg etter påbud fra Arbeidstilsynet.
 (3) Arbeidstaker som har til oppgave å lede eller kontrollere andre arbeidstakere, skal påse at hensynet til sikkerhet og helse blir ivaretatt under planleggingen og utførelsen av de arbeidsoppgaver som hører under eget ansvarsområde.
