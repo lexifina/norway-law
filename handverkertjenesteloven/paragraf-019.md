@@ -1,0 +1,2 @@
+# § 19. Manglende opplysninger.
+Mangel foreligger dessuten når tjenesteyteren før avtalen ble inngått har unnlatt å opplyse om vesentlige forhold ved tjenestens egenskaper eller hensiktsmessighet som tjenesteyteren måtte kjenne til, og som forbrukeren hadde grunn til å rekne med å få. Dette gjelder likevel bare når unnlatelsen kan antas å ha virket inn på avtalen. Ved manglende underretning etter § 7 (1) gjelder § 8 om virkningen av unnlatt fraråding.

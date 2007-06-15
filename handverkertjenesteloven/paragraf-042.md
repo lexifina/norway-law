@@ -1,0 +1,4 @@
+# § 42. Stansing av arbeidet.
+(1) Skal det betales på forskott eller i deler under utføringen av tjenesten, og betaler ikke forbrukeren i rett tid, kan tjenesteyteren stanse arbeidet i påvente av betaling. Er utføringen påbegynt, skal tjenesteyteren likevel i rimelig utstrekning utføre arbeid som ikke kan utsettes uten fare for vesentlig skade for forbrukeren.
+(2) Stanser tjenesteyteren arbeidet, kan kostnadene og annet tap i forbindelse med stansingen kreves erstattet. Dette gjelder likevel ikke i den grad det godtgjøres at forsinkelsen skyldes uforutsett hindring utenfor forbrukerens kontroll. Ved utmålingen av erstatningen gjelder reglene i § 30 (1) til (3) tilsvarende.
+(3) Reglene i (1) og (2) gjelder tilsvarende dersom forbrukeren ikke yter nødvendig medvirkning ved utføringen av tjenesten.

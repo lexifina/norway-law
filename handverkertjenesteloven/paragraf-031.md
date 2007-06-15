@@ -1,0 +1,3 @@
+# § 31. Normalerstatning for forsinkelse.
+(1) Avtalen kan fastsette en normalerstatning som tjenesteyteren skal betale som erstatning for tap og ulempe som følge av forsinkelse. Slik avtalt normalerstatning må dekke det tap og de ulemper som forholdet vanligvis fører med seg for forbrukeren. Selv om det ikke er avtalt, kan forbrukeren kreve normalerstatning i samsvar med alminnelig praksis i bransjen.
+(2) Dersom tjenesteyteren har opptrådt grovt aktløst eller for øvrig i strid med redelighet og god tro, har forsømt å begrense tapet, eller det foreligger andre særlige grunner, kan forbrukeren i stedet kreve erstatningen utmålt etter § 30.

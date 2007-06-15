@@ -1,0 +1,7 @@
+# § 40. Avbestillingsansvaret.
+(1) For del av tjenesten som er utført eller blir utført i samsvar med § 39, kan tjenesteyteren kreve vederlag som svarer til det prisen ville utgjøre dersom oppdraget bare omfattet denne del (jf § 32).
+(2) Tjenesteyteren kan videre kreve erstatning for tap som følge av avbestillingen. Dette gjelder også tapt fortjeneste så langt det godtgjøres at det ikke var mulig å oppnå en tilsvarende fortjeneste ved oppdrag for andre. Ved utmålingen av erstatningen gjelder ellers reglene i § 30 (1) til (3) tilsvarende. Erstatning etter leddet her kan likevel ikke kreves dersom det godtgjøres at
+a) forbrukeren ikke har bruk for tjenesten fordi den ting eller eiendom tjenesten gjelder går tapt eller skades vesentlig på grunn av uforutsette forhold utenfor forbrukerens kontroll,
+b) lov, inngrep av offentlig myndighet eller andre tilsvarende uforutsette forhold utenfor forbrukerens kontroll er til hinder for at forbrukeren nyttiggjør seg tjenesten, eller
+c) forbrukeren ikke kan betale eller yte nødvendig medvirkning på grunn av uforutsett hindring utenfor forbrukerens kontroll.
+(3) Avtalen kan isteden fastsette en normalerstatning (avbestillingsgebyr) som skal betales dersom forbrukeren tilbakekaller oppdraget eller krever arbeidet innstilt, såframt erstatningen på bakgrunn av reglene i (1) og (2) er rimelig. Unntakene fra erstatningsplikten i (2) fjerde punktum for arbeid som ikke utføres, gjelder tilsvarende.
