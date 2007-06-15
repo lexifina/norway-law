@@ -1,0 +1,4 @@
+# § 28. Erstatningsansvar for forsinkelse og mangel.
+(1) Forbrukeren kan kreve erstatning for tap som følge av forsinkelse eller mangel. Dette gjelder likevel ikke i den grad det godtgjøres at tapet skyldes en hindring som er utenfor tjenesteyterens kontroll, og som tjenesteyteren ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av.
+(2) Beror tapet på en tredjeperson som tjenesteyteren bruker til å utføre tjenesten, er tjenesteyteren fri for ansvar bare om også tredjepersonen ville vært fritatt etter regelen i (1).
+(3) For skade på annet enn den ting eller eiendomsdel tjenesten gjelder eller på annet enn noe som har nær og direkte sammenheng med det tingen eller eiendomsdelen forutsettes brukt til, kan forbrukeren kreve erstatning med mindre tjenesteyteren godtgjør at tapet ikke skyldes feil eller forsømmelse på tjenesteyterens side.
