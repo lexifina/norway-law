@@ -1,0 +1,3 @@
+# § 9. Oppgaver
+Tillitsmannsutvalget (distriktsstyret) skal utføre de oppgaver som det er gitt med hjemmel lov om reindrift og i den til enhver tid gjeldende reindriftsavtale.
+Tillitsmannsutvalget (distriktsstyret) er distriktets utøvende organ og skal fremme forslag for årsmøtet og gjennomføre de vedtak som blir fattet av distriktet. Tillitsmannsutvalget (distriktsstyret) skal stå for den daglige forvaltningen av distriktet og bl.a. gi uttalelser om arealsaker og bestyre felles anlegg og midler. Tillitsmannsutvalget (distriktsstyret) skal opptre utfra sedvane og rettsoppfatninger i reindriften i distriktet, såfremt dette ikke er i strid med gjeldende lover og regler.
