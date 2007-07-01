@@ -1,0 +1,6 @@
+# § 6. Krav til testing, dokumentasjon m.m.
+Produsent og importør skal oppbevare og umiddelbart på forespørsel kunne fremlegge for tilsynsmyndigheten testrapporter om overensstemmelse med NS-EN-ISO-9994 og NS-EN-13869 for hver lightermodell som omsettes, samt en vareprøve av lightermodellen. Produsent skal løpende overvåke at lighterne er i samsvar med forskriftens krav, og skal kunne dokumentere kvalitetssikringen i tilknytning til fremstilling av lighterne.
+Produsent og importør skal utstede en erklæring om samsvar mellom aktuelt vareparti og lightermodellen som er lagt til grunn for testrapportene, og som på anmodning skal kunne fremlegges for tilsynsmyndigheten.
+Ved konstruksjonsendringer på en lightermodell, som kan medføre manglende overensstemmelse med sikkerhetskravene i forskriften og de standarder som er lagt til grunn, skal produsent og importør sørge for at det utarbeides ny eller oppdatert dokumentasjon som skal oppbevares og umiddelbart på forespørsel kunne fremlegges for tilsynsmyndigheten.
+Forhandlere av lightere skal oppbevare og umiddelbart på forespørsel kunne fremlegge for tilsynsmyndigheten dokumentasjon for å kunne identifisere produsenten gjennom omsetningskjeden.
+Dersom produsent eller importør ikke kan fremlegge dokumentasjon som nevnt i de foregående ledd skal lighterne umiddelbart trekkes tilbake fra markedet.
