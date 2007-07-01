@@ -1,0 +1,2 @@
+# § 5. Det lokale elektrisitetstilsyn
+Sentral tilsynsmyndighet bestemmer hvilke netteiere som plikter å føre tilsyn med elektriske anlegg og elektrisk utstyr. Netteiere som pålegges slik tilsynsplikt, skal opprette et lokalt elektrisitetstilsyn, som skal utføre de oppgavene som pålegges av sentral tilsynsmyndighet, jf. kapittel 3. Det lokale elektrisitetstilsyn er underlagt sentral tilsynsmyndighets kontroll.
