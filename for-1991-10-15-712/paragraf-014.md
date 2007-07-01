@@ -1,0 +1,9 @@
+# § 14. Skott og dreneringsarrangement i lasterom/tank for føring av fisk i bulk samt føring av fisk i vann
+1. Skott og dreneringsarrangement for føring av fisk løs i lasterom.
+Når det føres fisk løs i lasterom uten vann, skal utførelse og dimensjonering av tverrskips- og langskips skott samt dreneringsarrangement m.v., minst være i henhold til Det norske Veritas' regler om slike skott (sildeskott). Sjøfartsdirektoratet kan tillate større bredde og/eller lengde av hvert rom enn angitt i reglene, dersom det i stabilitetsberegningene tas hensyn til fri overflateeffekt av lasten som flytende last.
+2. Skott og dreneringsarrangement i lasterom/tank hvor det føres fisk i vann eller i annen flytende blanding.
+2.1. Når det føres levende fisk i vann, eller fisk i en blanding av vann/is, e.l., skal utførelse og dimensjonering av skott og dreneringsarrangement på uklassifiserte fartøy være i henhold til Det norske Veritas' regler for slike tanker. På klassifiserte fartøy skal slike skott samt dreneringsarrangement, oppfylle vedkommende klasseinstitusjons regler for slike tanker.
+2.2. Når det føres fisk med en begrenset andel vann, is e.l. (20-30%) i slike tanker, kan kravene til utførelse av langskipsskott og dreneringsarrangement, gitt i nr. 2.1, fravikes under følgende forutsetninger:
+2.2.1. Kravene til begrensning i tankenes lengde og bredde og til eventuelle korreksjoner for frie overflater i tankene skal tilfredstilles som før føring av fisk løs i lasterom uten vann. Jfr. nr. 1.
+2.2.2. Glideskott i lukeåpning tillates ikke hvis det er med enn ett langskipsskott i tanken.
+2.2.3. Glideskott i lukeåpning skal være vanntett til oppunder lukedekselet. I motsatt fall må stabilitetsberegningene korrigeres for den maksimale effekt av fri overflate somkan forekomme i hele tankens bredde ved ugunstigste lastmengde.
