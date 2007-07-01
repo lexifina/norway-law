@@ -1,0 +1,7 @@
+# 2.9. Forebygging, varsling og slokking av brann.
+2.9.1. Alt materiale og utstyr som brukes i forbindelse med dykkesystemet skal, så langt det er praktisk mulig, være av brannhemmende type for å redusere brannfare og antennelseskilder til et minimum.
+2.9.2. Innvendige rom i skip eller flytende innretninger hvor dykkesystem eller tilhørende hjelpeutstyr er plassert skal ha strukturell brannsikring på samme måte som kontrollstasjoner som avgrenser hovedsoner.
+2.9.3. Innvendige rom som inneholder dykkeutstyr som f.eks. overflatekompresjonskamre, dykkerklokker, gasslager, kompressorer, og kontrollsoner, skal være tilfredsstillende dekket av automatisk brannvarslings- og alarmsystem og tilfredsstillende brannslokningssystem.
+2.9.4. Transportable brannslokningsapparater av godkjent type og konstruksjon skal fordeles utover i rom som inneholder dykkesystem. Ett av de transportable brannslokningsappratene skal oppbevares nær inngangen til rommet.
+2.9.5. Der hvor trykkbeholdere er plassert i lukkede rom, skal det finnes et manuelt utløst overrislingsanlegg med en kapasitet på 10 liter/m2/min. på projeksjonsarealet av et horisontalt plan for å kjøle og beskytte trykkbeholdere i tilfelle av utvendig brann. Dersom trykkbeholdere er plassert på åpent dekk, kan brannslanger anses å gi tilstrekkelig beskyttelse.
+2.9.6. Hvert rom i et overflatekompresjonskammer skal være tilfredsstillende utstyrt for slokking av innvendig brann slik at man får rask og effektiv fordeling av slokningsmidler til alle deler av rommet.

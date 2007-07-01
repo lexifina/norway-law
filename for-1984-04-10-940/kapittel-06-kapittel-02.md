@@ -1,0 +1,8 @@
+# 2.2. Overflatekompresjonskammer.
+2.2.1. Et dykkesystem skal minimum omfatte enten ett overflatekompresjonskammer med to atskilte rom, eller to sammenkoplete atskilte rom som er konstruert slik at det er mulig for personell å komme inn eller gå ut mens ett rom eller kammer forblir under trykk. Alle dører skal være konstruert slik at eventuelle låsemekanismer kan betjenes fra begge sider.
+2.2.2. Hvis et overflatekompresjonskammer skal brukes under forhold hvor det er meningen at en person skal forbli under trykk i et sammenhengende tidsrom på mer enn 12 timer, skal det være utformet slik at det er mulig for de fleste dykkere å stå oppreist og å ligge bekvemt utstrakt på sin egen køy. Det minste av de to rommene skal være stort nok for minst to personer. Ett av rommene skal være oppholdsrom.
+2.2.3. Oppholdsrommet og andre rom beregnet brukt til dekompresjon skal ha en sluse hvor mat, medisiner og utstyr kan bringes inn i kammeret mens de som er der inne er under trykk.
+2.2.4. Sluser skal være konstruert slik at utilsiktet åpning under trykk ikke kan forekomme, om nødvendig skal det finnes sperrer som forhindrer dette.
+2.2.5. Hvert trykkkammer skal ha vinduer som gjør det mulig å observere de som er der inne fra utsiden.
+2.2.6. Et overflatekompresjonskammer skal ha tilfredsstillende omgivelser og bekvemmeligheter for de personer som bruker det under hensyntagen til type og varighet av dykkeoperasjon. Dersom kammeret er tenkt benyttet i mer enn 12 timer, skal det også være toalettbekvemmeligheter. Toalett hvor tømming av avfallet kan foretas til utsiden skal være utstyrt med passende sperrer.
+2.2.7. Dykkesystemet skal tillate sikker overføring av en person under trykk fra dykkerklokken til overflatekompresjonskammeret (og omvendt).

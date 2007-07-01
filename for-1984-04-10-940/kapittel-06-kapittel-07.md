@@ -1,0 +1,9 @@
+# 2.7. Håndteringssystem for dykkerklokker.
+2.7.1. Et dykkersystem skal være utstyrt med et hovedhåndteringssystem som sikrer forsvarlig transport av dykkerklokken mellom arbeidsstedet og overflatekompresjonskammeret.
+2.7.2. Håndteringssystemet skal være konstruert med tilstrekkelige sikkerhetsfaktorer som tar i betraktning miljømessige og driftsmessige betingelser, innbefattet de dynamiske belastninger som oppstår mens dykkerklokken håndteres gjennom grenseflaten mellom luft og vann.
+2.7.3. Håndteringssystemet skal muliggjøre jevn og lettkontrollert håndtering av dykkerklokken.
+2.7.4. Under normale forhold skal senking av dykkerklokken ikke kontrolleres av bremser, men av vinsjenes drivkraftsystem.
+2.7.5. Hvis energiforsyningen til håndteringssystemet svikter, skal bremsene settes på automatisk.
+2.7.6. I tilfelle av feil i en enkelt del av hovedhåndteringssystemet, skal det finnes en alternativ måte å bringe klokken tilbake til overflatekompresjonskammeret på. Dessuten skal det finnes mulighet for tilbakehenting av klokken i nødstilfelle, dersom både hovedmåte og alternativ måte svikter. Hvis dette innebærer oppstigning ved hjelp av oppdrift skal klokken ha tilstrekkelig stabilitet til å holde en i alt vesentlig opprett stilling, og det skal finnes innretninger som hindrer utilsiktet utløsning av ballastvektene.
+2.7.7. Håndterings- og tilkoplingssystemer skal muliggjøre lettvint og fast tilkopling eller frakopling av dykkerklokken til overflatekompresjonskammeret. Dette skal også gjelde om forholdene er slik at skipet eller den flytende innretningen ruller, stamper eller har slagside innenfor de på forhånd fastsatte operasjonelle grenser.
+2.7.8. Når krafttilførsel system brukes i tilkoplingsoperasjonen, skal det i tilfelle svikt i den normale krafttilførsel finnes et hjelpekraftsystem eller en annen tilfredstillende måte å kople dykkerklokken til overflatekompresjonskammeret på.

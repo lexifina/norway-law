@@ -1,0 +1,5 @@
+# 2.10. Elektrisk system.
+2.10.1. Alle elektriske installasjoner og utstyr, innbefattet kraft- og tilførselsordninger, skal være konstruert for de omgivelser de skal virke i, slik at man reduserer risikoen for brann, eksplosjon, elektrisk sjokk og avgivelse av giftige gasser og galvanisk virkning på overflatekompresjonskammer eller dykkerklokke til et minimum.
+2.10.2. I tilfelle av svikt i den elektriske hovedkrafttilførselen til dykkesystemet, skal det være tilgjengelig en uavhengig elektrisk kraftkilde slik at dykkeoperasjonen kan avsluttes på forsvarlig måte. Det er tillatt å bruke skipets elektriske nødkraftkilde som nødkilde for elektrisk kraft hvis denne har tilstrekkelig kapasitet til å dekke dykkesystemet og nødbelastning for fartøyet samtidig.
+2.10.3. Den alternative elektrisk kraftkilden skal plasseres utenfor maskinrommet for å sikre at den virker i tilfelle av brann eller andre ulykker som bevirker at den elektriske hovedkraftinstallasjonen svikter.
+2.10.4. Hvert overflatekompresjonskammer og hver dykkerklokke skal ha så god normal- og nødbelysning at den som befinner seg inne i det kan avlese målere og betjene systemet inne i hvert rom.
