@@ -1,0 +1,2 @@
+# § 8. Verifikasjon
+Verifikasjonen utføres i den grad det finnes nødvendig av Sjøfartsdirektoratet eller annen norsk myndighet som legger miljødeklarasjonen til grunn for enkeltvedtak. Andre parter kan bemyndiges til å foreta slik verifikasjon på vegne av norske myndigheter. Verifikasjon kan skje gjennom kontroll av dokumentasjon, og ved inspeksjon av systemer og komponenter knyttet til deklarerte kriterier i miljødeklarasjonen. Verifikasjon kan også omfatte prøvetaking og fysiske målinger.
