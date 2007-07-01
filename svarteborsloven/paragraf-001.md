@@ -1,0 +1,2 @@
+# § 1
+Det er forbudt å selge billetter til kultur- og idrettsarrangementer til en høyere pris enn den som er påført billetten fra arrangørens side, eller som billetten første gang ble solgt for. Dersom billetten er solgt gjennom en annen aktør enn arrangøren på grunnlag av avtale mellom arrangøren og aktøren, og det er betalt en særskilt billettavgift som fremgår av billetten, kan billettavgiften også være inkludert i salgsprisen ved videresalg.
