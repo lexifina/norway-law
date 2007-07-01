@@ -1,0 +1,6 @@
+# § 1. Virkeområde
+1. Denne forskriften gjelder for nye norske fiske- og fangstfartøy med største lengde på 15 m (Loa) og derover.
+2. For eksisterende fartøy av samme størrelse kommer forskriften til anvendelse i forbindelse med ombygginger og forandringer i den grad som finnes naturlig. Dette gjelder spesielt selve ombyggingen/forandringen, men også de sikkerhetsforhold som dette måtte berøre.
+2.1. For eksisterende fartøy gjelder for øvrig bestemmelsene i de forskrifter som gjaldt på den tid fartøyet ble bygget. Disse bestemmelser behøver likevel ikke håndheves strengere enn hva som er uttrykt i forskriften her, såfremt bestemmelsens sikkerhetsmessige norm er ivaretatt.
+2.2. For alle eksisterende fartøy kan Sjøfartsdirektoratet etter konkret vurdering av sikkerheten ut fra fartøyets generelle byggetekniske utførelse, arrangement og tilstand bestemme at eksisterende fartøy ved forandring i anvendelse, reparasjoner, ombygginger, øket dypgående eller av andre årsaker, helt eller delvis skal oppfylle bestemmelsene i denne forskrift.
+2.3. For eksisterende fartøy som etter nr. 2 helt eller delvis skal tilfredsstille kravene i denne forskrift, kommer § 6 og § 7 om tegninger, dokumentasjon og byggetilsyn m.v. til anvendelse i det omfang som anses påkrevd.

@@ -1,0 +1,3 @@
+# § 5. Melding om nybygg
+Bygging av fiske- og fangstfartøy skal meldes til Skipskontrollen eller Sjøfartsdirektoratet i samsvar med lov av 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. § 11, 1. og 2. ledd straks kontrakt om bygging er inngått. Meldingen skal innsendes i 3 eksemplarer på fastsatt skjema av byggeverksted ved bygging innenlands og av rederi ved bygging i utlandet.
+Ved kansellering, endringer i kontraktsforholdet e.l. som medfører at fartøyet ikke lenger skal registreres under norsk flagg, skal det straks sendes melding til Sjøfartsdirektoratet, jfr. sjødyktighetsloven § 11, 3. ledd. Ved bygging i Norge påhviler det verkstedet, og ved bygging i utlandet påhviler det rederiet (bestilleren) å sende slik melding.
