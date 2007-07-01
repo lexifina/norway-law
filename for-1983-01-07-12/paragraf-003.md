@@ -1,0 +1,3 @@
+# § 3. Anmeldelse av nybygg
+Bygging av fartøy skal meldes til Sjøfartsdirektoratet i samsvar med lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. § 11 straks kontrakt om bygging er inngått. Meldingen skal innsendes i 3 eksemplarer på fastsatt skjema.
+Ved kansellering, endringer i kontraktsforholdet e.l. som medfører at skipet ikke lenger skal registreres under norsk flagg skal det straks sendes melding til Sjøfartsdirektoratet, jfr. sjødyktighetsloven § 11, 3. ledd. Ved bygging i Norge påhviler det verkstedet og ved bygging i utlandet påhviler det rederen (bestilleren) å sende slik melding.

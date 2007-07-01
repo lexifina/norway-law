@@ -1,0 +1,7 @@
+# § 6. Konstruksjon, styrke, besiktelse m.v.
+1. Fartøy som ikke er klassifisert skal med hensyn til skrog, overbygninger og dekkshus, rigg med tilbehør, utrustning, maskineri, kjeler, rørledninger m.v., konstruksjon og styrke tilfredsstille reglene til Det norske Veritas og forskrifter og bestemmelser som er fastsatt av Sjøfartsdirektoratet. Hvor reglene til Det norske Veritas ikke passer, skal konstruksjon og styrke være som Sjøfartsdirektoratet bestemmer.
+2. Klassifisert fartøy skal være i samsvar med reglene til vedkommende besiktelsesintitusjon og forskrifter og bestemmelser som er fastsatt av Sjøfartsdirektoratet. Hvor reglene til vedkommende besiktelsesinstitusjon ikke passer, skal konstruksjon og styrke være som Sjøfartsdirektoratet bestemmer.
+3. Fartøy som anvendes til fangst i isfarvann skal være i samsvar med reglene til Det norske Veritas for fangstfartøy og forskrifter og bestemmelser som er fastsatt av Sjøfartsdirektoratet.
+4. Nytt fartøy og fartøy som ombygges eller forandres skal underkastes besiktelse for kontroll av at arrangementer, materialer og materialdimensjoner er i samsvar med reglene til Det norske Veritas og forskrifter og bestemmelser som er fastsatt av Sjøfartsdirektoratet.
+4.1. For fartøy som bygges/ombygges/forandres i Norge skal verkstedet sende begjæring om besiktelse til vedkommende skipskontrollstasjon.
+4.2. For fartøy som bygges/ombygges/forandres i utlandet skal rederiet sende begjæring om besiktelse til Sjøfartsdirektoratet.
