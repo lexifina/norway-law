@@ -1,0 +1,4 @@
+# 2.8. Plasseringen av dykkesystem på skip eller flytende innretning.
+2.8.1. Dykkesystem og pustegassutstyr skal plasseres i rom eller steder med tilstrekkelig ventilasjon og tilfredsstillende elektrisk belysning.
+2.8.2. Der hvor noen del av dykkesystemet er plassert på dekk, må man være spesielt oppmerksom på nødvendigheten av å skaffe tilfredsstillende beskyttelse mot sjø, ising og skader som kan oppstå om bord på grunn av andre aktiviteter om bord på skipet eller den flytende innretningen.
+2.8.3. Det skal være mulig å påse at dykkesystem og hjelpeutstyr er forsvarlig festet til skip eller flytende innretning og at tilstøtende utstyr er tilsvarende sikret. Det må tas hensyn til den relative bevegelse mellom systemets deler. I tillegg skal festeanordninger oppfylle de operasjonskrav som gjelder for skipet eller den flytende innretningen.
