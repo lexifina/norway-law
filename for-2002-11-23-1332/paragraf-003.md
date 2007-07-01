@@ -1,0 +1,14 @@
+# § 3. Nasjonalitets- og registreringsmerkenes plassering
+(1) Alminnelige bestemmelserNasjonalitets- og registreringsmerkene skal males på luftfartøyet eller festes på en måte som sikrer en tilsvarende grad av holdbarhet. Merkene skal til enhver tid holdes rene og være godt synlige.
+(2) Luftfartøy lettere enn luft
+a) Luftskip Merkene skal plasseres enten på skroget eller på finnene. Merkene på skroget skal settes langs hver side av dette, samt på oversiden langs midtlinjen. Merkene på finnene, skal settes både på de horisontale og på de vertikale finner. Merkene på den horisontale finne, skal settes på høyre halvdel av oversiden og på venstre halvdel av undersiden med toppen av bokstavene mot finnens forkant. Merkene på den vertikale finne, skal settes på begge sider av den underste halvdel av finnen med bokstavene horisontalt.
+b) Kuleformede ballonger (unntatt ubemannede friballonger) Merkene skal plasseres på de to diametralt motsatte steder ved ballongens største horisontale omkrets.
+c) Ikke-kuleformede ballonger (unntatt ubemannede friballonger) Merkene skal plasseres på hver side nær største tverrsnitt av ballongen enten like over taklingsgjorten eller like over kabelfestene for gondolen.
+d) Luftfartøy lettere enn luft (unntatt ubemannede friballonger) Merkene på sidene skal være synlige både fra sidene og nedenfra.
+e) Ubemannede friballonger med lasteinnretning Merkene skal stå på identifiseringsplaten, jf. § 7.
+(3) Luftfartøy tyngre enn luft
+a) Vinger Merkene skal plasseres en gang på undersiden av venstre ving såfremt de ikke strekker seg tvers over hele vingespennet. Når hele vingespennet brukes skal nasjonalitetsmerket plasseres på høyre ving og registreringsmerket på venstre ving, slik at det hele kan leses i sammenheng sett forfra og nedenfra. Merkene skal såvidt mulig plasseres i lik avstand fra vingens for- og bakkant med toppen av bokstavene eller sifrene mot forkanten.
+b) Skrog og vertikale halefinner Merkene skal plasseres enten på begge sider av kroppen mellom vingene og halefinnene eller på øvre halvdel av de vertikale halefinnene. Er det bare en vertikal halefinne, skal merkene settes på begge sider av denne. Er det flere vertikale halefinner, skal de settes på yttersiden av de ytre finnene. Hvis plassen på finnen ikke strekker til, kan sideroret benyttes.
+c) Særlige tilfeller
+1) Har luftfartøyet ikke deler som svarer til delene beskrevet i bokstav a og b, skal merkene anbringes slik at luftfartøyet lett kan identifiseres.
+2) Helikoptre Merkene skal plasseres på helikopterets underside og på begge sider av helikopterets skrog eller halebom. Merkene på undersiden skal enten plasseres på tvers av skroget med toppen av bokstavene mot helikopterets front, eller langsetter skroget med toppen av bokstavene mot helikopterets venstre side. Merkene skal plasseres på en slik måte at helikopteret kan identifiseres under flyging med underhengende last.
