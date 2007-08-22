@@ -1,0 +1,3 @@
+# § 3-8. Sentraliserte infrastrukturer
+Lufthavnadministrasjonen bestemmer innenfor rammen av denne forskrift hva som er sentraliserte infrastrukturer for den enkelte lufthavn, og kan bestemme at ytere av lufthavnrelaterte tjenester og brukere som utøver egentjeneste skal benytte disse infrastrukturer.
+Lufthavnadministrasjonen skal sørge for forvaltningen av de sentraliserte infrastrukturer. Forvaltningen skal være oversiktlig, objektiv og ikke-diskriminerende, og utføres på en slik måte at den ikke hindrer ytere av lufthavnrelaterte tjenester og lufthavnbrukere som utøver egentjenester i å få adgang til infrastrukturene innenfor de grenser som er fastsatt i denne forskrift.

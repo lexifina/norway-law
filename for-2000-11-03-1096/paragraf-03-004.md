@@ -1,0 +1,2 @@
+# § 3-4. Utvelgelse av ytere av lufthavnrelaterte tjenester og brukere som utøver egentjeneste
+Lufthavnadministrasjonen tar stilling til hvem som kan yte lufthavnrelaterte tjenester og hvem som kan utøve egentjeneste i henhold til de regler som følger av denne forskrift. Dersom antallet ytere av lufthavnrelaterte tjenester begrenses med hjemmel i § 3-6 annet ledd og § 4-1, gjelder § 4-2 til § 4-8.
