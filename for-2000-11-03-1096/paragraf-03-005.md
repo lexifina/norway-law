@@ -1,0 +1,4 @@
+# § 3-5. Regler for ytere av lufthavnrelaterte tjenester mv.
+Ytere av lufthavnrelaterte tjenester og brukere som utøver egentjeneste, skal utøve disse tjenester i samsvar med bestemmelser gitt i norsk lov, denne forskrift og av lufthavnadministrasjonen med hjemmel i denne forskrift.
+For å sikre hensiktsmessig drift av lufthavnen, kan lufthavnadministrasjonen fastsette retningslinjer for tjenesteytere eller lufthavnbrukere som utøver egentjeneste. Slike retningslinjer må anvendes på de forskjellige tjenesteytere og brukere på en ikke-diskriminerende måte. Retningslinjene må ha sammenheng med det målet som skal nås, og de skal ikke føre til at markedsadgangen eller adgangen til å utøve egentjeneste i praksis innskrenkes til et lavere nivå enn det som følger av forskriften.
+Blir disse retningslinjer ikke overholdt, kan lufthavnadministrasjonen frata vedkommende tjenesteyter eller bruker retten til å levere lufthavnrelaterte tjenester eller utøve egentjeneste.

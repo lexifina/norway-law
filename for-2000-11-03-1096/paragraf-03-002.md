@@ -1,0 +1,4 @@
+# § 3-2. Atskillelse av regnskaper
+Lufthavnadministrasjon som yter lufthavnrelaterte tjenester skal holde regnskapene for disse tjenestene strengt atskilt fra regnskapene fra sine øvrige typer virksomhet i henhold til alminnelige forretningsmessige prinsipper. Det samme gjelder for lufthavnbruker eller tjenesteyter som yter lufthavnrelaterte tjenester.
+Det skal ikke finne sted finansielle overføringer mellom den virksomhet lufthavnadministrasjonen utøver som lufthavnmyndighet og dens virksomhet innen lufthavnrelaterte tjenester.
+En erklæring fra statsautorisert/registrert revisor som viser at reglene i første og annet ledd er overholdt skal årlig sendes Luftfartstilsynet. Luftfartstilsynet skal på grunnlag av de således utarbeidede revisorerklæringene kontrollere og påse at bestemmelsene overholdes.
