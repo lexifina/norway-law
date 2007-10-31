@@ -1,0 +1,7 @@
+# § 8. Rester av plantevernmidler mv.
+Bearbeidet kornbasert barnemat og annen barnemat skal ikke innholde rester av plantevernmidler som overstiger en grenseverdi på 0,01 mg/kg. Grenseverdien gjelder for hvert enkelt plantevernmiddel, med unntak av de plantevernmidlene hvor det i vedlegg 6 er gitt spesielle grenseverdier. I disse tilfellene gjelder grenseverdiene fastsatt i vedlegg 6.
+Analysemetoder som benyttes for å bestemme innholdet av rester av plantevernmidler skal være metoder som er basert på generelt aksepterte og standardiserte metoder.
+Plantevernmidler listet opp i vedlegg 7 skal ikke brukes i produksjonen av ingredienser som skal inngå i kornbasert barnemat og annen barnemat. For tilsynsformål gjelder likevel følgende:
+1) Det antas at plantevernmidler listet opp i tabell 1 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået, som er analysemetodens kvantifiseringsgrense, skal revurderes dersom det anses nødvendig i lys av ny teknologi.
+2) Det antas at plantevernmidler listet opp i tabell 2 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået skal revurderes i lys av nye data omhandlende miljøforurensning.
+Bestemmelsene gitt i denne paragrafen gjelder for kornbasert barnemat og annen barnemat som er ferdig til konsum eller tilberedt i henhold til produsentens anvisninger.
