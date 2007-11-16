@@ -1,0 +1,2 @@
+# § 11. Krav til pakking
+Matpoteter fra Egypt som importeres til Norge skal i Egypt være sortert og pakket i forseglede forbrukerpakninger på opp til 10 kg. Pakkeriet skal være offentlig godkjent og befinne seg innenfor det offentlige godkjente smittefrie området hvor potetene er dyrket. Sortering og pakking skal foregå under kontroll av den offisielle egyptiske plantehelsemyndigheten. Det skal ikke behandles poteter fra andre områder på pakkeriet i den perioden når det sorteres og pakkes poteter for eksport til Norge.
