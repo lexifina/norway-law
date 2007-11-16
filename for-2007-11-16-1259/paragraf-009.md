@@ -1,0 +1,2 @@
+# § 9. Krav til produksjonen
+Matpoteter fra Egypt som importeres til Norge skal være produsert av settepoteter som enten har sin direkte opprinnelse i EU eller Norge eller som en gang har vært produsert fra slike settepoteter. Settepoteter skal være produsert i områder som er offisielt godkjent fritt for mørk ringråte og som kun bruker vann fra borebrønner til vanning. Settepotetene skal umiddelbart før setting ha vært offisielt undersøkt for latent smitte etter EUs testprogram som fastsatt i Rådets direktiv 98/57/EF og funnet fri for mørk ringråte.
