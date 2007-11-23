@@ -1,0 +1,7 @@
+# § 3. Grunnleggende sikkerhetsopplæring
+Alle fiskere på fartøy som driver ervervsmessig fiske eller fangst skal ha gjennomgått minst 40 timers grunnleggende sikkerhetsopplæring med innføring i risikoforhold, førstehjelp, sjøredning, brannvern, røykdykking samt verne- og miljøarbeid.
+For fiskere som tidligere har fullført godkjent sikkerhetskurs, kreves ikke grunnleggende sikkerhetsopplæring dersom sikkerhetsopplæringens administrasjon finner at kurset er i samsvar med fagplan til sikkerhetsopplæring for fiskere.
+For fiskere som har gjennomført sikkerhetskurs i andre land enn Norge, godkjennes slike kurs dersom de er av minst 40 timers varighet, og sikkerhetsopplæringens administrasjon finner at kursets innhold tilfredsstiller fagplan til sikkerhetsopplæring for fiskere. Sikkerhetsopplæringens administrasjon skal utstede dokumentasjon på at slik vurdering er foretatt. Slik dokumentasjon skal oppbevares om bord og fremvises ved eventuell kontroll.
+For fiskere som er fylt 67 år er omhandlede opplæring frivillig.
+Fagplan og eventuelle endringer av denne, skal være godkjent av Det rådgivende utvalg for sikkerhetsopplæring for fiskere. Fagplan og eventuelle endringer av denne, skal forelegges Rådet for videregående opplæring og Kirke- og undervisningsdepartementet til orientering før den iverksettes.
+Fagplan og eventuelle endringer av denne, skal forelegges Kirke-, utdanning- og forskningsdepartementet til orientering før den iverksettes
