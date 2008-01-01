@@ -1,0 +1,4 @@
+# § 1
+Forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater m.v. gjeld tilsvarande der retten oppnemnar annan eigna person etter barnelova § 61 nr. 4 og 7, viser partane til mekling hos annan person med innsikt i dei tvistepunkta saka gjeld etter barnelova § 61 nr. 2 og oppnemnar annan person enn advokat som representant for barnet etter barnelova § 61 nr. 5.
+Retten skal fastsetje salæret etter timesats fastsett av Justisdepartementet jf. forskrift 3. desember 1997 nr. 1441 § 2 første punktum. Dette gjeld berre der det ikkje høyrer til den alminnelege tenesteplikta å utøve rolla. Vedkomande kan ikkje krevje tapt arbeidsgodtgjering i staden for godtgjering etter forskrift 3. desember 1997 nr. 1441.
+Dei som gjer teneste etter første ledd skal ha reisegodtgjering slik det er fastsett i reglane om skyss- og kostgodtgjering for offentlege tenestemenn.
