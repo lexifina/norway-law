@@ -1,0 +1,2 @@
+# § 3-4. Forslags-, møte- og talerett i styret
+I eiendomsmeglingsforetak, jf. § 2-1, skal fagansvarlig som nevnt i § 2-9 og ansvarlig megler som nevnt i § 6-2 ha rett til å foreslå styrebehandling i saker vedrørende eiendomsmeglingsfaglige forhold. I slike saker har vedkommende møte- og talerett i styret. Fagansvarlig og ansvarlig megler som ikke er enig i en beslutning, kan kreve sin oppfatning innført i protokollen.

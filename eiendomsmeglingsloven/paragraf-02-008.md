@@ -1,0 +1,6 @@
+# § 2-8. Aksjeeierstruktur
+(1) Eier av betydelig eierandel i eiendomsmeglingsforetak, jf. § 2-1 første ledd nr. 1, skal være egnet til å sikre at foretaket drives i samsvar med lover, forskrifter og god meglerskikk. Med betydelig eierandel menes direkte eller indirekte eierandel som representerer minst 10 prosent av aksjekapitalen eller stemmene, eller som på annen måte gjør det mulig å utøve betydelig innflytelse over forvaltningen i selskapet. Like med vedkommende eiers egne aksjer regnes aksjer som eies av dennes nærstående. Med nærstående menes i denne bestemmelsen personer som nevnt i lov 19. juni 1997 nr. 79 om verdipapirhandel § 1-4.
+(2) Erverv av betydelig eierandel i eiendomsmeglingsforetak kan bare gjennomføres etter at melding om dette på forhånd er sendt til Kredittilsynet.
+(3) Melding til Kredittilsynet skal også sendes før økning av eierandel som medfører at vedkommendes andel av aksjekapitalen eller stemmene når opp til eller overstiger 20 prosent, 33 prosent eller 50 prosent.
+(4) Kredittilsynet skal innen tre måneder fra den dag som melding etter annet og tredje ledd er mottatt, nekte slikt erverv dersom erververen ikke oppfyller vilkårene i første ledd.
+(5) Departementet kan i forskrift gi nærmere regler om plikten for eiendomsmeglingsforetak til å gi melding om foretakets eiere.
