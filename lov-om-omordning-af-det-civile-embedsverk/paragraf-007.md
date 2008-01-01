@@ -1,0 +1,2 @@
+# § 7
+Den Betaling for Embedsforretninger og de uvisse Indtægter, der i Henhold til Lov om en forandret Lønningsmaade for visse civile Embeder m.v. af 14de Mai 1872 har tilligget Fogderne og Byfogder, hvis Embeder ophæves, skal tilfalde de Tjenestemænd, der med Hensyn til vedkommende Forretninger træder i Fogdernes og Byfogdernes Sted; dog skal den Godtgjørelse, der vilde have været at beregne for Indfordringer for den almindelige Brandforsikringsindretning og de under Kirkedepartementet henhørende Fonds, komme Statskassen til Indtægt.
