@@ -1,4 +1,4 @@
 # § 18-3. Når andre virkninger av saksanlegg inntrer og opphører
-(1) De virkninger som følger av annen lovgivning av at søksmål er reist, inntrer når prosesskrivet som reiser saken eller inndrar kravet, er sendt, slik at fristen er avbrutt etter domstolloven § 146 eller § 146a. For krav som settes fram i rettsmøte, inntrer virkningen når kravet settes fram.
+(1) De virkninger som følger av annen lovgivning av at søksmål er reist, inntrer når prosesskrivet som reiser saken eller inndrar kravet, er sendt, slik at fristen er avbrutt etter domstolloven § 146. For krav som settes fram i rettsmøte, inntrer virkningen når kravet settes fram.
 (2) Når foreldelse er avbrutt ved forliksklage, opphører denne virkningen dersom stevning, eller eventuelt forliksklage, ikke er sendt til retten innen ett år fra forliksrådet innstilte behandlingen av saken.
 (3) Hvis søksmålet avvises eller ellers ender uten dom, og saksøkeren ikke er vesentlig å bebreide for dette, er virkningen etter første ledd fortsatt i kraft hvis kravet reises i nytt søksmål innen tre måneder fra kjennelsen ble forkynt for saksøkeren. Mot oversitting av tremånedersfristen kan det ikke gis oppfriskning.
