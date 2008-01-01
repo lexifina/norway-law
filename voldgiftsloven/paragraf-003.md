@@ -1,0 +1,3 @@
+# § 3. Når skriftlig kommunikasjon anses mottatt
+Hvis ikke annet er avtalt, anses skriftlig kommunikasjon for mottatt den dagen dokumentet er levert adressaten personlig eller levert til dennes forretningssted, bostedsadresse eller postadresse. Kan ingen av disse adressene bringes på det rene etter en rimelig undersøkelse, anses skriftlig kommunikasjon for mottatt den dagen dokumentet er sendt til mottakerens sist kjente forretningssted, bostedsadresse eller postadresse. Er partene enige om å bruke elektronisk kommunikasjon, anses skriftlig kommunikasjon mottatt når den er sendt til riktig elektronisk adresse og adressaten har tilgang til den.
+Bestemmelsen gjelder ikke for behandlingen i de alminnelige domstoler.
