@@ -1,0 +1,4 @@
+# § 2. Grupperegisteret
+Retten skal så snart den har avgjort begjæringen om registrering varsle søkeren om resultatet og føre vedkommende inn i grupperegisteret dersom begjæringen blir tatt til følge.
+Grupperegisteret føres elektronisk av domstolen, og skal så snart det er opprettet legges ut på lukket nettside for gruppemedlemmene, grupperepresentanten, prosessfullmektigen for gruppesøksmålet, saksøkte og saksøktes prosessfullmektig. Medlemmenes personnummer skal ikke legges ut på nettsiden. Grupperegisteret skal oppdateres når noen melder seg på eller trer ut av gruppesøksmålet.
+Grupperegisteret føres av den instans som behandler saken. Anke over kjennelser om saksbehandlingen etter tvisteloven § 29-3 (2) eller over beslutninger etter tvisteloven § 29-3 (3), medfører ikke at ankeinstansen får plikt til å føre grupperegister.
