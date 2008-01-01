@@ -1,0 +1,4 @@
+# § 2-3. Konsesjonsmyndighet. Søknad om tillatelse
+(1) Kredittilsynet kan gi tillatelse til å drive eiendomsmegling til foretak som oppfyller kravene i §§ 2-4 til 2-9. Det kan stilles vilkår for tillatelsen, herunder at foretaket før virksomheten starter opp dokumenterer overfor Kredittilsynet at kravet i § 2-10 er oppfylt.
+(2) Dersom kravene i § 2-5 annet ledd og § 2-9 annet ledd tredje punktum er oppfylt, kan Kredittilsynet gi tillatelse som nevnt i § 2-2.
+(3) Søknad om tillatelse skal inneholde opplysninger som viser at kravene som nevnt i første ledd første punktum eller annet ledd er oppfylt, samt andre opplysninger av betydning for vurderingen av om tillatelse skal gis. Kredittilsynet kan be om ytterligere opplysninger som er av betydning for behandling av søknaden. Departementet kan i forskrift fastsette nærmere regler om hvilke opplysninger som skal fremgå av søknaden.

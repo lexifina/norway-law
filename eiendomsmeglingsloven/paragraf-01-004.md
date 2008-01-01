@@ -1,0 +1,6 @@
+# § 1-4. Forskrifter om visse former for eiendomsmeglingsvirksomhet
+(1) Departementet kan i forskrift fastsette nærmere regler, herunder unntak fra lovens øvrige regler, for eiendomsmeglingsvirksomhet som drives av boligbyggelag.
+(2) Departementet kan i forskrift fastsette nærmere regler, herunder unntak fra lovens øvrige regler, for eiendomsmeglingsvirksomhet knyttet til leiekontrakter til fast eiendom.
+(3) Departementet kan i forskrift fastsette nærmere regler, herunder unntak fra lovens øvrige regler, for eiendomsmeglingsvirksomhet knyttet til eiendom som ikke helt eller delvis er egnet brukt til bolig- eller fritidsformål.
+(4) Departementet kan i forskrift fastsette nærmere regler, herunder unntak fra lovens øvrige regler, for eiendomsmeglingsvirksomhet knyttet til omsetning av eiendom beliggende utenfor Norge. Departementet kan i forskrift også fastsette særskilte regler for slik virksomhet.
+(5) Departementet kan i forskrift fastsette nærmere regler, herunder unntak fra lovens øvrige regler, for eiendomsmeglingsvirksomhet knyttet til omsetning av avtale om erverv av fast eiendom, atkomstdokument som nevnt i § 1-2 annet ledd nr. 3 eller tidsparter som nevnt i § 1-2 annet ledd nr. 5. Departementet kan i forskrift også fastsette særskilte regler for slik virksomhet.

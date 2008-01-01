@@ -1,0 +1,7 @@
+# § 2-9. Foretakets ledelse. Fagansvarlig.
+(1) Styremedlemmer og daglig leder i eiendomsmeglingsforetak, jf. § 2-1, skal ha relevante kvalifikasjoner og yrkeserfaring, ha ført en hederlig vandel, jf. tredje ledd, og for øvrig ikke ha utvist utilbørlig atferd som gir grunn til å anta at stillingen eller vervet ikke vil kunne ivaretas på forsvarlig måte.
+(2) Foretaket skal ha en fagansvarlig person (fagansvarlig), som enten har eiendomsmeglerbrev, jf. § 4-2, advokatbevilling eller tillatelse etter § 4-3. Vedkommende skal være egnet til å sikre at foretaket drives i samsvar med lover, forskrifter og god meglerskikk. Dersom foretaket har en eller flere filialer skal hver av disse ha en fagansvarlig som oppfyller kravene etter første og annet punktum.
+(3) Personer som nevnt i første og annet ledd, skal legge frem politiattest. Tidsbegrensningene i strafferegistreringsloven § 6 gjelder ikke.
+(4) Eiendomsmeglingsforetak skal før skifte av styremedlem, daglig leder eller fagansvarlig sende melding til Kredittilsynet om dette.
+(5) Kredittilsynet kan til enhver tid kreve at personer som nevnt i første og annet ledd, skal legge frem ny politiattest.
+(6) Departementet kan i forskrift gi nærmere regler om foretakets plikt til å gi melding etter fjerde ledd, om rettigheter og plikter for fagansvarlig, samt om hvilke straffbare forhold som skal avmerkes på politiattesten og om behandling av denne.
