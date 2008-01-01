@@ -1,0 +1,2 @@
+# § 9
+Har en advokat eller part ikke tilbørlig forberedt bevisførselen gjennom utdrag av saken, eller har han tatt inn overflødige ting i utdraget eller foranlediget overflødige reproduksjoner av karter eller skisser, eller har han oversittet eller bevirket oversittelse av den frist som er nevnt i § 4, kan han ved dommen i saken ilegges bøter. Likeledes kan det pålegges ham helt eller delvis å erstatte de utgifter som ved hans forhold er påført det offentlige.
