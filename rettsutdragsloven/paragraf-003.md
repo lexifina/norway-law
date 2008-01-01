@@ -1,0 +1,3 @@
+# § 3
+Før utdraget innleveres til Høyesteretts kontor, skal det forevises for den eller de øvrige advokater som avgir møte i saken. Den som utdraget således blir forevist for plikter enten å forsyne det med påtegning om at det vedtas, eller å bringe i stand et særskilt utdrag av det som ytterligere aktes påberobt. På dette tilleggsutdrag får bestemmelsene i nærværende paragraf og § 2 tilsvarende anvendelse.
+Forevisningen skal ske til saadan tid, at vedkommende efter at ha gjort sig bekjendt med det foreviste og efter i tilfælde at ha istandbragt et særskilt utdrag kan tilbakelevere dokumenterne saa betimelig, at den i § 4 bestemte frist ikke oversittes.
