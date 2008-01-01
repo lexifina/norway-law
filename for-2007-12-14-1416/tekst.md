@@ -1,0 +1,2 @@
+1) Endringen i patentloven § 39b annet ledd ved lov 29. juni 2007 nr. 80 om endringar i lov 15. desember 1967 nr. 9 om patenter m.m. (gjennomføring av Den europeiske patentkonvensjonen) gjelder bare der administrativ patentbegrensning begjæres etter 1. januar 2008.
+2) Endringene i patentloven § 52 første ledd annet punktum og § 52a ved lov 29. juni 2007 nr. 80 om endringar i lov 15. desember 1967 nr. 9 om patenter m.m. (gjennomføring av Den europeiske patentkonvensjonen) gjelder bare der stevning inngis etter 1. januar 2008.
