@@ -1,0 +1,3 @@
+# § 105.
+Hvis der i henhold til den hittil gjeldende lovgivning er adgang til å forlange eksekusjon eller auksjon uten foregående lovmål og dom i henhold til et før denne lovs ikrafttreden oprettet dokument står denne adgang fremdeles åpen efter det nevnte tidspunkt, uansett de i loven om tvangsfullbyrdelse opstillede betingelser herfor. Likeså skal adgangen til tvangsfullbyrdelse i henhold til Norske lovs 6te boks 14de kapitels 6te artikkel fremdeles stå åpen, såfremt leieforholdet er inngått før nærværende lovs ikrafttreden.
+Fullbyrdelsen innledes og foretas efter reglene i lov om tvangsfullbyrdelse.

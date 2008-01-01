@@ -1,0 +1,4 @@
+# § 12.
+Uforfalt fordring på lønn eller annen ytelse som nevnt i lov om fordringshavernes dekningsrett § 2-7 kan ikke rettsgyldig overdras eller pantsettes. For så vidt angår erstatningskrav som nevnt i § 2-7 annet ledd bokstav f, gjelder dog reglene i lov 13. juni 1969 nr. 26 om skadeserstatning § 3-10.
+Overdragelse av uforfalt fordring på trygd, pensjon eller annen ytelse som nevnt i lov om fordringshavernes dekningsrett § 2-7 annet ledd bokstav b, c og e og som er bestemt til vanlig underhold, kan likevel skje til pensjonsinnretning, arbeidsgiver eller offentlig myndighet i den utstrekning disse yter lønn, stønad til vanlig underhold eller liknende ytelser til vedkommende for samme tidsrom.
+Overdragelse som nevnt i annet ledd kan også skje ved bestemmelse i tariffavtale eller offentlig lønnsregulativ.
