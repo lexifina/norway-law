@@ -1,0 +1,4 @@
+# § 126. Fordeling av eigedelar, rettar og skyldnader
+(1) Dersom det utfrå fisjonsplanen ikkje let seg gjere å fastsetje kva foretak som skal eige ein eigedel, er denne i sameige mellom foretaka etter forholdet mellom dei nettoverdiane foretaka er tilførte ved fisjonen. Det same gjeld for andre rettar enn eigedomsrett.
+(2) Dersom det ut frå fisjonsplanen ikkje let seg gjere å fastsetje kva foretak som skal hefte for ein skyldnad som var oppstått før iverksetjinga av fisjonen, heftar dei foretaka som er med på fisjonen, solidarisk for skyldnaden.
+(3) Dersom det foretaket som skal hefte for ein skyldnad etter fisjonsplanen, ikkje oppfyller skyldnaden, heftar dei foretaka som er med på fisjonen, solidarisk for skyldnaden. Heftinga er likevel for kvart av dei andre foretaka avgrensa til eit beløp tilsvarande den nettoverdien som foretaket vart tilført ved fisjonen.

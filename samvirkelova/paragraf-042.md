@@ -1,0 +1,3 @@
+# § 42. Ekstraordinært årsmøte
+(1) Styret kan kalle inn til ekstraordinært årsmøte. Vedtektene kan fastsetje at også andre organ skal kunne ha ein slik rett. Vedtektene til eit primærsamvirke kan fastsetje at styret i sekundærsamvirket skal kunne kalle inn til ekstraordinært årsmøte.
+(2) Styret skal kalle inn til ekstraordinært årsmøte når revisor eller minst ein tidel av medlemmane krev det skriftleg for å få tatt opp eit klart oppgitt emne. Styret skal syte for at årsmøtet blir halde innan ein månad etter at kravet er sett fram. Vedtektene kan fastsetje at styret også skal ha plikt til å kalle inn til ekstraordinært årsmøte etter oppmoding frå andre enn dei som er nemnde i første punktum.

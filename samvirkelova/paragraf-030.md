@@ -1,0 +1,3 @@
+# § 30. Forrenting og annan auke av andelsinnskot og medlemskapitalkonti
+(1) Når det er fastsett i vedtektene, kan årsmøtet vedta at årsoverskot som kan delast ut etter § 27 tredje ledd, heilt eller delvis skal brukast til forrenting av andelsinnskot og medlemskapitalkonti. Renta kan ikkje vere høgare enn tre prosentpoeng over renta på statsobligasjonar med fem års løpetid.
+(2) Auke av andelsinnskota kan berre skje ved at innskota blir forrenta etter første ledd, eller ved at medlemmane gjer ytterlegare innskot. Inneståande på medlemskapitalkonti kan ikkje aukast på andre måtar enn ved forrenting etter første ledd og ved ytterlegare avsetjingar etter § 29 første ledd.

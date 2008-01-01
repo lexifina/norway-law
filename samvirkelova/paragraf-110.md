@@ -1,0 +1,3 @@
+# § 110. Melding til medlemmane
+(1) Seinast fire veker før årsmøtet skal behandle fusjonsplanen, skal det sendast ei melding til medlemmane med opplysing om dei viktigaste følgjene ein fusjon vil få for dei. Dersom medlemmar i eit overdragande foretak skal motta vederlag utover medlemskap i det overtakande foretaket, skal meldinga innehalde ei oversikt over kor mykje kvar einskild medlem skal motta i vederlag.
+(2) I meldinga skal medlemmane gjerast merksame på at dei etter førespurnad har krav på å få tilsendt fusjonsplanen med vedlegg, rapporten og utgreiinga frå styret og eventuelle fråsegner frå dei tilsette eller representantane deira. Dersom ein medlem ber om å få tilsendt desse dokumenta, skal dei sendast til medlemmen utan ugrunna opphald.

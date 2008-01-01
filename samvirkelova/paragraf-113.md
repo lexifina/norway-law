@@ -1,0 +1,4 @@
+# § 113. Melding til Foretaksregisteret
+(1) Seinast ein månad etter at fusjonen er vedtatt i alle dei foretaka som er med på fusjonen, skal kvart foretak melde sine vedtak til Foretaksregisteret.
+(2) Dersom eit fusjonsvedtak krev godkjenning av Stiftelsestilsynet (jf. § 103 andre ledd), skal foretaka ikkje melde sine vedtak før godkjenning er gitt, og klagefristen etter forvaltningslova er ute, eller departementet har gjort vedtak i klagesaka. Fristen for å melde vedtaket er ein månad etter at klagefristen er overseten, eller departementet har gjort vedtak i klagesaka. Godkjenninga skal leggjast ved meldinga til Foretaksregisteret.
+(3) Er vedtaket ikkje meldt til Foretaksregisteret innan fristen i første og andre ledd, kan registrering ikkje finne stad. Vedtaket er då ikkje lenger bindande. Det same gjeld om registrering blir nekta på grunn av feil som ikkje kan rettast.

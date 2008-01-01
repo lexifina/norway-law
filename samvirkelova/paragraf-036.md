@@ -1,0 +1,4 @@
+# § 36. Møterett. Fullmektig
+(1) Alle medlemmane har rett til å møte i årsmøtet. Ein medlem kan møte ved fullmektig etter eige val, dersom ikkje vedtektene seier at medlemmane ikkje kan møte ved fullmektig. Ingen kan vere fullmektig for meir enn ein medlem, men der fleire har ein medlemskap saman, kan dei ha sams fullmektig. Møteretten kan ikkje avgrensast i vedtektene på anna vis enn det som følgjer av § 37.
+(2) Fullmektigen skal leggje fram skriftleg og datert fullmakt. Dersom fullmakta blir lagt fram ved bruk av elektronisk kommunikasjon, skal det vere nytta ein forsvarleg metode for å autentisere avsendaren. Fullmakta gjeld berre for det førstkomande årsmøtet dersom det ikkje går tydeleg fram at noko anna er meint. Medlemmen kan når som helst kalle tilbake fullmakta.
+(3) Kvar medlem kan ta med seg ein rådgivar, som årsmøtet kan gi talerett. Første punktum kan fråvikast i vedtektene.

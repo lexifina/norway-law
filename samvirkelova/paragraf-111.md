@@ -1,0 +1,2 @@
+# § 111. Opplysingsplikt
+Styret i eit overdragande foretak skal gi opplysingar til sitt årsmøte og til styra i andre foretak som er med på fusjonen, om vesentlege endringar i eigedelar, rettar og skyldnader som har funne stad i tida mellom underteikninga av fusjonsplanen og behandlinga av fusjonsplanen på årsmøtet. Dersom det overtakande foretaket er eit eksisterande foretak, har styret i dette ei tilsvarande opplysingsplikt.

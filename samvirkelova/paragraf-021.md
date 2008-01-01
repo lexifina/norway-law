@@ -1,0 +1,5 @@
+# § 21. Pant i medlemskap
+(1) Medlemskap i samvirkeforetak kan pantsetjast i same utstrekning som medlemskapen kan avhendast, jf. § 20 første og andre ledd. Vedtektene kan innehalde ytterlegare skrankar for pantsetjing.
+(2) Panteretten får rettsvern ved at foretaket får melding om pantsetjinga. Pantelova § 1-4 gjeld ikkje for panterett i medlemskap som får rettsvern på denne måten. Er medlemskapen knytt til fast eigedom (jf. pantelova § 2-2 første ledd bokstav c), får panteretten rettsvern ved tinglysing i grunnboka.
+(3) Når foretaket mottek melding om pantsetjing etter andre ledd første punktum, skal meldinga utan opphald førast inn i medlemsregisteret med opplysing om dagen for innføringa. Registeret skal opplyse om namnet og adressa til panthavaren eller – for juridisk person – foretaksnamn, organisasjonsnummer og adresse. Dersom panthavaren ber om det, skal foretaket utferde ei fråsegn om at panteretten er innført.
+(4) Ved tvangssal av medlemskapen gjeld reglane om overgang av medlemskap i kapitlet her.

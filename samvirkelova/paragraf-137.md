@@ -1,0 +1,2 @@
+# § 137. Etterutlodding
+Det som måtte tilfalle foretaket av summar som er sette av etter § 135 andre ledd, eller som elles måtte vise seg å tilhøyre det oppløyste foretaket, skal behandlast som fastsett i § 135 tredje til femte ledd. Er beløpet så lite at ei etterutlodding til medlemmane vil valde uforholdsmessig ulempe eller kostnad, kan avviklingsstyret i staden nytte det til samvirkeformål eller til allmennyttige formål.

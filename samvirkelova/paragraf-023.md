@@ -1,0 +1,5 @@
+# § 23. Utestenging
+(1) Ein medlem kan ved skriftleg påbod stengjast ute frå foretaket når medlemmen har krenka foretaket ved vesentleg mishald, eller når tungtvegande grunnar elles tilseier utestenging. Vedtektene kan fastsetje at utestenging også skal kunne skje dersom ein medlem ikkje har omsetning med foretaket i ein periode på minst eitt år.
+(2) Styret gjer vedtak om utestenging. Den som er stengt ute, kan krevje at styret legg vedtaket fram for årsmøtet. Kravet må vere sett fram innan ein månad etter at medlemmen tok imot skriftleg melding med opplysing om utestenginga og om fristen for å krevje vedtaket lagt fram for årsmøtet. Kravet har utsetjande verknad.
+(3) Føresegnene i § 22 tredje og fjerde ledd om det økonomiske oppgjeret ved utmelding gjeld tilsvarande ved utestenging. Vedtektene kan fastsetje at ein medlem skal ha meir avgrensa økonomiske rettar ved utestenging enn ved utmelding.
+(4) Kompetansen til styret etter andre ledd kan i vedtektene leggjast til eit anna organ. Vedtektene kan fastsetje at krenking av foretaket kan medføre andre reaksjonar enn utestenging.

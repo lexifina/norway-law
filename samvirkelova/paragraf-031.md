@@ -1,0 +1,4 @@
+# § 31. Utdelingsskranke. Ulovlege utdelingar
+(1) Foretaket kan berre vedta etterbetaling og utbetaling frå etterbetalingsfond og medlemskapitalkonti så langt det er forsvarleg etter § 25 første ledd. Andre former for utdeling til medlemmane er berre tillatne dersom lova gir særskilt heimel for det.
+(2) Utdeling i strid med paragrafen her skal mottakaren føre tilbake til foretaket. Det gjeld likevel ikkje dersom mottakaren, då utdelinga vart mottatt, verken kjente eller burde kjenne til at utdelinga var ulovleg.
+(3) Den som på vegner av foretaket medverkar til eit vedtak om eller gjennomføring av ulovleg utdeling, og som forstod eller burde ha forstått at utdelinga er ulovleg, er ansvarleg for at utdelinga blir ført tilbake til foretaket. Ansvaret kan lempast etter skadeserstatningslova § 5-2.

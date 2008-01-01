@@ -1,0 +1,3 @@
+# § 29. Medlemskapitalkonti
+(1) Når det er fastsett i vedtektene, kan årsmøtet vedta at årsoverskot som kan delast ut etter § 27 tredje ledd, heilt eller delvis skal avsetjast til konti i medlemmane sine namn (medlemskapitalkonti) på grunnlag av deira omsetning med foretaket. Inneståande på medlemskapitalkonti skal dekkje elles udekka tap.
+(2) Årsmøtet kan vedta at heile eller delar av inneståande på medlemskapitalkonti skal delast ut til medlemmane. Ved opphøyr av medlemskapen har ein medlem krav på å få utbetalt inneståande på medlemskapitalkonto. Første og andre punktum kan fråvikast i vedtektene.

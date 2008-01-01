@@ -1,0 +1,2 @@
+# § 39. Inhabilitet ved røysting på årsmøtet
+Ingen kan sjølv eller ved fullmektig, som fullmektig eller som utsending røyste på årsmøtet om søksmål mot seg sjølv eller om eige ansvar overfor foretaket, og heller ikkje om søksmål mot andre eller om ansvar for andre overfor foretaket dersom medlemmen, fullmektigen eller utsendingen har ei vesentleg interesse i saka som kan stride mot interessa til foretaket.

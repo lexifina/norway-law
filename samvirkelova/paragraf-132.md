@@ -1,0 +1,3 @@
+# § 132. Avviklingsbalanse o.a.
+(1) Avviklingsstyret skal lage ei oppteikning over dei eigedelane, rettane og skyldnadene som foretaket har, og gjere opp ein balanse med sikte på avviklinga. For foretak som har revisjonsplikt etter revisorlova, skal balansen vere revidert.
+(2) Oppteikninga og balansen skal leggjast ut på foretakskontoret til ettersyn for medlemmane. Kopi av balansen, eventuelt med fråsegn frå revisor, skal sendast til alle medlemmar med kjend adresse eller på anna forsvarleg vis gjerast tilgjengeleg for medlemmane. Ein medlem har etter førespurnad krav på å få tilsendt kopi av balansen med fråsegn frå revisor.

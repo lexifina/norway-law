@@ -1,0 +1,4 @@
+# § 130. Kreditorvarsel
+(1) Ved registrering av meldinga om oppløysing skal Foretaksregisteret kunngjere vedtaket om å oppløyse foretaket. I kunngjeringa skal kreditorane til foretaket varslast om at dei må melde sine krav til leiaren av avviklingsstyret innan to månader frå kunngjeringa i Brønnøysundregistra sin elektroniske kunngjeringspublikasjon. Namn og adresse til leiaren av avviklingsstyret skal gå fram av kunngjeringa.
+(2) Kunngjeringa skal setjast inn i Brønnøysundregistra sin elektroniske kunngjeringspublikasjon og to gonger med minst ei vekes mellomrom i ei avis som er vanleg lesen på forretningsstaden for foretaket. Kunngjeringa i avisa kan takast inn i kortform med tilvising til den elektroniske kunngjeringa.
+(3) Alle kreditorar med kjend adresse skal så vidt mogleg varslast særskilt av foretaket.

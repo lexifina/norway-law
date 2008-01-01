@@ -1,0 +1,3 @@
+# § 48. Opning av møtet. Møteleiar
+(1) Styreleiaren eller den styret har peikt ut, opnar årsmøtet. Er det fastsett i vedtektene kven som skal vere møteleiar eller at eit anna organ enn årsmøtet skal velje møteleiaren, jf. andre ledd andre punktum, opnar møteleiaren årsmøtet. Har tingretten innkalla årsmøtet, skal retten peike ut den som skal opne møtet. Avgjerda frå tingretten kan ikkje ankast.
+(2) Årsmøtet skal velje ein møteleiar, som ikkje treng vere medlem eller utsending. Vedtektene kan fastsetje kven som skal eller kan vere møteleiar, eller at eit anna organ enn årsmøtet skal velje møteleiaren.

@@ -1,0 +1,4 @@
+# § 146. Vedtak om omdanning
+(1) Vedtak om omdanning blir gjort ved at årsmøtet godkjenner ein omdanningsplan, jf. §§ 147 og 148.
+(2) I samvirkeforetak der medlemmane har krav på alle gjenverande midlar ved oppløysing, blir vedtak om omdanning gjort med fleirtal som for vedtektsendring, dersom ikkje vedtektene inneheld strengare vedtakskrav. I andre foretak krevst fire femdels fleirtal av røystene. Vedtak etter andre punktum kan berre gjerast dersom det er sakleg grunn for det, og krev godkjenning frå Stiftelsestilsynet. Det kan stillast vilkår i ei slik godkjenning.
+(3) Samvirkeforetaket må ved omdanninga ha ein eigenkapital som minst svarer til den aksjekapitalen selskapet skal ha som aksjeselskap eller allmennaksjeselskap. Reglane i aksjelova og allmennaksjelova § 2-6 og § 2-7 gjeld tilsvarande, dersom ikkje noko anna går fram av lova her.

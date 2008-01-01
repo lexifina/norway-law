@@ -1,0 +1,4 @@
+# § 119. Fisjonsomgrepet
+(1) Deling av eit samvirkeforetak er omfatta av reglane om fisjon i kapitlet her når eigedelane, rettane og skyldnadene til foretaket skal fordelast på foretaket sjølv (det overdragande foretaket) og eitt eller fleire overtakande samvirkeforetak (overtakande foretak), og alle eller nokre av medlemmane i det overdragande foretaket får medlemskap i eitt eller fleire av dei overtakande foretaka.
+(2) Fisjon etter dette kapitlet ligg også føre dersom det overdragande samvirkeforetaket skal opphøyre ved fisjonen, og dei samla eigedelane, rettane og skyldnadene til foretaket skal fordelast på to eller fleire overtakande samvirkeforetak mot at medlemmane i det overdragande foretaket får medlemskap i eitt eller fleire av desse.
+(3) Eit overtakande foretak kan vere eit eksisterande foretak eller eit foretak som blir stifta ved fisjonen.

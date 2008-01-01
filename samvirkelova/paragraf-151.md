@@ -1,0 +1,4 @@
+# § 151. Melding til Foretaksregisteret
+(1) Foretaket skal melde omdanningsvedtaket til Foretaksregisteret innan tre månader etter at årsmøtet godkjende omdanningsplanen, jf. § 146 første ledd.
+(2) Dersom vedtaket krev godkjenning av Stiftelsestilsynet (jf. § 146 andre ledd), skal foretaket ikkje melde vedtaket før godkjenning er gitt, og klagefristen etter forvaltningslova er ute, eller departementet har gjort vedtak i klagesaka. Fristen for å melde vedtaket er tre månader etter at klagefristen er overseten, eller departementet har gjort vedtak i klagesaka. Godkjenninga skal leggjast ved meldinga til Foretaksregisteret.
+(3) Er vedtaket ikkje meldt til Foretaksregisteret innan fristen i første og andre ledd, kan registrering ikkje finne stad. Vedtaket er då ikkje lenger bindande. Det same gjeld om registrering blir nekta på grunn av feil som ikkje kan rettast.

@@ -1,0 +1,2 @@
+# § 56. Kven som kan reise søksmål om ugyldige vedtak
+Ein medlem av foretaket, ein styremedlem eller dagleg leiar kan reise søksmål med påstand om at eit vedtak av årsmøtet er ugyldig, fordi det er blitt til på ulovleg vis eller elles er i strid med lova eller vedtektene for foretaket. Slikt søksmål kan også reisast av eit fleirtal av dei tilsette eller alternativt av fagforeiningar som organiserer to tredelar av dei tilsette.
