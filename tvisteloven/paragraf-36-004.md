@@ -1,3 +1,3 @@
 # § 36-4. Tingrettens sammensetning. Fagkyndige utvalg
-(1) Tingretten settes med to meddommere, hvorav én lek og én fagkyndig. I særlige tilfeller kan retten settes med to fagdommere og tre meddommere, hvorav én eller to skal være fagkyndige.
+(1) Tingretten settes med to meddommere, hvorav én lek og én fagkyndig. I særlige tilfeller kan retten settes med to fagdommere og tre meddommere, hvorav én eller to skal være fagkyndige. Når retten skal settes med bare én lek meddommer, avgjøres det ved loddtrekning hvilket kjønn denne skal ha.
 (2) Kongen kan opprette ett eller flere utvalg av personer med fagkyndighet i saker som skal behandles etter dette kapitlet.

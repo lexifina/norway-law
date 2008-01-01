@@ -1,7 +1,7 @@
 # § 9-12. Rettens sammensetning under hovedforhandlingen
 (1) I tillegg til fagdommeren eller fagdommerne settes retten under hovedforhandlingen med to meddommere dersom en av partene krever det eller retten finner det ønskelig.
 (2) Meddommerne skal være fagkyndige om hensynet til forsvarlig behandling av saken tilsier det.
-(3) De fagkyndige meddommerne oppnevnes fra de fagkyndige meddommerutvalg eller utenfor utvalgene, slik at de har fagkyndighet tilpasset saken. Det kan oppnevnes meddommere med ulik fagkyndighet. Som meddommer med juridisk kyndighet kan bare oppnevnes en person som begge parter har foreslått.
+(3) De fagkyndige meddommerne oppnevnes slik at de har fagkyndighet tilpasset saken. Det kan oppnevnes meddommere med ulik fagkyndighet. Som meddommer med juridisk kyndighet kan bare oppnevnes en person som begge parter har foreslått.
 (4) Domstollederen i tingretten kan beslutte at retten under hovedforhandlingen skal settes med mer enn én fagdommer dersom
 a) saken reiser særlig kompliserte faktiske eller rettslige spørsmål, eller andre forhold tilsier det, eller
 b) partene har avtalt en slik behandling og etter avtalen har frafalt retten til anke og sakens tvistegjenstand ligger over grensen for anke til lagmannsrett etter § 29-13.
