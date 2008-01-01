@@ -1,0 +1,5 @@
+# § 27-2. Begjæring om bevisopptak. Rettens avgjørelse
+(1) Retten som har saken, kan beslutte bevisopptak foretatt etter begjæring fra en part eller av eget tiltak i saker hvor retten etter § 21-3 annet ledd har plikt til å sørge for et forsvarlig faktisk avgjørelsesgrunnlag.
+(2) Viser det seg å være behov for bevisopptak, må begjæring om dette settes fram snarest mulig under saksforberedelsen. Begjæringen skal begrunnes og bevistilbudet klarlegges i henhold til § 21-6 annet ledd. Er begjæringen satt fram for sent, kan retten nekte bevisopptaket foretatt etter § 16-6 tredje ledd.
+(3) Bevisopptaket kan foretas av den rett som har saken, eller av en annen domstol ved rettsanmodning etter domstolloven §§ 44 til 51. Skal bevisopptaket foretas ved annen domstol, skal rettsanmodningen gi nødvendige opplysninger om saken og det som skal klarlegges.
+(4) Hvis sakkyndighet er nødvendig for å utføre en bevisundersøkelse, kan retten oppnevne sakkyndig etter § 25-2 og overlate undersøkelsen til denne.

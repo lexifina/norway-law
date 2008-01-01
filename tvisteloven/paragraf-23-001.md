@@ -1,0 +1,5 @@
+# § 23-1. Parters møteplikt
+(1) En part som ikke har gyldig fravær, har plikt til å møte personlig i rettsmøte parten innkalles til etter reglene i § 13-2. Personlig møteplikt pålegges på begjæring fra en annen part eller når retten finner det nødvendig at parten deltar. Retten kan frita en part for å møte etter begjæring hvis vilkårene for fjernavhør er til stede eller retten ikke finner tilstrekkelig grunn til at parten er til stede.
+(2) Parten har plikt til å være til stede under hele rettsmøtet med mindre retten fritar for det. Retten kan bestemme at en part som er fritatt for å møte, skal holde seg tilgjengelig for kontakt i den tiden rettsmøtet pågår.
+(3) Innkalles en part som er undergitt frihetsberøvelse i institusjon, gjelder § 24-2 tilsvarende.
+(4) I saker hvor retten etter § 21-3 annet ledd har plikt til å sørge for et forsvarlig faktisk avgjørelsesgrunnlag, kan den i samsvar med § 24-5 bestemme at en part som uteblir uten gyldig fravær, skal avhentes, og at en part som møter beruset, skal fengsles.

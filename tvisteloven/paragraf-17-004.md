@@ -1,0 +1,3 @@
+# § 17-4. Særlige beregningsregler
+(1) For ytelser som skal betales et ubestemt antall ganger, beregnes verdien til ti ganger den årlige ytelsen. Skal ytelsen betales et bestemt antall ganger, beregnes verdien ved å multiplisere ytelsen med antall ganger den skal ytes, men likevel ikke til mer enn ti ganger den årlige ytelsen. Er ytelsene ikke av samme størrelse, legges ytelsene for det siste året før saksanlegg til grunn for beregningen.
+(2) For saker om panterett eller annen realsikkerhet legges fordringens størrelse til grunn. Gjelder sikkerheten et mindre beløp enn fordringen, eller er sikkerheten mindre verd enn fordringen, legges bare det sikrede beløpet til grunn.

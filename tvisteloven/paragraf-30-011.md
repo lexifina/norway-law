@@ -1,0 +1,3 @@
+# § 30-11. Muntlig ankeforhandling
+(1) Rettsoppnevnte sakkyndige kan avhøres direkte for Høyesterett. Bevisføringen ellers foregår etter § 26-2.
+(2) For ankeforhandlingen gjelder §§ 9-13, 9-14, 9-17, 16-4 og § 29-18 første ledd annet punktum, annet ledd annet og tredje punktum og tredje ledd så langt de passer. Partene får ordet to ganger hver. Partenes annet innlegg skal begrenses til det motparten har tatt opp, og til sakkyndiges muntlige redegjørelse. Sakkyndige som forklarer seg direkte for Høyesterett, gir sin forklaring etter at partene har holdt sitt første innlegg med mindre Høyesterett bestemmer noe annet.

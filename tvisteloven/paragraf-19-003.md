@@ -1,0 +1,5 @@
+# § 19-3. Rådslagning og avstemning
+(1) I saker som behandles muntlig av domstoler med flere dommere, bør det holdes rådslagning med alle dommere til stede så snart som mulig etter den muntlige forhandling. Når meddommere deltar, skal det alltid holdes rådslagning, som ikke kan skje i fjernmøte.
+(2) I enhver sak kan en dommer kreve avsluttende rådslagning. Meddommere skal gjøres kjent med denne retten.
+(3) Det stemmes særskilt for hvert krav eller prosessuelt rettsforhold som skal avgjøres. Er det flere grunner for å avvise, heve eller stanse en sak, for å oppheve en anket avgjørelse eller for å begjære oppfriskning eller gjenåpning, stemmes det særskilt over hver grunn. En dommer som er overstemt i et spørsmål som gjelder saksbehandlingen, skal ta del i de følgende avstemninger som saken gir grunn til.
+(4) Hver avgjørelse treffes ved stemmeflertall hvis ikke annet er bestemt ved lov. Står stemmene likt, gjør rettslederens stemme utslaget. Er det ikke flertall for noe resultat når pengebeløp eller andre størrelser skal fastsettes, legges stemmene for høyere beløp eller størrelser sammen med stemmene for de nærmest følgende til det blir flertall.

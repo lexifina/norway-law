@@ -1,0 +1,3 @@
+# § 9-13. Styringen av hovedforhandlingen
+(1) Ved åpningen av hovedforhandlingen kontrollerer retten at det er lagt til rette for at forhandlingene kan foregå slik som fastsatt under saksforberedelsen, og slik hensiktsmessig saksavvikling tilsier.
+(2) Retten skal sørge for at hovedforhandlingen skjer konsentrert og forsvarlig uten unødig tidsspille for retten, parter, vitner og sakkyndige. Forhandlinger om forhold som er uten betydning for saken, skal nektes. Det samme gjelder unødige gjentakelser, unødig omfattende behandling og ellers for spørsmål som er tilstrekkelig drøftet. Hvis det er avtalt eller fastsatt tidsrammer for innlegg eller bevisføring, påser retten at disse holdes og kan foreta nødvendige avskjæringer.

@@ -1,0 +1,5 @@
+# § 11-7. Reaksjon ved manglende saksstyring
+(1) Domstollederen skal påse at plikten til aktiv saksstyring etter § 11-6 følges opp, og skal gi de nødvendige pålegg for at mangler ved unnlatt eller for sen saksstyring rettes. En part kan kreve at domstollederen griper inn.
+(2) Ved vesentlig tilsidesetting av plikter etter § 11-6 skal domstollederen overføre saken til en annen dommer eller overta den selv, dersom det er nødvendig av hensyn til en forsvarlig videre behandling.
+(3) Domstollederens beslutning kan ankes. Ankedomstolen har samme adgang til å treffe bestemmelser om saksstyringen som domstollederen har etter første og annet ledd, og kan dessuten overføre saken til en annen domstol.
+(4) Er domstollederen forberedende dommer eller inhabil av andre grunner, avgjøres krav etter første ledd av overordnet domstol. Det samme gjelder på begjæring fra en part hvis domstollederen ikke har truffet noen avgjørelse innen én måned etter at krav etter første ledd ble framsatt. Reglene om anke over beslutning etter tredje ledd gjelder tilsvarende.

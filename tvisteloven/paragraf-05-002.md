@@ -1,0 +1,4 @@
+# § 5-2. Varsel om krav og grunnlag for kravet
+(1) Før sak reises, skal parten skriftlig varsle den det er aktuelt å reise sak mot. Varslet skal opplyse om det krav som kan bli fremmet, og grunnlaget for det. Varslet skal oppfordre den annen part til å ta stilling til kravet og grunnlaget.
+(2) Den som mottar varslet, skal innen rimelig tid ta stilling til kravet og grunnlaget. Bestrides kravet helt eller delvis, skal grunnlaget for dette angis. Mener parten på sin side å ha krav mot den som har gitt varslet, skal parten samtidig skriftlig varsle om sitt krav og grunnlaget for det og oppfordre den annen part til å ta stilling til dette.
+(3) Skriftlig varsel etter første og annet ledd skal være på papir til private parter hvis ikke annet er avtalt eller partene har en løpende forretningsforbindelse hvor skriftlig kommunikasjon vanligvis skjer elektronisk.

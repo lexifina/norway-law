@@ -1,0 +1,5 @@
+# § 13-3. Innkalling av vitner og sakkyndige til rettsmøte
+(1) Advokater sørger for å innkalle vitner deres part skal føre, om ikke retten bestemmer noe annet. Retten kan pålegge parten selv eller prosessfullmektig som ikke er advokat, å foreta innkallingen. I andre tilfeller innkaller retten vitnene. Da skal innkallingen forkynnes.
+(2) Vitner skal om mulig gis én ukes varsel. Fristen kan innskrenkes til én dag dersom hensynet til rask behandling av saken gjør det påkrevd eller det legges til rette for at vitnet kan avhøres uten å forsømme viktige gjøremål. Vitner som befinner seg i nærheten av rettsstedet eller et sted hvor fjernavhør kan foretas, plikter å møte straks om dette kan skje uten vesentlig ulempe for vitnet.
+(3) Innkallingen skal inneholde opplysninger som bestemt for parter i § 13-2 fjerde ledd. For innkalling av vitner som har rett til å nekte å gi forklaring, gjelder også § 24-3 annet ledd.
+(4) Sakkyndige som skal gi forklaring i rettsmøte etter § 25-5 annet ledd, skal innkalles av retten ved forkynnelse med passende varselfrist.

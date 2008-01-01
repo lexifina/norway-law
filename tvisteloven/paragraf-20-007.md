@@ -1,0 +1,3 @@
+# § 20-7. Kostnadsansvaret for partenes representanter
+(1) Ansvaret for sakskostnader påhviler parten. Blir en sak anlagt av en sammenslutning avvist på grunn av manglende partsevne, påhviler ansvaret den som er oppgitt som stedfortreder for sammenslutningen.
+(2) Krav om erstatning for sakskostnader som gjøres gjeldende mot andre enn motparten etter regler utenfor dette kapittel, kan inndras i saken. Reises kravet for tingretten, gjelder § 15-2 tredje og fjerde ledd. Reises kravet for ankeinstansen, kan det nektes behandlet hvis det mer hensiktsmessig kan behandles i egen sak, eller saken vil bli vesentlig forsinket.

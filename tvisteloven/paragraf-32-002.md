@@ -1,0 +1,2 @@
+# § 32-2. Forholdet til lovens alminnelige regler m.m.
+Reglene i kapittel 1 til 3, §§ 4-1, 4-3, 4-4 og 4-7, kapittel 7 og 8, § 9-6, kapittel 11 til 15, kapittel 16 unntatt §§ 16-2, 16-4 og 16-8, kapittel 18, kapittel 19 unntatt § 19-13 og kapittel 20 til 31 gjelder tilsvarende i saker om midlertidig sikring så langt de passer og når ikke annet følger av reglene i kapittel 32 til 34. Før retten avsier en kjennelse, skal den så vidt mulig gi partene anledning til å uttale seg.

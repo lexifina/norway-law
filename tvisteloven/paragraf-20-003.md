@@ -1,0 +1,2 @@
+# § 20-3. Sakskostnader til en part som har fått medhold av betydning
+En part som har fått medhold av betydning uten å vinne saken, jf. § 20-2, kan helt eller delvis tilkjennes sakskostnader av motparten hvis tungtveiende grunner tilsier det. I tillegg til momentene i § 20-2 tredje ledd annet punktum skal det legges særlig vekt på hvor mye parten har fått medhold, og andelen av sakskostnadene som knytter seg til den delen av saken.

@@ -1,0 +1,3 @@
+# § 8-6. Bevisforbud og taushetsplikt
+(1) Partene kan verken i samme eller annen sak gi parts- eller vitneforklaring om det som kom fram under rettsmeklingen. De er likevel ikke avskåret fra å gi opplysninger om konkrete bevis som det ble opplyst om, og som ikke er kommet fram på annen måte, eller om forslag til minnelig løsning som er protokollert etter § 8-5 femte ledd. De skal i annen sammenheng bevare taushet om forhold som ble meddelt under forutsetning om taushet.
+(2) Rettsmeklere og andre enn de som omfattes av første ledd, plikter å bevare taushet om det som foregikk under rettsmeklingen. De kan likevel forklare seg om en avtale er i samsvar med det partene var enige om under rettsmeklingen.

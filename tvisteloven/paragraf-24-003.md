@@ -1,0 +1,3 @@
+# § 24-3. Møteplikt for vitner ved bevisforbud og bevisfritak
+(1) Et vitne som bare skal forklare seg om spørsmål som etter det som er oppgitt, ikke kan besvares uten samtykke eller pålegg fra retten, bør som regel ikke kalles inn så lenge samtykke ikke er gitt, eller det ikke er grunn til å anta at vitnet kan bli pålagt å forklare seg.
+(2) Innkalles et vitne som har rett til å nekte å gi forklaring om det forhold det skal spørres om, kan det i vitnestevningen tilføyes at frammøte er unødvendig dersom vitnet er bestemt på å nekte å forklare seg. Melder vitnet tidsnok før rettsmøtet at det vil nekte å gi forklaring, skal stevningen tilbakekalles om nektelsen finnes begrunnet.

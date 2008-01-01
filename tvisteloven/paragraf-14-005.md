@@ -1,0 +1,3 @@
+# § 14-5. Tidspunktet for allmennhetens innsynsrett
+(1) Retten til innsyn inntrer etter hvert som dokumentene mottas av retten. Det kan likevel ikke kreves innsyn i et bevis før det er påberopt på en måte som er nevnt i § 14-2 annet ledd bokstav c. Når saken behandles fullt ut skriftlig, inntrer ikke rett til innsyn i noen av dokumentene før saken er avgjort i instansen.
+(2) Har en part krevd unntak fra innsynsrett, kan retten bestemme at avgjørelse av innsynspørsmålet skal utstå, men ikke lenger enn til avsigelsen av den dom eller kjennelse som avgjør saken. I tvilstilfelle bør retten normalt la spørsmålet utstå til de muntlige forhandlingene. Er et bevis ført i åpent rettsmøte, kan retten ikke lenger utsette avgjørelsen av innsynsrett etter denne bestemmelsen.

@@ -1,0 +1,3 @@
+# § 30-13. Statens rett til å opptre i saker om Grunnloven eller internasjonale forpliktelser
+(1) Når det i sak fremmet for Høyesterett reises spørsmål om å sette til side eller fortolke innskrenkende regler gitt ved lov, provisorisk anordning eller stortingsbeslutning fordi reglene kan være i konflikt med Grunnloven eller med bestemmelser Norge er bundet av i internasjonalt samarbeid, skal Høyesterett varsle staten ved Justisdepartementet om saken. Staten har rett til å opptre i saken så langt det er nødvendig for å ivareta det offentliges interesser ved den mulige regelkonflikt.
+(2) Dersom staten opptrer, kan retten bestemme at staten skal inngi skriftlige framstillinger om nærmere angitte faktiske og rettslige spørsmål i saken.

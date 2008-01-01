@@ -1,0 +1,4 @@
+# § 30-14. Opphevelse og fortsatt behandling ved lavere rett ved manglende avgjørelsesgrunnlag mv.
+(1) Dersom behandlingen viser at det er eller kan være feil i det faktiske eller rettslige grunnlaget for den påankede avgjørelse, men det ikke er forsvarlig grunnlag for å avgjøre det krav saken gjelder, skal avgjørelsen oppheves.
+(2) Når det i den påankede avgjørelsen ikke er vurdert bevis som det er nødvendig å ta stilling til for å avgjøre anken, kan avgjørelsen oppheves når det av hensyn til en forsvarlig eller hensiktsmessig saksbehandling er viktig å få bevisene vurdert i den lavere rett.
+(3) Det kan under saksforberedelsen treffes avgjørelse om at forhandlingene for Høyesterett skal begrenses slik at det foreløpig ikke forhandles om tvistepunkter som det kan være aktuelt å henvise til behandling ved lavere rett etter annet ledd.

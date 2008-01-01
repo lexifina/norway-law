@@ -1,0 +1,6 @@
+# § 24-9. Gjennomføring av vitneavhør
+(1) Vitnet avhøres først av parten som har innkalt det, så av andre parter og deretter av retten. Retten starter avhøret av vitner den har innkalt av eget tiltak, men kan overlate dette til partene. Når en part krever det, skal retten avhøre vitnene for ham.
+(2) Vitnet skal forklare seg muntlig. Vitnet bør normalt gi en sammenhengende forklaring om hele eller bestemte deler av saksforholdet før mer detaljerte spørsmål stilles.
+(3) Notater kan brukes til støtte for hukommelsen. Vitnet må opplyse når, av hvem og til hvilket formål notatet er gjort. I forklaringen kan vitnet vise til skriftlig forklaring som er framlagt etter § 21-12, men skal svare på spørsmål fra partene og retten i tillegg.
+(4) Retten skal påse at avhøret skjer på en måte som er egnet til å få fram en klar og sannferdig forklaring, og som tar hensyn til vitnet. Spørsmål som ved innhold eller form innbyr til svar i en bestemt retning, må ikke stilles når det ikke skjer for å prøve påliteligheten av opplysninger som vitnet tidligere har gitt, eller andre særlige grunner gjør det forsvarlig. Spørsmål som ikke angår saken, skal avvises.
+(5) Retten skal overta avhøret dersom det foregår på en utilfredsstillende måte, eller andre grunner taler for det.

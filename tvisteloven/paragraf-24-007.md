@@ -1,0 +1,2 @@
+# § 24-7. Påbud om å forlate rettssalen under vitneforklaring
+Retten kan beslutte at en part eller andre personer skal forlate rettssalen mens et vitne avhøres, når det er særlig grunn til å frykte at vitnet ellers ikke vil gi en uforbeholden forklaring. Retten skal sørge for at spørsmål parten måtte ha til vitnet, blir stilt. Etter avhøret skal retten gjøre en utelukket part kjent med forklaringen.

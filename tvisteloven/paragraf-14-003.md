@@ -1,0 +1,3 @@
+# § 14-3. Unntak fra allmennhetens innsynsrett i rettsbøker og rettsavgjørelser
+(1) Retten til innsyn i rettsavgjørelser gjelder bare så langt det ikke gjelder forbud mot offentlig gjengivelse. Gjelder det et slikt forbud, er det rett til innsyn i avgjørelsens slutning om avgjørelsen ikke er eldre enn fem år. Innsyn i rettsboken kan kreves hvis den ikke er ført i rettsmøte for lukkede dører eller offentlig gjengivelse av den protokollerte forhandlingen eller rettsboken er forbudt.
+(2) Når det er betenkelig av hensyn til rikets sikkerhet eller forholdet til fremmed stat å gi innsyn, eller når det er grunn til å frykte at kunnskapen vil bli nyttet på urettmessig vis, kan innsyn bare gis i domsslutningen. Det samme gjelder når retten har gitt pålegg om hemmelighold.

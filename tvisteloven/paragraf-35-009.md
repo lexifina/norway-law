@@ -1,0 +1,5 @@
+# § 35-9. Ivaretaking av rettigheter og plikter i gruppesøksmålet. Representasjon
+(1) Gruppens rettigheter og plikter i gruppesøksmålet ivaretas av grupperepresentanten. Grupperepresentanten har plikt til å påse at gruppemedlemmene holdes forsvarlig orientert om gruppesøksmålet. Særlig gjelder dette for prosesshandlinger og avgjørelser som får betydning for gruppemedlemmenes krav.
+(2) Den som kan reise gruppesøksmål etter § 35-3 første ledd, og som er villig til det, kan være grupperepresentant.
+(3) Grupperepresentanten skal utpekes av retten. Representanten skal kunne ivareta gruppens interesser på en god måte, og kunne svare for gruppens mulige kostnadsansvar overfor motparten. Retten kan om nødvendig tilbakekalle en oppnevning som grupperepresentant og oppnevne en ny. § 35-4 fjerde ledd gjelder tilsvarende for avgjørelser om tilbakekall og ny oppnevning av grupperepresentant.
+(4) Gruppen skal ha prosessfullmektig som er advokat. Retten kan i særlige tilfeller gjøre unntak fra dette.

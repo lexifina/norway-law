@@ -1,0 +1,5 @@
+# § 35-6. Gruppesøksmål som krever registrering av gruppemedlemmer
+(1) Gruppesøksmålet omfatter bare dem som er registrert som gruppemedlemmer, hvis ikke søksmålet er fremmet etter § 35-7. De som har krav innenfor rammen av gruppesøksmålet, kan registreres som gruppemedlem.
+(2) Begjæring om registrering må settes fram innen fristen for dette. Inntil hovedforhandlingen kan retten i særlige tilfeller godkjenne en forsinket registrering når ikke hensynet til de øvrige parter i vesentlig grad taler mot det.
+(3) Etter begjæring fra den som reiser gruppesøksmålet, eller grupperepresentanten kan retten bestemme at det skal være et vilkår for registrering at gruppemedlemmene skal ha ansvar for et fastsatt maksimalbeløp for kostnader etter § 35-14. Retten kan etter begjæring bestemme at hele eller deler av beløpet skal innbetales til gruppens prosessfullmektig før registrering.
+(4) Grupperegisteret føres av retten. Domstoladministrasjonen kan gi nærmere regler om grupperegisteret ved forskrift.

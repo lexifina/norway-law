@@ -1,0 +1,5 @@
+# § 25-5. Sakkyndigerklæringen. Muntlig forklaring
+(1) Den sakkyndige skal avgi en skriftlig erklæring hvis ikke retten har bestemt noe annet. Flere sakkyndige kan avgi felles erklæring om ikke retten har bestemt annet. Retten kan bestemme at den sakkyndige skal avgi en tilleggserklæring.
+(2) Den sakkyndige har plikt til å møte for å avgi forklaring i rettsmøte etter innkalling fra retten i henhold til § 13-3 fjerde ledd. Den sakkyndige innkalles hvis hensynet til utføringen av oppdraget eller sakens opplysning ellers tilsier det. Retten skal som regel etterkomme begjæring fra en part om dette.
+(3) Den sakkyndige kan følge forhandlingene, kan rådføre seg med andre sakkyndige, og skal tillates å stille spørsmål til parter, vitner og andre sakkyndige når det er nødvendig for å utføre oppdraget som sakkyndig.
+(4) Den sakkyndige skal før muntlig forklaring i retten bekrefte med forsikring på ære og samvittighet at oppdraget som sakkyndig er utført og vil bli fullført samvittighetsfullt og etter beste overbevisning. Avhøret skjer for øvrig etter reglene for vitner.

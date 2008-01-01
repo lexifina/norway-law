@@ -1,0 +1,3 @@
+# § 19-5. Underretning om avgjørelsen
+(1) Dommer og kjennelser samt beslutninger som avslutter saken, forkynnes for partene og eventuelle partshjelpere. Andre beslutninger meddeles dem. Den som har gitt innlegg etter § 15-8 eller § 30-13, skal meddeles avgjørelsen som avslutter saken.
+(2) Avgjørelser som avsies muntlig, er forkynt for de parter som er innkalt. Når en avgjørelse forkynnes ved opplesning for parter som er til stede i rettsmøte, kan en muntlig framstilling av hovedpunktene i avgjørelsesgrunnene tre i stedet for opplesning av disse. Den nedtegnede avgjørelsen skal meddeles partene senest dagen etter at den er avsagt.

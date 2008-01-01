@@ -1,0 +1,4 @@
+# § 26-7. Tvist om bevistilgang
+(1) Ved tvist om tilgang til bevisgjenstander kan retten kreve gjenstanden framlagt til avgjørelse av om den utgjør bevis.
+(2) Imøtegås begjæringen om bevistilgang med at det foreligger bevisforbud eller bevisfritak, kan ikke bevisgjenstanden framlegges uten at retten i kraft av særlig lovbestemmelse kan bestemme at beviset likevel skal føres. Er bare deler av bevisgjenstanden underlagt bevisforbud eller bevisfritak, skal om mulig det øvrige framlegges. § 24-8 tredje ledd annet og tredje punktum gjelder tilsvarende.
+(3) Retten treffer i nødvendig utstrekning nærmere bestemmelser om måten beviset skal gjøres tilgjengelig på, hvordan det skal oppbevares og andre forhold av betydning for føringen av beviset. Beviset gjøres ikke kjent før tvisten om bevistilgang er bindende avgjort.

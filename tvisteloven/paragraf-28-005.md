@@ -1,0 +1,3 @@
+# § 28-5. Kostnader ved bevissikring
+(1) Den part som begjærer bevissikring, plikter å dekke de kostnader som påløper for motparter etter § 28-3 annet ledd, og kostnadene ved at det oppnevnes representant etter § 28-3 tredje ledd.
+(2) Dersom begjæringen om bevissikring er nødvendiggjort av at en motpart etter § 31-3 annet ledd uten rimelig grunn har motsatt seg å medvirke til bevissikring og bevistilgang eller uten rimelig grunn har bestridt begjæringen, kan plikten etter første ledd helt eller delvis falle bort. Både den som har fremmet begjæringen, og andre parter kan i slike tilfeller helt eller delvis tilkjennes sakskostnader av den part som ikke har villet medvirke.

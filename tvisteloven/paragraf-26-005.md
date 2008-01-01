@@ -1,0 +1,4 @@
+# § 26-5. Gjenstander som bevis
+(1) Enhver har plikt til å stille til rådighet som bevis gjenstander vedkommende har hånd om eller kan skaffe til veie.
+(2) For å gjennomføre plikten etter første ledd kan partene og andre pålegges å svare på spørsmål om de kjenner til bevisgjenstander, og foreta nødvendige undersøkelser i den forbindelse. De kan også pålegges å utarbeide sammenstillinger, utdrag eller annen bearbeiding av opplysninger som kan hentes ut av bevisgjenstander.
+(3) Retten kan nekte bevistilgang etter første eller annet ledd hvis dette vil medføre kostnader som ikke står i rimelig forhold til tvisten og den mulige verdien av beviset, eller som parten har tilnærmet samme mulighet for tilgang til selv. Retten kan sette som vilkår at den som har begjært bevistilgang, forskutterer utgiftene.

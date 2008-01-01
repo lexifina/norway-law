@@ -1,0 +1,5 @@
+# § 30-9. Behandlingsform og avgjørelsesgrunnlag ved anke over kjennelser og beslutninger
+(1) Anker over kjennelser og beslutninger avgjøres normalt etter skriftlig behandling.
+(2) Dersom Høyesteretts ankeutvalg enstemmig finner det klart at anken ikke kan føre fram, kan den avvises eller forkastes uten annen begrunnelse enn det.
+(3) Dersom det er nødvendig for en forsvarlig behandling, kan Høyesteretts ankeutvalg bestemme at det skal holdes rettsmøter til nærmere behandling av deler av det som er tatt opp i ankesaken. For den muntlige behandling i ankeutvalget gjelder § 30-11 tilsvarende så langt den passer.
+(4) Dersom det treffes bestemmelse etter domstolloven § 5 første ledd, jf. § 6 første ledd om at saken skal avgjøres i avdeling av fem dommere, bestemmes det samtidig om behandlingen skal være skriftlig eller følge de regler i §§ 30-10 og 30-11 som gjelder for anke over dommer. Bestemmelse om muntlig behandling kan også senere treffes av forberedende dommer etter § 19-2 annet ledd eller av den rett som behandler saken.

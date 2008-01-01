@@ -1,0 +1,4 @@
+# § 33-9. Opphevelse av arrest m.m.
+(1) Saksøkte kan begjære arresten helt eller delvis opphevet når det settes fram nye bevis eller det foreligger endrede forhold som godtgjør at kravet eller sikringsgrunnen ikke er til stede. Det samme gjelder hvis arresthaveren etter at søksmål er reist om kravet eller tvangsfullbyrdelse er begjært, utilbørlig forhaler saken.
+(2) En begjæring om opphevelse etter første ledd framsettes for den rett som har besluttet arresten. Er søksmål reist, kan begjæringen alltid framsettes for den rett som behandler søksmålet. Avgjørelsen treffes ved kjennelse. Kjennelse som opphever arrest har ikke virkning før den er rettskraftig, med mindre saksøkte stiller sikkerhet for kravet.
+(3) Saksøkte kan begjære gjennomføringen av en arrest opphevet ved å stille sikkerhet for kravet. Annet ledd gjelder tilsvarende.

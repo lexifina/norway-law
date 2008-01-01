@@ -1,0 +1,4 @@
+# § 35-11. Avgjørelse av gruppesøksmålet. Forlik
+(1) Avgjørelser av krav i gruppesøksmål binder dem som er gruppemedlemmer på avgjørelsestidspunktet.
+(2) Retten kan dele pådømmelsen slik at den først avgjør kravene fra ett eller noen gruppemedlemmer når innsigelser og anførsler gjør det upraktisk å treffe realitetsavgjørelse for kravene fra alle gruppemedlemmene under ett. Denne første dommen legges uprøvd til grunn ved senere pådømmelser, så langt det ikke er anført at det foreligger særlige grunnlag for avvikende avgjørelse. Denne virkningen gjelder ikke for fastlegging av faktiske og rettslige forhold som gruppemedlemmene vil være avskåret fra å få overprøvd ved anke.
+(3) Forlik i gruppesøksmål etter § 35-7 må godkjennes av retten. For avgjørelsen om godkjenning gjelder § 35-4 fjerde ledd tilsvarende.

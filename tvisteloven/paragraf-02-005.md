@@ -1,0 +1,3 @@
+# § 2-5. Stedfortreder for upersonlige rettssubjekter
+(1) For upersonlige rettssubjekter er stedfortrederen den person som kan motta forkynnelser på vegne av rettssubjektet, jf. domstolloven § 191. Er dette flere enn én person, velger styret hvem som skal være stedfortreder.
+(2) Stedfortrederen kan delegere adgangen til å opptre som stedfortreder til en annen person som er tilsatt i rettssubjektet eller tilknyttet den delen av virksomheten som søksmålet gjelder. Slik delegering kan gjøres for én enkelt sak eller for bestemte sakstyper og må skje skriftlig. Delegeringen kan ikke begrense de rettigheter stedfortrederen skal ha etter § 2-3 første ledd.

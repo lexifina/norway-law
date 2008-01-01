@@ -1,0 +1,4 @@
+# § 34-5. Opphevelse av midlertidig forføyning m.m.
+(1) Saksøkte kan begjære forføyningen opphevet eller innskrenket når det settes fram nye bevis eller det foreligger endrede forhold som godtgjør at kravet eller sikringsgrunnen ikke er til stede. Det samme gjelder hvis saksøkeren etter at søksmål om kravet er reist, utilbørlig forhaler saken.
+(2) Begge parter kan begjære at det treffes nye bestemmelser om hvordan en midlertidig forføyning skal gjennomføres, om når den skal tre i kraft og om sikkerhetsstillelse.
+(3) En begjæring etter første og annet ledd framsettes for den rett som har besluttet forføyningen. Er søksmål reist, kan begjæringen alltid framsettes for den rett som behandler søksmålet. Avgjørelsen treffes ved kjennelse. Kjennelse som opphever midlertidig forføyning har ikke virkning før den er rettskraftig, med mindre saksøkte stiller sikkerhet for kravet.

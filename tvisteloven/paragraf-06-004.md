@@ -1,0 +1,5 @@
+# § 6-4. Tilsvar
+(1) Hvis forliksrådet fremmer saken, forkynnes klagen for klagemotparten med pålegg om å inngi tilsvar innen en frist som normalt settes til to uker. Tilsvaret inngis skriftlig eller muntlig etter reglene i kapittel 12. Forliksrådet skal gi nødvendig veiledning om hva tilsvaret må inneholde og konsekvensene av at tilsvar ikke inngis innen fristen, eller er mangelfullt.
+(2) I tilsvaret skal klagemotparten opplyse om kravet i klagen godtas eller bestrides, eller om eventuelle innsigelser mot at forliksrådet behandler saken. Tilsvaret bør dessuten gi en kort begrunnelse for klagemotpartens standpunkt hvis kravet bestrides. Kopi av viktige dokumenter bør vedlegges.
+(3) Hvis tilsvar ikke inngis i rett tid, og det ikke er grunn til å tro at klagemotparten har gyldig fravær etter § 16-12 annet ledd, avsies fraværsdom hvis vilkårene er til stede. Er det grunn til å tro at klagemotparten har gyldig fravær, skal forliksrådet enten gi ny frist eller innkalle til møte.
+(4) Hvis klagemotparten i tilsvaret har godkjent påstanden i klagen, avsies dom i samsvar med dette.

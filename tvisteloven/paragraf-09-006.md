@@ -1,0 +1,5 @@
+# § 9-6. Uttalelser, innsigelser og avgjørelser om saksbehandlingen
+(1) Partene skal gis adgang til å uttale seg om forhold av betydning for avgjørelser om saksbehandlingen.
+(2) En part må sette fram innsigelser mot prosesshandlinger så snart parten har mulighet for det. Settes innsigelsen fram senere, kan den bare gjøres gjeldende hvis parten ikke var kjent med at det var grunnlag for å gjøre innsigelse, og det vil være urimelig om den ikke kan påberopes.
+(3) Avgjørelser om saksbehandlingen, herunder om saken skal avvises eller heves, skal treffes så tidlig som mulig under saksforberedelsen. Dersom sammenhengen med de krav som skal avgjøres i saken, eller andre forhold tilsier det, kan saksbehandlingsspørsmålet behandles og avgjøres som ledd i hovedforhandlingen. Er det klart grunnlag for det, kan retten frifinne saksøkte uten å ta stilling til et tvilsomt spørsmål om avvisning.
+(4) Avgjørelser om saksbehandlingen under saksforberedelsen treffes etter skriftlig behandling. Muntlig forhandling holdes når hensynet til lovens formål om rettferdig og forsvarlig behandling tilsier det. Den muntlige behandling kan begrenses til særlige spørsmål.

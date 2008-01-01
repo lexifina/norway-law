@@ -1,0 +1,5 @@
+# § 7-2. Mekleren
+(1) Partene kan avtale hvem som skal være mekler, eller hvordan mekleren skal oppnevnes. På anmodning fra partene skal tingretten oppnevne en mekler fra rettens utvalg av rettsmeklere. Anmodningen skal være skriftlig og undertegnet av begge parter. Den skal opplyse om hva tvisten gjelder. Avslår retten å oppnevne en mekler, kan partene i fellesskap anke beslutningen. § 29-3 tredje ledd gjelder ikke.
+(2) Mekleren skal være upartisk og uavhengig av partene og kvalifisert for vervet. Mekleren skal uoppfordret opplyse om forhold som kan være egnet til å skape berettiget tvil om upartiskhet eller uavhengighet. For mekler som oppnevnes av retten, gjelder § 8-4 annet ledd tilsvarende.
+(3) Med samtykke av partene kan mekleren benytte en hjelper. Partene kan kreve at tingretten oppnevner hjelperen, som ikke behøver å tas fra domstolens utvalg av rettsmeklere. Annet ledd gjelder tilsvarende for hjelperen.
+(4) Mekler og hjelper kan som vilkår for å delta i den utenrettslige meklingen kreve forskudd eller sikkerhet for sitt krav på godtgjøring etter § 7-4. For mekler og hjelper som oppnevnes av retten, kan Kongen gi nærmere regler ved forskrift.

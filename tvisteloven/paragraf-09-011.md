@@ -1,0 +1,3 @@
+# § 9-11. Forberedelse av hovedforhandlingen
+(1) Retten innkaller partene til hovedforhandlingen, jf. § 13-2.
+(2) Etter at saksforberedelsen er avsluttet, skal retten sørge for å klarlegge hvordan hovedforhandlingen skal gjennomføres. Dette omfatter blant annet presentasjonsmåten av tvisten, tidspunkt og gjennomføringsmåte for forklaringer, spørsmål om befaring og lengden av ulike innlegg under forhandlingene. I nødvendig utstrekning skal retten drøfte gjennomføringen med partene. Retten kan fastsette tidsrammer for partenes innlegg, partsforklaringer og annen bevisføring dersom tidsrammer er forsvarlig og hensiktsmessig.

@@ -1,0 +1,4 @@
+# § 33-7. Virkningen av arresten, rettsvern m.m.
+(1) Arresten medfører at skyldneren mister retten til å råde over de arresterte formuesgoder til skade for arresthaveren. Om skyldnerens råderett gjelder for øvrig de samme regler som for utleggspant.
+(2) Arrest får rettsvern mot saksøktes rettslige disposisjoner etter reglene for utleggspant i panteloven. Om etablering av rettsvern m.m. gjelder tvangsfullbyrdelsesloven § 7-20.
+(3) Arrest i et formuesgode gir ikke arresthaveren rett til å kreve tvangsdekning. Dersom det er nødvendig for å forebygge vesentlig verdiforringelse, kan retten på arresthaverens begjæring ved kjennelse bestemme at arresthaveren skal gis adgang til å begjære tvangsdekning. For andel av utbytte som faller på arrestkravet gjelder tvangsfullbyrdelsesloven § 8-19 tredje ledd og § 11-36 tredje ledd.

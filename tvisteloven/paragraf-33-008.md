@@ -1,0 +1,2 @@
+# § 33-8. Særregler om arrest i luftfartøy
+Sjøloven § 95 annet og tredje ledd gjelder tilsvarende ved arrest i luftfartøy. Dette gjelder likevel ikke dersom luftfartøyet er satt inn i regelmessig rute som er åpen for allmennheten, eller dersom luftfartøyet ellers nyttes til befordring av personer eller gods mot betaling når luftfartøyet er klart til avgang og arrestkravet ikke gjelder krav som er stiftet til gjennomføring av reisen.

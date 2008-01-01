@@ -1,0 +1,2 @@
+# § 11-4. Unntak hvor partenes rådighet er begrenset
+I saker om personstatus, barns rettsforhold etter barneloven, administrative tvangsvedtak etter kapittel 36 og i andre saker hvor offentlige hensyn begrenser partenes rådighet i søksmålet, er retten ikke bundet av partenes prosesshandlinger lenger enn dette er forenlig med de offentlige hensyn. Retten kan likevel bare avgjøre de krav som er reist i saken.
