@@ -1,0 +1,2 @@
+# § 47. Utsettelse og sikkerhetsstillelse
+Domstolen kan utsette avgjørelsen om anerkjennelse og fullbyrding dersom den finner dette hensiktsmessig, og søksmål om tilsidesettelse av en voldgiftsdom er anlagt ved en domstol som nevnt i § 46 første ledd bokstav f. Domstolen kan i et slikt tilfelle etter krav fra den part som krever anerkjennelse eller fullbyrding, pålegge den annen part å stille sikkerhet.

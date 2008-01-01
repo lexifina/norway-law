@@ -1,0 +1,4 @@
+# § 44. Søksmålsfrist og behandling av søksmålet
+Søksmål om å sette til side en voldgiftsdom må anlegges innen tre måneder fra den dag parten mottar voldgiftsdommen. Dersom voldgiftsretten foretar retting eller avsier tilleggsdom etter § 38, løper fristen fra dette tidspunktet. Det samme gjelder der voldgiftsretten beslutter å ikke ta til følge en parts anmodning om retting eller avsigelse av tilleggsdom etter § 38.
+Når det er reist sak etter første ledd og det er grunnlag for ugyldighet, kan domstolen etter begjæring fra en part utsette saken om tilsidesetting og henvise voldgiftssaken til videre behandling og ny avgjørelse i voldgiftsretten hvis dette kan gjøre at grunnlaget for ugyldighet bortfaller.
+Tilsidesetting av en voldgiftsdom medfører at den aktuelle voldgiftsavtalen igjen blir virksom, om ikke annet er avtalt mellom partene eller følger av dommen om tilsidesettelse.

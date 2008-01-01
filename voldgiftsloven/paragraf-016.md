@@ -1,0 +1,3 @@
+# § 16. Manglende oppfyllelse av en voldgiftsdommers oppdrag
+Dersom det blir rettslig eller faktisk umulig for en voldgiftsdommer å oppfylle sitt oppdrag, eller en voldgiftsdommer av andre grunner unnlater å handle uten unødig opphold, opphører oppdraget hvis voldgiftsdommeren trekker seg eller partene er enige om at oppdraget skal opphøre. I motsatt fall kan hver av partene kreve at domstolene ved kjennelse avgjør spørsmålet om oppdraget skal opphøre av en grunn som nevnt. Kjennelsen kan ikke ankes.
+At en voldgiftsdommer trekker seg eller partene er enige om at oppdraget skal opphøre etter første ledd eller § 15 første ledd, innebærer ikke noen godkjennelse av at en innsigelse etter første ledd eller § 14 annet ledd er holdbar.

@@ -1,0 +1,3 @@
+# § 30. Bistand fra domstolene
+Voldgiftsretten, eller en part med samtykke fra voldgiftsretten, kan be om at domstolene opptar partsforklaringer, vitneforklaringer og andre bevis. Voldgiftsretten skal gis rimelig forhåndsvarsel om bevisopptaket. Voldgiftsdommerne har rett til å være til stede og til å stille spørsmål.
+Når en voldgiftsrett må ta stilling til tolkningen av EØS-avtalen med protokoller, vedlegg og de rettsakter vedleggene omhandler, kan den, hvis ikke partene har avtalt noe annet, av eget tiltak eller etter begjæring fra en part, be en domstol om å forelegge tolkningsspørsmålet for EFTA-domstolen etter reglene i domstolloven § 51 a. Domstolen kan oppfordre EFTA-domstolen til å gi rådgivende uttalelse om fortolkningen av EØS-avtalen.

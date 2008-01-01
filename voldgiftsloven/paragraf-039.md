@@ -1,0 +1,4 @@
+# § 39. Omkostninger til voldgiftsretten
+Voldgiftsretten fastsetter sin egen godtgjørelse og utgiftsdekning, hvis ikke annet er avtalt mellom voldgiftsretten og partene. Fastsettelsen inntas i dom eller i avgjørelse som avslutter saken. Beløpet forfaller til betaling én måned etter at dommen eller avgjørelsen er avsagt.
+Partene er solidarisk ansvarlige for omkostningene til voldgiftsretten, hvis ikke annet er avtalt mellom voldgiftsretten og partene.
+Fastsettelsen etter første ledd blir tvangskraftig med mindre den bringes inn for domstolene innen én måned fra den dag parten mottok omkostningsavgjørelsen. Dersom det blir anmodet om eller foretatt retting eller avsigelse av tilleggsdom etter reglene i § 38, løper en ny frist fra den dag parten mottok avgjørelsen. Domstolen avgjør spørsmålet ved kjennelse. Dersom kostnadene til voldgiftsretten blir redusert, får dette virkning også for de parter som ikke brakte spørsmålet inn for domstolene.
