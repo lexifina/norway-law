@@ -1,0 +1,3 @@
+# § 3. Uttreden som gruppemedlem i gruppesøksmål
+Enhver kan tre ut som gruppemedlem. Det gjøres ved sletting i grupperegisteret for medlemmer i gruppesøksmål etter § 35-6 og ved innføring i utmeldingsregisteret for medlemmer i gruppesøksmål etter § 35-7. Begjæring om utmelding framsettes for den domstolen som behandler gruppesøksmålet. Kravene i § 1 annet ledd første, annet og tredje punktum bokstav a og b gjelder tilsvarende. Utmeldingen er virksom fra det tidspunktet retten mottar begjæringen.
+Straks etter mottak av en begjæring om uttreden, skal retten sørge for at gruppemedlemmet slettes fra grupperegisteret eller innføres i utmeldingsregistret.
