@@ -5,5 +5,5 @@
 a) anken gjelder spørsmål som har betydning utenfor den foreliggende sak,
 b) det er grunn til å behandle saken på ny fordi det er framkommet nye opplysninger,
 c) det er vesentlige svakheter ved tingrettens avgjørelse eller saksbehandling, eller
-d) dommer går ut på tvang som ikke er vedtatt av fylkesnemnda.
+d) dommen går ut på tvang som ikke er vedtatt av fylkesnemnda.
 (4) Under muntlig ankeforhandling i lagmannsretten settes retten med to meddommere, hvorav én lek og én fagkyndig. For ankebehandlingen gjelder for øvrig reglene i kapitlet her så langt de passer.

@@ -5,7 +5,7 @@ b) tvist som nevnt i § 16-1 annet ledd tredje punktum, eller
 c) anke over dom.
 (2) Ved kjennelse treffes avgjørelser
 a) som avviser en sak fordi vilkår for å ta den under behandling ikke er oppfylt, eller som fremmer saken etter særskilt behandling av en påstand om avvisning,
-b) når saken av andre grunner enn nevnt i bokstav a blir avsluttet uten realitetsavgjørelse,
+b) som hever en sak som av andre grunner enn nevnt i bokstav a bortfaller uten realitetsavgjørelse,
 c) av anke over kjennelse eller beslutning,
 d) ved tvist om bevis, eller
 e) som etter loven skal treffes i denne form.
