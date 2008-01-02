@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Forskriften omfatter ansvaret og oppgavene til nasjonale referanselaboratorier for salmonella i sammenheng med kartlegging og kontroll av zoonoser og zoonotiske smittestoffer som følge av gjennomføringen av forordning (EF) nr. 2160/2003 om kontroll av salmonella og visse andre matbårne zoonotiske smittestoff og direktiv 2003/99/EF om overvåkning av zoonoser og zoonotiske smittestoff.
