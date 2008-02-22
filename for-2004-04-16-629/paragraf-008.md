@@ -1,0 +1,7 @@
+# § 8. Sikkerhetsområde
+(1) FATO/TLOF skal omgis av et sikkerhetsområde. Sikkerhetsområdet skal ha en utstrekning slik at avstanden fra ytterkant FATO/TLOF til ytterkant av sikkerhetsområdet ikke er mindre enn 0,25 ganger D-verdien for dimensjonerende helikopter, dog ikke mindre enn 3 m. Sikkerhetsområdet skal også strekke seg fram til inn- og utflygingsflatens innerkant, jf. § 10 annet ledd og vedlegg 1.
+(2) Sikkerhetsområdets primære hensikt er å unngå personskader. Sikkerhetsområdet skal derfor ha slik jevnhet og bæreevne at risikoen for skader på luftfartøy som går ut for FATO/TLOF reduseres til et minimum, og overflaten på sikkerhetsområdet skal være motstandsdyktig mot rotorturbulens.
+(3) Innenfor sikkerhetsområdet skal det ikke være noen faste objekter bortsett fra de som må være der på grunn av sin funksjon for helikopterplassen, for eksempel lysanlegg. Når helikopterplassen trafikkeres med luftfartøy, skal det ikke være bevegelige objekter på sikkerhetsområdet.
+(4) Faste objekter som må være innenfor sikkerhetsområdet på grunn av sin funksjon, skal være så lave og ha så liten masse som mulig. Slike hinder skal også være brekkbare i den grad det er praktisk mulig. Dessuten skal objektene ikke gjennomtrenge en flate som begynner 25 cm over ytterkanten av FATO og har en stigning utover på 5%.
+(5) Overgangen mellom FATO/TLOF og sikkerhetsområdet skal være jevn og plan.
+(6) Sikkerhetsområdet skal ha helning som sikrer god vannavrenning, men den skal ikke overstige 4%. De nærmeste 3 m fra ytterkanten av FATO/TLOF skal helningen være negativ.

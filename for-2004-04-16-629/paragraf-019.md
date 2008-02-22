@@ -1,0 +1,4 @@
+# § 19. Merking av inn- og utflygingsretning
+(1) Dersom inn- og utflygingsflatene er separert med mindre enn 180° eller dersom det er flere enn to inn- og utflygingsflater, skal inn- og utflygingsretningene merkes med piler.
+(2) Pilene skal være gule. Bredden skal være 0,50 m og lengden skal tilpasses tilgjengelig avstand mellom ytterkanten av FATO/TLOF og settingspunktsirkelen. Utforming forøvrig skal være som angitt i vedlegg 2 fig. 2. Dersom det er merking av bæreevnen utenfor settingspunktsirkelen, skal lengden av pilen tilpasses slik at det er plass til både bæreevnen og pilen.
+(3) Pilene skal plasseres mellom ytterkanten av FATO/TLOF og settingspunktsirkelen, og pilenes senterlinjer skal være i forlengelsen av inn- og utflygingsflatenes senterlinjer. Dersom det er for liten plass mellom ytterkanten av FATO/TLOF og settingspunktsirkelen, skal pilene plasseres utenfor ytterkanten.

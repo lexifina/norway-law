@@ -1,0 +1,5 @@
+# § 7. Landings- og startområde
+(1) En helikopterplass etter denne forskrift skal ha settings- og løfteområde – TLOF (Touch-down and Lift-off Area), FATO/TLOF sentrisk på landings- og startområde – FATO (Final Approach and Take-off Area) jf. § 2 første ledd.
+(2) Størrelsen på FATO/TLOF skal ikke være mindre enn en sirkel med diameter 1,5 ganger D-verdien for dimensjonerende helikopter. FATO/TLOF skal være sirkelformet dersom inn- og utflygingsflatene er separert med mindre enn 180° jf. § 10 første ledd.
+(3) Helningen på FATO/TLOF skal være tilstrekkelig til å sikre god vannavrenning, og gjennomsnittshelningen skal ikke overstige 3% i noen retning. For en sirkel med senter midt i FATO/TLOF og med diametre 1,5 ganger lengden eller bredden av understellet, den av disse som er størst, til dimensjonerende helikopter, skal gjennomsnittshelningen ikke overstige 2%.
+(4) Overflaten på FATO/TLOF skal ha tilstrekkelig bæreevne til å tåle den trafikk som skal tillates. Overflaten skal være motstandsdyktig mot effekten av rotorturbulens, og den skal være uten ujevnheter som negativt kan påvirke start eller landing med helikopter.
