@@ -1,0 +1,3 @@
+# § 25. Inngjerding med mer
+(1) Helikopterplassens innehaver skal etablere systemer som sikrer at uvedkommende personer og kjøretøyer ikke får adgang til ferdselsområdet samtidig med at lufttrafikk pågår. Helikopterplassen skal ha skilting, gjerder og porter når dette anses nødvendig for å etterkomme kravet i første setning.
+(2) Helikopterplassens innehaver skal etablere systemer som forhindrer at ville eller tamme dyr tar seg inn på ferdselsområdet samtidig med at lufttrafikk pågår. Helikopterplassen skal ha gjerder og porter når dette anses nødvendig for å etterkomme kravet i første setning.
