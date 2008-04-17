@@ -1,0 +1,2 @@
+# § 6. Opptak på grunnlag av utenlandsk utdanning
+Opptak kan også innvilges på grunnlag av utenlandsk utdanning som, etter NOKUTs vurdering, tilsvarer fullført og bestått bachelorgrad. Søker må selv sørge for å få utdanningen sin vurdert. Søker må i tillegg dokumentere kvalifikasjoner i norsk og engelsk på linje med de krav som gjelder for opptak til grunnstudier innen høgere utdanning. Dokumentasjon av norskkunnskaper kreves ikke dersom undervisningsspråket er engelsk.
