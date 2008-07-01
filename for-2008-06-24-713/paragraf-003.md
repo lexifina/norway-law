@@ -1,0 +1,4 @@
+# § 3. Lovbrotsgebyr
+Lovbrotsgebyr etter omstillingslova § 8, jf. § 4, kan ikkje setjast høgare enn 5 G. Ved fastsetjing av storleiken på gebyret skal det takast omsyn til at gebyret skal få tilstrekkeleg førebyggjande verknad. Ved vurderinga kan ein sjå hen til kor grovt lovbrotet er og til bedrifta sin storleik, mellom anna omsetnad og tal på tilsette.
+Lovbrotsgebyr kan berre ileggast ved alvorlege brot på § 4. Som alvorlege brot reknast mellom anna at avgjerd om nedlegging er treft før melding er sendt inn, eller at avgjerd er treft så kort tid etter meldinga er sendt inn at fylkeskommunen ikkje har hatt høve til å gjennomføre behandling av meldinga, jf. omstillingslova § 5.
+Frist for å betale lovbrotsgebyret skal vere to veker etter at underretning med pålegg om lovbrotsgebyr er motteke av bedrifta. Gebyret forfell til betaling første vyrkedag etter at fristen er ute. Ved forseinka betaling gjeld forsinkelsesrentelova.
