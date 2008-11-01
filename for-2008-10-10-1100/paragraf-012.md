@@ -1,0 +1,8 @@
+# § 12. Reaksjon på brudd
+Programmet skal gjennomføres med lav toleranse for brudd på vilkår. Brudd skal følges opp konsekvent og restriktivt.
+Som alvorlig brudd regnes blant annet ugrunnet fravær, oppmøte i ruspåvirket tilstand eller at domfelte nekter å avgi prøve for å avdekke bruk av berusende eller bedøvende midler. Dersom domfelte trekker samtykket tilbake, skal kriminalomsorgen innkalle domfelte til en samtale hvor det gjøres klart at dette er et alvorlig brudd på vilkåret ved og forutsetningen for den betingede dommen.
+Ved mindre alvorlig brudd skal kriminalomsorgen gi domfelte en skriftlig advarsel.
+Kriminalomsorgen kan stanse gjennomføringen av programmet dersom domfelte alvorlig eller gjentatt bryter fastsatte vilkår. Kriminalomsorgen kan også stanse gjennomføringen av programmet dersom domfelte begår en straffbar handling i prøvetiden. Stans av gjennomføringen gjelder fra det tidspunktet kriminalomsorgen treffer vedtak i saken.
+Retten kan ved dom bestemme at straff helt eller delvis skal fullbyrdes dersom domfelte alvorlig eller gjentatt bryter fastsatte vilkår, jf. straffeloven 1902 § 54 nr. 2 første ledd. Ved avgjørelsen kan retten ta hensyn til at deler av programmet allerede er gjennomført. Dersom det anses mer hensiktsmessig, kan retten i dommen sette ny prøvetid og nye vilkår, jf. straffeloven 1902 § 54 nr. 2 annet ledd.
+Regiondirektøren eller den vedkommende gir fullmakt, fremmer begjæringen for retten. Kriminalomsorgen skal varsle påtalemyndigheten når den begjærer rettens avgjørelse.
+Regiondirektøren eller den vedkommende gir fullmakt treffer også avgjørelse om anke.

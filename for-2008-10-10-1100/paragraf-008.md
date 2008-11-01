@@ -1,0 +1,6 @@
+# § 8. Gjennomføringen
+Kriminalomsorgen skal sørge for at domfelte gjennomfører programmet i løpet av prøvetiden. Gjennomføringen skal skje i samarbeid med myndigheter, institusjoner, organisasjoner mv. som har ansvaret for de enkelte delene av programmet.
+Gjennomføringstiden er ti måneder med mindre retten uttrykkelig bestemmer en lengre gjennomføringstid. Gjennomføringstiden løper fra det tidspunktet domfelte møter første gang hos kriminalomsorgen. Straffeprosessloven § 461 gjelder tilsvarende, jf. straffeloven § 53 nr. 3 bokstav e siste punktum. Kriminalomsorgen avgjør når og hvor de ulike delene av programmet skal gjennomføres.
+Kriminalomsorgen skal utarbeide en gjennomføringsplan. Planen skal utformes slik at den gir domfelte klarhet og forutsigbarhet om hva som kreves for å gjennomføre programmet.
+Kriminalomsorgen kan på forhånd gi fritak for frammøte dersom særlig tungtveiende grunner taler for det. Manglende frammøte skal som hovedregel tas igjen på et senere tidspunkt etter nærmere bestemmelse av kriminalomsorgen.
+Hvis domfelte ikke kan møte til gjennomføring av programmet på grunn av sykdom, kreves dette dokumentert med legeerklæring. Det må uttrykkelig fremgå av erklæringen at domfelte ikke er i stand til å møte til gjennomføring av program mot ruspåvirket kjøring. Domfelte må snarest mulig gi beskjed om sitt fravær.
