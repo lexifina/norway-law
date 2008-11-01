@@ -1,0 +1,3 @@
+# § 5. Personundersøkelse
+Personundersøkelse skal alltid rekvireres fra kriminalomsorgen når det kan være aktuelt å idømme program mot ruspåvirket kjøring. Påtalemyndigheten eller retten kan rekvirere personundersøkelse av siktede etter straffeprosessloven § 162. I rekvisisjonen skal det fremgå at påtalemyndigheten eller retten ønsker opplysninger om siktedes personlighet, livsforhold og fremtidsmuligheter med sikte på idømmelse av program mot ruspåvirket kjøring.
+Personundersøkelsen gjennomføres etter reglene i straffeprosessloven kapittel 13 og nærmere retningslinjer gitt av Justisdepartementet.

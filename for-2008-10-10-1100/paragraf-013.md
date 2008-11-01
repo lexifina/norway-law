@@ -1,0 +1,2 @@
+# § 13. Ny straffbar handling
+Dersom domfelte begår en straffbar handling i prøvetiden, kan retten etter straffeloven 1902 § 54 nr. 3 gi en samlet dom for begge handlingene eller en særskilt dom for den nye handlingen. Kriminalomsorgen har plikt til å varsle politi eller påtalemyndighet hvis den blir kjent med at domfelte begår lovbrudd i prøvetiden. Det er påtalemyndigheten som fremmer straffesaken for retten.

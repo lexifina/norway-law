@@ -1,0 +1,2 @@
+# § 10. Kontroll av generelt rusforbud
+Hvis retten har satt forbud mot å bruke berusende eller bedøvende midler, jf. straffeloven 1902 § 53 nr. 3 bokstav c, skal kriminalomsorgen undersøke om forbudet blir overholdt. Undersøkelsen kan innebære uanmeldte besøk i hjemmet. Når det er satt rusforbud, kan kriminalomsorgen pålegge den domfelte å avgi urinprøve, utåndingsprøve eller blodprøve eller å medvirke til annen undersøkelse som kan skje uten fare eller særlig ubehag. Blodprøve kan bare tas av helsepersonell.

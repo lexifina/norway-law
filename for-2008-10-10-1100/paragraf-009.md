@@ -1,0 +1,3 @@
+# § 9. Kontroll med gjennomføringen
+Kriminalomsorgen skal føre kontroll med at domfelte gjennomfører de ulike delene av programmet. Samarbeidspartnere skal melde fra om alle uregelmessigheter til kriminalomsorgen.
+For å kontrollere kravet i § 7 første ledd bokstav b, kan kriminalomsorgen pålegge domfelte å avgi urinprøve, utåndingsprøve eller blodprøve eller å medvirke til andre undersøkelser som kan skje uten fare eller særlig ubehag, for å avdekke bruk av rusmidler, bedøvelsesmidler eller andre kjemiske stoffer som ikke er lovlig foreskrevet. Blodprøve kan bare tas av helsepersonell. Er det grunn til å anta at domfelte møter påvirket av berusende eller bedøvende midler, skal kriminalomsorgen snarest undersøke forholdet.

@@ -1,0 +1,5 @@
+# § 6. Innholdet i programmet
+Kriminalomsorgen skal tilrettelegge innholdet i programmet ut fra den enkeltes forutsetninger og behov. Programmet skal gi kunnskap om konsekvenser av ruspåvirket kjøring og bevisstgjøre domfelte til å ta ansvar for egne handlinger.
+Program mot ruspåvirket kjøring skal inneholde individuelle samtaler med kriminalomsorgen, samtaleorientert undervisning, kartlegging av eventuelt behandlingsbehov og kontroll. Samtalene og samtalehyppigheten skal tilpasses den enkeltes behov. Samtalene skal så langt det er mulig gjennomføres minimum hver 14. dag.
+Undervisningsdelen skal utgjøre mellom 20 og 30 timer som gjennomføres i et tidsrom på to til tre måneder. Undervisningen gis i grupper eller individuelt.
+Kriminalomsorgen bistår domfelte med å kontakte primærhelsetjenesten eller sosialtjenesten for henvisning til spesialisthelsetjenesten som kartlegger behandlingsbehov og vurderer rett til tverrfaglig spesialisert rusbehandling. Kriminalomsorgen skal gjøres kjent med konklusjonen eller tilrådingen helsetjenesten kommer fram til.
