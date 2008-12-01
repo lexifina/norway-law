@@ -1,0 +1,2 @@
+# Art 22.
+Administrative og rettskraftige judisielle avgjørelser, som i en av statene er utferdiget i samsvar med artiklene 5, 7, 8, 11, 13, 14, 15, 19 eller 21, skal være gyldige i øvrige stater uten særskilt stadfestelse og uten prøving av avgjørelsens riktighet eller myndighetens kompetanse. Det samme gjelder rettskraftige judisielle avgjørelser som er utferdiget i en av statene, og som går ut på ugyldighet eller omstøting av ekteskap mellom statsborgere i en kontraherende stat.

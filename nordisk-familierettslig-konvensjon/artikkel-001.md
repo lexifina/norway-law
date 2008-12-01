@@ -1,0 +1,4 @@
+# Art 1.
+Søker statsborger i en kontraherende stat prøving av ekteskapsvilkårene eller lysing hos en av de andre staters myndigheter, blir hans rett til å inngå ekteskap å prøve etter loven i denne stat, såframt en av brudefolkene er bosatt der, og ellers etter loven i den stat hvor han har statsborgerrett. Sistnevnte lov skal likevel alltid anvendes om vedkommende søker krever det. Skal retten til å inngå ekteskap prøves etter statsborgerlandets lov, kan vedkommende myndighet kreve at retten godtgjøres ved ekteskapsattest utstedt av statsborgerlandets myndigheter.
+Kreves det ved prøvingen av ekteskapsvilkårene i en kontraherende stat etter denne stats lov ikke samtykke til ekteskapet fra foreldre eller verge, skal det for person som er bosatt i en annen kontraherende stat tas hensyn til krav om slikt samtykke etter bopellandets lov.
+Om prøvingen og lysingen gjelder for øvrig loven i den stat som vedkommende myndighet tilhører.

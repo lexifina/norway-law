@@ -1,0 +1,3 @@
+# Art 10.
+Er det oppnådd separasjon mellom ektefeller hvis formueforhold bedømmes etter loven i en kontraherende stat som ikke har regler om separasjon, skal formue som en ektefelle erverver etter separasjonen være hans særeie og gjeldsansvaret beregnes etter forholdene ved separasjonen. For øvrig får reglene i denne stat om bodeling etter skilsmisse tilsvarende anvendelse.
+Er en ektefelle død etter oppnådd separasjon som fortsatt besto, skal separasjonen likestilles med skilsmisse, for så vidt angår gjenlevende ektefelles rett til arv etter avdøde etter loven eller testament, når loven i en kontraherende stat som ikke har regler om separasjonen skal anvendes.
