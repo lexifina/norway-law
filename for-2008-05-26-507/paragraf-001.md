@@ -1,0 +1,2 @@
+# § 1
+Konvensjon 6. februar 1931 nr. 1 mellom Norge, Danmark, Finland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål med sluttprotokoll (den nordiske familierettskonvensjon), som endret ved overenskomster mellom de samme stater 26. mars 1953, 3. november 1969, 20. november 1973, 25. februar 2000, 6. februar 2001 og 26. januar 2006, gjelder med lovs kraft her i riket.
