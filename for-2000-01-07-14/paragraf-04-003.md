@@ -1,0 +1,2 @@
+# § 4-3. (Andre sendelag)
+Medlemmer av andre sendelag under OSSE enn de sendelag som er nevnt i § 4-1, innrømmes immunitet og privilegier som fastsatt i § 4-1 bokstav b), c), e) og f) når de er i tjeneste for OSSE. I situasjoner der de kan møte spesielle vanskeligheter, innrømmes disse medlemmer på anmodning fra det sittende formannskap i OSSE, immunitet og privilegier som fastsatt i § 4-1 bokstav a), d), g), h) og i).

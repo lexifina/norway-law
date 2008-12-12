@@ -1,0 +1,2 @@
+# § 7-1. (Personer som foretar inspeksjoner og evaluering under Wien-dokumentet av 1994)
+Inspektører og, der det forefinnes, hjelpepersonell som foretar inspeksjoner under Wien-dokumentet av 1994 innrømmes under sitt oppdrag diplomatiske privilegier og diplomatisk immunitet i samsvar med Wien-konvensjonen av 18. april 1961 om diplomatisk samkvem. Det samme gjelder medlemmer av evalueringslag og, der det forefinnes, hjelpepersonell som foretar evaluering under Wien-dokumentet av 1994.
