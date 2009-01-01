@@ -1,0 +1,3 @@
+# § 6. Overtredelsesgebyr
+Den som forsettlig eller uaktsomt overtrer bestemmelsen i mesterbrevloven § 1 tredje ledd, jf. fjerde ledd, kan pålegges å betale et overtredelsesgebyr på inntil kr 15 000,- til statskassen slik at det ved:1. gangs overtredelse skal betales et gebyr stort kr 5 000,-.2. gangs overtredelse skal betales et gebyr stort kr 10 000,-.3. gangs overtredelse skal betales et gebyr stort kr 15 000,-.
+Ved mer enn 3 overtredelser eller i særlig graverende tilfeller, slik som vedvarende og gjentatt misbruk eller forsettlige eller grove uaktsomme overtredelser, kan forholdet anmeldes og straffes med bøter.
