@@ -1,0 +1,2 @@
+# § 1. Lovens formål
+Denne loven har til formål å sikre allmennheten tilgang til miljøinformasjon og derved gjøre det lettere for den enkelte å bidra til vern av miljøet, å verne seg selv mot helse- og miljøskade og å påvirke offentlige og private beslutningstakere i miljøspørsmål. Loven skal også fremme allmennhetens mulighet til å delta i offentlige beslutningsprosesser av betydning for miljøet.
