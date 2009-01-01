@@ -1,0 +1,2 @@
+# § 6.
+Formannen oversender begjæringen i rekommandert brev, eller ved bruk av elektronisk kommunikasjon dersom det er benyttet en betryggende metode for å sikre at begjæringen er mottatt av motparten med rimelig frist for denne til å fremkomme med sin redegjørelse for tvisten. I alminnelighet bør partene ikke avkreves ytterligere skriftlige redegjørelser, men formannen kan beslutte fortsatt skriftlig saksforberedelse.

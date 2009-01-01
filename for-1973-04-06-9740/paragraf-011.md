@@ -1,0 +1,2 @@
+# § 11.
+Avslår nemnda å behandle en tvist med den begrunnelse at oppfinnelsen er ikke patentbar, er denne avgjørelse endlig med mindre oppfinnelsen senere fører til patent i Norge. Likestilt med patent skal i denne forbindelse anses patentmyndighetenes beslutning om godkjennelse av patentsøknadene til utlegning når patentsøknaden etter denne godkjennelse på arbeidsgiverens begjæring trekkes tilbake, eller av andre grunner henlegges som følge av forhold som ligger hos arbeidsgiveren.
