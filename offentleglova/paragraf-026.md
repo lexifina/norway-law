@@ -1,0 +1,4 @@
+# § 26. Unntak for eksamenssvar og karakterar m.m.
+Det kan gjerast unntak frå innsyn for svar til eksamen eller liknande prøve og innleverte utkast til konkurranse eller liknande. Det same gjeld tilhøyrande oppgåver inntil vedkommande eksamen eller prøve er halden eller vedkommande konkurranse er lyst ut. Det kan dessutan gjerast unntak frå innsyn for karakterar og vitnemål frå utdanning.
+Det kan gjerast unntak frå innsyn for opplysningar om kven som skal få ein pris, eit heidersteikn eller liknande inntil tildelinga er gjort. For opplysningar om kven som har vore vurdert for ein pris, eit heidersteikn eller liknande, gjeld dette også etter tildelinga.
+Det kan gjerast unntak frå innsyn for personbilete som er teke inn i eit personregister. Det same gjeld opplysningar som er innhenta ved vedvarande eller regelmessig gjenteken personovervaking.

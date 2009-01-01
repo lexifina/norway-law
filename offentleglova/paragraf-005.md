@@ -1,0 +1,4 @@
+# § 5. Utsett innsyn
+Organet kan fastsetje at det i ei bestemt sak først skal vere innsyn frå eit seinare tidspunkt i saksførebuinga enn det som følgjer av §§ 3 og 4, såframt det er grunn til å tru at dei dokumenta som ligg føre, gir eit direkte misvisande bilete av saka, og at innsyn derfor kan skade klare samfunnsmessige eller private interesser.
+For dokument som er utarbeidde av eller til Riksrevisjonen i saker som han vurderer å leggje fram for Stortinget som ledd i den konstitusjonelle kontrollen, gjeld innsyn først når saka er motteken i Stortinget, eller når Riksrevisjonen har varsla vedkommande organ om at saka er ferdigbehandla, jf. lov 7. mai 2004 nr. 21 om Riksrevisjonen § 18 andre ledd.
+Dersom vesentlege private eller offentlege omsyn tilseier det, kan innsyn i eit dokument utsetjast til det har komme fram til den det vedkjem, eller hendinga der det skal offentleggjerast, har funne stad.

@@ -1,0 +1,3 @@
+# § 31. Avslag og grunngiving
+Avslag på innsynskrav skal vere skriftleg. Organet skal alltid vise til den føresegna som gir grunnlag for avslaget, og til kva ledd, bokstav eller nummer i føresegna som er brukt. Dersom § 13 er grunnlag for avslaget, skal organet også vise til føresegna som pålegg teieplikt. Byggjer avslaget på forskrift, må organet opplyse om dette, og kva punkt i forskrifta avslaget byggjer på. Avslaget skal også opplyse om høvet til å klage og om klagefristen.
+Den som har fått avslag, kan innan tre veker frå avslaget vart motteke, krevje ei nærare grunngiving for avslaget der hovudomsyna som har vore avgjerande for avslaget, skal nemnast. Organet skal gi skriftleg grunngiving snarast råd og seinast innan ti arbeidsdagar etter at kravet vart motteke.

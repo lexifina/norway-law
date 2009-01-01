@@ -1,0 +1,4 @@
+# § 24. Unntak for kontroll- og reguleringstiltak, dokument om lovbrot og opplysningar som kan lette gjennomføringa av lovbrot m.m.
+Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd fordi innsyn ville motverke offentlege kontroll- eller reguleringstiltak eller andre pålegg eller forbod, eller føre til fare for at dei ikkje kan gjennomførast.
+Det kan gjerast unntak frå innsyn for melding, tips eller liknande dokument om lovbrot frå private. Andre dokument om lovbrot, blant anna melding og tips frå offentlege organ, kan det gjerast unntak frå innsyn for inntil saka er avgjord.
+Det kan gjerast unntak frå innsyn for opplysningar når unntak er påkravd fordi innsyn ville lette gjennomføringa av straffbare handlingar. Det same gjeld opplysningar der unntak er påkravd fordi innsyn ville utsetje enkeltpersonar for fare, eller lette gjennomføringa av handlingar som kan skade delar av miljøet som er særleg utsette, eller som er trua av utrydding.
