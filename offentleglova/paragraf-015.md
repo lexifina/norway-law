@@ -1,0 +1,5 @@
+# § 15. Dokument innhenta utanfrå for den interne saksførebuinga
+Når det er nødvendig for å sikre forsvarlege interne avgjerdsprosessar, kan organet gjere unntak frå innsyn for dokument som organet har innhenta frå eit underordna organ til bruk i den interne saksførebuinga si. Det same gjeld dokument som eit departement har innhenta frå eit anna departement til bruk i den interne saksførebuinga si.
+Det kan vidare gjerast unntak for delar av dokument som inneheld råd om og vurderingar av korleis eit organ bør stille seg i ei sak, og som organet har innhenta til bruk for den interne saksførebuinga si, når det er påkravd av omsyn til ei forsvarleg ivaretaking av det offentlege sine interesser i saka.
+Unntaka i paragrafen her gjeld tilsvarande for dokument om innhenting av dokument som er nemnde i første og andre ledd, og innkallingar til og referat frå møte mellom overordna og underordna organ, mellom departement og mellom eit organ og nokon som gir råd eller vurderingar som er nemnde i andre ledd.
+Paragrafen her gjeld ikkje for dokument som blir innhenta som ledd i allmenn høyring i ei sak.

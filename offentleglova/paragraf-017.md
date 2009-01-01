@@ -1,0 +1,2 @@
+# § 17. Unntak for visse dokument som gjeld Det Kongelege Hoff
+Det kan gjerast unntak frå innsyn for dokument som gjeld talar som medlemmer av kongehuset skal halde eller har halde, og for dokument som gjeld reiseprogram for medlemmer av kongehuset. Dette gjeld likevel ikkje for den endelege talen etter at han er offentleg framført, og heller ikkje for dokument som gjeld reiseprogram, etter at reisa er gjennomført eller reiseprogrammet er offentleggjort.

@@ -1,0 +1,3 @@
+# § 7. Bruk av offentleg informasjon
+Informasjon som det er gitt tilgang til etter lova her eller anna lovgiving som gir ålmenta rett til innsyn i offentleg verksemd, kan brukast til eitkvart formål dersom ikkje anna lovgiving eller retten til ein tredjeperson er til hinder for det.
+I verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor, skal eventuelle standardlisensar om bruk av offentleg informasjon vere tilgjengelege i digitalt format, og dei må kunne behandlast elektronisk. Kongen kan i forskrift fastsetje at det same skal gjelde for verksemder som ikkje er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv 2003/98/EF) om vidarebruk av informasjon frå offentleg sektor.
