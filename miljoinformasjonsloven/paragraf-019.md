@@ -1,0 +1,7 @@
+# § 19. Klage
+(1) Avslag på krav om miljøinformasjon etter kapitlet her eller etter produktkontrolloven § 10, kan påklages til Klagenemnda for miljøinformasjon. Det samme gjelder avvisning av krav etter § 16 tredje ledd.
+(2) Klage sendes til Klagenemnda for miljøinformasjon, med kopi til den virksomheten som har fattet avgjørelsen. Klagefristen er tre uker fra det tidspunkt underretning om avgjørelsen er kommet fram til vedkommende. Dersom svar ikke er kommet fram innen to måneder etter at kravet om informasjon ble mottatt hos virksomheten, anses dette som avslag som kan påklages. Har informasjonssøker bedt om å få oppgitt nærmere begrunnelse for avslaget etter § 18 siste ledd, avbrytes klagefristen.
+(3) Klagenemnda skal bestå av leder, nestleder og seks medlemmer, som alle oppnevnes av Kongen for fire år av gangen. Ved første gangs oppnevning kan det settes kortere funksjonstid for noen av medlemmene. Leder og nestleder skal ha juridisk embetseksamen. Tre av medlemmene skal ha bakgrunn fra privat næringsliv og de tre andre fra en miljøvernorganisasjon, en forbrukerorganisasjon eller et medieorgan.
+(4) Ved behandlingen av den enkelte sak skal Klagenemnda for miljøinformasjon bestå av leder eller nestleder og to medlemmer med bakgrunn henholdsvis fra næringslivet eller fra miljø-, medie- eller forbrukersiden.
+(5) Avgjørelser fra Klagenemnda treffes ved alminnelig flertall i skriftlig grunngitt vedtak.
+(6) Klagenemndas vedtak er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.
