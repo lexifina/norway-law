@@ -5,3 +5,4 @@
 (4) Virksomheten skal føre kartotek over farlige kjemikalier og biologisk materiale. Kartoteket skal blant annet opplyse om fysikalske, kjemiske og helseskadelige egenskaper, forebyggende vernetiltak og førstehjelpsbehandling. Beholdere og emballasje for kjemikalier og biologisk materiale skal være tydelig merket med navn, sammensetning og advarsel på norsk.
 (5) Arbeidstilsynet kan i det enkelte tilfelle helt eller delvis gjøre unntak fra reglene i denne paragraf i forbindelse med forsknings- og analysearbeid e.l.
 (6) Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av kravene i denne paragraf, og kan herunder bestemme at det skal føres register over arbeidstakere som eksponeres for bestemte kjemikalier eller biologisk materiale.
+(7) Departementet kan i forskrift gi nærmere bestemmelser om bruk, registrering, vurdering, godkjennelse, rapportering, informasjon, begrensning og annen behandling av kjemikalier.
