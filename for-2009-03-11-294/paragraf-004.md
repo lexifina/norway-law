@@ -1,0 +1,4 @@
+# § 4. Hvilke organer som vurderer om opplysninger kan gis
+Vurderingen av om opplysninger skal oversendes fra finansinstitusjoner til Arbeids- og velferdsetaten, skal foretas av særskilt utpekt enhet eller person, som også skal vurdere tiltak på grunnlag av opplysninger som kommer inn fra Arbeids- og velferdsetaten. Det skal utarbeides liste over de utpekte enheter eller personer. Listen oversendes de regionale kontrollenhetene i Arbeids- og velferdsetaten, jf. andre ledd.
+I Arbeids- og velferdsetaten er det de regionale kontrollenhetene som skal vurdere om opplysninger skal oversendes til den finansinstitusjon det gjelder og som skal motta og vurdere opplysninger som kommer inn fra finansinstitusjoner.
+Dersom andre enheter eller personer i en finansinstitusjon eller innen Arbeids- og velferdsetaten kjenner til forhold som den andre parten bør informeres om, skal de enheter eller personer som er nevnt i første og andre ledd gjøres oppmerksom på dette.
