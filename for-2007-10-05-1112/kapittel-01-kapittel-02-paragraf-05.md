@@ -1,0 +1,2 @@
+# § 18. Forsinkelse som følge av inspeksjonen
+En SAFA-inspeksjon skal ikke forårsake en urimelig forsinkelse av det inspiserte luftfartøyets planlagte avgang. Ved vurderingen av om en forsinkelse er urimelig skal det tas hensyn til hvorvidt det kan være tvil om en flygning er tilstrekkelig forberedt, luftfartøyets luftdyktighet eller andre forhold som kan påvirke sikkerheten for luftfartøyet, personer som befinner seg i luftfartøyet eller tredjemann.

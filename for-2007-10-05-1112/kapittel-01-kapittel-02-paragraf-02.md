@@ -1,0 +1,2 @@
+# § 15. Inspeksjonens innhold
+SAFA-inspeksjon skal utføres av inspektører med relevant og nødvendig kunnskap for inspeksjonsområdet. Inspektørene skal inneha kunnskap om tekniske forhold, luftdyktighet og operasjonelle forhold, såfremt alle punkter på sjekklisten kontrolleres. Dersom en SAFA-inspeksjon gjennomføres av to eller flere inspektører, kan de sentrale elementene i inspeksjonen, besiktigelse av luftfartøyet fra utsiden, inspeksjon av cockpit og inspeksjon av passasjerkabin og/eller lasterom, fordeles mellom inspektørene.

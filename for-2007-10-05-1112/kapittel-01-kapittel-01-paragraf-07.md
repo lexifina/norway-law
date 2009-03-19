@@ -1,0 +1,2 @@
+# § 7. Bruk av ekstern organisasjon til utdannelse
+Dersom tilsynsmyndigheten benytter en ekstern organisasjon til SAFA-relatert utdannelse, skal det etableres et system som evaluerer den eksterne organisasjonen. Systemet skal være enkelt og gjennomsiktig, og skal stå i forhold til og ta hensyn til eventuelt relevant veiledende materiale som er utarbeidet og offentliggjort av EASA. Et slikt system kan ta hensyn til andre medlemsstaters evaluering.

@@ -1,0 +1,2 @@
+# § 3. Gjennomføring av bestemmelser i EØS-avtalen
+EØS-avtalens vedlegg XIII nr. 66rb (forordning (EF) nr. 351/2008) om gjennomføring av europaparlaments- og rådsdirektiv 2004/36/EF når det gjelder prioritering av inspeksjoner på bakken for luftfartøyer som benytter lufthavner i Fellesskapet, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.

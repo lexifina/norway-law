@@ -1,0 +1,2 @@
+# § 24. Oppfølging av inspeksjon på nivå 1
+Oppfølgingsnivå 1 skal gjennomføres etter hver SAFA-inspeksjon, uavhengig av om det er funnet avvik eller ikke. Oppfølgingsnivå 1 skal sørge for at fartøysjefen, eller i vedkommendes fravær, et medlem av flybesetningen eller den høyest rangerte representant for operatøren, blir gjort kjent med resultatene fra SAFA-inspeksjonen, samt at vedkommende får overlevert inspeksjonsbeviset.

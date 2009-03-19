@@ -1,0 +1,10 @@
+# § 6. Inspeksjoner på bakken
+(1) Luftfartstilsynet skal sikre at det foretas inspeksjon på bakken av alle tredjestaters luftfartøyer som mistenkes for ikke å oppfylle internasjonale sikkerhetsstandarder, og som lander på en av medlemsstatenes lufthavner som er åpen for internasjonal lufttrafikk. Ved gjennomføringen av slike framgangsmåter skal Luftfartstilsynet kontrollere luftfartøyet særlig grundig i følgende tilfeller:
+a) når det er mottatt opplysninger som tyder på dårlig vedlikeholdstilstand eller åpenbare mangler eller feil ved luftfartøyet,
+b) når det er rapportert at luftfartøyet har vist unormale manøvrer etter innflyging i en medlemsstats luftrom, slik at det gir grunn til alvorlig bekymring for sikkerheten,
+c) når en tidligere inspeksjon på bakken av luftfartøyet har avdekket mangler som gir grunn til alvorlig usikkerhet om hvorvidt det oppfyller internasjonale sikkerhetsstandarder, og når medlemsstaten frykter at manglene ikke er blitt utbedret,
+d) når det foreligger indikasjoner på at vedkommende myndigheter i registreringslandet ikke fører tilstrekkelig sikkerhetstilsyn, eller
+e) når opplysninger innhentet i samsvar med § 5 gir grunn til betenkeligheter med hensyn til luftfartsselskapet, eller når en tidligere inspeksjon på bakken av et luftfartøy som benyttes av samme luftfartsselskap, har avdekket mangler.
+(2) Luftfartstilsynet skal gjennomføre inspeksjoner på bakken i form av stikkprøvekontroller når det ikke foreligger noen bestemt mistanke, forutsatt at slike regler er i samsvar med fellesskapsretten og folkeretten. Slike stikkprøvekontroller skal gjennomføres på en ikke-diskriminerende måte.
+(3) Inspeksjoner på bakken skal gjennomføres i samsvar med framgangsmåten fastsatt i § 7. Etter at inspeksjonen på bakken er gjennomført, skal fartøysjefen eller en representant for luftfartøyet underrettes om resultatene av inspeksjonen, og dersom det ble avdekket betydelige mangler, skal rapporten sendes til luftfartøyets luftfartsselskap og til de berørte vedkommende myndigheter.
+(4) Luftfartstilsynet skal gjøre sitt ytterste for å unngå å forsinke luftfartøyet unødig.

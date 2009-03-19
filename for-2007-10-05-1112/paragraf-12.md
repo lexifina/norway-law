@@ -1,0 +1,2 @@
+# § 11. Ikrafttredelse
+Denne forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 5. juni 2007 nr. 582 om gjennomføring av kommisjonsforordning (EF) nr. 768/2006 av 19. mai 2006 om gjennomføring av europaparlaments- og rådsdirektiv 2004/36/EF når det gjelder innsamling og utveksling av opplysninger om sikkerheten til luftfartøy som benytter lufthavner i Fellesskapet og styring av informasjonssystemet.

@@ -1,0 +1,2 @@
+# § 23. Inspeksjonsbevis
+Etter at SAFA-inspeksjonen er avsluttet skal det fylles ut et inspeksjonsbevis, jf. tillegg I. Ett eksemplar av inspeksjonsbeviset skal gis til fartøysjefen, eller i dennes fravær, et medlem av flyets besetning eller den høyest rangerte representant for operatøren. Mottakeren skal signere på at han har mottatt inspeksjonsbeviset. Dersom mottakeren nekter å signere på mottak av inspeksjonsbeviset skal dette noteres av SAFA-inspektøren på skjemaet.
