@@ -1,0 +1,5 @@
+# § 3. Eksamensformer og tidspunkt for eksamen
+1. Eksamen arrangeres i henhold til de vurderingsformer som er fastsatt i emnebeskrivelsen for det enkelte emnet.
+2. Tid og sted for eksamen fastsettes og kunngjøres av høgskolen i egne eksamensplaner på Intranettet. Alle kandidater er selv ansvarlige for å holde seg orientert om tid og sted for eksamen.
+3. Ny eksamen arrangeres for studenter som ikke har bestått eksamen eller som hadde gyldig fravær under eksamen. Det arrangeres ikke ny eksamen i deler av emner, kun som avsluttende prøve i hele emnet.Første gang ny eksamen arrangeres etter ordinær eksamen, gjelder samme pensum som ved ordinær eksamen. Det er studentenes eget ansvar å undersøke hvilket vurderingsgrunnlag som gjelder ved oppmelding til ny eksamen i et emne.
+4. Det kan arrangeres inntil to ekstraordinære eksamener når et emne utgår. Siste ekstraordinære eksamen arrangeres innen to år etter utgangen av studieåret da emnet ble undervist siste gang. Rektor kan gjøre vedtak om ekstraordinær eksamen i spesielle tilfelle.

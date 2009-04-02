@@ -1,0 +1,4 @@
+# § 18. Klage over formelle feil ved eksamen
+1. Den som har vært oppe til eksamen eller prøve, kan klage over formelle feil som kan ha hatt betydning for bedømmelsen av en eller flere av kandidatenes prestasjoner. Begrunnet klage må fremsettes innen tre uker etter at kandidaten blir kjent med, eller burde være kjent med det forhold som begrunner klagen.
+2. Finner styret eller klagenemnda at det er begått feil som kan ha hatt betydning for en eller flere av kandidatenes prestasjon eller bedømmelsen av denne, kan det bestemmes at det skal foretas ny sensur enten bare for klageren eller for alle kandidater ved vedkommende eksamen, eller at eksamen annulleres og ny eksamen avholdes.
+3. Karakterfastsetting ved ny sensurering etter denne paragraf kan påklages etter reglene i § 17.4 i denne forskriften.

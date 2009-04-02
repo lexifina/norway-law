@@ -1,0 +1,7 @@
+# § 17. Begrunnelse for og klage over karakterfastsetting
+1. Regler for begrunnelse og klage fremgår av lovens kapittel 5. I forhold som ikke er spesielt omtalt i loven eller i denne forskrift, legges forvaltningslovens prinsipper til grunn.
+2. Ved muntlig eksamen eller ved bedømmelse av praktiske ferdigheter må krav om begrunnelse fremsettes umiddelbart etter at karakter er meddelt. Ved annen bedømmelse er tidsfristen en uke fra kandidaten fikk mulighet til å gjøre seg kjent med karakteren. Det er fastsatt rutine og skjema for krav om begrunnelse.
+3. Begrunnelse kan gis muntlig eller skriftlig av sensor(ene). Sensor(ene) bestemmer formen. Ved muntlig begrunnelse skal studenten gis skriftlig dokumentasjon for tidspunktet når begrunnelsen ble gitt. Begrunnelse skal være gitt innen to uker etter at krav ble satt frem, jf. § 5-3 i loven.
+4. Klage på karakter må fremsettes skriftlig på fastsatt skjema innen tre uker etter at eksamensresultatet er kunngjort. Dersom kandidaten har fremsatt krav om begrunnelse, løper tre-ukersfristen fra begrunnelse ble meddelt. Klagen behandles av nye sensorer (jf. § 13.1). Nytt sensurvedtak kan fattes til gunst eller ugunst for klageren. Dette vedtaket er endelig og kan ikke påklages.
+5. Ved gruppeeksamen må klage på karakter være underskrevet av alle gruppens medlemmer, unntatt i tilfeller av at det er gitt individuell karakter for ett eller flere av gruppens medlemmer.
+6. Ved muntlig eksamen kan det bare klages på formelle feil av mulig betydning for resultatet.
