@@ -1,0 +1,2 @@
+# § 31. Uriktige geografiske betegnelser for vin og brennevin
+I næringsvirksomhet er det forbudt å anvende geografiske vin- eller brennevinsbetegnelser for vin og brennevin som ikke har den geografiske opprinnelsen som betegnelsen utpeker. Dette gjelder selv om den faktiske opprinnelsen også er angitt, eller den geografiske betegnelsen er oversatt eller følges av uttrykk som «slag», «type», «imitasjon» e.l.

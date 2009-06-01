@@ -1,0 +1,3 @@
+# § 33. Opplysningsplikt
+Enhver plikter å gi Markedsrådet eller Forbrukerombudet de opplysninger disse myndigheter krever for å kunne utføre sine gjøremål etter loven, herunder opplysninger som er nødvendige for å vurdere om en handelspraksis er urimelig. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist.
+Markedsrådet og Forbrukerombudet kan foreta slik gransking og besiktigelse, herunder kreve utlevert dokumenter, gjenstander, vareprøver eller annet, som de finner påkrevet for å utføre sine gjøremål etter loven. Om nødvendig kan det anmodes om bistand fra politiet.

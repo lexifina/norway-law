@@ -1,0 +1,5 @@
+# § 13. Virkninger av reservasjon
+I næringsvirksomhet er det forbudt å rette markedsføring ved telefon eller adressert post til fysiske personer som har reservert seg mot dette i Reservasjonsregisteret eller hos den næringsdrivende.
+Første ledd er ikke til hinder for at den som har reservert seg, utrykkelig kan anmode næringsdrivende eller organisasjoner om å bli kontaktet til tross for reservasjonen.
+Reservasjon i Reservasjonsregisteret gjelder ikke markedsføring ved telefon eller adressert post i eksisterende kundeforhold der den næringsdrivende avtaleparten har mottatt kundens kontaktopplysninger i forbindelse med salg. Markedsføringen kan i så fall bare gjelde den næringsdrivendes egne varer, tjenester eller andre ytelser tilsvarende dem som kundeforholdet bygger på. Når navn, adresse og telefonnummer samles inn, og eventuelt ved hver enkelt senere markedsføringshenvendelse, skal kunden enkelt og gebyrfritt gis anledning til å reservere seg mot slike henvendelser.
+Første til tredje ledd gjelder tilsvarende for frivillige organisasjoners innsamlingsaksjoner.
