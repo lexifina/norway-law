@@ -1,0 +1,3 @@
+# § 20. Urimelig handelspraksis overfor barn
+Ved vurderingen av om en handelspraksis er urimelig etter § 6 skal det legges vekt på om handelspraksisen er særskilt rettet mot barn. Selv om handelspraksisen ikke er særskilt rettet mot barn, skal det legges vekt på om den, på grunn av art eller produkt, er egnet til å påvirke barn, og om den næringsdrivende kan forventes å forutse barns særlige sårbarhet for praksisen.
+Det er forbudt å ta med i reklame direkte oppfordringer til barn om å kjøpe annonserte produkter eller overtale foreldrene eller andre voksne til å kjøpe de annonserte produktene til dem.

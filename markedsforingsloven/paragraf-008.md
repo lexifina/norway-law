@@ -1,0 +1,10 @@
+# § 8. Villedende utelatelser
+En handelspraksis er villedende dersom den, i sin konkrete sammenheng og etter en helhetsvurdering, utelater eller skjuler vesentlige opplysninger som forbrukerne ut fra sammenhengen trenger for å kunne ta en informert økonomisk beslutning eller presenterer opplysningene på en uklar, uforståelig, tvetydig eller uhensiktsmessig måte. Ved vurderingen av om opplysninger er utelatt, skal tas i betraktning plass- eller tidsmessige begrensninger ved mediet som brukes til å formidle handelspraksisen, og eventuelle tiltak fra den næringsdrivende for å gjøre opplysningene tilgjengelige for forbrukerne på annen måte.
+Praksisen anses likevel bare som villedende dersom den er egnet til å påvirke forbrukerne til å treffe en økonomisk beslutning som de ellers ikke ville ha truffet.
+Ved oppfordring til kjøp regnes følgende opplysninger som vesentlige hvis de ikke allerede fremgår av sammenhengen:
+a) opplysninger om ytelsens hovedegenskaper, i relevant omfang for mediet og ytelsen,
+b) opplysninger om den næringsdrivendes geografiske adresse og identitet og om relevant, geografisk adresse og identitet til den næringsdrivende som vedkommende opptrer på vegne av,
+c) opplysninger om vilkår for betaling, levering, utførelse og klagebehandling, dersom disse avviker fra kravene til god forretningsskikk overfor forbrukere,
+d) for ytelser og transaksjoner som omfattes av angrerett eller avbestillingsrett, opplysninger om at det foreligger en slik rett.
+Det samme gjelder opplysninger om prisen inklusive avgifter, eller, hvis ytelsens art gjør at prisen ikke med rimelighet kan utregnes på forhånd, hvordan prisen beregnes. Der det er relevant, skal alle ytterligere omkostninger vedrørende frakt, levering eller porto oppgis. Hvis omkostningene ikke med rimelighet kan utregnes på forhånd, skal det opplyses om at det kan forekomme slike ytterligere omkostninger.
+Med oppfordring til kjøp menes en kommersiell kommunikasjon som angir ytelsens egenskaper og pris på en egnet måte for den anvendte kommersielle kommunikasjonen og dermed setter forbrukerne i stand til å foreta et kjøp.

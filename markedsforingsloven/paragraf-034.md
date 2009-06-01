@@ -1,0 +1,3 @@
+# § 34. Forbrukerombudets tilsynsområde
+Forbrukerombudet skal føre tilsyn med at bestemmelser i denne lovens kapittel 1 til 5, eller bestemmelser gitt i medhold av denne loven, overholdes. Forbrukerombudet skal videre føre slikt tilsyn som Forbrukerombudet er tillagt etter annet regelverk.
+Forbrukerombudet fører tilsyn etter ovennevnte bestemmelser ut fra hensynet til forbrukerne. Tilsynet etter § 2 annet ledd skjer likevel ut fra hensynet til likestilling mellom kjønnene, særlig med vekt på hvordan kvinner fremstilles. Tilsynet etter § 10 med forskrifter skjer ut fra hensynet til at forbrukerne skal kunne orientere seg i markedet og enkelt sammenligne priser.
