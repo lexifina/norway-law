@@ -2,7 +2,7 @@
 (1) Følgende personer anses som arbeidstakere i forhold til lovens regler om helse, miljø og sikkerhet når de utfører arbeid i virksomhet som går inn under loven:
 a) elever ved institusjoner som har undervisning eller forskning som formål,
 b) vernepliktige,
-c) sivile tjenestepliktige,
+c) 
 d) innsatte i kriminalomsorgens anstalter,
 e) pasienter i helseinstitusjoner, attføringsinstitusjoner o.l.,
 f) personer som i opplærings- eller attføringsøyemed utplasseres i virksomheter uten å være arbeidstakere,
