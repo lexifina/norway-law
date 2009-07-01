@@ -1,0 +1,4 @@
+# § 8-3. Utarbeiding av regional plan
+Ved utarbeiding av regional plan skal regional planmyndighet samarbeide med berørte offentlige myndigheter og organisasjoner. Statlige organer og kommuner har rett og plikt til å delta i planleggingen når den berører deres virkeområde eller egne planer og vedtak.
+Regional planmyndighet utarbeider forslag til planprogram i samarbeid med berørte kommuner og statlige myndigheter, jf. § 4-1. Forslag til planprogram sendes på høring og legges ut til offentlig ettersyn med minst seks ukers frist. Planprogrammet fastsettes av regional planmyndighet.
+Forslag til regional plan sendes på høring og legges ut til offentlig ettersyn med minst seks ukers frist. Regionale planer med retningslinjer eller rammer for framtidig utbygging skal inneholde en særskilt vurdering og beskrivelse av planens virkninger for miljø og samfunn, jf. § 4-2 andre ledd.

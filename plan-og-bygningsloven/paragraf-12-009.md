@@ -1,0 +1,5 @@
+# § 12-9. Behandling av planprogram for planer med vesentlige virkninger
+For planer som kan få vesentlige virkninger for miljø og samfunn, skal det utarbeides planprogram etter reglene i § 4-1. Planprogram kan unnlates for nærmere bestemte reguleringsplaner når disse er i samsvar med kommuneplanens arealdel eller områderegulering og hvor virkningene er tilfredsstillende beskrevet i overordnet plan.
+Forslag til planprogram skal sendes på høring og legges ut til offentlig ettersyn senest samtidig med varsel om oppstart av planarbeidet. Forslaget skal også gjøres tilgjengelig gjennom minst én avis som er alminnelig lest på stedet og elektroniske medier. Frist for å gi uttalelse skal være minst seks uker.
+Planprogrammet fastsettes ordinært av kommunestyret. Kommunestyret kan delegere myndigheten til å fastsette planprogram i samsvar med kommunelovens regler.
+Ved behandling av planprogrammet kan kommunestyret fastsette at det skal gjennomføres en områderegulering dersom dette er nødvendig for en forsvarlig planavklaring og plangjennomføring for bygge- og anleggstiltak, flerbruk og vern i forhold til berørte private og offentlige interesser.

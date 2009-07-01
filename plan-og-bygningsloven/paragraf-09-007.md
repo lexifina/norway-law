@@ -1,0 +1,3 @@
+# § 9-7. Plansamarbeid mellom regioner og kommuner
+Reglene i dette kapittel gjelder tilsvarende for plansamarbeid mellom en eller flere regioner og en eller flere kommuner.
+Departementet kan pålegge slikt plansamarbeid når det er nødvendig for å løse planleggingsoppgaver for større områder under ett. Herunder kan departementet gi bestemmelser om formålet med samarbeidet, hvilke oppgaver samarbeidet skal gjelde, hvilket geografisk område det skal omfatte, organisering av nødvendige samarbeidsorganer, og statens medvirkning. Før slike bestemmelser gis, skal vedkommende regioner og kommuner ha hatt anledning til å uttale seg.

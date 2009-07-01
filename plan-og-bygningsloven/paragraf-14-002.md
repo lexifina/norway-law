@@ -1,0 +1,3 @@
+# § 14-2. Utarbeiding og behandling av utredningsprogram og konsekvensutredning
+For tiltak og planer som omfattes av bestemmelsene, skal det tidligst mulig under forberedelsen av tiltaket eller planen utarbeides melding med forslag til program for utredningsarbeidet. Forslaget skal gjøre rede for tiltaket, behovet for utredninger og opplegg for medvirkning. Melding med forslag til program skal sendes på høring og legges ut til offentlig ettersyn før programmet fastsettes.
+Søknad eller planforslag med konsekvensutredning skal utarbeides på grunnlag av fastsatt utredningsprogram og sendes på høring og legges ut til offentlig ettersyn.

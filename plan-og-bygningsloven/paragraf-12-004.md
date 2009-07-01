@@ -1,0 +1,6 @@
+# § 12-4. Rettsvirkning av reguleringsplan
+En reguleringsplan fastsetter framtidig arealbruk for området og er ved kommunestyrets vedtak bindende for nye tiltak eller utvidelse av eksisterende tiltak som nevnt i § 1-6. Planen gjelder fra kommunestyrets vedtak, dersom ikke saken skal avgjøres av departementet etter § 12-13.
+Tiltak etter § 1-6 første ledd, herunder bruksendring etter § 31-2, jf. også § 1-6 andre ledd, må ikke være i strid med planens arealformål og bestemmelser.
+Reguleringsplan skal følges ved avgjørelse av søknad om tillatelse eller ved foreståelsen av tiltak etter § 20-1 første ledd bokstav a til m, jf. §§ 20-2 og 20-3.
+Reguleringsplan er grunnlag for ekspropriasjon etter reglene i kapittel 16.
+Er bygge- og anleggstiltak som hjemles i plan fremmet med bakgrunn i privat reguleringsforslag etter § 12-11, ikke satt i gang senest fem år etter vedtak av planen, kan tillatelsen til gjennomføring av planen ikke gis uten nytt planvedtak. Etter søknad fra tiltakshaveren kan planvedtaket forlenges med inntil to år av gangen. Der det innenfor fristen på fem år med eventuell(e) forlengelse(r) er gitt rammetillatelse for et tiltak, gjelder fristen på tre år etter § 21-9 for tiltaket.

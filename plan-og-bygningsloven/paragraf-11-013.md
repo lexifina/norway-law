@@ -1,0 +1,3 @@
+# § 11-13. Utarbeiding av planprogram
+For kommuneplan skal det utarbeides planprogram etter reglene i § 4-1. Forslag til planprogram skal sendes på høring og legges ut til offentlig ettersyn senest samtidig med varsel om oppstart og kunngjøring av planarbeidet og gjøres tilgjengelig gjennom elektroniske medier. Fristen for å gi uttalelse skal være minst seks uker.
+Planprogrammet fastsettes av kommunestyret. Kommunestyret kan delegere myndigheten i samsvar med kommunelovens regler. Kommuneplaner med retningslinjer eller rammer for framtidig utbygging skal inneholde en særskilt vurdering og beskrivelse av planens virkninger for miljø og samfunn, jf. § 4-2 andre ledd.

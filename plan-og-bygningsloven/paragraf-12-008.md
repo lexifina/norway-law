@@ -1,0 +1,4 @@
+# § 12-8. Oppstart av reguleringsplanarbeid
+Når planarbeidet igangsettes, skal berørte offentlige organer og andre interesserte varsles. Når forslagsstilleren er en annen enn planmyndigheten selv, skal planspørsmålet legges fram for planmyndigheten i møte. Kommunen kan gi råd om hvordan planen bør utarbeides, og kan bistå i planarbeidet.
+Forslagsstilleren skal alltid kunngjøre en melding om oppstart av planarbeidet i minst én avis som er alminnelig lest på stedet, og gjennom elektroniske medier. Registrerte grunneiere og festere i planområdet, og så vidt mulig andre rettighetshavere i planområdet samt naboer til planområdet, skal når de blir direkte berørt, på hensiktsmessig måte underrettes om at planarbeidet tas opp.
+Ved varsel om oppstart og kunngjøring skal avgrensningen av planområdet angis.

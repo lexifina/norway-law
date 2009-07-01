@@ -1,0 +1,4 @@
+# § 6-4. Statlig arealplan
+Når gjennomføringen av viktige statlige eller regionale utbyggings-, anleggs- eller vernetiltak gjør det nødvendig, eller når andre samfunnsmessige hensyn tilsier det, kan departementet henstille til vedkommende kommune om å utarbeide arealdel til kommuneplan eller reguleringsplan etter lovens kapittel 11 og 12.
+På samme vilkår kan departementet selv utarbeide og vedta slik plan. Departementet trer da inn i myndigheten til kommunestyret. Vedkommende kommune plikter å gi departementet nødvendig bistand i arbeidet.
+Departementet kan i den enkelte sak bestemme at endelig konsesjon til kraftproduksjonsanlegg etter energiloven, vannressursloven eller vassdragsreguleringsloven uten videre skal ha virkning som statlig arealplan. Departementets vedtak etter dette ledd kan ikke påklages.

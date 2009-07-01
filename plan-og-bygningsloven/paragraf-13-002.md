@@ -1,0 +1,2 @@
+# § 13-2. Varighet og frist
+Er planspørsmålet ikke endelig avgjort senest fire år etter at forbud er nedlagt, faller forbudet bort og tinglyst vedtak etter § 13-1 tredje ledd skal slettes. Tidligere innsendte forslag til oppretting eller endring av eiendom og søknader om byggetillatelse tas straks opp til behandling og avgjørelse. Kommunen kan i tilfelle fastsette eiendomsgrenser og bebyggelsens beliggenhet, høyde og grad av utnytting.

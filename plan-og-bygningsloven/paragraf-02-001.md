@@ -1,0 +1,5 @@
+# § 2-1. Kart og stedfestet informasjon
+Kommunen skal sørge for at det foreligger et oppdatert offentlig kartgrunnlag for de formål som omhandles i loven. Staten skal stille til rådighet nasjonale kartdata for alle kommuner. Statlige, regionale og kommunale organer skal legge stedfestet informasjon til rette slik at informasjonen er lett tilgjengelig for bruk i plan- og byggesaksbehandlingen. Kartgrunnlaget skal også kunne nyttes til andre offentlige og private formål.
+Kommunen kan kreve at den som fremmer planforslag eller søknad om tiltak, utarbeider kart når dette er nødvendig for å ta stilling til forslaget eller søknaden. Kommunen kan innarbeide slike kart i det offentlige kartgrunnlaget. Kommunen kan kreve at planforslag, søknad og kart leveres i digital form.
+Kongen kan bestemme at det skal iverksettes landsomfattende eller lokale prosjekter for å samle, kontrollere, revidere eller supplere plan- og byggesaksinformasjon og det offentlige kartgrunnlaget. Kongen kan pålegge offentlige organer å gi de opplysninger som er nødvendige for å gjennomføre prosjektet.
+Departementet kan gi forskrift om kart og stedfestet informasjon.

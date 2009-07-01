@@ -1,0 +1,6 @@
+# § 12-12. Vedtak av reguleringsplan
+Når forslag til reguleringsplan er ferdigbehandlet, legges det fram for kommunestyret til vedtak, eventuelt i alternativer. Av saksframlegget skal det framgå hvordan innkomne uttalelser til planforslaget og konsekvensene av planen har vært vurdert, og hvilken betydning disse er tillagt. Kommunestyret må treffe vedtak senest tolv uker etter at planforslaget er ferdigbehandlet. Er kommunestyret ikke enig i forslaget, kan det sende saken tilbake til ny behandling. Det kan gis retningslinjer for det videre arbeid med planen.
+Kommunestyret kan delegere myndighet til å vedta mindre reguleringsplaner i samsvar med kommunelovens regler når planen er i samsvar med rammer i kommuneplanens arealdel, og det er mindre enn fire år siden den ble vedtatt av kommunestyret.
+Kommunestyrets endelige vedtak om reguleringsplan kan påklages, jf. § 1-9.
+Når planen er vedtatt, skal registrerte grunneiere og festere i planområdet, og så vidt mulig andre rettighetshavere i planområdet og naboer til planområdet, når de blir direkte berørt underrettes særskilt ved brev. Underretningen skal inneholde opplysninger om klageadgangen og frist for klage.
+Planen med planbeskrivelse skal kunngjøres i minst én avis som er alminnelig lest på stedet og gjøres tilgjengelig gjennom elektroniske medier.

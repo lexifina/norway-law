@@ -1,0 +1,3 @@
+# § 11-14. Høring av planforslag
+Forslag til kommuneplanens samfunnsdel og kommuneplanens arealdel sendes på høring og legges ut til offentlig ettersyn, kunngjøres i minst én avis som er alminnelig lest på stedet og gjøres tilgjengelig gjennom elektroniske medier. Fristen for å gi uttalelse og eventuelt å fremme innsigelse til kommuneplanens arealdel skal være minst seks uker.
+Av saksframlegget skal det framgå hvordan virkningene av planen og innkomne uttalelser til planforslaget har vært vurdert, og hvilken betydning disse er tillagt ved vedtaket. Det skal også framgå hvordan planen ivaretar nasjonale og regionale hensyn.

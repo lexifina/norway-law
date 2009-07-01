@@ -1,0 +1,3 @@
+# § 19-3. Midlertidig dispensasjon
+Midlertidig dispensasjon kan gis tidsbestemt eller for ubestemt tid. Ved dispensasjonstidens utløp eller ved pålegg må søkeren uten utgift for kommunen fjerne eller endre det utførte, eller opphøre med midlertidig tillatt bruk, eller oppfylle det krav det er gitt utsettelse med, og hvis det kreves, gjenopprette den tidligere tilstand.
+Dispensasjon kan gjøres betinget av erklæring der også eier eller fester for sin del aksepterer disse forpliktelser. Erklæringen kan kreves tinglyst. Den er bindende for panthavere og andre rettighetshavere i eiendommen uten hensyn til når retten er stiftet og uten hensyn til om erklæringen er tinglyst.

@@ -1,0 +1,2 @@
+# § 13-4. Statlig bygge- og deleforbud
+I forbindelse med statlig planlegging etter §§ 6-3 og 6-4, herunder i forbindelse med vurdering av regional planbestemmelse, og for øvrig når særlige grunner foreligger, kan departementet treffe vedtak som nevnt i § 13-1 første ledd. Bestemmelsene i forvaltningsloven §§ 16 og 27 første og andre ledd gjelder i så fall tilsvarende i forhold til vedkommende kommune.

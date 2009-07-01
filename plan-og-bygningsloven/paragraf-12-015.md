@@ -1,0 +1,2 @@
+# § 12-15. Felles behandling av reguleringsplanforslag og byggesøknad
+Dersom kommunen og den private part finner det hensiktsmessig kan søknad om byggetillatelse behandles felles med privat forslag om reguleringsplan. I slike tilfeller gjelder reglene for reguleringsplaner om varsling, uttalelsesfrist, adressat for uttalelsene og saksbehandlingsfrister for begge vedtakene. Avgjørelsen av plansaken og byggesaken fattes i egne vedtak.

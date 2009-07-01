@@ -1,0 +1,13 @@
+# § 34-2. Overgangsbestemmelser til plandelen
+Kongen skal snarest mulig og innen to år etter lovens ikrafttreden presentere et dokument med nasjonale forventninger til regional og kommunal planlegging, jf. § 6-1.
+Innen utgangen av første år etter valg av nytt kommunestyre og fylkesting skal kommunen utarbeide og vedta kommunal planstrategi etter § 10-1 og fylkeskommunen/regional planmyndighet utarbeide og vedta regional planstrategi etter § 7-1.
+Gjeldende rikspolitiske retningslinjer og bestemmelser etter plan- og bygningsloven av 1985 § 17-1 fortsetter å gjelde. Endringer av slike retningslinjer og bestemmelser skal skje etter reglene i denne lov kapittel 6.
+Gjeldende fylkesplan, kommuneplan, herunder arealdel av kommuneplan, reguleringsplan og bebyggelsesplan gjelder inntil de blir endret, opphevet, erstattet eller satt til side av ny plan etter denne lov.
+Begrensning i klageadgangen i § 1-9 andre ledd andre punktum, og i adgangen til å fremme innsigelse etter § 5-5 siste ledd, gjelder bare i forhold til planvedtak truffet i medhold av denne lov.
+Bestemmelser i og i medhold av plan- og bygningsloven 14. juni 1985 nr. 77 kapittel VIII til kapittel XXI gjelder fortsatt for ekspropriasjon, opparbeidelse, refusjon, behandling av søknader, sanksjoner, mv. for planer utarbeidet før denne lovs ikrafttreden.
+Eldre reguleringsplan og bebyggelsesplan er fortsatt grunnlag for ekspropriasjon innenfor ti-årsfristen for ekspropriasjon.
+Unntaket i plan- og bygningsloven av 1985 § 17-2 tredje ledd nr. 1 for bygning, konstruksjon, anlegg eller innhegning som er nødvendig i landbruket fortsetter å gjelde inntil det er vedtatt bestemmelser etter § 11-11 nr. 4, men faller uansett bort etter fire år fra lovens ikrafttreden.
+Kommunale forskrifter og vedtekter gjelder inntil de erstattes av nye planbestemmelser, forskrifter eller vedtekter. Kommunale vedtekter gitt med hjemmel i plan- og bygningsloven § 3, § 67 nr. 3, § 69 nr. 4, § 78 tredje ledd, § 85 tredje ledd og § 91a første ledd faller bort senest åtte år etter ikrafttreden av denne lov. Kommunen kan gi dispensasjon fra vedtekter etter reglene i kapittel 19.
+Forslag til arealdel til kommuneplan, reguleringsplan og bebyggelsesplan som var lagt ut til offentlig ettersyn ved lovens ikrafttreden, kan ferdigbehandles etter de reglene som gjaldt da de ble lagt ut. For andre planer gjelder reglene i denne lov.
+For tiltak som krever konsekvensutredning etter reglene i kapittel VII-a i gjeldende lov, og hvor planprogram er godkjent, kan konsekvensutredningen fullføres etter disse reglene.
+Departementet kan i forskrift gi nærmere bestemmelser om hvordan reglene i plan- og bygningsloven 14. juni 1985 nr. 77 skal virke sammen med bestemmelser i loven her.

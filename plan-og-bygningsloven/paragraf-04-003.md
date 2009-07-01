@@ -1,0 +1,3 @@
+# § 4-3. Samfunnssikkerhet og risiko- og sårbarhetsanalyse
+Ved utarbeidelse av planer for utbygging skal planmyndigheten påse at risiko- og sårbarhetsanalyse gjennomføres for planområdet, eller selv foreta slik analyse. Analysen skal vise alle risiko- og sårbarhetsforhold som har betydning for om arealet er egnet til utbyggingsformål, og eventuelle endringer i slike forhold som følge av planlagt utbygging. Område med fare, risiko eller sårbarhet avmerkes i planen som hensynssone, jf. §§ 11-8 og 12-6. Planmyndigheten skal i arealplaner vedta slike bestemmelser om utbyggingen i sonen, herunder forbud, som er nødvendig for å avverge skade og tap.
+Kongen kan gi forskrift om risiko- og sårbarhetsanalyser.

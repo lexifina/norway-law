@@ -1,0 +1,2 @@
+# § 11-18. Begrensning i adgangen til å endre deler av kommuneplanens arealdel
+Når nasjonale eller viktige regionale eller kommunale hensyn tilsier det, kan Kongen bestemme at nærmere angitte deler av arealdelen ikke skal kunne endres eller oppheves innen en nærmere angitt tidsramme uten etter samtykke av departementet. Slikt vedtak må treffes innen tolv uker etter at departementet har mottatt planen.

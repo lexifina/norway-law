@@ -1,0 +1,3 @@
+# § 3-6. Felles planleggingsoppgaver
+Statlig og regional myndighet kan starte arbeid med planer etter denne lov på områder der staten, regional planmyndighet og kommunene sammen har ansvar for å løse planoppgaver av regional eller nasjonal betydning, herunder samordnet areal- og transportplanlegging, planlegging av større sammenhengende natur- og friluftsområder omkring byer og tettsteder, samordnet vannplanlegging og kystsoneplanlegging.
+Kongen fastsetter ved forskrift hvilke oppgaver, områder og myndigheter dette gjelder, herunder at det til planer for større sammenhengende natur- og friluftsområder omkring byer og tettsteder kan fastsettes felles planbestemmelser om utøvelse av næringsvirksomhet og om ferdsel.

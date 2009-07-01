@@ -1,0 +1,5 @@
+# § 12-10. Behandling av reguleringsplanforslag
+Forslag til reguleringsplan sendes på høring og legges ut til offentlig ettersyn. Planforslaget gjøres tilgjengelig gjennom elektroniske medier. Frist for å gi uttalelse og eventuelt fremme innsigelse skal være minst seks uker. Reguleringsplaner med retningslinjer eller rammer for framtidig utbygging som kan få vesentlige virkninger for miljø og samfunn skal inneholde en konsekvensutredning, jf. § 4-2 andre ledd. Konsekvensutredning kan utelates for nærmere bestemte reguleringsplaner når disse er i samsvar med kommuneplanens arealdel eller områderegulering, og hvor virkningene er tilfredsstillende beskrevet i overordnet plan.
+Registrerte grunneiere og festere og så vidt mulig andre rettighetshavere i planområdet samt naboer, skal når de blir direkte berørt, på hensiktsmessig måte underrettes om forslag til reguleringsplan med opplysning om hvor det er tilgjengelig.
+Når fristen er ute, tar kommunen saken opp til behandling med de merknader som er kommet inn.
+For private reguleringsforslag gjelder i tillegg § 12-11.

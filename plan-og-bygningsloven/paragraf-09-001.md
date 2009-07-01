@@ -1,0 +1,4 @@
+# § 9-1. Interkommunalt plansamarbeid
+To eller flere kommuner bør samarbeide om planlegging etter denne lov når det er hensiktsmessig å samordne planleggingen over kommunegrenser. Samarbeidet kan omfatte alle kommunale plantyper.
+Interkommunalt plansamarbeid kan igangsettes som gjennomføring av regional planstrategi. Regional planmyndighet eller statlige myndigheter kan anmode kommunene om å innlede et slikt samarbeid når det anses nødvendig for å ivareta hensyn og løse oppgaver som går ut over den enkelte kommune.
+Når det anses nødvendig for å ivareta og løse nasjonale og viktige regionale hensyn og oppgaver, kan departementet pålegge kommuner å inngå i et slikt plansamarbeid. Herunder kan det bestemme organisering av plansamarbeidet, om hvilke oppgaver samarbeidet skal gjelde og om hvilket geografisk område det skal omfatte. Før slike bestemmelser gis, skal vedkommende kommuner ha hatt anledning til å uttale seg.
