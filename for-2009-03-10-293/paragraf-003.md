@@ -1,0 +1,2 @@
+# § 3. Informasjon om trafikkrettigheter og luftfartsforhandlinger
+Samferdselsdepartementet og Luftfartstilsynet plikter på forespørsel å gi interesserte luftfartsforetak og relevante interesseorganisasjoner informasjon om trafikkrettigheter i henhold til de bilaterale luftfartsavtalene som Norge har inngått med tredjeland. Det samme gjelder informasjon om planlagte luftfartsforhandlinger med slike land. Luftfartstilsynet skal gi berørte myndigheter i Danmark og Sverige informasjon om de søknadene som er til vurdering i henhold til denne forskriften.
