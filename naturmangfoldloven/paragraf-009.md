@@ -1,0 +1,2 @@
+# § 9. (føre-var-prinsippet)
+Når det treffes en beslutning uten at det foreligger tilstrekkelig kunnskap om hvilke virkninger den kan ha for naturmiljøet, skal det tas sikte på å unngå mulig vesentlig skade på naturmangfoldet. Foreligger en risiko for alvorlig eller irreversibel skade på naturmangfoldet, skal ikke mangel på kunnskap brukes som begrunnelse for å utsette eller unnlate å treffe forvaltningstiltak.

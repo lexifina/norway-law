@@ -1,0 +1,4 @@
+# § 17. (alminnelige regler om annet uttak av vilt og lakse- og innlandsfisk)
+Smågnagere, krypdyr og lakse- og innlandsfisk kan avlives dersom det er nødvendig for å hindre skade på person eller eiendom.
+Vilt kan avlives når det må anses påkrevd for å fjerne en aktuell og betydelig fare for skade på person. Eieren, eller en som opptrer på vegne av eieren, kan felle vilt under direkte angrep på bufe eller tamrein. Avliving og forsøk på avliving etter dette ledd skal straks meldes til politiet.
+Avliving for å hindre at et dyr lider unødig er tillatt i samsvar med lov 20. desember 1974 nr. 73 om dyrevern (dyrevernlova). Det samme gjelder avliving for å bekjempe smittsom sykdom som kan gi vesentlige samfunnsmessige konsekvenser i samsvar med lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven).

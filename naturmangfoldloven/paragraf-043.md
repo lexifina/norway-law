@@ -1,0 +1,4 @@
+# § 43. (høring av forslag til verneforskrift)
+Forslaget til forskrift skal sendes på høring etter reglene i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 37. Om varsling av grunneiere og rettighetshavere gjelder reglene i forvaltningsloven § 16. Forslaget legges ut til offentlig ettersyn på minst ett lett tilgjengelig sted og kunngjøres i Norsk Lysingsblad og i minst én avis som er alminnelig lest på stedet.
+Høringsforslaget skal beskrive området som forslaget omfatter, herunder verneformål og verneverdier, avgrensing av området og andre verdier enn naturverdier, samt de følgene forslaget antas å få, og gi en frist på minst to måneder for uttalelse.
+Forslaget legges frem til uttalelse for kommunen, fylkeskommunen og berørte statlige fagorganer, og for Sametinget hvis verneforslaget berører samiske interesser.

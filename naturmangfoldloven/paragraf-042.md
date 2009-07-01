@@ -1,0 +1,3 @@
+# § 42. (kunngjøring av påtenkt verneforslag)
+Vernemyndigheten skal kunngjøre verneforslaget, med de viktigste følger det antas å få, i minst én avis som er alminnelig lest på stedet. Forslag til verneområder i sjø skal kunngjøres på en måte som er hensiktsmessig for å gjøre berørte interesser kjent med forslaget. Grunneiere og rettighetshavere skal så vidt mulig underrettes ved brev og gis en rimelig frist for å komme med merknader før forslag utformes.
+På et tidlig tidspunkt i saksforberedelsen, og i god tid før kunngjøringen, skal det søkes samarbeid med offentlige myndigheter, organisasjoner mv. som har særlig interesse i tiltaket. Utarbeidelse av forskrift skal skje i et samarbeid med berørte sentrale myndigheter.

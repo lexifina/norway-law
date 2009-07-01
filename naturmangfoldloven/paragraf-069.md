@@ -1,0 +1,5 @@
+# § 69. (retting og avbøtende tiltak)
+Myndigheten etter loven kan pålegge den ansvarlige å rette eller stanse forhold som er i strid med loven eller vedtak med hjemmel i loven.
+Den som ved å overtre loven eller vedtak med hjemmel i loven forårsaker fare for forringelse av naturmangfoldet, skal sette i verk tiltak for å forhindre at slik forringelse skjer. Har forringelsen allerede inntrådt, gjelder plikten hindring av ytterligere forringelse og – om mulig – gjenoppretting av den tidligere tilstand for mangfoldet ved oppsamling, rydding, fjerning, planering eller andre egnede tiltak. Tiltak som i seg selv kan medføre miljøforringelse av noen betydning, skal bare iverksettes etter samtykke av myndigheten etter loven eller pålegg etter første ledd.
+Plikten til forebygging, utbedring og gjenoppretting gjelder ikke i den utstrekning det i lys av kostnadene og virkningene av tiltakene, miljøvirkningene av overtredelsen og overtrederens skyld og økonomiske stilling, ville være særlig urimelig.
+Tiltak etter denne paragrafen kan gå ut på avliving av fremmede organismer som overtredelsen gjelder, eller tilbakeføring av levende organismer til opprinnelsesstedet.

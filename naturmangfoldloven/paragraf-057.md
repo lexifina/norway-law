@@ -1,0 +1,2 @@
+# § 57. (forvaltning av genetisk materiale)
+Genetisk materiale fra naturen er en felles ressurs som tilhører fellesskapet i Norge og forvaltes av staten. Utnyttingen skal være til mest mulig gagn for miljø og mennesker i både nasjonalt og internasjonalt perspektiv, der det også legges vekt på en hensiktsmessig fordeling av fordelene ved utnytting av genetisk materiale og slik at urfolks og lokalbefolkningers interesser ivaretas.

@@ -1,0 +1,4 @@
+# § 45. (midlertidig vern)
+For å hindre skade på verneverdier kan departementet gi forskrift om midlertidig vern av bestemt angitte områder. Overfor private grunneiere og rettighetshavere som blir berørt av vedtaket, gjelder forvaltningslovens regler om enkeltvedtak.
+Når en bestemt naturtype står i fare for å forsvinne, kan Kongen ved forskrift fastsette begrensninger og forbud mot virksomhet og ferdsel som ytterligere kan true naturtypens fortsatte eksistens.
+For vedtak om midlertidig vern etter første og annet ledd gjelder ikke §§ 41 til 43. Når det treffes vedtak om midlertidig vern, skal saksbehandlingen fortsette uten ugrunnet opphold. Virkningen av vedtak om midlertidig vern er begrenset til fire år etter at vedtaket ble kunngjort. Departementet kan forlenge virkningen av det midlertidige vernevedtaket med inntil to år.
