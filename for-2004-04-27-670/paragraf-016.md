@@ -1,0 +1,2 @@
+# § 16. Merking av midlertidig flyttet terskel
+Midlertidig flyttet terskel skal merkes på rullebanen med en tverrgående linje med samme farge og bredde som den permanente terskelen. I tillegg skal rullebaner med fast overflate merkes med ^-tegn med spissen mot tverrlinjen. Dersom senterlinjen er merket på området foran den flyttede terskelen, skal denne del av senterlinjen endres til piler. ^-tegn og piler skal være i samsvar med vedlegg 2 fig. 1.
