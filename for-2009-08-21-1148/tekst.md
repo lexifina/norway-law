@@ -1,0 +1,1 @@
+Norges Røde Kors' rett til bruk av navn og emblem som Norges nasjonale forening i samsvar med Genève-konvensjonene av 1949 og tilleggsprotokollene av 1977 og 2005 og med funksjoner som støtteaktør for norske myndigheter på det humanitære området i henhold til første Genève-konvensjon artikkel 44, paragraf 2, anerkjennes.
