@@ -1,0 +1,2 @@
+# § 1. Unntak fra husleielovens depositumsbestemmelse
+En studentsamskipnad kan avtale med leieren at det deponeres et beløp oppad begrenset til summen av tre måneders leie på en felles depositumskonto med vanlig rentevilkår i finansinstitusjon som har rett til å tilby slik tjeneste i Norge. Det kan ikke avtales at det i tillegg skal deponeres tre måneders leie på en særskilt konto i leierens navn etter husleieloven § 3-5. En felles depositumskonto skal være atskilt fra leierens og utleierens øvrige midler. For øvrig gjelder husleieloven § 3-5.
