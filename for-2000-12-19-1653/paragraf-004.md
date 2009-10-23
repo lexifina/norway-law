@@ -1,0 +1,2 @@
+# § 4. Særskilt tilbud
+I enhver sammenlignende reklame som omhandler et særskilt tilbud, skal det klart og entydig angis når tilbudet slutter å gjelde, eller eventuelt at det særskilte tilbudet bare gjelder så langt beholdningen av de aktuelle varene eller tjenestene rekker, og dersom tilbudet ennå ikke har begynt å gjelde, den dato da perioden for den særskilte prisen eller andre særskilte vilkår begynner.
