@@ -1,0 +1,3 @@
+# § 3. Pensjonsordning med egen pensjonskonto for hvert medlem
+Blir det fastsatt i regelverket for en pensjonsordning at hvert medlem skal ha egen alderspensjonskonto, skal avtalen mellom arbeidsgiveren og pensjonsleverandøren fastsette sammensetningen av den investeringsportefølje som skal knyttes til medlemmenes pensjonskontoer.
+Avtales det at de enkelte arbeidstakere ved opptak som medlem i pensjonsordningen skal gis rett til selv å velge mellom ulike investeringsporteføljer for forvaltningen av midler tilsvarende egen alderspensjonskapital, skal det i regelverket for pensjonsordningen fastsettes at det skal opprettes egen alderspensjonskonto for hvert medlem, og at pensjonskontoene skal tilordnes den investeringsportefølje som den enkelte arbeidstaker har valgt.
