@@ -1,0 +1,2 @@
+# § 6. Salgsproveny
+Når salget av aksjene utstedt av verdipapirregisteret er gjennomført skal salgssummen, med fradrag for kostnader i forbindelse med aksjesalget og avsetning til dekning av avviklingskostnader, overføres i samsvar med verdipapirregisterloven § 12-2 tredje ledd innen en måned. Departementet kan i særlige tilfeller forlenge denne fristen. Departementet avgjør hva som skal regnes som kostnader i forbindelse med aksjesalget, og hvor stor avsetning til dekning av avviklingskostnadene skal være.
