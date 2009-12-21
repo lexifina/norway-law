@@ -4,6 +4,6 @@
 (3) Selger, kjøper eller øvrige interessenter kan kreve nemndsbehandling av enhver tvist hvor nemnda er kompetent, hvis vedkommende har saklig interesse i å få nemndas uttalelse i saken.
 (4) Så lenge en tvist er til behandling i nemnda kan den ikke bringes inn til behandling for de alminnelige domstolene. En tvist anses for å være til behandling fra det tidspunkt begjæringen om klagebehandling er kommet inn til nemnda.
 (5) En sak som nemnda har realitetsbehandlet, kan bringes direkte inn for tingretten.
-(6) Nemnda skal oversende uttalelser om brudd på eiendomsmeglingsloven til Kredittilsynet.
+(6) Nemnda skal oversende uttalelser om brudd på eiendomsmeglingsloven til Finanstilsynet.
 (7) Dersom klager får medhold, kan nemnda pålegge innklagede å betale nemndas omkostninger i den aktuelle saken.
 (8) Departementet kan i forskrift fastsette nærmere regler om denne bestemmelsen og om retten til å kreve nemndsbehandling.
