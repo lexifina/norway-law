@@ -1,0 +1,5 @@
+# § 3. Krav til kontrollkomiteens medlemmer
+Kontrollkomiteens medlemmer må ikke inneha stilling eller verv som er egnet til å svekke tilliten til komiteens integritet og løpende arbeid. Ansatte og tillitsvalgte i verdipapirregisteret og i foretak i samme konsern som verdipapirregisteret, samt nærstående til disse, kan ikke sitte i kontrollkomiteen. Tilsvarende gjelder eiere med betydelig eierandel i verdipapirregisteret, deres ansatte og tillitsvalgte, samt nærstående til disse.
+Med nærstående menes personer med slik tilknytning som nevnt i verdipapirregisterloven § 5-4 første ledd bokstav a og b.
+Med betydelig eierandel menes eiere med tillatelse til å eie aksjer utover den alminnelige eiergrense i verdipapirregisterloven § 5-2 første ledd.
+Verdipapirregisterloven § 4-1 annet ledd gjelder tilsvarende for komiteens medlemmer så langt den passer. Ved valg av komitémedlemmer skal det legges særlig vekt på at komiteen tilføres den nødvendige kompetanse, herunder teknisk, juridisk og økonomisk kompetanse.

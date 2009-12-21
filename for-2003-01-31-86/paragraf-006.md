@@ -1,0 +1,2 @@
+# § 6. Rapportering
+Kontrollkomiteen skal hvert år gi melding til generalforsamlingen og Finanstilsynet om sitt arbeid. Får komiteens medlemmer kjennskap til at det kan foreligge betydelige forsømmelser, feil eller misligheter av større betydning eller rekkevidde eller at det kan være fare for verdipapirregisterets kapitalsituasjon, skal komiteen eller det enkelte medlemmet straks varsle Finanstilsynet.
