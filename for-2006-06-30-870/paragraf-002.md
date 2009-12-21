@@ -1,0 +1,3 @@
+# § 2. Krav til regelverket for pensjonsordningene
+Pensjonsleverandøren skal påse at regelverket for de pensjonsordninger som overtas, er utformet i samsvar med kravene i innskuddspensjonsloven. Regelverket skal inneholde bestemmelsene om innskuddsplanen, forvaltningsordningen for pensjonsordningens midler og den forsikring for innskuddsfritak ved uførhet som skal knyttes til pensjonsordningen.
+Skal pensjonsordningens midler forvaltes i en eller flere særskilte investeringsporteføljer, skal regelverket ha regler om hvem som har retten til investeringsvalg og i tilfelle særskilte rammer for valgretten.

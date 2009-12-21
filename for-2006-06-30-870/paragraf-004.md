@@ -1,0 +1,4 @@
+# § 4. Melding om produkter
+En pensjonsleverandør skal gi Finanstilsynet melding om de pensjonsprodukter basert på innskuddspensjon som er eller vil bli markedsført. Det samme gjelder ved produktendring.
+Meldingen skal inneholde en produktbeskrivelse som også omfatter ordninger for forsikring av innskuddsfritak ved uførhet som vil bli knyttet til pensjonsordningene. For produkter med forvaltning av pensjonsordningens midler i særskilte investeringsporteføljer skal meldingen angi de prinsipper for sammensetningen av investeringsporteføljer og for utformingen av avkastningsgarantier og rett til investeringsvalg som vil bli benyttet.
+Skal pensjonsleverandøren ikke selv overta forsikring som skal dekke innskuddsfritak ved uførhet, skal meldingen også gi opplysninger om avtale med institusjon som skal overta slike forsikringer.
