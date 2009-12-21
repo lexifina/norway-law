@@ -1,0 +1,3 @@
+# § 1. Krav til filialenes kapital
+Utenlandsk skadeforsikringsselskap med filial i Norge skal ha en kapital her i riket som beregnes på grunnlag av selskapets portefølje i Norge ved utløpet av hvert regnskapsår. Kapitalen skal oppfylle kravet til forsikringstekniske avsetninger m.v. for norske skadeforsikringsselskaper, jf. lovens § 8-6 med forskrifter, og kravene til solvensmargin og solvensmarginkapital for norske skadeforsikringsselskaper jf. lovens § 7-3 femte ledd med forskrifter.
+For selskaper som omfattes av denne forskrift gjelder artikkel 26 og 28 i Rådsdirektiv av 24. juli 1973 om samordning av lover og forskrifter om adgang til å starte og utøve virksomhet innen direkte forsikring med unntak av livsforsikring (Rdir. 73/239/EØF).
