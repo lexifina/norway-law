@@ -10,3 +10,4 @@ d) arbeid som hovedsakelig drives om natten.
 (5) Den alminnelige arbeidstid må ikke overstige ni timer i løpet av 24 timer og 36 timer i løpet av sju dager for:
 a) helkontinuerlig skiftarbeid og sammenlignbart turnusarbeid,
 b) arbeid under jord i gruver, tunneldrift og utsprengning av bergrom under jord.
+(6) For tredelt skift- og turnusarbeid som ikke faller inn under fjerde eller femte ledd og som innebærer at den enkelte arbeidstaker må arbeide minst hver tredje søndag, reduseres den alminnelige arbeidstiden etter første ledd ved at hver time arbeidet på søn- og helgedag, jf. § 10-10 første ledd, regnes lik 1 time og 10 minutter, og hver time arbeidet om natten, jf. § 10-11 første ledd, regnes lik 1 time og 15 minutter, ned til 36 timer i løpet av sju dager. Den alminnelige arbeidstid må uansett ikke overstige ni timer i løpet av 24 timer og 38 timer i løpet av sju dager.
