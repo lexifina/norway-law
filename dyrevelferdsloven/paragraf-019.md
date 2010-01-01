@@ -1,0 +1,3 @@
+# § 19. Opplysningsplikt, dokumentasjon og kontrolltiltak
+Dyreholder og andre som har plikter etter denne loven, skal på anmodning fra tilsynsmyndigheten gi opplysninger, melding, rapporter, dokumentasjon og innsyn i dokumenter som har betydning for tilsynsmyndighetens kontroll med etterlevelse av loven eller bestemmelser gitt i medhold av loven. Andre som har relevant informasjon, skal på anmodning fra tilsynsmyndigheten gi nødvendige opplysninger.
+Kongen kan gi nærmere forskrifter om innholdet i opplysnings- og dokumentasjonsplikten, og om plikt til å etablere og gjennomføre systematiske kontrolltiltak.

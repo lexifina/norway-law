@@ -1,0 +1,6 @@
+# § 13. Forsøk, undervisning og medisinsk virksomhet
+For å kunne avle, holde, formidle, avlive eller bruke dyr til forsøk, til undervisning i annet enn alminnelig stell og håndtering, eller i medisinsk virksomhet, skal både institusjonen og den ansvarlige for den aktuelle aktiviteten ha tillatelse fra tilsynsmyndigheten.
+Tillatelse etter første ledd kan ikke gis hvis formålet kan oppnås uten bruk av dyr, eller hvis dyrene kommer i fare for å bli utsatt for unødige påkjenninger og belastninger. Det skal ikke benyttes flere dyr enn nødvendig, og dyrene skal belastes minst mulig.
+I tillatelse etter denne bestemmelsen kan det gjøres unntak fra lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 18 første ledd nr. 3, slik at andre enn veterinær eller fiskehelsebiolog kan iverksette fullstendig eller lokal bedøvelse av dyr.
+Kongen kan gi nærmere forskrifter om bruk av dyr i forsøk, undervisning og medisinsk virksomhet, herunder om forbud mot visse typer forsøk og medisinsk virksomhet, om forbud mot bruk av visse dyrearter i forsøk og medisinsk virksomhet, samt om tillatelse og om unntak fra krav om tillatelse.
+Kongen kan i forskrift gjøre unntak fra bestemmelsene i lovens kapittel I og II for bruk av dyr i forsøk.

@@ -1,0 +1,3 @@
+# § 2. Virkeområde
+Loven omfatter forhold som påvirker velferd hos eller respekt for pattedyr, fugler, krypdyr, amfibier, fisk, tifotkreps, blekksprut og honningbier. Loven gjelder tilsvarende for utviklingsstadier av nevnte dyr dersom sanseapparatet tilsvarer utviklingsnivået hos levende dyr.
+Loven gjelder med de begrensninger som følger av avtale med fremmed stat eller organisasjon for norsk landterritorium, territorialfarvann, i norsk økonomisk sone, på norske fartøy og luftfartøy, på innretninger på norsk kontinentalsokkel samt for Svalbard, Jan Mayen og bilandene. Kongen kan i forskrift fastsette særlige regler, herunder gjøre unntak fra lovens bestemmelser, for Svalbard, Jan Mayen og norske biland under hensyn til de stedlige forholdene.
