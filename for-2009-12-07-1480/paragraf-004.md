@@ -1,0 +1,2 @@
+# § 4. Endringer i legens praksis
+I de tilfeller hvor legens praksis endres slik at vedkommende likevel omfattes av kravet til elektronisk innsending over linje, eller der legen går over til EPJ og derved er forpliktet til å innlevere elektronisk, skal legen på eget initiativ innrette seg etter pålegget. Helseøkonomiforvaltningen (HELFO) vil i slike tilfeller gi en rimelig frist til at legen skal kunne tilpasse seg dette.
