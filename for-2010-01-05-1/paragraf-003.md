@@ -1,0 +1,5 @@
+# § 3. Definisjoner
+I denne forskriften menes med:
+a) hangglider: en bemannet innretning med en fast vingestruktur og tyngre enn luft, som kan startes og landes ved hjelp av pilotens egen muskelkraft eller startes ved hjelpemotor, oppslep eller opptrekk, og som under flyging bæres oppe av aerodynamiske reaksjoner på faste bæreflater (ikke roterende flater) uten permanent fysisk kontakt med bakken.
+b) paraglider: en bemannet innretning, tyngre enn luft som, uten en fast vingestruktur, skaper en varierende motstand, som piloten kan styre med to eller flere styreliner, og som kan startes ved hjelp av pilotens egen muskelkraft, ved hjelpemotor, ved opptrekk eller ved dropp fra helikopter, friballong eller tandem paraglider, og som under flyging holdes oppe av aerodynamiske reaksjoner på faste bæreflater (ikke roterende flater) uten permanent fysisk kontakt med bakken.
+c) pilot: den som betjener hanggliderens eller paragliderens styreorganer og er ansvarlig for føring og sikkerhet under flygingen.
