@@ -1,0 +1,3 @@
+# § 10. Administrative bestemmelser
+Dersom hangglider eller paraglider benyttes i strid med lov, forskrift eller godkjent sikkerhetssystem, kan Luftfartstilsynet helt eller delvis trekke tilbake godkjenningen av sikkerhetssystemet, herunder trekke tilbake godkjenningen for enkelte klubber eller underavdelinger av organisasjonen som har godkjent sikkerhetssystem.
+Luftfartstilsynet kan på anmodning fra person med tilknytning til organisasjon som har fått godkjent sikkerhetssystem, jf. § 4 første ledd, i vedtak instruere organisasjonen i spørsmål knyttet til personens rettigheter til å fly med hangglider eller paraglider.
