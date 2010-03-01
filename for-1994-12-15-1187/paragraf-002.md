@@ -1,0 +1,3 @@
+# § 2. Krav om etablering av internkontroll
+Krav om etablering av internkontroll omfatter alle næringsmiddelvirksomheter som produserer, pakker, lagrer eller omsetter næringsmidler. Kravet gjelder også første mottakssted ved import av næringsmidler. Kravet gjelder ikke primærprodusenter.
+Krav om etablering av internkontroll gjelder ikke dersom omsetningen er i en form som ikke representerer videre helsemessig risiko, for eksempel oppvarming av ferdig tilberedte næringsmidler som pølser, hamburgere mv. når virksomheten er av kortvarig karakter og varmebehandlingen skjer i samband med omsetningen, og salg av emballert spiseis i detaljutsalg. Ved tvil avgjør tilsynsmyndigheten om det skal kreves etablering av internkontroll.
