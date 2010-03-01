@@ -5,7 +5,7 @@ b) vernepliktige,
 c) 
 d) innsatte i kriminalomsorgens anstalter,
 e) pasienter i helseinstitusjoner, attføringsinstitusjoner o.l.,
-f) personer som i opplærings- eller attføringsøyemed utplasseres i virksomheter uten å være arbeidstakere,
+f) personer som i opplæringsøyemed eller i forbindelse med arbeidsrettede tiltak utplasseres i virksomheter uten å være arbeidstakere,
 g) personer som uten å være arbeidstakere deltar i arbeidsmarkedstiltak.
 Departementet kan i forskrift fastsette unntak fra bestemmelsen i første punktum.
 (2) Lovens bestemmelser om arbeidsgiveren gjelder for den som lar personer som nevnt i første ledd utføre arbeid i sin virksomhet.
