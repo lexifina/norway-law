@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EF) nr. 1335/2008 av 16. desember 2008 om endring av forordning (EF) nr. 881/2004 i norsk rett
+EØS-avtalen vedlegg XIII nr. 42ef (forordning (EF) nr. 1335/2008 av 16. desember 2008 om endring av forordning (EF) nr. 881/2004 om etablering av et europeisk jernbanebyrå) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 og avtalen for øvrig.
