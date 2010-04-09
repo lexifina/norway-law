@@ -1,0 +1,2 @@
+# § 1. Overgangsregler
+Bestemmelser fastsatt i pensjonsordningens regelverk i henhold til lov 24. mars 2000 nr. 16 om foretakspensjon (foretakspensjonsloven) § 3-7 annet ledd annet punktum og lov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven) § 4-3 annet ledd annet punktum, skal bare gjelde for arbeidstakere som etter 1. juli 2007 går ut i permisjon i henhold til lov.
