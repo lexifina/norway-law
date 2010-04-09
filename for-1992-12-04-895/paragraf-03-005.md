@@ -1,0 +1,2 @@
+# § 3-5. Avtale om særlig dekning av utgifter
+Namsmyndigheten og medhjelperen kan avtale at medhjelperen ved gjennomføring av tvangssalget i tillegg til godtgjørelsen etter §§ 3-2 til 3-4 skal ha dekket utgifter til annonsering, taksering o l i den utstrekning det er vanlig ved frivillig omsetning at slike utgifter dekkes særskilt. Ved tvangssalg av realregistrerte formuesgoder og adkomstdokumenter til leierett til bolig kan slik avtale ikke inngås etter at utkastet til fordelingskjennelse er forelagt for rettighetshaverne.

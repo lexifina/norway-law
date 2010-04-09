@@ -1,0 +1,2 @@
+# § 4-1. Når namsmannen kan oppnevnes som medhjelper
+Foruten ved tvangssalg av fast eiendom og adkomstdokumenter til leierett til bolig i lensmannsdistrikt, jf tvangsfullbyrdelsesloven § 11-12 jf § 12-6, kan namsmannen oppnevnes som medhjelper ved tvangssalg av fast eiendom og adkomstdokumenter til leierett til bolig utenfor lensmannsdistrikt når særlige forhold gjør det påkrevd. Det samme gjelder ved tvangssalg av andre realregistrerte formuesgoder.

@@ -1,0 +1,3 @@
+# § 2-4. Sikkerhetens størrelse
+Namsmyndigheten fastsetter hvor stor sikkerheten skal være. Når medhjelperen skal motta kjøpesummen, skal sikkerheten minst være lik det beløp kjøpesummen antas å bli.
+Dersom sikkerheten er en felles sikkerhet for de salgsoppdrag som en medhjelper mottar fra samme namsmyndighet og medhjelperen skal motta kjøpesummen i ett eller flere av oppdragene, skal sikkerheten til enhver tid minst være lik den samlede sum av de antatte kjøpesummer i de salgsoppdrag som medhjelperen har under behandling. Medhjelperen kan ikke gis nye salgsoppdrag dersom det vil føre til at den samlede sum av kjøpesummene vil overstige sikkerheten.

@@ -1,0 +1,3 @@
+# § 2-1. Når medhjelperen skal stille sikkerhet
+Medhjelperen skal stille sikkerhet etter reglene i dette kapittel når medhjelperen under tvangssalget skal motta kjøpesummen. Namsmyndigheten kan kreve at medhjelperen stiller sikkerhet også i andre tilfeller. Ved tvangssalg av løsøre og andre ikke-realregistrerte formuesgoder enn adkomstdokumenter til leierett til bolig kan namsmyndigheten frita medhjelperen for å stille sikkerhet når kjøpesummen må antas å bli lavere enn 50 ganger rettsgebyret. Rettsgebyret på det tidspunkt medhjelperen oppnevnes, anvendes.
+En medhjelper som har stilt sikkerhet i samsvar med bestemmelse i eller i medhold av annen lov som dekker ansvar som nevnt i § 2-3, plikter ikke å stille sikkerhet etter forskriften her.
