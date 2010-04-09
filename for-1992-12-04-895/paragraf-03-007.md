@@ -1,0 +1,3 @@
+# § 3-7. Godtgjørelse dersom tvangssalg gjennom medhjelperen ikke gjennomføres
+Dersom tvangssalget ikke gjennomføres, har medhjelperen krav på å få dekket nødvendige faktiske utgifter og dessuten et rimelig vederlag for arbeidet. Det samme gjelder dersom tvangssalget gjennomføres på annen måte enn gjennom medhjelperen.
+Medhjelperens krav på godtgjørelse etter første ledd første punktum halveres, dersom medhjelperen medvirker ved et frivillig salg av samme formuesgode innen seks måneder etter at medhjelperoppdraget opphørte. Er godtgjørelsen allerede utbetalt, kan halvparten kreves tilbake. En medhjelper som medvirker ved et frivillig salg som nevnt i første punktum, skal opplyse namsmyndigheten om salget.

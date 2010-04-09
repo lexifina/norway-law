@@ -1,0 +1,3 @@
+# § 3-6. Avtale om høyere eller lavere godtgjørelse
+Høyere godtgjørelse enn det som følger av §§ 3-2 til 3-5, kan avtales dersom det på forhånd er grunn til å tro, eller det under tvangssalget viser seg, at tvangssalget er vesentlig mer arbeidskrevende enn det som er vanlig ved tvangssalg av formuesgoder av samme art, eller andre særlige forhold tilsier det. Ved tvangssalg av realregistrerte formuesgoder og adkomstdokumenter til leierett til bolig kan slik avtale ikke inngås etter at utkastet til fordelingskjennelse er forelagt for rettighetshaverne.
+Det kan avtales lavere godtgjørelse enn det som følger av §§ 3-2 til 3-5.
