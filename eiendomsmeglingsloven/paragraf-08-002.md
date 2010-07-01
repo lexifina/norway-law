@@ -11,3 +11,4 @@
 (2) Finanstilsynet kan kalle tilbake tillatelsen til en filial, jf. § 2-2, dersom
 1) filialen ikke lenger oppfyller vilkårene i § 2-5 annet ledd eller § 2-9 annet ledd annet punktum, eller
 2) ett eller flere av vilkårene i første ledd nr. 5-7 er oppfylt for filialens vedkommende.
+(3) I tilfeller som nevnt i første ledd kan Finanstilsynet oppnevne en forvalter som selv har tillatelse til å drive eiendomsmegling etter § 2-1 første ledd til å sluttføre oppdrag etter denne loven. Departementet kan i forskrift fastsette nærmere bestemmelser om forvalterens rettigheter og plikter. Dersom det er nødvendig for en forsvarlig avvikling av løpende oppdrag, kan departementet i enkeltvedtak gjøre unntak fra lovens bestemmelser.
