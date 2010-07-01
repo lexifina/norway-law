@@ -1,0 +1,1 @@
+# Arbeidsmiljøloven og forskriftenes virkeområder.
