@@ -8,9 +8,10 @@
 (4) Foretak og advokater som driver eiendomsmegling, jf. § 2-1, kan ikke kjøpe eller selge egen eiendom gjennom egen virksomhet.
 (5) Foretak og advokater som driver eiendomsmegling, jf. § 2-1, kan ikke motta oppdrag fra
 1) personer og foretak som nevnt i første og annet ledd,
-2) slektninger i opp- og nedstigende linje og søsken til personer som nevnt i første ledd, eller
-3) ektefelle og person som bor i ekteskapslignende forhold med slektninger som nevnt i nr. 2.
-(6) Forbudet i første, annet og fjerde ledd omfatter ikke
+2) slektninger i opp- og nedstigende linje og søsken til personer som nevnt i første ledd,
+3) ektefelle og person som bor i ekteskapslignende forhold med slektninger som nevnt i nr. 2,
+4) foretak hvor personer eller foretak som nevnt i dette ledd, alene eller sammen, har slik innflytelse som nevnt i aksjeloven og allmennaksjeloven § 1-3 annet ledd eller selskapsloven § 1-2 annet ledd.
+(6) Forbudet i første til femte ledd omfatter ikke
 1) ansatte i andre filialer, jf. § 2-2, i foretaket eller advokatvirksomheten enn den filialen som utfører oppdraget, eller
 2) ansatte i filialer, jf. § 2-2, i foretaket eller advokatvirksomheten som kun forestår oppgjør.
 (7) Dersom personer eller foretak som nevnt i første og annet ledd i andre tilfeller har eller får personlig eller økonomisk interesse i den handelen oppdraget gjelder, skal partene straks gis opplysning om dette.
