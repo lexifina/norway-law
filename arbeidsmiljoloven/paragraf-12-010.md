@@ -1,2 +1,3 @@
-# § 12-10. Pleie av pårørende
-Arbeidstaker som pleier nære pårørende i hjemmet i livets sluttfase har rett til permisjon i 20 dager for pleie av den enkelte pårørende.
+# § 12-10. Omsorg for og pleie av nære pårørende
+Arbeidstaker som pleier nære pårørende i hjemmet i livets sluttfase har rett til permisjon i 60 dager for pleie av den enkelte pårørende.
+Arbeidstaker har rett til permisjon i inntil 10 dager hvert kalenderår for å gi nødvendig omsorg til foreldre, ektefelle, samboer eller registrert partner. Det samme gjelder ved nødvendig omsorg for funksjonshemmet eller kronisk sykt barn fra og med kalenderåret etter at barnet fylte 18 år når arbeidstakeren har hatt slik omsorg for barnet som nevnt i § 12-9 tredje ledd. Departementet kan gi forskrift om dokumentasjon av nødvendig omsorg.
