@@ -1,3 +1,3 @@
 # § 22-5. Forskrifter om nærmere regler om godkjenning av foretak
-Departementet kan gi forskrift om saksbehandling og krav for godkjenning, tilbaketrekking, ordningens omfang og organisering, og om gebyr for godkjenning som ikke kan gå ut over selvkost.
+Departementet kan gi forskrift om saksbehandling og krav for godkjenning, tilbaketrekking, ordningens omfang og organisering, tidsfrister for sentral godkjenning og konsekvenser av fristoverskridelse, og om gebyr for godkjenning som ikke kan gå ut over selvkost.
 Godkjenningskravene skal gjelde foretakenes evne til å tilfredsstille kravene i loven her, og kan gjelde krav til foretakenes organisasjon, rutiner for oppfyllelse av kravene, og kompetanse hos foretakenes faglige ledelse, basert på utdanning og praksis. Det kan fastsettes forskjellige nivåer for godkjenning i forhold til vanskelighetsgrad og konsekvenser i forskjellige tiltaksklasser.

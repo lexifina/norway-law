@@ -8,7 +8,7 @@ e) riving av tiltak som nevnt i bokstav a
 f) oppføring, endring eller reparasjon av bygningstekniske installasjoner
 g) oppdeling eller sammenføyning av bruksenheter i boliger samt annen ombygging som medfører fravikelse av bolig
 h) oppføring av innhegning mot veg
-i) plassering av skilt, reklameinnretninger o.l.
+i) plassering av skilt- og reklameinnretninger
 j) plassering av midlertidige bygninger, konstruksjoner eller anlegg
 k) vesentlig terrenginngrep
 l) anlegg av veg, parkeringsplass og landingsplass
