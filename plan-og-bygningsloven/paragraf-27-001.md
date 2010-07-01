@@ -1,0 +1,5 @@
+# § 27-1. Vannforsyning
+Bygning må ikke føres opp eller tas i bruk til opphold for mennesker eller dyr med mindre det er forsvarlig adgang til hygienisk betryggende og tilstrekkelig drikkevann, samt slokkevann. Det samme gjelder opprettelse eller endring av eiendom for slik bebyggelse. Rettighet til å føre vannledning over annens grunn, alternativt til å knytte seg til felles ledningsnett, skal være sikret ved tinglyst dokument eller på annen måte som kommunen godtar som tilfredsstillende.
+Når offentlig vannledning går over eiendommen eller i veg som støter til den, eller over nærliggende areal, skal bygning som ligger på eiendommen knyttes til vannledningen. Vil dette etter kommunens skjønn være forbundet med uforholdsmessig stor kostnad, eller særlige hensyn tilsier det, kan kommunen godkjenne en annen ordning.
+Kommunen kan i andre tilfeller enn nevnt i andre ledd, kreve at bygningen skal knyttes til offentlig vannledning når særlige hensyn tilsier det.
+Reglene i andre og tredje ledd gjelder også for eksisterende byggverk.

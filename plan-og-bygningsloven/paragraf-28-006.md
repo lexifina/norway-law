@@ -1,0 +1,3 @@
+# § 28-6. Sikring av basseng, brønn og dam
+Basseng og brønn skal til enhver tid være sikret slik at personer hindres fra å falle i dem. Brønn eller dam som antas å medføre særlig fare for barn, kan kommunen pålegge gjenfylt eller sikret på annen måte innen en fastsatt frist. Gjenfylling kan ikke skje dersom brønn eller dam er påkrevet av hensyn til vannforsyningen. Dammer som faller inn under vannressursloven, skal sikres etter reglene i vannressursloven.
+Grunneieren er ansvarlig for at anlegg er sikret som nevnt i første ledd. Er grunnen bortleid mer enn to år, påhviler ansvaret leieren eller festeren. Blir anleggene bare brukt av noen som ikke er ansvarlig etter foranstående regler, påhviler ansvaret brukeren.

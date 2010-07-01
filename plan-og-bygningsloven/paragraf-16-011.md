@@ -1,0 +1,4 @@
+# § 16-11. Statens og fylkets overtakelse av eiendom
+Har kommunen ervervet eiendom som i reguleringsplan er satt av til tomt for statens bygning, kan kommunen sette en rimelig frist for staten til å overta eiendommen. Hvis staten innen fristen går ut ikke har overtatt eiendommen, kan kommunen beholde den til eget bruk eller avhende tomten.
+Når eiendom er satt av til formål som nevnt i § 12-5 nr. 2 og det gjelder anlegg som hører under staten, svarer staten for krav om erstatning etter § 15-3 og for krav om innløsning etter § 15-2 i den utstrekning det ikke følger av lovgivningen for øvrig eller av avtale at kommunen skal bære disse utgiftene. I samme tilfelle kan staten foreta ekspropriasjon i medhold av § 16-2.
+Bestemmelsene i første og andre ledd gjelder tilsvarende for fylkeskommunen når det gjelder eiendom som er satt av til tomt for fylkets bygning eller til anlegg som hører under fylket.

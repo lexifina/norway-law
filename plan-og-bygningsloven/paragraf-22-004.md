@@ -1,0 +1,4 @@
+# § 22-4. Tilbaketrekking av lokal godkjenning for ansvarsrett
+Kommunen kan når som helst trekke tilbake lokal godkjenning for ansvarsrett ved alvorlige overtredelser av bestemmelser eller tillatelser gitt i eller i medhold av denne lov eller dersom den finner at ansvarlig foretak ikke fyller de krav som stilles til pålitelighet og dugelighet. Før det treffes vedtak om tilbaketrekking, skal foretaket gis varsel med frist til å uttale seg. Dersom kommunen finner det nødvendig, kan den straks sette godkjenningen ut av kraft inntil saken er endelig avgjort.
+Når særlig formildende hensyn gjør seg gjeldende, kan tilbaketrekking av lokal godkjenning for ansvarsrett likevel utelates. Ved mindre alvorlige overtredelser kan det gis advarsel.
+Kommunen skal melde tilbaketrekking av lokal godkjenning for ansvarsrett til den sentrale godkjenningsordningen. Det samme gjelder advarsel kommunen gir foretaket.

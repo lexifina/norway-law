@@ -1,0 +1,5 @@
+# § 21-9. Bortfall av tillatelse
+Er tiltaket ikke satt i gang senest 3 år etter at tillatelse er gitt, faller tillatelsen bort. Det samme gjelder hvis tiltaket innstilles i mer enn 2 år. Disse bestemmelser gjelder tilsvarende for dispensasjon. Fristene kan ikke forlenges.
+Innstilles et tiltak i mer enn 3 måneder, kan kommunen kreve at stillas og innhegning mot gate som er åpen for offentlig trafikk blir fjernet, og at gate og fortau settes i stand.
+Innstilles et tiltak i mer enn 1 år, skal stillasene fjernes og anlegg bringes i slik stand at det virker minst mulig skjemmende. Varer dette mer enn 2 år, kan kommunen forlange at tiltaket helt skal fjernes og grunnen ryddes. Avbrytes et endringstiltak, bestemmer kommunen i hvilken utstrekning byggverket skal bringes tilbake til sin opprinnelige stand.
+Tillatelse til tiltak etter § 20-1 første ledd bokstav m faller bort dersom det ikke er rekvirert oppmålingsforretning etter lov om eigedomsregistrering innen 3 år etter at tillatelsen ble gitt, eller dersom matrikkelføring vil være i strid med lov om eigedomsregistrering.

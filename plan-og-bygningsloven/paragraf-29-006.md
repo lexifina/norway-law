@@ -1,0 +1,6 @@
+# § 29-6. Tekniske installasjoner og anlegg
+Tekniske installasjoner og anlegg skal prosjekteres og utføres slik at de gir de ytelser som er forutsatt og tåler de indre og ytre belastninger som normalt forekommer. Kravene i § 29-3 første ledd gjelder tilsvarende.
+Tekniske installasjoner og anlegg skal oppføres eller installeres, drives og vedlikeholdes slik at krav til forsvarlig helse, sikkerhet og miljø, herunder energiøkonomi, gitt i eller i medhold av loven blir oppfylt. Eieren av anlegget skal sørge for at nødvendig vedlikehold og reparasjon blir foretatt av fagkyndig personell.
+Dersom tekniske installasjoner og anlegg etter kommunens skjønn er til ulempe for omgivelsene, kan kommunen pålegge eieren å treffe nødvendige tiltak. Når særlige forhold gjør det rimelig, kan det bestemmes at utgiftene til slike tiltak helt eller delvis skal bæres av eier av annen eiendom som er årsak til at pålegget er gitt.
+Denne paragrafen gjelder tilsvarende for tekniske installasjoner og anlegg i eksisterende byggverk.
+Departementet kan ved forskrift gi nærmere bestemmelser bl.a. om oppføring eller installering av installasjoner og anlegg, reparasjon av anlegg som er i drift, og om anleggseierens plikter.

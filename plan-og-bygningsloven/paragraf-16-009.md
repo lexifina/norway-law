@@ -1,0 +1,5 @@
+# § 16-9. Utvidelse av ekspropriasjon
+Etter krav fra eier eller rettighetshaver kan det bestemmes at ekspropriasjon etter denne loven også skal omfatte grunn, bygning, rettighet eller annet som mister en vesentlig del av sin verdi for eieren eller rettighetshaveren hvis ekspropriasjonen blir satt i verk. I slike tilfelle kan det også etter krav bestemmes at ekspropriasjonen skal gå ut på avståing til eie, selv om det er krevd bruksrett eller annen særlig rett i eiendommen.
+Når kommunen foretar ekspropriasjon etter denne lov, kan det etter krav fra kommunen bestemmes at ekspropriasjonen også skal omfatte grunn, bygning, rettighet eller annet som nevnt i første ledd, dersom det finnes at kommunen har en grunnet interesse i slik utvidelse av ekspropriasjonen.
+Når det ved skjønn godtgjøres at vilkårene for erstatning etter § 15-3 første ledd er til stede, kan det etter krav fra kommunen bestemmes at kommunen kan ekspropriere vedkommende eiendom, dersom det finnes at kommunen har en grunnet interesse i det.
+Avgjørelser etter denne paragraf tas av retten ved det samme skjønn som er krevd for fastsettelse av erstatningen.

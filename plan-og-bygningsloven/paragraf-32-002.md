@@ -1,0 +1,3 @@
+# § 32-2. Forhåndsvarsel
+Den ansvarlige skal varsles før pålegg gis, tvangsmulkt vedtas eller forelegg utferdiges, og gis anledning til å uttale seg innen en frist som ikke skal være kortere enn 3 uker. Forhåndsvarsel skal gis skriftlig.
+Forhåndsvarselet skal opplyse om at dersom ulovlige forhold ikke rettes innen fristen, vil forholdet kunne følges opp med pålegg om retting, pålegg om stans eller vedtak om tvangsmulkt. Forhåndsvarselet skal videre opplyse om at et eventuelt pålegg som ikke etterkommes innen fastsatt frist, også vil kunne følges opp med forelegg som kan få samme virkning som rettskraftig dom.

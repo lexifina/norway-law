@@ -1,0 +1,3 @@
+# § 32-5. Tvangsmulkt
+Ved forhold i strid med bestemmelser gitt i eller i medhold av denne loven, kan plan- og bygningsmyndighetene fastsette tvangsmulkt for å få gjennomført gitte pålegg innen en særskilt angitt frist. Tvangsmulkten fastsettes samtidig med pålegg om retting og løper fra fristoverskridelsen for retting. Der tvangsmulkt ikke fastsettes samtidig med pålegg, skal det gis eget forhåndsvarsel om tvangsmulkt.
+Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer, som et engangsbeløp eller som en kombinasjon av løpende mulkt og engangsbeløp. Tvangsmulkten ilegges den ansvarlige for overtredelsen, og tilfaller kommunen. Når det ulovlige forhold er rettet, kan kommunen nedsette eller frafalle ilagt tvangsmulkt.

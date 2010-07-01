@@ -1,0 +1,3 @@
+# § 18-11. Refusjonsdebitor. Panterett
+Eier av det refusjonspliktige arealet er ansvarlig for betaling, om ikke annet følger av avtale med tidligere eier. Endelig fastsatt refusjonskrav har panterett i det refusjonspliktige areal eller den eiendom arealet er en del av. Refusjonskravet er tvangsgrunnlag for utlegg.
+Er grunnen bortfestet til bolig eller fritidshus, er festeren ansvarlig for betalingen. Er grunnen bortfestet til andre formål, er festeren ansvarlig når det ved forfall er minst 30 år igjen av festetiden, eller festeren kan kreve festeavtalen forlenget for så lang tid. Grunneieren er likevel ansvarlig om dette følger av avtale med festeren.

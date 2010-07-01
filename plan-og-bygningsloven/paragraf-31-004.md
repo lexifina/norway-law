@@ -1,0 +1,4 @@
+# § 31-4. Pålegg om dokumentasjon og utbedring
+Departementet kan gi forskrift om kommunens adgang til å gi pålegg om dokumentasjon og utbedring av eksisterende byggverk og installasjoner
+Pålegg kan bare gis der utbedring vil gi vesentlig forbedring av byggverkets eller installasjonens funksjon som tilsies av tungtveiende hensyn til universell utforming, helse, miljø, sikkerhet eller bevaringsverdi. I vurderingen skal det legges vekt på kostnadene ved pålegget, antall brukere, hvilke farer eller ulemper de utsettes for, og avstanden mellom den faktiske tilstanden og gjeldende krav.
+Kongen kan gi forskrift om at bestemte typer tiltak eller bestemte typer eksisterende bygninger, anlegg eller uteområder skal opparbeides slik at de blir universelt utformet. Det kan gis frist for slik opparbeidelse.

@@ -1,0 +1,2 @@
+# § 16-8. Forsøkstakst
+Når forslag til reguleringsplan er vedtatt av kommunen, kan kommunestyret kreve skjønn til fastsetting av erstatning for tilfelle av ekspropriasjon etter § 16-2. Før tvangsfullbyrdelse kan kreves på grunnlag av et slikt skjønn, jf. lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker § 41, må planen være endelig og departementets samtykke til ekspropriasjon være gitt i tilfelle hvor slikt samtykke trenges.

@@ -1,0 +1,2 @@
+# § 30-5. Midlertidige bygninger, konstruksjoner eller anlegg
+Midlertidige bygninger, konstruksjoner eller anlegg, jf. § 20-1 første ledd bokstav j, må ikke plasseres slik at de hindrer allmenn ferdsel eller friluftsliv, eller på annen måte fører til vesentlig ulempe for omgivelsene. For ovennevnte tiltak gjelder bestemmelser gitt i eller i medhold av loven så langt de passer. Departementet kan gi forskrift om krav til midlertidige bygninger, konstruksjoner og anlegg.

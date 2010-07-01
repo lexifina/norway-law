@@ -1,0 +1,2 @@
+# § 28-5. Orden på og bruk av ubebygd areal. Sikringstiltak ved byggverk mv.
+Ubebygd areal i bebygde områder skal holdes i ryddig og ordentlig stand. Kommunen kan forby lagring eller annen bruk av ubebygd areal, når det etter kommunens skjønn vil gjøre opphold eller ferdsel farlig, virke sterkt skjemmende eller være til vesentlig ulempe. Der forhold ved lagring og annen bruk eller terreng i nærheten av byggverk kan gjøre opphold og ferdsel farlig, kan kommunen pålegge eier å gjennomføre sikringstiltak.

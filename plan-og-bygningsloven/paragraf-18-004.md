@@ -1,0 +1,3 @@
+# § 18-4. Refusjonsenheten
+Utgiftene som refererer seg til en strekning hvor en sammenhengende opparbeidelse, omlegging eller utvidelse av tiltak som nevnt i § 18-1 første ledd finner sted, skal samlet fordeles på de arealer som ifølge § 18-6 er refusjonspliktig til enheten. Dersom terrengforholdene eller skifte av strøkets karakter langs strekningen eller andre særlige omstendigheter tilsier det, kan kommunen treffe vedtak om at fordelingen skal skje etter en annen enhet når det finnes påkrevet for å hindre en klart urimelig fordeling av utgiftene mellom de eiendommer som berøres av tiltaket.
+For tiltak som nevnt i § 18-3 andre ledd første punktum er tiltaket slik det framgår av planen, en enhet.

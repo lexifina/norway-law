@@ -1,0 +1,3 @@
+# § 20-4. Unntak fra krav i loven for visse tiltak som behandles etter andre lover og hemmelige militære anlegg
+Tiltak som nevnt i § 20-1 er ikke søknadspliktig dersom tiltaket blir tilfredsstillende behandlet etter andre lover. Departementet gir forskrift om hvilke tiltak som er unntatt fra søknadsplikt etter første punktum og i hvilken utstrekning bestemmelser i loven her gjelder.
+Når område, anlegg eller byggverk er erklært hemmelig i medhold av lov om forsvarshemmeligheter, påhviler det vedkommende militære myndighet å se til at de bestemmelser som er gitt i eller i medhold av denne lov blir overholdt.

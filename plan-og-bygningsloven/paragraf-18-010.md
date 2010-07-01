@@ -1,0 +1,5 @@
+# § 18-10. Forfall og renteplikt
+Refusjonsbeløpet forfaller til betaling fem uker etter at refusjonsvedtaket er meddelt de refusjonspliktige.
+For areal som er refusjonspliktig etter § 18-6 første ledd andre og tredje punktum, forfaller refusjonsbeløpet likevel ikke før oppmålingsforretning om opprettelse eller endring av eiendom blir rekvirert eller bygging blir gjennomført. For areal som på grunn av midlertidig byggeforbud eller annen særlig grunn som ikke skyldes den refusjonspliktige, ikke kan nyttes på den måte som refusjonsplikten forutsetter, forfaller refusjonsbeløpet først når adgangen til slik utnytting inntrer. Refusjonsbeløp som har utsatt forfall skal indeksreguleres etter konsumprisindeksen fra det er meddelt de refusjonspliktige og til forfall.
+Dersom eieren eller festeren ønsker det, kan et refusjonsbeløp som det offentlige har krav på, betales over inntil fem år i årlige terminer med en rentesats fastsatt av departementet.
+Fra forfallstidspunktet plikter refusjonsdebitor å betale den til enhver tid gjeldende forsinkelsesrente. Forsinkelsesrenteloven gjelder tilsvarende.

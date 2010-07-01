@@ -1,0 +1,6 @@
+# § 28-7. Den ubebygde del av tomta. Fellesareal
+Uteareal skal innenfor sin funksjon være universelt utformet i samsvar med forskrifter gitt av departementet. Uteareal for arbeidsbygg skal være universielt utformet i samsvar med forskrift gitt av departementet.
+Uteareal på tomta skal gjennom størrelse, utforming og beliggenhet mv. sikre forsvarlig oppholdssted i det fri for beboerne og i nødvendig utstrekning muliggjøre lek, rekreasjon, avkjørsel og parkering av biler, motorsykler, sykler o.l. Opparbeidet uteareal på tomta skal kunne brukes av alle innenfor tillatelsens formål. Kommunen kan godta at fellesareal avsettes for flere eiendommer.
+Det kan bestemmes i kommuneplanen at kommunen kan samtykke i at det i stedet for parkeringsplass på egen grunn eller på fellesareal blir innbetalt et beløp for hver manglende plass til kommunen for bygging av parkeringsanlegg. Kommunestyret bestemmer hvilke satser som til enhver tid skal gjelde. Innbetalte beløp kan bare benyttes til opparbeiding av offentlige parkeringsanlegg.
+Bestemmelsen i første til tredje ledd gjelder tilsvarende ved bruksendring.
+Departementet kan gi forskrifter om rammene for anvendelse av denne bestemmelsen, herunder bruk av midler innbetalt etter tredje ledd.

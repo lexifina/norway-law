@@ -1,0 +1,2 @@
+# § 27-3. Tilknytning til eksisterende private anlegg
+Plan- og bygningsmyndigheten kan tillate tilknytning til private vann- og avløpsanlegg. Eieren av anlegget kan i så fall kreve at den som blir tilknyttet anlegget foretar eller betaler de utvidelser og forandringer av anlegg som tilknytningen gjør nødvendig, eller at det blir stilt sikkerhet for dette. Eieren kan i tillegg kreve refusjon for de opprinnelige anleggsutgiftene og senere oppgraderinger. Kostnadene og refusjonen fastsettes ved skjønn. Utgiftene til skjønnet bæres av den som blir tilknyttet anlegget.

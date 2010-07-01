@@ -1,0 +1,2 @@
+# § 21-6. Privatrettslige forhold
+Med mindre annet følger av loven her, skal bygningsmyndighetene ikke ta stilling til privatrettslige forhold ved behandling av byggesøknader. Dersom det framstår som klart for bygningsmyndighetene at tiltakshaver ikke har de privatrettslige rettigheter søknaden forutsetter, kan søknaden avvises. Eventuell tillatelse etter denne lov innebærer ingen avgjørelse av privatrettslige forhold. Kommunen kan fastsette frist for tiltakshaver for supplering av søknaden.

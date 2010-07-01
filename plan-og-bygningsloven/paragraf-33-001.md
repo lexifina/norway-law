@@ -1,0 +1,3 @@
+# § 33-1. Gebyr
+Kommunestyret selv kan gi forskrift om gebyr til kommunen for behandling av søknad om tillatelse, utferdigelse av kart og attester og for andre arbeid som det etter denne lov eller forskrift påhviler kommunen å utføre, herunder behandling av private planforslag. Gebyret skal ikke overstige kommunens nødvendige kostnader på sektoren. I gebyret kan det inkluderes utgifter til nødvendig bruk av sakkyndig bistand under tilsyn. Andelen av gebyr som innkreves for tilsyn skal framgå av regulativet. Tiltakshaver kan selv sørge for de nødvendige utredninger.
+Eier skal betale gebyr for kostnadene for behandling av søknad om driftstillatelse og for driftskontroll til vedkommende myndighet. Gebyr for driftskontroll kan helt etter delvis dekkes av årsavgiften.

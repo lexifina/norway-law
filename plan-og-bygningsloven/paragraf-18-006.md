@@ -1,0 +1,5 @@
+# § 18-6. Refusjonspliktig areal
+Refusjon for tiltak som nevnt i § 18-3 første ledd belastes ubebygd areal som blir byggeklart etter §§ 18-1 og 18-2, enten tilknytningen til anlegget skjer direkte eller gjennom privat veg eller stikkledning. Som ubebygd areal regnes også ubebygd del av bebygd eiendom når den ubebygde del kan bebygges selvstendig. Det samme gjelder del av bebygd eiendom som ikke kan bebygges selvstendig, dersom eksisterende bebyggelse utgjør mindre enn 2/3 av tillatt utnytting.
+Areal med bebyggelse som etter kommunens skjønn er saneringsmoden eller som av andre grunner har en klart lavere verdi enn verdien av den tomt den beslaglegger, regnes også som ubebygd.
+Refusjon belastes også bebygd areal som har fått midlertidig utsettelse med å oppfylle forpliktelsene etter § 18-1, dersom forpliktelsene blir oppfylt gjennom tiltaket.
+Refusjon for tiltak som nevnt i § 18-3 andre ledd første punktum belastes de areal som de etter reguleringsplan skal tjene. For areal som er helt eller delvis bebygd, gjelder de samme regler som under første ledd.

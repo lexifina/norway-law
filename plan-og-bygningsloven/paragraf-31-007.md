@@ -1,0 +1,3 @@
+# § 31-7. Tilsyn med eksisterende byggverk og arealer
+Plan- og bygningsmyndighetene kan føre tilsyn med eksisterende arealer og byggverk for å påse at det ikke foreligger ulovlig bruk eller andre ulovlige forhold etter denne lov som kan medføre fare eller vesentlig ulempe for person, eiendom eller miljø. Tilsyn kan likevel bare føres der det er grunn til å anta at det foreligger forhold som nevnt, eller det skal vurderes pålegg etter §§ 31-3 og 31-4.
+Enhver som disponerer byggverk, areal eller aktuell del av det plikter å gi vedkommende myndighet nødvendige opplysninger og adgang til å foreta nødvendige undersøkelser.
