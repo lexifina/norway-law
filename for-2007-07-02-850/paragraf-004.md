@@ -1,0 +1,3 @@
+# § 4. Overtredelse i den økonomiske sonen
+Skip som er i norsk territorialfarvann eller norsk økonomisk sone kan ved skjellig grunn til mistanke om overtredelse i norsk økonomisk sone bli avkrevd opplysning om identitet, forrige og neste anløpssted og andre relevante opplysninger som er nødvendige for å få fastslått om en overtredelse har funnet sted.
+Dersom informasjonen fra skip som nevnt i første ledd ikke blir gitt, er mangelfull eller ikke troverdig, og overtredelsen har ført til et vesentlig utslipp som har forårsaket eller truer med å forårsake betydelig forurensing av det marine miljø, kan tilsynsmyndigheten stanse og borde skipet.
