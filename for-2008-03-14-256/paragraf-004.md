@@ -1,0 +1,5 @@
+# § 4. Kompetansekrav
+Personer som skal utføre aversjonstrening skal ha erfaring med dressur av hund og gjennomgått og bestått utdanning i aversjonsdressur. Utdanningen må omfatte grunnkurs på minimum 24 timer i hundeadferd og aversjon, teoretisk kurs i gjeldende dyrevernbestemmelser og aversjonsdressur samt praktisk opplæring i aversjonsdressur gitt av en kompetent og erfaren instruktør. Kandidaten skal deretter under vurdering av en slik instruktør gjennomføre og bestå en praktisk test i aversjonsdressur, der flere hunder og hunderaser benyttes.
+Kompetansen skal vedlikeholdes gjennom oppgraderingskurs. Dokumentasjon for kompetansen skal kunne framlegges for tilsynsmyndigheten.
+Instruktøren som gir den praktiske opplæringen samt tilrettelegger og vurderer den praktiske testen må kunne dokumentere egen kompetanse på og omfattende erfaring med aversjonsdressur.
+Kurstilbyder plikter å registrere utdanningsopplegget, herunder oppgraderingskurs, i Mattilsynet. Kravet om 24 timer grunnkurs gjelder ikke personer som har gjennomgått utdanning og bestått en praktisk test før den 1. januar 2006.
