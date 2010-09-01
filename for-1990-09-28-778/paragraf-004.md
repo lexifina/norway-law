@@ -1,0 +1,3 @@
+# § 4. Styrets sammensetning
+Styret for Bildende Kunstneres Hjelpefond består av fem medlemmer med personlige varamedlemmer, oppnevnt av departementet. To av medlemmene oppnevnes av departementet etter forslag fra Norske Billedkunstnere (NBK). Ett av medlemmene oppnevnes av departementet etter forslag fra Norske Kunsthåndverkere (NK) og Forbundet Frie Fotografer (FFF). Oppnevnelsen skifter mellom NKs og FFFs forslag til kandidat hvert fjerde år. To av medlemmene med varamedlem bør være over 60 år. De øvrige medlemmene med varamedlem oppnevnes på fritt grunnlag. Departementet oppnevner styreleder.
+Styret er beslutningsdyktig når minst fire stemmeberettigede medlemmer er til stede.
