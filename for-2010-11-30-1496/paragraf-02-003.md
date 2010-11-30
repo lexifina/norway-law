@@ -1,0 +1,4 @@
+# § 2-3. Grunnlag for år med omsorgsarbeid for små barn før 1992 for personer født i årene 1948 til 1953
+Økt grunnlag for personer født i årene 1948 til 1953 som følge av omsorgsarbeid for små barn før 1992, se AFP-tilskottsloven § 6 andre ledd, fastsettes i forbindelse med at krav om avtalefestet pensjon settes fram.
+Økt grunnlag tildeles den som mottok barnetrygd for barnet. Dersom opplysninger om barnetrygdmottaker mangler, legges historiske opplysninger om barnets mor i folkeregisteret til grunn. Dersom to omsorgsytere har vært sammen om omsorgen for barnet, men bare én av disse har rett til økt inntektsgrunnlag ved omsorgsarbeid etter AFP-tilskottsloven § 6 andre ledd eller folketrygdloven § 20-21 tredje ledd andre punktum, kan økningen likevel tildeles denne.
+Krav om økt grunnlag må settes fram innen seks uker etter at varsel om rett til dette er mottatt fra Arbeids- og velferdsetaten.

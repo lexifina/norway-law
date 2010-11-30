@@ -1,0 +1,4 @@
+# § 2-2. Grunnlag når uttaket skjer ved 62 år
+Dersom avtalefestet pensjon tas ut det kalenderåret arbeidstakeren fyller 62 år, beregnes pensjonen etter AFP-tilskottsloven § 6 og § 7 på grunnlag av inntekt mv. til og med det kalenderåret vedkommende fylte 60 år.
+Grunnlaget for det kalenderåret vedkommende fylte 61 år gis virkning på pensjonen fra januar året etter at likningen foreligger. Grunnlaget oppjusteres i samsvar med lønnsveksten fra inntektsåret fram til virkningstidspunktet. Årlig pensjon økes deretter med 0,314 prosent av det oppjusterte grunnlaget, dividert med forholdstallet etter folketrygdloven § 19-7 som gjelder på virkningstidspunktet.
+Hvorvidt det skal utbetales kronetillegg etter AFP-tilskottsloven § 7 tredje ledd og størrelsen på et eventuelt kompensasjonstillegg etter AFP-tilskottsloven § 11 fastsettes ikke på nytt når avtalefestet pensjon under utbetaling omregnes etter andre ledd.
