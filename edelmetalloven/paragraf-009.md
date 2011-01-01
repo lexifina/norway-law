@@ -1,0 +1,6 @@
+# § 9. Tvangsmulkt
+For å sikre at krav fastsatt i loven eller med hjemmel i loven blir oppfylt, kan Justervesenet treffe vedtak om tvangsmulkt som tilfaller statskassen.
+Tvangsmulkten kan fastsettes når overtredelse av loven eller vedtak med hjemmel i loven er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter fristen for retting av forholdet. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forholdet varer, eller at den forfaller for hver overtredelse. Tvangsmulkt løper likevel ikke dersom manglende etterlevelse skyldes forhold utenfor den ansvarliges kontroll. Tvangsmulkt kan fastsettes som løpende mulkt eller engangsmulkt.
+Tvangsmulkt ilegges den ansvarlige for overtredelsen. Er overtredelsen skjedd på vegne av et selskap eller en annen sammenslutning, skal tvangsmulkten som hovedregel ilegges dette. Er tvangsmulkt ilagt et selskap som inngår i et konsern, kan påløpt tvangsmulkt også inndrives hos morselskap. Er flere ansvarlige etter vedtak om tvangsmulkt, hefter de solidarisk for betaling av tvangsmulkten.
+Justervesenet kan i særlige tilfeller redusere eller frafalle påløpt tvangsmulkt.
+Departementet kan gi forskrift om tvangsmulkt, herunder om tvangsmulktens størrelse og varighet, fastsettelse av tvangsmulkt og frafall av påløpt tvangsmulkt.
