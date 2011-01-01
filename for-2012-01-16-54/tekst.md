@@ -1,0 +1,1 @@
+Prisen på kraft ved interne leveranser etter skatteloven § 18-3 andre ledd bokstav a nr. 3 for inntektsåret 2011 settes til 24,646 øre/kWh, dvs. som 25,646 øre/kWh fratrukket 1 øre/kWh.
