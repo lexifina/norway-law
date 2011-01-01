@@ -12,14 +12,16 @@
 9) ligningsverdi og offentlige avgifter,
 10) forholdet til endelige offentlige planer, konsesjonsplikt og odelsrett,
 11) spesifikasjon over faste løpende kostnader,
-12) hvis kjøpesum er fastsatt, totalkostnad som omfatter alle gebyr og avgifter og øvrige kostnader,
-13) hvis kjøpesum ikke er fastsatt, en samlet oppstilling over prisantydning og alle gebyrer, avgifter og øvrige kostnader, og
+12) hvis kjøpesum er fastsatt, totalkostnad som omfatter andel av fellesgjeld, alle gebyrer, avgifter og øvrige kostnader,
+13) hvis kjøpesum ikke er fastsatt, en samlet oppstilling som omfatter prisantydning, andel av fellesgjeld, alle gebyrer, avgifter og øvrige kostnader, samt summen av disse beløpene, og
 14) hva som er avtalt om meglers vederlag, jf. § 7-2.
-(3) I forbindelse med transaksjoner som omfattes av lovens § 1-2 annet ledd nr. 3, og i forbindelse med formidling av sameieandeler og eierseksjoner, skal den skriftlige oppgaven også inneholde følgende opplysninger:
-1) Lånevilkårene for nedbetaling av fellesgjeld og beregning av månedlige felleskostnader, samt andre faste kostnader som knytter seg til dette,
+(3) Ved transaksjoner som omfattes av lovens § 1-2 annet ledd nr. 3, skal den skriftlige oppgaven også inneholde følgende opplysninger:
+1) lånevilkårene for nedbetaling av fellesgjeld og månedlige felleskostnader, samt andre faste kostnader som knytter seg til dette,
 2) separat beregning av månedlige felleskostnader etter en eventuell avdragsfri periode,
-3) opplysninger om kjøper kan holdes ansvarlig for andres mislighold av felleskostnader eller usolgte enheter hørende til prosjektet,
-4) relevante rettigheter og forpliktelser for innehaveren av atkomstdokumentet, sameieandelen eller eierseksjonen ifølge lov, forskrift, vedtekter, vedtak og avtaler, og
-5) vesentlige opplysninger om borettslaget, sameiet el. sitt budsjett og regnskap, samt opplysninger om at disse dokumentene er tilgjengelige hos oppdragstaker.
-(4) I forbindelse med transaksjoner som omfattes av lovens § 1-2 annet ledd nr. 4, skal den skriftlige oppgaven inneholde vesentlige opplysninger om selskapets budsjett og regnskap, samt opplysninger om at disse dokumentene er tilgjengelige hos oppdragstakeren.
-(5) Departementet kan i forskrift fastsette nærmere regler om hvilke opplysninger som skal inntas i oppgave som nevnt i annet, tredje og fjerde ledd, samt fastsette ytterligere krav.
+3) opplysninger om at kjøper kan holdes ansvarlig for manglende dekning av felleskostnader og usolgte enheter hørende til prosjektet,
+4) opplysninger om borettslaget har sikring mot tap av felleskostnader, jf. lov 6. juni 2003 nr. 39 om burettslag kapittel 5 avsnitt VII, og i så fall hvem som er tilbyder, varigheten av avtalen og oppsigelsesvilkårene,
+5) relevante rettigheter og forpliktelser for boligselskapet ifølge lov, forskrift, vedtekter, vedtak og avtaler som har betydning for handelen,
+6) vesentlige opplysninger om boligselskapets budsjett og regnskap, samt opplysninger om at disse dokumentene er tilgjengelige hos oppdragstaker.
+(4) Ved formidling av sameieandeler og eierseksjoner gjelder tredje ledd nr. 1, 5 og 6 tilsvarende.
+(5) I forbindelse med transaksjoner som omfattes av lovens § 1-2 annet ledd nr. 4, skal den skriftlige oppgaven inneholde vesentlige opplysninger om selskapets budsjett og regnskap, samt opplysninger om at disse dokumentene er tilgjengelige hos oppdragstakeren.
+(6) Departementet kan i forskrift fastsette nærmere regler om hvilke opplysninger som skal inntas i oppgave som nevnt i annet, tredje og fjerde ledd, samt fastsette ytterligere krav.
