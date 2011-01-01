@@ -1,0 +1,2 @@
+# § 4. Avskrivning av bygninger og vedlikeholdsavsetning
+I avskrivningsplanen for bygninger kan avskrivningssatsen settes til null. Dersom det ikke er gjennomført faktisk vedlikehold som oppveier verdiforringelse på bygningene, skal borettslaget regnskapsføre en tilsvarende avsetning. Slik avsetning skal balanseføres som vedlikeholdsavsetning under avsetning for forpliktelser, jf. regnskapsloven § 6-2 D I.
