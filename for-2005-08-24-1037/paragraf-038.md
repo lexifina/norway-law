@@ -1,0 +1,7 @@
+# § 38. Begrunnelse for og klage over karakterfastsetting
+1) Studenten har rett til å få en begrunnelse for karakterfastsetting av sine prestasjoner. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter må krav om slik begrunnelse framsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse framsettes innen én uke fra kandidaten fikk kjennskap til karakteren, dog aldri mer enn tre uker fra karakteren ble kunngjort.
+2) Begrunnelse gis skriftlig hvis studenten krever det.
+3) Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal disse være tilgjengelig for studentene etter at karakteren er fastsatt.
+4) En student kan klage skriftlig over karakteren senest tre uker etter at sensuren er kunngjort, eller tre uker etter at begrunnelse er gitt. Dersom studenten har bedt om begrunnelse eller klaget over formelle feil ved eksamen, løper klagefristen etter denne paragrafen fra studenten har fått begrunnelse, eller at endelig avgjørelse av klagen foreligger.
+5) Ved klage over karakterfastsetting vil eksamen bli sensurert av to nye sensorer. Ved ny karakterfastsetting kan endring skje både til gunst og ugunst for klager. Hvis den endelige karakter er fastsatt på grunnlag av både skriftlig og muntlig prøve, og klager får medhold i klage på sensuren over den skriftlige del av eksamen, holdes ny muntlig prøve til fastsetting av endelig karakter.
+6) Bedømmelse av muntlig presentasjon, bedømmelse av praktisk ferdighet eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages.

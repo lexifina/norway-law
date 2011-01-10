@@ -1,0 +1,2 @@
+# § 18. Fastsetting av studie- og semesterplaner
+Fagseksjonene utarbeider forslag til studie- og semesterplaner. Styret vedtar studieplan for studieprogram i forbindelse med etablering av nytt studieprogram som deretter godkjennes av NOKUT. Rektor vedtar semesterplaner og endringer i studie- og semesterplaner så fremt disse ikke medfører betydelige endringer i studiets målsetting, innhold og ressursrammer.

@@ -1,0 +1,2 @@
+# § 10. Politiattest
+I henhold til forskrift 23. mars 2001 nr. 282 om politiattest ved opptak til høgre utdanning er det krav om at studenter leverer politiattest ved opptak til høyskolens studie. Når søker får tilbud på et studieprogram som har slikt krav, skal høyskolen i tilbudsbrevet opplyse om dette kravet og om frist for å levere politiattest. Se utfyllende bestemmelser for spesifisering av hvilke studier kravet gjelder for.

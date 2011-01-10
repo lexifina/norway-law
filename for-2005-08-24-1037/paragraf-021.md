@@ -1,0 +1,5 @@
+# § 21. Utdanningsplan og veiledningskontrakt
+1) En student som er tatt opp til studier av 60 studiepoengs omfang eller mer skal ha en utdanningsplan for sitt studium i form av en avtale inngått mellom studenten og høyskolen. Utdanningsplanen skal angi partenes viktigste rettigheter og plikter. Utdanningsplanen skal være inngått i løpet av studentens første semester. Dersom utdanningsplanen skal ha vesentlige avvik fra studieplanen, skal seksjonen som har det faglige ansvaret for studiet, ha anledning til å uttale seg før planen blir utformet.
+2) Studentens rett til oppfølging og tilrettelegging underveis i utdanningen er betinget av studentens forpliktelser etter utdanningsplanen.
+3) En student må bekrefte sin utdanningsplan innen fastsatte frister for å beholde sin studie- og undervisningsrett.
+4) En student må ha betalt semesteravgift og eventuell annen fastsatt avgift for å kunne bekrefte sin utdanningsplan. En student som er fritatt for dette pga. utvekslingsordninger eller lignende skal bekrefte sin utdanningsplan på samme måte som øvrige studenter.

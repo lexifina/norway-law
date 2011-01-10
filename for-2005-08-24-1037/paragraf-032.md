@@ -1,0 +1,2 @@
+# § 32. Antall forsøk til eksamen
+1) Studenter har anledning til å fremstille seg til eksamen i samme fagblokk maksimalt tre ganger. I særlige tilfeller kan rektor gi dispensasjon fra tregangersregelen. Dersom en student unnlater å møte til eksamen uten gyldig grunn, regnes det som om studenten har gått opp til eksamen én gang. Studenter som har gyldig grunn for fravær under eksamen har ikke brukt et eksamensforsøk.
