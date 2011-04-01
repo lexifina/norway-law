@@ -1,0 +1,3 @@
+# § 2. Virkeområde
+Forskriften gjelder for personell som skal attestere for luftdyktighet etter komponentvedlikehold i henhold til forskrift 24. mai 2005 nr. 462 om kontinuerlig luftdyktighet for luftfartøyer og luftfartøyprodukter, -deler og -utstyr og om godkjenning av organisasjoner og personell som deltar i disse oppgaver (vedlikeholdsforskriften), vedlegg III, Part-66.A.200.
+Forskriften gjelder for personell som skal attestere for luftdyktighet på komponenter tilhørende luftfartøyer dekket av forskrift 19. juni 2008 nr. 614 om krav for utstedelse, utvidelse og fornyelse av nasjonal rettighet for vedlikehold av luftfartøy (BSL C 7-1).
