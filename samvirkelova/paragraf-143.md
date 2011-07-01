@@ -1,4 +1,4 @@
 # § 143. Orskurden frå tingretten
-(1) Har foretaket ikkje halde fristen etter § 142 andre ledd, skal Foretaksregisteret eller Rekneskapsregisteret varsle tingretten om dette.
+(1) Er varsel til foretaket kunngjort etter § 142 andre ledd, og har foretaket ikkje halde fristen i kunngjeringa, skal Foretaksregisteret eller Rekneskapsregisteret varsle tingretten om dette.
 (2) Tingretten skal utan vidare varsel ved orskurd vedta foretaket som oppløyst etter § 141, dersom ikkje vedtak om oppløysing allereie er gjort av årsmøtet. Orskurden har verknad som orskurd om konkursopning etter konkurslova kapittel VIII.
 (3) Dersom vesentlege samfunnsmessige omsyn tilseier det, kan Kongen av eige tiltak gjere vedtak om at foretaket kan drive vidare, og at saka likevel ikkje skal sendast til tingretten for tvangsoppløysing, men at foretaket skal få ein ytterlegare frist før tvangsoppløysing blir gjennomført. Kongen skal gjere vedtak om at foretaket i så fall skal betale ei løpande tvangsmulkt til staten frå ein frist som blir sett og fram til forholdet er retta.
