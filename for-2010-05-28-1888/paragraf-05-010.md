@@ -1,0 +1,4 @@
+# § 5-10. Grader og vitnemål
+Mastergraden tildeles på grunnlag av eksamener med et samlet omfang av minimum 330 for arkitekturstudiet, 300 for industridesign- og landskapsarkitekturstudiet. For erfaringsbasert master tildeles graden på grunnlag av eksamener med et samlet omfang av 90 studiepoeng.
+For å oppnå en grad fra AHO må minimum 60 studiepoeng, inkludert masteroppgaven, være avlagt ved AHO.
+Ved fullført studium blir kandidaten tildelt vitnemål hvor diplomoppgavens tittel er angitt. Sammen med vitnemålet skal det følge en karakterutskrift og et «Diploma Supplement». Kandidaten skal innen 5 uker fra sensuren faller få tilsendt en skriftlig evaluering av diplomoppgaven fra sensorene. Dersom kandidaten skriftlig gjør krav på evalueringen av diplomoppgaven skal denne foreligge 3 uker etter at kravet er satt frem jf. rutine: Ankeutvalg og klage på karakterfastsettingen.

@@ -1,0 +1,2 @@
+# § 3-4. Opptak til masternivå
+AHO tar opp studenter senere i studiet på bakgrunn av fullført min. 3 års utdanning ved tilsvarende institusjon. Opptak på masternivå skjer en gang pr år. Søknad rettes til AHO på eget skjema innen 1. april. Bekreftede kopier av vitnemål med karakterutskrift, CV og ev. dokumentasjon på språkkunnskaper, samt portfolio skal følge søknaden. For opptak til Master i landskapsarkitektur kreves også motivasjonsbrev. Opptaksrammen fastsettes av AHOs styre. Opptaks- og godkjenningsutvalget er opptaksorgan og avgjør innpassing i studiet.

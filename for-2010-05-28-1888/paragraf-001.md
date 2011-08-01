@@ -1,0 +1,4 @@
+# § 1. Forskriftens virkeområde og formål
+Forskriften gjelder for masterstudiene ved Arkitektur- og designhøgskolen i Oslo (AHO). Forskriften gir regler om organisering av studier, gjennomføring av vurderinger, krav for tildeling av grader og bestemmelser om AHOs og studentenes rettigheter og plikter ved AHO. Forskriften skal kvalitetssikre en forsvarlig gjennomføring av studiene ved AHO.
+Forskriften forutsetter at studentene følger normert studieprogresjon. For studenter som har søkt om og fått innvilget avvik fra normert progresjon, skal anvendelsen av reglene ta hensyn til dette, med mindre noe annet er særskilt angitt.
+Når det i det følgende er fastsatt at en tidsfrist går ut på en bestemt dato og denne datoen ikke er virkedag, blir fristen forskjøvet til nærmeste etterfølgende virkedag.
