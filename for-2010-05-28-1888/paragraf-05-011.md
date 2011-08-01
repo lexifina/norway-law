@@ -1,0 +1,5 @@
+# § 5-11. Utveksling
+Utveksling fra AHO skjer hovedsakelig gjennom Nordplus- og Erasmusprogrammene med stipend fra disse programmene. I tillegg har AHO bilaterale avtaler som ikke omfatter stipendordninger. Studenter kan også søke som gjestestudenter til en institusjon utenfor AHOs avtalenett, men dette forutsetter en forhåndsgodkjenning av institusjon og studieprogram for at gjestestudiene skal kunne regnes som del av studiet. Ved søknad om gjestestudier må studenten påregne å utføre det forberedende arbeid på egen hånd.
+Utveksling skjer først etter fullførte 3 år og skal være på masternivå ved gjesteinstitusjon. Det er totalt anledning til å utveksle inntil to semestre av masterundervisningen. Studenter på Master i landskapsarkitektur kan kun utveksle i tredje semester.
+Søknadsfrist for utveksling kunngjøres på AHOs nettsider.
+Utveksling utenfor AHOs avtaler skal forhåndsgodkjennes av Opptaks- og godkjenningsutvalget. Praksis gir ikke uttelling i form av studiepoeng og godkjenning som del av utdanningen.

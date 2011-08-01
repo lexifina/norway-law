@@ -1,0 +1,4 @@
+# § 6-8. Utsatt innlevering
+Det er anledning til å søke utsatt innlevering ved egen sykdom eller forhold i den nærmeste familie som medfører omsorgsarbeid for studenten. Søknad om utsatt innlevering skal dokumenteres med legeerklæring og sendes studieadministrasjonen snarest mulig og senest innen 7 dager etter at sykdom er inntrådt. Sykdom på inntil 3 dager i løpet av semesteret gir ikke rett til utsatt innlevering. Legeattesten skal inneholde opplysninger om hvilket tidsrom og hvilket prosentvis omfang fraværet omfatter. Utsatt innlevering kan ikke gis i mer enn to uker inn i det påfølgende semester.
+Dersom en prosjektoppgave utføres som gruppearbeid og en i gruppen innvilges utsatt innlevering skal dette gjelde hele gruppen.
+Sensurering ved utsatt innlevering fastsettes av det aktuelle institutt.

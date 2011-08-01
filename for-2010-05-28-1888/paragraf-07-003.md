@@ -1,0 +1,3 @@
+# § 7-3. Varighet
+Diplomstart fastsettes av undervisningsutvalget og bekjentgjøres gjennom kurspresentasjon og studieplan.
+Diplomoppgavens varighet er normalt 18 uker. Det kan gis mulighet for forlengelse i inntil 4 uker. Søknad om forlengelse rettes til rektor før diplomsemesteret starter. Sammen med søknaden skal det foreligge en anbefaling fra et institutt. Studieadministrasjonen underretter sensorene om at kandidaten er innvilget forlenget varighet og grunnlaget for dette. Ved utvidet tid på diplomoppgaven, som medfører senere innlevering, vil studenten bli sensurert sammen med påfølgende semesters diplomkull.

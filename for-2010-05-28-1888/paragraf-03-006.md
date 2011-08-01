@@ -1,0 +1,4 @@
+# § 3-6. Gjestestudenter
+AHO kan hvert semester ta opp gjestestudenter i henhold til styrets rammer. Disse studieplassene er reservert studenter fra institusjoner som ikke omfattes av AHOs utvekslingsavtaler. For å bli tatt opp som gjestestudent må søker være tilsluttet og ha fullført min. 3 år av tilsvarende utdanning ved utdanningsinstitusjon på samme nivå som AHO.
+Opptak av gjestestudenter skjer på grunnlag av bekreftede kopier av vitnemål med karakterutskrift, CV og ev. bekreftelse på språkkunnskaper, samt portfolio. Det gis anledning til å studere ved AHO i to semestre i denne kvoten, med egen søknad for hvert semester. Gjestestudenter må følge AHOs oppsatte kurs, og det gis ikke anledning til å selvprogrammere kurs eller avlegge diplomeksamen.
+Søknad om plass som gjestestudent rettes på eget skjema Søknadsfrister kunngjøres på AHOs nettsider. Opptaksorgan er Opptaks- og godkjenningsutvalget.
