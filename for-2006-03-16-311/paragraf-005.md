@@ -1,0 +1,2 @@
+# § 5. Krav om likebehandling
+Dersom pensjonsordningen åpner for at en person kan være medlem i pensjonsordningen i overensstemmelse med bestemmelsene i denne forskrift, skal alle andre personer i samme situasjon gis tilsvarende rett. Regelverket skal etter foretakspensjonsloven § 3-1 første ledd og innskuddspensjonsloven § 2-5 første ledd inneholde bestemmelser om medlemskap under utenlandsopphold.
