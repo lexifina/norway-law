@@ -1,0 +1,2 @@
+# § 5
+Innkreving av forsinkelsesgebyr foretas av Statens innkrevingssentral. Statens innkrevingssentral kan inndrive gebyrene ved trekk i lønn og andre lignende ytelser etter reglene i dekningslovens § 2-7. Innkrevingssentralen kan også inndrive gebyrene ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til en tredjeperson, jf. panteloven kapittel 5, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter tvangsfullbyrdelseslovens § 7-9 første ledd.
