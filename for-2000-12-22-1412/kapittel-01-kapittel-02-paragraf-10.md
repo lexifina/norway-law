@@ -1,0 +1,17 @@
+# § 13. Eiendomsrett til opptjent pensjon
+Punkt 1.
+Det er et vilkår for å beregne opptjent pensjon etter bestemmelsene i Reglenes § 13, punkt 1, annet ledd, at pensjonsordningen er finansiert ved engangspremier for den forholdsmessige del av fastsatt pensjon som opptjenes i det enkelte år, jf. forskriftene til § 11, punkt 1.
+Ved anvendelse av Reglenes § 13, punkt 1, annet ledd kan det i stedet for det tidsrom medlemsskapet i pensjonsordningen har vart, regnes med tjenestetid hos arbeidsgiveren.
+Det er ikke noe i veien for at det ved forhøyelse av pensjonsbeløpene bare regnes med tjenestetid (medlemstid) etter at forhøyelsen har funnet sted.
+Det er et vilkår for at ytelsene i tjenestepensjonsordningen skal kunne settes ned ved anvendelse av noen av bestemmelsene i Reglenes § 13, punkt 1, tredje og fjerde ledd, at det er tatt forbehold om det i forsikringsavtalen eller i pensjonsordningens vedtekter. Slikt forbehold kan ikke få virkning for pensjoner som allerede er opptjent i pensjonsordningen på det tidspunkt forbeholdet blir tatt.
+Ved anvendelse av bestemmelsene i bokstav a) er det en forutsetning at det bare tas hensyn til folketrygdpensjon opptjent ved arbeidsinntekt som er pensjonsgivende i tjenestepensjonsordningen. Videre må angis når og hvordan pensjonen skal settes ned. Nedsettelse kan skje i følgende tilfelle:
+1) Pensjon før 70 år kan settes ned når pensjonisten samtidig har rett til pensjon fra folketrygden.
+2) Etterlattepensjon kan settes ned under hensyntagen til den gjenlevende ektefelles ervervsevne og ervervsmuligheter. Er det regnet med et ekstra pensjonstillegg til den etterlattes fylte 70 år for at tjenestepensjonsordningen skal kunne yte etterlattepensjon når folketrygdens pensjon settes ned eller faller bort på grunn av forventet ervervsinntekt, gjengifte eller av andre grunner, kan det ekstra pensjonstillegget settes ned eller falle bort i den utstrekning det ikke er nødvendig for å dekke manglende pensjon fra folketrygden.
+3) Tjenestepensjon kan settes ned når den tilleggspensjon fra folketrygden som det skal tas hensyn til kan beregnes mer nøyaktig enn tidligere anslått. Nedsettelse som nevnt kan likevel ikke skje når pensjonen allerede er begynt å løpe.
+4) Tjenestepensjon kan settes ned når den er fastsatt med utgangspunkt i bestemmelsen i siste punktum i forskriftene til § 6, punkt 1, bokstav a) og arbeidstaker på grunn av uførhet eller dødsfall godskrives pensjonspoeng i folketrygden for tiden etter den fastsatte pensjonsalder i tjenestepensjonsordningen.
+Det er heller ikke noe i veien for at tjenestepensjon ved utbetaling settes ned i den utstrekning det fra lovfestet tjenestepensjonsordning eller tariffestet pensjonsordning utbetales pensjon som det ikke har vært mulig å ta nøyaktig hensyn til ved pensjonsfastsettelsen.
+Pensjoner som ikke kommer til utbetaling på grunn av at det er tatt forbehold, godskrives premiefond eller pensjonsreguleringsfond.
+Det er ikke adgang til å ta forbehold om å sette ned løpende pensjon når folketrygdens grunnbeløp forhøyes. Det samme gjelder opptjent pensjon for fratrådt arbeidstaker.
+Punkt 3 og 4.
+For arbeidstakere som er opptatt i tjenestepensjonsordningen før 1. juli 1968 kan premiereserven utbetales kontant til fratrådt arbeidstaker i den utstrekning det var adgang til det etter de bestemmelser som gjaldt for vedkommende pensjonsordning pr. 30. juni 1968.
+Bestemmelsene i punkt 4 kan ikke komme til anvendelse for premiereserve en arbeidstaker har fått overført fra annen tjenestepensjonsordning.

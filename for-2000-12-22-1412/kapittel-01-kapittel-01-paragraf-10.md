@@ -1,0 +1,6 @@
+# § 10. Oppsamlingsfond
+1. Arbeidsgiver som ikke har opprettet fast tjenestepensjonsordning for vedkommende gruppe av arbeidstakere, kan inngå avtale med et livsforsikringsselskap om innbetaling til et oppsamlingsfond hvis midler skal danne grunnlag for opprettelse av en fast tjenestepensjonsordning.
+Fast tjenestepensjonsordning skal opprettes senest når fondets midler er tilstrekkelig til å dekke fem årspremier for pensjoner som utgjør 10 prosent av den enkelte arbeidstakers fulle tilleggspensjoner (alders- og etterlattepensjoner) i folketrygden – beregnet for 40 poengår og på grunnlag av den fulle lønn på beregningstidspunktet. Ved premieberegningen nyttes pensjonsalder 70 år, og pensjonene avkortes forholdsmessig ved kortere tjenestetid enn 40 år fra ansettelsen til pensjonsalderen.
+Den faste tjenestepensjonsordning som opprettes må være i samsvar med gjeldende Regler om private tjenestepensjonsordninger.
+2. Når fast tjenestepensjonsordning opprettes, skal midlene i oppsamlingsfondet overføres til et premiefond for ordningen og anvendes i samsvar med bestemmelsene i § 7.
+Dersom fast tjenestepensjonsordning ikke er opprettet innen tre år etter at fondet har nådd den i punkt 1, annet ledd, angitte størrelse, skal livsforsikringsselskapet underrette Finanstilsynet, som bestemmer hvordan midlene i fondet skal anvendes til pensjonsformål for arbeidstakerne.

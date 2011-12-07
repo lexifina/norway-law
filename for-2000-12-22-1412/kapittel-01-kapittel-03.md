@@ -1,0 +1,2 @@
+# Kapittel 3
+For pensjonsordning opprettet før lov av 24. mars 2000 nr. 16 om foretakspensjon er trådt i kraft gjelder følgende bestemmelser inntil regelverket for pensjonsordningen er endret i samsvar med kravene i lov om foretakspensjon § 2-1 tredje ledd, jf. § 16-2 og forskrift av 1. desember 2000 nr. 1212 til lov av 24. mars 2000 nr. 16 om foretakspensjon. Bestemmelsene tilsvarer reglene i tidligere forskrift av 9. mars 1994 nr. 166 om overføring av avkastning på pensjonskassers innskudd.

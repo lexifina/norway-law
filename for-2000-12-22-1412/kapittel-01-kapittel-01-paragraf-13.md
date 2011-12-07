@@ -1,0 +1,13 @@
+# § 13. Eiendomsrett til opptjent pensjon
+1. Den som omfattes av fast tjenestepensjonsordning har til enhver tid eiendomsrett til opptjent pensjon beregnet på grunnlag av den premiereserve som er oppsamlet for vedkommende ved årlig premiebetaling og ved dekning av naturlig premiereserve.
+Bestemmelsen i første ledd er ikke til hinder for at opptjent pensjon beregnes på grunnlag av det tidsrom medlemsskapet i pensjonsordningen med den til en hver tid fastsatte pensjon har vart, sett i forhold til tidsrommet inntil nådd pensjonsalder. Kapitalverdien av opptjent pensjon kan ikke overstige premiereserve som nevnt i første ledd.
+Bestemmelsene i første og annet ledd er ikke til hinder for at ytelsene settes ned forutsatt:
+a) at dette skjer i samsvar med den fastsatte pensjonsplan og som følge av at det kan gjennomføres en mer nøyaktig tilpasning til folketrygdens ytelser enn det har vært mulig å foreta ved premieberegningen, eller
+b) at det skjer slike vesentlige endringer i folketrygden at de forutsetninger som er lagt til grunn i pensjonsplanen ikke lenger er til stede. Sosialdepartementet avgjør om endringene er av en slik karakter at dette punkt kommer til anvendelse.
+Bestemmelsene i første og annet ledd er heller ikke til hinder for at det i forsikringsavtale eller vedtekter tas inn bestemmelser om nedsettelse av pensjonsytelsene dersom den pensjonsberettigede mottar sykepenger eller attføringspenger i henhold til lov, eller stønad fra alminnelig sykelønnsordning.
+2. For den som går inn under suppleringsfond, gjelder bestemmelsene i punkt 1 på tilsvarende måte, idet den for fondet gjeldende pensjonsplan legges til grunn ved beregning av størrelsen av den opptjente pensjon, jf. også § 9, punkt 2.
+3. For den som slutter i arbeidsgiverens tjeneste uten rett til straks begynnende pensjon, skal kapitalverdien av rettigheter etter punkt 1 og 2 nyttes til å sikre oppsatte ytelser i fast tjenestepensjonsordning eller ved individuell pensjonsforsikring. Finanstilsynet kan bestemme at pensjonskasse som nevnt i § 1, bokstav b skal inngå avtale med et livsforsikringsselskap om sikring av slike oppsatte ytelser.
+4. Bestemmelsene i punkt 3 i denne paragraf er ikke til hinder for at det i forsikringsavtale eller vedtekter fastsettes at kapitalverdien skal overføres til ordningens premiefond, eventuelt pensjonsreguleringsfond dersom
+a) kapitalverdien av pensjonsrettighetene er mindre enn en fjerdedel av folketrygdens grunnbeløp ved fratredelsen eller
+b) medlemstiden i pensjonsordningen er mindre enn 1/10 av det tidsrom som kreves for full pensjon.
+I tariffestet pensjonsordning som ikke har pensjonsreguleringsfond eller premiefond, skal midlene anvendes i samsvar med ordningens alminnelige formål.

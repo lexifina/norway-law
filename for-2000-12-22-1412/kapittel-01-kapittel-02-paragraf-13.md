@@ -1,0 +1,7 @@
+# § 16. Videreføring av tidligere overgangsregler
+Punkt 4.
+Tjenestepensjonsordning som er opprettet før 1. januar 1967 behøver ikke oppta nye medlemmer etter nevnte dato. Dette gjelder uansett pensjonsordningens omfang og hvilke ytelser den gir. Ved opptakelse av nye medlemmer etter 1. juli 1968 kommer bestemmelsene i § 4 til anvendelse for den eller de grupper av arbeidstakere pensjonsordningen omfatter.
+Arbeidstakere som er opptatt i vedkommende arbeidsgivers tjenestepensjonsordning før 1. januar 1967, eventuelt før 1. januar 1972 hvis nye medlemmer av samme arbeidstakergruppe opptas, kan også etter 1. januar 1972 sikres pensjoner etter en annen pensjonsplan enn den som gjelder for andre grupper av arbeidstakere som ikke omfattes av tjenestepensjonsordning opprettet før 1. januar 1967.
+Punkt 6 og 7.
+De supplerende pensjoner etter Reglenes § 16, punkt 6, tredje ledd, må være sikret i en fast tjenestepensjonsordning eller i et suppleringsfond. Hvis pensjonene dekkes ved terminpremier, kan det til betaling av arbeidsgiveravgift til folketrygden ikke anvendes større beløp enn at midlene i premiefondet til enhver tid er tilstrekkelige til å sikre de supplerende pensjonsytelser.
+Folketrygdens ytelser etter bestemmelsene i punkt 6, tredje ledd, og punkt 7, første ledd, skal minst utgjøre de pensjoner som beregnes på grunnlag av den fulle lønn i 1967 og grunnbeløp kr 5.400. Arbeidstakere som vil få 40 års tjenestetid eller mer i bedriften, må tilregnes fulle supplerende pensjonsytelser.

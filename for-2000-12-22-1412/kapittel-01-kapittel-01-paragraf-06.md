@@ -1,0 +1,12 @@
+# § 6. Forholdsmessighet mellom pensjonene i tjenestepensjonsordning
+1. Pensjonen skal i prinsippet fastsettes slik at det blir et rimelig forhold mellom de samlede pensjonsytelser – inklusive ytelser fra folketrygden – som de enkelte arbeidstakere er sikret når det tas hensyn til lønn og tjenestetid hos arbeidsgiveren. For øvrig skal pensjonene fastsettes etter følgende regler:
+a) Pensjonsplanen skal være den samme for alle arbeidstakere som går inn under tjenestepensjonsordningen. Det kan likevel fastsettes lavere pensjonsalder for en gruppe arbeidstakere enn for andre grupper, jf. § 5 punkt 3. Full alderspensjon før fylte 67 år for den førstnevnte gruppe må i tilfelle ikke settes lavere enn folketrygdens grunnbeløp.
+b) Dersom pensjonene beregnes i forhold til lønnen, skal pensjonsgivende lønn fastsettes etter samme prinsipper for alle arbeidstakere. Det kan likevel regnes med normerte pensjonsgrunnlag for en gruppe eller flere grupper arbeidstakere, forutsatt at dette ikke fører til vesentlige avvik fra det resultat man ville fått ved å bygge på den enkelte arbeidstakers faktiske lønn.
+c) De samlede pensjonsytelser – inklusive ytelser fra folketrygden – skal ikke utgjøre en større prosentdel av lønnen for en arbeidstaker med høyere lønn enn for en arbeidstaker med lavere lønn.
+d) Det skal settes som vilkår for å få fulle pensjonsytelser at arbeidstakeren har en tjenestetid av en viss lengde – minst 30 år – hos arbeidsgiveren. Ved kortere tjenestetid avkortes ytelsene fra pensjonsordningen forholdsmessig.
+e) Folketrygdens ytelser beregnes på grunnlag av gjeldende grunnbeløp og på grunnlag av hele eller en prosentvis del av den pensjonsgivende lønn. Det kan regnes med folketrygdens grunnpensjon for enslig uten hensyn til om vedkommende arbeidstaker er gift eller ugift. Ved beregningen av folketrygdens ytelser kan det helt eller delvis sees bort fra ventetillegg.
+2. Bestemmelsene i denne paragraf er ikke til hinder for
+a) at det regnes med fulle ytelser fra folketrygden også for arbeidstaker som på grunn av alder pr. 1. januar 1967 ikke kan opptjene full tilleggspensjon,
+b) at det ved fastsettelsen av pensjonene ses bort fra tjenestetid før pensjonsordningen ble opprettet,
+c) at det ved fastsettelsen av pensjonene tas hensyn til ytelser som tidligere er opptjent i annen pensjonsordning.
+3. Ved sammenslutning av bedrifter kan Finanstilsynet fravike bestemmelsene i denne paragraf.
