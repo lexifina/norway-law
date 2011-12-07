@@ -1,0 +1,11 @@
+# § 4. Tjenestepensjonsordningens omfang
+1. Pensjonsordningen, eventuelt kombinasjon av pensjonsordninger, skal omfatte alle arbeidstakere som er obligatorisk trygdet etter bestemmelsene i lov om folketrygd. Det kan likevel opprettes pensjonsordning som bare omfatter arbeidstakere hvis lønn overstiger et fastsatt beløp, forutsatt at vilkårene i § 6 er oppfylt. Bestemmelsene i første punktum er heller ikke til hinder for at det opprettes pensjonsordning bare for arbeidstakere som på grunn av alder pr. 1. januar 1967 ikke kan opptjene full tilleggspensjon i folketrygden.
+2. Bestemmelsene i punkt 1 er ikke til hinder for at det kan settes som alminnelige vilkår for opptakelse i pensjonsordningen at arbeidstakeren
+a) har en arbeidstid som utgjør minst halvparten av full arbeidstid i tilsvarende stilling. Det kan også settes som vilkår at en sesongarbeider bare skal opptas hvis vedkommende har arbeidet hos arbeidsgiveren minst 130 uker i løpet av de siste fem år og ikke mindre enn 20 uker i noe av disse år,
+b) har vært i arbeidsgiverens tjeneste en viss tid, høyst fem år. Arbeidstakere som har fylt 25 år skal likevel tas med i pensjonsordningen etter ett års tjeneste,
+c) ved opptakelse i pensjonsordningen har en viss tid igjen til pensjonsalderen, høyst ti år,
+d) er arbeidsfør. Er arbeidstakeren ikke arbeidsfør på det tidspunkt da han ellers skulle tas opp i pensjonsordningen, skal han tas opp når han blir arbeidsfør igjen,
+e) ikke går inn under annen tjenestepensjonsordning som arbeidsgiveren betaler premie eller avgift til og som gir ytelser av minst tilsvarende verdi.
+3. Pensjonsordningen kan ikke omfatte andre personer enn de som er nevnte i punkt 1, samt arbeidsgiver. Dog kan førtidspensjonerte bli stående i pensjonsordningen, forutsatt at medlemskapet opprettholdes for alle førtidspensjonerte. Tilsvarende gjelder for permitterte.
+Arbeidstakere som blir stående i tjenestepensjonsordningen etter bestemmelsen i første ledd kan sikres inntil samme pensjoner som vedkommende ville fått ved oppnådd pensjonsalder hvis førtidspensjonering/permittering ikke hadde funnet sted. Pensjonsgrunnlaget kan reguleres i takt med lønnsutviklingen for bedriftens arbeidstakere, folketrygdens grunnbeløp, konsumprisindeks o.l.
+Med samtykke av Finanstilsynet kan annen arbeidstaker enn nevnt i punkt 1 tas med i pensjonsordningen.

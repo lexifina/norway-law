@@ -1,0 +1,16 @@
+# § 6. Forholdsmessighet mellom pensjonene i tjenestepensjonsordning
+Kravet om forholdsmessighet mellom pensjonene er ikke til hinder for at arbeidstakere som er tatt med i pensjonsordningen, men som kunne ha vært holdt utenfor etter bestemmelsene i § 4, sikres lavere pensjonsytelser enn de øvrige arbeidstakere.
+Ved vurderingen av om det er et rimelig forhold mellom de samlede pensjonsytelser skal det bare tas hensyn til ytelser fra folketrygden i den utstrekning disse er opptjent ved lønn hos arbeidsgiveren (jf. forskriftene til punkt 1, første punktum).
+Ved anvendelse av bestemmelsene om forholdsmessighet mellom pensjonene vil det kunne bli ubetydelige pensjoner til enkelte eller til grupper av arbeidstakere. Bestemmelsene i § 6 er ikke til hinder for å yte en viss minstepensjon til disse arbeidstakerne. På den annen side kan det også avtales at det skal kunne ses bort fra minstepensjoner som er mindre enn 1/20 av folketrygdens grunnbeløp.
+Punkt 1, første punktum.
+I lønnen medregnes provisjon, akkordtillegg, akkordavsavnsgodtgjørelse, feriepenger svarende til lønnen i ferietiden og verdien av fritt hus og fri kost. Det kan herunder regnes med gjennomsnittsverdien av slike ytelser i de siste 3 år. Verdien av andre naturalytelser kan medregnes i den utstrekning de regnes som skattepliktig inntekt. Overtidsgodtgjørelse og andre varierende eller midlertidige tillegg kan det ses bort fra.
+Bokstav a).
+Kravet om at pensjonsplanen skal være den samme for alle, medfører at pensjonsplanen må omfatte de samme pensjonsarter for alle som går inn under ordningen. Reglene for fastsettelse av pensjonenes størrelse og vilkårene for rett til pensjon må være de samme for alle. Jf. likevel forskriftene til § 4, punkt 2 og § 5, punkt 2 b.
+Når det avtales forskjellig pensjonsalder for forskjellige grupper av arbeidstakere, kan oppdelingen i grupper skje på grunnlag av arbeidets art o.l. Ved opptakelse av arbeidstakere i pensjonsordningen etter 1. april 1982 kan det ikke benyttes forskjellig pensjonsalder på grunn av kjønn.
+For arbeidstakere med lavere pensjonsalder i tjenestepensjonsordningen enn i folketrygden kan folketrygdens pensjoner beregnes på grunnlag av opptjeningstid fram til pensjonsalderen i folketrygden. Dersom folketrygdens pensjoner beregnes på grunnlag av opptjeningstid fram til pensjonsalderen i tjenestepensjonsordningen, må dette skje for alle arbeidstakere med lavere pensjonsalder enn i folketrygden.
+Bokstav b).
+Dersom normerte pensjonsgrunnlag benyttes, må grunnlaget ikke avvike mer fra den enkelte arbeidstakers lønn enn halvparten av folketrygdens grunnbeløp. Folketrygdens ytelser må beregnes på grunnlag av det normerte beløp. Normerte pensjonsgrunnlag må vurderes og eventuelt justeres minst hvert annet år.
+Bokstav d).
+Fradrag for grunnpensjon og tilleggspensjon fra folketrygden skal utgjøre så stor del av fullt fradrag som svarer til pensjonsgivende tjenestetid i forhold til full tjenestetid.
+Bokstav e).
+Det kan ikke tas hensyn til fremtidig lønnsutvikling på annen måte enn at folketrygden anslås på grunnlag av en prosentvis del av lønnen, lik prosent for all lønn opp til den lønn som multiplisert med prosentsatsen er lik 8 ganger folketrygdens grunnbeløp.

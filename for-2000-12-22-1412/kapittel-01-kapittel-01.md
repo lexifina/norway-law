@@ -1,0 +1,2 @@
+# Kapittel 1
+For pensjonsordning opprettet før lov av 24. mars 2000 nr. 16 om foretakspensjon er trådt i kraft gjelder følgende bestemmelser inntil regelverket for pensjonsordningen er endret i samsvar med kravene i lov om foretakspensjon § 2-1 tredje ledd, jf. § 16-2 og forskrift av 1. desember 2000 nr. 1212 til lov av 24. mars 2000 nr. 16 om foretakspensjon. Bestemmelsene tilsvarer reglene i tidligere forskrift av 28. juni 1968 nr. 3 om private tjenestepensjonsordninger etter skatteloven § 44 første ledd, bokstav k.

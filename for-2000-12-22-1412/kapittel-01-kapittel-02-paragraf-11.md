@@ -1,0 +1,2 @@
+# § 14. Opphør av tjenestepensjonsordningen
+Innstiller arbeidsgiveren helt eller delvis sin virksomhet, kan Finanstilsynet gi pensjonsordningens styre en frist på ikke under 3 måneder til å overføre midlene til et livsforsikringsselskap til sikring av pensjonsrettigheter. Hvis fristen ikke overholdes, kan Finanstilsynet tre i styrets sted og forlange midlene overført til sikring av pensjonsrett som nevnt i § 13.

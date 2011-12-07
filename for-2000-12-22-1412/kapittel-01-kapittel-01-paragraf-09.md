@@ -1,0 +1,6 @@
+# § 9. Suppleringsfond
+1. Suppleringsfond kan bare ha til formål å yte alderspensjoner og uførepensjoner til personer som ikke kan opptjene fulle tilleggspensjoner i folketrygden, og pensjoner til deres etterlatte ektefeller. Arbeidstakerne må ikke være medlemmer av fast tjenestepensjonsordning som arbeidsgiveren betaler premie til.
+Senest når fondets kapital har nådd en størrelse som svarer til folketrygdens grunnbeløp multiplisert med antall personer som fondet omfatter, skal pensjonsutbetaling ta til. Fondets styre skal på grunnlag av forsikringsteknisk beregning utarbeide en pensjonsplan som fremlegges for Finanstilsynet til godkjennelse.
+Når fondets kapital etter forsikringsteknisk beregning antas tilstrekkelig til å dekke en forhøyelse på 50 prosent av de pensjoner som er fastsatt i pensjonsplanen, jf. annet ledd, skal pensjonsplanen revideres. Ytterligere revisjon skal senest skje etter hvert som fondet har midler til nye forhøyelser av pensjonene med 50 prosent.
+Arbeidsgiver kan bestemme at pensjonen til den enkelte skal fastsettes bare på grunnlag av tilskudd ytet til tjenestepensjonsfondet mens arbeidstakeren var i tjeneste hos arbeidsgiveren.
+2. Dersom arbeidstakeren betaler tilskudd til fondet, skal han og hans etterlatte ha eiendomsrett til minst de tilskudd som han selv har betalt og til et like stort beløp av arbeidsgiverens tilskudd.
