@@ -1,0 +1,3 @@
+# § 4. Oppgaveregisterets funksjoner
+Oppgaveregisteret skal utføre de funksjoner som fremgår av oppgaveregisterloven og denne forskriften samt andre oppgaver som har naturlig sammenheng med disse, herunder å være høringsinstans ved forslag om regelendringer som kan innebære nye eller endringer i eksisterende oppgaveplikter. Gjennom sitt samordningsarbeid skal Oppgaveregisteret søke å oppnå en reduksjon i de oppgaveplikter som påligger næringslivet.
+Oppgaveregisteret skal for øvrig bistå oppgaveinnhenter med råd om utforming av oppgaveplikter og utøve informasjonsvirksomhet overfor disse, næringsdrivende og andre.
