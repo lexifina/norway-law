@@ -9,7 +9,7 @@ I reguleringsplan kan det i nødvendig utstrekning gis bestemmelser til arealfor
 7) trafikkregulerende tiltak og parkeringsbestemmelser for bil og sykkelparkering, herunder øvre og nedre grense for parkeringsdekning,
 8) krav om tilrettelegging for forsyning av vannbåren varme til ny bebyggelse, jf. § 27-5,
 9) retningslinjer for særlige drifts- og skjøtselstiltak innenfor arealformålene nr. 3, 5 og 6 i § 12-5,
-10) krav om særskilt rekkefølge for gjennomføring av tiltak etter planen, og at utbygging av et område ikke kan finne sted før tekniske anlegg og samfunnstjenester som energiforsyning, transport og vegnett, helse- og sosialtjenester, barnehager, friområder, skoler mv. er tilstrekkelig etablert,
+10) krav om særskilt rekkefølge for gjennomføring av tiltak etter planen, og at utbygging av et område ikke kan finne sted før tekniske anlegg og samfunnstjenester som energiforsyning, transport og vegnett, sosiale tjenester, helse- og omsorgstjenester, barnehager, friområder, skoler mv. er tilstrekkelig etablert,
 11) krav om detaljregulering for deler av planområdet eller bestemte typer av tiltak, og retningslinjer for slik plan,
 12) krav om nærmere undersøkelser før gjennomføring av planen, samt undersøkelser med sikte på å overvåke og klargjøre virkninger for miljø, helse, sikkerhet, tilgjengelighet for alle, og andre samfunnsinteresser, ved gjennomføring av planen og enkelttiltak i denne,
 13) krav om fordeling av arealverdier og kostnader ved ulike felles tiltak innenfor planområdet i henhold til jordskifteloven § 2 bokstav h, jf. § 5 andre ledd,
