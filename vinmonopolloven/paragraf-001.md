@@ -1,0 +1,4 @@
+# § 1
+Fra utløpet av Aktieselskapet Vinmonopolets konsesjon den 30 juni 1932 blir ny konsesjon å meddele selskapet inntil videre med ett års opsigelse og på de vilkår som er foreskrevet i nærværende lov.
+De aktionærer som ikke vil være undergitt disse vilkår kan ved den nu gjeldende konsesjons utløp – mot transport av sine aktiebrev – få sine aktier innløst av staten mot å få utbetalt sitt aktieinnskudd med 6 procent årlig utbytte til 30 juni 1932 og senere med 4 procent årlig rente til innløsningsdagen, dog ikke ut over 31 desember 1932. Aktionærer som ikke senest den sistnevnte dag har forlangt innløsning av sine aktier, er undergitt de i nærværende lov fastsatte vilkår.
+Om disse bestemmelser skal selskapet så vidt mulig underrette hver enkelt aktionær i anbefalt brev innen 31 mars 1932.
