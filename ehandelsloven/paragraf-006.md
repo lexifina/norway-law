@@ -7,5 +7,5 @@ d) ufravikelige formkrav for avtaler som stifter eller overfører rettigheter i 
 e) immaterielle rettigheter,
 f) elektronisk sending av uanmodet reklame,
 g) markedsføring av andeler i verdipapirfond, jf. lov 12. juni 1981 nr. 52 om verdipapirfond,
-h) utstedelse av elektroniske penger av en institusjon som går inn under et unntak i lov om e-pengeforetak § 1-2, og
+h) 
 i) forsikringsvirksomhet som er unntatt i henhold til forskrift fastatt av departementet.
