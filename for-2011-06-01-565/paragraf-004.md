@@ -1,0 +1,6 @@
+# § 4. Forhold som gir rett til dagpenger til fiskere og fangsfolk uten fartøytilknytning
+Fiskere og fangstfolk som ikke er tilsatt på fartøy, og som er disponible for arbeidsmarkedet, har rett til dagpenger når:
+a) det foreligger en skriftlig oppsigelse fra båteier eller høvedsmann på det fartøyet hvor vedkommende sist var tilsatt. Dersom fiskere og fangstfolk blir oppsagt på grunn av fangststopp som følge av reguleringer, sesongavslutning eller leveringsvansker, vil vedkommende ha rett til dagpenger etter en karenstid på 4 uker fra søknadstidspunktet.
+b) vedkommende ikke kommer på fiske eller fangst og har meldt seg ledig etter avsluttet militærtjeneste, sykdom, salg eller kondemnering av fartøy.
+Dersom fiskere eller fangstfolk har sagt opp eller sluttet uten rimelig grunn, eller er avskjediget eller oppsagt på grunn av forhold som kan bebreides vedkommende, kan dagpenger tilstås etter en karenstid på 8 uker fra den dag vedkommende søker om dagpenger.
+Første ledd gjelder ikke for båteiere eller enefiskere. Som båteier regnes den som har en eierandel på over 50 % i fartøyet. Personer med lavere eierandel er å anse som båteier dersom vedkommende disponerer fartøyet. Garantikassen for fiskere kan ved salg eller kondemnering av fiskefartøy, likevel innvilge dagpenger til båteiere og enefiskere etter en karenstid på 8 uker fra den dag vedkommende søker.
