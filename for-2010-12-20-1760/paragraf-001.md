@@ -1,0 +1,3 @@
+# § 1. (saksbehandlingsgebyr etter lov om havner og farvann)
+Kommunen kan i forskrift fastsette gebyr for behandling av søknad om tillatelse etter lov 17. april 2009 nr. 19 om havner og farvann § 27 første ledd. Gebyret skal ikke overstige kommunens nødvendige kostnader knyttet til behandling av søknad om tillatelse. Det kan ikke ilegges gebyr for behandling av klage over vedtak.
+Kommunens myndighet etter denne forskrift kan delegeres til interkommunalt samarbeid, jf. lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven), og til selskap etablert i henhold til lov 29. januar 1999 nr. 6 om interkommunale selskaper.
