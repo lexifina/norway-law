@@ -1,0 +1,2 @@
+# § 13
+Selskapet skal ha en kontrollkomité med tre medlemmer og tre varamedlemmer som for to år av gangen velges av og blant de medlemmer av bedriftsforsamlingen som oppnevnes av Kongen. Ett av medlemmene oppnevnes som leder. Bedriftsforsamlingen velger også 3 varamedlemmer. Kontrollkomiteen fører tilsyn med A/S Vinmonopolets virksomhet. Instruks for kontrollkomiteen fastsettes av bedriftsforsamlingen.

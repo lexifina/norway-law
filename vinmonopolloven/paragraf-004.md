@@ -1,0 +1,4 @@
+# § 4
+Av det årlige driftsoverskudd blir, efterat avskrivninger og avsetninger har funnet sted, å utbetale indtil 5 procent årlig av aktiekapitalen som utbytte til aktionærene. Restoverskuddet behandles overensstemmende med de til enhver tid gjeldende bestemmelser i lovgivningen om innførsel og omsetning av brennevin, vin, fruktvin, mjød og øl.
+Skulde selskapets overskudd noe år ikke være tilstrekkelig til utbetaling av 5 procent utbytte til aktionærene, skal staten skyte til det manglende. Aktionærene skal av staten også være sikret å få sitt aktieinnskudd tilbakebetalt ved opløsning av selskapet.
+Staten skal etter 30 juni 1932 ha rett til når som helst å innløse aksjene etter minst 3 måneders varsel, bekjentgjort 2 ganger i Norsk lysingsblad, mot at aksjonærene får tilbakebetalt aksjeinnskuddet med det bestemte utbytte til den fastsatte innløsningsdag.
