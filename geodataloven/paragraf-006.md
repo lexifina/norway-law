@@ -1,0 +1,3 @@
+# § 6. Deling av geodata
+Deltakende virksomheter skal gjennomføre nødvendige tiltak for å dele spesifiserte geodata gjennom en felles infrastruktur for geografisk informasjon. Tiltakene skal gjøre det mulig for deltakende virksomheter å få tilgang til, utveksle og bruke geodatasett og geodatatjenester.
+Departementet kan i forskrift gi nærmere bestemmelser om deling av spesifiserte geodata, organisering og regulering av samarbeidet om delingen av geodata, herunder om betaling mellom deltakende virksomheter, overvåking av den geografiske infrastrukturen og rapportering om gjennomføringen av loven.

@@ -1,0 +1,3 @@
+# § 2. Virkeområde
+Loven gjelder for virksomheter i riket, herunder Jan Mayen. Kongen kan gi forskrifter om lovens anvendelse for virksomheter på Svalbard og i de norske bilandene.
+Loven gjelder for spesifiserte geodata i elektronisk form og tilhørende geodatatjenester som vedrører norsk landterritorium, herunder Svalbard og Jan Mayen, de norske bilandene, norsk territorialfarvann, norsk kontinentalsokkel og havområder opprettet med hjemmel i lov 17. desember 1976 nr. 91 om Norges økonomiske sone §§ 1 og 5. Departementet kan i forskrift gi nærmere bestemmelser om hvilke geodata og geodatatjenester som omfattes, herunder om dataenes saklige og geografiske avgrensning.
