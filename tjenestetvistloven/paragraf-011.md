@@ -1,0 +1,3 @@
+# § 11
+Ved tariffavtale forstår denne lov en skriftlig avtale mellom staten på den ene side og en hovedsammenslutning, tjenestemannsorganisasjon eller annen organisasjon som nevnt i § 3 på den annen side om lønns- og arbeidsvilkår. En hovedtariffavtale er en tariffavtale om generelle lønns- og arbeidsvilkår. En særavtale er en tariffavtale om lønns- og arbeidsvilkår som ikke omfattes av en hovedtariffavtale.
+Innen en uke etter at en tariffavtale er underskrevet, skal den registreres i det departement som statens lønnssaker hører under. Avskrift eller elektronisk versjon av tariffavtalen sendes innen 2 uker etter nevnte tidspunkt til riksmekleren.

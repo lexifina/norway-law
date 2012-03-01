@@ -1,0 +1,4 @@
+# § 23
+Har medlemmer av en hovedsammenslutning, tjenestemannsorganisasjon eller annen organisasjon som nevnt i § 3 brutt en tariffavtale eller gjort seg skyldig i ulovlig arbeidsstans, er så vel sammenslutningen eller organisasjonen som medlemmene erstatningsansvarlige. Sammenslutningens eller organisasjonens ansvar inntrer dog bare når den selv er skyld i bruddet eller i fortsettelsen av det tariffstridige forhold eller den ulovlige arbeidsstans.
+Dersom medlemmer av en hovedsammenslutning, tjenestemannsorganisasjon eller annen organisasjon som nevnt i § 3 gjør seg skyldig i ulovlig arbeidsstans, gjelder bestemmelsen i første ledds første punktum tilsvarende for andre tjenestemenn som deltar i den ulovlige arbeidsstans.
+Arbeidstvistloven §§ 10 og 45 sjuende ledd får tilsvarende anvendelse.
