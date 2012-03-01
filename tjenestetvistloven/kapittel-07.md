@@ -1,0 +1,1 @@
+# Syvende kapitel. Rikslønnsnemnda.

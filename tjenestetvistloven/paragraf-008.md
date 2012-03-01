@@ -1,0 +1,2 @@
+# § 8
+De nærmere bestemmelser om utøvelse av forhandlingsretten – herunder om antall av møtende representanter – gis av Kongen i fellesreglement for samtlige administrasjonsgrener. Hvis spesielle forhold i enkelte administrasjonsgrener gjør det nødvendig, kan det for disse fastsettes særskilte reglementer. Før et reglement utferdiges, skal det på forhånd forhandles om det med vedkommende hovedsammenslutninger eller organisasjoner.
