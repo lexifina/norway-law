@@ -1,0 +1,2 @@
+# § 4. Fornærmede, etterlatte og deres representanters deltakelse i rettsmøte ved fjernmøte eller mottak av lyd- og bildeoverføring
+Bestemmelsene i § 1 til § 3 gjelder tilsvarende så langt de passer for fornærmede, etterlatte og deres representanters deltakelse ved fjernmøte eller ved mottak av lyd- og bildeoverføring når retten har besluttet deltakelse som nevnt i straffeprosessloven § 93c andre ledd første punktum.
