@@ -1,0 +1,2 @@
+# § 3. Vilkår for bruk av produktbetegnelsen
+Parmigiano Reggiano skal produseres, bearbeides, foredles, merkes, pakkes og omsettes i samsvar med bestemmelsene i forordning (EF) nr. 1107/96 om beskyttelse av betegnelsen, jf. produktspesifikasjonen som endret ved forordning (EF) nr. 1571/2003 og forordning (EU) nr. 794/2011 og Single document slik det fremgår av Official Journal OJ C 87, 16.4.2009, s. 14 som korrigert i OJ C 215, 21.7.2011, s. 34.
