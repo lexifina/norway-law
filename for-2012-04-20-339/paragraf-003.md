@@ -1,0 +1,2 @@
+# § 3. Vilkår for bruk av produktbetegnelsen
+Prosciutto di Parma skal produseres, bearbeides, foredles, merkes, pakkes og omsettes i samsvar med bestemmelsene i forordning (EF) nr. 1107/96 om beskyttelse av betegnelsen, jf. produktspesifikasjonen 14. juli 1992 som endret ved forordning (EF) nr. 102/2008 og forordning (EU) nr. 148/2010 og Single document slik det fremgår av vedlegg II i forordning (EU) nr. 148/2010.
