@@ -1,1 +1,1 @@
-# Kapittel 9. Straff og sivilrettslige sanksjoner
+# Kapittel 9 Straff
