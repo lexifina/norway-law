@@ -1,0 +1,2 @@
+# § 7. Vedtak om utvisning
+Ved endelig vedtak om utvisning fra riket faller medlemskapet i folketrygden bort, se folketrygdloven § 2-1 og § 2-2. Tilståelse, beregning og utbetaling av pensjon skjer da etter reglene for personer uten trygdemessig tilknytning til Norge, likevel slik at § 6 gjelder tilsvarende når stønadstilfellet inntrer etter utvisningsvedtaket, men før vedkommende har forlatt riket.
