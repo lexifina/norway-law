@@ -1,0 +1,7 @@
+# § 3. Vilkår for bruk av produktbetegnelsen
+Høgfjellslam fra Nord-Gudbrandsdal er kjøtt av lam som gjennom beitesesongen har beita i høgfjellet i Nord-Gudbrandsdalen. Betegnelsen omfatter ferske og fryste skrotter og stykningsdeler.
+Lam som omfattes av betegnelsen Høgfjellslam fra Nord-Gudbrandsdal skal være produsert i kommunene Dovre, Lesja, Lom, Sel, Skjåk og Vågå. En vesentlig del av beiteområdene skal ligge høyere enn 800 moh. innenfor det nevnte geografiske området.
+Som råvare til Høgfjellslam fra Nord-Gudbrandsdal skal det brukes lam av sau som beiter i Nord-Gudbrandsdal, herunder norsk kvit sau, norsk pelssau, spælsau, sjeviot, gammelnorsk sau, suffolk, dalasau og rygjasau.
+Lammene skal slippes på beite så snart beitet i fjellet vurderes å være tilfredsstillende. Dyra skal beite minimum i 11 uker i beiteområder beliggende over 800 moh. Beitingen skal dokumenteres. Hovedsanking av dyra skal skje innen midten av september. Lammene skal veies rett etter hovedsankingen, og slaktemodne lam skal leveres til slakting så raskt som mulig.
+Ved innmelding av lam til slakteriet får rettmessige brukere tilsendt egne signalmerker som skal festes i øre til lammene. Merket skal følge skrotten under slaktingen og fram til endelig klassifisering. Bare lam som blir klassifisert innunder kjøttklassene E til O og fettgruppe 1 til 3+, skal godkjennes for bruk av betegnelsen Høgfjellslam fra Nord-Gudbrandsdal.
+Høgfjellslam fra Nord-Gudbrandsdal kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
