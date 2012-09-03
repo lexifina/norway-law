@@ -1,0 +1,2 @@
+# § 2. Ansvar for gjennomføring
+Luftfartstilsynet fører tilsyn med at forordning (EF) nr. 261/2004 følges for så vidt gjelder flygninger fra lufthavner på norsk territorium og flygninger fra en tredjestat til slike lufthavner. I dette arbeidet kan Luftfartstilsynet benytte seg av beføyelsene nevnt i luftfartsloven § 10-42 og § 13a-5. Overtredelsesgebyr som nevnt i luftfartsloven § 13a-5 første ledd nr. 6 kan ilegges for brudd på forordningens artikler 4, 5, 6, 7, 8, 9, 10, 11 og 14.
