@@ -1,0 +1,3 @@
+# § 1. Gjennomføring av bestemmelser i EØS-avtalen
+EØS-avtalen vedlegg XIII nr. 68ab (forordning (EF) nr. 261/2004) om fastsettelse av felles regler for erstatning og assistanse til passasjerer ved nektet ombordstigning og ved innstilt eller vesentlig forsinket flyging samt om oppheving av forordning (EØF) nr. 295/91 gjelder som forskrift med de tilpasninger som følger av vedlegget selv, protokoll 1 til avtalen og avtalen for øvrig.
+Under henvisning til artikkel 18 i forordning (EF) nr. 261/2004, oppheves forskrift 15. juli 1994 nr. 691 om gjennomføring og håndheving av EØS-avtalen på luftfartens område § 1 nr. 9.
