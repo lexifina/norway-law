@@ -1,0 +1,2 @@
+# § 3
+Bokføringspliktige kan velge ikke å ta i bruk endringene i bokføringsloven § 5 annet ledd nytt nr. 3, § 6 tredje ledd og § 13 første ledd nr. 3 og 7 før første regnskapsår påbegynt etter 31. desember 2012. Bokføringspliktige som benytter seg av valgmuligheten etter første punktum skal følge bestemmelsene i § 6 annet ledd og § 13 første ledd nr. 3 og 7 slik de lyder før endringene etter lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m.
