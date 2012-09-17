@@ -1,0 +1,2 @@
+# § 5
+Adgangen til å erstatte oppbevaring av spesifikasjoner av pliktig regnskapsrapportering med bokførte opplysninger som er nødvendig for å kunne utarbeide slike spesifikasjoner etter bokføringsloven § 13 nr. 2, gjelder for regnskapsår påbegynt etter 31. desember 2012 og for tidligere regnskapsår hvor den bokføringspliktige hadde regnskapssystem som oppfylte kravene til funksjonalitet for lukking av regnskapsperioder etter § 7-6 i forskrift 1. desember 2004 nr. 1558 om bokføring.
