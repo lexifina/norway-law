@@ -1,0 +1,4 @@
+# § 7. Overlatelsesmedvirkning
+Blir person med førerett domfelt for overtredelse av fritids- og småbåtloven § 37, jf. § 35, for å ha overlatt bruk av fritidsbåt til person som er påvirket av alkohol eller annet berusende eller bedøvende middel, bør tap av førerett fastsettes med inntil samme lengde som den tapsperioden som er fastsatt for den aktuelle båtfører.
+Tilfellene må undergis en konkret vurdering på grunnlag av hvilken grad av skyld som er utvist ved overtredelsen.
+Blir eier av fritidsbåt, eller den som på eierens vegne har rådighet over den, ilagt straff etter fritids- og småbåtloven § 37, jf. § 35, for å ha overlatt fritidsbåt til person som ikke fyller vilkårene for føring av fritidsbåt av andre grunner enn nevnt i første ledd, og vedkommende under føring av fritidsbåten forårsaker betydelig skade på person, fartøy, miljø eller materielle verdier eller umiddelbar fare for det, bør tap av førerett fastsettes for minst 1 år.

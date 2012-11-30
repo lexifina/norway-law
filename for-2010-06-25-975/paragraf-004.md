@@ -1,0 +1,6 @@
+# § 4. Tap av førerett ved grove overtredelser
+Grove overtredelser etter fritids- og småbåtloven § 28a annet ledd gir grunnlag for tap av førerett
+a) når retten domfeller person med førerett for brudd på fritids- og småbåtloven § 28, jf. § 24, for uaktsom navigering, herunder hastighetsovertredelser, og uaktsomheten er grov og har medført tap av menneskeliv, betydelig skade på person, fartøy, miljø eller materielle verdier eller umiddelbar fare for slike skader foreligger
+b) når retten domfeller person med førerett for grove straffbare handlinger hvor det er en klar sammenheng mellom bruken av båtførerbevispliktig fritidsbåt og den straffbare handlingen, skal det samtidig vurderes tap av førerett. Det skal foretas en skjønnsmessig helhetsvurdering av om allmenne hensyn ut fra de konkrete forhold i saken krever fastsettelse av tap av førerett, herunder også forholdsmessigheten av det inngrep tap av førerett vil innebære. Utmålingsreglene for førerkort for motorvogn legges til grunn så langt de passer
+c) når retten domfeller person med førerett for brudd på straffeloven § 314 for å ha unnlatt å yte nødvendig hjelp når det kan skje uten særlig fare for eget fartøy eller personer om bord der
+d) når retten domfeller person med førerett for brudd på fritids- og småbåtloven § 37, jf. § 33, for påvirkning av alkohol eller annet berusende eller bedøvende middel.

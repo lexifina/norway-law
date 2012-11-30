@@ -1,0 +1,2 @@
+# § 6. Føring i påvirket tilstand ved manglende edruelighet
+Dersom føring av båt i påvirket tilstand antas å ha sammenheng med mangel på alminnelig edruelighet, slik at vedkommende ikke kan anses skikket til å føre båtførerbevispliktig fritidsbåt, bør det vurderes om tap av førerett skal fastsettes til å gjelde for fem år, selv om overtredelsen isolert sett ikke kvalifiserer til en så streng reaksjon.

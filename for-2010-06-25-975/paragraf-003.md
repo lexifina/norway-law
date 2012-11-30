@@ -1,0 +1,6 @@
+# § 3. Tap av førerett – helhetlig vurdering
+Taper en person retten til å føre båtførerbevispliktig fritidsbåt etter fritids- og småbåtloven kapittel 3 A i over ett år skal det legges vekt på alle omstendighetene omkring det foreliggende forhold, på eventuelle tidligere forhold, og på den virkning tap av føreretten antas å ville få for innehaveren.
+For personer som har kvalifikasjonsbevis etter forskrift 3. mars 2009 nr. 259 om minstealder og båtførerbevis mv. for fører av fritidsbåt, skal tap av førerett ilegges som kjøreforbud. Det samme gjelder for personer som ikke har fast bopel i Norge og for personer med utenlandsk kompetansebevis.
+Ved fastsettelse av tap av førerett i dom eller forelegg skal det gis opplysning om hvor lang tid tapet av føreretten gjelder. Fristen regnes fra den dagen dommen eller forelegget er rettskraftig. Har båtførerbeviset vært beslaglagt i henhold til fritids- og småbåtloven § 28a femte ledd eller det er innlevert tapsmelding før dommen eller forelegget er rettskraftig, skal denne perioden gå i fradrag.
+Det skal opplyses at båtførerbeviset skal innleveres straks dommen eller forelegget er rettskraftig, og at føring av båtførerbevispliktig fritidsbåt i tapsperioden kan føre til forlenget tapsperiode.
+Taper en person retten til båtførerbevis skal internasjonalt båtførersertifikat inndras samtidig med båtførerbeviset.
