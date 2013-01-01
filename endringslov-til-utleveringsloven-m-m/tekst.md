@@ -1,0 +1,11 @@
+# VI
+I lov 15. april 2011 nr. 11 om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs datalagringsdirektiv i norsk rett) gjøres følgende endringer i avsnitt I om endringer i lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker:
+§ 203 annet ledd oppheves.
+§ 210 første ledd tredje punktum oppheves.
+I endringen av § 210 b skal nytt sjette ledd lyde:
+Ved anmodning fra fremmed stat om rettslig hjelp til utlevering av trafikkdata som nevnt i første ledd, gjelder § 216 a fjerde til sjette ledd tilsvarende.
+I endringen av § 210 c skal annet ledd lyde:
+§ 210 b annet til sjette ledd gjelder tilsvarende.
+# VII
+1) Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+2) Kongen kan gi nærmere overgangsregler.
