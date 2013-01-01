@@ -1,0 +1,3 @@
+# § 34. Tidligere enkeltvedtak om intervaller for periodisk kontroll
+Tidligere enkeltvedtak om intervaller for periodisk kontroll av transportabelt trykkutstyr, fastsatt med hjemmel i lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk, eller lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver, eller i forskrifter gitt i medhold av disse, oppheves med virkning fra 1. januar 2015.
+Dersom fristen for gjennomføring av førstkommende periodiske kontroll for det enkelte transportable trykkutstyret, i henhold til enkeltvedtaket, faller senere enn 1. januar 2015, oppheves vedtaket når denne fristen er forfalt

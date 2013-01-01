@@ -1,0 +1,4 @@
+# § 13. Distributørens plikter knyttet til tekniske krav, merking og dokumentasjon
+Distributør skal sørge for at transportabelt trykkutstyr som bringes i omsetning, er i samsvar med ADR/RID og denne forskrift, og skal før det bringes i omsetning, forsikre seg om at det er pi-merket og fulgt av samsvarssertifikat og importørens kontaktadresse etter § 10 tredje ledd.
+Distributør skal sikre at transport- og oppbevaringsbetingelsene for transportabelt trykkutstyr, er slik at utstyrets samsvar med ADR/RID ikke blir satt i fare.
+Distributør er underlagt de samme forpliktelser som produsenten, dersom han bringer i omsetning transportabelt trykkutstyr under sitt navn eller varemerke, eller gjør endringer i slikt utstyr som er brakt i omsetning, på en slik måte at etterlevelsen av gjeldende krav kan bli berørt.
