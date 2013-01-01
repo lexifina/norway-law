@@ -1,0 +1,7 @@
+# § 14-12 b. Opplysningsplikt og innsynsrett ved leie av arbeidstaker fra bemanningsforetak
+(1) Ved leie av arbeidstaker skal innleier gi bemanningsforetaket de opplysninger som er nødvendige for at bemanningsforetaket skal kunne ivareta kravet om likebehandling i § 14-12 a.
+(2) Bemanningsforetaket skal, når arbeidstaker ber om det, gi de opplysninger som er nødvendige for at arbeidstaker skal kunne vurdere om egne lønns- og arbeidsvilkår oppfyller kravet om likebehandling i § 14-12 a.
+(3) Bemanningsforetaket skal, når innleier ber om det, dokumentere hvilke lønns- og arbeidsvilkår som er avtalt med arbeidstaker som leies ut til innleier.
+(4) Innleier skal, når tillitsvalgte hos innleier ber om det, dokumentere hvilke lønns- og arbeidsvilkår som er avtalt mellom innleid arbeidstaker og dennes arbeidsgiver.
+(5) Plikten til å gi opplysninger etter tredje og fjerde ledd gjelder bare vilkår som nevnt i § 14-12 a første ledd. Bemanningsforetak, innleier og tillitsvalgte som mottar opplysninger i medhold av bestemmelsen her, har taushetsplikt om opplysningene. Opplysningene kan bare benyttes til å sikre eller undersøke overholdelse av kravet om likebehandling i § 14-12 a eller til å oppfylle plikter etter bestemmelsen her.
+(6) Departementet kan i forskrift gi nærmere regler om innsynsrett, opplysningsplikt og taushetsplikt etter denne paragraf, samt om taushetsplikt for innleide arbeidstakere. Departementet kan i forskrift også gi regler om eventuell bruk av rådgivere og taushetsplikt for disse.
