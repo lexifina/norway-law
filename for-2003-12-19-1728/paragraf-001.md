@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Kommunen dekker helsepersonells utgifter til transport når helsepersonell må reise til pasienter for å foreta undersøkelse eller behandling som det gis stønad til etter folketrygdloven kapittel 5. Dette gjelder imidlertid ikke utgifter til transport for spesialister som har driftsavtale med regionalt helseforetak jf. annet ledd. Kommunen dekker også utgifter til transport dersom behandling gis av ansatt i kommunens helse- og omsorgstjeneste herunder hjemmesykepleie, helsestasjon og familievernkontor.
+De regionale helseforetak dekker transportutgifter til helsepersonell ansatt i det regionale helseforetaket, herunder spesialister som har driftsavtale med regionalt helseforetak jf. folketrygdloven § 5-4 og § 5-7.
