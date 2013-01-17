@@ -1,0 +1,4 @@
+# § 7. Utlevering og inntak av legemidler
+Lege i spesialisthelsetjenesten beslutter individuelle utleveringsordninger for legemidler til bruk i legemiddelassistert rehabilitering. Ved valg av utleveringsordning kan det legges vekt på behovet for å sikre en forsvarlig behandling av pasienten, forhindre at legemidlene inntas i strid med legens rekvirering eller at legemidlene blir gjort tilgjengelige for andre enn pasienten selv.
+Lege i spesialisthelsetjenesten kan videre beslutte at legemidlet skal inntas under påsyn av helsepersonell når dette er nødvendig for å sikre en forsvarlig behandling av pasienten, eller det er nødvendig for å forhindre at legemidlene inntas i strid med legens rekvirering eller at legemidlene blir gjort tilgjengelige for andre enn pasienten selv.
+Beslutninger som nevnt i første og annet ledd kan overlates til allmennlege i primærhelsetjenesten.

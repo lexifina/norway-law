@@ -1,0 +1,3 @@
+# § 8. Urinprøver, blodprøver og prøver av annet biologisk materiale
+Lege i spesialisthelsetjenesten kan beslutte at pasienten skal avlegge urinprøve, blodprøve og prøver av annet biologisk materiale. Formålet med prøvene skal være å få oversikt over pasientens legemiddelinntak og rusmiddelbruk mens pasienten er i legemiddelassistert rehabilitering. Hyppigheten av prøvetakingen skal begrenses til det som er nødvendig for å sikre en faglig forsvarlig oppfølging av pasienten. Det kan besluttes at prøvene skal avlegges under påsyn.
+Beslutninger som nevnt i første ledd kan overlates til allmennlege i primærhelsetjenesten.
