@@ -1,0 +1,4 @@
+# § 7. Saksbehandlingen
+Krav om erstatning fremsettes for Norsk pasientskadeserstatning. Norsk pasientskadeserstatning foretar de undersøkelser som kravet gir grunn til. Om nødvendig innhentes sakkyndige uttalelser. Saken forelegges deretter for Pasientskadenemnda til behandling.
+Pasientskadenemnda treffer avgjørelse ved alminnelig flertall. Ved stemmelikhet er lederens stemme avgjørende. Nemnda er beslutningsdyktig når fire medlemmer er til stede. Departementet kan gi nærmere regler om saksbehandlingen i Nemnda.
+Nemnda kan delegere avgjørelsesmyndighet til sitt sekretariat i Norsk pasientskadeserstatning etter nærmere regler fastsatt av departementet. Blir erstatningskravet avgjort av sekretariatet, kan pasienten klage til Pasientskadenemnda. Bestemmelsene i lov 10. februar 1967 om behandling i forvaltningssaker (forvaltningsloven) kapittel VI gjelder tilsvarende så langt de passer.

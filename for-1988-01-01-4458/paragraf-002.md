@@ -1,0 +1,2 @@
+# § 2. Erstatningens omfang
+Erstatning ytes ved fysisk skade forårsaket av undersøkelse, diagnostikk, behandling, pleie eller informasjonssvikt, med mindre tilfellet faller inn under begrensningene i § 3. Det gis også erstatning når skaden er en følge av infeksjon eller teknisk svikt ved medisinsk utstyr. Erstatning ytes dessuten ved skader som følger av en ulykke av annen art som sykehuset svarer for etter de alminnelige erstatningsregler.
