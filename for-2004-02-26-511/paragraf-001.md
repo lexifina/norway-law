@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med forskriften er å regulere unntak fra hovedregelen om godkjenning fra departementet ved overføring av biobankmateriale til utlandet. Unntak kan gjøres når det av hensyn til alminnelig internasjonalt samarbeid synes forsvarlig og hensiktsmessig, og biobankmaterialet utnyttes til individets og samfunnets beste. Forskriften skal sikre at slik overføring av biobankmateriale over landegrensene skjer innenfor betryggende rammer.
