@@ -1,0 +1,2 @@
+# § 5. Nærmere om utilbørlighets vurderingen etter § 2
+Vurderingen av om en ytelse er egnet til å påvirke helsepersonellets tjenstlige handlinger på en utilbørlig måte, jf. § 2, vil være en helhetsvurdering der det blant annet må legges vekt på hvem som gir eller tilbyr ytelsen, hvilken stilling og hvilke fullmakter helsepersonellet har, verdien av ytelsen, i hvilken sammenheng og til hvilket tidspunkt ytelsen gis eller tilbys samt med hvilken hensikt ytelsen gis eller tilbys.
