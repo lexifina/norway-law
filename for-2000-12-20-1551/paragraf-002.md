@@ -1,0 +1,2 @@
+# § 2. Refusjonsoppgjør for tjenester som ytes utenfor riket
+Når en pasient i henhold til internasjonal overenskomst har rett til å reise til utlandet for å få nødvendig behandling, skal det regionale helseforetaket i pasientens bostedsregion dekke utgiftene i samsvar med de refusjonssatsene som fastsettes etter § 1. Også refusjon til norske myndigheter som har forskuttert dekning av slike utgifter, skjer etter de refusjonssatser som fastsettes etter § 1.
