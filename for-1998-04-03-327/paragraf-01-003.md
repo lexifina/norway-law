@@ -1,0 +1,4 @@
+# § 1-3. Ansvar
+Lege som skriver legeerklæring om dødsfall, skal varsle kommunelegen og den som henter liket dersom dødsfallet skyldes en mistenkt eller påvist smittsom sykdom som gjør at det må tas særlige forholdsregler for å unngå overføring av smitte, jf § 2-1. Dette gjelder også hvis avdøde hadde eller det foreligger mistanke om slik sykdom, men døden inntraff av annen årsak.
+Begravelsesbyrå som får i oppdrag å utføre transport, håndtering og emballering av lik, skal sørge for at bestemmelsene i denne forskriften overholdes for såvidt angår byråets tjenester. Tilsvarende gjelder for den som forestår gravferd, evt. åpning av grav og flytting av lik.
+Den som har forvaltningsansvaret for institusjon, gravkapell e.l. hvor lik håndteres, emballeres eller oppbevares, skal sørge for at bestemmelsene i denne forskriften følges for såvidt angår de handlinger som finner sted i dennes lokaler.
