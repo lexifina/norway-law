@@ -1,0 +1,2 @@
+# § 5
+Ved prøving av ekteskapsvilkårene for statsborger av annet nordisk land, gjelder bestemmelsene i Konvensjon 6. februar 1931 mellom Norge, Danmark, Finland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap mv, jf lov 19. desember 1969 nr. 75 og Justis- og politidepartementets forskrift 19. desember 1969. Bestemmelsene i konvensjonen gjelder likevel ikke ved inngåelse av ekteskap mellom to personer av samme kjønn.
