@@ -1,0 +1,2 @@
+# § 2
+Utenlandsk statsborger med oppholdstillatelse som kan danne grunnlag for permanent oppholdstillatelse kan etter en skjønnsmessig vurdering foretatt av folkeregistermyndigheten anses som fast bosatt i Norge. Det skal bl.a. legges vekt på utlendingens tilknytning til Norge, hvor lenge vedkommende har hatt opphold i Norge, om han/hun har til hensikt å bli boende, om utlendingen har nær familie i Norge, fast arbeid mv.
