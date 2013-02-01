@@ -1,0 +1,2 @@
+# § 13. Finansiering og gebyrer
+Enhver som benytter seg av ordningen med opprinnelsesgarantier som omhandlet i denne forskriften, kan av registeransvarlig avkreves gebyr for dekning av kostnadene til ordningen. De samlede gebyrer skal tilsvare de faktiske kostnader registeransvarlig har ved effektiv drift og utvikling av registeret. Gebyrstrukturen skal godkjennes av Norges vassdrags- og energidirektorat.

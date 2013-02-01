@@ -1,0 +1,11 @@
+# § 3. Definisjoner
+a) Bioenergi: Energi av biologisk opprinnelse herunder bl.a. trevirke, bark og halm, samt avfallsfraksjoner av biologisk opprinnelse fra industri og kommunalt avfall, herunder bl.a. sortert rivingsvirke og biprodukter fra treforedlingsindustri, sagbruk og lignende virksomheter.
+b) Fornybar energi: Energi fra fornybare energikilder; herunder bl.a. vind, sol, geotermisk, hav, vann, gass fra avfallsfyllinger, gass fra kloakkbehandlingsanlegg og biomasse.
+c) Høyeffektiv kraftvarme: Kraftvarme som gir brenselsbesparelse på minst ti prosent sammenlignet med separat fremstilling av elektrisk energi og termisk energi etter fastsatte referanseverdier (Høyeffektiv kogenerering). Kraftvarme fra kogenereringsanlegg med installert effekt mindre enn en megawatt elektrisk effekt (1 MWe) kan også regnes som høyeffektiv dersom den gir brenselsbesparelse sammenlignet med separat fremstilling av elektrisk energi og termisk energi etter fastsatte referanseverdier. Andelen elektrisk energi som er produsert ved kogenerering skal beregnes etter bestemmelsene i bilag II til direktiv 2004/8/EF, supplert med de detaljerte retningslinjene fattet ved kommisjonsvedtak 2008/952/EF. Brenselsbesparelsen skal beregnes ut fra fastsatte referanseverdier i samsvar med kommisjonsbeslutning 2011/877/EU og etter formlene i vedlegg III til direktiv 2004/8/EF.
+d) Opprinnelsesgaranti: Bekreftelse på at 1 megawattime (MWh) elektrisk energi er produsert fra en spesifisert energikilde på spesifisert tid og sted.
+e) Innløsning av opprinnelsesgaranti: Når en innehaver innleverer bekreftelse til registeret som dokumenterer at den ikke lenger kan omsettes.
+f) Kraftvarme: Termisk energi og elektrisk energi som er produsert samtidig i en prosess (kogenerering).
+g) Nedre brennverdi: Energiinnhold i et brensel når ikke kondenseringsenergien av vannfraksjonen i avgassen medregnes.
+h) Register: System for registrering, utstedelse, overføring og innløsning av opprinnelsesgarantier.
+i) Registeransvarlig: Den enhet som av departementet er utpekt som ansvarlig for å utstede opprinnelsesgarantier, samt utvikle og drifte et innløsningssystem og elektronisk register for slike garantier.
+j) Tidsperiode: Tidsrommet for produksjon av elektrisk energi angitt fra en dato til og med en gitt dato innen samme kalenderår.
