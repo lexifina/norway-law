@@ -1,0 +1,2 @@
+# § 8. Lys
+Alle rom skal ha vinduer som sikrer fuglene tilgang på dagslys. Det skal også være muligheter for tilfredsstillende kunstig belysning. Strutsefugl skal ha lys, naturlig eller kunstig, i 12 – 14 timer i døgnet. Lyskildene skal være slik plassert og ha en slik frekvens (hertz) at det ikke er til ubehag for fuglene. Strutsefugl skal ikke utsettes for permanent sterkt kunstig lys eller permanent mørke.
