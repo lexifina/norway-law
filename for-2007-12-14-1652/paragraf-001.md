@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriften skal sikre at alle produsenter av elektrisk energi på anmodning kan få utstedt garantier som bekrefter at en gitt mengde elektrisk energi er produsert fra en spesifisert energikilde på spesifisert tid og sted, samt legge til rette for registrering, omsetning og innløsning i et elektronisk register for slike garantier. Forskriften skal legge grunnlaget for et pålitelig verktøy for dokumentasjon av produksjon av elektrisk energi i Norge.
