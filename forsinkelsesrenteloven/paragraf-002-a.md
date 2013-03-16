@@ -1,0 +1,3 @@
+# § 2 a. Særlige regler for avtaler mellom virksomheter om kjøp av varer eller tjenester
+Ved avtaler mellom virksomheter om kjøp av varer eller tjenester skal betalingsfristen ikke overstige 60 dager, med mindre noe annet uttrykkelig er avtalt.
+Skal det ved avtale som nevnt i første ledd foretas en kontrollprosedyre for å sikre at varene eller tjenestene er avtalemessige, og fordringshaveren først kan sette frem krav om betaling etter at en slik kontrollprosedyre er gjennomført, skal kontrollprosedyren ikke overstige 30 dager fra mottak av varene eller tjenestene. Dette gjelder likevel ikke dersom noe annet uttrykkelig er avtalt.

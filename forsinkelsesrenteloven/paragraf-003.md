@@ -1,0 +1,4 @@
+# § 3. Størrelsen av forsinkelsesrenten. Krav ut over forsinkelsesrenten
+Departementet fastsetter hvert halvår størrelsen av forsinkelsesrenten til en fast prosent årlig rente, som skal svare til den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar og 1. juli det aktuelle år tillagt minst åtte prosentpoeng. For skyldnere som er skyldner i egenskap av forbruker, kan departementet fastsette en lavere forsinkelsesrente. Endring i forsinkelsesrentens størrelse får virkning fra ikrafttredelsen også for krav hvor fordringshaveren har krav på forsinkelsesrente før ikrafttredelsen.
+Løp det rente i forholdet før betalingsplikt inntrådte, kan fordringshaveren i stedet for forsinkelsesrente etter første ledd kreve den løpende renten.
+Erstatning for rentetap e.l. som ikke dekkes av forsinkelsesrenten, fastsettes under hensyn til partenes forhold og omstendighetene ellers.
