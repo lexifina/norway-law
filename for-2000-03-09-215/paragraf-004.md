@@ -1,0 +1,3 @@
+# § 4. Plikt til å verne informasjon
+Dersom Forsvarets overkommando finner at en oppfinner eller rettighetshaver helt eller delvis kan råde over oppfinnelse som omfattes av loven, kan Forsvarets overkommando pålegge oppfinner eller rettighetshaver å verne informasjon om oppfinnelsen i samsvar med reglene for oppfinnelsens gradering eller mulige gradering.
+Vil tiltak for sikring av informasjon etter første ledd medføre uforholdsmessige utgifter eller ulemper, kan Forsvarets overkommando bestemme at informasjonen skal oppbevares på et sted hvor nødvendige sikringstiltak allerede er gjennomført eller kan gjennomføres uten vesentlige merkostnader.
