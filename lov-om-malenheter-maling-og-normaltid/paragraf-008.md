@@ -1,0 +1,3 @@
+# § 8. Samsvarsvurdering
+Samsvarsvurdering som fastslår at måleredskapet oppfyller fastsatte krav (beslutning om samsvar), skal være gjennomført og dokumentert før måleredskapet tilbys for salg, med mindre annet er bestemt av Justervesenet. Med samsvarsvurdering forstås i denne lov en vurdering som avgjør om et måleredskap har slike egenskaper at det oppfyller de kravene som er fastsatt i eller i medhold av denne lov.
+Justervesenet fastsetter i forskrift hvilke samsvarsvurderinger som skal foretas og prosedyrer for gjennomføring av samsvarsvurderinger. I særlige tilfeller kan Justervesenet fastsette krav til samsvarsvurderinger og prosedyrer for samsvarsvurderinger i enkeltvedtak.

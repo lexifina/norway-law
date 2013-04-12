@@ -1,0 +1,2 @@
+# § 25. Opplysninger for å vurdere behovet for nye regler mv.
+Justervesenet kan i rimelig utstrekning kreve opplysninger om og undersøke faktiske forhold som anses nødvendig for å vurdere om det foreligger behov for å iverksette nye regler eller virkemidler som skal sikre lovens formål. Slike opplysninger vil kunne omfatte teknisk tilstand på måleredskaper, rutiner og prosedyrer for målemetoder og statistikk.
