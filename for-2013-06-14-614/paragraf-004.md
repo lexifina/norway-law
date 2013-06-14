@@ -1,0 +1,4 @@
+# § 4. Rabatter
+Rabatter må ikke overstige 13 % av ordinær takst som betales av tilsvarende kjøretøy som ikke er berettiget rabatt.
+I fylkene Østfold, Akershus, Hedmark, Oppland, Buskerud, Vestfold, Telemark og Aust-Agder skal rabatter i bompengeordninger som var i drift før 14. juli 2012 utgjøre maksimalt 13 % av ordinær takst senest innen 31. desember 2014.
+I andre fylker enn etter annet ledd, kan det gjeldende nivået for rabatter i bompengeordninger som var i drift før 14. juli 2012 fortsatt anvendes dersom andelen internasjonal godstrafikk er under 30 %. I bompengeordninger som åpner for trafikk etter 14. juli 2012 i disse fylkene, kan rabatter overstige 13 % av ordinær takst dersom andelen internasjonal godstrafikk er maksimalt 5 % og nivået for slike rabatter er berettiget av spesifikke omstendigheter, særlig ved broer eller tunneler som erstatning for ferge.

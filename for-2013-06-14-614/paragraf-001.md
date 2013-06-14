@@ -1,0 +1,2 @@
+# § 1. Virkeområde og definisjoner
+Denne forskriften får anvendelse for innkreving av bompenger fra godskjøretøy med tillatt totalvekt over 3 500 kg på TEN-T-veger og motorveger med unntak av slike veger i byområder. Med TEN-T-veg menes vegnettet som definert i vedtak 1692/96/EF av 23. juli 1996 om fellesskapsretningslinjer for utvikling av et transeuropeisk transportnett vedlegg I avsnitt 2 og illustrert med kart eller beskrevet i vedlegg II til vedtaket.
