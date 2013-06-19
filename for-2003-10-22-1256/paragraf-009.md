@@ -1,0 +1,4 @@
+# § 9. Kontroll og sanksjoner
+En publikasjon som søker tilskudd, plikter å gi tjenestemann i Medietilsynet eller opplagsrevisor oppnevnt av Medietilsynet, innsyn i alle forretningspapirer og ellers andre opplysninger som finnes nødvendig til gjennomføring av kontroll med tilskuddsordningen og til utarbeidelse av statistikk over den økonomiske utvikling i de minoritetsspråklige publikasjonene.
+Riksrevisjonen har i samsvar med § 17 i Stortingets bevilgningsreglement adgang til å iverksette kontroll med at tilskuddsmidlene benyttes etter forutsetningene. Også Kultur- og kirkedepartementet har slik kontrolladgang.
+Brudd på opplysningsplikten etter første eller andre ledd, eller meddelelse av uriktige opplysninger, kan medføre at avisen fratas retten til tilskudd for bestemte tidsrom. Hvis midlene ikke nyttes etter forutsetningene, vil det bli framsatt krav om tilbakebetaling av tilskuddet.
