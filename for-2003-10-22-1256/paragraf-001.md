@@ -1,0 +1,3 @@
+# § 1. Formål og virkeområde
+Denne forskriften gir regler for fordeling av tilskudd til publikasjoner utgitt av og for språklige minoriteter over Kultur- og kirkedepartementets budsjett Kap. 335, Post 76 «Tilskudd til ymse publikasjoner».
+Formålet med tilskuddsordningen er å bidra til fremvekst av publikasjoner for språklige minoriteter og til utvikling av redaksjonell kvalitet i disse publikasjonene. Gjennom informasjon om norske samfunnsforhold og opprinnelig hjemland på eget språk, skal publikasjonene fremme mulighetene for samfunnsdeltakelse og kulturell utfoldelse hos personer med minoritetsbakgrunn.

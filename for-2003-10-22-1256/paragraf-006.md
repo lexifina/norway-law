@@ -1,0 +1,4 @@
+# § 6. Forvaltning og klage
+Tilskuddsordningen forvaltes av Medietilsynet. Før Medietilsynet treffer avgjørelse om tildeling av tilskudd til minoritetsspråklige publikasjoner, innhentes innstilling fra Støtteutvalget for minoritetsspråklige publikasjoner. I særlige tilfelle kan Medietilsynet gi dispensasjon fra bestemmelsene i denne forskriften.
+Enkeltvedtak truffet av Medietilsynet i henhold til denne forskriften kan påklages til Klagenemnda for mediesaker (Medieklagenemnda).
+Støtteutvalget for minoritetsspråklige publikasjoner oppnevnes av Kultur- og kirkedepartementet for fire år om gangen. Utvalget har fem medlemmer. Tre av medlemmene oppnevnes etter forslag fra Norsk Presseforbund, herunder to representanter for minoritetspressen. Ett medlem oppnevnes etter forslag fra Utlendingsdirektoratet og ett etter forslag fra Arbeids- og inkluderingsdepartementet. Medietilsynet er sekretariat for utvalget.
