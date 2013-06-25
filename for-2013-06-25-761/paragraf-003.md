@@ -1,0 +1,7 @@
+# § 3. Innkalling til forberedende møte
+En eller flere fiskerettshavere skal innkalle til forberedende møte for etablering av felles organisering.
+Innkalling foretas med minimum tre ukers varsel. Innkallingen skal kunne dokumenteres.
+Dersom noen som skal ha varsel er fraværende eller har ukjent oppholdssted, skal innkalling av disse foretas ved kunngjøring i en avis som er alminnelig utbredt i distriktet. Det samme gjelder for eiendommer der det ikke er på det rene hvem som har krav på varsel.
+Det skal klart fremgå av innkallingen at formålet med møtet er å etablere et interimstyre som skal utarbeide forslag til vedtekter, fremme innstilling til styremedlemmer, og fastsette den enkelte rettighetshavers andel i fisket. Innkallingen skal inneholde opplysninger om tid og sted for møtet, en oversikt over innkalte rettighetshavere og angi utstrekningen av forvaltningsområdet.
+Elveeierlag som i tillegg til fastsatt andelsfordeling allerede har et valgt styre og vedtekter som oppfyller minimumskravene i § 8, kan etablere pliktig organisering ved direkte innkalling til møte som nevnt i § 7 med mindre mer enn en femtedel av rettighetshaverne skriftlig motsetter seg dette innen to uker etter mottakelse av møteinnkallingen eller dato for kunngjøringen.
+Dersom en ekstern forening forpakter hele vassdraget på vegne av rettighetshaverne, kan pliktig organisering etableres gjennom egen avtale som oppfyller kravene i lakse- og innlandsfiskloven § 25 og § 25a, og som iverksetter pliktig organisering, jf. forskriften § 7.
