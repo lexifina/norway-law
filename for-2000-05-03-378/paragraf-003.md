@@ -1,0 +1,3 @@
+# § 3. Innhold i innkalling
+Det skal klart fremgå av innkallingen at formålet med møtet er gjennomføring av flertallsvedtak etter lov om laksefisk og innlandsfisk § 25. Det må uttrykkelig opplyses at et flertall av de fiskeberettigede kan fatte vedtak med bindende virkning for de øvrige rettighetshaverne.
+Innkallingen skal foruten opplysninger om tid og sted for møtet, inneholde en oversikt over innkalte rettighetshavere. I tillegg skal det fremgå hva slags flertallsvedtak det gjelder (jf. § 1). Avhengig av type flertallsvedtak skal innkallelsen også angi utstrekningen av felles fiskeområde, forslag til fremtidig forvaltning av området, forslag til vedtekter for fellesordningen.

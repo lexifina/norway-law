@@ -1,0 +1,2 @@
+# § 6. Midlertidig flertallsvedtak
+Selv om alle andeler i fisket ikke er fullt ut klarlagt på tidspunkt for avholdelse av møte, kan midlertidig vedtak fattes. Midlertidig vedtak er bare gyldig dersom lovens krav om flertall med sikkerhet er oppfylt, jf. § 5. Vedtaket er forpliktende for rettighetshaverne inntil nytt vedtak blir fattet, men ikke for en lengre periode enn 5 år. Midlertidig vedtak kan ikke forlenges.
