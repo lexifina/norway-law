@@ -1,0 +1,3 @@
+# § 28 A-5. Sakskostnader og utlegg
+(1) Når det begjæres informasjonspålegg uavhengig av et søksmål om inngrep eller overfor andre enn motparten i et inngrepssøksmål, plikter den som fremmer begjæringen å dekke nødvendige kostnader og utlegg, som påføres den det blir krevd informasjon fra. Dersom begjæringen er nødvendiggjort av at den det kreves informasjon fra uten rimelig grunn har bestridt kravet, kan plikten etter første punktum helt eller delvis falle bort, og den som har fremmet begjæringen helt eller delvis tilkjennes sakskostnader.
+(2) Mellom partene i et søksmål om inngrep gjelder bestemmelsene om sakskostnader i kapittel 20 for kostnader og utlegg knyttet til behandling og gjennomføring av en begjæring om informasjon.

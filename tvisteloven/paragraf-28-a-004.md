@@ -1,0 +1,4 @@
+# § 28 A-4. Rettens avgjørelse
+(1) Tvist om det skal gis opplysninger etter § 28 A-1 avgjøres ved kjennelse.
+(2) I et inngrepssøksmål bestemmer retten om begjæringen skal avgjøres ved særskilt kjennelse, eller om avgjørelsen skal utstå til den dom eller kjennelse som avslutter saken. Avgjørelsen kan i begge tilfeller påankes særskilt.
+(3) Retten avgjør hvordan et informasjonspålegg skal etterkommes. Informasjonspålegget kan gå ut på at den det retter seg mot skal avgi forklaring i retten eller gi tilgang til realbevis. Reglene i kapittel 23, 24, 26 og 27 gjelder tilsvarende så langt de passer. Retten kan også beslutte at den som pålegget retter seg mot, skal utarbeide en særskilt skriftlig erklæring i stedet for å avgi forklaring. Hvis en som ikke er part, nekter å etterkomme en rettskraftig kjennelse som pålegger vedkommende å utarbeide særlig skriftlig erklæring, kan retten treffe avgjørelse om at kjennelsen skal tvangsfullbyrdes.
