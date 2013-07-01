@@ -1,0 +1,2 @@
+# § 5
+Endringen av aksjeloven § 8-1 og allmennaksjeloven § 8-1 ved lov 14. juni 2013 nr. 40 gjelder for beslutninger om utbytte som treffes etter lovens ikrafttredelse. Fradrag etter annet ledd annet punktum i de nevnte bestemmelsene skal omfatte kreditt og sikkerhetsstillelse som var gitt eller stilt før lovens ikrafttredelse, og som måtte ligge innenfor rammen av de midler selskapet kunne benytte til utdeling av utbytte etter reglene i § 8-7 til § 8-10 på dette tidspunktet.
