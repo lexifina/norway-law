@@ -1,0 +1,2 @@
+# § 13
+Den som har eit omsetningsgjeldsbrev i hende, er legitimera til å rå over det med verknad som nemnt i §§ 14, 15, 18 og 19, so framt det er eit ihendehavargjeldsbrev. Det same gjeld, når han er den som etter teksten i gjeldsbrevet eller ei samanhangande rekkje av skriftlege utsegner om avhendingar til namngjeven mann eller in blanco synest vera rette innehavaren til gjeldsbrevet, eller når han med grunn kann haldast for å vera den nemnde eller for å ha rett til å rå for han.

@@ -1,0 +1,4 @@
+# § 7
+Lyder gjeldsbrevet på eit pengeslag som ikkje gjeld der gjeldsbrevet blir betala, kann det betalast med slike pengar som gjeld på staden etter verdet på betalingsdagen, om inkje anna er avtala.
+Blir gjeldsbrevet ikkje betala i tide, og lyder det på eit pengeslag som ikkje gjeld der gjeldsbrevet skal betalast, skal kravshavaren ha vederlag for tap han får av at kursen på gjeldsbrevpengane har falle. Gjev ikkje tilhøvet grunnlag for annan tapsrekning, kann han krevja betaling i slike pengar som gjeld der betaling skulde gjevast, etter kursen på forfallsdag.
+Det skal likevel ikkje gjevast vederlag for kurstapet, i fall det er på kravshavaren sjølv betalinga står, eller seinkingsgrunnen er lovbod, stans i samferdsla eller andre slike hindringar som skyldnaren ikkje vinn med og som det ikkje var ventande at han tok omsyn til då han gav ut gjeldsbrevet.
