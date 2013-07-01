@@ -1,0 +1,10 @@
+# § 7
+1. Denne lov gjelder ikke:
+a) avgjørelse eller forlik om oppheving av formuesfellesskapet, separasjon, skilsmisse, omstøting av ekteskap, stiftelse eller oppheving av adopsjonsforhold, hel eller delvis fratakelse av rettslig handleevne eller endring av vedtak om dette, eller om deling av formue eller erstatning i forbindelse med separasjon, skilsmisse eller omstøting av ekteskap, for så vidt gjelder fullbyrding får loven dog anvendelse på avgjørelse som har bindende virkning her i landet etter artikkel 22 i konvensjon 6 februar 1931 mellom Danmark, Finland, Island, Norge og Sverige angående internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål,
+b) avgjørelse eller forlik om foreldremyndighet over barn, om rett til personlig samvær med barn eller om overlevering av barn i annet høve, med mindre annet følger av § 5,
+c) avgjørelse eller forlik om familierettslig underholdsplikt,
+d) avgjørelse eller forlik om slektskap,
+e) avgjørelse eller forlik om rett til arv eller legat, gjenlevende ektefelles rettigheter, dødsboskifte eller ansvar for en arvelaters gjeld, med mindre avdøde var statsborger i Danmark, Finland, Island, Norge eller Sverige og bosatt i en av disse stater,
+f) avgjørelse eller forlik om konkursbehandling eller offentlig akkordforhandling, omstøting eller tilsidesetting av rettsstiftelser på grunn av konkurs, dersom ikkje avgjørelsen eller forliket gjelder omstøting eller tilsidesetting av rettsstiftelser på grunn av en konkurs som er åpnet i Danmark, Finland, Island, Norge eller Sverige, og retten ved åpningen av konkurs grunnet sin kompetanse på at skyldneren er eller ved sin død var bosatt i landet, eller at et selskap, et samvirkeforetak, en forening eller en stiftelse hadde sitt sete i landet.
+g) avgjørelse eller forlik i sak som skal bringes inn direkte for de særlige domstoler som behandler spørsmål om kollektive avtaler i arbeidsforhold.
+2. Loven gjelder heller ikke for nordiske dommer m.v. som anerkjennes og fullbyrdes her i riket etter Luganokonvensjonen 2007 og heller ikke for så vidt annet følger av regler om anerkjennelse og fullbyrding i særlige forhold.
