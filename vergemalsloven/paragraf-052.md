@@ -1,0 +1,6 @@
+# § 52. Utbetaling ved opphør av vergemål
+Ved opphør av vergemålet skal fylkesmannen uten unødig opphold sende midlene som har vært forvaltet etter reglene i kapitlet her, til eieren sammen med sluttregnskap.
+Før midlene kommer til utbetaling kan eieren anmode om at midlene likevel fortsatt skal forvaltes av fylkesmannen. Adgangen til fortsatt forvaltning opphører ved utløpet av det året eieren av midlene fyller 25 år. Fylkesmannen plikter å informere om muligheten for fortsatt forvaltning.
+Hvis eieren på utbetalingstidspunktet ikke er villig til å ta imot eiendeler eller kvittere for dem, eller overlevering og kvittering av andre grunner ikke er mulig, skal fylkesmannen, med mindre særlige grunner taler mot det, omgjøre midlene i penger som deponeres i Norges Bank etter reglene i lov 17. februar 1939 nr. 2 om deponering i gjeldshøve.
+Salg kan begjæres gjennom namsmyndighetene etter regler om tvangssalg så langt de passer. Bestemmelsene i tvangsfullbyrdelsesloven § 8-16 første ledd, § 10-6, jf. § 8-16 første ledd, § 11-20 og § 12-6, jf. § 11-20, om det minste bud som kan godtas, gjelder ikke i disse tilfellene.
+Eieren skal varsles av fylkesmannen om at eiendelene kan bli solgt. Fylkesmannen kan sette en frist for eieren til å motta eiendelene eller kvittere for dem om salg skal unngås. Varslet skjer på en måte fylkesmannen finner betryggende.

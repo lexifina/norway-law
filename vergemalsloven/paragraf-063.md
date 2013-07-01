@@ -1,0 +1,3 @@
+# § 63. Opphevelse av eller endring av vergemålet
+Et vedtak om vergemål skal oppheves eller endres hvis vilkårene for vergemålet ikke lenger er til stede eller forholdene tilsier det. Dersom den som er satt under vergemål etter eget samtykke, trekker samtykket tilbake, skal vergemålet oppheves.
+Er vergemålet fastsatt ved dom, avgjøres krav om endring av dommen ved nytt søksmål, jf. § 75. Hvis fylkesmannen finner det ubetenkelig, og den eller de som har brakt saken om vergemål inn for retten, ikke motsetter seg det, kan fylkesmannen bestemme at personen ikke lenger skal være under vergemål eller være fratatt den rettslige handleevnen.

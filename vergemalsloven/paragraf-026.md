@@ -1,0 +1,2 @@
+# § 26. Faste verger
+Fylkesmannen kan engasjere faste verger. Den som engasjeres som fast verge, skal legge frem en uttømmende politiattest. Attesten skal angi om personen er siktet, tiltalt, har vedtatt forelegg eller er dømt for overtredelse av straffebud om økonomisk kriminalitet eller seksuallovbrudd. Kongen gir i forskrift nærmere regler om kravet om politiattest, herunder hvilke straffebud som skal omfattes av attesten, og kan også gi regler om kvalifikasjonskrav, organisering og godtgjøring.

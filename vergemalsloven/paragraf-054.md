@@ -1,0 +1,4 @@
+# § 54. Opplysningsplikt for institusjoner mv.
+Kongen kan i forskrift gi regler om at når en mindreårig eller en person som er fratatt den rettslige handleevnen, tilføres eiendeler, skal offentlige forvaltningsorganer, finansinstitusjoner, fondsforvaltningsselskaper, verdipapirregistre og verge gi melding til fylkesmannen om dette.
+Institusjoner og personer som nevnt i første ledd har opplysningsplikt overfor vergen og fylkesmannen for personer som er under vergemål eller begjært satt under vergemål. Kongen kan i forskrift gi nærmere regler om opplysningsplikten.
+Vergen og fylkesmannen har rett til innsyn i ligning og selvangivelse for personer under vergemål og for personer som er begjært satt under vergemål, når slikt innsyn er nødvendig for at vergen og fylkesmannen skal kunne ivareta sine oppgaver etter loven her.

@@ -1,0 +1,4 @@
+# § 22. Særskilte vilkår for vergemål med fratakelse av den rettslige handleevnen
+En person som er i en tilstand som nevnt i § 20 første ledd, kan fratas sin rettslige handleevne etter reglene i annet og tredje ledd.
+En person kan fratas den rettslige handleevnen i økonomiske forhold hvis dette er nødvendig for å hindre at han eller hun utsetter sin formue eller andre økonomiske interesser for fare for å bli vesentlig forringet, eller han eller hun blir utnyttet økonomisk på en utilbørlig måte. Fratakelsen av den rettslige handleevnen kan begrenses til å gjelde bestemte eiendeler eller bestemte disposisjoner.
+En person kan fratas den rettslige handleevnen i personlige forhold på bestemte områder hvis det er betydelig fare for at han eller hun vil handle på en måte som i vesentlig grad vil være egnet til å skade hans eller hennes interesser.

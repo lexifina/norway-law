@@ -1,0 +1,5 @@
+# § 51. Forvaltningen av finansielle eiendeler
+Finansielle eiendeler som skal forvaltes av fylkesmannen og om nødvendig er omgjort til kontante midler etter § 50 første ledd, skal plasseres som bankinnskudd på individuelle konti i bank.
+Den sentrale vergemålsmyndigheten skal forhandle om innskuddsvilkårene på vegne av fylkesmannen og fastsetter hvilke finansinstitusjoner som skal benyttes for innskuddsformål.
+Finansielle eiendeler som ikke omgjøres til kontante midler, jf. § 50 annet ledd, skal forvaltes individuelt av fylkesmannen. Fylkesmannen kan gi en bestyrer i oppgave å forvalte slike finansielle eiendeler mot særskilt vederlag av avkastningen av midlene, forutsatt at en slik løsning best tjener interessene til eieren. Reglene i kapittel 6 og § 53 gjelder så langt de passer for bestyrerens forvaltning av eiendelene.
+Første til tredje ledd gjelder tilsvarende for finansielle eiendeler som etter lov skal forvaltes på samme måte som midler som tilhører personer under vergemål, eller som etter gyldig bestemmelse av arvelater eller giver skal forvaltes av fylkesmannen, jf. §§ 95 og 96.

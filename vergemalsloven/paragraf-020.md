@@ -1,0 +1,4 @@
+# § 20. Vilkår for vergemål
+Den som har fylt 18 år, og som på grunn av sinnslidelse, herunder demens, psykisk utviklingshemming, rusmiddelmisbruk, alvorlig spilleavhengighet eller alvorlig svekket helbred ikke er i stand til å ivareta sine interesser, kan settes under vergemål hvis det er behov for det.
+Den som settes under vergemål, skal skriftlig samtykke i opprettelsen av vergemålet, vergemålets omfang og hvem som skal være verge, med mindre han eller hun ikke er i stand til å forstå hva et samtykke innebærer. Det kreves ikke samtykke hvis vergemålet omfatter fratakelse av den rettslige handleevnen.
+Det kan opprettes vergemål også for personer under 18 år etter reglene i første og annet ledd, når det etter omstendighetene anses nødvendig at vergemålet fortsetter uavbrutt når personen når myndighetsalderen.

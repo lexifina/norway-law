@@ -1,0 +1,4 @@
+# § 33. Vergens plikt til å høre den som er satt under vergemål, mv.
+Vergen skal så vidt mulig høre den som er satt under vergemål, før det foretas disposisjoner av større betydning og også når dette ellers fremstår som naturlig.
+Er den som er satt under vergemål, ikke fratatt den rettslige handleevnen, kan vergen ikke foreta disposisjonen hvis den som er satt under vergemål, motsetter seg det. Dette gjelder likevel ikke hvis han eller hun ikke er i stand til å forstå hva disposisjonen innebærer. Fylkesmannen, eller vergen med fylkesmannens samtykke, kan innhente legeerklæring for å få klargjort om vedkommende er i stand til å forstå hva disposisjonen innebærer.
+Er den som er satt under vergemål, fratatt den rettslige handleevnen, skal vergen legge vekt på det han eller hun mener. Ektefelle eller samboer skal få uttale seg. Er den som er satt under vergemål, uenig i vergens avgjørelse, kan han eller hun bringe spørsmålet inn for fylkesmannen.

@@ -1,0 +1,2 @@
+# § 23. Disposisjonsadgangen for den som er fratatt rettslig handleevne
+Med mindre noe annet er uttrykkelig bestemt, beholder den som helt eller delvis er fratatt den rettslige handleevnen etter § 22, adgangen til å foreta de disposisjoner som er nevnt i § 10 første ledd første punktum, § 12 første ledd og § 13 første ledd. § 10 annet ledd, § 12 annet og tredje ledd og § 13 annet ledd gjelder tilsvarende.

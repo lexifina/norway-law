@@ -1,0 +1,3 @@
+# § 96. Midler som ved lov er bestemt at skal forvaltes etter denne lov
+Når det ved lov er bestemt at midlene til en person som ikke er under vergemål, skal behandles etter de regler som gjelder for midler til personer under vergemål, kan fylkesmannen oppnevne en bestyrer til å forestå forvaltningen av dem. Reglene i kapittel 6 og 7 gjelder for bestyrerens forvaltning så langt de passer.
+Bestyreren utfører sitt oppdrag mot vederlag av avkastningen av midlene. Er avkastningen ikke tilstrekkelig til å dekke omkostningene, kan fylkesmannen i særskilte tilfeller samtykke i at vederlaget dekkes av selve forvaltningskapitalen. Fylkesmannen avgjør på hvilken måte dekning kan skje.
