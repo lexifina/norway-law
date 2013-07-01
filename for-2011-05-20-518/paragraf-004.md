@@ -1,0 +1,10 @@
+# § 4. Artens økologiske funksjonsområder
+Som økologiske funksjonsområder for dverggås regnes i forskriften hekkeområder, myteområder og rasteområder, unntatt slike områder i sjø og hekke- og myteområdet i Iesjávri-området og rasteområdet i Indre Porsangerfjord.
+I de økologiske funksjonsområdene for dverggås er bruk som tar hensyn til dverggåsas hekkeområder, myteområder og rasteområder tillatt. Annen bruk er ikke tillatt. Med unntak av de handlinger som er nevnt i tredje ledd, kan forvaltningsmyndigheten inngå avtale med grunneier eller rettighetshaver om hvilke handlinger som skal være tillatt, og hvilke som ikke skal være tillatt. Forbudet etter annet punktum gjelder ikke for handlinger som er regulert i avtalen.
+Oppføring av bygninger, anlegg, gjerder, andre varige eller midlertidige innretninger, bygging av veier, drenering eller annen form for tørrlegging, uttak, oppfylling og lagring av masse, er forbudt.
+I økologiske funksjonsområder for dverggås gjelder i tillegg følgende bestemmelser i rasteområder som benyttes om våren i periodene f.o.m. 1. mai t.o.m. 15. juni, og i rasteområder som benyttes om høsten f.o.m. 10. august t.o.m. 15. september, og i hekke- og myteområder f.o.m. 1. mai t.o.m. 31. august:
+a) All ferdsel er forbudt, herunder ilandstigning på øyer.
+b) All motorisert ferdsel til lands og til vanns er forbudt, herunder starting og landing av luftfartøy.
+Dersom bestemmelsene i annet, tredje eller fjerde ledd medfører en vesentlig vanskeliggjøring av igangværende bruk og et vesentlig tap, kan grunneier kreve at området vernes etter naturmangfoldloven kapittel V eller at det gjøres unntak fra prioriteringen for de aktuelle områdene etter § 8.
+Dersom det planlegges inngrep i et økologisk funksjonsområde for dverggås, kan forvaltningsmyndigheten kreve at følgene av det planlagte inngrepet for denne arten klarlegges, i samsvar med naturmangfoldloven § 24 første ledd bokstav c.
+Ved vedtak etter annet lovverk, skal hensynet til arten og dens økologiske funksjonsområder ivaretas i samsvar med denne forskriften.
