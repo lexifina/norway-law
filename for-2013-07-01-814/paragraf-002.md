@@ -1,0 +1,2 @@
+# § 2. Forordning (EF) nr. 124/2009
+EØS-avtalen vedlegg I kap. II (forordning (EF) nr. 124/2009 som endret ved forordning (EU) nr. 610/2012) om fastsettelse av grenseverdier for forekomst av koksidiostatika eller histomonostatika i næringsmidler som følge av uunngåelig overføring av disse stoffene til fôr til dyr utenfor målgruppen gjelder som forskrift, med de EØS-tilpasninger som følger av vedlegg I kapittel II, protokoll 1 til avtalen og EØS-avtalen for øvrig.
