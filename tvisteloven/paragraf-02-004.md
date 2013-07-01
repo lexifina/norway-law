@@ -1,4 +1,4 @@
-# § 2-4. Stedfortreder for umyndige
-(1) For umyndige er vergen stedfortreder. Er den umyndiges foreldre verge i fellesskap, får vergemålsloven § 4 anvendelse.
+# § 2-4. Stedfortreder for mindreårige og personer som er fratatt rettslig handleevne mv.
+(1) For personer som mangler prosessdyktighet etter § 2-2 tredje ledd, er vergen stedfortreder. Er en mindreårigs foreldre verge i fellesskap, får vergemålsloven § 18 anvendelse.
 (2) En mindreårig over 15 år skal varsles til rettsmøtene. Retten skal opplyse om at den mindreårige har rett, men ikke plikt, til å være til stede i rettsmøtet. Den mindreårige skal meddeles prosesskriv samtidig med vergen, hvis ikke den mindreårige selv har erklært at det er unødvendig. For mindreåriges rett til innsyn i dokumenter gjelder § 14-1 første ledd.
-(3) Gjelder søksmålet midler som forvaltes av overformynderiet, skal stevningen forkynnes for overformynderiet. Overformynderiet har rett til å tre inn i saken. Overformynderiets prosesshandlinger kommer den umyndige til gode selv om de strider mot den umyndiges egne prosesshandlinger.
+(3) Gjelder søksmålet midler som forvaltes av fylkesmannen etter vergemålsloven kapittel 7, skal stevningen forkynnes også for fylkesmannen. Fylkesmannen har rett til å tre inn i saken dersom personen mangler prosessdyktighet etter § 2-2 tredje ledd. Fylkesmannens prosesshandlinger kommer i så fall personen til gode selv om de strider mot personens egne prosesshandlinger.
