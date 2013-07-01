@@ -1,0 +1,1 @@
+# Fyrste kapitel. Ålmenngjeldande reglar.
