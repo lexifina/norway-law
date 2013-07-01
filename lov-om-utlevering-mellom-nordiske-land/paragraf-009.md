@@ -1,0 +1,2 @@
+# § 9
+Til utleveringen kan knyttes slike vilkår som det finnes grunn til. Om adgangen til å strafforfølge den utleverte og til å fullbyrde straff for forhold som er begått før utleveringen, samt til å utlevere og overlevere vedkommende videre til en tredje stat for et slikt forhold, gjelder de regler for dette som gjelder ved overlevering av personer fra Norge til en annen nordisk stat, tilsvarende.
