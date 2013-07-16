@@ -1,0 +1,2 @@
+# § 18. Konsultasjon med lufthavnbrukerne
+Lufthavnadministrasjonen på lufthavner der det ikke finnes en Komité for lufthavnbrukere som nevnt i forordningen artikkel 5 nr. 2, 8 nr. 4 og 6, 9 nr. 1 skal melde fra til Luftfartstilsynet hvilket alternativt organ det tar sikte på å konsultere om de forholdene som er omhandlet i hver av disse bestemmelsene. Luftfartstilsynet tar stilling til om det valgte organet tilfredsstiller nødvendige krav til representativitet.

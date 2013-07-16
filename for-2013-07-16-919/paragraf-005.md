@@ -1,0 +1,2 @@
+# § 5. Kartlegging og planlegging av universell utforming av eksisterende bygg mv.
+Det stilles ikke krav om universell utforming av eksisterende bygg og anlegg ved lufthavner med unntak av bestemmelsene om ombordstigningsløsninger i § 8. Lufthavnoperatører plikter likevel å kartlegge om eksisterende bygg og anlegg er utformet i tråd med kravene om universell utforming i teknisk forskrift til plan- og bygningsloven. På grunnlag av kartleggingen skal det utarbeides en plan for å sikre universell utforming. Luftfartstilsynet bestemmer når planen skal være ferdigstilt.
