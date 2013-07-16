@@ -1,0 +1,5 @@
+# § 8. Standarden på ombordstigningsløsninger
+Lufthavnoperatør plikter ikke å anlegge nye passasjerbroer ved eksisterende lufthavnanlegg.
+Ved bygging av ny lufthavn, eller ved fysisk endring av eksisterende lufthavn, tar Samferdselsdepartementet stilling til om det skal stilles krav om passasjerbroer. Avgjørelsen skal bygge på de vurderingskriteriene som fremgår av den til enhver tid gjeldende loven om forbud mot diskriminering på grunn av nedsatt funksjonsevne (diskriminerings- og tilgjengelighetsloven) og av lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-6 og § 7-7. Det skal særlig legges vekt på hvilket passasjertall lufthavnen antas å få, hvor stor økning i passasjertallet en fysisk endring vil føre til og hvilke flytyper som vil bli brukt på lufthavnen.
+Lufthavn som ikke plikter å ha passasjerbroer skal ha trinnløs rampe eller teknisk løfteanordning som ombordstigningsløsning.
+Alle lufthavner skal ha bærestol(er) som gjør det mulig å bære passasjerer om bord i luftfartøy på en trygg og verdig måte i de tilfellene som er nevnt i § 9 tredje ledd.

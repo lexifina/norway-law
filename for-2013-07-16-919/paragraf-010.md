@@ -1,0 +1,5 @@
+# § 10. Transportløsninger for funksjons- og bevegelseshemmede
+Alle lufthavner skal ha nødvendig antall
+a) rullestoler til transport i terminalbygninger som oppfyller generelle funksjonskrav, og som brukeren kan trille selv
+b) rullestoler til transport av funksjons- eller bevegelseshemmede passasjerer til og fra setet deres i luftfartøyet.
+Ved transport til og fra fjernparkerte luftfartøy skal det tilstrebes transportløsninger som gjør at alle passasjerer kan benytte samme transporttilbud. Oslo lufthavn, Gardermoen skal ha nødvendig antall minibusser for å transportere funksjons- og bevegelseshemmede personer mellom terminalbygning og fjernoppstillingsplass for luftfartøy, dit andre personer fraktes med buss. Minibussen skal være utstyrt med et system som låser rullestolene sikkert fast, og være utstyrt med passasjersikringsutstyr i samsvar med standarden for slikt utstyr. De må også være utstyrt med en ombordstigningsanordning – rampe eller heis – for å gjøre det mulig for den funksjons- eller bevegelseshemmede personen (rullestolbrukeren) å stige på, og komme seg av minibussen.
