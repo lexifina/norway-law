@@ -1,0 +1,1 @@
+# Kapittel 2. Tilleggsbestemmelser til forordning (EF) nr. 1899/2006, kapittel Q om flyge- og tjenestetidsbestemmelser samt hvilebestemmelser for besetningsmedlemmer i ervervsmessig lufttransport med fly
