@@ -1,0 +1,2 @@
+# § 14
+De særskilte forskrifter skal inneholde bestemmelser som sikrer at potensielle kjøpere, før de kjøper et apparat, gjøres kjent med vesentlige opplysninger angitt på etiketten eller i opplysningsskjemaet. Dette gjelder hvor apparater frembys til salg, leie eller kjøp på avbetaling ved postordre, katalog eller på andre måter som innebærer at den potensielle kjøper må forventes ikke å få anledning til å se apparatet utstilt.
