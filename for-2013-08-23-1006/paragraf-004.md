@@ -1,0 +1,2 @@
+# § 4. Uførepensjon og etterlattepensjon
+Reglene om uførepensjon og etterlattepensjon i stortings- og regjeringspensjonsloven kapittel 5 og 6 gjelder tilsvarende for medlemmer av pensjonsordningen for sametingsrepresentanter og deres etterlatte. Opptjeningstid før 1. oktober 2013 skal regnes med som opptjeningstid ved beregningen av pensjon etter bestemmelsen her. Ved omregning av opptjeningstid etter lovens § 5-5 andre ledd og § 6-5 andre ledd benyttes omregningsfaktoren som gjelder for stortingsrepresentanter.
