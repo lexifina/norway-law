@@ -1,0 +1,2 @@
+# § 10-1. Begrensning av farlig utslipp til sjø
+Dersom kaioperatøren krever det, skal fører av fartøy påse at alle spygatt holdes lukket mens håndtering av farlig gods pågår, samt påse at spygatt kontrolleres med jevne mellomrom. Ved håndtering av etsende væsker og komprimerte gasser kan spygatt holdes åpne forutsatt rikelig vanntilførsel. Kaioperatøren må forvisse seg om at alle drenhull og rør samt andre avløpsåpninger er lukket mens håndtering av farlige væsker pågår.

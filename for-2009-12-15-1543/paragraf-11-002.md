@@ -1,0 +1,6 @@
+# § 11-2. Beredskapsarrangement på kaien
+Når fartøy med farlig gods om bord ligger ved kai, eller fartøy skal losse eller laste farlig gods, skal kaioperatøren forvisse seg om at det hele tiden er god kommunikasjon med brannvernmyndighetene, og at det finnes gode rømmingsmuligheter i tilfelle uhell.
+Dersom mengden av et eller flere farlige stoffer som er om bord på fartøyet eller som skal lastes eller losses er større enn angitt av Kystverkets hovedkontor, skal kaioperatøren, før lossing eller lasting, informere fartøyets fører om hvilket brannslokkingsutstyr, alarmsystem og beredskapsarrangement som finnes på kaien. Kaioperatøren skal også informere fartøyets fører om hvordan alarmsystemet utløses og gi skriftlig beskjed om hvordan brannvernmyndighetene kontaktes.
+For øvrig skal kaioperatøren før lossing eller lasting:
+a) forvisse seg om at brannvernmyndighetene kan få øyeblikkelig informasjon om hvor farlige bulklaster oppbevares om bord, teknisk betegnelse, mengde, hvilke farer som er karakteristiske for lasten og hvilke sikkerhetstiltak som skal tas,
+b) forvisse seg om at brannvernmyndighetene kan få øyeblikkelig informasjon om hvor pakket farlig gods er stuet om bord, teknisk betegnelse, mengde, hvilke farer som er karakteristiske for godset og hvilke sikkerhetstiltak som skal tas.

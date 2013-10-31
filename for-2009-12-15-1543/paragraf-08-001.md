@@ -1,0 +1,4 @@
+# § 8-1. Lagring av flytende bulklaster
+Før farlige bulklaster lagres, skal operatøren av lagertank og kaioperatøren rådføre seg med de lokale brannvernmyndigheter om hvilke forholdsregler som bør tas for å unngå brann.
+Operatør av lagertank hvor bulklaster skal lagres, er ansvarlig for at lagertanken er konstruert, utført, oppstilt og prøvet på en slik måte at den kan brukes og vedlikeholdes uten fare for helse, liv, eiendom og miljø. I de tilfeller der det foreligger krav til sertifisering av lagertank, er operatøren pliktig til å påse at gyldig godkjennelse foreligger før tanken fylles med farlige stoffer.
+Operatøren er ansvarlig for at tanken, før påfylling, er rengjort på en slik måte at det ikke er risiko for farlige reaksjoner mellom det stoffet som fylles og stoff som befinner seg på tanken fra før. Dette gjelder også selv om stoffene hver for seg ikke er klassifisert som farlige.

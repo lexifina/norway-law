@@ -1,0 +1,2 @@
+# § 4-1. Unntak for fartøy i regelmessige, korte rute
+Dette kapittel gjelder ikke fartøy som går til og fra havner i Norge i regelmessig rute med pakket farlig gods anbrakt på eller i transportenheter eller jernbanevogner og containere, og som anløper kommunens sjøområde eller havner innenfor samme område minst en gang i døgnet. Kapittelet gjelder heller ikke fartøyer som går innen kommunens sjøområde eller havner innenfor samme område i regelmessig rute.

@@ -1,0 +1,2 @@
+# § 3-1. Melding
+Agent eller transportør for, eller fører av, transportmiddel som bringer farlig gods inn i havner på vei eller jernbane, skal gi melding til havneadministrasjonen om hva slags farlig gods som bringes inn og i hvilke mengder. Melding skal gis minst 24 timer før ankomst. Er ikke dette mulig, skal melding gis så snart ankomsttidspunktet kan fastlegges. Fristen kan reduseres med havneadministrasjonens samtykke.
