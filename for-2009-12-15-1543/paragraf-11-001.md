@@ -1,0 +1,3 @@
+# § 11-1. Utarbeidelse av beredskapsplan
+Havneadministrasjonen skal ordne sin beredskap på en slik måte at sikkerhet for personer og beskyttelse av liv, helse og eiendom ivaretas. Beredskapen skal samordnes med politi, de lokale brannvernmyndigheter og med kommunale og interkommunalt utvalg mot akutt forurensing.
+Havneadministrasjonen kan pålegge at det utarbeides interne beredskapsplaner for de enkelte kaiområder. Beredskapsplan skal anvendes i tilfelle av ulykker i forbindelse med håndtering eller lagring av farlig gods, og skal utarbeides i henhold til retningslinjer fastsatt av Kystverkets hovedkontor. Planen skal gjøres kjent for politi og lokale brannvernmyndigheter.

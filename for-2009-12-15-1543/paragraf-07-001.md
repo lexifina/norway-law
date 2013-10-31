@@ -1,0 +1,2 @@
+# § 7-1. Tillatelse til lossing og lasting
+Før lossing eller lasting starter, skal fører av fartøy enten dokumentere for havneadministrasjonen eller den havneadministrasjonen bestemmer, at fartøyet har et gyldig certificate of fitness i henhold til SOLAS 1974 kap. VII med dertil gjeldende koder, utstedt av vedkommende lands myndighet hvor fartøyet er registrert, eller innhente skriftlig tillatelse fra havneadministrasjonen.

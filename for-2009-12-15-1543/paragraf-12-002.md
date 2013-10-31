@@ -1,0 +1,2 @@
+# § 12-2. Inspeksjon
+Havneadministrasjonen og ansvarlig myndighet kan inspisere transportmiddel samt åpne farlig gods som er emballert. Havneadministrasjonen og ansvarlig myndighet kan også kontrollere alle dokumenter som er av betydning for sikkerheten ved behandling av farlig gods, og som er i transportutøverens eller kaioperatørens besittelse. Etterkommes ikke krav om inspeksjon, kan transportmiddelet og godset avvises eller forlanges fjernet.
