@@ -1,0 +1,2 @@
+# § 1. Kommisjonsforordning (EU) nr. 1286/2011
+EØS-avtalens vedlegg XIII nr. 55ca (Kommisjonsforordning (EU) nr. 1286/2011 av 9. desember 2011 om vedtakelse av en felles metode for undersøkelse av ulykker og hendelser til sjøs, utviklet i henhold til artikkel 5 (4) i direktiv 2009/18/EF), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.

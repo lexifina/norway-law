@@ -1,0 +1,2 @@
+# § 2. Kommisjonens gjennomføringsforordning (EU) nr. 651/2011
+EØS-avtalens vedlegg XIII nr. 55ca (Kommisjonens gjennomføringsforordning (EU) nr. 651/2011 av 5. juli 2011 om vedtakelse av saksbehandlingsregler for rammen av det faste samarbeidet opprettet av medlemsstatene i samarbeid med Kommisjonen i henhold til artikkel 10 i europaparlaments- og rådsdirektiv 2009/18/EF), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
