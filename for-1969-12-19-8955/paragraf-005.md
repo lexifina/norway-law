@@ -1,0 +1,5 @@
+# § 5
+Ved bording av fartøyet har samtlige legitimerte inspektører anledning til å komme om bord, og de har rett til å ta med opp til to vitner.
+Ansvarshavende er pliktig til å gi inspektørene all nødvendig bistand og opplysninger under utøvelsen av inspeksjonen, samt fremlegge dokumenter, herunder dagbøker, avgi kopier av dokumenter m.v., bekrefte kopier, tillate anmerkninger vedrørende overtredelser i dagboken eller andre relevante gjenstander og dokumenter m.v. som inspektøren finner nødvendig for å konstatere at de gjeldende bestemmelser følges.
+Dersom en inspektør finner at overtredelse av gjeldende bestemmelser har funnet sted, skal ansvarshavende på fartøyet la inspektøren nytte radioen og være behjelpelig med at inspektøren kan sende meldinger om overtredelsen. Ansvarshavende er pliktig til å la inspektøren med følge bli ombord i samsvar med avtale med Det norske fiskerioppsyn og inntil fartøyet kan bordes av norske myndigheter eller av noen som representerer norske myndigheter.
+Ansvarshavende skal undertegne den rapport inspektøren setter opp, men kan påføre rapporten de anmerkninger han finner nødvendig.
