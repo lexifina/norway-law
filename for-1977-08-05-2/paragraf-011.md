@@ -1,0 +1,2 @@
+# § 11. (Behandling av opplysninger det gjelder taushetsplikt for)
+Klima- og miljødepartementet og Barne- og familiedepartementet skal på grunnlag av innstilling fra Miljødirektoratet og Elektrisitetstilsynet fastsette instruks om hvordan dokumenter eller registre som inneholder opplysninger som det gjelder taushetsplikt for, skal behandles, oppbevares eller ødelegges og hvordan Miljødirektoratet og Elektrisitetstilsynet skal forholde seg for å sikre at taushetsplikten blir overholdt.
