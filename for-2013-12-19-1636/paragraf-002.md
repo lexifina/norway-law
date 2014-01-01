@@ -1,0 +1,4 @@
+# § 2. Retten si avgjerd om samvær med tilsyn
+Retten skal i pålegget fastsetje om det skal vere beskytta tilsyn, jf. § 4, eller støtta tilsyn, jf. § 6. Retten si avgjerd om samvær med tilsyn skal grunngivast, jf. tvistelova § 19-6. I saker der partane inngår rettsforlik, jf. tvistelova § 19-11, må formålet med og grunngivinga for tilsynet gå fram av orskurd. I grunngivinga skal det mellom anna gjerast greie for barnet sitt behov og høve til foreldra og deira føresetnader.
+Retten skal angi dei vilkåra som er nødvendige for gjennomføringa av tilsynet, under dette timetalet og varigheita. Dersom tilsynet skal vare over eitt år, skal dette grunngivast særskilt.
+Før retten tek avgjerd om samvær med tilsyn skal den hente inn ei uttale frå ansvarleg myndigheit om korleis pålegget kan gjennomførast, jf. § 5 første ledd og § 7 første ledd.
