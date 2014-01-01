@@ -1,0 +1,2 @@
+# § 5. Utenlandske statsborgere som mannskap på norskregistrerte fartøyer
+Det skal innbetales full produktavgift for all fangst, selv om fartøyet er helt eller delvis bemannet med utenlandsk mannskap. For mannskap fra land som Norge ikke har inngått sosialkonvensjon med, vil imidlertid innbetalt avgift bli refundert etter søknad. En slik søknad sendes Fiskeridirektoratet/Subsidiekontrollen, som behandler søknaden etter nærmere retningslinjer.
