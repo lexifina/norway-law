@@ -1,0 +1,2 @@
+# § 2. Alderspensjon for opptjeningstid fra 1. januar 2014
+Alderspensjon til folkevalgte i kommuner og fylkeskommuner kan for opptjeningstid fra 1. januar 2014 ikke være basert på en høyere opptjeningsprosent eller være av annen art enn det som følger av lov 16. desember 2011 nr. 60 om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer (stortings- og regjeringspensjonsloven) kapittel 2.
