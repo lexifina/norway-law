@@ -1,0 +1,3 @@
+# § 6
+Det er forbudt å hindre inspektører fra de under § 2 nevnte land i å foreta inspeksjon av fangst, redskaper og annet utstyr eller å unnlate å etterkomme inspektørens direktiver vedrørende inspeksjonen, herunder krav om at ulovlig brukt utstyr skal fjernes. Motstand mot en inspektør fra hvilket som helst av nevnte stater er å betrakte som motstand mot norsk offentlig tjenestemann og skal behandles som overtredelse av kap. 34 i lov av 22. mai 1902 om alminnelig borgerlig straffelov.
+Rapport fra autorisert inspektør fra land nevnt under § 2 har samme bevisverdi som rapport fra en norsk inspektør.
