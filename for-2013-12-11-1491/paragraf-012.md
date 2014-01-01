@@ -1,0 +1,4 @@
+# § 12. Gjennomgang av elektronisk lagret informasjon
+Retten til å være til stede når Konkurransetilsynet begynner gjennomgangen av beslaglagt elektronisk materiale er ikke til hinder for at Konkurransetilsynet gjør de tekniske forberedelser som er nødvendige for at materialet skal kunne gjennomgås.
+Konkurransetilsynet skal så snart som mulig orientere den kontrollerte om når tilsynet tar sikte på å begynne gjennomgangen av det beslaglagte materialet slik at vedkommende får mulighet til å være til stede. Konkurransetilsynet skal sette en rimelig frist for den kontrollerte til å benytte seg av retten.
+Dersom Konkurransetilsynet og den kontrollerte ikke blir enige om opplysninger er omfattet av taushetsplikt, skal gjennomgangen av denne delen av beslaget stanses og spørsmålet om opprettholdelse av beslaget avgjøres av tingretten, jf. konkurranseloven § 25 fjerde ledd siste punktum.

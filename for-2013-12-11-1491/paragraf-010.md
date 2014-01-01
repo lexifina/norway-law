@@ -1,0 +1,3 @@
+# § 10. Tilbakelevering av overskuddsinformasjon
+Dokumenter eller annet som inneholder overskuddsinformasjon, skal returneres til den kontrollerte når det er brakt på det rene at de ikke kan ha betydning som bevis i saken. Eventuelle kopier tatt av Konkurransetilsynet skal makuleres og databeslag skal slettes.
+Bestemmelsen i første ledd gjelder ikke dersom dokumentet eller annet inneholder både overskuddsinformasjon og opplysninger som kan ha betydning som bevis i saken, og overskuddinformasjonen ikke kan skilles ut fra den øvrige informasjonen uten at innholdet blir endret, kan misforstås eller dets verdi som bevis svekkes.
