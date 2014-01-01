@@ -1,0 +1,3 @@
+# § 6. Forbud mot ilandføring, omlasting og bearbeiding av fisk i norsk havn
+Fiskeridirektoratet kan nedlegge forbud mot ilandføring fra fangstfeltet, samt omlasting og bearbeiding av fisk i norsk havn, med fartøy som ikke er norsk når fartøyet har tatt del i fiskeaktiviteter som vesentlig er i strid med et ønsket beskatnings- eller fiskemønster, eller som vesentlig er i strid med regler om fiskeaktiviteter som er avtalt med fremmed stat.
+Forbud kan også nedlegges når fartøyet eies eller drives av et rettssubjekt som med et annet fartøy har tatt del i fiskeaktiviteter som vesentlig er i strid med et ønsket beskatnings- eller fiskemønster, eller som vesentlig er i strid med regler om fiskeaktiviteter som er avtalt med fremmed stat.
