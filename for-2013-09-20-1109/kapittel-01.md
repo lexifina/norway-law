@@ -1,0 +1,8 @@
+# Vedlegg I til kvalitetsnorm for ville bestander av atlantisk laks – Klassifisering av kvalitet for villaksbestander i Norge
+Kvalitetsnormen for villaks utgjøres av to delnormer:
+a) Gytebestandsmål og høstingspotensial
+b) Genetisk integritet.
+Gytebestandsmålet er den mengden hunnlaks, målt i vekt, som må gyte for at et optimalt antall smolt kan forlate elva hvert år. Høstingspotensial vurderes i forhold til det som anses å være «normalt høstingsnivå» for en bestand. Med «normalt høstingsnivå» menes det høstingsnivået bestanden skal kunne tåle ett gitt år på bakgrunn av kunnskap om naturlig sjøoverlevelse, samtidig som bestanden når gytebestandsmålet.
+Genetisk integritet vurderes på bakgrunn av artshybridisering, seleksjon og grad av genetisk påvirkning fra oppdrettslaks (målt med genetiske markører). Bestander som er etablert eller reetablert med utgangspunkt i ikke-stedegen stamme i løpet av de siste 100 år, skal bare klassifiseres etter vedlegg II (gytebestandsmål og høstingspotensial). Der det er grunnlag for det, kan det også klassifiseres etter elementene artshybridisering og seleksjon (jf. vedlegg III).
+Delnormene vurderes som to dimensjoner (akser), hvor oppnåelse av gytebestandsmål i forhold til høstingsnivå utgjør den ene aksen og genetisk integritet utgjør den andre aksen. Når disse kombineres, er den dårligste av de to vurderingene styrende for fastsettelse av status. Kvalitetsnormen sammenfatter på denne måten alle vurderingene som er gjort av bestandens kvalitet.
+Metodikk for klassifisering av delnorm a) gytebestandsmål og høstingspotensial og delnorm b) genetisk integritet er vist i henholdsvis vedlegg II og III.

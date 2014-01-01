@@ -1,0 +1,2 @@
+# Artikkel 1. Formål og virkeområde
+Formålet med denne normen er å bidra til at viltlevende bestander av atlantisk laks ivaretas og gjenoppbygges til en størrelse og sammensetning som sikrer mangfold innenfor arten og utnytter laksens produksjons- og høstingsmuligheter. Normen er retningsgivende for myndighetenes forvaltning og skal klargjøre hva som er god kvalitet for villaks og dermed gi myndighetene et best mulig grunnlag for forvaltningen av bestandene og faktorene som påvirker bestandene av atlantisk laks.
