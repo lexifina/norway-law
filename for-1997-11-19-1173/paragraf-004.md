@@ -1,0 +1,2 @@
+# § 4. Beregningsenheten
+Beløpsgrensen som er fastsatt i folketrygdloven § 23-2 sjuende ledd, gjelder den enkelte husstands samlede lønnsutgifter, herunder eventuelle feriepenger og verdien av fri kost og losji, utbetalt til eller stilt til disposisjon for en eller flere arbeidstakere i løpet av inntektsåret. Beløpsgrensen gjelder uavhengig av antall medlemmer i husstanden. Som en husstand regnes den eller de som har felles husholdning. I generasjonsboliger gjelder beløpsgrensen for hver av husstandene dersom de har egen husholdning.
