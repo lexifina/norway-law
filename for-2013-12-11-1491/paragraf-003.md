@@ -1,0 +1,2 @@
+# § 3. Lydopptak
+Opplysninger som gis muntlig etter konkurranseloven § 24 kan lagres som lydopptak. Den som gir opplysningene skal på forhånd underrettes om at det skal benyttes lydopptak. Ved lydopptak skal vedkommende konkurransemyndighet nedtegne et sammendrag av opplysningene, enten samtidig eller så snart som mulig. Den som gir opplysningene skal gis adgang til å gjennomgå og korrigere sammendraget. Sammendraget skal så vidt mulig forelegges den som gir opplysningene for underskrift. Dersom vedkommende nekter å underskrive, skal dette fremkomme av sammendraget.

@@ -1,0 +1,3 @@
+# § 11. Fremgangsmåten ved beslag av elektronisk lagret informasjon
+Konkurransetilsynet skal gi kopi av beslaglagt elektronisk lagret informasjon til den kontrollerte, jf. konkurranseloven § 25 fjerde ledd.
+Dersom Konkurransetilsynet tar beslag i elektronisk lagret informasjon, skal den kontrollerte informeres om retten til å være representert når Konkurransetilsynet begynner gjennomgangen av beslaget, for å avklare om det inneholder opplysninger som er omfattet av taushetsplikt som nevnt i straffeprosessloven § 117 til § 120. Den kontrollerte kan gi Konkurransetilsynet en opptegnelse over beslaglagt materiale som inneholder opplysninger som nevnt i forrige punktum, i stedet for eller i tillegg til å være til stede ved gjennomgangen.

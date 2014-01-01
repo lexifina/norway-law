@@ -1,0 +1,4 @@
+# § 5. Tingrettens beslutning om bevissikring
+Ved bevissikring etter konkurranseloven § 25 skal tingrettens beslutning leses opp eller forevises, jf. straffeprosessloven § 200 første ledd første punktum. Foretak og personer som rammes av bevissikringen skal gis kopi av tingrettens beslutning.
+Tingrettens angivelse av kontrollens formål etter konkurranseloven § 25 tredje ledd har ikke avgjørende betydning for hvilke gjenstander Konkurransetilsynet kan beslaglegge.
+Ved bevissikring som nevnt i første ledd skal Konkurransetilsynet opplyse om at tingrettens beslutning kan påankes av enhver som beslutningen rammer, jf. straffeprosessloven § 377. Videre skal det opplyses om at anken ikke har oppsettende virkning, jf. konkurranseloven § 25 tredje ledd fjerde punktum. Konkurransetilsynet skal også opplyse om at ankefristen er to uker, jf. straffeprosessloven § 379.
