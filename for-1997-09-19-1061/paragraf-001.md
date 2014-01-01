@@ -1,0 +1,4 @@
+# § 1. Virkeområde
+1. Denne forskrift gjelder skip i norsk økonomisk sone eller på åpent hav når den norske kyst, herunder kysten rundt Svalbard og Jan Mayen, eller dermed forbundne interesser er truet av forurensning av olje eller andre stoffer som følge av en sjøulykke eller handlinger i tilknytning til en slik ulykke, som med rimelighet kan ventes å medføre skadelige følger av betydelig omfang.
+2. Forskriften gjelder ikke tiltak mot krigsskip eller annet skip som eies eller benyttes av en stat og som på vedkommende tidspunkt blir benyttet i statlig ikke-kommersiell tjeneste.
+3. Forskriften medfører ingen innskrenkning i den adgang som følger av ellers gjeldende rett til å iverksette tiltak i norsk territorialfarvann, i Norges økonomiske sone eller på norsk kontinentalsokkel for å hindre eller begrense skade som følge av forurensning av olje eller andre skadelige stoffer.
