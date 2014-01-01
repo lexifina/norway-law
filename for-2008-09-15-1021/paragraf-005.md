@@ -1,0 +1,2 @@
+# § 5. Karantene
+Forvalter skal under forvalteroppdraget, og i en periode på ett år etter forvalteroppdragets avslutning, avstå fra å yte tjenester til eller ta ansettelse eller verv i det eller de foretak som vedtaket retter seg mot eller tilknyttede foretak. Den samme begrensningen gjelder for forvalters adgang til å yte tjenester til den eller de som overtar rettigheter som følge av Konkurransetilsynets vedtak. Konkurransetilsynet kan likevel godta at forvalter påtar seg slike oppdrag dersom dette er ubetenkelig.
