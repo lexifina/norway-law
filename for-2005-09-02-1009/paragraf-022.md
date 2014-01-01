@@ -1,0 +1,2 @@
+# § 22. Godkjenning og tilsyn
+Miljødirektoratet godkjenner søknad om transport og import av genmodifiserte organismer, og fører tilsyn med at bestemmelsene i forskriften overholdes. Myndighetene skal behandle søknaden så raskt som mulig. Dersom saken ikke er avgjort innen en måned etter at myndighetene mottok søknaden, skal søker skriftlig informeres om dette og om når resultatet antas å foreligge.

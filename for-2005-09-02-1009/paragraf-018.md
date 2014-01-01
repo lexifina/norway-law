@@ -1,0 +1,8 @@
+# § 18. Oversendelse av opplysninger ved eksport av genmodifiserte organismer
+Ved eksport skal eksportøren påse at følgende opplysninger, i tillegg til de som er angitt i § 19, fremgår av ledsagende dokument og oversendes importøren som mottar den genmodifiserte organismen:
+a) For genmodifiserte organismer beregnet til direkte bruk som mat, fôr eller til videreforedling en erklæring fra eksportøren om at de genmodifiserte organismene er beregnet til slik bruk og ikke til utsetting i miljøet, et kontaktpunkt for videre informasjon, herunder eksportør, importør eller ansvarlig myndighet i eksportlandet, organismenes vanlige, vitenskapelige og eventuelle kommersielle navn.
+b) For genmodifiserte organismer bestemt for innesluttet bruk, vanlig og vitenskapelig navn på organismen, at den er beregnet på innesluttet bruk, forholdsregler i forbindelse med håndtering, lagring, transport og bruk, og angivelse av et kontaktpunkt for ytterligere informasjon, herunder navn og adresse til den som skal motta organismene.
+c) For genmodifiserte organismer beregnet på tilsiktet utsetting i miljøet i importlandet og eventuelt andre genmodifiserte organismer som faller inn under forskriften, en erklæring fra eksportøren om at transporten er i samsvar med Cartagena-protokollens krav til eksportøren og med følgende tilleggsopplysninger:
+1) opplysninger om organismen: Vanlig navn og vitenskapelig navn og karakteristikk av den genmodifiserte organismen, eller en unik identifikasjonskode hvis slik finnes,
+2) forholdsregler i forbindelse med håndtering, lagring, transport og bruk, og
+3) et kontaktpunkt for ytterligere informasjon, herunder eksportør og importør.

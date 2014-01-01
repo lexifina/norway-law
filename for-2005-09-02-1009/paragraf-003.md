@@ -1,0 +1,2 @@
+# § 3. Definisjoner
+I denne forskrift menes med:Genmodifiserte organismer: mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi.Risikoklasser: mikroorganismer klassifiseres i henhold til forskrift 21. desember 2001 nr. 1600 om innesluttet bruk av genmodifiserte mikroorganismer, § 6. Virksomheten klassifiseres i risikoklassene 1, 2, 3 eller 4.

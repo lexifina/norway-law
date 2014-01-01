@@ -1,0 +1,2 @@
+# § 6. Hovedregel for transport og import
+Med unntak for genmodifiserte organismer som nevnt i § 7, kan transport og import av genmodifiserte organismer skje uten særskilt godkjenning dersom forskriftens krav til merking og emballering er oppfylt. Transport av genmodifiserte organismer som er omfattet av, og oppfyller kravene i eller er godkjent i medhold av gjeldende regler for transport av farlig gods, kan transporteres uten særskilt godkjenning etter denne forskriften.

@@ -1,0 +1,2 @@
+# § 9. Journalføring
+All transport og import av genmodifiserte organismer skal journalføres av mottaker i Norge, og også av avsender når begge befinner seg i Norge. Journalen skal beskrive hvilken genmodifisert organisme det dreier seg om, dato for avsendelse og mottak, og resultat av kontroll med at alt er kommet frem. Journalen skal til enhver tid være tilgjengelig for tilsynsmyndigheten. Gjenpart av transportdokumenter skal vedlegges journalen.

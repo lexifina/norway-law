@@ -1,0 +1,3 @@
+# § 12. Emballering av mikroorganismer
+Emballasjen skal være tett, lukket og bruddsikker mv. slik at den hindrer at innholdet slipper utilsiktet ut.
+For mikroorganismer hvor virksomheten er klassifisert i risikoklasse 2, 3 og 4 skal det alltid være en indre og en ytre beholder som begge er vanntette. Mellom den indre og den ytre beholderen skal det være et væskeabsorberende materiale som kan ta opp i seg like mye væske som det er inne i beholderen. Hvis flere innerbeholdere fraktes i samme ytterbeholder skal hver innerbeholder emballeres for seg i støt- og væskeabsorberende materiale. Den ytre beholderen skal være tett, lukket, bruddsikker mv. slik at den hindrer at innholdet slipper utilsiktet ut.
