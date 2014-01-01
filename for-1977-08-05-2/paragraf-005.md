@@ -1,0 +1,2 @@
+# § 5. (Forskrifter etter produktkontrolloven)
+Myndighet til å gi forskrifter etter produktkontrollovens § 4 tilligger Klima- og miljødepartementet og Barne- og familiedepartementet. Dersom forskriften er av prinsipiell interesse skal det andre departement uttale seg før forskriften vedtas. Nye fellesforskrifter fastsettes av Klima- og miljødepartementet og Barne- og familiedepartementet i fellesskap.
