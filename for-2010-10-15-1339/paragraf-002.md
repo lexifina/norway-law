@@ -1,0 +1,2 @@
+# § 2. Rett til erstatning ved vedtak om vern av område som nasjonalpark eller landskapsvernområde etter naturvernloven
+I henhold til naturmangfoldloven § 77 kan eier eller rettighetshaver som har fått område vernet som nasjonalpark eller landskapsvernområde etter den tidligere naturvernloven (lov 19. juni 1970 nr. 63 om naturvern), kreve erstatning etter naturmangfoldloven dersom den ordinære fristen for å kreve erstatning ikke var gått ut 1. januar 2002.
