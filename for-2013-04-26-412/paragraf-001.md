@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriftens formål er å verne miljøet i Antarktis og dets avhengige og tilknyttede økosystemer, bevare Antarktis' egenverdi, herunder villmarkskarakter og estetiske verdier, og å opprettholde områdets verdi for vitenskapelig forskning. Forskriften har også som formål at all aktivitet i Antarktis som omfattes av forskriften skal gjennomføres på en sikker og selvforsynt måte. Disse hensyn skal være grunnleggende i planlegging og gjennomføring av all aktivitet i Antarktis.
