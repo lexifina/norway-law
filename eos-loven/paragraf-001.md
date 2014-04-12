@@ -1,0 +1,2 @@
+# § 1
+Bestemmelsene i hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde skal gjelde som norsk lov, med de endringer som følger av protokoll om justering av avtalen av 17. mars 1993, av EØS-utvidelsesavtalen av 14. oktober 2003, av EØS-utvidelsesavtalen for Bulgaria og Romania i 2007 og av EØS-utvidelsesavtalen for Kroatia av 2014. Det samme gjelder artikkel 1 til 3 i avtalens Protokoll 25 om konkurranse innen kull- og stålproduksjon.
