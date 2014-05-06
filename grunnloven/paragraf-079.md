@@ -1,0 +1,2 @@
+# § 79
+Er en lovbeslutning blitt uforandret antatt av to storting, sammensatt etter to på hinannen følgende valg og innbyrdes adskilt ved minst to mellomliggende storting, uten at avvikende lovbeslutning i mellomtiden fra den første til den siste antagelse er fattet av noe storting, og den da forelegges kongen med begjæring om at Hans Majestet ikke vil nekte en lovbeslutning sin sanksjon, som Stortinget etter det modneste overlegg anser for gagnlig, så blir den lov selv om kongens sanksjon ikke gis innen Stortinget adskilles.

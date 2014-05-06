@@ -1,0 +1,3 @@
+# § 74
+Så snart Stortinget har konstituert seg, åpner kongen eller den han beskikker, dets forhandlinger med en tale der han underretter det om rikets tilstand og de forhold som han især ønsker å lede Stortingets oppmerksomhet mot. Ingen deliberasjon må finne sted i kongens nærvær.
+Når Stortingets forhandlinger er åpnet, har statsministeren og statsrådene rett til å møte i Stortinget og på linje med dets egne medlemmer, dog uten å avgi stemme, delta i forhandlingene for så vidt disse holdes for åpne dører, men i de saker som forhandles for lukkede dører, bare for så vidt Stortinget måtte tilstede det.

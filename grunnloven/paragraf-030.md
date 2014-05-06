@@ -1,0 +1,4 @@
+# § 30
+I statsrådet føres protokoll over alle de saker som der forhandles. De diplomatiske saker som i statsrådet besluttes hemmeligholdt, innføres i en egen protokoll. Det samme gjelder de militære kommandosaker som i statsrådet besluttes hemmeligholdt.
+Enhver som har sete i statsrådet, er pliktig til med frimodighet å si sin mening, som kongen er forpliktet til å høre. Men det er denne forbeholdt å fatte beslutning etter sitt eget omdømme.
+Finner noe medlem av statsrådet at kongens beslutning strider mot statsformen eller rikets lover, er det en plikt å gjøre kraftige motforestillinger samt å tilføye sin mening i protokollen. Den som ikke slik har tilkjennegitt sin protest, anses å ha vært enig med kongen og er ansvarlig for dette, således som siden bestemmes, og kan av Stortinget settes under tiltale for Riksretten.

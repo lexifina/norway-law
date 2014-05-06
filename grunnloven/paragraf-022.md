@@ -1,0 +1,4 @@
+# § 22
+Statsministeren og statsrådets øvrige medlemmer samt statssekretærene kan uten foregående dom avskjediges av kongen etter at han har hørt statsrådets betenkning derom. Det samme gjelder for de embetsmenn som er ansatt ved statsrådets kontorer eller ved diplomatiet eller konsulatvesenet, sivile overøvrighetspersoner, sjefer for regimenter og andre militære korps, kommandanter på festninger og høystbefalende på krigsskip. Hvorvidt pensjon bør tilstås de således avskjedigede embetsmenn, avgjøres av det neste storting. I mellomtiden nyter de to tredjedeler av sin tidligere gasje.
+Andre embetsmenn kan bare suspenderes av kongen og skal da straks tiltales for domstolene. Men de må ikke avsettes uten etter dom og heller ikke forflyttes mot sin vilje.
+Alle embetsmenn kan uten foregående dom avskjediges når de har nådd en aldersgrense fastsatt ved lov. Det kan bestemmes ved lov at visse embetsmenn, som ikke er dommere, kan utnevnes på åremål.

@@ -1,0 +1,3 @@
+# § 112
+Viser erfaring at noen del av denne kongeriket Norges Grunnlov bør forandres, skal forslag derom fremsettes på første, annet eller tredje storting etter et nytt valg og kunngjøres ved trykken. Men det tilkommer først det første, annet eller tredje storting etter neste valg å bestemme om den foreslåtte forandring bør finne sted eller ei. Dog må en slik forandring aldri motsi denne grunnlovs prinsipper, men bare angå slike modifikasjoner i enkelte bestemmelser som ikke forandrer denne konstitusjons ånd, og to tredjedeler av Stortinget bør være enige i en slik forandring.
+En således vedtatt grunnlovsbestemmelse underskrives av Stortingets president og sekretær og sendes kongen til kunngjøring ved trykken som gjeldende bestemmelse i kongeriket Norges Grunnlov.

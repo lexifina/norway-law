@@ -1,0 +1,3 @@
+# § 93
+For å sikre den internasjonale fred og sikkerhet eller fremme internasjonal rettsorden og samarbeid kan Stortinget med tre fjerdedels flertall samtykke i at en internasjonal sammenslutning som Norge er tilsluttet eller slutter seg til, på et saklig begrenset område skal ha rett til å utøve beføyelser som etter denne Grunnlov ellers tilligger statens myndigheter, dog ikke beføyelse til å forandre denne Grunnlov. Når Stortinget skal gi sitt samtykke, bør, som ved behandling av grunnlovsforslag, minst to tredjedeler av dets medlemmer være til stede.
+Bestemmelsene i denne paragraf gjelder ikke ved deltagelse i en internasjonal sammenslutning hvis beslutninger bare har rent folkerettslig virkning for Norge.
