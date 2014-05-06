@@ -1,0 +1,5 @@
+# § 86
+Riksretten dømmer i første og siste instans i de saker som Stortinget anlegger mot statsrådets, Høyesteretts eller Stortingets medlemmer for straffbart eller annet rettsstridig forhold når de har brutt sine konstitusjonelle plikter.
+De nærmere regler for Stortingets påtale etter denne paragraf fastsettes ved lov. Dog kan det ikke settes kortere foreldelsesfrist enn 15 år for adgangen til å gjøre ansvar gjeldende ved tiltale for Riksretten.
+Dommere i Riksretten er 6 medlemmer valgt av Stortinget og de 5 etter embetsalder eldste, fast utnevnte medlemmer av Høyesterett, deriblant Høyesteretts justitiarius. Stortinget velger medlemmene og stedfortrederne for 6 år. Et medlem av statsrådet eller Stortinget kan ikke velges til medlem av Riksretten. I Riksretten har Høyesteretts justitiarius forsetet.
+Den som har tatt sete i Riksretten som valgt av Stortinget, trer ikke ut av retten selv om den tid han eller hun er valgt for, utløper før Riksrettens behandling av saken er tilendebrakt. Heller ikke en høyesterettsdommer som er medlem av Riksretten, trer ut av retten selv om han eller hun fratrer som medlem av Høyesterett.
