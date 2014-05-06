@@ -1,0 +1,7 @@
+# § 59
+Valet av distriktsrepresentantar er eit høvestalsval, og mandata blir delte mellom partia etter reglane nedanfor.
+Røystetalet for kvart parti i kvart valdistrikt skal delast med 1,4; 3; 5; 7 og så bortetter. Det fyrste mandatet går til det partiet som får den største kvotienten, det neste mandatet går til det partiet som får den nest største kvotienten, og så bortetter til alle mandata er utdelte.
+Listesamband er ulovleg.
+Med sikte på best mogleg samsvar mellom røystetal og representasjon blir utjamningsmandata delte mellom dei partia som er med i utjamninga, på grunnlag av høvet mellom røystetala deira i heile riket. Kor mange stortingsmandat kvart parti skal ha i alt, finn ein ved å nytte reglane for tildeling av distriktsmandat tilsvarande for heile riket for dei partia som er med i utjamninga. Så får kvart parti tildelt så mange utjamningsmandat attåt distriktsmandata det alt har fått, at det til saman utgjer så mange stortingsmandat som partiet skal ha i alt. Har eit parti alt ved utdelinga av distriktsmandata fått fleire mandat enn det skulle hatt etter framgangsmåten ovanfor, skal utjamningsmandata delast berre mellom dei andre partia, såleis at ein ser bort frå det røystetalet og dei distriktsmandata som det fyrstnemnde partiet har fått.
+Ingen parti kan få utjamningsmandat utan å ha fått minst 4 prosent av det samla røystetalet for heile riket.
+Nærare føresegner om korleis utjamningsmandata til partia skal delast mellom valdistrikta, blir fastsette i lov.
