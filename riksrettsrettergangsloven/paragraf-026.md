@@ -1,0 +1,3 @@
+# § 26
+I forbindelse med domsavsigelsen fastsetter retten den godtgjørelse som tilkommer anklageren, forsvareren og særskilt oppnevnte protokollførere. Godtgjørelsen utredes av statskassen. Har Høyesteretts direktør eller noen av Høyesteretts protokollsekretærer tjenestegjort som protokollfører ved Riksretten, kan han tilstås godtgjørelse i den utstrekning retten finner rimelig.
+Blir den anklagede dømt eller retten finner at den anklagedes forhold ikke har vært rettmessig efter forfatningen, kan det ved dommen pålegges ham å betale erstatning til statskassen for omkostningene ved saken. Omkostningsansvaret skal i så fall fastsettes til et beløp som avpasses efter den domfeltes skyld og økonomiske evne.
