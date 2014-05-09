@@ -1,0 +1,3 @@
+# § 28
+Når saken således er tilendebragt, utferdiges avskrift av dommen, som underskrives av Riksrettens president og paraferes av dens sekretær. Hvis Stortinget er samlet, når dommen faller, blir denne domsavskrift først å tilstille Stortingets president, for å opleses i Stortinget, hvorefter den forsynes med publikasjonspåtegning av Stortingets president og sendes tilbake til Riksrettspresidenten, som derefter sender den til Regjeringen med anmodning om dennes foranstaltning i henseende til dommens fullbyrdelse. Er Stortinget ikke samlet, sender Riksrettens president, efter å ha underrettet Stortingets president, domsavskriften direkte til Regjeringen med sådan anmodning som nevnt.
+Sakens dokumenter og rettsboken i saken opbevares i Stortingets arkiv.

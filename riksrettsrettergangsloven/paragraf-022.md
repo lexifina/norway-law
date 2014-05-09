@@ -1,0 +1,3 @@
+# § 22
+Efterat den anklagede er avhørt, foregår bevisførselen. Anklageren og forsvareren er forpliktet til i tide å forevise hinannen de dokumenter, som de under prosedyren akter å benytte og intet dokument må av anklageren fremlegges i retten, som ikke er forsynt med forsvarerens forevisningspåtegning. Det samme gjelder forsvareren eller den anklagede. Har tiden ikke vært tilstrekkelig til å forberede bevisførselen, kan retten av denne grunn utsette saken i så lang tid som finnes påkrevet.
+Når vidner avhøres for den samlede rett, ledes avhøringen av Riksrettens president eller, når han bestemmer det, av den eldste høiesterettsdommer. Det samme gjelder om avhøringen av sakkyndige. Det kan overlates til anklageren og forsvareren helt eller delvis å foreta avhøringen.
