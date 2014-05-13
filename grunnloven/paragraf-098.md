@@ -1,2 +1,3 @@
 # § 98
-Med sportler som betales til rettens betjenter, bør ingen avgifter til statskassen være forbundet.
+Alle er like for loven.
+Intet menneske må utsettes for usaklig eller uforholdsmessig forskjellsbehandling.

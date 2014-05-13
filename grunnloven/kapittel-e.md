@@ -1,1 +1,1 @@
-# E. Alminnelige bestemmelser
+# E. Menneskerettigheter
