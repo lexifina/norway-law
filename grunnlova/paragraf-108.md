@@ -1,2 +1,2 @@
 # § 108
-Heretter kan det ikkje skipast grevskap, baroni, stamhus eller fideikommiss.
+Dei statlege styresmaktene skal leggje til rette for at den samiske folkegruppa kan tryggje og utvikle samisk språk, kultur og samfunnsliv.

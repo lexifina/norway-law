@@ -1,2 +1,2 @@
 # § 108
-Ingen grevskaper, baronier, stamhus og fideikommisser må for ettertiden opprettes.
+Det påligger statens myndigheter å legge forholdene til rette for at den samiske folkegruppe kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.
