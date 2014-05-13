@@ -1,2 +1,3 @@
 # § 106
-Så vel kjøpesummer som inntekter av det gods som er benefisert geistligheten, skal bare anvendes til geistlighetens beste og til opplysningens fremme. Milde stiftelsers eiendommer skal bare anvendes til gagn for disse.
+Enhver som oppholder seg lovlig i riket, kan fritt bevege seg innenfor rikets grenser og velge sitt bosted der.
+Ingen kan nektes å forlate riket med mindre det er nødvendig av hensyn til en effektiv rettsforfølgelse eller for avtjening av verneplikt. Norske statsborgere kan ikke nektes adgang til riket.

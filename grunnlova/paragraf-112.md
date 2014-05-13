@@ -1,3 +1,4 @@
 # § 112
-Viser røynsla at nokon del av denne grunnlova for Kongeriket Noreg bør endrast, skal framlegget om endring leggjast fram på det fyrste, andre eller tredje stortinget etter eit nytt val og kunngjerast på prent. Men det er fyrst det fyrste, andre eller tredje stortinget etter neste val som avgjer om endringa skal gjerast eller ikkje. Ei slik endring må likevel ikkje stri mot prinsippa i denne grunnlova, men berre gjelde modifikasjonar i einskilde føresegner som ikkje endrar ånda i denne konstitusjonen, og to tredjedelar av Stortinget må vere samde i ei slik endring.
-Ei grunnlovsføresegn som er vedteken på denne måten, skal underskrivast av Stortingets president og sekretær og sendast til kongen til kunngjering på prent som gjeldande føresegn i Kongeriket Noregs grunnlov.
+Alle har rett til eit helsesamt miljø og ein natur der produksjonsevna og mangfaldet blir haldne ved lag. Naturressursane skal disponerast ut frå ein langsiktig og allsidig synsmåte som tryggjer denne retten òg for kommande slekter.
+Borgarane har rett til kunnskap om korleis det står til med naturmiljøet, og om verknadene av planlagde og iverksette inngrep i naturen, slik at dei kan tryggje den retten dei har etter førre leddet.
+Dei statlege styresmaktene skal setje i verk tiltak som gjennomfører desse grunnsetningane.

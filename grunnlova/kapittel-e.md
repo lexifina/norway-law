@@ -1,1 +1,1 @@
-# E. Allmenne føresegner
+# E. Menneskerettar

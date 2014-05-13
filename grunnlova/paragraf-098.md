@@ -1,2 +1,3 @@
 # § 98
-Det må ikkje leggjast avgifter til statskassa på sportlar som blir betalte til dei som gjer teneste for retten.
+Alle er like for lova.
+Ikkje noko menneske må utsetjast for usakleg eller mishøveleg forskjellsbehandling.
