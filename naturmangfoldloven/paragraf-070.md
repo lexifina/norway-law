@@ -1,3 +1,3 @@
 # § 70. (uforutsette miljøkonsekvenser av lovlig virksomhet)
-Dersom det viser seg at tiltak i samsvar med loven eller vedtak i medhold av loven medfører vesentlige uforutsette konsekvenser for naturmangfoldet, skal den ansvarlige treffe rimelige tiltak for å avverge eller begrense skader og ulemper. Når det kan skje uten særlig ulempe for den ansvarlige, kan myndighetene gi pålegg om gjenoppretting av den tidligere tilstand for mangfoldet.
+Dersom det viser seg at tiltak i samsvar med loven eller vedtak i medhold av loven medfører vesentlige uforutsette konsekvenser for naturmangfoldet, skal den ansvarlige treffe rimelige tiltak for å avverge eller begrense skader og ulemper.
 Myndigheten etter loven kan pålegge den ansvarlige innen en fastsatt frist å utføre tiltak som nevnt i første ledd. Når det kan skje uten særlig ulempe for den ansvarlige, kan myndigheten gi pålegg om gjenoppretting av den tidligere tilstand for mangfoldet.
