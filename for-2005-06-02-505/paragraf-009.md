@@ -1,0 +1,2 @@
+# § 9. Klima
+Klimaet i stallen skal være tilpasset hestenes behov. I stall skal temperatur, luftfuktighet og luftstrømmer tilpasses etter hva som er gunstig for hestenes trivsel. Alle staller skal ha ventilasjonssystemer som sikrer tilstrekkelig luftskifte. Gasser i uheldige konsentrasjoner skal ikke komme inn eller oppstå i rom hvor det er hest. Støv og annen luftforurensning skal holdes på et lavest mulig nivå og skal ikke gi vesentlig ubehag for hestene eller medføre helseskade.

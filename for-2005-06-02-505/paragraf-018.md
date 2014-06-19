@@ -1,0 +1,2 @@
+# § 18. Sjuke og skadde dyr
+Sjuke og skadde hester skal straks undersøkes og behandles på en forsvarlig måte. Ved allmennpåkjenning eller mistanke om smittsom sjukdom skal veterinær konsulteres. Når det er nødvendig, skal sjuke eller skadde hester på utegang settes inn på egnet sted med tørr og myk liggeplass. Ved mistanke om smittsom sjukdom skal hesten settes på isolatboks der dette finnes. Dersom det fører til unødig lidelse for hesten å leve videre, skal den avlives.

@@ -1,0 +1,2 @@
+# § 29. Bruk av hest i hestesenter
+Hest som brukes i hestesenter, må være i normalt godt hold, skikket til det bruk den er bestemt for og minst 4 år gammel. Bruken av hesten skal tilpasses hestens kondisjon, alder og opplæring. Høydrektige hopper og hopper med unge føll skal ikke brukes. Hest som leies eller lånes ut til person som har liten eller ingen erfaring i den aktuelle bruk av hesten, skal ledsages av eller være under tilsyn av hestevant og erfaren person tilknyttet hestesenteret.

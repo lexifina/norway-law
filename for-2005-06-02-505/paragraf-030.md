@@ -1,0 +1,2 @@
+# § 30. Om omsetning av flere enn 6 hester i året
+Ansvarlig leder plikter å forsikre seg om at hestene som omsettes ikke kommer fra besetning som det er forbudt å selge slike dyr fra pga. smittsom dyresjukdom eller mistanke om slik sjukdom. Det skal føres fortegnelse over virksomheten slik at det kan gjøres rede for hvor den enkelte hest kommer fra og hvem den er solgt til. Disse fortegnelsene skal på oppfordring legges fram for Mattilsynet.
