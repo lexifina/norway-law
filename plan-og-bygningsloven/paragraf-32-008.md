@@ -1,7 +1,7 @@
 # § 32-8. Overtredelsesgebyr
 Overtredelsesgebyr kan ilegges den som forsettlig eller uaktsomt:
-a) prosjekterer eller utfører et tiltak i strid med bestemmelser gitt i eller i medhold av denne lov når dette kan føre eller har ført til personskade, vesentlig materiell skade eller skade for miljøet
-b) utfører, lar utføre, bruker eller lar bruke tiltak uten at det foreligger nødvendig tillatelse etter denne lov, eller er i strid med vilkårene i slik tillatelse
+a) prosjekterer, utfører eller lar prosjektere eller utføre et tiltak i strid med bestemmelser gitt i eller i medhold av denne lov, eller i strid med vilkårene i tillatelse
+b) utfører, lar utføre, bruker eller lar bruke tiltak uten at det foreligger nødvendig tillatelse etter denne lov
 c) ikke utfører kontroll av tiltak i samsvar med bestemmelser om dette gitt i eller i medhold av denne lov, og gitte tillatelser
 d) bruker eller lar bruke byggverk eller del av byggverk eller areal uten at det foreligger nødvendig tillatelse etter denne lov, eller bruken er i strid med bestemmelser gitt i eller i medhold av denne lov, vedtak eller plan
 e) prosjekterer, utfører eller lar utføre eller kontrollerer et tiltak etter § 20-1 uten at arbeidet blir forestått av ansvarlige som er godkjent etter § 22-1 og er tildelt ansvarsrett etter § 21-4 tredje ledd
