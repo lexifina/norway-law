@@ -1,3 +1,2 @@
-# § 18. Bruk av utlodninger, konkurranser mv. ved markedsføring til forbrukere
-Det er forbudt i næringsvirksomhet å søke å fremme omsetningen av ytelser ved å iverksette utlodninger, konkurranser eller lignende for forbrukerne dersom deltakelse forutsetter kjøp eller motytelse. Forbudet gjelder ikke fordeling av premier for oppgaveløsninger eller iverksetting av konkurranser i mediene.
+# § 18. Tilleggsfordel ved markedsføring til forbrukere
 Næringsdrivende som i markedsføring tilbyr forbrukerne en tilleggsfordel eller en mulighet for å oppnå en slik fordel, eksempelvis i form av rabatter, gaver, deltakelse i konkurranser eller spill, skal sikre at vilkårene for å benytte seg av tilbudet er klare og lett tilgjengelige for forbrukerne.
