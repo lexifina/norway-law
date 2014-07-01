@@ -1,0 +1,2 @@
+# § 4. Innhold og omfang
+Arbeidsdepartementet fastsetter nærmere bestemmelser om innhold og omfang av den obligatoriske opplæringen som beskrevet i § 3 første ledd i samarbeid med Helse- og omsorgsdepartementet. Opplæringen skal omfatte legens rolle i det inkluderende arbeidslivet, herunder sykmeldingsprosessen og samhandling mellom aktørene, samt regelverksforståelse når det gjelder sykmeldingsarbeid.
