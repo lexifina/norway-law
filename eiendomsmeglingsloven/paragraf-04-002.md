@@ -5,8 +5,7 @@
 3) har minst to års praktisk erfaring etter bestått eiendomsmeglereksamen,
 4) er myndig, og
 5) er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
-(2) Søkeren må fremlegge politiattest som nevnt i § 2-9 tredje og sjette ledd.
+(2) Søkeren må fremlegge politiattest som nevnt i § 2-9 tredje ledd.
 (3) Departementet kan i forskrift fastsette nærmere regler om kravene til eksamen og praksis, herunder gjøre unntak fra kravet til praksis.
 (4) Departementet kan i forskrift fastsette bestemmelser om godkjenning av søkere med yrkeskvalifikasjoner fra andre land.
 (5) Søkeren kan kreve at eiendomsmeglerbrevet utstedes på papir.
-(6) Finanstilsynet kan til enhver tid kreve at innehavere av eiendomsmeglerbrev skal legge frem ny politiattest.
