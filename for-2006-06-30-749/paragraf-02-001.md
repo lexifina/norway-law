@@ -1,0 +1,3 @@
+# § 2-1. Teknisk kommunikasjons- og sikkerhetsutstyr mv.
+Politidistriktets primærarrest og sekundærarrester kan være utstyrt med teknisk utstyr i den grad det er nødvendig for å ivareta kommunikasjon og sikkerhet. Teknisk utstyr i cellene skal bare benyttes for å ivareta den innsattes helseforhold. For øvrig skal kommunikasjons- og sikkerhetsutstyr være i samsvar med de til enhver tid gjeldende retningslinjer fastsatt av Politidirektoratet.
+Overvåkning eller opptak ved lyd eller bilde, skal varsles med godt synlige oppslag ved inngangen til arrestlokalet. Samtale med advokat, konsulær representant eller helsepersonell skal skje i rom uten overvåkningsutstyr.
