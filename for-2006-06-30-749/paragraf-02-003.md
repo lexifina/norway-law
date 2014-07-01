@@ -1,0 +1,5 @@
+# § 2-3. Helsetilsyn
+Før innsettelse i politiarrest skal politiet vurdere behovet for helsehjelp og sørge for nødvendig fremstilling for lege. Politiet skal sørge for skjerpet tilsyn med innsatte i påvente av gjennomføring av lege- eller helsetilsyn.
+Dersom den innbrakte på grunn av beruselse er ute av stand til å ta vare på seg selv eller å gjøre rede for seg, skal politiet straks vurdere umiddelbart å bringe vedkommende til legevakt eller annet egnet tilbud i helsetjenesten. Dersom slik overføring ikke finner sted, skal vedkommende ha legetilsyn ved innsettelsen i arresten.
+Under arrestoppholdet skal innsatte gis rett til å ta kontakt med lege for nødvendig helsehjelp. Kontakten kan gjennomføres enten ved at politiet henvender seg til helsepersonell eller ved at den innsatte selv tar kontakt med helsepersonell pr. telefon etter at politiet har forvisset seg om at det er helsepersonell som besvarer henvendelsen. Hvis den innsatte ønsker det, skal vedkommende kunne samtale direkte og ukontrollert med helsepersonellet.
+Tidspunktet for legeundersøkelsen og eventuelle tiltak som følge av denne skal anmerkes i arrestjournalen.
