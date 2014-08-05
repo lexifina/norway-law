@@ -1,0 +1,2 @@
+# § 7. Opptakskrav
+Krav til opptak er 3-årig helse- og omsorgsfaglig utdanning fra høgskole eller universitet og minst ett års relevant yrkespraksis etter fullført utdanning. Søkere med 2-årig helse- og omsorgsfaglig utdanning etter tidligere rammeplan kan også tas opp. Søkere med annen 3-årig høgskole- eller universitetsutdanning kan etter særskilt vurdering tas opp. Høgskolens styre kan selv fastsette utfyllende bestemmelser.
