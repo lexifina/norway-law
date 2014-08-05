@@ -1,0 +1,3 @@
+# § 19. Ansvar for innkrevingen
+Vedkommende utdanningsinstitusjon krever inn semesteravgiften i samråd med studentsamskipnaden. Innkrevingen kan imidlertid gjennomføres av vedkommende studentsamskipnad når forholdene ligger til rette for det, og avtale er inngått med utdanningsinstitusjonen. Den som krever inn avgiften, kan iverksette tiltak for å kontrollere at avgiften innbetales.
+Studenter som etter § 18 første ledd kan velge å betale semesteravgift til en annen studentsamskipnad, må dokumentere overfor den ansvarlige for innkreving av semesteravgift ved eksamensinstitusjonen at semesteravgift er betalt til en annen studentsamskipnad.

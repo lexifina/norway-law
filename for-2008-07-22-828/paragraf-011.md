@@ -1,0 +1,7 @@
+# § 11. Fri stasjon
+Fri stasjon innebærer at utdanningsinstitusjonen stiller egnede lokaler/arealer med nødvendig basisutstyr til rådighet for studentsamskipnadens studentvelferdsvirksomhet ved institusjonen. Det kan etter avtale med studentsamskipnaden stilles egnede lokaler til rådighet til studentrettede tiltak som drives i regi av andre enn studentsamskipnaden, dersom det kommer studentvelferden på stedet til gode.
+Fri stasjon er en form for offentlig støtte til studentvelferd, og bruken av det må innrettes slik at det bare kommer studentene til gode.
+Dersom det er vanskelig å angi hvor stor del av lokalene som benyttes til studentvelferdsvirksomhet, må andelen estimeres. Ved estimering av hvor stor del av lokalene som anvendes til studentvelferdsvirksomhet kan det ses hen til andelen av inntekter fra salg av varer og tjenester som kommer fra andre brukere enn studenter. Dersom studentsamskipnaden ikke har inntekter i tilknytning til studentvelferdsvirksomheten i lokalet, må andel av lokalene som blir benyttet til slik studentvelferdsvirksomhet fastsettes etter en skjønnsmessig vurdering.
+Verdien av fri stasjonsytelsen skal beregnes etter faktiske kostnader dersom dette lar seg gjøre eller etter de til enhver tid fastsatte satser av departementet.
+Eventuelle tilskudd fra utdanningsinstitusjonen for å subsidiere egne ansattes eller andres bruk av velferdstjenestene er ikke en del av fri stasjonsytelsen, og skal nedfelles i en egen avtale.
+Verdien av fri stasjon skal fremkomme i studentsamskipnadenes regnskap.

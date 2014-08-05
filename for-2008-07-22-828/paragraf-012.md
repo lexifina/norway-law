@@ -1,0 +1,3 @@
+# § 12. Lokalene
+Lokalene som stilles til rådighet av utdanningsinstitusjonen skal være egnet for den studentsamskipnad det gjelder. Lokalene skal være av en slik art og størrelse at de står i rimelig forhold til antall studenter og det omfang av tjenester studentsamskipnaden utøver overfor studentene ved institusjonen. Det skal være en hensiktsmessig geografisk nærhet mellom de lokalene som stilles til disposisjon og utdanningsvirksomheten.
+Lokalene som stilles til disposisjon må tilfredsstille gjeldende krav til systematisk helse-, miljø- og sikkerhetsarbeid, jf. lov om arbeidsmiljø, arbeidstid og stillingsvern mv., § 3-1.
