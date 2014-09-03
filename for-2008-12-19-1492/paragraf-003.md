@@ -1,0 +1,3 @@
+# § 3. Opplysningsplikt og kontroll
+Virksomheter som svarer prisutjevningsbeløp etter denne forskrift, plikter å gi alle opplysninger som Landbruksdirektoratet finner nødvendig for å fastsette prisutjevningsbeløp, oppfylle jordbruksavtalens intensjoner og administrere tollvernet. Det kan kreves at opplysningene bekreftes av revisor.
+Landbruksdirektoratet fører kontroll med at bestemmelsene i denne forskriften blir overholdt og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer virksomhetens innbetalte prisutjevningsbeløp. Landbruksdirektoratet kan foreta stedlig kontroll. Virksomheten plikter å yte bistand ved slik kontroll.
