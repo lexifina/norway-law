@@ -1,0 +1,4 @@
+# § 2. Prisutjevningsbeløp
+Den som tilvirker kraftfôr til husdyrproduksjon skal betale et prisutjevningsbeløp for nærmere definerte råvarer som benyttes i tilvirkingsprosessen. Det skal også betales prisutjevningsbeløp dersom slike råvarer anvendes direkte som kraftfôr til husdyrproduksjon.
+Kraftfôr nyttet til fisk, pelsdyr eller kjæledyr skal ikke pålegges prisutjevningsbeløp. Dette gjelder også organisk avfall som nyttes som råvarer til kraftfôr i husdyrproduksjon. Landbruksdirektoratet fastsetter hvilke råvarer som til enhver tid er å definere som organisk avfall.
+Satsen for prisutjevningsbeløpet skal fastsettes slik at norskprodusert korn og oljefrø sikres muligheter til avsetning til de priser som er avtalt i jordbruksoppgjøret. Det skal ved fastsetting av satsen tas hensyn til at korn, oljefrø og andre råvarer som anvendes som innsatsvarer i kraftfôrproduksjonene, får likeverdige priser i forhold til den enkelte råvares fôrverdi.
