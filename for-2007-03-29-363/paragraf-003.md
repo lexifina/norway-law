@@ -1,0 +1,8 @@
+# § 3. Vegnormaler
+1) Vegnormaler som kan ha miljø- eller samfunnsmessige konsekvenser, skal godkjennes av Samferdselsdepartementet.
+2) Statens vegvesen ved Vegdirektoratet kan innenfor rammen av forskriftene fastsette utfyllende bestemmelser – vegnormaler. Målet med normalene er effektiv og trafikksikker transport av mennesker og gods, og best mulig tilpasning til bebyggelse, bomiljø, bymiljø, landskap, naturmangfold, kulturmiljø, vegetasjon og landbruksarealer.
+3) Det skal redegjøres for miljø- og samfunnsmessige konsekvenser av vegnormalene før de vedtas. Offentlige og private institusjoner og organisasjoner som skal benytte vegnormalene, eller som skal ivareta brukerinteresser, bør gis anledning til å uttale seg. Statens vegvesen ved Vegdirektoratet bestemmer på hvilken måte høring skal foregå. Høring kan unnlates hvis den ikke vil være praktisk gjennomførlig eller må anses åpenbart unødvendig.
+4) Myndighet til å fravike vegnormalene innenfor forskriftenes rammer, legges til Statens vegvesen ved Vegdirektoratet for riksveg, fylkeskommunen for fylkesveg og kommunen for kommunal veg dersom ikke annet følger av annen forskrift etter vegloven.
+5) Vegnormalene skal sikre en tilfredsstillende og enhetlig kvalitet på vegnettet ut fra samferdselspolitiske mål. Vegnormalene vil derfor måtte inneholde en del standardkrav. Vegnormalene skal likevel gi frihet til å velge løsning tilpasset forholdene på stedet.
+6) Vegnormalene er en del av det tekniske grunnlaget for valg av løsning gjennom planlegging. Planbehandlingen skal skje med hjemmel i plan- og bygningsloven.
+7) Ved planlegging og utbygging av vegnettet skal det fastlegges hvordan gang- og sykkeltrafikken skal avvikles.
