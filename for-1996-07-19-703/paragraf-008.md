@@ -1,0 +1,2 @@
+# § 8. Kjemiske egenskaper
+Lekeplassutstyr skal ikke inneholde, avgi eller danne stoffer og produkter som er klassifisert som helsefarlige i en slik konsentrasjon eller form at de kan medføre helsefare for barn eller tredjepart. Klassifiseringen er basert på den til enhver tid gjeldende forskrift om merking, omsetning m.v. av kjemiske stoffer og produkter som kan medføre helsefare, samt forskrift om stoffliste, risiko- og sikkerhetsbestemmelser m.v.
