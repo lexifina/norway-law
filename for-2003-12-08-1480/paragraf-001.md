@@ -1,0 +1,3 @@
+# § 1. Om kommunens saksforberedelse
+I alle saker etter konsesjonsloven, jordloven, odelsloven og skogbruksloven har kommunen ansvaret for å hente inn nødvendige opplysninger og tilrettelegge saken. Dersom kommunen ikke selv har myndighet til å avgjøre saken, skal kommunen utrede saken og gi uttalelse til vedtaksmyndigheten.
+I alle saker etter konsesjonsloven som gjelder søknad om konsesjon for erverv av eiendom som skal nyttes til landbruksformål skal det i vedtaket vises hvordan prisvurderingen er foretatt i forhold til eiendommens enkelte deler. Dersom en på skjønnsmessig grunnlag er kommet fram til en annen pris enn det verdsettelsen av de enkelte delene tilsier, skal de hovedhensyn som har vært avgjørende for dette oppgis.
