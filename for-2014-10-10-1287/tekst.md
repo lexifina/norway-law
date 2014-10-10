@@ -1,0 +1,1 @@
+Med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat gis lov 17. april 2009 nr. 19 om havner og farvann § 20 utvidet geografisk virkeområde slik at denne også gjelder i Norges økonomiske sone.
