@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EF) nr. 106/2008 og forordning (EU) nr. 174/2013
+EØS-avtala vedlegg IV nr. 30 (forordning (EF) nr. 106/2008 om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr), som endra ved EØS-avtala vedlegg IV nr. 30 (forordning (EU) nr. 174/2013 av 5. februar 2013 om endring av forordning (EF) nr. 106/2008 om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr) gjeld som forskrift med dei endringar og tillegg som følgjer av vedlegg IV, protokoll 1 til avtala og avtala elles.
