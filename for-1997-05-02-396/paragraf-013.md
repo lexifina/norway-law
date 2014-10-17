@@ -1,0 +1,6 @@
+# § 13. Radiokommunikasjon
+Fremmede militære og sivile statsfartøyer har på eller over norsk territorium adgang til å bruke sine radioapparater under forutsetning av at:
+a) de følger de regler som er fastsatt i den gjeldende internasjonale fjernmeldingskonvensjon med tilhørende radioreglementer, de til enhver tid gjeldende bestemmelser for luftfartsradiotjenesten som fastsettes av den internasjonale luftfartsorganisasjon (ICAO), samt de spesielle bestemmelser for bruk av radioapparater på norsk område, som til enhver tid gjelder;
+b) de på forhånd har søkt og mottatt tillatelse til bruk av radiostasjon. Slik søknad fremmes gjennom Fellesoperativt hovedkvarter, og skal ledsages av fartøyets navn, kallesignal, og opplysninger om hvilke frekvenser, emisjonstyper og effekter som skal benyttes.
+Radiostasjon i fremmede luftfartøyer som er meddelt overflygningstillatelse, kan til enhver tid nyttes på fastsatte frekvenser som ledd i sikring og gjennomføring av nødvendig trafikkprosedyre. Fremmede fartøyer som kun foretar uskyldig gjennomfart gjennom sjøterritoriet, kan benytte sine radioinstallasjoner i henhold til radioreglementet.
+All bruk av radioinstallasjoner må innstilles dersom dette forlanges av norske myndigheter eller Statens teleforvaltning.

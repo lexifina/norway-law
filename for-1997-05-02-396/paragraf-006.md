@@ -1,0 +1,2 @@
+# § 6. Losplikt
+Forsvarsdepartementet eller den departementet bemyndiger, kan av hensyn til rikets sikkerhet overfor fremmede militære og sivile statsfartøyer treffe enkeltvedtak om plikt til å bruke los ved seilas i norske indre farvann. Slikt påbud kan også gis for seilas på sjøterritoriet. Samferdselsdepartementet eller den departementet bemyndiger, kan av hensyn til trygg ferdsel overfor fremmede militære og sivile statsfartøyer fatte enkeltvedtak om plikt til å bruke los ved seilas i norske indre farvann og på sjøterritoriet.
