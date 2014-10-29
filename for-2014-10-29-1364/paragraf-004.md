@@ -1,0 +1,2 @@
+# § 4
+Den som er trekkpliktig etter skattebetalingsloven § 5-4 annet og tredje ledd og som innvilges tilpasset innføring, skal sende opplysninger som viser forskuddstrekket i de to foregående måneder innen fristen for betaling i skattebetalingsloven § 10-10. Det skal samtidig gis opplysninger om beregnet arbeidsgiveravgift etter folketrygdloven § 24-3 første ledd første punktum. Opplysningene skal gis til det sted og på den måte Skattedirektoratet bestemmer.
