@@ -1,0 +1,4 @@
+# § 52. Rett til oppfyllelse ved å kreve betaling. Avbestilling.
+(1) Selgeren kan fastholde kjøpet og kreve at kjøperen betaler kjøpesummen. Dette gjelder likevel ikke så lenge betalingen hindres av stans i samferdselen eller betalingsformidlingen eller annet forhold utenfor kjøperens kontroll og som han ikke kan overvinne.
+(2) Avbestiller kjøperen ting som skal tilvirkes særskilt for ham, kan selgeren ikke fastholde kjøpet ved å fortsette tilvirkingen, gjøre andre forberedelser til leveringen samt kreve betaling, med mindre avbrudd ville føre med seg betydelig ulempe for ham eller risiko for at han ikke får erstattet tap som avbestillingen medfører. Kan selgeren ikke fastholde kjøpet, utmåles erstatning for tap som følge av avbestillingen i samsvar med reglene i kapittel X.
+(3) Er tingen ennå ikke levert, taper selgeren sin rett til å kreve oppfyllelse om han venter urimelig lenge med å fremme kravet.
