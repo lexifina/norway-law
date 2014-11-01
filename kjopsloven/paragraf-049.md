@@ -1,0 +1,4 @@
+# § 49
+(1) Følger ikke betalingstiden av avtalen, skal kjøperen betale når selgeren krever det, men ikke før tingen blir overlevert kjøperen eller stilt til hans rådighet i samsvar med avtalen og loven.
+(2) Før kjøperen betaler har han likevel rett til å få undersøke tingen på vanlig måte, når dette ikke er uforenlig med den avtalte framgangsmåte for levering og betaling av kjøpesummen. Kjøperen kan ikke som følge av en slik undersøkelse utsette betalingen med mer enn 30 dager, med mindre selgeren uttrykkelig har godkjent dette.
+(3) Dersom det brukes konnossement ved transporten av tingen til bestemmelsesstedet, eller transporten til kjøperen for øvrig skjer på slike vilkår at selgeren ikke kan rå over tingen etter betalingen, kan betaling kreves mot konnossement, fraktbrev eller annet bevis for at tingen blir transportert på slike vilkår. Dette gjelder selv om tingen ikke er kommet fram eller kjøperen ikke har hatt høve til å undersøke den.

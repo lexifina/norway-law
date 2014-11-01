@@ -1,0 +1,4 @@
+# § 85. Reklamasjon.
+(1) Kjøperen må gjøre sitt krav mot tidligere salgsledd gjeldende innen rimelig tid etter at han oppdaget eller burde ha oppdaget mangelen og seinest innen de reklamasjonsfrister som gjelder i forholdet mellom forgjengeren og det tidligere salgsledd.
+(2) Kjøperen må så snart det er rimelig høve til det underrette salgsleddet om hva han krever.
+(3) I den grad kjøperen i forbrukerkjøp gjør gjeldende krav mot selgeren som også kunne ha vært gjort gjeldende mot et tidligere yrkessalgsledd, gjelder reklamasjonsfristen i forbrukerkjøpsloven § 27 annet ledd for videre mangelskrav fra selgeren mot det tidligere yrkessalgsleddet. Bestemmelsen her gjelder tilsvarende for videre krav mellom tidligere yrkessalgsledd som følge av at forbrukerkjøperen har gjort gjeldende mangelskrav.

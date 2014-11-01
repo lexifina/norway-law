@@ -1,0 +1,3 @@
+# § 69. Prisforskjell når det ikke foreligger dekningstransaksjon.
+(1) Er kjøpet hevet uten at det foretas dekning som nevnt i § 68, og er det gjengs pris for tingen, legges kjøpesummen og den gjengse pris på hevingstiden til grunn når prisforskjell skal reknes ut. Blir kjøpet hevet etter at tingen er overtatt, skal isteden gjengs pris ved overtakelsen legges til grunn.
+(2) Som gjengs pris anses prisen på leveringsstedet for ting av samme slag eller, om det ikke gjelder noen gjengs pris der, på et annet sted som med rimelighet kan likestilles med dette, likevel slik at omsyn tas til forskjell i transportkostnader.

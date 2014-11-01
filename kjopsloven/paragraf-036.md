@@ -1,0 +1,4 @@
+# § 36. Selgerens rett til retting eller omlevering (avhjelp).
+(1) Selv om kjøperen ikke krever det, kan selgeren for egen kostnad rette mangel eller foreta omlevering, når dette kan skje uten vesentlig ulempe for kjøperen og uten risiko for at kjøperen ikke får dekket sine utlegg av selgeren.
+(2) Dersom selgeren spør om kjøperen vil godta retting eller omlevering, eller underretter kjøperen om at han vil rette eller omlevere innen en angitt tid, men kjøperen ikke svarer innen rimelig tid etter at han har fått meldingen, kan selgeren foreta det nødvendige innen den tid som er angitt.
+(3) Selgeren kan ikke gjøre gjeldende at han ikke har fått høve til å rette eller omlevere, dersom kjøperen har sørget for å få rettet mangelen og det etter forholdene ville være urimelig å kreve at han ventet på selgerens retting eller omlevering.

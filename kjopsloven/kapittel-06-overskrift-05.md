@@ -1,0 +1,1 @@
+# Kjøpesummens størrelse
