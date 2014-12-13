@@ -1,0 +1,4 @@
+# § 4. Bestemmelser om innfrysing og fryselagring av næringsmidler
+Dypfrysing av råvarer og næringsmidler skal foregå snarest mulig etter at de nødvendige produksjonstrinn er avsluttet. Dypfrysing skal foregå i utstyr med tilstrekkelig kapasitet og på en slik måte at området for maksimal krystallisering nås så raskt som mulig for det aktuelle næringsmiddel. Dersom utstyret samtidig brukes til lagring av dypfryste næringsmidler, skal kapasiteten være slik at temperaturen i de dypfryste næringsmidlene ikke påvirkes i vesentlig grad.
+De eneste frysemediene som må komme i direkte kontakt med næringsmidler, er luft, nitrogen og karbondioksid.
+Dypfryste råvarer og dypfryste ferdige næringsmidler skal, når ikke annet er bestemt, emballeres i egnet forpakning hos produsent eller pakkevirksomhet og merkes, lagres og omsettes som dypfryste varer. Frysekjeden skal opprettholdes gjennom samtlige omsetningsledd.
