@@ -6,7 +6,7 @@ c) sikre naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv
 d) legge til rette for verdiskaping og næringsutvikling
 e) legge til rette for god forming av bygde omgivelser, gode bomiljøer og gode oppvekst- og levekår i alle deler av landet
 f) fremme befolkningens helse og motvirke sosiale helseforskjeller, samt bidra til å forebygge kriminalitet
-g) ta klimahensyn gjennom løsninger for energiforsyning og transport
+g) ta klimahensyn, herunder gjennom løsninger for energiforsyning og areal og transport
 h) fremme samfunnssikkerhet ved å forebygge risiko for tap av liv, skade på helse, miljø og viktig infrastruktur, materielle verdier mv.
 Planleggingen skal fremme helhet ved at sektorer, oppgaver og interesser i et område ses i sammenheng gjennom samordning og samarbeid om oppgaveløsning mellom sektormyndigheter og mellom statlige, regionale og kommunale organer, private organisasjoner og institusjoner, og allmennheten.
 Planleggingen skal bygge på økonomiske og andre ressursmessige forutsetninger for gjennomføring og ikke være mer omfattende enn nødvendig.
