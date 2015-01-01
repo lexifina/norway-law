@@ -1,0 +1,2 @@
+# § 4. Offentlig tilbud
+Regionale helseforetak i henhold til helseforetaksloven § 2 skal organisere spesialisthelsetjenesten slik at de som ønsker det innen helseregionen, kan få utført rituell omskjæring av gutter på en forsvarlig måte. I den grad det ikke hindrer et forsvarlig tilbud, skal det tas hensyn til helsepersonell som av samvittighetsgrunner ikke ønsker å utføre eller assistere ved slike inngrep.
