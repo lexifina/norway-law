@@ -1,0 +1,5 @@
+# § 6
+Forsvarsdepartementet bemyndiges til å treffe bestemmelser om i hvilken utstrekning forskrifter gitt i medhold av lovens § 7-3, § 7-4, og § 9-1 ikke skal gjelde for militær luftfart.
+Myndighet gitt Kongen i lov 11. juni 1993 nr. 101 om luftfart § 17-8 delegeres til den militære luftfartsmyndighet. Den militære luftfartsmyndighet eller den han/hun bemyndiger kan gi ytterligere forskrifter til gjennomføring og utfylling av reglene etter lov 11. juni 1993 nr. 101 om luftfart, del II, kapittel XVII.
+Militær luftfartsmyndighet bemyndiges til i samråd med den sivile luftfartsmyndighet til å gjøre unntak fra forskrifter nevnt i første og annet ledd når det er nødvendig av hensyn til særlige militære operasjoner og øvelser.
+Bestemmelser i medhold av denne paragrafs første og annet ledd skal utformes i henhold til bestemmelser i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker kapittel VII, og den militære luftfartsmyndighet skal spesielt rådføre seg med sivil luftfartsmyndighet, sertifiserte tjenesteytere og andre luftromsbrukere før vedtak fattes.
