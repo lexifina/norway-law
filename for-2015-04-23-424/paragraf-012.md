@@ -1,0 +1,7 @@
+# § 12. Sikkerhetsavstander mellom oppvisningsområde og publikumsområde
+Flygeoppvisning må finne sted i sikker avstand fra publikum. Oppvisningslinjen skal ikke i noe tilfelle ligge nærmere publikumslinjen enn:Alle luftfartøyKategoriKIAS * KGRettlinjet forbiflyging, avgang og landingAkroflyging og manøvreringIOver 1 250 000100 meter230 meterII500 000-1 250 00075 meter160 meterIIIUnder 500 00050 meter100 meter
+Oppvisningslinjen for hver kategori av luftfartøyer som deltar i oppvisningen, skal være klart markert med lett gjenkjennbare landemerker eller oppmerking på bakken.
+Svinger mot publikum med fly for å demonstrere flyets manøvrerings- eller ytelsesegenskaper som flys med større hastighet enn 300 KIAS, skal ikke flys nærmere publikumslinjen enn 450 meter. For hastigheter under 300 KIAS skal denne avstanden være minst 230 meter.
+Avstanden fra publikumslinjen til luftfartøy som har propell eller rotor i gang, skal være minst 20 meter med mindre fysisk hindring og funksjonærer skiller luftfartøy og publikum. Taksing av luftfartøy skal skje i sikker avstand fra publikum. Minste avstand mellom publikum og plass for fylling av drivstoff skal være 20 meter.
+Landingsområde for fallskjermhoppere skal ligge minst 15 meter fra publikumslinjen. Fallskjermhoppere i skjerm skal ikke overfly publikumsområdet.
+Motorisert paraglider kan flys inntil 15 meter fra publikumslinjen i forbindelse med start, forbiflyging og landing. Andre øvelser skal utføres med avstandene angitt i tabellens punkt III.
