@@ -1,0 +1,3 @@
+# § 21. Tilbakekall av oppvisningstillatelse
+Luftfartstilsynet kan helt eller delvis tilbakekalle en oppvisningstillatelse gitt etter denne forskrift dersom innehaver gjør seg skyldig i brudd på vilkår fastsatt i tillatelsen, eller gjør seg skyldig i brudd på bestemmelser i luftfartslovgivningen av betydning for utøvelsen av tillatelsen. Oppvisningstillatelsen kan også tilbakekalles dersom innehaveren ikke besitter de kunnskaper, holdninger og ferdigheter som er nødvendig for sikker utøvelse av tillatelsen.
+Når Luftfartstilsynet finner grunn til å anta at det foreligger et forhold som kan begrunne tilbakekalling av oppvisningstillatelsen, kan denne straks settes ut av kraft inntil spørsmålet om tilbakekalling er avgjort.
