@@ -1,0 +1,3 @@
+# § 9
+Såfremt vilkårene for pågripelsen fortsatt er oppfylt, skal den pågrepne snarest mulig og senest innen 72 timer etter at beslutningen om pågripelse ble truffet, overføres til myndighetene i en annen stat med sikte på videre strafforfølgning der. Samtidig overføres beslaglagte ting, sakens dokumenter og eventuelle andre bevismidler til bruk under strafforfølgningen der. Beslutningen skal være skriftlig, og den skal dateres og underskrives av påtalemyndigheten ved Kripos.
+I særlige tilfeller kan det besluttes at den pågrepne i stedet skal straffeforfølges i Norge. Myndigheten til å treffe denne beslutningen tilligger Det nasjonale statsadvokatembetet. Straffeprosessloven § 59a om klage til Riksadvokaten gjelder tilsvarende så langt den passer.
