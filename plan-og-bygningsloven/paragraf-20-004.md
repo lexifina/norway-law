@@ -1,3 +1,8 @@
-# § 20-4. Unntak fra krav i loven for visse tiltak som behandles etter andre lover og hemmelige militære anlegg
-Tiltak som nevnt i § 20-1 er ikke søknadspliktig dersom tiltaket blir tilfredsstillende behandlet etter andre lover. Departementet gir forskrift om hvilke tiltak som er unntatt fra søknadsplikt etter første punktum og i hvilken utstrekning bestemmelser i loven her gjelder.
-Når område, anlegg eller byggverk er erklært hemmelig i medhold av lov om forsvarshemmeligheter, påhviler det vedkommende militære myndighet å se til at de bestemmelser som er gitt i eller i medhold av denne lov blir overholdt.
+# § 20-4. Søknadspliktige tiltak som kan forestås av tiltakshaver
+Følgende tiltak er unntatt fra reglene i § 20-3:
+a) mindre tiltak på bebygd eiendom
+b) alminnelige driftsbygninger i landbruket
+c) midlertidige bygninger, konstruksjoner eller anlegg som nevnt i § 20-1 første ledd bokstav j og som ikke skal plasseres for lengre tidsrom enn 2 år
+d) opprettelse av grunneiendom mv. som nevnt i § 20-1 første ledd bokstav m
+e) andre mindre tiltak som etter kommunens skjønn kan forestås av tiltakshaver
+Departementet skal gi forskrift om hvilke tiltak som omfattes av bestemmelsen.
