@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av forordning (EU) nr. 995/2010 og tilhørende rettsakter
+EØS-avtalen vedlegg II kap. XVII nr. 9c, 9ca og 9cb (forordning (EU) nr. 995/2010 om fastsettelse av forpliktelser for virksomheter som bringer tømmer og treprodukter i omsetning, samt tilhørende forordning (EU) nr. 363/2012 og forordning (EU) nr. 607/2012) gjelder som forskrift med de endringer og tillegg som følger av vedlegg II kap. XVII, protokoll 1 til avtalen og avtalen for øvrig.
