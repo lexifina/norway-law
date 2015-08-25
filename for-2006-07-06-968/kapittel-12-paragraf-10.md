@@ -1,0 +1,4 @@
+# § 12-10. Merking av rullebanesnuplass
+(1) Snuplass for rullebane skal merkes slik at luftfartøy ledes kontinuerlig rundt til det retter seg opp langs rullebanens senterlinje. På snuplasser med fast dekke skal det merkemales en ledelinje. På snuplasser uten fast dekke skal det merkes på annen måte som gir tilnærmet samme leding og avstand til kanten av snuplassen som ledelinjen.
+(2) Ledelinjen skal utføres som en heltrukket linje med bredde 0,15 m. Ledelinjen skal være tilpasset det største luftfartøyet som skal bruke snuplassen og slik at når luftfartøyets nesehjul følger ledelinjen, og nesehjulsstyringen ikke overstiger 45°, skal kravene i § 2-11 og § 2-12 med hensyn til sving, påkjøringsvinkel og avstand til kanten av snuplassen tilfredsstilles.
+(3) Ledelinjen skal tilslutte rullebanens senterlinje og følge parallelt med den i minst 30 m for rullebaner med kodetall 1 og 2, og 60 m for rullebaner med kodetall 3 og 4.

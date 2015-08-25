@@ -1,0 +1,3 @@
+# § 16-5. Rullebaners høyde over havet
+(1) For hver presisjonsrullebane skal høyden og geoideundulasjonen for terskelen, rullebaneenden og de viktigste høyeste punktene i landingssonen måles med nøyaktighet 0,25 m, og meddeles Kunngjøringstjenesten for luftfarten i hele fot. Med landingssonen menes det området som har landingssonemerking.
+(2) For hver rullebane, som ikke er presisjonsrullebane, skal høyden og geoideundulasjonen for terskelen, rullebaneenden og de viktigste høyeste og laveste punkter langs rullebanen måles med nøyaktighet 0,5 m, og meddeles Kunngjøringstjenesten for luftfarten i hele fot.
