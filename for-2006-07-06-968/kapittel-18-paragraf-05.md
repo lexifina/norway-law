@@ -1,0 +1,2 @@
+# § 18-5. Overgangsbestemmelser
+For flyplasser som eksisterer på tidspunktet for forskriftens ikrafttredelse gjelder bestemmelsene i kapittel 3 fra og med tidspunktet for fornyelse av godkjenningen av den enkelte flyplass. Inntil dette tidspunkt gjelder bestemmelsene i kapittel 7, 8 og 24 i forskrift 17. desember 2000 nr. 1538 om utforming av store flyplasser for så vidt gjelder krav til sikkerhetsområder.

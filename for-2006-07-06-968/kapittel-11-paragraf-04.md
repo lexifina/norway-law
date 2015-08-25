@@ -1,0 +1,3 @@
+# § 11-4. Hinder innenfor inn- og utflygingsområdet og sideområdet
+(1) Innenfor det område som omfattes av en indre innflygingsflate, en utflygingsflate for avbrutt landing eller en indre sideflate skal det ikke være andre hinder enn de som må være der på grunn av sin funksjon for flytrafikken, f.eks. navigasjonshjelpemidler og meteorologiske instrumenter.
+(2) Innenfor det område som omfattes av en utflygingsflate, en innflygingsflate eller en sideflate skal det ikke tillates nye hinder eller utvidelse av eksisterende hinder, med mindre det nye eller utvidede hinder er skjult av et eksisterende hinder.

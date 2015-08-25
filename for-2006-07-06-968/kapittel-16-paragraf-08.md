@@ -1,0 +1,5 @@
+# § 16-8. Hinder
+(1) Med hinder skal forstås terreng og faste objekter som gjennomtrenger de hinderflatene som gjelder for flyplassen i henhold kapittel 10, og alle faste objekter på sikkerhetsområdet.
+(2) Alle faste objekter, som utgjør hinder, skal meddeles Kunngjøringstjenesten for luftfarten. Meddelelsen skal inneholde hinderets posisjon i grader, minutter, sekunder og tiendedels sekunder. I tillegg skal meddeles objektets største høyde i fot og en beskrivelse av type objekt, merking og belysning.
+(3) Alt terreng, som utgjør hinder, skal meddeles Kunngjøringstjenesten for luftfarten. Meddelelsen skal inneholde en beskrivelse av terrenget, posisjonen til de viktigste høyeste punktene i grader, minutter, sekunder og tiendedels sekunder, og de samme punktenes høyde i fot. I tillegg skal meddelelsen inneholde opplysninger om belysning og eventuell merking.
+(4) Data, som Kunngjøringstjenesten for luftfarten trenger for å produsere hinderkart, skal meddeles kunngjøringstjenesten i den form og med den nøyaktighet kunngjøringstjenesten bestemmer.

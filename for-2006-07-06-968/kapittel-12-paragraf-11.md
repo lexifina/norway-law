@@ -1,0 +1,5 @@
+# § 12-11. Merking av venteposisjon for rullebane
+(1) Venteposisjon for rullebane skal merkemales på taksebaner med fast dekke. Venteposisjon skal merkes med skilt på taksebaner uten fast dekke, jf. § 14-4 første ledd.
+(2) Merkingen av venteposisjon for rullebane skal utformes i henhold til vedlegg 3 fig. 6 mønster A. Dersom ekstra synlighet er nødvendig, skal avstanden mellom de fire linjene økes slik at bredden av merkingen økes fra 1,05 m (i fig. 6) til 2,10 m.
+(3) Dersom det for en presisjonsrullebane er nødvendig med ekstra venteposisjon av hensyn til hinderfrihet eller navigasjonshjelpemidler, skal slik ekstra venteposisjon merkes i henhold til vedlegg 3 fig. 6 mønster B. Dersom ekstra synlighet er nødvendig, skal avstanden mellom de to linjene økes slik at bredden av merkingen økes fra 1,20 m (i fig. 6) til 2,10 m.
+(4) Dersom det for en ikke-presisjonsrullebane er nødvendig med ekstra venteposisjon av hensyn til hinderfrihet eller navigasjonshjelpemidler, skal slik ekstra venteposisjon merkes som mellomliggende venteposisjon.

@@ -1,0 +1,3 @@
+# § 13-10. Plassering av rullebanekantlys
+(1) Rullebanekantlys skal plasseres langs rullebanekanten i hele banens lengde i to parallelle rader symmetrisk om rullebanens senterlinje. Kantlysene kan plasseres inntil 3 m utenfor kanten dersom rullebanekanten er merket.
+(2) Rullebanekantlys skal plasseres med lik avstand. Avstanden skal ikke overstige 60 meter for instrumentrullebane og 100 meter for ikke-instrumentrullebane. Lysene på motsatt side av senterlinjen skal plasseres parvis rett overfor hverandre. Rullebanekantlys kan forskyves eller utelates der rullebane tilslutter taksebane eller annen rullebane hvis tilstrekkelig sikkerhet opprettholdes.

@@ -1,0 +1,6 @@
+# § 12-18. Instruksjonsmerking
+(1) Taksebaner med bredde over 60 m skal ha instruksjonsmerking i tillegg til påbudsskilt. Taksebaner, som er slik utformet at påbudsskiltene ikke er godt synlige fra alle luftfartøyer og kjøretøyer som bruker taksebanen, skal også ha instruksjonsmerking i tillegg til påbudsskiltene.
+*(2) Instruksjonsmerkingen skal plasseres på venstre side av taksebanen og foran venteposisjonsmerkingen. Avstanden mellom nærmeste kant av instruksjonsmerkingen og venteposisjonsmerkingen og senterlinjemerkingen skal ikke være mindre enn 1 m.
+(3) Instruksjonsmerking skal utføres i hvitt på rød bakgrunn, og skal, med unntak for forbud mot innkjøring, inneholde samme informasjon som påbudsskiltet. Forbud mot innkjøring skal ha bokstavene NO ENTRY. Om nødvendig skal den røde bakgrunnen omgis av svarte eller hvite konturlinjer.
+(4) Venteposisjoner, der det er nødvendig av hensyn til sikkerheten, skal ha bokstavene RWY AHEAD som instruksjonsmerking foran venteposisjonsmerkingen. Avstanden mellom kanten av instruksjonsmerkingen og venteposisjonsmerkingen skal ikke være mindre enn 1 m.
+(5) Instruksjonsmerking skal ha bokstav- og tallhøyde på 4 m, og bakgrunnen skal strekke seg minst 0,5 m over, under og til siden for bokstavene/tallene. Tall og bokstaver skal utformes i samsvar med Appendix 3 til Annex 14 Vol I til Chicagokonvensjonen.
