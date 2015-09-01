@@ -1,0 +1,5 @@
+# Art 8.
+Arvelaterens testament anses med hensyn til formen som gyldig når det tilfredsstiller formkravene i loven på det stedet der testamentet ble opprettet eller der testator hadde sin bopel enten ved opprettelsen eller ved sin død, eller i en stat som testator var statsborger av enten ved opprettelsen eller ved sin død. For så vidt testamentet angår fast eiendom, skal det med hensyn til formen også anses gyldig når det tilfredsstiller formkravene i loven på det stedet der eiendommen ligger.
+Reglene i første ledd får tilsvarende anvendelse ved endring eller tilbakekall av testament. Tilbakekallet skal med hensyn til formen også anses gyldig når det fyller kravene i lovgivning der det tilbakekalte testamentet etter reglene i første ledd var gyldig med hensyn til formen.
+Hadde testator etter loven i en ikke-kontraherende stat domisil i denne staten, kan dette påberopes istedenfor bopel i de tilfelle som omfattes av første og annet ledd.
+Oppstår det for øvrig etter første, annet eller tredje ledd spørsmål om å anvende loven i en ikke-kontraherende stat, anvendes i stedet de alminnelige regler som gjelder på dette området i hver kontraherende stat.

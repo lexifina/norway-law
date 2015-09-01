@@ -1,0 +1,2 @@
+# Art 10.
+Et spørsmål om testamentets eller tilbakekallets ugyldighet på grunn av testators sinnstilstand eller på grunn av svik, villfarelse, tvang eller annen utilbørlig påvirkning bedømmes etter loven i den av statene hvor testator var bosatt da testamentet blev opprettet eller tilbakekalt. Om testator ved det aktuelle tidspunktet var bosatt i en ikke- kontraherende stat, anvendes de alminnelige reglene som gjelder i hver kontraherende stat.

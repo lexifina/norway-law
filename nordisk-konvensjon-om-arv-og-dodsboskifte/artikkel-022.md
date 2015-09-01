@@ -1,0 +1,4 @@
+# Art 22.
+Er der i en annen av statene enn den hvis lov er bestemmende for bobehandlingen, formuegjenstander som tilhører boet, skal domstolene i den stat hvor gjenstandene finnes, efter begjæring sørge for registrering og midlertidig bevaring av gjenstandene og for salg av gjenstander som ikke hensiktsmessig lar sig opbevare. For øvrig skal myndighetene i den sistnevnte stat efter begjæring yde bistand ved bobehandlingen i den utstrekning det kan kreves efter loven i denne stat.
+Begjæringen kan rettes umiddelbart til vedkommende myndighet. Omkostningene kan, om fornødent, kreves betalt forskuddsvis. Skriftstykker som er avfattet på finsk eller islandsk, skal være ledsaget av bekreftet oversettelse til dansk, norsk eller svensk.
+Er dødsfallet inntruffet i en annen stat enn den hvor den avdøde var bosatt, skal efterlatte eiendeler også uten begjæring tas i forvaring efter de på stedet gjeldende forskrifter.
