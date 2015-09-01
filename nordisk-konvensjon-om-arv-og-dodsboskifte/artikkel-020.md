@@ -1,0 +1,2 @@
+# Art 20.
+En gjenlevende ektefelles rett til ved skifte å utta bestemte formuesgjenstander mot eller uten vederlag bedømmes etter den lov som etter artikkel 19 er bestemmende for behandlingen av boet. Det samme gjelder ektefellens adgang til ved skifte å få utsettelse med å utbetale en arvelodd mot at arvingen får panterett for sin fordring, likevel slik at panterett i formuesgjenstander som finnes i de andre statene, bare kan stiftes etter de reglene som gjelder der.

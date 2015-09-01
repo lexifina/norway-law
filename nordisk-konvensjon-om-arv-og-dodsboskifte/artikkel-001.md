@@ -1,0 +1,2 @@
+# Art 1.
+Bestemmelsene i denne konvensjonen anvendes på spørsmål om arv og testament etter en person som ved sin død var statsborger og var bosatt i en kontraherende stat, om ikke annet følger av Europaparlamentets og Rådets forordning (EU) nr. 650/2012 om kompetanse, lovvalg, anerkjennelse og fullbyrdelse av dommer samt anerkjennelse og fullbyrdelse av bekreftede dokumenter i samband med arv og om innføring av et europeisk arvebevis.
