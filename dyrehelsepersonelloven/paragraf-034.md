@@ -1,0 +1,2 @@
+# § 34. Advarsel
+Departementet eller den departementet bemyndiger kan gi advarsel til dyrehelsepersonell som forsettlig eller uaktsomt overtrer plikter etter denne loven eller bestemmelser gitt i medhold av den, hvis pliktbruddet er egnet til å medføre fare for sikkerheten i dyrehelsetjenesten eller til å påføre dyreeier store belastninger og dyr unødig lidelse. Tilsvarende gjelder hvis dyrehelsepersonell har utvist atferd som er egnet til å svekke tilliten til deres yrkesgruppe. Advarsel er enkeltvedtak etter forvaltningsloven.

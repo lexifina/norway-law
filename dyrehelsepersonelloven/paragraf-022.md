@@ -1,0 +1,2 @@
+# § 22. Opplysninger til dyreeier
+Dyrehelsepersonell skal uoppfordret gi dyreeieren eller dennes representant, opplysninger om undersøkelsesmetoder, diagnoser og aktuelle behandlingsalternativer og prognose. Videre skal eieren informeres om mulig risiko og bivirkning som undersøkelsen eller behandlingen medfører. Dersom det i tilknytning til undersøkelsen eller behandlingen oppstår skade eller komplikasjoner, skal dyreeieren informeres om dette. Opplysninger skal gis i en forståelig form og ut fra dyreeierens forutsetninger.
