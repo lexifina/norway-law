@@ -1,0 +1,2 @@
+# § 1
+Dersom transport med norske skip til eller fra fremmed stat utsettes for diskriminering i forhold til transporter med skip registrert i denne stat eller en annen stat, kan Kongen for å vareta norske interesser i internasjonal skipsfart treffe bestemmelser som forbyr eller begrenser retten til inngåelser av avtaler om befraktning av eller transport med skip som er registrert i den stat hvor diskrimineringen finner sted.
