@@ -1,0 +1,4 @@
+# § 29. Landssvik m.v.
+1) Den som har gjort seg skyldig i forhold som rammes av straffebestemmelsene for landssvik, eller av bestemmelsene i straffeloven kapittel 17 eller § 184 eller av krigsartiklene i den militære straffelov, har ikke rett til stønad. Er skyldspørsmålet ikke strafferettslig avgjort gjelder det samme når departementet antar at vedkommende har gjort seg skyldig i slike forhold som nevnt. Departementet kan likevel tilstå stønad helt eller delvis i de tilfelle som er nevnt i første ledd hvis særlige grunner foreligger. Bestemmelsene i første ledd gjelder også den skyldiges etterlatte hvis ikke departementet bestemmer noe annet.
+2) Dersom noen ellers antas å ha gjort seg skyldig i grovt uverdig forhold, kan departementet bestemme at han og hans etterlatte ikke skal ha rett til stønad etter loven.
+3) Reglene i denne paragraf gjelder tilsvarende for ektefelle og forsørget.

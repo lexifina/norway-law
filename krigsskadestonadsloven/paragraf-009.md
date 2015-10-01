@@ -1,0 +1,3 @@
+# § 9. Sykepenger.
+1) Fører skaden eller sykdommen med seg tap av ervervsevne, ytes så lenge sykebehandlingen varer sykepenger i form av dagpenger svarende til pensjon med mulig forsørgingstillegg etter reglene §§ 11 og 12. Sykepenger betales dog ikke for de seks første dager regnet fra og med den dag ervervsuførheten inntrer. Til militærpersoner ytes sykepenger tidligst fra og med dagen etter dimitteringen.
+2) Ytes fri kur og pleie på sykehus eller annen kuranstalt, skal det til den som har hustru eller barn å forsørge for den tid oppholdet varer istedenfor stønad etter punkt 1 betales sykepenger svarende til pensjon etter reglene i §§ 19 og 22. Til den som ikke har hustru eller barn å forsørge, ytes under oppholdet halvparten av sykepenger etter punkt 1.
