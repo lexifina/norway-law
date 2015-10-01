@@ -5,4 +5,5 @@ b) er begått mot en forsvarsløs person,
 c) har karakter av mishandling,
 d) er begått av flere i fellesskap, eller
 e) er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, homofile orientering eller nedsatte funksjonsevne.
+f) er forøvd ved bruk av kniv eller annet særlig farlig redskap.
 Den som volder betydelig skade på en annens kropp eller helse, straffes med fengsel inntil 15 år.
