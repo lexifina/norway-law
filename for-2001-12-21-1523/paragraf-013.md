@@ -1,0 +1,2 @@
+# § 13. Begjæring om endringer i gjennomføringen
+De klageberettigede etter § 12 annet ledd kan begjære slike endringer i gjennomføringen av særreaksjonen som nevnt i § 12 første ledd. Er det tidligere gitt avslag på en slik begjæring etter klage til kontrollkommisjonen, kan ingen av de klageberettigede sette fram ny klage basert på de samme faktiske omstendigheter før seks måneder etter at det forrige vedtaket var endelig.
