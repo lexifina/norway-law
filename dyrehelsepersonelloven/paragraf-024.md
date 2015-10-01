@@ -1,0 +1,7 @@
+# § 24. Om ordnede opptegnelser, meldinger, rapporter og innsyn i journal
+Dyrehelsepersonell plikter å melde fra til offentlige veterinærmyndigheter om bostedsadresse, om de driver privat virksomhet og om utgangspunktet for denne virksomheten.
+Dyrehelsepersonell skal føre ordnede opptegnelser over sin virksomhet. Opptegnelsene skal føres i samsvar med god yrkesskikk og skal inneholde fullstendige opplysninger om pasienter og deres behandling, samt opplysninger som er nødvendige for å oppfylle melde- og rapporteringsplikten etter tredje ledd. Opptegnelsene kan kreves framlagt som bevis i en rettssak eller administrativ sak om vedkommendes virksomhet.
+Dyrehelsepersonell skal avgi de rapportene og meldingene som offentlige dyrehelsemyndigheter bestemmer.
+Dyrehelsepersonell skal gi dyrehelsemyndighetene adgang til virksomhetens lokaler og gi alle de opplysningene som anses påkrevet for utøvelsen av tilsyn med dyrehelsepersonells virksomhet. Dyrehelsepersonell skal, uten hinder av taushetsplikten, utlevere de dokumenter, lyd- og bildeopptak og lignende som kreves av tilsynsmyndigheten.
+En dyreeier har rett til selv eller ved en representant han utpeker å gjøre seg kjent med egne dyrs journal med vedlegg. Etter anmodning har dyrehelsepersonell plikt til å låne ut eller utlevere journal med vedlegg til annen dyreklinikk eller annet dyrehelsepersonell når dette anses nødvendig for videre behandling av pasient.
+Departementet kan gi forskrifter om bestemmelsene i denne paragrafen.
