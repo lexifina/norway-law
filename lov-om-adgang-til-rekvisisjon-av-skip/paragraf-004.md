@@ -1,0 +1,3 @@
+# § 4
+Rekvisisjon medfører at enhver rådighet som ellers ville ha tilligget eieren (rettighetshaveren), kan utøves av Kongen. Så lenge rekvisisjonen står ved lag, kan eieren ikke uten samtykke av Kongen råde over de rekvirerte gjenstander ved bruk, overdragelse, beheftelse eller på annen måte.
+Kongen kan med bindende virkning for eieren (rettighetshaveren) inndrive fordringer og dekke gjeld som knytter seg til det som er rekvirert eller til rederivirksomheten for øvrig, såfremt han finner det nødvendig av hensyn til rekvisisjonens formål eller fordi den hvis rett er rekvirert ikke selv har anledning til å vareta sine interesser.
