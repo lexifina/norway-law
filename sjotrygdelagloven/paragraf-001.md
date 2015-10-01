@@ -1,0 +1,6 @@
+# § 1
+Denne lova gjeld tilsyn med ymsesidige sjøtrygdelag som etter sine vedtekter har eit geografisk avgrensa virkeområde, og som ikkje kan teikna større trygd enn kr. 25.000 for eiga rekning på ein vågnad, og berre trygdar farty, fiskereiskap, utstyr og fengd, og reiaransvar, tidstap og andre trygdingar som går inn som eit naturleg ledd i moderne fiskeridrift. Finanstilsynet kan i serlege høve godkjenne høgare sum enn kr. 25.000 for eiga rekning på ein vågnad, men ikkje høgare enn kr. 100.000.
+Områdeavgrensinga i første leden gjeld ikkje for attertrygding i samsvar med attertrygdskipnad som Finanstilsynet har godkjent. Arbeidsområdet kan vera meir enn ti kommunar når det kjem av at talet på kommunar i området aukar etter at laget er skipa.
+Har laget gjort ei attertrygdavtale som er godkjent av Finanstilsynet, kan høgstesummen for eiga rekning på ein vågnad aukast til kr 100.000. Dersom Finanstilsynet finn det forsvarleg, kan det for det einskilde lag godkjenne høgare sum, men ikkje utover kr 300.000.
+Kongen kan endra summane i første og tredje leden for trygd for eiga rekning på ein vågnad.
+Ein kjøl, garnlenk, anna reiskapseining eller ein lagringsplass vert rekna for ei vågnadseining.

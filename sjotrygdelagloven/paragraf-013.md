@@ -1,0 +1,2 @@
+# § 13
+1. Denne lova tek til å gjelda 1. juli 1953.– – –Finanstilsynet kan gjeva reglar om å avskipa sjøtrygdelag som ikkje vil halda fram med verksemda.Kongen avgjer korleis føresegnene i lova skal setjast i verk for sjøtrygdelag som vil halda fram med verksemda, og kva tid det skal gjerast frå. Når eit lag ikkje i rett tid stettar dei krava som er sette i eller med heimel i denne lova, skal verksemda avskipast etter reglar som Finanstilsynet gjev.
