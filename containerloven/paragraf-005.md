@@ -1,0 +1,3 @@
+# § 5. Eierens kontroll.
+Eier av container skal holde denne i sikker forfatning og kontrollere den i henhold til den til enhver tid gjeldende forskrift (egenkontroll). Denne plikt gjelder også når containeren anvendes i transport utenfor Norge mellom andre stater hvor minst én av statene er tilsluttet containerkonvensjonen, når eieren har bosted eller hovedkontor i Norge eller det forretningssted som har nærmest tilknytning til bruken av containeren, ligger her i landet.
+Eieren kan ved skriftlig avtale med den som i eierens sted har rett til å forføye over containeren, overlate sitt ansvar til denne.
