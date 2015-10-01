@@ -1,0 +1,2 @@
+# § 34. Særlige bestemmelser.
+Departementet kan gi forskrifter om inn- og utførsel av eksplosiv vare, ammunisjon unntatt, jfr. § 32 annet ledd, som norsk fangstekspedisjon bringer til og fra fangstfelter utenfor norsk territorialfarvann, og for forsendelse av nevnte vare til og fra Svalbard. Departementet kan i forskrifter også fastsette særlige bestemmelser om inn- og utførsel av eksplosiv vare som nevnt som annen norsk ekspedisjon enn fangstekspedisjon bringer til og fra riket.

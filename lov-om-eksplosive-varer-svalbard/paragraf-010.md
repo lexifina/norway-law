@@ -1,0 +1,4 @@
+# § 10. Overlatelse av eksplosiv vare.
+Det er ikke tillatt å overlate eksplosiv vare til noen som etter regler i denne lov eller forskrifter gitt i medhold av loven ikke har adgang til å inneha varen.
+Den som lovlig innehar eksplosiv vare, kan uten hinder av reglene i første ledd overlate slik vare til andre til bruk på hans vegne i samsvar med forskrifter etter § 35 eller etter arbeidsmiljøloven.
+Innehar noen under 18 år sprengstoff, krutt eller tennmidler ulovlig, kan tilsynsmyndighetene ta varen i forvaring. Det samme gjelder når noen under 16 år innehar pyroteknisk vare. Varen utleveres etter anmodning av eieren, eller hvis dette er barnet selv, av dets foreldre eller den som har omsorgen for det. Er varen ikke forlangt utlevert innen 3 måneder, kan tilsynsmyndighetene bestemme at den skal selges for eierens regning eller tilintetgjøres.

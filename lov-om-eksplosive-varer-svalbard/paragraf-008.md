@@ -1,0 +1,3 @@
+# § 8. Melding om at virksomhet kan begynne.
+Tilvirking, oppbevaring eller handel som det er gitt tillatelse til etter §§ 16, 17, 22 og 26 må ikke påbegynnes før tilsynsmyndigheten har inspisert tilvirkings- og oppbevaringsrom, utsalgssted eller maskin, apparat, beholder eller annen innretning med tilbehør til bruk for eksplosiv vare i den tillatte virksomhet og ved skriftlig melding har godkjent at virksomheten kan begynne.
+Departementet kan tillate at tilvirking av sprengstoff ved forbrukssted til bruk der kan begynne uten hinder av reglene i første ledd. Likeledes kan Direktoratet for brann- og eksplosjonsvern tillate tilvirking som prøvedrift uten hinder av reglene i første ledd.
