@@ -1,0 +1,4 @@
+# § 2
+Den som forsettlig eller av grov uaktsomhet overtrer forbud som er gitt i medhold av § 1 eller bestemmelser som er gitt til gjennomføring herav, straffes med bøte eller fengsel inntil tre måneder. I gjentagelsestilfelle eller når det foreligger flere handlinger som nevnt i første punktum eller skjerpende omstendigheter ellers er straffen bøter eller fengsel inntil ett år.
+Med bøter eller i gjentagelsestilfelle med fengsel inntil tre måneder straffes den som leier ut husrom eller gir natteherberge til noen som han vet eller bør forstå oppholder seg på stedet i strid med forbud eller annen bestemmelse etter § 1.
+Utlending som handler mot disse bestemmelser, kan utvises av riket i overensstemmelse med utlendingsloven kapittel 8.

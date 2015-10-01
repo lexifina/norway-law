@@ -1,0 +1,2 @@
+# § 1
+Justisdepartementet eller den dette gir myndighet, kan til vern om norske almene interesser forby enhver som ikke er norsk statsborger adgang til bestemte områder her i riket. På samme måte kan bestemmes at adgang til visse områder skal være betinget av særlig tillatelse; skal en slik bestemmelse også omfatte norske statsborgere som er bosatt innen området eller har fast arbeid der, må tillatelse som nevnt ikke nektes dem.
