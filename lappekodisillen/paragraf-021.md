@@ -1,0 +1,2 @@
+# § 21
+Dersom Lappe-Lænsmændene eller Laugs Rettes Mændene befindes at have colluderet med Lapperne udi deres urigtige Angivelser, eller deres egen Fortegnelse at have forfalsket, og noget at have indeholdt af den Leye, som de have indcasseret; betale de første Gang 3 gange saa meget, som Vedkommende derved ere eller kunde have blevet besvegne, halvedeelen til Angiveren og den anden halve Deel til den eller de, som Leyen tilhører. Anden Gang settes de fra deres Embede og straffes som Tyve.

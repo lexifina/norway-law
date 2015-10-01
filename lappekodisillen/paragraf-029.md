@@ -1,0 +1,2 @@
+# § 29
+Alle vedkommende Kongelige Betientere paa begge Sider, i Særdeleshed Lands-Høfdingerne og Amtmændene, skulle flitteligen efterforske, hvorledes de fremmede Lapper blive behandlede, og troligen besørge, at dennem vederfares hvad Ret er, og de efter denne Convention bør nyde; Iligemaade skulle de, naar de Landet igjennem reyse og paa Embedets Vegne besøge, betimelig lade samme fremmede Lapper advare, paa hvilken Tiid og Sted, de udi Nærheden ere at finde, paa det Lapperne, i Fald de have noget at klage, kunde personlig sig hos dennem indfinde og deres Tarv andrage.

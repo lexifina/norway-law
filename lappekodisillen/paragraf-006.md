@@ -1,0 +1,2 @@
+# § 6
+Paa det man kand vide, hvilke ere Norske eller Svenske Undersaatter, skal de under forestaaende 4de og 5te §§ omrørte Lappers Frie-Vall skee i de Committeredes Nærværelse ved Røsz-Setningen saa snart mueligt, uden nogen Hindring, Tillokkelse, eller Tilskyndelse, Skienk og Gavers Givelse ey heller ved Løfte af en taaleligere Skat, eller paa hvad Maade det ellers være maa, og af privative Jord-Eyere eller andre paa nogen af siderne forsøges kunde; men de maa have et aldeles frit og utvunget Vall.
