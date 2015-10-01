@@ -4,4 +4,5 @@ Terrorhensikt foreligger dersom en handling som nevnt i første ledd begås i de
 a) å forstyrre alvorlig en funksjon av grunnleggende betydning i samfunnet, som for eksempel lovgivende, utøvende eller dømmende myndighet, energiforsyning, sikker forsyning av mat eller vann, bank- og pengevesen eller helseberedskap og smittevern,
 b) å skape alvorlig frykt i en befolkning, eller
 c) urettmessig å tvinge offentlige myndigheter eller en mellomstatlig organisasjon til å gjøre, tåle eller unnlate noe av vesentlig betydning for landet eller organisasjonen, eller for et annet land eller en mellomstatlig organisasjon.
+Den som har forsett om å fullbyrde et lovbrudd som nevnt i første ledd eller § 132, og foretar handlinger som legger til rette for og peker mot gjennomføringen, straffes for forsøk. Forsøket straffes mildere enn fullbyrdet overtredelse. § 16 annet ledd gjelder tilsvarende.
 Straffen kan ikke settes under minstestraffen i bestemmelsene som er nevnt i første ledd.
