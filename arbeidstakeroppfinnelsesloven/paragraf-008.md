@@ -1,0 +1,2 @@
+# § 8
+Søkes innen 6 måneder etter at arbeidstakeren har fratrådt sin tjeneste, patent på en oppfinnelse som er gjort av ham, skal den, såfremt utnyttelsen av oppfinnelsen faller innenfor virksomhetsområdet for den tidligere arbeidsgivers bedrift og oppfinnerens vesentligste arbeidsoppgave, eller oppfinnelsen utgjør resultatet av en nærmere angitt oppgave som oppfinneren ble pålagt i sin tjeneste, anses som gjort mens tjenesten varte medmindre arbeidstakeren kan sannsynliggjøre noe annet.
