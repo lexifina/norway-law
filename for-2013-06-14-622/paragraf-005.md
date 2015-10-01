@@ -1,0 +1,3 @@
+# § 5
+Pågripelsen skal foretas så skånsomt som forholdene tillater. Det skal utarbeides en skriftlig rapport som redegjør for hvem som er pågrepet og nærmere opplysninger om den enkelte. Når det anses nødvendig for å identifisere den som pågripes eller for å kontrollere opplysninger om identiteten til vedkommende, kan det tas fingeravtrykk, fotografi, samt innhentes biologisk materiale med sikte på å gjennomføre en DNA-analyse av vedkommende. Straffeprosessloven § 157 annet ledd, § 158 annet ledd annet og tredje punktum, og femte ledd samt § 159 første ledd gjelder tilsvarende.
+Det kan besluttes at vedkommende skal utelukkes fra fellesskap med andre pågrepne personer dersom samkvem antas å være særlig skadelig for etterforskningen.
