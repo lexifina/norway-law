@@ -1,6 +1,6 @@
 # § 52 c. Brudd på vilkår for ungdomsstraff
 Etter begjæring kan tingretten ved dom bestemme at hele eller deler av den subsidiære fengselsstraffen skal fullbyrdes når den domfelte har
-a) brutt bestemmelser gitt i eller i medhold av konfliktrådsloven § 25, eller
+a) brutt bestemmelser gitt i eller i medhold av konfliktrådsloven § 31, eller
 b) begått en ny straffbar handling før utløpet av gjennomføringstiden.
 Ved omgjøringen skal retten ta hensyn til ungdomsstraff som allerede er gjennomført.
 Ved omgjøring etter første ledd bokstav b kan retten avsi samlet dom for begge handlinger eller særskilt dom for den nye handlingen.

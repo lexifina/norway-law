@@ -8,5 +8,6 @@ e) gjennomgå behandling for å motvirke misbruk av alkohol eller andre berusend
 f) gjennomføre narkotikaprogram med domstolskontroll eller program mot ruspåvirket kjøring for personer som er dømt for overtredelse av vegtrafikkloven § 31, jf. § 22 første ledd, og som har problem med alkohol eller annet berusende eller bedøvende middel, forutsatt at domfelte har samtykket til å gjennomføre programmene,
 g) gjennomgå psykiatrisk behandling, om nødvendig i institusjon,
 h) ta opphold i hjem eller institusjon for inntil 1 år,
-i) møte til megling i konfliktrådet etter konfliktrådsloven kapittel II og oppfylle eventuelle avtaler som inngås i meglingsmøte, forutsatt at både fornærmede og domfelte har samtykket til megling i konfliktrådet, eller
-j) oppfylle andre særvilkår som retten finner hensiktsmessig.
+i) møte til mekling i konfliktrådet og oppfylle eventuelle avtaler som inngås i meklingsmøte, eller gjennomføre oppfølging i konfliktråd med varighet på inntil ett år, forutsatt at saken egner seg for slik behandling og at det foreligger samtykke både fra fornærmede, domfelte og deres eventuelle verger,
+j) gjennomføre ungdomsoppfølging i konfliktrådet med varighet på inntil ett år, forutsatt at domfelte var mellom 15 og 18 år på handlingstidspunktet, at saken egner seg for slik behandling og at det foreligger samtykke fra domfelte og domfeltes eventuelle verger, eller
+k) oppfylle andre særvilkår som retten finner hensiktsmessig.

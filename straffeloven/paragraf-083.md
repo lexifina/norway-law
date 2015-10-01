@@ -6,4 +6,5 @@ Ved idømming av fengselsstraff og bot gis varetektsfradraget først i fengselss
 Ved idømming av forvaring gis varetektsfradraget fullt ut både i minstetiden og i tidsrammen.
 Ved ilegging av bot gis varetektsfradraget i den subsidiære fengselsstraffen samtidig som boten reduseres forholdsmessig.
 Ved idømming av samfunnsstraff gis varetektsfradraget i den subsidiære fengselsstraffen samtidig som antallet timer samfunnsstraff og gjennomføringstiden reduseres forholdsmessig. Er samfunnsstraff idømt sammen med ubetinget fengselsstraff, gjøres fradraget først i fengselsstraffen.
+Ved idømming av ungdomsstraff gis varetektsfradraget i den subsidiære fengselsstraffen.
 Ved straffutmålingsutsettelse skal det i dommen anmerkes hvorvidt den siktede har vært undergitt frihetsberøvelse i anledning av saken og eventuelt hvor lenge.
