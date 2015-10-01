@@ -4,8 +4,7 @@
 2) har minst to års praktisk erfaring etter bestått juridisk embetseksamen,
 3) er myndig og
 4) er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller.
-(2) Søkeren må fremlegge politiattest som nevnt i § 2-9 tredje og sjette ledd.
+(2) Søkeren må fremlegge politiattest som nevnt i § 2-9 tredje ledd.
 (3) Departementet kan i forskrift fastsette nærmere regler om kravene til praksis, herunder gjøre unntak fra dette kravet.
 (4) Finanstilsynet kan godta juridisk eksamen fra utlandet etter reglene i domstolloven § 241.
 (5) Søkeren kan kreve at tillatelsen utstedes på papir.
-(6) Finanstilsynet kan til enhver tid kreve at innehavere av tillatelse etter første ledd skal legge frem ny politiattest.
