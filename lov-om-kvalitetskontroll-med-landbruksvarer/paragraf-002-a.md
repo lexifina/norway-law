@@ -1,0 +1,2 @@
+# § 2 a
+Kongen kan gi forskrifter om beskyttelse og bruk av produktbetegnelser og varebetegnelser, inkludert bl.a geografiske betegnelser, samt regler for erstatning ved urettmessig bruk av slike betegnelser. Herunder kan Kongen gi forskrifter som innskrenker registreringsadgangen i medhold av varemerkeloven, og begrenser rettigheter gitt i eller i medhold av samme lov dersom det ikke har innkommet innsigelse mot at en betegnelse beskyttes i henhold til forskrifter gitt i medhold av denne lov.
