@@ -1,0 +1,4 @@
+# § 7
+Erverver en arbeidsgiver i medhold av § 4 eller på annet grunnlag, rett til en oppfinnelse som en arbeidstaker har gjort, har denne, selv om annet måtte være avtalt før oppfinnelsen ble til, krav på rimelig godtgjøring med mindre verdien av den rett arbeidsgiveren har overtatt ikke overstiger hva arbeidstakeren med rimelighet må kunne forutsettes å skulle yte til gjengjeld for den lønn og mulige andre goder som han oppebærer i tjenesten.
+Ved fastsettelse av godtgjøringen skal det særlig tas hensyn til oppfinnelsens verdi, omfanget av den rett arbeidsgiveren har overtatt, arbeidstakerens ansettelsesvilkår og den betydning ansettelsen for øvrig kan ha hatt for oppfinnelsens tilkomst.
+Søksmål om godtgjøring må være reist innen 5 år fra det tidspunkt da arbeidsgiveren har ervervet rett til oppfinnelsen. Er det søkt patent på oppfinnelsen, kan søksmålet dog alltid reises innen 1 år etter at patentsøknaden er endelig avgjort.
