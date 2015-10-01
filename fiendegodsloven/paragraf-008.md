@@ -1,0 +1,4 @@
+# § 8
+Ikkje oppfylte økonomiske kontrakter med dei rettssubjekt som er nemnde i § 1 bokstav a, c og d, fell bort ved krigsutbrotet utan Direktoratet for fiendegods fastset at dei skal gjelda framleis.
+Når slike kontrakter som er nemnde i første leden heilt eller i nokon mon er oppfylde av fienden, kan direktoratet krevja å gå inn i dei. Nyttar det ikkje denne retten, kan det gjera gjeldande alle rettar som bortsett frå krigstilstanden hadde tilkome fienden då kontrakten fall bort.
+Ifall fienden ikkje har oppfylt kontrakten heilt ut, er det ikkje høve til å gå inn i kontrakten utan at dei attstående skuldnadene blir oppfylt med dei avvik som kan fylgja av lov eller onnor bindande føresegn. Oppfylling kan i dette tilfelle ikkje krevjast utan at kravet blir framsett innan rimeleg tid etter at det vart høve til det.
