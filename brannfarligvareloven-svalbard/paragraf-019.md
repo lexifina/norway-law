@@ -1,0 +1,4 @@
+# § 19. Avstand til omkringliggende bebyggelse m.v.
+Blir brannfarlig vare oppbevart i slik mengde at det kreves tillatelse etter § 21 eller § 22, jfr. § 20, skal det anlegg eller den lagerplass der oppbevaringen skjer, være omgitt av et sikringsfelt (sikkerhetssone).
+Er det innen samme anlegg eller lagerplass flere faste beholdere, skal de ligge i betryggende avstand. I den utstrekning det anses nødvendig, skal branngater være anlagt. Det skal likeledes i nødvendig utstrekning sørges for at brannvernets kjøretøyer kan komme fram. Anlegg eller lagerplass skal, hvis forholdene gjør det nødvendig, være innhegnet på hensiktsmessig måte.
+Ved vurdering av sikringsfelt, avstander og behovet for branngater og innhegning som nevnt i de foregående ledd, skal det tas hensyn til arten og mengden av de brannfarlige varer som blir oppbevart, til anleggets utførelse, til sikkerhetstiltakene for øvrig, til beskaffenheten av brannvernet og til andre særlige forhold.

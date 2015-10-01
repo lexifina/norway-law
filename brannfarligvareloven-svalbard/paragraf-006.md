@@ -1,0 +1,4 @@
+# § 6. Om utførelse og montering av beholder, apparat eller annen innretning og om godkjenning.
+Beholder, apparat eller annen innretning som blir brukt til oppbevaring, behandling, transport av eller handel med brannfarlig vare skal være formålstjenlig og betryggende utført og skal til enhver tid være i slik stand at det ikke oppstår fare for brann eller eksplosjon. Montering skal være utført fagmessig og betryggende.
+Departementet kan ved forskrift bestemme at beholder, apparat eller annen innretning til bruk som nevnt i første ledd ikke må selges, utbys til salg eller brukes her i landet med mindre den er godkjent eller med mindre typen av innretning som nevnt er godkjent (typegodkjenning). Godkjenning gis av Direktoratet for brann- og eksplosjonsvern eller den departementet bestemmer.
+Produkt som er produsert og kontrollert i overensstemmelse med regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge, anses godkjent i henhold til loven.

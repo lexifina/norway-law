@@ -1,0 +1,3 @@
+# § 42. Tjenestemenns forhold til bedrifter under tilsyn.
+Tjenestemenn i Direktoratet for brann- og eksplosjonsvern og i brannvesenet må ikke for egen eller andres regning drive eller ha betydelig økonomisk interesse i eller være tilsatt i bedrift som er underlagt deres tilsyn etter denne lov. De må heller ikke ta imot oppdrag fra slik bedrift mot godtgjøring. Når det skjønnes å være uten skade for tjenesten, kan departementet gjøre unntak fra forbudet.
+Medlem av kommunestyre kan ikke ta del i undersøkelser eller tilsynsvirksomhet når det gjelder bedrift som han selv driver, har betydelig økonomisk interesse i eller er tilsatt i.

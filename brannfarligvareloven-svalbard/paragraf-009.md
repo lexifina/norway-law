@@ -1,0 +1,3 @@
+# § 9. Melding om at innretning m.v. for brannfarlig vare kan tas i bruk.
+Oppbevaring, behandling eller transport som det er gitt tillatelse til etter §§ 21, 22, 27, 28 eller 29 og handel som er meldt etter § 34, må ikke påbegynnes før tilsynsmyndighetene har inspisert beholder, ledning eller annen innretning med tilbehør til bruk for brannfarlig vare i den tillatte virksomhet, og ved skriftlig melding har godkjent at den kan tas i bruk. Ved handel gjelder det samme utsalgsstedet.
+Med samtykke av den myndighet som har gitt tillatelsen, kan prøvedrift for så vidt gjelder behandling og transport foretas uten hinder av reglene i første ledd.
