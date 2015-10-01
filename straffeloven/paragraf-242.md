@@ -1,0 +1,3 @@
+# § 242. Kulturminnekriminalitet
+Med fengsel inntil 6 år straffes den som forsettlig eller grovt uaktsomt volder betydelig skade på kulturminner eller kulturmiljøer av særlig nasjonal eller internasjonal betydning.
+Med fengsel inntil 2 år straffes den som i en væpnet konflikt forsettlig eller grovt uaktsomt bruker et kulturminne eller et kulturmiljø av særlig nasjonal eller internasjonal betydning til støtte for militære handlinger og ved det skaper fare for at kulturminnet eller kulturmiljøet skades. Straff kommer likevel ikke til anvendelse dersom det var tvingende militært nødvendig å handle på denne måten.

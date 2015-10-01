@@ -1,0 +1,6 @@
+# § 203. Uberettiget tilgang til fjernsynssignaler mv.
+Den som med forsett om tap for den berettigete eller vinning for seg selv eller en annen fremstiller, innfører, distribuerer, selger, markedsfører, leier ut eller på annen måte utbrer, besitter, installerer, bruker, vedlikeholder eller skifter ut dekodingsinnretning, og ved det skaffer seg selv eller en annen uberettiget tilgang til en vernet formidlingstjeneste, straffes med bot eller fengsel inntil 1 år.
+Med dekodingsinnretning menes teknisk utstyr eller programvare som er utformet eller tilpasset, alene eller sammen med andre hjelpemidler, for å gi tilgang til en vernet formidlingstjeneste.
+Med vernet formidlingstjeneste menes
+a) fjernsyns- og radiosignaler, og tjenester som teleformidles elektronisk på forespørsel fra den enkelte tjenestemottaker, når tilgang er avhengig av tillatelse fra tjenesteyter og ytes mot betaling, eller
+b) selve tilgangskontrollen til tjenestene nevnt i bokstav a, når den må regnes som en egen tjeneste.

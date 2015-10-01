@@ -16,4 +16,4 @@ f) på handlingstidspunktet har en alvorlig psykisk lidelse med en betydelig sve
 g) på handlingstidspunktet er psykisk utviklingshemmet i lettere grad,
 h) på handlingstidspunktet har en noe mindre sterk bevissthetsforstyrrelse enn den som fritar for straff etter § 20 bokstav d. Er bevissthetsforstyrrelsen en følge av selvforskyldt rus, gjelder dette likevel bare når særdeles formildende omstendigheter tilsier det,
 i) på handlingstidspunktet er under 18 år, eller
-j) har handlet i uaktsom rettsuvitenhet ved overtredelse av straffebud som krever forsett.
+j) har handlet i uaktsom rettsuvitenhet ved overtredelser av straffebud som krever forsett eller grov uaktsomhet.

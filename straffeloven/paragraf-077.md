@@ -10,4 +10,5 @@ g) er forøvet ved at lovbryteren har utnyttet eller forledet unge personer, per
 h) har rammet personer som er forsvarsløse eller særlig utsatt for lovbrudd,
 i) har sin bakgrunn i andres religion eller livssyn, hudfarge, nasjonale eller etniske opprinnelse, homofile orientering, funksjonsevne eller andre forhold som støter an mot grupper med et særskilt behov for vern,
 j) er begått i offentlig tjeneste eller er forøvet ved brudd på en særlig tillit,
-k) er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger eller andre handlinger som er av betydning for saken.
+k) er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger eller andre handlinger som er av betydning for saken,
+l) er begått i nærvær av barn under 15 år.

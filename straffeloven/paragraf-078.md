@@ -7,4 +7,4 @@ d) lovbryteren på handlingstidspunktet har redusert evne til realistisk å vurd
 e) det har gått lang tid siden lovbruddet, eller saksbehandlingen har tatt lengre tid enn rimelig ut fra lovbruddets art, uten at lovbryteren kan lastes for dette,
 f) lovbryteren har avgitt en uforbeholden tilståelse, eller i vesentlig grad bidratt til oppklaring av andre lovbrudd,
 g) lovbryteren selv er hardt rammet av lovbruddet, eller straffreaksjonen vil bli en sterk belastning på grunn av høy alder, sykdom eller andre omstendigheter,
-h) lovbryteren tidligere ikke er ilagt en strafferettslig reaksjon for liknende handlinger eller andre handlinger som er av betydning for saken.
+h) det er gode utsikter til rehabilitering.
