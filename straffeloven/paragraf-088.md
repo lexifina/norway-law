@@ -1,0 +1,3 @@
+# § 88. Avbrytelse av foreldelsesfristen
+Fristen etter § 86 avbrytes ved at den mistenkte får stilling som siktet, jf. straffeprosessloven § 82. Skjer siktelsen ved utferdigelse av utenrettslig erklæring eller av forelegg, avbrytes fristen når den siktede meddeles siktelsen. For slik meddelelse gjelder domstolloven § 146 annet ledd tilsvarende.
+Fristavbrytelsen taper sin virkning når forfølgningen innstilles uten at beslutningen omgjøres av overordnet påtalemyndighet innen fristen i straffeprosessloven § 75 annet ledd. Det samme gjelder når forfølgningen blir stanset på ubestemt tid. Ved beregningen av om foreldelse er inntrådt, skal forfølgningstiden regnes med. Dette gjelder likevel ikke dersom forfølgningen er stanset fordi den siktede har unndratt seg forfølgningen.

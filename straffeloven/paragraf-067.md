@@ -1,0 +1,5 @@
+# § 67. Inndragning av utbytte
+Utbytte av en straffbar handling skal inndras. Istedenfor utbyttet kan hele eller deler av utbyttets verdi inndras. Inndragning foretas selv om lovbryteren var utilregnelig, jf. § 20, eller ikke utviste skyld. Ansvaret etter bestemmelsen her kan reduseres eller falle bort i den grad inndragning vil være klart urimelig.
+Som utbytte regnes også formuesgode som trer istedenfor utbytte, avkastning og andre fordeler av utbytte. Utgifter kommer ikke til fradrag. Kan størrelsen av utbyttet ikke godtgjøres, fastsettes beløpet skjønnsmessig.
+Retten – eller påtalemyndigheten i forelegg om inndragning – kan fastsette at inndragningsbeløpet skal reduseres med et beløp som tilsvarer erstatning som lovbryteren eller en ansvarlig for skaden har betalt til skadelidte, og som helt eller delvis svarer til utbyttet. Det samme gjelder når lovbryteren har oppfylt en forpliktelse som den strafferettslige forfølgning gjelder.
+Ved verdiinndragning, jf. første ledd annet punktum, kan det bestemmes at formuesgodet hefter til sikkerhet for inndragningsbeløpet.

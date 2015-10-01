@@ -1,0 +1,3 @@
+# § 100. Bortfall av straff- og inndragningsansvar mv. ved den skyldiges eller ansvarliges død
+Straffansvar faller bort ved den skyldiges død.
+Inndragningsansvar faller bort ved den ansvarliges død. Gjelder det inndragning av utbytte, herunder inndragning etter § 68 og § 72 annet ledd, kan sak likevel fremmes, og ilagt inndragning kan fullbyrdes dersom det blir besluttet ved kjennelse av den retten som har pådømt saken i første instans, eller av den tingrett som saken hører under etter straffeprosessloven § 12 når inndragningen er vedtatt ved forelegg. Retten kan beslutte inndragning av et beløp istedenfor en ting.

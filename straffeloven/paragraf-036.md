@@ -1,0 +1,2 @@
+# § 36. Særvilkår om meldeplikt
+Som særvilkår for fullbyrdingsutsettelse kan retten pålegge den domfelte å melde seg for politiet til bestemte tider. Perioden for meldeplikten er 1 år når ikke retten bestemmer noe annet. Meldeplikten løper fra den dag dommen er rettskraftig. Gjelder dommen en straffbar handling som den domfelte har tilstått, kan det bestemmes i dommen at meldeplikten skal settes i verk straks.
