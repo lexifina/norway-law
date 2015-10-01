@@ -1,0 +1,2 @@
+# § 8
+Dersom nogen Svensk Lap gifter sig med en Norsk Lappe-Hustru, som udi Norge har sit eget Skatte-Land eller flere Rehner, end han, have han Frihed, uden nogen Hindring eller Afgift af hans Formue, at blive en Norsk Lap; Da han sig derom hos den Svenske Foged anmelder og giør en saadan Beskaffenhed beviislig, hvorpaa Fogden skal meddele ham en skriftlig Tilladelse til Overflytning og samme i Opbørsels Bogen antegne, samt hannem fra den Svenske Skat udslette; saaledes forholdes vice versa med en Norsk Lap udi lige Tilfælde; Udi andre Omstændigheder følge Hustruen Manden.

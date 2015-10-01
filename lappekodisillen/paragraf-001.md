@@ -1,0 +1,2 @@
+# § 1
+Den siden Aar 1742 og under denne Grendse-Commissions Tiid, de privative Svenske Lapper paa visse Stæder udi Nordlands Amt paalagde nye Norske Lappe-Skat, og de derved indførte Sommer-Lands Stedseler, og Overdragelser til bemeldte Svenske Lapper for aarlig Skat, bør, saasom stridige med endeel af de nedenstaaende betingede Articler og til nye U-rigtigheder i Lappe-Væsenet contribuerende, afskaffes og ophøre, hvor imod saadan Indretning, som her neden for paa sine Steder anføres, skal settes i Verk.

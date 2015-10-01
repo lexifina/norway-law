@@ -1,0 +1,2 @@
+# § 20
+Dersom nogen Lap, Norsk eller Svensk, befindes falskeligen at have angivet Tallet paa sine Dyr, saaledes, at han haver 20 Dyr fleere og derover, end anmeldt er, betale han for hvert 20de Dyr udi den hele Flok 2 gange saa meget, som oven er meldt, betreffes han anden Gang med saadan U-rigtighed, betale han dobbelt saa meget, som første Gang, og saaledes fremdeles, saa at Straffen hver Gang fordobles, altsammen udi lige Deele til Angiveren og den, som Leyen tilhører. I Mangel af anden Angiver beholder Eyeren af Leyen alt.

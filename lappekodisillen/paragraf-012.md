@@ -1,0 +1,2 @@
+# § 12
+Hvor Fred-Lyste Kobbe-Veider og Fugle-Vær findes paa den Norske Side, for hvilke visse Undersaatter aarlig Skat betale, skal det under saadan Straf, som den Norske Lov for Norske Undersaatter tilholder, være de Svenske Lapper forbuden, noget Skiøtterie sammesteds at bruge eller paa anden Maade Skade at gjøre; Paa alle andre Steder bliver dennem saadant, og alt andet Skiøtterie og Fiskerie, lige med Norske Undersaatter tilladt; Likesom de Norske Lapper ogsaa have Samme Frihed i Lapmarken paa den Svenske Side.
