@@ -1,5 +1,5 @@
 # § 40. Vilkår for å idømme forvaring
-Når fengselsstraff ikke anses tilstrekkelig til å verne andres liv, helse eller frihet, kan forvaring i anstalt under kriminalomsorgen idømmes når lovbryteren finnes skyldig i å ha begått eller forsøkt å begå et voldslovbrudd, et seksuallovbrudd, en frihetsberøvelse, en ildspåsettelse eller et annet lovbrudd som krenket andres liv, helse eller frihet, eller utsatte disse rettsgodene for fare og vilkårene i annet eller tredje ledd er oppfylt.
+Når fengselsstraff ikke anses tilstrekkelig til å verne andres liv, helse eller frihet, kan forvaring i anstalt under kriminalomsorgen idømmes når lovbryteren finnes skyldig i å ha begått eller forsøkt å begå et voldslovbrudd, et seksuallovbrudd, en frihetsberøvelse, en ildspåsettelse eller et annet lovbrudd som krenket andres liv, helse eller frihet, eller utsatte disse rettsgodene for fare og vilkårene i annet eller tredje ledd er oppfylt. Er siktede under 18 år, kan forvaring ikke idømmes, med mindre det foreligger helt ekstraordinære omstendigheter.
 Var lovbruddet av alvorlig art, må det være en nærliggende fare for at lovbryteren på nytt vil begå et alvorlig lovbrudd som nevnt i første ledd.
 Var lovbruddet av mindre alvorlig art, må
 a) lovbryteren tidligere ha begått eller forsøkt å begå et alvorlig lovbrudd som nevnt i første ledd,
