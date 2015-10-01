@@ -1,0 +1,3 @@
+# § 198. Forbund om alvorlig organisert kriminalitet
+Den som inngår forbund med noen om å begå en handling som kan straffes med fengsel i minst 3 år, og som skal begås som ledd i virksomheten til en organisert kriminell gruppe, straffes med fengsel inntil 3 år med mindre forholdet går inn under en strengere straffebestemmelse. Forhøyelse av maksimumsstraffen ved gjentakelse eller sammenstøt av lovbrudd kommer ikke i betraktning.
+Med organisert kriminell gruppe menes en organisert gruppe på tre eller flere personer som har som hovedformål å begå en handling som kan straffes med fengsel i minst 3 år, eller hvor en vesentlig del av virksomheten består i å begå slike handlinger.

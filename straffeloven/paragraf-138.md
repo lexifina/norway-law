@@ -1,0 +1,2 @@
+# § 138. Terrorbombing
+Med fengsel inntil 21 år straffes den som sender inn, anbringer, avfyrer eller detonerer et sprenglegeme eller en annen potensielt dødbringende anordning på, i eller mot et offentlig sted, et statlig eller offentlig anlegg, et offentlig infrastrukturanlegg eller et offentlig transportsystem, med forsett om å volde tap av menneskeliv eller betydelig skade på legeme, eiendom eller miljø.
