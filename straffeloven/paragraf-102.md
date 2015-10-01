@@ -10,5 +10,5 @@ g) utsetter en person for voldtekt, seksuelt slaveri eller tvungen prostitusjon,
 h) utsetter en identifiserbar gruppe for forfølgelse ved å berøve ett eller flere medlemmer av gruppen grunnleggende menneskerettigheter på politisk, rasemessig, nasjonalt, etnisk, kulturelt, religiøst, kjønnsbasert eller annet folkerettsstridig grunnlag,
 i) på vegne av, eller med samtykke, støtte eller tillatelse av en stat eller en politisk organisasjon bidrar til at en person forsvinner ufrivillig, med det forsett å unndra vedkommende fra lovens beskyttelse for et lengre tidsrom,
 j) innenfor rammen av et institusjonalisert regime basert på én rasemessig gruppes systematiske undertrykking og dominans over en eller flere andre rasemessige grupper begår en apartheidforbrytelse ved å foreta umenneskelige handlinger av samme eller liknende art som de som er omfattet av paragrafen her i den hensikt å opprettholde regimet, eller
-k) begår en annen umenneskelig handling av liknende art som forårsaker store lidelser eller alvorlig skade på legeme eller helse.
+k) begår en annen umenneskelig handling av liknende art som forårsaker store lidelser eller alvorlig skade på kropp eller helse.
 Straffen for forbrytelse mot menneskeheten er fengsel inntil 30 år.

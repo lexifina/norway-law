@@ -1,7 +1,7 @@
 # § 103. Krigsforbrytelse mot person
 For krigsforbrytelse straffes den som i forbindelse med en væpnet konflikt
 a) dreper en beskyttet person,
-b) påfører en beskyttet person stor lidelse eller betydelig skade på legeme eller helse, særlig ved tortur eller annen grusom eller umenneskelig behandling,
+b) påfører en beskyttet person stor lidelse eller betydelig skade på kropp eller helse, særlig ved tortur eller annen grusom eller umenneskelig behandling,
 c) gjør en beskyttet person til slave,
 d) utsetter en beskyttet person for voldtekt, seksuelt slaveri, tvungen prostitusjon, tvungent svangerskap, tvungen sterilisering eller annen tilsvarende grov seksuell vold,
 e) tar en beskyttet person som gissel,

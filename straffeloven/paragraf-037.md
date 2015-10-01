@@ -8,5 +8,5 @@ e) gjennomgå behandling for å motvirke misbruk av alkohol eller andre berusend
 f) gjennomføre promilleprogram,
 g) gjennomgå psykiatrisk behandling, om nødvendig i institusjon,
 h) ta opphold i hjem eller institusjon for inntil 1 år,
-i) møte til mekling i konfliktrådet og oppfylle eventuelle avtaler som inngås i meklingsmøte, forutsatt at både fornærmede og domfelte har samtykket til mekling i konfliktrådet, eller
+i) møte til mekling i konfliktrådet og oppfylle eventuelle avtaler som inngås i meklingsmøte, forutsatt at både fornærmede og domfelte har samtykket i mekling i konfliktrådet, eller
 j) oppfylle andre særvilkår som retten finner hensiktsmessig.

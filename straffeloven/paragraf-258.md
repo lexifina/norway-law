@@ -1,0 +1,2 @@
+# § 258. Grov menneskehandel
+Grov menneskehandel straffes med fengsel inntil 10 år. Ved avgjørelsen av om overtredelsen er grov skal det særlig legges vekt på om den som ble utsatt for handlingen var under 18 år, om det ble brukt grov vold eller tvang og om handlingen har medført betydelig utbytte. Den som var uvitende om at fornærmede var under 18 år, straffes hvis han på noe punkt kan klandres for sin uvitenhet.

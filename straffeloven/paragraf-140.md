@@ -1,2 +1,2 @@
 # § 140. Forstyrrelse av den sikre drift av luftfartøy og skip mv.
-Med fengsel inntil 6 år straffes den som ved vold, materiell ødeleggelse, meddelelse av feilaktig informasjon eller på annen måte forstyrrer den sikre drift av luftfartøy, flyplass, skip eller innretninger eller anlegg på kontinentalsokkelen, og derved volder fare for tap av menneskeliv eller betydelig skade på legeme, eiendom eller miljø.
+Med fengsel inntil 6 år straffes den som ved vold, materiell ødeleggelse, meddelelse av feilaktig informasjon eller på annen måte forstyrrer den sikre drift av luftfartøy, flyplass, skip eller innretninger eller anlegg på kontinentalsokkelen, og derved volder fare for tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø.
