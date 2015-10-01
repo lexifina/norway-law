@@ -1,0 +1,3 @@
+# § 1
+Er det fare for vekstkonsentrasjonar som trugar den økonomiske stabiliteten og som kan føre til alvorlege samfunnsproblem, kan Kongen ved forskrift gje nærmare føresegnar om regulering av byggje- og anleggsverksemda. Det kan mellom anna fastsetjast at det ikkje kan iverksetjast nybygg eller ombygging av byggverk, anlegg m.v. utan samtykke frå Kongen. Det kan setjast vilkår for samtykke.
+I forskrifta kan det fastsetjast minstegrenser for kva som går inn under lova. Minstegrensene kan fastsetjast som eit minste areal, investert kapital eller tal på sysselsette under anleggsperioden eller som ein kombinasjon av desse.
