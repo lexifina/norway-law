@@ -7,3 +7,4 @@ Kriminalomsorgen kan ved prøveløslatelse sette vilkår som nevnt i første led
 Den domfelte skal få uttale seg om vilkårene. Det samme gjelder kriminalomsorgen når vilkårene fastsettes av retten.
 Om endring av fastsatte vilkår og forlengelse av prøvetid gjelder § 39 første ledd tilsvarende.
 Den prøveløslatte kan begjære at tingretten treffer kjennelse om at vilkår som nevnt i første ledd bokstav c skal oppheves eller endres, jf. § 39 første ledd. Slik begjæring kan tidligst fremmes 1 år etter at dommen om prøveløslatelse eller tingrettens siste kjennelse er endelig.
+Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til tidspunktet for prøveløslatelsen, skal kriminalomsorgen varsle fornærmede eller dennes etterlatte på forhånd. Varselet skal også omfatte vilkår fastsatt med hjemmel i lov eller forskrift, når vilkårene direkte gjelder fornærmede eller dennes etterlatte.
