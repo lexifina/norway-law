@@ -1,0 +1,5 @@
+# § 9
+Kjem Finanstilsynet til at eit trygdelag driv verksemda si i strid med lov, vedtekt eller reglar som er gjevne med heimel i denne lova, eller at verksemda ikkje har trygt nok grunnlag, skal rådet gjeva laget påbod om, innan ein fastsett frist, å gjera dei tiltaka som trengst.
+Meiner Finanstilsynet at det er turvande av omsyn til trygdetakarane, kan rådet til ei kvar tid krevja at trygdelaget skal stogga verksemda si heilt eller noko, til dess påboda frå Finanstilsynet er fylgde.
+Vert eit påbod ikke fylgt i rett tid, skal Finanstilsynet senda fråsegn om saka til Kongen. Kongen avgjer då kva rådgjerd som skal takast, og kan, etter at trygdelaget har fått høve til å gjeva utsegn, fastsetja at laget skal avskipast. Kongen kan og fastsetja at det ikkje skal takast utlegg i lagseiga før det er avgjort om laget skal avskipast, og at tvangssal berre kan haldast når ein heilt rettsverna panterett var til før Kongen gjorde vedtaket, eller før Finanstilsynet gav påbod om å stogga verksemda.
+Held Finanstilsynet det truleg at eit trygdelag ikkje vert i stand til å svara skyldnaden sin, kan Kongen fastsetja at laget straks skal avskipast.
