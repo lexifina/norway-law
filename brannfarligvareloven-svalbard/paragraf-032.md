@@ -1,0 +1,3 @@
+# § 32. Forskrifter om transport.
+Departementet fastsetter de forskrifter som for øvrig er nødvendige for betryggende transport av brannfarlig vare, derunder om lasting og lossing og midlertidig i oppbevaring under transport. Departementet kan i forskriftene begrense de mengder brannfarlig vare som kan tas med i transportmiddel bestemt for offentlig personbefordring eller det kan helt forby slik transport.
+Forskrifter som nevnt i første ledd gjelder også transport til og fra riket, med mindre annet er bestemt eller følger av internasjonal overenskomst som Norge er bundet til å følge. For så vidt det er nødvendig for gjennomføringen av slik overenskomst, kan det ved forskrifter gjøres unntak fra denne lov.

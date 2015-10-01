@@ -1,0 +1,3 @@
+# § 13. Åpen ild og røyking.
+Røyking og bruk av ild eller andre tennkilder er forbudt innenfor anlegg, på område eller i rom hvor brannfarlig vare forekommer under slike forhold at brann eller eksplosjon lett kan oppstå. Oppslag herom skal i nødvendig utstrekning finnes på passende steder.
+Kommunestyret kan gi tillatelse til å fravike forbudet for enkelt anledning. Kommunestyret kan likeledes gi slik tillatelse inntil videre når det har gitt tillatelse til virksomheten etter §§ 21, 27, 28 og 29 eller har gitt godkjenning etter § 9 første ledd siste punktum. I andre tilfelle kan Direktoratet for brann- og eksplosjonsvern gi tillatelse til å fravike forbudet.

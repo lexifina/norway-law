@@ -1,0 +1,7 @@
+# § 1. Lovens område.
+Denne lov gjelder oppbevaring, behandling og transport, herunder lasting og lossing av brannfarlig vare samt handel med slik vare.
+Unntatt fra loven er brannfarlig vare om bord på skip som går inn under lov om skipssikkerhet (skipssikkerhetsloven) eller under forskrifter fastsatt med hjemmel i nevnte lov. Loven gjelder likevel for lasting og lossing av skip og for stasjonær oppbevaring av brannfarlig vare på skip.
+For så vidt det er nødvendig av hensyn til Forsvaret eller landets beredskap, kan Kongen bestemme at loven helt eller delvis ikke skal gjelde, eller at det skal gjelde andre regler enn de som er fastsatt i eller i medhold av loven.
+Departementet kan fastsette at brannfarlig gass som blir oppbevart, behandlet eller transportert under trykk som ikke overstiger et kilopund pr. kvadratcentimeter overtrykk helt eller delvis skal være unntatt fra denne lov.
+Kongen kan bestemme at virksomhet nevnt i første ledd med væsker og gasser under trykk som ikke er brannfarlig vare også skal omfattes av denne lov. Departementet kan fastsette forskrifter for slik virksomhet, herunder bestemmelser som avviker fra de som er fastsatt i eller i medhold av loven. Det kan i forskriftene fastsettes at det skal betales særskilt avgift til statskassen til dekning av utgifter forbundet med tilsyn fastsatt i medhold av denne bestemmelse. Avgiften er tvangsgrunnlag for utlegg.
+For Svalbard gjelder loven med de begrensninger Kongen fastsetter.
