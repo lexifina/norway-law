@@ -1,0 +1,4 @@
+# § 32. Tillatelse til innførsel, utførsel og overføring.
+Den som vil innføre eller utføre eksplosiv vare må ha tillatelse av departementet. For søknad herom gjelder § 16 tredje ledd tilsvarende. Tillatelse til innførsel og utførsel gjelder også som tillatelse til overføring når dette kreves i henhold til regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge. Tillatelse til overføring kreves også for innførsel og utførsel av ammunisjon som er omfattet av andre ledd så langt dette er nødvendig som følge av slik internasjonal avtale.
+Unntatt fra kravet om tillatelse etter første ledd er ammunisjon som innføres eller utføres etter reglene i lov av 9 juni 1961 om skytevåpen og ammunisjon m.v. samt de pyrotekniske varer som kan innføres eller utføres etter forskrifter fastsatt av departementet.
+Tillatelsen skal angi varens art og mengde og gjelde for et bestemt tidsrom som etter søknad kan forlenges.

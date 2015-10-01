@@ -1,0 +1,3 @@
+# § 31. Forskrifter om transport m.v.
+Departementet fastsetter forskrifter om transport av eksplosiv vare, derunder om hvem som kan motta eksplosiv vare til transport, om tilsyn med varen og om hva som for øvrig skal iakttas ved transport, ved lasting og lossing og ved midlertidig oppbevaring under transport. Videre fastsettes forskrifter om de mengder eksplosiv vare som kan sendes med de forskjellige transportmidler. I forskriftene kan fastsettes forbud mot transport av eksplosiv vare med transportmiddel bestemt for offentlig personbefordring og med transportmidler som innebærer særlig risiko.
+Departementet kan i forskrifter også fastsette bestemmelser om flytting av eksplosiv vare som ikke er transport etter denne lov, jfr. § 27 første ledd.

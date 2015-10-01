@@ -1,0 +1,2 @@
+# § 35. Forskrifter om bruk.
+Departementet kan gi forskrifter om bruk av eksplosiv vare, herunder om utlevering til bruk, om stedet der bruk kan foregå, om godkjenning av dem som skal forestå bruken og om tilintetgjøring av varen. Denne bestemmelse gjelder ikke ammunisjon i den utstrekning bruken er regulert ved lov av 9 juni 1961 om skytevåpen og ammunisjon m.v. eller ved forskrifter i medhold av nevnte lov.
