@@ -1,0 +1,2 @@
+# § 370. Forberedelse av dokumentfalsk
+Den, som til forberedelse av dokumentfalsk tilvirker, erverver, innfører, utfører, overdrar, besitter eller oppbevarer falsk segl, stempel eller merke eller andre gjenstander, som tilkjennegir seg som bestemte til å benyttes til ettergjørelse eller forfalskning, eller i slik hensikt tilvender seg et ekte segl, stempel eller merke, straffes med bot eller med fengsel inntil 3 år.

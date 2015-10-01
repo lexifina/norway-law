@@ -1,2 +1,2 @@
-# § 38. Forskrift om særvilkår
-Kongen kan gi forskrift om gjennomføringen av særvilkår for fullbyrdingsutsettelse.
+# § 38. Forskrift om særvilkår m.m.
+Kongen kan gi forskrift om gjennomføringen av særvilkår for fullbyrdingsutsettelse. Kongen kan som en prøveordning bestemme at det skal etableres narkotikaprogram med domstolskontroll for rusmiddelmisbrukere som er dømt for narkotikarelatert kriminalitet. Kongen gir nærmere bestemmelser om programmet, herunder hvem det skal gjelde for, innholdet i og gjennomføringen av det. Kriminalomsorgen har ansvaret for å følge opp domfelte som gjennomfører narkotikaprogram med domstolskontroll, som gjennomfører program mot ruspåvirket kjøring eller som er under 18 år og pålagt vilkår om avholdenhet etter § 37 bokstav d. Straffegjennomføringsloven § 56 gjelder tilsvarende ved slikt vilkår om avholdenhet.
