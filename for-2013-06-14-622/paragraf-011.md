@@ -1,0 +1,3 @@
+# § 11
+Hvis påtalemyndigheten fremmer en anmodning som nevnt i § 10 første ledd bokstav a, skal Utenriksdepartementet snarest mulig vurdere om anmodningen bør etterkommes.
+Det nasjonale statsadvokatembetet kan treffe beslutning om overføring av pågrepne personer til videre strafforfølgning i en annen stat. Det kan samtidig treffes beslutning om overføring av beslaglagte ting, sakens dokumenter og eventuelle andre bevismidler til bruk under strafforfølgningen der. Beslutningen skal være skriftlig, og den skal dateres og underskrives av rette vedkommende. Straffeprosessloven § 59a om klage til Riksadvokaten gjelder tilsvarende så langt den passer.
