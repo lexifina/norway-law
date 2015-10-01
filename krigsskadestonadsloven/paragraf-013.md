@@ -1,0 +1,5 @@
+# § 13. Utløsning av pensjonen.
+Er tapet av ervervsevne mindre enn 25 pst., skal pensjonen løses ut en gang for alle med et beløp som svarer til pensjonen for 3 år.
+Er tapet av ervervsevne større kan utløsning av pensjonen, når den pensjonsberettigede ønsker det, skje helt eller delvis med en tilsvarende del av kontantverdien hvis det må antas at slik utløsning vil bidra til å skape varig inntektsgivende erverv. Under samme betingelse kan, hvis den forsørgede samtykker i det, forsørgingstillegg utløses, men bare for et tidsrom av 3 år om gangen. Selv om vilkåret etter 2. ledd ikke er til stede har sjømenn som kommer inn under § 4 gruppe 1 d rett til å få utløst kontantverdien av pensjonen med inntil kr. 10.000 ved fullstendig tap av ervervsevnen og forholdsmessig mindre dersom ervervsevnen bare er delvis tapt, men med minst 25 pst.
+Departementet fastsetter grunnlaget for beregningen av kontantverdien.
+Bestemmelsen i § 11 punkt 4, 2. ledd får anvendelse selv om pensjonen er utløst overensstemmende med bestemmelsene i nærværende paragraf.

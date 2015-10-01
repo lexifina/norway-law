@@ -1,0 +1,3 @@
+# § 2. Skade eller sykdom ved krigsulykke.
+1) Skade eller sykdom anses påført ved krigsulykke som nevnt i § 1 B, hvis den er inntruffet når riket er i krig og er en følge av ildgivning, flyangrep, bombe- eller granateksplosjon, torpedering, minesprengning eller annen lignende krigshending eller hvis skaden eller sykdommen er en følge av deltakelse i patriotisk arbeid eller av patriotisk holdning. Når det finnes rimelig kan det også for skade eller sykdom som er påført ved annen hending som skyldes krigen, ytes hel eller delvis stønad etter denne lov.
+2) Når krig er brutt ut kan Kongen bestemme at skade eller sykdom påført ved sådan begivenhet som nevnt i 1. punkt forut for krigsutbruddet, skal anses som påført ved krigsulykke.
