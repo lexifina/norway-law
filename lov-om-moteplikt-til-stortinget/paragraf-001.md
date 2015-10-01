@@ -1,0 +1,2 @@
+# § 1
+Den, som efter i Henhold til Grundlovens § 75 at være indkaldt til at møde for Storthinget, enten undlader at møde eller vægrer sig for, overensstemmende med Storthingets Forretningsorden, at afgive den Forklaring, hvortil han efter nævnte Grundlovsbestemmelse er pligtig, eller at bekræfte Forklaringen med en høitidelig Forsikring etter reglene i domstolloven § 141 bliver, forsaavidt strengere Straffebestemmelser i anden gjældende Lov ikke maatte komme til Anvendelse, at straffe med en Bod.
