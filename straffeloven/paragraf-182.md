@@ -1,0 +1,3 @@
+# § 182. Opptøyer
+Med bot eller fengsel inntil 1 år straffes den som deltar i omfattende ordensforstyrrelser med forsett om å øve eller true med vold mot person eller skadeverk på eiendom, og som ikke etterkommer pålegg fra en offentlig myndighet om å fjerne seg fra et område.
+Med bot eller fengsel inntil 3 år straffes den som har fremkalt eller ledet omfattende ordensforstyrrelser med forsett om å øve eller true med vold på person eller skadeverk på eiendom. Begår noen under opptøyene en straffbar handling som omfattes av forsettet, eller en straffbar handling mot en offentlig myndighet, gjelder i stedet maksimumsstraffen i dette straffebudet hvis det kan medføre en strengere straff enn bot eller fengsel inntil 3 år.

@@ -1,0 +1,3 @@
+# § 190. Ulovlig befatning med skytevåpen eller eksplosiver
+Med bot eller fengsel inntil 2 år straffes den som forsettlig eller grovt uaktsomt, og gjentatt eller på en graverende måte, overtrer bestemmelsene om ulovlig innføring, avhendelse, erverv eller besittelse av våpen i våpenloven 9. juni 1961 nr. 1.
+På samme måte straffes den som forsettlig eller grovt uaktsomt, og gjentatt eller på en graverende måte, overtrer bestemmelsene om ulovlig overlatelse, tilvirkning, erverv eller innføring i forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff, gitt i medhold av brann- og eksplosjonsvernloven 14. juni 2002 nr. 20.
