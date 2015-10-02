@@ -1,0 +1,3 @@
+# § 14. Utskrift av avhør
+I saker der vitnet forteller om straffbare forhold eller det er grunn til å tro at noe straffbart har skjedd, skal det tas utskrift av hele avhøret (dialogutskrift). Dersom det anses ubetenkelig, kan avhørsleder beslutte at det bare skal tas utskrift av deler av avhøret eller at det skrives et sammendrag kombinert med utskrift av særlig viktige uttalelser. Avhørslederen skal lese gjennom og godkjenne sammendraget. Utskriften eller sammendraget skal foreligge så snart som mulig.
+Har et gjennomført avhør avkreftet en mistanke eller det av andre grunner ser ut til at saken vil bli henlagt, skal det ikke tas utskrift av avhøret, men skrives en kort oppsummering fra avhøret.

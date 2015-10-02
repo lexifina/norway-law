@@ -1,0 +1,2 @@
+# § 11. Informasjon til vitnet
+Avhøreren skal gi vitnet informasjon om avhørssituasjonen. Informasjonen kan omfatte hvem som følger avhøret og hvor de befinner seg, at det tas videoopptak av avhøret, hvem som kan få se opptaket i ettertid og hva opptaket skal benyttes til. Hvor mye informasjon som skal gis og hvordan den skal formidles skal tilpasses vitnets alder, utviklings- og funksjonsnivå og omstendighetene for øvrig.
