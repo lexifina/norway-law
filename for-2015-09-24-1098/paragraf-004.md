@@ -1,0 +1,4 @@
+# § 4. Avhører
+Et tilrettelagt avhør skal gjennomføres av en politietterforsker som har bestått Politihøgskolens spesialutdanning i avhør av barn og ungdom. Er det ikke mulig at en politietterforsker med slik spesialutdanning tar avhøret uten at det blir vesentlig forsinket, og avhørsleder etter en samlet vurdering av hensynet til vitnet, siktede og etterforskingen vurderer forsinkelsen som særlig uheldig, kan avhøret tas av en politietterforsker uten slik spesialutdanning. Avhøreren skal da ha kompetanse i kreativ avhørsteknikk.
+Et avhør av førskolebarn eller særlig sårbare voksne skal så vidt mulig tas av en politietterforsker som i tillegg har bestått Politihøgskolens spesialutdanning i avhør av førskolebarn og særlig sårbare voksne.
+Supplerende avhør skal tas av den samme avhøreren som tok det første avhøret. Dersom hensynet til vitnet ikke taler mot det, kan supplerende avhør likevel tas av en annen avhører.
