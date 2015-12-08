@@ -1,0 +1,2 @@
+# § 17. Automatisk overvåkningsutstyr
+Når det fremgår av planen for sikkerhet, helse og arbeidsmiljø, skal det installeres nødvendig overvåkningsutstyr som automatisk og kontinuerlig registrerer konsentrasjonen av gasser og støv. I disse tilfellene skal det også installeres automatiske alarmapparater, automatiske strømutkoplingssystemer for elektriske anlegg og automatiske stoppsystemer for forbrenningsmotorer.
