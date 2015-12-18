@@ -1,0 +1,2 @@
+# § 15. Mulige reaksjonsformer dersom mottaker gir uriktige opplysninger eller ikke bruker tilskuddet i samsvar med fastsatte betingelser
+Tilskuddet kan stanses og/eller kreves tilbakebetalt helt eller delvis. Ved eventuell videreføring av tilskudd det påfølgende år, vil det kunne være aktuelt å gjøre en avkorting. Tilskuddsmottakeren vil kunne nektes å motta tilskudd ett eller flere påfølgende år. I særskilte tilfeller skal politianmeldelse vurderes.
