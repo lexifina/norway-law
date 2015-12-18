@@ -1,0 +1,4 @@
+# § 12. Krav til rapportering fra tilskuddsmottaker
+Budsjett og regnskap fra tilskuddsmottaker skal kunne sammenliknes på likt nivå. Sluttrapport/årsrapport med revisorattestert regnskap sendes innen 31. mars påfølgende år etter hvert år med tilskudd.
+Tilskuddsmottakere må rapportere på de kriteriene for måloppnåelse eller andre krav som står i tilskuddsbrevet og de kriterier for måloppnåelse tilskuddsmottaker selv definerte i søknaden.
+Mottakere av driftstilskudd skal hvert år levere en rapport med revisorattestert regnskap, et oppdatert budsjett og en fremdriftsplan. Rapporten skal svare til søknaden og føringer i tilskuddsbrevet og beskrive hvordan og i hvilken grad målene er oppnådd. Ved manglende måloppnåelse skal dette begrunnes og tiltak for bedre måloppnåelse i videre drift beskrives.

@@ -1,0 +1,3 @@
+# § 13. Oppfølging og kontroll:
+Det tas forbehold om Helsedirektoratets adgang til å føre kontroll med at bevilgningen nyttes etter forutsetningene i hele tilskuddskjeden og at opplysninger som legges til grunn for tildeling og som inngår i den etterfølgende rapporteringen er korrekte, jf. Bevilgningsreglementet § 10, annet ledd.
+Helsedirektoratet kan gi myndighet til en annen virksomhet for å føre denne kontrollen. Tilskuddsmottakere skal legge frem opplysninger ved forespørsel og bidra på andre måter til å muliggjøre og lette kontrollarbeidet. Helsedirektoratet kan iverksette alle kontroller det finner nødvendige og hensiktsmessige.
