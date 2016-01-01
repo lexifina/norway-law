@@ -1,0 +1,4 @@
+# § 1-2. Renter og rentegodtgjørelse.
+For avgift som ikke er betalt i rett tid betales renter. Rentesatsen skal være lik den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i § 3 første ledd første punktum i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. Rentene beregnes fra forfallsdag og inntil betaling skjer. Rentebeløp under kr 50 oppkreves ikke.
+Når avgift helt eller delvis betales tilbake etter klagebehandling eller rettsavgjørelse, betales også erlagte renter tilbake. Dessuten godtgjøres renter av det tilbakebetalte beløp med 3/4 pst. pr. måned eller del av måned fra beløpet blir betalt. Rentegodtgjørelse under kr. 50 betales ikke ut.
+Hvis tilbakebetaling skjer i andre tilfeller enn de som er nevnt i annet ledd, kan departementet yte rentegodtgjørelse når særlige forhold foreligger.

@@ -1,0 +1,4 @@
+# § 1-4. Taushetsplikt.
+Enhver som innehar offentlig verv, stilling eller oppdrag knyttet til avgiftsforvaltningen skal, med de begrensninger som følger av hans gjøremål, bevare taushet om det han i sitt arbeid har fått vite om noens forretnings-, drifts-, formues- og inntektsforhold og om andre økonomiske og personlige forhold som ikke er alminnelig kjent. Han må heller ikke gjøre bruk av sin viten om slike forhold i egen næringsvirksomhet.
+Bestemmelsene i første ledd er ikke til hinder for at opplysninger kan gis til annen offentlig myndighet eller for bruk i dennes arbeid med toll og andre avgifter til staten eller med skatter til stat og kommune, eller for bruk i statistisk øyemed. Bestemmelsene gjelder ikke når almene hensyn tilsier at opplysningene gis og departementet samtykker i dette.
+Den som mottar opplysninger i medhold av annet ledd har selv taushetsplikt om disse.
