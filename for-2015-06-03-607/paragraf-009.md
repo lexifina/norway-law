@@ -1,0 +1,6 @@
+# § 9. Tillatte modifikasjoner av konsummelk
+Utover den modifisering av helmelk som ikke er standardisert, jf. § 8 annet ledd bokstav a) annet punktum, er bare følgende modifiseringer av konsummelk tillatt:
+a) endring av det naturlige fettinnholdet ved fjerning eller tilsetting av fløte eller tilsetting av helmelk, lettmelk eller skummet melk, i den hensikt å oppfylle kravene til fettinnhold for ulike typer konsummelk,
+b) beriking av melk med melkeproteiner, mineralsalter eller vitaminer, forutsatt at dette er tillatt etter bestemmelsene i forskrift 26. februar 2010 nr. 247 om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler (berikingsforskriften) eller,
+c) reduksjon av laktoseinnholdet ved omdanning til glukose og galaktose.
+Modifisering av melk etter første ledd bokstavene b) og c) er bare tillatt hvis det opplyses om modifiseringen i merkingen på emballasjen til produktene. Merkingen må være uutslettelig, lett synlig og lesbar. Slik merking fritar ikke for merking med næringsdeklarasjon etter forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne (matinformasjonsforskriften). Dersom det tilsettes melkeproteiner til konsummelk, må proteininnholdet i den berikede melken være 3,8 % (m/m) eller mer.

@@ -1,0 +1,9 @@
+# § 8. Konsummelk
+Bare melk som er definert som konsummelk i annet og tredje ledd, kan leveres eller omsettes til den endelige forbruker uten ytterligere prosessering, enten direkte eller via restauranter, sykehus, kantiner eller tilsvarende storhusholdninger.
+Følgende produkter skal betraktes som konsummelk, og betegnelsene nedenfor kan bare brukes på disse produktene, og eventuelt også som en del av sammensatte betegnelser.
+a) helmelk: varmebehandlet melk som har et fettinnhold som enten er standardisert til et fettinnhold på minst 3,5 % eller som ikke er standardisert. Helmelk som ikke er standardisert kan ikke ha fått endret fettinnhold etter melking verken ved tilsetning eller fjerning av melkefett eller ved blanding av melk som har fått endret sitt naturlige fettinnhold. Fettinnholdet i helmelk som ikke er standardisert må likevel ikke være under 3,5 %.
+b) lettmelk: varmebehandlet melk der fettinnholdet er redusert til mellom 0,5 % og 1,8 %.
+c) skummet melk: varmebehandlet melk der fettinnholdet er redusert til under 0,5 %.
+d) rå melk og råmelk, jf. definisjonene av disse produktene med tilhørende restriksjoner i forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften).
+Varmebehandlet melk som ut fra fettinnhold ikke oppfyller kravene for bruk av betegnelsene i annet ledd, eller som selv om den oppfyller kravene, likevel ikke merkes med betegnelsene i annet ledd, skal også betraktes som konsummelk. Betegnelsen på slik melk må inneholde opplysning om faktisk fettinnhold, slik: «Melk X % fett».
+Betegnelsene på varmebehandlet melk i annet ledd kan suppleres med opplysning om faktisk fettinnhold. Opplysningen om faktisk fettinnhold må i så fall gis som en del av næringsmidlets betegnelse, slik: «Lettmelk 1 % fett» eller «Skummet melk 0,2 % fett».
