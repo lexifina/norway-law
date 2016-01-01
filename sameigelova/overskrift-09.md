@@ -1,0 +1,1 @@
+# Utløysing av misbrukar.
