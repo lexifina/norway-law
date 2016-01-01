@@ -1,0 +1,1 @@
+# Avhending og forkjøp.
