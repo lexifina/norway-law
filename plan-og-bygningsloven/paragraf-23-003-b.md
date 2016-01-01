@@ -1,0 +1,3 @@
+# § 23-3 b. Midlertidige tjenesteytere
+Bestemmelser gitt i eller i medhold av denne lov som knytter seg til krav til ansvarlige foretak, gjelder tilsvarende for midlertidige tjenesteytere fra andre EØS-land. Det samme gjelder for land omfattet av WTO-avtalen.
+Ved tilsyn med midlertidige tjenesteytere skal kommunen ta hensyn til krav eller kontroller som den midlertidige tjenesteyteren har oppfylt i annet EØS-land. Det kan ikke pålegges krav eller kontroll som svarer til krav tjenesteyteren allerede har oppfylt i annet EØS-land, jf. tjenesteloven § 10 andre ledd. Ved tilsyn med midlertidige tjenesteytere etter § 25-1 skal kommunen anvende Det indre markeds informasjonssystem IMI.

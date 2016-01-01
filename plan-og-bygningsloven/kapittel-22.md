@@ -1,1 +1,1 @@
-# Kapittel 22 Godkjenning av foretak for ansvarsrett
+# Kapittel 22. Sentral godkjenning for ansvarsrett

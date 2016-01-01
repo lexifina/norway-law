@@ -4,7 +4,7 @@ a) prosjekterer, utfører eller lar prosjektere eller utføre et tiltak i strid 
 b) utfører, lar utføre, bruker eller lar bruke tiltak uten at det foreligger nødvendig tillatelse etter denne lov
 c) ikke utfører kontroll av tiltak i samsvar med bestemmelser om dette gitt i eller i medhold av denne lov, og gitte tillatelser
 d) bruker eller lar bruke byggverk eller del av byggverk eller areal uten at det foreligger nødvendig tillatelse etter denne lov, eller bruken er i strid med bestemmelser gitt i eller i medhold av denne lov, vedtak eller plan
-e) prosjekterer, utfører eller lar utføre eller kontrollerer et tiltak etter § 20-1 uten at arbeidet blir forestått av ansvarlige som er godkjent etter § 22-1 og er tildelt ansvarsrett etter § 21-4 tredje ledd
+e) prosjekterer eller lar prosjektere, utfører eller lar utføre eller kontrollerer eller lar kontrollere et tiltak som omfattes av § 20-3 uten at arbeidet blir forestått av kvalifiserte ansvarlige foretak som har påtatt seg ansvarsrett etter § 23-3 andre ledd
 f) gir uriktige eller villedende opplysninger til plan- og bygningsmyndighetene
 g) tross skriftlig pålegg ikke oppfyller vilkår for midlertidig dispensasjon etter § 19-3
 h) tross skriftlig pålegg ikke oppfyller plikten etter § 31-3 første ledd første punktum til å holde byggverk og installasjoner i stand

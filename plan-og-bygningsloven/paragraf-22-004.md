@@ -1,4 +1,8 @@
-# § 22-4. Tilbaketrekking av lokal godkjenning for ansvarsrett
-Kommunen kan når som helst trekke tilbake lokal godkjenning for ansvarsrett ved alvorlige overtredelser av bestemmelser eller tillatelser gitt i eller i medhold av denne lov eller dersom den finner at ansvarlig foretak ikke fyller de krav som stilles til pålitelighet og dugelighet. Før det treffes vedtak om tilbaketrekking, skal foretaket gis varsel med frist til å uttale seg. Dersom kommunen finner det nødvendig, kan den straks sette godkjenningen ut av kraft inntil saken er endelig avgjort.
-Når særlig formildende hensyn gjør seg gjeldende, kan tilbaketrekking av lokal godkjenning for ansvarsrett likevel utelates. Ved mindre alvorlige overtredelser kan det gis advarsel.
-Kommunen skal melde tilbaketrekking av lokal godkjenning for ansvarsrett til den sentrale godkjenningsordningen. Det samme gjelder advarsel kommunen gir foretaket.
+# § 22-4. Overtredelsesgebyr for brudd på reglene om sentral godkjenning for ansvarsrett
+Departementet kan ilegge overtredelsesgebyr til foretak som forsettlig eller uaktsomt
+a) gir uriktige eller villedende opplysninger, eller unnlater å gi nødvendige opplysninger, i forbindelse med søknad om sentral godkjenning eller tilsyn med sentralt godkjent foretak, eller
+b) benytter merke for sentralt godkjente foretak uten å ha rett til det.
+Når overtredelse som kan medføre overtredelsesgebyr, er begått av noen som har handlet på vegne av et foretak, ilegges overtredelsesgebyret foretaket. Dette gjelder selv om det ikke kan anvendes overtredelsesgebyr mot noen enkeltperson.
+Foretaket skal gis et skriftlig forhåndsvarsel før overtredelsesgebyr ilegges, og gis anledning til å uttale seg innen en frist på minst 3 uker.
+Overtredelsesgebyret tilfaller staten. Oppfyllelsesfristen er 4 uker fra vedtaket ble truffet, med mindre annet er fastsatt i vedtaket. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
+Departementet skal gi forskrifter med nærmere regler om gjennomføring av denne bestemmelsen, herunder utmåling, renter og registrering av ilagt overtredelsesgebyr. Det skal fastsettes et maksimumsbeløp for overtredelsesgebyret.

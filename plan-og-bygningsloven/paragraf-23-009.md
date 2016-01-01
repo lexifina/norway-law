@@ -1,0 +1,2 @@
+# § 23-9. Register over foretak som har påtatt seg ansvarsrett
+Departementet kan gi forskrift om et register over foretak som har påtatt seg ansvarsrett, til bruk for bygningsmyndighetene. Forskriften kan gi regler om innholdet i registeret, herunder opplysninger om tilsyn, og foretak som er fratatt ansvarsrett. Forskriften kan pålegge foretak, tiltakshaver eller kommunen å gi opplysninger om ansvarlige foretak til registeret.
