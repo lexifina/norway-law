@@ -4,7 +4,7 @@ a) å erverve eller avhende fast eiendom eller rettighet som ligger til fast eie
 b) å pantsette fast eiendom eller påhefte den en servitutt,
 c) å forpakte eller leie bort fast eiendom, herunder bolig,
 d) å si opp leieavtale eller avtale om bortforpakting,
-e) å kreve utskiftning eller grenseregulering,
+e) å kreve sak etter jordskiftelova,
 f) drift av fast eiendom,
 g) å begjære bruksendringstillatelse, deling mv. av fast eiendom,
 h) å erverve livsforsikring, livrente eller føderåd,
