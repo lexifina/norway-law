@@ -1,0 +1,2 @@
+# § 4. Denaturering av parfyme-, kosmetikk- og toalettpreparater
+Følgende denaturering er i tillegg godkjent for teknisk etanol og etanolholdige preparater som hører under tolltariffens kapittel 33 (CAS-nr. i parentes):(1)Bensyldietylammoniumbenzoat (Bitrex) (3734-33-6)0,016 g/liter ren etanolSucroseoctaacetat (Denatin) (126-14-7)5 g/liter ren etanolOljer eller parfymekomposisjoner20 g/liter ren etanol(2)Denaturering som er i samsvar med godkjente denatureringskrav fra land i EØS-området.
