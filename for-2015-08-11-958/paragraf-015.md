@@ -1,0 +1,2 @@
+# § 15. Tilsyn og vedtak
+Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak for å oppnå etterlevelse av bestemmelser gitt i eller med hjemmel i denne forskrift etter dyrevelferdsloven § 30. Mattilsynet kan også fatte vedtak om midlertidig forvaring av dyr, forbud mot aktiviteter, overtredelsesgebyr og tvangsmulkt overfor den som bryter denne forskriften, etter dyrevelferdsloven § 32, § 33, § 34 og § 35.
