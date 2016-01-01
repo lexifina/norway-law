@@ -1,0 +1,1 @@
+For inntektsåret 2016 har Finansdepartementet beregnet normrentesatsen etter forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen § 5 annet ledd til 2,0 prosent.
