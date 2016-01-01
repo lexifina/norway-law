@@ -6,4 +6,4 @@
 (5) Bestemmelsene om revisjonsutvalg i §§ 8-18 til 8-20 gjelder tilsvarende for holdingforetak med konsesjon til å drive virksomhet som morselskap i finanskonsern som omfatter bank, kredittforetak, finansieringsforetak med verdipapirer notert på regulert marked, eller forsikringsforetak.
 (6) Morselskapet skal sørge for gjennomføring av bestemmelser om godtgjørelsesutvalg for finanskonsernet.
 (7) Bestemmelsene i første til sjette ledd innebærer ikke at styret, daglig ledelse eller andre styrende organer i morselskapet i finanskonsernet har adgang til å treffe beslutninger med bindende virkning for datterforetak i finanskonsernet.
-(8) Bestemmelsene i paragrafen her gjelder ikke eierforetak som nevnt i § 17-6 første ledd bokstav c, med mindre annet fastsettes av departementet i forskrift eller ved enkeltvedtak.
+(8) Bestemmelsene i paragrafen her gjelder ikke eierforetak som nevnt i § 17-6 annet ledd bokstav c, med mindre annet fastsettes av departementet i forskrift eller ved enkeltvedtak.

@@ -11,4 +11,4 @@ d) å yte kreditt som selger av en vare eller tjeneste. Det samme gjelder kredit
 e) virksomhet som finansagent eller finansrådgiver,
 f) finansiering som bare ytes i enkeltstående tilfeller.
 (4) Unntakene i tredje ledd bokstav d og f gjelder ikke dersom en selger som ikke er forbruker, yter kreditt i forbindelse med salg av bolig som er knyttet til eller skal knyttes til andel i borettslag. Finanstilsynet kan ved enkeltvedtak gjøre unntak fra første punktum.
-(5) Departementet kan gi nærmere regler som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her, herunder fastsette plikter for og regler om tilsyn med foretak som er unntatt fra forbudet i første ledd.
+(5) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her, herunder fastsette plikter for og regler om tilsyn med foretak som er unntatt fra forbudet i første ledd.

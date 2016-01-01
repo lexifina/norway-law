@@ -12,4 +12,4 @@ i) hvordan overskudd skal anvendes og underskudd skal dekkes,
 j) om stiftelsen skal ha adgang til å utstede egenkapitalbevis,
 k) regler om vedtektsendringer,
 l) hvordan stiftelsen skal avvikles og stiftelsens formue skal disponeres ved avvikling.
-(2) Vedtektene skal være godkjent av departementet. Vedtektsendringer skal godkjennes av Finanstilsynet.
+(2) Vedtektene skal være godkjent av departementet. Vedtektsendringer skal godkjennes av Finanstilsynet. Departementet kan i forskrift gi nærmere regler om innholdet og godkjenningen av vedtekter, samt gjøre unntak fra kravet til godkjenning for nærmere angitte typer vedtektsendringer.
