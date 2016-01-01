@@ -1,0 +1,1 @@
+# Utgift- og inntektdeling.
