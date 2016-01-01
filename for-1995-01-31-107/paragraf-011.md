@@ -1,0 +1,2 @@
+# § 11. Transport
+Dyr fra besetning der det er mistanke om eller påvist salmonella, må transporteres smittemessig adskilt fra andre dyr. Kjøretøy og utstyr som brukes til å transportere dyr til slakteriet skal umiddelbart etter bruk rengjøres og desinfiseres under tilsyn av slakteriets tilsynsveterinær. Andre transportmidler som er brukt til transport av kadaver, gjødsel o.l. skal rengjøres og desinfiseres etter bruk.

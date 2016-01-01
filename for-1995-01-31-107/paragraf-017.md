@@ -1,0 +1,3 @@
+# § 17. Undersøkelser for å klarlegge smittekilde
+Det lokale Mattilsynet skal foreta nødvendige undersøkelser med tanke på å klarlegge smittekilde, herunder ta prøver av fôr og annet materiale som kan være potensiell smittekilde, for bakteriologisk undersøkelse. Videre skal det lokale Mattilsynet ta nødvendige fecesprøver fra eventuelle andre dyrearter i dyreholdet.
+Det lokale Mattilsynet skal registrere kontaktbesetninger som det er sannsynlig at smitten kan komme fra og gjøre nødvendige undersøkelser i disse. Dersom slike kontaktbesetninger ligger i andre veterinærdistrikt, skal det lokale Mattilsynet varsle det lokale Mattilsyn i vedkommende distrikt og det regionale Mattilsyn.
