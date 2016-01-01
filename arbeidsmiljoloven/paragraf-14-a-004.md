@@ -1,0 +1,4 @@
+# § 14 A-4. Kundeklausuler
+(1) Med kundeklausul menes i dette kapittel avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å kontakte arbeidsgivers kunder etter arbeidsforholdets opphør.
+(2) En kundeklausul kan bare omfatte kunder som arbeidstaker har hatt kontakt med eller ansvar for det siste året før redegjørelse som nevnt i tredje ledd. Klausulen kan ikke i noe tilfelle gjøres gjeldende lenger enn ett år fra opphør av arbeidsforholdet. § 14 A-1 tredje til sjette ledd gjelder tilsvarende.
+(3) Ved skriftlig forespørsel fra arbeidstaker skal arbeidsgiver innen fire uker gi en skriftlig redegjørelse for om og i hvilken grad en kundeklausul vil bli gjort gjeldende. Redegjørelsen skal i tilfelle angi hvilke kunder som skal omfattes av kundeklausulen. § 14 A-2 andre til femte ledd gjelder tilsvarende.
