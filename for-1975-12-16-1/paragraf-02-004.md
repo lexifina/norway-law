@@ -1,0 +1,2 @@
+# § 2-4. Fritak ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet
+Ved påberopelse av fritak etter Stortingets vedtak § 2 første ledd bokstav k, skal det oppgis etter hvilken bestemmelse omorganiseringen er eller kunne ha vært gjennomført med skattemessig kontinuitet, hvilke virksomheter som har tatt del i omorganiseringen, samt når omorganiseringen har funnet sted. Det skal dokumenteres (f.eks. i form av revisorerklæring og dokumentasjon fra foretaksregisteret) at opplysningene som nevnt i første punktum er korrekte.
