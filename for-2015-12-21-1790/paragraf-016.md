@@ -1,0 +1,4 @@
+# § 16. (meldeplikt om STS-operasjoner)
+Alle oljetankskip med bruttotonnasje på 150 eller mer som er engasjert i STS-operasjoner til sjøs i Norges økonomiske sone, og hvor oljen som overføres er last, skal gi melding om at en STS-operasjon vil finne sted minst 48 timer før operasjonens planlagte start. Meldingen skal inneholde de opplysninger som er spesifisert i § 17.
+Dersom noen av opplysningene spesifisert i § 17 ikke foreligger 48 timer før operasjonens planlagte start, skal det oljetankskipet som skal losse likevel gi melding om at en STS-operasjon vil skje, minst 48 timer før operasjonens start. Manglende informasjon skal gis så snart den er kjent.
+Med en STS-operasjon menes en operasjon til sjøs som innebærer overføring av råolje eller oljeprodukt mellom skip som ligger fortøyd til hverandre, når et av skipene ligger til ankers eller når begge skipene er underveis
