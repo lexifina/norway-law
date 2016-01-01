@@ -1,0 +1,2 @@
+# § 2. Denatureringsmidler
+Følgende denatureringsmidler kan benyttes i angitt mengde pr. 100 volumprosent etanol (CAS-nr. i parentes):Aceton (67-64-1)5 volumprosentt-butanol (75-65-0)2 volumprosentDietylftalat (84-66-2)0,7 volumprosentEtylacetat (141-78-6)3 volumprosent2-propanol (67-63-0)15 volumprosentn-propanol (71-23-8)15 volumprosentMetanol (67-56-1)5 volumprosentMetyletylketon (78-93-3)2 volumprosentMetylisobutylketon (108-10-1)3 volumprosent
