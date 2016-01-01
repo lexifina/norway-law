@@ -1,0 +1,3 @@
+# § 2. Hvordan gaven og gaveforsterkningen skal brukes
+Gaven og gaveforsterkningen skal brukes til langsiktig, grunnleggende forskning. For høyskoler skal dette være forskning innenfor et fagområde de har rett til å tildele doktorgrad i. Giveren kan ikke bruke gaven til å bestille forskning for direkte anvendelse i egen virksomhet og resultatet av forskningen kan ikke rettighetsklausuleres fra givers side.
+Gaver og gaveforsterkningen til Norges forskningsråd og Det Norske Videnskaps-Akademi skal tildeles forskere etter konkurranse for å sikre at midlene blir brukt til forskning med høy kvalitet.
