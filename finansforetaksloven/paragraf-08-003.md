@@ -1,0 +1,6 @@
+# § 8-3. Møter og vedtak i generalforsamlingen i finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap
+(1) Generalforsamlingen i foretak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, innkalles av styret. Reglene om innkalling og møter i generalforsamlingen i allmennaksjeloven §§ 5-5 til 5-16 gjelder tilsvarende.
+(2) Hvert medlem av generalforsamlingen har én stemme med mindre annet følger av loven eller vedtektene. En beslutning krever flertall av de avgitte stemmer. Bestemmelsene i allmennaksjeloven § 5-2, § 5-3, § 5-4 første ledd første og annet punktum, tredje og fjerde ledd og § 5-17 gjelder tilsvarende så langt de passer.
+(3) Beslutning om å endre vedtektene i finansforetaket krever tilslutning fra minst to tredeler av de avgitte stemmene. Det kan i vedtektene fastsettes strengere flertallskrav.
+(4) Allmennaksjeloven §§ 5-21 til 5-28 om ugyldige beslutninger og granskning gjelder tilsvarende. Et medlem av generalforsamlingen kan utøve den rett som tilkommer aksjeeier etter allmennaksjeloven §§ 5-22 og 5-25.
+(5) Finanstilsynet trer i tingrettens sted ved utøvelse av myndighet som nevnt i allmennaksjeloven § 5-9 annet ledd, § 5-12 annet ledd, § 5-25 annet ledd og § 5-28 annet ledd.

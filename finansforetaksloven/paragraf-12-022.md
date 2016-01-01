@@ -1,0 +1,8 @@
+# § 12-22. Finansstiftelsens virksomhet
+(1) Finansstiftelsen forvalter egenkapitalbevis eller aksjer som ble tilført stiftelsen i forbindelse med opprettelsen, og midler som mottas som utbetaling på egenkapitalbevis eller aksjer, herunder eierandeler ervervet ved ombytting av slike eierandeler. Stiftelsen kan utøve tegningsrettigheter og tegne, kjøpe og selge egenkapitalbevis og aksjer utstedt av foretak som har etablert stiftelsen. Stiftelsen skal forvalte sin kapital på forsvarlig måte.
+(2) Bestemmelsene om disponering av overskudd og utdeling av utbyttemidler i §§ 10-6 og 10-7 gjelder tilsvarende for finansstiftelser. Har stiftelsen utstedt egne egenkapitalbevis, gjelder første punktum bare overskudd som er tilordnet grunnfondskapitalen etter § 10-17.
+(3) Generalforsamlingen kan med flertall som for vedtektsendring og med samtykke av Finanstilsynet treffe vedtak om nedsetting av grunnfondskapitalen. Bestemmelsene i allmennaksjeloven § 12-1 annet til fjerde ledd og §§ 12-2 til 12-7 gjelder tilsvarende, likevel slik at det beløpet nedsettingen gjelder bare kan benyttes til:
+a) dekning av underskudd som ikke kan dekkes på annen måte, eller
+b) utdeling av utbyttemidler i samsvar med bestemmelser i vedtektene.
+(4) Stiftelsen kan etter vedtak med flertall som for vedtektsendring og med samtykke av Finanstilsynet utstede egenkapitalbevis etter reglene i §§ 10-3 og 10-9 for å tegne eller kjøpe egenkapitalbevis eller aksjer som nevnt i første ledd. Bestemmelsene i §§ 10-4 og 10-5, samt §§ 10-10 til 10-24 gjelder tilsvarende.
+(5) Departementet kan i forskrift gi nærmere regler om finansstiftelser og deres virksomhet.

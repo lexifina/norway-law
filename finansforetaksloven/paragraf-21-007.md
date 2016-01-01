@@ -1,0 +1,4 @@
+# § 21-7. Virkeområde
+(1) Bestemmelsene i §§ 21-7 til 21-16 gjelder banker, kredittforetak, forsikringsforetak, pensjonsforetak, holdingforetak i finanskonsern og andre finansforetak som er medlem av Bankenes sikringsfond.
+(2) Departementet kan i forskrift fastsette at bestemmelsene i §§ 21-7 til 21-20 skal gjelde tilsvarende også for filial her i riket av utenlandsk kredittinstitusjon, forsikringsforetak eller pensjonsforetak. I vedtak om offentlig administrasjon av filial som nevnt i første punktum kan det i tilfelle fastsettes nærmere regler, herunder unntak fra eller anvendelsen av bestemmelser i §§ 21-7 til 21-20.
+(3) Departementet kan i forskrift fastsette nærmere regler til utfylling og gjennomføring av reglene om offentlig administrasjon i §§ 21-7 til 21-16. Slike forskrifter kan fravike regler i §§ 21-7 til 21-16, reglene i konkursloven og tvangsfullbyrdelsesloven.

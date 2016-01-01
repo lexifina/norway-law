@@ -1,0 +1,2 @@
+# § 11-10. Pantsettelse og tvangsforfølgning
+Fordringer som inngår i sikkerhetsmassen, kan ikke pantsettes eller gjøres til gjenstand for utlegg, arrest eller annen tvangsforretning til fordel for enkelte av kredittforetakets kreditorer. Det kan heller ikke erklæres eller avtales motregningsrett, tilbakeholdsrett eller liknende i fordringer som inngår i sikkerhetsmassen. Departementet kan i forskrift gi særregler og gjøre unntak fra reglene i denne paragrafen for fordringer som nevnt i § 11-8 første ledd bokstav e.

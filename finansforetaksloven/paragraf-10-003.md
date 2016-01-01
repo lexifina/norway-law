@@ -1,0 +1,4 @@
+# § 10-3. Innbetaling av egenkapital
+(1) Aksjekapital, kapital til grunnfondet, eierandelskapital og medlemsinnskudd som skal være egenkapital i finansforetak, skal innbetales i penger med mindre annet følger av annet eller tredje ledd. Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra kravet om innbetaling i penger ved kapitalforhøyelse.
+(2) Aksjer eller egenkapitalbevis som utstedes ved sammenslåing eller deling av finansforetak eller av virksomheten i finansforetak, kan likevel helt eller delvis innbetales i annet enn penger. Det samme gjelder aksjer eller egenkapitalbevis som utstedes som vederlag for helt eller delvis erverv av finansforetak eller annet foretak som kan inngå i finanskonsern, eller av virksomhet i slikt foretak.
+(3) Eierandelskapital kan også innbetales ved konvertering av grunnfondskapital og innbetalt medlemsinnskudd i kredittforetak eller gjensidig forsikringsforetak.

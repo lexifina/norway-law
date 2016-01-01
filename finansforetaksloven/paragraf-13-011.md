@@ -1,0 +1,3 @@
+# § 13-11. Samlet beholdning av eierandeler mv.
+(1) Banker, kredittforetak og finansieringsforetak samt holdingforetak i finanskonsern hvor slikt foretak inngår, skal påse at forholdet mellom markedsrisiko og annen risiko knyttet til foretakets beholdning av aksjer, egenkapitalbevis og andre eierandeler, herunder eierandeler i fast eiendom, og foretakets kjernekapital til enhver tid er forsvarlig.
+(2) Foretaket skal gi melding til Finanstilsynet dersom samlet verdi av dets beholdning av eierandeler overstiger foretakets kjernekapital etter siste års- eller delårsregnskap. Eierandeler i datterforetak som omfattes av konsolidering etter § 18-2 første ledd bokstav a, medregnes ikke.

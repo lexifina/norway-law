@@ -1,0 +1,4 @@
+# § 11-2. Opptak, nedskriving og konvertering av fremmedkapital
+(1) Fremgangsmåten for et finansforetaks opptak av ansvarlig lånekapital og annen fremmedkapital, skal fastsettes i vedtektene. Vedtak om eller fullmakt til å oppta ansvarlig lån treffes av generalforsamlingen med flertall som for vedtektsendring. Departementet kan i forskrift gi regler om finansforetaks adgang til å oppta ulike former for fremmedkapital og herunder hvilke økonomiske rettigheter og plikter som kan knyttes til de ulike formene.
+(2) Finansforetaket skal påse at avtalevilkårene for lån angir lånets prioritet ved avvikling av foretaket, og i hvilken grad lånet kan nedskrives under løpende drift for å dekke resultatført underskudd.
+(3) Departementet kan gi forskrift om nedskriving av fremmedkapital og prioritet ved nedskriving. Departementet kan treffe enkeltvedtak eller gi forskrift om konvertering av fremmedkapital i finansforetak til egenkapital.

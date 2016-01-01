@@ -1,0 +1,4 @@
+# § 12-16. Omdanning til datterforetak eid av nytt holdingforetak
+(1) Omdanning kan også gjennomføres ved at det opprettes et aksjeselskap eller allmennaksjeselskap i form av et holdingforetak som skal være morselskap i et nytt finanskonsern. Finansforetaket omdannes til et aksjeselskap eller allmennaksjeselskap, og virksomheten videreføres som et datterforetak i konsernet.
+(2) Ved omdanning etter første ledd fordeles aksjene i holdingforetaket etter reglene i § 12-15 tredje, fjerde og sjette ledd og § 12-17.
+(3) Er en sparebank omdannet etter første ledd, kan holdingforetaket ikke selge aksjer i banken som viderefører virksomheten, uten samtykke fra sparebankstiftelsen som er opprettet ved omdanningen. Slikt samtykke krever vedtak i stiftelsens generalforsamling med flertall som for vedtektsendring.

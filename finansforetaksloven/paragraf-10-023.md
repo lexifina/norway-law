@@ -1,0 +1,3 @@
+# § 10-23. Tegningsretter
+(1) Generalforsamlingen kan med flertall som for vedtektsendring beslutte at foretaket skal utstede tegningsretter som gir eierne rett til senere å kreve utstedt egenkapitalbevis. Vedtaket kan ikke registreres i Foretaksregisteret før det er godkjent av Finanstilsynet. § 10-10 annet og tredje ledd gjelder tilsvarende. Utøves slike tegningsretter, forhøyes eierandelskapitalen uten ny beslutning fra generalforsamlingen.
+(2) § 10-12 om tegning og registrering av egenkapitalbevis gjelder tilsvarende. Det beløp som betales for tegningsrettene, fordeles etter regelen i § 10-14 om fordeling av overkurs ved tegning av egenkapitalbevis. For øvrig gjelder allmennaksjeloven §§ 11-12 og 11-13 tilsvarende.

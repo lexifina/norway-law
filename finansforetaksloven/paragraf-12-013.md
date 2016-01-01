@@ -1,0 +1,5 @@
+# § 12-13. Tillatelse mv.
+(1) Omdanning av et finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, til aksjeselskap eller allmennaksjeselskap, og opprettelse av en finansstiftelse i forbindelse med omdanningen, kan bare gjennomføres etter tillatelse gitt av departementet.
+(2) Bestemmelsene i kapittel 3 gjelder tilsvarende så langt de passer.
+(3) Ved vurderingen av om det skal gis tillatelse til omdanning av en sparebank, skal det blant annet legges vekt på at en sparebank som hovedregel bør være organisert som vanlig sparebank eller som sparebank med eierandelskapital. Det skal også legges vekt på virksomheten sparebanken har drevet i vedkommende kommune og i tilfelle om eller hvordan virksomheten vil bli videreført.
+(4) Departementet kan i forskrift fastsette nærmere regler om omdanning som nevnt i første ledd, herunder om virksomheten til aksjeselskap eller allmennaksjeselskap som stiftes ved omdanningen, og om organisering og virksomhet til finansstiftelse som opprettes ved omdanningen.

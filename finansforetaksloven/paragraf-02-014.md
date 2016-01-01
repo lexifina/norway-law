@@ -1,0 +1,5 @@
+# § 2-14. Konsesjon som skadeforsikringsforetak
+(1) Tillatelse til å drive virksomhet som skadeforsikringsforetak gir adgang til å overta forsikringer som regnes som skadeforsikring.
+(2) Skadeforsikringsforetak med tillatelse til å overta personforsikringer som ikke er livsforsikring kan, når annet ikke er fastsatt i tillatelsen, også overta livsforsikringer i form av rene risikoforsikringer som etter avtalen er av høyst ett års varighet og gir rett til utbetaling av erstatning som engangsbeløp, eller som oppfyller andre produktkrav fastsatt i forskrift gitt av departementet. Departementet kan ved forskrift fastsette nærmere regler om kollektive forsikringer (gruppeforsikringer) knyttet til dødelighetsrisiko eller uførerisiko som omfattes av første punktum.
+(3) Skadeforsikringsforetak kan som en begrenset del av sin virksomhet overta gjenforsikring innenfor de klasser tillatelsen omfatter.
+(4) Forsikringsforetak med tillatelse til å overta skadeforsikringer, kan ikke overta kredittforsikringer, med mindre foretaket har adgang til dette etter §§ 5-1 eller 5-5.

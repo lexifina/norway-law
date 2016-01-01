@@ -1,0 +1,3 @@
+# § 10-16. Tegning og erverv av egne egenkapitalbevis
+(1) Forbudet mot tegning av egne aksjer i allmennaksjeloven § 9-1 gjelder tilsvarende for egenkapitalbevis. Dette er ikke til hinder for at foretaket overtar egenkapitalbevis som utstedes ved konvertering av grunnfondskapital til eierandelskapital etter reglene i § 10-9 annet ledd eller erverver egne egenkapitalbevis etter reglene i § 10-5.
+(2) Det kan fastsettes i vedtektene at generalforsamlingens vedtak om erverv av egne egenkapitalbevis må ha tilslutning fra minst to tredeler av de stemmer som avgis av, eller av medlemmer valgt av, eierne av egenkapitalbevis.

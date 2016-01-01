@@ -1,0 +1,5 @@
+# § 10-11. Vedtektsbestemmelser om stemmerett og rett til representasjon
+(1) Vedtektene for finansforetak som utsteder egenkapitalbevis, skal inneholde bestemmelser som gir eierne av egenkapitalbevis rett til enten selv eller ved valgte representanter å utøve minst en femdel og ikke mer enn to femdeler av stemmene i generalforsamlingen. Hvert egenkapitalbevis gir én stemme.
+(2) Dersom eierne av egenkapitalbevis utgjør mer enn den vedtektsfastsatte prosentandelen av det antallet stemmer som er til stede i generalforsamlingen, skal stemmetyngden for det enkelte egenkapitalbevis nedsettes forholdsmessig.
+(3) I finansforetak hvor eierne av egenkapitalbevis velger medlemmer til generalforsamlingen, skal nærmere regler om valget, herunder om stemmerett, valgbarhet, funksjonstid og bortfall av verv, varamedlemmer, valgmåte og avgjørelse av tvister om valget fastsettes i vedtektene.
+(4) Departementet kan gi nærmere regler i forskrift om egenkapitalbeviseieres stemmerett og rett til representasjon i foretaket.

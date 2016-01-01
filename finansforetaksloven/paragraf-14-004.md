@@ -1,0 +1,2 @@
+# § 14-4. Krav til uvektet kjernekapitalandel
+Departementet kan i forskrift fastsette at banker, kredittforetak og finansieringsforetak samt holdingforetak i finanskonsern hvor slikt foretak inngår, skal ha ren kjernekapital eller kjernekapital som minst utgjør en bestemt prosent av verdien av foretakets eiendeler og ikke balanseførte forpliktelser beregnet uten risikovekting, og regler for slike beregninger.

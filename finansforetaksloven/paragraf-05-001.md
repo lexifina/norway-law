@@ -1,0 +1,4 @@
+# § 5-1. Datterforetak av utenlandsk finansforetak
+(1) Finansforetak som er hjemmehørende utenfor Norge kan etablere datterforetak her i riket etter reglene i kapittel 7 og drive virksomhet i henhold til tillatelse etter reglene i §§ 2-7 til 2-18, § 17-3 og kapittel 3. Erverv som medfører at finansforetak etablert her i riket blir datterforetak av finansforetak hjemmehørende utenfor Norge, kan bare skje etter tillatelse gitt etter reglene i § 17-1 første og annet ledd og § 17-5.
+(2) Det utenlandske finansforetaket regnes som morselskap for det norske datterforetaket og bestemmelsene i §§ 18-3 til 18-5 gjelder tilsvarende for datterforetaket.
+(3) Departementet kan ved forskrift fastsette nærmere regler for virksomhet som drives av datterforetak av finansforetak hjemmehørende i fremmed stat her i riket, herunder gjøre unntak fra bestemmelser i denne loven.

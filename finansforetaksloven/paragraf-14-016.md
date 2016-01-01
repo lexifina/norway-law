@@ -1,0 +1,5 @@
+# § 14-16. Kapitalkrav for pensjonsforetak
+(1) Pensjonskasser som driver livsforsikringsvirksomhet, skal til enhver tid ha kapital som er tilstrekkelig til å dekke solvensmarginkravet for pensjonskassens samlede virksomhet. Departementet kan fastsette regler om beregningsmåten for solvensmarginkravet, den kapital som kan dekke kravet, og andre forhold vedrørende gjennomføringen av solvensmarginkravet.
+(2) Departementet kan i forskrift fastsette at bestemmelsene i §§ 14-7 til 14-14 med tilhørende forskrifter helt eller delvis skal legges til grunn ved beregningen av kravene til ansvarlig kapital i pensjonskasser som driver livsforsikringsvirksomhet.
+(3) Pensjonskasser som ikke driver livsforsikringsvirksomhet samt innskuddspensjonsforetak, skal til enhver tid ha en ansvarlig kapital som utgjør minst to prosent av pensjonskassens eller innskuddspensjonsforetakets forvaltningskapital. Departementet kan i forskrift fastsette regler om hva som skal anses som ansvarlig kapital og hva som kan inngå i forvaltningskapitalen.
+(4) Bestemmelsene i § 14-6 fjerde ledd gjelder tilsvarende for pensjonsforetak.

@@ -1,0 +1,6 @@
+# § 8-11. Daglig leders oppgaver
+(1) Daglig leder står for den daglige ledelse av foretakets virksomhet og skal følge de retningslinjer og pålegg styret har gitt.
+(2) Den daglige ledelse omfatter ikke saker som etter foretakets forhold er av uvanlig art eller stor betydning. Daglig leder kan ellers avgjøre en sak etter fullmakt fra styret i det enkelte tilfellet eller når styrets beslutning ikke kan avventes uten vesentlig ulempe for foretaket. Styret skal snarest underrettes om avgjørelsen.
+(3) Daglig leder skal sørge for at foretaket har ansatte som samlet har kvalifikasjoner og erfaringer som trengs for at virksomheten i foretaket drives på en forsvarlig måte, og at det etableres forsvarlige styrings- og kontrollsystemer, jf. kapittel 13. Daglig leder skal sørge for at det blir fastsatt instrukser som angir de ansattes arbeidsoppgaver og ansvarsforhold, samt rapporterings- og saksbehandlingsregler.
+(4) Daglig leder skal sørge for at foretakets regnskap er i samsvar med lov og forskrifter, og at forvaltning av aktiva og risikostyring er ordnet på en betryggende måte.
+(5) Daglig leder har for øvrig de oppgaver som følger av aksjelovgivningen. Det samme gjelder daglig leder i finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap.

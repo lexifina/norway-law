@@ -1,0 +1,11 @@
+# § 4-2. Etablering av filial i annen EØS-stat
+(1) Før banker, kredittforetak, forsikringsforetak, pensjonsforetak betalingsforetak eller e-pengeforetak etablerer filial i en annen EØS-stat, skal foretaket gi Finanstilsynet melding med opplysninger om:
+a) hvilken stat filialen ønskes etablert, og filialens adresse,
+b) de personer som skal forestå ledelsen av filialen,
+c) størrelsen av foretakets ansvarlige kapital og oppfyllelsen av krav til ansvarlig kapital og soliditet.
+I tillegg skal foretaket gi Finanstilsynet en virksomhetsplan med opplysninger om hvilke typer finansielle tjenester virksomheten skal omfatte og om filialens organisatoriske oppbygging. Departementet kan gi forskrift om hvilke øvrige opplysninger meldingen skal inneholde for ulike typer finansforetak.
+(2) Finanstilsynet skal sende melding om filialetablering til vertsstatens tilsynsmyndigheter senest innen tre måneder etter at melding som nevnt i første ledd er mottatt. Dette gjelder likevel ikke hvis Finanstilsynet har grunn til å anta at foretakets organisatoriske og administrative forhold eller finansielle situasjon ikke gir et forsvarlig grunnlag for etablering av filialen, eller at filialens ledelse ikke er egnet etter § 3-5. Finanstilsynet skal i så fall uten ugrunnet opphold underrette foretaket.
+(3) I meldingen til vertsstatens tilsynsmyndigheter skal Finanstilsynet bekrefte at den planlagte virksomheten omfattes av foretakets tillatelse, og at foretaket oppfyller de krav til ansvarlig kapital som gjelder for foretaket etter reglene i kapittel 14. Det skal angis hvilken garantiordning som i tilfelle vil gjelde for filialens virksomhet. Finanstilsynet skal samtidig underrette foretaket om oversendelsen.
+(4) Foretaket skal gi melding til Finanstilsynet og vertsstatens tilsynsmyndigheter om enhver endring i forhold som omfattes av første ledd, senest en måned før endringen gjennomføres. Det samme gjelder endringer i den garantiordningen som gjelder for filialen.
+(5) Et finansieringsforetak kan ikke etablere filial i annen EØS-stat uten tillatelse gitt av departementet. Reglene i kapittel 3, unntatt §§ 3-3 og 3-4, gjelder tilsvarende.
+(6) Departementet kan gi forskrift som utfyller eller gjør unntak fra reglene i paragrafen her for ulike typer finansforetak.

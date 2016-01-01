@@ -1,0 +1,3 @@
+# § 21-6. Nedsetting av ansvarlig lånekapital
+(1) Viser revidert statusoppgjør at en vesentlig del av den ansvarlige lånekapitalen er tapt, gjelder bestemmelsene i § 21-5 første ledd og annet ledd første punktum tilsvarende med mindre låneavtalen ikke gir foretaket adgang til å foreta slik nedskrivning.
+(2) For ansvarlig lån som opptas etter at loven er trådt i kraft og har en løpetid på mer enn fem år, kan den ansvarlige lånekapital nedskrives etter reglene i første ledd selv om låneavtalen ikke inneholder bestemmelser om dette, med mindre annet er uttrykkelig bestemt i samtykket for låneopptaket.

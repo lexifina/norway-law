@@ -1,0 +1,7 @@
+# § 18-5. Utveksling av kundeinformasjon mellom konsernforetak
+(1) Et finansforetak kan utlevere opplysninger om kundeforhold til et annet finansforetak i samme finanskonsern når utleveringen er påkrevd for at styrings-, kontroll- eller rapporteringskrav for virksomheten i finanskonsernet fastsatt i eller i medhold av lov, skal kunne oppfylles.
+(2) Et finansforetak kan til et annet finansforetak i samme konsern utlevere opplysninger om en bestemt kunde som omfatter kundens navn eller firma, hvordan kunden kan kontaktes, og hvilke typer av finansielle tjenester eller produkter foretakets kundeforhold omfatter, samt fødselsdato for personkunder.
+(3) Opplysninger som nevnt i annet ledd kan registreres i et felles kunderegister for finanskonsernet. Kunderegisteret kan utlevere de samme opplysninger om en bestemt kunde til et finansforetak i konsernet, samt opplysninger om konsernforetak som kunden har kundeforhold til.
+(4) Et finansforetak kan bare utlevere en personkundes fødselsnummer til et felles kunderegister for finanskonsernet, når formålet med registreringen av fødselsnummeret er foretakets administrasjon av kundeforholdet.
+(5) Utlevering av opplysninger etter første til tredje ledd kan skje uten samtykke fra kunden bare dersom også mottakeren av opplysningene er underlagt omfattes av taushetsplikt etter §§ 9-7 eller 16-2.
+(6) Utlevering av kundeopplysninger til andre finansforetak i samme finanskonsern kan for øvrig skje etter bestemmelsene i § 16-2.

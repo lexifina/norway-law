@@ -1,0 +1,2 @@
+# § 12-11. Disponering av formue etter avvikling
+Ved avvikling av et finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, skal den del av grunnfondskapitalen som er tilbake etter at alle kreditorer har fått fullt oppgjør og eierandelskapitalen er fordelt etter § 10-20, disponeres som fastsatt i vedtektene, med mindre annet følger av § 12-12 eller departementet ut fra allmenne hensyn eller ut fra hensynet til foretakets kunder fastsetter noe annet.

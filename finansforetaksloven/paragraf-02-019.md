@@ -1,0 +1,4 @@
+# § 2-19. Foretaksnavn for banker
+(1) En bank skal bruke ordet «bank», med eller uten tillegg, i sitt foretaksnavn.
+(2) En bank stiftet som sparebank skal bruke ordet «sparebank» eller lignende sammensetninger med ordet «spare» i sitt foretaksnavn. Etter omdanning av en sparebank kan banken fortsatt bruke «sparebank» eller «spare» i sitt foretaksnavn dersom sparebankstiftelsen som er opprettet ved omdanningen, eier minst ti prosent av aksjene i banken eller bankens morselskap.
+(3) Andre foretak enn banker kan ikke uten hjemmel i eller i medhold av lov eller med samtykke fra departementet bruke ordet «bank» i sitt foretaksnavn eller ved omtale eller markedsføring av sin virksomhet. Andre foretak enn banker som nevnt i annet ledd kan ikke uten hjemmel i eller i medhold av lov eller med samtykke fra departementet bruke ordet «sparebank» eller lignende sammensetninger med ordet «spare» i sitt foretaksnavn eller ved omtale eller markedsføring av sin virksomhet.

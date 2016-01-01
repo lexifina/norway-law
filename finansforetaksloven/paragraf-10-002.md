@@ -1,0 +1,3 @@
+# § 10-2. Eierbrøken i finansforetak som har utstedt egenkapitalbevis
+(1) Grunnfondskapitalen i finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, omfatter innbetalt kapital som ikke er eierandelskapital (grunnfondet), senere tilført avkastning eller overskudd, og annen kapital tilordnet grunnfondskapitalen, herunder gavefond og kompensasjonsfond.
+(2) Eierandelskapitalen i finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, omfatter innbetalt kapital som etter vedtektene er knyttet til egenkapitalbevis som gir eierbeføyelser i foretaket, senere tilført avkastning eller overskudd, samt utjevningsfond og overkursfond.

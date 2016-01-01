@@ -1,0 +1,3 @@
+# § 12-17. Fordeling av aksjekapital og aksjer
+(1) Ved omdanning av finansforetak som har eierandelskapital, skal aksjekapitalen i det nye selskapet eller morselskapet fordeles mellom finansstiftelsen og eierne av egenkapitalbevis etter forholdet mellom grunnfondskapitalen og eierandelskapitalen.
+(2) I omdanningsvedtaket kan det fastsettes at eiere av egenkapitalbevis med rett til aksjer under en fastsatt grense i stedet skal gis oppgjør i penger. Ved fordelingen av aksjer etter første ledd skal det i så fall gjøres et fradrag i eierandelskapitalen tilsvarende det beløpet som skal utbetales til slike eiere av egenkapitalbevis.

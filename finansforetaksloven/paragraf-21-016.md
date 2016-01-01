@@ -1,0 +1,4 @@
+# § 21-16. Avvikling
+(1) Hvis det innen ett år etter at et foretak er satt under administrasjon, ikke er sannsynlig at foretaket i nær fremtid kan settes i fri virksomhet, sluttes sammen med en eller flere andre finansforetak eller dets virksomhet overtas av en eller flere andre finansforetak, skal administrasjonsstyret avvikle foretakets virksomhet og foreta oppgjør til fordringshaverne. Departementet kan fastsette en annen frist.
+(2) Ved booppgjør og avvikling gjelder reglene i konkursloven kapittel VIII flg. tilsvarende så langt de passer. Finanstilsynet tar de avgjørelser som skal treffes i medhold av konkursloven med unntak av fordringsprøvelse som foretas av tingretten.
+(3) Når avviklingen er gjennomført, legger styret frem sluttregnskap med forslag til utlodning til godkjenning av Finanstilsynet, som gir påbud om kunngjøring av det, og sender melding til Foretaksregistret om at foretaket skal slettes fra registeret.

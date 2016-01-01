@@ -1,0 +1,3 @@
+# § 13-17. Provisjon og annet vederlag for forsikringsformidling
+(1) Et forsikringsforetak har ikke adgang til å yte provisjon eller annet vederlag til forsikringsmeglingsforetak i anledning formidling av forsikringsavtale til foretaket dersom forsikringsmeglingsforetaket ved å motta slik provisjon ville handle i strid med reglene i lov 10. juni 2005 nr. 41 om forsikringsformidling § 5-2 a.
+(2) Departementet kan fastsette nærmere regler om gjennomføring og avgrensning av bestemmelsene i første ledd, herunder regler om forsikringsforetaks adgang til å ha særlige pristariffer for administrative tjenester for forsikringer som kommer til et forsikringsforetak fra forsikringsmeglingsforetak.

@@ -1,0 +1,4 @@
+# § 21-19. Skadeforsikringsbestand
+(1) Tre måneder etter at vedtak om offentlig administrasjon er truffet, opphører alle skadeforsikringer å gjelde. Administrasjonsstyret skal så tidlig som mulig og i den utstrekning det er mulig, gi forsikringstakerne, de sikrede og andre med økonomiske interesser knyttet til forsikringsdekningen, skriftlig underretning om når forsikringen opphører. Underretning kan sendes ved bruk av elektronisk kommunikasjon dersom vedkommende uttrykkelig har godtatt dette.
+(2) Fordringer som følger av forsikringsavtale om direkte forsikring, og som oppstår i perioden mellom vedtak om offentlig administrasjon og inntil tidspunkt for opphør av forsikringsavtalen, har rett til dekning etter reglene i § 21-18 annet ledd.
+(3) Forskuddsbetalt premie (ristorno) for tiden etter at forsikringene opphører, kan ikke kreves refundert for beløp under en grense fastsatt av departementet.

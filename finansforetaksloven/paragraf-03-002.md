@@ -1,0 +1,9 @@
+# § 3-2. Tildeling, vilkår mv.
+(1) Tillatelse, godkjennelse eller samtykke etter denne loven gis av departementet. Det kan settes vilkår for tillatelsen, godkjennelsen eller samtykket, herunder at virksomheten drives på en bestemt måte eller innenfor visse rammer, eller andre vilkår i samsvar med de formål som lovgivningen om finansforetak skal ivareta.
+(2) Tillatelse til å etablere og drive virksomhet som finansforetak skal nektes dersom:
+a) finansforetaket ikke har hovedsete og forretningskontor her i riket, med mindre finansforetaket søker tillatelse etter kapittel 5,
+b) vilkårene i §§ 3-3 til 3-5 ikke er oppfylt,
+c) det ikke er godtgjort at finansforetaket vil være i stand til å oppfylle krav til forsvarlig virksomhet som følger av §§ 8-16 til 8-20, §§ 13-4 til 13-7, § 13-13, kapittel 14 og § 16-1,
+d) det er grunn til å anta at foretaket ikke vil oppfylle de krav som stilles i lov eller i medhold av lov, eller at virksomheten vil være i strid med rettsordenen.
+(3) Ved vurdering av om tillatelse skal gis, skal det legges vesentlig vekt på om foretakets kapital- og soliditetsforhold er betryggende, herunder om startkapitalen står i rimelig forhold til den planlagte virksomhet, og om organisasjons- og driftsplanen er betryggende for den virksomhet som skal drives. Det skal også legges vesentlig vekt på om tillatelsen på annen måte kan få uheldige virkninger for finansforetakets kunder eller grupper av kunder.
+(4) Avgjørelse av en søknad skal meddeles søkeren innen seks måneder etter at søknaden er mottatt. For søknad om tillatelse som betalingsforetak eller e-pengeforetak er fristen tre måneder. Dersom søknaden ikke inneholder de opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunkt slike opplysninger ble mottatt, likevel slik at søknaden i alle tilfelle skal være avgjort innen tolv måneder etter at den er mottatt.

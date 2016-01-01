@@ -1,0 +1,6 @@
+# § 9-1. Verv eller stilling i annet finansforetak
+(1) Medlem av styret i et finansforetak kan ikke samtidig være medlem av styret i et annet finansforetak, med mindre dette må anses ubetenkelig ut fra de hensyn loven skal ivareta.
+(2) Daglig leder og andre personer som inngår i den faktiske ledelsen av virksomheten i et finansforetak, kan ikke samtidig være medlem av styret i et annet finansforetak eller inngå i den faktiske ledelsen av virksomhet i et annet finansforetak, med mindre dette må anses ubetenkelig ut fra de hensyn loven skal ivareta.
+(3) Forbudene i første og annet ledd er ikke til hinder for at tillitsvalgte eller ansatte i et finansforetak kan være ansatt i foretak i samme konsern eller medlem av styre i et annet foretak i konsernet.
+(4) Forbudene i første og annet ledd er ikke til hinder for at tillitsvalgte eller ansatte i finansforetak som deltar i en samarbeidende gruppe, utgjør inntil tre firedeler av medlemmene i styret i et finansforetak som driver virksomhet som omfattes av samarbeidet, eller i styret i morselskap for slikt foretak.
+(5) Finanstilsynet kan gi pålegg om at verv eller stilling i strid med første eller annet ledd skal bringes til opphør. Departementet kan i forskrift fastsette nærmere regler om gjennomføring og avgrensning av bestemmelsene i denne paragraf, herunder regler om dispensasjon.

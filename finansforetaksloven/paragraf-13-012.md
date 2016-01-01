@@ -1,0 +1,3 @@
+# § 13-12. Høyeste engasjement med en enkelt motpart
+(1) Et finansforetak kan ikke ha høyere samlet engasjement med en enkelt motpart enn det som til enhver tid er forsvarlig.
+(2) Departementet kan gi forskrift om høyeste samlede engasjement med en enkelt motpart, herunder om beregningsmåte for engasjement i og utenfor balansen og andre forhold vedrørende gjennomføringen av kravet. Departementet kan gi bestemmelser om anvendelsen av grense for høyeste engasjement med en enkelt motpart også på engasjementer med to eller flere motparter når bestemmende innflytelse eller økonomiske forbindelser mellom disse er slik at økonomiske problemer hos den ene kan medføre betalingsvanskeligheter for den andre.

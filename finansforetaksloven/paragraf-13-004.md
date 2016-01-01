@@ -1,0 +1,5 @@
+# § 13-4. Utkontraktering mv.
+(1) Et finansforetak kan gi et annet foretak i oppdrag å forestå utførelsen av deler av virksomheten som ikke er kjerneoppgaver, med mindre dette skjer i et omfang eller på en måte som ikke kan anses som forsvarlig eller som gjør at tilsynet med den utkontrakterte virksomhet eller foretakets samlede virksomhet blir vanskeliggjort. Kjerneoppgaver kan ikke utkontrakteres med mindre annet følger av bestemmelser gitt i eller i medhold av lov.
+(2) Bestemmelsene i første ledd gjelder også oppdrag som et finansforetak gir til annet finansforetak eller leverandør av bestemte varer eller tjenester, og som gjelder markedsføring, formidling eller salg av finansforetakets finansielle tjenester. Bestemmelsene i § 13-3 annet ledd gjelder tilsvarende.
+(3) Bruk av oppdragstaker er uten innvirkning på finansforetaks plikter og ansvar overfor kunder, offentlig myndighet og andre.
+(4) Departementet kan gi forskrift om utkontraktering, herunder fastsette forbud mot utkontraktering til nærmere angitte jurisdiksjoner utenfor EØS eller at slik utkontraktering kun kan skje med tillatelse fra Finanstilsynet.

@@ -1,0 +1,2 @@
+# § 1-1. Formål
+Formålet med loven er å bidra til finansiell stabilitet, herunder at finansforetak virker på en hensiktsmessig og betryggende måte. Med finansiell stabilitet menes at det finansielle systemet er robust nok til å motta og utbetale innskudd og andre tilbakebetalingspliktige midler fra allmennheten, formidle finansiering, utføre betalinger og omfordele risiko på en tilfredsstillende måte.

@@ -1,0 +1,4 @@
+# § 10-7. Disponering av overskudd i finansforetak som ikke har utstedt aksjer eller egenkapitalbevis
+(1) Årets overskudd i finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, og som ikke har utstedt egenkapitalbevis, tilordnes foretakets grunnfondskapital, med mindre det i vedtektene er fastsatt at overskuddsmidler skal disponeres som utbyttemidler. Det kan i vedtektene fastsettes at utbyttemidler kan benyttes til utbytte på innskutt grunnfond, til gaver til allmennyttige formål eller et fond for slike gaver, til gave til en stiftelse med allmennyttig formål, eller utdeles til forsikringstakere eller andre kunder.
+(2) Ved beregningen av årets overskudd gjelder § 10-17 første ledd tilsvarende.
+(3) Departementet kan gi forskrift om utdeling av gaver etter første ledd.

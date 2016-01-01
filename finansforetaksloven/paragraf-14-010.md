@@ -1,0 +1,5 @@
+# § 14-10. Solvenskapitalkrav
+(1) Solvenskapitalkravet skal dekke risikoen for tap av foretakets ansvarlige kapital.
+(2) Solvenskapitalkravet skal beregnes slik at sannsynligheten er 99,5 prosent for at samlet tap, herunder forsikringsmessig og finansielt tap, over en periode på 12 måneder ikke overstiger det beregnede kapitalkravet. Ved beregningen skal det tas hensyn til risikoreduserende tiltak og ordninger.
+(3) Ved beregning av solvenskapitalkravet skal all kvantifiserbar tapsrisiko knyttet til forsikringsforetakets samlede virksomhet tas i betraktning, herunder risiko knyttet til forsikringer som forventes å ville bli overtatt i løpet av de neste 12 månedene. Beregningen skal minst dekke forsikringsrisiko, markedsrisiko og kredittrisiko samt operasjonell risiko, herunder juridisk risiko, men ikke omdømmerisiko eller risiko som følge av strategibeslutninger.
+(4) Solvenskapitalkravet skal beregnes etter en standardmetode eller etter interne modeller. Departementet kan gi forskrift om beregning av solvenskapitalkrav etter standardmetoden og om godkjennelse av interne modeller og beregning av solvenskapitalkrav etter interne modeller.

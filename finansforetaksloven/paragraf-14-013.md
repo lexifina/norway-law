@@ -1,0 +1,12 @@
+# § 14-13. Tilsynsmessig oppfølging, retting og pålegg
+(1) Finanstilsynet skal se til at forsikringsforetak det har tilsyn med, har et hensiktsmessig system for risikostyring og internkontroll, forsvarlige forsikringstekniske avsetninger til sikring av sine forsikringsforpliktelser og ansvarlig kapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten.
+(2) Finanstilsynet kan pålegge forsikringsforetak som ikke oppfyller krav fastsatt i eller i medhold av bestemmelsene i kapitlene 13 og 14, å iverksette nødvendige tiltak for å rette på dette. Finanstilsynet kan herunder pålegge forsikringsforetaket:
+a) å øke de forsikringstekniske avsetningene,
+b) å benytte parametere som er spesifikke for foretaket i beregningen av forsikringsrisiko ved fastsettelse av solvenskapitalkravet etter standardmetoden dersom risikoprofilen avviker vesentlig fra forutsetningene som ligger til grunn for beregningen etter standardmetoden,
+c) å benytte en intern modell for å beregne solvenskapitalkravet dersom risikoprofilen avviker vesentlig fra forutsetningene som ligger til grunn for beregningen etter standardmetoden,
+d) å endre systemet for risikostyring og internkontroll.
+(3) Finanstilsynet kan i tilfeller som nevnt i annet ledd første punktum også pålegge forsikringsforetak å ha høyere ansvarlig kapital dersom:
+a) foretakets risikoprofil avviker vesentlig fra forutsetningene lagt til grunn i solvenskapitalkravet beregnet etter standardmetoden, og pålegg om å benytte en intern modell ikke er hensiktsmessig eller ikke har vært effektivt, eller mens en intern modell er i ferd med å utvikles,
+b) foretakets risikoprofil avviker vesentlig fra forutsetningene lagt til grunn i solvenskapitalkravet beregnet med en intern modell, fordi enkelte kvantifiserbare risikoer ikke i tilstrekkelig grad fanges opp av modellen og tilpasninger i modellen for bedre å fange opp den faktiske risikoprofilen ikke har bedret situasjonen innenfor en hensiktsmessig tidsramme, eller
+c) foretakets system for risikostyring og internkontroll avviker vesentlig fra kravene i kapittel 13, at disse avvikene hindrer foretaket i å identifisere, måle, overvåke, styre og rapportere de risikoer som det er eller kan bli eksponert for, og at andre tiltak trolig ikke vil kunne forbedre svakhetene innenfor en hensiktsmessig tidsramme.
+Departementet kan i forskrift fastsette nærmere regler om kapitalkravstillegg.

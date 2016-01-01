@@ -1,0 +1,1 @@
+# II. Obligasjoner med fortrinnsrett

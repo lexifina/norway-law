@@ -1,0 +1,3 @@
+# § 14-5. Informasjonsplikt
+(1) Banker, kredittforetak og finansieringsforetak samt holdingforetak i finanskonsern hvor slikt foretak inngår, skal offentliggjøre informasjon om virksomheten, risikoen knyttet til foretaket og ansvarlig kapital etter bestemmelser fastsatt i forskrift. Slike foretak skal også offentliggjøre informasjon om størrelsen på kjernekapital som andel av verdien av foretakets eiendeler og ikke balanseførte forpliktelser beregnet uten risikovekting. Morselskap i finanskonsern skal i tillegg offentliggjøre informasjon om uvektet kjernekapitalandel på konsolidert grunnlag.
+(2) Departementet kan gi forskrift om foretakets offentliggjøring av informasjon og krav til dokumentasjon, herunder bestemmelser som gjør unntak fra personopplysningsloven.

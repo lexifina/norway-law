@@ -1,0 +1,5 @@
+# § 11-14. Uavhengig gransker
+(1) Før et kredittforetak utsteder obligasjoner med fortrinnsrett skal det være oppnevnt en uavhengig gransker for kredittforetaket. Granskeren oppnevnes av Finanstilsynet. Finanstilsynet kan når som helst tilbakekalle oppnevningen og oppnevne en ny gransker.
+(2) Granskeren skal overvåke at registeret føres korrekt, og regelmessig foreta en vurdering av om kravene i §§ 11-11 og 11-13 overholdes. Granskeren skal regelmessig underrette Finanstilsynet om sine iakttakelser og vurderinger.
+(3) Kredittforetaket har plikt til å gi granskeren alle relevante opplysninger om virksomheten. Granskeren skal ha full adgang til kredittforetakets register og kan kreve ytterligere opplysninger av kredittforetaket. Granskeren har også rett til å gjennomføre undersøkelser hos kredittforetaket.
+(4) Granskeren har krav på rimelig vederlag fra kredittforetaket for sitt arbeid. Departementet kan i forskrift fastsette nærmere regler om oppnevning av og vederlag til granskere og om granskeres oppgaver, rettigheter og plikter.

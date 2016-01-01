@@ -1,0 +1,10 @@
+# § 6-3. Egnethetsvurdering mv.
+(1) Ved avgjørelsen av om tillatelse skal gis etter § 6-1 annet ledd, skal departementet ut fra behovet for å sikre forsvarlig og betryggende ledelse av finansforetaket og dets virksomhet, og i betraktning av den grad av innflytelse som erververen som eier vil kunne utøve i foretaket etter ervervet, vurdere erververens egnethet som innehaver av vedkommendes samlede eierandel etter ervervet, og om ervervet av eierandelen er finansielt betryggende.
+(2) Ved vurdering etter første ledd skal departementet særlig ta i betraktning:
+a) erververens alminnelige omdømme, faglige kompetanse, erfaring og tidligere handlemåte i forretningsforhold,
+b) alminnelige omdømme, faglige kompetanse, erfaring og tidligere handlemåte i forretningsforhold hos personer som etter ervervet vil inngå i styret eller ledelsen av finansforetakets virksomhet,
+c) om erververen vil kunne bruke den innflytelse eierandelen gir, til å oppnå fordeler for egen eller tilknyttet virksomhet, eller indirekte øve innflytelse på annen næringsvirksomhet, samt om ervervet vil kunne føre til at foretakets uavhengighet blir svekket,
+d) om erververens økonomiske situasjon og tilgjengelige ressurser er betryggende i lys av de former for virksomhet som foretaket driver eller må antas å engasjere seg i etter ervervet, samt om erververen og dennes virksomhet er undergitt finansielt tilsyn,
+e) om finansforetaket er og fortsatt vil være i stand til å oppfylle soliditets- og sikkerhetskrav og andre tilsynskrav som følger av finanslovgivningen,
+f) om eierforholdene i foretaket etter ervervet eller særlige bindinger mellom erververen og en tredjemann vil vanskeliggjøre effektivt tilsyn med foretaket, særlig om den gruppe foretaket vil inngå i etter ervervet, er organisert på en slik måte at det ikke vanskeliggjør forsvarlig tilsyn, herunder effektiv utveksling av informasjon og fordeling av tilsynsoppgaver mellom berørte tilsynsmyndigheter,
+g) om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.

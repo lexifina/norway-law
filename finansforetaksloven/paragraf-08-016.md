@@ -1,0 +1,4 @@
+# § 8-16. Internrevisjon
+(1) Et finansforetak skal ha internrevisjon. Internrevisjonen skal kontrollere at finansforetaket er organisert og drives på en forsvarlig måte og i samsvar med gjeldende krav til virksomheten. Forhold som vurderes som utilfredsstillende, skal rapporteres til styret og daglig leder.
+(2) Styret skal organisere og fastsette retningslinjer for internrevisjonen. Det tilligger styret å ansette og avskjedige leder av internrevisjonen og å fastsette dennes betingelser. Internrevisjonen skal minst én gang i året avgi rapport til styret om risikostyringen og internkontrollen samt sin virksomhet.
+(3) Finanstilsynet kan fastsette nærmere regler om organisering og gjennomføring av internrevisjon i finansforetak, samt gjøre unntak fra første ledd for bestemte grupper av finansforetak.

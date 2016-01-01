@@ -1,0 +1,1 @@
+# II. Kapitalkrav for forsikringsforetak

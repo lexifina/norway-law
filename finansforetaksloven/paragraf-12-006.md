@@ -1,0 +1,3 @@
+# § 12-6. Melding om ikrafttreden. Gjennomføring
+(1) Når fristen fastsatt i kreditorvarselet er utløpt, og forholdet til de kreditorer som i tilfelle har fremsatt innsigelse er avklart, skal det gis melding til Foretaksregisteret om at sammenslåingen eller delingen skal tre i kraft, herunder også melding om registrering av finansforetak eller finansstiftelse som skal opprettes som følge av vedtak om sammenslåing eller deling. Foretaksregisteret skal kontrollere at det er gitt tillatelse, og at vedtektene er godkjent.
+(2) Når sammenslåingen eller delingen er registrert i Foretaksregisteret, trer sammenslåingen eller delingen i kraft og kan gjennomføres. Allmennaksjeloven §§ 13-17 til 13-19, 14-8 og 14-9 gjelder tilsvarende.

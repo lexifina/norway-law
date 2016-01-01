@@ -1,0 +1,3 @@
+# § 7-6. Stiftelse av finansforetak som aksjeselskap eller allmennaksjeselskap
+(1) Finansforetak som skal organiseres som aksjeselskap, stiftes etter reglene i aksjeloven. Finansforetak som skal organiseres som allmennaksjeselskap stiftes etter reglene i allmennaksjeloven. Det kan i vedtektene fastsettes at valg av styremedlemmer skal forberedes av en valgkomité.
+(2) Dersom det ikke fremgår av stiftelsesdokumentet at stifterne har forpliktet seg til å tegne aksjer og innbetale aksjekapital som til sammen er tilstrekkelig til å oppfylle minstekravet til startkapital, skal det i dokumentet redegjøres for hvordan nødvendig kapital skal skaffes til veie.

@@ -1,0 +1,4 @@
+# § 7-9. Innbetaling, registrering mv. for foretak som ikke organiseres som aksjeselskap eller allmennaksjeselskap
+(1) Ved stiftelse av finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap, gjelder allmennaksjeloven §§ 2-4 til 2-7 og §§ 2-10 til 2-17 tilsvarende for stiftelsen av foretaket og tegning og innbetaling av tilskudd til foretakets grunnfondskapital. Tilskudd til grunnfondskapitalen skal innbetales i penger med mindre annet følger av § 10-3.
+(2) Når alle stifterne har undertegnet stiftelsesdokumentet, er innskuddene til foretakets kapital tegnet og finansforetaket stiftet.
+(3) Før meldingen til Foretaksregisteret sendes skal tilskuddene til foretakets grunnfond være innbetalt. Foretaksregisteret kan kreve bekreftelse fra revisor på at tilskuddene til foretakets grunnfond er innbetalt. For øvrig gjelder allmennaksjeloven §§ 2-18 til 2-20 tilsvarende.

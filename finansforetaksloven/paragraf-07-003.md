@@ -1,0 +1,4 @@
+# § 7-3. Organisasjonsform for andre finansforetak
+(1) Kredittforetak og finansieringsforetak kan ikke uten samtykke fra departementet stiftes og organiseres på annen måte enn som allmennaksjeselskap, aksjeselskap eller samvirkeforetak. Departementet kan fastsette vilkår med krav til organiseringen av foretaket.
+(2) Departementet kan i forskrift fastsette at betalingsforetak og e-pengeforetak skal stiftes og organiseres som allmennaksjeselskap eller aksjeselskap.
+(3) Et holdingforetak i et finanskonsern skal være organisert i samsvar med § 17-3 annet eller tredje ledd. Når annet ikke følger av bestemmelse gitt i eller i medhold av denne loven, skal holdingforetak som er organisert som sparebank, gjensidig forsikringsforetak eller kredittforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, være undergitt reglene om henholdsvis sparebanker, forsikringsforetak eller kredittforetak som er samvirkeforetak av låntakere.

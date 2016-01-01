@@ -1,0 +1,4 @@
+# § 1-6. Unntak fra loven
+(1) Loven gjelder ikke Norges Bank, Statens Pensjonskasse eller foretak eiet av staten som er finansiert over statsbudsjettet, og som er undergitt særskilte regler fastsatt ved annen lov, når ikke annet følger av bestemmelse gitt i eller i medhold av lov.
+(2) Departementet avgjør i tvilstilfelle om et foretak eller den virksomhet som drives av et foretak, krever tillatelse etter denne loven.
+(3) Departementet kan i særlige tilfelle unnta finansforetak og grupper av finansforetak, samt enkelte typer av virksomhet som drives av finansforetak, fra en eller flere bestemmelser i loven og kan sette vilkår for slikt unntak. Departementet kan bestemme at foretak som etter bestemmelsen i denne paragraf er eller blir unntatt fra visse av lovens bestemmelser, skal være undergitt tilsyn av Finanstilsynet.

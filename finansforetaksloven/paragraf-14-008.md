@@ -1,0 +1,11 @@
+# § 14-8. Verdivurdering av eiendeler og forpliktelser
+(1) Verdien av eiendeler og forpliktelser ut over forsikringstekniske avsetninger skal settes til omsetningsverdien ved forretningsmessige transaksjoner mellom uavhengige parter.
+(2) Ved anvendelsen av bestemmelsene i §§ 14-7 til 14-14, skal verdien av forsikringstekniske avsetninger settes til det beløpet forsikringsforetaket vil måtte betale ved umiddelbar overdragelse av forsikringsforpliktelsene til et annet forsikringsforetak. Beregningen av de forsikringstekniske avsetningene skal baseres på markedsinformasjon og allment tilgjengelige opplysninger om forsikringsrisikoer.
+(3) De forsikringstekniske avsetningene skal beregnes på en forsiktig, pålitelig og objektiv måte.
+(4) Verdien av de forsikringstekniske avsetningene skal være summen av:
+a) beste estimat som tilsvarer det sannsynlighetsvektede gjennomsnitt av fremtidige kontantstrømmer der det tas hensyn til tidsverdien av penger beregnet ved hjelp av den relevante risikofrie rentekurven, og
+b) risikomarginen som tilsvarer kostnadene forbundet med å stille til rådighet tellende ansvarlig kapital svarende til det solvenskapitalkravet som er nødvendig for å dekke forsikrings- og gjenforsikringsforpliktelsene i løpet av disse forpliktelsenes levetid.
+Beste estimat skal beregnes brutto uten fradrag for de beløp som kan innkreves i henhold til gjenforsikringsavtaler og fra spesialforetak som har til formål å overta forsikringsrisiko.
+(5) Ved beregningen av de forsikringstekniske avsetningene skal foretaket ta hensyn til alle inngående og utgående kontantstrømmer som er nødvendige for å gjøre opp forsikringsforpliktelsene i forpliktelsenes levetid. Ved beregningen skal foretaket inndele forsikringsforpliktelsene i likeartede risikogrupper og som et minimum i forsikringsklasser.
+(6) Ved beregningen av de beløp som kan innkreves i henhold til gjenforsikringsavtaler og fra spesialforetak som har til formål å overta forsikringsrisiko, gjelder annet og tredje ledd, fjerde ledd bokstav a og femte ledd tilsvarende. Beløpene skal justeres for forventet tap som følge av mislighold fra motpartens side.
+(7) Departementet kan i forskrift gi nærmere regler om verdivurdering og beregning av eiendeler, forsikringstekniske avsetninger og forpliktelser ut over forsikringstekniske avsetninger.

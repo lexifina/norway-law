@@ -1,0 +1,4 @@
+# § 16-3. Klagenemnd for behandling av tvister
+(1) Kongen kan ved forskrift bestemme at finansforetak skal være tilsluttet en klagenemnd som nevnt i finansavtaleloven § 4 eller forsikringsavtaleloven § 20-1.
+(2) Et finansforetak skal, dersom det ikke følger en uttalelse fra en klagenemnd som nevnt i første ledd i tvist med en kunde som er forbruker, dekke egne og motpartens nødvendige sakskostnader ved domstolsbehandling i første instans av samme tvist mellom de samme partene. Første punktum gjelder tilsvarende for behandling i høyere rettsinstanser dersom finansforetaket er den ankende part. Reglene i tvisteloven § 10-5 om sakskostnader i småkravprosess kommer ikke til anvendelse ved beregning av nødvendige sakskostnader.
+(3) Departementet kan gi forskrift om nemndbehandling etter annet ledd, herunder om ansvar for kostnader ved nemndbehandlingen.
