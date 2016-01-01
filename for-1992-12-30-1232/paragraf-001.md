@@ -1,0 +1,5 @@
+# § 1. Tillatelse
+Uten tillatelse fra Fylkesmannen er det forbudt å etablere eller drive anlegg, dam eller innhegning for klekking, produksjon eller oppbevaring av anadrome laksefisk og kreps for senere utsetting i naturen. Det samme gjelder for arter eller bestander av innlandsfisk som ikke forvaltes av fylkeskommunen.
+Uten tillatelse fra fylkeskommunen er det forbudt å etablere eller drive anlegg, dam eller innhegning for klekking, produksjon eller oppbevaring av innlandsfisk som fylkeskommunen har forvaltningsansvar for.
+Eventuell utvidelse eller annen endring av anlegg med tillatelse etter lov 15. mai 1981 nr. 19 om bygging av anlegg for klekking av rogn og for oppdrett av fisk og skalldyr eller lov 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v. skal behandles etter denne forskrift.
+Tiltak etter første ledd som kan medføre spredning av organismer som ikke er av stedegen stamme, krever tillatelse etter forskrift om fremmede organismer. Tillatelse etter forskrift om fremmede organismer kreves likevel ikke hvis tiltaket kun kan medføre spredning av innlandsfisk innen samme kultiveringssone.
