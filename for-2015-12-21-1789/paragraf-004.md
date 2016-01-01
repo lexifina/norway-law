@@ -1,0 +1,11 @@
+# § 4
+Med HNS i bulk menes:
+a) olje som transporteres i bulk, som definert i regel 1 i vedlegg 1 til internasjonal konvensjon om hindring av forurensning fra skip, 1973, som endret ved protokoll av 1978, med senere endringer,
+b) skadelige flytende stoffer som transporteres i bulk, som definert i regel 1.10 i vedlegg II til internasjonal konvensjon om hindring av forurensning av skip, 1973, som endret ved protokoll av 1978, med senere endringer, og de stoffer og blandinger som inntil videre er klassifisert som forurensningskategori X, Y, eller Z etter regel 6.3 i nevnte vedlegg II,
+c) farlige, flytende stoffer som transporteres i bulk, og som er oppført i kapittel 17 i internasjonal kode for bygging og utrustning av skip som transporterer farlige kjemikalier i bulk, med endringer, og de farlige produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,
+d) flytende gasser som er oppført i kapittel 19 i internasjonal kode for bygging og utrustning av skip som transporterer flytende gasser i bulk, med endringer, og de produkter som det er gitt foreløpige regler for lastehåndtering for, etter reglene i kodens punkt 1.1.6,
+e) flytende stoffer som transporteres som last i bulk med antennelsestemperatur som ikke overstiger 60 °C, målt ved prøve i lukket beholder,
+f) faste bulklaster med farlige kjemiske egenskaper som omfattes av den internasjonale koden for transport av faste bulklaster (IMSBC-koden), med endringer, i den utstrekning disse stoffene i pakket form ville være omfattet av internasjonal kode for transport av farlig gods (IMDG-koden) i kraft i 1996,
+g) rester fra forutgående bulktransport av stoffer som nevnt i bokstavene a til f i oppregningen her.
+Som mottaker etter dette kapittelet regnes den som fysisk mottar HNS i bulk etter sjøtransporten.
+HNS i bulk som er overført direkte eller i havn eller losseplass fra et skip til et annet skip som ledd i sjøtransporten fra den opprinnelige lastehavnen og til den endelige havnen eller losseplassen (gods i transitt), skal anses mottatt i den endelige havnen eller losseplassen. Om den endelige havnen eller losseplassen for gods i transitt er utenfor norsk territorium, omfattes godset ikke av rapporteringsplikten etter kapittelet her.
