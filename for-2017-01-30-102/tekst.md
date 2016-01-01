@@ -1,0 +1,1 @@
+For inntektsåret 2016 har Finansdepartementet beregnet rentesatsen til bruk ved fremføring av underskudd og overskytende friinntekt etter petroleumsskatteloven § 3 bokstav c annet ledd første punktum og § 5 sjette ledd annet punktum til 0,8 prosent.
