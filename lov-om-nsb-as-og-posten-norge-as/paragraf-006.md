@@ -1,0 +1,3 @@
+# § 6. Overføring av eiendeler, forpliktelser mv.
+Overføringen av forpliktelser i henhold til § 2 og § 3 skjer med frigjørende virkning for NSB BA og Posten Norge BA. De overførte forpliktelsene kan heller ikke gjøres gjeldende mot staten. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføring etter første ledd eller gjøre gjeldende at overføringene utgjør en bortfallsgrunn for rettsforholdet.
+NSB AS og Posten Norge AS skal videreføre NSB BA og Posten Norge BAs skattemessige verdier og skatteposisjoner knyttet til de overførte eiendeler, rettigheter og forpliktelser. Omdanningene skal ikke utløse beskatning for de overdragende selskaper etter lov 26. mars 1999 nr. 14 om skatt av formue og inntekt.
