@@ -1,0 +1,2 @@
+# § 3. Unntak for små mengder landdyrfôr til lokale mottakere
+I henhold til forordning (EF) nr. 183/2005 artikkel 2 nr. 2 bokstav d) kommer ikke bestemmelsene i forordningen til anvendelse på levering av små mengder landdyrfôr fra primærprodusenter til lokale mottakere for bruk på disse driftsenhetene. Med små mengder menes en produksjon per år, som er på inntil 15 tonn. Med lokalt menes en avstand fra fôrvirksomheten til mottaker, som er på inntil 30 km.
