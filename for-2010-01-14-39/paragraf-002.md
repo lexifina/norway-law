@@ -1,0 +1,2 @@
+# § 2. Godkjenning av virksomheter som produserer eller markedsfører koksidiostatika og histomonostatika
+EØS-avtalens vedlegg I kap. II nr. 1zzzh (forordning (EF) nr. 141/2007) om godkjenningskrav i henhold til forordning (EF) nr. 183/2005 av fôrvirksomheter, som produserer eller markedsfører tilsetningsstoff til bruk i fôrvarer i kategorien koksidiostatika eller histomonostatika gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel II, protokoll 1 til avtalen og avtalen for øvrig.
