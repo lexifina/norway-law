@@ -1,0 +1,8 @@
+# § 5. Installatørenes forpliktelser knyttet til tekniske krav, merking og dokumentasjon
+Når installatørene bringer en heis i omsetning, skal de sikre at den er konstruert, produsert, installert og prøvd i samsvar med de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.
+Installatørene skal utarbeide den tekniske dokumentasjonen og gjennomføre den relevante framgangsmåten for samsvarsvurdering nevnt i § 16 eller sørge for at den gjennomføres. Når det ved denne framgangsmåten påvises at heisen er i samsvar med gjeldende grunnleggende helse- og sikkerhetskrav, skal installatøren utarbeide en EU-samsvarserklæring, sikre at den følger med heisen, og påføre CE-merkingen.
+Installatørene skal oppbevare den tekniske dokumentasjonen, EU-samsvarserklæringen og eventuelt beslutning om godkjenning av kvalitetssystemer i ti år etter at heisen ble brakt i omsetning.
+Installatørene skal gjøre undersøkelser når det anses hensiktsmessig med hensyn til den risiko som er forbundet med en heis og for å verne forbrukernes helse og sikkerhet. I slike tilfeller skal installatøren om nødvendig føre et register over klager og heiser som ikke oppfyller kravene.
+Installatørene skal sikre at heisene er påført et type-, parti- eller serienummer eller et annet element som gjør det mulig å identifisere dem.
+Installatørene skal angi sitt navn, firma og registrert varemerke og kontaktadresse på heisen. Adressen skal angi ett enkelt sted der installatøren kan kontaktes. Kontaktopplysningene skal skrives på norsk.
+Installatørene skal påse at heisen ledsages av instruksjonen nevnt i vedlegg III nr. 6.2, på norsk. Instruksjonen og eventuell merking skal være tydelig, forståelig og lesbar.

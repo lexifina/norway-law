@@ -1,0 +1,4 @@
+# § 20. Utpeking av tekniske kontrollorganer
+Tekniske kontrollorgan skal utpekes av Direktoratet for byggkvalitet etter reglene i lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar.
+Som grunnlag for utpekingen etter første ledd skal organet være akkreditert av et nasjonalt akkrediteringsorgan. Et organ som ikke er akkreditert kan i særskilte tilfeller likevel utpekes, forutsatt at direktoratet kan dokumentere at organet oppfyller relevante krav.
+Det berørte organ kan utføre virksomhet som tekniske kontrollorgan bare dersom Kommisjonen eller de andre EØS-statene ikke har reist innvendinger mot dette innen to uker etter en utpeking basert på et akkrediteringsbevis, eller innen to måneder for en utpeking som ikke er basert på slik akkreditering. Det er bare et slikt organ som skal anses som et tekniske kontrollorgan i henhold til denne forskrift.

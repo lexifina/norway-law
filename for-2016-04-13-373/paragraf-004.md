@@ -1,0 +1,7 @@
+# § 4. Omsetning, tilgjengeliggjøring på markedet og ibruktaking og grunnleggende helse- og sikkerhetskrav
+Heiser som er i samsvar med denne forskriften skal fritt kunne omsettes og tas i bruk. Sikkerhetskomponenter som er i samsvar med denne forskriften skal fritt kunne gjøres tilgjengelig på markedet.
+Heiser eller sikkerhetskomponenter som ikke er i samsvar med denne forskriften kan fremvises på messer, utstillinger eller demonstrasjoner, forutsatt at et synlig skilt klart angir at de ikke er i samsvar med denne forskrift og ikke kan bringes i omsetning eller gjøres tilgjengelig på markedet før slikt samsvar er oppnådd. Under demonstrasjoner skal det treffes forsvarlige sikkerhetstiltak slik at personer er forsvarlig vernet.
+Heisene omfattet av denne forskriften, kan bringes i omsetning og tas i bruk bare dersom de er i samsvar med denne forskriften når de er forsvarlig installert og vedlikeholdt og brukt til det formål de er beregnet på.
+Sikkerhetskomponenter omfattet av denne forskriften, kan gjøres tilgjengelig på markedet og tas i bruk bare dersom de er i samsvar med denne forskrift når de er forsvarlig installert og vedlikeholdt og brukt til det formål de er beregnet på.
+Heiser som omfattes av denne forskriften, skal oppfylle de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.
+Sikkerhetskomponentene omfattet av denne forskrift skal oppfylle de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I og sikre at heisene de er montert i, oppfyller nevnte grunnleggende krav.
