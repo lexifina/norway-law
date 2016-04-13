@@ -1,0 +1,3 @@
+# § 24. Endringer av utpeking
+Dersom et teknisk kontrollorgan ikke lenger oppfyller kravene i § 22, eller det ikke oppfyller sine forpliktelser, skal utpekingsmyndigheten enten begrense, midlertidig oppheve eller trekke tilbake utpekingen, avhengig av hvor alvorlig den manglende oppfyllelsen av disse kravene eller forpliktelsene er.
+Ved begrensing, midlertidig oppheving eller tilbaketrekking av en utpeking eller dersom det tekniske kontrollorganet har sluttet sin virksomhet, har utpekingsmyndigheten adgang til å treffe egnede tiltak for å sikre at organets arkiver enten blir behandlet av et annet teknisk kontrollorgan eller blir holdt tilgjengelig for de ansvarlige utpekingsmyndigheter og markedstilsynsmyndigheter på deres anmodning.

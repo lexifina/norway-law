@@ -1,0 +1,4 @@
+# § 21. Søknad om utpeking
+Et teknisk kontrollorgan skal legge fram en søknad om utpeking for utpekingsmyndigheten i den EØS-stat der det er opprettet.
+Søknaden om utpeking skal ledsages av en beskrivelse av den samsvarsvurderingsvirksomhet, den eller de framgangsmåter for samsvarsvurdering og de heisene eller sikkerhetskomponentene som organet hevder å være kompetent for, samt eventuelt et akkrediteringsbevis utstedt av et nasjonalt akkrediteringsorgan som bekrefter at det tekniske kontrollorganet oppfyller kravene fastsatt i § 22.
+Dersom det berørte tekniske kontrollorganet ikke kan legge fram et akkrediteringsbevis, skal det gi utpekingsmyndigheten all den dokumentasjon som er nødvendig for å kontrollere, bekrefte og regelmessig føre tilsyn med at organet oppfyller kravene fastsatt i § 22.

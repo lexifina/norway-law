@@ -1,0 +1,2 @@
+# § 12. Tilfeller der produsentenes forpliktelser får anvendelse på importører og distributører
+En importør eller distributør skal i denne forskrift anses som produsent og skal være underlagt produsentens forpliktelser i henhold til § 8, når den bringer en sikkerhetskomponent i omsetning under eget navn eller varemerke eller endrer en sikkerhetskomponent som allerede er brakt i omsetning, på en slik måte at det kan påvirke komponentens samsvar med kravene i denne forskrift.
