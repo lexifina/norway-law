@@ -1,0 +1,3 @@
+# § 33. Fusk
+(1) Fusk eller forsøk på fusk ved hjemmeeksamen, mappevurdering og lignende eksamensformer kan være kopiering eller avskrivning av litteratur uten henvisninger. Det gjelder også dersom besvarelsen er preget av manglende selvstendighet i arbeidet, for eksempel fordi besvarelsen er svært lik en annen/andre besvarelser, eller fordi den åpenbart er utført av andre enn studenten.
+(2) Konsekvenser av fusk eller forsøk på fusk reguleres av lov om universiteter og høyskoler § 4-7 og § 4-8, og vedtak fattes av høyskolens klagenemnd. Styret kan fastsette retningslinjer for behandling av fusk/forsøk på fusk.
