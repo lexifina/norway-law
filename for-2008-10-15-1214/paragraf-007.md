@@ -1,0 +1,4 @@
+# § 7. Klageorgan
+Kultur- og kirkedepartementet oppretter en uavhengig klagenemnd som er klageinstans for avgjørelser som er truffet av Frivillighetsregisteret, jf. frivillighetsregisterloven § 19.
+Klagenemnda skal bestå av fem medlemmer, hvorav to fra frivillig sektor, hver med personlig oppnevnte varamedlemmer. Klagenemndas medlemmer oppnevnes av departementet. Nemndas leder skal ha bestått juridisk embetseksamen. Nemndas medlemmer oppnevnes for fire år. Gjenoppnevning kan foretas en gang. Vervet er frivillig. Suppleringer i perioden kan foretas av departementet. Departementet kan løse et medlem av nemnda fra vervet dersom medlemmet ikke har skjøttet sitt verv eller dersom vedkommende selv ber om det.
+Klagenemnda kan bare treffe vedtak når den er fulltallig, med mindre annet er bestemt. Saker avgjøres ved flertallsvedtak.
