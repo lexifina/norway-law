@@ -1,0 +1,2 @@
+# § 3. Bankkontonummer
+Enheten kan velge å registrere opplysning om sitt bankkontonummer. Enheter som ønsker å være omfattet av grasrotandelsordningen, skal registrere opplysning om sitt bankkontonummer, jf. § 2 andre ledd i forskrift 27. februar 2009 nr. 238 om grasrotandel. Enheter som velger å registrere opplysning om sitt bankkontonummer er ansvarlig for at opplysningen til enhver tid er oppdatert i Frivillighetsregisteret.
