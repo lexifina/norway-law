@@ -1,0 +1,4 @@
+# § 3. Annen rettshjelp
+Norske domstoler og andre myndigheter kan etter begjæring gi Domstolen rettshjelp i tilknytning til behandling av saker som hører under Domstolens myndighetsområde. Slik rettshjelp kan blant annet være identifisering og lokalisering av personer, avhør av vitner og sakkyndige, innhenting av annet bevismateriale, forkynning av dokumenter, pågripelse og fengsling av personer.
+Reglene i lov av 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. kapittel V og domstolloven § 46 og kapittel 9 gjelder så langt de passer. Det samme gjelder lov av 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. § 20 og straffeprosessloven kapittel 14 i forhold til pågripelse og fengsling.
+Domstolen kan gis samtykke til å avhøre i Norge blant annet mistenkte og vitner for handlinger som er omfattet av Domstolens myndighetsområde, og å foreta andre undersøkelser her i riket.
