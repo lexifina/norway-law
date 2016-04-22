@@ -1,0 +1,8 @@
+# § 16
+Ved skade og ulempe skal erstatningen eller vederlaget som hovudregel setjast til ein sum pengar ein gong for alltid (ein eingongssum).
+Ved personskade gjeld skadeerstatningslova § 3-9 om terminvise ytingar. For annan skade, ulempe eller tap kan retten fastsetja at erstatningen eller vederlaget heilt eller delvis skal svarast i terminvise ytingar dersom:
+a) det er uvisst kor lenge tidsavgrensa verksemd vil føre til skade, ulempe eller tap, eller
+b) det er grunn til å rekna med at skaden, ulempa eller tapet innan rimeleg tid vil verta vesentleg redusert.
+Retten kan og fastsetja terminvise erstatningar eller vederlag som skal gjelda inntil vidare dersom det er uvisst kva for omfang skaden, ulempa eller tapet vil få, og retten difor gjer vedtak om å venta ei bestemt tid med å fastsetja den endelege erstatningen. Kvar av partane kan likevel krevja at retten med ein gong målar ut erstatning eller vederlag for det tap som let seg gjera å fastslå med det same.
+Retten fastset korleis terminvise beløp skal reknast og kor lenge ytingane skal betalast. Kvar av partane kan krevja at terminvis erstatning eller vederlag etter andre stykket i bokstav (a) og (b) skal prøvast på nytt når det er gått minst 5 år sidan siste fastsetjing. Retten kan fastsetja at det skal stillast sikkerhet for terminvis erstatning eller vederlag og kva slag trygd som er naudsynt.
+Eigedomen eller tiltaket som det gjeld etter andre stykket bokstav (a) og (b) er dertil pant for erstatningen eller vederlaget. Når avgjerda er endeleg, skal leiaren av retten tinglysa opplysning om erstatningsskyldnaden eller vederlagsskyldnaden og panteretten. Eigaren ber tinglysingskostnaden.
