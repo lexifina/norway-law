@@ -1,0 +1,3 @@
+# § 4
+Dersom eit vitne ikkje møter etter innkalling, eller på annan måte gjer seg skuldig i handling eller forsøming som nemnt i domstollova §§ 205-207, gjeld dei nemnde reglane. Let vitnet vera å oppfylle pålegg frå retten om å ta med seg dokument eller andre ting som det har plikt til å legge fram, gjeld domstollova § 209 tilsvarande. Elles gjeld domstollova §§ 213-217 så langt desse paragrafane høver ved bruk av reglane i første og andre punktum.
+Reglane i straffeprosesslova § 115 første ledd og tvisteloven § 24-5 første alternativ, om avhenting av vitne som ikkje møter, kan ikkje brukast mot vitne så lenge det oppheld seg utanfor Norge.
