@@ -1,0 +1,3 @@
+# § 12
+Jernbanens ansvar kan settes ned eller falle bort i medhold av skadeserstatningsloven § 5-1 når skadelidte har medvirket til skaden. Dette gjelder likevel ikke dersom skadelidte bare kan legges lite til last.
+Dersom det godtgjøres at en uavvendelig naturhending, sabotasjehandling, krigshandling eller liknende handling under væpnet konflikt eller opprør i betydelig grad har bidratt til skaden eller dennes omfang under forhold som er utenfor jernbanens kontroll, kan dennes ansvar settes ned forholdsmessig, idet man særlig legger vekt på den innflytelse jernbanen har hatt på skaden og dens omfang.
