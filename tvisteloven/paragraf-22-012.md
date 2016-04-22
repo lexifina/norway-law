@@ -1,3 +1,3 @@
 # § 22-12. Taushetsplikt og lukkede dører
-(1) Når et bevis omhandlet i dette kapittel føres med vedkommendes samtykke, skal retten pålegge de tilstedværende taushetsplikt, hvis ikke samtykket bestemmer noe annet. Har retten pålagt taushetsplikt, skjer muntlig forhandling om beviset for lukkede dører.
+(1) Når et bevis omhandlet i dette kapittel føres med vedkommendes samtykke, skal retten pålegge de tilstedeværende taushetsplikt, hvis ikke samtykket bestemmer noe annet. Har retten pålagt taushetsplikt, skjer muntlig forhandling om beviset for lukkede dører.
 (2) Blir beviset ført i henhold til pålegg fra retten, kan retten pålegge taushetsplikt og bestemme at muntlig forhandling om beviset skal skje for lukkede dører. Det samme gjelder hvor retten ikke har fritatt for bevisplikt etter § 22-5 annet ledd, § 22-8 annet ledd eller § 22-9 tredje og fjerde ledd.

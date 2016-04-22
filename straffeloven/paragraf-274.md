@@ -3,7 +3,7 @@ Grov kroppsskade straffes med fengsel inntil 10 år. Ved avgjørelsen av om krop
 a) har skjedd uten foranledning og har karakter av overfall,
 b) er begått mot en forsvarsløs person,
 c) har karakter av mishandling,
-d) er begått av flere i fellesskap, eller
-e) er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, homofile orientering eller nedsatte funksjonsevne.
+d) er begått av flere i fellesskap,
+e) er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, homofile orientering eller nedsatte funksjonsevne, eller
 f) er forøvd ved bruk av kniv eller annet særlig farlig redskap.
 Den som volder betydelig skade på en annens kropp eller helse, straffes med fengsel inntil 15 år.
