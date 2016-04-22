@@ -1,0 +1,1 @@
+# Ikraftsetjing og overgangsføresegner.

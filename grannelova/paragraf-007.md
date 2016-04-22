@@ -1,0 +1,5 @@
+# § 7
+Spørsmål om korleis eit tiltak bør setjast i verk, så det ikkje kjem i strid med denne lova, kan kvar av grannane få avgjort føreåt med granneskjøn. Vil andre enn den som set tiltaket i verk, krevja slikt skjøn, må det gjerast seinast 4 veker etter at han fekk varsel som nemnt i § 6. Kravet om skjøn kan i alle høve avvisast når det ikkje har rimeleg grunn. Når skjøn er kravt, må tiltaket ikkje setjast i verk utan serskilt samtykke av skjønet før endeleg avgjerd ligg føre i skjønssaka.
+Finn skjønet at tiltaket kjem i strid med denne lova, set det forbod mot at tiltaket vert fremja når det er fare for at iverksettinga kjem til å valda alvorleg skade på annan manns eigedom. Endå om det ikkje er slik fare, skal det setjast forbod som nemnt, dersom det er klårt at tiltaket kjem i strid med lova.
+Skjønet kan taka avgjerd om førehandstrygd for ansvar etter § 9. Likeins kan det taka avgjerd om føregjerder etter § 5 og om skyldnad for partane etter § 13.
+Granneskjønn kan ikkje krevjast når tiltaket har slik oreigningsrett som nemnt i § 10 første stykket bokstav (b).
