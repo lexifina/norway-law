@@ -1,0 +1,4 @@
+# § 2
+Den som innkalles til avhør, plikter å møte for kommisjonen og avgi forklaring. Forklaringen avgis for lukkede dører. Tvisteloven §§ 22-1 til 22-11 og 24-4 gjelder tilsvarende. Kommisjonen kan kreve at den som avgir forklaring, avlegger forsikring som nevnt i tvisteloven § 24-8 fjerde ledd. Tvisteloven §§ 24-8 første til tredje ledd, 24-10 annet ledd og 25-5 fjerde ledd gjelder tilsvarende. Etter anmodning fra den som avgir forklaring, kan kommisjonen beslutte at vedkommendes identitet ikke skal gjøres kjent.
+Kommisjonen kan kreve at den som besitter et skriftlig bevis, fremlegger det for kommisjonen. Kommisjonen kan ikke kreve fremlagt de deler av et dokument som inneholder noe som besitteren ville være utelukket fra eller fritatt for å avgi forklaring om.
+Annet ledd gjelder tilsvarende for plikten til å fremlegge eller gi adgang til andre ting som kommisjonen beslutter å undersøke.

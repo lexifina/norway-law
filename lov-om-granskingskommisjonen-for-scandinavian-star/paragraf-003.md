@@ -1,0 +1,3 @@
+# § 3
+Etter at vedkommende er gitt adgang til å uttale seg, kan kommisjonen gi pålegg etter § 2 ved kjennelse, jf. tvisteloven § 19-1 annet ledd bokstav d. Kjennelsen kan ankes til Høyesteretts ankeutvalg, jf. tvisteloven § 30-1 annet ledd. Tvisteloven § 30-9 gjelder tilsvarende.
+Når en person ved rettskraftig kjennelse er gitt et pålegg etter § 2, gjelder tvisteloven §§ 24-5 og 26-8 tilsvarende. Etter at vedkommende er gitt adgang til å uttale seg, kan kommisjonen ilegge den som ikke etterkommer et rettskraftig pålegg, rettergangsstraff eller erstatningsplikt etter domstolloven §§ 205, 206, 207 og 209. Kommisjonens avgjørelse kan ankes til Høyesteretts ankeutvalg, jf. første ledd annet og tredje punktum.
