@@ -1,0 +1,6 @@
+# § 3. Lagringsanlegg på terminaler
+1) Lagringsanlegg skal konstrueres og drives i samsvar med bestemmelsene i vedlegg I. Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan opprettholde eller pålegge strengere tiltak der det på grunn av spesielle forhold er nødvendig med slike tiltak for å beskytte menneskers helse, miljøet eller forebygge fare for brann eller eksplosjon. Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan etter søknad godkjenne andre tekniske tiltak for reduksjon av bensindamp enn de som er fastsatt i vedlegg I. Det må da godtgjøres at slike tiltak er egnet til å redusere det samlede årlige tap av bensin i forbindelse med lasting og lagring ved hvert enkelt lagringsanlegg på terminaler til maksimalt 0,01 vektprosent av gjennomstrømningsmengden. Søknad om godkjenning sendes Miljødirektoratet.
+2) Bestemmelsene i nr. 1 får anvendelse
+a) straks for nye anlegg og eksisterende anlegg der gjennomstrømningsmengden som overføres på en terminal er større enn 50.000 tonn per år,
+b) innen 31. desember 2001 for eksisterende anlegg der gjennomstrømningsmengden som overføres på en terminal er større enn 25.000 tonn per år,
+c) innen 31. desember 2004 for øvrige eksisterende lagringsanlegg på terminaler.
