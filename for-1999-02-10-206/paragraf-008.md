@@ -1,0 +1,2 @@
+# § 8. Unntak
+I særlige tilfeller og forutsatt at det ikke strider mot Rådsdirektiv 94/63/EF eller internasjonale avtaler som Norge har inngått, kan Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger og Direktoratet for samfunnssikkerhet og beredskap eller den Justis- og politidepartementet bemyndiger gjøre unntak fra bestemmelsene i forskriften innenfor sine ansvarsområder. Søknad om unntak skal sendes Miljødirektoratet.
