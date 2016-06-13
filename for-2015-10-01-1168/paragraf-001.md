@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av EØS-forordning
+EØS-avtalen vedlegg XIII nr. 66 (forordning (EU) nr. 598/2014 om fastsettelse av bestemmelser og prosedyrer for innføring av støyrelaterte driftsbegrensninger i Unionens lufthavner innenfor en balansert metode og om oppheving av direktiv 2002/30/EF – heretter kalt «støyforordningen») gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
