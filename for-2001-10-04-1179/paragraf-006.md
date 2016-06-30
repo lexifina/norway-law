@@ -1,0 +1,2 @@
+# § 6
+Denne forskrift trer i kraft straks for de bestemmelser som gjelder stater som inngår i Det europeiske økonomiske samarbeidsområdet (EØS), samtidig oppheves forskrift av 28. februar 1997 nr. 236 om tilbakelevering av kulturgjenstander som er fjernet ulovlig fra territoriet til en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS) og som befinner seg i Norge. De bestemmelser som gjelder stater som er part i Unidroit-konvensjonen trer i kraft samtidig som konvensjonen trer i kraft for Norge.
