@@ -3,3 +3,4 @@ Med fengsel inntil 6 år straffes den som skaffer seg eller en annen seksuell om
 a) misbruk av stilling, avhengighetsforhold eller tillitsforhold, eller
 b) å utnytte noens psykiske lidelse eller psykiske utviklingshemming dersom forholdet ikke rammes av § 291, eller
 c) å utnytte en person under 18 år i en særlig sårbar livssituasjon.
+På samme måte straffes den som ved forhold som nevnt i første ledd bokstav a til c får noen til å ha seksuell omgang med hverandre.
