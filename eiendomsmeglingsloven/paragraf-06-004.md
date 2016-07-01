@@ -9,7 +9,7 @@
 7) oppdragets varighet og hva som gjelder om oppsigelse av oppdraget,
 8) oppdragstakerens eventuelle rett til vederlag for handel sluttet gjennom andre eller uten mellommann og i så fall de nærmere betingelser for denne retten,
 9) om andre oppdragstakere de siste tre måneder har arbeidet med det samme oppdraget,
-10) retten til å kreve nemndsbehandling etter § 8-8, og
+10) adgangen til å benytte utenrettslige tvisteløsningsordninger,
 11) hvem som er ansvarlig megler for oppdraget og eventuelle eiendomsmeglerfullmektiger som skal arbeide med oppdraget.
 (2) Dersom det skal benyttes kontraktsmedhjelper som nevnt i § 3-5, skal dennes navn, adresse og organisasjonsnummer opplyses.
 (3) Avtalen skal undertegnes av oppdragsgiveren og ansvarlig megler for oppdraget.
