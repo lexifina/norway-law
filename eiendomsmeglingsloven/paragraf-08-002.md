@@ -7,7 +7,7 @@
 5) har latt være å etterkomme pålegg gitt av Finanstilsynet,
 6) grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter,
 7) har gjort seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av eiendomsmeglingsvirksomheten kan være til skade for allmenne interesser, eller
-8) ikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til nemndsordning som nevnt i § 8-8.
+8) ikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.
 (2) Finanstilsynet kan kalle tilbake tillatelsen til en filial, jf. § 2-2, dersom
 1) filialen ikke lenger oppfyller vilkårene i § 2-5 annet ledd eller § 2-9 annet ledd annet punktum, eller
 2) ett eller flere av vilkårene i første ledd nr. 5-7 er oppfylt for filialens vedkommende.
