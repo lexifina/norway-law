@@ -1,0 +1,4 @@
+# § 6. Vilkår
+Dersom innehaver av tillatelse får endret tillatelsens avgrensning etter denne forskriften, jf. § 7, gjelder den nye avgrensningen fra vedtakstidspunktet, likevel tidligst 1. august 2016 og frem til 31. desember 2019. Dette er likevel ikke til hinder for at kapasiteten kan endres i eller i medhold av akvakulturloven.
+Innehaver av tillatelse kan frem til 1. september 2018 når som helst melde fra til Fiskeridirektoratet om at innehaveren ønsker at tillatelsen tilbakeføres til avgrensningen denne hadde på vedtakstidspunktet, jf. § 7. Ved slik melding refunderes ikke innbetalt vederlag, og tillatelsen kan ikke igjen meldes inn prøveordningen.
+Eventuelle endringer i tillatelsens avgrensing i perioden frem til 31. desember 2019 videreføres etter denne dato med utgangspunkt i tillatelsens pålydende avgrensning på vedtakstidspunktet, jf. § 7.
