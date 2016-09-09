@@ -1,0 +1,2 @@
+# § 3. Økonomiske reaksjoner
+EFTAs overvåkingsorgan og EFTA-domstolen kan ilegge foretak, sammenslutninger av foretak eller fysiske personer økonomiske reaksjoner for forsettlig eller uaktsom overtredelse av rettsakten omhandlet i EØS-avtalen vedlegg XIII kapittel VI punkt 63 om regler for bruk av edb-baserte reservasjonssystemer, samt vedtak fattet i medhold av bestemmelsene i den nevnte rettsakten.
