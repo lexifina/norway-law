@@ -1,0 +1,2 @@
+# § 19. Pyrotekniske artikler til forskning, utvikling og testing
+Pyrotekniske artikler til forskning, utvikling og testing kan gjøres tilgjengelig på markedet og brukes selv om de ikke er i samsvar med forskriften, såfremt det ved synlig skilting går klart frem at de aktuelle pyrotekniske artiklene ikke er i samsvar med forskriften og at de ikke kan erverves til andre formål enn forskning, utvikling og testing.

@@ -1,0 +1,3 @@
+# § 7. Produsentens plikter ved manglende samsvar
+Produsent som finner eller har grunn til å tro at en pyroteknisk artikkel han har brakt i omsetning, ikke er i samsvar med denne forskriften, skal umiddelbart treffe de nødvendige korrigerende tiltak for å bringe den pyrotekniske artikkelen i samsvar med denne forskriften eller om nødvendig trekke den tilbake eller tilbakekalle den.
+Dersom den pyrotekniske artikkelen utgjør en risiko, skal produsenten dessuten umiddelbart underrette tilsynsmyndigheten om dette og gi nærmere opplysninger særlig om den pyrotekniske artikkelens manglende samsvar og eventuelle korrigerende tiltak som er truffet.
