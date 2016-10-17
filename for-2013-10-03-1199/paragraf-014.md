@@ -1,0 +1,2 @@
+# § 14. Plikt for markedsdeltakere til å samarbeide med tilsynsmyndigheten
+Markedsdeltakere skal på begrunnet anmodning fra tilsynsmyndigheten gi denne all informasjon og dokumentasjon som er nødvendig for å påvise den pyrotekniske artikkelens samsvar, på et skandinavisk språk eller engelsk. Markedsdeltakere skal samarbeide med tilsynsmyndigheten om eventuelle tiltak som treffes for å fjerne risikoene forbundet med pyrotekniske artikler de har brakt i omsetning eller gjort tilgjengelige på markedet.

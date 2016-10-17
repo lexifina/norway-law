@@ -1,0 +1,3 @@
+# § 18. Pyrotekniske artikler til messer, utstillinger eller demonstrasjoner
+Pyrotekniske artikler kan fremvises og brukes på messer, utstillinger eller demonstrasjoner selv om de ikke er i samsvar med forskriften, såfremt det ved synlig skilting, hvor den aktuelle messes, utstillings eller demonstrasjons navn og dato er angitt, klart fremgår at de aktuelle pyrotekniske artiklene ikke er i samsvar med forskriften og at de ikke kan omsettes før de er brakt i samsvar med forskriften.
+Ved slike arrangementer som nevnt i første ledd skal det treffes tilstrekkelige tiltak for å ivareta sikkerheten.

@@ -1,0 +1,4 @@
+# § 11. Distributørens plikter knyttet til tekniske krav, merking og dokumentasjon
+Når en distributør gjør en pyroteknisk artikkel tilgjengelig på markedet, skal han utvise behørig aktsomhet med hensyn til kravene i denne forskriften.
+Før distributøren gjør en pyroteknisk artikkel tilgjengelig på markedet, skal han kontrollere at den er CE-merket, at den følges av de nødvendige dokumentene og av instruksjoner og sikkerhetsinformasjon på norsk samt at produsenten og importøren har oppfylt kravene i § 20 eller § 21 og § 8 tredje ledd.
+Distributøren er underlagt de samme forpliktelsene som produsenten, dersom han bringer i omsetning pyrotekniske artikler under sitt navn eller varemerke, eller gjør endringer i slike artikler, som er brakt i omsetning, på en slik måte at etterlevelsen av denne forskriften krav kan bli berørt.
