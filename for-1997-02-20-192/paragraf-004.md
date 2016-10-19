@@ -1,0 +1,3 @@
+# § 4. Inntaksvann til virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk
+Virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk skal normalt ikke ta inn sjøvann, eller ferskvann fra kilde som har oppgang av anadrom fisk. Dersom slikt vann tas inn, skal det desinfiseres slik at faren for inntak av smittestoff til anlegget reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.
+Mattilsynet kan bestemme at også andre akvakulturanlegg skal desinfisere inntaksvannet slik at faren for inntak av smittestoff til anlegget reduseres.
