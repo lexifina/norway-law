@@ -1,0 +1,2 @@
+# § 15. Tiltak i virksomheter der det påvises salmonella i partier som kommer fra bedrifter som ikke deltar i overvåknings- og kontrollprogrammet
+Dersom salmonella blir påvist i et parti, kan partiet enten brukes til humant konsum etter behandling som sikrer fjerning av salmonella eller behandles i samsvar med forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum. Dersom partiet er under løpende produksjon, skal det settes i verk tiltak i henhold til § 13 i denne forskrift.

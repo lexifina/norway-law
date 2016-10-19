@@ -1,0 +1,4 @@
+# § 7. Prøveuttak i slakterier
+I slakterier skal det tas prøver av slakt fra gris, storfe og småfe ved overflatesvabring. I den løpende overvåkning skal det også tas prøver av lymfeknuter i ileocaecal-regionen fra slakt av gris og storfe. Prøvene skal tas ut i henhold til nærmere bestemmelser som gis av Mattilsynet med bakgrunn i overvåknings- og kontrollprogrammet.
+Antall slakt som det skal tas svaberprøve fra, skal på landsbasis minst være tilstrekkelig til å påvise en frekvens av infiserte slakt for hver av de nevnte dyrearter, på 0,1% med et konfidensnivå på 95%. Mattilsynet skal for hvert år, på grunnlag av overvåknings- og kontrollprogrammet beregne det antall prøver som skal tas på hvert enkelt slakteri og angi nærmere tidsplan for prøvetakingen.
+I hvert slakteri skal det tas prøver av lymfeknuter fra like mange slakt av gris og storfe som det tas svaberprøver fra.
