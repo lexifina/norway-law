@@ -1,0 +1,8 @@
+# § 7. Vilkår
+Løyve nemnd i § 6 siste ledd får følgjande vilkår, dersom fylkeskommunen gjer positivt vedtak etter § 8 andre ledd:
+a) Det skal heile tida vere færre enn 0,2 vaksne holus av lakselus (Lepeophtheirus salmonis) i gjennomsnitt per fisk.
+b) Forskrift 5. desember 2012 nr. 1140 om bekjempelse av lakselus i akvakulturanlegg gjeld, med unnatak for § 6 andre ledd siste punktum, då teljing av lakselus skal gjennomførast i samsvar med vedlegg 1 til denne forskrifta.
+c) Grensa i bokstav a skal haldast ved bruk av maksimalt 2 medikamentelle behandlingar mot lakselus per produksjonssyklus.
+Krava i bokstavane a) til c) gjeld på alle lokalitetar som er knytt til løyve som har fått auka MTB etter denne forskrifta. Grensa gjeld fram til lokaliteten blir lagd brakk etter avslutta produksjonssyklus, sjølv om løyve som har fått auka MTB etter denne forskrifta ikkje lenger er knytt til lokaliteten.
+Nye vilkår til løyve etter denne forskrifta vil falle inn under vesentlege endringar i akvakulturdriftsforskrifta § 40 siste ledd, og krav til søknad om endring av driftsplan. Samdrift eller samlokalisering er ikkje tillate med mindre alle løyve knytte til lokaliteten er utvida etter denne forskrifta, eller Fiskeridirektoratet etter søknad gir løyve til slik drift på dei vilkåra som følgjer av denne føresegna. Ved brot på vilkåra er alle innehavarar av løyve på lokaliteten solidarisk ansvarleg.
+Løyve som har fått auka MTB etter denne forskrifta kan inngå i ein selskaps- eller konsernbiomasse etter forskrift om drift av akvakultur § 47, § 48, § 48a og § 48b. Vilkåra etter denne føresegna gjeld berre på lokalitetar knytte til løyve som har fått auka MTB etter denne forskrifta.

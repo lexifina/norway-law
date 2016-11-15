@@ -1,0 +1,2 @@
+# § 2. Verkeområde
+Forskrifta gjeld høve til å auke maksimalt tillaten biomasse for løyve til matfisk av laks, aure og regnbogeaure i sjøvatn med 5 % av den maksimalt tillatne biomassen mot vederlag. Høve til auke gjeld ikkje løyve til matfisk av laks, aure og regnbogeaure i sjøvatn til særlege formål, jf. kap. 5 i forskrift 22. desember 2004 nr. 1798 om tillatelse til akvakultur av laks, ørret og regnbueørret.
