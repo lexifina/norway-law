@@ -1,0 +1,3 @@
+# § 72 a. (administrativt beslag)
+Når noe antas å være innført, utført, omsatt eller satt ut i miljøet i strid med bestemmelser i medhold av § 26 eller i kapittel IV, kan myndigheten etter loven foreta beslag. Beslag kan skje selv om lovovertrederen ikke har handlet forsettlig eller uaktsomt. Beslag foretas overfor lovovertrederen, den han har handlet på vegne av eller overfor eier. Beslagets varighet skal ikke overstige seks måneder. Fristen løper fra tidspunktet for faktisk beslag. Skriftlig avgjørelse om beslag er tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.
+Kongen kan gi forskrift med nærmere regler om fastsettelse og gjennomføring av beslag.
