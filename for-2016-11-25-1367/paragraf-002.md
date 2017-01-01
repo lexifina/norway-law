@@ -1,0 +1,3 @@
+# § 2. Krav om samtykke ved andres tilgang til og utnyttelse av tradisjonell kunnskap knyttet til genetisk materiale
+Andres tilgang til og utnyttelse av tradisjonell kunnskap knyttet til genetisk materiale som er unik eller særpreget for et urfolk eller lokalsamfunn eller som gjelder urfolkets eller lokalsamfunnets tradisjonelle levemåte, krever samtykke fra en representant eller et beslutningsorgan med rett til å representere og forplikte urfolket eller lokalsamfunnet. Kravet om samtykke omfatter også tilgang til og utnyttelse av kunnskap fra kilder som kun har til hensikt å identifisere eller kartlegge tradisjonell kunnskap.
+Kravet om samtykke gjelder ikke for personer som tilhører urfolket eller lokalsamfunnet som har utviklet, brukt, overført og bevart kunnskapen.
