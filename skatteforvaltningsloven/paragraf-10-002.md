@@ -1,0 +1,11 @@
+# § 10-2. Kontrollopplysninger fra tredjepart
+(1) Enhver tredjepart plikter etter krav fra skattemyndighetene å gi opplysninger som kan ha betydning for noens skatteplikt.
+(2) Advokater og andre tredjeparter plikter, uten hinder av lovbestemt taushetsplikt, etter krav fra skattemyndighetene å gi opplysninger om pengeoverføringer, innskudd og gjeld, herunder hvem som er parter i overføringene, på deres konti tilhørende skattepliktig.
+(3) Innhenting av opplysninger for målretting av kontroller kan bare foretas når det foreligger særlig grunn.
+(4) I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger i følgende tilfeller:
+a) Den som lar utføre arbeid på bygg eller anlegg, plikter etter krav fra skattemyndighetene å gi opplysninger om hvem som har levert materialer mv. og hvem som for egen regning har medvirket til arbeidet. Det skal gis opplysninger om varelevering og -kjøp, tjenester, vederlag og andre forhold som knytter seg til det enkelte mellomværendet og oppgjøret for dette.
+b) Enhver skyldner eller fordringshaver plikter etter krav fra skattemyndighetene å gi opplysninger om tilgodehavende og gjeld som navngitt person, bo, selskap eller innretning har, og om renter, provisjoner mv. som knytter seg til fordringen eller gjelden.
+c) Den som ved leie eller på annen måte stiller fast eiendom helt eller delvis til rådighet for noen, eller bestyrer forretninger for noen, plikter etter krav fra skattemyndighetene å gi de opplysninger om forholdet som har betydning for spørsmålet om vedkommende er skattepliktig til kommunen og for omfanget av skatteplikten.
+d) Den som har utbetalt eller ytet lønn eller annen godtgjøring for arbeid, plikter etter krav fra skattemyndighetene å gi opplysninger om alt som i siste skattleggingsperiode er ytet til den enkelte mottaker.
+e) Oppdragsgiver plikter etter krav fra skattemyndighetene å gi opplysninger om de mellommenn vedkommende har gitt oppdrag, og om størrelsen på vederlag som omfattes av oppdraget gjennom et nærmere angitt tidsrom.
+(5) Skattemyndighetene kan kreve at tredjepart dokumenterer opplysningene ved for eksempel å gi innsyn i, legge fram, sammenstille, utlevere eller sende inn regnskapsmateriale med bilag, kontrakter, korrespondanse, styreprotokoller, elektroniske programmer og programsystemer.

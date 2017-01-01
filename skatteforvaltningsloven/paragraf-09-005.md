@@ -1,0 +1,3 @@
+# § 9-5. Trekkpliktiges adgang til å endre fastsatt skatt på utbytte til utenlandske aksjonærer
+(1) Trekkpliktig aksjeselskap, allmennaksjeselskap samt likestilt selskap og sammenslutning kan endre fastsettingen av skatt som nevnt i skatteloven § 10-13, ved levering av melding med endringer i melding etter § 8-8. Endringsmeldingen må være kommet fram til skattemyndighetene innen tre måneder etter leveringsfristen for meldingen om trekk, men likevel senest 31. desember i året da utbyttet ble utbetalt eller det tidligere tidspunktet da det oppsto adgang for aksjonæren til å få utbyttet utbetalt.
+(2) Departementet kan gi forskrift om innholdet i endringsmeldingen, herunder krav til dokumentasjon.

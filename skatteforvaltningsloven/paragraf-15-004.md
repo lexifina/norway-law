@@ -1,0 +1,4 @@
+# § 15-4. Søksmålsfrist
+(1) Søksmål som gjelder enkeltvedtak om skattefastsetting, må reises innen seks måneder etter at vedtaket ble sendt den skattepliktige. Det kan gis oppfriskning for oversittelse av fristen etter reglene i tvisteloven §§ 16-12 til 16-14.
+(2) Søksmålsfristen avbrytes dersom det omtvistede spørsmålet klages inn for Stortingets ombudsmann for forvaltningen. Ny søksmålsfrist på seks måneder løper fra ombudsmannens melding om avsluttet behandling er kommet fram til den skattepliktige, eller fra den skattepliktige blir varslet om myndighetenes svar på ombudsmannens anmodning om fornyet behandling. Søksmålsfristen etter første ledd avbrytes likevel ikke dersom klagen ikke fører til realitetsavgjørelse hos ombudsmannen og dette skyldes forsettlig forhold fra den skattepliktiges side.
+(3) Hvor lenge det er adgang til å gå til søksmål om prøving av andre avgjørelser enn vedtak etter første ledd, følger av reglene i tvisteloven § 1-3.

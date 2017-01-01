@@ -1,0 +1,3 @@
+# § 15-5. Adgang til å stille vilkår for å reise søksmål
+(1) Det forvaltningsorganet som har truffet enkeltvedtak i medhold av denne loven, kan bestemme at søksmål om gyldigheten av vedtaket ikke skal kunne reises uten at adgangen til å klage over vedtaket er benyttet, og at klagen er avgjort av den høyeste klageinstansen som står åpen.
+(2) Søksmål skal i alle tilfeller kunne reises når det har gått ett år fra klage første gang ble framsatt, og det ikke skyldes forsømmelse fra klagerens side at klageinstansens avgjørelse ikke foreligger. Forutsatt at klagen ble fremmet innen klagefristen, utløper søksmålsfristen etter § 15-4 ikke før klageinstansen har truffet avgjørelse i saken.

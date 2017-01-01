@@ -1,0 +1,2 @@
+# § 12-9. Fordeling av kompetanse mellom Oljeskattekontoret og andre skattemyndigheter
+Oljeskattekontoret avgjør med bindende virkning for andre skattemyndigheter enn Klagenemnda for petroleumsskatt hvilke inntekts- og formuesposter som omfattes av petroleumsskatteloven § 5 første ledd, og hva som skal anses som skattepliktig inntekt og fradragsberettiget kostnad for finansielle poster som nevnt i petroleumsskatteloven § 3 d annet til syvende ledd.

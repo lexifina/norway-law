@@ -1,0 +1,4 @@
+# § 13-4. Klagefrist. Oppreisning for oversittelse av klagefristen.
+(1) Klagefristen er seks uker.
+(2) Dersom klageren er avhengig av å få opplysninger fra skattemyndighetene for å klage, kan klageren levere klage innen seks uker etter at skattemyndighetene har sendt de nødvendige opplysningene. Første gang en bolig verdsettes etter eigedomsskattelova § 8 C, er fristen for å klage over vedtak som får betydning for eiendomsskatten, seks uker fra skatteseddelen mottas fra kommunen.
+(3) Selv om klagefristen er oversittet, kan skattemyndighetene ta klagen under behandling dersom det er grunn til det under hensyn til blant annet klagerens forhold, den tid som er gått, spørsmålets betydning og sakens opplysning. Klagen kan ikke tas under behandling som klagesak dersom det er gått mer enn ett år siden vedtaket ble truffet.

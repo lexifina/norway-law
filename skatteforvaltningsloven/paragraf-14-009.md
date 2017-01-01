@@ -1,0 +1,2 @@
+# § 14-9. Veiledning om taushetsrett mv.
+I sak om tilleggsskatt eller overtredelsesgebyr skal skattemyndighetene, så langt det er nødvendig for at en part kan ivareta sine interesser i saken, veilede skattepliktig og tredjepart om rekkevidden av retten til ikke å svare på spørsmål eller utlevere dokumenter eller gjenstander når svaret eller utleveringen kan utsette vedkommende for tilleggsskatt, overtredelsesgebyr eller straff.

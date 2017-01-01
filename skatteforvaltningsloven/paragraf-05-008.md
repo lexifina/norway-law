@@ -1,0 +1,3 @@
+# § 5-8. Melding om enkeltvedtak
+(1) Skattemyndighetene skal melde fra om enkeltvedtak til den vedtaket retter seg mot.
+(2) I meldingen skal det gis opplysninger om eventuell klageadgang, klagefrist, klageinstans og framgangsmåten ved klage, om retten etter § 5-4 til å se sakens dokumenter og om eventuell søksmålsfrist. Ved endring av tidligere vedtak skal det opplyses om retten til å kreve dekning for sakskostnader etter § 5-9, med mindre det er usannsynlig at den vedtaket retter seg mot, har hatt vesentlige sakskostnader, eller det må antas at vedkommende kjenner retten. Er det etter § 15-5 stilt vilkår for å reise søksmål, skal det opplyses om dette.

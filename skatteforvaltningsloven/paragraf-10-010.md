@@ -1,0 +1,2 @@
+# § 10-10. Hvem pliktene påhviler i selskap mv.
+I enkeltpersonforetak påhviler pliktene etter dette kapitlet innehaveren. I selskap, samvirkeforetak, forening, institusjon eller innretning påhviler pliktene den daglige lederen av virksomheten, eller styrelederen dersom virksomheten ikke har daglig leder. For person bosatt i utlandet eller selskap eller innretning hjemmehørende i utlandet påhviler pliktene personens, selskapets eller innretningens norske representant.

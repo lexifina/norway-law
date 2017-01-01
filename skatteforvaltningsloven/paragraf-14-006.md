@@ -1,0 +1,5 @@
+# § 14-6. Skjerpet tilleggsskatt
+(1) Skjerpet tilleggsskatt ilegges skattepliktig og trekkpliktig som nevnt i § 8-8 første og annet ledd, som forsettlig eller grovt uaktsomt gir skattemyndighetene uriktig eller ufullstendig opplysning, eller unnlater å gi pliktig opplysning, når vedkommende forstår eller bør forstå at det kan føre til skattemessige fordeler. Skjerpet tilleggsskatt kan bare ilegges i tillegg til tilleggsskatt etter § 14-3. § 14-4 første ledd gjelder tilsvarende.
+(2) Skjerpet tilleggsskatt skal fastsettes i et eget vedtak samtidig med eller etter fastsetting av tilleggsskatt etter § 14-3. § 14-3 tredje ledd annet punktum gjelder tilsvarende.
+(3) Skjerpet tilleggsskatt beregnes med 20 eller 40 prosent av den skatten som er eller kunne vært unndratt. § 14-5 annet til femte ledd gjelder tilsvarende.
+(4) Skal skattepliktig for samme år svare skjerpet tilleggsskatt etter forskjellige satser, fordeles den skatten som skjerpet tilleggsskatt skal beregnes av, forholdsmessig etter størrelsen på den formuen eller inntekten som de ulike satsene skal anvendes på.

@@ -1,0 +1,5 @@
+# § 8-9. Selskapsmelding mv. for selskap med deltakerfastsetting
+(1) Selskap hvor deltakerne skattlegges etter skatteloven §§ 10-40 til 10-48, skal levere selskapsmelding.
+(2) Selskapsmeldingen skal inneholde spesifikasjon av selskapets brutto formue og inntekt, fradragsposter og ellers andre opplysninger som har betydning for deltakernes skatteplikt, herunder fastsettingen av personinntekt etter skatteloven § 12-2 bokstav f og tillegg i alminnelig inntekt etter skatteloven § 10-42.
+(3) Selskapet skal også levere melding med opplysninger om hver deltaker per første dag etter utløpet av skattleggingsperioden. Det skal gis opplysninger om deltakernes selskapsandel, deres andel av overskudd eller underskudd og andre forhold som har betydning for deltakernes skatteplikt.
+(4) Departementet kan bestemme at deltakere i utenlandske selskaper, herunder deltakere i norsk-kontrollerte utenlandske selskaper mv. hjemmehørende i lavskatteland, jf. skatteloven §§ 10-60 til 10-68, alene eller i fellesskap skal levere selskapsmelding og melding om deltakernes formue og inntekt fra selskapet.

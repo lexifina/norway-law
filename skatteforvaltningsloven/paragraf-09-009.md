@@ -1,0 +1,3 @@
+# § 9-9. Betalingsnedsettelse og betalingsutsettelse mv. – lempning
+(1) Skattemyndighetene kan sette ned eller ettergi fastsatt skatt dersom det av særlige grunner knyttet til fastsettingen virker særlig urimelig å fastholde hele kravet.
+(2) Vedtak som nevnt i første ledd, kan i alminnelighet først treffes når skattefastsettingen er foretatt. I skattleggingsperioden kan det av årsaker som nevnt i første ledd, gis utsettelse med innbetaling av utskrevet forskuddsskatt og det kan samtykkes i fritak fra forskuddstrekk eller skattetrekk eller tilbakebetaling av trekk. Endelig avgjørelse om nedsettelse eller ettergivelse blir også i disse tilfellene å treffe etter at fastsettingen er foretatt.

@@ -1,0 +1,2 @@
+# § 13-8. Fordeling av kompetanse mellom Klagenemnda for petroleumsskatt og andre skattemyndigheter
+Klagenemnda for petroleumsskatt avgjør med bindende virkning for andre skattemyndigheter hvilke inntekts- og formuesposter som omfattes av petroleumsskatteloven § 5 første ledd, og hva som skal anses som skattepliktig inntekt og fradragsberettiget kostnad for finansielle poster som nevnt i petroleumsskatteloven § 3 d annet til syvende ledd.

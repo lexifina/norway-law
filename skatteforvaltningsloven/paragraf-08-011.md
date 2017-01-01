@@ -1,0 +1,16 @@
+# § 8-11. Melding og annen dokumentasjon for kontrollerte transaksjoner mv.
+(1) Selskap eller innretning som har plikt til å levere skattemelding i medhold av § 8-2 første ledd bokstav a, skal også levere melding med opplysninger om art og omfang av transaksjoner og mellomværender med nærstående selskaper eller innretninger. Tilsvarende gjelder for selskap som har plikt til å levere selskapsmelding i medhold av § 8-9 første ledd.
+(2) Selskap eller innretning som nevnt i første ledd, skal utarbeide dokumentasjon som gir grunnlag for å vurdere om priser og vilkår i deres transaksjoner og mellomværender med nærstående selskaper og innretninger samsvarer med det som ville vært fastsatt i transaksjoner og mellomværender inngått mellom uavhengige parter under sammenlignbare forhold og omstendigheter. Dokumentasjonen skal legges fram, utleveres eller sendes innen 45 dager etter krav fra skattemyndighetene, og skal oppbevares av den dokumentasjonspliktige i minst ti år etter utgangen av skattleggingsperioden.
+(3) Unntatt fra plikten til å utarbeide og levere dokumentasjon etter annet ledd er selskap eller innretning som nevnt i første ledd, som i regnskapsåret sammen med nærstående har færre enn 250 ansatte, og enten
+a) har en salgsinntekt som ikke overstiger 400 millioner kroner eller
+b) har en balansesum som ikke overstiger 350 millioner kroner.
+Selskap eller innretning som nevnt i første ledd, som har transaksjoner eller mellomværender med nærstående selskap eller innretning som er hjemmehørende i stat hvor Norge ikke kan kreve opplysninger om medkontrahentens inntekts- eller formuesforhold i medhold av folkerettslig overenskomst, skal utarbeide skriftlig dokumentasjon for slike transaksjoner og mellomværender uavhengig av beregningene i foregående punktum. Første punktum gjelder heller ikke for selskap eller innretning som har særskatteplikt etter petroleumsskatteloven.
+(4) Som nærstående etter første, annet og tredje ledd regnes
+a) selskap eller innretning som den opplysnings- eller dokumentasjonspliktige, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent
+b) person, selskap eller innretning som, direkte eller indirekte, eier eller kontrollerer den opplysnings- eller dokumentasjonspliktige med minst 50 prosent
+c) selskap eller innretning som nærstående etter bokstav b, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent
+d) nærstående person etter bokstav b sine foreldre, søsken barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre samt selskap eller innretning som disse, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent.
+(5) Opplysnings- og dokumentasjonsplikten etter første til fjerde ledd gjelder tilsvarende for disposisjoner som er gjennomført mellom
+a) selskap eller innretning som er hjemmehørende i Norge, og dets faste driftssteder i utlandet
+b) selskap eller innretning som er hjemmehørende i utlandet, og dets faste driftssteder i Norge.
+(6) Stat, fylkeskommune og kommune regnes ikke som innretning etter denne paragrafen. Selskaper og innretninger har likevel opplysnings- og dokumentasjonsplikt etter første til fjerde ledd for transaksjoner og mellomværender med en fylkeskommune eller kommune som, direkte eller indirekte, eier eller kontrollerer selskapet eller innretningen med minst 50 prosent.

@@ -1,0 +1,3 @@
+# § 10-11. Framgangsmåten ved kontroll
+(1) Den skattepliktige og andre opplysningspliktige skal gis rimelig varsel og ha rett til å være til stede og å uttale seg ved kontroll i medhold av § 10-4. Dette gjelder bare når det kan gjennomføres uten at formålet med kontrollen settes i fare.
+(2) Ved kontroll i medhold av § 10-4 skal det utarbeides rapport. Rapportens omfang og innhold skal tilpasses den kontrollen som er foretatt. Rapporten skal sendes den opplysningspliktige, med unntak av opplysninger om andre opplysningspliktige. Ved andre kontroller tilpasses kravet til dokumentasjon den kontrollen som er foretatt.

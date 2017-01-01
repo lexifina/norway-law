@@ -1,0 +1,2 @@
+# § 3-9. Overført taushetsplikt
+Hvis opplysninger gis i tilfeller som nevnt i §§ 3-2, 3-3, 3-5, 3-6 eller 3-8, til noen som ikke selv har taushetsplikt etter annen lov, eller til Finansdepartementet, gjelder taushetsplikten etter § 3-1 tilsvarende for den som får opplysningene. Den som gir opplysningene, skal samtidig gjøre oppmerksom på dette. Opplysningene kan likevel brukes til det formålet som begrunnet at de ble gitt.

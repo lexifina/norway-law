@@ -1,0 +1,2 @@
+# § 7-4. Fordringer og gjeld i selskapsforhold
+Aksjeselskap, allmennaksjeselskap samt likestilt selskap og sammenslutning som nevnt i skatteloven § 10-1, og deltakerlignet selskap, jf. skatteloven § 10-40, plikter å gi opplysninger om gjeld og rentebetalinger til personlig skattpliktig. Opplysningene spesifiseres slik at lånesaldo ved inngangen til hver kalendermåned framgår. Bestemmelsen gjelder ikke for lån knyttet til mengdegjeldsbrev og innskudd i bank.

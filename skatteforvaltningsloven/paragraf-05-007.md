@@ -1,0 +1,4 @@
+# § 5-7. Begrunnelse
+(1) Enkeltvedtak skal begrunnes. Dette gjelder likevel ikke vedtak som nevnt i § 9-2 tredje ledd.
+(2) Begrunnelsens omfang og innhold skal tilpasses vedtakets art og viktighet. I begrunnelsen skal det vises til de regler og de faktiske forhold vedtaket bygger på, med mindre dette må anses unødvendig. Er de faktiske forholdene beskrevet av den skattepliktige eller tredjeparten selv eller i et dokument som er gjort kjent for vedkommende, er en henvisning til den tidligere framstillingen tilstrekkelig. Er vedtaket i samsvar med forhåndsvarsel fra skattemyndighetene, og den skattepliktige eller tredjeparten ikke har hatt innvendinger, er en henvisning til varselet tilstrekkelig.
+(3) Begrunnelse kan unnlates i den utstrekning det ikke kan gis uten å røpe opplysning som den skattepliktige eller tredjeparten etter § 5-4 femte ledd ikke har krav på å gjøre seg kjent med.

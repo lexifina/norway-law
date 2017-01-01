@@ -1,0 +1,2 @@
+# § 10-6. Kontrollopplysninger fra tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste
+Når særlige hensyn gjør det nødvendig, og det foreligger mistanke om overtredelse av bestemmelser gitt i eller i medhold av denne loven, kan Skattedirektoratet eller den direktoratet gir fullmakt pålegge tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste å gi opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger samt elektronisk kommunikasjonsadresse.

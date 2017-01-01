@@ -1,0 +1,3 @@
+# § 3-5. Utlevering av opplysninger om petroleumsvirksomhet
+(1) Opplysninger som skattemyndighetene får om selskaper eller personer som er skattepliktige etter petroleumsskatteloven, kan uten hinder av taushetsplikt gjøres tilgjengelig for annen offentlig myndighet i den utstrekning dette er nødvendig for arbeid med å anslå framtidige skatter og avgifter fra petroleumsvirksomheten på den norske kontinentalsokkelen i forbindelse med utarbeidelse av meldinger og proposisjoner til Stortinget.
+(2) Opplysninger som skattemyndighetene får i henhold til § 8-10, kan gis til Olje- og energidepartementet uten hinder av taushetsplikten.
