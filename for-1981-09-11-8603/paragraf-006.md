@@ -1,0 +1,2 @@
+# § 6. Fullmakt til å kreve skjønn
+Når vegstyremakta skal gjere vedtak om eigedomsinngrep knytta til riksveg som skal byggjast ut av eit statleg utbyggingsselskap for veg, har utbyggingsselskapet fullmakt til å krevje skjønn. Staten ved utbyggingsselskapet er part i saka. Det same gjeld ved avtaleskjønn knytta til vegar som utbyggingsselskapet skal byggje ut. Vegstyresmaktene avgjer spørsmål om anke og om det skal krevjast overskjønn.
