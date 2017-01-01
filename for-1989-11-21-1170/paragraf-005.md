@@ -1,0 +1,2 @@
+# § 5. Plikter for bank og forvaltningsselskap for verdipapirfond
+Bank eller forvaltningsselskap for verdipapirfond plikter å påse at midler i premiefond og innskuddsfond ved uttak blir overført til den pensjonsinnretning der pensjonsordningen er etablert. Er det flere banker eller forvaltningsselskap for verdipapirfond, skal disse hver for seg påse at bestemmelsene overholdes. Hver bank eller forvaltningsselskap for verdipapirfond plikter å innhente opplysninger fra arbeidsgiver om hvorvidt det er flere banker eller forvaltningsselskaper for verdipapirfond.
