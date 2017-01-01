@@ -1,0 +1,2 @@
+# § 5. Sanksjoner
+Den som får tilgang til eller utnytter tradisjonell kunnskap i strid med § 2 og § 4, kan ved dom forbys å gjenta handlingen, herunder å utnytte kunnskapen på nærmere bestemte måter som vil representere en overtredelse. Ved overtredelse av § 4 tredje ledd kan overtrederen når det fremstår som nødvendig og rimelig også dømmes til å iverksette informasjonstiltak for å legge til rette for at allmennheten får informasjon om at kunnskap er utviklet, brukt, bevart og overført av vedkommende urfolk eller lokalsamfunn.

@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriften skal legge til rette for at urfolks og lokalsamfunns interesser ivaretas og respekteres ved andres tilgang til og utnyttelse av kunnskap knyttet til genetisk materiale som er utviklet, brukt, bevart og overført av et urfolk eller lokalsamfunn (tradisjonell kunnskap). Tradisjonell kunnskap omfatter blant annet tekniske ferdigheter, fremgangsmåter og læremetoder som er brukt, bevart og overført i fellesskap mellom generasjoner innenfor et urfolk eller lokalsamfunn.

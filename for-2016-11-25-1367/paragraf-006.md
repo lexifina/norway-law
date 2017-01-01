@@ -1,0 +1,3 @@
+# § 6. Vederlag og oppreisning ved overtredelser
+Den som forsettlig eller uaktsomt har utnyttet tradisjonell kunnskap knyttet til genetisk materiale uten samtykke etter § 2, skal betale det forurettede urfolket eller lokalsamfunnet et rimelig vederlag for utnyttelsen, samt erstatning for ytterligere tap som utnyttelsen har medført.
+Den som forsettlig eller grovt uaktsomt har overtrådt forbudet mot krenkende bruk i § 4 andre ledd, kan pålegges å betale det forurettede urfolket eller lokalsamfunnet en slik engangssum som retten finner rimelig til oppreisning for krenking eller skade av ikke-økonomisk art.
