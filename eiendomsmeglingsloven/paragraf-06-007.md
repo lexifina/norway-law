@@ -9,7 +9,7 @@
 6) bebyggelsens arealer og angivelse av alder og byggemåte,
 7) eventuell adgang til utleie av eiendommen eller deler av denne til boligformål,
 8) ferdigattest eller midlertidig brukstillatelse,
-9) ligningsverdi og offentlige avgifter,
+9) verdien ved skattefastsettingen og offentlige avgifter,
 10) forholdet til endelige offentlige planer, konsesjonsplikt og odelsrett,
 11) spesifikasjon over faste løpende kostnader,
 12) hvis kjøpesum er fastsatt, totalkostnad som omfatter andel av fellesgjeld, alle gebyrer, avgifter og øvrige kostnader,
