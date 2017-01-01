@@ -1,0 +1,35 @@
+# § 4. Byggteknisk forskrifts anvendelse
+Forskrift 26. mars 2010 nr. 489 om tekniske krav til byggverk gjelder for Longyearbyen planområde med unntak av
+- § 1-2 Forskriftens anvendelse på særskilte tiltak første og tredje ledd
+- § 7-4 Sikkerhet mot skred. Unntak for flodbølge som skyldes fjellskred
+- § 8-2 Uteareal med krav om universell utforming
+- § 8-4 Uteoppholdsareal femte ledd
+- § 8-5 Generelle krav til gangatkomst og ganglinjer andre ledd
+- § 8-6 Gangatkomst til byggverk andre, tredje og fjerde ledd
+- § 8-7 Gangatkomst til uteoppholdsareal med krav om universell utforming
+- § 8-9 Parkerings- og annen oppstillingsplass tredje og fjerde ledd
+- § 8-10 Trapp i uteareal andre ledd
+- § 9-4 Utvalgte naturtyper
+- § 9-6 Avfallsplan
+- § 9-7 Kartlegging av farlig avfall og miljøsaneringsbeskrivelse
+- § 9-8 Avfallssortering
+- § 9-9 Sluttrapport for faktisk disponering av avfall
+- § 12-1 Krav om universell utforming av byggverk
+- § 12-2 Krav om tilgjengelig boenhet
+- § 12-3 Krav om heis i byggverk andre ledd
+- § 12-4 Inngangsparti andre ledd
+- § 12-6 Kommunikasjonsvei fjerde og femte ledd
+- § 12-7 Krav til rom og annet oppholdsareal andre, tredje, fjerde og femte ledd
+- § 12-8 Entre og garderobe
+- § 12-9 Bad og toalett andre og tredje ledd
+- § 12-10 Bod og oppbevaringsplass (jf. § 2-6)
+- § 12-11 Balkong og terrasse mv. tredje ledd
+- § 12-12 Avfallssystem og kildesortering andre ledd
+- § 12-13 Badstue, kjølerom og fryserom andre ledd
+- § 12-15 Dør, port mv. andre ledd bokstav c, tredje og fjerde ledd
+- § 12-16 Trapp tredje ledd
+- § 12-17 Rekkverk femte ledd
+- § 12-20 Vindu og andre glassfelt første ledd bokstav b første punktum
+- § 12-21 Skilt, styrings- og betjeningspanel, håndtak, armaturer mv. andre ledd siste punktum og tredje ledd
+- § 13-10 Lyd- og taleoverføringsutstyr
+- § 14-8 Fjernvarme (jf. § 2-4).
