@@ -1,0 +1,2 @@
+# § 17
+Gjelder saken fullbyrding av en utenlandsk avgjørelse på frihetsstraff eller annen strafferettslig følge av frihetsberøvende karakter, kan varetektsfengsling foretas i medhold av overføringskonvensjonen art. 11 nr. 2 og art. 16 nr. 5, tilleggsprotokollen til overføringskonvensjonen art. 2 nr. 2, gyldighetskonvensjonen art. 13 og art. 32 eller avtale som nevnt i § 12 og for øvrig i medhold av straffeprosesslovens bestemmelser. Straffeprosessloven §§ 181 og 184 jf. § 188 gjelder tilsvarende.
