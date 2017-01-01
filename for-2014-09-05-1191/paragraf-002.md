@@ -1,0 +1,3 @@
+# § 2. Krav om sikkerhetsstyringssystem (ISM)
+Den internasjonale norm for sikkerhetsstyring vedtatt ved resolusjon A.741(18) som endret ved resolusjonene MSC.104(73), MSC.179(79), MSC.195(80), MSC.273(85) og MSC.353(92) gjelder som forskrift.
+EØS-avtalen vedlegg XIII nr. 56u (forordning (EF) nr. 336/2006 som endret ved forordning (EF) nr. 540/2008) om gjennomføring av den internasjonale norm for sikkerhetsstyring (ISM) i EØS-området og om oppheving av rådsforordning (EF) nr. 3051/95 gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
