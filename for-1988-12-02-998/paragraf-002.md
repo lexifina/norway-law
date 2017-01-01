@@ -1,0 +1,5 @@
+# § 2
+Den som får redusert sin andel, skal i året for samordningen eller omfordelingen:
+(1) Redusere grunnlag for avskrivninger og grunnlag for friinntekt med de beløp som forholdsmessig tilsvarer reduksjonen i andelen.For driftsmidler som avskrives etter saldometode, jf. skatteloven § 14-40, skal reduksjonen foretas i det opprinnelige saldogrunnlag.
+(2) Redusere akkumulerte avskrivninger og akkumulert friinntekt med de beløp som tilsvarer henholdsvis det som er avskrevet for meget, og det som er gitt for meget i friinntekt i tidligere år basert på grunnlagene etter samordningen eller omfordelingen. Reduksjonene som skal gjøres etter forrige punktum skal tillegges deltagernes respektive inntektsgrunnlag.
+(3) Inntektsføre ethvert vederlag som mottas i forbindelse med samordningen eller omfordelingen i den utstrekning det overstiger den reduksjon som gjøres i grunnlaget for avskrivninger etter § 2 nr. 1. Hvis det vederlag som mottas er lavere enn den reduksjon som gjøres i grunnlaget for avskrivninger etter § 2 nr. 1, skal differansen føres til utgift.
