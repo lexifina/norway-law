@@ -1,0 +1,4 @@
+# § 2. Fakturering av avgift
+For kjøretøy som pr. 1. januar står registrert i motorvognregisteret blir avgiften fakturert av skattekontoret. Det samme gjelder for årsprøvekjennemerke. Faktura sendes eier eller bruker på papir, eller elektronisk dersom eier har tilrettelagt for dette innen 30. januar i avgiftsåret. Avgiften skal betales selv om krav ikke mottas.
+I henhold til § 6 i lov om avgifter vedrørende motorkjøretøyer og båter er eieren ansvarlig for avgiften. Med eier forstås i denne forskrift den som står registrert som eier av kjøretøyet i motorvognregisteret, eller er ny eier i henhold til gyldig salgsmelding. Det er et vilkår at slik salgsmelding er registrert innkommet til Regionvegkontoret. Registreringsdato for salgsmelding anses avgiftsmessig som dato for eierskifte. For årsprøvekjennemerker anses den som er tildelt kjennemerke som eier.
+Eierskifte etter at avgiftsplikten oppstår er uten betydning for ansvaret for betaling av avgiften.

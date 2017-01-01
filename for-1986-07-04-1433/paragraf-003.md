@@ -1,0 +1,3 @@
+# § 3. Avgiftsfastsettelse ved registrering mv. etter 1. januar
+For kjøretøy som registreres etter 1. januar og for årsprøvekjennemerke som tildeles etter samme dato, oppstår avgiftsplikten ved registreringen eller tildelingen. Det samme gjelder for kjøretøy som i løpet av året går over fra avgiftsfritt til avgiftspliktig kjøretøy. For slike kjøretøy gjelder bestemmelsene i § 2 tilsvarende.
+Dersom et avgiftspliktig kjøretøy i løpet av året endrer avgiftsgruppe til en gruppe med høyere avgiftssats, skal differansen mellom lav og høy avgift betales. Skjer endring av avgiftsgruppe i annet halvår, skal avgiften utgjøre halvparten av differansen mellom lav og høy avgift. Skattekontoret foretar etterskuddsvis beregning og utskriving av avgiften.

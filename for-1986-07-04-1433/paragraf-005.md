@@ -1,0 +1,5 @@
+# § 5. Avgiftsrefusjon/-reduksjon
+Kjøretøy som dokumenteres levert senest innen avgiftens forfall til godkjent oppsamlingsplass for bilvrak eller til bilopphuggeri for vraking/hugging, er fritatt for avgift.
+For kjøretøy som dokumenteres vraket/hugget eller levert til godkjent oppsamlingsplass for bilvrak etter avgiftens forfall, men før 1. juli, refunderes halv avgift til siste eier. For kjøretøy som ikke er vrakpantberettigede, gis refusjon etter søknad til skattekontoret.
+Halv avgift skal også beregnes for kjøretøy som registreres i annet halvår. Det samme gjelder for årsprøvekjennemerker som tildeles i annet halvår.
+For kjøretøy som stjeles i løpet av avgiftsåret og som ikke kommer til rette i løpet av 30 dager eller mer, refunderes innbetalt avgift forholdsmessig for den tiden kjøretøyet har vært stjålet. Avgift refunderes etter avgiftsårets utløp til den som var eier på tyveritidspunktet. Et kjøretøy anses stjålet fra og med dagen det meldes stjålet, til dagen det kommer til rette eventuelt utgangen av året dersom kjøretøyet ikke har kommet til rette innen da.
