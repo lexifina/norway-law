@@ -1,0 +1,2 @@
+# § 27. Tillatelse til å ta i bruk infrastruktur
+Før infrastruktur settes i drift skal Statens jernbanetilsyn gi tillatelse til å ta infrastrukturen i bruk. Dersom det senere foretas endring av infrastrukturen, herunder signalprinsipper, skal dette meldes til Statens jernbanetilsyn som vil vurdere om endringen er av en slik art at ny tillatelse til å ta i bruk infrastrukturen, eventuelt tillatelse til å ta i bruk endringen, er nødvendig.
