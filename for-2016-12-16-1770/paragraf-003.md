@@ -1,0 +1,2 @@
+# § 3. Formålet med sikkerhetsstyringssystemet
+Formålet med sikkerhetsstyringssystemet er å gjøre det lettere for rederiet å vurdere risiko og følge opp de daglige kontrollrutinene ved bruk av en systematisk fremgangsmåte. Sikkerhetsstyringssystemet skal på denne måten gi bedre oversikt i den daglige driften og ivareta sikkerhet til sjøs, hindre personskader eller tap av menneskeliv, unngå skade på miljøet, særlig havmiljøet, og på materielle verdier.

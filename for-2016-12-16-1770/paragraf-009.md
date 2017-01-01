@@ -1,0 +1,3 @@
+# § 9. Vedlikehold og kritisk utstyr
+Rederiet skal utvikle, følge opp og dokumentere et vedlikeholdssystem som er tilpasset driftsformen til skipet. Vedlikeholdssystemet skal sikre at skip og utstyr vedlikeholdes i samsvar med gjeldende krav.
+Rederiet skal sørge for å identifisere utstyr og tekniske systemer som kan forårsake farlige situasjoner i tilfelle av plutselig svikt. Sikkerhetsstyringssystemet skal omfatte tiltak for å forbedre påliteligheten til slikt utstyr eller slike systemer. Tiltakene skal som minimum omfatte regelmessig prøving av reservesystemer og -utstyr eller av tekniske systemer som ikke er i kontinuerlig drift.
