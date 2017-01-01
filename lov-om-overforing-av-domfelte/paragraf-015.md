@@ -1,0 +1,2 @@
+# § 15
+Sakene skal i første instans alltid behandles for tingrett, og uten at tiltalebeslutning utferdiges. Meddommere tilkalles bare dersom den siktede begjærer det. Bestemmelsene i første ledd gjelder likevel ikke saker som omfattes av gyldighetskonvensjonen art. 25 nr. 1 eller 26 nr. 1. Domsslutningen skal gå ut på at den utenlandske dommen eller liknende fullbyrdes ved at den siktede dømmes til en nærmere angitt straff, i samsvar med denne loven og vedkommende norske straffebud (som rammer forholdet eller ville ha rammet det om det hadde funnet sted i Norge).
