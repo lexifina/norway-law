@@ -5,7 +5,7 @@ b) til offentlig myndighet for bruk i forbindelse med håndheving av lovgivninge
 c) til offentlig myndighet for bruk til statistikkformål
 d) til offentlig myndighet når det er nødvendig for å innhente ytterligere opplysninger
 e) til offentlig oppnevnt granskningskommisjon
-f) til politi, påtalemyndighet eller skattemyndighet til bruk i straffesak. Gjelder straffesaken overtredelse av bestemmelser utenfor myndighetenes forvaltningsområde, kan opplysninger bare gis når det foreligger rimelig grunn til mistanke om overtredelse som kan medføre høyere straff enn fengsel i seks måneder. Opplysninger om brutto- og nettoinntekt, bruttoformue og gjeld kan gis til bruk under utmåling av straff eller erstatning i straffesaken.
+f) til politi eller påtalemyndighet til bruk i straffesak. Gjelder straffesaken overtredelse av bestemmelser utenfor myndighetenes forvaltningsområde, kan opplysninger bare gis når det foreligger rimelig grunn til mistanke om overtredelse som kan medføre høyere straff enn fengsel i seks måneder. Opplysninger om brutto- og nettoinntekt, bruttoformue og gjeld kan gis til bruk under utmåling av straff eller erstatning i straffesaken.
 g) til Økokrim etter anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av hvitvaskingsloven
 h) til andre ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningene
 i) til namsmyndighetene i saker om utlegg eller arrest

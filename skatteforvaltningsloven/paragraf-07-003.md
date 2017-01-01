@@ -1,21 +1,24 @@
 # § 7-3. Finansielle forhold og forsikringer
 (1) Plikt til å gi opplysninger om finansielle forhold og forsikringer har
-a) finansinstitusjoner, jf. finansieringsvirksomhetsloven § 1-3
-b) e-pengeforetak, jf. finansieringsvirksomhetsloven kapittel 4c
-c) verdipapirforetak, jf. verdipapirhandelloven § 2-3 første ledd
-d) verdipapirregistre, jf. verdipapirregisterloven § 1-3
-e) pensjonskasser, jf. forsikringsvirksomhetsloven kapittel 7
-f) forsikringsselskaper, jf. forsikringsvirksomhetsloven kapittel 1, og forsikringsselskaps eierselskap
-g) verdipapirfond og forvaltningsselskaper, jf. verdipapirfondloven § 1-2 første ledd nr. 1 og 2
-h) alternative investeringsfond og forvalter, jf. AIF-loven § 1-2 bokstav a og b
-i) innretning som primært, og som ledd i sin forretningsvirksomhet, investerer, administrerer eller forvalter finansielle aktiva eller penger for andres regning
-j) innretning hvis bruttoinntekt primært kan henføres til investering, reinvestering eller handel med finansielle aktiva, når innretningen styres, forvaltes eller på annen måte ledes av en annen innretning som omfattes av dette leddet
-k) andre som har penger til forvaltning eller driver utlånsvirksomhet eller låneformidling som næring, samt andre som tar del i forvaltningen eller omsetningen av finansielle instrumenter eller andre finansielle produkter for andres regning som ledd i sin forretningsvirksomhet.
+a) banker, jf. finansforetaksloven § 2-7
+b) kredittforetak, jf. finansforetaksloven § 2-8
+c) finansieringsforetak, jf. finansforetaksloven § 2-9
+d) e-pengeforetak, jf. finansforetaksloven § 2-11
+e) forsikringsforetak, jf. finansforetaksloven § 2-12, og forsikringsforetaks eierselskap
+f) pensjonskasser, jf. finansforetaksloven § 2-16
+g) låneformidlingsforetak, jf. finansforetaksloven § 2-18
+h) verdipapirforetak, jf. verdipapirhandelloven § 2-3 første ledd
+i) verdipapirregistre, jf. verdipapirregisterloven § 1-3
+j) verdipapirfond og forvaltningsselskaper, jf. verdipapirfondloven § 1-2 første ledd nr. 1 og 2
+k) alternative investeringsfond og forvalter, jf. AIF-loven § 1-2 bokstav a og b
+l) innretning som primært, og som ledd i sin forretningsvirksomhet, investerer, administrerer eller forvalter finansielle aktiva eller penger for andres regning
+m) innretning hvis bruttoinntekt primært kan henføres til investering, reinvestering eller handel med finansielle aktiva, når innretningen styres, forvaltes eller på annen måte ledes av en annen innretning som omfattes av dette leddet
+n) andre som har penger til forvaltning eller driver utlånsvirksomhet eller låneformidling som næring, samt andre som tar del i forvaltningen eller omsetningen av finansielle instrumenter eller andre finansielle produkter for andres regning som ledd i sin forretningsvirksomhet.
 Departementet kan gi forskrift om opplysningspliktiges registreringsplikt hos utenlandske skattemyndigheter.
 (2) Det skal blant annet gis opplysninger om
 a) innskuddskonti og lånekonti
 b) innskudd i verdipapirfond og alternative investeringsfond
-c) innskudd og andre interesser i innretninger som nevnt i første ledd bokstav i og j
+c) innskudd og andre interesser i innretninger som nevnt i første ledd bokstav l og m
 d) finansielle instrumenter og andre finansielle produkter
 e) forsikringer
 f) individuelle pensjonsavtaler

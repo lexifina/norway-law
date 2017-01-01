@@ -1,5 +1,5 @@
-# § 8-13. Levering av skattemelding mv.
-(1) Myndig person skal levere meldinger etter dette kapitlet selv eller ved fullmektig.
-(2) For skattepliktig som er mindreårig, eller som er satt under vergemål, skal vergen levere skattemelding når vergens mandat omfatter levering av slik melding. Dette gjelder ikke barn som etter skatteloven § 2-14 er selvstendig skattepliktig, og som fastsetter skattegrunnlaget selv.
-(3) For selskap og innretning skal meldinger etter dette kapitlet leveres av den som etter alminnelige selskapsrettslige regler kan forplikte selskapet, eller andre som er registrert hos skattemyndighetene med signaturfullmakt.
-(4) For bo skal skattemelding leveres av skifteforvalteren, bostyreren, testamentfullbyrderen eller de selvskiftende arvinger.
+# § 8-13. Melding om registrering for merverdiavgift og særavgifter
+(1) Den som skal registreres for merverdiavgift eller særavgifter, skal levere melding om registrering med opplysninger om virksomheten, dokumentasjon for at vilkårene for registrering er oppfylt og andre opplysninger som har betydning for registreringen.
+(2) Den som er registrert for merverdiavgift eller særavgifter, skal levere melding med opplysninger om og dokumentasjon for endringer i tidligere gitte opplysninger, eller at virksomheten ikke lenger oppfyller vilkårene for å være registrert, og andre opplysninger med betydning for registreringen.
+(3) Bostyrer skal levere melding om åpning og avslutning av behandlingen av konkursboet til en registrert skattepliktig.
+(4) Tingretten skal levere melding om åpning og avslutning av bobehandlingen ved offentlig skifte av dødsboet til en registrert skattepliktig hvor avdødes gjeld ikke er overtatt.

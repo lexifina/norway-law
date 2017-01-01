@@ -6,4 +6,4 @@
 a) de uriktige eller ufullstendige opplysningene har ført til en skattebesparelse som uten at det er nødvendig med nye opplysninger fra den skattepliktige, ville ha ført til en tilsvarende skattebyrde i senere perioder
 b) den skattepliktige selv har oppgitt skattegrunnlaget i senere perioder, eller unnlatt å fradragsføre kostnaden i senere perioder, før skattemyndighetene har tatt opp forholdet
 c) skattemyndighetene har tatt opp forholdet, men den skattepliktige sannsynliggjør at grunnlaget uansett ville blitt tatt med eller kostnaden unnlatt fradragsført i senere perioder.
-(5) Ilagt tvangsmulkt etter § 14-1 skal komme til fradrag i beregnet tilleggsskatt for unnlatt levering etter § 14-3 første ledd annet punktum.
+(5) Ilagt tvangsmulkt etter § 14-1 første ledd første og annet punktum skal komme til fradrag i beregnet tilleggsskatt for unnlatt levering etter § 14-3 første ledd annet punktum.

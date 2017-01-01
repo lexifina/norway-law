@@ -9,4 +9,5 @@ f) merverdiavgift etter merverdiavgiftsloven (merverdiavgift)
 g) arbeidsgiveravgift etter folketrygdloven kapittel 23 (arbeidsgiveravgift)
 h) særavgifter etter særavgiftsloven (særavgifter)
 i) avgifter etter motorkjøretøy- og båtavgiftsloven (motorkjøretøyavgifter)
-j) kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. etter merverdiavgiftskompensasjonsloven (merverdiavgiftskompensasjon).
+j) kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. etter merverdiavgiftskompensasjonsloven (merverdiavgiftskompensasjon)
+k) finansskatt på lønn etter folketrygdloven kapittel 23 (finansskatt på lønn).
