@@ -1,0 +1,53 @@
+# § 2. Plan- og bygningslovens anvendelse
+I plan- og bygningsloven gjelder følgende paragrafer for Longyearbyen planområde:
+- § 1-6 Tiltak
+- § 1-9 Forholdet til forvaltningsloven og klage
+- § 2-1 Kart og stedfestet informasjon
+- Kapittel 17 Utbyggingsavtaler
+- Kapittel 18 med unntak av § 18-7 andre ledd
+- § 19-1 Søknad om dispensasjon
+- § 19-2 Dispensasjonsvedtaket
+- § 19-3 Midlertidig dispensasjon
+- § 20-1 Tiltak som omfattes av byggesaksbestemmelsene
+- § 20-2 Søknadsplikt med unntak av henvisningene i § 20-2 første ledd til § 20-6 og § 20-7
+- § 20-3 Søknadsplikt med krav om ansvarlige foretak med unntak av henvisningene i § 20-3
+- første ledd til § 20-6 og § 20-7
+- § 20-4 Søknadspliktige tiltak som kan forestås av tiltakshaver
+- § 20-5 Tiltak som er unntatt fra søknadsplikt første ledd bokstav c til g og andre til femte ledd
+- § 20-8 Unntak fra søknadsplikt for skjermingsverdige bygg
+- Kapittel 21 Krav til innhold og behandling av søknader med unntak av § 21-3 femte ledd
+- Kapittel 22 Godkjenning av foretak for ansvarsrett
+- Kapittel 23 Ansvar i byggesaker med unntak av § 23-3b Midlertidige tjenesteytere
+- Kapittel 24 Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak
+- Kapittel 25 Tilsyn
+- Kapittel 26 Opprettelse og endring av eiendom
+- § 27-1 Vannforsyning
+- § 27-2 Avløp
+- § 27-3 Tilknytning til eksisterende private anlegg
+- § 27-4 Atkomst
+- § 28-1 Byggegrunn, miljøformål mv.
+- § 28-2 Sikringstiltak ved byggearbeid mv.
+- § 28-3 Tiltak på nabogrunn
+- § 28-5 Orden på og bruk av ubebygd areal. Sikringstiltak ved byggverk mv.
+- § 28-6 Sikring av basseng, brønn og dam
+- § 28-7 Den ubebygde del av tomta andre til femte ledd
+- § 29-1 Utforming av tiltak
+- § 29-2 Visuelle kvaliteter
+- § 29-3 Krav til universell utforming og forsvarlighet andre ledd
+- § 29-4 Bygningens plassering, høyde og avstand fra nabogrense
+- § 29-5 Tekniske krav
+- § 29-6 Tekniske installasjoner og anlegg første ledd første punktum og andre til femte ledd
+- § 29-7 Krav til produkter til byggverk
+- § 29-7a Tilsyn med produkter til byggverk
+- § 29-7b Tvangsmulkt
+- § 29-7c Overtredelsesgebyr
+- § 29-9 Heis, rulletrapp og rullende fortau første ledd første punktum og andre til syvende ledd
+- § 29-11 Forhold i strid med gitt byggetillatelse på annen eiendom
+- § 30-2 Byggverk og virksomhet som kan medføre fare eller særlig ulempe
+- § 30-3 Skilt- og reklameinnretninger
+- § 30-4 Andre varige konstruksjoner eller anlegg. Vesentlige terrenginngrep mv.
+- § 30-5 Midlertidige bygninger, konstruksjoner eller anlegg
+- § 30-6 Fritidsbebyggelse
+- Kapittel 31 Krav til eksisterende byggverk
+- Kapittel 32 Ulovlighetsoppfølging
+- Kapittel 33 Gebyr og undersøkelse på fast eiendom.
