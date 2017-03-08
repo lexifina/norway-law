@@ -1,0 +1,2 @@
+# § 1. Virkeområde og formål
+Formålet med forskrifta er å konkretisere krava til fysisk sikkerheit i krisesentertilbodet og tilsvarande butilbod. Både tilsette og brukarar skal sikrast gjennom forskrifta. Med fysisk sikkerheit i krisesentertilbodet meinast tiltak som forhindrar eller forseinkar uvedkommande å ta seg inn i lokalet. Det omfattar og tiltak innandørs på krisesenteret for å trygge brukarar og tilsette som oppheld seg i krisesenterlokalet, særleg med tanke på brukarar som kan utgjere ein risiko.

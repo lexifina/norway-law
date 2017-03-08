@@ -1,0 +1,2 @@
+# § 2. Kommunen som ansvarleg
+Kommunen har ansvar for den fysiske tryggleiken i krisesentertilbodet. Kommunen har eit særskilt ansvar for at krisesenteret og dei tilsette settast til stand til og gjevast kompetanse til å kunne kartleggje behov for og gjennomføre individuelle sikkerheitstiltak. Kommunen må sørge for ordningar som sikrar at det er tilsette tilgjengeleg heile døgnet for å ivareta den fysiske tryggleiken for brukarar av krisesenteret.
