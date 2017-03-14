@@ -1,0 +1,7 @@
+# § 5-1. Eksamensformer og tidspunkt for eksamen
+1) Eksamen vert gjennomført i henhald til dei eksamens-/vurderingsformene som er fastsett i emnebeskrivinga for det enkelte emnet.
+2) Gjennomføringsplan for eksamen vert fastsett og kunngjort av høgskulen i eigne eksamensplanar og vert gjort tilgjengeleg for studentane. Alle kandidatar er sjølve ansvarlege for å halde seg orientert om tid og stad for eksamen.
+3) Utsett eksamen vert gjennomført for studentar som hadde gyldig fråvær under eksamen. Ny eksamen/kontinuasjonseksamen vert gjennomført for studentar som ikkje har bestått eksamen. Nærare bestemmingar om mogleg tidspunkt for gjennomføring av ny eksamen/kontinuasjonseksamen, vil framgå av utfyllande reglar til eksamen/eksamensplan.
+4) Det vert normalt ikkje gjennomført ny eksamen i delar av emner, kun som avsluttande prøve i heile emnet. Unntak frå denne bestemminga framgår av utfyllande bestemmingar til eksamen.
+5) Første gong ny eksamen vert gjennomført etter ordinær eksamen, gjeld same pensum som ved ordinær eksamen. Det er studentanes eige ansvar å undersøkje kva for vurderingsgrunnlag som gjeld ved oppmelding til ny eksamen i eit emne.
+6) Det kan verte gjennomført inntil to ekstraordinære eksamenar når eit emne utgår. Siste ekstraordinære eksamen vert arrangert innan to år etter utgangen av studieåret då emnet vart undervist siste gong. Dagleg leiar kan gjere vedtak om ekstraordinær eksamen i spesielle tilfelle.

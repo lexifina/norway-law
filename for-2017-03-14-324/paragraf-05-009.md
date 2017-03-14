@@ -1,0 +1,4 @@
+# § 5-9. Fråvær frå eksamen
+1) Den som ikkje møter til eksamen eller unnlater å levere eksamensarbeid til fastsett tid utan gyldig grunn, reknast som framstilt til eksamen og registrert som «ikkje møtt».
+2) Studentar som uteblir frå eller unnlater å levere eksamen og som påberopar seg gyldig grunn, må snarast mogleg, og seinast innan 5 dagar, underrette høgskulen skriftleg om dette og vedlegge dokumentasjon. Ved eigen sjukdom, eller sjukdom i næraste familie, skal det foreligge legeerklæring. Fråvær som skyldast studentens eigne disposisjoner, skal normalt ikkje godkjennast.
+3) Godkjent fråvær reknast ikkje som eksamensforsøk i henhald til bestemmelsen i § 5- 2 i denne forskrifta og gir rett til ny eksamen. Fråvær/manglande levering som ikkje blir godkjent, teller som eksamensforsøk, og registrerast som «ikkje møtt».
