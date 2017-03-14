@@ -1,0 +1,2 @@
+# § 4-3. Heving av kontrakt/tap av studierett
+1) Høgskulen kan heve kontrakten og studenten kan permanent eller midlertidig miste studieretten på studiet han eller ho er tatt opp til når studenten: a) ikkje oppfyller forpliktingar som framgår av studiekontrakten b) ikkje oppfyller krav til progresjon som fastsett i studieplan c) har brukt opp sine forsøk til eksamen d) tross skriftleg åtvaring gjentatte gonger opptrer på ein måte som virkar grovt forstyrrande for medstudentars arbeid eller for verksemda ved institusjonen ellers, jf. universitets- og høgskuleloven § 4-8.

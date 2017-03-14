@@ -1,0 +1,3 @@
+# § 3-8. Utsett studiestart
+1) Ein studieplass kan søkjast reservert til neste ordinære opptak til studiet. Søkjarar som er gitt betinga opptak etter forskrift om opptak til høgre utdanning, § 5-1, kan ikkje søkje om reservasjon av studieplass til neste opptak.
+2) Reservasjon av studieplass kan innvilgast dersom det etter søknadsfristen oppstår tungtvegande forhold som gjer at søkjaren ikkje kan nytte studieplassen. Godkjente grunnar kan vere sjukdom, fødsel, omsorgsansvar eller innkalling til førstegangsteneste. Andre tungtvegande grunner kan også gi grunnlag for å innvilge søknaden. Arbeid, utdanning eller ferie gir ikkje grunnlag for reservert studieplass.

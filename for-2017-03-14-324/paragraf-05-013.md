@@ -1,0 +1,4 @@
+# § 5-13. Klage over formelle feil ved eksamen
+1) Den som har vore oppe til eksamen eller deleksamen, kan klage over formelle feil som kan ha hatt betydning for bedømminga av ein eller fleire av kandidatenes prestasjonar. Begrunna klage må framsettast innan tre veker etter at kandidaten blir kjent med, eller burde vere kjent med det forhold som er grunn til klagen.
+2) Finn styret eller klagenemnda at det er begått feil som kan ha hatt tyding for ein eller fleire av kandidatanes prestasjon eller bedømming av denne, kan det bestemmast at det skal foretas ny sensur enten berre for klagaren eller for alle kandidatar ved gjeldande eksamen, eller at eksamen vert annullert og ny eksamen avhaldt.
+3) Karakterfastsetting ved ny sensurering etter denne paragraf kan påklagast etter reglane i § 5-12 nr. 4 i denne forskrifta.
