@@ -1,0 +1,3 @@
+# § 17. Fôr og vann
+Fôrmengden og fôringen skal være tilstrekkelig og slik sammensatt at den dekker dyras behov under alle forhold. Fôret skal gi metthetsfølelse.
+Det skal være tilstrekkelig med ete- og drikkeplasser. Alle dyra skal ha lett tilgang til vann og fôr. Dersom ikke dyra har fri tilgang på fôr, skal det være stor nok troplass til at alle dyra kan ete samtidig. Dyra skal ha fri tilgang på drikkevann av god kvalitet. Alle dyr skal ha adgang til minst to drikkesteder. Drikkeniplene skal være konstruert og vedlikeholdt slik at det blir minst mulig spill av vann. Ved mottak og innsett skal det sørges for at dyra finner frem til fôr og vann.

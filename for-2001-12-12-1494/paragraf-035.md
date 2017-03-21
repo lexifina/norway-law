@@ -1,0 +1,5 @@
+# § 35. Klima, lys, fôr og vann
+I rom for oppdrett av slaktekylling skal det om nødvendig være et varme- og ventilasjonssystem som kan fjerne overflødig luftfuktighet. Det skal være kapasitet til minst 4 m3 luftskifte/kg levendevekt/time for slaktekylling ved tetthet t.o.m. 33 kg/m2. Ved tetthet over 33 kg/m2 gjelder i tillegg kravene i vedlegg 2.
+Innen syv dager fra kyllingene er plassert i bygningen og fram til tre dager før forventet slakting, skal lysprogrammet følge en 24 timers døgnsyklus og omfatte en uavbrutt mørkeperiode på minst seks timer, eller to uavbrutte mørkeperioder på hver minst fire timer, eksklusiv lysdempingsperioden. Bestemmelsene om mørkeperiode kan bare fravikes når det er nødvendig av dyrevernmessige grunner.
+I perioden med lys skal lysstyrken målt i dyrenes øyehøyde være minst 20 lux på 80 % av dyrenes tilgjengelige areal. Lysdemping ut over dette kan bare skje etter tilrådning fra veterinær.
+Fôr og vann skal ikke fjernes fra slaktekylling før tidligst 12 timer før forventet slakting starter.
