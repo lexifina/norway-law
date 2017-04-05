@@ -1,0 +1,5 @@
+# § 29. Levemiljø og stell
+Dyrene skal holdes i egnet levemiljø og gis fôr, vann og stell som er egnet for deres helse og velferd. Dyrenes mulighet til å få dekket sine fysiologiske og atferdsmessige behov skal begrenses minst mulig.
+Miljøforholdene der dyrene holdes eller brukes, skal kontrolleres daglig. Dyrene skal ha tilsyn og stell så ofte som nødvendig, og minst én gang daglig. Tiltak skal iverksettes så snart som mulig for å rette opp mangler og gjøre slutt på unødig smerte, frykt, varig skade eller annen belastning for dyrene. Oppdrettere, formidlere og brukere skal ha nødvendig personell i beredskap for å oppfylle kravet om å tilse og stelle dyrene og iverksette tiltak også utenom ordinær arbeidstid.
+Nærmere krav til levemiljø og stell, herunder dato for ikrafttredelse av artsspesifikke oppstallingskrav, er gitt i vedlegg F.
+Hvis det er vitenskapelig, dyrevelferdsmessig eller dyrehelsemessig begrunnet, kan Mattilsynet gjøre unntak fra kravene i første ledd første punktum og vedlegg F.
