@@ -1,0 +1,8 @@
+# § 4. Definisjoner
+a) forsøk: enhver bruk av dyr til vitenskapelige eller utdanningsmessige formål, og i medisinsk virksomhet, som kan påføre dyret smerte, frykt, varig skade eller annen belastning tilsvarende eller større enn ved å føre inn en nål etter god veterinær praksis. Begrepet omfatter også handlinger som har som mål, eller kan føre til at dyr fødes eller klekkes med belastninger som nevnt i første punktum. I tillegg omfatter begrepet etablering og vedlikehold av genmodifiserte dyrestammer med slike belastninger. Et forsøk kan også være et arbeidsprogram som har et definert vitenskapelig formål og som består av ett eller flere forsøk. Når dyrene ikke er avlet eller holdt spesielt for at deres organer eller vev kan bli brukt til vitenskapelige formål, regnes ikke avliving av dyrene til slik bruk som forsøk.
+b) feltforsøk: forsøk utenfor godkjente lokaler
+c) lokaler: anlegg, bygning, gruppe av bygninger eller andre lokaliteter, herunder steder som ikke er helt lukket eller tildekket, samt mobile anlegg. Innredning og utstyr regnes som deler av lokalet.
+d) oppdretter: fysisk eller juridisk person som oppdretter dyr som er oppført i vedlegg D med sikte på at de skal brukes i forsøk, eller at deres organer eller vev skal brukes til vitenskapelige formål, eller oppdretter andre dyr primært til slike formål
+e) formidler: fysisk eller juridisk person, bortsett fra oppdretter, som formidler dyr med sikte på bruk av dyrene i forsøk eller deres organer eller vev til vitenskapelige formål
+f) bruker: fysisk eller juridisk person som bruker dyr i forsøk
+g) truede dyrearter: dyrearter som er kategorisert som kritisk truet, sterkt truet eller sårbar i Norsk rødliste for arter eller som står oppført i vedlegg A til forordning (EF) nr. 338/97.

@@ -1,0 +1,4 @@
+# § 21. Viltlevende dyr i fangenskap
+Viltlevende dyr som fanges inn og holdes i fangenskap, skal ikke brukes i forsøk.
+Hvis det er vitenskapelig begrunnet at forsøkets formål ikke kan oppnås ved bruk av dyr som er avlet og holdt til bruk i forsøk, kan Mattilsynet gjøre unntak fra forbudet.
+Viltlevende dyr skal fanges inn av kompetente personer ved hjelp av metoder som ikke påfører dyrene unødig smerte, frykt, varig skade eller annen belastning. Hvis det mens eller etter at dyret fanges inn, oppdages at det er skadet eller har svekket helsetilstand, skal dyret undersøkes av veterinær, fiskehelsebiolog eller en annen kompetent person. Tiltak skal gjennomføres for å begrense belastningen for dyret. Hvis det er vitenskapelig begrunnet, kan Mattilsynet gjøre unntak fra påbudet om å gjennomføre slike tiltak.

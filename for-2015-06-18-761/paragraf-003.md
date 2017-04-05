@@ -1,0 +1,2 @@
+# § 3. Stedlig virkeområde
+Forskriften gjelder på norsk landterritorium, i norsk territorialfarvann, i norsk økonomisk sone, på norske fartøy og luftfartøy, på innretninger på norsk kontinentalsokkel, samt på Svalbard, Jan Mayen og bilandene. Forskriften gjelder også aktivitet som personell fra norsk fartøy utfører i nær tilknytning til fartøyet når det befinner seg i internasjonalt eller fremmed farvann.
