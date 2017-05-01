@@ -1,0 +1,2 @@
+# § 3. Klagenemnda
+Klagenemndas medlemmer oppnevnes av Kongen for fire år av gangen. I særlige tilfeller kan det oppnevnes medlemmer for en kortere periode. Maksimal funksjonstid er åtte år. Medlemmene kan unntaksvis gjenoppnevnes etter åtte år. Blant medlemmene oppnevner Kongen en leder. Nærings- og fiskeridepartementet kan oppnevne setteleder når leder er inhabil. Medlemmene kan ikke avsettes eller suspenderes i perioden med mindre det foreligger særlig grunn.

@@ -1,0 +1,4 @@
+# § 15. Nærmere retningslinjer for saksbehandlingen
+Klagenemnda kan innenfor rammene av denne forskrift fastsette nærmere retningslinjer for saksbehandlingen, herunder delegere oppgaver til leder og sekretariat. I saker om overtredelsesgebyr gjelder forvaltningsloven for nemndas virksomhet, med de særlige bestemmelser som er gitt i anskaffelsesloven § 12. I andre saker gjelder forvaltningsloven kapittel I til III tilsvarende for nemndas virksomhet.
+Klagenemndas medlemmer fungerer uavhengig av sitt yrke, arbeidsgiver og sin øvrige stilling. De kan ikke instrueres faglig av departementet, sekretariatet eller de øvrige medlemmene, herunder klagenemndas leder.
+Før en sak sendes til nemndbehandling skal sekretariatet vurdere om forhold ved saken kan medføre inhabilitet for et nemndmedlem. Før saken sendes til nemndbehandling skal sekretariatet sende de nemndmedlemmene som skal behandle saken opplysninger som gjør det mulig for medlemmene å vurdere sin habilitet.
