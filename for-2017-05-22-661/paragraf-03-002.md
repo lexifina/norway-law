@@ -1,0 +1,4 @@
+# § 3-2. Praksis
+(1) Praksis utgjør omtrent 25 % av samlet studietid, fordelt gjennom hele studieperioden. Dette utgjør 10 uker fordelt gjennom hele studieperioden. For studenter som ikke har praksis på egen arbeidsplass er det 10 uker i 100 % stilling eller 20 uker i minst 50 % stilling, også fordelt gjennom hele studieperioden. Det er obligatorisk å gjennomføre praksisperiodene, men fravær inntil 20 % av praksistiden aksepteres. Studenten har selv ansvar for å melde fra til studieleder ved fravær fra praksis.
+(2) Ved fravær som overstiger grensen i første ledd, må studenten ta igjen den manglende praksisen, etter nærmere avtale med studieleder.
+(3) Manglende oppfyllelse av studentens plikter etter første og annet ledd kan medføre tap av studieplass, jf. § 3-4, med mindre studenten har fått innvilget søknad etter § 3-3.
