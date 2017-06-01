@@ -1,0 +1,5 @@
+# § 2-3. Innpassing og fritak
+(1) Beståtte emner fra annen godkjent fagskoleutdanning skal innpasses som del av utdanningen, med samme antall fagskolepoeng, jf. fagskoleforskriften § 1-1 første ledd.
+(2) Etter søknad kan det gis fritak for emner som inngår i utdanningen, på grunnlag av annen dokumentert utdanning og kompetanse, jf. fagskoleforskriften § 1-1 annet ledd.
+(3) Vedtak om innpassing og fritak etter første og annet ledd treffes av rektor. Utgangspunktet for vurderinger om innpassing og fritak skal være læringsutbyttebeskrivelsene for den aktuelle utdanningen eller det aktuelle emnet og fagskolepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning for de emner eller den kompetanse det søkes om innpassing eller fritak for. Søknader om innpassing og fritak må inneholde nødvendig dokumentasjon vedrørende omfang og innhold i emnet som studenten ønsker godskrevet, og sendes fagskolen innen en frist som gjøres kjent for studentene ved tilbud om studieplass.
+(4) Vedtak etter denne bestemmelsen kan påklages til lokal klagenemnd etter reglene i denne forskriftens kapittel 6. Klagen sendes til fagskolens administrasjon.

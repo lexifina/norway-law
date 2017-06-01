@@ -1,0 +1,4 @@
+# § 4-2. Oppmelding og vilkår for å avlegge eksamen mv.
+(1) Det kan fastsettes i studieplanen at emner og vurderinger skal gjennomføres og bestås i en bestemt rekkefølge, og at krav til obligatorisk aktivitet skal være oppfylt før studenten har rett til å avlegge eksamen eller annen avsluttende vurdering for emner ved fagskolen.
+(2) Studenten har rett til å fremstille seg til eksamen og andre vurderinger som nevnt i § 4-1 dersom vilkår som nevnt i første ledd er oppfylt. Fagskolen melder opp studenter til eksamen og andre vurderinger i hvert emne ved emnestart.
+(3) Studenter i permisjon skal etter § 3-3 fjerde ledd ha gitt fagskolen bekreftelse vedrørende første ønskede vurdering etter avsluttet permisjon. Det samme gjelder studenter som har vært midlertidig bortvist eller utestengt eller har fått annullert sin eksamen etter bestemmelser i denne forskrifts kapittel 5.
