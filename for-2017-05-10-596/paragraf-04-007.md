@@ -1,0 +1,3 @@
+# § 4-7. Kontinuasjonseksamen
+(1) En student som har gyldig fravær på eksamen får tilbud om utsatt eksamen. Utsatt eksamen avholdes innen 3 (tre) måneder etter ordinær eksamen. Studenter som har strøket på eksamen eller som ønsker å forbedre sin karakter, kan ta kontinuasjonseksamen samtidig som den utsatte eksamen. Studenten kan gå opp til samme eksamen inntil 3 (tre) ganger. Kontinuasjonseksamen avlegges mot eksamensavgift. Studenter som har gyldig fravær fra eksamen, kan gjennomføre ny eksamen kostnadsfritt.
+(2) Kontinuasjonseksamen avholdes innen 3 (tre) måneder etter gjeldende eksamen. Studenten er ansvarlig for selv å melde seg opp til kontinuasjonseksamen hos skoleadministrasjonen.
