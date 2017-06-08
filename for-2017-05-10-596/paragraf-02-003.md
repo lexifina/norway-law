@@ -1,0 +1,5 @@
+# § 2-3. Opptak på grunnlag av realkompetansevurdering
+(1) Søkere som ikke fyller det formelle opptakskravet kan søke om opptak på grunnlag av realkompetanse. Ved opptak på grunnlag av realkompetanse må søkeren kunne dokumentere realkompetanse tilsvarende det formelle opptakskravet, det vil si kompetanse på nivå 4 i NKR.
+(2) Søkere som ønsker å bli realkompetansevurdert, må ha en alder som minimum tilsvarer normalalderen for fullført aktuell videregående opplæring, det vil si 20 år.
+(3) Dersom en søkers realkompetanse er vurdert som likestilt med det formelle opptaksgrunnlaget, gjelder vurderingen i utgangspunktet også hvis studenten søker opptak til utdanningen senere år. Vedtaket har likevel bare gyldighet i henhold til utdanningen slik den er beskrevet i studieplanen på vurderingstidspunktet. Ved betydelig endring i studieplanen, forbeholder skolen seg rett til å foreta en ny vurdering, og eventuelt endre vedtaket.
+(4) I studieplanen for den enkelte utdanning er det beskrevet hvilke realkompetanse-alternativer som kan gi rett til opptak ved den enkelte utdanning.
