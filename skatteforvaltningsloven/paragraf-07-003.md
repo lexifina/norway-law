@@ -21,7 +21,7 @@ b) innskudd i verdipapirfond og alternative investeringsfond
 c) innskudd og andre interesser i innretninger som nevnt i første ledd bokstav l og m
 d) finansielle instrumenter og andre finansielle produkter
 e) forsikringer
-f) individuelle pensjonsavtaler
+f) individuelle pensjonsavtaler og avtaler om individuell sparing til pensjon
 g) innskuddspensjonsordninger.
 Opplysningene skal blant annet vise saldo eller verdi, avkastning, utbetalinger, erverv og realisasjon. Utbetalinger knyttet til individuelle pensjonsavtaler og innskuddspensjonsordninger følger reglene i § 7-2. Departementet kan gi forskrift om opplysningsplikt ved formidling av bestemte betalinger, og om at opplysningspliktige som nevnt i første ledd bokstav a, skal gi opplysninger om kontonummer som er aktuelle for overføring av eventuelle tilgodebeløp etter skatteavregning.
 (3) Det skal gis opplysninger som nevnt i annet ledd, for blant annet den enkelte kontohaver, disponent, investor, forsikringstaker, forsikrede og mottaker av utbetalinger og reelle rettighetshaver. Opplysningspliktige skal identifisere kontohavere mv. som nevnt i første punktum. Departementet kan gi forskrift om framgangsmåten ved slik identifisering, herunder om innhenting av egenerklæring om skattemessig bosted mv. Det kan gis forskrift om konsekvensene av at pliktig egenerklæring ikke er innhentet ved opprettelse av ny kontoavtale, herunder at slik kontoavtale ikke kan inngås. Det kan også gis forskrift om at opplysningspliktige skal oppbevare opplysninger og dokumentasjon benyttet i forbindelse med identifisering.
