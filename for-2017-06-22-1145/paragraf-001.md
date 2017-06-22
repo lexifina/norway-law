@@ -1,0 +1,2 @@
+# § 1. Målsetting for integrert ph.d-utdanning
+Integrert ph.d.-utdanning er betegnelse på et spesielt tilrettelagt studieprogram som fører fram til graden ph.d. ved UiA. Studieprogrammet kombinerer mastergradsutdanning og doktorgradsutdanning, slik at masterstudenter med interesse for forskning får et tilpasset studieopplegg. Målet er å utdanne doktorgradskandidater på et høyt internasjonalt nivå og sikre rekruttering av særlig kompetente kandidater.
