@@ -1,0 +1,4 @@
+# § 2. Organisering av integrert ph.d-utdanning
+Integrert ph.d.-utdanning består av to perioder.
+Første periode gjennomføres med avslutning av masterstudiet og begynnelsen av doktorgradsstudiet. Første periode er på to år og gjennomføres etter at 60 studiepoeng er avlagt på masterprogrammet. Valgemner og masteroppgaven bør innrettes mot avhandlingen i doktorgradsutdanningen. Både emner og masteroppgaven skal tilfredsstille kravene som stilles i mastergradsutdanningen. Den resterende tiden disponerer kandidaten til gjennomføring av opplæringsdelen i doktorgradsutdanningen og arbeid med doktoravhandlingen. Utdanningen foregår normalt ved UiA. Studieopphold på inntil seks måneder ved lærested i utlandet kan inngå etter nærmere avtale.
+Andre periode er på to år og disponeres til arbeid med doktoravhandlingen og resterende opplæringsdel.
