@@ -1,0 +1,2 @@
+# § 1-1. Virkeområde
+Bestemmelsene i denne forskriften gjelder for alle studier, eksamener og grader ved NSKI Høyskole. Forskriften gjelder studenter som har opptak til og er tilknyttet skolens bachelorgradsstudium samt kortvarige studium og enkeltemner, herunder studieopphold tilknyttet utvekslingsavtaler. Forskriften fastsetter regler for studentopptak, gjennomføring av vurdering, krav for tildeling av grad og bestemmelser om studentenes rettigheter og plikter ved NSKI Høyskole.

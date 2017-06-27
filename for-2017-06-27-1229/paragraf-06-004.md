@@ -1,0 +1,6 @@
+# § 6-4. Permisjon fra studiet
+(1) Studenter som har gjennomført minst ett studieår (60 studiepoeng) kan etter søknad innen gitte frister, få innvilget permisjon fra studiet. Det gis normalt permisjon i maks ett år, med mindre annet er avtalt mellom NSKI Høyskole og studenten.
+(2) Unntak fra bestemmelsene i (1) er permisjoner som skyldes fødsels- og foreldrepermisjon, avtjening av førstegangstjeneste eller force majeure. Slik permisjon må dokumenteres med legeerklæring eller annen relevant dokumentasjon.
+(3) En student som får barn under studiene, skal gis rett til permisjon fra studiene under svangerskap og til omsorg for barn. I permisjonsperioden har studenten fortsatt status som student ved institusjonen og har rett til å gjenoppta sine studier på tilsvarende nivå som før permisjonen. Institusjonen skal legge til rette for at studenter som er i permisjon kan gjenoppta sine studier så raskt som mulig etter endt permisjon.
+(4) Student som er innvilget permisjon, skal gis anledning til å gjenoppta sine studier på tilsvarende nivå som før permisjonen, forutsatt at studietilbudet fortsatt eksisterer.
+(5) Studenter belastes studieavgift for inneværende studieår (høst- og vårsemester) dersom studenten innvilges permisjon i løpet av skoleåret.

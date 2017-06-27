@@ -1,0 +1,4 @@
+# § 6-1. Studierett
+(1) Opptak til et studie ved NSKI Høyskole gir studierett, dvs. rett til undervisning, veiledning, tilgang til læringsplattform og vurdering i samsvar med studieplan og fagbeskrivelser som inngår i studiet.
+(2) Studierett betinger at studenten er tatt opp til studiet og har betalt pålagte avgifter (påmeldingsavgift, registreringsavgift og studieavgift) innen de frister rektor fastsetter.
+(3) En student som er tatt opp til et studieprogram og som følger dette med normal studieprogresjon (uten korreksjon for permisjoner og redusert studieprogresjon) har krav på at studieprogrammets læringsutbytte, nivå og struktur ikke endres i den tiden vedkommende har studierett til programmet. Studenten må likevel akseptere at det kan bli endringer i programmets fag og oppbygging så lenge dette ikke medfører at studenten blir forsinket i sin progresjon.

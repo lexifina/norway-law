@@ -1,0 +1,6 @@
+# § 1-6. Oppmøte og fravær
+(1) Studenter har plikt til å møte presis, være til stede, og delta i den organiserte opplæringen, med mindre annet er avtalt med NSKI Høyskoles administrasjon. All undervisning er obligatorisk.
+(2) Fravær som ikke er dokumentert ved godkjent permisjonssøknad eller legeattest, betraktes som ugyldig fravær. Dersom slikt fravær er på 20 % eller mer av den obligatoriske undervisningstiden i ett eller flere fag/emnegrupper kan studenten miste retten til å gå opp til eksamen etter skriftlig varsel fra skolens administrasjon. Vedtaket kan påklages til skolens klagenemnd.
+(3) Dersom det oppstår tvil om hvorvidt en student har sluttet ved skolen, for eksempel på grunn av høyt fravær, skal skolen sende en skriftlig forespørsel om saken. Dersom studenten ikke har besvart henvendelsen innen en frist på tre uker fra den skriftlige henvendelsen er mottatt, skal studenten vurderes som sluttet. Skolen forplikter seg til å legge forholdene til rette for at studenten skal fullføre opplæringen.
+(4) Studentene har rett til å få strøket fravær inntil 14 dager når det faller inn under en godkjent årsak, jf. NSKI Høyskoles reglement § 6.
+(5) Klage på avslag om fritak fra undervisning med godkjent årsak behandles av rektor.
