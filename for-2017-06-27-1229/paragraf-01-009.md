@@ -1,0 +1,2 @@
+# § 1-9. Studentens representasjon i institusjonens organer
+Studentene skal ha minst 20 prosent av medlemmene i alle kollegiale organ som tildeles beslutningsmyndighet, inkludert institusjonens styre. Der dette ikke utgjør mer enn ett medlem, skal studentene ha rett til å ha med ytterligere en student med tale- og forslagsrett. Bestemmelsen kan fravikes dersom det delegerende organ enstemmig bestemmer noe annet.

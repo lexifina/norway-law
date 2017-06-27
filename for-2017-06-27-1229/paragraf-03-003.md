@@ -1,0 +1,5 @@
+# § 3-3. Utdanningsplan
+(1) Studenter som tas opp til studier av 60 studiepoeng eller mer, skal ha utdanningsplan som inngås mellom studenten og NSKI Høyskole. Utdanningsplanen skal inneholde bestemmelser om institusjonens forpliktelser overfor studenten, og studentens forpliktelser overfor institusjonen og sine medstudenter. Innholdet i studiet og studentens forventede progresjon skal framgå av planen.
+(2) Utdanningsplanen skal være satt opp slik at studenten skal kunne gjennomføre planlagt studium på normert tid. Utdanningsplanen samsvarer vanligvis med normert studieprogresjon for det aktuelle studiet.
+(3) NSKI Høyskole forplikter seg til å gjennomføre de antall timer og fag som er tilbudt studenten ved opptak. Videre skal all undervisning skje på en faglig og pedagogisk forsvarlig måte. NSKI Høyskole forplikter seg til å følge de gjeldene lover og regler jf. lov om universiteter og høyskoler, og NOKUTs lover og retningslinjer for drift av høyskoler.
+(4) Utdanningsplanen kan endres etter avtale mellom studenten og NSKI Høyskole.

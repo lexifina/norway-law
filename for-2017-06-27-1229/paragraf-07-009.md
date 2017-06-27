@@ -1,0 +1,8 @@
+# § 7-9. Annullering av eksamen
+(1) Annullering av eksamen behandles etter § 4-7 i lov om Universiteter og høyskoler.
+(2) Institusjonens klagenemnd, jf. § 5-1 i lov om universiteter og høyskoler, kan annullere eksamen eller prøve, eller godkjenning av kurs, hvis kandidaten:
+- «ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve, eller til å delta i vedkommende kurs, eller har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende kurs».
+(3) Institusjonens klagenemnd kan annullere godskriving eller godkjenning av utdanningen, eller fritak fra eksamen/prøve/avsluttende vurdering hvis kandidaten har oppnådd dette ved hjelp av falskt vitnemål eller annen form for uredelig opptreden.
+(4) Ved annullering av eksamen eller prøve kan institusjonens klagenemnd, med to tredjedels flertall, utestenge vedkommende student fra institusjonen og retten til å gå opp til eksamen ved tilsvarende institusjoner i inntil ett år.
+(5) Vedtak om annullering kan påklages til felles klagenemnd oppnevnt av departementet. Adgangen til annullering foreldes ikke.
+(6) Etter avgjørelse om annullering plikter kandidaten å tilbakelevere eventuelt vitnemål eller karakterutskrift til institusjonen. Blir ikke vitnemålet eller karakterutskriften tilbakelevert institusjonen i rett tid, kan denne kreve namsmannens hjelp til tilbakelevering i samsvar med reglene i tvangsfullbyrdelseslovens kap. 13.
