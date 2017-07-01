@@ -1,0 +1,4 @@
+# § 2. Samlet ukentlig arbeidstid
+(1) Den samlede ukentlige arbeidstiden må ikke overstige 48 timer i løpet av en periode på 7 dager. Grensen på 48 timer kan gjennomsnittsberegnes over en periode på 6 uker.
+(2) Den enkelte arbeidstaker kan gi sitt skriftlige samtykke til en samlet ukentlig arbeidstid utover 48 timer, likevel ikke mer enn 60 timer i uken. Den avtalte ukentlige arbeidstiden kan gjennomsnittsberegnes over en periode på 6 uker. Arbeidstakere som har sin bolig på eller i tilknytning til institusjonen, kan gi sitt skriftlige samtykke til å være tilgjengelig utover 60 timer i uken.
+(3) Arbeidstaker som ikke har sin bolig på eller i tilknytning til institusjonen, kan trekke tilbake tidligere gitt samtykke til en arbeidstid utover 48 timer. Arbeidsgiver plikter da, innen en periode på 3 måneder, å tilby arbeidstaker en annen arbeidstidsordning innenfor rammene i første ledd.
