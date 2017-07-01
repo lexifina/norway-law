@@ -1,0 +1,2 @@
+# § 6
+Kongen kan gjøre unntak fra bestemmelsene i §§ 3, 4 og 5 eller forskrift gitt i medhold av disse i området mellom 12 nautiske mil og 200 nautiske mil når dette er nødvendig av hensyn til overenskomst med fremmed stat eller hvor særlige hensyn tilsier det. Slike unntak kan også gjøres gjeldende innenfor 12 nautiske mil for så vidt angår områder der bestemmelsene i havressurslova kapittel 4 a ikke er iverksatt.
