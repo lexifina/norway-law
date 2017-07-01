@@ -1,0 +1,3 @@
+# § 76. Fastsettelse av varig medisinsk invaliditet
+Medisinsk invaliditetsgrad fastsettes på grunnlag av Arbeids- og velferdsetatens (Nav) vedtak om varig medisinsk invaliditetsgrad. Hvis Nav har kommet til at den varige medisinske invaliditetsgraden er under 15 %, uten at dette bygger på en spesialisterklæring, skal Forsvaret fastsette invaliditetsgraden etter invaliditetstabellen i forskrift 21. april 1997 nr. 373 om menerstatning ved yrkesskade del II.
+Når Nav eller Forsvaret har fastsatt en invaliditetsgrad, skal ikke engangserstatningen endres, selv om sykdommen eller skaden senere er blitt forverret. Hvis Navs opprinnelige vedtak om varig medisinsk invaliditetsgrad blir endret etter klage, skal engangserstatningen justeres i samsvar med det nye vedtaket.

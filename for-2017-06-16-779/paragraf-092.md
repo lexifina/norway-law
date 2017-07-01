@@ -1,0 +1,2 @@
+# § 92. Overgangsregler
+Det kan gis erstatning for skader og sykdommer som er konstatert før forskriften trådte i kraft, hvis kravet ikke er fremmet før forskriften trådte i kraft. Slikt krav foreldes tre år etter ikrafttredelsen. Krav som allerede er foreldet etter forskrift 22. juni 2000 nr. 634 om utbetaling av engangserstatning ved dødsfall og invaliditet blant personell som avtjener verneplikt mv., i kraft fra samme dato, gir likevel ikke rett til erstatning.

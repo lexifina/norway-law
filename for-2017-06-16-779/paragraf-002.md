@@ -1,0 +1,4 @@
+# § 2. Verneplikten for andre enn norske statsborgere
+Utenlandske statsborgere kan ikke pålegges verneplikt etter forsvarsloven § 6 eller inngå kontrakt om tjenesteplikt i Forsvaret hvis dette medfører at de blir statsløse.
+Utenlandske statsborgere og personer uten statsborgerskap kan ikke ha offisers eller befals grad eller ta utdanning som fører til offisers eller befals grad. Dette gjelder likevel ikke hvis det er inngått avtale om slik utdanning mellom Norge og det landet personen er statsborger av.
+Utenlandske statsborgere og personer uten statsborgerskap kan ta utdanning som fører til offisers eller befals grad hvis de har søkt om norsk statsborgerskap før utdanningen starter, og det er overveiende sannsynlig at de får norsk statsborgerskap før utdanningen er ferdig. Forsvarsdepartementet avgjør om en som ikke er norsk statsborger, skal kunne ta utdanning som fører til offisers eller befals grad.

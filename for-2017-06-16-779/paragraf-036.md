@@ -1,0 +1,3 @@
+# § 36. Innkalling til tjeneste i Heimevernet
+Ved første gangs innkalling til tjeneste i Heimevernet skal innkallingen sendes skriftlig minst fire måneder før fremmøtedatoen. Hvis den tjenestepliktige har fått varsel om planlagt innkalling, skal innkallingen sendes skriftlig senest to måneder før fremmøtedatoen. Innkallingen kan sendes med kortere frist hvis de tjenestepliktige samtykker til det. De tjenestepliktige skal svare på mottatt varsel og innkalling til tjeneste.
+Innkallingen til årlig heimevernstjeneste skal sendes skriftlig minst 30 dager før tjenesten starter. Innkallingen kan sendes senere eller være muntlig hvis formålet med tjenesten eller andre tjenstlige hensyn gjør det nødvendig.

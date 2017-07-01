@@ -1,0 +1,5 @@
+# § 46. Innkalling til tjeneste som vernepliktig akademiker
+De vernepliktige som har en sivil akademisk utdanning på minst bachelornivå, kan kalles inn til opplæring og tjeneste som befal. De bør innkalles snarest mulig etter at den sivile utdanningen er fullført. De kan kalles inn før den sivile utdanningen er fullført for å få informasjon om tjenesten og for å gjennomgå fysiske og medisinske tester.
+Den tjenestepliktige skal i tjenestetiden utføre oppgaver i samsvar med sin sivile utdanning.
+Opplæringen og tjenesten skal vare tolv måneder, men Forsvaret kan fastsette kortere eller lengre tjenestetid hvis Forsvaret eller andre etater i forsvarssektoren har behov for det. Hvis den tjenestepliktige alt er innkalt til tjeneste, kan tjenestetiden bare endres hvis den tjenestepliktige samtykker.
+Vernepliktige akademikere kan i tillegg til opplæringen og tjenesten etter tredje ledd bli kalt inn til tjeneste som varer i inntil 60 dager hver gang. Dette gjelder også tjenestepliktige som har gjennomført ordinær førstegangstjeneste før den sivile utdanningen.

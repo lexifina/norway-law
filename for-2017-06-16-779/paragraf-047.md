@@ -1,0 +1,3 @@
+# § 47. Vernepliktige akademikeres tjenestevilkår
+Vernepliktige akademikere skal inngå arbeidskontrakt for den pålagte tjenestetiden før opplæringen og tjenesten starter. Departementet fastsetter lønnen til vernepliktige akademikere.
+Vernepliktige akademikere har samme tjenestevilkår, rettigheter og plikter som andre militært tilsatte, hvis ikke det er fastsatt noe annet. Vernepliktige akademikere som utfører repetisjons- og heimevernstjeneste har tjenestevilkår, rettigheter og plikter som andre tjenestepliktige. Vernepliktige akademikere kan ikke uten samtykke beordres til tjeneste i internasjonale operasjoner.
