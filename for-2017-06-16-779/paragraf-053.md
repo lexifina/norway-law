@@ -1,0 +1,7 @@
+# § 53. Særlig om utsettelse av tjenesten på grunn av omsorgsansvar
+Tjenesten kan utsettes hvis den tjenestepliktige har omsorgsansvar for barn under 16 år eller daglig pleieansvar for pleietrengende.
+Tjenestepliktige som har omsorg alene for barn under 16 år, skal få utsatt førstegangstjenesten så lenge de har omsorgen alene, og til plikten til førstegangstjeneste faller bort ved utløpet av det året de fyller 33 år.
+Tjenestepliktige som har omsorgs- eller pleieansvaret alene, skal få utsatt repetisjons- eller heimevernstjeneste, hvis andre ikke kan ivareta ansvaret, og Forsvaret ikke kan tilby ordninger under tjenesten som gjør at dette ansvaret kan ivaretas på tilnærmet samme måte.
+Tjenestepliktige med delt omsorgs- eller pleieansvar kan få utsatt repetisjons- eller heimevernstjeneste når den andre på grunn av egen arbeidssituasjon, utdanning, sykdom eller andre tungtveiende grunner ikke kan ha dette ansvaret.
+Hvis begge med omsorgs- eller pleieansvar er tjenestepliktige, kan en av dem fritas for repetisjonstjeneste, heimevernstjeneste og ekstraordinær tjeneste. Dette gjelder også hvis en av dem er innvilget fritak på grunn av sivil stilling eller fagkyndighet, eller hvis begge har tjenesteplikt på grunn av et tilsettingsforhold i Forsvaret.
+Tjenestepliktige som tar ut omsorgspermisjon etter arbeidsmiljøloven kapittel 12 og folketrygdloven kapittel 14, får utsatt tjenesten så lenge omsorgspermisjonen varer.

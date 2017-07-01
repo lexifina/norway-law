@@ -1,0 +1,3 @@
+# § 21. Plikten til å gjøre tjeneste
+Forsvaret kan pålegge tjenestepliktige å gjøre tjeneste i enhver stilling i Forsvarsdepartementet og underliggende etater.
+Tjenestepliktige som har fullført førstegangstjenesten er i to år etter avsluttet førstegangstjeneste reserve for den avdelingen der de sist hadde tjeneste. Etter to år kan de pålegges tjeneste i andre deler av Forsvaret og forsvarssektoren for øvrig, eller de kan overføres til Sivilforsvaret eller politiet. Forsvaret kan likevel pålegge tjenestepliktige som har fullført førstegangstjeneste, tjeneste i andre deler av Forsvaret og forsvarssektoren før det har gått to år.

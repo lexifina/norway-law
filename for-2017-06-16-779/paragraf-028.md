@@ -1,0 +1,2 @@
+# § 28. Når siviltjeneste godskrives som ordinær tjenestetid etter oppheving av vedtak om fritak av overbevisningsgrunner
+Hvis et vedtak om fritak av overbevisningsgrunner blir opphevet, skal siviltjeneste godskrives som ordinær tjeneste. Den vernepliktige skal likevel utføre minst seks måneder førstegangstjeneste i Forsvaret, hvis ikke plikten til å gjøre førstegangstjeneste er falt bort etter forsvarsloven § 22.

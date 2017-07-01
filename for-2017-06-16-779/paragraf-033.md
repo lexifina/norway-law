@@ -1,0 +1,4 @@
+# § 33. Innkalling til repetisjonstjeneste
+Innkalling til repetisjonstjeneste skal sendes skriftlig minst fire måneder før fremmøtedato. Med repetisjonstjeneste menes øving og bruk av tjenestepliktige som ikke er i daglig tjeneste.
+Hvis de tjenestepliktige har fått varsel om planlagt innkalling, skal innkallingen sendes skriftlig senest to måneder før fremmøtedato. Innkallingen kan sendes med kortere frist hvis de tjenestepliktige samtykker til det. De tjenestepliktige skal svare på mottatt varsel og innkalling til tjeneste.
+Offiserer og befal som kan dokumentere at de er midlertidig bosatt utenfor Norden eller seiler i utenriksfart, kan bare kalles inn til repetisjonstjeneste hvis de har kvalifikasjoner som Forsvaret ikke kan unnvære, og det ikke er mulig å finne andre med tilsvarende kvalifikasjoner.
