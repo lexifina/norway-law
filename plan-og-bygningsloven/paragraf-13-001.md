@@ -1,4 +1,5 @@
 # § 13-1. Midlertidig forbud mot tiltak
 Finner kommunen eller vedkommende myndighet at et område bør undergis ny planlegging, kan den bestemme at oppretting og endring av eiendom eller tiltak etter § 1-6 og andre tiltak som kan vanskeliggjøre planarbeidet, ikke kan settes i gang før planspørsmålet er endelig avgjort.
+Dersom en søknad om tillatelse til tiltak ikke er avgjort, kan kommunen bare vedta et midlertidig forbud dersom søkeren er varslet om dette innen utløpet av de saksbehandlingsfrister som følger av § 21-7, og dersom forbudet vedtas senest innen åtte uker etter utløpet av fristen.
 Kommunen kan samtykke i at tiltak som er nevnt i første ledd blir gjennomført hvis det etter kommunens skjønn ikke vil vanskeliggjøre planleggingen.
 Gjelder den påtenkte planen areal for omforming og fornyelse med hensynssone for særlige samarbeids- eller eierformer, jf. §§ 11-8 bokstav e og 12-6, kan kommunen også bestemme at grunneier eller rettighetshaver ikke uten samtykke fra kommunen kan råde rettslig over eiendom på en måte som kan vanskeliggjøre eller fordyre gjennomføringen av planen. Kommunen skal la slikt vedtak tinglyse på de berørte eiendommer.

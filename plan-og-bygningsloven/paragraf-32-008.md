@@ -7,7 +7,7 @@ d) bruker eller lar bruke byggverk eller del av byggverk eller areal uten at det
 e) prosjekterer eller lar prosjektere, utfører eller lar utføre eller kontrollerer eller lar kontrollere et tiltak som omfattes av § 20-3 uten at arbeidet blir forestått av kvalifiserte ansvarlige foretak som har påtatt seg ansvarsrett etter § 23-3 andre ledd
 f) gir uriktige eller villedende opplysninger til plan- og bygningsmyndighetene
 g) tross skriftlig pålegg ikke oppfyller vilkår for midlertidig dispensasjon etter § 19-3
-h) tross skriftlig pålegg ikke oppfyller plikten etter § 31-3 første ledd første punktum til å holde byggverk og installasjoner i stand
+h) tross skriftlig pålegg ikke oppfyller plikten etter § 31-3 første ledd til å holde byggverk og installasjoner i stand
 i) ikke etterkommer skriftlig pålegg etter § 31-5 om å fjerne bygning eller rester av bygning eller innretning, eller om å rydde tomta
 j) tross skriftlig pålegg ikke oppfyller plikten etter § 28-2 til å treffe sikringstiltak
 k) ikke etterkommer skriftlig pålegg etter § 29-6 tredje ledd om å treffe tiltak for å avhjelpe ulempe fra bygningstekniske installasjoner

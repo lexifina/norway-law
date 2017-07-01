@@ -1,0 +1,2 @@
+# § 12-17. Tilbaketrekking av sentral godkjenning for planforetak
+Sentral godkjenning for planforetak skal trekkes tilbake dersom godkjent foretak ikke lenger innehar de nødvendige kvalifikasjonene for å ha godkjenning for planforetak. Før det treffes vedtak om tilbaketrekking, skal foretaket gis varsel med frist til å uttale seg. Når særlig formildende hensyn gjør seg gjeldende, kan tilbaketrekking av sentral godkjenning for planforetak likevel unnlates. Ved mindre alvorlige overtredelser kan det gis advarsel.
