@@ -1,0 +1,9 @@
+# § 2-2. Innpassing og fritak
+(1) Jf. § 1-1 i forskrift om fagskoleutdanning kan studentar som kan dokumentere å ha bestått likeverdig eller tilsvarande emne ved same eller ein annan institusjon, søkje om innpassing av delar av tidlegare utdanning. Læringsutbytteomtalen eller studieplan vert nytta for å vurdere om studenten har rett på innpassing av eit emne.
+(2) Dersom studenten kan dokumentere å ha bestått anna type utdanning eller har fått realkompetanse for delar av fagskoleutdanninga, kan studenten søkje om å fritak frå eitt eller fleire emne. Fritak skal byggje på ei fagleg vurdering. Fritak på bakgrunn av realkompetanse må baserast på ei fagleg vurdering av om søkjarens bakgrunn, frå arbeidsliv, frivillig sektor, utdanning og/eller anna, dvs. formell, ikkje-formell og uformell kompetanse, samla kan gje grunnlag for fritak for del av fagskoleutdanninga.
+(3) For å få skrive ut vitnemål må minst 30 av fagskolepoenga som skal inngå i berekningsgrunnlaget, vere avlagt ved Høgskulen på Vestlandet, jf. § 1-2 i forskrift om fagskoleutdanning.
+(4) Søknad om innpassing eller fritak leverast til Dykkarutdanninga ved daglig leiar. Søknaden må innehalde dokumentasjon av omfang og innhald i emnet/kompetansen som studenten ønskjer å søkje innpassing eller fritak for; nærare bestemt:
+a) Vitnemål/karakterutskrift/realkompetansevurdering
+b) Oversikt over kva delemne som inngår i emnet
+c) Oversikt over læringsutbytteomtalen av emnet eller studieplan.
+(5) Om ein student får godkjent søknad om fritak av eit emne, skal dette kome fram på vitnemålet med referanse til bestått emne ved same eller ein annan institusjon. Vitnemålet er berre gyldig saman med dokumentasjonen som det vert referert til. Ved innpassing av eitt eller fleire emne er det siste utdanningsinstitusjon som skriv ut vitnemål jf. § 2-2 tredje ledd.

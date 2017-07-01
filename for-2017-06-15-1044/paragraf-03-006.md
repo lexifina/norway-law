@@ -1,0 +1,3 @@
+# § 3-6. Eksamen under særskilde vilkår
+(1) Studentar som av medisinske eller andre grunnar har behov for spesiell tilrettelegging ved den praktiske gjennomføringa av eksamen, må sende søknad til Dykkarutdanninga ved dagleg leiar om dette seinast tre veker før eksamen. Om det oppstår akutt behov for tilrettelegging, kan det gjerast unntak frå søknadsfristen. Søknaden må innehalde dokumentasjon frå sakkunnig instans (til dømes lege, logoped, psykolog) med omtale av behovet for særleg tilrettelegging i eksamenssituasjonen.
+(2) Særordningar skal likevel vere slik at eksamensprestasjonen vert vurdert etter vanlege faglege kriterium.
