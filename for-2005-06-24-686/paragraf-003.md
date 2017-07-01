@@ -1,0 +1,4 @@
+# § 3. Daglige hvileperioder
+(1) Arbeidstaker skal i løpet av en periode på 24 timer, ha minst to sammenhengende hvileperioder, der arbeidstaker bortsett fra tilfeldige eller kortvarige avbrytelser, er fritatt fra arbeid. Hvileperiodene skal være på henholdsvis to og åtte timer hvorav den lengste skal plasseres mellom kl. 2200-0800.
+(2) Arbeidstaker skal gis mulighet for tilsvarende kompenserende hvile der det har vært vesentlige forstyrrelser i hvileperioden. Er nattehvilen blitt vesentlig forstyrret, skal det i tillegg til kompenserende hvile, sørges for at arbeidstaker den påfølgende natten kan sove uforstyrret.
+(3) Første og andre ledd kan fravikes ved skriftlig avtale mellom arbeidsgiveren og arbeidstakerens tillitsvalgte i institusjoner som er bundet av tariffavtale. Unntak fra første ledd må ikke medføre at de daglige hvileperiodene til sammen blir mindre enn 10 timer.
