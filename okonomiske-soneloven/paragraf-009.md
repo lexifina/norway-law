@@ -1,0 +1,2 @@
+# § 9
+Ved overtredelse av bestemmelser gitt i eller i medhold av denne lov kan inndras fartøy som er brukt ved overtredelsen, og tilbehør, fangst og redskap som er om bord, uansett hvem som er eier. I stedet for tingen kan verdien helt eller delvis inndras hos den skyldige eller hos den han har handlet på vegne av, eller hos eieren. Det kan bestemmes at panterett og andre rettigheter i ting som inndras helt eller delvis faller bort. Bestemmelsene i straffelovens § 74 får tilsvarende anvendelse. Når lovlig eller ulovlig fangst er blandet sammen, kan hele fangsten inndras.
