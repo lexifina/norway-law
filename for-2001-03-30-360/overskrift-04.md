@@ -1,0 +1,1 @@
+# Plikter knyttet til forskningen

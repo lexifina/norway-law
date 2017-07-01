@@ -1,0 +1,1 @@
+# Vilkår for tillatelse

@@ -1,0 +1,2 @@
+# § 3
+Reglene i denne forskrift får anvendelse på utenlandske vitenskapelige undersøkelser i Norges indre farvann, sjøterritorium, økonomiske sone og på kontinentalsokkelen. I den utstrekning de utenlandske undersøkelsene er av direkte betydning for undersøkelse etter og utvinning av levende eller ikke-levende naturforekomster eller på annen måte griper inn i Norges rettigheter i samsvar med folkeretten, berøres ikke reglene gitt i lover eller i medhold av lover nevnt i denne forskrifts § 7. I tilfelle motstrid får sistnevnte regler forrang foran denne forskrift.

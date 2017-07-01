@@ -1,0 +1,2 @@
+# § 19
+Innretninger eller utstyr for vitenskapelig havforskning skal være utstyrt med identifikasjonsmerker som viser registreringsstaten eller den internasjonale organisasjon de tilhører, og skal ha tilfredsstillende internasjonalt avtalte varselsignaler for å ivareta sikkerheten til sjøs og for luftfarten, idet det tas hensyn til regler og standarder fastsatt av kompetente internasjonale organisasjoner.

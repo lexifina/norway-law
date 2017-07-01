@@ -1,0 +1,1 @@
+# Innretninger og utstyr
