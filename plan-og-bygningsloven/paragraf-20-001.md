@@ -3,7 +3,7 @@ Følgende tiltak omfattes av byggesaksbestemmelsene i denne lov:
 a) oppføring, tilbygging, påbygging, underbygging eller plassering av bygning, konstruksjon eller anlegg
 b) vesentlig endring eller vesentlig reparasjon av tiltak som nevnt under bokstav a
 c) fasadeendring
-d) bruksendring eller vesentlig utvidelse eller vesentlig endring av tidligere drift av tiltak som nevnt i bokstav a
+d) varig eller tidsbestemt bruksendring, vesentlig utvidelse eller vesentlig endring av tidligere drift av tiltak som nevnt under bokstav a
 e) riving av tiltak som nevnt i bokstav a
 f) oppføring, endring eller reparasjon av bygningstekniske installasjoner
 g) oppdeling eller sammenføyning av bruksenheter i boliger samt annen ombygging som medfører fravikelse av bolig

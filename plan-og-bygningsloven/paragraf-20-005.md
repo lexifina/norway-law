@@ -7,7 +7,7 @@ d) mindre tiltak i eksisterende byggverk
 e) mindre tiltak utendørs
 f) fasadeendring som ikke fører til at bygningens karakter endres, samt tilbakeføring av fasade til tidligere dokumentert utførelse
 g) andre mindre tiltak som kommunen finner grunn til å frita fra søknadsplikten
-Departementet skal gi forskrift om hvilke tiltak som omfattes av bokstav a-e. Departementet kan gi forskrift om tiltakshavers rapportering til kommunen når tiltak etter denne bestemmelse er ferdigstilt.
-Tillatelse er heller ikke nødvendig for tiltak som nevnt i § 20-1 bokstav m når tiltaket skjer som ledd i jordskifte i samsvar med rettslig bindende plan. Det samme gjelder tiltak som nevnt i § 20-1 første ledd bokstav j når tiltaket ikke skal stå lengre enn 2 måneder.
+Departementet kan gi forskrift om hvilke tiltak som omfattes av bokstav a-e. Departementet kan gi forskrift om tiltakshavers rapportering til kommunen når tiltak etter denne bestemmelse er ferdigstilt.
+Tillatelse er heller ikke nødvendig for tiltak som nevnt i § 20-1 bokstav m når tiltaket skjer som ledd i jordskifte i samsvar med rettslig bindende plan, eller når tiltaket skjer etter krav som nevnt i matrikkelloven § 9 første ledd bokstav g. Det samme gjelder tiltak som nevnt i § 20-1 første ledd bokstav j når tiltaket ikke skal stå lengre enn 2 måneder.
 Departementet kan i forskrift unnta andre tiltak fra bestemmelsene i §§ 20-2 første ledd og 20-3, herunder plassering av anleggsbrakker i mer enn 2 måneder i direkte tilknytning til bygge- eller anleggstomt hvor arbeid pågår.
 Tiltakshaver er ansvarlig for at tiltak som nevnt i første til tredje ledd, utføres i samsvar med de krav som ellers følger av bestemmelser gitt i eller i medhold av lov. Tiltak kan ikke settes i gang før det er gitt nødvendig tillatelse eller samtykke fra andre berørte myndigheter, jf. § 21-5.

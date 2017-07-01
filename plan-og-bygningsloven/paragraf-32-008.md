@@ -16,5 +16,5 @@ Overtredelsesgebyr kan også ilegges ved overtredelse av forskriftsbestemmelser 
 Den ansvarlige skal varsles særskilt før overtredelsesgebyr vedtas, og gis anledning til å uttale seg innen en frist som ikke skal være kortere enn 3 uker. Forhåndsvarsel skal gis skriftlig.
 Overtredelsesgebyr ilegges den ansvarlige av plan- og bygningsmyndighetene. Overtredelsesgebyret tilfaller kommunen. Oppfyllelsesfristen er 4 uker fra vedtaket ble truffet, med mindre annet er fastsatt i vedtaket.
 Når en overtredelse som kan medføre overtredelsesgebyr er begått av noen som har handlet på vegne av et foretak, kan overtredelsesgebyret ilegges foretaket. Dette gjelder selv om det ikke kan anvendes overtredelsesgebyr mot noen enkeltperson.
-Departementet gir forskrifter med nærmere regler om gjennomføring av denne bestemmelsen, herunder utmåling, renter og registrering av ilagt overtredelsesgebyr. Det skal fastsettes et maksimumsbeløp for overtredelsesgebyret.
+Departementet gir forskrift med nærmere regler om gjennomføring av denne bestemmelsen, herunder når overtredelsesgebyr kan ilegges, utmåling, renter og registrering av ilagt overtredelsesgebyr. Det skal fastsettes et maksimumsbeløp for overtredelsesgebyret.
 Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
