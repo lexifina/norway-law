@@ -1,0 +1,2 @@
+# § 22
+Fiskeridirektoratet kan kreve opphør av vitenskapelig havforskningsvirksomhet dersom de forhold som har gitt grunnlag for suspensjon etter § 21 ikke blir rettet innen rimelig tid, eller dersom gjennomføringen av de vitenskapelige havforskningsaktiviteter avviker så sterkt fra de opplysninger om forskningen som var gitt norske myndigheter etter denne forskrifts § 9, at avviket utgjør en større endring i aktivitetene.

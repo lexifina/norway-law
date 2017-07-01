@@ -1,0 +1,2 @@
+# § 8
+Søknad om vitenskapelig havforskning skal sendes til Fiskeridirektoratet av den forsker, forskningsinstitusjon eller internasjonale organisasjon som skal gjennomføre forskningen. Søknaden skal sendes 6 måneder før prosjektets planlagte startdato, med mindre Fiskeridirektoratet i forbindelse med den enkelte søknad tillater kortere søknadstid. Fiskeridirektoratet skal besvare søknaden uten ugrunnet opphold, normalt innen to måneder etter at søknaden er mottatt.

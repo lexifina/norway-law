@@ -1,0 +1,2 @@
+# § 1
+Formålet med denne forskrift er å fremme utviklingen og gjennomføringen av vitenskapelig havforskning i samsvar med de Forente Nasjoners havrettskonvensjon av 1982 for øket kunnskap om det marine miljø og de prosesser som foregår der, og å sikre at den foregår i overensstemmelse med gjeldende regler om aktiviteter i Norges indre farvann, sjøterritorium, økonomiske sone og på kontinentalsokkelen.
