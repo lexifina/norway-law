@@ -1,0 +1,4 @@
+# § 4. Maksimumsbeløp for overtredelsesgebyr
+Politikere som foretar en overgang som omfattes av karanteneloven kapittel 2, kan ikke ilegges et høyere overtredelsesgebyr etter karanteneloven § 20 enn hva som tilsvarer en godtgjørelse for seks måneders karantene etter karanteneloven § 8 første ledd.
+Politikere som foretar en overgang som omfattes av karanteneloven kapittel 3, kan ikke ilegges et høyere overtredelsesgebyr etter karanteneloven § 20 enn hva som tilsvarer seks måneders lønn etter karanteneloven § 12 første punktum.
+Embetsmenn og statsansatte som foretar en overgang som omfattes av karanteneloven kapittel 4, kan ikke ilegges et høyere overtredelsesgebyr etter karanteneloven § 20 enn hva som tilsvarer en godtgjørelse for seks måneders karantene etter karanteneloven § 16 første ledd.
