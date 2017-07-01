@@ -1,0 +1,1 @@
+I medhold av havressursloven § 23d gis Fiskeridirektoratet bemyndigelse til å tillate at utenlandske forskningsfartøy får fiske innenfor fiskerigrensen. Tillatelse kan bare gis når fisket skjer i vitenskapelig øyemed og i samarbeid med norske myndigheter. Tillatelsen skal gis for et bestemt tidsrom og for nærmere avgrensede områder.
