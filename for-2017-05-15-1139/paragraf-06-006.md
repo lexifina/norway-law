@@ -1,0 +1,6 @@
+# § 6-6. Klage over formelle feil ved prøving
+(1) Den som har vært oppe til prøving, kan klage over formelle feil innen tre uker etter at han eller hun er, eller burde være kjent, med det forhold som begrunner klagen.
+(2) Hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, skal sensurvedtaket oppheves. Hvis feilen kan rettes opp ved ny sensur av innleverte arbeid, foretas ny sensurering. I motsatt fall holdes ny prøving med nye sensorer.
+(3) Er krav om begrunnelse for eller klage over karakterfastsettingen fremsatt, løper klagefristen etter denne paragraf fra studenten har fått begrunnelsen eller endelig avgjørelse av klagen foreligger.
+(4) Finner rektor at det er begått formelle feil, og det er rimelig å anta at dette kan ha hatt betydning for en eller flere kandidaters prestasjon eller bedømmelse av denne, kan det bestemmes at det skal foretas ny sensurering eller at det holdes ny prøving.
+(5) Det kan bestemmes at det skal foretas ny sensurering eller holdes ny eksamen også når klage ikke er fremsatt, dersom rektor finner at det er begått formelle feil og det er rimelig å anta at dette kan ha hatt betydning for en eller flere kandidaters prestasjon eller bedømmelse av denne.
