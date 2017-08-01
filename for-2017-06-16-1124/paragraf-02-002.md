@@ -1,0 +1,2 @@
+# § 2-2. Søknad
+Søknad sendes skolen på standardiserte søknadsskjema. All praksis, utdanning og andre forhold som skal gi grunnlag for opptak må dokumenteres med attesterte kopier. Søkere som søker om opptak på formelt grunnlag, jf. § 2-3, skal legge ved kopi av vitnemål fra videregående opplæring. Attester/bekreftelser for arbeidserfaring må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester/bekreftelser må være signert på utsteders brevpapir i original, alternativt rett kopi som er stemplet, datert og signert for å komme i betraktning.

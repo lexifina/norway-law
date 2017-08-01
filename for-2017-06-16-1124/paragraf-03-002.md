@@ -1,0 +1,2 @@
+# § 3-2. Fritak
+Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på grunnlag av dokumentert oppnådd likeverdig kompetanse. Relevant kompetanse kan for eksempel være utenlandsk utdanning, folkehøyskole, voksenopplæring eller høyere utdanning på samme eller beslektet fagområde. Fritak kan også gis på grunnlag av realkompetanse. Det gis normalt ikke fritak for utdanning på videregående opplæringsnivå. Ved fullført utdanning vil det i vitnemålet kun fremkomme fagskolepoeng som studenten reelt har oppnådd i utdanningen ved skolen.
