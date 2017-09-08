@@ -1,0 +1,4 @@
+# § 49. Overgangsordninger
+For personell som omfattes av dette kapitlet og som ved ikrafttredelse oppfyller krav til helse etter forskrift 18. desember 2002 nr. 1678 om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften), gjelder denne forskriftens krav fra og med neste periodiske helseundersøkelse, men senest fra 1. januar 2022.
+Unntak fra krav til helse gitt i medhold av forskrift 18. desember 2002 nr. 1678 om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften) før ikrafttredelse av denne forskriften, gjelder til de utløper, men ikke utover 1. januar 2022.
+Kravet i § 5 h må være oppfylt innen 1. april 2017.
