@@ -1,0 +1,2 @@
+# § 12-8. Tillatelse til å ta i bruk kjøretøy
+Før kjøretøy tas i bruk på infrastrukturen, skal Statens jernbanetilsyn gi tillatelse til å ta kjøretøyet i bruk. Dersom det senere foretas endring av kjøretøyet, skal dette meldes til Statens jernbanetilsyn som vil vurdere om endringen er av en slik art at ny tillatelse til å ta i bruk kjøretøyet, eventuelt tillatelse til å ta i bruk endringen, er nødvendig.
