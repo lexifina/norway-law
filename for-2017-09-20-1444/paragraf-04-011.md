@@ -1,0 +1,24 @@
+# § 4-11. Resultat ved eksamen
+(1) Før eksamen vil Kunst og Design College informere studentene om hvordan resultatene gjøres kjent. I de tilfeller det er gitt skriftlige retningslinjer for bedømmelsen, er disse tilgjengelig for studentene etter at karakteren er fastsatt. Resultatet gjøres kjent innen 3 uker etter at eksamen ble avholdt. Studenten får skriftlig begrunnelse for eksamenskarakter og vitnemål i posten innen 3 (tre) uker etter avsluttende eksamen.
+(2) Utstedelse av vitnemål/kompetansebevis forutsetter at eksamen er bestått og at studieavgiften er betalt i sin helhet.
+(3) Ved bestilling av nytt vitnemål, utstedes duplikat som tildelesstudenten mot fastsatt avgift.
+(4) På vitnemål føres:
+a) studentens navn
+b) studentens personalia
+c) fagskoleutdanningens navn og omfang
+d) fagskoleutdanningens nivå i NKR og om kvalifikasjonen som oppnås er fagskole 1 eller fagskole 2
+e) fagskoleutdanningens overordnede læringsutbyttebeskrivelser
+f) fagskoleutdanningens emner
+g) fagskolepoeng for hvert emne
+h) eksamenskarakter som vurderes etter karakterskala fra A til F
+i) tilbyders navn
+j) dato og underskrift.
+(5) Studenter som består emneeksamen mottar bevis for dette.
+(6) Studenter som ikke fullfører studiet vil motta bevis for de emner som er bestått hvor det påføres:
+a) studentens navn
+b) studentens personalia
+c) fagskoleutdanningens navn og omfang hvor emne/emnene som er bestått er oppgitt
+d) tilbyders navn
+e) dato og underskrift
+f) fagskolepoeng for emne/emner som er bestått.
+(7) I de tilfeller det er gitt innpass eller fritak for et eller flere emner, vil dette stå oppført i vitnemålet.

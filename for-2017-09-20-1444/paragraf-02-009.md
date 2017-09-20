@@ -1,0 +1,8 @@
+# § 2-9. Krav til politiattest (jf. lov om fagskoleutdanning § 12)
+(1) Ved opptak til eller underveis i utdanninger der studenter kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksisopplæring, kan det kreves at studentene legger frem politiattest somomtalt i politiregisterloven § 39 første ledd.
+(2) Hvis det er gitt særlige regler om politiattest for bestemte typer yrkesutøving, gjelder disse tilsvarende for studenter som deltar i praksisopplæring eller klinisk undervisning.
+(3) En student som er dømt for forhold som innebærer at studenten må anses som uskikket til å delta i arbeid med bestemte grupper mennesker, kan utestenges fra praksisopplæring eller klinisk undervisning. Studenten kan bare utestenges dersom praksisopplæring eller klinisk undervisning må regnes som uforsvarlig på grunn av kontakten studenten da får med mennesker.
+(4) Den som er siktet eller tiltalt for straffbart forhold som omtalt ipolitiregisterloven § 39 første ledd, eller i regler om krav til politiattester som nevnt i annet ledd, kan utestenges fra praksisopplæring eller klinisk undervisning til rettskraftig dom foreligger eller saken er henlagt. Studenten kan bare utestenges dersom praksisopplæring eller klinisk undervisning må regnes som uforsvarlig på grunn av kontakten studenten da får med mennesker.
+(5) Klagenemnda for Kunst og Design College avgjør, etter uttalelse fra fagskolen, om studenten skal nektes retten til å delta i klinisk undervisning eller praksisopplæring.
+(6) Vedtak om utestenging etter denne bestemmelsen kan påklages til det nasjonale klageorganet for fagskoleutdanning.
+(7) Departementet kan gi forskrift om saksbehandling ved utestenging pågrunn av straffbare forhold.
