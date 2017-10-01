@@ -1,0 +1,5 @@
+# § 3. Opptak og bruk av informasjon om bestemt angitte områder og skjermingsverdige objekter
+Det er forbudt å gjøre opptak av eller på annen måte bruke informasjon som gjelder bestemt angitte områder, dersom det i noen grad kan ha skadefølger for rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende. Forbudet gjelder også for aktivitet som pågår i eller ved slike områder.
+Det er forbudt å gjøre opptak av eller på annen måte bruke informasjon som gjelder bestemt angitte skjermingsverdige objekter. Det samme gjelder aktivitet som pågår i eller ved slike objekter.
+Den som råder over områder eller objekter som nevnt i første og andre ledd, kan gi tillatelse til å gjøre opptak av eller på annen måte bruke informasjon om områdene eller objektene.
+Departementet gir forskrift med nærmere bestemmelser om opptak og bruk av informasjon om bestemt angitte områder og skjermingsverdige objekter, herunder nærmere prosedyrer for innmelding av objekter og områder som rammes av forbudet i første og andre ledd.
