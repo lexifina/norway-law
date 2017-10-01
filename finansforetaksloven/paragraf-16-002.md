@@ -7,4 +7,5 @@ b) formålet er å gjennomføre kundeoppdrag og oppgjør av krav fra eller mot k
 c) det er nødvendig å meddele opplysninger om kunders helseforhold og andre personopplysninger til annet finansforetak, unntatt når annet følger av bestemmelser i personopplysningsloven.
 Utlevering av opplysninger etter første punktum kan bare skje i henhold til styrevedtak.
 (4) Et finansforetak skal ha kontrollordninger for å sikre at kundeopplysninger blir behandlet på en betryggende måte, og at uvedkommende ikke får tilgang eller kjennskap til opplysningene.
-(5) Departementet kan gi forskrift om utlevering av opplysninger.
+(5) Et finansforetak kan begjære utlevert fra Folkeregisteret opplysning om ektefelle, barn og foreldre. Folkeregistermyndigheten kan, uten hinder av taushetsplikt, utlevere opplysningen når det er nødvendig for utførelsen av oppgaver etter denne lov.
+(6) Departementet kan gi forskrift om utlevering av opplysninger.

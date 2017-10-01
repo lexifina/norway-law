@@ -8,4 +8,5 @@ d) konfliktrådene etter krav fra skattemyndighetene gi opplysninger om innholde
 e) andre skattemyndigheter, politiet og Mattilsynet gi opplysninger som er av betydning for skattemyndighetenes vurdering av om vilkårene for registrering av produsent eller importør av alkoholholdig drikk og teknisk etanol etter bestemmelser gitt i eller i medhold av særavgiftsloven, er oppfylt
 f) utlendingsmyndighetene etter krav fra skattemyndighetene gi opplysninger om oppholds- og arbeidstillatelse i Norge for utenlandske artister
 g) politiet etter krav fra skattemyndighetene gi opplysninger om utenlandske artister som tar engasjement i politidistriktet, samt arrangørens navn og adresse
-h) tollmyndighetene gi opplysninger om vareførselen til og fra landet av betydning for skattemyndighetenes fastsetting av skatt ved innførsel.
+h) tollmyndighetene gi opplysninger om vareførselen til og fra landet av betydning for skattemyndighetenes fastsetting av skatt ved innførsel
+i) folkeregistermyndigheten etter krav fra skattemyndighetene gi opplysninger som er nødvendige for skattemyndighetenes fastsetting av skatt.
