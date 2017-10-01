@@ -1,0 +1,2 @@
+# § 2. Dokumentasjonsplikt for personer som yter tjenester etter helse- og omsorgstjenesteloven som ikke er å anse for helsehjelp
+Helsepersonelloven kapittel 8 kommer ikke til anvendelse for personer som yter tjenester etter lov om kommunale helse- og omsorgstjenester som ikke er å anse for helsehjelp, jf. helsepersonelloven § 3 tredje ledd. Helsepersonelloven kapittel 8 kommer likevel til anvendelse ved ytelse av tjenester omfattet av kapittel 9 i lov om kommunale helse- og omsorgstjenester, jf. denne lovens § 9-10.
