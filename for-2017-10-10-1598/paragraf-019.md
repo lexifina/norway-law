@@ -1,0 +1,2 @@
+# § 19. Tilfeller der produsentens forpliktelser får anvendelse på importøren og distributøren
+En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 7 så langt bestemmelsen gjelder når importøren eller distributøren bringer elektrisk utstyr i omsetning under eget navn eller varemerke, eller endrer elektrisk utstyr som allerede er brakt i omsetning på en slik måte at det kan påvirke utstyrets samsvar med forskriften.
