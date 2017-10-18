@@ -1,0 +1,2 @@
+# § 2-2. Innsending av søknad
+Søknad sendes skolen på skolens søknadsskjema. All praksis, utdanning og andre forhold som skal gi grunnlag for opptak må dokumenteres. Søkere som søker om opptak på formelt grunnlag, jf. § 2-3, skal legge ved kopi av vitnemål fra videregående skole. Attester/bekreftelser for arbeidserfaring må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester/bekreftelser må være i original, alternativt kopi som er stemplet, datert og signert for å komme i betraktning.
