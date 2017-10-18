@@ -1,0 +1,6 @@
+# § 4-10. Klage på karakter
+Kandidaten kan klage skriftlig på karakteren innen 3 (tre) uker etter at eksamensresultatet er kunngjort, eller – hvis det er bedt om begrunnelse – fra det tidspunkt begrunnelse er gitt.
+Hvis kandidaten har fremsatt klage på formelle feil ved eksamen, jf. § 4-11, løper klagefristen på karakterfastsetting fra det tidspunktet endelig vedtak foreligger.
+Klage på muntlig karakter må fremsettes umiddelbart etter at karakter er gjort kjent eller at begrunnelse for karakter er gjort kjent. Ny karakterfastsetting kan skje til gunst eller ugunst for klager, eller opprinnelig karakter opprettholdes. Karakteren kandidaten får etter ny karakterfastsetting kan ikke påklages. Det samme gjelder annen bedømmelse som på grunn av prøvens art (for eksempel praktisk prøve) ikke lar seg etterprøve.
+Klage på karakterfastsetting sendes til administrasjonen, som styrer omsensurprosessen. Ny(e) sensor(er) skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur. De(n) nye sensoren(e) setter den endelige karakteren. Ny karakterfastsetting kan skje til gunst eller ugunst for klager, eller opprinnelig karakter opprettholdes.
+Karakter som fastsettes ved omsensur kan ikke påklages.
