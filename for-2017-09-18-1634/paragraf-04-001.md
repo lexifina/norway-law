@@ -1,0 +1,2 @@
+# § 4-1. Ansvar for gjennomføring av eksamen
+Frelsesarmeens offisersskole har ansvaret for gjennomføringen av eksamen og vurdering i henhold til skolens fagplan. Styret for Frelsesarmeens offisersskole godkjenner eksamensformer slik de fremgår i læreplanen for Frelsesarmeens offisersutdanning. I enkelte emner kan det for noen studenter være aktuelt å avlegge eksamen ved universitet eller høgskole som erstatning for eller supplement til fagskolevurdering. I disse tilfeller gjelder eksamensreglement ved den aktuelle institusjonen.
