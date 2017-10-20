@@ -1,0 +1,4 @@
+# § 4-8. Klage over formelle feil ved eksamen
+(1) Den som har vært oppe til eksamen eller prøve, kan klage over formelle feil innen tre uker etter at han eller hun er, eller burde være kjent med det forhold som begrunner klagen. Slik klage avgjøres av styret.
+(2) Hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, skal sensurvedtaket oppheves. Hvis feilen kan rettes opp ved ny sensur av innleverte arbeider, foretas ny sensurering. I motsatt fall holdes ny eksamen eller prøve med nye sensorer.
+(3) Hvis styret ser at det er begått formelle feil, og det er rimelig å anta at dette kan ha hatt betydning for en eller flere kandidaters prestasjon eller bedømmelse av denne, kan det bestemmes at det skal foretas ny sensurering eller holdes ny eksamen eller prøve.
