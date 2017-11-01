@@ -1,0 +1,5 @@
+# § 1-6. Institusjonens informasjonsplikt
+(1) Før pensjonsavtalen inngås, skal institusjonen skriftlig gi kunden opplysninger om binding av pensjonskapitalen i avtaleperioden og om hvilke pensjonsytelser avtalen omfatter, samt om reglene for utbetaling av ytelser. Før avtalen inngås, skal institusjonen også opplyse om relevante skatteregler, samt informere om eventuelle endringer i disse skattereglene i løpet av avtaleperioden. Institusjonen skal også gi kunden opplysninger etter § 4-1 annet ledd og § 5-7 annet ledd.
+(2) Institusjonen skal hvert år gi kunden kontoutskrift med informasjon som angitt i § 1-7 første ledd. Kontoutskriften skal vedlegges oppdatert informasjon over utviklingen av alderspensjonskapitalen og pensjonsytelsene under ulike innskudds- og premienivåer og beregningsforutsetninger, inkludert informasjon om usikkerheten i beregningsforutsetningene.
+(3) Opplysningene som nevnt i første og annet ledd skal gis på norsk, men kan gis på annet språk hvis kunden ber om dette.
+(4) Kongen kan i forskrift gi nærmere regler om institusjonens informasjonsplikt.

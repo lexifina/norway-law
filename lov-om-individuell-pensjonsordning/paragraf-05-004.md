@@ -1,0 +1,3 @@
+# § 5-4. Sammenslåing av henholdsvis pensjonskapitalbevis og forsikringsbevis
+(1) Pensjonskapitalbevis utstedt etter § 5-2 første ledd kan benyttes av kunden etter § 2-5 annet ledd. Har kunden fripolise utgått fra ytelsesbasert tjenestepensjonsordning etter foretakspensjonsloven, kan pensjonskapitalen som følger av pensjonskapitalbeviset benyttes som engangspremie til alderspensjon etter fripolisen, forutsatt at institusjonen som forvalter fripolisen samtykker.
+(2) Kunden kan kreve at forsikringsbevis utstedt etter § 5-2 første ledd, slås sammen med fripolise utgått fra ytelsesbasert tjenestepensjonsordning som nevnt i første ledd. § 3-10 gjelder tilsvarende.

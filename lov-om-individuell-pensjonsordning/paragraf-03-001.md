@@ -1,0 +1,7 @@
+# § 3-1. Pensjonsforsikringsavtale
+(1) Pensjonsforsikringsavtale skal inngås i samsvar med og er undergitt reglene i forsikringsavtaleloven Del B for så vidt ikke annet følger av loven her. Institusjonen kan ikke kreve gebyr for inngåelsen av pensjonsforsikringsavtalen, med mindre dette er særskilt avtalt med den enkelte kunde.
+(2) Pensjonsforsikringsavtalen skal angi hvilke ytelser som omfattes og vilkårene for utbetaling, samt hvilke premier og vederlag for tjenester kunden skal betale. Utbetalingen av alderspensjon skal skje så lenge kunden lever. Det kan likevel avtales at utbetalingen av alderspensjon skal opphøre eller settes ned ved fylte 77 år eller senere, men ikke i noe tilfelle før alderspensjon har vært utbetalt i 10 år.
+(3) Årlig premie skal beregnes slik at pensjonsforsikringen vil være fullt betalt når kunden fyller 67 år. Kunden kan fortsette innbetaling av den årlige premie inntil kunden har fylt 75 år dersom institusjonen samtykker i at slik premie benyttes som engangspremie for tillegg til årlig pensjonsytelse.
+(4) Skal pensjonskapitalen forvaltes i særskilt investeringsportefølje, gjelder § 2-1 sjette ledd tilsvarende.
+(5) Dersom pensjonsforsikringsavtalen opphører før kunden har tatt ut alderspensjon, skal institusjonen utstede et pensjonsbevis. Pensjonsbeviset skal angi kundens rett til opptjent pensjon og tilhørende pensjonskapital på opphørstidspunktet, samt de vederlag for tjenester som kunden skal betale etter opphørstidspunktet.
+(6) Retten til alderspensjon med tilhørende premiereserve faller bort ved kundens død.

@@ -1,0 +1,3 @@
+# § 3-2. Alder ved uttak av pensjon mv.
+(1) Kunden kan tidligst ta ut alderspensjon ved fylte 62 år. Kunde som har adgang til å ta ut alderspensjon fra lovregulert offentlig eller privat tjenestepensjonsordning på et tidligere tidspunkt, kan likevel ta ut alderspensjon fra samme eller fra et senere tidspunkt. Alderspensjonen kan likevel ikke tas ut før fylte 67 år dersom årlig pensjonsytelse i samsvar med § 3-3 utgjør mindre enn om lag 20 prosent av folketrygdens grunnbeløp.
+(2) Det kan ikke stilles som vilkår i pensjonsforsikringsavtalen at alderspensjon bare kan eller må tas ut samtidig med uttak av alderspensjon fra folketrygden. Det kan heller ikke stilles som vilkår at kunden ikke har heltids- eller deltidsstilling.
