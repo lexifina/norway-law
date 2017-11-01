@@ -1,0 +1,3 @@
+# § 2-6. Forvaltning av pensjonskapitalen i utbetalingsperioden
+(1) I utbetalingsperioden skal pensjonskapital knyttet til pensjonskapitalbevis utstedt etter § 2-5 forvaltes i egen spareavtale, med mindre kunden velger å konvertere pensjonskapitalbeviset til pensjonsforsikringsavtale i samsvar med bestemmelsene i kapittel 3, eller annet følger av annet ledd eller § 2-5 annet ledd.
+(2) Kunden kan i stedet benytte pensjonskapital knyttet til pensjonskapitalbeviset som engangspremie for tillegg til alderspensjonsytelsen i henhold til pensjonsforsikringsavtale etter innskuddspensjonsloven § 7-3 første ledd bokstav b eller fripolise utgått fra ytelsesbasert tjenestepensjonsordning etter foretakspensjonsloven, dersom den institusjon det gjelder samtykker.

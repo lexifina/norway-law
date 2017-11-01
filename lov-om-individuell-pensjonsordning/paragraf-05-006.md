@@ -1,0 +1,4 @@
+# § 5-6. Sammenslåing av forsikringsbevis (IPA) med individuell pensjonsforsikringsavtale
+(1) Kunde som har inngått individuell pensjonsforsikringsavtale etter denne loven, kan kreve at pensjonskapital knyttet til forsikringsbevis utstedt etter § 5-2 slås sammen med og inngår i pensjonskapitalen til den individuelle pensjonsforsikringsavtalen, forutsatt at avtalene forvaltes av samme institusjon.
+(2) Opptjent pensjon etter sammenslåingen etter første ledd beregnes etter beregningsgrunnlaget for den individuelle pensjonsforsikringsavtalen. Bestemmelsene om omregning i § 3-9 gjelder i tilfelle tilsvarende.
+(3) Sammenslåing etter første ledd kan ikke foretas dersom det for rettighetene etter forsikringsbeviset er oppnevnt endelig begunstiget som nevnt i forsikringsavtaleloven § 15-2 annet ledd.

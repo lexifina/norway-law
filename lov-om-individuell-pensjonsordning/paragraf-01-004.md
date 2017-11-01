@@ -1,0 +1,5 @@
+# § 1-4. Pensjonskapitalen
+(1) En kundes pensjonskapital omfatter de midler som til enhver tid er knyttet til en pensjonsavtale som følge av innbetalinger av innskudd eller premie fra kunden, samt den avkastning institusjonen har tilført pensjonskapitalen. Alderspensjonskapitalen omfatter midler knyttet til kundens rett til alderspensjon.
+(2) Pensjonskapital knyttet til pensjonsavtale kan ikke utbetales av institusjonen på annen måte enn som årlige pensjonsytelser, med mindre annet følger av bestemmelser gitt i eller i medhold av loven her.
+(3) Pensjonskapitalen og retten til utbetaling av ytelser etter en pensjonsavtale kan ikke overdras eller pantsettes av kunden eller på annen måte benyttes til dekning av kundens kreditorer. Kundens rettigheter etter pensjonsavtalen kan heller ikke gjenkjøpes av institusjonen.
+(4) Motregning kan ikke skje i midler som inngår i pensjonskapitalen. Ved utbetaling av ytelser kan det likevel foretas motregning med krav som utspringer av pensjonsavtalen (konnekse krav).

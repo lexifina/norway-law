@@ -1,0 +1,5 @@
+# § 1-3. Krav til pensjonsytelser mv.
+(1) Pensjonsavtalen skal gi kunden rett til alderspensjon i samsvar med bestemmelsene i loven her. Minst en tredjedel av samlet årlig innskudd, premier og vederlag for administrasjon av avtalen, herunder vederlag for forvaltning av årets innskudd og premie, skal benyttes til oppbygging av alderspensjon.
+(2) Pensjonsavtalen kan, i tillegg til alderspensjon, omfatte forsikringer som gir rett til innskuddsfritak eller premiefritak i samsvar med uføregraden når uføregraden er minst 20 prosent.
+(3) Pensjonsavtalen kan også omfatte forsikringer som gir rett til uførepensjon eller andre uføreytelser, etterlattepensjon og barnepensjon for så vidt retten til slike ytelser ikke er i strid med bestemmelsene i loven her.
+(4) Samlet årlig innbetaling av innskudd, premie og vederlag for administrasjon av pensjonsavtalen, herunder vederlag for forvaltning av årets innskudd og premie, kan for hver person ikke overstige 15 000 kroner. Innbetaling som nevnt i første punktum kan ikke trekkes av pensjonskapital.

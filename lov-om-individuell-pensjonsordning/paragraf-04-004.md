@@ -1,0 +1,2 @@
+# § 4-4. Flytting
+(1) Ved flytting av kollektiv tjenestepensjonsordning etter reglene i forsikringsvirksomhetsloven kapittel 6, gjelder forsikringsvirksomhetsloven § 6-11 tilsvarende i forhold til individuelle pensjonsspareavtaler knyttet til den kollektive tjenestepensjonsordningen. Institusjonen skal, når den får melding om at den kollektive tjenestepensjonsordningen skal flyttes, gi skriftlig melding til innehaver av den individuelle pensjonsspareavtalen.
