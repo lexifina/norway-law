@@ -1,0 +1,10 @@
+# § 4. Trafikklast på fylling inntil konstruksjoner
+1) Konstruksjoner i tilknytning til veganlegg, som blant annet har som funksjon å støtte opp fyllinger, skal dimensjoneres for sidetrykket (jordtrykket) fra lastene spesifisert nedenfor. Lastene beskrevet i § 4 klassifiseres som trafikklaster i henhold til NS-EN 1990.
+2) Følgende ekvivalentlaster gjelder for lastmodell 1 (LM1) som består av en jevnt fordelt last (UDL) og boggilaster (TS) i inntil 3 lastfelt:
+- Den jevnt fordelte lasten (UDL) erstattes av qk = 5 kN/m2 for alle lastfelt, inkludert eventuelt restareal, se figur 1 og figur 2. Areal som er satt av til kantrekkverk, rekkverk mellom gang- og sykkelanlegg og kjørebane og fysisk skille mellom kjøreretningene, belastes med samme last. Lasten plasseres i ugunstigste stilling på konstruksjonens tilløpsfylling, i én bruende eller begge.
+- Boggilastene (TS) i lastfelt 1 og lastfelt 2 erstattes med en jevnt fordelt trafikklast (boggiekvivalentlast) over lastfeltets bredde og 6 m i lengderetningen, se figur 1 og figur 2. Boggiekvivalentlastens intensitet er qQk = 25 kN/m2. Boggilasten (TS) i lastfelt 3 regnes å inngå i qk. Lasten(e) plasseres innenfor tilløpsfyllingene i ugunstigste posisjon i bruas lengderetning og i ugunstigste lastfelt i tverretningen.
+3) Boggiekvivalentlasten skal alltid regnes å opptre samtidig med den jevnt fordelte lasten, qk.
+4) Virkningen av bremselast, sidelast og eventuelt sentrifugallast på fyllingen, samt den komprimerende effekten som trafikklasten har, er inkludert i lastene i 2).
+5) Lastene i 2) kombineres med jevnt fordelt trafikklast på brua dersom dette er ugunstig for lastvirkningen som undersøkes.
+6) Arealer som ikke er regulert til spesielle formål, eller er uten noen form for virksomhet, blant annet sideskråninger, skal belastes med qk = 5 kN/m2 der dette er ugunstig.
+7) Det skal tas hensyn til krefter fra påkjørsel av rekkverk festet direkte eller indirekte til konstruksjonen. Figur 1 – Trafikklast på fylling inntil konstruksjoner, plan Figur 2 – Trafikklast på fylling inntil konstruksjoner, snitt A–A
