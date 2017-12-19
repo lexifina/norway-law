@@ -1,0 +1,3 @@
+# § 3. Begrensninger i utbetalingsplikten ved dekning av arbeidsvederlag
+Utbetalingsplikten er begrenset til arbeidsvederlag for 8 uker eller flere kortere perioder på til sammen 8 uker. Kravet på arbeidsvederlag skal være opptjent innenfor de siste 18 måneder av arbeidsavtalen eller arbeidsforholdet før fristdagen, jf. dekningsloven § 1-1 og § 1-2. Arbeidstakers krav er i det enkelte tilfellet begrenset til et beløp som tilsvarer tre ganger folketrygdens grunnbeløp på fristdagen, jf. folketrygdloven § 6-2.
+Krav om utestående arbeidsvederlag må være fremsatt for bostyrer innen den frist som er fastsatt i kunngjøringen om at konkurs er åpnet. Krav mot garantisten må fremsettes av bostyrer før utlodning fra boet.

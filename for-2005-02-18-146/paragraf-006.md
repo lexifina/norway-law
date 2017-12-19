@@ -1,0 +1,2 @@
+# § 6. Statens plikter hvor garanti ikke foreligger
+Dersom det ikke foreligger en slik sikkerhet som nevnt i § 2, og garantitilfellet er inntrådt, garanterer Staten for ubestridte vederlagsforpliktelser overfor arbeidstakeren for så vidt de ville vært dekket ved gyldig garanti. Staten trer i så fall inn i arbeidstakerens krav med dennes prioritet mot konkursdebitor og dennes bo med tilhørende sikkerhet etter sjøloven § 51 – § 52 og dekningsloven § 9-3. Dette gjelder selv om vilkårene for utbetaling av lønnsgarantien ikke forelå.
