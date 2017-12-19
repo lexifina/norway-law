@@ -1,0 +1,2 @@
+# § 11. Ikrafttredelse
+Denne forskriften trer i kraft straks. Fra samme tid oppheves forskrift 17. desember 1993 nr. 1162 om pliktige garantiordninger for arbeidstakere på norske skip, forskrift 23. desember 1993 nr. 1253 om lønns- og hjemreisegaranti ved arbeidsgivers konkurs og forskrift 23. desember 1993 nr. 1254 om garanti for trygderettigheter for EØS-borgere som arbeider som hotell- og restaurantansatte på turistskip registrert i norsk internasjonalt skipsregister.
