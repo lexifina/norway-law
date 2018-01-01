@@ -1,0 +1,3 @@
+# § 7. Godkjenning av utstyr
+Utstyr som kreves etter bestemmelsene i forskriften her og i koden for hurtiggående fartøy, skal være godkjent, typegodkjent eller akseptert.
+Utstyr som oppfyller kravene i forskrift 30. august 2016 nr. 1042 om skipsutstyr, anses å være i samsvar med kravene i forskriften her, uansett om det etter første ledd og i andre relevante forskrifter kreves at utstyret skal være godkjent, typegodkjent eller akseptert. For redningsvester som skal ha termisk beskyttelse, jf. forskrift 1. juli 2014 nr. 1019 om redningsredskaper på skip, må de termiske egenskapene (IMO MSC/Circ. 922) dokumenteres i henhold til første ledd.
