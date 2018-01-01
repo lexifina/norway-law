@@ -1,0 +1,2 @@
+# § 14. Om rettar og plikter
+Skal eigedomen ved sal gå over til ein ny eigar som enno ikkje har fått skøyte eller overteke bruken av eigedomen, går den nye eigarens rettar og plikter etter avtala over på forkjøpsretthavaren frå den tid då løysingskrav etter § 13 tredje ledd fyrste punktum er kome fram til ervervaren. Vilkåret er at det ervervaren har lagt ut i samsvar med avtala, vert godtgjort av forkjøpsrettshavaren. Føresegna i § 13 siste ledd gjeld tilsvarande.
