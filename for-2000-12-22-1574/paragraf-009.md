@@ -1,0 +1,3 @@
+# § 9. Opplysninger om styrings- og manøvreringsdyktighet
+For eksisterende og nye hurtiggående fartøy, skal opplysningene om styrings- og manøvreringsdyktighet som skal finnes i operasjonshåndboken, jf. HSC94- og HSC2000-kodens nr. 17.2, omfatte forhold som er spesifisert i 17.2 med følgende presisering og tillegg:
+- Kravet til opplysninger vedrørende egenskaper som nevnt i kodenes nr. 17.5 er begrenset til egenskaper avgjørende for sikkerheten for det aktuelle fartøyet. Dessuten skal opplysninger vedrørende sikre maksimumshastigheter, i samsvar med kodenes nr. 17.9, finnes i operasjonshåndboken.
