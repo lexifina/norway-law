@@ -1,0 +1,4 @@
+# § 9
+1. Tillatelse til et foretagende skal inneholde både de vilkår som fastsettes av vedkommende myndighet i Norge og de vilkår som Sverige i henhold til konvensjonen av 11 mai 1929 art. 13 måtte ha stillet for sitt samtykke. Tillatelsen skal tillike inneholde forbehold om at den ikke gjelder i Sverige før ansøkeren hos vedkommende svenske myndighet har innhentet sådan bevidnelse som omhandlet i denne paragrafs pkt. 3.
+2. Når endelig beslutning er fattet, skal avskrift av denne sendes vedkommende svenske myndighet, samtidig med at beslutningen tilstilles ansøkeren.
+3. Når der er meddelt tillatelse til et foretagende, skal ansøkeren innen 180 dager efter at tillatelsen er blitt endelig innhente bevidnelse hos vedkommende svenske myndighet om at tillatelsen er utferdiget på den måte som er foreskrevet i konvensjonen av 11 mai 1929. Begjæres ikke sådan bevidnelse innen den nevnte tid, kan foretagendet ikke fremmes uten ny tillatelse.

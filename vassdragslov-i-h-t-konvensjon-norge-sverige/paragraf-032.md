@@ -1,0 +1,2 @@
+# § 32
+Omfatter et foretagende overføring av vann fra et nedbørområde til et annet, kan Kongen eller vedkommende svenske myndighet forlange at spørsmålet i medhold av konvensjonen av 11 mai 1929 art. 2 skal gjøres til gjenstand for særskilte forhandlinger mellem rikene hvorunder disse ikke er bundet av bestemmelsene i konvensjonen. I så fall gjelder heller ikke denne lov. Dog kan Kongen for Norges vedkommende tillegge de av lovens bestemmelser som dertil finnes egnet gyldighet.
