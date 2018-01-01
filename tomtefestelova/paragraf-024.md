@@ -1,0 +1,3 @@
+# § 24. Krav på retting av manglar
+Festaren kan krevje at bortfestaren rettar manglar ved tomta innan rimeleg tid etter at krav om retting er sett fram, dersom mangelen kan rettast utan urimeleg kostnad eller ulempe for bortfestaren. Bortfestaren kan på si side krevje å få rette manglar som festaren har gjort gjeldande, når retting ikkje vil vere til vesentleg ulempe for festaren og vert utførd innan rimeleg tid.
+Når det ligg føre rettingsplikt etter fyrste punktum i fyrste ledd utan at bortfestaren oppfyller plikta, kan festaren krevje skadebot for kostnader han eller ho har hatt med å få mangelen retta.

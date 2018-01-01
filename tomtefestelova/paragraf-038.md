@@ -1,0 +1,4 @@
+# § 38. Gjennomføring av innløysing
+Når innløysingssummen og innløysingsvilkåra elles er endeleg fastsette, kan festaren krevje at bortfestaren gjer det som trengst frå bortfestarens side for å få tomta skild ut frå bortfestareigedomen og heimelen overførd til festaren.
+Festaren ber alle kostnader som frådeling og heimelsoverføring fører med seg, om ikkje anna fylgjer av det som er avtalt.
+Seinast fire veker etter at innløysingssummen er endeleg fastsett ved skjønn, voldgift eller rettsleg avgjerd, kan festaren seie frå seg kravet om innløysing. Festaren må då dekkje bortfestaren sine naudsynte kostnader som følgje av kravet, medrekna ilagte sakskostnader til festaren. Kvar av partane kan be avgjerdsinstansen ved orskurd å fastsetje beløpet som festaren skal betale. Skjønnets eller rettens leiar eller ein annan dommar kan seie orskurden åleine.

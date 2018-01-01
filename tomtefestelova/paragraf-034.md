@@ -1,0 +1,5 @@
+# § 34. Unntak frå festarens rett til innløysing
+Retten til innløysing gjeld berre så langt denne kan sameinast med bortfestarens rettsgrunnlag etter lov eller avtale. Ein tredjeperson med rett til bortfestareigedomen kan ikkje setje seg i mot at tomta seinare vert innløyst, dersom han eller ho må reknast å ha gjeve samtykke til bortfestinga utan atterhald mot innløysing.
+Ved krav om innløysing av ei festetomt til bustadhus eller fritidshus som høyrer til ein bygdeallmenning, kan bortfestaren i staden tilby festaren lenging etter § 33. Det same gjeld ved krav om innløysing av ei festetomt til fritidshus som høyrer til ein statsallmenning eller til Finnmarkseigedomens grunn i Finnmark.
+Kongen kan fastsetje i forskrift at det same som i andre leddet skal gjelde så lenge tomt festa bort til fritidshus høyrer til ein landbrukseigedom og inntekta frå festearealet som høyrer til bruket, tilseier at innløysing ikkje finn stad.
+Unntaka i paragrafen her gjeld berre så langt innløysingsretten følgjer av § 32.
