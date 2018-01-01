@@ -1,0 +1,4 @@
+# § 18a. Krav til istandsetting av vegen etter ledningsarbeid
+Ledningseier skal sørge for full istandsetting av vegen slik at den får tilstrekkelig funksjonalitet og ikke kan forventes å få kortere levetid som følge av ledningsarbeidene. Det kan inngås skriftlig avtale om annen istandsetting. Vegmyndigheten kan ikke kreve gebyr for kvalitetsforringelse eller fremtidige økte vedlikeholdskostnader som kan oppstå etter ledningsarbeider.
+Vegmyndigheten kan, før ledningsarbeidet påbegynnes, kreve at det stilles økonomisk garanti for etterfølgende utbedring av vegen og senere følgeskader som kan tilbakeføres til ledningsarbeidet. Garantien må stå i rimelig forhold til omfanget av ledningsarbeidet og skal normalt ikke ha en varighet ut over fem år fra arbeidets avslutning.
+Blir ikke pålagt utbedring foretatt innen en fastsatt frist, kan vegmyndigheten la det bli utført for ledningseiers regning og risiko.
