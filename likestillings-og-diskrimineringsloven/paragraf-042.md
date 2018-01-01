@@ -1,0 +1,2 @@
+# § 42. Ikrafttredelse
+Loven gjelder fra den tid Kongen bestemmer. Fra samme tid oppheves lov 21. juni 2013 nr. 58 om forbud mot diskriminering på grunn av seksuell orientering, kjønnsidentitet og kjønnsuttrykk, lov 21. juni 2013 nr. 59 om likestilling mellom kjønnene, lov 21. juni 2013 nr. 60 om forbud mot diskriminering på grunn av etnisitet, religion og livssyn og lov 21. juni 2013 nr. 61 om forbud mot diskriminering på grunn av nedsatt funksjonsevne.
