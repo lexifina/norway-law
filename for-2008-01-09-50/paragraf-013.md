@@ -1,0 +1,2 @@
+# § 13. Rett til å holde tilbake fortrolig informasjon
+Det fusjonerte selskapet eller de fusjonerende selskapene kan i særlige tilfeller unnlate å gi informasjon til det særlige forhandlingsutvalget og tilsvarende organer opprettet med grunnlag i denne forskrift, dersom det åpenbart vil være til betydelig skade for det fusjonerte selskapet, de fusjonerende selskapene, deres datterselskaper eller filialer at opplysningene blir kjent. Første punktum gjelder ikke arbeidstakernes representanter i administrasjons- eller kontrollorganet.
