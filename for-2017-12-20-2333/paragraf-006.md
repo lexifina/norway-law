@@ -1,0 +1,4 @@
+# § 6. Gebyr for tilknytning til og bruk av elektroniske støttesystemer
+Jernbaneforetak som driver rutegående persontransport skal betale gebyr til Jernbanedirektoratet for tilknytning til og bruk av elektroniske støttesystemer for billettering. Administrasjonsselskap eller fylkeskommune skal isteden ilegges slikt gebyr når de har den økonomiske risiko for å levere tjenesten eller eier billettsystemet som brukes.
+Gebyret fastsettes av Jernbanedirektoratet på grunnlag av Jernbanedirektoratets budsjett for disse tjenestene. Gebyret fordeles forholdsmessig mellom aktørene med utgangspunkt i antall kollektivreiser.
+Jernbanedirektoratet kan også pålegge jernbaneforetakene og administrasjonsselskapene et engangsgebyr som skal dekke obligatoriske individuelle tjenester knyttet til elektroniske støttesystemer for billettering.
