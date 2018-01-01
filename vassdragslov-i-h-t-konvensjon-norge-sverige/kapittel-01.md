@@ -1,0 +1,1 @@
+# Første kapitel. Lovens omfang.

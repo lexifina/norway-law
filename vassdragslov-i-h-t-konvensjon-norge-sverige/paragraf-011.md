@@ -1,0 +1,2 @@
+# § 11
+Når et foretagende iverksettes i Sverige, kan Kongen under iakttagelse av bestemmelsene i konvensjonen av 11 mai 1929 og i denne lov for vannfall, annen fast eiendom eller ferdsels- eller fløtningsinteresse hjemmehørende i Norge gjøre gjeldende de forpliktelser og de rettigheter som efter norsk vassdragslovgivning vilde gjelde for disse om anlegget, arbeidet eller foranstaltningen skulde iverksettes i Norge. Herunder skal alene tas hensyn til foretagendets virkninger her i riket og til interesser innen dette.

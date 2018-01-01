@@ -1,0 +1,4 @@
+# § 7
+1. Med søknad om tillatelse til et foretagende skal foruten de oplysninger m.v. som for øvrig er påbudt i norsk vassdragslovgivning også følge de oplysninger m.v. som er fornødne for bedømmelse av foretagendets virkninger i Sverige.
+2. Hvis det vannfall eller den faste eiendom eller den ferdsels- eller den fløtningsinteresse for hvis regning foretagendet aktes iverksatt hører hjemme i Sverige, skal søknaden være fulgt av uttalelse fra vedkommende svenske myndighet om at der fra svensk side intet er å innvende mot at søknaden optas til behandling. Denne bestemmelse får ikke anvendelse hvis det er den svenske stat som er ansøker.
+3. Når søknad er innkommet til vedkommende departement, skal et eksemplar av søknaden med bilag ledsaget av de nødvendige oplysninger om søknadens behandling her i riket sendes til vedkommende svenske myndighet.
