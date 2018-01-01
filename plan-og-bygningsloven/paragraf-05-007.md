@@ -1,0 +1,2 @@
+# § 5-7. Søksmål om gyldigheten av innsigelse og departementets avgjørelse
+En kommune kan reise søksmål om gyldigheten av en innsigelse etter § 5-4 og departementets avgjørelse etter § 5-6. Søksmålet må reises innen seks måneder etter at innsigelsen ble fremmet eller avgjørelsen truffet. Søksmål om gyldigheten av en innsigelse kan ikke reises etter at det er foretatt mekling etter § 5-6. Forvaltningens behandling av innsigelsen stilles i bero mens søksmålet er til behandling i domstolene.
