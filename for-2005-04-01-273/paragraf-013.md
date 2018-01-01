@@ -1,0 +1,4 @@
+# § 13. Misbruk av reglene om europeiske selskaper
+(1) Dersom det innen ett år etter registreringen av SE-selskapet inntrer vesentlige endringer i selskapet, dets datterselskaper eller filialer og disse endringene ville ha gitt arbeidstakerne større innflytelse enn gjeldende innflytelsesordninger dersom de hadde vært foretatt før registreringen, skal reglene om SE-selskap anses misbrukt med mindre selskapet sannsynliggjør at endringene hadde andre årsaker.
+(2) Dersom reglene om SE-selskap misbrukes for å frata arbeidstakerene innflytelse, kan nye forhandlinger kreves. Forhandlinger kan kreves av representasjonsorganet eller av representanter for flertallet av arbeidstakerne i SE-selskapets nye forretningssteder eller datterselskap.
+(3) Bestemmelsene i § 4 til § 10 gjelder tilsvarende så langt de passer.

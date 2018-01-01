@@ -1,0 +1,2 @@
+# § 12. Rett til å holde tilbake fortrolig informasjon
+Et SE-selskap eller deltakende selskap kan i særskilte tilfeller unnlate å gi informasjon til det særlige forhandlingsutvalget, representasjonsorganet og tilsvarende organer opprettet med grunnlag i denne forskrift dersom det åpenbart vil være til betydelig skade for SE-selskapet, deltakende selskap, deres datterselskaper eller filialer at opplysningene blir kjent. Første punktum gjelder ikke arbeidstakernes representanter i administrasjons- og kontrollorganet.
