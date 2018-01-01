@@ -1,0 +1,3 @@
+# § 8. Tilbaketrekking av retten til å formidle tilskudd mv.
+Dersom omsetningsleddet driver eller har opptrådt i strid med denne forskriften, vilkår satt i medhold av forskriften eller annet regelverk som regulerer virksomheten, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet.
+Ved brudd på denne forskriften eller vilkår satt i medhold av forskriften, kan Landbruksdirektoratet nekte omsetningsleddet å fungere som tilskuddsformidler i en periode på inntil tre år. Det samme gjelder dersom omsetningsleddet overtrer bestemmelser i annet regelverk som regulerer omsetningsleddets virksomhet.
