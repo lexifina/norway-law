@@ -1,6 +1,4 @@
-# § 32. Forvaltning, organisasjon mv.
-Forbrukerombudet og Markedsrådet skal føre kontroll med at bestemmelsene i denne lov, med unntak av kapittel 6, overholdes.
-Forbrukerombudet åremålsbeskikkes av Kongen i statsråd for en periode på seks år uten adgang til gjenoppnevning.
-Markedsrådet skal bestå av leder, nestleder og syv medlemmer, alle med personlige varamedlemmer, som oppnevnes av Kongen. Funksjonstiden for medlemmene er fire år. Markedsrådet er vedtaksført når lederen eller nestlederen og minst fire andre medlemmer eller varamedlemmer er til stede. Vedtak treffes ved alminnelig flertall. Ved stemmelikhet er lederens stemme avgjørende.
-Kongen kan gi nærmere forskrifter om Forbrukerombudets og Markedsrådets organisasjon og virksomhet.
-Dersom en næringsvirksomhet som faller inn under denne loven også går inn under regulerings- eller kontrollbestemmelser i andre lover, kan Kongen gi nærmere regler om den innbyrdes avgrensningen av de forskjellige myndigheters virkeområde og om samarbeidet mellom dem.
+# § 32. Myndighetene og deres uavhengighet mv.
+Forbrukertilsynet og Markedsrådet skal føre kontroll med næringsdrivendes handelspraksis og avtalevilkår i samsvar med kapittel 7.
+Forbrukertilsynet og Markedsrådet er faglig uavhengige forvaltningsorganer som er administrativt underordnet departementet. Kongen og departementet kan ikke styre Forbrukertilsynets eller Markedsrådets utøving av myndighet i enkeltsaker eller generelle lovtolkning. Departementet behandler ikke avgjørelser fattet av Forbrukertilsynet eller Markedsrådet. Departementet behandler likevel klager på andre avgjørelser enn vedtak som Markedsrådet treffer i første instans, som kan påklages etter forvaltningsloven. Departementet behandler også klager på avslag på begjæring om innsyn etter offentleglova.
+Dersom en næringsvirksomhet som faller inn under denne loven, også går inn under regulerings- eller kontrollbestemmelser i andre lover, kan Kongen gi nærmere regler om den innbyrdes avgrensningen av de forskjellige myndighetenes virkeområde og om samarbeidet mellom dem.
