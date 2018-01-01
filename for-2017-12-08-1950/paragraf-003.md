@@ -1,0 +1,3 @@
+# § 3. Krav til referat fra oppstartsmøtet
+Kommunen skal utarbeide et referat fra oppstartsmøtet, som skal sendes til forslagsstilleren innen rimelig tid etter møtet.
+Referatet skal inneholde opplysninger om de temaene som ble drøftet i møtet, avklaringer og konklusjoner det ble enighet om, vesentlige punkter det er uenighet om og punkter som gjenstår å avklare. Det skal redegjøres for vurderingen av punktene i § 2 andre ledd bokstav a til i, kommunens vurdering av om kravet til fagkyndighet i plan- og bygningsloven § 12-3 fjerde ledd er oppfylt og om det er aktuelt å bringe forslaget inn for regionalt planforum.

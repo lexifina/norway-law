@@ -1,0 +1,3 @@
+# § 6. Krav til planforslag
+Et planforslag skal tilfredsstille kravene til en reguleringsplan i plan- og bygningsloven § 12-1 og bestemmelsene i forskrift om kart, stedfestet informasjon, arealformål og kommunalt planregister (kart- og planforskriften) §§ 9 og 10. Kommunen kan presisere ytterligere krav til fremstilling og innhold. Kravene skal i så fall fremgå av en nærmere spesifikasjon fra kommunen for utarbeiding og behandling av reguleringsplaner. Slike krav skal forslagsstiller gjøres kjent med senest i oppstartmøtet.
+Kommunen skal ikke pålegge forslagsstiller mer utredning og dokumentasjon enn nødvendig for å fatte et forsvarlig planvedtak.
