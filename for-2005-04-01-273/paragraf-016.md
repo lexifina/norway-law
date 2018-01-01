@@ -1,0 +1,2 @@
+# § 16. Forholdet til andre bestemmelser
+Lov 23. august 1996 nr. 63 om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. og forskrift 28. juli 2000 nr. 797 om europeiske samarbeidsutvalg mv. gjelder ikke for SE-selskaper med mindre det særlige forhandlingsutvalget i henhold til § 7 syvende og åttende ledd har besluttet ikke å innlede forhandlinger eller å avslutte forhandlinger om ordninger for innflytelse i selskapet.
