@@ -1,3 +1,3 @@
-# § 16. Opplysningsplikt ved uanmodet markedsføring ved telefon eller adressert post
-Næringsdrivende som driver uanmodet markedsføring ved telefon eller adressert post, skal opplyse hvem som har gitt personopplysningene som ligger til grunn for henvendelsen.
-Ved uanmodet markedsføring på telefon til forbrukere skal den næringsdrivende straks presentere seg og opplyse om at henvendelsen skjer i markedsføringshensikt. Dersom henvendelsen skjer på vegne av en annen, skal dette opplyses. Den næringsdrivende skal informere om reservasjonsretten etter § 12. Det skal legges til rette for at mottakeren enkelt og gebyrfritt kan reservere seg hos den næringsdrivende.
+# § 16. Opplysningsplikt ved uanmodet telefonmarkedsføring og markedsføring ved adressert post
+Ved uanmodet telefonmarkedsføring eller markedsføring ved adressert post skal den næringsdrivende opplyse hvem som har gitt personopplysningene som ligger til grunn for henvendelsen. Der det er relevant, skal den næringsdrivende informere om retten til å reservere seg i Reservasjonsregisteret og direkte hos den næringsdrivende.
+Ved uanmodet telefonmarkedsføring til forbrukere skal den næringsdrivende straks presentere seg og opplyse om at henvendelsen skjer i markedsføringshensikt. Dersom henvendelsen skjer på vegne av en annen, skal dette opplyses.
