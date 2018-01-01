@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne forskriften er å sikre at en søknad om seksjonering eller reseksjonering inneholder de opplysningene kommunen må ha for å kunne behandle søknaden, at kommunen får lagt riktige opplysninger inn i matrikkelen, og at tinglysingsmyndigheten får de opplysningene den trenger for å opprette grunnboksblad for hver seksjon eller registrere endringer på seksjonens grunnboksblad.
