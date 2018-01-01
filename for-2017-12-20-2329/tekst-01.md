@@ -1,0 +1,1 @@
+Adopted by Luftfartstilsynet 20 December 2017 pursuant to Act of 11 June 1993 No 101 on aviation § 9-1, § 9-2 and § 9-7, cf. Royal Decree of 10 December 1999 No 1265; cf. the Ministry of Transport and Communications' Delegation Decision of 10 December 1999 No 1273.
