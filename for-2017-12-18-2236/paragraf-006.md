@@ -1,0 +1,2 @@
+# § 6. Melding om endringer
+Tilskuddsmottaker skal så snart som mulig melde fra til Landbruksdirektoratet om forsinkelser eller endringer i prosjektet som har betydning for økonomi eller måloppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Landbruksdirektoratet skal godkjenne forsinkelser eller endringer som påvirker resultatet eller økonomien i prosjektet.
