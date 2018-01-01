@@ -1,0 +1,4 @@
+# § 2
+Særtilskot blir fastsett av tilskotsfuten på grunnlag av dei faktiske utgiftene som blir dokumenterte. Det kan ikkje påleggjast særtilskot dersom utlegget er lågare enn fullt tilskotsforskot per månad etter forskotteringslova.
+Særtilskot skal fastsetjast slik at dei dokumenterte nettoutgiftene blir fordelte mellom foreldra etter storleiken på inntekta deira etter forskrift om fastsetjing og endring av fostringstilskot. Særtilskot skal ikkje reduserast for samvær. Det skal ikkje fastsetjast særtilskot dersom den tilskotspliktige manglar full bidragsevne. Der foreldra held to markeringar av konfirmasjonen som fell tett saman i tid, skal særtilskotet fastsetjast som eit nettobidrag.
+Tilskotsfuten sitt vedtak kan klagast inn for næraste overordna organ eller det organ som Arbeids- og velferdsdirektoratet bestemmer.
