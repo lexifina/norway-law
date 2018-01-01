@@ -1,0 +1,6 @@
+# § 29. Fordeling av felleskostnader og fellesinntekter
+Kostnader med eiendommen som ikke knytter seg til den enkelte bruksenhet, er felleskostnader. Felleskostnader skal fordeles mellom seksjonseierne etter sameiebrøken. Dersom særlige grunner taler for det, kan kostnadene fordeles etter nytten for den enkelte bruksenhet eller etter forbruk.
+Dersom de seksjonseierne som berøres, uttrykkelig sier seg enige, kan det i vedtektene fastsettes en annen fordeling enn den som følger av første ledd.
+Den enkelte seksjonseieren skal betale et akontobeløp som fastsettes av seksjonseierne på årsmøtet, eller av styret, for å dekke sin andel av felleskostnadene. Akontobeløpet kan også dekke avsetning av midler til fremtidig vedlikehold, påkostninger eller andre fellestiltak på eiendommen dersom årsmøtet har vedtatt slik avsetning.
+En seksjonseier som har betalt mer i felleskostnader enn det som følger av første eller tredje ledd, har krav på å få tilbake det som er betalt for mye.
+Inntekter av eiendommen som ikke knytter seg til den enkelte bruksenhet, skal fordeles mellom seksjonseierne etter sameiebrøken. Dersom inntektene fordeles på annen måte, må dette følge av en bestemmelse i vedtektene som alle seksjonseierne uttrykkelig har sagt seg enig i.

@@ -1,0 +1,2 @@
+# § 6. Forbud mot diskriminering
+Vedtektene kan ikke fastsette vilkår for å være seksjonseier som tar hensyn til kjønn, etnisitet, religion, livssyn, nedsatt funksjonsevne, seksuell orientering, kjønnsidentitet eller kjønnsuttrykk. Slike forhold kan ikke regnes som saklig grunn til å nekte å godkjenne en seksjonseier eller bruker av eiendommen eller tillegges vekt ved bruk av eventuell forkjøpsrett. Ved diskriminering gjelder likestillingsloven, diskrimineringsloven om etnisitet, diskrimineringsloven om seksuell orientering og diskriminerings- og tilgjengelighetsloven.

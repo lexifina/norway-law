@@ -1,0 +1,3 @@
+# § 15. Gebyrer for kommunens behandling av søknaden om seksjonering
+Kommunen kan fastsette et seksjoneringsgebyr for å behandle seksjoneringssøknaden. Gebyret kan ikke være høyere enn de nødvendige kostnadene kommunen har med slike saker. Gebyret skal innbetales innen en frist som kommunen setter. I tillegg kan kommunen kreve gebyr etter reglene i matrikkellova for oppmålingsforretning og for matrikkelbrev som må utstedes etter § 18 i denne loven.
+Søkeren skal betale gebyr for tinglysing av seksjoneringsvedtaket i samsvar med tinglysingsloven § 12 b. Tinglysingsgebyret skal innbetales til kommunen. Blir seksjoneringssøknaden avslått, skal kommunen tilbakebetale tinglysingsgebyret.

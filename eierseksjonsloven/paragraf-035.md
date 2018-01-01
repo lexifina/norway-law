@@ -1,0 +1,5 @@
+# § 35. Sameiets erstatningsansvar for mangelfullt vedlikehold
+Et sameie som ikke oppfyller sin vedlikeholdsplikt etter § 33, skal erstatte tap dette påfører seksjonseierne gjennom skader på bruksenhetene. Sameiet skal likevel ikke erstatte tapet dersom sameiet kan sannsynliggjøre at det mangelfulle vedlikeholdet skyldes en hindring også utenfor sameiets kontroll, og det ikke er rimelig å forvente at sameiet skulle ha regnet med hindringen, overvunnet den eller unngått følgene av den.
+Dersom det mangelfulle vedlikeholdet skyldes en tredjeperson som styret har valgt til å utføre vedlikeholdet, er sameiet ikke erstatningsansvarlig hvis sameiet kan sannsynliggjøre at det mangelfulle vedlikeholdet skyldes en hindring også utenfor tredjepersonens kontroll, og det ikke er rimelig å forvente at tredjepersonen skulle ha regnet med hindringen, overvunnet den eller unngått følgene av den.
+Sameiet er erstatningsansvarlig for indirekte tap som sameiets mangelfulle vedlikehold har påført en seksjonseier, men bare når sameiet har opptrådt uaktsomt.
+Kravet om erstatning rettes mot styret. Fører erstatningskravet frem, er kostnaden en felleskostnad for sameiet.

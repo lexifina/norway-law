@@ -1,0 +1,6 @@
+# § 27. Vedtekter
+Alle sameier skal ha vedtekter. Vedtektene skal minst angi eiendommens grunnboksbetegnelse og hvor mange medlemmer styret skal ha.
+Vedtektene kan, med unntak for opprinnelige vedtekter, jf. § 11 annet ledd bokstav a, bare fastsettes eller endres på årsmøtet. Om ikke loven stiller strengere krav, kan slike beslutninger bare tas med minst to tredjedels flertall av de avgitte stemmer.
+Forpliktelser som følger av sameieforholdet, og som er fastsatt i registrert vedtektsbestemmelse, har uten tinglysing rettsvern mot seksjonseiernes kreditorer og mot senere rettsstiftelser i god tro i seksjonen. Dette gjelder ikke for panterett.
+Det kan ikke inntas bestemmelser i vedtektene som er egnet til å gi noen seksjonseiere eller utenforstående en urimelig fordel på andre seksjonseieres bekostning.
+I sameier som har fått kompensasjon for merverdiavgift etter merverdavgiftskompensasjonsloven, kan det fastsettes vedtekter som gir kommunen vetorett mot endringer i vedtektsbestemmelser som går ut på at bare personer som er innvilget heldøgns helse- og omsorgstjenester, kan eie eller bruke en boligseksjon. Alle seksjonseierne må uttrykkelig si seg enige i en vedtektsbestemmelse som gir kommunen slik vetorett.

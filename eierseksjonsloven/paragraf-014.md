@@ -1,0 +1,2 @@
+# § 14. Saksbehandlingstid for kommunens behandling av søknaden om seksjonering
+Kommunen skal behandle seksjoneringssøknaden og registrere seksjonene i matrikkelen innen 12 uker etter at søknaden er mottatt. Ved retting av søknaden etter § 12 første ledd løper fristen fra kommunen har mottatt en rettet søknad. Oversitter kommunen disse fristene, reduseres seksjoneringsgebyret etter § 15 med 25 prosent av det totale gebyret for hver påbegynte uke tidsfristen oversittes.

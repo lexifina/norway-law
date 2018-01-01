@@ -1,0 +1,10 @@
+# § 67. Overgangsbestemmelser
+§ 3 første og annet ledd gjelder ikke dersom bruksretten er stiftet før lov 23. mai 1997 nr. 31 om eierseksjoner trådte i kraft. Utvidelse, fornyelse eller forlengelse regnes som stiftelse av ny bruksrett hvis brukeren ikke hadde krav på endringen. § 3 tredje og fjerde ledd gjelder ikke dersom panteretten har fått rettsvern mot seksjonseiernes kreditorer før loven her trer i kraft.
+§ 3 sjette ledd gjelder ikke for særskilt eiendomsrett som er lovlig stiftet før lov 23. mai 1997 nr. 31 om eierseksjoner trådte i kraft.
+§§ 7 og 8 og kapitlene III og IV gjelder ikke for seksjonering som skjer i samsvar med søknad som er satt frem før loven her trer i kraft. Slike søknader skal behandles etter lov 23. mai 1997 nr. 31 om eierseksjoner.
+Påbudte vedtekter etter § 26 annet ledd må vedtas senest ett år etter at loven her trer i kraft.
+Lovbestemt panterett etter lovens § 31, jf. panteloven § 6-1 tredje ledd, står tilbake for heftelse som hadde fått rettsvern mot seksjonseiernes kreditorer før lov 23. mai 1997 nr. 31 om eierseksjoner trådte i kraft, om ikke annet følger av alminnelige prioritetsregler.
+§ 52 første ledd medfører ingen endringer i stemmereglene i eierseksjonssameier hvor seksjonering har skjedd i samsvar med søknad som er satt frem før lov 23. mai 1997 nr. 31 om eierseksjoner trådte i kraft. I slike sameier kan det likevel fastsettes i vedtektene at § 52 første ledd skal gjelde, forutsatt at alle seksjonseierne uttrykkelig samtykker.
+For kjøperett som er utløst før loven trer i kraft, gjelder reglene i lov 23. mai 1997 nr. 31 om eierseksjoner kapittel III selv om kjøperetten ikke er gjort gjeldende.
+§§ 34, 35, 36 og 37 gjelder ikke når den handlingen eller den unnlatelsen som førte til skaden, skjedde før loven trer i kraft.
+Avtaler eller bestemmelser som er i strid med loven her, opphører å gjelde senest ett år etter at loven trer i kraft, om ikke annet går frem av loven. Eksisterende avtaler om midlertidige eneretter til å bruke fellesareal som kommer i strid med trettiårsbegrensningen i § 25 femte og sjette ledd består, men ikke lenger enn tretti år fra lovens ikrafttredelse.

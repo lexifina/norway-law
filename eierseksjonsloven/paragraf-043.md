@@ -1,0 +1,6 @@
+# § 43. Innkalling til årsmøte
+Styret innkaller årsmøtet med et varsel som skal være på minst åtte og høyst tjue dager. Styret kan om nødvendig innkalle til ekstraordinært årsmøte med kortere varsel, men varselet kan aldri være kortere enn tre dager.
+Blir det ikke innkalt til årsmøte som skal holdes etter loven, vedtektene eller tidligere beslutning på årsmøte, skal tingretten snarest innkalle til årsmøte når det kreves av en seksjonseier, et styremedlem eller forretningsføreren. Kostnadene dekkes som felleskostnader.
+Innkallingen skjer skriftlig. Som skriftlig regnes også elektronisk kommunikasjon. I vedtektene kan det bestemmes at innkallingen i stedet eller i tillegg skal skje på annen måte. Seksjonseiere som ikke selv bruker bruksenheten, har i alle tilfeller krav på skriftlig innkalling.
+Innkallingen skal tydelig angi de sakene årsmøtet skal behandle. Skal årsmøtet kunne behandle et forslag som etter loven eller vedtektene må vedtas med minst to tredjedels flertall av de avgitte stemmene, må hovedinnholdet være angitt i innkallingen.
+Saker som en seksjonseier ønsker behandlet i det ordinære årsmøtet, skal nevnes i innkallingen når styret har mottatt krav om det før fristen etter § 41.

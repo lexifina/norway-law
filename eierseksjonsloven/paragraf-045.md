@@ -1,0 +1,2 @@
+# § 45. Saker årsmøtet kan behandle
+Bortsett fra saker som skal behandles av ordinært årsmøte etter § 44 annet ledd, kan årsmøtet bare ta beslutning om saker som er angitt i innkallingen til møtet i samsvar med § 43 fjerde ledd. Hvis alle seksjonseierne er til stede på årsmøtet og stemmer for det, kan årsmøtet også ta beslutning i saker som ikke står i innkallingen. At saken ikke er nevnt i innkallingen, er ikke til hinder for at styret beslutter å innkalle til nytt årsmøte for å avgjøre forslag som er fremsatt i møtet.

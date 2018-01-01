@@ -1,0 +1,5 @@
+# § 31. Panterett for seksjonseiernes forpliktelser
+De andre seksjonseierne har panterett i seksjonen for krav mot seksjonseieren som følger av sameieforholdet. Pantekravet kan ikke overstige et beløp som for hver bruksenhet svarer til to ganger folketrygdens grunnbeløp på det tidspunktet tvangsdekning besluttes gjennomført. Panteretten omfatter også krav som skulle ha vært betalt etter at det har kommet inn en begjæring til namsmyndighetene om tvangsdekning.
+Panteretten faller bort dersom det ikke senest to år etter at pantekravet skulle ha vært betalt, kommer inn en begjæring til namsmyndigheten om tvangsdekning, eller dersom dekningen ikke gjennomføres uten unødig opphold.
+I vedtektene kan det fastsettes en mer omfattende panterett for krav mot seksjonseierne enn legalpanteretten etter første ledd. Slik beslutning krever at de seksjonseierne det gjelder, har sluttet seg til. Panteretten får rettsvern etter vanlige regler.
+Panterett etter denne paragrafen kan gjøres gjeldende av styret og seksjonseiere som har dekket mer enn sin del, jf. § 29 fjerde ledd.

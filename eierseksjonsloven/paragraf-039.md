@@ -1,0 +1,4 @@
+# § 39. Fravikelse av bruksenheten (utkastelse)
+Hvis seksjonseierens oppførsel medfører fare for ødeleggelse eller vesentlig forringelse av eiendommen, eller seksjonseierens oppførsel er til alvorlig plage eller sjenanse for eiendommens øvrige brukere, kan styret kreve fravikelse av bruksenheten etter tvangsfullbyrdelsesloven kapittel 13. En begjæring om fravikelse kan settes frem tidligst samtidig med at det gis pålegg etter § 38 om salg. Begjæringen settes frem for tingretten. Dersom det innen fristen etter tvangsfullbyrdelsesloven § 13-6 reises innvendinger mot fravikelsen som ikke er klart grunnløse, skal begjæringen om fravikelse ikke tas til følge uten behandling ved allmennprosess.
+Etter reglene i paragrafen her kan det også kreves fravikelse overfor en bruker som ikke er seksjonseier.
+I sameier med to seksjoner kan en seksjonseier kreve fravikelse overfor den andre seksjonseieren etter reglene i denne paragrafen.
