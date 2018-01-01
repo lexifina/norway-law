@@ -1,0 +1,4 @@
+# § 15. Misbruk av reglene om europeiske samvirkeforetak
+(1) Dersom det innen ett år etter registreringen av SCE-foretaket inntrer vesentlige endringer i foretaket, dets datterforetak eller filialer og disse endringene ville ha gitt arbeidstakerne større innflytelse enn gjeldende innflytelsesordninger dersom de hadde vært foretatt før registreringen, skal reglene om SCE-foretak anses misbrukt med mindre selskapet sannsynliggjør at endringene hadde andre årsaker.
+(2) Dersom reglene om SCE-foretak misbrukes for å frata arbeidstakerene innflytelse, kan nye forhandlinger kreves. Forhandlinger kan kreves av representasjonsorganet eller av representanter for flertallet av arbeidstakerne i SCE-foretakets nye forretningssteder eller datterforetak.
+(3) Bestemmelsene i § 4 til § 12 gjelder tilsvarende så langt de passer.

@@ -1,0 +1,2 @@
+# § 14. Rett til å holde tilbake fortrolig informasjon
+Et SCE-foretak eller deltakende rettssubjekt kan i særskilte tilfeller unnlate å gi informasjon til det særlige forhandlingsutvalget, representasjonsorganet og tilsvarende organer opprettet med grunnlag i denne forskrift dersom det åpenbart vil være til betydelig skade for SCE-foretaket, deltakende rettssubjekt, deres datterforetak eller filialer at opplysningene blir kjent. Første punktum gjelder ikke i forhold til arbeidstakernes representanter i administrasjons- eller kontrollorganet.
