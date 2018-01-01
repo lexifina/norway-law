@@ -1,3 +1,7 @@
-# § 42. Vedtak om overtredelsesgebyr
-Ved forsettlig eller uaktsom overtredelse av § 2 annet ledd annet punktum, § 6, § 10, § 11, § 12, § 13, § 13 a, § 14 første ledd, § 15, § 16, § 16 a første ledd bokstav a, § 17, § 17 a, § 18, § 20 annet ledd, § 21 jf. § 2 eller § 22 eller av forskrift gitt i medhold av § 6 femte ledd eller § 10, som anses som vesentlig eller har skjedd gjentatte ganger, kan den ansvarlige ilegges et overtredelsesgebyr. Der den næringsdrivende, eller noen som opptrer på den næringsdrivendes vegne, forsettlig eller uaktsomt bryter bistandsplikten ved stedlig kontroll etter § 34 annet ledd, kan den næringsdrivende ilegges overtredelsesgebyr.
-Departementet kan ved forskrift gi nærmere regler om utmåling av overtredelsesgebyr.
+# § 42. Vedtak om tvangsmulkt
+For å sikre at vedtak etter §§ 40 og 41 overholdes skal det fastsettes en tvangsmulkt som den som vedtaket retter seg mot, skal betale dersom vedkommende overtrer vedtaket. Fastsettelse av tvangsmulkt kan unnlates dersom særlige grunner tilsier det.
+Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Ved fastsettelsen av tvangsmulkten skal det legges vekt på at det ikke skal lønne seg å overtre vedtaket.
+For å sikre at pålegg om å gi opplysninger etter § 34 etterkommes, kan det fastsettes en tvangsmulkt som den som pålegget retter seg mot, skal betale dersom pålegget ikke etterkommes. Annet ledd første punktum gjelder tilsvarende.
+Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg.
+I særlige tilfeller kan påløpt mulkt reduseres eller frafalles.
+Departementet kan ved forskrift fastsette nærmere regler om ileggelse av tvangsmulkt.
