@@ -1,2 +1,2 @@
-# § 45. Adgang til å bringe saker inn for Forbrukerombudet og Markedsrådet
-Utenlandske myndigheter og organisasjoner som er oppført på listen over godkjente institusjoner som etter EØS-avtalens bestemmelser offentliggjøres av EU-kommisjonen i De Europeiske Fellesskapers Tidende og i EØS-tillegget til dette, kan bringe sak inn for Forbrukerombudet og Markedsrådet med sikte på å få nedlagt forbud mot handling som nevnt i § 44 annet ledd.
+# § 45. Adgang til å bringe saker inn for Forbrukertilsynet og Markedsrådet
+Utenlandske myndigheter og organisasjoner som er oppført på listen over godkjente institusjoner som etter EØS-avtalens bestemmelser offentliggjøres av EU-kommisjonen i De Europeiske Fellesskapers Tidende og i EØS-tillegget til dette, kan bringe sak inn for Forbrukertilsynet og Markedsrådet med sikte på å få nedlagt forbud mot handling som nevnt i § 44 annet ledd.

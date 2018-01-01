@@ -1,4 +1,4 @@
-# § 37. Forbrukerombudets vedtakskompetanse
-Forbrukerombudet kan fatte vedtak etter § 39 dersom det ikke er oppnådd frivillig ordning og Forbrukerombudet antar at det vil medføre ulempe eller skadevirkning å avvente Markedsrådets vedtak.
-Forbrukerombudet kan også treffe vedtak etter § 39 dersom ombudet anser handlingen eller avtalevilkåret i det vesentlige identisk med handlinger eller vilkår som Markedsrådet tidligere har nedlagt forbud mot.
-Forbrukerombudet skal underrette Markedsrådet om vedtaket. Den vedtaket retter seg mot, kan påklage vedtaket til Markedsrådet.
+# § 37. Markedsrådets oppgaver mv.
+Markedsrådet behandler klager på Forbrukertilsynets vedtak, øvrige avgjørelser som kan påklages etter forvaltningsloven og avgjørelser etter annet ledd. Markedsrådet behandler også klager på avgjørelser andre instanser enn Forbrukertilsynet har avgjort, når dette følger av annet regelverk.
+Forbrukertilsynets avgjørelser om at vilkår eller handelspraksis er lovlig, eller at en sak ikke skal prioriteres, kan klages inn for Markedsrådet av næringsdrivende eller forbrukere som berøres av handlingen eller vilkåret, eller av en sammenslutning av næringsdrivende, forbrukere eller lønnstakere.
+Markedsrådets vedtak kan ikke påklages.
