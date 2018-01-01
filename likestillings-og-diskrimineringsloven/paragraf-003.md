@@ -1,0 +1,3 @@
+# § 3. Geografisk virkeområde
+Loven gjelder i hele riket, herunder på Svalbard og Jan Mayen. Loven gjelder også på faste og flyttbare installasjoner i virksomhet på norsk kontinentalsokkel, og på norske skip og norske luftfartøyer, uansett hvor de befinner seg.
+Kapittel 3 om universell utforming og individuell tilrettelegging, og §§ 24, 25 og 26 om aktivt likestillingsarbeid for så vidt gjelder funksjonsnedsettelse, gjelder likevel ikke på Svalbard og Jan Mayen, installasjoner i virksomhet på norsk kontinentalsokkel, norske skip i utenriksfart og på norske luftfartøyer. Kongen kan gi forskrift om anvendelsen av de nevnte bestemmelsene på disse områdene.
