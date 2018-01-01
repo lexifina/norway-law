@@ -1,0 +1,2 @@
+# § 17. Saksbehandlingsregler
+For saksbehandlingen i tvisteløsningsnemnda gjelder forskrift 16. desember 2005 nr. 1569 om tvisteløsningsnemnd etter arbeidsmiljøloven så langt den passer. Det særlige forhandlingsutvalget, representasjonsorganet eller tilsvarende organer, SCE-foretaket, deltakende rettssubjekter, berørte datterdatterforetak, filialer, lokale fagforeninger og en femtedel av arbeidstakerne kan bringe tvister inn for tvisteløsningsnemnda.
