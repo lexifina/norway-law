@@ -14,4 +14,3 @@
 (2) Dersom det skal benyttes kontraktsmedhjelper som nevnt i § 3-5, skal dennes navn, adresse og organisasjonsnummer opplyses.
 (3) Avtalen skal undertegnes av oppdragsgiveren og ansvarlig megler for oppdraget.
 (4) Skifte av ansvarlig megler skal skriftlig opplyses til oppdragsgiveren.
-(5) Departementet kan i forskrift fastsette regler om elektronisk kommunikasjon i forbindelse med inngåelse av oppdragsavtalen. Dette omfatter bestemmelser om krav til autentisering, sikring av integritet og konfidensialitet.
