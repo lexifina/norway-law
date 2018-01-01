@@ -1,0 +1,3 @@
+# § 40. Rett og plikt til overtaking av hus og faste tilskipingar
+Dersom borttaking etter § 39 vil føre til at verdiar går til spille i utrengsmål, kan både festaren og bortfestaren få rett til å krevje at bortfestaren tek over hus og faste tilskipingar mot vederlag. Bortfestaren kan likevel ikkje påleggjast slik overtaking dersom festaren kan krevje tomta innløyst, eller dersom bortfestaren tilbyr festaren å løyse inn tomta mot vederlag fastsett etter føresegnene i § 37. Føresetnaden er at korkje rettsgrunnlaget til bortfestaren, avtala eller andre tilhøve er til hinder for innløysing.
+Tvist om rett og plikt til overtaking etter fyrste ledd høyrer under skjønn, om partane ikkje har avtalt eller vert samde om ein annan avgjerdsmåte.

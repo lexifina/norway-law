@@ -1,0 +1,3 @@
+# § 19. Stifting og omskiping av råderettar
+Festaren kan stifte slike særlege råderettar for andre over tomta som med omsyn til bruksmåte, omfang og tidsavgrensing ligg innanfor den råderetten festaren sjølv har, så langt ikkje anna fylgjer av det som er avtalt.
+Festaren og bortfestaren kan krevje omskiping av særlege råderettar som bortfestaren eller andre har i festetomta etter føresegnene i lov av 29. november 1968 om særlege råderettar over framand eigedom §§ 5 og 6, jf § 8. Festaren kan krevje avskiping av slike rettar etter føresegnene i same lova § 7, jf § 8. For avgjerda om omskiping eller avskiping gjeld §§ 18 og 19 i same lova tilsvarande.

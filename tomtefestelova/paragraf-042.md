@@ -1,0 +1,6 @@
+# § 42. Framfeste
+Med framfeste er i lova her meint festehøve der bortfestaren berre har leigerett til tomta.
+I nye festeavtaler må både grunneigaren og den som har leigerett til grunnen vere partar på bortfestarsida, dersom det skal festast bort tomt til bustadhus eller fritidshus. Tomter til andre føremål kan festast bort av den som har leigerett til grunnen, så langt det er i samsvar med rettsgrunnlaget til leigaren.
+I festeavtaler inngått etter 1975, men før lova her tek til å gjelde, kan festaren ved framfeste gjere føresegnene om minste festetid gjeldande i høve til grunneigaren utan omsyn til om leigetida er ute etter leigeavtala mellom frambortfestaren og grunneigaren.
+Ved feste av tomt til bustadhus eller fritidshus gjeld reglane om innløysing og lenging i kapittel VI også i høvet mellom festaren og grunneigaren.
+Så langt ikkje anna fylgjer av avtale, gjeld føresegnene i §§ 40 og 41 tilsvarande mellom festaren og grunneigaren utan omsyn til når festeavtala er inngått, likevel slik at krav om at grunneigaren skal ta over hus og faste tilskipingar berre kan setjast fram når leigaren ikkje sjølv ynskjer å ta over hus og faste tilskipingar og heller ikkje har rimeleg grunn til å setje seg imot at grunneigaren får ta over.

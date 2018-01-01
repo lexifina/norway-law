@@ -1,0 +1,6 @@
+# § 17. Overføring av festerett
+Festaren har rett til å føre festeretten over til ein annan så langt ikkje anna fylgjer av det som er avtalt eller festeføremålet.
+Har bortfestaren teke atterhald om forkjøpsrett ved overføring av festerett og bygning, gjeld lov av 9. desember 1994 nr. 64 om løysingsrettar §§ 8 og 9.
+Andre ledd gjeld tilsvarande dersom bortfestaren har teke atterhald om godkjenning ved overføring av festerett til tomt til bustadhus og fritidshus. Godkjenning til overføring av festerett kan elles berre nektast når det er sakleg grunn til det. Nektinga skal grunngjevast. Har festaren ikkje motteke skriftleg grunngjeve avslag innan to månader etter at det vart søkt om godkjenning, vert samtykke rekna som gjeve.
+Er det ikkje naudsynt med bortfestarens godkjenning for overføring av festeretten etter tredje ledd fyrste punktum, jf. andre ledd, skal festaren likevel varsle bortfestaren om kven festeretten er overført til. Inntil slikt varsel er gjeve, kan bortfestaren krevje den forrige festaren for festeavgift sjølv om festeavgifta gjeld for tida etter overføringa.
+Føresegnene i denne paragrafen gjeld tilsvarande ved tvangssal. Tingretten set frist for bortfestaren til å kome med fråsegn, og avgjer om den nye festaren skal godkjennast.
