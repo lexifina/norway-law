@@ -1,0 +1,5 @@
+# § 3-5. CE-merking
+CE-merking om samsvar, som nevnt i vedlegg IV, skal påføres de eksplosive varene. Dersom dette ikke er mulig skal merket påføres en etikett festet til varene. Dersom ingen av disse metodene kan benyttes skal merkingen påføres emballasjen. Merkingen skal være synlig, lett å lese og slik at den ikke kan fjernes. Etikett skal være utformet slik at den ikke kan brukes om igjen.
+Det er forbudt å forsyne eksplosive varer med merker eller påskrifter som kan være villedende med hensyn til CE-merkingens betydning og skriftform. Andre merker kan settes på de eksplosive varene, forutsatt at det ikke gjør CE-merkingen mindre synlig eller vanskeligere å lese.
+Dersom det konstateres at CE-merkingen er uriktig eller uberettiget påført, er produsenten, dennes representant eller den ansvarlige for markedsføringen av det aktuelle produkt i EØS-området, forpliktet til å bringe produktet i samsvar med bestemmelsene om merking på de vilkår tilsynsmyndigheten fastsetter.
+Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.

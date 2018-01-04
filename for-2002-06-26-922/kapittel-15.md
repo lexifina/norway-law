@@ -1,0 +1,2 @@
+# Kapittel 15. Id-merking og sporing av eksplosiv vare
+Bestemmelsene i dette kapittelet gjennomfører direktiv 2008/43/EF av 4. april 2008 om opprettelse av et system for id-merking og sporing av eksplosiv vare til sivilt bruk, og omfatter eksplosiv vare som faller inn under direktiv 93/15/EØF av 5. april 1992 om markedsføring og kontroll med eksplosiv vare til sivilt bruk, samt direktiv 2012/4/EU av 22. februar 2012 om endring av direktiv 2008/43/EF om opprettelse av i henhold til Rådets direktiv 93/15/EØF.

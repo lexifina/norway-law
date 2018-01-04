@@ -1,0 +1,4 @@
+# § 11-11. Informasjon og varsling
+Virksomheten som utfører selve sprengingsarbeidet skal, i samsvar med plan for informasjon og varsling etter § 11-5, sørge for at beboere, politi og andre aktuelle offentlige myndigheter, eiere/rettighetshavere og øvrige berørte i god tid før sprengningen tar til, gjøres kjent med de planlagte sprengningsarbeidene og hvilken risiko arbeidene representerer.
+Ved sprengning skal bergsprenger sørge for at alle nødvendige sikkerhetstiltak og rutiner iverksettes, og at det varsles med sirene som med korte støt angir at sprengning skal skje. Det skal settes ut et tilstrekkelig antall vaktposter som skal hindre både mennesker og dyr fra å komme inn i det farlige området. Postene skal stå i åpen radio- eller telefonkontakt både med den som avfyrer salva og med hverandre, for umiddelbart å kunne melde fra om risikofylte uregelmessigheter.
+Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
