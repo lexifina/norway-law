@@ -1,0 +1,6 @@
+# § 4-2. Overføring av eksplosive varer
+Før overføring av eksplosive vare til eller i Norge kan finne sted skal mottakeren av varen ha en overføringstillatelse utstedt på et særskilt skjema gitt av sentral tilsynsmyndighet. Tillatelsen eller en bekreftet kopi av denne skal følge varen til bestemmelsesstedet. Mottaker skal oppbevare overføringstillatelsen eller en bekreftet kopi av denne i minst 3 år fra overføringen har funnet sted.
+Før overføring fra Norge finner sted må avsender forsikre seg om at mottaker av varene har en overføringstillatelse fra vedkommende myndighet på bestemmelsesstedet.
+Skjer overføringen via en eller flere stater innenfor EØS-området skal avsender av varene sørge for melding til vedkommende myndighet i de enkelte land. Overføring skal ikke finne sted før disse myndighetene har gitt sitt samtykke. Dersom overføringen skjer fra eller via Norge skal avsender innhente samtykke fra sentral tilsynsmyndighet.
+Tilsynsmyndigheten fastsetter hvilke opplysninger som kreves gitt i forbindelse med overføringen. Ved overføring til eller via et eller flere EØS-land må selger gi de opplysninger som er nødvendige som følge av særlige krav i disse landene.
+Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.

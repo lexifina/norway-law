@@ -1,0 +1,4 @@
+# § 16-4. Ikke godkjente og klassifiserte eksplosive varer
+Den som har tillatelse til å motta eller tilintetgjøre eksplosiv vare som skal kasseres, kan motta og tilintetgjøre også eksplosiv vare som ikke er godkjent, dersom mottak og tilintetgjøring skjer uten unødig opphold.
+All slik eksplosiv vare som skal kasseres må klassifiseres for transport før transporten påbegynnes. Dersom opprinnelig klassifisering er kjent, og varen fortsatt befinner seg i originalemballasjen, kan varen transporteres i henhold til denne klassifiseringen. Dersom klassifiseringen ikke er kjent, eller varen er tatt ut av sin originale emballasje, eller at emballasjen er skadet, må varene gis ny klassifisering i henhold til den til enhver tid gjeldende forskrift om transport av farlig gods på veg og jernbane.
+Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
