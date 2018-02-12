@@ -1,0 +1,2 @@
+# § 2-3. Ugyldig dokumentasjon
+Dersom Musikkteaterhøyskolen oppdager at en søker har levert falskt vitnemål eller falske dokumenter vil vedkommende få nevnte papirer inndratt og vil ikke gis opptak eller få godkjent utdanning i inntil ett år. Vedtak om inndragning og vedtak om karantenetid treffes av styret selv, eller institusjonens klagenemnd med to tredels flertall. Forholdet blir meldt til politiet, NOKUT og Samordna opptak.

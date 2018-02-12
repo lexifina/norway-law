@@ -1,0 +1,4 @@
+# § 6-8. Fusk ved eksamen
+(1) Fusk, eller forsøk på fusk, ved eksamen kan være avskrift eller tilnærmet avskrift av litteratur, internettdokumenter o.a. uten kildehenvisning. Besvarelser som er svært likt utformet regnes som fusk, og det regnes i tillegg som fusk hvis besvarelsen er et plagiat eller den åpenbart er utført av andre enn studenten.
+(2) Ved eksamener hvor tillatte hjelpemidler er begrenset, betraktes det som fusk å benytte annet enn det som det på forhånd er informert om/oppgitt i eksamensteksten.
+(3) Konsekvensen for studenten ved fusk/forsøk på fusk er annullering av eksamen og inntil ett års utestenging fra alle høyere utdanningsinstitusjoner, jf. UH-loven § 4-7 og § 4-8. Sensurresultatet skal settes til «ikke bestått» der det er dokumentert fusk eller forsøk på fusk. Alle saker der det er avdekket fusk eller forsøk på fusk, skal oversendes styre til endelig avgjørelse.

@@ -1,0 +1,3 @@
+# § 6-12. Ny sensur
+(1) Det er ikke mulig å klage over muntlig prestasjon eller praktisk eksamen som i sin natur ikke kan etterprøves, jf. UH-loven § 5-3 (5). Ved klage over annen karakterfastsetting, jf. § 7-2, skal det foretas ny sensur. I tillegg kan klage over formelle feil, jf. § 7-3, føre til at det skal foretas ny sensur.
+(2) Ved ny sensur skal det samme arbeidet vurderes på nytt av minst to nye sensorer, hvorav minst én ekstern, jf. UH-loven § 3-9. De nye sensorer skal ikke ha informasjon om karakter, begrunnelse eller studentens begrunnelse for klagen. Karakteren kan endres til gunst og til ugunst for klager.
