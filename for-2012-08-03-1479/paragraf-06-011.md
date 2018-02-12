@@ -1,0 +1,7 @@
+# § 6-11. Sensur
+Sensur behandles etter UH-loven.
+(1) Styret oppnevner sensorer ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering når resultatet inngår på vitnemålet eller innregnes i karakter for vedkommende studium.Styret selv gir forskrift om avleggelse av og gjennomføring av eksamener og prøver, herunder vilkår for å gå opp til eksamen eller prøve på nytt. Bruk av sensorer er fastsatt i studieplaner og tas med i beskrivelsen av fag og emner.
+(2) Den som påtar seg sensoroppdrag, bør samtidig, så sant det er praktisk mulig, være sensor ved eventuell ny og utsatt eksamen i samme fag/kurs/emne.
+(3) For å sikre at studentene blir vurdert på en upartisk og faglig betryggende måte, benyttes et rullerende system slik at studentene blir vurdert av forskjellige eksterne sensorer. Resultatet av vurderingene gjennomgås av skolens kvalitetsutvalg, jf. kvalitetssikringssystem, slik at det faglige nivået til enhver tid måles og vurderes.
+(4) Eksterne sensorer skal ikke være ansatt ved institusjonen eller knyttet til institusjonen som timelærer. De eksterne sensorene skal ha dokumentert faglig kompetanse på høyskole-/universitetsnivå, eller på annen måte tilsvarende faglig kompetanse.
+(5) Dersom det foreligger uenighet eller usikkerhet mellom ekstern og intern sensor i karaktersettingen, er det ekstern sensor som har det avgjørende ordet. Eksamensforestillinger og vurderingsklasser filmes slik at sensorene kan se igjennom prestasjonene før den endelige karakter settes.

@@ -1,0 +1,6 @@
+# § 6-2. Vilkår for adgang til eksamen
+(1) Det skal fremgå av studieplanen hvilke eksamener og vurderinger underveis i studieløpet som skal inngå på vitnemålet.
+(2) Studenter ved Musikkteaterhøyskolen har adgang til eksamener og prøver ved de studier de er tatt opp til. Studenter må være registrert og ha betalt fastsatt semesteravgift.
+(3) Regler om arbeidskrav/studiekrav, obligatoriske oppgaver, krav om avlagte eksamener eller prøver, obligatorisk deltakelse eller gjennomført praksis for at studenten skal ha adgang til en eksamen eller få fortsette studiene, fastsettes i studieplanen. Reglene om arbeidskrav gjelder også i de tilfeller hvor en student har fravær pga. sykdom eller er innvilget permisjon, jf. § 3-4.
+(4) Det er ikke adgang til å melde seg opp til eksamen (inklusive ny eksamen, jf. § 6-6) i samme emne mer enn tre ganger.
+(5) Studenter som ikke er tatt opp som student ved Musikkteaterhøyskolen, men som oppfyller de generelle og eventuelle spesielle opptakskrav for studiet og øvrige krav for oppmelding i vedkommende emne, kan melde seg opp til eksamen. Rektor avgjør om de generelle og eventuelle spesielle opptakskrav er innfridd. Kandidater som ikke er tatt opp som student ved Musikkteaterhøyskolen skal betale et vederlag som dekker skolens merutgifter ved å arrangere eksamen.

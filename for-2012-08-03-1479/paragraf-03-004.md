@@ -1,0 +1,10 @@
+# § 3-4. Permisjon
+(1) En student som får barn i studietiden skal gis rett til permisjon fra studiene under svangerskap og omsorg for barn, jf. UH-loven § 4-5.
+(2) Permisjon pga. sykdom må dokumenteres med legeerklæring.
+(3) Andre permisjonsgrunner er krevende verv i studentorganisasjoner eller militærtjeneste og sivil verneplikt hvor Vernepliktsverket, eller tilsvarende instans ikke innvilger utsettelse/fritak.
+(4) Unntaksvis kan permisjoner innvilges av andre grunner enn nevnt over, men da etter særskilt anbefaling fra studieleder.
+(5) Permisjon innvilges for henholdsvis første semester eller ett år, avhengig av det studieprogram studenten følger. Unntaksvis kan kortere eller lengre permisjon innvilges.
+(6) Studenter som er tatt opp til et studieprogram men som likevel ikke kan begynne studiet på grunn av sykdom, fødsel/adopsjon, militærtjeneste eller andre tungtveiende grunner, kan søke om utsatt studiestart til neste opptak. Dette regnes ikke som permisjon.
+(7) Studie- og eksamensretten opphører i permisjonstiden. I tilfeller der studenter, av ulike årsaker, ønsker å avlegge eksamen i ett eller flere emner mens de har permisjon og der dette er praktisk mulig, skal dette innvilges som forlenget studieprogresjon og ikke permisjon. Dette kan være spesielt aktuelt for studenter som har fødselspermisjon med støtte fra Statens Lånekasse for utdanning.
+(8) Studenten som er innvilget permisjon vil, etter endt permisjon, ha krav om å få fortsette sine studier på tilsvarende nivå som før permisjonen. Dette innebærer ikke at studenten nødvendigvis vil ha krav om å fortsette med studiene umiddelbart etter endt permisjon. Musikkteaterhøyskolen vil, så langt det er praktisk mulig, legge forholdene til rette for at studenten kan gjenoppta sine studier så raskt som mulig.
+(9) Alle søknader om permisjon sendes til administrasjonen. Permisjoner med grunner nevnt i ledd 1-3 avgjøres administrativt. Permisjonssøknader etter ledd 4 avgjøres av rektor i samråd med studieleder.

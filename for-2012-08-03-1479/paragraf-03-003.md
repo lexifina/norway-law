@@ -1,0 +1,2 @@
+# § 3-3. Studieprogresjon
+En student som er tatt opp til et studieprogram og som følger normal studieprogresjon, har krav på at programmets faglige mål, nivå og struktur ikke endres i den tiden han/hun har studierett til programmet. Studenten må likevel akseptere at det kan bli endringer i programmets emner og oppbygging så lenge dette ikke medfører at studenten blir forsinket i sin studieprogresjon.

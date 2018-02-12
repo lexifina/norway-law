@@ -1,0 +1,2 @@
+# § 6-7. Eksamen i fag og emner som opphører
+For fag og emner som opphører gjelder følgende: Dersom det etter siste ordinære eksamen og én utsatt/ny eksamen i et fag/emne fremdeles gjenstår studenter med ikke bestått eller gyldig fravær, kan det avholdes en tredje og siste eksamen. Slik tredje eksamen skal avholdes innen ett år etter siste ordinære eksamen. Eksamen kan ha en annen form enn ordinær eksamen.
