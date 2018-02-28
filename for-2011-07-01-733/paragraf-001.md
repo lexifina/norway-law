@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Forskriften gjelder for alle norske luftfartsstasjoner innenfor norsk område, samt områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å utøve lufttrafikktjeneste. Forskriften gjelder luftfartsstasjoner som utøver mobil kommunikasjonstjeneste for luftfarten samt for enhver luftfartøystasjon som gjør bruk av eller har mulighet for å gjøre bruk av slik tjeneste.
+Forskriften gjelder også radiokommunikasjon mellom bakkepersonell og lufttrafikktjenesten, med unntak av de bestemmelser som spesifikt gjelder radiokommunikasjon mellom luftfartsstasjon og luftfartøystasjon.
