@@ -1,0 +1,3 @@
+# § 5. Bedømmelse av språkferdigheter
+Innehaver av eller søker til flytelefonistsertifikat skal gjennomføre en prøve i språkferdigheter i engelsk for Luftfartstilsynet eller organisasjon godkjent til å avholde en slik prøve. Kravene til språkferdigheter gjelder bruk av fraseologi og vanlig språk.
+For å bestå prøven kreves det at søker oppnår ferdighetsnivå fire, fem eller seks i språkferdighetsskalaen i vedlegg 2. Kandidaten skal bedømmes i de seks kategoriene uttale, struktur, ordforråd, flyt, forståelse og samhandling. Det endelige ferdighetsnivået skal settes lik det laveste oppnådde nivå innenfor de seks kategoriene.

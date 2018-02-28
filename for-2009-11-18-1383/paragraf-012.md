@@ -1,0 +1,4 @@
+# § 12. Gjensidig godkjenning av utenlandsk flytelefonistsertifikat og språkferdighetsnivå
+Flytelefonistsertifikat eller tilsvarende rettigheter og påtegninger utstedt av medlemsstater i Det europeiske flysikkerhetsbyrå (EASA) og Joint Aviation Authorities (JAA), er likestilt med norsk sertifikat og rettigheter. Det kan etter søknad utstedes norsk sertifikat med tilsvarende rettigheter.
+Luftfartstilsynet kan godkjenne flytelefonistsertifikat utstedt av andre ICAO – medlemsstater. Det må foretas en konkret vurdering om søker innehar nødvendig kompetanse. Det kan blant annet legges vekt på at søkerens dokumenterte utdanning, avlagte prøver og erfaring er sammenliknbar med kravene i denne forskriften.
+Første og annet ledd gjelder ikke for sertifikat utstedt av myndighet som ikke gjensidig godkjenner norske sertifikat.
