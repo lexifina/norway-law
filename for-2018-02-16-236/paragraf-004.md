@@ -1,0 +1,3 @@
+# § 4. Alternativ oppgjørsmodell ved varig medisinsk invaliditet til og med 25 prosent
+Erstatning etter skadeserstatningsloven § 3-2a sjette ledd fastsettes til et antall G som regulert i følgende tabell:Valgfrihetsmodell (aldersjustert)Den skadelidtes alder på oppgjørstidspunktetErstatning (G)016,6117,1217,6318,1418,6519,2619,7720,3820,9921,51022,11122,71223,41324,11424,81525,51626,2
+Ved lavere medisinsk invaliditet enn 25 prosent reduseres erstatningen slik:Medisinsk invaliditetErstatning21-24 %80 % av erstatningen16-20 %60 % av erstatningen10-15 %40 % av erstatningenMindre enn 10 %Ingen erstatning

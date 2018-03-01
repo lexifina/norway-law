@@ -1,0 +1,2 @@
+# § 3. Inntektstap etter det året den skadelidte fyller 21 år, når uføregraden ikke oppfyller kravet for å motta uføretrygd
+Erstatning etter skadeserstatningsloven § 3-2a tredje ledd fjerde punktum fastsettes til en forholdsmessig andel av et antall G som regulert i følgende tabell ut fra den skadelidtes uføregrad:Erstatning som fastsettes for fase 2 uten fradrag for uføretrygd (aldersjustert)Alder på oppgjørstidspunktetErstatning (G)073,8175,2276,6378,1479,5581,0682,6784,1885,7987,31089,01190,61292,31394,11495,91597,71699,517101,418103,319105,220107,221109,322111,3
