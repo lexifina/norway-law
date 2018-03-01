@@ -1,0 +1,2 @@
+# § 2. Inntektstap etter det året den skadelidte fyller 21 år (aldersjustering ved fremskutt oppgjør)
+Dersom erstatning for inntektstap etter det året den skadelidte fyller 21 år, utmåles tidligere enn dette året, aldersjusteres erstatningsbeløpet som følger av skadeserstatningsloven § 3-2a tredje ledd første punktum i samsvar med følgende tabell:Erstatning som fastsettes for fase 2 (aldersjustert)Den skadelidtes alder på oppgjørstidspunktetErstatning (G)034,3135,0235,6336,3437,0537,7638,4739,1839,9940,61041,41142,21243,01343,81444,61545,41646,31747,21848,01949,02049,9
