@@ -1,0 +1,3 @@
+# § 2-4. Krav til politiattest
+(1) Ved utdanninger der studenter kan komme i kontakt med mindreårige, eller andre sårbare grupper som del av praksis, skal studenten legge fram politiattest som nevnt i politiregisterloven § 39 første ledd ved opptak. Krav om politiattest skal bli gjort kjent for studenten ved opptak til studier som er omfattet av disse bestemmelsene.
+(2) Det er klagenemda ved Lofoten reiselivfagskole som fatter vedtak om en student skal miste retten til å delta i praksis, basert på politiattest og innstilling fra studierektor ved Lofoten reiselivfagskole. Studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Se forskriftens kap. 6 om klage og klagebehandling.

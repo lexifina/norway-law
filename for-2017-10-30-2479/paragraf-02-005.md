@@ -1,0 +1,4 @@
+# § 2-5. Søkere med utenlandsk utdanning
+(1) Søkere med fullført videregående opplæring fra de andre nordiske landene er kvalifiserte for opptak når den videregående opplæringen i de respektive landene gir generelt opptaksgrunnlag til tertiærutdanning tilsvarende fagskoleutdanningen ved Lofoten reiselivfagskole.
+(2) Søkere utenfor Norden må, ved autorisert translatør, dokumentere likeverdig opplæring og praksis som dokumentasjon for at fagskolen skal kunne godkjenne utenlandsk fag- og yrkesopplæring. Søkerne må ha bestått eller ha likeverdig realkompetanse i de felles allmenne fagene tilsvarende Vg1 og Vg2 i yrkesfaglige studieretninger i Kunnskapsløftet 2006, samt oppfylle krav om relevant praksis eller utdanning fra hjemlandet.
+(3) Søkere utenfor Norden må i tillegg dokumentere kunnskaper tilsvarende nivå B2 i «Test i norsk – høyere nivå» (Bergenstesten).

@@ -1,0 +1,4 @@
+# § 6-4. Klage på eksamen og ny sensur
+(1) Ved klage på karakterfastsettelse ved en eksamen skal det benyttes to nye sensorer. Nye sensorer skal ikke ha opplysning om hvilken karakter klageren har oppnådd ved første sensur. Ny sensur skal være gitt innen samme frister som gjelder ordinær eksamen. Endring kan gjøres både til gunst og ugunst for klager. Karakterfastsetting ved ny sensur etter denne paragraf kan ikke påklages.
+(2) Om endelig karakter i et emne blir fastsatt på grunnlag av en muntlig prøve, eller justering i sammenheng med en skriftlig deleksamen, og klager får medhold i klage på sensuren av den skriftlige delen av eksamen, skal det holdes ny muntlig eksamen før ny endelig karakter kan settes.
+(3) Vurdering av muntlig prestasjon eller annen vurdering so m på grunn av type prøve ikke lar seg etterprøve kan ikke påklages på med mindre det gjelder formelle feil ved eksamen.
