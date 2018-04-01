@@ -1,0 +1,5 @@
+# § 2-1. Søknad
+Det kan søkes om opptak til eller plass ved studium ved Lofoten reiselivfagskole på følgende vis:
+a) Søknader til utlyste studier med oppstart i august som normalt sendes til Nasjonalt opptakskontor for fagskolen, som koordinerer opptaket. Dokumentasjonen sendes Lofoten reiselivfagskole som vurderer og godkjenner søkerens kompetanse. Etter ordinær søknadsfrist sendes søknaden direkte til skolen med fortløpende inntak for søkere som tilfredsstiller opptakskriteriene.
+b) Søknader til utlyst studium eller emne som starter i løpet av året sendes Lofoten reiselivfagskole sammen med dokumentasjonen innen gitt søknadsfrist. Søknadsfrist offentliggjøres i lokalpressen og på skolens hjemmeside. Skolen vurderer og godkjenner søkerens kompetanse med inntak. Etter søknadsfrist, dersom det er ledige studieplasser, foretar skolen med fortløpende inntak for søkere som tilfredsstiller opptakskriteriene.
+c) Søknader til studier med rullerende opptak sendes Lofoten reiselivfagskole med fortløpende inntak av søkere som tilfredsstiller opptakskriteriene.

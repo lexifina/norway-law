@@ -1,0 +1,3 @@
+# § 6-5. Klage på disiplinære sanksjoner
+(1) Ved alvorlige forhold, som for eksempel vedtak om fusk, erstatningsansvar, bortvisning eller utestenging, skal studenten ha anledning til å forklare seg før det blir avgitt innstilling til klagenemnden. Studenten skal ha begrunnelse når det er fattet et vedtak.
+(2) Et vedtak om bortvisning eller utestengning av en student kan bare fattes med minst to tredels flertall i klagenemda. Studenten har rett til skriftlig begrunnelse for vedtak om bortvisning og utestengning, samt gis anledning til å forklare seg. Vedtaket er et enkeltvedtak, og studentene kan klage til Nasjonal klagenemd for fagskoleutdanning.

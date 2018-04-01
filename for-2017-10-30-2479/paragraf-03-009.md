@@ -1,0 +1,4 @@
+# § 3-9. Skikkethetsvurdering
+Denne bestemmelsen vil tre i kraft når Kunnskapsdepartementet har vedtatt forskrift om skikkethet og kan bli endret som følge av denne forskriften.
+(1) Ved alle utdanninger som tilbys skal fagskolen vurdere om studenten er skikket for yrket. Krav til skikkethetsvurdering skal gå fram av studieplanen. Ei skikkethetsvurdering skal bli gjennomført gjennom hele studiet og er en forutsetning for at studenten skal få vitnemål etter fullført utdanning, jf. fagskoleloven § 11.
+(2) Etter innstilling fra studierektor, avgjør klagenemnda om en student er skikket for yrket. Vedtak må ha to tredels flertall. Studenten har rett til å uttale seg før det blir gjort vedtak. Blir det fattet slikt vedtak, kan studenten bli utestengt fra utdanningen. Studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Se kap. 5 om disiplinære sanksjoner og kap. 6 om klage og klagebehandling.

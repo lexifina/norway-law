@@ -1,0 +1,5 @@
+# § 2-3. Opptakskrav
+Opptakskrav til Lofoten reiselivfagskole ereller
+a) Fullført og bestått videregående opplæring med fagbrev/svennebrev/vitnemål fra relevant utdanning fra videregående skole. Informasjon om hvilke fagbrev og hvilket utdanningsprogram som gir rett til opptak til den enkelte fagskoleutdanning finnes på Lofoten reiselivfagskoles hjemmeside og i gjeldende studieplaner.
+b) Søkere som kan dokumentere at de skal gjennomføre fag-/svenneprøve etter opptaksfristen, kan tildeles plass på vilkår av bestått prøve. Fagprøven må være bestått innen 6 måneder etter oppstart av studiet.
+c) Minst 5 års relevant praksis og med realkompetanse i felles allmenne fag tilsvarende læreplanene i Vg1 (grunnkurs) og Vg2 (videregående kurs 1) som utdanningene det søkes opptak på ved fagskolen bygger på, jamfør punkt a og den respektive studieplan. Ved opptak med grunnlag i realkompetansevurdering, må studentene fremlegge dokumentasjon på at de har realkompetanse som vurderes tilsvarende de ordinære opptakskravene. Søkere må ha fylt 23 år i søkeråret.
