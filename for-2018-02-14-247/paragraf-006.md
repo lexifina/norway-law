@@ -1,0 +1,3 @@
+# § 6. Ansvar
+Den som eier eller er ansvarlig for svinene, har plikt til å informere om plikten til å bruke beskyttelsesutstyr til personer som skal ha kontakt med dyrene, eller oppholde seg i bygninger eller på arealer der dyrene holdes. Dyreeieren, eller den som er ansvarlig for dyra, skal påse at beskyttelsesutstyr brukes i henhold til § 4.
+Personer som har vært fritatt fra plikt til å bruke beskyttelsesutstyr i henhold til § 4 første ledd annet punktum, plikter å informere den som eier eller har ansvar for svineholdet om behov for å bruke beskyttelsesutstyr dersom plikten etter § 4 er utløst på nytt. Informasjonen må gis før kontakt med dyrene eller før adgang til bygningene.
