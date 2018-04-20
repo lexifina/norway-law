@@ -4,4 +4,4 @@ Hvis ikke annet er bestemt i plan etter kapittel 11 eller 12, skal byggverk ha e
 Kommunen kan godkjenne at byggverk plasseres nærmere nabogrense enn nevnt i andre ledd eller i nabogrense:
 a) når eier (fester) av naboeiendommen har gitt skriftlig samtykke eller
 b) ved oppføring av frittliggende garasje, uthus og lignende mindre tiltak
-Nærmere bestemmelser, herunder regler om avstand mellom byggverk, beregningsmåten for høyde, avstand fra nabogrense og areal på bygning som nevnt i tredje ledd bokstav b, gis ved forskrift.
+Departementet kan gi forskrift med nærmere bestemmelser om plassering av byggverk, som regler om avstand mellom byggverk, avstand til nabogrense, og beregningsmåten for høyde og avstand, samt for areal på byggverk som nevnt i tredje ledd bokstav b.
