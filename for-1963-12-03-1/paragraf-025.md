@@ -1,0 +1,3 @@
+# § 25
+Treffes det i annet nordisk land beslutning om fullbyrding av straff for en handling som det her i landet er gitt betinget dom for, har denne beslutning samme virkning som en avgjørelse truffet etter reglene i straffelovens § 53.
+Blir en person som her i landet har fått betinget dom, i annet nordisk land dømt for en straffbar handling begått i prøvetiden uten at den nye dommen avgjør spørsmålet om endring av den betingede dom, kan spørsmålet om den betingede dom skal fullbyrdes, av påtalemyndigheten bringes inn for tingretten til avgjørelse. Vedkommende statsadvokat gir underretning om rettens avgjørelse til myndighetene i det annet land i samsvar med reglene i § 24 annet ledd og fjerde ledd.

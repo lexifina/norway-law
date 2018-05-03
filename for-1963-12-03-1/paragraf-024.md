@@ -1,0 +1,5 @@
+# § 24
+Blir det etablert tilsyn i det annet land, får de særvilkår som ellers er fastsatt i den betingede dom, virkning der så langt de passer.
+Blir det etter at tilsynet er overført til annet nordisk land, spørsmål om her i landet å endre den betingede dom, jfr. lovens § 10 annet ledd, innhentes det erklæring fra myndighetene i det annet land om domfeltes forhold. Anmodning om slik erklæring rettes til de samme myndigheter som er nevnt i § 22 annet ledd. Blir det her i landet foretatt endringer i den betingede dom, underretter statsadvokaten vedkommende myndighet i det annet land om forholdet, jfr. § 22 annet ledd. Statsadvokaten sender også melding om dette til tilsynsmyndigheten i vedkommende land.
+Såfremt myndighetene i det land som tilsynet er overført til, treffer bestemmelse om forlengelse av prøvetiden eller om endring av særlige vilkår i den betingede dom, har denne bestemmelse virkning her i landet. Foretas det slike endringer, gis tilsvarende underretning som nevnt i annet ledds siste punktum.
+Statsadvokaten sender melding til Strafferegisteret om avgjørelser truffet i medhold av denne bestemmelse.
