@@ -1,2 +1,2 @@
 # § 51
-Reglar om manntalsføringa og om innføringa av dei røysteføre i manntalet blir fastsette i lov.
+Reglar om manntalsføring og om innføring av dei røysteføre i manntalet blir fastsette i lov.

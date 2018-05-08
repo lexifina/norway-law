@@ -1,3 +1,3 @@
 # § 115
 For å sikre internasjonal fred og tryggleik eller fremje internasjonal rettsorden og samarbeid kan Stortinget med tre fjerdedels fleirtal gje samtykke til at ein internasjonal samskipnad som Noreg er tilslutta eller sluttar seg til, på eit sakleg avgrensa område får råderett som elles ligg hjå dei statlege styresmaktene etter denne grunnlova, men likevel ikkje rett til å endre denne grunnlova. Når Stortinget skal gje sitt samtykke, skal minst to tredjedelar av medlemmene vere til stades, som ved behandling av grunnlovsframlegg.
-Føresegnene i denne paragrafen gjeld ikkje deltaking i ein internasjonal samskipnad der avgjerdene berre har reint folkerettsleg verknad for Noreg.
+Føresegnene i denne paragrafen gjeld ikkje ved deltaking i ein internasjonal samskipnad der avgjerdene berre har reint folkerettsleg verknad for Noreg.
