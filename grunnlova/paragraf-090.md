@@ -1,2 +1,2 @@
 # § 90
-Høgsterettsdommar kan ikkje i noko tilfelle ankast.
+Ein høgsterettsdom kan ikkje i noko tilfelle ankast.

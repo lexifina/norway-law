@@ -1,4 +1,4 @@
 # § 30
 I statsrådet blir det ført protokoll over alle saker som blir behandla der. Dei diplomatiske sakene som statsrådet vedtek å halde løynde, blir førte inn i ein særskild protokoll. Det same gjeld dei militære kommandosakene som statsrådet vedtek å halde løynde.
-Kvar den som sit i statsrådet, har plikt til å seie si meining med frimod. Kongen har plikt til å høyre den, men kan ta avgjerd etter eige omdømme.
+Kvar den som sit i statsrådet, har plikt til å seie si meining med frimod. Kongen har plikt til å høyre meininga, men kan ta avgjerd etter eige omdømme.
 Meiner nokon medlem av statsrådet at avgjerda til kongen strir mot statsforma eller lovene i landet, har ho eller han plikt til å ta kraftig til motmæle og skrive si meining i protokollen. Den som ikkje har protestert såleis, blir rekna for å ha vore samd med kongen og er ansvarleg for det, slik som det sidan blir fastsett, og Stortinget kan setje vedkommande under tiltale for Riksretten.
