@@ -1,0 +1,4 @@
+# § 15. Vinner av auksjonen
+Vinner kåres etter at en budgivningsrunde avsluttes med at den samlede etterspørselen av kapasitet til gitte priser i hvert produksjonsområde tilsvarer eller er mindre enn den tilgjengelige produksjonskapasiteten jf. § 3.
+Aktørene som i den siste budgivningsrunden la inn bud, skal tildeles den mengden produksjonskapasitet de la inn bud for, til de prisene som ble angitt i den siste budgivningsrunden.
+Vinnere gis mulighet til å fritt å dele opp, eller fordele tildelt kapasitet på nye tillatelser i ønsket antall og størrelser innenfor hvert produksjonsområde, avgrenset av den produksjonskapasiteten de har vunnet i disse områdene samt begrensningene som framkommer i forskriftens § 5. Dette gjelder ikke tillatelser som er under 100 tonn. Det er heller ikke mulig å dele opp tillatelser som er over 100 tonn på en slik måte at en ny tillatelse får en størrelse under 100 tonn.
