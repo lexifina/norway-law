@@ -1,0 +1,3 @@
+# § 11. Bankgaranti
+For å delta i auksjonen må budgiver stille en ubetinget og ugjenkallelig bankgaranti på NOK 2 millioner. Beløpet på NOK 2 000 000 – to millioner kroner – innebærer ingen føringer for hva departementet mener produksjonskapasiteten er verdt, og medfører heller ingen begrensning av hvilket beløp man kan by under auksjonen.
+Det fastsatte bankgarantiskjemaet skal benyttes. Bankgarantien må være utstedt av en bank- eller finansieringsinstitusjon hjemmehørende i EØS-området, og skal være underskrevet av bank/finansieringsinstitusjonen. Garantien må være gyldig til og med 15. oktober 2018. Departementet vil frigjøre garantiene når det ikke lenger er aktuelt å gjøre dem gjeldende.
