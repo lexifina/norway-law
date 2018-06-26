@@ -1,0 +1,5 @@
+# § 3. Teknisk kontrollorgan
+Et organ som vil bli utpekt som teknisk kontrollorgan skal søke Direktoratet for samfunnssikkerhet og beredskap om dette, jf. forordning (EU) 2016/426 artikkel 20.
+Søknaden skal følges av en beskrivelse av samsvarsvurderingsvirksomheten, den eller de aktuelle samsvarsvurderingsmodulene, det eller de produktene som organet hevder å være kompetent for, og et akkrediteringsbevis utstedt av Norsk akkreditering som bekrefter at organet oppfyller kravene i forordning (EU) 2016/426 artikkel 23.
+Dersom organet ikke kan legge frem et akkrediteringsbevis, skal det gi Direktoratet for samfunnssikkerhet og beredskap den dokumentasjonen som er nødvendig for å kunne verifisere, anerkjenne og føre regelmessig tilsyn med at organet oppfyller kravene i forordning (EU) 2016/426 artikkel 23.
+Direktoratet for samfunnssikkerhet og beredskap har myndighet til å begrense, midlertidig oppheve eller trekke tilbake en utpeking dersom utpekt teknisk kontrollorgan ikke oppfyller kravene i forordning (EU) 2016/426 artikkel 23, jf. artikkel 29.
