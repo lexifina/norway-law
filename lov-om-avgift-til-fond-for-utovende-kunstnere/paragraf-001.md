@@ -1,0 +1,4 @@
+# § 1
+Ved avgifter som pålegges etter bestemmelsene i denne lov opprettes et fond til støtte for utøvende kunstnere og produksjon av opptak av utøvende kunstneres prestasjoner. Med utøvende kunstnere menes her musikere, sangere, skuespillere, dansere, dirigenter, sceneinstruktører og andre som gjennom sin kunst framfører åndsverk eller tradisjonsuttrykk.
+Støtte kan gis til utøvende kunstner som bor og hovedsakelig har sitt virke i Norge. Produksjonstilskudd kan gis til innspilling foretatt i Norge fortrinnsvis med utøvende kunstnere som nevnt i første punktum og produsent som hovedsakelig har sitt virke i Norge. Støtte vil i enkelttilfeller kunne gis til innspilling foretatt i utlandet dersom det ville ha medført uforholdsmessige praktiske vanskeligheter å foreta innspillingen i Norge, og begrunnelsen for støtte for øvrig er særlig tungtveiende.
+Departementet kan gi utfyllende bestemmelser om kriteriene for tildeling av støtte.
