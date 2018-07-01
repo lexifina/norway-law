@@ -1,0 +1,2 @@
+# § 57
+Er chekkfordringen foreldet, eller er chekkretten tapt ved forsømmelse av den til dens bevaring foreskrevne omgang, er dog chekkinnehaveren ikke utelukket fra som almindelig gjeldsfordring å inntale hos en chekkskyldner hvad denne vilde bli beriket med på hans bekostning hvis ethvert krav bortfalt. Når ikke annet gjøres antagelig, anses trassenten beriket på chekkinnehaveres bekostning med chekksummen.
