@@ -1,0 +1,2 @@
+# § 111. Forholdet til tjenesteloven
+Departementet kan for godkjenning etter §§ 18, 21, 46, 60 og 63 gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven, herunder om saksbehandlingsfrist og rettsvirkninger av fristoversittelse. Unntak fra tjenesteloven § 11 andre ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.

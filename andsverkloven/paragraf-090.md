@@ -1,0 +1,6 @@
+# § 90. Behandling av begjæringen
+Dersom retten av eget tiltak skal avvise saken, treffer den straks avgjørelse om det. Kan feilen rettes, skal saksøkeren få en frist til å rette den. Blir feilen ikke rettet, skal saken avvises.
+Dersom det bedømt på grunnlag av saksfremstillingen i begjæringen, ikke er adgang til å ta den til følge, kan den forkastes straks.
+Hvis det ikke er grunnlag for å avvise eller forkaste begjæringen etter første eller andre ledd, skal begjæringen forelegges for alle tjenesteytere og innehaveren av nettstedet som den retter seg mot. Disse skal gis anledning til å uttale seg før saken avgjøres. Dersom innehaveren av nettstedet er ukjent eller har ukjent adresse, kan saken avgjøres uten at vedkommende har hatt anledning til å uttale seg.
+Retten bestemmer om saken skal avgjøres på grunnlag av skriftlig behandling eller om partene skal innkalles til muntlige forhandlinger. Skal det avholdes muntlige forhandlinger, skal samtlige parter innkalles til disse, jf. § 89. I tilfeller som nevnt i tredje ledd tredje punktum, kan muntlige forhandlinger avholdes uten at innehaveren av nettstedet innkalles.
+Dersom det er fare ved opphold, kan retten treffe avgjørelse om pålegg uten at begjæringen forelegges for motpartene.

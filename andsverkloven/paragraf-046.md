@@ -1,0 +1,5 @@
+# § 46. Avtalelisens for bruk av verk i undervisningsvirksomhet
+Til bruk i egen undervisningsvirksomhet kan det fremstilles eksemplar av utgitt verk, når betingelsene for avtalelisens etter § 63 første ledd er oppfylt eller eksemplarfremstillingen skjer etter tillatelse gitt av nemnd etter bestemmelsene i § 65 fjerde ledd. Det kan også gjøres opptak av kringkastingssending når betingelsene for avtalelisens etter § 63 første ledd er oppfylt. Dette gjelder likevel ikke der kringkastingssendingen består av filmverk som må oppfattes som også bestemt til annen bruk enn fremføring og overføring gjennom fjernsyn, med mindre det i sendingen bare er benyttet mindre deler av verket.
+Opptakssentral som er godkjent av departementet, kan til bruk i undervisningsvirksomhet gjøre opptak som nevnt i første ledd, når den oppfyller betingelsene for avtalelisens etter § 63 første ledd.
+Eksemplar fremstilt med hjemmel i første og andre ledd kan bare benyttes innenfor den undervisningsvirksomhet som omfattes av avtalen etter § 63.
+Departementet kan gi forskrifter om oppbevaring og bruk av opptak etter første og andre ledd.

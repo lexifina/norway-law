@@ -1,0 +1,2 @@
+# § 115. Lovens anvendelse for satellittkringkasting
+Når verk eller prestasjoner kringkastes over satellitt fra et land utenfor EØS-området, kommer loven til anvendelse dersom satellitten mottar signalene fra Norge, eller kringkastingssendingen foretas etter oppdrag fra et kringkastingsforetak som har sitt hovedsete her i riket. Paragrafen her gjelder bare dersom senderlandets regler om retten til kringkasting av verk og prestasjoner ikke gir tilsvarende vern som etter denne lov.

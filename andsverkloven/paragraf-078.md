@@ -1,0 +1,3 @@
+# § 78. Forbud mot inngrep og andre overtredelser
+Den som har gjort inngrep i en annens rett eller på annen måte overtrådt denne loven, eller som har medvirket til det, kan ved dom forbys å gjenta handlingen. Den som har gjort vesentlige forberedelsestiltak med sikte på å utføre en handling som vil utgjøre en overtredelse, eller som på annen måte har opptrådt slik at det er særlig grunn til å frykte at vedkommende vil overtre loven, kan ved dom forbys å gjennomføre handlingen.
+Bestemmelsen i første ledd gjelder ikke ved krav om at en tjenesteyter skal hindre eller vanskeliggjøre tilgang til nettsted som regulert i § 88.

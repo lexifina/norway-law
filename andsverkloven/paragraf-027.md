@@ -1,0 +1,3 @@
+# § 27. Spredning av eksemplar (konsumpsjon)
+Er et eksemplar av et verk solgt eller på annen måte overdratt med opphaverens samtykke, kan eksemplaret spres videre blant allmennheten. Bestemmelsene gjelder bare der eksemplaret er overdratt innenfor EØS-området. Er eksemplaret overdratt utenfor dette området, er bestemmelsen i andre punktum ikke til hinder for at eksemplaret erverves av en person til privat bruk eller spres videre ved utlån eller utleie.
+Bestemmelsen i første ledd gir, med unntak for byggverk og bruksgjenstander, ikke adgang til utleie. Bestemmelsen gir heller ikke adgang til utlån av maskinlesbart eksemplar av datamaskinprogram. Likestilt med leie er bytte som drives som organisert virksomhet.

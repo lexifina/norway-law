@@ -1,0 +1,2 @@
+# § 71. Datamaskinprogram skapt i arbeidsforhold
+Opphavsrett til datamaskinprogram som er skapt av en arbeidstaker under utførelsen av oppgaver som omfattes av arbeidsforholdet, eller etter arbeidsgivers anvisninger, går over til arbeidsgiveren. Det samme gjelder adgang til endring av verket og videreoverdragelse av retten. Bestemmelsene i første og andre punktum gjelder ikke rettigheter etter § 5 eller der annet er avtalt.

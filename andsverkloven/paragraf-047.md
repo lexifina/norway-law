@@ -1,0 +1,3 @@
+# § 47. Avtalelisens for bruk av verk i institusjoner, ervervsvirksomheter mv.
+Offentlige og private institusjoner, organisasjoner og ervervsvirksomheter kan til bruk innenfor sin virksomhet fremstille eksemplar av utgitt verk når de oppfyller betingelsene for avtalelisens etter § 63 første ledd. På samme vilkår kan det gjøres opptak av kringkastingssending. Dette gjelder likevel ikke der kringkastingssendingen består av filmverk som må oppfattes som også bestemt til annen bruk enn fremføring og overføring gjennom fjernsyn, med mindre det i sendingen bare er benyttet mindre deler av verket.
+Eksemplar fremstilt med hjemmel i første ledd kan bare brukes innenfor den virksomhet som omfattes av avtalen etter § 63.
