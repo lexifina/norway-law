@@ -1,0 +1,2 @@
+# § 3-1. Sikkerhetsstillelse
+En sameier som krever seksjonering skal stille sikkerhet for medhjelperens honorar, gebyr og øvrige kostnader knyttet til seksjoneringssøknaden før retten tar saken til behandling. Retten fastsetter hva slags sikkerhet som skal stilles og størrelsen på sikkerhetsstillelsen. Retten kan beslutte at det skal stilles ytterligere sikkerhet dersom det viser seg at kostnadene ved seksjoneringssøknaden vil overstige beløpet det tidligere er stilt sikkerhet for.

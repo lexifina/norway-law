@@ -1,0 +1,3 @@
+# § 3-2. Fastsettelse av medhjelperens honorar
+Medhjelperen har rett til honorar på bakgrunn av nødvendig tidsbruk og nødvendige kostnader med å gjennomføre seksjoneringen. Når søknad om seksjonering er sendt til kommunen, eller medhjelperens oppdrag er avsluttet på annen måte, skal medhjelperen fremsette sitt honorarkrav for sameierne. Kravet skal være spesifisert slik at sameierne har grunnlag for å ta stilling til kravet. Utlegg skal dokumenteres.
+Dersom det oppstår tvist om medhjelperens honorarkrav, kan sameierne be retten om å fastsette honoraret. Fristen for å be retten fastsette honoraret er fire uker etter at medhjelperen har fremsatt honorarkravet for sameierne.
