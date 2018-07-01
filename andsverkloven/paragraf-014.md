@@ -1,0 +1,3 @@
+# § 14. Åndsverk som ikke har opphavsrettslig vern
+Lover, forskrifter, rettsavgjørelser og andre vedtak av offentlig myndighet er uten vern etter denne loven. Det samme gjelder forslag, utredninger, uttalelser og lignende som gjelder offentlig myndighetsutøvelse, og er avgitt av offentlig myndighet, offentlig oppnevnt råd eller utvalg, eller utgitt av det offentlige. Tilsvarende er offisielle oversettelser av slike tekster uten vern etter denne loven.
+Åndsverk som ikke er skapt særskilt til bruk i dokumenter som nevnt i første ledd, og som det siteres fra eller som gjengis i særskilt vedlegg, omfattes ikke av denne bestemmelsen. Første ledd gjelder heller ikke lyrikk, musikkverk eller kunstverk.

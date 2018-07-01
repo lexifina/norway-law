@@ -1,0 +1,5 @@
+# § 52. Definisjon av hitteverk
+Litterære verk, lydopptak og filmverk skal regnes som hitteverk dersom det ikke er mulig å finne rettighetshaveren etter at en institusjon etter § 51 har utført og dokumentert et omfattende søk etter § 54.
+Der verk eller lydopptak som nevnt i første ledd har flere rettighetshavere og bare noen av dem er funnet etter at det er utført et omfattende søk, skal verket eller lydopptaket regnes som hitteverk for den del av rettighetene som tilhører de ukjente rettighetshavere. Slike verk eller lydopptak kan bare brukes som hitteverk etter § 53 dersom de kjente rettighetshavere har gitt samtykke etter § 8.
+Dersom en rettighetshaver melder seg for en institusjon som nevnt i § 51, skal verket eller lydopptaket ikke lenger anses som hitteverk. Er verket eller lydopptaket tatt i bruk som hitteverk etter § 53, må bruken opphøre. En rettighetshaver til et verk eller lydopptak som er brukt som hitteverk, har krav på rimelig kompensasjon av den som har brukt verket eller lydopptaket.
+Verk eller lydopptak som i henhold til lovgivningen i et land i EØS-området anses som hitteverk, skal også anses som hitteverk i Norge.

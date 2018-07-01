@@ -1,0 +1,3 @@
+# § 61. Ufravikelighet og opplysningsplikt mv. ved følgerett
+Det kan ikke gis avkall på retten etter § 59, og den kan heller ikke overdras. Har ikke opphaveren arvinger, skal følgerettsvederlag som forfaller etter opphaverens død, tilfalle den organisasjon som til enhver tid er godkjent etter § 60 fjerde ledd. Slike midler skal brukes som nevnt i § 60 fjerde ledd andre punktum.
+Selger, kjøper og formidler som nevnt i § 59 skal innen sjette termin for innbetaling av merverdiavgift, til den organisasjonen som er godkjent etter § 60 fjerde ledd, oppgi de opplysninger som er nødvendige for å sikre betaling av følgerettsvederlag for det foregående årets salg. Organisasjonen kan også kreve slike opplysninger om de tre siste årenes salg.

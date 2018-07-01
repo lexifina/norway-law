@@ -1,0 +1,3 @@
+# § 12. Vernetid for anonyme åndsverk
+Når et verk er offentliggjort uten at opphaveren er navngitt eller kan identifiseres på annen måte, varer opphavsretten i 70 år etter utløpet av det året da verket først ble offentliggjort. Består verket av flere deler, regnes vernetiden særskilt for hver enkelt del. Opphavsretten til verk av en ukjent opphaver varer i 70 år etter utløpet av det året verket ble skapt, dersom ikke verket offentliggjøres i løpet av dette tidsrommet.
+Hvis opphaveren i løpet av dette tidsrommet blir navngitt eller identifisert på annen måte, eller hvis det blir opplyst at opphaveren er død før verket ble offentliggjort, bestemmes vernetiden etter § 11.

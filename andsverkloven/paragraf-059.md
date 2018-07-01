@@ -1,0 +1,3 @@
+# § 59. Følgerett ved videresalg av kunstverk
+Opphaveren har krav på følgerettsvederlag når en som yrkesmessig opptrer i kunstmarkedet og deltar som selger, kjøper eller formidler ved videresalg av originaleksemplar av opphavsrettslig vernede kunstverk som malerier, kollasjer, tegninger, stikk, trykk, litografier, skulpturer, billedtepper, keramikk, glasskunst og fotografiske verk. Som originaleksemplar regnes eksemplar av kunstverk som er utført i et begrenset antall av kunstneren selv eller med kunstnerens samtykke. Bestemmelsen gjelder ikke byggverk.
+Retten etter første ledd gjelder ikke videresalg fra privatpersoner til museer som er åpne for publikum og ikke driver ervervsmessig, med mindre det i handelen deltar en formidler som nevnt i første ledd.

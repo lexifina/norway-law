@@ -1,0 +1,3 @@
+# § 44. Tvangslisens for samleverk til bruk i undervisning mv.
+I samleverk bestemt til bruk ved undervisning, religiøs seremoni eller seremoni basert på ikke-religiøse livssyn, sammenstilt av verk fra et større antall opphavere, kan det gjengis mindre deler av litterære verk og musikkverk eller slike verk av lite omfang, når fem år er gått etter utløpet av det året da verket ble utgitt. I tilslutning til teksten kan også kunstverk og fotografisk verk gjengis når fem år er gått etter utløpet av det året da verket ble offentliggjort. Verk som er utarbeidet til bruk ved undervisning, må ikke gjengis i et samleverk med samme formål. Bestemmelsene i denne paragrafen gir ikke rett til gjengivelse i digital form.
+Opphaveren har krav på vederlag.

@@ -1,0 +1,2 @@
+# § 93. Gjennomføring av pålegg
+Et pålegg om å hindre eller vanskeliggjøre tilgang til nettsted gjennomføres etter reglene i tvangsfullbyrdelsesloven kapittel 13 V. Saksøkeren kan begjære gjennomføring når fristen for å iverksette tiltak har løpt ut, jf. § 91 andre ledd første punktum. Dersom saksøkeren er pålagt å stille sikkerhet etter § 91 andre ledd tredje punktum, kan ikke saksøkeren begjære gjennomføring før sikkerhet er stilt.

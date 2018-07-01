@@ -1,0 +1,4 @@
+# § 108. Forbud mot å tilgjengeliggjøre åndsverk på en krenkende måte
+Selv om opphavsrettens vernetid er utløpt, kan et åndsverk ikke gjøres tilgjengelig for allmennheten på en måte eller i en sammenheng som er krenkende for opphaverens eller verkets anseelse eller egenart eller på annen måte antas å kunne skade allmenne kulturinteresser.
+Uten hensyn til om vernetiden er utløpt kan departementet, når opphaveren er død, forby at et åndsverk gjøres tilgjengelig for allmennheten på en slik måte eller i en slik sammenheng som nevnt i første ledd. Slikt forbud kan departementet også nedlegge på begjæring fra en opphaver som lever, dersom verket ikke er vernet her i riket.
+Bestemmelsen i § 5 første ledd får tilsvarende anvendelse selv om opphavsrettens vernetid er utløpt, eller verket er uten vern her i riket.

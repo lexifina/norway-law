@@ -1,0 +1,4 @@
+# § 70. Avregning og kontroll
+Avhenger opphaverens vederlag av erververens omsetning, salgstall eller lignende, kan opphaveren kreve at det skjer avregning minst én gang i året. Opphaveren kan også kreve at hver avregning følges av nødvendige opplysninger om de forhold som har ligget til grunn for vederlagsberegningen.
+Opphaveren kan kreve at erververens regnskaper, bokføring og lagerbeholdning, samt attestasjoner fra den som har brukt verket, stilles til rådighet for en av opphaveren oppnevnt statsautorisert eller registrert revisor. Revisoren skal opplyse opphaveren om riktigheten av den avregningen som er foretatt, og om eventuelle uregelmessigheter ved den. For øvrig har revisoren taushetsplikt om alle andre forhold som revisoren blir kjent med ved gjennomgangen.
+Bestemmelsene i denne paragrafen kan ikke fravikes til skade for opphaveren.

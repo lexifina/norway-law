@@ -1,0 +1,2 @@
+# § 19. Avtale om løpende vederlag
+Hvis en utøvende kunstner har overdratt rettigheter til et lydopptak til en produsent og avtalt løpende vederlag, skal verken forskuddsbetaling eller kontraktsmessige fradrag trekkes fra løpende vederlag for tiden som følger når det er gått 50 år etter utløpet av det året lydopptaket første gang ble utgitt, eller dersom utgivelse ikke har funnet sted, etter utløpet av det året lydopptaket på annen måte ble offentliggjort. Fradrag kan likevel skje dersom kunstneren uttrykkelig har godkjent det.

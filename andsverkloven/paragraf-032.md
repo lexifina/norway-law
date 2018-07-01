@@ -1,0 +1,2 @@
+# § 32. Offentlige forhandlinger mv.
+Enhver kan uten samtykke av opphaver gjøre tilgjengelig for allmennheten forhandlinger i offentlige forsamlinger, styrer, råd og lignende, i møter av valgte offentlige myndigheter, i rettssaker og på åpne møter som holdes for å behandle allmenne spørsmål, med de begrensningene som følger av § 34. En opphaver har likevel enerett til å utgi samlinger av sine egne innlegg.
