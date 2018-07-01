@@ -1,0 +1,4 @@
+# § 43
+Anførslen «uten omkostninger», «uten protest» eller tilsvarende anførsel, påført chekken og undertegnet av trassenten, en endossent eller en avalist, fritar chekkinnehaveren for å la foreta protest som betingelse for regress.
+En sådan bestemmelse fritar ikke chekkinnehaveren for å forevise chekken innen de foreskrevne frister eller for å gi de i § 42 foreskrevne meddelelser. Beviset for at fristene ikke er overholdt, påhviler den som gjør det gjeldende overfor chekkinnehaveren.
+Er bestemmelsen truffet av trassenten, har den virking for alle chekkskyldnere; er den truffet av en endossent eller en avalist, har den bare virkning overfor denne. Hvis chekkinnehaveren lar foreta protest til tross for at trassenten har truffet en sådan bestemmelse, bærer han selv omkostningene. Er bestemmelsen truffet av en endossent eller en avalist, kan omkostningene ved protest, om sådan foretas, kreves erstattet hos enhver chekkskyldner.

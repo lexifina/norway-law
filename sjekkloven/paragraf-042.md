@@ -1,0 +1,7 @@
+# § 42
+Chekkinnehaveren skal gi den siste endossent og trassenten meddelelse om den manglende betaling innen fire virkedager efter protestdagen eller, hvis der er tatt forbehold om regress uten omkostninger, efter forevisningsdagen. Enhver endossent skal, senest annen virkedag efter den dag da han har mottatt sådan meddelelse, underrette den nærmest foregående endossent om den meddelelse som han selv har mottatt, og oplyse navn og adresse på dem som har gitt de foregående meddelelser, og således videre idet man går tilbake like til trassenten. Ovennevnte frister regnes fra mottagelsen av den foregående meddelelse.
+Når der overensstemmende med foregående ledd er gitt meddelelse til en chekkskyldner, skal tilsvarende meddelelse innen samme frist gis til dem som har tegnet aval for ham.
+Har en endossent ikke angitt sin adresse, eller er denne uleselig, er det nok at meddelelsen gis den endossent som står nærmest foran ham på chekken.
+Den som plikter å gi underretning, kan gjøre det på hvilken som helst måte, endog bare ved å sende chekken tilbake.
+Det påhviler ham å bevise at han har gitt meddelelsen innen den foreskrevne frist. Fristen anses overholdt hvis et brev som inneholder meddelelsen, er innlevert til tilbyder av posttjenester innen fristens utløp.
+Den som ikke gir underretning innen den ovennevnte frist, taper ikke sin regressrett, men er i tilfelle ansvarlig for den skade som måtte være voldt ved hans forsømmelse; dog kan skadeserstatningen ikke overstige chekkens beløp.

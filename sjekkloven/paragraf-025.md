@@ -1,0 +1,3 @@
+# § 25
+Har trassatbanken gitt chekken en underskrevet påtegning som kan forståes således at chekken vil bli betalt («bekreftes», «certifiseres», «noteres», «viseres» e.l.), eller har den anbragt sin underskrift på chekkens forside, er den forpliktet til å innfri chekken hvis denne forevises til betaling innen utløpet av den i § 29 fastsatte frist. En påtegning hvorved trassatbanken påtar sig en videregående betalingsplikt, er forsåvidt uten rettsvirkning.
+Innfrir trassatbanken ikke chekken ved forevisningen, har chekkinnehaveren, selv om det er trassenten, et umiddelbart krav mot den på alt som kan fordres efter §§ 45 og 46.
