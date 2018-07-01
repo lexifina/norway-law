@@ -1,0 +1,2 @@
+# § 14. Kombinasjonar av skriftlege dokument, levande bilete og film og lydfestingar
+Dersom dokument i ulike medium og tekniske plattformer utgjer ein heilskap, til dømes som læremiddelpakker, skal utgjevaren avlevere sju komplette eksemplar av det kombinerte dokumentet. Kombinerte dokument som berre er digitale, skal avleverast i eitt digitalt eksemplar. Dersom utgjevaren er utanlandsk, skal importøren avlevere eksemplara.
