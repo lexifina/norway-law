@@ -1,0 +1,3 @@
+# § 1. Formål
+Formålet med forskriften er å sikre tilgangen til drivstoff i kriser for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til varer og tjenester dekkes. Forskriften skal gi grunnlag for nødvendig, rask og effektiv prioritering og omfordeling av drivstoffressurser, herunder logistikktjenester, gjennom samarbeid mellom offentlige myndigheter og næringsdrivende.
+Planleggingen og tiltakene skal være dimensjonert ut fra de til enhver tid gjeldende nasjonale trusselvurderinger, beredskapsmessige planleggingsforutsetninger og den aktuelle situasjonen.
