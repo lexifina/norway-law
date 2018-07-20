@@ -1,0 +1,3 @@
+# § 7. Behandling av særlige kategorier av personopplysninger etter tillatelse eller forskrift
+Datatilsynet kan i særlige tilfeller gi tillatelse til å behandle personopplysninger som nevnt i personvernforordningen artikkel 9 nr. 1 dersom behandling er nødvendig av hensyn til viktige allmenne interesser. Datatilsynet skal fastsette vilkår for å verne den registrertes grunnleggende rettigheter og interesser.
+Kongen kan i forskrift åpne for behandling av personopplysninger som nevnt i personvernforordningen artikkel 9 nr. 1 når det er nødvendig av hensyn til viktige allmenne interesser. I en slik forskrift skal det fastsettes egnede og særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser.

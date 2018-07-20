@@ -1,0 +1,3 @@
+# § 24. Taushetsplikt
+Bestemmelsene om taushetsplikt i forvaltningsloven § 13 flg. gjelder for ansatte i Datatilsynet, medlemmene i Personvernnemnda og alle andre som utfører tjeneste eller arbeid for Datatilsynet eller Personvernnemnda. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak etter personvernforordningen artikkel 32 og enkeltpersoners varsling om overtredelser av loven her.
+Datatilsynet kan uten hinder av taushetsplikten etter første ledd gi opplysninger til utenlandske tilsynsmyndigheter når det er nødvendig for at en tilsynsmyndighet som omfattes av forordningen, skal kunne treffe vedtak som et ledd i tilsynsvirksomheten.

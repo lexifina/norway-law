@@ -1,0 +1,2 @@
+# § 8. Behandling av personopplysninger for arkivformål i allmennhetens interesse, formål knyttet til vitenskapelig eller historisk forskning eller statistiske formål
+Personopplysninger kan behandles på grunnlag av personvernforordningen artikkel 6 nr. 1 bokstav e dersom det er nødvendig for arkivformål i allmennhetens interesse, formål knyttet til vitenskapelig eller historisk forskning eller statistiske formål. Behandlingen skal være omfattet av nødvendige garantier i samsvar med personvernforordningen artikkel 89 nr. 1.
