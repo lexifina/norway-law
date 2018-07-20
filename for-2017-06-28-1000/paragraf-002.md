@@ -1,0 +1,4 @@
+# § 2. Krav til informasjon og samtykke
+Samtykket skal være en frivillig, spesifikk, informert og utvetydig viljesytring fra deltakeren der vedkommende ved en erklæring eller tydelig bekreftelse gir sitt samtykke til behandling av helseopplysningene, jf. helseforskningsloven § 13 flg.
+Informasjonen i forkant av samtykket skal skje ansikt til ansikt, være tilpasset barnets forutsetninger og mulighet til å forstå hva samtykket innebærer og omfatte hvordan barnet skal gå fram for å tilbakekalle samtykket. Informasjonen skal også omfatte behandlingen av opplysninger barnet gir til prosjektet og prosjektleders beredskapsplikt dersom det viser seg at barnet kan ha behov for helsehjelp.
+Samtykket skal fremkomme uten press og overtalelse. REK kan bestemme at samtykket skal dokumenteres på annen måte enn skriftlig, for eksempel ved hjelp av bilde- og lydopptak eller vitner.
