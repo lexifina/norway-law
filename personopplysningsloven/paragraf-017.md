@@ -1,0 +1,6 @@
+# § 17. Unntak fra den registrertes rettigheter ved behandling av personopplysninger for arkivformål i allmennhetens interesse, vitenskapelige eller historiske forskningsformål og statistiske formål
+Retten til innsyn etter personvernforordningen artikkel 15 gjelder ikke for behandling av personopplysninger for arkivformål i allmennhetens interesse, formål knyttet til vitenskapelig eller historisk forskning eller statistiske formål i samsvar med personvernforordningen artikkel 89 nr. 1 så langt
+a) det vil kreve en uforholdsmessig stor innsats å gi innsyn eller
+b) innsynsrett sannsynligvis vil gjøre det umulig eller i alvorlig grad hindre at målene med behandlingen nås.
+Retten til retting og begrensning av behandling etter personvernforordningen artikkel 16 og 18 gjelder ikke for behandling for arkivformål i allmennhetens interesse, formål knyttet til vitenskapelig eller historisk forskning eller statistiske formål i samsvar med personvernforordningen artikkel 89 nr. 1 så langt rettighetene sannsynligvis vil gjøre det umulig eller i alvorlig grad hindre at målene med behandlingen nås.
+Første og annet ledd gjelder ikke dersom behandlingen får rettsvirkninger eller direkte faktiske virkninger for den registrerte.
