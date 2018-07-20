@@ -1,0 +1,2 @@
+# § 16. Sammenstilling
+Personidentifiserbare opplysninger i Direkteoppgjørsregisteret kan sammenstilles med personidentifiserbare opplysninger i Enkeltoppgjørsregisteret. Personidentifiserbare opplysninger i Enkeltoppgjørsregisteret kan sammenstilles med personidentifiserbare opplysninger i Direkteoppgjørsregisteret.

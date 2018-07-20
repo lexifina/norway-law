@@ -1,0 +1,2 @@
+# § 3. Formål med registrene
+Formålet med Enkeltoppgjørsregisteret og Direkteoppgjørsregisteret for syketransport er å gi grunnlag for administrering og samordning av transport til undersøkelse eller behandling i kommune og spesialisthelsetjenesten. Administrering omfatter også saksbehandling, refusjon av krav om dekning og oppgjør av slike transportutgifter. Opplysninger i registeret kan brukes som grunnlag for utarbeidelse av statistikk og til forskning.
