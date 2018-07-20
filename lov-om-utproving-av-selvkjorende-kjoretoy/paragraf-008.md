@@ -1,0 +1,4 @@
+# § 8. Lagring og utlevering av informasjon
+Dersom det under utprøvingen oppstår situasjoner som gir grunn til å tro at det kan bli politietterforskning eller reises forsikringssak på grunn av kjøringen, kan opplysninger lagret under kjøringen, ikke slettes før forholdet er avklart.
+Den som har fått tillatelsen, plikter etter begjæring å gi selskapet der det er tegnet forsikring for det selvkjørende kjøretøyet, tilgang til lagrede opplysninger som er nødvendige i en forsikringssak reist på grunn av kjøring under utprøving. Den som har fått tillatelsen, plikter etter begjæring også å gi politi- og påtalemyndigheten tilgang til lagrede opplysninger som er nødvendige for etterforskning igangsatt på grunn av kjøring under utprøving.
+Den som har fått tillatelsen, skal gi informasjonen uten kostnad.

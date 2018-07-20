@@ -1,0 +1,3 @@
+# § 2. Virkeområde
+Loven gjelder utprøving av selvkjørende kjøretøy uten ansvarlig fører og selvkjørende kjøretøy med ansvarlig fører som ikke befinner seg på tradisjonell førerplass. Loven gjelder også utprøving av selvkjørende kjøretøy hvor kjøretøyet har en ansvarlig fører på tradisjonell førerplass, men hvor det av andre grunner er nødvendig med unntak fra gjeldende regler som nevnt i § 3.
+Med selvkjørende kjøretøy menes et kjøretøy som er utrustet med et teknisk system som automatisk fører kjøretøyet og som har kontroll over kjøringen. Selvkjørende kjøretøy omfatter kjøretøy der en fører kan overlate kjøringen til det tekniske systemet som automatisk fører kjøretøyet, og kjøretøy som er konstruert for å kjøre uten fører.
