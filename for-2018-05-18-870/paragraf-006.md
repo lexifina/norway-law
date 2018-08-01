@@ -1,0 +1,3 @@
+# § 6. Ikrafttredelse og overgangsregler
+Forskriften trer i kraft 1. august 2018. Forskriften gjelder for studenter som tas opp fra og med opptak til studieåret 2019-2020. Institusjonene kan bestemme at denne forskriften skal gjelde for studenter som tas opp fra og med opptak til studieåret 2018-2019. Institusjonene kan også fastsette at deler av forskriften skal gjelde for studenter som er omfattet av tidligere forskrift om rammeplan.
+Studenter som følger tidligere forskrift om rammeplan, har rett til å avlegge eksamen etter denne inntil 31. desember 2023. Fra dette tidspunktet oppheves forskrift 3. februar 2011 nr. 107 om rammeplan for ingeniørutdanning.

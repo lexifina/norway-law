@@ -1,0 +1,5 @@
+# § 4. Nasjonale retningslinjer, indikatorer og programplan
+Det utarbeides nasjonale retningslinjer for emnegrupper og enkelte emner i ingeniørutdanningen og indikatorer for hva som kjennetegner ingeniørutdanning av høy internasjonal kvalitet.
+Innenfor de gitte nasjonale rammene fastsetter den enkelte institusjon programplaner for ingeniørutdanning med bestemmelser om studieretninger og faglig innhold, uttrykt gjennom krav til læringsutbytte på program-, studieretning- og emnenivå. Programplanene skal videre inneholde bestemmelser om organisering, læringsformer og vurderingsordninger.
+Programplanen skal legge til rette for faglig samarbeid mellom institusjoner og nasjonal og internasjonal mobilitet. Institusjonene skal ha tett kontakt med relevant arbeids- og næringsliv under utarbeidelsen av programplanen. Så langt det er faglig forsvarlig og mulig, bør det i programplanen legges til rette for fleksible studieløp. Programplanen skal vedtas av institusjonens styre.
+Trer i kraft 1 aug 2018.
