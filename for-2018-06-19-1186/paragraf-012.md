@@ -1,0 +1,3 @@
+# § 12. Tilbaketrekking og retting av avhandling
+(1) Eit arbeid som er levert kan ikkje trekkjast tilbake før det er endelig avgjort om det er verdig til å forsvarast for doktorgraden.
+(2) Kandidaten kan likevel søka fakultetet om få retta formelle feil i avhandlinga etter innlevering. Med søknaden skal kandidaten leggja fram ei fullstendig oversikt over alle feil (errata) han/ho ynskjer å retta. Søknaden må leverast inn seinast fire (4) veker før komiteen sin frist for å levera innstillinga. Det kan berre søkast ein gong. Dersom komitéen har fått kortare frist enn tre månadar på å levera innstillinga, kan fristen kortast forholdsmessig ned.
