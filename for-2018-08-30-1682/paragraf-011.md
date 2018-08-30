@@ -1,0 +1,4 @@
+# § 11. Klage
+Avslag på søknad om bedømmelse og vedtak om ikke å godkjenne avhandling, prøveforelesninger eller forsvar kan påklages etter reglene i forvaltningsloven § 28 flg. Fristen for å klage er tre uker fra det tidspunkt underretning om vedtaket er kommet fram til vedkommende part.
+Grunngitt klage sendes til rektor, som etter samråd med forskningsutvalget kan oppheve eller endre vedtaket hvis klagen finnes berettiget. Dersom rektor ikke finner å kunne endre eller oppheve vedtaket, oversendes saken til styret ved MF. Styret kan prøve alle sider ved det påklagede vedtak.
+Dersom forskningsutvalget eller styret finner grunn til det, kan det oppnevnes et utvalg eller enkeltpersoner til å foreta en vurdering av den foretatte bedømmelse og de kriterier denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.
