@@ -1,0 +1,3 @@
+# § 12. Forbud om konkurransebegrensende adferd
+Enhver form for direkte eller indirekte samarbeid eller samordnet opptreden mellom budgivere eller deres interessenter som virker eller er ment å virke konkurransebegrensende, er forbudt. Eksempler på samarbeid som er forbudt er utveksling av konkurransesensitiv eller strategisk informasjon, offentlig kunngjøring om registrering eller deltakelse i auksjonen og deling av budgivningsstrategier.
+Staten vil i tillegg til ev. tilbaketrekking av tildelte tilsagn om tillatelse eller tillatelse, kunne forfølge ev. økonomiske tap som følge av brudd på auksjonsregelverket gjennom sivilt søksmål.
