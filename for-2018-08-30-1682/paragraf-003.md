@@ -1,0 +1,7 @@
+# § 3. Retten til å fremstille seg
+Rett til å fremstille seg for dr.philos.-graden har enhver som har oppnådd eksamen av høyere grad (cand.theol./cand.philol./master) med tilstrekkelig fordypning i teologi, religionsvitenskap, kirke- og kulturhistorie eller religion og samfunn. Forskningsutvalget ved MF kan gi søkere, som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag, adgang til å fremstille seg til doktorgradsprøven. Avhandlingen skal ikke bedømmes før slik tillatelse er gitt. Forskningsutvalget vurderer søkerens forhåndskvalifikasjoner og fatter vedtak på grunnlag av søkerens dokumentasjon av tidligere studier og vitenskapelige arbeider, jf. § 6, første ledd. Forskningsutvalget kan stille krav om at søkere gjennomgår særskilte kurs og/eller består særskilt prøve, før det gis adgang til bedømmelse av doktorgradsarbeidet. Søknaden fremmes samtidig med oversendelse av avhandlingen.
+Den som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å fremstille seg for prøven dersom forskningsutvalget gir tillatelse til dette. Slik adgang innvilges fortrinnsvis dersom avhandlingen
+– behandler emner eller bygger på materiale som har tilknytning til Norge
+– har klar tilknytning til norsk forskning innen fagområdet
+– er utført under opphold ved norsk universitet, høyskole, eller i særlig kontakt med norske forskere
+– eller dersom søkeren har oppholdstillatelse i Norge.

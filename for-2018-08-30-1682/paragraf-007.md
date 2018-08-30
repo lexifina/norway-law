@@ -1,0 +1,2 @@
+# § 7. Oppnevning av bedømmelseskomité
+Til å bedømme avhandlingen, prøveforelesningene og forsvaret av avhandlingen, oppnevner rektor en sakkyndig komité på tre medlemmer og utpeker komiteens leder. To av komitémedlemmene skal være uten tilknytning til MF. Komiteen skal såfremt mulig være sammensatt slik at begge kjønn er representert. Medlemmene skal ha doktorgrad eller tilsvarende faglig kompetanse. Habilitetsreglene i forvaltningslovens § 6 flg. gjelder for komiteens medlemmer. Doktoranden skal underrettes om komiteens sammensetning.

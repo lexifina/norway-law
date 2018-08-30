@@ -1,0 +1,11 @@
+# § 4. Avhandlingen
+Avhandlingen skal være et selvstendig, vitenskapelig arbeid på et høyt faglig nivå som oppfyller internasjonale publiseringsstandarder innen fagområdet når det gjelder problemformuleringer, begrepsmessig presisering, metodisk og teoretisk grunnlag, dokumentasjon og framstillingsform.
+Avhandlingen kan være et frittstående arbeid eller en videreføring av tidligere arbeider.
+Flere mindre arbeider kan godkjennes som deler av doktoravhandlingen når de etter sitt innhold utgjør et hele i den grad doktorandens selvstendige innsats kan identifiseres og dokumenteres. I tillegg til de enkelte delene skal det i disse tilfellene utarbeides et sammendrag som gjør rede for helheten i avhandlingen.
+Arbeid som har vært godtatt som grunnlag for tidligere eksamener, kan ikke antas til bedømmelse med mindre arbeidet inngår som en mindre del av en avhandling som består av flere, sammenhengende arbeider.
+Til bedømmelse som enkeltarbeid kan ikke antas arbeid som har vært godtatt som hovedoppgave, mastergradsavhandling, magister- eller lisensiatavhandling med mindre arbeidet inngår som en mindre del av en avhandling som består av flere sammenhengende arbeider.
+Et arbeid som tidligere er godkjent for doktorgraden ved et utenlandsk universitet kan ikke antas til bedømmelse, selv om arbeidet innleveres i omarbeidet form.
+En avhandling kan leveres til bedømmelse ved kun én institusjon. Dersom avhandlingen også leveres til bedømmelse ved en annen institusjon, skal saksbehandlingen ved MF stanses.
+Som hovedregel er det ikke anledning til å avslutte et organisert doktorgradsprogram for å fremstille seg for dr.philos.-graden. Dersom en avhandling helt eller delvis er blitt til innenfor rammen av et organisert doktorgradsprogram, skal det begrunnes særskilt hvorfor avhandlingen skal forsvares for en dr.philos.-grad og ikke for ph.d.-graden.
+En doktorgradsavhandling innlevert ved MF som ikke er blitt godkjent ved en tidligere bedømmelse, kan bedømmes i omarbeidet skikkelse, enten som eneste arbeid eller som ett av flere sammenhengende arbeider, først seks måneder etter at rektor har fattet beslutning om å forkaste avhandlingen. Ny bedømmelse kan bare finne sted en gang.
+Avhandlingen skal være offentlig tilgjengelig.
