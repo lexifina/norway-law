@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Forskriften gjelder doktorgradsutdanning som fører frem til graden philosophiae doctor (ph.d.) ved MF vitenskapelig høyskole. Forskriften gir regler om opptak til, gjennomføring og fullføring av ph.d.-utdanningen, herunder fellesgrader og cotutelle. For allmenne definisjoner, se forskrift 2. november 2005 nr. 1367 om opptak, studier og eksamen ved MF vitenskapelig høyskole § 3 og § 19 – § 21.

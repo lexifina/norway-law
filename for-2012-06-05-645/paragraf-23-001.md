@@ -1,0 +1,2 @@
+# § 23-1. Klage over avslag på søknad om opptak, vedtak om opphør av studierett, klage over avslag på søknad om godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak, vedtak om opphør av studierett og klage på søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i forvaltningsloven § 28 ff. Grunngitt klage sendes til MF vitenskapelig høyskole. Blir avslaget opprettholdt, sendes klagen til institusjonens klagenemnd for endelig avgjørelse.
