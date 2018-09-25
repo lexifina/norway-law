@@ -1,0 +1,3 @@
+# § 3. Søknads- og rapporteringsfrist slakt
+Slakterier skal senest den 15. i hver måned rapportere slaktemengden for måneden før i tråd med retningslinjene fra Landbruksdirektoratet. Dette er også fristen for å søke om frakttilskudd for transport av slaktedyr.
+Slakterier kan for et tidsrom av minst ett års varighet og senest en måned før den ordinære rapporteringsfristen, sende en begrunnet søknad til Landbruksdirektoratet om forhåndsgodkjenning av avvikende rapporteringsperiode. Søknads- og rapporteringsfristene omtalt i første ledd blir i så fall den 15. etter utløpet av hver enkelt rapporteringsperiode.
