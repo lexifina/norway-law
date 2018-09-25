@@ -1,0 +1,3 @@
+# § 4. Søknads- og rapporteringsfrister melk
+Meierier som formidler pristilskudd, skal rapportere antall liter melk som er levert meieriet hver måned. Fristen for elektronisk rapportering er den 10. i påfølgende måned. Meieriet skal også sende skriftlig oppgave over månedsleveransene til Landbruksdirektoratet senest den 12. i den påfølgende måneden.
+Foredlingsforetak som mottar melk direkte fra produsent, skal rapportere sitt salg av lokalt foredlete melkeprodukter til Landbruksdirektoratet senest 1. februar året etter at salget fant sted. Dette er også søknadsfristen for grunn- og distriktstilskudd som produsenten kan få for melk levert til lokal foredling.
