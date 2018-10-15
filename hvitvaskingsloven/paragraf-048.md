@@ -1,0 +1,4 @@
+# § 48. Forbud mot å ha ledelsesfunksjon
+(1) Dersom en rapporteringspliktig fysisk person har overtrådt en bestemmelse gitt i eller i medhold av loven her og overtredelsen medfører at vedkommende anses uskikket til å ha ledelsesfunksjon i rapporteringspliktig foretak, kan tilsynsmyndigheten forby vedkommende å ha slike ledelsesfunksjoner.
+(2) Dersom et rapporteringspliktig foretak har overtrådt en bestemmelse gitt i eller i medhold av loven her og overtredelsen medfører at en person med ledelsesfunksjon eller en annen ansatt i foretaket som kan holdes ansvarlig for overtredelsen, anses uegnet til å ha ledelsesfunksjon i rapporteringspliktig foretak, kan tilsynsmyndigheten forby vedkommende å ha slike ledelsesfunksjoner. Det samme gjelder andre som utfører oppdrag på vegne av foretaket.
+(3) Opplysninger om ilagte forbud kan utveksles mellom tilsynsmyndighetene.

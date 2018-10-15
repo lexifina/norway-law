@@ -1,0 +1,3 @@
+# § 20. Forbud mot korrespondentforbindelse med tomt bankselskap
+(1) Rapporteringspliktige som nevnt i § 4 første ledd bokstav a til c, e, g til l, n og o, skal ikke inngå eller opprettholde korrespondentforbindelse med tomt bankselskap. Rapporteringspliktige som nevnt skal treffe egnede tiltak for å sikre at det ikke inngås eller opprettholdes korrespondentforbindelse med institusjon som er kjent for å tillate at konti brukes av tomt bankselskap.
+(2) Med tomt bankselskap menes foretak som driver tilsvarende virksomhet som nevnt i § 4 første ledd bokstav a til c, e, g til l, n og o, som er opprettet i stat der foretaket ikke er fysisk til stede med en reell ledelse og administrasjon, og som ikke er tilknyttet et regulert finanskonsern.

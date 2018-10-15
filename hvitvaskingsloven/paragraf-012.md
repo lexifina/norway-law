@@ -1,0 +1,11 @@
+# § 12. Kundetiltak når kunden er fysisk person
+(1) Når kunden er en fysisk person, skal følgende opplysninger innhentes om kunden:
+a) navn
+b) fødselsnummer, D-nummer eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode. For personer som ikke har norsk fødselsnummer eller D-nummer, skal det innhentes fødselsdato, fødested, kjønn og statsborgerskap, herunder om personen har flere statsborgerskap
+c) adresse
+De samme opplysningene skal innhentes om den som handler på vegne av kunden, i tillegg til opplysninger om at vedkommende kan handle på vegne av kunden. De samme opplysningene skal innhentes om den som er gitt disposisjonsrett over en konto eller et depot.
+(2) Opplysninger om kundens identitet bekreftes ved personlig fremmøte ved gyldig legitimasjon. Dersom bekreftelse av identiteten skal skje uten personlig fremmøte, skal det fremlegges ytterligere dokumentasjon eller gjennomføres ytterligere tiltak. Opplysninger om identiteten til personer som handler på vegne av kunden eller er gitt disposisjonsrett over en konto eller et depot, bekreftes ved gyldig legitimasjon. Retten til å handle på vegne av kunden bekreftes ved skriftlig dokumentasjon.
+(3) Det skal avgjøres om det finnes en reell rettighetshaver i tillegg til kunden. Dersom det er en reell rettighetshaver, skal det innhentes opplysninger som er tilstrekkelige til å vite hvem vedkommende er. Opplysninger om reell rettighetshavers identitet skal bekreftes ved egnede tiltak.
+(4) Rapporteringspliktige skal ha systemer for å avgjøre om kunden, personer som kan handle på vegne av kunden eller er gitt disposisjonsrett over en konto eller et depot, eller reell rettighetshaver, er politisk eksponert person eller nært familiemedlem eller kjent medarbeider til en politisk eksponert person. Regler om kundetiltak overfor politisk eksponerte personer er gitt i § 18.
+(5) Rapporteringspliktige skal innhente og vurdere nødvendige opplysninger om kundeforholdets formål og tilsiktede art.
+(6) Departementet kan i forskrift gi nærmere regler om bekreftelse av identiteten til fysiske personer, herunder hva som utgjør gyldig legitimasjon, og krav til ytterligere dokumentasjon eller tiltak ved bekreftelse av identitet uten personlig oppmøte.
