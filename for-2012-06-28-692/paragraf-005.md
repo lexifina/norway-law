@@ -1,0 +1,3 @@
+# § 5. Krav om oversiktsdokument hvert fjerde år
+Kommuner og fylkeskommuner skal utarbeide et samlet oversiktsdokument hvert fjerde år som skal ligge til grunn for det langsiktige folkehelsearbeidet. Oversiktsdokumentet skal foreligge ved oppstart av arbeidet med planstrategi etter plan- og bygningsloven § 7-1 og § 10-1. Oversiktsdokumentet skal ikke inneholde opplysninger som kan knyttes til enkeltpersoner, jf. personopplysningsloven § 2 nr. 1.
+Kommunen skal samarbeide og utveksle informasjon med fylkeskommunen i arbeidet med oversiktsdokumentet. Fylkeskommunen skal understøtte kommunene, samarbeide og utveksle informasjon med kommunene i arbeidet med sitt oversiktsdokument.
