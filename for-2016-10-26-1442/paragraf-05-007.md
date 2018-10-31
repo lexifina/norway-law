@@ -1,0 +1,2 @@
+# § 5-7. Tvungen avslutning ved uredelighet
+Dersom en ph.d.-kandidat som gjør seg skyldig i vitenskapelig uredelighet, jf. universitets- og høyskolelovens § 4-13 (1), jf. forskningsetikklovens § 5 2. ledd, kan AHO vedta tvungen avslutning. Vedtak om tvungen avslutning på grunn av uredelighet fattes av det organet som styret bestemmer. Klage over slikt vedtak behandles av departementet eller særskilt klagenemnd oppnevnt av departementet.
