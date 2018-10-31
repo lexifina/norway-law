@@ -1,0 +1,3 @@
+# § 17. Ny innlevering
+En ph.d.-avhandling som ikke er funnet verdig til forsvar, kan bedømmes i omarbeidet utgave først seks (6) måneder etter at AHO har fattet sitt vedtak. Ny bedømmelse kan bare finne sted én gang. Ph.d.-kandidaten skal ved ny innlevering opplyse om at arbeidet tidligere har vært bedømt ved AHO eller ved annen institusjon og ikke blitt funnet verdig til å forsvares.
+For bedømmelse av avhandlingen ved 2. gangs innlevering oppnevnes en ny bedømmelseskomité på tre (3) medlemmer etter reglene i § 14. Minst ett av medlemmene fra den første komiteen bør oppnevnes som medlem i den nye komiteen.
