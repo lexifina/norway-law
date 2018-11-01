@@ -1,0 +1,2 @@
+# § 2. Utlendinger som er gitt oppholdstillatelse med annen hjemmel enn utlendingsloven § 74 eller § 28 før 1. november 2018
+En utlending som før 1. november 2018 er gitt oppholdstillatelse med en annen hjemmel enn utlendingsloven § 74 eller § 28, kan ikke utvises etter de nye lovreglene, med mindre handlingene har funnet sted etter lovendringenes ikrafttredelse eller forholdet gir grunnlag for tilbakekall av den gitte tillatelsen.
