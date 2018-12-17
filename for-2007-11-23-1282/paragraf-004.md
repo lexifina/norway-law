@@ -1,0 +1,3 @@
+# § 4
+(1) For boligbyggelag, jf. lov 6. juni 2003 nr. 38 om bustadbyggjelag, som driver eiendomsmegling trer eiendomsmeglingsloven § 2-1 i kraft ett år etter lovens ikrafttredelse. Boligbyggelag uten tillatelse etter eiendomsmeglingsloven § 2-1 kan i denne periode kun medvirke til omsetning av andeler i tilknyttede borettslag der boligbyggelaget er forretningsfører.
+(2) For boligbyggelag som driver eiendomsmegling trer eiendomsmeglingsloven § 2-9 annet ledd i kraft tre år etter lovens ikrafttredelse. Dersom boligbyggelaget ikke har en fagansvarlig, jf. eiendomsmeglingsloven § 2-9 annet ledd, kan tillatelse etter eiendomsmeglingsloven § 2-1 begrenses til å gjelde medvirkning til omsetning av andeler i tilknyttede borettslag der boligbyggelaget er forretningsfører.
