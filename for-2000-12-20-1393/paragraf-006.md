@@ -1,0 +1,3 @@
+# § 6. Korrigering av kommunefordelinga av eigedomsskattegrunnlaget for kraftanlegg for investeringar, jf. eigedomsskattelova § 8B-2 andre leden, femte leden og § 8B-3 andre leden
+(1) Kostpris for investering ført i skatterekneskapen, jf. eigedomsskattelova § 8B-2 andre leden, femte leden og § 8B-3 andre leden, regulerast til same kroneverdi som fordelingsnøkkelen etter dei nemnte paragrafane er bygget på. Ved reguleringa nyttast konsumprisindeksen til Statistisk sentralbyrå.
+(2) Skattytar skal sende naudsynte opplysningar om investeringar som nemnt i eigedomsskattelova § 8B-2 andre leden, femte leden og § 8B-3 andre leden til skattemyndighetene. Skattedirektoratet fastsett skjema og frist for slik innrapportering.

@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Forskriften gjeld kommunefordeling av grunnlaget for eigedomsskatt for kraftanlegg som nemnt i eigedomsskattelova § 8B-2 og § 8B-3 tredje leden og korrigering av kommunefordelinga av eigedomsskattegrunnlaget for kraftanlegg for investeringar, jf. eigedomsskattelova § 8B-2 andre leden, femte leden og § 8B-3 andre leden. Reglane gjeld berre fordeling av eigedomsskattegrunnlag mellom norske kommunar.
