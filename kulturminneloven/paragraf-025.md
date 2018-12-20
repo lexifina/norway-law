@@ -1,0 +1,3 @@
+# § 25. Meldeplikt for offentlige organer.
+De statlige, fylkeskommunale og kommunale organer som kommer i berøring med tiltak som omfattes av loven her, har plikt til å sende melding til departementet eller til vedkommende myndighet etter denne loven.
+Kommunen plikter å sende søknad om riving eller vesentlig endring av ikke fredet byggverk eller anlegg oppført før 1850 til vedkommende myndighet senest fire uker før søknaden avgjøres. Vedtak om riving eller vesentlig endring av slike byggverk og anlegg skal umiddelbart sendes vedkommende myndighet, dersom denne myndigheten har uttalt seg mot riving eller vesentlig endring.

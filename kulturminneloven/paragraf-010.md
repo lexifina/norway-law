@@ -1,0 +1,3 @@
+# § 10. Utgifter til særskilt gransking av automatisk fredete kulturminner.
+Utgifter til særskilt gransking av automatisk fredete kulturminner eller særskilte tiltak for å verne dem på grunn av tiltak som nevnt i §§ 8 og 9, bæres av tiltakshaveren. Når særlige grunner foreligger, kan departementet fastsette at utgiftene helt eller delvis skal dekkes av staten. Ved mindre private tiltak skal staten etter departementets bestemmelse dekke utgiftene, helt eller delvis, dersom disse blir urimelig tyngende for tiltakshaveren.
+Departementet kan fastsette nærmere regler for gjennomføringen av bestemmelsene i første ledd.

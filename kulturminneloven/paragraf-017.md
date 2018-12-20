@@ -1,0 +1,3 @@
+# § 17. Vedlikehold av fredet byggverk m.v.
+Får vedkommende myndighet rede på at et fredet byggverk er i ferd med å forfalle av mangel på vedlikehold, kan byggverket undersøkes. Er det fare for at det forfaller, kan – med samtykke av departementet – eieren eller brukeren innen en rimelig frist bli pålagt å gjennomføre tiltak for å motvirke dette. Følges ikke pålegget får § 16 tilsvarende anvendelse, om ikke eier eller bruker påviser at han ikke makter istandsettingen av økonomiske grunner.
+Departementet kan gi eier eller bruker tilskudd til vedlikehold, eller til endringer godkjent av vedkommende myndighet etter loven her.
