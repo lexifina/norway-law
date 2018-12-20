@@ -1,0 +1,3 @@
+# § 6
+(1) En avgjørelse om foreldreansvar eller samværsrett som er truffet i en stat som er tilsluttet Europarådkonvensjonen, gjelder her i landet. Kan avgjørelsen danne grunnlag for fullbyrdelse i den stat hvor den er truffet (opphavsstaten), kan tvangsfullbyrding også gjennomføres her i landet.
+(2) Foreligger det ikke noen avgjørelse som nevnt i første ledd som kan danne grunnlag for fullbyrdelse i opphavsstaten på den tid barnet ble bortført over en statsgrense, skal enhver seinere avgjørelse som er truffet i en konvensjonsstat og som erklærer bortføringen ulovlig, ha samme virkning som en avgjørelse etter første ledd.

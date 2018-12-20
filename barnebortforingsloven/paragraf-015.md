@@ -1,0 +1,3 @@
+# § 15
+(1) Begjæringen om tilbakelevering av barn etter § 11 skal inneholde opplysninger om søkerne, barnet og den som påstås å ha bortført eller tilbakeholdt barnet, samt barnets fødselsdato. Den skal inneholde en begrunnelse for kravet om tilbakelevering og opplysninger om hvor barnet må antas å oppholde seg her i landet.
+(2) Dersom retten krever det, skal begjæring om tilbakelevering av barn etter § 11 være ledsaget av en avgjørelse eller erklæring fra kompetent myndighet i den stat der barnet hadde sitt bosted umiddelbart før bortføringen eller tilbakeholdelsen, som fastslår at bortføringen eller tilbakeholdelsen er ulovlig. Det gjelder bare dersom slik avgjørelse eller erklæring kan skaffes til veie i den staten.
