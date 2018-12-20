@@ -1,0 +1,2 @@
+# § 23 c. Ettersøking m.v.
+Vedkommende myndighet bistår den anmodende stat med å ettersøke en kulturgjenstand og å hindre at denne unndras fra fremgangsmåten for tilbakelevering. Politiet skal etter anmodning bistå vedkommende myndighet i ettersøkingen av gjenstanden. Tvangsmidler ifølge straffeprosessloven kap. 15 og 16 kan anvendes selv om ingen kan straffes for innførsel, besittelse eller annen befatning med kulturgjenstanden.

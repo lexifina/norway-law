@@ -1,0 +1,5 @@
+# § 13. Vern, finnerlønn m.v.
+Ingen må skade løse kulturminner. Uten hensyn til hvem som er eier kan vedkommende myndighet grave fram, flytte, granske og ta opp ting som nevnt i § 12 a-c, og sette i verk andre tiltak for å verne eller ta hånd om dem.
+Finner av løse kulturminner plikter snarest mulig å melde funnet til vedkommende politimyndighet på stedet eller til vedkommende myndighet etter loven her.
+Departementet kan skjønnsmessig fastsette en finnerlønn som deles likt mellom finner og grunneier. Er funnet av sølv eller gull, skal finnerlønnen minst settes til metallverdien etter vekt, med et tillegg som ikke må være under 10 pst. av metallverdien. Når særlige grunner foreligger, kan departementet fastsette en lavere finnerlønn eller at grunneierens andel helt eller delvis skal bortfalle. Departementets fastsettelse av finnerlønn kan ikke påklages. Departementets beslutning om å gå under minsteerstatning for gjenstander av sølv eller gull kan prøves av domstolene.
+Når staten er eier kan vedkommende myndighet etter loven her – etter at funnet er undersøkt – overlate det helt eller delvis til finneren eller grunneieren. Avgjørelsen kan ikke påklages.

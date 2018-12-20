@@ -1,0 +1,11 @@
+# § 12. Eiendomsretten til løse kulturminner.
+Når det synes klart at det ikke lenger er rimelig mulighet for å finne ut om det er noen eier eller hvem som er eier, er følgende løse kulturminner som kommer for dagen tilfeldig, ved funn, ved utgravninger eller på annen måte statens eiendom:
+a) Ting fra oldtid og middelalder (inntil år 1537) som våpen, redskap, kultgjenstander samt steiner, trestykker eller gjenstander av annet materiale med innskrifter eller bilder, bygningsrester uten samhørighet med bygninger eller rester av disse, innbo, kirkeinventar, smykker, arkivsaker, skjeletter og skjelettrester o.l.
+b) Mynter fra før år 1650.
+c) Samiske kulturminner av den art som er nevnt under a og som er fra år 1917 eller eldre.
+Departementet fastsetter i tvilstilfelle med bindende virkning hva som er løse kulturminner i medhold av første ledd a-c. Når særlige grunner foreligger, kan det fastsettes at slike gjenstander skal anses som kulturminner uten hensyn til alder.
+Departementet kan ekspropriere løse kulturminner som nevnt i første ledd bokstav a-c, dersom gjenstanden bør være i offentlig eie ut fra nasjonale kulturminnehensyn og inngrepet utvilsomt er mer til gagn enn skade. Når særlige grunner foreligger omfattes også løse kulturminner uten hensyn til alder.
+Departementet skal påse at eiere, rettighetshavere og andre som har særlig interesse i saken, gis anledning til å uttale seg før vedtak fattes. Det skal settes en rimelig frist for uttalelse som ikke må settes kortere enn 6 uker. Når et forslag til ekspropriasjon er utarbeidet, skal det kunngjøres i Norsk Lysingsblad og minst to aviser som er alminnelig lest på stedet, at forslaget om ekspropriasjon er lagt ut til offentlig ettersyn.
+Eiere av og rettighetshavere til løse kulturminner som blir ekspropriert, har krav på erstatning av det offentlige for økonomisk tap som følge av vedtaket. Dersom partene ikke blir enige om hvilken erstatning som skal gis, fastsettes erstatningen ved skjønn styrt av tingretten.
+For øvrig kommer lov av 23. oktober 1959 nr. 3 om oreigning av fast eigedom til anvendelse så langt det passer.
+Selges slike gjenstander på auksjon, har staten, eller dernest vedkommende fylkeskommune eller kommune hvor gjenstanden har vært oppbevart eller har sin opprinnelse, rett til å tre inn i høyeste bud innen tre uker.

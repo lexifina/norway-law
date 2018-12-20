@@ -1,0 +1,5 @@
+# § 9. Undersøkelsesplikt m.v.
+Ved planlegging av offentlige og større private tiltak plikter den ansvarlige leder eller det ansvarlige forvaltningsorgan å undersøke om tiltaket vil virke inn på automatisk fredete kulturminner på en måte som nevnt i § 3 første ledd, jfr. § 8 første ledd.
+Undersøkelsen kan foregå ved at planen for tiltaket sendes vedkommende myndighet etter loven her, som skal avgi uttalelse innen 3 måneder. Departementet kan gi pålegg om dette. Finner vedkommende myndighet at tiltaket berører automatisk fredete kulturminner på en måte som nevnt i § 3 første ledd, har den rett til å kreve ytterligere frist på inntil 1 måned for å fastslå på hvilken måte tiltaket eventuelt kan fremmes eller foreta de nødvendige skritt for å undersøke, eventuelt frigjøre kulturminnet. Fristen kan forlenges av departementet. Så lenge fristene løper kan tiltaket ikke iverksettes.
+Bestemmelsene i første og andre ledd får tilsvarende anvendelse ved utarbeiding av reguleringsplan.
+Departementet kan fastsette nærmere regler for gjennomføring av bestemmelsene i første til tredje ledd.
