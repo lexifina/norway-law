@@ -1,0 +1,3 @@
+# § 1
+(1) Bestemmelsene i §§ 2 til 10, § 13, § 14, §§ 16 til 18 og §§ 20 til 22 gjelder i forhold til de stater som er tilsluttet Europarådkonvensjonen 20 mai 1980 om anerkjennelse og fullbyrding av avgjørelser om foreldreansvar og om gjenopprettelse av foreldreansvar. I forhold til Danmark, Finland, Island og Sverige gjelder bestemmelsene ikke så langt det gjelder særskilte bestemmelser.
+(2) Bestemmelsene i §§ 2 til 5, §§ 11 til 13 og §§ 15 til 19 a og §§ 21 til 22 gjelder i forhold til de stater som er tilsluttet Haag-konvensjonen 25 oktober 1980 om de sivile sider ved internasjonal barnebortføring.

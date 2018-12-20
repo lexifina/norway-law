@@ -1,0 +1,6 @@
+# § 17
+(1) Før retten avgjør et krav om tvangsfullbyrding av en avgjørelse som nevnt i § 6 eller begjæring om tilbakelevering av barn etter § 11, skal et barn som er fylt 7 år, og yngre barn som er i stand til å danne seg egne synspunkter, informeres og gis anledning til å uttale seg, når dette ikke er umulig. Barnets mening skal tillegges vekt i samsvar med barnets alder og modenhet.
+(2) Dommeren kan gjennomføre samtaler med barnet. Retten kan oppnevne en sakkyndig til å hjelpe seg, eller la en sakkyndig ha samtale med barnet alene. Der barnet har formidlet sin mening, bør dommeren eller den dommeren peker ut orientere barnet om utfallet av saken og hvordan meningen til barnet har blitt tatt hensyn til.
+(3) Retten kan oppnevne en sakkyndig til å uttale seg om ett eller flere av de spørsmålene saken reiser.
+(4) En sakkyndig oppnevnt etter annet og tredje ledd har taushetsplikt om det som kommer fram om personlige forhold i forbindelse med oppdraget. Den sakkyndige kan uten hinder av taushetsplikt gi all informasjon som er framkommet til retten.
+(5) Kostnadene ved bruk av en sakkyndig dekkes av staten. En sakkyndig oppnevnt etter annet og tredje ledd skal godtgjøres etter lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v.

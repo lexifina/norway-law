@@ -1,0 +1,3 @@
+# § 19
+(1) Dersom det under behandlingen av en sak om foreldreansvar eller samværsrett etter barneloven 8 april 1981 nr. 7 blir brakt på det rene at barnet er begjært tilbakelevert etter § 11 i loven her, skal retten ikke treffe avgjørelse i saken før begjæringen er endelig avgjort.
+(2) Får retten i sak som nevnt i (1) underretning av sentralmyndigheten om at et barn ulovlig er bortført hit til landet eller ulovlig tilbakeholdt her, uten at det er framsatt begjæring om tilbakelevering av barnet etter § 11, skal retten ikke treffe avgjørelse i saken før det er gått rimelig tid uten at begjæring er blitt framsatt.

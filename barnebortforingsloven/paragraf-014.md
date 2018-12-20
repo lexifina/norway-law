@@ -1,0 +1,2 @@
+# § 14
+Begjæring om fullbyrding av en avgjørelse som nevnt i § 6 skal være ledsaget av en kopi av avgjørelsen, og dersom det framgår at avgjørelsen er truffet under saksøktes fravær i saken, et dokument som viser om saksøkte har fått forkynt eller på annen tilbørlig måte er blitt gjort kjent med stevningen eller tilsvarende dokument. Begjæringen skal også ledsages av et dokument som viser at avgjørelsen kan tvangsfullbyrdes i opphavsstaten, og gi opplysning om hvor barnet må antas å befinne seg her i landet og forslag til hvordan foreldreansvaret bør gjenopprettes.
