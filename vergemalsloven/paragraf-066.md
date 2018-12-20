@@ -1,2 +1,3 @@
-# § 66. Rett til å behandle personopplysninger
+# § 66. Personopplysninger
 Vergemålsmyndigheten har rett til å behandle sensitive og ikke-sensitive personopplysninger som er nødvendige som ledd i saksbehandlingen etter loven her. Opplysningene kan brukes til administrasjon og saksbehandling og for å utarbeide statistikk, og de kan som ledd i dette utveksles mellom fylkesmennene og mellom fylkesmennene og den sentrale vergemålsmyndigheten. I den utstrekning det er nødvendig, kan relevante opplysninger om den som er satt under vergemål, utleveres til vergen. Utlevering kan ellers skje der det følger av lov.
+Vergemålsmyndigheten kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret de opplysninger som er nødvendige for å utføre oppgaver etter denne loven. Vergemålsmyndigheten skal også ha tilgang til opplysninger i registeret til utredning og produksjon av statistikk.
