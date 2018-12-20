@@ -1,0 +1,3 @@
+# § 12 a. Adgang for offentlige myndigheter til å utlevere personopplysninger i arbeidet mot arbeidslivskriminalitet
+Offentlige myndigheter kan utlevere personopplysninger til hverandre når det er nødvendig for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet. Første punktum gjelder ikke personopplysninger som nevnt i personvernforordningen artikkel 9. Departementet kan i forskrift gi nærmere regler om hvilke offentlige myndigheter som kan utveksle personopplysninger etter bestemmelsen her.
+Første ledd gjelder ikke der noe annet er bestemt i eller i medhold av lov og gir ikke adgang til utlevering av opplysninger som er omfattet av lovbestemt taushetsplikt.
