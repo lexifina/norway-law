@@ -1,0 +1,2 @@
+# § 2
+Dagen før 1 og dagen før 17 mai skal i forhold til gjeldende lovgivning reknes som vanlig virkedag, ikke som dag før søndag, om den ikke faller på en lørdag, på dagen før Kristi Himmelfartsdag eller på en søndag eller annen helgedag. Arbeid som etter gjeldende lovgivning ikke kan holdes i gang på søndager, skal slutte seinest kl. 22 dagene før 1 og 17 mai. Dette gjelder ikke arbeid ved faste utsalgssteder.
