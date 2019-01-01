@@ -1,0 +1,8 @@
+# § 7-1. Skjermingsverdige objekter og infrastruktur
+Objekter og infrastruktur er skjermingsverdige dersom det kan skade grunnleggende nasjonale funksjoner om de får redusert funksjonalitet eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse.
+Et departement skal innenfor sitt ansvarsområde utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur. Alle utpekte og klassifiserte objekter og infrastruktur skal meldes inn til sikkerhetsmyndigheten med angivelse av klassifiseringsgrad.
+Sikkerhetsmyndigheten skal utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur som ikke omfattes av noe departements ansvarsområde.
+Virksomheter som råder over objekter eller infrastruktur som utpekes etter andre eller tredje ledd, skal varsles om utpekingen.
+Vedtak om utpeking og klassifisering som berører selvstendige rettssubjekter, kan påklages. Departementet er klageinstans for vedtak fattet av sikkerhetsmyndigheten.
+Sikkerhetsmyndigheten kan på eget initiativ fremme forslag overfor et departement om å fatte vedtak etter andre ledd. Dersom departementet ikke fatter vedtak i samsvar med sikkerhetsmyndighetens forslag, kan sikkerhetsmyndigheten bringe saken inn for endelig avgjørelse til det departementet som har overordnet ansvar for forebyggende sikkerhetsarbeid i sivil sektor eller det departementet som har overordnet ansvar for forebyggende sikkerhetsarbeid i forsvarssektoren.
+Kongen kan gi forskrift om utpeking av objekter og infrastruktur og om melding til sikkerhetsmyndigheten.
