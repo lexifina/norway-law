@@ -9,7 +9,7 @@ f) eventuelle prøvetidsbestemmelser, jf. § 15-3 sjuende ledd og § 15-6,
 g) arbeidstakerens rett til ferie og feriepenger og reglene for fastsettelse av ferietidspunktet,
 h) arbeidstakerens og arbeidsgiverens oppsigelsesfrister,
 i) den gjeldende eller avtalte lønn ved arbeidsforholdets begynnelse, eventuelle tillegg og andre godtgjøringer som ikke inngår i lønnen, for eksempel pensjonsinnbetalinger og kost- eller nattgodtgjørelse, utbetalingsmåte og tidspunkt for lønnsutbetaling,
-j) lengde og plassering av den avtalte daglige og ukentlige arbeidstid,
+j) lengde og plassering av den daglige og ukentlige arbeidstid. Dersom arbeidet skal utføres periodevis, skal arbeidsavtalen fastsette eller gi grunnlag for å beregne når arbeidet skal utføres.
 k) lengde av pauser,
 l) avtale om særlig arbeidstidsordning, jf. § 10-2 andre, tredje og fjerde ledd,
 m) opplysninger om eventuelle tariffavtaler som regulerer arbeidsforholdet. Dersom avtale er inngått av parter utenfor virksomheten skal arbeidsavtalen inneholde opplysninger om hvem tariffpartene er.
