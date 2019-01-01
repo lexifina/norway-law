@@ -1,0 +1,4 @@
+# § 12. Kryptoautorisasjon
+For tilgang til kryptomateriell uten manipuleringssikring godkjent av NSM eller informasjon merket KRYPTO kreves kryptoautorisasjon. Kravet til kryptoautorisasjon gjelder i tillegg til krav om sikkerhetsklarering og autorisasjon etter de alminnelige bestemmelser for personellsikkerhet.
+Kryptoautorisasjon kan gis av virksomhetens leder når sikkerhetsklarering og kryptokvalifisering foreligger. Ved utenlandstjeneste kan bare personell med diplomatisk status eller militært personell kryptoautoriseres, med mindre NSM samtykker i annet i det enkelte tilfelle. Blankett godkjent av NSM skal benyttes ved kryptoautoriseringen. Virksomheten skal føre oversikt over eget kryptoautorisert personell.
+Virksomhetens leder behøver ikke kryptokvalifisering for å utøve kontroll i samsvar med § 7 nr. 2. Leder som ikke er kryptokvalifisert skal ikke ha tilgang til kryptonøkler i klartekst.
