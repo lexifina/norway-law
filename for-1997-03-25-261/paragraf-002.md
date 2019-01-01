@@ -1,0 +1,4 @@
+# § 2. Endring av premiegrunnlaget
+Arbeids- og velferdsetaten skal hvert år etter at skatteoppgjøret foreligger foreta en ny fastsetting av premiegrunnlaget. Endring av premiegrunnlaget skjer med virkning fra 1. januar.
+Dersom det i løpet av et inntektsår godtgjøres at den selvstendig næringsdrivendes arbeidssituasjon eller virksomhet er varig endret, slik at den pensjonsgivende årsinntekten fastsatt etter bestemmelsene i folketrygdloven § 8-35 tredje ledd avviker fra det fastsatte premiegrunnlag, jf § 1, skal grunnlaget endres i samsvar med dette. Premien reguleres fra og med inneværende år.
+Når grunnbeløpet endres jf. folketrygdloven § 1-4, skal premiegrunnlaget endres fra og med neste forsikringshalvår. Dersom en selvstendig næringsdrivende blir sykmeldt mellom det tidspunktet grunnbeløpet blir endret og utløpet av forsikringshalvåret, skal forsikringspremien endres fra det tidspunktet grunnbeløpet blir endret.
