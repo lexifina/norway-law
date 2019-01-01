@@ -1,0 +1,2 @@
+# § 9. Møteoffentlighet
+Muntlige høringer etter § 6 er åpne. Dersom Konkurranseklagenemnda skal behandle opplysninger underlagt lovbestemt taushetsplikt, skal møtet lukkes, helt eller delvis. Konkurranseklagenemnda kan videre beslutte at en høring skal lukkes, der hensynet til konfidensialitet tilsier det, jf. konkurranseloven § 26 første ledd. Klager og Konkurransetilsynet skal gis anledning til å uttale seg, hvis det er tvil om vilkårene for å lukke møtet er oppfylt.

@@ -1,0 +1,3 @@
+# § 4. Frist for Konkurransetilsynets oversendelse av klage til Konkurranseklagenemnda
+Konkurransetilsynet skal informere Konkurranseklagenemnda når det mottar klage på et vedtak og straks sende Konkurranseklagenemnda kopi av klagen jf. konkurranseloven § 39.
+Konkurransetilsynet skal oversende klagen til Konkurranseklagenemnda senest 15 virkedager etter at den er mottatt, med mindre Konkurransetilsynet omgjør vedtaket eller avviser klagen. Dersom klagens innhold gjør det nødvendig at Konkurransetilsynet foretar ytterligere undersøkelser, kan Konkurransetilsynet anmode Konkurranseklagenemnda om utsettelse av oversendelsesfristen eller gjøre Konkurranseklagenemnda oppmerksom på at Konkurransetilsynet vil oversende ytterligere dokumentasjon når denne foreligger.

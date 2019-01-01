@@ -1,0 +1,3 @@
+# § 7. Felles klagebehandling
+Dersom Konkurranseklagenemnda mottar flere klager som bygger på samme faktiske grunnlag, kan Konkurranseklagenemnda beslutte helt eller delvis felles klagebehandling. Ved felles klagebehandling kan samme nemnd behandle samtlige klager, og det kan gjennomføres felles muntlige høringer og felles informasjonsinnhenting.
+Dersom hensynet til taushetsbelagt informasjon tilsier det, bør Konkurranseklagenemnda i samarbeid med klager og Konkurransetilsynet organisere høringer og annen saksbehandling slik at taushetsbelagt informasjon i minst mulig grad berøres. Saksordfører kan bestemme at det skal holdes lukket høring jf. § 9.
