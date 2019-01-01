@@ -1,4 +1,6 @@
-# § 19-1. Medlemskap mv.
-(1) Banker med hovedsete her i riket skal være medlem av Bankenes sikringsfond.
-(2) Departementet kan i forskrift bestemme at annet finansforetak med hovedsete her i riket skal være medlem av Bankenes sikringsfond, og kan fastsette nærmere regler for slike medlemmer.
-(3) Bestemmelsene i dette kapittel gjelder ikke bank som er opprettet av staten for å yte lån eller stille garanti for kreditt mv. til særlige formål, og som bare låner ut midler bevilget av Stortinget, innlånt fra statskassen, eller innlånt på annen måte godkjent av Kongen.
+# § 19-1. Innskuddsgarantiordningen
+(1) Banker og andre kredittinstitusjoner kan ikke motta innskudd her i riket uten å være medlem av innskuddsgarantiordningen for banker etter reglene i kapitlet her eller av en annen tilsvarende garantiordning.
+(2) Innskuddsgarantiordningen skal bidra til finansiell stabilitet ved:
+a) å sikre at innskudd som er mottatt av medlemsforetak, blir utbetalt til innskyterne dersom foretaket selv er ute av stand til å tilbakebetale innskuddet, og
+b) å sette i verk tiltak etter reglene i § 19-11 overfor foretak som nevnt i § 19-2 første ledd.
+(3) Bankenes sikringsfond skal forvalte innskuddsgarantiordningen. Garantiordningen skal ha et innskuddsgarantifond og andre finansielle midler som oppfyller kravene i § 19-9.

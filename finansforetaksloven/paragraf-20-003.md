@@ -1,4 +1,4 @@
-# § 20-3. Medlemskap
-(1) Forsikringsforetak som er gitt tillatelse til å drive direkte skadeforsikring her i riket, skal være medlem av garantiordningen.
-(2) Når et forsikringsforetak med hovedsete i annen EØS-stat driver direkte skadeforsikring gjennom filial etablert her i riket, skal filialen være medlem av garantiordningen.
-(3) Departementet kan i forskrift fastsette nærmere regler om medlemskap i ordningen, herunder fastsette unntak fra plikten til å være medlem.
+# § 20-3. Krisehåndteringsmyndighet
+(1) Finanstilsynets oppgaver og kompetanse som krisehåndteringsmyndighet etter § 20-6, § 20-9, § 20-10, § 20-11 fjerde ledd, § 20-14 og §§ 20-15 til 20-57 skal utøves operasjonelt atskilt fra Finanstilsynets tilsyn med foretak som nevnt i § 20-1 første ledd.
+(2) Finanstilsynet skal underrette departementet om vedtak og annen utøvelse av kompetanse som krisehåndteringsmyndighet etter første ledd. Vedtak med betydning for finansiell stabilitet, herunder vedtak om krisetiltaksplaner etter § 20-6 for større foretak og vedtak om nedskriving og konvertering av ansvarlig kapital etter § 20-14, skal godkjennes av departementet før de settes i verk.
+(3) Bankenes sikringsfond skal bistå Finanstilsynet i utøvelsen av oppgaver og kompetanse som krisehåndteringsmyndighet etter første ledd. Finanstilsynet fastsetter hvilke oppgaver som skal utføres av Bankenes sikringsfond i medhold av første punktum. I saker hvor Finanstilsynet skal treffe vedtak som krisehåndteringsmyndighet etter første ledd kan Finanstilsynet bestemme at Bankenes sikringsfond skal forberede saken.

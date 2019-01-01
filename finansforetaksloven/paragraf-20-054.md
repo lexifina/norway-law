@@ -1,0 +1,8 @@
+# § 20-54. Bidrag fra innskuddsgarantifondet
+(1) Dersom Finanstilsynet beslutter å bruke krisetiltak som sikrer at innskytere i et medlem av innskuddsgarantiordningen etter § 19-2 fortsatt har tilgang til sine innskudd, skal garantiordningen kompensere krisetiltaksfondet med følgende kontantbeløp fastsatt på grunnlag av en verdivurdering etter § 20-16:
+a) ved bruk av intern oppkapitalisering etter §§ 20-24 til 20-26, et beløp tilsvarende det de garanterte innskuddene ville blitt nedskrevet med dersom de ikke hadde vært unntatt fra intern oppkapitalisering, og
+b) ved bruk av andre krisetiltak nevnt i § 20-19, et beløp tilsvarende det tapet som de garanterte innskuddene ville blitt påført dersom kreditorenes tap isteden hadde blitt fordelt etter reglene i § 20-31.
+(2) Beløpet skal ikke overstige det tapet garantiordningen ville blitt påført ved avvikling av foretaket etter § 20-29. Beløpet skal heller ikke overstige 50 prosent av minstekravet etter § 19-9 første ledd. Departementet kan gjøre unntak fra annet punktum i særlige tilfeller der det er behov for et større beløp.
+(3) Garantiordningens bidrag etter første og annet ledd fastsettes av Finanstilsynet i samråd med Bankenes sikringsfond.
+(4) Fremgår det av en ny verdivurdering etter § 20-38 at garantiordningens bidrag var større enn tillatt etter annet ledd første punktum, skal krisetiltaksfondet tilbakebetale differansen etter § 20-38 tredje ledd.
+(5) Dersom de garanterte innskuddene i et foretak fullt ut er overdratt til et annet foretak etter §§ 20-21 eller 20-22, har innskyterne ingen rett til dekning for den del av innskuddene som ikke er overdratt.

@@ -1,0 +1,3 @@
+# § 19-17. Klagerett. Søksmål
+(1) Vedtak truffet av Bankenes sikringsfond om innskyteres krav etter garantiordningen, kan påklages til Finanstilsynet etter reglene i forvaltningsloven. Tvister om et krav omfattes av innskuddsgarantien og retten til dekning etter denne, kan prøves av domstolene etter tvisteloven.
+(2) Vedtak truffet av Bankenes sikringsfond om de enkelte medlemsforetaks bidragsplikt, kan påklages til Finanstilsynet etter reglene i forvaltningsloven, med mindre det gjelder risikojustering av medlemsforetakets andel av årsbidraget. Med de begrensninger som følger av første punktum, kan tvister om medlemsforetaks bidragsplikt prøves av domstolene etter tvisteloven.

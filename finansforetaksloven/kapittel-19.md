@@ -1,1 +1,1 @@
-# Kapittel 19. Bankenes sikringsfond
+# Kapittel 19. Innskuddsgarantiordning for banker

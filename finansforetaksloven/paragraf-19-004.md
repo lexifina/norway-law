@@ -1,4 +1,8 @@
-# § 19-4. Innskudd
-(1) I dette kapittel menes med innskudd enhver kredittsaldo i kredittinstitusjon i henhold til konto som lyder på navn, samt forpliktelser etter innskuddsbevis til navngitt person, unntatt innskudd fra andre finansforetak.
-(2) Med garantert innskudd menes samlet innskudd inntil 2 millioner kroner fra en innskyter i et medlemsforetak.
-(3) Departementet kan gi forskrift om hva som skal regnes som innskudd i filial.
+# § 19-4. Garanterte innskudd
+(1) Med garanterte innskudd menes kvalifiserte innskudd opp til to millioner kroner per innskyter per medlemsforetak og innskudd som nevnt i annet ledd.
+(2) Følgende innskudd, herunder innskudd på klientkonto, skal i sin helhet regnes som garantert innskudd i en periode på inntil 12 måneder fra det tidligste av tidspunktet innskuddet er mottatt og kreditert i foretaket, og tidspunktet innskuddet rettslig kunne overføres til andre:
+a) innskuddet er foretatt i henhold til avtale om fast eiendom som gjelder erverv eller avhendelse av rett til private boliger eller fritidshus,
+b) innskuddet ivaretar sosiale hensyn og er knyttet til særlige begivenheter i en innskyters livsløp, herunder ekteskap, samlivsbrudd, avslutning av arbeidsforhold, herunder ved pensjonering eller nedbemanning, samt uførhet eller død, eller
+c) innskuddet er basert på utbetaling av forsikringsytelse, erstatning for skade voldt ved straffbare handlinger, eller erstatning for uriktig straffeforfølgning.
+(3) For innskudd mottatt av medlemsforetak med hovedsete her i riket gjennom filial etablert i annen EØS-stat, er beløpsgrensen for garanterte innskudd etter første ledd et beløp i norske kroner som svarer til 100 000 euro per innskyter per medlemsforetak. Det samme gjelder innskudd som et medlem har mottatt gjennom grensekryssende virksomhet i annen EØS-stat. Departementet kan gi utfyllende bestemmelser i forskrift.
+(4) Departementet kan i forskrift gi regler om hva som skal regnes som kvalifiserte eller garanterte innskudd, herunder regler om hvem som skal regnes som en innskyter, og om utbetaling av garanterte innskudd. Departementet kan også fastsette nærmere regler om at garantiordningen skal omfatte forpliktelser i henhold til produkter som omfatter ikke bare innskudd, men også andre midler knyttet til pensjoner og andre ytelser til person ved eller etter uttak av alderspensjon.

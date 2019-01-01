@@ -1,3 +1,6 @@
-# § 20-4. Medlemmenes ansvar overfor garantiordningen
-(1) Et medlems maksimale ansvar overfor garantiordningen skal hvert år være 1,5 prosent av summen av medlemmets bruttopremie opptjent i de siste tre regnskapsår før innkallingsåret ved direkte skadeforsikring som omfattes av garantiordningen. Finanstilsynet kan fastsette nærmere regler om hvilke premieinntekter som skal inngå i beregningsgrunnlaget.
-(2) Til dekning av ansvaret skal hvert medlem foreta årlige avsetninger etter regler fastsatt av Finanstilsynet.
+# § 20-4. Forholdsmessighet. Forskrifter
+(1) Ved anvendelsen av reglene i kapitlet her med tilhørende forskrifter skal Finanstilsynet legge vekt på at virkningen av de enkelte bestemmelser blir tilpasset og vil stå i rimelig forhold til foretakets størrelse, kapitalforhold og eierstruktur, arten og omfanget av dets virksomhet og risikoeksponering, og i hvilken grad svekket finansiell stilling eller krise i foretaket kan få virkninger for finansiell stabilitet, markedsforhold eller økonomien for øvrig.
+(2) Departementet kan i forskrift gi regler til utfylling, gjennomføring og avgrensning av bestemmelsene i kapitlet her, herunder regler til gjennomføring av første ledd. I forskriften kan det gjøres unntak fra reglene i konkursloven, tvangsfullbyrdelsesloven og tvisteloven del VII.
+(3) Departementet kan i forskrift gi regler om samarbeid mellom Finanstilsynet og tilsyns- og krisehåndteringsmyndigheter i andre EØS-stater, herunder om anvendelsen av reglene i kapitlet her i tilfeller hvor:
+a) norsk foretak eller finanskonsern driver virksomhet gjennom datterforetak eller filial i annen EØS-stat, og
+b) utenlandsk foretak eller finanskonsern driver virksomhet gjennom datterforetak eller filial etablert her i riket.

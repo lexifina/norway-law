@@ -1,1 +1,1 @@
-# Kapittel 20. Garantiordninger for forsikringsvirksomhet
+# Kapittel 20. Soliditets- og solvenssvikt i banker, kredittforetak og finanskonsern

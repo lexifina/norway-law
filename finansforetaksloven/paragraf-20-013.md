@@ -1,0 +1,4 @@
+# § 20-13. Melding om kriserammet foretak
+(1) Dersom et foretak må anta at det som følge av sin økonomiske stilling er eller må ventes i nær fremtid å bli kriserammet etter § 20-15 annet ledd, skal foretaket gi melding om dette til Finanstilsynet.
+(2) Finanstilsynet skal gi melding til departementet dersom Finanstilsynet må anta at vilkårene i § 20-15 første ledd bokstav a og b er oppfylt. Meldingen skal inneholde en vurdering av om foretaket bør avvikles etter § 20-29 eller om vilkåret i § 20-15 første ledd bokstav c også er oppfylt. Kopi av meldingen skal gis til Norges Bank og Bankenes sikringsfond.
+(3) Første og annet ledd gjelder tilsvarende for holdingforetak eller annet morselskap i norsk finanskonsern. Finanstilsynet skal underrette konsernets tilsynsutvalg eller kriseutvalg. Tilsvarende gjelder dersom melding etter annet ledd angår et norsk foretak som inngår i konsern med morselskap i annen EØS-stat.

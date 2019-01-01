@@ -1,6 +1,7 @@
-# § 20-1. Virkeområde. Formål
-(1) Bestemmelsene i §§ 20-1 til 20-7 gjelder Garantiordningen for skadeforsikring.
-(2) Garantiordningen skal bidra til å sikre utbetaling av krav som følger av avtale om direkte skadeforsikring, til sikrede og skadet tredjeperson.
-(3) Garantiordningen dekker ikke krav som gjelder en forsikret risiko som ikke består her i riket. Departementet kan gi forskrift om når en forsikret risiko anses å bestå her i riket.
-(4) Departementet kan gi forskrift om Garantiordningen for skadeforsikring, herunder om hvilke avtaler om direkte skadeforsikring som faller inn under garantiordningens dekningsområde, hvilke personer garantiordningen gjelder for, grense for maksimalt beløp som dekkes per skadetilfelle, og dekningsgraden for krav mot garantiordningen.
-(5) Departementet kan gi forskrift om anvendelsen av forvaltningsloven og offentleglova for garantiordningen.
+# § 20-1. Virkeområde
+(1) Bestemmelsene i kapitlet her gjelder:
+a) banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i verdipapirhandelloven § 9-13 første ledd første punktum,
+b) holdingforetak eller annet morselskap i finanskonsern der foretak som nevnt i bokstav a inngår, og
+c) finansieringsforetak som inngår i finanskonsern som nevnt i bokstav b.
+(2) Reglene om finanskonsern i kapitlet her gjelder bare finanskonsern der foretak som nevnt i første ledd bokstav a inngår.
+(3) Med norsk finanskonsern menes i kapitlet her bare finanskonsern som har morselskap med hovedsete og forretningskontor her i riket. Med norsk foretak menes foretak som nevnt i første ledd bokstav a og som har hovedsete og forretningskontor her i riket.

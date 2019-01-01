@@ -6,3 +6,5 @@
 (5) Som pensjonsforetak regnes pensjonskasse og innskuddspensjonsforetak.
 (6) Som filial regnes et forretningssted som etableres av finansforetak, og som kan utføre forretninger for foretaket.
 (7) Som representasjonskontor regnes markedsføringskontor her i riket som er etablert av utenlandsk finansforetak, og som ikke er filial.
+(8) Med tilsynsutvalg menes tilsynskollegium som nevnt i EØS-regler som svarer til direktiv 2013/36/EU artikkel 116, som er opprettet innenfor EØS.
+(9) Med kriseutvalg menes kriseutvalg som nevnt i § 20-46 og tilsvarende kollegium opprettet i andre EØS-land.

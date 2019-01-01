@@ -1,4 +1,4 @@
-# § 19-2. Medlemskap for utenlandske filialer
-(1) Kredittinstitusjon med hovedsete i annen EØS-stat som mottar innskudd fra allmennheten gjennom filial her i riket, har rett til å bli medlem av innskuddsgarantiordningen dersom innskuddsgarantiordningen i filialens hjemstat ikke kan anses å gi filialens innskytere like god dekning som det som følger av denne loven. Departementet kan fastsette nærmere vilkår for slikt medlemskap.
-(2) Departementet kan bestemme at filial av kredittinstitusjon med hovedsete i stat utenfor EØS, skal være medlem av innskuddsgarantiordningen.
-(3) Departementet kan gi forskrift om filialers medlemskap i sikringsfondet, herunder regler om at fondet kan granske filialenes regnskaper og revisjonsforhold og vurdere deres forvaltning.
+# § 19-2. Medlemskap
+(1) Banker med hovedsete her i riket skal være medlem av innskuddsgarantiordningen for banker.
+(2) Kredittinstitusjon med hovedsete i annen EØS-stat som mottar innskudd fra allmenheten gjennom filial her i riket, kan bli medlem av innskuddsgarantiordningen dersom garantiordningen for bankinnskudd i hjemstaten ikke gir like god dekning som det som følger av § 19-6. Filial som er medlem etter første punktum, kan si opp medlemskapet med en frist på tolv måneder. Departementet kan i forskrift gi regler om vilkår og regler for slikt medlemskap.
+(3) Departementet kan i forskrift gi regler om medlemskap i garantiordningen for annet finansforetak med hovedsete her i riket og for filial av kredittinstitusjon med hovedsete i stat utenfor EØS, og kan fastsette vilkår og nærmere regler for slikt medlemskap.

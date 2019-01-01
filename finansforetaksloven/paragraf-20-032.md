@@ -1,0 +1,3 @@
+# § 20-32. Prioritetsregler for innskudd mv.
+(1) Innskudd som er garantert etter § 19-4, har prioritet foran alminnelig usikret gjeld uten særskilt prioritet. Det samme gjelder gjeld til innskuddsgarantiordningen etter § 19-12.
+(2) Den delen av kvalifiserte innskudd fra fysiske personer og små eller mellomstore bedrifter som overstiger garantibeløpet etter § 19-4, har prioritet etter gjeld som nevnt i første ledd, men likevel foran alminnelig usikret gjeld uten særskilt prioritet. Samme prioritet tilkommer innskudd i foretak etablert i EØS som ikke skal regnes som kvalifiserte innskudd fordi innskuddene er foretatt gjennom filial som foretaket har etablert i stat utenfor EØS.

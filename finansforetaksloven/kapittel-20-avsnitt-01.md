@@ -1,1 +1,1 @@
-# I. Garantiordningen for skadeforsikring
+# I. Alminnelige bestemmelser

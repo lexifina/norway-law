@@ -1,5 +1,5 @@
 # § 21-1. Melding om betalingsvansker mv.
-(1) Styret og daglig leder i et finansforetak har hver for seg plikt til å melde fra til Finanstilsynet hvis det er grunn til å frykte at:
+(1) Styret og daglig leder i et finansforetak som ikke er omfattet av § 20-1 første ledd, har hver for seg plikt til å melde fra til Finanstilsynet hvis det er grunn til å frykte at:
 a) det vil kunne oppstå svikt i foretakets evne til å oppfylle sine forpliktelser etter hvert som de forfaller,
 b) foretaket ikke vil kunne oppfylle minstekravene til ansvarlig kapital eller andre soliditets- og sikkerhetskrav fastsatt i lov eller forskrift,
 c) det er inntrådt forhold som kan medføre alvorlig tillitssvikt eller tap som vesentlig vil svekke eller true soliditeten.

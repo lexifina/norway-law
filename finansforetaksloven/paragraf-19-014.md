@@ -1,5 +1,6 @@
-# § 19-14. Styre
-(1) Fondet skal ha et styre på syv medlemmer. Fem medlemmer og fem varamedlemmer velges av generalforsamlingen. Ved sammensetningen skal det legges vekt på hensynet til en balansert representasjon fra banker av forskjellig størrelse og karakter. Norges Bank og Finanstilsynet oppnevner hver ett medlem med varamedlem.
-(2) De valgte medlemmer og varamedlemmer velges for to år. Styret velger leder og nestleder for ett år om gangen.
-(3) For gyldig vedtak i styret kreves at minst fire medlemmer stemmer for forslaget, med mindre annet følger av bestemmelser i kapittelet her.
-(4) Det skal føres styreprotokoll. Finanstilsynet kan kreve fondets styreprotokoller fremlagt.
+# § 19-14. Administrative krav
+(1) Bankenes sikringsfond skal etablere administrative systemer for beregningen av mulig ansvar for innskuddsforpliktelser. Bankenes sikringsfond skal også treffe administrative tiltak for å forberede utbetaling av garanterte innskudd, og for å sørge for at medlemsforetakene elektronisk stiller til disposisjon og jevnlig holder oppdatert den informasjonen om innskytere og kvalifiserte innskudd som trengs. Det skal jevnlig og minst hvert tredje år gjennomføres stresstester av de administrative systemene.
+(2) Bankenes sikringsfond kan kreve at medlemmene fremskaffer opplysninger om samlede kvalifiserte innskudd for hver innskyter. Det kan særskilt kreves opplysninger om innskudd som omfattes av § 19-4 annet ledd. Opplysninger skal gis elektronisk i en form som er overførbar og tilpasset garantiordningens systemer.
+(3) Bankenes sikringsfond kan undersøke medlemmenes regnskaper og revisjonsforhold og vurdere deres forvaltning. I den sammenheng kan Bankenes sikringsfond kreve at et medlem skal legge frem dokumenter mv. og opplysninger som Bankenes sikringsfond anser nødvendig.
+(4) Bankenes sikringsfond skal holde medlemmene orientert om virksomheten i garantiordningen. Det kan etter behov innkalles til medlemsmøte for å behandle forhold vedrørende garantiordningens virkemåte.
+(5) Departementet kan i forskrift gi regler om oppgaver for og administrative krav til Bankenes sikringsfond.

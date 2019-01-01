@@ -1,0 +1,5 @@
+# § 20-42. Strukturerte finansielle ordninger og obligasjoner med fortrinnsrett
+(1) Finanstilsynet kan ikke med virkning for strukturerte finansielle ordninger, herunder ordninger som nevnt i § 20-39 annet ledd bokstav e og f, gjennomføre:
+a) overdragelse av en del av de eiendeler, rettigheter og forpliktelser som omfattes av, eller inngår som del av, en strukturert finansiell ordning hvor foretaket under krisehåndtering er part, eller
+b) tiltak med hjemmel i § 20-34 første ledd som medfører opphør eller endring av de eiendeler, rettigheter og forpliktelser som omfattes av, eller inngår som del av, en strukturert finansiell ordning hvor foretaket under krisehåndtering er part.
+(2) For å sikre tilgang til garanterte innskudd har Finanstilsynet likevel adgang til å overføre garanterte innskudd som omfattes av en strukturert finansiell ordning, uten å overføre andre eiendeler, rettigheter og forpliktelser som omfattes av samme ordning, og til å overføre, bringe til opphør eller endre disse forpliktelsene, rettighetene eller eiendelene uten å overføre garanterte innskudd.
