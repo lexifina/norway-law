@@ -10,6 +10,7 @@ g) godtgjøring til medlemmer av faste arbeidslag som utfører arbeid for egen r
 h) godtgjøring for barnepass også når dette skjer i barnepasserens hjem som ledd i selvstendig næringsvirksomhet
 i) vederlag til arbeidstaker i forbindelse med opphør av arbeidsforhold etter avskjed, oppsigelse eller avtale med arbeidsgiver
 j) engangsutbetalinger til rettighetshaver, begunstiget, bo eller arving etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning eller etter forsikringsbevis eller pensjonskapitalbevis utgått fra en individuell pensjonsavtale etter skatteloven (IPA). Det samme gjelder for engangsutbetalinger etter innskuddspensjonsloven.
-(2) Lønnsopplysningene skal omfatte
+(2) Dersom en arbeidstaker i et tjenesteforhold mottar ytelse som nevnt i første ledd fra andre enn den som har arbeidstakeren i sin tjeneste, påhviler plikten til å gi opplysninger etter bestemmelsen her likevel den som har arbeidstakeren i sin tjeneste.
+(3) Lønnsopplysningene skal omfatte
 a) fradrag som er gjort ved lønnsutbetalingene, slik som medlemsinnskudd til tjenestepensjonsordning, fradragsberettiget fagforeningskontingent mv. Det samme gjelder fradragsberettiget fagforeningskontingent som lønnstakeren legitimerer å ha betalt direkte til sin fagforening.
 b) inntektsfradrag som gis ved fastsettingen, slik som sjømannsfradrag mv.
