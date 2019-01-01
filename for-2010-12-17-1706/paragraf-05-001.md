@@ -1,0 +1,4 @@
+# § 5-1. Krav til sykehus som driver medisinsk laboratorie- eller røntgenvirksomhet
+Med medisinsk laboratorievirksomhet menes medisinsk virksomhet som analyserer og diagnostiserer prøver og som gir undersøkelser og behandling som krever spesialistkompetanse innen det relevante medisinske laboratoriefag. Med medisinsk røntgenvirksomhet menes medisinsk virksomhet som gir pasienter undersøkelse, diagnostikk og behandling som krever spesialistkompetanse i medisinsk radiologi.
+Sykehus som driver medisinsk laboratorie- eller røntgenvirksomhet skal gi råd og veiledning til rekvirenten om nytte av ulike undersøkelser og delta i befolkningsundersøkelser som er satt i gang av sentrale helsemyndigheter.
+Statlig finansierte sykehus som driver medisinsk laboratorie- og røntgenvirksomhet skal også delta i forebyggende arbeid og avgi uttalelse i spørsmål som gjelder hygiene eller infeksjonsmedisin på anmodning fra lokale eller sentrale helsemyndigheter.
