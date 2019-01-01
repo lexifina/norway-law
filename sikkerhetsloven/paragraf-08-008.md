@@ -1,0 +1,2 @@
+# § 8-8. Tilbakekallelse, nedsettelse eller suspensjon av klarering
+Dersom klareringsmyndigheten får opplysninger som gir grunn til å tvile på at en klarert person er sikkerhetsmessig skikket, skal klareringsmyndigheten vurdere å tilbakekalle eller nedsette klareringen, eller suspendere klareringen og iverksette nærmere undersøkelser. Er en klarering besluttet tilbakekalt, nedsatt eller suspendert, skal den autorisasjonsansvarlige varsles umiddelbart. Klareringsmyndigheten skal sende sikkerhetsmyndigheten begrunnet melding om beslutningen.

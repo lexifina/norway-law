@@ -1,0 +1,9 @@
+# § 6-6. Kommunikasjons- og innholdskontroll av informasjonssystemer
+Virksomheten kan be sikkerhetsmyndigheten kontrollere om virksomhetens informasjonssystemer behandler sikkerhetsgradert informasjon utover det systemets sikkerhetsgodkjenning tillater. Virksomhetens ansatte skal orienteres om at slike kontroller kan forekomme.
+Sikkerhetsmyndigheten kan gjennomføre kontrollen ved å avlytte og avlese informasjon som behandles i eller sendes mellom informasjonssystemer.
+Kontrollen skal ikke omfatte privat kommunikasjon eller kommunikasjon med virksomheter som ikke er omfattet av loven. Fanger kontrollen likevel opp slik kommunikasjon, skal kontrollen straks opphøre, og informasjon som kontrollen har gitt tilgang til, skal slettes.
+Alle som får tilgang til informasjon som nevnt i tredje ledd i forbindelse med arbeid eller tjeneste for sikkerhetsmyndigheten, har taushetsplikt om innholdet.
+Sikkerhetsmyndigheten skal informere virksomhetens ledelse om metodene som skal benyttes i kontrollen og sikkerhetsmyndighetens vurdering av risikoen for at kontrollen kan fange opp kommunikasjon som nevnt i tredje ledd. Dersom virksomhetens ledelse finner at hensynet til informasjonssystemsikkerheten ikke kan begrunne metodene og risikoen, skal kontrollen ikke utføres.
+Informasjon som kontrollen gir tilgang til, kan benyttes bare til det som formålet med kontrollen krever. Når det ikke lenger er behov for informasjonen, skal den slettes. Kunnskap og erfaringer som sikkerhetsmyndigheten tilegner seg gjennom kontrollen, kan brukes til videreutvikling av sikkerhetsmyndighetens generelle sikkerhetsarbeid.
+Sikkerhetsmyndigheten skal gi virksomheten en rapport om resultatet av kontrollen. Rapporten skal bare inneholde informasjon som kan bidra til å bedre virksomhetens sikkerhet.
+Kongen kan gi forskrift om kommunikasjons- og innholdskontroll av informasjonssystemer, og om at slik kontroll kan utføres av andre enn sikkerhetsmyndigheten.

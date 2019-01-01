@@ -1,0 +1,5 @@
+# § 8-17. Klage på avgjørelse om klarering
+Avgjørelsen om klarering, klarering på vilkår og fastsettelse av tidspunktet for når klareringssaken tidligst kan tas opp på nytt, kan påklages av den avgjørelsen retter seg mot. Det samme gjelder avslag på begrunnelse og avslag på anmodning om innsyn.
+Klagen skal sendes til klareringsmyndigheten. Sikkerhetsmyndigheten er klageinstans. Departementet er klageinstans for klareringsavgjørelser som er truffet av sikkerhetsmyndigheten i første instans.
+Fristen for å klage er tre uker fra den dagen meldingen om avgjørelsen kom fram til mottakeren. Dersom det klages på avslag på begrunnelse eller avslag på anmodning om innsyn, blir klagefristen avbrutt. Ny klagefrist for avgjørelse om klarering løper fra den dagen klageinstansens avgjørelse er kommet fram, eller mottakeren på annen måte er gjort kjent med den. I saker der en advokat har gjennomgått saken etter § 8-15, løper ny klagefrist fra den dagen rådet fra advokaten har kommet fram til mottakeren.
+Forvaltningsloven kapittel VI gjelder i klareringssaker dersom ikke noe annet følger av eller i medhold av denne loven.
