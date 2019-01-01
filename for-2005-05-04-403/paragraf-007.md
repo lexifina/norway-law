@@ -1,0 +1,3 @@
+# § 7. Opplysningsplikt og kontroll
+Omsetningsleddet plikter å gi Landbruksdirektoratet de nødvendige opplysninger med hensyn til mottatt kvantum som er nødvendig for gjennomføringen av markedsordningen, inkludert avrensordningen og markedsreguleringsformål.
+Landbruksdirektoratet kan iverksette de kontrolltiltak herunder stedlig kontroll som anses nødvendige for å etterse at omsetningsleddet oppfyller kravene fastsatt i denne forskriften. Omsetningsleddet skal medvirke til gjennomføringen av de nødvendige kontrolltiltak i forbindelse med de funksjoner som utføres i relasjon til markedsordningen.
