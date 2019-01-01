@@ -1,0 +1,5 @@
+# § 5. Virksomhet som leverer kryptosikkerhetstjenester eller produserer kryptoutstyr
+Virksomhet som skal levere kryptosikkerhetstjenester etter sikkerhetsloven § 5-6 andre ledd andre punktum er ansvarlig for salg, utleie, installasjon og drift av kryptoutstyr og for administrasjon av kryptonøkler. Virksomheten skal føre kontroll med kryptosikkerheten hos brukerne. Virksomhet som ikke er forvaltningsorgan skal være leverandørklarert for den høyeste sikkerhetsgradering av kryptonøkler som blir levert, likevel for minst KONFIDENSIELT.
+Ved produksjon av kryptonøkler gradert KONFIDENSIELT eller HEMMELIG skal involvert personell ha kryptokvalifisering grad 1.
+Lokaliteter hvor det utføres administrasjon av kryptonøkler og drift av kryptoutstyr skal være fysisk sikret for den høyeste sikkerhetsgrad kryptonøklene har og minst som for KONFIDENSIELT.
+Virksomhet som ikke er forvaltningsorgan og skal produsere kryptoutstyr hvor kryptoalgoritmer til NATO eller NSK inngår, skal på forhånd være leverandørklarert for HEMMELIG eller høyere.
