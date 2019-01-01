@@ -1,0 +1,3 @@
+# § 4
+Offentlige og private krigsskadeinstitusjoner som er i virksomhet her i landet skal innen 3 måneder etter regnskapsårets utløp sende Krigsskaderådet årsregnskap og melding om sin virksomhet. For øvrig kan rådet kreve de opplysninger fra krigsskadeinstitusjoner, vanlige trygdelag og offentlige myndigheter og institusjoner som det anser påkrevd for løsningen av sine oppgaver.
+Får rådet opplysninger om drifts- eller forretningshemmeligheter eller andre forhold som ikke er alminnelig kjent, plikter medlemmene og i tilfelle rådets personale, med de begrensninger som følger av deres gjøremål etter loven, å bevare taushet om det opplyste.
