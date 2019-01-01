@@ -5,5 +5,5 @@ b) forvaring, jf. kapittel 7,
 c) samfunnsstraff, jf. kapittel 8,
 d) ungdomsstraff, jf. kapittel 8 a,
 e) bot, jf. kapittel 9, og
-f) rettighetstap, jf. kapittel 10.
+f) rettighetstap, jf. kapittel 10 eller statsborgerloven § 26 a.
 Når det ved fastsetting av straff er aktuelt å ilegge flere strafferettslige reaksjoner, jf. første ledd og § 30, skal den samlede reaksjonen stå i et rimelig forhold til lovbruddet.
