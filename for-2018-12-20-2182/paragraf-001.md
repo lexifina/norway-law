@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Forskriften fastsetter unntak fra arbeidsmiljøloven med tilhørende forskrifter for sivil luftfart og annen statsluftfart enn militær luftfart, for så vidt gjelder besetningsmedlemmers arbeidsmiljø. Et besetningsmedlem er en person ansatt i, innleid til eller utpekt av et luftfartsforetak til å utføre arbeid med betydning for luftfartøyets operasjoner under flyging. Unntakene kommer til anvendelse fra det tidspunkt et besetningsmedlem sjekker inn på hjemmebasen med formål om å fly, til vedkommende sjekker ut på hjemmebasen.
+Samferdselsdepartementet kan i særlige tilfeller fastsette at også andre bestemmelser i arbeidsmiljøloven med tilhørende forskrifter ikke skal gjelde.
