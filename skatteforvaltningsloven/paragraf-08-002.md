@@ -1,6 +1,6 @@
 # § 8-2. Skattemelding for formues- og inntektsskatt, svalbardskatt og petroleumsskatt
 (1) Skattemelding med opplysninger om den skattepliktiges formue og inntekt, fradragsposter og andre opplysninger som har betydning for fastsetting av skattegrunnlaget etter kapittel 9, skal leveres av den som
-a) har hatt formue eller inntekt som er skattepliktig her i landet etter annen bestemmelse i skatteloven enn § 10-13
+a) har hatt formue eller inntekt som er skattepliktig her i landet etter annen bestemmelse i skatteloven enn § 10-13 og den som ville ha vært skattepliktig etter skatteloven § 2-2 første ledd dersom den ikke etter skatteavtale hadde vært hjemmehørende i en annen stat.
 b) er skattepliktig etter Svalbardskatteloven §§ 2-1 eller 2-3, og som ikke har begrenset skatteplikt etter Svalbardskatteloven § 2-1 annet ledd. Skattemelding skal også leveres av personer og selskaper som er skattepliktige til Svalbard for formue og inntekt som nevnt i svalbardskatteloven § 3-2.
 c) har hatt formue eller inntekt som er skattepliktig etter petroleumsskatteloven.
 (2) Foreldre skal ta barns formue og inntekt med i sin skattemelding når fastsettingen skal skje samlet med foreldrenes formue og inntekt. Barn som ikke har annen inntekt eller formue, er fritatt fra å levere skattemelding.

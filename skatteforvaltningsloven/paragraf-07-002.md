@@ -2,7 +2,7 @@
 (1) Den som selv eller gjennom andre i løpet av en kalendermåned har utbetalt eller ytet fordel som nevnt i dette leddet, skal etter reglene i a-opplysningsloven gi opplysninger om alt som er ytet til den enkelte mottaker. Opplysningene skal omfatte
 a) lønn og annen godtgjøring for arbeid
 b) pensjon, uføretrygd etter folketrygdloven kapittel 12, uføreytelser fra andre ordninger, introduksjonsstønad etter introduksjonsloven, kvalifiseringsstønad etter sosialtjenesteloven, føderåd i jord- og skogbruk, livrente som ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, underholdsbidrag, foreldrepenger, dagpenger under arbeidsløshet, sykepenger og lignende ytelser som skal regnes som skattepliktig inntekt for mottakeren
-c) drikkepenger med det beløpet som skal tas med ved beregningen av skattetrekk
+c) tips med det beløpet som skal tas med ved beregningen av skattetrekk
 d) gratiale, tantieme og godtgjøring til medlem av styre eller representantskap eller til annen tillitsmann
 e) reise-, diett- og representasjonsgodtgjøring samt annen godtgjøring til dekning av utgifter ved utførelse av arbeid, oppdrag eller verv som nevnt i bokstav a til f
 f) lott eller part ved fiske eller fangstvirksomhet
