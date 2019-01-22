@@ -1,0 +1,4 @@
+# § 1-6. Fravær fra obligatorisk undervisning
+Fagskolens utdanninger har obligatorisk undervisning. Se den enkelte studieplan for mer informasjon. Dersom krav til deltagelse på obligatorisk undervisning ikke overholdes, vil studenten risikere å miste studieplassen. Studiene ved fagskolen er intensive og krever 100 % deltagelse for å gå opp til eksamen, fravær utover 6 dager anses som avbrutt studie.
+Lengre fravær som skyldes sykdom, ulykker eller lignende, og som dokumenteres med legeerklæring, kan etter skriftlig søknad til fagansvarlig gi fritak for tilstedeværelsesplikten, men obligatorisk undervisning må tas igjen for å ha mulighet til å fullføre eksamen.
+Avslag på søknad om fritak for tilstedeværelsesplikten er enkeltvedtak og kan påklages. Se kapittel 5 for informasjon om klagebehandling.

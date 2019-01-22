@@ -1,0 +1,3 @@
+# § 2-5. Opptak for søkere med utenlandsk utdanning/annet morsmål
+Søkere med utenlandsk utdanning, må ha kvalifikasjoner på nivå 4 i NKR. De faglige kvalifikasjonene må tilsvare kvalifikasjonene i utdanningsprogrammet fra videregående opplæring, som kreves for opptak til den aktuelle utdanningen.
+Søkere med annen utdanning enn norsk eller nordisk videregående opplæring, må dokumentere kunnskaper i norsk tilsvarende Norsk Vg1 studieforberedende, Norsk Vg2 yrkesfaglige utdanningsprogram eller bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene eller bestått B2 norskprøven for voksne innvandrere fra VOX.

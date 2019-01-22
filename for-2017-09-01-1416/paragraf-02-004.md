@@ -1,0 +1,3 @@
+# § 2-4. Tilstrekkelig norskkunnskaper
+Søkeren må ha kompetanse i norsk hovedmål og norsk muntlig tilsvarende Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring. Dokumentasjon av formell kompetanse i norskkunnskaper må fremlegges i form av karakterutskrift enten fra Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglig utdanningsprogram i videregående.
+Søkere som ikke har formell kompetanse i norskkunnskaper må fremlegge dokumentasjon hvor det bekreftes at søker har tilstrekkelig norskkunnskaper som tilsvarer Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring.
