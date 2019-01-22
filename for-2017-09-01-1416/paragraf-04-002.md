@@ -1,0 +1,10 @@
+# § 4-2. Vilkår og gjennomføring
+Kandidaten kan senest møte opp innen én – 1- time etter at eksamen har startet og har ikke anledning til å forlate eksamenslokalet den første timen etter at eksamenen har startet.
+Mobiltelefoner og annet elektronisk utstyr skal være avslått og legges i sekk eller veske. Dette skal ikke aktiveres før kandidaten har forlatt eksamenslokalet.
+Bordene skal være ryddet for gjenstander senest ti minutter før eksamen starter. Yttertøy, lue, sekk eller veske skal settes enten foran eller bak i eksamenslokalet der dette er mulig.
+Kandidaten må forevise gyldig legitimasjon ved gjennomføring av eksamen. Godkjent legitimasjon er studentkort, pass, norsk førerkort eller bankkort med bilde.
+Opplysninger om hjelpemidler er opplyst på forsiden av eksamensoppgaven. Dersom kandidaten oppbevarer ulovlige hjelpemidler under eksamen, vil disse bli beslaglagt, og kandidaten vil bli rapportert som mistenkt for forsøk på fusk. Eksamensbesvarelsen skal være tydelig. Kandidaten må sørge for at skriften på arket er leselig.
+Kladdeark er ikke gyldig som innleveringsark, og vil ikke bli sendt til sensur. I de tilfeller der det skal brukes kladdeark så vil ark bli utdelt fra fagskolen. Når kandidaten er klar til å levere sin besvarelse, skal kandidaten gi tegn til eksamensinspektør som samler inn eksamen. Kandidaten leverer selv inn besvarelsen til hovedvakten. Når eksamensbesvarelsen er innlevert skal kandidaten forlate lokalet umiddelbart.
+Kandidaten kan skrive på sin eksamensbesvarelse til angitt eksamenstid er over. All skriving skal opphøre når eksamenstiden er ute. Dette gjelder også utfylling av headingen. Hvis ikke dette overholdes, vil det bli rapportert som mistanke om forsøk på fusk.
+Kandidater som må avbryte eksamen på grunn av sykdom, skal ta kontakt med eksamensinspektør i lokalet. Besvarelsen skal i slike tilfeller ikke leveres inn. Dersom en kandidat velger å levere inn besvarelse på tross av sykdom som eventuelt oppstår, har kandidaten brukt ett eksamensforsøk.
+Besvarelser som er levert, kan ikke trekkes tilbake.

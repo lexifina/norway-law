@@ -1,0 +1,6 @@
+# § 4-12. Annullering av eksamen
+Styret kan annullere resultatet av en eksamen, prøve eller annet arbeid som bedømmes med karakter som en student har fått adgang til å avlegge ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden. Det samme gjelder for godkjenningen av et emne som en student på et tilsvarende urettmessig grunnlag har fått adgang til å delta i. Styret kan også annullere resultatet av en eksamen, prøve eller lignende og godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med eksamenen, prøven eller lignende eller under gjennomføringen av emnet.
+Styret kan annullere fritak for eller innpassing av utdanning og kompetanse som en student har fått ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden.
+Vedtak om annullering etter første og annet ledd kan påklages av studenten til Nasjonal klagenemnd for fagskoleutdanning.
+Adgangen til annullering foreldes ikke.
+Etter at det foreligger vedtak om annullering, skal eventuelle vitnemål eller karakterutskrifter leveres tilbake til fagskolen. Et endelig vedtak om annullering etter første eller annet ledd utgjør et særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.

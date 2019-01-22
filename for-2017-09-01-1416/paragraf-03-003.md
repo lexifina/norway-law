@@ -1,0 +1,3 @@
+# § 3-3. Prosedyre ved vurdering av innpassing og fritak
+Søknad om innpass eller fritak må inneholde nødvendig dokumentasjon av omfang og innhold i emnet som studenten ønsker godskrevet. Eksempler på dokumentasjon er vitnemål, kompetansebevis, attester, studieplan med mer.
+Opptaksansvarlig i samarbeid med studieleder på det aktuelle utdanningstilbudet foretar en faglig vurdering av innsendt dokumentasjon. Utgangspunktet for vurderinger om innpassing og fritak er læringsutbyttet for den aktuelle utdanningen eller det aktuelle emnet, og fagskolepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning. Dersom utdanningen eller emnet ikke inneholder læringsutbyttebeskrivelser, kan studenten dokumentere læringsutbyttet gjennom studieplan eller lignende.
