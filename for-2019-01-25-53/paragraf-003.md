@@ -1,0 +1,3 @@
+# § 3. Vilkår for kameraovervåking
+Kameraovervåking er bare tillatt hvis det ut fra rederiets behov er nødvendig for å forebygge at farlige situasjoner oppstår og for å ivareta hensynet til ansattes eller andres sikkerhet, eller det for øvrig er særskilt behov for overvåkingen.
+Med kameraovervåking menes vedvarende eller regelmessig gjentatt personovervåking ved hjelp av fjernbetjent eller automatisk virkende overvåkingskamera eller annet lignende utstyr som er fastmontert. Som kameraovervåking anses overvåking både med og uten mulighet for opptak av lyd- og bildemateriale. Det samme gjelder uekte kameraovervåkingsutstyr eller skilting, oppslag eller lignende som gir inntrykk av at kameraovervåking finner sted.
