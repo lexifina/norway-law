@@ -1,0 +1,4 @@
+# § 11. Godkjenning
+For at en luftfartsoperatør skal anses å ha oppfylt kravene i denne forskriften, må det foreligge en godkjenning fra Luftfartstilsynet. Luftfartsoperatøren må søke om godkjenning til Luftfartstilsynet senest 3 måneder før oppstart av luftfartsoperasjoner på en kortbanelufthavn. Søknaden må inneholde en beskrivelse av planlagte luftfartsoperasjoner og rutenett. Det må vedlegges dokumentasjon som viser hvordan kravene i denne forskriften blir ivaretatt.
+Luftfartstilsynet skal utstede godkjenning dersom kravene i denne forskriften etter en konkret helhetsvurdering anses oppfylt.
+En godkjenning er gyldig så lenge det jevnlig utføres luftfartsoperasjoner på kortbanelufthavner. Godkjenningen bortfaller dersom luftfartsoperatøren ikke har utført noen luftfartsoperasjoner på kortbanelufthavner over en periode på seks måneder.
