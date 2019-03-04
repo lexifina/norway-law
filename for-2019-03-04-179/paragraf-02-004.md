@@ -1,0 +1,2 @@
+# § 2-4. Utvekslingsstudentar
+BAS tar opp utvekslingsstudentar gjennom bilaterale avtalar med einskildinstitusjonar i Europa og elles i verda. Rektor godkjenner utvekslingsavtalar mellom BAS og andre universitet og høgskular. Talet på utvekslingsplassar vert regulert i høve til BAS sin kapasitet og inngåtte avtalar. Utvekslingsstudentar følger ordinære kurs 1-2 semester, men får ikkje avleggje diplomeksamen. Innkomande utvekslingsstudentar betaler ikkje studieavgift til BAS.

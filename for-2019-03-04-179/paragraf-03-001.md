@@ -1,0 +1,2 @@
+# § 3-1. Studieplan
+Studieplanen ligg til grunn for masterstudiet og inneheld målsetjing og organisering av studiet med skildring av dei ulike fagområda. Styret vedtar studieplan for studietilbod ved eventuelt etablering av nytt studietilbod som skal godkjennast av NOKUT. Studiekvalitetsutvalet (SKU) vedtar endringar i studieplanen så framt desse ikkje medfører vesentlege endringar i studiets målsetjing, innhald og ressursrammer. SKU skal rådføre seg med lærarråd.
