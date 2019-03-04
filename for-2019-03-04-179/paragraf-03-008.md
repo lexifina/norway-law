@@ -1,0 +1,2 @@
+# § 3-8. Studiegjennomføring
+Master i arkitektur er organisert i 2 avdelingar. 1. avdeling omfattar 1.–3. studieår og består av kurs som naturleg byggjer på kvarandre. Alle kurs i 1. avdeling er obligatoriske. 2. avdeling omfattar 4. og 5. studieår, der studenten kan velje mellom dei semesterkursa BAS tilbyr. Studenten må bestå 3 kurs før han/ho kan starte på diplomsemesteret. Studenten vel ein sjølvformulert oppgåve på diplom.

@@ -1,0 +1,2 @@
+# § 4-6. Utsatt eksamen/innlevering
+Det er høve til å søkje om utsatt innlevering/eksamen på grunnlag av dokumentert sjukdom, annan tvingande fråværegrunn eller supplering. Studenten får jobbe vidare utover ordinær frist/eksamen. Det vil vere individuell saksbehandling i kvart einskild tilfelle etter søknad. Dersom utsatt eksamen/innlevering vert innvilga, vil sensurering skje på seinare fastsatt tidspunkt.

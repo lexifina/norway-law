@@ -1,0 +1,2 @@
+# § 3-5. Utdanningsplan
+Alle studentar som vert tatt opp til eit studie på 60 studiepoeng eller meir skal ha ein utdanningsplan, ref. lov om universiteter og høyskoler § 4-2. Utdanningsplanen er ein gjensidig avtale mellom studenten og BAS om plikter og ansvar begge partar har for studenten sitt studie samt plikter og ansvar studenten har overfor sine medstudentar. Utdanningsplanen gir innhaldet og progresjonen i studenten si planlagde utdanning.

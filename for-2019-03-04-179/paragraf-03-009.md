@@ -1,0 +1,4 @@
+# § 3-9. Godskriving og fritak
+(1) Student ved BAS som dokumenterer utdanning frå annan akkreditert utdanningsinstitusjon, skal i medhald av lov om universiteter og høyskoler § 3-5 godskrivast i den grad utdanninga oppfyller same faglege krav og innhald som det, eller dei kursa det vert søkt godskriving av.
+(2) Ein student kan i medhald av lov om universiteter og høyskoler § 3-5, 2. ledd få fritak for eitt eller fleire kurs ved BAS. For at søknad om fritak skal kunne innvilgast, må søkjars realkompetanse, eller utdanning, vurderast som likeverdig med læringsutbytet fastsett for kurset det vert søkt fritak frå. Fritak på bakgrunn av utdanning som ledd i utveksling, er som hovudregel berre muleg i 2. avdeling. Det er eit vilkår at studenten har betalt studieavgift til BAS under utvekslingsopphaldet.
+(3) For å oppnå graden Master i arkitektur, er det eit vilkår at minst 90 studiepoeng er avlagt ved BAS.
