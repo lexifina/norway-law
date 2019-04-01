@@ -4,6 +4,7 @@ a) finansforetaket ikke har begynt sin virksomhet innen ett år fra den dag till
 b) styret eller andre organer i foretaket har gjort seg skyldig i grov eller vedvarende overtredelse av plikter gitt i eller i medhold av lov, eller i henhold til konsesjonsvilkår eller vedtekter,
 c) styremedlemmer, daglig leder eller annen person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter § 3-5 ikke lenger er oppfylt, herunder at personer i styret eller ledelsen slutter i løpet av det første hele driftsår etter at virksomheten er satt i gang,
 d) eierforholdene i foretaket er endret ved erverv i strid med reglene i kapittel 6,
-e) foretaket ikke oppfyller kapitalkrav fastsatt i eller i medhold av denne loven, eller unnlater å etterkomme pålegg av Finanstilsynet.
+e) foretaket ikke oppfyller kapitalkrav fastsatt i eller i medhold av denne loven, eller unnlater å etterkomme pålegg av Finanstilsynet,
+f) foretaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet.
 (2) Tilbakekalles tillatelsen, skal foretaket og dets virksomhet avvikles etter reglene i kapittel 12 avsnitt II. Departementet kan gjøre unntak fra plikten til å avvikle foretaket slik at deler av virksomheten kan videreføres.
 (3) Tilbakekalles tillatelsen til et finansforetak med hovedsete her i riket som også driver virksomhet i fremmed stat, skal Finanstilsynet underrette tilsynsmyndighetene i vertsstaten.
