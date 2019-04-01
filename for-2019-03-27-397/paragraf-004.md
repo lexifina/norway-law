@@ -1,0 +1,3 @@
+# § 4. Hygienekrav ved produksjon av næringsmidler fra sjøpattedyr
+I tillegg til kravene i forskrift 22. desember 2008 nr. 1623 om næringsmiddelhygiene gjøres kravene i forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse § 1, avgrenset til forordning (EF) nr. 853/2004 vedlegg III avsnitt VIII om fiskerivarer, tilsvarende gjeldende for fangst og produksjon av sjøpattedyr.
+Driftsansvarlig skal i samsvar med forskrift 15. desember 1994 nr. 1187 om internkontroll for å oppfylle næringsmiddellovgivningen utarbeide rutiner som sikrer at produksjonen kan skje i samsvar med de relevante kravene i næringsmiddelregelverket.
