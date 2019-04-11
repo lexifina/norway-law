@@ -1,0 +1,2 @@
+# § 15. Adopsjon av barn som søker har tilknytning til etter adopsjonsloven § 21
+Dersom en søknad om forhåndssamtykke gjelder et bestemt barn som søker har tilknytning til, skal barnets navn, fødselsdato og fødeland gå fram av forhåndssamtykket. Dersom Barne-, ungdoms- og familieetaten region øst vurderer at barnet har behov for spesiell støtte, skal Barne-, ungdoms- og familiedirektoratet innhente en uttalelse fra det faglig rådgivende utvalget for adopsjonssaker før forhåndssamtykke gis. Det skal legges stor vekt på uttalelsen.

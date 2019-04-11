@@ -1,0 +1,4 @@
+# § 28. Overgangsregler til adopsjonsloven
+Forslag om tildelinger av barn fra utlandet som mottas etter 1. juli 2018, behandles etter reglene i lov 16. juni 2017 nr. 48 om adopsjon, selv om tildelingen bygger på forhåndssamtykke etter lov 28. februar 1986 nr. 8 om adopsjon. Også nasjonal spedbarnsadopsjon som ikke er innvilget før 1. juli 2018, behandles etter reglene i lov 16. juni 2017 nr. 48 om adopsjon.
+For organisasjoner som driver adopsjonsformidling på grunnlag av formidlingstillatelse gitt før 1. juli 2018, gjelder kravet til driftstillatelse etter adopsjonsloven § 31 først fra 1. oktober 2019. For å få vurdert driftstillatelse innen 1. oktober 2019, skal Barne-, ungdoms- og familiedirektoratet ha mottatt søknaden innen 1. juni 2019.
+En formidlingstillatelse gitt før 1. juli 2018 gjelder til den utløper, men bortfaller dersom organisasjonen ikke får driftstillatelse etter adopsjonsloven § 31.

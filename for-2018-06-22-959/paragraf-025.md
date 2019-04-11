@@ -1,0 +1,4 @@
+# § 25. Formidlingsplikt
+En adopsjonsorganisasjon med formidlingstillatelse skal gi alle søkere nødvendig veiledning og bistand. Den informasjonen som organisasjonen gir, skal være kunnskapsbasert og i samsvar med norsk og utenlandsk rett.
+Organisasjonen skal formidle adopsjon til søkere som har forhåndssamtykke fra Barne-, ungdoms- og familieetatens regionkontor og som fyller vilkårene i et land som organisasjonen formidler adopsjoner fra. Dette gjelder likevel ikke dersom utenlandske myndigheter ikke finner å kunne tildele en søker barn.
+Organisasjonen plikter ikke å formidle adopsjon dersom søker misligholder sine økonomiske forpliktelser overfor organisasjonen. Organisasjonen skal i slike tilfeller gi søker skriftlig og begrunnet informasjon om beslutningen. Kopi av beslutningen skal sendes til Bufdir.

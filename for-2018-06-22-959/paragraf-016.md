@@ -1,0 +1,4 @@
+# § 16. Utvalgets oppgaver
+Det faglig rådgivende utvalget for adopsjonssaker skal på forespørsel fra Barne-, ungdoms- og familiedirektoratet uttale seg om valget av adoptivforeldre til barnet ved nasjonal adopsjon av spedbarn og ved tildeling av barn fra utlandet med behov for spesiell støtte, se § 10, § 14 og § 15 og adopsjonsloven § 14 og § 22. Utvalget skal vurdere om søker har de nødvendige egenskapene for å adoptere barnet. Utvalget skal legge avgjørende vekt på å sikre barnet en trygg oppvekst slik at adopsjonen blir til barnets beste.
+Utvalget skal gi en skriftlig og faglig begrunnet uttalelse. Det skal gå frem av uttalelsen hvilke vurderinger utvalget har gjort og om utvalget har vært i tvil.
+Når Bufdir ber om det, skal utvalget eller medlemmer av utvalget uttale seg i andre enkeltsaker og i prinsipielle spørsmål.
