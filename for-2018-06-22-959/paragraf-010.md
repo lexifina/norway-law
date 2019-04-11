@@ -1,0 +1,3 @@
+# § 10. Valg av adoptivforeldre etter adopsjonsloven § 14
+Når foreldrene har samtykket til eller uttalt seg om adopsjon av barnet, se adopsjonsloven § 10, innhentes en uttalelse fra det faglig rådgivende utvalget for adopsjonssaker om Barne-, ungdoms- og familiedirektoratets valg av adoptivforeldre til barnet, se adopsjonsloven § 14 andre ledd.
+Det faglig rådgivende utvalget for adopsjonssaker skal ut fra § 1 og opplysningene i saken gi råd om hvilke søkere som har best forutsetninger for å ivareta barnets behov. Utvalget skal også legge vekt på de opprinnelige foreldrenes ønsker for barnet og ta hensyn til barnets etniske, religiøse, kulturelle og språklige bakgrunn.

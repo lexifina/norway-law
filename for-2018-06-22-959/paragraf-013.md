@@ -1,0 +1,4 @@
+# § 13. Forhåndssamtykkets varighet
+Et forhåndssamtykke gjelder i 3 år. Fyller søkeren fortsatt vilkårene i § 1 og § 3 for adopsjon, kan Barne-, ungdoms- og familieetatens regionkontor forlenge forhåndssamtykket med 2 år én gang.
+En søknad om forlengelse skal sendes Bufetat senest 3 måneder før forhåndssamtykket utløper. Søknaden skal inneholde ny egenerklæring, legeerklæring, politiattest og utskrift av det siste grunnlaget for skatt som fyller kravene i § 3 andre ledd. Bufetat kan innhente tilleggsopplysninger og uttalelser etter reglene i § 5.
+Dersom søker har fått et konkret forslag om tildeling fra landet søkeren kan adoptere fra, og adopsjonsprosessen er inne i en avsluttende fase, kan Bufetat forlenge forhåndssamtykket selv om søker tidligere har fått forlenget forhåndssamtykket med 2 år.
