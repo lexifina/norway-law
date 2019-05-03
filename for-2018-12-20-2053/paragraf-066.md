@@ -1,0 +1,2 @@
+# § 66. Virksomhetenes rett til innsyn
+Virksomheter som er tilknyttet det digitale varslingssystemet, har rett til innsyn i hvordan tekniske komponenter og programvare som benyttes til å overvåke nettverkstrafikk og redusere sårbarhet, er konfigurert. Disse virksomhetene har også rett til innsyn i hvilke data Nasjonal sikkerhetsmyndighet mottar fra virksomheten gjennom det digitale varslingssystemet, og hvordan disse behandles.

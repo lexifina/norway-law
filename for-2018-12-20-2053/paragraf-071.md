@@ -1,0 +1,2 @@
+# § 71. Tilgang uten autorisasjon
+En person kan gis tilgang til skjermingsverdig informasjon, skjermingsverdige objekter eller skjermingsverdig infrastruktur uten å være autorisert eller klarert, dersom vilkårene i straffeloven § 17 om nødrett er oppfylt. En virksomhet som gir en slik tilgang, skal uten ugrunnet opphold varsle klareringsmyndigheten og Nasjonal sikkerhetsmyndighet om hvilke personer dette gjelder, og hvilket graderings- eller klassifikasjonsnivå personen har fått tilgang til.

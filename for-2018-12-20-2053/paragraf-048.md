@@ -1,0 +1,2 @@
+# § 48. Bruk av tredjepart til å utføre tekniske sikkerhetsundersøkelser
+Nasjonal sikkerhetsmyndighet kan la andre virksomheter utføre tekniske sikkerhetsundersøkelser. Virksomhetene skal være leverandørklarert og ha personell med nødvendig klarering og kompetanse til å utføre slike undersøkelser. Nasjonal sikkerhetsmyndighet skal inngå en avtale med den aktuelle virksomheten om hvordan de tekniske sikkerhetsundersøkelsene skal gjennomføres.

@@ -1,0 +1,2 @@
+# § 36. Pakking av informasjon gradert KONFIDENSIELT eller høyere
+Når informasjon som er gradert KONFIDENSIELT eller høyere, skal sendes fysisk, skal emballasjen være dobbel, ugjennomsiktig og av solid kvalitet. Emballasjen skal ikke kunne åpnes uten at det er sporbart. Den ytre emballasjen skal ikke vise at sendingen inneholder sikkerhetsgradert informasjon. Den indre emballasjen skal forsegles og merkes med sikkerhetsgrad.

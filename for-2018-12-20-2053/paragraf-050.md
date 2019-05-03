@@ -1,0 +1,3 @@
+# § 50. Plikt til å sørge for godkjenning av skjermingsverdige informasjonssystemer
+Når en virksomhet har besluttet å utvikle et skjermingsverdig informasjonssystem, skal den informere Nasjonal sikkerhetsmyndighet. Informasjonsplikten gjelder ikke dersom det ut fra § 51 er åpenbart at Nasjonal sikkerhetsmyndighet ikke trenger å godkjenne systemet.
+En virksomhet skal sørge for at informasjonssystemer som skal behandle sikkerhetsgradert informasjon, er godkjent før de tas i bruk. Andre skjermingsverdige informasjonssystemer skal godkjennes så snart det er praktisk mulig. Virksomheten skal dekke kostnadene med godkjenningen.

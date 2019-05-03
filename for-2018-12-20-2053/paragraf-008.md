@@ -1,0 +1,3 @@
+# § 8. Tiltak ved sikkerhetstruende virksomhet, avvik og kompromittering av sikkerhetsgradert informasjon
+Ved sikkerhetstruende virksomhet eller avvik fra styringssystemet for sikkerhet skal en virksomhet gjennomføre umiddelbare tiltak for å redusere skadeomfanget og gjenopprette et forsvarlig sikkerhetsnivå. Det skal rapporteres om den sikkerhetstruende virksomheten eller avviket internt og til andre som kan bli berørt i stor grad. Virksomheten skal vurdere konsekvensene av den sikkerhetstruende virksomheten eller avviket.
+Hvis sikkerhetsgradert informasjon blir kjent for uautoriserte personer, skal virksomheten informere den som har tilvirket informasjonen, om hendelsen, i tillegg til å varsle etter sikkerhetsloven § 4-5.

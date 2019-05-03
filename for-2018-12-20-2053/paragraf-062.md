@@ -1,0 +1,3 @@
+# § 62. Bruk av tredjeparter til å utføre inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer
+Nasjonal sikkerhetsmyndighet kan la andre virksomheter utføre inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer etter § 61. Virksomhetene skal være leverandørklarert og ha personell med nødvendig klarering og kompetanse til å utføre slike undersøkelser.
+Nasjonal sikkerhetsmyndighet skal inngå avtale med virksomheter som nevnt i første ledd om hvordan testene og kontrollene skal gjennomføres.
