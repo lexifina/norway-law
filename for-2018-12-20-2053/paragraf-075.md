@@ -1,0 +1,2 @@
+# § 75. Begrunnelse og dokumentasjon ved forespørsel om klarering
+Når den autorisasjonsansvarlige ber om at det gjennomføres en sikkerhetsklarering, skal behovet for klareringen begrunnes og dokumenteres. Hvis begrunnelsen er at det foreligger en risiko for vilkårlig tilgang, skal den autorisasjonsansvarlige bekrefte at andre tiltak for å redusere risikoen ikke er tilstrekkelig til å fjerne behovet for klarering.

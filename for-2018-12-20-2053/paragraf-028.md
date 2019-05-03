@@ -1,0 +1,4 @@
+# § 28. Merking av dokumenter og lagringsmedier som inneholder sikkerhetsgradert informasjon
+Dokumenter og lagringsmedier skal merkes med den høyeste sikkerhetsgraden som gjelder for informasjon i dokumentet eller lagringsmediet, og med hvor lenge graderingen varer. Merkingen skal være lett synlig og lett kunne gjøres kjent for alle i og utenfor virksomheten som skal håndtere informasjonen.
+Dersom ikke all informasjon i et dokument eller et lagringsmedium har den samme sikkerhetsgraderingen, skal merkingen, så langt det er praktisk mulig, vise hvilke deler som har hvilken gradering eller ingen gradering.
+Dokumenter og lagringsmedier med informasjon som utleveres til en annen stat eller internasjonal organisasjon etter § 25, skal merkes med hvilken stat eller organisasjon utleveringen gjelder.

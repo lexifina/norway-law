@@ -1,0 +1,2 @@
+# § 37. Krav til oversikt over informasjon gradert KONFIDENSIELT eller høyere
+En virksomhet skal ha en oversikt over hvor dens egne dokumenter og lagringsmedier med informasjon som er gradert KONFIDENSIELT eller høyere, til enhver tid befinner seg. I tillegg skal virksomheten ha en oversikt over hvilke dokumenter og lagringsmedier med informasjon som er gradert KONFIDENSIELT eller høyere, som er mottatt fra eller sendt til andre virksomheter.

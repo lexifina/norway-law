@@ -1,0 +1,2 @@
+# § 31. Hvem som kan omgradere
+Informasjon med norsk sikkerhetsgradering kan omgraderes av virksomheten som har utstedt informasjonen, en overordnet virksomhet, det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet innenfor sektoren, og av Nasjonal sikkerhetsmyndighet. Informasjon med utenlandsk sikkerhetsgradering kan bare omgraderes av eller etter samtykke fra den staten eller organisasjonen som har utstedt informasjonen.

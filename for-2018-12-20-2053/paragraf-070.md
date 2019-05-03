@@ -1,0 +1,7 @@
+# § 70. Autorisasjon av utenlandske statsborgere
+Før en utenlandsk statsborger som ikke har klarering, kan autoriseres for informasjon gradert BEGRENSET, skal den autorisasjonsansvarlige vurdere om personens tilknytning til hjemlandet og hjemlandets sikkerhetsmessige betydning utgjør en uakseptabel risiko. Den autorisasjonsansvarlige kan be klareringsmyndigheten om en vurdering av hjemlandets sikkerhetsmessige betydning.
+Dersom en utenlandsk statsborger kommer fra en stat som Politiets sikkerhetstjeneste mener utgjør en høy sikkerhetsrisiko for Norge, må den autorisasjonsansvarlige innhente samtykke fra en klareringsmyndighet før den utenlandske statsborgeren kan autoriseres for BEGRENSET.
+Utenlandske statsborgere kan bare autoriseres for tilgang til informasjon sikkerhetsgradert av en fremmed stat dersom personen er borger av denne staten, eller dersom Nasjonal sikkerhetsmyndighet har innhentet tillatelse fra statens myndigheter.
+Utenlandske statsborgere kan bare autoriseres for tilgang til informasjon sikkerhetsgradert av en internasjonal organisasjon dersom staten personen er borger av, er medlem av organisasjonen, eller dersom Nasjonal sikkerhetsmyndighet har innhentet tillatelse fra organisasjonen.
+Den autorisasjonsansvarlige skal orientere Nasjonal sikkerhetsmyndighet om utenlandske statsborgere som autoriseres for BEGRENSET.
+Bestemmelsene i denne paragrafen gjelder også for personer som har dobbelt statsborgerskap, er statsløse eller har uavklart statsborgerskap.

@@ -1,0 +1,3 @@
+# § 32. Plikt til å informere om behov for eller avgjørelse om omgradering
+Dersom en virksomhet som er omfattet av sikkerhetsloven, mottar informasjon og antar at en sikkerhetsgradering eller mangelen på en slik gradering er i strid med sikkerhetsloven § 5-3, skal utstederen informeres. Det samme gjelder dersom en autorisert person i en slik virksomhet mottar informasjon. Dersom det er uklart hvem som har utstedt informasjonen, eller utstederen ikke kan kontaktes, skal avsenderen av informasjonen informeres i stedet.
+En virksomhet som omgraderer informasjon, skal informere alle som har mottatt informasjonen.
