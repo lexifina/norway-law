@@ -1,0 +1,10 @@
+# § 4. Transport av gods i lasterom
+(1) Ved stuing av gods i lasterom skal bestemmelsene om lasterommets maksimale vektkapasitet og tillatte flatebelastning overholdes. Ethvert lasterom skal ha et skilt med tekst som angir lastningsbegrensningene.
+(2) All utrustning som brukes til surring av gods i lasterom i tunge luftfartøy slik som beslag, kroker, tauverk, nett o.l. skal med hensyn til dimensjoner og styrke tåle de maksimale treghetskrefter som luftfartøyet er sertifisert for. Dersom ikke annet er angitt, gjelder følgende minimumskrav:
+a) Når lasterommet ligger slik at løst gods vil kunne skade besetningsmedlemmer eller passasjerer når luftfartøyet utsettes for akselerasjon eller retardasjon, skal utrustningen tåle:KraftretningBruddstyrke minst likFlyHelikopterFremover9 ganger lastens vekt4 ganger lastens vektNedover4,5 ganger lastens vekt4 ganger lastens vektOppover2 ganger lastens vekt1,5 ganger lastens vektBakover og tverrskips4,5 ganger lastens vekt4 ganger lastens vekt
+b) Når lasterommet ligger slik at risiko som nevnt i bokstav a ikke foreligger, skal utrustningen tåle:KraftretningBruddstyrke minst likSamtlige nevnt under bokstav a1,5 ganger lastens vekt
+(3) For andre luftfartøy enn tunge luftfartøy, skal utrustning som brukes til surring av gods i lasterom ha slik styrke at medført gods ikke utgjør en fare for besetningens og passasjerenes sikkerhet.
+(4) For tunge luftfartøy skal det foreligge en instruks for stuing, støtting og surring av gods i lasterom, som angir de typer separasjonsnett og festeanordninger som skal anvendes og deres bruksanvisning. Bruddstyrken for både faste og løse deler i festeutstyret skal fremgå av instruksen.
+(5) For lasterom som tilfredsstiller kravet i annet ledd, bokstav b, kan det fastsettes en kollivekt når det brukes separasjonsnett. Kompaktstuing eller surring er i så fall ikke nødvendig.
+(6) Operatør av luftfartøy utstyrt for transport av gods på paller, skal ha instrukser som spesielt dekker denne form for fraktflyging. Det skal legges særlig vekt på ansvaret for og kontroll med låsing av pallene.
+(7) Med transport av gods i lasterom, skal også forstås transport av bagasje i bagasjerom.

@@ -1,0 +1,4 @@
+# § 2. Virkeområde
+(1) Denne forskriften gjelder for luftfart med norsk luftfartøy. Forskriften gjelder likevel ikke luftfart som reguleres av forordning (EU) nr. 965/2012 som gjennomført ved forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner, forordning (EU) 2018/395 som gjennomført ved forskrift 7. juni 2018 nr. 836 om luftfart med ballong, eller forordning (EU) 2018/1976 som gjennomført ved forskrift 15. mai 2019 nr. 663 om luftfart med seilfly.
+(2) Forskriften gjelder også for bruk av utenlandskregistrerte luftfartøy, som opereres av en norsk operatør.
+(3) Forskriften får anvendelse utenfor norsk område når det er forenlig med fremmed rett som skal få anvendelse i henhold til overenskomst med fremmed stat eller for øvrig ut fra alminnelige rettsgrunnsetninger, jf. luftfartsloven § 1-2.
