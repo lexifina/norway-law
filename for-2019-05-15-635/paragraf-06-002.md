@@ -1,0 +1,2 @@
+# § 6-2. Tilknytningskrav for utstedelse av vitnemål
+For at Astrologiskolen Herkules skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må minst 30 av studiepoengene som skal inngå i beregningsgrunnlaget, være avlagt ved fagskolen. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.
