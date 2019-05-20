@@ -1,0 +1,3 @@
+# § 2-3. Opptak på grunnlag av utenlandsk utdanning
+(1) Søkere fra land i Norden. Søkere med fullført videregående opplæring fra de nordiske landene kvalifiserer for opptak når den videregående opplæringen i de respektive landene gir generelt opptaksgrunnlag til tertiærutdanning som tilsvarer kravene til fagskoleutdanning i Norge. Søkere fra nordiske land får sin kompetanse realkompetansevurdert av skolen.
+(2) Søkere fra land utenfor Norden må dokumentere opplæring og praksis ved bruk av autorisert translatør. De må ha likeverdig formell kompetanse eller realkompetanse. Den faglige opplæringen må gi relevant opptaksgrunnlag til tertiærutdanning tilsvarende kravene til fagskoleutdanning i Norge.
