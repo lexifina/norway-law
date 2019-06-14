@@ -1,0 +1,3 @@
+# § 3-2. Fravær og permisjon
+[Søkere som følger obligatorisk undervisning og som har ulegitimert fravær på mer enn 20 skoledager per semester, kan miste retten til støtte. Søkere som har fullstendig studiepermisjon i mer enn seks uker, får ikke støtte i permisjonstiden.]
+Det gjelder egne regler om permisjon eller fravær for søkere som får barn og som har rett til foreldrestipend etter kapittel 39, og for søkere som har rett til sykestipend etter kapittel 40. Søkere som tar permisjon fra utdanningen på grunn av fødsel, har ikke rett til støtte utover perioden det kan gis foreldrestipend etter § 39-3.

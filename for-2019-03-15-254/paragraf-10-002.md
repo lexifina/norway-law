@@ -1,0 +1,2 @@
+# § 10-2. Søkere som bor i institusjon eller avtjener førstegangstjeneste
+Søkere som bor i institusjon og får oppholdet dekket av det offentlige, får ikke utdanningsstøtte fra Lånekassen. Dette gjelder også søkere som avtjener førstegangstjeneste. Søkere med rett til videregående opplæring etter opplæringslova § 3-1 som bor i institusjon, kan likevel få utstyrsstipend etter § 16-1 når utgifter til individuelt utstyr ikke dekkes av fylkeskommunen eller andre offentlige ordninger.

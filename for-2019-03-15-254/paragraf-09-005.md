@@ -1,0 +1,4 @@
+# § 9-5. Støtte ved avbrutt utdanning i undervisningsåret
+Søkere som avbryter en utdanning før støtten er utbetalt, kan få støtte fram til avbruddet dersom utdanningen har vart i minst tre måneder. Søkere som avbryter utdanningen etter at støtten er utbetalt, kan beholde den støtten som er gitt for tiden fram til avbruddet. Se § 12-3 og § 13-1.
+Dersom utdanningen har vart i minst tre måneder, og søkeren har betalt skolepenger som lærestedet ikke refunderer, kan søkeren beholde eller få utbetalt skolepenger for hele halvåret. Dersom søkeren har reist til lærestedet, og utdanningen har vart i minst tre måneder, kan søkeren beholde eller få utbetalt støtte til reiser for hele halvåret.
+Dersom utdanningen har vart i minst tre måneder, kan søkeren beholde eller få utbetalt rekrutteringsstipend etter § 38-2.

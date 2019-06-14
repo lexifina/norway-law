@@ -1,0 +1,2 @@
+# § 36-1. Utregning av støttebeløpet
+Støttebeløpene blir regnet ut etter reglene i andre eller tredje del, avhengig av hvilken utdanning søkeren tar. Det gjelder egne regler for dekning av skolepenger og reiser, se kapittel 37 og 38. Det gjelder egne regler for stipend til delvis dekning av skolepenger for elever som mottar støtte til videregående opplæring i utlandet etter § 33-6 til § 33-9, se kapittel 42.

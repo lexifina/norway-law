@@ -1,0 +1,2 @@
+# § 4-2. Norske studiesentre og institutter i York, Caen, Kiel, Aten, Roma og St. Petersburg
+Det gis støtte til kurs ved de norske studiesentrene og instituttene i York, Caen, Kiel, Aten, Roma og St. Petersburg. Det er en forutsetning at kurset er godkjent som en del av en høyere utdanning som søkeren har begynt på i Norge. Støtte gis også til årskurs som er spesielt rettet mot læreryrket. Støtte til kurs som varer kortere enn fire uker, gis etter tredje del. Støtte til kurs som varer minst fire uker, gis etter fjerde del.

@@ -1,0 +1,2 @@
+# § 6-4. Begrensning ved nettstudier og fjernundervisning
+Det gis ikke støtte til utdanning som tilbys av læresteder i andre nordiske land når hele eller deler av studiet er lagt opp som nettstudium eller andre former for fjernundervisning/samlingsbasert studium. Det kan likevel bli gitt lån til skolepenger etter § 30-1 til utdanning på nivå med høyere utdanning i Norge som er tilrettelagt som et rent nettstudium. Se § 3-1, § 4-1 bokstav t og § 7-5.

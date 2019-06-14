@@ -1,0 +1,3 @@
+# § 29-4. Behovsprøving av forsørgerstipend mot ektefelles person- og kapitalinntekt
+Forsørgerstipendet til gifte søkere blir redusert med fem prosent per måned av ektefellens person- og kapitalinntekt over kr 411 968 ved fastsettingen av formues- og inntektsskatt for 2019 og kr 425 357 ved fastsettingen for 2020. Renteinntekter fra boligsparing for ungdom (BSU) skal ikke regnes med.
+Ved behovsprøvingen legger Lånekassen til grunn den sivilstanden som kan utledes av folkeregisteret ved mottak av søknad om støtte. Se også § 3-4. Dersom søkerens sivilstand endres i løpet av undervisningsåret, må søkeren gi melding om dette til Lånekassen. Se også § 12-1.

@@ -1,0 +1,2 @@
+# § 2-6. Egen støtteordning for statsborger fra utviklingsland, landene på Vest-Balkan, land i Øst-Europa og Sentral-Asia (kvoteordningen)
+Statsborger over 18 år fra utviklingsland, landene på Vest-Balkan, land i Øst-Europa og Sentral-Asia som er tatt opp ved høyskole eller universitet i Norge på de vilkårene som Kunnskapsdepartementet har fastsatt for kvoteordningen, kan få støtte. Se sjette del.

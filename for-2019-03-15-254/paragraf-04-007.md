@@ -1,0 +1,2 @@
+# § 4-7. Grunnutdanning som yrkessjåfør
+Søkere som tar komprimert grunnutdanning som yrkessjåfør ved trafikkskoler i Norge som er godkjent av Statens vegvesen, får fulltidsstøtte i fem uker. Med komprimert grunnutdanning menes kurs på 140 timer. Det gis fulltidsstøtte i ytterligere en uke til nødvendig førerkortopplæring i klasse C, CE eller D dersom førerkortet tas i sammenheng med grunnutdanningen.

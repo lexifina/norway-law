@@ -1,0 +1,4 @@
+# § 43-1. Vilkår for stipend til søkere med nedsatt funksjonsevne (ekstrastipend)
+Søkere som på grunn av nedsatt funksjonsevne ikke kan ha lønnet arbeid i tillegg til utdanning som er omfattet av forskriftens tredje del, gis et stipend på kr 3 763 per måned i tillegg til basisstøtten. Den nedsatte funksjonsevnen skal påvirke studiesituasjonen til søkeren i betydelig grad, slik at lønnet arbeid i tillegg til utdanningen fører til at søkeren ikke kan opprettholde normal studieprogresjon. Det er en forutsetning at søkeren er i stand til å studere og er studieaktiv i søknadsperioden. Se § 3-2. Stipendet kan bli gitt i tolv måneder per undervisningsår. Se § 8-10.
+Dersom søkeren likevel har lønnet arbeid i tillegg til utdanningen, faller stipendet bort.
+Stipendet blir behovsprøvd etter reglene i kapittel 29.
