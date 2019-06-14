@@ -1,0 +1,2 @@
+# § 3. Utvekslingsorganisasjoner
+Foreninger, stiftelser og selskap som er registrert i Enhetsregisteret, som har fysisk kontor i Norge og som tilbyr utvekslingsopphold i utlandet for elever i videregående skole, kan godkjennes for utdanningsstøtte når virksomheten på en forsvarlig måte ivaretar de pliktene og det ansvaret som følger av § 4–§ 8. Departementet eller den departementet utpeker, bestemmer hvilke utvekslingsorganisasjoner som skal godkjennes for utdanningsstøtte.

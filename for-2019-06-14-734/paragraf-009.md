@@ -1,0 +1,3 @@
+# § 9. Videreføring og tilbaketrekking av godkjenning
+Vedtak om godkjenning gjelder for ett år av gangen. Videreføring av godkjenning vedtas på bakgrunn av årlig rapportering i § 8.
+Departementet, eller den departementet utpeker, kan trekke tilbake godkjenning i tilfeller hvor det foreligger vesentlige eller gjentatte brudd på vilkårene i § 4–§ 8. I vurderingen av et brudds vesentlighet skal det særlig legges vekt på i hvilken grad bruddet innebar risiko for svekket elevsikkerhet, hvordan organisasjonen håndterte situasjonen, og hva organisasjonen gjør for å unngå tilsvarende brudd i fremtiden.
