@@ -1,0 +1,2 @@
+# § 37-5. Støtte fra andre til skolepenger
+For søkere som mottar ytelser fra andre til skolepenger, blir støtten til skolepenger redusert dersom samlet støtte til skolepenger overskrider faktiske skolepenger. Reduksjonen skjer i denne rekkefølgen: tilleggslånet til skolepenger etter § 37-4, lånedelen av skolepengestøtten etter § 37-2, tilleggsstipendet etter § 37-3 og stipenddelen av skolepengestøtten etter § 37-2.

@@ -1,0 +1,3 @@
+# § 42-1. Stipend til delvis dekning av skolepenger til videregående opplæring ved utenlandske eller internasjonale skoler
+Til videregående opplæring ved utenlandske eller internasjonale skoler i Norge eller i utlandet gis det stipend til delvis dekning av skolepenger når søkeren har rett til videregående opplæring etter opplæringslova § 3-1. Stipendet blir gitt med 85 prosent av skolepengene. Maksimalt stipend for 2019-2020 er kr 94 817 per undervisningsår.
+Det gis stipend bare til skolepenger som søkeren faktisk betaler. Stipendet blir redusert når tilskudd til skolepenger fra andre fører til at samlet støtte til skolepenger overskrider beløpet søkeren skal betale i skolepenger.

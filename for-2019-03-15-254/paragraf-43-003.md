@@ -1,0 +1,2 @@
+# § 43-3. Stipend ved forsinkelse ut over grensen i § 9-2
+Søkere som har rett til støtte etter forskriftens tredje del til forsinkelse ut over grensen i § 9-2 på grunn av dokumentert funksjonshemming i studiesituasjonen etter § 9-3, får basisstøtten som stipend. Det er en forutsetning at søkeren ikke mottar trygde- og pensjonsytelser som er ment å dekke livsopphold. Stipendet behovsprøves ikke etter kapittel 29.

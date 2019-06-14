@@ -1,0 +1,3 @@
+# § 9-3. Støtte ved forsinkelse ut over grensen i § 9-2
+Ved forsinkelse ut over 60 studiepoeng eller tilsvarende, eller i mer enn ett år, kan Lånekassen i særlige tilfeller gi støtte. Dette gjelder blant annet søkere som er forsinket på grunn av sykdom, på grunn av at han eller hun har fått barn i utdanningsperioden, eller på grunn av funksjonshemming.
+Med funksjonshemming menes at søkeren har nedsatt funksjonsevne, og er funksjonshemmet i studiesituasjonen fordi læringsmiljøet eller studiesituasjonen ved lærestedet ikke er tilpasset søkerens nedsatte funksjonsevne. Forholdet må dokumenteres. Se også § 43-3.

@@ -1,0 +1,5 @@
+# § 5-1. Delstudier i utlandet
+Det gis støtte til studieopphold i utlandet når oppholdet varer i minst fire uker og er en godkjent del av en høyere utdanning eller fagskoleutdanning som søkeren har begynt på i Norge eller i utlandet. For støtte til utdanning utenfor Norden blir søknaden behandlet etter reglene i fjerde del. Ved studieopphold i høyere utdanning ved et lærested, må utdanningen oppfylle kravene som er satt i § 33-1.
+For støtte til utdanning i Norden blir søknaden behandlet etter reglene i kapittel 6.
+Søkere som tar et studieopphold i utlandet på deltid, og som har begynt på en høyere utdanning eller fagskoleutdanning i Norge, får støtte etter studiebelastningen i delstudieperioden.
+Søkere som tar et studieopphold i utlandet på minimum fire uker i perioden 16. juni til 15. august, har kun rett til reisestøtte i denne perioden. Reisestøtte kan også gis selv om mindre enn fire uker av studieoppholdet ligger innenfor undervisningsåret (16. august til 15. juni). Se kapittel 38.

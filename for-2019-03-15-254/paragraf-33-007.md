@@ -1,0 +1,2 @@
+# § 33-7. Samarbeidsprogram mellom norsk videregående skole og utenlandsk skole
+Det kan gis støtte til elever som tar videregående opplæring i land utenfor Norden dersom eleven er tatt opp i et godkjent samarbeidsprogram mellom norsk videregående skole og utenlandsk skole. Vilkårene for godkjenning av samarbeidsprogram framgår av forskrift om godkjenning for utdanningsstøtte av utvekslingsorganisasjoner og samarbeidsprogrammer mellom norsk videregående skole og utenlandsk skole.

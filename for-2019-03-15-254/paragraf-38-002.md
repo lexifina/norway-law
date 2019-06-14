@@ -1,0 +1,3 @@
+# § 38-2. Rekrutteringsstipend til spesielt tilrettelagte mastergradsutdanninger i ingeniør- eller økonomifag i Frankrike og Tyskland
+Det gis rekrutteringsstipend på kr 20 360 til søkere som tar mastergradsutdanning i ingeniørfag ved INSA Toulouse, Frankrike under NORGINSA-programmet. Stipendet gis også til søkere som tar mastergradsutdanning i ingeniør- eller økonomifag ved andre læresteder i Frankrike eller i Tyskland, dersom studieprogrammet er spesielt tilrettelagt for norske studenter og administrert av Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku).
+Stipendet gis i inntil tre år. For mastergradsutdanning som varer i mer enn tre år, gis stipendet i de tre første årene.

@@ -1,0 +1,2 @@
+# § 4-3. Norsk høyere utdanning eller fagskoleutdanning som tilbys i utlandet
+Når norsk lærested som har fått høyere utdanning eller fagskoleutdanning godkjent for støtte etter § 4-1, legger hele eller deler av utdanningen til utlandet, får deltakerne støtte etter de reglene og satsene som gjelder for studier i Norge. Dette gjelder også når norsk lærested er faglig ansvarlig for utdanning i utlandet som tilrettelegges av andre.

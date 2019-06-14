@@ -1,0 +1,2 @@
+# § 31-4. Rett til støtte til delstudier for annen utenlandsk statsborger
+Utenlandsk statsborger som har rett til støtte til utdanning i Norge etter § 2-2, kan få støtte i inntil ett år til utdanning i land utenfor Norden dersom utenlandsoppholdet er godkjent som del av en høyere utdanning som søkeren har begynt på i Norge, se § 5-1. Det samme gjelder deltakelse i oppleggene under § 33-7 til § 33-11.

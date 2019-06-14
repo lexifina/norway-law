@@ -1,0 +1,3 @@
+# § 7-2. Deltidsutdanning og undervisningsopplegg
+Det gis støtte til deltidsutdanning som omfatter minst 50 prosent av undervisningsopplegget i fulltidsutdanning. Videregående opplæring som søkeren tar med rett etter opplæringslova § 3-1, gir rett til støtte også når opplæringen omfatter mindre enn 50 prosent av undervisningsopplegget i fulltidsutdanning. Dette gjelder også grunnskoleopplæring som søkeren tar etter opplæringslova § 4A-1 andre ledd.
+Utdanning som ikke har akkreditering som høyere utdanning eller godkjenning som fagskoleutdanning, og som heller ikke følger offentlig godkjente læreplaner, må ha et undervisningsopplegg på minst ti undervisningstimer per uke. Når utdanningen tilbys komprimert, er kravet minst seks undervisningstimer per uke.
