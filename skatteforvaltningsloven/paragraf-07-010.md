@@ -6,5 +6,5 @@ c) selskaper, stiftelser og sammenslutninger som nevnt i skatteloven § 6-50, om
 d) boligselskap og boligsameier som omfattes av skatteloven §§ 7-3 og 7-11, om fordeling av inntekter, kostnader, formue og gjeld mellom andelshaverne eller sameierne
 e) den som selv eller gjennom andre har utbetalt vederlag for tjenester av teknisk, håndverksmessig, juridisk, regnskapsmessig eller annen art
 f) Enova om beløp som skal gis som avregningsfradrag for ENØK-tiltak på egen bolig
-g) den som selv eller gjennom andre har utbetalt honorar eller annen godtgjøring til opphavsmann til åndsverk.
+g) den som selv eller gjennom andre har utbetalt honorar eller annen godtgjøring til opphaver til åndsverk.
 (2) Opplysningsplikten etter første ledd bokstav e omfatter også vederlag for varer eller andre ytelser som er levert i forbindelse med slike tjenester.
