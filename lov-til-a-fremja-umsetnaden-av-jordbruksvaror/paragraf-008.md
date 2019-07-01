@@ -1,0 +1,2 @@
+# § 8
+Alle som det vert uppkravt avgift hjå, skal føra dei bøker og gjeva dei uppgåvone som departementet fastset. Departementet kan i særskilde høve gjeva påbod um uppgåveplikt ogso for dei som transporterer varone. Kan det ikkje etter dei uppgåvone og andre upplysningar som ligg fyre, fastsetjast sikkert kor stor avgiftssummen er, skal Omsetningsrådet etter sitt skyn fastsetja summen med endeleg verknad.
