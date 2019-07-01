@@ -1,0 +1,6 @@
+# § 17. Deling av søknader
+Omfatter søknaden mer enn én design, kan søkeren kreve søknaden delt i flere selvstendige søknader.
+Kravet om deling skal angi den opprinnelige søknadens nummer og hvilke av designene den opprinnelige og de nye søknadene skal omfatte. Søker skal levere nytt søknadsskjema og vedlegge bilder for hver ny søknad. Bestemmelsene i § 3 til § 5 gjelder tilsvarende. Det skal betales fastsatt gebyr for hver ny søknad. Ny søknad betegnes som avdelt søknad.
+Avdelt søknad må leveres før den opprinnelige søknaden er endelig avgjort. Avdelt søknad kan ikke omfatte design som ikke var omfattet av den opprinnelige søknaden før delingen. Avdelt søknad kan ikke omfatte samme design som den opprinnelige søknaden eller annen avdelt søknad.
+Krav om deling avslås hvis vilkårene i første til tredje ledd ikke er oppfylt. Designloven § 19 gjelder tilsvarende.
+Gjennomføres deling, gis søkeren melding om dette med opplysning om nummeret på den avdelte søknaden. Den opprinnelige søknaden beholder sitt søknadsnummer. Hver avdelt søknad gis nytt søknadsnummer. Avdelt søknad får samme leveringsdag som den opprinnelige søknaden, og den enkelte designen beholder sin opprinnelige prioritet. Dokumenter som ble levert i den opprinnelige søknaden frem til og med gjennomføringen av delingen, skal regnes som dokumenter i en avdelt søknad.

@@ -1,0 +1,7 @@
+# § 5. Bilder og modell
+Inntil sju bilder som tydelig viser designen, skal følge med søknaden ved leveringen. Med bilder menes fotografi, tegning eller annen grafisk fremstilling som er egnet til elektronisk opptak, lagring og gjengivelse. Tekniske tegninger godtas ikke. Et av bildenes lengde og bredde skal være minst 3 cm, men bildene må ikke være større enn A4-format. Hvert bilde skal ha en ramme som er minst 5 mm bred.
+Bildene skal kun vise det produktet eller den delen av produktet som designen gjelder. Hvis designen ønskes registrert i farger, må bilder og modeller være i farger.
+Gjelder søknaden bevegelige design, kan Patentstyret kreve at det leveres en beskrivelse av designen og eventuelt en prøve av den lagret på et egnet medium.
+Omfatter søknaden mer enn en design, jf. designloven § 15, skal det leveres inn inntil sju separate bilder og eventuelt modell av hver design. Bilder skal være fortløpende nummerert, slik at det går klart frem hvilken design de gjelder. Leveres det flere bilder av hver design, skal det til hovednummeret knyttes et tilleggsnummer for hvert bilde (1.1, 1.2, 1.3 osv.).
+Hvis det anses nødvendig, kan Patentstyret kreve at søker leverer modell. Modellen må være av holdbart og ufarlig materiale og medregnet innpakning skal den ikke i noen retning overstige 30 cm eller veie mer enn 4 kg.
+Patentstyret kan fastsette nærmere krav til bildene og gi nærmere retningslinjer om oversendelsesmåter og lagringsformater mv.

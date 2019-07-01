@@ -1,0 +1,3 @@
+# § 30. Språkkrav og korrespondanseadresse etter registrering
+Dokumenter som gjelder designregistreringer, herunder dokument i sak om administrativ overprøving, overføring eller klage m.m., skal være på norsk, dansk eller svensk. Det samme gjelder for dokument som gjelder internasjonale registreringer fra andre enn Det internasjonale byrået, herunder for dokument i sak om fornyet vurdering etter § 37 annet ledd. Er et dokument på annet språk, kan Patentstyret kreve at det leveres en oversettelse til norsk innen en frist som Patentstyret fastsetter. Bestemmelsene i § 6 annet ledd annet punktum og tredje ledd gjelder tilsvarende.
+§ 3a gjelder tilsvarende for korrespondanse med innehaver av nasjonal eller internasjonal designregistrering.
