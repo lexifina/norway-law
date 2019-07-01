@@ -1,0 +1,6 @@
+# § 18. Deling av registreringer
+Omfatter en registrering mer enn én design, kan designhaveren kreve registreringen delt i flere selvstendige registreringer.
+Kravet om deling skal angi den opprinnelige registreringens nummer og hvilke av designene den opprinnelige og de nye registreringene skal omfatte. Det skal betales fastsatt gebyr for hver ny registrering. Ny registrering betegnes som avdelt registrering.
+Krav om deling må leveres før den opprinnelige registreringen er opphørt. Avdelt registrering kan ikke omfatte design som ikke var omfattet av den opprinnelige registreringen før delingen. Avdelt registrering kan ikke omfatte samme design som den opprinnelige registreringen eller annen avdelt registrering.
+Krav om deling avslås hvis vilkårene i første til tredje ledd ikke er oppfylt. Designloven § 19 gjelder tilsvarende.
+Gjennomføres deling, gis designhaveren melding om dette med opplysning om nummeret på den avdelte registreringen. Den opprinnelige registreringen beholder sitt nummer. Hver avdelt registrering gis nytt registreringsnummer. Avdelt registrering får samme leveringsdag som den opprinnelige registreringen, og den enkelte designen beholder sin opprinnelige prioritet. Dokumenter som ble levert i den opprinnelige registreringen frem til og med gjennomføringen av delingen, skal regnes som dokumenter i en avdelt registrering.

@@ -1,0 +1,6 @@
+# § 19. Sammenslåing av avdelte søknader og registreringer
+Søkeren kan kreve at Patentstyret slår sammen tidligere avdelte søknader, jf. § 17, som er levert til Patentstyret på samme dag hvis designene tilhører samme klasse etter Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design.
+Kravet skal angi søknadens nummer, nummeret på den søknaden den ønskes sammenslått med, og hvilke design den sammenslåtte søknaden skal omfatte. Ved krav om delvis sammenslåing skal søkeren angi hvilke design som skal inngå i søknaden som de overføres til. Det skal betales fastsatt gebyr. Krav om sammenslåing avslås hvis vilkårene i leddet her ikke er oppfylt. Designloven § 19 gjelder tilsvarende.
+Ved sammenslåing av tidligere avdelte søknader hvor den opprinnelige søknaden inngår, videreføres alltid den søknaden som har det opprinnelige søknadsnummeret.
+Gjennomføres hel eller delvis sammenslåing, gis søkeren melding om dette med opplysning om nummeret på den sammenslåtte søknaden.
+Innehaveren kan kreve at Patentstyret slår sammen tidligere avdelte registreringer, jf. § 18, når søknaden er levert til Patentstyret på samme dag hvis designene tilhører samme klasse etter Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design. Bestemmelsene i annet til fjerde ledd gjelder tilsvarende.
