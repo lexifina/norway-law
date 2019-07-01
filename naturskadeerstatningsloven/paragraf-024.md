@@ -1,0 +1,3 @@
+# § 24. Overgangsbestemmelser
+Naturskader som er meldt inn til lensmann, namsfogd eller politistasjon med sivile rettspleieoppgaver før lovens ikrafttredelse, oversendes Landbruksdirektoratet for videre behandling. Reglene i lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader legges til grunn for erstatningsvedtaket så langt de passer. Dersom rettskraftig lensmannsskjønn foreligger, legges dette til grunn for erstatningsvedtaket.
+Klagesaker som ikke er behandlet før lovens ikrafttredelse, behandles av Klagenemnda for naturskadesaker. Klagenemnda skal legge reglene i lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader til grunn for sitt vedtak så langt de passer.
