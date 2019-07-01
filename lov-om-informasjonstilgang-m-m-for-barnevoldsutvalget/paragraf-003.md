@@ -1,0 +1,3 @@
+# § 3. Taushetsplikt
+Medlemmene i utvalget og enhver som utfører tjeneste eller arbeid for utvalget, har taushetsplikt i medhold av forvaltningsloven § 13. Forvaltningsloven §§ 13 c og 13 f gjelder tilsvarende, likevel slik at taushetsplikten først bortfaller etter 100 år.
+Når personer som nevnt i første ledd mottar opplysninger som er undergitt strengere regler om taushetsplikt enn det som følger av forvaltningsloven, skal de strengere reglene gjelde. Tilsvarende gjelder dersom de nevnte personene mottar opplysninger som er undergitt taushetsplikt som først bortfaller på et senere tidspunkt enn det som følger av første ledd.
