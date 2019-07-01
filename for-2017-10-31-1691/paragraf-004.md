@@ -1,0 +1,2 @@
+# § 4. Finansforetaks frist for å gjøre gjeldsopplysninger tilgjengelige for gjeldsinformasjonsforetak
+Etter at et nedbetalingslån er registrert i finansforetakets reskontrosystem, en rammekreditt er gjort tilgjengelig for kunden eller det er registrert en saldo på et faktureringskort, skal finansforetaket uten ugrunnet opphold gjøre gjeldsopplysningene tilgjengelig for gjeldsinformasjonsforetak. Endringer i gjeldsopplysningene skal også gjøres tilgjengelig uten ugrunnet opphold.

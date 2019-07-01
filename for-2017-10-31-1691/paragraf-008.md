@@ -1,0 +1,2 @@
+# § 8. Krav til datasikkerhet, IKT-systemer mv.
+Gjeldsinformasjonsforetak, finansforetak og kredittopplysningsforetak skal sikre nødvendig konfidensialitet, integritet og tilgjengelighet for deres tjenester etter gjeldsinformasjonsloven. Gjeldende nasjonale standarder og internasjonalt anerkjente standarder skal følges. Forskrift 21. mai 2003 nr. 630 om bruk av informasjons- og kommunikasjonsteknologi (IKT) gjelder tilsvarende for gjeldsinformasjonsforetak og kredittopplysningsforetak.
