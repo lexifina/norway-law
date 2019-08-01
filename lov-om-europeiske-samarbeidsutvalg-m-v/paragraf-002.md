@@ -1,0 +1,4 @@
+# § 2. Allmenngjøring av bestemmelser i tariffavtale m.v.
+Kongen kan treffe vedtak om at bestemmelser i landsomfattende tariffavtale om europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer skal gjelde i alle arbeidsforhold. Vilkåret er at krav om slik allmenngjøring er framsatt av en arbeidstaker- eller arbeidsgiverorganisasjon som er part i avtalen og har innstillingsrett etter arbeidstvistloven § 39.
+Vedtak om allmenngjøring etter første ledd kan bare gjelde de deler av en tariffavtale som gjelder europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer. Bestemmelser som omfattes av slikt vedtak kan ikke fravikes til skade for arbeidstakerne.
+Innenfor rammen av bestemmelsene som Norge etter EØS-avtalen er forpliktet til å gjennomføre, kan Kongen fastsette utfyllende forskrift om gjennomføringen av arbeidstakernes og arbeidsgivernes rettigheter og plikter ved informasjon og konsultasjon i foretak og konserner som omfattes av vedtak etter loven her.

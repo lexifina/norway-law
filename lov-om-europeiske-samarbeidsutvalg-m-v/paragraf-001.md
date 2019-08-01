@@ -1,0 +1,2 @@
+# § 1. Lovens formål og virkeområde
+Lovens formål er å åpne adgang til å allmenngjøre bestemmelser i tariffavtale om europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer, for å bedre arbeidstakernes rett til informasjon og konsultasjon i foretak og konserner som driver virksomhet i flere EØS-stater. Kongen kan fastsette forskrift om hvilke arbeidsforhold som omfattes av loven her og vedtak som er truffet i medhold av loven.
