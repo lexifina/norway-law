@@ -1,0 +1,5 @@
+# § 3
+Avgiften innkreves av selgeren ved all omsetning av avgiftsbelagt kunst i forretninger, på separat- eller kollektive utstillinger og ved alle former for auksjon. Alle som offentlig omsetter avgiftsbelagt kunst er ansvarlig for rett innbetaling av avgiften. Det samme gjelder den som er personlig ansvarlig for omsetning av avgiftsbelagt kunst på utstillinger. De nevnte personer er også ansvarlig for rett innbetaling av avgift for offentlig omsetning som måtte finne sted ved konsulenter eller mellommenn.
+Ved erverv av kunstverk som nevnt i § 1 tredje ledd punkt 1 påligger det erververen å innbetale avgiften direkte til fondet. Det samme gjelder ved erverv av kunstverk som nevnt i § 1 tredje ledd punkt 2 der erververen er regnskapspliktig for ervervet, eller er et offentlig organ eller annen statlig, fylkeskommunal eller kommunal institusjon.
+Reglene i første ledd om ansvaret for rett innbetaling av avgiften gjelder tilsvarende for erververens ansvar når det etter annet ledd påligger erververen å innbetale avgiften.
+Avgiften er tvangsgrunnlag for utlegg hos enhver som er ansvarlig for den. Departementet gir nærmere regler for innkreving av avgiften.

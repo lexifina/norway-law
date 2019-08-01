@@ -1,0 +1,9 @@
+# § 1
+Ved all offentlig omsetning, og ved slike erverv som etter denne lov er likestilt med offentlig omsetning, av kunstverk av norsk eller fremmed opphav, skal kjøperen i tillegg til kjøpesummen betale en avgift på inntil 5 prosent av denne. Departementet fastsetter prosentsatsens størrelse.
+I de tilfeller der betaling skjer helt eller delvis i form av et annet kunstverk, skal avgift belastes begge kunstverkene, dersom tilsvarende salg mot kontanter hadde vært avgiftspliktig. Avgiftsbelastningen skal imidlertid ikke gjelde gaver. Departementet kan fastsette nærmere regler om hvilke kunstverk som går inn under avgiftsplikten og i hvilken utstrekning avgiftsplikten skal gjelde for omsetning med tilknytning til utlandet eller Svalbard.
+Likestilt med offentlig omsetning er etter denne lov:
+1) Ethvert erverv som skjer med sikte på offentlig visning i gallerier, museer eller tilsvarende. Salg direkte fra kunstner eller privatpersoner til museer som er åpne for publikum og ikke driver ervervsmessig, skal likevel ikke anses som offentlig omsetning, med mindre det i handelen deltar en formidler.
+2) Ethvert erverv direkte fra den kunstner som har skapt verket, når arbeidet er et utsmykkingsoppdrag, et bestillingsverk eller et konkurranseutkast, samt erverv ellers som sidestilles med offentlig omsetning.
+Avgiftspliktig etter denne lov er originaleksemplar av kunstverk som malerier, kollasjer, tegninger, stikk, trykk, litografier, skulpturer, billedtepper, keramikk, glasskunst og fotografiske verk. Som originaleksemplar regnes eksemplar av kunstverk som er utført i et begrenset antall av kunstneren selv eller med hans samtykke. Bestemmelsen gjelder ikke byggverk.
+Unntatt fra avgiften er omsetning av kunstverk hvor salgsprisen uten merverdiavgift ikke overstiger 2.000 kroner.
+Unntatt fra avgiftsplikten er omsetning som omfattes av åndsverkloven §§ 59, 60 og 61.
