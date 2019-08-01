@@ -1,0 +1,4 @@
+# § 1. Allmenngjøring av tariffavtaler
+Tariffavtale av 31. januar 2011 mellom LO og NHO om opprettelse av europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer (ESU-avtalen) skal gjelde i alle arbeidsforhold. ESU-avtalen gjelder likevel ikke for foretak eller konserner som er omfattet av informasjons- og konsultasjonsordninger som nevnt i § 11 i avtalen.
+For foretak eller konserner som er omfattet av ordninger som nevnt i § 11 andre ledd i ESU-avtalen, skal tariffavtale av 30. november 1995 mellom LO og NHO om opprettelse av europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer samt tariffavtale av 19. august 1999 mellom LO og NHO om justeringer i ovennevnte avtale (av partene kalt «justeringer i tilleggsavtale 10 til hovedavtalen») gjelde.
+Reglene om reforhandling i § 8 i ESU-avtalen, gjelder likevel for alle avtaler om europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer.
