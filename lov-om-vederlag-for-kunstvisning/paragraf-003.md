@@ -1,0 +1,2 @@
+# § 3. Fastsettelsen av vederlag.
+Vederlagssatsen for hver visningsenhet og antall verkseksemplarer som skal legges til grunn for beregningen av vederlaget, fastsettes ved avtale mellom staten og en felles sammenslutning som er godkjent av departementet, og som består av organisasjoner som representerer en vesentlig del av norske opphavere på området. Dersom det ikke oppnås enighet om avtale om vederlagssatser, kan hver av partene kreve mekling etter regler fastsatt av departementet.
