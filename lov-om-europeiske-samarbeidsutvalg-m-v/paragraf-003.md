@@ -1,0 +1,3 @@
+# § 3. Tvisteløsning m.v.
+Kongen kan bestemme at en særskilt nemnd skal ha myndighet til å avgjøre tvister som knytter seg til bestemmelser i loven her, eller vedtak truffet med hjemmel i loven, og tvister som knytter seg til avtaler om europeisk samarbeidsutvalg eller tilsvarende samarbeidsformer og som gjelder slike avtalers gyldighet, forståelse eller beståen eller krav som grunner seg på slike avtaler.
+Kongen kan gi forskrift om nemndas funksjon som tvisteløser, og herunder fastsette bestemmelser om nemndas sammensetning, saksbehandling, og kompetanse, samt bestemmelser om hvem som kan fremme saker for nemnda og på hvilken måte dette skal gjøres.
