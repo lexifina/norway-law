@@ -1,0 +1,22 @@
+# § 5-4. Vurdering av skikkethet (jf. fagskoleloven § 26)
+(1) Vurderingen av skikkethet skal gjennomføres for utdanningen Myoterapi. Skikkethetsvurderingen foregår gjennom hele utdanningen og skal avdekke om studenten har de nødvendige forutsetningene for å kunne utøve yrket. I tilfelle det er tvil om en student er skikket, skal det foretas en særskilt skikkethetsvurdering.
+(2) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+a) studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+b) studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+c) studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+d) studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(3) Styret selv oppnevner en skikkethetsnemnd som består av:
+a) faglig leder
+b) to faglærere
+c) to representanter fra praksisfeltet
+d) to studentrepresentanter
+e) en ekstern representant med juridisk embetseksamen.
+(4) Skikkethetsnemndas medlemmer oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder er nemndas leder og har dobbeltstemme.
+(5) Minst to tredjedeler av nemndas medlemmer skal være til stede ved saksbehandlingen.
+(6) Styret oppnevner en ansatt ved fagskolen som skikkethetsansvarlig for skikkethetsvurderingen samt en stedfortreder for skikkethetsansvarlig.
+(7) Skikkethetsansvarlige innstiller til skikkethetsnemnda.
+(8) I tilfelle det er tvil om en students skikkethet meldes dette skriftlig til skikkethetsansvarlig. Den som leverer tvilsmelding, regnes ikke som part i saken. Tvilsmeldinger som åpenbart er ugrunnet skal ikke behandles av skikkethetsansvarlig.
+(9) Studenten skal varsles skriftlig om at det foreligger begrunnet tvil om vedkommendes skikkethet. Skikkethetsansvarlig skal innkalle studenten til vurderingssamtale og sørge for at saken blir så godt opplyst som mulig. Studenten skal få tilbud om utvidet oppfølging og veiledning med mindre det er åpenbart at slik oppfølging ikke er egnet til å hjelpe studenten. Praksisperioder kan utsettes fra tvilsmelding er mottatt til etter at utvidet veiledning er avsluttet, eller til saken er avgjort. Fra vurderingssamtalen skal det lages skriftlig referat som inneholder en beskrivelse av saksforholdet og eventuelle planer for utvidet oppfølging og veiledning av studenten. Hvis utvidet oppfølging og veiledning ikke medfører den nødvendige endring og utvikling hos studenten, skal skikkethetsansvarlig fremme saken for skikkethetsnemnda.
+(10) Saker som fremmes for skikkethetsnemnda skal følges av all skriftlig dokumentasjon i saken. Nemnda skal utrede saken ytterligere dersom det er nødvendig. Studenten skal varsles i god tid om tidspunktet for møtet og gjøres kjent med sakens opplysninger. Studenten skal ha mulighet til å legge frem sine synspunkter for nemnda før møtet. Nemnda lager en innstilling til styret med en vurdering av hvorvidt studenten er skikket eller ikke, hvorvidt studenten bør utestenges helt eller delvis fra den aktuelle utdanningen, samt lengden på utestengingsperioden og eventuelle vilkår for at studenten skal få gjenoppta utdanningen. Uenighet i nemnda skal begrunnes og fremgå i innstillingen.
+(11) På bakgrunn av skikkethetsnemndas innstilling fatter styret selv vedtak om at en student ikke er skikket. Det skal ikke utstedes vitnemål for den aktuelle utdanningen til en student som er funnet uskikket. Hvis en student som er funnet uskikket skal utestenges fra utdanningen, skal det fattes særskilt vedtak om dette. Ved kortere utestenging enn fem år kan styret stille vilkår som må være oppfylt før utdanningen gjenopptas. Vedtak om utestenging skal opplyse studenten om at han/hun ikke kan søke eller ta imot plass ved lignende utdanninger i utestengingsperioden, og at han/hun må søke nytt opptak dersom utdanningen skal gjenopptas etter utestengingsperioden.
+(12) Et vedtak om at en student ikke er skikket for et yrke og et vedtak om å utestenge en student fra fagskoleutdanning som følge av at studenten ikke er skikket for yrket, kan bare treffes med minst to tredels flertall i styret. En student har rett til å uttale seg før det treffes vedtak i en sak om skikkethet eller utestenging. Vedtaket kan påklages til Nasjonal klagenemnd for fagskoleutdanning.
