@@ -1,0 +1,3 @@
+# § 4-12. Rett til begrunnelse
+Studenten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Ved muntlig/praktisk eksamen må krav om slik begrunnelse fremsettes umiddelbart etter at karakteren er meddelt. Ved skriftlig eksamen fremmes forespørsel innen senest to uker etter at sensuren er gjort kjent for studenten. Forespørsel gjøres i henhold til HLTs rutiner som er beskrevet på nettsiden.
+Studenten vil normalt motta en skriftlig begrunnelse innen to uker etter å ha bedt om det. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen, og for bedømmelsen av kandidatens prestasjon.

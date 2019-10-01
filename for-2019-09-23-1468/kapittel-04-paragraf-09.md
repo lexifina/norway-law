@@ -1,0 +1,5 @@
+# § 4-9. Sykdom og gyldig fravær
+Sykdom med legeerklæring, fødsel og dødsfall i nær familie er vanligvis de eneste grunnene for å få gyldig fravær og utsettelse av eksamen etter avmeldingsfrist. Bare unntaksvis vil andre grunner kunne godkjennes. Søknad om gyldig fravær rettes skriftlig til eksamensadministrasjonen.
+Legeerklæring, fødselsattest eller ev. annen dokumentasjon av gyldig fravær må være datert senest 3 – tre – virkedager etter eksamensdato, og være HLTs administrasjon i hende innen 7 – syv – virkedager, med mindre dette er umulig eller urimelig.
+De samme regler gjelder for studenter som blir syk under eksamen under tilsyn, og ikke kan gjennomføre den. Studenten skal varsle eksamensvakt og (etter)sende søknad til eksamensadministrasjonen.
+Ved godkjent gyldig fravær i tilknytning til skriftlige oppgaver er det også mulig å søke om forlenget innleveringsfrist. Dette skal kompensere for antall fraværsdager, men begrenset til maksimum 3 uker for bacheloroppgave, 7 dager for andre skriftlige oppgaver, og 36 timer ved 72-timers hjemmeeksamener. Kandidater som får utvidet innleveringsfrist, må påregne forsinket sensur.

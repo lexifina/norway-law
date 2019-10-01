@@ -1,0 +1,4 @@
+# § 4-1. Generelt om eksamen
+Med eksamen menes prøve som vurderes med karakter og angis på karakterutskriften/vitnemålet, eller som inngår i beregningsgrunnlaget for en karakter som angis på vitnemålet.
+I hvert emne skal studentenes kunnskaper og ferdigheter prøves i henhold til målene i emneplanen. Det er disse som danner utgangspunktet for eksamen og evaluering. Pensum-/litteraturlisten er et hjelpemiddel for studenten til å tilegne seg den beskrevne kompetansen. Det utarbeides sensorveiledning for alle eksamener.
+HLT skal sørge for at studentenes kunnskaper og ferdigheter blir prøvd og vurdert på en upartisk og faglig betryggende måte. Det skilles mellom ordinær eksamen og kontinuasjonseksamen (jf. § 4-6). Alle studenter som oppfyller vilkårene under § 4-2, er automatisk meldt opp til ordinær eksamen.
