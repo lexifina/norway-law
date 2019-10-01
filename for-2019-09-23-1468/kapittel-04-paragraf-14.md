@@ -1,0 +1,3 @@
+# § 4-14. Klage på formelle feil ved eksamen
+Studenter som har avlagt eksamen eller prøve, kan klage over formelle feil innen tre uker etter at han eller hun er, eller burde vært kjent med, det forhold som begrunner klagen. Klagen må fremsettes skriftlig til HLTs administrasjon. Saken undersøkes og vedtak fattes av HLTs klagenemnd.
+Om det er begått formelle feil som kan ha hatt betydning for én eller flere kandidaters prestasjon eller bedømmelse, oppheves sensurvedtaket. Hvis feilen kan rettes opp ved ny sensur av innleverte arbeider, foretas ny sensurering. I motsatt fall holdes ny eksamen eller prøve med nye sensorer.

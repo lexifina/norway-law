@@ -1,0 +1,5 @@
+# § 4-13. Klage over karakterfastsetting
+Dersom studenten etter mottatt begrunnelse fremdeles ikke er tilfreds med karakteren, kan det fremsettes klage på sensuren. Dette må gjøres skriftlig innen tre uker etter at begrunnelsen ble gitt. Ved gruppeeksamen har den enkelte student en individuell klagerett.
+Eksamensbesvarelsen vurderes på nytt av to nye sensorer, hvorav minst én er ekstern. Ved ny sensurering skal sensorene ikke få oppgitt opprinnelig karakter, sensors begrunnelse for denne, eller studentens begrunnelse for klagen. Endring av karakter kan gjøres både til gunst og ugunst for klager. Karakterfastsetting ved ny sensurering er endelig og kan ikke påklages (jf. UH-loven § 5-3 (6)).
+Hvis en student etter klage over eksamenskarakteren og ved ny sensur får endret resultatet med to karakterer eller mer, vil HLT foreta en ytterligere vurdering før endelig karakter fastsettes (jf. UH-loven § 5-3).
+Bedømmelse av muntlig prestasjon eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages.

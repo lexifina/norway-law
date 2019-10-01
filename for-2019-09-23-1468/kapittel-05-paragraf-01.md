@@ -1,0 +1,3 @@
+# § 5-1. Frammøte og registrering
+Det kreves obligatorisk deltakelse i undervisningen ved HLT. Deltakelse i undervisning, diskusjoner og læringsprosesser er en viktig del av HLTs pedagogiske opplegg og et ledd i å utvikle studentenes kompetanse. I noen av kursene/emnene er deltakelse i grupper eller seminarer en helt nødvendig del av kurset. Fravær fra disse delene av undervisningen kan bare godtas etter begrunnet søknad.
+Frammøte føres for alle kurs på skolens læringsplattform. Det er studenten selv som bærer ansvaret for registrering av eget frammøte og kontroll av eventuelt fravær. Faglærer foretar jevnlig sjekk av frammøtelisten.

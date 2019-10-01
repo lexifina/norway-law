@@ -1,0 +1,3 @@
+# § 1-2. Studentenes undersøkelses- og opplysningsplikt
+Enhver student ved HLT plikter å gjøre seg kjent med gjeldende reglement om studier og eksamen ved HLT. Videre plikter studenten å sette seg inn i studieplaner, kursbeskrivelser, eksamensplaner, rutiner for eksamen, regler for behandling av fusk og nødvendige forutsetninger for å gå opp til eksamen. Regler, planer, rutiner og annen viktig informasjon finnes tilgjengelig på HLTs nettside og digitale læringsplattform.
+Studenten er forpliktet til å gjøre seg kjent med HLTs digitale systemer, og underrette HLT om endringer i navn, adresse, e-post og telefonnummer. Navneendringer må dokumenteres.
