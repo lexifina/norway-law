@@ -1,0 +1,5 @@
+# § 5. Avtaler med nærstående parter
+(1) Nærstående i universitets- og høyskoleloven § 8-4, fagskoleloven § 30 og i denne forskrift omfatter foretak og personer som nevnt i forskrift til regnskapsloven § 7-30b-1. Et studieforbund er i denne forskrift å anse som et foretak.
+(2) Avtaler med nærstående skal dokumenteres med skriftlige avtaler. Pris og andre vilkår i avtalene skal ikke stille institusjonen dårligere enn det som ville vært inngått i avtaler mellom uavhengige parter under sammenlignbare forhold og omstendigheter, og hensett til den reelle risiko- og funksjonsfordelingen mellom partene.
+3) Styret skal sørge for at institusjonens avtaler med nærstående parter skjer i henhold til andre ledd og øvrige krav til disponering av offentlige tilskudd og studentenes egenbetalinger. Dette er ikke til hinder for at oppgaver kan delegeres til institusjonens daglige ledelse.
+4) Kravet til skriftlighet i andre ledd første punktum gjelder ikke for transaksjoner med totalbeløp mindre enn 10 000 kroner med en og samme nærstående avtalepart i ett regnskapsår.
