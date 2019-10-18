@@ -1,0 +1,3 @@
+# § 8. Oppfølging av varsel til Verdens helseorganisasjon og Kommisjonen
+Etter at varsel til Verdens helseorganisasjon eller Kommisjonen i medhold av § 7 er avgitt, skal Folkehelseinstituttet fortsette å oversende til Verdens helseorganisasjon og Kommisjonen tilgjengelig informasjon om den varslede hendelsen.
+Informasjonen skal om mulig inneholde kasusdefinisjoner, laboratorieresultater, risikokilde og -type, antall tilfeller og dødsfall og forhold som er relevante for den varslede hendelsen. Det skal informeres om hvilke tiltak som er iverksatt og hvilken støtte som trengs for å følge opp den varslede hendelsen.

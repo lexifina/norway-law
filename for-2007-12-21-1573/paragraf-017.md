@@ -1,0 +1,4 @@
+# § 17. Skip, luftfartøy og andre transportmidler på innreisesteder
+Skip og luftfartøy kan ikke av folkehelsehensyn nektes å anløpe eller ankomme en havn eller lufthavn, ta om bord eller sette av, losse eller laste last eller forråd. Ethvert transportmiddel skal tillates å ta om bord drivstoff, vann, mat og forsyninger. Pålegg eller tillatelser etter dette leddet kan gjøres betinget av inspeksjon og gjennomføring av helsetiltak for å motvirke spredning av smitte eller annet agens.
+Dersom det ikke er mulig å få iverksatt tilfredsstillende kontrolltiltak overfor et infisert transportmiddel, eller det iverksatte tiltaket ikke er vellykket, kan transportmidlet likevel få tillatelse til å reise videre under forutsetning av at ansvarlig myndighet underretter myndighetene på neste kjente innreisested om forholdene.
+Dersom det anses påkrevd, kan transportmidlet henvises videre til nærmeste utpekte havn, lufthavn eller grensepasseringssted, jf. § 19.

@@ -1,0 +1,2 @@
+# § 10. Varsel fra Verdens helseorganisasjon og Kommisjonen om en alvorlig hendelse i utlandet
+Dersom Folkehelseinstituttet får varsel fra Verdens helseorganisasjon eller via Kommisjonens varslingssystem om en alvorlig hendelse av betydning for internasjonal folkehelse som har oppstått i utlandet og som kan berøre Norge, skal instituttet umiddelbart informere departementet, Helsedirektoratet og andre relevante myndigheter om dette.
