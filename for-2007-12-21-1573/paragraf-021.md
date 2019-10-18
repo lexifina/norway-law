@@ -1,0 +1,5 @@
+# § 21. Hygienesertifikater for skip
+Kommunelegen kan, dersom det anses nødvendig av hensyn til folkehelsen, bestemme at fører av skip ved ankomst til første havn i Norge skal fremlegge «Sertifikat for hygienekontroll på skip» eller «Sertifikat for dispensasjon fra hygienekontroll på skip».
+Foreligger det i tilfeller som nevnt i første ledd, ikke sertifikat for hygienekontroll eller dispensasjon, eller sertifikatet er ugyldig, skal kommunelegen omgående varsles om dette av dem som utfører kontrollen med sertifikatene. Etter foretatt inspeksjon om bord på skipet kan kommunelegen beslutte at hygienekontroll skal finne sted og utstede sertifikat om foretatt kontroll eller om dispensasjon.
+Er kommunen ikke godkjent for oppgaven, skal skip henvises til nærmeste godkjente havn for befaring og utstedelse av sertifikat.
+Helsedirektoratet godkjenner hvilke kommuner som kan utføre hygienekontroll på skip og utstede sertifikater for foretatt kontroll eller dispensasjon. Sertifikatene er gyldige i seks måneder, men kan forlenges med én måned.

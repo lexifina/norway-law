@@ -1,0 +1,4 @@
+# § 2. Virkeområde
+Forskriften gjelder for Norge og norsk del av kontinentalsokkelen, med de begrensninger som følger av folkeretten eller internasjonale avtaler.
+Forskriften gjelder oppdagelse, vurdering og varsling av alvorlige hendelser som kan ha betydning for internasjonal folkehelse, og nødvendige tiltak rettet mot personer i Norge eller som befinner seg på innreise til eller utreise fra Norge. Tilsvarende gjelder for bagasje, last, containere, transportmidler, humant biologisk materiale, postsendinger og varer, herunder dyr og planter.
+Med en alvorlig hendelse av betydning for internasjonal folkehelse menes i forskriften her en folkehelserisiko eller helsetrussel som kan spres over landegrensene, og som kan kreve en internasjonalt koordinert bekjemping. Hendelsen kan være av fysisk, biologisk, kjemisk eller ukjent opprinnelse.

@@ -1,0 +1,5 @@
+# § 7. Varsel til Verdens helseorganisasjon og Kommisjonen
+Folkehelseinstituttet skal vurdere hendelser som oppstår på norsk territorium innen 48 timer etter at instituttet er blitt kjent med hendelsen gjennom mottak av varsel eller på annen måte.
+Folkehelseinstituttet skal så raskt som mulig og senest innen 24 timer etter vurderingen etter første ledd varsle Verdens helseorganisasjon og Kommisjonen om alle hendelser på norsk territorium som kan utgjøre en alvorlig hendelse av betydning for internasjonal folkehelse, samt om ethvert tiltak som iverksettes som en respons på disse hendelsene.
+Folkehelseinstituttet skal sammen med varslet gi opplysninger om mulig årsak eller smittekilde til Verdens helseorganisasjon og Kommisjonen. Er hendelsen eller sykdommen oppdaget blant personer eller gods som befinner seg i et transportmiddel som kommer fra utlandet, skal det gis detaljerte opplysninger om transportmiddelet og dets reiserute, samt hvilke strakstiltak som er blitt iverksatt.
+Folkehelseinstituttet skal informere departementet, Helsedirektoratet og andre relevante myndigheter om varslingen.

@@ -1,0 +1,3 @@
+# § 9. Henvendelse fra Verdens helseorganisasjon og Kommisjonen om en mulig alvorlig hendelse i Norge
+Dersom Verdens helseorganisasjon eller Kommisjonen henvender seg til Folkehelseinstituttet med mistanke om en alvorlig hendelse av betydning for internasjonal folkehelse i Norge basert på andre kilder enn varsel etter § 8, skal Folkehelseinstituttet innen 24 timer bekrefte at henvendelsen er mottatt og oversende tilgjengelig informasjon om hendelsen samt annen relevant informasjon.
+Folkehelseinstituttet skal informere departementet, Helsedirektoratet og andre relevante myndigheter om kommunikasjonen med Verdens helseorganisasjon.
