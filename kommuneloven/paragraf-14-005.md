@@ -1,0 +1,5 @@
+# § 14-5. Årsbudsjettets bindende virkning. Budsjettstyring
+Årsbudsjettet er bindende for kommunestyret, fylkestinget og underordnete organer. Første punktum er ikke til hinder for at kommunestyret eller fylkestinget kan gi et underordnet organ myndighet til å avgjøre at deler av en bevilgning i driftsbudsjettet skal benyttes til å finansiere utgifter i investeringsregnskapet. Første punktum gjelder ikke for utbetalinger som kommunen eller fylkeskommunen har en rettslig plikt til å foreta.
+Kommunestyret eller fylkestinget skal endre årsbudsjettet når det er nødvendig for å oppfylle lovens krav om realisme og balanse.
+Kommunedirektøren skal minst to ganger i året rapportere til kommunestyret eller fylkestinget om utviklingen i inntekter og utgifter, sammenholdt med årsbudsjettet. Hvis utviklingen tilsier vesentlige avvik, skal kommunedirektøren foreslå endringer i årsbudsjettet.
+Hvis årsregnskapet legges fram med et merforbruk i driftsregnskapet, skal kommunedirektøren foreslå endringer i årets budsjett. Saken skal behandles av kommunestyret eller fylkestinget senest 30. juni.

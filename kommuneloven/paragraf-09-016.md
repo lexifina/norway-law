@@ -1,0 +1,5 @@
+# § 9-16. Forholdet til kommunens eller fylkeskommunens administrasjon
+Kommunedirektøren i kommunen eller fylkeskommunen har ikke instruksjons- eller omgjøringsrett overfor foretakets daglige leder.
+Kommunedirektøren kan instruere styret og daglig leder om at et vedtak i foretaket ikke skal iverksettes før kommunestyret eller fylkestinget har behandlet saken.
+Kommunedirektøren skal gis anledning til å uttale seg før styret treffer vedtak i saker som også skal behandles av kommunestyret eller fylkestinget. Uttalelsen skal legges fram for styret i foretaket når styret skal behandle saken. Styrets vedtak skal sendes til kommunestyret eller fylkestinget via kommunedirektøren.
+I kommuner eller fylkeskommuner med parlamentarisk styreform er myndigheten etter andre ledd lagt til kommunerådets eller fylkesrådets leder. Hvis rådets medlemmer har ansvaret for å lede hver sin del av administrasjonen, ligger myndigheten etter andre ledd hos det medlemmet som leder den delen av administrasjonen som foretaket hører inn under.

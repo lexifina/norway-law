@@ -1,0 +1,2 @@
+# § 5-14. Reglement for delegering og innstilling
+Kommunestyret og fylkestinget fastsetter selv et reglement for hvordan vedtaksmyndighet og innstillingsrett skal delegeres. Dette skal gjøres innen 31. desember året etter at kommunestyret og fylkestinget ble konstituert. Det sist fastsatte reglementet og eventuelle andre vedtak om delegering og innstillingsrett gjelder inntil et nytt reglement er fastsatt.

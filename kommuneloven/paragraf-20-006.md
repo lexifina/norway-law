@@ -1,0 +1,4 @@
+# § 20-6. Klagebehandling i et vertskommunesamarbeid med felles, folkevalgt nemnd
+Når en felles, folkevalgt nemnd i et vertskommunesamarbeid treffer vedtak som kan påklages etter forvaltningsloven § 28 første ledd, er klageinstansen en eller flere særskilte klagenemnder som oppnevnes av kommunestyrene eller fylkestingene i deltakerkommunene. Den felles, folkevalgte nemnda er underinstans etter forvaltningsloven § 33 andre ledd. Nemnda er også underinstans der det i lov er fastsatt at et statlig organ er klageinstans.
+Hver av deltakerne skal være representert i en klagenemnd som er oppnevnt etter første ledd. Klagenemnda velger selv sin leder og nestleder. For øvrig gjelder bestemmelsene om utvalg så langt de passer.
+Klageinstansen har ikke omgjøringsrett etter forvaltningsloven § 35 andre og tredje ledd. Statlige klageinstanser kan likevel oppheve vedtak som må anses som ugyldige.

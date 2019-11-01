@@ -1,0 +1,4 @@
+# § 7-9. Uttreden og fritak
+En folkevalgt som ikke lenger er valgbar til et folkevalgt organ, trer endelig ut av organet. En folkevalgt som er registrert som utflyttet fra kommunen eller fylkeskommunen, og derfor ikke lenger er valgbar, kan likevel tre inn igjen i vervet hvis han eller hun flytter tilbake igjen innen to år.
+Hvis en folkevalgt ikke kan ivareta vervet sitt uten at det fører til vesentlig ulempe for han eller henne, kan kommunestyret eller fylkestinget etter søknad frita den folkevalgte for vervet midlertidig eller for resten av valgperioden. Når søknaden vurderes, skal det legges vekt på om grunnlaget for søknaden var kjent på det tidspunktet da den folkevalgte samtykket i å bli valgt. Den som ikke har nådd stemmerettsalderen, har krav på fritak hvis han eller hun søker om det.
+En folkevalgt som har fått innvilget midlertidig fritak, har ikke rett til å tre inn igjen i vervet før fritaksperioden er over.

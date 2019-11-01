@@ -1,0 +1,5 @@
+# § 13-4. Møterett for ansattes representanter i folkevalgte organer
+Representanter for de ansatte i kommunen eller fylkeskommunen har møte- og talerett i folkevalgte organer når de behandler saker som gjelder forholdet mellom de ansatte og kommunen og fylkeskommunen som arbeidsgiver. Hvis de ansatte er representert i styret for et kommunalt eller fylkeskommunalt foretak etter kapittel 9, gjelder ikke bestemmelsen her.
+Representanter for de ansatte har ikke rett til å delta i behandlingen av saker som gjelder arbeidsgivers forberedelser av forhandlinger med arbeidstakere, arbeidskonflikter, rettstvister med arbeidstakerorganisasjoner eller oppsigelse av tariffavtaler.
+Representanter for de ansatte har ikke møterett i kontrollutvalg eller i organer som behandler klagesaker etter forvaltningsloven § 28 andre ledd. Representanter for de ansatte i revisjonen har likevel møte- og talerett i kontrollutvalget når utvalget behandler saker som gjelder forholdet mellom kommunen eller fylkeskommunen som arbeidsgiver, og de ansatte i revisjonen.
+Kommunestyret eller fylkestinget fastsetter selv nærmere retningslinjer for de ansattes møterett.

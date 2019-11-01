@@ -1,0 +1,2 @@
+# § 9-11. Daglig leder
+Daglig leder ansettes av styret. Det kan fastsettes i vedtektene at daglig leder skal ansettes av kommunestyret eller formannskapet, eventuelt fylkestinget eller fylkesutvalget. I kommuner og fylkeskommuner med parlamentarisk styreform kan ansettelsesmyndigheten legges til kommunerådet eller fylkesrådet. Rådet kan videredelegere denne myndigheten til enkeltmedlemmer av rådet hvis ikke kommunestyret eller fylkestinget selv har bestemt noe annet.

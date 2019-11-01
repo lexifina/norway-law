@@ -1,0 +1,5 @@
+# § 14-9. Skillet mellom drift og investering i økonomiplan, årsbudsjett og årsregnskap
+Utgifter til drift skal føres i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet. Tilskudd til andres investeringer som nevnt i § 14-16 første og andre ledd og kirkeloven § 15 første ledd bokstav a og b, er utgift til drift som likevel kan føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet.
+Økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal bare finansieres av løpende inntekter. Løpende inntekter som ikke benyttes i budsjettåret, skal settes av til driftsfond.
+Departementet kan gi forskrift om hvilke utgifter og inntekter som hører til i henholdsvis driftsdelen og investeringsdelen.
+En andel av inntektene fra salg av aksjer som er klassifisert som finansielle anleggsmidler, skal regnes som løpende inntekter. Dette gjelder bare hvis kommuner eller fylkeskommuner har bestemmende innflytelse i selskapet. Departementet kan gi forskrift om hvordan andelen skal beregnes.

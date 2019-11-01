@@ -1,0 +1,7 @@
+# § 14-13. Finans- og gjeldsforvaltning
+Finansreglementet skal inneholde bestemmelser som hindrer kommunen eller fylkeskommunen i å ta en vesentlig finansiell risiko i finans- og gjeldsforvaltningen, og som sikrer at løpende betalingsforpliktelser kan innfris ved forfall. Finansreglementet skal også inneholde bestemmelser om hvilke avkastningsmål som skal ligge til grunn for finansforvaltningen.
+Hvis det avdekkes avvik fra finansreglementet, skal det iverksettes nødvendige tiltak. Hvis det er nødvendig for å unngå vesentlig finansiell risiko, blant annet for å sikre at løpende betalingsforpliktelser kan innfris, skal kommunestyret eller fylkestinget selv endre finansreglementet.
+Kommunedirektøren skal minst to ganger i året rapportere til kommunestyret eller fylkestinget om forvaltningen av finansielle midler og gjeld. I tillegg skal kommunedirektøren etter årets utgang legge fram en rapport som viser utviklingen gjennom året og status ved utgangen av året.
+Før kommuner og fylkeskommuner inngår avtaler, skal de dokumentere overfor avtaleparten at avtalen ikke innebærer vesentlig finansiell risiko i strid med § 14-1 tredje ledd.
+En avtale som innebærer vesentlig finansiell risiko, er ikke gyldig hvis kommunens eller fylkeskommunens avtalepart forsto eller burde ha forstått dette.
+Departementet kan gi forskrift om finansreglementets innhold og innholdet i rapporteringen, og krav om kvalitetssikring av finansreglementet og rutinene for finans- og gjeldsforvaltningen.

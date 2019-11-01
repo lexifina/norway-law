@@ -1,0 +1,2 @@
+# § 9-2. Delegering av myndighet til kommunerådet eller fylkesrådet
+I kommuner og fylkeskommuner med parlamentarisk styreform kan kommunestyret eller fylkestinget selv delegere den myndigheten de har etter bestemmelsene i dette kapitlet, til kommunerådet eller fylkesrådet. Myndigheten til å treffe vedtak om å opprette eller nedlegge et kommunalt eller fylkeskommunalt foretak kan likevel ikke delegeres. Rådet kan videredelegere myndigheten det har fått delegert, til enkeltmedlemmer av rådet hvis ikke kommunestyret eller fylkestinget selv har bestemt noe annet.

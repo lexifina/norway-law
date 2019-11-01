@@ -1,0 +1,2 @@
+# § 9-18. Overskridelse av representasjonsretten
+Hvis noen som representerer foretaket utad, har overskredet sin myndighet, blir en avtale eller annen privatrettslig disposisjon ikke bindende for kommunen eller fylkeskommunen. Dette gjelder bare hvis den andre parten innså eller burde ha innsett at myndigheten ble overskredet, og at det derfor ville stride mot redelighet å gjøre disposisjonen gjeldende.

@@ -1,0 +1,4 @@
+# § 23-4. Eierskapskontroll
+Eierskapskontroll innebærer å kontrollere om den som utøver kommunens eller fylkeskommunens eierinteresser, gjør dette i samsvar med lover og forskrifter, kommunestyrets eller fylkestingets vedtak og anerkjente prinsipper for eierstyring.
+Kontrollutvalget skal minst én gang i valgperioden, og senest innen utgangen av året etter at kommunestyret eller fylkestinget er konstituert, utarbeide en plan for hvilke eierskapskontroller som skal gjennomføres. Planen skal baseres på en risiko- og vesentlighetsvurdering av kommunens og fylkeskommunens eierskap. Hensikten med risiko- og vesentlighetsvurderingen er å finne ut hvor det er størst behov for eierskapskontroll.
+Planen skal vedtas av kommunestyret og fylkestinget selv. Kommunestyret og fylkestinget kan delegere til kontrollutvalget å gjøre endringer i planen.

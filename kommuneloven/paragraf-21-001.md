@@ -1,0 +1,3 @@
+# § 21-1. Representasjon av begge kjønn i styret
+Reglene i aksjeloven § 20-6 om representasjon av begge kjønn i styret gjelder på tilsvarende måte for aksjeselskaper der kommuner og fylkeskommuner til sammen eier minst 2/3 av aksjene. Departementet kan gi forskrift om at første punktum også skal gjelde for aksjeselskaper som kommuner eller fylkeskommuner eier under 2/3 av, når resten av selskapet er eid av staten eller av selskaper som direkte eller indirekte er heleid av staten.
+Departementet kan i forskrift gi nærmere regler om gjennomføringen av valg av styremedlemmer som skal velges av og blant de ansatte i selskaper som er nevnt i første ledd.
