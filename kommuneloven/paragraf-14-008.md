@@ -1,0 +1,4 @@
+# § 14-8. Budsjett, regnskap og årsberetning for interkommunalt politisk råd og kommunalt oppgavefellesskap
+Interkommunalt politisk råd etter kapittel 18 og kommunalt oppgavefellesskap etter kapittel 19 skal utarbeide et eget årsbudsjett innenfor de rammene som er vedtatt av kommunestyret eller fylkestinget i deltakerkommunene. Det skal også utarbeides et eget årsregnskap og en egen årsberetning. Vedtak om årsbudsjett, årsregnskap og årsberetning skal treffes av representantskapet i rådet eller oppgavefellesskapet.
+Regnskapet til interkommunalt politisk råd og kommunalt oppgavefellesskap som ikke er eget rettssubjekt skal innarbeides i kontorkommunens samlete årsregnskap etter § 14-6 første ledd bokstav d.
+Departementet kan gi forskrift om årsbudsjettet, årsregnskapet og årsberetningen for interkommunalt politisk råd og kommunalt oppgavefellesskap, og om unntak fra bestemmelsene om årsbudsjettet, årsregnskapet og årsberetningen.

@@ -1,0 +1,8 @@
+# § 5-9. Kommunestyre- og fylkestingskomiteer
+Kommunestyret og fylkestinget kan selv opprette kommunestyrekomiteer og fylkestingskomiteer som saksforberedende organer for kommunestyret og fylkestinget. Slike komiteer skal ha minst tre medlemmer. Komiteene kan ikke gis vedtaksmyndighet.
+Kommunestyret og fylkestinget deler selv alle kommunestyrets og fylkestingets medlemmer inn i kommunestyrekomiteer og fylkestingskomiteer og velger leder og nestleder til komiteene. Ordføreren kan fritas fra valg til komiteene hvis kommunestyret eller fylkestinget bestemmer det. Varamedlemmer til komiteene velges blant kommunestyrets og fylkestingets varamedlemmer.
+Valget gjennomføres på grunnlag av en innstilling som inneholder forslag til medlemmer og varamedlemmer til komiteene. Innstillingen skal inneholde like mange navn som antall medlemmer i hver komite, og den skal angi gruppen hvert medlem representerer. Innstillingen kan også inneholde navn på varamedlemmer. Antallet varamedlemmer kan være inntil to flere enn de faste medlemmene. Innstillingen vedtas med alminnelig flertall.
+Komiteene skal settes sammen forholdsmessig etter kjønnsfordelingen i kommunestyret eller fylkestinget. Varamedlemmer til komiteene velges på samme måte.
+Hvis et medlem trer ut av kommunestyret eller fylkestinget, skal det nye medlemmet i kommunestyret eller fylkestinget overta komitevervet til det forrige medlemmet.
+Komiteen kan opprette arbeidsutvalg med medlemmer fra komiteen hvis ikke kommunestyret eller fylkestinget selv har bestemt noe annet.
+Kommunestyret og fylkestinget kan selv når som helst omorganisere eller nedlegge kommunestyrekomiteer og fylkestingskomiteer.

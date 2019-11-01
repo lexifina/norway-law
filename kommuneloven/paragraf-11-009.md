@@ -1,0 +1,4 @@
+# § 11-9. Vedtaksførhet og avstemninger
+For at et folkevalgt organ skal kunne treffe et vedtak, må minst halvparten av medlemmene ha vært til stede under forhandlingene og avgitt stemme i den aktuelle saken.
+Et vedtak treffes med flertallet av de avgitte stemmene hvis ikke noe annet følger av denne loven eller av valgloven § 9-3 andre ledd. I andre saker enn de som gjelder valg, er møtelederens stemme avgjørende hvis antallet stemmer for og imot et forslag er likt.
+Når økonomiplanen eller årsbudsjettet skal behandles i kommunestyret eller i fylkestinget, skal medlemmene ved den endelige avstemningen stemme over forslaget til økonomiplan eller årsbudsjett som helhet. Hvis det er fremmet flere alternative forslag, og ingen av disse får flertall ved første gangs avstemning, skal det deretter stemmes over bare de to forslagene som fikk flest stemmer ved første gangs avstemning.

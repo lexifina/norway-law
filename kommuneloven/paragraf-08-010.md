@@ -1,0 +1,3 @@
+# § 8-10. Permisjoner
+Kommunestyret og fylkestinget skal selv gi forskrift om permisjon for folkevalgte som har vervet som sin hovedbeskjeftigelse. Permisjon kan bare gis i samsvar med arbeidsmiljøloven §§ 12-1 til 12-10, 12-12 og 12-15.
+Under permisjonen beholder de folkevalgte godtgjøringen i inntil to uker, med mindre de gir avkall på den. Under svangerskapspermisjon, omsorgspermisjon, fødselspermisjon, foreldrepermisjon og permisjon ved barns og barnepassers sykdom skal kommunen og fylkeskommunen sørge for at de folkevalgte får rett til å beholde godtgjøringen etter de samme reglene som gjelder for ansatte i kommunen eller fylkeskommunen.

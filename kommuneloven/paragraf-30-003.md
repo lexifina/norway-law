@@ -1,0 +1,3 @@
+# § 30-3. Innsyn og undersøkelser
+Fylkesmannen kan kreve at kommunen eller fylkeskommunen gir opplysninger om enkeltsaker og forhold ved kommunens eller fylkeskommunens virksomhet. Fylkesmannen har rett til innsyn i alle kommunale og fylkeskommunale saksdokumenter og kan kreve at kommunale eller fylkeskommunale organer, folkevalgte og ansatte gir de opplysningene og meldingene som Fylkesmannen mener er nødvendige for å gjennomføre tilsyn etter dette kapitlet. Fylkesmannen kan også foreta de undersøkelsene som Fylkesmannen mener er nødvendige. Taushetsplikt er ikke til hinder for innsyn og undersøkelser etter dette leddet.
+Første ledd gjelder også overfor selvstendige rettssubjekter som utfører kommunale eller fylkeskommunale oppgaver for kommuner eller fylkeskommuner.

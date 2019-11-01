@@ -1,0 +1,3 @@
+# § 1-1. Lovens formål
+Formålet med loven er å fremme det kommunale og fylkeskommunale selvstyret og legge nødvendige rammer for det. Loven skal legge til rette for det lokale folkestyret og et sterkt og representativt lokaldemokrati med aktiv innbyggerdeltakelse.
+Loven skal legge til rette for at kommuner og fylkeskommuner kan yte tjenester og drive samfunnsutvikling til beste for innbyggerne. Loven skal også legge til rette for kommunenes og fylkeskommunenes utøvelse av offentlig myndighet. Videre skal loven bidra til at kommuner og fylkeskommuner er effektive, tillitskapende og bærekraftige.

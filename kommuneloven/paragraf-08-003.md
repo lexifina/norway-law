@@ -1,0 +1,4 @@
+# § 8-3. Dekning av utgifter og økonomisk tap
+Den som har et kommunalt eller fylkeskommunalt tillitsverv, har krav på skyss-, kost- og overnattingsgodtgjøring for reiser i forbindelse med vervet. Kommunestyret eller fylkestinget gir selv forskrift om slik godtgjøring.
+Den som blir påført utgifter som følge av et kommunalt eller fylkeskommunalt tillitsverv, har krav på å få dekket utgiftene opp til et visst beløp per dag. Kommunestyret eller fylkestinget gir selv forskrift om dekning av slike utgifter.
+Den som taper inntekt fordi han eller hun har et kommunalt eller fylkeskommunalt tillitsverv, har krav på erstatning opp til et visst beløp per dag. Kommunestyret eller fylkestinget gir selv forskrift om slik erstatning. Det skal fastsettes ulike satser for dokumenterte og ikke-dokumenterte tap.

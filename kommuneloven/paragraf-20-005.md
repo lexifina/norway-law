@@ -1,0 +1,3 @@
+# § 20-5. Klagebehandling i et administrativt vertskommunesamarbeid
+Når det i et administrativt vertskommunesamarbeid treffes vedtak som kan påklages etter forvaltningsloven § 28 første ledd, er klageinstansen den kommunen eller fylkeskommunen som har delegert myndigheten. Administrasjonen i vertskommunen er da underinstans etter forvaltningsloven § 33 andre ledd. Administrasjonen er også underinstans der det i lov er fastsatt at et statlig organ er klageinstans.
+Klageinstansen har ikke omgjøringsrett etter forvaltningsloven § 35 andre og tredje ledd. Statlige klageinstanser kan likevel oppheve vedtak som må anses som ugyldige.

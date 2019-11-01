@@ -1,0 +1,4 @@
+# § 23-3. Forvaltningsrevisjon
+Forvaltningsrevisjon innebærer å gjennomføre systematiske vurderinger av økonomi, produktivitet, regeletterlevelse, måloppnåelse og virkninger ut fra kommunestyrets eller fylkestingets vedtak.
+Kontrollutvalget skal minst én gang i valgperioden, og senest innen utgangen av året etter at kommunestyret eller fylkestinget er konstituert, utarbeide en plan som viser på hvilke områder det skal gjennomføres forvaltningsrevisjoner. Planen skal baseres på en risiko- og vesentlighetsvurdering av kommunens eller fylkeskommunens virksomhet og virksomheten i kommunens eller fylkeskommunens selskaper. Hensikten med risiko- og vesentlighetsvurderingen er å finne ut hvor det er størst behov for forvaltningsrevisjon.
+Planen skal vedtas av kommunestyret og fylkestinget selv. Kommunestyret og fylkestinget kan delegere til kontrollutvalget å gjøre endringer i planen.

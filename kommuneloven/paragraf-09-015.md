@@ -1,0 +1,3 @@
+# § 9-15. Budsjettstyring
+Daglig leder skal minst to ganger i året rapportere til foretakets styre om utviklingen i inntekter og utgifter, sammenholdt med foretakets årsbudsjett. Hvis utviklingen tilsier vesentlige avvik fra årsbudsjettet, skal daglig leder foreslå endringer i dette. Styret skal endre årsbudsjettet når det er nødvendig for å oppfylle kravene om realisme og balanse etter § 14-4.
+Styret skal gjennom budsjettåret legge fram rapporter for kommunestyret eller fylkestinget som viser utviklingen i inntekter og utgifter, sammenholdt med kommunestyrets eller fylkestingets vedtatte rammer for foretaket.

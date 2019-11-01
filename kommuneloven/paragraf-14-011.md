@@ -1,0 +1,4 @@
+# § 14-11. Inndekning av merforbruk i kommunekassen og fylkeskommunekassen
+Et merforbruk i driftsregnskapet til kommunekassen eller fylkeskommunekassen skal dekkes inn året etter at det oppsto. Hvis merforbruket ikke kan dekkes inn året etter at det oppsto, skal det dekkes inn senest det andre året etter at det oppsto.
+Kommunestyret eller fylkestinget kan i særlige tilfeller vedta at et merforbruk i driftsregnskapet til kommunekassen eller fylkeskommunekassen skal dekkes inn senest fire år etter at det oppsto. Hvis de samfunnsmessige og økonomiske konsekvensene av å dekke inn et merforbruk etter første punktum vil bli uforholdsmessig store, kan departementet godkjenne et vedtak om at merforbruket dekkes inn over en periode på flere enn fire år etter at det oppsto.
+Et udekket beløp i investeringsregnskapet skal føres opp til dekning på investeringsbudsjettet året etter at det oppsto.
