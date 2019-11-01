@@ -1,0 +1,7 @@
+# § 14. Tilgang til opplysninger for statistiske resultater og analyser
+(1) Statistisk sentralbyrå kan gi tilgang til opplysninger for utarbeiding av statistiske resultater og analyser, herunder forskning, når det ikke medfører uforholdsmessig ulempe for andre interesser.
+(2) Opplysningene skal ikke inneholde identifikasjon i større grad enn det som er nødvendig for det aktuelle formålet. Graden av identifikasjon må også ses i sammenheng med risikoen for bruk i strid med formålet og den alminnelige tilliten til Statistisk sentralbyrå.
+(3) Opplysningene skal som hovedregel ikke inneholde direkte person- eller foretaksidentifiserende kjennetegn. Statistisk sentralbyrå kan i særskilte tilfeller gjøre tilgjengelig direkte identifiserbare opplysninger for sammenstilling og annen behandling dersom det ikke er betenkelig av hensyn til den opplysningen gjelder. Direkte person- eller foretaksidentifiserende kjennetegn skal slettes så snart behandlingen er gjennomført.
+(4) Statistisk sentralbyrå kan stille vilkår for tilgang til og bruk av opplysninger. Slike vilkår skal være forholdsmessige og saklige.
+(5) Taushetsplikten etter § 8 gjelder tilsvarende for den som får tilgang til opplysninger.
+(6) Departementet kan gi forskrift om tilgang til opplysninger. Dette kan blant annet omfatte hvilke opplysninger det kan gis tilgang til, hvem som kan få tilgang og adgangen til å ta betaling for slik tilgang.
