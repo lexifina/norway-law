@@ -1,0 +1,7 @@
+# § 10. Opplysningsplikt
+(1) Enhver skal uten hinder av taushetsplikt og etter pålegg fra Statistisk sentralbyrå gi opplysninger som er nødvendige for utvikling, utarbeiding eller formidling av offisiell statistikk. Plikten gjelder opplysninger om den opplysningspliktige og andre opplysninger som den opplysningspliktige har råderett over. Det kan settes en tidsfrist for å gi opplysninger. Taushetsplikt som nevnt i straffeprosessloven § 119 første og annet ledd og tvisteloven § 22-5 første ledd går foran opplysningsplikten etter første punktum.
+(2) Statistisk sentralbyrå kan gi forskrift om opplysningsplikt og pålegge opplysningsplikt i enkelttilfeller.
+(3) Opplysninger kan nektes utlevert etter første ledd når unntak er påkrevet av hensyn til nasjonale forsvars- og sikkerhetsinteresser eller politiets kriminalitetsbekjempende virksomhet.
+(4) Statistisk sentralbyrå kan fastsette på hvilken måte opplysningene skal gis og hvilken dokumentasjon som skal følge med. Det kan ikke kreves vederlag for kostnader ved å oppfylle opplysningsplikten.
+(5) Før Statistisk sentralbyrå beslutter å pålegge opplysningsplikt, skal det foreligge en vurdering av nytten ved å få inn opplysningene, veid opp mot omkostningene for den opplysningspliktige og hvor inngripende behandlingen anses å være for den opplysningene gjelder. Vurderingen skal offentliggjøres.
+(6) Departementet kan gi forskrift om opplysningsplikt etter denne bestemmelsen, blant annet om begrensninger i opplysningsplikten.
