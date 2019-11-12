@@ -1,0 +1,8 @@
+# § 17-1. Komiteens innstilling og vurdering av innstillingen
+Samisk høgskole fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om doktorgradsavhandlingen kan forsvares.
+Dersom komiteen avgir enstemmig innstilling og Samisk høgskole finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter høgskolen selv vedtak på grunnlag av den enstemmige innstillingen.
+Dersom Samisk høgskole finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal DOS søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges doktorgradskandidaten, som gis anledning til å komme med merknader.
+DOS fatter deretter endelig vedtak på grunnlag av innstillingen og de eksterne uttalelsene.
+Delt innstilling fra komiteen vurderes og vedtas av DOS. Dersom komiteen avgir delt innstilling og DOS vedtar å legge flertallets uttalelser til grunn for sitt vedtak, fatter Samisk høgskole vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og DOS vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan DOS søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Disse sakkyndige arbeider ikke som komité, men vurderer avhandlingen hver for seg og kommer med hver sin uttalelse.
+Doktorgradskandidaten gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komiteen, skal denne flertallsinnstillingen følges.
+Doktorgradskandidaten underrettes om vedtaket i DOS.

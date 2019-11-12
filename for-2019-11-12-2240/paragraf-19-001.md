@@ -1,0 +1,3 @@
+# § 19-1. Krav til den trykte avhandlingen
+Når avhandlingen er funnet verdig til å forsvares, skal doktorgradskandidaten levere de eksemplarer av avhandlingen til Samisk høgskole som forskriftene for doktorgradsprogrammet forutsetter. Nærmere bestemmelser er gitt i de enkelte doktorgradsprogrammene. Avhandlingen skal følge mal og format i henhold til DOS' bestemmelser, jf. § 14-1.
+Doktorgradskandidaten skal levere et kortfattet sammendrag av avhandlingen både på samisk og engelsk, samt enten på norsk, finsk, svensk eller russisk. Dersom avhandlingen er skrevet på et annet språk enn de forannevnte, skal det i tillegg leveres et sammendrag på avhandlingens språk.

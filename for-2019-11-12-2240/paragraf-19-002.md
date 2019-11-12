@@ -1,0 +1,3 @@
+# § 19-2. Offentliggjøring
+Avhandlingen skal være offentlig tilgjengelig senest to uker før dato for offentlig forsvar. Avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse. Om komiteen har bedt om omarbeiding, så offentliggjøres den omarbeidede avhandlingen, jf. § 16-2.
+Det kan ikke legges restriksjoner på offentliggjøring av en doktorgradsavhandling med unntak av en på forhånd avtalt utsettelse av datoen for offentliggjøring. Slik utsettelse kan finne sted for at institusjonen og eventuelt ekstern part som helt eller delvis har finansiert doktorgradsutdanningen, skal kunne ta stilling til eventuell patentering. Ekstern part kan ikke stille krav om at hele doktorgradsavhandlingen eller deler av den ikke skal kunne offentliggjøres, jf. § 5-3.

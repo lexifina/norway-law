@@ -1,0 +1,2 @@
+# § 24-1. Klage vedrørende opptak og søknadsvurdering
+Kandidaten kan påklage avslag på søknad om opptak, vedtak om opphør av studierett og klage på søknad om godkjenning av elementer i opplæringsdelen, etter reglene i lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 28–§ 36. Begrunnet klage sendes til Samisk høgskole. Hvis avslaget opprettholdes, sendes klagen til behandling i klagenemnda.

@@ -1,0 +1,4 @@
+# § 6-1. Doktorgradsavtalen
+Opptak til doktorgradsprogrammet formaliseres ved en skriftlig avtale mellom doktorgradskandidat, veileder(e) og Samisk høgskole. Avtalen regulerer partenes rettigheter og plikter i avtaleperioden. Den skal sikre at kandidaten deltar regelmessig i et aktivt forskermiljø og legge til rette for at forskerutdanningen skal kunne gjennomføres til avtalt tid. Høgskolen har et særskilt avtaleskjema for doktorgradsutdanningen.
+For doktorgradskandidater med full eller delvis finansiering fra eller tilsetting hos en ekstern part, skal det i tråd med fastsatte retningslinjer inngås egen avtale mellom kandidaten, institusjonen og den eksterne part.
+I tilfeller hvor doktorgradskandidaten skal ha tilknytning til utenlandsk institusjon, må Samisk høgskoles retningslinjer for slikt samarbeid følges og egne avtaler inngås på fastsatte skjema. Avtalen skal normalt inkluderes i opptaksavtalen.

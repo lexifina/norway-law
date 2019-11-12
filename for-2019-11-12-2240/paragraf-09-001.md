@@ -1,0 +1,2 @@
+# § 9-1. Tilknytning til forskningsmiljøet
+Hovedveileder har sammen med Samisk høgskole hovedansvaret for å legge til rette for at doktorgradsstudenten regelmessig kan delta i et aktivt forskningsmiljø sammen med forskere og andre doktorgradsstudenter. For doktorgradsstudenter som har sin hovedtilknytning til andre institusjoner, utformes det en avtale mellom gradgivende og samarbeidende institusjon som skal styre arbeidsvilkårene og dermed sikre doktorgradsstudenten deltakelse i aktivt forskningsmiljø, jf. § 6-1.
