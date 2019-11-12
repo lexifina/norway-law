@@ -1,0 +1,4 @@
+# § 7-3. Veiledningens innhold
+Både veileder og doktorgradsstudent har rapporteringsplikt etter de retningslinjene som SH har fastsatt.
+Veilederne plikter å holde seg orientert om fremdriften i kandidatens arbeid og vurdere den i forhold til prosjektplanen.Veilederne plikter også å følge opp faglige forhold som kan medføre forsinket gjennomføring av forskerutdanningen, slik at denne ikke kan fullføres innenfor normert tid.
+Veilederne skal gi råd om formulering og avgrensning av tema og problemstillinger, drøfte og vurdere hypoteser og metoder, drøfte resultater og tolkningen av disse, drøfte opplegg og gjennomføring, herunder disposisjon, språklig form, dokumentasjon, og skal være behjelpelig med å finne faglitteratur og vitenskapelige kilder fra bibliotek, arkiver og lignende. I tillegg skal veileder gi veiledning om forskningsetiske spørsmål knyttet til avhandlingen.

@@ -1,0 +1,3 @@
+# § 25-2. Fellesgrader
+Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i disse forskriftene. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne.
+Fellesgrader gjelder normalt bare dersom det fra før er et etablert, stabilt faglig samarbeid mellom institusjonen og minst en av de andre konsortiedeltakerne. Styret for Samisk høgskole vedtar slike samarbeidsavtaler og de skal som et minimum favne opptak, finansiering, opplæringsdel, veiledning, arbeidsplass, rapporteringsplikt, avhandlingsspråk, avhandlingsform, vurdering, gradinndeling, vitnemål og resultatrettigheter. Avtalen underskrives av rektor.

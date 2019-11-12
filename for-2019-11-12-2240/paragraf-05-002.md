@@ -1,0 +1,2 @@
+# § 5-2. Infrastruktur
+Doktorgradsstudenten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av forskningsprosjektet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring, tas av leder for fagavdelingen. For doktorgradsstudenter med ekstern finansiering og/eller arbeidsplass inngås det en egen avtale mellom Samisk høgskole og ekstern part i forbindelse med det enkelte forskningsprosjekt. Slik avtale inngås ved opptak, eller umiddelbart etterpå.
