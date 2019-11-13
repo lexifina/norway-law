@@ -1,0 +1,6 @@
+# § 3-3. Vitnemål
+a) Etter fullført fagskolestudium med bestått ATPL-teori, CPL skill test og MCC-kurs vil Luftfartsskolen utstede vitnemål til studenten for bestått utdanning. Vitnemålet dokumenterer karakterer, utdanningens innhold, hvilke kvalifikasjoner som er oppnådd og beskrivelse av karaktersystemet samt antall studiepoeng for det gjeldende studium.
+b) Etter bestått teorieksamen vil studenten motta en bevitnelse av eksamensresultat i de ulike fagene (Notice of examination result) fra luftfartsmyndigheten.
+c) Når hele den praktiske delen av utdanningen er fullført vil studenten få utstedt trafikkflygersertifikat (CPL) fra luftfartsmyndigheten (CAA-N).
+d) Studenter som avbryter utdanningen underveis, kan ved anmodning få utstedt en karakterutskrift for de deler av utdanningen som er bestått. De oppnår også studiepoeng for den delen som er bestått.
+e) For utstedelse av vitnemål eller annen dokumentasjon for fullført utdanning, må minst 30 av fagskolepoengene som skal inngå i beregningsgrunnlaget, være avlagt ved fagskolen. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved innpass mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.
