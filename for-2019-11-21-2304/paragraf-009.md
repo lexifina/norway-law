@@ -1,0 +1,3 @@
+# § 9. Bedømmelseskomitéens innstilling
+(1) Bedømmelseskomitéen avgir normalt innen tre måneder etter at avhandlingen er mottatt innstilling på om denne er verdig til å forsvares for doktorgraden. Innstillingen med eventuelle dissenser og individuelle uttalelser stiles til fakultetet, og skal så snart som mulig oversendes kandidaten som gis en frist på minimum 10 dager til å fremlegge skriftlige merknader til innstillingen.
+(2) Dersom kandidaten har merknader som kan ha betydning for spørsmålet om avhandlingen kan godkjennes, skal merknadene forelegges bedømmelseskomitéen før fakultetet avgjør hvorvidt avhandlingen skal tillates forsvart.
