@@ -1,0 +1,2 @@
+# § 5. Krav til formater for avanserte elektroniske signaturer og avanserte segl, som skal anerkjennes av offentlige organer
+EØS-avtalen vedlegg XI (beslutning (EU) 2015/1506) om fastsettelse av spesifikasjoner for formater for avanserte elektroniske signaturer og avanserte segl, som skal anerkjennes av offentlige organer, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.
