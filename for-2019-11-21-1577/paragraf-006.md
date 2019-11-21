@@ -1,0 +1,2 @@
+# § 6. Krav til tekniske minstespesifikasjoner og minstekrav til framgangsmåter for sikkerhetsnivåene for elektroniske identifikasjonsmidler (identifikasjonsnivåforskriften)
+EØS-avtalen vedlegg XI (forordning (EU) 2015/1502) om fastsettelse av tekniske minstespesifikasjoner og minstekrav til framgangsmåter for sikkerhetsnivåene for elektroniske identifikasjonsmidler, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.
