@@ -1,0 +1,3 @@
+# § 7. Særskilt om utlendingers adgang til å drive seljakt
+Tillatelse etter § 6 kan også gis til den som ikke er norsk statsborger eller likestilt med norsk statsborger, jf. havressursloven § 22 fjerde ledd. Slik tillatelse kan bare gis til utlendinger som under jakten er i følge med norsk statsborger som selv innehar tillatelse til å drive seljakt i angjeldende område.
+Personer som er bosatt i utlandet trenger ikke avlegge skytterprøve dersom de fyller kravet til å kunne jakte storvilt i sitt bopelsland. Dokumentasjon for dette eller dokumentasjon for avlagt norsk skytterprøve må vedlegges søknaden, sammen med navn og adresse på norsk kontaktperson.
