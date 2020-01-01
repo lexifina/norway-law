@@ -7,8 +7,8 @@ d) e-pengeforetak, jf. finansforetaksloven § 2-11
 e) forsikringsforetak, jf. finansforetaksloven § 2-12, og forsikringsforetaks eierselskap
 f) pensjonskasser, jf. finansforetaksloven § 2-16
 g) låneformidlingsforetak, jf. finansforetaksloven § 2-18
-h) verdipapirforetak, jf. verdipapirhandelloven § 2-3 første ledd
-i) verdipapirregistre, jf. verdipapirregisterloven § 1-3
+h) verdipapirforetak, jf. verdipapirhandelloven § 2-7 første ledd
+i) verdipapirsentraler
 j) verdipapirfond og forvaltningsselskaper, jf. verdipapirfondloven § 1-2 første ledd nr. 1 og 2
 k) alternative investeringsfond og forvalter, jf. AIF-loven § 1-2 bokstav a og b
 l) innretning som primært, og som ledd i sin forretningsvirksomhet, investerer, administrerer eller forvalter finansielle aktiva eller penger for andres regning
