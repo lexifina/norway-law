@@ -1,0 +1,3 @@
+# § 1. Anvendelsesområde
+Forskriften gjelder fastsettelse av samordningsfradrag i enke- eller enkemannspensjon fra tjenestepensjonsordning for tilleggspensjon fra folketrygden når enke- eller enkemannspensjonen etter reglene i tjenestepensjonsordningen ikke skal reduseres på grunn av gjenlevendes egen ervervsinntekt (se lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 34). Forskriften utfyller samordningsloven § 23 nr. 2 fjerde ledd.
+Forskriften her går innenfor sitt anvendelsesområde foran forskrift fastsatt av Sosialdepartementet 20. desember 1989 nr. 1268 med hjemmel i samordningslovens § 23 nr. 3.
