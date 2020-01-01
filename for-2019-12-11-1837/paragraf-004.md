@@ -1,0 +1,3 @@
+# § 4. Overgangsregler om fartsforskrifter
+Forskrift 15. desember 2009 nr. 1546 om fartsbegrensning i sjø, elv og innsjø gjelder inntil annet er bestemt. Det samme gjelder lokale fartsbegrensninger fastsatt i medhold av nevnte forskrift § 4 første ledd første punktum.
+Fra 1. januar 2020 skal nye fartsbegrensninger fastsettes etter lov 21. juni 2019 nr. 70 om havner og farvann. Dette innebærer at adgangen til å fastsette nye enkeltvedtak, forskrifter eller til å gjøre endringer i gjeldende forskrifter i medhold av forskrift 15. desember 2009 nr. 1546 om fartsbegrensning i sjø, elv og innsjø § 4 oppheves. § 6 i samme forskrift oppheves. Kommunen kan oppheve egne lokale fartsforskrifter.
