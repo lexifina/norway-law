@@ -1,0 +1,2 @@
+# § 4. Sertifikat for skip eid av den norske stat
+For skip eid av den norske stat som skal ha godkjent forsikring, annen sikkerhet eller sertifikat etter sjøloven § 186 tredje ledd, § 197 tredje ledd, § 210d tredje ledd eller § 218 tredje ledd, skal Sjøfartsdirektoratet utstede et sertifikat som bekrefter at skipet eies av staten, og at staten dekker ansvaret innen begrensningsbeløpet. Sertifikat utstedes etter anmodning fra statsinstitusjonen som disponerer skipet.
