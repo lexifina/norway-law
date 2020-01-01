@@ -1,0 +1,4 @@
+# § 18. Rettigheter for dem saken angår
+Når undersøkelsesmyndigheten iverksetter en undersøkelse, skal den så vidt mulig underrette berørte avdelinger, ofrene og deres familier, produsenter, representanter for personellet, berørte beredskapstjenester og andre som saken angår. Slik underretning skal gis så snart som mulig. Det skal opplyses om rettighetene etter annet ledd og etter § 22.
+Innen undersøkelsen avsluttes, skal de som er nevnt i første ledd, gis adgang til å komme med opplysninger og synspunkter om ulykken eller hendelsen og dens årsaksfaktorer i den grad det er praktisk mulig. De bør gis adgang til å være til stede under undersøkelsene og til å gjøre seg kjent med dokumentene, i den grad undersøkelsesmyndigheten finner at dette kan skje uten hinder for undersøkelsen. Annet punktum gjelder med de begrensninger som følger av taushetsplikten i § 19.
+Departementet kan gi forskrift om rettigheter for dem saken angår.
