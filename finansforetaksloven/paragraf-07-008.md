@@ -8,7 +8,8 @@ e) sammensetningen av generalforsamlingen, valg av leder og medlemmer, hvilke sa
 f) antallet eller laveste og høyeste antall styremedlemmer, og regler for valg av styremedlemmer,
 g) om foretaket skal ha adgang til å utstede omsettelige egenkapitalbevis,
 h) hvordan overskudd skal anvendes og underskudd skal dekkes, samt regler for fastsettelse av utbytte dersom foretaket skal kunne gi utbytte på kapitalen i grunnfondet,
-i) hvordan foretaket skal avvikles og foretakets kapital disponeres ved avvikling.
+i) hvordan foretaket skal avvikles og foretakets kapital disponeres ved avvikling,
+j) i hvilken verdipapirsentral egenkapitalbevisene er innført.
 (2) I vedtektene for gjensidig forsikringsforetak skal det også angis:
 a) det antall forsikringer og den samlede forsikringssum som skal være tegnet for at foretaket skal kunne starte virksomhet,
 b) reglene for medlemskap og medlemmenes innbyrdes ansvar for foretakets forpliktelser,

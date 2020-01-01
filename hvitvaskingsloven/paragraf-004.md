@@ -11,7 +11,7 @@ h) verdipapirforetak
 i) forvaltningsselskap for verdipapirfond
 j) forsikringsforetak
 k) foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling
-l) verdipapirregister, i tilfeller der verdipapirregisteret ikke benytter ekstern registerfører som er rapporteringspliktig. For kontohavere og utstedere som har ekstern registerfører som er rapporteringspliktig, er det registerføreren som er rapporteringspliktig.
+l) verdipapirsentraler, i tilfeller der verdipapirsentralen ikke benytter ekstern kontofører som er rapporteringspliktig. For kontohavere og utstedere som har ekstern kontofører som er rapporteringspliktig, er det kontoføreren som er rapporteringspliktig.
 m) foretak som driver depotvirksomhet
 n) forvalter av alternative investeringsfond
 o) låneformidlingsforetak

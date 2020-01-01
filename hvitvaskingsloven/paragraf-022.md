@@ -7,7 +7,7 @@ d) verdipapirforetak
 e) forvaltningsselskap for verdipapirfond
 f) forsikringsforetak
 g) norsk foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling
-h) verdipapirregister som er rapporteringspliktig
+h) verdipapirsentral som er rapporteringspliktig
 i) forvalter av alternative investeringsfond
 j) statsautorisert og registrert revisor og godkjent revisjonsselskap
 k) autorisert regnskapsfører og autorisert regnskapsførerselskap
