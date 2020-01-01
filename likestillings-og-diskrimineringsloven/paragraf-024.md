@@ -1,2 +1,3 @@
-# § 24. Offentlige myndigheters plikt til å arbeide for likestilling
-Offentlige myndigheter skal arbeide aktivt, målrettet og planmessig for å oppfylle lovens formål.
+# § 24. Offentlige myndigheters aktivitets- og redegjørelsesplikt
+Offentlige myndigheter skal i all sin virksomhet arbeide aktivt, målrettet og planmessig for å fremme likestilling og hindre diskriminering som nevnt i § 6. Plikten innebærer blant annet at offentlige myndigheter skal forebygge trakassering, seksuell trakassering og kjønnsbasert vold og motarbeide stereotypisering.
+Offentlige myndigheter skal redegjøre for hva de gjør for å integrere hensynet til likestilling og ikke-diskriminering i sitt arbeid. Offentlige myndigheter skal redegjøre for hvordan de arbeider med å omsette prinsipper, prosedyrer og standarder for likestilling og ikke-diskriminering til handling. Offentlige myndigheter skal vurdere resultatene som er oppnådd, og opplyse hvilke forventninger de har til dette arbeidet fremover. Redegjørelsen skal gis i årsrapport, i årsberetning eller i et annet offentlig tilgjengelig dokument.
