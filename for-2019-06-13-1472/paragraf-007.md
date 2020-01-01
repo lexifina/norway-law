@@ -1,0 +1,4 @@
+# § 7. Arbeider som ikke godtas
+Arbeid som har vært godtatt som oppgave ved høyere grad, som masteravhandling eller som magister- eller licensiatavhandling, eller som er belønnet med medalje for besvarelse av prisoppgaver ved et universitet, kan ikke antas til bedømmelse, med mindre arbeidet inngår som en mindre del av en avhandling som består av flere sammenhengende arbeider.
+Et arbeid eller deler av et arbeid som for søker er til vurdering for graden eller tilsvarende grad ved et annet norsk eller utenlandsk universitet kan ikke samtidig innleveres for bedømmelse ved Universitetet i Stavanger.
+Et arbeid eller deler av et arbeid som for søker tidligere er bedømt og godkjent for graden ved norsk eller utenlandsk universitet eller høgskole, kan ikke antas til bedømmelse selv om arbeidet innleveres i omarbeidet versjon.
