@@ -1,0 +1,3 @@
+# § 2-9. Betinget opptak
+1) Søkere som ikke kan dokumentere fullført og bestått studier de er underveis i på søknadstidspunktet, kan gis betinget opptak på vilkår om at søkeren kan dokumentere studiet bestått før skolestart eller i løpet av det første semesteret etter opptak, jf. fagskoleforskriften § 10 og § 11.
+2) Søkere som på grunn av spesielle omstendigheter ikke fikk avlagt eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak, kan gis betinget opptak på vilkår om at søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak, jf. fagskoleforskriften § 11.
