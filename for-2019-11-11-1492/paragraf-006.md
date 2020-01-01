@@ -1,0 +1,5 @@
+# § 6. Utstedelse av sertifikat
+Sjøfartsdirektoratet utsteder sertifikat etter sjøloven § 186, § 210d og § 218 på formular anbefalt av Den internasjonale sjøfartsorganisasjonen i samsvar med bestemmelsene i henholdsvis 2001 bunkerskonvensjonen, 2007 vrakfjerningskonvensjonen og 2010 HNS-konvensjonen. Sertifikat etter sjøloven § 197 utstedes på formular anbefalt av Det internasjonale erstatningsfondet i samsvar med 1992 ansvarskonvensjonens bestemmelser.
+Sjøfartsdirektoratet sender sertifikatet til skipets eier. Kopi av sertifikatet sendes forsikringsgiveren eller den som har stilt annen sikkerhet. Data fra sertifikatet registreres av Sjøfartsdirektoratet.
+Sertifikat kan utstedes for et bestemt tidsrom eller inntil forsikringen eller sikkerheten sies opp. Sertifikatet bør gis samme gyldighetstid som forsikringen eller sikkerheten med mindre særlige grunner taler mot det. Sertifikatet kan ikke gis lengre gyldighetstid enn forsikringen eller sikkerheten.
+For sertifikatet betales det gebyr etter forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet (Sjøfartsdirektoratets gebyrtariff).

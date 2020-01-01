@@ -1,0 +1,5 @@
+# § 16. Ikrafttredelse. Opphevelse av forskrifter. Overgangsregler
+Forskriften trer i kraft 1. januar 2020. For sertifikater etter 2007 vrakfjerningskonvensjonen gjelder forskriften likevel først fra det tidspunktet reglene om sertifikatplikt i sjøloven § 210d trer i kraft, og for sertifikater etter 2010 HNS-konvensjonen gjelder forskriften først fra det tidspunktet reglene om sertifikatplikt i sjøloven § 218 trer i kraft.
+Forskrift 8. juni 2013 nr. 672 om sertifikat etter sjøloven § 182a og forskrift 9. desember 2013 nr. 1552 om forsikring og annen sikkerhet for ansvar etter enkelte bestemmelser i sjøloven oppheves 1. januar 2020.
+Sjøfartsdirektoratet kan godkjenne forsikring eller annen sikkerhet og utstede sertifikat i medhold av forskriften før forskriften trer i kraft.
+Gyldig sertifikat utstedt i medhold av forskrift 8. juni 2013 nr. 672 om sertifikat etter sjøloven § 182a og forskrift 9. desember 2013 nr. 1552 om forsikring og annen sikkerhet for ansvar etter enkelte bestemmelser i sjøloven er gyldig sertifikat også etter forskriften her.
