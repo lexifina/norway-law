@@ -1,0 +1,2 @@
+# § 1
+Når løpende pensjon fra pensjonstrygden for sjømenn blir utløst med kapitalverdien etter lov om pensjonstrygd for sjømenn § 28 nr. 4, skal annen tjenestepensjonsordning foreta samordning med sjømannspensjon og folketrygdpensjon som om sjømannspensjonen ikke var utløst. Dette gjelder bare i tilfelle opphør av slik samordning etter kapitalutløsning vil føre til at utbetalt tjenestepensjon blir lavere enn tidligere.
