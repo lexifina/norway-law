@@ -1,0 +1,3 @@
+# § 1. Opplysningsplikt for transportplanlegging
+Kommunen skal gi opplysninger om anløp av fartøy i kommunen som er nødvendige for transportplanlegging til Statistisk sentralbyrå, slik Statistisk sentralbyrå til enhver tid bestemmer. Opplysningsplikten her gjelder for kommuner som får pålegg om å gi opplysninger i vedtak fra Statistisk sentralbyrå.
+Redere, eiere og operatører av fartøy, eiere og operatører av havner og havneanlegg og andre brukere av havner plikter å gi kommunen opplysningene i første ledd. Dersom aktøren gir opplysningene direkte til Statistisk sentralbyrå, gjelder ikke plikten til å gi opplysninger til kommunen.
