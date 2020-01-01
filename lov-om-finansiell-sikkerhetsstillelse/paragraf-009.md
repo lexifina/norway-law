@@ -1,0 +1,2 @@
+# § 9. Lovvalg
+For finansiell sikkerhet i form av registrerte finansielle instrumenter reguleres ethvert spørsmål om sikkerhetens rettslige karakter og de virkninger som kan utledes herav, forholdet til tredjepersoner, herunder sikkerhetsstillerens konkursbo, og realisasjon av sikkerheten, av retten i staten hvor den relevante kontoen føres. Det skal ikke tas hensyn til lovvalgsregler om tilbakevisning eller viderehenvisning.
