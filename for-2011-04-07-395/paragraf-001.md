@@ -1,0 +1,2 @@
+# § 1. Definisjon
+I denne forskrift betyr «konkurransekjøring» ethvert arrangement for motorvognførere på ferdselsåpen veg hvor deltagerne følger en fastlagt rute, og hvor det skilles mellom deltagerne innbyrdes ved hjelp av tidtaking og/eller annen form for rangering, eller hvor det er fastsatt maksimaltid. For rally-arrangement gjelder forskriften kun for transportetappene på ferdselsåpen veg. I tvilstilfelle avgjør søknadsmyndigheten etter § 3 ved enkeltvedtak om denne forskrift skal komme til anvendelse.
