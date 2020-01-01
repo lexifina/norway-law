@@ -1,0 +1,5 @@
+# § 3. Endringer i andre lover
+(1) Verdipapirregister som ifølge forskriftens § 1 skal fortsette sin virksomhet i tråd med verdipapirregisterloven, skal i andre lover anses som en verdipapirsentral som har tillatelse etter verdipapirsentralforordningen.
+(2) Henvisninger til verdipapirsentralloven i andre lover skal også anses å gjelde de tilsvarende bestemmelsene i verdipapirregisterloven frem til vedtak nevnt i forskriftens § 1 første ledd er truffet.
+(3) Aksjeselskap som før 1. januar 2020 hadde fastsatt i sine vedtekter at selskapets aksjer skal registreres i et verdipapirregister i tråd med lov 13. juni 1997 nr. 44 om aksjeselskaper § 4-4, skal anses å ha fastsatt at aksjene skal være registrert i Verdipapirsentralen ASA med mindre annet er fastsatt.
+(4) Kravene i lov 13. juni 1997 nr. 45 om allmennaksjeselskaper § 4-13 fjerde ledd og lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 7-8 første ledd bokstav j), må være oppfylt senest seks måneder etter at endringene i disse lovene er trådt i kraft.
