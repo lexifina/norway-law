@@ -13,3 +13,4 @@ g) Bankenes sikringsfond har rådført seg med Finanstilsynet om valg av tiltak 
 a) det blir nødvendig å foreta utbetaling av garanterte innskudd, og garantiordningens tilgjengelige midler er mindre enn to tredeler av minstekravet etter § 19-9 første ledd, eller
 b) garantiordningens tilgjengelige midler blir mindre enn 25 prosent av minstekravet etter § 19-9 første ledd.
 (5) Vedtak etter denne paragrafen kan ikke påklages.
+(6) Kravet om særskilt samtykke fra låntakeren etter finansavtaleloven § 45 gjelder ikke ved overdragelse eller pantsettelse av lånefordringer til Bankens sikringsfond ved støttetiltak eller yting av kreditt etter paragrafen her.
