@@ -1,0 +1,4 @@
+# § 4. Melding til Brønnøysundregistrene og oppdatering av det kommunale rapporteringsregisteret
+Departementet eller organet som forvalter rapporteringsplikten skal sende melding til Brønnøysundregistrene om rapporteringsplikten. Meldingen skal inneholde opplysningene som er nevnt i § 3 andre ledd. Hvis det skjer endringer i opplysningene, eller en innmeldt rapporteringsplikt oppheves, skal det sendes ny melding.
+Meldingen skal sendes i den digitale løsningen som Brønnøysundregistrene gjør tilgjengelig. Brønnøysundregistrene skal så snart som mulig gi en bekreftelse til innsenderen om at meldingen er mottatt.
+Brønnøysundregistrene skal, innen tre uker etter at meldingen er mottatt, oppdatere det kommunale rapporteringsregisteret og gi en bekreftelse til departementet eller organet som er ansvarlig for rapporteringsplikten, om at registeret er oppdatert.
