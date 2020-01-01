@@ -1,0 +1,3 @@
+# § 11. Forskningsinititerte granskinger og sikringstiltak
+(1) Forvaltningsmuseene skal underrette Riksantikvaren, fylkeskommunen og Sametinget om sine forskningsinitierte granskinger etter denne forskriften § 5 og § 6 senest tre måneder før granskingen starter. Riksantikvaren kan i særlige tilfeller fastsette en annen frist.
+(2) I saker som gjelder middelalderske byanlegg, kirker, kirketufter, kirkegårder, klosteranlegg, forsvarsverk og rester av alle slike kulturminner, kan Riksantikvaren beslutte at NIKU skal gjennomføre forskningsinitierte granskinger eller sikringstiltak etter kulturminneloven § 11 første ledd bokstav b og § 13 første ledd andre punktum.

@@ -1,0 +1,2 @@
+# § 8. Tilråding, prosjektplan og budsjett
+Før behandling av en søknad om tillatelse etter kulturminneloven § 8 første, andre eller fjerde ledd eller § 14 andre ledd, gir forvaltningsmuseene og NIKU på anmodning sin tilråding i saken, og utarbeider en prosjektplan og et forslag til budsjett. Ved tillatelse etter kulturminneloven § 8 fjerde ledd kan, i samråd med tiltakshaver, prosjektplan og forslag til budsjett utstå til gjennomføring av planen.

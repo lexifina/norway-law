@@ -1,0 +1,5 @@
+# § 7. Underretningsplikt mv.
+(1) Riksantikvaren, fylkeskommunene, Sametinget, forvaltningsmuseene og NIKU har underretningsplikt overfor hverandre i saker som er av gjensidig interesse.
+(2) Forvaltningsmuseene og NIKU skal underrette vedkommende myndighet om resultatet av gransking av automatisk fredete kulturminner eller skipsfunn, eller sikringstiltak på samme, senest innen tre uker etter at granskingen eller sikringstiltaket er avsluttet.
+(3) Dersom fylkeskommunen eller Sametinget, i saker som berører kulturminner eller kulturmiljøer av nasjonal eller vesentlig regional verdi, vil fatte et vedtak som er i strid med de faglige tilrådinger i saken, skal Riksantikvaren underrettes. Riksantikvaren kan beslutte å overta slike saker, uavhengig av om det er gitt underretning, og overtar da fylkeskommunens myndighet etter denne forskriften § 3 eller Sametingets myndighet etter § 4.
+(4) Riksantikvaren kan overta saker fra fylkeskommunen eller Sametinget når nasjonale kulturminneverdier er truet, og overtar fylkeskommunens myndighet etter denne forskriften § 3 eller Sametingets myndighet etter § 4.
