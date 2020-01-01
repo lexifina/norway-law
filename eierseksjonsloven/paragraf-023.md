@@ -1,3 +1,8 @@
 # § 23. Begrensninger i muligheten til å kjøpe boligseksjoner
-Ingen kan kjøpe eller på annen måte erverve flere enn to boligseksjoner i ett og samme eierseksjonssameie.
+Ingen kan kjøpe eller på annen måte erverve en boligseksjon hvis ervervet fører til at man blir eier av flere enn to boligseksjoner i eierseksjonssameiet.
+Første ledd gjelder tilsvarende hvis et erverv av en boligseksjon eller av aksjer eller andeler i et selskap fører til at flere enn to av boligseksjonene eies av noen som har slik tilknytning til hverandre:
+a) eierne er nærstående som nevnt i aksjeloven § 1-5 første ledd
+b) eierne er selskaper i samme konsern. Aksjeloven § 1-3 gjelder tilsvarende, likevel slik at det regnes som konsern også hvis morselskapet har en annen foretaksform enn aksjeselskap
+c) eierne er selskaper som en fysisk person alene eller sammen med nærstående har bestemmende innflytelse over. Aksjeloven §§ 1-5 og 1-3 gjelder tilsvarende.
+Annet ledd bokstav a er ikke til hinder for at en nærstående erverver en boligseksjon som den nærstående selv eller dennes nærstående skal bruke som egen bolig.
 Begrensningen i første ledd gjelder ikke kjøp og erverv av fritidsboliger, erverv ved ekspropriasjon, arv eller forskudd på arv til livsarving eller en kreditors erverv for å redde en fordring som er sikret med pant i en seksjon. Borettslag, staten, fylkeskommuner, kommuner samt selskaper og organisasjoner som eies eller kontrolleres av staten, en fylkeskommune eller en kommune, og som har til formål å skaffe boliger, kan erverve flere seksjoner. Det samme gjelder institusjoner eller sammenslutninger med samfunnsnyttig formål som har til formål å skaffe boliger, eller en arbeidsgiver som skal leie ut seksjonene til sine ansatte.

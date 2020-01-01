@@ -11,3 +11,4 @@ e) stiftelser som har til formål å skaffe boliger og som er opprettet av state
 f) selskaper, stiftelser eller andre som har inngått en avtale med staten, en fylkeskommune eller en kommune om å skaffe boliger til vanskeligstilte.
 Fjerde ledd gjelder tilsvarende når det er fastsatt en begrensning på hvor mange seksjoner noen kan eie.
 En eventuell forkjøpsrett kan ikke gjøres gjeldende når en boligseksjon overføres fra en eier som nevnt i fjerde ledd til en leier av seksjonen.
+Korttidsutleie av hele boligseksjonen i mer enn 90 døgn årlig er ikke tillatt. Med korttidsutleie menes utleie i inntil 30 døgn sammenhengende. Grensen på 90 døgn kan fravikes i vedtektene og kan i så fall settes til mellom 60 og 120 døgn. Slik beslutning krever et flertall på minst to tredjedeler av de avgitte stemmene på årsmøtet. Første til fjerde punktum gjelder ikke for sameier hvor alle bruksenhetene brukes som fritidsboliger.
