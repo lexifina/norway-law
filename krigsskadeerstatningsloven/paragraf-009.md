@@ -1,0 +1,5 @@
+# § 9. Overtakst.
+Skadelidte og enhver som har pant eller annen sikkerhet i den skadede eiendom, kan kreve overtakst. Kravet sendes til Krigsskadeskipnaden. Det må være satt fram innen tre måneder etter at skadelidte er gjort kjent med taksten. Krigsskadeskipnaden kan samtykke i at overtakst holdes selv om kravet er kommet inn etter fristens utløp. Blir samtykke nektet, kan avgjørelsen om dette bringes inn for departementet. Også Krigsskadeskipnaden kan kreve overtakst. Melding om kravet må være sendt skadelidte innen seks måneder etter at taksten ble holdt. Fristen kan forlenges av departementet.
+Overtaksten foretas av tre takstmenn oppnevnt av Krigsskadeskipnaden eller den skipnaden bemyndiger. En av takstmennene oppnevnes som formann.
+Finner departementet det påkrevd, kan det gi regler som begrenser adgangen til å kreve overtakst når den må antas å ville ha liten betydning for skadelidte eller å ville føre med seg uforholdsmessig kostnad eller forsinkelse.
+Bestemmelsene i § 8 fjerde og femte ledd gjelder tilsvarende.

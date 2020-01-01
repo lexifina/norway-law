@@ -1,0 +1,4 @@
+# § 25. Tvungen trygding.
+Den alminnelige bygningstrygd er tvungen for alle bygninger som ved krigens begynnelse er eller senere under krigen, men før skaden er inntruffet, blir forsikret mot brann. Om og på hvilke betingelser den tvungne trygd skal gjelde bygninger som er brannforsikret i utenlandsk forsikringsinnretning som ikke har rett til å drive forsikringsvirksomhet her i riket etter finansforetaksloven, bestemmes i vedtektene. Bygninger som er eller kan bli trygdet i annen av Krigsskadeskipnaden opprettet trygd, går ikke inn under den alminnelige bygningstrygd.
+Trygdesum er brannforsikringssummen, heri medregnet mulig forsikringssum for murtvang og andre påbud.
+Bygninger som er med i den alminnelige bygningstrygd etter denne paragraf, kan ikke gå ut av bygningstrygden uten samtykke av Krigsskadeskipnaden. Dette gjelder selv om bygningen opphører å være forsikret mot brann.
