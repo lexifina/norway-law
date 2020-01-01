@@ -6,5 +6,5 @@ b) vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet, og v
 c) virksomhetens måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for kommunen eller fylkeskommunen eller innbyggerne
 d) tiltak som er iverksatt og tiltak som planlegges iverksatt for å sikre en høy etisk standard
 e) den faktiske tilstanden når det gjelder kjønnslikestilling
-f) likestillingstiltak som er iverksatt, og tiltak som planlegges iverksatt for å fremme likestillings- og diskrimineringslovens formål om likestilling uavhengig av kjønn, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet og kjønnsuttrykk.
+f) hva kommunen eller fylkeskommunen gjør for å oppfylle arbeidsgivers aktivitetsplikt etter likestillings- og diskrimineringsloven § 26.
 Årsberetningene skal avgis senest 31. mars.

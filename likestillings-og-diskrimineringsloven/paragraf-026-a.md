@@ -1,7 +1,7 @@
 # § 26 a. Arbeidsgivers redegjørelsesplikt
-Alle arbeidsgivere skal redegjøre for:
-a) den faktiske tilstanden når det gjelder kjønnslikestilling i virksomheten, og
-b) likestillingstiltak som er iverksatt og som planlegges iverksatt for å fremme lovens formål om likestilling uavhengig av kjønn.
-Arbeidsgivere i privat sektor som jevnlig sysselsetter mer enn 50 ansatte, og arbeidsgivere i offentlig sektor skal redegjøre for likestillingstiltak som er iverksatt og som planlegges iverksatt for å fremme lovens formål om likestilling uavhengig av etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet og kjønnsuttrykk.
-Redegjørelsesplikten gjelder for virksomheter som i lov er pålagt å utarbeide årsberetning. Disse skal ta redegjørelsene inn i virksomhetens årsberetning.
-Redegjørelsesplikten gjelder også for offentlige myndigheter og offentlige virksomheter som ikke er pålagt å utarbeide årsberetning. Disse skal ta redegjørelsene inn i årsbudsjettet.
+Arbeidsgivere som har plikter etter § 26 andre ledd, skal redegjøre for den faktiske tilstanden når det gjelder kjønnslikestilling i virksomheten og hva de gjør for å oppfylle aktivitetsplikten etter § 26.
+Redegjørelsen etter første ledd skal gis i årsberetningen eller i annet offentlig tilgjengelig dokument. Dersom redegjørelsen gis i annet offentlig tilgjengelig dokument, og foretaket har en plikt til å levere årsberetning, skal det i årsberetningen opplyses hvor dokumentet finnes offentlig tilgjengelig. Arbeidsgivere i offentlige virksomheter som ikke er pålagt å utarbeide årsberetning, skal ta redegjørelsen etter første ledd inn i sin årsrapport eller i et annet offentlig tilgjengelig dokument.
+Redegjørelsen skal utformes slik at enkeltansattes personlige forhold ikke røpes. Resultatene av lønnskartleggingen skal fremgå av redegjørelsen i anonymisert form.
+Virksomhetens ansatte og deres representanter, Diskrimineringsnemnda, Likestillings- og diskrimineringsombudet og forskere har rett til innsyn i resultatene av lønnskartleggingen, også når resultatene ikke kan anonymiseres. Opplysningene kan bare gis i den utstrekning de er nødvendige for å undersøke om det foreligger ulovlig forskjellsbehandling ved lønnsfastsettelsen.
+Den som mottar lønnsopplysninger etter fjerde ledd, har taushetsplikt og skal underskrive en taushetserklæring. Dette gjelder ikke opplysninger som er offentlige etter offentleglova.
+Kongen kan gi forskrift om standardisering av redegjørelsesplikten på likestillingsområdet.
