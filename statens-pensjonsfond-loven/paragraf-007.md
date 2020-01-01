@@ -1,0 +1,4 @@
+# § 7
+(1) Midlene i Statens pensjonsfond kan bare anvendes til en beløpsmessig overføring til statsbudsjettet etter vedtak i Stortinget.
+(2) Staten skal ikke lånefinansiere utgifter på statsbudsjettet så lenge det er midler i Statens pensjonsfond utland.
+(3) Første ledd er ikke til hinder for at Kongen i statsråd kan benytte midlene i Statens pensjonsfond utland som finansiering dersom kontoordningen i Norges Bank (statens foliokonto) ikke er tilgjengelig. Annet ledd er ikke til hinder for midlertidige låneopptak i særskilte situasjoner hvor staten har et likviditetsbehov, og hvor midlene i Statens pensjonsfond utland er utilgjengelige eller avhending av verdipapirer vil medføre en vesentlig kostnad. Låneopptak etter foregående punktum kan vedtas av Kongen i statsråd dersom det ikke er tid til å innhente Stortingets samtykke.
