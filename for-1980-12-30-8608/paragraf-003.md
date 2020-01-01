@@ -1,0 +1,2 @@
+# § 3. Vilkår for bruk.
+Semitrailer ifølge § 1 tillates trukket av norsk trekkvogn uten at den er godkjent av regionvegkontoret på forhånd. Det forutsettes at semitraileren tilfredsstiller kravene til bremser og lysutstyr i §§ 5-6. Semitrailer skal for øvrig være i trafikksikker stand og være driftssikker. Den skal være sikret tilstrekkelig veggrep, om nødvendig ved bruk av pigger, kjettinger e.l. når føreforhold tilsier dette etter kjøretøyforskriftene § 136 nr. 4. Dens last skal være plassert, sikret og merket i samsvar med kjøretøyforskriftene §§ 141-42.
