@@ -1,0 +1,3 @@
+# § 42. Iverksetjing m.m.
+Loven trer i kraft frå det tidspunktet Kongen fastset. Kongen kan bestemme at loven skal tre i kraft mellom enkelte av dei nordiske statane, eller for berre nordiske eller nordisk-europeiske arrestordrar. Frå det tidspunkt loven trer i kraft for nordiske arrestordrar, vert lov 3. mars 1961 nr. 1 om utlevering av lovbrytarar til Danmark, Finland, Island og Sverige og lov 19. september 2008 nr. 77 om nordisk arrestordre oppheva.
+Loven gjeld for arrestordrar mottekne etter at loven har tredd i kraft. Utleveringskrav mottekne før loven har tredd i kraft, vert behandla etter lov 3. mars 1961 nr. 1 om utlevering av lovbrytarar til Danmark, Finland, Island og Sverige eller etter lov 13. juni 1975 nr. 39 om utlevering av lovbrytarar m.v.

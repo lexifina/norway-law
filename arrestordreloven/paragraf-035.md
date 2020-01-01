@@ -1,0 +1,2 @@
+# § 35. Varetektsfrådrag
+Når ein ettersøkt er overlevert for fullbyrding av dom her i riket, skal det gjerast frådrag i straffa for den tida han eller ho i høve saka har vore fråteken fridomen i den iverksetjande staten. Det same gjeld når den ettersøkte er overlevert til strafforfølging, dersom den ettersøkte får dom med fengselsstraff her i riket på grunnlag av det straffbare forholdet arrestordren gjeld.

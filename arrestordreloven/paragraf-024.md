@@ -1,0 +1,3 @@
+# § 24. Samtykke i overlevering eller utlevering vidare
+Det kan givast samtykke til at ein person som er overlevert til eit nordisk land på grunnlag av ein nordisk arrestordre, vert overlevert vidare til ein medlemsstat i Den europeiske unionen utanfor Norden for eit forhold gjort forut for overleveringa. Samtykke skal givast dersom ein arrestordre om overlevering til vedkomande stat for forholdet ville blitt etterkomen etter reglane som gjeld for nordisk-europeiske arrestordrar. § 23 andre ledd gjeld tilsvarande.
+Oppmoding om samtykke til utlevering vidare til ein stat utanfor Norden og Den europeiske unionen vert behandla og avgjord etter reglane i utleveringsloven.

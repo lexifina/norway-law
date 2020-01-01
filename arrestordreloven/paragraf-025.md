@@ -1,0 +1,4 @@
+# § 25. Oversending og mottak av arrestordrar for overlevering frå Noreg
+Arrestordren vert send gjennom Schengen informasjonssystem eller anna system for etterlysing av personar mistenkte for straffbare lovbrot, eller han vert send Kripos. Er opphaldsstaden til den ettersøkte kjend, kan arrestordren sendast direkte til politimeisteren på staden der den ettersøkte oppheld seg.
+Ved feilsending skal den som mottek arrestordren, straks sende han vidare til kompetent påtalemakt og varsle den som har ferda ut arrestordren.
+Ei etterlysing registrert i Schengen informasjonssystem eller i eit anna system for etterlysing av personar og som gjeld overlevering innanfor loven sitt verkeområde, jf. § 1, skal sidestillast med ein arrestordre inntil arrestordren vert motteken sjølv om etterlysinga ikkje inneheld alle opplysningane nemnde i § 5 første ledd.
