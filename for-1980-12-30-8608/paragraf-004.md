@@ -1,0 +1,2 @@
+# § 4. Kjennemerker.
+Under forflytning skal norsk registreringspliktig trekkvogns bakre kjennemerke eller duplikat av dette, midlertidig festes forsvarlig i rimelig høyde over vegbanen bak på semitraileren. Kjennemerket skal festes i tilnærmet vertikal stilling og tilnærmet vinkelrett på kjøretøyets lengdeakse. Kjennemerket skal være lett leselig og det skal ikke tildekke noe av semitrailerens lysutstyr.
