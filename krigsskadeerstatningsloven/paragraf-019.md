@@ -1,0 +1,2 @@
+# § 19. Overdragelse m.v. av erstatningskrav.
+Kongen kan gi forskrifter om innskrenkning i retten til å overdra, pantsette eller på annen måte råde over krav på erstatning etter denne lov og i adgangen til å gjøre dem til gjenstand for tvangsfullbyrdelse. Kongen kan også gi forskrifter om forlengelse av renteprioritetsfristen etter panteloven § 1-5 for så vidt angår krav som er sikret ved pant i krigsskadet eiendom.

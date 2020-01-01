@@ -1,0 +1,7 @@
+# § 8. Gransking og taksering.
+Når Krigsskadeskipnaden har fått inn melding om krigsskade, skal den sørge for at det snarest mulig foretas granskning for å fastslå årsaken til skaden. I samband med granskingen holdes takst hvis skaden antas å gå inn under loven.
+Med samtykke av departementet kan Krigsskadeskipnaden bestemme at også skader som ikke er meldt i samsvar med § 7, skal granskes og takseres.
+Gransking og taksering foretas av to takstmenn oppnevnt av Krigsskadeskipnaden eller den skipnaden bemyndiger. Blir takstmennene ikke enige, tilkaller de en tredje takstmann som er oppnevnt på samme måte.
+For utfallet av gransking og taksering redegjøres på skjema fastsatt av Krigsskadeskipnaden. Utskrift av forretningen sendes snarest til skadelidte, Krigsskadeskipnaden og vedkommende kommune eller kommuner. Skadelidte gis samtidig underretning om adgangen til å kreve overtakst og om fristen for å begjære denne.
+Krigsskadeskipnaden gir med godkjenning av departementet nærmere regler om fremgangsmåten ved gransking og taksering.
+For skade som Krigsskadeskipnaden finner er av liten økonomisk betydning for skadelidte, kan den bestemme en forenklet granskings- og takseringsmåte, eller at gransking og taksering helt kan unnlates. Finner Krigsskadeskipnaden det hensiktsmessig og forsvarlig, kan den i steden for å holde gransking og takst treffe avtale med skadelidte om skadens størrelse.
