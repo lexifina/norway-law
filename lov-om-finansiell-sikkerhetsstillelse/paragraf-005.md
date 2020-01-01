@@ -1,0 +1,4 @@
+# § 5. Felles gjeldsforfølgning
+Avtale om finansiell sikkerhetsstillelse kan inngås, finansiell sikkerhet kan stilles, og finansiell forpliktelse kan oppstå frem til tidspunktet for åpning av felles gjeldsforfølgning mot sikkerhetsstilleren. Er avtale inngått, sikkerhet stilt eller finansiell forpliktelse oppstått på dagen for, men etter tidspunktet for åpning av felles gjeldsforfølgning, står avtalen, sikkerhetsstillelsen eller kravet seg i forhold til fellesforfølgningen dersom sikkerhetshaveren var i aktsom god tro med hensyn til at fellesforfølgning var åpnet.
+En sikkerhetsstillelse kan ikke omstøtes alene på det grunnlag at den er stilt for en finansiell forpliktelse som allerede er pådratt.
+Med felles gjeldsforfølgning menes gjeldsforhandling etter konkursloven, konkurs og offentlig administrasjon.

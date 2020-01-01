@@ -1,0 +1,3 @@
+# § 6. Sluttavregning
+Finansielle forpliktelser som omfattes av en avtale om finansiell sikkerhetsstillelse kan sluttavregnes på de vilkår som følger av skriftlig avtale mellom partene. Avtale om sluttavregning kan gjøres gjeldende uten hinder av dekningsloven §§ 7-3 og 8-1 eller gjeldsbrevloven § 26.
+Med sluttavregning menes at partenes forpliktelser ved inntreden av en på forhånd avtalt situasjon fastsettes til pengekrav i henhold til avtalte kriterier, og gjøres opp ved motregning. Den part som skylder det største beløpet plikter å betale en nettosum svarende til differansen mellom partenes forpliktelser til den annen part.

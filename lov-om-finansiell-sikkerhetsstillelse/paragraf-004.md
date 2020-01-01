@@ -1,0 +1,6 @@
+# § 4. Bruksrett til pantsatt finansiell sikkerhet
+Det kan avtales at sikkerhetshaver skal ha bruksrett til stilt finansiell sikkerhet, men slik bruksrett kan ikke avtales til gjeldsfordringer. Avtalen kan gi rett til utlån, pantsettelse, salg eller annen gjenbruk av sikkerheten.
+Ved å utøve bruksrett får sikkerhetshaver en plikt til å overføre tilsvarende sikkerhet til sikkerhetsstiller senest på forfallstidspunktet for sikkerhetsstillers finansielle forpliktelser. Det kan avtales at plikten til å overføre tilsvarende sikkerhet kan oppfylles på annen måte, herunder ved at verdien av den tilsvarende sikkerhet i de finansielle forpliktelser motregnes. Sikkerhetshaver bevarer det opprinnelige rettsvern i forhold til tilsvarende sikkerhet som er overført i samsvar med første punktum.
+Med tilsvarende sikkerhet menes:
+a) når sikkerheten består av kontant innskudd: betaling av samme beløp i samme valuta, og
+b) når sikkerheten består av finansielle instrumenter: finansielle instrumenter som er en del av samme utstedelse eller klasse, som er utstedt på samme nominelle beløp og i samme valuta og som ellers er av samme beskaffenhet som sikkerheten, eller andre aktiva dersom avtalen gir rett til å overføre slike ved en hendelse som påvirker de aktuelle finansielle instrumentene.
