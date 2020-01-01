@@ -5,4 +5,4 @@ a) stanse straks og ellers forholde seg som det blir anvist ved tegn eller skilt
 b) oppholde seg ved motorvognen til kontrollen er avsluttet eller til det er gitt tillatelse til å forlate stedet
 c) vise fram offentlige dokumenter som det er påbudt å ha med under kjøringen, og gi opplysninger som kontrollmyndigheten mener har betydning for avgiftskontrollen
 d) kjøre til anvist veie- eller kontrollplass.
-(3) Skattemyndighetene kan kreve at skattepliktig framstiller kjøretøy hos regionvegkontoret for kontroll av kjøretøyets registreringsforhold av hensyn til om riktig avgift er fastsatt.
+(3) Skattemyndighetene kan kreve at skattepliktig framstiller kjøretøy hos Statens vegvesen for kontroll av kjøretøyets registreringsforhold av hensyn til om riktig avgift er fastsatt.
