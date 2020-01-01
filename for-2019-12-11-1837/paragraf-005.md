@@ -1,0 +1,2 @@
+# § 5. Overgangsregler for kommunale ordensforskrifter
+Forskrifter om orden i og bruk av farvannet som kommunene har gitt med hjemmel i § 14 og § 42 i lov 17. april 2009 nr. 19 om havner og farvann vil gjelde i en overgangsperiode frem til og med 31. desember 2020. Fra 1. januar 2021 vil slike forskrifter som ikke er endret eller opphevet med hjemmel i lov 21. juni 2019 nr. 70 om havner og farvann, falle bort.
