@@ -1,0 +1,4 @@
+# § 11. Dom kunngjord utan ettersøkte til stades. Livstidsstraff
+Dersom ein nordisk-europeisk arrestordre gjeld overlevering til fullbyrding av fridomsstraff eller annan fridomsrøvande reaksjon pådømd utan ettersøkte til stades, og utan at den ettersøkte er blitt informert om tid og stad for rettsforhandlingane, skal han avslåast om ikkje den utferdande staten forsikrar at den ettersøkte kan krevje saka behandla på nytt og da har høve til å vere til stades.
+Dersom dei forholda som ligg til grunn for arrestordren kan straffast med fridomsrøving på livstid, skal arrestordren avslåast om ikkje den utferdande staten forsikrar at straff som nemnd vil bli vurdert omgjord eller unnlaten fullbyrda, anten etter oppmoding eller seinast etter 20 år.
+Forsikring som nemnd i første og andre ledd skal liggje føre før retten avgjer om vilkåra for overlevering er oppfylte.

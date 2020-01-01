@@ -1,0 +1,3 @@
+# § 34. Oversending av arrestordrar
+Arrestordren vert registrert i Schengen informasjonssystem eller i eit anna system for etterlysing av personar mistenkte for straffbare lovbrot. Opplysningar nemnde i § 5 første ledd som ikkje kan registrerast i Schengen informasjonssystem, skal ettersendast så snart som mogleg til den myndigheita i den staten der den ettersøkte vert funnen som etter lovgivinga her er kompetent til å ta imot arrestordren.
+Er det kjent kvar den ettersøkte oppheld seg, kan arrestordren i tillegg sendast til den myndigheita i opphaldsstaten som etter lovgivinga her er kompetent til å ta imot arrestordren.

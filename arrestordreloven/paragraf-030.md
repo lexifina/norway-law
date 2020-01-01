@@ -1,0 +1,4 @@
+# § 30. Frist for overlevering
+Den ettersøkte skal overleverast snarast mogleg og seinast ti dagar etter at det ligg føre ei endeleg avgjerd om overlevering, likevel seinast fem dagar dersom overlevering skal skje på grunnlag av ein nordisk arrestordre. Gjer særlege omstende det umogleg å overlevere den ettersøkte innanfor fristen, skal påtalemakta straks kontakte den som har ferda ut arrestordren, for å avtale ein ny frist.
+Overlevering kan utsetjast dersom det ligg føre tungtvegande humanitære grunnar. Så snart desse grunnane ikkje lenger er til stades, avtaler påtalemakta nytt tidspunkt for overlevering med den som har ferda ut arrestordren. Overlevering skal skje innan ti dagar rekna frå tidspunkt som nemnt i andre punktum.
+Ein ettersøkt som sit fengsla på grunnlag av arrestordren, skal setjast fri når fristane for overlevering i første og andre ledd har gått ut.

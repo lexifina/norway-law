@@ -1,0 +1,6 @@
+# § 4. Definisjonar
+I loven tyder desse omgrepa:
+a) arrestordre: avgjerd fatta av kompetent myndigheit i ein medlemsstat i Den europeiske unionen, Island eller Noreg om at ein annan av dei nemnde statane skal pågripe og overlevere ein ettersøkt person for strafforfølging eller fullbyrding av fridomsstraff eller ein annan fridomsrøvande reaksjon. I kapittel 1, 6, 7 og 8 brukt som fellesnemning på nordisk-europeiske og nordiske arrestordrar.
+b) nordisk-europeisk arrestordre: arrestordre ferda ut i samsvar med avtale 28. juni 2006 mellom Den europeiske unionen og republikken Island og Kongeriket Noreg om overleveringsprosedyre mellom medlemsstatane i Den europeiske unionen og Island og Noreg. Som nordisk-europeisk arrestordre skal også reknast arrestordre ferda ut i samsvar med Det europeiske råds rammeavgjerd 13. juni 2002 om den europeiske arrestordre og prosedyrane for overlevering mellom medlemsstatane (europeisk arrestordre).
+c) nordisk arrestordre: arrestordre ferda ut i samsvar med konvensjon om overlevering for straffbare forhold mellom dei nordiske landa 15. desember 2005. Ein arrestordre som nemnd i bokstav b som er ferda ut av eit nordisk land, skal også reknast som ein nordisk arrestordre ved bruk av loven her.
+d) utlevering: utlevering av personar for straffbare forhold etter utleveringsloven eller tilsvarande reglar i framand stat.
