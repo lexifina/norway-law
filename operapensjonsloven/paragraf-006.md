@@ -1,0 +1,2 @@
+# § 6. Ikrafttredelse. Overgangsregler
+Denne loven trer i kraft fra den tiden Kongen bestemmer. Den tiden ballettdanseren, sangsolisten eller korsangeren har vært omfattet av den tidligere avtalebaserte pensjonsordningen for det kunstneriske personalet ved Den Norske Opera & Ballett, regnes som pensjonsgivende tjenestetid etter denne loven. Loven griper ikke inn i rettigheter opptjent før loven trer i kraft. Kongen kan gi nærmere overgangsregler.
