@@ -1,4 +1,12 @@
-# § 2 A-2. Vern mot gjengjeldelse ved varsling
-(1) Gjengjeldelse mot arbeidstaker som varsler i samsvar med § 2 A-1 er forbudt. Overfor innleid arbeidstaker gjelder forbudet både for arbeidsgiver og innleier. Dersom arbeidstaker fremlegger opplysninger som gir grunn til å tro at det har funnet sted gjengjeldelse i strid med første eller andre punktum, skal det legges til grunn at slik gjengjeldelse har funnet sted hvis ikke arbeidsgiveren eller innleieren sannsynliggjør noe annet.
-(2) Første ledd gjelder tilsvarende ved gjengjeldelse mot arbeidstaker som gir til kjenne at retten til å varsle etter § 2 A-1 vil bli brukt, for eksempel ved å fremskaffe opplysninger.
-(3) Den som er blitt utsatt for gjengjeldelse i strid med første eller andre ledd, kan kreve oppreisning uten hensyn til skyld hos arbeidsgiver eller innleier. Oppreisningen fastsettes til det beløp som retten finner rimelig under hensyn til partenes forhold og omstendighetene for øvrig. Erstatning for økonomisk tap kan kreves etter alminnelige regler.
+# § 2 A-2. Fremgangsmåte ved varsling
+(1) Arbeidstaker kan alltid varsle internt
+a) til arbeidsgiver eller en representant for arbeidsgiver
+b) i samsvar med virksomhetens rutiner for varsling
+c) i samsvar med varslingsplikt
+d) via verneombud, tillitsvalgt eller advokat.
+(2) Arbeidstaker kan alltid varsle eksternt til en offentlig tilsynsmyndighet eller en annen offentlig myndighet.
+(3) Arbeidstaker kan varsle eksternt til media eller offentligheten for øvrig dersom
+a) arbeidstaker er i aktsom god tro om innholdet i varselet,
+b) varselet gjelder kritikkverdige forhold som har allmenn interesse, og
+c) arbeidstaker først har varslet internt, eller har grunn til å tro at intern varsling ikke vil være hensiktsmessig.
+(4) Arbeidsgiver har bevisbyrden for at varsling har skjedd i strid med §§ 2 A-1 og 2 A-2.

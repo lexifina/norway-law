@@ -1,1 +1,1 @@
-# Kapittel 2 A. Varsling
+# Kapittel 2 A Varsling
