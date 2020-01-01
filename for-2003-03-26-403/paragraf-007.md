@@ -1,0 +1,4 @@
+# § 7. Reisebevis/billett
+Rett til befordring fås ved å ha gyldig reisebevis eller gyldig elektronisk/optisk identifiserbart betalingsmedium som aksepteres på ferjesambandet. Den reisende er selv ansvarlig for å inneha gyldig reisebevis eller gyldig elektronisk/optisk identifiserbart betalingsmedium. Reisebeviset skal oppbevares under hele reisen og skal forevises ved kontroll. Den reisende med elektronisk/optisk betalingsmedium skal under overfarten stille dette til disposisjon for ny kontrollavlesning.
+Reisende som ved kontroll ikke kan vise gyldig reisebevis eller stille elektronisk eller optisk identifiserbart betalingsmedium til disposisjon for kontroll, skal betale tilleggstakst.
+Oppgjør kan skje ved etterfakturering, belastning av kontokort, verdikort eller ved ekstra klipp i sonekort. Antallet klipp bestemmes etter følgende beregning: Samlet beløp å betale dividert med betalt nettopris pr. klipp, avrundet oppover til nærmeste hele klipp.
