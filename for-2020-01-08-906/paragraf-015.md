@@ -1,0 +1,2 @@
+# § 15. Klage på opptak
+Søker som har fått avslag på vedtak om opptak kan klage på vedtaket. Klagen skal være skriftlig og gjøre rede for grunnlaget for klagen, herunder om det klages over formelle feil (saksbehandlingen) eller opptakskomiteens vurdering av søknaden (skjønnsutøvelsen). Eventuell klage må være postlagt senest tre uker etter opptaksvedtaket er kunngjort. Klagen vil bli behandlet av HØFYs klagenemnd.

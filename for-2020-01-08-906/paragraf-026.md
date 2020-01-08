@@ -1,0 +1,8 @@
+# § 26. Oppmelding til eksamen
+(1) Oppmelding til eksamen skjer gjennom godkjenning av studieplan innen angitte frister. Oppmelding til eksamen skjer ved skolens studentservice.
+(2) Rektor kan vedta at det skal holdes ny eksamen med adgang for studenter som ikke har bestått eksamen eller som hadde gyldig fravær ved ordinær eksamen. Hvis ny eksamen avholdes kan denne også åpnes for studenter som ønsker å forbedre. Rektor avgjør om vurderingsform kan endres i forhold til ordinær eksamen.
+(3) Studenter som vil framstille seg for ny eller utsatt eksamen, er selv ansvarlig for å melde seg opp innen fastsatte frister.
+(4) Studenten er selv ansvarlig for å holde seg orientert om tid og sted for eksamen.
+(5) Rektor kan i særlige tilfeller og etter søknad fravike oppmeldingsfristene. Dispensasjon kan gis i de tilfelle der en student har vært syk eller det er andre uforutsette hindringer som har gjort det umulig for studenten å melde seg innen fristen, og dette blir dokumentert.
+(6) En student som er meldt opp til eksamen, har anledning til å trekke seg. Avmelding til eksamen skal gjøres senest 2 uker før eksamensdagen/innleveringsdato. Unntak er for bacheloroppgave, der avmelding skal gjøres senest én måned før innleveringsfrist.
+(7) En student anses for å ha framstilt seg til eksamen dersom studenten uten gyldig grunn trekker seg etter avmeldingsfristens utløp, ikke møter til eksamen, ikke leverer besvarelse, eller møter på eksamen og trekker seg under eksamen. Gyldig grunn er sykdom eller sterke velferdsgrunner og skal være dokumentert. Slik dokumentasjon skal leveres/være poststemplet så raskt som mulig og senest innen tre vanlige arbeidsdager (mandag–fredag) etter eksamen/innleveringsdato.

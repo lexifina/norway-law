@@ -1,0 +1,4 @@
+# § 34. Klage over formelle feil
+(1) Klage over formelle feil ved eksamen behandles av skolens klagenemnd etter bestemmelsene i lov om universiteter og høyskoler § 5-2. Formelle feil kan være feil ved oppgavegiving, eksamensavvikling eller ved gjennomføring av sensuren.
+(2) Klage over formelle feil ved eksamen må fremsettes innen tre uker etter at klager er eller burde vært kjent med det forhold som begrunner klagen. Er krav om begrunnelse for eller klage over karakterfastsettingen framsatt, løper klagefristen fra klager har fått begrunnelsen eller en avgjørelse av klagen (jf. lov om universiteter og høyskoler § 5-2 (3)).
+(3) Finner klagenemnda at det er begått formelle feil, og det er rimelig å anta at dette kan ha hatt betydning for en eller flere studenters prestasjon eller bedømmelse av denne, skal det foretas ny sensurering eller holdes ny eksamen for alle berørte studenter så snart som mulig.

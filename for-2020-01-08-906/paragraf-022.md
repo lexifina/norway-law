@@ -1,0 +1,4 @@
+# § 22. Strategisk planlegging og fastsetting av studieportefølje
+(1) Styret trekker opp strategien for institusjonens utdannings- og forskningsvirksomhet og annen faglig virksomhet, og legger planer om den faglige utviklingen i samsvar med de mål som er gitt av overordnet myndighet for sektoren og institusjonen. Med utgangspunkt i strategiske mål og langsiktige planer om faglig utvikling, gjør styret årlig vedtak om hvilke studieplaner som skal inngå i skolens studieportefølje.
+(2) Når kapasitetshensyn eller ressurshensyn krever det, kan styret selv regulere adgangen til det enkelte studium eller deler av det, innenfor de rammer og mål som gis av departementet.
+(3) Dersom manglende søkning eller andre tvingende grunner gjør det nødvendig å avlyse opptaket til studier eller enkeltemner, har rektor fullmakt til å gjøre vedtak om dette.

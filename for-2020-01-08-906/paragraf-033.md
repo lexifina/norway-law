@@ -1,0 +1,12 @@
+# § 33. Begrunnelse for, og klage over karakterfastsetting
+(1) En student eller studentgruppe har rett til å få en begrunnelse for karakterfastsettingen av sin prestasjon. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter, må krav om begrunnelse framsettes umiddelbart etter at karakteren er meddelt.
+(2) Ved annen bedømmelse må krav om begrunnelse framsettes innen en uke fra sensur ble offentliggjort.
+(3) Begrunnelse skal normalt være gitt innen to uker etter at klager har framsatt krav om det. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av klagers prestasjon. Begrunnelse gis muntlig eller skriftlig etter sensors valg. Sensorene avgjør seg imellom hvem som skal gi begrunnelsen.
+(4) Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har klager framsatt krav om begrunnelse for karakterfastsetting eller klaget over formelle feil, løper klagefristen fra klager har mottatt begrunnelse eller avgjørelse på klagen over formelle feil. Den skriftlige klagen skal:
+a) Gi opplysning om hvem som klager med navn, adresse og studentnummer
+b) Vise til det vedtak det klages over (emne, eksamensdato, karakter)
+c) Dato og underskrift. Ved klage knyttet til gruppeeksamen/felles arbeid må hvert gruppemedlem samtykke i og signere klagen.
+(5) Bedømmelse av muntlig prestasjon og praksisopplæring eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages (jf. lov om universiteter og høyskoler § 5-3 (5)).
+(6) Ved ny sensurering etter klage over karakterfastsetting, benyttes minst to nye sensorer, hvorav minst én ekstern. De nye sensorene skal foreta en helt ny sensurering, og skal således ikke ha opplysninger om karakter, begrunnelse for karakter eller klagers begrunnelse for klagen. Endring kan gjøres både til gunst og ugunst for klager. (Jf. lov om universiteter og høyskoler § 5-3.)
+(7) Ved klagesensur skal klagen avgjøres uten ugrunnet opphold (jf. forvaltningsloven § 11a).
+(8) Karakterfastsetting ved ny sensurering kan ikke påklages, (jf. lov om universiteter og høyskoler § 5-3 (6)). Hvis den endelige karakter blir fastsatt på grunnlag av en muntlig eksamen/justering i tilknytning til en skriftlig deleksamen, og klager får medhold i klage på sensuren av den skriftlige delen av eksamen, holdes ny muntlig eksamen før ny endelig karakter fastsettes.
