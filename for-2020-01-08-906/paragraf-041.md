@@ -1,0 +1,2 @@
+# § 41. Tilknytningskrav for utstedelse av vitnemål
+For at Høyskolen for yrkesfag AS skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må minst 60 av studiepoengene som skal inngå i beregningsgrunnlaget, være avlagt ved høyskolen. Det er normalt den siste høyskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved innpassing mellom høyskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte høyskolene.

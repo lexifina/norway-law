@@ -1,0 +1,5 @@
+# § 7. Realkompetanse
+(1) Søkere som er 25 år eller eldre i opptaksåret, og som ikke dekker opptakskravet gjennom formell utdanning, har krav på å få vurdert om de er kvalifiserte for et bestemt studium på grunnlag av realkompetanse. Realkompetanse kan tilkjennes på grunnlag av kunnskaper søker har fått gjennom lønnet og ulønnet arbeid, organisasjonsarbeid, utdanning eller på annen måte.
+(2) Søkere må ha minimum 5 års relevant fulltids yrkespraksis, deltid regnes om til heltid. Inntil 2 av disse 5 årene kan erstattes av relevant ulønnet arbeid, utdanning, organisasjonserfaring eller liknende. Ingen kan få mere enn 100 % uttelling for yrkespraksis og utdanning for samme periode.
+(3) Det må i tillegg kunne dokumenteres tilstrekkelig grunnlag i felles allmenne fag tilsvarende læreplanene i Vg1 og Vg2 i yrkesfaglige utdanningsprogram.
+(4) Søkere som får godkjent realkompetanse som en del av sitt opptaksgrunnlag, skal rangeres etter en helhetlig og skjønnsmessig vurdering av om søkeren har likeverdige kvalifikasjoner med søkere som tas opp etter rangering på grunnlag av poengberegning.
