@@ -1,0 +1,5 @@
+# § 8. Håndtering og binding
+Dyrene skal håndteres skånsomt. Det er forbudt å bruke utstyr som gir elektrisk støt. Det skal ikke brukes legemidler for å berolige dyrene under transporten, med mindre det er nødvendig for å sikre dyrenes velferd.
+Dyr som er fiendtlig innstilt til hverandre eller kan skade hverandre, skal håndteres og transporteres atskilt. Kjønnsmodne, ukastrerte hanndyr han håndteres og transporteres sammen med hunndyr av samme art bare dersom dyrene er vant til å holdes sammen og ikke viser tegn til brunst.
+Ved transport av dyr med horn eller gevir skal det gjennomføres nødvendige tiltak for å hindre at dyrene skader hverandre.
+Når dyr må bindes under transport, skal tau eller annet bindsel ikke kunne slites av under normale transportforhold, og ikke gi fare for kvelning eller skade. Dyret skal raskt kunne frigjøres. Bindsel må ikke hindre dyret i å stå i naturlig stilling, holde balansen eller ete og drikke. Dyr som naturlig legger seg under transport, må ikke hindres i dette av bindselet. Dyr skal ikke bindes i horn, gevir eller nesering, og beina på dyret skal ikke bindes sammen.
