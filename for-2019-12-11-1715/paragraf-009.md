@@ -1,0 +1,2 @@
+# § 9
+Inntil endringen av allmennaksjeloven § 8-10 annet ledd ved lov 6. desember 2019 nr. 77 trer i kraft, gjelder følgende:Beregningen av det beløp som kan ytes etter allmennaksjeloven § 8-10 første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake lenger i tid enn seks måneder før dagen generalforsamlingen godkjenner styrets vedtak om finansiell bistand.

@@ -1,0 +1,2 @@
+# § 7
+Inntil allmennaksjeloven § 3-11 annet ledd ved lov 6. desember 2019 nr. 77 trer i kraft, gjelder følgende:Terskelverdien etter allmennaksjeloven § 3-11 første ledd kan bygge på en mellombalanse som er utarbeidet og revidert etter reglene for årsregnskap og godkjent av generalforsamlingen. Balansedagen kan ikke ligge lenger tilbake i tid enn seks måneder før dagen generalforsamlingen godkjenner avtalen. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
