@@ -1,0 +1,5 @@
+# § 2. Overgangsperioden
+Med overgangsperioden menes i loven her perioden fra Storbritannias uttreden av EU til og med 31. desember 2020.
+Bestemmelser i lov, stortingsvedtak og forskrift som tjener til å oppfylle Norges forpliktelser etter EØS-avtalen, skal i overgangsperioden anvendes som om Storbritannia fortsatt er medlem av EU. Det samme gjelder bestemmelser i lov, stortingsvedtak og forskrift som tjener til å oppfylle Norges forpliktelser etter andre avtaler som er bindende mellom Norge og EU, mellom Norge og EUs medlemsstater når de har handlet på vegne av EU, eller med EU og medlemsstatene sammen.
+Andre bestemmelser i lov, stortingsvedtak og forskrift som fastsetter rettigheter og plikter for fysiske og juridiske personer etablert innenfor Det europeiske økonomiske samarbeidsområde (EØS), eller knytter rettsvirkninger til at handlinger har skjedd innenfor EØS, skal i overgangsperioden anvendes som om Storbritannia fortsatt er medlem av EU.
+Kongen kan i forskrift forlenge tidsperioden fastsatt i første ledd.
