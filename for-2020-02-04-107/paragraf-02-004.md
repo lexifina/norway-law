@@ -1,0 +1,2 @@
+# § 2-4. Lukking av posisjon
+Lukking av en eller flere av en kundes åpne posisjoner i CFD-er skal skje på vilkår som er mest gunstig for kunden og i tråd med verdipapirhandelloven § 10-9 til § 10-13, § 10-19 og § 10-20, når summen av midler på kundens konto og urealisert nettofortjeneste på alle åpne CFD-er knyttet til denne kontoen er under halvparten av den totale bunnsikkerheten for alle de åpne CFD-ene.
