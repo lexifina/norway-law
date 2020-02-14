@@ -1,0 +1,5 @@
+# § 5-2. Vitnemål og kompetansebevis
+1) Studentene har krav på å få dokumentert fullført utdanning gjennom utstedelse av vitnemål, jf. § 19 i fagskoleloven. Vitnemål utstedes når hele studiet er fullført og alle eksamener er bestått.
+2) Vitnemålet skal dokumentere det overordnede læringsutbyttet til utdanningen og oppnådd kvalifikasjon. Alle avsluttende vurderinger og eksamenskarakterer skal fremgå, sammen med antallet oppnådde studiepoeng. For ett års bestått fagskoleutdanning på heltid gis 60 studiepoeng.
+3) Ved godskrivning for utdanning fra flere skoler, må minimum 30 av studiepoengene som skal inngå i beregningsgrunnlaget være avlagt ved Imageakademiet, jf. § 38 i fagskoleforskriften. Utdanningen må som hovedregel også være ferdigstilt ved Imageakademiet for at skolen skal utstede vitnemål.
+4) Etter fullført, men ikke bestått utdanning, utstedes det kompetansebevis. Den som ikke har avsluttet utdanningen skal på anmodning gis utskrift av de vurderinger som er gitt på de eksamener og/eller prøver, oppgaver og innleveringer som studenten har bestått, i tillegg til kompetansebevis for de deler som studenten har fullført.

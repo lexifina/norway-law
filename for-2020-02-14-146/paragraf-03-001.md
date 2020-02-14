@@ -1,0 +1,6 @@
+# § 3-1. Grunnleggende rettigheter og plikter
+1) Studentene ved Imageakademiet har rett til opplæring, vurdering og dokumentasjon i samsvar med bestemmelsene i lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning (fagskoleloven).
+2) Studenten har rett til opplæring og veiledning i henhold til studieplanen for det studiet studenten følger.
+3) Student plikter å sette seg inn i det til enhver tid gjeldende regler ved skolen og de særskilte regler som gjelder det studietilbudet studenten følger. Videre plikter studenten å sette seg inn i studiets rutiner, herunder fag-, time-, prøve- og eksamensplaner. Manglende kjennskap fritar ikke studenten fra disse bestemmelsene.
+4) Studenten plikter skriftlig å underrette skolen om endringer av navn og kontaktinformasjon, herunder inkludert e-post.
+5) Enhver student er forpliktet til å betale den studieavgift som til enhver tid er gjeldene for det aktuelle studium. Registreringsavgiften kommer til fradrag i den totale avgiften for studiet. Ved forsinket betaling ilegges forsinkelsesrenter og purregebyr i henhold til lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) og lov 13. mai 1988 nr. 26 om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven) med forskrift. Manglende betaling kan bli inndrevet gjennom rettslig inkasso.

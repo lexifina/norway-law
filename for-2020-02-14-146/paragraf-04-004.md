@@ -1,0 +1,7 @@
+# § 4-4. Spesiell tilrettelegging av eksamen
+1) Skolen vil, så langt det er mulig og rimelig, tilrettelegge eksamen for studenter med særskilte behov.
+2) Særordninger kan være spesiell fysisk tilrettelegging, bruk av særskilte hjelpemidler og/eller utvidet tid til eksamen, eller i spesielle tilfeller alternativ eksamensform. Eksempler er bruk av elektronisk utstyr, skrivehjelp, muntlig eksamen i stedet for skriftlig, ekstra pauser med mulighet for å hvile, ammepauser etc. Ved skriftlig eksamen med tilsyn og praktisk eksamen, kan det gis utvidet tid med inntil 25 % av normal eksamenstid, maksimalt 1 time.
+3) Studenter som har behov for særordninger i forbindelse med gjennomføringen av eksamen, må sende skriftlig søknad til skolen senest fire uker før eksamen.
+4) Søknaden må inneholde dokumentasjon i form av legeattest eller attest fra en sakkyndig person som bekrefter behovet for særskilt tilrettelegging. Sakkyndig person kan for eksempel være lege, psykolog eller logoped.
+5) Søknaden vil bli vurdert ut fra om gjennomføringen av eksamen vil være faglig forsvarlig. Tilretteleggingen skal ikke gi studenten fordeler i forhold til andre studenter.
+6) Søknad om spesiell tilrettelegging behandles individuelt av skolens ledelse. Kandidaten kan klage på skolens vedtak. Klagen skal sendes skolen senest én uke etter at vedtaket er kommet kandidaten til kjennskap. Hvis klagen ikke tas til følge vil den automatisk bli sendt til den lokale klagenemnda.

@@ -1,0 +1,5 @@
+# § 4-1. Generelle bestemmelser
+1) Styret har ansvar for at eksamen gjennomføres slik at studentenes kunnskaper, ferdigheter og kompetanse blir prøvet og vurdert på en upartisk og faglig betryggende måte, jf. fagskoleloven § 21. Alle eksamener baserer seg på det til enhver tid gjeldende pensum slik det fremgår av den aktuelle studieplanen.
+2) Det skal fremgå av studieplanene hvilke eksamener og hva slags eksamensformer studenten må avlegge, i tillegg til vektingen av disse. For å bestå studiet må samtlige deleksamener være bestått.
+3) Dag for eksamen skal gjøres kjent for studentene senest tre måneder før eksamensdatoen. Sted og oppmøtetidspunktet skal gjøres kjent for studentene senest 12 dager før eksamen. Samme frist gjelder for utlevering av oppgaveteksten for praktisk eksamen. Alle eksamenskandidater er selv ansvarlige for å holde seg orientert om tid og sted for eksamensavleggelsen.
+4) For studenter som ikke har bestått eksamen, eller som har hatt lovlig fravær i henhold til gjeldende retningslinjer fra ordinær eksamen, avholdes ny eksamen så snart skolen anser det som mulig, men senest innen utgangen av påfølgende undervisningsklasse.
