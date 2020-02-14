@@ -1,0 +1,4 @@
+# § 2-6. Søknadsfrist og venteliste
+1) Imageakademiet praktiserer rullerende opptak, det vil si at søknader behandles forløpende uten en siste frist til alle studieplasser er fylt opp.
+2) I det tilfelle at det er flere søkere enn det er studieplasser for en klasse, opprettes det en venteliste for inntak til klassen. Søkere som har vært gjennom inntaksprosessen og tilfredsstiller kravene for opptak, mottar skriftlig beskjed hvor de opplyses om sin plass på ventelisten. Plassen på ventelisten bestemmes av hvor mange som allerede var på ventelisten i det søkeren gjennomførte opptaksprosessen.
+3) Blir det en ledig plass i den aktuelle klassen og søkeren er nummer en på ventelisten, sendes han/hun et inntaksbrev med tilbud om skoleplass på ordinær måte. Ved skolestart informeres alle resterende søkere på ventelisten om at inntaket til klassen er avsluttet.

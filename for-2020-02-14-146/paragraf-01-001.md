@@ -1,0 +1,4 @@
+# § 1-1. Alminnelige bestemmelser
+1) Denne forskriften gjelder for alle studenter ved studier som tilbys ved Imageakademiet. Med student menes en person med en skriftlig, bindende kontrakt med skolen. For deltakere på kortere kurs gjelder egne regler. Jf. forvaltningsloven for bestemmelser om behandlingen av saker etter paragrafene i denne forskrift.
+2) Det skal ikke gjøres endringer i vilkårene for skolekontrakten i løpet av avtaleperioden. Rektor kan foreta endringer i studieplanene, men må i så fall dokumentere og begrunne hvorfor endringene er nødvendige.
+3) Skolens studenter skal gjøres kjent med denne forskriften gjennom at de viktigste punktene blir gjennomgått i plenum ved skolestart. Studentene vil få tilbud om en egen kopi, og skal ved skolestart kvittere på at dokumentet er gjennomgått og forstått og forplikter seg samtidig til å følge skolens retningslinjer som videre beskrevet.

@@ -1,0 +1,5 @@
+# § 4-11. Rett til å klage over formelle feil ved eksamen
+1) Studenten har rett til å klage over formelle feil ved eksamen som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne., jf. § 23 i fagskoleloven. Formelle feil kan være feil ved oppgavegiving, eksamensavvikling eller gjennomføring av sensuren. Klageinstans er skolens styre.
+2) Klage over formelle feil ved eksamen må framsettes innen tre uker etter at studenten er eller burde vært kjent med det forhold som begrunner klagen. Er krav om begrunnelse eller klage på karakter framsatt, løper klagefristen fra studenten har fått begrunnelse eller avgjørelse fra skolen.
+3) Finner styret at det er begått formelle feil, og det er rimelig å anta at dette kan ha hatt betydning for en eller flere studenters prestasjon eller bedømmelsen av denne, skal det foretas ny sensur eller holdes ny eksamen så snart som mulig.
+4) Dersom det avholdes ny sensur eller ny eksamen, kan den nye karakterfastsettingen påklages etter reglene i § 4-10 i denne forskrift.

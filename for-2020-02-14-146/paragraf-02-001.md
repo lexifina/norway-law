@@ -1,0 +1,3 @@
+# § 2-1. Grunnleggende forutsetninger
+1) Grunnlaget for opptak ved Imageakademiet er kompetanse på nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring med vekt på estetiske og kunstneriske fag. Søkere uten formelle kvalifikasjoner på dette nivået har krav på å få vurdert om de er kvalifisert for opptak på grunnlag av tilsvarende realkompetanse hvis de er 23 år eller eldre i opptaksåret, eller på grunnlag av realkompetanse og opptaksprøve hvis de er 19 år eller eldre i opptaksåret, jf. § 16 i fagskoleloven og § 7 og § 8 i fagskoleforskriften.
+2) Vedtak om opptak på formelt grunnlag tas av rektor. En opptakskomité bestående av rektor og en fagansvarlig lærer står for realkompetansevurderingen, med et endelig vedtak fattet av rektor.
