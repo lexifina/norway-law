@@ -1,0 +1,2 @@
+# § 3. Tilsyn
+Ved utøvelsen av tilsynet kan departementet ta opp ethvert forhold som kan stride mot rammene i AFP-tilskottsloven, og de godkjente vedtektene for vedkommende ordning. Departementet kan forelegge aktuelle spørsmål for eksterne instanser til vurdering. Departementet kan, etter å ha forelagt spørsmålet for partene i vedkommende ordning for AFP, gi pålegg om endringer i drift eller finansiering.
