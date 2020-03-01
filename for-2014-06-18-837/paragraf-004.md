@@ -1,0 +1,3 @@
+# § 4. Om tilsynet
+Departementet innkaller Fellesordningen til to årlige tilsynsmøter med mindre tilsyn kan gjennomføres på annen måte, herunder ved dokumentbasert tilsyn. Fellesordningens styre og administrasjon skal være representert under tilsynsmøtene. Både departementet og Fellesordningen kan ta initiativ til møter i tillegg til tilsynsmøtene.
+Arbeids- og sosialdepartementet skal dokumentere tilsynet på egnet måte. Departementet utarbeider referat fra møter med Fellesordningen. Utkast til referat forelegges Fellesordningen for eventuelle merknader. Referatet skal sendes Fellesordningen med gjenpart til Riksrevisjonen. Ved dokumentbasert tilsyn skal departementet dokumentere tilsynet i et eget brev, som sendes Fellesordningen med gjenpart til Riksrevisjonen.
