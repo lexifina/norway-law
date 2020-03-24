@@ -1,0 +1,2 @@
+# § 1-2. Forhold til annet regelverk
+Art Complexion Makeup skole AS er en privat fagskole regulert av fagskoleloven. Forvaltningslovens regler kommer til anvendelse når skolen treffer enkeltvedtak eller utferdiger forskrifter jf. forvaltningsloven § 1 tredje punktum. Dersom ikke noe annet er bestemt, gjelder forvaltningsloven kapittel III til VI og VIII for avgjørelser om opptak, avsluttende vurdering, annullering av eksamen, bortvisning, utestenging, godskriving og fritak etter loven her. Avgjørelser om godskriving og fritak kan påklages etter reglene i § 20.

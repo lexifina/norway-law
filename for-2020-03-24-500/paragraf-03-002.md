@@ -1,0 +1,12 @@
+# § 3-2. Tilrettelegging for studenter med funksjonsnedsettelse og studenter med særskilte behov
+(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov kan få egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Tilretteleggingen skal ikke innebære en uforholdsmessig byrde for fagskolen. I denne vurderingen legges det særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og fagskolens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.
+a) Rett til egnet individuell tilrettelegging i skolesituasjonen kan være:
+- medisinske eller andre årsaker
+- funksjonsnedsettelse
+- lese- og skrivevansker.
+b) Skriftlig søknad må fremsette til Art Complexion Makeup Skole AS v/rektor sammen med oppmelding til utdanningen. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
+c) Egnet individuell tilrettelegging ved eksamen kan være:
+- forlengelse av tid til å gjennomføre oppgaver og prosjekter
+- spesielle hjelpemidler/hjelpetiltak.
+d) Skriftlig søknad må fremsette til Art Complexion Makeup skole AS v/rektor innen 1 (en) måned før eksamen avholdes. Dokumentasjon fra sakkyndig av nyere dato dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor behandler søknaden og fatter vedtak.
+(2) En student har klagerett på vedtak som er beskrevet i første ledd. Klagen må være framsatt skriftlig og må være rektor ved Art Complexion Makeup skole AS i hende senest 3 (tre) uker etter at studenten er underrettet om vedtaket og om begrunnelsen for vedtaket. Klagen bør være begrunnet. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be studentrepresentanten om hjelp og støtte i forbindelse med klage. Blir vedtaket ikke omgjort av rektor oversendes klagen til Art Complexion Makeup skole AS's klagenemnd som behandler klagen, tar en avgjørelse i saken og gir et begrunnet svar på klagen. Studenten har krav på et begrunnet svar innen 3 uker fra klagen ble mottatt. Avgjørelsen er endelig og kan ikke ankes.
