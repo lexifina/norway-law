@@ -1,0 +1,6 @@
+# § 23. Manglende oppmøte/deltakelse på eksamen
+1. En student får et eksamensforsøk registrert dersom han/hun uten gyldig grunn trekker seg etter angitt frist, ikke møter til eksamen, ikke leverer besvarelse, leverer besvarelse uten faglig innhold eller møter på eksamen og trekker seg under eksamen uten gyldig grunn. Han/hun har ikke krav på å fremstille seg på nytt før neste ordinære eksamen. Gyldig grunn er sykdom eller sterke velferdsgrunner, og skal være dokumentert. Slik dokumentasjon skal leveres/være poststemplet så raskt som mulig og senest innen tre virkedager regnet fra dato for slutt av eksamen.
+2. En student som har mistet studieretten etter å ha brukt opp sine forsøk til eksamen, får ikke nye forsøk til eksamen i samme emne ved å få nytt opptak til studieprogrammet.
+3. Oppmelding til ny eksamen for studenter som har fått eksamen vurdert til ikke bestått eller som hadde gyldig fravær ved ordinær eksamen må skje innen angitt frist før ny eksamen arrangeres.
+4. Studenter som tar ny eksamen er selv ansvarlig for å melde seg opp til eksamen.
+5. Rektor kan bestemme at det skal holdes ny eksamen med adgang for studenter som har fått eksamen vurdert til ikke bestått eller som hadde gyldig fravær ved ordinær eksamen. Studentene er selv ansvarlige for å holde seg orientert om tid og sted for eksamen.

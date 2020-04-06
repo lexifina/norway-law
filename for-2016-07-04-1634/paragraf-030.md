@@ -1,0 +1,4 @@
+# § 30. Klage over formelle feil
+1. Klage over formelle feil ved eksamen behandles av Klagenemnda ved LIMPI. Formelle feil kan være feil ved oppgavegiving, eksamensavvikling eller ved gjennomføring av sensuren, som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne.
+2. Klage over formelle feil ved eksamen må fremsettes innen tre uker etter at studenten er eller burde vært kjent med det forhold som begrunner klagen. Er krav om begrunnelse for eller klage over karakterfastsettingen framsatt, løper klagefristen etter uhl. § 5-2 (3) fra studenten har fått begrunnelsen eller en avgjørelse av klagen.
+3. Finner klagenemnda ved LIMPI at det er begått formelle feil, og det er rimelig å anta at dette kan ha betydning for en eller flere studenters prestasjon eller bedømmelse av denne, skal det foretas ny sensur for alle berørte studenter eller holdes ny eksamen så snart som mulig.
