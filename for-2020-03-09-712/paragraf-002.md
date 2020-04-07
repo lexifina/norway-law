@@ -1,0 +1,2 @@
+# § 2. Forsterket kontroll av forsendelser med animalske produkter
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bn, kap. II nr. 31qn og vedlegg II kap. XII nr. 164n (forordning (EU) 2019/1873) om framgangsmåtene for vedkommende myndigheters samordnede gjennomføring av forsterket offentlig kontroll av produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter og sammensatte produkter på grensekontrollstasjoner gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
