@@ -1,0 +1,2 @@
+# § 3. Gjeninnførsel av myndighetsavviste forsendelser
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bt, kap. II nr. 31qt og vedlegg II kap. XII nr. 164t (forordning (EU) 2019/2074) om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til reglene for offentlig kontroll av forsendelser av visse dyr og varer som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til en tredjestat gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
