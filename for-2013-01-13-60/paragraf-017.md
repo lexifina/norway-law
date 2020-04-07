@@ -1,0 +1,3 @@
+# § 17. Daggamle kyllinger og embryo i rugeri
+Daggamle kyllinger som ikke skal settes i produksjon, skal avlives før de er 24 timer gamle. Dersom levende embryo som ikke klekkes til normal tid skal avlives, skal det skje senest 24 timer etter normalt klekketidspunkt.
+Avlivingen kan foretas ved maserasjon, jf. forordning (EF) nr. 1099/2009 vedlegg I kapittel I tabell 1 nr. 4, i et mekanisk apparat som inneholder hurtig roterende mekanisk drevne kniver eller ekspanderende polystyrentapper. Apparatet skal være utformet og brukt på en slik måte at en sikrer at alle kyllingene og embryoene blir drept momentant selv om de blir håndtert i stort antall. Ved bruk av gass på daggamle kyllinger skal dyrene plasseres i enkle lag.

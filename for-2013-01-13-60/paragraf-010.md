@@ -1,0 +1,4 @@
+# § 10. Bedøving med boltpistol og skytevåpen
+Ved bedøving med boltpistol eller skytevåpen gjelder følgende krav i tillegg til forordning (EF) nr. 1099/2009 vedlegg I kapittel I tabell 1 nr. 1, 2 og 3 og kapittel II punkt 1:
+a) Pattedyr skal skytes i pannen. Sau og geit kan skytes bak hornanlegget dersom horn gjør plassering av skuddet i pannen umulig. Skuddet skal da plasseres like bak hornanlegget med retning mot munnen. Store reinbukker med gevir kan skytes i tinningen. Skuddet skal uansett plasseres slik at det gir umiddelbar bedøving, tilpasset den aktuelle dyrearten.
+b) Den som foretar bedøving med boltpistol, skal sikre at bolten er gått helt tilbake til utgangsstillingen før hvert skudd. Hvis bolten ikke lar seg føre helt tilbake, skal feilen utbedres før pistolen tas i bruk på nytt.

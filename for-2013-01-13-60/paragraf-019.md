@@ -1,0 +1,6 @@
+# § 19. Pelsdyr
+Avliving av rev skal utføres av person med kompetansebevis som nevnt i forordning (EF) nr. 1099/2009 artikkel 21 i stedet for å oppfylle kravet i artikkel 7 nummer 3.
+Avliving av mink skal utføres av person med kompetansebevis, eller av person under nærvær og direkte overvåkning av person med slikt kompetansebevis, som nevnt i forordning (EF) nr. 1099/2009 artikkel 21 i stedet for å oppfylle kravet i artikkel 7 nummer 3.
+Ved avliving av pelsdyr med elektrisk strøm, jf. forordning (EF) nr. 1099/2009 vedlegg I kapittel I tabell 2, skal det bare brukes avlivingsapparater som er konstruerte for avliving av den aktuelle dyrearten. Apparatet skal være forsynt med en lett avlesbar måler som kontinuerlig viser strømstyrken under avliving. Apparatet skal gi et signal i den tiden strømmen går gjennom dyret.
+Ved bedøving av pelsdyr med gass, jf. forordning (EF) nr. 1099/2009 vedlegg I kapittel I tabell 3, skal innretning hvor dyrene innånder gassen være utformet slik at gassnivået er mest mulig stabilt. Innretningen skal være utstyrt med instrumenter som måler gasskonsentrasjonen under avliving, og som gir et klart varsel dersom konsentrasjonen blir lavere enn tillatte volumprosent.
+Ved bruk av karbondioksid, jf. forordning (EF) nr. 1099/2009 vedlegg I kapittel I tabell 3 nr. 1, skal ingen dyr vise tegn til bevissthet etter 30 sekunders eksponering.

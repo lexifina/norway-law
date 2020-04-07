@@ -1,0 +1,3 @@
+# § 6. Driving
+Drivgangene skal i tillegg til å oppfylle forordning (EF) nr. 1099/2009 vedlegg II punkt 2.1 være innrettet slik at dyrenes flokkinstinkt kan utnyttes. Som drivredskap kan det nyttes drivlem eller andre mekaniske hjelpemidler for å lede dyrene der det er nødvendig.
+Driving av dyr med elektrisk drivstav skal så langt som mulig unngås. Ved slik bruk av elektrisk drivstav, jf. forordning (EF) nr. 1099/2009 vedlegg III punkt 1.9, skal det gå minst 10 sekunder mellom hver gang, og det skal ikke gis mer enn et par korte elektriske støt rett etter hverandre av gangen. Dyrene skal ha fri mulighet til å bevege seg forover.
