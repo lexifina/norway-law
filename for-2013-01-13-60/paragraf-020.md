@@ -1,0 +1,3 @@
+# § 20. Avblødning og videre behandling av dyrene
+Dyr som avlives utenfor slakteri, skal avbløs i samsvar med forordning (EF) nr. 1099/2009 vedlegg III punkt 3 og § 13. Kravet om avblødning gjelder ikke ved avliving med legemiddel, avliving av fjørfe som ikke skal benyttes til mat, avliving av pelsdyr med gass eller elektrisitet og avliving av hund, katt og andre kjæledyr, forutsatt at bedøvingsmetoden medfører sikker død.
+Videre behandling av dyrene skal ikke påbegynnes før eventuell avblødning er avsluttet og det er konstatert at hvert enkelt dyr er dødt. Pelsing av pelsdyr skal ikke finne sted før tidligst 10 minutter etter at dyret er konstatert dødt.
