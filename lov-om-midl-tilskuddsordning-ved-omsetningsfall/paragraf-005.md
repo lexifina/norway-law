@@ -1,0 +1,3 @@
+# § 5. Tilskuddets størrelse
+(1) Tilskudd fastsettes på grunnlag av foretakets omsetningsfall og faste, uunngåelige kostnader i den måneden tilskuddet gjelder.
+(2) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf. Departementet kan herunder gi regler om beregningen av tilskuddet, blant annet hvilke kostnader som omfattes, egenandel, nedskaleringsfaktor for enkelte typer kostnader, særskilte regler for egenandel og kostnader for foretak som er omfattet av statlig pålegg om stenging, øvre grenser for tilskudd som kan gjelde per måned og for hele perioden tilskuddsordningen gjelder og som kan gjelde for det enkelte foretak eller samlet for konsern samt særskilte regler for konserninterne kostnader og omsetning.

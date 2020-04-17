@@ -1,0 +1,4 @@
+# § 3. Virkeområde
+(1) Tilskuddsordningen gjelder for kalendermånedene mars, april og mai 2020. Kongen kan i forskrift forlenge ordningens varighet.
+(2) Ordningen gjelder for foretak som er registrert i foretaksregisteret med hjemmel i foretaksregisterloven § 2-1, og enkeltpersonforetak registrert i enhetsregisteret hvis foretakets inntekt er innehavers hovedinntektskilde. Foretaket må være skattepliktig til Norge, jf. skatteloven § 2-2 første ledd, eller deltakerne i foretaket må være skattepliktig til Norge for selskapets inntekter, jf. skatteloven § 2-2 tredje ledd. Ordningen omfatter også tilfeller der foretaket eller foretakets eier skattlegges i Norge for virksomhet her etter skatteloven § 2-3 første ledd bokstav b.
+(3) Departementet kan gi forskrift om nærmere avgrensning av virkeområdet, herunder at ordningen ikke skal gjelde for foretak i visse næringer og foretak som er eid av stat eller kommune.
