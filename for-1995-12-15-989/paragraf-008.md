@@ -1,0 +1,9 @@
+# § 8. Unntak fra forbudet mot tobakksreklame
+I den utstrekning et forhold vil rammes av reklameforbudet i tobakksskadeloven § 22, herunder bestemmelsene i forskriften her, gjøres følgende unntak:
+1) Annonsering eller annen opplysning i trykt skrift om etablering av ny spesialforretning for tobakksvarer, med angivelse av utsalgets navn, sted og åpningstider samt vareutvalg, begrenset til følgende betegnelser: Sigaretter, sigarer, røyketobakk, skråtobakk, tobakk, snus, råtobakk, sigarettpapir, sigarettrullere, piper. Opplysningene kan bare gis i skrift og farge som vanlig ellers i vedkommende annonse eller trykt skrift og uten illustrasjoner. Tilsvarende gjelder ved eierskifte av utsalget.
+2) Utendørs skilt av sedvanlig størrelse og utstyr, i nøytral typografisk utforming som bare har opplysningsfunksjon, som f.eks. «Tobakk», i tilknytning til spesialforretninger for tobakk. Unntaket omfatter ikke lysreklame eller bevegelige skilt.
+3) Ren produktinformasjon direkte til videreforhandlere, i nøytral typografisk utforming med svart skrift på hvit bakgrunn uten bruk av illustrasjoner.
+4) Annonsering av ledige stillinger innen tobakksfremstilling, spesialforretninger for tobakksvarer e.l., som bare inneholder opplysninger som er nødvendige for å gjøre seg kjent med hva stillingen innebærer.
+5) Oppstilling av tobakksvarer og røykeutstyr inne i spesialforretninger i den utstrekning slik plassering er hensiktsmessig for en rasjonell omsetning. Unntaket gjelder ikke utstyr for plassering av varer som på grunn av sin størrelse eller utforming vil gi reklameeffekt.
+6) Reklame i utenlandsk trykt skrift som innføres til Norge, når hovedformålet med reklamen, tidsskriftet eller importen ikke er å reklamere for tobakksvarer i Norge.
+7) Indirekte reklame av uvesentlig omfang i utenlandske programmer sendt over norsk fjernsyn og norske kabelnett, samt i utenlandsk produsert film.
