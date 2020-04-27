@@ -1,0 +1,2 @@
+# § 17. Kontrollmyndighet
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i eller i medhold av denne forskriften i samsvar med matloven § 23 om tilsyn og vedtak og kan herunder treffe vedtak etter § 24 om særskilt smittesanering, § 25 om stenging og virksomhetskarantene og § 26 om tvangsmulkt Mattilsynet har rett til å ta ut prøver av alle settepoteter som omfattes av forskriften. Mattilsynet fastsetter nærmere regler for gjennomføring av denne forskrift, herunder spesifiserte dyrkingsregler for gjennomføring av avlen (vedlegg II).
