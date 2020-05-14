@@ -1,3 +1,4 @@
 # § 25
 Kongen har høgste befalinga over forsvarsmakta til riket. Denne makta må ikkje aukast eller minkast utan samtykke frå Stortinget. Ho må ikkje overlatast i framande makters teneste, og ingen krigsfolk frå framande makter, så nær som troppar til hjelp mot fiendsleg overfall, må dragast inn i riket utan samtykke frå Stortinget.
 Landvernet og andre troppar som ikkje kan reknast som linetroppar, må aldri brukast utanfor grensene til riket utan samtykke frå Stortinget.
+Regjeringa har ikkje rett til å nytte militær makt mot innbyggjarane utan etter lov, med mindre ei forsamling skiplar den offentlege roa og ikkje skilst åt så snart den sivile styresmakta tre gonger har lese lovføresegnene om opprør høgt og tydeleg for henne.
