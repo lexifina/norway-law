@@ -1,0 +1,3 @@
+# § 8-2. Krav til eiga inntekt
+Ein låntakar som har hatt ei person- og kapitalinntekt per år som er under ei grense i tabellen nedanfor, kan få sletta rentene for så mange månader som er knytte til inntektsgrensa i tabellen, dersom minst eitt av vilkåra i § 8-4 eller § 8-5 var oppfylt desse månadene.
+Inntektsgrensene i tabellen blir heva med eit fast beløp for kvart barn som låntakaren har forsørgd, til og med det året barnet fyller 16 år. For 2020 blir inntektsgrensa heva med 15 561 kroner for kvart barn. For 2019 blir inntektsgrensa heva med 15 020 kroner for kvart barn. For 2018 blir inntektsgrensa heva med 14 547 kroner for kvart barn. For 2017 blir inntektsgrensa heva med 14 123 kroner for kvart barn.
