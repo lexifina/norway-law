@@ -1,0 +1,12 @@
+# § 2-4. Utrekning av rente
+Utgangspunktet for rentesatsane i Lånekassen er ei basisrente som er fastsett av Finanstilsynet i samsvar med forskrift til utfylling og gjennomføring mv. av skatteloven 26. mars 1999 nr. 14 § 5-12-5. Basisrenta blir fastsett med utgangspunkt i uttrekk av prisar på bustadlån frå Finansportalen gjennom ein observasjonsperiode. Basisrenta er lik gjennomsnittet av dei fem lågaste prisane på bustadlån på kvart observasjonstidspunkt i observasjonsperioden.
+Observasjonsperiodane startar ved årsskiftet.
+Flytande basisrente blir fastsett på grunnlag av to månaders observasjon av tilbod om bustadlån med flytande rente. Ny flytande rente tek til å gjelde to månader etter avslutta observasjonsperiode.
+Fast basisrente blir fastsett på grunnlag av éin månads observasjon av tilbod om bustadlån med den same rentebindingstida som i avtalen om fast rente på utdanningslånet. Ny fast rente tek til å gjelde éin månad etter avslutta observasjonsperiode.
+Lånekassen fastset dei nominelle rentene på lånet til låntakaren. Desse blir rekna ut frå basisrenta minus 0,15 prosentpoeng. Formelen for å rekne ut den nominelle renta er slik: $$r_n = \left[ (1+r_e)^{\frac 1n} - 1 \right] n$$
+Når effektiv rente skal reknast ut, kjem i tillegg gebyr ved varsling og for sein betaling, og gebyr og kostnader ved innkrevjing, sjå kapittel 4.
+Dei nominelle og effektive rentene blir oppgitte med tre desimalar.
+Rentebelastning skjer på etterskott med ei nominell perioderente som svarer til den årlege nominelle renta dividert på 365 eller 366 dagar.
+Etter kvart forfall blir det rekna renter av renter som ikkje er betalte. Det blir også rekna renter av renter som er lagde til gjelda i perioden frå lånet blir gjort renteberande og fram til første terminforfall, og i periodar med betalingsutsetjing.
+For låntakarar som har lån frå før 1. juli 1985, blir det ikkje rekna renter av rentegjeld som er opparbeidd før 1. januar 1990.
+Det blir ikkje rekna renter av renter som er lagde til på grunn av forseinka betaling, sjå § 2-3.
