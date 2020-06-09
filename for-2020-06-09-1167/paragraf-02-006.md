@@ -1,0 +1,2 @@
+# § 2-6. Betinget opptak
+Søker som ikke er ferdige med videregående skole, men som kan dokumentere at hen skal gjennomføre sine respektive utdanninger i løpet av det påfølgende semesteret, kan tildeles plass på det vilkår at utdanningen blir bestått, jf. fagskoleforskriften § 11. Dersom utdanningen ikke blir bestått, mister studenten studieretten med mindre det kan søkes på et annet opptaksgrunnlag. Ved tap av skoleplassen vil søkeren ikke få betalt tilbake studieavgiften for inneværende semester.

@@ -1,0 +1,2 @@
+# § 4-1. Rett til å klage
+Studentene har rett til å klage på beslutninger fattet av skolen som gjelder opptak, avsluttende vurdering, annullering av eksamen, bortvisning, utestenging, godskriving, og fritak. For slike klager gjelder reglene i forvaltningslovens regler om klagebehandling så langt de følger av fagskoleloven § 39 jf. § 1-2 andre ledd i denne forskriften. Søker bør be om begrunnelse før klagen sendes.
