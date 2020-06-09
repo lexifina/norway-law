@@ -1,0 +1,6 @@
+# § 1-3. Studentenes rettigheter og plikter
+(1) Studentene ved fagskolen har rett til opplæring, vurdering, og dokumentasjon i samsvar med bestemmelsene i fagskoleloven og tilhørende forskrifter. Det nærmere innholdet i Designinstituttets forpliktelse er beskrevet i opptaksavtalen mellom studenten og Designinstituttet.
+(2) Studentene plikter å betale fastsatte skolepenger og semesteravgifter i henhold til opptaksavtalen.
+(3) Studentene plikter å delta aktivt i den opplæringen som blir gitt, møte opp til undervisning og veiledning, og delta i de evalueringer og vurderinger som fagskolen tilbyr. Studentene plikter å sette seg inn i aktuelle studieplaner, reglement, denne forskriften og forpliktelsene i opptaksavtalen. Designinstituttet skal legge til rette for at studentene kan gjøre seg kjent med slikt materiale.
+(4) For å bestå utdanningen må studenten gjennomføre de emner, arbeidskrav mv. slik de fastsettes av Designinstituttet og som er redegjort for i opptaksavtalen og reglementet.
+(5) Studentene har to representanter i skolens styre. Disse er ordinære styremedlemmer. Studentrepresentantene skal velges i samsvar med fagskoleloven § 10 og § 14. Fremgangsmåte fremgår av reglementet.
