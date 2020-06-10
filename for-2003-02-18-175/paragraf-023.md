@@ -1,0 +1,4 @@
+# § 23. Krav til utearealer
+Svin som holdes ute, skal ha tilgang til tørr liggeplass som gir tilstrekkelig beskyttelse mot vind, nedbør, sol og ugunstige temperaturer. Dyra skal om nødvendig beskyttes mot rovdyr og andre helsefarer i området. Liggeområde skal ha minimum 3 tette vegger og tak. I varmt vær skal dyra ha tilgang på gjørmebad eller andre muligheter for å kjøle seg ned. Ved grising ute i hytter skal purkene ha tilgang på tilstrekkelig redemateriale.
+På fôringsplasser og andre sterkt belastede overflater i utearealet skal grunnen være opparbeidet, hardgjort og drenert. Utearealer som svin bruker, skal være egnet til formålet, og skal kontrolleres jevnlig med henblikk på forhold som kan påføre dyra skader og lidelser.
+Uteareal som svin har tilgang til, skal ha en størrelse og variasjon i grunnforhold og vegetasjon som gir dyra mulighet for mosjon, til å rote i bakken og å søke skjul for andre artsfeller.

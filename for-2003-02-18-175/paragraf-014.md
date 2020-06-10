@@ -1,0 +1,2 @@
+# § 14. Lys
+Dyrerom skal ha nok vinduer til å sikre tilgang på dagslys. Det skal også være mulighet for kunstig belysning slik at dyra får tilstrekkelig lys. Lysintensiteten skal være minst 75 lux i minst 8 timer pr. dag. Lyskildene skal plasseres slik at de ikke er til ubehag for dyra. Svin skal ikke utsettes for permanent kunstig lys. Dette er ikke til hinder for bruk av varmelampe til smågris og svakt orienteringslys om natten.

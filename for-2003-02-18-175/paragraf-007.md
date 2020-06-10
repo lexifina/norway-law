@@ -1,0 +1,7 @@
+# § 7. Bygning, rom m.m.
+Driftsmåter skal legges til rette slik at de gir svin gode muligheter for bevegelse, mosjon og normal atferd. Dyrerom skal være utformet og innredet slik at dyra ikke påføres eller påfører seg selv skade.
+Inngangspartiet til dyrerom skal være utstyrt med smittesluse for å motvirke smitteoverføring og sikre god hygiene. Det skal være egnet plass som sikrer at inn- og utlasting av dyr kan foregå på en dyrevernsmessig og smittemessig sikker måte. I tilknytning til dyrerom skal det være innlagt kaldt og varmt vann. Inngang til/utgang fra dyrerom skal ha egnet sted hvor personell kan skifte klær, vaske seg og reingjøre utstyr. Personell skal ha adgang til fôrlager og servicerom uten å måtte gå gjennom dyrerommet eller gangareal hvor det ferdes dyr.
+Materialer som brukes i dyrerom og innredning som svin kommer i kontakt med, skal ikke være skadelige for dyra, og skal kunne reingjøres og desinfiseres på en praktisk måte.
+Hold av svin over andre dyr i samme rom er ikke tillatt.
+Strømførende ledning skal ikke brukes som bingeskille eller på annen måte for å avgrense dyras oppholdsplass innendørs.
+Det skal brukes tekniske løsninger for utgjødsling og gjødselhåndtering som tillater bruk av tilstrekkelige mengder strø i dyrerom. Det skal gjennomføres tiltak for å hindre at det er skadelige mengder av gjødselgass i dyrerommet. I nybygg skal forbindelsen mellom dyrerom og gjødsellager være utformet slik at gjødselgassforgiftning ikke oppstår.
