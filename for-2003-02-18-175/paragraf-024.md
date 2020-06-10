@@ -1,0 +1,3 @@
+# § 24. Helårs utedrift
+Ved helårs utedrift må bestemmelsene i § 4, § 5, § 6, § 7, § 9, § 10, § § 11, § 12, § 14, § 15, § 16, § 17, § 18, § 19, § 20, § 21, § 22, § 23 og § 28 oppfylles.
+I tillegg skal dyra ved helårs utedrift sikres beskyttelse mot ugunstige værforhold i hus med tre tette vegger og tak. Det skal være mulighet for å tette også den fjerde veggen ved ekstreme værforhold. Dyra skal ved helårs utedrift sikres vanntilførsel. Tildeling av vann og fôr skal finne sted på tørre områder. Syke og skadde dyr skal kunne isoleres på egnet sted, hvor temperaturen er avpasset det enkelte dyrets behov, og mulighet for tørr og myk liggeplass. Det skal sikres at frostskader ikke oppstår.

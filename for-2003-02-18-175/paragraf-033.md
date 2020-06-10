@@ -1,0 +1,2 @@
+# § 33. Ikrafttredelse
+Denne forskriften trer i kraft straks. Fra samme tid oppheves bestemmelsene om svin i forskrift av 15. januar 1996 nr. 91 om hold av storfe og svin.
