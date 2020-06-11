@@ -1,0 +1,3 @@
+# § 17. Feiing og tilsyn med fyringsanlegg
+Kommunen skal sørge for at røykkanaler i fyringsanlegg som brukes til oppvarming av byggverk, blir feiet ved behov. Feiingen skal utføres på en faglig tilfredsstillende måte som medfører minst mulig ulempe for eiere og brukere. Etter feiingen skal feieren sørge for at all sot blir fjernet og brakt til egnet sted.
+Kommunen skal sørge for at det ved behov blir ført tilsyn med fyringsanlegg som brukes til oppvarming av byggverk. Kommunen skal sørge for at det blir ført tilsyn med fyringsanlegget etter brann eller eksplosjon i eller i tilknytning til fyringsanlegget.
