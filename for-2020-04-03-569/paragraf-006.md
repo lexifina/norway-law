@@ -1,0 +1,2 @@
+# § 6. Stipend til søkere med nedsatt funksjonsevne
+I forskrift 15. mars 2019 nr. 254 om tildeling av utdanningsstøtte for undervisningsåret 2019-2020 skal § 43-1 andre ledd ikke gjelde våren 2020 ved arbeid i sentrale samfunnsfunksjoner som for eksempel helse- og omsorgssektoren, ved innkalling til tjeneste i Heimevernet eller Sivilforsvaret, eller ved annet sikkerhets- og beredskapsarbeid i perioden med utbrudd av koronavirus.

@@ -1,0 +1,4 @@
+# § 7. Tilleggslån ved nedgang i inntekt på grunn av utbrudd av covid-19
+En søker som har hatt nedgang i inntekt i perioden 1. mars til 15. juni 2020 på grunn av utbruddet av covid-19, som er 18 år eller eldre, som har rett til lån og stipend etter 1. mars 2020, og som omfattes av tredje del i forskrift om tildeling av utdanningsstøtte for undervisningsåret 2019-2020, har våren 2020 rett til et tilleggslån på 26 000 kroner.
+En søker som har hatt nedgang i inntekt i perioden 1. mars til 15. juni 2020 på grunn av utbruddet av covid-19, som har rett til lån og stipend etter 1. mars 2020, og som i 2019-2020 har mottatt lån etter § 23-1 eller § 23-2 i forskrift om tildeling av utdanningsstøtte for undervisningsåret 2019-2020, har våren 2020 rett til et tilleggslån på 13 000 kroner.
+8 000 kroner av tilleggslånet blir gjort om til stipend i ettertid.
