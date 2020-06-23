@@ -1,0 +1,2 @@
+# Artikkel 3. Kvalitetsmål
+Målet er at minimum middels kvalitet for det enkelte villreinområdet opprettholdes eller nås snarest mulig. På lengre sikt er det også et mål at de nasjonale villreinområdene skal ha god kvalitet. Klima- og miljødepartementet og andre berørte departementer kan i samråd beslutte at målet fravikes for hele villreinområdet når viktige samfunnsinteresser veier tyngre enn hensynet til villreinen. Hensynet til villrein veier særlig tungt i fastsatte nasjonale villreinområder.
