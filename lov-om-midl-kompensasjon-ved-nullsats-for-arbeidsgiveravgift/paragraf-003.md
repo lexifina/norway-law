@@ -1,0 +1,3 @@
+# § 3. Tilskuddets størrelse
+(1) Arbeidsgivere som nevnt i § 2, får utbetalt et tilskudd tilsvarende 4 prosent av grunnlaget for arbeidsgiveravgift jf. folketrygdloven § 23-2, for mai og juni 2020. Tilskuddet skal bare gis for den delen av avgiftsgrunnlaget som har nullsats (Sone V og Svalbard) jf. §§ 1-5 i stortingsvedtak om fastsetting av avgifter mv. til folketrygden for 2020. Det skal ikke beregnes tilskudd av lønn og annen godtgjørelse som er fritatt for arbeidsgiveravgift etter folketrygdloven § 23-2.
+(2) Beregnet tilskudd under 1000 kroner tildeles ikke. Er beregnet tilskudd 1000 kroner eller mer, utbetales hele det beregnede tilskuddet.
