@@ -1,0 +1,2 @@
+# § 8. Tilbakebetaling av lån og stipend for våren 2020 i forbindelse med søknad om dagpenger
+Ved tilbakebetaling av lån og stipend for våren 2020 fra en søker som har fått lån og stipend på grunnlag av søknad i perioden 16. mars til og med 15. april 2020, gjelder ikke § 8-5 i forskrift om tildeling av utdanningsstøtte for undervisningsåret 2019-2020, dersom årsaken til tilbakebetalingen er at søkeren ønsker å søke om dagpenger.
