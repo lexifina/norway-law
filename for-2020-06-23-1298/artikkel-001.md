@@ -1,0 +1,2 @@
+# Artikkel 1. Formål og virkeområde
+Formålet med kvalitetsnormen er å bidra til at villrein, og de ulike villreinområdene, forvaltes på en slik måte at internasjonale forpliktelser overholdes, og at nasjonale målsettinger om ivaretakelse av levedyktige bestander innenfor sine naturlige utbredelsesområder nås. Kvalitetsnormen er retningsgivende for myndighetenes forvaltning i alle saker som har betydning for villrein og skal gi myndighetene et best mulig grunnlag for forvaltningen av bestandene og leveområdene, og faktorene som påvirker disse.

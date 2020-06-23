@@ -1,0 +1,4 @@
+# Artikkel 4. Klassifisering og påvirkningsanalyser
+Miljødirektoratet fastsetter hvilke villreinområder som skal klassifiseres etter kvalitetsnormen, og har ansvar for at det blir utarbeidet en påvirkningsanalyse som, så langt mulig og innenfor rimelige økonomiske rammer, klarlegger årsakene til at et villreinområde ikke oppnår middels eller god kvalitet.
+Klassifisering og påvirkningsanalyser etter kvalitetsnormen skal utføres av fagmiljø med særskilt kompetanse på villrein og arealbruk og pekes ut av Klima- og miljødepartementet i samråd med berørte departementer. Miljødirektoratet oppnevner, etter forslag fra Villreinrådet i Norge, inntil to lokale representanter som deltar i arbeidet med det enkelte villreinområde.
+Miljødirektoratet skal publisere oppdaterte oversikter over kvaliteten for villrein i villreinområder.

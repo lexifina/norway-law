@@ -1,0 +1,4 @@
+# a) Kjønns- og alderskorrigert slaktevekt for kalv
+er en sensitiv parameter og gir et godt mål på beitenes kvalitet og bestandens tilstand. Dette beror på at kalvene er de som i størst grad påvirkes av variasjon i miljøforhold, og at vektene på kalvene også reflekterer mattilgangen og vektene på simlene. Høy kalvevekt om høsten øker overlevelse gjennom den første vinteren og øker sjansen for at simlene får sin første kalv som toåring. Slaktevekter samles allerede rutinemessig for en del av områdene, og bør inngå som standard datainnsamling i alle villreinområdene. Ettersom kalvene vokser utover i jakttida, og bukkekalver er tyngre enn simlekalver, brukes 4. september som standardiseringsdato (median fellingsdato) og simlekalver som standard kjønn. Det er fastsatt følgende tilstandskategorier:
+Dårlig | Middels | God
+<15 kg | 15-18 kg | >18 kg
