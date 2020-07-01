@@ -1,0 +1,4 @@
+# § 8. Forbud mot og vilkår for import og omsetning
+Det er forbudt å importere floghavre og produkter som inneholder floghavre, med unntak av import av korn, oljefrø og erter til en virksomhet som i sin videre behandling av produktet, ødelegger spireevnen hos floghavre.
+Det er forbudt å omsette floghavre, og avlinger og produkter som inneholder floghavre, med unntak av omsetning til en virksomhet som i sin videre behandling ødelegger spireevnen hos floghavre.
+Det er forbudt å omsette lo, julenek, halm, frøhalm, korn- og frøavrens, husdyrgjødsel, kompost, jord og planter med jord fra eiendom hvor det er floghavre, med unntak av produkter som er behandlet slik at spireevnen til eventuell floghavre er ødelagt, eller til en virksomhet som i sin videre behandling av produktet, ødelegger spireevnen hos floghavre.

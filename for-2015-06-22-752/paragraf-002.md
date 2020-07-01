@@ -1,0 +1,3 @@
+# § 2. Virkeområde
+Forskriften retter seg mot eiere og driftsansvarlige for landbrukseiendommer og ansvarlige for areal som grenser mot dyrka mark på naboeiendom, veier og åpne vannveier. Forskriften retter seg også mot alle som importerer, omsetter, transporterer, lagrer, tørker og emballerer produkter som inneholder eller kan inneholde floghavre. Videre retter forskriften seg mot ansvarlige for landbruksmaskiner og annet utstyr i landbruket, og anleggsmaskiner som er benyttet på areal med mulig forekomst av floghavre.
+I denne forskriften forstås med floghavre planter, plantedeler og frø av Avena fatua L.
