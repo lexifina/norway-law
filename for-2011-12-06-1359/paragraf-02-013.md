@@ -1,0 +1,3 @@
+# § 2-13. Nødstopp- og bremseinnretninger
+Dersom det er nødvendig for å oppfylle kravene til sikkerhet etter § 2-1 første ledd, skal arbeidsutstyret ha nødstopp. Nødstoppinnretning skal være markert med rødt, og slik plassert at den er godt synlig og lett å nå. Bruk av nødstoppinnretning skal ikke medføre farlige forhold. Gjenstart etter stopp ved påvirkning av nødstopp- eller verneinnretning må bare kunne foretas med den vanlige startinnretning.
+Arbeidsutstyr som kan fortsette å gå etter at krafttilførselen er brutt og derved medføre fare, skal være utstyrt med hensiktsmessig bremseinnretning.

@@ -1,0 +1,3 @@
+# § 2-22. Utforming av maskindeler
+Maskindeler som beveger seg i synsfeltet, skal være slik utformet og ha slike farger at øynene ikke blir anstrengt.
+Maskiner som avgir spon, støv, røyk, damp eller gass skal være slik laget at det ikke skjer farlig spredning av stoffene. Hvis det ikke kan brukes lukket prosess, skal maskinene være slik laget at sugehoder og rørledninger kan koples til. Leverandører av maskiner skal kunne levere hensiktsmessige punktavsughoder og angi kapasiteten for avsugningsvifte hvis denne ikke inngår i maskinen. På maskiner der det alltid trengs punktavsug under produksjonen, skal hodet på avsuget være en del av maskinen.
