@@ -1,0 +1,2 @@
+# § 11. Eier eller utgivers erstatningsansvar
+Er noen som har handlet i tjenesten til en eier eller utgiver av mediet erstatningsansvarlig etter skadeserstatningsloven §§ 3-6 eller 3-6 a, hefter også eieren eller utgiveren for erstatningen. Det samme gjelder oppreisning, med mindre retten av særlige grunner fritar dem. Eieren eller utgiveren kan også pålegges slik ytterligere oppreisning som retten finner rimelig.
