@@ -7,7 +7,7 @@
 (6) Maskiner og annet arbeidsutstyr som nevnt i første ledd skal, før det overdras eller utstilles, være forsynt med produsentens eller importørens navn og adresse, eller med annen merking som gjør det lett å identifisere produsenten eller importøren.
 (7) Departementet kan i forskrift gi nærmere bestemmelser om maskiner og annet arbeidsutstyr, herunder om:
 a) konstruksjon, utførelse, oppstilling, merking mv.,
-b) godkjenning,
+b) godkjenning og plikt til å gi opplysninger i forbindelse med dette,
 c) godkjenning av organer som skal utøve kontroll knyttet til produksjon,
 d) undersøkelse eller besiktigelse.
 (8) Utgifter til undersøkelse eller besiktigelse som pålegges i medhold av sjuende ledd, bæres av den som har plikt til å foreta undersøkelsen eller besiktigelsen.
