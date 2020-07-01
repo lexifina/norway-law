@@ -1,6 +1,0 @@
-# § 270. Andre forpliktelser ved utgivelse av trykt skrift
-Den som står for trykkingen av et skrift, og som unnlater å oppgi foretaksnavn og trykkested, straffes med bot. På samme måte straffes en trykker som gir uriktig informasjon som nevnt i første punktum. Straff kommer ikke til anvendelse ved trykking av stemmesedler, prisangivelser, formularer og lignende.
-Er det i et blad eller tidsskrift ikke angitt hvem som er redaktør, straffes redaktøren og utgiveren med bot. På samme måte straffes redaktøren og utgiveren dersom feil person er oppgitt å være redaktør. Den som har samtykket i uriktig å oppgis som redaktør, straffes med bot.
-Den som er redaktør for et blad eller tidsskrift, og som ikke inntar en imøtegåelse av en anførsel som der er fremsatt i første eller annet nummer av bladet, på like iøynefallende sted som det imøtegåtte, straffes med bot. Redaktøren kan også ilegges løpende mulkt frem til imøtegåelsen trykkes. Kravet om imøtegåelse må fremsettes av den som anførslene direkte angår senest innen ett år etter utgivelsen, begrense seg til anførsler av faktisk art og ikke inneholde noe straffbart.
-Med redaktør forstås den som treffer avgjørelse om innholdet i et trykt skrift.
-Medvirkning straffes ikke.
