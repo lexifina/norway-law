@@ -1,0 +1,3 @@
+# § 1
+Virkeområde 17.12.2020 (EØS-henvisningsfeltet).
+Forskriften gjelder undersøkelse av luftfartsulykker og luftfartshendelser i sivil luftfart, herunder situasjoner der både militære og sivile luftfartøyer er involvert, og der sivile ytere av flysikringstjenester har ytt tjenester til militære brukere. Forskriften utfyller de grunnleggende bestemmelsene som følger av forordning (EU) nr. 996/2010 av 20. oktober 2010 om undersøkelse og forebygging av ulykker og hendelser innen sivil luftfart og om oppheving av direktiv 94/56/EF (undersøkelsesforordningen) slik denne er gjennomført i luftfartsloven § 12-6 første ledd.
