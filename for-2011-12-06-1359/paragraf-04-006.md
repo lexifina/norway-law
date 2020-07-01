@@ -1,0 +1,3 @@
+# § 4-6. Kontroll
+Produkt som har sertifikat i henhold til § 4-5 skal kontrolleres årlig. Kontrollen skal utføres av det sertifiseringsorganet som utstedte sertifikatet eller av et kompetent organ som i henhold til avtale med sertifiseringsorganet kan gjennomføre kontrollen på vegne av dette. Dersom sertifiseringsorganet har opphørt, kan et annet sertifiseringsorgan utføre kontrollen.
+Kontrollen skal omfatte et utvalg av produktets grunnleggende egenskaper og funksjonskrav og disse skal kontrolleres opp mot opplysningene om produktet som er gitt i sertifikatet. Kontrollen skal også omfatte at merking og bruks- og monteringsveiledning tilsvarer krav i § 4-3 og § 4-4. Kontrollen skal dokumenteres skriftlig med en rapport.

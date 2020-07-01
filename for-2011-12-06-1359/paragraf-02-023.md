@@ -1,0 +1,2 @@
+# § 2-23. Stråling
+Maskiner som forutsetter bruk av radioaktive stoffer eller som er innrettet til å frembringe ioniserende eller annen helsefarlig stråling, skal isoleres og være slik innrettet at de ikke kan forårsake skade på liv eller helse når de brukes riktig. Strålingsintensiteten må ikke være større enn de grenseverdier som er angitt av rette myndighet. Maskinene skal ha hensiktsmessig varselskilt.

@@ -1,0 +1,2 @@
+# § 4-2. Belastningsklasser
+Stillaser skal klassifiseres i følgende seks klasser:KlasseJevnt fordelt belastning kN/m2 (kg/m2)Konsentrert last på areal 500 mm x 500 mm kN (kg)Last av én person på areal 200 mm x 200 mm kN (kg)Last på delarealkN/m2 (kg/m2)Delareal m210,75 (75)1,50 (150)1,0 (100)Ikke tillatt21,50 (150)1,50 (150)1,0 (100)Ikke tillatt32,00 (200)1,50 (150)1,0 (100)Ikke tillatt43,00 (300)3,00 (300)1,0 (100)5,00 (500)0,4 A54,50 (450)3,00 (300)1,0 (100)7,50 (750)0,4 A66,00 (600)3,00 (300)1,0 (100)10,00 (1000)0,5 AA = arealet mellom to spirepar.
