@@ -1,0 +1,2 @@
+# § 9. Kontroll
+Fond for utøvende kunstnere fører kontroll med at vilkårene for å motta støtte er oppfylt. Det kan gjennomføres etterhåndskontroll av søkere som mottar støtte. Søker plikter på forespørsel å fremlegge alle opplysninger som er nødvendige for at Fond for utøvende kunstnere kan føre kontroll. Søker skal oppbevare all dokumentasjon for at vilkårene for å motta støtte er oppfylt i tre år beregnet fra året etter søknadsåret.

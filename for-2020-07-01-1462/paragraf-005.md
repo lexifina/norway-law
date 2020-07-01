@@ -1,0 +1,4 @@
+# § 5. Tildelingskriterier
+Utøvende kunstnere som inngir søknad som oppfyller ordningens vilkår, kan tildeles støtte for hele eller deler av søknadsbeløpet. Tildeling vil skje på grunnlag av innsendt dokumentasjon og etter en kunstfaglig vurdering. Det skal tas hensyn til om og eventuelt hvor mye søkeren har mottatt i støtte for samme periode eller samme aktivitet fra andre hold, herunder kulturfond og særskilte kompensasjonsytelser knyttet til covid-19-utbruddet. Det kan tas hensyn til omfanget av kunstnerens oppdrags- eller inntektsbortfall. Det tildeles støtte etter denne ordningen kun én gang per utøvende kunstner per søknadsperiode.
+Maksimalt søknadsbeløp er 200 000 kroner per søker. Ordningen er rammestyrt.
+Tildelt støtte utbetales ikke dersom det innen utbetalingen blir åpnet konkurs hos søkeren.
