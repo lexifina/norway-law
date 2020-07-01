@@ -1,0 +1,6 @@
+# § 12. Undersøkelsesrapport
+Undersøkelsesmyndigheten skal utarbeide rapport når den har undersøkt en alvorlig trafikkulykke. Undersøkelsesmyndigheten tar selv stilling til om det er nødvendig å utarbeide rapport i andre tilfeller. Ved undersøkelsesmyndighetens vurdering av om det skal utarbeides en rapport, og hvilket omfang rapporten bør ha, skal den legge vekt på de hensynene som er nevnt i § 6 tredje ledd. Avsluttes undersøkelser uten rapport, skal disse dokumenteres på annen hensiktsmessig måte.
+Rapporten skal redegjøre for hendelsesforløpet og inneholde undersøkelsesmyndighetens uttalelse om årsaksforholdene. Rapporten skal også, så langt det er formålstjenlig, inneholde undersøkelsesmyndighetens eventuelle tilrådninger om tiltak som bør treffes eller vurderes med henblikk på å hindre lignende ulykker eller uhell i fremtiden.
+Rapporten skal ikke inneholde referanser til enkeltpersoners navn eller adresse.
+Når rapport er utarbeidet, skal undersøkelsesmyndigheten straks offentliggjøre denne, om mulig innen 12 måneder etter at ulykken/uhellet fant sted. Hvis rapporten ikke er ferdig innen 12 måneder, skal undersøkelsesmyndigheten gi en foreløpig status for utviklingen i undersøkelsen og de sikkerhetsspørsmål som er aktuelle i forbindelse med saken.
+Undersøkelsesmyndighetens avgjørelser etter denne paragrafen kan ikke påklages.
