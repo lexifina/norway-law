@@ -1,5 +1,6 @@
-# § 155. Vold eller trusler mot offentlig tjenestemann
-Den som ved vold eller trusler påvirker en offentlig tjenestemann til å foreta eller unnlate å foreta en tjenestehandling, eller søker å oppnå dette, straffes med bot eller fengsel inntil 3 år.
-Med offentlig tjenestemann menes enhver som utøver offentlig myndighet på vegne av stat eller kommune, eller som har slik kompetanse i kraft av sin stilling. Som offentlig tjenestemann anses også militære vakter, enhver som pliktmessig eller etter oppfordring yter bistand til offentlig tjenestemann, eller sikrer dennes arbeidsplass.
-Første ledd gjelder også for lovbrudd mot Den internasjonale straffedomstols tjenestemenn.
-Dersom det gjelder gjensidig, kan Kongen bestemme at første ledd også skal anvendes på lovbrudd mot tjenestemenn i et annet lands offentlige myndighet og i mellomstatlige organisasjoner som Norge er eller blir medlem av.
+# § 155. Vold, trusler, skadeverk eller annen rettsstridig adferd mot offentlig tjenesteperson
+Den som ved vold, trusler, skadeverk eller annen rettsstridig adferd påvirker en offentlig tjenesteperson til å foreta eller unnlate å foreta en tjenestehandling eller hindrer en slik handling, eller søker å oppnå dette, straffes med bot eller fengsel inntil 3 år.
+På samme måte straffes den som ved vold, trusler, skadeverk eller annen rettsstridig adferd overfor en offentlig tjenesteperson eller noen av hans eller hennes nærmeste, gjengjelder en tjenestehandling.
+Med offentlig tjenesteperson menes enhver som utøver offentlig myndighet på vegne av stat eller kommune, eller som har slik kompetanse i kraft av sin stilling. Som offentlig tjenesteperson anses også militære vakter, enhver som pliktmessig eller etter oppfordring yter bistand til offentlig tjenesteperson, eller sikrer dennes arbeidsplass.
+Første ledd gjelder også for lovbrudd mot Den internasjonale straffedomstols tjenestepersoner.
+Dersom det gjelder gjensidig, kan Kongen bestemme at første og annet ledd også skal anvendes på lovbrudd mot tjenestepersoner i et annet lands offentlige myndighet og i mellomstatlige organisasjoner som Norge er eller blir medlem av.

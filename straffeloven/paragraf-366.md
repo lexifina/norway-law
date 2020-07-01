@@ -1,2 +1,2 @@
-# § 366. Misbruk av identifikasjonsbevis
-Med bot eller fengsel inntil 6 måneder straffes den som overlater et vitnemål, pass eller liknende identifikasjonsbevis som er utferdiget til ham, til en annen, selv om han vet eller bør forstå at det vil bli brukt ulovlig.
+# § 366. Misbruk av identitetsbevis
+Med bot eller fengsel inntil 6 måneder straffes den som med forsett om å oppnå en fordel for seg eller andre bruker et vitnemål, pass eller liknende identitetsbevis til å utgi seg for å være den som identitetsbeviset er utferdiget til. På samme måte straffes den som overlater et identitetsbevis til en annen, selv om han eller hun vet eller bør forstå at det vil bli brukt ulovlig.
