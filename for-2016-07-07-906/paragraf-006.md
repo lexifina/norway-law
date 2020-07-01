@@ -1,0 +1,2 @@
+# § 6. Internasjonale undersøkelser
+For luftfartsulykker og luftfartshendelser som ikke kun omfatter norske forhold, gjelder reglene i vedlegg 13 til Chicago-konvensjonen som forskrift. For luftfartsulykker og alvorlige luftfartshendelser med tilknytning til EØS-medlemsstater, gjelder i tillegg undersøkelsesforordningens bestemmelser. Alle stater som er berørt på en måte som gir dem rett til å delta i undersøkelser etter bestemmelsene i Chicago-konvensjonen har slik rett, selv om undersøkelsesforordningen ikke gir en slik rett.
