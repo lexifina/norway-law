@@ -1,8 +1,8 @@
 # § 10-1. Hovedregel og virkeområde
 (1) Småkravprosessen er den ordinære behandlingsmåten for små krav i saker for tingretten, med særlig vekt på at behandlingen er tilpasset betydningen av tvisten.
 (2) Ved småkravprosess behandles
-a) alle saker hvor tvistesummen er under kr 125 000,
-b) saker med tvistesum på kr 125 000 eller mer dersom partene samtykker i behandling etter småkravprosess, og retten beslutter dette, og
+a) alle saker hvor tvistesummen er under kr 250 000,
+b) saker med tvistesum på kr 250 000 eller mer dersom partene samtykker i behandling etter småkravprosess, og retten beslutter dette, og
 c) saker som ikke gjelder formuesverdier dersom retten finner at småkravprosessen vil være forsvarlig og hensiktsmessig, og ikke begge parter motsetter seg slik behandling.
 (3) Ved småkravprosess behandles likevel ikke
 a) gruppesøksmål etter kapittel 35,
