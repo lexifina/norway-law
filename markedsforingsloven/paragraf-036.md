@@ -1,3 +1,3 @@
 # § 36. Forbrukertilsynets saksbehandling og vedtakskompetanse
 Forbrukertilsynet skal av eget tiltak, eller etter henvendelse fra andre, søke å påvirke næringsdrivende til å innrette seg etter bestemmelsene som Forbrukertilsynet skal føre tilsyn med etter § 35, herunder ved å føre forhandlinger med de næringsdrivende eller deres organisasjoner.
-Dersom Forbrukertilsynet finner at en næringsdrivende handler i strid med bestemmelsene nevnt i § 35, kan Forbrukertilsynet kreve skriftlig bekreftelse på at det ulovlige forholdet skal opphøre, eller fatte vedtak.
+Dersom Forbrukertilsynet finner at en næringsdrivende handler i strid med bestemmelsene nevnt i § 35, kan Forbrukertilsynet innhente skriftlig bekreftelse på at det ulovlige forholdet skal opphøre, eller fatte vedtak. Forbrukertilsynet kan også innhente skriftlig bekreftelse på at næringsdrivende skal tilby avhjelpende tiltak til berørte forbrukere.

@@ -1,0 +1,3 @@
+# § 43 a. Midlertidig forføyning ved pålegg etter § 43
+Retten treffer pålegg etter § 43 som midlertidig forføyning etter reglene i tvisteloven kapittel 32 og 34, med de tilpasninger som følger av § 43 b og § 43 c. Den som overtrer regelverket etter § 43 første ledd og den som skal gjennomføre pålegget etter § 43 første ledd bokstav a til d, får stilling som saksøkt.
+Begjæring om midlertidig forføyning settes frem skriftlig for Oslo byfogdembete. Begjæringen må angi alle partene. I begjæringen skal det redegjøres for de grunner den bygger på. Dokumenter som påberopes og som saksøkeren er i besittelse av, skal følge med begjæringen.
