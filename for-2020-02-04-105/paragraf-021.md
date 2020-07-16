@@ -1,0 +1,3 @@
+# § 21. Utnyttelse av tillatelseskapasitet i produksjonsområder med uakseptabel miljøpåvirkning
+Tillatelser som er omfattet av dette kapittelets virkeområde kan utnyttes med inntil 94 prosent av tillatelsens pålydende fra og med 6 måneder etter ikraftredelsen av denne forskriften, jf. forskrift 17. juni 2008 nr. 822 om drift av akvakulturanlegg § 47 første ledd. Dette gjelder også dersom tillatelsen inngår i et biomassetak etter forskrift 17. juni 2008 nr. 822 om drift av akvakulturanlegg § 47, § 48, § 48a og § 48b.
+Denne bestemmelsen gjelder ikke for tillatelseskapasitet fastsatt i medhold av denne forskriftens § 17 og § 20.
