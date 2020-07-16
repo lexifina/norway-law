@@ -1,0 +1,5 @@
+# § 8. Tillatelse til akvakultur med matfisk i sjø av laks, ørret og regnbueørret
+Det kan ikke gis tillatelse til akvakultur med matfisk i sjø av laks, ørret og regnbueørret på under 100 tonn for produksjonskapasitet vunnet i auksjonen.
+Dersom Fiskeridirektoratet gir tilsagn om tillatelse under 100 tonn produksjonskapasitet, må denne produksjonskapasiteten fusjoneres eller være omsøkt fusjonert med en eller flere eksisterende tillatelser tilhørende samme produksjonsområde før 31. desember 2021, slik at tillatelsesstørrelsen er lik eller større enn 100 tonn.
+Søknad om fusjonering av produksjonskapasitet inn i eksisterende tillatelse, eller søknad om utstedelse av ny tillatelse, sendes den aktuelle fylkeskommunen. Det skal betales saksbehandlingsgebyr, jf. forskrift om gebyr og avgift i forbindelse med akvakulturvirksomhet (gebyrforskriften) § 2.
+Dersom tillatelsesstørrelsen er mindre enn 100 tonn per 31. desember 2021 trekker Fiskeridirektoratet tilsagnet om tillatelse eller tillatelsen tilbake. Vederlag som er innbetalt vil ikke bli refundert.
