@@ -1,0 +1,2 @@
+# § 21. Søksmålsfrist
+Søksmål om forvaltningsvedtak etter denne forskriften er gyldig eller krav om erstatning som følge av vedtaket, skal tas ut innen seks måneder fra det tidspunkt melding om fastsettelse av frist kom frem til vedkommende part. Det kan gis oppfriskning for oversittelse av fristen etter reglene i tvisteloven § 16-12 til § 16-14.
