@@ -1,0 +1,2 @@
+# § 5-3. Ikrafttredelse
+Forskriften trer i kraft straks. Ved ikrafttredelse oppheves forskrift 3. april 2020 nr. 678 om midlertidig kompensasjonsordning for arrangører i frivillighets- og idrettssektoren ved avlysning, stenging eller utsettelse av arrangementer som følge av covid-19-utbruddet. Klage på Lotteri- og stiftelsestilsynets vedtak etter forskrift 3. april 2020 nr. 678 skal i aktuelle tilfeller vurderes etter denne forskriften.

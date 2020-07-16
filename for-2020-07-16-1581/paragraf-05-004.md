@@ -1,0 +1,2 @@
+# § 5-4. Overgangsregler
+Organisasjoner som har mottatt kompensasjon for arrangement som var planlagt i perioden fra 5. mars til 30. april, kan kun søke om kompensasjon for inntektsbortfall som ikke var omfattet av forskrift 3. april 2020 nr. 678 om midlertidig kompensasjonsordning for arrangører i frivillighets- og idrettssektoren ved avlysning, stenging eller utsettelse av arrangementer som følge av covid-19-utbruddet.
