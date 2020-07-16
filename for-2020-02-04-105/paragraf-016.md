@@ -1,0 +1,2 @@
+# § 16. Behandling av søknader
+Fylkeskommunen skal, etter å ha kontrollert at søknaden er komplett etter § 13, sende søknaden til Fiskeridirektoratet region Midt. Fiskeridirektoratet region Midt skal kontrollere selskapets opplysninger i søknaden opp mot gjeldende driftsplan og rapportering etter akvakulturdriftsforskriften, og deretter gi forslag til beregning av tilbudet etter § 17 eller fastsettelse av tillatelseskapasitet som skal unntas fra nedjustering etter § 20. Forslaget sendes fylkeskommunen.
