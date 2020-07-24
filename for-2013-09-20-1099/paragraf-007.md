@@ -1,0 +1,2 @@
+# § 7. Tilgang til personopplysninger innad i kriminalomsorgen
+Bare tilsatte i kriminalomsorgen som skal ivareta formålene i straffegjennomføringsloven § 4c og andre som utfører tjeneste eller arbeid for kriminalomsorgen, skal ha tilgang til personopplysninger. Den behandlingsansvarlige er ansvarlig for at de som gis tilgang, har fått nødvendig opplæring i og autorisasjon til å behandle personopplysningene.

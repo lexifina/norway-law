@@ -1,0 +1,5 @@
+# § 6. Retting, sperring og sletting av personopplysninger
+Kriminalomsorgen skal av eget tiltak, eller på begjæring fra den registrerte, rette de personopplysningene som er mangelfulle. Dersom det er nødvendig, skal kriminalomsorgen supplere eller oppdatere opplysningene.
+Kan personopplysningene få betydning som dokumentasjon og vil en sletting kunne påvirke den registrertes legitime interesser, skal opplysningene sperres. Sperrede opplysninger kan bare brukes til de formål som gjorde at de ikke ble slettet.
+Personopplysninger skal slettes senest ti år etter at straffegjennomføringen er avsluttet, med mindre de skal arkiveres etter arkivlova.
+Personopplysninger som ikke er verifiserte, kan behandles i fire måneder mens kriminalomsorgen undersøker om opplysningene er relevante og nødvendige for å ivareta formålet med behandlingen jf. § 3 bokstav a og § 4 første ledd jf. straffegjennomføringsloven § 4c bokstav b. Oppfyller ikke opplysningene kravene i § 3 bokstav a og § 4 første ledd jf. straffegjennomføringsloven § 4c bokstav b, skal de slettes umiddelbart, med mindre enkeltvedtak bygger på dem.
