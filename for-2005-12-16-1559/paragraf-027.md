@@ -1,0 +1,3 @@
+# § 27. Eksamen etter tidligere ordninger
+1) Ved nedlegging av studieprogram eller endringer i studieplan/emnebeskrivelse/pensum skal det for et tidsrom på to år etter at denne planen er opphørt å gjelde, være anledning til å avlegge eksamen etter tidligere ordning. Gjelder endringen bare eksamensordningen, gis det bare anledning til å gå opp til eksamen etter tidligere ordning dersom studiet var påbegynt før den nye studieplanen trådte i kraft.
+2) Eksamenskandidater som ikke er tatt opp som studenter ved NMH, jf. § 21 nr. 2, må gå opp til eksamen etter den eksamensordningen som til enhver tid gjelder.

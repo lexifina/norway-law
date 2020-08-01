@@ -1,0 +1,8 @@
+# § 29. Særordninger under eksamen
+1) Kandidater som av medisinske eller andre grunner nevnt i denne paragraf har behov for spesiell tilrettelegging ved den praktiske gjennomføringen av eksamen, kan etter søknad få innvilget dette. Det kan også gis særordninger ved hjemmeeksamen. Skriftlig søknad om slik tilrettelegging må leveres senest 30 dager før eksamen og skal dokumenteres med attest fra sakkyndig instans. Attesten skal inneholde en nærmere begrunnelse for hvorfor det er behov for særordning i eksamenssituasjonen og hvilken særordning som anbefales. Hvis behovet for særordning først melder seg etter at fristen er utløpt, kan det gis dispensasjon fra søknadsfristen. Dersom behovet for særordning er av en slik natur at det vil gjelde i hele studietiden, kan det søkes om tilrettelegging for hele perioden.
+2) Det kan innvilges inntil 25% (maksimum 1 time) utvidet tid ved skriftlig skoleeksamen når behov for dette er dokumentert. Ved hjemmeeksamen kan det gis inntil 48 timers utvidelse av tiden inklusive eventuell lørdag og helligdag.
+3) Bruk av PC eller sekretærhjelp ved skriftlig skoleeksamen kan innvilges når behov for dette er dokumentert og det samtidig er praktisk mulig.
+4) Studenter med dysleksi eller andre lese-/skriveproblemer kan etter ønske få vedlagt sine besvarelser en attest som bekrefter dette.
+5) Det kan gis tillatelse til at alternative eksamensformer kan benyttes for studenter som på grunn av varige funksjonshemninger ikke kan gå opp til eksamen med ordinær eksamensform.
+6) I særlige tilfeller kan andre ordninger innvilges etter søknad så langt det er faglig forsvarlig og praktisk gjennomførlig.
+7) Søknader om særordninger under pkt. 2-4 behandles administrativt, mens andre søknader behandles av studieutvalget
