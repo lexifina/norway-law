@@ -1,0 +1,5 @@
+# § 5. Opptaksprøver
+1) Formålet med opptaksprøver er å avgjøre om søkerne har de nødvendige forutsetninger for å gjennomføre det studiet de har søkt om opptak til og innstille de søkere som finnes kvalifisert, i rangordning. Innholdet i opptaksprøver fastsettes av studieutvalget, på grunnlag av de kvalifikasjonskrav studieplanene forutsetter.
+2) Ved opptaksprøvene vurderes søkernes kvalifikasjoner av opptaksjuryer. Nærmere regler om sammensetning av opptaksjuryer og opptaksjuryenes oppgaver og arbeidsform fastsettes av studieutvalget.
+3) Opptaksprøver avholdes i nærmere fastsatte perioder i løpet av det semester som går forut for det studieår det søkes opptak for. Ved behov kan det arrangeres opptaksprøver også utenom de faste prøveperiodene.
+4) Av praktiske grunner kan det ikke holdes av studieplasser i det ordinære opptaket. Søkere som blir syke kan innkalles til utsatt opptaksprøve dersom det er ledig plass på vedkommende studium og instrument etter det ordinære opptaket. Søkere som er syke på prøvedagen og som ønsker å søke om utsatt opptaksprøve, må sende skriftlig søknad vedlagt legeattest senest tre dager etter opptaksprøven.

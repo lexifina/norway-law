@@ -1,0 +1,6 @@
+# § 36. Sensur
+1) Sensorer oppnevnes av studieutvalget.
+2) Ved muntlig, skriftlig eller utøvende/praktisk eksamen samt ved vurdering av prosjektarbeid, porteføljeeksamen og andre typer skriftlige eksamensarbeider skal vurderingen foretas av minst to sensorer. Ved vurdering av muntlig eller utøvende/praktisk eksamen skal normalt en av sensorene være studentens faglærer. Ved vurdering av kandidatenes selvstendige arbeid i høyere grads studier skal det være en eksamenskommisjon med minst to sensorer hvorav minst en ekstern.
+3) Ekstern sensor må ikke ha noe ansettelsesforhold ved NMH i det aktuelle studieåret og bør normalt ikke ha annen, nær profesjonell tilknytning til faglærere på NMH innen samme emne eller instrument. Ekstern sensor skal normalt ikke benyttes sammenhengende i mer enn 3 år.
+4) Ved ny vurdering etter § 39 eller § 40 skal minst en av sensorene være ekstern. Ved vurdering av ny muntlig eller utøvende/praktisk eksamen skal minst en av sensorene ikke tidligere ha evaluert vedkommende kandidat i emnet.
+5) Sensuren skal foreligge innen tre uker etter eksamen hvis ikke særlige grunner gjør det nødvendig å bruke mer tid. Unntatt fra dette er selvstendig arbeid av skriftlig art på høyere grads nivå, der sensurfristen er seks uker.

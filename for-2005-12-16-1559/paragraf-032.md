@@ -1,0 +1,7 @@
+# § 32. Sykdom i forbindelse med eksamen
+1) Dersom en kandidat ikke kan møte til eksamen på grunn av sykdom, må kandidaten sende eller levere legeattest til høgskolen senest tre døgn etter den første eksamen som attesten gjelder for.
+2) En kandidat som blir syk under eksamen, må gi beskjed til eksamensinspektør, straks oppsøke lege og levere legeattest senest tre døgn etter den avbrutte eksamen.
+3) En kandidat som ikke kan framstille seg til en hjemmeeksamen på grunn av sykdom, eller som blir syk under hjemmeeksamen, må sende eller levere legeattest til høgskolen senest to døgn etter at innleveringsfristen er utløpt. Det samme gjelder ved prosjektoppgaver, praksisstudier samt andre skriftlige eller praktiske arbeider hvor det er fastsatt en bestemt frist for rapportens eller arbeidets avslutning/innlevering.
+4) Legeattesten skal i alle tilfelle angi tidsrommet for sykemeldingen.
+5) Dersom det ikke er mulig å framskaffe legeattest innen fristen, må kandidaten gi beskjed til høgskolen innen fristens utløp for avtale om ny og endelig frist.
+6) Bekreftet sykdomsforfall gir rett til utsatt eksamen etter § 26. Ved hjemmeeksamen eller tilsvarende prøve hvor fastsatt eksamenstid er mer enn to uker kan det alternativt gis utsatt innleveringsfrist med inntil to dager. Søknad om utsatt frist må være vedlagt legeattest og må leveres høgskolen umiddelbart etter sykemeldingsperioden og senest en dag før innleveringsfristen.

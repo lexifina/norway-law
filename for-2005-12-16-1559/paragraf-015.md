@@ -1,0 +1,2 @@
+# § 15. Åpen og lukket undervisning – delegering etter universitets- og høyskoleloven § 3-8 (2)
+Forelesninger er som hovedregel offentlige. Som forelesning regnes undervisningsaktiviteter som ikke forutsetter aktiv deltakelse fra studenten. Andre undervisningsaktiviteter er som hovedregel ikke offentlige. Lukking av forelesninger, jf. universitets- og høyskoleloven § 3-8 (2), og åpning av andre undervisningsaktiviteter for andre enn studenter som er tatt opp på studiet, avgjøres av studieutvalget.

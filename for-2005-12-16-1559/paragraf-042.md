@@ -1,0 +1,3 @@
+# § 42. Bachelorgrad
+1) Studenter som er tatt opp til bachelorstudier ved NMH, må ha bestått de emner som er fastsatt i studieplanen, herunder valgemner i angitt omfang, som til sammen utgjør minst 240 studiepoeng for å få tildelt bachelorgraden. I de 240 studiepoengene skal det inngå en fordypning på minimum 80 studiepoeng. De enkelte studieplanene definerer fordypningskravet.
+2) For å få tildelt en bachelorgrad i fritt sammensatte fag ved NMH, må kandidaten ha bestått emner som til sammen utgjør minst 180 studiepoeng. I de 180 studiepoengene må det i tillegg til en fordypning på minimum 80 studiepoeng, inngå en emnegruppe med et samlet omfang på minimum 30 studiepoeng.

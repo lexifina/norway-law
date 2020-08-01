@@ -1,0 +1,2 @@
+# § 43. Mastergrad
+For å få tildelt mastergrad ved NMH, må kravene som stilles i Forskrift om krav til mastergrad gitt av departementet være oppfylt. I tillegg må kandidaten ha bestått de emner som er fastsatt i studieplanen. I masterstudiet skal det inngå et selvstendig arbeid av skriftlig og/eller kunstnerisk art som skal vise selvstendig forståelse, refleksjon og modning. Det selvstendige arbeidet skal være av minimum 30, maksimum 60 studiepoengs omfang.
