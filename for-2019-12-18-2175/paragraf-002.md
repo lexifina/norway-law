@@ -1,0 +1,3 @@
+# § 2. Klageutvalget
+Klageutvalget skal minimum bestå av leder, nestleder og et ytterligere medlem som alle oppnevnes av Norsk akkreditering for tre år av gangen. Et medlem kan oppnevnes på nytt etter utløpet av treårsperioden. Utvalgets medlemmer oppnevnes blant medlemmene i Norsk akkrediterings forum for regulerende myndigheter. Medlemmene skal inneha den kompetansen som er nødvendig for en forsvarlig saksbehandling. Utvalgets medlemmer kan ikke være ansatt i Norsk akkreditering.
+Utvalgets medlemmer har taushetsplikt etter reglene i forvaltningsloven § 13 til § 13e. Reglene om habilitet i forvaltningsloven § 6 til § 10 gjelder for utvalgets medlemmer så langt de passer.
