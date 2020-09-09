@@ -1,0 +1,1 @@
+# Hindringer for befordringens gjennomføring.

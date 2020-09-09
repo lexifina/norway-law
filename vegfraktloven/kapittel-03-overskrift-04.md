@@ -1,0 +1,1 @@
+# Mangelfull pakning av godset.

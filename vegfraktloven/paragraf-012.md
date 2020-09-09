@@ -1,0 +1,5 @@
+# § 12
+Er fraktbrevet utferdiget, skal fraktføreren ved overtakelsen av godset undersøke om opplysninger i fraktbrevet om stykketall, merker og nummer er riktige. Kan dette ikke med rimelige midler gjøres, eller er det grunn til å dra opplysningenes riktighet i tvil, skal han føre grunngitt forbehold inn i fraktbrevet.
+Fraktføreren skal også undersøke godsets og pakningens synlige tilstand og i tilfelle grunngi de forbehold han tar inn i fraktbrevet. Er det ved innenriks befordring ikke utferdiget fraktbrev, skal fraktføreren, for så vidt forholdene ikke tilsier annet, undersøke godsets og pakningens synlige tilstand og underrette avsenderen om de forbehold han finner å måtte ta.
+Forbehold som nevnt i første og annet ledd binder ikke avsenderen, med mindre han uttrykkelig har godkjent dem i fraktbrevet eller ved innenriks befordring når fraktbrev ikke er utferdiget i annen uttrykkelig erklæring.
+Mot å dekke kostnadene kan avsenderen kreve at fraktføreren undersøker sendingens innhold, bruttovekt eller på annen måte uttrykt mengde. Er fraktbrev utferdiget, skal resultatet av undersøkelsen føres inn i dette.

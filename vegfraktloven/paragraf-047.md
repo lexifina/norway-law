@@ -1,0 +1,2 @@
+# § 47
+Bortsett fra når krav mot saksøkeren eller motregningsinnsigelse gjøres gjeldende i søksmål om krav som grunnes på samme fraktavtale, kan søksmål om ansvar for tap, skade eller forsinket utlevering bare reises mot den første eller den siste fraktfører eller mot fraktføreren ved den del av befordringen hvorunder den hending inntraff som voldte tapet, skaden eller forsinkelsen. Søksmål kan reises mot flere av disse fraktførere samtidig.
