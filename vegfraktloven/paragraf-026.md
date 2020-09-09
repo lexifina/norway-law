@@ -1,0 +1,4 @@
+# § 26
+Fraktføreren kan selge godset uten å avvente forholdsordrene som nevnt i §§ 22 og 23, såframt godset er utsatt for hurtig ødeleggelse eller dets tilstand ellers gir grunn til det eller kostnadene ved dets bevaring ikke står i rimelig forhold til dets verdi. Også ellers kan fraktføreren selge godset om han ikke innen rimelig tid har mottatt annen forholdsordre som han med rimelighet må anses pliktig å følge.
+Salget skal skje på betryggende måte. Så vidt mulig skal fraktføreren i god tid underrette den som er berettiget til godset, om tid og sted for salget. Salg av gods utenfor riket skjer etter de regler som gjelder i det land der godset er.
+Salgssummen skal etter fradrag av de beløp som omfattes av fraktførerens sikkerhetsrett i godset (jfr. § 25), og salgskostnader, stilles til disposisjon for den berettigede. Overstiger kostnadene salgssummen, kan fraktføreren kreve det overskytende erstattet.

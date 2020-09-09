@@ -1,0 +1,4 @@
+# § 49
+Fraktfører som det reises krav mot etter reglene i § 48, kan ikke gjøre gjeldende at den fraktfører som reiser kravet, har betalt med urette, når erstatningen er fastsatt av domstol og han har fått behørig varsel om søksmålet og høve til å tre inn i saken.
+Ved internasjonal befordring kan søksmål om krav etter § 48 reises i stat der en av de fraktførere som krav reises mot har bopel, hovedkontor eller den avdeling eller representant som fraktavtalen er sluttet gjennom. Alle fraktførere kan saksøkes under ett i samme søksmål. § 2 annet ledd gjelder tilsvarende.
+Bestemmelsene i § 43 annet og følgende ledd og § 41 får tilsvarende anvendelse. Foreldelsesfristen skal dog løpe fra den dag da endelig rettsavgjørelse om erstatning ble truffet eller – om slik avgjørelse ikke foreligger – fra den dag erstatningen ble betalt.

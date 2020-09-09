@@ -1,0 +1,1 @@
+# Erstatningens størrelse ved tap.

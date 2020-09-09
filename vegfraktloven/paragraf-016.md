@@ -1,0 +1,4 @@
+# § 16
+Til oppfyllelse av tollbestemmelser og andre offentlige forskrifter som skal iakttas før utleveringen av godset, skal avsenderen stille de nødvendige dokumenter til rådighet for fraktføreren og ellers skaffe ham de opplysninger som trengs.
+Avsenderen er ansvarlig overfor fraktføreren for skade som måtte følge av at slike dokumenter eller opplysninger mangler eller er ufullstendige eller uriktige, med mindre skaden skyldes fraktførerens feil eller forsømmelse. Fraktføreren plikter ikke å undersøke om dokumentene og opplysningene er riktige og fullstendige.
+Fraktføreren er ansvarlig for følgene av tap eller misbruk av de dokumenter som er stilt til hans rådighet, med mindre han godtgjør at tapet eller misbruket ikke skyldes feil eller forsømmelse fra hans side. Erstatningen kan ikke overstige det beløp som skulle betales om godset var gått tapt.

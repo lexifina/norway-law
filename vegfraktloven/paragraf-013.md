@@ -1,0 +1,3 @@
+# § 13
+Når ikke annet godtgjøres, gjelder fraktbrevet som bevis for avtalevilkårene og for fraktførerens overtakelse av godset.
+Har fraktføreren ikke tatt grunngitt forbehold i fraktbrevet, antas det når ikke annet godtgjøres, at godset og dets pakning framtrådte i god stand da fraktføreren overtok det, og at antall kolli, deres merker og nummer svarte til opplysningene i fraktbrevet. Plikter fraktføreren ved innenriks befordring uten fraktbrev å undersøke godsets og pakningens synlige tilstand, men forbehold ikke er tatt, antas det at godset og dets pakning framtrådte i god stand da fraktføreren overtok det, med mindre annet godtgjøres.

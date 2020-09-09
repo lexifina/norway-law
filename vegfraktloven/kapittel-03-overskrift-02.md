@@ -1,0 +1,1 @@
+# Fraktførerens undersøkelseplikt.

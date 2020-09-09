@@ -1,0 +1,4 @@
+# § 20
+Når godset er kommet til bestemmelsesstedet, kan mottakeren kreve at fraktføreren mot kvittering utleverer godset, samt ved internasjonal befordring leverer det annet eksemplar av fraktbrevet. Fastslås det at godset er gått tapt, eller er det ikke kommet fram ved utløpet av den frist som er nevnt i § 27 annet ledd, kan mottakeren i eget navn gjøre gjeldende de rettigheter som følger av fraktavtalen.
+Ved innenriks befordring har mottakeren rett til å få levert fraktbreveksemplar som er utferdiget til ham.
+Mottaker som gjør bruk av sin rett etter første ledd, skal betale det beløp som skyldes etter fraktavtalen, ved internasjonal befordring det beløp som skyldes etter fraktbrevet. Oppstår det tvist om beløpet, plikter fraktføreren ikke å utlevere godset med mindre mottakeren stiller sikkerhet.

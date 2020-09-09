@@ -1,0 +1,2 @@
+# § 45
+Utføres befordringen av flere vegfraktførere i rekkefølge på grunnlag av en og samme fraktavtale som er bekreftet ved utferdigelse av fraktbrev i flere eksemplarer hvorav ett følger godset, er hver av fraktførerne ansvarlig for befordringen i dens helhet, slik at den annen og hver følgende fraktfører ved sin mottakelse av godset og fraktbrevet blir part i fraktavtalen på fraktbrevets vilkår.
