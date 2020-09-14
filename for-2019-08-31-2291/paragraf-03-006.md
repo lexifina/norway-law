@@ -1,0 +1,17 @@
+# § 3-6. Gjennomføring av opptaksprøver og rangering av søkere
+(1) Informasjon om opptaksprøvene finnes på Agder Kunstfagskole hjemmesider, søknadsportalen åpnes medio november hvert år. Søknadsfrister, tidspunkt for opptaksprøver, beskrivelse av hvordan opptaksprøvene foregår og hva som forventes av søkerne av kvalifikasjoner er publisert på skolens hjemmesider. Opptaket til Agder Kunstfagskole administreres av daglig leder i samarbeid med opptaksjuryen. Opptaksjuryen fatter vedtak om hvem som skal få tilbud om studieplass på grunnlag av gjennomføringen av opptaksprøven i sin helhet, intervju og søknad.
+(2) Opptaksprøven er lagt opp på følgende måte:
+- Fysisk test: styrke, fleksibilitet, balanse, koordinasjon
+- Ballett
+- Samtidsdans
+- Selvstendig improvisasjonsoppgave, 3 valgmuligheter
+- Intervju.
+(3) Rangering: Opptak til Agder Kunstfagskole skjer på grunnlag av kvalifisering og rangering. Rangering skjer ved utregning av poeng. Grunnlaget for rangering er karakterene fra den dokumentasjonen som kvalifiserer søkeren for en fagskoleutdanning og annen dokumentasjon som gir tilleggspoeng. Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
+(4) Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10. Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
+(5) Søkere med formell kompetanse rangeres etter studieresultat (karakterpoeng), modenhet, fysiske forutsetninger og tekniske ferdigheter. Søkere med realkompetanse rangeres etter lengden av treningsbakgrunn som minimum skal være tilsvarende tre år generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning i dans, relevant yrkespraksis, modenhet, fysiske forutsetninger og tekniske ferdigheter.
+(6) Alle som gjennomfører opptaksprøven blir vurdert og rangert etter følgende kriterier:PoengKarakterpoeng: Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.Relevant yrkespraksis: Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Det kan gis inntil 10 poeng for relevant yrkespraksis.Tekniske ferdigheter1-10 (10 høyest)Fysiske forutsetning1-10 (10 høyest)Modenhet1-10 (10 høyest)Generell forståelse for faget1-10 (10 høyest)Utviklingspotensial1-10 (10 høyest)
+(7) Dersom skolen har flere søkere enn det skolen har plasser/kapasitet til å ta inn, vil følgende prioritering bli lagt til grunn for inntaket:
+- Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
+(8) Alle søkere som tilfredsstiller opptakskriteriene, føres opp i prioritert rekkefølge etter opptaksjuryens tildeling av poeng.
+(9) Venteliste: Hvis det er venteliste etter at det ordinære opptaket er gjennomført, og Agder Kunstfagskole får ledige studieplasser etter studiestart, tilbys eventuelle ledige studieplasser til søkerne som står på venteliste.
+(10) Ti dager etter studiestart kan Agder Kunstfagskole tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
