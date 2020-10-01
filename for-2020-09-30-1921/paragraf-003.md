@@ -1,0 +1,2 @@
+# § 3. Nasjonal enhet for rettspsykiatrisk sakkyndighet
+Nasjonal enhet for rettspsykiatrisk sakkyndighet skal føre en nasjonal oversikt over sakkyndige og jevnlig oppdatere den. De sakkyndige som anmoder om å stå på oversikten skal dokumentere at de har kompetansen som kreves etter § 2 før de kan meldes inn i oversikten, og de skal varsle enheten ved endringer i den registrerte informasjonen. Enheten skal administrere en rekvireringsordning og lage årlig statistikk på det rettspsykiatriske fagfeltet. Enheten skal komme med forslag til kompetente sakkyndige.
