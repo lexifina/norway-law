@@ -12,8 +12,7 @@ d) har overskredet grensene for
 2) nødverge (jf. § 18), eller
 3) selvtekt (jf. § 19),
 e) har handlet i berettiget harme, under tvang eller under overhengende fare,
-f) på handlingstidspunktet har en alvorlig psykisk lidelse med en betydelig svekket evne til realistisk å vurdere sitt forhold til omverdenen, men ikke er psykotisk,
-g) på handlingstidspunktet er psykisk utviklingshemmet i lettere grad,
-h) på handlingstidspunktet har en noe mindre sterk bevissthetsforstyrrelse enn den som fritar for straff etter § 20 bokstav d. Er bevissthetsforstyrrelsen en følge av selvforskyldt rus, gjelder dette likevel bare når særdeles formildende omstendigheter tilsier det,
-i) på handlingstidspunktet er under 18 år, eller
-j) har handlet i uaktsom rettsuvitenhet ved overtredelser av straffebud som krever forsett eller grov uaktsomhet.
+f) på handlingstidspunktet har en betydelig svekket virkelighetsforståelse på grunn av sterkt avvikende sinnstilstand, psykisk utviklingshemming eller bevissthetsforstyrrelse, men ikke er utilregnelig etter § 20 annet ledd,
+g) har handlet under selvforskyldt rus eller i en selvforskyldt utilregnelighetstilstand etter § 20 fjerde ledd, og det foreligger særdeles formildende omstendigheter,
+h) på handlingstidspunktet er under 18 år, eller
+i) har handlet i uaktsom rettsuvitenhet ved overtredelser av straffebud som krever forsett eller grov uaktsomhet.
