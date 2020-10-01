@@ -1,0 +1,5 @@
+# § 10. Overtredelsesgebyr
+Den som forsettlig eller uaktsomt overtrer § 5, kan ilegges et overtredelsesgebyr av Norges vassdrags- og energidirektorat eller Statens vegvesen, dersom det i den aktuelle forskriften er fastsatt at slik overtredelse kan medføre overtredelsesgebyr. Dersom noen på vegne av et foretak har begått en overtredelse som det etter første punktum kan ilegges overtredelsesgebyr mot, kan Norges vassdrags- og energidirektorat eller Statens vegvesen ilegge foretaket overtredelsesgebyr.
+Overtredelsesgebyr kan ilegges etter faste satser eller utmåles i det enkelte tilfelle. Der det skal anvendes faste satser må disse fremgå av forskrift. Forhåndsvarsel kan unnlates når overtredelsesgebyr ilegges etter faste satser. Dersom det ikke skal benyttes faste satser skal det ved fastsettelsen av overtredelsesgebyret særlig legges vekt på overtrederens økonomiske forhold, samt overtredelsens grovhet og omfang.
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
+Kongen kan i forskrift gi nærmere bestemmelser om overtredelsesgebyr, herunder om utmåling, inndriving, betaling og klagebehandling.
