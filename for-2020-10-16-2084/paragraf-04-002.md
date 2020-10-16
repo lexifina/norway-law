@@ -1,0 +1,4 @@
+# § 4-2. Saksbehandling og kontroll
+Søker plikter på forespørsel å fremlegge alle opplysninger som er nødvendige for at Lotteri- og stiftelsestilsynet kan gjennomføre saksbehandling og kontroll etter denne forskriften.
+Lotteri- og stiftelsestilsynet kan sammenstille nødvendige opplysninger og treffe vedtak som utelukkende er basert på automatisert behandling av opplysninger. Søker plikter å oppgi korrekte opplysninger. Søknader med åpenbare feil vil bli avvist og organisasjonen må eventuelt søke på nytt.
+Det skal gjennomføres etterhåndskontroll av organisasjoner som får en kompensasjon etter denne forskriften på 9 millioner kroner eller mer. Det skal også gjennomføres etterhåndskontroll av øvrige organisasjoner som mottar kompensasjon etter denne forskriften basert på en risiko- og vesentlighetsvurdering.

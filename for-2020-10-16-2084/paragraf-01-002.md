@@ -1,0 +1,3 @@
+# § 1-2. Virkeområde
+Ordningen gjelder for arrangement eller annen spesifisert aktivitet som var planlagt avholdt i Norge i perioden fra 12. mars til og med 31. desember 2020, og som helt eller delvis er avlyst, stengt eller utsatt som følge av pålegg eller råd fra offentlige myndigheter.
+Ordningen gjelder for organisasjoner som har sin hovedvirksomhet i Norge og som er registrert i Frivillighetsregisteret. Søknad kan sendes på vegne av andre organisasjoner som ikke er registrert i Frivillighetsregisteret. I disse tilfellene forutsettes det at organisasjonene driver frivillig virksomhet og at deltakere og/eller eiere med bestemmende innflytelse er registrert i Frivillighetsregisteret.
