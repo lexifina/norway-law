@@ -1,0 +1,2 @@
+# § 1
+Lov om pass § 6 annet ledd (innhenting og lagring av biometrisk personinformasjon i passet) og § 6a (Innhenting av biometrisk personinformasjon til gjennomføring av passkontroll (verifikasjon) mv.) skal også omfatte diplomatpass, spesialpass og tjenestepass utstedt etter regler gitt i medhold av utenrikstjenesteloven, samt utlendingspass og reisebevis for flyktninger i medhold av utlendingsloven § 64.
