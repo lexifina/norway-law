@@ -1,0 +1,2 @@
+# § 1. Forordning (EU) 2020/1043
+EØS-avtalens vedlegg II kapittel XIII nr. 20 (forordning (EU) 2020/1043 om gjennomføring av kliniske utprøvinger og utlevering av legemidler for mennesker som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av coronavirussykdom (covid-19)), gjelder som forskrift med de endringer og tillegg som følger av vedlegg II og protokoll 1 til avtalen og avtalen for øvrig.
