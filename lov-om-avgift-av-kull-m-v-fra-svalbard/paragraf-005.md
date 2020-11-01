@@ -1,0 +1,4 @@
+# § 5
+Når avgiften er beregnet skal skattekontoret sende beregningen i rekommandert brev til den opgitte adresse i Norge for den avgiftspliktige selv (i tilfelle både utskiber og produsent) eller hans fullmektig. Har en avgiftspliktig, som ikke er hjemmehørende i Norge, undlatt å opgi fullmektig, utlegges brevet til avhentning på skattekontoret.
+Klage over beregningen må være innkommet til skattekontoret innen 6 uker fra den dag, da beregningen i overensstemmelse med forrige ledd blev sendt den avgiftspliktige eller hans fullmektig eller utlagt på skattekontoret. Dog kan skattemyndighetene på andragende innrømme forlengelse av klagefristen.
+Klager, som ikke helt imøtekommes av skattekontoret, skal det oversende til skatteklagenemnda for Svalbard til avgjørelse. Før avgjørelse treffes skal der gis den avgiftspliktige anledning til fornyet uttalelse.
