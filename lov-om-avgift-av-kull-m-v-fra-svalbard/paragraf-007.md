@@ -1,0 +1,3 @@
+# § 7
+Har en utskiber helt eller for en vesentlig del undgått avgiftsberegning, kan efterberegning foretas, når vedkommende departement begjærer det. Reglene i §§ 5 og 6 får tilsvarende anvendelse. Renter svares fra 30 april det år, da avgiften skulde ha vært betalt.
+Rett til sådan efterberegning tapes, hvis begjæring derom ikke fremkommer innen 5 år, regnet fra utgangen av det år, hvori beregningen skulde ha vært foretatt. Foreligger straffbart forhold fra den skattepliktiges side, er fristen 10 år. Er disse frister ikke utløpet, kan efterberegning også begjæres efter den avgiftspliktiges død eller selskapets opløsning, dog ikke hvis der er hengått mer enn 2 år derefter.

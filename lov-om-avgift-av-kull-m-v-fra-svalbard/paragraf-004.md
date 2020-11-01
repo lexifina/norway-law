@@ -1,0 +1,3 @@
+# § 4
+Skattekontoret beregner avgiften og i tilfelle de beløp for hvilke produsentene er medansvarlige på grunnlag av de meddelte opgaver. Det kan også forlange ytterligere oplysninger, som måtte være nødvendige for beregningen.
+Undlater den avgiftspliktige å føre eller til bestemt tid å innsende boken med bilag til skattekontoret, eller undlater han å efterkomme en opfordring fra skattemyndighetene for Svalbard om å meddele oplysninger, taper han retten til å inngi klage, med mindre han godtgjør omstendigheter, som finnes fyldestgjørende til undskyldning for forsømmelsen. Det samme gjelder når produsenten undlater å føre eller innsende pliktig regnskap eller å gi krevede oplysninger.
