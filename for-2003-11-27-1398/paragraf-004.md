@@ -1,0 +1,3 @@
+# § 4
+Statsforvaltningen er unntatt fra å levere opplysninger om beregnet arbeidsgiveravgift etter a-opplysningsloven. I stedet gjennomføres forenklet oppgjør ved at beregnet avgift i rapport til statsregnskapet føres til utgift i samme måned som lønn og godtgjørelse er utbetalt til arbeidstaker. Samtidig skal arbeidsgiveravgiften bokføres som inntekt under folketrygdens kapittel i rapporten til statsregnskapet.
+Første ledd gjelder ikke for de deler av statsforvaltningen som er omtalt i § 1 andre ledd b. Disse deler av statsforvaltningen skal levere opplysninger om beregnet arbeidsgiveravgift etter § 2 til skattekontoret, etter de ordinære regler for opplysningsplikt om arbeidsgiveravgift.
