@@ -1,0 +1,3 @@
+# § 5. Tilgang til elektronisk arkiv
+Tilgangen til kopier som kontrollmyndighetene har tatt av elektroniske arkiv skal lukkes senest når endelig rapport om kontroll er ferdigstilt. Når tilgangen er lukket, skal kontrollmyndighetene ikke kjøre søk eller foreta annen gjennomgang av kopien av det elektroniske arkivet.
+Tilgangen til elektroniske arkiv kan åpnes igjen for å bekrefte eller avkrefte opplysninger fra opplysningspliktige, for å verifisere tidligere uttrukne data eller hvis saksbehandlingen viser at det er behov for ytterligere opplysninger eller dokumentasjon. Ved gjenåpning skal opplysningspliktige underrettes.
