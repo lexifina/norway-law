@@ -1,0 +1,2 @@
+# § 1
+Skattekontoret sender hvert år oppgave til Skattedirektoratet over skattytere som det er foretatt utgiftsføring eller nedsettelse/ettergivelse av fastsatt skatt og avgift for. Tilfelle som nevnt i Finansdepartementets forskrift 18. desember 1997 nr. 1408 om nedsettelse av pensjonsgivende inntekt, pensjonspoeng og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt § 3 bokstav b medtas ikke. Videre skal oppgaven omfatte skattytere med skatte- og avgiftsrestanser som fortsatt står ubetalt 3 år etter utløpet av skattefastsettingsåret.

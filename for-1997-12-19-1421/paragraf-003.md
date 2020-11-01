@@ -1,0 +1,2 @@
+# § 3
+Skattekontoret kontrollerer at det ikke har skjedd endring av fastsetting som ikke er registrert av Skattedirektoratet. Videre skal skattekontoret fjerne fra listen de saker hvor skatte- og avgiftskravet ikke er endelig avgjort, jf. Finansdepartementets forskrift 18. desember 1997 nr. 1408 om nedsettelse av pensjonsgivende inntekt, pensjonspoeng og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt § 3 bokstavene f og g, samt eventuelle saker som nevnt i paragrafens bokstav b.
