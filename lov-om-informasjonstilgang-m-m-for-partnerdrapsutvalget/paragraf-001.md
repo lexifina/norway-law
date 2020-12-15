@@ -1,0 +1,2 @@
+# § 1. Formålet med loven
+Formålet med loven er å gi utvalg oppnevnt av Kongen i statsråd 12. oktober 2018, som skal gjennomgå saker med drap der gjerningspersonen er daværende eller tidligere partner, tilgang til opplysninger som er nødvendige for å avdekke om, i hvilken grad og eventuelt på hvilken måte det har forekommet svikt i det offentlige tjenesteapparatets håndtering i forkant av disse sakene.
