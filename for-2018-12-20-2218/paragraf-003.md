@@ -1,0 +1,5 @@
+# § 3. Opplæring av losaspiranter og av loser ved utvidelse av lossertifikat
+(1) Opplæringen består av en teoretisk og en praktisk del. Opplæringen foregår etter en opplæringsplan godkjent av Kystverket.
+(2) Den praktiske opplæringen foregår på et egnet fartøy under veiledning av los inntil kandidaten kan dokumentere tilfredsstillende kjennskap til de aktuelle farvann og steder. Unntaksvis kan inntil en tredel av den praktiske opplæringen gjøres på simulator når dette er beskrevet i opplæringsplanen.
+(3) Opplæring av losaspiranter avsluttes med en muntlig og en praktisk evaluering hvor aspiranten må vise god nok kjennskap til de aktuelle farvann og steder til å kunne fremstille seg for loseksamen. Evalueringen skal forestås av to loser med god erfaring fra de aktuelle sertifikatområdene og som har deltatt i opplæringen av losaspiranten. Losaspirant som etter evalueringen ikke får fremstille seg for loseksamen kan kreve at Kystverket oppnevner en annen los og en farvannskjent kaptein som skal forestå en ny evaluering.
+(4) Det skal foreligge en loslekse og kaibok for alle sertifikatområdene. Disse skal være tilgjengelige for kandidaten under opplæringen.
