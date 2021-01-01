@@ -1,0 +1,2 @@
+# § 6. Administrasjon, klage og dispensasjon
+Vedtak om kompensasjon fattes av statsforvalteren. Beregnet kompensasjon under kr 1000 utbetales ikke. Vedtak fattet av statsforvalteren kan påklages til Landbruksdirektoratet. Landbruksdirektoratet kan i særlige tilfeller dispensere fra fristen i § 5 annet ledd. Klage på dispensasjonsvedtak stiles til Landbruks- og matdepartementet, og sendes Landbruksdirektoratet.
