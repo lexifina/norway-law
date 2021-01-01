@@ -1,0 +1,4 @@
+# § 9. Forbud mot forskuddsbetaling
+Ved avtaler om deltidsbruksrett, langtidsferieprodukter og bytte kan den næringsdrivende ikke kreve eller motta forskuddsbetaling, sikkerhetsstillelse, reservasjon av beløp på konto, uttrykkelig anerkjennelse av gjeld eller andre vederlag til den næringsdrivende eller en tredjeperson før angrefristen etter § 12 er løpt ut. Ved avtaler om videresalg gjelder et tilsvarende forbud før salget faktisk finner sted eller avtalen om videresalg opphører på annen måte.
+Dersom en avtale om deltidsbruksrett gjelder eiendom under oppføring, kan den næringsdrivende ikke kreve eller motta noen form for betaling fra forbrukeren før sikkerhet er stilt etter § 10.
+Dersom den næringsdrivende har mottatt vederlag i strid med bestemmelsen her, kan forbrukeren kreve beløpet tilbake med tillegg av forsinkelsesrente etter lov 17. desember 1976 nr. 100 om forsinket betaling m.m. fra den dagen betalingen ble mottatt.
