@@ -1,0 +1,2 @@
+# § 59. Forutsetningssvikt
+Hvis testator var uvitende om eller hadde en uriktig oppfatning av forhold som var avgjørende for en testamentarisk disposisjon, eller hvis forhold som var avgjørende for en testamentarisk disposisjon, har endret seg etter at testamentet ble opprettet, skal testamentet gjelde slik som testator ville ha ment med den rette kunnskapen, når dette kan klarlegges. Tolkningsregelen i første punktum gjelder likevel ikke hvis testator senere er blitt kjent med det riktige eller nye forholdet og kunne ha endret eller tilbakekalt testamentet etter § 48.

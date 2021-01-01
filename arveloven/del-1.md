@@ -1,0 +1,1 @@
+# Første del. Innledende bestemmelser

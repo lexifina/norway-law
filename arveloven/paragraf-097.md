@@ -1,0 +1,2 @@
+# § 97. Uskifteattest
+Retten skal så snart det er avklart at vilkårene for uskifte er oppfylt, og fylkesmannen eventuelt er varslet etter § 96 fjerde ledd, utstede en uskifteattest. Ved privat skifte mellom den lengstlevende og de av arvelaterens arvinger som har krav på arven straks, skal uskifteattesten utstedes når arvingene gir samtykke til det eller bekrefter at det er inngått bindende avtale om oppgjøret. Ved uskifteattesten blir den lengstlevende ektefellen eller samboeren legitimert til å rå over arvelaterens eiendeler.

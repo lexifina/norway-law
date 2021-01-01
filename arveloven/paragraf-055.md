@@ -1,0 +1,3 @@
+# § 55. Testators bestemmelse om å gjøre en livsarving arveløs
+Arvelateren kan bestemme ved testament at en livsarving ikke skal ta pliktdelsarv hvis livsarvingen har gjort seg skyldig til straff for et lovbrudd med en strafferamme på fengsel i ett år eller mer mot arvelateren, arvelaterens ektefelle eller samboer, arvelaterens slektninger i rett opp- eller nedstigende linje eller arvelaterens søsken eller livsarvinger etter dem. Et slikt testament gjelder bare når det er stadfestet av Kongen.
+Blir en livsarving gjort arveløs etter reglene i første ledd, skal arven gå som om livsarvingen var død før arven falt.

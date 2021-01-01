@@ -1,0 +1,3 @@
+# § 153. Bomøter
+Arvingene innkalles til et innledende bomøte, med mindre bostyreren finner at et slikt møte vil ha liten hensikt. En arving som etter testament bare skal motta et bestemt, avgrenset gode av liten verdi, innkalles bare om det anses hensiktsmessig. På møtet skal bostyreren legge frem en oversikt over boets eiendeler og forpliktelser og avklare eventuelle tvister som må løses. Arvingenes syn på fordelingen av boets eiendeler og i hvilken grad eiendelene skal selges, bør så vidt mulig bringes på det rene.
+Under den videre skiftebehandlingen kan bostyreren innkalle arvingene til bomøter når det anses hensiktsmessig.

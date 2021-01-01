@@ -1,0 +1,2 @@
+# § 18. Personlige forhold som fratar ektefellen rett til uskifte
+Den lengstlevende ektefellen har ikke rett til uskifte hvis det sannsynliggjøres at hans eller hennes gjeldsforpliktelser vil gjøre det vanskeligere å få dekket krav mot den avdøde ektefellen, eller at disse forpliktelsene vil redusere arven til den avdødes arvinger vesentlig. Det samme gjelder hvis den lengstlevende ektefellen på en klanderverdig måte har påført eller utsatt seg selv eller andre for et betydelig formuestap og derfor ikke kan ventes å styre uskifteformuen på en forsvarlig måte.

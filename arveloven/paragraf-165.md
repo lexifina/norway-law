@@ -1,0 +1,2 @@
+# § 165. Plikt til å sørge for tinglysing eller registrering
+Retten eller bostyreren skal sørge for at overføring av fast eiendom fra boet til en arving tinglyses i grunnboken. Om en arving gis rett til pant i fast eiendom eller realregistrerbart løsøre, skal det sørges for at pantet tinglyses eller registreres. Det skal også sørges for rettsvern ved beslagsforbud etter dekningsloven § 3-3. Gebyr for tinglysing eller annen registrering i et realregister dekkes av boet.

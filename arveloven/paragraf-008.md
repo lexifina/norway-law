@@ -1,0 +1,3 @@
+# § 8. Ektefellens arverett når arvelateren etterlater seg livsarvinger
+Ektefellen har rett til en firedel av arven når det er livsarvinger etter arvelateren, men ektefellen har uansett rett til en minstearv på fire ganger folketrygdens grunnbeløp ved arvefallet.
+Fører retten til minstearv til at ektefellen arver alt, har livsarvingene likevel de samme rettighetene som arvinger har etter reglene i §§ 92, 93, 104, 108 og 121. §§ 105 til 107 gjelder tilsvarende. En livsarving kan kreve verdsettelse ved skiftetakst etter § 106 også av eiendeler som ektefellen skal overta, hvis det er grunn til å tro at verdsettelsen kan ha betydning for livsarvingens arverett.

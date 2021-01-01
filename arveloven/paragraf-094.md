@@ -1,0 +1,3 @@
+# § 94. Testamentarisk bestemmelse om opprettelse av en stiftelse
+Går et testament ut på at det skal opprettes en stiftelse, skal arvingene innkalles til et forberedende rettsmøte. § 131 første og fjerde ledd gjelder tilsvarende. Rettsgebyrloven § 16 nr. 3 gjelder ikke. Bestrider noen av arvingene stiftelsens arverett, skal tingretten åpne offentlig skifte etter reglene i § 129 annet ledd. Bestrider en arving stiftelsens arverett under et privat skifte, må arvingen kreve offentlig skifte.
+Stiftelsestilsynet kan representere stiftelsen under privat skifte og offentlig skifte hvis stiftelsen er uten et kompetent styre. Stiftelsestilsynet kan kreve å bli holdt orientert om avgjørelser som treffes i forbindelse med privat skifte og offentlig skifte.

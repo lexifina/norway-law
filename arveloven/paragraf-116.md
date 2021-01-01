@@ -1,0 +1,4 @@
+# § 116. Ansvaret for arvelaterens forpliktelser
+Skal boet skiftes privat, må minst én av de myndige arvingene overfor retten påta seg ansvaret for arvelaterens forpliktelser. Påtar flere arvinger seg dette ansvaret, er de fullt og solidarisk ansvarlige overfor kreditorene. De øvrige arvingene er ansvarlige for arvelaterens forpliktelser bare inntil verdien av sin arv.
+Hvis boets eiendeler antas å være verdt mindre enn tre ganger grunnbeløpet i folketrygden, er ansvaret etter første ledd første og annet punktum begrenset til boets eiendeler etter at begravelsesomkostningene er dekket.
+Er ingen av arvingene myndige, kan boet skiftes privat uten at noen påtar seg ansvaret for arvelaterens forpliktelser etter første ledd. Arvingene er da ansvarlige for arvelaterens forpliktelser bare inntil verdien av sin arv.

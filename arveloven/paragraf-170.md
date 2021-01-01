@@ -1,0 +1,2 @@
+# § 170. Frister for å reise skiftetvist
+Skal retten avgjøre et omtvistet krav, og det ikke er inngitt prosesskriv om kravet, kan retten bestemme hvem som skal reise tvist, og sette en frist for saksanlegget. Rettens beslutning skal opplyse om konsekvensene av å oversitte fristen. Beslutningen skal forkynnes for den som skal reise tvist. Oversittes fristen, og reglene i annet og tredje punktum er fulgt, faller kravet bort. Reglene om oppfriskning i tvisteloven kapittel 16 gjelder tilsvarende.

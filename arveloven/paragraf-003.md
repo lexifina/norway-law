@@ -1,0 +1,3 @@
+# § 3. Hvordan arv fordeles. Skifte
+Rett til arv etter loven har arvelaterens slektninger og eventuelt ektefelle eller samboer etter reglene i kapittel 2 til 4. Arvelateren kan innenfor lovens rammer fastsette en annen fordeling av arven enn den som følger av loven, ved å opprette testament etter reglene i kapittel 7. Har ikke arvelateren arvinger som nevnt i første eller annet punktum, går arven til frivillig virksomhet til fordel for barn og unge etter reglene i kapittel 10.
+Når en person er død, skal boet etter ham eller henne skiftes etter reglene i kapittel 12 til 17 om ikke ektefellen eller samboeren overtar boet uskiftet etter reglene i kapittel 5 eller 6.

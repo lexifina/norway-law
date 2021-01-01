@@ -1,0 +1,4 @@
+# § 133. Åpning av offentlig skifte. Tvist om vilkårene er til stede
+Retten åpner offentlig skifte i boet når vilkårene for dette er oppfylt.
+Er det tvil om hvem som er rette arvinger, eller er det ellers uenighet om vilkårene for å åpne offentlig skifte er oppfylt, kan retten bestemme at boet skal skiftes offentlig inntil spørsmålet er avgjort, jf. § 129 annet ledd. Dette gjelder også etter at boet er overtatt til privat skifte. Bestrides det at vilkårene for offentlig skifte er til stede, avgjør retten ved kjennelse om det skal åpnes offentlig skifte. Det rettsspørsmålet som ligger til grunn for avgjørelsen, kan prøves senere under skiftet.
+Inntil spørsmålet om offentlig skifte er avgjort skal retten treffe de midlertidige forføyninger som er påkrevd for å hindre at noe foregripes. Bestemmelsene i tvisteloven §§ 32-5 til 32-8 og §§ 34-2 til 34-7 gjelder tilsvarende.

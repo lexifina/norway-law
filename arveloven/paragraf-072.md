@@ -1,0 +1,7 @@
+# § 72. Fradømmelse av arverett
+Blir noen dømt for en straffbar handling mot den han eller hun skulle arve, og arvelateren dør eller mister testasjonsevnen på grunn av handlingen, kan gjerningspersonen helt eller delvis fradømmes retten til arv og uskifte.
+Blir noen dømt for en straffbar handling mot arvingen etter en arvelater som også gjerningspersonen kan få arverett etter, og arvingen dør på grunn av handlingen, kan gjerningspersonen helt eller delvis fradømmes retten til arv og uskifte. Det samme gjelder om noen blir dømt for en straffbar handling som er årsak til at et barn som er unnfanget, ikke blir født levende, og barnet hadde hatt en minst like god arverett som gjerningspersonen.
+Første og annet ledd gjelder også hvis dommen går ut på at vedkommende ikke kan straffes på grunn av vilkårene i straffeloven § 20.
+Avgjørelse om tap av retten til arv og uskifte etter første til tredje ledd treffes ved dom. Krav om slik dom kan fremsettes av enhver som får rett til arv eller større arv hvis kravet tas til følge. I en offentlig straffesak om handlingen kan dessuten påtalemyndigheten fremsette et slikt krav. Retten kan i en offentlig straffesak av eget tiltak fradømme noen retten til arv og uskifte selv om ingen har krevd det.
+Blir noen fradømt retten til arv etter denne paragrafen, skal arven gå som om vedkommende var død før arven falt.
+Reglene i denne paragrafen er ikke til hinder for at arveretten blir gitt tilbake ved testament. Et slikt testament gjelder bare når det er stadfestet av Kongen.
