@@ -1,0 +1,7 @@
+# § 20. Tiltak overfor fartøy i fare
+Departementet kan pålegge eieren, rederen eller føreren av et fartøy som er i fare eller som truer sikkerheten i farvannet, å iverksette nødvendige tiltak. Tiltak kan pålegges når departementet finner det påkrevd for å berge liv, hindre skade på person, miljø eller eiendom eller trygge ferdselen. Pålegget kan blant annet gå ut på at fartøyet skal endre kurs, endre fart, ankre opp, nødlosse, ta slep om bord eller skaffe nødvendig assistanse fra bergingsselskap.
+Ved slep av fartøy kan departementet gi pålegg som nevnt i første ledd til de assisterende fartøyene.
+Dersom et pålegg etter første og andre ledd ikke etterkommes, eller utferdigelse av et slikt pålegg kan medføre at nødvendige tiltak forsinkes, kan departementet iverksette tiltakene. Om nødvendig kan departementet be politiet om bistand.
+Plikten til å utføre tiltak etter første og andre ledd og retten til å iverksette tiltak etter tredje ledd gjelder også når tiltaket kan skade fartøyet eller gjenstander om bord eller volde annet tap for eieren, rederen eller lasteeieren. Skipsføreren og mannskapet kan pålegges å medvirke til gjennomføring av tiltak etter denne paragrafen.
+Departementet kan kreve at fartøyets eier eller reder dekker utgifter, skade og tap ved tiltak etter tredje ledd. Bestemmelsen i § 18 femte ledd gjelder tilsvarende.
+Departementet kan gi forskrift om gjennomføring av bestemmelsene i denne paragrafen.
