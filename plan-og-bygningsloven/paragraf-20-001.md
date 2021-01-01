@@ -12,5 +12,5 @@ i) plassering av skilt- og reklameinnretninger
 j) plassering av midlertidige bygninger, konstruksjoner eller anlegg
 k) vesentlig terrenginngrep
 l) anlegg av veg, parkeringsplass og landingsplass
-m) opprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, eller opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller arealoverføring, jf. matrikkellova.
+m) opprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, eller opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, eller endring av grenser for slike matrikkelenheter som ikke kan behandles som grensejustering, jf. matrikkellova.
 Departementet kan gi forskrifter om hvilke tiltak som omfattes av bestemmelsen.
