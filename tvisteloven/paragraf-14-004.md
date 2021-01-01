@@ -12,7 +12,7 @@ c) særlige forhold gir grunn til frykt for at offentlighet vil vanskeliggjøre 
 d) i krigstid hensynet til militære operasjoner eller militære avdelingers sikkerhet eller andre særlige grunner krever det.
 Dersom det likevel gis innsyn, kan retten ved kjennelse helt eller delvis forby offentlig gjengivelse.
 (3) Retten skal nekte innsyn i bevis som kan kreves ført for lukkede dører etter kapittel 22 om
-a) drifts- eller forretningshemmeligheter,
+a) forretningshemmeligheter,
 b) opplysninger av betydning for rikets sikkerhet eller forholdet til fremmed stat,
 c) forhold undergitt lovbestemt taushetsplikt,
 d) rettsforhandlinger hvor det er gitt pålegg om hemmelighold, eller
