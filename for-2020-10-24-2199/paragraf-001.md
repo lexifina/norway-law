@@ -1,0 +1,2 @@
+# § 1. Kva forskrifta gjeld
+Forskrifta gjeld for aksjeselskap som skal utføre transaksjonar etter aksjelova § 3-8, § 8-2a, § 8-7, § 8-10, § 9-3, § 10-20 og § 12-2, og allmennaksjeselskap som skal utføre transaksjonar etter allmennaksjelova § 3-8, § 8-2a, § 8-7, § 8-10, § 9-3, § 10-20, § 12-2 og § 13-8, med grunnlag i ein mellombalanse som skal sendast til Rekneskapsregisteret. Forskrifta gjeld òg for mellombalanse som skal nyttast etter allmennaksjelova § 3-11 andre ledd og § 3-19 andre ledd andre punktum.
