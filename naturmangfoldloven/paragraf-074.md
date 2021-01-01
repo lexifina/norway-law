@@ -1,8 +1,10 @@
-# § 74. (miljøerstatning)
-Den som overtrer bestemmelser i eller i medhold av denne loven eller bestemmelser som tjener til gjennomføring av mål og prinsipper i loven, skal etter pålegg fra myndigheten etter loven betale miljøerstatning til staten.
-Avgjørelse av om pålegg skal gis og fastsetting av miljøerstatningens størrelse, skjer etter en samlet vurdering av de aktuelle miljøverdienes betydning, miljøskadens eventuelle omfang og varighet, sanksjoner pålagt overtrederen og omstendighetene for øvrig. Kongen kan gi forskrift om forenklet pålegg etter fastsatte satser for bestemte overtredelser.
-Pålegg om miljøerstatning regnes som et enkeltvedtak etter forvaltningsloven.
-Pålegg om miljøerstatning er tvangsgrunnlag for utlegg. Erstatningskravet kan også tas opp i straffesak. Blir erstatningskravet brakt inn for retten i straffesak, sivilt søksmål eller ved klage over utleggsforretning, kan retten prøve erstatningskravet fullt ut. Underretning om pålegget skal gi opplysning om reglene i leddet her.
-Departementet kan frafalle kravet på miljøerstatning. Avgjørelsen regnes ikke som enkeltvedtak etter forvaltningsloven.
-Miljøerstatning etter denne loven ilegges ikke hvis det ilegges erstatning etter genteknologiloven eller forurensningsloven.
-At noen er ilagt miljøerstatning, er ikke til hinder for ileggelse av sanksjoner som f.eks. overtredelsesgebyr.
+# § 74. (overtredelsesgebyr)
+Myndigheten etter loven kan ilegge overtredelsesgebyr til den som overtrer § 6, § 15 første og annet ledd, § 17 fjerde ledd første punktum, § 17 a annet og tredje ledd, § 22, § 24 første ledd, § 25, § 26, § 27 annet ledd, § 28, § 29 første og fjerde ledd, § 30 første og annet ledd, § 31 annet ledd annet punktum, § 34, § 35 annet ledd, § 36 annet ledd, § 37 tredje ledd, § 38 annet punktum, § 39 femte ledd, § 44 annet ledd, § 45 første og annet ledd, § 54 første til fjerde punktum, § 55 første ledd, § 58 første ledd, § 59 første og sjette ledd, § 60 første ledd, § 61, § 63 annet ledd første punktum og § 66.
+Overtredelsesgebyr kan også ilegges den som overtrer
+a) bestemmelser i en forskrift gitt med hjemmel i noen av bestemmelsene nevnt i første ledd
+b) plikter som følger av individuelle avgjørelser gitt med hjemmel i noen av bestemmelsene nevnt i første ledd
+c) bestemmelser i en forskrift som nevnt i § 77 første punktum
+d) plikter som følger av individuelle avgjørelser som nevnt i § 77 første punktum.
+Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
+Kongen kan gi forskrift om utmåling av overtredelsesgebyr.
+Adgangen til å ilegge overtredelsesgebyr foreldes 2 år etter at overtredelsen er opphørt. Fristen avbrytes ved at det gis forhåndsvarsel eller fattes vedtak om overtredelsesgebyr.
