@@ -1,0 +1,20 @@
+# § 4. Informasjon på klageorganets nettside mv.
+Klageorganet skal ha tydelige og lett forståelige opplysninger på sine nettsider og etter anmodning på et varig medium, om:
+a) klageorganets kontaktopplysninger, herunder post- og e-postadresse,
+b) hvilke fysiske personer som har ansvar for klagebehandlingen (ledere, nemndsmedlemmer, ansatte i sekretariatet, meklere, og andre som behandler klagene), og på hvilken måte de er oppnevnt, og for hvor lang tid,
+c) sakkunnskap, upartiskhet og uavhengighet hos de fysiske personene med ansvar for klagebehandlingen, og om disse er ansatt av eller mottar vederlag utelukkende fra den næringsdrivende,
+d) klageorganets eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,
+e) hvilke type saker klageorganet har kompetanse til å behandle, herunder nedre og/eller øvre beløpsgrense som vilkår for å ta en klage til behandling, jf. § 2 annet ledd bokstav a,
+f) klageorganets saksbehandlingsregler og dets adgang til å avvise en sak,
+g) språkkrav til klagen og hvilke språk som benyttes under klagebehandlingen,
+h) hvilke typer regler klageorganet kan bruke i klagebehandlingen (f.eks. lovbestemmelser, rimelighetsvurderinger og atferdsregler),
+i) eventuelle forhåndskrav som partene må oppfylle før klagen behandles, f.eks. ha prøvd å løse saken med motparten,
+j) hvorvidt partene kan trekke seg fra klagebehandlingen,
+k) eventuelle kostnader partene må dekke, herunder reglene for fordeling av kostnader ved endt klagebehandling,
+l) gjennomsnittlig klagebehandlingstid,
+m) rettsvirkningene av resultatet av klagebehandlingen, herunder eventuelt sanksjonene ved manglende etterlevelse av en bindende beslutning,
+n) avgjørelsens tvangskraft, dersom det er relevant,
+o) klageorganets årsrapport, jf. § 3,
+p) klageorganets vedtekter, jf. § 2,
+q) oversikt over klageorganets praksis og sentrale avgjørelser,
+r) EU-kommisjonens liste over klageorganer. Listen skal også gjøres tilgjengelig på varig medium i klageorganets lokaler, dersom dette er praktisk mulig.
