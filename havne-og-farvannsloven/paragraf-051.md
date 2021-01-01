@@ -1,0 +1,4 @@
+# § 51. Straff
+Med bot straffes den som forsettlig eller uaktsomt overtrer enkeltvedtak eller forskrift gitt i medhold av § 7 og § 8 første ledd. Bøteleggelsen kan skje ved forenklet forelegg etter faste bøtesatser. Kongen kan gi forskrift om bruk av forenklet forelegg, fastsettelse av bøtesatser og subsidiær fengselsstraff. Påtalemyndigheten kan oppheve vedtatte forenklede forelegg til gunst for siktede.
+Med bot eller fengsel inntil to år straffes den som overtrer bestemmelser som nevnt i § 50 første ledd på en slik måte at det inntrer eller oppstår fare for betydelig skade på liv eller helse, miljø eller materielle verdier. Overtredelse av bestemmelser gitt i eller i medhold av forskrift straffes likevel bare når det i forskriften er fastsatt at overtredelse av den aktuelle bestemmelsen er straffbar.
+Grovt uaktsom overtredelse av andre ledd straffes med bot eller fengsel inntil ett år.
