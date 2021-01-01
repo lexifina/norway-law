@@ -1,0 +1,3 @@
+# § 95. Fullmakt til å disponere uten skifteattest i bo der den avdødes eiendeler er av liten verdi
+Hvis den avdødes brutto eiendeler etter at begravelsesutgiftene er dekket, må antas å være av liten verdi, kan retten gi en person som har ordnet med begravelsen, eller en annen som har stått den avdøde nær, fullmakt til å disponere over den avdødes eiendeler. Denne personen er ansvarlig for at den avdødes og boets forpliktelser blir dekket innenfor rammen av eiendelene som er overlatt til ham eller henne.
+Viser det seg senere at den avdøde hadde eiendeler av større verdi enn antatt, gjelder reglene ellers i loven. Eiendelene som er stilt til disposisjon etter første ledd, inngår da ikke i boet, med mindre retten bestemmer det.

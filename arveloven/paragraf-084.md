@@ -1,0 +1,6 @@
+# § 84. Skiftemyndighetens stedlige kompetanse
+Behandlingen av et dødsbo foretas av tingretten i den rettskretsen der arvelateren ved dødsfallet hadde sitt alminnelige verneting etter tvisteloven § 4-4. Kan det ikke påvises noe alminnelig verneting, behandles boet av tingretten i den rettskretsen der arvelateren oppholdt seg ved dødsfallet. Etterlater arvelateren seg ektefelle, og det er et felleseie som også skal skiftes, eller skal det skiftes etter at en ektefelle eller samboer har sittet i uskifte, behandles boet av tingretten i den rettskretsen der ektefellen eller samboeren har sitt alminnelige verneting, eventuelt oppholdssted hvis det ikke kan påvises noe alminnelig verneting etter tvisteloven § 4-4.
+Skifte av arv som etter § 125 eller § 146 er satt av til en arving som er forsvunnet eller uten kjent oppholdssted, foretas av tingretten på det stedet der arven først falt.
+Kreves det skifte etter § 85 uten at arvelateren hadde sitt vanlige bosted i Norge, foretas skiftet ved tingretten for Oslo.
+Det kan ikke vedtas en annen tingrett enn den som følger av loven.
+Den tingretten som er kompetent til å behandle boet, kan beslutte at bobehandlingen skal overføres til en annen tingrett etter reglene i domstolloven § 38. Arvingene anses som parter etter de nevnte reglene. Det samme gjør kreditorene i et dødsbo som nevnt i § 175.

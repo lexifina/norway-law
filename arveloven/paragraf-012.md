@@ -1,0 +1,3 @@
+# § 12. Arverett for samboere med felles barn
+Den som var samboer med arvelateren ved dødsfallet og har, har hatt eller venter barn med arvelateren, har rett til en arv på fire ganger folketrygdens grunnbeløp ved arvefallet. Dette gjelder også om det er livsarvinger etter arvelateren. § 8 annet ledd gjelder tilsvarende.
+Samboerens rett til arv etter første ledd kan begrenses ved testament bare hvis han eller hun har fått kunnskap om testamentet før arvelaterens død. Vilkåret om at samboeren må ha fått kunnskap om testamentet, gjelder ikke hvis det var umulig eller urimelig vanskelig å varsle samboeren om testamentet.

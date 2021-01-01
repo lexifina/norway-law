@@ -1,0 +1,2 @@
+# § 121. Kunngjøring av frist for å melde krav (proklama)
+En arving kan kreve at det kunngjøres en frist for kreditorene til å melde sine krav etter reglene om proklama i §§ 100 til 103 hvis ikke dette allerede er gjort etter § 93. Proklamaet utstedes av en som skifteattesten er utstedt til, eller av en denne har gitt fullmakt. Kreditorene kan innkalles ved proklama også etter at det private skiftet er avsluttet.

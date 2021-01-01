@@ -1,0 +1,4 @@
+# § 152. Innberetninger til tingretten
+Senest tre måneder etter oppnevningen skal bostyreren sende innberetning til tingretten. Innberetningen skal inneholde en oversikt over boets eiendeler og forpliktelser og over hvem som har krav på arv i boet. Innberetningen skal også redegjøre for den videre skiftebehandlingen, og den skal angi når det kan foreligge et utkast til booppgjør. Bostyreren skal gi retten korte redegjørelser om fremdriften etter seks og ni måneder om boet ikke allerede er avsluttet.
+Er boet ikke avsluttet innen ett år etter oppnevningen, skal bostyreren sende innberetning til tingretten om skiftebehandlingen samt regnskap for boet. Senere skal det sendes slik innberetning og regnskap etter rettens bestemmelser, likevel minst hvert år.
+Departementet kan i forskrift gi nærmere regler om innberetninger, redegjørelser og regnskap etter denne bestemmelsen.

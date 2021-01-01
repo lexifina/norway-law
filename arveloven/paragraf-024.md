@@ -1,0 +1,3 @@
+# § 24. Adgangen til å gi arveoppgjør av uskifteformuen
+Den lengstlevende ektefellen kan gi fullt eller delvis arveoppgjør av uskifteformuen til en arving bare hvis alle arvingene får en like stor del av sin arv eller har gitt samtykke. Er en arving mindreårig eller fratatt rettslig handleevne på det økonomiske området, kreves samtykke fra både vergen og fylkesmannen.
+Har en arving fått arveoppgjør i strid med første ledd, og ingen av de andre arvingene krever omstøtelse etter § 23, kan hver av dem kreve tilsvarende oppgjør. Et slikt krav kan fremmes også ved et senere skifte av uskifteformuen. Hvis den lengstlevende ikke er villig til å gi et slikt oppgjør, kan arvingene kreve at uskifteformuen skiftes.

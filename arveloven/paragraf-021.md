@@ -1,0 +1,3 @@
+# § 21. Hvilke eiendeler som går inn i uskifteformuen etter at boet er overtatt uskiftet
+Alt som den lengstlevende ektefellen blir eier av, går inn i uskifteformuen. Dette gjelder likevel ikke eiendeler som skal være særeie for den lengstlevende etter ektepakt mellom ektefellene, eller som en giver eller testator har bestemt at skal være særeie, jf. ekteskapsloven § 48. Hvis den lengstlevende har overtatt arvelaterens særeie uskiftet etter § 14 annet ledd, gjelder reglene der tilsvarende.
+Får den lengstlevende gave, arv eller utbetaling etter en livsforsikring, går dette ikke inn i uskifteformuen hvis det blir krevd skifte innen tre måneder etter at gaven, arven eller utbetalingen ble mottatt.

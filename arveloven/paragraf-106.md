@@ -1,0 +1,6 @@
+# § 106. Verdsettelse ved skiftetakst
+Blir arvingene ikke enige etter § 105, verdsettes eiendelen etter begjæring ved skiftetakst. Taksten skal svare til eiendelens omsetningsverdi hvis ikke noe annet er bestemt.
+Skiftetaksten hører under tingretten og holdes av tre skjønnsmedlemmer. Taksten fastsettes i rettsmøte. Dommeren styrer og deltar i taksten hvis noen gjør gjeldende rett på skiftet til å overta en eiendom på grunnlag av odels- eller åsetesrett, eller hvis dommeren ellers finner grunn til det. Deltar dommeren i taksten, settes retten med to eller fire skjønnsmedlemmer etter dommerens beslutning. Omkostningene ved skiftetaksten dekkes av boet. Ved privat skifte skal den som begjærer skiftetaksten, innbetale de antatte omkostningene forskuddsvis.
+Overtakst hører under tingretten, men retten settes med en annen dommer enn den dommeren som har holdt skiftetaksten. Ved overtakst deltar fire skjønnsmedlemmer. Dommeren styrer og deltar alltid i overtaksten. For saksomkostninger ved overtaksten gjelder reglene i tvisteloven kapittel 20.
+Skiftetakst og overtakst kan fremmes selv om partene uteblir.
+Der det er bestemt forkynnelse, kan det ved skiftetakst og overtakst i stedet gis meddelelse. For øvrig gjelder skjønnslovens bestemmelser om skjønn tilsvarende så langt de passer på skiftetakst og overtakst.
