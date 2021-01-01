@@ -1,0 +1,3 @@
+# § 5. Krav til kompetanse mv.
+Ledere for meklingsorganet, meklere og andre som behandler klager skal ha nødvendig kunnskap og kompetanse innen utenrettslig klagebehandling eller forbrukerrettigheter.
+Ledere i nemnd skal ha juridisk embetseksamen eller mastergrad i rettsvitenskap, og for øvrig ha særlig innsikt i den enkelte nemnds saksområde eller utenrettslig klagebehandling. Medlemmer i nemnd og ansatte i sekretariat som behandler klager skal ha nødvendig kunnskap og kompetanse innen utenrettslig klagebehandling eller forbrukerrettigheter. Ledere og medlemmer i nemnd skal velges for minst to år av gangen.
