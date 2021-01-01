@@ -1,0 +1,2 @@
+# § 13. Omgjøring, tilbakebetaling og motregning
+Vedtak om innvilget tilskudd kan omgjøres og utbetalt tilskudd kan kreves tilbakebetalt dersom det avdekkes forhold som er i strid med det som er forutsatt ved innvilgning av tilskuddet. Kravet kan motregnes i tilskudd som utspringer av mottakerens landbruksvirksomhet. Dersom tilbakebetaling ikke skjer innen den frist som blir gitt, kan det kreves forsinkelsesrenter i tillegg, jf. lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.v.
