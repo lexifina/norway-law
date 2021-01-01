@@ -1,0 +1,4 @@
+# § 7. Tilbakebetaling og avkorting
+Utbetalt kompensasjonstilskudd kan kreves helt eller delvis tilbakebetalt fra mottakeren dersom vilkårene for å motta slik tilskudd ikke var til stede.
+Dersom foretaket uaktsomt eller forsettelig driver eller har drevet sin virksomhet i strid med regelverk for jordbruksvirksomhet, kan hele eller deler av kompensasjonstilskuddet som tilfaller foretaket avkortes. Det samme gjelder dersom foretaket har gitt feil opplysninger som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet.
+Der mottakeren ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet frem til foretaket. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av det urettmessige tilskuddet. For renter gjelder ellers lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
