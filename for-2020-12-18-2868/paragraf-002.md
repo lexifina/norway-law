@@ -1,0 +1,2 @@
+# § 2. Overgangsregler for behandling av arrestordre
+Er en person pågrepet med sikte på overlevering til Storbritannia før utløpet av overgangsperioden som fastsatt i lov 29. mars 2019 nr. 8 om en overgangsperiode ved Storbritannias uttreden av EU § 2, kommer reglene i avtale 28. juni 2006 nr. 20 mellom Den europeiske union, Island og Norge om overleveringsprosedyre mellom partene til anvendelse. Er den ettersøkte ikke pågrepet, gjelder tilsvarende dersom politiet har informert vedkommende om arrestordren før utløpet av overgangsperioden.

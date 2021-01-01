@@ -1,0 +1,2 @@
+# § 1. Overgangsregler for anmodninger om gjensidig hjelp i straffesaker
+En anmodning om bistand fra Storbritannia mottatt før utløpet av overgangsperioden som fastsatt i lov 29. mars 2019 nr. 8 om en overgangsperiode ved Storbritannias uttreden av EU § 2, skal behandles i samsvar med reglene i konvensjon 29. mai 2000 om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater og protokoll av 2001 til denne konvensjonen.
