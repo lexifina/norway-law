@@ -1,0 +1,3 @@
+# § 14. Plikt til internkontroll
+Helsedirektoratet skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med personvernforordningen, personopplysningsloven og pasientjournalloven, jf. forordningen artikkel 24. Tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve kravene for behandling av helseopplysninger i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven. Det skal legges særlig vekt på kravene i forordningen artikkel 24.
+Databehandler, jf. § 4 andre ledd, skal behandle opplysninger i samsvar med de krav og rutiner Helsedirektoratet har oppstilt.
