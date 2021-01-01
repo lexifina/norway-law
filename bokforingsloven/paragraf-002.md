@@ -1,0 +1,5 @@
+# § 2. Bokføringspliktige
+Enhver som har regnskapsplikt etter lov 17. juli 1998 nr. 56 om årsregnskap m.v. har bokføringsplikt etter denne loven.
+Enhver som driver virksomhet og har plikt til å levere skattemelding for formues- og inntektsskatt mv. etter skatteforvaltningsloven § 8-2, har bokføringsplikt etter denne loven for den virksomhet som drives. Det samme gjelder enhver som har plikt til å levere skattemelding for merverdiavgift etter skatteforvaltningsloven § 8-3. Dette gjelder likevel ikke tilbydere som leverer skattemelding for merverdiavgift som nevnt i skatteforvaltningsloven § 8-3 første ledd bokstav e, og som er bokføringspliktig utelukkende på grunnlag av plikten til å levere skattemelding etter bestemmelsen her.
+Skattekontoret og Oljeskattekontoret kan i enkelttilfelle pålegge den som antas å drive næringsvirksomhet bokføringsplikt etter denne loven for den virksomhet som drives. Slikt pålegg kan begrenses til å gjelde enkelte bestemmelser i loven. Pålegget kan bare gis for to år av gangen.
+For bokføringspliktige etter annet ledd kan departementet i forskrift gjøre unntak for særlige tilfeller fra bestemmelsene i denne loven.

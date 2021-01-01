@@ -1,0 +1,2 @@
+# § 3. Pliktig regnskapsrapportering
+Med pliktig regnskapsrapportering menes i denne loven årsregnskap og annen rapportering av historiske regnskapsopplysninger til eksterne parter, gitt i skriftlig form til fastsatt tidspunkt og med et forhåndsdefinert innhold, og som er fastsatt i eller med hjemmel i lov. Departementet fastsetter i forskrift hva som er pliktig regnskapsrapportering etter denne loven.
