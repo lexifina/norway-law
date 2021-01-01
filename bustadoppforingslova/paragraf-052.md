@@ -1,0 +1,5 @@
+# § 52. Avbestilling
+Forbrukaren kan avbestille ytinga eller delar av den før overtaking.
+For arbeid som er utført før avbestillinga, kan entreprenøren krevje vederlag. Vederlaget skal fastsetjast på grunnlag av dei prisane som er avtalt, eller dersom dette ikkje let seg gjere, etter føresegnene i § 41 andre ledd.
+Entreprenøren kan vidare krevje skadebot for økonomisk tap så langt forbrukaren rimeleg kunne rekne med tapet som ei følgje av avbestillinga. Dette gjeld òg tapt forteneste så langt det blir godtgjort at det ikkje var mogleg å oppnå ei tilsvarande forteneste ved oppdrag frå andre. Ved utmålinga gjeld elles føresegnene i § 36 tilsvarande.
+Skadebot etter tredje ledd kan likevel ikkje krevjast dersom avbestillinga kjem av at forbrukaren ikkje kan gjere seg nytte av arbeidet, yte nødvendig medverknad eller betale på grunn av ei hindring som ligg utanfor forbrukarens kontroll, og det ikkje er rimeleg å vente at forbrukaren kunne ha rekna med hindringa på avtaletida, eller at forbrukaren skal unngå eller overvinne følgjene av hindringa.

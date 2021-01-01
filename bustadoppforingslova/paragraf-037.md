@@ -1,0 +1,5 @@
+# § 37. Krav mot bakre ledd
+Forbrukaren kan gjere sitt krav som følgje av mangel gjeldande mot ein tidlegare avtalepart som har gjort avtalen som ledd i næringsverksemd, i same mon som mangelen kan gjerast gjeldande av entreprenøren eller annan avtalepart.
+Avtale som innskrenkar det kravet entreprenøren eller ein annan avtalepart har, kan ikkje gjerast gjeldande mot forbrukaren i større mon enn det som kunne ha vore avtalt mellom forbrukaren og entreprenøren.
+Ved krav mot tidlegare avtalepart gjeld føresegnene om reklamasjon i § 30 tilsvarande for tilhøvet mellom forbrukaren og den tidlegare avtaleparten.
+I den mon forbrukaren gjer gjeldande krav mot entreprenøren som òg kunne ha vore gjort gjeldande mot ein tidlegare avtalepart, gjeld reklamasjonsfristen i § 30 første ledd andre punktum for vidare mangelskrav frå entreprenøren mot den tidlegare avtaleparten, dersom ikkje anna følgjer av avtalen mellom entreprenøren og den tidlegare avtaleparten. Føresegna her gjeld tilsvarande for vidare krav mellom tidlegare avtalepartar som følgjer av at forbrukaren har gjort gjeldande mangelskrav.

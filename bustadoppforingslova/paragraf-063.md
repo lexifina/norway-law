@@ -1,0 +1,3 @@
+# § 63. Reklamasjon
+Forbrukaren mistar retten til å krevje skadebot på grunn av feil dersom det ikkje er gjeve melding til konsulenten om kravet innan rimeleg tid etter at forbrukaren oppdaga eller burde ha oppdaga feilen. Kravet kan ikkje meldast seinare enn fem år etter overtakinga av den ytinga som oppdraget knyter seg til, om ikkje konsulenten har teke på seg å svare for feil i lengre tid.
+Konsulenten kan ikkje gjere gjeldande at det er reklamert for seint etter denne paragrafen om tapet kjem av at konsulenten eller nokon konsulenten svarer for, har fare fram grovt aktlaust eller i strid med heider og god tru elles.
