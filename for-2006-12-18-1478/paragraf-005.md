@@ -1,0 +1,4 @@
+# § 5. Stedet for mekling
+Mekling etter ekteskapsloven og for samboere skal skje på det stedet i landet der foreldrene hadde siste felles bopel. Mekling etter barneloven § 51 første ledd skal holdes på det stedet i landet der saken skal behandles for domstolen. Dersom foreldrene er enige, kan de likevel avtale at det skal mekles et annet sted. Mekler skal avvise en begjæring om mekling dersom meklingssak mellom de samme parter allerede er under behandling hos annen mekler.
+Når særlig tungtveiende grunner taler for det, kan mekler avgjøre at det skal mekles på det stedet i landet der den andre forelderen bor.
+Foreldre som bor svært langt fra hverandre, kan unntaksvis møte hos hver sin mekler og mekle ved telefonsamtaler eller videokonferanser. Mekler som har mottatt begjæring om mekling, skal avvise krav om telefon- eller videomekling dersom dette ikke anses som hensiktsmessig i den konkrete saken.
