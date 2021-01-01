@@ -1,0 +1,3 @@
+# § 33. Prisavslag
+Dersom ein mangel ikkje blir retta i samsvar med § 32, kan forbrukaren krevje prisavslag. Dette gjeld likevel ikkje dersom forbrukaren avslår retting som entreprenøren har rett til å utføre etter § 32 andre ledd.
+Prisavslaget skal vere lik kostnadene for forbrukaren med å få mangelen retta, bortsett frå slike kostnader som er nemnde i § 32 fjerde ledd tredje punktum. Blir kostnadene urimeleg høge i høve til det mangelen har å seie for forbrukaren, skal prisavslaget vere lik den verdireduksjonen som mangelen medfører. Prisavslaget skal likevel minst tilsvare det entreprenøren har spart ved ikkje å levere mangelfri yting.

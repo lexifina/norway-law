@@ -1,0 +1,3 @@
+# § 8. Plikt til fråråding
+Må entreprenøren ut frå sin fagkunnskap sjå at forbrukaren ikkje er tent med å få arbeidet utført etter avtalen, skal entreprenøren seie frå om det. Arbeidet skal stansast til entreprenøren får samrådd seg med forbrukaren, dersom det må reknast å gagne forbrukaren.
+Har entreprenøren ikkje sagt frå til forbrukaren eller ikkje stansa arbeidet i samsvar med første ledd, skal entreprenørens krav på vederlag ikkje vere større enn det sannsynleg ville ha vore dersom entreprenøren hadde oppfylt plikta etter første ledd. Entreprenøren kan likevel få dekt kostnader ut over dette så langt det er rimeleg, når berre det samla vederlaget ikkje blir større enn verdien det utførte har for forbrukaren.
