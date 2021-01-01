@@ -1,6 +1,6 @@
 # § 6-2. Saker som behandles av forliksrådet
 (1) Forliksrådet kan behandle saker som kan anlegges ved stevning til tingretten etter reglene for allmennprosess eller småkravprosess i denne loven. Forliksrådet behandler likevel ikke
-a) familiesaker, unntatt saker som bare gjelder det økonomiske oppgjøret ved samlivsbrudd eller deling av reisekostnader ved samvær,
+a) familiesaker, unntatt saker som bare gjelder deling av reisekostnader ved samvær,
 b) saker mot offentlig myndighet, institusjon eller tjenestemann om forhold som ikke er av utelukkende privatrettslig art,
 c) saker om patenter, kretsmønstre til integrerte kretser, planteforedlerretter, varemerker og design,
 d) saker om gyldigheten av en voldgiftsdom eller et rettsforlik,

@@ -1,3 +1,2 @@
 # § 43. Påtegning på testamentet om formkrav mv.
 Testamentsvitnene bør i påtegning på testamentet opplyse om reglene i § 42 er fulgt, om testator har opprettet testamentet av fri vilje, og om testator var ved sans og samling. Påtegningen bør dateres, og vitnene bør oppgi sine fødselsdatoer. Påtegningen skal anses som bevis nok for de forhold den omfatter, om ikke særlige forhold gir grunn til å tvile på den.
-Kongen kan i forskrift gi regler om at testamenter kan opprettes digitalt, og om hvilke krav som i så fall må være oppfylt for at slike testamenter skal være gyldige. I forskriften kan det gjøres unntak fra første og tredje ledd.
