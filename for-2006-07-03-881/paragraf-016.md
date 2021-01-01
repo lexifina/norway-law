@@ -1,0 +1,4 @@
+# § 16. Fordeling av skogfond ved deling av eigedom
+Ved deling av skogeigedommar skal skogfondet delast mellom dei eigedommane som oppstår ved delinga i forhold til investeringsbehovet i dei nærmaste 10 åra framover på dei oppdelte skogeigedommane. Partane kan inngå avtale om fordelinga av skogfondet. Avtalen skal godkjennast av kommunen, som kan endre avtalen dersom den ikkje er tilfredsstillande. Dersom partane ikkje inngår ei slik avtale, eller kommunen finn å måtte endre avtala, skal kommunen fastsetje fordelinga etter at partane innan ein fastsett frist har hatt høve til å uttale seg.
+Dersom dei eigedommane som oppstår ved delinga ikkje skal nyttast til skogbruksformål, eller ikkje har noko framtidig investeringsbehov, skal eigaren av den opphavlege skogeigedommen behalde skogfondet.
+Skjer delinga av skogeigedommar ved jordskifte, bestemmer jordskifteretten korleis skogfondet skal fordelast på dei enkelte eigedommane.

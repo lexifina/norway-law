@@ -1,0 +1,4 @@
+# § 15. Regnskaps- og budsjettrutinar for rentene av skogfond
+Kommunen, Statsforvaltaren og departementet har ansvaret for at rentemidlane regnskaps- og budsjettmessig blir halde skilt frå midlar løyvd over statsbudsjettet og andre midlar som desse administrerer. Rentemidlane skal stå på renteberande konto til best mogleg rente i bank eller annan finansinstitusjon som departementet godkjenner.
+Kommunen og statsforvaltaren skal kvart år utarbeide eit budsjett for bruken av høvesvis kommunane og fylka sine rentemidlar. Statsforvaltarane skal gi nærmare retningslinjer for budsjettarbeidet på kommunenivå, og skal godkjenne kommunane sine budsjett. Departementet gir nærare retningslinjer for gjennomføringa av budsjettarbeidet på fylkesnivå. Budsjetta for bruk av fylka sine rentemidlar skal godkjennast av departementet eller den det gir fullmakt.
+Rentemidlane kan berre brukast i samsvar med dei godkjente budsjetta.
