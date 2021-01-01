@@ -4,6 +4,6 @@ a) har skjedd uten foranledning og har karakter av overfall,
 b) er begått mot en forsvarsløs person,
 c) har karakter av mishandling,
 d) er begått av flere i fellesskap,
-e) er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, homofile orientering eller nedsatte funksjonsevne, eller
+e) er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk eller nedsatte funksjonsevne, eller
 f) er forøvd ved bruk av kniv eller annet særlig farlig redskap.
 § 271 annet ledd gjelder på tilsvarende måte.
