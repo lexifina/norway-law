@@ -1,0 +1,2 @@
+# § 7. Omgjøring og tilbakebetaling
+Vedtak om innvilget tilskudd kan omgjøres og utbetalt tilskudd kan kreves tilbakebetalt dersom det avdekkes forhold som er i strid med det som er forutsatt ved tildeling av tilskuddet. Dersom tilbakebetaling ikke skjer innen fristen som blir gitt, kan det kreves forsinkelsesrenter i tillegg, jf. lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
