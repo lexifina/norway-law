@@ -1,0 +1,5 @@
+# § 12. Rett til å gå fra avtalen (angrerett)
+Forbrukeren kan gå fra avtaler som omfattes av loven her uten å oppgi grunn innen 14 dager etter avtalens inngåelse, eller den dagen forbrukeren mottar avtalen dersom denne mottas senere enn ved avtalens inngåelse.
+Fristen på 14 dager begynner likevel ikke å løpe før forbrukeren mottar alle opplysningene som nevnt i § 5 første ledd, jf. annet ledd, og standard angreskjema etter § 8 fjerde ledd.
+Dersom opplysningene som nevnt i § 5 første ledd, jf. annet ledd, ikke er gitt til forbrukeren, løper angrefristen ut tre måneder og 14 dager etter tidspunktet som følger av første ledd. Dersom standard angreskjema etter § 8 fjerde ledd ikke er gitt til forbrukeren eller ikke er utfylt, løper fristen ut etter ett år og 14 dager etter tidspunktet som følger av første ledd.
+Dersom forbrukeren tilbys en avtale om bytte sammen med og samtidig som en avtale om deltidsbruksrett, skal angrefristen for begge avtalene beregnes som for avtalen om deltidsbruksrett.
