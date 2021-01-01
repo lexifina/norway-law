@@ -1,0 +1,2 @@
+# § 123. Rett til å kreve at forpliktelsene dekkes før utdeling av arv
+En arving som har påtatt seg ansvaret for arvelaterens forpliktelser, kan kreve at arvelaterens og boets forfalte forpliktelser blir dekket før noe av arven deles ut. For krav som ikke har forfalt, kan det kreves at det avsettes et beløp som dekker forpliktelsen, med mindre kravet er betryggende sikret ved pant i boets eiendeler.

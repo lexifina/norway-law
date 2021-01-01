@@ -1,0 +1,2 @@
+# § 77. Avgjørelser ved skiftet når formuen skal fordeles etter § 76
+Når det er slått fast at den avdøde ikke har arvinger, jf. § 76, treffer departementet de avgjørelsene under skiftet som ellers treffes av arvingene, slik som avgjørelser om salg av eiendeler. Departementet skal påse at utgiftene til bobehandling, gravferd og gravlegat mv. blir dekket. Departementet kan i forskrift gi nærmere regler om oppgavene etter første og annet punktum.

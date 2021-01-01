@@ -1,0 +1,5 @@
+# § 171. Hvem som har partsevne under offentlig skifte
+Et dødsbo under offentlig skifte har partsevne, jf. tvisteloven § 2-1 første ledd bokstav e. I tvist om krav mot boet er boet part uten hensyn til reglene i annet til fjerde ledd.
+I tvist om krav fra en arving eller om krav på å være arving er de arvingene som bestrider kravet, motparter. Dette gjelder selv om kravet ikke er knyttet til stillingen som arving.
+I tvist om et krav fra eller mot en tredjeperson som behandles av den tingretten som har ansvaret for skiftebehandlingen, er de arvingene som bestrider eller gjør gjeldende kravet, parter. I den utstrekning saksanlegget kommer boet til gode, får disse arvingene dekket sine saksomkostninger som massekrav så langt de ikke er tilkjent saksomkostninger i saken.
+I tvist om et krav fra eller mot en tredjeperson som behandles av en annen tingrett, er boet part når alle arvingene og den tingretten som har ansvaret for skiftebehandlingen, er enige om å bestride eller gjøre gjeldende kravet. Ellers er bare de arvingene som bestrider eller gjør gjeldende kravet, parter. Tredje ledd annet punktum gjelder tilsvarende.

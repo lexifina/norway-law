@@ -1,0 +1,6 @@
+# § 53. Testators bestemmelse om livsarvingens råderett over pliktdelsarven
+Når det må anses å være til det beste for livsarvingen, kan arvelateren ved testament fastsette begrensninger for livsarvingens råderett over pliktdelsarven frem til livsarvingen fyller 25 år. Avkastningen av arven tilfaller uansett livsarvingen.
+Hvis ikke noe annet følger av testamentet, skal arven forvaltes etter reglene i vergemålsloven kapittel 7. Livsarvingen får full råderett over arven fra fylte 25 år, hvis ikke arvelateren har fastsatt et tidligere tidspunkt.
+Arvingens råderett og kreditorenes dekningsrett skal være begrenset som nevnt i dekningsloven § 3-2, hvis ikke noe annet er fastsatt i testamentet. Er råderetten ikke begrenset som nevnt i dekningsloven § 3-2, er kreditorenes dekningsrett begrenset bare etter dekningsloven § 3-1. Dersom midlene blir forvaltet som vergemålsmidler, kan det fastsettes at det ikke skal oppnevnes tillitsmann.
+En bestemmelse i testament om begrenset råderett kan oppheves eller omdannes etter reglene i stiftelsesloven. Er det oppnevnt tillitsmann eller verge, er det tillitsmannen eller vergen som representerer arvingen i en slik sak.
+Er bare en del av arven pliktdelsarv, gjelder reglene i annet til fjerde ledd likevel for hele arven, hvis ikke noe annet følger av testamentet.
