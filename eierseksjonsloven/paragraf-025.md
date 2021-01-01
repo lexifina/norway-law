@@ -1,5 +1,5 @@
 # § 25. Seksjonseierens rett til å bruke bruksenheten og fellesarealer
-Seksjonseieren har enerett til å bruke sin bruksenhet. Seksjonseieren har også rett til å bruke fellesarealene til det de er beregnet til eller vanligvis brukes til, og til annet som er i samsvar med tiden og forholdene. En seksjonseier kan med samtykke fra styret anlegge ladepunkt for elbil og ladbare hybrider i tilknytning til en parkeringsplass seksjonen disponerer, eller andre steder som styret anviser. Styret kan bare nekte å samtykke dersom det foreligger en saklig grunn.
+Seksjonseieren har enerett til å bruke sin bruksenhet. Seksjonseieren har også rett til å bruke fellesarealene til det de er beregnet til eller vanligvis brukes til, og til annet som er i samsvar med tiden og forholdene.
 Bruksenheten og fellesarealene må ikke brukes slik at andre seksjonseiere påføres skade eller ulempe på en urimelig eller unødvendig måte.
 Bruksenheten kan bare brukes i samsvar med formålet, jf. § 7 første ledd bokstav g. En endring av bruksformålet krever reseksjonering etter § 21 annet ledd.
 Dersom eieren samtykker, kan det i vedtektene fastsettes bestemmelser om bruken av en næringsseksjon.

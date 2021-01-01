@@ -1,0 +1,3 @@
+# § 25 a. Rett til å sette opp ladepunkt for elbil og ladbar hybridbil
+En seksjonseier som disponerer egen parkeringsplass på eierseksjonssameiets eiendom, har med styrets samtykke rett til å sette opp ladepunkt for elbil og ladbar hybridbil i tilknytning til parkeringsplassen. Samtykke kan bare nektes om det foreligger saklig grunn til det.
+En seksjonseier som har rett til å parkere på eierseksjonssameiets eiendom, men uten å disponere egen plass, kan kreve at det blir satt opp ladepunkt for elbil og ladbar hybridbil. Styret skal etterkomme kravet med mindre det foreligger saklig grunn til å nekte. Styret bestemmer hvor ladepunktet skal settes opp.

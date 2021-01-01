@@ -1,1 +1,1 @@
-# Kapittel IV. Reseksjonering
+# Kapittel IV Reseksjonering og sammenslåing av eierseksjonssameier

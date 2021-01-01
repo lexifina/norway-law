@@ -5,4 +5,5 @@ a) ombygging, påbygging eller andre endringer av bebyggelsen eller tomten som g
 b) omgjøring av fellesarealer til nye bruksenheter eller utvidelse av eksisterende bruksenheter
 c) salg, kjøp, utleie eller leie av fast eiendom, inkludert seksjoner i sameiet som tilhører eller skal tilhøre seksjonseierne i fellesskap, eller andre rettslige disposisjoner over fast eiendom som går ut over vanlig forvaltning
 d) samtykke til at formålet for én eller flere bruksenheter endres fra boligformål til annet formål eller omvendt
-e) samtykke til reseksjonering som nevnt i § 20 annet ledd annet punktum.
+e) samtykke til reseksjonering som nevnt i § 20 annet ledd annet punktum
+f) samtykke til sammenslåing av eierseksjonssameier som nevnt i § 22.
