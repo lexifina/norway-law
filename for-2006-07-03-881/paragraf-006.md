@@ -1,0 +1,4 @@
+# § 6. Sats for avsetjing til skogfond o.a.
+Avsetjinga til skogfond skal vere i heile prosenteiningar innanfor intervallet 4-40 prosent av bruttoverdien til skogsvirket. Ved bruk av måleforeininga sine virkessystem skal prosentsatsen påførast salskontrakta/målemeldinga, og gjelde fram til skogeigaren endrar den. Om gjeldande sats er ukjend skal det trekkjast 10 prosent. Alternativt skal avsetjinga til skogfond registrerast saman med oppgåvepliktige opplysningar (jf. § 9).
+Etter at avsetjing til skogfond er registrert og berekna kan skogeigaren innanfor same kalenderår setje av ytterlegare midlar til skogfond, innafor intervallet i første ledd, ved å registrere dette som oppgåvepliktige opplysningar (jf. § 9).
+Når skogeigaren sjølv er ansvarleg for å innbetale til skogfond, jf. § 7, 2. ledd, nr. 3 og 4, og det beløpet som skal avsetjast innanfor eit kalenderår blir mindre enn kr 500,-, kan skogeigaren sjølv velje om beløpet skal innbetalast.

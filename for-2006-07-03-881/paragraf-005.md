@@ -1,0 +1,2 @@
+# § 5. Plikt til å setje av til skogfond
+Skogeigaren har plikt til å setje av midlar til eigedommen sitt skogfond ved sal, oreigning eller anna overdraging av hogd eller framdrive skogsvirke eller av tre på rot, ved skogeigaren sin foredling av skogsvirke for vidaresal og anna overdraging, og ved skogeigaren sin bruk av skogsvirke til andre formål enn til dekning av eige behov i jord- og skogbruksmessig verksemd, jf. § 14 i skogbrukslova. Ved sal av juletre og pyntegrønt kan skogeigaren sjølv bestemme om det skal setjast av midlar til skogfondet.
