@@ -1,0 +1,2 @@
+# § 3. Formål med tilskudd til produksjon
+Tilskudd til produksjon skal bidra til et bredt og variert tilbud av audiovisuelle verk med høy kulturell verdi og kunstnerisk kvalitet. Tilskuddene skal også bidra til at det produseres audiovisuelle verk med potensial til å nå et stort publikum i Norge og i utlandet, bidra til økt profesjonalisering av bransjen og bidra til en likestilt audiovisuell bransje med sunn økonomi.

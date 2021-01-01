@@ -1,0 +1,2 @@
+# § 5. Formål med tilskudd til formidling av audiovisuelle verk
+Tilskudd til formidling av audiovisuelle verk skal bidra til at publikum i Norge får tilgang til et bredt og variert tilbud av norske og utenlandske filmer og norske dataspill med høy kulturell verdi og kunstnerisk kvalitet. Tilskudd skal også bidra til formidling av filmhistorie og kunnskap om norsk og utenlandsk film og dataspill, gi økt film-, dataspill- og mediekompetanse og bidra til et profesjonelt miljø for formidling av audiovisuelle verk i Norge.
