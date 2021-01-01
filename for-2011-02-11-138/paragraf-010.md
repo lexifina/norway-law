@@ -1,0 +1,2 @@
+# § 10. Kommunen si uttale når det gjeld spørsmålet om odelsfrigjering (realiteten)
+Kjem kommunen til at det skal tas steg til odelsfrigjering, skal den gi uttale om sitt syn på spørsmålet om odelsfrigjering (realiteten) og sende saka til Statsforvaltaren. Kommunen skal sende kopi av uttala si til partane og dei andre odelsrettshavarane. Kommunen skal be dei senda sine merknader til uttala til Statsforvaltaren.

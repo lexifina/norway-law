@@ -1,0 +1,3 @@
+# § 3. Generelle krav til søknad om odelsfrigjering
+Skriftleg søknad om odelsfrigjering etter odl. § 30 og § 32 skal sendast til kommunen der odelseigedomen ligg. Kopi av odelsfrigjeraren sitt ervervsdokument med løyver og forkynt stemning i odelsløysingssaka skal leggjast ved søknaden. Søknaden skal innehalde opplysningar om kva som er formålet med odelsfrigjeringa.
+Dersom kommunen eigedomen ligg i står som odelsfrigjerar, skal saka etter vanleg saksførebuing, jf. forskrift 8. desember 2003 nr. 1480 om saksbehandling mv. i kommunen i saker etter konsesjonsloven, jordloven, odelsloven og skogbruksloven § 1, sendast til Statsforvaltaren som avgjer om det skal takast steg til odelsfrigjering.
