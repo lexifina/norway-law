@@ -1,0 +1,2 @@
+# § 5
+Meldingen sendes på blankett fastsatt av departementet eller elektronisk gjennom tilrettelagt digital løsning. Samtlige spørsmål skal besvares så langt de passer. Vigsler etter ekteskapsloven § 12, unntatt prest i Den norske kirke, skal, sammen med vigselsmeldingen, legge ved dokumentasjon for sin vigselsmyndighet. Kravet om å legge ved dokumentasjon for vigselsmyndighet gjelder ikke ved bruk av tilrettelagt digital løsning, som på en betryggende måte bekrefter at vigsler har vigselsmyndighet.
