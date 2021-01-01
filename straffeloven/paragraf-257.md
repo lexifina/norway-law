@@ -1,7 +1,7 @@
 # § 257. Menneskehandel
 Den som ved vold, trusler, misbruk av sårbar situasjon eller annen utilbørlig atferd tvinger, utnytter eller forleder en person til
 a) prostitusjon eller andre seksuelle ytelser,
-b) arbeid eller tjenester, herunder tigging,
+b) tvangsarbeid eller tvangstjenester, herunder tigging,
 c) krigstjeneste i fremmed land, eller
 d) å samtykke i fjerning av et av vedkommendes indre organer,
 straffes for menneskehandel med fengsel inntil 6 år.

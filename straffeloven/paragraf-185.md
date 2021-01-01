@@ -3,5 +3,6 @@ Med bot eller fengsel inntil 3 år straffes den som forsettlig eller grovt uakts
 Med diskriminerende eller hatefull ytring menes det å true eller forhåne noen, eller fremme hat, forfølgelse eller ringeakt overfor noen på grunn av deres
 a) hudfarge eller nasjonale eller etniske opprinnelse,
 b) religion eller livssyn,
-c) homofile orientering, eller
-d) nedsatte funksjonsevne.
+c) seksuelle orientering,
+d) kjønnsidentitet eller kjønnsuttrykk, eller
+e) nedsatte funksjonsevne.
