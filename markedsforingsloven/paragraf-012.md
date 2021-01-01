@@ -1,5 +1,6 @@
-# § 12. Rett til å reservere seg mot markedsføring ved telefon eller adressert post
-Forbrukere kan reservere seg mot markedsføring ved telefon eller adressert post ved å registrere navn, adresser og telefonnumre i det sentrale reservasjonsregisteret for direktemarkedsføring (Reservasjonsregisteret). Den som registrerer seg i Reservasjonsregisteret, kan angi at reservasjonen likevel ikke skal gjelde for markedsføring til inntekt for frivillige organisasjoner.
-Næringsdrivende som markedsfører ved telefon eller adressert post, skal oppdatere sitt adresseregister mot Reservasjonsregisteret før første gangs henvendelse og før henvendelse den måned markedsføring utføres.
-Både forbrukere og andre fysiske personer kan reservere seg direkte hos næringsdrivende.
-Kongen kan gi forskrift med nærmere regler for Reservasjonsregisteret.
+# § 12. Forbud mot telefonmarkedsføring i strid med reservasjon
+I næringsvirksomhet er det forbudt å rette telefonmarkedsføring mot forbrukere som har reservert seg mot slik markedsføring i Reservasjonsregisteret.
+I næringsvirksomhet er det forbudt å rette telefonmarkedsføring mot fysiske personer som har reservert seg mot slik markedsføring direkte hos den næringsdrivende.
+Det er likevel tillatt å rette telefonmarkedsføring mot fysiske personer som har reservert seg etter første eller annet ledd, dersom den fysiske personen har rettet en uttrykkelig anmodning til en bestemt næringsdrivende om å motta slik markedsføring fra den næringsdrivende. Anmodningen kan når som helst trekkes tilbake.
+Det er også tillatt å rette telefonmarkedsføring mot forbrukere som har reservert seg mot slik markedsføring i Reservasjonsregisteret, dersom det foreligger et eksisterende kunde- eller giverforhold og der den næringsdrivende har mottatt forbrukerens kontaktopplysninger i forbindelse med salg eller innsamling. Slik markedsføring kan bare gjelde næringsdrivendes egne ytelser tilsvarende dem som kunde- eller giverforholdet bygger på.
+For frivillige organisasjoner skal et eksisterende giverforhold også anses å foreligge dersom giveren etter første bidrag har samtykket til eller bedt om å bli kontaktet ved en senere anledning, eller giveren innenfor en treårsperiode har ytet sporadiske bidrag.
