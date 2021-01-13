@@ -1,0 +1,2 @@
+# § 6-3. Aksept av vilkår for tilskudd
+Når tilskuddsbrevet er mottatt, må søkeren snarest skriftlig bekrefte og akseptere vilkårene for tilskuddet. Vilkårene må aksepteres i sin helhet, det er ikke anledning til å reservere seg mot deler av vilkårene. Aksepten må være mottatt av Arbeids- og velferdsdirektoratet senest innen 6 uker etter at tilskuddsbrev er sendt ut. Etter denne fristen bortfaller tilskuddet.
