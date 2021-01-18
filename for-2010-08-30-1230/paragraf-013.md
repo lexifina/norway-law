@@ -1,0 +1,4 @@
+# § 13. Kontroll, inspeksjon mv.
+Fartøy som fisker i territorialfarvannet skal føre sitt nasjonale flagg og skal være merket på en slik måte at de lett kan identifiseres i henhold til alminnelige internasjonale standarder slik som FAOs retningslinjer for merking av fiskefartøy (FAO Standard Specification for Marking and Identification of Fishing Vessels).
+Ansvarshavende plikter å sørge for at fartøyet er utstyrt med losleider som fyller vilkårene i henhold til ISO/FDIS 799 og som er egnet for å ta om bord inspektør. Fiskeridirektoratet kan gi nærmere forskrifter om leiderens utforming.
+Fiskeridirektoratet kan gi forskrifter om at fartøy skal ha om bord tegning/beskrivelse med mål over oppbevaringsrom/binger/RSW-tanker for fisk og fiskeprodukter, samt stuingsplan over den fisk og de fiskeprodukter som er om bord.
