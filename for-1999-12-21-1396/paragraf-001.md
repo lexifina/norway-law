@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Denne forskrift gjelder i fiskerisonen ved Jan Mayen utenfor 12 nautiske mil fra grunnlinjene for utenlandske fartøy av ethvert slag som skal drive fiske og fangst i ervervsøyemed, herunder omlasting. Forskriften gjelder også for fartøy som bistår fiskeflåten, herunder transportfartøy og lete- og forsøksfartøy. Ved omlasting kommer bestemmelsen til anvendelse uavhengig av hvilket område fisken er fanget i.
