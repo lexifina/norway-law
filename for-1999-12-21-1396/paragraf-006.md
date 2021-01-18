@@ -1,0 +1,4 @@
+# § 6. Vilkår for nektelse og tilbaketrekking av fisketillatelse
+Selv om vilkårene for øvrig er til stede, kan tillatelse nektes når fartøyets eier, fører eller mannskap har overtrådt bestemmelsene om fiske eller fangst eller vilkår i gitt tillatelse i områder under norsk fiskerijurisdiksjon, eller når fartøyet har vært brukt ved overtredelsen. Det samme gjelder når fartøyet eller fartøyets eier enten har deltatt i uregulert fiske i internasjonalt farvann på en fiskebestand som i farvann under norsk fiskerijurisdiksjon er underlagt reguleringer, eller har deltatt i fiske i strid med reguleringer som er fastsatt av regionale eller subregionale fiskeriforvaltningsorganisasjoner eller -arrangementer.
+En gitt tillatelse kan når som helst trekkes tilbake av samme grunner som i foregående ledd.
+Tillatelsen bortfaller når vedkommende lands fiskekvote er oppfisket.
