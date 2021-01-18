@@ -1,0 +1,2 @@
+# § 10. Returmelding
+Meldinger sendt per telefaks til Fiskeridirektoratet i henhold til denne forskrift vil automatisk bli bekreftet med en mottakskvittering. Dersom mottakskvitteringen ikke mottas, eller denne inneholder opplysninger om at meldingen ikke kunne mottas, må fartøyet sende meldingen på nytt til Fiskeridirektoratet. Meldingen anses ikke som mottatt av Fiskeridirektoratet før fartøyet har mottatt bekreftende mottakskvittering.
