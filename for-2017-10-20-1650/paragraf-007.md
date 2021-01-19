@@ -1,0 +1,4 @@
+# § 7. Gjennomføringsfaser
+Narkotikaprogram med domstolskontroll gjennomføres i fire faser, iverksettingsfasen, jf. personundersøkelsen, stabiliseringsfasen, ansvarsfasen og videreføringsfasen. Fasene fastsettes etter en individuell vurdering og under hensyn til en realistisk progresjon.
+Er den domfelte idømt narkotikaprogram med domstolskontroll og følger iverksettingsfasen, kan kriminalomsorgen be retten fastsette vilkår for og innhold i stabiliseringsfasen, basert på et forslag som kriminalomsorgen legger fram. Tilsvarende fastsetter retten vilkår for og innhold i ansvarsfasen og videreføringsfasen. Før kriminalomsorgen ber retten ta stilling til saken, skal domfelte gis adgang til å uttale seg.
+Når kriminalomsorgen har bedt om det og domfeltes forhold gir grunn til det, kan retten avsi kjennelse om at den domfelte skal gå videre til neste fase i programmet.

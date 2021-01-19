@@ -1,0 +1,3 @@
+# § 5. Personundersøkelse
+Det skal alltid foreligge personundersøkelse i saker hvor det kan være aktuelt å idømme vilkår om narkotikaprogram. I en beslutning om personundersøkelse skal det fremgå hvis det ønskes vurdering av om siktede er egnet til å idømmes narkotikaprogram med domstolskontroll. Kriminalomsorgen har ansvaret for å utarbeide personundersøkelsene og gjennomføre vurderingene.
+Anses siktede som egnet for å idømmes narkotikaprogram med domstolskontroll, skal det før saken fremmes for retten, utarbeides et forslag til innhold i og vilkår for gjennomføringen av iverksettingsfasen av programmet, jf. § 8 første ledd.

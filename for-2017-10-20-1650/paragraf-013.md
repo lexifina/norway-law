@@ -1,0 +1,6 @@
+# § 13. Reaksjoner på brudd
+Det anses som brudd på vilkår om fullbyrdingsutsettelse dersom domfelte unnlater å møte, kommer for sent, eller møter påvirket til avtaler med kriminalomsorgen eller samarbeidende instanser, eller ikke følger opp fastsatte tiltak. Det samme gjelder dersom vedkommende nekter å underkaste seg kontrolltiltak for å avdekke brudd på vilkår.
+Rettens behandling av brudd på vilkår for narkotikaprogram med domstolskontroll skal påskyndes. Reaksjonen skal så vidt mulig støtte hensynet til domfeltes rehabilitering.
+Ved brudd på vilkårene som ikke anses å være så alvorlig at retten skal ta stilling til konsekvensen, kan kriminalomsorgen gi domfelte en muntlig eller skriftlig advarsel om mulige følger av gjentatte brudd. Kriminalomsorgen kan beslutte å innskjerpe kontrolltiltakene.
+Ved alvorligere brudd kan regiondirektøren eller den vedkommende gir fullmakt begjære rettens avgjørelse etter straffeloven § 39 andre ledd tredje punktum. Når kriminalomsorgen ber retten ta stilling til saken, skal påtalemyndigheten varsles og domfelte gis anledning til å uttale seg.
+Regiondirektøren eller den vedkommende gir fullmakt treffer avgjørelse om anke, jf. straffeprosessloven § 68 femte ledd.
