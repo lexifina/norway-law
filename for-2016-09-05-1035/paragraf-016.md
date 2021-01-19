@@ -1,0 +1,2 @@
+# § 16. Brannsikring
+Ventilasjonsanlegg skal ikke kunne spre branngasser inn i dyrenes oppholdsrom. Bygninger med dyr skal ha et tilstrekkelig antall enheter for slukking av brann, hensiktsmessig plassert. Slike bygninger skal også ha egnet brannvarslingsanlegg dersom det ikke er åpenbart unødvendig. Alarmen skal testes jevnlig etter leverandørens anvisning, og feil skal rettes straks de oppdages.
