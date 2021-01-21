@@ -1,0 +1,4 @@
+# § 1. Virkeområde
+Denne forskrift gjelder i fiskevernsonen ved Svalbard for norske og utenlandske fartøy av ethvert slag som skal drive fiske og fangst i ervervsøyemed, herunder omlastning. Forskriften gjelder også for fartøy som bistår fiskeflåten, herunder transportfartøy og lete- og forsøksfartøy. Ved omlasting kommer forskriften til anvendelse uavhengig av hvilket område fisken er fanget i.
+Forskriften gjelder ikke for fartøy som er omfattet av forskrift 31. august 2010 nr. 1231 om elektronisk rapportering av fangst- og aktivitetsdata ved utlendingers fiske og fangst i Norges økonomiske sone, territorialfarvann, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard.
+Forskriften gjelder ikke for fartøy som er omfattet av forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy.
