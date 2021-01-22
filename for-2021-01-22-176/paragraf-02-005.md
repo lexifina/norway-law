@@ -1,0 +1,4 @@
+# § 2-5. Prosedyre for opptak
+(1) Søknad om opptak til studier registreres via Samordna opptak.
+(2) All praksis, utdanning og andre forhold som gir grunnlag for opptak må dokumenteres med attesterte kopier. Søkere som søker om opptak på formelt grunnlag skal legge ved kopi av vitnemål fra videregående opplæring. Attester for arbeidserfaring må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester må være datert for å tas i betraktning.
+(3) Søkere kan søke om studieplass før de har avlagt alle eksamener i fag som kreves for opptak. I slike tilfeller vil søkeren eventuelt få betinget opptak i påvente av eksamensresultatene. Søkeren må laste opp vitnemål/bekreftelse på bestått utdanning i skolens søknadssystem innen frister spesifisert i studietilbudet. Hvis ikke bortfaller tilbudet om studieplass.

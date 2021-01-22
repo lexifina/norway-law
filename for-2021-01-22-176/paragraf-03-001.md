@@ -1,0 +1,4 @@
+# § 3-1. Godskriving og fritak av emner
+(1) Studenter kan søke om å få godskrevet tidligere bestått høyere yrkesfaglig utdanning som en del av utdanningen. Utdanningen må dekke læringsutbyttebeskrivelsene for emnet eller emnene det søkes om godskriving for, etter en faglig vurdering. Det er kun emner fra andre godkjente utdanninger på samme eller nært beslektede fagområder og med samme antall studiepoeng, som kan godskrives i utdanningen. Det skal ikke gi dobbel uttelling for faginnhold.
+(2) Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på grunnlag av dokumentert oppnådd likeverdig kompetanse. Fritak kan også gis på grunnlag av realkompetanse. Det gis ikke fritak for utdanning på videregående opplæringsnivå.
+(3) Studieadministrasjonen fatter vedtak om godskriving og fritak.
