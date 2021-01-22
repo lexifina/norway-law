@@ -1,0 +1,5 @@
+# § 4-10. Fusk, forsøk på fusk, bortvisning og utestengelse
+(1) Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn regnes som fusk. Det samme gjelder for handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte. Nærmere om hva som ansees som fusk, framgår i retningslinjer.
+(2) Dersom studenten har fusket, eller forsøkt å fuske, kan eksamen annulleres og/eller studenten kan utestenges i inntil ett år. Klagenemnda ved Norsk Fotofagskole fatter vedtak om annullering eller utestengelse. Studenten har rett til å forklare seg før vedtaket fattes.
+(3) Klagenemnd kan annullere fritak eller innpassing av utdanning og kompetanse som en student har fått ved å benytte falske vitnemål, andre falske dokumenter eller annen form for uredelig opptreden.
+(4) Vedtak om sanksjoner som følge av fusk er enkeltvedtak og kan påklages til det nasjonale klageorganet for fagskoleutdanning.

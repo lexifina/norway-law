@@ -1,0 +1,5 @@
+# § 1-4. Obligatorisk aktivitet
+(1) Fotofagskolens studieplaner har obligatorisk aktivitet (herunder obligatorisk undervisning og arbeidskrav). Se den enkelte studieplan for mer informasjon om obligatorisk aktivitet. Dersom krav til deltagelse på obligatorisk aktivitet ikke overholdes, vil studenten risikere å miste retten til å gå opp til eksamen i emnet. Høyt fravær kan føre til manglende grunnlag for vurdering.
+(2) Siste frist for å få godkjent obligatorisk aktivitet er 14 dager før eksamen/eksamensperioden i emnet med mindre annet er oppgitt. I emner hvor det er praktiske forhold som gjør fristen uoverkommelig, kan fristen tilpasses. Ny frist skal i de tilfeller gjøres kjent i læringsplattformen.
+(3) Lengre fravær som skyldes sykdom, ulykker eller lignende, og som dokumenteres med legeerklæring, kan etter skriftlig søknad til studieadministrasjonen gi fritak for tilstedeværelsesplikten.
+(4) Avslag på søknad om fritak for tilstedeværelsesplikten er enkeltvedtak og kan påklages. Se kapittel 5 for informasjon om klagebehandling.
