@@ -1,0 +1,3 @@
+# § 3. Tvangsdekning i fast eiendom, registrerte borettslagsandeler og adkomstdokumenter til leierett eller borett til husrom
+I saker om tvangssalg av fast eiendom, registrerte borettslagsandeler og adkomstdokumenter til leierett eller borett til husrom, jf. tvangsfullbyrdelsesloven kapittel 11 og 12, kan saksøkeren tilkjennes et beløp lik rettsgebyret for kostnader ved skriving av begjæringen og andre alminnelige sakskostnader som nevnt i § 2 første ledd bokstav b.
+Dersom det blir besluttet at tvangssalg skal gjennomføres, kan saksøkeren dessuten tilkjennes et beløp lik en halv gang rettsgebyret for alminnelige sakskostnader som påløper etter at beslutningen ble truffet.
