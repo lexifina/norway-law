@@ -1,0 +1,4 @@
+# § 4. Dekning av kostnader utover hovedregelen
+Maksimalsatsene i § 2 og § 3 gjelder ikke når det er klart at saksøkeren eller dennes prosessfullmektig har hatt nevneverdig mer arbeid med saken enn det som er vanlig. Erstatningskravet må begrunnes.
+Ved tilbakelevering av løsøre til salgspanthaver etter tvangsfullbyrdelsesloven kapittel 9, utlevering av løsøre eller verdipapirer etter loven kapittel 13 avsnitt II, eller fravikelse av fast eiendom etter avsnitt III kan saksøkeren uavhengig av maksimalsatsen i § 2 tilkjennes erstatning for kostnader til oppmøte ved gjennomføringen. Erstatningskrav over en halv gang rettsgebyret eksklusiv merverdiavgift må begrunnes.
+I saker om utlevering av løsøre og verdipapirer eller fravikelse av fast eiendom etter tvangsfullbyrdelsesloven kapittel 13 gjelder ikke maksimalsatsen i § 2 første ledd bokstav b for sakskostnader som påløper etter at det er besluttet at tvangsfullbyrdelsen skal gjennomføres.
