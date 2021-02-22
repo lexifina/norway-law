@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EU) 2020/2224 i norsk rett
+EØS-avtalen vedlegg XIII nr. 26g (forordning (EU) 2020/2224 om felles regler som sikrer grunnleggende forbindelser ved gods- og persontransport på vei i forbindelse med utløpet av overgangsperioden etter Det forente kongerike Storbritannia og Nord-Irlands utmeldelse fra Unionen og Det europeiske atomenergifellesskap) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
