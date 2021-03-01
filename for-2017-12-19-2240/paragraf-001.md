@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med forskriften er å utfylle lov om utprøving av selvkjørende kjøretøy for å sikre at slik utprøving skjer innenfor rammer som ivaretar trafikksikkerhet, framkommelighet, datasikkerhet og personvern. Utprøvingen skal skje gradvis, særlig ut fra teknologiens modenhet og med formål om å avdekke effekter for trafikksikkerhet, effektivitet i trafikkavviklingen, mobilitet og miljø.
