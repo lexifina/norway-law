@@ -1,0 +1,2 @@
+# § 3-5. Sykdom ved eksamen
+For sen innsending eller unnlatelse av innsending av besvarelse ved hjemmeeksamen pga. sykdom eller andre alvorlige forhold i nær familie, skal dokumenteres med gyldig legeattest, eventuelt annen gyldig dokumentasjon innen 7 dager. Det samme gjelder fravær på stedbasert eksamen eller sykdom som inntreffer under eksamen, Hvis ikke, teller eksamen som et eksamensforsøk og ved eventuell kontinuasjon påløper kontinuasjonsavgift.

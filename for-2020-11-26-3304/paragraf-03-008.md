@@ -1,0 +1,3 @@
+# § 3-8. Sensur
+(1) Administrasjonen, i samarbeid med fagansvarlig, oppnevner sensor(er). Sensor(ene) kan være intern(e), ekstern(e) eller en kombinasjon. De årene skolen ikke gjennomfører ekstern evaluering av vurderingsordningene, skal det i tillegg til interne sensorer, også benyttes eksterne sensorer. Sensorene skal oppfylle kravene til kompetanse som definert kravspesifikasjon for undervisningspersonell og sensorer.
+(2) Sensur skal foreligge innen 3 uker etter eksamen med mindre særlige forhold krever lengre tid. Er det gitt skriftlige retningslinjer for vurderingen, skal disse være tilgjengelige for studentene samtidig med kunngjøring av sensur.
