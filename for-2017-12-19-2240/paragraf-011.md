@@ -1,0 +1,4 @@
+# § 11. Krav til operatører
+Det skal i søknaden i nødvendig utstrekning pekes ut operatør som skal overvåke kjøringen av den selvkjørende motorvognen og beskrive rollen til operatøren, herunder forholdet til ansvarlig fører jf. loven § 17 og den som er utpekt som ansvarlig for sikkerheten, jf. forskriften § 5 a). Operatøren kan sitte på vanlig førerplass, på en annen plass i motorvognen eller oppholde seg utenfor motorvognen.
+Søker skal dokumentere at de navngitte operatørene som skal delta på utprøvingen har gyldig førerkort for den aktuelle motorvognkategorien, har gjennomgått tilstrekkelig opplæring og har den nødvendige kunnskapen om hvordan det automatiske systemet fungerer.
+Søker skal sørge for å gi operatørene tilstrekkelig opplæring og informasjon om deres rolle og ansvar under utprøvingen. Dette gjelder særlig for utprøving med fører på tradisjonell førerplass hvor det tekniske systemet skal føre motorvognen under deler av kjøringen.
