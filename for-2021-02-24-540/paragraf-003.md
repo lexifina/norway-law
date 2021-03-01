@@ -1,0 +1,3 @@
+# § 3. Pålegg og daglig mulkt
+Pålegg vedtatt før 1. mars 2021 som ikke er etterkommet ved ikrafttredelsen av endringsloven, fortsetter å gjelde. Fremsettes begjæring om omgjøring, suspenderes pålegget, inntil omgjøringsbegjæringen er avgjort med grunnlag i verdipapirhandelloven som endret ved lov 21. juni 2019 nr. 41 og tilhørende forskrifter.
+Daglig mulkt som løper 1. mars 2021, fortsetter å løpe. Fremsettes begjæring om omgjøring, slutter mulkten å løpe, inntil omgjøringsbegjæringen er avgjort med grunnlag i verdipapirhandelloven som endret ved lov 21. juni 2019 nr. 41 og tilhørende forskrifter.

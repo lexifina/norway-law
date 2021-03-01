@@ -1,0 +1,2 @@
+# § 1. Saker om overtredelsesgebyr
+For handlinger foretatt før 1. mars 2021 som var regulert av verdipapirhandelloven § 21-4 og de materielle reglene det henvises til der, samt tilhørende forskrifter, gis disse bestemmelsene anvendelse slik disse lød på handlingstidspunktet når det treffes vedtak om overtredelsesgebyr etter 28. februar 2021. Regelverket på tidspunktet for avgjørelsen skal likevel anvendes når dette fører til et gunstigere resultat for den ansvarlige. Det samme gjelder saker om overtredelsesgebyr etter verdipapirhandelloven § 12-9.
