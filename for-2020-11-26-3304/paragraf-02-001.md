@@ -1,0 +1,2 @@
+# § 2-1. Opptak
+Skolen har løpende opptak som betyr at administrasjonen fatter vedtak om opptak i den rekkefølgen kvalifiserte søkere sender inn sine komplette og fullstendige søknader. Dokumentasjon av utdanning, yrkeserfaring og annet skal være attestert. For realkompetansevurdering skal bekreftelser på yrkeserfaring skal som minimum inneholde informasjon om arbeidsoppgaver, arbeidsforholdets lengde og stillingsprosent.

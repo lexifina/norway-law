@@ -1,0 +1,3 @@
+# § 3-12. Administrasjonens tiltak ved formelle feil ved eksamen
+(1) Administrasjonen kan fatte vedtak om oppheving av sensur og gjennomføring av ny sensur når det antas at formell feil har hatt betydning for prestasjonen(e) eller vurderingen. Dette kan gjøres på bakgrunn av klage fra student(er) eller på eget initiativ. Iverksettes tiltak på eget initiativ, skal alle berørte studenter informeres om hvorfor og hvilke tiltak som er iverksatt, og det skal gis mulighet til å klage på tiltaket innen tre uker etter kunngjort orientering.
+(2) Hvis administrasjonens tiltak ikke vurderes som tilfredsstillende for klager, kan saken påklages til lokal klagenemnd. Se kapittel 4 Klagebehandling.
