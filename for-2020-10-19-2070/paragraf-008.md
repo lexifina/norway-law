@@ -1,0 +1,3 @@
+# § 8. Søknadsbehandlingen
+Norsk kulturråd fastsetter et tilskuddsvedtak etter en helhetsvurdering. I vurderingen skal det legges vekt på formålet med tilskuddsordningen, med særlig vekt på god geografisk spredning, mangfold av kulturuttrykk, og at kulturtilbudet oppleves som tilgjengelig og relevant for publikum. Det skal også legges vekt på om søkeren har brutt vilkårene for en tidligere tildeling etter forskriften.
+Tilskuddet skal avkortes dersom nettokostnaden framstår som uforholdsmessig, for eksempel på bakgrunn av arrangementets størrelse, markedspriser og det alminnelige kostnadsnivået på feltet.
