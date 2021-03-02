@@ -1,0 +1,3 @@
+# § 11. Kontroll
+Norsk kulturråd fører kontroll med at vilkårene for å motta kompensasjon etter ordningen er oppfylt. Det skal gjennomføres etterhåndskontroll av søkere som får kompensasjon etter denne forskriften på 9 millioner kroner eller mer. Det skal også gjennomføres etterhåndskontroll av øvrige søkere som mottar kompensasjon etter denne forskriften basert på en risiko- og vesentlighetsvurdering.
+Søker plikter på forespørsel å fremlegge alle opplysninger som er nødvendige for at Norsk kulturråd kan føre kontroll etter denne forskriften. Søker skal oppbevare all dokumentasjon om at vilkårene for å motta kompensasjon er oppfylt i ti år beregnet fra året etter søknadsåret.
