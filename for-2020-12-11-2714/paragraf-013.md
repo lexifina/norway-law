@@ -1,0 +1,2 @@
+# § 13. Agder jordskifterett med rettsstader i Flekkefjord, Kristiansand og Arendal:
+Følgjande kommunar skal sokne til Agder jordskifterett: Lund, Sokndal, Sirdal, Kvinesdal, Flekkefjord, Lyngdal, Farsund, Åseral, Hægebostad, Lindesnes, Kristiansand, Vennesla, Bykle, Valle, Bygland, Åmli, Evje og Hornnes, Iveland, Birkenes, Lillesand, Grimstad, Arendal, Froland, Vegårdshei, Gjerstad, Tvedestrand og Risør.

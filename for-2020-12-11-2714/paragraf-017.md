@@ -1,0 +1,2 @@
+# § 17. Oslo og Østre Viken jordskifterett med rettsstader i Kongsvinger, Lillestrøm og Sarpsborg:
+Følgjande kommunar skal sokne til Oslo og Østre Viken jordskifterett: Eidskog, Sør-Odal, Nord-Odal, Kongsvinger, Grue, Hurdal, Åsnes, Våler (Innlandet), Eidsvoll, Nannestad, Ullensaker, Nes, Gjerdrum, Nittedal, Lillestrøm, Oslo, Bærum, Lørenskog, Rælingen, Aurskog-Høland, Enebakk, Nordre Follo, Nesodden, Frogn, Ås, Vestby, Marker, Indre Østfold, Skiptvedt, Våler (Viken), Moss, Råde, Fredrikstad, Hvaler, Sarpsborg, Rakkestad, Aremark og Halden.
