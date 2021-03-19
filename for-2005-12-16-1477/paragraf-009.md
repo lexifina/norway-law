@@ -1,0 +1,2 @@
+# § 9. Klagefrist
+Klagefristen er 3 uker fra det tidspunkt underretning om avgjørelsen er kommet fram til vedkommende søker. For den som ikke har mottatt underretning, løper fristen fra det tidspunktet vedkommende har fått eller burde ha skaffet seg kunnskap om avgjørelsen. Krav om begrunnelse etter § 4 avbryter fristen. Ny frist løper fra det tidspunkt søkeren har mottatt begrunnelsen. Selv om klageren har oversittet klagefristen, kan klagen tas under behandling dersom det er rimelig at den blir behandlet.
