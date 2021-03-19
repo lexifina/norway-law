@@ -1,0 +1,3 @@
+# § 3a. Søkere med rett til prioritet ved opptak
+Søkere med rett til prioritet etter barnehageloven § 18 som ikke tilbys ønsket plass ved eventuelle senere opptak i løpet av barnehageåret, skal underrettes skriftlig dersom en ledig plass i barnehagen er tilbudt en annen. Søkeren skal i slike tilfeller orienteres om retten til etterfølgende begrunnelse og retten til å klage, jf. andre ledd.
+Søkere som omfattes av første ledd, kan kreve en skriftlig begrunnelse for hvorfor barnet ikke har fått ønsket barnehageplass, og kan klage på avgjørelsen dersom barnet ikke tilbys plass i den aktuelle barnehagen. Fristen for å klage fremkommer av § 9. Krav om begrunnelse avbryter fristen. Ny frist løper fra det tidspunktet søkeren har mottatt begrunnelse.
