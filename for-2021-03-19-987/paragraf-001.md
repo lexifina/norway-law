@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av Kommisjonsdelegert forordning (EU) 2017/1926 i norsk rett
+EØS-avtalen vedlegg XIII transport, kapittel II veitransport nr. 17kh (forordning (EU) 2017/1926) av 31. mai 2017 om utfylling av europaparlaments- og rådsdirektiv 2010/40/EU med hensyn til tilgjengeliggjøring av multimodale reiseinformasjonstjenester på EU-plan, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen forøvrig.
