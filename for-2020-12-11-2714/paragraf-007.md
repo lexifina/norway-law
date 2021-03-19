@@ -1,0 +1,2 @@
+# § 7. Trøndelag jordskifterett med rettsstader i Steinkjer og Trondheim:
+Følgjande kommunar skal sokne til Trøndelag jordskifterett: Namsos/Nåavmesjenjaelmie, Lierne, Raarvihke/Røyrvik, Namsskogan, Grong, Høylandet, Overhalla, Flatanger, Nærøysund, Leka, Osen, Steinkjer, Inderøy, Snåase/Snåsa, Frosta, Levanger, Verdal, Ørland, Hitra, Frøya, Åfjord, Heim, Indre Fosen, Meråker, Stjørdal, Trondheim, Skaun, Melhus, Malvik, Selbu, Tydal, Oppdal, Rennebu, Orkland, Røros, Holtålen og Midtre Gauldal.

@@ -1,0 +1,2 @@
+# § 18. Vestre Innlandet jordskifterett med rettsstader på Lillehammer, Fagernes og Vågå:
+Følgjande kommunar skal sokne til Vestre Innlandet jordskifterett: Jevnaker, Lunner, Gran, Østre Toten, Vestre Toten, Søndre Land, Nordre Land, Gjøvik, Lillehammer, Gausdal, Øyer, Ringebu, Sør-Fron, Etnedal, Sør-Aurdal, Nord-Aurdal, Vestre Slidre, Øystre Slidre, Vang, Nord-Fron, Sel, Dovre, Lesja, Vågå, Lom og Skjåk.
