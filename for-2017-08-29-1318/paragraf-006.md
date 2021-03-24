@@ -1,0 +1,9 @@
+# § 6. Krav til prøvetaking og innsendelse av prøver ved mistanke om PD
+Ved mistanke om PD i et akvakulturanlegg der sykdommen ikke er påvist, skal det umiddelbart tas ut organprøver som legges på formalin fra minst 10 fisk, samt spongiøst vev fra hjertets ventrikkel og midtnyre som legges på RNAlater. I overvåkingssonene skal det også tas ut vev på virustransportmedium fra de samme 10 fiskene. Prøvene skal umiddelbart sendes til Nasjonalt referanselaboratorium. Opplysninger om fisken er vaksinert mot PD, og med hvilken vaksine, skal følge prøvene.
+Dersom det oppstår mistanke om PD som ikke blir bekreftet gjennom analyser av prøver etter første ledd, skal det søkes å bekrefte eller avkrefte mistanken gjennom følgende prøvetakingsopplegg:
+a) Det skal tas ut prøver av spongiøst vev fra hjertets ventrikkel fra minst 60 fisk i løpet av hver kalendermåned i fire måneder etter siste positive prøve.
+b) Prøvene skal sendes til akkreditert laboratorium for individuell analyse med PCR for SAV innen to virkedager etter at tilstrekkelig antall prøver er tatt ut i henhold til bokstav a.
+c) Ved nye positive prøver, skal det umiddelbart sendes inn organprøver på formalin, samt spongiøst vev fra hjertets ventrikkel og midtnyre på RNAlater fra minst 10 fisk til Nasjonalt referanselaboratorium. I overvåkingssonene skal det i tillegg tas ut vev på virustransportmedium fra de samme 10 fiskene.
+Såfremt det gjennom undersøkelsene etter annet ledd ikke avdekkes noen nye positive prøver, anses mistanken som avkreftet.
+Prøveuttak som pålagt i første og andre ledd skal tas fra fisk som gir størst sannsynlighet for å avdekke eventuell forekomst av PD. Prøvene skal tas fra fisk som er mottakelig for PD.
+Prøvene etter første ledd og andre ledd bokstav c, skal tas ut av veterinær eller fiskehelsebiolog. For prøver tatt ut etter andre ledd bokstav a kan medhjelper benyttes i tråd med bestemmelsene i dyrehelsepersonelloven § 15.
