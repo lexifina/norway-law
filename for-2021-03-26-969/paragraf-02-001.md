@@ -1,0 +1,3 @@
+# § 2-1. Overføring av opplysninger fra behandlingsrettede helseregistre
+Opplysninger som nevnt i § 1-3 kan gjøres tilgjengelig for Legemiddelregisteret uten hinder av taushetsplikt. Tilgjengeliggjøringen kan skje fra behandlingsrettede helseregistre, som for eksempel nasjonal kjernejournal, pasientens legemiddelliste, Reseptformidleren, medikasjon- og kurveløsninger eller apotekenes behandlingsrettede helseregistre.
+Folkehelseinstituttet fastsetter hvilke systemer opplysningene skal tilgjengeliggjøres fra, hvilke opplysninger som skal tilgjengeliggjøres, og hvordan opplysningene skal overføres.
