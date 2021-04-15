@@ -1,0 +1,2 @@
+# § 2-4. Ansvar for sikring av at opplysningene er korrekte
+Folkehelseinstituttet skal sørge for at de opplysningene som blir samlet inn og behandlet i Legemiddelregisteret, er relevante og nødvendige for bruk til formål som nevnt i § 1-1, og at de er korrekte og fullstendige. Dersom de innsendte opplysningene er ufullstendige eller på annen måte mangelfulle, skal apoteket varsles, feilen rettes og opplysningene eventuelt sendes på nytt fra apoteket.
