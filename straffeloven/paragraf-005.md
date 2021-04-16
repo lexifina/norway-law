@@ -13,8 +13,9 @@ c) på vegne av et foretak registrert i Norge,
 8) anses som omsorgsunndragelse,
 9) rammes av §§ 257, 291-296, 299-306 eller §§ 309-316,
 10) anses som terror- eller terrorrelatert handling etter straffeloven kapittel 18, eller rammes av §§ 145 eller 146,
-11) anses som oppfordring til en straffbar handling etter straffeloven § 183 eller innebærer fremsettelse av en hatefull ytring etter straffeloven § 185, eller
-12) anses som korrupsjon eller påvirkningshandel etter §§ 387 til 389.
+11) anses som oppfordring til en straffbar handling etter straffeloven § 183 eller innebærer fremsettelse av en hatefull ytring etter straffeloven § 185,
+12) anses som korrupsjon eller påvirkningshandel etter §§ 387 til 389, eller
+13) rammes av sanksjonsloven § 4.
 Første ledd gjelder tilsvarende for handlinger foretatt
 a) av en person som etter handlingstidspunktet er blitt norsk statsborger eller har fått bosted i Norge,
 b) av en person som er eller etter handlingen er blitt statsborger i eller bosatt i et annet nordisk land, og som oppholder seg i Norge, eller
