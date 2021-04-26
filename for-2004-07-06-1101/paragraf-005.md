@@ -1,0 +1,2 @@
+# § 5. Garantierklæring
+I tilslutning til forsikring for tredjemann må det for norskregistrerte luftfartøyer være deponert i Luftfartstilsynet en garantierklæring fra forsikringsselskap på 500.000 NOK. Slik garantierklæring står ved lag inntil 2 måneder etter at skriftlig oppsigelse er mottatt i Luftfartstilsynet. Luftfartstilsynet kan etter søknad frita fra plikten til å innlevere slik erklæring.

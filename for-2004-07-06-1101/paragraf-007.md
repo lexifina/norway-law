@@ -1,0 +1,2 @@
+# § 7. Gjennomføring av forordning (EF) nr. 785/2004 i norsk rett
+EØS-avtalen vedlegg XIII nr. 66l (europaparlaments- og rådsforordning (EF) nr. 785/2004, som endret ved kommisjonsforordning (EU) nr. 285/2010 og (EU) 2020/1118 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører) gjelder som forskrift, med den EØS-tilpasning som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Forordningen nevnt i første punktum gjelder også for befordring uten vederlag.
