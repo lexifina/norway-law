@@ -1,0 +1,10 @@
+# § 11. Stansing og tilbakebetaling
+Norsk kulturråd kan stanse utbetalingen av tilskudd eller kreve tilbakebetaling av utbetalt tilskudd dersom
+a) arrangøren gir ufullstendige eller feilaktige opplysninger og dokumentasjon
+b) tilskuddet ikke blir benyttet i samsvar med forskriften eller tilskuddsvedtaket
+c) arrangøren på annen vesentlig måte har brutt kravene i forskriften eller tilskuddsvedtaket.
+d) arrangøren ikke har iverksatt tiltak for å øke egeninntjeningen ved for eksempel å oppskalere arrangementet når det har vært mulig og smittevernsituasjonen har tillatt det.
+Dersom arrangementet helt eller delvis ikke er gjennomført, skal Norsk kulturråd kreve en forholdsmessig andel av tilskuddet tilbakebetalt. Tilskudd kreves likevel ikke tilbakebetalt når arrangementet ikke kan gjennomføres nedskalert og avlyses som følge av klare og dokumenterbare råd eller pålegg fra offentlige myndigheter som følge av covid-19. I slike tilfeller kan tilskuddet beholdes så langt det brukes til å dekke 95 prosent av arrangørens uunngåelige økonomiske forpliktelser i forbindelse med det avlyste arrangementet.
+I vurderingen av om lønn og honorar til artister eller utøvere utgjør uunngåelige økonomiske forpliktelser for arrangør etter andre ledd, kan Norsk kulturråd legge vekt på hva som er vanlig lønn og honorar for artisten eller utøveren, og hva som er vanlig lønn og honorar for sammenlignbare artister eller utøvere ved sammenlignbare arrangementer. Lønn og honorar utover 45 000 kroner per enkeltarrangement per enkelt artist eller utøver regnes ikke som «uunngåelige økonomiske forpliktelser». Med lønn og honorar menes det artisten eller utøveren sitter igjen med etter å ha dekket sine økonomiske forpliktelser i forbindelse med arrangementet.
+Dersom tilskuddet etter gjennomført kulturarrangement overstiger tilskuddstakene i § 9, skal det overskytende tilbakebetales snarest mulig, og senest tre måneder etter at arrangementet er gjennomført.
+Det påløper renter etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling dersom tilbakebetaling etter denne bestemmelsen ikke skjer ved forfall.
