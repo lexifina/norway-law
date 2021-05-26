@@ -1,0 +1,6 @@
+# § 6. Hvordan kompensasjonen skal beregnes
+(1) Kompensasjon beregnes ved at arrangørens uunngåelige økonomiske forpliktelser knyttet til kulturarrangementet det søkes om kompensasjon for i kompensasjonsperioden multipliseres med 0,95. Summen utgjør beregnet kompensasjon.
+(2) Beregnet kompensasjon under 5 000 kroner per kompensasjonsperiode tildeles ikke.
+(3) Arrangørens inntekter fra arrangementene det søkes om kompensasjon for skal trekkes fra beregnet kompensasjon.
+(4) Uunngåelige økonomiske forpliktelser som har blitt kompensert fra andre offentlige covid-19-ordninger skal trekkes fra beregnet kompensasjon. Dette gjelder likevel ikke tilskudd mottatt i henhold til forskrifter til utfylling og gjennomføring av lov 18. desember 2020 nr. 156 om midlertidig tilskuddsordning for foretak med stort omsetningsfall (kompensasjonsordningen for næringslivet). Etter kompensasjonsordningen for næringslivet § 2-2 andre ledd anses offentlig tilskudd gitt som følge av koronapandemien som omsetning, slik at støtte mottatt fra denne ordningen kan medføre redusert støtte fra kompensasjonsordningen for næringslivet. Uspesifisert støtte fra kommunene som er gitt i tråd med regelverket om bagatellmessig støtte, skal heller ikke trekkes fra beregnet kompensasjon.
+(5) Det utbetales ikke kompensasjon dersom det innen utbetalingen blir åpnet konkurs hos arrangøren.
