@@ -1,0 +1,4 @@
+# § 3. Taushetsplikt
+Enhver som utfører tjeneste eller arbeid for Statens helsetilsyn etter denne loven, har taushetsplikt etter barnevernloven § 6-7. Taushetsplikten bortfaller etter 100 år.
+Ved formidling av opplysninger som er undergitt strengere regler om taushetsplikt enn det som følger av barnevernloven, skal de strengere reglene gjelde. Tilsvarende gjelder ved formidling av opplysninger som er undergitt taushetsplikt som først bortfaller på et senere tidspunkt enn det som følger av første ledd.
+Taushetsplikten er ikke til hinder for at Statens helsetilsyn gir opplysninger til andre når dette er nødvendig for å innhente opplysninger i forbindelse med gjennomgangen. Statens helsetilsyn kan også gi opplysninger til statsforvalteren dersom det fremkommer opplysninger som tilsier at statsforvalteren bør følge opp med tilsyn.
