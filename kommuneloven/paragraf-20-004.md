@@ -12,4 +12,4 @@ g) hvordan deltakerne kan tre ut av samarbeidet
 h) hvordan samarbeidet skal oppløses
 i) annet som etter lov skal fastsettes i avtale.
 Avtaler om vertskommunesamarbeid med felles nemnd skal også inneholde bestemmelser om hvor mange medlemmer den enkelte deltakeren skal ha i nemnda.
-I et vertskommunesamarbeid mellom kommuner skal vertskommunen orientere fylkesmannen om at samarbeidet er opprettet. I et vertskommunesamarbeid mellom fylkeskommuner skal vertskommunen orientere departementet om at samarbeidet er opprettet.
+I et vertskommunesamarbeid mellom kommuner skal vertskommunen orientere statsforvalteren om at samarbeidet er opprettet. I et vertskommunesamarbeid mellom fylkeskommuner skal vertskommunen orientere departementet om at samarbeidet er opprettet.
