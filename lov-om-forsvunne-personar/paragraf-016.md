@@ -1,0 +1,2 @@
+# § 16. Skifte etter fem år
+Er det gått fem år sidan det siste tidspunktet da ein visste at den forsvunne var i live, utan at eigedelane som er til forvalting etter § 6, er skifta, skal den som forvaltar eigedelane, gi melding til tingretten. Tingretten skal handsame eigedelane som om den forsvunne var død. Buet skal delast mellom dei som er arvingar etter den forsvunne når femårsfristen går ut. Arvingane skal varslast ved innkalling etter reglane i arvelova § 101 tredje ledd første punktum. Om ingen melder seg som arving, gjeld arvelova § 76 tilsvarande.
