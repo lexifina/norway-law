@@ -1,0 +1,4 @@
+# § 20. Utbetalt forsikring
+Ein forsikringssum som er utbetalt etter ein dødsorskurd etter § 8 eller § 9, kan ikkje krevjast att jamvel om det viser seg at den forsvunne lever, eller at han eller ho døydde på eit slikt tidspunkt at forsikringssummen ikkje skulle vore utbetalt. Dette gjeld likevel ikkje om det er klårt urimeleg at den som har fått utbetalt summen, får behalde han. Når det er gått 20 år sidan dagen som er rekna som dødsdagen etter § 13, kan forsikringssummen uansett ikkje krevjast attende.
+Dersom forsikringssummen kan krevjast attende, kan kravet setjast ned eller falle bort etter reglane i § 19 første ledd. Beløp som selskapet ikkje kan få attende frå mottakaren, skal gå til frådrag i det forsikringsselskapet har plikt til å dekkje.
+Forsikringsselskapet kan rekne forsikringsforholdet som opp- og avgjort ved den utbetalinga som er skjedd på grunnlag av dødsorskurden. I så fall overtar personen som har kome attende, kravet til forsikringsselskapet.

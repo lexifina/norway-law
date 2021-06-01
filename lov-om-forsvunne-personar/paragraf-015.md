@@ -1,0 +1,3 @@
+# § 15. Handsaming av buet og skifte
+Når ein orskurd etter § 8 eller § 9 er blitt endeleg, skal buet til den forsvunne handsamast som om den forsvunne var død på dagen som er rekna som dødsdagen etter § 13. Fristane i arveloven tredje del gjeld i desse tilfella frå det tidspunktet det tidlegast var mogeleg å få buet skifta.
+Er nettoformuen til den forsvunne mindre enn fire gonger grunnbeløpet i folketrygda, kan ektemaken eller arvingane krevje at buet skal handsamast som om den forsvunne var død utan dødsorskurd så snart fristen etter § 9 første ledd er gått ut. Tingretten fastset i så fall dødsdagen etter reglane i § 13.
