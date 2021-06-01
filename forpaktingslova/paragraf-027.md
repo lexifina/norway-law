@@ -1,0 +1,3 @@
+# § 27. Frist for heving av forpaktingsavtale.
+Forpaktarens rett til å heve avtalen i dei tilfelle som er nemnd i §§ 13 andre leden, 21, 22 og 23 fell bort dersom han ikkje har gjort bruk av retten innan rimeleg tid. Forpaktaren kan ikkje heve avtalen etter at mangelen er retta.
+Har forpaktaren i tilfelle som nevnt i § 26, første leden nr. 1, 2 eller 3, retta forholdet før jordeigaren har heve avtalen, kan jordeigaren ikkje sidan nytte dette forholdet som grunn til å heve avtalen. Det same gjeld dersom jordeigaren i tilfelle som nemnt i § 26, første leden nr. 4, 5, 6 eller 7 ikkje har heve avtalen innan seks månader etter at han fekk kjennskap til forholdet.

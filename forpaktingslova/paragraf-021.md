@@ -1,0 +1,3 @@
+# § 21. Jordeigarens ansvar for urette oppgåver.
+Har jordeigaren i forpaktingsavtalen oppgjeve at eigedomen er større enn han er, eller gjeve anna urett opplysning om eigedomen og det som høyrer til han, kan forpaktaren på grunnlag av mangelen krevje ei rimeleg nedsetting av forpaktingsavgifta eller i tilfelle heve avtalen. Må mangelen reknast for uvesentlig, har forpaktaren likevel ikkje rett til å heve avtalen, med mindre jordeigaren har fare med svik.
+Må ein eigenskap reknast for å vere tilsikra, eller har jordeigaren fare med svik, kan forpaktaren krevje skadebot. Skadebot kan likevel ikkje krevjast dersom jordeigaren godtgjer at det på grunn av oppståtte forhold som ikkje kan tilreknast han, har vore umogleg å overlevere eigedomen i avtala stand.
