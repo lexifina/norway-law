@@ -1,0 +1,2 @@
+# § 1. Forskriftens formål og virkeområde
+Forskriftens formål er å gi særskilte regler for godkjenning av familiebarnehager og for norm for pedagogisk bemanning i familiebarnehagene. En familiebarnehage er en barnehageform der barna får et tilbud i private hjem. Assistentene i familiebarnehagen skal motta veiledning av en barnehagelærer. Ut over de særskilte regler som gis i denne forskriften, gjelder de bestemmelser som er fastsatt i eller med hjemmel i barnehageloven.
