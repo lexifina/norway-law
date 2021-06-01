@@ -1,0 +1,5 @@
+# § 12
+Skip og last skal liggja tryggt forvart til det er sagt endeleg dom i saki dersom departementet som har med det, ikkje fastset noko anna i serhøve.
+Det som er fastsett i fyrste leden stengjer ikkje for at skip og last vert oreigna etter dei reglane som gjeld for norsk eigedom.
+Last som ikkje toler liggja, kan retten taka ved skal seljast gjennom namsmyndigheten etter reglane om tvangssal så langt dei høver eller på annen forsvarleg måte. Bestemmelsene i tvangsfullbyrdelseslova § 8-16 fyrste leden gjelder ikkje i dette høvet. Like eins kan domstolen taka ved etter at den militære styremakt som har med det å gjera, har sagt si meining, at skip eller last skal seljast, so framt domarane meiner det er fåre for at fienden kan få tak i eller få høve til å øydeleggja skipet eller lasti.
+Reglane i fyrre leden gjeld sameleis når eigaren ikkje hentar skip eller last som er frigjevne i endeleg dom. I slike høve kan skip og last like eins seljast soframt eigaren ikkje har henta dei innan rimeleg tid etter frigjevinga.
