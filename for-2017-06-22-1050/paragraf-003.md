@@ -1,0 +1,4 @@
+# § 3. Omsorgskommunens økonomiske ansvar for å oppfylle retten til spesialpedagogisk hjelp for barn under opplæringspliktig alder, som er plassert i fosterhjem eller institusjon utenfor kommunen
+For barn under opplæringspliktig alder, som barneverntjenesten eller fylkesnemnda plasserer i fosterhjem utenfor kommunen, er det omsorgskommunen som har det økonomiske ansvaret for den spesialpedagogiske hjelpen.
+Omsorgskommunen skal fastsette omfanget av den spesialpedagogiske hjelpen etter en sakkyndig vurdering fra vertskommunen. Det økonomiske ansvaret følger av det fastsatte omfanget. Omsorgskommunen fatter vedtak om spesialpedagogisk hjelp.
+Første og andre ledd gjelder tilsvarende for barn under opplæringspliktig alder, som barnevernstjenesten eller fylkesnemnda plasserer i institusjoner som ikke er nevnt i kapittel 2.
