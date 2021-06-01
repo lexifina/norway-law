@@ -1,0 +1,2 @@
+# § 6. Brenning av kadaver
+Brenning av kadaver kan gjøres dersom nedgraving eller transport til destruksjonsanlegg ikke er mulig, eller når særlige forskrifter om sykdomsbekjempelse krever det. Brenning skal skje innenfor et nærmere avgrenset område på egnet sted. Det skal sørges for at kadaver blir fullstendig brent opp. Forurensning skal reduseres så langt det er mulig. Det skal særlig tas hensyn til at store mengder røykgass ikke spres til bebyggelse.

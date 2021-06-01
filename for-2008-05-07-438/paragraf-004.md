@@ -1,0 +1,4 @@
+# § 4. Generelle bestemmelser
+Nedgraving eller brenning kan skje når det av smittevernmessige hensyn ikke er mulig å benytte godkjente bearbeidingsanlegg for animalske biprodukter eller godkjente forbrenningsanlegg, eller når det er stor risiko for smittespredning ved transport. Nedgraving eller brenning skal skje etter anvisning og under tilsyn av Mattilsynet i henhold til forskrift 27. juni 2002 nr. 732 om bekjempelse av dyresjukdommer eller annen særskilt forskrift om bekjempelse av smittsom sjukdom. Mattilsynet skal i samråd med kommunen utpeke sted for nedgraving eller brenning.
+I tilfeller der kadaver må graves ned eller brennes på grunneiers eller dyreeiers grunn, skal grunneier eller dyreeier gis en tidsbegrenset frist til å uttale seg før det utpekes sted for nedgraving eller brenning.
+Nedgraving eller brenning av kadaver i samsvar med § 4, § 5 og § 6 kan foregå uten tillatelse etter forurensningsloven § 11.
