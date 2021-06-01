@@ -1,5 +1,5 @@
 # § 56. Rett til å begjære vergemål
-Fylkesmannen treffer vedtak om opprettelse eller endring av vergemål av eget tiltak eller etter begjæring fra
+Statsforvalteren treffer vedtak om opprettelse eller endring av vergemål av eget tiltak eller etter begjæring fra
 a) personen selv,
 b) personens ektefelle, samboer, foreldre, nærmeste livsarving eller søsken,
 c) vergen, hvis personen allerede er under vergemål,

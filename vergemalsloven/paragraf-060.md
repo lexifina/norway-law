@@ -1,2 +1,2 @@
 # § 60. Underretning til nære familiemedlemmer
-Når en person begjæres satt under vergemål, skal fylkesmannen underrette ektefellen eller samboeren og eventuelle barn over 18 år om begjæringen. Disse skal også underrettes om avgjørelsen i saken, om klage og om begjæring om endringer av vergemålet. Har personen ikke nære familiemedlemmer som nevnt i første punktum, skal foreldrene underrettes på samme måte.
+Når en person begjæres satt under vergemål, skal statsforvalteren underrette ektefellen eller samboeren og eventuelle barn over 18 år om begjæringen. Disse skal også underrettes om avgjørelsen i saken, om klage og om begjæring om endringer av vergemålet. Har personen ikke nære familiemedlemmer som nevnt i første punktum, skal foreldrene underrettes på samme måte.

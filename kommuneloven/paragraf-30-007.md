@@ -1,4 +1,4 @@
 # § 30-7. Samordning mellom statlig tilsynsvirksomhet og kommuner eller fylkeskommuner
-Fylkesmannen skal drøfte med kommunene og fylkeskommunene prioritering og gjennomføring av planlagte tilsyn.
+Statsforvalteren skal drøfte med kommunene og fylkeskommunene prioritering og gjennomføring av planlagte tilsyn.
 Statlige tilsynsmyndigheter skal i sin planlegging, prioritering og gjennomføring av tilsyn ta hensyn til det samlete statlige tilsynet med den enkelte kommunen eller fylkeskommunen og til relevante forvaltningsrevisjonsrapporter. Tilsynsmyndighetene skal vurdere å utsette eller å ikke gjennomføre tilsyn hvis kommunen eller fylkeskommunen nylig har gjennomført en kontroll med det samme temaet.
 Før det eventuelt vedtas pålegg om retting eller andre reaksjoner med vesentlige virkninger for kommunen eller fylkeskommunen, skal tilsynsmyndigheten ha dialog med kommunen eller fylkeskommunen om slike pålegg eller reaksjoner og om kommunens eller fylkeskommunens oppfølging. Kommunen eller fylkeskommunen plikter å delta i dialogen.

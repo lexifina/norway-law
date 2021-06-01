@@ -1,1 +1,1 @@
-# Kapittel 7. Fylkesmannens forvaltning av finansielle eiendeler
+# Kapittel 7. Statsforvalterens forvaltning av finansielle eiendeler

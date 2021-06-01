@@ -1,6 +1,6 @@
 # § 7-3. Utelukket fra valg
 Utelukket fra valg til organer nevnt i § 7-2 er
-a) fylkesmannen og assisterende fylkesmann
+a) statsforvalteren og assisterende statsforvalter
 b) kommunedirektøren i kommunen eller fylkeskommunen og hans eller hennes stedfortreder
 c) kommunalsjefer, etatssjefer og ledere på tilsvarende nivå
 d) sekretærer for kommunestyret eller fylkestinget

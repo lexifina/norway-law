@@ -5,4 +5,4 @@ a) loven i en stat der fullmaktsgiveren er statsborger,
 b) loven i en stat der fullmaktsgiveren tidligere har vært bosatt, eller
 c) loven i en stat der fullmaktsgiveren har fast eiendom, så langt det gjelder denne eiendommen.
 Henvisningene til annen stats lov omfatter ikke bestemmelser som hører til den internasjonale privatretten.
-Ved fylkesmannens og domstolenes behandling av saker etter kapitlet her anvendes norsk rett.
+Ved statsforvalterens og domstolenes behandling av saker etter kapitlet her anvendes norsk rett.

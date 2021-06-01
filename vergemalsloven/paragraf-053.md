@@ -1,2 +1,2 @@
 # § 53. Regnskapsplikt
-Kongen gir i forskrift nærmere regler om vergens og fylkesmannens regnskapsplikt, herunder revisjon av regnskaper.
+Kongen gir i forskrift nærmere regler om vergens og statsforvalterens regnskapsplikt, herunder revisjon av regnskaper.

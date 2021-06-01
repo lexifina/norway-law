@@ -1,5 +1,5 @@
 # § 39. Disposisjoner over fast eiendom, løsøre og livsforsikring mv. og utlån av midler til vergen
-Vergen skal ha fylkesmannens samtykke til
+Vergen skal ha statsforvalterens samtykke til
 a) å erverve eller avhende fast eiendom eller rettighet som ligger til fast eiendom, samt å gjøre gjeldende eller gi avkall på odelsrett eller annen rettighet i fast eiendom,
 b) å pantsette fast eiendom eller påhefte den en servitutt,
 c) å forpakte eller leie bort fast eiendom, herunder bolig,
