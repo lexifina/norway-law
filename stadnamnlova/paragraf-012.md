@@ -1,0 +1,6 @@
+# § 12. Klage
+Vedtak etter denne lova kan påklagast av dei som etter § 6 første ledd bokstav a til c har rett til å ta opp saker om skrivemåten av stadnamn. Tilsvarande gjeld for vedtak om namnsetjing etter anna lov, dersom vedtaket er i strid med § 3 i lova her. Offentlege organ har berre klagerett i saker som gjeld namn dei skal bruke i tenesta. Klageretten gjeld også vedtak gjorde av kommunar og fylkeskommunar. Ei klage skal grunngivast. Vedtak gjorde av eit departement i medhald av delegert mynde, eller av Kongen, kan ikkje påklagast.
+Klager på andre vedtak enn dei som er gjorde av eit departement, skal behandlast av ei klagenemnd oppnemd av Kongen. I klagesaker av prinsipiell karakter kan klagenemnda gi Språkrådet, Sametinget og departementet høve til å uttale seg.
+Feilbruk og manglande bruk av stadnamn etter § 11 kan påklagast til det organet som er nærast overordna det organet som klagen gjeld. Statsforvaltaren er klageinstans når klagen gjeld kommunale eller fylkeskommunale organ. Manglande vedtak kan påklagast til klagenemnda.
+Eit departement som gjer vedtak om skrivemåte, har plikt til å ta saka opp til ny avgjerd etter klage. Departementet skal i slike saker innhente tilråding frå klagenemnda.
+For førebuinga av ei klagesak gjeld saksbehandlingsreglane i §§ 8 og 9 tilsvarande. Elles gjeld reglane i forvaltningsloven kapittel VI.
