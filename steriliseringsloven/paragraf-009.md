@@ -1,0 +1,2 @@
+# § 9. (behandling av søknad og klage).
+Søknad om kastrering avgjøres av Steriliseringsrådet. Gir rådet tillatelse til kastrering, skal det henvise til et sykehus hvor inngrepet kan foretas. Der vergen eller politimesteren har fremsatt søknad på vegne av den det gjelder etter § 8 annet ledd jf. § 4 tredje ledd, skal tillatelse til kastrering kun gis der mindre inngripende virkemidler ikke anses tilstrekkelige, og kastrering med stor grad av sannsynlighet vil ha den ønskede effekt. Klageinstans for rådets vedtak er et setteråd oppnevnt av departementet.
