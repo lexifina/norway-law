@@ -1,6 +1,6 @@
 # § 8-5. Regional planbestemmelse
 Regional planmyndighet kan fastsette regional planbestemmelse knyttet til retningslinjer for arealbruk i en regional plan som skal ivareta nasjonale eller regionale hensyn og interesser. Bestemmelsen kan fastsette at det for et tidsrom av inntil ti år nedlegges forbud mot at det blir iverksatt særskilt angitte bygge- eller anleggstiltak uten samtykke innenfor nærmere avgrensede geografiske områder, eller bestemme at slike tiltak uten slikt samtykke bare kan iverksettes i samsvar med godkjent arealplan etter denne lov.
 Forslag om regional planbestemmelse skal utarbeides og behandles i samsvar med reglene i §§ 8-3 og 8-4, og kan fremmes i forbindelse med utarbeiding av en regional plan.
-Regional planmyndighet kan, etter samråd med fylkesmannen og berørte kommuner, forlenge forbudet med fem år av gangen.
-Samtykke til å iverksette tiltak som omfattes av regional planbestemmelse kan gis av regional planmyndighet etter samråd med fylkesmannen og berørte kommuner.
-Regional planbestemmelse skal kunngjøres i Norsk Lovtidend og gjøres tilgjengelig gjennom elektroniske medier. Et eksemplar av planbestemmelsen skal sendes til departementet, fylkesmannen og berørte kommuner og statlige myndigheter.
+Regional planmyndighet kan, etter samråd med statsforvalteren og berørte kommuner, forlenge forbudet med fem år av gangen.
+Samtykke til å iverksette tiltak som omfattes av regional planbestemmelse kan gis av regional planmyndighet etter samråd med statsforvalteren og berørte kommuner.
+Regional planbestemmelse skal kunngjøres i Norsk Lovtidend og gjøres tilgjengelig gjennom elektroniske medier. Et eksemplar av planbestemmelsen skal sendes til departementet, statsforvalteren og berørte kommuner og statlige myndigheter.
