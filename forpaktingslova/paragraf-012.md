@@ -1,0 +1,6 @@
+# § 12. Skjønnsforretninga.
+Skjønn etter § 11 skal haldast når marka høver for det. Leiaren av skjønnet fastset tid og stad for forretninga og kallar inn partane. Dersom ein part ikkje møter, og det er opplyst eller truleg at han har gyldig fråvere, skal forretninga til vanleg utsettast. Ho kan likevel fremjast dersom den som ikkje møter, har samtykt i det eller utsetting etter måten vil føre til vesentleg ulempe og det kan provast at han som ikkje møter er varsla om forretninga i tide.
+Skjønnsmedlemene skal gå over eigedomen og gi ei skriftleg utgreiing om dei einskilde jorde, gjerde, grøfter, vegar, bruer, vassleidningar m.m. Dei skal òg gje skriftleg utgreiing om forpaktarbustad eller husvære, driftsbygningar og andre bygningar eller innretningar som forpaktinga omfattar. Over skjønnsforretninga skal det utferdast eit dokument som blir underskrive av skjønnsmedlemene. Rettkjend utskrift av forretninga skal snarast sendast til kvar av partane.
+Vidare skal skjønnsmedlemene i tilfelle halde takst over buskap i samsvar med § 14 og over reiskap i samsvar med § 15.
+Dersom ikkje anna er avtala, skal utgifter ved skjønnsforretning delast likt mellom partane. Utgiftene er tvangsgrunnlag for utlegg.
+Kongen kan gi nærare reglar om skjønn etter denne lova.
