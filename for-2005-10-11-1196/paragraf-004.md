@@ -1,0 +1,4 @@
+# § 4. Forsvarlig oppbevaring, håndtering og transport av smittefarlig avfall
+Helsetjeneste og dyrehelsetjeneste skal sørge for at smittefarlig avfall oppbevares og håndteres på en slik måte at det ikke medfører fare for forurensning eller spredning av smitte til mennesker, dyr eller miljø. Virksomhet som transporterer eller håndterer smittefarlig avfall fra helsetjeneste eller dyrehelsetjeneste, skal sørge for at dette skjer på en slik måte at det ikke medfører fare for forurensning eller spredning av smitte til mennesker, dyr eller miljø.
+Helsetjeneste og dyrehelsetjeneste og virksomhet som transporterer eller håndterer smittefarlig avfall fra disse, skal sørge for at smittefarlig avfall ikke blandes med andre typer avfall.
+Helsetjeneste og dyrehelsetjeneste og virksomhet som behandler smittefarlig avfall fra disse, skal så tidlig som mulig sørge for at smittefarlig avfall behandles slik at det ikke lenger er smittefarlig.
