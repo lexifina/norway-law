@@ -1,0 +1,3 @@
+# § 5. Gjennomføring m.v. av forsøk
+Til erstatning for de bestemmelser det godkjennes avvik fra, skal det utarbeides nærmere regler for gjennomføringen av det enkelte forsøk. Reglene fastsettes gjennom vedtekter som skal godkjennes av Kongen. Ved utarbeidelsen av vedtektene får § 37 i forvaltningsloven tilsvarende anvendelse. I forbindelse med godkjenningen kan Kongen gjøre mindre endringer i vedtektene.
+Vedtekter for forsøk i kommuner eller fylkeskommuner fastsettes av henholdsvis kommunestyret eller fylkestinget. Kommunestyret eller fylkestinget kan delegere sin myndighet til et annet folkevalgt organ, for så vidt gjelder mindre endringer og tillegg til allerede godkjente vedtekter.

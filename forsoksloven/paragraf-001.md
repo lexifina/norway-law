@@ -1,0 +1,2 @@
+# § 1. Lovens formål
+Formålet med denne lov er gjennom forsøk å utvikle funksjonelle og effektive organisasjons- og driftsformer i den offentlige forvaltning, og en hensiktsmessig oppgavefordeling mellom forvaltningsorganer og mellom forvaltningsnivåer. Det skal legges særlig vekt på å forbedre den offentlige tjenesteyting overfor borgerne og få til best mulig ressursutnyttelse. Ved forsøk som omfatter folkevalgte organer skal det også legges vekt på å fremme gode demokratiske styringsformer.
