@@ -1,0 +1,3 @@
+# § 2-7. Tilbaketrekning av samtykke
+Et samtykke til å delta i en befolkningsbasert helseundersøkelse kan når som helst trekkes tilbake. Ved tilbaketrekking av samtykke må forskningen på vedkommendes humant biologiske materiale eller helseopplysninger opphøre. Den som har trukket sitt samtykke tilbake, kan kreve at det biologiske materialet destrueres og at helseopplysningene slettes eller utleveres innen 30 dager.
+Adgangen til å kreve destruksjon, sletting eller utlevering etter andre ledd gjelder ikke dersom materialet eller opplysningene er anonymisert, dersom materialet etter bearbeidelse inngår i et annet biologisk produkt, eller dersom opplysningene allerede er inngått i utførte analyser.
