@@ -1,0 +1,3 @@
+# § 12. Melding om navn for barn
+Melding om å ta, endre eller sløyfe navn for noen som ikke har fylt 16 år, skal fremsettes av den eller de som har foreldreansvaret, eller disse må ha samtykket i meldingen. Gjelder meldingen et barn over 12 år, må også barnet selv ha samtykket. Selv om det ikke foreligger samtykke etter første eller annet punktum, kan meldingen godtas dersom det foreligger særlig grunn.
+Gjelder meldingen en person som har endret juridisk kjønn etter lov om endring av juridisk kjønn § 4 andre ledd andre punktum, er det tilstrekkelig med samtykke fra en av dem som har foreldreansvaret.

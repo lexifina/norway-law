@@ -1,0 +1,7 @@
+# § 3. Frie, beskyttede og nye etternavn
+Navn som flere enn 200 personer her i riket har som etternavn, kan tas som etternavn av andre uten samtykke fra dem som allerede har det.
+Navn som 200 eller færre personer her i riket har som etternavn, kan bare tas som etternavn dersom alle som allerede har det som etternavn, samtykker. For barn under 18 år gis samtykke av den eller dem som har foreldreansvaret.
+Navn som ikke er registrert i Folkeregisteret som et navn som er i bruk som etternavn her i riket, kan tas som etternavn. Dette gjelder likevel ikke navn som:
+1) er så likt et beskyttet etternavn at navnene lett kan blandes sammen. Navnet kan likevel tas dersom alle som har det beskyttede navnet som etternavn, samtykker. Annet ledd annet punktum gjelder tilsvarende.
+2) er identisk eller har likhet som nevnt i nr. 1 med et alminnelig kjent foretaksnavn, varemerke eller annet kjennetegn som er vernet her i riket, med et alminnelig kjent navn på en stiftelse, forening, institusjon eller lignende eller med et alminnelig kjent kunstnernavn, og det må antas at berettigede interesser vil lide skade dersom vedkommende får navnet.
+3) er registrert i Folkeregisteret som et navn som er eller har vært i bruk som fornavn. Navnet kan likevel tas som etternavn dersom det har opphav eller tradisjon som etternavn i Norge eller i utlandet eller har tradisjon i en kultur som ikke skiller mellom fornavn og etternavn.
