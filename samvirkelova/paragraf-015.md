@@ -1,6 +1,6 @@
 # § 15. Medlemsrettar
 (1) Medlemmar av samvirkeforetak har desse rettane:
-1) rett til å bli innkalla og til å møte i årsmøtet, jf. §§ 46 og 36, jf. § 37,
+1) rett til å bli innkalla og til å delta i årsmøtet, jf. §§ 46 og 36, jf. § 37,
 2) rett til å få tatt opp saker på årsmøtet, jf. § 47,
 3) rett til å røyste på årsmøtet, jf. § 38,
 4) rett til å få tilgjengelege opplysingar på årsmøtet frå leiinga, jf. § 51,

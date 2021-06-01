@@ -1,2 +1,3 @@
-# § 45. Staden for årsmøtet
-Årsmøtet skal haldast i den kommunen der foretaket har forretningskontoret, om ikkje vedtektene fastset at det kan eller skal haldast på ein eller fleire andre oppgitte stader. Årsmøtet kan haldast ein annan stad dersom det trengst av særlege grunnar.
+# § 45. Kven som skal kalle inn
+(1) Årsmøtet skal kallast inn av styret eller av det organet som vedtektene fastset.
+(2) Dersom styret eller det organet vedtektene fastset, ikkje kallar inn årsmøte som skal haldast etter lova, vedtektene eller tidlegare vedtak av årsmøtet, skal tingretten gjere dette snarast råd om det blir kravd av ein styremedlem, dagleg leiar, revisor eller ein medlem av foretaket. Har foretaket representantskap, kan leiaren av representantskapet setje fram eit slikt krav. Foretaket skal dekkje utgiftene.

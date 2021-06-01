@@ -1,4 +1,4 @@
 # § 12. Melding av foretaket til Foretaksregisteret
-(1) Foretaket skal meldast til Foretaksregisteret innan tre månader etter at stiftingsdokumentet er underskrive.
+(1) Foretaket skal meldast til Foretaksregisteret innan tre månader etter at stiftingsdokumentet er signert.
 (2) Før foretaket blir meldt til Foretaksregisteret, skal ein eventuell innskotskapital frå stiftarane vere fullt innbetalt. I meldinga til Foretaksregisteret skal det opplysast om at foretaket har mottatt eventuelle innskot. Ein statsautorisert eller registrert revisor skal stadfeste at innskotskapitalen er fullt innbetalt. Dersom innskota utelukkande er gjort med pengar, kan i staden eit finansforetak gi stadfesting.
 (3) Er foretaket ikkje meldt til Foretaksregisteret innan fristen, kan foretaket ikkje registrerast. I så fall fell stiftinga bort, og eventuelle krav på innskot er ikkje lenger bindande. Det same gjeld dersom registrering blir nekta på grunn av feil som ikkje kan rettast.

@@ -1,4 +1,4 @@
 # § 37. Utsendingar
 (1) I landsdekkande foretak eller foretak med meir enn 100 medlemmar kan vedtektene fastsetje at medlemmane skal vere representerte ved utsendingar på årsmøtet. Det skal i så fall fastsetjast i vedtektene korleis utsendingane skal veljast, om det skal veljast varamedlemmar for desse, og kor lang valperioden skal vere. Valperioden kan ikkje vere lengre enn fire år. Berre medlemmar kan vere utsendingar.
 (2) Føresegner i lova som vedkjem medlemmane, gjeld tilsvarande for utsendingane så langt dei høver. Medlemmar som er representerte ved utsendingar, har vanlege medlemsrettar og medlemsplikter så langt ikkje noko anna følgjer av lova. Likestilt med medlemmer som er representerte ved utsendingar, er fiskarar eller organisasjonar av fiskarar, jf. fiskesalslagslova § 4.
-(3) Utsendingar kan ikkje møte ved fullmektig, men kvar utsending kan ta med ein rådgivar, som årsmøtet kan gi talerett. Første punktum kan fråvikast i vedtektene.
+(3) Utsendingar kan ikkje delta ved fullmektig, men kvar utsending kan delta med ein rådgivar, som årsmøtet kan gi talerett. Første punktum kan fråvikast i vedtektene.
