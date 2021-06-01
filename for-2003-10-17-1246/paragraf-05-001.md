@@ -1,0 +1,4 @@
+# § 5-1. Tilgjengeliggjøring og annen behandling av helseopplysninger
+Helseopplysninger i Reseptregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.
+Ved tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.
+Mottakeren må ikke offentliggjøre resultatet av behandlingen av opplysningene i slik form at enkeltpersoner eller apotek kan gjenkjennes. Dette er ikke til hinder for at legemiddelrekvirenter kan gjøre opplysninger som ikke er taushetsbelagte og som gjelder egen virksomhet tilgjengelig for andre.
