@@ -1,0 +1,2 @@
+# § 2. Vilkår for å utøve reindrift
+Utøvelse av reindrift i de kommunene loven omfatter krever særskilt tillatelse av Kongen i samsvar med reindriftsloven § 8. Tillatelse kan bare gis til personer som oppfyller vilkårene i reindriftsloven § 9 for å eie rein i det samiske reinbeiteområdet. Første gangs tillatelse i medhold av loven her, kan bare gis til personer som selv utøver reindrift i område da loven trer i kraft.
