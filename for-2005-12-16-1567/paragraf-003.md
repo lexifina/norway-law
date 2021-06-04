@@ -1,0 +1,9 @@
+# § 3. Forsvaret og virksomhet i tilknytning til Forsvarets øvingsvirksomhet
+Arbeidsmiljøloven § 4-1 fjerde ledd gjelder ikke for tjenestesteder i Forsvaret hvor det ikke er forutsatt at begge kjønn skal tjenestegjøre.
+Kravet i arbeidsmiljøloven § 5-5 fjerde ledd gjelder ikke for maskiner og annet arbeidsutstyr til bruk i Forsvaret.
+Arbeidsmiljøloven gjelder ikke for feltmessig øvingsvirksomhet som på en realistisk måte har til hensikt å øve forsvaret i å kunne virke effektivt i en krise- eller krigssituasjon.
+Arbeidsmiljøloven gjelder ikke for strids- og forsvarsanlegg som ikke er permanent bemannet.
+Forsvarsdepartementet og forhandlingsberettigede arbeidstakerorganisasjoner etter lov 18. juli 1958 nr. 2 om offentlige tjenestetvister, kan inngå tariffavtale som fraviker arbeidsmiljøloven kapittel 10 med unntak av § 10-2 nr. 1, for Forsvarsdepartementet med underliggende etater. Tariffavtale om slike unntak kan også inngås mellom Forsvarsdepartementet og arbeidstakerorganisasjoner etter lov 5. mai 1927 nr. 1 om arbeidstvister. Unntak etter dette ledd kan avtales når det er nødvendig for å sikre en hensiktsmessig og forsvarlig gjennomføring av forsvarsspesifikke aktiviteter.
+Virksomheter som betjener Forsvaret i tilknytning til feltmessig øvingsvirksomhet, unntas fra arbeidsmiljøloven kapittel 10. Unntaket gjelder for den periode de militære avdelinger forbereder, gjennomfører og avslutter en øving.
+Dersom det er inngått tariffavtale etter femte ledd og et flertall av arbeidstakerne er bundet av avtalen, kan arbeidsgiver gjøre avtalens bestemmelser om arbeidstid gjeldende for alle arbeidstakere som utfører arbeid av den art avtalen omfatter.
+Tilsynet med at arbeidsmiljøloven og bestemmelser gitt i medhold av denne blir overholdt i Forsvaret, gjennomføres på den måte som blir fastsatt i skriftlig avtale mellom Direktoratet for arbeidstilsynet og Forsvarsdepartementet. Herunder kan det også avtales unntak fra arbeidsmiljøloven § 18-9.

@@ -1,0 +1,2 @@
+# § 8. Arbeidstakere ved Statens havarikommisjon for transport som deltar i utrykning mv.
+Arbeidsmiljøloven § 10-6 fjerde til niende ledd og § 10-8 gjelder ikke for arbeidstakere i Statens havarikommisjon for transport som deltar i utrykning, søk og sikring av informasjon i den innledende fasen av en havariundersøkelse, eller i andre tidskritiske faser av en slik undersøkelse. Arbeidstaker skal sikres tilsvarende kompenserende hvileperioder eller, der dette ikke er mulig, annet passende vern.
