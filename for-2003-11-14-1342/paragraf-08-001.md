@@ -1,0 +1,3 @@
+# § 8-1. Informasjonsplikt overfor kunder
+Et naturgassforetak som forsyner kunder med naturgass, skal sikre at kunden får tydelig informasjon om sitt uttak av naturgass, gjeldende priser og øvrig fakturagrunnlag, slik at kunden får et grunnlag for å styre eget gassforbruk. Naturgassforetaket skal gjøre slik informasjon tilgjengelig senest ved hvert faktureringstidspunkt, og kan ikke kreve vederlag for å gi kunden denne informasjonen.
+Naturgassforetak skal gi kundene tydelig informasjon om tariffer, avtalevilkår og forbrukernes rettigheter. Dette omfatter informasjon om hvilke opplysninger kunden må oppgi for å skifte gassleverandør.

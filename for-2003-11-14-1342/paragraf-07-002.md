@@ -1,0 +1,3 @@
+# § 7-2. Tariff for tilknytning til systemet
+Systemoperatøren kan kreve et tilknytningsgebyr eller anleggsbidrag ved nye tilknytninger av systembrukere eller ved oppdimensjonering av en eksisterende tilknytning. Dersom systemoperatøren benytter seg av et tilknytningsgebyr eller anleggsbidrag, skal dette pålegges alle nye tilknytninger og oppdimensjoneringer i systemet.
+Et tilknytningsgebyr skal være standardisert etter objektive kriterier. Et anleggsbidrag kan dekke hele eller deler av nødvendige kostnader som oppstår som følge av ny tilknytning, eller oppgradering av eksisterende tilknytning.
