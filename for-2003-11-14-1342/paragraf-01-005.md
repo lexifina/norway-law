@@ -1,0 +1,2 @@
+# § 1-5. Tvisteløsning
+Tvist mellom systemoperatøren og en systembruker om vilkår og tariffer etter § 3-1 eller andre plikter systemoperatøren har etter denne forskriften, kan bringes inn til reguleringsmyndigheten, som skal fatte vedtak i saken innen to måneder etter at klagen ble mottatt. Fristen kan forlenges med to måneder hvis reguleringsmyndigheten trenger ytterligere opplysninger. Fristen kan forlenges ytterligere hvis klager aksepterer dette.

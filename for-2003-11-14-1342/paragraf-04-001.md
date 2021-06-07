@@ -1,0 +1,7 @@
+# § 4-1. Regnskap
+Systemoperatøren skal føre regnskap, som skal være i samsvar med kravene i regnskapsloven. Systemoperatøren skal oppbevare en kopi av årsregnskapet som gjøres tilgjengelig for allmennheten på systemoperatørens hovedkontor, selv om denne ikke har plikt til å offentliggjøre sitt årsregnskap etter regnskapsloven.
+Systemoperatøren skal i sitt internregnskap føre atskilte regnskaper for virksomhetsområdene transmisjon, distribusjon, LNG- og lageranlegg på samme måte som om den aktuelle virksomheten hadde blitt utøvet av atskilte foretak. Kryss-subsidiering skal ikke forekomme. Differanse mellom internregnskap og årsregnskap skal avstemmes og forklares. Internregnskapet skal inneholde en balanse og et resultatregnskap for hvert virksomhetsområde.
+Prinsipper og regler som benyttes i utarbeidelsen av internregnskapene, skal komme klart frem og kan bare endres i særskilte tilfeller. Slike endringer skal angis og være behørig begrunnet.
+Systemoperatøren skal sørge for at revisor attesterer at systemoperatørens internregnskap er presentert i henhold til kravene i annet ledd.
+I notene til årsregnskapet skal alle transaksjoner som er gjennomført med tilknyttede foretak, angis.
+Reguleringsmyndigheten kan i enkeltvedtak fastsette krav til ytterligere spesifikasjoner, herunder krav om oppbevaring av regnskapsdata og hvordan regnskapet skal rapporteres til reguleringsmyndigheten.

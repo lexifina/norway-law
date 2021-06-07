@@ -1,0 +1,4 @@
+# § 9-1. Gjennomføring av gasstransmisjonsforordningen og tilhørende kommisjonsbeslutninger
+EØS-avtalen vedlegg IV nr. 27 (forordning (EF) nr. 715/2009 om vilkår for tilgang til overføringsnett for naturgass og om oppheving av forordning (EF) nr. 1775/2005, som endret ved kommisjonsbeslutning 2010/685/EU 10. november 2010, kommisjonsbeslutning 2012/490/EU 24. august 2012) og kommisjonsbeslutning (EU) 2015/715 gjelder som forskrift med de endringene og tilleggene som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+«Reguleringsmyndighet» skal i forordning (EF) nr. 715/2009 om vilkår for tilgang til overføringsnett for naturgass forstås som Reguleringsmyndigheten for energi.
+Enhver plikter på anmodning, og innen fastsatt tidsfrist, å gi Reguleringsmyndigheten for energi opplysninger som nevnt i forordning (EF) nr. 715/2009 artikkel 25.

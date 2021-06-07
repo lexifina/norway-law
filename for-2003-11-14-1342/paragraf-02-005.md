@@ -1,0 +1,6 @@
+# § 2-5. Konsesjon, tilbakekall mv.
+Konsesjon gis til juridisk person som er stiftet i overensstemmelse med norsk lovgivning og er registrert i Foretaksregisteret, når annet ikke følger av internasjonale avtaler. Konsesjon kan også tildeles fysisk person hjemmehørende i en EØS-stat.
+Konsesjon gis for inntil 30 år. Konsesjonstiden kan forlenges etter søknad fra konsesjonæren. Søknad om forlengelse av konsesjon skal sendes senest 1 år før utløpet av konsesjonstiden, med mindre departementet bestemmer noe annet.
+Konsesjonen skal omfatte en beskrivelse av anlegget med tilhørende kart. Det kan gis tidsfrister for seneste oppstart av anleggsarbeider, idriftsettelse av anlegget eller deler av dette.
+Dersom konsesjon etter § 2-3 ikke gis til en søker, skal begrunnelse for avslaget oversendes EFTAs overvåkingsorgan til underretning.
+Dersom konsesjon etter denne forskrift er gitt på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning, eller konsesjonæren grovt eller gjentatte ganger overtrer loven, denne forskrift eller bestemmelser eller pålegg gitt i medhold av loven eller denne forskrift, kan konsesjonen trekkes tilbake. Tilbakekall av konsesjon fritar ikke for forpliktelser som følger av forskrift eller konsesjonsvilkår.

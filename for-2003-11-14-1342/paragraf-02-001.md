@@ -1,0 +1,3 @@
+# § 2-1. Konsekvensutredning
+For anlegg som er konsesjonspliktige etter § 2-3 og som omfattes av plan- og bygningsloven kapittel 14 skal konsekvensutredninger vedlegges søknad etter § 2-2.
+For prosjekter som gjelder transport av gass i rørledning med en diameter på mer enn 800 mm og en lengde på mer enn 40 km eller som antas å ha vesentlige næringsmessige eller miljømessige virkninger, får bestemmelsene om konsekvensutredninger i kapittel 4 i forskrift til lov om petroleumsvirksomhet tilsvarende anvendelse så langt de passer for så vidt rørledningen går i sjø. Konsekvensutredninger skal vedlegges søknad etter § 2-2.
