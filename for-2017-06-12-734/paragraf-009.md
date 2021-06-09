@@ -1,0 +1,4 @@
+# § 9. Tilsyn og vedtak
+Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 24 til § 26.
+Mattilsynet kan gi påbud om andre nødvendige tiltak for å hindre spredning av Chronic Wasting Disease, herunder avlivning og prøvetaking, jf. forskrift 27. juni 2002 nr. 732 om tiltak mot sjukdommer og zoonotiske agens hos dyr § 28.
+Mattilsynet kan uten grunneierens samtykke gjøre nødvendige tiltak for å redusere smitterisikoen fra områder i sonene. Dette kan omfatte smittesanering og inngjerding av slikkesteinsplasser for å gjøre dem utilgjengelige for beitedyr og hjortedyr. Andre punktum gjelder både områder hvor det står slikkesteiner og områder hvor det har stått slikkesteiner i løpet av de siste fem årene.
