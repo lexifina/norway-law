@@ -1,0 +1,10 @@
+# § 5-1. Krav til avhandlingen
+Avhandlingen skal være et selvstendig, vitenskapelig forskningsarbeid som oppfyller internasjonale standarder med hensyn til etiske krav, faglig nivå og metode innen fagområdet.
+Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ligge på et nivå som tilsier at den vil kunne publiseres eller offentliggjøres i egnet format som en del av fagets forskningsbaserte kunnskapsutvikling.
+Det kan være aktuelt å supplere avhandlingen med annen dokumentasjon, f.eks. i form av lyd, bilde, film eller annen varig dokumentasjon. Det er en forutsetning at bruken av slik dokumentasjon inngår i den faglige drøftingen i form av illustrasjon, belegg eller lignende, og at den vurderes som dette i en vitenskapelig sammenheng.
+Fraværet av krav til godkjent opplæringsdel tilsvarende minst 30 studiepoeng, skal kompenseres ved at avhandlingsarbeidet er mer omfattende enn det som kreves i de organiserte doktorgradsprogrammene.
+Avhandlingen kan bestå av en monografi eller en sammenstilling av flere mindre, vitenskapelige arbeider. Dersom avhandlingen består av flere mindre arbeider, skal det redegjøres for sammenhengen mellom dem i et sammendrag. Sammendraget skal være en skriftlig redegjørelse for problemstilling, valg av teori og metode og vurdering av resultatet i henhold til internasjonale standarder og faglig nivå innen fagområdet.
+Doktorgradsutvalget bestemmer om en avhandling som er blitt til i samarbeid med andre forfattere eller samarbeidspartnere kan innleveres til bedømmelse. I slike tilfeller skal kandidaten følge de normer for medforfatterskap som er allment akseptert i fagmiljøet og i henhold til internasjonale standarder. Dersom avhandlingen hovedsakelig består av artikler, skal kandidaten normalt være førsteforfatter på minst halvparten av artiklene.
+I avhandlinger hvor det inngår arbeider med flere forfattere eller samarbeidspartnere, skal det følge en underskrevet erklæring som beskriver kandidatens innsats i hvert enkelt arbeid.
+Avhandlingen skal skrives på et skandinavisk språk eller engelsk.
+Avhandlingen skal være offentlig tilgjengelig.
