@@ -1,0 +1,5 @@
+# § 5-3. Forfall for krav om tilbakebetaling og overtredelsesgebyr
+(1) Krav om tilbakebetaling etter § 5-2 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.
+(2) Før utbetaling av tilskudd skjer etter § 5-1 første ledd, kan krav på tilbakebetaling likevel motregnes i utbetalingsbeløpet selv om tilbakebetalingskravet ikke er forfalt etter første ledd.
+(3) Overtredelsesgebyr ilagt etter lov 18. desember 2020 nr. 156 om midlertidig tilskuddsordning for foretak med stort inntektsfall etter august 2020 § 10 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om å ilegge sanksjon er ute, eller ved klage, tre uker etter at klagen er avgjort. Dersom søker eller tredjepart akter å prøve vedtakets gyldighet for domstolene, skal vedtaket etter anmodning ikke iverksettes før tre uker etter utløpet av søksmålsfristen eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.
+(4) Tilbakebetaling av tilskudd etter § 3-1 fjerde og femte ledd siste punktum forfaller til betaling tre uker etter at erstatning, andre offentlige tilskudd eller inntektssikring er mottatt.
