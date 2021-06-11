@@ -1,0 +1,3 @@
+# § 4. Tilsynsmyndighetens oppgaver
+Tilsynsmyndigheten som nevnt i jernbaneloven § 11 skal vurdere rapportene som undersøkelsesmyndigheten avgir, med tanke på å identifisere og iverksette tiltak som kan bedre jernbanesikkerheten. Tilsynsmyndigheten kan gi pålegg om oppfølging av sikkerhetstilrådinger til den som driver jernbanevirksomhet etter jernbaneloven.
+Departementet kan gi utfyllende forskrifter om tilsynsmyndighetens arbeid etter loven her, herunder om samarbeid og utveksling av opplysninger med andre land og internasjonale organisasjoner i den grad det følger av internasjonale avtaler som Norge har inngått.

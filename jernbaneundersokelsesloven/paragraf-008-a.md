@@ -1,0 +1,4 @@
+# § 8 a. Taushetsplikt
+Enhver som utfører tjeneste eller arbeid for den som driver jernbanevirksomhet, har taushetsplikt etter forvaltningsloven om det de får kjennskap til i forbindelse med undersøkelser og rapportering av ulykker og hendelser etter loven her.
+Personer som nevnt i første ledd, har i tillegg taushetsplikt om alle opplysninger som er innrapportert i medhold av § 8 og om opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter § 14. Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre eller opplysningene er nødvendige for å forklare årsaken til en jernbaneulykke eller jernbanehendelse.
+Taushetsplikt som nevnt i annet ledd, er ikke til hinder for at opplysningene bringes videre i den grad den som har krav på taushet samtykker forutsatt at opplysningene har statistisk form eller de er alminnelig tilgjengelig andre steder.
