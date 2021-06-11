@@ -1,0 +1,5 @@
+# § 11. Iverksetting av undersøkelse og undersøkelsens omfang
+Når undersøkelsesmyndigheten har mottatt varsel om jernbaneulykke etter § 6 eller om alvorlig jernbanehendelse etter § 7, skal den straks avgjøre om det er behov for å iverksette umiddelbar undersøkelse. Når undersøkelsesmyndigheten mottar rapport etter § 8 skal den uten ugrunnet opphold avgjøre om og når det skal iverksettes undersøkelse.
+Undersøkelsesmyndigheten avgjør selv omfanget av undersøkelsen og hvordan den skal gjennomføres. Ved avgjørelsen skal undersøkelsesmyndigheten blant annet ta hensyn til hvilken lærdom undersøkelsen forventes å gi med tanke på å forbedre sikkerheten, ulykken eller hendelsens alvorlighetsgrad, dens innvirkning på jernbanesikkerheten generelt og om den inngår i en serie av ulykker eller hendelser.
+Undersøkelsesmyndigheten kan uten hensyn til tidligere avgjørelser beslutte å undersøke forhold ved en eller flere jernbaneulykker eller jernbanehendelser.
+Departementet kan gi utfyllende forskrifter om undersøkelsesmyndighetens oppgaver og kompetanse etter paragrafen her.

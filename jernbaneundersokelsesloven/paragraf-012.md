@@ -1,0 +1,3 @@
+# § 12. Forbud mot å fjerne vrakrester mv. samt behov for å gjenopprette trafikken
+Jernbanemateriell og kjørevei som er skadet i jernbaneulykke, vrakrester eller andre ting fra slikt materiell og spor etter ulykken må ikke fjernes eller røres uten samtykke fra undersøkelsesmyndigheten og politiet, med mindre det er nødvendig for å redde eller avverge fare for liv eller eiendom eller for å hindre at noe som kan ha betydning for undersøkelsen, ødelegges eller forsvinner.
+Undersøkelsesmyndigheten skal avslutte sine undersøkelser på ulykkesstedet så snart som mulig slik at den som driver kjøreveien kan bli i stand til å gjenopprette trafikken.
