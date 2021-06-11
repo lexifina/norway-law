@@ -1,0 +1,2 @@
+# § 15. Dokumenter og opplysninger før pakkereisen begynner
+Arrangøren skal gi den reisende nødvendige kvitteringer, reisekuponger og billetter, samt opplysninger om planlagte avreisetidspunkter. Dersom det er relevant, skal arrangøren også opplyse om fristen for innsjekking, samt planlagte tidspunkter for stopp underveis, transportforbindelser og ankomst. Opplysningene og dokumentene skal gis i god tid før pakkereisen begynner.

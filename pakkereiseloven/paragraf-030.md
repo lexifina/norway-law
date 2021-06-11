@@ -1,0 +1,2 @@
+# § 30. Hjemtransport
+Dersom pakkereisen omfatter persontransport, og den reisende avviser foreslåtte alternative reisetjenester etter § 28 tredje ledd eller det ikke er mulig for arrangøren å tilby alternative reisetjenester etter § 28 første ledd, skal arrangøren sørge for hjemtransport av den reisende med et likeverdig transportmiddel, uten ugrunnet opphold og uten ekstra kostnader for den reisende. Det samme gjelder ved heving av pakkereiseavtalen etter § 29.

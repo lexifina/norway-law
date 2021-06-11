@@ -1,0 +1,2 @@
+# § 43. Hva som dekkes av reisegarantien
+Reisegarantien skal sikre tilbakebetaling av alle betalinger for pakkereiser og for reisetjenester etter § 42 første ledd annet punktum, som ikke blir levert som følge av insolvens. Dersom pakkereisen eller reisetjenestene omfatter persontransport, skal reisegarantien også sikre hjemtransport. Reisegarantien skal videre sikre utgifter til innkvartering og andre nødvendige utgifter før hjemtransporten.
