@@ -1,0 +1,2 @@
+# § 40. Virkningen av brudd på visse plikter
+Overholder ikke den næringsdrivende som formidler det sammensatte reisearrangementet, opplysningsplikten etter § 39 og kravet om reisegaranti etter § 42 første ledd annet punktum, gjelder bestemmelsen om overdragelse av pakkereiseavtalen til en annen reisende i § 18 og bestemmelsene i kapittel 4 og 5 tilsvarende for reisetjenestene som inngår i det sammensatte reisearrangementet.

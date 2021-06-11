@@ -1,0 +1,5 @@
+# § 7. Sammensatt reisearrangement
+Med sammensatt reisearrangement forstås i denne loven minst to forskjellige typer reisetjenester som kjøpes for samme reise eller ferie, som ikke utgjør en pakkereise, og som fører til at det inngås separate avtaler med hver enkelt yter av reisetjenester, dersom den næringsdrivende
+a) formidler den reisendes separate valg og separate betaling for hver reisetjeneste i løpet av ett besøk hos eller én henvendelse til den næringsdrivendes utsalgssted, eller
+b) på en målrettet måte formidler kjøp av minst én ytterligere reisetjeneste fra en annen næringsdrivende, når en avtale med den andre næringsdrivende inngås senest 24 timer etter at bestillingen av den første reisetjenesten er bekreftet.
+En kombinasjon av reisetjenester der høyst én type reisetjeneste som definert i § 5 bokstav a, b eller c, kombineres med en eller flere turisttjenester som definert i § 5 bokstav d, er bare et sammensatt reisearrangement dersom turisttjenestene utgjør en vesentlig andel av kombinasjonens verdi, eller annonseres som, eller på annen måte utgjør et vesentlig element i kombinasjonen.

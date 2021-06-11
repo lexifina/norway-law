@@ -1,0 +1,2 @@
+# § 44. Reisegarantiens størrelse
+Reisegarantien skal være tilstrekkelig til å dekke den næringsdrivendes garantipliktige omsetning til enhver tid. Ved fastsettelse av reisegarantiens størrelse skal det tas hensyn til tidsrommet mellom betaling av forskudd og fullføring av de garantipliktige arrangementene. Det skal også tas hensyn til hvor raskt den næringsdrivende vanligvis videreformidler betalingen til tjenesteytere.

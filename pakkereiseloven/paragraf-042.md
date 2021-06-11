@@ -1,0 +1,4 @@
+# § 42. Reisegaranti for pakkereiser og sammensatte reisearrangementer mv.
+Arrangøren skal stille reisegaranti for pakkereiser. Ved sammensatt reisearrangement skal den næringsdrivende som formidler reisearrangementet, stille reisegaranti for de reisetjenestene vedkommende mottar betaling for. De næringsdrivende skal også betale årsgebyr til Reisegarantifondet.
+Med reisegaranti menes garanti utstedt av bank eller forsikringsselskap i favør av Reisegarantifondet. Bank eller forsikringsselskap skal forplikte seg til etter påkrav å utbetale til Reisegarantifondet et beløp begrenset oppad til garantiens pålydende. Reisegarantifondet kan godta at det stilles annen betryggende sikkerhet.
+Dersom den næringsdrivende er etablert i en annen stat som er part i EØS-avtalen, likestilles garanti stilt i denne staten med reisegaranti etter annet ledd. På forespørsel fra Reisegarantifondet skal det kunne dokumenteres at det er stilt betryggende garanti.

@@ -1,0 +1,6 @@
+# § 10. Nærmere om opplysningsplikten etter § 9
+Opplysningene i § 9 første ledd skal gis på en tydelig og forståelig måte og i fremhevet form. Dersom opplysningene gis skriftlig, skal de være lett leselige. Dersom pakkereiseavtalen inngås per telefon, skal opplysningene gis i telefonsamtalen.
+Når næringsdrivende retter sin markedsføring ved fjernsalg og salg utenom faste forretningslokaler, jf. angrerettloven § 5 bokstav b og d, mot reisende i riket, skal opplysningene i § 9 første ledd gis på norsk.
+Dersom opplysningene endres, skal endringene formidles på en tydelig og forståelig måte og i fremhevet form til den reisende før avtalen inngås. Opplysningene i § 9 første ledd bokstav a, c, d, e og g skal utgjøre en integrert del av pakkereiseavtalen og kan ikke endres, med mindre partene uttrykkelig avtaler endringer.
+Der den reisendes navn, betalingsopplysninger og e-postadresser er videresendt fra arrangøren til en eller flere andre næringsdrivende etter § 6 første ledd bokstav b nr. 5, skal alle de næringsdrivende gi opplysningene i § 9 første ledd for sin reisetjeneste.
+Departementet kan i forskrift gi nærmere bestemmelser om hvordan opplysningsplikten skal oppfylles, herunder om standardiserte opplysningsskjemaer.
