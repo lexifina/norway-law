@@ -1,0 +1,6 @@
+# § 2-3. Omsetningsfall
+(1) Med stort omsetningsfall menes fall i omsetningen på 30 prosent eller mer i tilskuddsperioden sammenlignet med sammenligningsperioden. Omsetningsfallet skal hovedsakelig skyldes koronapandemien.
+(2) Foretak som er registrert mindre enn ett år tidligere enn perioden det søkes tilskudd for, skal bruke omsetning i kalendermånedene januar og februar 2020 som grunnlag for beregning av omsetningsfallet. Det samme gjelder for foretak som er registrert mer enn ett år tidligere enn den perioden det søkes om tilskudd for, men som ikke hadde omsetning i tilsvarende periode året før.
+(3) Foretak som har vært del av en fusjon i sammenligningsperioden eller senere, kan for sammenligningsperioden medregne omsetningen fra overdragende selskap.
+(4) Foretak som har vært overdrager eller overtaker i fisjon som er registrert gjennomført i Foretaksregisteret i perioden 1. september 2019 til 31. desember 2019, skal bruke omsetningen i kalendermånedene januar og februar 2020 som grunnlag for beregning av omsetningsfallet.
+(5) Foretak som har vært overdrager eller overtaker i fisjon som er registrert gjennomført i Foretaksregisteret i perioden 1. januar til 29. februar 2020, og som ikke omfattes av unntakene i § 1-3 annet ledd bokstav a–c, skal bruke omsetningen etter fisjon i denne perioden som grunnlag for beregning av omsetningsfallet.
