@@ -1,0 +1,3 @@
+# § 5. Spesielt om nattarbeid
+Den som utfører nattarbeid om bord, skal tilbys egnet helseundersøkelse. Helseundersøkelsen skal utføres før vedkommende begynner å utføre nattarbeid og deretter med regelmessige mellomrom. Lege skal avgjøre hyppigheten av og innholdet i undersøkelsene på bakgrunn av helsetilstanden til den som utfører nattarbeid, samt belastningene som vedkommende utsettes for i forbindelse med arbeidet. Rederiet skal dekke kostnadene ved helseundersøkelsen.
+Når det er nødvendig av hensyn til helsen til den som utfører nattarbeid, skal vedkommende om mulig omplasseres til annet arbeid som ikke innebærer nattarbeid.
