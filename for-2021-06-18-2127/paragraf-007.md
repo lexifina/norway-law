@@ -1,0 +1,4 @@
+# § 7. Krav til kjøretøy
+Kjøretøy som brukes i forbindelse med organisert trenings- og konkurransekjøring skal oppfylle kravene i motorsportforskriften. Lisensiert rallybil og lisensiert trial- og enduromotorsykkel skal i tillegg oppfylle kravene i kjøretøyforskriften, henholdsvis § 8-5 og § 8-6. Øvrige kjøretøy som utelukkende brukes i forbindelse med organisert trenings- og konkurransekjøring på lukket bane eller annet avsperret område, behøver ikke tilfredsstille kravene i det kjøretøytekniske regelverket.
+Med unntak av lisensiert rallybil og trial- og enduromotorsykkel er kjøretøy som brukes i forbindelse med organisert trenings- og konkurransekjøring på lukket bane eller annet avsperret område, unntatt fra krav om registrering i forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy.
+Statens vegvesen kan i særskilte tilfeller forby bruk av kjøretøy og konkurranseformer.
