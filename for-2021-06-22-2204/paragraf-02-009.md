@@ -1,0 +1,2 @@
+# § 2-9. Rett til permisjon ifm fødsel og omsorg for barn
+En student som får barn under studiene, har rett til permisjon fra studiene under svangerskapet og til omsorg for barn. I permisjonsperioden har studenten fortsatt status som student ved fagskolen og har rett til å gjenoppta utdanningen på samme nivå som før permisjonen. Fagskolen skal legge til rette for at slike studenter kan gjenoppta utdanningen så raskt som mulig etter endt permisjon. Retten til permisjon gjelder tilsvarende ved adopsjon. Frist for ferdigstillelse er to år etter påbegynt permisjon.
