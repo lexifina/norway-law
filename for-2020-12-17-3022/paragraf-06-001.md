@@ -1,0 +1,2 @@
+# § 6-1. Utanrettsleg gjeldsordning ved økonomiske vanskar
+Låntakarar med økonomiske vanskar kan søkje om utanrettsleg gjeldsordning. Søknaden skal rettast til Statens innkrevjingssentral. Søknaden skal innehalde dokumenterte opplysningar om inntekta, formuen, gjelda og levekostnadene til låntakaren, og det skal stå kor mange barn han eller ho har. Søknaden skal innehalde tilsvarande opplysningar om ektefellen eller sambuaren i tillegg til anna som kan ha noko å seie for saka.
