@@ -1,0 +1,2 @@
+# § 2. Krav til aktsomhet
+Enhver som fører et fartøy skal utvise forsiktighet og avpasse farten etter sikt- og farvannsforholdene, fartøyets størrelse, konstruksjon og manøvreringsevne, slik at det ikke ved bølgeslag eller på annen måte oppstår fare eller voldes skade eller ulempe for personer, herunder badende, kano- og kajakkpadlere, andre fartøyer, kaier, akvakulturanlegg, strandlinjer, dyre- og fugleliv og omgivelsene for øvrig.
