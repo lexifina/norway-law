@@ -1,0 +1,5 @@
+# § 6-4. Forfall for krav om tilbakebetaling og overtredelsesgebyr
+(1) Krav om tilbakebetaling etter § 6-2 og § 6-3 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.
+(2) Før utbetaling av tilskudd skjer etter § 6-1 første ledd, kan krav på tilbakebetaling likevel motregnes i utbetalingsbeløpet selv om tilbakebetalingskravet ikke er forfalt etter første ledd.
+(3) Overtredelsesgebyr ilagt etter lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet § 10 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om å ilegge sanksjon er ute, eller ved klage, tre uker etter at klagen er avgjort. Dersom søker eller tredjepart akter å prøve vedtakets gyldighet for domstolene, skal vedtaket etter anmodning ikke iverksettes før tre uker etter utløpet av søksmålsfristen eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.
+(4) Tilbakebetaling av tilskudd etter § 3-1 fjerde ledd forfaller til betaling tre uker etter at erstatning er mottatt.
