@@ -1,0 +1,4 @@
+# § 4-1. Om konsernsøknad
+(1) Konsern må utpeke et foretak som er ansvarlig for å opplyse om konsernets eierstruktur og konsernets øvrige innsendte opplysninger. Det må utpekes en kontaktperson i dette foretaket. Alle foretak må i søknaden opplyse om de inngår i et konsern, og om ansvarlig foretak i konsernet.
+(2) Et konsern kan søke om tilskudd samlet som om konsernet var ett foretak. Ved slik søknad skal konsernets merkostnader etter § 2-2 i denne forskrift ta utgangspunkt i en konsolidert oppstilling for foretakene som omfattes av konsernsøknaden, jf. bestemmelsen i § 5-6.
+(3) Dersom det ikke søkes samlet for konsernet etter bestemmelsen i annet ledd, kan det ikke i beregningen av merkostnader, jf. § 2-2, for de enkelte foretakene i konsernet tas med kostnader som er fordelt mellom konsernets foretak gjennom internfakturering.

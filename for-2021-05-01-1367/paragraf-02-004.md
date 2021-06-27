@@ -1,0 +1,8 @@
+# § 2-4. Vilkår knyttet til arbeids- eller oppdragstakerne det søkes om kompensasjon for
+Følgende vilkår må være oppfylt for arbeids- og oppdragstakerne etter § 3-1 første ledd:
+a) De gjeldende registrerings- og rapporteringspliktene etter A-opplysningsloven som knytter seg til arbeidstakerne etter § 1-3 skal være overholdt for tilskuddsperioden. Det tilsvarende gjelder for oppdragstakerne etter § 1-3. Kravet i dette ledd gjelder ikke arbeidstakere og oppdragstakere på skip hvor vilkårene for tilskudd for øvrig er oppfylt.
+b) For oppdragstakere som er å anse som arbeidstaker for et utenlandsk foretak som ikke er registrert i Enhetsregisteret, kreves det at oppdraget og oppdragstakeren skal være meldt inn til Oppdrags- og arbeidsforholdsregisteret under Skatteetaten.
+c) Oppdragstakere som er selvstendig næringsdrivende etter § 1-3 andre ledd annet punktum må være registrert i Enhetsregisteret.
+d) Arbeid utført av arbeids- eller oppdragstakerne knyttet til innreisekarantenen det søkes om tilskudd for etter denne forskrift, må ha blitt gjennomført på norsk territorium, på norskregistrert skip, i norsk økonomisk sone, eller på norsk sokkel. For skip som frakter gods eller passasjerer til eller fra Norge, eller skal drive fiske eller fangst utenfor norsk økonomisk sone eller norsk sokkel, er det tilstrekkelig at arbeidet påbegynner i nevnte områder.
+e) Arbeids- eller oppdragstaker har vært pålagt innreisekarantene av staten i tilskuddsperioden etter § 1-1 ifb. covid-19-pandemien, jf. covid-19-forskriften eller annen forskrift med hjemmel i smittevernloven.
+f) Innreisekarantenen for arbeids- eller oppdragstakerne det søkes om kompensasjon for, skal ha blitt gjennomført i fastlands-Norge.
