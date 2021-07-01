@@ -1,0 +1,2 @@
+# § 6
+Enhver som i stillings medfør eller i medhold av bestemmelser i denne forskrift har adgang til å gjøre seg kjent med opplysninger i registeret om noens personlige forhold, er pliktig til å bevare taushet om det han eller hun får kjennskap til. Taushetsplikten gjelder også etter at tjenesten eller arbeidet er avsluttet. Opplysninger som nevnt i første punktum kan heller ikke utnyttes i egen virksomhet eller i tjeneste eller arbeid for andre.

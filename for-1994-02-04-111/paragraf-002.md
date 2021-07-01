@@ -1,0 +1,4 @@
+# § 2
+Registeret skal omfatte alle personer som bor på Svalbard. En person regnes for å bo på Svalbard når han eller hun har tatt opphold på øygruppen og har til hensikt å oppholde seg der i minst 6 måneder.
+En person regnes for å ha flyttet fra Svalbard fra og med det år personen har oppholdt seg utenfor Svalbard mer enn 183 dager i en tolvmånedersperiode.
+Annet ledd gjelder ikke sjøfolk, personer under utdanning, vernepliktige mannskaper og sivilarbeidere under førstegangstjeneste, innsatte i fengsel, innlagte på sykehus eller medlemmer av storting eller regjering, med mindre bostedsforholdene endrer seg slik at det er naturlig å regne dem som boende utenfor Svalbard. Personer under utdanning som velger å la seg registrere på nytt bosted ved studiested i Norge, skal likevel regnes for å ha flyttet fra Svalbard.

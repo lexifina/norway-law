@@ -1,0 +1,6 @@
+# § 4
+Enhver som omfattes av § 2, skal innen 8 dager etter oppholdets begynnelse melde seg til registerfører og vise fram pass eller tilsvarende legitimasjonsdokument. Dersom det først etter oppholdets begynnelse blir klart at dette vil vare ut over 6 måneder, skal melding sendes snarest mulig etter slik avklaring. Melding skal skrives på skjema fastsatt av registerfører. På samme måte plikter enhver å sende melding dersom det inntrer endringer i de opplysninger som er nevnt i § 3. Ved flytting fra Svalbard må melding sendes senest ved avreise.
+Vergen eller nærmeste pårørende er ansvarlig for at meldinger som nevnt i første ledd også blir sendt for barn og personer som er fratatt rettslig handleevne. Ved fødsel og dødsfall påhviler plikten også legen, eventuelt jordmoren dersom det ikke var lege til stede ved fødselen.
+Registerfører kan kreve at opplysninger som nevnt i § 3, jf. § 4 første og annet ledd bekreftes årlig.
+Registerfører kan treffe vedtak, om at en person strykes i registeret, når det foreligger opplysninger fra fastlandskommune om flytting fra Svalbard eller når meldeplikt som nevnt i § 4 første, annet eller tredje ledd ikke er overholdt. Registerførers avgjørelse om å stryke en person i registeret er et enkeltvedtak, jf. forvaltningsloven § 2b.
+Klageorgan er Skattedirektoratet.
