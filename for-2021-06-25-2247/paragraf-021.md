@@ -1,0 +1,4 @@
+# § 21. Klassifikasjon av modifikasjoner og reparasjoner
+Modifikasjoner og reparasjoner skal klassifiseres som større eller mindre. Klassifikasjoner skal inngå som del av dokumentasjonen for den aktuelle modifikasjonen eller reparasjonen.
+En større modifikasjon er en endring av flymateriell som har en effekt på vekt og balanse, operative egenskaper, strukturell styrke, ytelse eller andre egenskaper som kan påvirke flymateriellets luftdyktighet eller miljødyktighet. En mindre modifikasjon er en annen endring av flymateriell enn en større modifikasjon.
+En større reparasjon er en utbedring av skade som har en effekt på vekt og balanse, operative egenskaper, strukturell styrke, ytelse eller andre egenskaper som kan påvirke flymateriellets luftdyktighet eller miljødyktighet. En mindre reparasjon er en annen utbedring av skade enn en større reparasjon.

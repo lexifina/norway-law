@@ -1,0 +1,3 @@
+# § 9. Selverklæring for Part-145, CAMO og CAO
+Organisasjon med godkjenning som Part-145, CAMO eller CAO etter vedlikeholdsforordningen, har tilsvarende rettigheter til å utføre oppgaver for luftfartøy som kommer inn under denne forskriften. Organisasjonen må ved selverklæring til Luftfartstilsynet bekrefte at de har etablert prosedyrer for å ivareta vedlikehold eller luftdyktigheten for luftfartøy omfattet av denne forskriften. Gjennom selverklæringen får organisasjonen status som en N-Part-145, N-CAMO eller N-CAO.
+Luftfartstilsynet kan bestemme at en selverklæring ikke skal være gyldig dersom det gjennom tilsyn eller på annen måte avdekkes at organisasjonen ikke ivaretar luftdyktigheten for luftfartøy etter denne forskriften.
