@@ -1,0 +1,3 @@
+# § 12. Krav til operativ organisasjon
+Fly med maksimal avgangsvekt over 5700 kg, fly med turbojetmotor med maksimal avgangsvekt over 2730 kg, fly med stempelmotor med mer enn 800 hestekrefter og helikopter med maksimal avgangsvekt over 3175 kg, skal drives av en operativ organisasjon. Med operativ organisasjon menes en organisasjon med ansvar for at flygingen skjer i henhold til regelverket og godkjenninger som gjelder for luftfartøyet.
+Luftfartstilsynet kan også stille krav om en operativ organisasjon for driften av andre luftfartøy, dersom tekniske eller operative egenskaper ved fartøyet tilsier det.
