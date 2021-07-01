@@ -1,0 +1,5 @@
+# § 8. Krav til rapportering og regnskap fra mottaker av tilskudd
+Sekretariatet fastsetter krav til rapporter fra mottakere av tiltaksmidler. Det kan kreves revisorattester fra ikke-statlige mottakere.
+Sluttrapport skal foreligge senest tre måneder etter at tiltaket er gjennomført. Sluttrapporten skal inneholde regnskapsoversikt over kostnader og finansiering satt opp som sekretariatet har fastsatt, jf. forskriften § 4, og orientering om tiltaket er gjennomført etter forutsetningene eller om det ble foretatt eventuelle justeringer og endringer underveis i prosjektet og begrunnelse for dette dersom de ikke er dokumentert avtalt med sekretariatet. Sluttrapporten skal også innholde resultatet av prosjektet og ev. data fra undersøkelser som er utført som en del av prosjektet.
+Det kan gjøres unntak fra kravene i andre ledd dersom særlige grunner taler for det.
+I de tilfellene der det er fastsatt delutbetaling, bør det normalt kreves statusrapport med foreløpig regnskap, før terminutbetalingene, jf. forskriften § 7.
