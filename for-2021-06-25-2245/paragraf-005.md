@@ -1,0 +1,2 @@
+# § 5. Avvik
+I eksportluftdyktighetsbeviset skal det oppgis som avvik dersom det er forskjeller i konfigurasjon mellom luftfartøyet, flymotoren eller flypropellen, og tilhørende typesertifikat. Det skal også oppgis som avvik dersom luftdyktighetskrav til luftfartøy, flymotor eller flypropell ikke er oppfylt. Dersom importstaten har gitt bekreftelse som nevnt i § 4 andre ledd, må avvik ikke oppgis på dokumentet.

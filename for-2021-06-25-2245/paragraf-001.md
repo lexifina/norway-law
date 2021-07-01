@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Forskriften gjelder for eksport av flymotor, flypropell og bemannet norskregistrert luftfartøy som skal eksporteres til et land utenfor EU-/EØS-området eller Sveits (tredjeland). Det er en forutsetning at flymotoren, flypropellen eller luftfartøyet er i henhold til typespesifikasjon.
+Forskriften gjelder også for eksport av flymotor, flypropell og bemannet norskregistrert luftfartøy med luftdyktighetsbevis etter forskrift 25. juni 2021 nr. 2246 om nasjonal sertifisering av luftfartøy, ved eksport til et EU/EØS-land eller Sveits. Det er en forutsetning at flymotoren, flypropellen eller luftfartøyet er i henhold til typespesifikasjon.
