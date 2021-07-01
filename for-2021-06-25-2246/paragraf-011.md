@@ -1,0 +1,3 @@
+# § 11. Luftdyktighetsbevis
+Luftfartstilsynet utsteder luftdyktighetsbevis når et luftfartøy etter en konkret vurdering anses som luftdyktig. Vurderingen skal gjøres på grunnlag av mottatt dokumentasjon og de opplysninger som fremkommer gjennom eventuell besiktigelse.
+For luftfartøy i normalklassen utstedes det luftdyktighetsbevis. For luftfartøy i eksperimental-klassen utstedes det særskilt luftdyktighetsbevis. For amatørbygd luftfartøy utstedes det særskilt luftdyktighetsbevis, amatørbygd. Luftfartstilsynet kan når det er nødvendig av hensyn til flysikkerheten, fastsette operative eller tekniske begrensninger i særskilt luftdyktighetsbevis og særskilt luftdyktighetsbevis, amatørbygd.

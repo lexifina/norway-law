@@ -1,0 +1,2 @@
+# § 37. Tilbakekall av særskilt flygetillatelse for prøveflyging
+Hvis det foreligger opplysninger eller omstendigheter som tyder på at vilkårene i den særskilte flygetillatelsen for prøveflyging eller bestemmelsene i denne forskriften er brutt, kan Luftfartstilsynet endre og om nødvendig tilbakekalle en særskilt flygetillatelse for prøveflyging. Det samme gjelder hvis det foreligger opplysninger som kan tyde på at luftfartøyet ikke har slike egenskaper at prøveflyging kan gjennomføres innenfor risikovurderingen.
