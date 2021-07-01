@@ -1,0 +1,2 @@
+# § 28b. (human høsting og sanking)
+Den som under jakt eller forsøk på felling skadeskyter svalbardrein eller sel plikter å gjøre det en kan for å avlive dyret snarest mulig. Vedkommende plikter å forvisse seg om påskutt dyr er truffet eller ikke. Ved reinsjakt plikter jegeren å drive ettersøk ut den dagen dyret ble påskutt. Dersom pliktig ettersøk første dag er uten resultat skal jeger underrette Sysselmesteren eller jaktoppsyn. Jeger kan av Sysselmesteren pålegges å delta i videre ettersøk.

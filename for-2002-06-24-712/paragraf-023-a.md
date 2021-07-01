@@ -1,0 +1,2 @@
+# § 23a. (forvaltningsplan)
+For å fremme en forvaltning av røye på Svalbard slik at naturlig produktivitet, mangfold og leveområder bevares, kan det utarbeides en forvaltingsplan for et vassdrag eller et fiskeområde der det finnes hensiktsmessig. Forvaltningsplanen utarbeides av Sysselmesteren, med bistand fra brukerne og forskningsmiljø. Forvaltningsplanen bør inneholde oversikt over fiskeressursene i det aktuelle område og mengden av fisk som kan tas opp, fiskeregler og redskapsbruk. Sysselmesteren fastsetter fiskeplanens varighet.

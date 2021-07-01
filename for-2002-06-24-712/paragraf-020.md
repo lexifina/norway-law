@@ -1,0 +1,3 @@
+# § 20. (gjennomføring av skyteprøve)
+Det skal gjennomføres 30 obligatoriske skudd på valgfri blink. Deretter skal det for hver rifle som skal benyttes under jakta skytes 5 skudd mot dyrefigur godkjent av Miljødirektoratet, med den type ammunisjon som er tillatt til jakt på svalbardrein og sjøpattedyr. Alle skuddene mot dyrefigur må være innenfor angitt treffområde.
+Sysselmesteren er ansvarlig for at skyteprøven avholdes på Svalbard. Sysselmesteren fastsetter nærmere vilkår for gjennomføringen, og kan overlate arrangementet til lag/foreninger/personer som vurderes kvalifisert for dette. Vitnemål på standardisert skjema fastsatt av direktoratet utfylles av arrangør når skyteprøve er avlagt og bestått i tråd med denne forskriften.
