@@ -1,0 +1,2 @@
+# § 1
+Endringene i lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs § 145 annet ledd nytt annet punktum og § 146 første ledd første og annet punktum gjelder for gjeldsforhandling og konkurs som åpnes etter ikraftsettingen av lov 17. juni 2016 nr. 55 om endringer i konkursloven mv. (grenseoverskridende insolvensbehandling). Tilsvarende gjelder for rekonstruksjonsforhandling, jf. midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 § 62.
