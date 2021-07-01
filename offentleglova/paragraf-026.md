@@ -4,3 +4,4 @@ Det kan gjerast unntak frå innsyn for opplysningar om kven som skal få ein pri
 Det kan gjerast unntak frå innsyn for personbilete som er teke inn i eit personregister. Det same gjeld opplysningar som er innhenta ved vedvarande eller regelmessig gjenteken personovervaking.
 Det kan gjerast unntak frå innsyn for opplysningar om forskingsidear og forskingsprosjekt i sak som gjeld økonomisk stønad eller rådgjeving frå det offentlege i samband med forskingsprosjekt.
 Det kan gjerast unntak frå innsyn for fødselsnummer og nummer med tilsvarande funksjon.
+Det kan gjerast unntak frå innsyn for samanstillingar av og oversikter over personopplysningar som blir utarbeidde som ei direkte følgje av innsynskrav etter personvernforordninga artikkel 15.
