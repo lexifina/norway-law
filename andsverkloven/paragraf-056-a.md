@@ -1,0 +1,2 @@
+# § 56 a. Nærmere regler for gjennomføring av Marrakechtraktaten og Marrakechdirektivet
+Departementet kan i forskrift gi bestemmelser om at nærmere angitt organisasjon kan fremstille, importere og utveksle eksemplar av offentliggjort litterært verk, herunder lydopptak, som er tilrettelagt for bruk for blinde, syns- og lesehemmede, til berettigede enkeltpersoner og til nærmere angitt organisasjon i et annet land, herunder overføring av tilpasset åndsverk slik at den enkelte selv kan velge tid og sted for tilgang til verket.
