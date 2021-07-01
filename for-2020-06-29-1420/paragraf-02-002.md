@@ -1,0 +1,2 @@
+# § 2-2. Lovlig aktivitet
+Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asbestfjerning, skal være godkjent og registrert hos Arbeidstilsynet etter gjeldende regler. Kjøretøyverksteder skal være oppført i Statens vegvesens register. Elektrikervirksomheter skal være registrert i Elvirksomhetsregisteret. Foretak skal ellers ha de tillatelser, godkjenninger eller bevillinger som kreves for driften.
