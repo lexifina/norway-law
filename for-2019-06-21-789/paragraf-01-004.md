@@ -1,0 +1,2 @@
+# § 1-4. Personvernforordningen, personopplysningsloven og helseregisterloven
+Personopplysningsloven, personvernforordningen (jf. personopplysningsloven § 1) og helseregisterloven gjelder for behandling av helseopplysninger i medisinske kvalitetsregistre. Behandlingsgrunnlaget for de medisinske kvalitetsregistrene som forskriften omfatter er personvernforordningen artikkel 6 nr. 1 bokstav e og denne forskriften.
