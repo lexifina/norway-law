@@ -1,0 +1,2 @@
+# § 10. Tilbakebetaling av utbetalt tilskudd
+Dersom en finner at tilskuddet er brukt i strid med forutsetningene for tilskuddet, kan styret vedta at tilskuddet skal kreves tilbakebetalt. Mottaker av midlene skal skriftlig underrettes om dette snarest mulig med en rimelig frist for tilbakebetaling. Kravet følges opp i samsvar med Bestemmelser om økonomistyring i staten kapitlene 5.4.2.5, 5.4.3, 5.4.4 og 5.4.5.

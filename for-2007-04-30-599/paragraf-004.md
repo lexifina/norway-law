@@ -1,0 +1,7 @@
+# § 4. Krav til søknaden
+Søknaden skal angi hvem som står ansvarlig for gjennomføring av tiltaket det søkes om midler til. Navn, adresse og telefonnummer for vedkommende må framgå av søknaden. For norske virksomheter skal organisasjonsnummer oppgis. Det må oppgis bankkontonummer som tilskuddet skal overføres til.
+Søknaden må inneholde en beskrivelse av formålet med tiltaket og en tilstrekkelig utfyllende beskrivelse av tiltaket og gjennomføringen av det, samt framdriftsplan.
+Ved søknader som gjelder tiltak av komplisert teknisk eller annen faglige art, må det godtgjøres at søker har nødvendig kompetanse til å gjennomføre tiltaket.
+Søknaden må inneholde et realistisk kostnadsoverslag for gjennomføring av tiltaket, en finansieringsplan og søknadssum. Disse må eventuelt periodiseres dersom gjennomføringen av tiltaket strekker seg over mer enn et år. Sekretariatet fastsetter nærmere krav til spesifikasjon av kostnadene ved tiltakene som det søkes om midler til. Dersom det i finansieringsplanen forutsettes bidrag, lån og lignende fra andre enn Svalbards miljøvernfond og egeninnsats, må disse spesifiseres med beløp, og det må angis hvor sikre disse inntektskildene er. Skriftlig bekreftelse på at slike deler av finansieringsplanen er sikret, må skje før sekretariatet leverer sin innstilling til styret, jf. forskriften § 5.
+Søknader sendes inn gjennom gjeldende elektroniske søknadssystem.
+Det må i søknaden opplyses om ev. hjemler for at resultatene fra prosjektet/tiltaket ikke kan gjøres offentlig kjent.
