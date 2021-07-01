@@ -1,0 +1,2 @@
+# § 1. Oppgåver og formål for Patentstyret
+Patentstyret skal behandle saker om industrielle rettar som fastsett i patentloven, foretaksnavneloven, designloven, varemerkeloven og edelmetalloven. Patentstyret skal også føre tilsyn med kollektive forvaltningsorganisasjonar etter lov om kollektiv forvaltning av opphavsrett mv. og behandle saker om godkjenning av organisasjonar etter åndsverkloven § 63. Patentstyret kan utføre informasjonstenester og skal elles leggje til rette for innovasjon og verdiskaping ved å vere eit kompetansesenter for immaterialrettar.

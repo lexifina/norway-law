@@ -1,0 +1,3 @@
+# § 6. Habilitet
+Domstollova §§ 106 til 108 gjeld tilsvarande for dei tilsette i Patentstyret og dei tilsette og medlemmene i Klagenemnda ved behandling av saker etter lovgivinga om industrielt rettsvern. Det same gjeld for behandling av saker i Patentstyret etter lov om kollektiv forvaltning av opphavsrett mv. og etter åndsverkloven § 63.
+Ein tilsett i Patentstyret eller ein tilsett i eller eit medlem av Klagenemnda kan ikkje delta i behandlinga av eit krav om administrativ overprøving når overprøvingssaka gjeld ein industriell rett som vedkomande har vore med på å behandle i tidlegare sak. Dette gjeld likevel ikkje dersom overprøvingssaka berre gjeld spørsmål som ikkje var aktuelle i den tidlegare saka.

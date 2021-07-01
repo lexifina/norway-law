@@ -1,0 +1,5 @@
+# § 9. Sakskostnader i saker om administrativ overprøving
+I sak om administrativ overprøving kan ein part som fullt ut eller i det vesentlege har fått medhald, tilkjennast nødvendige sakskostnader frå motparten. Det skal mellom anna leggjast vekt på om det var god grunn til å få saka prøvd fordi ho var tvilsam, og om det er rimeleg ut frå typen sak og tilhøva hos motparten å påleggje kostnadsansvar. Ved administrativ overprøving etter designloven og foretaksnavneloven kan det berre tilkjennast sakskostnader i klagesaker.
+Krav om dekning av sakskostnader må fremjast før saka blir avgjord. Patentstyret eller Klagenemnda skal avgjere spørsmålet samtidig med realiteten i saka.
+Dersom ei klage heilt eller delvis fører fram, kan Klagenemnda òg endre avgjerda i Patentstyret når det gjeld sakskostnader. Avgjerda om sakskostnader i Patentstyret kan påklagast særskilt til Klagenemnda. Slik klage avgjer leiaren i Klagenemnda aleine.
+Tilkjende sakskostnader kan drivast inn med tvang etter reglane for dommar.

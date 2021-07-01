@@ -1,0 +1,2 @@
+# § 8. Sakkunnige
+Patentstyret og Klagenemnda kan bruke sakkunnige. Ein som ville ha vore inhabil til å ta avgjerd i saka, kan ikkje brukast som sakkunnig. Ein som har vore sakkunnig under behandlinga av ein søknad i Patentstyret, kan likevel brukast som sakkunnig ved klagebehandling, administrativ patentavgrensing og administrativ overprøving. Sakkunnige kan innkallast til møte eller munnlege forhandlingar i saka. Dei kan også ta del i rådslagingar, men ikkje i stemmegiving.
