@@ -1,0 +1,5 @@
+# § 1
+Kongen kan bestemme at varer og teknologi som kan være av betydning for andre lands utvikling, produksjon eller anvendelse av produkter til militært bruk eller som direkte kan tjene til å utvikle et lands militære evne, samt varer og teknologi som kan benyttes til å utøve terrorhandlinger, jf. straffeloven § 131, ikke må utføres fra Norge uten særskilt tillatelse. Det kan også settes forbud mot at det uten særskilt tillatelse ytes tjenester som nevnt i første punktum. Det kan settes vilkår for tillatelsene.
+Kongen kan likeså sette forbud mot at personer som har bopel eller oppholdssted i Norge og norske selskaper, stiftelser og sammenslutninger uten særskilt tillatelse driver handel med, formidler eller på annen måte bistår ved salg av våpen og militært materiell fra et fremmed land til et annet. Tilsvarende gjelder for strategiske varer og teknologi som er nærmere angitt i forskrift.
+Loven gjelder for Svalbard og Jan Mayen. Kongen kan gi forskrift om lovens anvendelse for de norske bilandene.
+Kongen gir nærmere forskrifter til utfylling og gjennomføring av loven.
