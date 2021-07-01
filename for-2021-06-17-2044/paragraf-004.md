@@ -1,0 +1,4 @@
+# § 4. Hjemmeeksamen – Omfang, vurderingsformer og gyldighet
+(1) Hjemmeeksamen består av to deler: oversettelse av en allmennspråklig tekst (del 1) og en refleksjonstekst i tilknytning til oversettelsen (del 2). Karakterene som benyttes for hjemmeeksamen, er bestått/ikke bestått. Begge deler av hjemmeeksamen må være bestått før det gis adgang til å gå opp til skriftlig skoleeksamen, se også tredje ledd.
+(2) Prøve 1 (fra norsk til fremmedspråk) og prøve 2 (fra fremmedspråk til norsk) vurderes separat. Under prøve 1 (fra norsk til fremmedspråk) kan begge målformene i norsk forekomme.
+(3) Bestått hjemmeeksamen har gyldighet frem til og med det første semesteret skoleeksamen gjennomføres. Har kandidaten da gyldig forfall, utvides perioden den tidligere beståtte hjemmeeksamen er gyldig med inntil fire påfølgende semestre.
