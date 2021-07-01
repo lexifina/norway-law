@@ -1,0 +1,2 @@
+# § 28. Lisensvilkår mv.
+Lisensvilkårene skal baseres på objektive og ikke-diskriminerende kriterier. Vederlaget for tillatt bruk skal være rimelig. I vurderingen av om vederlaget er rimelig skal det blant annet legges vekt på om tariffene står i et rimelig forhold til brukens økonomiske handelsverdi, både med hensyn til arten og omfanget av bruken, og den økonomiske verdien av tjenesten som den kollektive forvaltningsorganisasjonen leverer. En kollektiv forvaltningsorganisasjon skal informere brukere om kriteriene som er brukt for å fastsette tariffene.

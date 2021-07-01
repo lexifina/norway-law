@@ -1,0 +1,5 @@
+# § 10. Regler for medlemskap i kollektive forvaltningsorganisasjoner
+En kollektiv forvaltningsorganisasjon skal godta rettighetshavere og organisasjoner som representerer rettighetshavere som medlemmer, dersom de oppfyller kravene til medlemskap, som skal være basert på objektive, åpne og ikke-diskriminerende kriterier. Kravene til medlemskap skal fremgå av den kollektive forvaltningsorganisasjonens vedtekter eller medlemsvilkår og skal gjøres offentlig tilgjengelig. Avslag på søknad om medlemskap skal begrunnes.
+Vedtektene til en kollektiv forvaltningsorganisasjon skal sikre at medlemmene får ta del i beslutningsprosesser i organisasjonen. Har en kollektiv forvaltningsorganisasjon forskjellige kategorier av medlemmer, skal disse være representert på en rimelig og balansert måte i beslutningsprosessen.
+En kollektiv forvaltningsorganisasjon skal gi sine medlemmer mulighet til å kommunisere elektronisk med organisasjonen og til å utøve sine medlemsrettigheter elektronisk.
+En kollektiv forvaltningsorganisasjon skal føre register over sine medlemmer og holde registrene oppdatert.

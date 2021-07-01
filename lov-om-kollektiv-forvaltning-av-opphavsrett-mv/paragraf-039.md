@@ -1,0 +1,3 @@
+# § 39. Innsyn i repertoar
+En kollektiv forvaltningsorganisasjon skal, etter en begrunnet forespørsel fra en tilbyder av en nettbasert tjeneste, en rettighetshaver som organisasjonen representerer, eller en annen kollektiv forvaltningsorganisasjon, utlevere oppdaterte opplysninger om de musikkverkene og de rettighetene organisasjonen forvalter, og de EØS-statene som forvaltningen omfatter. Opplysningene skal gis elektronisk. Bestemmelsen i § 34 tredje ledd om betaling gjelder tilsvarende.
+Organisasjonen kan treffe rimelige tiltak for å sikre at opplysningene som gis er nøyaktige, og for å kontrollere bruken av opplysningene. Organisasjonen kan også treffe rimelige tiltak for å verne forretningsmessig sensitive opplysninger.

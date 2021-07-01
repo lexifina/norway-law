@@ -1,0 +1,5 @@
+# § 22. Tiltak for å finne rettighetshavere
+En kollektiv forvaltningsorganisasjon skal iverksette nødvendige tiltak for å identifisere og lokalisere rettighetshavere som er berettiget til vederlagsmidler.
+Dersom en rettighetshaver er ukjent eller ikke kan lokaliseres, skal den kollektive forvaltningsorganisasjonen innen tre måneder etter utløpet av fristen angitt i § 21 andre ledd gjøre opplysningene om aktuelle verk og andre vernede arbeider tilgjengelig for de medlemmene som den kollektive forvaltningsorganisasjonen representerer og for andre kollektive forvaltningsorganisasjoner som det er inngått representasjonsavtale med.
+Opplysningene skal så langt det er mulig omfatte tittel på verk eller arbeider, navn på rettighetshaveren, forlegger og utgiver samt andre relevante opplysninger som kan bidra til å finne frem til rettighetshaveren.
+Dersom rettighetshaveren ikke er funnet innen ett år etter utløpet av fristen etter andre ledd, skal opplysningene gjøres tilgjengelig for allmennheten.

@@ -1,0 +1,6 @@
+# § 36. Årlig åpenhetsrapport
+En kollektiv forvaltningsorganisasjon skal årlig avgi en rapport om sin virksomhet. Rapporten skal offentliggjøres på organisasjonens nettsted senest åtte måneder etter regnskapsårets slutt og være tilgjengelig for allmennheten i minst fem år.
+Rapporten skal inneholde en delrapport knyttet til bruken av de fradragene som etter § 20 fjerde ledd er gjort i inntekter fra rettigheter for å oppfylle sosiale, kulturelle og utdanningsmessige formål.
+Regnskapsopplysningene i den årlige rapporten skal revideres av én eller flere revisorer som er godkjent i henhold til revisorloven § 3-1 første ledd. Hele revisjonsberetningen, med eventuelle forbehold til denne, skal tas inn i rapporten.
+Departementet kan i forskrift fastsette krav til hvilke opplysninger som skal gis i rapporten i samsvar med vedlegg til europaparlaments- og rådsdirektiv 2014/26/EU om kollektiv forvaltning av opphavsrett og nærståande rettar og multiterritoriell lisensiering av rettar til musikkverk for bruk på nettet i den indre marknaden.
+Åpenhetsrapporter som utarbeides av medlemsorganisasjonene, skal offentliggjøres og være tilgjengelige både på medlemsorganisasjonens nettsted og den kollektive forvaltningsorganisasjonens nettsted i minst fem år. Medlemsorganisasjonene skal sikre at deres medlemmer gis mulighet til å godkjenne åpenhetsrapporten.

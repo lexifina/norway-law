@@ -1,0 +1,2 @@
+# § 47. Rett til grensekryssende lisensiering
+En rettighetshaver som har gitt en kollektiv forvaltningsorganisasjon fullmakt til å representere nettrettigheter til musikkverk ved grensekryssende lisensiering, kan tilbakekalle fullmakten dersom organisasjonen ikke tildeler eller tilbyr lisensavtaler og den heller ikke har overlatt dette til en annen kollektiv forvaltningsorganisasjon gjennom en representasjonsavtale. Rettighetshaveren kan velge å la den kollektive forvaltningsorganisasjonen beholde nettrettigheter til musikkverk for lisensiering i én enkelt stat.

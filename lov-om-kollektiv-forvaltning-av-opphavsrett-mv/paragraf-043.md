@@ -1,0 +1,7 @@
+# § 43. Fordeling og utbetaling av vederlag til rettighetshaverne
+En kollektiv forvaltningsorganisasjon skal uten opphold etter å ha mottatt opplysninger som nevnt i § 41 andre ledd, utbetale vederlag til rettighetshaveren, med mindre dette ikke er mulig på grunn av forhold som skyldes tilbyderen av den nettbaserte tjenesten.
+I forbindelse med hver enkelt utbetaling skal organisasjonen oppgi følgende opplysninger til rettighetshaveren:
+a) perioden hvor bruken av rettighetene fant sted, og EØS-statene bruken er knyttet til
+b) rettighetsvederlag som er innkrevd, fradrag som er gjort, og fordelt vederlag for hver nettrettighet til musikkverk som rettighetshaveren har gitt organisasjonen fullmakt til å representere
+c) rettighetsvederlag som er innkrevd, fradrag som er gjort, og fordelt vederlag for hver nettbasert tjeneste organisasjonen har inngått lisensavtale med.
+I tilfeller hvor en kollektiv forvaltningsorganisasjon har gitt en annen kollektiv forvaltningsorganisasjon fullmakt til å representere nettrettigheter til musikkverk som den forvalter, skal organisasjonen som er gitt fullmakten, uten opphold fordele vederlaget og gi de opplysningene som er nevnt i andre ledd, til den andre organisasjonen. Den kollektive forvaltningsorganisasjonen som har gitt fullmakten, har ansvaret for at beløpet blir utbetalt til rettighetshaverne sammen med opplysningene som nevnt i andre ledd, om ikke annet er avtalt organisasjonene imellom.

@@ -1,0 +1,4 @@
+# § 25. Fordeling og utbetaling av rettighetsvederlag ved representasjonsavtaler
+En kollektiv forvaltningsorganisasjon skal regelmessig fordele og utbetale til andre kollektive forvaltningsorganisasjoner vederlagene som tilfaller dem. Dette skal skje på en betryggende og nøyaktig måte.
+Utbetalingen til den andre kollektive forvaltningsorganisasjonen skal foretas uten ugrunnet opphold, og senest ni måneder etter utgangen av det regnskapsåret da vederlagene ble krevd inn, med mindre det er saklig grunn til at fristen ikke kan overholdes.
+Den kollektive forvaltningsorganisasjonen som mottar rettighetsvederlag etter andre ledd, skal fordele og utbetale vederlaget uten ugrunnet opphold, og senest seks måneder etter at vederlaget er mottatt, med mindre det er saklig grunn til at fristen ikke kan overholdes.
