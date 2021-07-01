@@ -6,7 +6,7 @@ c) behovet for å få dekket tap og oppkapitalisert foretaket som nevnt i boksta
 d) foretakets størrelse, forretningsmodell, finansieringsstruktur og risikoprofil,
 e) i hvilken utstrekning innskuddsgarantiordningen kan bidra til finansiering av krisehåndteringen etter § 20-54, og
 f) i hvilken utstrekning en krise i foretaket må antas å ha negative virkninger for den finansielle stabiliteten.
-(2) Finanstilsynet kan ved fastsettelsen av minstekravet etter første ledd beslutte at kravet delvis skal oppfylles med gjeldsinstrumenter med lavere prioritet enn annen gjeld.
+(2) Finanstilsynet kan ved fastsettelsen av minstekravet etter første ledd beslutte at kravet delvis skal oppfylles med gjeldsinstrumenter med lavere prioritet enn annen gjeld som oppfyller vilkårene i § 20-32 første ledd nr. 4.
 (3) Ved avgjørelsen av om et foretak oppfyller minstekravet etter første ledd, skal gjeldsinstrumenter bare medregnes som konvertibel gjeld i den grad de er fullt innbetalt, har en gjenstående løpetid på minst ett år, og ikke er eid, garantert, sikret eller finansiert av foretaket selv.
 (4) Kredittforetak som omfattes av § 11-7, skal unntas fra reglene i paragrafen her.
 (5) Morselskap i norsk finanskonsern skal oppfylle minstekravet etter første til tredje ledd på konsolidert basis. Har konsernet datterforetak i annen EØS-stat, skal det konsoliderte minstekravet fastsettes av Finanstilsynet i samråd med kriseutvalget for konsernet etter § 20-46. Norsk konsernforetak skal oppfylle minstekravet på foretaksnivå. Minstekrav for norsk foretak som inngår i konsern med morselskap i annen EØS-stat, skal fastsettes av Finanstilsynet i samråd med kriseutvalget for konsernet.
