@@ -1,0 +1,3 @@
+# § 4. Eksportluftdyktighetsbevis – luftfartøy, flymotor og flypropell
+Luftfartstilsynet kan utstede eksportluftdyktighetsbevis for luftfartøy, flymotor og flypropell dersom luftdyktighetskravene i andre ledd er oppfylt. Et luftfartøy må være registrert i Norges luftfartøyregister.
+Luftfartøy, flymotor og flypropell skal være i henhold til typespesifikasjon. Luftfartøy skal ha gyldig luftdyktighetsbevis. Flymotor og flypropell må ha samsvarserklæring. Alt nødvendig vedlikehold skal være utført. Kravene trenger ikke være oppfylt dersom importstaten godtar avvik. Importstaten må bekrefte dette skriftlig overfor Luftfartstilsynet.
