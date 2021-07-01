@@ -1,0 +1,2 @@
+# § 267 b. Grov deling av krenkende bilder mv.
+Grov overtredelse av § 267 a første ledd straffes med fengsel inntil 2 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på karakteren og omfanget av materialet som er tilgjengeliggjort, om overtredelsen har et systematisk eller organisert preg, om den er motivert av hevn eller innebærer et tillitsbrudd, og om den har hatt til følge særlig store påkjenninger for fornærmede.
