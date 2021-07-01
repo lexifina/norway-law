@@ -1,0 +1,2 @@
+# § 31. Brukerens rapporteringsplikt
+Når rettigheter er lisensiert fra en kollektiv forvaltningsorganisasjon, plikter brukeren innen avtalt tid og i avtalt format å gi organisasjonen slik relevant informasjon som brukeren har tilgjengelig om bruken av rettighetene. Rapporteringsplikten gjelder i den utstrekning det er nødvendig for at organisasjonen kan innkreve og fordele vederlag til rettighetshavere. Når rapporteringsformat skal avgjøres, skal partene i størst mulig grad ta hensyn til frivillige bransjestandarder.

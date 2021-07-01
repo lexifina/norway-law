@@ -1,0 +1,3 @@
+# § 41. Kontroll og rapportering av faktisk bruk av rettigheter
+En kollektiv forvaltningsorganisasjon som har inngått en lisensavtale med en tilbyder av en nettbasert tjeneste om rettigheter til musikkverk, skal føre kontroll med bruken av rettighetene som omfattes av lisensen.
+Tilbyderen av den nettbaserte tjenesten plikter å rapportere til organisasjonen om den faktiske bruken av nettrettighetene til musikkverk som omfattes av avtalen. For dette formålet skal organisasjonen tilrettelegge for at tilbyderen kan rapportere elektronisk på en måte som i størst mulig grad følger frivillige bransjestandarder på området. Organisasjonen kan nekte å ta imot opplysninger som er innrapportert i andre formater enn den bransjestandarden som tilbys.

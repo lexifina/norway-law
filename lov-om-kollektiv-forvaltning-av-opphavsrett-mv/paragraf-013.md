@@ -1,0 +1,10 @@
+# § 13. Medlemmenes stemmerett
+Alle medlemmer av den kollektive forvaltningsorganisasjonen skal ha rett til å ta del i og stemme på årsmøtet. En kollektiv forvaltningsorganisasjon kan likevel fastsette begrensninger i medlemmenes rett til å delta og utøve stemmeretten på grunnlag av ett eller begge av følgende kriterier, forutsatt at disse er fastsatt og praktisert på en rimelig og forholdsmessig måte:
+a) medlemskapets varighet
+b) størrelsen på de beløpene som mottas eller tilfaller et medlem.
+Kriteriene som er fastsatt etter første ledd bokstav a og b, skal fremgå av den kollektive forvaltningsorganisasjonens vedtekter eller medlemsvilkår og skal offentliggjøres i samsvar med §§ 33 og 35.
+Alle medlemmer av en kollektiv forvaltningsorganisasjon kan utpeke en annen person eller enhet som fullmektig som kan delta og stemme på årsmøtet på deres vegne, forutsatt at slik utnevnelse ikke medfører interessekonflikter.
+En kollektiv forvaltningsorganisasjon kan i vedtektene eller medlemsvilkårene fastsette begrensninger for utpekingen av fullmektig og utøvelse av stemmeretten til medlemmene de representerer. Begrensningene må ikke gripe inn i medlemmenes mulighet for å delta i beslutningsprosessen til en kollektiv forvaltningsorganisasjon på en egnet og effektiv måte.
+Hver fullmakt er bare gyldig for ett enkelt årsmøte.
+En kollektiv forvaltningsorganisasjon kan i vedtektene bestemme at stemmeretten skal utøves av en forsamling av representanter som medlemmene i den kollektive forvaltningsorganisasjonen velger minst hvert fjerde år. Dette forutsetter at medlemmene i den kollektive forvaltningsorganisasjonen kan delta i beslutningsprosessen på en egnet og effektiv måte, og at de ulike medlemskategoriene er representert på en rimelig og balansert måte i forsamlingen av representanter.
+En kollektiv forvaltningsorganisasjon hvor medlemmene består av organisasjoner som representerer rettighetshavere, kan bestemme at alle eller noen av oppgavene til årsmøtet skal utøves av en forsamling av disse rettighetshaverne.

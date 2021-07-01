@@ -1,0 +1,3 @@
+# § 5. Rettighetshaverens rett til å velge kollektiv forvaltningsorganisasjon
+En rettighetshaver kan etter eget valg gi en kollektiv forvaltningsorganisasjon fullmakt til å forvalte rettighetshaverens rettigheter, kategorier av rettigheter eller typer verk eller andre vernede arbeider. Fullmakten skal være uttrykkelig og spesifisert.
+Med mindre den kollektive forvaltningsorganisasjonen har saklig grunn til å nekte å påta seg forvaltningen, er den forpliktet til å forvalte rettighetene, kategorier av rettigheter eller typer verk eller andre vernede arbeider, forutsatt at slik forvaltning omfattes av organisasjonens virksomhetsområde.

@@ -1,0 +1,3 @@
+# § 50. Overtredelsesgebyr
+Patentstyret kan ilegge den som overtrer §§ 4, 5, 8, 10, 12 og 13, 14 tredje til femte ledd, 15 andre og tredje ledd, 18 til 28, 32 til 36, 39, 42 til 44, 46 og 52, overtredelsesgebyr til staten beregnet etter forskrift fastsatt av departementet. Det samme gjelder ved overtredelse av forskrift gitt i medhold av loven, når det er fastsatt i forskriften at overtredelsen kan medføre slik sanksjon. Departementet kan gi forskrift om forhøyet gebyr ved gjentatt overtredelse.
+Departementet kan gi forskrift om gjennomføringen av bestemmelsene i denne paragrafen, herunder om inndrivelse og om betalingsfrist. Det kan i forskrift fastsettes at det skal betales renter av ilagt overtredelsesgebyr.

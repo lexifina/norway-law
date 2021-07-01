@@ -1,0 +1,3 @@
+# § 42. Fakturering av tilbydere av nettbaserte tjenester
+En kollektiv forvaltningsorganisasjon skal fakturere tilbyderen av en nettbasert tjeneste elektronisk og i et format som i størst mulig grad er i samsvar med frivillige bransjestandarder. Fakturaen skal inneholde opplysninger om de lisensierte rettighetene og faktisk bruk basert på innrapporterte opplysninger etter § 41 andre ledd.
+Faktureringen skal være nøyaktig og skje uten opphold etter at faktisk bruk er innrapportert. Organisasjonen skal ha egnede ordninger som gjør det mulig for tilbyderen av den nettbaserte tjenesten å komme med innvendinger til fakturagrunnlaget.

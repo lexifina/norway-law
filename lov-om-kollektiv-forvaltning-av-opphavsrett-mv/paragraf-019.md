@@ -1,0 +1,3 @@
+# § 19. Investering av vederlagsmidler
+En kollektiv forvaltningsorganisasjon som investerer vederlagsmidler, skal plassere midlene på en måte som fremmer rettighetshavernes interesser og i samsvar med investeringsstrategien vedtatt etter § 12 fjerde ledd bokstav c.
+Den kollektive forvaltningsorganisasjonen skal ved potensielle interessekonflikter sikre at investeringenes eneste formål er å ivareta rettighetshavernes interesser. Hensynet til sikkerhet, likviditet og avkastning skal ivaretas ved investering av vederlagsmidler, og investeringene skal spres slik at uforholdsmessig avhengighet og konsentrasjon i porteføljen unngås.
