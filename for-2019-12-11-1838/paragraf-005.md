@@ -1,0 +1,3 @@
+# § 5. Opplysningsplikt
+Kommunen kan kreve at fartøy som anløper havn og innretning for drift av akvakulturanlegg, gir kommunen tilstrekkelige opplysninger til at kommunen kan beregne og fakturere farvannsavgift. Kommunen kan i forskrift fastsette nærmere regler om hvordan informasjonsutvekslingen skal skje.
+Fartøyets fører eller dets representanter plikter på forespørsel fra kommunen å fremlegge gyldig målebrev i henhold til målereglene i Den internasjonale konvensjonen om måling av fartøyer av 1969. Hvis slikt målebrev ikke kan fremlegges innen én uke eller det fremdeles er tvil om beregningsgrunnlaget, bestemmer kommunen ved enkeltvedtak hvilken størrelse som skal legges til grunn ved avgiftsberegningen.
