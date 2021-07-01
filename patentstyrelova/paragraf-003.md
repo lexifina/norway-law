@@ -1,0 +1,5 @@
+# § 3. Klagenemnda for industrielle rettar
+Klagenemnda for industrielle rettar (Klagenemnda) er klageorgan for saker som fastsett i patentloven, foretaksnavneloven, designloven, varemerkeloven, edelmetalloven og planteforedlerloven.
+Klagenemnda er eit uavhengig forvaltningsorgan administrativt underlagt departementet. § 2 første ledd andre og tredje punktum gjeld tilsvarande for Klagenemnda ved behandling av klager etter lovene nemnde i første ledd i paragrafen her og ved søksmål mot avgjerder frå nemnda i slike saker.
+Klagenemnda skal ha ein leiar, ein nestleiar og så mange medlemmer som nødvendig for å utføre dei oppgåvene som er lagde til nemnda. Leiar og nestleiar i nemnda må oppfylle krava til dommarar. Nemnda skal elles ha medlemmer med den kompetansen som er nødvendig for ei forsvarleg saksbehandling.
+Leiaren og nestleiaren blir tilsette av Kongen i statsråd. Dei andre medlemmene i Klagenemnda blir oppnemnde av departementet for ein periode på inntil fem år med høve til å oppnemne dei på nytt. Tilsette i Patentstyret kan ikkje vere medlemmer i Klagenemnda.
