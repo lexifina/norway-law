@@ -1,0 +1,3 @@
+# § 7. Søknad om bruk av e-merket
+1) Forpakkere eller importører som ønsker å e-merke ferdigpakninger eller importere e-merkede ferdigpakninger, skal søke Justervesenet om bruk av e-merket. e-merkingen kan ikke iverksettes eller de e-merkede produktene markedsføres, før søknaden er godkjent. Krav om søknad gjelder ikke for ferdigpakninger som er påført e-merket i et annet EØS-land.
+2) Søknad om bruk av e-merket skal inneholde nødvendig informasjon slik at Justervesenet kan vurdere om den ansvarlige tilfredsstiller kravene til bruk av e-merket i henhold til denne forskriften. Justervesenet kan fastsette nærmere hvilken informasjon søknaden skal inneholde.
