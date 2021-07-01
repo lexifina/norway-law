@@ -3,7 +3,7 @@ Innenfor rammen av § 1-1 skal planer etter denne lov:
 a) sette mål for den fysiske, miljømessige, økonomiske, sosiale og kulturelle utviklingen i kommuner og regioner, avklare samfunnsmessige behov og oppgaver, og angi hvordan oppgavene kan løses
 b) sikre jordressursene, kvaliteter i landskapet og vern av verdifulle landskap og kulturmiljøer
 c) sikre naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv
-d) legge til rette for verdiskaping og næringsutvikling
+d) legge til rette for verdiskaping, næringsutvikling og tilstrekkelig boligbygging
 e) legge til rette for god forming av bygde omgivelser, gode bomiljøer og gode oppvekst- og levekår i alle deler av landet
 f) fremme befolkningens helse og motvirke sosiale helseforskjeller, samt bidra til å forebygge kriminalitet
 g) ta klimahensyn gjennom reduksjon av klimagassutslipp og tilpasning til forventede klimaendringer, herunder gjennom løsninger for energiforsyning, areal og transport
