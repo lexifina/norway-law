@@ -1,0 +1,3 @@
+# § 7. Krav til innhold i rutinemessig værobservasjon
+METAR skal utstedes i henhold til kravene i forordning (EU) 2017/373 MET.OR.210, MET.TR.200 og MET.TR.210 som gjennomført i forskrift 24. september 2018 nr. 1407 om krav til ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) og nettverksfunksjoner for lufttrafikkstyring (ATM-nettverksfunksjoner). Rapportene skal i tillegg angi bølgehøyde og sjøtemperatur.
+METAR skal utarbeides på grunnlag av manuelle observasjoner. Luftfartstilsynet kan godkjenne at METAR erstattes med AUTOMETAR dersom helikopterdekkoperatøren kan vise at behovet for værobservasjoner kan ivaretas ved hjelp av automatisk genererte observasjoner.

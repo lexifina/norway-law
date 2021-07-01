@@ -1,0 +1,8 @@
+# § 11. Kompetansekrav værobservatører og formidlere av værinformasjon
+Personell som utøver rutinemessig værobservasjon (METAR) eller videreformidler værinformasjon, skal ha gjennomgått opplæring i samsvar med krav i Den meteorologiske verdensorganisasjon (WMO), WMO No 1209 – Compendium of WMO Competency Frameworks (2019). Gjennomført opplæring skal være dokumentert.
+Opplæringsprogrammet skal være godkjent av Luftfartstilsynet. Opplæringen skal bestå av både en teoretisk og en praktisk del og gi personellet tilstrekkelig kompetanse til å utføre følgende oppgaver:
+a) Overvåke værsituasjon i tilknytning til innretningen eller skipet i tidsrom det er helikopterflyging til eller fra innretningen. Opplæringen må føre til at personellet kan analysere og beskrive nåværende værsituasjon på innretningen.
+b) Observere meteorologiske fenomen og parameter knyttet til helikopterflygingen, samt signifikante endringer. Personell skal ha kompetanse om automatiserte observasjoner (AUTOMETAR) og semi-automatiserte løsninger.
+c) Kvalitetssikre observasjoner før utstedelse i henhold til interne prosedyrer, samt identifisere eventuelle feilkilder og endre observasjonene før utstedelse.
+d) Kvalitetssikre at meteorologisk informasjon er konsis og kan videreformidles gjennom etablerte distribusjonskanaler på en slik måte at informasjonen blir forstått av brukerne.
+Personell som utøver rutinemessig værobservasjon eller videreformidler værinformasjon skal gjennomgå årlig vedlikeholdstrening. Personell som utarbeider METAR skal ha kunnskap om relevante aktører i luftfarten, for eksempel om lufttrafikktjenesten.
