@@ -1,0 +1,3 @@
+# § 4. Enkle luftfartøy
+Enkle luftfartøy skal vedlikeholdes i samsvar med bestemmelsene i vedlikeholdsforordningen Part-ML. Med enkle luftfartøy menes luftfartøy med MTOM til og med 2730 kg, og helikopter med MTOM til og med 1200 kg med plass til maksimalt 4 personer om bord. Luftfartøy med jetmotor eller mer enn en turboprop skal likevel regnes som andre luftfartøy, og vedlikeholdes i samsvar med bestemmelsene i § 5.
+Luftfartøy som skal benyttes av organisasjon med tillatelse til å tilby opplevelsesflyging etter forskrift 15. februar 2021 nr. 524 om luftfartsoperasjoner med nasjonalt sertifiserte luftfartøy, skal vedlikeholdes i samsvar med § 5.
