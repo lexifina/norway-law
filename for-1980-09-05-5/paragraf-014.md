@@ -1,0 +1,3 @@
+# § 14
+Statsforvalteren og kretssjef i sivilforsvaret kan gi pålegg til eier eller bruker av jernbane, fartøy, motorkjøretøy eller annet transportmiddel om å transportere personer som er pålagt å flytte ut.
+Personbiler og vare- og lastebiler som ikke er pålagt transport etter 1. ledd eller rekvirert eller på annen måte lagt beslag på til det militære forsvar eller sivile beredskap, forutsettes nyttet av eier eller bruker til familiens utflytting, med plikt til å ta med andre som skal flytte ut når det er plass i kjøretøyet. Tilsvarende gjelder motorbåter, der forholdene gjør transport over sjøen mulig.
