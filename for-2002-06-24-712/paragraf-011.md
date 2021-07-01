@@ -1,0 +1,3 @@
+# § 11. (høsting forbeholdt fastboende)
+Jakt på svalbardrein, jakt og fangst på fjellrev, samt fiske etter røye eller annen anadrom laksefisk med garn, kan bare foretas av fastboende på Svalbard og krever særskilt tillatelse fra Sysselmesteren. Tillatelsen kan inntas som del av jakt-, fangst- eller fiskekortet, jf. § 9. Tillatelsen skal gjelde for et nærmere angitt område og tidsrom. Tillatelsen er personlig og kan ikke overdras, med unntak av de særlige tilfeller som er nevnt i § 9 første ledd, fjerde og femte setning. Sysselmesteren kan stille vilkår i den enkelte tillatelse, herunder om hvilken mengde som kan høstes, og hva slags høstingsmåter eller redskaper som kan brukes.
+Tildeling av tillatelse til felling av svalbardrein skjer etter reglene i kapittel VIII.

@@ -1,0 +1,4 @@
+# § 23. (begrensninger i fisket i grense elv/sjø)
+I vassdrag er det ikke tillatt å sette garn i innsjøer nærmere innløps- eller utløpsos enn 200 m. I sjøen er garnfiske ikke tillatt nærmere elvemunning (grense elv/sjø) enn 200 m. Sysselmesteren kan ved forskrift utvide garnforbudet utover 200 m fra elvemunningen (elv/sjø).
+Minste tillatte maskevidde er 52 mm. Hvert garn som benyttes må ikke være større enn 25 m x 1,8 m. Garn skal merkes med bøye, eiers navn og adresse. Sysselmesteren kan ved forskrift fastsette forskjellige begrensninger i redskapsbruken herunder antall garn og garnlenke.
+I sjøområder hvor det er åpnet for fiske er fiske med stang eller annen håndredskap ikke tillatt nærmere elvemunning (grense elv/sjø) enn 50 m. Sysselmesteren kan ved forskrift utvide området med forbud for fiske med stang og håndsnøre utover 50 m fra elvemunningen (elv/sjø).

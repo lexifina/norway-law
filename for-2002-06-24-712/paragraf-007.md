@@ -1,0 +1,4 @@
+# § 7. (høstbare pattedyr, fuglearter, røye og annen anadrom laksefisk)
+Jakt er tillatt på følgende arter innenfor følgende tidsrom:På følgende arter:I tidsrommet:Fjellrev1. november–15. marsSvalbardrein15. august–20. septemberSvalbardrype10. september–23. desemberKortnebbgås20. august–31. oktoberHavhest21. september–31. oktoberTeist1. september–31. oktoberRingsel1. februar–20. mars og 20. mai–30. novemberStorkobbe1. februar–27. april og 5. juni–30. november
+Fangst er tillatt på fjellrev i tidsrommet 1. november-15. mars.
+Sysselmesteren kan i samsvar med § 5 ved forskrift åpne for fiske etter røye og annen anadrom laksefisk i sjø, bestemte vassdrag og sjøområder. Dersom det åpnes for fiske skal det for det bestemte vassdraget fastsettes en årlig kvote, og det skal framkomme hvilke fiskeredskap som kan benyttes og innenfor hvilke tidsrom fiske kan foregå.

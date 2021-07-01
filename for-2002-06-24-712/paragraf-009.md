@@ -1,0 +1,4 @@
+# § 9. (jakt-, fangst- og fiskekort)
+Høsting kan bare foretas av den som har løst kort for jakt, fangst eller fiske. Kortet angir hvilke arter og eventuelt kvotebegrensning, redskapstyper, hvilket tidsrom og i hvilke områder man har rett til å jakte, fangste eller fiske. Kortet er personlig og kan ikke overdras. Sysselmesteren kan i særlige tilfelle utstede kort til forening/lag el. ved formann/leder. I de tilfeller hvor kortet er utstett til en forening/lag el., kan kortet bare benyttes av den formann/leder har bemyndiget ved fullmakt.
+Ved løsning av kort skal det betales avgift, når avgiftssats er fastsatt av departementet, jf. § 35. Utstedelse av kort og innkreving av avgift administreres av Sysselmesteren.
+Kort for jakt, fangst eller fiske, og eventuell fullmakt i samsvar med første ledd, skal medbringes under høsting, og innehaveren plikter å fremvise kortet og eventuell fullmakt når dette blir krevd av Sysselmesteren eller den Sysselmesteren bemyndiger.

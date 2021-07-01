@@ -1,0 +1,3 @@
+# § 33. (om fellingstillatelsen)
+Fellingstillatelsen gjelder for et nærmere angitt område, og vil være utstedt på ett av følgende kategorier dyr: kalv (0,5 år), simle/ungdyr (hunndyr/1,5 års bukk), valgfritt dyr. Kalv kan felles i stedet for eldre dyr.
+For hvert dyr som tillates felt skal det medfølge et kontrollkort. Teksten utformes av Sysselmesteren, og jegeren plikter å følge de direktiver om bruken av kontrollkortet som er trykt på kortet. Felte dyr eller kjøtt skal være merket med riktig utfylt kontrollkort før transport fra fellingssted starter eller når det etterlates i terrenget over natten.
