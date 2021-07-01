@@ -1,0 +1,2 @@
+# § 3. Tilleggsvilkår for kameraovervåking av område i virksomheten hvor en begrenset krets av personer ferdes jevnlig
+Kameraovervåking av område i virksomheten hvor en begrenset krets av personer ferdes jevnlig, er bare tillatt dersom det ut fra virksomheten er behov for å forebygge at farlige situasjoner oppstår og ivareta hensynet til ansattes eller andres sikkerhet eller det for øvrig er et særskilt behov for overvåkingen.
