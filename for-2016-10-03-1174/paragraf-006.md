@@ -1,0 +1,2 @@
+# § 6. Overtredelsesgebyr
+EØS-avtalen vedlegg IX forordning (EU) nr. 946/2012 (om utfylling av kredittvurderingsbyråforordningen med hensyn til saksbehandlingsregler for overtredelsesgebyrer som Den europeiske verdipapir- og markedstilsynsmyndighet ilegger kredittvurderingsbyråer, herunder regler for rett til forsvar og midlertidige bestemmelser) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
