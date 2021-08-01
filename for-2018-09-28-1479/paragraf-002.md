@@ -1,0 +1,3 @@
+# § 2. Krav til tilgangsstyring
+Kommuner, fylkeskommuner og private barnehager skal sørge for tilgangsstyring slik at de som arbeider for virksomheten, bare har tilgang til personopplysninger dersom og i den utstrekning de trenger opplysningene for formål som omtalt i barnehageloven § 47 a. Kommuner, fylkeskommuner og private barnehageeiere skal sørge for at de som arbeider for virksomheten, har nødvendig kunnskap om personvern og informasjonssikkerhet før de gis tilgang til personopplysninger.
+Kravene i første ledd gjelder personopplysninger som er omfattet av personopplysningsloven, og som blir behandlet med hjemmel i barnehageloven.
