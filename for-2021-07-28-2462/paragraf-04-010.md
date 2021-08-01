@@ -1,0 +1,6 @@
+# § 4-10. Klage på formelle feil ved eksamen
+En kandidat som har vært oppe til en eksamen, en prøve eller et annet arbeid som vurderes med karakter, kan klage på formelle feil innen tre uker etter at kandidaten har blitt eller burde vært kjent med feilen. Klagen skal rettes til administrasjonen ved Jusutdanning. Klagenemnden ved Jusutdanning er klageinstans.
+Et vedtak om sensur skal oppheves dersom det er begått feil som kan ha hatt betydning for kandidatens prestasjon eller bedømmelsen av prestasjonen.
+Det skal gjennomføres ny sensur dersom det kan rette opp feilen. Hvis feilen ikke kan rettes opp gjennom ny sensur, skal det holdes ny eksamen, prøve eller lignende med nye sensorer.
+Klagefristen for formelle feil ved eksamen løper ikke i perioden hvor kandidaten enten venter på begrunnelse for karakterfastsettingen eller venter på endelig avgjørelse over klage på karakterfastsettingen. Klagefristen begynner å løpe igjen når begrunnelsen er mottatt eller endelig avgjørelse over klage på karakterfastsettingen er avgjort.
+Administrasjonen eller Klagenemnden ved Jusutdanning bestemmer om det skal foretas ny sensur eller holdes en ny eksamen, prøve eller lignende hvis det er begått formelle feil som kan ha hatt innvirkning på én eller flere kandidaters prestasjoner eller bedømmelse av disse.
