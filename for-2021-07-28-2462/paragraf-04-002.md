@@ -1,0 +1,8 @@
+# § 4-2. Karakter og vitnemål
+Eksamen og andre vurderingsordninger har enten bestått/ikke bestått eller en gradert karakterskala fra A til F som vurderingen. Karakterene A til E er bestått, mens karakteren F er ikke bestått.
+Den graderte karakterskalaen har følgende beskrivelser:AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet
+Vitnemål utstedes til kandidater som har fullført og bestått utdanningen. Dette forutsetter at følgende betingelser er oppfylt:
+a) alle eksamener og vurderingssituasjoner er bestått,
+b) praksis er fullført og bestått,
+c) studiekontingenten i sin helhet er betalt.
+Det utstedes ett elektronisk vitnemål til hver kandidat i pdf-format. Bestilles det ny versjon av vitnemålet vil det påløpe et gebyr som må betales før mottakelse av ny versjon. Dersom kun deler av utdanningen er fullført, vil kandidaten kunne få tilsendt karakterutskrift i pdf-format.

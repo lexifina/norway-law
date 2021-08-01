@@ -1,0 +1,2 @@
+# § 3-1. Utgangspunktet for godskriving og fritak
+Utgangspunktet for vurdering av godskriving og fritak skal være læringsutbyttebeskrivelsene for den aktuelle utdanningen eller det aktuelle emnet og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning for de emner eller den kompetanse det søkes godskriving eller fritak for. Godskriving og fritak gir ikke grunnlag for redusert studiekontingent.

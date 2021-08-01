@@ -1,0 +1,2 @@
+# § 3-5. Tilknytningskravet for utstedelse av vitnemål
+For at en fagskole skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må minst 30 av studiepoengene som skal inngå i beregningsgrunnlaget være avlagt ved fagskolen. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet, jf. fagskoleforskriften § 38.
