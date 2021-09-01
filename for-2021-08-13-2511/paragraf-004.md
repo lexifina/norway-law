@@ -1,0 +1,3 @@
+# § 4. Krav til kompetanse
+Prosjekterende og utførende foretak skal oppgi formell kompetanse og referanseprosjekter med kontaktinformasjon. Generelt skal det stilles krav til at håndverkerne har deltatt i minst to prosjekter tidligere med tilsvarende arbeidsoppgaver. Som et alternativt eller supplerende krav til erfaring, kan det stilles krav om gjennomført relevant utdanning eller kurs.
+Det kan lempes på kravene om referanseprosjekter og tidligere deltakelse med tilsvarende oppgaver, under forutsetning av at utførende foretak knytter til seg den nødvendige kompetansen fra andre aktører med relevant erfaring. Det skal i slike tilfeller opplyses hvilken kompetanse som blir tilknyttet prosjektet. Også denne kompetansen må dokumenteres.
