@@ -1,0 +1,2 @@
+# § 4. Krav til kompetanse
+Prosjekterende og utførende foretak skal oppgi formell kompetanse og referanseprosjekter med kontaktinformasjon. Håndverkerne skal ha fagskolepoeng eller studiepoeng innen praktisk bygningsvern eller kunne dokumentere tilsvarende realkompetanse. Generelt skal det stilles krav til at håndverkerne har deltatt i minst tre prosjekter tidligere med tilsvarende arbeidsoppgaver.
