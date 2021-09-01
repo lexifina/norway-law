@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med tilskuddsordningene er å sikre bevaring, istandsetting og konservering av stavkirker, kirkekunst og bygg, anlegg og ruiner fra middelalderen som unike kilder til bygningshistorien og kunsthistorien i Norge, samt å bidra til brannsikring av bestemte tette trehusmiljøer. Tilskuddsordningene skal sikre kildematerialet og bidra til bærekraftig bruk og formidling av historien disse kulturminnene og kulturmiljøene forteller.
