@@ -1,0 +1,4 @@
+# § 35
+Hvis en vederlagspliktig unnlater å betale avtalt vederlag eller vederlag fastsatt etter bestemmelsene her, kan Vederlagsnemnda på begjæring av en vederlagsberettiget i henhold til åndsverklovens bestemmelser som nevnt i § 34, nedlegge forbud mot fortsatt bruk. Bestemmelsene i § 36 og § 37 gjelder tilsvarende.
+Berettiget til å fremme begjæring etter denne bestemmelse er den enkelte rettighetshaver hvis verk eller arbeider er gjenstand for bruk etter nevnte bestemmelser i åndsverkloven, eller organisasjon som etter avtale med rettighetshaver forvalter vederlagsrett for bruk som nevnt. Forbud mot bruk som nevnt i åndsverkloven § 21 kan likevel bare begjæres av organisasjon som er godkjent for innkreving av vederlag etter nevnte bestemmelse.
+Med mindre annet er avtalt, er et forbudsvedtak ikke til hinder for at rettighetshaver samtykker til fortsatt bruk av sine verk eller arbeider. Dette gjelder likevel ikke for bruk etter åndsverkloven § 21.

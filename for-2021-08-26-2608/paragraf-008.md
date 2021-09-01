@@ -1,0 +1,3 @@
+# § 8
+På særskilt bestilling kan eksemplar av åndsverk fremstilt etter § 2 og § 3 gjennom fjernlån, herunder ved overføring til dataterminal, stilles til rådighet for en bestemt låner i lokaler til andre institusjoner nevnt i § 1. Slike eksemplar kan ikke lagres permanent hos lånerinstitusjonen, men må tilbakeføres, slettes eller tilintetgjøres når bestillerens bruk er opphørt. Åndsverk omfattet av pliktavleveringslova kan ikke fjernlånes etter denne bestemmelsen.
+Låneren kan ta papirutskrift av fjernlånt materiale etter reglene om eksemplarfremstilling til privat bruk i åndsverkloven § 26. Låneren kan ikke ta digital kopi.

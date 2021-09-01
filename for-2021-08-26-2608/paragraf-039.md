@@ -1,0 +1,2 @@
+# § 39
+Ved forhandlinger om avtale etter åndsverkloven § 46, § 47, § 50 og § 57, jf. § 63 og § 65, har hver av partene rett til å kreve mekling hos Riksmekleren hvis den ene parten ikke etterkommer krav fra den andre parten om å oppta forhandlinger om avtale som nevnt, eller dersom slike forhandlinger ikke fører til enighet. Bestemmelsene i § 39 og § 40 om mekling i avtalelisensforhandlinger gjelder tilsvarende for forhandlinger om samtidig og uendret videresending av kringkastingssending til allmennheten mellom kringkastingsforetak og den som videresender.

@@ -1,0 +1,5 @@
+# § 40
+Meklingen skal begynne innen 14 dager etter at krav er kommet inn til Riksmekleren. Meklingen ledes av Riksmekleren eller av en særskilt mekler tilknyttet Riksmeklerens kontor som oppnevnes av Kongen.
+Om meklerløfte og inhabilitet gjelder bestemmelsene i arbeidstvistloven § 13 og § 14 første ledd tilsvarende.
+Under meklingen gjelder bestemmelsene i tjenestetvistloven § 17 og § 18 første ledd og andre ledd første punktum tilsvarende. Det samme gjelder bestemmelsene i arbeidstvistloven § 20 nr. 4 første punktum og tredje punktum, § 22 og § 23 nr. 1. Kommer partene til enighet, skal det inngås forlik under medvirkning av mekleren. Forliksavtalen skal undertegnes av partene eller deres representanter.
+Ved mekling som gjelder forhandlinger om samtidig og uendret videresending av kringkastingssending til allmennheten, anses forslag fremsatt av mekleren som akseptert med mindre noen av partene kommer med innvendinger innen tre måneder. Bestemmelsene om avstemning over meklingsforslag i tjenestetvistloven § 17 tredje ledd og § 18 første ledd og andre ledd første punktum kommer ikke til anvendelse. For øvrig gjelder bestemmelsene i paragrafen her.
