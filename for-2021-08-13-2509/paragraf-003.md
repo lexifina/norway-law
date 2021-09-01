@@ -1,0 +1,2 @@
+# § 3. Definisjoner
+Tekniske og industrielle kulturminner er spor etter industriell kultur som er av historisk, teknologisk, sosial, arkitektonisk eller vitenskapelig verdi. Tekniske og industrielle kulturminner omfatter blant annet samferdsel og industrielle anlegg med bygninger og produksjonslinjer med maskineri, transport og øvrig infrastruktur samt den sosiale delen av industrihistorien med boliger, religiøse byggverk, skoler og rekreasjon- og grøntanlegg.
