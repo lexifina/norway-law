@@ -1,0 +1,3 @@
+# § 2. Krav til brikke og avtale
+Med brikke etter § 1 menes en godkjent innretning i norske trafikantbetalingssystemer, som avleses når motorvognen passerer en bomstasjon eller et annet betalingssnitt på veg. Brikken skal være godkjent for bruk i hele Norge og være tilknyttet norsk eller utenlandsk utsteder av brikken ved gyldig avtale.
+Avtalen og brikken skal være knyttet til den enkelte motorvogn, og motorvognen skal være knyttet til en gyldig avtale. Norsk utsteder av brikker kan fastsette generelle betingelser i avtalevilkårene om avtaleforholdet, avtaleperiode, endring av avtalen og oppsigelse og bestemmelser om brukerens ansvar knyttet til bruken av brikken, betaling av depositum for brikken og betalingsvilkår.
