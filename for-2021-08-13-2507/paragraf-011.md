@@ -1,0 +1,5 @@
+# § 11. Kontroll med betingelser og vilkår – rett til opplysninger
+Riksantikvaren og Riksrevisjonen kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+a) kreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrollen
+b) innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+c) gjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
