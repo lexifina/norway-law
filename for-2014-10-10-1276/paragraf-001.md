@@ -1,0 +1,3 @@
+# § 1. Krav til bruk av elektronisk brikke
+Motorvogner med tillatt totalvekt over 3 500 kg som er registrert på foretak, stat, fylkeskommune eller kommune, eller som på annen måte hovedsakelig benyttes i næringsvirksomhet, skal ved all kjøring på offentlig veg være utstyrt med elektronisk brikke. Med næringsvirksomhet menes en vedvarende virksomhet som er egnet til å gi nettoinntekt.
+Påbudet etter første ledd gjelder ikke traktorer og motorredskaper. Tilsvarende gjelder påbudet ikke kjøretøy som er tilknyttet NATOs militære hovedkvarter, utenlandske NATO-styrker og styrker som er med i Partnerskap for fred, og påbudet gjelder heller ikke kjøretøy tilpasset militært formål som er eid av forsvaret.
