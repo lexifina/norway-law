@@ -1,0 +1,2 @@
+# § 50
+Bestemmelsene i åndsverkloven § 72 andre og tredje ledd om overdragelse av rett til innspilling av et verk for film, får anvendelse på filmverk som vernes etter § 48. Hvis lovgivningen i landet hvor filmprodusenten har sitt hovedsete eller er bosatt, bestemmer at avtale om slik overdragelse skal være skriftlig for å ha den virkningen som åndsverkloven § 72 andre ledd fastsetter, skal dette legges til grunn. Bestemmelsen i åndsverkloven § 113 tredje ledd gjelder tilsvarende.

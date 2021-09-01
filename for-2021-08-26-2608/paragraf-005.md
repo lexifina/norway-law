@@ -1,0 +1,3 @@
+# § 5
+Institusjon som nevnt i § 1 kan fremstille eksemplar på papir av åndsverk som den har eksemplar av i sine samlinger til utlån, hvis eksemplaret er særlig utsatt for skade ved utlån eller vanskelig kan erstattes hvis det går tapt. Det kan ikke fremstilles flere eksemplar enn det som er nødvendig for at institusjonen skal ha et begrenset antall eksemplar til rådighet for utlån.
+Institusjon som nevnt i § 1 kan fremstille fysiske eksemplar av musikk- og filmverk for utlån, også i andre format enn originaleksemplaret, der institusjonens originaleksemplar er særlig utsatt for skade ved utlån og ikke kan erstattes hvis det går tapt. Det er ikke tillatt å låne ut flere eksemplar enn institusjonen har originaleksemplar.

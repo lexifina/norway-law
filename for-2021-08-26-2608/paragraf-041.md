@@ -1,0 +1,2 @@
+# § 41
+Departementet oppnevner en nemnd til å behandle tvister etter åndsverkloven § 100 andre ledd. Nemnda skal bestå av en leder og to andre medlemmer oppnevnt for fire år av gangen. Nemndas leder skal være jurist, og oppnevnes på nøytralt grunnlag. De to andre medlemmene skal komme fra rettighetshaver- og brukersiden. Alle nemndas medlemmer skal ha teknisk kompetanse og innsikt i rettighetsspørsmål. På tilsvarende grunnlag oppnevnes personlige varamedlemmer.

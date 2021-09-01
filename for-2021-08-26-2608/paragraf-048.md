@@ -1,0 +1,2 @@
+# § 48
+Bestemmelsene i åndsverkloven skal, med unntak av § 13, kapittel 2, § 59 til § 61 og § 104, gjelde verk som ikke har den tilknytning til Norge som er fastsatt i loven § 113, såfremt verket har tilsvarende tilknytning til et land som er medlem av Den internasjonale union til vern av litterære og kunstneriske verk (Bernunionen) eller til et land som har tiltrådt Avtale om opprettelse av Verdens Handelsorganisasjon (WTO), herunder Avtalen om handelsrelaterte sider ved immaterielle rettigheter (TRIPS).

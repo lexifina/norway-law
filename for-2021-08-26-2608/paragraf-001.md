@@ -1,0 +1,4 @@
+# § 1
+Arkiv under arkivverket, kommunale og fylkeskommunale arkiv, bibliotek under universiteter og høyskoler og andre vitenskapelige og faglige bibliotek som drives av det offentlige, fylkesbibliotekene og folkebibliotekene samt universitetsmuseer, andre offentlige museer og museer som mottar offentlige tilskudd, kan fremstille eksemplar av åndsverk til bruk i sin virksomhet etter bestemmelsene i § 2 til § 3 og § 5 til § 9, når bruken ikke er ervervsmessig. For andre museer gjelder reglene så langt de passer. Med universiteter og høyskoler forstås alle institusjoner som omfattes av universitet- og høyskoleloven § 1-2.
+Undervisnings- og forskningsinstitusjoner er omfattet av § 4 om eksemplarfremstilling for forskningsformål.
+Departementet kan bestemme at reglene i kapitlet her også skal gjelde for andre nærmere angitte arkiv, bibliotek og museer enn dem som er nevnt i første ledd.

@@ -1,0 +1,3 @@
+# § 44
+Nemnda kan fatte vedtak som pålegger rettighetshaver å gi adgang til bruk etter aktuell avgrensningsbestemmelse. Adgangen skal være tilstrekkelig til at formålet med den aktuelle avgrensningsbestemmelsen oppfylles, samtidig som rettighetshavers legitime krav på vern ivaretas.
+Nemnda kan i vedtaket også bestemme at hvis rettighetshaver ikke etterkommer nemndas vedtak innen en gitt frist, kan den berettigede selv omgå det tekniske beskyttelsessystemet for å få tilgang til bruk i henhold til det som er bestemt i vedtaket. Slik omgåelse gir ikke grunnlag for straffe- eller erstatningsansvar.

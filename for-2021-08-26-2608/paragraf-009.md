@@ -1,0 +1,4 @@
+# § 9
+Institusjon nevnt i § 1 kan gjøre åndsverk fra egen samling tilgjengelig for enkeltpersoners forskningsformål eller private studieformål ved hjelp av terminaler i egne lokaler. Adgangen til tilgjengeliggjøring etter første punktum gjelder ikke åndsverk omfattet av pliktavleveringslova.
+For enkeltpersoners forskningsformål eller private studieformål kan institusjon nevnt i § 1 ved fotokopiering eller lignende fremgangsmåte fremstille eksemplar av enkelte artikler i samleverk, avis eller tidsskrift, eller korte avsnitt i andre verk for utlevering til eie. Det kan ikke utleveres mer enn ett eksemplar til hver bruker.
+Brukeren kan fremstille en papirutskrift til eie av åndsverk som er tilgjengeliggjort etter første ledd, etter reglene om eksemplarfremstilling til privat bruk i åndsverkloven § 26. Brukeren kan ikke ta digital kopi.

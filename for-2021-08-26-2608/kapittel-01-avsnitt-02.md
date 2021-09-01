@@ -1,0 +1,1 @@
+# II. Fremstilling og utveksling av verk eller annet arbeid i tilgjengelig format til bruk for personer som er blinde, har nedsatt synsevne eller har andre funksjonsnedsettelser som vanskeliggjør lesing, jf. åndsverkloven § 56a

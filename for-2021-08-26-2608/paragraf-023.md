@@ -1,0 +1,3 @@
+# § 23
+Opptak som er gjort etter § 22 kan kringkastingsforetaket bruke under egne sendinger i programmer for kringkasting. Som bruk under egne sendinger anses også programmer som samtidig sendes over utenlandske stasjoner. Vilkårene i § 22 bokstav c må være oppfylte ved hver bruk av opptak etter denne bestemmelsen her, og det må ytes vederlag til opphaveren for kringkastingen i samsvar med lov eller avtale.
+Opptak kan likevel ikke brukes til sending etter utløpet av ett år etter at opptaket er gjort, og heller ikke kan opptaket i løpet av året brukes i mer enn fire sendinger. Disse begrensninger kommer ikke til anvendelse på åndsverk skapt av norsk statsborger.

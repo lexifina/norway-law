@@ -1,0 +1,10 @@
+# § 13
+I § 14 til § 17 menes med:
+1) verk eller annet arbeid: et offentliggjort verk eller annet arbeid i form av en bok, et tidsskrift, en avis, et magasin eller en annen form for skriftlig materiale, notasjon, herunder noteskrift, og tilhørende illustrasjoner, uansett medium, herunder i lydformat og i digitalt format, som er vernet av opphavsrett eller nærstående rettigheter
+2) tilgodesett person: en person som, uavhengig av eventuelle andre funksjonsnedsettelser,
+a) er blind
+b) har nedsatt funksjonsevne som ikke kan avhjelpes slik at vedkommende får en synsfunksjon tilnærmet lik den hos en person uten slik funksjonsnedsettelse, og derfor ikke er i stand til å lese trykte verk i tilnærmet samme grad som en person uten slik funksjonsnedsettelse
+c) har nedsatt persepsjonsevne- eller lesevansker og derfor ikke er i stand til å lese trykte verk i vesentlig samme grad som en person uten slik funksjonsnedsettelse eller
+d) på annen måte, på grunn av en fysisk funksjonsnedsettelse, ikke kan tilegne seg verket eller arbeidet på vanlig måte eller er ute av stand til å holde eller håndtere en bok eller til å fokusere blikket eller bevege øynene i den utstrekning som normalt er nødvendig for å lese.
+3) tilgjengelig format: et verk eller et annet arbeid i en alternativ form eller et alternativt format som gir en tilgodesett person tilgang til verket eller arbeidet, og som gir den personen like enkel og uhindret tilgang som en person uten noen av funksjonsnedsettelsene nevnt i nr. 2.
+4) godkjent enhet: en enhet som er godkjent eller anerkjent av departementet, av en stat innen EØS, eller av en stat som er part i Marrakechtraktaten, for å tilby tilgodesette personer undervisning, opplæring, tilpasset lesing eller tilgang til informasjon på ideelt grunnlag. Begrepet omfatter også en offentlig institusjon eller ideell organisasjon som leverer de samme tjenestene til tilgodesette personer, som en av sine primære oppgaver eller institusjonelle forpliktelser eller som en del av sine oppgaver i allmennhetens interesse.
