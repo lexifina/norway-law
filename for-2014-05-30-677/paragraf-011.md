@@ -1,0 +1,7 @@
+# § 11. Erstatning for tap av enkeltdyr
+Full erstatning for tap av sau og geit ytes etter sats for grunnverdi fastsatt av Miljødirektoratet på bakgrunn av slaktevekter og priser for angjeldende tapsår.
+Som full erstatning for sau og lam regnes den sats for grunnverdi som dekker forventet slakteverdi og verdi av biprodukter ved normal levering til slakteri.
+Grunnverdien beregnes på grunnlag av gjennomsnittsverdier for leveranse av sau og lam på landsbasis. Distriktstilskudd beregnes for det enkelte bruk i henhold til brukets beliggenhet.
+Som full erstatning for voksen melkegeit regnes slakteverdi pluss distriktstillegg, tapt melkeproduksjon og redusert melkeproduksjon året etter tapet. Som full erstatning for påsatt kje regnes dobbel slakteverdi pluss distriktstillegg.
+Full erstatning for hunder som nevnt i § 2 bokstav a, skal baseres på hundens bruksverdi. Erstatningen fastsettes i samsvar med verditabellen i vedlegg 1. Det ytes også full erstatning hvis hunden må avlives av dyrevelferdsmessige hensyn. Dersom hunden får varig nedsatt bruksverdi ytes 50 prosent erstatning. Dokumenterte veterinærutgifter erstattes med inntil 20 000 kr. Eventuell utbetaling fra forsikringsselskap, offentlig tilskudd til anskaffelse eller opplæring av hunden, kommer til fradrag i erstatningsbeløpet.
+For storfe og hest, som nevnt i § 2 bokstav a, fastsettes erstatningsverdien av erstatningsmyndigheten.
