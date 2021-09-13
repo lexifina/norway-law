@@ -1,0 +1,3 @@
+# § 6. Hvilke opplysninger som skal utveksles når dyr får behandling
+Før et dyr behandles, skal dyreholderen så langt som mulig gi behandleren fullstendige og korrekte opplysninger om hva slags trening eller konkurranse dyret skal være med på, og når treningen eller konkurransen skal finne sted.
+På grunnlag av opplysninger fra dyreholderen skal veterinærer, dyrepleiere og andre behandlere informere dyreholderen om dyrets behov for restitusjon og hvordan behandlingen kan påvirke dyrets prestasjonsevner og egenskaper. Behandleren skal også informere om behandlingens rettsvirkninger etter § 8 og arrangørens reglement.

@@ -1,0 +1,2 @@
+# § 8. I hvilke tilfeller det er forbudt å trene eller bruke dyr etter behandling
+Dyr som har blitt behandlet, skal ikke trenes til eller brukes i konkurranser dersom treningen eller bruken kan påføre dyret unødvendige belastninger på grunn av behandlingen, jf. § 11 tredje ledd bokstav d, e, f og g. Forbudet gjelder uansett så lenge det kan påvises virksomme rester eller virkninger av en slik behandling. Forbudet gjelder selv om behandlingen ikke har påvirket dyrets prestasjonsevne.

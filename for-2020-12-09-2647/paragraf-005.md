@@ -1,0 +1,3 @@
+# § 5. Hvilken tilstand dyrene skal være i
+Dyr som trenes til eller brukes i konkurranser, skal være egnet til å gjennomføre treningen eller konkurransen uten å bli utmattet, syke, skadet eller påført andre unødvendige belastninger. Når dyr brukes i konkurranser, skal de være tilstrekkelig trent til å kunne tåle belastningene konkurransen kan påføre dem.
+Syke og synlig drektige dyr skal uansett ikke trenes til eller brukes i konkurranser. Det samme gjelder skadde dyr dersom treningen eller konkurransen kan påføre dyret ekstra belastninger på grunn av skaden. Bortsett fra utstillinger av hopper med føll, er det ikke tillatt å bruke ammende dyr i konkurranser.
