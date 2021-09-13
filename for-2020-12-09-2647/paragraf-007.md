@@ -1,0 +1,3 @@
+# § 7. I hvilke tilfeller det er forbudt å behandle dyr
+Dyr skal ikke behandles før eller mens de trenes til eller brukes i konkurranse dersom treningen eller konkurransen kan påføre dyret unødvendige belastninger på grunn av behandlingen. Forbudet rammer bare personer som vet eller bør vite om treningen eller konkurransen.
+Forbudet etter første ledd gjelder ikke nødhjelp eller annen nødvendig behandling av sykdom eller skade, jf. dyrevelferdsloven § 24 første ledd bokstav b og dyrehelsepersonelloven § 14. Forbudet rammer ikke veterinærer, dyrepleiere eller andre behandlere som har informert dyreholderen etter § 6 annet ledd og frarådet at dyret trenes til eller brukes i konkurranse.
