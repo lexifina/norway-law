@@ -1,0 +1,3 @@
+# § 2. Bruk av landbruksvikar
+Avløysarlag som mottek tilskot til landbruksvikarverksemd pliktar innanfor sitt geografiske ansvarsområde, fastsett av statsforvaltaren etter samråd med avløysarlaga, å ha tilstrekkeleg landbruksvikarberedskap tilgjengeleg.
+Avløysarlaga skal ved sjukdom og i krisesituasjonar yte hjelp til føretak med husdyr- og planteproduksjon, som har rett på tilskot til avløysing ved sjukdom mv., jf. forskrift 19. desember 2014 nr. 1821 om tilskot til avløysing ved sjukdom og fødsel mv. Denne plikta er avgrensa til 14 dagar per tilfelle. Dersom landbruksvikaren ikkje nyttast i slik samanheng, kan vikaren nyttast til annan avløysing.
