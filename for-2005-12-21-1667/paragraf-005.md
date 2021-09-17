@@ -1,0 +1,3 @@
+# § 5. Søknad og saksgang
+1) Tilskudd som nevnt i § 3 punkt 1 utbetales av Husbanken når kommunen kan dokumentere at omsorgsboliger og sykehjemsplasser er ferdigstilt innen utløpet av 2007. Der særskilte forhold gjør det nødvendig kan det søkes om utbetaling i 2007 til tross for manglende ferdigstillelse. Det kan gis inntil 6 måneders utsettelse av ferdigstillingen. Søknader om tilskudd til omsorgsboliger og sykehjemsplasser skal sendes statsforvalteren til uttalelse.
+2) Tilskudd som nevnt under § 3 punkt 2 utbetales etterskuddsvis og beregnes på grunnlag av finansieringskostnader etter Husbankens ordinære rente- og avdragsvilkår. Når prosjektet finansieres på annen måte enn i Husbanken utbetales tilskuddet etter en sjablon tilsvarende husbankvilkår.
