@@ -1,0 +1,5 @@
+# § 17. Rett til å fullføre turnustjenesten i kommune etter permisjon innvilget av sykehus eller helseforetak
+En turnuslege som er tilsatt av en kommune, jf. § 12 første ledd bokstav a, og som får innvilget permisjon på grunn av svangerskap, foreldreperiode eller sykdom fra turnusstilling i sykehus, skal tilbys turnusstilling i kommunen når en turnusstilling blir ledig.
+En turnuslege med rett til å bli tilsatt i en kommune som sykehuset eller helseforetaket samarbeider med, jf. § 12 første ledd bokstav b, og som får innvilget permisjon på grunn av svangerskap, foreldreperiode eller sykdom fra turnusstilling i sykehus, skal tilbys ledig turnusstilling i en av kommunene som samarbeider med helseforetaket om turnusstillinger. Kommunene skal avtale hvem av dem som tilbyr turnuslegen en ledig turnusstilling.
+Helsedirektoratet kan i samråd med statsforvalteren pålegge en av kommunene å tilsette en turnuslege som skal tilbys ledig turnusstilling.
+§ 15 tredje og fjerde ledd gjelder tilsvarende.
