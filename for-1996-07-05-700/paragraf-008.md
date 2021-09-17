@@ -1,0 +1,2 @@
+# § 8. Klage over vedtak om forbud mot utførelse av arbeid
+En person som er ilagt forbud mot å utføre arbeid i medhold av § 7 kan klage vedtaket inn for statsforvalteren. Statsforvalteren kan i denne forbindelse bestemme at personer som er smitteførende med antibiotikaresistente sykdomsfremkallende bakterier likevel kan utføre arbeid i helsevesenet, dersom det er åpenbart at de i sitt arbeid ikke representerer noen fare for overføring av smitte til andre.
