@@ -1,0 +1,7 @@
+# § 5. Krav til virksomhetens lokaler og melding eller godkjenning av disse
+Lokalene skal være utformet, innredet og utstyrt på en slik måte at rengjøring, desinfeksjon, sterilisering og oppbevaring av utstyr kan skje på en hygienisk tilfredsstillende måte for å forebygge overføring av smittsomme sykdommer. Lokalene skal ha innlagt vann og tilstrekkelig antall vaskeservanter tilpasset virksomhetens art og størrelse.
+Lokalene skal ikke benyttes til annen virksomhet eller aktivitet som kan innebære en hygienisk risiko, og kan heller ikke lånes eller leies ut til slik virksomhet. Innredningen og utstyret skal tilpasses virksomhetenes art og størrelse, samt hvor mange personer som oppholder seg i lokalene.
+Lokaler som skal benyttes til frisør- og hudpleievirksomhet skal tilfredsstille kravene i første og annet ledd og meldes til kommunen før de tas i bruk.
+Lokaler som skal benyttes til tatoverings- og hulltakingsvirksomhet, skal tilfredsstille kravene i første og annet ledd og være godkjent av kommunen før de tas i bruk. Tatoverings- og hulltakingsvirksomhet kan bare utøves i godkjent lokale.
+Krav om melding eller godkjenning gjelder også når eksisterende virksomhet skifter eier og ved større ominnredninger.
+For søknad om godkjenning av lokaler som skal benyttes til tatoverings- og hulltakingsvirksomhet skal saksbehandlingsfrist som nevnt i tjenesteloven § 11 første ledd første punktum, være tre måneder. Tjenesteloven § 11 annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning av slike lokaler.
