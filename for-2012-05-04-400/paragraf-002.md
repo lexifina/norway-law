@@ -1,0 +1,3 @@
+# § 2. Plikt til å avlegge prøve
+Er det grunn til å tro at helsepersonell har overtrådt forbudet mot å innta eller å være påvirket av alkohol eller andre rusmidler i arbeidstiden, kan arbeidsgiver eller statsforvalteren pålegge helsepersonell å avgi utåndingsprøve, blodprøve eller lignende prøve. Slik prøvetaking skal foretas av helsepersonell som nevnt i helsepersonelloven § 12.
+Dersom helsepersonell nekter eller på annen måte unndrar seg fra å avgi prøver som nevnt i første ledd, kan arbeidsgiver eller statsforvalteren be politiet om bistand til å fremstille helsepersonellet for prøvetaking.
