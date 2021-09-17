@@ -1,0 +1,5 @@
+# § 6. Fastsettelse av tvangsmulktens størrelse
+Tvangsmulkt utmåles i forhold til kostnadene ved å gjennomføre det pålegg som er gitt, og settes minst så høyt at det blir ulønnsomt å oversitte fristen.
+En tvangsmulkt skal være så stor at den er effektiv uten å være urimelig. For å oppnå dette bør helse- og sosialstyret ved vurderingen av tvangsmulktens størrelse ta hensyn til hvor viktig det er at det påtalte forhold rettes og hvor store kostnader det må antas å medføre.
+Fastsettelse av en tvangsmulkts størrelse er en utpreget skjønnsmessig vurdering som må vurderes ut fra de konkrete forhold. Et moment i vurderingen vil kunne være at adressaten for pålegget har fått en knapp frist for oppfyllelse. Det vil i disse tilfelle være mer naturlig med en lav mulkt, enn i de tilfelle hvor adressaten har fått god tid på seg til å oppfylle pålegget.
+Det antas at det ofte vil være hensiktsmessig for helse- og sosialstyret å innhente uttalelse fra økonomisk, teknisk og eventuell annen ekspertise innen kommunen før det fastsetter tvangsmulktens størrelse.
