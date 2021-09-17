@@ -1,0 +1,7 @@
+# § 4. Spesiell tillatelse
+Etter søknad kan leger eller tannleger med følgende kompetanse gis spesiell tillatelse til å utføre kosmetisk kirurgiske inngrep:
+a) Leger som er godkjente spesialister i generell kirurgi kan utføre kosmetisk kirurgiske inngrep innenfor sitt fagfelt i den grad de er faglig kompetente til det.
+b) Leger som er godkjente spesialister i øre-nese-halssykdommer kan utføre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde, og som inngår som en naturlig del av utdanningen i spesialiteten.
+c) Leger som er godkjente spesialister i øyesykdommer kan utføre øyelokkorreksjoner og andre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde, og som inngår som en naturlig del av utdanningen i spesialiteten.
+d) Leger som er godkjente spesialister i kjevekirurgi og munnhulesykdommer kan utføre kosmetisk kirurgiske inngrep i munnhulen, og på ansiktsskjelettet og andre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde, og som inngår som en naturlig del av utdanningen i spesialiteten.
+e) Tannleger som er godkjente spesialister i oral kirurgi og oral medisin kan utføre kosmetisk kirurgiske inngrep i munnhulen, og på ansiktsskjelettet samt andre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde og, som inngår som en naturlig del av utdanningen i spesialiteten.
