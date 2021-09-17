@@ -1,0 +1,2 @@
+# § 9. Ikrafttreden
+Denne forskrift trer i kraft fra 1. januar 1984. Fra samme dato oppheves midlertidig norm for instruks for helsesøstre, herunder som administrativ leder av helsestasjonsvirksomhet og skolehelsetjeneste, fastsatt av helsedirektøren 12. april 1976, midlertidige retningslinjer for opprettelse og drift av hjemmesykepleievirksomhet, fastsatt av Sosialdepartementet 22. desember 1971 og norm for instrukser for sykepleiesjef, offentlig godkjent sykepleier og hjelpepleier i hjemmesykepleien, fastsatt av Sosialdepartementet samme dato.
