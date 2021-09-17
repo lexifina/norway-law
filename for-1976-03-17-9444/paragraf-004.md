@@ -1,0 +1,2 @@
+# § 4
+Ved utlevering av legemidler som bare skal utleveres mot resept (jfr. forskrifter om rekvirering og utlevering av legemidler fra apotek av 19. februar 1965) skal legen (veterinæren) sørge for at legemidlet blir forsynt med signatur som angir pasientens (dyreeierens) navn, bruksanvisning, dato for utlevering samt legens (veterinærens) navn. Det skal til dette nyttes hvit signatur. For injeksjoner skal det være rød diagonalstrek fra nederste venstre hjørne på signaturen.
