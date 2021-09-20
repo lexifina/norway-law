@@ -1,0 +1,2 @@
+# § 22. Europeisk utvekslingsorganisasjon for organer
+Helse Sør-Øst RHF, Oslo universitetssykehus HF ved Nasjonal behandlingstjeneste for organtransplantasjon kan inngå avtale med europeisk organutvekslingsorganisasjon om gjennomføring av spesifikke oppgaver knyttet til overføring av organer mellom Norge og de øvrige EU- og EØS-medlemsland og med tredjeland, herunder databehandleravtale etter personvernforordningen artikkel 28. Det er en forutsetning at organisasjonen tilfredsstiller kravene i denne forskriften som gjelder for de oppgavene organisasjonen skal ivareta.

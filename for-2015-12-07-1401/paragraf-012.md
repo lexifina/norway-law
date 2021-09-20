@@ -1,0 +1,5 @@
+# § 12. Kvalitets- og sikkerhetskrav knyttet til levende donor og etablering av regionalt samtykkebasert helseregister
+Levende donor skal velges ut etter en vurdering av personens psykiske og fysiske helse og medisinske historie av kvalifisert helsepersonell som har relevant utdannelse eller erfaring med slikt arbeid.
+Transplantasjonsvirksomheten skal gjennomføre alle nødvendige tiltak for å sikre full beskyttelse av levende donorer slik at kvaliteten og sikkerheten til organer til transplantasjon kan sikres.
+Virksomheten skal ha et system for oppfølging av levende donorer.
+Oslo universitetssykehus HF ved Nasjonal behandlingstjeneste for organtransplantasjon kan etablere et samtykkebasert register over levende donorer. Formålet med registeret er å samle inn og behandle helseopplysninger for oppfølging av donor etter donasjonen, samt kvalitetssikring og kvalitetsutvikling av donorkarakterisering og vurdering av donor, jf. forskriften § 11. Alle opplysninger som er relevante og nødvendige for å nå disse formålene kan behandles etter samtykke fra donor. Oslo universitetssykehus HF er dataansvarlig for behandlingen av opplysningene.
