@@ -1,0 +1,3 @@
+# § 4. Valg av leverandører
+Opplysningskontoret for frukt og grønnsaker foretar endelig godkjenning av leverandører. Helsedirektoratet kan fastsette nærmere krav til leverandører. Godkjenning gis for 2 år av gangen og kan oppheves ved grovt mislighold. Interesserte som ønsker å bli vurdert som leverandører til ordningen, henvender seg til Opplysningskontoret for frukt og grønnsaker og tas med i leverandørvurderingen ved førstkommende utløp av godkjenningsperioden i det aktuelle leveranseområdet.
+Opplysningskontoret for frukt og grønnsaker kan iverksette anbud om leveringsrettigheter når flere ønsker leveranse i samme område.
