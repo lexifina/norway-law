@@ -1,0 +1,2 @@
+# § 6. Opplysningsplikt
+Leverandørenes dokumenterte oppgaver over leveringer av frukt og grønnsaker skal sendes Opplysningskontoret for frukt og grønnsaker senest 30 dager etter siste leveransedag i hvert skolehalvår. Oppgavene skal være attestert av revisor ved krav overstigende kr 20.000. Opplysningskontoret for frukt og grønnsaker foretar utbetaling av prisnedskrivningstilskuddet til leverandørene umiddelbart etter at oppgavene er kontrollert.
