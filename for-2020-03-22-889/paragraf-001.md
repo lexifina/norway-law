@@ -1,0 +1,2 @@
+# § 1. Klagenemndas kompetanse
+Nemnda skal behandle klager på saker som gjelder erstatning for økonomisk tap etter lov 13. juni 1969 nr. 26 om skadeserstatning som følge av Arbeids- og velferdsetatens feilaktige praktisering av adgangen til å motta sykepenger, arbeidsavklaringspenger og pleiepenger, samt de tidligere ytelsene rehabiliteringspenger og attføringspenger, ved opphold i annet EØS-land.
