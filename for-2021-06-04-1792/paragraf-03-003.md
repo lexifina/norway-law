@@ -1,0 +1,4 @@
+# § 3-3. Øvre grenser for tilskudd
+(1) For tilskuddsperioder før september 2021 gjelder: Beregnet tilskuddsbeløp opp til 40 millioner kroner per tilskuddsperiode (to måneder) utbetales i sin helhet. For beregnet tilskuddsbeløp som overstiger 40 millioner kroner per tilskuddsperiode, vil beløpet over 40 millioner kroner avkortes med en faktor på 0,5.
+(2) For tilskuddsperioder fra september 2021 gjelder: Beregnet tilskuddsbeløp opp til 10 millioner kroner per tilskuddsperiode (to måneder) utbetales i sin helhet. For beregnet tilskuddsbeløp som overstiger 10 millioner kroner per tilskuddsperiode, vil beløpet over 10 millioner kroner avkortes med en faktor på 0,5. Maksimalt tilskudd per tilskuddsperiode til et foretak eller konsern er 20 mill. kroner.
+(3) Samlet tilskudd for alle tilskuddsperioder etter denne forskrift kan ikke overstige 100 millioner kroner.

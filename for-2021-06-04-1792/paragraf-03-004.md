@@ -1,0 +1,8 @@
+# § 3-4. Særlige regler for konsern
+(1) Konsern skal utpeke et foretak som er ansvarlig for å opplyse om konsernets eierstruktur og konsernets øvrige innsendte opplysninger. Det må utpekes en kontaktperson i dette foretaket.
+(2) Ansvarlig foretak, jf. første ledd, må utarbeide en oversikt over hvilke foretak som inngår i konsernet per første dato i tilskuddsperioden. Søker konsernet samlet, jf. fjerde ledd, skal konsernoversikten også angi hvordan tilskuddet fordeles innad i konsernet.
+(3) Et konsern kan la foretakene i konsernet søke enkeltvis. Alle foretak må i søknaden opplyse om de inngår i et konsern, og om ansvarlig foretak i konsernet. Adgangen til enkeltvis søknad gjelder ikke etter § 1-3 annet ledd bokstav c.
+(4) Et konsern kan søke om tilskudd samlet som om konsernet var ett foretak. Omsetning og kostnader skal ta utgangspunkt i konsolidert regnskap for den norske delen av konsernet. Foretaket som søker på vegne av konsernet, må innhente samtykke fra alle foretakene som inngår i konsernet. Samtykke kan gis av personer som er berettiget til å søke, jf. § 4-4.
+(5) Konsernets valg av søknadsform, dvs. enkeltsøknader etter tredje ledd eller samlet konsernsøknad etter fjerde ledd, vil være bindende for alle tilskuddsperioder.
+(6) Vilkårene i § 2-4, § 2-5 første og annet ledd og § 2-6 må være oppfylt for foretakene i den norske delen av konsernet. Vilkårene i § 2-5 tredje ledd må være oppfylt både for foretaket som søker og samlet for konsernet som helhet.
+(7) For konsern anvendes beløpsgrenser og avkortning etter § 3-3 også på summen av beregnede tilskuddsbeløp for alle foretakene i konsernet.

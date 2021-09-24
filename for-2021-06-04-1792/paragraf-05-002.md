@@ -1,0 +1,3 @@
+# § 5-2. Tilbakebetaling av uriktig utbetalt tilskudd
+(1) Dersom det er utbetalt tilskudd i strid med bestemmelsene i lov 18. desember 2020 nr. 156 om midlertidig tilskuddsordning for foretak med stort inntektsfall etter august 2020 eller forskrift gitt med hjemmel i denne lov, skal det uriktig utbetalte beløpet tilbakebetales. I tillegg skal det betales renter fra tildelingstidspunktet og frem til tilbakebetaling skjer. Rentesatsen er den sats EFTAs overvåkingsorgan til enhver tid fastsetter for krav om tilbakeføring av ulovlig støtte.
+(2) Dersom et tilbakebetalingskrav utgjør under 100 kroner, tilbakebetales ikke beløpet.
