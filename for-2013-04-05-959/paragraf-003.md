@@ -1,0 +1,4 @@
+# § 3. Arkitektur- og standardiseringsrådet
+Arkitektur- og standardiseringsrådet er et rådgivende organ for Digitaliseringsdirektoratet og består av representanter fra statlige, fylkeskommunale, kommunale og private organer.
+Arkitektur- og standardiseringsrådet har en rolle som tilrettelegger og pådriver for systematisk bruk av IT-arkitektur og IT-standarder mellom og i forvaltningen. Arkitektur- og standardiseringsrådet skal gi anbefaling til Digitaliseringsdirektoratet om hvilken IT-arkitektur og hvilke IT-standarder som bør legges til grunn i forvaltningen. Arkitektur- og standardiseringsrådet skal primært beskjeftige seg med IT-arkitektur og IT-standarder som har relevans for en stor bredde av offentlige aktører.
+Anbefalte og obligatoriske IT-standarder i offentlig sektor bør ses i sammenheng og skal være publisert samlet på internettsiden til Digitaliseringsdirektoratet.
