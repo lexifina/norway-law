@@ -1,0 +1,2 @@
+# § 1. Virkeområde og formål
+Forskriften gjelder fastsettelse av særskilte delingstall etter § 2-5 i lov om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer. De særskilte delingstallene gjelder for årskullene 1943 til og med 1962 og skal sikre at levealdersjusteringen mellom årskull er den samme som i folketrygden. De særskilte delingstallene som er fastsatt for 1943-kullet, benyttes også for årskull født før 1943.
