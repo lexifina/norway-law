@@ -1,0 +1,4 @@
+# § 13. Klagenemndas kompetanse
+(1) Klagenemnda skal ta utgangspunkt i forskriften § 1 og vedlegget til forskriften når den vurderer en klage på vedtak fattet av en lege, men kan etter en individuell vurdering fravike krav i vedlegget til forskriften.
+(2) Klagenemnda kan kreve at vedkommende los eller losaspirant fremstiller seg til de legeundersøkelser som er påkrevet for å bringe hans eller hennes helsetilstand på det rene.
+(3) Klagenemnda kan sette særlige begrensninger og vilkår for utstedelse av helseerklæring og begrensningene skal påføres helseerklæringen. I vurderingen av om det skal settes særlige begrensninger, skal det blant annet tas hensyn til losens helse, drift av lostjenesten, den tjeneste losen skal utføre og losens evne til å fungere effektivt i en nøds- eller ulykkessituasjon.
