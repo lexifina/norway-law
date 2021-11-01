@@ -1,0 +1,3 @@
+# § 10. Om søknad om å setje opp, utvide og endre hus
+Etter søknad som fjellstyret avgjer, kan seterbrukaren setje opp, utvide og endre hus for ei rasjonell utnytting av utvist seter. Fjellstyret skal ta stilling til kva slag og kor mange hus som trengst, deira storleik og standard eller anna, og kan setje vilkår for oppføring, utviding og endring av hus. Fjellstyret skal leggje saka fram for Statskog SF til fråsegn før fjellstyret gjer vedtak etter dette leddet.
+Om fjellstyret vil krevje at hus eller anlegg som alt står, skal rivast, må fjellstyret leggje saka fram for regional kulturminnestyresmakt til fråsegn før fjellstyret gjer vedtak. Det same gjeld ved nybygg og endring eller utviding av hus på seter, der dette vil påverke eksisterande kulturmiljø.
