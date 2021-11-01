@@ -1,0 +1,2 @@
+# § 8. Avvikling
+Ved pasientens død skal det i meldingen til lensmannen eller tingretten gis opplysninger om avdødes formuesstilling, herunder om størrelsen av midler i bank som disponeres av institusjonen eller midler som er overført til statsforvalteren. Bankens navn og kontonummer skal oppgis. Etter anmodning skal bankbøker og andre midler overlates til lensmannen, tingretten eller til personer som kan legge frem skifteattest og eventuelt skriftlig fullmakt fra øvrige arvinger.
