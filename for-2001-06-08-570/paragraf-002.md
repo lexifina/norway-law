@@ -1,0 +1,2 @@
+# § 2. (Innkrevjing av festeavgift på grunnlag av eldre festeavtaler)
+For tida fram til festeavgifta i det einskilde festehøvet første gong er blitt regulert etter lov av 20. desember 1996 nr. 106 om tomtefeste § 15, kan det ikkje krevjast inn ei høgare festeavgift enn den som lovleg kunne krevjast inn då lova blei sett i kraft. Dersom beløpet som kan krevjast inn etter første punktum, er lågare enn den festeavgifta som er fastsett i festehøvet, kan bortfestaren kvart år justere beløpet opp i samsvar med endringa i konsumprisindeksen frå Statistisk sentralbyrå.
