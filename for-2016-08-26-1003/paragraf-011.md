@@ -1,0 +1,3 @@
+# § 11. Adgang til tilbakehold og tilbakeføring ved rømming
+Pasient som er inntatt i institusjon etter vedtak med hjemmel i helse- og omsorgstjenesteloven § 10-2 og § 10-3, herunder ved midlertidige vedtak, og ved samtykke til tilbakehold etter § 10-4, kan holdes tilbake mot sin vilje og hentes tilbake ved rømming, om nødvendig med tvang.
+Ved rømming skal institusjonen straks varsle kommunen og om nødvendig politiet. I samarbeid med kommunen skal institusjonen sette i verk nødvendige tiltak for å tilbakeføre pasienten til institusjonen. Tilbakeføring av pasienten skal skje på en så skånsom måte som mulig.
