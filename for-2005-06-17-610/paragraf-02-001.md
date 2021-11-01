@@ -1,0 +1,4 @@
+# § 2-1. Plikt til å ha infeksjonskontrollprogram og ansvar for gjennomføring
+Alle institusjoner som omfattes av forskriften, skal ha et infeksjonskontrollprogram. Infeksjonskontrollprogrammet skal tilpasses den enkelte virksomhet og være basert på en risikovurdering og identifisering av kritiske punkter i institusjonen. Infeksjonskontrollprogrammet skal angi hvem som har det faglige og organisatoriske ansvaret for de tiltak programmet omfatter. Programmet skal også omfatte tiltak for å verne personalet mot smitte.
+Ledelsen ved institusjonen skal sørge for at infeksjonskontrollprogrammet utformes, iverksettes og vedlikeholdes som en del av institusjonens internkontrollsystem.
+Ledelsen ved institusjonen og enhver som utfører verv eller arbeid for denne, skal påse at bestemmelsene gitt i kapittel 2 overholdes.
