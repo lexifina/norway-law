@@ -1,0 +1,1 @@
+# I. Vederlag utenfor institusjon.
