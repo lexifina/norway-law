@@ -1,0 +1,5 @@
+# § 3. Fiske etter andre arter
+Miljødirektoratet kan tillate fiske og fangst av andre arter i samsvar med vilkårene angitt i naturmangfoldloven § 16 tredje og fjerde ledd.
+Statsforvalteren kan tillate fiske av gjørs, asp og flire og andre arter for hele eller deler av fylket herunder i nærmere bestemte vassdrag, innsjøer eller vassdragsavsnitt, dersom det lokalt er høstingsverdige bestander av disse artene og fisket ikke utgjør noen trussel mot bestandene. Det samme gjelder for fangst av edelkreps.
+Statsforvalteren kan forby fiske av arter det er tillatt å fiske på etter § 2 dersom fisket medfører betydelig bifangst av arter det ikke er tillatt å fiske på. Statsforvalteren kan også forby fiske på arter som det er tillatt å fiske på etter § 3, første ledd dersom arten lokalt eller regionalt er truet.
+For å hindre videre spredning av arter kan statsforvalteren forby fiske av arter det ellers er tillatt å fiske på etter § 2 og § 3 første og annet ledd. Statsforvalteren kan også innføre forbud mot fiske i nærmere avgrensede områder med samme formål.
