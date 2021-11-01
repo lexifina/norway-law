@@ -1,0 +1,7 @@
+# § 4. Artens økologiske funksjonsområde
+Som økologisk funksjonsområde for klippeblåvinge regnes i forskriften artens leveområder.
+I det økologiske funksjonsområdet for klippeblåvinge er bruk som tar hensyn til klippeblåvingens leveområder tillatt. Annen bruk er ikke tillatt. Med unntak av de handlinger som er nevnt i tredje ledd, kan forvaltningsmyndigheten inngå avtale med grunneier eller rettighetshaver om hvilke handlinger som skal være tillatt, og hvilke som ikke skal være tillatt, for eksempel når det gjelder planting av trær og busker og graving. Forbudet etter annet punktum gjelder ikke for handlinger som er regulert i avtalen.
+Oppføring av nybygg og større tilbygg, masseuttak, utfylling og lagring av masser og skogplanting er forbudt.
+Dersom bestemmelsene i annet eller tredje ledd medfører en vesentlig vanskeliggjøring av igangværende bruk og et vesentlig tap, kan grunneier kreve at området vernes etter naturmangfoldloven kapittel V eller at det gjøres unntak fra prioriteringen for de aktuelle områdene etter § 8.
+Dersom det planlegges inngrep i et økologisk funksjonsområde for klippeblåvinge, kan forvaltningsmyndigheten kreve at følgene av det planlagte inngrepet for denne arten klarlegges, i samsvar med naturmangfoldloven § 24 første ledd bokstav c.
+Ved vedtak etter annet lovverk, skal hensynet til arten og dens økologiske funksjonsområde ivaretas i samsvar med denne forskriften.
