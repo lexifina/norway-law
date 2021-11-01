@@ -1,0 +1,1 @@
+# Jf. rekvisisjonsloven § 11.

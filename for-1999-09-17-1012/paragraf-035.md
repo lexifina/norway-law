@@ -1,0 +1,2 @@
+# § 35
+Vedtak om rekvisisjon av bruksrett til privat grunn under militære øvelser er unntatt fra forvaltningslovens bestemmelser om grunngiving og klage. Det samme gjelder vedtak om militære rekvisisjoner som forberedes i fred. Når det gjelder pålegg om forberedende tiltak, som i fred kan gis til virksomheter og bedrifter, vises til forvaltningslovens bestemmelser om at grunngiving kan unnlates i den utstrekning begrunnelse ikke kan gis uten å røpe opplysninger som parten ikke har krav på å bli kjent med.

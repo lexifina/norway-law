@@ -1,0 +1,2 @@
+# § 4
+Rekvisisjonsrett er adgangen til å kreve til Forsvarets bruk varer og tjenester i sin alminnelighet – og av spesiell art. Fortegnelse over rekvisisjonsberettigede myndigheter innenfor Forsvaret er gitt i kap. XVII. De enkelte rekvisisjonsberettigete myndigheter kan delegere sin rett til å utstede rekvisisjoner for bestemte oppdrag til sjef for underlagte ledd. For varer og tjenester mv. som etter sin art kan knyttes til en bestemt forsvarsgren/institusjon som største bruker, vil rekvisisjonsretten som regel bli lagt til disse.

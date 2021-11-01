@@ -1,0 +1,2 @@
+# § 26
+Partene (rekvirenten og den det er rekvirert hos) varsles av nemnda om tid og sted for skjønnsforretningen. I protokollen innføres partenes navn og adresse. Hvis den det er rekvirert hos, ikke møter selv, kan en annen møte som hans representant. Han skal da legge fram fullmakt for parten, når nemnda krever det. Møter ingen for den part det er rekvirert hos, kan skjønn likevel holdes om nemnda finner det forsvarlig.

@@ -1,0 +1,2 @@
+# § 44
+Forberedelsene av behovsdekning av andre forsyninger, gjenstander, varer og tjenester enn de som er omtalt foran i dette kapittel skjer ved at de militære myndigheter som har ansvaret for mobiliseringsforberedelsene, fremmer behovsoppgaver gjennom Forsvarets overkommando og Forsvarsdepartementet til det aktuelle fagdepartement, jf. bl.a. Nærings- og handelsdepartementets forskrift om leveranseplanlegging for varer og tjenester til enheter i totalforsvaret, datert 3. august 1999.

@@ -1,0 +1,2 @@
+# § 40
+Forberedelse av rekvisisjon av telefon og radio mv. til bruk for Forsvaret ved beredskap og krig utføres i samsvar med særskilte forskrifter for Telenor AS under beredskap og krig. Behov for forberedte linjesamband for bruk ved beredskap og krig bestemmes i fred i samsvar med TFF avsnitt 362A. Alle behov for ytelser fra Telenor AS (Norsk Rikskringkasting på radiosiden) inklusive klarering av radiofrekvenser, fremsendes tjenesteveg til Forsvarets overkommando, som i nødvendig utstrekning koordinerer med bl.a. Post- og teletilsynet.

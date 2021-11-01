@@ -1,0 +1,6 @@
+# § 52
+Berettiget til å utstede rekvisisjoner, jf. § 4 i forskriften, er:
+a) Landsomfattende myndighet: Forsvarssjefen Generalinspektøren for Hæren Generalinspektøren for Sjøforsvaret Generalinspektøren for Luftforsvaret Generalinspektøren for Heimevernet Sjefen for Forsvarets overkommando/Operasjonsstaben Sjefen for Forsvarets overkommando/Sanitetsstaben Sjefen for Hærens forsyningskommando Sjefen for Sjøforsvarets forsyningskommando Sjefen for Luftforsvarets forsyningskommando Sjefen for Forsvarets tele- og datatjeneste Sjefen for Forsvarets bygningstjeneste.
+b) Landsdelsomfattende myndighet: øverstkommanderende i Sør-Norge øverstkommanderende i Nord-Norge.
+c) Regional myndighet: Sjef for distriktskommando Sjef for sjøforsvarsdistrikt Sjef for hovedflystasjon Sjef for forsyningsinstallasjon med regionalt forsyningsansvar.
+d) Lokal myndighet (fylkesnivå): Sjef for territorielt regiment Sjef for divisjon/brigade Sjef for forsvarsavsnitt Sjef for heimevernsdistrikt Sjef for selvstendig opererende bataljon eller kompani (tilsv) i Hæren og Luftforsvaret Sjef for orlogsstasjon Sjef for fartøysskvadron, uavhengig fartøysdivisjon og KNM-fartøy Gruppefortsjef i Kystartilleriet Sjef for flystasjon eller LKK-stasjon Sjef for selvstendig opererende skvadron eller ving.
