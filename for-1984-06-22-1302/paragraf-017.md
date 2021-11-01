@@ -1,0 +1,3 @@
+# § 17. Oppretting av kontrakt om feste av seterhus til fritidsformål
+Ved oppretting av kontrakt om feste av seterhus til fritidsformål, kan det takast inn særlege restriksjonar med omsyn til restaurering, utviding og endring av seterhusa når dette er nødvendig på grunn av kvaliteten på husa, plassen der dei ligg, og tilhøve til eventuell anna seter med hus og seterdrift. I slike tilfelle skal saka leggjast fram for regional kulturminnestyresmakt til fråsegn.
+Sjølv om festet gjeld fleire hus, skal ein nytte punktfeste (kontrakt om feste berre av grunnen huset eller husa dekkjer). Husa må vere av ein slik standard at dei kan tene formålet, og nødvendige påkostnader må stå i eit rimeleg høve til verdien av husa.

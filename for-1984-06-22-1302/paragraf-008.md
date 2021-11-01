@@ -1,0 +1,5 @@
+# § 8. Om frist til å ta setra i bruk
+Utvist seter må takast i bruk innan 5 år, jf. § 18 femte ledd i fjellova. Når det er gått 5 år sidan utvisinga blei gjort, skal fjellstyret sjå til at utvist seter er teken i bruk i samsvar med føresetnadene for utvisinga. Om det utviste ikkje er teke i bruk innan 5 år skal fjellstyret ved vedtak ta stilling til om retten er falt bort, og gi melding til Statskog SF.
+I si melding til Statskog SF må fjellstyret gi sitt syn på om seterbrukaren skal fjerne eventuelle hus eller om utvisinga skal førast over til ein annan eigedom i samsvar med § 20 første ledd, eller § 21 første ledd i fjellova. Fjellstyret skal i slike saker innhente fråsegn frå regional kulturminnestyresmakt.
+Statskog SF kan påleggje seterbrukaren å fjerne eventuelle hus, om ikkje utvisinga blir ført over til ein annan eigedom i samsvar med § 20 første ledd eller § 21 første ledd i fjellova, og den nye brukaren tek over husa.
+Ved overføring av utvist seter, gjeld føresegnene i første, andre og tredje ledd tilsvarande.
