@@ -1,0 +1,4 @@
+# § 9. Beslag og tilintetgjøring av legemidler, rusmidler, skadelige stoffer og farlige gjenstander
+Institusjonens leder eller den lederen gir fullmakt kan treffe vedtak om at legemidler, rusmidler, skadelige stoffer eller farlige gjenstander kan beslaglegges.
+Ved beslag av ulovlige rusmidler skal politiet kontaktes. Legemidler som er forskrevet av lege utenfor institusjon kan beslaglegges av institusjonenes leder eller den lederen gir fullmakt, etter samråd med institusjonens lege. Institusjonens leder eller den lederen gir fullmakt kan treffe vedtak om at beslaglagte legemidler som etter en medisinsk vurdering anses som utilrådelig å levere tilbake ved utskriving, skal tilintetgjøres. Farlige gjenstander kan overleveres politiet. Institusjonens leder eller den lederen gir fullmakt kan dessuten vedta at farlige gjenstander skal tilintetgjøres.
+Opplysninger om pasient og bruker skal bare gis til politiet så langt det ikke er i strid med lovbestemt taushetsplikt.
