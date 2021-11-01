@@ -1,0 +1,4 @@
+# § 2-3. Organisering i spesialisthelsetjenesten
+Ved institusjoner som omfattes av spesialisthelsetjenesteloven § 1-2, skal ledelsen for å følge opp pliktene etter § 2-1 og § 2-2 vurdere, systematisere og beskrive hvilke oppgaver som skal utføres innen smittevernet i institusjonen, og sørge for at det er tilsatt tilstrekkelig smittevernpersonell, herunder hygienesykepleier(e) og lege(r), og sørge for at disse får avsatt tilstrekkelig tid til å utføre sine oppgaver.
+En lege skal ha ansvar for å koordinere smittevernet innen institusjonen og skal i slike spørsmål være direkte underlagt ledelsen.
+Institusjonens ledelse skal ved oppnevning av kvalitetsutvalg, jf. spesialisthelsetjenesteloven § 3-4, sørge for at helsepersonell med innsikt i smittevern i helseinstitusjoner er representert i utvalget eller på annen hensiktsmessig måte er tilknyttet dette.
