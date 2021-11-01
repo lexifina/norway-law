@@ -1,0 +1,2 @@
+# § 8. (Regulering av terminvis pengesum)
+Regulering i samsvar med endringa i pengeverdien av den terminvise pengesummen etter avhendingslova § 2-10 første leddet, jf. tredje leddet, skal skje i samsvar med utviklinga i (den berekna) konsumprisindeksen frå Statistisk sentralbyrå. I avtalehøve frå før 1865 skal ein regulere den terminvise pengesummen ut frå utviklinga i konsumprisindeksen frå 1865.
