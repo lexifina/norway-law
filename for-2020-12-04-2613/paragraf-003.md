@@ -1,0 +1,2 @@
+# § 3. Forbud mot uttak, skade og ødeleggelse
+Enhver form for uttak, skade eller ødeleggelse av elfenbenslav er forbudt. Som ødeleggelse regnes fysisk og kjemisk påvirkning av artens voksesteder på en slik måte at arten påvirkes negativt, herunder direkte påvirkning, ødeleggelse eller fjerning av steiner, trær, bergvegger eller annet som arten vokser på, samt andre handlinger som er egnet til å skade, forandre, tildekke, forstyrre eller på annen måte forringe forekomster av arten.
