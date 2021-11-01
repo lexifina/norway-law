@@ -1,0 +1,4 @@
+# § 27
+Skjønnsnemnda skal i den grad det er praktisk mulig besiktige skjønnets gjenstand, enten å få gjenstanden fremlagt eller ved befaring på stedet.
+Hvis det ikke er mulig å gi skjønnsnemnda anledning til å besiktige det som er rekvirert, skal skjønnsnemnda legge den beskrivelse som foretas ved gjennomføring av rekvisisjonene og andre opplysninger som nemnda innhenter, til grunn for skjønnet.
+I protokollen skal nemnda gi en beskrivelse av den gjenstand som er skadet eller rekvirert. Nemnda skal gjøre rede for hva det rekvirerte består i, art, mengde og kvalitet. Før nemnda tar opp saken til realitetsvurdering skal den kontrollere at tapet, skaden eller ytelsen omfattes av rekvisisjonen, og skal sammenholde beskrivelsen av skjønnets gjenstand med de rekvisisjonsdokumenter som er lagt fram. Dersom grunnlaget for erstatningskravet ikke er en rekvisisjon eller den gjenstand som er skadet ikke er rekvirert, skal nemnda avvise kravet.

@@ -1,0 +1,2 @@
+# § 51
+Det som er rekvirert skal tilbakeleveres eller frigis til eier når Forsvaret ikke lenger har behov for det, eller når andre overordnete hensyn tilsier det, med mindre det gjelder ting som er overtatt til eie eller forbruk. Beskrivelse av det som blir frigitt settes opp på samme måte som nevnt i kap. IX. I de tilfeller det rekvirerte ikke tilbakeleveres, skal det ytes godtgjørelse eller erstatning etter reglene i kap. XI.

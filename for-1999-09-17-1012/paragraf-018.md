@@ -1,0 +1,2 @@
+# § 18
+På anmodning fra den som rekvisisjonen er rettet til, kan beskrivelse som nevnt ovenfor, foretas av to uhildete, nøytrale personer, såkalte synsmenn. Disse oppnevnes og tilkalles av kommunen. Kan kommunen ikke i tide oppnevne og tilkalle synsmenn, gjøres dette av rekvisisjonsmyndigheten. De som blir oppnevnt plikter å gjøre tjeneste. Er det ikke tid til å tilkalle synsmenn, skal rekvirenten sette opp beskrivelsen med de opplysninger som er nødvendige for at skjønnsnemnda senere kan verdsette det rekvirerte.

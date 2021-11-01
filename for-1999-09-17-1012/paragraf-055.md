@@ -1,0 +1,2 @@
+# § 55
+Forskriften trer i kraft den 1. desember 1999. Fra samme tid oppheves kgl.res. av 22. februar 1952 nr. 1 om Reglement for militære rekvisisjoner, kgl.res. av 15. januar 1954 om godkjenning av tillegg til rekvisisjonsreglementet, kgl.res. av 12. desember 1969 nr. 3 om unntak fra forvaltningslovens regler om grunngiving og klage ved militære rekvisisjoner, samt forskrift av 22. juni 1977 nr. 1 om unntak fra forvaltningslovens grunnregler om grunngiving og klage i visse saker etter lov om militære rekvisisjoner.
