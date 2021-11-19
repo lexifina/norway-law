@@ -1,0 +1,3 @@
+# § 2-5. Rapportering fra registeret
+Folkehelseinstituttet skal sørge for regelmessig rapportering om forekomsten av antibiotikabruk og helsetjenesteassosierte infeksjoner til de aktuelle delene av helsetjenesten, jf. § 1-2, gjennom å offentliggjøre årlige oversikter om antibiotikabruk og om forekomst av helsetjenesteassosierte infeksjoner i virksomhetene i landet.
+Folkehelseinstituttet skal ivareta rapportering om antibiotikabruk til Verdens helseorganisasjon og forekomst av helsetjenesteassosierte infeksjoner til EU-kommisjonen jf. vedtak 2119/98/EF. Slike opplysninger skal være avidentifiserte.
