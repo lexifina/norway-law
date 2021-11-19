@@ -1,0 +1,2 @@
+# § 1-2. Hjerte- og karregisterets formål
+Formålet med Hjerte- og karregisteret er å bidra til bedre kvalitet på helsehjelpen til personer med hjerte- og karsykdommer. Opplysninger i registeret skal benyttes til forebyggende arbeid, kvalitetsforbedring og helseforskning. Registeret skal også utgjøre et grunnlag for styring og planlegging av helsetjenester rettet mot personer med hjerte- og karsykdommer, overvåkning av nye tilfeller og forekomst av slike sykdommer i befolkningen.
