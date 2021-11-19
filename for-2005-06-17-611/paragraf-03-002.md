@@ -1,0 +1,2 @@
+# § 3-2. Informasjonsstrategi rettet mot brukergrupper
+For å fremme bruk av data fra registeret og for å bygge opp informasjon og kunnskap, jf. forskriften § 1-3, skal Folkehelseinstituttet ha en aktiv informasjonsstrategi og -plan rettet mot så vel helse- og omsorgsforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helse- og omsorgstjenesteforskning og samfunnsforskning.
