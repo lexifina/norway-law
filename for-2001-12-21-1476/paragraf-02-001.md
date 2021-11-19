@@ -1,0 +1,2 @@
+# § 2-1. (Legers alminnelige dokumentasjons- og meldeplikt)
+Leger som blir tilkalt til en døende eller til en som er død, skal, uten hensyn til taushetsplikt, snarest melde opplysninger som nevnt i § 1-6, jf. § 2-2, til Dødsårsaksregisteret. Leger som melder på papir sender meldingen via tingretten, lensmannen eller namsmannen. Fra 1.1.2022 skal meldingen sendes elektronisk på meldingsformat fastsatt av Folkehelseinstituttet.
