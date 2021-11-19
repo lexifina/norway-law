@@ -1,0 +1,2 @@
+# § 3-2. (Informasjonsstrategi rettet mot brukergrupper)
+For å fremme bruken av data fra NORM og RAVN og for å bygge opp informasjon og kunnskap for formål som nevnt i § 1-3, skal Folkehelseinstituttet ha en aktiv informasjonsstrategi og -plan rettet mot så vel helse- og omsorgsforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helse- og omsorgstjenesteforskning og samfunnsforskning.

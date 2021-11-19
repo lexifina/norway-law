@@ -1,0 +1,3 @@
+# § 1-8. (Koding og klassifisering av opplysningene i NORM og RAVN, krav til dokumentasjon, kvalitetskontroll)
+Folkehelseinstituttet skal sørge for at opplysninger som behandles i NORM og RAVN er korrekte, relevante og nødvendige for de formål de innsamles for, jf. § 1-3. Folkehelseinstituttet skal ved enhver registrering i NORM og RAVN kunne dokumentere hvilke klassifikasjoner eller kodeverk som er benyttet og hvilke mikrobiologiske metoder som er brukt for å frembringe de registrerte opplysningene, jf. § 2-3 annet ledd.
+Dersom meldingsskjema er mangelfullt utfylt, skal avsenderen av opplysningene varsles, jf. helseregisterloven § 13 andre ledd andre punktum.
