@@ -1,3 +1,5 @@
-# § 75. Krav om bustad
-(1) Dagleg leiar og minst halvparten av styremedlemmane skal vere busette her i riket, om ikkje Kongen gjer unntak i det einskilde tilfellet.
-(2) Første ledd gjeld ikkje statsborgarar i statar som er part i EØS-avtalen, når dei er busette i ein slik stat.
+# § 75. Krav om tilknyting
+Dagleg leiar og minst halvdelen av styremedlemmane skal vere
+1) busette her i riket;
+2) statsborgarar i statar som er part i EØS-avtalen eller statsborgarar i Det sameinte kongeriket Storbritannia og Nord-Irland, når dei er busette i ein slik stat.
+Departementet kan ved enkeltvedtak gjere unntak frå første punktum.
