@@ -1,0 +1,3 @@
+# § 1
+Foretak etablert i Det Forente Kongeriket Storbritannia og Nord-Irland kan uten tillatelse fra Finanstilsynet yte investeringstjenesten porteføljeforvaltning, jf. verdipapirhandelloven § 2-1 (1) nr. 4, overfor norske profesjonelle kunder som angitt i § 10-6 (1) nr. 1 bokstav e lokalisert i Norge direkte fra forretningssted i hjemstaten.
+Foretaket må være underlagt tilsvarende regulering og betryggende tilsyn i hjemstaten. Verdipapirhandelloven § 9-34 (2) og (3) gjelder tilsvarende så langt de passer. Finanstilsynet kan ved enkeltvedtak eller forskrift avgrense mot ytelse av tilknyttede tjenester.
