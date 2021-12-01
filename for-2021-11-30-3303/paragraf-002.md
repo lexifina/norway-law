@@ -1,0 +1,2 @@
+# § 2
+Finanstilsynet kan fastsette vilkår for foretakets aktiviteter. Finanstilsynet kan gi pålegg om retting, herunder pålegg om opphør av virksomheten, dersom foretaket driver virksomhet i strid med begrensningene som følger av forskriften her eller begrensninger som følger av annet regelverk som gjelder for foretakets virksomhet i Norge. Finanstilsynet kan ved enkeltvedtak eller forskrift innskrenke eller oppheve retten til fortsatt tjenesteyting etter § 1.
