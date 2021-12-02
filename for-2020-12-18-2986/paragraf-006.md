@@ -1,0 +1,3 @@
+# § 6. Tilbakerapportering
+Dersom utbyggeren utfører arbeider som avdekker et ledningsanlegg, skal utbyggeren rapportere resultatet av arbeidet tilbake til ledningseieren i henhold til standard utgitt av Statens kartverk eller likeverdig internasjonalt akseptert standard. Blir ledningsanlegget ikke flyttet, skal utbyggeren dokumentere dette. Blir anlegget flyttet eller endret, skal utbyggeren stedfeste og dokumentere dette. Kravet gjelder ikke når ledningseieren påtar seg å dokumentere anlegget i samsvar med kravene i § 4. Kravet gjelder ikke ukjente ledningsanlegg som ikke lar seg identifisere.
+Kravet gjelder uten hensyn til eventuell taushetsplikt.
