@@ -1,0 +1,4 @@
+# § 4. Kompenserende hvile og annet passende vern
+Når den arbeidsfrie perioden er kortere enn 11 timer i løpet av 24 timer, skal arbeidstaker sikres tilsvarende kompenserende hvileperiode.
+For de tilfeller der den arbeidsfrie perioden er kortere enn 8 timer i løpet av 24 timer, skal hver tapte time hviletid som gir under 8 timers hvile kompenseres med 2 timer. I tillegg skal det vurderes om det er behov for å gi annet passende vern. Hvorvidt annet passende vern skal gis må vurderes i forhold til risiko for ulykker, tjenestemannens helse og planlagte aktiviteter.
+Kompenserende hvile skal i tilfeller som nevnt i annet ledd normalt gis innen 48 timer. Dersom dette unntaksvis ikke er mulig, skal det i tillegg gis en fridag av normal arbeidsdags lengde. Slik fridag skal avvikles innen 14 dager.
