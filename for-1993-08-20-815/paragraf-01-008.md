@@ -1,0 +1,2 @@
+# § 1-8. Tvangsmulkt.
+Direktoratet for samfunnssikkerhet og beredskap kan ilegge tvangsmulkt dersom fristen for å utføre pålegg ikke overholdes. Tvangsmulkten fastsettes samtidig med pålegget eller i forbindelse med fastsetting av ny frist for utførelse av pålegget. Tvangsmulktens størrelse fastsettes under hensyn til hvor viktig det er at pålegg blir gjennomført og hvilke kostnader det antas å medføre.
