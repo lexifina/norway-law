@@ -1,0 +1,4 @@
+# § 6
+Uten hensyn til regler om jakttid og fredning kan vilt felles når fellingen anses påkrevet for å fjerne en akutt fare for alvorlig personskade eller betydelig materiell skade, eller når det foreligger annen nødstilstand. Slik felling skal snarest meldes til Sysselmesteren for Svalbards vedkommende og for Jan Mayens vedkommende til politimesteren i Nordland eller den han bemyndiger.
+Sysselmesteren kan uten hensyn til bestemmelsene om fredning og andre restriksjoner på utøvelse av jakt avlive eller gi tillatelse til å avlive isbjørn eller moskusfe som tar opphold ved faste eller midlertidige bosetninger og derved medfører fare for skade på personer eller annen vesentlig skade. Stasjonssjefen har tilsvarende myndighet m.h.t. isbjørn på Jan Mayen.
+Sysselmesteren og stasjonssjefen kan på henholdsvis Svalbard og Jan Mayen uten hensyn til bestemmelsene om fredning gi tillatelse til at vilt som er skadet eller lider på annen måte, blir avlivet.
