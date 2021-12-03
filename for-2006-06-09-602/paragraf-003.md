@@ -1,0 +1,2 @@
+# § 3. Vurdering av opplysningsplikt
+Ved vurderingen av om det kan gis adgang til å innhente opplysninger etter forskriften her, skal Sysselmesteren særlig legge vekt på om den samfunnsmessige nytten av å innhente opplysningene må antas å være større enn belastningen for dem det skal innhentes opplysninger fra. Dersom opplysningene kan hentes fra registre eller andre tilgjengelige datakilder, skal slik adgang som hovedregel ikke gis.
