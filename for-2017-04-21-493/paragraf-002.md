@@ -1,0 +1,3 @@
+# § 2. Virkeområdet
+Forskriften gjelder etablering, drift og bruk av jordstasjoner på Svalbard. Forskriften gjelder også loggføring av virksomheten ved jordstasjoner. Forskriften gjelder ikke for jordstasjoner som bare mottar kringkastingsprogram. Forskriften gjelder heller ikke for jordstasjoner som opererer i frekvensbånd regulert i gjeldende forskrift om generelle tillatelser til bruk av frekvenser (fribruksforskriften), men gjelder likevel for jordstasjoner som kommuniserer med satellitt ved bruk av frekvenser over 3000 GHz.
+Nasjonal kommunikasjonsmyndighet avgjør i tvilstilfeller om en jordstasjon reguleres av forskriften.

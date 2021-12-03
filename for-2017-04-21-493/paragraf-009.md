@@ -1,0 +1,6 @@
+# § 9. Tilsyn mv.
+Nasjonal kommunikasjonsmyndighet fører tilsyn med at forskriften og tillatelser etter § 4 blir oppfylt.
+Nasjonal kommunikasjonsmyndighet kan uten hinder av lovbestemt taushetsplikt kreve bistand fra Sysselmesteren på Svalbard samt andre myndigheter og forvaltningsorgan ved utstedelse av tillatelse og ved tilsynet.
+Innehaver av tillatelse plikter årlig og på forespørsel å dokumentere for Nasjonal kommunikasjonsmyndighet at bruken av jordstasjonen er i samsvar med kravene i § 7 første og andre ledd og vilkår gitt i tillatelsen etter § 4.
+Innehaver av tillatelse skal på forespørsel utlevere logg og lagrede data etter § 8 første og andre ledd og andre opplysninger som er nødvendig for gjennomføring av tilsyn. Opplysningene kan kreves utlevert elektronisk.
+Nasjonal kommunikasjonsmyndighet kan bestemme at dokumentasjon skal sendes direkte til den som bistår etter andre ledd. Dersom et organ som bistår Nasjonal kommunikasjonsmyndighet etter andre ledd har mottatt opplysninger som kan unntas offentlighet etter lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova) § 14, § 15, § 20 til § 24 eller § 26, skal alle krav om innsyn i opplysningene behandles av Nasjonal kommunikasjonsmyndighet.
