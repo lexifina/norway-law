@@ -1,0 +1,3 @@
+# § 4-11. Unormal eller sterkt varierende risiko.
+Ved drifts- og bruksforhold som kan lede til markert økning i fare for antennelse eller brannspredning, skal eier/bruker gjennomføre ekstraordinære tiltak som sikrer at risikoen ikke øker. Tilsvarende gjelder dersom tekniske tiltak, bygningsdeler, utstyr, anlegg, m.v. eller deler av slike som er av vesentlig betydning for brannsikkerheten, settes ut av funksjon i perioder.
+Etter brann, branntilløp eller annen hendelse som kan være varsel om at brannsikkerheten ikke er tilfredstillende, plikter eier/bruker å iverksette nødvendige undersøkelser, samt ekstraordinære brannverntiltak inntil risikoen er normalisert.

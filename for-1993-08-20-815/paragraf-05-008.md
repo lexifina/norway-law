@@ -1,0 +1,3 @@
+# § 5-8. Sikringstiltak ved arrangementer o.l.
+Forestillinger, utstillinger, større møter og andre tilstelninger i forsamlingslokaler, telt o.l skal eier eller bestyrer av vedkommende lokale i god tid melde til lokal brannsjef. Lokal brannsjef kan kreve de opplysninger som trengs for å kunne vurdere brannfaren og fastsette hvilke brannsikringstiltak som skal gjennomføres, herunder fastsette det maksimale antall personer som kan oppholde seg i lokalet. I vurderingen skal det legges vekt på rømningsmuligheter, vakthold, slokkingsutstyr og andre forhold av forebyggende og slokkemessig betydning.
+Sysselmesteren kan frita for meldeplikten når det gjelder permanente forsamlingslokaler som er i stadig bruk.
