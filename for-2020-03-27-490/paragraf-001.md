@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriftens formål er å utfylle lov om statlig garantiordning for lån til små og mellomstore bedrifter. Garantiene under ordningen skal tilfredsstille vilkår for lovlig statsstøtte etter EU-kommisjonens midlertidige rammeverk for statsstøttetiltak for å støtte økonomien under utbruddet av Covid-19. Garantiene skal også tilfredsstille vilkår for å kvalifisere som kredittbeskyttelse etter kapitalkravsforordningen, slik at finansforetakene kan behandle den garanterte delen av lån under ordningen som engasjement med staten.

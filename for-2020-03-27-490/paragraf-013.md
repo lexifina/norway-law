@@ -1,0 +1,2 @@
+# § 13. Lån fra flere finansforetak til samme bedrift
+Når et finansforetak mottar søknad om lån under ordningen, skal finansforetaket be lånesøkeren om informasjon om eventuelle lån som lånesøkeren har fått innvilget under denne ordningen fra andre finansforetak, jf. loven § 5 annet ledd annet punktum. Dersom finansforetaket etter dette blir kjent med at lånesøkeren har fått innvilget garantert lån fra andre finansforetak, skal finansforetaket påse at loven § 5 annet ledd annet punktum overholdes ved eventuell innvilgelse av nytt lån under ordningen.
