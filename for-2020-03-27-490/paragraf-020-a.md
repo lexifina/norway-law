@@ -1,0 +1,3 @@
+# § 20a. Restrukturering
+Eksfin kan etter anmodning fra finansforetak samtykke til avtale om restrukturering hvor garanterte lån inngår hvis dette anses å være i statens interesse, herunder at statens økonomiske tap antas å bli lavere enn ved utbetaling etter § 21. Vilkårene for restruktureringen skal være markedsmessige.
+Ved restrukturering som medfører nedskrivninger av lånebeløpet, utbetaler Eksfin på anmodning fra finansforetaket 90 prosent pro rata av finansforetakets aktuelle tap på det garanterte lånet. Forskriften § 21 annet, tredje og femte ledd gjelder tilsvarende. Forskriften § 8 gjelder tilsvarende så langt den passer.

@@ -1,0 +1,3 @@
+# § 20. Innmelding av innvilgede lån
+Finansforetaket skal hver uke sende melding til Eksfin med oversikt over hvor mye av garantirammen som er disponert, i det format Eksfin bestemmer.
+Eksfin skal oppbevare og sammenstille informasjon om innmeldte lån, og herunder holde oppdatert en oversikt over hvor mye av garantirammen som er disponert, og hvor mye finansforetakene har disponert av sine andeler. Eksfin skal på anmodning fra departementet legge frem informasjon om bruken av ordningen, herunder en oversikt som nevnt i § 7 over hvor mye det enkelte finansforetak har brukt av sin andel av garantirammen.

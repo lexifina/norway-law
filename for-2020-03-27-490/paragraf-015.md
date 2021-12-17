@@ -1,0 +1,3 @@
+# § 15. Løpetid. Garantiens varighet
+Garanterte lån kan uten hinder av loven § 5 første ledd bokstav d ha en løpetid på maksimalt seks år fra utbetaling. Lån som innvilges med en kortere løpetid enn seks år, kan uten hinder av loven § 5 fjerde ledd og forskriften § 2 annet ledd forlenges inntil maksimalt seks år, inkludert opprinnelig avtalt løpetid. Garantien gjelder fra lånet blir utbetalt og gjennom hele lånets løpetid, maksimalt seks år.
+For lån opprinnelig innvilget med en maksimal løpetid på inntil tre år, skal det ved forlengelse av løpetid etter første ledd særskilt avtales innkreving av garantiprovisjon etter § 16 fjerde ledd.
