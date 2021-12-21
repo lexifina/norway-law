@@ -1,0 +1,2 @@
+# § 16. Krav om produktsertifisering
+Kar og slanger skal være produktsertifisert av akkreditert sertifiseringsorgan, og i samsvar med krav fastsatt i NS 9416:2013 eller den til enhver tid gjeldende internasjonale standard med samme formål. Produktsertifikatet gjelder for ett bestemt produkt og skal utstedes til produsent, dennes representant eller eventuell leverandør. For kar med maksimalt volum mindre eller lik 1 m3 gjelder ikke kravet om produktsertifisering.

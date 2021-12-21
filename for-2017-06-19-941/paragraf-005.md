@@ -1,0 +1,3 @@
+# § 5. Krav til kvalifikasjoner, utdanning og kompetanse for prosjekterende foretak
+Den som prosjekterer akvakulturanlegget må kunne dokumentere at foretaket har samlede kvalifikasjoner som er tilpasset ansvarsområdet etter dette kapittelet, herunder at det benyttes personell med nødvendige og relevante faglige kvalifikasjoner for å sørge for at krav i eller i medhold av akvakulturloven og NS 9416:2013 blir ivaretatt.
+Den som prosjekterer må kunne dokumentere at det har personell med relevant praksis fra prosjektering innen samme eller tilsvarende fagområde, og det skal legges vekt på om foretakets kvalifikasjoner med hensyn til utdanning og praksis fremstår som relevante.
