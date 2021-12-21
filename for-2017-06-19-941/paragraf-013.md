@@ -1,0 +1,2 @@
+# § 13. Plikt til å iverksette tiltak ved avvik, varslingsplikt mv.
+Dersom produsent, dennes representant eller leverandør av komponenter har eller burde ha kjennskap til avvik ved egne produkter som kan føre til rømming av fisk, plikter de uten ugrunnet opphold, å iverksette egnede tiltak for å lukke avvikene. Det skal straks meldes fra om avviket til Fiskeridirektoratet og til mottakere av komponenten.

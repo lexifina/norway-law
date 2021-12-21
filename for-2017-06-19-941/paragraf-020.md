@@ -1,0 +1,6 @@
+# § 20. Oppstart av nye landbaserte akvakulturanlegg, avdelinger og fellesfunksjoner
+Innehavere av akvakulturtillatelse for landbaserte akvakulturanlegg for fisk som prosjekteres etter 1. januar 2018, skal dokumentere at anleggets komponenter som har betydning for rømmingssikkerheten er prosjektert slik at vilkårene i § 6 og § 7 er oppfylt. Dokumentasjonen sendes Fiskeridirektoratet på fastsatt skjema. En ny avdeling eller fellesfunksjon kan tas i bruk til akvakultur når Fiskeridirektoratet har kvittert for mottak av dokumentasjonen.
+Første ledd gjelder også for tiltakene som gjøres ved vesentlige endringer av avdelinger eller fellesfunksjoner.
+For nye landbaserte akvakulturanlegg skal det gjennomføres tilstandsanalyse av avdelinger og fellesfunksjoner åtte år etter at anlegget er tatt i bruk til akvakultur.
+Avdelinger og fellesfunksjoner som opprettes som en del av et anlegg som ble prosjektert før 1. januar 2018, skal inngå i tilstandsanalysen åtte år etter at avdelingen eller fellesfunksjonen er tatt i bruk til akvakultur.
+Avdelinger og fellesfunksjoner som er vesentlig endret skal inngå i tilstandsanalysen åtte år etter at avdelingen eller fellesfunksjonen ble tatt i bruk til akvakultur etter endringen.
