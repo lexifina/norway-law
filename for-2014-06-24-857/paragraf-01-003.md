@@ -1,0 +1,2 @@
+# § 1-3. Identifikasjon av inntektsmottaker
+Hvis inntektsmottaker i særlige tilfeller ikke har eller kan få fødselsnummer eller D-nummer når opplysningsplikten etter a-opplysningsloven § 3 inntrer, skal det gis opplysninger om inntektsmottakerens navn og fødselsdato. Det skal eventuelt gis opplysning om ansattnummer. I tillegg skal det gis opplysninger om internasjonalt nummer for identifikasjon, samt opplysning om hvilket land som har utstedt nummeret.
