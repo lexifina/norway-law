@@ -1,0 +1,1 @@
+# Opplysningspliktens omfang
