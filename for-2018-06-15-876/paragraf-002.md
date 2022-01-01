@@ -1,0 +1,3 @@
+# § 2. Kommisjonens beslutninger om beskyttelsesnivået i tredjestater og internasjonale organisasjoner og om standard personvernbestemmelser
+Kommisjonens beslutninger etter personvernforordningen artikkel 45 nr. 3 og 5 (beskyttelsesnivået i tredjestater og internasjonale organisasjoner) og artikkel 46 nr. 2 bokstav c og d (standard personvernbestemmelser) gjelder i Norge når de er innlemmet i EØS-avtalen.
+Er en beslutning som nevnt i første ledd ikke innlemmet i EØS-avtalen når den begynner å gjelde i EUs medlemsstater, gjelder beslutningen fra samme tidspunkt også i Norge, med mindre Norge beslutter at den ikke skal gjelde i Norge før den er innlemmet i EØS-avtalen.
