@@ -1,6 +1,6 @@
 # § 17. Universell utforming
 Offentlige og private virksomheter rettet mot allmennheten har plikt til universell utforming av virksomhetens alminnelige funksjoner.
-Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, inkludert informasjons- og kommunikasjonsteknologi (IKT), slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse.
+Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse.
 Plikten gjelder ikke utforming eller tilrettelegging som innebærer en uforholdsmessig byrde for virksomheten. Ved vurderingen skal det særlig legges vekt på
 a) effekten av å fjerne barrierer for personer med funksjonsnedsettelse
 b) om virksomhetens alminnelige funksjoner er av offentlig art
