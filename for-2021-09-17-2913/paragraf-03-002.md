@@ -1,0 +1,5 @@
+# § 3-2. Rangering av søkjarar
+(1) Søkjarar med høg poengsum skal rangerast framfor søkjarar med låg poengsum. Søkjarar med lik poengsum skal rangerast etter alder, der eldre søkjarar blir rangert først, jf. fagskoleforskriften § 14 (3).
+(2) Dersom det er ledige studieplassar etter at det ordinære opptaket er gjennomført, kan Fagskulen Vestland tilby desse studieplassane til kvalifiserte søkjarar. Søknader om opptak til slike ledige studieplassar blir handsama i den rekkefølgja dei blir mottekne, utan omsyn til rangeringsreglane i første ledd, jf. fagskoleforskriften § 14 (4).
+(3) Dersom det er venteliste etter at det ordinære opptaket er gjennomført, men fagskulen får ledige studieplassar etter studiestart, skal Fagskulen Vestland tilby dei ledige studieplassane til søkjarane på ventelista, jf. fagskoleforskriften § 14 (5).
+(4) Ti dagar etter studiestart kan fagskulen tilby eventuelle resterande studieplassar til kvalifiserte søkjarar, utan omsyn til rangeringsreglane i første ledd, jf. fagskoleforskriften § 14 (5).

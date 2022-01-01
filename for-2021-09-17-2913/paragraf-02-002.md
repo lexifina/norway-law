@@ -1,0 +1,5 @@
+# § 2-2. Opptakskrav
+(1) Opptak til studia ved Fagskulen Vestland er anten relevant fag- eller sveinebrev, treårig yrkesfagleg opplæring eller generell studiekompetanse, jf. Nasjonalt kvalifikasjonsrammeverk for livslang læring nivå 4, eller tilsvarande realkompetanse, jf. fagskoleforskriften § 7 (1).
+(2) Styret ved Fagskulen Vestland kan stille spesielle opptakskrav som er relevante for fagskuleutdanninga, jf. fagskoleforskriften § 7.
+(3) Informasjon om spesielle opptakskrav, inkludert kva fagbrev eller vitnemål som gjev grunnlag for opptak ved Fagskulen Vestland, er nedfelt i studieplanane.
+(4) Etter fagskoleforskriften § 7 (5) kan styret i tillegg stille krav om fullført og bestått fagskuleutdanning for opptak til fagskuleutdanningar. Anna fagskuleutdanning kan berre settast som opptakskrav i tilfelle der dei einskilde fagskuleutdanningane er sjølvstendige einingar som bygger på kvarandre, og det totale løpet for utdanningane som bygger på kvarandre ikkje overskrid to år. I særlege tilfelle kan det totale utdanningsløpet vere opptil tre år, jf. fagskoleforskriften § 42.
