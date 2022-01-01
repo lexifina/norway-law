@@ -1,0 +1,5 @@
+# § 7. Søknadsfrist og krav til søknaden
+Søknad om tilskudd sendes til direktoratet på fastsatt skjema i Bufdirs søknadsportal. Krav til innhold i søknaden står i søknadsskjemaet.
+Søknadsfristen for hvert enkelt år bestemmes av Bufdir.
+Søknader som kommer inn etter fristen, kan bli avvist.
+Det er søkers ansvar å sørge for at søknaden er innsendt, korrekt og fullstendig utfylt, og at det fremkommer klart hva det søkes om tilskudd til. Dersom søknaden eller vedlegg ikke er fullstendig, kan direktoratet sette en rimelig frist for retting. Pålegget gis skriftlig sammen med en orientering om at dersom tilfredsstillende retting ikke skjer innen fristen, kan vedkommende søknad helt eller delvis avvises, eller avgjøres på det foreliggende ufullstendige grunnlag. Det skriftlige pålegget kan gis ved bruk av elektronisk kommunikasjon til den oppdaterte elektroniske adressen søkeren har oppgitt for slikt formål. Direktoratet kan kreve ytterligere dokumentasjon dersom det anses nødvendig for å gjøre en vurdering av søknaden.
