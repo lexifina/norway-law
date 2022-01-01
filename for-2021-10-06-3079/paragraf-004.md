@@ -1,0 +1,6 @@
+# § 4. Overgangsregler om bruk av reaksjonsmidler
+Kommunen og statsforvalteren kan gi pålegg om retting av forhold som er i strid med bestemmelser i barnehageloven § 21 til § 23. Hvis fristen for å etterkomme pålegget ikke overholdes, eller hvis forholdet ikke lar seg rette, kan kommunen og statsforvalteren vedta tidsbegrenset eller varig stenging av virksomheten. Kommunens stengingsvedtak skal sendes statsforvalteren til orientering.
+I stedet for eller i tillegg til stenging av virksomheten, kan kommunen og statsforvalteren bruke økonomiske reaksjoner overfor private barnehager dersom krav etter barnehageloven § 21 til § 23, eller forskrift i medhold av barnehageloven § 23, ikke er overholdt.
+Kommunen kan holde tilbake tilskudd til private barnehager eller redusere tilskudd i kommende terminer dersom krav etter barnehageloven § 21 til § 23 eller forskrift i medhold av barnehageloven § 23 ikke er oppfylt.
+Dersom tilskudd er anvendt i strid med barnehageloven § 21 til § 23 eller forskrift i medhold av barnehageloven § 23, kan kommunen og statsforvalteren kreve tilbakebetaling av tilskudd.
+Tilbakehold av tilskudd, reduksjon i tilskudd eller tilbakebetaling av tilskudd etter tredje og fjerde ledd skal stå i forhold til regelbruddets art og økonomiske betydning.
