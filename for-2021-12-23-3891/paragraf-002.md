@@ -1,0 +1,3 @@
+# § 2. Generelt om fangst av fisk som skal holdes levende
+Virksomheten skal drives forsvarlig ut i fra hensynet til fiskevelferd. Tiden fisken holdes utenfor vann eller trenges skal være så kort som mulig. Fisken skal håndteres skånsomt når den fanges, transporteres, oppbevares og håndteres ellers. Fisken skal ikke utsettes for større påkjenninger enn at største delen av fangsten er restituert og svømmer pelagisk etter tre døgn.
+Før fisket tar til skal alle om bord ha fått nødvendig opplæring om den aktuelle fangstmetoden. Opplæringen skal også gi kunnskap om hvordan man driver fisket forsvarlig ut i fra hensynet til fiskevelferd.
