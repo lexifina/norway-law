@@ -1,0 +1,2 @@
+# § 9. Unntak fra krav om landmålerbrev
+Longyearbyen lokalstyre kan peke ut en landmåler uten gyldig landmålerbrev til å bestyre oppmålingsforretninger innenfor Longyearbyen planområde uten hensyn til kravet i matrikkellova § 35 andre ledd andre punktum. Sysselmesteren på Svalbard kan tilsvarende peke ut en landmåler uten gyldig landmålerbrev til å bestyre oppmålingsforretninger andre steder på Svalbard.
