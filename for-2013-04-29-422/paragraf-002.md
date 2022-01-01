@@ -1,0 +1,3 @@
+# § 2. Fastsettelse for personer ved arbeid eller opphold i utlandet
+(1) Arbeids- og velferdsetaten fastsetter pensjonsgivende inntekt for personer som ikke er skattepliktige som bosatt i Norge etter skatteloven § 2-1, som er medlem av folketrygden. Ved opphør av skatteplikt som bosatt etter skatteloven skal Arbeids- og velferdsetaten fastsette pensjonsgivende inntekt fra og med det tidspunkt skatteplikten som bosatt opphører.
+(2) Arbeids- og velferdsetaten fastsetter pensjonsgivende inntekt for personer som er frivillige medlemmer av norsk folketrygd og som arbeider i internasjonale organisasjoner, uavhengig av om de er skattepliktig som bosatt i Norge.
