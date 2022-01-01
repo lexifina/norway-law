@@ -1,0 +1,3 @@
+# § 2. Særlige regler om innhenting av personopplysninger om elever og studenter m.m.
+Fra utdanningsinstitusjoner der det ikke er lagt til rette for at opplysninger kan hentes inn elektronisk kun for personer som har søkt om lån og stipend, kan det for alle elever og studenter ved utdanningsinstitusjonen hentes inn opplysninger om de har opptak og rett til å gå opp til eksamen, og om endringer i utdanningen.
+Det kan for alle elever, studenter, lærlinger, lærekandidater og andre som tar opplæring i bedrift etter opplæringslova, hentes inn opplysninger fra offentlige og private utdanningsinstitusjoner og fra fylkeskommunen om eksamen er bestått, og om utdanningen eller graden er fullført.
