@@ -1,0 +1,2 @@
+# § 4-7. Opplysningsplikt om hindring
+Dersom seljaren vert hindra i å oppfylle avtala til rett tid, skal seljaren gi kjøparen melding om hindringa og kva slags følgjer hindringa vil få for oppfyllinga. Dersom seljaren ikkje gir kjøparen slik melding innan rimeleg tid etter at seljaren vart eller burde vorte kjent med hindringa, kan kjøparen krevje skadebot for tap som kunne vore unngått om kjøparen hadde fått melding i tide.

@@ -1,0 +1,5 @@
+# § 3-1. Innleiande føresegn om manglar
+(1) Eigedomen har ein mangel dersom han ikkje er i samsvar med dei krav til kvalitet, utrusting og anna som følgjer av avtalen. §§ 3-2 til 3-6 gjeld i den grad det ikkje i samsvar med § 1-2 er avtalt noko særskilt.
+(2) Ved vurderinga av om eigedomen har ein mangel, skal ein leggje til grunn tidspunktet då vågnaden etter § 2-4 andre ledd eller etter avtala gjekk over på kjøparen. Det kan vere ein mangel endå om ein feil fyrst viser seg seinare.
+(3) Seljaren svarer og for ein mangel som oppstår seinare dersom årsaka til mangelen er eit avtalebrot frå seljaren. Det same gjeld dersom seljaren ved garanti eller på annan måte har teke på seg ansvar for eigenskapar eller anna ved eigedomen fram til eit seinare tidspunkt.
+(4) Kjøparen må sjølv dekke tap og kostnadar ved manglar opp til eit beløp på 10 000 kroner om ikkje anna er sagt i lova. Dette gjeld likevel ikkje avtalar der ein bygning er seld som ny. Departementet kan i forskrift justere beløpet i fyrste punktum ved vesentlege endringar i pengeverdien.

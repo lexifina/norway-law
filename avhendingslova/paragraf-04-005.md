@@ -1,0 +1,5 @@
+# § 4-5. Skadebot
+(1) For anna enn indirekte tap som nemnt i § 7-1, kan kjøparen krevje skadebot på grunn av forseinkinga utan at det ligg føre skyld på seljarens side. Dette gjeld likevel ikkje så langt seljaren godtgjer at forseinkinga oppstod på grunn av ei hindring utanfor seljarens kontroll, og det ikkje er rimeleg å vente at seljaren kunne ha rekna med hindringa på avtaletida, eller at seljaren kunne ha overvunne eller unngått følgjene av hindringa.
+(2) Ligg årsaka til forseinkinga hos ein tredjeperson som seljaren har gitt i oppdrag heilt eller delvis å oppfylle avtala, er seljaren ansvarsfri berre om tredjepersonen og ville vere ansvarsfri etter føresegnene i fyrste ledd.
+(3) Seljaren er fri for ansvar så lenge hindringa varer. Fell hindringa bort, kan ansvar gjerast gjeldande frå då av dersom seljaren framleis plikter å oppfylle men ikkje gjer det.
+(4) Dersom forseinkinga eller tapet har årsak i skyld på seljarens side, kan kjøparen krevje skadebot både for direkte og indirekte tap.

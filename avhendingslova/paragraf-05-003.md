@@ -1,0 +1,6 @@
+# § 5-3. Heving
+(1) Seljaren kan heve avtala dersom forseinking med betalinga inneber eit vesentleg avtalebrot.
+(2) Seljaren kan og heve avtala når kjøparen ikkje oppfyller andre skyldnader enn betaling av kjøpesummen, og avtalebrotet er vesentleg. Seljaren kan på same vilkåra heve når kjøparen ikkje overtek eigedomen og seljaren har ei særleg interesse i å verte kvitt eigedomen.
+(3) Vidare kan seljaren heve når kjøparen ikkje betaler innan ein rimeleg tilleggsfrist som seljaren har sett for betalinga, eller ikkje overtek eigedomen innan ein frist seljaren har sett i tilfelle der seljaren har ei særleg interesse i å verte kvitt eigedomen. Før tilleggsfristen er ute kan seljaren ikkje heve, med mindre kjøparen har sagt at kjøparen ikkje vil oppfylle innan fristen.
+(4) Seljaren kan ikkje heve etter at skøyte er tinglyst eller gitt kjøparen, eller kjøparen har overteke bruken av eigedomen, med mindre det gjeld brot på avtale om naturalyting, husvære eller liknande personleg rett som kjøparen måtte vite hadde særleg vekt for seljaren. Hevingsretten står og ved lag om seljaren har teke atterhald om det, eller kjøparen ikkje held fast ved avtala.
+(5) Om verknadene av heving gjeld § 4-4 tilsvarande.

@@ -1,0 +1,2 @@
+# § 3-5. Særskilt tilhøyrsle til bustadhus m. m.
+Til eit bustadhus og ein bygning til hotell, restaurant, kontor eller anna forretningsdrift, høyrer varig innreiing og utstyr som anten er fast montert eller som er særskilt tilpassa bygningen. Dette gjeld mellom anna faste anlegg og installasjonar for oppvarming, faste elektriske installasjonar, faste antenner, faste golvteppe, dobbeltvindauge, innebygde kjøkkenapparat og -maskinar og andre innebygde ting.

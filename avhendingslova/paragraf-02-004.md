@@ -1,0 +1,4 @@
+# § 2-4. Vågnaden for eigedomen
+(1) Når vågnaden for eigedomen er gått over på kjøparen, fell ikkje kjøparens plikt til å svare heile kjøpesummen bort ved at eigedomen vert øydelagt eller skada som følgje av ei hending som seljaren ikkje svarer for.
+(2) Vågnaden går over på kjøparen når kjøparen har overteke bruken av eigedomen. Får seljaren ikkje overlate bruken til fastsett tid, og årsaka ligg hos kjøparen, har kjøparen vågnaden frå det tidspunkt kjøparen kunne ha fått overteke bruken.
+(3) Har seljaren forsikra eigedomen mot øydelegging eller skade som nemnt i fyrste ledd, har kjøparen retten etter forsikringsavtala dersom eigedomen vert øydelagt eller skadd etter at avhendingsavtala vart bindande, med mindre seljaren kan seie seg løyst frå avhendingsavtala. Seljaren har plikt til å føre over retten etter forsikringsavtala når kjøparen krev det og kjøparen sjølv har oppfylt sine skyldnader etter avhendingsavtala.
