@@ -7,5 +7,5 @@ d) boligselskap og boligsameier som omfattes av skatteloven §§ 7-3 og 7-11, om
 e) den som selv eller gjennom andre har utbetalt vederlag for tjenester av teknisk, håndverksmessig, juridisk, regnskapsmessig eller annen art
 f) Enova om beløp som skal gis som avregningsfradrag for ENØK-tiltak på egen bolig
 g) den som selv eller gjennom andre har utbetalt honorar eller annen godtgjøring til opphaver til åndsverk
-h) oppstartsselskaper om tildelte opsjoner til ansatte etter ordningen i skatteloven § 5-14 fjerde ledd.
+h) oppstartsselskaper om tildelte og innløste opsjoner til ansatte etter ordningen i skatteloven § 5-14 fjerde ledd.
 (2) Opplysningsplikten etter første ledd bokstav e omfatter også vederlag for varer eller andre ytelser som er levert i forbindelse med slike tjenester.

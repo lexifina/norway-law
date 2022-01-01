@@ -1,4 +1,3 @@
 # § 7-6. Oppdragstakere og arbeidstakere
 (1) Næringsdrivende og offentlig organ som gir person bosatt i utlandet eller selskap hjemmehørende i utlandet et oppdrag i riket eller på kontinentalsokkelen, skal gi opplysninger om oppdraget og eventuelle underoppdrag. Plikten omfatter opplysninger om hovedoppdragsgiver i kontraktskjeden, egen oppdragsgiver og oppdragstakere begrenset til to ledd nedover i kontraktskjeden. Oppdragstakeren har plikt til å gi opplysninger om egne arbeidstakere som benyttes til å utføre oppdraget.
-(2) Opplysningene skal gis snarest etter at kontrakt er inngått, og senest 14 dager etter at arbeidet er påbegynt. Opplysninger om arbeidets avslutning skal gis senest 14 dager etter avslutningen.
-(3) Departementet kan bestemme at opplysningsplikten etter første ledd også skal gjelde for oppdrag til enkelte grupper av oppdragstakere som ikke er bosatt eller hjemmehørende i utlandet.
+(2) Departementet kan bestemme at opplysningsplikten etter første ledd også skal gjelde for oppdrag til enkelte grupper av oppdragstakere som ikke er bosatt eller hjemmehørende i utlandet.

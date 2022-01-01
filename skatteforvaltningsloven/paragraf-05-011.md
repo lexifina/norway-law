@@ -1,3 +1,5 @@
-# § 5-11. Bruk av personopplysninger ved utvikling og testing av IT-systemer
-(1) Skattemyndighetene kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.
-(2) Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.
+# § 5-11. Sammenstilling, profilering og automatiserte avgjørelser
+(1) Skattemyndighetene kan sammenstille innhentede personopplysninger når det er nødvendig for deres arbeid med fastsetting av skatt, herunder til kontroll-, veilednings-, analyse- og statistikkformål. Skattemyndighetene kan benytte innhentede personopplysninger til profilering til samme formål, når profileringen er nødvendig for å målrette tiltak som fremmer etterlevelse av loven. Graden av personidentifikasjon skal ikke være større enn det som er nødvendig for formålet.
+(2) Skattemyndighetene kan treffe avgjørelser som utelukkende er basert på automatisert behandling. Behandlingen må sikre partens krav til forsvarlig saksbehandling og være forenlig med retten til vern av personopplysninger. Avgjørelsen kan ikke bygge på skjønnsmessige vilkår i lov eller forskrift, med mindre avgjørelsen er utvilsom. Den registrerte har rett til manuell overprøving av avgjørelsen.
+(3) Skattemyndighetene kan benytte særlige kategorier av personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, ved sammenstilling, profilering og automatiserte avgjørelser.
+(4) Departementet kan gi forskrift om sammenstilling, profilering og automatiserte avgjørelser, blant annet om formålet med behandlingen, hvilke personopplysninger som kan behandles og hvem det kan behandles personopplysninger om.
