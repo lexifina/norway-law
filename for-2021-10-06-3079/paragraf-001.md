@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Forskriften gjelder tilsyn med private barnehager etter barnehageloven kapittel V med forskrifter som ikke er avsluttet før 1. januar 2022. Et tilsyn er avsluttet når kommunen eller statsforvalteren har konkludert med at det ikke foreligger brudd på regelverket i barnehagen, eller har konkludert med at vedtaket om reaksjoner er fulgt opp fra barnehagens side.
+Forskriften gjelder tilsyn åpnet med hjemmel i tidligere § 9 andre ledd og tidligere § 16 første ledd i barnehageloven, samt tilsyn åpnet med hjemmel i § 2 første ledd og § 5 andre ledd i forskrift 18. desember 2020 nr. 3026 om overgangsregler til barnehageloven.
