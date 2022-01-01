@@ -1,0 +1,4 @@
+# § 16-11. Forsikringsdistribusjon
+(1) Bestemmelsene gitt i og i medhold av §§ 16-11 til 16-15 gjelder for forsikringsforetak som utøver forsikringsdistribusjon som definert i forsikringsformidlingsloven § 1-3 annet og tredje ledd. Bestemmelsene gjelder for distribusjon av alle typer forsikringsavtaler, herunder gjenforsikringsavtaler, med mindre annet er bestemt i eller i medhold av loven her.
+(2) Dersom et forsikringsforetak opptrer som formidler av forsikringsavtaler for et annet forsikringsforetak, gjelder i tillegg bestemmelsene gitt i og i medhold av § 16-16.
+(3) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gi regler til gjennomføring av Norges forpliktelser etter EØS-avtalen og regler om at én eller flere av bestemmelsene i loven ikke skal gjelde ved distribusjon av nærmere angitte forsikringer eller til særskilte kundegrupper.
