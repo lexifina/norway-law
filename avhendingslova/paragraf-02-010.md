@@ -1,0 +1,4 @@
+# § 2-10. Regulering og avløysing av terminvis betaling
+(1) Skal kjøparen betale med ein terminvis pengesum der denne ikkje er avdrag på kjøpesum, kan kvar av partane krevje pengesummen regulert i samsvar med endringa i pengeverdien i tida sidan avtala vart inngått, med mindre partane tvillaust har avtalt at pengesummen skal stå uendra eller har avtalt regulering på annan måte.
+(2) Partane kan krevje den terminvise pengesummen avløyst med ein eingongssum når det er gått 50 år eller meir sidan avtala vart inngått. Avløysingssummen skal setjast til kapitalverdien av den årlege terminvise ytinga etter regulering på avløysingstida.
+(3) Kongen kan i forskrift fastsetje kva for multiplikatorar som skal nyttast når pengesummen vert regulert i samsvar med endringa i pengeverdien, jf. fyrste ledd, og kva for rente som skal leggjast til grunn når ein skal finne kapitalverdien, jf. andre ledd.

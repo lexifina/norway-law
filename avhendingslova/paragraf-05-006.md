@@ -1,0 +1,2 @@
+# § 5-6. Opplysningsplikt om hindring
+Dersom kjøparen vert hindra i å oppfylle avtala til rett tid, skal kjøparen gi seljaren melding om hindringa og kva slags følgjer hindringa vil få for oppfyllinga. Dersom kjøparen ikkje gir seljaren slik melding innan rimeleg tid etter at kjøparen vart eller burde vorte kjent med hindringa, kan seljaren krevje skadebot for tap som kunne vore unngått om seljaren hadde fått melding i tide.

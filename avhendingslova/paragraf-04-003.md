@@ -1,0 +1,4 @@
+# § 4-3. Heving
+(1) Kjøparen kan heve avtala dersom forseinkinga inneber eit vesentleg avtalebrot.
+(2) Kjøparen kan og heve dersom seljaren ikkje overlet bruken av eigedomen innan ein rimeleg tilleggsfrist som kjøparen fastset. Før tilleggsfristen er ute kan kjøparen ikkje heve, med mindre seljaren har sagt at bruken ikkje vil verte overlate til kjøparen innan fristen.
+(3) For at kjøparen skal kunne heve etter fyrste eller andre ledd, må eigedomen ikkje ha vorte forringa medan kjøparen har vågnaden. Heving kan likevel skje når årsaka til forringinga er ei tilfeldig hending eller andre omstende kjøparen ikkje har vågnaden for, eller tiltak som er gjorde før kjøparen vart eller burde vorte merksam på det omstende som ligg til grunn for hevinga. Kjøparen taper heller ikkje retten til å heve dersom kjøparen yter seljaren vederlag for verdminken.

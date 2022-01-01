@@ -1,0 +1,4 @@
+# § 3-2. Generelle krav til tilstanden
+(1) Eigedomen har ein mangel dersom han ikkje er i samsvar med det kjøparen kunne forvente ut frå mellom anna eigedomens type, alder og synlege tilstand.
+(2) Eigedomen har ein mangel dersom han ikkje høver for eit særleg føremål som seljaren var eller måtte vere kjent med då avhendinga vart avtalt. Dette gjeld likevel ikkje når tilhøva viser at kjøparen for så vidt ikkje bygde på seljarens sakkunnskap eller vurdering, eller ikkje hadde rimeleg grunn til å gjere det.
+(3) Ved forbrukarkjøp som nemnt i § 1-2 tredje ledd har eigedomen ein mangel om han ikkje er i samsvar med offentlegrettslege krav som er stilt i lov eller i medhald av lov, og som gjaldt for eigedomen på den tida då avtala vart inngått. Dette gjeld likevel ikkje dersom tilhøva viser at kjøparen for så vidt ikkje bygde på seljarens sakkunnskap og vurdering, eller ikkje hadde rimeleg grunn til å gjere det.
