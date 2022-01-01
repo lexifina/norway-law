@@ -1,0 +1,3 @@
+# § 3. Rettigheter for arbeidstakere
+(1) Arbeidstaker i foretak med plikt til å etablere tjenestepensjonsordning etter § 2 har krav på at tjenestepensjonsordning etableres i samsvar med loven her. Dette gjelder ikke arbeidstaker som kan holdes utenfor foretakets pensjonsordning etter reglene i foretakspensjonsloven, innskuddspensjonsloven eller tjenestepensjonsloven.
+(2) Dersom foretaket forsømmer plikten til å opprette tjenestepensjonsordning, har arbeidstaker som angitt i første ledd krav på at tilskudd i samsvar med minstekravene i loven, regnet fra det tidspunkt plikten til å opprette tjenestepensjonsordning inntrådte, skal innbetales til pensjonsordning for arbeidstakerne.
