@@ -1,0 +1,5 @@
+# § 6. Forbud mot andre produkter til injisering i huden i kosmetisk hensikt som inneholder visse stoffer
+Det er forbudt å utvikle, produsere, importere, distribuere, eksportere og omsette annet produkt til injisering i huden i kosmetisk hensikt, jf. § 3 punkt 3, som inneholder eller avgir ett eller flere av følgende stoffer:
+a) ingredienser eller kombinasjoner av ingredienser som er listet i vedlegg IIa, IIb og IIc til generell forskrift 26. oktober 1995 nr. 871 for produksjon, import og frambud mv av kosmetikk og kroppspleieprodukter.
+b) kreftfremkallende, mutagene og reproduksjonstoksiske stoffer av kategori 1, 2 og 3 i henhold til vedlegg VI i forskrift 16. juli 2002 nr. 1139 om klassifisering, merking mv. av farlige kjemikalier med senere endringer.
+c) stoffer som er klassifisert som legemiddelstoff etter bestemmelser gitt i medhold av legemiddelloven, under hensyntagen til de unntak som følger av forskrift 26. oktober 1995 nr. 871 for produksjon, import og frambud mv av kosmetikk og kroppspleieprodukter,
