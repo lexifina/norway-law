@@ -1,0 +1,6 @@
+# § 6-1. Kriterier for å motta etableringstilskudd
+Organisasjoner som ikke har mottatt nasjonal grunnstøtte eller uttrappingstilskudd de siste fem årene før tilskuddsåret, se § 4-1, § 4-2 og § 6-3, kan søke om etableringstilskudd.
+For å motta etableringstilskudd må en organisasjon på søknadstidspunktet tilfredsstille kravene i § 4-1 første ledd, unntatt bokstavene h, i, k og m Organisasjonen må likevel ha egen arbeidsplan, budsjett, årsregnskap og årsmelding.
+I tillegg må organisasjonen ved 31. desember i grunnlagsåret eller søknadsåret ha minst 200 tellende medlemmer, se § 2-1, og minst tre tellende lokallag i ulike fylker, se § 2-4.
+Organisasjoner som av særlige grunner, fortrinnsvis sitt rekrutteringsgrunnlag, ikke oppfyller kravene til antall tellende medlemmer, antall tellende lokallag og/eller fylker med tellende lokallag, må ved 31. desember i grunnlagsåret eller søknadsåret ha minst 100 tellende medlemmer, se § 2-1, og minst 3 tellende lokallag i ulike fylker, se § 2-4. I særlige tilfeller, der det på grunn av organisasjonens rekrutteringsgrunnlag er sannsynlig at den aldri vil oppfylle kravet til minst 100 tellende medlemmer, kan Fordelingsutvalget gjøre unntak fra dette kravet.
+Organisasjoner kan motta etableringstilskudd på bakgrunn av dokumentasjon fra søknadsåret.

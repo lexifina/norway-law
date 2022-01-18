@@ -1,0 +1,9 @@
+# § 8-1. Søknad
+Søknader om tilskudd etter denne forskriften sendes til Fordelingsutvalget på fastsatte skjemaer.
+For hvert år som en organisasjon søker nasjonal eller internasjonal grunnstøtte, etableringstilskudd eller uttrappingstilskudd, skal den legge ved:
+a) organisasjonens sist vedtatte årsmelding,
+b) årsregnskap, signert av styret i organisasjonen, og kontospesifisert årsregnskap for grunnlagsåret med revisjonsberetning fra statsautorisert revisor, se § 8-3 fjerde ledd. Fordelingsutvalget kan gi retningslinjer om hvordan årsregnskapet skal være spesifisert. Tilskudd som er gitt etter forskriften og utbetalt i grunnlagsåret skal være spesifisert i årsregnskapet eller note til dette. Dersom en organisasjon som har mottatt tilskudd et år ikke mottar tilskudd påfølgende år, skal organisasjonen sende inn spesifisert årsregnskap som er signert av styret, med revisjonsberetning for de tilskuddsårene dette ikke er gjort for, Fordelingsutvalget skal sette en rimelig frist for når regnskapene skal sendes inn.
+c) organisasjonens vedtekter, dersom det er gjort endringer siden forrige søknad. Endringene skal markeres tydelig. Dersom endringene er av betydning for om organisasjonen er tilskuddsberettiget, skal organisasjonen gi en særskilt skriftlig redegjørelse om dette, og
+d) arbeidsplan og budsjett for tilskuddsåret, dersom organisasjonen søker om etableringstilskudd.
+Når det er eller har vært tvil om søknadsgrunnlaget, kan Fordelingsutvalget kreve at det legges ved særattestasjon fra revisor. Departementet kan fastsette nærmere regler om særattestasjon for revisor for organisasjonene for de enkelte tilskuddsårene.
+Søknaden skal være datert og signert av den valgte leder for organisasjonen eller daglige leder i sentralleddet på søknadstidspunktet, eventuelt en annen som styret har gitt fullmakt til å signere på vegne av organisasjonen. Fullmakten må legges ved søknaden.

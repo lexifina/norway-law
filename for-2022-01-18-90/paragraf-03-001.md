@@ -1,0 +1,3 @@
+# § 3-1. Generelt om dokumentasjon
+Organisasjonenes sentralledd har ansvaret for å kunne dokumentere opplysningene som er oppgitt i søknaden om tilskudd. Sentralleddet skal oppbevare dokumentasjonen som er beskrevet i § 3-2, § 3-3, § 3-4, § 3-5 og § 3-6 i denne forskriften i fem år regnet fra og med 1. januar i grunnlagsåret. Tilskuddsmyndighetene kan for det enkelte tilskuddet stille strengere krav til organisasjonens oppbevaring av dokumentasjon, se § 10-1.
+Dokumentasjonsbestemmelsene innebærer ikke noen begrensninger i bestemmelsene om dokumentasjon og oppbevaringsplikt mv. som følger av regnskapslovgivningen.
