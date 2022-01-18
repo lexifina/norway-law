@@ -1,0 +1,3 @@
+# § 2-3. Kontingent
+En kontingent er et beløp som blir betalt for inntil ett kalenderårs medlemskap i en organisasjon. Ved innbetaling må det komme klart frem hvilket år og hvem kontingenten gjelder for. Kontingenten må være betalt innen 31. desember i grunnlagsåret. Kontingenten kan ikke være betalt tidligere enn et halvt år før grunnlagsåret.
+Kontingenten skal være på minimum 50 kroner for hvert individuelt medlem og gjelde for maksimalt ett kalenderår. Ved bruk av familiemedlemskap skal kontingenten for alle familiemedlemmene til sammen ikke være mindre enn 100 kroner. Hvert familiemedlem regnes som individuelt medlem.
