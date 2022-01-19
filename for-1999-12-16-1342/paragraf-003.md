@@ -1,0 +1,3 @@
+# § 3. Utstyr
+Fartøyet skal ha installert om bord satellittsporingsutstyr som tilfredsstiller kravene til godkjenning av slikt utstyr. Fiskeridirektoratet fastsetter nærmere bestemmelser om krav til utstyr som skal benyttes til satellittsporing.
+I en overgangsperiode kan Fiskeridirektoratet etter særskilt søknad godkjenne utstyr som ikke tilfredsstiller kravene til melding fastsatt i § 2 bokstav c) og bokstav d), dersom slikt utstyr er installert om bord i fartøyet og i drift på det tidspunkt denne forskrift trer i kraft. Dispensasjon til å bruke slikt utstyr kan ikke påregnes etter 30. juni 2001.
