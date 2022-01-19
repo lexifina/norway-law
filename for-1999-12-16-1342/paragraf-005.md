@@ -1,0 +1,2 @@
+# § 5. Feil i forbindelse med satellittsporing
+Dersom det oppstår feil i forbindelse med satellittsporing, slik at Fiskeridirektoratet ikke mottar meldingene som nevnt i § 2, skal fartøyene minst en gang hver tolvte time sende slik melding via telefax. Fartøy som fører flagg fra Storbritannia og fartøy som fører flagg fra medlemsland i Den europeiske union skal sende slik melding minst en gang hver fjerde time. Dette gjelder også inngangs- og utgangsmelding som nevnt i § 2.
