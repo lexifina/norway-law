@@ -1,0 +1,3 @@
+# § 7. Revisjon av risikoanalysen
+1) Rederiet skal om nødvendig revidere risikoanalysen dersom dens forutsetninger er blitt endret som følge av fysiske endringer ved innretningen, herunder ta hensyn til teknisk utvikling og ulykkeserfaring. Vesentlige endringer av arbeidsforhold og operasjonsforhold skal innarbeides i rederiets sikkerhetsstyringssystem med påfølgende korrigeringer av risikoanalysen. Rederiet skal etablere kriterier for når risikoanalysen skal revideres.
+2) Ved 5-årig periodisk besiktelse skal status for, eller eventuelt revidert risikoanalyse gjennomgås av rederiet og verne- og miljøutvalg.

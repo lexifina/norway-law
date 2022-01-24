@@ -1,0 +1,4 @@
+# § 20. Grunnleggende akseptkriterier
+1) Den flyttbare innretningen skal kunne tåle definerte dimensjonerende ulykkeshendelser/ulykkeslaster, i henhold til kriterier gitt i denne forskrift (jf. § 21), andre forskrifter eller som gitt av rederiet.
+2) Det skal være stor sannsynlighet for at sikkerhetsfunksjonene (SF) som angitt i forskriftens § 21, er intakte under en dimensjonerende ulykkeshendelse i tilstrekkelig lang tid slik at det er mulig å kunne kontrollere og bekjempe ulykkeshendelsen, eller nødforflytte og/eller foreta en evakuering.
+3) Akseptkriterier skal også dekke risikoforhold som ikke er en følge av direkte ulykkeshendelser, men som likevel utsetter personell om bord for skadelig påvirkninger som igjen kan føre til ulykkeshendelser, som f.eks. forgiftning p.g.a. feil behandling av næringsmidler/drikkevann.
