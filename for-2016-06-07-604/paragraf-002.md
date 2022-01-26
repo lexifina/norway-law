@@ -1,0 +1,3 @@
+# § 2. Sentralmyndighetens oppgaver
+Barne-, ungdoms- og familiedirektoratet skal ivareta sentralmyndighetens oppgaver etter Haagkonvensjonen 1996 i samsvar med norske forbehold og erklæringer og eventuelle innsigelser som Norge reiser mot tiltredende stater. Barne-, ungdoms- og familiedirektoratet skal videre ivareta oppgaver som er tildelt sentralmyndigheten etter lov om Haagkonvensjonen 1996.
+Når det gjelder attester som statsforvalteren kan utstede etter lovens § 8, skal sentralmyndigheten ved behov veilede statsforvalteren og veilede den som har foreldreansvar eller vergemål og ber om slik attest.
