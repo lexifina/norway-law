@@ -1,0 +1,4 @@
+# § 5. Arbeidsdokumenter
+Ansvarlig behandler skal særskilt vurdere hvorvidt arbeidsdokumenter skal inngå som del av journal.
+Arbeidsdokumenter i familievernet kan være lydbånd fra samtale, videobånd fra terapisituasjon, visuell illustrasjon i form av «flip-over»-ark, klientenes egne tegninger, notater mv. Lydbånd- og videopptak krever samtykke fra klienten/klientene. Arbeidsdokumenter som ikke inngår i journal, skal sikres i samsvar med bestemmelsene i kap. II i forskrift 15. desember 2017 nr. 2105 om offentlige arkiv. Dokumentene bør dateres, nummereres, signeres og knyttes opp mot klientjournalen. Disse slettes når klientkontakten avsluttes og senest 1 måned etter siste kontakt.
+Til spesielle formål som undervisning og forskning kan det avtales lengre oppbevaringstid. Dette krever klienten(e)s samtykke. En avtale om utvidet bruk må regulere i hvilke sammenhenger materialet kan brukes og tidfeste når materialet skal slettes.
