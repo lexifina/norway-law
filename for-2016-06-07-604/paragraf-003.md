@@ -1,0 +1,4 @@
+# § 3. Oversettelse av dokumenter mv.
+Enhver henvendelse som sendes fra Norge til en sentralmyndighet eller annen myndighet i en konvensjonsstat, skal være på norsk og skal være ledsaget av en oversettelse til det offisielle språk eller ett av de offisielle språk i den andre staten eller, dersom dette ikke lar seg gjøre, en oversettelse til engelsk. Når henvendelsen sendes fra sentralmyndigheten skal denne sørge for oversettelsen, og kostnader ved oversettelse skal dekkes av den person eller myndighet som sentralmyndigheten bistår.
+Enhver henvendelse som sendes til norsk sentralmyndighet eller myndighet, skal være ledsaget av en oversettelse til norsk, eller, dersom dette ikke lar seg gjøre, en oversettelse til engelsk.
+Mellom de nordiske land gjelder konvensjon 17. juni 1981 nr. 1 om nordiske statsborgeres rett til å bruke sitt eget språk i et annet nordisk land.
