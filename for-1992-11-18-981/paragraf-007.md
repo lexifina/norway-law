@@ -1,0 +1,2 @@
+# § 7
+Statsforvalteren kan, dersom det finnes hensiktsmessig, innkalle vitnene til personlig møte, jf ekteskapsloven § 29 første ledd. Dersom det på grunn av reiseavstanden eller av andre grunner er vanskelig for en part eller et vitne å møte hos statsforvalteren, kan statsforvalteren i stedet be for eksempel sosialkontoret eller familievernkontoret der parten eller vitnet bor om å innkalle vedkommende til en samtale. Fra slikt møte skal det settes opp rapport som sendes statsforvalteren.
