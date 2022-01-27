@@ -1,0 +1,6 @@
+# § 13-1. Rett til sletting av gjeld for låntakarar som får uføretrygd
+Ein låntakar som har minst 50 prosent varig nedsett inntektsevne og får uføretrygd eller ei tilsvarande yting frå ei utanlandsk trygdeordning, kan ha rett til å få sletta gjelda heilt eller delvis dersom person- og kapitalinntekta i 2022 er 501 677 kr eller lågare. Kravet til varig nedsett inntektsevne er berre 40 prosent dersom låntakaren fekk arbeidsavklaringspengar heilt fram til vedtaket om uføretrygd.
+Låntakaren har rett til å få sletta gjeld etter tabellen nedanfor.Tabell for 2022 over inntektsgrenser, ny gjeld og nytt terminbeløp etter sletting av gjeldPerson- og kapitalinntekt per årNy gjeldNytt terminbeløp0-347 925 kr0 kr0 kr347 926-386 248 kr70 316 kr751 kr386 249-423 373 kr82 002 kr901 kr423 374-462 551 kr93 859 kr1 062 kr462 552-501 677 kr105 545 kr1 210 kr
+Inntektsgrensene i tabellen blir heva med 16 380 kr per år for kvart barn som låntakaren forsørgjer, til og med det året barnet fyller 16 år. Avkasting av formuen til barn av låntakaren dersom formuen blir forvalta av statsforvaltaren, blir ikkje rekna med.
+Søknaden om sletting av gjeld blir behandla etter vilkåra som gjeld i det året Lånekassen får søknaden. Dette gjeld også dersom vedtaket om uføretrygd er frå før søknadsåret.
+Lånekassen hentar inn opplysningar om person- og kapitalinntekt frå skatteetaten.
