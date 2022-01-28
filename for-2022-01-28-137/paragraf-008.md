@@ -1,0 +1,2 @@
+# § 8. Rapporteringsplikter
+Tilskuddsmottaker skal rapportere om utviklingen i prosjektet og framlegge revisorgodkjent regnskap for det aktuelle prosjektet. Kravet til revisorgodkjent regnskap gjelder ikke virksomheter som revideres av Riksrevisjonen. Norsk Romsenter kan fastsette ytterligere rapporteringsplikter i tilskuddsbrevet. Hyppighet på rapporteringen fra tilskuddsmottaker skal framgå av tilskuddsbrevet.
