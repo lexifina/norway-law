@@ -1,0 +1,4 @@
+# § 8. Dokumentasjon ved notarialbekreftelser
+Notarius publicus kan kreve at den som fremsetter begjæring om notarialbekreftelse fremlegger den dokumentasjon som notarius publicus finner nødvendig for å vurdere riktigheten av det som skal bekreftes. Mangler den nødvendige dokumentasjon, kan notarius publicus avvise begjæringen eller pålegge rekvirenten innen en nærmere fastsatt frist å fremskaffe dokumentasjonen.
+Finner notarius publicus grunn til det, kan han selv fremskaffe den nødvendige dokumentasjon. Medfører dette ikke ubetydelige omkostninger, må rekvirenten forskuddsvis betale disse.
+Dersom dokumentasjon for fysiske personers identitet er nødvendig, skal pass, nasjonalt ID-kort utstedt av en EØS- eller EFTA-stat, førerkort utstedt av Norge etter 1. januar 1998 eller bankkort med bilde utstedt i Norge fremlegges. For juridiske personers identitet og for bekreftelse av signaturrett, skal firmaattest fra Brønnøysundregistrene fremlegges.
