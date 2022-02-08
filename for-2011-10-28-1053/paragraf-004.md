@@ -1,0 +1,8 @@
+# § 4. Trafikksikkerhetsrevisjoner av vegprosjekter
+Vegmyndigheten og et statlig utbyggingsselskap for veg skal sørge for at det gjennomføres trafikksikkerhetsrevisjoner i forbindelse med gjennomføring av alle vegprosjekter. For riksveger som ikke er på TEN-T, motorveg eller hovedveg, kan vegmyndigheten og et statlig utbyggingsselskap for veg bestemme om trafikksikkerhetsrevisjon skal unnlates for alle eller enkelte faser.
+En trafikksikkerhetsrevisjon er en uavhengig, detaljert, systematisk og teknisk sikkerhetskontroll av et vegprosjekts utforming, som omfatter alle faser fra prosjektering til innledende bruk.
+Ved gjennomføringen av revisjonen skal det bestrebes å oppfylle de veiledende elementene i vedlegg II.
+Trafikksikkerhetsrevisjoner skal utgjøre en integrert del av utformingen av vegprosjektet under utarbeidelse av reguleringsplan, under detaljprosjekteringen, i fasen umiddelbart før vegen tas i bruk, samt i den innledende bruksfasen.
+Vegmyndigheten og et statlig utbyggingsselskap for veg skal utnevne en revisor til å gjennomføre trafikksikkerhetsrevisjonen. Revisoren skal være godkjent i samsvar med bestemmelsene i § 8. Dersom revisjonen gjennomføres av en gruppe, skal minst ett medlem av gruppen være en godkjent revisor.
+Revisoren skal angi de elementene i utformingen som er avgjørende for sikkerheten i en revisjonsrapport for hver fase av vegprosjektet. Dersom det avdekkes farlige forhold under revisjonen, men utformingen ikke utbedres, skal revisoren angi årsakene til dette i et vedlegg til revisjonsrapporten.
+På bakgrunn av revisjonsrapporten nevnt i sjette ledd, skal revisoren gi egnede anbefalinger fra et sikkerhetssynspunkt.

@@ -1,0 +1,6 @@
+# § 5. Evaluering av sikkerhetsnivå på vegnettet
+Statens vegvesen og et statlig utbyggingsselskap for veg skal sørge for at det gjennomføres vegnettsevaluering av sikkerhetsnivået for det samlede vegnettet som er i drift.
+Vegnettsevalueringen skal vurdere ulykkes- og skaderisiko basert på en visuell inspeksjon av vegens utforming. Inspeksjonen kan gjennomføres fysisk på vegen eller ved bruk av elektroniske verktøy. I tillegg skal det gjøres en særskilt analyse av strekninger som har vært i drift i mer enn tre år, og der det har forekommet et stort antall alvorlige ulykker sett i forhold til trafikkmengden.
+Den første vegnettsevalueringen skal være gjennomført senest innen 2024. Etterfølgende evalueringer skal gjennomføres tilstrekkelig ofte til å sikre et tilfredsstillende sikkerhetsnivå, og uansett minst hvert femte år.
+Ved gjennomføring av vegnettsevalueringen kan det tas hensyn til de veiledende elementene som er angitt i vedlegg III.
+På bakgrunn av resultatene fra vegnettsevalueringen, skal Statens vegvesen og et statlig utbyggingsselskap for veg klassifisere alle strekningene på det samlede vegnettet i én av minst tre kategorier som gir uttrykk for strekningens sikkerhetsnivå.
