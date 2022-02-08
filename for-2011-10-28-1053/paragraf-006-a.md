@@ -1,0 +1,2 @@
+# § 6a. Beskyttelse av sårbare trafikanter
+Vegmyndigheten og et statlig utbyggingsselskap for veg skal sikre at hensynet til sårbare trafikanter blir tatt i betraktning når det gjennomføres trafikksikkerhetsmessige konsekvensanalyser av vegprosjekter som de har ansvar for og som er i bruk, trafikksikkerhetsrevisjoner, vegnettsevalueringer og periodiske sikkerhetsinspeksjoner. Med sårbare trafikanter menes syklende og gående, og brukere av tohjuls motorvogner, herunder motorsyklister.
