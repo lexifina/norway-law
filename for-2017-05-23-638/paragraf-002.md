@@ -1,0 +1,3 @@
+# § 2. Korleis lydleg overførte stadnamn i fleirspråkleg område skal skrivast
+Stadnamn som heilt eller delvis er lydleg overførte frå andre språk, og som har fått ein innarbeidd uttale i mottakarspråket, skal følgje rettskrivingsreglane i mottakarspråket. Har eit slikt stadnamn ikkje fått ein innarbeidd uttale, skal det følgje rettskrivingsreglane i opphavsspråket.
+Inneheld eit overført stadnamn eit ledd som er brukt i eit stadnamn i eit anna språk, kan dette leddet skrivast i samsvar med rettskrivingsreglane i dette språket. Den andre delen av stadnamnet skal følgje rettskrivingsreglane i mottakarspråket. I andre tilfelle skriv ein namneleddet i samsvar med reglane i mottakarspråket.
