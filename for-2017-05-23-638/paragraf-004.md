@@ -1,0 +1,5 @@
+# § 4. Særleg om samiske stadnamn
+For samiske stadnamn skal det takast utgangspunkt i den nedervde lokale uttalen. Skrivemåten skal følgje gjeldande rettskriving i nordsamisk, lulesamisk, skoltesamisk eller sørsamisk.
+Nordsamisk rettskriving skal brukast i Finnmark, Troms og i Nordland til Tysfjord kommune. Skoltesamiske stadnamn i Sør-Varanger kommune kan likevel følgje skoltesamisk rettskriving. Lulesamisk rettskriving skal brukast frå og med Tysfjord kommune og sørover til Meløy kommune. Frå og med Rana kommune og sørover skal sørsamisk rettskriving brukast. I grenseområda for dei enkelte språkområda, kan ein bruke den rettskrivinga som passar best med den nedervde lokale uttalen. Det kan òg veljast regionale samleformer. Lokale dialektformer kan veljast når særlege grunnar talar for det.
+Dersom det er brukt fleire samiske namn om det same namneobjektet, skal det eldste namnet brukast av det offentlege. I særlege tilfelle kan det gjerast unntak frå denne regelen.
+I avveginga av ulike omsyn skal ein leggje vekt på at stadnamna får ein einskapleg skrivemåte innanfor dei ulike samiske språkområda.

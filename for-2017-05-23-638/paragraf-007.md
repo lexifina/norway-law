@@ -1,0 +1,5 @@
+# § 7. Bruk av fleirspråklege namn
+Har eit objekt samisk eller kvensk namn i tillegg til eit norskspråkleg namn, og namneformene er i bruk blant folk som bur fast på eller har næringsmessig tilknyting til staden, skal begge eller alle namna brukast.
+I samanhengande tekst skal det offentlege bruke namnet på det språket teksten er utforma i.
+På skilt eller kart o.l. der det blir brukt meir enn eitt namn, skal kommunen fastsetje rekkjefølgja av namna. Når ein fastset rekkjefølgja, skal ein ta omsyn til språkbruken på staden. I forvaltningsområdet for samisk språk skal rekkjefølgja vere samisk, norsk, kvensk.
+Der det av praktiske grunnar er særskilt vanskeleg å bruke fleire namn, skal det i valet mellom norsk, samisk og kvensk leggjast vekt på kva for eit namn som har lengst tradisjon og er best kjent på staden. Det norske namnet treng ikkje å vere med dersom det er ei lydleg tilpassa form av det samiske eller kvenske namnet, skil seg lite frå det og ikkje er i vanleg bruk i den norske forma.
