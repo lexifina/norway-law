@@ -1,0 +1,6 @@
+# § 1. Virkeområde
+Forskriften angir faste grenser for når man etter vegtrafikkloven § 22 tredje ledd blir regnet som påvirket av andre berusende eller bedøvende middel enn alkohol. Grenseverdiene for slike stoffer følger av kolonnen for straffbarhetsgrense i vedlegg I.
+Forskriften angir i vedlegg I også grenseverdier for andre berusende eller bedøvende middel enn alkohol svarende til 0,5 promille og 1,2 promille jf. vegtrafikkloven § 31 annet ledd bokstav a til c.
+Bestemmelsen i første og annet ledd gjelder ikke hvor overskridelsen skyldes legemiddel inntatt i henhold til gjeldende forskrivning fra lege eller tannlege, jf. vegtrafikkloven § 22 tredje ledd andre punktum.
+Konstatering av om blodprøven inneholder berusende eller bedøvende stoffer som er klassifisert som trafikkfarlige etter vedlegg I, skal skje ved måling av stoffkonsentrasjoner i fullblod. Blodprøven skal være tatt fra levende personer.
+Analyseinstitusjonen som utfører analyseoppdraget skal foreta summeringen av konsentrasjoner av benzodiazepiner og opioider og sørge for at dette foregår i henhold til forskriften og ved bruk av omregningsfaktorer som fremgår av vedlegg II. Summering skal ikke utføres for konsentrasjoner under straffbarhetsgrensene.
