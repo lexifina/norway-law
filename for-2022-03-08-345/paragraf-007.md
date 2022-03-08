@@ -1,0 +1,5 @@
+# § 7. Beregning av omsetningsfall
+(1) Fallet i omsetning, jf. § 5 (1) bokstav b) og 6 (1) bokstav b), settes til den prosentvise differansen mellom omsetning i kompensasjonsperioden og gjennomsnittet av omsetning i samme periode i alle år mellom 2017-2019, eller i årene fra første år foretaket hadde omsetning dersom foretaket ble etablert etter 1. januar 2017.
+(2) Foretak som er etablert etter 31. desember 2018 kan alternativt bruke gjennomsnittlig månedlig omsetning i kalendermånedene januar og februar 2020 som grunnlag for beregning av omsetningsfallet.
+(3) For foretak som er etablert etter 1. januar 2020 og som ikke har relevant omsetning i kalendermånedene januar og februar 2020, skal fallet i omsetning settes til den prosentvise differansen mellom omsetning i kompensasjonsperioden og realistisk budsjettert omsetning i kompensasjonsperioden.
+(4) Fall i omsetning som har eller kunne ha blitt dekket av foretakets forsikringsordning, ved å gjøre gjeldende avtaleklausuler mv., regnes ikke som omsetningsfall.
