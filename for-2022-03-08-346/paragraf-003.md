@@ -1,0 +1,2 @@
+# § 3. Vilkår for bruk av produktbetegnelsen
+Prosciutto di San Daniele skal produseres, bearbeides, foredles, pakkes, merkes og omsettes i samsvar med bestemmelsene i forordning (EF) nr. 1107/96 om beskyttelse av betegnelsen, jf. produktspesifikasjonen av 21. mars 2007 med korrigering slik det framgår av Official Journal OJ L 60 4.3.2015 side 70 og Single document slik det fremgår av Official Journal OJ C 188 20.06.2014 side 24.
