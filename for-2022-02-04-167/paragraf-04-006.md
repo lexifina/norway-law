@@ -1,0 +1,5 @@
+# § 4-6. Krav til dokumentasjon av opplysninger i søknaden
+(1) Søker skal etter krav fra tilskuddsmyndigheten dokumentere opplysninger gitt i søknaden, eller som er av betydning for denne.
+(2) Før søknad sendes, skal søker sørge for at det er utarbeidet en oppstilling som underbygger og dokumenterer alle tall og beregninger som ligger til grunn for søknaden. Oppstillingen skal henvise til relevant dokumentasjon, for eksempel fakturajournal og kontospesifikasjon med tilhørende salgsdokumentasjon, oversikter over opptjent inntekt som ikke er fakturert, kjøpsdokumentasjon, kontrakter, spesifikasjon av lønnsopplysningspliktige ytelser og dokumentasjon av lønn mv., timelister, arbeidskontrakter, permitteringsvarsler, årsregnskap, skattemelding eller tilsvarende dokumentasjon og oversikt over overføring av lønnsutbetalinger til de ansatte.
+(3) Dokumentasjon skal fremlegges på et av de nordiske språkene eller engelsk.
+(4) All dokumentasjon som er nødvendig for å avgjøre om vilkårene for støtte er oppfylt skal oppbevares i minst ti år etter tildeling av støtte, med mindre lengre oppbevaringstid følger av bestemmelser gitt i eller i medhold av bokføringsloven.

@@ -1,0 +1,2 @@
+# § 3-2. Beregning av omsetningsfall
+Foretak som har vært part i fisjon eller fusjon som er registrert gjennomført i Foretaksregisteret i referanseperioden eller senere, jf. lov om lønnsstøtte § 5 første ledd, kan for referanseperioden medregne omsetningen fra overdragende selskap. Dersom dette velges må arbeidsgiveravgiftsgrunnlaget, jf. folketrygdloven § 23-2, tillagt arbeidsgiveravgift fra overdragende selskap inngå i beregningen av fall i lønnskostnader, jf. lov om lønnsstøtte § 7 annet ledd bokstav a.
