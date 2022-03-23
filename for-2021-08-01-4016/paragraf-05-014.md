@@ -1,0 +1,5 @@
+# § 5-14. Behandling i skikkethetsnemnda
+(1) Saker som fremmes for skikkethetsnemnda skal følges av all skriftlig dokumentasjon i saken. jf. fagskoleforskriften § 35.
+(2) Nemnda skal utrede saken ytterligere dersom det er nødvendig.
+(3) Studenten skal varsles i god tid om tidspunktet for møtet og gjøres kjent med sakens opplysninger. Studenten skal ha mulighet til å legge frem sine synspunkter for nemnda før møtet.
+(4) Nemnda lager en innstilling til fagskolens klagenemnd med en vurdering av hvorvidt studenten er skikket eller ikke, hvorvidt studenten bør utestenges helt eller delvis fra den aktuelle utdanningen, samt lengden på utestengingsperioden og eventuelle vilkår for at studenten skal få gjenoppta utdanningen. Uenighet i nemnda skal begrunnes og fremgå i innstillingen.
