@@ -1,0 +1,4 @@
+# § 4. Fremgangsmåten ved fastsetting av erstatning
+Krav om erstatning etter § 3 må fremsettes innen 1. januar 2022 eller inntil seks måneder etter at pelsdyrvirksomheten er avviklet. Kravet fremsettes for statsforvalteren. Departementet kan forlenge fristen og gi oppfriskning for oversittelse. Dersom vilkårene i § 3 første ledd er oppfylt, skal staten tilby erstatning innen seks måneder etter at kravet er fremsatt.
+En pelsdyroppdretter som ikke aksepterer tilbudet, kan innen seks måneder etter at det ble gitt, sette frem krav for statsforvalteren om at staten skal begjære skjønn styrt av tingretten til fastsetting av erstatning etter § 3. Tingretten kan gi oppfriskning for oversittelse av denne fristen etter reglene i tvisteloven kapittel 16.
+For saksomkostninger gjelder reglene i skjønnsprosessloven § 54. Ved overskjønn og anke gjelder skjønnsprosessloven §§ 54 a og 54 b. For øvrig holdes skjønnet etter reglene i skjønnsprosessloven.
