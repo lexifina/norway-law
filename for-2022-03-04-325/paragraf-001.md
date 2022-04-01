@@ -1,0 +1,2 @@
+# § 1. Innehavere av flysertifikat og flyveledere. Plikt til å melde
+Lege, psykolog og optiker har etter helsepersonelloven § 34 første ledd plikt til å advare innehaver av flysertifikat dersom nevnte helsepersonell ved undersøkelse finner det av helsemessige grunner uforsvarlig at pasienten fortsetter i tjeneste som betinger luftfartssertifikat. Det samme gjelder pasienter som er i tjeneste som flyveleder. Advarselen gis skriftlig. Dersom pasientens helsetilstand antas ikke å være kortvarig, skal melding om at slik advarsel er gitt, samtidig gis til Luftfartstilsynet.
