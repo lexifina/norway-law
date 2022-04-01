@@ -1,0 +1,2 @@
+# § 13. Helse, miljø og sikkerhet
+Det er førers ansvar å sørge for at fartøyet er delt i ren og skitten sone for å unngå skader på personell og miljø. Personell som skal utføre oppgaver som inngår i fartøyets oljevernaktiviteter, skal ha opplæring som gjør dem i stand til å operere oljevernutstyr på en sikker måte. Opplæringen skal dokumenteres, og det skal klart fremgå hva som er gjennomgått i opplæringen. Opplæring i henhold til denne bestemmelsen skal repeteres med ikke mer enn 5 års mellomrom.

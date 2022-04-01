@@ -1,0 +1,2 @@
+# § 16. Overgangsordninger
+Fra forskriftens ikrafttredelse og frem til 1. januar 2013 vil det, ved oljevernaksjoner hvor det er behov for å benytte fartøy som skal ha sertifikat etter denne forskriften bli akseptert at aksjonsledelsen kontrollerer at fartøyet tilfredsstiller nødvendige krav for å ivareta sikkerheten til liv og helse, miljø og materielle verdier. Det er her en forutsetning at det ikke finnes et tilstrekkelig antall sertifiserte fartøy, og kontrollen skal skje på bakgrunn av et kontrollskjema fastsatt av Sjøfartsdirektoratet.
