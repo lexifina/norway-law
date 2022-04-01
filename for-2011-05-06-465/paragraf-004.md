@@ -1,0 +1,2 @@
+# § 4. Prisvekst i reguleringsåret og avvik mellom forventet og faktisk prisvekst året før reguleringsåret
+Til grunn for reguleringen legges forventet prisvekst i reguleringsåret justert for eventuelle avvik mellom forventet og faktisk prisvekst året før reguleringsåret. Forventet prisvekst settes lik anslaget i konsumprisene slik det framkommer i revidert nasjonalbudsjett. Faktisk prisvekst for året før reguleringsåret settes lik veksten i konsumprisindeksen (KPI) fastsatt av Statistisk sentralbyrå.
