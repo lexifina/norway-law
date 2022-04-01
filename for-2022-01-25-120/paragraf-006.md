@@ -1,0 +1,6 @@
+# § 6. Retting, sletting og begrensning av behandlingen
+Personvernforordningens artikkel 15 (den registrertes rett til innsyn), artikkel 16 (retting av opplysninger), artikkel 18 (rett til begrensning av behandling) og artikkel 17 (sletting av opplysninger) gjelder for behandling av opplysninger i vaktvirksomhetsregisteret. Den registrerte har rett til retting og sletting av personopplysninger og begrensning av behandlingen i samsvar med reglene i personvernforordningen artikkel 16 til 19.
+Opplysninger om personer som nevnt i § 3 skal ikke oppbevares lenger enn nødvendig, og skal slettes senest fire år etter at forholdet som betinget registrering, er opphørt, forutsatt at det i fireårsperioden ikke er oppstått nye forhold som betinger registrering.
+Begjæring om innsyn i opplysninger, retting av opplysninger, begrensning av behandlingen av opplysninger eller sletting av opplysninger fremmes skriftlig for den behandlingsansvarlige.
+Avgjørelser om innsyn, retting, begrensning av behandlingen og sletting av opplysninger treffes av den behandlingsansvarlige. Avgjørelsene kan ikke påklages til overordnet organ.
+Den behandlingsansvarlige skal ved avgjørelser etter fjerde ledd informere den registrerte om rettighetene etter personvernforordningen artikkel 77 og 79.
