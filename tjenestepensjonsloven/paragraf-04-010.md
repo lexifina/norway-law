@@ -1,0 +1,3 @@
+# § 4-10. Utbetalingstid
+(1) Alderspensjon skal ytes fra uttak av alderspensjon etter § 4-9 og så lenge arbeidstakeren lever, med mindre annet følger av annet ledd eller § 4-16. Livsvarig alderspensjon kan ikke omdannes til tidsavgrenset alderspensjon etter reglene i § 4-16.
+(2) Det kan likevel fastsettes i pensjonsplanen at utbetalingstiden kan settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Et medlem og pensjonsinnretningen kan også avtale at alderspensjon bare skal ytes i det antall hele år som er nødvendig for at samlet årlig pensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Ved omregningen etter dette ledd gjelder § 4-12 femte ledd.

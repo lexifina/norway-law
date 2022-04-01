@@ -1,0 +1,3 @@
+# § 7-5. Avvikling av foretaket
+(1) Skal foretaket avvikles fordi dets virksomhet overføres til annet foretak, gjelder reglene om sammenslåing av foretak i foretakspensjonsloven kapittel 13 tilsvarende så langt de passer dersom minst to tredeler av de arbeidstakere som er medlemmer i foretakets pensjonsordning samtidig overføres til det andre foretaket. Medlemmer som ikke overføres, skal sikres rett til pensjonsbevis etter reglene i kapittel 6.
+(2) Skal mindre enn to tredeler av de arbeidstakere som er medlemmer i foretakets pensjonsordning overføres til det andre foretaket, skal pensjonsordningen opphøre og avvikles etter reglene i § 7-6.

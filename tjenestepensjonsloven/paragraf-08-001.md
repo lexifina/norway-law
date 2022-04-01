@@ -1,0 +1,5 @@
+# § 8-1. Krav til regelverket
+(1) Et foretak kan opprette tjenestepensjonsordning for å sikre medlemmene uførepensjon i tillegg til den rett til arbeidsavklaringspenger eller uføretrygd som til enhver tid følger av folketrygdloven kapittel 11 og 12.
+(2) Pensjonsordningen kan yte årlig uførepensjon etter reglene i kapitlet her til medlemmer som i medlemstiden har fått inntektsevnen nedsatt på grunn av skade, sykdom eller lyte, i en slik grad at medlemmet ikke kan fortsette i sin vanlige stilling og ikke kan skaffe seg annet høvelig arbeid.
+(3) Pensjonsplan og annet regelverk for pensjonsordningen skal oppfylle kravene i kapittel 2 og 3. Ytelsene etter pensjonsplanen skal være garantert av pensjonsinnretningen.
+(4) I regelverket for pensjonsordningen kan det fastsettes at arbeidstakere som fratrer sin stilling i foretaket, og som har minst tre års tjenestetid der, skal ha opptjent rett til uførepensjon etter reglene i § 8-11 ved uførhet som følge av skade, sykdom eller lyte oppstått etter at arbeidstakeren opphørte å være medlem av pensjonsordningen.

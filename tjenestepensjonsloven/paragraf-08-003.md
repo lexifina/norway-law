@@ -1,0 +1,5 @@
+# § 8-3. Nedsatt inntektsevne
+(1) Vurderingen av hvor mye et medlems inntektsevne er blitt nedsatt, skal bygge på en sammenligning av de inntektsmuligheter som medlemmet hadde før uføretidspunktet og medlemmets inntektsmuligheter etter uføretidspunktet.
+(2) Uføretidspunktet er det tidspunkt inntektsevnen ble varig nedsatt minst til det nivå som kreves etter regelverket. Er inntektsevnen redusert gradvis over flere år, kan det tas utgangspunkt i inntektsevnen før skade, sykdom eller lyte oppstod.
+(3) Inntekt før uførhet fastsettes til medlemmets normale årslønn i foretaket før uføretidspunktet, beregnet i samsvar med reglene i § 4-3. Inntekt etter uførhet fastsettes til den inntekt medlemmet forutsettes å kunne skaffe seg ved å utnytte sin restinntektsevne ved ethvert arbeid som medlemmet nå kan utføre. Ved vurderingen skal det legges vekt på medlemmets alder, evner, utdanning, yrkesbakgrunn og arbeidsmuligheter på hjemstedet, eller andre steder der det er rimelig at medlemmet tar arbeid.
+(4) Ved anvendelsen av bestemmelser i dette kapittel justeres inntekt før og etter uførhet i samsvar med senere regulering av grunnbeløpet i folketrygden (G).

@@ -1,0 +1,6 @@
+# § 8-7. Beregning av uførepensjon
+(1) Et medlems uførepensjon beregnes ut fra medlemmets lønnsgrunnlag etter § 8-5 på den måten som er fastsatt i pensjonsplanen. Barnetillegg beregnes på den måten som er fastsatt i pensjonsplanen, og innenfor rammene i § 8-6 tredje ledd.
+(2) Uførepensjonen fra foretakets pensjonsordning skal reduseres inntil uførepensjonen sammen med eventuell uførepensjon fra fripoliser, pensjonsbevis og oppsatte rettigheter utgjør det høyeste av enten den uførepensjonen som er fastsatt i pensjonsplanen, eller summen av uførepensjon fra fripoliser, pensjonsbevis og oppsatte rettigheter. Det skal ved beregningen etter første punktum ikke tas hensyn til ytelser fra fripoliser, pensjonsbevis og oppsatte rettigheter som dekker inntektstap ved uførhet som ikke omfattes av uføretrygden eller uførepensjonen fra foretakets pensjonsordning. Dersom medlemmet har fått utbetalt for lite eller for mye uførepensjon, kan det foretas et etteroppgjør.
+(3) Medlemmet skal på forespørsel opplyse pensjonsinnretningen om sin rett til uførepensjon fra fripoliser, pensjonsbevis og oppsatte rettigheter.
+(4) Dersom fastsatt uføregrad er lavere enn 100 prosent, fastsettes uførepensjonen til en forholdsmessig andel av uførepensjon beregnet etter første og annet ledd.
+(5) Departementet kan fastsette forskrift til utfylling og gjennomføring av bestemmelsen her.

@@ -1,0 +1,4 @@
+# § 4-16. Tidsavgrenset utbetalingsperiode
+(1) Det kan fastsettes i pensjonsplanen at alderspensjonen skal opphøre ved fylte 80 år eller senere, men ikke i noe tilfelle før alderspensjon har vært utbetalt minst i 10 år. Medlemmet kan kreve tidsavgrenset alderspensjon omdannet til livsvarig alderspensjon.
+(2) Ved uttak av pensjon beregnes årlig pensjonsytelse ut fra pensjonsbeholdningen og forventet utbetalingsperiode på uttakstidspunktet etter reglene i § 4-11 annet ledd. Utbetalingstiden kan settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp, jf. § 4-10 annet ledd.
+(3) Ved endret uttaksgrad skal pensjonsytelsen beregnes på nytt ut fra medlemmets samlede pensjonsbeholdning og forventet utbetalingsperiode på endringstidspunktet. Tilsvarende gjelder ved omdanning til livsvarig alderspensjon.
