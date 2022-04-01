@@ -1,0 +1,5 @@
+# § 4-2. Krav til pensjonsplanen
+(1) Pensjonsplanen skal inneholde bestemmelsene om beregning og innbetaling av årlige innskudd og premier fra foretaket, om oppbygging av de enkelte medlemmers pensjonsbeholdning, samt om beregning og utbetaling av årlig pensjon.
+(2) I pensjonsplanen skal årlig innskudd fra foretaket være fastsatt som en bestemt prosent, jf. § 4-7, av de enkelte medlemmenes lønn i foretaket inntil 12 ganger grunnbeløpet i folketrygden (G). Det kan fastsettes i pensjonsplanen at det for medlemmers lønn mellom 7,1 G og inntil 12 G skal innbetales et tilleggsinnskudd.
+(3) Årlig innskudd for medlemmene skal være høyere for kvinner enn for menn. Tillegget til årlig innskudd for kvinner skal settes slik at den årlige pensjon som innskuddene ventes å gi, er uavhengig av medlemmets kjønn. Kongen kan gi forskrift om beregning av slike tillegg til årlige innskudd.
+(4) Årlig innskudd for medlem i deltidsstilling skal utgjøre en forholdsmessig del av det innskuddet ville vært dersom medlemmet hadde fulltidsstilling.

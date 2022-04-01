@@ -1,0 +1,3 @@
+# § 3-3. Nye arbeidstakere
+(1) En arbeidstaker som ansettes av foretaket og som fyller de øvrige vilkårene for medlemskap i pensjonsordningen, opptas som medlem når arbeidstakeren har mottatt samlet lønn fra foretaket med et beløp som tilsvarer rapporteringspliktig lønn i a-meldingen, med mindre annet følger av forskrift fastsatt av departementet. I regelverket for pensjonsordningen kan det fastsettes lavere eller ingen minstekrav til lønn for opptak i pensjonsordningen. Dersom pensjonsordningen ikke har minstekrav til lønn, skal arbeidstakeren opptas som medlem fra første arbeidsdag i foretaket.
+(2) Forsikringsvirksomhetsloven kapittel 6 gjelder ved flytting til pensjonsordningen av pensjonsbeholdning og andre midler knyttet til pensjonsbevis for opptjent pensjon.

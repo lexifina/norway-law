@@ -1,0 +1,7 @@
+# § 2-2. Minstekrav
+(1) Et foretak kan opprette pensjonsordning i henhold til loven her dersom foretaket har:
+a) minst to personer i foretaket som begge har en arbeidstid og lønn som utgjør 75 prosent eller mer av full stilling,
+b) minst én arbeidstaker uten eierinteresse i foretaket som har en arbeidstid og lønn i foretaket som utgjør 75 prosent eller mer av full stilling, eller
+c) personer i foretaket som hver har en arbeidstid og lønn som utgjør 20 prosent eller mer av full stilling, og som til sammen utfører arbeid som tilsvarer minst to årsverk.
+(2) Pensjonsordning kan også opprettes i pensjonskasse som er i samsvar med bestemmelser gitt i eller i medhold av forsikringsvirksomhetsloven. Har pensjonskassen mindre enn 50 medlemmer, skal vedtektene for pensjonskassen inneholde særlige bestemmelser om gjenforsikring av forsikringsrisiko og begrensning av risiko knyttet til kapitalforvaltningen slik at medlemmenes rett til pensjon er betryggende sikret. Finanstilsynet kan gi forskrift om dette.
+(3) Dersom foretaket ved utløpet av et kalenderår ikke oppfyller vilkårene i første ledd, og foretaket heller ikke innen ett år igjen oppfyller vilkårene, skal pensjonsordningen opphøre og avvikles. Pensjonsordning i pensjonskasse som i en periode på seks måneder ikke oppfyller vilkårene i annet ledd, skal opphøre og avvikles eller videreføres som pensjonsforsikring i samsvar med første ledd.

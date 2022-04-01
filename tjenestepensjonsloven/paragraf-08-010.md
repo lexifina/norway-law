@@ -1,0 +1,5 @@
+# § 8-10. Oppregulering av uførepensjon under utbetaling
+(1) Uførepensjon under utbetaling skal oppreguleres årlig i samsvar med avkastningsprosenten for midlene i pensjonsinnretningens kollektivportefølje til sikring av uførepensjoner under utbetaling, jf. forsikringsvirksomhetsloven § 9-16 femte ledd. Oppregulering i et år skal likevel ikke overstige en prosentvis regulering i samsvar med endringen i grunnbeløpet i folketrygden.
+(2) Avkastning i et år som overstiger det som trengs til oppregulering etter første ledd, skal tilføres pensjonsordningens reguleringsfond for uførepensjon. Midlene i fondet skal brukes til å dekke oppregulering opp til grensen i første ledd i år hvor årets avkastning ikke er tilstrekkelig.
+(3) Det kan fastsettes i regelverket at årlig oppregulering av uførepensjon som ikke kan dekkes av årets avkastning, eller ved overføring av midler i reguleringsfondet, skal dekkes ved tilskudd fra foretaket.
+(4) Departementet kan gi forskrift om en øvre grense for størrelsen på pensjonsordningens reguleringsfond for uførepensjon. Overskytende midler skal tilføres premiefondet.

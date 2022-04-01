@@ -1,0 +1,5 @@
+# § 6-2. Pensjonsbevis
+(1) Pensjonsinnretningen skal utstede pensjonsbevis som sikrer medlemmet rett til pensjonsbeholdningen etter § 6-1 annet ledd.
+(2) Det skal knyttes administrasjonsreserve til pensjonsbeviset. Har medlemmet fratrådt sin stilling i foretak med pensjonsordning hvor det er valgt garantert regulering etter § 4-6, skal pensjonsbeholdningen tilføres en forholdsmessig del av pensjonsordningens reguleringsfond, jf. § 4-6 tredje ledd.
+(3) Er pensjonsbeholdningen mindre enn halvparten av folketrygdens grunnbeløp og medlemmet har pensjonsbevis fra tidligere arbeidsforhold, kan medlemmet likevel bare kreve å få pensjonsbeholdningen overført til dette pensjonsbeviset eller kreve overføring til individuell pensjonsavtale etter lov 27. juni 2008 nr. 62 om individuell pensjonsordning.
+(4) Pensjonsbeviset skal utstedes av livsforsikringsselskapet som har tegnet forsikringen. Er pensjonsordningen i en pensjonskasse, utstedes pensjonsbevis etter reglene i § 6-3. Pensjonsbevis kan utstedes elektronisk dersom arbeidstakeren uttrykkelig godtar dette.

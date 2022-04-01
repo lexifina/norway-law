@@ -1,0 +1,3 @@
+# § 8-5. Lønnsgrunnlag
+(1) Lønnsgrunnlaget ved beregningen av uførepensjon fra pensjonsordningen er medlemmets normale årslønn i foretaket, beregnet på uføretidspunktet etter reglene i § 4-3. Lønn som overstiger 12 G, skal ikke medregnes.
+(2) Dersom skade, sykdom eller lyte oppstått i medlemstiden gradvis har redusert et medlems inntektsevne over flere år, skal det ved beregningen i stedet tas utgangspunkt i medlemmets lønnsgrunnlag før slik skade, sykdom eller lyte oppstod, dersom foretaket før uføretidspunktet har underrettet pensjonsinnretningen om det høyere lønnsgrunnlag som i tilfelle skal legges til grunn ved beregningen av uførepensjon til medlemmet.
