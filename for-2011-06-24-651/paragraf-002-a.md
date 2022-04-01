@@ -1,0 +1,2 @@
+# § 2a. Behandling av spesialisterklæringer
+Dersom det er innhentet en spesialisterklæring etter særskilt mandat i anledning saken, og nemnda vurderer å fatte vedtak som strider med den sakkyndiges konklusjon om årsakssammenheng mellom tjenesten og anførte psykiske plager, skal nemnda sende saken tilbake til Statens pensjonskasse for ny behandling etter gjeldende regler. Første punktum gjelder ikke dersom mer enn én erklæring allerede er innhentet i saken.

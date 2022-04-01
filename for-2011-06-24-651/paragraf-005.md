@@ -1,0 +1,3 @@
+# § 5. Sammensetning og oppnevning
+Nemnda oppnevnes av Forsvarsdepartementet og skal bestå av fire medlemmer med personlige varamedlemmer. Leder og ett av medlemmene skal være jurister uten tilknytning til Forsvaret.
+Av de øvrige to medlemmer skal ett medlem med varamedlem oppnevnes etter forslag fra Veteranforbundet SIOPS, Norges Veteranforbund for Internasjonale Operasjoner og Norske Reserveoffiserers Forbund og ett medlem med varamedlem skal oppnevnes etter forslag fra Befalets Fellesorganisasjon, Norges offisers- og spesialistforbund, Norsk Tjenestemannslag, Krigsskoleutdannede offiserers landsforening og Personellforbundet.
