@@ -1,0 +1,2 @@
+# § 12. Kvalifikasjonskrav
+Fører av fartøy som ikke er underlagt forskrift om kvalifikasjoner og sertifikater for sjøfolk § 3, skal minst tilfredsstille krav til fører av fiskefartøy med største lengde 10,67 meter eller mer. Alternativt kan fritidsskippersertifikat i samsvar med forskrift 22. desember 2011 nr. 1523 om kvalifikasjoner og sertifikater for sjøfolk § 29 godtas for fartøy med største lengde under 15 meter som ikke er fiskefartøy.
