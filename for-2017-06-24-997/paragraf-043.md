@@ -1,0 +1,3 @@
+# § 43. Forvaltningsorgan og klageinstans
+Krav om erstatning etter forsvarsloven § 55 første ledd behandles av Statens pensjonskasse. Vedtak i sak om erstatning for psykiske belastningsskader kan påklages til klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner.
+Forvaltningsloven kapittel IV til VI gjelder for saker som nevnt i første ledd annet punktum, med de særlige regler som følger av forskrift 24. juni 2011 nr. 651 om klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner.
