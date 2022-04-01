@@ -1,0 +1,2 @@
+# § 8-3. Plikt til å gi opplysninger
+Den som skal ha utbetalt en pensjon etter loven her, har plikt til å gi de opplysninger og levere de dokumenter som er nødvendige for at Statens pensjonskasse skal kunne vurdere om vedkommende har rett til ytelsen. Den som mottar en ytelse, plikter å underrette Statens pensjonskasse om forhold som etter loven her kan føre til at ytelsen skal endres eller falle bort.

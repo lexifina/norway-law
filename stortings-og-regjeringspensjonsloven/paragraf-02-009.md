@@ -1,0 +1,5 @@
+# § 2-9. Alderspensjon til den som også har opptjening etter kapitlene 3 og 4
+For den som har opptjening etter kapitlet her, og som har opptjente rettigheter etter kapittel 3 eller 4 eller begge kapitlene, skal samlet pensjon ikke overstige en beregnet maksimal pensjon.
+Beregnet maksimal pensjon skal tilsvare pensjon beregnet etter kapitlene 3 og 4 for hele opptjeningstiden som den enkelte har som stortingsrepresentant og regjeringsmedlem. Har vedkommende både vært stortingsrepresentant og regjeringsmedlem, skal reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) kapittel II også anvendes. Eventuelle andre pensjoner som er omfattet av samordningsloven skal holdes utenfor ved beregningen av maksimal pensjon.
+Ved beregning etter første og andre ledd skal delingstallet ved 65 år benyttes.
+Blir samlet pensjon høyere enn beregnet maksimal pensjon, skal pensjonen opptjent etter kapitlet her settes ned med det overskytende beløpet. Gjenværende beløp multipliseres med delingstallet ved 65 år og divideres med delingstallet på uttakstidspunktet.

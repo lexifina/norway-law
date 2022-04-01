@@ -1,0 +1,4 @@
+# § 5-6. Full opptjeningstid
+Når midlertidig uførepensjon og uførepensjon gis etter § 5-3 første ledd, er full opptjeningstid 30 år. Det samme gjelder for den som omfattes av § 5-3 andre ledd og som har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder.
+Når uførepensjonen gis etter § 5-3 andre ledd og pensjonisten ikke hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, regnes full opptjeningstid som perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år.
+Beregningen av midlertidig uførepensjon og uførepensjon skjer for øvrig i samsvar med lov 28. juli 1949 nr. 26 om Statens pensjonskasse, men med de særskilte beregningsfaktorene som framgår av kapitlet her.

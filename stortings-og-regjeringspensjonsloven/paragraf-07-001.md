@@ -1,0 +1,4 @@
+# § 7-1. Regulering av alderspensjon
+Alderspensjon etter kapittel 2 under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.
+Regulering av alderspensjon etter kapitlene 3 og 4 under utbetaling foretas ved at pensjonsgrunnlaget reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak gjelder første ledd andre punktum tilsvarende.
+Alderspensjon etter kapitlene 3 og 4 som er tatt ut før 67 år, skal omregnes fra måneden etter fylte 67 år ved at pensjonsgrunnlaget oppreguleres med lønnsveksten fra uttakstidspunktet og fram til omregningstidspunktet. Bestemmelsen i første ledd andre punktum gjelder tilsvarende ved første regulering etter at pensjonsgrunnlaget er omregnet.

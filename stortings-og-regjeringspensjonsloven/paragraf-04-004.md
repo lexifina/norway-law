@@ -1,0 +1,5 @@
+# § 4-4. Uttak av alderspensjon
+Alderspensjonen kan tas ut fra fylte 65 år.
+Pensjonen en har rett til i perioden fra 65 til 67 år, kan likevel tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i § 4-6 tredje ledd. Dersom vedkommende også har rett til å ta ut pensjon etter § 3-4 andre ledd før fylte 65 år, kan ikke pensjonen etter første punktum i leddet her tas ut samtidig. Den som tar ut pensjon etter første punktum, mister retten til å ta ut pensjon etter § 3-4 andre ledd.
+Det gis ikke pensjon etter andre ledd i paragrafen her for tidsrom der det gis avtalefestet pensjon som nevnt i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller midlertidig uførepensjon eller uførepensjon fra folketrygden eller uførepensjon etter loven her.
+Det gis ikke alderspensjon til den som har verv som stortingsrepresentant eller stilling som regjeringsmedlem. Det samme gjelder den som er ansatt i statlig eller kommunal tjeneste i minst 80 prosent stilling, eller som har minst 80 prosent stilling som kommunalt ombud.

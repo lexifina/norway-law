@@ -1,0 +1,4 @@
+# § 1-3. Samordning
+Alderspensjon etter kapittel 2 er nettoberegnet ytelse og skal ikke samordnes etter bestemmelsene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser. Det samme gjelder midlertidig uførepensjon og uførepensjon etter kapittel 5, med unntak av når den midlertidige uførepensjonen og uførepensjonen er beregnet etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 28 andre ledd (bruttopensjon).
+Alderspensjon etter kapitlene 3 og 4 samordnes etter bestemmelsene i samordningsloven. Alderspensjon etter kapitlene 3 og 4 skal regnes som to forskjellige ordninger ved anvendelse av bestemmelsene i samordningsloven.
+Etterlattepensjon etter kapittel 6 skal samordnes etter bestemmelsene i samordningsloven når pensjonen beregnes som bruttoytelse. Når pensjonen beregnes som nettoytelse, gjelder bestemmelsen i samordningsloven § 3 tredje ledd.

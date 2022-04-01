@@ -1,0 +1,8 @@
+# § 9-2. Overgangsbestemmelser
+Det godskrives opptjening etter bestemmelsene i kapittel 2 i perioden 1. oktober 2009 til 31. desember 2011 til dem som i denne perioden er eller har vært
+a) stortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,
+b) regjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder før 1. januar 2012.
+Ved vurderingen av om det er tjent opp rett til pensjon etter første ledd gjelder bestemmelsen i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6 om sammenlegging av tjenestetid.
+Stortingsrepresentanter og regjeringsmedlemmer som får opptjening i kapittel 2 etter første ledd skal ikke ha opptjening etter kapitlene 3 og 4 for samme periode.
+Pensjonsopptjening etter første ledd skal legges til grunn for fastsetting av en pensjonsbeholdning 1. januar 2012. Opptjeningen beregnes etter § 2-2. Opptjeningen 1. mai 2010 reguleres i samsvar med økningen i folketrygdens grunnbeløp på dette tidspunkt. Opptjeningen 1. mai 2011 reguleres i samsvar med folketrygdens grunnbeløp på dette tidspunkt.
+De som før 1. januar 2012 mottar uførepensjon eller etterlattepensjon etter lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter eller etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder, skal fortsatt ha pensjonen beregnet etter disse reglene. For øvrig gjelder loven her. Ved overgang fra uførepensjon til alderspensjon ved fylte 65 år skal alderspensjonen beregnes etter bestemmelsene i kapitlene 3 og 4.
