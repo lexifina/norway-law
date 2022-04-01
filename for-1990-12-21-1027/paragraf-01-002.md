@@ -1,0 +1,2 @@
+# § 1-2. Tilleggserstatning
+Skadelidte som ikke fyller vilkårene for ytelser ved yrkesskade etter folketrygdloven kapittel 13, kan kreve tilleggserstatning. Tilleggserstatningen skal fastsettes slik at skadelidte så langt det er mulig settes i samme stilling som om slike ytelser hadde vært tilstått. Ved fastsettelsen av tilleggserstatningen skal det gjøres fradrag for trygdeytelser og andre ytelser som gir tilsvarende kompensasjon.

@@ -1,0 +1,4 @@
+# § 3-1. Grunnlaget for beregningen
+Grunnlaget for beregningen av det framtidige inntektstapet er den pensjonsgivende inntekt, jf. folketrygdloven § 3-15, i året før skaden eller sykdommen ble konstatert. Det tas ikke hensyn til begrensning som nevnt i folketrygdloven § 3-13 fjerde ledd.
+Hvis skadelidtes antatte pensjonsgivende inntekt, uten skaden eller sykdommen, i året skaden eller sykdommen ble konstatert, gir et høyere grunnlag, legges denne til grunn. Tilsvarende gjelder hvis skadelidte i et senere inntektsår har oppnådd en pensjonsgivende inntekt som gir et høyere grunnlag.
+Hvis det er særlige holdepunkter for å anta at grunnlaget for beregningen etter første og annet ledd avviker vesentlig fra det som ville vært skadelidtes alminnelige inntektsnivå uten skaden eller sykdommen, skal grunnlaget for beregningen settes til dette nivået.

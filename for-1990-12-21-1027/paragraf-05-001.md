@@ -1,0 +1,3 @@
+# § 5-1
+Er erstatningen fastsatt etter § 2-2, kap. 3 eller kap. 4 og skadelidtes ervervsmessige uføregrad eller medisinske invaliditet som følge av ulykken endrer seg vesentlig, kan skadelidte kreve etteroppgjør. Krav om etteroppgjør må framsettes innen fem år etter at oppgjøret var avsluttet.
+Ved etteroppgjør etter kap. 3 og kap. 4 beregnes først differansen mellom erstatningen skadelidte fikk ved oppgjøret og den erstatningen skadelidte ville ha fått ved oppgjøret om den nye invaliditetsgraden var blitt lagt til grunn. Deretter beregnes tilleggserstatningen på grunnlag av G på det nye oppgjørstidspunktet.
