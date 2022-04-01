@@ -1,0 +1,5 @@
+# § 39. Hjemsendingsnemndas rådgivende uttalelse i klagesaker
+Nemnda skal vurdere helhetlig om hjemsendingsvedtaket er i samsvar med § 33. Klageren har rett til å forklare seg muntlig for nemnda, med mindre nemnda finner det åpenbart unødvendig for sakens opplysning. Nemnda har rett til innsyn i alle sakens dokumenter, og kan innhente nødvendige opplysninger i saken fra Forsvaret.
+Nemnda gir råd til forsvarssjefen om klagen bør tas til følge eller ikke. Nemnda kan gi råd om den som ble sendt hjem, skal erklæres skikket til fremtidige internasjonale operasjoner.
+Hvis klageren også er ilagt en disiplinær refselse og den er påklaget, eller hvis klageren er under straffeforfølgning, skal nemnda utsette behandlingen hvis avgjørelsen kan ha betydning for nemndas behandling av klagen.
+Mener nemnda at hjemsendingspraksisen er uforsvarlig eller urimelig, og at praksisen bør tas opp med beordringsmyndigheten eller den internasjonale organisasjonen som gjennomfører operasjonen, skal nemnda gi en uttalelse om dette til Forsvarsdepartementet.

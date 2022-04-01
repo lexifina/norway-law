@@ -1,0 +1,5 @@
+# § 37. Klagerett og frister mv.
+Den som blir sendt hjem, har rett til å klage på vedtaket. Klagen skal være skriftlig og sendes beordringsmyndigheten senest tre uker etter at hun eller han er kommet hjem til Norge. Adgangen etter forvaltningsloven § 31 til å få klagen behandlet selv om klagefristen er oversittet, gjelder tilsvarende.
+Beordringsmyndigheten skal påtegne klagen og oversende den snarest mulig til rådgivende klagenemnd i hjemsendingssaker (hjemsendingsnemnda).
+Hjemsendingsnemndas rådgivende uttalelse etter § 39 oversendes forsvarssjefen, som fatter vedtak i klagesaken. Forsvarssjefen skal også ta stilling til størrelsen på det økonomiske tapet hvis den tjenestepliktige ble urettmessig sendt hjem, jf. § 36.
+Hvis forsvarssjefen helt eller delvis fraviker nemndas uttalelse, kan avgjørelsen påklages til Forsvarsdepartementet. Forsvarssjefens avgjørelse om erstatning kan alltid påklages til Forsvarsdepartementet. Forvaltningsloven kapittel VI gjelder tilsvarende ved klage til departementet.
