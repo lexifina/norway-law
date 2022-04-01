@@ -1,0 +1,4 @@
+# § 2-5. Levealdersjustering og nøytralt uttak
+Alderspensjonen skal levealdersjusteres, det vil si at den enkeltes pensjon justeres ved uttakstidspunktet for endringer i befolkningens levealder.
+Alderspensjonen skal være nøytral i forhold til uttaksalder, det vil si at forventet nåverdi av den enkeltes samlede pensjonsutbetalinger er uavhengig av uttaksalder.
+Levealdersjustering og nøytralt uttak gjennomføres ved hjelp av delingstall. For årskull fra og med 1963-kullet benyttes delingstall som i folketrygden, se folketrygdloven §§ 20-12 og 20-13. For årskullene 1943 til og med 1962 benyttes særskilte delingstall som sikrer at levealdersjusteringen mellom årskull skal være den samme som i folketrygden. De særskilte delingstallene fastsettes av Statens pensjonskasse. Departementet kan gi forskrift om fastsetting av særskilte delingstall.

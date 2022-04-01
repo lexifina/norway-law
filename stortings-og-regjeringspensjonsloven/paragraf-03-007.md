@@ -1,0 +1,3 @@
+# § 3-7. Barnetillegg
+Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter § 3-4 tredje ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år.
+Barnetillegg utbetales til og med den måneden barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde.

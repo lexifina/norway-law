@@ -1,0 +1,4 @@
+# § 6-4. Pensjonsgrunnlag
+Pensjonsgrunnlaget for etterlatte som omfattes av § 6-3 første ledd, er opptjeningsgrunnlaget avdøde hadde på tidspunktet for dødsfallet, se § 2-2 andre ledd.
+For etterlatte som omfattes av § 6-3 andre ledd, er pensjonsgrunnlaget det opptjeningsgrunnlaget avdøde hadde ved fratredelsen. Har avdøde fratrådt før lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter § 3-5 andre ledd eller § 4-5 andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten. Når avdøde var over 67 år ved dødsfallet, skal pensjonsgrunnlaget for tiden fra 67 år reguleres med et gjennomsnitt av lønns- og prisvekst. Ved regulering benyttes de reguleringsfaktorer som fastsettes årlig, jf. § 7-4.
+Pensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.
