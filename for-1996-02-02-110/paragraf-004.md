@@ -1,0 +1,4 @@
+# § 4. (Foreleggelse av utvalg mv. som er oppnevnt av et departement eller i statsråd)
+Utvalg mv. som skal oppnevnes av et offentlig organ, og som ikke vil tilfredsstille kravet til kjønnsfordeling, skal forelegges Kultur- og likestillingsdepartementet. Foreleggelsen skal sendes om det aktuelle fagdepartement. Kultur- og likestillingsdepartementet vurderer om det er tilstrekkelig dokumentert at det ikke har latt seg gjøre å finne et tilstrekkelig antall kvalifiserte medlemmer av begge kjønn.
+Oppnevningen må ikke skje før Kultur- og likestillingsdepartementet har godkjent utvalgets sammensetning.
+Ved oppnevninger i statsråd skal det, dersom utvalget ikke tilfredsstiller lovens krav om kjønnsrepresentasjon, opplyses at utvalgets sammensetning er godkjent av Kultur- og likestillingsdepartementet.
