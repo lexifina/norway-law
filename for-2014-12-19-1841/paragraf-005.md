@@ -1,0 +1,4 @@
+# § 5. Melding
+Laboratorier som påviser nye tilfeller av sjukdom i besetninger som Mattilsynet har pålagt restriksjoner, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes innen 24 timer etter påvisningen.
+Laboratorier som påviser antibiotikaresistente bakterier som fastsatt i vedlegget over C-sjukdommer, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes så snart som mulig og senest innen 7 dager etter påvisningen. Dette gjelder likevel ikke dersom det er inngått avtale mellom laboratoriet og Mattilsynet om at melding skal gis på en annen måte eller på et annet tidspunkt.
+Veterinærer som påviser C-sjukdom hos dyr, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes så snart som mulig og senest 7 dager etter påvisningen. Når prøver sendes til analyse for undersøkelse i laboratorium utenfor Norge, skal skriftlig melding sendes av veterinær som er ansvarlig for prøvetakingen.
