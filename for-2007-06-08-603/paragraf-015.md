@@ -1,0 +1,3 @@
+# § 15. Tiltak i rugerier
+Ved påvisning av Salmonella i en flokk på rugeriet, eller ute i en flokk som har levert egg til rugeriet, skal rugeegg fra flokken destrueres og behandles etter § 4 femte ledd. Likeledes skal daggamle kyllinger fra flokken avlives og behandles etter § 4 femte ledd. Ikke-rugede egg kan likevel brukes til humant konsum etter behandling som sikrer fjerning av Salmonella.
+Ved påvisning av Salmonella skal alle kyllinger som har vært samtidig i klekkemaskinen, avlives og behandles etter § 4 femte ledd. De besetningene som har mottatt slike kyllinger, skal betraktes som smittede besetninger.
