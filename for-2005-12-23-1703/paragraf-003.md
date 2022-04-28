@@ -1,0 +1,2 @@
+# § 3. Forbud mot vaksinasjon mot Salmonella og bruk av antibakterielle midler som tiltak
+EØS-avtalens vedlegg I kapittel I del 7.2 nr. 29 (forordning (EF) nr. 1177/2006) om gjennomføring av europaparlaments- og rådsforordning (EF) nr. 2160/2003 med hensyn til krav til anvendelse av særlige kontrollmetoder innenfor rammen av nasjonale programmer for bekjempelse av salmonella i fjørfe gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
