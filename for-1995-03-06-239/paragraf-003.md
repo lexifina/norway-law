@@ -1,0 +1,4 @@
+# § 3. Semintekniker
+Person uten veterinærutdanning kan foreta kunstig sædoverføring hos en eller flere arter husdyr, når vedkommende er autorisert som semintekniker av Mattilsynet. For å bli autorisert må vedkommende ha bestått kurs i kunstig sædoverføring for den aktuelle dyreart ved Norges miljø- og biovitenskapelige universitet.
+Semintekniker kan utføre drektighetskontroll på den/de dyrearter vedkommende er autorisert for dersom vedkommende på en tilfredsstillende måte har gjennomgått kurs i drektighetskontroll for den/de aktuelle dyreart(er) ved Norges miljø- og biovitenskapelige universitet.
+Mattilsynet i det området seminteknikeren har sitt kontorsted er nærmeste overordnede i alle faglige spørsmål innenfor denne forskriftens virkeområde. Seminteknikeren må i samsvar med forskriftens formål følge anvisning og rettledning fra Mattilsynet.
