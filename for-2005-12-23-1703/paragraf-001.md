@@ -1,0 +1,2 @@
+# § 1. Overordnede regler om kontroll med Salmonella og andre zoonoser
+EØS-avtalen vedlegg I kapittel I del 7.1 nr. 8b (forordning (EF) nr. 2160/2003 som endret ved forordning (EF) nr. 1237/2007, forordning (EF) nr. 213/2009, forordning (EU) nr. 517/2011, forordning (EU) nr. 1086/2011, forordning (EU) nr. 517/2013 og forordning (EU) 2016/429) om kontroll av Salmonella og andre spesifiserte zoonotiske smittestoffer som overføres gjennom næringsmidler gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
