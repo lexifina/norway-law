@@ -1,0 +1,2 @@
+# § 4
+Den som bortvises, skal pålegges straks, eller innen en viss frist, å forlate Svalbard. Dersom personen nekter å etterkomme pålegget, skal vedkommende føres ut. Personen plikter å betale utgiftene for dette og for opphold som er besluttet i medhold av § 3. Dersom den som blir bortvist, er i besittelse av pengemidler, skal Sysselmesteren før transporten sikre seg det nødvendige beløp til dekning av utgifter etter tredje punktum.
