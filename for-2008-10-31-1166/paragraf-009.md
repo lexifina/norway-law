@@ -1,0 +1,5 @@
+# § 9. Meldeplikt
+Det skal meldes fra til Norsk Pasientskadeserstatning om virksomhet som sysselsetter helsepersonell og som yter helsehjelp utenfor den offentlige helsetjenesten.
+Melding om endring i virksomheten, som endring i antall og sammensetning av profesjoner og årsverk, skal sendes Norsk Pasientskadeserstatning senest 1. februar. Melding om etablering av ny virksomhet skal sendes senest én uke etter at virksomheten begynner å yte helsehjelp. Melding om at virksomhet opphører, sendes Norsk Pasientskadeserstatning om mulig én måned før opphør og senest en måned etter opphør av virksomheten. Melding om endring av adresse, telefon og annen kontaktinformasjon skal sendes Norsk Pasientskadeserstatning snarest.
+Meldingen skal inneholde de opplysningene som er nødvendig for at Norsk Pasientskadeserstatning skal kunne beregne og kreve inn tilskudd fra virksomheten. Meldingen skal gis på skjema utarbeidet av Norsk Pasientskadeserstatning.
+Den som er ansvarlig for å betale tilskudd til Norsk Pasientskadeserstatning, skal sørge for at meldeplikten overholdes.
