@@ -1,0 +1,3 @@
+# § 2. Delegering av oppgaver til lederen
+Oppgaver på statsetatens myndighetsområde som er lagt til Arbeids- og velferdsdirektoratet, jf. loven § 4 og § 5, kan direktoratet eller det organet som direktoratet bestemmer helt eller delvis delegere til en leder som har felles administrativt ansvar og som er kommunalt ansatt i det felles lokale kontoret.
+Oppgaver på kommunens myndighetsområde som inngår i det felles lokale kontoret, jf. loven § 13 annet ledd og § 14 første ledd kan kommunen helt eller delvis delegere til en leder som har felles administrativt ansvar og som er statlig ansatt i det felles lokale kontoret.

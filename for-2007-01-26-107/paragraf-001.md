@@ -1,0 +1,4 @@
+# § 1. Området for forskriften
+Avtale mellom Arbeids- og velferdsetaten og en kommune om felles lokalt kontor kan inneholde bestemmelser om at statlig og kommunalt ansatt personell kan utføre oppgaver, herunder fatte enkeltvedtak, på hverandres myndighetsområder når det ligger innenfor de rammene som er fastsatt i denne forskriften, jf. arbeids- og velferdsforvaltningsloven § 14 første og annet ledd.
+Ved overføring av myndighet må det legges vekt på at gjeldende ansvarsdeling mellom stat og kommune opprettholdes uavhengig av hvem som utfører oppgaven. Det skal heller ikke skje en kostnadsoverveltning mellom statlige og kommunale budsjetter.
+Ved inngåelse av avtale som inneholder bestemmelser som nevnt i første ledd, skal delegeringsvedtaket legges som vedlegg til avtalen. Delegeringsvedtaket skal inneholde henvisning til styringsdokumenter, lover, forskrifter og instrukser, jf. § 5 og § 6.
