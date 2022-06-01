@@ -1,2 +1,2 @@
 # § 71
-Stortingets medlemmer fungerer i fire sammenhengende år.
+De valgte representantene er medlemmer av Stortinget i fire sammenhengende år.
