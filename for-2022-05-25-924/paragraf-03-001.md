@@ -1,0 +1,5 @@
+# § 3-1. Krav til kjøretøy
+Kjøretøy skal ha et akseptabelt sikkerhetsnivå. Kjøretøy som er konstruert, prosjektert, testet, oppgradert og fornyet i henhold til standardene EN 14033, EN 15746, EN 15954, EN 15955 eller EN 13977, anses å ha et akseptabelt sikkerhetsnivå. Der det ikke er oppgitt noe annet i forskriften her er det den siste versjonen av standarden som gjelder.
+Avvik fra standarder skal vurderes teknisk og sikkerhetsmessig, og testes, og vurderingen skal dokumenteres. Kravene til sikkerhet kan også oppfylles om virksomheten kan dokumentere at kjøretøyet, ved testing, holder et tilsvarende sikkerhetsnivå som i anerkjent standard.
+Hvis et kjøretøy har risikoaspekter som det ikke er tatt hensyn til i anerkjente standarder, må disse vurderes særskilt. En slik vurdering skal dokumenteres. Risikovurderinger skal gjennomføres etter anerkjent standard. Ved kombinasjoner av deler av anerkjente standarder skal det dokumenteres at det oppnås et akseptabelt sikkerhetsnivå.
+Statens jernbanetilsyn kan kreve at virksomheten benytter uavhengig organ til verifisering av om nødvendig sikkerhet er ivaretatt.
