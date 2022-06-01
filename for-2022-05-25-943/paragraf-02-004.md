@@ -1,0 +1,4 @@
+# § 2-4. Drift, kontroll og vedlikehold av kjøretøy
+Jernbanevirksomheten skal drifte og vedlikeholde kjøretøyene i henhold til nasjonale og internasjonale standarder.
+Jernbanevirksomheten skal føre kontroll med kjøretøy. Jernbanevirksomheten skal identifisere sikkerhetskritiske systemer, deler og komponenter og fastsette sikkerhetsmessige minimumskrav for disse.
+Jernbanevirksomheten har ansvaret for at kjøretøyet blir vedlikeholdt. Vedlikeholdet skal sikre at ingen sikkerhetskritiske systemer, deler eller komponenter forringes så mye at det fører til funksjonssvikt. Blant annet skal sikkerhetsmessige slitasjegrenser for slitasjeutsatte deler være angitt, og terminer for vedlikehold og utskifting for alle sikkerhetskritiske komponenter skal være angitt. Jernbanevirksomheten skal dokumentere utført vedlikehold.
