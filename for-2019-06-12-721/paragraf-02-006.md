@@ -1,0 +1,3 @@
+# § 2-6. Supplerende helseundersøkelser og/eller psykologiske vurderinger
+1. I tillegg til den regelmessige helseundersøkelsen skal det gjennomføres en særskilt supplerende helseundersøkelse og/eller psykologisk vurdering dersom det foreligger grunn til å tvile på den ansattes fysiske eller psykiske skikkethet, eller dersom det foreligger rimelig grunn til å mistenke misbruk av legemidler, bruk av narkotiske stoffer eller alkohol over de tillatte grensene. Det vil særlig være tilfelle etter en hendelse eller en ulykke.
+2. Jernbanevirksomheten skal ha systemer for å sikre at slike supplerende undersøkelser og vurderinger blir gjennomført.
