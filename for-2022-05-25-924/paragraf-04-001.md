@@ -1,0 +1,4 @@
+# § 4-1. Krav om tillatelse til å ta i bruk kjøretøy og ny tillatelse etter endring av kjøretøy
+Før kjøretøy tas i bruk skal Statens jernbanetilsyn gi tillatelse i henhold til denne forskriften.
+Ved senere endringer eller oppgraderinger skal det oversendes dokumentasjon som beskriver prosjektet til Statens jernbanetilsyn. Statens jernbanetilsyn avgjør hvorvidt endringen medfører at det er nødvendig med en ny tillatelse. Dokumentasjonen skal kunne bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for konstruksjon og bruk av kjøretøyet.
+Slik ny tillatelse skal kreves når det allmenne sikkerhetsnivået kan påvirkes negativt av det planlagte arbeidet. Statens jernbanetilsyn skal fatte sin beslutning senest fire måneder etter at søkeren har innlevert komplett dokumentasjon.
