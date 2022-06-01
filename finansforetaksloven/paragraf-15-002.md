@@ -1,5 +1,5 @@
 # § 15-2. Krav til godtgjørelsesordninger
-I forskrift gitt med hjemmel i § 15-1 kan det fastsettes nærmere krav til godtgjørelsesordning for tillitsvalgte, for ledende ansatte, for andre ansatte med arbeidsoppgaver av betydning for foretakets risikoeksponering, og for andre ansatte og tillitsvalgte med tilsvarende godtgjørelse, samt for andre ansatte med kontrolloppgaver, som blant annet omfatter:
+I forskrift gitt med hjemmel i § 15-1 kan det fastsettes nærmere krav til godtgjørelsesordning for tillitsvalgte og ansatte med arbeidsoppgaver av vesentlig innvirkning på foretakets risikoeksponering, som blant annet omfatter:
 a) hvilke grupper av ansatte og tillitsvalgte i foretaket som skal omfattes av ordningen,
 b) forholdet mellom fast godtgjørelse og prestasjonsbetinget godtgjørelse,
 c) kriterier for fastsettelse av prestasjonsbetinget godtgjørelse som bygger på en kombinasjon av resultater oppnådd over tid av den enkelte ansatte, det forretningsområdet denne er tilknyttet, og foretakets samlede resultater,

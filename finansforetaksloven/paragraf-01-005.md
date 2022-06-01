@@ -8,3 +8,5 @@
 (7) Som representasjonskontor regnes markedsføringskontor her i riket som er etablert av utenlandsk finansforetak, og som ikke er filial.
 (8) Med tilsynsutvalg menes tilsynskollegium som nevnt i EØS-regler som svarer til direktiv 2013/36/EU artikkel 116, som er opprettet innenfor EØS.
 (9) Med kriseutvalg menes kriseutvalg som nevnt i § 20-46 og tilsvarende kollegium opprettet i andre EØS-land.
+(10) Departementet kan i forskrift gi nærmere regler om hvilke foretak som skal anses som store foretak etter loven her.
+(11) Departementet kan i forskrift gi nærmere regler om hvilke foretak som skal anses som mindre og ikke-komplekse foretak etter loven her.

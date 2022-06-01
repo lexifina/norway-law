@@ -1,0 +1,4 @@
+# § 17-8 a. Krav til mellomliggende morforetak for datterforetak i tredjelandskonsern
+(1) Når et tredjelandskonsern har to eller flere finansforetak som datterforetak etablert innenfor EØS, og tredjelandskonsernets forvaltningskapital innenfor EØS er mer enn 40 milliarder euro, skal det etableres et mellomliggende morforetak innenfor EØS. Det mellomliggende morforetaket skal være en kredittinstitusjon eller et holdingforetak. Finanstilsynet kan i visse tilfeller tillate at verdipapirforetak omfattet av finansforetaksloven kapittel 20 i stedet er mellomliggende morforetak.
+(2) Finanstilsynet kan tillate at det etableres to mellomliggende morforetak ut fra hensynet til klare skiller mellom virksomhetsområder i konsernet eller effektiv krisehåndtering.
+(3) Departementet kan i forskrift fastsette nærmere regler om mellomliggende morforetak for datterforetak i tredjelandskonsern.
