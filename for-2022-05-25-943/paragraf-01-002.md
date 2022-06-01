@@ -1,0 +1,2 @@
+# § 1-2. Virkeområde
+Forskriften gjelder alle kjøretøy på jernbanenettet, unntatt kjøretøy som er omfattet av arbeidsmaskinforskriften. Forskriften inneholder bestemmelser om søknad om tillatelse til test og transport, og nasjonale tekniske regler for slike kjøretøy. Bestemmelser som regulerer søknadsprosessen for tillatelse til å bringe kjøretøy i omsetning følger av samtrafikkforskriften kapittel 6.

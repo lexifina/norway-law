@@ -1,0 +1,4 @@
+# § 7-1. Unntak
+Statens jernbanetilsyn kan i særlige tilfeller gjøre unntak fra kravene i forskriften her, herunder vedlegget. Unntak fra krav i TSI-ene kan bare gis i den grad det følger av samtrafikkforskriften.
+Statens jernbanetilsyn kan gi unntak fra kravene til å identifisere enhet med ansvar for vedlikehold for veteran- eller museumskjøretøy som trafikkerer det nasjonale jernbanenettet, så lenge disse kjøretøyene er i henhold til jernbanelovgivningen for øvrig. Slike unntak kan gis for inntil fem år om gangen.
+Unntak som nevnt i annet ledd kan gis i forbindelse med registrering av kjøretøy etter samtrafikkforskriften § 7-2 eller ved utstedelse av sikkerhetssertifikat til jernbaneforetak eller sikkerhetstillatelse til infrastrukturforvalter etter sikkerhetsforskriften kapittel 5 og 6.
