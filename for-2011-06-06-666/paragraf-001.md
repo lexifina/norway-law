@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EF) nr. 1331/2008
+EØS-avtalen vedlegg II kapittel XII nr. 54zzzzp (forordning (EF) nr. 1331/2008 som endret ved forordning (EU) 2019/1381) om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer til næringsmidler gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# § 1a. Gjennomføring av forordning (EU) nr. 234/2011
+EØS-avtalen vedlegg II kapittel XII nr. 64 (forordning (EU) nr. 234/2011 som endret ved forordning (EU) nr. 562/2012 og forordning (EU) 2020/1823) om gjennomføringsbestemmelser til forordning (EF) nr. 1331/2008 om innføring av en felles godkjenningsprosedyre for tilsetningsstoffer, enzymer og aromaer til næringsmidler gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
