@@ -1,3 +1,3 @@
 # § 62
-De tjenestemenn som er ansatt ved statsrådets kontorer, statssekretærene og de politiske rådgivere dog unntatt, kan ikke velges til representanter. Det samme gjelder Høyesteretts medlemmer og de tjenestemenn som er ansatt ved diplomatiet eller konsulatvesenet.
-Statsrådets medlemmer kan ikke møte som representanter på Stortinget så lenge de har sete i statsrådet. Heller ikke kan statssekretærene møte som representanter så lenge de bekler sine embeter, og de politiske rådgivere ved statsrådets kontorer kan ikke møte på Stortinget så lenge de innehar sine stillinger.
+De tjenestemenn som er ansatt ved statsrådets kontorer, bortsett fra statssekretærer og politiske rådgivere, kan ikke stille til valg. Heller ikke Høyesteretts medlemmer eller tjenestemenn som er ansatt i utenrikstjenesten, kan stille til valg.
+Statsrådets medlemmer, statssekretærer og politiske rådgivere ved statsrådets kontorer kan ikke møte som representanter på Stortinget.

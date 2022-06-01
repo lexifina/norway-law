@@ -1,7 +1,4 @@
 # § 63
-Enhver som velges til representant, er pliktig til å motta valget, med mindre han eller hun
-a) er valgt utenfor det valgdistrikt der vedkommende er stemmeberettiget
-b) har møtt som representant på alle storting etter forrige valg
-c) har avgitt skriftlig erklæring om at vedkommende ikke ønsker å stå på en valgliste.
-Regler for innen hvilken tid og på hvilken måte den som har rett til å nekte valg, skal gjøre denne rett gjeldende, fastsettes ved lov.
-Det skal likeledes bestemmes ved lov innen hvilken tid og på hvilken måte en som velges til representant for to eller flere valgdistrikter, skal avgi erklæring om hvilket valg han eller hun vil motta.
+Alle plikter å la seg føre opp på en valgliste, med mindre de gir skriftlig melding om at de ikke ønsker å bli ført opp på den aktuelle valglisten. Regler for når og hvordan slik melding skal gis, fastsettes ved lov.
+Alle som velges til representanter, plikter å motta valget.
+De som velges til representanter for to eller flere valgdistrikter, skal gi melding om hvilket valg de vil motta. Regler for når og hvordan slik melding skal gis, fastsettes ved lov.
