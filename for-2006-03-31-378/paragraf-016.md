@@ -1,0 +1,4 @@
+# § 16. Oppfølging av rapporter og sikkerhetstilrådinger
+Undersøkelsesmyndigheten sender rapportene til departementet, som treffer de nødvendige tiltak for å sikre at det tas behørig hensyn til sikkerhetstilrådingene.
+Tilsynsmyndigheten skal vurdere rapportene med tanke på å identifisere og iverksette tiltak som kan bedre jernbanesikkerheten. Tilsynsmyndigheten kan gi pålegg om oppfølging av sikkerhetstilrådingene til den som driver jernbanevirksomhet etter jernbaneloven.
+Byrået, tilsynsmyndigheten og andre myndigheter eller organer eller eventuelt andre EØS-stater som sikkerhetstilrådingene er rettet til, skal minst to ganger i året gi tilbakemelding til undersøkelsesmyndigheten om vedtatte og planlagte tiltak som følge av tilrådingene. Departementet kan gi tilsynsmyndigheten i oppgave å koordinere slike tilbakemeldinger. Tilbakemeldingene sendes via departementet som sender disse til undersøkelsesmyndigheten.

@@ -1,0 +1,5 @@
+# § 12. Undersøkelsesrapport
+Når undersøkelsesmyndigheten har undersøkt en jernbaneulykke eller alvorlig jernbanehendelse, skal den utarbeide en rapport som redegjør for hendelsesforløpet og inneholder undersøkelsesmyndighetens uttalelse om årsaksforholdene. Rapporten skal opplyse om formålet med undersøkelsen, jf. § 5, og inneholde så langt det er formålstjenelig sikkerhetstilrådinger i henhold til jernbaneundersøkelsesloven § 19 første ledd.
+Rapporten skal ha en hensiktsmessig form i forhold til jernbaneulykken eller jernbanehendelsens art og alvorlighetsgrad, og for betydningen av resultatene av undersøkelsen. Forordning (EU) 2020/572 av 24. april 2020 om rapporteringsstrukturen som skal følges for undersøkelsesrapporter om jernbaneulykker og -hendelser gjelder som forskrift med de tilpasninger som fremgår av EØS-avtalen vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+Rapporten skal ikke inneholde referanser til enkeltpersoners navn eller adresse.
+Byrået og berørte nevnt i jernbaneundersøkelsesloven § 16 skal gis anledning til å fremlegge relevant teknisk informasjon med sikte på å forbedre kvaliteten på undersøkelsesrapporten.

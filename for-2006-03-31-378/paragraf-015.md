@@ -1,0 +1,3 @@
+# § 15. Offentliggjøring av rapport
+Undersøkelsesmyndigheten skal offentliggjøre den endelige rapporten så raskt som mulig og vanligvis ikke senere enn 12 måneder etter at jernbaneulykken eller den alvorlige jernbanehendelsen fant sted. Rapporten, med eventuelle sikkerhetstilrådinger, skal oversendes berørte parter, herunder berørte parter og organer i andre EØS-stater.
+Dersom rapporten ikke er ferdig innen 12 måneder, skal undersøkelsesmyndigheten som minimum på hver årsdag for ulykken avgi en foreløpig rapport som angir utviklingen av undersøkelsen og de sikkerhetsspørsmål som er aktuelle i forbindelse med saken. Undersøkelsesmyndigheten avgjør selv i hvilken form den ønsker å avgi en slik foreløpig rapport, og hvordan den skal publiseres.

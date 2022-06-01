@@ -1,0 +1,3 @@
+# § 14. Behandling av utkast til undersøkelsesrapport som er unntatt fra offentlighet
+Før undersøkelsesmyndigheten sluttbehandler rapporten, skal et utkast til rapport forelegges for de berørte nevnt i jernbaneundersøkelsesloven § 16 første ledd med en rimelig frist til å gi uttalelse, med mindre særlige forhold tilsier at dette ikke gjøres. Videre skal tilsynsmyndigheten forelegges utkastet til rapport, med rimelig frist til å uttale seg. Retten etter første punktum gjelder bare de delene av utkastet til rapport som vedkommende på grunn av sin tilknytning til saken eller undersøkelsen har særlige forutsetninger for å uttale seg om.
+Undersøkelsesmyndighetens utkast til rapport er ikke offentlig, jf. jernbaneundersøkelsesloven § 21.
