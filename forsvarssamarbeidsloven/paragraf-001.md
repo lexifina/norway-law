@@ -1,0 +1,2 @@
+# § 1. Skattefritak for amerikanske styrker, amerikanske kontraktører og deres ansatte og virksomheter og organisasjoner som leverer militære velferdstjenester
+Bestemmelsene i Tilleggsavtalen mellom Norge og USA om forsvarssamarbeid (Supplementary Defense Cooperation Agreement – SDCA) artikkel XVII nr. 2 og 3, artikkel XXI punkt 3 og artikkel XXVI nr. 2 annet til fjerde punktum gjelder som norsk lov.

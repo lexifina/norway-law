@@ -1,0 +1,2 @@
+# § 2. Mulig unntak fra arbeidsrettslige regler for amerikanske kontraktører
+Amerikanske kontraktører, slik disse er definert i SDCA artikkel II nr. 4, er unntatt fra arbeidsmiljøloven, allmenngjøringsloven og ferieloven i den grad bestemmelser i eller i medhold av disse lovene ikke er forenlige med de amerikanske styrkenes militære behov. Med amerikanske styrker menes amerikanske væpnede styrker til stede på norsk territorium, jf. SDCA artikkel II nr. 1 og 2.
