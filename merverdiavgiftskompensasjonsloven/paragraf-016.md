@@ -1,0 +1,4 @@
+# § 16. Justering av kompensert merverdiavgift
+Det skal justeres for kompensert merverdiavgift ved endringer i bruken eller overdragelse av bygg, anlegg eller annen fast eiendom etter anskaffelsen, fremstillingen eller utførelsen. Det pliktes ikke å foreta justeringer mer enn 10 år regnet fra utløpet av året anskaffelsen, fremstillingen eller utførelsen ble foretatt.
+Det skal ikke justeres for kompensert merverdiavgift ved overdragelse av bygg, anlegg eller annen fast eiendom som følge av vedtak om sammenslåing eller deling etter lov 15. juni 2001 nr. 70 om fastsetjing og endring av kommune- og fylkesgrenser (inndelingslova) §§ 4 og 5. Overdragerens rett og plikt til justering etter første ledd overtas uendret av den overtakende kompensasjonsberettigede virksomheten.
+Departementet fastsetter nærmere regler for justering i forskrift.
