@@ -1,0 +1,3 @@
+# § 6. Ansvar for å bruke tolk
+Offentlige organer skal bruke tolk når det følger av lov. I tilfeller der plikt til å bruke tolk ikke er regulert i annen lov, skal offentlige organer bruke tolk når det er nødvendig for å ivareta hensynet til rettssikkerhet eller for å yte forsvarlig hjelp og tjeneste. I vurderingen av om bruk av tolk er nødvendig, skal det blant annet legges vekt på om samtalepartene kan kommunisere forsvarlig uten tolk, og på sakens alvorlighet og karakter.
+Når et offentlig organ ellers er i kontakt med personer som ikke kan kommunisere med organet på norsk, bør organet vurdere å bruke tolk.
