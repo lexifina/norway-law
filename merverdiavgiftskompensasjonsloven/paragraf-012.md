@@ -1,0 +1,2 @@
+# § 12. Regnskap og kontroll
+Den som har fremmet krav om eller mottatt refusjon skal innrette bokføringen slik at det til enhver tid kan kontrolleres at kompensasjon for merverdiavgift ytes etter reglene i denne lov. Bestemmelsene om oppbevaring av regnskapsmateriale i lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) gjelder også for de som ikke er bokføringspliktige etter bokføringsloven.
