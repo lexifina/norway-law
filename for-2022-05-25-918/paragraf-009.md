@@ -1,0 +1,2 @@
+# § 9. Elektrisk anlegg
+Det elektriske anlegget på motorvognen skal oppfylle kravene i forskrift 20. mai 2009 nr. 544 om maskiner som implementerer direktiv 2006/42/EF av 17. mai 2006 om maskiner (Maskindirektivet) og forskrift 10. oktober 2017 nr. 1597 om elektromagnetisk kompatibilitet som implementerer direktiv 2014/30/EU av 26. februar 2014 om harmonisering av medlemsstatenes lovgivning om elektromagnetisk kompatibilitet (EMC-direktivet).
