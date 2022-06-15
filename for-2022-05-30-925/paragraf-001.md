@@ -1,0 +1,2 @@
+# § 1. Små elektriske kjøretøy og sykkel med hjelpemotor
+I lov om utleie av små elektriske kjøretøy på offentlig grunn anses små elektriske kjøretøy som liten elektrisk motorvogn slik dette er definert i forskrift 25. mai 2022 nr. 918 om krav til liten elektrisk motorvogn § 3. Som sykkel med hjelpemotor (elsykkel) anses sykkel med hjelpemotor slik dette er definert i forskrift 19. februar 1990 nr. 119 om krav til sykkel § 2 annet til fjerde ledd.
