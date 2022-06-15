@@ -1,0 +1,5 @@
+# § 2. Definisjon
+Sykkel: Kjøretøy som drives frem ved trå- eller veivanordning, unntatt kjøretøy som bare er beregnet for lek.
+Som sykkel regnes også kjøretøy som nevnt i første ledd og som er utstyrt med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller tidligere hvis syklisten slutter å trå/veive. Det tillates at kjøretøyet har fremdrift kun ved motorkraft opp til 6 km/t. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter vegtrafikkloven § 2.
+Sykkel med to sitteplasser kan ha elektrisk hjelpemotor med nominell effekt på høyst 0,5 kW når det kan dokumenteres at kjøretøyet er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten. Det er tilstrekkelig at én av syklistene trår/veiver for at hjelpemotoren skal gi effekt. For øvrig gjelder kravene i forrige ledd. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter vegtrafikkloven § 2.
+Sykkel som tilfredsstiller kravene i NS-EN 15194 anses å oppfylle definisjonen i annet ledd.
