@@ -1,0 +1,3 @@
+# § 9. Arkivering og sletting
+Opplysningene i det felles IKT-systemet skal arkiveres og avleveres til Arkivverket etter arkivlova med forskrifter. Opplysningene skal gjøres utilgjengelig og oppbevares atskilt innen tidsfristene i annet ledd fram til avleveringen til Arkivverket.
+Opplysninger som ikke skal arkiveres etter første ledd, skal slettes når de ikke lenger er nødvendige for å løse oppgaver som nevnt i § 3 og senest innen tre år. Dersom slike opplysninger fortsatt er nødvendige for formålet med registreringen, kan de behandlingsansvarlige beslutte fortsatt registrering for inntil 3 år av gangen.

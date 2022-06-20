@@ -1,0 +1,3 @@
+# § 4. Bruk og tilgang til et felles IKT-system
+Organene nevnt i § 3 første ledd kan behandle personopplysninger og opplysninger som omfattes av forvaltningsloven § 13 første ledd nr. 2, i et felles IKT-system når det er nødvendig for å løse oppgaver som nevnt i § 3 første ledd.
+Ansatte i Arbeidstilsynet, Arbeids- og velferdsetaten, Skatteetaten, Tolletaten og politiet skal gis tilgang til det felles IKT-systemet dersom de er lokalisert i a-krimsentrene og har tjenstlig behov for slik tilgang. Ansatte i offentlige organer nevnt i § 3 første ledd som deltar i et etablert a-krimsamarbeid, kan også gis tilgang til systemet dersom de har tjenstlig behov for det, og det er nødvendig for å løse oppgaver som nevnt i § 3 første ledd.
