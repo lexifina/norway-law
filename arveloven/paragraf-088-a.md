@@ -1,0 +1,5 @@
+# § 88 a. Digitalt skifte av dødsbo
+Oppgavene som følger av lovens tredje del, kan utføres gjennom offentlige tjenester for digitalt skifte av dødsbo. Departementet kan gi forskrift om offentlige tjenester for digitalt skifte av dødsbo, bruk av infrastruktur, innhenting og formidling av opplysninger på vegne av bruker mv.
+Departementet kan gi forskrift om nødvendig behandling av personopplysninger i forbindelse med digitalt skifte av dødsbo etter første ledd, blant annet om behandlingsansvar, formålet med behandlingen, automatiserte avgjørelser, deling, lagring, adgangen til viderebehandling, retting og sletting.
+Departementet kan gi forskrift om utlevering av opplysninger til offentlige myndigheter for bruk til statistikkformål.
+Så langt det er nødvendig for å utføre oppgaver som følger av lovens tredje del, kan offentlige og private virksomheter, domstolene og forvaltningsorganer uten hinder av taushetsplikt dele opplysninger i forbindelse med gjennomføring av digitalt skifte av dødsbo. Departementet kan gi forskrift om plikt til å dele opplysninger uten hinder av taushetsplikt, og om at enkelte opplysninger ikke skal kunne deles etter første punktum.
