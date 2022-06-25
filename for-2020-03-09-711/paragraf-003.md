@@ -1,0 +1,2 @@
+# § 3. Overvåkning av forsendelsen frem til bestemmelsesstedet
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bc, kap. II nr. 31qc og vedlegg II kap. XII nr. 164c (forordning (EU) 2019/1666) om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til vilkårene for overvåking av transport og ankomst av forsendelser av visse varer fra grensekontrollstasjonen på ankomststedet til virksomheten på bestemmelsesstedet i Unionen gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
