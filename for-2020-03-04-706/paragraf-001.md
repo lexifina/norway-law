@@ -1,0 +1,3 @@
+# § 1. Standardmal for årsrapport om offentlig kontroll i matforvaltningen
+Når Mattilsynet skal rapportere resultater av den offentlige kontrollen i henhold til forordning (EU) 2017/625 skal rapporten utarbeides og overføres i henhold til forordning (EU) 2019/723.
+EØS-avtalen vedlegg I kap. I del 1.1 nr. 11ba, kap. II nr. 31qa og vedlegg II kap. XII nr. 164a (forordning (EU) 2019/723) om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til standardskjemaet som skal brukes i årsrapportene fra medlemsstatene, som endret ved forordning (EU) 2021/1935, gjelder som norsk forskrift med de generelle tilpasningene som følger av EØS-avtalens protokoll 1 og EØS-avtalen for øvrig.
