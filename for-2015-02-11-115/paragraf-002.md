@@ -1,0 +1,2 @@
+# § 2. Kontrolltiltak på produkter fra Thailand
+Ved grensekontroll av alle forsendelser med produkter omfattet av § 1, som følges av et helsesertifikat utstedt av thailandske myndigheter før 21. september 2002, skal det foretas særskilte undersøkelser ved en kjemisk metode for å sikre at de ikke utgjør en helsefare. Undersøkelsene skal særlig ta sikte på å påvise forekomst av kloramfenikol, samt nitrofuraner og deres metabolitter.
