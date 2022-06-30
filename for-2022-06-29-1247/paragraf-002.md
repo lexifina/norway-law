@@ -1,0 +1,3 @@
+# § 2. Unntak for nærmere angitte avtaler inngått av amerikanske styrker
+Finansforetaksloven gjelder ikke for finansielle tjenester som tilbys i henhold til avtaler amerikanske styrker har inngått med finansforetak om å tilby finansielle tjenester til amerikanske styrker, amerikanske kontraktører og medfølgende, for formål under tilleggsavtalen mellom Norge og USA om forsvarssamarbeid av 16. april 2021 («Supplementary Defense Cooperation Agreement»). Virksomheten må være i samsvar med amerikanske lover og forskrifter.
+Finansielle tjenester inkluderer, men er ikke begrenset til, å legge til rette for kontantuttak og innskudd.
