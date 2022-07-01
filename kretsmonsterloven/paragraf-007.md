@@ -1,0 +1,3 @@
+# § 7. Rett til utnyttelse av kretsmønster som utgjør inngrep i en kretsmønsterrett
+Den som i aktsom god tro har ervervet en integrert krets, som utgjør inngrep i en kretsmønsterrett, har rett til å importere og utnytte den integrerte kretsen ervervsmessig. For import eller ervervsmessig utnyttelse som skjer etter at erververen ikke lenger er i aktsom god tro, skal det betales et passende vederlag.
+Når helt særlige grunner foreligger kan retten, i stedet for å fastsette tiltak etter §§ 5 a og 8, bestemme at den som i aktsom god tro har ervervet et eksemplar av et kretsmønster som gjør inngrep i en kretsmønsterrett, skal tillates å utnytte eksemplaret mot rimelig vederlag og på passende vilkår for øvrig, i kretsmønsterrettens gyldighetstid eller en del av denne.
