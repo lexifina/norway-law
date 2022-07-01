@@ -1,0 +1,5 @@
+# § 6. Styre og ledelse
+Gjeldsinformasjonsforetak skal ha daglig leder og et styre med minst tre medlemmer. Daglig leder eller annen ansatt kan ikke være medlem av styret.
+Styremedlemmer, daglig leder og andre personer som inngår i den faktiske ledelsen av virksomheten i et gjeldsinformasjonsforetak, skal ha relevante kvalifikasjoner og yrkeserfaring og skal ikke ha utvist adferd som gir grunn til å anta at stillingen eller vervet ikke vil kunne ivaretas på forsvarlig måte.
+Personer som nevnt i annet ledd skal fremlegge ordinær politiattest etter politiregisterloven § 40.
+Gjeldsinformasjonsforetak skal gi Finanstilsynet melding ved endring av styrets sammensetning og ved skifte av daglig leder eller andre personer som faktisk deltar i ledelsen av virksomheten. Meldingen skal så vidt mulig gis på forhånd og må inneholde nødvendige opplysninger om kvalifikasjoner, yrkeserfaring, vandel samt verv eller stilling i annen virksomhet. Finanstilsynet kan gi pålegg om at endringen ikke skal iverksettes dersom endringen antas å medføre at kravene i annet ledd ikke oppfylles.
