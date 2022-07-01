@@ -1,0 +1,3 @@
+# § 4. Bruk av kjørebane
+1. Kjørende skal bruke kjørebanen. Det er forbudt å kjøre på fortau eller gangveg.Andre kjørende enn syklende må ikke bruke sykkelveg eller sykkelfelt. Syklende må bare bruke sykkelfelt på høyre side av vegen.Liten elektrisk motorvogn kan likevel bruke sykkelveg og sykkelfelt. Liten elektrisk motorvogn må bare bruke sykkelfelt på høyre side av vegen.
+2. På motorveg og motortrafikkveg eller på inn- eller utkjøringsveg til motorveg og motortrafikkveg må det bare foregå trafikk med motorvogn, eller vogntog, som lovlig kan kjøres med minst 40 km i timen på vannrett veg. Vegdirektoratet eller den det gir fullmakt kan gjøre unntak i enkelttilfelle fra dette.Moped må ikke kjøres på motorveg eller motortrafikkveg.
