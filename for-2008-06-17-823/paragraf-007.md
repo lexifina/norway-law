@@ -1,0 +1,7 @@
+# § 7. Forhold som vurderes ved godkjenning
+For at godkjenning skal kunne gis må etableringen av akvakulturanlegget, eller havbeitet, ikke innebære uakseptabel risiko for spredning av smitte, herunder smitte inn til akvakulturanlegget eller havbeitet og dets omkringliggende miljø.
+I vurdering av smittefaren skal det legges særlig vekt på avstand til vassdrag, annen akvakulturrelatert virksomhet og til grupper av akvakulturanlegg. Det skal også legges vekt på hvilken art som skal produseres, driftsform og produksjonsomfang.
+For akvakulturanlegg i sjø, vurderes avstand til annen akvakulturrelatert virksomhet og vassdrag i hovedsak ut fra plassering av produksjonsenhetene. For akvakulturanlegg på land vurderes avstand til andre akvakulturrelaterte virksomheter og vassdrag i hovedsak ut fra vanninntak og avløp.
+Det skal foreligge et internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, herunder beredskapsplan, risikobasert helsekontroll, opprettholdelse av god vannkvalitet og journalføring, kan etterleves.
+Akvakulturanlegg og havbeite skal kunne ivareta artens krav til et godt levemiljø. Det skal være sikkerhet for tilstrekkelig tilførsel av vann av egnet kvalitet. Anlegget skal være slik lokalisert og konstruert at risikoen er lav for at akvakulturdyrene påføres skade eller unødig påkjenning. Ved vurdering av velferden skal opplysninger om anleggets utforming og utstyr samt dets plassering på lokaliteten vurderes opp mot produksjonsform og vanndata.
+Det kan stilles vilkår til godkjenningen.
