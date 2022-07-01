@@ -1,0 +1,3 @@
+# § 4. Tilskudd på grunnlag av opplysninger registrert i del 1 av søknad om produksjons- og avløsertilskudd 2022
+Det kan gis tilskudd for melkekyr, ammekyr, andre storfe, melkegeit, melkesau, sau, ammegeit, avlsgris, verpehøner for konsumeggproduksjon og avlsdyr av ender, kalkuner og gjess, hjort over 1 år etter satser i tabell 7.19 i jordbruksavtalen 2022-2023.
+For at et foretak skal kunne motta tilskudd etter første ledd, må dyrene være registrert i del 1 av søknad om produksjons- og avløsertilskudd med søknadsfrist 15. mars 2022, og godkjennes i forbindelse med vedtak om produksjons- og avløsertilskudd for søknadsåret 2022.
