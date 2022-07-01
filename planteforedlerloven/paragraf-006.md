@@ -1,0 +1,4 @@
+# § 6. Foreløpig prøving av søknaden
+Oppfyller ikke søknaden og sortsnavnet §§ 4 og 5, eller viser søknaden at det forøvrig er noe til hinder for å imøtekomme den, skal søkeren oppfordres til innen en fastsatt frist å uttale seg eller foreta retting.
+Unnlater søkeren innen fristens utløp å uttale seg eller foreta retting av en påpekt mangel, skal søknaden henlegges. Behandlingen av søknaden gjenopptas dersom søkeren innen fire måneder etter utløpet av fristen uttaler seg eller foretar retting og dessuten betaler en gjenopptakelsesavgift fastsatt i forskrift.
+Foreligger det også etter at søkeren har uttalt seg eller foretatt retting, et hinder for å imøtekomme søknaden som søkeren har hatt anledning til å uttale seg om, skal søknaden avslås med mindre Plantesortsnemnda finner at søkeren bør gis ny oppfordring.
