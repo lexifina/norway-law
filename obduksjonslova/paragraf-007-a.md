@@ -1,0 +1,4 @@
+# § 7 a. Rettsmedisinsk obduksjon av trafikkdrepne
+Alle drepne i vegtrafikken skal obduserast. Dersom påtalemakta ikkje krev obduksjon etter straffeprosessloven § 228, skal politiet sjå til at rettsmedisinsk obduksjon blir utført etter lova her. Formålet med rettsmedisinsk obduksjon etter lova her er å fastslå dødsårsaka, påvise moglege teikn på sjukdom, skade og inntak av legemiddel og giftstoff, og sjå funna i samanheng med omstende kring dødsfallet.
+Før rettsmedisinsk obduksjon av den trafikkdrepne etter lova her blir utført, skal pårørande varslast og få høve til å uttale seg, så sant det er mogleg. Obduksjonen skal ikkje gjennomførast dersom ein av avdødes næraste pårørande av religiøs eller livssynsmessig overtyding nektar obduksjon.
+Rettsmedisinsk obduksjon skal utførast av sakkunnig.
