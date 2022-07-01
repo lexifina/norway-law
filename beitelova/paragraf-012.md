@@ -1,0 +1,2 @@
+# § 12
+I skogsmark der det er mykje om å gjera at det vert slutt med beite heilt eller for ein del, skal kommunen – i tilfelle i samarbeid med grannekommunane – freista å legge tilhøva slik til rette at området kan verta freda for beiting i den mon dette er turvande. I samband med dette skal kommunen freista å få i stand avtaler mellom grunneigarane og dei som har beiterett om å føre over beiterettane til ein eller fleire inngjerda område eller til å fråfalle beiterettar mot å avtala skadebot når tilhøva ligg til rettes for det.

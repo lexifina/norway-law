@@ -1,0 +1,2 @@
+# § 8
+Den som har fått husdyr inn på sin grunn i strid med § 6 kan setja dyret inn. Han skal snarast råd er, og seinast innan 3 dagar, melda frå til eigaren eller innehavaren om at dyret er sett inn. Veit han ikkje kven eigaren eller innehavaren er og får han heller ikkje greie på det, skal han varsla politiet snarast råd er. Politiet skal freista få greie på kven eigaren eller innehavaren er og skal om turvande med oppslag, lysing i blad eller på annan måte gjere kjent at dyret er sett inn.
