@@ -9,7 +9,8 @@ f) gjennomføre narkotikaprogram med domstolskontroll, jf. § 38, eller program 
 g) gjennomgå psykiatrisk behandling, om nødvendig i institusjon,
 h) ta opphold i hjem eller institusjon for inntil 1 år,
 i) møte til mekling i konfliktrådet og oppfylle eventuelle avtaler som inngås i meklingsmøte, eller gjennomføre oppfølging i konfliktråd med varighet på inntil ett år, forutsatt at saken egner seg for slik behandling og at det foreligger samtykke både fra fornærmede, domfelte og deres eventuelle verger,
-j) gjennomføre ungdomsoppfølging i konfliktrådet med varighet på inntil ett år, forutsatt at domfelte var mellom 15 og 18 år på handlingstidspunktet, at saken egner seg for slik behandling og at det foreligger samtykke fra domfelte og domfeltes eventuelle verger, eller
-k) oppfylle andre særvilkår som retten finner hensiktsmessig.
+j) gjennomføre ungdomsoppfølging i konfliktrådet med varighet på inntil ett år, forutsatt at domfelte var mellom 15 og 18 år på handlingstidspunktet, at saken egner seg for slik behandling og at det foreligger samtykke fra domfelte og domfeltes eventuelle verger,
+k) møte hos rådgivende enhet for russaker etter innkalling, forutsatt at domfellelsen gjelder bruk, erverv, besittelse eller oppbevaring av narkotika til domfeltes egen bruk etter § 231 eller legemiddelloven § 31, jf. § 24 første ledd, eller
+l) oppfylle andre særvilkår som retten finner hensiktsmessig.
 Straffeprosessloven § 461 gjelder tilsvarende for særvilkårene nevnt i bokstav f.
 Når en domfelt som var under 18 år på handlingstidspunktet, skal avgi rusprøve etter bokstav d, gjelder helsepersonelloven § 12 tredje ledd.
