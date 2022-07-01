@@ -1,0 +1,2 @@
+# § 2. Definisjon av fartsområder
+Med fartsområde forstås et nærmere definert farvann et skip kan trafikkere, slik at dette direkte får betydning for skipets konstruksjon, utrustning, bemanning og drift. Fartsområdet omfatter alle farvann innenfor de ytre geografiske grenser som oppstilles. Skip, utstyr og besetning skal betraktes som en helhet, slik at det sertifikat som gir den største begrensning, skal være avgjørende for det fartsområde som tillates trafikkert.
