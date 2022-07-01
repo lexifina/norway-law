@@ -1,0 +1,2 @@
+# § 17. Internasjonal reise
+En reise fra et land som omfattes av Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs (Sjøsikkerhetskonvensjonen) til en havn utenfor dette land eller omvendt, og i denne henseende skal ethvert territorium for hvis internasjonale forhold en kontraherende regjering er ansvarlig, eller for hvilket De forente nasjoner er den administrerende myndighet, betraktes som et særskilt land.
