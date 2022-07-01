@@ -1,0 +1,2 @@
+# § 7. Særlige kategorier av personopplysninger
+Personopplysninger om rasemessig eller etnisk opprinnelse, politisk oppfatning, religion, filosofisk overbevisning eller fagforeningsmedlemskap, samt behandling av genetiske opplysninger og biometriske opplysninger med det formål å entydig identifisere en fysisk person, helseopplysninger eller opplysninger om en fysisk persons seksuelle forhold eller seksuelle orientering, jf. personvernforordningen artikkel 9 nr. 1, kan ikke brukes i kredittopplysningsvirksomhet.
