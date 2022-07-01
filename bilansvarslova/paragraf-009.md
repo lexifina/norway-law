@@ -1,0 +1,4 @@
+# § 9. (ansvarsgrense ved skade på eige)
+Når eige vert skadd, kan skadebota vera opptil 100 000 000 kroner for det som vert skadd i same hending. Var det meir enn ei vogn som gjorde skaden, hefter dei som har ansvaret for kvar vogn, for heile summen.
+Er skaden på eiget større enn 100 000 000 kroner, og meir enn éin har lide skade, vert summen bytt mellom dei etter storleiken på kvart skadebotkrav. Krav om skadebot må setjast fram til trygdeverket eller, om så er, staten eller den kommunen eller kommunale institusjonen som det gjeld, jf. § 16, seinast ein månad etter skaden vart gjord. Skadelidar som set fram kravet sitt etter den tid og etter at skadebota til andre skadelidarar er utreidd, kan krevja sitt berre av det som står att av ansvarssummen (trygdesummen).
+Attåt skadebot som nemnd i paragrafen her, skal det svarast rente etter § 6 og sakskostnad.

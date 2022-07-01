@@ -1,0 +1,3 @@
+# § 21. (administrative sanksjonar).
+Kongen utpeiker eit eller fleire organ som skal sjå til at trygdelag, skadebehandlingsrepresentantar, informasjonssenter og erstatningsorgan oppfyller sine plikter etter lover og forskrifter som gjennomfører direktiv 2009/103/EF.
+Organet skal ha kompetanse til å gi pålegg om retting ved brot på lover og forskrifter nemnt i første ledd. Dersom pålegg etter første punktum ikkje blir oppfylt, kan organet fastsetje at dei personar eller den institusjonen som skal oppfylle pålegget, skal betale dagleg løpande mulkt til forholdet er retta. Pålegget om mulkt er tvangsgrunnlag for utlegg. Kongen kan fastsetje nærare føresegner i forskrift.

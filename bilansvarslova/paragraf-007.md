@@ -1,0 +1,7 @@
+# § 7. (når skadelidaren har medverka til skaden).
+Har skadelidaren medverka til skaden med vilje eller i aktløyse, kan retten minka skadebotkravet eller lata det falla heilt bort, så nær som når skadelidaren kan leggjast berre lite til last. Avgjerda skal retta seg etter åtferda på kvar side og tilhøva elles.
+Gjer ei motorvogn skade medan ho står still og skaden ikkje vert gjord medan vogna vert sett i gang eller stogga, kan retten minka skadebotkravet eller lata det falla heilt bort, jamvel når skadelidaren kan leggjast berre lite til last.
+Skadelidaren kan ikkje få skadebot utan at særlege grunnar er for det, dersom han av fri vilje køyrde eller let seg køyre i den vogna som gjorde skaden endå han visste at vogna var fråvend rette innehavaren med brotsverk.
+Skadeliden vognførar som køyrde den vogna som gjorde skaden, kan ikkje få skadebot utan at særlege grunnar er for det dersom han visste eller måtte vita at
+a) vogna vart nytta i samband med eit brotsverk, eller
+b) han var påverka av alkohol eller andre rusande eller døyvande råder. Særregelen her gjeld likevel ikkje i den mon ein må leggja til grunn at skaden ville ha skjedd jamvel om vognføraren ikkje hadde vore påverka som nemnd. Hadde vognføraren større alkoholkonsentrasjon i blodet enn 0,5 promille eller ei alkoholmengd i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, eller større alkoholkonsentrasjon i utandingslufta enn 0,25 milligram per liter luft, vert han i alle tilfelle rekna for påverka av alkohol i høve til regelen her.

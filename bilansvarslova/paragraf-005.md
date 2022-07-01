@@ -1,0 +1,3 @@
+# § 5. (skade som ikkje kan krevjast bøtt)
+Ein kan ikkje krevja skadebot etter lova her for skade på motorvogna sjølv med tilhøyrsle, og heller ikkje for skade på gods som vert ført med vogna, frårekna gangklede og andre vanlege eigne bruksting som folk har på seg eller med seg på køyreturen som ferdagods, og som vert skadde i samband med at folk eller ei vogn får skade.
+Ein kan heller ikkje krevja skadebot etter lova her for skade som nokon får på eiget sitt medan han køyrer motorvogna eller tilhengjaren eller anna vedheng til dei, frårekna gangklede og andre vanlege eigne bruksting som folk har på seg eller med seg på køyreturen som ferdagods, og som vert skadde i samband med at folk eller ei vogn får skade.

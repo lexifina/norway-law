@@ -1,0 +1,7 @@
+# § 12. (attsøkjingsrett for trygdaren)
+Den summen som ein trygdar lyt reide ut for ei trygda motorvogn etter lova her, kan han krevje att hjå den som eig eller bruker vogna eller var med i henne og som
+a) gjorde skaden med vilje eller i grov aktløyse, eller
+b) hadde teke rådvelde over vogna med brotsverk eller medverka til at vogna vart brukt endå han visste at ho var fråvend rette innehavaren med brotsverk, eller
+c) sjølv hadde valda at han var påverka av alkohol eller andre rusande eller døyvande råder medan han køyrde vogna og gjorde skade, eller medverka til at vogna vart brukt endå han visste eller måtte vita at vognføraren var påverka. Dette kravet fell bort i den mon ein må leggja til grunn at skaden ville ha skjedd jamvel om vognføraren ikkje hadde vore påverka som nemnd. Regelen i § 7 fjerde leden bokstav b tredje punktumet gjeld tilsvarande.
+Ingen kan trygde seg mot attsøkjingskrav etter paragrafen her. Avtale om det gjeld ikkje.
+Ein trygdar kan ikkje seia frå seg attsøkjingsrett som han har etter paragrafen her. Atterhald om slik attsøkjingsrett i større omfang enn det er sagt her i lova, gjeld ikkje utan det er samhøveleg med reglane i trygdeavtalelova. Atterhald om slik attsøkjingsrett av de ein ansvarleg har gjort skaden i aktløyse, gjeld berre i dei tilfelle aktløysa er grov. Retten kan minka attsøkjingskravet etter regelen om lemping i lov 13 juni 1969 nr. 26 om skadeserstatning § 5-2.

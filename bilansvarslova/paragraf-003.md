@@ -1,0 +1,5 @@
+# § 3. (kva det er meint med motorvogn).
+Med motorvogn er i denne lova meint køyretøy som vert drive med motor og er laga eller esla til å køyrast på bakken, såleis og trådbuss (trolleybuss), men ikkje køyretøy som går på skjener.
+Eit luftfartøy eller luftputefartøy er ikkje motorvogn, og det er heller ikkje køyretøy som er så laga at det einast kan styrast av folk til fots.
+Tilhengjar og anna vedheng til ei motorvogn vert rekna for ein part av vogna når dei vert køyrde i samband med vogna eller er fest til henne i anna høve. Gjer eller får ein tilhengjar skade i andre tilfelle, vert han halden for serskild motorvogn såframt han er registrert etter vegtrafikklova eller skal vera registrert eller ha eigne kjennemerke.
+Kongen kan fastsetja at inkje eller berre sumt av lova skal gjelda for serskilt nemnde motorvogner når han meiner at vognene sjølve eller bruken av dei, er til serleg liten fare i vegferdsla. Reglane i § 8 om samanstøyt og anna gjeld likevel skade som råker slik vogn eller folk eller gods i henne.
