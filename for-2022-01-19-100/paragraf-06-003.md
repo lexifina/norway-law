@@ -1,0 +1,3 @@
+# § 6-3. Oppfølging og oppdatering av risikovurderinger
+Jernbanevirksomheten skal systematisk følge opp forutsetningene for, avgrensningene og resultatene av risikovurderingene. Jernbanevirksomheten skal gjennomføre nødvendige sikringstiltak for å håndtere identifiserte risikoer, og skal i nødvendig grad samarbeide med andre jernbanevirksomheter og tredjeparter om dette. Tiltakene, og hvilke funksjoner de skal ivareta, skal være kjent for relevant personell.
+Risikovurderingene skal oppdateres hvis avgrensningene eller forutsetningene for risikovurderingene endrer seg, eller hvis det foreligger annen ny kunnskap av betydning for vurderingene.
