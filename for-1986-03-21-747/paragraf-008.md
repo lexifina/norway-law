@@ -1,0 +1,3 @@
+# § 8. Kjørefeltskifte
+1. Kjørende som vil skifte kjørefelt, har vikeplikt for kjørende som befinner seg i det felt det skal kjøres inn i eller som først må krysses.Tilsvarende gjelder den som vil kjøre ut fra vegkant eller på annen måte endre kjøretøyets plass i sideretning.Bestemmelsen i første ledd gjelder ikke når antallet vanlige kjørefelt i samme retning reduseres. Farten skal gjensidig tilpasses slik at de kjørende vekselvis kan fortsette uten unødig hinder eller forstyrrelse.
+2. Kjørende i felt for fartsøkning skal tilpasse farten til trafikken i det kjørefelt det skal kjøres inn i. Kjørende i dette feltet skal lette utkjøringen fra feltet for fartsøkning.Kjørende som vil forlate veg, skal snarest mulig kjøre inn i felt for fartsreduksjon der det finnes.
