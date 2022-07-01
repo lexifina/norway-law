@@ -5,4 +5,4 @@ Med dekodingsinnretning menes teknisk utstyr eller programvare som er utformet e
 Med vernet formidlingstjeneste menes
 a) fjernsyns- og radiosignaler, og tjenester som teleformidles elektronisk på forespørsel fra den enkelte tjenestemottaker, når tilgang er avhengig av tillatelse fra tjenesteyter og ytes mot betaling, eller
 b) selve tilgangskontrollen til tjenestene nevnt i bokstav a, når den må regnes som en egen tjeneste.
-For overtredelse av denne bestemmelsen kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a. Som fornærmet regnes også den som yter tilgangskontroll, når denne må regnes som en egen tjeneste.
+Som fornærmet regnes også den som yter tilgangskontroll, når denne må regnes som en egen tjeneste.
