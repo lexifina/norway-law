@@ -1,0 +1,4 @@
+# § 10. Fortsatt behandling. Registrering og kunngjøring av planteforedlerrett
+Når undersøkelsen av sorten er avsluttet, tas søknaden opp til fortsatt behandling. § 6 gjelder tilsvarende. Plantesortsnemnda kan pålegge søkeren å opplyse om sorten er beskyttet eller søkt beskyttet i andre stater og i tilfelle å gi opplysninger om alt som vedkommende stats planteforedlerrettsmyndighet har meddelt søkeren om vurderingen av søknaden.
+Blir planteforedlerrett meddelt, føres sorten inn i Plantesortsregisteret. Meddelelsen kunngjøres med opplysning om at innsigelser mot meddelelsen kan fremsettes innen en fastsatt frist.
+Henlegges eller avslås en søknad etter at den er kunngjort etter § 7, skal dette kunngjøres når avgjørelsen er blitt endelig. Det samme gjelder om en søknad trekkes etter at den er kunngjort.

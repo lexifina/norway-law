@@ -1,0 +1,2 @@
+# § 11. Fornyet behandling
+Fremsettes det skriftlig overfor Plantesortsnemnda innsigelse mot meddelelsen av planteforedlerrett innen fristen fastsatt etter § 10 annet ledd, tas søknaden opp til fornyet behandling for avgjørelse av innsigelsen. § 6 gjelder tilsvarende. Det kunngjøres og registreres i Plantesortsregisteret at søknaden er tatt opp til fornyet behandling. Utfallet kunngjøres og registreres når det er blitt endelig.
