@@ -1,0 +1,4 @@
+# § 13. Kortets gyldighet, kontroll og inndragning
+(1) HMS-kortet utstedes for en periode på to år. Kortet er kun gyldig så lenge ansettelsesforholdet består.
+(2) Den som er omfattet av oppregningen i § 16 andre ledd, kan gjennom oppslag i registrene nevnt i § 6 fjerde ledd undersøke om registerpliktene etter § 6 fjerde ledd er oppfylt. Dersom oppslaget gir grunn til å tro at registerpliktene ikke er oppfylt, skal det gis melding til Arbeidstilsynet og kortinnehaverens arbeidsgiver.
+(3) Arbeidstilsynet, skattemyndighetene og politiet kan inndra HMS-kort som er ugyldige fordi virksomhetens godkjenning er tilbakekalt, kortets gyldighetsperiode er utløpt, arbeidsforholdet eller virksomheten er opphørt, eller dersom kortet eller bruken av kortet av andre grunner er ugyldig. Inndratte kort skal innleveres til kortutsteder for makulering.
