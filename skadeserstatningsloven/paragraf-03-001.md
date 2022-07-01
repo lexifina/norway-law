@@ -1,0 +1,5 @@
+# § 3-1. (erstatning for skade på person.)
+Erstatning for skade på person skal dekke lidt skade, tap i framtidig erverv og utgifter som personskaden antas å påføre skadelidte i framtiden.
+Erstatning for tap i inntekt og framtidig erverv fastsettes særskilt og under hensyn til skadelidtes muligheter for å skaffe seg inntekt ved arbeid som med rimelighet kan ventes av ham på bakgrunn av hans evner, utdanning, praksis, alder og muligheter for omskolering. Med inntekt likestilles verdien av arbeid i heimen.
+Ved erstatningsutmålingen gjøres fradrag for lønn under sykdom og liknende ytelser, trygdeytelser, ytelser fra pensjonsordning i arbeidsforhold eller yrke og for forsikringsytelser i den utstrekning den erstatningsansvarlige har betalt premien. Videre kan tas hensyn til forsikringsytelser som ikke går inn under foregående punktum, til annen vesentlig økonomisk støtte som skadelidte har fått eller kommer til å få som følge av skaden og til forholdene ellers.
+Har skadelidte på skadevirkningstidspunktet ikke fylt 19 år, utmåles erstatningen for varig tap i erverv etter § 3-2 a.

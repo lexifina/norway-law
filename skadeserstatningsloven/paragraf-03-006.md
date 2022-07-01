@@ -1,0 +1,2 @@
+# § 3-6. (erstatning for krenking av privatlivets fred)
+Den som uaktsomt har krenket privatlivets fred, skal yte erstatning for den lidte skade og slik erstatning for tap i fremtidig erverv som retten under hensyn til den utviste skyld og forholdene ellers finner rimelig. Han kan også pålegges å betale slik erstatning (oppreisning) for skade av ikke-økonomisk art som retten finner rimelig. I dom som går ut på straff, kan retten pålegge domfelte å betale til fornærmede et beløp til kunngjøring av dommen.

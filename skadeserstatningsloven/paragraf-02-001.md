@@ -1,0 +1,5 @@
+# § 2-1. (arbeidsgivers ansvar for arbeidstaker.)
+1. Arbeidsgiver svarer for skade som voldes forsettlig eller uaktsomt under arbeidstakers utføring av arbeid eller verv for arbeidsgiveren, idet hensyn tas til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten, er tilsidesatt. Ansvaret omfatter ikke skade som skyldes at arbeidstakeren går utenfor det som er rimelig å regne med etter arten av virksomheten eller saksområdet og karakteren av arbeidet eller vervet.
+2. Med arbeidsgiver menes her det offentlige og enhver annen som i eller utenfor ervervsvirksomhet har noen i sin tjeneste.
+3. Med arbeidstaker menes enhver som gjør arbeid eller utfører verv i arbeidsgivers tjeneste, unntatt verv som tillitsvalgt i annet foretak. Like med arbeidstaker regnes ombud i offentlig virksomhet, de som gjør tjeneste i Forsvaret og andre under pålagt tjenestegjøring for det offentlige, samt innsatte, pasienter e.l. som deltar i arbeidsvirksomhet i kriminalomsorgens anstalter, i helseinstitusjoner e.l.
+4. Om pasientskadeerstatning gjelder pasientskadeloven.

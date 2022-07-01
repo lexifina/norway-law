@@ -1,0 +1,2 @@
+# § 1-3. (sinnssykes ansvar m.v.)
+1. Den som er sinnssyk, åndssvak, bevisstløs eller befinner seg i en lignende forstyrrelse av sinnstilstanden, plikter å erstatte den skade han volder for så vidt det finnes rimelig under hensyn til utvist adferd, økonomisk evne og forholdene ellers. Var skadevolderen selvforskyldt brakt i en forbigående tilstand som nevnt, har han det ansvar som ellers ville følge av alminnelige erstatningsregler.

@@ -1,0 +1,4 @@
+# § 3-4. (erstatning for en persons død.)
+Erstatning for tap av forsørger ved dødsfall tilkommer den eller de etterlatte som avdøde ved dødsfallet helt eller delvis forsørget. Erstatning kan etter forholdene tilkjennes selv om den avdøde ikke ved dødsfallet forsørget den etterlatte, forutsatt at denne i nær framtid kunne pårekne forsørging.
+Erstatning for tap av forsørger fastsettes under hensyn til forsørgingens omfang og den etterlattes muligheter for selv å bidra til sin forsørging. Erstatningen fastsettes særskilt for hver enkelt erstatningsberettiget. Bestemmelsene i § 3-1 annet ledds siste punktum og tredje ledd gjelder tilsvarende.
+Erstatning for dødsfall skal videre dekke vanlige utgifter til gravferden, og for så vidt det finnes rimelig, andre utgifter i anledning av dødsfallet. Bestemmelsen i § 3-1 tredje ledds første punktum gjelder tilsvarende.

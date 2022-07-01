@@ -1,0 +1,2 @@
+# § 5-2. (lemping av erstatningsansvar)
+Erstatningsansvaret kan lempes når retten under hensyn til skadens størrelse, den ansvarliges økonomiske bæreevne, foreliggende forsikringer og forsikringsmuligheter, skyldforhold og forholdene ellers finner at ansvaret virker urimelig tyngende for den ansvarlige. Det samme gjelder når det i særlige tilfelle er rimelig at den skadelidte helt eller delvis bærer skaden.
