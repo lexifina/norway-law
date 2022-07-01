@@ -1,0 +1,2 @@
+# § 3-2. (menerstatning.)
+Har skadelidte fått varig og betydelig skade av medisinsk art, svares særskilt menerstatning. Denne erstatning fastsettes under hensyn til menets medisinske art og størrelse og dets betydning for den personlige livsutfoldelse. Prognoser om forkortet levetid som følge av den ansvarsbetingende hendelsen skal ikke vektlegges ved fastsettelsen av erstatningen. Bestemmelsene i § 3-1 tredje ledd gjelder tilsvarende for så vidt ytelsene kan anses å gi kompensasjon for menet.
