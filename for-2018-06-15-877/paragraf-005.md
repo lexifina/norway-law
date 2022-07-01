@@ -1,0 +1,2 @@
+# § 5. Overgangsregler om rådføringsplikt
+Rådføringsplikten etter personopplysningsloven § 9 annet ledd, § 10 og § 11 annet ledd gjelder ikke for behandlinger som er gitt konsesjon etter lov 14. april 2000 nr. 31 om behandling av personopplysninger eller lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger, eller som er tilrådd av personvernombud i samsvar med forskrift 15. desember 2000 nr. 1265 om behandling av personopplysninger § 7-27.
