@@ -1,0 +1,3 @@
+# § 20. Retting av uriktige opplysninger
+Registrerte fysiske personer skal i forhåndsvarselet etter § 19 oppfordres til å be om retting av eventuelle uriktige opplysninger innen 14 dager fra mottak av forhåndsvarselet. De nyregistrerte opplysningene kan ikke brukes i kredittopplysningsvirksomhet før fristen er utløpt. Opplysninger om at gjeldsordning eller konkurs er åpnet, kan likevel brukes samtidig med at varsel sendes.
+Den behandlingsansvarlige er ansvarlig for og skal kunne påvise at opplysninger om både fysiske og juridiske personer som behandles som ledd i kredittopplysningsvirksomhet, er korrekte og om nødvendig oppdaterte.

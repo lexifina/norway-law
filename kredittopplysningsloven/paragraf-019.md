@@ -1,0 +1,4 @@
+# § 19. Forhåndsvarsel til fysiske personer
+Når kredittopplysninger om en fysisk person registreres i et kredittopplysningsregister, skal den behandlingsansvarlige straks sende kopi av opplysningene til den registrerte. Forhåndsvarselet skal, i tillegg til den registrerte kredittopplysningen, inneholde den informasjonen som fremgår i personvernforordningen artikkel 14.
+Plikten til forhåndsvarsling gjelder ikke ved registrering av opplysninger om skattefastsetting fra Skattedirektoratet, ved registrering av næringsinteresser fra Brønnøysundregistrene eller ved oppdatering av grunndata.
+Plikten til forhåndsvarsling gjelder heller ikke ved innhenting av opplysninger om utlegg og innhenting av opplysninger om utleggsforretning og andre tvangsforretninger når varsel om slik innhenting er gitt i forbindelse med utsendelse av namsboken.
