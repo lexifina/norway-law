@@ -1,0 +1,5 @@
+# § 16. Tilsyn, forholdet til tilsynsmyndigheten
+Gjeldsinformasjonsforetak er underlagt tilsyn av Finanstilsynet etter finanstilsynsloven.
+Gjeldsinformasjonsforetak og den som handler på vegne av foretaket, har plikt til å gi de opplysninger som Finanstilsynet krever om forhold som angår foretakets virksomhet, samt til å fremvise og utlevere til Finanstilsynet dokumentasjon som angår virksomheten.
+Finanstilsynet kan gi pålegg om retting dersom gjeldsinformasjonsforetak opptrer i strid med lov, bestemmelser gitt med hjemmel i lov eller egne regler og forretningsvilkår. Det samme gjelder for den som handler på vegne av foretaket. Finanstilsynet kan også gi pålegg om retting dersom foretakets ledelse eller styremedlemmer ikke oppfyller kravene til kvalifikasjoner og egnethet i § 6.
+Styret og daglig leder i gjeldsinformasjonsforetak har plikt til å melde fra til Finanstilsynet dersom det fattes vedtak om avvikling av foretaket, eller det oppstår fare for at foretaket ikke vil være i stand til å utføre konsesjonspliktige funksjoner.
