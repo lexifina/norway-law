@@ -1,0 +1,3 @@
+# § 13. (attsøkjingsrett når motorvogna skulle vore trygda, men ikkje er det).
+Dei trygdelaga som har reidd ut skadebot etter § 10 fyrste leden, kan søkja utlegget att, anten nokon er ansvarleg for skaden etter vanlege skadebotreglar eller ikkje, hjå den som forsømde å trygda motorvogna, eller hjå den som køyrde eller brukte henne då skaden vart gjord, endå han visste eller måtte vita at vogna ikkje var lovleg trygda. Om motorvogna vert nytta urettmessig, svarar brukaren i staden for eigaren. Kjem det til å verka urimeleg i fall heile kravet lyt svarast, og åtferda er orsakande, kan retten minka kravet.
+Har nokon annan ansvaret for skade som ei motorvogn gjer, gjeld reglane i § 12 på tilsvarande måte.
