@@ -1,0 +1,4 @@
+# § 11. Søknader om pristilskudd
+Søknad om pristilskudd for arter i vedlegg 1 skal inneholde opplysninger om avler (navn og adresse), sort, partinummer, kvantum godkjent vare og beregnet pristilskudd. Landbruksdirektoratet kontrollerer opplysningene opp mot Mattilsynets data for sertifiserte frøpartier.
+Søknad til Landbruksdirektoratet om pristilskudd for avl av økologisk stikkløk skal inneholde dokumentasjon på at produksjonen har vært i henhold til forskrift om planter og tiltak mot planteskadegjørere.
+Søknad om pristilskudd for frøavl av naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter i vedlegg 2, skal inneholde opplysninger om avler (navn og adresse), partinummer, art, kvantum, innsamlingssted, avlssted og oppformeringsgenerasjon. Det må gis opplysninger om beregnet pristilskudd.

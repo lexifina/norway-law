@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med tilskuddsordningen er å fremme dyrking og forsyning av frø av klimatilpassa sorter av gras, engbelgvekster, rotvekster og grønnsaker, samt naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter som angitt i vedlegg 2, gjennom tilskudd til avl og overlagring. Tilskuddsordningen skal også fremme dyrking og forsyning av økologisk stikkløk gjennom tilskudd til avl

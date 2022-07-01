@@ -1,0 +1,6 @@
+# § 3. Virksomheter som er omfattet av tilskuddsordningen
+Det kan gis tilskudd til følgende virksomheter:
+a) Foretak som avler sertifisert såvare av gras og engbelgvekster, og foretak som avler såvare av grønnsaker og rotvekster. Det er et vilkår for slikt tilskudd at avlen oppfyller kravene i forskrift 13. september 1999 nr. 1052 om såvarer, og at avlen skjer på kontrakt med en såvareforretning. Det gis for slike såvarer ikke tilskudd til avl av bevaringsverdige sorter og naturfrøblandinger.
+b) Foretak som avler økologisk stikkløk. Det er et vilkår for slikt tilskudd at avlen oppfyller kravene i forskrift 1. desember 2000 nr. 1333 om planter og tiltak mot planteskadegjørere, og at avlen skjer på kontrakt med en såvareforretning.
+c) Såvareforretninger som overlagrer frø av gras, engbelgvekster, rotvekster og grønnsaker. Det er et vilkår at såvareforretningen oppfyller kravene i forskrift om såvarer.
+d) Foretak som avler naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter som angitt i vedlegg 2. Det er et vilkår for tilskudd at avlen skjer på kontrakt med en såvareforretning. Det kan også gis tilskudd til såvareforretninger som overlagrer naturfrø av regionalt tilpassede pollinatorvennlige blomsterarter som angitt i vedlegg 2 i forskriften.
