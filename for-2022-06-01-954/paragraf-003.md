@@ -1,0 +1,4 @@
+# § 3. Behandling av personopplysninger i Kunnskapsbanken
+Direktoratet for samfunnssikkerhet og beredskap er behandlingsansvarlig for personopplysningene som behandles i Kunnskapsbanken.
+Direktoratet for samfunnssikkerhet og beredskap kan behandle personopplysninger i Kunnskapsbanken når det er nødvendig for å forebygge og redusere konsekvensene av uønskede hendelser, herunder for å understøtte kommunenes og Longyearbyen lokalstyres arbeid med risiko- og sårbarhetsanalyser etter sivilbeskyttelsesloven § 14.
+Direktoratet for samfunnssikkerhet og beredskap kan innhente personopplysninger fra forsikringsselskaper og Statens naturskadeordning, og sammenstille disse med andre opplysninger fra interne og eksterne datakilder. Direktoratet for samfunnssikkerhet og beredskap kan videre foreta vurderinger, analyser og på annen måte behandle personopplysningene i Kunnskapsbanken.
