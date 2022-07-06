@@ -1,0 +1,4 @@
+# § 2. Internasjonale regler om sikring av havneanlegg
+(1) De deler av ISPS-koden del A som omfatter havneanlegg gjelder som forskrift, samt del B 1.16, 4.1, 4.4, 4.5, 4.8, 4.14-4.16, 4.18, 15.3, 15.4, 16.3, 16.8, 18.5 og 18.6. Det skal i tillegg tas hensyn til de øvrige bestemmelser i del B der disse er relevante.
+(2) EØS-avtalen vedlegg XIII nr. 56bb (Europaparlaments- og rådsforordning (EF) nr. 725/2004 av 31. mars 2004 om forbedret sikkerhet for fartøyer og havneanlegg), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+(3) EØS-avtalen vedlegg XIII nr. 56r (forordning (EF) nr. 324/2008 av 9. april 2008 om fastleggelse av reviderte prosedyrer for Kommisjonens inspeksjoner innenfor maritim sikring som endret ved gjennomføringsforordning (EU) 2016/462) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
