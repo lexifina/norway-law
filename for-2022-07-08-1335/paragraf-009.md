@@ -1,0 +1,2 @@
+# § 9. Tilbakebetaling og foreldelse
+Dersom pelsdyroppdretteren, som følge av manglende oppfyllelse av vilkår i denne forskriften eller av andre grunner, har mottatt en utbetaling som ikke er berettiget, kan det feilutbetalte beløpet kreves tilbakebetalt fra mottakeren. Krav om tilbakebetaling av kompensasjon foreldes etter tre år. Foreldelsesfristen starter å løpe når vedtak om tilbakebetaling fattes.

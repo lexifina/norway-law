@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriften skal gjennom nærmere bestemmelser om kompensasjonsordninger som utfyller eller kommer i tillegg til erstatning og vederlag etter lov om forbud mot hold av pelsdyr § 3, og om forskuddsutbetaling av slik erstatning eller vederlag, ytterligere kompensere for negative konsekvenser av forbudet mot hold av pelsdyr og stimulere til riving og opprydding av anlegg for hold av pelsdyr.
