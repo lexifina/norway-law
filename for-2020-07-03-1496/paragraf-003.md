@@ -1,0 +1,2 @@
+# § 3. Tilskudd til kompetanseheving
+Det kan gis tilskudd til gjennomføring av nødvendig arbeidsrettet kompetanseheving som gir utsikt til at mottakeren kan få annet inntektsgivende arbeid etter avvikling av hold av pelsdyr. I vurderingen legges det vekt på i hvilken grad den aktuelle kompetansehevingen vil styrke muligheten for å få varig inntektsgivende arbeid, om søker har søkt eller mottar andre former for offentlig støtte til arbeidsrettet kompetanseheving og på søkers mulighet for inntektsgivende arbeid uten slik kompetanseheving.
