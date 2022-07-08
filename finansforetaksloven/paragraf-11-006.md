@@ -1,2 +1,5 @@
-# § 11-6. Beskyttet betegnelse
-Betegnelsen obligasjoner med fortrinnsrett kan bare benyttes om obligasjoner som er omfattet av reglene i §§ 11-5 til 11-15.
+# § 11-6. Definisjon og beskyttede betegnelser
+(1) Med obligasjoner med fortrinnsrett (OMF) menes ihendehaverobligasjoner utstedt med fortrinnsrett til dekning i kredittforetakets sikkerhetsmasse.
+(2) Betegnelsene «obligasjoner med fortrinnsrett standard» («OMF standard») og «europeisk obligasjon med fortrinnsrett» samt tilsvarende betegnelse på offisielle språk innenfor EØS skal bare brukes om obligasjoner med fortrinnsrett som oppfyller kravene gitt i eller i medhold av §§ 11-7 til 11-15.
+(3) Betegnelsene «obligasjoner med fortrinnsrett premium» («OMF premium») og «europeisk obligasjon med fortrinnsrett (premium)» samt tilsvarende betegnelse på offisielle språk innenfor EØS skal bare brukes om obligasjoner med fortrinnsrett som oppfyller både kravene gitt i eller i medhold av §§ 11-7 til 11-15, og særlige krav til overpantsettelse, sammensetning og verdsettelse av sikkerhetsmassen fastsatt av departementet i forskrift.
+(4) Med OMF-program menes de strukturelle trekkene ved utstedelser av enten OMF standard eller OMF premium etter annet eller tredje ledd, som fastsatt i avtalevilkår i samsvar med godkjennelse etter kapittel 3 og § 11-7.
