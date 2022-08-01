@@ -1,0 +1,8 @@
+# § 5-10. Karakterer og vitnemål
+Sjøforsvarets fagskole benytter både en gradert karakterskala (A til F) og bestått/ikke bestått (B/IB) som vurderingsuttrykk.
+Sjøforsvarets fagskole har fastsatt følgende generelle beskrivelser for lovens graderte karakterskala, jf. fagskoleforskriften § 40:SymbolBetegnelseGenerell, ikke fagspesifikk omtale av vurderingskriterierAFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+Eksamenskarakterene vil normalt bli offentliggjort innen tre uker etter avholdt eksamen.
+Studenten er selv ansvarlig for å holde seg orientert om eksamensresultatene i løpet av skoleåret.
+Fagskolen utsteder kun ett vitnemål til hver student. Dersom kun deler av utdanningen er fullført har studenten rett til å få karakterutskrift.
+På vitnemålet fremkommer kun tallkarakter fra avsluttende eksamen. For gjennomførte emneprøver fremkommer kun om studenten har bestått eller ikke.
+Rektor fastsetter utformingen av vitnemål og karakterutskrift.

@@ -1,0 +1,2 @@
+# § 5-12. Fusk, forsøk på fusk, bortvisning og utestengelse
+Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn regnes som fusk. Det samme gjelder for handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte. Nærmere om hva som ansees som fusk, fremgår i retningslinjer.
