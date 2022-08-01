@@ -1,0 +1,3 @@
+# § 11. Koordinerende enhet for habilitering og rehabilitering i spesialisthelsetjenesten
+Det skal finnes en koordinerende enhet i hvert helseforetak som skal ha en generell oversikt over habiliterings- og rehabiliteringstiltak i helseregionen, jf. spesialisthelsetjenesteloven § 2-5b. Den koordinerende enheten skal bidra til å sikre helhetlig tilbud til pasienter med behov for sosial, psykososial eller medisinsk habilitering og rehabilitering.
+Koordinerende enhet skal ha oversikt over og nødvendig kontakt med habiliterings- og rehabiliteringsvirksomheten i kommunens helse- og omsorgstjeneste. I tillegg skal enheten ha slikt ansvar som ansvar som framgår av § 6 andre ledd.
