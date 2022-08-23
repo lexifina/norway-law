@@ -1,0 +1,2 @@
+# § 7. Beskyttelse av personer som arbeider i henhold til en arbeidsavtale
+Finanstilsynet skal sørge for at den som rapporterer om overtredelse, har tilgang til fyllestgjørende veiledning om nasjonale midler og framgangsmåter for vern mot urettferdig behandling, herunder framgangsmåter for å kreve erstatning. Finanstilsynet skal bistå den rapporterende personen i kontakt med andre relevante myndigheter som deltar i beskyttelsen av personer mot urettferdig behandling, herunder ved å bekrefte statusen som varsler i arbeidstvister.
