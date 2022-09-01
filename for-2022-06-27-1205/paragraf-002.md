@@ -1,0 +1,2 @@
+# § 2. Unntaksregler som er betinget av melding til Finanstilsynet
+Meldinger til Finanstilsynet etter verdipapirforskriften § 4-4 (3) og § 4-5 slik den lød før 1. september 2022, forblir gyldige etter 1. september 2022. Bruk av unntaksreglene basert på melding inngitt før 1. september 2022 forutsetter at vilkårene for unntak og kravene til melding i forbindelse med unntak etter reglene om flagging, slik de lyder etter endringene ved lov 22. juni 2022 nr. 80 om endringer i verdipapirhandelloven (flagging) og tilhørende forskrifter, er innfridd.
