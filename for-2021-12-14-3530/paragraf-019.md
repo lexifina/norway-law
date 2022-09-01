@@ -1,0 +1,3 @@
+# § 19. Andre soner og områder i luftrommet
+For å unngå sammenstøt mellom luftfartøyer eller andre luftfartsulykker og ellers for å trygge mot farer og ulemper, herunder støy som følge av luftfart, kan Luftfartstilsynet opprette reservert luftrom, geografiske UAS-områder, radiopåbudssoner, transponderpåbudssoner eller soner eller områder med krav til alternativ type overvåkings- eller kommunikasjonsutstyr.
+Luftfartstilsynet kan bestemme at områdene eller sonene etter første ledd skal være permanente eller midlertidige og at de helt eller delvis kan aktiveres og deaktiveres etter fastsatte vilkår.

@@ -1,0 +1,4 @@
+# § 13. Trafikkinformasjonssoner (TIZ)
+En trafikkinformasjonssone skal omfatte IFR- og VFR-ruteføringer til eller fra flyplasser i trafikkinformasjonssonen. Trafikkinformasjonssonen skal gå fra bakken og opp til en øvre grense som er sammenfallende med de nedre grensene for overliggende trafikkinformasjons- eller kontrollområder.
+Berørte flyplassoperatører skal, i samråd med lufttrafikktjenesten, utrede og foreslå å etablere eller endre en trafikkinformasjonssone i tilknytning til berørte flyplasser med flygeinformasjonstjeneste på flyplassen (AFIS), dersom de mener at behovene for trafikkinformasjonssonen er endret. Luftfartstilsynet kan pålegge flyplassoperatørene de samme oppgavene dersom Luftfartstilsynet finner det klart at behovene for trafikkinformasjonssonen er endret.
+Trafikkinformasjonssoner fastsettes av Luftfartstilsynet.
