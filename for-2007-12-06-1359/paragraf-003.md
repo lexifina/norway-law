@@ -1,0 +1,2 @@
+# § 3. Delegering av dispensasjonsmyndighet fra språkkrav
+Markedsoperatøren for det regulerte markedet der verdipapirene er opptatt til handel kan gjøre unntak fra kravet i verdipapirhandelloven § 5-13 første og annet ledd om å gi opplysninger på norsk. Ved vurderingen av om det skal gjøres unntak skal det legges vekt på utstederens aksjonærsammensetning, hvor byrdefullt det fremstår for utstederen å gi opplysninger på norsk i tillegg til andre språk, utstederens arbeidsspråk, og om utstederen før forskriftens ikrafttredelse har hatt dispensasjon.
