@@ -1,0 +1,3 @@
+# § 15. Trafikksoner for helikopter (HTZ)
+Der det ytes flygeinformasjonstjeneste i tilknytning til petroleumsvirksomhet på kontinentalsokkelen kan Luftfartstilsynet fastsette en trafikksone for helikopter (HTZ) rundt innretninger på kontinentalsokkelen, med unntak av skip, som er utstyrt med helikopterdekk.
+En trafikksone etter første ledd skal i bredden ha en utstrekning som omslutter aktuelle helikopterdekk med en buffer på minst 7 nautiske mil. I høyden skal trafikksonen ha en utstrekning fra havflaten opp til og med 2000 fot over middelvann (AMSL), eller opp til den nedre grensen for et overliggende kontrollområde.
