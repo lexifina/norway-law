@@ -1,0 +1,3 @@
+# § 7. Underretning om ileggelse av gebyr
+Når det fremgår av TFFAuto at den ansvarlige etter bilansvarslova ikke har sørget for at motorvogn er lovlig forsikret, skal Trafikkforsikringsforeningen etter at den gebyrpliktige er varslet etter § 6, ilegge gebyr etter denne forskriften.
+Trafikkforsikringsforeningen skal underrette den gebyrpliktige om ileggelsen av gebyret så snart som mulig. Underretningen skjer ved utsendelsen av kravet. Ved utsendelsen av kravet skal det gis opplysninger om klagefrist, klageinstans og den nærmere fremgangsmåte ved klage, samt om retten til å se sakens dokumenter.

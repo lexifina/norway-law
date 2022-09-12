@@ -1,0 +1,5 @@
+# § 4. Automatisk ileggelse av gebyr
+Den som etter bilansvarslova § 15 er ansvarlig for å forsikre motorvogn, skal betale gebyr for hvert påbegynte døgn forsikringsplikten etter bilansvarslova ikke er oppfylt. Når det er innvilget avregistrering av en motorvogn etter forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-32, skal gebyr betales frem til dato for søknad om avregistrering ble registrert mottatt hos Statens vegvesen.
+Ny eier som ikke har tegnet egen forsikring, skal betale gebyr for hvert påbegynte døgn fra og med datoen for vedtak om eierskifte, med mindre ny eier har tegnet forsikring innen tre døgn fra og med vedtaksdatoen. Gebyret skal betales selv om ny eier er dekket av selgers forsikring etter forsikringsavtaleloven § 7-2.
+Betalingsplikten etter første og annet ledd påløper automatisk.
+Trafikkforsikringsforeningen sender kravet til den som er registrert som eier av uforsikret motorvogn, eller den som i henhold til melding om eierskifte er ny eier av motorvognen i henhold til informasjon i Kjøretøyregisteret. Hvis det er flere eiere, skal kravet rettes til hovedeier.
