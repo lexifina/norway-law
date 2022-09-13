@@ -1,0 +1,3 @@
+# § 2-2. Opptak
+Norges Fagakademi har rullerende opptak som betyr at kvalifiserte søkere tas opp i den rekkefølge komplette søknader kommer inn og opptak vedtas. Ved fulle klasser vil det settes opp venteliste for kvalifiserte søkere i samme rekkefølge som søkerne er godkjente for opptak.
+Opptak med søknadsfrist benyttes for utdanninger der bestått opptaksprøve er et opptakskrav. De faglige kravene som vurderes gjennom opptaksprøven fastsettes av skolen. Hvis det er flere kvalifiserte søkere enn studieplasser etter opptaksfristens utløp, skal søkerne rangeres. Rangeringsgrunnlaget, og hvilken vekt opptaksprøven tillegges, fremgår av studieplanene.

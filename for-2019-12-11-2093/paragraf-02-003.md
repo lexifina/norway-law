@@ -1,0 +1,2 @@
+# § 2-3. Søknad med vedlegg
+Søknad sendes administrasjonen på skolens søknadsskjema. Det skal også vedlegges gyldig dokumentasjon på utdanning/kurs, arbeidserfaring og eventuelt andre forhold som er relevant grunnlag for opptak. Ved søknad for opptak på formelt grunnlag, jf. § 2-4 (1), skal det legges ved vitnemål fra videregående opplæring. Eventuelle arbeids- eller praksisattester må inneholde beskrivelse av arbeidsinnhold, stillingsprosent og arbeidsforholdets lengde.

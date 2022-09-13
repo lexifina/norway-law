@@ -1,0 +1,2 @@
+# § 2-10. Avslag på søknad om opptak
+Administrasjonen kan unnlate å tilby studieplass til søkere som ellers oppfyller de faglige vilkårene for opptak, når det foreligger saklig grunn. Dette kan være at søker er bortvist eller utestengt fra skolen eller fra andre studieinstitusjoner tidligere, eller at søker tidligere har misligholdt betalingsforpliktelser overfor skolen. For sistnevnte kan det kreves at alt mellomværende gjøres opp før søker kan tilbys studieplass ved skolen.
