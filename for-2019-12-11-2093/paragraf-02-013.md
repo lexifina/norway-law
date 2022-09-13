@@ -1,0 +1,5 @@
+# § 2-13. Vurdering av skikkethet
+Iht. fagskoleloven § 26 kan det vedtas at den enkelte student i bestemte utdanninger ikke er skikket for yrket. Vurderingen kan skje gjennom hele utdanningsløpet. Vitnemål for fullført utdanning forutsetter at studenten er vurdert som skikket for yrket. Hvilke utdanninger som bør omfattes av bestemmelsen, og hvilke kriterier som skal ligge til grunn for vurderingen av skikkethet, fastsettes i forskrift av Kunnskapsdepartementet.
+Lokal klagenemnd kan fatte enkeltvedtak, som førsteinstans, i saker som gjelder skikkethet. Administrasjonen forbereder saken og studenten skal gis mulighet for å uttale seg før det treffes vedtak. Vedtaket skal treffes med minst to tredels flertall. Vedtaket skal begrunnes. Blir det fattet negativt vedtak om studentens skikkethet, kan studenten utestenges fra utdanningen.
+Studenten kan påklage vedtaket til Nasjonalt klageorgan for fagskoleutdanning.
+Bestemmelsen trer i kraft når Kunnskapsdepartementet har vedtatt forskrift om skikkethet.
