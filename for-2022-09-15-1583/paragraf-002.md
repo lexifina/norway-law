@@ -1,0 +1,5 @@
+# § 2. Fordeling av formuen helt eller delvis til nærstående mv.
+I særlige tilfeller kan departementet bestemme at formuen helt eller delvis skal fordeles til slektninger eller andre som har stått avdøde nær. Slik avgjørelse kan treffes etter søknad. Departementet kan sette frist for innsendelse av slik søknad.
+Som hovedregel kan slik avgjørelse bare treffes dersom det over tid har vært et meget nært forhold mellom avdøde og søkeren, f.eks. regelmessig økonomisk støtte, felles bolig eller lignende.
+Dersom avdøde selv i en klart bevist form har erklært at vedkommende søker skal ta arv, kan også slik avgjørelse treffes. Det samme gjelder overfor institusjoner eller ideelle organisasjoner, dersom særlige forhold taler for det. Slik avgjørelse kan likevel ikke treffes på det grunnlag at institusjonen har fungert som bopel for avdøde eller avdøde har vært medlem av organisasjonen, med mindre avdødes vilje klart tilsier dette.
+Departementet kan bestemme at personer som har bistått avdøde økonomisk eller praktisk, eller har bistått i forbindelse med dødsfallet eller booppgjøret, kan gis en begrenset påskjønnelse av boets midler.
