@@ -1,0 +1,5 @@
+# § 7. Krav til istandgjøring og utdeling
+Helsepersonell skal sørge for at riktig legemiddel gis til riktig pasient, i riktig dose, til riktig tid og på riktig måte.
+Istandgjøring og utdeling av legemidler skal som hovedregel skje på grunnlag av ordinering gjort til enkeltpasient. Unntatt fra dette er utdeling av legemidler som skjer på grunnlag av ordinering gjennom virksomhetens prosedyre og gjelder kun situasjoner der slik ordinering er nødvendig for å kunne yte forsvarlig helsehjelp. Prosedyren skal være fastsatt av virksomhetsleder, og utarbeidet i samråd med helsepersonell med rekvireringsrett til pasient.
+Et istandgjort legemiddel skal på forpakningen eller beholderen være merket med opplysninger om pasientens identitet og legemidlets navn og virkestoff, samt styrke, dose og andre opplysninger som er nødvendig for en sikker håndtering.
+Det kan byttes mellom byttbare legemidler. Virksomheten skal i internkontrollsystemet ha prosedyrer som sikrer forsvarlig bytte mellom byttbare legemidler, herunder hvilken kompetanse den som skal utføre byttene skal ha.

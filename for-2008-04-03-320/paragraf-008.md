@@ -1,0 +1,3 @@
+# § 8. Tilberedning av legemidler
+Tilberedning av legemidler skal skje på faglig forsvarlig måte og i egne lokaler som er utformet og dimensjonert slik at risikoen for sammenblanding av produkter, for krysskontaminasjon og annen forurensning av produktene unngås. Tilberedning av legemidler kan unntaksvis foretas andre steder når det anses faglig forsvarlig.
+Virksomhetsleders ansvar for å foreta sårbarhets- og risikovurdering som grunnlag for å sikre faglig forsvarlig tilberedning fremgår av § 4 sjette ledd. Hygieneinstrukser, arbeidsmetodikk og dokumentasjon skal være tilpasset art og omfang av tilberedningen og er en del av virksomhetens internkontrollsystem.
