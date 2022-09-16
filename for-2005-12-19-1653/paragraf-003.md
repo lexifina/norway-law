@@ -1,0 +1,8 @@
+# § 3. Krav til veiledet tjeneste
+Det er et vilkår for å utøve virksomhet som privatpraktiserende allmennlege med rett til å utløse trygderefusjon at lege med autorisasjon
+a) har godkjenning som allmennlege eller har gjennomført til sammen minst tre år veiledet tjeneste, hvorav minst 6 måneder i sykehus og minst 6 måneder i allmennpraksis
+b) er under veiledning for å oppnå slik rett, og har gjennomført norsk turnustjeneste eller har oppnådd alle læringsmålene i spesialistutdanningens første del, eller
+c) er under veiledning for å oppnå slik rett, og har søkt om godkjenning av veiledningsavtale før 1. mars 2017 på bakgrunn av tilbud om ansettelse eller vikariat i stilling som nevnt i første, andre og tredje ledd.
+Vilkårene i første ledd gjelder tilsvarende for allmennleger som ansettes i kommunale fastlegestillinger og i stillinger ved kommunal legevakt.
+Kravet om minst tre års veiledet tjeneste gjelder ikke for leger som tiltrer et vikariat av inntil to måneders varighet i fastlegehjemmel eller i stilling i kommunal legevakt. Kravet gjelder heller ikke for leger som deltar i kommunalt organisert legevakt utenom sitt ordinære arbeid. Legene nevnt i første og andre punktum må oppfylle vilkårene i første ledd bokstav b eller c, med unntak av vilkåret om at de må være under veiledning.
+Første til tredje ledd er ikke til hinder for at turnuslege/lege under spesialisering som har gjennomført turnustjeneste i sykehus eller som har oppnådd læringsmålene for LIS 1 i spesialisthelsetjenesten, kan delta i kommunal legevakt og arbeide hos fastlege. Legen i spesialisering i LIS 1 skal være underlagt veiledning og supervisjon.
