@@ -1,0 +1,3 @@
+# Til § 1.
+Utformingen av bestemmelsen er ny. Det er nå stilt krav til nødvendig utdanning og kompetanse, som ikke er knyttet til fakultetenes ulike fagplaner. Det vil bidra til at forskriften kan bli stående uten behov for endring hver gang et av de medisinske fakultetene endrer sine fagplaner.
+Bestemmelsen angir hvilken kompetanse som kreves for at studentlisens skal kunne gis. Den utdyper derfor også de krav som må gjelde etter forskriften § 2 om lisens til medisinske studenter ved utenlandske universitet. Regelen er gjort skjønnsmessig, jf. uttrykket «kan». Det er ikke et ubetinget rettskrav å få studentlisens tildelt når eksamen i 9. semester er avlagt.

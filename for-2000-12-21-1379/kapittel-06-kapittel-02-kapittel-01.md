@@ -1,0 +1,3 @@
+# Til § 6.
+Hovedregelen er at autorisasjon eller lisens opphører ved fylte 80 år, jf. helsepersonelloven § 54. Personer vil etter fylte 80 år ikke være avskåret fra ethvert arbeid innenfor sin profesjon, og helsepersonelloven § 54 gir dem rett til å bruke yrkestittel også etter fylte 80 år. Personer over 80 år vil kunne ta oppdrag som sakkyndig samt drive undervisning m.m. Det er i første rekke den kliniske, pasientrettede virksomhet de vil være avskåret fra. Det er imidlertid gitt hjemmel i helsepersonelloven § 54 annet ledd til å gi forskrift om lisens til personer over 80 år, slik at vedkommende også kan yte helsehjelp.
+Lisensperiodene er satt til inntil ett år.

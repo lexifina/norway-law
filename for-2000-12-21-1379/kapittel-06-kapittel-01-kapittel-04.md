@@ -1,0 +1,3 @@
+# Til § 4.
+Bestemmelsen er i hovedsak en videreføring av gjeldende rett. Det er positivt angitt hvilke gruppe legemidler lisensinnehaveren kan rekvirere.
+Medisinsk student med studentlisens har ikke rett til å kalle seg lege. Studentlisens gir ikke adgang til legevirksomhet av selvstendig karakter, hvilket innebærer en plikt til å avstå fra en arbeidstildeling som innebærer selvstendig utførelse av yrket. Videre innebærer det at medisinsk student utenfor arbeid ikke har adgang til å rekvirere legemidler. Studenten kan ikke være vikar for lege, eller delta i legevakt eller fungere som bakvakt. For studenter som arbeider hos offentlig eller privatpraktiserende lege er det en forutsetning at studenten arbeider i nær tilknytning til den praktiserende legen.
