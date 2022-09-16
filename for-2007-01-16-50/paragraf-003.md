@@ -1,0 +1,2 @@
+# § 3. Legemidler til dyr av hestefamilien
+EØS-avtalens vedlegg II kapittel XIII nr. 15za (forordning (EF) nr. 1950/2006 som endret ved forordning (EU) nr. 122/2013) om opprettelse av en liste over stoffer som er vesentlige for behandling av dyr av hestefamilien, og stoffer med ytterligere kliniske fordeler i samsvar med europaparlaments- og rådsdirektiv 2001/82/EF om innføring av et fellesskapsregelverk for veterinærpreparater, gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XIII, protokoll 1 til avtalen og avtalen for øvrig.
