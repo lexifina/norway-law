@@ -1,0 +1,3 @@
+# § 8. Tildeling av lisens
+Ved tildeling av lisens, skal søkerens egnethet vurderes i forhold til art og omfang av den virksomheten det er søkt om lisens for. Det skal legges stor vekt på hvordan søkeren har holdt og vil holde seg faglig oppdatert.
+For dem det gjelder, kan lisens for å drive organisert pasientrettet virksomhet av et visst omfang, gis med full rekvireringsrett. Lisens for å drive pasientrettet virksomhet som ikke omfattes av første punktum, kan gis uten rekvireringsrett for A og B-preparater. Lisens for å drive pasientrettet virksomhet som kun omfatter familie, venner og andre nærstående, samt lisens som ikke skal benyttes til pasientrettet virksomhet, gis uten rekvireringsrett.

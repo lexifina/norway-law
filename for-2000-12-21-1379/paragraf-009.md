@@ -1,0 +1,4 @@
+# § 9. Endringer i lisensperioden
+Inntrer det i lisensperioden en svekkelse av lisensinnehavers psykiske eller fysiske helse som kan ha betydning for vedkommendes egnethet til å utøve virksomhet av den art og det omfang som det er utstedt lisens for, skal lisensinnehaver straks varsle Statens helsetilsyn om dette.
+Lisensinnehaver kan gi frivillig avkall på sin lisens, jf. helsepersonelloven § 61.
+Dersom annet helsepersonell får kunnskap om slik endring i lisensinnehavers helsetilstand som nevnt i første ledd, eller til andre forhold av betydning for utøvelsen av virksomhet som det er utstedt lisens for, har vedkommende plikt til å underrette statsforvalteren eller Statens helsetilsyn om dette. Legen som har utstedt legeattesten, jf. § 7 andre ledd, har også slik underretningsplikt, og kan gi underretningen uten hinder av taushetsplikten, jf. helsepersonelloven § 23 nr. 6.

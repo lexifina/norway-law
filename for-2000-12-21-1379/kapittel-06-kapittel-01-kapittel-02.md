@@ -1,0 +1,4 @@
+# Til § 2.
+Bestemmelsen er noe endret fra tidligere. På samme måte som for medisinsk student ved norsk universitet, gis det ikke noe ubetinget rettskrav på å få lisens. Uttrykket «alle prekliniske fag» sikter til det som er nevnt i § 1 b). Når det gjelder nødvendig studietid vil denne ikke kunne settes kortere enn for studenter ved norsk universitet.
+Som hovedregel vil det være slik at studenter ved utenlandsk universitet må ha mindre enn 1 år igjen til avsluttende eksamen som cand.med. Det er imidlertid åpnet for unntak fra dette, dersom den dokumenterte utdanningen er helt sammenfallende med medisinsk utdanning i Norge. I såfall er det ikke grunn til å gjøre forskjell.
+Det er ikke stilt krav om at studenter ved utenlandsk universitet må ha gjennomgått opplæring i norsk reseptlære og farmakologi. Dette inngår imidlertid i tilleggskurset.
