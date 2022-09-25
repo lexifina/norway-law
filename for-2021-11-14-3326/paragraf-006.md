@@ -1,0 +1,8 @@
+# § 6. Opplysninger som skal registreres
+Medlemsregisteret skal inneholde opplysninger om den registrertes navn, folkeregistrerte bostedsadresse, fødselsnummer, dåp eller innmelding (dato og sted) og tilhørighet til sokn og valgkrets i henhold til folkeregistrert adresse. Medlemsregisteret kan også inneholde opplysninger om familierelasjoner, den registrertes postadresse samt digital kontaktinformasjon.
+Registreringen av kirkelige handlinger skal omfatte følgende opplysninger:
+a) dåp: navn på og fødselsnummer til den døpte, navn på og fødselsnummer til foreldre, navn på faddere samt dato og sted for dåpen. Faddere skal ikke registreres med fødselsnummer. Ved nøddåp og hjemmedåp skal også dato og sted for stadfestelse av dåpen registreres. Ved dåp av person over religiøs myndighetsalder registreres ikke navn på og fødselsnumre til den døptes foreldre.
+b) konfirmasjon: navn på, fødselsnummer til og dåpsdato for konfirmanten samt dato og sted for konfirmasjonen,
+c) vigsel: navn på og fødselsnumre til dem som har inngått ekteskap samt dato og sted for vigselen,
+d) gravferd: navn på og fødselsnummer til avdøde samt dato, sted og ansvarlig sokn for gravferden. Dersom jordpåkastelsen ikke skjer samtidig med resten av gravferdshandlingen, registreres tid og sted for jordpåkastelsen.
+Dersom fødselsnummer til den som skal registreres mangler og vedkommende venter på å få tildelt fødselsnummer, skal registrering av den kirkelige handlingen utsettes til fødselsnummer foreligger. Dersom den registrerte ikke venter på å få tildelt fødselsnummer, skal handlingen registreres på vedkommendes navn.

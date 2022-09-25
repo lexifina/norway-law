@@ -1,0 +1,2 @@
+# § 13. Utfyllende retningslinjer
+Sentral behandlingsansvarlig kan fastsette utfyllende retningslinjer som skal sikre informasjonssikkerhet for opplysninger fra medlemsregisteret. Sentral behandlingsansvarlig fastsetter nærmere regler og rutiner for ajourhold, kontroll og oppdeling av opplysningene i registeret. Rutinene skal ikke kunne endres eller settes ut av funksjon uten særskilt autorisasjon.
