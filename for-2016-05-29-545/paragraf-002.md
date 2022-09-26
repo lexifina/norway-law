@@ -1,0 +1,4 @@
+# § 2. Virkeområde
+Ved pålegg som gjelder husdyr kommer forskriften til anvendelse på eier av husdyr, bygningsmasse og eiendom som har rett til erstatning etter matloven § 22 første og andre ledd, og matloven § 31 jf. forskriften § 7 – § 10.
+Ved pålegg som gjelder egenproduserte planter og plantedeler kommer forskriften til anvendelse på virksomhet som er berettiget produksjonstilskudd etter forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket § 2 og § 4 eller virksomhet som skal levere årsoppgave etter lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) § 15-4, jf. § 2-1.
+Ved pålegg som gjelder skog kommer forskriften til anvendelse på virksomhet som er berettiget tilskudd etter forskrift 4. februar 2004 nr. 447 om miljøtiltak mv. i skogbruket.
