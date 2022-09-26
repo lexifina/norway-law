@@ -1,0 +1,2 @@
+# § 15. Definisjoner
+I forskriften her gjelder følgende definisjoner:Nord-Norge:Nordland, Troms og Finnmark.Vestlandet:Hordaland, Sogn og Fjordane og Møre og Romsdal.Tung rase:Charolais, Simmental, Limousin, Blonde d'Aquitaine samt alle krysninger som inneholder 7/8 eller mer av disse raser.Lett rase:Øvrige raser herunder Aberdeen Angus, Hereford, Høylandsfe, NRF og Tiroler Grauvieh.Sone for distriktstilskudd:Områder slik de er angitt i, eller i medhold av, jordbruksavtalen.

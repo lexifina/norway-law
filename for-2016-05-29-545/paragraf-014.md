@@ -1,0 +1,4 @@
+# § 14. Avkortning, tilbakebetaling og motregning
+Oppfyller den erstatningsberettigede ikke vilkårene som forutsatt ved innvilgning av erstatningen, herunder plikten til å gjennomføre offentlig pålegg, eller dersom den erstatningsberettigede uaktsomt eller forsettlig har gitt feil opplysninger i søknaden som har eller ville dannet grunnlag for urettmessig erstatningsutbetaling, kan erstatningen avkortes og utbetalt erstatning kreves tilbakebetalt.
+Kravet kan motregnes i andre offentlige tilskudd og erstatninger mottakeren får i sin landbruksvirksomhet.
+Dersom tilbakebetaling ikke skjer innen den frist som blir gitt, kan det kreves forsinkelsesrenter i tillegg, jf. lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av den urettmessige erstatningen.

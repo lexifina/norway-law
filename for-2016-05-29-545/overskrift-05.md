@@ -1,0 +1,1 @@
+# Opplysningsplikt, kontroll og avkorting

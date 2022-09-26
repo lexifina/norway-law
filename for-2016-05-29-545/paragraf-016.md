@@ -1,0 +1,2 @@
+# § 16. Fraktkostnader
+Ved beregning av erstatning etter pålagt nedslakting av dyr benyttet eller tiltenkt benyttet i egen avl, erstattes frakt av nye dyr tilbake til eiendommen etter følgende satser:Småfe: 80 kroner per dyr.Storfe: 130 kroner per kalv, 460 kroner per voksne dyr.Gris: 20 kroner per smågris, 260 kroner per voksne dyr.For fjørfe gis det ikke erstatning for frakt av dyr tilbake til eiendommen.
