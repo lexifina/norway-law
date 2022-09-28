@@ -1,0 +1,4 @@
+# § 7
+Når Kjøretøyregisteret har mottatt melding om opphør av trygdeavtale i henhold til bilansvarslova § 19 første ledd og eier av vedkommende motorvogn ikke har sørget for gyldig trafikktrygdavtale eller avregistrering av kjøretøyet, vil dette avmerkes i Kjøretøyregisteret med begjæring om inndragning av kjennemerker. Politiet, Statens vegvesen og tollmyndighetene skal uten videre varsel sørge for inndragningen og straks sende kjennemerkene til en av Statens vegvesens trafikkstasjoner.
+Dersom et avregistrert kjøretøy brukes og ikke er trafikktrygdet jf. bilansvarslova § 15, kan politiet, Statens vegvesen og tollmyndighetene uten videre varsel inndra kjennemerkene og straks sende dem til en av Statens vegvesens trafikkstasjoner, jf. bilansvarslova § 19.
+Dersom motorvognens eier godtgjør at han har oppfylt sin plikt til å holde trafikktrygdeavtalen ved like ved å innbetale fornyelsespremie senest på opphørsdato, skal inndragning ikke foretas.
