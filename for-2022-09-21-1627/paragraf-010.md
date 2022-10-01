@@ -1,0 +1,4 @@
+# § 10. Krav til krengjeprøve
+På fartøy med største lengd under 15 meter kan det i staden for å fylgje krava i NBSY Y3.3 og Y3.4 gjennomførast praktisk krengjeprøve med vekter om bord som svarar til det største talet på personar og last som fartøyet kan ha om bord. Når alle vekter er plasserte på den eine sida av fartøyet på minst gunstige måte, skal krengjevinkelen ikkje vere større enn 10 grader. Krenginga skal ikkje føre til reduksjon i fribordet på meir enn halve fribordet for fartøy som ikkje krengjer. Når endringar på fartøyet påverkar stabiliteten til fartøyet skal reiarlaget gjennomføre ny praktisk krengjeprøve.
+På fartøy med største lengd 15 meter eller meir skal det gjennomførast krengjeprøve for å fastsetje lettskipsdata.
+Krengjeprøva skal bestillast elektronisk og gjennomførast med inspektør frå Sjøfartsdirektoratet til stades.
