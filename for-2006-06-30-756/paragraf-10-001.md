@@ -1,0 +1,2 @@
+# § 10-1. Søknadsskjema
+Utlendingsdirektoratet gir nærmere retningslinjer om hvordan søknad og melding om norsk statsborgerskap skal fremmes. Utlendingsdirektoratet kan herunder kreve at søknaden skal fremmes på fastsatt skjema, eller kan gi adgang til å fremme søknaden elektronisk. Den myndigheten som mottar søknaden, skal påse at den er riktig utfylt og at de nødvendige vedleggene følger søknaden.

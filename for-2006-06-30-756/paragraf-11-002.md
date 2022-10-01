@@ -1,0 +1,2 @@
+# § 11-2. Saksbehandlingen i Utlendingsdirektoratet
+Dersom departementet beslutter at Utlendingsdirektoratets vedtak skal prøves, legges saken frem for direktoratet, som skal foreta de undersøkelser saken gir grunn til. Kommer Utlendingsdirektoratet til at vedtaket er ugyldig, kan direktoratet oppheve det og behandle saken på nytt. Dersom vilkårene for å prøve vedtaket ikke er oppfylt, jf. statsborgerloven § 27 fjerde ledd, skal Utlendingsdirektoratet avvise saken. Utlendingsdirektoratets vedtak om å avvise saken kan ikke påklages.
