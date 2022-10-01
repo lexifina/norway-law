@@ -1,0 +1,2 @@
+# § 11-4. Oversendelse til Utlendingsnemnda
+Dersom Utlendingsdirektoratet ikke treffer avgjørelse som nevnt i § 11-2, skal sakens dokumenter sendes Utlendingsnemnda så snart saken er tilrettelagt. Dersom Utlendingsdirektoratet gir uttalelse til Utlendingsnemnda som den saken gjelder kan kreve å få se uten hinder av forvaltningsloven § 19, skal direktoratet sende kopi til vedkommende. Utlendingsdirektoratet skal også sende kopi av slik uttalelse til departementet.

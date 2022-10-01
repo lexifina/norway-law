@@ -1,0 +1,3 @@
+# § 8-5. Forskere tilknyttet norsk forskningsinstitusjon
+For søker som er forsker tilknyttet norsk forskningsinstitusjon og som har en ledende faglig rolle i en forskergruppe med utstrakt internasjonalt samarbeid, gjelder ikke vilkåret i statsborgerloven § 7 første ledd bokstav e. Søkeren må likevel ha til sammen minst seks års opphold i riket i løpet av de siste tolv årene, med oppholdstillatelser av minst ett års varighet. Opphold i en eller flere søknadsperioder medregnes i seksårsperioden.
+Reglene om oppholdstid i første ledd gjelder også for søker som er ektefelle, registrert partner eller samboer til en person som erverver eller har ervervet statsborgerskap etter første ledd.

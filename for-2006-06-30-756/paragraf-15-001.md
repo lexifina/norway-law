@@ -1,0 +1,2 @@
+# § 15-1. Plikt til å betale gebyr
+Senest samtidig med innlevering av søknad om norsk statsborgerskap og melding om erverv eller gjenerverv av norsk statsborgerskap etter statsborgerloven § 20, § 21 og § 22a skal det betales et saksbehandlingsgebyr, jf. statsborgerloven § 32. Det skal ikke betales gebyr ved søknad om å beholde og søknad om å bli løst fra norsk statsborgerskap. Barn under 18 år er unntatt fra plikten til å betale gebyr. Søker som omfattes av forskriftens § 8-4 er unntatt fra plikten til å betale gebyr.
