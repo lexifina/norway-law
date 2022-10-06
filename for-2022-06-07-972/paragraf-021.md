@@ -1,0 +1,5 @@
+# § 21. Aksept av tilbud
+Innehaver som har mottatt tilbud etter § 20 aksepterer tilbudet ved å returnere fastsatt svarskjema innen fristen fylkeskommunen har satt. Det skal fremgå av tilbudet hvilken fylkeskommune som skal motta skjemaet.
+Ved aksept av tilbud om økt tillatelseskapasitet på eksisterende tillatelser skal kvittering for innbetalt vederlag være vedlagt svarskjema.
+Svarskjema kan sendes med rekommandert brev eller elektronisk. Oppmøte hos den enkelte fylkeskommune, enten personlig eller med sendemann, er også tillatt. Ved oppmøte hos fylkeskommunen skal svarskjema være mottatt hos fylkeskommunen innen kl. 1500 på fristdagen. Er svarskjema ikke mottatt innen fristen, faller tilbudet om kapasitetsøkning bort.
+Dersom det ikke er lagt ved kvittering i henhold til første ledd, skal fylkeskommunen be Fiskeridirektoratet kontrollere om vederlaget likevel er innbetalt innen svarfristens utløp. Dersom det ikke er lagt ved kvittering eller vederlaget ikke er bokført på Fiskeridirektoratet sin konto innen svarfristens utløp, fatter fylkeskommunen vedtak der søknaden om økt kapasitet på tillatelsen avslås.
