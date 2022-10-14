@@ -1,0 +1,3 @@
+# § 7
+Pressen har rett til innsyn i tiltalebeslutninger i straffesaker som er til behandling ved domstolen. Innsynsretten gjelder fra det tidspunkt saken er berammet. Innsynsretten gjelder ikke når det av hensyn til rikets sikkerhet eller forholdet til fremmed stat vil være betenkelig å gi innsyn.
+Ved oversendelse av tiltalebeslutningen til domstolen kan påtalemyndigheten helt eller delvis forby offentlig gjengivelse av tiltalebeslutningen. Forbudet kan gis i den utstrekning påtalemyndigheten i medhold av påtaleinstruksen § 22-7 kan nekte å gi kopi av tiltalebeslutningen. Et slikt forbud begrenser ikke retten til offentlig å gjengi rettsforhandlinger og rettsavgjørelser i henhold til domstolloven § 129 og § 130.
