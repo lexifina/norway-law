@@ -1,0 +1,2 @@
+# § 2-3. Poengberegning og rangering- ved opptak
+Søkere rangeres på bakgrunn av faglig vurdering av gitte oppgaver og innsendte arbeider og § 14–§ 18 i fagskoleforskriften. Dersom flere søkere har lik poengsum, og det er begrenset med studieplasser, gjøres det en helhetlig skjønnsmessig vurdering. Ved flere kvalifiserte søkere enn studieplasser rangeres søkerne og plasseres noen søkere på venteliste. Søkere fra ventelisten går foran søkere som søker opptak på et senere tidspunkt.
