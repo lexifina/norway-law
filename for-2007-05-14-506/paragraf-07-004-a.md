@@ -1,0 +1,4 @@
+# § 7-4a. Elektronisk avkryssing i manntallet på valgdagen
+(1) Longyearbyen lokalstyre kan selv vedta å ta i bruk en ordning med elektronisk avkryssing i manntallet.
+(2) Dersom det er tatt i bruk elektronisk avkryssing etter første ledd, skal stemmestyret krysse av i det elektroniske manntallet for velgere som er manntallsført i Longyearbyen.
+(3) Ved strømbrudd eller kommunikasjonsbrudd med manntallet når elektronisk avkryssing er tatt i bruk, skal senere avgitte stemmesedler ikke legges i urnen. Slike stemmesedler skal behandles som beredskapsstemmer. Etter at stemmeseddelen er stemplet, skal velgeren selv legge den i en stemmeseddelkonvolutt og lime konvolutten igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten i en beredskapskonvolutt sammen med valgkortet. Ved todagersvalg skal eventuelle beredskapsstemmer mottatt på søndag behandles og krysses av i det elektroniske manntallet før valglokalene åpner på mandag.

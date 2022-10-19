@@ -1,0 +1,4 @@
+# § 8-6. Endelig opptelling. Registrering av rettinger på stemmesedlene
+(1) Endelig opptelling tar til umiddelbart etter at foreløpig opptelling er avsluttet og alle stemmene er kommet inn til valgstyret. Den endelige opptellingen skal foretas under valgstyrets tilsyn.
+(2) Stemmesedlene fra den foreløpige opptellingen skal telles på nytt. Valgstyret avgjør om stemmesedler som ikke ble tatt med i den foreløpige opptellingen og stemmegivninger som er lagt i særskilt omslag, skal godkjennes. Godkjente stemmesedler blant disse skal telles sammen med de øvrige stemmesedlene.
+(3) Ved endelig opptelling av stemmesedler registrerer valgstyret også rettinger velgerne har gjort på stemmesedlene. Deretter skal valgstyret finne de enkelte listenes listestemmetall. Hver stemmeseddel teller like mange listestemmer som det skal velges medlemmer til lokalstyret. Tallet korrigeres for listestemmer avgitt til og mottatt fra andre lister.
