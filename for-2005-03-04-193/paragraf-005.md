@@ -1,0 +1,4 @@
+# § 5. Tildeling av strukturkvote
+Dersom et fartøy tas permanent ut av fiske på de vilkår som er fastsatt i forskriften her, kan det gis tillatelse til at de enkelte kvotene i fiskerier som er nevnt i § 3 og som ellers ville blitt tildelt for fiske med dette fartøyet, fiskes med et eller flere andre fartøy i samme fartøygruppe som strukturkvote.
+Strukturkvotene av de ulike fiskeslag, og kvoten av det enkelte fiskeslag, kan fordeles mellom flere fartøy i samme fartøygruppe innenfor de begrensninger som følger av forskriften her.
+Dersom det er stilt krav om særskilt konsesjon eller deltakeradgang for å drive fisket etter fiskeslag som er nevnt under den enkelte fartøygruppe i § 3, kan strukturkvote bare tildeles når både det gjenværende fartøyet og det som tas ut av fiske har slik særskilt konsesjon eller deltakeradgang.

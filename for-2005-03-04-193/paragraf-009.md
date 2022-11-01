@@ -1,0 +1,3 @@
+# § 9. Særlige regler for tildeling av strukturkvote til fartøy i ringnotgruppen
+Før det tildeles strukturkvote til ett eller flere fartøy, skal det foretas avkorting på 10 prosent av den kvoten som ville blitt tildelt for fiske med det fartøyet som tas ut.
+Det kan ikke tildeles mer enn en kvote tilsvarende en kvotefaktor på 850 tonn for fiskeslag som er regulert ved bruk av kvotefaktorer, inkludert fartøyets egen kvotefaktor, for fiske med ett fartøy. Tilsvarende kan det for øvrige fiskeslag ikke tildeles mer enn en kvote tilsvarende to fartøykvoter eller maksimalkvoter, inkludert fartøyets egen kvote.

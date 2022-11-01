@@ -1,0 +1,3 @@
+# § 17. Ikrafttredelse
+Denne forskrift trer i kraft straks.
+Samtidig oppheves følgende forskrifter:Forskrift 30. juni 2000 nr. 648 om enhetskvoteordning og rederikvoteordning for torsketrålflåten.Forskrift 30. juni 2000 nr. 649 om enhetskvoteordning og rederikvoteordning for ringnotflåten.Forskrift 30. juni 2000 nr. 650 om enhetskvoteordning for grønlandsrekeflåten.Forskrift 30. juni 2000 nr. 651 om sammenslåingsordning for småtrålflåten.Forskrift 28. juli 2000 nr. 795 om enhetskvoteordning og rederikvoteordning for konvensjonelle fartøy på eller over 28 meter.Forskrift 2. februar 2001 nr. 104 om enhetskvoteordning for seitrålerne.Forskrift 5. juli 2002 nr. 696 om enhetskvoteordning og rederikvoteordning for fartøy med industritråltillatelse.
