@@ -1,0 +1,2 @@
+# § 2. Sanksjon
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i denne forskrift, kan ilegges overtredelsesgebyr i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressursloven og deltakerloven.
