@@ -1,0 +1,1 @@
+# Vedtaksmyndighet og ikrafttredelse
