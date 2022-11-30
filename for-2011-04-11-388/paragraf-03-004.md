@@ -1,0 +1,5 @@
+# § 3-4. Plattformer m.m.
+Plattformer og adkomst til disse skal være utformet og utstyrt, herunder skiltet og oppmerket, slik at ferdsel til plattform, opphold på plattform og av- og påstigning til tog kan foregå innenfor akseptabel risiko. Ved bygging av nye plattformer og ved vesentlige endringer av eksisterende plattformer skal infrastrukturforvalter sikre universell utforming av plattformene og adkomsten til disse. Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.
+Plattformenes bredde skal være tilpasset antall reisende og hastigheten på passerende tog. Plattformenes lengde skal være tilpasset lengde eller teknisk utrustning på persontog som tillates å stoppe for av- og påstigning.
+Høyde- og avstandsforskjeller mellom tog og plattformer skal minimaliseres slik at passasjerenes sikkerhet ved av- og påstigning ivaretas. Nye plattformer skal ikke legges i kurve med radius under 2000 meter.
+Plattformen og plattformutrustning skal være utformet slik at ombordpersonellet har oversikt langs hele toget ved av- og påstigning.

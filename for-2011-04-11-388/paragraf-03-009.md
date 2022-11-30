@@ -1,0 +1,3 @@
+# § 3-9. Testing av styrings- og kontrollutstyr ved integrering i kjøretøy
+Infrastrukturforvalter skal gjøre sitt ytterste for å tilrettelegge for at jernbaneforetaket kan foreta testing av styrings- og kontrollutstyr (klasse B-utstyr, STM-enheten og ERTMS), ved integrering av dette utstyret i kjøretøy (integrasjonstesting). Klasse B-utstyr som er tillatt i Norge fremgår av forskrift 10. mai 2017 nr. 600 om gjennomføring av den tekniske spesifikasjonen for samtrafikkevnen for delsystemet «styring, kontroll og signal» i det transeuropeiske jernbanesystemet for konvensjonelle tog (TSI-styring, kontroll og signal) vedlegg B.
+Infrastrukturforvalter skal ha utfyllende bestemmelser om slik integrasjonstesting.
