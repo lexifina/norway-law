@@ -1,0 +1,4 @@
+# § 2-4. Drift og vedlikehold av jernbaneinfrastruktur
+Infrastrukturforvalter skal drifte og vedlikeholde jernbaneinfrastrukturen i henhold til nasjonale og internasjonale standarder.
+Infrastrukturforvalter skal ha en vedlikeholdsplan for hver strekning. Vedlikeholdsplanen skal inneholde grenseverdier for alle systemer, deler og komponenter av sikkerhetsmessig betydning som angir når umiddelbare tiltak skal iverksettes. Planen skal videre inneholde en beskrivelse av tiltak som skal gjennomføres når disse grensene er overskredet, samt terminer for vedlikehold og tidspunkt for utskifting av sikkerhetskritiske komponenter. Ved fastsettelse av grenseverdiene skal det blant annet tas hensyn til kjøretøy som tillates brukt på strekningen og strekningens tillatte kjørehastigheter.
+Infrastrukturforvalter skal dokumentere utført vedlikehold.

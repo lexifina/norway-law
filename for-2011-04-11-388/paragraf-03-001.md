@@ -1,0 +1,5 @@
+# § 3-1. Generelle krav til jernbaneinfrastruktur
+Jernbaneinfrastrukturen skal utformes slik at virksomheten drives innenfor akseptabel risiko. Delsystemet infrastruktur, de faste innretninger av delsystemet energi og de faste innretninger av delsystemet styring, kontroll og signal samt de enkelte komponenter i hvert delsystem skal være teknisk og funksjonelt harmonisert.
+Jernbaneinfrastrukturen skal prosjekteres, bygges og testes i henhold til nasjonale og internasjonale standarder. Infrastrukturforvalter skal gjøre en sikkerhetsmessig vurdering av avvik fra valgte standarder. Vurderingen skal dokumenteres.
+Infrastrukturforvalter skal benytte prosesstandarden EN 50126 ved bygging av ny jernbaneinfrastruktur og ved endring av programmerbare tekniske systemer. Ved andre endringer av jernbaneinfrastruktur skal infrastrukturforvalter vurdere om endringen er av en slik karakter at bruk av EN 50126 er hensiktsmessig. Vurderingen skal dokumenteres.
+Infrastrukturforvalter skal benytte standardene EN 50128 og EN 50129 ved anskaffelse av nye signalanlegg og ved endring av elektroniske signalanlegg.
