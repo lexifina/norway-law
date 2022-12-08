@@ -1,0 +1,2 @@
+# § 2-2. Vilkår om støtteberettiget forbruk i område med høy strømpris
+Foretakets støtteberettigede forbruk av strøm og fjernvarme må skje i et strømprisområde hvor gjennomsnittlig elspotpris per kWh for 3. kvartal 2022 er minst doblet sammenlignet med samme periode i 2021. Gjennomsnittlig elspotpris etter første punktum skal beregnes som et aritmetisk gjennomsnitt av alle timepriser i de relevante periodene.
