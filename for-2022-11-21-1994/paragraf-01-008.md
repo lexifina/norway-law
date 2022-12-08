@@ -1,0 +1,8 @@
+# § 1-8. Definisjoner av beregningsrelaterte størrelser
+(1) Med omsetning menes inntekter fra salg av varer som er levert og tjenester som er utført, og som inngår i bedriftens ordinære resultat.
+a) Omsetningen omfatter ikke skatter og avgifter (herunder merverdiavgift) som er direkte knyttet til salget av varer/tjenester.
+b) Ekstraordinære inntekter som ikke har sammenheng med den ordinære virksomheten (som salg av større eiendeler o.l.) anses ikke som omsetning.
+c) Avkastning fra kapital og andre finansielle eiendeler anses ikke som omsetning. Det samme gjelder annen avkastning av fast eiendom enn inntekt ved utleie.
+(2) Som kostnader til strøm eller fjernvarme regnes fakturerte utgifter til strøm eller fjernvarme for den relevante perioden, herunder forbruk, nettleie, avgifter og ev. påslag. Merverdiavgift som er fradragsberettiget for foretaket i merverdiavgiftsoppgjøret kan ikke inngå som kostnader til strøm eller fjernvarme.
+(3) Som forbruk av strøm eller fjernvarme regnes fakturert antall kilowattimer (kWh) forbruk for den relevante perioden.
+(4) Som støtteberettiget pris på strøm regnes gjennomsnittlig fakturert pris i kroner per kWh vektet opp mot forbruk for den relevante perioden, eksklusive nettleie, påslag, fastledd og avgifter. Støtteberettiget pris på strøm skal beregnes som et aritmetisk gjennomsnitt av fakturerte priser gjennom perioden, ved at fakturerte priser for hver av de ulike periodene i tilskuddsperioden multipliseres med forbruket av strøm i samme periode, og summen av disse produktene divideres på samlet forbruk av strøm for hele tilskuddsperioden.
