@@ -1,0 +1,5 @@
+# § 10. Innsyn i graderte dokument
+Ved krav om innsyn i dokument som inneheld materiale som er påført gradering etter sikkerhetsloven eller beskyttelsesinstruksen, skal spørsmål om avgradering leggjast fram for den som har oppretta dokumentet, for avgjerd i samsvar med virksomhetsikkerhetsforskriften § 33 eller beskyttelsesinstruksen § 5. Organet som mottek innsynskravet, kan likevel avslå eit krav om innsyn, utan at spørsmålet om avgradering fyrst har vore lagt fram etter fyrste punktum, dersom
+a) det uavhengig av graderinga ikkje skal givast innsyn i dokumentet, eller
+b) det uavhengig av graderinga kan gjerast unntak frå innsyn i dokumentet, og organet som mottek innsynskravet, finn at meirinnsyn ikkje skal givast.
+Finn det forvaltningsorganet som mottek kravet, grunn til å tru at det ikkje kan gjerast unntak frå innsyn etter offentleglova, eller at ei gradering elles ikkje kan oppretthaldast, skal det følgje prosedyren for omgradering som er fastsett i virksomhetsikkerhetsforskriften § 30 til § 32 eller i beskyttelsesinstruksen § 5.
