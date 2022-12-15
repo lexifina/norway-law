@@ -1,0 +1,8 @@
+# § 14. Tiltak ved virksomhet som driver landbruksmessig primærproduksjon
+Dersom det påvises restmengder av forbudte stoffer i produksjonsdyr, kan hele eller deler av besetningen som produksjonsdyrene stammer fra bli påført et merke.
+Tilsvarende gjelder dersom det gjentatte ganger påvises restmengder av veterinærpreparater over fastsatte grenseverdier i produksjonsdyr fra samme virksomhet.
+Dersom det foreligger mistanke om restmengder av forbudte stoffer, forurensende stoffer eller restmengder av veterinærpreparater over fastsatte grenseverdier i produksjonsdyr, skal dyrene holdes tilbake i besetningen inntil undersøkelse er foretatt og resultatene av kontrollen foreligger.
+Animalske næringsmidler som kan stamme fra produksjonsdyr som nevnt i tredje ledd, skal på tilsvarende måte holdes tilbake.
+Dersom det påvises ulovlig behandling ved en virksomhet, får produksjonsdyrene ikke forlate virksomheten med mindre dette skjer under offentlig tilsyn. Dyrene skal påføres merke, og det skal tas prøver at et statistisk sett representativt utvalg dyr.
+Dersom det etter prøvetaking påvises tilfelle av ulovlig behandling, skal dyr som er funnet å være positive, straks slaktes, enten på stedet eller i henhold til offisiell veterinærattest ved utpekt slakteri eller destruksjonsanlegg. Dyrene skal deretter destrueres. I tillegg skal det for virksomhetens regning tas prøver av hele dyrepartiet som tilhører den kontrollerte virksomheten, og som kan mistenkes.
+Dersom halvdelen eller mer enn halvdelen av prøvene tatt i henhold til paragrafens femte ledd er positive, kan den som er ansvarlig for virksomheten gis valget mellom kontroll av alle dyrene som kan mistenkes på virksomheten, eller avliving av disse dyrene.
