@@ -1,0 +1,2 @@
+# § 14
+Når forholdene er slik som nevnt i § 7 og det på grunn av særlige forhold vil medføre uforholdsmessig eller skadelig forsinkelse av rettergangen å bringe saker inn for Høyesterett, kan Kongen med virkning for hele riket eller for deler av det bestemme at lagmannsretten skal gjøre tjeneste som domstol i siste instans. Slik bestemmelse har den virkning at adgangen til å anvende anke mot avgjørelser av lagmannsrett faller bort, og avgjørelser som allerede er truffet, blir endelige, selv om anke er erklært.

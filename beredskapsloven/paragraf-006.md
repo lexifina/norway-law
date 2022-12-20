@@ -1,0 +1,3 @@
+# § 6
+På krigsskueplassen kan de militære myndigheter overta den øverste ledelse av politiet og kan i så fall om nødvendig midlertidig sette politiets embets- og tjenestemenn ut av virksomhet. Kongen kan bestemme at alt politi, enkelte politikorps eller politiet i visse distrikter skal innlemmes i de militære styrker. I den utstrekning det anses nødvendig for å fremme og trygge militære tiltak kan de militære myndigheter overta ledelsen også av andre sivile forvaltningsgrener. Sivile tjenestemenn og ombud i stat og kommune skal gi de militære myndigheter den hjelp som forlanges.
+Kongen gir nærmere regler om hvilke områder skal regnes for krigsskueplass.
