@@ -1,0 +1,5 @@
+# § 8. Organiseringen av et europeisk samvirkeforetak etter to-nivåsystemet
+For et europeisk samvirkeforetak som er organisert etter to-nivåsystemet etter SE-forordningen artikkel 37 til 41, gjelder reglene i samvirkeloven kapittel 6 og andre regler i samvirkeloven om foretakets ledelse så langt de passer, og såfremt noe annet ikke følger av SCE-forordningen. For ledelsesorganet gjelder samvirkelovens regler om styret tilsvarende så langt de passer, og for kontrollorganet gjelder samvirkelovens regler om kontrollkomiteen tilsvarende så langt de passer. Foretaket skal ha en daglig leder med mindre vedtektene bestemmer noe annet. For den daglige lederen gjelder samvirkelovens regler om daglig leder tilsvarende så langt de passer.
+Ledelsesorganet skal ha minst tre medlemmer.
+Det kan fastsettes i vedtektene at medlemmer av ledelsesorganet skal oppnevnes og avsettes av generalforsamlingen, jf. SCE-forordningen artikkel 37 nr. 2 annet ledd.
+Et medlem av kontrollorganet som ivaretar vervet til et medlem av ledelsesorganet etter SCE-forordningen artikkel 37 nr. 3, kan gjøre dette for en tidsperiode som ikke må være lengre enn to måneder.
