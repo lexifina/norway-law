@@ -1,0 +1,2 @@
+# § 9. Registreringsplikt, innsynsrett.
+Forsikringsgiverne skal registrere krav som følge av yrkesskade og yrkessykdom. Offentlige myndigheter, arbeidstaker- og arbeidsgiverorganisasjoner kan kreve innsyn i registeret for bruk i skadeforebyggende arbeid. Kongen kan gi nærmere regler om registreringen, herunder om at opplysninger av personlig karakter ikke skal registreres, og om taushetsplikt overfor andre enn dem som etter annet punktum har innsynsrett.

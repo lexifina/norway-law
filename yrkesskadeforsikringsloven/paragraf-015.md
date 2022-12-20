@@ -1,0 +1,4 @@
+# § 15. Foreldelse.
+Arbeidstakerens krav mot forsikringsgiveren etter loven foreldes etter tre år. Fristen begynner å løpe ved utløpet av det kalenderår da arbeidstakeren fikk eller burde skaffet seg nødvendig kunnskap om det forhold som begrunner kravet.
+Foreldelsesfristene i forsikringsavtaleloven og foreldelsesloven av 18. mai 1979 nr. 18 § 9 gjelder ikke. For øvrig gjelder reglene i foreldelsesloven så langt de passer.
+Krav som er meldt til selskapet før foreldelsesfristen er utløpt, foreldes tidligst seks måneder etter at arbeidstakeren har fått særskilt skriftlig melding om at foreldelse vil bli påberopt. Lov 16. juni 1989 nr. 69 om forsikringsavtaler § 20-3 gjelder tilsvarende. Meldingen må angi hvordan foreldelse avbrytes. Foreldelsesfristen forlenges ikke etter bestemmelsen her dersom det er gått mer enn 10 år fra kravet ble meldt til selskapet.
