@@ -1,0 +1,2 @@
+# § 21. Informasjon
+Forvaltningsorganet skal sørge for at enhver, i den utstrekning det er nødvendig, får tilsvarende informasjon som nevnt i § 17 og § 19 tredje ledd i forbindelse med anskaffelse av sertifikat eller, hvis det ikke er mulig, ved første gangs bruk av slike tjenester ved kommunikasjon med et forvaltningsorgan. Forvaltningsorganet skal på samme måte informere publikum om at håndtering av signaturfremstillingsdata, passord/PIN-koder og dekrypteringsnøkkel skal skje i henhold til § 22 og § 25.

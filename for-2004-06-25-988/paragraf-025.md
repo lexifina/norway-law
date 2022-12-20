@@ -1,0 +1,2 @@
+# § 25. Varslingsplikt ved tap eller mistanke om misbruk av signaturfremstillingsdata, passord/PIN-koder og dekrypteringsnøkkel
+Innehaver av signaturfremstillingsdata skal straks varsle sertifikatutsteder eller den som ellers er utpekt til å motta varsel, dersom det oppstår mistanke om at signaturfremstillingsdata er tapt, kommet på avveie eller på annen måte blir eller kan bli misbrukt. Det samme gjelder for bruk av passord/PIN-koder o.l. og dekrypteringsnøkkel.
