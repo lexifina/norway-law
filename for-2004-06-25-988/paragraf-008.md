@@ -1,0 +1,10 @@
+# § 8. Bruk av elektronisk kommunikasjon ved meddelelser fra et forvaltningsorgan, herunder underretning om enkeltvedtak mv.
+Et forvaltningsorgan kan benytte elektronisk kommunikasjon når det henvender seg til andre.
+Innholdet i enkeltvedtaket skal gjøres tilgjengelig i egnet informasjonssystem. Dersom parten ber om det, det ikke er hensiktsmessig å kommunisere digitalt med parten via egnet informasjonssystem, det er forsvarlig og annet regelverk ikke er til hinder for dette, kan vedtaket likevel sendes til en elektronisk adresse parten oppgir.
+Forvaltningsorganet skal sørge for at varsel om at enkeltvedtak er fattet blir sendt parten, og om hvor og hvordan vedkommende kan skaffe seg kunnskap om innholdet. For privatpersoner eller enheter som ikke er registrert i Enhetsregisteret, skal den varslingsadresse som er registrert i register over digital kontaktinformasjon og reservasjon benyttes. For enheter som er registrert i Enhetsregisteret skal en oppdatert elektronisk adresse som enheten har oppgitt benyttes for å sende varsel.
+Forvaltningsorganet skal forebygge risiko for uberettiget innsyn i enkeltvedtak på en tilfredsstillende måte.
+Informasjonssystemet skal registrere tidspunktet for når parten har skaffet seg tilgang til enkeltvedtaket, og data som bekrefter at vedkommende har rett til å gjøre seg kjent med vedtaket. Har parten ikke skaffet seg tilgang til enkeltvedtaket innen én uke fra det tidspunktet vedtaket ble gjort tilgjengelig, og varsel ble sendt, skal parten varsles en gang til i samsvar med tredje ledd. Første og annet punktum gjelder ikke dersom vedtaket er sendt en elektronisk adresse mottaker oppgir jf. annet ledd annet punktum.
+Det som gjelder enkeltvedtak i annet til femte ledd ovenfor, gjelder tilsvarende for;
+a) forhåndsvarsel etter forvaltningsloven § 16,
+b) for andre meldinger som har betydning for vedkommendes rettsstilling eller for behandlingen av saken, og
+c) for meldinger som det av andre grunner er av særlig betydning å sikre at vedkommende mottar.

@@ -1,0 +1,2 @@
+# § 35. Om forholdet til personopplysningsloven og personopplysningsforskriften
+Bestemmelsene i lov 15. juni 2018 nr. 38 om behandling av personopplysninger (personopplysningsloven) og forordning (EU) 2016/679 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger gjelder for behandlingen av personopplysninger om digital kontaktinformasjon og reservasjon.

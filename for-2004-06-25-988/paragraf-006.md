@@ -1,0 +1,4 @@
+# § 6. Bekreftelse på at en henvendelse er mottatt
+Et forvaltningsorgan som mottar henvendelser i elektronisk form skal gi bekreftelse til avsender om at en henvendelse er mottatt.
+Bekreftelse bør gis straks henvendelsen er mottatt. Den bør inneholde et referansenummer eller lignende og angi på hvilket tidspunkt henvendelsen ble mottatt.
+Forvaltningsorganet kan unnlate å sende bekreftelse, hvis henvendelsen er av en slik art at den ikke utløser saksbehandling, eller mottaket fremgår på annen betryggende måte, og ved bruk av automatiserte systemer der henvendelsen straks blir besvart. Forvaltningsorganet kan også inngå avtale med næringsdrivende og med andre forvaltningsorganer om ikke å sende egen bekreftelse etter denne bestemmelsen i forbindelse med rutinemessig eller periodisk rapportering.

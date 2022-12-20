@@ -1,0 +1,5 @@
+# § 36. Koordinerende organ
+Kongen kan utpeke et organ som har koordineringsansvar for forvaltningens bruk av sikkerhetstjenester og -produkter ved elektronisk kommunikasjon med og i forvaltningen.
+Koordineringsorganet skal utarbeide krav til sikkerhetstjenester og -produkter som anbefales brukt ved elektronisk kommunikasjon med og i forvaltningen. Koordineringsorganet skal også vurdere om tilgjengelige sikkerhetstjenester eller -produkter tilfredsstiller kravene.
+Koordineringsorganet kan bestemme at det under tjeneste for forvaltningsorganer kun skal benyttes sertifikater fra sertifikatutstedere som har inngått rammeavtale om levering av slike tjenester til forvaltningen eller som er anerkjent av koordineringsorganet.
+Koordineringsorganet kan bestemme at det ved elektronisk kommunikasjon med og i forvaltningen bare skal benyttes sertifikater som er oppført på liste publisert i henhold til forskrift 21. november 2019 nr. 1578 om selvdeklarasjon av ordninger for elektronisk identifikasjon (selvdeklarasjonsforskriften) § 13 første ledd.

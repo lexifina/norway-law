@@ -1,0 +1,4 @@
+# § 14. Forvaltningsorganets adgang til å nekte bruk av elektronisk kommunikasjon
+Hvis det er grunn til å anta at noen misbruker adgangen til elektronisk kommunikasjon med forvaltningsorganet, kan vedkommende helt eller delvis nektes videre bruk av slik kommunikasjon med forvaltningsorganet.
+Før adgangen til å nekte bruk av elektronisk kommunikasjon med forvaltningsorganet iverksettes, skal forvaltningsorganet sende vedkommende varsel om at det vurderer å nekte videre bruk av slik kommunikasjon og begrunnelsen for dette. Vedkommende skal oppfordres til å uttale seg om grunnlaget for avgjørelsen. Forvaltningsorganet skal sette en frist for slik uttalelse. Hvis det finnes nødvendig av sikkerhetsmessige årsaker kan forvaltningsorganet iverksette avgjørelsen straks.
+Den som blir nektet bruk av elektronisk kommunikasjon etter første ledd kan påklage avgjørelsen. Reglene i forvaltningsloven kap. VI gjelder tilsvarende så langt de passer.
