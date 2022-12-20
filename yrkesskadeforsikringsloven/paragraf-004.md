@@ -1,0 +1,5 @@
+# § 4. Nærmere om yrkesskadeforsikringen.
+Yrkesskadeforsikring skal tegnes i et forsikringsselskap eller i en forsikringspool av solidarisk ansvarlige forsikringsselskaper. Forsikringsgivere må godkjennes av Kongen. Kravet om godkjenning gjelder ikke for forsikringsgivere som har hovedsete i en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde, og som er godkjent i sitt hjemland. Forsikringsvilkårene må meddeles Kongen før de anvendes.
+Forsikringsvilkårene og annen nødvendig informasjon om forsikringsforholdet må foreligge på norsk. Forsikringsgivere skal motta og besvare henvendelser fra arbeidstakere om erstatning etter loven, på norsk. Arbeidstakeren kan kreve at erstatning etter loven utbetales i norsk valuta.
+Yrkesskadeforsikringen skal i forholdet mellom forsikringsgiveren og forsikringstakeren anses som en ansvarsforsikring, selv om forsikringstakeren selv ikke er ansvarlig for de skader som dekkes av loven.
+Forsikringsgivere som tilbyr forsikring etter loven, må være tilsluttet en forening av slike forsikringsgivere (Yrkesskadeforsikringsforeningen). Foreningen skal ha vedtekter som er godkjent av Kongen.
