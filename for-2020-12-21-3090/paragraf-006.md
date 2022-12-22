@@ -1,0 +1,2 @@
+# § 6. Kontroll av salgslagene og den avgiftspliktige
+Fiskeridirektoratet skal føre kontroll med at salgslagene sender terminoppgaver og foretar innbetalinger i samsvar med reglene og de pålegg som er gitt. Fiskeridirektoratet kan foreta bokettersyn hos den som foretar oppgjør av avgiften og kan kreve framlagt terminoppgaver, regnskapsmateriale og andre dokumenter som har betydning for kontrollen.
