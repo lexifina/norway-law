@@ -1,0 +1,5 @@
+# § 23. Krav til utlegg og inspeksjon av forankringssystem
+Utlegg av forankringssystem skal dokumenteres i en utleggsrapport. Utleggsrapporten skal dokumentere forankringssystemets utforming og egenskaper, samt resultater fra holdekrafttest av bunn-/landfester.
+Inspeksjon av forankringssystem skal foretas etter holdekrafttest og før utstedelse av anleggssertifikat, og skal dokumenteres i en rapport for forankringsinspeksjon. Rapport for forankringsinspeksjon skal dokumentere forankringssystemets tilstand, om konstruksjonsdelene er montert i henhold til brukerhåndbok, samt bunn-/landfestenes posisjoner.
+Det skal til enhver tid være samsvar mellom utlagt forankringssystem og forankringsanalyse, jf. § 22. Erklæring av samsvar skal inngå i dokumentasjon av forankringsanalyse etter utlegg og inspeksjon av forankringssystem. Ved endringer av forankringssystemet utover eventuelle toleranser i forankringsanalysen, skal det gjennomføres en ny forankringsanalyse for å dokumentere samsvar.
+Utleggsrapport og rapport for forankringsinspeksjon skal være tilgjengelig på akvakulturanlegget rapporten gjelder for, eller på anleggets tilhørende landbase.
