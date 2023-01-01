@@ -10,9 +10,10 @@ b) etablere og drifte barnevernsinstitusjoner etter denne loven, som også kan h
 c) godkjenne barnevernsinstitusjoner i samsvar med § 10-17, sentre for foreldre og barn i samsvar med § 10-21 og omsorgssentre for enslige mindreårige asylsøkere i samsvar med § 11-5
 d) tilby veiledet praksis i institusjon når en utdanningsinstitusjon ber om det, og samarbeide med utdanningsinstitusjonen om gjennomføring av veiledet praksis.
 Barne-, ungdoms- og familieetaten kan tilby barnevernstjenesten
-a) utredning av omsorgssituasjonen til barn i alderen 0 til 6 år dersom det er stor usikkerhet ved om et barn utsettes for alvorlig omsorgssvikt
+a) utredning av omsorgssituasjonen til barn i alderen 0-6 år dersom det er stor usikkerhet ved om et barn utsettes for alvorlig omsorgssvikt
 b) hjelpetiltak i etterkant av utredning etter bokstav a når det er nødvendig for at barnet skal få forsvarlig hjelp
-c) spesialiserte hjelpetiltak i hjemmet dersom slike tiltak kan forhindre at barn blir plassert utenfor hjemmet.
+c) spesialiserte hjelpetiltak i hjemmet der dette kan forhindre plassering utenfor hjemmet
+d) tverrfaglig helsekartlegging dersom barnevernstjenesten har besluttet å fremme sak for barneverns- og helsenemnda eller nemnda har truffet vedtak om plassering utenfor hjemmet etter §§ 5-1, 6-1 eller 6-2, eller ved vedtak om frivillig plassering etter § 3-2.
 For å oppfylle plikten til å bistå kommunene etter annet ledd skal barne-, ungdoms- og familieetaten ha et tiltaksapparat som er tilgjengelig og tilstrekkelig differensiert.
 Barne-, ungdoms- og familieetaten skal gjennomføre internkontroll for å sikre at oppgavene utføres i samsvar med de kravene som er fastsatt i loven eller i medhold av loven. Internkontrollen skal være systematisk og tilpasset virksomhetens egenart, aktiviteter og risikoforhold. Etaten skal også kunne redegjøre for hvordan kravene oppfylles. Departementet kan gi forskrift om internkontroll.
 Departementet kan gi forskrift om barne-, ungdoms- og familieetatens myndighet, oppgaver og organisering på sentralt, regionalt og lokalt nivå.
