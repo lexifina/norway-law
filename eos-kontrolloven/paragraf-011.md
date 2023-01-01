@@ -1,0 +1,4 @@
+# § 11. Taushetsplikt mv.
+Med de unntak som følger av §§ 14 til 16, har utvalget og dets sekretariat taushetsplikt.
+Utvalgets medlemmer og sekretariat er bundet av regler om behandling av dokumenter mv. som må beskyttes av sikkerhetsmessige grunner. De skal være sikkerhetsklarert og autorisert for høyeste sikkerhetsgrad nasjonalt og etter traktat Norge er tilsluttet. Stortingets administrasjon er klareringsmyndighet for utvalgets medlemmer og sekretariat. Stortingets presidentskap er klagemyndighet for avgjørelser truffet av Stortingets administrasjon. Autorisasjon av utvalgets medlemmer og sekretariat gjelder i samme utstrekning som utvalget har innsynsrett etter § 8.
+Hvis utvalget er i tvil om graderingen av opplysninger i uttalelse eller meldinger, eller mener at av- eller nedgradering bør skje, forelegger det spørsmålet for vedkommende etat eller departement. Forvaltningens avgjørelse er bindende for utvalget.

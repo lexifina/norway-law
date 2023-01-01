@@ -1,0 +1,7 @@
+# § 14. Generelt om kontrollen og uttalelser
+EOS-utvalget har rett til å uttale sin mening om forhold som omfattes av kontrollområdet.
+Utvalget kan påpeke at det er gjort feil eller utvist forsømmelige forhold i tjenestene. Kommer utvalget til at en avgjørelse må anses ugyldig eller klart urimelig, eller klart strider mot god forvaltningspraksis, kan det gi uttrykk for dette. Mener utvalget at det knytter seg begrunnet tvil til forhold av betydning i saken, kan det gjøre vedkommende tjeneste oppmerksom på dette.
+Blir utvalget oppmerksom på mangler ved lover, administrative forskrifter eller administrativ praksis, kan det gi vedkommende departement underretning om det. Utvalget kan også foreslå forbedringer i administrative og organisatoriske ordninger og rutiner når det kan tjene til å lette kontrollen eller verne mot at noens rettigheter krenkes.
+Før det gis uttalelse i saker som kan ende med kritikk eller meningsytringer rettet mot forvaltningen, skal den ansvarlige sjef gis anledning til å uttale seg om de spørsmål saken reiser.
+Uttalelser til forvaltningen rettes til sjefen for vedkommende tjeneste eller organ eller til forsvarssjefen eller vedkommende departement hvis det gjelder forhold disse bør kjenne til som instruksjons- og kontrollmyndighet.
+Ved uttalelser som gir oppfordring til å iverksette tiltak eller treffe beslutninger, skal mottakeren bes om å gi tilbakemelding om hva som blir foretatt.
