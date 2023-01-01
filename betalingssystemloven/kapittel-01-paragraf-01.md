@@ -1,0 +1,4 @@
+# § 1-1. Betalingssystemer
+Med betalingssystem menes systemer for overføring av midler med formelle og standardiserte ordninger og felles regler for behandling, avregning eller oppgjør av betalingstransaksjoner. I et betalingssystem inngår interbanksystem eller systemer for betalingstjenester.
+Som interbanksystem regnes systemer basert på felles regler for avregning, oppgjør eller overføring av penger mellom kredittinstitusjoner.
+Som systemer for betalingstjenester regnes systemer basert på standardvilkår for overføring av penger fra eller mellom kundekonti i banker eller andre som kan yte betalingstjenester etter finansforetaksloven § 2-3 første ledd når overføringene bygger på bruk av betalingskort, tallkoder eller annen form for selvstendig brukerlegitimasjon utstedt til en ubestemt krets.

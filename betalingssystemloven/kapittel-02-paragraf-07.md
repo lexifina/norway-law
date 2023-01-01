@@ -1,0 +1,2 @@
+# § 2-7. Adgangen til å delta i interbanksystemer
+Kredittinstitusjoner som har adgang til å drive virksomhet her i riket har rett til å bli medlem i interbanksystemer og til å bruke disse i samsvar med fastsatte tariffer og alminnelige forretningsvilkår. Dette gjelder ikke hvis konsesjon er gitt og avtalen for interbanksystemet fastsetter at det skal gjelde særlige vilkår for tilknytning til eller deltakelse i systemet.
