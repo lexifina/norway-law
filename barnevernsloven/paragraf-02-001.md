@@ -1,0 +1,3 @@
+# § 2-1. Barnevernstjenestens gjennomgang av bekymringsmeldinger
+Barnevernstjenesten skal gjennomgå innkomne bekymringsmeldinger snarest, og senest innen en uke etter at de er mottatt. Barnevernstjenesten skal vurdere om en bekymringsmelding skal følges opp med en undersøkelse etter § 2-2. Barnevernstjenesten skal vurdere om en bekymringsmelding krever umiddelbar oppfølging.
+Dersom barnevernstjenesten henlegger en bekymringsmelding uten undersøkelse, skal den begrunne henleggelsen skriftlig. Begrunnelsen skal inneholde faglige vurderinger. Henleggelse av åpenbart grunnløse bekymringsmeldinger trenger ikke å begrunnes.

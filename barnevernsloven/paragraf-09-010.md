@@ -1,0 +1,2 @@
+# § 9-10. Tilsyn med barn i fosterhjem
+Kommunen der fosterhjemmet ligger, har ansvar for å føre tilsyn med barnets situasjon i fosterhjemmet. Kommunen skal føre tilsyn med hvert enkelt barn i fosterhjemmet fra plasseringstidspunktet og frem til barnet fyller 18 år. Formålet med tilsynet er å kontrollere at barnet får forsvarlig omsorg i fosterhjemmet, og at forutsetningene for plasseringen blir fulgt opp. Kommunen skal sørge for at de som skal utøve tilsynet får nødvendig opplæring og veiledning.

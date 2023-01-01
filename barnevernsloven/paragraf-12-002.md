@@ -1,0 +1,3 @@
+# § 12-2. Foreldres partsrettigheter og barnevernstjenestens plikt til å gi informasjon om vedtak
+Barnevernstjenesten skal alltid vurdere om foreldrene er part i saken, jf. forvaltningsloven § 2 bokstav e. Dette gjelder også når foreldrene ikke bor sammen.
+Barnevernstjenesten skal informere foreldre med foreldreansvar om alle vedtak som treffes. Lovbestemt taushetsplikt er ikke til hinder for at barnevernstjenesten gir slik informasjon. Barnevernstjenesten kan unnlate å informere foreldre med foreldreansvar om vedtak dersom det kan utsette barnet eller andre personer for fare eller skade. Informasjon om vedtak kan også unnlates i saker der forelderen ikke er tilgjengelig.

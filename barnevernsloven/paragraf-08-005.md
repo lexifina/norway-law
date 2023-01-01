@@ -1,0 +1,3 @@
+# § 8-5. Oppfølging etter vedtak om hjelpetiltak til ungdom over 18 år
+Barnevernstjenesten skal følge med på hvordan det går med ungdom som mottar hjelpetiltak etter at de har fylt 18 år. Barnevernstjenesten skal systematisk og regelmessig vurdere om hjelpen fungerer etter hensikten, om det er behov for nye tiltak, eller om tiltaket bør opphøre. Dersom ungdommen ønsker det, skal barnevernstjenesten som en del av oppfølgingen formidle kontakt med øvrige hjelpeinstanser.
+Barnevernstjenesten skal utarbeide en plan for tiltakene og oppfølgingen av ungdom som mottar hjelpetiltak etter fylte 18 år. Planen skal beskrive hva som er målet med hjelpetiltakene, innholdet i tiltakene, og hvor lenge tiltakene er ment å vare. Planen skal endres dersom ungdommens behov tilsier det.

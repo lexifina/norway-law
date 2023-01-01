@@ -1,0 +1,3 @@
+# § 11-3. Utredning og oppfølging av barnet
+Omsorgssenteret skal utrede barnets situasjon og behov og utarbeide et forslag til oppfølging av barnet mens det oppholder seg i senteret. Forslaget skal oversendes barne-, ungdoms- og familieetaten senest tre uker etter at barnet har ankommet senteret. Senest seks uker etter at barnet er kommet til senteret, skal barne-, ungdoms- og familieetaten treffe vedtak om hvordan barnet skal følges opp i senteret.
+Omsorgssenteret og barne-, ungdoms- og familieetaten skal følge barnets utvikling nøye. Dersom barnets behov for oppfølging endrer seg vesentlig, skal det om nødvendig treffes nytt oppfølgingsvedtak.

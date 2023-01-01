@@ -1,0 +1,2 @@
+# § 16-4. Samarbeid med institusjoner som hører inn under andre lover
+Når barnevernstjenesten vurderer å plassere barn i institusjoner som er regulert av en annen lov, skal barne-, ungdoms- og familieetaten sørge for at det blir etablert et samarbeid med barnevernstjenesten og disse institusjonene. Kongen kan gi regler om samarbeidsordninger, herunder regler om plikt til å delta i slike ordninger.

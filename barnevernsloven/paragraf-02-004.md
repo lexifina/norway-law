@@ -1,0 +1,2 @@
+# § 2-4. Oppfølging av gravid rusmiddelavhengig etter melding fra kommunen
+Når kommunen gir melding om at en gravid rusmiddelavhengig uten eget samtykke er tatt inn på institusjon og holdes tilbake der, jf. helse- og omsorgstjenesteloven § 10-3 syvende ledd, kan barnevernstjenesten åpne barnevernssak uten den gravides samtykke. Barnevernstjenesten kan også tilby frivillige hjelpetiltak og vurdere behovet for å iverksette tiltak etter fødselen.

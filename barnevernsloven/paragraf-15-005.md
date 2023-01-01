@@ -1,0 +1,6 @@
+# § 15-5. Ansvaret for å reise sak
+Kommunen der barnet oppholder seg, har ansvaret for å reise sak for barneverns- og helsenemnda etter §§ 3-7, 3-8, 5-1, 6-2 og 6-6. Når det er truffet vedtak etter kapittel 4 om akuttiltak, har kommunen der barnet oppholdt seg da vedtaket ble truffet, ansvar for å reise sak etter første punktum. En sak er reist når begjæring om tiltak er sendt til nemnda.
+Den kommunen som har sendt begjæring om tiltak til nemnda, har ansvaret for saken selv om barnets tilknytning til kommunen endrer seg i tidsrommet fra begjæringen om tiltak er sendt nemnda, og til vedtaket er truffet. Ansvaret for saken bortfaller dersom den kommunen som har reist saken, ikke får medhold i saken.
+Den kommunen som har sendt begjæring om tiltak til nemnda, har ansvaret for saken selv om barnet oppholder seg i en annen stat.
+Den kommunen som har reist saken, har ansvaret for gjennomføring og oppfølging av vedtaket. Kommunen har ansvaret for saken selv om barnets tilknytning til kommunen skulle endre seg. Dette gjelder også når det er truffet vedtak etter §§ 3-2 og 6-1.
+Kommunen kan avtale med en annen kommune som barnet har tilknytning til, at ansvaret for å reise sak, gjennomføre og følge opp vedtaket overføres til denne kommunen.

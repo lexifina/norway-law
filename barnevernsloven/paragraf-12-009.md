@@ -1,0 +1,4 @@
+# § 12-9. Klage til statsforvalteren over barnevernstjenestens og barne-, ungdoms- og familieetatens vedtak
+Barnevernstjenestens vedtak kan påklages til statsforvalteren. Det samme gjelder barne-, ungdoms- og familieetatens vedtak om oppfølging etter § 11-3. Også avgjørelse om individuell plan etter § 15-10 kan påklages til statsforvalteren.
+Statsforvalteren kan prøve alle sider av vedtaket. Når klager på barnevernstjenestens vedtak behandles, skal statsforvalteren legge vekt på hensynet til det kommunale selvstyret ved prøving av det frie skjønnet. Dersom et vedtak som gir klageren medhold, ikke kan settes i verk straks, kan statsforvalteren bestemme at det skal settes i verk midlertidige tiltak som kan dekke det øyeblikkelige behovet.
+Første ledd gjelder ikke saker som kan påklages til barneverns- og helsenemnda etter kapittel 14.

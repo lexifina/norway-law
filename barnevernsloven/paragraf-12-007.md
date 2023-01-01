@@ -1,0 +1,3 @@
+# § 12-7. Bruk av sakkyndige
+Barnevernstjenesten kan engasjere sakkyndige til å utarbeide sakkyndigrapport i saken. Alle sakkyndigrapporter skal sendes barnesakkyndig kommisjon for vurdering. Rapporter må være vurdert av kommisjonen før den kan legges til grunn for vedtak om tiltak etter loven. Dette gjelder likevel ikke for vedtak om akuttiltak etter kapittel 4. Sakkyndigrapporter skal være vurdert av kommisjonen også før de legges til grunn for barnevernstjenestens beslutning om å henlegge en sak etter undersøkelse, jf. § 2-5.
+Departementet kan gi forskrift om krav til sakkyndiges mandater, rapporter og egenerklæringer.

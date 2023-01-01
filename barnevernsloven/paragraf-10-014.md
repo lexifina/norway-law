@@ -1,0 +1,6 @@
+# § 10-14. Saksbehandling og klage
+Avgjørelser om bruk av tvang eller inngrep i barnets personlige integritet etter §§ 10-7, 10-8, 10-9 og 10-11 er enkeltvedtak. Avgjørelsene skal i tillegg protokollføres, sendes barnevernstjenesten og forelegges statsforvalteren.
+Avgjørelser om rusmiddeltesting etter § 10-10 skal protokollføres og begrunnes. Protokollen skal sendes barnevernstjenesten og forelegges statsforvalteren. Tilbakeføring etter § 10-12 første ledd skal dokumenteres. Tilbakeføring mot barnets vilje etter § 10-12 annet ledd skal i tillegg protokollføres og begrunnes. Protokollen skal sendes barnevernstjenesten og forelegges statsforvalteren.
+Barnet og foreldrene kan klage direkte til statsforvalteren på enkeltvedtak og brudd på bestemmelser i kapittel 10 om rettigheter og bruk av tvang på institusjon. Statsforvalteren skal også behandle andre muntlige og skriftlige henvendelser fra barnet og foreldrene om andre forhold som gjelder oppholdet på institusjonen.
+Klager behandles etter reglene i forvaltningsloven og statsforvalteren kan prøve alle sider av saken. Institusjonen skal informere barnet og foreldrene om adgangen til å klage. Hvis barnet ønsker det, skal institusjonen bistå med å utforme og oversende klager.
+Departementet kan gi forskrift om saksbehandling og klagebehandling ved institusjonsopphold.

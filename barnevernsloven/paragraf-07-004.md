@@ -1,0 +1,2 @@
+# § 7-4. Begjæring om ny vurdering fra barneverns- og helsenemnda
+De private parter kan ikke kreve at barneverns- og helsenemnda behandler en sak om samvær de første 18 månedene etter at nemnda eller domstolen har avsagt endelig eller rettskraftig avgjørelse i saken. De private partene kan likevel kreve at nemnda behandler en slik sak på et tidligere tidspunkt dersom det foreligger opplysninger om vesentlige endringer i barnets eller partenes situasjon som kan ha betydning for samværsspørsmålet.

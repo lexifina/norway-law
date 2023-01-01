@@ -1,0 +1,5 @@
+# § 1-4. Barnets rett til medvirkning
+Et barn som er i stand til å danne seg egne meninger, har rett til å medvirke i alle forhold som vedrører barnet etter denne loven. Barn har rett til å uttale seg til barnevernet uavhengig av foreldrenes samtykke, og uten at foreldrene informeres om samtalen på forhånd. Barnet skal få tilstrekkelig og tilpasset informasjon og har rett til fritt å gi uttrykk for sine meninger. Barnet skal bli lyttet til, og barnets meninger skal vektlegges i samsvar med barnets alder og modenhet.
+Barn skal informeres om hva opplysninger fra barnet kan brukes til og hvem som kan få innsyn i disse opplysningene. Barnet har rett til å uttale seg før det bestemmes at opplysningene skal deles, og barnets syn skal tillegges vekt i samsvar med dets alder og modenhet.
+Et barn kan i møter med barnevernet gis anledning til å ha med seg en person som barnet har særlig tillit til. Tillitspersonen kan pålegges taushetsplikt.
+Departementet kan gi forskrift om medvirkning og om tillitspersonens oppgaver og funksjon.

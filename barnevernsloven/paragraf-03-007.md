@@ -1,0 +1,2 @@
+# § 3-7. Vedtak om medisinsk undersøkelse og behandling
+Dersom det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade, og foreldrene ikke sørger for at barnet kommer til undersøkelse eller behandling, kan barneverns- og helsenemnda vedta at barnet med bistand fra barnevernstjenesten skal undersøkes av lege, eller bringes til sykehus for å bli undersøkt. Nemnda kan også vedta at et barn med en slik sykdom eller skade skal behandles på sykehus eller i hjemmet i samsvar med anvisning fra lege.

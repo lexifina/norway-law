@@ -1,0 +1,6 @@
+# § 13-5. Barnevernets opplysningsplikt
+Barnevernstjenesten skal på eget initiativ gi opplysninger til helse- og omsorgstjenesten i kommunen når det er grunn til å tro at en gravid kvinne misbruker rusmidler på en slik måte at det er overveiende sannsynlig at barnet vil bli født med skade, jf. helse- og omsorgstjenesteloven § 10-3. Taushetsplikten er ikke til hinder for at slike opplysninger gis. Barnevernstjenesten plikter å gi slike opplysninger også etter pålegg fra de organene som er ansvarlige for gjennomføringen av helse- og omsorgstjenesteloven.
+Barnevernstjenesten skal uten hinder av taushetsplikt gi informasjon til politiet om at det er truffet vedtak om skjult adresse i samsvar med denne loven. Barnevernstjenesten skal gi informasjon til politiet så snart som mulig.
+Dersom påtalemyndigheten har besluttet overføring av en sak til barnevernstjenesten etter straffeprosessloven § 71 b, skal barnevernstjenesten underrette påtalemyndigheten om hvorvidt den treffer vedtak i saken eller ikke.
+Dersom et barn er bortført fra barnevernet og til en annen stat, skal barnevernstjenesten gi opplysninger til myndighetene i barnets oppholdsstat, dersom det er forsvarlig og til barnets beste.
+Barnevernet skal gi opplysninger til andre offentlige myndigheter når dette følger av annen lov eller forskrift.

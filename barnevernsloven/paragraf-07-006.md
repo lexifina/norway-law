@@ -1,0 +1,3 @@
+# § 7-6. Barnevernstjenestens plan for gjennomføring av samvær og kontakt
+Når barneverns- og helsenemnda har truffet vedtak om samvær, skal barnevernstjenesten ut fra en konkret vurdering av barnets behov utarbeide en plan for gjennomføring av samvær og kontakt med foreldre, søsken og andre nærstående, jf. §§ 7-2, 7-3 og 7-5. Planen er ikke et enkeltvedtak som kan påklages.
+Barnevernstjenesten kan innvilge mer samvær enn det nemnda har fastsatt etter § 7-2 eller § 7-3, hvis det ikke er i strid med forutsetningene i nemndas vedtak. Barnevernstjenesten skal med jevne mellomrom undersøke om omstendighetene har endret seg, og vurdere om det er behov for å endre samværet.

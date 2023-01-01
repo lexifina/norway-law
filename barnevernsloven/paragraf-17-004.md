@@ -1,0 +1,2 @@
+# § 17-4. Tilsynsmyndighetenes tilgang til opplysninger
+Statens helsetilsyn og statsforvalteren kan kreve at kommunale organer som hører inn under loven, barne-, ungdoms- og familieetaten, barnevernsinstitusjoner, sentre for foreldre og barn og omsorgssentre for enslige mindreårige asylsøkere gir de opplysninger og meldinger som er nødvendige for at myndighetene skal kunne utøve sine tilsynsoppgaver. Taushetsplikten er ikke til hinder for at slike opplysninger gis til myndighetene. I tillegg til å kreve opplysninger kan myndighetene kreve adgang til stedene.
