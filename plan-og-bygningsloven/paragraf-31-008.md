@@ -1,8 +1,2 @@
-# § 31-8. Utbedringsprogram
-For en eller flere eiendommer i tettbygd strøk kan kommunestyret vedta program for utbedring av bebyggelsen og tilhørende arealer.
-Kommunen kan oppfordre eiere og beboere av berørt fast eiendom, herunder av hus på festet grunn, til å legge fram de nødvendige opplysninger, og skal gi dem anledning til å medvirke ved utarbeidelse av utbedringsprogrammet.
-Utbedringsprogram kan omfatte:
-a) ombygging, forbedring eller istandsetting
-b) sammensetning av boenheter, oppvarming, strømforsyning, sanitæranlegg mv.
-c) bygningstekniske og brannmessige forhold
-d) utlegging av fellesarealer og innretning av fellesanlegg for bebyggelsen og framtidig vedlikehold og drift av fellesarealer og fellesanlegg.
+# § 31-8. Pålegg om øyeblikkelig sikring
+Hvis et byggverk eller en installasjon utgjør en umiddelbar fare for skade på personer, eiendom eller miljø, kan plan- og bygningsmyndighetene gi eieren eller den ansvarlige pålegg om øyeblikkelig sikring. Slikt pålegg kan gis uten forhåndsvarsel etter § 32-2. Eieren eller den ansvarlige skal gis en kort frist for selv å gjennomføre sikringen.

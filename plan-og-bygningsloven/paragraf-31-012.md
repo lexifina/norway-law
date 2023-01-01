@@ -1,0 +1,3 @@
+# § 31-12. Forskrift om kommunens adgang til å pålegge dokumentasjon og utbedring
+Departementet kan gi forskrift om kommunens adgang til å pålegge eieren eller den ansvarlige å dokumentere tilstanden til og å utbedre eksisterende byggverk og installasjoner.
+Kommunen kan bare gi pålegg der utbedring vil gi en vesentlig forbedring av byggverkets eller installasjonens funksjon og tungtveiende hensyn til universell utforming, helse, miljø, sikkerhet eller bevaringsverdi tilsier det. I vurderingen av om det skal gis pålegg om utbedring, skal det legges vekt på kostnadene ved pålegget, antallet brukere, hvilke farer eller ulemper brukerne utsettes for, og avstanden mellom den faktiske tilstanden og gjeldende krav.

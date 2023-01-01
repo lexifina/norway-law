@@ -1,2 +1,2 @@
-# § 31-1. Ivaretakelse av kulturell verdi ved arbeid på eksisterende byggverk
-Ved endring av eksisterende byggverk, oppussing og rehabilitering skal kommunen se til at historisk, arkitektonisk eller annen kulturell verdi som knytter seg til et byggverks ytre, så vidt mulig blir bevart. § 29-2 gjelder tilsvarende.
+# § 31-1. Plikt til å holde byggverk og installasjoner i forsvarlig stand
+Eieren eller den ansvarlige skal holde byggverk og installasjoner som reguleres av denne loven, i forsvarlig stand, slik at det ikke oppstår vesentlig ulempe for eller fare for skade på personer, eiendom eller miljø.
