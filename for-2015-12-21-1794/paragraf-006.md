@@ -1,0 +1,2 @@
+# § 6. Verdipapirisering av utlånsporteføljer i medhold av tidligere finansieringsvirksomhetslov
+Verdipapirisering av utlånsporteføljer som er gjennomført i medhold av finansieringsvirksomhetsloven § 2-26 til § 2-39 før finansforetaksloven trer i kraft og hvor obligasjonene ennå ikke har forfalt, kan løpe videre og avsluttes som avtalt mellom partene. Spesialforetak som er opprettet i tilknytning til slik verdipapirisering som nevnt i forrige punktum, er ikke konsesjonspliktig. Det er ikke adgang til å overføre nye lån til spesialforetaket.
