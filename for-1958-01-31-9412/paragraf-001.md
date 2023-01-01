@@ -1,0 +1,3 @@
+# § 1. Beregning
+Avgiften på omsetning av fisk (herunder sild, brisling og skalldyr) til pensjonstrygden for fiskere skal beregnes av omsetningsbeløpet på førstehånd ved de salgsorganisasjoner som er godkjent i medhold av lov om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) § 4.
+Med omsetningsbeløpet på førstehånd menes det beløp som utbetales fiskerne for fangsten, dvs. eksklusive avgifter som betales til organisasjonene i medhold av fiskesalslagslova og utgifter i forbindelse med tilvirkningen av fangsten, emballasje mv., når tilvirkningen foretas av fiskerne eller vedkommende salgsorganisasjon samt førings- og omlastingsutgifter som belastes fiskerne.
