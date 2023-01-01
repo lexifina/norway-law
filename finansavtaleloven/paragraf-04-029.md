@@ -1,0 +1,3 @@
+# § 4-29. Ansvar for transaksjon iverksatt av eller via betalingsmottakeren
+(1) Betalingsmottakerens betalingstjenesteyter er overfor betalingsmottakeren ansvarlig for oppfyllelse i samsvar med § 4-11 fjerde ledd og skal umiddelbart oversende betalingsoppdraget til betalerens betalingstjenesteyter på nytt når det er påkrevet. Tilsvarende gjelder for oppfyllelse i samsvar med § 4-12. Hvis betalerens betalingstjenesteyter dokumenterer oppfyllelse overfor betalingsmottakeren, er betalerens betalingstjenesteyter ansvarlig overfor betaleren.
+(2) For ansvar etter første ledd gjelder § 4-28 annet og tredje ledd tilsvarende.

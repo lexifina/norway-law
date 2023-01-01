@@ -1,0 +1,6 @@
+# § 5-3. Opplysningsplikt i forbindelse med kredittvurderingen
+(1) Når kredittyteren innhenter opplysninger fra kunden, skal kredittyteren opplyse om at kundens fremlegging av opplysninger eller nødvendig dokumentasjon er en forutsetning for kredittvurderingen og tilbudet som eventuelt gis til kunden. Det skal også opplyses om at dersom det senere påvises at kunden bevisst har tilbakeholdt eller forfalsket opplysninger eller nødvendig dokumentasjon, har kredittyteren rett til å heve avtalen etter § 3-51 første ledd bokstav a.
+(2) Dersom kredittyteren innvilger kredittsøknaden, skal resultatet av kredittvurderingen formidles til kunden før kreditten utbetales eller salgstingen overgis til kunden.
+(3) Dersom kredittyteren avslår kredittsøknaden på grunnlag av en automatisert behandling av innsamlede opplysninger, skal kredittyteren uten ugrunnet opphold varsle kunden om avslaget og om avslaget er basert på opplysninger innhentet ved databasesøk. Kunden skal samtidig gis opplysninger om resultatet av databasesøket og nærmere opplysninger om databasen.
+(4) Kredittyteren har ikke plikt til å begrunne et avslag på en kredittsøknad utover opplysningene som skal gis etter tredje ledd og § 3-29.
+(5) Kongen kan i forskrift gi regler om hvordan resultatet av kredittvurderingen skal formidles til kunden.

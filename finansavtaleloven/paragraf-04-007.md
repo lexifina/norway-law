@@ -1,0 +1,6 @@
+# § 4-7. Kansellering av betalingsoppdrag
+(1) Etter at betalingsoppdraget er mottatt av betalerens betalingstjenesteyter, kan et betalingsoppdrag ikke kanselleres av betaleren, med mindre noe annet følger av annet til femte ledd.
+(2) Når betalingstransaksjonen iverksettes av eller gjennom betalingsmottakeren, kan betaleren ikke kansellere betalingsoppdraget etter at betalingsmottakeren er gitt samtykke til at betalingstransaksjonen kan gjennomføres. Direktebelastninger kan likevel kanselleres senest innen utgangen av virkedagen før den avtalte belastningsdagen.
+(3) Betaleren kan ikke kansellere et betalingsoppdrag etter at en betalingsfullmektig er gitt samtykke til at betalingstransaksjonen kan iverksettes.
+(4) Når et betalingsoppdrag ikke skal gjennomføres umiddelbart, kan kunden kansellere betalingsoppdraget senest innen utgangen av virkedagen før den avtalte belastningsdagen, jf. § 4-5 fjerde ledd.
+(5) Etter utløpet av fristene i første til fjerde ledd kan betalingsoppdraget kanselleres bare dersom det er avtalt mellom kunden og den berørte betalingstjenesteyteren. For betalingsoppdrag som nevnt i annet og tredje ledd kreves det i tillegg samtykke fra betalingsmottakeren. Betalingstjenesteyteren kan kreve gebyr for kansellering av betalingsoppdrag bare dersom dette er avtalt i kontoavtalen.

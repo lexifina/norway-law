@@ -1,0 +1,7 @@
+# § 1-2. Virkeområdet for kapittel 2 til 6
+(1) Kapittel 2 gjelder betalingsoppgjør og pengekrav på formuerettens område.
+(2) Kapittel 3 gjelder for alle finansielle tjenester og finansoppdrag, jf. § 1-3 annet og tredje ledd, med mindre noe annet følger av sjette ledd eller for øvrig er særskilt bestemt.
+(3) Kapittel 4 gjelder for kontoavtaler og betalingstjenester, jf. § 1-5 første og åttende ledd, med mindre noe annet følger av sjette ledd eller for øvrig er særskilt bestemt, jf. §§ 4-47 til 4-52.
+(4) Kapittel 5 gjelder for kredittavtaler, jf. § 1-7 første ledd, med mindre noe annet følger av sjette ledd eller for øvrig er særskilt bestemt, jf. §§ 5-22 og 5-23.
+(5) Kapittel 6 gjelder for kausjon, jf. § 1-7 annet ledd, med mindre noe annet følger av sjette ledd eller for øvrig er særskilt bestemt, jf. § 6-14.
+(6) Er kunden forbruker, gjelder reglene i kapittel 3 til 6 for alle tjenesteytere, jf. § 1-4, med mindre noe annet er særskilt bestemt. Kapittel 3 til 6 gjelder også for avtaler med en forbruker når kredittyteren eller garantisten er en kommune eller fylkeskommune. Er kunden ikke forbruker, gjelder reglene i kapittel 3 til 6 bare for tjenester som krever særskilt tillatelse eller meldeplikt etter finansforetaksloven og formidling av slike tjenester, med mindre noe annet er særskilt bestemt. Kapittel 3 til 6 gjelder ikke for tjenester som mottas av en annen tjenesteyter uten å berøre kundens rettigheter eller tjenesteyterens plikter etter denne loven.

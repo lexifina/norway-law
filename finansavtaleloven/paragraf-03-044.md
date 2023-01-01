@@ -1,0 +1,8 @@
+# § 3-44. Gjennomføring av angrerett ved fjernsalg
+(1) Brukes angreretten til å gå fra en avtale som er inngått ved fjernsalg, kan forbrukeren kun pålegges å betale for den tjenesten som faktisk er levert. Beløpet skal stå i rimelig forhold til omfanget av den tjenesten som allerede er levert, sammenlignet med avtalens fulle oppfyllelse.
+(2) Retten til betaling forutsetter at oppfyllelse av avtalen er påbegynt på forbrukerens forespørsel, og at forbrukeren er blitt opplyst om det beløpet som skal betales, etter reglene i § 3-25 bokstav h, jf. § 3-22.
+(3) Tjenesteyteren skal snarest mulig, og senest innen 30 dager, tilbakebetale ethvert beløp som er mottatt fra forbrukeren i forbindelse med avtalen, med unntak av eventuelle beløp etter første ledd. Fristen løper fra den dagen tjenesteyteren mottar melding om bruk av angreretten.
+(4) Forbrukeren skal snarest mulig, og senest innen 30 dager, tilbakeføre ethvert beløp eller annet formuesgode som forbrukeren har mottatt. Fristen løper fra den dagen forbrukeren sender melding om bruk av angreretten.
+(5) Hvis det til en finansiell tjeneste er knyttet en annen fjernsalgsavtale om tjenester som skal leveres av tjenesteyteren, oppheves den andre avtalen uten at det kan kreves vederlag for opphevelsen dersom forbrukeren bruker angreretten etter § 3-41 tredje ledd.
+(6) Femte ledd gjelder tilsvarende når den tilknyttede tjenesten ytes av en tredjepart på grunnlag av avtale med tjenesteyteren som leverer den finansielle tjenesten. Tjenesteyteren som har levert den finansielle tjenesten, skal i så fall gi melding til tredjeparten umiddelbart etter at melding om bruk av angreretten er mottatt.
+(7) Brukes angreretten til å gå fra en kredittavtale som er inngått ved fjernsalg, gjelder i stedet § 3-43.

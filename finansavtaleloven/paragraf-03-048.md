@@ -1,0 +1,5 @@
+# § 3-48. Kundens rett til å heve avtalen
+(1) Kunden kan heve en avtale ved vesentlig mislighold fra tjenesteyterens side. Dette gjelder uten hensyn til avtalens bestemmelser om oppsigelse eller avbestilling. For tjenester som er levert, kan avtalen likevel heves bare dersom kundens nytte av den leverte tjenesten er ubetydelig og tjenesteyteren ikke påføres et urimelig stort tap, med mindre kundens formål med avtalen er blitt vesentlig forfeilet som følge av misligholdet.
+(2) Ved kundens heving faller partenes plikt til å oppfylle avtalen bort.
+(3) Er avtalen helt eller delvis oppfylt, kan det som er mottatt, kreves tilbakeført så langt det etter forholdene lar seg gjøre. Det samme gjelder for avkastning eller vesentlig nytte en part har hatt av det som er mottatt. Tjenesteyteren skal betale renter i samsvar med reglene i forsinkelsesrenteloven fra reklamasjonsdagen.
+(4) Til sikkerhet for sitt eget krav kan en part kreve at tilbakeføring av det som er mottatt, skal skje til samme tid for alle avtaleparter.

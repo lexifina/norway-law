@@ -1,0 +1,3 @@
+# § 6-2. Varslingsplikt ved manglende sikkerhetsstillelse mv.
+(1) Kredittyteren skal uten ugrunnet opphold varsle kausjonisten i et skriftlig dokument dersom det ikke blir stilt sikkerhet som forutsatt da kausjonsavtalen ble inngått, eller dersom sikkerhetsstillelsen senere er falt bort. Det samme gjelder dersom det ikke er tegnet gjeldsforsikring som forutsatt da kausjonsavtalen ble inngått.
+(2) Dersom gjeldsforsikring er tegnet som forutsatt, men det senere inntrer forhold som kan føre til at dekningen etter forsikringen faller bort eller blir vesentlig endret, skal kredittyteren varsle kausjonisten i god tid før dekningen endres.

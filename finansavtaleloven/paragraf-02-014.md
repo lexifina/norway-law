@@ -1,0 +1,3 @@
+# § 2-14. Skyldnerens rett til å gjøre innsigelser gjeldende mot erververen av pengekravet
+(1) Ved overdragelse eller pantsetting av pengekrav som nevnt i § 2-13 første ledd kan skyldneren overfor erververen eller panthaveren gjøre gjeldende de samme innsigelser og motkrav som skyldneren kunne gjøre gjeldende overfor avhenderen, med mindre noe annet er fastsatt i lov.
+(2) Kreditor for pengekrav som nevnt i § 2-13 første ledd må ikke utstede eller motta veksel for et pengekrav mot en skyldner som er forbruker. Det samme gjelder annen skylderklæring som ved overdragelse eller pantsetting kan avskjære eller innskrenke forbrukerens rett til å gjøre gjeldende innsigelser eller motkrav på grunnlag av kredittavtalen eller kausjonsavtalen.

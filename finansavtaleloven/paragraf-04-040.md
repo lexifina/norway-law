@@ -1,0 +1,2 @@
+# § 4-40. Opplysningsplikt om kontobytte
+Forbrukeren skal gis tilgang til opplysninger om den overførende betalingstjenesteyterens og den mottakende betalingstjenesteyterens oppgaver i forbindelse med hvert steg av flytteprosessen, tidsplanen for gjennomføring av de ulike stegene, eventuelle gebyrer som kreves for kontobytte, hvilke opplysninger forbrukeren eventuelt blir bedt om å gi, og om mulighet for tvisteløsning i etablert klageorgan, jf. § 3-54.

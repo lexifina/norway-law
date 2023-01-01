@@ -1,0 +1,3 @@
+# § 2-7. Forbrukerens innsigelser mot kredittyteren
+(1) Ved kjøp av varer eller tjenester kan forbrukeren overfor en annen kredittyter enn selgeren gjøre gjeldende de samme innsigelser og pengekrav på grunnlag av kjøpet som kunne gjøres gjeldende mot selgeren, såfremt kreditten ytes etter avtale mellom selgeren og kredittyteren. I tillegg til reklamasjon overfor selgeren etter reglene som gjelder for avtalen, må forbrukeren varsle kredittyteren ved første rimelige anledning.
+(2) Har forbrukeren et pengekrav som etter første ledd kan gjøres gjeldende mot kredittyteren, er kredittyterens ansvar begrenset til det kredittbeløpet som forbrukeren har mottatt av kredittyteren i anledning kjøpet.

@@ -1,0 +1,2 @@
+# § 7-2. Overtredelsesgebyr
+Ved forsettlig eller uaktsom overtredelse av reglene om opplysningsplikt overfor forbruker ved fjernsalg eller salg utenom tjenesteyterens faste forretningslokaler etter §§ 3-22 til 3-39 og ved forsettlig eller uaktsom overtredelse av § 3-44 tredje ledd eller § 3-45 første ledd kan det fastsettes et overtredelsesgebyr etter reglene gitt i eller i medhold av angrerettloven § 42.

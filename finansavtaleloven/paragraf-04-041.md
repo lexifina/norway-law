@@ -1,0 +1,2 @@
+# § 4-41. Gebyrer i forbindelse med kontobytte
+Hvis betalingstjenesteyteren krever gebyr for tjenester som nevnt i §§ 4-34 til 4-40, skal gebyret være rimelig og i samsvar med betalingstjenesteyterens faktiske kostnader. Betalingstjenesteyteren kan ikke kreve gebyr av forbrukeren for opplysninger om eksisterende faste betalingsoppdrag og direktebelastninger. Den overførende betalingstjenesteyteren kan ikke kreve gebyr av forbrukeren eller av den mottakende betalingstjenesteyteren for opplysninger som skal gis etter § 4-37 første ledd bokstav a og b.

@@ -1,0 +1,5 @@
+# § 5-21. Reduksjon og bortfall av samskyldnerens gjeldsansvar
+(1) Ved betaling av renter, gebyrer, avdrag eller andre kredittkostnader til kredittyteren reduseres gjeldsansvaret for samskyldneren i den utstrekning kredittyteren var berettiget til å gjøre samme krav gjeldende mot samskyldneren.
+(2) Gjeldsansvaret for en samskyldner reduseres også, uten hensyn til hva som er tilbakebetalt, som om kreditten var blitt nedbetalt i samsvar med kredittavtalen. Dersom kredittyteren har gitt betalingsutsettelse uten samtykke fra samskyldneren til den utvidelsen av gjeldsansvaret som utsettelsen innebærer, reduseres gjeldsansvaret når det er gått seks måneder etter opprinnelig betalingstid.
+(3) Gjeldsansvaret reduseres ikke i den utstrekning kredittyteren godtgjør at varsel om mislighold er sendt til samskyldneren i samsvar med § 5-18. Er varsel sendt senere enn tre uker etter at misligholdet inntraff, reduseres samskyldnerens ansvar for avdrag, gebyrer, renter og andre kredittkostnader som forfalt tidligere enn tre måneder før varselet ble sendt.
+(4) § 6-8 gjelder tilsvarende.

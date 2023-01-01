@@ -1,0 +1,4 @@
+# § 3-11. Når tjenesteyteren har flere avtalemotparter i samme avtale
+(1) Når tjenesteyteren inngår avtale om en finansiell tjeneste med to eller flere forbrukere i samme avtale, regnes hver forbruker som én kunde med hensyn til tjenesteyterens plikter etter denne loven, med mindre noe annet er særskilt bestemt.
+(2) Ved avtaler som nevnt i første ledd kreves det samtykke fra hver forbruker som blir bundet av disposisjoner i forbindelse med avtalen, med mindre noe annet er særskilt bestemt. Denne paragrafen er ikke til hinder for at en kunde i tilknytning til betalingstjenester gir en tredjeperson fullmakt eller rett til å disponere i samsvar med reglene i § 4-2.
+(3) Reglene i § 3-2, § 3-9 og §§ 3-12 til 3-14 gjelder tilsvarende så langt de passer for avtaler i tilknytning til en finansiell tjeneste mellom tjenesteyteren og en avtalemotpart som er forbruker uten å bli ansett som tjenesteyterens kunde.

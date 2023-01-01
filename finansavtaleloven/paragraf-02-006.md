@@ -1,0 +1,3 @@
+# § 2-6. Forbud mot å kreve gebyr for betalerens bruk av kort
+(1) En betalingsmottaker kan ikke kreve gebyr for bruk av betalingsinstrument som er omfattet av forordning (EU) 2015/751 om formidlingsgebyrer for kortbaserte betalingstransaksjoner kapittel II, eller for betalingstjenester som er omfattet av forordning (EU) nr. 260/2012 om tekniske og forretningsmessige krav til kredittoverføringer og direkte debiteringer i euro.
+(2) Første ledd gjelder bare dersom både betalerens og betalingsmottakerens betalingstjenesteyter, eventuelt den eneste betalingstjenesteyteren som er involvert i betalingstransaksjonen, er etablert innenfor EØS.

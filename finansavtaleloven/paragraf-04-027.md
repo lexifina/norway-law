@@ -1,0 +1,7 @@
+# § 4-27. Betalerens rett til tilbakebetaling ved direktebelastninger
+(1) Betalerens betalingstjenesteyter skal tilbakebetale en betalingstransaksjons fulle beløp og rentetap når betalingstransaksjonen er iverksatt av eller via betalingsmottakeren og betaleren kan påvise at
+a) betaleren ikke har godkjent det eksakte beløpet for betalingstransaksjonen, jf. § 4-2, og
+b) beløpet oversteg det beløpet betaleren med rimelighet kunne ha forventet ut fra sitt tidligere bruksmønster, vilkårene i kontoavtalen og omstendighetene for øvrig.
+Endringer i valutakursen kan ikke påberopes etter bokstav b dersom kursen ble beregnet på grunnlag av en avtalt referansevekslingskurs, jf. § 3-15.
+(2) Med mindre det er avtalt vilkår som nevnt i tredje ledd, kan betaleren kreve tilbakebetalt en tidligere godkjent betalingstransaksjon som er iverksatt av betalingsmottakeren. Tilbakebetalingskravet må gjøres gjeldende senest åtte uker etter belastningsdagen overfor betalerens betalingstjenesteyter. Betalerens betalingstjenesteyter skal tilbakebetale det fulle beløpet og rentetapet innen ti dager etter at kravet ble mottatt.
+(3) I kontoavtalen kan betaleren og betalerens betalingstjenesteyter avtale vilkår om at betaleren ikke har rett til tilbakebetaling dersom samtykket til å gjennomføre betalingstransaksjonen ble gitt direkte til betalerens betalingstjenesteyter og, når det er relevant, opplysning om den fremtidige betalingstransaksjonen ble gitt eller stilt til rådighet for betaleren minst fire uker før forfallsdagen av betalingstjenesteyteren eller betalingsmottakeren.

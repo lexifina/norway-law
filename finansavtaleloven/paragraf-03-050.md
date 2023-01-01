@@ -1,0 +1,4 @@
+# § 3-50. Ansvarsfrihet
+(1) Tjenesteyteren kan ikke holdes ansvarlig for økonomisk tap som er forårsaket av usedvanlige omstendigheter utenfor sin kontroll og som tjenesteyteren ikke med rimelighet kunne forutse eller unngå følgene av. Det samme gjelder for tap som er forårsaket av at tjenesteyteren er bundet av andre forpliktelser i eller i medhold av lov.
+(2) Ansvarsfrihet etter første ledd gjelder så lenge de usedvanlige omstendighetene er til stede. Faller de nevnte omstendighetene bort, kan ansvar gjøres gjeldende dersom det fortsatt foreligger mislighold.
+(3) Første og annet ledd gjelder tilsvarende for underleverandørens ansvar etter § 3-49 annet ledd. Underleverandøren er ikke ansvarlig dersom underleverandøren godtgjør at tapet er forårsaket av en instruks fra tjenesteyteren som det var forsvarlig å utføre.

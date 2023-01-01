@@ -1,0 +1,3 @@
+# § 6-11. Renter ved forsinket betaling
+(1) Når kredittyteren har varslet kausjonisten om kredittkundens mislighold i samsvar med § 6-3 første ledd, kan kredittyteren kreve kausjonisten for renter for tiden etter at det varslede misligholdet inntrådte, beregnet etter den rentesatsen som ville ha vært gjeldende i kredittavtalen om kreditten ikke var misligholdt. Er varsel sendt senere enn det som følger av § 6-3 første ledd, kan kredittyteren kreve renter som nevnt for betalingsforpliktelser som er forfalt senere enn tre måneder før varselet ble sendt.
+(2) Kausjonisten svarer ikke for særlige forsinkelsesrenter som følger av kredittkundens mislighold. Når kausjonsansvaret er forfalt, er kausjonisten ansvarlig for forsinkelsesrenter etter alminnelige regler.

@@ -1,0 +1,4 @@
+# § 4-15. Informasjon ved gjennomføring av betalingsoppdrag
+(1) Før betalingstjenesteyteren utfører et betalingsoppdrag som er iverksatt av betaleren og omfattet av en kontoavtale, skal betalingstjenesteyteren på forespørsel opplyse om gebyrene som må betales, og om hvor lang tid det kan ta å gjennomføre betalingstransaksjonen. Dersom det er relevant, skal enkeltelementer i gebyrene spesifiseres.
+(2) Betalerens betalingstjenesteyter skal for hver betalingstransaksjon gi betaleren opplysninger som nevnt i § 4-19 fjerde ledd umiddelbart etter at betalingsoppdraget er mottatt. Det samme gjelder når betaleren ikke har konto hos betalingstjenesteyteren.
+(3) Betalingsmottakerens betalingstjenesteyter skal gi betalingsmottakeren opplysninger som nevnt i § 4-19 fjerde ledd umiddelbart etter at betalingstransaksjonen er gjennomført.

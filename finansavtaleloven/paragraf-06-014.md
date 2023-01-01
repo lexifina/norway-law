@@ -1,0 +1,2 @@
+# § 6-14. Særskilt om formidling av kausjon
+Den som formidler kausjon som ledd i næringsvirksomhet mellom en kausjonist som er forbruker, og en kreditor som ikke er tjenesteyter, skal sørge for at kausjonsavtalen inngås i samsvar med reglene i denne loven, og at kausjonsavtalen inneholder opplysninger etter de reglene som ellers gjelder kausjonsavtaler etter kapittel 3 og 6. Reglene om finansoppdrag gjelder for øvrig så langt de passer ved slik kausjonsformidling mellom kreditor, kausjonist og formidler.

@@ -1,0 +1,5 @@
+# § 5-2. Kredittvurdering
+(1) Før det inngås en kredittavtale, herunder avtale om en vesentlig økning av tilgjengelig kredittbeløp, skal kredittyteren foreta en grundig vurdering av kundens kredittevne. Kredittyteren skal også sørge for en verdivurdering av eventuell sikkerhet som inngår i kredittvurderingen.
+(2) Kredittvurderingen skal foretas på grunnlag av tilstrekkelige og relevante opplysninger som er tilgjengelige om kundens inntekt, eiendeler, utgifter og andre økonomiske forpliktelser. Kredittyteren skal om nødvendig innhente opplysningene fra gjeldsinformasjonsforetak, kunden selv, relevant databasesøk eller annen relevant kilde.
+(3) Når kredittvurderingen er gjennomført på forsvarlig vis i samsvar med første og annet ledd, kan det ikke gjøres gjeldende som innsigelse at forutsetninger senere avviker fra det kredittyteren la til grunn ved kredittvurderingen, med mindre det er avtalt at kredittyteren skal ha risikoen for slike forutsetninger.
+(4) Kongen kan i forskrift gi nærmere regler om kredittvurdering, herunder verdivurdering av sikkerhet som stilles, og belåningsgrad.

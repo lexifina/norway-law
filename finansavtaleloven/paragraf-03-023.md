@@ -1,0 +1,5 @@
+# § 3-23. Hvordan opplysningene skal gis
+(1) Når ikke noe annet er særskilt bestemt, skal avtalevilkårene og opplysningene nevnt i § 3-22 første ledd gis i et skriftlig dokument.
+(2) Ved fjernsalg til en forbruker skal opplysningene nevnt i § 3-22 første ledd dessuten gis i en form som er tilpasset den aktuelle metoden for fjernkommunikasjon.
+(3) Tjenesteyteren skal ellers anses for å ha oppfylt sin opplysningsplikt dersom kunden har mottatt kopi av et utkast til avtale eller utkast til enkeltstående betalingsoppdrag med opplysninger og vilkår som nevnt i første eller annet ledd. Ved kausjonsavtale gjelder det samme dersom kausjonisten har mottatt utkast til kausjonsavtale med opplysninger og vilkår som nevnt i første eller annet ledd for kausjonsavtalen og kopi av kredittavtalen eller utkast til kredittavtalen som kausjonsansvaret skal dekke, med opplysninger og vilkår om kredittavtalen som nevnt i første eller annet ledd.
+(4) Kongen kan i forskrift gi nærmere regler om hvordan tjenesteyteren skal oppfylle opplysningsplikten etter §§ 3-22 til 3-39.

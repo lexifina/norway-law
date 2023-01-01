@@ -1,0 +1,5 @@
+# § 5-17. Gjeldsansvar og kredittvurdering
+(1) Er det inngått kredittavtale med to eller flere kunder som samskyldnere, skal kredittavtalen angi hvor stor del av det skyldige beløpet kredittyteren kan kreve tilbakebetalt fra hver enkelt samskyldner.
+(2) En samskyldners kredittevne etter § 5-2 skal vurderes på grunnlag av angivelsen av gjeldsansvaret etter første ledd selv om samskyldnerne seg imellom har avtalt en annen fordeling.
+(3) Er en skyldners kredittevne etter § 5-2 betinget av at skyldneren kan søke regress hos en samskyldner, jf. § 2-16, skal kredittyteren påse at det i kredittavtalen inntas vilkår om at skyldneren ikke kan gi avkall på krav om tilbakebetaling før det tidspunktet kravet kan gjøres gjeldende.
+(4) Kongen kan gi nærmere regler om kredittvurdering for kredittavtale med samskyldnere og gi nærmere regler for vilkår som får betydning ved vurdering av samskyldnernes kredittevne, herunder regler om at slike vilkår skal inntas i kredittavtalen eller avtale som gjelder en samskyldners rett til regress fra annen samskyldner.

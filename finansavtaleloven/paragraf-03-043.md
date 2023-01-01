@@ -1,0 +1,5 @@
+# § 3-43. Gjennomføring av angrerett ved kredittavtaler
+(1) Brukes angreretten til å gå fra en kredittavtale, skal forbrukeren uten unødig opphold og senest innen 30 kalenderdager tilbakebetale kredittbeløpet og nominell rente påløpt til og med betalingsdagen. Fristen løper fra den dagen forbrukeren sender melding om bruk av angreretten.
+(2) Kredittyteren kan ellers kreve kompensasjon kun for kostnader i forbindelse med kredittavtalen som kredittyteren har betalt til offentlige myndigheter og ikke kan kreves tilbake.
+(3) Ved bruk av angreretten er avtale om tilleggsytelser som er inngått på grunnlag av eller i tilknytning til kredittavtalen, ikke bindende for forbrukeren. Benytter forbrukeren seg av angrerett etter avtale om levering av vare eller tjeneste, gjelder § 3-44 femte og sjette ledd og § 3-45 for bortfall av kredittavtale som helt eller delvis finansierer ytelsene.
+(4) Reglene i første til tredje ledd gjelder ikke for brukskontokreditt. For slike avtaler gjelder eventuelt reglene i §§ 3-44 og 3-45.

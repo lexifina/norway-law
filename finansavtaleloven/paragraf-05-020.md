@@ -1,0 +1,3 @@
+# § 5-20. Frigivelse av sikkerhet mv.
+(1) Uten uttrykkelig samtykke fra samskyldneren har kredittyteren ikke rett til å frigi sikkerhet som var stilt eller forutsatt stilt da kredittavtalen ble inngått. Dette gjelder ikke hvis det stilles annen tilsvarende sikkerhet eller frigivelsen ikke har betydning eller bare har meget begrenset betydning for samskyldnerens stilling.
+(2) Samtykke etter første ledd kan bare gis i tilknytning til en nær forestående frigivelse av en bestemt angitt sikkerhet. Samtykke fra en forbruker skal være skriftlig og signert. § 3-9 tredje ledd gjelder tilsvarende for forbrukerens samtykke.

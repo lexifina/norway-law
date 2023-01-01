@@ -1,0 +1,4 @@
+# § 3-21. Lemping av rettighetshaverens egenandelsansvar
+(1) Rettighetshaverens ansvar etter § 3-20 annet og tredje ledd kan lempes når det er rimelig tatt i betraktning arten av den personlige sikkerhetsinformasjonen som var knyttet til de misbrukte elektroniske signaturfremstillingsdataene, omstendighetene som forelå da misbruket ble utført, og eventuell manglende aktsomhet eller andre forhold på tjenesteyterens side som har medvirket til at tapet oppsto.
+(2) Rettighetshaverens ansvar etter § 3-20 annet og tredje ledd kan også lempes dersom en leverandør av varer eller tjenester som har mottatt en ytelse på grunnlag av misbrukte elektroniske signaturfremstillingsdata i tilknytning til en finansiell tjeneste, forsto eller burde forstå at bruken av de elektroniske signaturfremstillingsdataene var urettmessig.
+(3) Første og annet ledd begrenser ikke rettighetshaverens adgang til lemping eller til å gjøre gjeldende andre innsigelser på annet grunnlag.

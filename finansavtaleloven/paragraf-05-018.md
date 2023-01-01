@@ -1,0 +1,4 @@
+# § 5-18. Kredittyterens varslingsplikt
+(1) Kredittyteren skal uten ugrunnet opphold varsle samskyldneren i et skriftlig dokument ved manglende eller endret sikkerhetsstillelse eller gjeldsforsikring etter reglene i § 6-2.
+(2) Kredittyteren skal i et skriftlig dokument varsle samskyldneren ved mislighold av kredittavtalen. Når det er sendt slikt varsel, skal kredittyteren holde samskyldneren informert om den videre utviklingen av misligholdet. Har samskyldneren grunn til å tro at forholdet er brakt i orden etter et varslet mislighold, gjelder det en ny varslingsplikt etter første punktum ved mislighold av en senere betalingsforpliktelse.
+(3) Kredittyteren skal uten ugrunnet opphold varsle samskyldneren i et skriftlig dokument hver gang det avtales utsettelse for betaling av avdrag eller renter utover tre måneder og hvis det inntrer omstendigheter som nevnt i § 6-3 fjerde ledd.

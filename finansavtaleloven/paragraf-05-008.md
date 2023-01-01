@@ -1,0 +1,2 @@
+# § 5-8. Koblingssalg
+Det kan ikke settes som vilkår for å inngå en kredittavtale at kunden også inngår avtale om kjøp eller salg av varer eller tjenester. Slike avtalevilkår er ikke bindende for en forbruker. Det kan likevel settes som vilkår at det tegnes gjeldsforsikring eller annen forsikring som styrker kundens mulighet til å oppfylle kredittavtalen, og vilkår om inngåelse av kontoavtale i forbindelse med kredittavtalen. Kongen kan i forskrift fastsette ytterligere unntak.

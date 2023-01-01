@@ -1,0 +1,6 @@
+# § 4-1. Retten til kontoavtaler og betalingstjenester
+(1) Betalingstjenesteyteren kan ikke uten saklig grunn avslå å yte betalingstjenester på vanlige vilkår.
+(2) Når kunden er forbruker, kan det ikke settes som særskilt vilkår for avtale om betalingskonto at kunden samtidig må inngå avtale om andre ytelser. Har kunden flere betalingskontoer hos samme betalingstjenesteyter, er det tilstrekkelig at kunden gis adgang til å inngå avtale om én betalingskonto uten vilkår om å inngå avtale om andre ytelser.
+(3) En betalingstjenesteyter kan avslå å yte tjenester utenfor EØS eller å inngå avtale med en kunde som ikke er bosatt eller registrert i EØS. Det samme gjelder dersom kunden eller betalingstjenesteyteren ikke oppfyller vilkår fastsatt i eller i medhold av hvitvaskingsloven for at tjenesten skal kunne ytes, og dersom det følger av lov eller regler gitt i medhold av lov at kunden skal avvises.
+(4) Betalingstjenesteyteren kan kreve at kunden innhenter opplysninger om kunden selv som er nødvendige for å inngå avtale.
+(5) Når kunden er forbruker, skal en forespørsel om betalingskonto avgjøres senest ti virkedager etter at betalingstjenesteyteren har mottatt nødvendige opplysninger fra kunden. For øvrig gjelder reglene § 3-53.

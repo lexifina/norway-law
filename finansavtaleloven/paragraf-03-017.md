@@ -1,0 +1,5 @@
+# § 3-17. Plikter for tilbydere av elektroniske signaturløsninger
+(1) Tilbyderen skal samtidig med at elektroniske signaturfremstillingsdata blir gjort tilgjengelige for bruk, opplyse rettighetshaveren om hvordan det skal varsles om misbruk. Tilbyderen skal sikre at varsel om misbruk til enhver tid kan mottas. Når varselet er mottatt, skal tilbyderen straks hindre enhver videre bruk av de elektroniske signaturfremstillingsdataene.
+(2) Tilbyderen skal bekrefte skriftlig at varsel om misbruk er mottatt. Dokumentasjon for mottatt varsel skal kunne fremlegges av tilbyderen i minst 18 måneder etter at varselet ble mottatt.
+(3) Tilgang til å benytte elektroniske signaturfremstillingsdata skal gis rettighetshaveren bare på grunnlag av forespørsel fra rettighetshaveren selv, med mindre de elektroniske signaturfremstillingsdataene erstatter tidligere utstedte elektroniske signaturfremstillingsdata.
+(4) Tilbyderen har risikoen ved sending av elektroniske signaturfremstillingsdata, herunder sikkerhetsinformasjon som skal forhindre misbruk av elektroniske signaturfremstillingsdata.

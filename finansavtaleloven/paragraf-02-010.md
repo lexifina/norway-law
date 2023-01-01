@@ -1,0 +1,7 @@
+# § 2-10. Tap og gevinst ved førtidig tilbakebetaling av fastrentekreditt
+(1) Ved førtidig tilbakebetaling av kreditt der en eller flere rentesatser etter avtalen er helt eller delvis bundet for kredittavtalens varighet eller en del av kredittavtalens varighet (fastrentekreditt), kan kreditor kreve dekket tap som følge av tilbakebetalingen dersom dette følger av avtalen. Skyldneren hefter ikke for mer enn det rentebeløpet som ellers skulle ha vært betalt ved forfall. Første punktum gjelder ikke
+a) dersom skyldig beløp er 50 000 kroner eller mindre
+b) dersom skyldneren ikke er opplyst om kreditors rett til tapsdekning etter § 3-25 bokstav g
+c) dersom skyldneren før utløpet av akseptfristen i et forslag til endring av kredittvilkårene har varslet om førtidig tilbakebetaling, og betalingen skjer senest fire uker etter utløpet av akseptfristen. Etter utløpet av akseptfristen skal skyldneren betale markedsrente for benyttet kreditt.
+(2) Dersom kreditor etter avtalen kan kreve dekning av tap etter første ledd, skal skyldneren i tilsvarende utstrekning godskrives gevinst som kreditor oppnår som følge av førtidig betaling. Retten til godskriving av slik gevinst kan fravikes i avtalen selv om skyldneren er forbruker. Forbrukeren må i så fall være gjort kjent med dette før avtaleinngåelsen.
+(3) Kongen kan i forskrift gi nærmere regler om beregning av tap og gevinst etter bestemmelsen her.

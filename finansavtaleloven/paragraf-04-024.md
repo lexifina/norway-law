@@ -1,0 +1,4 @@
+# § 4-24. Kundens varslingsplikt ved feil og misbruk. Retting
+(1) Blir kunden oppmerksom på tap, tyveri eller uberettiget bruk eller tilegnelse av et betalingsinstrument eller uberettiget kontotilgang, skal kunden uten ugrunnet opphold varsle den som er oppgitt av betalingstjenesteyteren etter § 4-23 annet ledd.
+(2) For at kunden skal kunne kreve at betalingstjenesteyteren retter en ikke godkjent eller feil gjennomført betalingstransaksjon, må betalingstjenesteyteren ha blitt varslet uten ugrunnet opphold etter at kunden ble oppmerksom på at transaksjonen kan kreves rettet, og senest 13 måneder etter belastningstidspunktet. Fristen på 13 måneder gjelder ikke dersom betalingstjenesteyteren ikke har gitt eller gjort tilgjengelige for kunden opplysningene om betalingstransaksjonen i samsvar med reglene i kapittel 3 og 4.
+(3) Dersom en betalingsfullmektig er involvert i betalingstransaksjonen, skal rettingen foretas av kontotilbyderen.

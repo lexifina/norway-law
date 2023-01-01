@@ -1,0 +1,4 @@
+# § 4-31. Lemping av kundens ansvar etter § 4-30
+(1) Kundens ansvar etter § 4-30 kan lempes når det er rimelig tatt i betraktning arten av den personlige sikkerhetsinformasjonen som var knyttet til betalingsinstrumentet, omstendighetene som forelå da instrumentet ble tapt, stjålet eller uberettiget tilegnet, og eventuell manglende aktsomhet eller andre forhold på betalingstjenesteyterens side som har medvirket til at tapet oppsto.
+(2) Kundens ansvar kan også lempes dersom en leverandør av varer eller tjenester som har mottatt betalingen, forsto eller burde forstå at bruken av betalingsinstrumentet var urettmessig.
+(3) Lemping kan ikke skje hvis tapet skyldes at kunden har opptrådt svikaktig eller forsettlig har unnlatt å oppfylle sine plikter etter § 4-23 første ledd eller § 4-24 første ledd.
