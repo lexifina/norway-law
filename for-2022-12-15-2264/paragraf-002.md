@@ -1,0 +1,2 @@
+# § 2
+I sak om opphevelse av vedtak om omsorgsovertakelse jf. barnevernsloven § 5-7 annet ledd første punktum vil sperrefristen på 12-måneder regnes fra tidspunktet for vedtak eller dom, dersom vedtak eller dom forelå før 1. januar 2023. Dersom saken ble anket til lagmannsretten eller Høyesterett som avviste saken før 1. januar 2023, er avvisningstidspunktet utgangspunktet for fristberegningen. At saken eventuelt er fremmet for nemnda, krevd rettslig overprøvd eller anket og deretter trukket, får ikke betydning for fristberegningen.
