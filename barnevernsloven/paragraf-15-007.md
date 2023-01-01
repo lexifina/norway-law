@@ -7,3 +7,4 @@ b) treffe avgjørelser og vedtak
 c) representere barnevernstjenesten i barneverns- og helsenemnda
 d) velge og godkjenne fosterhjem
 e) utarbeide og evaluere planer etter lovens kapittel 7 og 8.
+Barnevernstjenesten kan ikke plassere barn i et fosterhjem som har inngått avtale med en privat tjenesteyter om godtgjøring for eller innholdet i fosterhjemsoppdraget. Dette gjelder ikke fosterhjem barne-, ungdoms- og familieetaten tilbyr etter § 16-3 annet ledd bokstav a og c.

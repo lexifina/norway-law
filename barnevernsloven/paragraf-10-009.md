@@ -1,5 +1,5 @@
-# § 10-9. Innskrenkninger i bevegelsesfrihet mv. for barn i atferdsinstitusjoner
-Når barn er i atferdsinstitusjon etter §§ 4-4, 6-1 eller 6-2 og det er nødvendig ut fra formålet med oppholdet, kan institusjonen
+# § 10-9. Utvidet adgang til innskrenkninger i bevegelsesfrihet mv. for barn i barnevernsinstitusjoner
+Når barn er i barnevernsinstitusjon etter §§ 4-4, 6-1 eller 6-2 og det er nødvendig ut fra formålet med oppholdet, kan institusjonen
 a) innskrenke barnets rett til å bevege seg fritt innenfor og utenfor institusjonsområdet, herunder nekte barnet å forlate institusjonsområdet
 b) låse døren til institusjonen for barnet eller kreve at barnet har følge av institusjonsansatte utenfor institusjonen for å gjennomføre tiltak etter bokstav a
 c) innskrenke barnets rett til besøk, herunder nekte barnet besøk

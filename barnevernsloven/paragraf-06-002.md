@@ -1,4 +1,4 @@
-# § 6-2. Vedtak om plassering i atferdsinstitusjon uten samtykke
+# § 6-2. Vedtak om plassering i barnevernsinstitusjon uten samtykke
 Barneverns- og helsenemnda kan vedta at et barn skal plasseres i institusjon uten samtykke fra barnet selv eller fra de som har foreldreansvar, dersom barnet har vist alvorlige atferdsvansker på en eller flere av følgende måter:
 a) ved å begå alvorlige eller gjentatte lovbrudd
 b) ved vedvarende problematisk bruk av rusmidler
