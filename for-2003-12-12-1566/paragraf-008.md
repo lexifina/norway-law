@@ -1,0 +1,2 @@
+# § 8. Forholdsmessig kompensasjon
+Når anskaffelse foretas under ett til bruk i kompensasjonsberettiget virksomhet og i virksomhet som ikke gir rett til kompensasjon, skal merverdiavgift på anskaffelsen fordeles. Fordeling skal skje på grunnlag av anskaffelsens bruk i den del av virksomheten som er kompensasjonsberettiget. Det ytes kompensasjon for den del av merverdiavgiften på anskaffelsesprisen som forholdsmessig svarer til den antatte bruk.
