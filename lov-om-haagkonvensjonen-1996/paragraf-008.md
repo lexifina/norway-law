@@ -1,0 +1,2 @@
+# § 8. Jurisdiksjon til å utstede attester
+Statsforvalteren kan utstede attest etter konvensjonen artikkel 40 til den eller dem som har foreldremyndighet for barnet, og til den eller dem som er verge for barnet, så lenge barnet har vanlig bosted i Norge. Attesten skal redegjøre for rekkevidden av foreldremyndigheten eller vergemålet, herunder i hvilken utstrekning personen kan representere barnet.

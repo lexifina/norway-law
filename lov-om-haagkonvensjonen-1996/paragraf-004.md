@@ -1,0 +1,4 @@
+# § 4. Behandling av anmodninger om utveksling av opplysninger og gjennomføring av tiltak
+Anmodninger fra en kompetent myndighet i en annen konvensjonsstat om utlevering av opplysninger eller gjennomføring av tiltak, jf. konvensjonen artiklene 32 og 34, skal sendes til sentralmyndigheten. Anmodninger fra en kompetent myndighet i en annen konvensjonsstat om bistand til gjennomføring av beskyttelsestiltak, jf. konvensjonen artikkel 35 nr. 1, og anmodninger fra en forelder om samvær, jf. konvensjonen artikkel 35 nr. 2, skal sendes til sentralmyndigheten eller en annen kompetent norsk myndighet.
+Kommunene skal bistå sentralmyndigheten med å samle inn opplysninger i forbindelse med anmodninger etter konvensjonen artiklene 32, 34 og 35.
+Departementet kan i forskrift gi nærmere regler om gjennomføringen av forpliktelsene etter konvensjonen artiklene 32, 34 og 35.
