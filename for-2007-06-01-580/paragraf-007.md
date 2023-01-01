@@ -1,0 +1,3 @@
+# § 7. Fastsettelse av nedsatt tollavgiftssats for andre landbruksvarer
+Ved innførsel av andre landbruksvarer enn de som er omfattet av § 6, beregnes det ikke tollavgift for andelen varer som utføres.
+For andel varer som er tilført utenlands, fastsettes tollavgiftssatsen i samsvar med tolltariffen, med mindre varen kan gis nedsatt tollavgiftsats etter bestemmelsene om individuell nedsettelse av tollavgiftssatser i gjeldende forskrift om administrative nedsettelser av tollavgiftssatser for landbruksvarer. For varer som har ulik tollavgiftssats i tolltariffen i ulike deler av året, skal den høyeste tollavgiftssatsen benyttes.
