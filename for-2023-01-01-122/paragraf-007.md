@@ -1,0 +1,5 @@
+# § 7. Dokumentasjon av medlemstall
+Som dokumentasjon av medlemstall, jf. § 5, § 6 og § 19 tredje ledd bokstav a kreves sentralt medlemsregister. Med sentralt medlemsregister menes en elektronisk eller manuell oversikt over alle medlemmene i organisasjonen. Det sentrale medlemsregisteret skal inneholde navn, adresse, fødselsår, eventuell tilknytning til lokallag og størrelsen på kontingenten for hvert enkelt medlem.
+Sentrale medlemsregistre kan ikke kreves utlevert, men tilskuddsforvalter, deres representanter og Riksrevisjonen skal, når det kreves, få innsyn. Sentralleddet i organisasjonen skal oppbevare dokumentasjon for alle medlemmers innmelding og innbetalte årskontingent. Ved kontant betaling må personen signere på en blankett/liste og bekrefte at vedkommende har betalt kontingent til organisasjonen.
+Organisasjonene kan bruke elektronisk signatur, så lenge det er benyttet en betryggende metode for å autentisere avsender av signaturen.
+Uavhengig av betalingsmåte må opplysninger i tråd med § 5 og § 6 fremgå av dokumentasjonen.

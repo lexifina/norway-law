@@ -1,0 +1,2 @@
+# § 30. Ufullstendige søknader
+Dersom søknader eller vedlegg ikke er fullstendige, kan direktoratet sette en rimelig frist for retting. Pålegget gis skriftlig sammen med en orientering om at dersom tilfredsstillende retting ikke skjer innen fristen, kan vedkommende søknad helt eller delvis avvises, eller avgjøres på det foreliggende ufullstendige grunnlag. Det skriftlige pålegget kan gis ved bruk av elektronisk kommunikasjon til den oppdaterte elektroniske adressen søkerorganisasjonen har oppgitt for slikt formål.

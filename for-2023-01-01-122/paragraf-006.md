@@ -1,0 +1,4 @@
+# § 6. Tellende medlem
+Med tellende medlem regnes en person som pr. 31. desember i grunnlagsåret frivillig og individuelt har meldt seg inn i organisasjonen, står i medlemsregisteret, har betalt kontingent for grunnlagsåret, har adresse i Norge og har etter fylte 15 år fulle demokratiske rettigheter i organisasjonen, jf. § 14 bokstav j. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant.
+Dersom en organisasjon har andre typer medlemmer som ikke oppfyller ovennevnte krav kan disse ikke telles med i medlemsgrunnlaget for søknaden.
+Medlemmer under 15 år kan være innmeldt av foresatt eller verge. Barn som har fylt 15 år avgjør selv spørsmål om å melde seg inn i eller ut av organisasjoner, jf. barnelova § 32, med unntak i de tilfeller hvor barnet ikke er i stand til å treffe egne beslutninger av helsemessige årsaker, jf. § 14 bokstav j.

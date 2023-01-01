@@ -1,0 +1,5 @@
+# § 37. Kontroll
+Tilskuddsforvalter skal sørge for nødvendig kontroll med organisasjoner som mottar tilskudd. Ved kontroll skal tilskuddsmottaker gjøre tilgjengelig all dokumentasjon nevnt i § 7, § 9 og § 13 for tilskuddsforvalter.
+Dersom kontroll er igangsatt og særlige grunner tilsier det, kan organisasjonens plikt til å oppbevare dokumentasjon forlenges ut over fristen på fem år jf. § 27, ved skriftlig pålegg fra direktoratet. Tilskuddsforvalter utøver kontrollen selv eller ved representant, f.eks. revisor.
+Ved kontroll plikter organisasjonene å samarbeide med tilskuddsforvalter og deres representanter, herunder innhente og systematisere alt materiale som er relevant for vedkommende sak eller saker om tilskudd. Departementet og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter forutsetningene, jf. bevilgningsreglementet § 10 annet ledd og riksrevisjonsloven § 12 tredje ledd.
+Dersom en organisasjon som har mottatt tilskudd et år ikke søker om tilskudd påfølgende år, skal organisasjonen sende inn spesifisert årsregnskap med revisjonsberetning for alle tilskuddsårene det ikke er rapportert for, jf. § 28 første ledd bokstav a og § 31.

@@ -1,0 +1,4 @@
+# § 26. Sammenslåingstilskudd
+Organisasjoner som vurderer å slå seg sammen eller er i ferd med å slå seg sammen kan etter søknad få støtte til å dekke hele eller deler av kostnadene i forbindelse med ekstraordinær møtevirksomhet og andre merutgifter i denne sammenheng. En forutsetning for dette er at organisasjonene har mottatt tilskudd etter denne tilskuddsordningen de to foregående tilskuddsårene før sammenslåingen.
+Organisasjoner som har slått seg sammen vil de tre første tilskuddsårene etter sammenslåingen som minimum motta et samlet tilskudd tilsvarende summen alle organisasjonene fikk det tilskuddsåret de slo seg sammen. Ved første gangs søknad for den sammenslåtte organisasjonen vil det bli foretatt en ny vurdering av tilskuddsberettigelse og gruppeplassering.
+Organisasjoner som har slått seg sammen har unntak fra kravene i § 14 bokstav o.

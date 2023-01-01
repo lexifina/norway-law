@@ -1,0 +1,2 @@
+# § 25. Uttrappingstilskudd
+Dersom en organisasjon som har mottatt driftstilskudd, jf. kap. 4, ikke lenger oppfyller kravene til antall tellende medlemmer eller antall fylker med tellende medlemmer, er det mulig å søke om uttrappingstilskudd. Dette kan gis til organisasjoner som har mottatt tilskudd de tre foregående tilskuddsårene. Tilskuddet kan gis for inntil tre år, og innenfor en periode på inntil syv år, og beregnes som normalt, jf. kap. 4.
