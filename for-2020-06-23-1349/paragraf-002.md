@@ -1,0 +1,2 @@
+# § 2. Virkeområde
+Denne forskriften kommer til anvendelse for foretak som vil innføre landbruksvarer midlertidig for bearbeiding etter vareførselsloven § 4-8. Med landbruksvare menes vare som hører inn under tolltariffen kapittel 2-24, samt varenumre nevnt i EØS-avtalen protokoll 2 og 3, med unntak av fisk og fiskeprodukter som hører under tolltariffen kapittel 3 eller tollposisjon 16.04 og 16.05.

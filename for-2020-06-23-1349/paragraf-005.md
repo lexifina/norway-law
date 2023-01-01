@@ -1,0 +1,2 @@
+# § 5. Opplysningsplikt
+Foretak som søker om, eller har fått innvilget tillatelse til innenlandsk bearbeiding av landbruksvarer etter denne forskrift, plikter å gi alle opplysninger som Landbruksdirektoratet finner nødvendig for å kunne forvalte ordningen. Videre plikter foretaket straks å varsle Landbruksdirektoratet om forhold som kan ha betydning for tillatelsen, herunder endringer i tidligere gitte opplysninger.
