@@ -1,0 +1,3 @@
+# § 7. Korttidsbruk av tilhenger
+For kjøretøy som for en kortere periode skal trekke tilhenger, eller trekke tilhenger som medfører at kjøretøykombinasjonen kommer inn under en avgiftskode med høyere avgift enn det kombinasjonen er registrert for, kan skattekontoret gi tillatelse til slik kjøring uten at kjøretøykombinasjonen registreres med egen avgiftskode.
+Det skal i slike tilfeller svares en døgnavgift tilsvarende 2 % av full vektårsavgift for den aktuelle kjøretøykombinasjon, likevel ikke mindre enn kr 35. Avgiften skal beregnes pr. påbegynt døgn tillatelsen gjelder for. Avgiftsbeløp avrundes nedover til nærmeste hele krone.

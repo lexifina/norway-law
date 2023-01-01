@@ -1,0 +1,3 @@
+# § 10. Reservebusser
+Skattekontoret kan gi fritak for ordinær vektårsavgift for reservebusser. Med reservebuss menes buss som ikke er i daglig bruk, men som benyttes ved særlige anledninger. Fritak gis for det enkelte kjøretøy. For kjøretøy som innvilges fritak skal det i stedet beregnes døgnavgift på to prosent av full vektårsavgift.
+Kjøretøyet må være registrert på innehaver av løyve etter § 4 eller § 6 i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn eller fartøy eller være utleiet på kontrakt med varighet på ett år eller mer mellom innehaver av slikt løyve og selskap i samme konsern. Fritaket gjelder også motorvogn som utfører rutetransport basert på kontrakt med varighet på ett år eller mer inngått med myndighet eller selskap som innehar slikt ruteløyve.
