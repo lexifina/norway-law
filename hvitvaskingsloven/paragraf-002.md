@@ -29,4 +29,4 @@ j) tilbyder av virksomhetstjeneste: fysisk og juridisk person som ervervsmessig 
 4) å forvalte utenlandsk trust eller lignende juridisk arrangement
 5) å opptre som aksjeeier for annen person, med mindre denne er et selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat
 6) å sørge for at andre personer opptrer i posisjoner som nevnt i nr. 2, 4 og 5
-k) tilbyder av spilltjeneste: fysisk eller juridisk person som arrangerer spill som krever tillatelse etter lotteriloven, pengespilloven eller totalisatorloven. Når en entreprenør arrangerer lotteri på vegne av en organisasjon eller forening, anses entreprenøren som tilbyder av spilltjenesten.
+k) tilbyder av spilltjeneste: fysisk eller juridisk person som arrangerer spill som krever tillatelse etter pengespilloven. Når en entreprenør arrangerer pengespill på vegne av en organisasjon eller forening, anses entreprenøren som tilbyder av spilltjenesten.
