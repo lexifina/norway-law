@@ -1,0 +1,2 @@
+# § 5
+Denne lova tek til å gjelda straks. Lov av 13. desember 1946 nr. 29 om mellombels innførsleforbod og lov av 13. desember 1946 nr. 30 om mellombels utførsleforbod fell bort frå same tid. Føresegn gjevne og vedtak gjorde med heimel i nemde lovar skal gjelda til dei vert sette ut av kraft eller avløyste med føresegn eller vedtak som har heimel i denne lova. For straff ved brot på slike føresegner, gjeld § 4 tilsvarande.
