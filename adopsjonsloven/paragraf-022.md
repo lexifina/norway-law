@@ -1,0 +1,3 @@
+# § 22. Tildeling av barn fra utlandet
+Landet der barnet har sitt vanlige bosted, tildeler barnet til en søker som har fått forhåndssamtykke til å adoptere. Tildelingen skal godkjennes av adopsjonsmyndigheten. Før godkjenningen skal det vurderes om barnet har behov for spesiell støtte. Har barnet behov for spesiell støtte, skal det innhentes en uttalelse fra det faglig rådgivende utvalget for adopsjonssaker. Ved avgjørelsen av om tildelingen skal godkjennes, skal det legges stor vekt på uttalelsen.
+Adopsjonsmyndigheten etter første ledd kan delegere myndigheten til å godkjenne tildelinger av barn fra utlandet til organisasjoner som har tillatelser etter §§ 31 og 32.

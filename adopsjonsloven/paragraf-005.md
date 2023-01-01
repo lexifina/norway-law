@@ -1,0 +1,4 @@
+# § 5. Grunnleggende krav til adopsjonssøkere
+Bare den som har forutsetninger for å være en god omsorgsperson for barn, kan adoptere eller gis forhåndssamtykke til å adoptere. Søkeren må dessuten ha ønske om å oppfostre et barn eller ha oppfostret det barnet adopsjonen gjelder.
+Den som søker om å adoptere eller om forhåndssamtykke til å adoptere, skal legge fram en uttømmende politiattest.
+Departementet kan gi forskrift om behandlingen av adopsjonssaker, utredning av adopsjonssøkerne, forhåndssamtykke til adopsjon, vilkår for å adoptere og krav til søkerne. Det kan blant annet fastsettes krav til søkerens alder, helse, vandel, økonomi, bolig, krav til hvor lenge to søkere skal ha bodd sammen, og krav om deltakelse på adopsjonsforberedende kurs. Det kan settes ulike krav til ulike typer adopsjon.

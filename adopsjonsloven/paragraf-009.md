@@ -1,0 +1,5 @@
+# § 9. Barnets deltakelse og samtykke til adopsjon
+Har barnet fylt 7 år, skal det gis mulighet til å uttale seg før det treffes vedtak om adopsjon. Det samme gjelder barn som er yngre enn 7 år, hvis barnet er i stand til å danne seg egne synspunkter. Barnet skal få informasjon om hva en adopsjon innebærer, og veiledning som er tilpasset barnets evne til å forstå. Barnets mening skal tillegges vekt i samsvar med dets alder og modenhet.
+Et barn som har fylt 12 år, kan adopteres bare hvis det samtykker til adopsjonen. Dette gjelder likevel ikke dersom barnet på grunn av psykisk utviklingshemming eller psykisk eller fysisk sykdom åpenbart ikke er i stand til å forstå hva et samtykke innebærer.
+Før barnet gir samtykke, skal det få informasjon om hva det innebærer å bli adoptert. Samtykket skal være skriftlig og gitt frivillig uten at barnet har fått eller blitt lovet vederlag eller noen annen ytelse for det. Bare en offentlig tjenesteperson kan ta imot eller bekrefte samtykket. Tjenestepersonen skal forsikre seg om at barnet har forstått informasjonen.
+Kommunen skal bistå med å opplyse saken og innhente samtykke dersom adopsjonsmyndigheten ber om det.

@@ -1,0 +1,3 @@
+# § 16. Adopsjon av en person som har fylt 18 år (voksenadopsjon)
+En person som har fylt 18 år, kan adopteres bare hvis det er klart sannsynlig at adopsjonen vil bli til beste for personen. Adopsjonssøkeren må dessuten ha oppfostret personen i minst 6 år, med mindre andre særlige grunner taler for adopsjon. I vurderingen skal det legges særlig vekt på tilknytningen mellom søkeren og den som søkes adoptert, den familietilknytningen som måtte falle bort ved adopsjonen, og eventuelle søsken som søkeren skal adoptere samtidig.
+En person som etter vergemålsloven er fratatt rettslig handleevne på det personlige området, kan adopteres bare dersom vergen samtykker til adopsjonen.

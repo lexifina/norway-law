@@ -1,0 +1,2 @@
+# § 45. Adopsjon av barn med tilknytning til et annet land enn Norge
+Gjelder søknaden adopsjon av et barn under 18 år som har tilknytning til et annet land enn Norge, skal det i vurderingen av barnets beste legges vekt på om adopsjonen også vil bli anerkjent i et land som søkeren eller barnet har så sterk tilknytning til at det ville medføre betydelig ulempe for barnet dersom adopsjonen ikke blir anerkjent der.
