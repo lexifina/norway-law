@@ -1,0 +1,4 @@
+# § 2. Sjøterritoriet
+Sjøterritoriet omfatter havområdet fra grunnlinjene ut til 12 nautiske mil fra disse. Sjøterritoriets yttergrense er en linje trukket slik at hvert punkt på linjen ligger i en avstand av 12 nautiske mil (22 224 meter) fra nærmeste punkt på grunnlinjen. Sjøterritoriets grense mot annen stat følger av gjeldende overenskomster med staten.
+Fremmede fartøyer har rett til uskyldig gjennomfart i sjøterritoriet og til stans eller ankring i sjøterritoriet når dette er nødvendig på grunn av force majeure eller havsnød, eller for å yte assistanse til personer, skip eller luftfartøyer som er i fare eller nød. Med uskyldig gjennomfart forstås navigasjon over sjøterritoriet, enten i transitt eller på vei til eller fra norsk indre farvann.
+Kongen kan fastsette nærmere regler om fremmede fartøyers anløp av og ferdsel i sjøterritoriet.
