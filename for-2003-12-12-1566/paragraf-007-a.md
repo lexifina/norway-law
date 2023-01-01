@@ -1,0 +1,5 @@
+# § 7a. Borettslag og eierseksjonssameier
+Det ytes kompensasjon til borettslag og eierseksjonssameier dersom mer enn 80 pst. av beboerne har fått innvilget heldøgns helse- og omsorgstjenester fra kommunen. De øvrige beboerne må ha fått innvilget helse- og omsorgstjenester fra kommunen. Med heldøgns helse- og omsorgstjenester menes i denne forskriften tjenester som ytes jevnlig av hjemmetjeneste og som må ytes i tilknytning til en bolig som nevnt i tredje ledd.
+For borettslag og eierseksjonssameier som ikke oppfyller vilkårene i første ledd, ytes det forholdsmessig kompensasjon for beboerne som har fått innvilget heldøgns helse- og omsorgstjenester.
+Boligene må være særskilt tilrettelagt for heldøgns helse- og omsorgstjenester. Med særskilt tilrettelagt for heldøgns helse- og omsorgstjenester menes at boligene må være tilknyttet en egen personalbase med 24 timers alarmsystem ved borettslaget eller eierseksjonssameiet.
+Det ytes kompensasjon for oppføring og drift av boligene med tilhørende fellesanlegg. Det ytes ikke kompensasjon for løsøre og næringsmidler. Forskriften § 7 annet ledd tredje punktum gjelder tilsvarende.

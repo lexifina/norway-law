@@ -1,0 +1,3 @@
+# § 7. Boliger med helseformål og sosiale formål
+Som bolig med helseformål eller sosialt formål etter lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. § 4 tredje ledd anses boliger særskilt tilrettelagt for helseformål eller sosiale formål, herunder boliger utformet etter Husbankens tilskuddsordning for omsorgsboliger.
+Boliger som selges eller leies ut til andre enn beboerne anses ikke som boliger med helseformål eller sosiale formål. Det samme gjelder fellesanlegg i tilknytning til slike boliger. Det ytes likevel kompensasjon for utleie av personalbase når den er til bruk i kommunens heldøgns helse- og omsorgstjenester.
