@@ -1,0 +1,2 @@
+# § 6. Kontroll
+For å føre kontroll med at de vilkår som er satt i forskriften eller i vedtak om tillatelsen til innenlandsk bearbeiding blir overholdt, kan Landbruksdirektoratet kreve å få forelagt all bokføring, korrespondanse og opptegnelser som vedkommer tillatelsen, og utføre nødvendig kontroll av innsatsvarer, ferdigvarer og produksjon. Landbruksdirektoratet kan foreta stedlig kontroll i de lokalene som foretaket disponerer. Foretaket plikter å yte bistand ved kontroll.
