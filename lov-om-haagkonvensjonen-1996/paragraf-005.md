@@ -1,0 +1,5 @@
+# § 5. Overføring av jurisdiksjon
+Anmodninger fra kompetente myndigheter i øvrige konvensjonsstater om overføring av jurisdiksjon, jf. konvensjonen artiklene 8 og 9, skal rettes til sentralmyndigheten i Norge. Sentralmyndigheten skal videreformidle anmodningene til kompetent norsk myndighet.
+Den myndigheten i Norge som er, eller vil være, kompetent til å behandle en sak etter norsk rett, kan rette en anmodning til en annen konvensjonsstat om overføring av jurisdiksjon i saken, jf. konvensjonen artiklene 8 og 9.
+Overføring av jurisdiksjon kan skje på alle stadier av saken og følger de prosessreglene som gjelder for sakstypen. Overføring gjøres ved kjennelse som kan ankes etter reglene i tvisteloven. Når barneverns- og helsenemnda overfører saken, kan tingretten overprøve vedtaket etter barnevernsloven. Når et forvaltningsorgan overfører saken, skal beslutningen anses for å være et enkeltvedtak som kan påklages.
+Departementet kan i forskrift gi nærmere regler om gjennomføringen av reglene i denne paragrafen, herunder om hvilke organer som kan treffe beslutninger om overføring.
