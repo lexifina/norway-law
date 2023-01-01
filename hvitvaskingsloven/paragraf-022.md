@@ -10,7 +10,7 @@ g) norsk foretak som driver forsikringsformidling som ikke er gjenforsikringsmeg
 h) verdipapirsentral som er rapporteringspliktig
 i) forvalter av alternative investeringsfond
 j) statsautorisert og registrert revisor og godkjent revisjonsselskap
-k) autorisert regnskapsfører og autorisert regnskapsførerselskap
+k) statsautorisert regnskapsfører og regnskapsselskap
 l) advokat og annen som ervervsmessig eller stadig yter rettshjelp
 m) eiendomsmegler og eiendomsmeglingsforetak
 Er en tredjepart som nevnt i bokstav a til f og h til m fra annen stat, må denne være underlagt regler om kundetiltak, oppbevaring og tilsyn som svarer til reglene i denne lov.

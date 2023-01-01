@@ -17,7 +17,7 @@ n) forvalter av alternative investeringsfond
 o) låneformidlingsforetak
 (2) Loven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:
 a) statsautoriserte og registrerte revisorer, godkjente revisjonsselskaper og revisorer som er ansvarlig for revisjon av regnskap for kommune, fylkeskommune eller kommunalt eller fylkeskommunalt foretak. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
-b) autoriserte regnskapsførere og autoriserte regnskapsførerselskaper. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
+b) statsautoriserte regnskapsførere og regnskapsselskaper. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
 c) advokater og andre som ervervsmessig eller stadig yter selvstendig rettshjelp, når de på klientens vegne utfører finansiell transaksjon eller en transaksjon som gjelder fast eiendom, eller når de bistår ved planlegging eller utføring av transaksjon for klient i forbindelse med
 1) kjøp og salg av fast eiendom eller virksomhet
 2) forvaltning av en klients penger, verdipapir eller andre aktiva
