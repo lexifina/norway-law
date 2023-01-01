@@ -1,2 +1,4 @@
-# § 14-17. Kapitalkrav for betalingsforetak og e-pengeforetak
-Departementet kan gi forskrift om minstekrav til ansvarlig kapital for betalingsforetak og e-pengeforetak.
+# § 14-17. Pensjonsforetak med svekket finansiell stilling
+(1) Pensjonsforetak som ikke oppfyller kapitalkravene etter § 14-16 eller forskrifter gitt i medhold av bestemmelsen, eller mener det foreligger risiko for at kravene ikke vil bli oppfylt, skal straks underrette Finanstilsynet. Pensjonsforetaket skal fremlegge en plan for å rette på forholdet.
+(2) Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at pensjonsforetak kan ha lavere ansvarlig kapital enn det som følger av § 14-16 eller forskrifter gitt i medhold av bestemmelsen.
+(3) Finanstilsynet kan pålegge et pensjonsforetak å endre, avgrense eller begrense virksomheten, redusere foretakets risikoprofil eller treffe andre nødvendige tiltak, herunder stanse nytegning og sette grenser for eller forby foretaket å råde over sine eiendeler dersom foretaket ikke oppfyller krav til ansvarlig kapital fastsatt i lov eller i medhold av lov.

@@ -1,5 +1,5 @@
 # § 4-2. Etablering av filial i annen EØS-stat
-(1) Før banker, kredittforetak, forsikringsforetak, pensjonsforetak betalingsforetak eller e-pengeforetak etablerer filial i en annen EØS-stat, skal foretaket gi Finanstilsynet melding med opplysninger om:
+(1) Før banker, kredittforetak, forsikringsforetak, betalingsforetak eller e-pengeforetak etablerer filial i en annen EØS-stat, skal foretaket gi Finanstilsynet melding med opplysninger om:
 a) hvilken stat filialen ønskes etablert, og filialens adresse,
 b) de personer som skal forestå ledelsen av filialen,
 c) størrelsen av foretakets ansvarlige kapital og oppfyllelsen av krav til ansvarlig kapital og soliditet.

@@ -1,5 +1,5 @@
-# § 5-2. Filial av kredittinstitusjon, forsikringsforetak, pensjonsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat
-(1) Kredittinstitusjon, forsikringsforetak, pensjonsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten, gjennom filial her i riket. Filialen kan etableres to måneder etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i foretakets hjemstat:
+# § 5-2. Filial av kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat
+(1) Kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten, gjennom filial her i riket. Filialen kan etableres to måneder etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i foretakets hjemstat:
 a) en virksomhetsplan som angir hvilke typer av finansielle tjenester virksomheten skal omfatte og filialens organisatoriske oppbygning,
 b) en erklæring om at planlagt virksomhet er omfattet av foretakets tillatelse i hjemstaten,
 c) filialens adresse,
