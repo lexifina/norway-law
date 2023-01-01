@@ -1,0 +1,5 @@
+# § 16. Meddelelser til offentligheten
+Utvalget avgjør i hvilken utstrekning dets ugraderte uttalelser eller ugraderte deler av uttalelsene skal offentliggjøres.
+Hvis offentliggjøring må antas å medføre at en klagers identitet vil bli avdekket, skal dennes samtykke foreligge. Ved omtalen av personer skal hensynet til personvernet iakttas også om det ikke gjelder klagere. Tjenestemenn skal ikke navngis eller identifiseres på annen måte uten med vedkommende departements godkjennelse.
+For øvrig kan lederen eller den utvalget bemyndiger i vedkommendes sted gi meddelelser til offentligheten om hvorvidt en sak er under undersøkelse og om den er ferdigbehandlet, eller når den vil bli det.
+For saksdokumenter som er utarbeidet av eller til EOS-utvalget i saker som det vurderer å legge fram for Stortinget som ledd i den konstitusjonelle kontroll, skal innsyn først gis når saken er mottatt i Stortinget. EOS-utvalget varsler vedkommende forvaltningsorgan om at saken er av en slik art. Er en slik sak ferdigbehandlet uten at den oversendes Stortinget, inntrer offentlighet når utvalget har varslet vedkommende forvaltningsorgan om at saken er ferdigbehandlet.

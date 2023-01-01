@@ -1,0 +1,4 @@
+# § 15. Uttalelser til klagere og forvaltningen
+Uttalelser til klagere bør være så fullstendige som mulig uten at det gis graderte opplysninger. Opplysning om at noen har vært gjenstand for overvåkingsvirksomhet eller ikke, anses som gradert hvis annet ikke blir bestemt. Ved klager mot tjenestene om overvåkingsmessig virksomhet skal det bare uttales om klagen har gitt grunn til kritikk eller ikke. Mener utvalget at en klager bør gis en mer utfyllende begrunnelse, gir det forslag om det overfor den tjeneste det gjelder eller vedkommende departement.
+Hvis en klage gir grunn til kritikk eller meningsytringer for øvrig, skal begrunnet uttalelse om dette rettes til sjefen for den tjeneste det gjelder eller vedkommende departement. Også ellers skal uttalelser i klagesaker alltid meddeles sjefen for den tjeneste klagen er rettet mot.
+Uttalelser til forvaltningen graderes etter sitt innhold.

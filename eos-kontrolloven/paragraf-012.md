@@ -1,0 +1,5 @@
+# § 12. Saksbehandling
+Samtaler med privatpersoner skal skje i avhørsform med mindre de er av orienterende art. Samtaler med forvaltningens personell skal skje i avhørs form når utvalget finner grunn til det eller tjenestemannen ber om det. I saker som kan ende med kritikk mot bestemte tjenestemenn, bør avhørs form i alminnelighet nyttes.
+Den som avhøres skal gjøres kjent med sine rettigheter og plikter, jf. § 9. Forvaltningens personell, og tidligere ansatte kan under avhør i saker som kan ende med kritikk mot dem også la seg bistå av en tillitsvalgt som er autorisert etter sikkerhetsloven med forskrifter. Forklaringen skal oppleses til vedtakelse og undertegning.
+Personer som kan bli utsatt for kritikk fra utvalget, bør varsles om de ikke allerede kjenner til saken. De har rett til å gjøre seg kjent med utvalgets ugraderte materiale og med gradert materiale som de er autorisert for, alt såframt det ikke vil skade undersøkelsene.
+Enhver som gir forklaring skal foreholdes beviser og påstander som ikke samsvarer med vedkommendes egne, såframt bevisene og påstandene er ugraderte eller vedkommende er autorisert for dem.
