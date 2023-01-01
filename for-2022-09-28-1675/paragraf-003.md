@@ -1,0 +1,2 @@
+# § 3. Endring av vilkår om kostnader for andre avtaler enn avtaler som nevnt i § 1
+For avtaler om andre finansielle tjenester enn kredittavtaler som nevnt i § 1 hvor tjenesteyteren i samsvar med ellers gjeldende rettsregler har en avtalt rett til ensidig å endre vilkår om renter, gebyrer og andre kostnader, gjelder reglene i § 2 tilsvarende. For endring av slike avtalevilkår gjelder reglene i lov 18. desember 2020 nr. 146 om finansavtaler først fra 1. juli 2023.

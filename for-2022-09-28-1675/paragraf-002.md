@@ -1,0 +1,5 @@
+# § 2. Passivt samtykke til endring av kredittvilkår og oppsigelsesrett for kredittyteren
+For kredittavtaler som nevnt i § 1 og som er inngått før 1. juli 2023, gjelder følgende fra 1. juli 2023:
+a) For endring av avtalens vilkår om renter, gebyrer og andre kredittkostnader som nevnt i § 1 kan kunden bli bundet ved passivt samtykke etter reglene i lov 18. desember 2020 nr. 146 om finansavtaler § 3-14 selv om dette ikke er avtalt.
+b) Dersom kunden i samsvar med lov 18. desember 2020 nr. 146 om finansavtaler § 3-14 avviser forslag om en saklig begrunnet endring av avtalens vilkår om renter, gebyrer og andre kredittkostnader til kundens ugunst, kan kredittyteren si opp kredittavtalen selv om et vilkår om kredittyterens rett til oppsigelse ikke er inntatt i kredittavtalen. Kredittyteren skal i varsel om endring av vilkårene opplyse om at manglende samtykke fra kunden gir kredittyteren rett til å si opp avtalen etter reglene i denne paragrafen, og at kunden har rett til å si opp avtalen straks og vederlagsfritt innen iverksettingstidspunktet for nye avtalevilkår.
+Første ledd kan fravikes ved avtale.
