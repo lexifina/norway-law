@@ -1,0 +1,3 @@
+# § 3. Videreføring av forskrifter
+Forskrifter gitt med hjemmel i lov 6. desember 1996 nr. 75 om sikringsordninger for banker, forsikringsselskapenes garantiordninger og offentlig administrasjon m.v. av finansinstitusjoner (banksikringsloven), og opphevede deler av lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsvirksomhetsloven), gjelder også etter at finansforetaksloven har trådt i kraft.
+Finanstilsynet kan ved enkeltvedtak avgjøre at bestemmelser i forskriftene som nevnt i første ledd og i finansforetaksloven § 23-2 annet ledd likevel ikke skal gjelde.
