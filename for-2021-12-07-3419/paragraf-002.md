@@ -1,0 +1,2 @@
+# § 2. Kommunens og Barne-, ungdoms- og familieetatens økonomiske ansvar
+Reglene om Barne-, ungdoms- og familieetatens økonomiske ansvar for tiltak etter loven, jf. barnevernsloven § 16-5 første ledd, og om kommunens økonomiske ansvar ved bruk av institusjoner mv., jf. barnevernsloven § 16-5 tredje ledd, gjelder også for hjelpetiltak som etaten tilbyr i senter for foreldre og barn, jf. § 1 første ledd.
