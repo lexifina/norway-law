@@ -1,0 +1,5 @@
+# § 14. Opplæringsdelen – formål og innhold
+(1) Emne i opplæringsdelen skal være på doktorgradsnivå, og skal blant annet omfatte opplæring i vitenskapsteori, etikk og formidling. Opplæringa skal bidra til at forventet læringsutbytte, slik det fremgår av det nasjonale kvalifikasjonsrammeverket for livslang læring, blir oppnådd. Opplæringsdelen er på 30 studiepoeng, og minst 20 bør avlegges etter opptak. Element i opplæringsdelen bør ikke være eldre enn to år ved avtaleperiodens start.
+(2) Fakultetet skal godkjenne emner på doktorgradsnivå som er avlagt ved en annen enhet eller en annen institusjon når de fyller de faglige kravene i opplæringsdelen, jf. uhl. § 3-5e. I emne der det ikke finnes kurstilbud, kan spesialpensum godkjennes som element i opplæringsdelen.
+(3) Dersom fakultetet ikke selv arrangerer hele opplæringsdelen, skal det sørge for at kandidatene får tilsvarende opplæring ved andre fakultet/institusjoner som gir godkjent doktorgradsutdanning.
+(4) Søknad om endringer i godkjent plan for opplæringsdelen skal utarbeides i samråd med hovedveileder og avgjøres av fakultetet selv.

@@ -1,0 +1,3 @@
+# § 25. Retting av formelle feil (errata)
+(1) Et arbeid som er levert kan ikke trekkes tilbake før det er endelig avgjort om det er verdig til å forsvares for doktorgraden.
+(2) Kandidaten kan likevel søke fakultetet om få rette formelle feil etter innlevering. For ph.d.-graden i kunstnerisk utviklingsarbeid gjelder dette kun refleksjonsdelen. Med søknaden skal kandidaten legge ved en fullstendig oversikt over alle feil (errata) kandidaten ønsker å rette. Søknaden må leveres senest fire uker før komiteen sin frist for å levere innstillingen. Dersom komiteen har fått kortere frist enn tre måneder på å levere innstillingen, kan fristen kortes forholdsmessig ned. Det kan bare søkes én gang.

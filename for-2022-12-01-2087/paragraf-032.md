@@ -1,0 +1,2 @@
+# § 32. Klage over avslag på søknad om opptak, vedtak om opphør av studierett og avslag på godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak til doktorgradsstudiet, vedtak om opphør av studierett og avslag på søknad om godkjenning av elementer i opplæringsdelen kan påklages til Nemnda for studentsaker etter reglene i forvaltningsloven § 28 flg. Klage skal sendes til fakultetet.

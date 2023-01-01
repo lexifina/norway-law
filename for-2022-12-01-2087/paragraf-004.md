@@ -1,0 +1,4 @@
+# § 4. Innholdet i doktorgradsutdanningen
+(1) Doktorgradsutdanninga er på 180 studiepoeng, fordelt med 30 studiepoeng på opplæringsdelen og 150 studiepoeng på doktorgradsarbeidet. Utdanningen skal gi doktorgradskandidaten kunnskap, ferdigheter og kompetanse i tråd med beskrivelsen av doktorgradsstudiet i det nasjonale kvalifikasjonsrammeverket for livslang læring, og skal være lagt opp slik at den skal kunne fullføres innenfor normert tidsramme (tre år effektiv tid).
+(2) Fakultetet har ansvar for at opplæringsdelen, sammen med doktorgradsarbeidet, gir utdanning på høyt faglig nivå og i samsvar med internasjonal standard, med gjennomføring av et doktorgradsarbeid, og blant annet trening i faglig formidling og innføring i forskningsetikk, vitenskapsteori og vitenskapsmetode.
+(3) Universitetet skal forberede doktorgradskandidaten på en yrkeskarriere i eller utenfor akademia.
