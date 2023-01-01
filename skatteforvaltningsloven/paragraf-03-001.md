@@ -3,4 +3,4 @@
 (2) Taushetsplikten omfatter ikke
 a) innholdet i skattelister som etter § 9-7 skal legges ut til alminnelig ettersyn, eller senere endringer i disse
 b) opplysninger om at en næringsdrivende er eller ikke er registrert i Merverdiavgiftsregisteret, etter forenklet registreringsordning for merverdiavgift eller i medhold av særavgiftsloven
-c) registreringspliktig statsstøtte etter lov 27. november 1992 nr. 117 om offentlig støtte § 2 a.
+c) registreringspliktig statsstøtte etter lov om nasjonale saksbehandlingsregler i saker om offentlig støtte § 7 første ledd.
