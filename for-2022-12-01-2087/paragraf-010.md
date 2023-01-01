@@ -1,0 +1,9 @@
+# § 10. Vedtak om opptak
+(1) Fakultetet selv fatter vedtak om opptak.
+(2) Vedtak om opptak skal være basert på en faglig vurdering av prosjektbeskrivelsen og av søkers potensiale for forskning eller kunstnerisk utviklingsarbeid slik dette går fram av søknaden. Dersom det er fastsett opptakstall, og det er flere søkere enn det er plasser, skal rangeringen skje etter en samlet vurdering av søknadene. Faglig relevans for fagmiljøet skal være et moment i vurderingen.
+(3) Opptak til doktorgradsutdanning er et vilkår for tiltredelse i stilling som stipendiat. Det kan gjøres foreløpig vedtak om opptak med forbehold om utarbeiding/revisjon av prosjektbeskrivelsen, utdanningsplan, finansiering, opptakskapasitet, tilleggsutdanning og immaterialrettslige avtaler. I foreløpig vedtak skal søkers utdanning være vurdert og oppfylle opptakskravene, og minst en veileder skal oppnevnes, fortrinnsvis hovedveileder.
+(4) Vedtak om opptak og inngåelse av doktorgradsavtalen skal gjøres senest innen tre måneder etter tiltredelse, jf. § 1-3 åttende ledd i forskrift om ansettelsesvilkår, vit. stillinger. Doktorgradskandidat og veiledere skal sammen gjennomgå prosjektbeskrivelsen, og vurdere behov for justeringer. Fullstendig prosjektbeskrivelse skal foreligge innen tre måneder etter tiltredelse.
+(5) Det er ikke grunnlag for opptak dersom:
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlinga eller det kunstneriske doktorgradsarbeidet.
+- de immaterialrettslige avtalene som er inngått er så urimelig at UiT ikke bør medvirke i prosjektet.
+- dersom det gjenstår mindre enn ett år fulltidsarbeid med doktorgradsprosjektet ved søknadstidspunktet, skal søknaden avvises. Dette gjelder ikke for søkere som har startet prosjektet som kandidat ved en forskerlinje.

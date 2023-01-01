@@ -1,0 +1,4 @@
+# § 31-1. Fellesgrad
+(1) Med fellesgrad menes et samarbeid mellom flere institusjoner der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i denne forskriften. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne.
+(2) For fullført fellesgrad utstedes felles vitnemål i form av: a) et vitnemålsdokument utstedt av alle konsortiemedlemmene, b) et vitnemål fra hver av konsortiedeltakerne, eller en kombinasjon av a) og b).
+(3) En fellesgrad skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom UiT og minst en av de andre konsortiedeltakerne. Universitetsstyret vedtar nærmere retningslinjer for fellesgradssamarbeid, herunder mal for samarbeidsavtaler.

@@ -1,0 +1,2 @@
+# § 12. Opptak til enkeltemner på doktorgradsnivå
+Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen til doktorgradsprogrammet, jf. forskrift om opptak til UiT § 17. Dersom et emne er adgangsbegrenset, må oversikt over prioritering av søkere også fremgå av emnebeskrivelsen. Dersom ikke annet er spesifisert i emnebeskrivelsen kan forskerlinjestudenter ta doktorgradsemner på lik linje med doktorgradskandidater.

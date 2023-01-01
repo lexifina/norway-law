@@ -1,0 +1,4 @@
+# § 16. Fremdriftsrapportering
+(1) Det skal gjennomføres årlig fremdriftsrapportering fra doktorgradskandidat og veileder. Både veileder og kandidat plikter å levere fremdriftsrapport, jf. forskrift om ansettelsesvilkår, vit stillinger § 1-3 (10). Formålet med rapportene er å få grunnlag til å bedre studiekvaliteten, og til å avdekke eventuelle avvik i planlagt studieprogresjon. Frekvensen av, og kvaliteten på, veiledningen bør være et tema i rapportene. Fremdriftsrapportering utgår det året midtveisevaluering etter § 17 avholdes.
+(2) Manglende eller mangelfull rapportering fra kandidaten kan føre til tvungen avslutning av utdanninga, jf. § 22-2 (1). Veileder som ikke følger opp rapporteringsplikten kan bli fratatt veilederansvaret.
+(3) Fakultetet kan ved behov kreve særskilt rapportering.

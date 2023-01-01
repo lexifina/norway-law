@@ -1,0 +1,3 @@
+# § 15. Veiledning
+(1) En doktorgradskandidat skal få individuell veiledning i arbeidet med doktorgradsarbeidet i samsvar med gjeldende retningslinjer og etter tidsnorm som fakultetet har fastsatt.
+(2) Fakultetene har, i samråd med veilederne, ansvar for å legge til rette for at kandidatene tar regelmessig del i et aktivt miljø for forsking eller kunstnerisk utviklingsarbeid. For kandidater som har hovedtilknytning ved en annen institusjon skal avtalen mellom universitetet og den samarbeidende institusjon regulere arbeidsvilkårene og sikre at kandidaten tar del i et aktivt miljø for forsking eller kunstnerisk utviklingsarbeid.

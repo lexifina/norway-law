@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Denne forskriften gjelder utdanningene som fører fram til de to gradene philosophiae doctor (ph.d.) og philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid. Forskriften gir regler om opptak til, gjennomføring og avslutning av doktorgrad ved Universitetet i Tromsø – Norges arktiske universitet (UiT). Forskrift for studier og eksamener ved UiT gjelder for emner i opplæringsdelen av doktorgradsstudiet.
