@@ -1,0 +1,2 @@
+# § 6
+For bedrifter og virksomheter som er nevnt i forskrift 12. januar 1990 nr. 12 om organisering og kontroll og iverksetting av egenbeskyttelsestiltak ved industrielle bedrifter m.v. § 1, kan Næringslivets Hovedorganisasjon ved Industrivernet innen rammen av forskriften og de nærmere bestemmelser som gis av Direktoratet for sivilt beredskap, fastsette særlige regler om plikten til å bygge eller innrede tilfluktsrom og om bruken av disse. Reglene godkjennes av Justisdepartementet.
