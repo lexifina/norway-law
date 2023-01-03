@@ -1,0 +1,1 @@
+# Plassbehov i private tilfluktsrom
