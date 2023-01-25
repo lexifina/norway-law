@@ -1,0 +1,2 @@
+# § 15. Pålegg om etterkontroll ved vesentlige eller farlige mangler
+Hvis kjøretøyet er registrert i Norge, kan kontrollmyndigheten beslutte at kjøretøyet skal gjennomgå en full teknisk kontroll innenfor en gitt frist. Dersom kjøretøyet er registrert i en annen EØS-stat, kan kontrollmyndigheten be vedkommende myndighet i den staten om å utføre slik teknisk kontroll. Ved vesentlige eller farlige mangler på kjøretøy registrert i stater utenfor EØS, kan kontrollmyndigheten underrette vedkommende myndighet i den aktuelle staten.

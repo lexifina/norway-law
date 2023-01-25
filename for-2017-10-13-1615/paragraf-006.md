@@ -1,0 +1,3 @@
+# § 6. Registrering av opplysninger og risikoklassifiseringssystem
+For foretak som benytter kjøretøy som nevnt i § 1 første ledd bokstav a til c, skal opplysninger om antall mangler og manglenes alvorlighetsgrad, som beskrevet i vedlegg II og III, føres inn i et system for klassifisering etter risikonivå, for å lage en risikoprofil for foretaket etter vedlegg I.
+Opplysningene skal brukes til å klassifisere foretak etter risikonivå, og kan danne grunnlag for målrettet utvelgelse til kontroll av disse foretakene. Foretak med høy risikoklassifisering kan bli kontrollert mer detaljert og hyppigere.
