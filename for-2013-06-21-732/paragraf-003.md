@@ -1,0 +1,16 @@
+# § 3. Definisjoner
+I denne forskriften menes med:
+a) Universell utforming: Utforming eller tilrettelegging av hovedløsningen i informasjons- og kommunikasjonsteknologi slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.
+b) Informasjons- og kommunikasjonsteknologi (IKT): Teknologi og systemer av teknologi som anvendes til å uttrykke, skape, omdanne, utveksle, lagre, mangfoldiggjøre og publisere informasjon, eller som på annen måte gjør informasjon anvendbar.
+c) Automat: Maskin eller annen innretning som brukeren opererer alene for å kjøpe en vare eller få utført en tjeneste.
+d) Nettløsning: Formidling av informasjon eller tjeneste som er tilgjengelig i nettleser eller tilsvarende, tilgjengelig via en URI (Uniform Resource Identifier) og som benytter http-protokollen (Hypertext Transfer Protocol) eller tilsvarende for å tilgjengeliggjøre innhold.
+e) Digitale læremidler: Nettbaserte redskaper som kan brukes i det pedagogiske arbeidet, og som er utviklet med hensikt å støtte læringsaktiviteter.
+f) Mobilapplikasjon: Brukerprogramvare som utformes og utvikles for bruk på mobile enheter rettet mot allmennheten, som smarttelefoner og nettbrett. Dette omfatter ikke programvare som styrer enhetene (operativsystem) eller maskinvare.
+g) Hovedløsning: IKT-løsninger som er en integrert del av den måten virksomheten informerer og tilbyr sine tjenester til allmennheten på og som er knyttet til virksomhetens alminnelige funksjon. Hovedløsning i utdannings- og opplæringssektoren: nettløsninger som er en integrert del av virksomhetens undervisning eller informasjonsformidling, og som virksomheten har innflytelse over.
+h) Tidsbaserte media: Omfatter media av følgende typer: kun lyd, kun video, lyd-video, lyd og/eller video kombinert med interaksjon.
+i) Gjenstander fra kulturhistoriske samlinger: Privat eller offentlig eide gjenstander som presenterer en historisk, kunstnerisk, arkeologisk, estetisk, vitenskapelig eller teknisk interesse, og som er en del av samlinger bevart av kulturinstitusjoner som biblioteker, arkiver eller museer.
+j) Intranett og ekstranett: Nettsteder som er tilgjengelig på et lokalt nettverk eller på det åpne internett til bruk for virksomhetens ansatte (intranett), eller som gir utvalgte tredjeparter adgang til avgrenset innhold (ekstranett).
+k) Måledata: Resultater fra kontrollaktiviteten som utføres for å kontrollere at kravene i § 4b overholdes. Måledata omfatter både kvantitative opplysninger om nettsteder og mobilapplikasjoner som er testet (antall nettsteder og mobilapplikasjoner eventuelt med antall av besøkende eller brukere, mv.) og kvantitative opplysninger om status for universell utforming.
+l) Ny IKT-løsning: Total utskifting av en teknisk løsning, versjonsoppgradering, utskifting eller større endring av kildekode og større endring av utseende eller utforming. Gradvise endringer over tid som til sammen utgjør en endring som nevnt i denne bokstav, kan også regnes som ny IKT-løsning.
+m) Brukergrensesnitt: Møtepunktet mellom menneske og maskin, og den delen av maskinen brukeren kommer i direkte kontakt med, herunder fysisk maskinvare og logiske programvarekomponenter.
+n) Standard: Normativt dokument, herunder spesifikasjoner, retningslinjer og veiledninger. Med standard menes også standard vedtatt etter forordning (EU) nr. 1025/2012 artikkel 2 (1) bokstav b og c.

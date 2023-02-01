@@ -1,0 +1,2 @@
+# § 4a. Krav til universell utforming av nettløsninger tilhørende allmennkringkastere og datterforetak
+Nettløsninger som tilhører allmennkringkastere og deres datterforetak, eller andre organisasjoner og deres datterforetak som utfører allmennkringkastingsoppgave, skal minst utformes i samsvar med standard Web Content Accessibility Guidelines 2.0 (WCAG 2.0)/NS/ISO/IEC 40500:2012, på nivå A og AA med unntak for suksesskriteriene 1.2.3, 1.2.4 og 1.2.5, eller tilsvarende denne standard.
