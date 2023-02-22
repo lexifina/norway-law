@@ -1,0 +1,6 @@
+# § 7. Utstedelse og gyldighet av sertifikat m.m.
+Føreren må inneha et gyldig førerbevis for å få utstedt sertifikat. Videre må føreren bestå periodiske prøver etter § 19 for at sertifikatet fortsatt skal være gyldig.
+Sertifikat utstedes av jernbanevirksomheten som vedkommende fører er tilknyttet. Sertifikatet eies av jernbanevirksomheten som utsteder det. Føreren har rett til å få en bekreftet kopi av sertifikatet.
+Jernbanevirksomheten skal som en del av sitt sikkerhetsstyringssystem etablere egne, dokumenterte fremgangsmåter for utstedelse, oppdatering, suspendering og tilbakekalling av sertifikater, herunder intern klagebehandling av slike saker. Jernbanevirksomheten skal påse og kontrollere at førere tilknyttet virksomheten har gyldig førerbevis og sertifikat.
+Når en fører slutter å arbeide for en jernbanevirksomhet, skal jernbanevirksomheten straks underrette Statens jernbanetilsyn om dette.
+Et sertifikat blir ugyldig når innehaveren av dette ikke lenger er ansatt som fører. Innehaveren skal imidlertid få en bekreftet kopi av sertifikatet og av all dokumentasjon av førerens opplæring, kvalifikasjoner, erfaring og yrkeskompetanse. Når en jernbanevirksomhet utsteder et sertifikat til en fører, skal de ta hensyn til alle disse dokumentene.
