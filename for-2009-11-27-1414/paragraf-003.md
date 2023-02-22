@@ -1,0 +1,3 @@
+# § 3. Grunnkrav til førersertifisering
+Førere skal være skikket og ha nødvendige kvalifikasjoner for å kunne utføre arbeidsoppgaver som er tillagt førere av trekkraftkjøretøy på en selvstendig, ansvarlig og sikker måte. Førere skal inneha et førerbevis og et sertifikat. Førerbevis og sertifikat skal alltid medbringes under framføring og kunne fremvises Statens jernbanetilsyn på forespørsel.
+Hvis en fører fra en tredjestat skal føre trekkraftkjøretøy utelukkende på grensekryssende strekninger av det nasjonale jernbanenettet, kan førerens sertifiseringsdokumenter godkjennes i samsvar med bilaterale avtaler med vedkommende tredjestat.

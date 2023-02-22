@@ -1,0 +1,2 @@
+# § 3a
+EØS-avtalen vedlegg XIII nr. 42gb (forordning (EU) nr. 36/2010 av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv 2007/59/EF) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Tilpasninger til modellen for førerbevis, sertifikat, bekreftet kopi av sertifikat og søknadsskjema for førerbevis fremgår av vedlegg I til forskriften her.
