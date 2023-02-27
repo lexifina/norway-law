@@ -1,0 +1,3 @@
+# § 20. Varebetegnelser
+Saltfisk, klippfisk og saltfilet kan bare tilvirkes av følgende arter som alle tilhører torskefamilien (familien Gadidae):Norsk navnEngelsk navnLatinsk navnTorskCodGadus morhuaStillehavstorskPacific codGadus macrocephalusPolartorskPolar codBoreogadus saidaGrønlandstorskGreenland codGadus ogacSeiSaitheGadus virens (ss. Pollachius virens)LangeLingMolva molvaBlålangeBlue lingMolva dypterygiaBrosmeTuskBrosme brosmeSkjellbrosme (ss. bustebrosme)ForkbeardPhycis blennoidesHyseHaddockGadus aeglefinus (ss. Melanogrammus aeglefinus)
+Betegnelsen saltfisk, klippfisk og saltfilet kan ikke brukes for tilvirking av saltet og tørket fisk av andre arter.
