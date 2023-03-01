@@ -1,0 +1,4 @@
+# § 58. Endringer i varefortegnelsen for registrerte merker
+Innehaver er ansvarlig for at varefortegnelsen i registreringen er i samsvar med den til enhver tid gjeldende versjon av Nice-avtalen om klassifikasjon av varer og tjenester av 15. juni 1957, jf. § 10.
+Innehaver kan kreve en presisering eller en begrensing av de varer og tjenester merket er registrert for. Melding om presisering eller begrensing av varefortegnelsen leveres til Patentstyret på særskilt skjema og skal utfylles med trykt skrift. Slik melding skal inneholde registreringsnummeret og en ny komplett varefortegnelse eller angi hvilke varer og tjenester som registreringen ikke lenger skal omfatte og være signert av innehaveren eller dennes fullmektig.
+Patentstyret kan av eget tiltak fastsette ny varefortegnelse (omklassifisering) etter at innehaveren er gitt anledning til å uttale seg om de påtenkte endringene. Den nye varefortegnelsen skal anmerkes i registret og nytt registreringsbevis utstedes.

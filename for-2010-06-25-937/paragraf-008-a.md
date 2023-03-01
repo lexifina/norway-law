@@ -1,0 +1,4 @@
+# § 8a. Tekniske krav til gjengivelsen av merket
+Elektroniske gjengivelser av varemerker i søknader skal oppfylle de tekniske krav som fastsettes av Patentstyret, herunder om filformater og størrelser.
+Hvis gjengivelsen ikke er elektronisk, jf. forskrift 26. mars 2014 nr. 333 om betalinger mv. til Patentstyret og Klagenemnda for industrielle rettigheter § 1 tredje ledd, skal merket gjengis adskilt fra søknadens tekstblad på et enkelt ark. Gjengivelsen skal inneholde alle relevante synsvinkler eller bilder, og kan ikke være større enn format A4 (29,7 cm i høyden, 21 cm i bredden), og det skal være en marg på minst 2,5 cm rundt merket. Merkets posisjon kan angis ved tilføyelsen av ordet «opp» på hver gjengivelse.
+Gjengivelsen av merket skal være av en slik kvalitet at den kan reduseres eller forstørres til 8,0 x 8,0 cm.

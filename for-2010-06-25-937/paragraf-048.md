@@ -1,0 +1,2 @@
+# § 48. Krav om fornyet vurdering
+I foreløpig avslag som nevnt i § 47 annet ledd, skal det opplyses om at innehaveren av den internasjonale registreringen innen tre måneder etter at meldingen om det foreløpige avslaget ble sendt, kan kreve en fornyet vurdering av spørsmålet om registreringen helt eller delvis skal få virkning i Norge. Varemerkeloven § 23 og § 80, samt forskriften her § 53 og § 54 får anvendelse.

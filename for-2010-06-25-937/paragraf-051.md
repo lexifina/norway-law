@@ -1,0 +1,3 @@
+# § 51. Omdanning til en nasjonal varemerkeregistrering
+Krav om omdanning etter varemerkeloven § 75 må leveres til Patentstyret i søknad om nasjonal registrering etter kapittel 1. I tillegg til opplysninger som nevnt i kapittel 1 må det i søknaden angis hvilken internasjonal registrering kravet om omdanning gjelder og opplyses om tidspunktet for bortfall eller oppsigelse som nevnt i annet ledd.
+Frist for levering av krav om omdanning etter varemerkeloven § 75 første ledd, er senest tre måneder etter at bortfallet av den internasjonale registreringen ble registrert hos Det internasjonale byrået. Frist for levering av krav om omdanning etter varemerkeloven § 75 annet ledd, er senest to år etter at oppsigelsen av Madridprotokollen fikk virkning.
