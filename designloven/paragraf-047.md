@@ -1,0 +1,3 @@
+# § 47. Melding om søksmål
+Den som reiser søksmål om ugyldighet eller om overføring av en registrering, skal samtidig gi melding om det til Patentstyret samt i rekommandert brev gi melding til enhver lisenshaver som er innført i designregistret med adresse. En lisenshaver som reiser søksmål om designinngrep, skal i rekommandert brev gi melding om dette til den som er innført i designregisteret som designhaver, hvis adressen er angitt i registeret.
+Dokumenterer saksøkeren ikke at de nødvendige meldingene er gitt, kan retten sette en frist for å gi meldingene. Oversittes fristen skal saken avvises.

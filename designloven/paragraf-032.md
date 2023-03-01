@@ -1,0 +1,4 @@
+# § 32. Forholdet mellom saker for Patentstyret og domstolene
+Pågår sak for Patentstyret om overføring av en søknad, kan Patentstyret ikke endre, henlegge, avslå eller innvilge søknaden før saken om overføring er endelig avgjort. Gjelder saken retten til en design i en registrering, kan registreringen ikke oppheves, endres eller slettes før nevnte tidspunkt.
+Er det reist søksmål for domstolene om retten til designen, skal Patentstyret utsette behandlingen av sak om registrering, oppheving eller overføring inntil søksmålet er rettskraftig avgjort. Er det reist søksmål om ugyldighet, skal Patentstyret utsette behandlingen av sak om oppheving inntil nevnte tidspunkt.
+Den som har fremmet krav om administrativ overprøving, kan ikke reise søksmål om ugyldighet eller overføring mens saken pågår for Patentstyret.

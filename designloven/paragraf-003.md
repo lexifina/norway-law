@@ -1,0 +1,4 @@
+# § 3. Nyhet og individuell karakter
+Designrett kan bare oppnås hvis designen er ny og har individuell karakter.
+En design anses som ny hvis ingen identisk design har blitt allment tilgjengelig før den dagen da søknaden ble innlevert (søknadsdagen) eller før prioritetsdagen, hvis det er påberopt prioritet etter § 16. En design skal anses som identisk med en annen design hvis de karakteriserende trekkene bare skiller seg fra hverandre på uvesentlige punkter.
+En design anses å ha individuell karakter hvis helhetsinntrykket designen gir den informerte brukeren, skiller seg fra helhetsinntrykket en slik bruker får av annen design som har blitt allment tilgjengelig før den dagen som er nevnt i annet ledd. Ved vurderingen av om designen har individuell karakter, skal det tas hensyn til hvor stor frihet designeren hadde ved utviklingen av designen.

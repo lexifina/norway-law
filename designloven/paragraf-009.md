@@ -1,0 +1,3 @@
+# § 9. Designrettens innhold og omfang
+Designretten innebærer at ingen kan utnytte designen uten samtykke fra innehaveren av designretten (designhaveren), med de unntakene som følger av §§ 10 til 12. Slik utnyttelse gjelder særlig det å tilvirke, utby, bringe i omsetning, innføre, utføre eller bruke et produkt som designen inngår i eller anvendes på, samt det å lagre et produkt med formål som nevnt.
+Designretten omfatter enhver design som ikke gir den informerte brukeren et annet helhetsinntrykk. Ved vurderingen av omfanget av designretten skal det tas hensyn til hvor stor frihet designeren hadde ved utviklingen av designen.
