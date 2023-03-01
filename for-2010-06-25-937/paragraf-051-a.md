@@ -1,0 +1,4 @@
+# § 51a. Deling av internasjonale varemerkeregistreringer
+Når Patentstyret har fått melding fra Det internasjonale byrået med krav om at en internasjonal varemerkeregistrering helt eller delvis skal ha virkning i Norge, kan innehaveren kreve at registreringen deles i flere registreringer.
+Krav om deling leveres til Patentstyret. For krav om deling som leveres mens den internasjonale registreringen er under behandling, gjelder § 18 og § 19 tilsvarende. For krav om deling som leveres etter at den internasjonale registreringen er gitt virkning i Norge, gjelder § 20 og § 21 tilsvarende. Det skal betales fastsatt gebyr for hver ny registrering.
+Finner Patentstyret at vilkårene for deling er oppfylt, skal Patentstyret sende en melding til Det internasjonale byrået om å anmerke delingen i det internasjonale registeret.

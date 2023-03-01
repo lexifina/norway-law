@@ -1,0 +1,2 @@
+# § 45. Krav om at registreringen skal ha virkning i ytterligere stater
+Når Patentstyret mottar søknad som nevnt i varemerkeloven § 69, skal Patentstyret anmerke datoen for mottagelse og signere søknaden. Dersom søknaden blir funnet å være i orden skal den oversendes til Det internasjonale byrået tidsnok til at den kan mottas der innen to måneder etter at den ble mottatt av Patentstyret. For øvrig gjelder bestemmelsene i regel 24 i de supplerende reglene til Madridprotokollen.

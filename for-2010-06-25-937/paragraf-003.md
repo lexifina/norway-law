@@ -1,0 +1,2 @@
+# § 3. Adresse for korrespondanse
+Dersom ikke annet er angitt i søknaden, er adressen som oppgis etter § 2 nr. 1 adresse for meddelelser og forkynnelser m.m. etter varemerkeloven § 77. Har søker oppnevnt fullmektig, er fullmektigens adresse slik adresse så langt som fullmakten rekker. Er det flere søkere eller fullmektiger, og ikke annet er angitt, er adressen til den som er nevnt først adresse for korrespondanse. Søker kan når som helst melde inn ny adresse for korrespondanse til Patentstyret.
