@@ -1,0 +1,4 @@
+# § 16. Prioritet
+Den som har innlevert en søknad om beskyttelse av design i Norge eller i en stat tilsluttet Pariskonvensjonen 20. mars 1883 om beskyttelse av industriell eiendomsrett eller avtale 15. april 1994 om opprettelse av Verdens handelsorganisasjon (WTO-avtalen), og som innen seks måneder etter dette søker om designrett her i landet, kan kreve at den nye søknaden skal anses som innlevert samtidig som den første søknaden.
+Den som har vist frem en design på en offisiell eller offisielt anerkjent internasjonal utstilling som nevnt i konvensjon 22. november 1928 om internasjonale utstillinger, og som innen seks måneder etter dette søker om designrett her i landet, kan kreve at søknaden skal anses som innlevert på den dagen da designen første gang ble vist frem på utstillingen.
+Kongen kan ved forskrift fastsette nærmere vilkår for retten til å kreve prioritet. Kongen kan også fastsette at prioritet kan kreves i andre tilfeller enn nevnt i første og annet ledd.

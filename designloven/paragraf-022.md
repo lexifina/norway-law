@@ -1,0 +1,3 @@
+# § 22. Opplysningsplikt for designsøker
+En søker som påberoper seg designsøknaden overfor en annen før designen har blitt allment tilgjengelig, skal etter forespørsel la vedkommende gjøre seg kjent med dokumentene i søknaden.
+Den som ved direkte henvendelse eller i annonser eller på annen måte har gjort det kjent for utenforstående at det er søkt om eller gitt designrett, uten å oppgi søknadens eller registreringens nummer, skal uten unødig opphold etter forespørsel opplyse om nummeret. Den som har gitt opplysninger som kan gi inntrykk av at det er søkt om eller gitt designrett, skal uten unødig opphold etter forespørsel opplyse om designen er registrert eller søkt registrert.

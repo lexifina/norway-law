@@ -1,0 +1,5 @@
+# § 54. Rettsvirkningen mv. av innføringer i designregistret
+Søksmål som gjelder en designregistrering, kan alltid reises mot den som står som innehaver i designregistret, og meldinger som Patentstyret skal gi designhaveren, kan alltid sendes til denne.
+Er en designrett overdratt til en annen, skal dette innføres i designregistret og kunngjøres hvis en av partene ber om det. Hvis enkelte av designene i en samregistrering etter § 15 er overdratt, kan overdragelsen bare innføres i designregistret og kunngjøres hvis designhaveren krever deling av registreringen. For slik deling skal det betales fastsatt gebyr, ellers anses kravet om deling som ikke innkommet.
+Utlegg i designretten skal innføres i designregistret og kunngjøres etter melding fra namsmyndighetene.
+Frivillig overdragelse av en designregistrering eller utstedelse av lisens som er blitt innmeldt til registrering, går i kollisjonstilfelle foran overdragelse eller utstedelse av lisens som ikke er eller først senere blir innmeldt til registrering, dersom vedkommende rettighetshaver ved innmeldelsen var i god tro.
