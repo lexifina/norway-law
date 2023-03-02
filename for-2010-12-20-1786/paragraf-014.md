@@ -1,0 +1,33 @@
+# § 14. Utforming av sorteringsristsystemet
+a) Risten og kassetten
+Risten som benyttes skal ha følgende minimum lengde og bredde:
+Ramme lengde: 1650 mm
+Ramme bredde: 1234 mm
+Kassetten som kan benyttes skal ha følgende lengde og bredde:
+Kassettlengde: 1880 mm
+Kassettbredde: 1360 mm.
+b) Nettseksjonen
+To- og firepanels nettseksjon skal være utformet som vist i vedlegg 3 figurene 1 – 4 (to-panel) eller vedlegg 3.1 figur 1 (fire-panel).
+En to-panels nettseksjon skal utformes på følgende måte:
+1) Nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.
+2) Den skråskårne nettseksjonens omkrets skal være 160 masker (2 x 80 masker) i forkant, skråskåret ned til 100 masker (2 x 50 #). I denne delen av forlengelsen skal det fortrinnsvis benyttes samme maskevidde og materiale som i belgen, men med dobbel tråd. Bakerste del av nettseksjonen skal gå over i en rettskåret del med en omkrets på 104 masker (2 x 52 #) og med en minimum lengde på 22,5 masker. I bakerste del av forlengelsen kan det benyttes P.E. (courlene) eller P.A. (nylon) som materiale.
+3) Den rettskårne nettseksjonen hvor sorteringsristen eller sorteringsristkassetten, løftepanelet, ledepanelet og støttekjettingene/støttetauene skal være innmontert, skal være formet som en sylinder med omkrets i forkant og bakkant på 104 masker (2 x 52#) og en lengde på 60 masker i minimum 135 mm maskevidde.
+4) På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes i forkant 1 meter fremfor sorteringsristens bakkant.
+En fire-panels nettseksjon skal være utformet på følgende måte:
+1) Nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.
+2) Den skråskårne delen av nettseksjonen skal bestå av fire sider for kobling mot to- eller fire-panels trålbelg. Den skal ha en omkrets i forkant på 4 x 40 frie masker (160 frie masker) skråskjæres ned til 4 x 26 frie masker i bakkant (104 frie masker). For overgang til to-panels trålbelg skal sidepanelene skråskjæres fra 26 frie masker i bakkant til 0 frie masker i forkant. Omkretsen i forkant vil da være 2 x 80 frie masker (totalt 160 frie masker). I denne delen av forlengelsen skal det fortrinnsvis benyttes samme maskevidde og materiale som i belgen, men med dobbel tråd.
+3) Den rettskårne delen av nettseksjonen hvor sorteringsristen eller sorteringsristkassetten, løftepanelet og ledepanelet skal være innmontert, skal være formet med fire like store sider, med omkrets på 4 x 26 frie masker (totalt 104 frie masker) og en lengde på 50,5 masker i minimum 135 mm maskevidde.
+4) På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes i forkant 1 meter fremfor sorteringsristens bakkant.
+c) Løftepanel
+Løftepanelet i en to-panels nettseksjon skal være innmontert i underpanelet og langs stolpe opp mot sideleis. Deretter skal løftepanelet være montert langs 6 masker i sideleis før det monteres ned langs stolpe mot bunnen i underpanelet. Det skal være 4 masker mellom bakerste punkt for løftepanel langs leis og fremre hjørner av sorteringsrist. Maskevidden i løftepanelet skal være maksimum 60 mm, og løftepanelet skal ha en minimum og maksimum bredde på henholdsvis 45 masker i for- og bakkant og 115 masker på midten. Under løftepanelets fremre del skal det være montert 5 fløytkuler. Løftepanelet skal være laget i P.E. (courlene), jf. figur 7, vedlegg 3.
+Løftepanelet i en fire-panels nettseksjon skal lages av kvadratmasket lin eller nett med maksimum maskevidde på 80 mm og minimum 60 mm. Løftepanelet skal være innmontert i underpanelet og opp langs stolpene til midten av sidepanelene for så å følge stolpene ned til bunnpanelet. Det skal være 6 masker mellom toppen av løftepanelet til fremre hjørner av sorteringsristen. Løftepanelet skal ha en maksimum bredde tilsvarende ristens bredde. Under midten av løftepanelet skal det være montert tre fløytkuler på 8 tommer (200 mm) jevnt fordelt i panelets bredde. Løftepanelet skal være laget i P.E. (courlene).
+d) Ledepanel
+Ledepanelet i en to-panels nettseksjon skal ha en bredde på 60 masker og en lengde som tilsvarer lengden av stolpene i nettseksjonen det er montert langs, pluss 10 %. Ledepanelet skal ha en maskevidde på maksimum 60 mm og skal være laget i P.E. (courlene), jf. figur 8 i vedlegg 3.
+Ledepanelet i en fire-panels nettseksjon skal ha en maksimum bredde tilsvarende ristens bredde og en lengde som tilsvarer lengden av stolpene i nettseksjonen det er montert langs. Ledepanelet skal lages i kvadratmasket lin eller nett og skal ha en maskevidde på maksimum 80 mm og minimum 60 mm og skal være laget i P.E. (courlene).
+e) Fløytkuler
+For å nøytralisere vekten av sorteringsristen og/eller sorteringsristkassetten skal det benyttes fløytkuler.
+Ved bruk av sorteringsrist uten sorteringsristkassett, skal det benyttes totalt 17 fløytkuler hvor 7 kuler monteres langs forkant av risten og 5 kuler på hver side langs maskeleisen ved fiskeutslippet fra ristens fremre hjørner og bak mot ledepanelet.
+Ved bruk av rist med kassett skal det i tillegg monteres 6 kuler festet til sidene på kassetten, hvor en fester 3 kuler på hver side.
+Kulene skal monteres tett og skal sitte rett over sidene på sorteringsristen eller sorteringsristkassetten.
+f) Støttekjettinger/støttetau
+I en to-panels nettseksjon skal det på hver side av sorteringsristen eller sorteringsristkassetten monteres en støttekjetting eller et støttetau som beskrevet i § 13 andre ledd nr. 2. Kjettingene eller tauene skal monteres i sorteringsristens eller sorteringsristkassettens øvre hjørner og bakover for feste i sideleis (sammenføyning mellom overpanelet og underpanelet.). Støttekjettingene eller støttetauene skal være festet i leisen 0 til 35 cm foran bakenden på nettseksjonen. Lengden på støttekjettingen eller støttetauene skal være 112 cm uten kassett og 118 cm med sorteringsristkassett pluss lengden fra sorteringsristen eller sorteringsristkassettens festepunkt i leis til støttekjettingens eller støttetauets festepunkt i leis. For å ha et stødig festepunkt til støttekjetting eller støttetau i leis, kan det bendsles fast en 20 til 25 cm lang kjetting fra bakenden av nettseksjonen og forover. Lengden på støttekjettingen eller støttetauet måles fra innsiden av enden av GM-lås på risten til innsiden av enden av GM-lås som er festet i leis.
