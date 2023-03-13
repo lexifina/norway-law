@@ -1,0 +1,2 @@
+# § 5. Tilskudd etter søknad
+Etter søknad tildeles inntil 3 prosent av overskuddet omtalt i § 3 andre ledd til andre organisasjoner enn de som er nevnt i § 4. Tilskudd gis til ikke-fortjenestebaserte organisasjoner som arbeider for å fremme norsk hesteavl, hestehold og hestesport, og uansett i tråd med statsstøtteregelverket. Landbruks- og matdepartementet kan gi nærmere bestemmelser om tilskudd etter denne paragrafen.
