@@ -1,0 +1,7 @@
+# § 11. Kjemikalier
+1. Alle typer farlige kjemikalier som blir tatt om bord som f.eks. trikloretylen (tri), kaustisk soda, flytende lut, saltsyre, etc. skal nedtegnes i en spesiell liste med angivelse av nøyaktig teknisk navn, kjemiske og fysiske egenskaper samt plassering om bord. Nødvendig informasjon om helsefare, tiltak i tilfelle ulykker, transport og lagring skal være om bord.
+2. Kjemikalier skal ikke blandes med andre stoffer uten at virkningen er kjent.
+3. Nødvendige forsiktighetsregler iakttas når farlige kjemikalier blir transportert, lagret eller brukt i det daglige arbeidet. Beholdere med farlige kjemikalier skal være forsvarlig merket i henhold til den internasjonale koden for farlig gods.
+4. Personellet skal benytte hensiktsmessig personlig verneutstyr ved håndtering av farlige kjemikalier. Personellet skal instrueres om de farer som foreligger og om forsvarlig bruk av verneutstyr under ulike operasjoner. Verneutstyret skal være plassert i særskilte støvog vanntette skap i områder hvor kjemikalier ofte benyttes.
+5. En tilstrekkelig mengde nøytraliserende stoff skal være lett tilgjengelig til nøytralisering av syre som spilles.
+6. Sykepleieren eller førstehjelperen skal ha en kopi av listen over farlige kjemikalier. Vedkommende skal være informert om stoffenes giftvirkninger og andre skadelige virkninger og være kvalifisert til å gi førstehjelp ved eventuelle skader/forgiftninger. Nødvendige medikamenter og utstyr for dette skal inngå i førstehjelpsutstyret om bord.
