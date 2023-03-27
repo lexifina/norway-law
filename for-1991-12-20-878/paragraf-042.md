@@ -1,0 +1,4 @@
+# § 42. Funksjon ved «normal operasjon»
+1) Når betjeningsvelgeren for fjernstengesystemet i kontrollrommet er satt i stillingen «normal operasjon», skal dørene kunne åpnes og lukkes lokalt, fra begge sider, både mekanisk/hydraulisk og ved håndpumpe.
+2) Åpning av dørene skal skje ved aktivering av lokal operasjonshendel. Døren skal da åpne når hendelen holdes i åpen stilling og stoppe når den slippes. System der dørene går helt opp og blir stående i åpen posisjon selv om hendelen slippes, kan også aksepteres.
+3) Lukking av dørene lokalt skal skje ved at hendel for operasjon holdes i lukket stilling inntil døren er lukket. Slippes hendelen før døren er helt lukket, skal dørbevegelsen stoppe eller automatisk gå til åpen stilling igjen. Det skal etter stopp være mulig enten å fortsette stengingen av døren, eller å åpne døren på nytt uten at den først har vært helt lukket.

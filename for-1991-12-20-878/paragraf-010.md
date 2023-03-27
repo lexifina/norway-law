@@ -1,0 +1,7 @@
+# § 10. Operasjonstilstand, krav til stabilitet, kurve I-op
+1) I operasjonstilstand skal innretningen følge intaktstabilitetskravene i § 20 med vindhastighet på minst 36 meter pr. sekund (m/s) (70 knop) og skadestabilitetskravene i § 21 med vindhastighet på minst 25,8 m/s (50 knop) etter antatt skade i samsvar med § 23. Halvt nedsenkbare innretninger skal i tillegg følge reserveoppdriftskravene i § 22.
+2) Maks. KG for å følge ovennevnte stabilitetskrav skal tegnes opp for alle aktuelle dypganger for operasjon og betegnes i det følgende som KG-grensekurve I-op. Aktuelle operasjonsbegrensninger for tilstanden skal angis i tilknytning til KG-grensekurven.
+3) Det skal være mulig å bringe innretningen til sikkerhetstilstand fra enhver operasjonstilstand kun ved å deballastere, eventuelt dumpe flytende boreslam, jf. § 12. Hvis Maks. KG knyttet til sikkerhetstilstanden eller temporære tilstander gir begrensninger med hensyn til å bringe innretningen fra operasjonstilstand til sikkerhetstilstand, vil disse bestemme Maks. KG for operasjonstilstanden, jf. § 13.
+4) For nedsenkbare og oppjekkbare innretninger kommer ovennevnte krav ikke til anvendelse.
+5) Spesialtilstander for operasjon.
+KG-grensekurver for spesielle eller kortvarige operasjoner kan baseres på andre kriterier eller lavere vindhastigheter enn det som er angitt i nr. 1. Dette forutsetter at den totale sikkerhet for tilstanden minst er den samme som for ordinære operasjonstilstander når det også tas hensyn til operasjonsbegrensninger.

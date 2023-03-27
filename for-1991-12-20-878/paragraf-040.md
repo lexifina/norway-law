@@ -1,0 +1,5 @@
+# § 40. Styre-, indikator- og alarmsystemer
+1) Styre-, indikator- og alarmsystemene for lukningsmidlene skal være koblet til hoved- og nødtavlen. I tillegg skal de være batteritilkoblet.
+2) Batterienes samlede kapasitet skal være stor nok til at 50% av alle lukningsmidlene kan opereres minst 3 ganger (lukke-åpne-lukke), ved krenging som spesifisert i § 30.
+3) Systemene og dets komponenter skal være adskilte fra andre systemer og konstruert slik at en enkelt feil i en komponent eller et rørbrudd/kabelbrudd ikke forårsaker manglende evne til fjernstenging av mer enn et lukningsmiddel, eller forårsake åpning av allerede stengte lukningsmidler. En enkelt feil i indikator- eller alarmsystemene skal heller ikke medføre at det aktuelle lukningsmidlet ikke kan fjernstenges eller stenges lokalt.
+4) Ved og etter nødavstengning skal lukningsmidlene ikke kunne åpnes eller lukkes utilsiktet på grunn av elektrisk kortslutning i fjernstengesystemene. I denne tilstand skal lukningsmidler for atkomståpninger fortsatt kunne opereres lokalt.

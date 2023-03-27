@@ -1,0 +1,4 @@
+# § 11. Forflytningstilstand, krav til stabilitet, kurve I-tr
+1) I forflytningstilstand skal innretningen følge intaktstabilitetskravene i § 20 med vindhastighet på minst 36 m/s (70 knop) og skadestabilitetskravene i § 21 med vindhastighet på minst 25,8 m/s (50 knop) etter antatt skade i samsvar med § 23.
+2) Maks. KG for å følge disse stabilitetskrav skal tegnes opp for alle aktuelle dypganger for forflytning og betegnes i det følgende som KG-grensekurve I-tr. Aktuelle operasjonsbegrensninger for tilstanden skal angis i tilknytning til KG-grensekurven.
+3) Det skal være mulig å bringe innretningen til sikkerhetstilstand fra enhver forflytningstilstand kun ved å ballastere, eventuelt dumpe flytende boreslam. Hvis Maks. KG knyttet til sikkerhetstilstanden eller temporære tilstander, jf. § 12 og § 13, gir begrensninger med hensyn til å bringe innretningen fra forflytningstilstand til sikkerhetstilstand, bestemmer disse Maks. KG for forflytningstilstanden.

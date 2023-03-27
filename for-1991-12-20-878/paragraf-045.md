@@ -1,0 +1,2 @@
+# § 45. Tilleggskrav til vanntett lukking av åpninger på oppjekkbare innretninger
+Dersom ventilatorer o.l. er plassert slik at de kan bli skadet eller revet løs som følge av sjøslag, løsnet utstyr eller løsnet dekkslast, og derved kunne gi fylling i rom som i stabilitetsberegningene antas å være oppdriftsgivende ved krengevinkler gitt av § 21, skal disse ha et vanntett lukningsmiddel plassert slik at det fortsatt vil være effektivt etter hendelsen.
