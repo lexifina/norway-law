@@ -1,0 +1,4 @@
+# § 7. Terroralarmsystem (Ship security alert system)
+(1) Fartøy som omfattes av denne forskrift skal ha et terroralarmsystem om bord i henhold til bestemmelsene i SOLAS kap. XI-2, regel 6.
+(2) Dersom Hovedredningssentralen mottar alarm fra et norsk fartøy, skal fartøyets rederi snarest mulig bli varslet om dette. Hvert rederi skal ha etablert prosedyrer for å kunne få avklart om det dreier seg om tilsiktet utsendelse av terroralarm eller ikke, og hvis mulig fremskaffe opplysninger om situasjonen om bord. Eventuell kontakt med fartøyet skal skje på en slik måte at ingen uvedkommende vil kunne forstå at det er mottatt terroralarm fra fartøyet.
+(3) Når rederiet blir varslet om at det er mottatt terroralarm fra et fartøy, skal rederiet omgående iverksette ovennevnte prosedyre. Rederiet skal melde tilbake til Hovedredningssentralen så snart omstendighetene rundt utsendelsen av terroralarm er avklart.

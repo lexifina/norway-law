@@ -1,0 +1,2 @@
+# § 6a. Rapportering til regionale sikkerhetssentre i høyrisikoområder for piratangrep
+Skip som skal foreta operasjoner eller gå i transitt i et område som er definert som høyrisikoområdet for piratangrep i «Best management practices to deter piracy off the Coast of Somalia and in the Arabian Sea Area», skal følge anbefalingene i «Best management practices to deter piracy off the Coast of Somalia and in the Arabian Sea Area» som gjelder registrering hos MSCHOA og rapportering til UKMTO og andre kontaktpunkter før innreise i området og underveis.

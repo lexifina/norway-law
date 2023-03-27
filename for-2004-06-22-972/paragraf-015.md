@@ -1,0 +1,4 @@
+# § 15. Beredskapsnivå
+(1) Fartøy skal minst operere i henhold til det beredskapsnivå som fastsettes av norske myndigheter, med mindre høyere beredskapsnivå kreves av havnestater i henhold til SOLAS kap. XI-2, regel 4.3.
+(2) Fartøy skal uten forsinkelser respondere på melding om endring til høyere beredskapsnivå.
+(3) Når norske myndigheter beslutter å iverksette beredskapsnivå 2 eller 3 for visse eller alle norske fartøy, skal dette skje ved at fartøyenes rederier informeres av norske myndigheter. Rederiene skal omgående informere alle berørte fartøy om at beredskapsnivå 2 eller 3 er fastsatt, og fartøyet skal omgående sende en kvittering til rederiet hvor det bekreftes at melding om endret beredskapsnivå er mottatt om bord. Dersom slik kvittering ikke er mottatt innen 12 timer etter utsendelse av informasjon til rederiet, skal rederiet varsle Hovedredningssentralen om dette

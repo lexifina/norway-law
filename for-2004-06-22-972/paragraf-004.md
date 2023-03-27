@@ -1,0 +1,3 @@
+# § 4. Fravik
+(1) I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike forskriftens krav. Spesielle grunner må gjøre fraviket nødvendig og fraviket må være sikkerhetsmessig forsvarlig. Fravik må ikke være i strid med internasjonal overenskomst Norge har sluttet seg til.
+(2) Sjøfartsdirektoratet kan tillate fartøy eller grupper av fartøy å implementere andre sikkerhetstiltak ekvivalente til de tiltak som er beskrevet i SOLAS kap. XI-2 eller ISPS-koden, forutsatt at slike ekvivalente sikkerhetstiltak er minst like effektive som de beskrevet i SOLAS kap. XI-2 eller ISPS-koden.
