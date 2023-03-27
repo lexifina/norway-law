@@ -1,0 +1,25 @@
+# § 7. Ankervinsj
+(1) Ankervinsjen skal dimensjoneres for alle forhold som innretningen planlegges å brukes under jf. § 17 annet og tredje ledd, samt ha den trekkraften som trenges for å prøve ankersystemets holdekraft statisk i henhold til § 17 første ledd, dog ikke lavere enn 300 tonn.
+(2) Ved belastning lik ankerlinens bruddstyrke skal ikke karakteristisk spenning i vinsjen eller fundamentene overskride 90 % av materialets flytegrense.
+(3) Dimensjoneringen av vinsj med hensyn til trekkraft og bremsesystemer skal ta utgangspunkt i delesirkel ved kabelardrift og tredje linelag ved trommelutførelse.
+(4) For vinsjer uten pal, eller der pal ikke er i samsvar med § 8, gjelder:Når vinsjen er parkert skal minst to uavhengige holdebremsesystemer være innkoplet til enhver tid. Samlet statisk holdekraft skal minst tilsvare 120 % av bruddstyrken til den aktuelle ankerlinen. Den svakeste bremsen skal kunne holde minst 60 % av nevnte bruddstyrke.
+(5) For vinsjer med pal, og der pal er i samsvar med § 8, gjelder:Når vinsjen er parkert skal det, i tillegg til pal, være minst ett holdebremsesystem innkoplet til enhver tid. Samlet statisk holdekraft skal minst tilsvare bruddstyrken til den aktuelle ankerlinen.
+(6) Når vinsjen opereres skal minst to uavhengige bremsesystemer være tilgjengelig til enhver tid. Det skal være et dynamisk bremsesystem som hensiktsmessig skal kunne stoppe aktuelle kombinerte belastninger fra ankerlinen og ankerhåndteringsfartøy under utkjøring med maksimal hastighet, jf. syvende og niende ledd. Dimensjonerende spenning i vinsjen og alle komponenter som blir belastet under oppbremsing skal ved disse belastningene ikke overskride 85 % av materialets minste spesifiserte flytegrense eller 80 % av materialets bruddstyrke. Den dynamiske bremsen skal om nødvendig ha et kjølesystem.
+(7) Dynamisk bremsesystem skal kunne håndtere en fart på 1,5m/s og 100 tonn påkjent last. Ved svikt i dynamisk bremsekraft skal man kunne stoppe ved hjelp av statisk brems, jf. tolvte ledd.
+(8) Det skal dokumenteres og oppgis i operasjonsmanualen de hastighets- og belastningskarakteristikker som bremsesystemet kan tillates å bli utsatt for under utkjøring.
+(9) Når ankervinsjens bremser er tilsatt skal bremsekraften ikke påvirkes av enkeltfeil i krafttilførsel eller kontrollsystem. Ved svikt i krafttilførselen under kjøring av vinsjen, skal en restbremsekraft på minst 50 % av linens bruddstyrke øyeblikkelig og automatisk tilsettes. Bremsekraften skal opprettholdes frem til krafttilførsel og kontrollsystem er i funksjon.
+(10) Bremsene skal kunne utløses ved hjelp av lagret energi i løpet av 15 sekunder slik at en i et nødstilfelle vil få en kontrollert utløsing og frigjøring av hele ankerlinen (nødutløsing). Dette skal være mulig fra kontinuerlig bemannet kontrollrom. Det skal være et sikringssystem (f.eks. beskyttelseslokk) som forhindrer utilsiktet utløsing. Ankerlinen skal ikke kunne punktere skroget ved nødutløsing eller føre til annen eskalering av hendelsen.
+(11) Det skal ikke være mulig å løse ut ankerlinen når stigerør til produksjon er innkoblet til innretningen. Det skal være et eget sikringssystem som forhindrer dette. Nødutløsing skal imidlertid være mulig med stigerør tilkoplet etter manuell oppheving av forannevnte sikringssystem. Risikoanalyse i henhold til Sjøfartsdirektoratets til enhver tid gjeldende forskrift om risikoanalyse skal avgjøre om det er behov for frakoplingsmekanisme for stigerør, og under hvilke dimensjonerende ulykkeshendelser slik frakopling er nødvendig.
+(12) Under nødutløsing skal det være mulig å tilsette de statiske bremsene en gang og deretter utløse dem igjen kontrollert. Dette ved en utfiringshastighet på minst 2,5 meter i sekundet og en minimumslast i ankerlinen på 100 tonn.
+(13) Det skal være et system som effektivt hindrer muligheten for at gnister antenner gass ved nødutløsing. Det skal kunne dokumenteres at systemet har tilstrekkelig effekt, også ved tap av generator for hoved- og nødkraft.
+(14) Ankerlinene skal kunne slippes ut i sin helhet ved den mest ugunstige krengevinkelen etter skade, jf. forskrift 20. desember 1991 nr. 878 om stabilitet, vanntett oppdeling og vanntette/værtette lukningsmidler på flyttbare innretninger § 21.
+(15) Eventuelle innfestninger for ankerlinene om bord skal ikke ha større styrke enn at ankerlinen kan dra av festet uten å skade innretningen.
+(16) Ankersystemet skal være slik at det oppstår minst mulig tilleggsbelastninger i ankerlinen ut over de rene strekkbelastningene.
+(17) Ankervinsjens kontrollsystem er et sikkerhetskritisk system og skal være i samsvar med forskrift 22. desember 1993 nr. 1239 om risikoanalyse på flyttbare innretninger § 22.
+(18) Ankervinsjen skal leveres med sertifikat fra MOU-klasseinstitusjon som dokumenterer
+a) produsent, typebenevnelse og produksjonsdato
+b) ankerlinetype og dimensjon/lengde som vinsjen er konstruert for
+c) statiske bremseholdekrefter
+d) bremsekapasitet under utkjøring som spesifisert i syvende ledd ovenfor
+e) restbremsekraft som tilsettes etter svikt i krafttilførsel under kjøring
+f) ankervinsjens maksimale trekkraft (steilekraft)

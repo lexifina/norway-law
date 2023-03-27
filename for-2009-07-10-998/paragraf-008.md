@@ -1,0 +1,2 @@
+# § 8. Kjetting-/ståltaustoppere og palmekanisme
+Kjetting-/ståltaustoppere og palmekanisme skal ikke hindre en eventuell nødutløsing i samsvar med § 7 tiende ledd, og skal kunne utløses både fra et sikkert sted ved selve vinsjen og fra et kontinuerlig bemannet kontrollrom. Kjetting-/ståltaustoppere og palmekanisme skal ha statisk holdekraft tilsvarende minimum 120 % av bruddstyrken til den aktuelle ankerlinen.

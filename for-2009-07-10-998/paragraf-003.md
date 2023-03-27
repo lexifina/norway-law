@@ -1,0 +1,3 @@
+# § 3. Gjensidig aksept
+(1) Når denne forskrift stiller krav om at en bestemt utrustning, materiale, anordning, eller type utstyr og lignende, skal anskaffes eller være på en innretning, eller det stilles bestemte krav til bygging eller design, skal Sjøfartsdirektoratet tillate annen løsning forutsatt at det dokumenteres gjennom prøving eller på annen måte at den aktuelle løsningen er minst like effektiv som det som kreves i forskriften.
+(2) Sjøfartsdirektoratet skal akseptere resultater av prøver som er utført ved anerkjente prøvingsinstitusjoner, herunder prøvingsinstitusjoner i øvrige EØS-land. Forutsetningen er at prøvene gir passende og tilfredsstillende garanti av teknisk, fagmessig og uavhengig art.

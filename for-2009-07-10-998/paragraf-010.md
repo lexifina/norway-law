@@ -1,0 +1,2 @@
+# § 10. Dynamisk posisjonering
+Dersom innretningen skal holde posisjon ved hjelp av dynamisk posisjonering skal systemet være sertifisert av anerkjent klasseinstitusjon i henhold til MSC/Circ 645 «Guidelines for dynamic positioning» av 6. juni 1994 eller tilsvarende standard. Valg av utstyrsklasse skal baseres på hvilke konsekvenser tap av posisjon vil gi ved de operasjoner innretningen skal utføre.
