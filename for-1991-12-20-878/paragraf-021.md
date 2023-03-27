@@ -1,0 +1,6 @@
+# § 21. Skadestabilitetskrav
+Krav til stabilitet når innretningen er antatt skadet i henhold til § 23 til § 28, er:
+1) Vannlinjen i den endelige likevektstilstand etter fylling, når det tas hensyn til effekten av vind, skal være under den laveste kanten av enhver åpning som kan lede til fylling av rom som i beregningene forutsettes intakte. Slike åpninger inkluderer lufterør (uansett lukningsmidler), ventilatorer, ventilasjonsåpninger, ikke-vanntette lukningsmidler, jf. kapittel X. Åpninger utstyrt med fjernopererte vanntette dører som er lukket under drift og lysventiler som ikke kan åpnes, anses ikke å lede til fylling.
+2) I den ovenfor nevnte likevektstilstand skal krengningsvinkelen (θ1) aldri overstige 17° i noen retning.
+3) Arealet under kurven for rettende moment skal være minst like stort som arealet under kurven for krengende moment opp til andre kryssing av kurvene (θ2). Begge arealene skal beregnes fra den statiske krengningsvinkel uten vind (θ0). (Se fig. 2).
+4) Muligheten til å redusere krengningsvinkelen ved kryssfyllingsarrangement, utpumpinger fra ballasttanker og andre tanker eller ved å ta hensyn til ankerkrefter etc. skal ikke tas i betraktning for å følge kravene i nr. 1 til og med nr. 3.

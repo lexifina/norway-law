@@ -1,0 +1,3 @@
+# § 43. Funksjon ved «nødstenging»
+1) Når betjeningsvelgeren for fjernstengesystemet i kontrollrommet er satt i stilling «nødstenging», skal dørene fortsatt kunne åpnes og lukkes lokalt, fra begge sider, ved å bruke de normale operasjonshendlene. Plassering av hendlene skal være slik at de samtidig kan betjenes fra begge sider av døren når denne er i åpen stilling. Dette for å kunne sikre at døren ikke lukkes under passering. Dørene skal også kunne åpnes og lukkes ved hjelp av håndpumpe.
+2) Døren skal lukke automatisk når hendelene slippes. Ved å betjene hendlene skal det være mulig å stoppe døren under lukkebevegelsen, eller å åpne døren på nytt uten at den først har vært helt lukket.

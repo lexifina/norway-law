@@ -1,0 +1,5 @@
+# § 8. Krengeprøve og lettskipsdata
+1) Enhver innretning skal, når den er så nær fullførelse som mulig, gjennomføre en krengeprøve for å bestemme innretningens lettskipsdata (vekt og plassering av tyngdepunkt).
+2) Det skal føres en logg over alle endringer i vekt og plassering av det utstyr som inngår i lettskipsvekten. Oppdaterte lettskipsdata skal til enhver tid benyttes ved kontroll av innretningens stabilitet.
+3) Etter ombygging skal krengeprøve avholdes på nytt. Ved mindre ombygginger hvor de involverte vekter er klart identifisert, og detaljerte vektberegninger viser overensstemmelse med deplasementsmåling etter ombyggingen, jf. nr. 4, kan krav om krengeprøve frafalles etter søknad i henhold til § 4.
+4) Ved hver 5-årig periodisk besiktelse av innretningen skal det foretas en deplasementsmåling for å undersøke om lettskipsvekten har forandret seg. Dersom det oppdages forskjell i lettskipsvekten i forhold til de oppdaterte lettskipsdata som finnes om bord, eller dersom andre forhold tyder på feil i benyttet lettskipstyngdepunkt, kan Sjøfartsdirektoratet forlange at ny krengeprøve skal avholdes.
