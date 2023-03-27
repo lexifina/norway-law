@@ -1,0 +1,3 @@
+# § 8. Generelle krav til den produksjonstekniske installasjonen.
+1) Den produksjonstekniske installasjonen skal tilfredsstille et sikkerhetsnivå som ikke ligger lavere enn som angitt enten i Det Norske Veritas, Hydrocarbon Production Plant eller gjennom annen internasjonalt anerkjent norm. Dette skal være kontrollert og godkjent av MOU-klasseinstitusjon eller på annen måte som bestemt av sokkelstatens myndighet.
+2) De risiki driften av den produksjonstekniske installasjon representerer for innretningens øvrige systemer, og de risiki øvrige systemer representerer for driften av den produksjonstekniske installasjonen skal vurderes i risikoanalysen, jf. forskrift 22. desember 1993 nr. 1239 om risikoanalyse for flyttbare innretninger.
