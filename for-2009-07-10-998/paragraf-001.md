@@ -1,0 +1,4 @@
+# § 1. Virkeområde
+(1) Denne forskrift gjelder for innretninger som er registrert eller som skal registreres i norsk skipsregister.
+(2) For innretninger som har fått sertifikat, jf. forskrift 4. september 1987 nr. 855 om anmeldelse av nybygg, besiktelse og sertifisering m.v. av flyttbare innretninger § 6, utstedt i henhold til forskrift 4. september 1987 nr. 857 om ankrings-/posisjoneringssystemer på flyttbare innretninger gjelder forskriften her, med unntak av § 14 og § 16, først ved fornyelse av sertifikatet.
+(3) Dersom sertifikatet ikke opprettholdes i henhold til tidligere gjeldende forskrift 4. september 1987 nr. 857 om ankrings-/posisjoneringssystemer på flyttbare innretninger vil sertifikatet bli trukket tilbake. I tilfelle sertifikatet blir trukket tilbake skal forskriften her komme til anvendelse.
