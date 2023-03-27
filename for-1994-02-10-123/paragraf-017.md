@@ -1,0 +1,4 @@
+# § 17. Stabilitet
+1) Når produksjonsprosessen er igang, eller det er hydrokarboner under trykk i produksjonssystemene, skal kravene til intakt og lekk stabilitet for operasjonstilstander være i henhold til Sjøfartsdirektoratets til enhver tid gjeldende forskrift om stabilitet, vanntett oppdeling og vanntette/værtette lukningsmidler på flyttbare innretninger.
+2) En kollisjon med forsyningsskip på 5000 tonn deplasement med hastighet 2 m/s skal ikke medføre oljeutstrømning fra lagertanker eller fra prosessutstyr som står på dekk. Produksjonsinstallasjonen skal klare de krengninger som fremkommer uten at dette fører til kritiske hendelser.
+2) Stabilitetsmessige effekter av hurtigutløsning av stigerør og/eller ankerliner skal ikke medføre dynamisk krengevinkel over 17° i noen retning, under ugunstigste forhold.
