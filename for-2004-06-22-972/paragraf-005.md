@@ -1,0 +1,2 @@
+# § 5. Forholdet til internasjonal konvensjon
+Fartøy som omfattes av denne forskrift skal følge de relevante kravene i SOLAS kap. XI-1, regel 3 og 5, kap. XI-2 samt ISPS-kodens del A. ISPS-kodens del B er veiledende retningslinjer som det skal tas hensyn til i det omfang del A bestemmer det, med unntak av følgende deler av del B som er bindende; 1.12, 1.16, 4.1, 4.4, 4.5, 4.8, 4.14, 4.15, 4.16, 4.18, 4.24, 4.28, 4.41, 4.45, 6.1, 8.3 til 8.10, 9.2, 9.4, 13.6 og 13.7.

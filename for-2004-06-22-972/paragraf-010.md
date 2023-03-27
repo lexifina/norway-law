@@ -1,0 +1,4 @@
+# § 10. Verifikasjon og sertifisering
+(1) Når det er verifisert at fartøyet oppfyller kravene i denne forskrift og i den godkjente sikkerhets- og terrorberedskapsplan (SSP), utsteder Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO) internasjonalt sikkerhets- og terrorberedskapssertifikat (ISSC).
+(2) Internasjonalt sikkerhets- og terrorberedskapssertifikatet (ISSC) er gyldig i 5 år, forutsatt at det blir foretatt minst en mellomliggende verifikasjon. Slik mellomliggende verifikasjon skal foretas i perioden mellom sertifikatets andre og tredje årsdato som definert i SOLAS kap. I, regel 2, bokstav n. Den mellomliggende verifikasjonen skal inkludere inspeksjon av fartøyets system for sikkerhet og terrorberedskap, herunder tilhørende utstyr, for å påse at dette fungerer tilfredsstillende.
+(3) Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO) kan i særlige tilfeller kreve at ytterligere verifikasjon blir foretatt hvis dette finnes påkrevd.

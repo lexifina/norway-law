@@ -1,0 +1,2 @@
+# § 11. Midlertidig sertifisering
+Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO), kan utstede midlertidig internasjonalt sikkerhets- og terrorberedskapssertifikat (ISSC) med inntil 6 måneders gyldighet når fartøyet oppfyller de forutsetninger og krav som er gitt i ISPS-kodens del A, seksjon 19.4. Varigheten av et midlertidig internasjonalt sikkerhets- og terrorberedskapssertifikat kan ikke forlenges.
