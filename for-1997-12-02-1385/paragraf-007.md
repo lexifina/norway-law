@@ -1,0 +1,3 @@
+# § 7. Om arbeidsgiverens plikt til å gi opplysninger og legge fram regnskap m.v.
+1. Skattekontoret og den som har fullmakt fra skattekontoret, kan til enhver tid kreve fremlagt arbeidsgiverens regnskap med bilag, lønningslister, noteringer, kontrakter, korrespondanse eller andre dokumenter av betydning for kontrollen av arbeidsgiveravgiften.
+2. Arbeidsgiveren plikter på anmodning å gi fullstendige opplysninger om forhold som kontrollmyndighetene finner er av betydning for kontrollen av arbeidsgiveravgiften og for fastsettelsen av avgiften og avgiftsgrunnlaget etter skatteforvaltningsloven § 8-6.

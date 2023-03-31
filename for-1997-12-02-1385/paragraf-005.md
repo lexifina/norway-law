@@ -1,0 +1,4 @@
+# § 5. Opplysninger om beregnet arbeidsgiveravgift
+Arbeidsgiveren skal levere opplysninger om beregnet arbeidsgiveravgift og grunnlaget for beregningen for kalendermåneden, jf. skatteforvaltningsloven § 8-6 første ledd.
+Privat arbeidsgiver som nevnt i folketrygdloven § 23-2 sjuende ledd som overskrider beløpsgrensen i bestemmelsen skal ved førstkommende levering etter a-opplysningsforskriften § 2-1 åttende ledd ta med opplysninger om de samlede avgiftspliktige utbetalinger som til da er foretatt.
+Veldedig eller allmennyttig institusjon eller organisasjon som nevnt i folketrygdloven § 23-2 åttende ledd som overskrider beløpsgrensene i bestemmelsen skal ved førstkommende levering etter a-opplysningsforskriften § 2-1 åttende ledd ta med opplysninger om de samlede avgiftspliktige utbetalinger som til da er foretatt.
