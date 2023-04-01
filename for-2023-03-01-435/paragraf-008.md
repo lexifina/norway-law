@@ -1,0 +1,3 @@
+# § 8. Plikt til å betale avfallsgebyr
+Eier av boenhet som plikter å delta i Longyearbyen lokalstyres avfallsordning for husholdningsavfall skal betale avfallsgebyr, jf. forskrift 3. juli 2020 nr. 1517 om forurensning og avfall på Svalbard § 10-2 andre ledd. Gebyrplikten inntrer fra det tidspunktet boenheten tas i bruk eller når gis midlertidig brukstillatelse eller ferdigattest i tråd med byggeforskrift for Longyearbyen.
+Eier av næringsbygg som deltar i Longyearbyen lokalstyres innsamlingsordning for næringsavfall skal betale avfallsgebyr, jf. forskrift 3. juli 2020 nr. 1517 om forurensning og avfall på Svalbard § 10-2 andre ledd. Betaling for innlevering av øvrig næringsavfall til Longyearbyen lokalstyres avfallsmottak reguleres ikke i denne forskriften.

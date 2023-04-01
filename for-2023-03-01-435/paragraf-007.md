@@ -1,0 +1,2 @@
+# § 7. Opplysninger om faktisk håndtering av byggavfall (sluttrapport)
+Tiltakshaver skal levere sluttrapport til Longyearbyen lokalstyre senest ved anmodning om ferdigattest for tiltaket. Sluttrapporten skal beskrive hvordan byggavfall som har oppstått i forbindelse med tiltaket har blitt disponert. Dokumentasjon på leverte mengder avfall til gjenvinning eller avfallsanlegg skal vedlegges. Dersom avfallsmengder eller disponering avviker vesentlig fra det som er oppgitt i avfallsplanen, jf. § 5, skal dette grunngis og dokumenteres særskilt.
