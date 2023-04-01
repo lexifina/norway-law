@@ -3,3 +3,4 @@
 (2) For innleie som overstiger 10 prosent av de ansatte hos innleier, likevel ikke færre enn tre personer, eller som har en varighet ut over ett år, skal det inngås skriftlig avtale med tillitsvalgte som til sammen representerer et flertall av den arbeidstakerkategori innleien gjelder. Dette gjelder ikke for innleie innenfor samme konsern.
 (3) Etter krav fra tillitsvalgte som representerer den arbeidstakerkategori innleien gjelder, skal arbeidsgiver dokumentere at vilkårene for innleie etter første ledd er oppfylt.
 (4) Departementet kan i forskrift forby innleie av visse arbeidstakergrupper eller på visse områder når viktige samfunnshensyn tilsier det.
+(5) § 14-12 femte ledd gjelder tilsvarende.
