@@ -4,6 +4,6 @@ a) erklæring fra lege eller annen sakkyndig om hvorvidt personen på grunn av f
 b) uttalelse fra pårørende som har begjært vergemål, jf. § 56,
 c) uttalelse fra institusjon eller tjeneste som har gitt melding etter § 57, og fra institusjon der personen er innlagt,
 d) samtykkeerklæring der dette kreves, jf. § 20,
-e) samtale mellom saksbehandler og den som er begjært satt under vergemål, med mindre det må antas at personen ikke kan forstå hva saken gjelder.
+e) samtale mellom saksbehandler og personen som vergemålssaken gjelder, med mindre det anses som umulig. Samtalen kan på vegne av saksbehandleren foretas av en som kjenner personen.
 Helsepersonell og ansatte i sosialtjenesten og barnevernstjenesten kan gi nødvendige og relevante opplysninger til statsforvalteren eller oppnevnt sakkyndig uten hinder av taushetsplikten.
 Kongen kan i forskrift gi nærmere regler om gjennomføringen av bestemmelsene i første og annet ledd, herunder regler om at statsforvalteren kan kreve fremlagt slik dokumentasjon som er nevnt i første ledd bokstav a og c.

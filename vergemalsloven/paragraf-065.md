@@ -1,2 +1,3 @@
 # § 65. Unntak fra taushetsplikt
-Opplysningen om at en person har fått oppnevnt verge, kan gjøres kjent for andre i den utstrekning det er nødvendig av hensyn til personen selv, eller for å sikre at vergen kan utføre sitt oppdrag på en god måte. Det samme gjelder opplysningen om hvem som er oppnevnt som verge, og opplysninger om rammene for vergeoppdraget.
+Opplysningen om at en person har fått oppnevnt verge, og hvem vergen er, er ikke underlagt taushetsplikt, og kan gjøres kjent ved behov. Opplysninger om rammene for vergeoppdraget kan gjøres kjent for dem som har hjemmel i lov til å motta slike opplysninger, og ellers dersom det er nødvendig av hensyn til personen selv, eller for å sikre at vergeoppdraget kan utføres på en god måte.
+Kongen kan i forskrift gi nærmere regler om deling av opplysninger om vergemål, herunder om adgangen til å motta, behandle og utlevere opplysninger om hvem som er verge, hvem vedkommende er verge for, og rammene for vergeoppdraget.
