@@ -1,0 +1,5 @@
+# § 3-9. Klage på formelle feil ved eksamen
+(1) En student som har vært oppe til en eksamen, en prøve eller et annet arbeid som bedømmes med karakterer, kan klage på formelle feil innen tre uker etter at studenten er blitt eller burde være kjent med feilen. Klagen skal rettes til fagskolen. Styret er klageinstans.
+(2) Et sensurvedtak skal oppheves hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av prestasjonen. Hvis feilen kan rettes opp gjennom en ny sensur, skal dette gjennomføres. Hvis feilen ikke kan rettes opp gjennom en ny sensur, skal det holdes en ny eksamen, prøve eller lignende med nye sensorer. En student kan klage på karakterfastsettingen ved sensuren.
+(3) Hvis en student har krevd begrunnelse for eller klaget over karakterfastsettingen, løper klagefristen fra studenten har fått begrunnelsen, eller til klagen på karakterfastsettingen er endelig avgjort.
+(4) Rektor vil avgjøre om det skal foretas en ny sensur eller holdes en ny eksamen, prøve eller lignende hvis det er begått formelle feil som kan ha hatt innvirkning på én eller flere studenters prestasjoner eller bedømmelsen av disse.

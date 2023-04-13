@@ -1,0 +1,2 @@
+# § 3-11. Kontinuasjonseksamen
+En student som har gyldig fravær på eksamen må selv melde seg opp til utsatt eksamen innen to kalenderår etter ordinær eksamen. Studenter som har strøket på eksamen eller som ønsker å forbedre sin karakter, kan ta kontinuasjonseksamen. Kontinuasjonseksamen avlegges mot eksamensavgift. Studenter som har gyldig fravær fra eksamen, kan gjennomføre utsatt eksamen kostnadsfritt.

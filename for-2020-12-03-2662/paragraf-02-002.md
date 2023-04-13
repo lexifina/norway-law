@@ -1,0 +1,4 @@
+# § 2-2. Opptak på grunnlag av realkompetanse
+(1) Søkere som ikke tilfredsstiller de formelle opptakskravene og som er 23 år eller eldre i opptaksåret kan tas opp på grunnlag av realkompetanse. Realkompetanse er all den kompetansen en person har opparbeidet seg gjennom formell, ikke-formell eller uformell læring. Det vil si all kompetanse en person har tilegnet seg gjennom utdanning, betalt eller ubetalt arbeid, etterutdanning, fritidsaktiviteter, organisasjonsarbeid og annet som kommer i tillegg til den kompetansen som er dokumentert gjennom grunnutdanningen.
+(2) Yrkespraksisen må være relevant til studieprogrammet det søkes på.
+(3) Realkompetanse vurderes av studieadministrasjonen og godkjennes av rektor. Vedtak om realkompetanse er et enkeltvedtak som kan påklages til lokal klagenemnd etter bestemmelsene i denne forskriftens kapittel 5.
