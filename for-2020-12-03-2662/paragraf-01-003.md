@@ -1,0 +1,3 @@
+# § 1-3. Innhenting og behandling av personopplysninger
+(1) Fagskolen kan behandle personopplysninger om søkere og studenter når formålet med behandlingen er å ivareta den registrertes rettigheter, eller å oppfylle skolens plikter etter fagskoleloven.
+(2) Fagskolen kan behandle opplysninger om navn, fødselsnummer, midlertidig fødselsnummer, D-nummer, arbeidserfaring og karakterer fra videregående opplæring, fagskoler, universiteter og høyskoler og fag- og svennebrev hentet fra offentlige myndigheter, offentlige systemer for vitnemål, statlige, fylkeskommunale og private utdanningsinstitusjoner, når dette er nødvendig for å oppfylle formålet som er nevnt i første ledd. Innhenting av opplysningene kan skje elektronisk.
