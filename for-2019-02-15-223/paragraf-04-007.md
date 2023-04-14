@@ -1,0 +1,4 @@
+# § 4-7. Kontinuasjonseksamen/utsatt eksamen
+(1) En student som har gyldig fravær på eksamen får tilbud om utsatt eksamen. Dette omfatter graviditet og fødsel der en gravid student har rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før fastsatt termindato og seks uker etter fødsel. En student som blir far har rett til utsatt eksamen hvis eksamensdato er innenfor to uker etter fødselen.
+(2) Utsatt eksamen avholdes innen 3 (tre) måneder etter ordinær eksamen.
+(3) Studenter som har strøket til eksamen eller som ønsker å forbedre sin karakter, kan ta kontinuasjonseksamen samtidig som den utsatte eksamen. Studenten kan gå opp til samme eksamen inntil 3 (tre) ganger. Kontinuasjonseksamen avlegges mot eksamensavgift. Studenter som har gyldig fravær fra eksamen, kan gjennomføre ny eksamen kostnadsfritt.

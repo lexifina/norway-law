@@ -1,0 +1,2 @@
+# § 1-5. Rett til permisjon i forbindelse med fødsel og omsorg for barn
+En student som får barn under studiene har etter fagskolelovens § 28 rett til permisjon fra studiene under svangerskapet og til omsorg for barn. I permisjonstiden har studenten fortsatt status som student ved fagskolen og har rett til å gjenoppta utdanningen på samme nivå som før permisjonen. For rett til utsatt eksamen i forbindelse med fødsel: se § 4-7.
