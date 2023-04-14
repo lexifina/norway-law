@@ -1,0 +1,2 @@
+# § 3-2. Fritak for deler av utdanningen
+Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på grunnlag av dokumentert relevant utdanning og kompetanse. Relevant utdanning og kompetanse kan for eksempel være sertifiseringer tilsvarende den enkelte fagutdannings sertifiseringskurs, utenlandsk utdanning, voksenopplæring eller høyere utdanning på samme eller beslektet fagområde. Fritak kan også gis på grunnlag av realkompetanse. Det gis ikke fritak for utdanning på videregående opplæringsnivå.
