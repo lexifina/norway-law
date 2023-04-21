@@ -1,0 +1,4 @@
+# § 5 a. Krav til bosted
+Det er forbudt å nytte fartøy til ervervsmessig fiske eller fangst dersom ikke minst halvparten av mannskapet og lottfiskerne samt fartøyføreren er bosatt i en kystkommune eller i en nabokommune til en kystkommune. Kravet til fartøyførers bosted gjelder ikke hvis fartøyfører også er fartøyeier. Det kan etter søknad gis dispensasjon fra bostedskravet for fartøyfører med bosted annet sted i Norge, eller i Norden eller EØS-området for øvrig.
+Kongen kan ved forskrift gjøre unntak fra forbudet i første ledd for fartøy som nyttes til ervervsmessig fiske eller fangst i farvann som er utenfor norsk eller annen stats nasjonale jurisdiksjon, og som er regulert av internasjonale organisasjoner eller avtaler som Norge er part i og som gir Norge adgang til fiske og fangst.
+Kravet i første ledd gjelder ikke i den utstrekning det er gitt tillatelse som unntar fra første ledd i medhold av havressurslova § 23 b fjerde ledd.
