@@ -1,0 +1,6 @@
+# § 28. Overtredelsesgebyr
+Ved forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne loven, kan det ilegges overtredelsesgebyr. Ved overtredelse av bestemmelser gitt i medhold av denne loven, kan det bare ilegges overtredelsesgebyr når dette går fram av forskriften.
+Hvis noen som handler på vegne av et foretak har overtrådt en bestemmelse gitt i eller i medhold av denne loven, kan foretaket ilegges et overtredelsesgebyr. Det gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr.
+Overtredelsesgebyret kan ilegges etter faste satser eller utmåles i hvert enkelt tilfelle. Ved fastsettelsen av gebyret kan det blant annet tas hensyn til fortjenesten eller den potensielle fortjenesten som den ansvarlige har hatt ved overtredelsen, hvor alvorlig overtredelsen er og ekstra kostnader som kontrolltiltak og behandling av saken har medført.
+Kongen kan i forskrift gi nærmere regler om fastsettelse av overtredelsesgebyr og bestemmelser om renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall.
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Overtredelsesgebyr kan også kreves inn gjennom salgslaget ved motregning i fangstoppgjør. Domstolene kan prøve størrelsen på gebyret.
