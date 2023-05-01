@@ -1,0 +1,11 @@
+# § 18. Induktive systemer
+(1) Frekvensbåndet 9-90 kHz tillates brukt til induktive systemer som beskrevet i standardene EN 300 330, EN 303 447 og EN 303 454. Maksimal tillatt feltstyrke er 72 dBμA/m i en avstand på 10 meter.
+(2) Frekvensbåndene 90-119 kHz tillates brukt til induktive systemer som beskrevet i standardene EN 300 330, EN 303 447 og EN 303 454. Maksimal tillatt feltstyrke er 42 dBμA/m i en avstand på 10 meter.
+(3) Frekvensbåndet 119-135 kHz tillates brukt til induktive systemer som beskrevet i standardene EN 300 330, EN 303 447 og EN 303 454. Maksimal tillatt feltstyrke er 66 dBμA/m i en avstand på 10 meter.
+(4) Frekvensbåndene 135-140 kHz tillates brukt til induktive systemer som beskrevet i standardene EN 300 330, EN 303 447 og EN 303 454. Maksimal tillatt feltstyrke er 42 dBμA/m i en avstand på 10 meter.
+(5) Frekvensbåndet 140,0-148,5 kHz tillates brukt til induktive systemer som beskrevet i standardene EN 300 330, EN 303 447 og EN 303 454. Maksimal tillatt feltstyrke er 37,7 dBμA/m i en avstand på 10 meter.
+(6) Frekvensbåndet 148,5-5000,0 kHz tillates brukt til induktive systemer som beskrevet i standardene EN 300 330 og EN 302 536. Maksimal tillatt feltstyrke er –15 dBμA/m i en avstand på 10 meter. Maksimal feltstyrke er spesifisert i en båndbredde på 10 kHz. For systemer som benytter båndbredder over 10 kHz, er maksimal total feltstyrke –5 dBμA/m i en avstand på 10 meter.
+(7) Frekvensbåndet 3155-3400 kHz tillates brukt til induktive systemer som beskrevet i standarden EN 300 330. Maksimal tillatt feltstyrke er 13,5 dBμA/m i en avstand på 10 meter.
+(8) Frekvensbåndene 6765-6795 kHz, 13,553-13,567 MHz og 26,957-27,283 MHz tillates brukt til induktive systemer som beskrevet i standarden EN 300 330. Maksimal tillatt feltstyrke er 42 dBμA/m i en avstand på 10 meter.
+(9) Frekvensbåndet 5-30 MHz tillates brukt til induktive systemer som beskrevet i standarden EN 300 330. Maksimal tillatt feltstyrke er –20 dBμA/m i en avstand på 10 meter. Maksimal feltstyrke er spesifisert i en båndbredde på 10 kHz. For systemer som benytter båndbredder over 10 kHz, er maksimal total feltstyrke –5 dBμA/m i en avstand på 10 meter.
+(10) Frekvensbåndet 7,4-8,8 MHz og 10,2-11,0 MHz tillates brukt til induktive systemer som beskrevet i standarden EN 300 330. Maksimal tillatt feltstyrke er 9 dBμA/m i en avstand på 10 meter.

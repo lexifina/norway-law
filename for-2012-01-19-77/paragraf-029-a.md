@@ -1,0 +1,2 @@
+# § 29a. AIS enheter til bruk for ikke-sikkerhetsrelaterte maritime innretninger
+Senterfrekvens 160,900 MHz tillates brukt for maritim AIS teknologi til autonome maritime radio enheter (AMRD) gruppe B, slik frekvensbruken med tekniske parametere er beskrevet i Annex 2 i ITU-R Recommendation ITU-R M.2135-0. Maksimal tillatt utstrålt effekt er 100 mW e.i.r.p. Maksimal tillatt okkupert båndbredde er 25kHz.
