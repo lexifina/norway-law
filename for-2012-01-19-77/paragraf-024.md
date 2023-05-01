@@ -1,0 +1,3 @@
+# § 24. Differensiell GPS
+(1) Senterfrekvensene 419,4375 MHz, 419,4625 MHz, 419,5375 MHz og 419,5625 MHz kan tas i bruk til differensiell GPS. Maksimal tillatt utstrålt effekt er 25 W. Maksimal okkupert båndbredde per kanal er 25 kHz. Feltstyrken ved riksgrensen mellom Norge og naboland skal ikke overstige 20 dBμV/m. For senterfrekvensen 419,4625 MHz er maksimal tillatt utstrålt effekt 25 W ved riksgrensen mellom Norge og Finland, og mellom Norge og Sverige.
+(2) Senterfrekvensene 440,550 MHz og 441,000 MHz kan tas i bruk til differensiell GPS. Maksimal tillatt utstrålt effekt er 500 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 25 kHz. Feltstyrken ved riksgrensen mellom Norge og naboland skal ikke overstige 20 dBμV/m.

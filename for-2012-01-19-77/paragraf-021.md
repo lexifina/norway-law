@@ -1,0 +1,5 @@
+# § 21. Alarmsystemer
+(1) Frekvensbåndet 868,6-868,7 MHz tillates brukt til alarmsystemer som beskrevet i standarden EN 300 220-3-2. Maksimal okkupert båndbredde per kanal er 25 kHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimal sendetid er 1,0 prosent. Frekvensbåndet tillates også brukt som én kanal til datatransmisjon.
+(2) Frekvensbåndet 869,250-869,300 MHz tillates brukt til alarmsystemer som beskrevet i standarden EN 300 220-3-2. Maksimal okkupert båndbredde per kanal er 25 kHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimal sendetid er 0,1 prosent.
+(3) Frekvensbåndet 869,300-869,400 MHz tillates brukt til alarmsystemer som beskrevet i standarden EN 300 220-3-2. Maksimal okkupert båndbredde per kanal er 25 kHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimal sendetid er 1,0 prosent.
+(4) Frekvensbåndet 869,650-869,700 MHz tillates brukt til alarmsystemer som beskrevet i standarden EN 300 220-3-2. Maksimal okkupert båndbredde per kanal er 25 kHz. Maksimal tillatt utstrålt effekt er 25 mW e.r.p. Maksimal sendetid er 10 prosent.

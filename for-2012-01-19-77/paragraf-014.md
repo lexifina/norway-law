@@ -1,0 +1,9 @@
+# § 14. Trådløse mikrofoner
+(1) Følgende frekvensbånd tillates brukt til trådløse mikrofoner slik frekvensbruken er beskrevet i standardene EN 300 422-1, EN 300 422-2, og EN 300 422-3:
+a) 41,0-43,6 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Amplitudemodulasjon tillates ikke.
+b) Ledige frekvenser i frekvensbåndet 494-694 MHz og 733-758 MHz tillates brukt. Ledige frekvenser vises gjennom internettjenesten som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 50 mW e.r.p.
+c) 823-826 MHz. Maksimal tillatt utstrålt effekt er 20 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz. For bruk som er begrenset til kroppsbåret mikrofon er maksimal tillatt utstrålt effekt 100 mW e.i.r.p.
+d) 826-832 MHz. Maksimal tillatt utstrålt effekt er 100 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz.
+e) 863-865 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Frekvensbåndet tillates brukt som beskrevet i standarden EN 301 357.
+(2) Frekvensbåndet 1785-1805 MHz tillates brukt til håndholdt mikrofon som beskrevet i standardene EN 300 422-1, EN 300 422-2, EN 300 422-3, og i samsvar med tabellen.FrekvensområdeMaksimal tillatt e.i.r.p. spektral effekttetthet for håndholdt mikrofon<1785 MHz–17 dBm/200kHz1785-1785,2 MHz4 dBm/200kHz1785,2-1803,6 MHz13 dBm/kanal1803,6-1804,8 MHz10 dBm/200kHz, med en grenseverdi på 13 dBm/kanal1804,8-1805 MHz–14 dBm/200kHz>1805 MHz–37 dBm/200kHz
+(3) Frekvensbåndet 1785-1805 MHz tillates brukt til kroppsbåret mikrofon, og trådløse mikrofoner med Spectrum Scanning Procedure (SSP) implementert i frekvensbåndet 1785-1804,8 MHz, som beskrevet i standardene EN 300 422-2 og EN 300 422-3, og i samsvar med tabellen.FrekvensområdeMaksimal tillatt e.i.r.p. spektral effekttetthet for kroppsbåret mikrofon<1785 MHz–17 dBm/200kHz1785-1804,8 MHz17 dBm/kanal1804,8-1805 MHz0 dBm/200kHz>1805 MHz–23 dBm/200kHz

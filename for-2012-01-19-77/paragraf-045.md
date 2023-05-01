@@ -1,0 +1,2 @@
+# § 45. Mobilkommunikasjon i norskregistrerte luftfartøy utenfor norsk luftterritorium
+Norskregistrerte luftfartøy som flyr utenfor norsk luftterritorium kan ta i bruk frekvenser for mobilkommunikasjon på vilkår som nevnt i § 44. Frekvensbruken skal innrettes slik at den er i samsvar med Norges forpliktelser overfor andre stater. Operatøren av systemet skal om nødvendig i tillegg innhente tillatelse fra administrasjon i annen stat.

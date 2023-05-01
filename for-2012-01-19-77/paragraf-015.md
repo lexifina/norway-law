@@ -1,0 +1,3 @@
+# § 15. Hjelpeutstyr for hørselshemmede
+(1) Frekvensbåndet 169,4-174,0 MHz tillates brukt til hjelpeutstyr for hørselshemmede (ALD) slik frekvensbruken er beskrevet i standarden EN 300 422-4. Maksimalt tillatt utstrålt effekt er 10 mW e.r.p. For frekvensene 169,4000-169,4750 MHz og 169,4875-169,5875 MHz er maksimalt tillatt utstrålt effekt 500 mW e.r.p. Maksimalt okkupert båndbredde per kanal er 50 kHz.
+(2) Ledige frekvenser i frekvensbåndet 173,965-216 MHz tillates brukt til hjelpeutstyr for hørselshemmede (ALD) slik frekvensbruken er beskrevet i standarden EN 300 422-4. Ledige frekvenser vises gjennom internettjenesten som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimalt okkupert båndbredde per kanal er 50 kHz.
