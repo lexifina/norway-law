@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EU) 2020/699
+EØS-avtalen vedlegg XXII nr. 10k rådsforordning (EU) 2020/699 av 25. mai 2020 om midlertidige tiltak med hensyn til generalforsamlinger i europeiske allmennaksjeselskaper (SE-selskaper) og europeiske samvirkeforetak (SCE-foretak) gjelder som norsk forskrift (med de tilpasninger som følger av vedlegg XXII, protokoll 1 til avtalen og avtalen for øvrig).
