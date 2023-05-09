@@ -1,0 +1,2 @@
+# § 4. Forordning (EF) nr. 1/2005
+EØS-avtalen vedlegg I kap. I del 9.1 nr. 10 (forordning (EF) nr. 1/2005 som endret ved forordning (EU) 2017/625) om vern av dyr under transport og tilknyttede aktiviteter og om endring av direktiv 64/432/EØF og 93/119/EF og forordning (EF) nr. 1255/97, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I protokoll 1 til avtalen og avtalen for øvrig.

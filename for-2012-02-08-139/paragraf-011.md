@@ -1,0 +1,2 @@
+# § 11. Bruk av strø
+Kravet om strø i forordning (EF) nr. 1/2005 vedlegg I kapittel VI punkt 1.2 gjelder ved transport av alle andre dyr, unntatt fjørfe, hund og katt, ved både korte og lange reiser. Ved transport av tamrein gjelder likevel kravet bare dersom strø er nødvendig for å hindre sterk nedkjøling av klauvene. Med de unntak som her er nevnt, skal strø benyttes i dyrerommet også ved reiser under 8 timer og ved beitetransport over 50 km.
