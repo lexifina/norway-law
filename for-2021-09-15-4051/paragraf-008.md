@@ -1,0 +1,6 @@
+# § 8. Opplæringsdel
+Opplæringsdelen skal ha et omfang på minimum 30 studiepoeng. Minst 20 studiepoeng skal normal avlegges etter opptak. Elementer som skal inngå i opplæringsdelen, må være på ph.d.-nivå og kan normalt ikke være eldre enn to (2) år ved opptaksdato.
+Fakultetet har ansvar for at opplæringsdelen og arbeidet med prosjektet til sammen gir utdanning på høyt faglig nivå i henhold til internasjonal standard. Trening i formidling av resultater og innføring i etikk, teori og metode inngår som del av dette. Opplæringen skal sammen med ph.d.-arbeidet bidra til oppnåelse av forventet læringsutbytte i henhold til nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR).
+Dersom fakultetet ikke selv arrangerer hele opplæringsdelen, skal forholdene legges til rette for at kandidaten får tilsvarende opplæring ved andre institusjoner.
+Universitetet bør tilby doktorgradskandidaten veiledning om fremtidige yrkesmuligheter i og utenfor akademia, herunder bevisstgjøring om den kompetansen som kandidaten har oppnådd gjennom det kunstneriske doktorgradsarbeidet.
+Doktorgradskandidater som har foreldrepermisjon fra doktorgradsutdanningen, kan likevel følge undervisning og avlegge eksamener som skal inngå som en del av kandidatens opplæringsdel under permisjonstiden, i tråd med lov om folketrygd § 14-10.

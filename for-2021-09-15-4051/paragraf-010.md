@@ -1,0 +1,5 @@
+# § 10. Underveisvurdering av kandidaten
+Hver kandidat skal gjennomgå en underveisvurdering. Vurdering av ph.d.-arbeidet vil normalt finne sted i tredje eller fjerde semester. Retningslinjene for underveisvurdering fremgår av fakultetets programbeskrivelse.
+Underveisvurderingen har som hovedformål å hjelpe kandidaten til å identifisere forhold som medfører risiko for at prosjektet stanser opp eller blir forsinket, samt å gi innspill som kan øke kvaliteten i arbeidet.
+Kandidaten skal presentere sitt arbeid og bli evaluert av to personer oppnevnt av fakultetet. Evalueringsgruppen skal ta stilling til faglig status og fremdrift og skal gi tilbakemelding til både kandidaten, veilederen og fakultetet.
+Dersom evalueringsgruppen rapporterer om vesentlige svakheter ved ph.d.-arbeidet, skal det iverksettes tiltak for å korrigere situasjonen. Fakultet, veileder og kandidat plikter aktivt å følge opp forhold som kan medføre fare for forsinket eller manglende gjennomføring av doktorgradsutdanningen, slik at utdanningen, så langt som mulig, kan bli gjennomført innenfor normert tidsramme.

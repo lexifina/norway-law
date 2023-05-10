@@ -1,0 +1,5 @@
+# § 6. Avtale om ph.d. i kunstnerisk utviklingsarbeid
+Opptak til ph.d.-programmet i kunstnerisk utviklingsarbeid formaliseres ved at skriftlig avtale undertegnes av kandidat, hovedveileder, ph.d.-programleder og dekan. For eksterne kandidater skal også ekstern arbeidsgiver signere avtalen. Vesentlige endringer i avtalen godkjennes av dekan i samråd med hovedveileder og ph.d.-programleder. Mindre endringer godkjennes av fakultetsdirektøren.
+Avtalen regulerer partenes rettigheter og plikter i avtaleperioden og skal sikre at kandidaten deltar regelmessig i et aktivt fagmiljø og legge til rette for at doktorgradsutdanningen skal kunne gjennomføres til avtalt tid.
+For doktorgradskandidater med finansiering fra, tilsetting hos eller andre bidrag fra en ekstern part, skal det inngås egen avtale mellom kandidaten, fakultetet og den eksterne part.
+I tilfeller hvor doktorgradskandidaten skal ha tilknytning til andre institusjoner, må universitetets retningslinjer for slikt samarbeid følges, og egne avtaler inngås på fastsatte skjema. Avtalen skal normalt foreligge sammen med ph.d.-avtalen.

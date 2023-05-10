@@ -1,0 +1,24 @@
+# § 5. Opptak
+For opptak til ph.d.-programmet i kunstnerisk utviklingsarbeid må søkeren normalt ha minimum en utøvende og/eller skapende mastergrad innenfor aktuelt fagområde, jamfør beskrivelsene i nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR). Kunstnerisk realkompetanse kan i særskilte tilfeller vurderes som likeverdig så fremt den i omfang og nivå tilsvarer en mastergrad.
+Søknad om opptak skal inneholde prosjektbeskrivelse og fremdriftsplan. Fakultetet kan fastsette krav til ytterligere dokumentasjon.
+Det skal normalt søkes om opptak til doktorgradsutdanningen senest innen tre (3) måneder etter oppstart av det doktorgradsprosjektet som skal lede frem til doktorgraden.
+Dersom det gjenstår mindre enn ett (1) års fulltidsarbeid med doktorgradsprosjektet ved søknadstidspunkt, skal søkeren avvises, jf. pkt. 5.3.
+Kandidaten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av forskningsprosjektet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring, tas av fakultetet. For kandidater med ekstern finansiering eller arbeidsplass inngås det avtale mellom fakultet og ekstern part i forbindelse med det enkelte forskningsprosjekt. Slik avtale skal som hovedregel foreligge på det tidspunkt opptaksvedtaket for den aktuelle kandidaten fattes, eller umiddelbart etterpå.
+Dekan behandler søknad om opptak på program i samråd med ph.d.-programleder i henhold til de bestemmelser som gjelder søknadens faglige nivå, omfang, progresjon og tilgjengelige ressurser for gjennomføring av prosjektet.
+Endelig vedtak om opptak fattes av dekan. I de tilfeller hvor doktorgradskandidaten ikke tilsettes ved fakultetet, men tas opp ved søknad med andre finansieringsordninger eller gjennom eksterne eller interne avtaler, vil dekanen sette ned en intern komité ledet av programleder for å vurdere kandidatens søknad. Komiteen innstiller til dekan som så fatter vedtak om eventuelt opptak.
+I vedtaket skal minst én veileder oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
+Opptak kan nektes om:
+- Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av doktorgradsarbeidet.
+- Søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsprogrammet, jf. pkt. 5.1.
+- Doktorgradsprogrammet ikke har veiledningskompetanse innenfor søkerens fagområde.
+- Søkeren ikke har en veldokumentert finansiering, dvs. normalt være fullfinansiert i samsvar med kostnadene spesifisert i budsjettdokumentet.
+Ph.d.-utdanningen i kunstnerisk utviklingsarbeid er normert til tre (3) års fulltidsstudier. Universitetsstyret kan i utfyllende regler fastsette bestemmelser om maksimaltid for gjennomføring utenom lovfestede permisjoner og pliktarbeid.
+Ved lovhjemlede avbrudd forlenges avtaleperioden tilsvarende. Fakultetet selv kan forlenge avtaleperioden etter begrunnet søknad. Ved innvilget forlengelse kan fakultetet selv sette ytterligere betingelser.
+Etter opptaksperiodens utløp opphører partenes rettigheter og plikter i henhold til ph.d.-avtalen, slik at doktorgradskandidaten kan miste sin rett til veiledning, deltakelse i opplæringsdel og tilgang til universitetets infrastruktur. Kandidaten kan likevel søke om å få levere inn det kunstneriske ph.d.-resultatet til bedømmelse for doktorgraden.
+Kandidaten og universitetet kan avtale at doktorgradsutdanningen avsluttes før avtalt tid. Ved slik avslutning av doktorgradsutdanningen skal det fastsettes skriftlig hvordan spørsmål knyttet til eventuelle tilsettingsforhold, finansiering, rettigheter til resultater mv. løses.
+Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt eller overgang til annet program, skal kandidaten søke nytt opptak på grunnlag av det nye prosjektet.
+Fakultetsstyret selv kan vedta tvungen avslutning ved vitenskapelig uredelighet eller når en kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter doktorgradsavtalen, jf. lov om universiteter og høyskoler § 4-13. Som vesentlig brudd på forpliktelser etter doktorgradsavtalen regnes blant annet:
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. pkt. 9.
+- Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet.
+- Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.

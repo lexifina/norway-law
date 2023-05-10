@@ -1,0 +1,2 @@
+# § 23. Overgangsbestemmelser
+Kandidater med tilknytning til Universitetet i Agder som innenfor en tidsperiode på fem år forut for forskriftens ikrafttredelse har gjennomført utdanning i Stipendiatprogrammet for kunstnerisk utviklingsarbeid, kan søke fakultetet om en ny faglig vurdering av kompetansen for tildeling av ph.d. i kunstnerisk utviklingsarbeid. Fakultetet kan fastsette eventuelle tilleggskrav som må oppfylles på individuell basis. I den grad slike fastsatte tilleggskrav anses oppfylt kan institusjonen tildele graden ph.d. i kunstnerisk utviklingsarbeid.
