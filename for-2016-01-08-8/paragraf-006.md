@@ -1,0 +1,2 @@
+# § 6. Straff
+Forsettlig eller uaktsom overtredelse av denne forskrift straffes i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 61, jf. § 64. Inndragning kan skje i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 65. Overtredelsesgebyr kan gis i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 59.

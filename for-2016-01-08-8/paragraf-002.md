@@ -1,0 +1,2 @@
+# § 2. Krav til aktsomhet ved fiske i nærheten av korallrev
+For å beskytte korallrev mot ødeleggelser som følge av fiskeriaktivitet, og derigjennom bidra til en forsvarlig ressursforvaltning blant annet ved å sikre reproduksjons- og oppvekstområder for mange fiskeslag, må det utvises særlig aktsomhet ved fiske i nærheten av kjente forekomster av korallrev. Det er forbudt å ødelegge revene med hensikt.
