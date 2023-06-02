@@ -1,0 +1,3 @@
+# § 16. Opplysnings- og rapporteringsplikt
+Foretak som utøver vaktvirksomhet plikter å gi tillatelses- og kontrollmyndigheten de opplysninger og den dokumentasjon som er nødvendig for myndighetens kontroll med at virksomheten drives i samsvar med bestemmelser fastsatt i eller i medhold av loven her og på en måte som er forenlig med å utøve næringsvirksomhet.
+Foretak som utøver vaktvirksomhet skal hvert år innen utløpet av mars måned sende en rapport til tillatelses- og kontrollmyndigheten. I rapporten skal det redegjøres for foretakets virksomhet i foregående år og gis en liste over ansatte i foretaket som skal utføre vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste.

@@ -1,0 +1,3 @@
+# § 7. Tilbakekall av tillatelse
+En tillatelse kan tilbakekalles dersom innehaveren, ledelsen, eieren eller annen person som har vesentlig innflytelse på virksomheten i foretaket som har tillatelsen, eller noen ansatte i foretaket, har gjort seg skyldig i grov eller gjentatt overtredelse av særskilte vilkår for tillatelsen eller av bestemmelser fastsatt i eller i medhold av loven. Det samme gjelder dersom vilkårene for tillatelse ikke lenger er oppfylt.
+Tillatelsen kan også tilbakekalles dersom det ikke har vært virksomhet i foretaket på to år, eller virksomheten ikke er startet opp innen ett år etter at tillatelse er gitt.
