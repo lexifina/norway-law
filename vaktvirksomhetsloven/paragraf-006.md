@@ -1,0 +1,2 @@
+# § 6. Bortfall av tillatelse
+Tillatelsen bortfaller dersom foretaket som tillatelsen er gitt til tas under konkursbehandling, eller dersom innehaveren av enpersonsforetaket dør. Et konkursbo eller dødsbo har rett til å fortsette virksomheten i den utstrekning det finnes hensiktsmessig med sikte på avvikling eller overføring av virksomheten til ny eier, likevel ikke utover 6 måneder uten tillatelse fra tillatelses- og kontrollmyndigheten.
