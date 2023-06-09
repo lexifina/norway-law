@@ -1,0 +1,4 @@
+# § 11
+For kvart fjellstyre skal det vere ei fjellkasse. Når ikkje anna er fastsett, skal inntekter som følgjer av lova her gå inn i fjellkassa, medan utgiftene som fjellstyret skal svare vert utgreia av denne.
+Fjellstyret skal kvart år leggje fram rekneskap gjennom skogforvaltaren i distriktet til departementet. Kopi av rekneskapet skal sendast kommunestyret. Kongen fastset nærare reglar om rekneskapsføringa og om revisjonen.
+Fjellstyret avgjer ved vedtak korleis overskot i fjellkassa skal nyttast. Er overskotet større enn det som trengst til tiltak innan allmenningen, kan det av det overskytande løyvast midlar til føremål som tek sikte på å styrkje næringsgrunnlaget i dei bygdene som har rett til allmenningsbruk. Med samtykke frå departementet kan det òg løyvast midlar til allmennyttige føremål i desse bygdene.

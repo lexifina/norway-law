@@ -1,0 +1,3 @@
+# § 37
+Brot mot påbod eller forbod i denne lova, mot vedtekter fastsette i medhald av § 14 eller reglar og forskrifter fastsette med heimel i §§ 11 andre stykket, 16, 23 tredje stykket, 25 fjerde stykket, 26, 29 tredje stykket og 30 første og tredje stykket vert straffa med bøter eller med fengsel i inntil 3 månader, om ikkje tilhøvet går inn under strengare straffeføresegner. Medverknad blir ikkje straffa.
+Med mindre det gjeld brot mot føresegn om jakt, fangst eller fiske vert påtale ikkje reist av det offentlege utan at det vert kravt av fjellstyret eller nokon som er krenkt. Fjellstyret kan gje formannen allmenn fullmakt til å krevje påtale.

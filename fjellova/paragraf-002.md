@@ -1,0 +1,4 @@
+# § 2
+Rett til allmenningsbruk ligg til bygd eller grend som frå gamal tid har hatt slik rett. Retten skal kunne nyttast på ein måte som til kvar tid er i samsvar med rasjonell bruk, og som er naturleg etter tida og tilhøva.
+Rett som er knytta til jordbrukseigedom kan berre utnyttast så langt det skjer i tilknyting til drifta av eigedomen som jordbruk, og så lenge eigedomen vert driven som jordbruk. Med dei unntak som går fram av lova her, kan slik rett ikkje avhendast, leigast bort eller krevjast avløyst mot vederlag. Vert gardsdrifta nedlagd og jorda teken i bruk til føremål utanom jordbruksnæringa, fell retten bort. Det same gjeld om ein eigedom ved sal eller oreigning misser så mykje av jorda at den ikkje lenger er å rekna som ei jordbruksmessig eining, eller vert delt på ein slik måte at ingen av jordpartane etter delinga er å rekna som jordbruk.
+Tvist etter siste punktum i andre stykket vert avgjort ved skjøn.

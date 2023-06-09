@@ -1,0 +1,5 @@
+# § 21
+Seter i statsallmenning kan overførast til bruk for jordbrukar(ar) som ikkje har beiterett i allmenningen, når ingen av beiterettshavarane ønskjer å overta setra og fjellstyret samtykkjer. Det same gjeld utvist tilleggsjord, når både departementet og fjellstyret samtykkjer.
+Vidare kan fjellstyret utvise seter til jordbrukar(ar) som ikkje har beiterett i allmenningen, når det er høveleg unytta beiteområde som ingen av beiterettshavarane er interesserte i å nytte.
+Jord som er skikka til dyrking eller til kulturbeite, og som ingen av beiterettshavarane søkjer om å få utvist, kan departementet med samtykkje frå fjellstyret leige bort til jordbrukar(ar) som ikkje har beiterett i allmenningen. Leigeinntektene tilfell fjellkassa.
+Den nye bruken etter andre og tredje stykket i paragrafen må ikkje vere til vesentleg skade for bruksrettshavarane si utnytting av allmenningen eller for skogen. Tvist om dette vert avgjort ved skjøn. Dei nærare vilkår – herunder vederlag for bruken – vert fastsette ved avtale.

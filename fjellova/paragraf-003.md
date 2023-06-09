@@ -1,0 +1,7 @@
+# § 3
+I kvar kommune der det er statsallmenning skal det være fjellstyre.
+Fjellstyret skal administrere bruken og utnyttinga av rettar og lunnende i statsallmenningen så langt ikkje anna er fastsett i eller i medhald av lov. Det skal arbeide for å sikre at allmenningen vert brukt på ein måte som fremjar næringslivet i bygda og tek vare på naturvern- og friluftsinteressene.
+Fjellstyret skal ha fem medlemer med personlege varamedlemer. Dei vert valde av kommunestyret, eitt medlem som leiar og eitt som nestleiar.
+Fleirtalet av medlemene med varamedlemer skal veljast blant personar som siste året har vore og framleis er fast busette i området der allmenningen ligg – og som Kongen fastset grensene for – eller i bygd eller grend der innbuarane frå gamal tid har utøvd allmenningsbruk i allmenningen.
+Funksjonstida er fire år og følgjer kommunevalperioden.
+Kommunestyret skal syte for at jakt-, fiske- og friluftsinteressene vert representerte i fjellstyret og at minst to medlemer med varamedlemer vert valde blant dei som har rett til allmenningsbruk i allmenningen som jordbrukarar. Kongen kan, for område som er eller vert lagt under lova, fastsetje at reindriftsnæringa skal vere representert i fjellstyret og at den eine eller begge av dei to som skal ha allmenningsrett som jordbrukarar i staden skal vere reineigarar. Elles gjeld reglane i kommunelova om kven som kan veljast som medlem av kommunale nemnder tilsvarande ved val av fjellstyre.

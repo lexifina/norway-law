@@ -1,0 +1,2 @@
+# § 9
+Kjem det opp tvist mellom fjellstyret og allmenningsstyret (jfr. lov av 19. juni 1992 nr. 60 om skogsdrift m.v. i statsallmenningene § 1-2 og § 1-3) om ordninga av allmenningsbruken, skal leiaren i fjellstyret kalla inn dei to styra til eit fellesmøte. Kjem ein ikkje fram til semje kan kvart av styra leggje tvisten fram for departementet, som kan avgjere den eller vise den til avgjerd ved skjøn.
