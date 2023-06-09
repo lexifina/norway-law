@@ -1,0 +1,3 @@
+# § 2-16. (virkesrett i flere allmenninger)
+Har en eiendom tilliggende virkesrett til dekning av sammenfallende bruksbehov i flere statsallmenninger, eller i både statsallmenning og bygdeallmenning, fastsetter allmenningsstyrene i samråd med Statskog SF – etter å ha gitt den virkesberettigede anledning til å uttale seg – hvor stor del av eiendommens virkesbehov som skal kunne kreves dekket i hver av allmenningene, og hvordan det for øvrig skal forholdes med utøvelse av virkesretten.
+Departementet kan gi nærmere bestemmelser om hvordan det skal forholdes ved uenighet om avgjørelser etter første ledd.

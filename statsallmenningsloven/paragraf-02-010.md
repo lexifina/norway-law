@@ -1,0 +1,4 @@
+# § 2-10. (bruk og behandling av mottatt virke, anvendelse av ytelser fra allmenningen)
+Mottatt virke må behandles forsvarlig, og skal benyttes innen rimelig tid.
+For øvrig plikter de virkesberettigede å anvende virke og andre ytelser fra allmenningen til det formål som er forutsatt ved tildelingen. Salg og enhver annen forføyning eller anvendelse til andre formål uten etter samtykke fra allmenningsstyret er forbudt.
+Før salg av bygninger som mottatt virke er benyttet til, eller som det er gitt pengetilskudd til istedenfor virke, skal allmenningsstyret underrettes. Dette gjelder likevel ikke når bygninger selges sammen med den eiendom virkesretten ligger til eller en del av denne som oppfyller vilkårene for virkesrett etter § 2-1, og heller ikke hvis det er gått 25 år eller mer fra ytelsen ble mottatt og til salget finner sted.
