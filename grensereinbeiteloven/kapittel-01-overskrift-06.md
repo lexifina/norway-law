@@ -1,0 +1,1 @@
+# Trygging av beiteressursene.

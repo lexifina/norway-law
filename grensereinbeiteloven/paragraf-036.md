@@ -1,0 +1,3 @@
+# § 36
+Når det er grunn til å tro at det i Sverige er ondartet smittsom sykdom blant rein eller husdyr og at det er fare for at svensk reinbeiting i Norge kan føre til ytterligere utbredelse av sykdommen, skal veterinærmyndighetene i de to land samrå seg med hverandre. Norske veterinærmyndigheter kan deretter iverksette de tiltak og gi de pålegg eller utferdige de forbud som er nødvendige for å hindre sykdommens utbredelse.
+Forbud mot at rein eller reinhunder fra Sverige kommer inn i Norge, utferdiges av departementet. Slikt forbud skal oppheves så snart faren for utbredelse av sykdommen er opphørt.

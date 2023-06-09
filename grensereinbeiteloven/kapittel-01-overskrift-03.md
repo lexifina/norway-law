@@ -1,0 +1,1 @@
+# Bruken av beiteområdene.
