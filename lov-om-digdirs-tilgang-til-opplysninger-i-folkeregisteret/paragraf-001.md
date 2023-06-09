@@ -1,0 +1,2 @@
+# § 1. Tilgang til Folkeregisteret
+Kongen kan gi forskrift om at Digitaliseringsdirektoratet uten hinder av taushetsplikt kan innhente og behandle opplysninger fra Folkeregisteret, også opplysninger som nevnt i personvernforordningen artiklene 9 og 10, som er nødvendige for å løse direktoratets oppgaver, og om hvilke oppgaver som skal kunne gi grunnlag for innhenting og behandling av opplysninger fra Folkeregisteret.
