@@ -1,0 +1,4 @@
+# § 2-9. (andre driftsformer)
+Departementet kan bestemme at virkesrett i statsallmenning skal utøves på annen måte enn etter § 2-7. Det kan således bestemmes at virket skal drives ut og eventuelt foredles for allmenningens regning (fellesdrift), mot at de virkesberettigede gis adgang til å kjøpe det virket de tilkommer med et prisavslag som tilsvarer rotverdien (virkesrabatt).
+Også andre driftsformer kan bestemmes, når det påses at de virkesberettigede gis adgang til kjøp av virke på vilkår som nevnt i første ledd.
+Før det treffes bestemmelse etter første eller annet ledd, må de bruksberettigede ved avstemning på årsmøtet ha sluttet seg til ordningen med vanlig flertall av de avgitte stemmer. Ved avstemning gjelder bestemmelsene i §§ 3-1 og 3-2 vedrørende stemmerett, stemmegivning og fullmakt til å avgi stemme.

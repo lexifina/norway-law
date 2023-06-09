@@ -1,0 +1,5 @@
+# § 2-8. (avgifter)
+Når virkesretten utøves ved utvisning etter § 2-7, skal skogfond etter skogbrukslova kapittel 4 innbetales til Statskog SF eller til allmenningsstyret innen en frist som fastsettes i forbindelse med at den virkesberettigede underrettes om tildelingen.
+Foruten skogfond etter skogbruksloven, kan de virkesberettigede pålegges å betale en avgift til dekning av godtgjørelse til allmenningsstyrets medlemmer, utgifter i forbindelse med styrevalg og allmenningsstyrets utgifter med administrasjon av virkesretten, i forhold til tildelt kvantum.
+I den utstrekning det ikke ved salgshogst, offentlige bidrag eller på annen måte kan skaffes midler til nødvendige investeringer og til skogkultur, kan de virkesberettigede pålegges å betale en særskilt avgift til slike formål, i forhold til tildelt kvantum.
+Avgift som nevnt i annet og tredje ledd fastsettes, utlignes og kreves inn av allmenningsstyret, i den utstrekning bestemmelser ikke er fastsatt i bruksregler for den enkelte allmenning, jfr. § 2-17. Med mindre annet er bestemt, foretas ikke tildeling før pålagt avgift er betalt.
