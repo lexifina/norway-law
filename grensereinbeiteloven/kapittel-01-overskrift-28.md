@@ -1,0 +1,1 @@
+# Smittsomme dyresykdommer.
