@@ -1,0 +1,5 @@
+# § 5
+Ligg ein statsallmenning i fleire kommunar, slik at det for same allmenningen skal veljast to eller fleire fjellstyre etter § 3, kan Kongen ta avgjerd om at det skal vere eit felles fjellstyre for allmenningen, anten i staden for eller i tillegg til særskilde fjellstyre som nemnt i § 3. Medlemene med personlege varamedlemer vert valde av kommunestyra i dei kommunane det gjeld.
+Før Kongen tek avgjerd etter første stykket, skal fjellstyra og kommunestyra i dei kommunane det gjeld gjevast høve til å uttale seg. I avgjerda skal det fastsetjast kor mange medlemer frå kvar kommune det skal vere i fellesstyret, og korleis det skal ordnast med val av leiar og nestleiar.
+Fjellstyre etter paragrafen her kan ha fem eller sju medlemer. Vert det valt meir enn fem, skal minst fire av medlemene og varamedlemene ha rett til allmenningsbruk i allmenningen som jordbrukarar.
+Kongen kan i visse høve gjere unntak når det gjeld talet på medlemer i fellesstyret etter tredje stykket i paragrafen her. Elles gjeld § 3 tilsvarande.

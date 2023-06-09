@@ -1,0 +1,3 @@
+# § 34
+Krav om skjøn etter § 2 tredje stykket, § 15 fjerde stykket, § 18 fjerde stykket, og like eins etter § 21 fjerde stykket for avgjerd av tvist om seterutvising etter andre stykket, må vere sett fram innan 3 uker etter at fjellstyrevedtaket er kunngjort eller det er gjeve melding om det etter reglane i § 10. Fjellstyret kan krevje skjøn etter desse paragrafane før det vert gjort vedtak.
+Skjøn etter § 12 første stykket, og like eins etter § 21 fjerde stykket for avgjerd av tvist om bortleige av jord etter tredje stykket, må krevjast innan 3 veker etter at den som krev skjøn fekk kunnskap om tiltaket eller leigeavtala. Departementet kan krevje skjøn etter desse paragrafane før det vert teke avgjerd.

@@ -1,0 +1,4 @@
+# § 30
+Fjellstyret kan avgrense talet på fiskekort og elles setje i verk slike innskrenkingar med omsyn til fiske og reiskapsbruk som det finn naudsynleg. Fjellstyret kan likevel ikkje gjere innskrenkingar i fiske etter § 28 første stykket på annan måte enn ved å avgrense talet på fiskekort, og avgrensinga må i tilfelle skje slik at det vert rimeleg balanse mellom innan- og utanbygdsbuande.
+Før det vert gjort vedtak om innskrenkingar i fisket etter første stykket, skal det lokale fiskeorgan gje fråsegn. Er det usemje mellom fjellstyret og det lokale fiskeorgan, må fjellstyrevedtaket leggjast fram for departementet som tek avgjerd i saka.
+Fjellstyret kan med godkjenning av departementet gjere vedtak om at einskilde område av allmenningen skal fredast for alt fiske for eit tidsrom av inntil 10 år om gongen. Godkjent vedtak om dette skal kunngjerast i pressa, ved oppslag eller på annan måte minst 4 veker før det tek til å gjelde.

@@ -1,0 +1,6 @@
+# § 28
+I statsallmenning skal dei som siste året har vore og framleis er fast busette i Norge ha rett til under like vilkår å oppnå høve til å drive fiske med krok utan fastståande redskap, likevel ikkje fiske med oter.
+For fiske etter anadrome laksefisk gjeld § 4 i lov om laksefisk og innlandsfisk m.v.
+Fjellstyret kan gje løyve til å drive også anna slag fiske for dei som siste året har vore og framleis er fast busette i området der allmenningen ligg – og som Kongen fastset grensene for – eller i bygd eller grend der innbuarane frå gamal tid har utøvd allmenningsbruk i allmenningen. Like eins kan fjellstyret gje slikt løyve også for andre som har fiskerett etter første stykket, når det kan skje utan at det går ut over fiskerettshavarane elles og det ikkje kan reknast å vere til skade for fisken i vassdraget. Dei gardar og bygdelag som har drive fiske med fastståande reiskap frå gamal tid, skal ha førerett til slikt fiske framom andre.
+Fjellstyret kan gje også utlendingar – som ikkje fyller kravet til busetnad etter første stykket – løyve til å drive slikt fiske som nemnt i første stykket.
+Før fjellstyret gjer vedtak etter tredje stykket, andre punktum og fjerde stykket skal det lokale fiskeorgan gje fråsegn. Er det usemje mellom fjellstyret og det lokale fiskeorgan, må fjellstyrevedtaket leggjast fram for departementet som tek avgjerd i saka.

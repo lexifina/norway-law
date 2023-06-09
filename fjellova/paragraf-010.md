@@ -1,0 +1,4 @@
+# § 10
+For saksførehavinga i fjellstyret gjeld føresegnene om einskildvedtak i forvaltningslova 10 februar 1967, også når vedtaket gjeld alle bruksrettshavarane. Kongen fastset nærare reglar om m.a. formene for førehandsvarsling og kunngjering av eller melding om fjellstyrevedtak.
+Fjellstyrevedtak kan påklagast til og omgjerast av departementet etter reglane i kap. VI i forvaltningslova. Vedtak etter §§ 12 og 16 kan ikkje påklagast til departementet. Det same gjeld vedtak etter §§ 2, 15, 18 og 21 så langt tvistar etter desse paragrafane etter lova skal avgjerast ved skjøn. I staden for å stadfeste eller gjere om fjellstyrevedtak som det er klaga over, kan departementet vise saka til avgjerd ved skjøn etter tiltak av fjellstyret.
+Fjellstyrevedtak tek til å gjelde 4 veker etter at det er kunngjort eller det er gjeve melding etter reglane i første stykket, om Kongen ikkje fastset noko anna.
