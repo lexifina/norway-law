@@ -1,0 +1,2 @@
+# § 1. Formålet med loven
+Loven skal sikre at det uavhengige utvalget som skal granske straffesaken mot Viggo Kristiansen i Baneheia-saken og foreta en gjennomgang av Kommisjonen for gjenopptakelse av straffesaker, oppnevnt av Kongen i statsråd 10. februar 2023, får tilgang til nødvendige opplysninger for å få utført sitt arbeid i henhold til mandatet, og gi utvalget adgang til å behandle disse opplysningene.
