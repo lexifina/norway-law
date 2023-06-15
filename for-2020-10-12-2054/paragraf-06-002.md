@@ -1,0 +1,4 @@
+# § 6-2. Lokal klagenemnd
+(1) TISIP fagskole skal ha en lokal klagenemnd, jf. fagskoleloven § 20, som oppnevnes av styret. Den lokale klagenemnden er klageinstans for enkeltvedtak fattet av fagskolen.
+(2) Klagenemnden skal behandle klage over fagskolens vedtak etter lov om fagskoleutdanning § 20. Fagskolen saksforbereder og oversender saken til lokal klagenemnd for vedtak. Den lokale klagenemndens vedtak i klagesaker om fagskolens vedtak kan ikke påklages.
+(3) Den lokale klagenemnda skal ha fem medlemmer med personlige varamedlemmer. Leder og varamedlem for leder skal fylle de lovbestemte kravene for lagdommere. Leder og varamedlem for lederen skal ikke være ansatt ved fagskolen. To av medlemmene skal være studenter. Klagenemnda er vedtaksfør når leder eller varamedlem for lederen og to andre medlemmer er til stede.
