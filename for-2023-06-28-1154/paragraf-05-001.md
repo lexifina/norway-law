@@ -1,0 +1,2 @@
+# § 5-1. Gjennomføring av delegert kommisjonsforordning som angir minstekrav til størrelse på låneformidlers ansvarsforsikring
+EØS-avtalen vedlegg XIX nr. 7ha (delegert kommisjonsforordning (EU) nr. 1125/2014 av 19. september 2014 om utfylling av europaparlaments- og rådsdirektiv 2014/17/EU med hensyn til tekniske reguleringsstandarder for minstebeløpet som kredittformidleres yrkesansvarsforsikring eller tilsvarende garanti skal dekke), gjelder som forskrift med de tilpasninger som følger av vedlegg XIX, protokoll 1 til avtalen og avtalen for øvrig.
