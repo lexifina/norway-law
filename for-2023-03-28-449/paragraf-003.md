@@ -1,0 +1,2 @@
+# § 3. Ansvar for virksomhetens plikter etter forskriften
+Virksomhetens eier har ansvar for at kravene i forskriften blir oppfylt, herunder å stille til rådighet de ressursene som er nødvendige for at kravene skal kunne oppfylles. For skoler godkjent etter privatskoleloven er det skolens styre som har ansvaret etter første punktum. For private grunnskoler godkjent etter opplæringsloven er det skolens ledelse som har ansvaret.
