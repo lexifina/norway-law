@@ -4,5 +4,5 @@ Kommunestyret og fylkestinget deler selv alle kommunestyrets og fylkestingets me
 Valget gjennomføres på grunnlag av en innstilling som inneholder forslag til medlemmer og varamedlemmer til komiteene. Innstillingen skal inneholde like mange navn som antall medlemmer i hver komite, og den skal angi gruppen hvert medlem representerer. Innstillingen kan også inneholde navn på varamedlemmer. Antallet varamedlemmer kan være inntil to flere enn de faste medlemmene. Innstillingen vedtas med alminnelig flertall.
 Komiteene skal settes sammen forholdsmessig etter kjønnsfordelingen i kommunestyret eller fylkestinget. Varamedlemmer til komiteene velges på samme måte.
 Hvis et medlem trer ut av kommunestyret eller fylkestinget, skal det nye medlemmet i kommunestyret eller fylkestinget overta komitevervet til det forrige medlemmet.
-Komiteen kan opprette arbeidsutvalg med medlemmer fra komiteen hvis ikke kommunestyret eller fylkestinget selv har bestemt noe annet.
+Komiteen kan opprette arbeidsutvalg med medlemmer fra komiteen hvis ikke kommunestyret eller fylkestinget selv har bestemt noe annet. Komiteen kan selv når som helst omorganisere eller nedlegge slike arbeidsutvalg hvis ikke kommunestyret eller fylkestinget selv har bestemt noe annet.
 Kommunestyret og fylkestinget kan selv når som helst omorganisere eller nedlegge kommunestyrekomiteer og fylkestingskomiteer.
