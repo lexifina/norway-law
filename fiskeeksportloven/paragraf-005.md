@@ -1,0 +1,2 @@
+# § 5. Salgsvilkår og minsteeksportpriser mv.
+Departementet kan gi forskrift om at salg til utlandet av fisk, fiskevarer og marine produkter bare kan finne sted på nærmere bestemte salgsvilkår. I forskrift etter første punktum kan det også fastsettes minsteeksportpriser og, ved ekstraordinære markedsforhold, andre tiltak av midlertidig karakter for bestemte varer til bestemte markeder, når dette skjer av hensyn til internasjonale avtaler.

@@ -1,0 +1,3 @@
+# § 3. Registrering av eksportører
+Eksport av fisk, fiskevarer og marine produkter kan bare foretas av eksportører som er registrert i henhold til lovens bestemmelser. Departementet gir forskrift om registreringsordningen, blant annet om unntak fra kravet om registrering. I forskriften kan det stilles som vilkår for registrering at avgift er innbetalt i samsvar med § 6 første ledd bokstav a. Registrert eksportør kan bare slettes fra registeret som følge av manglende innbetaling av avgift etter tredje punktum.
+Departementet kan gi forskrift om at Sjømatrådet får fullmakt til å forvalte registreringsordningen og føre register over eksportører som etter loven har rett til å eksportere fisk, fiskevarer og marine produkter.
