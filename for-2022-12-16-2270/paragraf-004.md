@@ -1,0 +1,3 @@
+# § 4. Overgangsregler
+Kravet til tre års praksis som nevnt i regnskapsførerloven § 3-2 første ledd, første og andre punktum, gjelder ikke personer som søker om godkjenning som statsautorisert regnskapsfører senest 1. januar 2025, forutsatt at kravet til to års praksis som nevnt i regnskapsførerloven § 3-2 første ledd, tredje til femte punktum og utfyllende forskrifter er oppfylt.
+Kravet i regnskapsførerloven § 3-2 første ledd, femte punktum gjelder ikke personer som søker om godkjenning som statsautorisert regnskapsfører senest 1. januar 2025, herunder de som søker etter overgangsregelen i første ledd i denne bestemmelse, forutsatt at praksisen er opparbeidet de fem siste årene.
