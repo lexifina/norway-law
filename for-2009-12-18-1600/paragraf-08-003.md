@@ -1,0 +1,3 @@
+# § 8-3. Sektoravgift
+NVE kan kreve inn sektoravgift til dekning av kostnader ved NVEs tilsyn, kontroll og godkjenning i henhold til denne forskrift og i henhold til forskrift om internkontroll. Sektoravgiften fastsettes ut fra en dams bruddkonsekvens, høyde og oppdemt magasinvolum. For mindre dammer eller andre vassdragsanlegg enn dammer kan det fastsettes minstesatser. Satsene settes slik at sektoravgiftene samlet ikke overskrider NVEs kostnader med kontrollen og til tiltak etter lov om vassdrag og grunnvann § 40 første ledd annet punktum.
+Sektoravgiften er tvangsgrunnlag for utlegg. Betales ikke sektoravgiften ved forfall, påløper rente som fastsatt i medhold av lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3 første ledd.

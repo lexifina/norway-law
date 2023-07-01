@@ -1,0 +1,2 @@
+# § 5-6. Utforming og atkomst
+Vassdragsanlegg skal utformes slik at de får en oversiktlig statisk virkemåte. Laster skal overføres til fundamentet i henhold til anerkjente prinsipper og metoder som sikrer den totale stabiliteten. Der det er aktuelt må det legges vekt på en best mulig hydraulisk utforming for å unngå skader ved de vannføringer anlegget er dimensjonert for. Det skal etableres nødvendig atkomst for tilsyn, drift og vedlikehold.

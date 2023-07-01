@@ -1,0 +1,5 @@
+# § 4-3. Dokumentasjon
+Vurderingen av konsekvensklasse skal være dokumentert og basert på relevant informasjon om anlegget og berørt område, befaringer og nødvendige beregninger.
+Omfanget av dokumentasjonen kan tilpasses usikkerheten ved å fastsette konsekvensklasse, men skal minimum omfatte kart og foto som viser beliggenhet av anlegget og berørt område, målsatte tegninger av dam, volum av oppdemt magasin, dimensjoner på vannvei og vurdering/beskrivelse av bruddkonsekvenser. Ved behov skal dokumentasjonen også omfatte relevante beregninger.
+Beregninger for dammer skal omfatte maksimal vannføring og maksimale vannstander på grunn av brudd. Beregninger for vannvei skal omfatte bruddvannføring og eventuelt horisontal kastlengde for vannstråle fra rør. Det skal gjennomføres en analyse av følgeskader av bruddvannføring, vannstandsendringer og eventuelle bruddstråler.
+Ved tvil om konsekvensklasse kan NVE kreve at det gjennomføres dambruddsbølgeberegninger eller andre relevante beregninger, alternativt at høyeste aktuelle klasse benyttes.

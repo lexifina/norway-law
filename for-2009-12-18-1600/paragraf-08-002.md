@@ -1,0 +1,2 @@
+# § 8-2. Dispensasjoner og skjerpede krav
+NVE kan ved enkeltvedtak fravike bestemmelser i denne forskriften. Dispensasjoner kan bare gis der det er forsvarlig ut fra en sikkerhetsmessig vurdering. Der sikkerhetsmessige grunner gjør det nødvendig, kan NVE i enkelttilfeller pålegge strengere krav enn det som følger av den enkelte bestemmelse, men ikke utover de strengeste sikkerhetsbestemmelser i forskriften.
