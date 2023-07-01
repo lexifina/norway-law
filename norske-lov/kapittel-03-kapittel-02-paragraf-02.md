@@ -1,0 +1,2 @@
+# 17 Art.
+Annammer nogen anden Mands Gods i Forvaring og til at giemme, da bør hand det at giemme som sit eget Gods. End kommer der Ild i hans Huus og opbrænder det, eller Tyve bortstiæle det, eller det af anden Ulykke forkommer tillige med hans eget Gods, da være hand angerløs. End vorder hans eget Gods bevaret, og det bevisis, at hand hafde Tid og Lejlighed det betroede Gods med sit at frelse, da gielde hand igien det, som hand i Forvaring annammet hafde.
