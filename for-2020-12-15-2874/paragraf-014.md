@@ -1,0 +1,8 @@
+# § 14. Gratis bruk av offentlige undervisningslokaler
+Når det holdes kurs med tilskudd etter forskriften, skal studieforbundet eller medlemsorganisasjonen ikke belastes for utgifter til lokaler, lys, varme, renhold, tilsyn og bruk av utstyr i offentlige undervisningslokaler. Første punktum gjelder kurs som holdes på hverdager i undervisningsåret, unntatt undervisningsferier, og ikke varer lenger enn til kl. 21.00. Det må finnes særskilt avtale med lokaleier for utlån utover dette.
+Med offentlige undervisningslokaler menes i denne sammenheng alle undervisningslokaler finansiert og driftet gjennom tilskudd fra det offentlige. For bruk av spesialrom som krever tilstedeværelse av kvalifisert personell kan lokaleier kreve vederlag.
+Lokaleier kan fastsette utfyllende regler for utlån av offentlige undervisningslokaler og -utstyr til bruk etter denne forskrift. Retten til gratis bruk av undervisningslokaler inntrer først når lokaleiers behov for egen undervisningsvirksomhet er dekket. Reglene skal ikke diskriminere mellom kursarrangører, men kan gi muligheter for prioritering av tiltak og grupper ut fra voksenopplæringslovens formål.
+Det kan utarbeides en samlet utlånsplan for bruk av undervisningslokalene på grunnlag av utlysning, søknader og et avtalt låneforhold med den enkelte kursarrangør.
+Etter bruk skal lokaler og utstyr være i samme stand som ved overtakelsen. Kursarrangør er økonomisk ansvarlig for skader som måtte oppstå vedrørende utstyr og materiell.
+Ved utlån av spesialrom må det avtales hensiktsmessige kontrollordninger.
+Kursarrangøren skal sørge for at kursdeltakerne blir kjent med gjeldende bestemmelser for bruk av lokaler og utstyr.
