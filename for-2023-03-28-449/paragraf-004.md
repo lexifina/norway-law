@@ -1,0 +1,3 @@
+# § 4. Helsemessig tilfredsstillende virksomhet
+Virksomheten skal drives på en helsemessig tilfredsstillende måte. Virksomhetens fysiske miljø skal være forsvarlig ut fra en vurdering av faktorer i miljøet som kan påvirke barns og elevers helse, trivsel, lek og læring. Dersom forhold knyttet til enkeltfaktorer i miljøet avviker fra faglige normer må virksomheten kunne dokumentere at det fysiske miljøet likevel er tilfredsstillende.
+Virksomhetens lokaler og uteområder skal være utformet slik at de fremmer helse, trivsel, lek og læring for alle barn og elever. Behovene til barn og elever med funksjonsnedsettelse skal ivaretas. Lokaler og uteområder skal kunne dekke behov for aktivitet og hvile, og forebygge sykdom, skader, ulykker, overgrep og andre alvorlige hendelser.
