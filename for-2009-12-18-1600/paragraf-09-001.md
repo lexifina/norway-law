@@ -1,0 +1,3 @@
+# § 9-1. Tilbaketrekking av godkjenning som VTA eller fagansvarlig
+Dersom forskriftens krav i § 3-3, § 3-5, § 3-6 eller § 3-7 ikke lenger er oppfylt eller spesielle grunner i tilknytning til VTA eller fagansvarliges faglige oppgaver og ansvar gjør det utilrådelig at godkjenningen opprettholdes, kan NVE ta godkjenningen opp til ny vurdering og eventuelt trekke den tilbake etter at det er gitt varsel med rimelig frist til å rette opp forholdene.
+I vurderingen av om en godkjenning bør trekkes tilbake skal det blant annet legges vekt på forholdets art og grovhet, om det foreligger gjentagelser, om VTA eller fagansvarlig kan klandres og hva som er gjort for å rette opp forholdet.
