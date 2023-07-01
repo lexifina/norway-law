@@ -1,5 +1,5 @@
 # § 2-1. Finansieringsvirksomhet
-(1) Finansieringsvirksomhet kan bare drives av banker, kredittforetak og finansieringsforetak som etter denne loven har tillatelse til å drive slik virksomhet her i riket, med mindre annet følger av lovgivningen om verdipapirforetak, forsikringsformidlingsforetak, forvaltningsselskap for verdipapirfond eller alternative investeringsfond og eiendomsmeglerforetak. Finansieringsvirksomhet kan også drives av utenlandske kredittinstitusjoner som etter denne loven har adgang til å drive slik virksomhet her i riket.
+(1) Finansieringsvirksomhet kan bare drives av banker, kredittforetak og finansieringsforetak som etter denne loven har tillatelse til å drive slik virksomhet her i riket, med mindre annet følger av lovgivningen om verdipapirforetak, låneformidlingsforetak, forsikringsformidlingsforetak, forvaltningsselskap for verdipapirfond eller alternative investeringsfond og eiendomsmeglerforetak. Finansieringsvirksomhet kan også drives av utenlandske kredittinstitusjoner som etter denne loven har adgang til å drive slik virksomhet her i riket.
 (2) Som finansieringsvirksomhet regnes:
 a) å yte kreditt og stille garantier for egen regning, herunder finansiell leasing,
 b) å formidle kreditt og garantier, samt annen medvirkning ved finansiering av annet enn egen virksomhet.
