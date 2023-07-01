@@ -1,0 +1,2 @@
+# § 5. Utfyllende bestemmelser
+EØS-avtalen vedlegg XXII nr. 10ga (forordning (EU) 2018/1212) om fastsettelse av minstekrav til gjennomføring av bestemmelsene i europaparlaments- og rådsdirektiv 2007/36/EF med hensyn til aksjeeieres identitet, overføring av opplysninger og tilrettelegging for utøvelse av aksjeeierrettigheter gjelder som forskrift med de tilpasninger som følge av vedlegg XXII, protokoll 1 til avtalen og avtalen for øvrig.
