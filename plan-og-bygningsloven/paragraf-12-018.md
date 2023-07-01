@@ -1,0 +1,2 @@
+# § 12-18. Begrensning i adgangen til å oppheve eller endre områderegulering for vindkraftanlegg
+Områdereguleringer for vindkraftanlegg kan ikke oppheves eller endres i strid med konsesjon etter energiloven fra konsesjonstidspunktet og fram til byggefristen som gjelder for konsesjonen er utløpt, uten etter samtykke fra departementet. Slikt samtykke kreves ikke dersom det er tiltakshaveren som fremmer forslag om endring av områdereguleringen.

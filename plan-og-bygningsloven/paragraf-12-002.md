@@ -1,3 +1,3 @@
 # § 12-2. Områderegulering
 Områderegulering brukes av kommunen der det er krav om slik plan i kommuneplanens arealdel, eller kommunen finner at det er behov for å gi mer detaljerte områdevise avklaringer av arealbruken.
-Områderegulering utarbeides av kommunen. Kommunen kan likevel overlate til andre myndigheter og private å utarbeide forslag til områderegulering.
+Områderegulering utarbeides av kommunen. Kommunen kan likevel overlate til andre myndigheter og private å utarbeide forslag til områderegulering og kreve at private utarbeider forslag til områderegulering for konsesjonspliktige vindkraftanlegg etter energiloven. For områdereguleringer for vindkraftanlegg gjelder reglene om behandlingsmåten for private reguleringsplanforslag i § 12-3 andre ledd, § 12-8 og § 12-11.
