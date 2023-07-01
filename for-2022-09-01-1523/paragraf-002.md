@@ -1,0 +1,6 @@
+# § 2. Identifisering av aksjeeiere
+(1) Ved anmodning fra selskapet eller en tredjeperson selskapet har utpekt, har en formidler plikt til uten opphold å formidle opplysninger om aksjeeieres identitet.
+(2) Med informasjon om aksjeeiernes identitet menes navn, fødselsdato eller organisasjonsnummer eller tilsvarende identifikasjonsnummer for utenlandske personer, postnummer, sted og land, samt hvor mange aksjer den enkelte aksjeeieren eier. Dersom selskapet krever det, omfattes også aksjeklassenavn og ervervstidspunkt.
+(3) Dersom det er flere ledd med formidlere, skal selskapets anmodning uten opphold videreformidles mellom formidlerne, og informasjonen om aksjeeierens identitet skal uten opphold gis direkte til selskapet eller tredjepersonen utpekt av selskapet fra den formidleren som besitter den etterspurte informasjonen. Selskapet har rett til å få informasjonen om aksjeeiernes identitet fra ethvert ledd i formidlerkjeden som besitter informasjonen.
+(4) Med mindre annet følger av lov eller forskrift med hjemmel i lov, skal informasjon om aksjeeiere innhentet etter denne bestemmelsen ikke lagres mer enn tolv måneder etter at formidleren ble klar over at vedkommende ikke lenger er aksjeeier.
+(5) Juridiske personer kan kreve at ufullstendige eller upresise opplysninger om deres identitet blir rettet.
