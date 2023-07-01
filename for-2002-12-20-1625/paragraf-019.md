@@ -1,0 +1,6 @@
+# § 19. Godtgjøring til helsepersonell for gjennomgang, utskrift og oversendelse av opplysninger fra pasientjournal
+Godtgjøring for gjennomgang, utskrift og oversendelse av opplysninger fra pasientjournal etter henvendelse fra Norsk pasientskadeerstatning eller Nasjonalt klageorgan for helsetjenesten som sekretariat for Pasientskadenemnda, ytes etter de reglene som fremgår i denne paragrafen, jf. pasientskadeloven § 10a.
+Godtgjørelse ytes til privatpraktiserende helsepersonell, uavhengig av om de har driftsavtale med det offentlige. Det ytes ikke godtgjørelse til helsepersonell som er innklaget som påstått skadevolder.
+For arbeid og utgifter ved gjennomgang, utskrift og oversendelse av relevante deler av pasientjournal, ytes en stykkpris tilsvarende 0,5 ganger den timesatsen som fastsettes av Justisdepartementet etter forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater m.v. § 2. Satsen på det tidspunkt henvendelsen ble mottatt, benyttes.
+Krav om godtgjøring fremmes sammen med oversendelsen av opplysningene.
+Helsepersonell som er forespurt om utdrag av pasientjournal, og som ved gjennomgang av journalen ikke finner relevante opplysninger å oversende, kan også fremme krav om godtgjøring etter denne bestemmelsen.
