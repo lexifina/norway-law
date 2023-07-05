@@ -1,0 +1,2 @@
+# § 2. Forbud mot ilandføring av pelagisk snabeluer (Sebastes mentella)
+Det er forbudt å lande pelagisk snabeluer (Sebastes mentella) (oseanisk og pelagisk) fra ICES' statistikkområder 5, 6, 12 og 14 samt NAFO-statistikkområder 1, 2 og 3K utenfor noen stats jurisdiksjon (internasjonalt farvann), i norsk havn. Fartøy med slik pelagisk snabeluer om bord har heller ikke adgang til å benytte havne-, forsynings- og støttetjenester i norsk havn.
