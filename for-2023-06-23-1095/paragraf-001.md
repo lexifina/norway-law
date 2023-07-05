@@ -1,0 +1,3 @@
+# § 1. Forbud mot omlasting av pelagisk snabeluer (Sebastes mentella) og å gi forsynings- og støttetjenester til fartøy
+Det er forbudt å foreta omlasting i farvann under norsk jurisdiksjon av arten pelagisk snabeluer (Sebastes mentella) (oseanisk og pelagisk) fra ICES' statistikkområder 5, 6, 12 og 14 samt NAFO-statistikkområder 1, 2 og 3K utenfor noen stats jurisdiksjon (internasjonalt farvann). For norske fartøy er det også forbudt å motta fangst gjennom omlasting av slik pelagisk snabeluer i områder utenfor norsk jurisdiksjon.
+Det er forbudt for norske fartøy å gi forsynings- og støttetjenester til fartøy med slik pelagisk snabeluer om bord.
