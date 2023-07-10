@@ -1,0 +1,2 @@
+# § 6. Ikrafttredelse
+Denne forskriften trer i kraft 1. november 2018. Samtidig oppheves forskrift 25. januar 2018 nr. 101 om godkjente (reinavla) avlssvin og hybridavlssvin, forskrift 25. januar 2018 nr. 104 om godkjente (reinavla/registrerte) dyr av hestefamilien, 25. januar 2018 nr. 102 om godkjente (reinavla) avlsdyr av storfe og forskrift 25. januar 2018 nr. 103 om godkjente (reinavla) avlsdyr av sau og geit.
