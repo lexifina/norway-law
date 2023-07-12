@@ -1,0 +1,4 @@
+# § 27. Kommunikasjon i Nødnett
+Kommunen skal sørge for at personell i førsteinnsats er tilgjengelige for utalarmering og varsling i Nødnett. Personell i brann- og redningsvesenet og på nødmeldesentralen skal kommunisere med hverandre, andre brann- og redningsvesen og andre samvirkeaktører i Nødnett.
+Kommunen skal sørge for at personell i brann- og redningsvesenet og på nødmeldesentralen følger gjeldende sambandsreglement for bruk av Nødnett.
+Dersom det er ekstraordinære dekningsutfordringer i Nødnett kan utalarmering for dette området skje via andre kommunikasjonsløsninger. Med ekstraordinære dekningsutfordringer menes blant annet manglende dekning på steder hvor personell i brann- og redningsvesenet bor eller arbeider, teknisk feil, eller dekningsutfordringer som følge av uønskede hendelser.

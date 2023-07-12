@@ -1,0 +1,5 @@
+# § 12. Ledelse under innsats
+Brann- og redningsvesenet skal ha eller være omfattet av en overordnet vaktberedskap slik at myndigheten til lederen av brann- og redningsvesenet ivaretas under innsats. Overordnet vaktberedskap er særskilt kvalifisert personell i egen vaktordning, jf. forskriften § 44, som skal kunne lede samtidig innsats på flere hendelsessteder.
+Under innsats skal den overordnede ledelsen av brann- og redningsvesenet ivaretas av lederen av brann- og redningsvesenet eller noen som inngår i den overordnede vaktberedskapen. Utrykningslederen skal lede brann- og redningsvesenet under innsats dersom lederen av brann- og redningsvesenet eller de som inngår i overordnet vaktberedskap ikke er tilgjengelige.
+Under innsats skal brann- og redningsvesenet organiseres og ledes etter et nasjonalt enhetlig ledelsessystem for brann- og redningsvesenet.
+Brann- og redningsvesenet skal under og etter innsats gi informasjon til nødmeldesentralen slik at enhver innsats blir tilfredsstillende dokumentert, jf. forskriften § 31.
