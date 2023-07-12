@@ -1,0 +1,2 @@
+# § 18. Krav til midlertidig forhøyet beredskap ved særskilt risiko
+Brann- og redningsvesenet skal ha et system for å identifisere situasjoner hvor risikoen for branner og andre ulykker er vesentlig større enn normalt, og følge opp med nødvendig planverk for å sikre god håndtering av slike situasjoner, jf. forskriften § 10. Brann- og redningsvesenet skal innføre høyere beredskap dersom det er nødvendig, og sørge for at nødmeldesentralen holdes informert.
