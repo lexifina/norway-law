@@ -1,0 +1,3 @@
+# § 6. Ikraftsetting og overgangsordninger
+Forskriften trer i kraft 1. januar 2006. Fra samme tidspunkt oppheves forskrift om foreldrebetaling i barnehager fastsatt ved kgl.res. 23. april 2004 nr. 666 med hjemmel i lov 5. mai 1995 nr. 19 om barnehager (barnehageloven) § 15a og § 4 fjerde ledd. For 2006 fastsettes maksimalgrensen av Kongen i Statsråd.
+Barnehageeier kan kreve inn foreldrebetaling etter tidligere regler for maksimalgrense (2.750,-) inntil barnehagen har mottatt statstilskudd, dog ikke utover februar 2006. Barnehagen plikter å tilbakebetale differansen mellom innbetalt foreldrebetaling og ny maksimalgrense når barnehagen har mottatt statstilskuddet.
