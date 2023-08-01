@@ -1,0 +1,2 @@
+# § 6. Ikrafttredelse
+Forskriften trer i kraft 1. august 2017. Fra samme tidspunkt oppheves forskrift 16. desember 2005 nr. 1508 om midlertidig dispensasjon og unntak fra utdanningskravet for styrer og pedagogisk leder gitt med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 17 fjerde ledd og § 18 sjette ledd og forskrift 16. desember 2005 nr. 1507 om pedagogisk bemanning fastsatt med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 18 sjette ledd.
