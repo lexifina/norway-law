@@ -1,0 +1,2 @@
+# § 4-2. Lokal klagenemnd
+Fagskolen har en lokal klagenemnd, se fagskoleloven § 20. Den lokale klagenemnda er klageinstans for alle enkeltvedtak fattet av fagskolen der ikke annet er oppgitt. Den lokale klagenemnda treffer også vedtak som første instans i saker etter fagskoleloven § 23 om formelle feil ved eksamen, § 24 om annullering av eksamen eller prøve, § 25 om bortvisning og utestenging, § 26 om vurdering av skikkethet og § 27 om politiattest, se fagskoleloven § 20. Den lokale klagenemndas vedtak i klagesaker om fagskolens enkeltvedtak kan ikke påklages.
