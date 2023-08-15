@@ -1,0 +1,2 @@
+# § 4-3. Nasjonal klagenemnd for fagskoleutdanning
+Den nasjonale klagenemnda for fagskoleutdanning er klageinstans for enkeltvedtak truffet med hjemmel i fagskoleloven § 16 om opptak gjennom samordna opptak, § 24 om annullering av eksamen eller prøve, § 25 om bortvisning og utestenging, § 26 om vurdering av skikkethet og § 27 om politiattest, se fagskoleforskriften kapittel 7. Den nasjonale klagenemndas vedtak kan ikke påklages.

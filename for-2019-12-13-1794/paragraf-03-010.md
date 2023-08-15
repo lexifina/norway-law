@@ -1,0 +1,3 @@
+# § 3-10. Rett til begrunnelse. Klage over karakterfastsetting og ny sensur
+(1) En student har rett til å få en begrunnelse for karakterfastsettingen, se fagskoleloven § 22.
+(2) En student kan klage på karakterfastsettingen innen tre uker etter at eksamensresultatet er kunngjort, se fagskoleloven § 22. Dersom studenten har bedt om begrunnelse for vedtaket avbrytes klagefristen, og ny klagefrist begynner å løpe på nytt fra det tidspunktet meddelelse om begrunnelse er kommet frem eller studenten på annen måte er gjort kjent med den. Ved bruk av løpende vurdering med karakter beregnes fristen for å klage på hver enkelt vurdering fra den dag resultatet for emnet er kunngjort.
