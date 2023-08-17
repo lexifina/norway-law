@@ -1,0 +1,2 @@
+# § 7. Kost for langtransportsjåfører ved kjøring i Norge og i utlandet
+Godtgjørelse til kost for langtransportsjåfører for kjøring i Norge og i utlandet utbetalt med inntil kr 300 per døgn for perioden frem til og med 31. august og inntil kr 350 fra 1. september 2023 anses ikke å gi trekk- og skattepliktig overskudd. Satsen inkluderer småutgifter. Overstiger godtgjørelsen satsen, vil merutbetalingen utgjøre et trekk- og skattepliktig overskudd med mindre full kostnadsdokumentasjon framlegges.
