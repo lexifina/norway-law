@@ -1,0 +1,2 @@
+# § 6. Leveringssted for fangst omfattet av leveringsplikten
+Leveringsplikten innebærer at fangstene kan losses ved eller på annen måte kan transporteres til den fiskeindustribedriften som har fått tilslag. Dersom lossing skjer innenfor den region som kjøperen er lokalisert i, skal kjøperen selv stå for og bekoste transport til eget anlegg. Dersom lossing skjer utenfor denne regionen, skal fartøyeieren stå for og bekoste transport til kjøperens anlegg.
