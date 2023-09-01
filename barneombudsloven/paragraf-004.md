@@ -1,0 +1,4 @@
+# § 4. (adgang til institusjoner og opplysningsplikt m.v.)
+Ombudet skal ha fri adgang til alle offentlige og private institusjoner for barn.
+Offentlige myndigheter og offentlige og private institusjoner for barn skal uten hinder av taushetsplikt gi Ombudet de opplysninger som trengs til å utføre Ombudets oppgaver etter denne lov. Opplysninger som trengs for å utføre Ombudets oppgave etter § 3 annet ledd bokstav b, kan uten hinder av taushetsplikt, også kreves fra andre. Når det kan kreves opplysninger etter dette ledd, kan også protokoller og andre dokumenter kreves fremlagt.
+Reglene i tvisteloven §§ 22-1, 22-2, 22-4 til 22-11 får tilsvarende anvendelse for Ombudets rett til å kreve opplysninger. Tvist om anvendelsen av disse reglene kan bringes inn for tingretten, som avgjør spørsmålet ved kjennelse.
