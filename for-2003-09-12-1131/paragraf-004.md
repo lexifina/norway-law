@@ -1,0 +1,2 @@
+# § 4. Leveringspliktig fangst
+Leveringsplikten i henhold til § 3 omfatter 80% av fartøyets fangst av torsk og 60% av fartøyets fangst av hyse, for begge fiskeslag nord for 62° N. Dersom de vilkår som er fastsatt i konsesjonen for fartøyet eller ved godkjenning av eiersammensetning innebærer leveringsplikt for en mindre andel av fartøyets fangst, går slike individuelle vilkår foran bestemmelsen i første punktum.

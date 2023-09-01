@@ -1,0 +1,3 @@
+# § 8. Straff og andre sanksjoner ved brudd på leveringsplikten
+Overtredelse av bestemmelser gitt i eller i medhold av denne forskriften straffes etter deltakerloven § 31 og § 31a og havressursloven § 60, § 64 og § 65. På samme måte straffes medvirkning og forsøk.
+Overtredelse av bestemmelser gitt i eller i medhold av denne forskriften kan også medføre tilbakekall av ervervstillatelse eller torsketråltillatelse i medhold av deltakerloven § 11 og § 18. Det samme gjelder ved overtredelse av § 3 siste ledd når det er samme eier direkte eller indirekte til fiskeindustribedriften og torsketråleren.
