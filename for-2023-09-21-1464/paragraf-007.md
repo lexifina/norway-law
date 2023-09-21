@@ -1,0 +1,2 @@
+# § 7. Innbetalt vederlag og endringer i rammebetingelser mv.
+Tillatelse til akvakultur gir rettigheter og plikter og er underlagt de til enhver tid gjeldende lover og regler. Vederlaget blir ikke refundert ved endringer i rammebetingelser som påvirker lønnsomhet, og heller ikke ved eventuell senere inndragning eller reduksjon av tillatelsens kapasitet på bakgrunn av forhold nevnt i akvakulturloven § 9 eller andre lovbestemte forhold, herunder reduksjon i kapasitet besluttet i eller i medhold av produksjonsområdeforskriften.

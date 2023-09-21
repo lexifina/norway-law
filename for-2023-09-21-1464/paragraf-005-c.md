@@ -1,0 +1,7 @@
+# § 5c. Allokering
+Allokeringen av produksjonskapasitet skjer i to steg.
+Allokering steg 1: Vinnende bud velges ved at det høyest rangerte budet tildeles ønsket mengde, deretter det nest høyest rangerte budet og så videre. I steg 1 benyttes ikke avkortning, slik at alle bud må vinne ønsket mengde. Tildelingen pågår inntil:
+a) alle inngitte bud i det aktuelle produksjonsområdet er tildelt ønsket mengde og det gjenstår produksjonskapasitet. Totalt vederlag fastsettes til tildelt mengde multiplisert med minstepris per tonn. Tildeling avsluttes med usolgt produksjonskapasitet.
+b) alle/noen inngitte bud i det aktuelle produksjonsområdet er tildelt ønsket mengde, og det gjenstår ikke produksjonskapasitet. Totalt vederlag fastsettes til tildelt mengde multiplisert med pris per tonn for det lavest rangerte budet som tildeles produksjonskapasitet. Tildelingen avsluttes.
+c) det ikke gjenstår nok produksjonskapasitet til å tildele det neste rangerte budet i sin helhet. Vederlag fastsettes til tildelt mengde multiplisert med pris per tonn for det høyest rangerte budet som ikke ble tildelt produksjonskapasitet.
+Allokering steg 2: Gitt at scenariet i andre ledd bokstav c inntreffer vil gjenværende produksjonskapasitet tildeles basert på rangering av gjenværende bud. I steg 2 av tildelingen benyttes avkortning ved behov. For produksjonskapasitet tildelt gjennom steg 2 fastsettes vederlag per bud til tildelt mengde multiplisert med budets oppgitte pris per tonn.
