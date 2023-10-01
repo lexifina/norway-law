@@ -1,0 +1,5 @@
+# § 2-1. (forbud mot terrenginngrep i forurenset grunn)
+Ingen må gjøre terrenginngrep i områder med forurenset grunn uten tillatelse etter svalbardmiljøloven § 57 eller § 58.
+Med terrenginngrep menes graving, planering, masseuttak, utfylling og andre inngrep som kan være til skade eller ulempe for miljøet ved at eksisterende forurensning spres eller gjøres mindre tilgjengelig for oppryddingstiltak.
+Dersom et terrenginngrep i forurenset grunn i et planområde ikke vil medføre fare for nevneverdige skader eller ulemper for helse eller miljø, kan Sysselmesteren eller den departementet bemyndiger i enkeltvedtak bestemme at det ikke er behov for å innhente tillatelse til forurensning etter svalbardmiljøloven § 58 tredje ledd bokstav b).
+Terrenginngrep i forurenset grunn som er nødvendige for å gjennomføre umiddelbare reparasjoner på vann, avløp, fjernvarme eller annen kritisk infrastruktur som følge av akutte hendelser, kan skje uten tillatelse. Masser som graves opp, skal legges tilbake på samme sted. Dersom det er fare for avrenning eller annen spredning av forurensning i forbindelse med terrenginngrepet skal det gjøres tiltak for å forebygge dette.

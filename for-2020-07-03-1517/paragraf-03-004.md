@@ -1,0 +1,5 @@
+# § 3-4. (krav til lagring i tanker utenfor planområder og i store tanker i planområder)
+Lagring av farlig avfall, petroleumsprodukter eller andre farlige kjemikalier i tanker som er 10 m3 eller større i planområdene må ha tillatelse fra Miljødirektoratet eller den departementet bemyndiger. Kravene i § 3-5 til § 3-7 gjelder tilsvarende.
+Lagring av farlig avfall, petroleumsprodukter eller andre farlige kjemikalier utenfor planområdene, som ikke omfattes av tredje ledd, må ha tillatelse fra Sysselmesteren eller den departementet bemyndiger. Kravene i § 3-5 til § 3-7 gjelder tilsvarende.
+Lagring i eller ved hytter utenfor planområdene av mindre mengder petroleumsprodukter som er nødvendig til oppvarming eller transport, kan skje uten tillatelse. Det samme gjelder mindre mengder farlige kjemikalier til bruk i husholdning eller vedlikehold av hytter. Lagringen skal skje i henhold til kravene i § 3-2 første ledd.
+Tillatelser gitt i medhold av svalbardmiljøloven før 1. januar 2021 er fortsatt gjeldende. Ved motstrid mellom krav i tillatelse og kravene i § 3-5 til § 3-7 gjelder de strengeste kravene.
