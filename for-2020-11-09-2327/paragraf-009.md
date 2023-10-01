@@ -1,0 +1,2 @@
+# § 9. Godkjenning av forsikringsordning for bostyrere
+Bostyreren skal for sitt ansvar som bostyrer være sikret gjennom en godkjent forsikringsordning, jf. arveloven § 149 annet ledd første punktum. Domstoladministrasjonen godkjenner leverandør av forsikringstjenesten for tre år om gangen. Forsikringsordning som er godkjent før 1. januar 2021, anses som godkjent etter arveloven § 149 annet ledd og forskriften her frem til tidspunktet som følger av godkjenningen.
