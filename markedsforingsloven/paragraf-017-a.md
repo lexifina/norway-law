@@ -1,0 +1,5 @@
+# § 17 a. Begrensninger ved uanmodet dørsalg mv.
+Det skal i næringsvirksomhet ikke rettes markedsføringshenvendelser ved hjemmebesøk (dørsalg) til forbrukere som klart har tilkjennegitt at de motsetter seg dette.
+I næringsvirksomhet skal uanmodet dørsalg til forbrukere ikke finne sted i tidsrommet fra kl. 21.00 til kl. 09.00. Slikt dørsalg skal i næringsvirksomhet heller ikke finne sted på lørdager, helgedager eller dager som i lov er likestilt med helgedager. Annet punktum gjelder ikke for frivillige organisasjoners næringsvirksomhet.
+Ved uanmodet dørsalg skal den næringsdrivende straks presentere seg og opplyse om at henvendelsen skjer i markedsføringshensikt. Der det er relevant, skal den næringsdrivende også informere om retten til å motsette seg dørsalg etter første ledd og retten til å reservere seg mot dørsalg direkte hos den næringsdrivende.
+Ved avtaler inngått ved uanmodet dørsalg der kontraktssummen overstiger 1 500 kroner, kan den næringsdrivende ikke kreve betaling før tidligst 14 dager etter at tjenesten eller varen er levert.
