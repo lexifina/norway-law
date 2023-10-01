@@ -5,4 +5,5 @@ I skifteattesten skal det opplyses om hvem som er arvinger i boet. Har en arving
 Boet er overtatt til privat skifte når det er utstedt skifteattest. Den som skifteattesten er utstedt til, er legitimert til å rå over arvelaterens eiendeler og til å forplikte boet.
 Foreligger det vesentlige feil ved skifteattesten, kan attesten kreves rettet. Avslag på skifteattest kan ankes.
 Retten skal underrette samtlige kjente arvinger om innholdet i skifteattesten. Er noen av arvingene mindreårige eller fratatt rettslig handleevne, skal retten sende kopi av skifteattesten til statsforvalteren. Går et testament ut på at det skal opprettes en stiftelse, skal retten sende kopi av skifteattesten til Stiftelsestilsynet.
+Skifteattesten gir rett til innsyn i arvelaterens formues- og gjeldsforhold, herunder opplysninger om fastsetting av skatt, jf. skatteforvaltningsloven § 3-10. § 92 første ledd tredje til femte punktum gjelder tilsvarende.
 Departementet kan i forskrift gi nærmere regler om skifteattester, herunder om hvem skifteattester skal utstedes til, og innholdet i skifteattester. Det kan i en slik forskrift gjøres unntak fra reglene i denne paragrafen.
