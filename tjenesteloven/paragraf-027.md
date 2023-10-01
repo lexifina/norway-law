@@ -1,0 +1,2 @@
+# § 27. Forskrifter
+Kongen kan gi forskrifter til gjennomføring av loven i samsvar med EØS-retten. Kongen kan gi forskrift om saksbehandlingsregler for tillatelsesordninger til utfylling av reglene i loven her, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser. Saksbehandlingsreglene kan fravike reglene i forvaltningsloven.

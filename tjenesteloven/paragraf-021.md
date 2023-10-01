@@ -1,0 +1,3 @@
+# § 21. Ansvarsforsikring og sikkerhet
+Ved etablering her i riket gjelder ikke krav om obligatorisk ansvarsforsikring eller sikkerhet for tjenesteyter som allerede gjennom etablering i en annen EØS-stat er dekket av ansvarsforsikring eller sikkerhet som i det alt vesentlige svarer til den obligatoriske ordningen. Gir ansvarsforsikringen eller sikkerheten bare delvis dekning, gjelder kravet om obligatorisk forsikring eller sikkerhet for den delen som ikke er dekket i etableringsstaten.
+En obligatorisk ansvarsforsikring eller sikkerhet for tjenestevirksomheten kan oppfylles av kredittinstitusjoner og forsikringsselskaper i enhver EØS-stat.

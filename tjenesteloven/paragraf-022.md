@@ -1,0 +1,2 @@
+# § 22. Markedsføring i lovregulerte yrker
+Tjenesteytere i lovregulerte yrker har rett til å drive markedsføring av sin virksomhet og tjenester innenfor rammen av yrkesetiske regler og særskilt lovgivning. Slike begrensninger skal være begrunnet ut fra tvingende allmenne hensyn, være egnet og nødvendig for å oppnå formålet med begrensningen, og skal ikke innebære forskjellsbehandling på grunnlag av statsborgerskap, bosted eller etableringsstat. Begrensningene skal ikke innebære et totalforbud mot markedsføring.

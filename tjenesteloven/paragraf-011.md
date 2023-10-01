@@ -1,0 +1,5 @@
+# § 11. Saksbehandlingsfrister og gebyr mv.
+Saksbehandlingsfristen for tillatelsesordningen regnes fra den dagen da nødvendig dokumentasjon har kommet inn til ansvarlig myndighet. Fristen kan forlenges én gang dersom sakens kompleksitet gjør det nødvendig. Fristforlengelsen skal begrunnes, og den skal meddeles søkeren før den opprinnelige fristen er ute.
+Er fristen ute, anses tillatelse gitt, om ikke annet er fastsatt i eller med hjemmel i lov.
+Etter å ha mottatt søknad med nødvendig dokumentasjon skal ansvarlig myndighet så raskt som mulig gi søkeren et foreløpig svar. Det foreløpige svaret skal opplyse om den frist som gjelder for saksbehandlingen, at tillatelse skal anses gitt dersom søknaden ikke er avgjort før fristens utløp, i de tilfellene dette får anvendelse, og klageadgang. Mangler nødvendig dokumentasjon fra søkeren, skal denne så snart som mulig oppfordres til å gi fullstendig dokumentasjon og opplyses om at saksbehandlingsfristen først løper fra det er gjort.
+Gebyr for saksbehandlingen skal være rimelig og ikke overstige kostnadene ved saksbehandlingen.
