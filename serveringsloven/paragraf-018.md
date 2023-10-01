@@ -1,0 +1,3 @@
+# § 18. Suspensjon av bevilling
+Kommunen kan straks sette en serveringsbevilling ut av kraft inntil videre dersom dette er nødvendig for å avverge eller stanse lovbrudd, og det er skjellig grunn til å tro at bevillingen vil bli kalt tilbake etter § 19, eller at bevillingshaveren vil bli fradømt retten til å drive serveringsstedet etter straffeloven § 56 første ledd bokstav b.
+Kommunen kan straks stenge et serveringssted inntil videre dersom dette er nødvendig for å stanse brudd på lovgivning som nevnt i § 6 første ledd. Slik stenging skal opphøre når forholdene som lå til grunn for stengingsvedtaket, er rettet.

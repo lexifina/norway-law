@@ -1,0 +1,4 @@
+# § 6. Krav til vandel
+Bevillingshaver, daglig leder og personer som har vesentlig innflytelse på virksomheten, må ha utvist uklanderlig vandel i forhold til straffelovgivningen, skatte- og avgiftslovgivningen, regnskapslovgivningen og likestillings- og diskrimineringsloven. Personer som nevnt i første punktum må heller ikke ha brutt annen lovgivning på en måte som vil være uforenlig med drift av serveringssted.
+Person som eier en vesentlig del av virksomheten eller av selskap som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller i kraft av sin stilling som leder har vesentlig innflytelse på den, vil alltid anses å ha vesentlig innflytelse på virksomheten.
+Ved vurderingen av bevillingshavers og andre personers vandel etter første ledd kan det ikke tas hensyn til forhold som er eldre enn fem år.

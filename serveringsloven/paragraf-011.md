@@ -1,0 +1,4 @@
+# § 11. Opplysnings- og meldeplikt
+Politiet, skatte- og avgiftsmyndighetene, tollmyndighetene, Mattilsynet, Arbeidstilsynet, Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda plikter uten hinder av taushetsplikt å gi de opplysninger som kommunen anser nødvendige for behandling av saker etter denne lov.
+Dersom politiet, skatte- og avgiftsmyndighetene, tollmyndighetene, Mattilsynet, Arbeidstilsynet, Likestillings- og diskrimineringsombudet eller Diskrimineringsnemnda avdekker forhold som de har grunn til å anta har vesentlig betydning for bevillingsspørsmålet eller i vurderingen av om stedet bør stenges etter §§ 18 eller 19, plikter de av eget tiltak og uten hinder av taushetsplikt, å informere kommunen om dette.
+Departementet kan i forskrift gi nærmere bestemmelser om opplysnings- og meldeplikten.
