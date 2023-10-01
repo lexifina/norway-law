@@ -1,0 +1,2 @@
+# § 17. Opplysningsplikt om hindring
+Hindres leverandøren i å oppfylle avtalen til rett tid, skal forbrukeren gis en melding om hindringen og dens virkning på muligheten for å oppfylle. Får forbrukeren ikke en slik melding innen rimelig tid etter at leverandøren fikk eller burde ha fått kjennskap til hindringen, kan forbrukeren kreve erstattet tap som kunne ha vært unngått om meldingen hadde blitt gitt i tide.

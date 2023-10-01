@@ -1,0 +1,3 @@
+# § 47. Fellesregler om tilbakebetaling fra leverandøren ved heving og krav om prisavslag
+Hvis leverandøren skal tilbakebetale vederlag til forbrukeren etter heving eller krav om prisavslag, skal dette gjøres uten unødig opphold og senest innen 14 dager etter at leverandøren mottok melding om heving eller krav om prisavslag. Leverandøren plikter å betale renter etter forsinkelsesrenteloven fra 14 dager etter at leverandøren mottok melding som nevnt.
+Tilbakebetaling etter første ledd skal skje med det samme betalingsmiddelet som forbrukeren brukte til å betale for den digitale ytelsen, med mindre forbrukeren uttrykkelig aksepterer et annet betalingsmiddel. Leverandøren kan ikke kreve gebyrer eller lignende av forbrukeren i forbindelse med tilbakebetalingen.

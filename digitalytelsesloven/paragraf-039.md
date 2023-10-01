@@ -1,0 +1,2 @@
+# § 39. Opplysningsplikt om hindring
+Hindres forbrukeren i å oppfylle avtalen til rett tid, skal leverandøren gis en melding om hindringen og dens virkning på muligheten for å oppfylle. Får leverandøren ikke en slik melding innen rimelig tid etter at forbrukeren fikk eller burde ha fått kjennskap til hindringen, kan leverandøren kreve erstattet tap som kunne ha vært unngått om meldingen hadde blitt gitt i tide.

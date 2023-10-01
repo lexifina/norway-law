@@ -1,0 +1,3 @@
+# § 22. Leverandørens adgang til å tilby avhjelp for å avverge krav om prisavslag og heving
+Selv om forbrukeren krever verken retting eller omlevering etter loven, kan leverandøren tilby retting eller omlevering hvis tilbudet fremsettes uten opphold. Sørger leverandøren for slik retting eller omlevering i samsvar med loven, kan forbrukeren ikke kreve prisavslag eller heving.
+Forbrukeren kan likevel kreve prisavslag eller heving umiddelbart hvis mangelen etter sin art er så alvorlig at det ikke er rimelig å forvente at forbrukeren skal godta et avhjelpstilbud. Ved avgjørelsen skal det legges vekt på om mangelen er egnet til å vesentlig svekke forbrukerens tillit til leverandøren.

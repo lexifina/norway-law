@@ -1,0 +1,3 @@
+# § 38. Erstatning. Rente
+Hvis forbrukeren ikke betaler i tide, kan leverandøren kreve rente av vederlaget etter forsinkelsesrenteloven.
+Leverandøren kan også kreve erstatning for det tapet leverandøren lider som følge av kontraktsbrudd fra forbrukerens side. Dette gjelder likevel ikke så langt forbrukeren godtgjør at kontraktsbruddet skyldes stans i betalingsformidlingen eller en annen hindring utenfor forbrukerens kontroll som han eller hun ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av. Reglene i § 16 tredje og fjerde ledd gjelder tilsvarende. Erstatningen utmåles etter reglene i kapittel 11.

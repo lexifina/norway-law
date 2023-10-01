@@ -1,0 +1,5 @@
+# § 26. Krav mot tidligere omsetningsledd
+Forbrukeren kan gjøre sitt mangelskrav mot leverandøren gjeldende mot et tidligere omsetningsledd så langt et tilsvarende krav på grunn av mangelen kan gjøres gjeldende av leverandøren eller et annet omsetningsledd i avtalekjeden. Første punktum gjelder bare krav mot et tidligere ledd som opptrer i næringsvirksomhet.
+En avtale med et tidligere omsetningsledd som innskrenker leverandørens eller en annen avtaleparts krav, kan ikke gjøres gjeldende overfor forbrukerens krav etter første ledd i større utstrekning enn det som kunne ha vært avtalt mellom forbrukeren og leverandøren. Forbrukeren må likevel reklamere overfor det tidligere leddet innen rimelig tid etter at han eller hun oppdaget eller burde ha oppdaget mangelen.
+Forbrukeren kan også gjøre krav gjeldende etter reglene i kjøpsloven § 84 første ledd så langt disse passer, hvis dette gir forbrukeren større rettigheter enn det som følger av paragrafen her.
+Tidligere omsetningsledd kan ikke motregne overfor forbrukeren med krav mot leverandøren eller et annet omsetningsledd.

@@ -1,0 +1,5 @@
+# § 1. Alminnelig virkeområde
+Loven gjelder avtaler om levering av digitale ytelser mot vederlag i forbrukerforhold, hvis ikke noe annet er fastsatt i lov eller i medhold av lov.
+Med digitale ytelser menes digitalt innhold og digitale tjenester. Digitalt innhold er data som fremstilles og leveres i digital form, ved at de gjengir fysiske størrelser med diskrete tegn. Digitale tjenester er tjenester som gjør det mulig for brukeren å frembringe, behandle, lagre eller få tilgang til data i digital form, eller tjenester som gjør det mulig å dele eller å samhandle på annen måte med slike data.
+Med forbrukerforhold menes levering av ytelser til en forbruker der den som leverer ytelsen (leverandøren), opptrer i næringsvirksomhet. Med forbruker menes en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+Med vederlag menes betaling i penger eller annen motytelse. Som vederlag regnes også at forbrukeren oppgir personopplysninger, med mindre leverandøren behandler personopplysningene utelukkende for å kunne levere den digitale ytelsen eller overholde lovpålagte plikter. Personopplysningsloven går ved motstrid foran reglene i denne loven.
