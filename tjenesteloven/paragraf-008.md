@@ -1,0 +1,3 @@
+# § 8. Dokumentasjon for at krav er oppfylt
+En tjenesteyter eller tjenestemottaker som må legge frem et dokument for å vise at et krav er oppfylt, kan i stedet legge frem et dokument utstedt i en annen EØS-stat når det tjener samme formål eller viser at tilsvarende krav er oppfylt.
+Ansvarlig myndighet kan kreve at et dokument utstedt i en annen EØS-stat blir fremlagt i norsk oversettelse. Et slikt dokument kan ikke kreves fremlagt i original, bekreftet kopi eller bekreftet oversettelse uten at dette følger av bestemmelser i lov eller forskrift som gjennomfører Norges forpliktelser etter EØS-avtalen, eller er begrunnet ut fra tvingende allmenne hensyn.
