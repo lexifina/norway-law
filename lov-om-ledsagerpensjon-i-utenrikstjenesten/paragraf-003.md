@@ -1,0 +1,8 @@
+# § 3. Vilkår og beregningsgrunnlag
+Ledsager som har fulgt med utsendt utenrikstjenesteansatt under dennes tjenestegjøring ved norske utenriksstasjoner i minst 10 år, har rett til pensjon som omhandlet i denne loven, med de begrensninger som følger av § 5.
+Når ledsager har hatt egen stilling ved utenriksstasjonen som hovedsysselsetting og med en inntekt som for det enkelte inntektsår overstiger gjennomsnittet av folketrygdens grunnbeløp for dette året, skal denne tjenestetiden ikke regnes med i opptjeningstiden for pensjonen.
+Dersom ledsageren under en tjenesteperiode i utlandet har tatt midlertidig opphold i Norge eller et annet land over et tidsrom som sammenhengende strekker seg ut over tre måneder og oppholdet ikke har sammenheng med tjenesten, familiens sykebehandling eller andre vektige velferdsgrunner, skal denne tiden ikke medregnes.
+Pensjonens størrelse settes til 30 prosent av grunnbeløpet i folketrygden multiplisert med tallet fem. Full pensjon ytes ledsager som har fulgt med utsendt utenrikstjenesteansatt til utlandet som nevnt i første ledd, i til sammen minst 20 år. Dersom opptjeningstiden er kortere enn 20 år, blir pensjonen å avkorte forholdsmessig.
+Rett til pensjon inntrer ved fylte 67 år.
+Pensjon etter denne loven skal ikke samordnes med folketrygden. Det skal ikke svares medlemsavgift.
+Pensjon under utbetaling reguleres årlig fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut. Ved regulering benyttes de reguleringsfaktorene Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd.
