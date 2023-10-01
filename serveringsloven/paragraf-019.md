@@ -1,0 +1,3 @@
+# § 19. Tilbakekall av serveringsbevilling
+Dersom lovens krav i §§ 4 til 6, jf § 7, ikke lenger er oppfylt eller spesielle grunner i tilknytning til serveringsstedet eller driften av dette gjør det utilrådelig at serveringsstedet drives, kan kommunen tilbakekalle bevillingen etter at det er gitt varsel med rimelig frist til å rette opp forholdene.
+I vurderingen av om serveringsbevilling bør tilbakekalles skal det blant annet legges vekt på overtredelsens art, overtredelsens grovhet, om det foreligger gjentagelser, om noen tilknyttet serveringsstedet, jf. § 6 første ledd, kan klandres for overtredelsen og hva som er gjort for å rette opp forholdet.
