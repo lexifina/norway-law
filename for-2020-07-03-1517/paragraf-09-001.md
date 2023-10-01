@@ -1,0 +1,5 @@
+# § 9-1. (plikt til å motta avfall og lasterester fra skip)
+Den som driver Longyearbyen havn, skal etablere og drifte mottaksordning for avfall og lasterester fra skip i havnen, og regnes som havneansvarlig etter dette kapitlet.
+Mottaksordningen skal være tilstrekkelige til å dekke et normalt behov for levering i havnen, uten at skipene forsinkes unødig. Den havneansvarlige skal sørge for at mottatt avfall blir levert videre til lovlig avfallsanlegg.
+Med avfall fra skip menes enhver form for avfall, herunder kloakk og andre rester enn lasterester, som oppstår mens et skip er i drift, og som omfattes av vedleggene I (olje), IV (kloakk), V (søppel) og VI (utslipp til luft) til MARPOL 73/78, jf. forskrift 30. mai 2012 nr. 488 om miljømessig sikkerhet for skip og flyttbare innretninger, og lasterelatert avfall som definert i retningslinjene for gjennomføringen av vedlegg V til MARPOL 73/78.
+Med lasterester menes rester av lastematerialer i lasterom eller tanker etter at lossing og rengjøring er avsluttet, herunder også restmengder og søl ved lasting/lossing.
