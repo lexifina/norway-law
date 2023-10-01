@@ -1,0 +1,4 @@
+# § 11
+Ei vigjing som er haldi av norsk tenestemakt i utlandet eller av utanlandsk tenestemakt i Noreg er utan rettsverknad når vigjingsmannen vanta rett løyve eller vigjinga på onnor vis er gjord i strid med reglane om vigjingsrett i denne lova. Det same gjeld om norsk vigjing når reglane i ekteskapslova § 11 første ledd ikkje er fylgde, og om utanlandsk vigjing når ho, så langt det gjeld formene, er ugild etter lovene i det landet som vigjingsmannen høyrer til.
+Ei vigjing står derimot ved makt om andre reglar om framgangsmåten og om lysing ikkje er fylgde.
+I serhøve kan ei vigjing som er haldi av norsk tenestemakt eller av utanlandsk tenestemakt i Noreg, godtakast som gjeldande, endå om ho vantar bindande kraft etter reglane i første leden. Slik avgjerd kan takast endå om den eine av brudfolka eller båe er avlidne. Departementet fastset kva for statsforvaltarar som skal handsame slike saker. Kongen kan gjeva nøgnare reglar om godtakingsvilkåra.

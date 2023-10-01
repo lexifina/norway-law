@@ -1,0 +1,2 @@
+# § 5
+Kongen kan gjeva diplomatisk eller konsulær tenestemann åt eit framandt land løyve til å vigja brudfolk i Noreg etter formene i det landet når det er teke atterhald om tilsvarande løyve for norsk diplomatisk eller konsulær tenestemann i det framande landet. Vilkåret er at brudfolka ikkje er norske borgarar, at minst den eine av dei er borgar eller busett i det landet som tenestemannen høyrer til og at tenestemannen kan halda slik vigjing etter lovane i det landet.
