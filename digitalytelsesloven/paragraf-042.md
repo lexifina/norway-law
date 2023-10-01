@@ -1,0 +1,4 @@
+# § 42. Endringer som påvirker ytelsen negativt for forbrukeren
+Hvis en endring etter § 41 påvirker den digitale ytelsen negativt for forbrukeren på en ikke uvesentlig måte, kan forbrukeren heve avtalen. Dette gjelder likevel ikke hvis leverandøren gjør det mulig for forbrukeren å beholde sin ytelse uendret og i samsvar med §§ 7 og 8.
+En endring som nevnt i første ledd kan foretas bare hvis forbrukeren får varsel i rimelig tid om endringen. Varselet skal gis på et varig medium og inneholde informasjon om retten til å heve avtalen eller til å beholde ytelsen uendret.
+Et krav om heving etter denne paragrafen må gjøres gjeldende innen 30 dager etter at forbrukeren fikk varsel etter annet ledd, eller innen 30 dager etter at endringen ble foretatt, hvis dette tidspunktet er det seneste. For hevingsoppgjøret gjelder bestemmelsene i kapittel 10.

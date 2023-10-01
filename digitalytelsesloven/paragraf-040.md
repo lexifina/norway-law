@@ -1,0 +1,3 @@
+# § 40. Spesifikasjon av ytelsen
+Skal ytelsen utvikles etter forbrukerens spesifikasjoner og forbrukeren ikke bidrar med slike spesifikasjoner til avtalt tid eller innen rimelig tid etter at leverandøren har oppfordret til det, kan leverandøren selv bestemme spesifikasjonene i samsvar med hva som må antas at er i forbrukerens interesse. Dette hindrer ikke leverandøren i å gjøre gjeldende andre krav.
+Leverandøren må opplyse forbrukeren om de spesifikasjonene som vil bli brukt, og gi forbrukeren en rimelig frist til å endre spesifikasjonene. Endrer ikke forbrukeren spesifikasjonene i tide etter å ha fått leverandørens melding, blir leverandørens spesifikasjoner bindende.

@@ -1,0 +1,2 @@
+# § 27. Melding om krav ved mangler. Passivitet og foreldelse
+Forbrukeren må gi leverandøren melding om krav som følge av en mangel. Kravet kan tapes etter alminnelige regler om passivitet hvis forbrukeren venter så lenge med å gi melding at det ville virke illojalt overfor leverandøren å gjøre gjeldende krav. Retten til å gjøre gjeldende krav kan tapes også etter foreldelseslovens regler om foreldelse.

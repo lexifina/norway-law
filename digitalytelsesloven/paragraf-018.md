@@ -1,0 +1,2 @@
+# § 18. Melding om krav ved forsinkelse. Passivitet og foreldelse
+Forbrukeren må gi leverandøren melding om krav som følge av forsinkelse. Kravet kan tapes etter alminnelige regler om passivitet hvis forbrukeren venter så lenge med å gi melding at det ville virke illojalt overfor leverandøren å gjøre gjeldende krav. Retten til å gjøre gjeldende krav kan tapes også etter foreldelseslovens regler om foreldelse.

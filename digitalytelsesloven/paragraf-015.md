@@ -1,0 +1,3 @@
+# § 15. Heving
+Har leverandøren ikke levert den digitale ytelsen i tide i samsvar med §§ 4 og 5, skal forbrukeren oppfordre leverandøren til å levere. Hvis leverandøren deretter ikke leverer uten unødig opphold eller innen en tilleggsfrist som partene uttrykkelig har blitt enige om, kan forbrukeren heve avtalen.
+Første ledd gjelder ikke hvis leverandøren har nektet å levere eller det fremgår klart av omstendighetene at leverandøren ikke kommer til å levere. Første ledd gjelder heller ikke hvis det er avtalt eller fremgår klart av omstendighetene at levering innen eller på et bestemt tidspunkt er avgjørende for forbrukeren, og leverandøren ikke har levert til riktig tid. I slike tilfeller kan forbrukeren umiddelbart heve avtalen.
