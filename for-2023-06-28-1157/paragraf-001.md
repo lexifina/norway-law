@@ -1,0 +1,3 @@
+# § 1
+Dersom arbeidstakers ansettelsesforhold opphører før arbeidstakeren har opparbeidet rett til pensjonsrettigheter i supplerende pensjonsordninger som nevnt i lov om pensjonsrettigheter innen EØS § 2 nr. 1 og nr. 3 til nr. 5, skal pensjonsleverandøren sørge for at det utstedes et bevis på opptjent pensjon etter ellers gjeldende regler som sikrer arbeidstakeren rett til innbetalinger som arbeidstakeren har gjort selv. Første punktum gjelder uavhengig av hvor lang tjenestetid arbeidstakeren har.
+Bestemmelsen gjelder i den utstrekning medlemmet ikke får slike innskudd til pensjonsrettigheter med seg på annen måte.
