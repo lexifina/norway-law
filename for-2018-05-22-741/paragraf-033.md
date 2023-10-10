@@ -1,0 +1,7 @@
+# § 33. Reaksjoner mot opplæringsvirksomhet
+Som ledd i tilsynet kan Statens vegvesen gi opplæringsvirksomheten pålegg for å sikre at arbeidet utføres i samsvar med denne forskriften, og om nødvendig gi pålegg om stansing av opplæringsvirksomheten til avvik er rettet eller til vedtak om tilbakekalling er avgjort.
+Dersom retting ikke er foretatt innen gitt frist, kan Statens vegvesen fastsette en tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt som løper fra det tidspunktet en gitt frist for retting er overskredet og til retting er foretatt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2. Tvangsmulkt inndrives av Statens vegvesen.
+For mindre vesentlige forhold kan det gis advarsel.
+Statens vegvesen kan midlertidig eller permanent tilbakekalle en opplæringsvirksomhet sin godkjenning dersom det avdekkes vesentlige eller gjentatte avvik fra administrative, faglige og pedagogiske krav, krav til opplæringens innhold, omfang og metode samt krav til evaluering av elevens måloppnåelse.
+I vurderingen av om godkjenningen skal tilbakekalles skal det tas hensyn til i hvilken grad opplæringsvirksomhetens administrative ledelse kan bebreides for overtredelsene nevnt i fjerde ledd.
+Første gangs tilbakekalling av godkjenningen skal normalt gjelde fra 1 til 6 måneder, andre gangs tilbakekalling fra 6 til 12 måneder og tredje gangs tilbakekalling for minst 12 måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.
