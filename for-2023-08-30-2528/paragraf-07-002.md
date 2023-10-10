@@ -1,0 +1,2 @@
+# § 7-2. Tillitsvalgte
+Fagskolen er pliktig til å legge til rette for at alle fagskoleklasser velger en tillitsvalgt og vararepresentant senest innen 4 (fire) uker etter at utdanningen har startet. Fagskolen legger til rette for at den tillitsvalgte kan ivareta sine medstudenters interesser overfor fagskolen og være fagskolens kontaktperson overfor klassen. Fagskolen legger til rette for at den tillitsvalgte representerer klassen i studentrådet.
