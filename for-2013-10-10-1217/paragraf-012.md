@@ -1,0 +1,8 @@
+# § 12. Krav til motor og miljø
+Amatørbygd kjøretøy skal tilfredsstille følgende krav:
+a) Amatørbygd kjøretøy kan kun utrustes med følgende fremdriftskilder: Amatørbygd bil skal tilfredsstille krav til motor og drivverk etter kjøretøyforskriften § 23-1 nr. 1-3. Med fabrikant menes i denne sammenheng motorfabrikant. Amatørbygd bil kan ikke ha høyere motoreffekt enn 20 kW/100 kg egenvekt. Amatørbygd motorsykkel skal tilfredsstille krav til motor og drivverk etter kjøretøyforskriften § 23-5 nr. 2. Med fabrikant menes i denne sammenheng motorfabrikant. Amatørbygd motorsykkel kan ikke ha høyere motoreffekt enn 35 kW/100 kg egenvekt.
+i) Forbrenningsmotor
+ii. Elmotor med akkumulator (batteri) som energikilde.
+b) Krav til støy etter kjøretøyforskriften § 24-1 og § 24-2. Amatørbygd kjøretøy skal måles i henhold til ECE-regulativ 51.02 eller ECE-regulativ 9.00 med maksimal forbikjøringsstøy på 84 db(A). Standstøy måles i henhold til «Merknad til kap. 24». Standstøy angis i kjøretøyets vognkort.
+c) Krav til avgass etter kjøretøyforskriften § 25-1. Amatørbygd bil skal tilfredsstille kravene i § 25-2 og § 25-3 nr. 1, pkt. a, eller pkt. b (første til tredje ledd), eller pkt. c (første og annet ledd).
+d) Krav til elektrisk utstyr og elektromagnetisk støy etter kjøretøyforskriften § 27-1. Utstyr som har en sikkerhetsmessig betydning skal tilfredsstille funksjonskravene i kjøretøyforskriften § 27-2 og tilsvarende funksjonskrav i direktiv 72/245/EØF, som senest endret ved direktiv 2009/19/EF eller ECE-regulativ nr. 10.04. Utstyr som sender ut radiobølger skal fungere på frekvenser som er godkjent av Post- og teletilsynet.
