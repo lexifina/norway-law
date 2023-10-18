@@ -1,0 +1,4 @@
+# § 8. Teoretisk grunnkurs
+Teoretisk grunnkurs skal bygge på kompetansemålene i læreplan for Vg2 salg, service og sikkerhet – programfaget sikkerhet i utdanningsprogram for service og samferdsel.
+Kurset skal omfatte introduksjon til vekterbransjen, relevant regelverk, herunder internasjonale menneskerettigheter og internasjonal humanitær rett, holdninger og etikk, konflikthåndtering, rapportering, førstehjelp, brannvern, HMS, egensikkerhet og risikoanalyse på generelt nivå og på tekniske sikringsanlegg. Kurset kan gjennomføres som fulltids- eller deltidsopplæring, og skal være innledet i samsvar med læreplan før praksisopplæring kan starte.
+Ordensvakter kan gjennomføre begrenset teoretisk grunnkurs til bruk i egenvakthold etter særlig læreplan fastsatt av Politidirektoratet. Begrenset teoretisk grunnkurs oppfyller ikke kravet til teoretisk opplæring for vekterutdanningens grunndel.

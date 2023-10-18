@@ -1,0 +1,3 @@
+# § 21. Krav om godkjenning av yrkeskvalifikasjoner fra annen stat
+Det kreves godkjenning etter dette kapittelet dersom yrkeskvalifikasjoner fra annen stat skal gi adgang til å utføre tjeneste som omfattes av vaktvirksomhetsloven. Slik godkjenning gir adgang til å utføre tjeneste på samme vilkår som personer med kvalifikasjoner etter vaktvirksomhetsloven og forskriften.
+Godkjenning av yrkeskvalifikasjoner fra annen stat gis av Politidirektoratet, likevel slik at godkjenning av yrkeskvalifikasjoner fra annen EØS-stat for å utføre tjeneste som sikkerhetskontrollør på lufthavn gis av Luftfartstilsynet.

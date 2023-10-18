@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Med egenvakthold etter vaktvirksomhetsloven § 2 forstås vakttjenester knyttet til egen privat eiendom, egne statlige og kommunale eiendommer med tilliggende bygninger og ansatte og leiet og festet eiendom så lenge vakttjenestene utføres av virksomhetens egne ansatte eller innleid personell. Vaktvirksomhetsloven gjelder ikke for egenvakthold av eiendom som benyttes av fremmed stat for ambassadeformål.
+Unntaket etter vaktvirksomhetsloven § 2 tredje ledd første punktum omfatter døgnbemannet egenvakthold når det ordensmessige behovet for tjenesten er sporadisk og har lite omfang. Unntaket etter vaktvirksomhetsloven § 2 tredje ledd annet punktum omfatter ikke personkontroll ved havnenes cruise- og passasjerterminaler.

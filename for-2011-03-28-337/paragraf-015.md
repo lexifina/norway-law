@@ -1,0 +1,3 @@
+# § 15. Særlig om ledsagertjeneste
+Tjeneste for å sikre privatliv, reiser, opphold og arrangementer for personer som gjennom yrke eller status har behov for beskyttelse mot publikum eller omgivelser, krever tilleggsopplæring i regelverk, trusselvurdering, sårbarhetsanalyse, sikkerhetsanalyse, tiltaksplanlegging, rekognosering, fysisk og teknisk sikring av bolig, arbeidsplass og bedrift, samband, etikk og etikette, førstehjelp og brannvern. Opplæringen skal ikke omfatte våpenopplæring.
+Opplæringen skal være teoretisk og praktisk og avsluttes med eksamen. Eksamen skal være bestått før det kan utføres ansvarlig ledsagertjeneste.

@@ -1,0 +1,2 @@
+# § 28. Krav til uniformen
+Uniformen skal være tilpasset tjenesten som utføres og være tydelig merket med virksomhetens navn. På venstre brystside skal uniformen ha merket «vekter» eller «vekter under opplæring» for personell under opplæring. På uniform som benyttes av ansatte i Statens forvaltningstjeneste, Domstoladministrasjonen og Stortinget kan «vekter» erstattes med «security». Uniform som benyttes av ordensvakt uten vekterkompetanse skal være merket med «ordensvakt» eller «ordensvakt under opplæring» for personell under opplæring.

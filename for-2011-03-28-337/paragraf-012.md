@@ -1,0 +1,4 @@
+# § 12. Tilleggsopplæring for utførelse av spesialtjeneste
+Utførelse av verditransporttjeneste og ledsagertjeneste krever tilleggsopplæring. Tilleggsopplæringen skal følge læreplan fastsatt av Politidirektoratet og regodkjennes ved avlagt og bestått regodkjenningsprøve hvert fjerde år. Eksamen for grunndelen skal være bestått før tilleggsopplæring påbegynnes.
+Utførelse av tjeneste som sikkerhetskontrollør på lufthavn krever tilleggsopplæring som fastsatt av Luftfartstilsynet etter luftfartsloven. Eksamen for vekterutdanningens grunndel skal være bestått før det kan utføres ansvarlig tjeneste.
+Virksomheten kan stille strengere krav til tilleggsopplæring, kreve særskilt opplæring for andre vakttjenester, og kreve at regodkjenning for tilleggsopplæring gjennomføres oftere enn hvert fjerde år.

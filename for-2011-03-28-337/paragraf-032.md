@@ -1,0 +1,3 @@
+# § 32. Innlevering og tilbakekall av legitimasjonskort
+Legitimasjonskortet skal innleveres når vekteren slutter i virksomheten eller når gyldighetstiden utløper. Arbeidsgiver skal sørge for at vekteren innleverer kortet til utsteder, og straks gi melding om innleveringen til tillatelses- og kontrollmyndigheten.
+Legitimasjonskortet skal tilbakekalles når innehaveren ikke lenger fyller vilkårene for å være vekter. Dersom vekter ikke anses skikket til å utføre vakttjeneste skal politiet eller arbeidsgiver frata legitimasjonskortet på stedet. Arbeidsgiver som fratar ansatte legitimasjonskortet skal straks sende melding til tillatelses- og kontrollmyndighetene og uten ugrunnet opphold avgjøre om kortet skal tilbakekalles.

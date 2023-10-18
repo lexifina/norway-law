@@ -1,0 +1,3 @@
+# § 18. Krav til instruktørene
+Instruktører i vekterfag skal ha instruktøropplæring og oppdatert faglig kompetanse, ha fagbrev som vekter fra videregående skole eller minst fire års relevant erfaring som vekter og være ansatt som vekter eller instruktør i virksomhet med tillatelse etter vaktvirksomhetsloven. Instruktører i brannvern, førstehjelp, internasjonale menneskerettigheter, internasjonal humanitær rett, strafferett, straffeprosess og bruk av makt og maktmidler skal ha oppdatert faglig kompetanse, relevant erfaring og fortsatt tilknytning til fagfeltet.
+Praksisinstruktører skal ha minst fire års relevant erfaring som vekter og være ansatt som vekter eller instruktør i virksomhet med tillatelse etter vaktvirksomhetsloven.
