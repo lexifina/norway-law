@@ -1,0 +1,2 @@
+# § 6. Vurdering av tilfredsstillende vandel
+Ved vurderingen av om kravet til tilfredsstillende vandel er oppfylt skal det legges vekt på karakteren av anmerkede forhold, på tidspunktet for lovbruddet og på dets betydning for oppgavene som omfattes av ansettelsesforholdet eller vedkommendes egnethet som vekter. Det skal legges særlig vekt på anmerkninger om ulovlig bruk og befatning med rusmidler, ordensforstyrrelser, vinningskriminalitet, voldsforbrytelser og lovbrudd som nevnt i straffeloven § 222 til § 226.

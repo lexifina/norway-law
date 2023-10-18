@@ -1,0 +1,3 @@
+# § 43. Besøkskontroll
+Politiet kan uanmeldt eller med kort forhåndsvarsel kreve adgang til virksomhetens lokaler for å kontrollere at lovens krav er oppfylt, og at gitte opplysninger er korrekte og fullstendige. Besøkskontroll gjennomføres hvert annet år, med mindre det fremkommer opplysninger som tilsier hyppigere kontroll.
+Etter gjennomført besøkskontroll skal kontrollmyndigheten gi en muntlig redegjørelse for inntrykket av virksomheten. Avdekkes det feil eller mangler skal kontrollmyndigheten snarest mulig etter besøket utarbeide skriftlig rapport som sendes den kontrollerte virksomheten med informasjon om retten til å uttale seg innen en uke. Ved pålegg om retting skal det settes en frist for gjennomføring.

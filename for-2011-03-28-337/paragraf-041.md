@@ -1,0 +1,3 @@
+# § 41. Om kontrollen og kontrollmyndigheten
+Politidistrikt som har gitt tillatelse til å utøve vaktvirksomhet skal kontrollere at virksomheten drives i samsvar med vaktvirksomhetsloven og forskriften, og på en måte som er forenlig med å utøve næringsvirksomhet. Når tillatelsen omfatter flere politidistrikt, skal disse holde seg orientert om virksomheten i sitt distrikt og bistå ansvarlig politidistrikt med informasjon og gjennomføring av kontroll.
+Politidirektoratet skal utarbeide rutiner for samarbeid med myndigheter som har meldeplikt etter vaktvirksomhetsloven § 17, herunder om utveksling av informasjon om kontaktpersoner, kontrollrutiner og behovet for samordning av kontrollvirksomhet mv.

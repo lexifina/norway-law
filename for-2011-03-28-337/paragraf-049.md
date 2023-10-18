@@ -1,0 +1,2 @@
+# § 49. Forsikringsplikt
+Foretak og forvaltningsorgan som skal utøve vaktvirksomhet skal ha forsikring som dekker ansvar som kan pådras under utførelse av vaktvirksomheten. Forsikringen må tegnes før virksomheten settes i gang og opprettholdes så lenge den pågår. Dersom forvaltningsorgan kan dokumentere at et mulig ansvar kan dekkes på annen måte, kan Politidirektoratet etter søknad frita organet fra forsikringsplikten.
