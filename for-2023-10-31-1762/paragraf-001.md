@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med Forsvarsdepartementets tilskudd til sikkerhets- og forsvarspolitisk forskning er å bidra til kunnskap og forståelse om Norges utenriks- og sikkerhetspolitiske omgivelser, utviklingen i Norges nærområder, norske og alliertes sikkerhetsinteresser, ulike trusler mot stat og samfunn, og nasjonale og internasjonale rettslige rammeverk.med relevans for sikkerhets- og forsvarspolitikk. Ordningen skal også bidra til et offentlig ordskifte om sikkerhets- og forsvarspolitiske spørsmål i Norge.
