@@ -1,0 +1,2 @@
+# § 3. Samarbeid mellom tilsynsmyndighetene
+Finanstilsynet skal utføre tilsynet i samarbeid med tilsynsmyndighetene i andre stater som er omfattet av EØS-avtalen, samt utveksle opplysninger som er nødvendige for dette samarbeidet, i den grad dette følger av EØS-avtalen vedlegg IX. I den grad det følger av EØS-avtalen vedlegg IX, kan Finanstilsynet etter avtale med vedkommende myndighet i et annet land som er omfattet av EØS-avtalen, overføre eller overta tilsynsoppgaver.

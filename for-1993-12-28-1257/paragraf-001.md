@@ -1,0 +1,2 @@
+# § 1. Tilsyn fra Finanstilsynet
+Finanstilsynet fører tilsyn med livsforsikringsforetak, skadeforsikringsforetak, gjenforsikringsforetak, pensjonsforetak, kredittinstitusjoner, forvaltningsselskap, e-pengeforetak, betalingsforetak og opplysningsfullmektiger som har hovedsete i annen EØS-stat og driver virksomhet i Norge. Tilsynet føres i overensstemmelse med de direktiver som omfattes av EØS-avtalen vedlegg IX, direktiv (EU) 2015/2366 og lovgivningen for øvrig.
