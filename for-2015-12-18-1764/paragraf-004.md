@@ -1,0 +1,4 @@
+# § 4. Konsolideringsmetode
+Konsolidert ansvarlig kapital, beregningsgrunnlag og solvenskapitalkrav skal beregnes etter samme prinsipper som ved konsolidering etter regnskapsreglene, men slik at forholdsmessig konsolidering benyttes i stedet for egenkapitalmetoden. Konsolideringen skal omfatte ikke-balanseførte forpliktelser. Ikke-balanseførte interne poster mellom foretakene skal elimineres. Finanstilsynet kan ved enkeltvedtak bestemme at det skal foretas beregninger etter en alternativ metode.
+Ved beregning av ansvarlig kapital, beregningsgrunnlag og solvenskapitalkrav innenfor sektorene og vurdering av foretakene som skal konsolideres inn, gjelder de ulike sektorreglene, herunder bestemmelsene om verdivurdering i finansforetaksloven § 14-8.
+Ved beregning av ansvarlig kapital på konsolidert basis skal det tas hensyn til begrensninger i muligheten for å overføre og gjøre disponibel kapitalen på tvers av sektorene og foretakene i gruppen.
