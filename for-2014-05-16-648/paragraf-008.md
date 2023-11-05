@@ -1,0 +1,3 @@
+# § 8. Overgangsregler
+Bestemmelsene i § 5 gjelder ikke personer som har fått innvilget stønad til arbeids- og utdanningsreiser i regi av Arbeids- og velferdsetaten før 1. september 2014, så lenge de opprinnelige forutsetningene for å innvilge stønaden er uendret.
+Personer som mottar TT-reiser til arbeid og utdanning fra Oslo kommune når denne forskriften trer i kraft, kan uavhengig av § 5 bokstav f) innvilges stønad til arbeids- og utdanningsreiser dersom de fyller de øvrige vilkårene etter denne forskriften. Stønad til arbeids- og utdanningsreiser kan innvilges under forutsetning av at stønad til TT-reiser til arbeid og utdanning fra Oslo kommune opphører.
