@@ -1,0 +1,4 @@
+# § 5-6. Krav om fornyet vurdering og klage
+(1) Enhver avgjørelse som nekter utstedelse av et felles sikkerhetssertifikat eller utelukker en del av jernbanenettet i samsvar med en negativ vurdering som nevnt i § 5-3, skal være begrunnet. Søkeren kan innen én måned regnet fra mottak av avgjørelsen be om at Byrået eller Statens jernbanetilsyn, etter hva som er relevant, gjennomgår avgjørelsen på nytt. Byrået eller Statens jernbanetilsyn skal ha en frist på to måneder fra og med mottak av anmodningen om ny gjennomgåelse til å bekrefte eller omgjøre sin avgjørelse.
+(2) Dersom Byråets negative avgjørelse blir bekreftet, kan søkeren sende en klage til klageinstansen utpekt i henhold til artikkel 55 i ERA-forordningen.
+(3) Dersom Statens jernbanetilsyns negative avgjørelse blir bekreftet, kan søkeren sende en klage til klageinstansen i medhold av forvaltningslovens regler.

@@ -1,0 +1,4 @@
+# § 5-4. Søknad om felles sikkerhetssertifikat ved drift begrenset til Norge
+(1) Dersom driften er begrenset til Norge, kan Statens jernbanetilsyn på eget ansvar og dersom søkeren ber om det, utstede et felles sikkerhetssertifikat. Kravene til dokumentasjon etter § 5-1 fjerde ledd og praktiske ordninger etter § 5-2 gjelder. Statens jernbanetilsyn kan foreta besøk og inspeksjoner på jernbanevirksomhetens driftssteder, samt foreta revisjoner. Innen én måned etter å ha mottatt søknaden, skal Statens jernbanetilsyn underrette søkeren om at søknaden er fullstendig eller be om relevante, utfyllende opplysninger.
+(2) Jernbaneforetak som har felles sikkerhetssertifikat for drift i Sverige kan framføre tog til første stasjon over grensen til Norge uten å ha felles sikkerhetssertifikat for drift i Norge.
+(3) Statens jernbanetilsyn har fullt ansvar for alle felles sikkerhetssertifikater det utsteder.

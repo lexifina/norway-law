@@ -1,0 +1,13 @@
+# § 2-3. Jernbanevirksomhetene
+(1) Jernbanevirksomhetene skal:
+a) gjennomføre de nødvendige tiltak for risikohåndtering nevnt i § 3-2 bokstav a, eventuelt i samarbeid med hverandre og med andre aktører,
+b) i sine sikkerhetsstyringssystemer ta hensyn til de risikoene som er forbundet med virksomheten til andre aktører og tredjeparter,
+c) eventuelt kontraktsmessig forplikte de andre aktørene som nevnt i annet ledd som kan ha en mulig virkning på sikker drift av jernbanesystemet i EØS, til å gjennomføre tiltak for risikohåndtering, og
+d) sørge for at underleverandører gjennomfører tiltak for risikohåndtering gjennom anvendelse av CSM-ene for overvåking nevnt i § 3-2 bokstav c, og at dette er fastlagt i kontraktsregulerte ordninger som skal framlegges på anmodning fra Byrået eller Statens jernbanetilsyn.
+(2) Med forbehold for jernbanevirksomhetenes ansvar som nevnt i første ledd, skal ECM og alle andre aktører som har en mulig virkning på sikker drift av jernbanesystemet i EØS, inkludert produsenter, leverandører av vedlikeholdstjenester, innehavere, tjenesteytere, oppdragsgivere, transportører, avsendere, mottakere, laste- og losseforetak:
+a) gjennomføre de nødvendige tiltak for risikohåndtering, eventuelt i samarbeid med andre aktører,
+b) sørge for at delsystemer, tilbehør, utstyr og tjenester som de leverer eller yter, oppfyller de fastsatte kravene og bruksvilkårene, slik at den aktuelle jernbanevirksomheten på en sikker måte kan bruke dem i driften.
+(3) Jernbanevirksomheter og enhver aktør som er nevnt i annet ledd som finner eller underrettes om en sikkerhetsrisiko i forbindelse med feil og konstruksjonsmessig manglende samsvar eller funksjonssvikt på teknisk utstyr, herunder på strukturelle delsystemer, skal, innenfor grensene for deres respektive myndighetsområder:
+a) gjennomføre eventuelle nødvendige korrigerende tiltak for å håndtere den sikkerhetsrisikoen som er funnet,
+b) rapportere disse risikoene til de relevante involverte parter for å gjøre dem i stand til å gjennomføre eventuelle nødvendige ytterligere korrigerende tiltak for å sikre at sikkerheten i jernbanesystemet i EØS opprettholdes. Byrået kan utarbeide et verktøy som forenkler informasjonsutvekslingen mellom de relevante aktørene, idet det tas hensyn til de involverte brukernes personvern, resultatene av en nytte- og kostnadsanalyse og IT-applikasjonene og registrene som Byrået allerede har opprettet.
+(4) Når det gjelder utveksling av kjøretøyer mellom jernbaneforetakene, skal enhver involvert aktør utveksle all informasjon som er relevant for sikker drift, for eksempel det aktuelle kjøretøyets status og historie, elementer i vedlikeholdsplanene med tanke på sporbarhet, sporbarhet for lasting og fraktbrev mv.

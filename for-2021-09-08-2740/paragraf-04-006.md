@@ -1,0 +1,4 @@
+# § 4-6. Særlige krav til infrastrukturforvalters sikkerhetsstyringssystem
+(1) Infrastrukturforvalteres sikkerhetsstyringssystem skal ta hensyn til virkningene av de forskjellige jernbaneforetakenes aktivitet på jernbanenettet. Infrastrukturforvalter skal videre legge til rette for at alle jernbaneforetakene kan drive i samsvar med TSI-ene, nasjonale regler og vilkårene fastsatt i sikkerhetssertifikatene.
+(2) Infrastrukturforvalters sikkerhetsstyringssystem skal være utformet med sikte på å samordne beredskapsplaner med jernbaneforetakene som trafikkerer jernbaneinfrastrukturen og nødetatene. Hensikten er å legge til rette for hurtig respons for å starte redning så tidlig som mulig. Denne samordningen skal også omfatte alle andre parter som kan være involvert.
+(3) For grensekryssende infrastruktur, skal samarbeidet mellom de relevante infrastrukturforvaltere forenkle den nødvendige samordningen av og beredskapen til nødetater på begge sider av grensen.

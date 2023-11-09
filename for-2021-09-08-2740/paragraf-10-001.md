@@ -1,0 +1,4 @@
+# § 10-1. Prinsipper for søknadsbehandlingen
+(1) Byrået og Statens jernbanetilsyn skal vurdere søknader om et felles sikkerhetssertifikat i samsvar med § 5-1 første og annet ledd på en transparent måte og uten forskjellsbehandling. Særlig skal alle berørte parter gis anledning til å bli hørt, og beslutninger skal begrunnes.
+(2) Byrået og Statens jernbanetilsyn skal besvare henvendelser og søknader raskt, be om opplysninger uten opphold, og treffe alle sine beslutninger senest fire måneder etter at søkeren har lagt fram alle relevante opplysninger. I forbindelse med oppgavene nevnt i kapittel 8 kan både Byrået og Statens jernbanetilsyn til enhver tid be om teknisk bistand fra jernbanevirksomhetene eller fra andre kvalifiserte organer.
+(3) Når Statens jernbanetilsyn utarbeider nasjonale regler skal alle aktører og berørte parter rådspørres, inkludert jernbanevirksomheter, produsenter og ytere av vedlikeholdstjenester, brukere og representanter for personalet.

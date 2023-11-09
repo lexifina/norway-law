@@ -1,0 +1,3 @@
+# § 4-4. Tilpasning av sikkerhetsstyringssystemet
+(1) Sikkerhetsstyringssystemet skal være tilpasset arten og omfanget av driften, samt andre forhold ved den aktuelle virksomheten. Det skal sikre kontroll med alle risikoer knyttet til jernbanevirksomheten, inkludert levering av vedlikeholdstjenester og materiell, samt bruk av underleverandører. Levering av vedlikeholdstjenester gjelder med forbehold for kapittel 8.
+(2) Med forbehold for gjeldende nasjonale eller internasjonale regler om erstatningsansvar skal sikkerhetsstyringssystemet, i den grad det er relevant og rimelig, også ta hensyn til risikoer som oppstår som følge av virksomheten til andre aktører nevnt i kapittel 2.

@@ -1,0 +1,2 @@
+# § 4-7. Bistand til ofre etter jernbaneulykker
+Etter en jernbaneulykke skal jernbaneforetaket gi bistand til ofrene ved å hjelpe dem i klageadgangen i henhold til EØS-retten, særlig jernbanepassasjerrettighetsforskriften, med forbehold for andre parters forpliktelser. Slik bistand skal skje gjennom kanalene for kommunikasjon med ofrenes familier og omfatte psykologisk støtte for ulykkesofre og deres familier.
