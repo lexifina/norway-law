@@ -1,0 +1,2 @@
+# § 19. Erstatning for utgifter til opprydding av vindfall i skog som ikke er økonomisk drivverdig
+Dersom skaden skyldes vindfall etter en naturulykke og det er gitt pålegg om opprydding etter skogbruksloven § 10 eller forskrift om berekraftig skogbruk § 14, har skogeier rett til å få erstattet nødvendige utgifter til opprydding i skog som ikke er økonomisk drivverdig. Skadelidte må i søknaden legge ved kopi av pålegget og dokumentere nødvendige utgifter.

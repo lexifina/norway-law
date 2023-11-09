@@ -1,0 +1,5 @@
+# § 15. Utbetaling av erstatning
+Erstatning utbetales når skadelidte har dokumentert at skaden er gjenopprettet i tråd med erstatningsvedtaket ved ferdigattest fra takstmann, entreprenør eller annen fagkyndig. I saker etter § 5 tredje ledd kan gjenoppretting dokumenteres ved egenoppgave og bildedokumentasjon fra skadelidte.
+Landbruksdirektoratet kan kreve at skadelidte fremlegger dokumentasjon over påløpte gjenopprettingskostnader før utbetaling skjer. Landbruksdirektoratet kan nedsette erstatningen til det beløp som tilsvarer kostnaden ved nødvendige tiltak, jf. naturskadeerstatningsloven § 5 første ledd.
+Skadelidte kan etter søknad få utbetalt erstatningen til fri rådighet dersom det foreligger særlige grunner, jf. naturskadeerstatningsloven § 14 første ledd andre punktum. Slik søknad må fremmes innen tre år etter at skadelidte mottok endelig vedtak om erstatning. Dersom søknaden blir innvilget, utbetales erstatningen samtidig.
+Dersom erstatningen er vedtatt med grunnlag i verdiforringelsen eller saken gjelder erstatning for gjenanskaffelse av løsøre, jf. naturskadeerstatningsloven § 5 andre eller tredje ledd, utbetales erstatningen samtidig med vedtaket.
