@@ -1,0 +1,7 @@
+# § 20. Klagenemndas sammensetning og organisering
+Klagenemnda for naturskadesaker oppnevnes av Landbruks- og matdepartementet for fem år av gangen.
+Klagenemnda skal bestå av fem medlemmer og ha en faglig sammensetning som sikrer en forsvarlig behandling av klagene. Klagenemnda skal bestå av to jurister, en landbruksfagkyndig, en med fagkyndighet innen geoteknikk, bygg og anlegg, og en med fagkyndighet innen hydrologi. Medlemmene i Klagenemnda skal ha en personlig stedfortreder med samme fagkyndighet. Landbruks- og matdepartementet bestemmer hvem som skal være leder og nestleder i Klagenemnda.
+Det avholdes fem ordinære møter i Klagenemnda årlig. Møtene skjer for lukkede dører. Landbruksdirektoratet kan innkalle til ekstraordinære møter dersom særlige forhold tilsier det. Ekstraordinære møter kan gjennomføres via fjernmøteteknikk.
+Klagenemnda må møte fulltallig for å være vedtaksfør, og treffer vedtak med alminnelig flertall. Dersom et medlem melder forfall minst 14 dager før møtet, skal personlig stedfortreder innkalles. Dersom et medlem melder forfall mindre enn 14 dager før møtet, kan vedkommende delta via fjernmøteteknikk. Møtet må omberammes dersom vedkommende ikke kan delta via fjernmøteteknikk.
+Landbruksdirektoratet forbereder sakene for Klagenemnda. Landbruksdirektoratet har rett og plikt til å møte i Klagenemnda.
+Saksbehandlingen i Klagenemnda er skriftlig. I vedtak fattet av nemnda skal både flertallets og mindretallets syn begrunnes.
