@@ -1,0 +1,2 @@
+# § 10-2. Tilgang til dokumenter og lokaler
+Statens jernbanetilsyn skal gjennomføre de inspeksjoner, revisjoner og undersøkelser som er nødvendige i forbindelse med utførelsen av dens oppgaver, og de skal ha tilgang til alle relevante dokumenter og til jernbanevirksomhetenes lokaler, anlegg og utstyr. Om nødvendig skal de også ha tilgang til lokaler, anlegg og utstyr hos enhver aktør nevnt i kapittel 2. Byrået skal ha de samme rettighetene overfor jernbaneforetakene når det utfører sine sikkerhetssertifiseringsoppgaver i samsvar med § 5-2 annet ledd.
