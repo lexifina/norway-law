@@ -1,0 +1,10 @@
+# § 4. Definisjoner
+Definisjonene i forordning (EU) 2020/686 artikkel 2 nr. 1, 3, 4, 5, 6, 7, 14, 15 og 16, som er gjennomført i § 2, gjelder tilsvarende i § 7 til § 11. I tillegg menes med:
+1) Registrert sædstasjon: et anlegg for avlsmateriale som er registrert av Mattilsynet for innsamling, bearbeiding og lagring av sæd fra sauer, geiter eller hestedyr.
+2) Registrert embryouttaksgruppe: et anlegg for avlsmateriale, som består av en gruppe av fagpersoner eller en bygning, som er registrert av Mattilsynet for uttak, bearbeiding, lagring og transport av oocytter eller in vivo-produserte embryoer fra sauer, geiter eller hestedyr.
+3) Registrert embryoproduksjonsgruppe: et anlegg for avlsmateriale, som består av en gruppe av fagpersoner eller en bygning, som er registrert av Mattilsynet for uttak, bearbeiding og lagring av oocytter fra sauer, geiter eller hestedyr og for in vitro-framstilling, bearbeiding, lagring og transport av embryoer fra sauer, geiter eller hestedyr.
+4) Registrert bearbeidingsanlegg for avlsmateriale: et anlegg for avlsmateriale som er registrert av Mattilsynet for bearbeiding, herunder eventuelt kjønnssortering av sæd, og lagring av sæd, oocytter eller embryoer fra sauer, geiter eller hestedyr.
+5) Registrert lager for avlsmateriale: et anlegg for avlsmateriale som er registrert av Mattilsynet for lagring av sæd, oocytter eller embryoer fra sauer, geiter eller hestedyr.
+6) Stasjonsveterinær for registrert anlegg for avlsmateriale: den ansvarlige veterinæren for virksomheten som utføres på en registrert sædstasjon, et registrert bearbeidingsanlegg for avlsmateriale eller et registrert lager for avlsmateriale som fastsatt i denne forskriften.
+7) Gruppeveterinær for registrert anlegg for avlsmateriale: den ansvarlige veterinæren for virksomheten som utføres av en registrert embryouttaksgruppe eller en registrert embryoproduksjonsgruppe som fastsatt i denne forskriften.
+Definisjoner i dyrehelseforskriften gjelder i tillegg til definisjoner gitt i denne forskriften.

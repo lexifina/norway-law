@@ -1,0 +1,2 @@
+# § 3. Søknad om godkjenning av anlegg og merking av avlsmateriale fra storfe, svin, sauer, geiter og hestedyr
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13d (forordning (EU) 2020/999) om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til godkjenning av anlegg for avlsmateriale samt sporing av avlsmateriale fra storfe, svin, sauer, geiter og dyr av hestefamilien gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
