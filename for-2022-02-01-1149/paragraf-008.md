@@ -1,0 +1,8 @@
+# § 8. Opplæringsdel
+Enkelte bestemmelser om eksamener i lov om universiteter og høyskoler og i forskrift om studier og eksamen ved Universitetet i Agder regulerer eksamener som inngår i ph.d.-programmets opplæringsdel.
+Ph.d.-utdanningen skal være lagt opp slik at den skal kunne fullføres innenfor normert tidsramme på 3 år.
+Opplæringsdelen skal gi innføring i forskningsetikk, vitenskapsteori og forskningsmetode. Opplæringen skal sammen med forskningsarbeidet bidra til oppnåelse av forventet læringsutbytte i henhold til det nasjonale kvalifikasjonsrammeverket.
+Opplæringsdelen skal normalt avlegges ved Universitetet i Agder. Fakultetet selv kan godkjenne at kurs og andre faglige aktiviteter gjennomført utenfor Universitetet i Agder inngår i opplæringsdelen. Fakultetet selv godkjenner kurs og faglige aktiviteter gjennomført ved UiA i forhold til opplæringsdelen.
+Opplæringsdelen skal normalt ha et omfang på 30 studiepoeng. I særlige tilfeller kan opplæringsdelen ha et større omfang. Minst 20 studiepoeng bør avlegges etter opptak. Elementer som skal inngå i opplæringsdelen, må være på ph.d.-nivå og kan normalt ikke være eldre enn to (2) år ved opptaksdato.
+Universitetet bør tilby ph.d.-kandidaten veiledning om fremtidige yrkesmuligheter i og utenfor akademia, herunder bevisstgjøring om den kompetansen som kandidaten har oppnådd gjennom forskningsarbeidet.
+Ph.d.-kandidater som har foreldrepermisjon fra ph.d.-utdanningen, kan likevel følge undervisning og avlegge eksamener som skal inngå som en del av kandidatens opplæringsdel under permisjonstiden, i tråd med lov om folketrygd § 14-10.

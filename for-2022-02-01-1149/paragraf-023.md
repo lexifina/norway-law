@@ -1,0 +1,7 @@
+# § 23. Fellesgrader og cotutelle-avtaler
+Universitetet kan inngå samarbeid med en eller flere norske eller utenlandske institusjoner om samarbeid i form av fellesgrader eller cotutelle-avtaler.
+I avtaler om fellesgradssamarbeid og cotutelle kan fakultetet selv gjøre unntak for de øvrige bestemmelsene i forskriften, dersom det er nødvendig av hensyn til regelverket ved de samarbeidende institusjonene.
+Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i denne forskriften. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne. For fullført fellesgrad utstedes felles vitnemål i form av: a) et vitnemålsdokument utstedt av alle konsortiemedlemmene, b) et vitnemål fra hver av konsortiedeltakerne, eller en kombinasjon av a) og b).
+Avtaler om fellesgrader skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom Universitetet i Agder og en av de andre konsortiedeltakerne. Universitetsstyret vedtar nærmere retningslinjer for fellesgradssamarbeid, herunder mal for samarbeidsavtaler jf. første ledd.
+Med cotutelle-avtaler menes felles veiledning av ph.d.-kandidater og samarbeid om utdanning av ph.d.-kandidater. Cotutelle-avtalen inngås for hver enkelt kandidat og bør bygge på et stabilt, faglig samarbeid.
+Kvalifikasjonskrav for opptak, krav om at avhandlingen skal være offentlig tilgjengelig, samt krav om offentlig disputas med en habil bedømmelseskomité kan ikke fravikes.

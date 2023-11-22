@@ -1,0 +1,6 @@
+# § 24. Klage
+Avslag på søknad om opptak, vedtak om opphør av studierett og klage på søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i forvaltningslovens § 28 flg. Grunngitt klage sendes til fakultetet. Blir avslaget opprettholdt, sendes klagen til universitetets klagenemnd til endelig avgjørelse.
+Eksamener som er avlagt under opplæringsdelen, kan påklages etter lov 1. april 2005 nr. 15 om universiteter og høyskoler § 5-3 Klage over karakterfastsetting og § 5-2 Klage over formelle feil ved eksamen.
+Behandling av mistanke om fusk eller forsøk på fusk følger Universitetet i Agders fastsatte rutiner for dette.
+Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller forsvar kan påklages etter reglene i forvaltningslovens § 28 flg.
+Grunngitt klage sendes fakultetet. Fakultetet selv kan oppheve eller endre vedtaket hvis det finner klagen begrunnet. Hvis fakultetet selv ikke tar klagen til følge, sendes klagen til universitetets klagenemnd til endelig avgjørelse. Klagenemnda kan prøve alle sider ved det påklagede vedtak. Dersom fakultetet selv eller klagenemnda finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelsen og de kriteriene denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.
