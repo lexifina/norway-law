@@ -1,0 +1,12 @@
+# § 19. Doktorgradsprøve
+Etter at fakultetet har funnet avhandlingen verdig til å forsvares, jf. § 16, skal ph.d.-kandidaten prøveforelese. Prøveforelesningen er en selvstendig del av doktorgradsprøven og skal være over oppgitt emne. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskaper utover avhandlingens tema og evnen til å formidle disse i en forelesningssituasjon.
+Tittel for prøveforelesning fastsettes av bedømmelseskomiteen og kunngjøres for ph.d.-kandidaten ti (10) arbeidsdager før prøveforelesningen. Emnet for forelesningen skal ikke stå i direkte forbindelse med temaet for avhandlingen.
+Prøveforelesningen skal skje på avhandlingsspråket med mindre fakultetet selv godkjenner et annet språk.
+Bedømmelseskomiteen meddeler fakultetet om prøveforelesningen er bestått eller ikke bestått. Det skal begrunnes dersom prøveforelesningen anbefales ikke bestått.
+Offentlig forsvar av avhandlingen skal finne sted etter at prøveforelesningen er bestått.
+Tid og sted for det offentlige forsvaret skal kunngjøres minst ti (10) arbeidsdager før det avholdes.
+Den komiteen som opprinnelig har bedømt avhandlingen, bedømmer også det offentlige forsvaret. Det offentlige forsvaret skjer på avhandlingsspråket med mindre fakultetet selv, etter forslag fra bedømmelseskomiteen, godkjenner et annet språk.
+Det skal normalt være to ordinære opponenter. De to opponentene skal være medlemmer av bedømmelseskomiteen og utpekes av fakultetet selv.
+Det offentlige forsvaret ledes av dekanen eller den denne bemyndiger. Den som leder forsvaret, gjør kort rede for innleveringen og bedømmelsen av avhandlingen samt for prøveforelesningen og bedømmelsen av denne. Deretter redegjør ph.d.-kandidaten for hensikten med, og resultatene av, den vitenskapelige undersøkelsen. Fakultetet selv kan bestemme at første ordinære opponent skal redegjøre for dette i stedet for kandidaten.
+Første ordinære opponent innleder diskusjonen, før ph.d.-kandidaten gis anledning til å forsvare avhandlingen. Etter at en eller begge opponentene har avsluttet sin opposisjon, gis de øvrige tilstedeværende anledning til å kommentere ex auditorio. En av opponentene avslutter opposisjonen, før disputasleder avslutter disputasen.
+Bedømmelseskomitéen avgir innstilling til fakultetet der den gjør rede for hvordan den har vurdert forsvaret av avhandlingen. Innstillingen skal konkludere med om disputasen er godkjent eller ikke godkjent. Innstillingen skal begrunnes dersom disputasen anbefales ikke godkjent.
