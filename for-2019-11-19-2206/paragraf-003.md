@@ -1,0 +1,5 @@
+# § 3. Overgangsregler for spesialistgodkjenning av sykepleiere med masterutdanning i avansert klinisk sykepleie
+Helsedirektoratet skal i medhold av helsepersonelloven § 53 etter søknad gi spesialistgodkjenning i klinisk allmennsykepleie til sykepleier med norsk autorisasjon som er tildelt mastergrad i avansert klinisk sykepleie etter 1. januar 2014 eller som har påbegynt mastergrad i avansert klinisk sykepleie før 31. desember 2020.
+Søker skal dokumentere tildelt mastergrad fra norsk universitet eller høyskole i avansert klinisk sykepleie.
+Dersom Helsedirektoratet fatter vedtak om avslag fordi utdanningen ikke oppfyller kravene i forskrift om nasjonal retningslinje i masterutdanning i avansert klinisk allmennsykepleie, skal søkeren om mulig underrettes om hvilke krav som ikke anses oppfylt og gis mulighet til å søke på nytt dersom kravene senere bekreftes oppfylt ved akkreditert universitet eller høyskole i Norge.
+Dersom det innføres en nasjonal eksamen før tildeling av graden master i avansert klinisk allmennsykepleie kan direktoratet kreve at denne skal være bestått før tildeling av spesialistgodkjenning.
