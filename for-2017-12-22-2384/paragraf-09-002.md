@@ -1,0 +1,2 @@
+# § 9-2. Statistikk
+Kunnskapsdepartementet kan be om statistikkrapportering. Statistikkrapportering kan blant annet innebære antall søknader, innvilgelser og avslag, samt søkerland og saksbehandlingstid etter yrkeskvalifikasjonsloven og denne forskriften. Departementet kan gi nærmere retningslinjer for innholdet i statistikkrapporteringen. Direktoratet for høyere utdanning og kompetanse skal innhente statistikk fra de ansvarlige myndigheter.

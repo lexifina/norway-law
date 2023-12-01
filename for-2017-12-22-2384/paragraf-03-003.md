@@ -1,0 +1,8 @@
+# § 3-3. Vilkår for godkjenning
+En yrkesutøver som har kvalifikasjoner nevnt i § 3-1 nivå A til E, har rett til å utøve et lovregulert yrke på lik linje med en yrkesutøver som har ervervet sine yrkeskvalifikasjoner i Norge.
+I tilfeller hvor yrket ikke er lovregulert i hjemstaten, skal kvalifikasjonsbeviset være utstedt av en ansvarlig myndighet i en EØS-stat eller Sveits og den ansvarlige myndigheten skal ha bekreftet at yrkesutøveren kan utøve yrket.
+Yrkesutøveren skal ha utøvd yrket i minst ett av de siste ti år i en eller flere stater innen EØS eller Sveits dersom yrket ikke er lovregulert i hjemstaten. Krav til praksis gjelder ikke hvis utdanningen til yrkesutøveren er lovregulert.
+Den ansvarlige myndigheten skal godta at opplæring med særlig struktur fra hjemstaten, som nevnt i § 3-1 nivå C nr. 2, tilsvarer nivået i norsk opplæring utover videregående opplæringsnivå med minst ett års varighet, som nevnt i § 3-1 nivå C nr. 1.
+I yrker hvor det kreves kvalifikasjoner med høyere utdanning med minst fire års utdanning, som nevnt i § 3-1 nivå E, kan en yrkesutøver med kvalifikasjoner som kursbevis, som nevnt i § 3-1 nivå A, nektes adgang til å utøve yrket.
+En yrkesutøver med yrkeskvalifikasjoner fra tredjeland kan få tilsvarende rett til å utøve yrket i Norge. Dette gjelder likevel ikke for yrkesutøver som har utdanning fra hjemstaten som nevnt under nivå A i § 3-1. Videre gjelder det ikke for yrker i Norge hvor kravet er som nevnt under nivå A i § 3-1. Reglene i andre til femte ledd gjelder tilsvarende for yrkesutøver med yrkeskvalifikasjoner fra tredjeland.
+Den ansvarlige myndigheten kan avslå søknad fra yrkesutøver med yrkeskvalifikasjoner fra tredjeland dersom hensynet til offentlig helse og sikkerhet tilsier det.

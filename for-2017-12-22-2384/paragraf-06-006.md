@@ -1,0 +1,2 @@
+# § 6-6. Behandling av profesjonskort ved etablering eller midlertidig tjenesteytelse når det kreves forhåndskontroll i vertsstaten og hvor Norge er etableringsstat
+Den ansvarlige myndigheten skal behandle søknaden og dokumentene til yrkesutøveren innen en måned etter at søknaden er komplett, og sende søknaden til vertsstaten via IMI. Når søknaden sendes til vertsstaten for endelig behandling og utstedelse av profesjonskort, skal den ansvarlige myndigheten i etableringsstaten informere yrkesutøveren om dette.

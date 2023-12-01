@@ -1,0 +1,4 @@
+# § 6-5. Behandling av profesjonskort ved midlertidig tjenesteytelse når det ikke kreves forhåndskontroll i vertsstaten og hvor Norge er etableringsstat
+Den ansvarlige myndigheten skal behandle søknaden og dokumentene til yrkesutøveren og utstede profesjonskort innen tre uker etter at søknad om profesjonskort er komplett. Den ansvarlige myndigheten skal deretter sende profesjonskortet til den ansvarlige myndigheten i vertsstaten og skal underrette søker om dette.
+Profesjonskortet gjelder for 18 måneder. Yrkesutøveren kan søke om en forlengelse av profesjonskortets gyldighet.
+Yrkesutøveren må levere ny dokumentasjon hvis det har skjedd endringer siden sist søknaden ble vurdert. Ansvarlig myndighet skal sende et oppdatert profesjonskort til yrkesutøveren og den ansvarlige myndigheten i vertsstaten.
