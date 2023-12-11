@@ -1,0 +1,5 @@
+# § 7. Krav ved fôring av tamrein og oppdrettshjort
+Oppdrettshjort skal fôres på en måte som sikrer at ville hjortedyr ikke får tilgang til fôret.
+Tamrein skal, så langt mulig, fôres på en måte som gjør at ville hjortedyr ikke får tilgang til fôret. Rundballer må deles opp og distribueres ved fôring av tamrein.
+Mattilsynet kan likevel gi tillatelse til fôring av tamrein på andre måter i en begrenset periode av hensyn til trafikksikkerhet. Tillatelse kan bare gis i områder der Chronic Wasting Disease ikke er påvist og dersom sykdommen ikke er påvist i områdene reinen ellers beiter. Det må dokumenteres at andre relevante offentlige instanser har konkludert med at andre trafikksikkerhetstiltak ikke kan erstatte fôringen og at fôringen er nødvendig. Den som fôrer dyrene, skal holde fôringsplassene under observasjon for å oppdage syke dyr.
+Tamrein og oppdrettshjort fra områder uten Chronic Wasting Disease skal ikke fôres med fôr, inkludert lav, som er sanket inn fra områder med Chronic Wasting Disease. I tillegg, skal ikke tamrein og oppdrettshjort fra steder nord for grensen angitt i vedlegg 2 fôres med fôr sanket inn på steder sør for grensen.
