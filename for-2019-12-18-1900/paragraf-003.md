@@ -1,0 +1,2 @@
+# § 3. Tillatelse til å være kontofører til sentrale motparter med hovedsete utenfor EØS
+En verdipapirsentral kan gi sentrale motparter med anerkjennelse etter forordning (EU) nr. 648/2012 tillatelse til å være kontofører. En verdipapirsentral kan fastsette i sitt regelverk at foretak fra land utenfor EØS av samme type som dem nevnt i verdipapirsentralloven § 6-2 første ledd, kan være kontoførere etter en særskilt vurdering av verdipapirsentralen.

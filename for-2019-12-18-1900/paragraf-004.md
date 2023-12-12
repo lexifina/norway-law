@@ -1,0 +1,3 @@
+# § 4. Verdipapirsentralenes utfyllende regelverk mv.
+En verdipapirsentral kan i sitt regelverk fastsette at ytterligere opplysninger enn de som følger av § 5 til § 8 skal registreres i verdipapirsentralens register, dersom dette er nødvendig for å sikre en hensiktsmessig registrering og omsetning av det finansielle instrumentet. Slikt regelverk skal godkjennes av Finanstilsynet etter reglene i verdipapirsentralloven § 2-2.
+Opplysninger registrert i verdipapirsentralens register skal være søkbare. Opplysningene skal sammenstilles på en måte som ivaretar hensynet til effektivt tilsyn og statistikkproduksjon.

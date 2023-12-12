@@ -1,0 +1,2 @@
+# § 10. Innsyn i opplysninger ved avregistrering
+En verdipapirsentral kan utlevere opplysninger til annen verdipapirsentral i forbindelse med avregistrering og overføring av det finansielle instrumentet til den andre verdipapirsentralen. Tilsvarende kan verdipapirsentralen utlevere informasjon til utsteder eller utsteders representant dersom det finansielle instrumentet skal avregistreres og ikke overføres til annen verdipapirsentral.
