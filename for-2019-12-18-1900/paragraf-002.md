@@ -1,0 +1,2 @@
+# § 2. Unntak fra plikt til å innføre ihendehaverobligasjoner i en verdipapirsentral
+Registreringsplikten for norske ihendehaverobligasjoner i verdipapirsentralloven § 3-1 første ledd, gjelder ikke ihendehaverobligasjoner utstedt av norske utstedere utenfor Norge pålydende norske kroner forbeholdt utlendinger. Registreringsplikten gjelder heller ikke ihendehaverobligasjoner utstedt av norske foretak utenfor Norge i fremmed valuta.
