@@ -1,0 +1,5 @@
+# § 8. Grenser for lakselus og tiltak
+I Nord-Trøndelag og sørover skal det fra og med mandag i uke 16 til og med søndag i uke 21 til en hver tid være færre enn 0,2 voksen hunnlus av lakselus i gjennomsnitt per fisk i akvakulturanlegget. Fra og med mandag i uke 22 til og med søndag i uke 15 skal det til en hver tid være færre enn 0,5 voksen hunnlus av lakselus i gjennomsnitt per fisk i akvakulturanlegget.
+I Nordland, Troms og Finnmark skal det fra og med mandag i uke 21 til og med søndag i uke 26 til en hver tid være færre enn 0,2 voksen hunnlus av lakselus i gjennomsnitt per fisk i akvakulturanlegget. Fra og med mandag i uke 27 til og med søndag i uke 20 skal det til en hver tid være færre enn 0,5 voksen hunnlus av lakselus i gjennomsnitt per fisk i akvakulturanlegget.
+Det skal gjennomføres tiltak for å sikre at mengden lakselus ikke overskrider grensene i første og andre ledd, herunder om nødvendig utslakting av fisk.
+Mattilsynet kan gi tillatelse til en høyere grense for lakselus for stamfisk det siste halve året den står i sjøen.
