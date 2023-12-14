@@ -1,0 +1,2 @@
+# § 4. Krav om godkjenning av transportenhet
+Transportenhet som benyttes til transport av levende akvakulturdyr, unntatt akvariedyr, krepsdyr, bløtdyr og rogn og melke av akvakulturdyr, skal være godkjent av Mattilsynet. Plastposer som benyttes til transport av mindre mengder fisk er ikke omfattet av krav om godkjenning. Godkjenning er gyldig i høyst fem år fra utstedelsesdatoen og blir ugyldig så snart transportmiddelet endres eller får montert nytt utstyr som påvirker akvakulturdyrenes velferd.

@@ -1,0 +1,4 @@
+# § 8. Krav til konstruksjon
+Overflatene i transportenheten skal være glatte, lette å rengjøre og desinfisere. Transportutstyret skal være uten lommer, sprekker, skarpe vinkler m.m. som i vesentlig grad vanskeliggjør effektiv rengjøring og desinfeksjon. Volum på tank, kar, brønn (resirkuleringssystem) skal være kjent.
+Tørroppstilte pumper, muffer og skjøter skal konstrueres slik at de er tette og ikke suger inn luft som kan generere et totalgassproblem i transportvannet ved kjøring på lukket system (resirkulering). Transportutstyret skal ikke avgi stoffer som er helseskadelige for fisk eller som på annen måte påfører fisken skade eller unødige påkjenninger.
+Alle områder på transportenheten skal være mulig å inspisere på en tilfredsstillende måte. Ristplater, deksler, hengsler og lignende skal være lett demonterbare slik at inspeksjon lar seg gjennomføre.
