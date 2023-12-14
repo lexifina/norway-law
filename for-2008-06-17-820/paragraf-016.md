@@ -1,0 +1,5 @@
+# § 16. Vannkvalitet og vannvolum
+Fisk skal sikres god vannkvalitet og tilstrekkelig vannmengde tilpasset art, alder, utviklingstrinn, kondisjon m.m.
+Vannkvaliteten skal overvåkes. Innholdet av karbondioksid og totalammonium nitrogen i transportvannet skal holdes lavt. Ved transporter som varer i mer enn 2 timer skal det foretas systematisk måling av O2, pH, salinitet og temperatur og utarbeides prosedyrer for tiltak ved fare for uheldige nivåer. Måling av pH kan erstattes med måling av CO2. Transport av mindre mengder fisk i plastposer er unntatt fra kravet om systematiske målinger. I nærmere definerte tilfeller skal det tas ut vannprøver for analysering med hensyn på CO2 og totalammonium nitrogen. Egnede flasker for prøvetaking skal forefinnes på transportmiddelet.
+Transportmidlet skal ha egnet utstyr for oksygentilsetting ved behov. Brønnbåter skal ha regulerbare ventiler for å sikre tilstrekkelig vanngjennomstrømning.
+Eventuell totalgassovermetning generert av luft i rør og pumper og fra fylling av brønn, skal fjernes ved aktiv lufting før fisk overføres til transportmiddelet.

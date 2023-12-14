@@ -1,0 +1,3 @@
+# § 11. Forsvarlig drift, beredskapsplan og vurdering av risikofaktorer
+Driften skal være smittehygienisk og fiskevelferdsmessig forsvarlig. Det skal foreligge en beredskapsplan for å ivareta smittehygiene og fiskevelferd i krisesituasjoner. Den skal gi oversikt over smittehygieniske og fiskevelferdsmessige tiltak som er aktuelle å iverksette for å forhindre og eventuelt håndtere akutte hendelser og massedød, herunder håndtering av døde akvakulturdyr, avliving av akvakulturdyr og varsling av hendelser til mottaker og Mattilsynet.
+Før transport skal risikofaktorer som kan påvirke fiskevelferden og helsen til akvakulturdyr som transporteres, samt helsen til akvatiske dyr langs transportruten og på bestemmelsesstedet, vurderes.
