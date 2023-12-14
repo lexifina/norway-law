@@ -1,0 +1,5 @@
+# § 9. Behandling, evaluering og følsomhetsundersøkelser
+Ved bruk av legemiddel i behandling mot lakselus skal behandlingen gjennomføres med et legemiddel som forventes å ha god effekt basert på relevante følsomhetsundersøkelser. Behandlingen skal gjennomføres i alle produksjonsenhetene i akvakulturanlegget, med mindre det kan dokumenteres at behandling av alle produksjonsenhetene er åpenbart unødvendig.
+Badebehandling skal gjennomføres i lukket behandlingsenhet med mindre legemidlet er godkjent for annen form for behandling. Oral behandling skal ikke gjennomføres ved sviktende appetitt.
+Behandlingseffekten skal evalueres etter hver gjennomført behandling med legemiddel. Ved mangelfull effekt av gjennomført behandling skal årsaksforhold umiddelbart utredes, og følsomhet for legemiddel skal undersøkes spesifikt. Slik evaluering, utredning og undersøkelse skal gjennomføres av autorisert dyrehelsepersonell.
+Det skal iverksettes tiltak for å bekjempe resistente lakseluspopulasjoner, herunder om nødvendig utslakting av fisk og forlenget brakklegging.

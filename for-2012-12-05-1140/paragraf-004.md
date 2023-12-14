@@ -1,0 +1,9 @@
+# § 4. Samordnet plan for kontroll og bekjempelse av lakselus
+Akvakulturanleggene skal ha en plan for effektiv kontroll og bekjempelse av lakselus. Planen skal være samordnet med andre akvakulturanlegg innenfor et nærmere bestemt geografisk område. Omfanget på det geografiske området skal bestemmes ut fra hydrografiske forhold og plasseringen av akvakulturanlegg, slik at området er egnet for å få til en effektiv kontroll og bekjempelse.
+Planen skal beskrive samordnede tiltak som gjennomføres for å ivareta hensyn til ville bestander, og skal spesielt omfatte tiltak som sikrer lavest mulig forekomst av infektive stadier av lakselus i sjøen i perioder som er kritiske for ville bestander av laks og sjøørret. Planen skal minst inneholde følgende:
+a) navn, lokalitetsnummer og kontaktdetaljer for akvakulturanlegg som er omfattet av det geografiske området med samordnet plan,
+b) begrunnelse for valg av områdets omfang,
+c) tiltak som gjennomføres i akvakulturanlegg i området for å begrense forekomsten av lakselus og utviklingen av resistens, herunder rutiner for samordnet utsett i og brakklegging av akvakulturanlegg,
+d) rutiner for samordning av behandlinger gjennom året med tidsrom og tiltaksgrense for disse behandlingene. Dette gjelder også samordnede behandlinger om våren, jf. § 7,
+e) rutiner for utveksling av informasjon mellom akvakulturanlegg innenfor området som er nødvendig for å gjennomføre samordnet kontroll og bekjempelse. Informasjonsutvekslingen skal minst inneholde opplysninger om gjennomførte behandlinger, resultater fra følsomhetsundersøkelser og tellinger av lakselus.
+Planen skal til enhver tid være oppdatert, og tiltak skal gjennomføres i samsvar med planen. Planen skal være tilgjengelig på akvakulturanlegget og oversendes årlig til Mattilsynet innen 1. oktober. Endringer av planen skal umiddelbart varsles inn til Mattilsynet.
