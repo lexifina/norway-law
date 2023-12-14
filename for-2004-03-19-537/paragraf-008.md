@@ -1,0 +1,2 @@
+# § 8. Straff
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28, dyrevelferdsloven § 37 og akvakulturloven § 31.
