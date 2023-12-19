@@ -1,0 +1,3 @@
+# § 19. Distribusjon av aviser i abonnement til mottakere som ikke har annen avisdistribusjon
+Departementet skal inngå avtale med eller gjennom enkeltvedtak utpeke en eller flere tilbydere med ansvar for å tilby utlevering av aviser i abonnement på en eller flere dager fra mandag til lørdag til mottakere som ikke har annen avisdistribusjon, jf. postloven § 6 og § 7 annet ledd.
+Departementet skal avtale eller gjennom enkeltvedtak fastsette vilkår for avisdistribusjon. Slike vilkår kan blant annet gjelde distribusjonsdager, frister for innlevering og utlevering av aviser, og geografisk oppdeling av leveringsplikten. Departementet kan avtale eller fastsette at leveringsplikten skal gjelde aviser som innleveres til lokale og/eller regionale distribusjonsenheter.

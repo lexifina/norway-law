@@ -1,0 +1,4 @@
+# § 15. Faste ekspedisjonssteder og innsamlingspostkasser
+Tilbyder med leveringsplikt skal tilby minst ett fast ekspedisjonssted i hver kommune i sitt geografiske dekningsområde. Ekspedisjonsstedene skal være åpne alle dager unntatt høytids-, søn- og helligdager. Åpningstidene skal tilpasses lokale behov.
+Nasjonal kommunikasjonsmyndighet kan gjøre unntak fra kravet i første ledd dersom det etter en helhetsvurdering vil medføre en urimelig byrde for tilbyder med leveringsplikt. Ved avgjørelsen skal brukernes behov for fast ekspedisjonssted for relevant leveringspliktig tjeneste veies opp mot byrden for tilbyder med leveringsplikt.
+Tilbyder med leveringsplikt skal sikre god tilgjengelighet, herunder utplassering av et tilstrekkelig antall innsamlingspostkasser i sitt geografiske dekningsområde.
