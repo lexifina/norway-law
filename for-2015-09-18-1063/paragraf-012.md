@@ -1,0 +1,4 @@
+# § 12. Unntak fra avstandskrav til utleveringspostkasse
+Når særlig spredt bosetting eller næringsvirksomhet gjør utlevering urimelig kostnadskrevende, kan tilbyder med leveringsplikt anmode eier av utleveringspostkasse om plassering lenger unna enn angitt i § 11. I vurdering av om det skal anmodes om avvikende plassering skal tilbyder legge vekt på om plassering av utleveringspostkasse vil bidra til rasjonell og effektiv postomdeling.
+Med urimelig kostnadskrevende menes at kostnadene for omdeling vesentlig overstiger kostnadene for utlevering til utleveringspostkasser plassert etter § 11. Med rasjonell og effektiv postomdeling menes at budrutene legges opp på en slik måte at de dekker flest mulig med minst mulig bruk av ressurser.
+Det kan ikke gjøres unntak etter denne bestemmelsen for flere enn 11 000 husstander og næringsvirksomheter på landsbasis.

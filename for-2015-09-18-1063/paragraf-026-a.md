@@ -1,0 +1,3 @@
+# § 26a. Gjennomføring av forordning (EU) 2018/644 om pakkeleveringstjenester over landegrensene og tilhørende forordning
+EØS-avtalen vedlegg XI (Europaparlaments- og rådsforordning (EU) 2018/644 av 18. april 2018) om pakkeleveringstjenester over landegrensene gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalen vedlegg XI (Kommisjonens gjennomføringsforordning (EU) 2018/1263 av 20. september 2018) om utarbeiding av skjemaene som skal brukes av pakkeleveringsvirksomheter til å gi opplysninger i henhold til europaparlaments- og rådsforordning (EU) 2018/644 gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.
