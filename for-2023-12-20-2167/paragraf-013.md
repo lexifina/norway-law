@@ -1,0 +1,3 @@
+# § 13. Adgang til området
+Representanter for fylkeskommunen eller andre inspektører med fullmakt fra fylkeskommunen skal til enhver tid ha adgang til området for å påse at arbeidet foregår i overensstemmelse med tillatelsen og at det føres nøyaktig oversikt over opptaket. Ved overtredelse av bestemmelser gitt i eller i medhold av havbunnsmineralloven eller vilkårene i tillatelsen underretter inspektørene fylkeskommunen, som avgjør om konsesjonen skal inndras, jf. havbunnsmineralloven § 9-9.
+Representanter for statsforvalteren eller andre med fullmakt fra statsforvalteren skal ha adgang til området i forbindelse med klagebehandling, jf. § 15.
