@@ -1,0 +1,2 @@
+# § 3. Bruk av forholdstall i garantiberegningen
+Ved garantiberegningen etter lov om Statens pensjonskasse § 24a sjette ledd, lov om pensjonsordning for apotekvirksomhet mv. § 8b sjette ledd og lov om pensjonsordning for sykepleiere § 10b sjette ledd for et medlem som nevnt i § 1 skal den alderspensjon fra folketrygden som inngår i garantiberegningen beregnes som basispensjon dividert med forholdstallet på virkningstidspunktet for uførepensjonen fra tjenestepensjonsordningen.
