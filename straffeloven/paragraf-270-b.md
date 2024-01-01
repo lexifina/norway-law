@@ -1,0 +1,2 @@
+# § 270 b. Markedsføring av konverteringsterapi
+Med bot eller fengsel inntil 6 måneder straffes den som markedsfører konkrete tilbud om å utsette andre for psykoterapeutisk, medisinsk, alternativmedisinsk eller religiøst baserte metoder eller lignende systematiske fremgangsmåter som anvendes i den hensikt å påvirke noen til å endre, fornekte eller undertrykke sin seksuelle orientering eller kjønnsidentitet.
