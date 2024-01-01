@@ -1,0 +1,2 @@
+# § 4. Tiltaksområder
+Det kan gis tilskudd til utviklingsrettede fellesskapstiltak for å styrke sårbare produsentmiljøer i Nordland, Troms og Finnmark, motvirke bruksnedgang, øke arealbruken, og heve kompetansen til landbruksnæringen og verdikjeden for mat, samt å utnytte regionale fortrinn og muligheter innen arktisk landbruk. Tiltakene må være innenfor de nasjonale rammene for satsingen, samt regionale strategier og prioriteringer fastsatt av det regionale partnerskapet i landbruket.
