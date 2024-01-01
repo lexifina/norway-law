@@ -1,0 +1,4 @@
+# § 6. Krav om årlig melding og dokumentasjon hvert tredje år
+(1) Godkjente virksomheter skal hvert år sende melding til Arbeidstilsynet som bekrefter at virksomheten fortsatt fyller kravene til godkjenning etter § 4. Fristen for å sende melding er datoen for vedtak om godkjenning. Kravet om årlig melding gjelder ikke det året virksomheten har plikt til å sende inn dokumentasjon i henhold til andre ledd.
+(2) Godkjente virksomheter skal hvert tredje år sende dokumentasjon til Arbeidstilsynet som viser at virksomheten fortsatt fyller kravene til godkjenning etter § 4. Dokumentasjonen skal første gang sendes innen tre år fra datoen for vedtaket om godkjenning og senere innen tre år fra den forrige fristdatoen.
+(3) Dersom virksomheten unnlater å oppfylle kravet i første eller andre ledd, kan godkjenningen tilbakekalles. Før godkjenning tilbakekalles, skal virksomheten varsles og gis frist for å oppfylle krav etter første eller andre ledd.
