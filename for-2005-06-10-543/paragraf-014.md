@@ -1,0 +1,5 @@
+# § 14. Daglig og ukentlig fritid
+Arbeidstaker skal ha minst 11 timer sammenhengende døgnhvil i løpet av 24 timer. Hviletiden kan reduseres i samsvar med bestemmelsene i kjøre- og hviletidsforskriften eller AETR-forskriften.
+Arbeidstaker skal ha en sammenhengende ukehvil på minst 36 timer i løpet av sju dager, og slik at det alltid inngår et helt døgn i friperioden. Fritida skal så vidt mulig legges til en søn- eller helgedag. Arbeidstaker som har utført søn- eller helgedagsarbeid, skal ha det følgende søn- og helgedagsdøgn fri.
+Ved virksomhet som er bundet av tariffavtale, kan arbeidsgiveren og de tillitsvalgte avtale at denne fritida gjennomsnittlig skal være 36 timer, men aldri kortere enn 24 timer i noen enkelt uke. Forutsetningen er at arbeidstakerne gis kompenserende hvile, eller annet passende vern dersom dette ikke er mulig.
+Ved virksomhet som er bundet av tariffavtale, kan arbeidsgiver og de tillitsvalgte for en periode på inntil 26 uker avtale en arbeidstidsordning som gir arbeidstakerne fri gjennomsnittlig hvert annet søn- og helgedagsdøgn, likevel slik at det ukentlige fridøgn minst hver tredje uke faller på en søn- eller helgedag.
