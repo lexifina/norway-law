@@ -1,0 +1,2 @@
+# § 2-5. Vern av fysisk og mental integritet og personopplysninger
+En klinisk utprøving kan bare igangsettes, dersom forsøkspersonens rett til fysisk og mental integritet samt retten til privatlivets fred respekteres og opplysninger vedrørende forsøkspersonen beskyttes i henhold til bestemmelsene i personvernforordningen og lov 15. juni 2018 nr. 38 om behandling av personopplysninger, jf. lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning § 2 andre ledd.

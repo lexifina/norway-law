@@ -1,0 +1,4 @@
+# § 1-13. Ytterligere søknadsplikt for særskilte studier
+Klinisk utprøving som omfatter genterapi, bruk av genmodifiserte organismer som legemiddel eller prediktive, presymptomatiske eller bærerdiagnostiske undersøkelser, skal også godkjennes i henhold til lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m.
+Klinisk utprøving med legemiddel som består av eller inneholder genmodifiserte organismer, kan innebære en utsetting av organismen og skal på forhånd være godkjent etter lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte mekanismer m.m.
+Klinisk utprøving som medfører innsamling, oppbevaring, behandling, destruksjon, innførsel til Norge og utførsel fra Norge av humant biologisk materiale, skal ha tillatelse etter lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning.

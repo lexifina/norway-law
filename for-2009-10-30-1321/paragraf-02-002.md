@@ -1,0 +1,5 @@
+# § 2-2. Krav til informert samtykke
+Før forsøket starter skal utprøver, eller den som leder informasjonsprosessen på utprøvers vegne, informere forsøkspersonen om formålet med utprøvingen, nytte og risiko knyttet til forsøkspersonens deltakelse, vilkår for gjennomføring av forsøket og om at forsøkspersonen når som helst kan trekke seg fra forsøket.
+Dersom forsøkspersonen ikke kan avgi et informert samtykke, skal informasjonen som nevnt i første ledd gis til den som i henhold til § 2-8 og § 2-9 kan samtykke på forsøkspersonens vegne.
+Før forsøket starter, skal forsøkspersonen gi sitt samtykke til deltakelse i utprøvingen. Samtykket skal gis etter at informasjonen i første ledd er mottatt. Dersom skriftlig samtykke ikke kan gis, kan samtykket gis muntlig. Muntlig samtykke skal være attestert av uavhengig vitne.
+Dersom forsøkspersonen ikke kan avgi et informert samtykke, skal samtykket som nevnt i forrige ledd gis av den som i henhold til § 2-8 og § 2-9 kan samtykke på forsøkspersonens vegne.
