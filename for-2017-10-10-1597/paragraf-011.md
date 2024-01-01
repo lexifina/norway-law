@@ -1,0 +1,2 @@
+# § 11. Tilfeller der produsentens forpliktelser får anvendelse på importøren eller distributøren
+En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 7 når importøren eller distributøren bringer et apparat i omsetning under eget navn eller varemerke, eller endrer et apparat som allerede er brakt i omsetning på en slik måte at det kan påvirke apparatets samsvar med forskriften.
