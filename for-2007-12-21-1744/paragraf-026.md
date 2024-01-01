@@ -1,0 +1,3 @@
+# § 26. Maksimale tillatte målefeil
+For hver av de målte andelene er maksimale tillatte målefeil ved angitte driftsbetingelser i henhold til § 5 den største av de to verdiene i tabell 5. Absoluttverdier uttrykkes i % vol. eller ppm vol. hvor prosentverdier er prosent av sann verdi.
+Maksimale tillatte målefeil ved lambdaberegningen er 0,3 %. Den konvensjonelle sanne verdien beregnes etter formelen definert i punkt 5.3.7.3 i de forente nasjoners økonomiske kommisjon for Europa (UN/ECE) forordning nr. 83 om uniforme bestemmelser for godkjenning av kjøretøy med hensyn til forurenseres utslipp i henhold til krav til drivstoff.

@@ -1,0 +1,4 @@
+# § 23. Definisjoner
+I dette avsnittet menes med:
+a) Avgassmåler: En avgassmåler er et måleredskap til bestemmelse av volumandeler av gitte komponenter av avgassen fra et motorkjøretøy med gnisttenning, på den analyserte prøvens fuktighetsnivå. Disse gasskomponentene er karbonmonoksid (CO), karbondioksid (CO2), oksygen (O2) og hydrokarboner (HC). Innholdet av hydrokarboner skal uttrykkes som konsentrasjon av n-heksan (C6 H14), målt med nærinfrarød absorpsjonsteknikk. Volumandelene av gasskomponentene uttrykkes som prosentdel (% vol) for CO, CO2 og O2 og i deler per million (ppm vol). Videre beregner en avgassmåler lambdaverdien fra volumandelene av komponentene i eksosen
+b) Lambda: Lambda er en dimensjonsløs verdi som representerer en motors forbrenningseffektivitet i form av luft/drivstofforhold i eksosgassene. Den bestemmes med en standardisert referanseformel.
