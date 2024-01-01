@@ -1,0 +1,4 @@
+# § 7. Overgangsbestemmelser for bøker i fastpris etter en gjeldende bokavtale
+Når et publiseringsformat av en bok er i fastpris ved boklovens ikrafttredelse etter reglene i forskrift 19. desember 2014 nr. 1716 om unntak fra konkurranseloven § 10 for samarbeid ved omsetning av bøker, gjelder den forskriftens bestemmelser for dette publiseringsformatet til og med 30. april 2024.
+Første ledd gjelder ikke for særlig ressurskrevende utgivelser som ble utgitt før boklovens ikrafttredelse. For disse bøkene gjelder bokloven § 5 andre ledd. Fastprisperioden for disse bøkene kan likevel ikke forlenges med mer enn syv år etter at opprinnelig fastprisperiode utløp.
+Når et publiseringsformat av en bok eller en reell nyutgivelse etter denne forskriften § 6 gis ut etter boklovens ikrafttredelse, gjelder bestemmelsene i bokloven og denne forskriften.
