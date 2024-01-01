@@ -1,0 +1,2 @@
+# § 6
+I konsesjoner som meddeles i medhold av vannfallrettighetsloven § 18 annet ledd (første og annet punktum) og vassdragsreguleringsloven § 14 fjerde ledd (første og annet punktum) skal det pålegges konsesjonæren å betale en årlig avgift til staten på minst 1 krone og normalt ikke over 10 kroner pr. naturhestekraft, og en årlig avgift til vedkommende fylkeskommune eller kommune på minst 1 krone og normalt ikke over 30 kroner pr. naturhestekraft. I særlige tilfeller kan avgiften settes høyere.
