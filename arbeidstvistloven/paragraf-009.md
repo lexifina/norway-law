@@ -1,0 +1,3 @@
+# § 9. Erstatningsansvar for brudd på tariffavtale mv.
+(1) Har medlemmer av en fagforening eller arbeidsgiverforening brutt en tariffavtale, er foreningen og vedkommende medlemmer erstatningsansvarlige. Foreningens ansvar inntrer bare når den selv er skyld i bruddet eller i fortsettelsen av det tariffstridige forholdet. En arbeidsgiver, arbeidsgiverforening, fagforening eller deres medlemmer er også erstatningsansvarlige for ulovlig streik, lockout eller annen arbeidskamp, jf. § 8 andre ledd. Andre punktum i bestemmelsen her gjelder tilsvarende.
+(2) Erstatningsansvaret etter første ledd første og tredje punktum gjelder tilsvarende for andre arbeidstakere som deltar i den tariffstridige eller ulovlige streiken.

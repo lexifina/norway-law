@@ -1,0 +1,4 @@
+# § 36. Krav til Arbeidsrettens dommere
+(1) Dommere i Arbeidsretten må være norske statsborgere som er vederheftige og som ikke er fradømt stemmerett i offentlige anliggender. De må ikke være medlem av styret i en fagforening eller arbeidsgiverforening eller være fast ansatt i en slik forening.
+(2) Rettens fagdommere skal i tillegg oppfylle de krav som gjelder for høyesterettsdommere.
+(3) En fagdommer i Arbeidsretten må søke departementet om godkjenning for sidegjøremål i slike tilfeller som fremgår av domstolloven § 121c. Departementet fører register over fagdommernes sidegjøremål i samsvar med domstolloven § 121e. En fagdommer skal melde fra om sidegjøremål snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Enhver har rett til å gjøre seg kjent med opplysningene i registeret. Departementet bestemmer hvordan opplysninger skal gjøres tilgjengelige for den som ber om det.

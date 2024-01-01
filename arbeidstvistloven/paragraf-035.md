@@ -1,0 +1,5 @@
+# § 35. Søksmål
+(1) Er en tariffavtale sluttet mellom en fagforening, dens underavdelinger og medlemmer på den ene side og en arbeidsgiver eller en arbeidsgiverforening, dens underavdelinger og medlemmer på den annen side, er det bare den overordnede fagforening eller arbeidsgiverforening eller den enkeltstående arbeidsgiver som har søksmålsrett.
+(2) Den overordnede fagforening eller arbeidsgiverforening kan likevel overdra sin søksmålsrett til en underavdeling som har undertegnet tariffavtalen. Det skal gis skriftlig melding om overdragelsen til Arbeidsretten og tariffmotparten. Overdragelsen kan begrenses til en enkelt tvist eller gis virkning for hele tariffperioden. I sistnevnte tilfelle kan vedkommende underavdeling saksøkes direkte og alene av den annen søksmålsberettigede part i tariffavtalen.
+(3) Før en sak kan bringes inn for Arbeidsretten, skal partene ha gjennomført eller forsøkt gjennomført forhandlinger om tvisten.
+(4) Vil en part nedlegge påstand mot navngitte medlemmer av en forening, skal disse stevnes ved siden av foreningen. Tilsvarende gjelder om det skal nedlegges påstand mot andre navngitte personer, jf. § 9 andre ledd.
