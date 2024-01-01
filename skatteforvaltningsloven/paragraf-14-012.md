@@ -1,3 +1,2 @@
-# § 14-12. Straff for tredjeparts opplysningssvikt mv.
-(1) Med bot eller fengsel inntil to år straffes opplysningspliktig tredjepart som gir uriktig eller ufullstendig opplysning til skattemyndighetene, eller unnlater å gi pliktig opplysning.
-(2) Med bot eller fengsel inntil ett år straffes den som grovt uaktsomt overtrer gjerningsbeskrivelsen i første ledd.
+# § 14-12. Kompensasjon for urimelig lang saksbehandlingstid
+Departementet kan gi forskrift om utmåling av kompensasjon dersom tilleggsskatt eller overtredelsesgebyr ikke er fastsatt, frafalt eller henlagt innen rimelig tid, herunder hvilken periode kompensasjon skal gis for, hvordan kompensasjon skal gis, hvordan kompensasjon skal utmåles og størrelsen på kompensasjonen.
