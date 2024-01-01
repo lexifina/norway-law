@@ -1,0 +1,3 @@
+# § 4. Miljødokumentasjon og miljøregistreringar
+Skogeigar skal kunne gjere greie for dei miljøomsyn som ligg til grunn for planlagde eller utførte tiltak i skogen, jf. lov 9. mai 2003 nr. 31 om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven).
+Hogst kan normalt berre skje i område der det er gjennomført miljøregistreringar, jf. forskrift 4. februar 2004 nr. 449 om tilskudd til skogbruksplanlegging med miljøregistreringer. Ved hogst i område der slike registreringar enno ikkje er gjennomførte, skal dei føre-var-tiltaka som er nedfelte i Norsk PEFC Skogstandard leggjast til grunn.

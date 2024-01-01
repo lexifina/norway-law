@@ -1,0 +1,3 @@
+# § 12. Transport og behandling av virke
+Bartrevirke som skal transporterast bort frå skogen og staden for levering av virke (jf. § 11, 2. og 3. ledd), må transporterast ut før insekt som kan gjere skade på skog klekkjast. Gran hogd før 1. juli skal være transportert bort frå staden for levering innan 15. juli, og furu hogd før 1. juni skal være transportert bort innan 1. juli. Gran som blir hogd i juli og furu som blir hogd i juni, skal transporterast bort innan 4 veker.
+Statsforvaltaren kan gi nærare reglar med m.a. konkrete fristar for uttransport av virke innafor heile eller delar av fylket.
