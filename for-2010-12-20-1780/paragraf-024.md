@@ -1,0 +1,3 @@
+# § 24. Ikrafttreden
+Denne forskrift trer i kraft 1. januar 2011.
+Fra samme tidspunkt oppheves forskrift 12. november 1990 nr. 1164 om helsekrav for arbeidstakere i petroleumsvirksomheten, fastsatt av Helsedirektoratet med hjemmel i § 57 i lov 22. mars 1985 nr. 11 om petroleumsvirksomhet jf. § 23 i forskrift 28. juni 1985 nr. 1215 om sikkerhet mv. i petroleumsvirksomheten (jf. Sosialdepartementets delegeringsskriv av 5. september 1985) jf. lov 29. november 1996 nr. 72 om petroleumsvirksomhet jf. forskrift 27. juni 1997 nr. 649 om sikkerhet i petroleumsvirksomheten § 4 nr. 3 jf. forskrift 31. august 2001 nr. 1016 om helse, miljø og sikkerhet i petroleumsvirksomheten § 57 og § 63 nr. 4 jf. nr. 2 q.
