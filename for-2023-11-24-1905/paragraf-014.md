@@ -1,0 +1,2 @@
+# § 14. Godtgjørelse for bruk av bolig i ervervsvirksomhet (hjemmekontor mv.)
+Godtgjørelse på inntil kr 2 128 per år til dekning av merkostnader knyttet til den delen av eiendommen som brukes i eierens ervervsvirksomhet anses ikke å gi trekk- eller skattepliktig overskudd dersom eieren benytter minst halvparten av eiendommen til egen bolig regnet etter utleieverdien. Overstiger godtgjørelsen satsen, vil merutbetalingen utgjøre et trekk- og skattepliktig overskudd med mindre det fremlegges full kostnadsdokumentasjon for den delen av eiendommen som brukes i ervervsvirksomhet.
