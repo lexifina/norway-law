@@ -1,0 +1,2 @@
+# § 1. Kostbesparelse
+Har arbeidstakeren under pendleropphold fri kost eller får kost dekket etter regning, verdsettes den trekk- og skattepliktige kostbesparelsen til kr 102 per døgn. Er arbeidstakerens kost dekket etter regning eller ved administrativ forpleining på yrkes-/tjenestereise, skal det ikke gjøres tillegg for kostbesparelsen. Der satsene under § 2 anvendes, skal det ikke gjøres tillegg for kostbesparelse, da dette er tatt hensyn til i satsene.

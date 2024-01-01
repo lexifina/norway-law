@@ -1,0 +1,2 @@
+# § 7. Kost for langtransportsjåfører ved kjøring i Norge og i utlandet
+Godtgjørelse til dekning av merkostnader til kost for langtransportsjåfører for kjøring i Norge og i utlandet utbetalt med inntil kr 400 per døgn anses ikke å gi trekk- og skattepliktig overskudd. Satsen inkluderer småutgifter. Overstiger godtgjørelsen satsen, vil merutbetalingen utgjøre et trekk- og skattepliktig overskudd med mindre full kostnadsdokumentasjon framlegges.
