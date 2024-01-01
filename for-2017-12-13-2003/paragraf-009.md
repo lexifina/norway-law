@@ -1,0 +1,5 @@
+# § 9. Krav om fiskerikyndig person om bord i fartøy som foretar geofysisk undersøkelse
+Fartøy som foretar geofysisk undersøkelse, skal ha fiskerikyndig person om bord når det er nødvendig av hensyn til fiskerivirksomheten i området. I tvilstilfeller har Sokkeldirektoratet i samråd med Fiskeridirektoratet avgjørende myndighet.
+Den fiskerikyndige bør være til stede på oppstartsmøtet for undersøkelsen for å kunne informere om forventet fiskeriaktivitet i det området den seismiske undersøkelsen skal gjennomføres.
+Den fiskerikyndige skal ha en rådgivende funksjon for undersøkelsen innenfor sitt fagområde og skal sikres en fri og uavhengig stilling. Oppdraget som fiskerikyndig skal gjennomføres objektivt og upartisk i forholdet mellom oppdragsgiver og fiskeriinteresser.
+Rettighetshaver og den som står for driften av fartøyet skal gjøre relevant regelverk, dokumenter og data tilgjengelig for den fiskerikyndige. Regelverk og dokumenter skal foreligge på både norsk og engelsk. Det skal også legges til rette for at den fiskerikyndige har tilgang til internett og andre nødvendige hjelpemidler.
