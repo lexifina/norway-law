@@ -1,0 +1,2 @@
+# § 12. Tilfeller der produsentens forpliktelser får anvendelse på importører og distributører
+En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 8, når importøren eller distributøren bringer en beholder i omsetning under eget navn eller varemerke, eller endrer en beholder som allerede er brakt i omsetning på en slik måte at det kan påvirke beholderens samsvar med forskriften.
