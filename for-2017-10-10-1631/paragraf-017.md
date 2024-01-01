@@ -1,0 +1,2 @@
+# § 17. Tilfeller der produsentens forpliktelser får anvendelse på importører og distributører
+En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 13 når importøren eller distributøren bringer trykkpåkjent utstyr eller en sammenstilling i omsetning under eget navn eller varemerke eller endrer utstyret som allerede er brakt i omsetning på en slik måte at det kan påvirke utstyrets samsvar med forskriften.

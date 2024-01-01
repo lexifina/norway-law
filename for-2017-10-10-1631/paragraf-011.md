@@ -1,0 +1,2 @@
+# § 11. Unntak fra grunnleggende sikkerhetskrav – god ingeniørpraksis
+Trykkpåkjent utstyr og sammenstillinger der spesifikasjonene ikke overskrider grenseverdiene angitt i § 5 til § 10, skal konstrueres og produseres i samsvar med god ingeniørpraksis for å sikre sikker bruk. Utstyret skal ledsages av tilstrekkelige bruksanvisninger. Uten at det berører annet relevant EØS-regelverk med krav om påføring av slik merking, skal det nevnte utstyret ikke være påført CE-merkingen nevnt i § 27.
