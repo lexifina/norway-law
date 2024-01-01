@@ -1,0 +1,2 @@
+# § 35. Hoved og nødtavler
+Hoved- og nødtavler skal være slik arrangert at de gir tilstrekkelig lett adgang til utstyr og betjeningsanordninger uten fare for betjeningen. Tavlenes sider og bakvegg, og forsider der det er nødvendig, skal være beskyttet på passende måte. Ubeskyttede strømførende deler med spenninger til jord som overstiger den spenning tilsynsmyndigheten fastsetter, skal ikke være plassert på forsiden av slike tavler. Det skal være ikke-ledende materialer eller rister foran og bak tavlen der dette er nødvendig.

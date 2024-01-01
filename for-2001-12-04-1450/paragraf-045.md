@@ -1,0 +1,21 @@
+# § 45. Sikkerhetstiltak mot støt, brann og andre farer som skyldes elektrisitet (R 45)
+Nye skip i klasse B, C og D og eksisterende skip i klasse B:
+.1 Udekkede metalldeler i elektriske maskiner eller utstyr som ikke er ment å være strømførende, men som kan bli strømførende som følge av feil, skal jordes, med mindre maskinene eller utstyret:
+- har en tilførselsspenning som ikke overstiger 50 V likestrøm eller 50 V spenningsverdi mellom ledere; autotransformatorer skal ikke brukes for å oppnå denne spenningen, eller
+- får tilførsel til en spenning som ikke overstiger 250 V ved sikkerhetsisolerende transformatorer som forsyner bare en forbruksinnretning, eller
+- er konstruert i samsvar med prinsippet om dobbelt isolasjon.
+.2 Alle elektriske apparater skal være konstruert og installert slik at de ikke forårsaker skade ved berøring.
+.3 Sidene, baksiden og om nødvendig forsiden av tavler skal være passende beskyttet. Udekkede strømførende deler med en spenning til jord som overstiger spenningen som angitt over, skal ikke være installert på forsiden av slike tavler. Der det er nødvendig, skal tavlen være utstyrt med isolerende matter eller gitter på forsiden og baksiden.
+.4 I isolerte fordelingssystemer skal det være utstyr som kan overvåke isolasjonsnivået til jord og gi en akustisk eller optisk indikasjon på unormalt lave isolasjonsverdier.
+.5.1 Alt metalltrekk og all metallarmering av kabler skal være elektrisk sammenhengende og jordet.
+.5.2 Alle elektriske kabler og ledninger forlagt utenom utstyr, skal minst være av brannhemmende type og skal være installert slik at deres opprinnelige brannhemmende egenskaper ikke er redusert. Der det er nødvendig for bestemt bruk, kan flaggstatens administrasjon tillate bruk av spesielle typer kabler, f.eks. radiofrekvenskabler, som ikke tilfredsstiller forannevnte bestemmelser.
+Nye skip i klasse B, C og D:
+.5.3 Kabler og ledninger for kraft, belysning og intern kommunikasjon og signaler som er av vesentlig betydning eller som er nødvendig i en nødsituasjon, skal så langt mulig legges utenom bysser, vaskerom, maskinrom i kategori A og deres kapper og andre områder med høy brannrisiko. På nye og eksisterende roro-passasjerskip skal kabler til nødalarm og høyttalersystemer installert på eller etter den dato (1. juli 1998) som er nevnt i artikkel 14 nr. 1 i direktiv 98/18/EF, godkjennes av flaggstatens administrasjon, under hensyn til rekommandasjoner utarbeidet av IMO. Kabler som forbinder brannpumper med nødtavler, skal være av en type som er motstandsdyktig mot brann der de er ført gjennom områder med høy brannrisiko. Der det er praktisk mulig skal alle slike kabler legges på en måte som utelukker at de gjøres ubrukbare som følge av oppvarming av skottene på grunn av brann i tilstøtende rom.
+.6 Kabler og ledninger skal være installert og festet slik at skamfiling og annen skade unngås. Avslutninger og ledd i alle ledere skal være laget slik at kabelens opprinnelige elektriske, mekaniske, flammehemmende og, om nødvendig, flammebestandige egenskaper bevares.
+Nye skip i klasse B, C og D og eksisterende skip i klasse B:
+.7.1 Hver enkelt strømkrets skal være beskyttet mot kortslutning og mot overbelastning, unntatt i tilfeller tillatt etter direktiv 98/18/EF, regel II-1/C/6 og II-1/C/7 (elektriske og elektrohydrauliske styremaskiner, jf. § 46).
+Nye skip i klasse B, C og D:
+.7.2 Lysarmaturer skal være arrangert slik at temperaturstigninger som kan forårsake skade på kabler og ledninger, unngås, og slik at det forhindres at omgivende materiale blir overopphetet.
+.8.1 Akkumulatorbatterier skal ha passende kasser, og rom som hovedsakelig brukes til oppbevaring av dem, skal være forsvarlig konstruert og effektivt ventilert.
+.8.2 Elektrisk eller annet utstyr som kan utgjøre en tennkilde for brennbare damper, skal ikke tillates i disse rommene.
+.9 Fordelingssystemer skal være arrangert slik at brann i en hvilken som helst vertikal hovedsone i henhold til direktiv 98/18/EF, regel II-2/A/2.9, ikke vil innvirke på virksomhet av vesentlig betydning for sikkerheten i noen annen slik sone. Dette kravet vil være oppfylt dersom hoved- og nødstilførselsledninger som føres gjennom en slik sone, er så godt atskilt både vertikalt og horisontalt som praktisk mulig.

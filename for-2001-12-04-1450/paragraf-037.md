@@ -1,0 +1,4 @@
+# § 37. Overvåking av isolasjonsnivået til jord
+Når det benyttes isolert fordelingssystem, enten primært eller sekundært, for drivkraft, oppvarming eller belysning, skal det være montert en innretning som kan overvåke isolasjonsnivået til jord.
+Når fordelingssystemet er i samsvar med første ledd, og det benyttes en spenning som overstiger 55 V likestrøm eller 55 V vekselstrøm mellom lederne, skal det være montert utstyr som kontinuerlig overvåker isolasjonsnivået til jord. Utstyret skal gi hørbar eller synlig indikasjon om unormalt lave isolasjonsverdier.
+Kravene i første ledd kommer til anvendelse for fordelingssystemer som er begrenset i omfang, og med spenning som ikke overstiger 250 V likestrøm eller 250 V vekselstrøm mellom lederne, forutsatt at dette tilfredsstiller tilsynsmyndighetens krav.

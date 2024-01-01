@@ -1,0 +1,2 @@
+# Vedlegg II
+Dette vedlegget er å betrakte som et supplement til IEC-0092-serien (NEK-410:2000), og kan legges til grunn dersom denne serien benyttes som metode for å oppfylle forskriftens krav. Vedlegget er som øvrig veiledningstekst ikke juridisk bindende. Andre løsninger kan brukes forutsatt at samme sikkerhetsnivå opprettholdes. Dersom veiledning og de oppgitte normer benyttes vil det imidlertid være en presumpsjon for at forskriftens juridiske krav er oppfylt.
