@@ -1,0 +1,3 @@
+# § 8a. Møte i representantskapet
+Reglene om møteoffentlighet i kommuneloven §§ 11-5 og 11-6 gjelder tilsvarende for representantskapsmøter i interkommunale selskaper som er omfattet av offentleglova. Hvis det blir vedtatt at et møte skal lukkes ved behandlingen av en sak, skal hjemmelen for lukkingen tas inn i protokollen.
+Representantskapet kan treffe vedtak om at møter kan gjennomføres som fjernmøter. Fjernmøter innebærer at deltakerne ikke sitter i samme lokale, men at de via tekniske hjelpemidler likevel kan se, høre og kommunisere med hverandre. Kravene som ellers gjelder for representantskapsmøte, gjelder også for fjernmøter.

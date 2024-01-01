@@ -1,0 +1,5 @@
+# § 6. Representantskapet og dets sammensetning
+Selskapet skal ha et representantskap hvor samtlige deltakere er representert med minst én representant. Vedkommende kommunestyre eller fylkesting oppnevner selv sine representanter. Er et interkommunalt selskap deltaker, oppnevner selskapets representantskap dets representanter. Det skal oppnevnes minst to varamedlemmer for hvert faste medlem. Hvis ikke annet er fastsatt i selskapsavtalen, velger representantskapet selv sin leder og nestleder. Godtgjøringen til lederen og nestlederen fastsettes av representantskapet selv.
+Kommunestyret eller fylkestinget bestemmer selv om dets representanter skal velges ved forholdsvalg, avtalevalg eller flertallsvalg. Det samme gjelder når representantskapet i et interkommunalt selskap skal velge sine representanter.
+Daglig leder kan ikke velges til medlem av representantskapet.
+Representantskapets medlemmer velges for fire år om ikke annet er fastsatt i selskapsavtalen. Den enkelte deltaker kan foreta nyvalg av sine representantskapsmedlemmer i valgperioden. Nyvalg skjer for den gjenværende del av valgperioden.

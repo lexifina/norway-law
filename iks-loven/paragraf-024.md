@@ -1,0 +1,3 @@
+# § 24. Betalingsvansker
+Har styret grunn til å tro at selskapet ikke kan oppfylle sine forpliktelser etter hvert som de forfaller, skal det straks sende representantskapet melding om forholdet. Tilsvarende melding skal sendes deltakerne. Med mindre representantskapet fremlegger en plan for fortsatt drift som vil gi fordringshaverne dekning ved forfall, og som deltakerne slutter seg til, skal selskapet oppløses og virksomheten avvikles, jf. §§ 32 flg.
+I de første seks måneder etter at melding etter første ledd er sendt til representantskapet og deltakerne, kan det ikke avholdes tvangssalg eller gjennomføres annen tvangsrealisasjon av selskapets eiendeler.

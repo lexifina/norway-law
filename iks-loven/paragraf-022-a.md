@@ -1,0 +1,2 @@
+# § 22 a. Godkjenning av vedtak om lån og leieavtaler
+Dersom en av deltakerne er registrert i ROBEK etter kommuneloven § 28-1, er selskapets vedtak om å ta opp lån ikke gyldig før det er godkjent av departementet. Det samme gjelder for vedtak om å inngå en avtale om leie av varige driftsmidler hvor leieavtalen kan påføre selskapet utgifter ut over de fire neste budsjettårene. En avtale som er inngått i strid med første eller andre punktum er ugyldig.

@@ -1,0 +1,3 @@
+# § 7. Representantskapets myndighet
+Deltakerne utøver sin myndighet i selskapet gjennom representantskapet. Representantskapet er selskapets øverste myndighet og behandler selskapets økonomiplan, årsbudsjett, årsregnskap og årsberetning og andre saker som etter loven eller selskapsavtalen skal behandles i representantskapet.
+Det kan fastsettes i selskapsavtalen at visse arter saker som ellers vil høre under styret, jf. § 13, må godkjennes av representantskapet. Slik bestemmelse kan bare gjøres gjeldende overfor en tredjeperson når bestemmelsen er registrert i Foretaksregisteret, eller når tredjepersonen kjente eller burde kjent bestemmelsen.

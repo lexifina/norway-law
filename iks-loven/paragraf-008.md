@@ -1,0 +1,6 @@
+# § 8. Innkalling til møte i representantskapet
+Representantskapets leder innkaller til møte i representantskapet når det er nødvendig for behandling av en sak som etter loven her eller selskapsavtalen skal behandles av representantskapet, og når det ellers er nødvendig for behandling av en bestemt sak. Representantskapets leder plikter å innkalle representantskapet til møte når styret, revisor, minst en av deltakerne eller minst en tredel av representanskapets medlemmer krever det for behandling av en bestemt angitt sak.
+Møter i representantskapet i et interkommunalt selskap som er omfattet av offentleglova, skal kunngjøres på en hensiktsmessig måte, også hvis det antas at møte vil bli helt eller delvis lukket etter § 8 a første ledd.
+Innkallingen til et representantskapsmøte skal skje med minst fire ukers varsel og skal inneholde sakliste. De enkelte deltakerne skal med samme frist varsles om innkallingen og saklisten.
+Representantskapets leder kan innkalle representantskapet med kortere frist i tilfeller hvor dette er påtrengende nødvendig.
+Saklisten og andre møtedokumenter som ikke er unntatt fra offentlighet, skal være tilgjengelige for allmennheten hos interkommunale selskaper som er omfattet av offentleglova.
