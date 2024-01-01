@@ -1,0 +1,2 @@
+# § 48. Plikt til å overvåke det ytre miljøet
+For å sikre at beslutningsgrunnlaget og kunnskapen om det marine miljøet er tilstrekkelig for å opprettholde en akseptabel miljøtilstand, skal operatøren gjennomføre overvåking av det ytre miljøet. Det skal framskaffes tilstrekkelig informasjon til at forurensning som skyldes egen virksomhet blir oppdaget, kartlagt og vurdert, og at nødvendige tiltak blir iverksatt snarest mulig.

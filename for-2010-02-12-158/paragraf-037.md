@@ -1,0 +1,5 @@
+# § 37. Den alminnelige arbeidstiden
+Arbeidsmiljøloven § 10-4 første, andre, fjerde og femte ledd og § 10-5 gjelder ikke på denne forskriftens område. Arbeidsmiljøloven § 10-4 tredje ledd gjelder bare for arbeidstakere som har vaktplikt etter avtale, instruks og liknende.
+Den alminnelige arbeidstiden skal ikke overstige tolv timer i døgnet og 36 timer i uken i gjennomsnitt i løpet av en periode på høyst ett år. For arbeidstakere som jevnlig arbeider mer enn tre timer om natten skal den alminnelige arbeidstiden ikke overstige 8 timer i døgnet i gjennomsnitt i løpet av en periode på ett år.
+Energidepartementet kan bestemme at arbeidsmiljøloven § 10-12 fjerde ledd, også skal gjelde for arbeidstakersammenslutninger som ikke har innstillingsrett, men som organiserer arbeidstakere i flere virksomheter, og som ikke har et avgrenset geografisk virkefelt.
+For arbeidstakere på flyttbare innretninger som er registrert i fremmed stats skipsregister, kan Energidepartementet vedta at bestemmelser om arbeidstid som er fastsatt i tariffavtaler for sammenlignbar virksomhet i medhold av arbeidsmiljøloven § 10-12 fjerde ledd eller forrige ledd, skal gjelde tilsvarende.
