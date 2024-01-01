@@ -1,0 +1,6 @@
+# § 50. Gjennomføring av testeoperasjon
+Ved formasjonstesting, perforering, hydraulisk frakturering, syrebehandling eller annen kjemisk behandling av borehullet, skal alle nødvendige sikkerhetsforanstaltninger tas. Rettighetshaver skal påse at omgivelsene ikke tilføres syre eller annen kjemisk væske som er brukt under arbeidene.
+Før arbeidet finner sted, skal boredekket ryddes for alle unødvendige hindringer. Bare det personell som er nødvendig for arbeidets utførelse skal befinne seg på boredekket eller dets umiddelbare nærhet. Sikringsventilarrangementet skal trykk- og funksjonstestes. Testestrengens pakningselement skal trykkprøves. Overflate-testeutstyr skal trykkprøves. Før arbeidet startes skal det avholdes sikkerhetsmøte for alle som skal delta i arbeidet.
+Før borehullet blir perforert skal den ytterste forsiktighet utvises for å hindre utilsiktet avfyring og radioutstyr og annet utstyr som kan medføre fare for sprengningsarbeidet skal ikke være i bruk.
+Etter at arbeidet er ferdig, skal opprenskning av borehullet og rengjøring av boredekket foretas omgående.
+Prøver av olje i forbindelse med formasjonstesting skal sendes Havindustritilsynet i henhold til tidligere innsendt program, jf § 32.

@@ -1,0 +1,2 @@
+# § 21. Journal
+Det skal daglig føres journal over de foretatte undersøkelser. For seismiske undersøkelsers vedkommende skal journalen inneholde opplysninger om ladningenes størrelse, antall sprengninger og med nøyaktig angivelse av sprengningspunktene. Journalen skal gi opplysninger om ladninger som helt eller delvis ikke er eksplodert. Journalen skal inneholde opplysninger av betydning for spørsmålet om undersøkelsens konsekvenser for dyre- og plantelivet. Havindustritilsynet og Sysselmesteren kan forlange journalen fremlagt.

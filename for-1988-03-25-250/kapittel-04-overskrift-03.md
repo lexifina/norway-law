@@ -1,0 +1,1 @@
+# Nødvendige tillatelser

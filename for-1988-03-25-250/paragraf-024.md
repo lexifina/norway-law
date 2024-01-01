@@ -1,0 +1,3 @@
+# § 24. Forandringer og vesentlige avvik fra innsendt dokumentasjon
+Sikkerhetsmessige vesentlige endringer og avvik fra tidligere innsendt dokumentasjon, slik som eksempelvis forandringer i settedybden for foringsrør, svekket styrke på foringsrør, overgang til avviksboring, forandring i planene med hensyn til total dybde etc, skal behandles som den opprinnelige dokumentasjon med hensyn til innhenting av tillatelser, godkjennelser etc.
+I nødsituasjoner kan arbeidsprogrammene fravikes uten forutgående tillatelse. Sysselmesteren og Havindustritilsynet skal i slike situasjoner omgående underrettes om endringene og de forhold som har begrunnet disse.
