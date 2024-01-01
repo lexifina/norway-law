@@ -1,0 +1,4 @@
+# § 23 d. Iverksetting av undersøkelse og undersøkelsens omfang
+Når undersøkelsesmyndigheten har mottatt varsel om en ulykke eller alvorlig hendelse etter § 9, skal den straks avgjøre om det er behov for å iverksette umiddelbar undersøkelse. Når undersøkelsesmyndigheten mottar rapport etter § 10, skal den uten ugrunnet opphold avgjøre om og når det skal iverksettes undersøkelse.
+Undersøkelsesmyndigheten avgjør selv omfanget av undersøkelsen og hvordan den skal gjennomføres. Ved avgjørelsen skal undersøkelsesmyndigheten blant annet ta hensyn til hvilken lærdom undersøkelsen forventes å gi med sikte på å forbedre sikkerheten, ulykkens eller hendelsens alvorlighetsgrad, dens innvirkning på sikkerheten generelt og om den inngår i en serie av ulykker eller hendelser.
+Undersøkelsesmyndigheten kan uten hensyn til tidligere avgjørelser beslutte å undersøke forhold ved én eller flere ulykker eller hendelser.
