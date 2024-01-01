@@ -1,0 +1,3 @@
+# § 12. Dokumentasjon for fremtidige arbeider
+Byggherren skal sørge for at det utarbeides dokumentasjon for bygningen eller anlegget om de forhold som kan ha betydning for sikkerhet, helse og arbeidsmiljø ved fremtidige arbeider. Dokumentasjonen skal beskrive bygget eller anleggets konstruksjon og utforming, samt de byggeprodukter som er brukt. Beskrivelsen skal være i det omfang som er nødvendig for å ivareta sikkerhet, helse og arbeidsmiljø ved drift, vedlikehold, endring og riving.
+Byggherren skal sørge for at dokumentasjonen overleveres til eieren av bygget eller anlegget etter ferdigstillelse eller etter at brukstillatelse er gitt.
