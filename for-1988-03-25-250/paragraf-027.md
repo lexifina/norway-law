@@ -1,0 +1,2 @@
+# § 27. Godkjennelse av borelokasjon
+Arbeid på borelokasjonen kan ikke påbegynnes før Havindustritilsynet skriftlig har godkjent borelokasjonens posisjon, arten av de forberedende arbeider, midlertidige eller permanent utstyr, installasjoner og bygg som tenkes anlagt mv i forbindelse med planlagt petroleumsaktivitet. Borehullet skal ikke uten skriftlig tillatelse fra Havindustritilsynet plasseres nærmere tilgrensende utmål enn 200 meter, jf kgl.res. 26. juni 1970 om forskrift om fastlegging av utmålsgrenser på Svalbard.

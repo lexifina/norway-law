@@ -1,0 +1,1 @@
+# Boreinnretning og utstyr

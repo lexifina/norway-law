@@ -1,0 +1,5 @@
+# § 18. Taushetsplikt
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om geologiske, reservoartekniske, boretekniske og operasjonelle forhold på Svalbard i rapporter eller annet materiale som tilstiles offentlige myndigheter. Denne plikt gjelder i et tidsrom av 5 år regnet fra det tidspunkt informasjonene ble tilgjengelige for myndighetene m m.
+Havindustritilsynet kan fravike dette i særskilte tilfeller i samråd med rettighetshaver.
+For øvrig kommer bestemmelsene om taushetsplikt i forvaltningslovens §§ 13-13f til anvendelse for forvaltningsorganer som mottar eller behandler opplysninger eller materiale om virksomhet i henhold til denne forskrift, dog slik at taushetsplikt bortfaller etter 20 år.
+Bestemmelsen i de foregående ledd er ikke til hinder for at Havindustritilsynet gir generelle uttalelser om virksomheten og muligheten for å finne petroleumsforekomster.
