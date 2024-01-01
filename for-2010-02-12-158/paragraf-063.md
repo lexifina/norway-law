@@ -1,0 +1,3 @@
+# § 63. Myndighetenes adgang til innretninger og fartøy
+Representanter fra Energidepartementet, Klima- og miljødepartementet, Helse- og omsorgsdepartementet, Helsedirektoratet, Havindustritilsynet, Miljødirektoratet, Statens helsetilsyn, Statens strålevern eller annen myndighet som Havindustritilsynet bestemmer, skal ha adgang til innretninger og fartøy for petroleumsvirksomhet til enhver tid, samt til materiale og opplysninger som er nødvendig for å gjennomføre tilsynsvirksomhet, og ha rett til å delta i undersøkelser. Representanter for myndighetene har rett til å oppholde seg på innretninger og fartøy så lenge det er nødvendig.
+Operatøren skal sørge for transport av representanter for myndighetene til og fra fartøy og innretninger til havs, samt for opphold om bord.

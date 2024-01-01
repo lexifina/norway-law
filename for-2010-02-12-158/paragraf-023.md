@@ -1,0 +1,3 @@
+# § 23. Generelle krav til materiale og opplysninger
+Den ansvarlige skal utarbeide og oppbevare materiale og opplysninger som er nødvendig for å kunne sikre og dokumentere at virksomheten planlegges og gjennomføres på en forsvarlig måte. Den ansvarlige skal sikre at det kan skaffes til veie dokumentasjon på at krav fastsatt i og i medhold av denne forskriften og utfyllende forskrifter, er oppfylt. Den ansvarlige skal fastsette kriterier for hva som er nødvendig dokumentasjon. Omfanget av dokumentasjonen skal være tilpasset virksomhetens egenart og den aktiviteten som gjennomføres.
+Slikt materiale og slike opplysninger som nevnt i første ledd skal gjøres vederlagsfritt tilgjengelig i Norge for myndigheter som nevnt i denne forskriften § 67.

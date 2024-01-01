@@ -1,0 +1,2 @@
+# § 64. Observatører
+Representanter fra Energidepartementet og Havindustritilsynet skal kunne delta som observatører i samarbeidsorganer som opprettes i henhold til avtaler som nevnt i petroleumsloven § 3-3, av hensyn til samordnet virksomhet som nevnt i petroleumsloven § 4-7 og i eventuelle samarbeidsorganer som opprettes i forbindelse med anlegg og drift av innretninger som nevnt i petroleumsloven § 4-3.

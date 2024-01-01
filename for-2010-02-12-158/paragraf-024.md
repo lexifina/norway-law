@@ -1,0 +1,4 @@
+# § 24. Bruk av anerkjente normer
+Når den ansvarlige bruker en norm som anbefales i veiledningen til en forskriftsbestemmelse som en måte å oppfylle forskriftens krav på innen helse-, arbeidsmiljø- og sikkerhetsområdet, kan den ansvarlige normalt legge til grunn at forskriftens krav er oppfylt.
+Ved bruk av andre løsninger enn de som anbefales i veiledningen til en forskriftsbestemmelse, skal den ansvarlige kunne dokumentere at den valgte løsningen oppfyller forskriftens krav. Kombinasjoner av deler av normer skal unngås, hvis ikke den ansvarlige kan dokumentere at en oppnår et tilsvarende nivå for helse, arbeidsmiljø og sikkerhet som det forskriftens krav angir.
+Eksisterende dokumentasjon, deriblant maritime sertifikater som er utstedt av norsk eller fremmed flaggstatsmyndighet, kan legges til grunn for å dokumentere oppfylling av krav som er gitt i eller i medhold av denne forskriften.

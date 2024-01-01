@@ -1,0 +1,7 @@
+# § 67. Tilsynsmyndighet
+Havindustritilsynet, Miljødirektoratet, Statens helsetilsyn, Mattilsynet og Direktoratet for strålevern og atomsikkerhet eller den disse gir myndighet, fører tilsyn på sine respektive ansvarsområder med at de kravene som er gitt i helse-, miljø- og sikkerhetslovgivningen, blir etterlevd.
+Havindustritilsynet fører tilsyn med systemet for styring som etableres etter denne forskriften og fatter de vedtakene som er nødvendige for å gjennomføre bestemmelser om krav til de administrative delene av styringssystemene som er gitt i denne forskriften eller i utfyllende forskrifter, med de begrensninger som følger av denne paragrafens tredje ledd. Dette gjøres i samarbeid med Miljødirektoratet, Statens helsetilsyn, Mattilsynet og Direktoratet for strålevern og atomsikkerhet eller den disse gir myndighet på deres ansvarsområder.
+For landanleggene som nevnt i § 6 bokstav e, fører likevel Miljødirektoratet og Direktoratet for strålevern og atomsikkerhet tilsyn med styringssystemet på forurensningslovens område.
+Havindustritilsynet kan gjøre unntak fra krav til styringssystem som er gitt i denne forskriften eller utfyllende forskrifter for petroleumsvirksomhet til havs.
+For virksomhet på landanlegg kan de respektive myndighetene for sine områder gjøre unntak fra krav til styringssystem.
+Tilsynsmyndighetene kan på sine respektive myndighetsområder pålegge operatøren å få gjennomført, eller eventuelt selv å gjennomføre verifikasjoner, jf. § 19.

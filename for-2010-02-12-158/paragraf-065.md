@@ -1,0 +1,3 @@
+# § 65. Opplæring av offentlig ansatte
+Energidepartementet kan pålegge rettighetshaveren å stå for opplæring av ansatte i Energidepartementet, Klima- og miljødepartementet, Helse- og omsorgsdepartementet, Helsedirektoratet, Havindustritilsynet, Miljødirektoratet, Statens helsetilsyn, Direktoratet for strålevern og atomsikkerhet eller annen norsk myndighet. Opplæringen skal skje etter nærmere avtale.
+Energidepartementet kan pålegge rettighetshaveren å sørge for at lærere som underviser i petroleumstilknyttede fag ved norske undervisningsinstitusjoner, får hospitere ved rettighetshaverens kontorer, anlegg og innretninger.

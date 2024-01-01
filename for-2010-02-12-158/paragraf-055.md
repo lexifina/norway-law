@@ -1,0 +1,2 @@
+# § 55. Krav til konsekvensvurderinger med mer
+Før det fattes vedtak etter § 53 eller § 54, skal det finne sted en avveining mellom de ulike interessene som blir berørt. Ved denne avveiningen skal det blant annet legges vekt på hvilke konsekvenser opprettelse av, endringer i eller opphør av slike soner, kan ha for gjennomføring av petroleumsvirksomheten og annen virksomhet. Det skal videre vurderes og klargjøres hvilke restriksjoner som vil gjelde i sikkerhetssonen.
