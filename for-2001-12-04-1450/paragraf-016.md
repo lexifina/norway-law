@@ -1,0 +1,3 @@
+# § 16. Beskyttelse mot skadelige termiske virkninger
+Elektriske anlegg og utstyr skal være slik at de ikke representerer noen fare for antennelse av brennbare materialer på grunn av for høy temperatur eller lysbue. Det skal ved normal drift heller ikke være noen fare for at mennesker eller befraktede dyr kan bli utsatt for forbrenning.
+Termiske apparater skal ha innretning som virker slik at apparatene kobles ut før farlige temperatur oppstår, med mindre apparatet er tillatt brukt uten slik innretning. Utkoblingsinnretningen skal ha friutløsning og manuell tilbakestilling. Når det i tillegg til overtemperaturvern er termostat, skal disse virke uavhengig av hverandre. Feil ved den ene eller dets tilledninger, skal ikke kunne sette den andre ut av funksjon.

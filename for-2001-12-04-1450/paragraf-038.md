@@ -1,0 +1,8 @@
+# § 38. Kabler
+Bortsett fra spesielle tilfeller der tilsynsmyndigheten kan gi dispensasjon, skal all metallkledning og armering av kabler være elektrisk sammenhengende og jordet.
+Alle elektriske kabler skal minst være av brannhemmende type og skal være slik installert at deres opprinnelige brannhemmende egenskaper ikke forringes. Tilsynsmyndigheten kan tillate bruk av spesielle kabeltyper når dette er nødvendig til spesielle formål, blant annet radiofrekvenskabler, som ikke oppfyller ovennevnte krav.
+Kabler og ledningsnett som benyttes til hoved- eller nødkraft, belysning, intern kommunikasjon eller signaler, skal så langt det er praktisk mulig legges utenom bysse, maskinrom av kategori A og andre områder med høy brannrisiko, vaskerom, rom for håndtering og foredling av fisk, samt andre rom med høyt innhold av fuktighet. Kabler som forbinder brannpumper til nødtavlen skal være av en type som er motstandsdyktig mot brann dersom de er lagt gjennom områder med høy brannrisiko. Så langt det lar seg gjøre, bør alle slike kabler legges slik at de ikke settes ut av funksjon av varme i skott forårsaket av brann i tilstøtende rom.
+Når kabler trekkes gjennom rom der det foreligger risiko for brann eller eksplosjon i tilfelle elektrisk feil, skal det tas særskilte forholdsregler mot slik risiko til tilsynsmyndighetens tilfredshet.
+Kabler og ledninger skal være festet slik at gnissing og annen skade unngås.
+Avslutninger og koplinger skal være slik at kabelens opprinnelige elektriske, mekaniske og brannhemmende egenskaper beholdes, om nødvendig også kabelens motstandsdyktighet mot brann.
+Kabler installert i kjøle- og fryserom skal være egnet for lave temperaturer og høy fuktighet.
