@@ -1,0 +1,5 @@
+# § 82. Patentstyrets saksopplysning m.m.
+Patentstyret skal undersøke sertifikatregistret for å kontrollere at vilkåret i legemiddelforordningen artikkel 3 bokstav c eller plantemiddelforordningen artikkel 3 nr. 1 bokstav c er oppfylt.
+Før et supplerende beskyttelsessertifikat for legemidler kan utstedes, skal det fra Direktoratet for medisinske produkter være innhentet bekreftelse på at den tillatelsen som er omtalt i legemiddelforordningen artikkel 3 bokstav b, er den første som er gitt til å markedsføre produktet som legemiddel her i riket. Før et supplerende beskyttelsessertifikat for plantefarmasøytiske produkter kan utstedes, skal det fra Mattilsynet være innhentet bekreftelse på at den tillatelsen som er omtalt i plantemiddelforordningen artikkel 3 nr. 1 bokstav b, er den første som er gitt til å markedsføre produktet som plantefarmasøytisk produkt her i riket.
+For frister etter legemiddelforordningen artikkel 10 nr. 3 og plantemiddelforordningen artikkel 10 nr. 3 gjelder reglene i patentloven § 15 annet og tredje ledd og § 16 tilsvarende.
+§ 27a første ledd gjelder tilsvarende ved behandlingen av søknad om sertifikat og søknad om forlengelse.

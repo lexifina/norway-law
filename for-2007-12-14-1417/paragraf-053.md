@@ -1,0 +1,2 @@
+# § 53. Kunngjøring av supplerende beskyttelsessertifikat
+Søknad om supplerende beskyttelsessertifikat eller forlengelse av slikt sertifikat, utstedelse av sertfikat eller forlengelse og avslag på eller henleggelse av slik søknad skal kunngjøres sammen med opplysningene nevnt i § 44 nr. 1 til 12. Faller et sertifikat bort eller kjennes ugyldig, eller oppheves forlengelsen av et sertifikat, kunngjøres dette.

@@ -1,0 +1,7 @@
+# § 90. Vederlag for utøvelse av rett etter patentloven § 3b første ledd
+Det skal ikke betales vederlag for utøvelse av retten etter patentloven § 3b første ledd når formeringsmaterialet brukes i små gårdsbruk. Små gårdsbruk er gårdsbruk som:
+1) når det gjelder poteter, ikke dyrker et areal som overstiger det som er nødvendig for å produsere 185 tonn poteter pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter enn poteter
+2) når det gjelder fôrvekster, ikke dyrker disse vekstene i en periode på mer enn fem år på et areal som overstiger det som er nødvendig for å produsere 92 tonn korn pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter
+3) når det gjelder de øvrige plantearter som er nevnt i forskriften her § 89, ikke dyrker disse vekstene på et areal som overstiger det som er nødvendig for å produsere 92 tonn korn pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter.
+Andre gårdbrukere skal betale rettighetshaveren et rimelig vederlag som skal være betydelig lavere enn det beløpet som kreves for en lisens til å produsere formeringsmateriale av samme slag i samme område. Dersom ikke annet er avtalt, skal vederlaget tilsvare 50 prosent av det beløpet som kreves for en slik lisens som nevnt i første punktum i leddet her.
+En gårdbruker skal ikke betale vederlag for bruk av avlsdyr eller annet animalsk formeringsmateriale i samsvar med patentloven § 3b annet ledd.

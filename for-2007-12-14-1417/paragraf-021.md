@@ -1,0 +1,3 @@
+# § 21. Endringer av beskrivelsen og tegninger
+I beskrivelsen med tilhørende tegninger kan søkeren kun foreta endringer eller tillegg som er nødvendige for å oppfylle kravene i patentloven § 8. Slike endringer eller tillegg må ikke medføre at patentkravene omfatter noe som ikke fremgår av basisdokumentene.
+Ved levering av ny beskrivelse skal søkeren avgi en erklæring om hvilke deler av beskrivelsen som ikke stemmer med tidligere levert beskrivelse, samt på hvilken måte endringene som er gjort innebærer noe nytt med hensyn til realiteten. Med mindre særlige grunner tilsier noe annet, skal Patentstyret uten særskilt kontroll godta en slik erklæring.

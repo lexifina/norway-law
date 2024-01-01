@@ -1,0 +1,3 @@
+# § 35. Protest
+Dersom Patentstyret før patent er meddelt mottar en protest som er av betydning for vurderingen av søknaden, skal Patentstyret gi søkeren melding om dette. Er det i protesten påberopt annet nyhetshinder enn åpenlys utøvelse, skal Patentstyret umiddelbart undersøke om dette medfører at søkeren bør tilskrives om realiteten i saken. Inneholder protesten påstand om åpenlys utøvelse av oppfinnelsen, opptas den som regel til vurdering først etter utløpet av fristen for å nedlegge innsigelse og bare hvis den samme påstand også fremsettes i en innsigelse.
+Protest mot meddelelse av patent gir ikke partsrettigheter. Dersom protesten ikke tas til følge, skal vedkommende som har fremsatt den gjøres oppmerksom på adgangen til å inngi innsigelse.

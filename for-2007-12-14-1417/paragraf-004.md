@@ -1,0 +1,2 @@
+# § 4. Basisdokumenter
+Søknadens basisdokumenter er beskrivelsen av oppfinnelsen med tilhørende tegninger og patentkrav som leveres på norsk eller engelsk senest den dagen søknaden ble eller skal anses levert. Leveres ikke beskrivelsen med tilhørende tegninger og patentkrav på norsk eller engelsk senest denne dagen, skal den første beskrivelsen med tilhørende patentkrav som deretter leveres på norsk eller engelsk, anses som basisdokumenter i den utstrekning innholdet tydelig fremgår av de dokumentene som forelå ved leveringen av søknaden.
