@@ -1,0 +1,2 @@
+# § 16. Pålegg om øyeblikkelig stans eller opphør av bruk
+Tilsynsmyndigheten kan pålegge øyeblikkelig stans av driften helt eller delvis eller opphør av bruk med øyeblikkelig virkning dersom det avdekkes forhold som kan medføre fare for helse, miljø eller sikkerhet. Slikt pålegg kan gis uten forhåndsvarsel. Om nødvendig kan tilsynsmyndigheten kreve bistand av politiet for gjennomføring av pålegg om stans eller opphør av bruk.

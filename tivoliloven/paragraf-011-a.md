@@ -1,0 +1,4 @@
+# § 11 a. Taushetsplikt for virksomhetens personell
+Enhver som utfører tjeneste eller arbeid for den som driver virksomhet etter loven her, har taushetsplikt som nevnt i forvaltningsloven §§ 13 flg. om det de får kjennskap til i forbindelse med undersøkelser og rapportering av ulykker og hendelser etter loven her.
+Personer som nevnt i første ledd har i tillegg taushetsplikt om alle opplysninger som er innrapportert etter § 10, og om opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter § 23 f og § 23 k. Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre, eller opplysningene er nødvendige for å forklare årsaken til en ulykke eller hendelse.
+Taushetsplikt som nevnt i annet ledd er ikke til hinder for at opplysningene bringes videre i den grad den som har krav på taushet samtykker, forutsatt at opplysningene har statistisk form eller de er alminnelig tilgjengelig andre steder.
