@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriften regulerer Norges vassdrags- og energidirektorats (NVE) adgang til å kreve inn sektoravgifter til dekning av kostnader med tilsyns- og kontrollarbeid i medhold av lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven), lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven) og lov 14. desember 1917 nr. 17 om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven).
