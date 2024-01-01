@@ -1,0 +1,13 @@
+# I
+I forskrift 6. februar 2003 nr. 141 om innhold i og merking og utforming av tobakksvarer mv. gjøres følgende endring:
+§ 31 skal lyde:
+§ 31. Minstestørrelser og -vekt for tobakksvarer
+En enkeltpakning for salg til forbruker med
+- sigaretter skal inneholde minst 20 sigaretter
+- rulletobakk skal inneholde minst 30 gram
+- porsjonssnus skal inneholde minst 20 porsjoner og 15 gram
+- løssnus skal inneholde minst 30 gram.
+Disse enkeltpakningene kan ikke inneholde mindre pakninger eller kunne deles opp i mindre pakninger.
+Sigarer kan selges enkeltvis med advarselsmerking på pakningen.
+# II
+Forskriften trer i kraft 1. januar 2024.
