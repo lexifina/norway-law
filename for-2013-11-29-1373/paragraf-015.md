@@ -1,0 +1,2 @@
+# § 15. Håndtering av egentilvirket medisinsk utstyr og sammenstilt medisinsk utstyr
+Håndtering av egentilvirket in-vitro diagnostisk medisinsk utstyr og medisinsk utstyr som produseres og brukes innenfor samme helseinstitusjon, jf. forordning (EU) 2017/745 (MDR) og forordning (EU) 2017/746 (IVDR) artikkel 5 nr. 5 skal oppfylle kravene i § 8 til § 12 og § 16 og § 17. Tilsvarende krav gjelder for sammenstilt medisinsk utstyr.
