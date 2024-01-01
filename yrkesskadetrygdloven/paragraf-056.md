@@ -1,0 +1,6 @@
+# § 56
+Denne lov omfatter også den som oppebærer stønad eller pensjon av statskassen for skade eller sykdom påført under militær tjenstgjøring før 1 januar 1946, uten at riket var i krig, under arbeidstjeneste under krigen 9 april 1940 til 8 mai 1945 og ved mineulykker under og etter krigen august 1914 til 11 november 1918.
+Loven omfatter også den som oppebærer stønad eller pensjon av statskassen etter stortingsbeslutning av 11 mai 1920 om pensjon m.v. til hærens og marinens flyvende personell og som ble påført skade eller sykdom i tiden 1 januar 1946 til 1 juli 1961, og den som oppebærer stønad eller pensjon av statskassen etter stortingsbeslutning av 3 juni 1925 om pensjon m.v. til det på undervannsbåt tjenstgjørende personell og som ble påført skade eller sykdom i tiden 1 januar 1946 til 1 juli 1961.
+Det samme gjelder enker, barn, ascendenter eller andre som mottar stønad eller pensjon etter personer som er døde av skade eller sykdom påført som nevnt i første og annet ledd.
+Bestemmelsene i § 53 punkt 1, 3 og 4 får tilsvarende anvendelse.
+Blir uføregraden i henhold til § 53 punkt 3 bokstav b fastsatt til mindre enn 30 prosent, skal pensjonen løses ut en gang for alle med et beløp som svarer til det tredobbelte av årspensjonen.

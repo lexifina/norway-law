@@ -1,0 +1,2 @@
+# § 24. Stønad ved krigsulykke.
+Dersom trygdet får legemsskade eller dør som følge av krigsulykke som ikke går inn under den til enhver tid gjeldende lovgivning om krigspensjonering, eller som følge av overfall av sjørøvere på fartøy, gir trygden stønad etter bestemmelsene i ovennevnte lovgivning. Stønad ved sykebehandling utenfor riket gis dog etter bestemmelsene i lov om syketrygd. Stønad ved gravferd utenfor riket gis etter bestemmelsene i lov om syketrygd og i lov om folketrygd.

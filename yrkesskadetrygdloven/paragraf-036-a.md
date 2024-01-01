@@ -1,0 +1,2 @@
+# § 36 a
+Er det grunn til å anta at arbeidsgiver, pensjonsordning eller offentlig myndighet har grunnlag for å kreve refusjon i ytelse etter loven her kan trygdens organer, i den utstrekning Arbeids- og velferdsdirektoratet bestemmer, uten hinder av bestemmelsen i § 46 gjøre vedkommende kjent med den skadedes rettigheter. Ytelsen kan i så fall holdes tilbake i inntil tre uker etter at opplysningen er kommet fram til vedkommende.
