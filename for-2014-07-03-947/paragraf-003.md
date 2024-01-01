@@ -1,0 +1,23 @@
+# § 3. Grunnlaget for beregning av uføretrygd
+Ved fastsetting av grunnlaget for beregning av uføretrygd tas det utgangspunkt i personens grunn- og tilleggspensjon per 31. desember 2014 uten reduksjon for uføregrad. Med grunn- og tilleggspensjon menes den delen av personens uførepensjon som ikke er basert på særtillegg eller avdød ektefelles rettigheter som er anvendt ved beregning av uførepensjon til gjenlevende ektefelle. For medlemmer som er gift eller samboer og som per 31. desember 2014 mottar grunnpensjon tilsvarende 100 prosent av grunnbeløpet, skal særtillegget anses som tilleggspensjon.
+Grunn- og tilleggspensjon som definert i første ledd skal omregnes til en årlig størrelse basert på folketrygdens gjennomsnittlig grunnbeløp for 2014.
+Det skal fastsettes et beløp for hver uførepensjonist. Dersom vedkommende har rett til minste årlige ytelse i uføretrygden etter ordinær sats, jf. folketrygdloven § 12-13 andre ledd, skal beløpet fastsettes på følgende måte:
+a) Dersom årlig størrelse etter andre ledd er lavere enn 39 601 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,53322.
+b) Dersom årlig størrelse etter andre ledd er fra 39 601 kroner til 54 096 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 2,04430 og deretter reduseres med 20 239 kroner.
+c) Dersom årlig størrelse etter andre ledd er fra 54 097 kroner til 78 594 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,67018.
+d) Dersom årlig størrelse etter andre ledd er fra 78 595 kroner til 162 709 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 2,00658 og deretter reduseres med 26 439 kroner.
+e) Dersom årlig størrelse etter andre ledd er fra 162 710 kroner til 165 479 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 2,36609 og deretter reduseres med 84 934 kroner.
+f) Dersom årlig størrelse etter andre ledd er fra 165 480 kroner til 260 741 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,41610 og deretter økes med 72 269 kroner.
+g) Dersom årlig størrelse etter andre ledd er fra 260 742 kroner til 280 943 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,06474 og deretter økes med 163 883 kroner.
+h) Dersom årlig størrelse etter andre ledd er høyere enn 280 943 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,60657 og deretter økes med 11 659 kroner.
+Dersom medlemmet har rett til minste årlige ytelse i uføretrygden etter høy sats, jf. folketrygdloven § 12-13 andre ledd, skal beløpet fastsettes på følgende måte:
+a) Dersom årlig størrelse etter andre ledd er lavere enn 39 601 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,53322.
+b) Dersom årlig størrelse etter andre ledd er fra 39 601 kroner til 54 096 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 2,04430 og deretter reduseres med 20 239 kroner.
+c) Dersom årlig størrelse etter andre ledd er fra 54 097 kroner til 78 594 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,67018.
+d) Dersom årlig størrelse etter andre ledd er fra 78 595 kroner til 162 709 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 2,00658 og deretter reduseres med 26 439 kroner.
+e) Dersom årlig størrelse etter andre ledd er fra 162 710 kroner til 180 000 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 2,36609 og deretter reduseres med 84 934 kroner.
+f) Dersom årlig størrelse etter andre ledd er fra 180 001 kroner til 260 741 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,41610 og deretter økes med 86 063 kroner.
+g) Dersom årlig størrelse etter andre ledd er fra 260 742 kroner til 306 402 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,06474 og deretter økes med 177 678 kroner.
+h) Dersom årlig størrelse etter andre ledd er høyere enn 306 402 kroner, skal beløpet fastsettes ved at summen etter andre ledd multipliseres med 1,60657 og deretter økes med 11 659 kroner.
+Grunnlaget for beregning av uføretrygd fastsettes ved at beløpet etter tredje ledd eller fjerde ledd divideres med egen trygdetid og multipliseres med 40.
+Grunnlaget for beregning av uføretrygd skal reguleres i samsvar med senere endringer i grunnbeløpet jf. folketrygdloven § 1-4. Grunnlaget skal ikke fastsettes på nytt som følge av endringer i personens sivilstand eller i ektefellens inntekt etter 31. desember 2014.

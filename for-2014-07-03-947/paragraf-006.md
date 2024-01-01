@@ -1,0 +1,2 @@
+# § 6. Grunnlaget for beregning av uføretrygd der mottaker har en uførepensjon som er redusert fordi mottakeren oppholder seg på en institusjon per 31. desember 2014
+I de tilfeller der en uførepensjon per 31. desember 2014 er redusert fordi personen har rett til fri forpleining i helseinstitusjon o.l. under statlig eller fylkeskommunalt ansvar eller sitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalter, skal grunnlaget for beregning av uføretrygd fastsettes som i § 3 til § 5 med utgangspunkt i den ureduserte pensjonen.
