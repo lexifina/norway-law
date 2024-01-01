@@ -1,0 +1,6 @@
+# § 11. Taushetsplikt
+Enhver som utfører arbeid eller tjeneste for tilsynsmyndigheten, har taushetsplikt etter forvaltningsloven om det de får kjennskap til under utføring av arbeidet eller tjenesten. Forvaltningsloven § 13 b første ledd nr. 6 gjelder likevel ikke.
+Personer som nevnt i første ledd har i tillegg taushetsplikt om alle opplysninger som er innrapportert etter § 10, og om opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter § 23 f og § 23 k så langt det passer. Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre, eller opplysningene er nødvendige for å forklare årsaken til en taubaneulykke eller taubanehendelse.
+Taushetsplikt etter første og andre ledd er ikke til hinder for at opplysningene bringes videre i den grad den som har krav på taushet samtykker, eller dersom opplysningene har statistisk form eller er alminnelig tilgjengelig andre steder.
+Opplysninger som er taushetsbelagt etter andre ledd, kan gis videre til utenlandske og internasjonale myndigheter og organisasjoner når dette følger av internasjonale avtaler som Norge har inngått.
+Opplysninger som tilsynsmyndigheten mottar i medhold av § 10, kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene.
