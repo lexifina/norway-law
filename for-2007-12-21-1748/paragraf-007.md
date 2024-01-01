@@ -1,0 +1,2 @@
+# § 7. Krav til innhold i måleprotokollen
+Måleprotokollen skal inneholde en volumtabell for hver måletank eller gruppe av like måletanker. Tabellen skal være inndelt i centimeter eller desimeter, ha en angivelse av den totale referansehøyde H samt eventuelt en interpolasjonstabell inndelt i millimeter. På toppen av tabellen skal det angis om den gjelder for «innage» (måling fra dip-plate til væskeflate) eller «ullage» (måling fra knivegg til væskeflate).

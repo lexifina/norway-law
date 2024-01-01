@@ -1,0 +1,3 @@
+# § 5. Krav til når måletanken skal kalibreres
+Måletanken skal kalibreres i henhold til kravene i forskriften her, hvert tiende år eller når måletanken av andre grunner inspiseres eller er gjenstand for service. Kalibrering skal uansett foretas innen maksimalt tretten år etter forrige kalibrering. Krav til når måletanken skal kalibreres gjelder ikke dersom bruker har internkontroll som sikrer krav til måletanken.
+Måletanker som er reparert på en slik måte at det kan påvirke måleresultatet, skal kalibreres på nytt før de tas i bruk som grunnlag for beregning av økonomisk oppgjør. Det samme gjelder måletanker som er blitt utsatt for behandling som medfører risiko for at måletanken ikke lenger har de egenskaper som dokumentert ved kalibrering.
