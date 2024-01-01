@@ -1,0 +1,3 @@
+# § 31-14. Pålegg om tiltak mot overvann på bebygd eiendom
+Der det er nødvendig for å avverge fare for skade eller vesentlig ulempe på person, eiendom eller miljø, kan kommunen pålegge en eier eller fester av bebygd eiendom å sørge for forsvarlig håndtering av overvann på egen eiendom, forsvarlig avledning av overvann fra eiendommen, eller å gjennomføre en kombinasjon av håndtering og avledning av overvann. Pålegget skal kunne gjennomføres uten uforholdsmessig stor kostnad.
+Eieren eller festeren skal varsles etter § 32-2 før det gis pålegg etter første ledd. Kommunen skal ved utferdigelse av pålegget fastsette en frist for oppfyllelse.
