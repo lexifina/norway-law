@@ -1,0 +1,6 @@
+# § 21. Visning av resultat
+Resultatet skal vises på en visningsanordning og salgskvittering. Resultatet på visningsanordningen skal vises for begge parter i transaksjonen. Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.
+Alle resultater skal være tydelige og utvetydige og ledsaget av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måleteknisk kontrollerte resultatene.
+Dersom det skal betales et tillegg for en ekstratjeneste som føreren taster inn manuelt, skal denne utelates fra den viste oppdragsprisen. I et slikt tilfelle kan et taksameter midlertidig vise verdien av oppdragsprisen, med tillegget medregnet.
+Dersom oppdragsprisen beregnes etter beregningsmåte D, kan et taksameter ha en ytterligere visningsmåte der bare den samlede avstanden og turens varighet vises i sanntid.
+Alle verdier som vises for passasjeren, skal identifiseres på en hensiktsmessig måte. Disse verdiene og deres identifikasjon skal være klart leselige i dagslys og om natten.

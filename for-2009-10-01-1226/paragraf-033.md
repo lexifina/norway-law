@@ -1,0 +1,2 @@
+# § 33. Krav til installasjon
+Et taksameter skal installeres i henhold til produsentens anvisninger. Ved installasjon av et taksameter skal taksameterets tilkobling til strømtilførsel sikres slik at frakobling ikke er mulig uten at det etterlater spor. Ved installasjonen skal også taksameteret og dets innstillinger sikres i henhold til taksameterets samsvarsvurdering og produsentens anvisninger. Alle plomberinger må ha et unikt identitetsmerke.
