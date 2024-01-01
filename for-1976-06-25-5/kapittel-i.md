@@ -1,0 +1,1 @@
+# I. Normpris ved ligningsbehandlingen.
