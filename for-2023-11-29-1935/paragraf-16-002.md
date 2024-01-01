@@ -1,0 +1,7 @@
+# § 16-2. Vurdering av den skriftlige forskerlinjeoppgaven
+Vurderingskomiteens bedømmelse skal normalt foreligge senest innen en måned etter at komiteen har mottatt forskerlinjeoppgaven til vurdering. Vurderingskomiteen kan kreve fremlagt studentens grunnlagsmateriale og utfyllende eller oppklarende tilleggsinformasjon. Komiteen utarbeider en felles utfyllende tilbakemelding på oppgaven som består av en samlet vurdering av innholdet som leveres før den muntlige presentasjonen.
+Fakultetet fastsetter tidspunkt for den muntlige presentasjonen av forskerlinjeoppgaven. Presentasjonen skal gjennomføres 1-3 uker etter at studenten har mottatt vurderingen av oppgaven. Tidspunktet skal tilpasses ordinær eksamen samme semester og normalt ikke være nærmere ordinære eksamener enn tre uker.
+Forskerlinjeoppgaven blir bedømt bestått eller ikke bestått på bakgrunn av en samlet vurdering av den skriftlige oppgaven og den muntlige presentasjonen av den.
+En ikke bestått forskerlinjeoppgave kan likevel anbefales innlevert i omarbeidet versjon for ny vurdering én gang dersom komiteen mener at en omarbeiding vil kunne gi tilfredsstillende resultat.
+Vedtak om ikke bestått forskerlinjeoppgave kan påklages etter lov 1. april 2005 nr. 15 om universiteter og høyskoler § 5-3 (klage på karakter) og § 5-2 (klage på formelle feil ved eksamen).
+Behandling av mistanke om fusk eller forsøk på fusk følger NTNUs fastsatte rutiner for dette.

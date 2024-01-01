@@ -1,0 +1,4 @@
+# § 9-2. Forskerlinjeoppgaves innhold og omfang
+Selve forskerlinjeoppgaven skal inneholde 1-2 publiserte og/eller ikke-publiserte vitenskapelige manuskript i tillegg til en samlet presentasjon av oppnådde vitenskapelige resultater med en sammenstillende diskusjon. Den samlede fremstillingen skal være et selvstendig vitenskapelig og oppdatert dokument, der studenten har mulighet for å utdype og eventuelt korrigere aspekter i manuskriptene.
+Det forventes at studenten er førsteforfatter på minst en av artiklene. Ikke-publiserte monografier kan også godtas. Ikke-publiserte monografier skal bedømmes etter samme kriterier som en samling publiserte artikler med sammenskrivning. Det betyr at kravene til vitenskapelig kvalitet er identiske.
+Oppgaven skal være studentens eget arbeid og skal bidra til å utvikle ny faglig kunnskap i fagfeltet.

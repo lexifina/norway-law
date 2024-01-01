@@ -1,0 +1,2 @@
+# § 3. Fullført forskerlinje i medisin
+Fullført og bestått forskerlinje vil gi studenten utvidet karakterutskrift «cand.med. med forskerlinjen i medisin» og tildeles samtidig med vitnemålet for medisinstudiet. Forskerlinjen fører ikke til en egen grad. Arbeidet nedlagt i forskerlinjen inngår heller ikke i cand.med.-graden. Opplæringsdelen og arbeidet som er gjennomført ved forskerlinjen, kan vurderes å inngå i en ph.d.-grad dersom man velger å søke opptak til ph.d.-utdanningen.
