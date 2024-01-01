@@ -1,0 +1,2 @@
+# § 8. Avlevering av fysisk pasientarkivmateriale fra virksomheter som yter eller har ytet nasjonale eller flerregionale behandlingstjenester
+Virksomheter i spesialisthelsetjenesten som yter eller tidligere har ytet nasjonale eller flerregionale behandlingstjenester, skal avlevere alt materiale fra fysiske pasientarkiv som er skapt som ledd i denne tjenesten. Dersom tjenesten er integrert i en avdeling eller annen større del av virksomheten, kan virksomheten velge å avlevere alt materiale fra den arkivdelen som tjenesten inngår i.

@@ -1,0 +1,4 @@
+# § 31. Tilgjengeliggjøring og annen behandling av helseopplysninger
+Helseopplysninger i Helsearkivregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.
+Søknad om tilgjengeliggjøring av helseopplysninger til pasientens pårørende avgjøres av Norsk helsearkiv.
+Ved tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h. Det skal vurderes om pårørende først skal informeres og gis adgang til å motsette seg at opplysninger tilgjengeliggjøres med direkte personidentifiserende kjennetegn, jf. helseregisterloven § 19a andre ledd andre punktum. Norsk helsearkiv kan fastsette nærmere formkrav for søknad om tilgjengeliggjøring av opplysninger.
