@@ -1,0 +1,2 @@
+# § 3-2. (Informasjonsstrategi rettet mot brukergrupper)
+For å fremme bruken av data fra Kreftregisteret og for å bygge opp informasjon og kunnskap, jf. forskriften § 1-3, skal den dataansvarlige ha en aktiv informasjonsstrategi og -plan rettet mot så vel helseforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helse- og omsorgstjenesteforskning og samfunnsforskning.
