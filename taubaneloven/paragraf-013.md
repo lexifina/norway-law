@@ -1,0 +1,2 @@
+# § 13. Tilsynsmyndighetens adgang til virksomheten
+Tilsynsmyndigheten skal til enhver tid ha uhindret adgang til ethvert sted som omfattes av loven. En representant for taubanevirksomheten har rett til, og kan pålegges, å være til stede under tilsynet. Tilsynsmyndigheten kan likevel bestemme at representanter for taubanevirksomheten ikke skal være til stede ved intervjuer av arbeidstakere hvis tilstedeværelsen ikke kan skje uten vesentlig ulempe, eller hvis formålet med tilsynet kan settes i fare.

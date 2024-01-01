@@ -1,0 +1,16 @@
+# § 23 k. Undersøkelsesmyndighetens taushetsplikt
+Enhver som utfører tjeneste eller arbeid for undersøkelsesmyndigheten har taushetsplikt etter forvaltningsloven.
+Personer som nevnt i første ledd har også taushetsplikt for alle opplysninger undersøkelsesmyndigheten mottar, får utarbeidet eller selv utarbeider som ledd i undersøkelse av en taubaneulykke eller alvorlig taubanehendelse.
+Taushetsplikten etter første og annet ledd er likevel ikke til hinder for
+1) at opplysninger gjengis i en undersøkelsesrapport som nevnt i § 23 m dersom det er nødvendig for å gi en tilstrekkelig redegjørelse for årsakene til en taubaneulykke eller en alvorlig taubanehendelse med det formålet og innenfor de rammene som følger av § 23 a annet og tredje ledd. Rapporten skal ikke gjengi Unntakene i bokstav b til d gjelder selv om personen er anonymisert.
+a) opplysninger som avslører identiteten til personer som har avgitt forklaring etter § 23 f,
+b) opplysninger av særlig følsom eller privat art, herunder detaljerte opplysninger om en persons helse,
+c) opplysninger som innebærer å ta stilling til noens strafferettslige eller sivilrettslige skyld eller ansvar, eller
+d) opplysninger som innebærer å ta stilling til om en person tilfredsstiller regelbestemte krav til å inneha en tillatelse som er relevant for undersøkelsen.
+2) at opplysninger gis til tilsynsmyndigheten fordi det ellers vil være en vesentlig og nærliggende risiko for tap av liv eller skade på person som følge av at personell med oppgaver som kan påvirke sikkerheten på taubanen, har opptrådt på en måte som tilsier at vedkommende er klart uskikket til å inneha oppgaven
+3) at opplysninger gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning undersøkelsesmyndigheten selv og andre som har krav på taushet samtykker
+4) at opplysningene deles med andre som arbeider for undersøkelsesmyndigheten med den aktuelle undersøkelsen
+5) at opplysningene bringes videre i statistisk form
+6) at opplysningene bringes videre når ingen berettiget interesse tilsier at de holdes hemmelig, for eksempel når de er alminnelig kjent eller alminnelig tilgjengelig andre steder
+7) at opplysninger gis videre til utenlandsk og internasjonal myndighet og organisasjon når dette følger av internasjonale avtaler Norge har inngått.
+Taushetsplikten etter første og annet ledd er heller ikke til hinder for at det offentliggjøres opplysninger i dokumenter som undersøkelsesmyndigheten ikke selv har utarbeidet eller fått utarbeidet. Dette gjelder likevel ikke opplysninger som nevnt i tredje ledd nr. 1 bokstav a til d, opplysninger som er taushetspliktige etter forvaltningsloven § 13, og opplysninger som i utgangspunktet er omfattet av en strengere taushetspliktbestemmelse i særlov enn den som følger av tredje ledd nr. 1 bokstav a til d, eller forvaltningsloven § 13. Opplysningene kan heller ikke offentliggjøres etter første punktum dersom undersøkelsesmyndigheten mener at offentliggjøring kan bli brukt av andre til å vurdere sivilrettslig eller strafferettslig skyld eller ansvar eller dersom undersøkelsesmyndigheten har fått tilgang til dokumentet i tilknytning til forklaring som nevnt i § 23 f, og undersøkelsesmyndigheten anser opplysninger i dokumentet som en del av forklaringen.
