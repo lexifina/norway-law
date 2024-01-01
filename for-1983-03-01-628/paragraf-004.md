@@ -1,0 +1,4 @@
+# § 4. Legitimasjon, rekvisisjon m.v.
+Selger skal påse at kjøper har rett til å kjøpe legemidler til ikke-medisinsk bruk. Bud må være over 16 år og vise fullmakt. Er kjøperen ukjent for selger, skal kjøper vise legitimajson.
+Ved kjøp av reseptpliktige legemidler, herunder narkotika skal kjøpetillatelsen innleveres til selger. Kjøpere som ikke trenger særlig tillatelse fra Direktoratet for medisinske produkter skal i stedet levere skriftlig rekvisisjon undertegnet av den som har rett til kjøp. Rekvisisjonen skal inneholde opplysninger om hva legemidlet skal brukes til.
+Rekvisisjon eller kjøpestillatelse skal oppbevares hos selger i 1 år. Gjelder dokumentet narkotika, skal det oppbevares hos selger i 3 år. Om narkotikaregnskap vises til § 13 og § 14 i forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften).
