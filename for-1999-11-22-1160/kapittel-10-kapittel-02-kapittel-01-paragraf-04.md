@@ -1,0 +1,2 @@
+# § 10-50-4. Samvirkeforetaks skattemessige næringsinntekt
+Samvirkeforetaks skattemessige næringsinntekt fra omsetning med medlemmer fastsettes til en forholdsmessig del av den totale skattemessig næringsinntekt i samme forhold som forholdet mellom medlemsomsetningen og foretakets regulære omsetning. Med skattemessig næringsinntekt menes her inntekten etter fradrag for finanskostnader og tillegg for finansinntekter og eventuelle utleieinntekter, men før fradrag for kjøpsutbytte, jf. skatteloven § 10-50.

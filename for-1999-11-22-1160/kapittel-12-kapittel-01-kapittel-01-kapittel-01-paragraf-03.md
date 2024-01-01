@@ -1,0 +1,2 @@
+# § 12-2-3. Karensgodtgjørelse
+Som personinntekt etter skatteloven § 12-2 første ledd a, og som avgiftspliktig ytelse etter folketrygdloven § 23-2 første ledd, regnes godtgjørelse som utbetales en arbeidstaker for at denne skal avstå fra å ta stilling i en konkurrerende bedrift eller fra selv å etablere konkurrerende virksomhet i et bestemt tidsrom (karensgodtgjørelse). Dette gjelder selv om godtgjørelsen utbetales etter at arbeidsforholdet er opphørt.

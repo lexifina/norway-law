@@ -1,0 +1,4 @@
+# § 12-2-7. Godtgjørelse for transport av skogsvirke
+(1) Som personinntekt etter skatteloven § 12-2 første ledd a, og som avgiftspliktig ytelse etter folketrygdloven § 23-2 første ledd, regnes godtgjørelse for transport av skogsvirke med egen hest eller traktor når utøveren av slik transport ikke har plikt til å beregne og betale merverdiavgift av godtgjørelsen.
+(2) Arbeidsgiveravgiften beregnes av samme grunnlag som fastsatt for feriegodtgjørelse i henhold til den til enhver tid gjeldende overenskomst for skogbruket.
+(3) Som personinntekt etter skatteloven § 12-10 og § 12-2 bokstav f, regnes godtgjørelse for transport av skogsvirke med egen hest eller traktor når utøveren av slik transport har plikt til å beregne og betale merverdiavgift av vederlagene. Slik godtgjørelse regnes ikke som avgiftspliktig ytelse etter folketrygdloven § 23-2.

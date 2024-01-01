@@ -1,0 +1,3 @@
+# § 7-3-1. Vilkår for å fastsette skatt på andelshaverens hånd
+(1) Ved vurderingen av om prosentkravet i skatteloven § 7-3 tredje ledd er oppfylt, tas det normalt ikke hensyn til at boenheter i selskapet er fremleiet fra den enkelte andelshaver til tredjemann. Er andeler derimot utleid direkte fra boligselskapet, skal dette tas hensyn til.
+(2) Retten til å få fastsatt skatten etter skatteloven § 7-3 kan falle bort selv om prosentkravet i skatteloven § 7-3 tredje ledd er oppfylt, dersom boligselskapets hovedformål ikke er å gi andelshaverne bolig eller fritidsbolig i hus eiet av selskapet. Dette gjelder blant annet når en større andel av leilighetene fremleies, eller hvor leilighetene leies ut over lengre tidsrom.

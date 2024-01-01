@@ -1,0 +1,1 @@
+# Fellesregler for personinntekt

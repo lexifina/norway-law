@@ -1,0 +1,5 @@
+# § 6-21-3. Avgrensning av sosiale kostnader ved velferdstiltak, møter og tilstelninger som omfatter de ansatte i bedriften mv.
+(1) Det gis fradrag for kostnader til velferdstiltak når kostnadene er pådratt av hensyn til de ansattes interesser. Ved velferdstiltak hvor det også deltar personer som ikke er knyttet til bedriften, gis det fradrag for de deler av kostnadene som etter en forholdsmessig fordeling faller på de personene som er knyttet til bedriften. Som knyttet til bedriften anses eier, ansatt, styremedlem, aksjonær mv. med ledsager.
+(2) Det gis fradrag for kostnader til møter og tilstelninger for personer som er knyttet til den skattepliktiges bedrift.
+(3) Ved tilstelninger av ekstraordinær art som for eksempel bedriftsjubileum, innvielse av nybygg mv. som også har representasjonsformål, gis det fradrag for den del av kostnadene ved bevertningen som etter en forholdsmessig fordeling faller på personer som er knyttet til bedriften.
+(4) Det gis fradrag for kostnader til interne møter i bedriftens organer (generalforsamling, bedriftsforsamling, styre) når kostnadene etter forholdene må anses rimelige og møtet ikke har karakter av selskapelighet.
