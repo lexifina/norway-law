@@ -1,0 +1,5 @@
+# § 2
+«Reguleringsmyndighet» skal i forordning (EF) nr. 714/2009 med unntak av artikkel 17 forstås som Reguleringsmyndigheten for energi. Myndigheten i henhold til artikkel 17 er Energidepartementet.
+I forordning (EU) nr. 543/2013 om innsending og offentliggjøring av opplysninger på markedene for elektrisk kraft skal «reguleringsmyndighet» forstås som Reguleringsmyndigheten for energi.
+«Reguleringsmyndighet» skal i forordning (EU) nr. 838/2010 om fastsettelse av retningslinjer for kompensasjonsordningen mellom operatører av transmisjonsnett og en felles fremgangsmåte for fastsettelse av transmisjonsavgifter forstås som Reguleringsmyndigheten for energi.
+«Reguleringsmyndighet» skal i forordning (EU) 2015/1222 om fastsettelse av retningslinjer for kapasitetstildeling og flaskehalshåndtering, forordning (EU) 2016/1719 om fastsettelse av retningslinjer for langsiktig kapasitetstildeling, forordning (EU) 2017/1485 om fastsettelse av retningslinjer for drift av transmisjonsnettet for elektrisk kraft og forordning (EU) 2017/2195 om fastsettelse av retningslinjer for balansering av elektrisk kraft forstås som Reguleringsmyndigheten for energi.
