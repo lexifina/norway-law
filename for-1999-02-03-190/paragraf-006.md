@@ -1,0 +1,3 @@
+# § 6. Aldersgrenser
+For å ha krav på enbrukerpensjon må bruker ha fylt 62 år. For å ha krav på tobrukerpensjon må i tillegg ektefelle/samboer ha fylt 57 år.
+Retten til tidligpensjon bortfaller for bruker og ektefelle/samboer ved utgangen av den måned bruker fyller 67 år. Dersom ektefelle/samboer er eldre enn brukeren, går ektefelle/samboer ut av ordningen ved utgangen av den måned denne fyller 67 år, mens brukeren fortsetter med sin tobrukerdel fram til fylte 67 år. Dersom bruker går ut av ordningen før fylte 67 år, kan ektefelle/samboer fortsette med sin tobrukerdel inntil utgangen av den måned bruker fyller 67 år.
