@@ -1,4 +1,5 @@
 # § 15-7. Vern mot usaklig oppsigelse
 (1) Arbeidstaker kan ikke sies opp uten at det er saklig begrunnet i virksomhetens, arbeidsgivers eller arbeidstakers forhold.
 (2) Skyldes oppsigelsen driftsinnskrenkning eller rasjonaliseringstiltak, er den ikke saklig begrunnet dersom arbeidsgiver har et annet passende arbeid i virksomheten å tilby arbeidstaker. Ved avgjørelse av om en oppsigelse har saklig grunn i driftsinnskrenkning eller rasjonaliseringstiltak, skal det foretas en avveining mellom virksomhetens behov og de ulemper oppsigelsen påfører den enkelte arbeidstaker.
-(3) En oppsigelse som skyldes at arbeidsgiver setter ut eller tar sikte på å sette ut virksomhetens drift på oppdrag ved bruk av selvstendige oppdragstakere, er ikke saklig med mindre det er nødvendig av hensyn til virksomhetens fortsatte drift.
+(3) Tilhører arbeidsgiver et konsern, jf. § 8-4 fjerde ledd, er ikke oppsigelsen saklig begrunnet dersom det er annet passende arbeid å tilby arbeidstaker i andre virksomheter i konsernet.
+(4) En oppsigelse som skyldes at arbeidsgiver setter ut eller tar sikte på å sette ut virksomhetens drift på oppdrag ved bruk av selvstendige oppdragstakere, er ikke saklig med mindre det er nødvendig av hensyn til virksomhetens fortsatte drift.

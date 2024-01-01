@@ -1,0 +1,2 @@
+# § 14-14 a. Drøfting om ansettelse mv.
+Arbeidsgiver skal minst én gang i året, eller når en av partene krever det, drøfte med de tillitsvalgte bruken av deltid, midlertidig ansettelse, innleie, selvstendige oppdragstakere og tjenestekjøp fra andre virksomheter som har betydning for bemanningen. I drøftingen skal blant annet grunnlaget, omfanget og konsekvensene for arbeidsmiljøet inngå. Ved innleie fra bemanningsforetak skal også praktiseringen av kravet om likebehandling drøftes, jf. § 14-12 a.

@@ -3,5 +3,5 @@
 (2) Deltidsansatte har fortrinnsrett til ekstravakter og lignende i virksomheten fremfor at arbeidsgiver ansetter eller leier inn arbeidstakere til dette arbeidet. Arbeidsgiver kan etter drøftinger med tillitsvalgte avgrense virkeområdet for utøvelse av fortrinnsretten etter dette leddet til en eller flere enheter med til sammen minst 30 ansatte. Etter avtale med tillitsvalgte kan det fastsettes et annet eller snevrere virkeområde. Fortrinnsretten etter dette leddet gjelder også for midlertidig deltidsansatte.
 (3) Fortrinnsrett etter denne paragrafen er betinget av at arbeidstaker er kvalifisert og at utøvelse av fortrinnsretten ikke vil innebære vesentlige ulemper for virksomheten.
 (4) Før arbeidsgiver fatter beslutning om ansettelse i stilling som arbeidstaker krever fortrinnsrett til etter første ledd, skal spørsmålet så langt det er praktisk mulig drøftes med arbeidstaker, med mindre arbeidstaker selv ikke ønsker det.
-(5) Fortrinnsrett etter § 14-2, med unntak av § 14-2 andre ledd første punktum, går foran fortrinnsrett for deltidsansatte.
+(5) Fortrinnsrett etter § 14-2, med unntak av § 14-2 første ledd andre punktum og andre ledd første punktum, går foran fortrinnsrett for deltidsansatte.
 (6) Tvist om fortrinnsrett for deltidsansatte etter første ledd avgjøres av tvisteløsningsnemnda, jf. § 17-2.

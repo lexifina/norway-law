@@ -1,5 +1,5 @@
 # § 6-2. Verneombudets oppgaver
-(1) Verneombudet skal ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet. Verneombudet skal se til at virksomheten er innrettet og vedlikeholdt, og at arbeidet blir utført på en slik måte at hensynet til arbeidstakernes sikkerhet, helse og velferd er ivaretatt i samsvar med bestemmelsene i denne lov.
+(1) Verneombudet skal ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet. Verneombudet skal se til at virksomheten er innrettet og vedlikeholdt, og at arbeidet blir utført på en slik måte at hensynet til arbeidstakernes sikkerhet, helse og velferd er ivaretatt i samsvar med bestemmelsene i denne lov. Første og andre punktum gjelder tilsvarende for innleide arbeidstakere og for selvstendige oppdragstakere som utfører arbeid i nær tilknytning til virksomheten.
 (2) Verneombudet skal særlig påse:
 a) at maskiner, tekniske innretninger, kjemiske stoffer og arbeidsprosesser ikke utsetter arbeidstakerne for fare,
 b) at verneinnretninger og personlig verneutstyr er til stede i passende antall, at det er lett tilgjengelig og i forsvarlig stand,
