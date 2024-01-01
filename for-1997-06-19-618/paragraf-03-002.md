@@ -1,0 +1,3 @@
+# § 3-2. Registerhjemmel
+Registerhjemmel har den Petroleumsregisteret utpeker som rettighetshaver eller den som godtgjør at han er rettighetshaver. Dersom en tillatelse er tildelt en gruppe av rettighetshavere, har rettighetshavergruppen registerhjemmel for tillatelsen, mens de enkelte rettighetshavere har registerhjemmel for deres respektive andeler.
+Den som har registerhjemmel har også registerhjemmel til rettighetshavers rettigheter etter avtaler inngått i tilknytning til tillatelsen, herunder avtaler om behandling, lagring og transport av petroleum. Registerhjemmel omfatter også rettighetshavers rettigheter til innretninger som ikke er registrert i et annet realregister og som ikke er plassert på land eller sjøgrunn undergitt privat eiendomsrett.
