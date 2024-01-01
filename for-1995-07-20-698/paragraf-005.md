@@ -1,0 +1,3 @@
+# § 5. Kvalitetskrav for råvarer og farmasøytiske preparater
+Kvaliteten av en råvare og av et farmasøytisk preparat skal, med mindre annet er godkjent, fastlegges i overensstemmelse med de standarder og regler som er bekjentgjort i Norske legemiddelstandarder, jfr. § 9. Herunder omfattes monografiene i Den europeiske farmakopé, som skal gjelde for alle råvarer og farmasøytiske preparater som er oppført der.
+For råvarer er det den på anvendelsestidspunktet gjeldende utgave av Norske legemiddelstandarder som skal legges til grunn, for farmasøytiske preparater den på tilvirkningstidspunktet gjeldende utgave.
