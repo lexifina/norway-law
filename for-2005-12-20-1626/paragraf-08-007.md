@@ -1,0 +1,2 @@
+# § 8-7. Stasjonære togvarmeanlegg, 1000 V
+Togvarmepost skal ha jordleder eller utjevningsforbindelse til det sporet den forsyner. Sporområdet som dekkes av togvarmeanlegget skal ha sikker vei for returstrømmen tilbake til togvarmeposten dimensjonert for maksimal belastningsstrøm. Strømforsyning fra togvarmepost og annen strømforsyning skal ikke kunne koples sammen gjennom tilkoplet rullende materiell.

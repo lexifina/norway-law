@@ -1,0 +1,3 @@
+# § 4-3. Tiltak ved isolasjonsfeil i høyspenningsnett
+Topolet jordfeil og kortslutning skal koples ut hurtig og automatisk.
+Enpolet jordfeil skal utkoples hurtigst mulig og innen følgende tider. Tidene inkluderer ikke eventuelle gjeninnkoplinger:– Direktejordet nett:8sek– Motstandsjordet nett:30sek– Isolert og spolejordet nett:– Luftnett og blandet kabel/luft-nett med tilknyttet distribusjonstransformator:10sek– Luftnett og blandet kabel/luft-nett uten tilknyttet distribusjonstransformator:120min– Industrinett med luftnett og blandet kabel/luft-nett:120min– Kabelnett (uten luftledning) med global jording:240minNett skal overvåkes kontinuerlig, og klarering for bortkopling av jordfeilen igangsettes umiddelbart.
