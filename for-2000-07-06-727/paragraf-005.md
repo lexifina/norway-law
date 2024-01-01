@@ -1,0 +1,6 @@
+# § 5. Melding fra Arbeids- og velferdsetaten til pensjons- eller trygdeordning
+Arbeids- og velferdsetaten skal sende svarmelding til pensjons- eller trygdeordning når etaten har mottatt melding fra ordningen om at det er innvilget en ytelse, jf. § 4. Svarmeldingen skal gi opplysninger om det er registrert andre ytelser i den aktuelle saken, eventuelt at det ikke er registrert andre ytelser.
+Arbeids- og velferdsetaten skal gi pensjons- eller trygdeordning de opplysningene om ytelser etaten selv administrerer som er nødvendig for at ordningen skal kunne foreta korrekt pensjonsberegning og samordning.
+Arbeids- og velferdsetaten skal gi melding til pensjons- eller trygdeordning om ny ytelse, endring eller opphør av ytelse som det er mottatt melding om fra annen pensjons- eller trygdeordning.
+Arbeids- og velferdsetaten kan inngå avtale med pensjons- eller trygdeordning om rapporter over utbetalte arbeidsavklaringspenger, herunder opplysninger om endringer på grunn av arbeid, fravær, trekk på grunn av for sen melding mv.
+Når det skjer endringer i faktisk eller forventet arbeidsinntekt etter folketrygdloven § 17 A-6 som fører til at en pensjon fra folketrygden omregnes, skal Arbeids- og velferdsetaten oppgi den nye inntekten til tjenestepensjonsleverandøren sammen med meldingen om at ytelsen fra folketrygden er endret.
