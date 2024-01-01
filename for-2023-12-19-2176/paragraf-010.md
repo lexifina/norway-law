@@ -1,0 +1,3 @@
+# § 10. EØS-avtalens regler om offentlig støtte
+Tilskudd som regnes som offentlig støtte etter EØS-avtalen artikkel 61 (1) kan bare gis i samsvar med reglene i forskrift 2. januar 2023 nr. 2 om unntak fra notifikasjonsplikt for offentlig støtte.
+Tilskudd som ikke gis etter første ledd skal verken direkte eller indirekte komme økonomisk aktivitet til gode. Begrepet økonomisk aktivitet skal fortolkes i samsvar med foretaksdefinisjonen etter EØS-avtalens regler om offentlig støtte. Tilskuddsmottakere som har både økonomisk og ikke-økonomisk virksomhet skal sikre at offentlige midler ikke kommer den økonomiske aktiviteten til gode, og må kunne dokumentere tiltak som viser at tilskuddet i sin helhet går til det tiltenkte formålet og at det ikke skjer kryssubsidiering.
