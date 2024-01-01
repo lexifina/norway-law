@@ -1,0 +1,2 @@
+# § 3
+Energidepartementet (heretter kalt Departementet) kan meddele tillatelse til vitenskapelig undersøkelse etter naturforekomster på havbunnen eller i dens undergrunn eller i begrensede deler av denne. Tillatelsen gjelder for et bestemt tidsrom og forøvrig i overenstemmelse med denne resolusjon. Departementet kan gi bestemmelser til utfylling og gjennomføring av bestemmelsene i denne resolusjon og kan fastsette supplerende vilkår i den enkelte tillatelse.
