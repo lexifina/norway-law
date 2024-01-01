@@ -1,0 +1,7 @@
+# § 15. Høring ved hjelp av sakkyndig eller talsperson
+Nemndleder kan oppnevne en talsperson eller en sakkyndig til å høre barnet i saker som skal behandles av nemnda. Formålet med oppdraget er å innhente barnets meninger i saken og formidle dette til nemnda og partene.
+Nemndleder skal utarbeide et mandat som tydeliggjør rammene for oppdraget, og formålet med samtalen med barnet. Nemndleder har ansvar for å gi nødvendig informasjon slik at talspersonen eller den sakkyndige kan gjennomføre samtalen med barnet.
+Talspersonen eller den sakkyndige har ansvar for at samtalen skjer på en ivaretakende og tillitsskapende måte for barnet, at barnet får tilpasset informasjon og får forklart hva det innebærer å bli hørt.
+Talspersonen eller den sakkyndige skal som hovedregel innkalles til nemndsmøtet for å gi en redegjørelse fra samtalen med barnet. Talspersonen skal ikke gi uttrykk for egne meninger eller vurderinger. Den oppnevnt sakkyndige kan gi uttrykk for sine faglige vurderinger dersom det er i tråd med mandatet for oppdraget.
+Talspersonen og den sakkyndige har taushetsplikt om alle forhold som vedkommende blir kjent med i saken, jf. barnevernsloven § 13-1 og opplysningsplikt til barnevernstjenesten dersom det fremkommer forhold som er nevnt i barnevernsloven § 13-2 første ledd.
+Når en sakkyndig oppnevnes for kun å høre barnet etter denne bestemmelsen, skal referatet som den sakkyndige utarbeider fra samtalen ikke sendes til Barnesakkyndig kommisjon.

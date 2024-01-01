@@ -1,0 +1,6 @@
+# § 16. Administrativt ansvar for talspersonsordningen
+Hver enkelt barneverns- og helsenemnd er ansvarlig for å ha tilgjengelig et tilstrekkelig antall talspersoner med ulik bakgrunn og relevant erfaring fra arbeid med barn i ulike aldersgrupper og med ulik kulturell bakgrunn.
+Nemnda har ansvaret for at talspersonene som står i nemndas liste, har tilstrekkelig kunnskap og opplæring til å kunne utføre oppdrag.
+Personer som er ansatt i et organ som behandler saken, kan ikke oppnevnes som talsperson i samme sak. Talspersonen skal ikke ha nær tilknytning til noen som avgjørelsen i saken kan ha betydning for. I særlige tilfeller kan nemndleder oppnevne en person som ikke står på listen, hvis barnet har et særlig tillitsforhold til vedkommende eller andre grunner gjør det nødvendig.
+Ved oppnevning av talsperson for samiske barn innenfor forvaltningsområdet for samisk språk, skal barnet få tilbud om en talsperson med samisk språk og kulturforståelse. I andre områder skal det tilstrebes at barnet får et slikt tilbud.
+Nemnda har ansvar for at talspersoner fremlegger politiattest i henhold til forskrift om politiattest etter barnevernsloven. Sentralenheten for nemndene kan fastsette nærmere krav til opplæring, kvalifikasjoner og rekruttering av talspersoner.

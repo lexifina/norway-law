@@ -1,0 +1,2 @@
+# § 7. Barnets adgang til å ha en tillitsperson
+Et barn kan i møter med barnevernet gis anledning til å ha med seg en person som barnet har særlig tillit til, jf. barnevernsloven § 1-4 tredje ledd. Barnevernstjenesten skal så tidlig som mulig informere barnet om muligheten til å ha en tillitsperson. Barnevernstjenesten skal dokumentere om barnet er informert om muligheten til å ha en tillitsperson, og om barnet ønsker å ha en tillitsperson.

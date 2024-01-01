@@ -1,0 +1,2 @@
+# § 9. Tillitspersonens rolle
+Barnevernstjenesten skal informere tillitspersonen om tillitspersonens oppgaver og funksjon. Tillitspersonen skal være en trygghet og støtte for barnet, og kan bidra til at barnets perspektiv og opplevelse av egen situasjon kommer frem. Tillitspersonen skal ikke gi uttrykk for egne meninger eller vurderinger. Tillitspersonen har ingen formell rolle i saksbehandlingen eller i rettslige prosesser og har ikke krav på økonomisk kompensasjon.
