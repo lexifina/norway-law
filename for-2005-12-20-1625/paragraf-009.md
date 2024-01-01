@@ -1,0 +1,13 @@
+# § 9. Avtalevilkårene
+Partene skal søke å bli enige om tariffer og vilkår for øvrig for bruk av innretningen som er akseptable for begge parter og i samsvar med forskriftens formål, jf. § 2 og de overordnede prinsipper som fremgår av § 4.
+Eier skal på anmodning fra bruker tilby tariffer og vilkår for øvrig for tjenestene separat, med mindre det er reelle økonomiske gevinster ved å tilby tariffer og vilkår for øvrig for aktuelle tjenester samlet, og begge parter er enige om dette. For bruk av rørledninger til olje- og/eller gasstransport skal det utformes eget tilbud.
+Tariffer og vilkår for øvrig som eier kan kreve, skal begrenses til følgende:
+- driftsutgifter som påføres eier ved brukers bruk av innretningen, samt betaling for eventuelle driftsutgifter som eier tidligere har pådratt seg for å opprettholde kapasitet utover eget behov med tanke på fremtidig tredjepartsbruk,
+- eventuelle nye investeringer som brukers bruk av innretningen medfører,
+- betaling for eventuelle investeringer i tilleggskapasitet som tidligere er foretatt med tanke på fremtidig tredjepartsbruk, herunder en rimelig andel av risikoen for at tilleggsinvesteringen ikke fullt ut blir benyttet. Dette gjelder ikke i den utstrekning eieren allerede har oppnådd eller vil oppnå en rimelig avkastning av investeringen, herunder avkastning som følge av egen bruk eller avtalt bruk,
+- kompensasjon for tapt inntekt, herunder tapt og/eller utsatt produksjon, som følge av brukers bruk av innretningen. Kompensasjonen for tapt og/eller utsatt produksjon skal fastsettes med utgangspunkt i den fortjeneste som kunne vært oppnådd for den produksjonen som er tapt og/eller utsatt. Eier skal så vidt mulig legge til rette for at tilknytningen til innretningen kan skje slik at tapt og/eller utsatt produksjon som følge av tilknytningen minimalisere,
+- andre dokumenterbare kostnader eller tap som eier påføres ved brukers bruk av innretningen,
+- en rimelig fortjeneste for eier, der det tas hensyn til den risiko eier påtar seg som følge av brukers bruk av innretningen. Lønnsomheten i brukerfeltet skal ikke tillegges vekt i vurderingen av hva som er en rimelig fortjeneste.
+I særlige tilfeller kan tariffer og vilkår for øvrig avvike fra tredje ledd, dersom eier og bruker er enige om dette.
+Eier skal kunne redegjøre for hvilke prinsipper som ligger til grunn for utformingen av tariffer og vilkår for øvrig.
+Departementet kan av eget tiltak fastsette tariffer og andre vilkår og endre avtalte tariffer og vilkår for å sikre at prosjekter blir gjennomført ut fra hensynet til ressursforvaltning og at eieren av innretningen gis en rimelig fortjeneste blant annet ut fra investering og risiko.
