@@ -1,0 +1,3 @@
+# § 3. Avsetninger til dekning av særskilt avkastningsgaranti
+En pensjonskasse som har knyttet avkastningsgaranti til en særskilt investeringsportefølje, skal foreta supplerende avsetning til dekning av garantiforpliktelsen. Avsetningen skal tilsvare kapitalverdien på beregningstidspunktet av den garanterte avkastning, med tillegg av den porteføljeverdi som garantien etter avtalen til enhver tid er knyttet til, og med fradrag av verdien av investeringsporteføljen.
+En pensjonskasse som avgir flerårig avkastningsgaranti knyttet til pensjonsordninger opprettet i henhold til foretakspensjonsloven § 11-1 eller forsikringsvirksomhetsloven § 4-15, skal foreta supplerende avsetninger til dekning av sitt garantiansvar i samsvar med første ledd.

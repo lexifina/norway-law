@@ -1,0 +1,7 @@
+# § 24. Uavhengige kontrollfunksjoner
+Pensjonsforetak skal sørge for at risikostyrings-, aktuar- og internrevisjonsfunksjoner utføres på en effektiv, objektiv og uavhengig måte.
+Et pensjonsforetak kan tillate at én person eller en enhet ivaretar mer enn én funksjon som nevnt i første ledd. Første punktum gjelder ikke internrevisjonsfunksjonen.
+Pensjonsforetak som bruker en person eller organisatorisk enhet som ivaretar en lignende funksjon i arbeidsgiverforetaket til å ivareta en funksjon som nevnt i første ledd, må godtgjøre hvordan det forhindrer eller håndterer interessekonflikter.
+Personer som utfører kontrollfunksjoner skal rapportere til pensjonsforetakets styre om alle vesentlige forhold innenfor sitt ansvarsområde.
+Personer som utfører kontrollfunksjoner skal melde fra til Finanstilsynet hvis det er risiko for at pensjonsforetaket ikke vil oppfylle lov- eller forskriftskrav av vesentlig betydning for medlemmene, eller det er påvist vesentlig overtredelse av lover eller forskrifter som gjelder for pensjonsforetaket og pensjonsforetakets styre ikke innen rimelig tid har iverksatt hensiktsmessige tiltak for å rette på forholdet. Første punktum gjelder ikke dersom melding til Finanstilsynet vil kunne utsette personen som utfører kontrollfunksjoner for straff.
+Krav til uavhengig kontrollfunksjon med ansvar for etterlevelse av krav fastsatt i eller i medhold av lov eller forskrift, jf. finansforetaksloven § 13-5 annet ledd første punktum, gjelder ikke for pensjonsforetak.

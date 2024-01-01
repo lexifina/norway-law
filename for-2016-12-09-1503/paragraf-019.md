@@ -1,0 +1,5 @@
+# § 19. Nærmere om risikoanalyser
+Et pensjonsforetak skal jevnlig, og minst ved utgangen av hvert kvartal, analysere hvordan uvanlige markedsforhold, herunder rente- og valutakursendringer, samt utslag av forsikrings- og kredittrisiko, vil påvirke pensjonsforetakets bufferkapital. Analysene skal gjennomføres på foretaksnivå og for relevante porteføljer og underporteføljer. Analysene skal utføres med utgangspunkt i foretakets balanse på vurderingstidspunktet.
+Omfanget og frekvensen av analysene skal tilpasses kompleksiteten og risikoen i pensjonsforetakets kapitalforvaltning. En enhet som er uavhengig av utøvende enhet skal ha ansvaret for analysene.
+Dersom analysene gir grunn til å tro at pensjonsforetakets fremtidige finansielle stilling vil være utsatt, skal pensjonsforetaket vurdere å iverksette tiltak som reduserer risikoen eller som øker bufferkapitalen.
+Resultatene av analysene skal jevnlig rapporteres til styret. Styret skal nedfelle sin vurdering i styrereferatet. Dissens i styret skal referatføres.
