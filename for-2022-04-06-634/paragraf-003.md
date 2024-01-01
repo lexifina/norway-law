@@ -1,0 +1,2 @@
+# § 3. Bekjempelse av kategori A-sykdommer samt B- og C-sykdommer der det foreligger godkjent sykdomsfri status
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13e (forordning (EU) 2020/687 som endret ved forordning (EU) 2021/1140 og forordning (EU) 2023/751) om utfyllende bestemmelser til europaparlaments- og rådsforordning (EU) 2016/429 med regler om forebygging og bekjempelse av visse listeførte sykdommer gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

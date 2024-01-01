@@ -1,0 +1,2 @@
+# § 6. Drift av vaksinebanker
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13u (forordning (EU) 2022/139) om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til forvaltning, oppbevaring og erstatning av beholdninger i Unionens antigen-, vaksine- og diagnosereagensbanker og om kravene til biosikkerhet, biotrygghet og biologisk inneslutning ved drift av disse bankene gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
