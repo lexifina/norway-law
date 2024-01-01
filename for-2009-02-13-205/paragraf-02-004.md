@@ -1,0 +1,2 @@
+# § 2-4. Nærmere om tuberkulosekontrollprogrammet til det regionale helseforetaket
+Tuberkulosekontrollprogrammet til det regionale helseforetaket skal ivareta alle nødvendige rutiner for tiltak og tjenester som det regionale helseforetaket er ansvarlig for etter spesialisthelsetjenesteloven og smittevernloven, herunder rutiner for håndtering av henvisninger, behandling, rådgivning, opplæring, smitteoppsporing, overvåkning og oversendelse av meldinger.
