@@ -1,0 +1,3 @@
+# § 3-2. Alminnelig forvaltning av pensjonskapitalen
+(1) Er det avtalt at pensjonsordningen opprettes som en kollektivordning der institusjonen har forvalteransvaret, skal pensjonskapitalen i sin helhet forvaltes i samsvar med de regler for kapitalforvaltning som gjelder for den institusjonen der ordningen er opprettet.
+(2) Kongen kan fastsette en høyeste avkastningsprosent for hvor stor del av oppnådd avkastning av pensjonskapitalen i et år som etter regelverket tillegges pensjonskapitalen. Kongen kan også fastsette at en bestemt del av årets avkastning skal tillegges pensjonskapitalen. Avkastning som ikke tillegges pensjonskapitalen, skal tilføres innskuddsfondet.

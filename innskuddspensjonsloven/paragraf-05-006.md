@@ -1,0 +1,2 @@
+# § 5-6. Innskudd fra medlemmene
+Det årlige innskuddet medlemmene i pensjonsordningen skal betale i henhold til innskuddsplanen, kan for hvert medlem ikke settes høyere enn 4 prosent av medlemmets lønn beregnet etter § 5-5. Innskudd fra et medlem skal ikke overstige innskuddet foretaket innbetaler for vedkommende medlem i henhold til innskuddsplanen. Det skal i innskuddsplanen fastsettes hvordan innskudd fra medlemmene skal betales.

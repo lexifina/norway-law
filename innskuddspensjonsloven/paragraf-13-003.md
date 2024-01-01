@@ -1,0 +1,5 @@
+# § 13-3. Avvikling av pensjonsordningen
+(1) Når pensjonsordningen opphører, skal pensjonskapitalen knyttet til ordningen fordeles mellom medlemmene på grunnlag av opptjent pensjonskapital etter § 3-5 for hvert medlem. Avkastning frem til opphørstidspunktet skal være tilført pensjonskapitalen før fordelingen.
+(2) Innskuddsfondet fordeles mellom medlemmene på grunnlag av innskuddet for hvert medlem i opphørsåret. Ingen skal likevel tildeles mer fra innskuddsfondet enn det som trengs for å sikre fortsatt innbetaling av innskudd i inntil 5 år eller i tilfelle en kortere periode fram til uttak av alderspensjon fra pensjonsordningen ved fylte 67 år. Resten av innskuddsfondet tilbakeføres til foretaket.
+(3) Reglene i kapittel 6 gjelder tilsvarende. Midler tildelt et medlem fra innskuddsfondet tillegges opptjent pensjonskapital.
+(4) Ved avvikling av pensjonskasse skal egenkapitalen etter sluttregnskapet anvendes som fastsatt i vedtektene. For øvrig kan egenkapitalen med Finanstilsynets samtykke utbetales til foretaket.

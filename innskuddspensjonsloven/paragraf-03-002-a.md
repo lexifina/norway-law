@@ -1,0 +1,4 @@
+# § 3-2a. Kollektiv investeringsportefølje
+(1) Er det fastsatt i regelverket at pensjonskapitalen knyttet til pensjonsordningen skal forvaltes som kollektiv investeringsportefølje, skal foretaket inngå avtale med institusjonen om hvordan porteføljen skal sammensettes og hvilken adgang foretaket skal ha til å endre sammensetningen. Før foretaket gjør dette, skal styringsgruppen gis anledning til å uttale seg.
+(2) Avkastning og tap ved forvaltningen av investeringsporteføljen skal årlig tilordnes pensjonskapitalen og fordeles mellom medlemmene etter opptjent pensjonskapital.
+(3) Det kan i regelverket fastsettes at medlemmenes pensjonskapital skal forvaltes i ulike eller i samme investeringsportefølje. Utskillingen skal i tilfelle foretas på bakgrunn av medlemmets alder slik at pensjonskapitalen for medlemmer med få år igjen til rett til uttak av pensjon blir forvaltet på en særlig betryggende måte.
