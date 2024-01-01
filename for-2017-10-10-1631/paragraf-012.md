@@ -1,0 +1,3 @@
+# § 12. Når trykkpåkjent utstyr og sammenstillinger kan gjøres tilgjengelig på markedet
+Trykkpåkjent utstyr og sammenstillinger kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med forskriften og dette kan dokumenteres på fastsatt måte.
+Trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene i forskriften kan likevel vises fram på messer, utstillinger, demonstrasjoner eller lignende arrangementer når utstilleren sørger for skilt med tydelig informasjon om at utstyret ikke kan gjøres tilgjengelig eller tas i bruk før produsenten har brakt det i samsvar med forskriften. Under demonstrasjoner skal det treffes tilstrekkelige sikkerhetstiltak.

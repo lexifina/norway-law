@@ -1,0 +1,5 @@
+# § 35. Datterforetak og underleverandører
+(1) Dersom et teknisk kontrollorgan, et brukerinspektorat eller et godkjent tredjepartsorgan overdrar bestemte oppgaver i forbindelse med samsvarsvurderingen til en underleverandør eller et datterforetak, skal de sikre at disse oppfyller kravene i § 32 eller § 33 og informere Direktoratet for samfunnssikkerhet og beredskap om dette.
+(2) Et teknisk kontrollorgan, et brukerinspektorat og et godkjent tredjepartsorgan skal påta seg det fulle ansvaret for de oppgavene som blir utført av underleverandører eller datterforetak, uansett hvor disse er etablert.
+(3) Oppgaver kan overdras til en underleverandør eller utføres av et datterforetak dersom kunden har samtykket til dette.
+(4) Et teknisk kontrollorgan, et brukerinspektorat og et godkjent tredjepartsorgan skal kunne stille de relevante dokumentene om vurderingen av underleverandørens eller datterforetakets kvalifikasjoner og det arbeidet de har utført etter § 24, § 25, § 28 og § 29 og vedlegg I nr. 3.1.2 og 3.1.3 til rådighet for Direktoratet for samfunnssikkerhet og beredskap.
