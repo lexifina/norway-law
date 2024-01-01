@@ -1,0 +1,4 @@
+# § 6-21-7. Representasjonsbygninger, -båter og -biler
+(1) Det gis ikke fradrag for kostnader til rene representasjonsbygninger. Kostnad ved bolig som er stilt til disposisjon for bedriftens leder mv. er fradragsberettiget. Dersom boligen er større eller mer kostbart innredet enn vedkommendes eget behov skulle tilsi, gis det ikke fradrag for den del av boligen som etter skattemyndighetenes skjønn må regnes som kostnad ved representasjon. Tilsvarende gjelder også i de tilfeller hvor bedriften ligger på et sted hvor det ikke finnes andre representasjonsmuligheter enn hjemmerepresentasjon, og bedriften holder en større eller en mer kostbar bolig med dette for øye.
+(2) Det gis ikke fradrag for kostnad til anskaffelse og hold av representasjonsbåter.
+(3) Hvis det av representative grunner er kjøpt en mer kostbar bil enn den som ellers ville blitt anskaffet, skal fradraget for kostnader til bil reduseres tilsvarende.

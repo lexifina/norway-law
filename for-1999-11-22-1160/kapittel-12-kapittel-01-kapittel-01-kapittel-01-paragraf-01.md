@@ -1,0 +1,2 @@
+# § 12-2-1. Personinntekt og trygdeavgift når arbeidsgiveravgiftsgrunnlaget er fastsatt
+Den avgjørelse skattemyndighetene har truffet ved eventuell fastsetting av grunnlaget for arbeidsgiveravgift med hensyn til om en ytelse anses opptjent utenfor eller som ledd i næringsvirksomhet, jf. folketrygdloven § 23-2 første og annet ledd, blir å legge til grunn ved fastsetting av mottakerens personinntekt og trygdeavgift, jf. skatteloven § 12-2 og folketrygdloven § 23-3 og § 24-1 første ledd.

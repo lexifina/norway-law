@@ -1,0 +1,5 @@
+# § 9-5-1. Gevinstberegningen ved realisasjon av andelsleilighet
+(1) Som gevinst regnes differansen mellom andelens inngangsverdi og utgangsverdi, fratrukket omkostningene ved realisasjonen.
+(2) Ved beregningen av gevinst eller tap skal det korrigeres for endringer i andelens forholdsmessige del av formue og gjeld i eiertiden. Formue omfatter i denne sammenheng bare de eiendeler som ikke inngår i boligselskapets formuesverdi. Andelseierens innskudd regnes ikke som boligselskapets gjeld ved gevinstberegningen.
+(3) Ved gevinstberegningen legges de bokførte verdier den 1. januar i realisasjonsåret til grunn. Dersom boligselskapets formuesstilling er vesentlig endret fra 1. januar til realisasjonstidspunktet, skal dette tas hensyn til ved beregningen. Dersom andelen realiseres før byggeregnskapet er avsluttet, legges dette tilsvarende til grunn.
+(4) Når det må antas at vederlaget i betydelig grad er påvirket av at eiendeler som ikke inngår i boligselskapets formuesverdi har en annen verdi enn den bokførte, eller at vederlaget er påvirket av vilkårene for selskapets gjeldsforpliktelser, skal det tas hensyn til verdiforskjellen ved gevinstberegningen.

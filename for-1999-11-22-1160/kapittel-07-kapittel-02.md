@@ -1,0 +1,1 @@
+# Forskjellige bestemmelser

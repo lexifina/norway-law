@@ -1,0 +1,2 @@
+# § 10-63-1.
+Opplisting av land som skal anses som lavskattland og land som ikke skal anses som lavskattland i § 10-63-2 og § 10-63-3 er, med de unntak som følger av bestemmelsene, bindende uten nærmere vurdering etter skatteloven § 10-63. Dette gjelder både ved beskatning av inntekt og tap på investeringer i lavskattland, jf. skatteloven § 2-38 tredje ledd a, ved NOKUS-beskatning, jf. skatteloven § 10-60 flg. og ved beregning av kreditfradrag, jf. skatteloven § 16-21 første ledd bokstav a.
