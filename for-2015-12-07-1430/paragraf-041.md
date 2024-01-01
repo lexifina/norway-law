@@ -1,0 +1,7 @@
+# § 41. Felles europeisk kode (SEC)
+Virksomheter, herunder virksomheter som importerer celler og vev, skal tildele alle donerte celler og vev en unik kode i henhold til felles europeisk kode (SEC) senest innen distribusjon for anvendelse til mennesker. Koden skal sikre korrekt identifisering av virksomheten som tar ut celler og vev og av donoren. Koden skal også sikre sporbarhet for donert materiale og opplysninger om de viktigste egenskapene og kjennetegnene ved celler og vev. Denne bestemmelsen kommer også til anvendelse når cellene og vevet skal inngå i produktfremstilling.
+Virksomheten beslutter selv hvilket system som skal benyttes for å tildele celler og vev et unikt donasjonsnummer. Alle 13 alfanumeriske tegn som kreves for SEC skal fylles ut.
+Virksomheten skal sikre at celler og vev merkes med felles europeisk kode (SEC) og at denne påføres alle relevante følgedokumenter. Koden skal ikke kunne slettes eller endres. Dersom beholderen med celler og vev er for liten til at det er mulig å feste kodeetiketten, skal beholderen merkes slik at sporbarheten sikres.
+Felles europeisk kode (SEC) skal være i overensstemmelse med spesifikasjonene i vedlegg 3.
+Celler og vev som det ikke er etablert krav til holdbarhet for, tildeles utløpsdato 00000000.
+Bestemmelsene i denne paragrafen gjelder ikke ved partnerdonasjon av kjønnsceller innenfor samme virksomhet, men ved distribusjon må felles europeisk kode (SEC) minst påføres følgedokumenter. Bestemmelsene gjelder heller ikke for celler og vev som er importert i et nødstilfelle, jf. § 44 fjerde ledd.

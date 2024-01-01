@@ -1,0 +1,4 @@
+# § 37. Emballering
+Virksomheten skal fastsette og anvende prosedyrer for kontroll av emballering og oppbevaringssteder for å forebygge forhold som kan ha uheldige innvirkninger på cellers og vevs funksjon eller tilstand.
+Alle uttatte celler og vev skal pakkes på en måte som minimerer risiko for kontaminering, og oppbevares ved en temperatur som bevarer materialets nødvendige egenskaper og biologisk funksjon. Emballasjen skal være slik at de ansvarlige for videre pakking og transport av materialet ikke kan utsettes for smitte. Det emballerte materialet skal sendes i en beholder som er egnet for transport av biologisk materiale og som sikrer at kvaliteten bevares.
+Alle ledsagende vevs- eller blodprøver som skal testes, skal være merket på korrekt måte for å sikre identifikasjon av donor og skal være forsynt med opplysninger om tidspunkt og sted for prøveuttak.

@@ -1,0 +1,2 @@
+# § 43. Rapportering av relevante opplysninger
+Personer eller institusjoner som benytter humane celler og vev som omfattes av denne forskriften, skal rapportere alle relevante opplysninger til de virksomhetene som er involvert i anskaffelse, donasjon, uttak, testing, konservering, oppbevaring, koding, merking, prosessering og distribusjon av humane celler og vev til anvendelse på mennesker. Formålet med rapporteringen er å legge forholdene til rette for sporbarhet og sikre kontroll med kvalitet og sikkerhet.
