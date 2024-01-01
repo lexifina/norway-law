@@ -1,0 +1,3 @@
+# § 2. Statlig kompensasjon
+Norske fiskere kan søke staten om kompensasjon for tapt fangsttid i forbindelse med lokalisering (merking), opptak og ilandbringelse av skrap fra havbunnen som fiskefartøy har fått i fangstredskapet og drivende gjenstander i sjøen. Kompensasjon kan gis dersom skrapet kan være til fare for sikkerheten til sjøs, til hinder for fiske eller kan føre til vesentlig skade på fiskeredskap. Kompensasjon kan bare gis dersom skrapet ikke stammer fra petroleumsvirksomheten. Det kan også søkes om kompensasjon for tapt fangsttid i de tilfeller der fiskefartøy må vente på hjelpefartøy fordi det ikke selv er istand til å få skrapet om bord.
+Petroleumsloven § 8-3 tredje og femte ledd gjelder tilsvarende.
