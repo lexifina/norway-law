@@ -1,0 +1,4 @@
+# § 30. Overgangsbestemmelser
+(1) Produkter som omfattes av forskrift 9. desember 1996 nr. 1242 om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område og som er i samsvar med nevnte forskrift og som er brakt i omsetning før 1. desember 2017, kan gjøres tilgjengelig på markedet.
+(2) Sertifikater utstedt i samsvar med forskrift 9. desember 1996 nr. 1242 om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område er gyldige etter denne forskriften.
+(3) Utpekinger gitt fra og med 20. april 2016 med hjemmel i lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar, lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr og forskrift 9. desember 1996 nr. 1242 om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område videreføres.
