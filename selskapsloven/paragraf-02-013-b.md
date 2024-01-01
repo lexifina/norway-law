@@ -1,0 +1,3 @@
+# § 2-13 b. Krav til kjønnssammensetning for styremedlemmer valgt av og blant de ansatte
+(1) Dersom det skal velges tre eller flere styremedlemmer av og blant de ansatte etter § 2-13 annet eller tredje ledd, kan ikke alle disse styremedlemmene ha samme kjønn. Det samme gjelder for varamedlemmer. Første og annet punktum gjelder ikke dersom mer enn 80 prosent av samlet antall ansatte i selskapet har samme kjønn.
+(2) For selskaper med flere enn 200 ansatte, skal kjønnssammensetningen blant styremedlemmer som velges av og blant de ansatte etter § 2-13 fjerde ledd, oppfylle kravene i § 2-13 a annet og tredje ledd. Antall ansatte etter første punktum skal beregnes på samme måte som etter § 2-9, jf. § 2-10 første ledd.

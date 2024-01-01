@@ -1,0 +1,7 @@
+# § 1-1. Lovens alminnelige virkeområde
+(1) Loven gjelder når en økonomisk virksomhet utøves for to eller flere deltakeres felles regning og risiko, og minst en av deltakerne har et ubegrenset, personlig ansvar for virksomhetens samlete forpliktelser. Loven gjelder også hvor to eller flere deltakere har et ubegrenset ansvar for deler av forpliktelsene når disse deler til sammen utgjør virksomhetens samlete forpliktelser.
+(2) Kapittel 2 gjelder for kommandittselskap med mindre annet følger av kapittel 3.
+(3) Bestemmelsene i §§ 2-8 til 2-18 og 2-27 gjelder også virksomhet som utøves for enkeltpersons regning og risiko, når foretaket i de tre siste regnskapsår gjennomsnittlig har hatt mer enn 30 ansatte eller det med hjemmel i § 2-10 er truffet vedtak om konsernrepresentasjon.
+(4) Loven gjelder ikke for partrederier etter sjøloven kapittel 5. Den gjelder heller ikke for samarbeidsavtaler knyttet til tillatelse gitt i medhold av lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 4-3 og samarbeidsavtaler med hjemmel i lovens § 3-3 fjerde ledd og § 4-7, jf. § 4-3, og tilsvarende avtaler inngått før petroleumslovens ikrafttredelse eller samarbeidsavtaler knyttet til tillatelse gitt i medhold av havbunnsmineralloven §§ 3-1 og 4-1, jf. § 4-7.
+(5) Kommune, fylkeskommune eller interkommunalt selskap kan ikke være deltaker i ansvarlig selskap eller kommandittselskap etter loven.
+(6) Kongen gir forskrift om lovens anvendelse på Svalbard, og kan fastsette særlige regler under hensyn til de stedlige forhold.

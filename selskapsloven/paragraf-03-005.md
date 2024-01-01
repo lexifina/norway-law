@@ -1,0 +1,6 @@
+# § 3-5. Innskuddskrav
+(1) Den enkelte kommandittists innskudd skal være minst 20.000 kroner.
+(2) Selskapets krav på innskudd kan ikke overdras, og heller ikke stilles som sikkerhet eller tas som utlegg for selskapsforpliktelser.
+(3) En deltaker kan ikke bringe krav på selskapet i motregning med innskuddsforpliktelse, med mindre komplementaren eller i tilfelle styret samtykker. For så vidt en motregning skader selskapet eller dets kreditorer, anses den ikke som oppgjør av deltakerens innskuddsforpliktelse.
+(4) Kommandittselskap kan ikke registreres i Foretaksregisteret før minst en femdel av den enkelte deltakers innskuddsforpliktelse er innbetalt til selskapet. Ytterligere minst en femdel skal være innbetalt senest to år etter at selskapet er registrert.
+(5) Er det som skal innbetales etter fjerde ledd annet punktum ikke anmeldt innbetalt innen en måned etter utløpet av fristen, skal registerføreren straks varsle tingretten, som skal gi selskapet ny frist på høyst 6 måneder. Er beløpet ikke anmeldt innbetalt innen denne frist heller, skal retten ved kjennelse beslutte selskapet oppløst. Retten skal samtidig med fristfastsettingen opplyse om følgen av at anmeldelsen ikke innkommer.

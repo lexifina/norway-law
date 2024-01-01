@@ -1,0 +1,5 @@
+# § 2-27. Opplysningsplikt og kontrollrett
+(1) Styret og den daglige leder plikter på hensiktsmessig måte å holde deltakerne og medlemmene av selskapsmøtet løpende underrettet om selskapets virksomhet. Denne plikt gjelder ikke overfor stille deltaker.
+(2) Det enkelte medlem av selskapsmøtet kan på møtet kreve opplysninger om selskapets forvaltning og om forhold som for øvrig kan innvirke på bedømmelsen av saker som selskapsmøtet skal behandle. Selskapsmøtet kan iverksette undersøkelser selv eller ved utvalg.
+(3) Den enkelte deltaker har etter forutgående varsel rett til å undersøke og kontrollere selskapets registrerte regnskapsopplysninger, regnskapsmateriale og andre selskapsdokumenter av enhver art, og kan kreve enhver opplysning om selskapets anliggender. Kontrollretten kan utøves personlig eller ved en sakkyndig.
+(4) Datterselskap plikter å gi morselskap de opplysninger som trengs for å vurdere konsernets stilling og resultatet av konsernets virksomhet. Opplysningsplikten etter forrige punktum gjelder tilsvarende overfor enkeltperson som har slik innflytelse over et selskap som nevnt i § 1-2 annet ledd.
