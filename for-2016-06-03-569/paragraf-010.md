@@ -1,0 +1,3 @@
+# § 10. Endring av storulykkevirksomhet
+Dersom en storulykkevirksomhets anlegg, lagringssted, organisasjon, prosess eller farlige kjemikaliers egenskaper, tilstand eller mengde endres på en måte som kan ha betydelig innvirkning på risiko for storulykker, skal den ansvarlige for virksomheten gjennomgå og om nødvendig oppdatere dokumentasjonen etter § 4, § 6, § 7, § 9 og vedlegg III. Dette gjelder også endringer som medfører at en meldepliktig virksomhet blir sikkerhetsrapportpliktig eller omvendt.
+Den ansvarlige for virksomheten skal informere Direktoratet for samfunnssikkerhet og beredskap om endringene før de foretas.
