@@ -1,0 +1,2 @@
+# § 4. Vaksinasjon av landdyr og akvatiske dyr
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13w (forordning (EU) 2023/361) om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til regler for bruk av visse legemidler til dyr med henblikk på forebygging og bekjempelse av visse listeførte sykdommer gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
