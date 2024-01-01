@@ -5,7 +5,8 @@ a) at maskiner, tekniske innretninger, kjemiske stoffer og arbeidsprosesser ikke
 b) at verneinnretninger og personlig verneutstyr er til stede i passende antall, at det er lett tilgjengelig og i forsvarlig stand,
 c) at arbeidstakerne får den nødvendige instruksjon, øvelse og opplæring,
 d) at arbeidet ellers er tilrettelagt slik at arbeidstakerne kan utføre arbeidet på helse- og sikkerhetsmessig forsvarlig måte,
-e) at meldinger om arbeidsulykker mv. i henhold til § 5-2 blir sendt.
+e) at meldinger om arbeidsulykker mv. i henhold til § 5-2 blir sendt,
+f) at arbeidstakernes psykososiale arbeidsmiljø er ivaretatt.
 (3) Blir et verneombud kjent med forhold som kan medføre ulykkes- og helsefare, skal verneombudet straks varsle arbeidstakerne på stedet, og arbeidsgiveren eller dennes representant skal gjøres oppmerksom på forholdet dersom verneombudet selv ikke kan avverge faren. Arbeidsgiveren skal gi verneombudet svar på henvendelsen. Er det ikke innen rimelig tid tatt hensyn til meldingen, skal verneombudet underrette Arbeidstilsynet eller arbeidsmiljøutvalget.
 (4) Verneombudet skal tas med på råd under planlegging og gjennomføring av tiltak som har betydning for arbeidsmiljøet innenfor ombudets verneområde, herunder etablering, utøvelse og vedlikehold av virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid, jf. § 3-1.
 (5) Verneombudet skal gjøres kjent med alle yrkessykdommer, arbeidsulykker og tilløp til ulykker innenfor sitt område, om yrkeshygieniske rapporter og målinger, og om eventuelle feil og mangler som er påvist.
