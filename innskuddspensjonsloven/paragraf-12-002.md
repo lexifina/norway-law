@@ -1,0 +1,3 @@
+# § 12-2. Utskilling av en del av foretaket
+(1) Blir en del av foretaket utskilt til eget foretak, og skal en del av medlemmene i pensjonsordningen overføres til det nye foretaket, gjelder § 12-1 første til fjerde ledd tilsvarende. Er det mindre enn en tredel av de arbeidstakere som er medlemmer i foretakets pensjonsordning som skal overføres til det nye foretaket, kan innskuddsfondet unntas fra fordeling.
+(2) Blir virksomhet i foretaket utskilt og overført til annet foretak, og skal en del av medlemmene i foretakets pensjonsordning overføres til dette foretaket, gjelder første ledd tilsvarende. Har dette foretaket egen pensjonsordning, gjelder reglene i kapittel 11 tilsvarende. For øvrig gjelder reglene i § 11-4 eller kapittel 6.

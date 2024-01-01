@@ -1,0 +1,4 @@
+# § 3-5. Opptjent pensjonskapital
+(1) Et medlem i en ordning med alminnelig forvaltning av pensjonskapitalen har til enhver tid en pensjonskapital tilsvarende summen av de innskudd som er innbetalt for medlemmet, og en forholdsmessig del av avkastning tilført pensjonsordningen i medlemskapsperioden. Hvis ordningen er opprettet i livsforsikringsselskap eller pensjonskasse, omfattes i tilfelle også andel av bufferfond.
+(2) Et medlem i en pensjonsordning som forvalter pensjonskapitalen med investeringsvalg har til enhver tid opptjent en pensjonskapital lik summen av de innskudd som er innbetalt for medlemmet med tillegg og fradrag for medlemmets avkastning og tap. Hvis ordningen er opprettet i livsforsikringsselskap eller pensjonskasse omfattes i tilfelle også andel av bufferfond.
+(3) Endringer i innskuddsplanen påvirker ikke størrelsen av opptjent pensjonskapital på tidspunktet for endringen.

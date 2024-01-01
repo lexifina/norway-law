@@ -1,0 +1,3 @@
+# § 7-5. Forsikringsteknisk omregning av pensjonsforsikring
+(1) Dersom tidspunktet for utbetaling, størrelsen av pensjonsytelsen, utbetalingsperioden eller opphørstidspunktet endres, skal alderspensjon i henhold til pensjonsforsikringsavtale omregnes på forsikringsteknisk grunnlag ut fra beregningsgrunnlaget på endringstidspunktet. Slike endringer kan ikke gjøres etter fylte 75 år.
+(2) Pensjonsforsikringsavtale etter § 7-3 annet ledd bokstav b kan ikke senere omdannes til pensjonsspareavtale. Pensjonsforsikringsavtale med rett til livsvarige alderspensjonsytelser kan ikke kreves omdannet til pensjonsforsikringsavtale med annet bestemt opphørstidspunkt.
