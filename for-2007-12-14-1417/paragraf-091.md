@@ -1,0 +1,5 @@
+# § 91. Opplysningsplikt
+Dersom ikke annet er avtalt, skal gårdbrukeren på anmodning gi rettighetshaveren opplysninger som er relevante for å avgjøre om vilkårene for å bruke landbruksunntaket etter patentloven § 3b første ledd jf. § 90 og § 89 i forskriften her er oppfylt, og for å beregne et eventuelt vederlag etter § 90 annet ledd. Gårdbrukeren skal herunder oppgi:
+1) mengden av planteformeringsmateriale som gårdbrukeren eventuelt har brukt i medhold av patentloven § 3b første ledd
+2) den virksomheten som eventuelt har produsert planteformeringsmaterialet for gårdbrukeren på grunnlag av dennes innhøstede produkter (forarbeidsvirksomheten).
+Dersom ikke annet er avtalt, skal forarbeidsvirksomheten på anmodning gi rettighetshaveren opplysninger om mengden av innhøstede produkter som forarbeidsvirksomheten eventuelt har behandlet for gårdbrukeren, og den samlede mengden planteformeringsmateriale som er produsert på grunnlag av de innhøstede produktene. Retten til å kreve opplysninger gjelder bare for opplysninger fra inneværende produksjonsår og de tre foregående år.

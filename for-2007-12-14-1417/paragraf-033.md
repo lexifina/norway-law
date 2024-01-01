@@ -1,0 +1,3 @@
+# § 33. Utsettelse av meddelelse av patent
+Skal en søknad imøtekommes før den er gjort tilgjengelig for enhver etter patentloven § 22 annet eller tredje ledd, kan Patentstyret etter krav fra søkeren utsette meddelelsen av patent til søknaden er gjort tilgjengelig for enhver. Patentstyret kan ellers ikke utsette meddelelsen av patent etter at beslutning om å imøtekomme søknaden er truffet.
+Krav om utsatt meddelelse av patent skal leveres i eget skriv. Det kan bare tas hensyn til kravet dersom det er kommet inn til Patentstyret innen to måneder etter at søkeren er underrettet om at patent kan meddeles. Det som er fastsatt i patentloven § 20 om betaling av meddelelsesgebyr og søknad om fritak for slikt gebyr, gjelder selv om det er krevd utsettelse med patentmeddelelsen.

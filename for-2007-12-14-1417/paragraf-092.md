@@ -1,0 +1,3 @@
+# § 92. Anmodning om rådgivende uttalelse
+Er Patentstyret i tvil om patentloven § 1b er til hinder for å imøtekomme en søknad, eller om et patent er meddelt i strid med denne bestemmelsen, skal Patentstyret be om en rådgivende uttalelse fra Den etiske nemnden for patentsaker, jf. patentloven § 15a, § 25 tredje ledd og § 52d første ledd annet punktum.
+Anmodningen om rådgivende uttalelse skal være skriftlig og begrunnet. Patentstyret skal sende kopi av anmodningen til partene i saken, som skal gis en frist på én måned for å gi skriftlige kommentarer til Den etiske nemnden for patentsaker. Fristen kan forlenges av Patentstyret eller nemnden hvis det finnes rimelig.

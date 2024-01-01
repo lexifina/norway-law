@@ -1,0 +1,4 @@
+# § 80. Søknad om sertifikat
+Søknad om sertifikat og om forlengelse leveres til Patentstyret på særskilt søknadsskjema. Skjemaet og vedleggene utfylles med trykt skrift. Søknaden skal være signert av søkeren eller søkerens fullmektig. § 2a gjelder tilsvarende. Dersom søkeren har søkt sertifikat for samme produkt i andre stater i EØS-området, må søkeren angi søknadsnumre og søknadsmyndigheter i tillegg til det som søknaden skal inneholde etter legemiddelforordningen artikkel 8 eller plantemiddelforordningen artikkel 8.
+Søknaden skal være på norsk eller engelsk. Er et bilag til søknaden på et annet språk, skal det følge med en oversettelse. Oversettelsen kan kreves bekreftet av en oversetter eller på annen måte godkjent av Patentstyret. Patentstyret kan gjøre unntak fra plikten til å levere oversettelse.
+Dersom sertifikat søkes av flere i fellesskap, og en av dem skal være bemyndiget til å motta meddelelser på alles vegne, skal dette angis i søknaden.

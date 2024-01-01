@@ -1,0 +1,2 @@
+# § 95. Innsyn
+Saksdokumentene til Den etiske nemnden for patentsaker er omfattet av offentleglova, men slik at nemndens saksdokumenter først blir offentlige fra samme tid som Patentstyrets dokumenter i saken, jf. patentloven § 22 første til tredje ledd. Taushetsplikten etter forvaltningsloven § 13 omfatter ikke opplysninger som angår oppfinnelsen etter at dokumentene i saken har blitt tilgjengelige for enhver etter patentloven § 22 første til tredje ledd.

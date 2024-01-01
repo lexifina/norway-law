@@ -1,0 +1,4 @@
+# § 86. Søksmål
+Dersom Klagenemnden avslår en søknad om sertifikat eller forlengelse, kan søkeren bringe avgjørelsen inn for domstolene. Patentloven § 27 tredje ledd gjelder tilsvarende.
+Dersom Klagenemnden har avslått et krav om endring av gyldighetsperioden til et sertifikat, kan sertifikatinnehaveren bringe avgjørelsen inn for domstolene innen to måneder fra melding om avgjørelsen ble sendt vedkommende. Søksmålsfristen skal inntas i meldingen. Søksmål rettes mot staten ved Klagenemnden. Andre enn sertifikatinnehaveren kan ikke bringe avgjørelse som avslår et krav om endring av gyldighetsperioden til et sertifikat inn for domstolene.
+Enhver kan reise søksmål for domstolene for å få kjent et utstedt sertifikat eller en forlengelse ugyldig. Den som reiser ugyldighetssøksmål skal samtidig gi melding om dette til Patentstyret. Patentloven § 64 gjelder tilsvarende.
