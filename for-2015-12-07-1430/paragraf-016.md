@@ -1,0 +1,5 @@
+# § 16. Valg av levende donorer
+Levende donorer velges ut etter en vurdering av personens helse og medisinske historie basert på et spørreskjema, og en samtale med helsepersonell som er kvalifisert og utdannet for dette formål. Formålet med vurderingen er å identifisere og utelukke donasjoner som kan medføre en helserisiko for donor selv eller for andre.
+Kriteriene for valg av donorer skal fastsettes og dokumenteres av virksomheten på grunnlag av de spesifikke celler eller vev som skal doneres, donorens fysiske og medisinske tilstand og adferd, og resultatene av kliniske undersøkelser og laboratorieundersøkelser som fastslår donorens helsetilstand. Ved direkte overføring til mottaker skal kriteriene for valg av donor fastsettes og dokumenteres av legen som foretar transplantasjonen.
+Uttaksprosessen skal ikke ha negative konsekvenser for donors helse. Ved donasjon av blod fra navlestreng eller fosterhinne gjelder dette både for mor og barn.
+Bestemmelsene i første og andre ledd er ikke obligatoriske ved partnerdonasjon av sædceller til direkte bruk.

@@ -1,0 +1,4 @@
+# § 53. Melding om alvorlige uønskede hendelser
+Virksomheten skal, i henhold til etablerte rutiner, registrere og straks gi melding til Direktoratet for medisinske produkter om alvorlige uønskede hendelser som skjer ved anskaffelse, donasjon, uttak, testing, konservering, oppbevaring, koding, merking, prosessering og distribusjon av humane celler og vev til anvendelse på mennesker og som kan påvirke kvaliteten og sikkerheten til celler og vev.
+Den ansvarlige personen i virksomheten skal sørge for at meldingen minst inneholder de opplysningene som følger av skjema A i forskriftens vedlegg 1.
+Virksomheten skal evaluere hendelsen for å identifisere årsaker i prosessen som kan forhindres. Konklusjoner av undersøkelsen skal meldes til Direktoratet for medisinske produkter og minst gi de opplysninger som følger av skjema B i forskriftens vedlegg 1.

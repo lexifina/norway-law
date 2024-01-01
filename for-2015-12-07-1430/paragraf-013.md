@@ -1,0 +1,4 @@
+# § 13. Oppbevaringsbetingelser
+Dersom virksomheten oppbevarer celler og vev, skal det tydelig angis hvilke oppbevaringsbetingelser som er nødvendig for å bevare celler og vevs påkrevde egenskaper, herunder relevante parametere som temperatur, fuktighet eller luftkvalitet. Disse og andre kritiske parametere for oppbevaring skal kontrolleres og overvåkes. Det skal dokumenteres at de angitte oppbevaringsbetingelsene overholdes.
+For å unngå forveksling og krysskontaminering, skal det ved oppbevaring være tydelig fysisk skille mellom celler og vev som er frigitt og celler og vev som ikke er frigitt eller som er i karantene. Celler og vev som er forkastet skal oppbevares atskilt fra øvrige celler og vev. Celler og vev som er innsamlet etter særlige kriterier skal oppbevares i fysisk atskilte områder både under karantene og etter frigivelse.
+Bestemmelsene gjelder ikke for virksomheter som har donorutvelgelse, uttak eller testing som sine eneste aktiviteter.

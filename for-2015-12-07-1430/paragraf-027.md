@@ -1,0 +1,4 @@
+# § 27. Informasjon
+Før uttak skal den som har ansvar for donasjonsprosessen sikre at donor, eller den som samtykker på donors vegne, på riktig måte mottar nødvendig og relevant informasjon om de forhold som er knyttet til donasjon og uttak, jf. også transplantasjonslova § 7 sjette ledd. Den som informeres skal gis anledning til å stille spørsmål og få tilfredsstillende svar på disse.
+Informasjon skal gis av en fagperson som er i stand til å formidle informasjonen på en egnet og klar måte, ved å benytte ord og uttrykk som lett forstås av mottakeren.
+Virksomheten skal sørge for at de som skal samtykke til donasjon får informasjon om registrering av helseopplysninger og behandlingen av disse. Det skal også gis fullstendig informasjon om sporbarhetskravet etter § 40, og at dette til enhver tid går foran donorens ønske om å få slettet opplysninger om seg selv når det gjelder materiale som er brukt.
