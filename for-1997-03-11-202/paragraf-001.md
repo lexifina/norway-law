@@ -1,0 +1,4 @@
+# § 1
+Når en person får rett til pensjon eller overgangsstønad til gjenlevende ektefelle, omstillingsstønad til gjenlevende ektefelle, uførepensjon eller arbeidsavklaringspenger, men ligningen for året før ikke er lagt fram, skal den pensjonsgivende inntekten og/eller pensjonspoengtallet for det året foreløpig fastsettes etter bestemmelsene i denne paragrafen.
+For en person som har rett til uførepensjon eller arbeidsavklaringspenger, skal den pensjonsgivende inntekten foreløpig fastsettes på grunnlag av lønnsoppgave fra arbeidsgiveren eller medlemmets selvangivelse.
+For en person som har rett til pensjon eller overgangsstønad som gjenlevende ektefelle, skal den pensjonsgivende inntekten foreløpig fastsettes på grunnlag av lønnsoppgave fra den avdødes arbeidsgiver, eller enten den avdødes eller dødsboets selvangivelse.
