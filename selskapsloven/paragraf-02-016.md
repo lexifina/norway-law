@@ -1,0 +1,5 @@
+# § 2-16
+(1) Om ikke annet er avtalt, er styret vedtaksført når mer enn halvdelen av samtlige styremedlemmer deltar. Styret kan likevel ikke treffe beslutning med mindre alle medlemmer av og observatører i styret så vidt mulig er gitt anledning til å delta i sakens behandling. Har et styremedlem eller observatør forfall og det fins varamedlem for ham, skal varamedlemmet gis anledning til å delta.
+(2) Som styrets beslutning gjelder det som flertallet blant de som deltar har stemt for, eller ved stemmelikhet det som møtelederen har stemt for. De som stemmer for en beslutning må likevel alltid utgjøre mer enn en tredel av samtlige styremedlemmer.
+(3) Ved valg eller ansettelse er den valgt eller ansatt som får flest stemmer. Styret kan på forhånd bestemme at det skal holdes ny avstemning dersom ingen får flertall av de avgitte stemmer. Står stemmetallet likt ved valg av formann eller møteleder, avgjøres valget ved loddtrekning. I andre tilfeller gjelder det lederen har stemt for.
+(4) Det kan avtales flertallskrav som avviker fra det som er fastsatt i annet og tredje ledd og avvikende regler om følgen av stemmelikhet.

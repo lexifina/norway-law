@@ -1,0 +1,3 @@
+# § 3-18
+(1) Ved forhøyelse av selskapskapitalen gjelder §§ 3-2 til 3-5 tilsvarende så langt de passer.
+(2) Er minst to femdeler av det beløp selskapskapitalen skal forhøyes med ikke anmeldt fullt innbetalt innen 1 måned etter utløpet av den frist som er angitt i § 3-5 fjerde ledd annet punktum, skal Foretaksregisteret gi selskapet en frist på 3 måneder til å anmelde hvor mye av den forhøyde selskapskapital som er innbetalt. Blir det ikke anmeldt at et tilstrekkelig beløp er fullt innbetalt, skal Foretaksregisteret registrere at selskapskapitalen er nedsatt med et så stort beløp at innbetalingsplikten etter § 3-5 fjerde ledd anses oppfylt. Beløpet er slettet når nedsettingen er registrert.

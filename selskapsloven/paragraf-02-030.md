@@ -1,0 +1,5 @@
+# § 2-30
+(1) Ved eierskifte trer erververen inn i overdragerens samtlige rettigheter og forpliktelser overfor de øvrige deltakere. Han er på samme måte som overdrageren bundet av de beslutninger og disposisjoner som selskapet har truffet før eierskiftet, og selskapet og de øvrige deltakere kan bringe i motregning mot han fordringer som de ifølge selskapsforholdet har på overdrageren.
+(2) For forpliktelser som påhvilte selskapet ved eierskiftet, hefter overdrageren og erververen en for begge og begge for en inntil kreditor må anses å ha fritatt overdrageren for ansvar. Dersom overdrageren må oppfylle en selskapsforpliktelse, gjelder § 2-5 tilsvarende, men andel som skal bæres av erververen kan bare søkes tilbake hos denne.
+(3) Overdrageren kan skriftlig på papir anmode selskapets kreditorer om å bli fritatt for ansvar. Svarer en kreditor ikke på en slik anmodning innen 3 måneder etter at anmodningen er kommet fram, anses kreditor for å ha fritatt overdrageren for ansvar.
+(4) Tredje ledd gjelder tilsvarende for overdragerens ansvar overfor selskapsdeltakerne.

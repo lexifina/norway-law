@@ -1,0 +1,6 @@
+# § 3-13. Selskapets representasjon
+(1) Den enkelte komplementar representerer selskapet utad og tegner dets firma. Har selskapet styre som er registrert i Foretaksregisteret, representerer den enkelte komplementar selskapet utad i saker som faller innenfor hans myndighet etter § 3-10 første ledd. Det kan bestemmes at bare en eller flere komplementarer har rett til å tegne selskapets firma, og at de som har slik rett må utøve den i fellesskap.
+(2) Har selskapet styre representerer dette selskapet utad og tegner dets firma. Det kan bestemmes at et eller flere styremedlemmer skal ha rett til å tegne selskapets firma, og at de som har slik rett må utøve den i fellesskap.
+(3) Har selskapet daglig leder, representerer denne selskapet utad i saker som faller innenfor hans myndighet etter § 3-11, jf § 2-18.
+(4) Det kan bestemmes at daglig leder eller bestemt betegnete ansatte skal ha rett til å tegne selskapets firma, og i tilfelle at de som har slik rett må utøve den i fellesskap.
+(5) Bestemmelse som nevnt i første ledds tredje punktum, annet ledds annet punktum og fjerde ledds annet alternativ, kan bare gjøres gjeldende overfor tredjemann når den er registrert i Foretaksregisteret, med mindre tredjemann kjente eller burde kjenne bestemmelsen.
