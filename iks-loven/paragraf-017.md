@@ -1,0 +1,3 @@
+# § 17. Overskridelse av representasjonsretten
+Bestemmelse om signaturrett som nevnt i § 16 annet ledd kan bare gjøres gjeldende overfor en tredjeperson når opplysning om beslutningen er registrert i Foretaksregisteret eller når tredjepersonen kjente eller burde kjent begrensningen.
+Har noen som representerer selskapet utad ved handling på vegne av selskapet overskredet sin myndighet, er handlingen ikke bindende for selskapet dersom medkontrahenten innså eller burde innsett at myndigheten ble overskredet, og det derfor ville stride mot redelighet og god tro å gjøre rett etter handlingen gjeldende.
