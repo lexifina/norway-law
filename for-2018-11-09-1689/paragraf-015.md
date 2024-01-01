@@ -1,0 +1,6 @@
+# § 15. Markedsrisiko
+Derivatavtaler skal hensyntas i beregningen av kapitalkravet for de ulike undermodulene i kapitalkravet for markedsrisiko.
+Kapitalkravet for markedsrisiko skal beregnes på følgende måte: $$SK_{MA} = \sqrt{ \sum_{i,j} Korr_{i,j} \cdot SK_i \cdot SK_j }$$ der SKMA = kapitalkravet for markedsrisiko, Korri,j = korrelasjonsparameteren for undermodul i og j for markedsrisiko, og SKi og SKj = kapitalkravet for henholdsvis undermodul i og j.
+Kapitalkravene for undermodulene skal summeres ved å anvende en av korrelasjonsmatrisene som angitt i femte og sjette ledd, avhengig av om kapitalkravet for renterisiko er beregnet ved en rentenedgang eller en renteoppgang.
+Dersom kapitalkravet for renterisiko er beregnet ved en rentenedgang skal følgende matrise benyttes: i\jRenteAksjerEiendomValutaKredittmarginKonsentrasjonRente10,50,50,250,50Aksjer0,510,750,250,750Eiendom0,50,7510,250,50Valuta0,250,250,2510,250Kredittmargin0,50,750,50,2510Konsentrasjon000001
+Dersom kapitalkravet for renterisiko er beregnet ved en renteoppgang skal følgende matrise benyttes: i\jRenteAksjerEiendomValutaKredittmarginKonsentrasjonRente1000,2500Aksjer010,750,250,750Eiendom00,7510,250,50Valuta0,250,250,2510,250Kredittmargin00,750,50,2510Konsentrasjon000001

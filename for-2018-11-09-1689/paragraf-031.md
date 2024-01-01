@@ -1,0 +1,3 @@
+# § 31. Avgangsrisiko
+Avgangsrisiko omfatter risikoen for tap som følge av at kunden avslutter kontrakten med pensjonskassen før kontraktens utløp, f.eks. ved å flytte kontrakten til en annen pensjonstilbyder eller ved å stoppe videre premieinnbetaling.
+Kapitalkravet for avgangsrisiko skal beregnes som $$\begin{align} SK_{AR} = \: \: maks &(0{,}7 \cdot (FA_{off} - BE_{off});0) + maks (0{,}7 \cdot (FA_{priv} - BE_{priv});0) \\ + maks &(0{,}4 \cdot (FA_{fri} - BE_{fri});0) + maks (0{,}4 \cdot (FA_{ettår} - BE_{ettår});0) \\ + maks &(0{,}4 \cdot (FA_{inv.valg} - BE_{inv.valg});0) \end{align} $$ der SKAR = kapitalkravet for avgangsrisiko.

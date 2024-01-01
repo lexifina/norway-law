@@ -1,0 +1,3 @@
+# § 16. Gjennomskjæring
+Kapitalkravet for markedsrisiko skal beregnes på grunnlag av hver av de underliggende eiendelene i foretak for kollektiv investering, herunder verdipapirfond.
+Når beregningen etter første ledd ikke er gjennomførbar, skal kapitalkravet beregnes på grunnlag av den målsatte fordelingen av eiendeler i foretaket for kollektiv investering, forutsatt at en slik fordeling er tilgjengelig på det detaljnivået som kreves, og at de underliggende eiendelene forvaltes strengt i samsvar med den målsatte fordelingen. Ved anvendelse av denne beregningen kan data grupperes, forutsatt at gruppene fastsettes på en forsiktig måte og at de ikke omfatter mer enn 20 prosent av den samlede verdien av pensjonskassens eiendeler.
