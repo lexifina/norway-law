@@ -1,0 +1,2 @@
+# § 1. Formål
+Denne forskrift skal gi utfyllende bestemmelser om datainnsamling og dokumentasjon innenfor de områdene under lov 29. november 1996 nr. 72 om petroleumsvirksomhet (petroleumsloven) og forskrift 27. juni 1997 nr. 653 til lov om petroleumsvirksomhet (petroleumsforskriften) som er delegert til Sokkeldirektoratet. Forskriften skal også ivareta hensyn til tredjepart i forbindelse med geofysiske undersøkelser.

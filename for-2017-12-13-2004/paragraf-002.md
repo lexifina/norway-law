@@ -1,0 +1,2 @@
+# § 2. Virkeområde
+Denne forskrift får anvendelse for ressursforvaltning i petroleumsvirksomheten på områder som omfattes av petroleumsloven § 1-4. Forskriften gjelder ikke for virksomhet etter petroleumsforskriften kapittel 4a. Slik virksomhet reguleres av forskrift 13. desember 2017 nr. 2003 om materiale og dokumentasjon ved undersøkelse etter og utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2 (Forskrift om dokumentasjon ved lagring av CO2 på sokkelen).
