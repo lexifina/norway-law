@@ -1,0 +1,4 @@
+# § 14. Forenklet solvenskapitalkrav
+Det forenklede solvenskapitalkravet skal beregnes på følgende måte $$SK=BSK+SK_{OP}-TE_{US}$$ der BSK = basissolvenskapitalkravet, SKOP = kapitalkravet for operasjonell risiko, og TEUS = justering for den tapsabsorberende evnen til utsatt skatt.
+Basissolvenskapitalkravet skal beregnes på følgende måte $$BSK=\sqrt{\sum_{i,j}Korr_{i,j}\cdot SK_{i}\cdot SK_{j}}$$ der Korri,j = korrelasjonsparameteren for risikomodul i og j og, SKi og SKj = kapitalkravet for henholdsvis risikomodul i og j.
+Korrelasjonsparameterne som skal anvendes ved beregning av basissolvenskapitalkravet er gitt ved følgende matrise: i\jMarkedsrisikoMotpartsrisikoLivsforsikringsrisikoHelseforsikringsrisikoMarkedsrisiko10,250,250,25Motpartsrisiko0,2510,250,25Livsforsikringsrisiko0,250,2510,25Helseforsikringsrisiko0,250,250,251

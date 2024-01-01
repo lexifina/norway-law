@@ -1,0 +1,4 @@
+# § 28. Livsforsikringsrisiko
+Kapitalkravet for livsforsikringsrisiko skal omfatte risikoen for endrede forutsetninger om døds-, opplevelses-, uføre- og avgangsrisiko som kan påvirke verdien av forpliktelsene.
+Det samlede kapitalkravet for livsforsikringsrisiko skal beregnes som $$SK_{LF} = \sqrt{ \sum_{i,j} Korr_{i,j} \cdot SK_i \cdot SK_j}$$ der SKLF = kapitalkravet for livsforsikringsrisiko, Korri,j = korrelasjonsparameteren for risiko og knyttet til livsforsikring, i og j. SKi og SKj = kapitalkravet for henholdsvis risiko i og j.
+Kapitalkravene for de ulike risikoene knyttet til livsforsikring skal summeres ved å anvende følgende korrelasjonsmatrise: i\jDødsrisikoOpplevelsesrisikoUførerisikoAvgangsrisikoDødsrisiko1-0,250,250Opplevelsesrisiko-0,25100,25Uførerisiko0,25010Avgangsrisiko00,2501

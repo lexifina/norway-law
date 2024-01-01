@@ -1,0 +1,2 @@
+# § 27. Type 2-eksponeringer i motpartsrisiko
+Kapitalkravet for type 2-eksponeringer beregnes på følgende måte $$SK_{E2} = 15\% \cdot (E + Bolig_{\gt 60pst}) + 90\% \cdot E_{\text{forfalt}}$$ der E = summen av verdi av type 2-eksponering, eksklusive boliglån og fordringer på formidlere forfalt i mer enn 3 måneder, Bolig>60pst = boliglån utover 60 prosent av panteverdi, og Eforfalt = summen av fordringer på formidlere forfalt i mer enn 3 måneder.
