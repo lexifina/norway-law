@@ -1,0 +1,2 @@
+# § 2-2. Rett til å motsette seg behandling av helseopplysninger
+Den registrerte kan motsette seg at helseopplysninger gjøres tilgjengelig fra registeret for formål som er nevnt i § 1-1 tredje ledd. Dette gjelder likevel ikke tilgjengeliggjøring av opplysninger uten direkte personidentifiserende kjennetegn i henhold til statens forpliktelser etter EUs legemiddeldirektiv (direktiv 2001/83/EF). Reservasjonsretten etter første punktum gjelder heller ikke tilgjengeliggjøring for sammenstilling etter § 4-1.
