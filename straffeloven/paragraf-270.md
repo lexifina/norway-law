@@ -1,0 +1,3 @@
+# § 270. Konverteringsterapi
+Med bot eller fengsel inntil 3 år straffes den som krenker en annen ved å anvende psykoterapeutisk, medisinsk, alternativmedisinsk eller religiøst baserte metoder eller lignende systematiske fremgangsmåter i den hensikt å påvirke vedkommende til å endre, fornekte eller undertrykke sin seksuelle orientering eller kjønnsidentitet.
+På samme måte straffes den som utsetter en person under 18 år for metoder eller fremgangsmåter som nevnt i første ledd, i den hensikt å påvirke vedkommende til å endre, fornekte eller undertrykke sin seksuelle orientering eller kjønnsidentitet. Uvitenhet om barnets riktige alder fører ikke til straffrihet hvis gjerningspersonen kan klandres for sin uvitenhet.

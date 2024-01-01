@@ -11,7 +11,7 @@ c) på vegne av et foretak registrert i Norge,
 6) er rettet mot den norske stat eller norsk statsmyndighet, eller rammes av §§ 120 a eller 127 jf. 120 a,
 7) er foretatt utenfor området for noen stats høyhetsrett og kan straffes med fengsel,
 8) anses som omsorgsunndragelse,
-9) rammes av §§ 257, 291-296, 299-306 eller §§ 309-316,
+9) rammes av §§ 257, 270, 291-296, 299-306 eller §§ 309-316,
 10) anses som terror- eller terrorrelatert handling etter straffeloven kapittel 18, eller rammes av §§ 145 eller 146,
 11) anses som oppfordring til en straffbar handling etter straffeloven § 183 eller innebærer fremsettelse av en hatefull ytring etter straffeloven § 185,
 12) anses som korrupsjon eller påvirkningshandel etter §§ 387 til 389, eller
