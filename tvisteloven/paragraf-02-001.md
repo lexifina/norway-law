@@ -1,7 +1,7 @@
 # § 2-1. Partsevne
 (1) Partsevne har
 a) enhver fysisk person,
-b) Stat, kommuner og fylkeskommuner,
+b) stat, kommuner og fylkeskommuner,
 c) selskaper, herunder aksjeselskaper, ansvarlige selskaper og kommandittselskaper,
 d) samvirkeforetak, sparebanker og stiftelser,
 e) konkursboer og dødsboer under offentlig skifte,

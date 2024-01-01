@@ -10,4 +10,4 @@ f) andre saker hvor det er bestemt i lov at mekling i forliksrådet ikke finner 
 a) tvistesummen er minst kr 200 000, og begge parter har vært bistått av advokat,
 b) utenrettslig mekling etter kapittel 7 er gjennomført,
 c) tvisten er blitt realitetsbehandlet i klage- eller reklamasjonsnemnd etter samtykke fra den annen part eller i en slik nemnd som er offentlig godkjent etter særskilt lovbestemmelse, eller
-d) det etter reglene i §§ 15-1 til 15-3 bringes inn et nytt krav eller en ny part etter at stevning i saken er forkynt.
+d) det etter reglene i §§ 15-1 til 15-3 bringes inn et nytt krav eller en ny part i saken.
