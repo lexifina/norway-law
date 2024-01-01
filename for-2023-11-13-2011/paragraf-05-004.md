@@ -1,0 +1,7 @@
+# § 5-4. Klageordning og klageorgan
+(1) Styret skal opprette en fast klagenemnd som behandler klager over enkeltvedtak som definert i § 5-1 (2) i denne forskriften.
+(2) Skolens klagenemnd skal ha fem medlemmer med personlige varamedlemmer. Lederen og varamedlemmet for lederen skal fylle de lovbestemte kravene for lagdommere. Lederen og varamedlemmet for lederen skal ikke være ansatt ved fagskolen. To av medlemmene skal være studenter, som velges av og blant studentene gjennom urnevalg.
+(3) Den lokale klagenemndas medlemmer utenom studentrepresentantene med vara, velges for fire år av gangen. Studentrepresentantene med vara velges for ett år av gangen.
+(4) Klagenemnda er vedtaksfør når lederen eller varamedlemmet for lederen og to andre medlemmer er til stede. Klagenemnda innkalles og møtes etter behov.
+(5) OSMAA er som fagskole for utdanning av kommersielle piloter, underlagt både fagskoleloven og den felleseuropeiske EASA lovgiving. Enkeltvedtak som påklages må derfor vurderes opp mot både fagskoleloven og EASA lovgivningen. Ved motstrid vil EASA lovgivningen gå foran fagskoleloven, jf. EØS-loven § 2. Klagenemndas avgjørelser av enkeltvedtak må være i samsvar med EASA Part.FCL.
+(6) Vedtak i saker som berører annullering av eksamen, utestenging og bortvisning, samt andre forhold omfattet av fagskoleloven § 24 til § 25 kan påklages til Nasjonale klagenemnd for høyere yrkesfaglig utdanning.
