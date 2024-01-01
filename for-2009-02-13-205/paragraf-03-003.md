@@ -1,0 +1,5 @@
+# § 3-3. Oppfølging
+Oppdages det ved tuberkuloseundersøkelse symptomer eller tegn som kan bety at en person har tuberkuløs sykdom, skal vedkommende henvises til barneavdeling, lungemedisinsk eller infeksjonsmedisinsk poliklinikk for nærmere vurdering og supplerende undersøkelser. Ved mistanke om smittsom lungetuberkulose skal utredning igangsettes umiddelbart.
+Spesialist i lungemedisin, infeksjonsmedisin eller barnesykdommer har ansvar for igangsetting av behandling og valg av behandlingsregime. Behandlingen skal skje i samsvar med gjeldende anbefalinger for tuberkulosekontroll, herunder direkte observert behandling.
+Spesialisten skal straks varsle tuberkulosekoordinator, som er ansvarlig for at det etableres en behandlingsplan for pasienten for hele behandlingsperioden. Behandlingsplanen skal etableres i samarbeid med spesialisten, pasienten og kommunelegen. Oppfølging og kontroll, herunder observasjon av inntak av tuberkulosemedikamenter, skal skje i samarbeid med kommunehelsetjenesten.
+Pasienter med multiresistent tuberkulose skal behandles ved det helseforetak som er utpekt av det regionale helseforetaket.
