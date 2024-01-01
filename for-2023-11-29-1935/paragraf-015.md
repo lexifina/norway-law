@@ -1,0 +1,2 @@
+# § 15. Utsatt innlevering og 2. gangs innlevering av forskerlinjeoppgave
+Fakultetet kan innvilge utsatt innlevering dersom det dokumenteres særlige grunner. Utsatt frist skal stå i forhold til lengden på hendelsen som ligger til grunn for utsettelsen. Dersom innlevert oppgave ikke blir godkjent, kan studenten levere revidert oppgave én gang med en frist som normalt ikke er lengre enn tre måneder.

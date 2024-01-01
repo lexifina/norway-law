@@ -1,0 +1,2 @@
+# § 16-1. Oppnevning av vurderingskomité
+Vurderingen av forskerlinjeoppgaven gjøres av en vitenskapelig komité bestående av minst to vitenskapelig kvalifiserte og habile personer som fakultetet utpeker. Vurderingen består av en bedømmelse av den skriftlige oppgaven og den muntlige presentasjonen av denne. Habilitetsreglene i forvaltningslovens § 6 gjelder. Medlemmene i vurderingskomiteen skal ikke ha sampublisert med studenten eller med noen av veilederne i den tiden studenten har gått på forskerlinjen.

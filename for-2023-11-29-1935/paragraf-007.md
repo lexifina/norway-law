@@ -1,0 +1,4 @@
+# § 7. Veiledning
+Arbeidet i forskerlinjen skal foregå under individuell veiledning. Fakultetet selv oppnevner veiledere. Forskerlinjestudenten skal alltid ha minst to veiledere; en hovedveileder og minst en medveileder. Alle veiledere skal oppnevnes i opptaksvedtaket. Normalt bør ikke veilederteamet bestå av flere enn tre personer.
+Habilitetsreglene i forvaltningsloven gjelder også mellom veilederne. Nære relasjoner i veilederteamet godkjennes derfor ikke. Medveiledere er fagpersoner som gir veiledning og som deler det faglige ansvaret for studenten med hovedveileder.
+Dersom fakultetet oppnevner ekstern hovedveileder, skal det oppnevnes en medveileder som er vitenskapelig ansatt ved NTNU. Alle veilederne skal være angitt i opptakssøknaden. Tvister om veileders og studentens faglige rettigheter og plikter kan bringes inn av partene til behandling og avgjørelse ved fakultetet.

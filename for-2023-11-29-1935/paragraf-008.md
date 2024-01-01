@@ -1,0 +1,3 @@
+# § 8. Opplæringsdel
+Opplæringsdelen skal godkjennes av fakultetet.
+Opplæringsdelen skal inneholde fakultetets obligatoriske ph.d.-emner for ph.d.-studiet i medisin og helsevitenskap, samt metodiske og tematiske emner som er tilpasset studentens prosjekt. Studenten skal sammen med veileder utarbeide et forslag til tilpasset opplæringsdel tilsvarende 30 studiepoeng. Opplæringsdelen bør ikke overstige 30 studiepoeng vesentlig. Regler for hvordan opplæringsdelen kan settes sammen av obligatoriske og valgfrie emner samt andre elementer enn ph.d.-emner reguleres i NTNUs ph.d.-forskrift § 9. Dette er også gjeldende for forskerlinjen.

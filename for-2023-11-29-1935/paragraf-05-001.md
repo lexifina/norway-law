@@ -1,0 +1,2 @@
+# § 5-1. Vilkår for opptak
+Studenter i 2. eller 3. studieår på medisinstudiet ved NTNU kan søke opptak til forskerlinjen. Opptak skjer i vårsemesteret. Informasjon om opptaket til forskerlinjen skjer i henhold til kunngjorte retningslinjer på forskerlinjens nettsider. Oppstart for forskerlinjen er første høsttermin etter opptak og forutsetter at studenten har bestått ordinær eksamen eller første mulige kontinuasjonseksamen.
