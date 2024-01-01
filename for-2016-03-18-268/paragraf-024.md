@@ -1,0 +1,4 @@
+# § 24. Digital avlevering
+Ved avlevering av digitalt pasientarkivmateriale skal uttrekk av arkivdata i samsvar med § 11 benyttes. Som grunnlag for kvitteringer og avviksmeldinger, skal uttrekket inneholde strukturert elektronisk avleveringsliste, tilsvarende avleveringsliste for fysiske avleveringer etter § 23.
+Overføring av data fra avleverende virksomhet til Norsk helsearkiv, og retur av kvitteringsmelding og eventuelle avviksmeldinger, skal foregå elektronisk og innenfor de rammer som er etablert for elektronisk kommunikasjon i helse- og omsorgstjenesten. Dersom avleverende virksomhet ikke er i stand til å overføre data elektronisk innenfor dette rammeverket, kan det avtales særskilt at det digitale uttrekket skal avleveres til Norsk helsearkiv på et fysisk lagringsmedium.
+Elektronisk pasientarkivmateriale som er avlevert til Norsk helsearkiv kan kasseres etter at Norsk helsearkiv har kvittert for at avleveringen er mottatt og akseptert.
