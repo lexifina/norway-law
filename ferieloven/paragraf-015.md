@@ -1,0 +1,2 @@
+# § 15. Adgang for Kongen til å fastsette lengre ferie
+Kongen kan bestemme at det skal innføres rett til feriefritid i inntil 5 virkedager ut over feriefritiden etter § 5. Den enkelte utvidelse må være forsvarlig ut fra en vurdering av landets totale økonomiske stilling. Den alminnelige prosentsats for feriepenger skal være 10,6 når beslutning om 26 virkedager feriefritid er tatt, og etter beslutninger om feriefritid i 27, 28, 29 og 30 virkedager, henholdsvis 11,0, 11,4, 11,8 og 12,3.
