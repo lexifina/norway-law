@@ -1,0 +1,2 @@
+# § 3. Forhandlinger om inngåelse av tariffavtale
+Fagforening, arbeidsgiver, arbeidsgiverforening eller sammenslutning av slike kan fremsette krav om forhandlinger med sikte på å inngå eller revidere en tariffavtale. Dersom motparten ikke møter til forhandlinger eller forhandlingene ikke fører til inngåelse av en ny eller revidert tariffavtale, kan streik eller lockout iverksettes når de vilkår som fremgår av §§ 18 og 25 er oppfylt.

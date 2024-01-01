@@ -1,0 +1,6 @@
+# § 56. Rettens avgjørelser
+(1) Rettens avgjørelser treffes med stemmeflertall.
+(2) Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Domsavsigelsen kan skje senere dersom særlige omstendigheter gjør at det ikke er mulig å overholde fristen. Hvis fristen ikke overholdes, skal årsaken oppgis i dommen.
+(3) Tvisteloven § 19-4 første til tredje ledd om avsigelse og § 19-5 om underretning om avgjørelsen gjelder så langt de passer.
+(4) Retten kan beslutte å rette en avgjørelse som på grunn av skrive- eller regnefeil, misforståelser, forglemmelser eller lignende klare feil har fått en utforming som ikke stemte med rettens mening. Slik retting kan retten foreta av eget tiltak eller på begjæring av en part. Den dommer som ledet forhandlingene, kan foreta rettelsene dersom det ikke er tvil om hvordan de skal utføres. Beslutning om retting skal tilføyes avgjørelsen slik at det fremgår hva som er rettet. Partene skal underrettes straks.
+(5) Saksstyrende kjennelser og andre beslutninger kan retten omgjøre når omgjøringen ikke er uforholdsmessig tyngende for en part som har innrettet seg etter avgjørelsen. Tvisteloven § 19-10 fjerde ledd om omgjøring gjelder tilsvarende så langt den passer.

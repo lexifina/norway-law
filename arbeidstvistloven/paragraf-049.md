@@ -1,0 +1,5 @@
+# § 49. Stansing av saken
+(1) Saksforberedende dommer kan stanse en sak på begjæring fra en part dersom utfallet helt eller delvis avhenger av et rettsforhold som vil bli bindende avgjort i en annen sak. Saken kan også stanses dersom tungtveiende grunner ellers taler for det. Det skal legges vekt på behovet for hurtig, forsvarlig og kostnadseffektiv behandling.
+(2) Avgjørelse om stansing treffes ved kjennelse av saksforberedende dommer. Virkningen av stansing inntrer når kjennelsen er avsagt. Saken bringes i gang igjen når behandlingen kan fortsette.
+(3) Partene kan avtale stansing av en sak i minst tre måneder. Avtalen får virkning når retten har mottatt den. Saksforberedende dommer bringer saken i gang igjen på begjæring fra en part. Samme sak kan stanses ved avtale mellom partene flere ganger. En sak som er stanset etter avtale mellom partene, heves når den har vært stanset i til sammen to år.
+(4) Tvisteloven § 16-15 om virkning av stansing og § 16-16 om stansing etter loven gjelder tilsvarende så langt de passer.

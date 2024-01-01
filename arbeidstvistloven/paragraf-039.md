@@ -1,0 +1,4 @@
+# § 39. Innstillingsretten
+(1) Arbeidsgiverforening som omfatter minst 100 arbeidsgivere som til sammen sysselsetter minst 10 000 arbeidstakere, samt fagforening som har minst 10 000 arbeidstakere som medlemmer, kan hver for seg fremsette forslag til to dommere med varadommere. De som foreslås, må ha sagt seg villige til å motta vervet.
+(2) Blant dem som er foreslått, oppnevnes to dommere med varadommere fra hver side. Er det innkommet konkurrerende forslag fra forskjellige fagforeninger eller arbeidsgiverforeninger, skal de faste dommerne fra hver side oppnevnes blant dem som er foreslått av den fagforening og den arbeidsgiverforening som har flest medlemmer innenfor lovens område.
+(3) Er ikke innstilling kommet inn til departementet innen en fastsatt frist, skjer oppnevningen uten innstilling.

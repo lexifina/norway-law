@@ -1,0 +1,6 @@
+# § 62. Fravær mv.
+(1) Hvis et vitne eller noen som ellers har fått særlig pålegg om å møte personlig, uteblir uten gyldig fravær, ikke i tide melder forfall eller uten tillatelse forlater møtet før det er slutt, kan vedkommende ilegges bot og pålegges helt eller delvis å erstatte de omkostninger som er pådratt. Avgjørelsen treffes ved kjennelse.
+(2) Uteblir vedkommende etter ny innkalling eller oppfordring til å møte, kan det enda en gang ilegges bot og omkostningsansvar.
+(3) Som ugyldig fravær regnes også at noen uten gyldig grunn nekter å påta seg oppgaven som sakkyndig, at en sakkyndig forsømmer sin plikt, og at noen må avvises fordi vedkommende møter beruset.
+(4) Nekter noen uten gyldig grunn å forklare seg eller avlegge forsikring, kan vedkommende ved kjennelse under saken ilegges bøter og pålegges helt eller delvis å erstatte de omkostninger som nektelsen har forårsaket. Vedkommende kan ikke ilegges slik straff og slikt omkostningsansvar mer enn to ganger i samme sak.
+(5) Hvis noen ikke etterkommer pålegg om å fremlegge et dokument eller fremvise, forelegge eller gi adgang til en ting eller å etterse og gjøre utdrag av et dokument eller lignende, regnes det som å nekte å forklare seg.
