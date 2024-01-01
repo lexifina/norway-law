@@ -1,0 +1,2 @@
+# § 4-7. Bygninger
+Bygninger og rom for høyspenningsinstallasjoner skal bygges og utstyres slik at de gir sikkerhet for personer i og utenfor anleggene. Adkomstmuligheter som dører og vinduer skal utføres slik at uvedkommendes adgang til anleggene effektivt hindres. Bygninger og rom skal være tjenlige for formålet og være slik at vesentlige materielle skader unngås ved feil, feilbetjening eller brann.
