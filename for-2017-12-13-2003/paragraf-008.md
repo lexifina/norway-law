@@ -1,0 +1,3 @@
+# § 8. Krav ved gjennomføring av seismisk undersøkelse
+Ved oppstart av seismisk undersøkelse skal det gjøres en gradvis oppstart av lydkilden for å gi fisk og marine pattedyr mulighet til å forlate nærområdet for undersøkelsen. Kravet til gradvis oppstart kan kun fravikes ved bruk av mindre kildevolum og begrensede undersøkelser med èn lydkilde, der det ikke er teknisk mulig å regulere lydvolum.
+Fartøy som foretar seismisk undersøkelse, skal holde forsvarlig avstand til fartøy som driver fiske og til faststående og flytende fiskeredskap. Særlig aktsomhet skal utvises når større ansamlinger av fiskefartøy observeres.

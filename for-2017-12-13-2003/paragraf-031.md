@@ -1,0 +1,2 @@
+# § 31. Statusrapport før oppstart av injeksjon og lagring av CO2
+Rettighetshaver skal samtidig som det søkes om samtykke til injeksjon og lagring av CO2 etter forskrift om lagring og transport av CO2 på sokkelen § 5-2 eller petroleumsforskriften § 30e, sende en statusrapport til Sokkeldirektoratet. Statusrapporten skal beskrive endringer, som er av betydning for injeksjon og lagring på lagringslokaliteten, etter at plan for utbygging og drift av undersjøisk reservoar til injeksjon og lagring av CO2 er godkjent eller etter at det er gitt fritak for slik plan.
