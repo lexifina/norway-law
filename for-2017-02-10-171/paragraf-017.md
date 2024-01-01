@@ -1,0 +1,6 @@
+# § 17. Framgangsmåter ved samsvarsvurdering før beholdere produseres
+Før beholdere, hvor produktet av PS × V overstiger 50 bar·l, produseres, skal de gjennomgå EU-typeprøvingen (modul B) etter vedlegg II nr. 1 på følgende måte:
+a) For beholdere som produseres i samsvar med de harmoniserte standardene nevnt i § 14, skal produsenten velge én av følgende to måter:
+1) En vurdering av egnetheten til beholderens tekniske konstruksjon ved en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen, uten en undersøkelse av eksemplaret (modul B – konstruksjonstype).
+2) En vurdering av egnetheten til beholderens tekniske konstruksjon ved en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen, og en undersøkelse av en prototyp som er representativ for den planlagte produksjonen av den komplette beholderen (modul B – produksjonstype).
+b) For beholdere som ikke eller bare delvis produseres i samsvar med de harmoniserte standardene nevnt i § 14, skal produsenten legge fram en prototyp, som er representativ for den planlagte produksjonen av den komplette beholderen, og den tekniske dokumentasjonen og underlagsdokumentasjonen for undersøkelse og vurdering av egnetheten ved beholderens tekniske konstruksjon (modul B – produksjonstype).
