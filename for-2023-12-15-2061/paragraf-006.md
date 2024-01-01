@@ -1,0 +1,2 @@
+# § 6. Kartverkets adgang til å gi tillatelse og omgradere og utlevere informasjon
+Kartverket kan etter avtale med Forsvaret utlevere informasjon som er omfattet av forbudet angitt i § 4 første ledd, gi tillatelse etter § 5 første ledd, omgradere informasjon etter § 5 andre ledd og bestemme at avgradert informasjon skal være omfattet av taushetsplikt. I vurderingen av om det skal utleveres informasjon eller gis tillatelse, skal Kartverket legge vekt på momentene som følger av § 5 tredje ledd.
