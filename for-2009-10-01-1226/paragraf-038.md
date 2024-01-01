@@ -1,0 +1,3 @@
+# § 38. Dekkskifte og plombebrudd
+Bruker er ansvarlig for å melde ifra til Justervesenet dersom det foretas et nytt dekkskifte med endring av dekkdimensjonen som kan føre til at måleresultatet i vesentlig grad påvirkes. Taksameteret kan ikke tas i bruk før bruker av måleredskapet har meldt fra til Justervesenet.
+Ved plombebrudd skal bruker ta taksameteret ut av bruk dersom det ikke blir foretatt en ny plombering av en installatør eller andre med tilsvarende kompetanse. Plomberingen må ha et unikt identitetsmerke, som skal oppgis til Justervesenet samtidig som brukeren melder fra om plombebruddet, jf. forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 5-5 annet ledd.

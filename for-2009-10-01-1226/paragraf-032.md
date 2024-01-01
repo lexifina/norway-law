@@ -1,0 +1,7 @@
+# § 32. Krav til bruk av taksametre
+Et taksameter er bare tillatt å ta i bruk dersom det foreligger en gyldig samsvarsvurdering i henhold til § 3, taksameteret er installert i henhold til § 33 og
+a) Justervesenet har kontrollert og godkjent installasjonen av taksameteret i kjøretøyet og tilkoblingen til de tilleggsinnretninger som er påkrevd i henhold til § 8, eller
+b) løyvehaver kan dokumentere at det er rekvirert installasjonskontroll hos Justervesenet der plomberingenes plassering og identitetsmerke er oppgitt.
+Et taksameter som ikke er rettmessig samsvarsmerket, er ikke tillatt å bruke. Et taksameter kan bare brukes innenfor de angitte driftsbetingelsene som er omfattet av samsvarsvurderingen. Et taksameter skal brukes i henhold til produsentens anvisninger.
+Det er ikke tillatt å bruke et taksameter slik at måleresultatet som fremskaffes av taksameteret kan påvirkes på en feilaktig måte. Frakobling eller annen form for manipulering av signalgenerator, signalgeneratorens giver eller signalgeneratorens forbindelse til taksameteret er ikke tillatt. Det er ikke tillatt å ha installert innretning som muliggjør slik frakobling eller manipulering. Frakobling i forbindelse med vedlikehold og reparasjon er likevel tillatt når kjøretøyet taksameteret er installert i står i ro.
+Når et taksameter skifter løyvehaver skal ny løyvehaver gi melding til Justervesenet, dersom ikke skiftet utløser annen meldeplikt til Justervesenet.

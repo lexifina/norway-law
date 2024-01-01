@@ -1,0 +1,6 @@
+# § 5. Konstruksjonskrav
+Et taksameter skal ha en høy grad av måleteknisk beskyttelse slik at alle berørte parter kan ha tillit til måleresultatet, og det skal konstrueres og fremstilles etter tilfredsstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet.
+Et taksameter skal være konstruert slik at det lett kan vurderes om det er i samsvar med kravene i denne forskriften. Det skal tas hensyn til taksameterets påtenkte bruk og påregnelig feilbruk ved valg av løsninger som anvendes for å oppfylle kravene.
+Et taksameter skal være konstruert slik at dets måletekniske egenskaper er tilstrekkelig stabile i et tidsrom fastsatt av produsenten, forutsatt at det monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for.
+Et taksameter skal være konstruert slik at det kan overholde maksimale tillatte målefeil uten regulering over et tidsrom på minst ett år med normal bruk.
+Et taksameter skal være konstruert slik at det beregner distansen og måler varigheten av en tur. For at taksameteret skal kunne prøves etter installasjon, skal det ha mulighet til separat prøving av nøyaktigheten i tids- og avstandsmålingen og av nøyaktigheten i beregningen.
