@@ -1,0 +1,3 @@
+# § 69 a. Krav til kjønnssamansetjing for styremedlemmar valde av og mellom dei tilsette
+(1) Dersom det skal veljast to eller fleire styremedlemmar av og mellom dei tilsette etter § 67, kan ikkje alle desse styremedlemmane ha same kjønn. Det same gjeld for varamedlemmar. Første og andre punktum gjeld ikkje dersom meir enn 80 prosent av det samla talet på dei tilsette i laget, har same kjønn.
+(2) I foretak med fleire enn 200 tilsette, skal kjønnssamansetjinga blant styremedlemmar som veljast av og mellom dei tilsette etter § 67, oppfylle krava i § 69 andre og tredje ledd, likevel slik at om det blir valt to styremedlemmar etter § 67, kan ikkje desse ha same kjønn. Talet på tilsette skal reknast likt som etter § 67.

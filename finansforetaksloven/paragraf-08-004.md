@@ -3,5 +3,5 @@
 (2) Styrets leder og de øvrige medlemmene velges av generalforsamlingen når annet ikke følger av tredje eller fjerde ledd eller av § 8-15. Departementet kan i forskrift fastsette krav om at generalforsamlingen i nærmere angitte foretak skal oppnevne en valgkomité som skal forberede valget, hvem som kan oppnevnes, og nærmere regler om valgkomiteens arbeid. Vedtektene skal inneholde regler om valget.
 (3) I foretak med minst 15 ansatte kan et flertall av de ansatte kreve at ett styremedlem og én observatør med varamedlemmer velges av og blant de ansatte.
 (4) I foretak med flere enn 50 ansatte som ikke har foretaksforsamling, kan et flertall av de ansatte kreve at inntil en tredel og minst to av styrets medlemmer med varamedlemmer velges av og blant de ansatte. Tilhører et foretak et konsern eller en annen gruppe foretak som er knyttet sammen gjennom eierinteresser eller felles ledelse, kan ansatte i konsernet her regnes som ansatt i foretaket.
-(5) Allmennaksjeloven §§ 6-6 til 6-11 a gjelder for øvrig tilsvarende for foretak som ikke er organisert som aksjeselskap eller allmennaksjeselskap.
+(5) Allmennaksjeloven §§ 6-6 til 6-11 b gjelder for øvrig tilsvarende for foretak som ikke er organisert som aksjeselskap eller allmennaksjeselskap.
 (6) Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra minstekravet til antall styremedlemmer.
