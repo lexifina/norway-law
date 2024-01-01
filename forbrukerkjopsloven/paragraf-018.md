@@ -1,4 +1,4 @@
-# § 18. Tidspunktet for bedømmelsen av om det foreligger en mangel
-Ved bedømmelse av om tingen har en mangel, skal det tidspunktet da risikoen går over på forbrukeren, legges til grunn, selv om mangelen først viser seg senere.
-Hvis ikke noe annet bevises, skal en mangel som viser seg innen seks måneder etter risikoens overgang, formodes å ha eksistert ved risikoens overgang. Dette gjelder likevel ikke dersom formodningen er uforenlig med varens eller mangelens art.
+# § 18. Tidspunktet for mangelsbedømmelsen. Bevisbyrde
+Ved bedømmelsen av om tingen har en mangel, skal tidspunktet for leveringen av tingen legges til grunn, selv om mangelen først viser seg senere. For digitale ytelser som skal leveres løpende over en periode, jf. § 2 første ledd bokstav e, skal bedømmelsen skje ut fra tidspunktet eller perioden ytelsene ble eller skulle blitt levert. Det samme gjelder oppdateringer etter § 15 fjerde ledd.
+Hvis ikke noe annet bevises, skal en mangel som viser seg innen to år etter leveringen av tingen, formodes å ha eksistert ved leveringen. Gjelder avtalen digitale ytelser som skal leveres løpende, formodes selgeren, med mindre annet bevises, å være ansvarlig for mangler som oppstår eller viser seg innenfor perioden de digitale ytelsene skal leveres, men likevel i minst to år fra leveringen av ytelsene startet. Første og annet punktum gjelder likevel ikke dersom formodningen er uforenlig med varens eller mangelens art.
 Selgeren svarer også for en mangel som oppstår senere, dersom den skyldes kontraktsbrudd fra hans eller hennes side.

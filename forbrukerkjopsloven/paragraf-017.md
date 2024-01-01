@@ -1,5 +1,4 @@
-# § 17. Ting solgt «som den er». Auksjonssalg
-Selv om tingen er solgt «som den er» eller med lignende alminnelig forbehold, foreligger det en mangel
-a) når tingen er i dårligere stand enn forbrukeren med rimelighet hadde grunn til å forvente på bakgrunn av forbeholdet, kjøpesummens størrelse og forholdene ellers, eller
-b) når det foreligger forhold som nevnt i § 16 første ledd bokstav b eller c.
-Selges brukte ting på auksjon hvor forbrukeren har anledning til å være til stede, gjelder reglene i første ledd tilsvarende så langt de passer.
+# § 17. Mangel som skyldes uriktig installering
+Feil ved tingen som skyldes uriktig installering, anses som en mangel dersom
+a) installering er del av kjøpsavtalen og ble utført av selgeren eller under selgerens ansvar, eller
+b) installeringen var ment å utføres av forbrukeren og ble utført av ham eller henne, og den uriktige installeringen skyldes mangler i installasjonsveiledningen som ble levert av selgeren. For ting som i samsvar med § 2 første ledd bokstav e skal leveres sammen med en digital ytelse, gjelder dette også der installasjonsveiledningen ble levert av tilbyderen av den digitale ytelsen.
