@@ -1,0 +1,2 @@
+# § 33. Afrikansk hestepest
+Ved mistanke om eller tilfelle av afrikansk hestepest, gjelder bestemmelsene i § 27. Videre skal dyreholder se til at alle dyr av hestefamilien blir holdt i sine respektive staller eller andre lokaler hvor de er beskyttet mot insekter som kan overføre sjukdommen, og at det i og omkring lokalene blir foretatt bekjempelse av blodsugende insekter med et egnet bekjempelsesmiddel.
