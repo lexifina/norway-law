@@ -1,0 +1,4 @@
+# § 14. Bruk av vaksiner
+Dyr skal ikke vaksineres mot A- og B-sjukdommer. Forbudet mot slik vaksinering gjelder ikke vaksinasjonene i vedlegg I og påbudte vaksinasjoner etter § 15 dersom Mattilsynet har gitt tillatelse til å bruke vaksinen eller Direktoratet for medisinske produkter har gitt markedsføringstillatelse for vaksinen. Forbudet gjelder heller ikke forsøk for å utvikle og teste vaksiner til dyr i virksomheter som har tillatelse til å utføre slike forsøk.
+Dyr kan vaksineres mot andre sjukdommer enn A- og B-sjukdommer hvis Mattilsynet har gitt tillatelse til å bruke vaksinen. Vilkåret om brukstillatelse gjelder ikke vaksinasjonene i vedlegg II hvis Direktoratet for medisinske produkter har gitt markedsføringstillatelse for vaksinen.
+Virksomheter eller personer som importerer, omsetter, rekvirerer eller bruker vaksiner, skal dokumentere nødvendige opplysninger om all import, omsetning og bruk. Slike opplysninger skal legges fram når Mattilsynet ber om det.
