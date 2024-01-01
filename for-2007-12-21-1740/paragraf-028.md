@@ -1,0 +1,2 @@
+# § 28. Egenskaper ved produktet som skal måles
+Tekstiler kjennetegnes ved den karakteristiske faktoren K. Denne faktoren tar hensyn til produktets tøyelighet og kraft per enhetsområde og defineres ved følgende formel:K = ε · (GA + 2,2 N/m2), der ε er den relative forlengelsen av en tekstilprøve som er 1 m bredt med en strekkraft på 10 N, GA er instrumentets kraft per arealenhet for en tekstilprøve, i N/m2.
