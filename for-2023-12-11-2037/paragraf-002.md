@@ -1,0 +1,2 @@
+# § 2. Plikt til å slette registrerte tinglyste negative servitutter etter pålegg fra Konkurransetilsynet
+Konkurransetilsynet kan gi pålegg om at negative servitutter som er stiftet i strid med forbudet i § 1, skal slettes fra grunnboka. Dersom det ikke er sendt anmodning om sletting innen to måneder etter at pålegget ble gitt, kan Konkurransetilsynet fastsette løpende tvangsmulkt fram til det blir sendt slik anmodning.
