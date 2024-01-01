@@ -1,0 +1,6 @@
+# § 6. Når apparater og faste installasjoner kan gjøres tilgjengelig på markedet
+(1) Apparater og faste installasjoner kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med forskriften og dette kan dokumenteres på fastsatt måte.
+(2) Apparater og faste installasjoner som ikke oppfyller kravene i forskriften kan likevel vises frem på messer, utstillinger, demonstrasjoner eller lignende arrangementer når utstiller sørger for et skilt med tydelig informasjon om at produktet ikke kan gjøres tilgjengelig eller tas i bruk før de er brakt i samsvar med forskriften. Under demonstrasjoner skal det treffes hensiktsmessige tiltak for å unngå elektromagnetiske forstyrrelser.
+(3) Kravene i forskriften er ikke til hinder for at Direktoratet for samfunnssikkerhet og beredskap kan benytte følgende særlige tiltak i forbindelse med at apparater og faste installasjoner tas i bruk eller brukes:
+a) tiltak for å løse et eksisterende eller forutsett problem knyttet til elektromagnetisk kompatibilitet på et bestemt sted
+b) tiltak truffet av sikkerhetsmessige grunner for å beskytte offentlige telekommunikasjonsnett eller mottaker- eller senderstasjoner når de anvendes for sikkerhetsformål i klart definerte spektrumsituasjoner.
