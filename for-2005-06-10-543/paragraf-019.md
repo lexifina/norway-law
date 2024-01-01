@@ -1,0 +1,4 @@
+# § 19. Unntak
+Ved virksomhet som er bundet av tariffavtale kan arbeidsgiver og de tillitsvalgte slutte skriftlig avtale om å gjøre unntak fra bestemmelsene i § 12 første og annet ledd og § 13 annet ledd dersom det foreligger objektive eller tekniske forhold eller forhold som er knyttet til organiseringen av arbeidet. Samlet daglig arbeidstid må likevel ikke overstige 16 timer. Perioden for gjennomsnittsberegning i § 13 annet ledd må ikke overstige 26 uker.
+Bestemmelsene i forskriften kan fravikes for arbeid som på grunn av naturhendinger, ulykkeshendinger eller andre uforutsette begivenheter må foretas for å avverge fare for eller skade på liv eller eiendom.
+Unntak etter første og andre ledd forutsetter at arbeidstakerne sikres tilsvarende kompenserende hvileperioder, eller der dette ikke er mulig, at det sørges for et passende vern av de berørte arbeidstakerne.

@@ -1,0 +1,3 @@
+# § 9. Rett til redusert arbeidstid
+Arbeidstaker som av helsemessige, sosiale eller andre vektige velferdsgrunner har behov for å få redusert sin arbeidstid, har rett til dette dersom arbeidstidsreduksjonen kan gjennomføres uten vesentlig ulempe for virksomheten. Når avtalt periode med redusert arbeidstid er over, har arbeidstaker rett til å gå tilbake til tidligere arbeidstid. Under ellers like forhold har arbeidstaker med redusert arbeidstid fortrinnsrett til å øke sin arbeidstid når stilling blir ledig i virksomheten, forutsatt at stillingen helt eller i det vesentlige er tillagt de samme arbeidsoppgavene.
+Ved tvist om rett til redusert arbeidstid gjelder bestemmelsene i arbeidsmiljøloven § 10-13.

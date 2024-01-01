@@ -1,0 +1,2 @@
+# § 7. Arbeidsplan
+Dersom arbeidstakerne arbeider til ulike tider av døgnet, skal det utarbeides en arbeidsplan som viser hvilke uker, dager og tider den enkelte arbeidstakeren skal arbeide. Arbeidsplanen skal utarbeides i samarbeid med deres tillitsvalgte. Dersom ikke annet fremgår av tariffavtale, skal arbeidsplanen drøftes med de tillitsvalgte så tidlig som mulig og senest to uker før iverksettelsen. Arbeidsplanen skal være lett tilgjengelig for arbeidstakerne.
