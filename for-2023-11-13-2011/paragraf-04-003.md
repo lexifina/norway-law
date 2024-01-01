@@ -1,0 +1,3 @@
+# § 4-3. Utestengning og bortvisning
+(1) En student kan utestenges eller bortvises slik det følger av fagskoleloven § 25 første og annet ledd. Et vedtak om å bortvise eller utestenge en student kan bare treffes med minst to tredjedels flertall i styret og må være i samsvar med EASA Part.FCL, jf. fagskoleloven § 25 femte ledd. Studenten har rett til å uttale seg før det fattes vedtak i en sak om bortvisning eller utestenging og kan klage på vedtaket til departementet eller Nasjonale klagenemnd for høyere yrkesfaglig utdanning. jf. fagskoleloven § 20 femte ledd.
+(2) Tidsrammen for å bestå samtlige myndighetskontrollerte eksamener på 18 måneder vil fortsatt være gjeldene ved en eventuell utestengning fra fagskolen.
