@@ -1,0 +1,2 @@
+# § 10. Rett til å nytte egenmelding ved barns eller barnepassers sykdom
+Programdeltakeren kan gi egenmelding ved barns eller barnepassers sykdom for de tre første kalenderdagene i hvert enkelt tilfelle. Fra den fjerde dagen kan kommunen i arbeids- og velferdsforvaltningen kreve at barnets eller barnepasserens sykdom blir dokumentert med legeerklæring. Bestemmelsene i § 7 og § 8 første ledd bokstav b og tredje ledd gjelder tilsvarende.

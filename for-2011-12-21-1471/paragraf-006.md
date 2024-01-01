@@ -1,0 +1,5 @@
+# § 6. Rett til å nytte egenmelding
+Med egenmelding menes det at programdeltakeren skriftlig eller muntlig melder fra til kommunen i arbeids- og velferdsforvaltningen om sykdom eller skade som forhindrer vedkommende fra å delta i kvalifiseringsprogram, uten å legge fram legeerklæring.
+For å få rett til å nytte egenmelding må vedkommende ha deltatt i programmet i minst åtte uker.
+Egenmelding kan nyttes for opptil tre kalenderdager om gangen. Ved nytt sykefravær innen 16 kalenderdager regnes tidligere fraværsdager uten legeerklæring med.
+Hvis sykdom eller skade som forhindrer vedkommende fra å delta i kvalifiseringsprogrammet varer ut over de tre kalenderdagene egenmelding er nyttet, kan kommunen i arbeids- og velferdsforvaltningen kreve legeerklæring. Hvis programdeltakeren ikke legger fram legeerklæring, faller retten til kvalifiseringsstønad bort for egenmeldingsperioden. Dette gjelder likevel ikke hvis vedkommende har vært forhindret fra å søke lege, og det er godtgjort at han eller hun fra et tidligere tidspunkt har hatt samme sykdom eller skade.
