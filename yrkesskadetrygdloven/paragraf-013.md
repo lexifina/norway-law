@@ -1,0 +1,5 @@
+# § 13. Tillegg til uførepensjon.
+1. Til full pensjon gis tillegg på 900 kroner året for hvert barn under 18 år som den skadede forsørger (forsørgingstillegg). Har begge ektefeller rett til uførepensjon etter denne lov, kan tilleggene for hvert barn ikke overstige 900 kroner.Ved delvis tap av ervervsevnen avkortes forsørgingstilleggene tilsvarende. Tillegg kan ikke gis dersom skadedes ervervsevne er nedsatt med mindre enn 30 prosent.Forsørgingstillegg gis tidligst fra den første dag i måneden etter at barnet er født. Tillegget løper ut den måned hvori retten til dette opphører. Ved dødsfall løper tillegget ut måneden etter vedkommendes død.
+2. Trenger den skadede særlig tilsyn og pleie, kan vedkommende tilstås hjelpestønad etter reglene i folketrygdloven § 6-4.
+3. Uførepensjon med tillegg etter punkt 1 må ved hel uførhet i alt ikke overstige 90 prosent av arbeidsinntekten, eller et forholdsmessig redusert beløp ved lavere uføregrad.
+4. Bestemmelsene i § 22 punktene 2 og 5 får tilsvarende anvendelse på forsørgingstillegg.

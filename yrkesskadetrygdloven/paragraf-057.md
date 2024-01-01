@@ -1,0 +1,8 @@
+# § 57
+1. Fra 1. januar 2011 reguleres følgende satser med lønnsveksten fram til fylte 67 år:
+a) satsene for uførepensjoner, enkepensjoner og barnepensjoner til første barn når begge foreldrene er døde, forutsatt at skadetilfellet enten er inntruffet i tidsrommet 1. januar 1960 – 31. desember 1970, eller går inn under loven her ved omregning etter § 53 punkt 1 eller etter kapittel II i endringsloven 9. juni 1961 nr. 19.
+b) satsene for invaliderenter med forsørgingstillegg og hjelpeløshetstillegg til en skadd som var fylt 70 år før 1. januar 1960, forutsatt at skadetilfellet går inn under en av lovene nevnt i § 53 punkt 1 bokstavene a-c, og arbeidsevnen er nedsatt med minst 30 prosent.
+Fra 67 år reguleres de nevnte satsene i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første regulering etter fylte 67 år gjelder bestemmelsen i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 42 første ledd andre punktum tilsvarende.Ved reguleringen benyttes de reguleringsfaktorer Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd. Reguleringen skjer årlig med virkning fra 1. mai.
+2. Bestemmelsene i nr. 1 gjelder ikke invaliderenter for skadetilfeller inntruffet før 1. januar 1960, dersom uføregraden er fastsatt lavere enn 30 prosent etter reglene i loven her. Bestemmelsene får heller ikke anvendelse på barnetillegg, pleietillegg, bevilgede enke- og enkemannspensjoner og ascendentpensjoner.
+3. Ved anvendelse av § 12 nr. 3 annet til femte ledd og § 19 nr. 1 annet til fjerde ledd i loven her, skal trygdet arbeidsinntekt settes til et beløp svarende til vedkommendes fulle uførepensjon eller fulle enkepensjon dividert med henholdsvis 0,6 eller 0,4.
+4. Departementet kan gi nærmere forskrifter om gjennomføringen av bestemmelsene ovenfor.
