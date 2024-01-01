@@ -1,0 +1,4 @@
+# § 5-1. Tilsyn
+Direktoratet for medisinske produkter fører tilsyn med tapping, testing, prosessering, oppbevaring og distribusjon av blod og blodkomponenter til bruk i fraksjonering, samt blodkomponenter til transfusjon fram til disse er frigitt for bruk og fatter de nødvendige vedtak, jf. lov 4. desember 1992 nr. 132 om legemidler § 28.
+Statens helsetilsyn fører innenfor sitt ansvarsområde tilsyn med tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av blod og blodkomponenter til bruk i fraksjonering, samt blodkomponenter til transfusjon fram til disse er frigitt for bruk, og med blodkomponenter frigitt til transfusjon og fatter de nødvendige vedtak, jf. lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven).
+Tilsyn med blodbanker skal gjennomføres jevnlig og minst hvert annet år.

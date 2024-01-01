@@ -1,0 +1,4 @@
+# § 5-2. Tilsynsmyndighetenes adgang til dokumentasjon
+Tilsynsmyndighetene kan kreve de opplysninger som trengs for å gjennomføre sine oppgaver.
+Tilsynsmyndighetene kan som ledd i sin kontroll kreve adgang til alle steder i virksomheten der blod og blodkomponenter tappes, testes, prosesseres, oppbevares og distribueres. Tilsynsmyndighetene kan gjennomføre de prøver eller kontroller som de finner nødvendig, og kreve bistand fra personale på stedet i den grad dette er nødvendig for å få utført prøvene eller kontrollene.
+Retten til å kreve opplysninger eller tilgang til lokaler og utstyr i henhold til første ledd gjelder uten hinder av taushetsplikt. Tilsynsmyndighetene har taushetsplikt om opplysningene de mottar etter denne bestemmelsen i henhold til gjeldende bestemmelser om taushetsplikt.

@@ -1,0 +1,4 @@
+# § 3-4. Dokumentasjons- og meldeplikt om alvorlige bivirkninger hos mottaker av blod og blodkomponenter
+Institusjoner skal straks melde mistanke om alvorlige bivirkninger hos mottaker under eller etter transfusjonen som kan tilskrives blodets eller blodkomponentens kvalitet eller sikkerhet til blodbanken, eller om feil blod eller blodkomponent er transfundert.
+Blodbanken skal kontrollere opplysningene straks de er mottatt og melde dem videre til hemovigilanssystemet. Meldingen om opplysningene skal skje på særskilt skjema fastsatt av Direktoratet for medisinske produkter, jf. vedlegg IV, del A, B og C. Direktoratet for medisinske produkter kan bestemme at innrapporteringen skal skje elektronisk i henhold til fastsatte standarder.
+Helseforetak eller annet rettssubjekt som er ansvarlig for virksomhet som nevnt i første og annet ledd har ansvar for at pliktene som nevnt oppfylles og skal sørge for at det finnes rutiner som sikrer dette.

@@ -1,0 +1,2 @@
+# § 3-7. Tilbaketrekking av blod og blodkomponenter
+Blodbanken skal umiddelbart trekke tilbake blod og blodkomponenter som kan forbindes med en alvorlig bivirkning som nevnt i § 3-4, eller en alvorlig uønsket hendelse som nevnt i § 3-5. Blodbanken skal videre beskrive hvilke tiltak som er truffet med hensyn til andre berørte blodkomponenter som har blitt utlevert til transfusjon eller bruk som plasma for fraksjonering.

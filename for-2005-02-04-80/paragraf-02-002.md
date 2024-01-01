@@ -1,0 +1,4 @@
+# § 2-2. Ansvar i blodbanker
+Blodbankens eier har ansvar for at blodbanken har nødvendig godkjenning. Blodbankens eier har ansvar for at Direktoratet for medisinske produkter blir forelagt alle opplysninger som er nødvendige for å kunne vurdere om godkjenning skal gis. Blodbankens eier skal informere direktoratet omgående ved endringer i blodbankens ledelse, permanent eller midlertidig.
+Blodbankens leder har ansvar for at enhver enhet av blod og blodkomponenter har blitt tappet og testet i henhold til gjeldende regelverk, uavhengig av anvendelsesformål, og prosessert, oppbevart, distribuert og utlevert i henhold til regelverket når blodproduktene skal anvendes til transfusjon. Blodbankens leder har videre ansvar for at kravene til blodbanker i § 2-3, § 2-4, § 2-5, § 3-1, § 3-4, § 3-5 og § 3-11 er oppfylt.
+Blodbankens leder skal ha høyere utdanning innen medisin eller biologi og minst to års praksis fra relevant fagområde etter avsluttet utdanning.

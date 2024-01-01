@@ -1,0 +1,3 @@
+# § 3-8. Utvelgelse av blodgivere
+Blodbanker skal ha evalueringsprosedyrer for å sikre at mulige blodgivere er egnet til å gi blod eller blodkomponenter, jf. utvelgelseskriteriene i vedlegg I. Resultatene fra slik evaluering skal dokumenteres, og det skal gis informasjon om ethvert relevant unormalt funn til blodgiveren. Evalueringen skal gjennomføres ved hjelp av et godkjent spørreskjema og personlig intervju.
+Før enhver tapping av blod eller blodkomponenter skal det gjennomføres en medisinsk vurdering av blodgiveren, inkludert et intervju. Undersøkelsen skal utføres av kvalifisert helsepersonell, som også skal ta stilling til om vedkommende er egnet til å gi blod eller blodkomponenter. Det vises til vedlegg VI.
