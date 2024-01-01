@@ -1,0 +1,2 @@
+# § 14. Høring ved videooverføring
+Nemndleder kan i særskilte tilfeller avgjøre at et barn skal uttale seg til nemnda ved videooverføring. Videooverføring kan bare benyttes hvis det er nødvendig for å sikre barnets ønske om å uttale seg til nemnda. Videre kan videooverføring bare benyttes dersom det er forsvarlig. I vurderingen skal det særlig legges vekt på sakens karakter og på de private partenes rettssikkerhet.

@@ -1,0 +1,7 @@
+# § 5. Barnevernets plikt til å høre barnet og tilrettelegge for at barnet kan uttrykke seg fritt
+Barnevernet skal involvere barnet aktivt i egen sak og tilrettelegge for at barnet kan stille spørsmål og uttrykke sine meninger i alle forhold som vedrører barnet.
+Høring av barnet før det treffes beslutninger og vedtak i forbindelse med saksbehandlingen, skal gjennomføres på en ivaretakende og barnevennlig måte i tråd med faglige anbefalinger for samtaler med barn. Barnevernet skal blant annet tilrettelegge for:
+a) at samtaler foregår med utgangspunkt i barnets perspektiv, med vekt på å bygge tillit mellom barnet og barnevernet,
+b) at barnet kan fortelle fritt og med egne ord, uten at andre påvirker barnets mening, og
+c) at barnet skal få oppsummert samtalene i etterkant, få anledning til å stille spørsmål, rette opp eventuelle misforståelser, uttrykke endret oppfatning og legge til informasjon.
+Barnevernet skal informere barnet om hva opplysninger fra barnet kan brukes til, og hvem som kan få innsyn i disse opplysningene, jf. barnevernsloven § 1-4 annet ledd. Informasjonen skal fortrinnsvis gis i forkant av at barnet uttaler seg. Barnet kan ikke nekte barnevernet å dele informasjon, men barnevernet skal vurdere om vilkårene for å unnta innsyn etter barnevernsloven § 12-6 er oppfylt. Barnet har rett til å uttale seg før barnevernet beslutter om opplysningene barnet har gitt skal deles, og barnets syn skal tillegges vekt i samsvar med barnets alder og modenhet.
