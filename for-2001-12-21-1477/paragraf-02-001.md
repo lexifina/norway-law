@@ -1,0 +1,4 @@
+# § 2-1. (Helsepersonells dokumentasjons- og meldeplikt)
+Klinikere, patologer, radiologer og andre laboratorieleger som gir helsehjelp ved kreftsykdom, skal uten hensyn til taushetsplikt melde opplysninger som nevnt i § 1-7 første ledd til Kreftregisteret. Opplysninger om yrkesmessige forhold, røykevaner mv. som nevnt i § 1-7 annet ledd skal meldes dersom den registrerte ikke motsetter seg det.
+Klinikere, patologer, radiologer og andre laboratorieleger som undersøker for eventuell kreftsykdom, jf. § 1-2 tredje ledd, skal ved negativt funn melde opplysninger som nevnt i § 1-9 første ledd til Kreftregisteret uten hensyn til taushetsplikt. Det skal fremgå av meldingen om opplysninger om personens identitet skal registreres permanent eller slettes etter at opplysningene er kvalitetssikret.
+Melding som nevnt i første og annet ledd, skal sendes fortløpende og senest to måneder etter at opplysningene er dokumentert i henhold til helsepersonelloven § 39 og § 40.
