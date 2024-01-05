@@ -1,0 +1,2 @@
+# § 1-7. Innholdet i utdanningen jf. lov om høyere yrkesfaglig utdanning § 17
+Styret skal fastsette en plan for innholdet i utdanningen og bestemme hvordan planen skal gjennomføres. Det skal blant annet fastsettes bestemmelser om obligatoriske kurs, praksisstudier, vurderingsformer og lignende. Studiepoeng er en betegnelse på læringsutbytte og normert studietid. Et fullt studieår på heltid er normert til 60 studiepoeng.

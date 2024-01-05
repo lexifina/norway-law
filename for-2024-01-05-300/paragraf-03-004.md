@@ -1,0 +1,8 @@
+# § 3-4. Behandling av politiattest med merknad jf. forskrift om høyere yrkesfaglig utdanning § 23
+(1) Søkeren eller studenten skal bidra til å opplyse saken ved å fremlegge dokumentasjon om forhold som ligger til grunn for merknader på politiattesten. Søker eller student som ikke fremlegger slik dokumentasjon, har ikke rett til å delta i klinisk undervisning eller praksisopplæring ved den aktuelle utdanningen.
+(2) Skolen skal snarest mulig og senest innen ti dager etter at all dokumentasjon i saken foreligger, fremlegge politiattesten til styret eller den lokale klagenemnden, jf. forskrift om høyere yrkesfaglig utdanning § 23 andre ledd. Med politiattesten skal det følge en oversikt over innhold og veiledning i den kliniske undervisningen eller praksisstudiene og en begrunnet uttalelse om hvorvidt studenten bør utelukkes fra å delta i denne. Studenten skal samtidig få kopi av fagskolens uttalelse til styret eller nemnden med vedlegg, og gis fjorten dagers frist til å uttale seg.
+(3) Saken skal behandles snarest mulig, og senest innen fire uker etter at den er mottatt av styret eller den lokale klagenemnden. Studenten har ikke rett til å delta i klinisk undervisning eller praksisstudier før det er fattet vedtak i saken.
+(4) Styret eller den lokale klagenemnden skal vurdere om hensynet til pasienter, brukere, barnehagebarn, elever eller andre sårbare grupper skal føre til at studenten utestenges fra klinisk undervisning eller praksisstudier.
+(5) Styret eller den lokale klagenemnden kan innkalle studenten til møte dersom det er nødvendig for å få saken tilfredsstillende opplyst.
+(6) Den nasjonale klagenemnden for fagskoleutdanning er klageinstans.
+(7) Politiattesten skal oppbevares i samsvar med politiregisterforskriften § 37-2.

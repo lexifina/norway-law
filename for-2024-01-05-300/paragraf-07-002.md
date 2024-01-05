@@ -1,0 +1,8 @@
+# § 7-2. Annullering av eksamen eller prøve jf. lov om høyere yrkesfaglig utdanning § 24
+(1) Hvis en student har brukt et falskt vitnemål eller andre falske dokumenter eller har opptrådt uredelig på annen måte og dermed fått adgang til å avlegge en eksamen, en prøve eller et annet arbeid som bedømmes med karakterer, kan styret annullere resultatet. Styret kan også annullere godkjenningen av emner hvis en student på tilsvarende urettmessig grunnlag har fått rett til å studere.
+(2) Styret kan annullere resultatet av en eksamen, prøve eller lignende eller godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med eksamenen, prøven eller lignende eller under gjennomføringen av emnet.
+(3) Hvis en student har fått fritak eller godskriving etter § 8 ved å benytte et falskt vitnemål eller andre falske dokumenter, eller ved å opptre uredelig på annen måte, kan styret annullere fritaket eller godskrivingen.
+(4) En student kan klage på et vedtak om annullering. Departementet eller nasjonalt klageorgan for fagskoleutdanning er klageinstans, jf. § 20 femte ledd.
+(5) Adgangen til å annullere foreldes ikke.
+(6) Når styret har fattet et vedtak om annullering, skal studenten levere eventuelle vitnemål eller karakterutskrifter tilbake til fagskolen. Et endelig vedtak om annullering etter første eller annet ledd er et særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.
+(7) Annullering av eksamen er et enkeltvedtak, og studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Se kapittel 8 for hvordan en går fram ved klage og hvilke rettigheter studenten har ved disiplinære sanksjoner.

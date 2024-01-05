@@ -1,0 +1,8 @@
+# § 5-7. Eksamen under særlige vilkår
+(1) Studenter som av medisinske eller andre grunner har behov for spesiell tilrettelegging ved den praktiske gjennomføringen av eksamen, må framsette søknad om dette snarest og senest 3 uker før eksamen til rektor. Dersom det oppstår akutte behov, kan det gjøres unntak fra søknadsfristen. Rektor fatter vedtak på bakgrunn av vedlagt dokumentasjon. Jf. lov om høyere yrkesfaglig utdanning § 15.
+(2) Søknaden må inneholde dokumentasjon fra sakkyndig instans (f.eks. lege, logoped, psykolog) og beskrivelse av behovet for særordning i eksamenssituasjonen. Det skal normalt søkes for hver eksamensperiode, men dersom grunnlaget for særordningen er av permanent karakter, kan det gjøres unntak fra dette.
+(3) Særordninger kan være spesiell fysisk tilrettelegging, bruk av særskilte hjelpemidler og/eller utvidet tid til eksamen, eller i spesielle tilfeller alternativ eksamensform. Særordninger kan f.eks. være eget eksamenslokale, bruk av PC, skrivehjelp, muntlig eksamen i stedet for skriftlig, høytlesing av oppgaven, høytlesing av besvarelsen for korrektur, innlesing av besvarelsen med digital lagring, spesialstol, spesialbord, ekstra pauser med mulighet for å hvile, ammepauser.
+(4) Studenter med dokumenterte lærevansker, eller studenter med annet morsmål enn norsk, kan etter eget ønske få lagt ved eksamensbesvarelsen en anonymisert attest som stadfester dette.
+(5) Ved skriftlig eksamen med tilsyn kan det gis utvidet tid med inntil 25 % av normal eksamenstid med inntil 1 time.
+(6) Særordningene skal likevel være slik at eksamensbesvarelsen/presentasjonen vurderes etter vanlige faglige kriterier.
+(7) Bestemmelser om klage på vedtak om særskilt tilrettelegging ved eksamen finnes i kapittel 8 i forskriften.
