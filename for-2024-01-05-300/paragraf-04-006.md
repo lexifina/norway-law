@@ -1,0 +1,4 @@
+# § 4-6. Behandling hos skikkethetsansvarlig jf. forskrift om høyere yrkesfaglig utdanning § 34
+(1) Studenten skal varsles skriftlig om at det foreligger begrunnet tvil om vedkommendes skikkethet. Skikkethetsansvarlig skal innkalle studenten til vurderingssamtale og sørge for at saken blir så godt opplyst som mulig. Studenten skal få tilbud om utvidet oppfølging og veiledning med mindre det er åpenbart at slik oppfølging ikke er egnet til å hjelpe studenten. Praksisperioder kan utsettes fra tvilsmelding er mottatt til etter at utvidet veiledning er avsluttet, eller til saken er avgjort.
+(2) Fra vurderingssamtalen skal det lages skriftlig referat som inneholder en beskrivelse av saksforholdet og eventuelle planer for utvidet oppfølging og veiledning av studenten.
+(3) Hvis utvidet oppfølging og veiledning ikke medfører den nødvendige endring og utvikling hos studenten, skal skikkethetsansvarlig fremme saken for skikkethetsnemnda.

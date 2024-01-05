@@ -1,0 +1,5 @@
+# § 3-1. Krav til politiattest
+(1) Ved utdanninger der studenter kan komme i kontakt med mindreårige eller andre sårbare grupper som del av praksis eller klinisk undervisning, er det krav om at studenten legger fram politiattest innen fire uker fra tilbudet om studieplass ble mottatt, jf. lov om høyere yrkesfaglig utdanning § 27, forskrift om høyere yrkesfaglig utdanning § 19 og § 20, samt politiregisterloven § 39. Politiattesten skal være slik som det går fram av barnevernsloven § 12-11 andre ledd. Krav om politiattest skal gjøres kjent for studenten ved opptak til studiet som er omfattet av disse kravene, og politiattesten må ikke være eldre enn 3 måneder på det tidspunktet den fremlegges.
+(2) Det er styret ved klagenemnden som fatter vedtak om at en student skal miste retten til å delta i praksis eller klinisk undervisning basert på politiattest og innstilling fra rektor ved fagskolen. Studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning.
+(3) Fornyet vandelskontroll kan foretas i samsvar med politiregisterloven § 43. Jf. forskrift om høyere yrkesfaglig utdanning § 22.
+(4) Se kapittel 8 om klage og klagebehandling.

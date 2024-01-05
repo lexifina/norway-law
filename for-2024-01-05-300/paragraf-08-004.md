@@ -1,0 +1,5 @@
+# § 8-4. Klage på eksamen
+(1) Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal disse være tilgjengelige for studentene etter at karakteren er fastsatt, jf. lov om høyere yrkesfaglig utdanning § 22 tredje ledd.
+(2) En student kan klage skriftlig over karakteren innen tre uker etter at eksamensresultatet er kunngjort. Ny sensur skal da foretas. Ved ny sensur skal sensorene ikke få kjennskap til opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen. Er det fremsatt krav om begrunnelse eller klage over formelle feil, løper klagefristen etter denne paragrafen fra studenten har fått begrunnelsen eller endelig avgjørelse av klagen foreligger, jf. lov om høyere yrkesfaglig utdanning § 22 fjerde ledd.
+(3) Bedømmelse av muntlig prestasjon og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages, jf. lov om høyere yrkesfaglig utdanning § 22 femte ledd.
+(4) Karakterfastsetting ved ny sensur etter denne paragraf er endelig og kan ikke påklages, jf. lov om høyere yrkesfaglig utdanning § 22 sjette ledd.

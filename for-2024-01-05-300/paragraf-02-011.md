@@ -1,0 +1,2 @@
+# § 2-11. Klage på vedtak om opptak
+Opptak til fagskolen er et enkeltvedtak etter bestemmelsene i forvaltningslovens § 2 bokstav b og kan påklages etter denne lovens § 28 og § 29. Det er fagskolen som fatter vedtak om opptak, og en eventuell klage skal behandles av den lokale klagenemnden. Klagen sendes Fagskolen i Finnmark. Nærmere bestemmelser om klagebehandling er gitt kapittel 8 i denne forskrift.
