@@ -1,0 +1,2 @@
+# § 9. Beregning av tilskuddet til klima- og miljøstiftelser og sammenslutninger av organisasjoner
+23 prosent av den totale bevilgningen fordeles til klima- og miljøstiftelser og sammenslutninger av organisasjoner. Klima- og miljøstiftelser samt sammenslutninger av organisasjoner bevilges tilskudd på basis av siste års tildeling. Tilskudd til nye søkere vurderes med bakgrunn i en helhetsvurdering basert på utgifter, inntekter, omsetning og aktivitetsnivå.
