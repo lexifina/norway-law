@@ -1,5 +1,5 @@
 # § 5-6. Forhåndsvarsling
-(1) Før enkeltvedtak treffes, skal den vedtaket retter seg mot varsles med en passende frist for å uttale seg om saken. Den som har klagerett etter § 13-2, skal varsles om vedtak som nevnt i denne bestemmelsen.
+(1) Før enkeltvedtak treffes, skal den vedtaket retter seg mot varsles med en passende frist for å uttale seg om saken. Den som har klagerett etter § 13-2, skal varsles om vedtak som nevnt i denne bestemmelsen. Fristen for å uttale seg er seks måneder i saker om Safe Harbour-regler gitt i medhold av suppleringsskatteloven § 5-7.
 (2) Forhåndsvarselet skal gjøre rede for hva saken gjelder og ellers inneholde det som anses påkrevd for at den vedtaket retter seg mot, på forsvarlig måte kan ivareta sine interesser.
 (3) Forhåndsvarsling kan unnlates dersom
 a) varsling vil medføre fare for at vedtaket ikke kan gjennomføres

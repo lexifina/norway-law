@@ -1,5 +1,5 @@
-# § 8-14. Levering av skattemelding mv.
-(1) Myndig person skal levere meldinger etter dette kapitlet selv eller ved fullmektig.
-(2) For skattepliktig som er mindreårig, eller som er satt under vergemål, skal vergen levere skattemelding når vergens mandat omfatter levering av slik melding. Dette gjelder ikke barn som etter skatteloven § 2-14 er selvstendig skattepliktig, og som fastsetter skattegrunnlaget selv.
-(3) For selskap og innretning skal meldinger etter dette kapitlet leveres av den som etter alminnelige selskapsrettslige regler kan forplikte selskapet, eller andre som er registrert hos skattemyndighetene med signaturfullmakt.
-(4) For bo skal skattemelding leveres av skifteforvalteren, bostyreren, testamentfullbyrderen eller de selvskiftende arvinger.
+# § 8-14. Skattemelding og melding for suppleringsskatt
+(1) Skattepliktig som skal svare skatt etter suppleringsskatteloven skal levere skattemelding med opplysninger om beregning av skatten og andre opplysninger som har betydning for fastsetting av denne etter § 9-1 første ledd og § 9-2 første ledd.
+(2) Konsernenheter som er lokalisert i Norge som er omfattet av suppleringsskatteloven, skal levere melding med opplysninger om og beregning av suppleringsskatt. Meldingen kan blant annet inneholde informasjon om samtlige enheter i konsernet og opplysninger som er nødvendige for å beregne suppleringsskatt i andre jurisdiksjoner. Meldingen skal utarbeides på engelsk.
+(3) Plikten etter annet ledd gjelder ikke hvis opplysningene er gitt av øverste morselskap i konsernet, eller en rapporterende konsernenhet, og det er lokalisert i en jurisdiksjon Norge har informasjonsutvekslingsavtale med for den aktuelle skattleggingsperioden.
+(4) Konsernenheter i Norge skal gi notifikasjon om hvilken konsernenhet som skal gi opplysningene som nevnt i tredje ledd, og i hvilken jurisdiksjon enheten er lokalisert. Denne opplysningsplikten gjelder ikke hvis notifikasjon er gitt av annen norsk konsernenhet, dersom det i notifikasjonen også opplyses om hvilke konsernenheter det gis notifikasjon på vegne av.
