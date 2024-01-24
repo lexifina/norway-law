@@ -1,0 +1,2 @@
+# § 8. Hvordan søknaden blir vurdert
+Utlendingsdirektoratet tildeler tilskudd for ett år av gangen etter en skjønnsmessig vurdering av i hvilke grad prosjektet som det er søkt om tilskudd til, bidrar til å oppfylle formålet med tilskuddsordningen. Tiltak som treffer flest mulig barn i målgruppen og gir mest egnede aktiviteter sett hen til beløpet det søkes om, og tiltak som gir aktiviteter som ellers ikke er tilgjengelig for barna i asylmottaket, skal prioriteres.
