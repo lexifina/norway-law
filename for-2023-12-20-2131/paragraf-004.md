@@ -1,0 +1,5 @@
+# § 4. Styret i stiftelser
+Frem til 1. juli 2025 gjelder følgende overgangsregler til lov 15. juni 2001 nr. 59 om stiftelser (stiftelsesloven) § 27a og § 27b:
+1) I stiftelser som er næringsdrivende eller som har utdeling som formål, eller der staten, en fylkeskommune eller kommune skal oppnevne ett eller flere styremedlemmer, skal styret være sammensatt i samsvar med stiftelsesloven § 27a senest 30. juni 2025. Når staten, en fylkeskommune eller kommune oppnevner deler av styret i en stiftelse, skal disse styremedlemmene likevel oppfylle kravene i stiftelsesloven § 27a fra 1. januar 2024.
+2) I stiftelser hvor styremedlemmer skal velges av og blant de ansatte gjelder kravene i stiftelsesloven § 27b fra første ordinære valg etter 30. juni 2025.
+Første ledd gjelder ikke når staten, en fylkeskommune eller en kommune oppnevner hele styret i en stiftelse. I stiftelser som nevnt i første punktum med flere enn 200 ansatte hvor styremedlemmer skal velges av og blant de ansatte, gjelder kravene i stiftelsesloven § 27b tredje ledd fra førstkommende ordinære valg.
