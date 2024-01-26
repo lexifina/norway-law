@@ -1,0 +1,7 @@
+# § 1. Styret i selskaper
+Frem til 1. juli 2028 gjelder følgende overgangsregler til lov 21. juni 1985 nr. 83 om ansvarlige selskaper og kommandittselskaper (selskapsloven) § 2-13a og § 2-13b:
+1) I selskaper der samtlige deltakere er juridiske personer, og som på balansedagen for årsregnskapet har samlede drifts- og finansinntekter som er større enn 100 millioner kroner, skal styret være sammensatt i samsvar med selskapsloven § 2-13a annet og tredje ledd senest 31. desember 2024.
+2) I selskaper der samtlige deltakere er juridiske personer, som har flere enn 50 ansatte og som ikke er omfattet av nr. 1, skal styret være sammensatt i samsvar med selskapsloven § 2-13a annet og tredje ledd senest 30. juni 2025.
+3) I selskaper der samtlige deltakere er juridiske personer, som har flere enn 30 ansatte og som ikke er omfattet av nr. 1 eller 2, skal styret være sammensatt i samsvar med selskapsloven § 2-13a annet og tredje ledd senest 30. juni 2026.
+4) I selskaper der samtlige deltakere er juridiske personer, som på balansedagen for årsregnskapet har samlede drifts- og finansinntekter som er større enn 70 millioner kroner og som ikke er omfattet av nr. 1 til 3, skal styret være sammensatt i samsvar med selskapsloven § 2-13a annet og tredje ledd senest 30. juni 2027.
+5) I selskaper hvor styremedlemmer skal velges av og blant de ansatte gjelder kravene i selskapsloven § 2-13b fra første ordinære valg etter datoene i nr. 1 til 4.

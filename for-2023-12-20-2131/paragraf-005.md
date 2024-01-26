@@ -1,0 +1,8 @@
+# § 5. Styret i boligbyggelag
+Frem til 1. juli 2028 gjelder følgende overgangsregler til lov 6. juni 2003 nr. 38 om bustadbyggjelag (bustadbyggjelagslova) § 6-4a og § 6-4b:
+1) I boligbyggelag som på balansedagen for årsregnskapet har samlede drifts- og finansinntekter som er større enn 100 millioner kroner, skal styret være sammensatt i samsvar med bustadbyggjelagslova § 6-4a annet og tredje ledd senest 31. desember 2024.
+2) I boligbyggelag som på balansedagen for årsregnskapet har flere enn 50 ansatte eller flere enn 500 andelseiere, og som ikke er omfattet av nr. 1, skal styret være sammensatt i samsvar med bustadbyggjelagslova § 6-4a annet og tredje ledd senest 30. juni 2025.
+3) I boligbyggelag som på balansedagen for årsregnskapet har flere enn 30 ansatte, og som ikke er omfattet av nr. 1 eller 2, skal styret være sammensatt i samsvar med bustadbyggjelagslova § 6-4a annet og tredje ledd senest 30. juni 2026.
+4) I boligbyggelag som på balansedagen for årsregnskapet har samlede drifts- og finansinntekter som er større enn 70 millioner kroner, og som ikke er omfattet av nr. 1 til 3, skal styret være sammensatt i samsvar med bustadbyggjelagslova § 6-4a annet og tredje ledd senest 30. juni 2027.
+5) I boligbyggelag hvor styremedlemmer skal velges av og blant de ansatte gjelder kravene i bustadbyggjelagslova § 6-4b fra første ordinære valg etter datoene i nr. 1 til 4.
+Første ledd gjelder ikke for boligbyggelag med flere enn 1 000 andelseiere. I boligbyggelag med flere enn 1 000 andelseiere og flere enn 200 ansatte hvor styremedlemmer skal velges av og blant de ansatte, gjelder kravene i bustadbyggjelagslova § 6-4b annet ledd fra førstkommende ordinære valg.
