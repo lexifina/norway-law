@@ -1,0 +1,2 @@
+# § 2. Særlige importbetingelser for muslinger fra Tyrkia
+EØS-avtalens vedlegg I kapittel I del 7.1 nr. 13 og vedlegg II kap. XII nr. 54zzzc (forordning (EU) 2022/478, som endret ved forordning (EU) 2024/360) om videreføring av særskilte beskyttelsestiltak mot import av muslinger fra Tyrkia gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
