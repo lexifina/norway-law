@@ -1,0 +1,13 @@
+# § 6. Minstekrav for opptak
+(1) Minstekrav for opptak til grunnutdanninger er fastsatt i forskrift om opptak til høgare utdanning.
+(2) Opptakskrav for påbyggingsstudier fastsettes i studieplan.
+(3) For opptak til bachelorprogram i utøvende musikk kan det fastsettes krav om bestått opptaksprøve. Fakultetsstyret selv fastsetter innholdet i og kriterier for å bestå opptaksprøve, jf. forskrift om opptak til høgare utdanning § 4-7 og § 4-9.
+(4) For opptak til de praktisk-pedagogiske utdanningene gjelder opptakskrav fastsatt i forskrift om rammeplan for praktisk-pedagogisk utdanning og forskrift om rammeplan for praktisk-pedagogisk utdanning for yrkesfag. Krav til faglig innhold i opptaksgrunnlaget fastsettes i studieplan. Søkere til praktisk-pedagogisk utdanning i allmenne fag må ha minst ett fag med omfang på minst 60 studiepoeng som gir kompetanse til å undervise og som UiA tilbyr fagdidaktikk i.
+(5) For opptak til masterprogram gjelder:
+a) Minstekrav for opptak til masterprogram framgår av forskrift om krav til mastergrad.
+b) Krav til faglig innhold i opptaksgrunnlaget fastsettes i studieplan.
+c) Det kan i studieplan fastsettes faglige minstekrav (karakterkrav) for det enkelte masterprogram. For søkere med bokstavkarakterer er kravet da vektet gjennomsnittskarakter beregnet i henhold til § 15 på minst C. Ved beregning av gjennomsnittskarakteren benyttes vanlige forhøyningsregler ved at karakteren avrundes til nærmeste hele tall.
+d) For opptak til masterprogram kan det i studieplan etter godkjenning av universitetsstyret, fastsettes krav om bestått opptaksprøve, godkjent faglig essay/motivasjonsbrev, deltakelse på intervju eller en kombinasjon av disse. Fakultetsstyret selv fastsetter innholdet i og kriterier for å bestå opptaksprøve og for å få godkjent faglig essay/motivasjonsbrev.
+e) For opptak til erfaringsbaserte masterprogram etter forskrift om krav til mastergrad § 5, kreves i tillegg minst 2 år fulltid relevant yrkespraksis. Det kan fastsettes krav om mer enn 2 års yrkespraksis. Krav til innhold og omfang av relevant yrkespraksis fastsettes i studieplan. Yrkespraksis skal være avlagt etter fullført bachelorgrad. I særlige tilfelle kan praksis før fullført bachelorgrad godkjennes.
+(6) For opptak til enkeltemner gjelder de generelle krav for opptak til det programmet emnet tilhører. For emner som ikke tilhører et studieprogram må det fastsettes egne krav i emnebeskrivelse.
+(7) Søkere som har statsborgerskap fra land utenfor EU/EØS eller Sveits ved søknadsfristens utløp, må dokumentere at de har tilstrekkelig økonomi for opphold i Norge, jf. utlendingsloven § 58 for å få opptak. Dokumentasjonen må være et finansieringsbevis eller lignende.

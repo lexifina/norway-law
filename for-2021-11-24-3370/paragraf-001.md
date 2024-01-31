@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Forskriften gjelder for opptak til alle studier og emner ved Universitetet i Agder til og med masternivå. Forskriften gjelder også for opptak til forkurs og realfagskurs for ingeniørutdanning. Opptak til grunnutdanninger er regulert i forskrift om opptak til høgare utdanning. Opptak til masterprogram er regulert i forskrift om krav til mastergrad. Opptak til doktorgradsutdanning er regulert i egne lokale forskrifter.
