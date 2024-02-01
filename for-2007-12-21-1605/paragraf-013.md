@@ -1,0 +1,3 @@
+# § 13. Dekning ved oppnevning etter domstolloven § 135
+Når retten i medhold av domstolloven § 135 har funnet det nødvendig med bruk av tolk fordi en eller flere av partene ikke kan norsk, dekkes utgiftene til tolk av det offentlige, såfremt parten er norsk statsborger eller utenlandsk statsborger med fast bopel i Norge.
+Når retten har funnet det nødvendig med bruk av tolk fordi ett eller flere av vitnene eller sakkyndige ikke kan norsk, eller fordi en eller flere av partene ikke kan norsk og er utenlandsk statsborger uten fast bopel i Norge, dekkes utgiftene til tolk av det offentlige når retten finner det rimelig.
