@@ -1,0 +1,2 @@
+# § 20. Forbud mot mottak, bruk og utsett av fisk som er fanget utenfor fristatusområde for VHS og i buffersonen
+Det er forbudt å ta imot, bruke eller sette ut fisk i anlegg for fangstbasert akvakultur som er fanget utenfor norsk territorialfarvann 12 nautiske mil fra nærmeste punkt på grunnlinjen, eller i buffersonen som omfatter de norske delene av nedslagsfeltene til Grense Jakobselv og Passvikvassdraget samt de mellomliggende vassdragene og det tilhørende kystområdet utenfor.
