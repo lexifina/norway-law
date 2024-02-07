@@ -1,0 +1,5 @@
+# § 37. Miljøovervåkning av organisk bunnpåvirkning i anleggssonen
+Det skal foretas miljøovervåking av lokalitet for fangstbasert akvakultur. Anleggssonen skal overvåkes ved B-undersøkelse i henhold til NS 9410:2016 Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm. På lokaliteter hvor slike undersøkelser ikke er egnet til å dokumentere den organiske belastningen, kan Fiskeridirektoratet fatte vedtak om at bunnovervåking av anleggssonen skal skje på en annen måte.
+Undersøkelse skal første gang gjennomføres på det tidspunktet i produksjonssyklusen det er maksimal organisk belastning på lokaliteten. Deretter skal det gjøres undersøkelser etter de frekvenser som følger av NS 9410:2016 eller tilsvarende internasjonal standard eller anerkjent norm.
+Undersøkelsene skal utføres av et organ som kan dokumentere relevant faglig kompetanse og er uavhengig av oppdragsgiver.
+Det skal utarbeides en rapport fra den enkelte undersøkelsen. Rapporten skal sendes inn på den måten tilsynsmyndighetene bestemmer og senest en måned etter dato for feltundersøkelse.

@@ -1,0 +1,3 @@
+# § 42. Tilsyn og vedtak
+Fiskeridirektoratet fører tilsyn med og kan fatte vedtak for å gjennomføre bestemmelser i § 4 – § 6, § 7 første ledd bokstav f–h, andre ledd og tredje ledd, § 8 – § 11, § 12 første, tredje og fjerde ledd, § 13 første ledd, § 14 første, tredje og fjerde ledd, § 15, § 19, § 22 første og andre ledd, § 26, § 31 bokstav a–d og j, § 32 første ledd bokstav a–d og andre ledd og § 33 – § 38.
+Mattilsynet fører tilsyn med og kan fatte vedtak for å gjennomføre bestemmelser i § 7 første ledd bokstav a–f, § 11, § 12 første, andre og tredje ledd, § 13 andre, tredje og fjerde ledd, § 14 første, andre og tredje ledd, § 16 – § 21, § 22 første og tredje ledd, § 23 – § 25, § 27 – § 30, § 31 bokstav a–i, § 32, § 33 og § 39 – § 41.
