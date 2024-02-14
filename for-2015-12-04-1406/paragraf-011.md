@@ -1,0 +1,3 @@
+# § 11. Sjøvannsinntak
+(1) Sjøvannsinntak for drikkevann skal plasseres slik at mulighetene for påvirkning fra innretningens utslipp minimeres. Ved flere inntak skal det inntaket som til enhver tid er mest gunstig ut fra strøm- og forurensningsforhold, brukes.
+(2) For innretninger med byggekontrakt inngått etter 1. januar 2016, skal inntak for sjøvann som brukes i drikkevannsproduksjon, være adskilt fra inntak for kjølevann til maskineri, og drikkevannsinntaket skal være fysisk avstengt når innretningen befinner seg i kystnære områder, havner eller andre steder hvor sjøvannet kan være forurenset.
