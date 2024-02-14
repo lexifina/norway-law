@@ -1,0 +1,3 @@
+# § 24. Bruk av ståltau og løst løfteutstyr
+(1) Bruk, ettersyn og utskifting av ståltau som brukes i offshore- eller dekkskraner eller som løst løfteutstyr, skal samsvare med NS-ISO 4309:2010 «Kraner – Ståltau – Håndtering og vedlikehold, inspeksjon og kassasjon» eller en standard med samme omfang og sikkerhetsnivå.
+(2) Løst løfteutstyr til offshore- eller dekkskraner skal brukes, kontrolleres og lagres i samsvar med NORSOK R-003, revisjon 3, juni 2017 «Sikker bruk av løfteutstyr» kapittel 7 eller NORSOK R-003, revisjon 2, juli 2004 «Sikker bruk av løfteutstyr» kapittel 7 eller en standard med samme omfang og sikkerhetsnivå.
