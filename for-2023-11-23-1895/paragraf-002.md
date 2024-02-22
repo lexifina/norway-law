@@ -1,0 +1,4 @@
+# § 2. Virkeområde
+Forskriften gjelder søkere som har ervervet yrkeskvalifikasjoner i Storbritannia, og som søker om autorisasjon, lisens eller spesialistgodkjenning for et yrke som nevnt i helsepersonelloven § 48 første ledd eller som følger av forskrift med hjemmel i helsepersonelloven § 51.
+For søkere som har ervervet yrkeskvalifikasjoner i Storbritannia før 1. januar 2021 gjelder bestemmelsene i forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits. Nevnte forskrift kapittel 2 og 3 om autorisasjon, lisens eller spesialistgodkjenning mv. gjelder tilsvarende ut 2029 for søkere som var under utdanning i Storbritannia 31. desember 2019.
+Med yrkeskvalifikasjoner menes bestått helsefaglig utdanning og eventuelt tilleggsutdanning og dokumentert utøvelse av yrket.

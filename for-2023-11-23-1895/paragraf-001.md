@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriftens formål er å gjennomføre retten til godkjenning av helsepersonells yrkeskvalifikasjoner ervervet i Det forente kongerike Storbritannia og Nord-Irland (Storbritannia), som følger av kapittel 12 om godkjenning av yrkeskvalifikasjoner i frihandelsavtalen 8. juli 2021 mellom Island, Fyrstedømmet Liechtenstein og Kongeriket Norge og Det forente kongerike Storbritannia og Nord-Irland.

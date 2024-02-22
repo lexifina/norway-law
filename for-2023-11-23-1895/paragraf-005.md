@@ -1,0 +1,4 @@
+# § 5. Utlikningstiltak
+Dersom det er en vesentlig forskjell mellom søkerens yrkeskvalifikasjoner og de kvalifikasjonene som kreves for å få autorisasjon eller spesialistgodkjenning i Norge, skal søkeren gis mulighet til å fullføre et utlikningstiltak. Med utlikningstiltak menes en prøveperiode eller en egnethetsprøve. Helsedirektoratet fastsetter om søkeren skal fullføre en prøveperiode eller bestå en egnethetsprøve, og nærmere innhold og vilkår for tiltaket.
+Med prøveperiode menes utøvelse av det aktuelle yrket under tilsyn av en kvalifisert utøver av dette yrket. Perioden med praksis under tilsyn skal underlegges en vurdering. En slik tilsynsperiode kan suppleres med krav om ytterligere utdanning. Dersom det er nødvendig for å kunne gjennomføre prøveperioden skal søkeren få lisens etter helsepersonelloven § 49.
+Med egnethetsprøve menes en prøve av søkerens faglige kunnskaper for å vurdere søkerens evne til å utøve det aktuelle yrket.
