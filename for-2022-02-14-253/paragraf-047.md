@@ -1,0 +1,4 @@
+# § 47. Krav til virksomheter som blir pålagt å etablere egen varslingsordning
+Direktoratet for samfunnssikkerhet og beredskap kan pålegge virksomheter å etablere egen varslingsordning for befolkningen i nærområdet, jf. sivilbeskyttelsesloven § 16 tredje ledd.
+Virksomhet som gis et slikt pålegg skal etablere en varslingsrutine for ordningen. Varslingsrutinen skal revideres minst én gang i året. Virksomheten skal selv dekke utgiftene til å etablere, drifte og vedlikeholde varslingsordningen.
+Dersom det i ettertid av et pålegg etter første ledd har skjedd endringer i en arealplan eller reguleringsplan eller omlegging av en virksomhet, og disse endringene får betydning for risikovurderingen etter første ledd, skal Direktoratet for samfunnssikkerhet og beredskap vurdere om fremtidige kostnader med varslingsordningen skal deles mellom flere virksomheter.
