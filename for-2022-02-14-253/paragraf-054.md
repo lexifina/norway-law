@@ -1,0 +1,4 @@
+# § 54. Skjønnsnemndas saksbehandling
+Når det er avklart at det ikke kommer i stand en avtale om erstatning som følge av rekvireringen, skal rekvirenten så raskt som mulig begjære skjønn. Begjæringen skal sendes statsforvalteren, med mindre forholdene i krig gjør det nødvendig med en annen fremgangsmåte. Rekvirenten skal i begjæringen gi skjønnsnemnda alle de opplysningene som er nødvendige for at saken kan tas opp til behandling.
+Lederen av skjønnsnemnda skal så raskt som mulig innkalle nemndsmedlemmene, fastsette tid og sted for skjønnet og varsle partene om det. Den det rekvireres fra skal, på oppfordring fra skjønnsnemnda, legge fram rekvisisjonen og kvitteringen fra rekvirenten.
+Dersom ingen møter for den det rekvireres fra, kan skjønnet likevel avholdes såfremt nemnda finner det forsvarlig.

@@ -1,0 +1,6 @@
+# § 61. Utmåling av overtredelsesgebyr
+For handlinger og unnlatelser som nevnt i tabellen, ilegges overtredelsesgebyr etter følgende satser:Unnlatelse eller handlingStørrelsen på overtredelsesgebyrene i kra. Unnlater å gi opplysninger av betydning for å vurdere om vedkommende skal pålegges tjenesteplikt, videre tjenestegjøring og for å holde personellregister oppdatert eller unnlater å dokumentere nevnte opplysninger3 000b. Unnlater å skriftlig bekrefte eller svare på innkallinger, varsel om og pålegg om tjenesteplikt eller øvrig informasjon om at tjenesteplikt er mottatt3 000c. Unnlater å møte på rekrutteringsmøtet6 000d. Unnlater å møte på kurs8 000e. Forlater tjenesten uten tillatelsefra 4 000 til 8 000f. Nyter alkohol eller andre berusende eller bedøvende midler under tjenesten eller møter påvirket til tjeneste4 000
+Brytes et alternativ i første ledd på nytt innenfor en to-årsperiode, økes overtredelsesgebyret med 50 % for hver gjentagelse, men likevel innenfor rammen i fjerde ledd.
+For andre overtredelser enn de som er nevnt i første ledd utmåles overtredelsesgebyret individuelt.
+For fysiske personer kan overtredelsesgebyret maksimalt utgjøre 0,5 ganger grunnbeløpet i folketrygden.
+For foretak kan overtredelsesgebyret maksimalt utgjøre 10 ganger grunnbeløpet i folketrygden.

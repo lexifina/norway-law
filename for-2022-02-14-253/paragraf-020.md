@@ -1,0 +1,5 @@
+# § 20. Midlertidig fritak fra tjeneste for ansatte i virksomheter som ivaretar kritiske samfunnsfunksjoner
+En virksomhet som ivaretar eller understøtter samfunnets kritiske funksjoner som må opprettholdes eller opprettes for å dekke befolkningens og samfunnets grunnleggende behov og trygghet, og som er registrert som virksomhet som ivaretar kritiske samfunnsfunksjoner etter vernepliktsforskriften § 65, kan gis midlertidig fritak fra tjeneste for ansatt som har en kritisk funksjon i virksomheten. Det kan gis fritak så lenge den ansatte har stillingen og for inntil tre år av gangen.
+Virksomheten skal gi opplysninger til Sivilforsvaret om hvilket bemanningsbehov den har, hvilke av samfunnets kritiske funksjoner den tjenestepliktige dekker, og om funksjonen kan dekkes av andre.
+Et vedtak om fritak kan oppheves dersom vilkårene for fritak ikke lenger er oppfylt.
+I ekstraordinære situasjoner kan Direktoratet for samfunnssikkerhet og beredskap gjøre unntak fra kravet om at virksomheten må være registrert i samsvar med vernepliktsforskriften § 65. Det kan gjøres unntak så lenge det er nødvendig på grunn av den ekstraordinære situasjonen.
