@@ -1,0 +1,2 @@
+# § 42a
+For anmerkning av panterett i patentregisteret eller i det særskilte registeret over europeiske patentsøknader, jf. patentloven § 44 tredje ledd, skal det betales et gebyr på kr 500. Dersom et krav om anmerkning omfatter panteretter i flere patenter m.m. som skal sikre samme pantekrav, betales et gebyr på kr 500 for den første anmerkningen med tillegg av kr 100 for hver ytterligere anmerkning i registeret.
