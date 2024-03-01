@@ -1,0 +1,5 @@
+# § 21
+For søknad om patent, jf. patentloven § 8 femte ledd, og for europeisk søknad om patent som endres til nasjonal søknad, jf. patentloven § 66 m annet ledd, skal følgende betales til Patentstyret:1.Søknadsgebyrkr6050,og2.tilleggsgebyr for hvert patentkrav utover 10kr325.
+Når søkeren er en enkeltperson eller småbedrift, eller flere slike i fellesskap når de til sammen ikke har flere årsverk enn det som er spesifisert i tredje ledd første punktum, skal følgende betales til Patentstyret:1.Søknadsgebyrkr1100,og2.tilleggsgebyr for antall patentkrav utover 10kr325.
+Med småbedrift menes en virksomhet med fast ansatte som utfører 20 årsverk eller mindre. Selskaper som i forhold til hverandre er heleide datter- eller morselskaper, regnes som én virksomhet ved beregning av årsverk etter denne bestemmelse. En søker kan pålegges å fremlegge dokumentasjon for at virksomheten er en småbedrift. Med enkeltperson menes en fysisk person som ikke representerer andre enn seg selv.
+Hvis gebyret ikke betales innen den frist Patentstyret setter, anses søknaden som henlagt.

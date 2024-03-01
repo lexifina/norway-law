@@ -1,0 +1,3 @@
+# § 49
+For fornyelse av registreringen av en design etter designloven § 24 skal følgende betales til Patentstyret:1.fornyelsesavgift for første gangs fornyelsekr3770,2.fornyelsesavgift for annen gangs fornyelsekr4550,3.fornyelsesavgift for tredje gangs fornyelsekr5330,4.fornyelsesavgift for fjerde gangs fornyelsekr6500,5.tilleggsavgift der fornyelsesavgift blir betalt etter utløpet av registreringsperiodenkr550,6.Samregistreringsavgift for hver design utover én som registreringen fornyes forkr1690,7.Oppbevaringsavgift for hver leverte modell som Patentstyret oppbevarerkr1200
+Hvis avgiften ikke betales innen fristen nevnt i designloven § 24, opphører designregistreringen.
