@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av forordning (EØF) nr. 95/93
+EØS-avtalens vedlegg XIII nr. 64b (rådsforordning (EØF) nr. 95/93) om fastsettelse av felles regler for fordeling av tidsluker på lufthavner i EØS-området (slotsforordningen) som endret ved forordning (EF) nr. 793/2004, forordning (EU) 2020/459, forordning (EU) 2020/1477, forordning (EU) 2021/250, forordning (EU) 2021/1889, forordning (EU) 2022/255 og forordning (EU) 2022/2038 gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
