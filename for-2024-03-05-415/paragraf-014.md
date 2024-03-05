@@ -1,0 +1,3 @@
+# § 14. Offentliggjøring av avhandlingen
+Avhandlingen og sammendrag av avhandling på norsk og engelsk skal være offentlig tilgjengelig senest ti arbeidsdager før dato for disputas. Avhandlingen skal gjøres tilgjengelig slik den ble innlevert til bedømmelse, eventuelt med rettinger som er foretatt etter § 8.
+Det kan ikke legges restriksjoner på offentliggjøring av en dr.philos.-avhandling, med unntak av tilfeller hvor prorektor for forskning har godkjent en på forhånd avtalt utsettelse av datoen for offentliggjøring. Slik utsettelse kan blant annet finne sted for at eventuelt andre involverte parter skal kunne ta stilling til eventuell patentering.

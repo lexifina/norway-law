@@ -1,0 +1,5 @@
+# § 15-3. Offentlig forsvar av avhandlingen (disputas)
+Disputas skal normalt finne sted innen to måneder etter at prorektor for forskning har funnet avhandlingen verdig til å forsvares.
+Tid og sted for disputas skal kunngjøres minst ti arbeidsdager før den avholdes. Disputasen skal være offentlig og skal normalt avholdes ved NHH.
+Disputasen skjer på avhandlingsspråket med mindre prorektor for forskning godkjenner et annet språk.
+Disputasen ledes av prorektor for forskning eller den prorektor bemyndiger. Den som leder disputasen, gjør kort rede for innleveringen, bedømmelsen av avhandlingen og for prøveforelesningene. Deretter gjør kandidaten rede for hensikten med og resultatet av det vitenskapelige arbeidet. Disputasen foregår deretter som en drøfting av avhandlingen mellom bedømmelseskomitéens medlemmer og kandidaten. Publikum som ønsker å opponere ex auditorio, må under disputasen gi melding om dette til disputasens leder innen det tidspunkt som denne fastsetter. Disse gis muligheten til å opponere ex auditorio etter at bedømmelseskomiteen har avsluttet sin drøfting. Leder av disputasen avslutter deretter disputasen.
