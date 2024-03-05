@@ -1,0 +1,6 @@
+# § 15-1. Prøveforelesninger
+Dersom avhandlingen finnes verdig til å forsvares for dr.philos.-graden, skal kandidaten holde to offentlige prøveforelesninger, en over et selvvalgt tema og en over et oppgitt tema.
+Prøveforelesningene er selvstendige deler av doktorgradsprøven. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskap utover avhandlingens tema og evnen til å formidle disse i en forelesningssituasjon. Prøveforelesningene skal ha en varighet på 45 minutter hver.
+Kandidaten meddeler tittel på prøveforelesning over selvvalgt tema til prorektor for forskning en måned før disputasen. Selvvalgt tema skal ha en relevans til avhandlingen, men skal ikke stå i direkte forbindelse med temaet i avhandlingen. Prorektor for forskning godkjenner forslag til selvvalgt tema for prøveforelesning.
+Tittel for prøveforelesning over oppgitt tema foreslås av bedømmelseskomitéen og godkjennes av prorektor for forskning. Tittelen kunngjøres for kandidaten ti arbeidsdager før prøveforelesningen. Det oppgitte temaet skal ikke stå i direkte forbindelse med temaet for avhandlingen.
+Prøveforelesningene avholdes normalt ved NHH og skal avholdes på avhandlingsspråket, med mindre prorektor for forskning godkjenner et annet språk. Prøveforelesningene skal ledes av prorektor for forskning eller den prorektor bemyndiger.

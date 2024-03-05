@@ -1,0 +1,8 @@
+# § 4-2. Krav til avhandlingen
+Avhandlingen skal være et selvstendig vitenskapelig arbeid av internasjonal standard og på et høyt faglig nivå når det gjelder problemformuleringer, begrepsmessig presisering, dokumentasjon og fremstillingsform, samt metodisk og forskningsetisk grunnlag. Avhandlingen skal bidra med ny faglig kunnskap og ha et faglig nivå som tilsier at forskningen vil kunne publiseres som en del av fagets forskningsbaserte kunnskapsutvikling.
+Avhandlingen skal ha et tema som hører inn under NHHs fagportefølje.
+Avhandlingen skal enten være en monografi eller en sammenstilling av flere arbeider (artikkelbasert). Dersom avhandlingen er en sammenstilling av flere arbeider, skal det i et innledende kapittel redegjøres for sammenhengen mellom dem.
+Avhandlingen kan være et frittstående arbeid eller en videreføring av tidligere arbeider. Dersom publiserte arbeider inngår i avhandlingen, skal disse normalt være publisert de siste fem år før innlevering av avhandlingen.
+Fellesarbeid kan godtas til bedømmelse dersom kandidatens bidrag representerer en selvstendig innsats som kan identifiseres. Med fellesarbeid menes et skriftlig arbeid som er blitt til i samvirke med andre forfattere. For fellesarbeid skal normene for medforfatterskap, som er allment akseptert i fagmiljøet, følges. Til søknaden skal det medfølge en medforfattererklæring som beskriver søkerens og de andre forfatternes bidrag til hvert enkelt arbeid.
+Avhandlingen skal være skrevet på engelsk, med mindre det er gitt særskilt tillatelse til å benytte et annet språk.
+Avhandlingen skal offentliggjøres før disputas finner sted.
