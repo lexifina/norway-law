@@ -1,0 +1,4 @@
+# § 3-2. Studentenes rettigheter
+a) Studentene velger et studentråd som består av 4-6 representanter totalt med 2-3 representanter fra hvert studiested. Valget skjer ved skriftlig avstemming hvor elevene stemmer på representanter fra sitt studiested. Studentrådets oppgaver er bl.a.: å arbeide for et godt skole- og læringsmiljø og å fremme studentenes felles interesser. Studentrådet konstituerer seg selv med leder og nestleder slik at leder og nestleder kommer fra forskjellige studiesteder. Ledervervet og nestledervervet går på omgang mellom studiestedene.
+b) Studentrådets leder er studentrepresentant til styret for Fagskolen Essens AS, og nestleder er personlig vararepresentant. Representanten har stemmerett i styret.
+c) Studentrepresentanten i styret samt personlig vararepresentant er studentrepresentanter til lokal klagenemnd og skikkethetsnemnd.

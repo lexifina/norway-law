@@ -1,0 +1,2 @@
+# § 2-5. Helsemessig stand til å gjennomføre praksisperioden
+For å kunne nå målet for opplæringen slik det fremkommer av fagplanen, forutsettes det at studenten er fysisk og psykisk i stand til å gjennomføre praksisperioden. De som tas inn må helsemessig være i stand til å gjennomføre skoleåret, utenlandspraksis inkludert. Er skolen i tvil vil det kreves dokumentert ved framlegging av helseattest av nyere dato og gjennom intervju med søker.
