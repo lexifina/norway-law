@@ -1,0 +1,2 @@
+# § 10. Særskilt løyve til fôring og andre tiltak
+Fôring av havbeitedyr og andre tiltak i samband med verksemda skal godkjennast av fylkeskommunen etter samråd med Mattilsynet. Det må søkjast særskilt om slikt løyve. Søknaden skal sendast i to eksemplar, eventuelt elektronisk. Ved tildeling av særskilt løyve til fôring og andre tiltak skal sjukdomsfaglege og miljømessige tilhøve tilleggjast vesentleg vekt.
