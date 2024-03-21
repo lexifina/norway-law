@@ -1,0 +1,2 @@
+# § 25. Prioritetsvikelser
+Ved prioritetsvikelser for allerede registrerte heftelser oppgis hvilket dagboknummer det vikes prioritet for. Ved forhåndsvikelser oppgis panthavers navn, pantekravets størrelse og at det vikes prioritet på forhånd. For forhåndsvikelser bortfaller virkningen av registreringen dersom panteretten det vikes prioritet for ikke er dagbokført innen tre år etter registrering av prioritetsvikelsen.
