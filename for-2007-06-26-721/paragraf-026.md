@@ -1,0 +1,2 @@
+# § 26. (Ikrafttredelse og opphevelse)
+Forskriften trer i kraft 1. juli 2007. Fra samme tidspunkt oppheves forskrift 27. juni 1997 nr. 712 om amatørbygging av luftfartøy.

@@ -1,0 +1,6 @@
+# § 13. (Prøveflygingsprogram)
+Prøveflygingsprogram skal godkjennes av Luftfartstilsynet. Bakkeprøving skal være avsluttet før søknad om prøveflyging sendes Luftfartstilsynet.
+Prøveflyging kan ikke skje før fartøyet er foreløpig registrert i Norges luftfartøyregister i henhold til forskrift 5. februar 2004 nr. 393 om registrering av luftfartøy m.m., BSL A 1-5. Ved prøveflyging skal midlertidig registreringsbevis være om bord i luftfartøyet.
+Søknad om prøveflyging skal sendes Luftfartstilsynet vedlagt forslag til prøveflygingsprogram og flygehåndbok. Søknaden skal inneholde den dokumentasjon som er nødvendig for å vurdere luftfartøyets luftdyktighet, prøveflygingsprogram og prøveflygere. Det skal vedlegges vedlikeholdsrapport når det søkes om særskilt flygetillatelse. I vedlikeholdsrapporten godtgjør prosjektets kontrollør ved sin underskrift at alle deler av byggearbeidet er gjennomført.
+Etter at Luftfartstilsynet har foretatt besiktigelse av luftfartøyet, kan særskilt flygetillatelse utstedes med en gyldighetstid på 12 måneder. Etter søknad kan særskilt flygetillatelse fornyes.
+Dersom det fastsettes operative begrensninger i prøveflygingsperioden herunder begrensning av antall personer om bord, skal disse innføres i den særskilte flygetillatelsen.
