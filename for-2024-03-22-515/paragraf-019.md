@@ -1,0 +1,2 @@
+# § 19. Behandling av søknader
+Fylkeskommunen skal, etter å ha kontrollert at søknaden er komplett etter § 16, sende søknaden til Fiskeridirektoratet. Fiskeridirektoratet skal kontrollere selskapets opplysninger i søknaden opp mot gjeldende driftsplan og rapportering etter akvakulturdriftsforskriften, og deretter gi forslag til beregning av tilbudet etter § 20 eller fastsettelse av tillatelseskapasitet som skal unntas fra nedjustering etter § 23. Forslaget sendes fylkeskommunen.
