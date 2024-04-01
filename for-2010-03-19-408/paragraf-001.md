@@ -1,0 +1,3 @@
+# § 1. Overføring av varetektsinnsatte til fullbyrding av straff
+Varetektsfengslede som domfelles, skal overføres til fullbyrding straks kriminalomsorgen mottar fullbyrdingsordre fra påtalemyndigheten.
+Blir en domfelt som er innkalt til soning, pågrepet av politiet og varetektsfengslet for andre straffbare forhold, kan kriminalomsorgen, på anmodning fra påtalemyndigheten, overføre vedkommende fra varetekt til fullbyrding av en tidligere rettskraftig dom. Overføring kan skje selv om domfelte ikke er innkalt til fullbyrding, hvis det er grunn til å tro at domfelte ellers vil unndra seg fullbyrdingen av straff, jf. straffeprosessloven § 461 annet ledd.
