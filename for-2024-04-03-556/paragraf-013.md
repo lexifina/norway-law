@@ -1,0 +1,3 @@
+# § 13. Krav til tilskuddsmottakers rapportering
+Tilskuddsmottakere skal rapportere i henhold til rapporteringskrav i departementets elektroniske forvaltningsportal, regionalforvaltning.no. Forvalteren kan fastsette ytterligere krav til oppfølging og rapporteringer i tilskuddsvedtaket.
+Tilskuddsmottakeren skal rapportere til forvalteren om tiltaket er gjennomført i henhold til vedtaket. Tilskuddmottaker skal sende inn et regnskap for prosjektet, satt opp etter samme oppstilling som budsjettet. Tilskuddsmottakeren skal gi forvalteren melding dersom det inntrer forhold som innebærer endringer i forhold til de forutsetningene som går frem av søknaden eller vedtaket.
