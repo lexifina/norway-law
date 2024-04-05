@@ -1,0 +1,2 @@
+# § 1. Formålet med tilskuddsordningen
+Ordningen skal fremme og finansiere samarbeidsprosjekter, i hovedsak med deltakere fra den norske, svenske og finske delen av Barentsregionen og hele Sápmi. Ordningen omfatter også folk-til-folk-prosjekter med uavhengige russiske aktører i Barentsregionen. Tilskuddsordningen skal bidra til å fremme samfunnsutvikling i Nord-Norge, blant annet gjennom kunnskapsheving.
