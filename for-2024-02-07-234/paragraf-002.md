@@ -1,0 +1,2 @@
+# § 2. Geografisk virkeområde
+Tilskuddsordningen dekker Nordland, Troms og Finnmark fylker, og det sørsamiske området. Videre inngår den svenske og finske delen av Barentsregionen. Prosjekter med samarbeidspartnere fra det øvrige nordlige Norden (Færøyene, Grønland, Island) og/eller i arktisk Canada eller USA kan også vurderes, forutsatt at disse bidrar til å fremme formålet. Det samme gjelder prosjekter med uavhengige russiske aktører i Barentsregionen.
