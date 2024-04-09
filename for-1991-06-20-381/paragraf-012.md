@@ -1,0 +1,3 @@
+# § 12. Ikrafttredelse. Overgangsbestemmelser.
+1) Ikrafttredelse. Denne forskrift trer i kraft 15. juli 1991. Fra samme tidspunkt oppheves Finansdepartementets forskrift av 5. mars 1987 nr. 354 om toll- og avgiftsfri innførsel av utenlandsregistrerte motorvogner til midlertidig bruk i Norge.
+2) Overgangsbestemmelser. Tillatelser til innførsel og bruk av utenlandsregistrert motorvogn som er gitt i henhold til forskrift av 5. mars 1987, gjelder for det tidsrom og på de vilkår som er fastsatt. For person som ved kontroll etter 15. juli 1991 må anses uberettiget til å innføre eller bruke utenlandsregistrert motorvogn i Norge, gjelder denne forskrift selv om motorvognen er innført før dette tidspunkt.
