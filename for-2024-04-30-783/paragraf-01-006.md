@@ -1,0 +1,4 @@
+# § 1-6. Søkerens og studentens undersøkelses- og opplysningsplikt
+(1) Enhver søker/student plikter å sette seg inn i gjeldende forskrift for Fagskolen i Agder, og de spesifikke bestemmelsene som gjelder det studietilbudet søkeren søker til eller studenten følger.
+(2) Studenten plikter å gjøre seg kjent med skolens kvalitets- og avvikssystem og frister som er relevant for utdanningen og sette seg inn i studieplaner, eksamensplaner, rutiner for eksamen, regler for behandling av fusk og nødvendige forutsetninger for å gå opp til eksamen. Regler, planer og rutiner finnes på Fagskolen i Agders læringsplattform.
+(3) Studenten plikter å underrette Fagskolen i Agder om endring av navn, adresse og telefonnummer. Navneendring må dokumenteres. All post blir sendt til studentens tildelte studentmailadresse. Unnlatt oppdatering av adresse og telefonnummer innebærer at studenten må bære risikoen for at underretninger fra Fagskolen i Agder ikke mottas, eller ikke mottas i tide.
