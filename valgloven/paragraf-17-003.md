@@ -1,0 +1,3 @@
+# § 17-3. Hvem som fungerer som fylkestingsmedlemmer eller kommunestyremedlemmer ved omvalg
+(1) Hvis riksvalgstyret kjenner fylkestingsvalget eller kommunestyrevalget ugyldig før det nye fylkestingets eller kommunestyrets konstituerende møte, skal valgperioden for de sittende fylkestingsmedlemmene eller kommunestyremedlemmene forlenges inntil omvalget er endelig godkjent.
+(2) Hvis det nyvalgte fylkestinget eller kommunestyret kjenner valget ugyldig, og riksvalgstyret deretter bestemmer at det skal holdes omvalg, skal de nyvalgte fylkestingsmedlemmene eller kommunestyremedlemmene bli sittende i vervene inntil omvalget er endelig godkjent.

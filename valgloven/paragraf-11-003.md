@@ -1,0 +1,7 @@
+# § 11-3. Antallet stortingsmandater fra hvert valgdistrikt
+(1) Stortingsmandatene skal fordeles mellom valgdistriktene før hvert stortingsvalg. Alle valgdistriktene skal ha minst fire mandater.
+(2) Stortingsmandatene skal fordeles mellom valgdistriktene på grunnlag av valgdistriktenes innbyggertall og areal ved det nest siste årsskiftet før stortingsvalget. Det skal beregnes et fordelingstall ved at antallet innbyggere adderes med antallet kvadratkilometer i valgdistriktet. I beregningen gir hver innbygger 1 poeng og hver kvadratkilometer 1,8 poeng.
+(3) Ved fordelingen skal Sainte-Laguës metode brukes med 1 som det første delingstallet. Fordelingstallet til hvert valgdistrikt skal deles med 1-3-5-7 osv. Valgdistriktet som har den største kvotienten, skal få det første mandatet. Valgdistriktet som har den nest største kvotienten, skal få det neste mandatet, osv.
+(4) Hvis flere valgdistrikter har samme kvotient, går mandatet til valgdistriktet med det høyeste innbyggertallet. Har valgdistriktene også samme innbyggertall, skal det avgjøres ved loddtrekning hvilket valgdistrikt som får mandatet.
+(5) Et valgdistrikt som får færre enn fire mandater etter mandatfordelingen i andre, tredje og fjerde ledd, skal likevel ha fire mandater. Deretter skal mandatfordelingen gjøres på nytt uten valgdistriktet og valgdistriktets mandater.
+(6) Departementet skal fordele mandatene mellom valgdistriktene, informere Stortinget om utfallet og kunngjøre fordelingen.

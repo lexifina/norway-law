@@ -1,0 +1,5 @@
+# § 18-1. Forlenget eller utsatt valgting eller omvalg ved stortingsvalg
+(1) Hvis det har skjedd noe ekstraordinært som er egnet til å hindre en vesentlig del av velgerne fra å stemme, kan Stortinget med stemmene fra to tredjedeler av medlemmene forlenge valgtinget med inntil én dag eller utsette valgtinget. Et vedtak om å forlenge eller utsette valgtinget kan fattes bare så langt det er nødvendig for å sikre velgerne mulighet til å stemme.
+(2) Valgtinget skal være avsluttet innen én måned etter den dagen Kongen i statsråd har fastsatt som valgdag.
+(3) Hvis Stortinget ikke kan samles, kan Kongen i statsråd forlenge valgtinget med inntil én dag eller utsette valgtinget i inntil syv dager. Vilkårene nevnt i første og andre ledd gjelder da tilsvarende.
+(4) Hvis det har skjedd noe ekstraordinært som har hindret en vesentlig del av velgerne fra å stemme, kan det sittende Stortinget med stemmene fra to tredjedeler av Stortingets medlemmer bestemme at det skal holdes omvalg. Et vedtak om å holde omvalg kan fattes bare så langt det er nødvendig for å sikre velgerne mulighet til å stemme.
