@@ -1,0 +1,6 @@
+# § 11-7. Fordelingen av utjevningsmandatene mellom partiene ved stortingsvalg
+(1) Valgdirektoratet skal beregne hvor mange utjevningsmandater det enkelte parti skal ha, på grunnlag av distriktsvalgstyrenes valgoppgjør.
+(2) Utjevningsmandatene skal fordeles mellom de registrerte politiske partiene som har stilt liste i alle valgdistriktene og har fått minst fire prosent av de godkjente og partifordelte stemmene i hele landet.
+(3) Utjevningsmandatene skal fordeles på bakgrunn av en beregning der alle stortingsmandatene fordeles mellom partiene. Stemmer og mandater til lister som ikke oppfyller kravene i andre ledd, skal holdes utenfor. Beregningen skal ta utgangspunkt i partienes samlede stemmetall for hele landet og gjennomføres ved hjelp av Sainte-Laguës metode med 1,4 som det første delingstallet.
+(4) Resultatet av beregningen skal sammenliknes med antallet direktemandater som partiene har fått. Utjevningsmandater skal gå til de partiene som har fått færre direktevalgte mandater enn det som følger av beregningen.
+(5) Hvis et parti har fått flere direktemandater enn det som følger av den nasjonale fordelingen, skal det gjennomføres en ny nasjonal fordeling der partiets stemmer og mandater holdes utenfor.

@@ -1,0 +1,2 @@
+# § 7-8. Hvordan velgerne kan forhåndsstemme før den ordinære forhåndsstemmingen (tidligstemming)
+Ved tidligstemming etter § 7-1 andre ledd skal stemmemottakeren stemple stemmeseddelen før velgeren legger den i en stemmeseddelkonvolutt og limer konvolutten igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten sammen med informasjon om velgerens identitet i en omslagskonvolutt og lime omslagskonvolutten igjen. Velgeren skal legge omslagskonvolutten i en urne.

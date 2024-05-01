@@ -1,0 +1,4 @@
+# § 18-2. Forlenget eller utsatt valgting eller omvalg ved fylkestingsvalg og kommunestyrevalg
+(1) Hvis det har skjedd noe ekstraordinært som er egnet til å hindre en vesentlig del av velgerne fra å stemme, kan Kongen i statsråd forlenge valgtinget med inntil én dag eller utsette valgtinget. Et vedtak om å forlenge eller utsette valgtinget kan fattes bare så langt det er nødvendig for å sikre velgerne mulighet til å stemme.
+(2) Valgtinget skal være avsluttet innen én måned etter den dagen Kongen i statsråd har fastsatt som valgdag.
+(3) Hvis det har skjedd noe ekstraordinært som har hindret en vesentlig del av velgerne fra å stemme, kan Kongen i statsråd bestemme at det skal holdes omvalg. Et vedtak om å holde omvalg kan fattes bare så langt det er nødvendig for å sikre velgerne mulighet til å stemme.

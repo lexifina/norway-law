@@ -1,0 +1,2 @@
+# § 7-6. Hvordan velgerne kan forhåndsstemme utenfor egen kommune
+Hvis en velger som forhåndsstemmer, ikke er innført i manntallet i kommunen, skal velgeren bruke stemmeseddelkonvolutt. Etter at stemmeseddelen er stemplet, skal velgeren legge den i en stemmeseddelkonvolutt og lime konvolutten igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten sammen med informasjon om velgerens identitet i en omslagskonvolutt og lime omslagskonvolutten igjen. Velgeren skal legge omslagskonvolutten i en urne.

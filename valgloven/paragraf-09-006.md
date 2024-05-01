@@ -1,0 +1,3 @@
+# § 9-6. Hvordan velgerne kan stemme i valglokaler med papirmanntall
+(1) Hvis velgeren er innført i manntallet til stemmekretsen, skal stemmemottakeren stemple stemmeseddelen og sette kryss ved velgerens navn. Velgeren skal legge stemmeseddelen i en urne.
+(2) Hvis stemmemottakeren ikke kan sette kryss ved velgerens navn i manntallet, skal stemmemottakeren stemple stemmeseddelen før velgeren legger den i en stemmeseddelkonvolutt og limer konvolutten igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten sammen med informasjon om velgerens identitet i en omslagskonvolutt og lime omslagskonvolutten igjen. Velgeren skal legge omslagskonvolutten i en urne.

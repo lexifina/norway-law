@@ -1,0 +1,3 @@
+# § 5-11. Endring av listeforslaget etter innleveringsfristen
+(1) Etter at fristen for innlevering av listeforslag er utløpt, kan listeforslagets tillitsvalgte bare gjøre de endringer som er nødvendige for å bringe listeforslaget i samsvar med kravene i loven her.
+(2) Hvis en kandidat strykes fra listeforslaget, kan listen suppleres med et nytt navn. Listeforslagets tillitsvalgte kan i så fall bestemme om navnet skal settes på den tomme plassen, eller om de etterfølgende kandidatene skal rykke opp i uforandret rekkefølge, og at listen da skal suppleres med et nytt navn nederst. § 5-5 bokstav b til d gjelder tilsvarende.
