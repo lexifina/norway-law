@@ -1,0 +1,4 @@
+# § 11-4. Fordelingen av de direktevalgte mandatene ved stortingsvalg
+(1) Distriktsvalgstyret skal fordele valgdistriktets direktevalgte mandater mellom listene.
+(2) Mandatene skal fordeles på grunnlag av listenes stemmetall i valgdistriktet. Ved fordelingen skal Sainte-Laguës metode brukes med 1,4 som det første delingstallet. Dette innebærer at antallet stemmer som hver liste har fått, deles på 1,4-3-5-7 osv. Antallet stemmer skal deles så mange ganger som det er mandater i valgdistriktet. Listen som har den største kvotienten, får det første mandatet. Listen som har den nest største kvotienten, får det neste mandatet, osv.
+(3) Hvis flere lister har samme kvotient, går mandatet til den listen som har fått flest stemmer. Har listene også fått samme antall stemmer, skal det avgjøres ved loddtrekning hvilken liste som skal få mandatet.

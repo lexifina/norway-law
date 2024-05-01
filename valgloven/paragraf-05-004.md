@@ -1,0 +1,4 @@
+# § 5-4. Antall underskrifter på listeforslaget
+(1) Listeforslag fra partier som er registrert i Partiregisteret, og som ved forrige stortingsvalg fikk minst 5 000 stemmer i hele landet, skal være underskrevet av to styremedlemmer i partiets avdeling med ansvar for det valgdistriktet listen gjelder. Det samme gjelder for partier som er blitt registrert i Partiregisteret etter forrige stortingsvalg. Hvis et registrert politisk parti stiller listeforslag sammen med en uregistrert gruppe, gjelder likevel bestemmelsene i andre ledd.
+(2) Øvrige listeforslag skal være underskrevet av minst så mange personer som tilsvarer én prosent av antall personer med stemmerett ved forrige valg i valgdistriktet. Ved kommunestyrevalg skal listeforslaget likevel være underskrevet av minst like mange personer som det skal velges medlemmer til kommunestyret.
+(3) Underskriverne må ha stemmerett i valgdistriktet og kan bare skrive under på ett listeforslag.

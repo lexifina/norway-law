@@ -1,0 +1,3 @@
+# § 18-6. Hvem som fungerer som fylkestingsmedlemmer eller kommunestyremedlemmer ved omvalg
+(1) Hvis Kongen i statsråd har bestemt at det skal holdes omvalg etter § 18-2 tredje ledd før det nye fylkestinget eller kommunestyret har konstituert seg, skal valgperioden for de sittende fylkestingsmedlemmene eller kommunestyremedlemmene forlenges inntil omvalget er endelig godkjent.
+(2) Hvis Kongen i statsråd har bestemt at det skal holdes omvalg etter § 18-2 tredje ledd etter det nyvalgte fylkestingets eller kommunestyrets konstituerende møte, skal de nyvalgte fylkestingsmedlemmene eller kommunestyremedlemmene bli sittende i vervene inntil omvalget er endelig godkjent.

@@ -1,0 +1,4 @@
+# § 6-10. Adgang til å gi personstemmer
+(1) Ved fylkestingsvalg og kommunestyrevalg kan velgerne gi kandidater på stemmeseddelen personstemmer ved å sette kryss i ruten ved kandidatenes navn.
+(2) Ved kommunestyrevalg kan velgerne i tillegg gi personstemmer til kandidater på andre valglister ved å føre kandidatnavnene opp på stemmeseddelen (slengerstemmer). Slike personstemmer kan gis til inntil så mange kandidater som tilsvarer 1/4 av det antallet medlemmer som skal velges til kommunestyret. Velgerne kan likevel alltid gi personstemme til minst fem kandidater fra andre lister. Når en velger gir personstemme til en kandidat på en annen liste, overføres én listestemme til den listen som denne kandidaten står oppført på.
+(3) Andre endringer på stemmeseddelen teller ikke med ved valgoppgjøret.
