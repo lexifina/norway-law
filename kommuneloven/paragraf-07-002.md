@@ -10,7 +10,7 @@ g) representantskap og andre styringsorganer for et kommunalt oppgavefellesskap
 h) styret for kommunalt eller fylkeskommunalt foretak
 i) et kommunalt eller fylkeskommunalt folkevalgt organ hjemlet i særlov
 j) arbeidsutvalg valgt av kommunedelsutvalg.
-Valgbarhet og plikt til å ta imot valg til kommunestyret og fylkestinget er regulert i valgloven § 3-3.
+Valgbarhet og plikt til å ta imot valg til kommunestyret og fylkestinget er regulert i valgloven §§ 3-2 og 3-4.
 En person er valgbar og plikter å ta imot valg hvis følgende vilkår er oppfylt:
 a) Han eller hun har stemmerett ved kommunestyre- og fylkestingsvalg.
 b) Han eller hun er innført i folkeregisteret som bosatt i kommunen eller i en av kommunene i fylket på tidspunktet for det aktuelle valget.

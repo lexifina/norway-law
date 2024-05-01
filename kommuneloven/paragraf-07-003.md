@@ -17,5 +17,4 @@ d) medlem av kommuneråd eller fylkesråd
 e) medlem eller varamedlem av kommunestyrekomité eller fylkestingskomité.
 Ved valg til kommunedelsutvalg kan kommunestyret selv vedta at bare de som er innført i folkeregisteret som bosatt i kommunedelen, er valgbare.
 Den som er ansvarlig for regnskapet i et kommunalt eller fylkeskommunalt foretak, er ikke valgbar til styret i foretaket. Den som er ansvarlig for regnskapet eller foretar revisjon av interkommunalt politisk råd eller kommunalt oppgavefellesskap, er ikke valgbar til representantskapet eller andre styringsorganer for virksomheten.
-En kandidat ved kommunestyrevalget er ikke valgbar til stemmestyret i kommunen, jf. valgloven § 4-2. En kandidat ved stortingsvalget eller fylkestingsvalget er ikke valgbar til stemmestyret i kommunene i valgdistriktet.
 En kandidat som ellers ville vært utelukket fra valg på grunn av sin stilling, er likevel valgbar hvis han eller hun har fratrådt stillingen når organet trer i funksjon.
