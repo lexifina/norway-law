@@ -1,0 +1,5 @@
+# § 9-2. Annullering av eksamen
+(1) Den lokale klagenemnden kan annullere resultatet av en eksamen/emnekarakter dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med eksamenen, prøven eller lignende eller under gjennomføringen av emnet, eller er blitt tatt opp til utdanningen ved hjelp av falske vitnemål eller annen form for uredelig oppførsel.
+(2) Anledningen til annullering blir ikke foreldet
+(3) Etter avgjørelse om annullering er fattet skal eventuelt vitnemål eller karakterutskrift leveres tilbake til fagskolen. Om vitnemål eller karakterutskrift ikke blir levert tilbake til skolen i rett tid, kan skolen kreve hjelp fra namsmannen i samsvar med reglene i tvangsfullbyrdelsesloven kap. 13. Danner vitnemålet grunnlag for autorisasjon for yrkesutøving, skal fagskolen gi melding om annullering til vedkommende myndighet.
+(4) Annullering av eksamen er et enkeltvedtak, og studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Jf. kapittel 10 i denne forskrift.

@@ -1,0 +1,4 @@
+# § 8-2. Fagskoleutdanninger med skikkethetsvurdering
+(1) Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare. Dette gjelder for samtlige fagskoleutdanninger, etter- og videreutdanninger innen fagområde helse- og oppvekst og fagskoleutdanninger innen det maritime fagområdet ved Fagskolen i Agder.
+(2) Ved akkreditering av nye fagskoleutdanninger innen fagområdet helse- og oppvekst og maritime fag, skal det alltid foretas skikkethetsvurderinger for den aktuelle fagskoleutdanningen.
+(3) Fagskolen i Agder har plikt til å gi tilstrekkelig og relevant informasjon om at studentene ved fagskoleutdanninger innen fagområdet helse- og oppvekst og fagskoleutdanninger innen det maritime fagområdet, vil bli skikkethetsvurdert. Studentene får informasjon om reglene for skikkethet ved studiestart.
