@@ -1,0 +1,3 @@
+# § 15. Krav om tilbakebetaling
+Dersom siidaandelen har mottatt erstatning i strid med redelighet og god tro, kan beløpet kreves tilbake. Utbetalt erstatning kan også kreves tilbake dersom søker har gitt feilaktige, mangelfulle eller misvisende opplysninger, eller dersom leder av siidaandelen ikke fordeler utbetalingen til berørte eiere under siidaandelen i samsvar med forskriftens § 13 d. Det samme gjelder dersom utbetalingen skyldes feil fra myndighetenes side og søker burde ha forstått dette.
+Dersom mottatt forskudd eller à konto utbetaling overstiger endelig erstatningsbeløp, skal overskytende beløp tilbakebetales.
