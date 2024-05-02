@@ -1,0 +1,9 @@
+# § 5-4. Poengutrekning og rangering av søkjarar til 2-årige masterprogram og praktisk-pedagogisk utdanning (PPU)
+(1) Søkjarar til 2-årige masterprogram og PPU blir rangerte innbyrdes på grunnlag av konkurransepoeng. I konkurransepoenga til ein søkjar kan summen av følgjande poeng inngå:
+a) Karakterpoeng: Det blir rekna ut eit vekta karaktergjennomsnitt, med to desimalar av den faglege fordjupinga, jf. § 2-2 (3) b). Vekta til kvar einskild karakter er talet på studiepoeng i det aktuelle emnet. Dersom utrekninga gir meir enn to desimalar, skal alle frå og med den fjerde desimalen strykast. Ein eventuell tredje desimal vert nytta til å høgne den andre desimalen, etter vanlege reknereglar.
+b) Andre tilleggspoeng: Med utgangspunkt i særlege omsyn som er knytte til enkelte studium, kan det fastsetjast andre poengtypar i studieplanen.
+(2) For søkjarar med bokstavkarakterar blir følgjande omrekningsskala nytta som grunnlag for utrekning av gjennomsnittskarakter: A=5, B=4, C=3, D=2, E=1. Ved utrekning av karaktersnitt i rangeringsgrunnlaget, blir kvar karakter erstatta med det tilsvarande talet. For kvart emne som inngår i rangeringsgrunnlaget, blir talet multiplisert med talet på studiepoeng og produktet blir summert. Denne summen blir dividert på totalt tal på studiepoeng, og resultatet blir utrekna med to desimal.
+(3) For utrekning av kvalifiseringskrav etter § 2-2 (3) bokstav e, skal avrunding skje til næraste heile tal etter vanlege avrundingsreglar.
+(4) Nærare føresegn om omrekning av karakterar frå andre karakterskalaer er gitt i retningsliner for opptak til Universitetet i Bergen.
+(5) I særskilde tilfelle kan anna utdanning, praksis eller kompetanse enn den som inngår i det formelle opptaksgrunnlaget, bli teken med i rangeringa. Rangeringsgrunnlag og rangeringsmetode fastsetjast i studieplanen.
+(6) For opptak til praktisk-pedagogisk utdanning vil søkjarar med to fag ha prioritet framfor søkjarar med eitt fag.
