@@ -1,0 +1,2 @@
+# § 16. Erstatning for skade voldt av andre arter
+Statsforvalteren kan etter søknad fra leder av siidaandelen i særlige tilfeller utbetale erstatning dersom det ved undersøkelse i samsvar med § 7 er påvist at andre rovviltarter uten jakttid enn de nevnt i § 2 bokstav a har drept eller skadet tamrein. Statsforvalterens vedtak etter denne bestemmelsen kan påklages til Miljødirektoratet i henhold til forvaltningslovens regler.
