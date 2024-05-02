@@ -1,0 +1,2 @@
+# § 6-2. Tilbod og opptak på visse vilkår for utøvande og skapande kunst, musikk og design
+Universitetet i Bergen kan gi tilbod om studieplass på visse vilkår til søkjarar til utøvande og skapande kunst, musikk og design som ikkje tilfredsstiller heile opptakskravet på det tidspunktet dei får tilbod om studieplass. Søkjarar som får tilbod på visse vilkår må gjennomføre og greie manglande eksamenar ved første mogelege anledning, og seinast innan 1 år.
