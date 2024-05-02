@@ -1,0 +1,2 @@
+# § 9. Bidrag til kommunens folkehelsearbeid, herunder oversikt over helsetilstand og påvirkningsfaktorer
+Helsestasjonen og skolehelsetjenesten skal bidra til kommunens tverrsektorielle folkehelsearbeid, herunder bidra med oversikt over helsetilstanden og de faktorer som kan virke inn på helsen til gravide, nyfødte, barselkvinner og deres partnere og barn og ungdom 0-20 år, jf. lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. § 3-3, og lov 24. juni 2011 nr. 29 om folkehelsearbeid § 5 første ledd bokstav b).
