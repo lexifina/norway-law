@@ -1,0 +1,2 @@
+# § 7. Rapportering og utbetaling av tilskuddet
+Husbanken utbetaler tilskuddet når tilskuddsmottaker har levert rapport til Husbanken som viser at tilskuddet er benyttet i samsvar med tilskuddsvedtaket. Rapporten skal inneholde dokumentasjon på hva slags tiltak som er gjennomført, antall utleieboliger, omsorgsboliger eller sykehjem det er gjort tiltak for og forventet redusert energibehov. Tilskuddsmottaker skal benytte energisparekalkulatoren på Husbankens nettsider.
