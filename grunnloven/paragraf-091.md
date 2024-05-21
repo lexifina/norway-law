@@ -1,2 +1,2 @@
 # § 91
-Ingen kan beskikkes til medlem av Høyesterett før han eller hun er 30 år gammel.
+Statens myndigheter skal sikre en uavhengig administrasjon av domstolene.
