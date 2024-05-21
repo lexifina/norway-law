@@ -1,2 +1,2 @@
 # § 87
-Dei nærare reglane om samansetjinga av Riksretten og om saksbehandlinga blir fastsette i lov.
+Dei allmenne domstolane er Høgsterett, lagmannsrettane og tingrettane. Dei behandlar og avgjer sivile saker og straffesaker.

@@ -1,2 +1,2 @@
 # § 87
-De nærmere forskrifter om sammensetningen av Riksretten og saksbehandlingen fastsettes ved lov.
+De alminnelige domstolene er Høyesterett, lagmannsrettene og tingrettene. De behandler og avgjør sivile saker og straffesaker.
