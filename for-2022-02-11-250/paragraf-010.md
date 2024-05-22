@@ -1,0 +1,3 @@
+# § 10. Krav til tilskuddsmottakers rapportering
+Rapportering på de søkbare tilskuddsmidlene kan skje gjennom Forskningsrådets søknadsportal eller den enkelte fylkeskommunes egne systemer. Fylkeskommunen kan fastsette ytterligere krav til oppfølging og rapporteringer i tilskuddsvedtaket.
+Tilskuddsmottaker skal rapportere til fylkeskommunen om prosjektet er gjennomført i henhold til vedtaket. Tilskuddsmottaker skal sende inn et regnskap for prosjektet. Fylkeskommunen kan be om at prosjektregnskapet blir bekreftet av godkjent regnskapsfører, registrert revisor eller statsautorisert revisor. Tilskuddsmottakeren skal gi fylkeskommunen melding dersom det inntrer forhold som innebærer endringer i forhold til de forutsetningene som går frem av søknaden eller vedtaket.
