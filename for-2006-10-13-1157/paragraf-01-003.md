@@ -1,0 +1,2 @@
+# § 1-3. (generelle kriterier for tildeling av spesiell tillatelse)
+Det kan bare tildeles spesiell tillatelse etter denne forskriften dersom et av vilkårene i deltakerloven § 17 første ledd er oppfylt. Det kan likevel tildeles rødåtetråltillatelse etter § 2-25 og spesiell tillatelse til å drive hvalfangst eller selfangst dersom øvrige vilkår for dette er oppfylt. Denne bestemmelsen er ikke til hinder for nytildeling etter særskilt beslutning fra departementet.

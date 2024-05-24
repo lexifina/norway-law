@@ -1,0 +1,4 @@
+# § 2-25. (rødåtetråltillatelse)
+Fiskeridirektoratet tildeler rødåtetråltillatelse.
+Rødåtetråltillatelse gir adgang til å høste rødåte med flytetrål i Norges økonomiske sone utenfor 1000 meters dybdekote nord for 62° N og vest for 24° Ø, og dessuten i fiskerisonen ved Jan Mayen utenfor 12 nautiske mil fra grunnlinjen, og i internasjonalt farvann i Norskehavet innenfor et område definert som NEAFC RA 2 (XNS).
+Det er et vilkår for tildeling av rødåtetråltillatelse at fartøyet er tildelt avgrenset rødåtetråltillatelse i kategori 1 eller annen spesiell tillatelse etter konsesjonsforskriften unntatt reketråltillatelse, selfangsttillatelse og hvalfangsttillatelse, eller deltakeradgang i lukket gruppe etter deltakerforskriften. Dersom fartøyet ikke er tildelt annen spesiell tillatelse eller deltakeradgang enn avgrenset rødåtetråltillatelse i kategori 1, skal rødåtetillatelsen ikke gis lengre varighet enn den avgrensede rødåtetråltillatelsen i kategori 1.
