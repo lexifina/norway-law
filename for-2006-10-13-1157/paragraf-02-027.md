@@ -1,0 +1,3 @@
+# § 2-27. (avgrenset rødåtetråltillatelse kategori 2)
+Fiskeridirektoratet tildeler avgrenset rødåtetråltillatelse i kategori 2. Avgrenset rødåtetråltillatelse i kategori 2 gir adgang til å høste rødåte med flytetrål i området nord for 62° N mellom grunnlinjene og 1000 meters dybdekote vest for 24° Ø.
+Det er et vilkår for tildeling av avgrenset rødåtetråltillatelse i kategori 2 at fartøyet er tildelt annen spesiell tillatelse etter konsesjonsforskriften unntatt reketråltillatelse, selfangsttillatelse og hvalfangsttillatelse, eller deltakeradgang i lukket gruppe etter deltakerforskriften, og at det er eller samtidig blir tildelt rødåtetråltillatelse etter forskriften her.
