@@ -1,0 +1,2 @@
+# § 16
+Til avdødes foreldre (herunder adoptivforeldre), søsken under 18 år og besteforeldre kan tilståes pensjon, dersom de ikke kan underholde seg selv og avdøde før han døde bidro vesentlig til deres underhold eller det må anses sannsynlig at avdøde ville kommet til å bidra vesentlig til deres underhold, dersom skaden ikke var inntruffet. Pensjonene beregnes skjønnsmessig til et beløp som står i rimelig forhold til det underhold avdøde har ytt dem tidligere eller framtidig må antas å ville ha ytt dem, dog slik at de sammenlagt ikke overstiger minstepensjonen for enker.

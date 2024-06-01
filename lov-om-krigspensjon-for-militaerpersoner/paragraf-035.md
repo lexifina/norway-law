@@ -1,0 +1,3 @@
+# § 35
+1. Denne lov trer i kraft straks.Den omfatter krigsulykker som er inntruffet i tiden fra 2 september 1939 til 31 desember 1945, dog med unntak for okkupasjonsstyrker som nevnt i § 1 første ledd. Arbeids- og velferdsdirektoratet kan også yte erstatning etter loven for skader inntruffet under opprydding og lignende etter krigen og okkupasjonen, selv om skadene er inntruffet etter 31 desember 1945. Vedtak etter foregående punktum kan påklages til departementet. Loven får med hensyn til ytelser virkning fra 1 juli 1946.
+4. De ytelser som utbetales etter denne lov, skal ikke i noe tilfelle være mindre enn de ville ha blitt etter provisorisk anordning av 4 mai 1945 og Stortingets vedtak av 28 februar 1946 om krigspensjonering for militærpersoner.
