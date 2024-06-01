@@ -1,0 +1,5 @@
+# § 3-3. Forhåndsundersøkelse av pasienter
+En helseinstitusjon kan kreve at en pasient skal la seg forhåndsundersøke når det gjelder en smittsom sykdom, før det blir foretatt en diagnostisk utredning, og før pasienten får behandling eller pleie. En slik undersøkelse kan ikke fastsettes som rutine for alle pasienter og kan ikke omfatte endoskopi, biopsi, spinalpunksjon eller andre lignende undersøkelser/inngrep.
+Forhåndsundersøkelse kan kreves bare når en slik sykdom vil forårsake ekstraordinære forebyggende tiltak av hensyn til faren for overføring til andre pasienter eller til personale, og såfremt tiltakene kan gi vesentlig større sikkerhet mot smitteoverføring eller bety en vesentlig lettelse eller besparelse for helse- og omsorgstjenesten.
+Forhåndsundersøkelse etter første ledd må ikke føre til at behandlingen av pasienten blir alvorlig forsinket, eller til at han eller hun blir utsatt for fare eller urimelig ulempe.
+Vedtak om forhåndsundersøkelse kan påklages til statsforvalteren.

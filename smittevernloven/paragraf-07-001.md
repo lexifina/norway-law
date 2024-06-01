@@ -1,0 +1,7 @@
+# § 7-1. Kommunen
+Kommunen skal sørge for at alle som bor eller midlertidig oppholder seg i kommunen med hensyn til smittsom sykdom er sikret nødvendige forebyggende tiltak, undersøkelsesmuligheter, behandling og pleie utenfor institusjon og pleie i sykehjem eller annen kommunal helseinstitusjon.
+Kommunen skal også utføre de oppgaver innen smittevernet som pålegges i loven her eller bestemmelser i medhold av loven, herunder skaffe seg oversikt over arten og omfanget av de smittsomme sykdommer som forekommer i kommunen, drive opplysning om smittsomme sykdommer og gi råd og veiledning om hvordan de forebygges, sørge for at individuelt forebyggende tiltak blir satt i verk, sørge for at andre tiltak etter loven her, folkehelseloven eller helse- og omsorgstjenesteloven blir satt i verk.
+Tiltak og tjenester for å forebygge smittsomme sykdommer eller motvirke at de blir overført skal utgjøre et eget område i planen for kommunens helse- og omsorgstjeneste. Helse- og omsorgstjenesten i kommunen skal samarbeide med myndigheter som har oppgaver av betydning for tiltakene.
+Kommunen skal føre tilsyn og sørge for at reglene i loven blir overholdt og at vedtak i medhold av loven blir gjennomført.
+Ved iverksetting av tiltak etter §§ 3-1 og 3-8 kan kommunen mot vederlag bruke og om nødvendig skade andres eiendom.
+Kommunens myndighet etter denne lov kan delegeres etter reglene i kommuneloven eller til et interkommunalt organ.

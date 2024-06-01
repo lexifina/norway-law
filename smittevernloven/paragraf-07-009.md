@@ -1,0 +1,3 @@
+# § 7-9. Folkehelseinstituttet
+Folkehelseinstituttet er statens smitteverninstitutt. Folkehelseinstituttet skal overvåke den nasjonale epidemiologiske situasjonen og delta i overvåkingen av den internasjonale epidemiologiske situasjonen, utføre helseanalyser og drive forskning på smittevernområdet. Folkehelseinstituttet kan behandle helseopplysninger og andre personopplysninger som er nødvendig for å gjennomføre disse oppgavene.
+Folkehelseinstituttet skal gi smittevernfaglige råd og bistand til helsepersonell, kommuner, fylkeskommuner og statlige virksomheter i forbindelse med oppklaring og kontroll av utbrudd av smittsomme sykdommer.

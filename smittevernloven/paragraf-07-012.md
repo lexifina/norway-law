@@ -1,0 +1,2 @@
+# § 7-12. Særlig fullmakt for Kongen
+Når et utbrudd av en allmennfarlig smittsom sykdom truer folkehelsen, eller når det er fare for et slikt utbrudd og det på grunn av disse forhold er fare ved opphold, kan Kongen gi bestemmelser av lovgivningsmessig innhold for å trygge folkehelsen, og for at det kan settes inn tiltak til vern om befolkningen. Om nødvendig kan Kongen gjøre avvik fra gjeldende lovgivning. Lov av 15. desember 1950 om særlige rådgjerder under krig, krigsfare og liknende forhold §§ 3 og 4 gjelder tilsvarende.

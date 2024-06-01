@@ -1,0 +1,5 @@
+# § 4-2. Forbud mot utførelse av arbeid m.m.
+En smittet person med en allmennfarlig smittsom sykdom som gjennom sitt arbeid eller ved deltagelse i undervisning er en alvorlig fare for overføring av smitte til andre, kan forbys å utføre dette arbeidet eller delta i undervisningen for opptil tre uker dersom hensynet til smittevernet krever det. Ved nytt vedtak kan forbudet forlenges med opptil tre uker.
+Vedtak etter første ledd skal gjøres av kommunelegen sammen med vakthavende infeksjonsmedisinske overlege ved sykehus i helseregionen.
+Statsforvalteren avgjør klage over vedtak. Når legene som skal gjøre vedtak etter andre ledd er uenige, skal statsforvalteren delta i avgjørelsen. Helsedirektoratet avgjør klagen når statsforvalteren har vært med i første instans. En klage har ikke utsettende virkning på iverksetting av vedtak etter denne paragrafen.
+Når smittede personer gjennom sitt arbeid eller ved deltagelse i undervisning kan utgjøre en alvorlig fare for overføring av smitte til andre, kan departementet i forskrift fastsette at det skal være forbudt for smittede personer å utføre et bestemt arbeid eller deler av det eller delta i undervisning.
