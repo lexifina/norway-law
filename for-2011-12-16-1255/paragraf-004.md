@@ -1,0 +1,2 @@
+# § 4. Barns rett til helse- og omsorgstjenester
+Personer under 18 år som ikke oppfyller vilkårene etter § 2 har, i tillegg til øyeblikkelig hjelp som nevnt i § 3, rett til nødvendige helse- og omsorgstjenester fra kommunen etter pasient- og brukerrettighetsloven § 2-1 andre ledd og nødvendig helsehjelp fra spesialisthelsetjenesten etter § 2-2 andre ledd, med mindre hensynet til barnet tilsier at hjelpen ikke skal ytes. I tillegg gjelder pasient- og brukerrettighetsloven § 2-3 til § 2-5.
