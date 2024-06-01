@@ -1,0 +1,3 @@
+# § 1
+Denne lov gjelder pensjonering av militærpersoner som har fått mén som følge av skade eller sykdom som de er påført under tjenstgjøring i krig. Likeså omfatter loven pensjonering av etterlatte til militærpersoner som er død av skade eller sykdom de er påført under tjenestgjøringen.
+Som militærperson anses enhver som deltar i krigen (krigsdeltaker) etter bestemmelsene i forsvarsloven eller som frivillig. Arbeids- og velferdsdirektoratet kan bestemme at norsk statsborger som deltar i krigen i alliert lands tjeneste, helt eller delvis skal ha rett til ytelser etter denne lov for seg og sine etterlatte. Vedtak etter foregående punktum kan påklages til departementet.
