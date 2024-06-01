@@ -1,0 +1,2 @@
+# § 4a. Særskilt tidsfristregel for barn og unge under 23 år med psykiske lidelser eller rusmiddelavhengighet
+Tidsfristen for når helsehjelpen senest skal være påbegynt som nevnt i § 4 første ledd andre punktum, skal ikke overstige 65 virkedager for barn og unge under 23 år med psykiske lidelser eller rusmiddelavhengighet. Tidsfristen regnes fra den dato det er vurdert at pasienten har rett til nødvendig helsehjelp.
