@@ -1,0 +1,3 @@
+# § 33
+1. Krav om ytelser etter denne lov kan avslås og tilkjente ytelser kan tilbakeholdes helt eller delvis dersom vedkommende mot bedre vitende gir uriktige opplysninger eller fortier vesentlige opplysninger av betydning for rettigheter og plikter etter denne lov, eller uten rimelig grunn unnlater å etterkomme påbud som er gitt i eller med hjemmel i denne lov.Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å gjennomgå arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.
+2. Folketrygdloven § 22-15 gjelder tilsvarende for ytelser etter loven her.

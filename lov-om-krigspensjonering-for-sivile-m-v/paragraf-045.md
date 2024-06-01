@@ -1,0 +1,4 @@
+# § 45
+1. Loven trer i kraft straks.Den omfatter krigsulykker som er inntruffet under og som følge av krigen 1939-1945.Når særlige grunner gjør det rimelig, kan Kongen bestemme at loven også skal omfatte krigsulykker som er inntruffet før 2 september 1939. Loven får med hensyn til ytelser virkning fra 1 juli 1946.
+2. Denne lov gjør ingen endring i den rett som noen har ved lovens ikrafttreden til ekstraerstatning etter lov om ulykkestrygd for sjømenn § 11 nr. 2.Slik ekstraerstatning eller ekstraerstatning etter avtale med rederne eller Nortraship kommer ikke til fradrag etter lovens § 23.Ekstraerstatning etter bestemmelsene i første og annet ledd tilstås også krigsseilere på fartøy under 50 brutto registertonn.
+5. De ytelser som utbetales etter denne lov skal ikke i noe tilfelle være mindre enn de ville ha blitt etter provisorisk anordning av 18 mai 1945 om Krigspensjonering for sivilpersoner og Stortingets vedtak av 28 februar 1946.

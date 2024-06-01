@@ -1,0 +1,3 @@
+# § 39
+1. Enhver offentlig og kommunal myndighet er pliktig til uten særskilt godtgjørelse og uten hinder av taushetsplikt å gi krigspensjoneringens organer til bruk for saker etter denne lov de opplysninger som vedkommende i kraft av sin stilling sitter inne med.
+2. Arbeids- og velferdsetaten kan, når det finnes nødvendig for avgjørelsen av en sak etter denne lov la innhente forklaringer gjennom bevissikring etter reglene i tvisteloven § 28-3 tredje ledd og § 28-4 eller ved politiet. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
