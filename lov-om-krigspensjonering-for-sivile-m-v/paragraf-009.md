@@ -1,0 +1,3 @@
+# § 9
+Invalidpensjonen beregnes til 75 % av pensjonsgrunnlaget.
+Ved fullstendig tap av ervervsevnen ytes hel pensjon og ved nedsatt ervervsevne avkortet pensjon. Den skadede har dog ikke rett til invalidpensjon hvis ervervsevnen er nedsatt med mindre enn 8 1/3 prosent.
