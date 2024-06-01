@@ -1,0 +1,3 @@
+# § 4-6. Gravferd og transport av lik
+Ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom kan kommunestyret vedta forholdsregler i forbindelse med gravferd, herunder bestemme at avdøde personer skal kremeres, eller at det skal settes i verk andre spesielle tiltak i forbindelse med gravferder.
+Departementet kan i forskrift gi bestemmelser om transport av lik innenfor landet og fra og til utlandet, og fastsette hygieniske bestemmelser i forbindelse med gravferd, herunder minimums- og maksimumskrav til emballering og hvilke opplysninger som transportør, begravelsesbyrå og andre kan kreve.

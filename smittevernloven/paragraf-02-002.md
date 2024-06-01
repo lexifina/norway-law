@@ -1,0 +1,13 @@
+# § 2-2. Unntak fra taushetsplikt
+Legen skal så langt råd er søke å oppnå samtykke fra en smittet person når det av hensyn til smittevernet er behov for å gi videre opplysninger underlagt taushetsplikt og det er overveiende sannsynlig at det er eller har vært fare for overføring av en allmennfarlig smittsom sykdom.
+Er det ikke mulig å oppnå samtykke fra den smittede, kan det gis opplysninger om smittestatus og andre nødvendige opplysninger uten hinder av lovbestemt taushetsplikt. Legen kan gi opplysningene til
+a) helsepersonell som har ansvar for oppfølging av pasienten eller som har ansvar for at annet personell, andre pasienter eller besøkende ikke smittes, når det er overveiende sannsynlig at helsepersonellet, pasientene eller de besøkende er i fare for å få overført en allmennfarlig smittsom sykdom,
+b) den som med overveiende sannsynlighet er i fare for å få overført en allmennfarlig smittsom sykdom,
+c) den som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom, når opplysningene kan motvirke at sykdommen blir overført til andre, eller er avgjørende for å kunne begynne medisinsk behandling av den smitteutsatte, eller
+d) den som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom fordi den smittede har opptrådt klanderverdig.
+Dersom det er åpenbar fare for overføring etter annet ledd bokstav b, skal opplysningene gis, med mindre legen vet at en annen lege gir opplysningene.
+Er legen i tvil om opplysninger bør gis etter andre ledd, kan legen forelegge spørsmålet for kommunelegen til uttalelse. Nekter legen å gi opplysninger, kan den som ønsker opplysninger etter andre ledd, eller kommunelegen forelegge spørsmålet for statsforvalteren, som kan bestemme at opplysningene skal gis.
+Når opplysninger gis med hjemmel i andre ledd, skal legen informere den smittede skriftlig om at opplysningene er gitt.
+Når vilkårene i første og andre ledd er oppfylt, kan en tannlege, jordmor eller sykepleier gi nødvendige opplysninger til den smittede personens lege eller til kommunelegen.
+Helsepersonell som mottar opplysninger etter denne paragrafen, har samme taushetsplikt som den som gir opplysningene.
+Når det er nødvendig for iverksetting av tiltak eller for oversikt og kontroll i forbindelse med smittsomme sykdommer, kan kommunelegen, statsforvalteren, Helsedirektoratet, Statens helsetilsyn og Folkehelseinstituttet kreve opplysninger fra offentlige kilder eller privat helse- og omsorgstjeneste uten hinder av lovbestemt taushetsplikt. Helsedirektoratet og Folkehelseinstituttet kan i en smittesituasjon behandle opplysninger samlet inn etter dette ledd i samsvar med helseberedskapsloven § 2-4.

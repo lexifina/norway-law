@@ -1,0 +1,2 @@
+# § 4-3. Forskrifter om karantenebestemmelser
+Kongen kan gi forskrifter for å motvirke at smittsomme sykdommer føres inn i landet eller spres til andre land (karantenetiltak), herunder bestemmelser om tiltak som gjelder personer, dyr, transportmidler, varer og gjenstander som kan tenkes å overføre smittsomme sykdommer. I forskriftene kan Kongen også fastsette nærmere krav til undersøkelser, smittesanering og dokumentasjon i forbindelse med innreise til og utreise fra Norge og i forbindelse med inn- og utførsel av varer.
