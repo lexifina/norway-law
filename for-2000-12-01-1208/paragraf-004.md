@@ -1,0 +1,2 @@
+# § 4. Vurdering av og fastsettelse av tidsfrist for nødvendig helsehjelp
+Den som er forpliktet til å foreta en vurdering av en pasient etter pasient- og brukerrettighetsloven § 2-2a andre ledd, skal vurdere om pasienter som henvises oppfyller vilkårene i § 2 og eventuelt i § 3. Dersom en pasient har rett til nødvendig helsehjelp, har pasienten samtidig rett til å få fastsatt en faglig forsvarlig tidsfrist for når helsehjelpen senest skal være påbegynt. Ved fastsettelse av tidsfristen skal prioritering gjøres etter § 2.
