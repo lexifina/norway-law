@@ -1,0 +1,3 @@
+# § 14. Vinner av auksjonen
+Vinner kåres etter at auksjonen er avsluttet. Auksjonen avsluttes når det ikke gjenstår overskuddsetterspørsel i noen produksjonsområder. Dersom det gjenstår kapasitet etter siste runde, kan restkapasitet tildeles ved exit-bud i tråd med de detaljerte auksjonsreglene.
+Vinnere kan dele opp eller fordele tildelt kapasitet på nye tillatelser i ønsket antall og størrelser innenfor hvert produksjonsområde, avgrenset av den produksjonskapasiteten de har vunnet i disse områdene samt begrensningene som framkommer i forskriftens § 7. Dette gjelder ikke tilsagn om tillatelse som er under 100 tonn. Det er heller ikke mulig å dele opp tilsagn om tillatelser som er over 100 tonn på en slik måte at en ny tillatelse får en størrelse under 100 tonn.
