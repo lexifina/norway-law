@@ -1,0 +1,2 @@
+# § 3. Grunnleggende krav til økonomiforvaltningen
+Soknets organer skal forvalte økonomien slik at den økonomiske handleevnen blir ivaretatt over tid, og skal utarbeide samordnete og realistiske planer for egen virksomhet og økonomi. Soknets organer skal forvalte finansielle midler og gjeld på en måte som ikke innebærer vesentlig finansiell risiko, blant annet slik at betalingsforpliktelser kan innfris ved forfall.

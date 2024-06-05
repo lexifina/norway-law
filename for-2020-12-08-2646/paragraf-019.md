@@ -1,0 +1,5 @@
+# § 19. Rapportering
+(1) Soknets organer skal avgi opplysninger fra de kirkelige regnskapene til departementet eller til den departementet bestemmer. Opplysninger skal rapporteres elektronisk til Statistisk sentralbyrå innen 20. mars på den måten Statistisk sentralbyrå fastsetter.
+(2) Rapporteringen fra organ for soknet på kommunenivå skal skje i henhold til vedlegg 3 og 4A til denne forskriften. Anskaffelse og anvendelse av midler som vedrører flere funksjoner skal være fordelt på berørte funksjoner. Dersom utgifter og inntekter er ført både i drifts- og investeringsregnskapet, skal vedlegg 4A være spesifisert i en driftsdel og investeringsdel.
+(3) Rapportering fra sokn i kommuner med flere sokn skal foretas i henhold til vedlegg 3 og 4B uten krav til fordeling av utgiftsarter og inntektsarter på funksjoner. Dersom utgifter og inntekter er ført både i drifts- og investeringsregnskapet, skal vedlegg 4B være spesifisert i en driftsdel og investeringsdel.
+(4) For øvrig skal rapporteringen skje i henhold til de spesifikasjoner som fastsettes av departementet eller den departementet bestemmer.
