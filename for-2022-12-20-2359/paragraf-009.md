@@ -1,0 +1,2 @@
+# § 9. Oppbevaring av politiattest
+Politiattesten skal oppbevares hos det organ eller den institusjon som etter denne forskrift er ansvarlig for å kreve politiattest fremlagt. Politiattesten skal oppbevares utilgjengelig for uvedkommende. Den skal oppbevares så lenge vedkommende person innehar stillingen eller oppdraget. Attesten skal makuleres når vedkommende fratrer. Fremlagt attest fra person som ikke får tildelt stilling eller oppdrag skal makuleres.

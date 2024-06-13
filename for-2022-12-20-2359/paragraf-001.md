@@ -1,0 +1,4 @@
+# § 1. Politiattest for personer som er ansatt i eller utfører oppgaver for barnevernstjenesten
+Barnevernstjenesten skal kreve politiattest i samsvar med barnevernsloven § 12-11 første ledd av personer som skal ansettes i eller utfører oppgaver på vegne av barnevernstjenesten. Krav om politiattest gjelder bare personer som utfører arbeid i samsvar med lovens § 15-3. Den som foretar ansettelsen har ansvaret for at politiattest blir krevet fremlagt.
+Barnevernstjenesten skal kreve politiattest i samsvar med barnevernsloven § 12-11 første ledd fra personer som utfører oppgaver for barnevernstjenesten som ledd i hjelpetiltak etter lovens kapittel 3.
+Barnevernstjenesten skal kreve politiattest i samsvar med barnevernsloven § 12-11 første ledd siste punktum av personer som skal utføre oppgaver som tillitsperson etter lovens § 1-4 tredje ledd. Det kan i akuttsituasjoner gjøres unntak fra kravet om fremleggelse av politiattest.
