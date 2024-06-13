@@ -1,0 +1,3 @@
+# § 8. Fremgangsmåte
+Søkere skal gjøres oppmerksom på at det vil bli krevet politiattest ved ansettelse, godkjenning eller oppnevnelse mv. For stillinger, oppdrag eller lignende som blir utlyst eller annonsert, skal det gjøres oppmerksom på kravet om politiattest i utlysnings- eller annonseteksten. Det skal i utlysnings- eller annonseteksten også gjøres oppmerksom på at attesten ikke skal legges ved søknaden. Attest skal kun kreves av den søkeren som tilbys stillingen eller som skal oppnevnes eller godkjennes til å utføre de oppgaver som omfattes av denne forskrift.
+Attesten skal ikke være eldre enn tre måneder.

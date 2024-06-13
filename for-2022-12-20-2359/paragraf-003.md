@@ -1,0 +1,2 @@
+# § 3. Politiattest for ansatte i Barne-, ungdoms- og familieetaten
+Barne-, ungdoms- og familieetaten skal kreve politiattest i samsvar med barnevernslovens § 12-11 tredje ledd av den som skal ansettes i, eller utføre oppgaver på vegne av etaten, og som ikke omfattes av § 2. Kravet gjelder bare personer som skal utføre oppgaver som innebærer at de kan ha direkte kontakt med barn. Den som foretar ansettelsen eller inngår oppdragsavtalen har ansvaret for at politiattest blir krevet fremlagt.
