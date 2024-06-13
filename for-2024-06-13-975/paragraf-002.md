@@ -1,0 +1,2 @@
+# § 2. Minstehyppighet for visse kontroller med dyrehelse
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bze (forordning (EU) 2022/160) om fastsettelse av samme minstehyppighet for visse offentlige kontroller for å verifisere overholdelsen av dyrehelsekravene i Unionen i samsvar med europaparlaments- og rådsforordning (EU) 2017/625, og om oppheving av forordning (EF) nr. 1082/2003 og (EF) nr. 1505/2006 gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

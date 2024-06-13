@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Forskriften utfyller bestemmelsene i forskrift 3. mars 2020 nr. 704 om offentlig kontroll for å sikre etterlevelse av regelverket for mat, fôr, plantevernmidler, dyrehelse og dyrevelferd, som gjennomfører forordning (EU) 2017/625, ved å gi utfyllende bestemmelser om offentlig kontroll i godkjente anlegg med landdyr og rugeegg, godkjente anlegg for avlsmateriale, godkjente akvakulturanlegg og grupper av akvakulturanlegg, samt i registrerte anlegg med storfe, sauer eller geiter. Forskriften omfatter i tillegg oppfølgingstiltak ved manglende overholdelse ved transitt av storfe gjennom EØS.
+Forskriften gjelder ikke for Svalbard.
