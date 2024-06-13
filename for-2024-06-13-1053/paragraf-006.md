@@ -1,0 +1,3 @@
+# § 6. Informasjon til den registrerte
+Når personopplysninger om en registrert samles inn fra den registrerte, skal den behandlingsansvarlige på tidspunktet for innsamlingen av personopplysningene gi den registrerte informasjon i henhold til personvernforordningen artikkel 13. Det skal også gis informasjon om annet regelverk som påvirker den registrertes rettigheter etter personvernforordningen. Det er særlig viktig at den registrerte får informasjon om dokumentasjonsplikt i helsepersonelloven og pasientjournalloven og reglene om arkivplikt i arkivlova, som i realiteten begrenser adgangen til retting og sletting av opplysninger, og regler om opplysningsplikt og opplysningsrett.
+Det skal kunne dokumenteres at det er gitt informasjon som nevnt i første ledd.
