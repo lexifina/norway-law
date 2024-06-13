@@ -1,0 +1,2 @@
+# § 26. Forenkling av opprinnelsesangivelse
+Dersom dyr er oppdrettet i flere land, vil kravene til opprinnelsesangivelse for kjøtt i § 1, jf. forordning (EF) nr. 1760/2000 artikkel 13 nr. 5 bokstav a, kunne fravikes. I de tilfellene dyr er oppdrettet høyst 30 dager i EØS-staten eller tredjestaten der det er født eller slaktet, er angivelsen av denne EØS-staten eller tredjestaten ikke påkrevd forutsatt at dyret er oppdrettet mer enn 30 dager i en annen EØS-stat eller tredjestat.
