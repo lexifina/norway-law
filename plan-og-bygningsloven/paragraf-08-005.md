@@ -3,4 +3,4 @@ Regional planmyndighet kan fastsette regional planbestemmelse knyttet til retnin
 Forslag om regional planbestemmelse skal utarbeides og behandles i samsvar med reglene i §§ 8-3 og 8-4, og kan fremmes i forbindelse med utarbeiding av en regional plan.
 Regional planmyndighet kan, etter samråd med statsforvalteren og berørte kommuner, forlenge forbudet med fem år av gangen.
 Samtykke til å iverksette tiltak som omfattes av regional planbestemmelse kan gis av regional planmyndighet etter samråd med statsforvalteren og berørte kommuner.
-Regional planbestemmelse skal kunngjøres i Norsk Lovtidend og gjøres tilgjengelig gjennom elektroniske medier. Et eksemplar av planbestemmelsen skal sendes til departementet, statsforvalteren og berørte kommuner og statlige myndigheter.
+Regional planbestemmelse skal kunngjøres i Norsk Lovtidend og gjøres tilgjengelig på internett. Et eksemplar av planbestemmelsen skal sendes til departementet, statsforvalteren og berørte kommuner og statlige myndigheter.

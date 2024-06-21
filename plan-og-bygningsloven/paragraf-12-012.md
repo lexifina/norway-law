@@ -3,4 +3,4 @@ Når forslag til reguleringsplan er ferdigbehandlet, legges det fram for kommune
 Kommunestyret kan delegere myndighet til å vedta mindre reguleringsplaner i samsvar med kommunelovens regler når planen er i samsvar med rammer i kommuneplanens arealdel, og det er mindre enn fire år siden den ble vedtatt av kommunestyret.
 Kommunestyrets endelige vedtak om reguleringsplan kan påklages, jf. § 1-9.
 Når planen er vedtatt, skal registrerte grunneiere og festere i planområdet, og så vidt mulig andre rettighetshavere i planområdet og naboer til planområdet, når de blir direkte berørt underrettes særskilt ved brev. Underretningen skal inneholde opplysninger om klageadgangen og frist for klage.
-Planen med planbeskrivelse skal kunngjøres i minst én avis som er alminnelig lest på stedet og gjøres tilgjengelig gjennom elektroniske medier.
+Planen med planbeskrivelse skal kunngjøres i minst én avis som er alminnelig lest på stedet og gjøres tilgjengelig på internett.
