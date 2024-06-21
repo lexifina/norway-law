@@ -4,4 +4,4 @@
 (3) En av partens nærmeste kan være prosessfullmektig, unntatt for Høyesterett eller når retten tilbakeviser vedkommende som uskikket. Har tvisten tilknytning til næringsvirksomhet, gjelder det samme for ansatte og andre personer knyttet til denne delen av virksomheten.
 (4) Retten kan tillate at en annen skikket myndig person opptrer som prosessfullmektig. Personer som driver ervervsmessig eller stadig rettshjelpvirksomhet, kan bare være prosessfullmektig hvis de oppfyller vilkårene i domstolloven § 218.
 (5) Utenlandsk advokat kan være prosessfullmektig når retten etter sakens art og forholdene ellers finner det ubetenkelig.
-(6) Kongen fastsetter ved forskrift i hvilken utstrekning og på hvilke vilkår advokater hjemmehørende i andre EØS-stater har rett til å opptre som prosessfullmektig.
+(6) Kongen fastsetter ved forskrift i hvilken utstrekning og på hvilke vilkår personer med utenlandsk advokatbevilling har rett til å opptre som prosessfullmektig.
