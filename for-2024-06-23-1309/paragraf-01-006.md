@@ -1,0 +1,3 @@
+# § 1-6. Tilskuddsforvalter
+Programstyret for kirkebevaringsfondet fatter vedtak etter denne forskrift. Programstyret består av medlemmer fra de tre organisasjonene Riksantikvaren, Kirkerådet og Hovedorganisasjonen KA og ledes av preses i Den norske kirke.
+Programsekretariatet for kirkebevaringsfondet forbereder sakene for programstyret. Programsekretariatet er organisatorisk lagt til Riksantikvaren og består av en sekretariatsledelse og fagressurser fra de tre organisasjonene Riksantikvaren, Kirkerådet og Hovedorganisasjonen KA. Programsekretariatet skal også yte veiledning etter denne forskrift.

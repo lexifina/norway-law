@@ -1,0 +1,4 @@
+# § 5-2. Utbetaling og bruk av tilskuddet
+Tilskuddsmidlene skal brukes etter bestemmelsene i forskriften her og forutsetningene i mottatt tilskuddsbrev.
+For tilskudd til forprosjekt og hovedprosjekt fastsetter tilskuddsforvalter en utbetalingsplan med utgangspunkt i tilskuddets størrelse. Tilskudd utbetales etter skriftlig anmodning fra tilskuddsmottaker, men likevel ikke tidligere enn forutsatt i utbetalingsplanen med mindre dette avklares særskilt med tilskuddsforvalter. Anmodningen skal inneholde dokumentasjon på prosjektets fremdrift. Første delutbetaling skjer ved dokumentasjon av påbegynt arbeid. Øvrige utbetalinger skjer i takt med mottakers forbruk ved gjennomføring av tiltaket. Siste delutbetaling skjer etter at sluttrapport foreligger og er godkjent av tilskuddsforvalter.
+Tilskudd til tiltak innenfor innsatsområde 2, 3 og 4 som ikke er en integrert del av et forprosjekt eller hovedprosjekt, utbetales i rater fastsatt av tilskuddsforvalter.

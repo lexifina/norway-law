@@ -1,0 +1,4 @@
+# § 4-3. Krav til søknad om tilskudd til tiltak som ikke er en integrert del av et forprosjekt eller hovedprosjekt
+Søknad om tilskudd til tiltak som kun gjelder innsatsområdene 2, 3 eller 4, skal sendes tilskuddsforvalter gjennom digital løsning.
+Søknaden må begrunne hvordan den skal ivareta målet med tilskuddsordningen og kravene som fremgår av forskriften her. Det må beskrives hvordan tiltaket skal organiseres, hvilke forutsetninger søker har for å gjennomføre tiltaket, beløp det søkes om samt budsjett for tiltaket. For tilskudd til tiltak innenfor innsatsområdene 3 og 4, hvor det er et krav at tiltaket skal gjennomføres i overenskomst med kirkeeier(e), må det fremlegges dokumentasjon på dette og en plan for arbeidet.
+Tilskuddsforvalter kan i utlysning sette ytterligere krav til søknadens innhold.
