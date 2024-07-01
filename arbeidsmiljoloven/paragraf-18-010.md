@@ -1,5 +1,5 @@
 # § 18-10. Overtredelsesgebyr
-(1) Arbeidstilsynet kan ilegge en virksomhet overtredelsesgebyr dersom noen som har handlet på vegne av virksomheten har overtrådt bestemmelser som nevnt i § 18-6 første ledd. Overtredelsesgebyr kan ilegges selv om ingen enkeltperson har utvist skyld. Overtredelsesgebyret tilfaller statskassen, og kan maksimalt utgjøre 15 ganger grunnbeløpet i folketrygden.
+(1) Arbeidstilsynet kan ilegge en virksomhet overtredelsesgebyr dersom noen som har handlet på vegne av virksomheten har overtrådt bestemmelser som nevnt i § 18-6 første ledd. Overtredelsesgebyr kan ilegges selv om ingen enkeltperson har utvist skyld. Overtredelsesgebyret tilfaller statskassen og kan utgjøre inntil 50 ganger grunnbeløpet i folketrygden eller fire prosent av virksomhetens årsomsetning. Det høyeste beløpet utgjør den øvre rammen.
 (2) Ved vurdering av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på:
 a) hvor alvorlig overtredelsen er,
 b) graden av skyld,
