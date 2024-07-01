@@ -1,0 +1,3 @@
+# § 36. Straff
+Med bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer bestemmelser eller enkeltvedtak nevnt i § 35 første ledd nr. 1 til 3 eller forskrift, når det er særskilt bestemt i forskriften. Overtredelse av enkeltvedtak som nevnt i § 29 a andre ledd medfører likevel ikke straff.
+Er det voldt fare for betydelig skade på mennesker, miljø eller eiendom, eller det for øvrig foreligger skjerpende omstendigheter, kan overtredelser etter første ledd straffes med fengsel inntil 2 år, om ikke strengere straffebud får anvendelse. Det samme gjelder hvor overtredelsen har voldt skade på mennesker eller verneverdier i et vernet vassdrag.

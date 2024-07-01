@@ -1,0 +1,6 @@
+# § 25. Medeierskap i reguleringsanlegg
+Vannfalls- og kraftverkseiere som ikke har deltatt i byggingen av reguleringsanlegget, har rett til å bli medeiere i anlegget senere, mot å betale den andel av kostnadene ved byggingen av anlegget som faller på deres vannfall eller kraftverk ved fordeling etter § 24 annet og tredje ledd. Ved fastsettelse av kostnadene skal det gjøres et forholdsmessig fradrag for de årene som har gått siden reguleringsanlegget ble bygget.
+Den som er blitt medeier i et anlegg etter første ledd, plikter å delta i dekningen av drifts- og vedlikeholdsutgiftene på samme måte som de andre medeierne.
+Vannfalls- og kraftverkseiere som ikke er medeiere i reguleringsanlegget, har ikke rett til å bruke driftsvannet som er innvunnet ved regulering med hjemmel i konsesjon etter loven her. Disse er forpliktet til å etterkomme kravene til kontroll som departementet bestemmer.
+En vannfalls- eller kraftverkseier som uberettiget gjør bruk av den regulerte vannføringen, anses som medeier av anlegget og blir forpliktet etter første og annet ledd.
+Departementet kan i særlige tilfeller gi en vannfalls- eller kraftverkseier som ikke er medeier i reguleringsanlegget, tillatelse til å bruke den regulerte vannføringen, mot en årlig godtgjørelse til reguleringsanleggets eier. Godtgjørelsen skal i tilfelle av tvist fastsettes av departementet.

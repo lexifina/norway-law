@@ -1,0 +1,4 @@
+# § 13. Utgifter til nødvendig bistand
+Søkeren skal i rimelig utstrekning erstatte utgifter som grunneiere, rettighetshavere, kommuner og andre interesserte har hatt til nødvendig juridisk og annen sakkyndig hjelp, og som er påløpt etter at en søknad er sendt eller melding er lagt ut til offentlig ettersyn etter plan- og bygningsloven § 14-2. For revisjonssaker gjelder dekning fra tidspunktet revisjon ble vedtatt åpnet. Avgjørelsen treffes av departementet. Departementet kan i spesielle tilfeller gi forhåndstilsagn om dekning av utgifter inntil et bestemt beløp.
+Grunneiere og andre aktører med likeartede interesser bør så langt det er mulig samordne juridisk og annen sakkyndig hjelp.
+Nødvendige utgifter til kommunal planlegger kan kreves erstattet av søkeren fra det tidspunkt meldingen eller søknaden er sendt på høring. Avgjørelsen treffes av departementet.
