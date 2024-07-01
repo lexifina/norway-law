@@ -1,0 +1,2 @@
+# § 11-3. Klage over formelle feil
+Formelle feil ved eksamen eller sensur kan påklages i henhold til lov om universiteter og høyskoler § 11-9. Slik klage må fremsettes innen tre uker etter at kandidaten ble kjent med det forhold som ligger til grunn for klagen. Er krav om begrunnelse for eller klage over karakterfastsettingen fremsatt, løper klagefristen etter denne paragraf fra kandidaten har fått begrunnelsen eller endelig avgjørelse av klagen foreligger.

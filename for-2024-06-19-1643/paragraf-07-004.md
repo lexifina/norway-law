@@ -1,0 +1,2 @@
+# § 7-4. Ekstraordinær eksamen
+Ekstraordinær eksamen kan ved behov arrangeres når et emne opphører eller når det er mer enn ett år mellom emnet skulle gått ordinært. Slik eksamen arrangeres normalt innen ett år etter siste ordinære eksamen i emnet. Dersom slik eksamen arrangeres gjelder samme regler for oppmelding som til ordinær eksamen. Dekan ved det enkelte fakultet avgjør om og når slik eksamen eventuelt arrangeres.

@@ -1,0 +1,6 @@
+# § 4-1. Opptakskrav
+(1) Studentopptak til universitetets studieprogram skal gjøres i henhold til lov om universiteter og høyskoler kapittel 8 med tilhørende forskrifter.
+(2) Opptakskrav for det enkelte studieprogram, utover generell studiekompetanse, skal fremgå av studieplanen. For studieprogram der opptak ikke er regulert gjennom forskrift om opptak til høgare utdanning, skal også rangeringsregler og eventuelle kvoteregler fremgå av studieplanen.
+(3) Opptakskrav til åpne emner følger av den aktuelle studieplan eller emnebeskrivelse.
+(4) Søkere som ikke har generell studiekompetanse og som er 25 år eller eldre i opptaksåret, kan gis opptak til et bestemt studieprogram dersom de på grunnlag av realkompetanse har de nødvendige kvalifikasjoner for vedkommende studieprogram. Dersom det aktuelle studiet har krav til et bestemt karakternivå, karakterpoeng eller lignende, må disse kravene være oppfylt.
+(5) Søkere med utenlandsk utdanning som opptaksgrunnlag blir vurdert etter gjeldende nasjonale kriterier og retningslinjer gitt av blant annet Samordna opptak og Direktoratet for høyere utdanning og kompetanse (HK-dir). Søkere med slik bakgrunn må også tilfredsstille krav til språkkunnskaper i henhold til forskrift om opptak til høgare utdanning.
