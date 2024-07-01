@@ -1,0 +1,2 @@
+# § 11. Forsterking av struktur
+Dersom skipet skal legges inntil eller knyttes til andre strukturer i sjøen, skal utsatte områder i skipets egen struktur være utformet og forsterket for å tåle den belastningen skipet kan bli utsatt for i forbindelse med dette. I vurderingen av hvilke områder som er utsatt for ekstra belastning, skal det også tas hensyn til utilsiktet kontakt mellom skipet og den andre strukturen.

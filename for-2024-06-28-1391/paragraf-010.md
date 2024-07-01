@@ -1,0 +1,2 @@
+# § 10. Produksjonsforhold for skip som helt eller delvis skal bestå av støpte materialer
+Skip som helt eller delvis skal bestå av støpte materialer, skal produseres under forhold og i lokaler som er i samsvar med gjeldende klasseregler fra et anerkjent klasseselskap. Det skal finnes tilgjengelig dokumentasjon som viser at produksjon, produksjonsforhold, materialbruk mv. er i samsvar med gjeldende regelverk.
