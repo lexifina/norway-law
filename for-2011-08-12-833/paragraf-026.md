@@ -1,0 +1,2 @@
+# § 26. Kriterier for valg av tilbud
+Oppdragsgiver skal basere tildelingen av en kontrakt enten på hvilket tilbud som har det laveste kompensasjonskrav eller på hvilket tilbud som samlet sett er økonomisk mest fordelaktig. Dersom oppdragsgiver baserer tildelingen av kontrakten på det tilbudet som er det økonomisk mest fordelaktige, kan det blant annet benyttes slike kriterier som kompensasjonskrav, billettpriser, kapasitet, tjenestekvalitet, billettsystemer og miljøvennlighet. Tildelingskriteriene skal oppgis i konkurransegrunnlaget.

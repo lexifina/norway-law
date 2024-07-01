@@ -1,0 +1,2 @@
+# § 29. Brudd på reglene om informasjon til og likebehandling av passasjerer
+Person eller foretak som ikke etterlever forpliktelsene til å gi opplysninger om priser, skatter, avgifter, tillegg, gebyrer og andre vilkår som nevnt i lufttransportforordningen artikkel 23 nr. 1 kan ilegges tvangsmulkt eller overtredelsesgebyr som nevnt i luftfartsloven § 10-42 fjerde ledd og § 10-43. Det samme gjelder personer eller foretak som ikke overholder forbudet mot forskjellsbehandling i samme forordning artikkel 23 nr. 2.

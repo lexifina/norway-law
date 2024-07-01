@@ -1,0 +1,2 @@
+# § 23. Ettersending av opplysninger og dokumentasjon
+Oppdragsgiver kan anmode tilbydere om å ettersende, supplere, klargjøre eller utdype mottatte opplysninger og dokumentasjon innen en kort tilleggsfrist dersom opplysningene eller dokumentasjonen inneholder eller synes å inneholde feil eller mangler, eller dersom bestemte dokumenter mangler. Dette gjelder både ved anbudskonkurranser og ved konkurranser med forhandling.
