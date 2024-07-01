@@ -1,0 +1,13 @@
+# § 2. Utgifter som godtas som egenandeler
+1) Som egenandel for legehjelp hos privatpraktiserende lege godtas et beløp som svarer til differansen mellom folketrygdens refusjonstakst og den honorartaksten som er fastsatt i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege.
+2) (Opphevet)
+3) Som egenandel for laboratorieprøver og radiologiske undersøkelser og behandling godtas de beløpene som er fastsatt i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege og i private medisinske laboratorier og røntgeninstitutt.
+4) Som egenandel for helsehjelp som utføres poliklinisk i spesialisthelsetjenesten godtas et beløp som er fastsatt i forskrift om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta.
+5) Som egenandel for psykologhjelp godtas et beløp som svarer til differansen mellom folketrygdens refusjonstakst og den honorartaksten som er fastsatt i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos psykolog.
+6) Som egenandel for legemidler, medisinsk forbruksmateriell og næringsmidler godtas de beløpene som er fastsatt i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften).
+7) Som egenandel for reiser godtas utgifter opptil de beløpene som er fastsatt som egenandeler i forskrift 25. juni 2015 nr. 793 om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester, gitt med hjemmel i lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter § 2-6 femte ledd og lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. § 5-5 nr. 4.
+8) Som egenandel for tannlegehjelp og tannpleierhjelp godtas et beløp som svarer til differansen mellom folketrygdens refusjonstakst og den honorartaksten som er fastsatt i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos tannlege og tannpleier for sykdom.
+9) Som egenandel for fysioterapi godtas et beløp som svarer til differansen mellom folketrygdens refusjonstakst og den honorartaksten som er fastsatt i forskrift om stønad til dekning av utgifter til fysioterapi m.m.
+10) Som egenandel for opphold ved opptreningsinstitusjon mv. godtas et beløp per døgn som er fastsatt av Stortinget.
+11) Som egenandel for behandlingsreiser til utlandet (klimareiser) godtas et beløp per døgn som er fastsatt av Stortinget.
+Når medlemmet skal betale egenandel på 400 kroner hver vei etter forskrift 25. juni 2015 nr. 793 om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester, er egenandelen for reise ikke omfattet av denne forskriften.
