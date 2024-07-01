@@ -11,4 +11,4 @@ h) den næringsdrivendes forpliktelse til å følge bransjenormer.
 En handelspraksis er også villedende dersom:
 a) markedsføringen av en ytelse, herunder sammenlignende reklame, forårsaker forveksling med en konkurrents ytelse eller varemerke, handelsnavn eller andre kjennetegn
 b) en vare markedsføres som identisk med en vare som markedsføres i andre EU/EØS-stater, når disse varenes sammensetning eller egenskaper skiller seg vesentlig fra hverandre, med mindre det er begrunnet ut fra legitime og objektive faktorer.
-Det er også villedende dersom markedsføring av en ytelse, herunder sammenlignende reklame, forårsaker forveksling med en konkurrents ytelse eller varemerke, handelsnavn eller andre kjennetegn.
+Praksisen anses likevel bare som villedende dersom den er egnet til å påvirke forbrukerne til å treffe en økonomisk beslutning som de ellers ikke ville ha truffet.
