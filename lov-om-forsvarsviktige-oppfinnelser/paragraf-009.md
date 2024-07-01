@@ -1,0 +1,3 @@
+# § 9. Erstatning.
+For forføyninger i henhold til § 6 betales erstatning som i mangel av minnelig overenskomst fastsettes ved skjønn. Skjønnet holdes av Oslo tingrett. Erstatningen kan fastsettes til en årlig avgift eller til en sum engang for alle. Skjønnet bestemmer hvor mange år avgift i tilfelle skal betales. Forføyningene kan iverksettes før erstatning er fastsatt eller betalt. Staten innestår for at erstatningen blir betalt selv om avståing kreves til andre.
+Erstatningen fastsettes ved skjønn også i den utstrekning rettighetshaveren etter alminnelige rettsgrunnsetninger måtte ha krav på erstatning for andre forføyninger etter denne lov.

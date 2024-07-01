@@ -1,0 +1,3 @@
+# § 3. Foreleggelse for myndighetene.
+Vil noen utnytte en oppfinnelse som nevnt i § 2, må vedkommende inngi fullstendig skriftlig fremstilling av oppfinnelsen til departementet, eller på vanlig måte inngi patentsøknad til Patentstyret dersom vedkommende ønsker industrielt rettsvern for oppfinnelsen.
+Departementet kan gi tillatelse til at en rettighetshaver, uten hinder av bestemmelsene i § 2, første ledd, henvender seg til andre for utarbeidelse av fremstilling eller patentsøknad eller for uteksperimentering eller prøving av oppfinnelsen. Departementet kan gi bemyndigelse til at oppfinnelsen blir uteksperimentert eller prøvet etter tiltak av andre enn rettighetshaveren når dette finnes ønskelig av hensyn til rikets forsvar.
