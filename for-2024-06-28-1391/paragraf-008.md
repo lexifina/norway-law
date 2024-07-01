@@ -1,0 +1,2 @@
+# § 8. SOLAS kapittel X og HSC2000-koden
+SOLAS kapittel X om sikkerhetstiltak for hurtiggående fartøy, som sist endret ved IMO-resolusjon MSC.99(73), og det internasjonale sikkerhetsregelverket for hurtiggående fartøy (HSC2000-koden), som sist endret ved IMO-resolusjon MSC.499(105), gjelder som forskrift for hurtiggående lasteskip med bruttotonnasje under 500 som skal føre flere enn 12 industrielt personell med de tilpasningene og utfyllende bestemmelsene som er beskrevet i dette kapittelet.

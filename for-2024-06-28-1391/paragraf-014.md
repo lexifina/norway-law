@@ -1,0 +1,3 @@
+# § 14. Skadestabilitet for skip med lengde (Lh) under 45 meter
+For skip med lengde (Lh) under 45 meter gjelder HSC2000-koden 2.6.7, 2.6.9, 2.6.10 og 2.6.11 på følgende måte: HSC2000-koden 2.6.7, 2.6.9, 2.6.10 og 2.6.11 gjelder for den fremste tredjedelen av skipets lengde, hvor skaden skal kunne inntreffe hvor som helst, også over vanntette tverrskipsskott. HSC2000-koden 2.6.9.2.1.1 gjelder ikke. HSC2000-koden 2.6.7 gjelder også for andre deler av skipet, men her skal skaden kun antas å inntreffe mellom vanntette tverrskipsskott, fra kjøl til dekk og fra skipets skuteside inn til skipets senterlinje.
+Lengde (Lh) er skipets lengde som definert i HSC2000-koden 1.4.33.

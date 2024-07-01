@@ -1,0 +1,2 @@
+# § 24. Utenlandske lasteskip
+For utenlandske lasteskip, jf. § 1 andre ledd, må rederiet kunne dokumentere at skipet har tillatelse fra flaggstaten til å transportere eller innkvartere industrielt personell. Det må videre kunne dokumenteres at skipet oppfyller denne forskriften eller et regelverk som gir like høy sikkerhet. Kravet om norske sertifikater, jf. §§ 4, 6 og 7, gjelder ikke, men rederiet må kunne dokumentere at skipet oppfyller et tilsvarende regelverk for tilsyn og sertifikater fra flaggstaten.

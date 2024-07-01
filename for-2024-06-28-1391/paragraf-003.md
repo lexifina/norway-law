@@ -1,0 +1,2 @@
+# § 3. SOLAS kapittel XV og IP-koden
+Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 SOLAS kapittel XV, vedtatt ved IMO-resolusjon MSC.521(106), og det internasjonale sikkerhetsregelverket for skip som fører industrielt personell (IP-koden), vedtatt ved IMO-resolusjon MSC.527(106), gjelder som forskrift for skip omfattet av virkeområdet til denne forskriften med de tilpasningene og utfyllende bestemmelsene som er beskrevet her.
