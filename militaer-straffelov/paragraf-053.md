@@ -1,0 +1,2 @@
+# § 53
+For de Deltagere i Oprør, som vender tilbage til Lydighed, førend det er kommet til Forøvelse af Vold eller Tvang mod den foresatte eller overordnede, nedsættes Straffen, forsaavidt de ikke er Anstiftere eller Hovedmænd til Fængsel indtil 2 Aar. For Anstiftere og Hovedmænd nedsættes den til Fængsel indtil 6 Aar, saafremt alle Deltagere vender tilbage til Lydighed, inden det er kommet til saadan Forøvelse af Vold eller Tvang.

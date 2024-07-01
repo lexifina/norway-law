@@ -1,0 +1,3 @@
+# § 61
+En foresat eller overordnet, som forleder eller tilskynder nogen ham i Tjenesten undergiven Befalingsmand til at forøve noget i dette Kapitel omhandlet Lovbrud eller bistaar ham dermed eller vidende lader ham forøve den, eller som misbruger sin Stilling til at tilskynde en anden Befalingsmand til at forøve en saadan eller til at bistaa ham dermed, straffes efter de samme Straffebud som denne, dog saa, at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.
+Straffen kommer til Anvendelse uden Hensyn til, om den anden Person paa Grund af god Tro eller af andre Grunde ikke er strafskyldig.

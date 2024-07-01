@@ -1,0 +1,3 @@
+# § 51
+Med Fængsel indtil 2 Aar straffes den Krigsmand, som undlader gjennem betimelig Anmeldelse for vedkommende Myndighed eller paa anden Maade at søge afverget et Mytteri eller et Lovbrud mod §§ 42 eller 44 af nogen i straffeloven §§ 254, 272, 275 eller 287 omhandlet Slags eller sammes Følger, uagtet han til en Tid, da Lovbruddet eller dets Følger endnu kunde forebygges, har erholdt paalidelig Kundskab om, at den er igjære eller er forøvet.
+Dog er han straffri, dersom det ikke kommer til Udførelse af Planen eller til strafbart Forsøg eller Anmeldelsen ikke kunde ske uden at udsætte nogen af hans nærmeste for Tiltale eller Fare for Liv, Helse eller Velfærd.

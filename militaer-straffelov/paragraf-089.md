@@ -1,0 +1,3 @@
+# § 89
+Krigsmand, under Fegtning, eller naar Fegtning forestaar, griber Flugten, hemmelig bliver tilbage fra sin Trop, sniger sig bort, holder sig skjult, kaster Vaaben eller Ammunition eller lader sig tage til Fange uden at gjøre tilbørlig Modstand, eller som ved forsætlig at paaføre sig eller lade sig paaføre Sygdom eller Kroppsskade eller ved forsætlig Beruselse eller under usandfærdigt Paaskud af at være syg eller saaret unddrager sig nogen med Fare for hans Person forbunden Tjeneste, straffes med Fængsel.
+Giver han senere fremragende Beviser paa Tapperhed og Opofrelse, kan Straffen nedsættes til Arrest eller endog ganske bortfalde.

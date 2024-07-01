@@ -1,0 +1,2 @@
+# § 68
+Den, som bevirker at der i nogen Tjenesten vedkommende Protokol anføres Usandhed eller lægges Skjul paa Sandheden, eller at der ved Udferdigelsen af Protokoludskrift, Telegram eller Telefonmeddelelse eller anden tjenestlig Erklæring, der er afgiven for at tjene som Bevis, anføres eller bevidnes Usandhed eller lægges Skjul paa Sandheden, straffes med Tjenestens Tab eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt den skyldige har handlet i Hensigt at forskaffe sig eller andre en uberettiget Vinding eller at skade nogen.

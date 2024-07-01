@@ -1,0 +1,5 @@
+# § 46
+Den, som undlader at vise skyldig Lydighed mod en foresats Befaling i Tjenesteanliggende eller retsstridig handler mod eller overskrider Befalingen eller mod bedre Vidende giver en foresat et usandt Svar paa Spørsmaal i Tjenesteanliggende, straffes med Arrest eller med Fængsel indtil 3 Maaneder.
+Vedbliver den undergivne trods gjentagen Befaling sin Ulydighed, eller giver han ved Ord eller Adfærd sin foresatte udtrykkelig tilkjende, at han ikke vil udføre hans Befaling, straffes han med Fængsel indtil 1 Aar. Sker dette i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, kan Straffetiden forlænges til 2 Aar.
+Forøves den strafbare Handling under saadanne Omstændigheder, at Tab af Menneskeliv eller betydelig Skade maatte befrygtes at ville voldes derved, straffes den skyldige med Fængsel indtil 3 Aar. Voldes derved saadant Tab eller saadan Skade, kan Straffetiden forlænges til 10 Aar.
+Paa samme Maade som oven bestemt straffes den, som forleder eller tilskynder en anden til saadan Ulydighed.

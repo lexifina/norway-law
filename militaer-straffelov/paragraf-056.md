@@ -1,0 +1,3 @@
+# § 56
+Den, som ved at misbruge sin Myndighed eller ved uretmæssig at tiltage sig saadan retsstridig søger at formaa en undergiven eller underordnet til at gjøre, taale eller undlade noget, straffes med Arrest eller med Fængsel indtil 2 Aar, men i Gjentagelsestilfælde indtil 3 Aar. Har den skyldige søgt at formaa den undergivne eller underordnede til at forøve en strafbar Handling, kan Fængsel indtil 6 Aar anvendes.
+Den, som gjør sig skyldig i anden mod Reglementer eller Forholdsordrer stridende Behandling af undergivne eller underordnede, straffes med Arrest eller med Fængsel indtil 3 Maaneder.
