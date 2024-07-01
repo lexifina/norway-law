@@ -1,0 +1,3 @@
+# § 39
+Med Arrest straffes den, som i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter ligeoverfor en foresat tilkjendegiver Uvilje mod hans Befaling eller tager til Gjenmæle mod hans Tilrettevisning eller ligeoverfor en overordnet gjør sig skyldig i respektstridig Opførsel, som ikke er omhandlet i § 38. Sker det med truende Holdning eller i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel indtil 6 Maaneder.
+Paa samme Maade straffes den, som ved Forledelse eller Tilskyndelse medvirker til, at en anden forser sig saaledes som oven nævnt.

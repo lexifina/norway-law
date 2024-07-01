@@ -1,0 +1,2 @@
+# § 5
+Ved Tjenestetiden forstaaes for de i § 4 Nr. 2 nævnte Personers vedkommende den Tid, hvori de skal deltage i de militære Øvelser, tjenestgjøre ved de militære Verksteder eller Verfter eller paa anden Maade forrette som tjenestgjørende ved Rigets væbnede Magt, samt den Tid, som medgaar til Reise til Tjenestestedet og tilbage, i hvert Fald mindst 24 Timer før Fremmødet og lige lang Tid efter Dimissionen.

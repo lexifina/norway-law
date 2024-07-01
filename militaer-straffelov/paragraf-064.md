@@ -1,0 +1,2 @@
+# § 64
+Krigsmand, som i Anledning af Tjenesten modtager nogen Gave eller Fordel af undergivne eller underordnede uden deres fælles foresattes udtrykkelige eller stiltiende Samtykke, eller som modtager nogen Gave eller uberettiget Fordel af den, hvis Ydelser til Krigsmagten han har eller i det sidst forløbne Aar har havt Befatning med, straffes med Arrest, men i Gjentagelsestilfælde med Arrest eller Tjenestens Tab.
