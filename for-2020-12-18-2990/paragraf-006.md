@@ -1,0 +1,2 @@
+# § 6. Utbetaling av egenandel til helsepersonell o.a.
+Lege, helseinstitusjon, psykolog, apotek, bandasjist, transportør, tannlege, tannpleier og fysioterapeut har krav på oppgjør for godkjente egenandeler for personer med dokumentert frikort. Når helsetjenesten er gitt av kommunens helse- og omsorgstjeneste, skal egenandelen utbetales til kommunen. For pasienter med opphold i opptreningsinstitusjon mv. skal egenandelen utbetales til opptreningsinstitusjonen mv.
