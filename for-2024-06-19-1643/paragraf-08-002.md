@@ -1,0 +1,2 @@
+# § 8-2. Digital eksamen
+Det kreves at kandidaten disponerer egen bærbar datamaskin med administrasjonsrettigheter til bruk ved digital skoleeksamen. Det kan stilles spesifikke krav til innhold og programvare til bruk ved slik eksamen. Universitetet har ansvar for å gjøre slikt innhold og programvare tilgjengelig for kandidatene i god tid før eksamen. Kandidaten har selv ansvar for å mestre bruk av datamaskin ved digital skoleeksamen. Kandidaten bør også medbringe mobiltelefon på skoleeksamen for tofaktorautentisering.

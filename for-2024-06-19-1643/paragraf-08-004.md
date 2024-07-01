@@ -1,0 +1,6 @@
+# § 8-4. Tilrettelegging ved eksamen
+(1) Kandidater med funksjonsnedsettelse og kandidater med særskilte behov har rett til egnet individuell tilrettelegging ved gjennomføring av eksamen i henhold til lov om universiteter og høyskoler § 10-5.
+(2) Søknad om tilrettelegging må fremsettes innen de frister som fremgår av studiekalenderen. I tilfeller hvor behovet for tilrettelegging ved eksamen har oppstått etter søknadsfristen, eller det foreligger andre særlige grunner til fristoversittelsen, kan likevel søknaden tas til behandling. I slike tilfeller må søknad fremsettes uten ugrunnet opphold, og ikke senere enn en uke før eksamen.
+(3) Kandidaten er selv ansvarlig for å dokumentere sitt behov for tilrettelegging gjennom uttalelse fra lege eller annen sakkyndig. Dokumentasjonen bør være oppdatert, og skal være egnet som grunnlag for å vurdere behov for tilrettelegging av eksamen på universitetsnivå.
+(4) Tilrettelegging av eksamen skal ha som formål å oppveie funksjonsnedsettelsen eller det særskilte behovet i størst mulig grad. Tilrettelegging som vil kunne redusere de faglige krav i det enkelte emne eller studium skal ikke innvilges.
+(5) Kandidater med varig behov for tilrettelegging kan innvilges tilrettelegging for normert tid for det enkelte studieprogram. Er studenten forsinket i sine studier utover normert tid, må det søkes på nytt.
