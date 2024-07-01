@@ -1,0 +1,3 @@
+# § 20. Privat gravsted og spredning av aske.
+Når særlige grunner foreligger, kan statsforvalteren gi tillatelse til at private får anlegge gravsted for gravlegging av askeurne på egnet sted. Statsforvalteren kan sette vilkår for tillatelsen.
+Statsforvalteren kan etter søknad fra person som har fylt 15 år, gi tillatelse til at den som skal sørge for vedkommendes gravferd sprer asken for vinden. Tillatelse kan også gis etter vedkommendes død når det godtgjøres at avdøde ønsket askespredning. Slik tillatelse kan også gis for aske etter barn når nærmeste etterlatte ønsker det. Statsforvalteren kan sette vilkår for tillatelsen.

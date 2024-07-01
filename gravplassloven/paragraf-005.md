@@ -1,0 +1,2 @@
+# § 5. Innvielse av ny gravplass
+Tros- og livssynssamfunn som er virksomme på stedet, skal gis anledning til å gjennomføre en seremoni når en ny gravplass tas i bruk. En slik høytidelighet må ikke utformes eller gjennomføres slik at den forhåner eller på en krenkende eller sårende måte viser ringeakt for de andre tros- eller livssynssamfunnene som gravlegger sine medlemmer på den samme gravplassen.

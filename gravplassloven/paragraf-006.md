@@ -1,0 +1,3 @@
+# § 6. Rett til grav.
+Avdøde personer som ved dødsfallet hadde bopel i kommunen har rett til fri grav på gravplass her. Det samme gjelder dødfødte barn når moren eller faren har bopel i kommunen.
+Gravplassmyndigheten kan gi tillatelse til at også personer uten bopel i kommunen gravlegges på gravplass i kommunen. Det kan da kreves dekning av kostnadene ved gravferden og avgift som ved feste av grav. Ved gravlegging i grav som er særskilt tilrettelagt for å imøtekomme religiøse og livssynsmessige minoriteters behov, dekkes kostnadene av gravplassmyndigheten i hjemkommunen når denne ikke selv har anlagt slike graver.
