@@ -1,0 +1,2 @@
+# § 16
+Politiet kan, når dei finn det formålstenleg, bestemme at ein handlande skal melde frå når han tek imot visse typar av ting, for eksempel ved å påleggje dei å sende inn oversiktslister eller liknande. Arrangørar av antikk- og samlarmesser, bruktmarknader og liknande plikter å sende liste over påmelde deltakarar til politiet samtidig med melding eller søknad om arrangementet etter politilova.
