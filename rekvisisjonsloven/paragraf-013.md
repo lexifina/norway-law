@@ -1,0 +1,3 @@
+# § 13
+Til å behandle saker om erstatning for ytelser og tap som følge av rekvisisjon skal oppnevnes lokale skjønnsnemnder, nemlig en eller flere alminnelige skjønnsnemnder og bilskjønnsnemnder i hvert fylke og fartøyskjønnsnemnder i distrikter som fastsettes av Kongen. Kongen kan bestemme at det også skal oppnevnes andre særskilte lokale skjønnsnemnder i fylkene eller i andre distrikter. Dessuten kan oppnevnes en skjønnsnemnd for hele riket, Sentralnemnda for rekvisisjonssaker, når dette finnes hensiktsmessig.
+Kongen bestemmer antallet av lokale skjønnsnemnder og gir nærmere regler om nemndenes virkeområder. Han kan bestemme at lokal skjønnsnemnd som er oppnevnt for et bestemt fylke eller annet distrikt, skal behandle erstatningssaker også fra andre deler av landet.
