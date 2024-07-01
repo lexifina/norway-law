@@ -1,0 +1,3 @@
+# § 14. Kvoterasjonering av kraftforbruk og tariffering under kraftrasjonering
+Etter at departementet har besluttet kraftrasjonering, kan rasjoneringsmyndigheten, eller den rasjoneringsmyndigheten gir fullmakt, pålegge sluttbrukere en fastsatt kvote for bruk av energi innenfor en gitt tidsperiode. Bruk av energi utover kvoten vil bli pålagt særskilte tariffer satt av rasjoneringsmyndigheten, jf. annet ledd. Rasjoneringsmyndigheten kan endre størrelse på tidligere fastsatt kvote dersom situasjonen utvikler seg.
+Rasjoneringsmyndigheten, eller den rasjoneringsmyndigheten gir fullmakt, kan fastsette særskilte tariffer. Nettselskapene har ansvar for å fakturere kraftforbruk ut over kvoten.

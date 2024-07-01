@@ -1,0 +1,2 @@
+# § 15. Tvangsmessige leveringsinnskrenkninger av kraftforbruk
+Etter at departementet har besluttet kraftrasjonering, kan rasjoneringsmyndigheten eller den rasjoneringsmyndigheten gir fullmakt, foreta tvangsmessige leveringsinnskrenkninger i form av utkobling av kraftforbruk. Slike leveringsinnskrenkninger skal søkes gjennomført etter saklige og kontrollerbare kriterier, og til minst mulig ulempe for dem som berøres.
