@@ -1,0 +1,2 @@
+# § 1. Rettigheter og plikter etter skipsarbeidsloven
+For arbeidstaker som har sitt arbeid om bord på norsk skip, og som omfattes av arbeidsmiljøloven § 1-2 andre ledd bokstav a om arbeidsmiljølovens anvendelse for dykkeoperasjoner, gjelder bestemmelsene i skipsarbeidsloven § 2-4 første, andre og fjerde ledd, § 2-5, § 3-9, § 4-4, § 4-5, § 4-6, § 4-7, § 4-8, § 8-1, § 8-2, § 8-3, § 8-4, § 8-5, § 9-2, § 9-4, § 9-5 og § 9-7 tilsvarende, så langt de passer.
