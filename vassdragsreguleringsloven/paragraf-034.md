@@ -1,0 +1,4 @@
+# § 34. Tilbaketrekking av konsesjon
+Departementet kan fatte vedtak om at konsesjonen trekkes tilbake ved grov eller gjentatt overtredelse av vesentlige konsesjonsbetingelser som er felles for alle som deltar i reguleringen, dersom konsesjonæren ikke lenger anses skikket til å utøve virksomheten.
+Mot en innløsningssum beregnet på tilsvarende måte som etter bestemmelsene i § 28 tredje ledd, kan i så fall staten kreve avstått reguleringsanlegget med tilliggende grunn og rettigheter og med de bygninger og andre innretninger som er oppført av hensyn til reguleringen. Tvist avgjøres ved skjønn. Vil ikke staten overta anlegget, gjelder § 10 tilsvarende.
+Ved gjentatte eller fortsatte overtredelser av spesielle konsesjonsbetingelser for de enkelte deltagere i reguleringen, mister vedkommende vannfalls- eller brukseiers retten til å bruke driftsvannet som er innvunnet ved reguleringen.

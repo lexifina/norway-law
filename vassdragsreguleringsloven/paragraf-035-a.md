@@ -1,0 +1,5 @@
+# § 35 a. Administrativ inndragning av utbytte
+Departementet kan helt eller delvis inndra utbytte fra overtredelse av bestemmelser eller enkeltvedtak nevnt i § 35 første ledd nr. 1 til 3, uten hensyn til om overtrederen har utvist skyld. Det samme gjelder ved overtredelse av forskrift, når det er særskilt bestemt i forskriften. Inndragning skjer overfor overtrederen, med mindre denne sannsynliggjør at utbyttet er tilfalt en annen. Inndragning kan skje så langt det ikke vil være klart urimelig.
+I stedet for utbyttet kan hele eller deler av utbyttets verdi inndras. Som utbytte regnes også formuesgode som trer istedenfor utbytte, avkastning og andre fordeler av utbytte. Det er nettoutbyttet som kan inndras. Kan størrelsen av nettoutbyttet ikke godtgjøres, fastsettes beløpet skjønnsmessig.
+Oppfyllelsesfristen er fire uker fra vedtaket ble truffet. Lengre frist kan fastsettes i vedtaket eller senere. Endelig vedtak om inndragning av utbytte er tvangsgrunnlag for utlegg.
+Departementet kan i forskrift gi nærmere bestemmelser om inndragning av utbytte, herunder om standardisert eller skjønnsmessig utmåling og fradrag for utgifter.

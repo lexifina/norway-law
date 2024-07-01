@@ -1,0 +1,4 @@
+# § 8. Adgang til revisjon
+Vilkårene for konsesjonen kan tas opp til alminnelig revisjon etter 30 år. Er det gitt flere konsesjoner i samme vassdrag til forskjellig tid, kan kortere revisjonstid fastsettes. Hvis vilkårene blir revidert, har konsesjonæren adgang til å frasi seg konsesjonen innen 3 måneder etter at han har fått underretning om de reviderte vilkår. Frafalles konsesjonen, gjelder § 28 første ledd og § 10 første, tredje, fjerde og femte ledd tilsvarende. Blir konsesjonen ikke frafalt innen den fastsatte frist, er konsesjonæren bundet av de nye vilkår.
+Departementet kan gi forskrifter om saksbehandlingen ved revisjon av konsesjonsvilkår.
+Tidligere gitte tidsubegrensede konsesjoner kan revideres 50 år etter de ble gitt. Alle konsesjoner kan uansett revideres etter 19. juni 2022. Første og annet punktum gjelder ikke for tidligere gitte konsesjoner etter vassdragsloven.
