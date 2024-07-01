@@ -5,15 +5,15 @@ b) terrorfinansiering: handling som beskrevet i straffeloven § 135 eller finans
 c) rapporteringspliktig: person som nevnt i § 4 første, annet og femte ledd.
 d) transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder.
 e) reell rettighetshaver: fysisk person som i siste instans eier eller kontrollerer kunden, eller som en transaksjon eller aktivitet gjennomføres på vegne av.
-f) politisk eksponert person: person som innehar eller har innehatt en stilling eller et verv som
+f) politisk eksponert person: person som har eller har hatt viktig offentlig verv. Verv eller stilling på mellomnivå eller lavere nivå omfattes ikke. Departementet fastsetter i forskrift en liste over de stillinger og verv som i Norge regnes for å være viktige offentlige verv, og kan også for øvrig fastsette hvilke stillinger og verv som skal regnes som viktige offentlige verv. Med mindre annet følger av forskrift etter tredje punktum regnes blant annet følgende stillinger og verv som viktige offentlige verv:
 1) statsoverhode, regjeringssjef, minister eller assisterende minister
 2) medlem av nasjonalforsamling
 3) medlem av styrende organ i politisk parti
-4) medlem av høyere rettsinstans som treffer beslutning som ikke eller bare unntaksvis kan ankes
+4) medlem av høyere rettsinstans hvis avgjørelser ikke kan ankes annet enn under ekstraordinære omstendigheter
 5) medlem av styre i riksrevisjon, revisjonsdomstol eller sentralbank
 6) ambassadør, chargé d'affaires eller militær offiser av høyere rang
 7) medlem av administrativt, ledende eller kontrollerende organ i statlig foretak
-8) direktør, styremedlem eller annen person i øverste ledelse i internasjonal organisasjon
+8) direktør, styremedlem eller annen person i øverste ledelse i internasjonal organisasjon.
 g) nært familiemedlem: foreldre, ektefelle, registrert partner, samboer og barn, samt barns ektefelle, registrert partner eller samboer.
 h) kjent medarbeider: fysisk person som er kjent for å
 1) være reell rettighetshaver i juridisk person, sammenslutning eller utenlandsk juridisk arrangement i felleskap med politisk eksponert person
