@@ -1,0 +1,2 @@
+# § 10. Straff.
+Den som forsettlig eller uaktsomt overtreder denne lovs § 2, første eller tredje ledd, eller unnlater å gi opplysninger som kreves etter § 4, eller gir ufullstendige eller uriktige opplysninger, eller som overtrer bestemmelser utferdiget med hjemmel i § 6, annet ledd, eller § 7, første ledd, straffes med bøter eller fengsel inntil 1 år hvis ikke forholdet rammes av et strengere straffebud. Medvirkning straffes ikke.

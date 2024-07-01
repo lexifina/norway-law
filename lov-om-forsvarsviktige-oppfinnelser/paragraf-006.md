@@ -1,0 +1,4 @@
+# § 6. Ekspropriasjon m.v.
+Oppfinnelser som Kongen antar har betydning for rikets forsvar, kan etter bestemmelse av Kongen kreves avstått til det offentlige eller andre, når dette anses ønskelig for at oppfinnelsen kan komme forsvaret mest mulig til nytte. Det samme gjelder rett til å utnytte slik oppfinnelse for nærmere bestemt tid.
+I samme øyemed kan Kongen forby rettighetshaveren å råde over oppfinnelse som nevnt i første ledd på nærmere bestemt måte her i riket eller i utlandet, eller pålegge ham nærmere bestemte plikter i forbindelse med utnyttelsen. Forbud eller påbud etter dette ledd gjelder for den tid Kongen bestemmer.
+Forføyninger etter denne paragraf kan treffes også etter utløpet av den i § 2, annet ledd, nevnte frist. Avgjørelse om at det ikke vil bli truffet forføyninger, kan når som helst omgjøres.
