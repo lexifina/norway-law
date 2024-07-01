@@ -1,0 +1,5 @@
+# § 14
+Sentralnemnda for rekvisisjonssaker skal ha fem medlemmer med varamedlemer som oppnevnes av Kongen. Ett av medlemmene oppnevnes som leiar. Leiaren og hans varamedlem skal ha utøvet virksomhet som embetsdommer. De øvrige medlemmer og varamedlemer skal fylle vilkårene etter domstolloven av 13. august 1915 § 53.
+Lokal skjønnsnemnd skal ha tre medlemmer med varamedlemer hvorav to oppnevnes av statsforvalteren. Ett av disse medlemmene oppnevnes som leiar. Strekker distriktet for en fartøyskjønnsnemnd eller annen særskilt nemnd seg over flere fylker, fastsetter Kongen hvilken statsforvalter skal foreta oppnevningen. Det tredje av medlemmene med varamedlem oppnevnes av den militære myndighet som Kongen bestemmer. Medlemmene og varamedlemene skal fylle vilkårene etter domstolloven av 13. august 1915 § 53.
+Oppnevningen gjelder for så lang tid som Kongen bestemmer, dog ikke for mer enn 4 år. De som blir oppnevnt plikter å ta imot vervet.
+Kongen gir regler om godtgjøring til medlemmene av skjønnsnemndene. Utgiftene ved nemndenes virksomhet bæres av Staten.

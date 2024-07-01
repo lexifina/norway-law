@@ -1,0 +1,6 @@
+# § 5
+De myndigheter som Kongen bestemmer kan peke ut fast eiendom og løsøre som skal rekvireres etter § 1, og gi eier og bruker av løsøre pålegg om at tingen i nærmere angitte tilfelle skal stilles til rådighet på angitt sted. Utpeking kan foretas og pålegg kan gis allerede i fredstid når det anses nødvendig for å førebu avståing etter nevnte bestemmelse med sikte på gjennomføring i situasjoner som der angitt. Utgiftene ved å etterkomme slike pålegg erstattes etter reglene for rekvisisjoner, jfr. §§ 12-17.
+Eier og bruker av fast eiendom eller løsøre plikter etter krav fra myndighetene å erkjenne mottakelse av melding om tiltak eller pålegg som nevnt, samt å gi opplysninger og gi adgang til synfaring. Løsøre kan om nødvendig pålegges brakt til bestemt sted for synfaring. Slike pålegg skal oppfylles uten erstatning med mindre annet er bestemt av Kongen.
+Fast eiendom og løsøre kan, etter avgjørelse av de myndigheter som Kongen bestemmer, allerede i fredstid utbedres eller på annen måte forandres for å gjøres tjenlig for det påtenkte formål. Reglene i § 6, femte og sjette ledd gjelder tilsvarende.
+Politiet og Statens bilsakkyndige skal medvirke ved utpeking av motorkjøretøyer.
+Kongen eller den han gir fullmakt kan bestemme at også andre offentlige myndigheter skal medvirke ved utpekning av gjenstander, varer, bedrifter m.v. etter første ledd.

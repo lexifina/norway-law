@@ -1,0 +1,3 @@
+# § 4
+Når det finnes påkrevd av hensyn til landets forsvar, kan militære myndigheter kreve at sivile personer, gjenstander som nevnt i § 1, punkt 1, samt virksomheter og bedrifter m.v. som nevnt i § 1, punkt 3 og 4, med eller uten personale, materiell og lager, skal flyttes fra et område til et annet. Bestemmelsene om rekvisisjon får tilsvarende anvendelse så langt de passer. For å gjennomføre slik flytning kan militære myndigheter rekvirere gjenstander, fast eiendom og andre ytelser som nevnt i § 1.
+De militære myndigheter kan pålegge vedkommende kommune å medvirke under flytning som nevnt i første ledd, og kan herunder gi dem fullmakt til å utøve slik rekvisisjonsrett som nevnt i samme ledds tredje punktum.
