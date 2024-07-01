@@ -1,0 +1,3 @@
+# § 19. Ramsund (Tjeldsund kommune)
+Ved det militære området ved Ramsund er forbudsområdet strandlinjen fra Ramsundet bro, som er nordlig avgrensning av området, til posisjon 68° 26,94′ N 016° 34,50′ Ø. Deretter går grenselinjen gjennom punktene 68° 26,69′ N 016° 34,50′ Ø og 68° 26,53′ N 016° 27,90′ Ø for så å følge strandlinjen til Ramsundet bro.
+Fartøy kan følge den naturlige seilingsled gjennom forbudsområdet. Fartøy som seiler gjennom forbudsområdet skal holde minst 100 meter fra det militære området og kaiene i Ramsund, Biskaia, Seljevika og Ramnes skyte- og øvingsfelt. Fartøy skal stoppe på anrop og rette seg etter de anvisningene som blir gitt.
