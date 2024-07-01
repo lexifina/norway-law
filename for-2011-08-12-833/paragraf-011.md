@@ -1,0 +1,2 @@
+# § 11. Tildeling av enerett til å fly rute etter konkurranse
+Lufttransportforordningen artikkel 16 nr. 10 krever at tildeling av enerett til å betjene en flyrute skal skje etter konkurranse i tråd med reglene i samme forordning artikkel 17. Bestemmelsene i kapitlet her utfyller de kravene til valg og gjennomføring av prosedyren som følger av lufttransportforordningen. Oppdragsgiver har i tillegg adgang til å oppstille ytterligere prosedyreregler i konkurransegrunnlaget for anskaffelsen.
