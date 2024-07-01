@@ -1,0 +1,3 @@
+# § 3. Kompetansekrav og oppnevning
+Ledere, saksbehandlere og andre i Forbrukertilsynet som behandler klager etter forbrukerklageloven, skal ha nødvendig kunnskap og kompetanse innen utenrettslig klagebehandling og forbrukerrettigheter.
+Forbrukerklageutvalgets leder, nestledere og medlemmer oppnevnes av departementet for fire år av gangen og kan gjenoppnevnes. Lederen og nestlederne skal fylle kravene til dommere i domstolloven § 53 første ledd og § 54 annet ledd. Halvparten av medlemmene som ikke er leder eller nestledere, skal ha særlig innsikt i forbrukernes interesser og halvparten i næringsdrivendes interesser.
