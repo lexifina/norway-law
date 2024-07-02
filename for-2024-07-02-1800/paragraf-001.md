@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med pilotprosjektet er å prøve ut om forsterket oppfølging kan bidra til at flere i målgruppen for VTA får mulighet til å delta i varig tilrettelagt arbeid i ordinære virksomheter, samt hindre frafall av deltakere underveis og gjøre ordningen mer attraktiv for arbeidsgivere. Det er også et formål å prøve ut om tilbud om oppfølging kan erstatte tilskuddet for varig tilrettelagt arbeid som gis til ordinære virksomheter.
