@@ -1,0 +1,3 @@
+# § 3-13. Eksamenskomité
+(1) Styret oppnevner en eksamenskomité bestående av to medlemmer, hvorav minst ett av medlemmene skal ha førstestillingskompetanse. Ett av medlemmene skal videre ha tilknytning til utdanningsinstitusjonen i kraft av forskerstilling eller lærerstilling. For Forfatterutdanningen og Masterstudiet skal videre minst ett av medlemmene ha relevant kunstnerisk kompetanse.
+(2) Eksamenskomiteen vurderer eksamener som utgjør hele eller del av avsluttende eksamen. For deleksamen i løpet av studiet kan intern sensur der begge komitémedlemmene er hentet fra det ordinære lærermiljøet benyttes.
