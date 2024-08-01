@@ -1,0 +1,3 @@
+# § 3. Midlertidig tilskudd til private barnehager med midlertidig godkjenning
+Kommunen kan fatte vedtak om tilskudd til ordinære private barnehager tilsvarende lengden på vedtaket om midlertidig godkjenning etter § 1 og § 2 første ledd i samsvar med kravene i barnehageloven § 19 første ledd.
+Kommunen skal tildele tilskuddet i samsvar med forskrift om tildeling av tilskudd til private barnehager. Private barnehager skal i tillegg til rapportering etter forskrift om tildeling av tilskudd til private barnehager § 12 første ledd første punktum, fortløpende rapportere om inntak av nye barn, barnas alder og oppholdstid i barnehagen. Kommunen skal i disse tilfellene beregne tilskuddet til de private barnehagene på nytt.
