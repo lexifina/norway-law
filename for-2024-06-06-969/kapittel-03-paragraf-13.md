@@ -1,0 +1,3 @@
+# § 11-1. Krav til avhandlingen
+Avhandlingen skal være et selvstendig, vitenskapelig forskningsarbeid som oppfyller internasjonale standarder med hensyn til etiske krav, faglig nivå og metode innen fagområdet. Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ligge på et nivå som tilsier at den vil kunne publiseres eller offentliggjøres i egnet format som en del av fagets forskningsbaserte kunnskapsutvikling.
+Det kan være aktuelt å supplere avhandlingen med annen dokumentasjon, f.eks. i form av lyd, bilde, film eller annen varig dokumentasjon. Det er en forutsetning at bruken av slik dokumentasjon inngår i den faglige drøftingen i form av illustrasjon, belegg eller lignende, og at den vurderes som dette i en vitenskapelig sammenheng.

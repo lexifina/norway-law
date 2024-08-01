@@ -1,0 +1,6 @@
+# § 7-2. Avtaleperiode og studierettsperiode
+Ph.d.-utdanningen er normert til tre (3) års fulltidsstudier (180 studiepoeng). Med avtaleperioden menes finansieringsperiode. Ved lovhjemlede avbrudd forlenges avtaleperioden tilsvarende.
+Den som har tatt imot tilbud om studieplass beholder studieretten i to år ut over avtale- og finansieringsperioden. Dette omtales som studierettsperiode.
+Ph.d.-studenter som står i fare for å miste studieretten etter denne regelen skal få skriftlig varsel senest semesteret før studieretten går ut. Programutvalget kan forlenge avtaleperioden etter begrunnet søknad som inneholder en plan for ferdigstillelse og innlevering av avhandling.
+Den som mister studieretten, kan søke om å bli gjenopptatt på programmet for å få levert avhandling. Ved slik søknad må ph.d.-studenten fremlegge en detaljert plan for fremdrift frem mot innlevering. NMH kan stille ytterligere betingelser både for den toårige studierettsperioden utover normert tid, ved innvilgning av utvidet studierettsperiode og ved gjenopptak på programmet.
+Etter avtaleperiodens utløp opphører partenes rettigheter og plikter i henhold til avtalen, slik at kandidaten kan miste sin rett til veiledning, kursdeltakelse og tilgang til institusjonens infrastruktur. Kandidaten kan likevel søke om å bli bedømt for doktorgraden.

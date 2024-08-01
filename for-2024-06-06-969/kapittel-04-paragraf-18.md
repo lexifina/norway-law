@@ -1,0 +1,6 @@
+# § 19-1. Prøveforelesning
+Etter at avhandlingen er innlevert til bedømmelse, skal ph.d.-kandidaten forelese. Prøveforelesningen skal være på 45 minutter, den er en selvstendig del av doktorgradsprøven og skal være over oppgitt emne. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskaper utover avhandlingens tema og evnen til å formidle disse i en forelesningssituasjon. Tittel for prøveforelesning kunngjøres for ph.d.-kandidaten ti (10) virkedager før forelesningen.
+Emnet for forelesningen skal ikke stå i direkte forbindelse med temaet for avhandlingen. Normalt skal prøveforelesningen avholdes i forbindelse med disputas, enten dagen før eller samme dag. Dersom de to prøvene likevel bedømmes separat, kan FoU-utvalget oppnevne en egen komité for prøveforelesningen. Minst ett av bedømmelseskomiteens medlemmer skal da oppnevnes i forelesningskomiteen.
+Prøveforelesningen skal skje på avhandlingsspråket med mindre programutvalget godkjenner et annet språk.
+Bedømmelseskomiteen/forelesningskomiteen avgjør om prøveforelesningen er bestått eller ikke bestått. Det skal begrunnes dersom prøveforelesningen anbefales ikke bestått.
+Prøveforelesningen skal være bestått før disputas kan avholdes.
