@@ -1,0 +1,5 @@
+# § 23. Klage over formelle feil ved eksamen
+Den som har vært oppe til eksamen, kan klage skriftlig over formelle feil innen tre uker etter at vedkommende er eller burde ha vært kjent med det forholdet som ligger til grunn for klagen. Er krav om begrunnelse for eller klage over karakterfastsettingen fremsatt, løper klagefristen fra kandidaten har fått begrunnelsen eller endelig avgjørelse av klagen foreligger.
+Klage over formelle feil ved eksamen skal være begrunnet og stiles til KRUS.
+Formelle feil kan være feil ved oppgavegiving, eksamensavvikling eller ved gjennomføring av sensuren.
+Klagenemnda vurderer spørsmålet om det som oppgis som formelle feil, kan ha påvirket prestasjonen under eksamen eller sensuren av prestasjonen for aspiranten som klaget. Hvis Klagenemnda ikke kan se at forholdet har hatt betydning for resultatet, kan klagen avvises. I motsatt fall skal KRUS gi ny eksamen eller ny sensur på samme prøven. KRUS må vurdere hvorvidt feilen kan ha hatt betydning for hele kullet. Sensuren eller eksamensforsøket annulleres i tilfelle for hele kullet.

@@ -1,0 +1,2 @@
+# § 9. Emnebeskrivelse
+Emneplan er betegnelsen på den detaljerte delen av en studieplan som gjelder ett avsluttende emne. Emneplan er en konkretisering av emnet, og gir opplysninger om emnets mål, innhold, arbeids- og undervisningsformer og om eksamens-/vurderingsordningen i emnet. Hvis det er flere eksamener i et emne, skal den innbyrdes vektingen eller sammenhengen mellom eksamenene oppgis. Pensumlitteratur skal oppgis.

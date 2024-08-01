@@ -1,0 +1,2 @@
+# § 6. Ulike vurderingsformer
+Det kan gis forskjellige prøver i tillegg til dem som har innflytelse på endelige karakterer på vitnemålet. Det kan være prøveeksamener, tentamener, innleveringer, arbeidskrav, forprøver og andre betegnelser. Slike vurderingsformer skal omtales i studieplanen senest fra studieårets begynnelse hvis resultatet også kan være avgjørende for aspirantenes adgang til å gå opp til ordinær eksamen.
