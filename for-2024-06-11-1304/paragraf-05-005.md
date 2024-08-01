@@ -1,0 +1,5 @@
+# § 5-5. Utsatt vurdering, ny vurdering og vurdering i emner som opphører
+1) En student som på grunn av gyldig fravær ikke gjennomfører vurdering til ordinær tid, har rett til utsatt vurdering. Slik vurdering skal normalt gjennomføres i begynnelsen av påfølgende semester, og senest innen seks måneder etter opprinnelig vurdering.
+2) En student som ikke har bestått ordinær vurdering, har rett til ny vurdering i emnet innenfor rammene av § 5-1 (4). Ny vurdering gjennomføres snarest mulig, og senest samtidig med neste ordinære vurdering.
+3) Utsatt og ny vurdering kan ha en annen form enn ordinær vurdering, så lenge vurderingen av læringsutbytte ivaretas.
+4) For emner som opphører, gjelder følgende: Dersom det etter siste ordinære vurdering og én utsatt / ny vurdering i et emne fremdeles gjenstår studenter med gyldig fravær eller ikke bestått, kan det gjennomføres en tredje og siste vurdering. Slik vurdering skal gjennomføres innen ett år etter den siste ordinære vurderingen. Vurderingen kan ha en annen form enn ordinær vurdering.
