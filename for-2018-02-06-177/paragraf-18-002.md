@@ -1,0 +1,5 @@
+# § 18-2. Tilgjengelighet
+Doktorgradsresultatet skal være offentlig tilgjengelig senest to (2) uker før dato for offentlig forsvar. Materialet gjøres tilgjengelig i den form det ble innlevert til bedømmelse, jf. § 15-1.
+Doktorgradsresultatet skal arkiveres i et varig format.
+Det kan ikke legges restriksjoner på offentliggjøring av det kunstneriske doktorgradsresultatet med unntak av en på forhånd avtalt utsettelse av datoen for offentliggjøring. Slik utsettelse kan finne sted for at Kunsthøgskolen og eventuelt ekstern part som helt eller delvis har finansiert doktorgradsutdanningen, skal kunne ta stilling til eventuell patentering eller lignende. Ekstern part kan ikke stille krav om at hele eller deler av doktorgradsresultatet ikke skal kunne offentliggjøres, jf. § 6.
+Ved publisering eller offentliggjøring skal kandidaten følge gjeldende retningslinjer for kreditering av institusjoner. Hovedregelen er at en institusjon skal oppgis dersom den har gitt et nødvendig og vesentlig bidrag til eller grunnlag for det offentliggjorte arbeidet. Også andre institusjoner skal oppgis dersom disse i hvert enkelt tilfelle tilfredsstiller kravet til medvirkning.
