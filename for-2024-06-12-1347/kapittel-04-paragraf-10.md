@@ -1,0 +1,5 @@
+# § 4-10. Avsluttende vurdering under særlige vilkår
+(1) Studenter som har krav på særskilt tilrettelegging under avsluttende vurdering, må søke om dette senest 15.september for avsluttende vurderinger som avlegges i høstsemesteret og 15.november for avsluttende vurderinger som avlegges på vårsemesteret. Søknaden må følges av dokumentasjon fra sakkyndig.
+(2) Studenter som får akutt behov for tilrettelegging, må søke om dette så snart som mulig etter at behovet oppstår. Søknaden må følges av dokumentasjon fra sakkyndig.
+(3) Studenter med dokumentert dysleksi eller andre lese- og skrivevansker, eller studenter med annet morsmål enn norsk, kan etter eget ønske få lagt ved en anonymisert attest ved oppgavebesvarelsen som bekrefter vanskene.
+(4) Fagskolen fatter vedtak om avsluttende vurdering under særlige vilkår. Vedtaket er et enkeltvedtak som kan påklages til Lokal klagenemnd. Det etterstrebes at klagebehandling sluttføres før avsluttende vurdering. Se ellers kapittel 5; Klagebehandling.

@@ -1,0 +1,10 @@
+# § 5-2. Rett til begrunnelse og klage på sensur
+Med hjemmel i fagskoleloven § 22.
+(1) Studenten har rett til begrunnelse for karakterfastsettingen. Ved muntlig avsluttende vurdering eller bedømmelse av praktiske ferdigheter, framsettes karakteren muntlig umiddelbart etter avsluttende vurdering, og studenten må fremsette muntlig krav om begrunnelse til sensor umiddelbart etter at karakteren er meddelt. På skriftlige avsluttende vurderinger kunngjøres karakteren elektronisk og studenten kan kreve begrunnelse. Krav om begrunnelse fremsettes innen én (1) uke fra karakteren er kunngjort.
+(2) Begrunnelse skal være gitt innen to (2) uker etter at studenten har bedt om dette. Dersom begrunnelsen ikke kan gis innen to (2) uker, skal studenten varsles om dette og få oppgitt når begrunnelsen kan ventes. I begrunnelsen skal det gjøres rede for de generelle prinsippene som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelsen skal gis skriftlig og prosessen styres av Vea.
+(3) Dersom det er gitt skriftlige retningslinjer for bedømmelsen, skal disse være tilgjengelige for studentene etter at karakteren er fastsatt.
+(4) En student kan klage skriftlig over karakteren innen tre (3) uker etter at avsluttende vurderingsresultatet er kunngjort. Ny sensur skal da gjennomføres. Ved ny sensur skal sensor ikke gis tilgang til opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen.
+(5) Er det fremsatt krav om begrunnelse for karaktersettingen eller klage over formelle feil, løper klagefristen på tre (3) uker fra studenten har fått begrunnelsen, eller til klagen på formelle feil er endelig avgjort.
+(6) Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av avsluttende vurdering, holdes ny muntlig prøve for fastsetting av karakter.
+(7) Bedømmelse av muntlig prestasjon og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages.
+(8) Ny sensur kan gjøres både til gunst og ugunst for klager og karakterfastsetting ved ny sensur kan ikke påklages.
