@@ -6,7 +6,7 @@ c) § 3-1 om bokmål og nynorsk for elevane i grunnskolen
 d) kapittel 10 om det beste for eleven, medverknad, skoledemokrati, foreldresamarbeid, skolereglar og plikt til å delta
 e) § 11-1 om tilpassa opplæring
 f) kapittel 12 om skolemiljøet til elevane
-g) § 13-1 om bortvising
+g) § 13-1 om bortvising og §§ 13-3 til 13-5 om skadeførebygging
 h) § 14-1 andre ledd om skole- og feriedagar
 i) § 14-2 om inndeling av elevar i klassar og grupper
 j) § 14-4 om fjernundervisning
