@@ -1,0 +1,8 @@
+# § 42. Ny og utsatt eksamen
+(1) Utsatt eksamen arrangeres for dem som har dokumentert gyldig fravær etter § 41 andre ledd fra ordinær eksamen.
+(2) En student som ikke møtte til ordinær eksamen og som ikke har dokumentert gyldig fravær, har bare rett til ny eksamen i emnet ved neste ordinære eksamen. En student som ikke har bestått eksamen, har ikke rett til ny eksamen i emnet før ved neste ordinære eksamen. Avvikles det utsatt eksamen, kan likevel også studenter som ikke har bestått, melde seg opp til den.
+(3) Avgangsstudenter som bestod siste ordinære eksamen har adgang til ny eller utsatt eksamen dersom slik arrangeres.
+(4) En student som har fått sin eksamen annullert av institusjonens nemd for studentsaker, har ikke rett til ny eksamen i emnet før ved neste ordinære eksamen.
+(5) Studenter som på grunn av utvekslingsopphold i utlandet i regi av NLA Høgskolen ikke har kunnet gå opp til ordinær eksamen, kan etter søknad få rett til ny eller utsatt eksamen dersom det arrangeres slik eksamen.
+(6) En student som ønsker å forbedre karakteren i et emne, går opp til eksamen etter den emneplan som gjelder på oppmeldingstidspunktet. Det samme gjelder en student som har rett til ny eller utsatt eksamen og som ikke har benyttet den første anledningen til ny eller utsatt eksamen. Studenter som etter at det er innført en ny studieplan eller emneplan ønsker å gå opp til eksamen etter den studieplanen eller emneplan de startet på, må søke spesielt om dette innen oppmeldingsfristen.
+(7) Når et emne opphører, skal det for den som er tatt opp til et studium ved NLA Høgskolen, arrangeres ny eller ekstraordinær eksamen i emnet innen to år etter siste ordinære eksamen.

@@ -1,0 +1,5 @@
+# § 52. Klage på karakter
+(1) Studenten kan klage på sensurvedtaket i samsvar med universitets- og høyskoleloven § 11-10.
+(2) Det er individuell klagerett ved gruppeeksamen. En endring av karakter etter gruppeeksamen, vil bare gjelde for den som har klaget.
+(3) Dersom klagen gjelder en karakter som inngår i et vitnemål som er gjort tilgjengelig for studenten, settes kvalifikasjonen ugyldig og vitnemålet gjøres utilgjengelig for studenten i påvente av ny sensur. Er vitnemålet utstedt på papir, skal vitnemålet leveres tilbake til høgskolen i påvente av ny sensur. Resultatet av ny sensur kunngjøres ikke før et eventuelt papirvitnemål er levert tilbake til høgskolen.
+(4) Dersom karakteren i en klagesensur avviker med to eller flere karakterer fra karakteren i den opprinnelige sensuren, skal institusjonen vurdere saken på nytt før endelig karakter fastsettes. I den nye vurderingen gjelder ikke begrensningen etter universitets- og høyskoleloven § 11-11 andre ledd andre punktum. Studenten gis ikke anledning til å begrunne klagen på dette tidspunkt i klagebehandlingen.

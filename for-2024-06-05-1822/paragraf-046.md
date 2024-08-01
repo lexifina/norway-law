@@ -1,0 +1,4 @@
+# § 46. Eksamenssted
+(1) Eksamen gjennomføres normalt ved det studiestedet emnet er tilknyttet. Det skal opplyses om eksamenssted på Studentweb seinest én uke før eksamen.
+(2) En student kan i særlige tilfeller etter søknad innvilges dispensasjon for å gjennomføre eksamen på et annet eksamenssted. Søknadsfristen er den samme som for å søke om tilrettelagt eksamen. Studenten skal selv inngå avtale med det godkjente eksamensstedet, oppgi stedets kontaktinformasjon til NLA Høgskolen, og betale kostnadene ved en slik gjennomføring.
+(3) Studenter ved andre utdanningsinstitusjoner som ønsker å benytte NLA Høgskolen som eksamenslokale, kan søke om å avlegge eksamen ved høgskolen. Dersom dette innvilges, skal det i henhold til gjeldende satser betales et gebyr per eksamen per student, samt eventuell godtgjørelse for eksamensvakt.
