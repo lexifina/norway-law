@@ -1,0 +1,3 @@
+# § 7-4-1. Ved vitenskapelig uredelighet
+I følge UH-lovens § 13-2 kan FoU-utvalget, etter anbefaling fra programutvalget, vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid dersom en doktorgradskandidat har opptrådt vitenskapelig uredelig etter forskningsetikkloven § 8 andre ledd. Departementet er klageinstans på vedtak om tvungen avslutning som følge av vitenskapelig uredelighet etter forskningsetikklovens § 8.
+NMH skal følge samme saksbehandlingsregler for vurdering av vitenskapelig uredelighet for doktorgradskandidater som for andre forskere, jf. forskningsetikklovens § 6 og § 8, første ledd.

@@ -1,0 +1,2 @@
+# § 15-4. Underkjenning av avhandling
+Dersom komiteen finner at dyptgripende endringer vedrørende teori, hypotese, materiale eller metode er nødvendige for at arbeidet skal kunne anbefales til disputas, skal komiteen underkjenne avhandlingen. I slike tilfeller må det gå minst seks (6) måneder før ny innlevering kan finne sted. Det er opp til FoU-utvalget å avgjøre om ny avhandling skal bedømmes av samme komité, ny komité eller delvis ny komité.

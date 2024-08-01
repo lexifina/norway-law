@@ -1,0 +1,5 @@
+# § 8-1. Oppnevning av veiledere
+Ph.d.-kandidaten skal som hovedregel ha to veiledere, hvorav én oppnevnes som hovedveileder.
+Hovedveileder oppnevnes av programutvalget så snart som mulig etter opptak. Hovedveilederen skal normalt være ansatt ved NMH, og har det faglige hovedansvaret for kandidaten. Dersom programutvalget oppnevner ekstern hovedveileder, skal det være svært gode grunner for det, og det skal oppnevnes medveileder fra NMH. Medveiledere er fagpersoner som gir veiledning og som deler det faglige ansvaret for kandidaten med hovedveileder. Habilitetsreglene i forvaltningslovens andre kapittel «Om ugildhet» (§ 6-10) gjelder for alle veilederne.
+Alle veiledere skal normalt ha vitenskapelig doktorgrad eller tilsvarende kompetanse og være aktive forskere. Minst én av de oppnevnte veilederne bør ha tidligere erfaring fra og/eller opplæring som veileder av ph.d.-kandidater.
+Ph.d.-kandidat og veileder kan be programutvalget om å oppnevne ny veileder for kandidaten. Veileder kan ikke fratre før ny veileder er oppnevnt. Tvister om veileders og kandidats faglige rettigheter og plikter kan bringes inn av partene til behandling og avgjørelse av NMH.
