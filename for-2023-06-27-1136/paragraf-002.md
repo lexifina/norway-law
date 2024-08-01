@@ -1,0 +1,3 @@
+# § 2. Midlertidig godkjenning av utvidelse av godkjente ordinære barnehager
+Hvis det er behov for barnehageplasser som følge av bosetting av mange fordrevne fra Ukraina eller flyktninger, kan kommunen etter søknad fatte vedtak om midlertidig godkjenning av utvidelse av godkjente ordinære barnehager som er i drift for inntil 3 år i samsvar med kravene i barnehageloven § 14 første ledd.
+Reglene i barnehageloven § 7a første ledd og tredje ledd bokstav a gjelder ikke for ordinære barnehager som øker antallet barnehageplasser etter første ledd i denne paragrafen og økningen fører til at eieren alene, sammen med nærstående eller selskap i samme konsern eier ordinære barnehager med til sammen 30 eller flere barn.
