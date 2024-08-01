@@ -1,0 +1,4 @@
+# § 15-2. Database for forskningsinformasjon
+En database for forskningsinformasjon skal gi oversikt over og tilgjengeliggjøre forskningsprosjekter, publikasjoner, forskningsformidling og datasett fra forskning mv., og slik legge til rette for åpen tilgang til forskningsresultater og data, effektiv forskningsadministrasjon og for forskning, statistikk og analyse på feltet. I databasen kan det behandles personopplysninger så langt det er nødvendig.
+Departementet kan pålegge universiteter og høyskoler, regionale helseforetak og institutter som mottar offentlig finansiering av forskning, å rapportere til databasen.
+Departementet kan gi forskrift om rapporteringsplikten og om behandlingen av personopplysninger, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, og om hvem, og om innhenting, viderebehandling, utlevering og tilgang til personopplysninger.

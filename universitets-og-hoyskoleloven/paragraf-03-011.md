@@ -1,0 +1,7 @@
+# § 3-11. Forbud mot misbruk av betegnelsene universitet, vitenskapelig høyskole og høyskole
+Betegnelsene universitet og vitenskapelig høyskole kan bare brukes av en institusjon som er akkreditert som universitet eller vitenskapelig høyskole, jf. § 3-2, og som har fått vedtak om at den tilhører en slik institusjonskategori, jf. § 3-1. Betegnelsen høyskole kan bare brukes av en institusjon som er akkreditert som høyskole, eller som gir akkrediterte studietilbud, jf. § 3-2. Betegnelsen universitetssykehus kan bare brukes av virksomheter som er godkjent som universitetssykehus etter spesialisthelsetjenesteloven.
+En institusjon som ikke har akkreditering etter første ledd, kan ikke bruke en betegnelse som gir inntrykk av å ha slik akkreditering, eller som er egnet til å forveksles med en betegnelse som er nevnt i første ledd. Den kan heller ikke markedsføre seg på en måte som gir inntrykk av at institusjonen har slik akkreditering.
+Departementet kan gi dispensasjon til bruk av etablerte sammensatte betegnelser som ikke er egnet til å forveksles med betegnelsene som er nevnt i første ledd.
+Departementet fastsetter hvilke betegnelser universiteter og høyskoler skal bruke på andre språk.
+Departementet kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt bruker en betegnelse eller har markedsføring i strid med denne paragrafen.
+Departementet kan gi forskrift om forbud mot misbruk av institusjonsbetegnelser og om overtredelsesgebyr etter denne paragrafen.

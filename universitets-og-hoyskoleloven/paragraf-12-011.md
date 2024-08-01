@@ -1,0 +1,4 @@
+# § 12-11. Register for informasjonsutveksling om reaksjoner
+Den som fatter vedtak etter §§ 12-1 første og andre ledd, 12-3 fjerde ledd, 12-4 tredje og fjerde ledd, 12-5 tredje ledd, 12-6 første ledd og § 12-7 andre ledd, skal registrere disse i et register for informasjonsutveksling om reaksjoner overfor søkere og studenter. Et vedtak skal slettes fra registeret når perioden vedtaket gjelder for, er utløpt.
+Informasjonen i registeret skal gjøres tilgjengelig for bruk ved opptak til universiteter og høyskoler og for godkjenning av utdanning. Registeret kan inneholde personopplysninger.
+Departementet kan gi forskrift om registeret og om behandlingen av personopplysninger, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan registreres, og om viderebehandling, utlevering og tilgang til personopplysninger.
