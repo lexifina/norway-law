@@ -1,0 +1,3 @@
+# § 22. Klage
+(1) Klage på søknad om opptak og søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i forvaltningsloven § 28 flg.
+(2) Klage på tvungen avslutning kan påklages etter reglene i uh-loven av 8. mars 2024 § 13-2 eller lov 10. februar 1967 om behandlingsmåten i forvaltningssaker §§ 28 flg.Eksamener i opplæringsdelen kan påklages etter reglene i uh-loven av 8. mars 2024 § 11-10 om klage på karakter og § 11-9 om klage på formelle feil ved eksamen.Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller forsvar kan påklages etter reglene i forvaltningsloven §§ 28 flg. og uh-loven av 8. mars 2024 § 13-1.
