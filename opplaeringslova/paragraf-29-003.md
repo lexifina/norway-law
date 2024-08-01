@@ -1,0 +1,2 @@
+# § 29-3. Forsøksverksemd
+Etter søknad frå kommunen eller fylkeskommunen, eller etter eige initiativ, kan departementet gjere tidsavgrensa unntak frå lova eller reglar gitt med heimel i lova dersom det er nødvendig for å gjennomføre pedagogiske eller organisatoriske forsøk. Forsøka skal vere etisk forsvarlege, godt fagleg underbygde, og ikkje svekkje elevane sine grunnleggjande rettar etter lova. Forsøka skal evaluerast og rapporterast.

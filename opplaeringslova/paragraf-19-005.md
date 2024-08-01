@@ -1,0 +1,5 @@
+# § 19-5. Tilpassa opplæring og individuell tilrettelegging for vaksne deltakarar
+Kravet i § 11-1 om tilpassa opplæring gjeld for førebuande og vidaregåande opplæring for vaksne.
+Deltakarar i den førebuande opplæringa har rett til individuell tilrettelegging etter §§ 11-4 til 11-6. For denne tilrettelegginga gjeld §§ 11-7 til 11-11 og § 11-13.
+Deltakarar i den vidaregåande opplæringa med nedsett funksjonsevne eller særskilde behov har rett til eigna individuell tilrettelegging av lærestad, undervisning, læremiddel og eksamen, for å sikre likeverdige høve til opplæring.
+Retten etter tredje ledd gjeld ikkje tilrettelegging som inneber ei uforholdsmessig byrde for fylkeskommunen. Når fylkeskommunen skal vurdere om tilrettelegginga inneber ei uforholdsmessig byrde, skal fylkeskommunen leggje særleg vekt på effekten tilrettelegginga har for å byggje ned barrierane for deltakarar med nedsett funksjonsevne og særskilde behov, dei nødvendige kostnadene ved tilrettelegginga og kva ressursar fylkeskommunen har til rådigheit.

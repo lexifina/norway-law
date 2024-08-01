@@ -1,0 +1,3 @@
+# § 18-10. Rett til opplæring for vaksne som ikkje har opphaldsløyve
+Det er eit vilkår for rett til førebuande opplæring at ein har lovleg opphald i landet. Dei som er over opplæringspliktig alder, og som oppheld seg lovleg i landet medan dei ventar på svar på søknad om opphaldsløyve, har rett til førebuande opplæring ut det skoleåret som tar til det året dei fyller 18 år. Dei som får avslag på søknaden om opphaldsløyve, har berre rett til førebuande opplæring fram til datoen for det endelege vedtaket.
+Det er eit vilkår for rett til vidaregåande opplæring at søkjaren har lovleg opphald i landet. Dei som oppheld seg lovleg i landet medan dei ventar på svar på søknad om opphaldsløyve, har likevel ikkje rett til vidaregåande opplæring for vaksne.

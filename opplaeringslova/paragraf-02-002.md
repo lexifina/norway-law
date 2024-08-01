@@ -1,0 +1,6 @@
+# § 2-2. Plikt til grunnskoleopplæring
+Barn har plikt til grunnskoleopplæring frå det året dei fyller seks år, til dei har avslutta det 10. trinnet. Grunnskoleopplæringa skal gjennomførast på ein offentleg skole, ein privat grunnskole som er godkjend etter § 22-1 eller etter privatskolelova, eller gjennom privat grunnskoleopplæring i heimen, jf. § 22-5.
+Barn har plikt til grunnskoleopplæring når dei har vore i Noreg i tre månader. Plikta fell bort når barnet oppheld seg utanlands i tre månader.
+Kommunen kan frita ein elev heilt eller delvis frå opplæringsplikta dersom omsynet til eleven tilseier det, foreldra samtykkjer og det ligg føre ei sakkunnig vurdering. Elevar som har fått fritak frå opplæringsplikta, mister ikkje retten til opplæringa dei har fått fritak frå.
+Kommunen kan gi ein elev permisjon frå skolen dersom eleven får ei opplæring som samla sett er forsvarleg. Kommunen gir forskrift om permisjon frå skolen.
+Ein elev som høyrer til eit anna trussamfunn enn Den norske kyrkja, har rett til permisjon frå skolen dei dagane trussamfunnet har helgedag, dersom foreldra sørgjer for den opplæringa som må til for at eleven skal kunne følgje med i opplæringa på skolen etter fråværet.

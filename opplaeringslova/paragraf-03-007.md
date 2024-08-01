@@ -1,0 +1,3 @@
+# § 3-7. Innføringsopplæring for elevar i grunnskolen som har budd kort tid i Noreg
+Kommunen kan gi elevar som har budd kort tid i Noreg og har fått vedtak om særskild språkopplæring, heile eller delar av opplæringa i særskilde grupper eller klassar eller på særskilde skolar. Kommunen kan berre gi slik innføringsopplæring dersom eleven eller foreldra samtykkjer.
+Kommunen kan gjere vedtak om innføringsopplæring for ein elev for opp til eitt år om gongen, i til saman opp til to år. I vedtaket kan det gjerast unntak frå læreplanar i fag, jf. § 1-4 andre ledd, og fag- og timefordelinga, jf. § 1-6 første og andre ledd.

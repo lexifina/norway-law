@@ -1,0 +1,2 @@
+# § 5-6. Rett til læreplass eller anna tilbod på vidaregåande trinn 3
+Søkjarar som oppfyller vilkåra for å bli formidla til læretid i bedrift, har rett til læreplass. Dersom fylkeskommunen ikkje kan gi søkjaren tilbod om læreplass, har søkjaren rett til eit anna opplæringstilbod på vidaregåande trinn 3 bygd på det programområdet han eller ho har gjennomført på vidaregåande trinn 2. Departementet kan gi forskrift om opplæringstilbodet til dei som ikkje får læreplass.

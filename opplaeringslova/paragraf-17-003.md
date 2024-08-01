@@ -1,0 +1,4 @@
+# § 17-3. Krav om kompetanse for å bli tilsett i lærarstilling
+Kommunen og fylkeskommunen skal sørgje for at dei som blir tilsett i lærarstilling, har relevant fagleg og pedagogisk kompetanse seinast når dei tar til i stillinga.
+Dersom ingen søkjarar oppfyller kompetansekrava, kan andre tilsetjast mellombels i ei lærarstilling. Slik mellombels tilsetjing skal ikkje vare lenger enn til 31. juli, med mindre søkjaren blir tilsett på det vilkåret at påbyrja lærarutdanning skal fullførast. Kor lenge ei tilsetjing på vilkår om påbyrja utdanning skal vare, avtaler arbeidsgivaren og arbeidstakaren ut frå kor stor stilling og kor lang utdanning det er tale om, og kor tilgjengeleg utdanningstilbodet er.
+Departementet kan gi forskrift om kva kompetanse ein må ha for å kunne bli tilsett i lærarstilling.

@@ -1,0 +1,3 @@
+# § 14-6. Fritak frå aktivitetar i opplæringa på grunn av livssyn
+Elevar har rett til fritak frå aktivitetar i opplæringa som dei med rimeleg grunn opplever som utøving av ein annan religion enn sin eigen eller tilslutning til eit anna livssyn enn sitt eige, eller som dei på same grunnlag opplever som krenkjande eller støytande. Fritaket føreset ei skriftleg melding frå eleven eller foreldra, men det trengst ikkje grunngiving.
+Ein kan ikkje krevje fritak frå kompetansemåla i læreplanane for fag. Elevar som får fritak frå aktivitetar i opplæringa, skal ha anna opplæring med tilsvarande fagleg innhald.

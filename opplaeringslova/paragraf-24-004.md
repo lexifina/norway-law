@@ -1,0 +1,3 @@
+# § 24-4. Rett til å ta avgjerder for eleven når barnevernstenesta har overtatt omsorga
+Dersom barnevernstenesta har overtatt omsorga etter barnevernsloven § 5-1, har barnevernstenesta rett til å ta avgjerder på vegner av eleven. Barnevernstenesta har dessutan rett til å ta avgjerder på vegner av eleven etter vedtak om flytteforbod etter barnevernsloven § 4-3 og etter vedtak om omsorgsovertaking etter barnevernsloven § 4-2.
+Foreldra til eleven har likevel rett til å velje privat skole etter § 2-2, samtykkje til fritak frå heile opplæringsplikta etter § 2-2, velje skriftspråk etter § 3-1, krevje fritak frå delar av opplæringa på grunn av livssyn etter § 14-6, og krevje opplæring i og på samisk og i kvensk eller finsk etter §§ 3-2 og 3-3.

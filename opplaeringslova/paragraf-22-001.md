@@ -1,0 +1,4 @@
+# § 22-1. Kven som kan drive private skolar etter lova
+Private kan berre drive skole etter denne lova med godkjenning av departementet. Departementet skal godkjenne private grunnskolar dersom dei kan oppfylle krava i § 22-2. Departementet kan gi forskrift om saksbehandlingsreglar for godkjenning av private grunnskolar i samsvar med tjenesteloven § 27. Den som driv privat grunnskole utan godkjenning, kan straffast med bot.
+Departementet kan godkjenne private vidaregåande skolar dersom det ligg føre ein mellomstatleg avtale om drift av slike skolar. I samband med godkjenninga kan departementet gjere unntak frå krava i lova og i forskrift gitt med heimel i lova.
+Godkjenninga etter første og andre ledd fell bort dersom ein skole ikkje set i gang verksemda si etter lova innan tre skoleår etter at godkjenninga vart gitt. Det same gjeld om drifta etter lova blir nedlagd. Skolen skal gi melding til departementet når drifta etter lova blir nedlagd.

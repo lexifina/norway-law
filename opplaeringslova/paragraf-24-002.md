@@ -1,0 +1,2 @@
+# § 24-2. Opplysningar til den kommunale helse- og omsorgstenesta og sosialtenesta
+Kommunen og fylkeskommunen skal sørgje for at alle som utfører tenester eller arbeid etter denne lova, er merksame på forhold som bør føre til tiltak frå sosialtenesta eller helse- og omsorgstenesta. Kommunen og fylkeskommunen skal sørgje for at dei som blir merksame på slike forhold, av eige tiltak gir sosialtenesta eller helse- og omsorgstenesta alle relevante opplysningar som dei ikkje har plikt til å teie om.

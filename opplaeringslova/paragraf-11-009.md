@@ -1,0 +1,4 @@
+# § 11-9. Kompetansekrav for den som skal gi individuelt tilrettelagd opplæring
+Den som skal gi individuelt tilrettelagd opplæring, må oppfylle kompetansekrava for å bli tilsett i lærarstilling, jf. § 17-3, og krava om relevant kompetanse i faget det skal undervisast i, jf. § 17-4.
+I vedtak om individuelt tilrettelagd opplæring kan det gjerast unntak frå kompetansekrava i § 17-3 dersom det vil gi eleven betre opplæring. Slike unntak kan berre gjerast dersom opplæringa skal givast av personar med ei universitets- eller høgskoleutdanning som gjer dei særleg eigna til å vareta behova til eleven. Slikt vedtak inneber også at kompetansekrava i § 17-4 ikkje gjeld.
+I vedtak om individuelt tilrettelagd opplæring kan det gjerast unntak frå kompetansekrava i § 17-4 dersom ei konkret vurdering av eleven og den individuelt tilrettelagde opplæringa som skal bli gitt, tilseier det.

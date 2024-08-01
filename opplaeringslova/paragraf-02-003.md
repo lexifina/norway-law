@@ -1,0 +1,3 @@
+# § 2-3. Innhald, vurdering og dokumentasjon i grunnskoleopplæringa
+Opplæringa i grunnskolen skal vere i samsvar med måla og prinsippa for opplæringa, jf. §§ 1-4 første og andre ledd og 1-5 andre og tredje ledd, og fag- og timefordelinga, jf. § 1-6 første og andre ledd.
+Elevane har rett til individuell vurdering og dokumentasjon av opplæringa. Elevane på 1. til 7. trinn skal ha individuell vurdering utan karakterar. Departementet gir forskrift om individuell vurdering, om klage på vurdering og om dokumentasjon. Departementet kan gi forskrift om at mangel på vurderingsgrunnlag kan føre til tap av rett til individuell vurdering med karakter i faget.

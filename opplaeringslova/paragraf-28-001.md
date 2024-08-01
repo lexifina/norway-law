@@ -1,0 +1,3 @@
+# § 28-1. Kommunen sitt juridiske og økonomiske ansvar
+Kommunen skal oppfylle retten til grunnskoleopplæring og førebuande opplæring for vaksne for dei som bur i kommunen, bortsett frå dei som fylkeskommunen har ansvaret for etter §§ 28-3 til 28-6. Kommunen har ansvaret for at reglane i lova som legg plikter på kommunen, skolen og tilsette i skolen, blir oppfylte.
+Departementet kan gi forskrift om eller fastsetje i enkeltvedtak kven som skal reknast som busette i kommunen. Departementet kan gi forskrift om at ein kommune skal ha det økonomiske ansvaret for grunnskoleopplæringa for elevar som får slik opplæring utanfor kommunen.

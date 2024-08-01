@@ -1,0 +1,1 @@
+# Sjuande del – forskjellige reglar

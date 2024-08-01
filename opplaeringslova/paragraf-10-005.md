@@ -1,0 +1,3 @@
+# § 10-5. Organiseringa av skoledemokratiet
+Kvar grunnskole og vidaregåande skole skal ha eit elevråd som er valt av elevane ved skolen. Elevane kan velje å organisere seg på ein annan måte. Kvar grunnskole skal ha eit arbeidsutval som er valt av foreldra på skolen. Foreldra kan velje å organisere seg på andre måtar. Kommunen og fylkeskommunen skal sørgje for at det blir fastsett kva for andre brukarorgan skolane skal ha.
+Elevane og foreldra skal vere representerte i organ ved grunnskolar, og elevane skal vere representerte i organ ved vidaregåande skolar. Representantar for elevane i den vidaregåande opplæringa har møte- og talerett i fylkeskommunale nemnder på same måten som dei tilsette har etter kommuneloven § 13-4.
