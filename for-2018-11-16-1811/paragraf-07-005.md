@@ -1,0 +1,2 @@
+# § 7-5. Forsøk til eksamen ved nytt opptak til samme studieprogram
+(1) For studenter som har hatt opphold fra et studieprogram i mer enn tre år, og fått nytt opptak til samme studieprogram, starter studiet på nytt med nye forsøk til eksamen og praksis etter denne forskrift. For studenter som har hatt opphold fra studiet i mindre enn tre år og som har fått nytt opptak til samme studieprogram, teller tidligere forsøk til eksamen og praksis.
