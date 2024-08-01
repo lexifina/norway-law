@@ -1,0 +1,3 @@
+# § 24-3. Klage over avslag på søknad om bedømmelse, ikke godkjent doktorgradsarbeid, prøveforelesning eller annen prøve over oppgitt emne, eller forsvar
+Avslag på søknad om å få doktorgradsresultatet bedømt og vedtak om ikke godkjent doktorgradsresultat, prøveforelesning eller annen prøve over oppgitt emne eller forsvar, kan påklages etter reglene i forvaltningslovens § 28 flg.
+Kunsthøgskolens klagenemnd er klageinstans, jf. UH-loven § 13-1 tredje ledd. Dersom Kunsthøgskolen finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelsen og de kriteriene denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.
