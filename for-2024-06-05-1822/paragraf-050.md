@@ -1,0 +1,6 @@
+# § 50. Vurderingsskala og endelig karakter
+(1) Eksamen, prøve, oppgave eller annen innsats vurderes med karakteren «bestått» eller «ikke bestått», eller etter en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått, jf. lov om universiteter og høyskoler § 11-7. Benyttes «bestått» eller «ikke bestått», kan grensen for «bestått» settes høyere enn der grensen mellom E og F ville vært. Arbeidskrav vurderes med «godkjent» eller «ikke godkjent».
+(2) Hver emneplan skal fastsette vektingen av den enkelte delvurderingen. Når en vektet samlekarakter havner midt mellom to trinn, skal den avrundes til gunst for studenten.
+(3) Deleksamener som inngår i en samlekarakter for emnet, gir først studiepoeng når samtlige deleksamener i emnet er bestått. Det skal framgå av emneplan dersom deleksamener kreves bestått i en bestemt rekkefølge.
+(4) Har en student bestått samme eksamen mer enn én gang, gjelder den beste karakteren.
+(5) Gjennomføres det justerende muntlig prøve, skal den skriftlige prøven tillegges størst vekt og karaktersettes først. Den muntlige prøven kan deretter justere samlekarakteren maksimalt ett trinn opp eller ned. Vurderes den justerende muntlige prøven isolert sett til ikke bestått, må både den muntlige og den skriftlige prøven avlegges på nytt for kunne få bestått.

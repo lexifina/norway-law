@@ -1,0 +1,4 @@
+# § 10. Reservert studieplass
+(1) En søker som har fått innvilget en studieplass på et årsstudium eller et gradsprogram, kan søke om å reservere den i ett år eller til neste ordinære opptak til studiet. Grunnlaget for søknaden skal dokumenteres. Ved førstegangstjeneste som strekker seg over to studieår kan det gis reservasjon for to år. Reservert studieplass blir som hovedregel ikke innvilget når opptaket gjøres på bakgrunn av opptaksprøve.
+(2) En søknad kan innvilges dersom det foreligger tungtveiende grunner som gjør at søkeren ikke kan benytte studieplassen. Tungtveiende grunner kan være sykdom, fødsel, adopsjon, innkalling til førstegangstjeneste eller lignende. En søknad innvilges med forbehold om at studiet blir satt i gang det aktuelle året.
+(3) Søkere som har fått betinget opptak etter forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning § 5-1, kan ikke søke om reservert plass ved neste opptak.
