@@ -1,0 +1,5 @@
+# § 3-2. Oversettelse av regler. Kunngjøringer og skjema
+Lover og forskrifter av særlig interesse for hele eller deler av den samiske befolkning, skal oversettes til samiske språk av det departementet som har ansvaret for loven eller forskriften. Kommunene og fylkeskommunene har ansvaret for å oversette lokale forskrifter av særlig interesse for hele eller deler av den samiske befolkning til samiske språk.
+Kunngjøringer fra offentlige organer som særlig retter seg mot hele eller deler av befolkningen i forvaltningsområdet for samiske språk, skal skje både på samisk og norsk. Ansvaret ligger hos det organet som offentliggjør kunngjøringen.
+Papirbaserte og digitale skjema til bruk overfor et offentlig organ i forvaltningsområdet for samiske språk skal foreligge både på samisk og norsk. Dette gjelder likevel ikke landsomfattende organer. Ansvaret ligger hos det organet som utarbeider skjemaet.
+Det offentlige organet skal vurdere hvilket eller hvilke språk det skal oversettes til. I vurderingen skal det tas hensyn til hvem informasjonen retter seg mot og hva informasjonen dreier seg om.

@@ -1,0 +1,2 @@
+# § 3-13. Kommunal og fylkeskommunal planlegging
+Fylkeskommuner og kommuner i forvaltningsområdet for samiske språk skal drøfte utfordringer for samisk språk i regional planstrategi og kommunens planstrategi, jf. plan- og bygningsloven §§ 7-1 og 10-1. Overordnede mål for å styrke samisk språk skal fastsettes i regional plan etter plan- og bygningsloven § 8-1. Kommunen skal fastsette sine mål for å styrke samisk språk som en tematisk kommunedelplan eller i kommuneplanens samfunnsdel, jf. plan- og bygningsloven § 11-1 tredje ledd og § 11-2.
