@@ -1,0 +1,4 @@
+# § 2-7. Valgbarhet og forslagsrett.
+Valgbar til Sametinget er alle som er innført i Sametingets valgmanntall i kretsen. De som skal velges, må dessuten være innført i folkeregisteret som bosatt i kretsen på valgdagen. Personale ved Sametingets administrasjon er likevel ikke valgbare.
+Forslagsrett i valgkretsene har alle som er innført i Sametingets valgmanntall i kretsen. Et forslag til valgliste må være underskrevet av minst 30 samer med forslagsrett.
+En gruppe, parti eller liknende sammenslutning kan søke Sametinget om å bli registrert med et bestemt partinavn. Begjæring om registrering skal være ledsaget av underskrifter fra minst 200 personer som har stemme- og forslagsrett ved valg til Sametinget. Vedtak om registrering kan ikke påklages. Kongen kan gi nærmere bestemmelser om vilkårene og framgangsmåten ved registrering.

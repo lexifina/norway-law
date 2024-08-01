@@ -1,0 +1,3 @@
+# § 3-9. Samisk i kommuneadministrasjonen og folkevalgte organer
+I språkutviklingskommuner skal samisk være likestilt med norsk internt i den kommunale administrasjonen og i kommunestyret. Kommunestyret kan selv bestemme at samisk skal være likestilt med norsk i andre folkevalgte organer, med unntak av direkte valgte kommunedelsutvalg og interkommunale folkevalgte organer.
+I øvrige kommuner kan kommunestyret selv bestemme at samisk skal være likestilt med norsk i hele eller deler av den interne kommunale administrasjonen, og i folkevalgte organer med unntak av direkte valgte kommunedelsutvalg og interkommunale folkevalgte organer.

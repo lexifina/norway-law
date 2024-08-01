@@ -1,0 +1,2 @@
+# § 3-4 a. Husleietvistutvalget
+Reglene i § 3-4 første ledd nr. 1 og nr. 2 gjelder også i Husleietvistutvalget. Reglene i § 3-4 første ledd nr. 3 og nr. 4 gjelder så langt de passer for saker som er gjenstand for muntlig behandling eller mekling i Husleietvistutvalget. Husleietvistutvalget skal sørge for at vedtak eller forlik skrevet på norsk, oversettes til samisk når en part krever det. For kostnader til oversettelser gjelder rettsgebyrloven § 2 andre ledd tredje punktum.
