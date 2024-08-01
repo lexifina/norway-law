@@ -1,0 +1,8 @@
+# § 12-4. Uredelig opptreden og fusk
+Dersom en student ved uredelig opptreden forsettlig eller grovt uaktsomt har skaffet seg adgang til eksamen eller obligatoriske aktiviteter, kan eksamenen eller aktiviteten annulleres.
+Dersom en student forsettlig har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket i forbindelse med gjennomføringen av eksamen eller obligatoriske aktiviteter eller forut for endelig sensur, kan eksamenen eller aktiviteten annulleres.
+En student som har opptrådt som beskrevet i første eller andre ledd, kan utestenges fra institusjonen og fratas retten til å gå opp til eksamen ved alle universiteter og høyskoler i inntil ett år. I særlig grove tilfeller kan studenten utestenges i inntil to år.
+En student som forsettlig har medvirket til opptreden som beskrevet i første og andre ledd, kan utestenges fra institusjonen og fratas retten til å gå opp til eksamen ved alle universiteter og høyskoler i inntil ett år.
+Vedtak etter denne paragrafen fattes av styret selv eller institusjonens nemnd for studentsaker, jf. § 14-1. Vedtak om utestenging og tap av eksamensrett fattes med to tredels flertall.
+Dersom en eksamen eller en obligatorisk aktivitet blir annullert, skal studenten levere tilbake eventuelle vitnemål og annen dokumentasjon av resultater til institusjonen. Dersom en student ikke leverer vitnemålet eller annen dokumentasjon av resultater tilbake til institusjonen innen gitt frist, kan institusjonen kreve namsmannens hjelp til tilbakelevering i samsvar med reglene i tvangsfullbyrdelsesloven kapittel 13.
+Dersom vitnemålet kan danne grunnlag for autorisasjon for yrkesutøvelse, skal institusjonen gi melding om annulleringen til den rette myndigheten.

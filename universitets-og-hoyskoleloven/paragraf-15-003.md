@@ -1,0 +1,4 @@
+# § 15-3. Database for statistikk om høyere utdanning
+Database for statistikk om høyere utdanning skal legge til rette for utarbeiding av statistikk og analyse, gjennomføring av utredninger og forskning og departementets forvaltning og styring av høyere utdanning. I databasen kan det behandles personopplysninger så langt det er nødvendig.
+Departementet kan pålegge universiteter og høyskoler å rapportere data om høyere utdanning og forskning, inkludert personopplysninger om søkere, studenter, doktorgradskandidater og ansatte, til databasen.
+Departementet kan gi forskrift om rapporteringsplikten og om behandlingen av personopplysninger, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, og om hvem, og om innhenting, viderebehandling, utlevering og tilgang til personopplysninger.

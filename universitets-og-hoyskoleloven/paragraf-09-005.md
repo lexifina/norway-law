@@ -1,0 +1,2 @@
+# § 9-5. Faglig godkjenning av udokumentert utenlandsk høyere utdanning
+Institusjonsakkrediterte universiteter og høyskoler kan godkjenne en utenlandsk høyere utdanning som helt eller delvis ikke kan dokumenteres, dersom søkeren har oppnådd et læringsutbytte tilsvarende det som er fastsatt for det aktuelle studiet ved den godkjennende institusjonen. Institusjonen kan kreve at søkeren avlegger prøve til kontroll av læringsutbyttet.

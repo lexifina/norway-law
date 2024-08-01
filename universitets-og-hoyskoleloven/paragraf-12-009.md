@@ -1,0 +1,4 @@
+# § 12-9. Rett til å få dekket utgifter til advokat
+Studenter har rett til å få dekket rimelige og nødvendige utgifter til bistand fra advokat eller annen fullmektig i saker som gjelder utestenging etter §§ 12-1 til 12-8, utelukkelse etter § 12-2, uskikkethet etter § 12-3 og bortvisning etter §§ 12-5 og 12-8.
+Retten til dekning av utgifter gjelder fra det tidspunktet det tas avgjørelse om å fremme saken.
+Utgiftene til advokat eller annen fullmektig dekkes av det enkelte universitet eller den enkelte høyskole. Salærforskriften gjelder med unntak av reglene i § 4 om hvem som fastsetter salæret, og reglene i § 13 om klage og anke. Det er den enkelte institusjon som fastsetter salæret, og vedtak om salærfastsettelse kan påklages til departementet eller en nasjonal klagenemnd som er oppnevnt av departementet, jf. § 14-2.

@@ -1,0 +1,4 @@
+# § 12-10. Domstolsprøving av vedtak om utestenging, utelukkelse, uskikkethet og bortvisning
+Studenter kan bringe vedtak om utestenging etter §§ 12-1 til 12-8, utelukkelse etter § 12-2, uskikkethet etter § 12-3 og bortvisning etter §§ 12-5 og 12-8 inn for prøving ved tingretten i rettskretsen der universitetets eller høyskolens administrasjon har sitt hovedsete. Et slikt søksmål må reises innen tre måneder etter at det endelige vedtaket kom fram til studenten. Plikten i tvisteloven § 6-2 til å bruke forliksrådet gjelder ikke.
+Retten kan prøve alle sider av vedtaket.
+Institusjonen skal dekke alle kostnadene ved søksmålet for tingretten og for lagmannsretten dersom staten anker, inkludert salær til saksøkers advokat, jf. § 12-9. Studenter skal sette fram krav om dekning av sakskostnader for institusjonen, og kravet skal behandles etter reglene i § 12-9.

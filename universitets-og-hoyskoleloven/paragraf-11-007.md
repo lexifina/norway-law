@@ -1,0 +1,5 @@
+# § 11-7. Gjennomføring av sensur
+Universiteter og høyskoler skal oppnevne sensor ved eksamen. Karakteren ved sensur skal være bestått eller ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått.
+Det skal være minst to sensorer, hvorav minst én ekstern, ved sensur av studentenes selvstendige arbeid i høyere grad. Det skal være to sensorer ved sensur av bacheloroppgaver eller lignende selvstendig arbeid på lavere grad, eksamener som ikke er etterprøvbare, og eksamener som alene utgjør 15 studiepoeng eller mer.
+Institusjonene skal utarbeide skriftlig sensorveiledning til alle eksamener. Sensorveiledningen skal være tilgjengelig for studentene etter at karakteren er fastsatt.
+Sensuren skal foreligge innen 15 virkedager fra eksamen er avlagt, dersom ikke særlige grunner gjør det nødvendig å bruke mer tid. Institusjonene kan gi midlertidig forskrift om lengre frist for enkelte eksamener dersom det ikke er mulig å skaffe det antallet kvalifiserte sensorer som trengs for å avvikle sensuren innen 15 virkedager. Institusjonene kan gi forskrift om lengre frist enn 15 virkedager for større skriftlige arbeider.

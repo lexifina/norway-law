@@ -1,0 +1,4 @@
+# § 12-8. Bruk av plagg som helt eller delvis dekker ansiktet
+Studenter og ansatte skal i forbindelse med undervisning og tilsvarende ikke bruke plagg som helt eller delvis dekker ansiktet. Forbudet gjelder ikke dersom bruken av slike plagg er begrunnet i klimatiske, pedagogiske eller lærings-, helse- eller sikkerhetsmessige forhold.
+En student som til tross for skriftlig advarsel har brukt klesplagg som helt eller delvis dekker ansiktet i strid med første ledd, kan bortvises i inntil ett år. Dersom en student til tross for skriftlig advarsel ikke etterkommer et vedtak om bortvisning, kan studenten utestenges fra studiet i inntil ett år.
+Vedtak om bortvisning skal fattes av rektor eller den rektor bestemmer. Vedtak om utestenging fattes av styret selv eller institusjonens nemnd for studentsaker, jf. § 14-1.
