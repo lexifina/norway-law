@@ -1,0 +1,3 @@
+# § 9-2. Faglig godkjenning av utdanning som ikke er regulert av denne loven, og av dokumentert realkompetanse
+Universiteter og høyskoler kan godkjenne utdanning fra norske institusjoner som ikke er regulert av denne loven, utenlandsk utdanning som ikke er høyere utdanning, og dokumentert realkompetanse som del av en students utdanning ved institusjonen dersom studenten har oppnådd et læringsutbytte tilsvarende det som er fastsatt for det aktuelle studiet ved den godkjennende institusjonen.
+Ved godkjenning trenger ikke studenten å ta tilsvarende emner på nytt, og studenten skal få uttelling i studiepoeng tilsvarende det læringsutbyttet som kreves for det aktuelle studiet ved den godkjennende institusjonen.

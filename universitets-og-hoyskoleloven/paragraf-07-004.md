@@ -1,0 +1,5 @@
+# § 7-4. Særskilte ansettelsesregler for statlige universiteter og høyskoler
+Ved statlige universiteter og høyskoler skal styret selv ansette avdelingsledere og administrativ leder. Styret selv kan fastsette at avdelingsleder skal ansette leder for grunnenhet.
+Ansettelse av prorektor, leder for avdeling og grunnenhet og administrerende direktør etter § 4-7 skal gjøres på grunnlag av innstilling fra et innstillingsutvalg. Styret selv skal fastsette innstillingsutvalgets sammensetning. Studentene skal være representert i innstillingsutvalget dersom ikke styret enstemmig bestemmer noe annet.
+Dersom styret ansetter noen i en annen administrativ lederstilling enn nevnt i andre ledd, skal det gjøres etter innstilling fra rektor eller administrerende direktør dersom rektor er valgt etter § 4-6.
+Ansettelse i tekniske eller administrative stillinger gjøres av et ansettelsesråd som er oppnevnt etter reglene i statsansatteloven. Styret bestemmer om det skal være ett eller flere ansettelsesråd ved institusjonen.
