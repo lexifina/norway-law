@@ -1,0 +1,8 @@
+# § 2-7. Saksbehandling ved opptak til Masterstudiet
+(1) Utdanningsinstitusjonen oppnevner en opptakskomité bestående av tre personer som hver for seg eller samlet skal ha kompetanse i skrivekunst og litteraturformidling. Minst ett medlem i opptakskomiteen er faglig ansatt ved utdanningsinstitusjonen.
+(2) Opptakskomiteen vurderer innledningsvis søkerne på bakgrunn av søknadens formelle krav, herunder om de formelle krav til opptaksprøvens skriftlige del er oppfylt.
+(3) Søkere som oppfyller de formelle kravene går videre til opptaksrundens annen del. I annen del vurderer opptakskomiteen skrivekunstnerisk talent og evne til målgrupperelatert formidling i den skriftlige delen av opptaksprøven, og foretar en rangering utelukkende på denne bakgrunn.
+(4) De søkerne som rangeres høyest etter tredje ledd, går videre til opptaksprøvens muntlige del. Den muntlige delen formes som kunstnerisk refleksjon og refleksjon over målgrupperelaterte formidlingsmetoder. I vurderingen av den muntlige prøven vektlegges søkerens evne til refleksjon over kunstneriske og formidlingsrelaterte prosesser.
+(5) Som grunnlag for opptakskomiteens forberedelser til vurdering av den muntlige prøven legges den skriftlige prøven etter § 2-6 fjerde ledd til grunn.
+(6) Opptakskomiteen rangerer søkerne på bakgrunn av den muntlige opptaksprøven. Opptakskomiteen kan tilby de høyest rangerte søkerne studieplass. Ved eventuell ledig kapasitet, kan de øvrige søkerne tilbys studieplass etter rangering.
+(7) To studieplasser er stipendplasser forbeholdt søkere fra Asia, Afrika, Midtøsten og/eller Latin-Amerika, samt søkere med samisk eller kvensk bakgrunn som ellers oppfyller kriteriene for opptak. Hvis slike søkere ikke finnes omgjøres stipendplassene til ordinære studieplasser.

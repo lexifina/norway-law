@@ -1,0 +1,2 @@
+# § 3-10. Masterprosjekt
+Masterprosjekt er et selvstendig, individuelt gjennomført arbeid til 40 studiepoeng. Masterprosjektet er to-delt. Det består av 1) et selvvalgt kunstnerisk utviklingsarbeid som munner ut i barne- og ungdomslitterær(e) tekst(er) i selvvalgt(e) format(er). Teksten(e) danner grunnlag for 2) et formidlingsprosjekt som også skal utarbeides. Det er anledning til å tilpasse formidlingsopplegget til ulike formater.

@@ -1,0 +1,2 @@
+# § 3-8. Formidlingsopplegg
+Formidlingsopplegg innebærer at studenten planlegger og beskriver et formidlingsprosjekt som er teoretisk og praktisk relevant for det aktuelle studieemnet. Skisse for opplegget skal forelegges ansvarlig lærer til avsatt tid for forhåndsgodkjenning. Skriftlig rapport over formidlingsopplegget skal innleveres til studentens eksamensmappe. Rapporten skal presentere opplegget og drøfte sentrale problemstillinger knyttet til intensjon, gjennomføring og resultat.
