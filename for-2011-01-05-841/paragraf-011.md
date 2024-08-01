@@ -1,0 +1,5 @@
+# § 11. Offentliggjøring av avhandlingen
+Når avhandlingen er funnet verdig til forsvar, skal kandidaten levere avhandlingen til fakultetet i standardisert format og i henhold til fakultetets bestemmelser.
+Dr. philos.-kandidaten skal samtidig levere et sammendrag av avhandlingen på engelsk og et populærvitenskapelig sammendrag på norsk i elektronisk form.
+Avhandlingen skal være offentlig tilgjengelig senest fire uker før dato for offentlig forsvar av avhandlingen. Avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse.
+Det kan ikke legges restriksjoner på offentliggjøring, herunder publisering, av en dr.philos.-avhandling. Dr.philos.-kandidater som har en ansettelse ved Universitetet i Oslo når de søker om å få fremstille seg for dr.philos.-graden, skal ved publisering av dr.philos.-avhandlingen følge hovedregelen for adressering ved universitetet, og oppgi Universitetet i Oslo som adresse dersom publikasjonen er et produkt av arbeid utført i stillingen ved UiO. Dette gjelder også arbeider som helt eller hovedsakelig er utført som del av en dr.philos.-avhandling, men som publiseres etter disputasen.
