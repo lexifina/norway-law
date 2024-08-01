@@ -1,0 +1,5 @@
+# § 4-8. Fravær ved avsluttende vurdering
+(1) En student som på grunn av sykdom eller annen vektig grunn ikke kan møte til avsluttende vurdering, må umiddelbart gi skolen beskjed.
+(2) Gyldig fravær er fravær på grunn av dokumentert sykdom eller annen dokumentert tvingende fraværsgrunn. Sykemelding leveres senest to (2) dager etter innleveringsfrist for oppgaven.
+(3) Studenter som ønsker å trekke seg fra en avsluttende vurdering de er meldt opp til, uten gyldig grunn, må gjøre dette senest én (1) måned før avsluttende vurdering starter. Det teller som et avsluttende vurderingsforsøk dersom studenten trekker seg når det er mindre enn én måned til avsluttende vurdering starter. Trekkfristen gjelder for alle typer avsluttende vurderinger ved fagskolen. Ved langsgående avsluttende vurdering, med varighet lenger enn to (2) måneder er fristen for å trekke seg én (1) måned innen innleveringsfristen.
+(4) Studenter som trekker seg fra avsluttende vurdering etter fristen for dette eller som ikke møter uten å ha gyldig grunn, kan først melde seg opp til ny avsluttende vurdering neste gang det gjennomføres ordinær avsluttende vurdering i emnet.

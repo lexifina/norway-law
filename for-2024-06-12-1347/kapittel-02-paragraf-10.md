@@ -1,0 +1,5 @@
+# § 2-8. Avlysning av studier
+(1) Ved for få kvalifiserte søkere til et studium forbeholder fagskolen seg retten til å avlyse studiet. Forutsetningen for at en slik avlysning kan skje, er at studentene blir varslet innen rimelig tid.
+(2) Dersom et studium må avlyses etter fristen for dette hos Samordna opptak, må et skriftlig vedtak signert av rektor sendes Samordna opptak. Fagskolen må informere alle berørte søkere som har takket ja til studieplass om at studiet er avlyst. Studiet blir registrert som trukket etter at Samordna opptak har mottatt en bekreftelse fra fagskolen om at slik informasjon er gitt.
+(3) Fagskolen må varsle søkeren om avlysning av studier snarest og innen 1.juni slik at søkeren har mulighet til å søke andre studier på ledige studieplasser eller gjøre nødvendige avklaringer med arbeidsgiver.
+(4) Dersom det er praktisk mulig og ønskelig fra søkers side, plikter fagskolen å tilby søkeren plass på et annet studium med ledige studieplasser. Dette forutsetter at søkeren er kvalifisert for det aktuelle studiet.
