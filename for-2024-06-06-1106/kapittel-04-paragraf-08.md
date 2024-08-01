@@ -1,0 +1,4 @@
+# § 15-2. Utdyping av materiale som formidler refleksjonen i arbeidet
+Bedømmelseskomiteen kan på grunnlag av det innleverte prosjekt anbefale at NMH gir tillatelse til mindre utdyping eller omarbeiding av materialet som formidler refleksjonen, før endelig innstilling fra komiteen foreligger. Komiteen skal gi en konkret oversikt i skriftlig form over hva kandidaten må utdype.
+Dersom komiteen finner at dyptgripende endringer er nødvendige for at det kunstneriske ph.d.-prosjektet skal kunne anbefales til disputas, skal komiteen underkjenne det.
+Tillater NMH en mindre utdyping/omarbeiding, skal det gis en frist som normalt ikke skal være lengre enn tre (3) måneder. Mulighet for utdyping/omarbeiding av materialet som formidler refleksjonen kan bare anvendes en gang. Det skal også fastsettes en ny frist for oversendelse av komiteens endelige innstilling. NMHs vedtak etter denne paragrafen kan ikke påklages av kandidaten.

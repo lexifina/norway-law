@@ -1,0 +1,2 @@
+# § 6-2. Infrastruktur
+Kandidaten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av prosjektet. Avgjørelsen om hva som anses som nødvendig infrastruktur, tas av NMH. For kandidater med ekstern finansiering eller arbeidsplass inngås det avtale mellom institusjon og ekstern part i forbindelse med det enkelte prosjekt. Slik avtale skal som hovedregel foreligge på det tidspunkt opptaksvedtaket for den aktuelle kandidaten fattes, eller umiddelbart etterpå.

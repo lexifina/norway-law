@@ -1,0 +1,7 @@
+# § 15-3. Bedømmelseskomiteens innstilling
+Bedømmelseskomiteen avgir en begrunnet innstilling om hvorvidt doktorgradsresultatet er verdig til å forsvares for doktorgraden. Alle deler av den innleverte eller fremviste dokumentasjonen skal omtales ut fra kriteriene i § 11-1. Innstillingen bør ha en drøftende form og avsluttes med en klar konklusjon om hvorvidt resultatet skal godkjennes eller ikke. Eventuelle dissenser eller individuelle uttalelser skal inngå i innstillingen, og de skal være begrunnet.
+Bedømmelseskomiteens innstilling stiles til NMH.
+Komiteens innstilling skal foreligge senest innen tre (3) måneder etter at komiteen har fått alle deler av doktorgradsresultatet til vurdering.
+Når det kunstneriske resultat presenteres før levering av refleksjonsmaterialet, jf. § 15-1 fjerde ledd andre alternativ, har bedømmelseskomiteen anledning til å underkjenne det kunstneriske resultatet dersom komiteen finner det utvilsomt at prosjektet ikke vil oppfylle kravene i § 11-1. En innstilling om dette skal være enstemmig og leveres innen 14 dager etter presentasjonen av det kunstneriske resultatet. Denne innstillingen danner da komiteens endelige innstilling.
+Komiteens innstilling oversendes NMH som forelegger denne for kandidaten. Kandidaten gis en frist på ti (10) arbeidsdager til å fremme skriftlige merknader til innstillingen. Hvis kandidaten ikke ønsker å fremme merknader, skal NMH snarest underrettes skriftlig om dette.
+Kandidatens eventuelle merknader skal sendes NMH. NMH fatter vedtak i saken, jf. § 16.

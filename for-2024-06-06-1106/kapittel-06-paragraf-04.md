@@ -1,0 +1,3 @@
+# § 24-3. Klage over avslag på søknad om bedømmelse, ikke godkjent doktorgradsarbeid, eller forsvar
+Avslag på søknad om å få doktorgradsresultatet bedømt og vedtak om ikke godkjent doktorgradsresultat eller forsvar, kan påklages etter reglene i forvaltningslovens § 28 flg.
+NMHs nemnd for studentsaker er klageinstans, jf. universitets- og høyskoleloven § 13-1. Dersom FoU-utvalget finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelsen og de kriteriene denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.
