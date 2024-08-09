@@ -1,0 +1,2 @@
+# § 9
+Når avtaler, beslutninger truffet av sammenslutninger av foretak eller samordnet opptreden som en av rettsaktene gjennomført i § 1 til § 8 får anvendelse på, i et bestemt tilfelle har virkninger som ikke er forenlige med EØS-avtalen artikkel 53 nr. 3 på norsk territorium, eller en del av det, som har alle kjennetegn på et særskilt geografisk marked, kan Konkurransetilsynet trekke tilbake fordelen gitt ved rettsakten for dette territoriet.

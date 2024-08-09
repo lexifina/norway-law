@@ -1,0 +1,2 @@
+# § 7
+EØS-avtalen vedlegg XIV del G nr. 11c (forordning (EF) nr. 906/2009 om anvendelse av traktatens artikkel 81 nr. 3 på visse grupper av avtaler, beslutninger og samordnet opptreden mellom rederier som driver linjefart (konsortier) som endret ved forordning (EU) nr. 697/2014 og forordning (EU) 2020/436) gjelder som forskrift med de endringer og tillegg som følger av vedlegg XIV, protokoll 1 til avtalen og avtalen for øvrig.
