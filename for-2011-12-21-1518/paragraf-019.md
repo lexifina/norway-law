@@ -1,0 +1,4 @@
+# § 19
+Forskriften trer i kraft 1. januar 2012.
+Fra samme tidspunkt oppheves forskrift 4. desember 1992 nr. 964 om materielle konkurranseregler i EØS-avtalen og forskrift 4. desember 1992 nr. 966 om prosessuelle konkurranseregler i EØS-avtalen m.v.
+Forordning (EU) nr. 461/2010, som inntatt i EØS-avtalen vedlegg XIV del B nr. 4b, erstatter forordning (EF) nr. 1400/2002. I henhold til EØS-avtalen artikkel 53 nr. 3 får EØS-avtalen artikkel 53 nr. 1 i tidsrommet 1. juni 2010 til 31. mai 2013 likevel ikke anvendelse på vertikale avtaler om de vilkår som gjelder for partenes kjøp, salg eller videresalg av nye motorvogner, dersom avtalene oppfyller de vilkår for unntak i henhold til forordning (EF) nr. 1400/2002 som særlig gjelder vertikale avtaler om kjøp, salg eller videresalg av nye motorvogner. Med virkning fra 1. juni 2013 får forordning (EU) nr. 461/2010 anvendelse på vertikale avtaler om kjøp, salg eller videresalg av nye motorvogner.
