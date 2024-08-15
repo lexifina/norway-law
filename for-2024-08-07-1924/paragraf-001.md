@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med tilskuddsordningen er å øke den forskningsbaserte kunnskapen om internasjonale operasjoner, internasjonal innsats og lignende virksomhet, og da særlig om personellet som har gjort tjeneste der, deres familier og nærstående, ved å gi tilskudd til doktorgradsprosjekter som bidrar til ny kunnskap på feltet, samt fremmer utviklingen av et tverrfaglig miljø for slik forskning.
