@@ -1,0 +1,6 @@
+# § 8. Plikt til å informere neste ledd i forsyningskjeden mv.
+En markedsdeltaker som gjør utgangsstoffer for eksplosiver underlagt restriksjoner tilgjengelig for en annen markedsdeltaker eller en yrkesbruker, skal informere disse om forbudet i § 6 i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 1 første ledd.
+En markedsdeltaker som gjør regulerte utgangsstoffer for eksplosiver tilgjengelig for en annen markedsdeltaker eller en yrkesbruker, skal informere mottakeren om rapporteringsplikten i § 9 i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 1 andre ledd.
+Informasjonen skal gis skriftlig og senest når utgangsstoffene gjøres tilgjengelig for mottakeren.
+En markedsdeltaker som gjør regulerte utgangsstoffer for eksplosiver tilgjengelig for en yrkesbruker eller et medlem av allmennheten, skal i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 2 sørge for at personalet som er involvert i salget er kjent med hvilke varer som inneholder regulerte utgangsstoffer for eksplosiver, og at de er gjort kjent med forpliktelsene i forordning (EU) 2019/1148 artikkel 5 til 9. Markedsdeltakeren skal på forespørsel fra Direktoratet for samfunnssikkerhet og beredskap kunne dokumentere dette.
+En nettbasert markedsplass skal treffe tiltak i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 3.

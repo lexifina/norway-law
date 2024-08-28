@@ -1,0 +1,2 @@
+# § 10. Krav til registrering i Foretaksregisteret eller Enhetsregisteret
+En markedsdeltaker eller en yrkesbruker som vil gjøre tilgjengelig, innføre, besitte eller bruke utgangsstoffer for eksplosiver underlagt restriksjoner, skal være registrert i Foretaksregisteret eller Enhetsregisteret. En markedsdeltaker eller en yrkesbruker som er registrert i et offentlig registrer i et annet land, skal kunne dokumentere denne registreringen overfor Direktoratet for samfunnssikkerhet og beredskap.

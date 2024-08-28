@@ -1,0 +1,4 @@
+# § 12. Systematisk helse-, miljø- og sikkerhetsarbeid
+En markedsdeltaker og en yrkesbruker skal kartlegge farer og problemer som kan oppstå når den gjør tilgjengelig, innfører, besitter eller bruker regulerte utgangsstoffer for eksplosiver, og på denne bakgrunn vurdere risikoen for uhell og for at utgangsstoffene kan komme på avveie. Risikovurderingen skal omfatte forhold i og utenfor virksomheten.
+Markedsdeltakeren og yrkesbrukeren, skal på bakgrunn av risikovurderingen utarbeide planer og gjennomføre tiltak for å hindre at regulerte utgangsstoffer for eksplosiver kommer på avveie og for å forebygge uhell.
+Markedsdeltakeren, som selger til andre markedsdeltakere, og yrkesbrukere, skal sørge for at ansatte og innleide som håndterer regulerte utgangsstoffer for eksplosiver har tilstrekkelig kunnskap og ferdigheter til å utføre oppgavene på en sikker og forsvarlig måte.
