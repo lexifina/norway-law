@@ -1,0 +1,5 @@
+# § 25. Stans av utbetalinger og tilbakebetaling
+Dersom en tilskuddsmottaker ikke oppfyller kravene i forskriften eller tilskuddsvedtaket, kan Medietilsynet stanse videre utbetalinger.
+Medietilsynet skal kreve tilbakebetaling av tilskudd som er utbetalt i strid med forskriftens bestemmelser eller som ikke er brukt i samsvar med vilkårene i forskriften eller tilskuddsvedtaket. Dette gjelder også tilskudd som er utbetalt for en periode hvor et medium ikke publiseres.
+Medietilsynet kan beslutte at tilskudd som skal tilbakebetales, kan trekkes fra i et tilskudd som tildeles et senere tilskuddsår.
+Krav om tilbakebetaling av tilskudd forfaller til betaling 30 dager etter at kravet er sendt til tilskuddsmottakeren. Dersom kravet ikke er betalt innen forfall, påløper forsinkelsesrente. Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) § 3 første ledd første punktum. Rentene løper fra forfallsdagen og inntil betaling skjer. Forsinkelsesrenteloven § 2 andre ledd gjelder tilsvarende.
