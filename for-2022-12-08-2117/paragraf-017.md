@@ -1,0 +1,3 @@
+# § 17. Søknad om tilskudd
+Søknad om tilskudd skal leveres på skjema fastsatt av Medietilsynet.
+Søknaden om produksjonstilskudd skal attesteres av revisor. Revisor skal attestere for at alle opplysninger hentet fra søkerens regnskaper og at opplysninger om utbetalt utbytte eller konsernbidrag er korrekte. Revisor skal også attestere for at opplysninger om tilleggsvirksomhet, offentlig driftsstøtte fra andre kilder og offentlige eierandeler i medieselskapet er korrekte. For søkere eid av konsern skal revisor også attestere for at det er oppgitt korrekt administrasjons- og serviceavgift til dekning av konsernets felleskostnader.
