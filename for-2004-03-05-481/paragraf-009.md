@@ -1,0 +1,5 @@
+# § 9. Overføring til mindre restriktive gjennomføringsformer
+Domfelte kan overføres til fengsel med lavere sikkerhetsnivå eller overgangsbolig når dette er et ledd i en planlagt progresjon frem mot prøveløslatelse. Overføring skal ikke besluttes dersom hensynet til sikkerheten er til hinder for det eller det er grunn til å tro at den forvaringsdømte vil unndra seg straffegjennomføringen. Det samme gjelder dersom allmennpreventive hensyn eller hensynet til den alminnelige rettsoppfatning taler imot det.
+Dersom det i dommen er fastsatt en minstetid for forvaringen, skal overføring ikke finne sted før minst 2/3 av minstetiden er gjennomført i avdeling tilrettelagt for domfelte med særlige behov eller annet fengsel med høyt sikkerhetsnivå.
+Opphold i overgangsbolig skal ikke vare lenger enn ett år. Lengre opphold kan likevel godtas dersom domfelte har et særlig behov for tiltak som kan tilbys gjennom straffegjennomføring i overgangsbolig.
+Forvaring kan ikke gjennomføres utenfor fengsel etter straffegjennomføringsloven § 16.

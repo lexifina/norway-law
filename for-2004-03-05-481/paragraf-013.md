@@ -1,0 +1,8 @@
+# § 13. Utelukkelse fra fellesskapet som forebyggende tiltak
+Så langt det er praktisk mulig og sikkerhetsmessig forsvarlig skal de domfelte ha adgang til fellesskap under arbeid, opplæring, program eller andre tiltak, og i fritiden.
+Fellesskapet i avdeling tilrettelagt for domfelte med særlige behov kan helt eller delvis begrenses av hensyn til ro, orden og sikkerhet eller dersom hensynet til domfelte selv eller andre domfelte tilsier det og det ikke fremstår som et uforholdsmessig inngrep. Grunnlaget for begrensning i eller utelukkelse fra fellesskapet skal vurderes fortløpende. Tiltaket skal kompenseres med forsterket kontakt med tilsatte og utvidet aktivitetstilbud.
+Regionalt nivå treffer vedtak om fortsatt fullstendig utelukkelse fra fellesskapet dersom utelukkelsen strekker seg utover 14 dager. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meddeles Kriminalomsorgens sentrale forvaltning. Melding skal deretter gis Kriminalomsorgens sentrale forvaltning med 14 dagers mellomrom.
+Delvis utelukkelse fra fellesskapet som strekker seg utover 30 dager skal meddeles regionalt nivå.
+Utelukkelse fra fellesskapet av alle eller en gruppe innsatte kan opprettholdes i inntil 3 døgn. Utelukkelsen kan forlenges med inntil 3 døgn dersom særlige grunner gjør det påkrevet.
+Domfelte som er fullstendig utelukket fra fellesskapet skal flere ganger daglig tilses av fengselets tilsatte. Lege skal varsles om utelukkelsen uten ugrunnet opphold.
+Utelukkelse fra fellesskapet som forebyggende tiltak kommer til fradrag i en eventuell etterfølgende reaksjon på brudd etter straffegjennomføringsloven.

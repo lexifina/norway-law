@@ -1,0 +1,5 @@
+# § 5. Beregning av tidsrammen for forvaring
+I forbindelse med at gjennomføring av forvaring påbegynnes skal det, med utgangspunkt i rettskraftig dom, foretas beregning av tidspunktet for forvaringstidens utløp. Det skal også foretas beregning av tidspunktet for eventuell minstetid for forvaringen. Domfelte skal gjøres kjent med de beregnede tidspunkter.
+Det skal gjøres fradrag for utholdt varetekt i henhold til straffeloven § 83 og straffeprosessloven § 460. Fradrag gjøres også for transporttid. Fradrag for utholdt varetekt beregnes med utgangspunkt i tidsrammen for forvaringen og i eventuell fastsatt minstetid.
+Domfelte skal gjøres kjent med at prøveløslatelse tidligst kan finne sted når eventuell fastsatt minstetid er utholdt og at begjæring om slik løslatelse ellers ikke kan fremsettes før ett år etter at forvaringsdommen eller dom som nekter prøveløslatelse er endelig, jf. straffeloven § 44 fjerde ledd.
+Den forvaringsdømte skal orienteres om bestemmelsene om adgangen til forlengelse av tidsrammen for forvaring, jf. straffeloven § 43 første ledd.

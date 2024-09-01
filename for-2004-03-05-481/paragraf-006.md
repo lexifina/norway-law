@@ -1,0 +1,4 @@
+# § 6. Innsettelse
+Gjennomføring av forvaring skal påbegynnes i avdeling som er tilrettelagt for domfelte med særlige behov, jf. straffegjennomføringsloven § 11, 3. ledd og § 10, 2. ledd. Senest når dom på forvaring er rettskraftig, skal domfelte søkes overført til slik avdeling. Vedkommende skal som hovedregel ikke plasseres sammen med domfelte som ikke er idømt forvaring.
+Dersom det er nødvendig av hensyn til sikkerheten og vilkårene for øvrig foreligger kan den forvaringsdømte settes inn i avdeling med særlig høyt sikkerhetsnivå, jf. straffegjennomføringsloven § 11, 2. ledd og § 10, 2. ledd.
+Domfelte som er overført fra tvungent psykisk helsevern i medhold av psykisk helsevernloven § 5-6 skal alltid settes inn i avdeling som er tilrettelagt for domfelte med særlige behov. Disse skal ikke plasseres i avdeling sammen med andre domfelte med mindre de samtykker.

@@ -1,0 +1,3 @@
+# § 8. Overføring til annet fengsel i strid med domfeltes eget ønske
+Overføring fra avdeling tilrettelagt for domfelte med særlige behov til annet fengsel eller avdeling i strid med domfeltes eget ønske kan bare besluttes når særlig tungtveiende sikkerhetsmessige grunner tilsier det. Slik overføring kan også unntaksvis besluttes dersom akutte bygnings- og bemanningsmessige forhold eller plassmangel gjør det nødvendig. Overføringen bør være av rent midlertidig karakter og forholdene bør legges til rette for å redusere ulempene for domfelte.
+Domfelte som er overført til kriminalomsorgen etter psykisk helsevernloven § 5-6 kan ikke uten eget samtykke overføres til annet fengsel eller avdeling.
