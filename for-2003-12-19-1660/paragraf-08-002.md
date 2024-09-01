@@ -1,0 +1,2 @@
+# § 8-2. Tap av førerrett for kortere periode enn 6 måneder
+Med mindre særlige grunner foreligger i det enkelte tilfelle, skal det ikke kreves ny førerprøve som vilkår for gjenerverv av førerrett når tap av førerretten er fastsatt for 6 måneder eller kortere tidsrom. Dette gjelder likevel ikke dersom vedkommende ilegges straff for flere trafikklovbrudd som enkeltvis ikke ville medført tap av førerrett samt i tilfelle som omhandlet i § 2-9, eller det var gitt førerrett på prøve, jf. § 8-4.

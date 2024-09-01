@@ -1,0 +1,4 @@
+# § 2-8. Overlatelsesmedvirkning, jf. vegtrafikkloven § 17 annet ledd
+Blir person med førerrett domfelt for overtredelse av vegtrafikkloven § 17 annet ledd for å ha overlatt bruk av motorvogn til person som er påvirket av alkohol eller annet berusende middel, bør tap av førerrett fastsettes med inntil samme lengde som den tapsperioden som er fastsatt for den aktuelle motorvognfører.
+Tilfellene må undergis en konkret vurdering på grunnlag av hvilken grad av skyld som er utvist ved overtredelsen av vegtrafikkloven § 17 annet ledd.
+Blir eier av motorvogn, eller den som på eierens vegne har rådighet over den, ilagt straff etter vegtrafikkloven § 17 annet ledd for å ha overlatt motorvogn til person som ikke fyller vilkårene for føring av motorvogn av andre grunner enn nevnt i første ledd, og vedkommende under kjøring av motorvognen forårsaker farlige situasjoner eller alvorlige ulykker, bør tap av førerrett fastsettes for minst 1 år.

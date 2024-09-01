@@ -1,0 +1,3 @@
+# § 7-1. Kjøring uten førerrett før utløpet av fastsatt tapsperiode
+Er en enkelt kjøring uten førerrett foretatt i en kort tapsperiode, bør det i samme dom, forelegg eller beslutning om overføring til konfliktråd fastsettes en tilleggsperiode av inntil samme lengde som den opprinnelige. Er tap av førerrett fastsatt for 1 år eller lengre tid, fastsettes tilleggsperioden for 6 måneder eller mer for kjøring uten førerrett en enkelt gang i slutten av perioden eller et par kjøringer i begynnelsen av denne. Flere kjøringer uten førerrett bør normalt medføre til dels betydelig lengre tillegg av tap av førerrett enn 6 måneder.
+En tilleggsperiode løper fra utløpet av den opprinnelige tapsperioden og fastsettes med hjemmel i vegtrafikkloven § 33 nr. 1 første ledd.

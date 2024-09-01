@@ -1,0 +1,2 @@
+# § 3-5. Føring i påvirket tilstand i forbindelse med manglende edruelighet
+Dersom kjøringen i påvirket tilstand antas å ha sammenheng med mangel på alminnelig edruelighet, slik at vedkommende ikke kan anses skikket til å føre motorvogn, bør det overveies om tap av førerrett skal fastsettes til å gjelde for alltid, selv om overtredelsen isolert sett ikke kvalifiserer til en så streng reaksjon, jf. vegtrafikkloven § 34 femte ledd.
