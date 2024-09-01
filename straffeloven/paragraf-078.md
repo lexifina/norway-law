@@ -1,6 +1,6 @@
 # § 78. Formildende omstendigheter
 Ved straffutmålingen skal det i formildende retning især tas i betraktning at:
-a) det foreligger en situasjon eller tilstand som nevnt i § 80 bokstav b, c, d, e, i eller j,
+a) det foreligger en situasjon eller tilstand som nevnt i § 80 bokstav b, c, d, e, h eller i,
 b) lovbryteren har forebygget, gjenopprettet eller begrenset skaden eller velferdstapet voldt ved lovbruddet, eller søkt å gjøre det,
 c) lovbruddet i betydelig grad er foranlediget av den skadelidtes forhold,
 d) lovbryteren på handlingstidspunktet har redusert virkelighetsforståelse på grunn av avvikende sinnstilstand, lettere psykisk utviklingshemming, bevissthetsforstyrrelse eller en sterk sinnsbevegelse,

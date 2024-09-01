@@ -3,7 +3,7 @@ Retten kan sette følgende vilkår ved prøveløslatelse:
 a) vilkår som ved betinget dom, jf. §§ 35-37,
 b) vilkår om at den prøveløslatte skal følges opp av kriminalomsorgen, eller
 c) vilkår om at den prøveløslatte skal ha opphold i institusjon eller kommunal boenhet ut over ettårsfristen i § 37 bokstav h. Slikt vilkår kan bare settes dersom særlige grunner tilsier det og institusjonen eller kommunen har samtykket. Retten kan bestemme at den prøveløslatte skal kunne holdes tilbake i institusjonen eller den kommunale boenheten mot sin vilje og hentes tilbake ved unnvikelse, om nødvendig med tvang og med bistand fra offentlig myndighet.
-Kriminalomsorgen kan ved prøveløslatelse sette vilkår som nevnt i første ledd bokstav a og b, unntatt slike vilkår som nevnt i § 37 bokstav j (andre særvilkår som retten finner hensiktsmessig).
+Kriminalomsorgen kan ved prøveløslatelse sette vilkår som nevnt i første ledd bokstav a og b, unntatt slike vilkår som nevnt i § 37 bokstav k (andre særvilkår som retten finner hensiktsmessig).
 Når det er fastsatt vilkår om at den prøveløslatte skal følges opp av kriminalomsorgen, kan tiltak etter straffegjennomføringsloven § 56 iverksettes.
 Den domfelte skal få uttale seg om vilkårene. Det samme gjelder kriminalomsorgen når vilkårene fastsettes av retten.
 Om endring av fastsatte vilkår og forlengelse av prøvetid gjelder § 39 første ledd tilsvarende.
