@@ -1,0 +1,2 @@
+# § 3-12. Føring av moped eller liten elektrisk motorvogn i påvirket tilstand
+Blir fører av moped eller liten elektrisk motorvogn ilagt straff for føring av moped eller liten elektrisk motorvogn i påvirket tilstand, fastsettes tapsperioden etter bestemmelsene i dette kapittelet, hvor det i formildende retning legges vekt på at føringen fant sted med moped eller liten elektrisk motorvogn. Det skal også legges vekt på om føringen fant sted med lav konsentrasjon av alkohol eller annet berusende eller bedøvende middel og over kort kjørestrekning.

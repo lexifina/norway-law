@@ -1,0 +1,4 @@
+# § 2-7. Andre grunnlag for tap av førerrett
+1) Unnlatelse av å stoppe for kontroll, jf. vegtrafikkloven § 10 Er person med førerrett ilagt straff i medhold av vegtrafikkloven § 10 for ikke å ha stanset kjøretøy etter pålegg, bør tap av førerrett fastsettes for minst 3 måneder.
+2) Plikter ved trafikkuhell, jf. vegtrafikkloven § 12 Har person med førerrett vært innblandet i trafikkuhell og er ilagt straff i medhold av vegtrafikkloven § 12 for ikke å ha oppgitt korrekt navn og adresse, bør tap av førerrett fastsettes for minst 6 måneder.
+3) Piratdrosjekjøring Blir person med førerrett ilagt straff for overtredelse av yrkestransportloven § 9, og det av sakens opplysninger fremgår at den ulovlige virksomheten har vært drevet i ervervsmessig øyemed, bør tap av førerretten fastsettes til minst 6 måneder. I grove tilfeller bør tap av førerretten fastsettes til minst 12 måneder.

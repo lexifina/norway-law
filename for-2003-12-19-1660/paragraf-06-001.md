@@ -1,0 +1,3 @@
+# § 6-1. Unnlatelse av å yte hjelp til skadet person
+Har person med førerrett, ved bruk av motorvogn, voldt eller medvirket til trafikkuhell og blir ilagt straff for å ha unnlatt å yte hjelp til noen som kom til skade ved uhellet, jf. vegtrafikkloven § 12, skal retten til å føre førerkortpliktig motorvogn fratas for alltid.
+Førerretten kan fratas for kortere tid enn for alltid, dersom det foreligger særdeles formildende omstendigheter, jf. § 1-5 og vegtrafikkloven § 33 nr. 1 sjette ledd. Det foretas en totalvurdering med vekt bl.a. på graden av utvist skyld, skadelidtes medvirkning til uhellet, omfanget av skaden og om vedkommende kort tid etter uhellet ga melding til politiet om dette.

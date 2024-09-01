@@ -1,0 +1,2 @@
+# § 8-5. Tap av førerrett for alltid, gjenerverv
+Når tap av førerrett er fastsatt til å gjelde for alltid i medhold av vegtrafikkloven § 33 nr. 1 første ledd som følge av overtredelse av trafikale adferdsregler, og gjenerverv etter utløpt tapsperiode er aktuelt, skal ny førerprøve avlegges som vilkår for gjenerverv av førerretten. Retten skal i disse tilfelle ikke fastsette særskilt pålegg om ny førerprøve.

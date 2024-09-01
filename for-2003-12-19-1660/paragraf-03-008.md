@@ -1,0 +1,3 @@
+# § 3-8. Samtidig pådømmelse av to eller flere kjøringer i påvirket tilstand
+Blir person med førerrett i samme dom ilagt straff for to eller flere tilfeller av føring av motorvogn i påvirket tilstand, fastsettes tap av førerrett i medhold av vegtrafikkloven § 33 nr. 1 annet ledd. Tapsperioden bør fastsettes fra 3 til 5 år. Unntaksvis fastsettes tapsperioden for kortere tid enn 3 år, dersom vedkommende, uten å ha vært pågrepet og uten nytt inntak av rusmidler, foretok annen kjøring kort tid etter første kjøring, og det ellers ikke foreligger skjerpende omstendigheter.
+Dreier det seg om to middels grove tilfelle av kjøring i påvirket tilstand, hvor domfelte ble pågrepet etter første kjøring, bør tap av førerrett fastsettes til 4 år.

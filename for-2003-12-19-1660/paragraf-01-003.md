@@ -1,0 +1,2 @@
+# § 1-3. Forholdsmessighet ved fastsettelse av tapsperiodens lengde
+Ved fastsettelsen av perioden for tap av førerrett mv. skal det legges vekt på den virkningen tap av førerretten antas å ville få for innehaveren, såfremt virkningen fremstår som vesentlig mer byrdefull enn det som normalt kan påregnes. Avgjørende ved vurderingen er likevel hensynet til trafikksikkerheten og eventuelle allmenne hensyn.

@@ -1,0 +1,2 @@
+# § 3-3. Vegtrafikkloven § 33 nr. 1 tredje ledd – gjentatt kjøring i påvirket tilstand innen 5 år
+Er rettighetshaveren tidligere ilagt straff for overtredelse av vegtrafikkloven § 22 jf. § 31 og han blir ilagt straff for ny kjøring i påvirket tilstand som er begått senest 5 år etter at reaksjonen ble fastsatt for den tidligere overtredelsen, skal tap av førerretten fastsettes for alltid. Dette gjelder likevel ikke for overtredelser som nevnt i § 31 annet ledd bokstav a.
