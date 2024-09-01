@@ -1,0 +1,2 @@
+# § 9c. Tillatelse til handlinger som ellers ville utløst alarmen ved elektronisk kontroll
+Dersom vektige grunner tilsier det, kan ungdomskoordinator gi tillatelse til handlinger som ellers ville utløst alarmen, herunder opphold innenfor en forbudssone og utenfor en påbudssone. Tillatelsen skal gis for et bestemt formål og et avgrenset tidsrom. Konfliktrådet må informere kriminalomsorgen om hvilke tillatelser som er gitt.

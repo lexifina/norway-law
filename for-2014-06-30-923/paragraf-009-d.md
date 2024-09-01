@@ -1,0 +1,2 @@
+# § 9d. Behandling av brudd på vilkår ilagt av retten etter straffeloven § 52c fjerde og femte ledd
+Dersom ungdommen bryter vilkårene retten har satt etter straffeloven § 52c fjerde og femte ledd, skal ungdomskoordinatoren overføre saken til kriminalomsorgens regionale nivå med innstilling om at saken bringes inn for retten etter konfliktrådsloven § 31 tredje ledd andre alternativ bokstav a til c. Dersom bruddet er bagatellmessig, kan ungdomskoordinatoren i stedet for å sende slik innstilling innkalle ungdommen til bruddsamtale.
