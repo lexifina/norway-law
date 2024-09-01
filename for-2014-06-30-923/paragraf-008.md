@@ -1,0 +1,2 @@
+# § 8. Varsel om brudd på avtale
+Dersom en inngått avtale blir brutt og partene ikke blir enige om en ny avtale, skal det gis varsel om bruddet til påtalemyndigheten. Det skal opplyses om hvorfor avtalen er brutt og om andre relevante opplysninger. Partene skal gis anledning til å gi en uttalelse som vedlegges varselet. Konfliktrådet kan også gi uttrykk for sitt syn på hvilke konsekvenser bruddet bør føre til.
