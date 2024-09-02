@@ -1,0 +1,3 @@
+# § 11. Tekniske innretninger
+Tekniske innretninger som brukes i husdyrrommet, skal kontrolleres minst én gang daglig. Ved feil på tekniske innretninger, skal funksjoner som vedrører dyras velferd og hygieniske forhold innen rimelig tid kunne ivaretas ved alternative løsninger. Ved strømbrudd skal det finnes alternative løsninger som sikrer tilstrekkelig luftskifte.
+Mekaniske utluftingsanlegg skal være tilkoblet alarm som varsler om ventilasjonssvikt. Varslingen skal fungere også ved svikt i strømforsyningen. Alarmsystemet skal prøves jevnlig. Kravet til alarmsystem gjelder ikke dersom ventilasjonen er tilstrekkelig selv om det mekaniske anlegget svikter.
