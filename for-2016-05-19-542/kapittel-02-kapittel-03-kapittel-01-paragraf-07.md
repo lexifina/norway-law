@@ -1,0 +1,8 @@
+# Artikkel 7 Unntak fra anvendelsen av de forebyggende helsetiltakene
+1. Som unntak fra artikkel 6 kan en medlemsstat som omhandlet i artikkel 3 tillate ikke-kommersiell forflytning til sitt territorium eller til deler av sitt territorium av hunder som ikke har gjennomgått de forebyggende helsetiltakene, forutsatt at hundene forflyttes direkte fra
+a) territoriet til en annen medlemsstat som omhandlet i artikkel 3 som overholder reglene som ligger til grunn for kategoriseringen fastsatt i artikkel 2 nr. 2, for hele sitt territorium, eller
+b) territoriet eller en del av territoriet til en annen medlemsstat som nevnt i artikkel 3 som overholder reglene som ligger til grunn for kategoriseringen fastsatt i artikkel 2 nr. 3, for hele eller deler av sitt territorium.
+2. Som unntak fra artikkel 6 nr. 2 kan en medlemsstat som omhandlet i artikkel 3 tillate ikke-kommersiell forflytning til sitt territorium eller deler av sitt territorium av hunder som har gjennomgått de forebyggende helsetiltakene fastsatt
+a) i artikkel 6 nr. 3 og artikkel 6 nr. 4 bokstav a) minst to ganger med et mellomrom på høyst 28 dager, og behandlingen deretter er gjentatt med jevne mellomrom på høyst 28 dager,
+b) i artikkel 6 nr. 3 og 4 minst 24 timer før innførselen og høyst 28 dager før de forlot medlemsstaten som omhandlet i artikkel 3, og i så fall skal hundene føres inn i og forlate medlemsstaten gjennom et innreisested som er utpekt av medlemsstaten med henblikk på kontrollene nevnt i artikkel 34 nr. 1 i forordning (EU) nr. 576/2013.
+3. Medlemsstater som omhandlet i artikkel 3 som benytter seg av unntaket fastsatt i nr. 2, skal fastsette vilkårene for kontroll av slike forflytninger og offentliggjøre dem.

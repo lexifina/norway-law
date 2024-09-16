@@ -1,0 +1,2 @@
+# Artikkel 20 Liste over medlemsstater eller deler av medlemsstater nevnt i artikkel 19 nr. 3 bokstav a)
+Kommisjonen kan gjennom en gjennomføringsrettsakt vedta lister over medlemsstater eller deler av medlemsstatenes territorium som følger reglene for kategorisering av medlemsstater eller deler av medlemsstater som nevnt i artikkel 19 nr. 3 bokstav a). Gjennomføringsrettsakten skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 41 nr. 2.

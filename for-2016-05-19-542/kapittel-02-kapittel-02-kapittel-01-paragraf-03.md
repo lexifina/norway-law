@@ -1,0 +1,3 @@
+# Artikkel 3 Standardpass for ikke-kommersiell forflytning av hunder, katter og ildrer
+1. Passet nevnt i artikkel 21 nr. 1 i forordning (EU) nr. 576/2013 skal utarbeides i samsvar med modellen angitt i del 1 i vedlegg III til denne forordning, og skal oppfylle tilleggskravene angitt i del 2 i nevnte vedlegg.
+2. Som unntak fra nr. 1 skal pass som er utstedt, i henhold til artikkel 27 bokstav a) i forordning (EU) nr. 576/2013, på et av territoriene eller i en av tredjestatene oppført i del 1 i vedlegg II til denne forordning, utarbeides i samsvar med modellen i del 3 i vedlegg III til denne forordning, og skal oppfylle tilleggskravene angitt i del 4 i sistnevnte vedlegg.

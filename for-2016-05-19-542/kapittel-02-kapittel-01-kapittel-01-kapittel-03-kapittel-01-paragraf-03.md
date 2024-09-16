@@ -1,0 +1,6 @@
+# Artikkel 12 Unntak fra vilkåret om titrering av antistoffer for kjæledyr av artene oppført i del A i vedlegg I
+1. Som unntak fra artikkel 10 nr. 1 bokstav c) skal det ikke stilles krav om antistofftitrering for kjæledyr av artene oppført i del A i vedlegg I som forflyttes til en medlemsstat fra et territorium eller en tredjestat oppført i henhold til artikkel 13 nr. 1 eller 2
+a) enten direkte,
+b) etter et opphold utelukkende i ett eller flere av disse territoriene eller tredjestatene, eller
+c) etter transitt gjennom et annet territorium eller en annen tredjestat enn de som er oppført i henhold til artikkel 13 nr. 1 eller 2, forutsatt at eieren eller personen med fullmakt framlegger en skriftlig erklæring om at kjæledyrene under denne transitten ikke hadde noen kontakt med dyr av arter som er mottakelige for rabies og at de er holdt i sikker forvaring om bord på et transportmiddel eller på en internasjonal lufthavns område.
+2. Kommisjonen kan gjennom en gjennomføringsrettsakt vedta regler for formatet, layouten og språkene for erklæringene nevnt i nr. 1 bokstav c) i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 41 nr. 2.

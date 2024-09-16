@@ -1,0 +1,4 @@
+# Artikkel 31 Utstedelse og utfylling av identifikasjonsdokumentet nevnt i artikkel 14 nr. 2 bokstav c)
+Identifikasjonsdokumentet omhandlet i artikkel 14 nr. 2 bokstav c) skal utstedes enten av en offentlig veterinær fra avsenderterritoriet eller avsendertredjestaten på grunnlag av underlagsdokumenter, eller av en autorisert veterinær og deretter påtegnes av avsenderterritoriets eller avsendertredjestatens vedkommende myndighet, etter at utstedende veterinær
+a) har kontrollert at kjæledyret er merket eller beskrevet i samsvar med artikkel 17 nr. 2, og
+b) behørig har utfylt de relevante rubrikkene i identifikasjonsdokumentet med de opplysningene som angis i artikkel 30 nr. 1 bokstav a)–f), og dermed, når det er relevant, bekrefter at vilkårene fastsatt i artikkel 14 nr. 2 bokstav a) og bokstav b), er oppfylt.

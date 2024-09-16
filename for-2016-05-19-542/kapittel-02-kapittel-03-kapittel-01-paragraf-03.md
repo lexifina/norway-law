@@ -1,0 +1,3 @@
+# Artikkel 3 Rett til å anvende forebyggende helsetiltak
+1. Etter å ha gjennomgått en medlemsstats søknad i samsvar med artikkel 2 nr. 1 skal Kommisjonen fastslå om medlemsstaten med hensyn til hele eller deler av sitt territorium overholder reglene som ligger til grunn for kategoriseringen, og skal i så fall føre opp medlemsstaten eller de aktuelle delene av dens territorium på den relevante listen som skal opprettes i samsvar med framgangsmåten i artikkel 20 i forordning (EU) nr. 576/2013.
+2. En medlemsstat eller de delene av den som er oppført på listen nevnt i nr. 1, har rett til å anvende de forebyggende helsetiltakene fastsatt i denne forordning.

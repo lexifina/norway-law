@@ -1,0 +1,5 @@
+# Artikkel 33 Dokument- og identitetskontroll som skal foretas ved ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat eller et territorium eller en tredjestat oppført på listen i henhold til artikkel 13 nr. 1 og artikkel 15
+1. Uten at artikkel 16 berøres, og for å kontrollere samsvar med kapittel II, skal medlemsstatene foreta dokument- og identitetskontroll på en likebehandlende måte av kjæledyr som er gjenstand for ikke-kommersiell forflytning til deres territorium fra en annen medlemsstat eller fra et territorium eller en tredjestat oppført i henhold til artikkel 13 nr. 1 og eventuelt artikkel 15.
+2. Ved enhver ikke-kommersiell forflytning til en medlemsstat fra en annen medlemsstat eller et territorium eller en tredjestat oppført i henhold til artikkel 13 nr. 1 og, eventuelt, artikkel 15, skal eieren eller personen med fullmakt på anmodning fra vedkommende myndighet med ansvar for kontrollene i nr. 1 i denne artikkel
+a) framvise kjæledyrets identifikasjonsdokument, slik det kreves i henhold til denne forordning, som viser samsvar med kravene til slik forflytning, og
+b) stille kjæledyret til rådighet for denne kontrollen.

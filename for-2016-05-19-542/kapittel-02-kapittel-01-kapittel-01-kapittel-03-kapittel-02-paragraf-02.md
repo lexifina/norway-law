@@ -1,0 +1,2 @@
+# Artikkel 15 Utarbeiding av en liste over territorier og tredjestater
+Kommisjonen kan gjennom en gjennomføringsrettsakt vedta en liste over territorier og tredjestater som har vist at de for kjæledyr av artene oppført i del B i vedlegg I anvender regler med samme innhold og virkning som reglene fastsatt i avsnitt 2 i kapittel II, i dette avsnitt og i avsnitt 2 i kapittel VI samt eventuelle regler som er vedtatt i henhold til disse reglene.

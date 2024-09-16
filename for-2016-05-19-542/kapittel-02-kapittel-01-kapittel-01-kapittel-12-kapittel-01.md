@@ -1,0 +1,4 @@
+# Uttalelse fra kommisjonen
+Innenfor rammen av Den europeiske unions strategi for dyrevern og dyrs velferd vil Kommisjonen undersøke hunders og katters velferd når de er gjenstand for handel.
+Dersom resultatene av undersøkelsen viser at denne handelspraksisen medfører helserisikoer, vil Kommisjonen vurdere hensiktsmessige alternativer for å beskytte menneskers og dyrs helse, herunder å foreslå for Europaparlamentet og Rådet hensiktsmessige tilpasninger av gjeldende regelverk i Unionen for handel med hunder og katter, herunder innføring av kompatible systemer for registering av hunder og katter som er tilgjengelig på tvers av medlemsstatene.
+På bakgrunn av dette vil Kommisjonen vurdere om det er gjennomførbart og hensiktsmessig å utvide slike registreringssystemer til hunder og katter som er merket og identifisert i samsvar med Unions regelverk for ikke-kommersiell forflytning av kjæledyr.
