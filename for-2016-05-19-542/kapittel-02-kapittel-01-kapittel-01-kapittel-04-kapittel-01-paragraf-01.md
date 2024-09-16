@@ -1,0 +1,5 @@
+# Artikkel 17 Merking av kjæledyr
+1. Kjæledyr av artene oppført i del A i vedlegg I skal merkes ved implantering av en signalgiver eller ved en lett leselig tatovering påført før 3. juli 2011.
+Når signalgiveren nevnt i første ledd ikke oppfyller de tekniske kravene i vedlegg II, skal eieren eller personen med fullmakt stille til rådighet alt utstyr som er nødvendig for å avlese signalgiveren på tidspunktet for kontroller av merkingen fastsatt i artikkel 22 nr. 1 og 2 og artikkel 26 samt identitetskontrollene fastsatt i artikkel 33 og artikkel 34 nr. 1.
+2. Kjæledyr av artene oppført i del B i vedlegg I skal merkes eller beskrives idet det tas hensyn til hver arts særtrekk, på en slik måte at det sikres en forbindelse mellom kjæledyret og det tilhørende identifikasjonsdokumentet.
+Med henblikk på mangfoldet av arter oppført del B i vedlegg I skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 39 om slike artsspesifikke krav til merking eller beskrivelse av kjæledyr av disse artene, idet det tas hensyn til relevante nasjonale krav.

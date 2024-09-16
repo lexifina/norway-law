@@ -1,0 +1,3 @@
+# Artikkel 1 Kravene til format, layout og språk for erklæringene nevnt i artikkel 7, 11 og 12 i forordning (EU) nr. 576/2013
+1. Erklæringene nevnt i artikkel 7 nr. 2 bokstav a) og artikkel 11 nr. 2 i forordning (EU) nr. 576/2013 skal utarbeides i samsvar med formatet og layouten angitt i del 1 i vedlegg I til denne forordning, og skal oppfylle språkkravene angitt i del 3 i nevnte vedlegg.
+2. Erklæringene nevnt i artikkel 12 nr. 1 bokstav c) i forordning (EU) nr. 576/2013 skal utarbeides i samsvar med formatet og layouten angitt i del 2 i vedlegg I til denne forordning, og skal oppfylle språkkravene angitt i del 3 i nevnte vedlegg.

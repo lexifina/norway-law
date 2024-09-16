@@ -1,0 +1,9 @@
+# Del 2 Forklarende merknader til utfylling av helsesertifikatene
+a) Dersom det i sertifikatet er angitt at visse ikke relevante erklæringer skal strykes, kan erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren, eller slettes helt fra sertifikatet.
+b) Originalen av hvert sertifikat skal bestå av ett enkelt ark, eller dersom det er behov for mer tekst, være utformet slik at alle nødvendige ark utgjør en del av et integrert hele og ikke kan deles opp.
+c) Erklæringene skal utarbeides på minst ett av de offisielle språkene i innførselsmedlemsstaten og på engelsk. Den skal utfylles med blokkbokstaver på minst ett av de offisielle språkene i innførselsmedlemsstaten og på engelsk.
+d) Dersom sertifikatet vedheftes flere ark eller støttedokumenter, skal disse arkene eller dokumentene også betraktes som en del av originalsertifikatet, ved at hver side påføres den offentlige veterinærens underskrift og stempel.
+e) Dersom sertifikatet, herunder tilleggsark som nevnt i bokstav d), består av mer enn én side, skal hver side være nummerert (sidetall av samlet sideantall) nederst, og øverst på hver side være påført sertifikatets referansenummer som er tildelt av vedkommende myndighet.
+f) Originalen av sertifikatet skal utstedes av en offentlig veterinær fra avsenderterritoriet eller avsendertredjestaten eller av en autorisert veterinær, og deretter påtegnes av avsenderterritoriets eller avsendertredjestatens vedkommende myndighet. Avsenderterritoriets eller avsendertredjestatens vedkommende myndighet skal påse at reglene og prinsippene for sertifisering som tilsvarer dem som er fastsatt i direktiv 96/93/EF, følges.
+Underskriften skal være i en annen farge enn den trykte teksten. Dette gjelder også for stempler, unntatt pregestempler og vannmerker.
+g) Sertifikatreferansenummeret nevnt i felt I.2 og II.a skal utstedes av avsenderterritoriets eller avsendertredjestatens vedkommende myndighet.

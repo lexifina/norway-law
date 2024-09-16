@@ -1,0 +1,15 @@
+# Artikkel 6 Forebyggende helsetiltak
+1. Eieren eller personen med fullmakt som definert i artikkel 3 bokstav c) og d) i forordning (EU) nr. 576/2013 skal sikre at hunder som forflyttes til territoriet eller til deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning, har gjennomgått en behandling mot kjønnsmodne og ikke kjønnsmodne, tarmlevende former av parasitten Echinococcus multilocularis.
+2. Behandlingen nevnt i nr. 1 skal gjennomføres høyst 120 timer og minst 24 timer før det planlagte tidspunktet for innførsel av hunden til denne medlemsstatens territorium eller til deler av det, i samsvar med nr. 3 og 4 i denne artikkel.
+3. Behandlingen nevnt i nr. 1 skal bestå i at en veterinær gir dyret et veterinærpreparat
+a) som inneholder en passende dose
+i) praziqvantel eller
+ii. andre farmakologisk aktive stoffer som alene eller i kombinasjon har vist seg å redusere angrepet av kjønnsmodne og ikke kjønnsmodne, tarmlevende former av parasitten Echinococcus multilocularis hos hunder minst like effektivt som praziqvantel, og
+b) som er tildelt
+i) en markedsføringstillatelse i samsvar med artikkel 5 i europaparlaments- og rådsdirektiv 2001/82/EF eller artikkel 3 i europaparlaments- og rådsforordning (EF) nr. 726/2004, eller
+ii. en godkjenning eller lisens fra vedkommende myndighet i avsendertredjestaten til hunden som skal forflyttes for ikke-kommersielle formål.
+4. Behandlingen fastsatt i nr. 1 skal attesteres av
+a) den behandlende veterinæren, i det relevante avsnittet av det passet som er utarbeidet i samsvar med malen angitt i
+i) del 1 i vedlegg III til Kommisjonens gjennomføringsforordning (EU) nr. 577/2013 når det gjelder ikke-kommersiell forflytning av hunder til territoriet eller deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning fra en annen medlemsstat, eller innførsel til en medlemsstat etter forflytning til eller transitt gjennom et territorium eller en tredjestat fra en medlemsstat, i samsvar med artikkel 27 bokstav b) i forordning (EU) nr. 576/2013, eller
+ii. del 3 i vedlegg III til gjennomføringsforordning (EU) nr. 577/2013 når det gjelder ikke-kommersiell forflytning av hunder til territoriet eller deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning fra et territorium eller en tredjestat oppført i del 1 i vedlegg II til nevnte gjennomføringsforordning, eller
+b) en offentlig veterinær på opprinnelsesterritoriet eller i opprinnelsestredjestaten, eller av en godkjent veterinær og deretter påtegnet av vedkommende myndighet på opprinnelsesterritoriet eller i opprinnelsestredjestaten, i det relevante avsnittet av det helsesertifikatet som er utarbeidet i samsvar med malen angitt i del 1 i vedlegg IV til gjennomføringsforordning (EU) nr. 577/2013, når det gjelder ikke-kommersiell forflytning av hunder til territoriet eller deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning fra et annet territorium eller en annen tredjestat enn de som er oppført i del 1 i vedlegg II til nevnte gjennomføringsforordning.

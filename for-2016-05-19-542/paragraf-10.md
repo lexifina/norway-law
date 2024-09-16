@@ -1,0 +1,2 @@
+# § 9. Utfyllende nasjonale bestemmelser om kontroll med forflytning av kjæledyr fra tredjestater
+Ikke-kommersiell forflytning til Norge av kjæledyr fra andre tredjestater eller territorier enn de som er oppført på listen i § 3, jf. forordning (EU) nr. 577/2013 vedlegg II del 1, skal skje over Oslo Lufthavn eller Storskog. Ikke-kommersiell forflytning av kjæledyr fra Svalbard kan i tillegg skje over Tromsø Lufthavn, Tromsø Havn og Bodø Havn.

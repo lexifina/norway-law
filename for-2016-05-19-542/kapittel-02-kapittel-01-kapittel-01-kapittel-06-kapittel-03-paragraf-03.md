@@ -1,0 +1,3 @@
+# Artikkel 40 Framgangsmåte for behandling av hastesaker
+1. Delegerte rettsakter som vedtas i henhold til denne artikkel, trer i kraft umiddelbart og får anvendelse så lenge det ikke gjøres innsigelse i samsvar med nr. 2. I meldingen til Europaparlamentet og Rådet om en delegert rettsakt skal det grunngis hvorfor framgangsmåten for behandling av hastesaker er anvendt.
+2. Europaparlamentet eller Rådet kan gjøre innsigelse mot en delegert rettsakt etter framgangsmåten i artikkel 39 nr. 5. I så fall skal Kommisjonen snarest oppheve rettsakten etter at Europaparlamentet og Rådet har underrettet om beslutningen om innsigelse.
