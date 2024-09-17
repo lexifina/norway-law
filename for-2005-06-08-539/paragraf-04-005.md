@@ -1,0 +1,4 @@
+# § 4-5. Betalingsfrist
+Løpende gebyr betales til Helsedirektoratet innen utløpet av oppgavefristen, jf. § 4-4. Alternativt kan bevillingshaver betale gebyret forskuddsvis til Helsedirektoratet for ett år av gangen på grunnlag av forventet omsatt mengde tilvirket alkoholholdig drikk. Dersom gebyret betales forskuddsvis skal Helsedirektoratet ved årets slutt beregne avvik mellom forventet og faktisk omsetning og det skal foretas etteroppgjør.
+Helsedirektoratet kan sette kortere gebyrperiode ved forsinkelse av oppgave eller betaling, eller dersom det er opplysninger om virksomhetens forhold som gjør det overveiende sannsynlig at innbetalingen ikke vil skje rettidig.
+Minstegebyret betales forskuddsvis til Helsedirektoratet når bevillingen tas i bruk, og deretter innen 1. februar de påfølgende år.
