@@ -1,0 +1,3 @@
+# § 6. Utgifter
+Utgifter som påløper ved tiltak etter barnevernsloven og som iverksettes på Svalbard dekkes av Sysselmesteren eller den som er tillagt myndighet etter § 3 første ledd. Det ytes statsrefusjon for dekning av utgifter til tiltak som iverksettes på fastlandet. Før slikt krav fremmes, må eventuell mulighet til hel eller delvis refusjon etter loven § 15-12 være utnyttet.
+Alle krav om refusjon skal fremmes for Statsforvalteren i Troms og Finnmark. Refusjonskrav fremmes så snart som mulig. Krav om refusjon fra fjerde kvartal året før, samt krav fra årets tre første kvartal, fremsettes innen 1. desember i inneværende år.
