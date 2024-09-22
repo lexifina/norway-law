@@ -1,0 +1,3 @@
+# § 19. Oppbygging av norske identifikasjonskoder
+I norske identifikasjonskoder til storfe, sauer eller geiter, skal nummeret etter landskoden bestå av dyreholds-ID til den driftsansvarlige på anlegget der dyret skal identifiseres etterfulgt av et individnummer som tildeles av Mattilsynet ved bestilling av identifikasjonsmerker. Det første sifferet i individnummeret til sauer eller geiter skal være det siste sifferet i årstallet dyret er født.
+I norske identifikasjonskoder til dyr av kamelfamilien eller hjortedyr, unntatt rein, skal nummeret etter landskoden bestå av det unike registreringsnummeret til anlegget der dyrene skal identifiseres etterfulgt av et individnummer som tildeles av Mattilsynet ved bestilling av identifikasjonsmerker.

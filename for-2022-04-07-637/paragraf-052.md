@@ -1,0 +1,4 @@
+# § 52. Maksimalsatser for identifikasjon og registrering av hestedyr
+For utstedelse og utlevering av et identifikasjonsdokument, et duplikat av identifikasjonsdokumentet eller en erstatning av identifikasjonsdokumentet, med registrering av identifikasjonsopplysninger om hestedyret i det nasjonale hesteregisteret, kan organet med delegerte oppgaver kreve en godtgjørelse på maksimum kr 1595.
+For registrering av identifikasjonsopplysninger om hestedyret i det nasjonale hesteregisteret alene, kan organet med delegerte oppgaver kreve en godtgjørelse på maksimum kr 800.
+Godtgjørelsen omhandlet i første ledd skal inkludere porto for forsendelser fra organet, signalgiveren dyret om nødvendig skal injiseres med, eventuelle midlertidige identifikasjonsdokumenter til dyret, samt oppdatering av identifikasjonsdokumentet og identifikasjonsopplysninger om hestedyret i det nasjonale hesteregisteret i hele dyrets levetid.

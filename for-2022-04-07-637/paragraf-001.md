@@ -1,0 +1,2 @@
+# § 1. Saklig virkeområde
+Forskriften utfyller bestemmelsene i forskrift 6. april 2022 nr. 631 om dyrehelse, som gjennomfører forordning (EU) 2016/429 ved å gi utfyllende bestemmelser om registrering, sertifisering og godkjenning av rugerier, anlegg med landdyr, forsyningskjeder, transportører av landdyr og driftsansvarlige som driver oppsamling av landdyr uavhengig av anlegg. Forskriften omfatter også bestemmelser om journalføring og sporbarhet av landdyr og rugeegg.

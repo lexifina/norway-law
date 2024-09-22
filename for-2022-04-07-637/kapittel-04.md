@@ -1,0 +1,1 @@
+# Kapittel IV. Utfyllende nasjonale bestemmelser om identifikasjon og merking av storfe, sauer, geiter, svin, dyr av kamelfamilien, hjortedyr, hunder, katter, ildere, fugler av papegøyefamilien og honningbier

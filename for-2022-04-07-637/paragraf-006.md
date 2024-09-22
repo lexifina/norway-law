@@ -1,0 +1,2 @@
+# § 6. Krav til identifikasjon og registrering av hestedyr
+EØS avtalens vedlegg I kapittel I del 4.1. nr. 3b (forordning (EU) 2021/963) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2016/429, (EU) 2016/1012 og (EU) 2019/6 med hensyn til identifikasjon og registrering av hestedyr og om fastsettelse av maler for identifikasjonsdokumenter for disse dyrene gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

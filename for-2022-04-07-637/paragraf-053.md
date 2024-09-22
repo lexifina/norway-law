@@ -1,0 +1,2 @@
+# § 53. Klage på vedtak fattet av organ med delegerte oppgaver
+Enkeltvedtak fattet av organ med delegerte oppgaver kan påklages til Mattilsynet ved Hovedkontoret, jf. lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) kapittel VI. Klagen sendes til det organet som fattet vedtaket. Dersom vedtaksorganet ønsker å opprettholde vedtaket, oversendes klagen med en begrunnet innstilling til klageinstansen.

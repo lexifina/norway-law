@@ -1,0 +1,3 @@
+# § 46. Registrering i nasjonalt hesteregister ved bytte av anlegg der hestedyr vanligvis holdes
+Innen 7 dager etter bytte av anlegg som skal regnes som anlegget der et hestedyr vanligvis holdes, skal den driftsansvarlige på det nye anlegget sørge at opplysningene om hestedyret i det nasjonale hesteregisteret blir oppdatert med det nye anleggets registreringsnummer.
+Bestemmelsen i første ledd gjelder ikke dersom det nye anlegget ligger i utlandet. I slike tilfeller skal den driftsansvarlige på det siste anlegget i Norge der dyret vanligvis ble holdt, sørge for at opplysningene om hestedyret i det nasjonale hesteregisteret blir oppdatert med opplysning om at det nye anlegget ligger i utlandet innen 7 dager etter at hestedyret forlot landet.
