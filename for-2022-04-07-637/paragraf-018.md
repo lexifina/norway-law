@@ -1,0 +1,4 @@
+# § 18. Godkjenning og bestilling av identifikasjonsmerker
+Produsenter eller leverandører av identifikasjonsmerker til storfe, sauer, geiter, svin, dyr av kamelfamilien eller hjortedyr, skal søke Mattilsynet om godkjenning av merkene i samsvar med de framgangsmåter Mattilsynet fastsetter. Det samme gjelder produsenter eller leverandører av injiserbare signalgivere til fugler av papegøyefamilien.
+Injiserbare signalgivere til hunder, katter eller ildere, anses som godkjent dersom de oppfyller de tekniske kravene til signalgivere i del 2 nr. 2 i vedlegg II til forordning (EU) 2021/520, som er gjennomført i § 5.
+Driftsansvarlige for storfe, sauer, geiter, svin eller dyr av kamelfamilien eller hjortedyr, skal bestille identifikasjonsmerker til sine anlegg i samsvar med de framgangsmåter Mattilsynet fastsetter.

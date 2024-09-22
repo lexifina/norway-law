@@ -1,0 +1,2 @@
+# § 5. Krav til identifikasjon og registrering av storfe, svin, sauer, geiter, dyr av kamelfamilien, hjortedyr og fugler av papegøyefamilien
+EØS avtalens vedlegg I kapittel I del 1.1 nr. 13q (forordning (EU) 2021/520 som endret ved forordning (EU) 2021/1064) om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til sporing av visse holdte landdyr gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

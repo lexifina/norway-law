@@ -1,0 +1,4 @@
+# § 39. Frister for registrering
+Den driftsansvarlige skal oversende opplysningene om fødsel av storfe på anlegget til Mattilsynets elektroniske database innen 7 dager etter at dyret er identifisert. Den samme fristen gjelder for oversending av opplysninger om dyrets nye identifikasjonskode dersom dyret blir identifisert med et nytt elektronisk identifikasjonsmerke med ny identifikasjonskode i samsvar med artikkel 19 nr. 4 i forordning (EU) 2021/520, som er gjennomført i § 5.
+Den driftsansvarlige skal oversende opplysningene om dødsfall av storfe på anlegget, til Mattilsynets elektroniske database innen 7 dager etter at hendelsen fant sted.
+Den driftsansvarlige skal oversende opplysningene om forflytning av storfe, sauer, geiter eller svin til eller fra anlegget til Mattilsynets elektroniske database innen 7 dager etter at hendelsen fant sted.

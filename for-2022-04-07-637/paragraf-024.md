@@ -1,0 +1,2 @@
+# § 24. Fritak fra elektronisk identifikasjon av geiter
+For geiter, som ikke skal flyttes direkte til et slakteri før de er 12 måneder gamle, kan den driftsansvarlige velge å bruke et godkjent konvensjonelt øre- eller fotmerke istedenfor det elektroniske identifikasjonsmerket, som skal påsettes dyret i anlegget dyret er født eller importert til fra en tredjestat. Vilkåret for dette er likevel at dyrene ikke skal flyttes til en annen EØS-stat.
