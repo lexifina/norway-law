@@ -1,0 +1,5 @@
+# § 2-4. Krav til bedriftshelsetjenestens bistand
+Bedriftshelsetjenesten plikter å innrette sin bistand til virksomheten med utgangspunkt i de risikoforhold i virksomheten som har utløst plikt til bedriftshelsetjeneste. Bedriftshelsetjenestens samlede bistand skal ha fokus på det forebyggende arbeidshelse-, arbeidsmiljø- og sikkerhetsarbeidet.
+Bedriftshelsetjenestens bistand skal være i samsvar med forskrift om organisering, ledelse og medvirkning § 13-2 og § 13-3. Bedriftshelsetjenesten skal herunder bistå arbeidsgiver med de forhold som er listet opp i § 13-2 a–h, og i samarbeid med arbeidsgiver bistå med å utarbeide den dokumentasjonen som følger av § 13-3 a–c.
+Bedriftshelsetjenesten skal kunne dokumentere at den bistand som er gitt oppfyller ovennevnte krav, herunder dokumentere hvordan de prioriterer bistanden rettet mot det forebyggende risikobaserte arbeidet i virksomhetene.
+Tjenester utover det som følger av første, andre og tredje ledd utgjør tilleggstjenester og må skilles ut som dette. Omfanget av tilleggstjenester skal dokumenteres i skriftlige beskrivelser av leveranser, eventuelt også i kontrakter og fakturaer.
