@@ -1,0 +1,4 @@
+# § 3-3. Retting av feil i registeret
+(1) Dersom en innføring i registeret er uriktig eller det på annen måte er gjort feil i forbindelse med registreringen, skal feilen rettes. Registreringspliktig skal underrettes om hvordan feilen vil bli rettet. Registreringspliktig skal varsle de reelle rettighetshaverne som omfattes av rettingen.
+(2) Dersom det er uklart hvordan feilen skal rettes, eller den av andre grunner ikke kan rettes uten ny melding fra den registreringspliktige, kan registerføreren ta inn en opplysning om feilen i registeret. Det skal samtidig gis pålegg om retting etter lov om register over reelle rettighetshavere § 14.
+(3) Reell rettighetshaver kan varsle registerfører om feil i registeret dersom vedkommende mener det er registrert uriktige opplysninger om seg selv, og vedkommende har varslet registreringspliktig om dette, uten at opplysningen har blitt korrigert. § 3-10 fjerde ledd gjelder tilsvarende.

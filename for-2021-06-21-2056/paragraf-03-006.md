@@ -1,0 +1,2 @@
+# § 3-6. Registrering av opplysninger om norskregistrerte utenlandske foretak (NUF-er)
+Dersom et norskregistrert utenlandsk foretak har opplysninger om reelle rettighetshavere registrert i et register i utlandet, kan foretaket unnlate å registrere opplysninger om reelle rettighetshavere etter § 3-4 eller § 3-5. Foretaket skal registrere navn og internettadresse til registeret der reelle rettighetshavere er registrert. Unntaket her gjelder bare dersom det utenlandske foretaket er underlagt plikt til å registrere opplysninger om reelle rettighetshavere i en annen EØS-stat.
