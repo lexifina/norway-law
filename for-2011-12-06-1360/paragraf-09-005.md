@@ -1,0 +1,4 @@
+# § 9-5. Krav til borger fra land utenfor EØS-området eller Sveits som skal arbeide under vann eller økt omgivende trykk
+Arbeidstilsynet skal gi tillatelse til borger fra land utenfor EØS-området eller Sveits som søker etter forskrift om utførelse av arbeid § 26-24. Søknad om slik tillatelse skal dokumentere kvalifikasjonene for dykking, herunder hvilken institusjon som har foretatt opplæringen, hvilket opplæringsprogram som er fulgt og godkjenningen el. som er utstedt av offentlig myndighet i landet søkeren kommer fra.
+Det skal fremlegges gyldig helseerklæring som ikke er mer enn tre måneder gammel ved fremleggelsen.
+Søknaden og dokumentasjonen må foreligge på norsk eller engelsk. Hvis dokumentasjonen ikke foreligger på norsk eller engelsk, skal søkerne fremlegge en bekreftet oversettelse av dokumentasjonen.
