@@ -1,0 +1,5 @@
+# § 3-7. Kontroll av registrerte opplysninger
+(1) Registerfører skal prøve om innsendte opplysninger er i samsvar med reglene i lov om register over reelle rettighetshavere og forskriften her. Dersom ikke alle påkrevde opplysninger er sendt inn, skal registrering nektes. Det skal fremgå av registeret hvilke registreringspliktige som ikke har registrert opplysninger om reelle rettighetshavere.
+(2) Registerfører kan kontrollere riktigheten av opplysninger om reelle rettighetshavere. Kontroll kan utføres av eget tiltak eller etter opplysninger fra andre.
+(3) I forbindelse med kontroll etter annet ledd kan registerfører innhente opplysninger fra andre offentlige myndigheter. Registerfører kan videre pålegge den registreringspliktige å gi nødvendige opplysninger og dokumentasjon av opplysningene om reelle rettighetshavere og den registreringspliktiges vurderinger vedrørende spørsmålet om hvem som er reelle rettighetshavere.
+(4) Manglende oppfyllelse av pålegg kan medføre tvangsmulkt, jf. § 5-1.

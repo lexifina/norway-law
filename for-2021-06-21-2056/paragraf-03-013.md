@@ -1,0 +1,2 @@
+# § 3-13. Avgivelse av opplysninger i forbindelse med maskinell innrapportering
+Dersom det er nødvendig for å legge til rette for registrering av opplysninger gjennom fagsystem, kan registerfører avgi registrerte opplysninger til fagsystemet. Avgivelsen skal kun skje i forbindelse med registrering av opplysninger og kan ikke lagres utover registreringsprosessen eller brukes på annen måte av fagsystemet.

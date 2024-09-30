@@ -1,0 +1,9 @@
+# § 5-1. Fastsettelse og beregning av tvangsmulkt
+(1) Tvangsmulkt ilegges registreringspliktig etter følgende satser:
+a) Et halvt rettsgebyr per dag de første åtte uker.
+b) Ett rettsgebyr per dag de neste ti uker.
+c) Ett og et halvt rettsgebyr per dag påfølgende uker.
+(2) Tvangsmulkt ilegges per dag, og kreves inn etter henholdsvis åtte uker, atten uker, og deretter hver tiende påfølgende uke.
+(3) Tvangsmulkt kan ikke ilegges uten at registerfører har varslet registreringspliktige om manglende overholdelse av meldeplikten, og gitt denne en rimelig frist til å rette forholdet. Særskilt varsel er ikke nødvendig i tilfeller der det følger av pålegget selv at tvangsmulkt vil påløpe ved utløpet av fristen i pålegget.
+(4) Registerfører kan etter søknad helt eller delvis ettergi tvangsmulkt dersom det blir gjort sannsynlig at innsendingsplikten ikke er overholdt som følge av forhold utenfor den registreringspliktiges kontroll, eller dersom særlige rimelighetsgrunner tilsier det. Søknad om ettergivelse av ilagt tvangsmulkt må fremmes innen ett år etter første varsel om ileggelse ble sendt registreringspliktig. Registreringspliktig kan ikke søke om ettergivelse av tvangsmulkt ilagt som følge av manglende overholdelse av fristen i lov om register over reelle rettighetshavere § 9 tredje ledd.
+(5) Dersom grunnlaget for ileggelse av tvangsmulkt ikke er bortfalt etter åtte uker med tvangsmulkt rettet mot registreringspliktig, kan pålegg og tvangsmulkt ilegges personer omfattet av forskriften her § 3-8 bokstav a til g, jf. lov om register over reelle rettighetshavere § 14 første ledd tredje punktum, etter samme satser som for registreringspliktige. Personene i første punktum er solidarisk ansvarlige for tvangsmulkten. Når pålegg og tvangsmulkt er blitt rettet mot personene i første punktum, kan ikke tvangsmulkt påløpe etter at vervet er fratrådt.
