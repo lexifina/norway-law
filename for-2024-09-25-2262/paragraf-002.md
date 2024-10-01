@@ -1,0 +1,2 @@
+# § 2. Virkeområde
+Forskriften gjelder energikartlegging i foretak som driver økonomisk aktivitet i Norge. Dette omfatter alle aktører som hovedsakelig driver økonomisk aktivitet, uavhengig av selskapsform og organisering, og som har en årlig gjennomsnittlig energibruk i Norge på minst 2,5 GWh de siste tre årene. Aktører som driver myndighetsutøvelse regnes ikke som foretak. Med foretakets energibruk forstås energi som foretaket faktureres for og bruker selv, samt egenprodusert energi som foretaket bruker selv.

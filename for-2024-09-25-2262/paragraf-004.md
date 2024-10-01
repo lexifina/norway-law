@@ -1,0 +1,6 @@
+# § 4. Innholdet i energikartleggingen
+Kartleggingen skal gi en beskrivelse av foretakets energibruk i Norge foregående kalenderår, inkludert forbruksprofiler for elektrisitet. Kartleggingen skal som et minimum være inndelt etter drift av bygninger, drift av prosesser og transport og etter energibærere. Områder som er særlig energikrevende skal vektlegges.
+Kartleggingen skal dekke minimum 90 prosent av foretakets energibruk.
+Kartleggingen skal bygge på oppdaterte, målte, sporbare data for energi- og effektbruk, så langt dette er tilgjengelig. Dersom slike data ikke er tilgjengelige, skal energibruken beregnes etter anerkjente standarder og metoder. Data fra tidligere år skal fremgå for å vise den historiske utviklingen.
+Kartleggingen skal identifisere aktuelle energieffektiviseringstiltak og beskrive i hvilken grad tidligere identifiserte tiltak er gjennomført. For hvert tiltak skal lønnsomhet og energi- og effektbesparelse beregnes. Beregningene skal der det er mulig ta hensyn til livssykluskostnader.
+Kartleggingen skal inkludere en vurdering av den tekniske og økonomiske muligheten for tilkobling til eksisterende eller planlagt nett for fjernvarme eller fjernkjøling og identifisere muligheter for utnyttelse av overskuddsvarme og fleksibilitet i forbruket, samt muligheter for kostnadseffektiv produksjon av fornybar energi.
