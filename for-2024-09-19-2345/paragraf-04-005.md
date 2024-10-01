@@ -1,0 +1,3 @@
+# § 4-5. Behandling i skikkethetsnemnda
+(1) Studenten skal varsles i god tid om tidspunktet for møtet og gjøres kjent med sakens opplysninger. Studenten skal ha mulighet til å legge frem sine synspunkter for nemnden før møtet, jf. fagskoleforskriften § 35 (2)
+(2) Skikkethetsnemnda lager en innstilling til fagskolens klagenemnd med en vurdering av hvorvidt studenten er skikket eller ikke, om studenten bør utestenges helt eller delvis fra den aktuelle utdanningen, samt lengden på utestengingsperioden og eventuelle vilkår for at studenten skal få gjenoppta utdanningen, jf. fagskoleforskriften § 35 (3).

@@ -1,0 +1,4 @@
+# § 4-3. Skikkethetsvurdering
+(1) En skikkethetsvurdering er en løpende vurdering gjennom hele utdanningsløpet av alle studenter som er omfattet av kravet om slik vurdering. En skikkethetsvurdering skal vise om en student har de nødvendige forutsetningene for å kunne utøve et yrke, jf. fagskoleloven § 26, jf. fagskoleforskriften § 28. En student er uskikket dersom ett eller flere av kriteriene i fagskoleforskriften § 29 er oppfylt.
+(2) En skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare liv, fysisk og/eller psykisk helse, rettigheter og sikkerhet til barn, unge eller voksne i sårbare situasjoner, jf. fagskoleforskriften § 27 (1), jf. § 26.
+(3) Fagskoleutdanninger som omfattes av skikkethetsvurdering ved Fagskolen Rogaland, jf. fagskoleloven § 26 (1) blir listet på hjemmesiden under fagskolenrogaland.no/skikkethet/ og skal framgå av studieplan for de utdanninger skikkethetsvurdering gjelder.

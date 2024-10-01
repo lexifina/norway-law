@@ -1,0 +1,8 @@
+# § 5-3. Klage på eksamensvurdering
+(1) En student kan klage skriftlig på karakter ved eksamen innen tre uker etter kunngjøringen av denne. Er det framsatt krav om begrunnelse for karakterfastsettinga eller klage over formelle feil innen fristen i fagskoleloven § 22 første ledd og § 23 første ledd, blir klagefristen regnet fra det tidspunktet studenten har mottatt begrunnelsen eller endelig avgjørelse av klage på formelle feil foreligger, jf. fagskoleloven § 22 fjerde ledd. Ny sensur skal foreligge innen samme frister som gjelder for ordinær eksamen.
+(2) Ved klage over karakterfastsetting ved en eksamen skal det gjennomføres ny sensur, med én eller flere nye sensorer. Minst én sensor skal være ekstern, jf. fagskoleloven § 21 fjerde ledd. Ekstern sensor kan ikke være ansatt ved Fagskolen Rogaland.
+(3) Ved ny sensur skal ikke sensorene få kjennskap til den opprinnelige karakteren det blir klaget på, begrunnelse for karakteren eller klageren sin begrunnelse for klagen, jf. fagskoleloven § 22 fjerde ledd.
+(4) Om den endelige karakteren blir fastsatt på grunnlag av skriftlig og muntlig prøve, og klager får medhold i en klage på sensuren av den skriftlige delen av eksamen, skal det holdes ny muntlig eksamen før ny endelig karakter kan settes, jf. fagskoleloven § 21 fjerde ledd.
+(5) Bedømmelse av muntlig prestasjon og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages, jf. fagskoleloven § 22 femte ledd.
+(6) Karakter kan endres både til gunst og ugunst for klager, jf. fagskoleloven § 21 første ledd.
+(7) Karakterfastsetting ved ny sensur er endelig og kan ikke påklages, jf. fagskoleloven § 22 sjette ledd.

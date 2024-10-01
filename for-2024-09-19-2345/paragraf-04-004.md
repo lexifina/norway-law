@@ -1,0 +1,4 @@
+# § 4-4. Melding om tvil og behandling hos skikkethetsansvarlig
+(1) Hvis det er tvil om en student er skikket, skal det sendes melding til skikkethetsansvarlig ved fagskolen. Den som leverer melding om tvil, er ikke selv part i saken, jf. fagskoleforskriften § 33.
+(2) Studenten skal ha skriftlig varsel om at det foreligger tvil om vedkommende er skikket for yrket, og at han vil bli innkalt av skikkethetsansvarlig til en vurderingssamtale. Studenten skal få tilbud om utvidet oppfølging og veiledning med mindre det er åpenbart at slik oppfølging ikke er egnet til å hjelpe studenten. Praksisperioder kan utsettes fra tvilsmelding er mottatt til etter at utvidet veiledning er avsluttet, eller til saken er avgjort, jf. fagskoleforskriften § 34 (1).
+(3) Hvis utvidet oppfølging og veiledning ikke medfører den nødvendige endring og utvikling hos studenten, skal skikkethetsansvarlig fremme saken for skikkethetsnemnda, jf. fagskoleforskriften § 34 (3).
