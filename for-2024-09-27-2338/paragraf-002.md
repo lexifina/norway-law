@@ -1,0 +1,2 @@
+# § 2. Politihøgskolens informasjonsplikt
+Ved studiestart skal Politihøgskolen sørge for at studentene får informasjon om reglene om utvisning, bortvisning og utestenging, og i hvilke tilfeller politiloven og denne forskriften pålegger Politihøgskolen eller styret å vurdere reaksjoner som nevnt. Politihøgskolen skal sørge for at alle bachelorstudentene får informasjon om innholdet i reglene om skikkethet etter politiloven og denne forskriften.
