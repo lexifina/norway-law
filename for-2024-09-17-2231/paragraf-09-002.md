@@ -1,0 +1,4 @@
+# § 9-2. Løpende og særskilt skikkethetsvurdering
+(1) Høgskolen i Østfold skal jf. universitets- og høyskoleloven § 12-3 gjøre en løpende skikkethetsvurdering av studenter på studieprogram med krav om skikkethetsvurdering.
+(2) Ved begrunnet tvil om en student er skikket, skal Høgskolen i Østfold igangsette sak om særskilt skikkethetsvurdering. Formålet med skikkethetsvurdering er å avgjøre om en student utgjør fare for liv, fysisk og psykisk helse, rettigheter eller sikkerhet til de pasienter, brukere, barnehagebarn, elever, dyr, klienter, dyreeiere eller andre studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelse.
+(3) En student som ikke er skikket for yrket kan utestenges fra studiet, jf. universitets- og høyskoleloven § 12-3 og forskrift til universitets- og høyskoleloven.

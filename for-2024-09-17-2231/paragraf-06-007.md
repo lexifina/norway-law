@@ -1,0 +1,8 @@
+# § 6-7. Tilrettelagt eksamen
+(1) Studenter som av medisinske eller andre grunner har behov for tilrettelegging i forbindelse med eksamen, må søke om dette innen fastsatte frister. Det kan gjøres unntak fra fristen når behovet for tilrettelegging er uforutsett. Behovet må dokumenteres av lege eller andre sakkyndige med attest av nyere dato. Dokumentasjonen må inneholde en beskrivelse av funksjonsnedsettelsen og behovet for tilrettelegging.
+(2) Tilrettelegging av eksamen skal ha som formål å oppveie funksjonsnedsettelsen i størst mulig grad, uten at den gir en urimelig fordel. Tilrettelegging som vil medføre reduksjon i de faglige krav som stilles ved det enkelte studium kan ikke innvilges, jf. universitets- og høyskoleloven § 10-5.
+(3) Søknad om vurderingsformer som avviker fra studieplanen innvilges i begrenset omfang. Søknad må begrunnes og dokumenteres, og det foretas en helhetlig faglig vurdering av studentens studieløp.
+(4) Det innvilges 25 % (maksimum én time) utvidet tid ved skriftlig skoleeksamen når behov for dette er dokumentert. Det innvilges 25 % (maksimum 48 timer) utvidet tid ved hjemmeeksamen.
+(5) Ved innlevering av mappevurderinger eller oppgaver av lengre varighet vurderes muligheten for en forlenget frist i hvert tilfelle. Behovet for slik tilrettelegging må dokumenteres.
+(6) Annet morsmål enn norsk, svensk eller dansk anses som hovedregel ikke som grunnlag for rett til utvidet tid til eksamen, da søkere må dokumentere kunnskaper i norsk ved opptak til høyere utdanning, jf. forskrift om opptak til høgare utdanning § 2-1 til § 2-3.
+(7) Studenter som har annet morsmål enn norsk, svensk eller dansk, kan søke om å benytte tospråklige ordbøker under eksamen. Eksamen i språkfag er unntatt fra denne bestemmelsen.
