@@ -1,0 +1,4 @@
+# § 15-2. Omarbeiding av innlevert avhandling
+(1) Vurderingskomitéen kan på grunnlag av den innleverte avhandlinga og eventuelt tilleggsmateriale, jf. § 15-1, tilrå at det vert gjeve løyve til mindre omarbeiding før endeleg innstilling vert gjort. Komitéen skal gje eit konkret oversyn i skriftleg form over kva kandidaten må omarbeide.
+(2) Om avdelinga gjev løyve til ei mindre omarbeiding av avhandlinga, skal det gjevast ein frist for omarbeiding som ikkje skal vere lengre enn tre (3) månader. Det skal også fastsetjast ein ny frist for oversending av endeleg komitéinnstilling. Avdelinga sitt vedtak etter denne paragrafen kan ikkje klagast på av ph.d.-kandidaten.
+(3) Dersom komitéen finn at det trengst djuptgåande endringar som gjeld teori, hypotese, materiale eller metode for at arbeidet skal kunne tilrådast til disputas, skal komitéen underkjenne avhandlinga.
