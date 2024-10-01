@@ -1,0 +1,6 @@
+# § 7 c. (Passasjerrettigheter)
+Departementet kan gi forskrift om gjennomføring og utfylling av regler som er tatt inn i EØS-avtalen om passasjerrettigheter på jernbane.
+Departementet kan gi forskrift om etablering av et klageorgan for løsning av tvister mellom passasjerer og jernbanevirksomheter og bestemme at den som driver kjørevei, og den som driver trafikkvirksomhet i, til eller fra Norge, skal være omfattet av ordningen. Departementet kan også gi forskrifter om at andre tjenesteytere, som i anledning av transport har forpliktelser overfor passasjerene, skal være underlagt ordningen. Klageorganets avgjørelser skal ikke være rettslig bindende.
+Departementet kan gi forskrift om at klageordningen helt eller delvis skal finansieres gjennom gebyrer fra jernbanevirksomhetene, eventuelle andre tjenesteytere som er underlagt ordningen, og klagerne, samt om innkreving av gebyrer fra dem som omfattes av ordningen.
+Departementet kan fastsette forskrift om klageorganets oppnevning, myndighetsområde, sammensetning, organisering, saksbehandling, finansiering, og om forholdet til voldgiftsklausuler, i samsvar med luftfartsloven § 10-44 annet ledd nr. 1 til 3 og nr. 5 og 6.
+Reglene i luftfartsloven § 10-45, § 10-46 og § 10-47 gjelder tilsvarende.
