@@ -1,0 +1,9 @@
+# § 5
+1. Årspensjonen beregnes på grunnlag av antall pensjonsgivende fartsmåneder multiplisert med pensjonssatser som gjelder på uttakstidspunktet for fartstid opptjent som overordnet og/eller underordnet. Satsene på uttakstidspunktet utgjør for
+- overordnet 0,91 prosent av grunnbeløpet, og for
+- underordnet 0,76 prosent av grunnbeløpet når fartstiden er opptjent etter 30. april 1993 og 0,65 prosent av grunnbeløpet når fartstiden er opptjent før 1. mai 1993.
+Inndelingen svarer til gruppene for betaling av arbeidstakeravgift, se § 9.Måned som arbeidstakeren oppebærer pensjon for etter denne lov, regnes ikke med. Alderspensjonen regnes ikke for mer enn 360 fartsmåneder i alt. Har arbeidstakeren mer enn 360 fartsmåneder, regnes pensjonen på grunnlag av de måneder som gir størst pensjon.
+2. For pensjonist som har uføretrygd eller arbeidsavklaringspenger etter lov om folketrygd for mindre enn hel uførhet eller gradert avtalefestet pensjon som omfattes av samordningsloven § 1 første ledd bokstav d, bortfaller en forholdsmessig del av alderspensjonen som svarer til uføregraden eller pensjonsgraden.
+3. Alderspensjon under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.Ved regulering av pensjoner etter første ledd benyttes de reguleringsfaktorene Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd og § 20-18 åttende ledd.
+4. For pensjonist som forsørger barn under 18 år, ytes et barnetillegg med 10 prosent av alderspensjonen for hvert barn.
+5. Når det ytes alderspensjon før arbeidstakeren fyller 60 år, se § 4 nr. 5, settes pensjonen ned med 0,7 prosent for hver måned vedkommende mangler på å fylle 60 år når pensjonen tar til. I slike tilfeller gis det ikke tillegg etter § 6.
