@@ -1,0 +1,3 @@
+# § 10. Kontroll av registrerte opplysninger. Varslingsplikt om uoverensstemmelser
+(1) Departementet kan i forskrift gi nærmere regler om registerførerens kontroll av opplysninger som registreres om reelle rettighetshavere.
+(2) Departementet kan i forskrift gi regler om varslingsplikt for offentlige myndigheter og rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i tilfeller der disse identifiserer andre som reelle rettighetshavere enn dem som er registrert i registeret over reelle rettighetshavere. Departementet kan også gi nærmere regler om registerets håndtering av varsler som nevnt i første punktum og registreringspliktiges plikt til å etterkomme registerets pålegg i den forbindelse.
