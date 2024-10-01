@@ -1,0 +1,2 @@
+# § 11
+1. Rederiet betaler i avgift et beløp som utgjør 3,3 prosent av arbeidstakerens bruttoinntekt om bord, herunder av hyre m.v. som nevnt i § 1 nr. 3 bokstav a og av sykepenger som nevnt i § 1 nr. 3 bokstav b som rederiet plikter å betale. For arbeidstaker på fartøy som driver fiske og fangst, skal dog avgiften være et beløp som utgjør 150 prosent av arbeidstakerens avgift etter § 9.Pensjonstrygdens styre kan gi nærmere regler om gjennomføringen og kan herunder bestemme at avgiften skal beregnes etter første ledd andre punktum også i andre tilfelle.

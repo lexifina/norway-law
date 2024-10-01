@@ -1,0 +1,15 @@
+# § 1
+1. Pensjonstrygden omfatter med de unntak som følger av loven enhver norsk statsborger eller person med fast bopel i Norge meldt til folkeregisteret, og som er ansatt som arbeidstaker om bord på skip som nevnt i nr. 2 første ledd.
+2. Som skip i pensjonstrygden regnes:
+a) ethvert skip, fiske- og fangstfartøy, borefartøy og annen flyttbar innretning i sjøen som har eget framdriftsmiddel eller utstyr for boring etter undersjøiske naturforekomster, og som er innført i norsk skipsregister med 100 tonnasjeenheter/registertonn brutto eller mer,
+b) Skip under 100 tonnasjeenheter/registertonn brutto som er innført i norsk skipsregister, dersom rederiet samtidig disponerer større skip som går inn under bokstav a, og arbeidstakerne om bord er fast ansatt i rederiet i medhold av skipsarbeidsloven eller arbeidsmiljøloven § 1-2 andre ledd bokstav a, med rett og plikt til å tjenestegjøre på samtlige av rederiets skip,
+c) Redningsskøyter som tilhører Norsk Selskab til Skibbrudnes Redning,
+d) Skip som er innført i utenlandsk skipsregister når arbeidstaker om bord er trygdet etter folketrygdloven § 2-1. Det samme gjelder når arbeidstaker som går inn under nr. 1 er trygdet etter andre bestemmelser i folketrygdloven og pensjonstrygden bestemmer at vedkommende også skal omfattes av loven her etter regler fastsatt av styret.
+Som skip i pensjonstrygden regnes ikke:
+3. Arbeidstakeren omfattes av pensjonstrygden så lenge ansettelsesforholdet om bord består, samt i perioder før eller etter dette mens vedkommende mottar
+a) hyre, feriegodtgjøring og fritidskompensasjon etter avtale eller lov inntil 12 måneder om gangen,
+b) sykepenger etter folketrygdloven kapittel 8 for sykdom inntruffet i tid der arbeidstakeren er omfattet av trygden etter bestemmelsene i denne paragrafen, jf § 2. Det samme gjelder omsorgspenger, pleiepenger, opplæringspenger, svangerskapspenger og foreldrepenger etter folketrygdloven kapitlene 9 og 14 i inntil 52 uker når tilfellet oppstår i tid der arbeidstakeren er omfattet av trygden.
+4. Foruten de generelle bestemmelser som følger av nr. 1-3, gjelder følgende særbestemmelser:
+a) På fartøy som driver fiske og fangst omfatter pensjonstrygden arbeidstakere ansatt i stilling om bord som skipsfører, styrmann, bestmann, maskinist, maskinassistent, fyrbøter (motormann), lemper, smører, maskingutt, stuert, kokk eller hjelpegutt. Såfremt fartøyet etter å ha levert fangsten settes i annen fart enn fiske og fangst, omfatter pensjonstrygden enhver som har sitt arbeid om bord i det tidsrom fartøyet går i slik fart.
+b) På borefartøy (boreskip og bevegelig boreplattform for boring etter undersjøiske naturforekomster) omfatter pensjonstrygden arbeidstakere som er eansatt i stilling om bord av borefartøyets eier, den som disponerer borefartøyet, boreentreprenør eller av disses underentreprenører – herunder cateringselskap.
+c) Omfattet av pensjonstrygden er også reder og partreder i full stilling om bord når en arbeidstaker i slik stilling ville være omfattet av trygden, og restauratør om bord som driver virksomheten for egen regning.

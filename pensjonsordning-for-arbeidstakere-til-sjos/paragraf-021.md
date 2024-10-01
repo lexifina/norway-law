@@ -1,0 +1,3 @@
+# § 21
+1. Pensjonstrygden for sjømenn kan kreve at offentlige myndigheter, rederier samt institusjoner som administrerer andre pensjonsordninger, uten godtgjørelse og uten hinder av taushetsplikt, skal gi Pensjonstrygden for sjømenn de opplysninger som er nødvendige for å utføre oppgaver etter denne loven.Pensjonstrygden kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret de opplysninger som er nødvendige for å utføre oppgaver etter denne loven. Pensjonstrygden skal også ha tilgang til opplysninger i registeret til utredning og produksjon av statistikk.
+2. Trygden har rett til når som helst å gjennomgå et rederis mannskapslister, hyrerekneskaper m.v. for å kontrollere oppgavene til og oppgjøret med trygden.
