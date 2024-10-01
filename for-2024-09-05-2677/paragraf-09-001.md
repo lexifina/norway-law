@@ -1,0 +1,4 @@
+# § 9-1. Rapportering
+(1) System for kvalitetssikring av ph.d.-utdanninga skal femne om tiltak for å avdekkje manglande progresjon i avhandlingsarbeidet og kursdelen og manglar ved rettleiinga, og dessutan rutinar for å følgje opp manglar som vert avdekte. I avtaleperioden skal ph.d.-kandidaten årleg levere skriftlege rapportar til doktorgradsutvalet om framdrift i tråd med ph.d.-planen. Hovudrettleiar leverer årleg separat rapport. Rapportane skal skrivast på eit særskilt skjema.
+(2) Kandidat og hovudrettleiar har eit likeverdig ansvar for rapportering. Manglande eller mangelfull framdriftsrapportering frå kandidaten kan føre til tvungen avslutting av forskarutdanninga før opptaksperioden er ute, jf. § 6-2. Rettleiarar som ikkje følger opp rapporteringsplikta kan misse rettleiaransvaret.
+(3) Avdelinga kan ved behov krevje særskilt rapportering.

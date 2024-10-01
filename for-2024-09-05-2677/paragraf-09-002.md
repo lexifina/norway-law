@@ -1,0 +1,3 @@
+# § 9-2. Midtvegsseminar
+(1) Midtvegsevalueringa av doktorgradsarbeidet bør normalt vere gjort før prosjektet har kome til 2/3 av planlagt tid slik det går fram av kontrakten og justert i høve til eventuelle permisjonar. Kandidaten skal presentere arbeidet og bli evaluert av ei gruppe på minst to personar som er oppnemnde av doktorgradsutvalet. Evalueringsgruppa skal ta stilling til den faglege statusen og framdrifta i doktorgradsarbeidet og gje tilbakemelding både til kandidaten, rettleiaren og avdelinga.
+(2) Om evalueringsgruppa rapporterer om vesentlege veikskapar ved forskingsarbeidet, skal det setjast i verk tiltak for å rette på situasjonen.

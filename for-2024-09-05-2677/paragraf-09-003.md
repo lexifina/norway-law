@@ -1,0 +1,2 @@
+# § 9-3. Sluttseminar
+Seinast to månader før innlevering av avhandlinga bør det gjennomførast ei «sluttlesing» i form av eit seminar. Dette vert organisert som ein «prøvedisputas» der kandidaten legg fram eigne resultat (skriftleg og munnleg) og får erfaring med å forsvare ei kritisk lesing av tekstutkast. Hovudkritikar bør som ved midtvegsseminaret vere ein ekstern lesar utan bindingar til prosjektet eller rettleiarane.

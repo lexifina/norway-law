@@ -1,0 +1,7 @@
+# § 10-1. Krav til avhandlinga
+(1) Avhandlinga skal vere eit sjølvstendig vitskapleg arbeid som oppfyller internasjonale standardar når det gjeld etiske krav, fagleg nivå og metode på fagområdet.
+(2) Avhandlinga skal vere med og utvikle ny fagleg kunnskap og liggje på eit nivå som tilseier at ho vil kunne publiserast som del av den vitskaplege litteraturen på fagområdet.
+(3) Avhandlinga kan vere ein monografi eller ei samanstilling av fleire mindre vitskaplege arbeid. Dersom avhandlinga er sett saman av fleire mindre arbeid, skal det gjerast greie for samanhengen mellom dei i ei samanbindande framstilling («kappe»).
+(4) Dersom eit skriftleg arbeid er blitt til i samarbeid med andre forfattarar, skal ph.d.-kandidaten følgje allment aksepterte normer for medforfattarskap i samsvar med tradisjonar i fagmiljøet og internasjonale standardar. Om avhandlinga hovudsakleg er samansett av artiklar, skal kandidaten normalt vere hovud- eller fyrsteforfattar på minst halvparten av artiklane.
+(5) I avhandlingar som er sette saman av arbeid med fleire forfattarar, skal det fylgje med ei signert stadfesting som gjer greie for kva kandidaten har utført i kvart einskilt arbeid. Kandidaten sin sjølvstendige del av arbeidet må kunne vere mogleg å identifisere.
+(6) Avhandlinga skal vere skriven på norsk, svensk, dansk eller engelsk. Om kandidaten ynskjer å bruke eit anna språk, skal det vere søkt om særskilt løyve til det ved opptak, jf. § 5-2.

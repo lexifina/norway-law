@@ -1,0 +1,2 @@
+# § 2-1. Målsetjing
+Ph.d.-utdanninga skal kvalifisere for forskingsverksemd av høg internasjonal standard og for anna arbeid i samfunnet der det vert stilt store krav til vitskapleg innsikt og analytisk tenkjing, i samsvar med god vitskapleg skikk og forskingsetiske standardar. Ph.d.-utdanninga skal gje kandidaten kunnskap, dugleikar og kompetanse i tråd med det nasjonale kvalifikasjonsrammeverket.

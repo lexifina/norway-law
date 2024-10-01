@@ -1,0 +1,2 @@
+# § 23-1. Klage over avslag på søknad om opptak, vedtak om avslutting av studierett, klage over avslag på søknad om godkjenning av element i opplæringsdelen
+Avslag på søknad om opptak, vedtak om avslutting av studierett og avslag på søknad om godkjenning av element i opplæringsdelen kan klagast på etter reglane i forvaltingslova § 28 flg. Grunngjeven klage skal sendast Høgskulen. Vert avslaget ståande, skal klagen sendast til Nemnd for studentsaker ved Høgskulen i Volda for endeleg avgjerd.

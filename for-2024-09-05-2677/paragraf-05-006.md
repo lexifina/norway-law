@@ -1,0 +1,5 @@
+# § 5-6. Avtaleperiode
+(1) Ph.d.-utdanninga er normert til tre (3) års fulltidsstudium. Maksimal studietid er seks (6) år frå starttidspunkt til innlevering av avhandlinga for vurdering. Ved lovheimla avbrot vert avtaleperioden forlenga tilsvarande.
+(2) Avtaleperioden vert forlenga i tråd med rettane åt ph.d.-studenten som arbeidstakar og vert også vurdert med tanke på finansieringsgrunnlaget.
+(3) Kandidaten kan misse retten til å disputere om avhandlinga ikkje er levert innan maksimal studietid. Doktorgradsutvalet gjer vedtak om at maksimal studietid er nådd. Doktorgradsutvalet kan forlenge avtaleperioden etter grunngjeven søknad. Om avtaleperioden vert forlenga, kan doktorgradsutvalet setje særlege vilkår for forlenging.
+(4) Når avtaleperioden er ute, misser partane rettar og plikter omtala i ph.d.-avtalen. Ph.d.-kandidaten kan misse rett til rettleiing, deltaking på kurs og tilgang på infrastruktur. Kandidaten kan likevel søkje om å få levere inn avhandlinga til vurdering for ph.d.-graden. Doktorgradsutvalet avgjer søknaden.
