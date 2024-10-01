@@ -1,0 +1,7 @@
+# § 41. Godkjenning av utdanning og fritak fra obligatorisk undervisning
+(1) Studenter kan søke om faglig godkjenning etter lov om universiteter og høyskoler § 9-1, § 9-2 og § 9-3. Søknader behandles av fakultetsstyret ved det fakultet som har faglig ansvar for vedkommende emne. Søknad om godkjenning av studier etter lov om universiteter og høyskoler §§ 9-1, § 9-2 og § 9-3, behandles av fakultetsstyret ved det fakultet som har ansvar for vedkommende studieprogram. Søknader som gjelder godkjenning av skolerelevant fag i grunnskolelærerutdanningen og praksis i lærerutdanningene, behandles av styret for lærerutdanningene.
+(2) Vurdering av godkjenning av utdanning etter lov om universiteter og høyskoler § 9-4 og § 9-5 gjøres av fakultetsstyret ved det fakultet som har faglig ansvar for vedkommende studieprogram.
+(3) Søknader om faglig godkjenning av tidligere utdanning fra Universitetet i Agder som del av utdanning, behandles av det fakultet som har ansvar for vedkommende studieprogram.
+(4) Det skal ikke gis dobbel uttelling for samme faginnhold innenfor samme grad.
+(5) Fritak fra obligatorisk undervisning gis bare dersom studentene kan dokumentere tilsvarende kunnskaper.
+(6) Ved dokumentert sykdom og i andre særlige tilfelle kan fakultetsstyret gi fritak fra obligatorisk undervisning under forutsetning av at studenten utfører andre aktiviteter som fastsettes av fakultetsstyret og som vurderes til godkjent, dersom dette er praktisk gjennomførbart.

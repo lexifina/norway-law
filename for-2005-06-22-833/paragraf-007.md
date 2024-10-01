@@ -1,0 +1,3 @@
+# § 7. Krav til innhold i mastergraden
+(1) Krav til innhold i mastergraden framgår av sentralt fastsatt forskrift. § 6 gjelder tilsvarende for mastergrad av 300 studiepoengs omfang.
+(2) Alle studenter skal ha veiledning før masteroppgave leveres til sensur. Omfang av obligatorisk veiledning skal framgå av studieplanen for det enkelte masterprogram. Fakultetsstyret selv kan fastsette tidsbegrensning for hvor lenge en student kan jobbe med samme problemstilling i sin masteroppgave. Bestemmelser om veiledning, krav til masteroppgaven m.m. tas inn i egen avtale mellom fakultetet og den enkelte mastergradsstudent.

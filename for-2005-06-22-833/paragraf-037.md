@@ -1,0 +1,22 @@
+# § 37. Sensur og begrunnelse for sensur
+(1) Alle emner på bachelor- og masternivå skal ha ekstern sensur i form av vurdering av studentarbeider minst hvert 3. år. I emner med multiple choice-eksamener eller sammenlignbare eksamensformer kan kravet om ekstern sensur dekkes ved at det medvirker en ekstern sensor ved utarbeidelse av eksamensoppgaven.Det skal normalt benyttes ekstern sensor i et omfang på minst 15 studiepoeng pr. studieår. Ekstern sensor skal medvirke ved bedømmelse av alle studentarbeider ved alle deleksamener som inngår i emnet. Fakultetsstyret fastsetter plan for bruk av ekstern sensor.
+(2) Det skal benyttes ekstern sensor ved sensur av masteroppgaver og ved klagesensur, jf. lov om universiteter og høyskoler § 11-11. Det skal også benyttes ekstern sensor ved sensur av bacheloroppgave. Dersom veileder deltar som sensor, skal det benyttes en tredje intern eller ekstern sensor.
+(3) Ved sensur av opplæringsdelen av ph.d.-program skal det normalt benyttes ekstern sensor ved hver gjennomføring, men minst hvert 3. år.
+(4) Det skal benyttes enten intern og ekstern sensor eller to interne sensorer til bedømmelse av eksamenskandidatenes prestasjoner i følgende omfang:
+- eksamen som alene utgjør 15 studiepoeng eller mer
+- ved muntlig eksamen eller annen eksamen der vurderingen ikke lar seg etterprøve.
+(5) Bestemmelsene i punkt 1) gjelder ikke ved vurdering av praksis. Slik vurdering skal for rammeplanstyrt praksis skje i et samarbeid mellom representant fra praksisstedet og representant fra universitetet i samsvar med forskrift om rammeplan og nasjonale retningslinjer for den enkelte utdanning.Ved eventuell vurdering av studentens prestasjon under ikke-rammeplanstyrt praksis, skal slik vurdering skje i et samarbeid mellom representant fra praksisstedet og representant fra universitetet.Ved uenighet om karakterfastsetting av praksis, fastsetter representanten fra universitetet karakter med mindre annet er fastsatt i forskrift om rammeplan og nasjonale retningslinjer for den enkelte utdanning.Det skal foreligge kriterier for vurdering av praksis.
+(6) Det skal i alle emner benyttes enten intern og ekstern sensor eller to interne sensorer til utarbeidelse av eksamensoppgaver og sensorveiledninger. Det skal foreligge skriftlige sensorveiledninger til alle eksamener. Sensorveiledningene skal være tilgjengelig for sensor før vurderingen starter, og tilgjengelig for studentene når sensur foreligger.
+(7) Fakultetsstyret oppnevner interne og eventuelle eksterne sensorer. Oppnevning skal gjelde både ordinær og påfølgende ny/utsatt eksamen. En intern eller ekstern sensor skal normalt ikke sensurere sammenhengende samme emne ved universitetet i mer enn 6 år.
+(8) Sensor må ha følgende kvalifikasjoner:
+a) Bachelornivå (minst en av):
+- være ansatt på lektor-/amanuensisnivå eller høgre nivå ved universitet/høgskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå
+- ha erfaring som sensor i vedkommende fag ved universitet/høgskole
+- gjennom yrkespraksis være særlig kvalifisert innen vedkommende fag.
+b) Masterprogram og videreutdanning som bygger på bachelorgrad eller tilsvarende: være ansatt på lektor-/amanuensisnivå eller høgre nivå ved universitet/høgskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå.
+c) Doktorgradsprogram: faglig kompetanse på minst 1. amanuensisnivå.
+(9) Ekstern sensor kan ikke være student ved Universitetet i Agder eller være ansatt i hovedstilling eller bistilling ved institusjonen eller ha hatt engasjement som timelærer i det aktuelle emnet for eksamenskullet.
+(10) Dersom to sensorer ikke blir enige om vurderingen av et innlevert arbeid, avgjør ekstern sensor eller intern medsensor som ikke er faglærer i emnet. I særlige tilfelle kan fakultetsstyret bestemme at det skal oppnevnes en tredje sensor, som fastsetter karakteren.
+(11) Sensurfrist er 15 virkedager fra eksamensdagen hvis ikke særlige grunner gjør det nødvendig å bruke mer tid, jf. lov om universiteter og høyskoler § 11-7. Ved klagesensur gjelder bestemmelser i lov om behandlingsmåten i forvaltningssaker. Sensurfrist for masteroppgaver er 6 uker fra innlevering.
+(12) Ved vurdering av eksamensbesvarelser skal anonymitetsprinsippet gjelde så langt som mulig.
+(13) Sensor fastsetter om begrunnelse for sensur i emner gis skriftlig eller muntlig. Begrunnelse skal foreligge innen 2 uker.

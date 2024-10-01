@@ -1,0 +1,11 @@
+# § 6. Krav til innhold i bachelorgraden
+(1) Graden bachelor tildeles på grunnlag av bestått treårig studieprogram eller selvvalgt bachelorløp på til sammen minst 180 studiepoeng.
+(2) Treårige studieprogram skal inneholde:
+a) Fordypningsenhet, jf. § 1 bokstav r og breddeenhet, jf. § 1 bokstav q. Dette kravet gjelder likevel ikke for integrerte studieprogram.
+b) Bacheloroppgave på minst 10 studiepoeng. For bachelorprogram med fordypningsenhet skal bacheloroppgaven være inkludert i fordypningsenheten.
+c) Examen philosophicum og examen facultatum. Krav om examen facultatum gjelder ikke studieprogram med fordypning i realfag. Krav om examen philosophicum og examen facultatum kan for integrerte studieprogram erstattes med vitenskapsteori, etikk og innsikt i fagets/profesjonens samfunnsmessige rolle i et omfang av minst 10 studiepoeng.
+d) Kravet om bacheloroppgave gjelder ikke bachelorprogram i rettsvitenskap.
+(3) For 3-årig integrerte studieprogram som bygger på rammeplan, stilles ingen krav utover de som framgår av rammeplanen.
+(4) Selvvalgt bachelorgrad kan tildeles etter søknad. Det er ikke krav om breddeenhet i selvvalgt bachelorgrad. For øvrig er krav til sammensetning av graden de samme som i andre ledd. Minst 60 studiepoeng må være avlagt ved UiA, jf. forskrift om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse § 3.
+(5) Universitetsstyret kan dispensere fra bestemmelsene i andre ledd for fellesgrad som gis i samarbeid med utenlandske institusjoner. I særlige tilfelle kan universitetsstyret dispensere fra krav om bacheloroppgave. Universitetsstyret kan også gi dispensasjon til å redusere totalt omfang av examen philosophicum og examen facultatum fra 20 til 15 studiepoeng og i særlige tilfelle også til å erstatte examen philosophicum og examen facultatum i bachelorprogram med fordypningsenhet med vitenskapsteori, etikk og innsikt i fagets/profesjonens samfunnsmessige rolle i et omfang av minst 10 studiepoeng. I de tilfeller der det er gitt dispensasjon fra krav om examen philosophicum og examen fakultatum i bachelorprogram med fordypningsenhet, gjelder dispensasjonen også selvvalgt bachelorgrad med tilsvarende fordypningsenhet.
+(6) Alle studenter skal ha veiledning før bacheloroppgave leveres til sensur. Omfang av obligatorisk veiledning skal framgå av studieplanen for det enkelte bachelorprogram.
