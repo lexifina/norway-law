@@ -1,0 +1,4 @@
+# § 5-1. Klage på vedtak om opptak
+(1) Om ikke annet er bestemt, gjelder forvaltningsloven kapittel III til VI og VIII for avgjørelser om opptak, jf. fagskoleloven § 39 andre ledd. Fagskolen Rogaland skal behandle saker i samsvar med forvaltningslovens bestemmelser om habilitet (§§ 6-10) og taushetsplikt (§§ 13-13e). Nærmere bestemmelser for klage blir behandlet i kapittel 5 i utdanningsforskrift for Fagskolen Rogaland.
+(2) Klage på enkeltvedtak om opptak basert på relevant fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse skal behandles av Nasjonal klagenemnd for høyere yrkesfaglig utdanning, jf. fagskoleforskriften § 43 bokstav a.
+(3) Klage på enkeltvedtak om opptak basert på realkompetanse eller spesielle opptakskrav skal behandles av den lokale klagenemnda ved Fagskolen Rogaland, jf. fagskoleforskriften § 43 bokstav a.

@@ -1,0 +1,5 @@
+# § 3-2. Rangering av søkere
+(1) Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, der eldre søkere blir rangert først, jf. fagskoleforskriften § 14 (3).
+(2) Dersom det er ledige studieplasser etter at det ordinære opptaket er gjennomført, kan Fagskolen Rogaland selv tilby disse studieplassene til kvalifiserte søkere. Søknader om opptak til slike ledige studieplasser blir behandla i den rekkefølgen de blir mottatt, uten hensyn til rangeringsreglene i første ledd, jf. fagskoleforskriften § 14 (4).
+(3) Dersom det er venteliste etter at det ordinære opptaket er gjennomført, men fagskolen får ledige studieplasser etter studiestart, skal Fagskolen Rogaland tilby de ledige studieplassene til søkerne på venteliste, jf. fagskoleforskriften § 14 (5).
+(4) Ti dager etter studiestart kan fagskolen tilby eventuelle resterende studieplasser til kvalifiserte søkere, uten hensyn til rangeringsreglene i første ledd, jf. fagskoleforskriften § 14 (5).
