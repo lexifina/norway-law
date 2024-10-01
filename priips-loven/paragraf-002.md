@@ -1,0 +1,4 @@
+# § 2. Gjennomføring av PRIIPs-forordningen
+EØS-avtalen vedlegg IX nr. 31bg forordning (EU) nr. 1286/2014 om nøkkelinformasjonsdokumenter om sammensatte og forsikringsbaserte investeringsprodukter for ikke-profesjonelle investorer (PRIIPs-forordningen), som endret ved forordning (EU) 2016/2340, forordning (EU) 2019/1156 og forordning (EU) 2021/2259, gjelder som lov med de tilpasningene som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+Departementet kan i forskrift gi nærmere regler til utfylling av loven, herunder om utarbeidelse av nøkkelinformasjon, om plikten til å gjøre nøkkelinformasjon tilgjengelig og om klage- og tvisteløsningsordninger.
+Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført i første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.
