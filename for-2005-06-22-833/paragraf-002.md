@@ -1,0 +1,2 @@
+# § 2. Virkeområde
+Denne forskrift gjelder alle studieprogram og emner ved Universitetet i Agder. § 19 gjelder for doktorgradsutdanninger. § 31, § 33 og § 37 gjelder for eksamener eller obligatoriske aktiviteter underveis i doktorgradsutdanningen. Forskriften gjelder for forkurs for ingeniørutdanning så langt den passer uten å komme i konflikt med nasjonale bestemmelser for denne utdanningen. For eksamener som arrangeres i regi av Universitetsstudiene på Svalbard gjelder eget eksamensreglement.

@@ -1,0 +1,13 @@
+# § 19. Semesteravgift. Semesterregistrering og oppmelding. Utdanningsplan
+(1) Studenter, privatister og ph.d.-studenter skal betale semesteravgift i samsvar med lov om studentsamskipnader med forskrifter innen fastsatt frist.
+(2) Studenter som tas opp til studieprogram med omfang på 60 studiepoeng eller mer, skal inngå utdanningsplan i henhold til lov om universiteter og høyskoler § 4-2. Universitetet kan bestemme at også studenter på studieprogram med omfang under 60 studiepoeng skal inngå utdanningsplan. Utdanningsplanen skal omfatte hele studieprogrammet. Studentene skal bekrefte utdanningsplanen for hvert semester innen fastsatt frist, herunder bekrefte undervisnings- og eksamensmelding for det aktuelle semesterets emner. En students undervisnings- og eksamensmelding er ikke gyldig før semesteravgiften er betalt.
+(3) Studenter uten utdanningsplan skal semesterregistrere seg og melde seg til eksamen hvert semester innen fastsatt frist. Semesterregistrering og eksamensoppmelding er ikke gyldig før semesteravgift er betalt. Ph.d.-studenter skal melde seg til eksamen innen fastsatt frist uavhengig av om de betaler semesteravgift eller ikke.
+(4) Privatister skal i tillegg til semesteravgift betale eksamensavgift i samsvar med vedtak av universitetsstyret selv og innen fastsatt frist. Privatister blir meldt til eksamen når semesteravgift og eksamensavgift er betalt.
+(5) For studenter på studieprogram eller emner med studieavgift, er undervisnings- og eksamensmelding ikke gyldig før denne avgiften er betalt.
+(6) I emner med egen eksamensform for privatister, skal studenter ved oppmelding spesielt angi dersom de melder seg til eksamen med slik eksamensform. Det er ikke anledning til å melde seg til eksamen med eksamensform fastsatt for privatister i emner som omfattes av studentens gjeldende utdanningsplan. I eventuelle emner som omfattes av studentens studierett, men som ikke inngår i utdanningsplanen, kan studenten melde seg til eksamen med eksamensform fastsatt for studenter eller privatister. I eventuelle emner som ikke inngår i studentens studieprogram, må studenten melde seg til eksamen med eksamensform fastsatt for privatister.
+(7) Universitetet kan fastsette særskilt påmeldingsfrist for privatister og for påmelding til åpne studieprogram eller emner.
+(8) Universitetet kan dispensere fra fristene i følgende tilfelle:
+- dersom det er gjort avgjørende feil fra universitetets side
+- ved dokumentert sykdom hos studenten selv eller i nær familie eller ved andre uforutsette hindringer som har gjort det umulig å overholde fristen
+- i andre særlige tilfelle.
+(9) Studenter og privatister som kun melder seg til ny eller utsatt eksamen i et semester, betaler ikke semesteravgift for dette semesteret.
