@@ -1,0 +1,5 @@
+# § 7-3. Gjennomføring av disputas
+(1) Det skal normalt være to opponenter. De to opponentene skal være medlemmer av bedømmelseskomitéen og utpekes av fakultetet/senteret.
+(2) Dersom medlemmer i bedømmelseskomitéen ikke kan møte til disputas, kan fakultetet/senteret oppnevne settemedlemmer jf. § 6-3 (6), såfremt minst ett av komitéens medlemmer deltar i både prøveforelesning og disputas.
+(3) Det offentlige forsvaret ledes av dekan/senterleder eller den som dekan/senterleder bemyndiger. Den som leder disputasen, gjør kort rede for innleveringen og bedømmelsen av avhandlingen og for prøveforelesningen. Deretter redegjør kandidaten for hensikten med og resultatene av den vitenskapelige undersøkelsen. Førsteopponenten innleder opposisjonen og andreopponenten avslutter opposisjonen. Etter at begge opponenter har avsluttet sin opposisjon, kan tilstedeværende gis anledning til å kommentere ex auditorio. En av opponentene avslutter opposisjonen, og disputasleder avslutter disputasen.
+(4) Fakultetet/senteret kan eventuelt fastsette en annen oppgavefordeling.

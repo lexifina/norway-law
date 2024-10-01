@@ -1,0 +1,2 @@
+# § 4-1. Formål
+Fakultetet/senteret har ansvar for at opplæringsdelen sammen med avhandlingsarbeidet, gir utdanning på høyt faglig nivå i henhold til internasjonal standard, med gjennomføring av et vitenskapelig arbeid, trening i faglig formidling og opplæring i forskningsetikk, vitenskapsteori og vitenskapsmetode. Opplæringen skal sammen med forskningsarbeidet bidra til at kandidaten oppnår læringsutbytte i samsvar med programplanen for doktorgradsprogrammet.

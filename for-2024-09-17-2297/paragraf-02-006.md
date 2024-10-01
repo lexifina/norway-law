@@ -1,0 +1,6 @@
+# § 2-6. Avtaleperioden
+(1) Avtaleperioden skal følge normert tid for studiet, jf. denne forskrift § 1-3 (2).
+(2) Ved lovhjemlede og avtalefestede avbrudd forlenges avtaleperioden tilsvarende.
+(3) Fakultet/senter kan forlenge avtaleperioden og/eller studierettsperioden etter begrunnet søknad. Søknaden skal inneholde en framdriftsplan og være anbefalt av veileder. Ved innvilget forlengelse kan fakultet/senter sette ytterligere betingelser. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
+(4) Kandidatene har som hovedregel ikke rett til forlengelse av avtaleperioden og/eller studierettsperioden ut over seks år fra startdato i henhold til § 2-4 (1). Lovhjemlede og avtalefestede avbrudd og karrierefremmende arbeid medregnes ikke i de seks årene. Det kan i doktorgradsprogrammets utfyllende regler stilles strengere krav til progresjon under programforløpet.
+(5) Etter avtaleperiodens og/eller studierettsperiodens utløp opphører partenes rettigheter og plikter i henhold til doktorgradsavtalen. Doktorgradskandidaten kan miste sin rett til veiledning, undervisning og tilgang til universitetets infrastruktur. Kandidaten kan likevel søke om å få levere inn avhandlingen til bedømmelse for graden ph.d.
