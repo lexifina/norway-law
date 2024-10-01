@@ -1,0 +1,5 @@
+# § 3-15. Språk i undervisning, eksamen og dokumentasjon
+(1) Om ikke annet er oppgitt i studieplanen er språket i undervisning og eksamen norsk. Særlige opplysninger om undervisningsspråk og eksamensspråk skal gå fram av den enkelte studieplan.
+(2) Søknad fra student om å få oppgavesett og/eller besvare eksamen på et annet språk enn norsk, avgjøres av rektor. Det må foreligge særlige grunner og saklig behov og ikke være grunnet i mangelfull språkkompetanse som strider med opptaksgrunnlaget, jf. opptaksforskrift for Fagskolen Rogaland § 2-4.
+(3) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram, jf. fagskoleforskriften § 9 (6).
+(4) I særlige tilfeller som vist til i pkt. (1) og (4), dvs. fremmedspråklige utdanningsprogram og/eller internasjonale utvekslingsprogram, kan det være aktuelt å dokumentere læringsutbytte på annet språk enn norsk. I slike tilfeller skal dette framgå av studieplanen.

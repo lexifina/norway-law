@@ -1,0 +1,6 @@
+# § 3-9. Annullering ved fusk eller forsøk på fusk
+(1) Den lokale klagenemnden kan annullere resultatet av en eksamen, prøve eller lignende eller godkjenning av et emne, og vedta eventuelle disiplinære sanksjoner, dersom en student med forsett eller grov uaktsomhet har fusket, eller forsøkt å fuske, i sammenheng med eksamen, prøve eller liknende, eller under gjennomføring av emnet, jf. fagskoleloven § 24 andre ledd.
+(2) Etter avgjørelse om annullering skal eventuelt vitnemål eller karakterutskrift leveres tilbake til Fagskolen Rogaland. Om vitnemål eller karakterutskrift ikke blir levert tilbake til skolen i rett tid kan skolen kreve hjelp fra namsmannen i samsvar med reglene i tvangsfullbyrdelsesloven kap. 13, jf. fagskoleloven § 24 sjette ledd.
+(3) Danner vitnemålet grunnlag for autorisasjon for yrkesutøving skal fagskolen gi melding om annullering til vedkommende myndighet.
+(4) En student kan klage på et vedtak om annullering etter denne forskriften til Nasjonal klagenemnd for høyere yrkesfaglig utdanning, jf. fagskoleloven § 24 fjerde ledd. Ved vedtak om annullering av eksamen gjelder forvaltningsloven kapittel III–VI og VIII, jf. fagskoleloven § 39 andre ledd. Klage blir beskrevet nærmere i kapittel 5 i denne forskriften.
+(5) Anledningen til annullering blir ikke foreldet, jf. fagskoleloven § 24 femte ledd.

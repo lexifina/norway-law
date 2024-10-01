@@ -1,0 +1,6 @@
+# § 2-1. Studierett
+(1) Studierett er en rettighet knyttet til det å være tatt opp som student ved et studium eller et emne, og ha status som student. Studieretten er knyttet til utdanningen eller emnet på det studiestedet studenten har fått opptak til. Den gir rett til å følge lukket undervisning, eventuell praksis, kurs og seminar og til å gå opp til eksamen i samsvar med gjeldende studieplan. Ved krav om betalt semester eller studieavgift, må denne være innfridd innen angitt frist for å oppnå studierett.
+(2) Om studierettens lengde (varighet) gjelder at
+a) Ved opptak til en utdanning blir studenten tildelt studierett med varighet lik normert studietid for utdanningen.
+b) En student som er tatt opp til en utdanning med mellom ett og tre års studietid, kan etter avtale om endring i studieplan (avvikende studieplan), få utvida studieretten i inntil ett år utover normert studietid.
+(3) Studieretten faller automatisk bort når studieprogrammet eller emnet er fullført og bestått. En student som har fullført ei utdanning, har rett til å forbedre karakter i inntil ett år etter at utdanningen er fullført. Det vil påløpe egen betaling for forbedringskarakter, jf. § 2-6 Studieavgift og egenbetaling.

@@ -1,0 +1,7 @@
+# § 3-12. Annullering av godskriving og fritak
+(1) Styret ved Fagskolen Rogaland kan annullere godskriving eller fritak etter § 3-11 dersom en student har fått slik godskriving eller fritak ved å benytte et falskt vitnemål eller andre falske dokument, eller ved å opptre utilbørlig på annen måte, jf. fagskoleloven § 24 tredje ledd.
+(2) Dersom fagskolen oppdager at en student har levert falskt vitnemål, andre falske dokument eller dokument som er skrevet ut av falske institusjoner, skal fagskolen melde forholdet til politiet, jf. fagskoleloven § 24 sjuende ledd.
+(3) Etter vedtak om annullering skal eventuelt vitnemål eller karakterutskrift leverast tilbake til Fagskolen Rogaland. Om vitnemål eller karakterutskrift ikke blir levert tilbake til fagskolen i rett tid, kan fagskolen kreve hjelp fra namsmannen i samsvar med reglene i tvangsfullbyrdelsesloven kapittel 13, jf. fagskoleloven § 24 sjette ledd.
+(4) Danner vitnemålet grunnlag for autorisasjon for yrkesutøving, skal fagskolen gi melding om annullering til vedkommende myndighet.
+(5) En student kan klage på et vedtak om annullering etter denne forskriften til Nasjonal klagenemnd for høyere yrkesfaglig utdanning, jf. fagskoleloven § 24 fjerde ledd. Ved vedtak om annullering av godskriving og fritak gjelder forvaltningsloven kapittel III–VI og VIII, jf. fagskoleloven § 39 andre ledd. Klage blir beskrevet nærmere i kapittel 5 i denne forskriften.
+(6) Anledningen til annullering blir ikke foreldet, jf. fagskoleloven § 24, femte ledd.
