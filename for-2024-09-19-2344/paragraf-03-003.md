@@ -1,0 +1,5 @@
+# § 3-3. Rangering av søkere som ikke kan poengberegnes (realkompetansevurdering)
+(1) Kvalifiserte søkere som ikke kan poengberegnes, og som er 23 år eller eldre i opptaksåret, blir rangert etter ei individuell vurdering basert på skjønn, jf. fagskoleforskriften § 17 (1), jf. fagskoleloven § 16 første ledd. Fagskolen Rogaland fastsetter selv kriteriene for denne vurderinga, jf. fagskoleforskriften § 17 (1).
+(2) Formålet med vurderinga er å avdekke om søkeren har likeverdige ferdigheter og kunnskaper jamført med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning, jf. fagskoleforskriften § 17 (1). Opptak gjort på bakgrunn av realkompetanse vil kun gjelde for den utdanninga søkeren blir realkompetansevurdert til.
+(3) I vurderingen skal fagskolen legge vekt på søkerens reelle kvalifikasjoner for studiet, herunder søkerens norskkunnskaper.
+(4) Rektor er ansvarlig for opptak på bakgrunn av realkompetanse etter innstilling fra avdelingsleder, jf. § 1-3 i denne forskrifta.
