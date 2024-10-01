@@ -1,0 +1,4 @@
+# § 9. Krav om tilbakebetaling
+Husbanken kan kreve tilskuddet tilbakebetalt dersom forutsetningene for tilskuddet ikke overholdes.
+Studentboliger som helt eller delvis er finansiert med tilskudd, kan ikke avhendes eller pantsettes uten Husbankens samtykke. Studentsamskipnader og studentboligstiftelser skal tinglyse en urådighetserklæring i forbindelse med tilsagn om tilskudd.
+Hvis studentboligene avhendes, omdisponeres til andre formål eller på annen måte overføres til tredjepart før det har gått 15 år siden bygget ble ferdigstilt, skal hele det mottatte tilskuddet tilbakebetales. Etter 15 år reduseres forpliktelsen med 50 prosent. Deretter reduseres den resterende forpliktelsen med 3,33 prosent av opprinnelig tilskudd de neste 15 årene. Etter 30 år er hele tilskuddet ettergitt. Denne bestemmelsen gjelder også for tidligere mottatte tilskudd.
