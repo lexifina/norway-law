@@ -1,0 +1,3 @@
+# § 3 e. (Krav til leger og psykologer mv.)
+Tilsynsmyndigheten kan i forskrift gi nærmere bestemmelser om godkjenning av leger og psykologer som skal vurdere om personell nevnt i § 3 d første ledd, oppfyller de kravene til helse, fysisk og psykisk skikkethet som er gitt med hjemmel i § 3 d.
+Personer med godkjenning etter første ledd plikter uavhengig av annen lovpålagt taushetsplikt å rapportere til tilsynsmyndigheten om forhold som er av betydning for å oppnå eller inneha godkjenning etter § 3 d. Enhver som utfører tjeneste eller arbeid for tilsynsmyndigheten og som i slike tilfeller mottar eller behandler opplysninger som er undergitt strengere taushetsplikt enn det som følger av forvaltningsloven, er underlagt tilsvarende strenge taushetsplikt.

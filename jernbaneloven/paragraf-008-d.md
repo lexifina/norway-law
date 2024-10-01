@@ -1,0 +1,5 @@
+# § 8d. (Arbeidstakernes rettigheter ved konkurranse om avtale om persontransport med jernbane, herunder sporvei, tunnelbane og forstadsbane)
+Reglene i arbeidsmiljøloven §§ 16-2 til 16-7 om arbeidstakernes rettigheter ved virksomhetsoverdragelse gjelder tilsvarende ved konkurranse om avtale om persontransport med jernbane, dersom virksomheten etter konkurransen blir drevet med samme type transportmiddel som før.
+Oppdragsgiveren skal informere de som vil delta i konkurransen, om hvor mange ansatte i den virksomheten som driver den transporten oppdraget gjelder, som blir berørt av konkurransen, og om deres ansiennitet, alder og lønns- og arbeidsvilkår.
+Fylkeskommunen kan i forbindelse med slik konkurranse kreve informasjonen nevnt i andre ledd, utlevert fra enhver virksomhet som driver persontransport med jernbane.
+Oppdragsgiveren skal i sine kontrakter stille krav om at ansatte hos leverandører og eventuelle underleverandører som direkte medvirker til å oppfylle kontrakten, har lønns- og arbeidsvilkår i samsvar med anskaffelsesloven med forskrifter.

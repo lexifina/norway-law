@@ -1,0 +1,3 @@
+# § 12. (Tilsyn med omsetning av delsystemer og samtrafikkkomponenter mv.)
+Tilsynsmyndigheten kan pålegge den som bringer i omsetning en samtrafikkomponent, å begrense anvendelsesområdet, forby bruk eller tilbakekalle samtrafikkomponenten fra markedet dersom det foreligger risiko for at samtrafikkomponenten ikke oppfyller de grunnleggende kravene. Enhver plikter å gi tilsynsmyndigheten de opplysninger den krever for å få utført sine oppgaver, samt for samme formål å gi tilsynsmyndigheten adgang til lokaler og utstyr knyttet til samtrafikkomponent.
+Departementet kan gi nærmere forskrifter om tilsyn med omsetning av samtrafikkomponenter.

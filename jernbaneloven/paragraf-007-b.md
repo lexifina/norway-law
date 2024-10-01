@@ -1,0 +1,3 @@
+# § 7 b. (Reiseinformasjon og salg av billetter)
+Departementet kan i forskrift gi regler om plikt for jernbaneforetak eller administrasjonsselskap til å utlevere reiseinformasjon og til å bruke bestemte billetteringsløsninger. I forskriften kan det også gis regler om betaling av gebyr for tilknytning til og bruk av elektroniske støttesystemer for billettering. Gebyret skal ikke overstige kostnadene til utvikling og drift av elektroniske støttesystemer for billettering.
+I forskriften etter første ledd kan det gis regler om formater og fremgangsmåter for utlevering av reiseinformasjon, salg av billetter, betaling for billetter og fastsettelse og innkreving av gebyr nevnt i første ledd. I forskriften kan det gjøres unntak fra reglene i finansavtaleloven § 2-1.
