@@ -1,0 +1,4 @@
+# § 6. Opplysninger som skal inngå i delrapport om bruken av beløp som blir trukket fra for sosiale, kulturelle og utdanningsmessige ytelser
+I delrapporten som skal gis i henhold til lov om kollektiv forvaltning av opphavsrett mv. § 36 andre ledd, skal følgende opplysninger inngå:
+a) beløp som er trukket fra for sosiale, kulturelle og utdanningsmessige ytelser, herunder kollektiv fordeling, i regnskapsåret, fordelt på type formål, og for hvert av disse formål en fordeling på kategori av forvaltede rettigheter type bruk
+b) en redegjørelse for bruken av disse beløpene, fordelt på type formål, medregnet kostnader knyttet til forvaltning av de beløp som er trukket fra for å finansiere sosiale, kulturelle og utdanningsmessige ytelser, og de separate beløp som blir brukt til sosiale, kulturelle og utdanningsmessige ytelser.
