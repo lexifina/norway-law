@@ -1,0 +1,3 @@
+# § 2-1. Forenklet fartstidsberegning for ferie og fritid
+Ved beregning av pensjonsgivende fartstid i utenriksfart før 1. oktober 1975 medregnes et tillegg på 20%. Tillegget forutsettes generelt å dekke tid som det er utbetalt feriegodtgjøring og fritidskompensasjon for, men som det ikke har vært plikt til å betale pensjonsavgift for.
+Ved beregning av pensjonsgivende fartstid i innenriksfart før 1. oktober 1975 medregnes likeledes et tillegg på 20%, men begrenset for 6 måneders effektiv fartstid for det enkelte tjenesteforhold, dvs. maksimalt 33 dagers tillegg regnet fra den enkelte avmønstringsdato.

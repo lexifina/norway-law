@@ -1,0 +1,3 @@
+# § 5-2. Beregning av arbeidstakeravgift av sykepenger m.m. som utbetales av Arbeids- og velferdsetaten, jf. lovens § 1 nr. 3 bokstav b
+1) Denne forskrift gjelder for arbeidstakeravgift til pensjonstrygden for sjømenn av sykepenger som gis etter folketrygdloven kapittel 8 for sykdom inntruffet i tid som er pensjonsgivende etter lov om pensjonstrygd for sjømenn, og som utbetales av Arbeids- og velferdsetaten etter dagsatser.
+2) Arbeidstakeravgift av sykepenger etter folketrygdloven kapittel 8, samt omsorgspenger, pleiepenger, opplæringspenger, svangerskapspenger og foreldrepenger etter folketrygdloven kapittel 9 og 14, beregnes med en dagsats som utgjør 12/260 av månedlig avgift etter lovens § 9 nr. 2.
