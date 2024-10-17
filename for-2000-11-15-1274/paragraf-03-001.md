@@ -1,0 +1,3 @@
+# § 3-1. Medregning av tjenestetid i annen pensjonsordning opptjent på skip
+For å nå opp i minstekravet på 150 måneder for rett til pensjon, jf. lovens § 4 nr. 1, kan også medregnes tjenestetid i annen offentlig tjenestepensjonsordning i den utstrekning det gjelder opptjeningstid på skip. Tjenestetid i Statens Pensjonskasse opptjent som statslos regnes i denne forbindelse som opptjent på skip.
+Ved sammenlegging av tjenestetid etter denne bestemmelse regnes bare med tjenestetid i de pensjonsordninger hvor vedkommende har nådd den fastsatte pensjonsalder for rett til pensjon, eller hvor vedkommende oppebærer alderspensjon fra lavere alder.

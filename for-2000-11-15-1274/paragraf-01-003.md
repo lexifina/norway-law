@@ -1,0 +1,2 @@
+# § 1-3. Unntak for visse grupper arbeidstakere som ikke hører til mannskapet
+Unntatt fra pensjonsordningen er musikere, leger, flygere og flymekanikere på skip. Det samme gjelder for personer som utfører reparasjonsarbeider, vedlikeholdsarbeider mv. om bord i skip i fart, når fartøyet ligger i havn for verksted, utrustning eller i dokk, dersom de er tilsatt og lønnet av håndverksfirma, skipsverft og lignende, herunder bemanningsbyråer med dette formål.

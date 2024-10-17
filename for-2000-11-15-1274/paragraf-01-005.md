@@ -1,0 +1,2 @@
+# § 1-5.
+Medlem av Pensjonstrygden for sjømenn som midlertidig arbeider på rederikontor med prosjektarbeid mv., men som senere igjen skal arbeide om bord, opprettholder sitt medlemskap ved fortsatt innbetaling av avgift på vanlig måte innenfor et tidsrom på 12 måneder, jf. pensjonstrygdloven § 1 nr. 3 a). Pensjonstrygden for sjømenn kan i det enkelte tilfelle etter søknad fra rederiet bestemme at medlemskapet opprettholdes ved prosjektarbeid mv. som strekker seg utover 12 måneder, forutsatt at avgift innbetales på vanlig måte. Søknaden rettes til Pensjonstrygden for sjømenn.
