@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne forskriften er å etablere en tilskuddsordning som skal stimulere til økt slakting av kalv av storfe i perioden fra og med 1. januar 2025 til og med 30. april 2025. Ordningen tar sikte på å redusere tilførslene av storfekjøtt primært andre halvår 2025 og med det bedre markedsbalansen for storfekjøtt. Ordningen har som målsetting å ta ut inntil 5 000 kalver i perioden nevnt i første ledd.
