@@ -1,0 +1,3 @@
+# § 11. Tilleggskrav for passasjerskip
+Rederiet skal i samarbeid med lege eller farmasøyt sørge for at passasjerskip til enhver tid er utrustet med nødvendig skipsmedisin. Ved vurdering av hva som er nødvendig, skal det bl.a. tas hensyn til antall passasjerer og deres behov, reisens varighet og faktisk fartsområde.
+Passasjerskip med sertifikat for 100 passasjerer eller mer skal ha om bord akuttmedisinsk koffert med legemidler. Med akuttkoffert menes koffert eller lignende med innhold av legemidler og medisinsk utstyr, som kan anvendes av tilstedeværende lege i behandling av alminnelige, akutte medisinske sykdomstilstander.
