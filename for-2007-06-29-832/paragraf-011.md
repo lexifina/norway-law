@@ -1,0 +1,2 @@
+# § 11. Opplysningsplikt
+Den som skal svare avgift eller ytes tilskudd etter denne forskriften plikter å gi melding om dette til Landbruksdirektoratet, og for øvrig gi alle nødvendige opplysninger som Landbruksdirektoratet krever. Landbruksdirektoratet kan også kreve opplysninger som er nødvendig for å avgjøre om et meieriselskap plikter å svare avgift eller har rett til tilskudd etter denne forskriften.
