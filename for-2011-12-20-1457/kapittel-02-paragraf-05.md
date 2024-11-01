@@ -1,0 +1,3 @@
+# § 2-5. Offentlighet
+(1) Årsregnskapet, årsberetningen og revisjonsberetningen skal, etter fastsetting av årsregnskapet, uten unødig opphold offentliggjøres på pensjonsforetakets hjemmeside på Internett. Pensjonsforetaket skal sørge for at årsregnskapet, årsberetningen og revisjonsberetningen forblir offentlig i minst fem år. Pensjonsforetak uten egen hjemmeside på Internett kan offentliggjøre årsregnskapet, årsberetningen og revisjonsberetningen på foretakets hjemmeside på Internett. Finanstilsynet kan pålegge pensjonsforetaket å opprette hjemmeside på Internett. For øvrig har enhver rett til å gjøre seg kjent med innholdet av dokumentene hos Regnskapsregisteret.
+(2) Første ledd gjelder ikke for filialer av utenlandske pensjonsforetak, jf. regnskapsloven § 8-1

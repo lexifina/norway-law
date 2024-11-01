@@ -1,0 +1,4 @@
+# § 5-1. Generelle bestemmelser
+(1) Regnskapsloven kapittel 7, med unntak av § 7-11a til § 7-14, gjelder ikke med mindre annet følger av bestemmelsene i dette kapittel.
+(2) Pensjonsforetak som anvender regnskapsloven kapittel 4 og 5 på områder som ikke er omfattet av § 3-2 til § 3-5, jf. § 3-1, skal i tillegg til bestemmelsene i dette kapittel gi opplysninger i samsvar med god regnskapsskikk, jf. regnskapsloven § 4-6.
+(3) Pensjonsforetak som anvender IFRS på områder som ikke er omfattet av § 3-2 til § 3-5, jf. § 3-1, skal i tillegg til bestemmelsene i dette kapittel gi opplysninger i samsvar med forskrift 7. februar 2022 nr. 182 om forenklet anvendelse av internasjonale regnskapsstandarder § 4-2 nr. 5, 8, 9 og 10, samt krav etter god regnskapsskikk så langt det er relevant for anvendte måle- og innregnings- og presentasjonsregler.

@@ -1,0 +1,3 @@
+# § 1-3. Anvendelse av internasjonale regnskapsstandarder i konsernregnskapet
+(1) Pensjonsforetak som ikke benytter adgangen etter regnskapsloven § 3-9 fjerde ledd første punktum til å utarbeide konsernregnskap etter internasjonale regnskapsstandarder, skal utarbeide konsernregnskap etter bestemmelsene i denne forskrift.
+(2) For konsernregnskap som utarbeides etter internasjonale regnskapsstandarder i samsvar med regnskapsloven § 3-9 første ledd og fjerde ledd første punktum, gjelder kun følgende bestemmelser i denne forskrift: § 2-1, § 2-3, § 5-10 tredje ledd, § 5-11, § 5-17 første ledd, § 5-26 første ledd, § 5-34, § 5-35, § 5-36, § 5-37 og § 6-3 annet ledd.

@@ -1,0 +1,5 @@
+# § 2-3. Årsberetningens innhold
+(1) I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av regnskapsloven § 2-2:
+a) Dersom pensjonsforetakets solvensmarginkapital ikke oppfyller gjeldende minimumskrav eller for øvrig ikke er forsvarlig sett i forhold til virksomheten, skal styret redegjøre for dette og uttale seg om tiltak som er truffet eller som skal treffes for å sikre pensjonsforetakets drift.
+b) Det skal gis en beskrivelse av de finansielle risikoer som pensjonsforetaket er, og gjennom regnskapsåret har vært, eksponert for. Styret skal redegjøre for de mål og strategier som er fastsatt for risikostyring, og sammenhengen mellom disse og pensjonsforetakets overordnede mål og strategier. Det skal gis en overordnet beskrivelse av pensjonsforetakets risikostyring og organiseringen av denne.
+c) Dersom pensjonsforetaket benytter bufferfondet til å dekke renteforpliktelser på forsikringskontrakter, skal styret redegjøre for dette. Tilsvarende gjelder dersom risikoutjevningsfondet er benyttet til å styrke avsetningen til premiereserve.
