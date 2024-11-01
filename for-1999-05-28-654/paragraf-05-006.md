@@ -1,0 +1,3 @@
+# § 5-6. Finansielle derivater
+Det skal gis en beskrivelse av de finansielle derivatene som er benyttet gjennom året. Det skal redegjøres for spesielle risikofaktorer som er knyttet til de enkelte typer av finansielle derivater.
+Det skal gis opplysninger om nominelt beløp og virkelig verdi per årsslutt for henholdsvis renterelaterte derivater, valutarelaterte derivater, egenkapitalrelaterte derivater samt andre finansielle derivater. Dersom nominelt beløp ikke er representativt for aktiviteten gjennom året skal gjennomsnittlig nominelt beløp for året oppgis. Virkningen av motregning, jf. verdipapirhandelloven kapittel 14, skal fremkomme. Det skal redegjøres for definisjon av nominelt beløp.
