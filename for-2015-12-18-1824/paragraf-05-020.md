@@ -1,0 +1,2 @@
+# § 5-20. Motregning av finansielle eiendeler og forpliktelser
+Det skal gis opplysninger i samsvar med IFRS 7.13B-13F for alle innregnede finansielle instrumenter som motregnes i samsvar med IAS 32.42. IFRS 7.13B–13F gjelder også for innregnede finansielle instrumenter som er gjenstand for en håndhevbar generell avregningsordning eller lignende avtale, uansett om de motregnes i samsvar med IAS 32.42.

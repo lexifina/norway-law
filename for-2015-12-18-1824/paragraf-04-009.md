@@ -1,0 +1,4 @@
+# § 4-9. Flytting av livsforsikringskontrakter – resultatpostene 1.3, 5.2, 6.5 og 7.5
+(1) Resultatpost 1.3 «Overføring av premiereserve og pensjonskapital mv. fra andre forsikringsforetak/pensjonskasser» omfatter bare den del av de overførte midler som er knyttet til forsikringskontrakten som skal inngå i premiereserven til sikring av forpliktelsene i den nye kontrakten. Overskytende bufferfond føres under resultatpostene 6.5 og 7.5.
+(2) Resultatpost 5.2 «Overføring av premiereserve, pensjonskapital mv. og bufferfond til andre forsikringsforetak/pensjonskasser» omfatter alle midler som er knyttet til forsikringskontrakten ved opphør.
+(3) Livsforsikringskontrakter som flyttes med risikoovergang ved årsskiftet, skal resultatføres i det påfølgende regnskapsår. Oppgjørstidspunktet er ikke av betydning for regnskapsføringstidspunktet. I den grad det ikke foreligger fullstendig dokumentasjon for beregning av flyttebeløp, må flyttebeløpets størrelse estimeres.

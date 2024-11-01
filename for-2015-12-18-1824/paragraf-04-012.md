@@ -1,0 +1,4 @@
+# § 4-12. Forsikringsrelaterte driftskostnader – resultatpost 9
+(1) «Salgskostnader» omfatter direkte og indirekte kostnader som følger av salgsaktivitet ved inngåelse og fornyelse av forsikringsavtaler. Salgskostnadene omfatter direkte henførbare kostnader som lønn og drift av salgskorpset, indirekte kostnader knyttet til markedsføring, og administrasjonskostnader i forbindelse med kjøp av forsikring og utstedelse av forsikringsavtale.
+(2) Direkte variable salgskostnader kan balanseføres når de er vesentlige for foretaket.Kostnadsføring skal skje i takt med inntektsføring av premien, men minst med en femtedel årlig.
+(3) «Forsikringsrelaterte administrasjonskostnader» omfatter alle øvrige forsikringsrelaterte driftskostnader som ikke kan henføres til «Salgskostnader» eller til «Forvaltningskostnader», jf. resultatpost 9.1.

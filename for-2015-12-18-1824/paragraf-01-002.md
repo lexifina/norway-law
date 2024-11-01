@@ -1,0 +1,2 @@
+# § 1-2. Anvendelse av internasjonale regnskapsstandarder i selskapsregnskapet
+Selskapsregnskapet skal utarbeides i samsvar med forskrifter om internasjonale regnskapsstandarder gitt i medhold av regnskapsloven § 3-9 annet ledd hvis ikke annet følger av denne forskriften. Regnskapsloven § 3-9 tredje ledd, fjerde ledd annet punktum, samt forskrifter gitt i medhold av regnskapsloven § 3-9 femte ledd, gjelder ikke.
