@@ -1,0 +1,3 @@
+# § 1-4. Anvendelse av internasjonale regnskapsstandarder i konsernregnskapet
+(1) Foretak som ikke anvender adgangen etter regnskapsloven § 3-9 fjerde ledd første punktum til å utarbeide konsernregnskap etter internasjonale regnskapsstandarder, skal utarbeide konsernregnskap etter bestemmelsene i denne forskriften.
+(2) For konsernregnskap som utarbeides etter internasjonale regnskapsstandarder i samsvar med regnskapsloven § 3-9 første ledd og fjerde ledd første punktum, gjelder kun følgende bestemmelser i denne forskriften: § 2-1, § 2-3, § 2-4, § 5-29, § 5-38 første og annet ledd, § 5-43, § 5-44, § 5-52, § 6-1 og § 6-4.

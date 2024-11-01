@@ -1,0 +1,3 @@
+# § 2-3. Årsberetningens innhold
+(1) Dersom foretaket ikke oppfyller gjeldende krav til ansvarlig kapital eller kapitalen for øvrig ikke er forsvarlig sett i forhold til virksomheten, skal styret redegjøre for dette og uttale seg om tiltak som er truffet eller som skal treffes for å sikre foretakets drift.
+(2) Det skal gis en beskrivelse av de finansielle risikoer som foretaket er, og gjennom regnskapsåret har vært, eksponert for. Styret skal redegjøre for de mål og strategier som er fastsatt for risikostyring, og sammenhengen mellom disse og foretakets overordnede mål og strategier. Det skal gis en overordnet beskrivelse av foretakets risikostyring og organiseringen av denne.
