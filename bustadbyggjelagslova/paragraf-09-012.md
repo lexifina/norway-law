@@ -1,0 +1,4 @@
+# § 9-12. Forvaltninga av det overdragande laget
+(1) Når samanslåinga er registrert i Føretaksregisteret, kan det overtakande laget etter allmenne reglar overføre formelle posisjonar som eigar eller rettshavar til eignedelar som har høyrt til det overdragande laget.
+(2) Dersom det går fram av planen for samanslåing at det overtakande laget skal overta forvaltninga av eit overdragande lag så snart planen er godkjend av laga, skal det overtakande laget syte for at eignedelane og sakene i det overdragande laget blir haldne for seg til samanslåinga er gjennomført.
+(3) Det overtakande laget skal ta vare på rekneskapsmateriale frå det overdragande laget i samsvar med regnskapsloven § 2-7 i minst 10 år etter den endelege oppløysinga. Det same gjeld bøkene til laget. Registrerte rekneskapsopplysningar skal kunne bli gjengitt i samsvar med regnskapsloven § 2-2 i minst ti år etter den endelege oppløysinga.

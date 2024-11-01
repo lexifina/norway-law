@@ -1,0 +1,5 @@
+# § 11-4. Krav på vegner av laget
+(1) Har generalforsamlinga gitt ansvarsfritak eller forkasta framlegg om å krevje skadebot etter § 11-1, kan ein tiandedel, men minst fem, av andelseigarane som har teikna andelar før siste årsskifte, gjere skadebotansvar gjeldande på vegner av og i namnet til laget. Er søksmål om skadebot reist, kan det halde fram sjølv om nokre andelseigarar trekkjer seg frå søksmålet eller melder seg ut av laget, eller andelen går over til andre.
+(2) Søksmålet om skadebot må reisast ved felles fullmektig innan tre månader etter at vedtaket blei gjort av generalforsamlinga. Er det kravt gransking etter §§ 5-24 til 5-26, blir fristen rekna frå den dagen kravet er endeleg avslege eller i tilfelle granskinga er avslutta.
+(3) Kostnadene med søksmålet om skadebot er laget uvedkomande. Kostnadene kan likevel krevjast dekte av laget med opp til den summen som er komen laget til gode ved søksmålet.
+(4) Paragrafen her gjeld ikkje når vedtaket som nemnt i første ledd er gjort med fleirtal som for vedtektsendring. Det same gjeld ved inngått forlik.

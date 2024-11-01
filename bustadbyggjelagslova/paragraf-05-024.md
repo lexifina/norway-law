@@ -1,0 +1,3 @@
+# § 5-24. Framlegg om gransking
+(1) Ein andelseigar eller delegert kan gjere framlegg om gransking av stiftinga eller forvaltninga av laget eller nærare oppgitte omstende kring forvaltninga eller rekneskapane. Framlegget kan gjerast i ordinær generalforsamling eller på ei generalforsamling der det går fram av innkallinga at sak om slik gransking skal takast opp.
+(2) Får framlegget tilslutning frå minst ein tiandedel av dei andelseigarane eller dei delegerte som møter på generalforsamlinga, kan kvar andelseigar innan ein månad etter generalforsamlinga krevje at tingretten ved orskurd tek avgjerd om gransking.

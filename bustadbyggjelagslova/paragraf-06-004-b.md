@@ -1,0 +1,3 @@
+# § 6-4 b. Krav til kjønnssamansetjing for styremedlemmer valde av og blant dei tilsette
+(1) Dersom det skal veljast to eller fleire styremedlemmer etter § 6-4, kan ikkje alle desse styremedlemmene ha same kjønn. Det same gjeld for varamedlemmer. Første og andre punktum gjeld ikkje dersom meir enn 80 prosent av det samla talet på dei tilsette i laget på det tidspunktet valet skjer, har same kjønn.
+(2) For lag med fleire enn 200 tilsette, skal kjønnssamansetjinga blant styremedlemmer som skal veljast av dei tilsette etter § 6-4, oppfylle krava i § 6-4 a andre og tredje ledd, likevel slik at om det blir valt to styremedlemmer etter § 6-4, kan ikkje desse ha same kjønn. Talet på tilsette skal reknast likt som etter § 6-4.

@@ -1,0 +1,3 @@
+# § 10-4. Kreditorvarsel
+(1) Ved registrering av meldinga om oppløysing skal Føretaksregisteret kunngjere vedtaket om å oppløyse laget i Brønnøysundregistra sin elektroniske kunngjeringspublikasjon. I kunngjeringa skal kreditorane til laget varslast om at dei må melde sine krav til avviklingsstyret innan seks veker frå kunngjeringa, og om at krav som blir melde etter at overskot er utdelt, ikkje vil bli dekte, om dei ikkje alt er kjende for avviklingsstyret. Namn og adresse til leiaren av avviklingsstyret skal gå fram av kunngjeringa.
+(2) Alle kreditorar med kjend adresse skal så vidt mogleg varslast særleg av laget.

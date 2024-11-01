@@ -1,0 +1,4 @@
+# § 10-15. Behandling av saker om oppløysing etter § 10-14
+(1) Når vilkåra i § 10-14 første ledd nr. 1 til 3 er oppfylte, skal Føretaksregisteret sende laget varsel om det. I tilfelle som nemnde i § 10-14 første ledd nr. 4 skal Rekneskapsregisteret sende varselet. Laget skal få ein frist på ein månad til å rette tilhøvet og melding om følgjene av at fristen ikkje blir halden.
+(2) Har laget ikkje retta tilhøvet når fristen går ut, skal Føretaksregisteret eller Rekneskapsregisteret ta opp igjen varselet ved kunngjering i Brønnøysundregistra sin elektroniske kunngjeringspublikasjon. I kunngjeringa skal det opplysast at vilkåra for oppløysing av laget er oppfylte, og at laget har ein frist på fire veker frå kunngjeringa til å rette tilhøvet. Følgjene av at fristen ikkje blir halden, skal også opplysast.
+(3) Dersom det er tenleg, kan tingretten gi varsel etter føresegna her.

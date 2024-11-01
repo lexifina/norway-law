@@ -1,0 +1,4 @@
+# § 10-9. Utdeling av overskot
+(1) Utdeling av overskot kan ikkje skje før lagsskyldnadene er dekte, og det er gått minst to månader sidan siste kunngjering av kreditorvarselet etter § 10-4.
+(2) Utdeling kan likevel skje når det berre står igjen uvisse eller omtvista skyldnader, og det blir sett av ein tilstrekkeleg sum til å dekkje dei og eventuelle sakskostnader med desse. Om ikkje anna er avtala, skal summen setjast inn på felleskonto for laget og den kreditoren det gjeld, slik at uttak ikkje kan skje utan skriftleg samtykke frå begge partar eller endeleg dom.
+(3) Andelseigarar som har betalt inn innskotskapital etter § 3-1 fjerde ledd, har rett til å få tilbake slik kapital dersom det er overskot i laget etter at skyldnadene er dekte. Overskot ut over dette skal nyttast til allmennyttige føremål til beste for bustadbygginga der laget har hatt si hovudsaklege verksemd.
