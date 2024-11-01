@@ -1,0 +1,6 @@
+# § 5-4. Finansiell markedsrisiko
+Opplysninger om finansiell markedsrisiko som nevnt i regnskapsloven § 7-5 annet ledd skal minst omfatte:
+1) Opplysninger om hvordan virkelig verdi av finansielle instrumenter som er rentebærende eller har annen rentetilknytning påvirkes av endringer i rentenivået. Som et minimum skal det gis opplysninger om tidsrommet fram til avtalt tidspunkt for endring av rentebetingelser. Renteendringstidspunktene skal inndeles etter følgende intervaller: inntil 1 måned, fra 1 måned til 3 måneder, fra 3 måneder til 1 år, fra 1 år til 5 år, over 5 år, poster uten løpetid og totalt for alle intervaller inklusive poster uten løpetid.
+2) Opplysninger om hvordan virkelig verdi av finansielle instrumenter påvirkes av valutakursendringer. Som minimum skal det gis opplysninger om valutaposisjoner for de viktigste valutaene. Nettoposisjonen per valuta omregnet til norske kroner skal spesifiseres på hovedgrupper av finansielle eiendeler, gjeld og ikke balanseførte derivater.
+3) En redegjørelse for risikoprofilen i aksjeporteføljen.
+Dersom risikoprofilen på balansedagen avviker vesentlig fra situasjonen gjennom året eller etter regnskapsårets utgang, skal det gis ytterligere opplysning om dette.

@@ -1,0 +1,2 @@
+# § 2-4. Valg av regnskapsmodell
+Foretak som nevnt i § 1-1 kan utarbeide selskapsregnskap etter regnskapsloven § 3-9 annet ledd, forskrift 21. januar 2008 nr. 57 om forenklet anvendelse av internasjonale regnskapsstandarder eller ordinære regler i regnskapsloven og denne forskrift. Tilsvarende gjelder ved utarbeidelse av konsernregnskap for foretak som ikke omfattes av forordning (EF) nr. 1606/2002 artikkel 4.
