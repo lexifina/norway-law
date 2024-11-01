@@ -1,0 +1,10 @@
+# § 3. Definisjoner
+a) Med større virksomheter menes virksomheter som er foretak av allmenn interesse etter regnskapsloven § 1-6, eller som på balansedagen overskrider minst to av følgende tre terskler: Morselskaper skal regnes som større virksomheter dersom vilkårene er oppfylt for mor- og datterselskaper sett som en enhet. Når et foretak på balansedagen overskrider eller ikke lenger overskrider grensene for minst to av de tre tersklene for balansesum, salgsinntekter og gjennomsnittlig antall ansatte, skal dette forholdet få virkning for om et foretak regnes som en større virksomhet først for det andre av to regnskapsår etter hverandre hvor forholdet har inntruffet.
+1) salgsinntekt: 70 millioner kroner
+2) balansesum: 35 millioner kroner
+3) gjennomsnittlig antall ansatte i regnskapsåret: 50 årsverk.
+b) Med grunnleggende menneskerettigheter menes de internasjonalt anerkjente menneskerettighetene som følger av blant annet FNs konvensjon om økonomiske, sosiale og kulturelle rettigheter fra 1966, FNs konvensjon om sivile og politiske rettigheter fra 1966 og ILOs kjernekonvensjoner om grunnleggende rettigheter og prinsipper i arbeidslivet.
+c) Med anstendige arbeidsforhold menes arbeid som ivaretar grunnleggende menneskerettigheter etter bokstav b og helse, miljø og sikkerhet på arbeidsplassen, og som gir en lønn å leve av.
+d) Med leverandørkjede menes enhver i kjeden av leverandører og underleverandører som leverer eller produserer varer, tjenester eller andre innsatsfaktorer som inngår i en virksomhets levering av tjenester eller produksjon av varer fra råvarestadiet til ferdig produkt.
+e) Med forretningspartner menes enhver som leverer varer eller tjenester direkte til virksomheten, men som ikke er en del av leverandørkjeden.
+Departementet kan gi forskrift om hva som anses som grunnleggende menneskerettigheter etter første ledd bokstav b og anstendige arbeidsforhold etter første ledd bokstav c. Departementet kan gi forskrift om unntak fra større virksomheter etter første ledd bokstav a.
