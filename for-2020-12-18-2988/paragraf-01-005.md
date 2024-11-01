@@ -1,0 +1,3 @@
+# § 1-5. Overgangsbestemmelser
+(1) Finanstilsynet gir godkjenning som statsautorisert revisor til person som har fullført utdanning som nevnt i lov 15. januar 1999 nr. 2 om revisjon og revisorer (revisorloven) § 3-2 første ledd, hvis vedkommende senest 31. desember 2025 har søkt om godkjenning og oppfyller kravene i revisorloven § 3-3 til § 3-4 og forskrifter gitt i medhold av disse.
+(2) Hvis det er mer enn fem år siden utløpet av det kalenderåret utdanning nevnt i første ledd ble oppfylt, må søkeren oppfylle kravene i revisorloven § 5-1 første og annet ledd. Dokumentasjonskravet i § 5-1 fjerde til sjette ledd gjelder.
