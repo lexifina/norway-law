@@ -1,0 +1,6 @@
+# § 7. Virksomhetenes behandling av informasjonskrav
+Informasjon etter § 6 skal gis skriftlig og være dekkende og forståelig.
+Virksomheten skal gi informasjon innen rimelig tid og senest innen tre uker etter at informasjonskravet er mottatt. Dersom mengden eller typen informasjon som etterspørres, gjør det uforholdsmessig byrdefullt å besvare informasjonskravet innen tre uker, skal informasjonen gis innen to måneder etter at kravet er mottatt. Virksomheten skal da senest innen tre uker etter at informasjonskravet er mottatt, opplyse informasjonssøkeren skriftlig om forlengelsen av fristen, grunnene til forlengelsen, og når informasjonen kan ventes.
+Dersom virksomheten avslår et informasjonskrav, skal den informere om det rettslige grunnlaget for avslaget, adgangen og fristen for å kreve nærmere begrunnelse for avslaget og om Forbrukertilsynet som tilsyns- og veiledningsorgan.
+Den som får avslag på et informasjonskrav, kan innen tre uker fra avslaget ble mottatt, kreve å få en nærmere begrunnelse for avslaget. Begrunnelsen skal gis skriftlig, snarest mulig og senest innen tre uker etter at kravet om nærmere begrunnelse ble mottatt.
+Departementet kan gi forskrift om virksomhetenes behandling av informasjonskrav.
