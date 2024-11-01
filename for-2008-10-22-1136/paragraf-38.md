@@ -1,0 +1,23 @@
+# § 7-5. Opphevelse av forskrifter
+Fra samme tid oppheves
+- forskrift 14. mars 1996 nr. 1477 om markedsregulering av norskprodusert kjøtt
+- forskrift 21. juni 2002 nr. 772 om markedsregulering av norskprodusert korn og oljefrø
+- forskrift 28. november 1996 nr. 1478 om markedsregulering av norskprodusert melk og melkeprodukter
+- forskrift 30. november 1993 nr. 1440 om markedsregulering av norskprodusert egg
+- forskrift 17. mars 2004 nr. 554 om prisnedskrivning ved salg av kasein til industriformål
+- forskrift 27. november 1998 nr. 1570 om dekning av kostnader ved transport av melk til produksjon av reguleringsprodukter
+- forskrift 12. mai 1998 nr. 1569 om prisnedskrivning ved salg av melkefett i form av smørolje til margarinindustrien
+- forskrift 13. mai 1997 nr. 1556 om gjennomføring av skulemjølkordninga
+- forskrift 5. desember 2003 nr. 1602 om markedsregulators forsyningsplikt innenfor melkesektoren
+- forskrift 29. juni 1993 nr. 1439 om priskompensasjon for skilleprodukter og praktisering av Prior Norge kjøpeplikt på norskprodusert eggehvite
+- forskrift 8. juni 1995 nr. 1217 om godkjente eggpakkeriers adgang til å levere overskuddsegg til markedsregulator
+- forskrift 17. juni 2008 nr. 761 om billigsalgsaksjoner for epler i 2008
+- forskrift 17. juni 2008 nr. 763 om tilskudd ved fabrikklevering av epler 2008
+- forskrift 17. juni 2008 nr. 762 om tilskudd til reguleringslagring av epler i 2008
+- forskrift 23. september 1993 nr. 1442 om anvendelse av midler avsatt under jordbruksavtalen til avsetningstiltak for honning
+- forskrift 25. september 2000 nr. 1707 om reguleringsvarer i kjøttsektoren
+- forskrift 19. juni 2003 nr. 1885 om avsetningstiltak for matpoteter
+- forskrift 29. september 2004 nr. 1372 om reguleringsvare og forretningsmessig lagringsperiode i melkesektoren
+- forskrift 21. mai 1979 nr. 4272 om tilbakebetaling av tilskudd bevilget til reguleringsanlegg
+- forskrift 25. september 1991 nr. 1018 om anvendelse av midler fra omsetningsavgiften til faglige tiltak og opplysningsvirksomhet
+- forskrift 5. juni 1997 nr. 1557 om tilskot til produsentretta rådgjeving i grøntsektoren.
