@@ -1,0 +1,4 @@
+# § 4-3-5. Ukebestilling og rullerende prognoser, spesifisert per dag
+Meieriselskaper som benytter seg av forsyningsplikten skal, med mindre annet er avtalt, før kl. 15.00 onsdag hver uke ha sendt markedsregulator sin bestilling av melk for kommende uke. Bestillingene skal være spesifisert pr. ukedag og bør på månedsbasis samsvare med den siste oppdaterte årsprognose. Det forutsettes at bestilt volum er tilpasset hele vogntog. Tine SA bekrefter levering ved å oversende meieriselskapet en leveranseplan for kommende uke innen fredag kl. 10.00. Bestilling og leveranseplan er bindende.
+I forbindelse med høytider og bevegelige helligdager kan tidsfristene i denne bestemmelsen endres av markedsregulator.
+Meieriselskaper som benytter seg av forsyningsplikt til produksjon av ikke flytende melkeprodukter plikter å levere en rullerende åtte ukers prognose spesifisert per dag i forbindelse med ukentlig bestilling.

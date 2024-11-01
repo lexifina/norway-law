@@ -1,0 +1,3 @@
+# § 5-3-2. Mottaksplikt på fløte og smør
+Markedsregulator skal pålegges mottaksplikt på innenlands produsert fløte og smør fra meieriselskaper i prisutjevningsordningen for melk når det er definert overskudd av melkefett i markedet. I slike tilfeller skal det benyttes en pris som tilsvarer verdien av produksjonsfløte eller tilvirkningsverdien på smør fastsatt i forskrift av 29. juni 2007 nr. 904 om satser i prisutjevningsordningen for melk og satser for produksjonsfløte og tilvirkningsverdi på smør.
+Nærmere bestemmelser vedrørende varespesifikasjon, kvalitetskrav og emballasje kan fastsettes av Omsetningsrådet.

@@ -1,0 +1,2 @@
+# § 4-3-1. Forsyningsplikten til produksjon av flytende melkeprodukter
+Til produksjon av flytende melkeprodukter har markedsregulator forsyningsplikt til uavhengige meieriselskaper på en slik måte at disse stilles på lik linje med markedsregulators egne produksjonsmeierier, men årlig oppad begrenset til 15 mill. liter melk pr. anlegg. For forsyninger utover dette, stilles krav om leveranser fra egne leverandører. Forsyningsplikten for dette kvantum settes til enhver tid til det dobbelte av det kvantum melk som på månedsbasis veies inn fra egne leverandører.

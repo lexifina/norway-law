@@ -1,0 +1,6 @@
+# § 5-4-1. Generelt
+Markedsregulators mottaksplikt for egg fra uavhengige eggpakkerier, skal sikre avsetningsadgang for alle primærprodusenter.
+Mottaksplikten for egg fra uavhengige eggpakkerier skal inntre når det er overskudd i det innenlandske markedet og markedsregulator gjennom året har avsetningsmuligheter for varen.
+Det defineres som overskuddssituasjon i eggmarkedet, når markedsregulators prognoser over leveranser fra egne produsenter og salg av egg, viser et overskudd for kommende måned. I salg av egg inngår leveranser til andre markedsaktører knyttet til forsyningsplikten.
+Mottaksplikten i den kommende måned avgrenses til det enkelte eggpakkeriforetaks andel av samlet omsetning via eggpakkerier foregående år, multiplisert med beregnet samlet markedsoverskudd for kommende måned. Beregnet overskudd framkommer som summen av markedsregulators og de uavhengige aktørenes overskudd for kommende måned, hvor det forutsettes at alle aktører har samme relative overskudd som markedsregulator. Mottaksplikten skal ikke gjelde i måneder der den uavhengige aktøren mottar leveranser etter forsyningsplikten.
+Markedsregulator skal innen den 15. i hver måned informere de uavhengige eggpakkeriene om hvor stort kvantum egg de kan levere over mottaksplikten den kommende måneden.

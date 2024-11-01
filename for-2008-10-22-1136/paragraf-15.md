@@ -1,0 +1,3 @@
+# § 4-3-4. Årsprognoser fra meieriselskapene
+Meieriselskaper som benytter seg av forsyningsplikten skal innen 10. august hvert år oversende Tine SA en prognose for neste års behov for rå melk, spesifisert per måned. Meieriselskapene oppdaterer årsprognosen fire ganger per år; per 1. november, 10. februar, 10. mai og 10. august. Årsprognosen vil danne utgangspunkt for blant annet markedsregulators prognoser og budsjett for melkeanvendelsen.
+Ved vesentlige endringer i leveranser av rå melk og/eller prognosert volum hos et meieriselskap, skal meieriselskapet gi melding til markedsregulator så snart som mulig.
