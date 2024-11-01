@@ -1,0 +1,3 @@
+# § 3-1. Unntak fra taushetsplikten overfor tilsynsmyndigheter i land utenfor EØS
+(1) Finanstilsynet kan ved enkeltvedtak bestemme at revisor eller revisjonsselskap uten hinder av taushetsplikten i revisorloven § 10-1 kan gi opplysninger eller utlevere dokumentasjon til tilsynsmyndigheter i land utenfor EØS når den reviderte har utstedt omsettelige verdipapirer som er opptatt til handel på et regulert marked, eller inngår i konsern som utarbeider konsernregnskap underlagt revisjonsplikt i vedkommende land.
+(2) Finanstilsynet kan ved enkeltvedtak nekte revisor eller revisjonsselskap å gi opplysninger eller utlevere dokumenter til tilsynsmyndigheter i andre land, dersom det er nødvendig for å oppfylle Norges internasjonale forpliktelser.

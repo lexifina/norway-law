@@ -1,0 +1,3 @@
+# § 1-2. Unntak fra krav om praksis fra revisjonsforetak
+(1) Praksis fra kommunal- og fylkeskommunal revisjon og fra Riksrevisjonen kan godkjennes som praksis etter revisorloven § 3-3 første ledd. Kravet til variert praksis gjelder på tilsvarende måte, og praksisen må være opparbeidet under veiledning av en statsautorisert revisor. Det må fremgå av dokumentasjonen hvem som har vært veileder.
+(2) Finanstilsynet kan godkjenne inntil ett års praksis fra internrevisjon, skatterevisjon, utarbeidelse av årsregnskap etter regnskapsloven eller annen relevant virksomhet som praksis etter revisorloven § 3-3 første ledd.
