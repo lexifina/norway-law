@@ -1,0 +1,3 @@
+# § 5-16. Motregning av finansielle eiendeler og finansielle forpliktelser
+(1) Pensjonsforetak som har motregnet innregnede finansielle instrumenter, jf. § 4-4, skal gi opplysninger som setter brukere av årsregnskapet i stand til å evaluere effekten eller potensielle effekter av motregningsavtaler på pensjonsforetakets finansielle stilling. Det skal gis tilsvarende opplysninger for innregnede finansielle instrumenter som er underlagt en håndhevbar masternettingavtale eller en lignende avtale uavhengig av om det er foretatt motregning.
+(2) Det skal gis en beskrivelse av rettigheter ved motregningsavtaler knyttet til pensjonsforetakets innregnede finansielle eiendeler og finansielle forpliktelser.
