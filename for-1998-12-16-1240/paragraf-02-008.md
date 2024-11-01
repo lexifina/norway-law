@@ -1,0 +1,3 @@
+# § 2-8. Offentlighet
+Årsregnskapet, årsberetningen og revisjonsberetningen skal, etter fastsetting av årsregnskapet, uten unødig opphold offentliggjøres på institusjonens hjemmeside på Internett. Institusjonen skal sørge for at årsregnskapet, årsberetningen og revisjonsberetningen forblir offentlig i minst fem år. Finanstilsynet kan pålegge institusjonen å opprette hjemmeside på Internett. For øvrig har enhver rett til å gjøre seg kjent med innholdet av dokumentene hos Regnskapsregisteret.
+Første ledd gjelder ikke for filialer av utenlandske institusjoner, jf. regnskapsloven § 8-1 annet ledd.

@@ -1,0 +1,2 @@
+# § 8-2. Innhold i delårsregnskap
+Delårsregnskapet skal utarbeides i samsvar med IAS 34. Det er likevel ikke krav til å utarbeide kontantstrømoppstilling. Resultatregnskap og balanse skal minst angi hovedpostene i oppstillingsplanene, jf. § 4-1 og § 4-2. Kravet i IAS 34.16A litra j) om å gi opplysninger om virkelig verdi på finansielle instrumenter, kan fravikes under forutsetning av at det gis opplysninger i samsvar med § 7-3.

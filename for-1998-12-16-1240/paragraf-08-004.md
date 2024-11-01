@@ -1,0 +1,2 @@
+# § 8-4. Offentlighet m.v.
+Delårsregnskapet skal vedtas av institusjonenes styre innen 45 dager etter regnskapsperiodens slutt, og uten unødig opphold offentliggjøres på institusjonens hjemmeside på Internett. Institusjonen skal sørge for at delårsregnskapet forblir offentlig i minst fem år. Finanstilsynet kan pålegge institusjonen å opprette hjemmeside på Internett. Det skal gis opplysninger om hvilke deler av delårsregnskapet som er revidert.

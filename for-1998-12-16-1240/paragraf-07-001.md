@@ -1,0 +1,2 @@
+# § 7-1. Alminnelig opplysningsplikt
+Regnskapsloven § 7-15 første til tredje ledd, § 7-26, § 7-27 annet ledd, § 7-30, § 7-30a, § 7-31, § 7-31a, § 7-31b og § 7-32 gjelder med de unntak og tillegg som følger av bestemmelsene i dette kapittel. Opplysninger som nevnt i dette kapittel kan utelates når de ikke er av betydning for å bedømme institusjonens eller konsernets stilling og resultat. Det skal likevel alltid gis opplysninger som nevnt i § 7-5 og § 7-7.
