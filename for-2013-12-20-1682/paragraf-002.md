@@ -1,0 +1,2 @@
+# § 2. Formål
+Formålet med rapportering etter regnskapskapsloven § 2-10, verdipapirhandelloven § 5-5a og denne forskrift, er å bidra til økt åpenhet om virksomheten til foretak som driver med uttak av ikke-fornybare naturressurser, for dermed å ansvarliggjøre myndighetene for forvaltningen av inntektene av landets naturressurser i land hvor slik virksomhet drives. Rapportering som nevnt i første punktum, skal også bidra til økt åpenhet om foretakenes skatteposisjonering.
