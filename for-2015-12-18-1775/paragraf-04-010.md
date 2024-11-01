@@ -1,0 +1,2 @@
+# § 4-10. Premieinntekter mv. – resultatpost 1
+«Opptjent bruttopremie» beregnes som «forfalt bruttopremie» korrigert for endring i «avsetning for ikke opptjent bruttopremie». «Forfalt bruttopremie» omfatter alle beløp som forsikringsforetaket i regnskapsperioden har mottatt eller har til gode for direkte tegnede forsikringsavtaler og overtatte gjenforsikringsavtaler hvor forsikringsperioden er påbegynt før regnskapsårets avslutning.
