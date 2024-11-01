@@ -1,0 +1,2 @@
+# § 7-4. Aksjer, andeler og andre egenkapitalinstrumenter
+Aksjer, egenkapitalbevis og andeler i andre foretak ført under eiendelspost 6 skal spesifiseres etter foretak. Norske foretak skal angis med organisasjonsnummer. Spesifikasjonen skal omfatte de største postene og minst utgjøre 90 % av institusjonens beholdning av henholdsvis aksjer, egenkapitalbevis og andeler. Det skal opplyses om balanseført verdi, eierandel og antall aksjer i hvert foretak. Aksjer og egenkapitalbevis i finansforetak skal spesifiseres.

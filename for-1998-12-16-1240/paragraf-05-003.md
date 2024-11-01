@@ -1,0 +1,2 @@
+# § 5-3. Provisjonsinntekter og inntekter fra banktjenester – Resultatpost 3
+Under resultatpost 3 føres garantiprovisjonsinntekter, gebyrer og provisjonsinntekter ved blant annet handel med verdipapirer og valuta, forsikringstjenester, mottatte formidlingsprovisjoner i forbindelse med forvaltning av lån for andre långiveres regning og formidling av lån, gebyrer ved betalingsformidling og depot- og forvaltningsgebyrer.
