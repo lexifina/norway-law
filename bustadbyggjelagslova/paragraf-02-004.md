@@ -1,0 +1,4 @@
+# § 2-4. Føresegner om særskilde rettar
+(1) Stiftingsdokumentet skal innehalde opplysning om eventuelle avtalar eller andre føresegner om at laget skal bli part i avtale. I så fall skal det nemnast kva vilkår som skal gjelde, og namn og adresse til den som er tilgodesedd. Fråsegn frå revisor om verdien av eventuell yting som laget skal ta over, skal leggjast ved stiftingsdokumentet. Eventuell særleg avtale om tilbakebetaling av innskotskapital, jf. § 3-1 fjerde ledd, skal gå fram av stiftingsdokumentet.
+(2) Ein avtale eller ei føresegn som ikkje er teken inn i stiftingsdokumentet etter første ledd, kan ikkje gjerast gjeldande mot laget.
+(3) Det kan ikkje takast inn vilkår om at oppgjer av andelar kan skje med anna enn pengar, eller at nokon skal ha særskilde rettar overfor eller fordelar i laget.

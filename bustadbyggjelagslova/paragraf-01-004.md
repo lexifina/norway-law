@@ -1,0 +1,2 @@
+# § 1-4. Forbod mot diskriminering
+I vedtektene kan det ikkje setjast vilkår for å vere andelseigar som tek omsyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstende kan ikkje reknast som sakleg grunn til å nekte godkjenning av ein andelseigar eller ha vekt ved tildeling av bustad. Ved diskriminering gjeld likestillings- og diskrimineringsloven.

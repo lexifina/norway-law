@@ -1,0 +1,4 @@
+# § 5-2. Møterett. Fullmektig
+(1) Alle andelseigarane har rett til å møte i generalforsamlinga. Andelseigarane som har teikna andel etter siste årsskiftet, har likevel ikkje rett til å møte. Andelseigarane kan velje å møte ved fullmektig som dei sjølve peiker ut. Ingen kan vere fullmektig for meir enn ein andelseigar. Møteretten kan ikkje avgrensast i vedtektene på anna vis enn det som går fram av § 5-3.
+(2) Fullmektigen skal leggje fram skriftleg fullmakt. Fullmakta skal vere signert og datert. Fullmakta gjeld berre for den førstkomande generalforsamlinga om det ikkje går tydeleg fram at noko anna er meint. Andelseigaren kan når som helst kalle tilbake fullmakta. Første og andre punktum gjeld tilsvarande for tilbakekalling av fullmakta.
+(3) Kvar andelseigar kan ta med ein rådgivar og kan gi talerett til rådgivaren.
