@@ -1,0 +1,2 @@
+# § 6-4. Offentlighet mv.
+Delårsregnskapet skal vedtas av foretakets styre innen 60 dager etter regnskapsperiodens slutt, og uten unødig opphold offentliggjøres på foretakets hjemmeside på internett. Foretaket skal sørge for at delårsregnskapet forblir offentlig i minst fem år. Finanstilsynet kan pålegge foretaket å opprette hjemmeside på internett. Det skal gis opplysninger om hvilke deler av delårsregnskapet som er revidert.

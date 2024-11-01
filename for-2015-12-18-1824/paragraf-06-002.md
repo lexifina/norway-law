@@ -1,0 +1,2 @@
+# § 6-2. Innhold i delårsrapport
+Delårsrapporter skal utarbeides i samsvar med IAS 34. Resultatregnskap, balanse og oppstilling av endringer i egenkapital skal minst angi hovedpostene i oppstillingsplanene, jf. § 4-4 til § 4-6. Underpostene til resultatpost 19 kan, med unntak av postene 19.1.4, 19.1.5, 19.2.4 og 19.2.5, slås sammen. Kravet i IAS 34.16A litra j) om å gi opplysninger om virkelig verdi på finansielle instrumenter, kan fravikes under forutsetning av det gis opplysninger i samsvar med § 5-6.
