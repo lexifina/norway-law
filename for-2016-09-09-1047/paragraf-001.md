@@ -1,0 +1,4 @@
+# § 1
+Påtalemyndigheten avgjør om det skal bes om rettens samtykke til kommunikasjonskontroll etter straffeprosessloven § 216a og § 216b, romavlytting etter straffeprosessloven § 216m og dataavlesing etter straffeprosessloven § 216o.
+Påtalemyndigheten treffer selv avgjørelsen om kommunikasjonskontroll, romavlytting og dataavlesing i hastesaker etter straffeprosessloven § 216d. Beslutningen med begrunnelse for hvorfor hastekompetansen er benyttet, skal snarest mulig, og senest innen 24 timer etter at kontrollen ble påbegynt, forelegges retten for godkjennelse. Dette gjelder selv om tvangsmiddelbruken er avsluttet før saken kan forelegges retten. Ender fristen på et tidspunkt utenfor rettens ordinære kontortid, forlenges fristen til retten åpner igjen.
+Når politiet treffer avgjørelse eller ber om rettens samtykke til kommunikasjonskontroll, romavlytting og dataavlesing, avgjør politimesteren spørsmålet.

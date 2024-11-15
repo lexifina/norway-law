@@ -1,0 +1,4 @@
+# § 22
+Begjæring om underretning som nevnt i straffeprosessloven § 216j skal sendes til Kontrollutvalget for kommunikasjonskontroll. Ved behandling av begjæring om underretning gjelder politiregisterloven § 59 og politiregisterforskriften § 42-4 tilsvarende for kontrollutvalget med de presiseringer som følger av forskriften her.
+Riksadvokaten og vedkommende politidistrikt skal etter anmodning straks gi kontrollutvalget de opplysninger som er nødvendig for å besvare henvendelsen.
+Før kontrollutvalget gir opplysning om at tvangsmiddelbruken har skjedd, skal politiet underrettes. Hvis underretning til den mistenkte skal unnlates av grunner som er nevnt i straffeprosessloven § 216j første ledd, må politiet sørge for at tingrettens kjennelse forelegges kontrollutvalget innen den frist kontrollutvalget har satt.
