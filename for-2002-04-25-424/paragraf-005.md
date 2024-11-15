@@ -1,0 +1,3 @@
+# § 5. Forhandlingssted
+Forhandlingene holdes normalt om bord eller ved rederikontoret i land, med mindre partene blir enige om et annet forhandlingssted.
+For arbeidstaker bosatt i utlandet skal forhandlingene holdes om bord eller ved norsk utenriksstasjon, med mindre partene blir enige om å velge et annet forhandlingssted. Hvis forhandlinger ikke kan holdes om bord skal de så vidt mulig holdes ved norsk utenriksstasjon på fratredelsesstedet. Er det ikke mulig å gjennomføre forhandlinger i samsvar med første og annet punktum, kan de holdes ved norsk utenriksstasjon på arbeidstakerens bosted eller faste oppholdssted.
