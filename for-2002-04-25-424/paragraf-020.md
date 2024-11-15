@@ -1,0 +1,4 @@
+# § 20. Forhandlingene og partenes adgang til skriftlig fremstilling
+Forhandlingene bør begynne med at den utenrikstjenesteansatte oppfordrer først den som har brakt saken inn, og deretter motparten, til å gi en fremstilling av saken og herunder begrunne sine påstander og uttale seg om motpartens påstander. Dernest finner bevisførselen sted. Fremsetter flere medlemmer av fartøyets besetning krav som er likeartet, kan de velge en til å fremstille saken på samtliges vegne. Før en part avgir fremstilling eller forklaring, skal den utenrikstjenesteansatte foreholde parten ansvaret ved å avgi uriktig forklaring.
+En utenrikstjenesteansatt kan ikke gå utenfor de påstander som partene fremsetter.
+Forhandlingene er muntlige. Den utenrikstjenesteansatte kan likevel tillate en part å legge frem en skriftlig redegjørelse. En slik fremstilling skal leses opp under forhandlingene, og motparten skal gis høve til å uttale seg om den.

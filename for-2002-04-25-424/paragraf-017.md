@@ -1,0 +1,3 @@
+# § 17. Møteplikt mv. for vitner
+Vitner som hører til fartøyets besetning, plikter så vidt mulig å møte og avgi forklaring. Enhver kan likevel nekte å svare på spørsmål når det kan forutsettes at svaret vil utsette dem selv eller deres ektefelle eller slektninger i opp- eller nedstigende linje, søsken eller noen som er like nær i svogerskap, for straff eller tap av den borgerlige aktelse, eller dersom vitnet ikke kan svare uten å åpenbare en forretnings- eller driftshemmelighet.
+Før avhøringen av vitnene skal den utenrikstjenesteansatte oppfordre dem til å si den rene og fulle sannhet og intet fortie og foreholde dem ansvaret ved å avgi uriktig forklaring.

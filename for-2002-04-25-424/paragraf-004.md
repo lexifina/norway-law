@@ -1,0 +1,3 @@
+# § 4. Krav om forhandlinger fra rederiets side
+Krav om forhandlinger fra rederiets side fremsettes innen 14 dager etter at det har mottatt forkynnelse om at søksmål er reist. Kravet sendes i rekommandert sending til den adresse arbeidstakeren har oppgitt. Er stevning tatt ut og arbeidstakeren benytter prosessfullmektig, rettes kravet til prosessfullmektigen. Rederiet skal samtidig skriftlig underrette retten om at forhandlinger vil bli holdt.
+Rederiet skal sørge for at forhandlingsmøte blir holdt snarest mulig og senest innen tre uker etter at kravet er sendt til arbeidstakeren, med mindre partene blir enige om en lengre frist.
