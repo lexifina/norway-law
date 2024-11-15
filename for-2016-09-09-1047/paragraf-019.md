@@ -1,0 +1,3 @@
+# § 19
+Utvalgets medlemmer, dets sekretærer og andre som utfører arbeid for utvalget, har taushetsplikt etter reglene i straffeprosessloven § 216i. Taushetsplikten skal gjelde også etter at saken er avsluttet, men skal ikke være til hinder for at opplysninger blir brukt som ledd i kontrollen, eller for å gi opplysninger i henhold til kapittel 3.
+Utvalgets leder, eller den utvalget gir slik myndighet, kan meddele utad om en sak er under undersøkelse eller om den er ferdigbehandlet, og om det har vært grunnlag for kritikk eller ikke. Utvalgets medlemmer og sekretærer kan gi generelle uttalelser om utvalgets virksomhet. For øvrig kan de ikke uttale seg offentlig.

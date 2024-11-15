@@ -1,0 +1,3 @@
+# § 17
+I saker etter § 15 annet ledd skal utvalget gi den som har begjært kontroll underretning om resultatet av behandlingen i form av en ikke grunngitt konklusjon som går ut på at begjæringen om kontroll enten gir eller ikke gir grunn til kritikk mot politiet eller påtalemyndigheten. Hvis utvalget finner grunn til å kritisere politiet eller påtalemyndigheten, skal saken innberettes til riksadvokaten og Justisdepartementet.
+Utvalget skal hvert år gi innberetning til Justisdepartementet om sin virksomhet og kan ellers på ethvert tidspunkt gi særskilt innberetning til departementet om enkeltsaker vedrørende kommunikasjonskontroll, romavlytting og dataavlesing.
