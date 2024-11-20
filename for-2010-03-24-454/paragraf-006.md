@@ -1,0 +1,3 @@
+# § 6. Aktivering og deaktivering av posisjonsrapporteringsutstyr
+Når posisjonsrapporteringsutstyr installeres, eller enhetens forsegling brytes, skal autorisert installatør informere Fiskeridirektoratet gjennom innsending av skjema. Installasjon eller reparasjon av utstyret anses ikke å være gjennomført før Fiskeridirektoratet har mottatt og godkjent skjemaet. Kvittering på eventuelt godkjent skjema sendes til eier av fartøyet.
+Dersom et fartøy med posisjonsrapporteringsutstyr om bord selges til utlandet, skal fartøyets eier informere Fiskeridirektoratet om dette i god tid, og senest to uker før eierskifte finner sted.

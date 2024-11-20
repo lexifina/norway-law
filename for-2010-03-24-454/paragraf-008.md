@@ -1,0 +1,5 @@
+# § 8. Inmarsat-utstyr
+Inmarsat-utstyr består av sender eller mottakerenhet, antenne og strømforsyningsenhet. Sender eller mottakerenhet skal plasseres på et tørt sted i fartøyet. Antennen skal plasseres slik at best mulig kontakt med satellitt oppnås og slik at signalene ikke blir uleselige på grunn av nærliggende konstruksjoner.
+Skadet eller ødelagt kabel som forbinder sender eller mottakerenhet og antenne skal erstattes med kabel anbefalt for sporingsformål av utstyrsleverandør.
+Dersom utstyret skal programmeres med definisjoner som skal angi bestemte funksjoner («Macro Encode Messages», MEM-koder) og format for tidsangivelse utover gjeldende Inmarsat-standarder, skal koder og formater være i overensstemmelse med de krav som stilles i forbindelse med godkjennelse fra Fiskeridirektoratet.
+Dersom satellittsporingsutstyret som benyttes om bord i fiskefartøyene samtidig skal fungere som radioutstyr i det globale maritime nød- og sikkerhetssystemet GMDSS, skal utstyret installeres i henhold til gjeldende regelverk for installasjon av slikt GMDSS-utstyr.
