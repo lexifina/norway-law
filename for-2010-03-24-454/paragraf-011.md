@@ -1,0 +1,2 @@
+# § 11. Ikrafttredelse
+Denne forskrift trer i kraft straks. Samtidig oppheves forskrift 23. desember 1999 nr. 1592 om krav til utstyr som skal benyttes om bord i fiskefartøy til sporing via satellitt, forskrift 13. juni 2000 nr. 674 om installasjon av satellittsporingsutstyr om bord i fiske- og fangstfartøy og forskrift 28. april 1999 nr. 536 om innføring av satellittbasert overvåkning av fiskefartøyers aktivitet for fartøy som har installert satellittutstyr om bord.
