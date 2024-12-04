@@ -1,0 +1,2 @@
+# § 4-2. Medisinsk vurdering
+Den medisinske vurderingen gjennomføres på grunnlag av legeerklæring på fastlagt skjema og i henhold til Politihøgskolens retningslinjer. Dersom søker mener særskilt skjønn bør utøves må utfyllende legeopplysninger, eventuelt fra behandlende spesialist, dokumenteres av søker innen søknadsfristen. To eller flere sakkyndige leger oppnevnt av Politihøgskolens styre bistår i vurdering av legeerklæringer og dokumenterte helseopplysninger.
