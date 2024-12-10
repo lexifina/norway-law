@@ -1,0 +1,3 @@
+# § 27. Vurderingsformer
+(1) Dekan fastsetter hvilken vurderingsform, evt. kombinasjon av vurderingsformer som skal gjelde for et emne. Oversikt over hvilke vurderingsformer som er fastsatt for et emne, skal omtales i emnebeskrivelsen. Det samme gjelder regler for vekting av de enkelte vurderingsformer. Hvis ikke annet er beskrevet i emnebeskrivelsen, skal alle vurderingene telle med og være bestått før endelig karakter blir gitt. Endring i vurderingsform kan ikke gjøres etter emnets oppstart, uten at alle studenter registrert på emnet skriftlig har akseptert endringen.
+(2) Vurderingsformene skal i hovedsak legges opp slik at studentens klagerett jf. uhl. §§ 11-9 og 11-10 sikres.
