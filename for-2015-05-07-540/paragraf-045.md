@@ -1,0 +1,3 @@
+# § 45. Konsekvenser av ikke bestått praksis eller gyldig fravær
+(1) Når studenten får praksisen vurdert til ikke bestått må hele praksisperioden tas om igjen. Studenten må i slike tilfelle gjennomføre ny praksisperiode neste gang denne blir arrangert ordinært. Dette kan få konsekvenser for studentens studieprogresjon.
+(2) Når studenten har gyldig fravær, utover fraværsgrensen oppført i emnebeskrivelsen eller studieplan, kan høgskolen tilrettelegge for at studenten får ny eller utsatt deler av praksisperioden innenfor samme studieår eller neste studieår. Tilrettelegging skal ikke senke de faglige kravene til praksisen. Selv om fraværet er gyldig, kan forsinkelsen få konsekvenser for studentens studieprogresjon.

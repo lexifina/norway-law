@@ -1,0 +1,4 @@
+# § 12. Tilknytningskrav og forutsetninger for å tilkjennes ny grad
+(1) For at en kandidat skal få utstedt vitnemål for grad fra HiM må minst 60 av studiepoengene, som skal inngå i beregningsgrunnlaget for graden, være avlagt ved HiM.
+(2) Tilknytningskravet til HiM kan være mindre enn 60 studiepoeng i forbindelse med fellesgrader.
+(3) En student som tidligere er tildelt en grad, må gjennomføre minst 90 nye studiepoeng på bachelornivå / 60 nye studiepoeng på masternivå før det kan utstedes nytt gradsvitnemål. Nye studiepoeng skal inkludere masteroppgave. Myndighet til å godkjenne innhold av fordypning i ny grad ligger til dekan. Ny grad tildeles ikke for ny studieretning/spesialisering innenfor samme studieprogram. Kandidaten må opplyse om eventuelle vitnemål utstedt fra annet universitet eller høgskole.

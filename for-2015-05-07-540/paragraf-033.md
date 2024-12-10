@@ -1,0 +1,6 @@
+# § 33. Tilrettelegging ved eksamen
+(1) Studenter som av medisinske eller andre grunner har behov for spesielle ordninger i forbindelse med eksamen, må søke om dette ved semesterstart eller innen fastsatte frister. Behovet må dokumenteres med attest av nyere dato fra lege eller andre sakkyndige. Attestasjonen må inneholde en spesifikasjon av behovet for spesielle ordninger i en eksamenssituasjon.
+(2) Spesielle ordninger kan gis i form av fysiske tilrettelegginger, hjelpemidler og/eller utvidet tid til eksamen.
+(3) Studenter som følger et emne/undervisning som ikke går på deres morsmål, gis anledning til å bruke tospråklige ordbøker ved skriftlig skoleeksamen. Ordboka skal være i papirutgave og originalinnbundet. Elektroniske ordbøker er ikke tillatt. I spesielle tilfeller kan en student på et norsk emne etter søknad få oppgaveteksten på engelsk og lov til å levere sine besvarelser på engelsk, dersom ikke annet er bestemt i studieplan eller emnebeskrivelsen.
+(4) Studenter med dysleksi kan gis anledning til å bruke aktuelle hjelpemidler ved skriftlig skoleeksamen.
+(5) Alternative eksamensformer kan i særlige tilfeller benyttes for studenter som ikke kan gjennomføre eksamen med ordinær eksamensform. Dekanen avgjør slik søknad.
