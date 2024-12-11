@@ -1,0 +1,2 @@
+# § 38. Bruk av vurderingskriterier ved sensur
+Ved siden av de generelle, kvalitative beskrivelsene av vurderingskriterier, kan det benyttes fagspesifikke vurderingskriterier vedtatt av studienemnda. De fagspesifikke vurderingskriteriene skal være tilgjengelige for studentene. Dersom det blir utarbeidet retningslinjer til bruk for sensor(ene) ved den enkelte eksamen, skal denne være tilgjengelig for studentene etter at sensurvedtaket er kunngjort.
