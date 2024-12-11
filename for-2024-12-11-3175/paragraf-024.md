@@ -1,0 +1,4 @@
+# § 24. Fritak for eksamen eller prøve
+(1) Det gis fritak fra eksamen eller prøve når det godtgjøres at tilsvarende eksamen eller prøve er avlagt ved høyskolen tidligere eller ved annen høyskole eller universitet som går inn under lov om universiteter og høyskoler. Det kan også gis slikt fritak på grunnlag av annen velegnet eksamen eller prøve. Dokumentasjon av realkompetanse kan også gi grunnlag for fritak. Studienemnda avgjør saker om fritak.
+(2) Ved innpassing gis det anledning til å avlegge eksamen for flere av emnene under ett, maksimert til 30 studiepoeng per eksamen. Søknad om anledning til å avlegge eksamen for flere emner under ett avgjøres av studienemnda.
+(3) En student kan gis fritak for Examen philosophicum og Examen facultatum når studenten har avlagt en enhetlig og avsluttet eksamen som i nivå og omfang tilsvarer bachelorgraden.

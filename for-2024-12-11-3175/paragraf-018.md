@@ -1,0 +1,8 @@
+# § 18. Læringsmiljø
+(1) Høyskolens styre har det overordnede ansvar for studentenes læringsmiljø, og skal i samarbeid med Ansgar høyskoles læringsmiljøutvalg og studentråd legge forholdene til rette for et godt studiemiljø, arbeide for å bedre studentvelferden på skolen og sørge for at læringsmiljøet ved Ansgar høyskole er i tråd med lov om universiteter og høyskoler § 10-1.
+(2) Høyskolens styre har ansvar for at læringsmiljøet på skolen, herunder det fysiske og psykiske arbeidsmiljø, er fullt ut forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, sikkerhet og velferd.
+(3) Det er ved høyskolen opprettet et læringsmiljøutvalg, som skal bidra til at studentenes læringsmiljø er i henhold til lov om universiteter og høyskoler § 10-10. Læringsmiljøutvalget skal delta i planlegging av tiltak vedrørende læringsmiljø, samt nøye følge utviklingen i spørsmål som angår studentenes sikkerhet og velferd.
+(4) Studentene og ansatte ved har tre representanter hver i Læringsmiljøutvalget. Studentrådet velger tre studentrepresentanter, mens høyskolen oppnevner tre ansatterepresentanter. Utvalget velger hvert år leder vekselvis blant skolens og studentenes representanter.
+(5) Høyskolens arbeid med læringsmiljøet inngår som en del av høyskolens kvalitetssikringssystem.
+(6) Høyskolen vil så langt det er mulig og rimelig legge studieforholdene til rette for studenter med særskilte behov, dog uten at dette medfører reduksjon av de faglige krav som stilles ved det enkelte studium.
+(7) Læringsmiljøutvalget rapporterer direkte til styret, og skal hvert år avgi årsrapport om arbeidet med læringsmiljøet.
