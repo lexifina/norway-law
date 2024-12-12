@@ -1,0 +1,3 @@
+# § 5. Metadata
+Deltakende virksomheter og virksomheter etter § 1 andre ledd skal framstille og oppdatere metadata for geodatasett og tilhørende geodatatjenester. Metadataene skal publiseres gjennom den nasjonale geodataportalen, jf. § 8.
+EØS-avtalen vedlegg XX nr. 1ja (forordning (EF) nr. 1205/2008) om gjennomføring av direktiv 2007/2/EF med hensyn til metadata gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig. Kravene gjelder geodatasett og geodatatjenester etter § 2 første ledd. Kravene gjelder for kommuner og fylkeskommuner når de etter annen lov eller forskrift har plikt til å samle inn eller formidle slike geodata.
