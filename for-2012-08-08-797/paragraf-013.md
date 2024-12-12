@@ -1,0 +1,4 @@
+# § 13. Koordinering og samarbeid om infrastrukturen
+Statens kartverk skal koordinere arbeidet med den geografiske infrastrukturen med bistand fra en samordningsgruppe. Gruppen oppnevnes av Miljøverndepartementet etter forslag fra deltakende virksomheter.
+Deltakende virksomheter og virksomheter etter § 1 andre ledd skal bistå Statens kartverk med å identifisere relevante geodata, klarlegge brukerbehov og ellers bidra til gjennomføringen av geodataloven. To deltakende virksomheter kan avtale at den ene gjør geodatasett tilgjengelige etter kravene i § 5, § 6, § 7, § 11 eller § 12 på vegne av den andre. Statens kartverk og deltakende virksomheter skal samarbeide med tilsvarende organer i nabolandene for å sikre at geodata knyttet til geografiske objekter som strekker seg over grensen til andre EØS-stater, kan virke sammen.
+Statens kartverk skal sikre at teknisk dokumentasjon om den geografiske infrastrukturen er tilgjengelig.
