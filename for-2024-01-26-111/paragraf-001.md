@@ -1,0 +1,3 @@
+# § 1. Naturskadeerstatning
+Naturskadeerstatning er erstatningen for skade på ting i Norge som sikrede har krav på etter naturskadeforsikringsloven § 1 og forskriften her.
+Naturskadeerstatningen omfatter ikke kostnader til forebygging, sikring, flytting eller andre tiltak som ikke skyldes direkte skade på forsikret byggverk eller løsøre, med mindre kostnadene faller inn under naturskadeforsikringsloven § 1 tredje og fjerde ledd. Er en forsikret ting skadet eller direkte truet ved utløst naturulykke, dekkes likevel nødvendige redningskostnader som omhandlet i forsikringsavtaleloven § 6-4, jf. § 4-10, inntil forsikringsverdien.

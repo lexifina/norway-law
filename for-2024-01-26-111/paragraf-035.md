@@ -1,0 +1,3 @@
+# § 35. Tvister mellom skadeutvalget og poolens medlemmer
+Oppstår det tvist mellom et medlem i poolen og skadeutvalget om hvorvidt en skade kan utlignes etter reglene i dette kapittelet, avgjør poolens styre spørsmålet. Avgjørelser truffet av Klagenemnda for naturskadesaker etter naturskadeforsikringsloven § 2 første ledd og § 3 fjerde ledd er likevel bindende for styret.
+Et medlem kan før eller etter styrets avgjørelse kreve at en tvist som nevnt i første ledd første punktum avgjøres ved voldgift etter voldgiftsloven. Voldgiftsretten skal ha tre medlemmer og oppnevnes etter reglene i voldgiftsloven § 13.

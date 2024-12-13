@@ -1,0 +1,2 @@
+# § 21. Poolens vedtektskompetanse
+Årsmøtet i poolen kan gi utfyllende regler i vedtekter om poolens virksomhet. Vedtektene må godkjennes av Justis- og beredskapsdepartementet. For å bringe forslag til vedtekter inn for departementet for godkjenning må forslaget ha fått tilslutning fra minst to tredeler av de avgitte stemmene. I tillegg må et flertall av medlemmene som deltar på årsmøtet, ha stemt for forslaget. Med søknaden skal det legges ved en uttalelse fra styret om dets vurdering av forslaget.
