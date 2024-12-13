@@ -1,0 +1,3 @@
+# § 18. Krav til utøvelsen av oppgavene i poolen
+Deltakere i poolens årsmøte, medlemmer i styret, medlemmer i utvalg som nevnt i § 15 og § 16 og daglig leder skal utøve sine oppgaver i samsvar med de interesser poolen skal ivareta etter naturskadeforsikringsloven og forskriften her.
+Et styremedlem må ikke delta i behandlingen eller avgjørelsen av spørsmål som har slik særlig betydning for egen del eller for noen nærstående at medlemmet må anses for å ha fremtredende personlig eller økonomisk særinteresse i saken. Det samme gjelder for daglig leder og for medlem av utvalg som nevnt i § 15 og § 16.

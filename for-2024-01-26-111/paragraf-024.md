@@ -1,0 +1,5 @@
+# § 24. Gjenforsikring
+Styret skal sørge for at poolen har et forsvarlig program for gjenforsikring, i samsvar med poolens formål og oppgaver som angitt i § 8. Poolens medlemmer kan i likhet med andre forsikringsforetak være gjenforsikrere i gjenforsikringsprogrammet.
+Styret skal fastsette gjenforsikringsprinsipper.
+Daglig leder står for det forberedende arbeidet med gjenforsikringsprogram og gjenforsikringsavtaler. Arbeidet skal foregå i nært samarbeid med én eller flere gjenforsikringsmeglere som er godkjent av styret. Megleren skal fremskaffe tilbud på gjenforsikringsavtale med angitt pris og utarbeide anbefalinger til valg av gjenforsikrere. Meglerens rapport med anbefalinger skal fremlegges for styret sammen med daglig leders vurdering. Styret treffer avgjørelse om gjenforsikringsprogram og inngåelse av gjenforsikringsavtaler. Daglig leder og styret kan innhente råd fra gjenforsikringsutvalget, jf. § 16 første ledd.
+Poolen skal rapportere om eventuelle gjenforsikringsoppgjør og utbetale oppgjørene til poolens medlemmer straks etter at poolen har mottatt beløpet fra gjenforsikrerne. Fordelingen skjer etter utligningsgrunnlaget etter § 32.

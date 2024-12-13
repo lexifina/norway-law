@@ -1,0 +1,7 @@
+# § 32. Utligningsgrunnlaget
+Utligningsgrunnlaget (fordelingsnøkkelen) skal utgjøre forholdet mellom brannforsikringssummen til de enkelte medlemmene i poolen og alle medlemmenes samlede brannforsikringssummer, og skal fastsettes i prosent med fire desimaler.
+Brannforsikringssummene til poolens medlemmer per 1. juli i skadeåret legges til grunn for utligningsgrunnlaget.
+Der skadeutligning skjer før brannforsikringssummene per 1. juli i skadeåret er innrapportert, skal medlemmenes brannforsikringssummer per 1. juli i det forrige skadeåret foreløpig legges til grunn. Slike utligninger skal justeres så snart brannforsikringssummene per 1. juli i skadeåret er innrapportert.
+For sumløse brannforsikringer fastsetter styret en gjennomsnittlig forsikringssum som legges til grunn for skadeutligningen.
+For medlemmer som begynner å tegne brannforsikring i vedkommende skadeår, skal gjennomsnittet av medlemmets innmeldte kvartalsvise brannforsikringssummer i skadeåret legges til grunn for skadeutligningen. Dersom ansvarsperioden begynner i siste kvartal, skal et gjennomsnitt av brannforsikringssummene i dette kvartalet legges til grunn.
+For medlemmer som slutter med å tegne brannforsikring i vedkommende skadeår, skal gjennomsnittet av medlemmets innmeldte kvartalsvise brannforsikringssummer i skadeåret legges til grunn for skadeutligningen. Dersom ansvarsperioden utløper i første kvartal, skal et gjennomsnitt av brannforsikringssummene i dette kvartalet legges til grunn.

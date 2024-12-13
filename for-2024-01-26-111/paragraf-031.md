@@ -1,0 +1,3 @@
+# § 31. Skadeoppgjørskostnader mv.
+Skadeoppgjørskostnader er kostnadene medlemmene i poolen pådrar seg i forbindelse med oppgjør av naturskader innenfor naturskadeforsikringsordningen. Skadeoppgjørskostnadene for den enkelte skade utgjør tre prosent av erstatningsbeløpet, inklusive renter og kostnader, men likevel minst to prosent av folketrygdens grunnbeløp per 1. januar i skadeåret. Er erstatningsbeløpet for en skade større enn to ganger folketrygdens grunnbeløp, får medlemmet godtgjort bare én prosent av det overskytende erstatningsbeløpet.
+Medlemmenes kostnader ved rettslige prosesser utlignes etter nærmere retningslinjer i skadehåndboken.

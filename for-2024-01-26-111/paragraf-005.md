@@ -1,0 +1,3 @@
+# § 5. Definisjon av bolighus og fritidshus
+En bygning skal regnes som bolighus eller fritidshus etter naturskadeforsikringsloven § 1 første og tredje ledd med mindre den samlet sett i liten grad har karakter av å være et bolighus eller fritidshus. Ved vurderingen kan det blant annet legges vekt på offentlige godkjenninger og registreringer, bygningens utforming og funksjon, tomtens og strøkets karakter, i hvilken grad bygningen har økonomisk verdi som bolighus eller fritidshus, og bruken av bygningen.
+Et uthus skal bare dekkes etter naturskadeforsikringsloven § 1 tredje ledd annet punktum dersom det samlet sett har karakter av å være uthus til bolighus eller fritidshus.

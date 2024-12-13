@@ -1,0 +1,5 @@
+# § 16. Andre utvalg
+Poolen skal ha et gjenforsikringsutvalg med fire medlemmer. Medlemmene i poolen med lav medlemsandel skal være representert i utvalget med ett medlem. Medlemmer i poolen som har status som gjenforsikrere etter poolens gjenforsikringsprogram, kan delta i utvalget med ett utvalgsmedlem. Utvalget skal gi råd til styret og daglig leder i spørsmål om gjenforsikring, herunder gjenforsikringsprinsipper, gjenforsikringsprogram, gjenforsikringsavtaler og gjenforsikringsoppgjør.
+Investeringsutvalget skal bestå av tre medlemmer. Utvalget skal gi råd til styret og daglig leder om forvaltningen av poolens naturskadekapital.
+Vilkårsutvalget skal ha fire medlemmer. Ett av medlemmene skal representere forsikringstakerne. Utvalget skal blant annet gi råd og fremme forslag for styret om vilkår for utligning og tegningsretningslinjer.
+Utvalg etter denne paragrafen oppnevnes av poolens styre. Styret kan oppnevne ytterligere utvalg og fastsette deres arbeidsoppgaver. Når det oppnevnes nye utvalg, skal styret vurdere behovet for særskilt representasjon for forsikringstakerne i utvalget.
