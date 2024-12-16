@@ -1,0 +1,6 @@
+# § 3-1. Adgangen til å fravike måle- og innregningsregler som gjelder alle regnskapspliktige under forskriften
+Regnskapspliktige som utarbeider selskaps- eller konsernregnskap etter § 1-2 kan fravike følgende bestemmelser i internasjonale regnskapsstandarder slik det er angitt her:
+1) IFRS 1 nr. D6 kan fravikes slik at balanseført verdi etter tidligere oppskrivning under god regnskapsskikk kan videreføres ved overgangen uten hensyn til angitte kriterier i IFRS 1.
+2) IFRS 5 kan fravikes i selskapsregnskapet, men slik at anleggsmidler holdt for salg og avviklet virksomhet istedenfor må innregnes og måles etter prinsippene i de ordinære regnskapsreglene i de internasjonale regnskapsstandardene. For øvrig gjelder regnskapslovens bestemmelser og NRS 12 for presentasjon og noteopplysninger.
+3) Internasjonale regnskapsstandarder kan fravikes slik at tidspunkt for innregning av utbytte og konsernbidrag følger regnskapsloven og god regnskapsskikk for giver og mottaker. Skattekonsekvenser av avsatt konsernbidrag regnskapsføres i samme periode som konsernbidraget innregnes som forpliktelse.
+4) IAS 28 kan fravikes slik at investering i tilknyttet selskap og deltakelse i felles kontrollert virksomhet kan regnskapsføres i samsvar med kostmetoden i selskapsregnskapet.
