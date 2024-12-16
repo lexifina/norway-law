@@ -1,0 +1,4 @@
+# § 1-2. Adgang til forenklet anvendelse av internasjonale regnskapsstandarder
+Regnskapspliktige som nevnt i § 1-1 kan utarbeide selskapsregnskap og konsernregnskap i samsvar med forskrifter gitt i medhold av regnskapsloven § 3-9 annet ledd (internasjonale regnskapsstandarder), med de unntak og tillegg som følger av denne forskrift, med mindre annet følger av bestemmelse i annen lov eller forskrift.
+Regnskapsloven § 3-1 tredje ledd gjelder tilsvarende, men slik at bestemmelsene i regnskapsloven kapittel 6 og 7 likevel gjelder. Reglene i kapittel 7 II Noteopplysninger for små foretak kan likevel ikke benyttes.
+Adgangen til å fravike bestemmelser i internasjonale regnskapsstandarder som følger av forskriften § 3-2 nr. 2 til 7, jf. § 3-3, og § 4-2 nr. 3 må anvendes under ett, og kan ikke anvendes enkeltvis.

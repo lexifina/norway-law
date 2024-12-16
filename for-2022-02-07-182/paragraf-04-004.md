@@ -1,0 +1,2 @@
+# § 4-4. Sammenligningstall ved endringer i regnskapsprinsipp og korrigering av feil og førstegangsanvendelse av denne forskrift
+Regnskap som utarbeides etter forskriftens § 1-2 kan, uten hensyn til bestemmelser gitt i forskrifter med hjemmel i regnskapsloven § 3-9 annet ledd, avvike fra bestemmelsene i IAS 1 om krav til oppstilling av finansiell stilling ved begynnelsen av den tidligste sammenligningsperioden. Dette gjelder også ved førstegangsanvendelse av denne forskrift.
