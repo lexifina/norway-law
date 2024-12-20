@@ -1,0 +1,4 @@
+# § 2-9. Oppgjørsfrist
+(1) Frist for overføring av medlemmets pensjonskapitalbevis til egen pensjonskonto etter innskuddspensjonsloven § 3-6 første ledd første punktum, er 10 virkedager fra utløpet av tremånedersfristen i henhold til loven § 3-6 første ledd fjerde punktum eller fra samtykke er gitt i henhold til loven § 3-6 første ledd femte punktum.
+(2) Frist for overføring av medlemmets pensjonskapitalbevis til egen pensjonskonto i selvvalgt institusjon etter innskuddspensjonsloven § 3-7 er 10 virkedager fra institusjonen ber om overføring fra pensjonsleverandøren som forvalter pensjonskapitalbeviset.
+(3) Reglene i forsikringsvirksomhetsloven § 6-5 tredje ledd, § 6-6 første ledd første punktum, § 6-7 fjerde ledd, § 6-9 og § 6-10 siste ledd gjelder tilsvarende ved overføring til egen pensjonskonto hos arbeidsgivers pensjonsleverandør eller i selvvalgt institusjon.

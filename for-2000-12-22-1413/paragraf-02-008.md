@@ -1,0 +1,5 @@
+# § 2-8. Lagring og tilgjengeliggjøring av historiske data
+(1) Institusjoner som forvalter egen pensjonskonto og pensjonskapitalbevis, skal lagre og tilgjengeliggjøre informasjon som gir innehaver av egen pensjonskonto og pensjonskapitalbevis informasjon om pensjonsopptjening i tidligere arbeidsforhold. Lagrings- og tilgjengeliggjøringsplikten begrenser seg til historiske data som definert i denne bestemmelsen.
+(2) Med historiske data menes i denne sammenheng informasjon om hvilket foretak som opprettet pensjonsordningen som pensjonskapitalbeviset er utstedt fra og navn på institusjonen som utstedte pensjonskapitalbeviset.
+(3) Historiske data som omtalt i annet ledd kan lagres i felles infrastruktur som opprettes av institusjonene med hovedformål å dele informasjon mellom institusjoner om egen pensjonskonto og pensjonskapitalbevis.
+(4) Kravet om å lagre historiske data gjelder ikke for pensjonskapitalbevis som er utstedt før 1. januar 2021 og hvor slike data ikke er tilgjengelig hos institusjonen.
