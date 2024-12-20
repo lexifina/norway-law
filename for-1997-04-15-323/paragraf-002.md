@@ -1,0 +1,3 @@
+# § 2. Formidling og oppfølging av hjelpemidler
+For å oppfylle sitt overordnede og koordinerende ansvar for hjelpemidler til funksjonshemmede og bidra til at hjelpemiddelformidling inngår som en del i en helhetlig (re)habiliteringsplan, skal hjelpemiddelsentralen ta initiativ til å inngå samarbeidsavtaler med offentlige myndigheter som har ansvar for rehabilitering. Siktemålet er ansvarsavklaring, koordinering og best mulig ressursutnyttelse.
+Sentrale samarbeidsparter er kommunen som etter lov om kommunale helse- og omsorgstjenester m.m. § 3-2 første ledd nr. 5 har ansvar for medisinsk rehabilitering, herunder formidling og oppfølging av hjelpemidler, fylkeskommunen og statlige spesialinstitusjoner.
