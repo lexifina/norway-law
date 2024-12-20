@@ -1,0 +1,2 @@
+# § 1-4. Innhenting av kontaktinformasjon
+Arbeidsgiver skal på forespørsel fra institusjonen som forvalter arbeidsgivers pensjonsordning, utlevere kontaktinformasjon (epostadresse, mobiltelefonnummer eller postadresse) som arbeidsgiver har for de ansatte. Institusjonen kan bare benytte kontaktinformasjonen til å gi den informasjon og rådgivning om egen pensjonskonto som arbeidstaker har krav på etter innskuddspensjonsloven § 2-7 og forskriften her.

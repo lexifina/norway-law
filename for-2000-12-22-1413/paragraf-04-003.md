@@ -1,0 +1,7 @@
+# § 4-3. Innskuddsgrenser ved kombinerte pensjonsordninger mv.
+(1) Kombinerte pensjonsordninger i henhold til lov om foretakspensjon § 2-12, jf. innskuddspensjonsloven § 2-13, kan bare utformes slik at en ytelsesbasert alderspensjon fastsatt i henhold til
+a) lov om foretakspensjon § 5-2 første ledd bokstav a, eller
+b) lov om foretakspensjon § 5-2 første ledd bokstav c
+suppleres med en ordning etter innskuddspensjonsloven der innskudd for medlemmene er fastsatt i henhold til innskuddspensjonsloven § 5-3 første ledd bokstav b, c eller d, eller med en tilsvarende ordning med engangsbetalt alderspensjon etter lov om foretakspensjon.
+(2) Dersom foretaket har kombinerte pensjonsordninger hvor ytelsesbasert alderspensjon er fastsatt etter første ledd bokstav a, skal innskudd for et enkelt medlem et enkelt år i henhold til innskuddspensjonsloven § 5-3 første ledd bokstav b, c eller d ikke overstige en fastsatt prosent av lønn sett i forhold til beregnet folketrygd og pensjonsnivå i henhold til regelverket i den ytelsesbaserte pensjonsordningen som angitt i tabellen under:
+(3) Dersom foretaket har kombinerte pensjonsordninger hvor ytelsesbasert alderspensjon er fastsatt etter første ledd bokstav b, skal innskudd for et enkelt medlem et enkelt år i henhold til innskuddspensjonsloven § 5-3 første ledd bokstav b, c eller d ikke overstige en fastsatt prosent av lønn sett i forhold til pensjonsnivå i den ytelsesbaserte pensjonsordningen som angitt i tabellen under:
