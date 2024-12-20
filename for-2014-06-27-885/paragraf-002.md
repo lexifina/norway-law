@@ -1,0 +1,8 @@
+# § 2. Beregning og utbetaling av alderspensjon
+(1) Pensjonsinnretningen kan benytte en teknisk rente i beregningen av alderspensjonsutbetalinger for å endre utbetalingsprofilen dersom utbetalingsprofilen ellers ville blitt uhensiktsmessig sterkt stigende for alderspensjonistene. Bruk av en teknisk rente innebærer ingen garanti fra pensjonsinnretningen.
+(2) Den tekniske renten skal settes til et forsvarlig nivå, og herunder være tilpasset risikoprofil og forventet avkastning i kapitalforvaltningen. Nivået på den tekniske renten skal bidra til at:
+a) alderspensjonen ikke får en sterkt økende regulering ut over alminnelig lønnsvekst og prisstigning,
+b) alderspensjonen sikres i hele utbetalingsperioden og
+c) at det ikke skjer urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+(3) Den tekniske renten kan ikke settes høyere enn den høyeste tillatte avkastningsgaranti etter tjenestepensjonsloven § 5-7 annet ledd annet punktum eller forskrift fastsatt av Finanstilsynet med hjemmel i tjenestepensjonsloven § 5-7 annet ledd tredje punktum.
+(4) Pensjonsinnretningen skal skriftlig opplyse alderspensjonistene om hva en teknisk rente er og om virkningen av at pensjonsutbetalingene beregnes med utgangspunkt i en teknisk rente. Herunder skal det informeres om risikoen for at pensjonsutbetalingene reduseres eller blir lavere enn det som følger av den beregnede utbetalingsprofilen. Ved endring av den tekniske renten skal pensjonsinnretningen skriftlig opplyse alderspensjonistene om nye, beregnede pensjonsutbetalinger og øvrige virkninger av endringen.
