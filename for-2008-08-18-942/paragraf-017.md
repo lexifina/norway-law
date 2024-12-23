@@ -1,0 +1,2 @@
+# § 17. Behandling av opplysninger fra registeret
+Det kan settes vilkår for behandlingen av opplysninger som utleveres i medhold av forskriften her. Opplysninger som kan identifisere arbeidstakere, frilansere, arbeidsgivere eller oppdragsgivere, skal makuleres eller slettes når de ikke lenger er aktuelle for det formålet de er innhentet for. Statistikker eller publikasjoner med registeropplysninger som kilde, må ikke offentliggjøres slik at enkeltpersoner kan identifiseres.

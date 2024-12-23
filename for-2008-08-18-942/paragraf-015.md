@@ -1,0 +1,2 @@
+# § 15. Overtredelsesgebyr og tvangsmulkt
+Arbeids- og velferdsetaten kan ilegge en arbeidsgiver eller oppdragsgiver overtredelsesgebyr, tvangsmulkt eller begge deler når arbeidsgiveren eller oppdragsgiveren ikke gir alle opplysninger eller gir uriktige opplysninger i strid med folketrygdloven § 25-1 andre ledd med tilhørende forskrifter og forskrift gitt med hjemmel i § 25-10, se folketrygdloven § 25-3 med forskrifter.
