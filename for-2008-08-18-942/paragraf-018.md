@@ -1,0 +1,2 @@
+# § 18. Klage på vedtak
+Vedtak truffet med hjemmel i forskriften her kan påklages etter reglene i forvaltningsloven kapittel VI til nærmest overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer. Klage skal alltid grunngis, og må være framsatt for det organ som har fattet vedtaket innen tre uker etter at skriftlig melding om vedtaket er kommet fram til vedkommende part.
