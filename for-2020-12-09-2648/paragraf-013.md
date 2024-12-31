@@ -1,0 +1,3 @@
+# § 13. Avdrag
+Finansforetaket skal kreve månedlig nedbetaling av forbrukslånet. Den månedlige nedbetalingen skal minst utgjøre et beløp som medfører at lånet nedbetales i løpet av 5 år når lånet avdras som serie- eller annuitetslån. For rammekreditter skal minimumsbeløpet beregnes hver måned basert på benyttet kreditt og utgjøre et beløp som medfører at kreditten nedbetales i løpet av 5 år når kreditten avdras som serielån.
+Første ledd er ikke til hinder for at finansforetaket gir avdragsutsettelse på grunn av omstendigheter som inntrer i lånets løpetid og som midlertidig forverrer kundens betalingsevne.

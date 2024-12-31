@@ -1,0 +1,4 @@
+# § 5. Betjeningsevne
+Finansforetaket skal ikke yte lån dersom kunden ikke vil ha tilstrekkelige midler til å dekke normale utgifter til livsopphold ved en renteøkning på 3 prosentpoeng på kundens samlede gjeld, men slik at finansforetaket uansett skal legge til grunn en rente på minst 7 prosent.
+Vurderingen av kundens betjeningsevne skal være basert på kundens inntekt og alle relevante utgifter, herunder renter, avdrag på lån og normale utgifter til livsopphold. For rammekreditter skal full utnyttelse av samlede rammer ligge til grunn for vurderingen.
+Ved fastrentelån skal renteøkningen etter første ledd beregnes på grunnlag av det beløp som etter nedbetalingsplanen er utestående ved utløpet av fastrenteperioden. Vurderingen av betjeningsevnen kan gjøres på grunnlag av kundens forventede inntekter og utgifter ved utløpet av fastrenteperioden.
