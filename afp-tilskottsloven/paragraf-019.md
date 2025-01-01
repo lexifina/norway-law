@@ -1,0 +1,2 @@
+# § 19. Vedtekter
+Partene i de ulike avtalene om avtalefestet pensjon etter kapittel 2 skal etablere vedtekter som er felles for alle avtaler om avtalefestet pensjon. Endringer i vedtektene besluttes av styret for det administrative organet nevnt i § 18 første ledd. Vedtektene og endringer i vedtektene må godkjennes av departementet. Dersom vedtektene eller endringer i vedtektene er i samsvar med loven her, kan godkjenning ikke nektes.
