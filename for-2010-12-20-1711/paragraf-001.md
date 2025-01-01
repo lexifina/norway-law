@@ -1,0 +1,2 @@
+# § 1. Anvendelsesområde
+Denne forskriften kommer til anvendelse når det foreligger rett til alderspensjon som skal samordnes med pensjon fra folketrygden, uførepensjon, enke- og enkemannspensjon og barnepensjon fra tjenestepensjonsordningen. For alderspensjon kommer forskriften til anvendelse fra fylte 67 år, men likevel fra 62 år for oppsatt alderspensjon etter lov om Statens pensjonskasse § 26h eller tilsvarende oppsatt alderspensjon fra annen tjenestepensjonsordning.
