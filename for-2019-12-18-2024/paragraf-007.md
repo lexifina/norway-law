@@ -1,0 +1,4 @@
+# § 7. Myndighet og klage
+Kommunen fatter vedtak etter denne forskriften. I de tilfeller det utvalgte området strekker seg over flere kommuner, skal de aktuelle kommunene avklare hvilken kommune som skal behandle søknader. Statsforvalteren fatter vedtak når det søkes om tilskudd til tiltak på eiendommer som kommunen eier eller drifter. Når statsforvalteren fatter vedtak, har statsforvalteren samme myndighet som kommunen etter bestemmelsene i denne forskriften.
+Vedtak kan påklages etter bestemmelsene i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) kap. VI. Klage på vedtak fattet av kommunen skal avgjøres av statsforvalteren. Klage på vedtak fattet av statsforvalteren skal avgjøres av Landbruksdirektoratet.
+Klagen forelegges natur- og kulturmiljøforvaltningen for eventuell uttalelse før vedtak treffes dersom tiltaket berører deres ansvarsområder.
