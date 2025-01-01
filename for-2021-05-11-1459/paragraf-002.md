@@ -1,0 +1,6 @@
+# § 2. Innarbeiding av rådsforordning (EU) 2019/796
+1) Rådsforordning (EU) 2019/796 om restriktive tiltak mot cyberangrep som truer EU eller EUs medlemsstater gjelder som forskrift i sin vedlagte form, med de tilpasninger som følger av denne bestemmelsen.
+2) Henvisningene til medlemsstater skal forstås som «Norge» hvis ikke annet framgår av sammenhengen.
+3) Henvisningene til medlemsstatenes kompetente myndigheter skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+4) Forordningens bestemmelser om informasjonsutveksling mellom medlemsstater, eller mellom medlemsstater og Kommisjonen, kommer ikke til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Artikkel 1 nr. 8 bokstav h og artiklene 12, 13 og 15 til 19 er også EU-interne, og kommer ikke til anvendelse. Det samme gjelder forordningens vedlegg II.
+5) Listen i forordningens vedlegg I er i forskriften erstattet med en lenke til EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak. De opplysningene som er nevnt i forordningens artikkel 14, fremkommer derfor ikke direkte av vedlegg I, men finnes ved å konsultere forordningen og etterfølgende endringsforordninger.
