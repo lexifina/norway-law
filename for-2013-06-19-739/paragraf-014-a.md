@@ -1,0 +1,8 @@
+# § 14a. Saksbehandlingsgebyr for godkjenning og forhåndskontroll av yrkeskvalifikasjoner
+For behandling av saker om godkjenning og forhåndskontroll av yrkeskvalifikasjoner for yrker på elektroområdet, skal det betales et gebyr på 3200 kroner.
+Gebyret etter første ledd gjelder for behandling av søknader om godkjenning av yrkeskvalifikasjoner i forbindelse med etablering i Norge og ved forhåndskontroll av yrkeskvalifikasjonene ved midlertidig tjenesteytelse etter lov 16. juni 2017 nr. 69 om godkjenning av yrkeskvalifikasjoner kapittel 2 og 3.
+Dersom en sak omfatter flere yrkeskategorier, skal det betales fullt gebyr for behandlingen av den første yrkeskategorien som saken omfatter. For behandlingen av hver enkelt av de øvrige yrkeskategoriene skal det betales 75 prosent av fullt gebyr.
+Ved fornyelse av en skriftlig forhåndsmelding etter lov 16. juni 2017 nr. 69 om godkjenning av yrkeskvalifikasjoner § 5, skal det ikke betales nytt gebyr.
+Sak om godkjenning eller forhåndskontroll av yrkeskvalifikasjoner vil ikke bli behandlet før gebyret er betalt til Direktoratet for samfunnssikkerhet og beredskap. Ved sak som gjelder etablering skal betalingen skje samtidig med at søknaden om godkjenning av yrkeskvalifikasjoner sendes Direktoratet for samfunnssikkerhet og beredskap. Ved midlertidig tjenesteytelse skal betalingen skje før forhåndskontrollen av yrkeskvalifikasjonene starter.
+Dersom en sak blir trukket før Direktoratet for samfunnssikkerhet og beredskap har startet behandlingen av saken, vil gebyret bli tilbakebetalt.
+Gebyrets størrelse reguleres i de årlige statsbudsjettene, i takt med lønns- og prisveksten.
