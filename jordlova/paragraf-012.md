@@ -1,0 +1,10 @@
+# § 12. Deling
+Deling av eigedom som er nytta eller kan nyttast til jordbruk eller skogbruk må godkjennast av departementet. Det same gjeld forpakting, tomtefeste og liknande leige eller bruksrett til del av eigedom når retten er stifta for lengre tid enn 10 år eller ikkje kan seiast opp av eigaren (utleigaren). Med eigedom meiner ein òg rettar som ligg til eigedomen og partar i sameige.
+Skal dyrka jord takast i bruk til andre formål enn jordbruksproduksjon, eller skal dyrkbar jord takast i bruk slik at ho ikkje vert eigna til jordbruksproduksjon i framtida, kan samtykke til deling ikkje givast utan at det er gitt samtykke til omdisponering etter § 9.
+Ved avgjerd av om samtykke til deling skal givast, skal det leggjast vekt på om delinga legg til rette for ein tenleg og variert bruksstruktur i landbruket. I vurderinga inngår mellom anna omsynet til vern av arealressursane, om delinga fører til ei driftsmessig god løysing, og om delinga kan føre til drifts- eller miljømessige ulemper for landbruket i området. Det kan leggjast vekt på andre omsyn dersom dei fell inn under formålet i jordlova.
+Sjølv om det etter tredje ledd ikkje ligg til rette for å gi samtykke til deling, kan samtykke givast dersom deling vil vareta omsynet til busetjinga i området.
+Samtykke til deling kan givast på slike vilkår som er nødvendige av omsyn til dei føremåla som lova skal fremja.
+Føresegnene gjeld utan omsyn til om ein eigedom har fleire registernemningar når eigedomen eller ideell del av han er på same eigarhand og etter departementet sitt skjønn må reknast som ei driftseining.
+Samtykke til deling er ikkje nødvendig når særskild registrert del av eigedom vert seld på tvangssal. Det same gjeld dersom det i samband med offentleg jordskifte er nødvendig å dela eigedom. Andre punktum gjeld ikkje når jordskifteretten deler ein eigedom etter jordskiftelova § 3-7.
+Dersom deling ikkje er rekvirert innan tre år etter at samtykke til deling er gitt, fell samtykket bort.
+Departementet kan gi forskrift om høve til frådeling av mindre areal utan godkjenning i samband med grensejustering etter matrikkellova.

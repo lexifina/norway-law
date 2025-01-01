@@ -1,0 +1,4 @@
+# § 1. Føremål
+Denne lova har til føremål å leggja tilhøva slik til rette at jordviddene i landet med skog og fjell og alt som høyrer til (arealressursane), kan verte brukt på den måten som er mest gagnleg for samfunnet og dei som har yrket sitt i landbruket.
+Arealressursane bør disponerast på ein måte som gir ein tenleg, variert bruksstruktur ut frå samfunnsutviklinga i området og med hovudvekt på omsynet til busetjing, arbeid og driftsmessig gode løysingar.
+Ein samfunnsgagnleg bruk inneber at ein tek omsyn til at ressursane skal disponerast ut frå framtidige generasjonar sine behov. Forvaltinga av arealressursane skal vera miljøforsvarleg og mellom anna ta omsyn til vern om jordsmonnet som produksjonsfaktor og ta vare på areal og kulturlandskap som grunnlag for liv, helse og trivsel for menneske, dyr og planter.

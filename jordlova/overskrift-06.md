@@ -1,0 +1,1 @@
+# Kap. VII. Ymse føresegner
