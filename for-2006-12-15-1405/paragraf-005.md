@@ -1,0 +1,2 @@
+# § 5. Dispensasjon
+Direktoratet for eksportkontroll og sanksjoner kan dispensere fra forskriften på grunnlag av vedlagte forordnings dispensasjonsbestemmelser. Direktoratet for eksportkontroll og sanksjoner kan også i særskilte tilfeller dispensere fra forskriften dersom den får en klart utilsiktet virkning, og forutsatt at det ikke strider mot Norges folkerettslige forpliktelser eller hensynene bak tiltakene mot Nord-Korea.
