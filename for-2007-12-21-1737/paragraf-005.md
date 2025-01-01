@@ -1,0 +1,3 @@
+# § 5. Tilsynet med en summerende beholdervekt i bruk
+Testing av summerende beholdervekter i forbindelse med kontrollen skal utføres i henhold til relevante deler av gjeldende OIML R107 og Justervesenets prosedyrer, med mindre Justervesenet anser det mer hensiktsmessig og måleteknisk forsvarlig å utføre testingen på annen måte.
+Summerende beholdervekter skal normalt testes med de produktene den vanligvis benyttes til å veie og under normale driftsbetingelser. Bruker må sørge for at Justervesenet under testingen har tilgjengelig tilstrekkelig mengde av testproduktene, håndteringsutstyr og kvalifisert personell.
