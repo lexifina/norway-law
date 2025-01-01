@@ -1,0 +1,3 @@
+# § 26-1. Fellesgrader og cotutelle-avtaler
+(1) Høgskolen kan inngå samarbeid med en eller flere norske eller utenlandske institusjoner om samarbeid i form av fellesgrader eller cotutelle-avtaler.
+(2) Ved avtaler om fellesgradssamarbeid og cotutelle kan rektor eller den rektor bemyndiger dispensere fra forskriften, dersom det er nødvendig av hensyn til regelverket ved de samarbeidende institusjonene. Slike unntak skal, både enkeltvis og samlet, fremstå som fullt ut forsvarlige ut fra de faglige kvalitetskravene som stilles til en tilsvarende ph.d.-grad ved Høgskolen i Østfold. Kvalifikasjonskrav for opptak, krav om at avhandlingen skal være offentlig tilgjengelig og krav om offentlig disputas med en habil bedømmelseskomité kan ikke fravikes.

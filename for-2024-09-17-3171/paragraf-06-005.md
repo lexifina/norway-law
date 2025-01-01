@@ -1,0 +1,4 @@
+# § 6-5. Avtaleperiode
+(1) Doktorgradsutdanningen er normert til tre (3) års fulltidsstudier. Maksimaltid for gjennomføring utenom lovfestede permisjoner og annet karrierefremmende arbeid er seks (6) år fra startdato til innlevert vitenskapelig avhandling. Ved lovhjemlede avbrudd forlenges avtaleperioden tilsvarende.
+(2) Dekan ved vertsfakultetet fatter vedtak om forlengelse av avtaleperioden etter begrunnet søknad. Ved innvilget forlengelse kan dekan sette ytterligere betingelser.
+(3) Etter avtaleperiodens utløp opphører partenes rettigheter og plikter i henhold til doktorgradsavtalen, slik at kandidaten kan miste sin rett til veiledning, kursdeltakelse og tilgang til høgskolens infrastruktur. Kandidaten kan likevel søke om å få avhandlingen bedømt etter at maksimal studietid er overskredet.

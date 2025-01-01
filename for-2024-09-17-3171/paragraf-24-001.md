@@ -1,0 +1,2 @@
+# § 24-1. Klage over avslag på søknad om opptak, vedtak om tvungen avslutning, vedtak om opphør av studierett, klage over avslag på søknad om godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak, vedtak om tvungen avslutning, vedtak om opphør av studierett og klage på søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i lov om universiteter og høyskoler.

@@ -1,0 +1,3 @@
+# § 6-1. Vilkår for opptak
+(1) For opptak til doktorgradsutdanningen må søkeren normalt ha en femårig høyere gradsutdanning (mastergrad). Institusjonen kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunnlag for opptak. Fakultetet, som har det faglige og administrative ansvaret (§ 4 (2)), kan i utfyllende regler fastsette ytterligere krav for opptak.
+(2) Det skal normalt søkes om opptak til doktorgradsutdanningen innen tre (3) måneder etter oppstart av det forskningsprosjektet som skal lede frem til graden. Dersom det gjenstår mindre enn ett (1) års fulltidsarbeid med forskningsprosjektet ved søknadstidspunkt, skal søkeren avvises, jf. § 6-4.
