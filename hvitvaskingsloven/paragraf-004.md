@@ -28,6 +28,8 @@ d) eiendomsmeglere og eiendomsmeglingsforetak
 e) tilbydere av virksomhetstjenester
 f) personer med begrenset tillatelse til å yte betalingstjenester
 g) tilbydere av spilltjeneste
+h) personer som ervervsmessig handler med eller formidler handler med kunst, når det gjennomføres eller kan antas at det vil bli gjennomført transaksjoner, herunder transaksjoner som gjennomføres i flere operasjoner som ser ut til å ha sammenheng, verdt 80 000 kroner eller mer
+i) personer som ervervsmessig tilbyr tjenester som er særlig egnet til, tilpasset for eller utformet med sikte på oppbevaring av kunst, når det gjennomføres eller kan antas at det vil bli gjennomført transaksjoner, herunder transaksjoner som gjennomføres i flere operasjoner som ser ut til å ha sammenheng, verdt 80 000 kroner eller mer, eller når det oppbevares kunst som er eller antas å være verdt 80 000 kroner eller mer.
 (3) § 5 gjelder for forhandlere av gjenstander.
 (4) Når rapporteringspliktige fysiske personer etter annet ledd er ansatt i rapporteringspliktige juridiske personer etter samme ledd, er det bare den juridiske personen som er underlagt reglene i loven om risikovurdering, rutiner, internkontroll, opplæring og varsling.
 (5) Departementet kan i forskrift gi regler som gir loven anvendelse for foretak som formidler finansiering ved donasjon, og for vekslingsplattformer og oppbevaringstjenester for virtuell valuta.
