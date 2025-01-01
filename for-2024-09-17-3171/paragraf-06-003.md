@@ -1,0 +1,3 @@
+# § 6-3. Infrastruktur
+(1) Kandidaten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av prosjektet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring tas av fakultetet kandidaten er tilknyttet, og dette skal avklares som ledd i opptaksprosessen, jf. § 6-2.
+(2) For kandidater med ekstern finansiering eller arbeidsplass inngås det avtale mellom Høgskolen i Østfold og ekstern part i forbindelse med det enkelte prosjekt. Slik avtale skal som hovedregel foreligge på det tidspunkt opptaksvedtaket for den aktuelle kandidaten fattes, eller umiddelbart etterpå.
