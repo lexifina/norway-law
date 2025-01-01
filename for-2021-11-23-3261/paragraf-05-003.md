@@ -1,0 +1,3 @@
+# § 5-3. Sanksjoner ved brudd på regelverket
+Dersom organisasjonen, eller noen på dens vegne, gir ufullstendige eller ukorrekte opplysninger i forbindelse med søknad om tilskudd, og dette fører til at tilskudd utbetales uberettiget eller med for stort beløp, kan tilskuddet helt eller delvis kreves tilbake. Hvis tilskuddet ennå ikke er utbetalt, kan det holdes helt eller delvis tilbake og/eller bortfalle.
+En tilskuddsmottaker som har brutt regelverket, kan helt eller delvis utelukkes fra tilskuddsordningen. Ved vurderingen skal det legges vekt på om tilskuddsmottaker har tilegnet seg eller forsøkt å tilegne seg uberettiget tilskudd, størrelsen på de uberettigede beløp og skyldgraden for øvrig.
