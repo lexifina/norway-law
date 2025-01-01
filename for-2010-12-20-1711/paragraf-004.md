@@ -1,0 +1,2 @@
+# § 4. Ikrafttredelse
+Denne forskriften trer i kraft 1. januar 2011. Fra samme tidspunkt oppheves forskrift 18. november 1996 nr. 1062 om vilkår for rett til ytelser etter lov om pensjonsordning for sykepleiere når det foreligger rett til ytelser etter lov om folketrygd og forskrift 18. november 1996 nr. 1084 om vilkår for rett til ytelser etter lov om statens pensjonskasse og etter enkelte andre lover når det foreligger rett til ytelser etter lov om folketrygd.
