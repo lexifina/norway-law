@@ -1,0 +1,4 @@
+# § 9-6. Behandling av opplysninger som kan identifisere en kilde
+Etterretningstjenesten skal ikke behandle opplysninger som er betrodd noen i deres journalistiske virke og som kan avsløre hvem som er kilde for opplysningen, dersom den som betror seg eller som er betrodd opplysningen, er bosatt i Norge, norsk statsborger eller arbeider på oppdrag for virksomhet i Norge som omfattes av medieansvarsloven § 2. Forbudet gjelder også dersom vedkommende ikke lenger bor i Norge eller arbeider for virksomheten, men gjorde dette da opplysningen ble gitt.
+Dersom det er strengt nødvendig at de hensyn som begrunner kildevernet, viker for nasjonale sikkerhetsinteresser, kan opplysninger som nevnt i første ledd likevel behandles.
+Avgjørelse om å behandle opplysninger etter andre ledd skal treffes av retten etter reglene i kapittel 8.

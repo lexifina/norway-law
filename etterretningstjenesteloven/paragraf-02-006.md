@@ -1,0 +1,3 @@
+# § 2-6. EOS-utvalgets og Riksrevisjonens kontroll
+Etterretningstjenesten er underlagt kontroll etter EOS-kontrolloven. I samsvar med § 7-11 fører EOS-utvalget løpende kontroll med tjenestens etterlevelse av bestemmelsene i kapittel 7.
+Etterretningstjenesten er underlagt revisjon og kontroll av Riksrevisjonen etter riksrevisjonsloven. Riksrevisjonen skal utpeke bestemte tjenestepersoner til å ivareta revisjon og kontroll av tjenesten. Utpekte tjenestepersoner skal være norske statsborgere og sikkerhetsklarert for STRENGT HEMMELIG. Riksrevisjonen skal være representert i Koordineringsutvalget for Etterretningstjenesten.

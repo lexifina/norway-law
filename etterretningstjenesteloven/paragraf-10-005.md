@@ -1,0 +1,2 @@
+# § 10-5. Utlevering av informasjon til Etterretningstjenesten fra norske myndigheter
+Norske myndigheter kan uten hinder av lovbestemt taushetsplikt utlevere informasjon til Etterretningstjenesten dersom det er nødvendig for forebyggelses- og sikkerhetsmessige formål innenfor rammen av Etterretningstjenestens oppgaver etter kapittel 3. Første punktum gjelder ikke for taushetsplikt som nevnt i straffeprosessloven § 119 og tvisteloven § 22-5 eller taushetsplikt etter straffeprosessloven § 216 i.
