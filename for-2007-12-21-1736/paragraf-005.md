@@ -1,0 +1,4 @@
+# § 5. Tilsynet med en transportbåndvekt som brukes
+Testing av transportbåndvekter i forbindelse med kontrollen skal utføres i henhold til relevante deler av gjeldende OIML R50 og Justervesenets prosedyrer, med mindre Justervesenet anser det mer hensiktsmessig og måleteknisk forsvarlig å utføre testingen på annen måte.
+Transportbåndvekten skal normalt testes med de produktene den vanligvis benyttes til å veie og under normale driftsbetingelser. Bruker må sørge for at Justervesenet under testingen har tilgjengelig tilstrekkelig mengde av testproduktene, håndteringsutstyr og kvalifisert personell.
+Et kontrollinstrument skal alltid være tilgjengelig i nærheten av transportbåndvekten som skal testes. Lagring og transport i forbindelse med testingen skal arrangeres slik at ikke noe av testproduktene mistes.
