@@ -1,0 +1,3 @@
+# § 10. Samordningsfradrag som følge av ny opptjening i folketrygden for årene pensjonisten fyller 66 og 67 år
+Når opptjening i folketrygden for årene pensjonisten fyller 66 og 67 år er klarlagt, fastsettes det en samordningsbeholdning som kommer i tillegg til den tidligere samordningsbeholdningen. Samordningsbeholdningen som kommer i tillegg, er 98 prosent av den økte pensjonsbeholdningen.
+Samordningsfradraget som kommer i tillegg til tidligere samordningsfradrag, fastsettes ved å dividere samordningsbeholdningen etter første ledd med delingstallet etter folketrygdloven § 20-13 på omregningstidspunktet.
