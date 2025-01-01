@@ -1,0 +1,2 @@
+# § 34. Overgangsbestemmelser for hold av fremmede organismer i hagedam
+Hold i hagedam av vannlevende fremmede organismer som ikke er omfattet av unntaket fra kravet om tillatelse i § 11 første ledd bokstav a, og som ble satt ut i hagedammen før denne forskriften trådte i kraft, er tillatt i en overgangsperiode på fem år fra forskriftens ikrafttreden, såframt utsettingen ble gjennomført i henhold til de regler som gjaldt på utsettingstidspunktet, og holdet ikke kan påregnes å medføre risiko for uheldige følger for det biologiske mangfold i overgangsperioden.

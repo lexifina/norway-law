@@ -1,0 +1,3 @@
+# § 28. Innførsel i strid med forskriften
+(1) Dersom innførselen ikke tilfredsstiller forskriftens krav til tillatelse eller melding, eller består av organismer som er forbudt, jf. § 5, og det ikke er gitt dispensasjon til innførselen, kan tollmyndighetene holde organismene tilbake inntil Miljødirektoratet har truffet en beslutning om den videre behandling av innførselen, jf. § 32 første ledd.
+(2) Ved fare for rømming eller spredning av organismer, jf. § 21, kan tollmyndigheten holde organismene tilbake inntil faren for rømming eller spredning er over, eller Miljødirektoratet har truffet en beslutning om den videre behandling av innførselen, jf. § 32 første ledd. Dette gjelder selv om innførselen for øvrig oppfyller kravene for innførsel etter forskriften.

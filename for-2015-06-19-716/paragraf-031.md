@@ -1,0 +1,2 @@
+# § 31. Dispensasjon
+Miljødirektoratet kan gjøre unntak fra bestemmelsene i forskriften hvis dispensasjon i det aktuelle tilfellet ikke medfører, eller kan medføre, uheldige følger for naturmangfoldet, jf. § 1, eller hvis andre vesentlige samfunnsmessige hensyn gjør det nødvendig. Det kan ikke gis dispensasjon hvis det er grunn til å anta at innførselen, utsettingen eller omsetningen vil medføre vesentlige uheldige følger for det biologiske mangfold.

@@ -1,0 +1,3 @@
+# § 32. Håndheving og sanksjoner
+(1) Miljødirektoratet håndhever bestemmelsene i forskriften etter naturmangfoldloven § 69 til § 73. Håndheving av bestemmelser vedtatt i medhold av viltloven § 7 andre ledd, skjer med hjemmel i naturmangfoldloven § 69, § 71, § 72 og § 73, jf. viltloven § 7 andre ledd.
+(2) Overtredelse av forskriften eller vedtak fattet i medhold av forskriften, kan medføre miljøerstatning eller straff etter naturmangfoldloven § 74 og § 75. Overtredelse av kravene til aktsomhet i forskriften § 18 ved utsetting kan ikke medføre straff, jf. naturmangfoldloven § 75 første ledd. Overtredelse av bestemmelser vedtatt i medhold av viltloven § 7 andre ledd, jf. forskriften § 13, kan medføre straff etter viltloven § 56.
