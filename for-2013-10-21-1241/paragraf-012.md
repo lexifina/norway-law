@@ -1,0 +1,2 @@
+# § 12. Testing
+Mobiltilbyder som plikter å tilby prioritetsabonnement og mobiltilbydere som tilbyr tilgang til mobilnett til andre mobiltilbydere som plikter å tilby prioritetsabonnement skal, med forsvarlige mellomrom, gjennomføre eller få gjennomført tester som verifiserer at tilgangsprioritet og nasjonal gjesting oppfyller kravene i denne forskriften. Dokumentasjon på gjennomførte tester skal oversendes Nasjonal kommunikasjonsmyndighet på forespørsel.

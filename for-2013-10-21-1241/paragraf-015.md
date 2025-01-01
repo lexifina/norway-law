@@ -1,0 +1,3 @@
+# § 15. Oversikt over prioritetsabonnement mv.
+Mobiltilbyder skal på forespørsel fra Nasjonal kommunikasjonsmyndighet fremlegge oversikt over aktive prioritetsabonnement. Mobiltilbyder som tilbyr andre mobiltilbydere tilgang til mobilnett skal også kunne fremlegge oversikt over deres aktive prioritetsabonnement. Mobiltilbydere som kjøper tilgang hos tilbydere av mobilnett, har plikt til å fremlegge oversikt over sine prioritetsabonnement for sin tilbyder av mobilnett.
+Nasjonal kommunikasjonsmyndighet kan kreve at mobiltilbyder lagrer og utleverer statistiske data for faktisk bruk av prioritetsfunksjonen og nasjonal gjesting.
