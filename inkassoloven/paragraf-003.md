@@ -1,0 +1,2 @@
+# § 3. Fravikelighet
+Bestemmelsene i eller i medhold av §§ 9 til 11, § 17 første ledd og § 19 kan fravikes ved avtale mellom fordringshaveren og skyldneren, men ikke til skade for en skyldner som har pådratt seg forpliktelsen i egenskap av forbruker. Bestemmelsene i §§ 14, 15 og 16 første ledd kan fravikes ved avtale mellom fordringshaveren og inkassatoren. For øvrig kan loven ikke fravikes ved avtale.

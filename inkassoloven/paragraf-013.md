@@ -1,0 +1,2 @@
+# § 13. Inkassatorens legitimasjon
+Skyldneren kan med frigjørende virkning betale til en inkassator som har fått i oppdrag å drive inn kravet. Innsigelser som er satt fram overfor inkassatoren, har samme virkning som om innsigelsene var satt fram overfor fordringshaveren. Fordringshaveren er bundet av de nedbetalingsordninger som inkassatoren avtaler med skyldneren. Skyldnerens rett etter denne paragrafen er uavhengig av kunnskap om inkassatorens rett i forholdet til fordringshaveren.
