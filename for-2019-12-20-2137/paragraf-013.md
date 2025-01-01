@@ -1,0 +1,2 @@
+# § 13. Forbud mot forskjellsbehandling
+Avgifter som fastsettes i medhold av denne forskriften skal ikke forskjellsbehandle mellom brukerne av lufthavnene, og respektere kravene til likebehandling i fellesskapsretten. Dette skal ikke være til hinder for at avgiftene kan differensieres for å ivareta offentlige og allmenne interesser, medregnet miljøhensyn. Kriteriene som blir brukt til slik differensiering skal være relevante, objektive og oversiktlige.
