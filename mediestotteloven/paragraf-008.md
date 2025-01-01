@@ -1,0 +1,2 @@
+# § 8. Tilskudd til lokale lyd- og bildemedier
+Tilskuddsordningen skal fremme mediemangfold, ytringsfrihet og styrking av de lokale lyd- og bildemedienes demokratiske funksjon i samfunnet, gjennom å stimulere til et bredt innholdstilbud av høy kvalitet, digitalisering, nyskapning, kompetanseutvikling, samarbeid mellom ulike lokalmedier og et økonomisk bærekraftig driftsgrunnlag for de lokale lyd- og bildemediene.
