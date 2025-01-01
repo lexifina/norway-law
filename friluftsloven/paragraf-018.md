@@ -1,0 +1,3 @@
+# § 18. (Krav om innløsning av særlig utsatt område)
+Eier av grunn som nevnt i § 16 kan kreve at den kommune hvor eiendommen ligger, innløser det området som i særlig grad er utsatt for almenhetens ferdsel når det ikke blir truffet vedtak om sperring, eller sperring ikke er tilstrekkelig til å beskytte området.
+Blir ikke saken ordnet i minnelighet, kan eieren kreve den avgjort ved skjønn etter reglene i skjønnsprosessloven kapittel 2, likevel slik at kommunen skal erstatte eierens skjønnskostnader når ikke skjønnet finner å burde gjøre unntak, fordi erstatningssøkeren har avslått et rimelig forliksbud eller uten rimelig grunn har forlangt skjønn. Skjønnet avgjør om vilkårene for innløsning er til stede, innløsningens omfang og erstatningens størrelse.

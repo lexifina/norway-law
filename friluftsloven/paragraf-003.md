@@ -1,0 +1,4 @@
+# § 3. (Ferdsel i innmark.)
+I innmark kan enhver ferdes til fots i den tid marken er frosset eller snølagt, dog ikke i tidsrommet fra 30. april til 14. oktober. Denne ferdselsrett gjelder likevel ikke på gårdsplass eller hustomt, inngjerdet hage eller park og annet for særskilt øyemed inngjerdet område hvor almenhetens vinterferdsel vil være til utilbørlig fortrengsel for eier eller bruker.
+Eier eller bruker kan – uansett inngjerding – forby ferdsel over hage, plantefelt, høstsådd åker og gjenlegg (attlegg) også når marken er frosset eller snølagt, såfremt ferdselen er egnet til å volde nevneverdig skade.
+Statsforvalteren kan for det enkelte fylke eller deler av det bestemme at det tidsrom da det etter første ledd skal være ubetinget forbudt å ferdes i innmark, settes kortere eller lengre enn fra 30. april til 14. oktober.
