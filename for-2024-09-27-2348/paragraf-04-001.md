@@ -1,0 +1,3 @@
+# § 4-1. Årlig betaling av minimumsavdraget
+Kommunen eller fylkeskommunen som rettssubjekt skal årlig foreta nedbetaling av lån til formål som nevnt i § 3-4 første ledd. Nedbetalingene skal minst tilsvare kommunens eller fylkeskommunens samlete minimumsavdrag. Det samlete minimumsavdraget er lik summen av minimumsavdragene for de enkelte budsjett- og regnskapsenhetene i kommunen eller fylkeskommunen slik det følger av forskriften kapittel 2 og 3.
+Interkommunalt politisk råd som er eget rettssubjekt, kommunalt oppgavefellesskap som er eget rettssubjekt og interkommunale selskaper skal årlig foreta nedbetaling av lån til formål som nevnt i § 3-4 første ledd. Nedbetalingene skal minst tilsvare enhetens minimumsavdrag slik det følger av forskriften kapittel 2 og 3.
