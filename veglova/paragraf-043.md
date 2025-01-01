@@ -1,0 +1,5 @@
+# § 43.
+Avkjørsle skal byggast og haldast ved like i samsvar med reglar som Vegdirektoratet fastsetter. Så langt det ikkje er fastsett noko anna, skal desse reglane gjelde i staden for vilkår som tidligare måtte vere sette for løyve til avkjørsla. I reglane kan det fastsettast at det skal gjelde særlege frisiktliner mellom avkjørsla og den offentlige vegen. Om vegstyremakta finn det naudsynt, kan slike frisiktliner òg gjerast gjeldande utanom byggegrensene. Vegstyremaktene kan òg sette som vilkår for løyve til avkjørsle i det einskilde tilfellet at eigaren eller brukaren av avkjørsla syter for å halde fri sikt etter slike liner som er fastsette av vegstyremakta.
+Eigaren eller brukaren av eigedomen er ansvarlig for vedlikehald av avkjørsle til eigedomen. Er vedlikehaldet ikkje forsvarlig, kan det, så langt det blir funne naudsynlig, gjerast på den ansvarlige sin kostnad.
+Er avkjørsle bygd og halden ved like i samsvar med fastsette reglar, syter vegstyremakta for at vasslaup under avkjørsla blir halde ope.
+Statens vegvesen tar avgjerd etter denne paragrafen for riksvegar, fylkeskommunen for fylkesvegar og kommunen for kommunale vegar.

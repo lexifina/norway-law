@@ -1,0 +1,2 @@
+# § 34.
+Når byggverk eller anna innretning som nemnt i §§ 30 eller 32 heilt eller delvis ligg eller er plassert i strid med denne lova eller med føresegner gitt med heimel i lova, må byggverket eller innretninga ikkje utan særskilt løyve frå vegstyremakta på nokon måte endrast slik at byggverket eller innretninga vert meir i strid med lova. Byggverket eller innretninga må heller ikkje utan slikt løyve takast i bruk til vesentlig anna føremål enn før.

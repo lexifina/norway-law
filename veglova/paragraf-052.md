@@ -1,0 +1,3 @@
+# § 52.
+Når eigedomsrett eller annen rett er vunnen etter §§ 50 eller 51 eller etter avtale, skal det utferdast eit dokument som klårt seier kva rett det er, kor langt han går og kven som skal ha retten. Rett som knyter seg til riksveg, fylkesveg eller kommunal veg, skal i same rekkefylgd ligge hos staten, vedkomande fylkeskommune eller vedkomande kommune.
+Omregistrering i grunnboka eller matrikkelen i samband med overføring av vegmyndighet skjer ved namneendring. Det skal ikkje betales dokumentavgift etter § 6 i lov 12. desember 1975 nr. 59 om dokumentavgift eller rettsgebyr etter § 21 i lov 17. desember 1982 nr. 86 om rettsgebyr ved overføringa.

@@ -1,0 +1,6 @@
+# § 44.
+Om ikkje anna er fastsett etter vilkåra for oreigningsskjønn eller avtale, gjeld slike reglar om gjerdehald ved offentlig veg:
+Dersom vegstyremakta finn at det bør vere gjerde mot offentlig veg av omsyn til vegen eller ferdsla på vegen, vert gjerdet sett opp og halde ved like av vegstyremakta.
+Så langt gjerde må reknast naudsynt for å verne eigedomen mot husdyr, kan eigar eller brukar av grunn ved offentlig veg krevje at vegstyremakta gir vederlag etter skjønn for utgifter til å sette opp og halde ved like gjerde. Er eigar (brukar) og vegstyremakta usamde om det er naudsynt å ha gjerde, skal usemja avgjerast ved skjønn.
+Eigar (brukar) som treng gjerde for å verne eigedomen mot husdyr, kan krevje at annan eigar (brukar) i staden set opp gjerde på eigedomen sin dersom det gir ei monalig lettare eller billigare løysing. Vegstyremakta kan òg fremje slikt krav. Den eigar (brukar) som må sette opp og halde ved like gjerde, kan krevje vederlag etter skjønn. Skjønnet kan avgjere om vilkåra for å krevje gjerde er til stades.
+Dersom vegstyremakta finn at gjerde som ho ikkje sjølv har sett opp, bør flyttast eller endrast i samsvar med føresegnene i § 45, kan vegstyremakta krevje at eigar eller brukar av grunn ved vegen skal gjere dette mot vederlag etter skjønn.

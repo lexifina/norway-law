@@ -1,0 +1,3 @@
+# § 41.
+Vegstyremakta kan påby avkjørsle frå offentleg veg flytt eller endra, eller avgrense bruken eller nekte bruken av slik avkjørsle.
+Naudsynte utgifter til flytting eller endring av lovleg avkjørsle kan det krevjast vederlag for. Likeeins kan det, i samband med flytting av avkjørsle, krevjast vederlag for naudsynte utgifter til flytting, endring eller lengning av privat veg fram til avkjørsla. Det same gjeld utgifter til flytting, ombygging eller endring av byggverk eller anlegg som avkjørsla gjer naudsynt. Det skal takast omsyn til verdauke som den nye avkjørsla eller vegen tilfører eigedomen. Dette skjer ved frådrag i vederlaget eller refusjon frå eigaren dersom avkjørsla eller vegen alt er bygd.

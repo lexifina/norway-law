@@ -1,0 +1,5 @@
+# § 50.
+Mot vederlag etter skjønn til den det råkar, kan eigedomsinngrep settast i verk etter vedtak av vegstyremakta så langt ho finn at det trengs til bygging, utbetring, vedlikehald og drift av riksveg, fylkesveg eller kommunal veg. Slikt eigedomsinngrep kan òg gjelde grunn og rettar til bate for tredjemann så langt det trengs for vegen eller ferdsla på vegen eller for å skaffe tredjemann tilgjenge til offentlig veg.
+Til bate for ein som lyt tola eigedomsinngrep etter første leden, kan vegstyremakta gjere vedtak om at det skal gjerast eigedomsinngrep hjå ein annan eigar eller rettshavar, så framt skaden og ulempene då alt i alt vert monaleg mindre.
+I vedtak om eigedomsinngrep kan vegstyremakta heilt eller delvis overlate til skjønnet å ta avgjerd om kva inngrepet skal gå ut på eller kva omfang det skal ha. Skjønnet kan då òg gjere vedtak etter andre leden i paragrafen her. Skjønnet kan fastsette at det ved eigedomsinngrep etter denne paragrafen skal ytast grunn som vederlag for grunn og rettar som blir avstått.
+Departementet kan gi føresegner om saksførehavinga etter paragrafen her.
