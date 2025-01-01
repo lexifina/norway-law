@@ -1,0 +1,2 @@
+# § 5. Plikt til å tilby nødvendig funksjonalitet til andre mobiltilbydere
+Mobiltilbyder som tilbyr tilgang til mobilnett til andre mobiltilbydere som plikter å tilby prioritetsabonnement, skal tilby nødvendig funksjonalitet for at disse kan tilby prioritetsabonnement til sine sluttbrukere. Denne funksjonaliteten skal tilbys på ikke-diskriminerende vilkår og til kostnadsorienterte priser. Mobiltilbyder skal på forespørsel fra Nasjonal kommunikasjonsmyndighet dokumentere at prisene er kostnadsorienterte.

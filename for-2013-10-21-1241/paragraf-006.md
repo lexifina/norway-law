@@ -1,0 +1,3 @@
+# § 6. Sikkerhet
+Mobiltilbyder som plikter å tilby prioritetsabonnement og mobiltilbydere som tilbyr tilgang til mobilnett til andre mobiltilbydere som plikter å tilby prioritetsabonnement, skal sørge for forsvarlig sikkerhet for tekniske og administrative funksjoner i prioritetsordningen, herunder opplysninger om prioritetsabonnenter.
+Personer som behandler prioritetsabonnement hos mobiltilbyder skal ha særskilt fullmakt av mobiltilbyder til dette. Antallet fullmakter skal begrenses mest mulig. Tilgang til opplisting som identifiserer prioritetsabonnenter, skal begrenses til personer med fullmakt.
