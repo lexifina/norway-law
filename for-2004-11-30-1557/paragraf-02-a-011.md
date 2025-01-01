@@ -1,0 +1,3 @@
+# § 2A-11. Registrering av saker behandlet etter § 2-5 og § 2-5a
+Nettselskapet skal registrere saker som er behandlet etter § 2-5 og etter § 2-5a der henvendelsen gjelder gjentakende avbrudd. Registreringen skal være på et format og inneholde de opplysningene som Reguleringsmyndigheten for energi bestemmer.
+Nettselskap skal oppbevare de registrerte opplysningene i ti år. For de saker der det er utført spenningskvalitetsmålinger skal måleresultatene også oppbevares i ti år. For de saker der det er utført utredning i henhold til § 2-5a skal utredningen oppbevares i ti år. Skriftlig korrespondanse med nettkunden skal oppbevares i ti år.
