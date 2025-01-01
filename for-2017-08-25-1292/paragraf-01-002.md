@@ -1,0 +1,2 @@
+# § 1-2. Virkeområde
+Forskriften gjelder innsamling og annen behandling av helseopplysninger i Kommunalt pasient- og brukerregister om personer som har søkt, mottar eller har mottatt helse- og omsorgstjenester fra den kommunale helse- og omsorgstjenesten, fra virksomheter som yter tannhelsetjenester og fra private uten driftsavtale med kommune eller fylkeskommune som yter helse- og omsorgstjenester på kommunalt nivå.
