@@ -1,0 +1,5 @@
+# § 15-5. Pålegg om retting og opphør av ulovlige forhold
+Departementet kan gi pålegg om retting eller opphør av ulovlige forhold og fastsette vilkår for å sikre etterlevelse av krav fastsatt i eller i medhold av denne loven. Departementet kan som ledd i dette blant annet pålegge tilbyder å inngå avtaler med andre tilbydere eller med sluttbrukere, og kan også pålegge tilbyder å ta inn nye avtalevilkår eller endre utformingen i slike avtaler.
+Departementet kan gjennomføre særskilte tiltak ved brudd på vilkår i tillatelse, plikter pålagt tilbyder med sterk markedsstilling eller plikter som gjelder for tilbyder av leveringspliktig tjeneste og spesielle samfunnspålagte oppgaver.
+Departementet kan gi pålegg om tiltak for å hindre utstråling fra radio- og terminalutstyr og ethvert annet utstyr, gjenstand eller innretning som medfører eller kan medføre forstyrrelse av elektronisk kommunikasjon. Tiltakene som pålegges skal være forholdsmessige og basert på en helhetsvurdering av partenes og samfunnets interesser.
+Pålegg om retting eller opphør kan kreves gjennomført umiddelbart eller innen en fastsatt tidsfrist.

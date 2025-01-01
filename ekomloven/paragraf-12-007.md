@@ -1,0 +1,10 @@
+# § 12-7. Domenenavn
+Norid AS er registerenhet for de norske landkodetoppdomenene, og skal blant annet drifte og administrere navnetjenesten og registreringstjenesten for.no.
+En registerenhet kan, etter tilrådning av departementet, få delegert ansvaret til å administrere andre toppdomener av nasjonal betydning av den internasjonale domeneforvalteren. Hvert norsk landkodetoppdomene eller toppdomene av nasjonal betydning kan kun administreres av én registerenhet.
+Registerenheten fastsetter tildelingskriterier innenfor rammen av lov og forskrift. Tildelingsreglene for domenenavn under norske landkodetoppdomener og toppdomener av nasjonal betydning skal være offentlig tilgjengelige. Forvaltningsloven gjelder ikke ved tildeling av domenenavn.
+Registerenheten for norske landkodetoppdomener eller toppdomener av nasjonal betydning skal benytte domeneforhandlere til deler av registreringsprosessen, og skal gi domeneforhandlerne tilgang til registreringstjenesten på ikke-diskriminerende vilkår.
+Registrering av et domenenavn gir domeneabonnenten en bruksrett til domenenavnet. Domeneabonnenten er selv ansvarlig for bruken av domenenavnet.
+Norid AS skal sørge for at det etableres en klageordning for behandling av tvistesaker om registrering av norske domenenavn. Dersom det blir flere registerenheter for domenenavn, vil disse også omfattes av klageordningen. Registerenhetene skal gjennomføre klageorganets avgjørelser.
+Departementet kan gi forskrift eller fatte enkeltvedtak om vilkår for administreringen av norske landkodetoppdomener og andre toppdomener av nasjonal betydning, herunder om en registerenhets administrering av slike domener, leveranse av navnetjenester eller infrastrukturtjenester som et ledd i disse. Departementet kan gi forskrift om krav til domeneforhandlere og hva som skal registreres.
+Departementet kan fatte enkeltvedtak og gi forskrift om klageordningen, inkludert hvem klageordningen skal omfatte, hvilke klagesaker klageorganet skal behandle, saksbehandlingsregler og finansieringen av klageordningen.
+Departementet kan fatte enkeltvedtak og gi forskrift med krav til sikkerhet, herunder om entydig identifisering av domeneabonnent.

@@ -1,0 +1,7 @@
+# § 4-14. Bytte av internettilgangstjeneste
+Sluttbruker har rett til å bytte tilbyder av internettilgangstjenester. Tilbyderne skal gjennomføre byttet så raskt som mulig og i henhold til den tidsrammen som avtales med sluttbruker.
+Avgivende og mottakende tilbyder skal sikre at sluttbruker kan bytte tilbyder uten avbrudd i internettilgangstjenesten, så langt det er teknisk gjennomførbart. Bortfall av tjenesten under bytteprosessen skal ikke overstige én virkedag.
+Den mottakende tilbyderen har ansvar for bytteprosessen. Avgivende tilbyder skal samarbeide med mottakende tilbyder for å sikre et effektivt bytte. Avgivende tilbyder skal fortsette å levere sin internettilgangstjeneste på samme vilkår frem til mottakende tilbyder aktiverer sin tjeneste.
+Avgivende og mottakende tilbyder skal før og under bytteprosessen gi sluttbruker tilstrekkelige opplysninger til at byttet kan gjennomføres. Informasjonen til sluttbruker fra avgivende tilbyder skal være nøytral.
+Avgivende tilbyder skal ikke bruke informasjon fra bytteprosessen i egen markedsføring rettet mot sluttbruker. Forbudet mot markedsføring gjelder i bytteperioden og 14 dager etter at byttet er gjennomført. Bytteperioden er perioden fra byttebestilling er inngitt frem til byttet er gjennomført og tjenesten kan tas i bruk hos mottakende tilbyder.
+Departementet kan i forskrift gi nærmere bestemmelser om bytte av internettilgangstjenester.

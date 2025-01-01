@@ -1,0 +1,3 @@
+# § 18-2. Overgangsbestemmelser
+Enkeltvedtak og forskrift med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon eller eldre lover på området for elektronisk kommunikasjon som er i kraft ved denne lovs ikrafttredelse, skal fortsatt gjelde. Herunder opprettholdes forpliktelser som er pålagt tilbyder med sterk markedsstilling med hjemmel i eller i medhold av lov, inntil nye enkeltvedtak med hjemmel i denne lov er iverksatt.
+Nasjonale frekvensplaner og nasjonale nummerplaner som er fastsatt med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon eller eldre lover og som er i kraft ved denne lovs ikrafttredelse, videreføres.

@@ -1,0 +1,4 @@
+# § 1-3. Geografisk virkeområde
+Loven gjelder i Norge, for norske skip og luftfartøy, anlegg og innretninger av enhver art med tilknytning til petroleumsvirksomhet, mineralvirksomhet og lagring av CO2 på kontinentalsokkelen, anlegg og innretninger av enhver art for utnyttelse av fornybare energiressurser til havs etter havenergilovas virkeområde og akvakulturanlegg til havs etter akvakulturloven.
+Kongen kan gi forskrift om lovens anvendelse på Jan Mayen, Bouvetøya, Peter I øy og Dronning Maud Land. Kongen kan i forskrift fastsette de unntaks- og særregler som følger av internasjonale overenskomster som Norge har sluttet seg til, eller som er nødvendige på grunn av de stedlige forhold.
+Kongen kan avgrense lovens geografiske virkeområde og fastsette bestemmelser om lovens anvendelse på utenlandsregistrerte skip i norsk territorialfarvann og utenlandsregistrerte luftfartøy i norsk luftrom.

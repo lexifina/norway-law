@@ -1,0 +1,6 @@
+# § 3-14. Utlevering av IP-adresser
+Opplysninger lagret etter § 3-13 skal uten hinder av taushetsplikt etter § 3-10 utleveres til politiet eller påtalemyndigheten når det er nødvendig for å etterforske en handling som etter loven kan medføre straff av fengsel i tre år eller mer, eller som rammes av straffeloven § 125, § 168, § 184, § 201, § 202, § 204, § 205, § 251, § 263, § 266, § 267 a første ledd, § 267 b, § 297, § 298, § 305, § 306 eller § 309, eller åndsverkloven § 104, jf. § 79.
+Anmodning om utlevering etter første ledd skal fremsettes skriftlig og så vidt mulig opplyse om hva saken gjelder, formålet med anmodningen og hva den omfatter. Det skal fremgå av anmodningen at kravet om nødvendighet etter første ledd er vurdert.
+Politiet og påtalemyndigheten skal oversende en årlig rapport til departementet om uthentingen av IP-adresser.
+Opplysninger som kun er lagret etter § 3-13, kan ikke gis ut i medhold av tvisteloven § 22-3 andre og tredje ledd eller åndsverkloven § 87, eller av andre lover eller i andre tilfeller enn angitt i første ledd.
+Departementet kan gi forskrift om utlevering av data etter denne bestemmelsen og om politiets og påtalemyndighetens rapportering om innhenting av opplysninger.

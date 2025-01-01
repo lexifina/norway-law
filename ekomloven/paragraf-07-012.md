@@ -1,0 +1,9 @@
+# § 7-12. Overgang fra eldre infrastruktur
+Tilbyder med sterk markedsstilling skal varsle Nasjonal kommunikasjonsmyndighet om planer for å avvikle eller skifte ut hele eller deler av infrastruktur som er underlagt særskilte forpliktelser etter dette kapittelet. Slikt varsel skal gis på forhånd og i god tid før avviklingen eller utskiftingen etter planen skal begynne.
+Når det er nødvendig for å sikre konkurransen og sluttbrukernes rettigheter, kan Nasjonal kommunikasjonsmyndighet pålegge tilbyder etter første ledd følgende:
+a) Plikt til å utarbeide en detaljert plan for avviklingen eller utskiftingen. Planen skal omfatte egnede vilkår for overgangen, herunder tidsskjema for implementering, krav til tilstrekkelig forhåndsvarsling, overgangsvilkår og en oversikt over nødvendige alternative tilgangsprodukter som minst har sammenlignbar kvalitet som det eksisterende tilgangsproduktet.
+b) Plikt til å sikre at det tilbys tilgang til alternative tilgangsprodukter av minst sammenlignbar kvalitet som i den eksisterende infrastrukturen, og som gjør det mulig for tilgangssøkerne å nå de samme sluttbrukerne.
+Nasjonal kommunikasjonsmyndighet kan oppheve tilgangsplikt til infrastruktur som skal legges ned eller erstattes med ny infrastruktur, når egnede vilkår for migrering etter andre ledd er innført.
+Dersom egnede vilkår etter andre ledd ikke innføres, kan Nasjonal kommunikasjonsmyndighet pålegge nærmere vilkår for utskifting eller avvikling av infrastruktur, herunder krav til overgangstid, for å sikre konkurransen og sluttbrukernes rettigheter. Nasjonal kommunikasjonsmyndighet kan gi pålegg om at infrastruktur som det allerede er pålagt tilgang til, ikke trekkes tilbake.
+Nasjonal kommunikasjonsmyndighet kan kreve at avviklingen eller utskiftingen stanses, når varslingsfristen etter første ledd eller pålegg etter andre ledd ikke overholdes.
+Departementet kan gi forskrift om overgang fra eldre infrastruktur.

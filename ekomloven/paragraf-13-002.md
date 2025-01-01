@@ -1,0 +1,2 @@
+# § 13-2. Utstyr som er beregnet på å forstyrre elektronisk kommunikasjon
+Radioutstyr og annet utstyr som er beregnet på å forstyrre eller hindre lovlig elektronisk kommunikasjon, er ikke tillatt å innføre, besitte, bringe i omsetning, gjøre tilgjengelig på markedet, sette i drift eller bruke. Forbudet gjelder ikke for innførsel og overlevering etter § 13-1 andre og tredje ledd, og bruk etter §§ 11-13, 11-14 og 11-15.

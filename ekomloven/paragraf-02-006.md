@@ -1,0 +1,7 @@
+# § 2-6. Måling og informasjon om kvalitet
+Departementet kan pålegge tilbyder av internettilgangstjeneste og offentlig person-til-person-kommunikasjonstjeneste å måle og offentliggjøre uttømmende, sammenlignbar, pålitelig, brukervennlig og oppdatert informasjon om kvaliteten på sine tjenester. Plikten til å offentliggjøre informasjon gjelder i den utstrekning tilbyderen utøver kontroll over hele eller deler av nettet, enten direkte eller i henhold til en avtale om tjenestenivå.
+Departementet kan pålegge tilbyder etter første ledd å gi informasjon om hvilke tiltak som er gjennomført for å sikre likeverdig tilgang for sluttbrukere med nedsatt funksjonsevne som for andre sluttbrukere.
+Departementet kan pålegge tilbyder etter første ledd å måle effekten av og informere om virksomhetens klima- og miljøpåvirkning.
+Departementet kan pålegge tilbyder av offentlig person-til-person-kommunikasjonstjeneste å informere om kvaliteten på tjenesten er avhengig av ytre faktorer.
+Dersom departementet krever det, skal informasjon som tilbyder pålegges å offentliggjøre etter første, andre, tredje og fjerde ledd, oversendes til departementet før offentliggjøring.
+Departementet kan fatte enkeltvedtak og gi forskrift om hvilke parametre for tjenestekvalitet som skal måles, gjeldende målemetoder og innholdet, formen og på hvilken måte opplysningene offentliggjøres, herunder mulige ordninger for kvalitetssertifisering.

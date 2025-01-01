@@ -1,0 +1,5 @@
+# § 15-9. Inndragning og destruksjon av utstyr
+Departementet kan inndra utstyr ved alvorlige eller gjentatte brudd på vedtak fattet etter §§ 15-5, 15-7 eller 15-8.
+Inndragning kan skje umiddelbart og uten forhåndsvarsel dersom bruk av utstyret kan medføre alvorlig og umiddelbar fare for liv, helse eller sikkerhet, og det ikke er sannsynlig at andre sanksjoner etter kapittel 15 vil forhindre ulovlig bruk eller tilgjengeliggjøring på markedet. Departementet kan kreve bistand fra politiet når det er nødvendig for å gjennomføre inndragning.
+Inndragning kan kun foretas når alvorlighetsgraden og varigheten av den rettsstridige handlingen gjør inndragningen forholdsmessig.
+Departementet kan destruere det inndratte utstyret. Destruksjon kan tidligst skje seks måneder etter at klagefristen i det endelige vedtaket om inndragning har utløpt, og vedtaket ikke har blitt gjenstand for omgjøring eller domstolskontroll. Ved inndragning og destruksjon av utstyr for å forhindre tilgjengeliggjøring på markedet skal reglene i forordning (EF) nr. 765/2008 artikkel 19, jf. EØS-vareloven § 2, følges.

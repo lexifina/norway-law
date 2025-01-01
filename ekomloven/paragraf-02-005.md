@@ -1,0 +1,2 @@
+# § 2-5. Taushetsplikt ved tilgang og samtrafikk
+Tilbyder plikter å bevare taushet om opplysninger som mottas fra annen tilbyder før, under eller etter forhandlinger om tilgangs- eller samtrafikkavtaler. Plikten til å bevare taushet gjelder også opplysninger som tilbyderen mottar underveis i avtaleforholdet. Slik informasjon skal heller ikke brukes innad i egen virksomhet til annet enn det informasjonen var forutsatt brukt til ved avgivelsen av informasjonen.

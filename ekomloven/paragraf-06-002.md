@@ -1,0 +1,5 @@
+# § 6-2. Relevante markeder
+Nasjonal kommunikasjonsmyndighet skal identifisere produkt- og tjenestemarkeder for elektronisk kommunikasjon som oppfyller vilkårene for forhåndsregulering, jf. § 6-3. Markedets geografiske utstrekning skal også defineres.
+Ved identifiseringen av relevante markeder etter første ledd skal Nasjonal kommunikasjonsmyndighet ta særlig hensyn til anbefalingen om relevante produkt- og tjenestemarkeder og retningslinjer for markedsanalyser og vurdering av sterk markedsstilling som følger av EØS-avtalen.
+Ved avgrensing av det relevante geografiske markedet skal det blant annet tas hensyn til graden av infrastrukturkonkurranse i området. Det skal også tas hensyn til relevante resultater av den geografiske kartleggingen av bredbåndsdekningen etter § 10-6.
+Nasjonal kommunikasjonsmyndighet kan definere markeder som avviker fra anbefalingen i andre ledd, jf. § 6-3 andre ledd. Når Nasjonal kommunikasjonsmyndighet definerer markeder som avviker fra anbefalingen, skal prosedyrene i §§ 14-2 og 14-3 følges.

@@ -1,0 +1,7 @@
+# § 10-6. Kartlegging av bredbåndsdekning
+Departementet skal kartlegge dekningen til elektroniske kommunikasjonsnett som kan levere bredbånd. Kartleggingen skal skje minst hvert tredje år og kan inkludere en prognose over fremtidig dekning.
+Departementet kan, på bakgrunn av kartleggingen, jf. første ledd, identifisere geografiske områder hvor prognosene tilsier at det ikke vil bli bygget nett med svært høy kapasitet, eller at eksisterende nett ikke vil bli oppgradert til å yte minst 100 Mbit/s nedlastningshastighet.
+I et område som er identifisert etter andre ledd, kan departementet oppfordre foretak og offentlige myndigheter om å opplyse om deres intensjoner om å bygge ut nett med svært høy kapasitet. Dersom et foretak eller en offentlig myndighet har intensjoner om å bygge ut nett med svært høy kapasitet i et slikt område, kan departementet kreve at andre aktører opplyser om hvorvidt de har intensjon om å bygge ut eller vesentlig oppgradere sitt nett i det samme området.
+Departementet skal sørge for at opplysninger som hentes inn ved kartlegging av bredbåndsdekning, gjøres offentlig tilgjengelig så langt dataene ikke omfatter forretningssensitive opplysninger, kan skade nasjonal sikkerhet eller i henhold til offenleglova skal unntas offentlighet.
+Departementet skal sikre at sluttbrukerne har tilgang til søkeverktøy som gir oversikt over sluttbrukernes tilgang til bredbånd.
+Departementet kan gi forskrift om kartlegging av bredbåndsdekning.
