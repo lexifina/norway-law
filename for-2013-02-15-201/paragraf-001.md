@@ -1,0 +1,3 @@
+# § 1. Statsforvalterens opplærings-, veilednings- og bistandsplikt
+Statsforvalteren skal sørge for at de oppnevnte vergene i vergemålsdistriktet får den opplæringen som er nødvendig for å kunne utføre vervet på en forsvarlig måte. Vergene skal få opplæring ved oppnevningen, og de skal få opplæring også senere dersom det er behov for det. Opplæringen skal tilpasses vergeoppdragets innhold og omfang.
+Statsforvalteren skal gi vergene i vergemålsdistriktet nødvendig veiledning og bistand ved behov. Statsforvalteren skal sette seg inn i saken og så langt som mulig gi et konkret råd i den aktuelle situasjonen. Om nødvendig må det også gis bistand slik at vergen kan følge rådet.

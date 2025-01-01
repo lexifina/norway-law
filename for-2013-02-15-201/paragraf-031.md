@@ -1,0 +1,3 @@
+# § 31. Nærmere regler om forvaltningen av legatmidler mv.
+Dersom styret for en stiftelse ber om det, kan statsforvalteren der særlige grunner tilsier det, vedta å overta forvaltningen av stiftelsens midler, samt andre midler som statsforvalteren etter vergemålsloven ikke har plikt til å forvalte. Styret for stiftelsen og statsforvalteren inngår avtale om vederlag for forvaltningen. Statsforvalteren kan videre vedta at en eksisterende forvaltning skal opphøre.
+Statsforvalteren kan medvirke til at midlene til stiftelser og andre midler med lokal tilknytning overføres til forvaltning i den kommunen som har sterkest tilknytning til saken, samt til andre forvaltere i samsvar med stiftelsens beslutning.
