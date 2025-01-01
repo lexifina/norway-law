@@ -1,0 +1,2 @@
+# § 6. Elektronisk informasjonsutveksling
+Når ansvarlig myndighet etter tjenesteloven § 25 yter bistand til myndighet i annen EØS-stat, eller anmoder myndighet i en annen EØS-stat om bistand ved tilsyn med tjenesteytere, skal informasjonsutveksling skje gjennom Det indre markeds informasjonssystem IMI. Det samme gjelder ved varsling i samsvar med tjenesteloven § 26 og ved gjennomføring av fremgangsmåten ved tiltak i enkeltsaker i samsvar med forskriften § 8.

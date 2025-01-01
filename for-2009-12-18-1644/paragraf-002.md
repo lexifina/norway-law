@@ -1,0 +1,3 @@
+# § 2. Definisjoner
+Med lovregulert yrke i tjenesteloven § 5 bokstav k menes yrkesvirksomhet der det i eller i medhold av lov kreves særlige yrkeskvalifikasjoner for adgangen til eller utøvelsen av yrket, herunder krav som forbeholder yrkestittel til innehavere av en gitt faglig kvalifikasjon. Som lovregulert yrke regnes også yrker som utøves av medlemmer i organisasjoner som skal behandles som lovregulerte yrker, jf. EØS-avtalen vedlegg VII nr. 1 (direktiv 2005/36/EF (yrkeskvalifikasjonsdirektivet)) artikkel 3 nr. 1 bokstav a jf. nr. 2 og vedlegg I.
+For øvrig får definisjonene i tjenesteloven § 5 tilsvarende anvendelse for denne forskriften.

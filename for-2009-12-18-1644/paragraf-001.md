@@ -1,0 +1,7 @@
+# § 1. Avgrensninger i tjenestelovens saklige virkeområde
+Avgrensningen i tjenesteloven § 3 bokstav g mot elektroniske kommunikasjonstjenester og kommunikasjonsnettverk og tilknyttede anlegg og tjenester omfatter forhold regulert i
+a) lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 1-1 til § 1-5, § 2-1, § 2-3 til § 2-5, § 2-8 til § 2-11, § 3-1, § 3-5, § 3-6, § 3-8, § 3-10 til § 3-12, § 3-15, § 4-1 til § 4-10, § 4-12 til § 4-14, § 4-16 til § 4-19, § 5-1 til § 5-4, § 6-1 til § 6-6, § 7-1 til § 7-14, § 8-1, § 9-1 til § 9-3, § 10-1 til § 10-6, § 11-1 til § 11-17, § 12-1 til § 12-5, § 12-7, § 12-8, § 14-1 til § 14-9, § 15-1 til § 15-3, § 15-5 til § 15-9, § 15-11, § 15-12, § 16-1 til § 16-3, § 16-5 til § 16-7, § 17-1, § 17-2 og § 18-3.
+b) lov 4. desember 1992 nr. 127 om kringkasting § 4-2 og § 4-3
+c) lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. § 15
+d) Forskrift 20. desember 2024 nr. 3410 om elektroniske kommunikasjonsnett og elektroniske kommunikasjonstjenester (ekomforskriften) § 1-1 til § 1-5, § 1-7 til § 1-11, § 2-1 til § 2-11, § 3-1 til § 3-8, § 4-1 til § 4-5, § 4-7 til § 4-16, § 5-1 til § 5-5, § 6-1 til § 6-5, § 7-1 til § 7-4, § 8-1 til § 8-3, § 9-1 til § 9-5, § 10-3, § 10-4, § 11-1, § 11-2, § 11-6 og § 11-4.
+e) forskrift 16. februar 2004 nr. 426 om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften) § 1, § 4, § 5, § 14, § 17, § 18, § 19 og § 42.
