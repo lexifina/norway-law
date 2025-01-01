@@ -1,0 +1,5 @@
+# § 7. Betaling av gebyr
+Gebyr etter forskriften tilfaller staten.
+Gebyr for tinglysing og registrering betales på etterskudd. Kravet sendes den som har begjært forretningen. Kravet forfaller til betaling innen 14 dager fra utsendelsen av kravet.
+Ved betaling via bank skal forhåndstrykket blankett med kundeidentifikasjon (KID) utstedt av Statens kartverk benyttes. Ved elektronisk behandling skal kundeidentifikasjon (KID) oppgis sammen med betalingsoppdraget til betalers bank. Betalingsformidlere skal avvise elektroniske betalingsoppdrag for gebyrer der det ikke er oppgitt gyldig kundeidentifikasjon (KID).
+Gebyr for bekreftet utskrift av grunnboka som er bestilt gjennom brukere som har avtale med Statens kartverk innkreves etterskuddsvis. Brukeren er ansvarlig som selvskyldner for betalingen av gebyret for slike utskrifter. Antallet utskrifter bestilt på denne måten, skal fremgå av det sentrale edb-system for grunnboka på en måte som tilfredsstiller de krav Riksrevisjonen stiller. Innbetalingen av gebyrene fra bruker til statskassen skjer kvartalsvis. Gebyr for bekreftet utskrift av grunnboken kan ellers innkreves forskuddsvis.
