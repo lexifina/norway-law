@@ -1,0 +1,2 @@
+# § 28. Merking av innretninger som ikke har gjennomgått samsvarsvurderingen
+Når en vekt benyttet på ett av bruksområdene nevnt i § 1 annet ledd er utstyrt med eller knyttet til innretninger som ikke har gjennomgått samsvarsvurderingen nevnt i forskrift om målenheter og måling vedlegg 1, skal hver enkelt av innretningene være påført en stor, svart «M» trykket på en rød, kvadratisk bakgrunn der siden er minst 25 mm, og det hele skal krysses av kvadratets to diagonaler.
