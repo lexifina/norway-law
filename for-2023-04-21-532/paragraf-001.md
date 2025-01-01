@@ -1,0 +1,3 @@
+# § 1. Formål
+(1) Denne forskriften skal sikre at nøyaktige og pålitelige målinger ligger til grunn for beregninger av statens skatter og avgifter, og rettighetshavernes inntekter fra petroleumsvirksomheten.
+(2) Denne forskriften gir utfyllende bestemmelser om hvilke krav som stilles til måling av mengder produsert petroleum og mengder underlagt CO2-avgift, jf. forskrift 27. juni 1997 nr. 653 til lov om petroleumsvirksomhet (petroleumsforskriften) § 26 og lov 21. desember 1990 nr. 72 om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen (CO2-avgiftsloven) § 5, og hvilke krav som stilles til styringssystemer, målemetoder, målesystemer og dokumentasjon.

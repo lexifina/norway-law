@@ -1,0 +1,3 @@
+# § 37. Kalibreringsmetoder for oljemålere
+(1) Kalibreringsmetoden for en oljemåler i et leveringsmålesystem skal være direkte proving mot en rørnormal eller mot en referansemåler i serie med en rørnormal. Dersom det kan dokumenteres at en slik kalibreringsmetode vil føre til urimelig høye kostnader og kravet i § 28 til instrumentell måleusikkerhet er ivaretatt, kan indirekte proving mot en mastermålerprover benyttes.
+(2) Kalibreringsmetoden for en oljemåler i et allokeringsmålesystem skal være proving mot en rørnormal, proving mot en mastermålerprover eller strømningskalibrering på et laboratorium. Valg av kalibreringsmetode skal baseres på behovet for nøyaktighet og fluidets karakteristikker.

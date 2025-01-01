@@ -1,0 +1,7 @@
+# § 78. Generelle krav til drift og vedlikehold
+(1) Rettighetshaver skal sørge for at drift og vedlikehold av måleinstrumenter og målesystemer samsvarer med kravene i denne forskriften, slik at de kan betjenes og fungerer som planlagt, og slik at kvalitetsnivået opprettholdes.
+(2) Rettighetshaver skal etablere, følge opp og videreutvikle prosedyrer for drift og vedlikehold av målesystemer. Prosedyrene skal være kjent for personale med drifts- og vedlikeholdsansvar.
+(3) Rettighetshaver skal ha et vedlikeholds- og reservedelssystem. Vedlikeholdssystemet skal omfatte alle bestanddeler i et målesystem og imøtekomme denne forskriftens krav om vedlikehold, verifikasjon, kontroll mv. Rettighetshaver er ansvarlig for at reservedeler er tilgjengelige, slik at reparasjon og utskifting kan skje innenfor en rimelig tidsramme.
+(4) Hendelser som angår måleinstrumenter og målesystemer og som kan resultere i avvik fra kravene i denne forskriften skal registreres.
+(5) Avvik fra kravene i denne forskriften på grunn av funksjonsfeil på måleinstrument og målesystemer skal registreres i et avviksbehandlingssystem. Et registrert avvik skal korrigeres så snart som praktisk mulig. Årsaker til avviket skal klarlegges, og korrigerende tiltak skal settes i verk for å hindre at avviket oppstår igjen.
+(6) Måleinstrumenter og målesystemer skal rekalibreres etter modifikasjoner og reparasjoner dersom det er nødvendig for å opprettholde nøyaktighet og måleteknisk sporbarhet.

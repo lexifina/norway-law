@@ -1,0 +1,7 @@
+# § 5. Styringssystem
+(1) Rettighetshaver skal etablere, følge opp og videreutvikle et styringssystem for å sikre at kravene i denne forskriften blir overholdt. Styringssystemet skal være en del av det overordnede styringssystemet til rettighetshaver.
+(2) Styringssystemet skal i nødvendig utstrekning inneholde interne krav og rutiner for å sikre oppfyllelse av kravene i denne forskriften. Ved utforming av interne krav og rutiner, skal det tas hensyn til risikoer for at kravene i denne forskriften ikke blir oppfylt.
+(3) Styringssystemet skal inneholde krav om etablering og vedlikehold av et arkiv. Dette arkivet skal inneholde de dokumenter som er nødvendige for å demonstrere samsvar med kravene i denne forskriften
+(4) Styringssystemet skal inneholde beskrivelser av funksjons- og ansvarsområde for alt personale som har oppgaver relatert til måling, måleinstrumenter og målesystemer. Det skal være spesifiserte beskrivelser av personalets plikter, ansvar og myndighet.
+(5) Styringssystemet skal inneholde beskrivelser av funksjoner med ansvar for oppfølging av måling, måleinstrumenter og målesystemer, inkludert ansvar for ettersyn med at interne krav og rutiner blir fulgt.
+(6) Styringssystemet skal inneholde spesifiseringer av hvilken kompetanse som er nødvendig for å sikre oppfyllelse av kravene i denne forskriften, samt beskrivelser av hvordan kompetanseutvikling og kompetanseoverføring skal ivaretas.
