@@ -1,0 +1,4 @@
+# § 15-10. Tilbakebetaling mellom tilbydere
+Tilbyder som har betalt en høyere pris enn hva som er fastsatt i medhold av denne loven, kan kreve overprisen tilbakebetalt. Dette gjelder også overpris som følge av brudd på plikten til ikke-diskriminering.
+På forespørsel fra den berettigede kan departementet fatte enkeltvedtak om tilbakebetaling av overpris mellom tilbydere. Ved vurderingen av om det bør fattes vedtak om tilbakebetaling, skal det blant annet tas hensyn til tilbakebetalingsbeløpets størrelse og om det i tidligere perioder for den aktuelle tjenesten har blitt tatt for lav pris. Departementets avgjørelse om ikke å fatte vedtak om tilbakebetaling, kan ikke påklages.
+Det skal beregnes renter av tilbakebetalingskravet i samsvar med forsinkelsesrenteloven. Frem til forsinkelsesrenten begynner å løpe skal Norges Banks pengemarkedsrente tillagt fire prosentpoeng benyttes som rentesats.

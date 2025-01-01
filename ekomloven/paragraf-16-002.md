@@ -1,0 +1,7 @@
+# § 16-2. Konfliktløsning i tvister mellom tilbydere
+Tvist om rettigheter og plikter etter enkeltvedtak gitt i eller i medhold av denne loven mellom tilbydere av elektroniske kommunikasjonsnett og -tjenester, tilhørende fasiliteter eller andre som kan utlede rett etter § 7-2, kan bringes inn for Nasjonal kommunikasjonsmyndighet til avgjørelse av en som er part i tvisten. Partene i konflikten plikter å samarbeide med Nasjonal kommunikasjonsmyndighet for å løse tvisten.
+Nasjonal kommunikasjonsmyndighet skal avgjøre tvisten så snart som mulig og senest innen fire måneder etter at saken er brakt inn for Nasjonal kommunikasjonsmyndighet. I særlige tilfeller kan tidsfristen forlenges.
+Nasjonal kommunikasjonsmyndighet kan unnlate å fatte vedtak dersom konflikten kan løses ved andre midler, jf. § 16-1, og skal uten ugrunnet opphold meddele partene dette. Har forsøk på konfliktløsning pågått i fire måneder eller blitt avbrutt uten resultat og saken ikke er brakt inn for domstolen, skal Nasjonal kommunikasjonsmyndighet etter ny anmodning fra en part fatte vedtak i saken innenfor tidsfristen i andre ledd.
+Nasjonal kommunikasjonsmyndighet skal offentliggjøre vedtak med de begrensninger som følger av forvaltningsloven § 13.
+At en sak er brakt inn for Nasjonal kommunikasjonsmyndighet etter første ledd, er ikke til hinder for at det reises sak for de alminnelige domstolene. Forvaltningsloven § 27 b gjelder ikke.
+Departementet kan gi forskrift om prosedyrer for konfliktløsning.

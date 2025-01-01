@@ -1,0 +1,3 @@
+# § 1-2. Saklig virkeområde
+Loven gjelder virksomhet knyttet til elektronisk kommunikasjon og tilhørende utstyr og datasentre. Forvaltning og bruk av det elektromagnetiske frekvensspekteret og nummer, navn, domenenavn og adresser er omfattet. Det samme gjelder all utstråling av elektromagnetiske bølger fra elektronisk kommunikasjon og all utilsiktet utstråling av elektromagnetiske bølger som kan forstyrre elektronisk kommunikasjon. Innholdstjenester som faktureres sammen med den elektroniske kommunikasjonstjenesten, omfattes.
+Kongen kan ved enkeltvedtak eller forskrift avgjøre hva som skal anses å falle innenfor lovens saklige virkeområde.

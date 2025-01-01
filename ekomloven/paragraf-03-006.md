@@ -1,0 +1,5 @@
+# § 3-6. Formidling av viktig melding
+Tilbyder av elektroniske kommunikasjonsnett og -tjenester, med unntak av tilbyder av nummeruavhengige person-til-person-kommunikasjonstjenester, skal formidle viktige meldinger fra statsmyndighetene. Departementet kan pålegge tilbyder å dekke deler av kostnadene for varslingssystemet.
+Departementet kan gi forskrift eller fatte enkeltvedtak om formidling av viktig melding, blant annet om at tilbyder etter første ledd skal innføre umiddelbar varsling, tilrettelegge for varsling og aktivere varslingsfunksjonen i terminalutstyret på brukersiden. Departementet kan gi forskrift eller fatte enkeltvedtak om teknologivalg og tekniske løsninger.
+Departementet kan gi forskrift om at tilsvarende plikter pålegges andre tilbydere enn de som er nevnt i første ledd, og at meldinger fra andre myndigheter enn statsmyndighet omfattes.
+Departementet kan gi forskrift eller fatte enkeltvedtak om dekning av deler av kostnadene for varslingssystemet for tilbydere etter første og tredje ledd.

@@ -1,0 +1,2 @@
+# § 7-11. Prisregulering mv. av sluttbrukertjenester
+Når plikter etter §§ 7-1 til 7-7 ikke vil være tilstrekkelig for å legge til rette for bærekraftig konkurranse, kan Nasjonal kommunikasjonsmyndighet pålegge tilbyder med sterk markedsstilling i sluttbrukermarkedene vilkår for tilbud av sluttbrukertjeneste. Vilkårene kan blant annet omfatte offentliggjøring, standardtilbud, ikke-diskriminering, pris- og regnskapsregulering og forbud mot urimelig koblingssalg.

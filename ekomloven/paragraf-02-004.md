@@ -1,0 +1,3 @@
+# § 2-4. Krav til nett, tjeneste, tilhørende utstyr og fasiliteter
+Departementet kan stille krav til elektroniske kommunikasjonsnett og -tjenester, tilhørende utstyr og fasiliteter og bruk av standarder for å sikre samvirke mellom nett og tjeneste, kvalitet, effektiv utnyttelse av kapasitet i nett som brukes av flere tilbydere, og for å sikre liv og helse eller unngå skadelig interferens.
+Departementet kan fatte enkeltvedtak og gi forskrift som utfyller første ledd, herunder sette krav som forebygger og begrenser mengden av massedistribuerte elektroniske meldinger, ondartet programvare og lignende, og fastsette nettermineringspunktenes plassering.

@@ -1,0 +1,3 @@
+# § 15-3. Medvirkning ved tilsyn
+Den som er gjenstand for tilsyn, har plikt til å sørge for at departementet har uhindret adgang til elektronisk kommunikasjonsnett, tilhørende fasiliteter, lokaler og områder. Nødvendig dokumentasjon og informasjon skal gjøres tilgjengelig for departementet. Den det føres tilsyn med, kan pålegges å være til stede med relevant personell under tilsynet.
+Den som er gjenstand for tilsyn, har plikt å skaffe til veie radioutstyr, terminalutstyr og annet utstyr som departementet ber om å få utlevert eller tilsendt for nærmere kontroll, selv om utstyret ikke er tilgjengelig på lager. Utstyret som er gjenstand for tilsyn, skal vederlagsfritt overleveres til departementet.

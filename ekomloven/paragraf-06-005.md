@@ -1,0 +1,3 @@
+# § 6-5. Frister for markedsanalyse og notifisering til EFTAs overvåkningsorgan
+Nasjonal kommunikasjonsmyndighet skal gjennomføre en ny markedsanalyse og notifisere begrunnet utkast til markedsvedtak til EFTAs overvåkningsorgan innen fem år fra datoen for gjeldende markedsvedtak. I særlige tilfeller kan fristen forlenges med inntil ett år.
+For markeder som ikke tidligere er notifisert til EFTAs overvåkningsorgan, skal Nasjonal kommunikasjonsmyndighet gjennomføre markedsanalyser og notifisere et begrunnet forslag til markedsvedtak innen tre år fra ny anbefaling om relevante markeder er vedtatt i tråd med EØS-avtalen.

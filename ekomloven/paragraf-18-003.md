@@ -1,0 +1,7 @@
+# § 18-3. Overgangsordning for klager på enkeltvedtak
+Inntil § 16-6 om klagenemnda for elektronisk kommunikasjon trer i kraft, avgjør departementet klager på enkeltvedtak Nasjonal kommunikasjonsmyndighet gjør med hjemmel i eller i medhold av denne loven. Departementet kan overføre klager som har kommet inn til departementet før ikrafttredelsen, til klagenemnda dersom dette anses hensiktsmessig.
+Klagen skal fremsettes overfor Nasjonal kommunikasjonsmyndighet, jf. forvaltningsloven § 32. Nasjonal kommunikasjonsmyndighet skal foreta de undersøkelser klagen gir grunn til, jf. forvaltningsloven § 33. Dersom vilkårene for å behandle klagen ikke foreligger, skal klagen avvises. Dersom det ikke er grunn til å omgjøre vedtaket, skal klagesaken uten ugrunnet opphold oversendes departementet.
+Departementet skal avgjøre klagesaken så snart forsvarlig saksbehandling gjør det tilrådelig, jf. forvaltningsloven § 33.
+Forvaltningsloven § 34 tredje ledd andre punktum gjelder ikke for klager på vedtak fattet med hjemmel i eller i medhold av kapittel 6, 7 og 15. Melding om endring av vedtak til skade for klageren må være sendt klageren innen seks måneder etter at underinstansen mottok klagen.
+Bare departementet kan fatte avgjørelser etter forvaltningsloven § 42.
+Vedtak som departementet fatter som klageinstans, kan ikke påklages til Kongen med mindre annet følger av forvaltningsloven § 28 tredje ledd.
