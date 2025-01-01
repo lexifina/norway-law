@@ -1,0 +1,4 @@
+# § 11-4. Skjerming av etterretningsoperasjoner mv.
+Etterretningstjenesten kan for å skjerme sine operasjoner benytte dekkstrukturer og uriktige, falske eller villedende identiteter, dokumenter og opplysninger, samt ta kontroll over, modifisere eller utplassere elektronisk utstyr.
+Bestemmelser om opplysningsplikt i annen lov gjelder ikke for opplysninger om vederlag som Etterretningstjenesten yter til kilder og oppdragstakere som ikke er ansatt i tjenesten. Slike vederlag og betalinger skal ikke regnes som skattepliktig inntekt for mottakeren eller inngå i grunnlag for beregning eller avkortning av sosiale ytelser eller lignende.
+Kongen i statsråd kan gi bestemmelser som fraviker annen lov, blant annet krav om rapportering av informasjon til offentlige registre, i den utstrekning det er nødvendig for å skjerme Etterretningstjenestens ansatte, kilder, kapasiteter, metoder eller operasjoner mot offentlig eksponering eller kompromittering overfor andre stater.

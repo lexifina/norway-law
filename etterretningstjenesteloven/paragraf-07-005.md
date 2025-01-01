@@ -1,0 +1,6 @@
+# § 7-5. Testinnhenting og testanalyser
+Etterretningstjenesten kan gjennomføre testinnhenting og testanalyser av trafikk og nett som omfattes av dette kapittelet. Testinnhenting og testanalyser skal utelukkende brukes for å muliggjøre utvalg, filtrering, lagring, søk, reprosessering, forståelse av signalmiljø og gjenkjenning av tjenester og dataformater, samt annen teknisk understøttelse.
+Testinnhenting gjennomføres ved uttrekk av ufiltrert kommunikasjon fra én eller flere kommunikasjonsstrømmer. Ett uttrekk skal ikke overstige 30 sekunder. Det kan ikke gjøres mer enn ett uttrekk hver time.
+Uttrekkene skal lagres i et korttidslager som skal holdes adskilt fra data som lagres etter §§ 7-7 og 7-9.
+Uttrekkene skal ikke oppbevares lenger enn nødvendig, og de skal slettes senest etter 14 dager. Tekniske parametere og bearbeidede analyser av testdata som ikke kan knyttes til enkeltpersoner, kan oppbevares så lenge det er nødvendig for de formål som fremgår av første ledd andre punktum.
+Testinnhenting, testanalyser og annen teknisk understøttelse skal bare utføres av tekniske spesialister med særskilt opplæring og som ikke har etterretningsanalyse som oppgave. Det skal alltid være to spesialister til stede ved oppsett og analyse av uttrekk etter andre ledd.

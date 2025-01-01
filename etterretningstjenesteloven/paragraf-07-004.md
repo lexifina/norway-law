@@ -1,0 +1,3 @@
+# § 7-4. Taushetsplikt
+Den som er underlagt tilretteleggingsplikt etter § 7-2, plikter å bevare taushet om Etterretningstjenestens tilgang, tekniske og operasjonelle løsninger og andre forhold knyttet til tilretteleggingen. Taushetsplikten gjelder tilsvarende for enhver som utfører arbeid eller tjeneste for den som er underlagt tilretteleggingsplikt, eller som på annen måte bistår med tilrettelegging. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller tjenesten.
+Taushetsplikten er ikke til hinder for å gi opplysninger til EOS-utvalget eller Nasjonal kommunikasjonsmyndighet.

@@ -1,0 +1,4 @@
+# § 4-2. Fremmed statsaktivitet i Norge
+Etterretningstjenesten kan uten hinder av § 4-1 benytte innhentingsmetoder etter kapittel 6 overfor utenlandske og statsløse personer i Norge som opptrer på vegne av en fremmed stat eller statslignende aktør.
+Ved tvil om en person opptrer på vegne av en fremmed stat eller statslignende aktør, skal Etterretningstjenesten søke å avklare forholdet. For dette formålet skal det kun brukes informasjon fra norske myndigheter, utenlandske samarbeidspartnere, åpne kilder eller egen innhenting i utlandet.
+Når riket er i krig, krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen bestemme at Etterretningstjenesten uten hinder av § 4-1 kan innhente enhver opplysning som har betydning for Forsvarets evne til å håndtere fiendtlig militær aktivitet.
