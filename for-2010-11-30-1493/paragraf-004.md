@@ -1,0 +1,4 @@
+# § 4. Endringer i forventet arbeidsinntekt
+Ved økning i inntekt skal forventet arbeidsinntekt økes med et beløp svarende til inntektsøkningen i den resterende delen av kalenderåret multiplisert med 12 og dividert med det antall måneder i kalenderåret som eventuell omregning av AFP får virkning for. Ved reduksjon i inntekt legges til grunn ny forventet arbeidsinntekt på årsbasis.
+Dersom forventet arbeidsinntekt økes eller reduseres med mer enn toleransebeløpet, skal pensjonen regnes om. Selv om forventet inntekt økes eller reduseres med mindre enn toleransebeløpet, skal pensjonen likevel regnes om dersom endringen innebærer at forventet inntekt blir henholdsvis høyere eller lavere enn toleransebeløpet.
+Omregning som følge av endret forventet arbeidsinntekt gis bare virkning for framtidige kalendermåneder.
