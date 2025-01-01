@@ -1,0 +1,4 @@
+# § 2a. Forbud mot visse typer bistand
+Det er forbudt:
+a) direkte eller indirekte å yte faglig bistand knyttet til militære aktiviteter eller knyttet til levering, produksjon, vedlikehold og bruk av våpen og tilknyttet materiell av alle slag, herunder våpen og ammunisjon, militære kjøretøyer og militært og paramilitært utstyr, samt reservedeler til dette, til fysiske eller juridiske personer, enheter eller organer oppført på Sanksjonskomiteens liste.
+b) direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militære aktiviteter, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med ethvert salg, levering, overføring eller eksport av våpen og tilknyttet materiell, eller i forbindelse med yting av tilknyttet faglig bistand eller formidlingstjenester, til personer, enheter eller organer oppført på Sanksjonskomiteens liste.
