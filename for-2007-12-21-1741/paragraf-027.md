@@ -1,0 +1,3 @@
+# § 27. Egnethet
+Det skal finnes midler til å begrense virkningene av skråstilling, belastning og arbeidshastighet slik at maksimal verdi for maksimal tillatte målefeil ikke overskrides ved normal drift. Det skal finnes egnede anordninger for materialhåndtering og en hensiktsmessig nullstillingsfunksjon slik at den automatiske jernbanevekten kan overholde maksimal tillatte målefeil ved normal drift.
+Betjeningsanordningers grenseflater skal være tydelige og effektive. Operatøren skal kunne kontrollere at en eventuell indikator er pålitelig. Resultater som faller utenfor måleområdet, skal identifiseres som slike dersom det er mulig med utskrift
