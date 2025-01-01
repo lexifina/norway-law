@@ -1,0 +1,4 @@
+# § 17. Overgangsordninger
+Radioutstyr oppført som nytt punkt etter gjennomføringsforordning (EU) 2018/773 i kolonne 1 i vedlegg A, og som er i samsvar med de nasjonale kravene for typegodkjenning som gjaldt før 19. juni 2018, kan markedsføres og installeres eller plasseres om bord på skip fram til 19. juni 2021.
+Radioutstyr oppført som nytt punkt etter gjennomføringsforordning (EU) 2019/1397 i kolonne 1 i vedlegg A, og som er i samsvar med de nasjonale kravene for typegodkjenning som gjaldt før 3. oktober 2019, kan markedsføres og installeres eller plasseres om bord på skip fram til 3. oktober 2022.
+Radioutstyr oppført som nytt punkt etter gjennomføringsforordning (EU) 2020/1170 i kolonne 1 i vedlegg A, og som er i samsvar med de nasjonale kravene for typegodkjenning som gjaldt før 1. september 2020 i en medlemsstat, kan markedsføres og installeres eller plasseres om bord på skip fram til 1. september 2023.

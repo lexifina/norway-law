@@ -1,0 +1,8 @@
+# § 4. Produsent
+Produsent skal utarbeide teknisk dokumentasjon og få utført samsvarsvurdering etter § 7, sikre krav til merking etter § 10 og informasjon etter § 8.
+Der samsvarsvurderingen dokumenterer at maritimt radioutstyr oppfyller kravene, skal produsenten utstede samsvarserklæring etter § 9 og påføre rattmerke i samsvar med § 10.
+Ved påføring av rattmerket påtar produsent seg ansvaret for at maritimt radioutstyr er konstruert og fremstilt i overensstemmelse med de gjeldende tekniske spesifikasjoner som er listet i vedlegg A.
+I minst ti år, eller aldri kortere enn det maritime radioutstyrets forventede levetid, skal produsent oppbevare teknisk dokumentasjon og samsvarserklæring.
+Produsent skal ha prosedyrer for å sikre at maritimt radioutstyr ved serieproduksjon oppfyller kravene i forskriften. Det skal i tilstrekkelig grad tas hensyn til endringer i det maritime radioutstyrets design, konstruksjon og yteevne, og til endringer i de internasjonale krav i vedlegg A som det er erklært samsvar med. Om nødvendig skal det utføres ny samsvarsvurdering etter § 7.
+Der produsent finner ut eller har grunn til å tro at maritimt radioutstyr som er påført rattmerke ikke tilfredsstiller kravene i forskriften her, skal han straks treffe nødvendige tiltak for å bringe maritimt radioutstyr i samsvar med regelverket eller om nødvendig trekke det tilbake fra markedet eller kalle det tilbake fra sluttbruker.
+Dersom maritimt radioutstyr utgjør en risiko, skal produsenten straks melde fra til Nasjonal kommunikasjonsmyndighet og informere om den manglende overensstemmelsen med regelverket og de tiltak som er gjort for å bringe maritimt radioutstyr i samsvar med regelverket.
