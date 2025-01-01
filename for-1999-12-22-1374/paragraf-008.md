@@ -1,0 +1,2 @@
+# § 8. (unntak for ansvar for penger mv. som fryses i god tro)
+Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro om at tiltaket er i samsvar med denne forskrift, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble fryst eller ikke stilt til rådighet som følge av uaktsomhet.

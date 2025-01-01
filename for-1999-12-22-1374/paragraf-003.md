@@ -1,0 +1,5 @@
+# § 3. (finansielle sanksjoner mot listeførte personer og enheter)
+Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av en fysisk eller juridisk person, en enhet, et organ eller en gruppe oppført på Sanksjonskomiteens liste, skal fryses. Den som fryser penger eller formuesgoder i samsvar med bestemmelsen i første punktum, skal umiddelbart underrette Direktoratet for eksportkontroll og sanksjoner om dette.
+Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter, organer eller grupper som er oppført på Sanksjonskomiteens liste.
+Sanksjonskomiteens liste omfatter fysiske eller juridiske personer, enheter, organer og grupper som FNs sikkerhetsråd eller Sanksjonskomiteen har fastslått er tilknyttet Al Qaidas nettverk.
+Den som et vedtak om frys av penger og formuesgoder i medhold av denne paragraf retter seg mot, kan anmode om å bli fjernet fra listen i samsvar med sanksjonskomiteens prosedyrer.
