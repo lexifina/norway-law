@@ -1,0 +1,3 @@
+# § 16. Forbrukerklageutvalgets saksbehandling
+Forbrukerklageutvalget skal behandle klagen på grunnlag av partenes skriftlige fremstilling og det øvrige skriftlige materialet som er fremlagt. Forbrukerklageutvalget behandler sakene for lukkede dører, og partene har ikke møterett. Dersom Forbrukerklageutvalget finner at saken ikke er tilstrekkelig opplyst, kan utvalget be Forbrukertilsynet om å innhente ytterligere informasjon fra partene, jf. § 15 tredje ledd. Forbrukerklageutvalget er bundet av partenes krav, påstander og påstandsgrunnlag.
+Departementet kan i forskrift gi nærmere bestemmelser om Forbrukerklageutvalgets saksbehandling.
