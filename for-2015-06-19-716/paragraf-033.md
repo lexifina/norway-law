@@ -1,0 +1,5 @@
+# § 33. Forskriftens ikrafttreden
+(1) Denne forskriften trer i kraft 1. januar 2016.
+(2) Krav om melding etter § 8 for innførsel av organismer uten tillatelse etter § 7 første ledd bokstav c og d, trer i kraft fra den tid Klima- og miljødepartementet bestemmer.
+(3) For artene Populus ×berolinensis og Salix euxina, som er oppført i vedlegg I, trer forbudet mot innførsel, utsetting og omsetning etter § 5 og § 9 i kraft fra den tid Klima- og miljødepartementet bestemmer. Det kreves ikke tillatelse for utsetting av de nevnte artene i områder som angitt i § 11 første ledd bokstav c og d i overgangsperioden.
+(4) Kravet om tillatelse etter § 10 for utsetting av landlevende planter som ikke er fra norske bestander og som ikke er vitenskapelig risikovurderte i parkanlegg og andre dyrkete områder samt transport- og næringsutbyggingsområder, gis utsatt ikrafttreden hvis plantene i liten grad kan påregnes å spre seg utenfor området og spredningen ikke kan påregnes å medføre fare for uheldige følger for det biologiske mangfold. Kravet om tillatelse trer i kraft fra den tid Klima- og miljødepartementet bestemmer.
