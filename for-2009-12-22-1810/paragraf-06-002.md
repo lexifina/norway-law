@@ -1,0 +1,2 @@
+# § 6-2. Negative størrelser ved omregning etter folketrygdloven § 19-13
+Ved omregning av pensjon etter folketrygdloven § 19-13 vil tidligere beregninger av basispensjonstillegg, pensjonstillegg og restpensjonstillegg få betydning også om størrelsene har vært negative. Dersom basispensjonstillegg, pensjonstillegg eller restpensjonstillegg blir eller er negative ved beregning av pensjon etter folketrygdloven § 19-9, § 19-10, § 19-12, § 19-13 eller § 19-14, skal de negative størrelsene benyttes tilsvarende ved omregninger etter folketrygdloven § 19-13.

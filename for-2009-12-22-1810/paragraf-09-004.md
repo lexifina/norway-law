@@ -1,0 +1,3 @@
+# § 9-4. Beregning av garantitillegg
+Garantitillegget beregnes som differansen mellom pensjon beregnet etter § 9-2 og § 9-3 og det vedkommendes samlede pensjon ville utgjort etter folketrygdloven kapitlene 19 og 20 dersom uttak hadde skjedd ved 67 år. Vedkommendes pensjon beregnes på grunnlag av opptjening og trygdetid til og med kalenderåret for fylte 66 år.
+Ved beregning av garantitillegg til personer som ikke er medlem i folketrygden skal tillegget reduseres tilsvarende den prosentmessige reduksjonen i den samlede alderspensjonen etter kapitlene 19 og 20, jf. folketrygdloven § 19-3 og § 20-10.

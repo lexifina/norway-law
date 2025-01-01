@@ -1,0 +1,4 @@
+# § 6-10. Omregning av garantipensjon ved endring i sivilstand mv. etter uttak
+Ved endring i sivilstand mv. etter uttak av garantipensjon som medfører at satsen for garantipensjon etter folketrygdloven § 20-9 endres, skal garantipensjon under utbetaling og beholdning av garantipensjon omregnes.
+Garantipensjon under utbetaling omregnes ved å summere garantipensjonen med 80 prosent av inntektspensjonen og multiplisere med forholdet mellom satsen for garantipensjon personen hadde rett til etter og før endringen. Omregnet garantipensjon avkortes deretter med 80 prosent av inntektspensjonen.
+Beholdningen av garantipensjon omregnes ved å summere beholdningen av garantipensjon med 80 prosent av pensjonsbeholdningen og multiplisere med forholdet mellom satsen for garantipensjon personen hadde rett til etter og før endringen. Omregnet garantipensjonsbeholdning avkortes deretter med 80 prosent av pensjonsbeholdningen.

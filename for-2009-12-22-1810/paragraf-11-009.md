@@ -1,0 +1,3 @@
+# § 11-9. Omregning av pensjon pr. 1. september 2016 for personer født til og med 1942
+For personer født til og med 1942 skal pensjonen omregnes pr. 1. september 2016, på grunnlag av at full grunnpensjon til ektefeller og samboere etter folketrygdloven § 3-2 fjerde ledd og femte ledd andre punktum skal utgjøre 90 prosent av grunnbeløpet fra dette tidspunktet.
+Omregningen etter første ledd foretas ved at ny grunnpensjon under utbetaling beregnes ved å multiplisere grunnpensjon etter folketrygdloven kapittel 3 pr. 1. september 2016, med forholdet mellom grunnpensjon under utbetaling og grunnpensjon etter folketrygdloven kapittel 3 før endringen i folketrygdloven § 3-2 fjerde ledd og femte ledd andre punktum fra 1. september 2016.

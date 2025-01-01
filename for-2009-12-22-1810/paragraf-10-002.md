@@ -1,0 +1,2 @@
+# § 10-2. Pensjonsopptjening for omsorgsarbeid
+Dersom poengtallet etter folketrygdloven § 3-16 er redusert etter folketrygdloven § 3-16 tredje ledd, eller det hadde vært grunnlag for slik reduksjon når det gis pensjonsopptjening på grunnlag av omsorgsarbeid som nevnt i folketrygdloven § 3-16 første ledd bokstav a før 1992, skal en tilsvarende reduksjon gjøres i pensjonsbeløpet før det tilføres pensjonsbeholdningen.

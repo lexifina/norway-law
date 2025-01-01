@@ -1,0 +1,5 @@
+# § 2-3. Pensjonsopptjening for førstegangstjeneste
+Ordningen skal omfatte kvinner som avtjener førstegangtjeneste, selv om tjenesten er frivillig. Frivillig tjeneste som utføres etter fullført pliktig førstegangstjeneste – eventuelt tilsvarende slik frivillig tjeneste for kvinner – gir ikke pensjonsopptjening. Pensjonsopptjening for førstegangstjeneste gis automatisk basert på godskrevet førstegangstjeneste i Vernepliktsverket og Siviltjenesten.
+Det første året på befalsskolen regnes som førstegangstjeneste.
+Når førstegangstjenesten inngår i 3-årig teknisk utdanning, godskriver Vernepliktsverket fire måneder førstegangstjeneste for hvert av de tre årene under utdanning. Det kreves seks måneders sammenhengende tjeneste før det gis pensjonsopptjening for førstegangstjeneste, jf. folketrygdloven § 20-6 første ledd. Med en årlig godskriving tilsvarende fire måneder, må teknisk førstegangstjeneste utføres over en sammenhengende periode på minimum ett år og seks måneder for at førstegangstjeneste skal gi pensjonsopptjening.
+Ved overføringer fra Vernepliktsverket til utenlandstjeneste skal samlet tjenestetid godskrives i inntil ett år.
