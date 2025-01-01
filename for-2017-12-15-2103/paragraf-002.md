@@ -1,0 +1,8 @@
+# § 2. Innarbeiding av forordning (EU) 2017/2063
+(1) Forordning (EU) 2017/2063 om restriktive tiltak i lys av situasjonen i Venezuela gjelder som forskrift i sin vedlagte form og med de tilpasninger som følger av denne bestemmelsen.
+(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge». Unntak gjelder for «EUs felles liste over militært materiell» som skal forstås som henvisninger til «Liste I – forsvarsrelaterte varer» i vedlegg I i forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.).
+(3) Henvisningene til medlemsstatenes kompetente myndigheter, i enkelte tilfelle med referanser til vedlegg III, skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+(4) Henvisningene til virkeområdet i artikkel 20 skal forstås som «forskriftens virkeområde slik dette er fastlagt i § 1».
+(5) Det er forbudt å transportere varer og teknologi oppført i vedlegg I til forskrift om eksport av forsvarsmateriell mv. til Venezuela om bord i fartøyer eller luftfartøyer som fører norsk flagg, enten det har sin opprinnelse på norsk territorium eller ikke.
+(6) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også Artikkel 16 til 21 EU-interne og kommer ikke til anvendelse. Tilsvarende gjelder Artikkel 8 nr. 5 og 6 og forordningens vedlegg III.
+(7) Listen i vedlegg IV til forordningen er erstattet med en egen nasjonal liste over fysiske og juridiske personer, enheter og organer underlagt restriktive tiltak.
