@@ -1,0 +1,2 @@
+# § 23. Forskrift om pengespillene som tilbys av andre enn enerettstilbyderne
+Departementet kan gi forskrift om vilkår for gjennomføringen av pengespillene som tilbys etter dette kapitlet, hvilke typer pengespill, hvilken omsetning og hvilke premier som er tillatt, hvordan betaling og trekning skal gjennomføres, krav til medhjelpere, lokaler og lokalinnehavere, krav om politiattest, regnskaps- og revisjonsplikt og regnskapsrapportering.
