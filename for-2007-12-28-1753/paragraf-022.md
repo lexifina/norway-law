@@ -1,0 +1,4 @@
+# § 22. Visning av resultat
+Resultatet skal vises på et display eller som papirutskrift. Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.
+Alle resultater skal være tydelige og utvetydige og ledsages av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises, skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måletekniske kontrollerte resultatene.
+Uansett om en elektrisitetsmåler som er beregnet på forsyningsmåling kan fjernavleses eller ikke, skal den være utstyrt med et metrologisk kontrollert display eller en visning som sluttbrukeren kan avlese uten bruk av hjelpemidler. Det som avleses på displayet eller visningen, er måleresultatet som danner grunnlaget for prisen som skal betales.

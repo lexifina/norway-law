@@ -1,0 +1,2 @@
+# § 52. Utskifting av elektrisitetsmålere som ikke oppfyller kravene ved statistisk kontroll
+Dersom elektrisitetsmålere i den statistiske kontrollen ikke oppfyller kravene, skal samtlige målere i gruppen byttes ut innen ett år. Enkeltmålere som har blitt testet og som oppfyller kravene i kapittel 3, trenger likevel ikke tas ut av bruk. Derimot skal den enkelte måler som ikke oppfyller kravene tas ut av bruk, selv om den statistiske kontrollen medfører at gruppen som sådan blir godkjent.
