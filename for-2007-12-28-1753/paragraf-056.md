@@ -1,0 +1,2 @@
+# § 56. Rapportering til Justervesenet
+På Justervesenets forespørsel skal brukere og andre som er involvert i å gjennomføre kontrollen i henhold til kapittel 4, rapportere om dette til Justervesenet. Det skal rapporteres om kontrollen som er gjennomført, resultatene av kontrollen og de beslutninger som er tatt som følge av kontrollen. Opplysningene skal gis i det nødvendige omfanget som blir etterspurt for å dokumentere at forskriften er etterlevd, og i et standard digitalt format.

@@ -1,0 +1,4 @@
+# § 29. Tillatt påvirkning av forstyrrelser
+Siden elektrisitetsmålere er direkte koplet til hovednettforsyning, og siden nettstrømmen også er en av målestørrelsene, anvendes et spesielt elektromagnetisk miljø for elektrisitetsmålere. Måleren skal være i samsvar med det elektromagnetiske miljøet E2 og tilleggskravene i § 30 og § 31.
+Det elektromagnetiske miljøet og tillatte påvirkninger gjenspeiler situasjonen der det er forstyrrelser av lang varighet som ikke skal påvirke nøyaktigheten utover de kritiske endringene og transiente forstyrrelsene, som kan forårsake midlertidig reduksjon eller tap av funksjon eller ytelse, men som måleren skal vende tilbake fra, og som ikke skal påvirke nøyaktigheten utover de kritiske endringene.
+Dersom det er en forutsigbar høy risiko på grunn av lyn, eller dersom forsyningen overveiende skjer via luftledninger, skal målerens måleegenskaper beskyttes.
