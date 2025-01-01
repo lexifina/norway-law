@@ -1,0 +1,2 @@
+# § 10. Uttak av myr
+Når nokon tek ut myr til torvprodukt eller anna teknisk føremål, skal det alltid liggja att eit forsvarleg torv- eller jordlag. Myrareala skal setjast i stand att ut frå omsynet til etterbruken av arealet til landbruksføremål og naturvern. Dersom ein bruksrettshavar til torvuttak meiner føresegnene fører med seg at retten hans vert minka urimeleg mykje, kan han leggje spørsmålet om endring i brukstilhøva fram for jordskifteretten, jf. jordskiftelova § 3-8.
