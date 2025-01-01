@@ -1,0 +1,3 @@
+# § 3. Tilsyn med uskiftebo der arving har verge
+Statsforvalteren skal vurdere om det skal oppnevnes en midlertidig verge (setteverge) etter vergemålsloven § 34, jf. arveloven § 96 fjerde ledd annet punktum, når det er arvinger til uskifteboet som har verge, også når gjenlevende ektefelle eller samboer er vergen til arvingene. Statsforvalteren skal orientere den midlertidige vergen og gjenlevende ektefelle om bestemmelsene i arveloven som er av betydning for retten til å sitte i uskiftet bo.
+Statsforvalteren skal i den utstrekning det er nødvendig gjennomgå med verge bo som en gjenlevende ektefelle har overtatt uskiftet. Gjenlevende ektefelle plikter å gi de opplysningene som trengs for å kontrollere forvaltningen av boet.

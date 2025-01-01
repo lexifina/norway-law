@@ -1,0 +1,2 @@
+# § 6. Systemer for internkontroll
+Vergemålsmyndigheten skal etablere systemer og rutiner som sikrer at eiendelene som forvaltes etter vergemålsloven, forvaltes på en forsvarlig måte og i samsvar med de bestemmelser, reglement og instrukser som gjelder på området slik at eventuelle økonomiske misligheter forebygges og avdekkes. De nærmere rammene for internkontrollen følger av instruksen etter § 9.

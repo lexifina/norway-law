@@ -1,0 +1,2 @@
+# § 38. Godtgjøring og utgifter
+Om vergen eller hjelpevergen har krav på godtgjøring eller dekning av utgifter for oppdraget frem til lov 26. mars 2010 nr. 9 om vergemål er trådt i kraft, kan overformynderiet fastsette en frist for når dette kravet må være fremmet. Overformynderiet tar stilling til kravet og sørger for utbetaling. Der overformynderiet har vedtatt at beløpet skal dekkes av klientens midler, sørger vergen for utbetalingen og oppbevarer vedtaket som bilag.

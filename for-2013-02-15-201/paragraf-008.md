@@ -1,0 +1,4 @@
+# § 8. Revisjon
+Den sentrale vergemålsmyndigheten velger revisor. Revisor skal påse at statsforvalterens internrevisjon og kontroll av vergenes rapporter og eventuelle regnskap, jf. § 21, er i samsvar med reglene i § 6 og § 7 og instruks etter § 9. Forvaltningslovens regler om taushetsplikt skal gjelde tilsvarende for revisor. Revisor kan kreve innsyn i alle opplysninger som er nødvendig for å utføre oppdraget.
+Revisors uttalelser om statsforvalterens kontroll, internkontroll og eventuelle andre uttalelser skal sendes den sentrale vergemålsmyndigheten innen 15. november hvert år.
+Uttalelsene skal redegjøre for om kontrollen er beheftet med vesentlige feil eller svakheter. Kopi sendes statsforvalteren. Den sentrale vergemålsmyndigheten godkjenner uttalelsene og iverksetter så snart som mulig nødvendige tiltak for å følge opp uttalelsene.

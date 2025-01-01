@@ -1,0 +1,4 @@
+# § 2. Statsforvalterens tilsyn med vergene
+Statsforvalteren skal føre tilsyn med at de oppnevnte vergene utfører vergeoppdraget i samsvar med lov, forskrift og vedtak.
+Som ledd i tilsynet skal statsforvalteren gi veiledning og bistand og gjennom dette løpende følge med på vergens utførelse av vergeoppdraget, samt kontrollere vergeregnskapet, jf. kapittel 2, og årsrapport utarbeidet av fast verge.
+Dersom statsforvalteren finner grunn til det, skal statsforvalteren foreta nærmere undersøkelser av hvordan vergen utfører oppdraget. Ved behov skal statsforvalteren finne egnede tiltak for å sikre at vergeoppdraget løses i henhold til lov, forskrift og vedtak, herunder sørge for ytterligere veiledning og bistand, vurdere vergeoppdragets omfang på nytt og foreta en fornyet vurdering av vergens egnethet.

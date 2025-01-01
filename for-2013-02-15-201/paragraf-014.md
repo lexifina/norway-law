@@ -1,0 +1,2 @@
+# § 14. Vilkår for lån fra midler som tilhører person som har verge
+Statsforvalteren kan i særlige tilfeller samtykke til å låne ut midler som tilhører den som har verge etter reglene i vergemålsloven § 39 første ledd bokstav j. Statsforvalteren kan bare samtykke til slike lån om det stilles betryggende sikkerhet for kravet. Om det stilles sikkerhet i fast eiendom, skal det utstedes en pantobligasjon som tinglyses på eiendommen og overleveres statsforvalteren for sikker oppbevaring. Den sentrale vergemålsmyndigheten fastsetter instruks om nærmere grenser for utlånsadgangen.

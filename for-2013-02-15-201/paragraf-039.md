@@ -1,0 +1,4 @@
+# § 39. Avvikling av fellesmassene
+Dersom forvaltningen i fellesmasse etter lov 22. april 1927 nr. 3 om vergemål for umyndige § 69 ikke er avviklet ved ikrafttredelsen av lov 26. mars 2010 nr. 9 om vergemål, kan den sentrale vergemålsmyndigheten overta forvaltningen av fellesmassene med sikte på avvikling. Den sentrale vergemålsmyndigheten kan avtale med den enkelte kommune at kommunen skal beholde forvaltningsansvaret i en avgrenset avviklingsperiode. Det organ som er ansvarlig for forvaltningen frem til avvikling, kan kreve en forvaltningsavgift på seks prosent av midlenes avkastning i regnskapsåret.
+I avviklingsperioden skal midlene i fellesmassene plasseres i tråd med reglene i forskrift 8. februar 2000 nr. 119 om plassering av umyndiges midler.
+Når fellesmassen er avviklet, skal midlene plasseres som bankinnskudd på individuelle konti i bank i samsvar med vergemålsloven § 51 første ledd.

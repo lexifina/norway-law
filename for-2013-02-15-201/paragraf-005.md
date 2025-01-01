@@ -1,0 +1,4 @@
+# § 5. Den sentrale vergemålsmyndighetens oppgaver
+Statens sivilrettsforvaltning har oppgaven som sentral vergemålsmyndighet.
+Den sentrale vergemålsmyndigheten skal behandle klager over statsforvalterens vedtak etter vergemålsloven.
+Den sentrale vergemålsmyndigheten skal videre drive opplæring og føre tilsyn med statsforvalterens oppgaver etter vergemålsloven. Tilsynet skal særlig rettes inn mot en kontroll av at oppgavene utføres i samsvar med lov og forskrift, og at det sikres enhetlig praksis som skaper rettssikkerhet og rettslikhet. Den sentrale vergemålsmyndigheten skal føre tilsyn med at det er etablert systemer og rutiner som sikrer at de eiendelene som forvaltes av statsforvalteren etter vergemålsloven, forvaltes på en forsvarlig måte, og at eventuelle økonomiske misligheter forebygges og avdekkes.

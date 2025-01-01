@@ -1,0 +1,4 @@
+# § 28. Melding fra skattemyndighetene om mindreåriges formue
+Skattemyndighetene skal gi den sentrale vergemålsmyndigheten melding om de personene som fyller 17 år eller mindre i det året meldingen gis, og som har finansielle eiendeler som skattemyndighetene har innhentet opplysninger om fra tredjepart. Slik melding skal likevel bare gis dersom verdien av de finansielle eiendelene samlet overstiger den grensen som følger av § 26, jf. vergemålsloven § 49 første ledd første punktum.
+Meldingen gis innen 1. juni hvert år til den sentrale vergemålsmyndigheten.
+Meldingen skal inneholde opplysninger om personenes navn, adresse, fødselsnummer og en oversikt over de finansielle eiendelene nevnt i første ledd, samt hvor midlene er plassert. Opplysningene kan brukes som grunnlag i statsforvalterens saksbehandling etter vergemålsloven.
