@@ -1,0 +1,2 @@
+# § 11. Ny innlevering
+En doktorgradsavhandling som ikke er blitt godkjent ved en tidligere bedømmelse, kan bedømmes i ny utgave, enten som eneste arbeid eller som ett av flere sammenhengende arbeider, først seks måneder etter at fakultetet har fattet vedtak om å underkjenne avhandlingen. Ny bedømmelse kan bare finne sted én gang. Fakultetets behandling av bedømmelseskomiteens innstilling skjer i henhold til § 10.

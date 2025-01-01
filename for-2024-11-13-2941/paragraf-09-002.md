@@ -1,0 +1,4 @@
+# § 9-2. Komiteens innstilling
+(1) Innen tre måneder fra mottak av avhandlingen leverer bedømmelseskomiteen en innstilling, eventuelt vedlagt individuelle uttalelser, om hvorvidt arbeidet er verdig til å forsvares for doktorgraden. Innstillingen og eventuelle dissenser skal begrunnes.
+(2) Bedømmelseskomiteens innstilling med eventuelle dissenser og individuelle uttalelser stiles til fakultetet som formidler den til kandidaten, med en frist på 10 arbeidsdager til å fremme skriftlige merknader til innstillingen. Hvis kandidaten ikke ønsker å fremme merknader, skal kandidaten snarest underrette fakultetet skriftlig om dette. Kandidatens eventuelle merknader skal sendes fakultetet. Fakultetet fatter vedtak i saken (jf. § 10).
+(3) Dersom kandidatens merknader kan ha betydning for spørsmålet om avhandlingen kan godkjennes, bør merknadene forelegges bedømmelseskomiteen før fakultetet fatter realitetsvedtak i saken.
