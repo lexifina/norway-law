@@ -1,0 +1,4 @@
+# § 5. Skogregistrering og skogbruksplan
+Skogbruksplanlegginga omfattar skogregistreringar som gir oversikt over skog- og miljøressursane på eigedommen og ein plan for forvaltninga av desse.
+Skogregistreringar kan gjennomførast i eit område jamvel om ikkje alle skogeigarane har tinga skogbruksplan. Alle skogeigarar skal ha melding om at registreringa blir gjort. Oversikter over miljøverdiane som kjem fram gjennom skogbruksplanlegginga skal vere offentleg tilgjengelege, jf. lov 9. mai 2003 nr. 31 om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet.
+Kommunen kan gi skogeigaren pålegg om gjennomføring av skogregistreringar og utarbeiding av ressursoversikt eller skogbruksplan. Departementet kan gi forskrift om skogregistrering og skogbruksplanlegging med mellom anna krav til innhaldet i planen og reglar om korleis data som blir samla inn skal forvaltast.

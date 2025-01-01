@@ -1,0 +1,4 @@
+# § 11. Meldeplikt
+Når det er nødvendig for å halde kontroll med at lova blir følgt, kan kommunen eller anna skogbruksstyresmakt gjere vedtak om at skogeigarar skal ha plikt til å melde inn planar om hogst og tiltak knytt til forynging og stell av skog. Denne meldeplikta kan gjelde ein eller fleire skogeigarar i heile eller delar av kommunen.
+Meldinga skal vere skriftleg og gi opplysningar om dei planane eigaren har for hogst eller tiltak. Meldinga skal sendast til kommunen seinast 3 veker før hogsten eller tiltaket skal setjast i verk.
+Har kommunen ikkje gitt svar på meldinga innan 3 veker frå den dagen da meldinga kom fram til kommunen, eller gjort vedtak med heimel i §§ 6 tredje ledd, 8 andre ledd eller forskrift i medhald av §§ 4 eller 7, kan det meldte tiltaket setjast i verk i samsvar med dei reglane som gjeld etter lova. Om kommunen treng meir tid for å ta stilling til tiltaket, kan fristen forlengjast med inntil 14 dagar. Tillatelsen gjeld for 10 år.
