@@ -1,0 +1,4 @@
+# § 7. Taushetsplikt og personvern mv.
+Forvaltningslovens bestemmelser om taushetsplikt er ikke til hinder for utveksling av informasjon med myndigheter i andre EØS-stater i samsvar med tjenesteloven og forskriften, jf. forvaltningsloven § 13b første ledd nr. 8.
+Innhenting og behandling av informasjon som kan bli eller er utvekslet med myndigheter i andre EØS-stater, skal skje i samsvar med personopplysningsloven og tilhørende forskrifter.
+Når ansvarlig myndighet gir opplysninger i samsvar med tjenesteloven § 25 annet ledd bokstav c, skal ansvarlig myndighet også opplyse om hvilke bestemmelser i lov eller forskrift tjenesteyteren er dømt eller sanksjonert etter. Ved opplysning om avgjørelser om konkurskarantene skal ansvarlig myndighet opplyse om avgjørelsen er påanket, og i tilfelle når anken forventes avgjort.
