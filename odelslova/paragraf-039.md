@@ -1,0 +1,3 @@
+# § 39. Bu- og driveplikt for attlevande
+For at attlevande skal ha vern som nemnt i §§ 34 til 36, må han seinast frå eitt år etter at han blei eigar, bu på eigedomen og bruke han som sin reelle bustad, jf. konsesjonslova § 6, og drive eigedomen i samsvar med jordlova § 8. Den styresmakta som kan gi konsesjon etter konsesjonslova, kan gi dispensasjon frå buplikta etter første punktum. Den styresmakta som kan gi fritak frå driveplikt etter jordlova § 8 a, kan gi dispensasjon frå driveplikta.
+Bruksretten fell bort om attlevande varig flytter frå eigedomen eller om eigedomen ikkje blir driven på forsvarleg måte.

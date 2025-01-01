@@ -1,0 +1,3 @@
+# § 30. Når stat eller kommune har tatt over odelsjord
+Dersom staten eller ein kommune har tatt over eller vil ta over odelsjord, og særlege grunnar taler for at odelsrett ikkje bør vere til hinder, kan Kongen ta avgjerd om odelsfrigjering.
+Det kan setjast som vilkår at jorda innan ein nærare fastsett frist blir tatt i bruk til det påtenkte føremålet, eller at førebuande arbeid med sikte på dette blir sett i verk innan ei viss tid. Går den fastsette fristen ut utan at vilkåra er oppfylte, kan jorda løysast på odel, og vanleg foreldingsfrist, jfr. § 40, går frå dette tidspunktet. I dette tilfelle blir også dei som er fødde etter at jorda gjekk ut av slekta rekna for å ha odelsrett, så framt dei etter reglane i §§ 8 og 9 elles ville hatt det.

@@ -1,0 +1,6 @@
+# § 57. Etteroppgjer
+Dersom nokon som har overtatt jord på skifte i medhald av åsetes- eller odelsrett eller ved odelsløysing, innan 10 år avhendar jorda med ein monaleg vinst, skal det skje eit etteroppgjer dersom dette blir kravt av nokon medarving eller av saksøkte i løysingssaka. Saksøkte i løysingssaka må vere syskenbarnet til saksøkjaren eller i nærare slektskap.
+Det skal også skje eit etteroppgjer i samsvar med reglane i første stykket der jord er overført til ein etterkomar av eigaren etter åsetesliknande prinsipp. Det same gjeld der nokon har overtatt jord ved friviljug avhending dersom det må reknast med at det elles ville ha blitt odelsløysing.
+Krav om slikt etteroppgjer må setjast fram innan 6 månader etter tinglysinga av heimelsdokumentet. Summen som avhendaren skal greie ut, blir i mangel av semje å fastsetje ved skjøn.
+Desse reglane gjeld òg når deler av eigedomen blir avhenda til prisar som ligg monaleg over det ein må gå ut frå at dei blir rekna til ved åsetestaksten eller ved odelsløysinga.
+Oreigning av ein eigedom eller delar av den blir i høve til reglane i denne paragrafen rekna likt med avhending. Det same gjeld feste eller grunnleige når feste- eller leigetida er minst 20 år, eller festaren eller leigaren, når tida er ute, har rett til fornying slik at tida samanlagt blir minst 20 år.

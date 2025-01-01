@@ -1,0 +1,2 @@
+# § 75. Saksøkjaren sitt tap av odelsrett
+Dersom saksøkjaren ikkje gjennomfører odelsløysinga eller stiller pålagt trygd for løysingssummen til den tid som er fastsett i fråviksorskurd eller rettskraftig dom, misser han odelsretten til eigedomen. Dette gjeld likevel ikkje når løysing blir gjennomført på eit seinare tidspunkt enn det retten har fastsett eller trygd ikkje vert stilt som pålagt av retten og dette har grunnlag i avtale mellom partane.

@@ -1,0 +1,3 @@
+# § 73. Eigedomsretten sin overgang, vågnaden for hende på eigedomen og tilleggstakst
+Eigedomsretten går over til saksøkjaren når han har fått skøyte. Frå same tidspunktet har, saksøkjaren vågnaden for tilfeldige hende på eigedomen, med mindre retten har fastsett noko anna i medhald av § 70 andre stykket.
+Hevdar ein part at det etter odelstaksten, men før skøytinga til saksøkjaren, har skjedd noko som bør føre til endring av taksten, kan retten ta avgjerd om tilleggstakst, når ein må rekne med at denne vil gi ei monaleg endring i høve til den første taksten. Tilleggstaksten skal berre avgjere dei endringane i takstsummen som dei nye tilhøva bør føre til, og skal ikkje overprøve vurderingane i den opphavlege taksten på andre punkt.

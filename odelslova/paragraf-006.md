@@ -1,0 +1,2 @@
+# § 6. Skjønn for å avgjere om ein eigedom er odlingsjord
+Når det kan vere tvil om ein eigedom er odlingsjord, kan den som har rettsleg interesse i det, få avgjort spørsmålet etter reglane om skjønn, jf. lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker kapittel 1. Innkalling til skjønnet kan skje i samsvar med reglane i lov 18. desember 1959 nr. 1 om mortifikasjon av skuldbrev mv. § 7 andre ledd.

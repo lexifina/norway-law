@@ -1,0 +1,2 @@
+# § 24. Løysingsrett til særskilt skyldsett småbruk
+Eit særskilt skyldsett småbruk, som med samtykkje frå landbruksmyndigheita er skilt ut frå eit større bruk og som det er bygt hus på, kan ikkje løysast med heimel i odelsrett til hovudbruket. Ny odel til småbruket kan vinnast når vilkåra for odling ligg føre. Blir småbruket fråskilt til nokon som frå før har odelsrett til hovudbruket, blir odelsretten for overtakaren og hans line ståande ved lag.

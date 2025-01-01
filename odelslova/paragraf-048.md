@@ -1,0 +1,3 @@
+# § 48. Vernetilfella
+Så lenge ein attlevande ektemake eller sambuar sit med ein eigedom med vern mot odelsløysing i medhald av §§ 34 til 36, jf. § 39, går det ingen foreldingsfrist for odelsrett til eigedomen. Dette gjeld og om odelsrettshavarane let den attlevande ektemaken eller sambuaren sitje med eigedomen ut over den tid som er fastsett i §§ 34 til 36.
+Det går heller ingen foreldingsfrist der odelsrettshavarar ikkje kan krevje å få overta eigedomen på grunn av føresegnene i § 19 andre stykket. Dette gjeld òg der odelsrettshavarar let mora eller faren sitje med eigedomen ut over den tid som er fastsett i § 19 andre stykket.

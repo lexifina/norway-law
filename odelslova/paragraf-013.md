@@ -1,0 +1,4 @@
+# § 13. Ektemakar og sambuarar sin prioritet når dei samodlar
+Når jord er odla av ektemakar eller sambuarar i ekteskapsliknande forhold etter § 15 tredje eller fjerde stykket, får dei lik odelsprioritet. Har dei barn saman, får desse betre odelsrett enn særkullsbarn som den eine eller begge måtte ha. Mellom særkullsbarna går odelen etter § 12.
+Ved skifte av felleseige mellom ektemakar får den av dei som samodla jord blir utlagd til prioritet framfor den andre. Har dei ikkje fellesbarn, men kvar av dei har særkullsbarn, får barna til den av ektemakane som får jorda utlagt, betre odelsrett enn barna til den andre. Har denne ektemaken og etterkomarane hans ått jorda i 20 år, fell odelen i den andre lina bort.
+Andre stykket gjeld tilsvarande når jord samodla etter § 15 fjerde stykket blir tatt over av ein av sambuarane.
