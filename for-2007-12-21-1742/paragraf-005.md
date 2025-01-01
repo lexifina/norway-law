@@ -1,0 +1,3 @@
+# § 5. Tilsynet med en catchvekt som brukes
+Testing av catchvekter i forbindelse med kontrollen skal utføres i henhold til relevante deler av gjeldende OIML R51 og Justervesenets prosedyrer, med mindre Justervesenet anser det mer hensiktsmessig og måleteknisk forsvarlig å utføre testingen på annen måte.
+Catchvekten skal normalt testes med de produktene den vanligvis benyttes til å veie og under normale driftsbetingelser. Under testingen må det være tilgjengelig tilstrekkelig mengde av testproduktene, håndteringsutstyr, kvalifisert personell og nødvendig kontrollinstrument i nærheten av vekten.
