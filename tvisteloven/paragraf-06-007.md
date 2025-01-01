@@ -1,10 +1,10 @@
 # § 6-7. Prosessfullmektiger og medhjelpere
 (1) Som prosessfullmektig for forliksrådet kan partene bruke
 a) advokat og autorisert advokatfullmektig,
-b) rettshjelper etter domstolloven § 218 annet ledd nr. 1 til 3,
+b) jurist,
 c) inkassobevillingshaver med inkassooppdrag for saken,
 d) ektefelle eller samboer, slektning i rett opp- eller nedstigende linje eller søsken,
-e) ansatt eller annen person med tilknytning til næringsvirksomhet saken gjelder, eller
+e) ansatt eller annen person med tilknytning til næringsvirksomhet saken gjelder,
 f) en skikket myndig person etter tillatelse fra forliksrådet i den enkelte sak.
 (2) Som prosessfullmektig under møte kan partene dessuten bruke
 a) myndig person som er ansatt hos og står under faglig ledelse av en prosessfullmektig etter første ledd bokstav a til c, eller
