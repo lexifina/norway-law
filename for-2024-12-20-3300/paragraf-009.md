@@ -1,0 +1,7 @@
+# § 9. Gjennomføring av intervjuer
+Partene skal bidra til å klargjøre og dokumentere sin identitet før et intervju. Partene skal intervjues hver for seg.
+Den som skal gjennomføre intervjuet, skal vurdere om det er behov for å benytte tolk i samsvar med tolkeloven.
+Intervjuet skal gjennomføres i en offentlig myndighets lokaler eller et annet lokale godkjent av Statsforvalteren eller Utenriksdepartementet og nedtegnes i et referat. Parten og intervjueren skal være til stede sammen.
+Intervjuet kan likevel gjennomføres elektronisk ved videokonferanse eller tilsvarende dersom store geografiske avstander eller andre særlige grunner tilsier det. I slike tilfeller skal det gjøres opptak, og parten skal informeres om at det gjøres opptak.
+Partene skal gis nødvendig informasjon om vilkårene for og rettsvirkningene av at ekteskapet anerkjennes og om konsekvensene av at ekteskapet ikke anerkjennes. De skal informeres om at opplysninger som gis, kan deles med utlendingsmyndighetene i forbindelse med pågående eller etterfølgende saker om familieinnvandring.
+Statsforvalteren kan bruke eksterne tjenesteytere til å legge til rette for gjennomføringen av elektronisk intervju når en part befinner seg i utlandet, der det er inngått avtale om dette etter utlendingsforskriften § 10-2 fjerde ledd. Første til femte ledd gjelder tilsvarende for slike tjenesteytere. Eksterne tjenesteytere kan kreve servicehonorar.
