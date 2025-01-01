@@ -1,0 +1,4 @@
+# § 5. Informasjon om tilsynsrådet
+Alle domfelte og innsatte skal jevnlig gis oppdatert informasjon om tilsynsrådet og rådets kontaktopplysninger. Slik informasjon skal alltid gis ved innsettelse eller oppstart av straffegjennomføring. Skriftlig informasjon skal også være lett tilgjengelig i kriminalomsorgens lokaler og for innsatte i boenheter i alle institusjoner som kriminalomsorgen har helt eller delvis ansvaret for.
+Kriminalomsorgen skal informere alle domfelte og innsatte om varslede tilsynsbesøk. Uvarslede tilsynsbesøk skal varsles når kriminalomsorgen får kunnskap om tilsynet.
+Informasjon etter første og annet ledd skal gis på et språk som den enkelte domfelte og innsatte forstår. For tilsynsrådets og kriminalomsorgens ansvar for å bruke tolk vises det til lov 11. juni 2021 nr. 79 (tolkeloven) § 6.
