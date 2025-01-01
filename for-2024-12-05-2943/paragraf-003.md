@@ -1,0 +1,4 @@
+# § 3. Prøvetaking og rapportering
+Fartøy som deltar i høsting av rødåte skal følge den til enhver tid gjeldende protokoll for prøvetaking av innblanding av fiskelarver og fiskeyngel under rødåtehøsting som er fastlagt av Havforskningsinstituttet. Havforskningsinstituttets kostnader med å analysere prøvene tilfaller rederiet.
+Fartøy som deltar i høsting av rødåte kan pålegges krav om rapportering fra høstingen, ut over det som fremgår av fangstdagbok og sluttsedler, eller følger av prosedyrer for prøvetaking, dersom Havforskningsinstituttet eller Fiskeridirektoratet har behov for ytterligere data.
+Eier av fartøy som deltar skal innen utgangen av hvert år sende en rapport til Fiskeridirektoratet om hva fartøyet og eier har gjort for å bidra til kunnskapsutvikling om høsting av rødåte når det gjelder utvikling av redskap, prosessering og konservering av fangst.
