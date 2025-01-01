@@ -1,0 +1,5 @@
+# § 13. Arbeidsfri og pauser
+Arbeidstiden må ordnes slik at arbeidstaker får en arbeidsfri periode på minst 11 sammenhengende timer i løpet av 24 timer og minst 35 sammenhengende timer i løpet av 7 dager.
+Friperioden skal, så vidt mulig, omfatte søndag.
+Arbeidstaker skal ha minst en pause dersom den daglige arbeidstiden overstiger fem og en halv time. Pausene skal til sammen være minst en halv time hvis den daglige arbeidstid er minst åtte timer. Dersom arbeidstaker ikke fritt kan forlate arbeidsplassen under pausen eller der det ikke finnes tilfredsstillende pauserom, skal pausen regnes som en del av arbeidstiden. Når forholdene gjør det nødvendig, kan pausen forskyves.
+Når arbeidstaker arbeider mer enn to timer etter at den alminnelige arbeidstid er avviklet, skal arbeidstaker gis en pause på minst en halv time. Pausen regnes som en del av arbeidstiden. Pause som legges etter alminnelig arbeidstids slutt, godtgjøres som overtidsarbeid, men regnes ikke med i det antall timer det er tillatt å arbeide overtid etter § 11. Når forholdene gjør det nødvendig, kan pausen kortes ned eller forskyves.
