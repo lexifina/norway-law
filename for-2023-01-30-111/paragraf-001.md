@@ -1,0 +1,3 @@
+# § 1. Formål og virkeområde
+Formålet med forskriften er å sikre rettigheter til personer som søker opptak til og som studerer ved fagskolestudiet Brann, redning og samfunnssikkerhet ved Brann- og redningsskolen.
+Forskriften er en lokal forskrift for Brann- og redningsskolen, og gir utfyllende og supplerende bestemmelser til reguleringer i lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning (fagskoleloven), lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) og forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning (fagskoleforskriften).
