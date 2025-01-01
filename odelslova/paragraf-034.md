@@ -1,0 +1,4 @@
+# § 34. Attlevande sitt vern overfor barn og barnebarn
+Er ein ektemake avliden og let etter seg odelsjord i felleseige med den attlevande som ikkje har best odelsrett, kan felles barn eller barnebarn ikkje ta eigedomen frå den attlevande før denne har fått alderspensjon eller full uføretrygd etter folketrygdloven og barnet har fylt 18 år. Når barnet (barnebarnet) har fylt 25 år, kan det også elles få rett til å overta eigedomen, når det under omsyn til begge partane ville vere klårt urimeleg om den attlevande skulle halde fram med å bruke eigedomen.
+Desse reglane gjeld og om eigedomen var særeige for den avlidne, dersom det mellom ektemakane gjaldt slik eigeskipnad som nemnt i lov om ekteskap §§ 42 tredje ledd og 43.
+Første stykket gjeld tilsvarande når attlevande i ekteskapsliknande sambuarforhold blir eigar av avlidnes odelsjord.

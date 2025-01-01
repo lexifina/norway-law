@@ -1,0 +1,3 @@
+# § 40. Frist for å gjere odelsretten gjeldande
+Retten til odelsløysing må gjerast gjeldande innan seks månader frå den dagen då dokument som gir den nye eigaren full heimel blir tinglyst. Dette gjeld også overgang ved arv. Ved tvangssal blir foreldingsfristen rekna frå tinglysinga av tvangssalskøyte.
+Reglane i første stykket gjeld likevel ikkje når ein eigar med odelsrett ikkje oppfyller buplikta etter konsesjonslova § 5 eller driveplikta etter jordlova § 8. Andre odelsrettshavarar som hadde odelsrett då eigaren fekk tinglyst heimel, kan i eit slikt tilfelle krevje å løyse eigedomen, dersom kravet blir sett fram før det tidsromet er ute som eigaren er pålagt buplikt for eller som følgjer av konsesjonslova § 5 andre stykket.

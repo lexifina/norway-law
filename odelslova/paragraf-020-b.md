@@ -1,0 +1,3 @@
+# § 20 b. Konsekvensar av ikkje å gå inn i kjøpstilbodet, halde tilbodsfristen og å fremje krav om atterhald
+Dei som avslår kjøpstilbodet, eller som ikkje svarar innan fristen, kan ikkje løyse odelsjorda når jorda innan to år rekna frå tilbodsfristen gjekk ut blir avhenda på dei vilkår som var fastsett i tilbodet, og desse vilkåra lyt reknast som reelle og sakleg velgrunna. Har den som tek over odelsjorda odelsrett, blir den som fekk tilbodet ståande etter den som overtek og hans line i odelsrekkja.
+Det blir ikkje rekna som avslag på tilbodet om det i svaret blir tatt atterhald om at vederlaget må fastsetjast i samsvar med reglane i odelslova § 49.

@@ -1,0 +1,2 @@
+# § 20 c. Kostnader ved takst
+Har den som har motteke tilbod etter reglane i §§ 20 til 20 b, kravd takst over eigedomen, jf. § 20 b andre stykket, ber han kostnadene i samsvar med reglane i skjønnslova § 42 første og andre stykket. Men er eigaren ikkje viljug til å selje til takstbeløpet, ber eigaren kostnadene der takstbeløpet er lågare enn tilbodsbeløpet. Ved angrep på taksten gjeld skjønnslova § 42 tredje stykket.

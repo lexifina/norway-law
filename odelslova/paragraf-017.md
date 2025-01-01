@@ -1,0 +1,3 @@
+# § 17. Oppløysing av sameige
+Blir sameige i odelsjord oppløyst med deling mellom sameigarane, får kvar av dei odelsretten til det stykket han får utlagt. Dette gjeld endå om stykket er større enn det som skulle falle på han etter høvestalet i sameiga, og anten odelen hans før galdt ein part eller heile eigedomen.
+Blir sameiga oppløyst ved tvangssal, kan dei tidlegare sameigarane ikkje løyse eigedomen frå tvangssalgskjøparen eller rettsetterfølgjarane hans. Er kjøparen ein sameigar som tidlegare hadde odelsrett berre til ein part, får han odelsrett til heile eigedomen. Ein utanforståande med betre odelsrett til eigedomen har same løysingsrett som før.

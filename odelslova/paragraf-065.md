@@ -1,0 +1,4 @@
+# § 65. Om rettsmøte, mekling, frifinningsdom og odelstakst
+Når saka ikkje sluttar med frifinningsdom etter § 64 eller med forlik og heving, og domaren ikkje finn grunn til vidare saksførebuing med mekling, fastset han tid og stad for eit rettsmøte til førehaving av løysingssaka. Om samansetjinga av retten gjeld her reglane i skjønnslova §§ 11-17.
+Retten skal prøve mekling mellom partane dersom det ikkje er gjort i tidlegare rettsmøte. Kjem det til forlik, skal løysingssaka hevast. Kjem det ikkje til forlik, kan retten – etter at partane har fått uttale seg – straks seie frifinningsdom når det synes tvillaust at saksøkjaren ikkje har løysingsrett, eller retten samrøystes finn at løysing bør nektast etter § 21. I andre tilfelle held saka fram med odelstakst.
+Retten avgjer om tvist om løysingsretten som ikkje tidlegare er avgjort, skal takast opp til førehaving og avgjerd i samband med taksten, eller utsetjast til avslutningsmøtet i saka, jfr. § 69 og § 72.
