@@ -1,0 +1,4 @@
+# § 4. Søknaden
+Søknad om utførsel av kulturgjenstander som faller inn under noen av de angitte kategoriene i § 2 i forskriften her, skrives på skjema fastsatt av Kultur- og likestillingsdepartementet. Søknaden skal bl.a. inneholde opplysninger om kulturgjenstandens art, materiale, alder, størrelse, ervervsmåte og -tidspunkt, hvem det er ervervet fra, og navn og adresse på søker og mottaker. Videre skal det gjøres rede for begrunnelsen for at det søkes om utførselstillatelse og det skal følge med fem fargefotografier av kulturgjenstanden.
+Søknaden sendes den institusjonen som har vedtaksmyndighet etter § 6 i god tid før utførsel skal skje. Dersom søkeren er i tvil om hvor søknaden skal sendes, kan den sendes til Kulturdirektoratet som videresender den til riktig vedtaksmyndighet etter § 6.
+Om nødvendig kan vedtaksinstitusjonen kreve at søkeren fremlegger tilleggsopplysninger eller foreviser kulturgjenstanden.
