@@ -1,0 +1,4 @@
+# § 8. Hogst og måling
+Ved hogst skal det takast omsyn til skogen sin framtidige produksjon og forynging samstundes som det blir teke omsyn til miljøverdiane. Det skal sørgjast for at bruk av stigar, løyper og andre ferdselsårer ikkje blir unødig vanskeleggjort for allmenta etter at hogsten er avslutta. Kommunen kan påleggje skogeigar å rette opp køyreskadar eller andre skadar etter tiltak i skogen.
+Om ein hogst blir planlagt eller skjer i strid med denne lova, reduserer eigedommen sitt produksjonsgrunnlag vesentleg, eller kan få uheldige verknader for miljøverdiane, kan kommunen nekte hogsten eller setje vilkår for korleis den skal gjennomførast.
+Når ikkje anna er fastsett av departementet skal kjøpar og seljar sørgje for at alt skogsvirke som blir hogd til foredling, sal eller eksport blir målt. Departementet kan gi nærare forskrifter om registrering og oppgåveplikt i samband med slik måling.
