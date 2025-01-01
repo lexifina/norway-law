@@ -1,0 +1,5 @@
+# § 17. Skyldnerens ansvar for kostnader ved utenrettslig inndriving
+Skyldneren plikter å erstatte fordringshaverens nødvendige kostnader ved utenrettslig inndriving. Dette gjelder både kostnader ved å ha engasjert en inkassator og kostnader ved å drive inn kravet selv.
+Kostnadene kan ikke kreves erstattet dersom skyldneren hadde innsigelser som det var rimelig grunn til å få vurdert før inndrivingen ble satt i verk. Dette gjelder selv om kostnadene påløp før innsigelsene ble satt fram, dersom ikke skyldneren burde satt dem fram tidligere.
+Fordringshaveren kan ikke kreve erstatning for vederlag til en inkassator dersom skyldneren har betalt innen betalingsfristen i et inkassovarsel etter § 9.
+Skyldneren plikter heller ikke å erstatte kostnadene dersom fordringshaveren, en inkassator eller andre som har bistått fordringshaveren, har opptrådt i strid med god inkassoskikk overfor skyldneren, jf § 8, eller en inkassator har unnlatt å følge pålegg i forholdet til skyldnere etter § 30 tredje ledd. Erstatning for vederlag til en inkassator kan ikke kreves dersom reglene i §§ 9 til 11, jf § 12, er overtrådt.
