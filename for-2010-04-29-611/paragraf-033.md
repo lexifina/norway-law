@@ -1,0 +1,3 @@
+# § 33. Melding og rapportering om dykkeroperasjoner i tilknytning til landanlegg
+Operatøren eller den som står for driften av et landanlegg skal sende skriftlig melding til Havindustritilsynet om alle dykkeroperasjoner som det ikke kreves samtykke for. Meldingen skal sendes i henhold til frist fastsatt av Havindustritilsynet og skal inneholde opplysninger om dykkersted, aktører som deltar, aktiviteten som skal utføres og tidsplan for operasjonen.
+Operatøren skal sende en aktivitetsrapport om bemannede undervannsoperasjoner til Havindustritilsynet. Rapporten skal sendes senest 14 dager etter utgangen av hvert halvår.
