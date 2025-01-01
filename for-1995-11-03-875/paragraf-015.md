@@ -1,0 +1,3 @@
+# § 15. Tomtefeste og annen leie av fast eiendom
+Er en del av grunnen i fast eiendom bortfestet for lengre tid enn 10 år, skal grunnen være opprettet som egen matrikkelenhet i henhold til matrikkellova og gitt egen registerbetegnelse. Dokument som gjelder leie av grunn, kan ikke tinglyses før grunnen er matrikulert som egen matrikkelenhet, eller det er gitt unntak fra matrikuleringsplikten etter matrikkelforskriften § 30 første til tredje ledd, dersom leieforholdet kan gjelde i mer enn 10 år.
+For tinglysing av kontrakt som gir bruksrett til del av grunnen og forholdet ikke kreves registrert på egen matrikkelenhet etter første ledd, er det et krav at rettens utstrekning er klart angitt i kontrakten.

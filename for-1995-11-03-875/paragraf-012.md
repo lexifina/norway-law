@@ -1,0 +1,2 @@
+# § 12. Opplysningsplikt m.v.
+Trenger registerføreren ytterligere opplysninger i forbindelse med en tinglysingsforretning, kan han forlange at rekvirenten framskaffer disse, med mindre de kan skaffes fra tinglysingsmyndighetens egne registre eller arkiv. Registerføreren kan imidlertid kreve så presis angivelse av de forhold saken gjelder at han på en enkel måte kan finne fram til de aktuelle opplysninger.

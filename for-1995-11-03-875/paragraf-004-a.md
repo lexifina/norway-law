@@ -1,0 +1,4 @@
+# § 4a. Angivelse av hjemmelshaver
+På dokumenter som krever underskrift av hjemmelshaver, skal hjemmelshavers fødselsnummer eller organisasjonsnummer opplyses. På dokumenter som overfører hjemmel som eier, skal i tillegg den nye hjemmelshavers fødselsnummer eller organisasjonsnummer opplyses og dokumenteres. På dokumenter som overfører hjemmel til andre rettigheter, skal i tillegg den nye hjemmelshavers fødselsnummer eller organisasjonsnummer opplyses. Ved tinglysing av tvangsforretning skal saksøktes fødselsnummer opplyses dersom saksøkte er en fysisk person eller et enkeltpersonforetak. For andre saksøkte skal organisasjonsnummer opplyses.
+For fysiske personer som ikke er tildelt norsk fødselsnummer, skal i tilfeller som nevnt i første ledd tildelt D-nummer for utlendinger benyttes.
+Når staten er eier eller rettighetshaver, skal det i tillegg opplyses hvilket statlig organ som har forvaltningsansvar for eiendommen. Første ledd gjelder tilsvarende.
