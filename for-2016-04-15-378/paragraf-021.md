@@ -1,0 +1,4 @@
+# § 21. Dokumentasjon av faste installasjoner
+Faste installasjoner skal dokumenteres i henhold til annet og tredje ledd. I tillegg skal det dokumenteres at installasjonen er fagmessig utført. Dokumentasjonen skal oppbevares av eier.
+For apparater som kun er beregnet for innbygging i en bestemt fast installasjon, og som ikke gjøres tilgjengelig på markedet som egne selvstendige enheter, skal den faste installasjonen og dens egenskaper knyttet til elektromagnetisk kompatibilitet identifiseres. Dokumentasjonen skal angi forhåndsregler som skal tas ved innbygging av apparater for å sikre at den faste installasjonen tilfredsstiller kravene i forskriften.
+For apparater i annet ledd skal det følge med informasjon om type, parti, serienummer eller annet som identifiserer apparatet. Det skal også følge med informasjon om produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som produsenten og importøren kan kontaktes på.

@@ -1,0 +1,9 @@
+# § 8. Krav til produsent
+Før et apparat bringes i omsetning skal produsent utarbeide teknisk dokumentasjon i samsvar med § 19, utføre eller få utført samsvarsvurdering etter § 13 til § 16, sikre krav til merking i § 20 og informasjon til bruker i § 17.
+Der samsvarsvurderingen dokumenterer at apparatet fyller kravene skal produsenten utstede samsvarserklæring etter § 18 og påføre CE-merke på apparatet i samsvar med § 20. Ved å utstede samsvarserklæring og påføre CE-merke er produsenten ansvarlig for at utstyret er i samsvar med kravene i forskriften.
+Produsent skal oppbevare teknisk dokumentasjon og samsvarserklæring i ti år etter at apparatet ble brakt i omsetning.
+Produsent skal stille til rådighet for Nasjonal kommunikasjonsmyndighet informasjon om hvilke markedsdeltakere produsenten har overlevert apparater til i ti år etter at apparatet ble overlevert.
+Når et apparat bringes i omsetning skal produsent sikre at apparatet er konstruert og produsert i samsvar med de grunnleggende kravene i § 7.
+Produsent skal ha prosedyrer for å sikre at apparatet ved serieproduksjon oppfyller kravene i forskriften. Det skal i tilstrekkelig grad tas hensyn til endringer i apparatets konstruksjon og egenskaper, og til endringer i de harmoniserte standarder eller andre tekniske spesifikasjoner som det er erklært samsvar med.
+Der produsent finner ut eller har grunn til å tro at et apparat som er brakt i omsetning ikke tilfredsstiller kravene i forskriften, skal produsenten straks treffe nødvendige tiltak for å bringe apparatet i samsvar med regelverket, om nødvendig trekke det tilbake fra markedet eller kalle det tilbake fra sluttbruker.
+Dersom apparatet utgjør en risiko, skal produsenten straks melde fra til Nasjonal kommunikasjonsmyndighet og informere om den manglende overensstemmelsen med regelverket og de tiltak som er gjort for å bringe apparatet i samsvar med regelverket.
