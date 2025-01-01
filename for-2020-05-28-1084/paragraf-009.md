@@ -1,0 +1,3 @@
+# § 9. Samordningsoppgjør før og ved fylte 67 år
+Ved samme tidspunkt som pensjonen reberegnes etter § 8, skal det skje et samordningsoppgjør. I samordningsoppgjøret skal den reberegnede pensjonen sammenlignes med tidligere utbetalt pensjon. Differansen i pensjon i utbetalingsperioden danner grunnlaget for samordningsoppgjøret. Dersom reberegnet pensjon øker, utbetales det et engangsbeløp, og dersom reberegnet pensjon reduseres, kreves det inn et engangsbeløp.
+Dersom medlemmet dør før fylte 67 år, skal det ikke gjennomføres samordningsoppgjør utover det som allerede har skjedd i tidligere samordningsoppgjør.
