@@ -1,0 +1,2 @@
+# § 5. Feltskifte ved for høy innblanding av fiskelarver og fiskeyngel
+Det skal foretas et feltskifte dersom prøvetaking viser at rødåtefangsten har over 10 % innblanding av fiskelarver og fiskeyngel uavhengig av fiskeart. Dette gjelder for hvert enkelt trålhal. Med feltskifte menes endringer i fartøyets geografiske posisjon eller justeringer av fiskeredskapet som er egnet til å hindre ulovlig innblanding.
