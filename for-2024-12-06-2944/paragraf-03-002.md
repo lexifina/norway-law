@@ -1,0 +1,6 @@
+# § 3-2. Kamplege
+Ved utøvelse av organisert kampaktivitet etter denne forskriften skal det være kamplege til stede. Kamplegen må ha autorisasjon som lege, jf. helsepersonelloven § 48 første ledd nr. 14. Kamplegen skal ha dokumentert opplæring i de aktuelle kampreglementene, kampteknikkene og de tillatte treffpunktene.
+Kamplegen skal kun overvære én organisert kampaktivitet om gangen og skal være til stede ved kamparealet når kampaktiviteten foregår. Godkjenningsnemnda kan gi samtykke til at kamplegen overværer flere organiserte kampaktiviteter samtidig.
+Kamplegen skal vurdere om utøver er medisinsk skikket til å delta i kampaktiviteten. Til grunn for vurderingen skal det foreligge en medisinsk undersøkelse foretatt av kamplegen før kampaktivitet utøves, helseattest og startbok eller tilsvarende dokumentasjonsmateriale.
+Den som har godkjenningen etter § 1-2 er ansvarlig for å nekte deltakelse i kampaktiviteten for utøvere som kamplegen ikke har funnet medisinsk skikket til å delta i kampaktiviteten. Kamplegen har rett til å stoppe organisert kampaktivitet ved fare for skade.
+Den som har godkjenning etter § 1-2 skal sikre at kamplegen kjenner til og har akseptert kravene i denne bestemmelsen.

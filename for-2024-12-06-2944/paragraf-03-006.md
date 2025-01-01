@@ -1,0 +1,3 @@
+# § 3-6. Aldersgrense
+Utøvere skal ikke være under 18 år eller over 40 år. Godkjenningsnemnda kan på grunnlag av søknad gi individuell dispensasjon for utøvere over 40 år.
+Ved søknad om dispensasjon skal utøveren vurderes av en spesialist i nevrologi eller nevrokirurgi for å avdekke om utøveren er påført skade av betydning for deltakelse i kampaktivitet som tillater knockout. Spesialisten i nevrologi eller nevrokirurgi avgjør hvilke undersøkelser som er nødvendige for å gjøre en slik vurdering. Undersøkelsesresultatet skal føres inn i utøverens startbok eller tilsvarende dokumentasjonsmateriale.
