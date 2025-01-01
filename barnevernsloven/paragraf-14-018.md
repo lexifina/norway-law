@@ -2,7 +2,7 @@
 For nemnda gjelder følgende regler i tvisteloven om bevisføring tilsvarende så langt de passer:
 a) kapittel 21 om alminnelige regler om bevis, unntatt § 21-4
 b) kapittel 22 om bevisforbud og bevisfritak
-c) kapittel 24 om vitnebevis og § 36-6 a
+c) kapittel 24 om vitnebevis
 d) kapittel 25 om sakkyndigbevis
 e) kapittel 26 om realbevis
 f) kapittel 27 om bevisopptak i rettssak.
