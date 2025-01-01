@@ -1,0 +1,2 @@
+# § 17a. Arbeidsplan
+Dersom arbeidstakerne arbeider til ulike tider på døgnet, skal det utarbeides en arbeidsplan som viser hvilke uker, dager og tider den enkelte arbeidstaker skal arbeide. Arbeidsplanen skal utarbeides i samarbeid med arbeidstakerne. Dersom ikke annet er avtalt, skal arbeidsplanen drøftes med arbeidstakerne så tidlig som mulig og senest to uker før iverksettelsen. Arbeidsplanen skal være lett tilgjengelig for arbeidstakerne.
