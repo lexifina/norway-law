@@ -1,0 +1,2 @@
+# § 12. Avkorting ved feilopplysningar
+Dersom føretaket aktlaust eller forsettleg har gjeve feil opplysningar i søknaden som har eller ville danna grunnlag for ei urettmessig utbetaling av tilskot, kan heile eller delar av det tilskotet som tilfell føretaket avkortast. Tilskotet kan også avkortast dersom føretaket ikkje følgjer fristar som kommunen, statsforvaltaren eller Landbruksdirektoratet har sett for å kunne utføre kontrolloppgåvene i medhald av § 10.

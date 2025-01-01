@@ -1,0 +1,4 @@
+# § 13. Tilbakebetaling og renter mv.
+Dersom nokon, anten som følgje av manglande oppfylling av vilkåra i denne forskrifta eller av andre grunnar, har motteke ei utbetaling som ikkje var rettmessig, kan det feilutbetalte beløpet krevjast tilbakebetalt frå mottakaren eller motreknast i seinare utbetalingar av tilskot. Tilsvarande gjeld differansen mellom utbetalt beløp og redusert tilskot som følgje av vedtak om avkorting etter § 11 og § 12.
+For tilbakebetalingskrav kan det krevjast renter når kravet ikkje vert innfridd ved forfall. Ved grov aktløyse eller forsett kan renter krevjast frå tidspunktet for utbetalinga av det urettmessige tilskotet. Størrelsen på renta følgjer rentesatsen fastsett med heimel i lov 17. desember 1976 nr. 100 om renter ved forsinka betaling m.m.
+Krav frå offentlege styresmakter som spring ut av jordbruksverksemda til føretaket kan motreknast i seinare tilskotsutbetalingar til føretaket.
