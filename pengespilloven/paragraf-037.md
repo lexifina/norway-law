@@ -1,0 +1,3 @@
+# § 37. Straff
+Med bøter eller fengsel inntil ett år straffes den som forsettlig eller grovt uaktsomt vesentlig overtrer forbudet i § 4 mot å tilby eller medvirke til å tilby pengespill uten tillatelse eller forbudet i § 6 andre ledd mot å markedsføre eller medvirke til å markedsføre pengespill.
+Grove overtredelser straffes med bøter eller fengsel inntil tre år. Ved avgjørelsen av om overtredelsen skal regnes som grov, skal det særlig legges vekt på om handlingen gjelder et betydelig beløp, er rettet mot barn, er begått ved flere anledninger eller over lengre tid, eller av andre grunner må anses som særlig skadelig.
