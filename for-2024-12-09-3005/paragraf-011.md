@@ -1,0 +1,5 @@
+# § 11. Utlevering av personopplysninger og deling av taushetsbelagte opplysninger
+Tilsynsrådet skal nedtegne hvilke opplysninger som utleveres, hvem de utleveres til, og årsaken til at de utleveres. Dersom opplysningene ikke er verifiserte, skal dette fremgå særskilt.
+Tilsynsrådet kan uten hinder av taushetsplikt etter forvaltningsloven § 13 dele opplysninger med Statens helsetilsyn og statsforvalterne når dette er nødvendig for at tilsynsrådet skal kunne utøve tilsyn etter sitt mandat, eller for at mottakerorganet skal kunne utføre sin tilsynsfunksjon for velferdstjenester som kan gis under varetekt og straffegjennomføring, og delingen ikke vil utgjøre et uforholdsmessig inngrep overfor den opplysningene gjelder.
+I forholdsmessighetsvurderingen etter annet ledd, skal det blant annet legges vekt på formålet med delingen, om delingen er til fordel for den opplysningene gjelder, konsekvensene dersom tilsynet ikke kan gjennomføres og hvor sensitive opplysningene er.
+Opplysningene etter annet ledd skal deles skriftlig, med mindre tidsmessige eller praktiske grunner gjør det nødvendig å dele muntlig.
