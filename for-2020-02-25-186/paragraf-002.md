@@ -1,0 +1,5 @@
+# § 2. Virkeområde
+Forskriften gjelder for leting etter og utnyttelse av undersjøiske reservoarer for lagring av CO2 og transport av CO2 til slike reservoarer i områder som er underlagt norsk jurisdiksjon. Forskriften gjelder også for transport av CO2 og utnyttelse av undersjøiske reservoarer til lagring av CO2 i og utenfor riket og norsk kontinentalsokkel når det følger av folkeretten eller av overenskomst med fremmed stat.
+Forskriften gjelder for utstyr og systemer for injeksjon. Dette omfatter utstyr og systemer som er nødvendige for drift og vedlikehold av rørledninger samt utstyr og systemer for å overvåke injeksjonsbrønner og nød- og sikkerhetssystemer i tilknytning til rørledninger og injeksjonsbrønner, avgrenset til utløpet av CO2-brønnens injeksjonsrør.
+Undersøkelse og leting etter undersjøiske reservoarer for lagring av CO2, og utnyttelse, transport og lagring av CO2 i slike reservoarer på norsk kontinentalsokkel som ledd i petroleumsvirksomheten, reguleres av petroleumsloven (lov 29. november 1996 nr. 72) med tilhørende forskrifter.
+Forskriften gjelder ikke for Svalbard.

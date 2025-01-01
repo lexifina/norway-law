@@ -1,0 +1,2 @@
+# § 3. Forholdet til annen lovgivning
+Forskriften er basert på prinsippene som legges til grunn i HMS-forskriftene for petroleumsvirksomheten, tilpasset de risikoforholdene som transport og injeksjon av CO2 representerer. Forskriften er begrenset til å gjelde for sikkerhet og arbeidsmiljø. Begrepene «gjelder tilsvarende» og «gjelder så langt det passer» som benyttet i denne forskriften, skal forstås i lys av nevnte begrensninger.

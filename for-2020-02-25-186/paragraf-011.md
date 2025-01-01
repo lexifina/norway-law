@@ -1,0 +1,3 @@
+# § 11. Forhold som gjelder sikkerhet og arbeidsmiljø i plan for utbygging og drift av undersjøisk reservoar til injeksjon og lagring av CO2 og særskilt tillatelse til anlegg og drift av innretninger for transport
+I tillegg til redegjørelsen som kreves etter forskrift om lagring og transport av CO2 på sokkelen § 4-6 og § 6-2, skal planen for utbygging og drift av undersjøiske reservoarer til injeksjon og lagring av CO2 og særskilt tillatelse til anlegg og drift av innretninger for transport omfatte en redegjørelse for forhold som er av betydning for sikkerhet og arbeidsmiljø som nevnt i rammeforskriften § 27.
+Det skal gjøres rede for konsekvenser for brønnbarrierene til eksisterende brønner i lagringskomplekset for CO2.
