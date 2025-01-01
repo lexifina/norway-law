@@ -1,0 +1,3 @@
+# § 20h. Hjelpetelefon for barn og unge – 116 111
+Hjelpetelefon for barn og unge skal hjelpe de som har behov for omsorg, og vern og bistå med kontakt med relevante tjenester og ressurser. Tjenesten skal gi barn og unge mulighet til å gi uttrykk for sine bekymringer, snakke om problem som påvirker dem direkte, og være en kontakt i en nødsituasjon.
+Den som er tildelt 116 111-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.
