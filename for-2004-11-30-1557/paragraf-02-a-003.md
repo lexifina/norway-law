@@ -1,0 +1,4 @@
+# § 2A-3. Ansvarlig og berørt konsesjonær ved avbrutt effekt, ikke levert energi og KILE
+Ansvarlig konsesjonær er nettselskap som har feil eller planlagt utkobling i egne nettanlegg som inngår i selskapets kostnadsgrunnlag for beregning av inntektsramme, dersom dette medfører avbrutt effekt, ikke levert energi eller KILE som skal rapporteres til Reguleringsmyndigheten for energi. Dette gjelder også hendelser i nettselskapets anlegg forårsaket av sluttbruker, systemansvarlig eller annen tredjepart.
+Berørt konsesjonær er nettselskap med sluttbrukere som opplever avbrutt effekt, ikke levert energi eller KILE som skal rapporteres til Reguleringsmyndigheten for energi.
+Berørt konsesjonær er ansvarlig konsesjonær dersom andre konsesjonærer ikke erkjenner å være ansvarlig, med mindre Reguleringsmyndigheten for energi avgjør noe annet, jf. § 2A-5.

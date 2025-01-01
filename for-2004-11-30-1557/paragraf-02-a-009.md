@@ -1,0 +1,9 @@
+# § 2A-9. Beregning av avbrutt effekt og ikke levert energi
+Berørt konsesjonær skal beregne avbrutt effekt og ikke levert energi per rapporteringspunkt tilknyttet eget nett basert på standardisert metode i gjeldende kravspesifikasjon for FASIT. Kundegrunnlaget skal oppdateres minimum én gang i kvartalet.
+Metoden i henhold til første ledd skal baseres på egendefinerte lastprofiler for sluttbrukere i regional- og transmisjonsnettet. For resterende sluttbrukere skal det benyttes egendefinerte eller generelle lastprofiler, jf. gjeldende kravspesifikasjon for FASIT. Egendefinerte lastprofiler skal ha basis i timemålinger tatt opp over en periode på minimum ett år. Egendefinert lastprofil for én sluttbruker kan benyttes også for en annen sluttbruker innenfor samme sluttbrukergruppe, forutsatt at det kan sannsynliggjøres at profilen for denne vil være tilsvarende. Underlaget som er lagt til grunn for profilene skal kunne dokumenteres.
+Berørt konsesjonær skal ta hensyn til følgende forhold når avbrutt effekt og ikke levert energi beregnes:
+a) Oppdatert koblingsbilde for nett.
+b) Levert energi fordelt på sluttbrukergrupper i hvert rapporteringspunkt for siste år (kWh).
+c) Lokale klimadata i henhold til gjeldende kravspesifikasjon for FASIT.
+Berørt konsesjonær kan ta hensyn til tilgjengelige timemålinger i nettet siste time(r) før avbrudd inntreffer. Dette gjelder ikke ved nedkjøring som følge av et varslet avbrudd eller endringer som følge av feil i nettanlegg. Målinger skal korrigeres for egenproduksjon hos sluttbruker, det vil si som om produksjonen ikke er tilstede. Berørt konsesjonær skal være konsekvent overfor samme sluttbruker(e) dersom timemålinger brukes til kalibrering av lastprofilene.
+Avbrutt effekt og ikke levert energi kan reduseres med lokal produksjon dersom denne ikke har medført økte utgifter for berørt(e) sluttbruker(e).

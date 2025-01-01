@@ -1,0 +1,2 @@
+# § 4-1. Vilkår i avtale for tilknytning og bruk av nettanlegg
+Nettselskap skal sørge for at det i nettavtaler, inngått i henhold til forskrift om økonomisk og teknisk rapportering, inntektsramme for nettvirksomheten og tariffer, fastsettes vilkår vedrørende leveringskvalitet. Vilkårene skal ikke medføre at nettkunder blir tilbudt en dårligere leveringskvalitet enn de minimumskrav, som er fastsatt i denne forskriften, dersom det ikke er inngått en privat avtale om fravikelighet i henhold til § 1-3.
