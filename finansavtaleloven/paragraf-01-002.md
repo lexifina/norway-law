@@ -1,5 +1,5 @@
 # § 1-2. Virkeområdet for kapittel 2 til 6
-(1) Kapittel 2 gjelder betalingsoppgjør og pengekrav på formuerettens område.
+(1) Kapittel 2 gjelder betalingsoppgjør og pengekrav.
 (2) Kapittel 3 gjelder for alle finansielle tjenester og finansoppdrag, jf. § 1-3 annet og tredje ledd, med mindre noe annet følger av sjette ledd eller for øvrig er særskilt bestemt.
 (3) Kapittel 4 gjelder for kontoavtaler og betalingstjenester, jf. § 1-5 første og åttende ledd, med mindre noe annet følger av sjette ledd eller for øvrig er særskilt bestemt, jf. §§ 4-47 til 4-52.
 (4) Kapittel 5 gjelder for kredittavtaler, jf. § 1-7 første ledd, med mindre noe annet følger av sjette ledd eller for øvrig er særskilt bestemt, jf. §§ 5-22 og 5-23.
