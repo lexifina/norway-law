@@ -1,0 +1,6 @@
+# § 2. Innarbeiding av forordning (EU) nr. 224/2014
+(1) EUs vedlagte forordning (EU) nr. 224/2014 om restriktive tiltak i lys av situasjonen i Den sentralafrikanske republikk, med senere endringer, gjelder som forskrift med de tilpasninger som følger av denne bestemmelsen.
+(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge». Unntak gjelder for «EUs felles liste over militært materiell» som skal forstås som henvisninger til «Liste I – forsvarsrelaterte varer» i vedlegg I i forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.).
+(3) Henvisningene til medlemsstatenes kompetente myndigheter, i enkelte tilfelle med referanser til vedlegg II, skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+(4) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Videre er også artikkel 16 og 17, samt artikkel 19 til 22 EU-interne og kommer ikke til anvendelse. Tilsvarende gjelder forordningens vedlegg II.
+(5) Vedlegg I til vedlagte forordning (EU) nr. 224/2014 er i denne forskriften erstattet med en lenke til FNs sanksjonskomités konsoliderte liste.
