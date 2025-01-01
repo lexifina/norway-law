@@ -1,0 +1,3 @@
+# § 1 a. (Hva som forstås med innmark og utmark.)
+Som innmark eller like med innmark reknes i denne lov gårdsplass, hustomt, dyrket mark, engslått og kulturbeite samt liknende område hvor almenhetens ferdsel vil være til utilbørlig fortrengsel for eier eller bruker. Udyrkete, mindre grunnstykker som ligger i dyrket mark eller engslått eller er gjerdet inn sammen med slikt område, reknes også like med innmark. Det samme gjelder område for industrielt eller annet særlig øyemed hvor almenhetens ferdsel vil være til utilbørlig fortrengsel for eier, bruker eller andre.
+Med utmark mener denne lov udyrket mark som etter foregående ledd ikke reknes like med innmark.

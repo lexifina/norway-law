@@ -1,0 +1,2 @@
+# § 7. (Landsetting og fortøyning av båt.)
+Under ferdsel har enhver rett til for kortere tid å dra i land båt på strandstrekning i utmark. Det er ikke tillatt å nytte kai eller brygge uten eierens eller brukerens samtykke. Andre fortøyningsgreier (ringer, bolter o.l.) i utmark kan ikke nyttes dersom eieren eller brukeren har forbudt det. Eieren eller brukeren kan likevel ikke motsette seg bruk av slike fortøyningsgreier for kortere tid når bruken kan foregå uten utilbørlig fortrengsel for eier eller bruker.

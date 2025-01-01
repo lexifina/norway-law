@@ -1,0 +1,6 @@
+# § 9. (Rasting og telting.)
+Plass til rasting, solbad, overnatting eller liknende må ikke tas i innmark uten eierens eller brukerens samtykke.
+I utmark må plass som nevnt i foregående ledd ikke tas til utilbørlig fortrengsel eller ulempe for andre. Rasting eller telting må ikke skje når det kan medføre nevneverdig skade på ungskog, eller skogforyngelsesfelt. Telt må ikke settes opp så nær bebodd hus (hytte) at det forstyrrer beboernes fred og i hvert fall ikke nærmere enn 150 meter. Reglene om avstand fra bebyggelse gjelder likevel ikke på område som særskilt er innredet for telting. Departementet kan gi forskrift om å tillate telting nærmere enn 150 meter fra bebodd hus (hytte) i kystnære områder.
+Telting eller annet opphold er ikke tillatt i mer enn 2 døgn om gangen uten eierens eller brukerens samtykke. Samtykke til lengre opphold trengs likevel ikke på høgfjellet eller på område fjernt fra bebyggelse, medmindre det må regnes med at oppholdet kan medføre nevneverdig skade eller ulempe.
+For tidsrommet umiddelbart før og under villreinjakten kan departementet på nærmere avgrenset høgfjellsområde forby eller regulere teltslåing som kan være til ulempe for villreinjakten.
+Telting og ferdsel må skje på eget ansvar for skade som dyr kan påføre personer, telt og andre eiendeler.

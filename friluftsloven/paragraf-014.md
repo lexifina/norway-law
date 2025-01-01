@@ -1,0 +1,2 @@
+# § 14. (Avgift for adgang til friluftsområde)
+Ferdselsrett etter denne lov er ikke til hinder for at eier eller bruker etter løyve av kommunen kan kreve en rimelig avgift for adgangen til badestrand, teltplass eller annet opparbeidet friluftsområde, men avgiften må ikke stå i misforhold til de tiltak eier eller bruker har gjort på området til fordel for friluftsfolket. Det kan settes vilkår for slikt løyve.
