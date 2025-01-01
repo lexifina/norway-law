@@ -1,0 +1,5 @@
+# § 12-2. Offentliggjøring
+(1) Avhandlingen skal være offentlig tilgjengelig senest 10 arbeidsdager før offentlig forsvar, og fakultetet har ansvar for at dette skjer. Avhandlingen gjøres offentlig i den form den ble innlevert til bedømmelse, men med ev. errata, jf. § 9-3.
+(2) Det kan ikke legges restriksjoner på offentliggjøring av en doktorgradsavhandling med unntak av en på forhånd avtalt utsettelse av datoen for offentliggjøring. Ekstern part kan ikke stille krav om at hele eller deler av avhandlingen unntas offentlighet, jf. § 6-1.
+(3) NMBU forbeholder seg en ikke-eksklusiv rett til å arkivere og offentliggjøre avhandlingen via NMBUs elektroniske vitenarkiv, Brage. Retten innebærer at avhandlingen arkiveres og offentliggjøres i sin helhet, som ett dokument med eventuelle delarbeider inkludert. NMBU skal ikke offentliggjøre eventuelle delarbeider enkeltvis, atskilt fra øvrige deler av avhandlingen. Kandidaten kan forbeholde seg retten til å utsette elektronisk offentliggjøring i inntil ett år fra disputasdato.
+(4) Ved publisering av avhandlingen skal kandidater følge gjeldende retningslinjer for kreditering av institusjoner, jf. § 6-1 syvende ledd.
