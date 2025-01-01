@@ -1,0 +1,3 @@
+# § 52. Kalibreringsmetoder for flerfasemålere
+(1) Kalibreringsmetoden for en flerfasemåler på et dekksanlegg skal være in situ kalibrering mot et referansesystem med målinger av enfasestrømmer av olje, gass og vann på utløp av en separator (separatormålesystem).
+(2) Kalibreringsmetoder for en flerfasemåler på et havbunnsanlegg skal være in situ kalibrering mot et referansesystem med direkte målinger av enfasestrømmer av olje, gass og vann på utløp av en separator, in situ kalibrering mot et referansesystem med indirekte målinger av enfasestrømmer av olje, gass og vann eller strømningskalibrering på et laboratorium. Valg av metode, eller kombinasjoner av metoder, skal baseres på hva som er teknisk mulig og økonomisk forsvarlig.

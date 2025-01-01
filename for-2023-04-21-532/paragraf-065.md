@@ -1,0 +1,2 @@
+# § 65. Bruk av laboratorier til kalibrering
+Kalibreringer skal utføres ved laboratorier som er akkreditert i samsvar med internasjonalt anerkjente standarder for de relevante kalibreringsmetodene. Dersom det kan dokumenteres at bruk av et akkreditert laboratorium ikke er mulig eller vil føre til urimelig høye kostnader, kan et ikke-akkreditert laboratorium brukes, forutsatt at rettighetshaver kan dokumentere at laboratoriet kan utføre kalibreringer med tilsvarende nøyaktighet og måleteknisk sporbarhet som akkrediterte laboratorier.

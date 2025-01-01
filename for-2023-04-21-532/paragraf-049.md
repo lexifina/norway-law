@@ -1,0 +1,3 @@
+# § 49. Prøvetakingsutstyr
+(1) Et system for direkte prøvetaking skal konstrueres slik at representative enfase gassprøver overføres til gasskromatografen. Prøvetakingsutstyret skal inkludere en prøvetakingssonde, en overføringslinje og en trykkreduksjonsanordning med måling av trykk og temperatur. Utstyret skal konstrueres slik at prøvetakeren kan spyles med inertgass. Det skal sikres at det ikke er lekkasje mellom kalibreringsgassen og prøven.
+(2) En manuell prøvetaker skal kunne fylle en egnet sylinder med en prøve som er representativ for gassen som strømmer i røret i prøvetidspunktet. Prøvetakeren skal inkludere en egnet prøvetakingssonde og isolasjonsventil.

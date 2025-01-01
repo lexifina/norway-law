@@ -1,0 +1,5 @@
+# § 70. Strømningskalibrering av gassmåler
+(1) En gassmåler skal strømningskalibreres. Det skal etableres en kalibreringskurve med minst fem kalibreringspunkter over et strømningsrateområde som dekker målerens arbeidsområde. Ytelseskravene i § 46 andre ledd kommer til anvendelse ved strømningskalibrering av gassmåleren.
+(2) Kalibreringen skal gjennomføres under forhold som er så nær driftsforholdene for måleren som praktisk mulig, og med et representativt fluid.
+(3) Måleren skal kalibreres sammen med oppstrøms rørseksjon. Måleren kan kalibreres i en rørkonfigurasjon tilsvarende målerøret dersom dette gir tilstrekkelig nøyaktighet, og det kan dokumenteres at kalibrering sammen med oppstrøms rørseksjon ikke er teknisk mulig eller vil føre til urimelig høye kostnader.
+(4) Under kalibreringen skal det samles inn data som kan danne basislinje for måleren i bruk, dersom dette er mulig. For en elektronisk måler skal konfigurasjonsdata og sjekksum registreres i løpet av en kalibrering og etter justering.
