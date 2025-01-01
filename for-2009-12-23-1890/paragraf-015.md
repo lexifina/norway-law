@@ -1,0 +1,4 @@
+# § 15. Tilsyn med utlendingen
+Utlendingen skal ha forsvarlig tilsyn og anbringes slik at vedkommende ikke kommer unødig til skade eller utsettes for lidelser, og slik at vedkommende ikke kan påføre andre skade.
+Det skal føres tilsyn med utlendingens helsetilstand. Lege skal straks tilkalles ved behov. Utlending som er syk eller påvirket av alkohol eller andre berusende midler, skal inspiseres hver halvtime, med mindre omstendighetene tilsier hyppigere tilsyn. Det skal tas tilbørlig hensyn til utlendingens nattesøvn. Tidspunktet for de enkelte inspeksjonene og resultatet av disse skal anmerkes i journal.
+Den ansvarlige for internatet tar konkret stilling til hva den enkelte inspeksjon skal bestå i, vurdert ut fra hva som er nødvendig i hvert enkelt tilfelle. Den som utfører inspeksjonen, skal forsikre seg om utlendingens situasjon, herunder om vedkommende trenger legehjelp eller er i en situasjon hvor vedkommende lett kan skade seg selv.
