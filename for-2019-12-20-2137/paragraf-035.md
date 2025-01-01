@@ -1,0 +1,3 @@
+# § 35. Beregning av sikkerhetsavgiften
+Det samlede provenyet for sikkerhetsavgiften skal være lik de kostnadene Avinor har ved å gjennomføre sikkerhetskontroll i tråd med kapittel 3 i forskrift 1. mars 2011 nr. 214 om forebyggelse av anslag mot sikkerheten i luftfarten mv. og forordning (EF) nr. 300/2008 om felles bestemmelser om sikkerhet i sivil luftfart og om oppheving av forordning (EF) nr. 2320/2002. Kostnader forbundet med særskilt sikkerhetskontroll, regulert i avtale som nevnt i § 39, holdes utenfor kostnadsbasen nevnt i første punktum.
+Avgiften fastsettes ved å dividere kostnadene beregnet etter første ledd på antatt antall avreisende passasjerer beregnet etter regelen i § 34.

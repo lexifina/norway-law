@@ -1,0 +1,2 @@
+# § 16. Hvem som er avgiftspliktig
+Plikten til å svare avgift påhviler fartøyets eier. Er fartøyet overlatt til en lisensiert operatør eller operatør med driftstillatelse til bruk for egen regning, er brukeren ansvarlig for avgiften. På samme måten er enhver bruker ansvarlig for avgiften når luftfartøy som ikke benyttes i ervervsmessig luftfart overlates denne til bruk for egen regning. Ved betaling før luftfartøy forlater startplass, er fartøysjef ansvarlig for avgiftsbetaling.

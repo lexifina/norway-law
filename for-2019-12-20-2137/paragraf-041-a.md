@@ -1,0 +1,2 @@
+# § 41a. Opplysninger til beregning av startavgift
+Avinor kan kreve at operatør av avgiftspliktig luftfartøy fremlegger dokumentasjon fra norsk eller utenlandsk myndighet for at de vektene som oppgis som grunnlag for beregningen av startavgiften er korrekt. Ved mangelfull eller for sen rapportering av informasjon skjer beregningen i tråd med § 4 nr. 3 siste punktum. Opplysninger om flybevegelser skal rapporteres elektronisk.

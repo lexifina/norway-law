@@ -1,0 +1,2 @@
+# § 24. Beregning av startavgift for fly under 8 000 kg
+Startavgift for luftfartøy som har høyeste tillatte startvekt lavere enn 8 000 kg beregnes ved å multiplisere satsen for full avgift per tonn i henhold til § 23 første ledd bokstav a med følgende faktorer:Luftfartøyets høyeste tillatte startvekt i kgfaktor0-1 0002,611 001-1 5003,211 501-2 0004,502 001-2 5001,142 501-3 0001,263 001-4 0002,434 001-5 0003,105 001-6 0003,726 001-7 0008,397 001-8 00012,64

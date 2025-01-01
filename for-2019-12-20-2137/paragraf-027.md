@@ -1,0 +1,2 @@
+# § 27. «Touch-and-go»-flygninger
+Ved «touch-and-go»-flygninger betales kun én startavgift for hver gjennomførte serie. Med en serie menes at «touch-and-go»-flygningene foregår tett på hverandre uten at stopp eller inn-/utlasting foregår på lufthavnen. Serien må være knyttet til en og samme lufthavn. Dersom siste start i en slik serie er avreise til en annen lufthavn, regnes denne starten som en avgiftspliktig enkeltflygning.

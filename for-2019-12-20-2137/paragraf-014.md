@@ -1,0 +1,4 @@
+# § 14. Nettverksfinansiering og bruk av kommersielle inntekter
+De lufthavnene Avinor driver skal finansieres som ett samlet nettverk (samfinansiering). Det kreves ikke at kostnadene for å drive den enkelte lufthavnen i nettverket skal stå i forhold til de avgiftene de avgiftspliktige betaler for å bruke vedkommende lufthavn.
+Avgiftene skal være de samme på alle Avinors lufthavner når ikke noe annet er bestemt i, eller i medhold av, uttrykkelige unntaksbestemmelser i denne forskriften.
+Avinors kommersielle inntekter skal brukes til å finansiere selskapets drift av lufthavner i den grad det er forenlig med selskapets vedtekter («single till-prinsippet»). Unntak gjelder for tjenester som ytes til kontinentalsokkelflygninger som er omfattet av særskilt vedtak etter § 17 annet ledd, startavgift for fraktflygninger etter § 23 og sikkerhetsavgift etter § 35.

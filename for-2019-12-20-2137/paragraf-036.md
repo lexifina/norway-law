@@ -1,0 +1,2 @@
+# § 36. Hva det betales avisingsavgift for
+Det betales avisingsavgift for håndtering av brukt flyavisingsvæske. Med håndtering menes transport, mellomlagring, behandling, destruksjon eller annen sluttdisponering av brukt flyavisingsvæske etter at denne er samlet opp av Avinor. Som sluttdisponering regnes rensing av oppsamlet flyavisingsvæske i renseanlegg, gjenvinning til ny flyavisingsvæske eller til ren glykol og destruksjon ved forbrenning eller lignende.
