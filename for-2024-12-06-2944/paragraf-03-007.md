@@ -1,0 +1,4 @@
+# § 3-7. Kamplengde
+Utøvelse av kamper som består av runder, skal maksimalt utgjøre 36 minutter effektiv kamptid per døgn per utøver. En sammenhengende runde skal maksimalt utgjøre tre minutter effektiv kamptid. Det skal være minst ett minutts pause mellom hver runde. Dersom en utøver deltar i flere kamper på ett døgn, kan samlet effektiv kamptid pr. døgn ikke overstige 36 minutter. I tilfelle en utøver deltar i mer enn én kamp pr. døgn, skal det være minst én times pause mellom kampene.
+Godkjenningsnemnda kan gi samtykke til unntak fra første ledd for kampaktiviteter med lav til moderat skaderisiko. Det kan likevel ikke gjøres unntak fra første ledd første og fjerde punktum.
+Utøvere som går kamper med effektiv kamptid på over 24 minutter, kan ha en maksimal kamptid på 120 minutter per år.
