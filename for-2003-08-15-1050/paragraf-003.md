@@ -1,0 +1,2 @@
+# § 3. Forbud mot salg mv. av våpen og relatert materiell
+Det er forbudt å selge, levere, overføre eller eksportere, direkte eller indirekte, våpen og relatert materiell av enhver type, samt reservedeler til slikt materiell, til enhver fysisk eller juridisk person, enhet eller ethvert organ i, eller til bruk i, Republikken Zimbabwe. Forbudet gjelder uansett om varene har norsk opprinnelse eller ikke.
