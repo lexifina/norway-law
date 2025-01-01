@@ -8,3 +8,4 @@ For etablerte verneområder kan Kongen delegere adgangen til å foreta følgende
 1) endre verneområdets navn
 2) rette opp feil og unøyaktigheter i beskrivelsen av verneområdet
 3) foreta grenseendringer som omfatter mindre arealer og som ikke får nevneverdig betydning for private interesser.
+4) fastsette bestemmelse om forvaltningsmyndighet og annen myndighet etter loven, jf. § 62.
