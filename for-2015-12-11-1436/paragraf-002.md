@@ -1,0 +1,7 @@
+# § 2. Innarbeiding av forordning (EU) nr. 101/2011
+(1) Forordning (EU) nr. 101/2011 om restriktive tiltak mot visse personer, enheter og organer i lys av situasjonen i Tunisia med senere endringer gjelder som forskrift i sin vedlagte form, og med de tilpasninger som følger av denne bestemmelsen.
+(2) Henvisningene til medlemsstat, medlemsstaten, medlemsstater, EU og Den europeiske union skal forstås som «Norge», med følgende unntak:
+a) «EU» i artikkel 5 og artikkel 6 nr. 1 skal forstås som også å omfatte Norge
+(3) Henvisningene til «kompetente myndigheter», også i enkelte tilfeller med referanser til nettsidene oppført i Vedlegg II, skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+(4) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstatene og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også følgende bestemmelser EU-interne og kommer ikke til anvendelse: artikkel 10-16. Tilsvarende gjelder Vedlegg II.
+(5) I Vedlegg I til denne forskriften er listen i Vedlegg I til Forordning (EU) nr. 101/2011 erstattet med en lenke til EUs konsoliderte liste med personer, enheter og organer underlagt restriktive tiltak. Vedlegg II til denne forskriften inneholder liste over «kompetente myndigheter» hentet fra Vedlegg II til Forordning (EU) nr. 101/2011.
