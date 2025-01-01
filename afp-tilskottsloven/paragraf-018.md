@@ -1,0 +1,6 @@
+# § 18. Administrasjon – avtalemessige spørsmål og forvaltning av midler
+Partene i de ulike avtalene om avtalefestet pensjon etter kapittel 2 skal etablere et felles organ med et felles styre til behandling av spørsmål om en arbeidstaker fyller vilkårene i § 4 og § 8 fjerde ledd, med eventuelle suppleringer i vedtektene etter § 19. Organet skal videre innkreve premier fra arbeidsgiverne og forvalte innbetalte midler, inkludert å bygge opp fond i samsvar med reglene i kapittel 6. Det felles organet er et eget rettssubjekt og hefter bare for egne forpliktelser.
+Det felles organet skal ha registrert eller statsautorisert revisor og aktuar. Revisor og aktuar skal ha tilgang til alle opplysninger som er nødvendige for utøvelsen av arbeidet.
+Bestemmelsene i §§ 17 og 18 er ikke til hinder for at det felles organet i samsvar med bestemmelser i vedtektene overlater oppgaver til andre.
+Det felles organet plikter å gi opplysninger som gjør det mulig å vurdere om vilkårene i lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 7 andre ledd, § 8 første ledd bokstav a eller § 9 fjerde ledd, eller tilsvarende ordning, er oppfylt.
+Det felles organet plikter å gi opplysninger som gjør det mulig å vurdere om vilkårene for avtalefestet pensjon for medlemmer i kommunal pensjonsordning født i 1963 eller senere, er oppfylt.

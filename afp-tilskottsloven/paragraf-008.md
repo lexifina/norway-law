@@ -1,0 +1,5 @@
+# § 8. Forholdet til andre ytelser
+Pensjon etter kapitlet her ytes ikke til personer som etter fylte 62 år har mottatt uføretrygd fra folketrygden. For personer født i årene 1944 til 1948 ses det i denne sammenhengen bort fra mottak av uførepensjon før 1. januar 2011.
+Tidsrom der uføretrygd ikke er kommet til utbetaling, men vedkommende har hatt rett til å få tilbake uføretrygden etter reglene i folketrygdloven § 12-10 tredje ledd, regnes ikke som tidsrom med mottak av uføretrygd som nevnt i første ledd. Utbetaling av uføretrygd etter fylte 62 år som følge av etteroppgjør for tidsrom før fylte 62 år regnes ikke som mottak av uføretrygd som nevnt i første ledd.
+Personer som har rett til, men som ikke har mottatt uføretrygd etter fylte 62 år, har rett til pensjon etter dette kapitlet dersom vedkommende senest ved uttak av pensjonen sier fra seg uføretrygden med virkning fra fylte 62 år.
+Bestemmelsen i første ledd første punktum gjelder tilsvarende for personer som har mottatt statlig eller kommunal avtalefestet pensjon eller pensjon fra tilsvarende avtale- eller lovfestede ordninger som angitt i vedtektene etter § 19.

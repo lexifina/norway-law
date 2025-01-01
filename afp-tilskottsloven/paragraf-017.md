@@ -1,0 +1,6 @@
+# § 17. Avgjørelsesmyndighet mv.
+Spørsmålet om en arbeidstaker fyller vilkårene i § 4 og § 8 fjerde ledd, med eventuelle suppleringer i vedtektene etter § 19, avgjøres av et administrativt organ etablert av avtalepartene etter § 18. Organets avgjørelser kan påklages til organets styre eller til slikt organ som styret bestemmer. Vedtektene etter § 19 gir regler om klagefrist mv.
+Arbeids- og velferdsetaten avgjør andre spørsmål om retten til pensjon og kompensasjonstillegg enn nevnt i første ledd, inkludert beregning av ytelsene. Avgjørelsene kan påklages til overordnet organ innen etaten etter reglene i folketrygdloven § 21-12, og deretter ankes inn for Trygderetten etter reglene i lov 16. desember 1966 nr. 9 om anke til Trygderetten.
+Arbeids- og velferdsetaten foretar utbetaling av pensjon og kompensasjonstillegg og utarbeidelse av statistikk mv. Etaten skal også utbetale eventuelle avtalte tillegg til avtalefestet pensjon, forutsatt at et tillegg til pensjon etter kapittel 2 gis med samme prosentsats til alle pensjonister.
+Avgjørelsene etter første og andre ledd kan ikke bringes inn for domstolene før mulighetene til å klage og anke er nyttet fullt ut.
+Utgiftene ved Arbeids- og velferdsetatens arbeid bæres av staten. Det samme gjelder utgiftene ved Trygderettens arbeid med ankesakene.

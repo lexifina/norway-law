@@ -1,0 +1,3 @@
+# § 1. Formål
+Loven her angir vilkårene for statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat sektor etter avtale mellom landsomfattende organisasjoner av arbeidsgivere og arbeidstakere eller mellom bedrifter og landsomfattende organisasjoner av arbeidstakere.
+Avtaler som nevnt må omfatte alle arbeidstakere i den enkelte bedrift som avtalen gjelder for, med unntak av arbeidstakere som etter lov eller tariffavtale har lavere aldersgrense enn 62 år. Det kan i vedtekter etter § 19 gis en nærmere definisjon av «bedrift» og bestemmes at nærmere angitte grupper av arbeidstakere skal unntas fra, eller inkluderes i, virkeområdet for avtalefestet pensjon.
