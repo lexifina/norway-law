@@ -1,0 +1,6 @@
+# § 2. Innarbeiding av forordning (EU) 2019/1716
+(1) EUs vedlagte forordning (EU) 2019/1716 om restriktive tiltak i lys av situasjonen i Nicaragua gjelder som forskrift i sin vedlagte form, og med de tilpasninger som følger av denne bestemmelsen.
+(2) Henvisningene til medlemsstater skal forstås som «Norge».
+(3) Henvisningene til medlemsstatenes kompetente myndigheter skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+(4) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater, eller mellom medlemsstater og Kommisjonen, kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også artikkel 1 bokstav h og artiklene 12, 13 og 15 til 19 EU-interne, og kommer ikke til anvendelse. Det samme gjelder forordningens vedlegg II.
+(5) Listen i forordningens vedlegg I er i denne forskriften erstattet med lenke til EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak. De opplysningene som er nevnt i vedlagte forordnings artikkel 14, fremkommer derfor ikke direkte av den vedlagte forordningens vedlegg I, men finnes ved å konsultere EUs forordning 2019/1716 og etterfølgende endringsforordninger.
