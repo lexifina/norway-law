@@ -1,0 +1,3 @@
+# § 4. Tilskot ved sjukdom
+Det kan gjevast tilskot ved sjukdom dersom den personen som det vert søkt tilskot til avløysing av er yngre enn 70 år og sjukemeldt frå arbeid i føretaket. Det kan òg gjevast tilskot utan at sjukemelding ligg føre, dersom personen i samband med eigen sjukdom eller skade har vore til naudsynt behandling, kontroll eller undersøking på sjukehus eller hos spesialist godkjend av det offentlege.
+Tilskot etter første ledd stansar når det er utbetalt tilskot for personen i til saman 425 dagar i løpet av dei tre siste åra. Teljinga av dagar tek til på nytt kvar gong det er gått 26 samanhengande veker sidan den siste dagen i den føregåande perioden det har vore utbetalt tilskot for.
