@@ -2,7 +2,7 @@
 (1) Finanstilsynet kan forby advokater å drive eiendomsmegling, jf. § 2-1 første ledd nr. 2, dersom det finnes utilrådelig å la eiendomsmeglingsvirksomheten drives videre fordi advokaten:
 1) ikke lenger har advokatbevilling,
 2) ikke lenger oppfyller kravet i § 2-6 annet ledd,
-3) har latt være å etterkomme pålegg gitt av Finanstilsynet eller Tilsynsrådet for advokatvirksomhet,
+3) har latt være å etterkomme pålegg gitt av Finanstilsynet eller Advokattilsynet,
 4) grovt eller gjentatte ganger har overtrådt sine plikter etter lov eller forskrifter.
 5) har gjort seg skyldig i mislige forhold som gir grunn til å frykte at en fortsettelse av eiendomsmeglingsvirksomheten kan være til skade for allmenne interesser, eller
 6) ikke innen den frist som er fastsatt av Finanstilsynet oppfyller pålegg om å slutte seg til utenrettslig tvisteløsningsordning.
