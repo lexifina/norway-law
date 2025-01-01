@@ -1,0 +1,5 @@
+# § 4-3. Dødelighet og forventet gjenstående levetid
+Sannsynligheten for at en person i et årskull dør i en gitt alder fram til og med 59 år, beregnes ved gjennomsnittlig dødelighet i de to kalenderårene årskullet er i den gitte alderen, se vedlegg formel (1a).
+Sannsynligheten for at en person i et årskull dør i en gitt alder fra og med 60 år, beregnes ved gjennomsnittlig dødelighet for denne alderen i de ti siste kalenderårene før årskullet fyller 61 år. For høye aldre hvor Statistisk sentralbyrå ikke publiserer dødelighetssannsynligheter for det enkelte år, settes sannsynligheten i den videre beregningen til 1, se vedlegg formel (1b).
+Sannsynlighetene beregnet etter første og andre ledd benyttes til å beregne sannsynligheten for at en person i et årskull overlever til en gitt alder ved å justere for årskullets sannsynlighet for å dø frem til denne alderen, se vedlegg formel (2).
+Ved beregning av gjenstående levetid ved ulike uttaksaldre fra og med 62 år til og med 75 år skal det tas hensyn til at dødsfall skjer mellom aldre målt i hele år, se vedlegg formel (3).

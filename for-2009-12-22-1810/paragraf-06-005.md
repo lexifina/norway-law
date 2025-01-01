@@ -1,0 +1,5 @@
+# § 6-5. Omregning av pensjon ved endring i medlemskap etter uttak
+Ved endring i medlemskap i trygden som påvirker retten til pensjon etter folketrygdloven § 19-3, skal pensjon under utbetaling omregnes etter § 6-4 andre til fjerde ledd.
+Dersom bortfalt medlemskap medfører at retten til å få pensjon utbetalt faller bort, skal pensjonen likevel omregnes til restpensjon etter folketrygdloven § 19-12 andre ledd som om pensjonen er stanset. Dersom vedkommende senere igjen blir medlem i trygden, beregnes ny pensjon på bakgrunn av restpensjonen etter folketrygdloven § 19-12 første ledd.
+Restpensjon beregnes som om vedkommende er medlem i trygden.
+Dersom en person som ikke er medlem i trygden endrer uttaksgrad, skal pensjon under utbetaling omregnes etter § 6-4 andre til fjerde ledd som om vedkommende hadde blitt medlem i trygden. Pensjon under utbetaling og restpensjon omregnes deretter etter folketrygdloven § 19-12, og ny pensjon under utbetaling beregnes etter § 6-4 andre til fjerde ledd på grunnlag av faktisk medlemstilknytning.

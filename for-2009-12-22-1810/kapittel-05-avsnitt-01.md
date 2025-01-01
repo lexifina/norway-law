@@ -1,0 +1,1 @@
+# I. Særtillegg for pensjonistpar

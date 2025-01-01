@@ -1,0 +1,3 @@
+# § 3-5. Overføring av omsorgsopptjeningen mellom omsorgsyterne
+Omsorgsytere som i et år var sammen om omsorgen for ett eller flere barn, kan overføre omsorgsopptjeningen for dette året til den av dem som ikke er barnetrygdmottaker. Dette gjelder ikke når opptjeningen ved omsorgsarbeid inngår i beregningsgrunnlaget for en alderspensjon eller avtalefestet pensjon som allerede har blitt eller blir utbetalt. Tilsvarende gjelder når omsorgsopptjening gitt i medhold av folketrygdloven § 3-16 før 1. januar 2015 inngikk i beregningsgrunnlaget for en uførepensjon.
+Omsorgsopptjening etter paragrafen her kan bare overføres dersom omsorgspoeng samtidig overføres etter forskrift gitt i medhold av folketrygdloven § 3-16.

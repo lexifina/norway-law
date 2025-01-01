@@ -1,0 +1,2 @@
+# § 3-13. Pleieforhold som strekker seg over flere kalenderår
+Dersom det er truffet vedtak om å gi omsorgsopptjening for ett kalenderår, gis det omsorgsopptjening for påfølgende kalenderår uten at det er nødvendig å sette fram nytt krav etter § 3-10. Omsorgsyteren skal likevel bekrefte om omsorgsforholdet består og om det i det vesentligste har samme omfang som før. Som ledd i stikkprøvekontroll kan Arbeids- og velferdsetaten kreve at kommunen gir attest som nevnt i § 3-12.

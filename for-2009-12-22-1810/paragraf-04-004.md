@@ -1,0 +1,2 @@
+# § 4-4. Delingstall
+Delingstall etter folketrygdloven § 20-13 beregnes etter den matematiske formelen som er beskrevet i vedlegg formel (4). Delingstallet fremkommer ved at det tas hensyn til forholdet mellom regulering av pensjon under utbetaling og diskonteringsrenten og til forholdet mellom årskullets sannsynlighet for å overleve fram til uttaksalder og årskullets gjennomsnittlige sannsynlighet for å overleve fram til alderen 27 til 66 år, jf. § 4-3.

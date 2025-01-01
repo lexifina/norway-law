@@ -1,0 +1,4 @@
+# § 2-6. Pensjonsopptjening for fiskere og fangstmenn som mottar arbeidsledighetstrygd i fiske
+For fiskere og fangstmenn som har mottatt arbeidsledighetstrygd etter forskrift 26. januar 1990 nr. 67 om arbeidsledighetstrygd i fiske, skal inntekten for pensjonsopptjeningen tilsvare utbetalt arbeidsledighetstrygd i kalenderåret eksklusive barnetillegg, multiplisert med en faktor f lik:\(f=\frac{100\%}{A}\)
+A skal være årlig kompensasjonsgrad for dagpenger etter folketrygdloven § 4-12. Satsen for dagpenger utgjorde 2,4 promille pr. 31. desember 2009 og dagpenger utbetales for fem dager pr. uke, hvilket gir en årlig kompensasjonsgrad på 62,4 prosent.
+I inntekten for pensjonsopptjening som framkommer etter første ledd skal det gjøres fradrag for utbetalt arbeidsledighetstrygd i fiske i samme kalenderår.

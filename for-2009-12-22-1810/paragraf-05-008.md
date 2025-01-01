@@ -1,0 +1,4 @@
+# § 5-8. Beregning av minste pensjonsnivå og tillegg til pensjonen
+Minste pensjonsnivå for personen omfattet av § 5-7 beregnes etter reglene i § 5-4 første ledd første punktum. Minste pensjonsnivå for ektefellen som mottar avtalefestet pensjon som nevnt i folketrygdloven § 3-19, beregnes som gjeldende minste pensjonsnivå med ordinær sats, avkortet for trygdetid. Samlet minste pensjonsnivå for pensjonistparet settes lik summen av hver av ektefellenes minste pensjonsnivå.
+Dersom pensjonistparets samlede pensjon etter § 5-9 er lavere enn samlet minste pensjonsnivå etter første ledd, skal det utbetales et tillegg lik differansen mellom samlet minste pensjonsnivå og samlet pensjon. Tillegget utbetales til personen omfattet av § 5-7.
+Tillegg til pensjonen etter andre ledd kan kun ytes dersom vilkårene i § 5-7 har vært oppfylt i en uavbrutt periode fra og med virkningstidspunktet for omregningen nevnt i § 5-7 første ledd bokstav b. Se også § 5-10 andre ledd.

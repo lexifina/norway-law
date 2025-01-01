@@ -1,0 +1,2 @@
+# § 10A-5. Samlet pensjon skal minst utgjøre minste pensjonsnivå
+Dersom gjenlevende ektefelle mottar hel alderspensjon og summen av utbetalt egenopptjent alderspensjon og gjenlevendefordel blir lavere enn satsen for minste pensjonsnivå som vedkommende har rett til etter folketrygdloven § 19-8, skal differansen utbetales som et tillegg til pensjonen. Som utbetalt pensjon etter denne bestemmelsen inngår også ytelser som kan medregnes ved tidliguttak etter folketrygdloven § 19-11 tredje ledd. Se også folketrygdloven § 19-15 andre ledd
