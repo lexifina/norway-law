@@ -1,0 +1,9 @@
+# § 3. Krav om ekomnettautorisasjon
+Det kreves autorisasjon for virksomhet som er ansvarlig for installasjon og vedlikehold av offentlige og private ekomnett bygget med fiberoptisk kabel, koaksial- eller parkabel, radio eller annen teknologi.
+Det kreves ikke autorisasjon for installasjon av ekomnett når alt installasjonsmateriell og utstyr som inngår i nettet er spesielt fremstilt for å kunne installeres av personer uten særskilt faglig kompetanse.
+Autorisasjon gis av Nasjonal kommunikasjonsmyndighet. Søknad om autorisasjon skal skje på fastsatt skjema vedlagt kopier av vitnemål, attester mv. for kvalifisert person, jf. § 5. Autorisasjonen er gyldig inntil den sies opp av virksomheten eller tilbakekalles av Nasjonal kommunikasjonsmyndighet.
+Ved skifte av kvalifisert person skal det søkes om endring av autorisasjon. Ved endring av virksomhet som medfører nytt organisasjonsnummer, skal det søkes om ny autorisasjon.
+Adresseendring, navneendring og opphør av virksomhet skal straks meldes til Nasjonal kommunikasjonsmyndighet.
+Virksomhet som har autorisasjon som teleinstallatør, kabel-TV-installatør eller radioinstallatør etter forskrift 4. mars 2005 nr. 200 om autorisasjon for installatør av elektronisk kommunikasjonsnett og radioutstyr, opprettholder autorisasjonen uten å oppfylle kravene i § 5 annet ledd forutsatt at kvalifisert person eller organisasjonsnummer ikke endres.
+Kvalifisert person godkjent etter forskrift 4. mars 2005 nr. 200 om autorisasjon for installatør av elektronisk kommunikasjonsnett og radioutstyr, som kan dokumentere tilleggsutdanning tilsvarende fordypningsmodul i elektroniske kommunikasjonsfag, kan godkjennes som kvalifisert person.
+Forskriften medfører ingen innskrenkninger i krav til autorisert virksomhet som gjelder sertifisering o.l. etter andre lover eller forskrifter.
