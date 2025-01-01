@@ -1,0 +1,2 @@
+# § 13. (dispensasjon fra fredningsbestemmelsene)
+Når vitenskapelige eller særlige grunner, eksempelvis lagring av sikkerhets- og beredskapsutstyr, og etablering og vedlikehold av nødvendige navigasjonshjelpemidler og styringssystemer for petroleumsproduksjon i forbindelse med eventuell fremtidig leteboring eller drift av petroleumsfelt i havområdene utenfor Bjørnøya taler for det, kan forvaltningsmyndigheten dispensere fra fredningsbestemmelsene i kapittel II, dersom det ikke strider mot fredningsforskriftens formål eller ikke vil påvirke verneverdiene nevneverdig.
