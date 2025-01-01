@@ -1,0 +1,3 @@
+# § 7. (avstand fra fritidshytter, bebodd bebyggelse og kulturminner)
+Telting eller leiropphold er forbudt i en avstand av 100 meter fra fritidshytter og bebodd bebyggelse uten tillatelse fra eier eller den som på eiers vegne har rådighet over fritidshytte eller bebyggelse.
+Innenfor sikringssonen rundt automatisk fredete kulturminner er telting, leiropphold, bålbrenning og lignende forbudt. Telting på frossen og snødekket mark er likevel tillatt i sikringssonen. Sikringssonen er området rundt den synlige eller kjente ytterkant på et fast kulturminne i utstrekning 100 meter i alle retninger, om ikke Sysselmesteren har fastsatt en annen avgrensning.
