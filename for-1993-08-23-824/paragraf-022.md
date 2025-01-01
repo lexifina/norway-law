@@ -1,0 +1,2 @@
+# § 22
+Ved tilgang til bosider og bruk av elektronisk kommunikasjon under konkursbehandling, må det benyttes en betryggende metode som sikrer bl.a. bekreftelse av partenes identitet eller fullmakter (autentisering), at data ikke utilsiktet eller urettmessig endres (integritet), beskyttelse av informasjon mot innsyn fra uvedkommende (konfidensialitet) og notoritet over dokumentets innhold. Personvernforordningen artikkel 32 om personopplysningssikkerhet gjelder tilsvarende.

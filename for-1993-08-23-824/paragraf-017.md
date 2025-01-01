@@ -1,0 +1,4 @@
+# § 17
+Opplysninger om konkursbo eller tvangsavviklingsbo som gjelder fysiske personer skal slettes ett år etter avsluttende kjennelse eller utlodning. Opplysninger om konkursbo eller tvangsavviklingsbo som gjelder juridiske personer skal slettes tre år etter avsluttende kjennelse eller utlodning.
+Opplysninger om gjeldsforhandlinger etter konkursloven i boet til fysiske personer skal slettes ett år etter gjeldsforhandlingens avslutning, jf. konkursloven kapittel VII. Opplysninger om gjeldsforhandlinger etter konkursloven i boet til juridiske personer skal slettes tre år etter avslutningen.
+Før sletting etter første eller annet ledd skal opplysningene lagres og oppbevares tilgjengelig kun for forskning. Den som mottar opplysninger er underlagt taushetsplikt etter reglene i forvaltningsloven § 13e. Opplysningene skal også være tilgjengelige for den de gjelder.
