@@ -1,0 +1,3 @@
+# § 4. Forventet arbeidsinntekt
+Tjenestepensjonsordningen fastsetter forventet arbeidsinntekt i samsvar med folketrygdloven § 17A-6 inntil forventet arbeidsinntekt eventuelt blir fastsatt av Arbeids- og velferdsetaten.
+Når tjenestepensjonsordningen mottar melding om arbeidsinntekten som er lagt til grunn i folketrygden, og det har vært fastsatt en midlertidig arbeidsinntekt etter første ledd, skal pensjonen omregnes etter folketrygdens arbeidsinntekt med virkning fra tidspunktet pensjonen fra folketrygden startet. Er folketrygdens arbeidsinntekt høyere enn arbeidsinntekten som er fastsatt midlertidig etter første ledd, skal omregningen av pensjonen gjennomføres fra det tidspunktet pensjonen tidligst etter vanlige rutiner lar seg endre med virkning framover.
