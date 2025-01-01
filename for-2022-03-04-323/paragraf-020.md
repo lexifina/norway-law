@@ -1,0 +1,2 @@
+# § 20. Endringer i andre forskrifter
+Fra den tid forskriften trer i kraft oppheves forskrift 4. desember 1992 nr. 904 om rettshjelpforsikring, forskrift 4. desember 1992 nr. 905 om hvilken valuta en forsikringsgivers forpliktelse skal innfris i, forskrift 5. mai 1995 nr. 581 om opplysningsplikt for avtaler om livsforsikring og forskrift 3. mai 2007 nr. 469 om forsikringsselskapers opplysningsplikt for avtaler om annen forsikring enn livsforsikring.

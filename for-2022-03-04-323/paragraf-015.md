@@ -1,0 +1,8 @@
+# § 15. Hvilken valuta en forsikringsgivers forpliktelse skal innfris i
+Når forsikringssummen i en avtale er uttrykt i en bestemt valuta, skal forsikringsgiveren innfri sine forpliktelser i denne valutaen.
+Når forsikringssummen i en avtale ikke er uttrykt i en valuta, skal forsikringsgiveren innfri sine forpliktelser i valutaen i den staten der risikoen består. Forsikringsgiveren kan likevel velge den valutaen som premien er uttrykt i, dersom det finnes en rimelig begrunnelse for et slikt valg. Dette kan være tilfelle dersom det allerede når avtalen inngås, virker sannsynlig at en skade vil bli betalt i premievalutaen og ikke i valutaen i den staten der risikoen består.
+Forsikringsgiveren kan gå ut fra at den valutaen som forsikringssummen skal betales i, vil være enten den som erfaringsmessig brukes, eller, i mangel av slik erfaring, valutaen i den staten der vedkommende er etablert:
+a) for avtaler som dekker risikoer i klasse 4, 5, 6, 7, 11, 12 og 13 (bare produktansvar) i vedlegg I til direktiv 2009/138/EF
+b) for avtaler som dekker risikoer i andre klasser når forsikringssummen etter risikoens art skal betales i en annen valuta enn den som ville følge av ovennevnte regler.
+Når en skade er meldt til forsikringsgiveren og skal dekkes i en bestemt valuta som ikke er den som følger av første til tredje ledd, skal forsikringsgiverens forpliktelser dekkes i denne valutaen, særlig når den valutaen som erstatningen skal utbetales i, er fastsatt ved rettsavgjørelse eller ved avtale mellom forsikringsgiveren og den sikrede.
+Når en skade takseres i en valuta som er kjent av forsikringsgiveren på forhånd, men som er forskjellig fra den som følger av reglene foran, kan forsikringsgiverne dekke sine forpliktelser i denne valutaen.

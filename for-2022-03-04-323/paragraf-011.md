@@ -1,0 +1,2 @@
+# § 11. Gjennomføring av forordning
+EØS-avtalen vedlegg IX nr. 13ec (gjennomføringsforordning (EU) 2017/2359 om opplysningskrav og regler om god forretningsskikk i forbindelse med distribusjon av forsikringsbaserte investeringsprodukter, som endret ved delegert kommisjonsforordning (EU) 2018/541 og delegert kommisjonsforordning (EU) 2021/1257 gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 og avtalen for øvrig.
