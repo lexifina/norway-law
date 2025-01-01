@@ -1,0 +1,5 @@
+# § 19. Straff
+Forsettlig eller uaktsom overtredelse § 6, § 13 første ledd, §§ 14 og 15 straffes med bot etter lov 21. juni 2019 nr. 70 om havner og farvann § 51 første ledd.
+Forsettlig overtredelse av bestemmelsene i § 6 og §§ 13 til 15, på en slik måte at det inntrer eller oppstår fare for betydelig skade på liv eller helse, miljø eller materielle verdier, straffes med bot eller fengsel inntil to år etter lov 21. juni 2019 nr. 70 om havner og farvann § 51 andre ledd.
+Grovt uaktsom overtredelse av bestemmelsene i § 6 og §§ 13 til 15, på en slik måte at det inntrer eller oppstår fare for betydelig skade på liv eller helse, straffes med bot eller fengsel inntil ett år etter lov 21. juni 2019 nr. 70 om havner og farvann § 51 tredje ledd.
+Forsettlig eller uaktsom overtredelse av § 16 straffes med bot eller fengsel inntil ett år etter lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold § 6 og lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 11-4.
