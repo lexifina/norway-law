@@ -1,0 +1,2 @@
+# § 1 a.
+Formålet med denne lova er å tryggje planlegging, bygging, vedlikehald og drift av offentlege og private vegar, slik at trafikken på dei kan gå på eit vis som trafikantane og samfunnet til ei kvar tid kan vere tente med. Det er ei overordna målsetting for vegstyremaktene å skape størst mogleg trygg og god avvikling av trafikken og ta omsyn til grannane, eit godt miljø og andre samfunnsinteresser elles.

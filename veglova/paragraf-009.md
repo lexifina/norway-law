@@ -1,0 +1,4 @@
+# § 9.
+Statens vegvesen med eit Vegdirektorat er vegstyremakt for riksvegar, under leiing av ein vegdirektør. Departementet gir nærare føresegner om korleis Statens vegvesen skal vere organisert, og kva styringsområde det skal ha. Departementet kan gi føresegn om at styremakt som Statens vegvesen har til å gjere vedtak som gjeld utbygging, drift og vedlikehald av bestemte riksvegar, skal leggjast til eit statleg utbyggingsselskap for veg. Statens vegvesen kan i forskrift bestemme at styremakt som gjeld utbygging, drift og vedlikehald av riksvegar, skal leggjast til fylkeskommunen og kommunen.
+Vegstyremakt for fylkesvegar er fylkeskommunen. Fylkeskommunen kan i forskrift bestemme at styremakt som gjeld utbygging, drift og vedlikehald av fylkesveg, skal leggjast til Statens vegvesen og kommunen.
+Vegstyremakt for kommunale vegar er kommunen.

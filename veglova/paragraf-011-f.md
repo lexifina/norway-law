@@ -1,0 +1,3 @@
+# § 11 f. Handsaming av personopplysningar
+Vegstyremaktene etter kapittel II og tilsynsmyndigheita etter kapittel II A kan handsame personopplysningar når det er naudsynt for å utføre oppgåver gitt i eller i medhald av lova her, eller for å oppfylle internasjonale plikter under verkeområdet til lova. Det same gjeld eit statleg utbyggingsselskap for veg som er tildelt oppgåver i medhald av § 9 første ledd.
+Departementet kan gi forskrift om handsaming av personopplysningar, slik som føresegner om formålet med handsaminga, kva for opplysningar som kan handsamast, korleis opplysningar skal handsamast, vilkår for eventuell utlevering, bruk av datahandsamar, krav til sletting og krav til samanstillingar av personopplysningar til bruk for forsking og statistiske formål.
