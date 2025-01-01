@@ -1,0 +1,2 @@
+# § 6. (overførsel til frosne konti)
+Paragraf 3 nr. 2 skal ikke hindre finans- eller kredittinstitusjoner i å godskrive frosne konti når de får overført penger til konti som tilhører listeførte fysiske eller juridiske personer, enheter, organer eller grupper, forutsatt at også de godskrevne beløpene fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette Direktoratet for eksportkontroll og sanksjoner om slike transaksjoner.
