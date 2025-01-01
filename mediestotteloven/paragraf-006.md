@@ -1,0 +1,3 @@
+# § 6. Produksjonstilskudd til samiske nyhets- og aktualitetsmedier
+Produksjonstilskuddet til samiske nyhets- og aktualitetsmedier skal legge til rette for demokratisk debatt og meningsdanning i det samiske samfunnet og stimulere til produksjon av et bredt journalistisk innhold rettet mot den samiske befolkningen. Ordningen skal også fremme utvikling av de samiske språkene. Tilskudd kan gis til nyhetsmedier som har den samiske befolkningen som hovedmålgruppe, eller som fast og regelmessig publiserer samiskspråklig nyhets- og aktualitetsinnhold.
+Tilskuddet gis som driftstilskudd. Vilkårene for å motta tilskudd skal i størst mulig grad være objektive og bidra til forutsigbarhet for tilskuddsmottagerne.

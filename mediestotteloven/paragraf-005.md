@@ -1,0 +1,3 @@
+# § 5. Produksjonstilskudd til nyhets- og aktualitetsmedier
+Produksjonstilskuddet til nyhets- og aktualitetsmedier skal stimulere til et mangfold av tekstbaserte nyhets- og aktualitetsmedier over hele landet, med et bredt journalistisk innhold rettet mot allmennheten. Videre skal ordningen fremme uavhengig journalistikk karakterisert ved høy kvalitet, særlig i nyhets- og aktualitetsmedier i markeder som er for små til å være bærekraftige, eller i nyhets- og aktualitetsmedier som er alternativer til de ledende nyhetsmediene i de ulike mediemarkedene.
+Produksjonstilskuddet gis som driftstilskudd. Vilkårene for å motta tilskudd skal i størst mulig grad være objektive og bidra til forutsigbarhet for tilskuddsmottagerne.
