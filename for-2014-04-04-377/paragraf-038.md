@@ -1,0 +1,2 @@
+# § 38. Regulering av ferdsel
+Miljødirektoratet kan i forskrift regulere og forby ferdselen innenfor nærmere avgrensa deler av land og sjø dersom det anses nødvendig for å unngå forstyrrelse av dyrelivet, slitasje på vegetasjonen eller kulturminner eller for å bevare områdenes verdi som referanseområde for forskning. Gjennomfarten i Hinlopenstretet, Heleysundet og Freemansundet kan ikke reguleres.
