@@ -1,0 +1,3 @@
+# § 27. Egnethet
+Det skal finnes midler til å begrense virkningene av skråstilling, belastning og arbeidshastighet slik at maksimal verdi for maksimal tillatt målefeil ikke overskrides ved normal drift. Det skal finnes egnede anordninger for materialhåndtering og hensiktsmessig nullstillingsfunksjon slik at catchvekten kan overholde maksimal tillatt målefeil ved normal drift.
+Betjeningsanordningers grenseflater skal være tydelige og effektive. Operatøren skal kunne kontrollere at en eventuell visningsanordning er pålitelig. Resultater som faller utenfor måleområdet, skal identifiseres som slike dersom det er mulig med utskrift.
