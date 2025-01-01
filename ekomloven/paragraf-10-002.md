@@ -1,0 +1,6 @@
+# § 10-2. Plikt til samlokalisering
+Nasjonal kommunikasjonsmyndighet kan pålegge tilbyder av elektronisk kommunikasjonsnett eller tilhørende fasilitet som får ekspropriere etter § 10-1 eller annen tilsvarende lovbestemt rettighet, plikt til å gi annen tilbyder uten tilsvarende rett adgang til samlokalisering eller felles bruk av nettelement og tilhørende fasiliteter, for å verne miljø, folkehelse, offentlig sikkerhet eller for å oppfylle mål for by- og arealplanlegging.
+Samlokalisering, felles bruk av nettelementer, tilhørende fasiliteter eller eiendom kan bare pålegges i spesifikke områder der dette er nødvendig for å nå målene etter første ledd. Pålegg om samlokalisering kan omfatte tilgang til blant annet eiendom, bygninger, kabler og rørganger i bygning, inkludert ledningsnett, antenner, tårn og andre støttekonstruksjoner, stolper, master, kabelkanaler, rør, kummer og fordelerskap.
+Plikter etter første ledd skal være objektive, transparente, forholdsmessige og ikke-diskriminerende.
+Vedtak skal følge prosedyren i § 14-2.
+Departementet kan gi forskrift om samlokalisering for tilbydere, herunder om å utpeke en myndighet som sentral informasjonstjeneste, jf. § 1-4. Departementet kan gi forskrift om fordeling av kostnader ved felles bruk av ressurser eller eiendommer og ved samordning av offentlige bygge- og anleggsarbeider.

@@ -1,0 +1,4 @@
+# § 3-9. Krav om politiattest
+Tilbyder av elektroniske kommunikasjonsnett og -tjenester og datasenteroperatør kan kreve at personer fremlegger uttømmende og utvidet politiattest, jf. politiregisterloven § 41. Politiattest kan kreves for den som har fått tilbud om eller er innstilt til en stilling, og som skal ha tilgang til elektroniske kommunikasjonsnett, tilhørende fasiliteter, datasentre, utstyr, systemer eller informasjon som er av vesentlig betydning for sikkerheten i nett eller tjenester, er taushetsbelagt, eller som av annen grunn er av særlig sensitiv karakter. Slik politiattest kan også kreves for ansatte hos leverandører. Politiattesten skal ikke være eldre enn 90 dager ved fremvisning.
+Det kreves ikke politiattest for personer som innehar gyldig sikkerhetsklarering eller adgangsklarering etter sikkerhetsloven.
+Departementet kan gi forskrift om fremleggelse av politiattest, herunder om hvilke lovbrudd politiattesten skal vise.

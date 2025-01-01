@@ -1,0 +1,9 @@
+# § 11-10. Salg, utleie og annen overføring av tillatelse til bruk av frekvenser
+Innehaver av frekvenstillatelse har rett til å selge, leie ut eller på annen måte overføre tillatelsen. Denne retten gjelder ikke for tillatelser direktetildelt etter § 11-4 eller der adgangen til salg, utleie eller annen overføring er begrenset i tillatelsen.
+Departementet kan i særskilte tilfeller tillate salg, utleie eller annen overføring av frekvenstillatelse direktetildelt etter § 11-4 dersom vilkår for direktetildeling fortsatt vil være oppfylt. Departementet kan også i særskilte tilfeller etter søknad tillate salg, utleie eller annen overføring av frekvenstillatelser der retten til salg, utleie eller annen overføring er begrenset i tillatelsen.
+Før salg eller annen varig overføring av frekvenstillatelse finner sted, skal innehaver informere departementet om den planlagte overføringen.
+Innehaver skal informere departementet før utleie eller annen midlertidig overføring av frekvenstillatelse finner sted, dersom dette kan ha konkurranseskadelig virkning eller konsekvenser for nasjonal sikkerhet.
+Innehaver skal informere departementet om endringer i eiersammensetning eller eierstruktur som kan ha konkurranseskadelig virkning.
+Departementet kan gi pålegg om at salg, utleie eller annen overføring av frekvenstillatelse skal skje i samsvar med fastlagte prosedyrer samt på en måte som bidrar til å sikre konkurranse og harmonisert bruk av frekvensene i tråd med nasjonal frekvensplan. Departementet kan nekte salg, utleie eller annen overføring av frekvenstillatelse for å hindre konkurranseskadelig virkning og når det følger av hensyn som angitt i § 11-2 femte ledd.
+Departementet skal offentliggjøre informasjon om salg og annen varig overføring av frekvenstillatelser.
+Departementet kan gi forskrift om adgang til og vilkår for salg, utleie og annen overføring av frekvenstillatelse.

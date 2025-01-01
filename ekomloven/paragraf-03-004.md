@@ -1,0 +1,3 @@
+# § 3-4. Plikt til å sikre kritiske samfunnsfunksjoner og internasjonalt samarbeid
+Dersom det ikke lykkes å komme frem til en kommersiell løsning innen rimelig tid, kan departementet i særlige tilfeller og når det er nødvendig, pålegge tilbyder å tilby elektroniske kommunikasjonstjenester til virksomheter, organisasjoner og offentlige instanser som ivaretar særlig viktige eller kritiske samfunnsfunksjoner av nasjonal betydning. Departementet kan pålegge tilbyder prisforpliktelser, herunder fastsette prisen, dersom det er nødvendig for å sikre at tiltaket gjennomføres.
+Departementet kan pålegge tilbyder å inngå samarbeid med annen nasjonal eller internasjonal virksomhet når dette følger av viktige nasjonale sikkerhetshensyn eller av internasjonal avtale.
