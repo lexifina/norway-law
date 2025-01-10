@@ -1,0 +1,2 @@
+# § 11. Utgiftsgodtgjørelse for barnepassere
+Utgiftsgodtgjørelse til dekning av merkostnader til kosthold, ekstra kostnader til vask, oppvarming mv. til den som passer andres barn i eget hjem, herunder driver familiebarnehage som næringsvirksomhet i eget hjem, anses ikke som næringsinntekt når godtgjørelsen utgjør 50 prosent av vederlaget for barnepass, men høyst kr 1 413 per måned for hvert barn.

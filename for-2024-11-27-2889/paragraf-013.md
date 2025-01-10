@@ -1,0 +1,2 @@
+# § 13. Godtgjørelse for redskaps- og verktøyhold mv. for skogsarbeidere
+Godtgjørelse til skogsarbeidere på inntil kr 38 per time til dekning av kostnader ved hold av motorsag og annen redskap (avskrivning, vedlikehold og driftskostnader) i sitt arbeid anses ikke å gi trekk- eller skattepliktig overskudd. Overstiger godtgjørelsen satsen, vil merutbetalingen utgjøre et trekk- og skattepliktig overskudd med mindre full kostnadsdokumentasjon fremlegges.

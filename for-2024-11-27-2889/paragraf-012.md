@@ -1,0 +1,2 @@
+# § 12. Godtgjørelse for redskaps- og verktøyhold for bygningsarbeidere
+Godtgjørelse til bygningsarbeidere på inntil kr 3 315 per år for håndverktøy anses ikke å gi trekk- eller skattepliktig overskudd når bygningsarbeideren holder verktøy i sitt arbeid. Overstiger godtgjørelsen satsen, vil merutbetalingen utgjøre et trekk- og skattepliktig overskudd med mindre full kostnadsdokumentasjon fremlegges.
