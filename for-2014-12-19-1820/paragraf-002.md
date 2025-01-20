@@ -1,0 +1,3 @@
+# § 2. Virkeområde
+Forskriften gjelder for tannhelsetjenester som fylkeskommunen har ansvar for, eller yter, etter tannhelsetjenesteloven § 1-3, og gjelder fylkeskommunens plikter både som støttegiver og støttemottaker.
+For tjenester som nevnt i § 5 første ledd bokstav b, gjelder EØS-avtalen vedlegg XV nr. 1h (beslutning 2012/21/EU) og forskrift 2. januar 2023 nr. 2 om unntak fra notifikasjonsplikt for offentlig støtte. For tjenester som nevnt i § 5 første ledd bokstav a, og bokstav c, gjelder de krav som følger av vedtak 113/14/COL fra 12. mars 2014 fra EFTAs Overvåkningsorgan, og alminnelig statsstøtterett.

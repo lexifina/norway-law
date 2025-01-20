@@ -1,0 +1,2 @@
+# § 4. Plikt til å sørge for nødvendige tannhelsetjenester av allmenn økonomisk betydning
+Fylkeskommunen skal tilby nødvendige tannhelsetjenester av allmenn økonomisk betydning i områder av fylket der det ikke foreligger annet tilstrekkelig tilbud fra private tjenesteytere. Fylkeskommunen selv bestemmer i hvilke områder det kan ytes subsidierte tjenester. Ved vurderingen skal det særlig legges vekt på befolkningstetthet og tjenestebehov, tilgjengelighet til private tannhelsetilbud, reiseavstand til nærmeste behandlingstilbud og hensynet til hensiktsmessig klinikkdrift.
