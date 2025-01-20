@@ -1,0 +1,2 @@
+# § 3. Forholdet til kommuneloven og regnskapsloven
+Regler gitt i og i medhold av lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner, herunder bestemmelser om årsregnskap og årsberetning og om internkontroll og revisjon, gjelder for de forskjellige deler av fylkeskommunens virksomhet, med de særlige bestemmelser som følger av forskriften her. Forskriften her gjelder i tillegg til regler gitt i medhold av lov 17. juli 1998 nr. 56 om årsregnskap m.v.
