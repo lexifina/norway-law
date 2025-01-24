@@ -1,0 +1,12 @@
+# § 1-2. Definisjoner
+(1) Eksamen: En vurdering hvor resultatet skal inngå på vitnemålet eller karakterutskriften eller innregnes i en karakter på vitnemålet eller karakterutskriften.
+(2) Emne: De minste resultatbærende enhetene som gir uttelling i form av studiepoeng.
+(3) Læringsutbyttebeskrivelse: En beskrivelse av hva studenten skal ha oppnådd av kunnskaper, ferdigheter og generell kompetanse etter å ha fullført et emne, som angitt i studieplanen.
+(4) Obligatoriske aktiviteter: Omfatter både oppmøtebaserte krav, som obligatorisk tilstedeværelse i undervisning og praksis på et praksissted, samt innleveringskrav som må godkjennes for å sikre studentenes progresjon og kompetanseutvikling.
+(5) Obligatoriske arbeidskrav: Viser til skriftlige og praktiske innleveringer, som må leveres og godkjennes for at studenten skal ha eksamensrett.
+(6) Realkompetanse: Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål. Ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.
+(7) Semester: Skoleåret er delt inn i to semestre. Høstsemesteret varer fra studiestart til nyttår, og vårsemesteret varer fra nyttår til medio juni.
+(8) Sensur: Vurdering av studentenes kunnskaper, ferdigheter og samlede kompetanse.
+(9) Student: En person som er tatt opp til et utdanningsprogram ved Fagskolen Diakonova i henhold til fagskoleloven § 16, og som har takket ja til studieplass og fullført betalingsplikten.
+(10) Studieplan: Dokument som beskriver innholdet, målene, læringsutbyttet og organiseringen av et utdanningsprogram eller et emne, inkludert vurderingsformer og eventuelle obligatoriske aktiviteter.
+(11) Utdanning: er en systematisk og målrettet læringsprosess med en tydelig struktur og læringsutbyttebeskrivelser, som bygger på tidligere opplæring. Formålet er å utvikle kunnskap, ferdigheter og generell kompetanse som er direkte anvendelig i arbeidslivet. Ved fullført utdanning utstedes det vitnemål som dokumenterer oppnådd læringsutbytte.

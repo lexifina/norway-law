@@ -1,0 +1,8 @@
+# § 4-3-6. Utsatt eksamen, kontinuasjonseksamen og forbedring av eksamenskarakter
+(1) En student som har gyldig fravær på eksamen, må selv melde seg opp til utsatt eksamen innen to (2) år etter studentens første ordinære eksamensgjennomføring. Utsatt eksamen gjennomføres kostnadsfritt.
+(2) En student som er vurdert til karakteren «F» / «ikke bestått» ved ordinær eksamen, må selv melde seg opp til kontinuasjonseksamen innen to (2) år etter studentens første ordinære eksamensgjennomføring. Kontinuasjonseksamen gjennomføres kostnadsfritt.
+(3) En student som ønsker å forbedre en eksamenskarakter kan søke om å gå opp til ny eksamen ved neste eksamensperiode mot betaling. Eksamensavgiften fastsettes årlig av fagskolen. Forbedringseksamen kan maksimalt avlegges en gang forutsatt at eksamensforsøkene ikke overstiger tre forsøk. Det vil være den beste eksamenskarakteren som blir den gjeldende.
+(4) For eksamensforsøk senere enn to (2) år etter studentens første ordinære eksamensgjennomføring, må det søkes til fagskolens administrasjon. Søknaden kan innvilges dersom utdanningen ikke har hatt vesentlige endringer i læringsutbyttet. Enkeltvedtak kan påklages. Klagen skal være skriftlig og sendes til fagskolens administrasjon innen tre (3) uker fra studenten mottok vedtaket.
+(5) Særskilt eksamensforsøk etter tre år er et enkeltvedtak som kan påklages. Klagefristen er tre (3) uker fra vedtaket er mottatt.
+(6) For gjennomføring av utsatt eksamen, kontinuasjonseksamen og forbedring av eksamenskarakter gjelder fagskolens retningslinjer.
+(7) Dersom en utdanning legges ned, kan studenter som er forsinket i utdanningsløpet søke fagskolen om å avlegge eksamen i et emne i inntil to år etter at emnet er opphørt.

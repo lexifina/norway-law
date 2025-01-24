@@ -1,0 +1,4 @@
+# § 3-4. Individuell tilrettelegging
+(1) Studenter med funksjonsnedsettelse og/eller særskilte behov, har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde for Fagskolen Diakonova.
+(2) I vurderingen av individuell tilrettelegging legges vekt på tilretteleggingens effekt for å fjerne barrierer for studentene, kostnadene ved tilretteleggingen og fagskolen sine ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene som stilles i den enkelte utdanningen.
+(3) Ved behov for individuell tilrettelegging må søkeren/studenten ta kontakt med fagskolens administrasjon innen fastsatte frister, samt fremlegge nødvendig dokumentasjon. Fagskolen kan ved behov innkalle til et møte med studenten for å finne passende løsning før vedtak fattes.
