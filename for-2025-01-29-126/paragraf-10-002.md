@@ -1,0 +1,6 @@
+# § 10-2. Prøveforelesning
+Dersom avhandlingen finnes verdig til å forsvares for ph.d.-graden, jf. § 9-3, skal kandidaten holde en prøveforelesning.
+Prøveforelesningen er en selvstendig del av doktorgradsprøven. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskap utover avhandlingens tema og evne til å formidle disse i en forelesningssituasjon. Prøveforelesningen skal normalt ha en varighet på 45 minutter.
+Tittel for prøveforelesning foreslås av bedømmelseskomitéen og godkjennes av prorektor for forskning. Tittelen kunngjøres for kandidaten ti arbeidsdager før prøveforelesningen. Temaet for prøveforelesningen skal ikke stå i direkte forbindelse med det spesifikke temaet for avhandlingen.
+Prøveforelesningen holdes normalt ved NHH og i forbindelse med disputas. Dersom prøveforelesningen ikke holdes i forbindelse med disputas, kan prorektor for forskning oppnevne en egen komité for bedømming av prøveforelesningen hvor minst ett av bedømmelseskomitéens medlemmer inngår.
+Prøveforelesningen skal avholdes på avhandlingsspråket, med mindre prorektor for forskning godkjenner et annet språk. Prøveforelesningen skal ledes av prorektor for forskning eller den prorektor for forskning bemyndiger.

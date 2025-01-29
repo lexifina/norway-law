@@ -1,0 +1,4 @@
+# § 2-5. Studietiden
+Studietiden er seks år fra starttidspunkt til innlevering av avhandling til bedømmelse, når lovhjemlede og avtalte avbrudd i avtaleperioden er trukket fra. Dersom studietiden blir overskredet, mister kandidaten retten til å levere avhandlingen.
+Kandidaten kan søke om forlengelse av studietiden. Etter studietidens utløp kan prorektor for forskning, i særskilte tilfeller og etter innspill fra instituttet, fatte vedtak om forlengelse av studietiden. Prorektor for forskning kan ved slik forlengelse sette ytterligere betingelser.
+I særlige tilfeller kan kandidaten søke om å få levere inn avhandlingen til bedømmelse for ph.d.-graden etter studietidens utløp. Søknad rettes til prorektor for forskning, som deretter fatter vedtak om kandidaten skal få adgang til å levere inn avhandlingen til bedømmelse.
