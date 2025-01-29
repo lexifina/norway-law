@@ -1,0 +1,3 @@
+# § 11-1. Klage over avslag på søknad om opptak, vedtak om tvungen avslutning ved forsinkelse og unnlatelse, avslag på søknad om godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak, vedtak om tvungen avslutning ved forsinkelse og/eller unnlatelse og avslag på søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i forvaltningsloven §§ 28 flg.
+Begrunnet klage sendes til prorektor for forskning som kan oppheve eller endre vedtaket hvis vedkommende finner at klagen er berettiget. Blir avslaget opprettholdt, sendes klagen til Nemnd for studentsaker ved NHH for endelig avgjørelse.
