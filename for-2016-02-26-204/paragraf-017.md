@@ -1,0 +1,4 @@
+# § 17. Søknadsfrist og termininndeling
+Søknadsåret er delt inn i seks terminer med følgende frister.TerminSøknadsmånedSøknadsfrist6november og desember25. januar1januar og februar25. mars2mars og april25. mai3mai og juni25. juli4juli og august25. september5september og oktober25. november
+Søknad om utsatt frist for innsendelse av søknad om tilskudd må sendes Sjøfartsdirektoratet på den måten som tilskuddsforvalter fastsetter innen søknadsfristene for den enkelte termin. Departementet kan forskyve fristene fremover i tid ved endringer i tilskuddsmodellene.
+Krav om tilskudd skal fremmes for hver termin på den måten som tilskuddsforvalter fastsetter. Søknadene skal være utfylte, og påkrevd innhold skal følge med før søknadene sendes til tilskuddsforvalter. Hvis tidsfristene ikke overholdes og det ikke er gitt utsatt frist, tapes retten til tilskudd for vedkommende termin. Søknaden anses kommet frem til direktoratet når det er mottatt kvitteringsmelding.
