@@ -1,0 +1,3 @@
+# § 24. Sanksjoner ved brudd på forskriften
+Dersom en tilskuddsmottaker eller noen på dens vegne, gir ufullstendige eller ukorrekte opplysninger i forbindelse med søknad om tilskudd, og dette medfører at tilskudd utbetales uberettiget eller med for stort beløp, kan tilskuddet helt eller delvis kreves tilbake. Rente kan fastsettes etter forsinkelsesrenteloven (lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.).
+Tilbakebetalingskrav mot tilskuddsmottaker etter foregående ledd kan ikke reises for utbetalinger foretatt lengre enn 3 år tilbake regnet fra 1. januar i det kalenderår kravet fremsettes skriftlig. Det er straffbart å oppgi feilaktige opplysninger, jf. straffeloven 22. mai 1902 nr. 10.

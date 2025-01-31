@@ -1,0 +1,2 @@
+# § 7. Kompetansefremmende bidrag
+Tilskuddsmottaker er forpliktet til å innbetale et fastsatt beløp per måned for arbeidstakere til sjøs omfattet av tilskuddsmodellene til Stiftelsen Norsk Maritim Kompetanse. Beløpet fastsettes av Nærings- og fiskeridepartementet og blir fratrukket innvilget tilskudd. Tilskuddsforvalter utbetaler beløpet direkte til stiftelsen. Ved dispensasjon fra opplæringsstillinger jf. § 5 skal det betales dobbelt beløp.

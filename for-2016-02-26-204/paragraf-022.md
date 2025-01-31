@@ -1,0 +1,3 @@
+# § 22. Kontroll
+Tilskuddsforvalter skal sørge for nødvendig kontroll med tilskuddsmottaker. Tilskuddsforvalter kan også foreta en særskilt kontroll for et utvalg av tilskuddsmottakere ut fra en risiko og vesentlighetsvurdering.
+Tilskuddsforvalter utøver særskilt kontroll selv eller ved representant, f.eks. revisor. Riksrevisjonen har adgang til å føre kontroll med at midlene nyttes etter forutsetningene, jf. lov 7. mai 2004 nr. 21 om Riksrevisjonen § 12 tredje ledd. Utlånt materiale skal returneres eller makuleres etter kontroll, eventuelt med pålegg om utvidet oppbevaringsplikt for rederiet, dersom kontrollen tilsier det.

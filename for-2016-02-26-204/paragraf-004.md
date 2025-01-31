@@ -1,0 +1,3 @@
+# § 4. Utformingen av tilskuddsordningen
+Tilskuddsordningen er utformet som ulike modeller med tilskudd basert på organisasjonens innbetaling av norsk forskuddstrekk av skatt, trygdeavgift og arbeidsgiveravgift. De ulike modellene og deres støttenivå er nærmere beskrevet i § 8 – § 15.
+Norsk forskuddstrekk av skatt, trygdeavgift og arbeidsgiveravgift kan refunderes uavhengig av hverandre. I ordningen skal norsk forskuddstrekk av skatt fastsettes slik at arbeidstakere til sjøs ikke forventes å få noen tilbakebetaling av skatt, jf. § 24 om sanksjoner ved brudd på forskriften ved ufullstendige eller ukorrekte opplysninger.
