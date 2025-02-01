@@ -1,0 +1,3 @@
+# § 3-3. Sammenstilt oversikt
+(1) Selskapet skal sørge for at det utarbeides en sammenstilt oversikt over hvem som er eiere av de forvalterregistrerte aksjene, i hvilket land aksjeeier er bosatt og hvor mange aksjer hver enkelt eier. Oversikten skal dateres med dato for ferdigstillelse. Oversikten skal være forståelig og lesbar, slik at det fremgår klart hvem som er aksjeeiere og hvor mange aksjer hver enkelt eier. Selskapet kan utlevere oversikten i det formatet selskapet finner hensiktsmessig.
+(2) Hvis selskapet ikke mottar nødvendige opplysninger fra forvalter innen utløpet av fristen, skal dette fremgå av den sammenstilte oversikten.

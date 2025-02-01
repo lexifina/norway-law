@@ -1,0 +1,3 @@
+# § 4-1. Plikt til å tilgjengeliggjøre oversikt over eiere av forvalterregistrerte aksjer
+(1) Selskaper som har forvalterregistrerte aksjer, skal minst én gang i året gjøre tilgjengelig for allmennheten en oversikt over hvem som eier forvalterregistrerte aksjer i selskapet, hvilket land aksjeeier er bosatt og hvor mange aksjer hver enkelt eier.
+(2) Oversikt som nevnt i første ledd skal være kostnadsfritt tilgjengelig for allmennheten senest seks uker før generalforsamlingen avholdes. Oversikten kan gjøres tilgjengelig ved at selskapet publiserer informasjon på sin nettside om hvordan oversikten kan bestilles. Oversikten skal dateres med dato for ferdigstillelse. Oversikten skal gjøres tilgjengelig for den som ber om det innen tre virkedager fra kravet fremsettes.

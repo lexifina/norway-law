@@ -1,0 +1,4 @@
+# § 3-5. Utlevering av eksisterende oversikt
+(1) Dersom selskapet på tidspunktet det mottar innsynskravet har en oversikt som nevnt i § 3-3, skal selskapet opplyse om dette og datoen for oversikten, jf. § 3-3 første ledd andre punktum. Den som ber om innsyn, kan kreve å få utlevert denne kostnadsfritt innen tre virkedager fra kravet fremsettes. Retten til å få utlevert eksisterende oversikt gjelder likevel ikke oversikter som er eldre enn ett år fra datoen for innsynskravet.
+(2) Hvis den eksisterende oversikten ikke er eldre enn fire uker, kan selskapet oppfylle sin plikt til å gi innsyn ved å utlevere denne. Innsyn skal i så tilfelle gis kostnadsfritt og innen tre virkedager fra det tidspunktet selskapet mottok innsynskravet. Selskapet plikter da ikke å gi opplysninger som nevnt i § 3-1.
+(3) Dersom selskapet i løpet av en periode på seks måneder mottar mer enn tolv innsynskrav fra samme person, gjelder reglene i § 1-3 første ledd og § 1-5 andre ledd tilsvarende.
