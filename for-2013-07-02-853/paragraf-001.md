@@ -1,0 +1,2 @@
+# § 1
+EØS-avtalen vedlegg XIII nr. 42ei (kommisjonsforordning (EU) nr. 1078/2012 om felles metode for overvåking som skal anvendes av jernbaneforetak, infrastrukturforvaltninger som har fått utstedt sikkerhetssertifikat eller en sikkerhetsgodkjenning, og av enheter med ansvar for vedlikehold) gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
