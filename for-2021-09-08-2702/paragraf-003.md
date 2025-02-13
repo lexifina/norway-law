@@ -1,0 +1,2 @@
+# § 3
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning (EU) 2018/761 av 16. februar 2018, som endret av forordning (EU) 2020/782, inn i EØS-avtalen trer i kraft. Fra samme tidspunkt oppheves forskrift 2. juli 2013 nr. 852 om gjennomføring av felles sikkerhetsmetode for tilsyn utført av nasjonal sikkerhetsmyndighet etter utstedelse av sikkerhetssertifikat eller sikkerhetsgodkjenning (tilsynsforskriften).
