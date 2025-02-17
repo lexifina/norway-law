@@ -1,0 +1,2 @@
+# § 3. Unntak i særlige tilfelle
+Etter søknad kan Arbeids- og velferdsdirektoratet i særlige tilfelle samtykke i at andre personer enn de som er nevnt i § 2, skal være unntatt fra folketrygden. Slikt samtykke kan bare gis dersom det godtgjøres at vedkommende selv, ektefelle og barn under 18 år er tilfredsstillende trygdedekket etter utenlandsk lov og at unntak fra folketrygden vil være nødvendig for å unngå dobbelt medlemskap. Bestemmelsen i § 2 andre punktum gjelder tilsvarende.
