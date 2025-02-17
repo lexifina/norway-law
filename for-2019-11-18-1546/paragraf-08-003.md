@@ -1,0 +1,6 @@
+# § 8-3. Bestemmelser om beregning av renter for rentekompensasjonsordningene
+Denne paragraf gjelder beregning av renter for de rentekompensasjonsordninger som Husbanken forvalter, jf. forskrift 14. juni 2024 nr. 1054 om kompensasjon for renteutgifter til investering i læringsarenaer, utstyr og inventar i skolene fra Husbanken, forskrift 11. desember 2014 nr. 1583 om kompensasjon for utgifter til investering i skole- og svømmeanlegg fra Husbanken, forskrift 1. september 2014 nr. 1139 om kompensasjon for utgifter til renter til investeringer for istandsetting av kirker og kirkeinventar fra Husbanken og forskrift 21. desember 2005 nr. 1667 om tilskudd til omsorgsboliger og sykehjemsplasser fra Husbanken.
+Utgangspunktet for beregning av renten for rentekompensasjonsordningene er basisrenten for lån med flytende rente etter § 8-2 første og sjette ledd.
+Fra basisrenten for flytende rente blir det trukket fra 1,25 prosentpoeng for å komme fram til en årlig effektiv rente.
+Ut fra den årlige effektive renten beregner Husbanken den nominelle renten etter § 8-2 fjerde ledd som danner grunnlaget for beregning av rentekompensasjonen.
+De nominelle og effektive rentene blir oppgitt med to desimaler.
