@@ -1,0 +1,2 @@
+# § 2. Unntak etter individuell søknad
+Den som tar opphold i riket og tar arbeid i annens tjeneste her, kan unntas fra folketrygden i inntil 12 måneder, såfremt vedkommende søker om det og godtgjør at han er trygdedekket etter utenlandsk lov. Dersom vedkommendes trygdedekning etter utenlandsk lov ikke omfatter stønad ved sykdom mv som noenlunde svarer til stønad etter folketrygdloven kapitlene 5, 8 og 9, kan vedkommende bli unntatt fra folketrygden for så vidt gjelder dekning for andre ytelser.
