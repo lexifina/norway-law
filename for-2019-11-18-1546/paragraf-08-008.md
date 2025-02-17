@@ -1,0 +1,3 @@
+# § 8-8. Virkemidler ved betalingsproblemer
+Husbanken kan fravike rente- og avdragsvilkårene på utbetalte lån i individuelle tilfeller. Ved midlertidige betalingsvansker kan Husbanken innvilge utsettelse med betaling av renter og avdrag. Avdrag kan legges til lånet.
+For lånekunder med midlertidige betalingsvansker, kan Husbanken gjøre om renter for inntil 2,5 år til tilleggslån. Rente- og avdragsvilkårene for tilleggslånet er de samme som for hovedlånet. Ved utsettelse av rente- og avdragsinnbetalinger skal lånet inklusive eventuelle tilleggslån være tilstrekkelig sikret. I særlige tilfeller kan kravet om tilstrekkelig pantesikkerhet fravikes.
