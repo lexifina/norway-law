@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Denne forskriften inneholder bestemmelser om beregning av arbeidsavklaringspenger for personer som omfattes av EØS-avtalen vedlegg VI nr. 1 og 2 (Europaparlaments- og rådsforordning (EF) nr. 883/2004 om koordinering av trygdeordninger og Europaparlaments- og rådsforordning (EF) nr. 987/2009 om regler for gjennomføring av forordning (EF) nr. 883/2004 – mfl.). Bestemmelsene gjelder tilsvarende i tilfeller hvor tilsvarende regler kommer til anvendelse etter særskilt avtale med annet land.
