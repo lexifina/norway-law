@@ -1,0 +1,3 @@
+# § 6. Innsending av dokumentasjon – kontroll med garantiene
+Den næringsdrivende skal innen 1. desember i året før budsjettåret sende Reisegarantifondet en egenerklæring om budsjettert omsetning, med mindre Reisegarantifondet bestemmer noe annet i det enkelte tilfellet. Sammen med egenerklæringen skal det følge revisorbekreftede regnskapstall for de tre sammenhengende kalendermånedene med høyest garantipliktig omsetning i det siste regnskapsåret.
+Reisegarantifondet skal sørge for at det på en betryggende måte blir kontrollert at hver enkelt garantistillelse er i samsvar med pakkereiseloven og denne forskriften.
