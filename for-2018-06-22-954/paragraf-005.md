@@ -1,0 +1,4 @@
+# § 5. Fastsettelse av høyere reisegaranti
+Er det risiko for at reisegarantien ikke vil dekke alle de reisendes krav dersom den næringsdrivende blir insolvent, kan Reisegarantifondet kreve en høyere reisegaranti enn det som følger av § 3. Reisegarantifondet kan også kreve høyere reisegaranti dersom den næringsdrivendes garantipliktige omsetning har økt vesentlig sammenlignet med det som var budsjettert.
+Den næringsdrivende skal både uoppfordret og på forespørsel gi Reisegarantifondet de opplysningene som er nødvendige for å kunne vurdere om reisegarantien skal økes.
+Brytes opplysningsplikten og det medfører at reisegarantien blir satt for lavt, kan den næringsdrivendes representanter ved daglig leder eller styret bli holdt personlig ansvarlige for tap som Reisegarantifondet lider på grunn av bruddet.

@@ -1,0 +1,5 @@
+# § 2. Omsetningen som reisegarantiens størrelse beregnes ut fra
+Reisegarantien beregnes av én måneds budsjettert eller faktisk garantipliktig omsetning.
+Garantipliktig omsetning settes til gjennomsnittet av budsjettert garantipliktig omsetning for tre sammenhengende kalendermåneder for kommende år, der den andre måneden er den med årets høyeste budsjetterte garantipliktige omsetning.
+Dersom budsjettert garantipliktig omsetning for de tre sammenhengende kalendermånedene er lavere enn omsetningen etter siste års regnskap for garantipliktig omsetning for regnskapsårets tre sammenhengende høysesongmåneder, settes den garantipliktige omsetningen til gjennomsnittet av disse regnskapstallene, med mindre Reisegarantifondet bestemmer at den gjennomsnittlige budsjetterte omsetningen likevel skal legges til grunn.
+Dersom garantipliktig budsjettert omsetning i kalendermåneden med høyest budsjettert garantipliktig omsetning for kommende år eller høyeste garantipliktige omsetning for én kalendermåned etter siste års regnskap er kr 10 000 000 eller høyere, legges det høyeste tallet til grunn.

@@ -1,0 +1,2 @@
+# § 18. Hvordan gebyrene for klagenemnda for pakkereiser kan endres
+Klagenemnda for pakkereiser skal sette opp forslag til klagenemndas driftsbudsjett for hvert år, eventuelt med forslag til endrede satser for årsgebyret. Budsjettet og et eventuelt forslag til endrede gebyrsatser sendes Barne- og familiedepartementet innen 1. oktober før driftsåret. Forslaget skal være godkjent av departementet før Reisegarantifondet kan kreve inn de nye gebyrene.

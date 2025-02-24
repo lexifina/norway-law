@@ -1,0 +1,2 @@
+# § 14. Reisegarantifondets styre
+Reisegarantifondet skal ha et styre som består av tre medlemmer. Barne- og familiedepartementet oppnevner styrets leder, ett styremedlem og dennes vararepresentant. Hovedorganisasjonen Virke oppnevner ett styremedlem og dennes vararepresentant. Styrets leder skal fylle kravene til dommere i domstolloven § 53 første ledd og § 54 andre ledd. Styremedlemmer og vararepresentanter oppnevnes for fire år og kan gjenoppnevnes.
