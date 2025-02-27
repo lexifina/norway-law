@@ -1,0 +1,1 @@
+# Kapittel 2. Overgang til ny uførepensjon når pensjonisten har uførepensjon, arbeidsavklaringspenger eller pensjon til gjenlevende ektefelle fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år

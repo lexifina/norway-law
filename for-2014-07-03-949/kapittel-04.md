@@ -1,0 +1,1 @@
+# Kapittel 4. Overgang til ny uførepensjon når pensjonisten har gammel uførepensjon etter tjenestepensjonslovene med en uføregrad på 2/3 eller mer uten rett til å motta ytelse fra folketrygden eller avtalefestet pensjon fra offentlig tjenestepensjonsordning før fylte 65 år
