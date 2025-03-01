@@ -1,0 +1,2 @@
+# § 5. Vandring
+Vandring ut og inn av områder rundt parestasjoner eller innføring av avlsmateriale i form av embryo og sæd til samme områder, må ikke skje uten skriftlig tillatelse fra Norges Birøkterlag. Slik tillatelse skal gis under forutsetning av at det ikke er fare for skade på pågående avlsarbeid, og at bestemmelser om forebygging av sjukdom er oppfylt. Avslag på søknad om vandring kan påklages til Landbruks- og matdepartementet.
