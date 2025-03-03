@@ -1,0 +1,4 @@
+# § 8-3. Finansiering – jernbane
+Den sektorkostnad for etablering og drift som er beregnet for jernbanen etter reglene i § 8-1, dekkes gjennom et gebyr som kreves inn fra jernbaneforetakene etter reglene i annet ledd. Gebyret beregnes og fastsettes normalt forskuddsvis for hvert kalenderår.
+Gebyr beregnes og innkreves bare for jernbanereiser som gir passasjerene rettigheter overfor jernbaneforetaket (tjenesteyteren) i henhold til rettsgrunnlaget som nevnt i § 1-4 bokstav b. Gebyret skal betales av jernbaneforetak som nevnt i § 1-7 annet ledd første alternativ (jernbaneforetak som trafikkerer det nasjonale jernbanenettet) og fastsettes på grunnlag av nemndas budsjett for jernbanesektoren, forholdsmessig fordelt mellom jernbaneforetakene etter antall klageberettigede passasjerer.
+Nemnda krever inn gebyrer fra jernbaneforetakene i henhold til annet ledd.

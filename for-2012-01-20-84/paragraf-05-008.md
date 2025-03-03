@@ -1,0 +1,3 @@
+# § 5-8. Delegering av vedtaksmyndighet til sekretariatet
+(1) Sekretariatets leder kan treffe vedtak i klagesaker hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. I tvilstilfelle skal sekretariatet konferere med nemndas leder.
+(2) Har sekretariatets leder avgjort klagen, kan klageren likevel kreve klagen lagt frem for nemnda. Slik anmodning må være skriftlig og innlevert til sekretariatet senest tre uker etter at underretning om vedtak er mottatt. Dersom nemndas leder er enig i sekretariatslederens vurdering, og ikke av andre grunner mener at nemnda bør behandle saken, kan lederen beslutte med endelig virkning at saken ikke skal behandles i nemnda.

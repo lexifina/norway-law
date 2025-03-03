@@ -1,0 +1,4 @@
+# § 5-1. Innsendelse av klage – når klagen tidligst kan fremmes
+(1) Klage skal fremsettes skriftlig til transportklagenemndas sekretariat.
+(2) Klager må på forhånd ha reklamert skriftlig overfor tjenesteyteren uten at tvisten har løst seg i minnelighet. Kravet gjelder ikke dersom tjenesteyteren ikke har kjent kontaktadresse og heller ikke har lagt til rette for andre måter å klage på som klageren er i stand til å nyttiggjøre seg.
+(3) Dersom klageren ikke mottar endelig skriftlig svar fra tjenesteyteren innen fire uker fra klagen er mottatt, kan klageren bringe klagen inn for nemnda. Første punktum gjelder ikke dersom tjenesteyteren innen fire uker gir klageren et midlertidig skriftlig svar om at behandlingen av saken vil ta lengre tid, og i så fall hvor lang tid. Frist etter annet punktum kan ikke settes lenger enn åtte uker. Klageren kan uansett klage til nemnda dersom endelig svar ikke er mottatt innen åtte uker.

@@ -1,0 +1,2 @@
+# § 8-1. Fordeling av finansieringskostnader mellom transportsektorene
+Kostnadene ved etablering og drift av klagenemnda dekkes gjennom kostnadsbaserte gebyrer som beregnes særskilt for de transportsektorene som er omfattet av klageordningen. Som grunnlag for gebyrene for den enkelte sektor, fordeles først nemndas samlede kostnader, medregnet offentlige avgifter, etter hvor stor andel av kostnadene som kan henføres til den enkelte sektor. Dernest beregnes de respektive gebyrene etter reglene i § 8-2 til § 8-5.
