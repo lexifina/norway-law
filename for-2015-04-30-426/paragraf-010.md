@@ -1,0 +1,3 @@
+# § 10. Tilbakekreving og renter mv.
+Dersom foretaket som følge av manglende oppfyllelse av vilkår i denne forskriften eller av andre grunner har mottatt en utbetaling som ikke er berettiget, kan dette kreves tilbakebetalt fra mottakeren eller motregnes i senere tilskuddsutbetalinger. Tilsvarende gjelder for differansen mellom utbetalt beløp og redusert tilskudd som følge av vedtak om avkorting etter § 9.
+Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av det urettmessige tilskuddet. Ved forsinket betaling etter påkrav påløper renter tilsvarende enhver tid gjeldende rentesats fastsatt med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven).
