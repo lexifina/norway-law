@@ -1,0 +1,5 @@
+# § 13. Opptak på bakgrunn av realkompetanse
+(1) Rektor kan gi søkere som ikke kan dokumentere generell studiekompetanse og som er 25 år eller eldre i opptaksåret, opptak til studieprogram eller enkeltemner dersom de på bakgrunn av realkompetansevurdering har de nødvendige faglige forutsetninger for å gjennomføre det aktuelle studiet.
+(2) Realkompetanse kan tilkjennes på grunnlag av kunnskaper søker har fått gjennom lønnet og ulønnet arbeid, organisasjonsarbeid, utdanning eller på annen måte.
+(3) Når opptaket er basert på realkompetanse, må søkere også dekke spesielle opptakskrav som er fastsatt for det enkelte studium. Annen utdanning eller dokumentasjon av kunnskaper kan godkjennes som likeverdig. Muligheten til realkompetansevurdering gjelder ikke når det er stilt krav om bestemt faglig nivå med forskriftsfestede karakter- eller poengkrav. Disse må oppfylles av det faglige nivået på søkerens videregående opplæring.
+(4) Rektor kan, i samsvar med forskrift om opptak til høgare utdanning, fastsette retningslinjer for dokumentasjon og vurdering av realkompetanse.

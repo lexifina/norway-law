@@ -1,0 +1,5 @@
+# § 36. Opptak og rangering til utdanninger i musikkvitenskap, musikkteknologi, utøvende musikk og billedkunst
+(1) Rektor oppnevner, etter forslag fra fakultetet, en opptakskomité for hver av utdanningene i musikkvitenskap, musikkteknologi, utøvende musikk og billedkunst. Komitéens sammensetning reguleres av § 5. Fakultetet har sekretariatsansvaret for komitéen.
+(2) Opptakskomitéene for utøvende musikk og billedkunst avgjør om søkere fyller de spesielle faglige kravene som gjør dem kompetent for opptaksvurdering, jf. forskrift om opptak til høgre utdanning.
+(3) Hver opptakskomité kan opprette kommisjoner for å bedømme søkernes prestasjoner i opptaksprøven. Det skal være minst ett faglig medlem og minst ett medlem som er student i hver kommisjon. Fakultetet fastsetter bestemmelser for gjennomføring av opptaksprøven. For å bli rangert for opptak må søkeren bestå alle delprøver i opptaksprøven.
+(4) For grunnutdanningene fastsetter departementet om opptaksprøven kun skal brukes som grunnlag for kvalifisering eller om den også skal brukes som grunnlag for rangering.
