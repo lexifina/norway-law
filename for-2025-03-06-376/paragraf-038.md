@@ -1,0 +1,6 @@
+# § 38. Opptakskrav til praktisk-pedagogisk utdanning (PPU), heltid
+(1) Opptakskravene er utarbeidet i henhold til forskrift 21. desember 2015 nr 1771 om rammeplan for praktisk pedagogisk utdanning (PPU). For opptak til PPU heltid kreves:
+- en mastergrad og minimum 60 relevante studiepoeng i minst ett skolefag som utdanningen tilbyr fagdidaktikk i, eller en bachelorgrad og minimum 60 relevante studiepoeng i minst ett skolefag som utdanningen tilbyr fagdidaktikk i, i eller i tillegg til graden, og minst to års relevant arbeidserfaring fra grunnskolen eller den videregående skolen, eller
+- en bachelorgrad i utøvende eller skapende kunstfag med minimum 180 studiepoeng i kunstfaget, eller
+- en bachelorgrad med inntil tre fag som gir kompetanse til å undervise i praktiske og/eller estetiske fag i grunnskolen, hvorav minimum 60 studiepoeng er relevant for et skolefag som utdanningen tilbyr fagdidaktikk i. Krav til oppbygging av bachelorgraden: ett av fagene kan erstattes av drama/teaterfag. Det må inngå fordypning på minst 120 studiepoeng i ett fag. Øvrige fag må ha et omfang på minst 30 studiepoeng. Det stilles krav om gjennomsnittskarakter C eller bedre fra bachelorgraden.
+(2) Det kan gis opptak til PPU for søker som har en bachelorgrad i praktiske og estetiske fag etter første avsnitt, tredje strekpunkt, fram til og med våren 2029.

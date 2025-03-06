@@ -1,0 +1,5 @@
+# § 7. Kvoter
+(1) I et opptak kan rektor sette av kvoter for kvalifiserte søkere med spesiell bakgrunn når adgangsregulering til emnet eller studieprogrammet vedtas. En kvote er et bestemt antall studieplasser, eller en bestemt andel av studieplassene i opptaket, reservert for søkere som tilfredsstiller nærmere bestemte krav.
+(2) I opptak til videreutdanning kan rektor sette av kvoter for kvalifiserte søkere med spesiell bakgrunn.
+(3) Hvis kvoter blir brukt, skal det gjøres kjent for søkerne hva som er kriteriene for å tilhøre kvotene og størrelsen på kvoten(e). Hvis ikke alle studieplassene i en kvote blir fylt, kan resten av studieplassene overføres til søkere som ikke oppfyller kvotekriteriet.
+(4) Rektor fastsetter opptakskvoter innenfor hvert fagområde innen 1. april for praktisk-pedagogisk utdanning heltid og deltid. Opptakskvote i hvert skolefag (fag som undervises i skolen) i praktisk-pedagogisk utdanning heltid reguleres av tilgang på praksisplasser i utdanningen. Inntil 40 % av studieplassene kan settes av til søkere med en bestemt fagbakgrunn for å ivareta den faglige bredden i utdanningen.
