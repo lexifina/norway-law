@@ -1,0 +1,5 @@
+# § 1. Personer som har lovlig opphold, men ikke bopel i riket
+Personer som ikke er norske statsborgere og som ikke har bopel i riket, har ikke krav på individuelle tjenester etter loven, med unntak av opplysning, råd og veiledning.
+Hvis en person som nevnt i første ledd ikke kan sørge for sitt livsopphold, har vedkommende rett til økonomisk stønad og hjelp til å finne midlertidig botilbud i henhold til loven. Hjelp gis inntil vedkommende kan forventes å få bistand fra kilder i hjemlandet.
+Første og andre ledd gjelder ikke dersom annet følger av avtale Norge har inngått med vedkommendes hjemland, eller av multilaterale avtaler eller konvensjoner.
+Første og andre ledd gjelder ikke antatte ofre for menneskehandel som er innvilget begrenset oppholdstillatelse etter utlendingsforskriften § 8-3 første og andre ledd (refleksjonsperiode mv.), eller personer som har rett til å bli i landet mens søknad om oppholdstillatelse eller klage på vedtak i sak om opphold er til behandling hos utlendingsmyndighetene, ved norsk domstol eller hos internasjonalt klageorgan som Norge har anerkjent.
