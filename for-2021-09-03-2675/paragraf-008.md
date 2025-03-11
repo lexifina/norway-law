@@ -1,0 +1,7 @@
+# § 8. (Meldermyndighet)
+(1) Statens jernbanetilsyn er meldermyndighet i samsvar med denne forskriften og har ansvaret for utpeking av, melding om og tilsyn med samsvarsvurderingsorganer.
+(2) Statens jernbanetilsyn skal informere i henhold til direktiv (EU) 2016/797 artikkel 27 nr. 2 om hvilke organer som har tillatelse til å utføre samsvarsvurderinger etter denne forskriften.
+(3) Statens jernbanetilsyn skal informere i henhold til direktiv (EU) 2016/797 artikkel 29 om prosessen for utpeking av, melding om og tilsyn med samsvarsvurderingsorganer, og om eventuelle endringer i disse prosessene.
+(4) Vurderinger og tilsyn etter første ledd skal utføres av akkrediteringsorgan i henhold til og i samsvar med EØS-vareloven. Dersom Statens jernbanetilsyn delegerer eller på annen måte overlater utpekingen, meldingen eller tilsynet nevnt i første ledd, til et organ som ikke er et statlig foretak, skal dette organet være en juridisk person og oppfylle kravene fastsatt i § 9. I tillegg skal organet ha forsikring for å dekke erstatningsansvar som måtte oppstå som følge av virksomheten. Statens jernbanetilsyn har ansvaret for de oppgavene som utføres av organet.
+(5) Statens jernbanetilsyn skal informere Kommisjonen om prosessen for utpeking av, melding om og tilsyn med samsvarsvurderingsorganer og om eventuelle endringer i disse prosessene. Kommisjonen offentliggjør disse opplysningene.
+(6) Statens jernbanetilsyn skal sørge for at de organene de har meldt, enten direkte eller gjennom utpekte representanter, deltar i arbeidet til sektorgruppen av meldte organer.
