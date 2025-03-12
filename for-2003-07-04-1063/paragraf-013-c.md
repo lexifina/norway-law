@@ -1,0 +1,3 @@
+# § 13c. Krav til fremlegging av analyserapport fra detonasjonstest av ammoniumnitratgjødsel med høyt nitrogeninnhold
+Enhver som importerer ammoniumnitratgjødsel med høyt nitrogeninnhold fra land utenfor EØS-området skal for hver importsending fremlegge analyserapport fra detonasjonstest av produktene for Direktoratet for samfunnssikkerhet og beredskap senest fem dager før gjødselen ankommer den norske grensen.
+Enhver som importerer fra land i EØS-området ammoniumnitratgjødsel med høyt nitrogeninnhold som ikke tidligere har vært omsatt i et EØS-land eller som produserer slik gjødsel her i landet skal fremlegge slik analyserapport som er nevnt i første ledd senest fem dager før gjødselen omsettes.
