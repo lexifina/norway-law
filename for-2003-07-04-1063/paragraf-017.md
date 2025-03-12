@@ -1,0 +1,6 @@
+# § 17. Generelt om merking
+Produkter som omfattes av denne forskriften skal være forsynt med varedeklarasjon.
+Merking og teksten på eventuelle følgedokumenter skal være på norsk. Svensk og dansk tekst kan likevel aksepteres såfremt deklareringen oppfyller de øvrige krav forskriften stiller og ord og uttrykk som kan misforstås er oversatt til norsk (eller er tilrettelagt for norske forhold). Andre språk parallelt med norsk, svensk eller dansk kan aksepteres såfremt tekstens innhold ikke strider mot de norske bestemmelsene om merking.
+Emballert produkt skal ha varedeklarasjon påført emballasje på et iøynefallende sted. Festede merkelapper må holdes på plass av emballasjens lukkemekanisme. Dersom lukkemekanisme består av segl eller plombe, må den ha navn eller merke som angir produsent eller ansvarlig for produktet. Varedeklarasjonen må ikke kunne slettes og må være lett leselig. Varedeklarasjon av storsekk over 400 kg kan likevel gjøres kjent på annen måte, herunder produktkatalog og nettside, forutsatt at varedeklarasjonen er lett tilgjengelig. Emballasjen må likevel være tydelig merket med varetype, handelsnavn og vekt.
+For uemballert produkt skal varedeklarasjon stå i følgedokument.
+Alle produkter skal enkelt kunne identifiseres på lager og i alle omsetningsledd.
