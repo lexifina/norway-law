@@ -1,0 +1,2 @@
+# § 2a. Særleg verkeområde
+Med særleg verkeområde skal ein i denne forskrifta forstå Finnmark, kommunane Karlsøy, Kåfjord, Nordreisa, Kvænangen, Lyngen, Skjervøy, Storfjord, Balsfjord, Sørreisa, Salangen, Gratangen, Lavangen, Tjeldsund, Lødingen, Hamarøy og Evenes, dei områda i Narvik kommune som i 2019 utgjorde daverande Narvik eller Tysfjord kommune, og grunnkretsane Jøvik, Olderbakken, Lakselvbukt, Lakselvdalen, Sjøvassbotn, Stordal, Sjursnes, Reiervik, Breivika og Ullsfjordmoane i Tromsø kommune.
