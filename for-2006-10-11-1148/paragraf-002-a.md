@@ -1,0 +1,2 @@
+# § 2a. Gjennomføring av forordning (EU) 2021/723 mv.
+EØS-avtalen vedlegg II kap. XXVII nr. 9am (forordning (EU) 2021/723) om utfylling av europaparlaments- og rådsforordning (EU) 2019/787 med hensyn til opprettelse av et offentlig register over organer utpekt av hver medlemsstat til å føre tilsyn med lagringsprosessene for alkoholsterke drikker, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# § 2b. Gjennomføring av forordning (EU) 2021/724 mv.
+EØS-avtalen vedlegg II kap. XXVII nr. 9an (forordning (EU) 2021/724) om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) 2019/787 med hensyn til meldinger fra medlemsstatene til Kommisjonen om organer utpekt til å føre tilsyn med lagringsprosesser for alkoholsterke drikker og vedkommende myndigheter med ansvar for å sikre overholdelse av nevnte forordning, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
