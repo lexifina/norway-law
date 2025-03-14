@@ -1,0 +1,2 @@
+# § 4b. Gjennomføring av forordning (EU) 2020/198 mv.
+EØS-avtalen vedlegg II kap. XXVII nr. 9bb (forordning (EU) 2020/198) om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) nr. 251/2014 med hensyn til opprettelse av registeret over geografiske betegnelser som er beskyttet i sektoren for aromatiserte vinprodukter, og oppføring av eksisterende geografiske betegnelser i nevnte register, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

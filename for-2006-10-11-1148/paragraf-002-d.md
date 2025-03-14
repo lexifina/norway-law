@@ -1,0 +1,2 @@
+# § 2d. Gjennomføring av forordning (EU) 2021/1236 mv.
+EØS-avtalen vedlegg II kap. XXVII nr. 9ap (forordning (EU) 2021/1236) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2019/787 når det gjelder søknader om registrering av geografiske betegnelser på alkoholsterke drikker, innsigelsesprosedyren, endring av produktspesifikasjoner, annullering av registreringen, bruk av symboler og kontroll, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

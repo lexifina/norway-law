@@ -1,0 +1,2 @@
+# § 2c. Gjennomføring av forordning (EU) 2021/1235 mv.
+EØS-avtalen vedlegg II kap. XXVII nr. 9ao (forordning (EU) 2021/1235) om utfylling av europaparlaments- og rådsforordning (EU) 2019/787 med regler for søknader om registrering av geografiske betegnelser på alkoholsterke drikker, endring av produktspesifikasjoner, annullering av registreringen og registeret, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

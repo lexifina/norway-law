@@ -1,0 +1,2 @@
+# § 4. Gjennomføring av forordning (EU) nr. 251/2014
+EØS-avtalen vedlegg II kapittel XXVII nr. 9b (forordning (EU) nr. 251/2014) om definisjon av, betegnelse på og presentasjon, merking og beskyttelse av geografiske betegnelser på aromatiserte vinprodukter og om oppheving av rådsforordning (EØF) nr. 1601/91 gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
