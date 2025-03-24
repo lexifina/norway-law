@@ -1,0 +1,3 @@
+# § 12. Avkorting mv.
+Dersom mottaker uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av pristilskuddet som tilfaller mottaker avkortes.
+Dersom mottaker i henhold til Landbruksdirektoratets eller særlovsmyndighets vedtak driver eller har drevet sin virksomhet i strid med denne forskrift eller annet regelverk for jordbruksvirksomhet og håndtering av jordbruksvarer, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet som tilfaller mottaker avkortes.
