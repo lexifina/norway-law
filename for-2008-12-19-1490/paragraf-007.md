@@ -1,0 +1,5 @@
+# § 7. Tilskudd for korn, andre kraftfôrråvarer og kraftfôr
+Det kan gis prisnedskrivingstilskudd til foretak som kjøper norskprodusert korn og andre vekster omfattet av kap. 6.8 i jordbruksavtalen fra produsent (kornkjøper) og som videreselger varen eller anvender den i kommersiell matmel- eller kraftfôrindustri, med unntak av fremstilling av fiskefôr. Det kan også gis tilskudd til foretak som importerer karbohydratråvarer til kraftfôr, jf. jordbruksavtalen kapittel 6.8, eller forbruker innenlandsk foredlede karbohydratråvarer som omfattes av forskrift 22. desember 2005 nr. 1723 om administrative tollnedsettelser for landbruksvarer § 22 annet ledd.
+Det kan gis matkorntilskudd til foretak som anvender norskprodusert korn i tilvirkning av mel eller andre cerealprodukter som nyttes til mat.
+Det kan gis frakttilskudd til kornprodusent eller kornkjøper for transport av korn, durra, mais, kli og soya, og til husdyrprodusent for transport av kraftfôr.
+Det gis ikke tilskudd etter første og annet ledd dersom varene eksporteres.
