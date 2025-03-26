@@ -1,0 +1,5 @@
+# § 5. Tunnelforvalter
+Statens vegvesen og et statlig utbyggingsselskap for veg er tunnelforvalter for de tunneler som til enhver tid ligger på den del av riksvegnettet som de har ansvar for. Vegdirektoratet kan delegere sin myndighet etter denne bestemmelsen. Ansvaret som tunnelforvalter omfatter alle oppgaver relatert til planlegging, prosjektering, bygging, drift og vedlikehold av tunneler.
+For hver betydelig hendelse eller ulykke som inntreffer i en tunnel, skal tunnelforvalter utarbeide en rapport. Denne rapporten skal sendes til sikkerhetskontrolløren som nevnt i § 6, til Vegdirektoratet og til redningstjenestene innen maksimum en måned fra hendelsen eller ulykken inntraff.
+Dersom en undersøkelsesrapport utarbeides med en analyse av omstendighetene rundt hendelsen eller ulykken eller konklusjonene som kan trekkes av den, skal tunnelforvalter senest en måned etter mottak av rapporten sende den til sikkerhetskontrolløren, Vegdirektoratet og redningstjenestene.
+For hver tunnel i det transeuropeiske vegnettet som grenser opp til Sverige eller Finland, skal ansvaret for tunneldriften ligge til en felles tunnelforvalter.
