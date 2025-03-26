@@ -1,0 +1,3 @@
+# § 11. Unntak for nyskapende teknikk
+For å gjøre det mulig å montere og bruke nyskapende sikkerhetsutstyr eller å bruke nyskapende sikkerhetsprosedyrer som gir et vernenivå som er likeverdig med eller høyere enn teknologi fastsatt i forskriften, kan Vegdirektoratet etter nærmere fastsatt prosedyre gjøre unntak fra kravene i denne forskriften på grunnlag av en grundig dokumentert søknad fra tunnelforvalter.
+Dersom Vegdirektoratet har til hensikt å gjøre unntak etter første ledd, skal det først sende en unntakssøknad til EFTAs overvåkingsorgan vedlagt den opprinnelige søknaden med uttalelse fra inspeksjonsenheten.
