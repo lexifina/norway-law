@@ -1,0 +1,2 @@
+# § 11. Unntak for nyskapende teknikk
+For å gjøre det mulig å montere og bruke nyskapende sikkerhetsutstyr eller å bruke nyskapende sikkerhetsprosedyrer kan Vegdirektoratet eller den som direktoratet delegerer myndighet til, gjøre unntak fra kravene i forskriften. Unntak forutsetter at fylkeskommunen eller Oslo kommune ved risikoanalyse etter § 10, dokumenterer at forskriftens krav til sikkerhetsnivå er oppfylt.

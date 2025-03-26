@@ -1,0 +1,4 @@
+# § 5. Tunnelforvalter
+Fylkeskommunen er tunnelforvalter for fylkesveg. Oslo kommune peker ut tunnelforvalter for tunneler på kommunal veg i Oslo.
+For hver betydelig hendelse eller ulykke i en tunnel på fylkesveg og i Oslo kommunal veg, skal tunnelforvalteren utarbeide en rapport. Rapporten skal sendes til sikkerhetskontrolløren jf. § 6, den som har myndighet etter § 4 andre og tredje ledd, og til redningstjenestene innen maksimum en måned fra hendelsen eller ulykken inntraff.
+Dersom en undersøkelsesrapport utarbeides med en analyse av omstendighetene rundt hendelsen eller ulykken eller konklusjonene som kan trekkes av den, skal tunnelforvalteren innen en måned etter mottak av rapporten sende den til sikkerhetskontrolløren, den som har myndighet etter § 4 andre og tredje ledd, og redningstjenestene.
