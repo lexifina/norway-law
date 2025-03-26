@@ -1,0 +1,3 @@
+# § 2. Virkeområde
+Forskriften gjelder for tunneler som er i bruk, under bygging eller på prosjekteringsstadiet på fylkesveg og kommunal veg i Oslo, med lengde på over 500 meter og med gjennomsnittlig årsdøgntrafikk på 300 kjøretøy eller mer. Når særlige grunner foreligger kan Vegdirektoratet eller den direktoratet delegerer myndighet til, bestemme at enkelte tunneler med gjennomsnittlig årsdøgntrafikk under 300 kjøretøy, skal omfattes av forskriften.
+For tunneler som er åpne for offentlig trafikk per 1. januar 2010, skal det etter nærmere bestemmelser fastsatt i § 12, jf. vedlegg II, foretas en vurdering av om de er i samsvar med kravene i forskriften.

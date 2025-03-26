@@ -1,0 +1,4 @@
+# § 8. Sikkerhetstiltak
+Tunneler som omfattes av forskriften skal oppfylle minstekravene til sikkerhet fastsatt i vedlegg I og II til forskriften.
+Dersom enkelte av de konstruksjons- eller utrustningsmessige kravene som er fastsatt i vedlegg I bare kan oppfylles ved tekniske løsninger som enten ikke kan gjennomføres eller bare kan gjennomføres til en uforholdsmessig høy kostnad, kan Vegdirektoratet eller den direktoratet delegerer myndighet til, godkjenne at det treffes alternative risikoreduserende tiltak som vil føre til likeverdig eller forbedret sikkerhet. Virkningene av slike alternative tiltak skal påvises ved en risikoanalyse i samsvar med bestemmelsene i § 10.
+Vegdirektoratet eller den direktoratet delegerer myndighet til, kan gjøre unntak fra krav om nødutgang for tunneler kortere enn 10 km og med årsdøgntrafikk under 4 000 kjøretøy per kjørefelt dersom en risikoanalyse viser at tilsvarende eller bedre sikkerhet kan oppnås med alternative tiltak.
