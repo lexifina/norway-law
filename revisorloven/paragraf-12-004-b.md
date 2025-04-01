@@ -1,0 +1,3 @@
+# § 12-4 b. Uregelmessigheter
+(1) Hvis en revisor som attesterer bærekraftsrapporteringen til et foretak av allmenn interesse, mistenker, eller har rimelig grunn til å mistenke, at uregelmessigheter, herunder misligheter som gjelder bærekraftsrapporteringen, kan forekomme eller har funnet sted, skal revisoren underrette foretaket og oppfordre det til å undersøke saken og treffe egnede tiltak for å håndtere slike uregelmessigheter og hindre at de oppstår igjen.
+(2) Hvis foretaket ikke undersøker saken, skal Finanstilsynet underrettes. Hvis revisoren i god tro formidler opplysninger om eventuelle uregelmessigheter til Finanstilsynet, skal dette ikke anses som et brudd på taushetsplikt.

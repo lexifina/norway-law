@@ -1,0 +1,7 @@
+# § 13-1. Kvalitetskontroll
+(1) Statsautoriserte revisorer og revisjonsselskaper er underlagt kvalitetskontroll av Finanstilsynet eller den tilsynet utpeker. Kvalitetskontroll foretas på grunnlag av en risikovurdering. Kvalitetskontroll av revisjonsforetak og oppdragsansvarlige revisorer som utfører lovfestet revisjon eller attestasjon av pliktig bærekraftsrapportering, foretas minst hvert sjette år.
+(2) Kvalitetskontrollen skal omfatte en vurdering av uavhengighet, ressursanvendelse, honorarer for lovfestet revisjon og for attestasjon av pliktig bærekraftsrapportering og utførelsen av oppdrag om lovfestet revisjon og attestasjon av pliktig bærekraftsrapportering. For revisjonsselskaper skal kvalitetskontrollen dessuten omfatte en vurdering av selskapets kvalitetsstyring. Resultatene av kvalitetskontrollen skal beskrives i en skriftlig rapport.
+(3) Merknader etter kvalitetskontrollen skal følges opp uten ugrunnet opphold.
+(4) Kvalitetskontrollen skal ta hensyn til omfanget av og kompleksiteten i revisjonsforetakets virksomhet.
+(5) Kontrollører skal ha den utdanning og erfaring som er nødvendig for å kunne utføre en kvalitetskontroll. En kontrollør kan ikke i løpet av de tre siste årene før en kontroll ha vært tilknyttet den kontrollerte som tillitsvalgt, partner, ansatt eller på annen måte. Finanstilsynet skal offentliggjøre en årlig rapport om resultatene fra kvalitetskontrollen.
+(6) Finanstilsynet godkjenner opplegget for kvalitetskontroll som utføres av andre enn tilsynet, og tilsynet kan gi instrukser om gjennomføringen av kontrollene.

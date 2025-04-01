@@ -1,0 +1,13 @@
+# § 9-7. Revisjonsberetning
+(1) Revisor skal avgi en revisjonsberetning som viser resultatet av den lovfestede revisjonen. Revisjonsberetningen skal være skriftlig, datert, signert av oppdragsansvarlig revisor og angi hvor revisor er etablert. Revisjonsberetningen skal være på norsk eller samme språk som den revidertes årsregnskap. Revisjonsberetningen skal avgis uten ugrunnet opphold etter at årsregnskapet er utarbeidet.
+(2) I revisjonsberetningen skal revisor
+a) navngi den reviderte, hvilket årsregnskap som er revidert, og hvilket regnskapsregelverk som er anvendt ved utarbeidelsen av årsregnskapet
+b) gi en beskrivelse av hva revisjonen har omfattet, der det minst skal opplyses hvilke revisjonsstandarder som er anvendt
+c) uttale seg om årsregnskapet etter revisors mening gir et rettvisende bilde i samsvar med det regnskapsregelverket som er benyttet og om det oppfyller gjeldende lovkrav. Revisors konklusjon skal enten være uten forbehold, med forbehold eller negativ. Hvis revisor ikke har grunnlag for å konkludere, skal det opplyses at revisor ikke kan uttale seg
+d) ved bruk av presisering vise til forhold i årsregnskapet som revisor mener bør fremheves uten å ta forbehold
+e) opplyse om andre forhold som revisor på grunnlag av revisjonen anser at brukerne av revisjonsberetningen bør gjøres kjent med, herunder om det foreligger forhold som kan føre til ansvar for medlem av styret, bedriftsforsamlingen, representantskapet eller daglig leder
+f) uttale seg om årsberetningen etter revisors mening er konsistent med årsregnskapet og, basert på kunnskapen opparbeidet gjennom revisjonen av årsregnskapet, angi om det er avdekket vesentlig feilinformasjon i årsberetningen og opplyse om arten av slik feilinformasjon
+g) uttale seg om årsberetningen inneholder de opplysninger som skal gis i henhold til gjeldende lovkrav. Dette gjelder ikke for bærekraftsrapportering som er gitt i årsberetningen i henhold til regnskapsloven §§ 2-3 til 2-7.
+h) uttale seg hvis det er vesentlig usikkerhet knyttet til hendelser eller forhold som kan gi grunnlag for betydelig tvil om den revidertes evne til fortsatt drift.
+(3) Annet ledd bokstav f og g gjelder på samme måte for informasjon som er publisert separat og henvist til i årsberetningen i henhold til regnskapsloven § 2-9 om redegjørelse om foretaksstyring og eventuelt § 2-10 om rapportering om betalinger til myndigheter mv.
+(4) Der revisjonen er utført av mer enn én revisor, skal revisorene bli enige om resultatet av revisjonen og avgi en felles revisjonsberetning. Hvis revisorene ikke blir enige, skal revisorene uttale seg om årsregnskapet i hvert sitt avsnitt i revisjonsberetningen og angi årsaken til uenigheten.

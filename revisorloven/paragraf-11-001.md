@@ -1,0 +1,3 @@
+# § 11-1. Erstatningsansvar
+(1) En oppdragsansvarlig revisor plikter å erstatte skade som denne forsettlig eller uaktsomt har voldt under utførelsen av sitt oppdrag. Et revisjonsselskap er solidarisk ansvarlig med en oppdragsansvarlig revisor som har utført oppdraget på dets vegne.
+(2) Erstatningsansvar etter første ledd kan lempes når retten under hensyn til skadens størrelse, den ansvarliges økonomiske bæreevne, foreliggende forsikringer og forsikringsmuligheter, skyldforhold, ansvarsfordelingen mellom revisor og den revidertes organer og forholdene ellers finner at ansvaret virker urimelig tyngende for den ansvarlige. Det samme gjelder når det i særlige tilfeller er rimelig at den skadelidte helt eller delvis bærer skaden.

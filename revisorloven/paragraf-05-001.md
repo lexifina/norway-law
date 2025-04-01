@@ -1,0 +1,11 @@
+# § 5-1. Krav til etterutdanning
+(1) En statsautorisert revisor skal ha gjennomført minst 120 timer relevant etterutdanning i løpet av de tre foregående kalenderårene eller i løpet av det inneværende og de to foregående kalenderårene. Etterutdanningen skal være innenfor fagkretsen for en mastergrad i regnskap og revisjon, jf. § 3-2 første ledd. Som relevant etterutdanning regnes
+a) strukturert opplæring og undervisning
+b) utarbeidelse av undervisningsopplegg, artikler og annet fagstoff, deltakelse i fagteknisk utvalgsarbeid, sensur ved eksamen og likeverdig aktivitet med inntil 30 timer.
+(2) Etterutdanningen etter første ledd bokstav a) skal være tilstrekkelig og må minst dekke fagområdene finansregnskap, revisjon, verdsettelse og analyse, skatte- og avgiftsrett og foretaksrett.
+(3) Kravene til etterutdanning skal være oppfylt fra og med det fjerde årsskiftet etter at revisoren fikk godkjenning etter § 3-1.
+(4) Etterutdanningen skal dokumenteres. Dokumentasjon for strukturert opplæring skal være utarbeidet av den som arrangerer opplæringen og skal inneholde navn på arrangøren og den som står for opplæringen, tittelen på opplæringen, en kort beskrivelse av det faglige innholdet, dato for gjennomføring, antall timer deltakelse og opplæringsformen.
+(5) Revisoren skal kunne fremvise en samlet kronologisk oversikt over etterutdanning som er gjennomført i hver treårsperiode med opplysning om antall timer og fordeling på fagemner som angitt i andre ledd. For strukturert opplæring skal oversikten angi arrangør, tittelen på opplæringen og dato for gjennomføring.
+(6) Dokumentasjon etter fjerde ledd og oversikt som nevnt i femte ledd skal oppbevares i fem år etter utløpet av det kalenderåret etterutdanningen ble gjennomført.
+(7) Ved avvikling av foreldrepermisjon utover seks måneder utvides perioden i første ledd med ett år. Finanstilsynet kan i særlige tilfeller og i en tidsbegrenset periode tillate et lavere krav til etterutdanning enn angitt i første ledd.
+(8) Reglene i første til syvende ledd gjelder tilsvarende for bærekraftsrevisorer, jf. § 3-3 a. Foruten fagområdene nevnt i annet ledd, skal etterutdanningen også dekke bærekraftsrapportering og attestasjon av bærekraftsrapportering.
