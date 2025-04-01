@@ -1,0 +1,3 @@
+# § 8-5. (frist for å gi melding om forsikringstilfellet og for å foreta rettslige skritt)
+Sikrede mister retten til erstatning dersom kravet ikke er meldt til forsikringsforetaket innen ett år etter at sikrede fikk kunnskap om de forhold som begrunner det.
+Avslår forsikringsforetaket et krav om erstatning helt eller delvis, mister sikrede retten til erstatningen dersom ikke sak er anlagt eller tvisteløsning etter § 22-2 eller nemndbehandling etter §§ 2 eller 3 i lov om naturskadeforsikring er krevd innen seks måneder etter at sikrede fikk melding i et skriftlig dokument om avslaget. Meldingen må angi fristens lengde, hvordan den avbrytes og følgen av at den oversittes. Foreldelsesloven 18. mai 1979 nr. 18 § 10 nr. 2 og 4 gjelder tilsvarende.

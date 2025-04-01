@@ -1,0 +1,4 @@
+# § 22-1. (klagebehandling)
+Forsikringsforetaket skal ha passende og effektive rutiner for behandling av klager og krav fra kundene etter loven her.
+En skriftlig beskrivelse av foretakets egen klagebehandling, mulighet for å klage til tilsynsmyndigheter, jf. § 22-3, og mulighet for tvisteløsning i etablert klageorgan, jf. § 22-2, skal være tilgjengelig for kundene.
+Klager og krav som gjelder brudd på § 1-5 første ledd, skal besvares i et skriftlig dokument. Svaret skal omfatte alle spørsmål kunden har reist, og skal meddeles kunden innen rimelig tid. Dersom et endelig svar ikke foreligger innen 15 virkedager etter mottakelsen, skal foretaket sende et foreløpig svar til kunden med en tydelig angivelse av årsakene til at svaret ikke foreligger, og med en angivelse av når kunden vil motta endelig svar. I ekstraordinære tilfeller utenfor foretakets kontroll kan fristen for å sende et slikt foreløpig svar forlenges til inntil 35 virkedager fra mottakelsen.

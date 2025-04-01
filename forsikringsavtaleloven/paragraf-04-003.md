@@ -1,0 +1,2 @@
+# § 4-3. (forsikringsforetakets rett til å si opp forsikringen når det har fått uriktige opplysninger)
+Blir forsikringsforetaket kjent med at de opplysninger det har fått om risikoen er uriktige eller ufullstendige på noe vesentlig punkt, kan det si opp forsikringen med 14 dagers varsel. § 3-7 annet ledd får tilsvarende anvendelse. Har forsikringstakeren opptrådt svikaktig, kan foretaket likevel si opp denne og andre forsikringsavtaler det har med forsikringstakeren med øyeblikkelig virkning.

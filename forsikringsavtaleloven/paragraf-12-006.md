@@ -1,0 +1,2 @@
+# § 12-6. (varsel om opphør av livsforsikring)
+Er en livsforsikring avtalt å gjelde for tre år eller mer, skal forsikringsforetaket senest 3 måneder før utløpet av forsikringstiden varsle forsikringstakeren om at forsikringen vil opphøre, og om den rett til å forlenge forsikringsforholdet som forsikringstakeren eventuelt kan ha. Har forsikringen vært fornyet, regnes treårsfristen fra første gang forsikringen ble tegnet.

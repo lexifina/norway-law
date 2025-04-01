@@ -1,0 +1,4 @@
+# § 8-3. (forsikringsforetakets adgang til å motregne i erstatningen)
+I en erstatning som tilfaller forsikringstakeren, har forsikringsforetaket bare rett til å motregne med forfalt premie fra samme eller andre forsikringsforhold med foretaket.
+I erstatning som tilfaller en medforsikret tredjeperson eller en skadelidt under en ansvarsforsikring, kan forsikringsforetaket bare motregne med premie fra samme forsikringsforhold som er forfalt i løpet av de siste to år før erstatningsutbetalingen. Motregning kan bare skje for beløp som ikke kan dekkes ved motregning etter første ledd. Er det flere medforsikrede eller skadelidte som har krav på erstatning, fordeles motregningen med forholdsmessige beløp på hver enkelt.
+Ved tvungen ansvarsforsikring gjelder § 7-7 annet ledd første punktum tilsvarende for forsikringsforetakets motregningsrett overfor skadelidte.

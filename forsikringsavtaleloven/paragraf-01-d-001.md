@@ -1,0 +1,8 @@
+# § 1D-1. (angrerett)
+En forbruker har angrerett ved inngåelse av enhver avtale om forsikringstjenester når avtalen inngås ved fjernsalg. Med fjernsalg menes i denne loven avtaler som inngås ved organisert ordning for salg eller tjenesteyting uten at forsikringsdistributøren og kunden er fysisk til stede samtidig, og der inngåelse av avtale skjer utelukkende ved bruk av fjernkommunikasjonsmidler. Første punktum gjelder likevel ikke for
+a) tjenester der prisen avhenger av svingninger i finansmarkedet som tjenesteyteren ikke har innflytelse på og som kan forekomme før utløpet av angrefristen
+b) avtaler om reise- og reisegodsforsikring eller andre forsikringsavtaler med kortere varighet enn en måned
+c) avtaler som fullt ut er oppfylt av partene fordi forbrukeren uttrykkelig har bedt om oppfyllelse uten å bruke angreretten før oppfyllelsen.
+En forbruker har angrerett ved inngåelse av enhver avtale om forsikringstjenester også når avtalen inngås utenom forsikringsdistributørens faste forretningslokaler som angitt i angrerettloven § 5 bokstav d, jf. bokstav c.
+Ved bruk av angrerett etter første og annet ledd faller partenes plikt til å oppfylle avtalen bort. Dersom noen av partene har oppfylt hele eller deler av avtalen, skal det skje en tilbakeføring etter reglene i §§ 1D-2 til 1D-4.
+Kongen kan i forskrift fastsette nærmere regler om angreretten, herunder om bruk av angrerettskjema og om at enkelte tjenester skal være unntatt fra angreretten i første og annet ledd. I forskrift kan det også fastsettes nærmere regler om gjennomføring av angreretten som helt eller delvis kan fravike reglene i §§ 1D-2 til 1D-4.

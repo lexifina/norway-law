@@ -1,0 +1,5 @@
+# § 12-2. (ansvarstiden)
+Er ikke annet lovbestemt eller avtalt, begynner forsikringsforetakets ansvar å løpe når forsikringstakeren eller foretaket har godtatt de vilkår som den annen part har stilt.
+Har forsikringsforetaket sendt aksept i et skriftlig dokument til forsikringstakeren, løper foretakets ansvar fra kl 0000 den dagen da aksepten ble sendt, dersom anmodning om forsikring var kommet til foretaket senest dagen før.
+Har forsikringstakeren sendt anmodning i et skriftlig dokument om en bestemt forsikring, svarer forsikringsforetaket allerede for forsikringstilfeller som inntreffer etter at det har mottatt anmodningen. Dette gjelder likevel ikke dersom foretaket under enhver omstendighet ville ha avslått forsikringen. Foretaket svarer heller ikke for følgene av forhold som forelå på søknadstidspunktet dersom disse forholdene ville ha blitt avdekket ved foretakets undersøkelser og ført til avslag.
+Skal forsikringsforetakets ansvar begynne å løpe en bestemt dag uten at tidspunktet er angitt, begynner ansvaret kl 0000. Gjelder en forsikring til en bestemt dag uten at tidspunktet er angitt, opphører ansvaret kl 2400.

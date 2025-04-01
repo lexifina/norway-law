@@ -1,0 +1,3 @@
+# § 3-5. (varsel fra forsikringsforetaket om at forsikringen ikke skal fornyes)
+Vil ikke forsikringsforetaket at forsikringen skal fornyes automatisk, må det varsle forsikringstakeren om dette senest to måneder før forsikringstidens utløp. Varslet skal gis i et skriftlig dokument og være grunngitt. I motsatt fall fornyes forsikringsforholdet for ett år.
+Forsikringsforetaket kan bare unnlate å fornye en forsikring etter første ledd når det foreligger særlige grunner som gjør det rimelig å avbryte forsikringsforholdet. Foretaket skal i varslet orientere om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd om foretaket har rett til å unnlate fornyelse.

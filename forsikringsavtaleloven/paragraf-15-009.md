@@ -1,0 +1,2 @@
+# § 15-9. (bortfall av retten til å kreve forsikringssum)
+Reglene i arveloven § 72 gjelder tilsvarende for den som har rett til en forsikringssum etter bestemmelsene i dette kapitlet. Dette gjelder også for forsikringsytelser som utløses av invaliditet som er en følge av handlingen. Ved forsikring på fremmed liv tilfaller ytelser som frakjennes forsikringstakeren, den forsikrede, eller hvis den forsikrede er død, den forsikredes etterlatte etter reglene i § 15-1 annet og tredje ledd.

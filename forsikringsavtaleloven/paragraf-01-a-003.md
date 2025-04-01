@@ -1,0 +1,4 @@
+# § 1A-3. (forsikringsforetakets og oppdragsgiverens plikter ved forsikringsdistribusjon gjennom andre)
+Er forsikringsdistributøren en annen enn forsikringsforetaket som ved avtalen skal påta seg å yte forsikring, gjelder lovens annen del så langt den passer for forsikringsforetakets egen opptreden og egne opplysninger og vilkår.
+Ved forsikringsdistribusjon gjennom en aksessorisk forsikringsagent som er unntatt fra registreringsplikt etter forsikringsformidlingsloven § 2-4 annet ledd, skal oppdragsgiveren sikre at kunden gis opplysninger som angitt i § 1C-5 annet ledd bokstav a og b og §§ 1C-6 og 1C-7 og at § 1B-1 første ledd og tredje ledd første og annet punktum og § 1C-3 gis tilsvarende anvendelse.
+Kongen kan i forskrift gi nærmere regler om oppdragsgiverens plikter etter annet ledd. I forskriften kan det gis bestemmelser som fraviker disse reglene.

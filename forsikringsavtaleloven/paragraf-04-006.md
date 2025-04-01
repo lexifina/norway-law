@@ -1,0 +1,2 @@
+# § 4-6. (ansvarsbegrensning på grunn av endring av risikoen)
+Forsikringsforetaket kan ta forbehold om at det skal være helt eller delvis uten ansvar dersom et bestemt angitt forhold av vesentlig betydning for risikoen blir endret. Et slikt forbehold kan ikke gjøres gjeldende dersom sikrede verken visste eller burde vite at forholdet ble endret, eller dersom forsikringstilfellet ikke skyldes det endrede forhold.

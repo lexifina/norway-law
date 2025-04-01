@@ -1,0 +1,3 @@
+# § 12-10. (retten til å fortsette en livsforsikring når gjenkjøpsverdien blir utbetalt)
+Er gjenkjøpsverdien av en individuell livsforsikring utbetalt til forsikringstakeren eller til en kreditor, jf §§ 15-8 og 16-2, kan forsikringstakeren uten å gi nye helseopplysninger kreve at forsikringen fortsetter i den gjenværende del av den opprinnelig fastsatte forsikringstid som ren risikoforsikring med fradrag av gjenkjøpsverdien.
+Forsikringsforetaket skal, senest i forbindelse med utbetalingen av gjenkjøpsverdien, varsle forsikringstakeren om retten til fortsatt forsikring. Krav om slik forsikring må settes fram innen 6 måneder etter at varslet ble sendt.

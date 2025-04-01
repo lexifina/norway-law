@@ -1,0 +1,4 @@
+# § 21-4. (ansvarsfrihet)
+Forsikringsforetaket kan ikke holdes ansvarlig for økonomisk tap som er forårsaket av usedvanlige omstendigheter utenfor foretakets kontroll, og som foretaket ikke med rimelighet kunne forutse eller unngå følgene av. Det samme gjelder for tap som er forårsaket av at foretaket er bundet av andre forpliktelser i eller i medhold av lov.
+Ansvarsfrihet etter første ledd gjelder så lenge de usedvanlige omstendighetene er til stede. Faller de nevnte omstendighetene bort, kan ansvar gjøres gjeldende dersom det fortsatt foreligger mislighold.
+Første og annet ledd gjelder tilsvarende for oppdragsgiverens ansvar etter § 21-3 annet ledd. En forsikringsagent eller aksessorisk forsikringsagent er ikke ansvarlig dersom agenten godtgjør at tapet er forårsaket av en instruks fra oppdragsgiveren som det var forsvarlig å utføre.

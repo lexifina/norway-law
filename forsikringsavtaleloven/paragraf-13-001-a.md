@@ -1,0 +1,3 @@
+# § 13-1 a. (forsikringstakerens og den forsikredes plikt til å gi opplysninger om risikoen)
+Forsikringsforetaket kan be om opplysninger som kan ha betydning for dets vurdering av risikoen.
+Så lenge forsikringsforetaket ikke har påtatt seg å dekke forsikringen, skal forsikringstakeren og den forsikrede svare på de spørsmålene som foretaket stiller for å kunne vurdere risikoen. Forsikringstakeren og den forsikrede skal gi riktige og fullstendige svar på foretakets spørsmål. På oppfordring fra foretaket skal forsikringstakeren og den forsikrede gi opplysninger om særlige forhold som de må forstå er av vesentlig betydning for foretakets vurdering av risikoen.

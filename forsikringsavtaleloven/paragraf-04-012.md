@@ -1,0 +1,2 @@
+# § 4-12. (hensynet til sikredes livsforhold)
+Ved vurderingen av om forsikringsforetakets ansvar skal settes ned eller falle bort etter reglene i dette kapitlet, skal det ved forsikring av bolig, innbo og andre gjenstander som nevnt i lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 2-3 første ledd bokstavene a og b tas hensyn til hvilken virkning en avkortning vil få for sikrede eller for andre personer som er økonomisk avhengige av sikrede.

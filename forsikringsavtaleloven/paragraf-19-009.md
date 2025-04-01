@@ -1,0 +1,3 @@
+# § 19-9. (meldinger fra eller til medlemmene)
+Blir en melding i forsikringsforholdet gitt til forsikringstakeren, kan det ikke gjøres gjeldende at den ikke er kommet fram til forsikringsforetaket. Dette gjelder likevel ikke dersom medlemmet hadde grunn til å tro at meldingen ikke ville komme fram til foretaket, og hadde mulighet for å varsle dette.
+Hvis forsikringstakeren etter denne loven eller etter avtalen har plikt til å sende melding til medlemmene eller på annen måte varsle dem, og forsikringstakeren unnlater dette, får unnlatelsen i forhold til medlemmene samme virkning som om den var skjedd i forsikringsforetaket. Dette gjelder likevel ikke dersom medlemmet på annen måte var blitt kjent med meldingen, og hadde rimelig mulighet til å innrette seg etter den.

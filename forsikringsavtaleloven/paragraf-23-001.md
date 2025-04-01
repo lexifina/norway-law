@@ -1,0 +1,2 @@
+# § 23-1. (overtredelsesgebyr)
+Ved forsettlig eller uaktsom overtredelse av reglene om informasjonsplikt overfor forbruker ved fjernsalg eller salg utenom tjenesteyterens faste forretningslokaler etter §§ 1C-1 til 1C-11 og ved forsettlig eller uaktsom overtredelse av § 1D-3 tredje ledd eller § 1D-4 første ledd kan det fastsettes et overtredelsesgebyr etter reglene gitt i eller i medhold av angrerettloven § 29.

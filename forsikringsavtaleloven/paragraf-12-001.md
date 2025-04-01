@@ -1,0 +1,2 @@
+# § 12-1. (grunnlaget for forsikringsforetakets vurdering)
+Når forsikringsforetaket avgjør om det skal overta en forsikring, og vurderer risikoen, skal det legge til grunn den forsikredes helsetilstand på det tidspunkt da forsikringstakeren avga fullstendig søknad om en bestemt forsikring. Foretaket kan likevel ta hensyn til at den forsikredes helse er forverret etter at søknaden ble avgitt, dersom forverringen har sammenheng med forhold som forelå på søknadstidspunktet, og som blir avdekket ved foretakets undersøkelser.

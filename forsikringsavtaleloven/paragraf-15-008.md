@@ -1,0 +1,5 @@
+# § 15-8. (pantsettelse av forsikringen)
+En kapitalforsikring kan pantsettes. Pantet omfatter retten til å få utbetalt forsikringssummen når den forfaller, og retten til forsikringens gjenkjøpsverdi. Tillegg til de opprinnelig bestemte ytelser omfattes ikke av pantsettelsen, hvis ikke noe annet er avtalt.
+Uten samtykke fra panthaveren kan forsikringsforetaket ikke utbetale forfalte ytelser under forsikringen, jf panteloven § 1-6 annet ledd.
+Er pantekravet forfalt, kan panthaveren kreve gjenkjøpsverdien utbetalt til seg så langt det er nødvendig for å dekke pantekravet. Panthaveren skal i så fall først med to måneders varsel gi pantsetteren adgang til å avverge panthaverens krav ved enten å dekke pantekravet eller betale et beløp tilsvarende gjenkjøpsverdien. Panthaveren har ikke rett til å realisere pantet på annen måte.
+Er forsikringen pantsatt ved den forsikredes død, og blir pantekravet dekket av dødsboet, kan boet kreve vederlag av forsikringssummen hvis ikke noe annet følger av forholdet.

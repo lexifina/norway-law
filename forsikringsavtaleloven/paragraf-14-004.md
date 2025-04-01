@@ -1,0 +1,2 @@
+# § 14-4. (særskilt premievarsel ved livsforsikring)
+Ved livsforsikring skal forsikringsforetaket også sende varsel etter § 14-2 første ledd til den som ifølge livsforsikringsregisteret er panthaver i forsikringen. Forsikringstakerens ektefelle, den forsikrede og den som er endelig oppnevnt som begunstiget, kan også kreve slikt varsel. Forsømmer foretaket å sende varsel, kan det ikke gjøres gjeldende overfor vedkommende at premiebetalingen er misligholdt.

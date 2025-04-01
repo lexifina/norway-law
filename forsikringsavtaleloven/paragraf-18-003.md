@@ -1,0 +1,3 @@
+# § 18-3. (forsikringsforetakets adgang til å motregne i erstatnings- eller forsikringsbeløpet)
+I erstatnings- eller forsikringsbeløp som tilfaller forsikringstakeren, har forsikringsforetaket bare rett til å motregne med forfalt premie fra samme eller andre forsikringsforhold med foretaket.
+I erstatning- eller forsikringsbeløp som tilfaller andre enn forsikringstakeren, kan forsikringsforetaket bare motregne med premie fra samme forsikringsforhold som er forfalt i løpet av de siste to år før erstatningsutbetalingen. Skal beløpet deles på flere, fordeles motregningen med forholdsmessige beløp på hver enkelt.

@@ -1,0 +1,2 @@
+# § 17-6. (avskjæring av innsigelser fra hjemmelsperson)
+Overfor den som i god tro har registrert en rettighet stiftet ved avtale med den som ifølge registeret er forsikringstaker, kan det ikke gjøres gjeldende at vedkommendes råderett bygger på et ugyldig rettserverv. Dette gjelder likevel ikke dersom ugyldigheten skyldes falsk, forfalskning, sinnssykdom, grov tvang som nevnt i avtaleloven § 28, mindreårighet eller vergemål med fratakelse av rettslig handleevne.
