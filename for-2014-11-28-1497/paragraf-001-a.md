@@ -1,0 +1,2 @@
+# § 1a. Gjennomføring av forordning (EU) nr. 1337/2013 om opprinnelsesmerking av kjøtt
+EØS-avtalen vedlegg II kapittel XII nr. 86a (forordning (EU) nr. 1337/2013) om gjennomføringsbestemmelser til europaparlaments- og rådsforordning (EU) nr. 1169/2011 hva angår angivelse av opprinnelsesland eller opphavssted for ferskt, kjølt eller frosset svine-, saue- og geitekjøtt samt fjørfe gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
