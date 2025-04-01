@@ -1,0 +1,2 @@
+# § 1C-6. (informasjon om tvisteløsning og klageorgan)
+Kunden skal gis opplysninger om adgangen til klagebehandling og behandling av tvister i klageorgan etter §§ 22-1 og 22-2, jf. også § 20-2. I tillegg skal kunden gis opplysninger om hvilket lands lovgivning og hvilket verneting som skal gjelde for avtalen. Hvis partene kan velge dette, skal det opplyses om at dette er valgfritt, og hva forsikringsforetaket foreslår at skal gjelde.

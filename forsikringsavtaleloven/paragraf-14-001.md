@@ -1,0 +1,2 @@
+# § 14-1. (forfallstid, første premievarsel)
+Dersom premiebetaling ikke er et vilkår for at forsikringsforetakets ansvar skal begynne å løpe, forfaller premien ved påkrav i samsvar med forsikringsavtalen. Betalingsfristen skal være minst en måned fra den dag foretaket har sendt premievarsel til forsikringstakeren. Har foretakets ansvar begynt å løpe, fortsetter det å løpe selv om betaling ikke skjer innen fristen.

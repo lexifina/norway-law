@@ -1,0 +1,4 @@
+# § 5-2. (forsinket premiebetaling, senere premievarsler)
+Dersom premien ikke er betalt ved utløpet av betalingsfristen etter § 5-1, og forsikringsforetakets ansvar løper, må foretaket for å bli fri for ansvar sende et nytt premievarsel med minst 14 dagers betalingsfrist fra avsendelsen. Varslet skal klart angi at forsikringen opphører dersom premien ikke blir betalt innen den oppgitte fristen.
+Godtgjøres det at forsikringstakeren ikke har kunnet betale før fristens utløp på grunn av uforutsette hindringer som ikke kan bebreides forsikringstakeren, løper forsikringsforetakets ansvar i inntil tre måneder etter utløpet av fristen.
+Betales premien i andre tilfeller enn nevnt i annet ledd etter utløpet av fristen i første ledd, anses betalingen som en anmodning om en ny forsikring. § 3-1 tredje ledd gjelder tilsvarende, likevel slik at forsikringsforetaket først svarer fra dagen etter at premien er betalt.

@@ -1,0 +1,4 @@
+# § 1C-7. (informasjon om produktpakker)
+Når en forsikring tilbys sammen med en annen tjeneste eller et annet produkt som del av en pakke eller som vilkår for den samme avtalen eller pakken, skal kunden få opplyst om de ulike elementene også tilbys enkeltvis.
+Kunden skal gis nødvendige opplysninger om hvert element i avtalen, herunder separate opplysninger om omkostninger og gebyrer knyttet til det enkelte element. Hvis risiko eller dekning i en produktpakke skiller seg fra den risiko eller dekning som er forbundet med de enkelte elementene, skal forsikringsdistributøren forklare hvordan sammensetningen av enkeltelementene påvirker den totale risikoen eller dekningen.
+Et tilbud eller en personlig anbefaling som gjelder en pakke av tjenester eller produkter som nevnt i første ledd, skal inneholde en vurdering av om det er i kundens interesse å kjøpe hele pakken.

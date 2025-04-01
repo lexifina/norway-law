@@ -1,0 +1,2 @@
+# § 4-4. (begrensning av forsikringsforetakets rett til å påberope seg mangelfulle opplysninger)
+Forsikringsforetaket kan ikke påberope seg at det har fått uriktige eller ufullstendige opplysninger dersom det kjente eller burde ha kjent til dette forhold da det fikk opplysningene. Det samme gjelder dersom det forhold som opplysningene gjaldt, var uten betydning for foretaket, eller senere har opphørt å ha betydning. Er det utvist svik, gjelder begrensningen i første punktum bare dersom foretaket var klar over at de opplysningene det fikk, var uriktige eller ufullstendige.

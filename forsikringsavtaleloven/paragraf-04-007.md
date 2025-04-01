@@ -1,0 +1,3 @@
+# § 4-7. (forbehold om å sette ned erstatningen ved endring av risikoen)
+Forsikringsforetaket kan ta forbehold om at dets ansvar for forsikringstilfelle skal bli forholdsmessig satt ned dersom premieberegningen uttrykkelig er gjort avhengig av hvordan forsikringsgjenstanden blir brukt, at det er gjennomført visse sikkerhetstiltak e l, og det er skjedd en endring som betinger høyere premie.
+Et forbehold som nevnt i første ledd, kan ikke gjøres gjeldende dersom forsikringstilfellet ikke skyldes endringen. Det kan heller ikke gjøres gjeldende dersom sikrede verken har foretatt eller samtykket i endringen, og sikrede har tatt rimelige skritt for å varsle forsikringsforetaket så snart han eller hun har fått vite om den.

@@ -1,0 +1,5 @@
+# § 16-1. (alminnelige regler om kreditorvern)
+Før forsikringstilfellet er inntruffet, kan retten etter forsikringsavtalen ikke tjene til gjeldsdekning, hvis ikke forsikringen er overdradd til noen annen enn forsikringstakerens ektefelle eller den forsikrede. Vil i så fall erververens fordringshavere søke dekning i verdien av forsikringen, gjelder reglene i § 15-8 tredje ledd tilsvarende.
+Forsikringssum som utbetales ved død kan ikke beslaglegges av avdødes fordringshavere, hvis det ikke ved oppnevnelse av en begunstiget er bestemt noe annet. § 15-8 fjerde ledd gjelder i så fall tilsvarende.
+Forfaller forsikringssummen ved en annen begivenhet enn den forsikredes død, kan den forsikredes fordringshavere i ett år fra forfall ikke søke dekning i den forsikredes krav mot forsikringsforetaket. Tilsvarende gjelder for ektefellens fordringshavere når den forsikredes ektefelle får rett til forsikringssummen ved forfall.
+Ved livrenteforsikring kan rentenyterens fordringshavere søke dekning i den løpende livrente i samsvar med lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett §§ 2-6, 2-7 og 2-11.

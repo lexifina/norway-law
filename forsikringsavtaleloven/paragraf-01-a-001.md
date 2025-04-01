@@ -1,0 +1,3 @@
+# § 1A-1. (virkeområde for lovens annen del)
+Lovens annen del gjelder for forsikringsdistribusjon, med mindre noe annet følger av denne loven eller av forskrifter gitt i medhold av den.
+§ 1C-1 annet ledd, § 1C-2 annet ledd, §§ 1C-10 og 1C-11 og §§ 1D-1 til 1D-4 gjelder ved salg av enhver form for forsikringstjenester. §§ 1B-1 til 1B-3 og kapittel 1C gjelder ikke for aksessoriske forsikringsagenter som er unntatt fra registreringsplikt etter forsikringsformidlingsloven § 2-4 annet ledd, jf. § 1A-3. § 1B-3 gjelder ikke i forbindelse med tegning av forsikring for store risikoer, jf. § 1-3 annet ledd.

@@ -1,0 +1,3 @@
+# § 19-3. (informasjon om forsikringen)
+Når forsikringsordningen er etablert, og senere med passende mellomrom, skal forsikringsforetaket og forsikringstakeren på forsvarlig måte sørge for at de som er eller kan bli medlemmer, blir orientert om de forhold som er nevnt i § 19-2 og om tilleggsdekninger det kan være aktuelt for medlemmene å tegne.
+Forsikringsforetaket og forsikringstakeren skal på anmodning fra medlemmer gi informasjon om vilkårene for opptjening av rett til pensjon, hvilken betydning det har for pensjonsrettighetene å avslutte arbeidsforholdet, verdien av de opptjente pensjonsrettigheter og vilkårene for forvaltning og regulering av opptjente pensjonsrettigheter.

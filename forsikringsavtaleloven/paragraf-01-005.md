@@ -1,0 +1,4 @@
+# § 1-5. (alminnelige plikter)
+For å ivareta kundenes interesser og markedets integritet på beste måte skal forsikringsforetaket på rimelig vis identifisere eventuelle egne interessekonflikter og opptre ærlig, redelig og profesjonelt. Foretaket skal opptre faglig forsvarlig ut fra de plikter som gjelder for tjenesten, og det som ellers er avtalt.
+Foretaket skal benytte avtalt kommunikasjonsform og norsk eller et annet språk som partene har avtalt. Alle opplysninger skal være klare, og de skal ikke være villedende. Prisopplysninger skal gis i norske kroner, hvis ikke annen valuta er avtalt.
+Kongen kan i forskrift fastsette nærmere regler om foretakets plikter etter denne paragrafen, herunder krav til faglige kvalifikasjoner for virksomheten og ansatte i virksomheten, krav om dokumentasjon av kvalifikasjonene og regler om tilsyn med disse kravene.

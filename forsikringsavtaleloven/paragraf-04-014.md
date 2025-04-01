@@ -1,0 +1,3 @@
+# § 4-14. (forsikringsforetakets plikt til å si fra om at det vil bruke sine rettigheter)
+Hvis forsikringsforetaket vil gjøre gjeldende at det etter en av reglene i dette kapitlet er helt eller delvis fri for ansvar eller har rett til å si opp forsikringen, skal det i et skriftlig dokument gi forsikringstakeren eller sikrede beskjed om sitt standpunkt. Beskjeden skal gis uten ugrunnet opphold etter at foretaket ble kjent med det forhold som medfører at regelen kan anvendes. I denne forbindelse skal foretaket også gi orientering om adgangen til å benytte utenrettslige tvisteløsningsordninger, eventuelt om andre muligheter for å få prøvd saken utenfor domstolene.
+Forsømmer forsikringsforetaket å gi slik beskjed, mister det retten til å påberope seg forholdet.

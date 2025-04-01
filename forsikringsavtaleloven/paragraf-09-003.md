@@ -1,0 +1,2 @@
+# § 9-3. (informasjon om forsikringen)
+Når forsikringsordningen er etablert, og senere med passende mellomrom, skal forsikringsforetaket og forsikringstakeren på forsvarlig måte sørge for at de som er eller kan bli medlemmer, blir orientert om forhold som er nevnt i § 9-2 og om tilleggsdekninger det kan være aktuelt for medlemmene å tegne. Hvis vilkårene ikke går fram av forsikringsavtalen, skal det også orienteres om dem. Bruksbegrensninger, sikkerhetsforskrifter og frist for å gi melding om forsikringstilfellet, jf § 2-2 bokstavene b til d skal særlig fremheves.

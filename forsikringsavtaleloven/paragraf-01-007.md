@@ -1,0 +1,4 @@
+# § 1-7. (opplysninger i alminnelige vilkår og markedsføring)
+Opplysninger om forsikringsforetakets alminnelige vilkår skal være enkelt tilgjengelige på foretakets nettsider og i salgslokale. En forbruker skal på forespørsel få utlevert vilkårene på papir. Vilkårene skal være konsistente i sin utforming, språklig klare og lett lesbare på norsk. Prisopplysninger til forbrukere skal gis i norske kroner.
+Markedsføring av forsikring skal utformes og presenteres slik at den tydelig framstår som markedsføring. For øvrig skal markedsføring av forsikring utføres i samsvar med markedsføringslovens regler.
+Kongen kan i forskrift gi nærmere regler om krav til opplysninger og annet innhold i forsikringsforetakets alminnelige vilkår. Kongen kan i forskrift også gi regler om markedsføring av forsikring, herunder om markedsføring som skal anses som urimelig handelspraksis etter markedsføringsloven § 6.

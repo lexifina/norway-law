@@ -1,0 +1,2 @@
+# § 13-10. (handlinger foretatt for å avverge skade på person eller eiendom)
+Forsikringsforetaket kan ikke påberope seg reglene i §§ 13-6, 13-8 eller 13-9 dersom den handling det er tale om, tok sikte på å forebygge skade på person eller eiendom, og handlingen etter de foreliggende forhold måtte anses forsvarlig.

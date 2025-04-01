@@ -1,0 +1,3 @@
+# § 7-7. (skadelidtes stilling ved tvungen ansvarsforsikring)
+Har forsikringstakeren tegnet ansvarsforsikring for å oppfylle pålegg gitt i eller i medhold av lov (tvungen ansvarsforsikring), gjelder § 7-6 tilsvarende i den utstrekning skadelidtes stilling ikke er særskilt regulert.
+Forsikringsforetaket kan likevel ikke gjøre gjeldende innsigelser som det kunne ha gjort gjeldende mot forsikringstakeren eller sikrede, dersom det vet eller bør vite at det dreier seg om en tvungen ansvarsforsikring. Er en tvungen ansvarsforsikring oppsagt eller på annen måte bortfalt, får dette virkning i forhold til skadelidte en måned etter at vedkommende myndighet har mottatt varsel om forholdet.
