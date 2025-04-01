@@ -1,5 +1,5 @@
 # § 8-1. Tilsyn med eiendomsmegling
-(1) Finanstilsynet fører kontroll og tilsyn etter lov 7. desember 1956 nr. 1 om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel mv. (kredittilsynsloven) med
+(1) Finanstilsynet fører kontroll og tilsyn etter finanstilsynsloven med
 1) foretak og advokater som driver eiendomsmegling, jf. § 2-1,
 2) personer med eiendomsmeglerbrev, jf. § 4-2,
 3) jurister med tillatelse etter § 4-3 og
