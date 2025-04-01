@@ -1,0 +1,4 @@
+# § 13. Myndighet til å gi forskrift
+Departementet kan gi forskrift til gjennomføring og utfylling av denne loven, blant annet nærmere bestemmelser om retten til adgang til systemet, driften av systemet, krav til naturgassforetakenes virksomhet, konsesjon, regnskap, krav om oppbevaring av opplysninger, leverandørbytte, beskyttelse av forbrukere og andre kunder, måling og fakturering, unntak fra loven i geografisk avgrensete områder og for ny infrastruktur, behandling av tvister, saksbehandlingsfrister og utsatt iverksetting av vedtak.
+Departementet kan gi forskrift som er nødvendig for ivaretakelse av Norges forpliktelser etter EØS-avtalen til gjennomføring av bestemmelser om adgang til transmisjonsnett og om et byrå for samarbeid mellom energiregulatorer.
+Departementet kan gi forskrift om at reguleringsmyndigheten kan gi forskrift i medhold av første og annet ledd.

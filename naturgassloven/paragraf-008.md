@@ -1,0 +1,3 @@
+# § 8. Selskapsmessig skille for distribusjons- og lagersystemoperatør
+I et vertikalt integrert foretak som har en distribusjonssystemoperatør med over 100 000 tilknyttede kunder, skal distribusjonsvirksomheten skilles fra virksomhet innen produksjon eller forsyning av naturgass. Virksomhetene skal være organisert som selvstendige rettssubjekter. Distribusjonssystemoperatøren skal ikke direkte eller indirekte kontrollere eller kontrolleres av rettssubjekter som driver med produksjon eller forsyning av naturgass.
+Departementet kan gi forskrift om krav til selskapsmessig skille for lagersystemoperatører som er del av et vertikalt integrert foretak.
