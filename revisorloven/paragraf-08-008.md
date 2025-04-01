@@ -1,0 +1,3 @@
+# § 8-8. Karensperiode for adgang til å tiltre ledende stilling hos den reviderte
+(1) Personer som har vært oppdragsansvarlig eller valgt revisor for den reviderte, kan ikke tiltre en ledende stilling hos den reviderte i en periode på ett år etter at vedkommende avsluttet sitt oppdrag. Ved konsernrevisjon gjelder dette også for personer som har vært oppdragsansvarlig revisor i vesentlige datterselskaper hvor det samme revisjonsselskapet er revisor.
+(2) Andre statsautoriserte revisorer som har vært direkte involvert i et oppdrag om lovfestet revisjon, kan ikke ta en stilling som nevnt i første ledd hos den reviderte i en periode på minst ett år etter at vedkommende var direkte involvert i oppdraget.

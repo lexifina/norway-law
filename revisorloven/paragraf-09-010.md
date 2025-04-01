@@ -1,0 +1,3 @@
+# § 9-10. Revisors plikter ved revisorbekreftelser
+(1) Oppdrag om revisorbekreftelser skal utføres og dokumenteres i samsvar med god revisjonsskikk. Oppdraget skal utføres med profesjonell skepsis. Oppdragsdokumentasjon skal oppbevares i fem år etter at revisorbekreftelsen er avgitt. Kravet om god revisjonsskikk innebærer blant annet at revisor skal kommunisere med styret i samsvar med § 9-5 første ledd. Når grunnlaget for bekreftelsen ikke er lov eller forskrift skal revisor sørge for en klar forståelse av oppdraget.
+(2) Kravene til uavhengighet i § 8-1 første og andre ledd og § 8-5 første ledd gjelder tilsvarende for oppdrag om revisorbekreftelser.

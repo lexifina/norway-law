@@ -1,0 +1,4 @@
+# § 4-2. Adgang for revisjonsselskaper fra andre EØS-land til å drive virksomhet i Norge
+(1) Et revisjonsselskap som er godkjent i et annet EØS-land, kan utføre lovfestet revisjon og oppdrag om revisorbekreftelser hvis revisjonsselskapet utpeker statsautoriserte revisorer som oppdragsansvarlig revisor for oppdrag om lovfestet revisjon og er registrert i Revisorregisteret.
+(2) Finanstilsynet skal registrere revisjonsselskapet i Revisorregisteret når det er godtgjort at revisjonsselskapet er godkjent i hjemlandet. Bekreftelse fra ansvarlig myndighet i hjemlandet skal ikke være eldre enn tre måneder. Finanstilsynet skal underrette ansvarlig myndighet i hjemlandet om registreringen.
+(3) Dokumentasjon som gjelder reviderte som er hjemmehørende i Norge skal oppbevares i samsvar med § 9-9 sjuende ledd.

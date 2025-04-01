@@ -1,0 +1,3 @@
+# § 3-5. Godkjenning av revisorer fra andre EØS-land og Sveits
+(1) Godkjenning som statsautorisert revisor gis til person med revisorgodkjenning fra et EØS-land eller Sveits i samsvar med revisjonsdirektivet (direktiv 2006/43/EF med senere endringer), yrkeskvalifikasjonsloven § 8 og forskrifter gitt i medhold av loven.
+(2) Godkjenning som bærekraftsrevisor gis til person med revisorgodkjenning fra et EØS-land eller Sveits som gir rett til å avgi attestasjonsuttalelser om bærekraftsrapportering i samsvar med revisjonsdirektivet, yrkeskvalifikasjonsloven § 8 og forskrifter gitt i medhold av loven.
