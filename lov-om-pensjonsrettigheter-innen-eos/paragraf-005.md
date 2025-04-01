@@ -1,0 +1,2 @@
+# § 5. Likebehandling vedrørende vern av opptjente pensjonsrettigheter
+Supplerende pensjonsordninger skal være basert på avtaler som sikrer opptjente pensjonsrettigheter for personer som fratrer pensjonsordningen, uavhengig av om arbeidstaker som fratrer forblir i Norge eller flytter til en annen stat innen EØS. Det samme gjelder overfor ektefelle, registrert partner, samboer eller barn med rettigheter i pensjonsordningene.
