@@ -1,0 +1,3 @@
+# § 6-1. Tiltak for digital sikkerhet
+(1) Statens vegvesen, fylkeskommunene, kommunene og statlig utbyggingsselskap for veg skal gjennom planlagte og systematiske tiltak, i henhold til nasjonale og europeiske sikkerhetsstandarder, normer og regelverk, sørge for tilfredsstillende sikkerhet ved behandling av data og informasjon som er omfattet av denne forskriften for å ivareta konfidensialitet, integritet og tilgjengelighet.
+(2) Statens vegvesen, fylkeskommunene, kommunene og statlig utbyggingsselskap for veg skal stille krav til sikkerhet og beskyttelse, inkludert tilgangsstyring, i henhold til sikkerhetsstandarder og normer for datasystemer og tjenester, samt til tilknytningspunkt, kommunikasjonsinfrastruktur og utstyr som er omfattet av forskriften.

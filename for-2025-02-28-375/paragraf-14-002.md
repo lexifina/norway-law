@@ -1,0 +1,4 @@
+# § 14-2. Særlige bestemmelser om faglig samarbeid og samarbeid med andre om trafikkberedskap
+(1) Det faglige samarbeidet om trafikkberedskap skal omfatte prinsipper for kategorisering av vegnett, valg av stengningslenker og omkjøringsruter, prinsipper for kommunikasjon om bruk av omkjøringsruter, samt prinsipper for tilgjengeliggjøring av trafikkberedskapsplaner i Nasjonal vegdatabank.
+(2) Vegmyndighetene og statlig utbyggingsselskap for veg skal samarbeide med vegtrafikksentral, aktuelle nødetater og beredskapsaktører ved utarbeidelse av trafikkberedskapsplaner for strekninger på sitt vegnett.
+(3) Vegmyndighetene og statlig utbyggingsselskap for veg skal samarbeide med vegtrafikksentral, aktuelle nødetater og beredskapsaktører, driftsentreprenører og andre aktuelle aktører ved gjennomføring og evaluering av øvelser samt evaluering av faktiske hendelser.
