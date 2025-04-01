@@ -1,0 +1,2 @@
+# § 12. Straff
+Den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i § 7 første ledd, § 8 første ledd eller § 9 annet og tredje ledd, enkeltvedtak etter § 6 annet og fjerde ledd eller pålegg som nevnt i § 10 første og annet ledd straffes med bøter eller fengsel i inntil ett år eller begge deler. Tilsvarende gjelder ved overtredelse av bestemmelser i forskrift gitt i medhold av denne loven eller av pålegg gitt i medhold av slike bestemmelser, dersom det er fastsatt i forskriften at overtredelse av bestemmelsen og pålegget er straffbart.
