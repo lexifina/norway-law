@@ -1,0 +1,3 @@
+# § 5-2. Særlig om behandling av opplysninger etter personvernforordningen artikkel 9 og 10
+(1) Statens vegvesen kan behandle personopplysninger etter personvernforordningen artikkel 9 og 10 når det er nødvendig for trafikksikkerhets- og ulykkesanalysearbeid. Dette gjelder også behandling av slike personopplysninger fra Statens vegvesens trafikkulykkessystem i Nasjonal vegdatabank.
+(2) Fylkeskommunene, kommunene og statlig utbyggingsselskap for veg kan for trafikksikkerhets- og ulykkesanalysearbeid innhente og behandle nødvendige personopplysninger etter personvernforordningen artikkel 9 og 10 fra Nasjonal vegdatabank.
