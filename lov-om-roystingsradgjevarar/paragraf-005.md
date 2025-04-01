@@ -1,0 +1,2 @@
+# § 5. Plikt til å opplyse om interessekonfliktar
+Ein røystingsrådgjevar skal utan opphald identifisere og opplyse kundane sine om faktiske eller potensielle interessekonfliktar, inkludert forretningssamband, som kan påverke førebuinga av undersøkingar, råd eller røystingstilrådingar. Røystingsrådgjevaren skal samstundes opplyse om kva for tiltak som er gjorde for å fjerne, avgrense eller handtere desse interessekonfliktane.
