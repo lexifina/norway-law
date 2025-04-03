@@ -1,0 +1,2 @@
+# § 4. Registrering av virksomheter
+Virksomheter som er lokalisert i pærebrannsonen eller bekjempelsessonen, som omsetter vertplanter for pærebrann, jf. forskrift om plantehelse § 4 bokstav b, jf. vedlegg 2, og som ikke allerede har registreringsplikt etter forskrift om plantehelse § 7, skal registrere virksomheten hos Mattilsynet og plikter å innføre og utøve internkontroll, jf. forskrift om plantehelse § 7 og § 9.

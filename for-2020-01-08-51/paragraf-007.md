@@ -1,0 +1,2 @@
+# § 7. Fjerning av vertplanter for pærebrann
+Når det foreligger fare for spredning av pærebrann, kan det regionale Mattilsynet, etter nærmere varsling til eier av eiendom, rydde og fjerne vertplanter for pærebrann, jf. forskrift om plantehelse § 4 bokstav b, jf. vedlegg 2, på enhver eiendom i bekjempelsessonen og den forebyggende sonen, både offentlig og privat. Det samme gjelder innenfor en avstand på 2 km fra virksomheter som omsetter vertplanter for pærebrann i pærebrannsonen.
