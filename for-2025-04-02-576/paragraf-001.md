@@ -1,0 +1,3 @@
+# § 1. Føremål
+Tilskot til kompetanse og arbeidskraft i distrikta består av ordningane Tilskot til mobilisering til utdanning og kompetanseheving, heretter omtalt som mobiliseringsordninga, og Tilskot til studiesenter, heretter omtalt som studiesenterordninga. Ordningane skal bidra til å betre tilgangen på arbeidskraft med etterspurd kompetanse og relevante utdanning- og kompetansetilbod i distrikta. Dei to ordningane har ulike delmål og kriterium slik det kjem fram av kap. II § 2 og kap. III § 6.
+Føremålet med fylkeskommunale prosjekt og tilskot skal bidra til måloppnåing innanfor relevante regionale planar.

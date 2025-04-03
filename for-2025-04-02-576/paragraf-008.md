@@ -1,0 +1,4 @@
+# § 8. Tilskotsmottakarar som driv økonomisk aktivitet
+Tilskot til studiesentera som driv økonomisk aktivitet blir tildelt som kompensasjon for tenester av almen økonomisk tyding, i medhald av lov om Det europeiske økonomiske samarbeidsområde § 63 og vedlegg XV 1h, jf. Kommisjonsbeslutning av 20. desember 2011, artikkel 106 nr. 2 i traktaten om Den europeiske unions verkemåte på statsstøtte. Artikkelen omhandlar godtgjersle for utføring av tenester av allmennøkonomisk tyding (EUT L 7 av 11.1.2012, s. 3).
+Mottakarar av tilskot som både har økonomisk og ikkje-økonomisk aktivitet, skal ha ulike rekneskap for desse. Mottakarane må ha interne retningslinjer som sikrar at felleskostnadar blir fordelte på ein forholdsvis måte mellom den økonomiske aktiviteten og den ikkje-økonomiske aktiviteten.
+Kommunal- og distriktsdepartementet og tilskotsforvaltar kan be om informasjon frå søkjar som er naudsynt for å avgjere om støtta er foreinleg med den indre marknaden.
