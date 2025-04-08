@@ -1,0 +1,2 @@
+# § 3-5. Dokumentasjonskrav – originale vitnemål mv.
+Studenter som er tatt opp til studier ved NTNU, kan bli bedt om å legge frem originale vitnemål, karakterutskrifter, attester m.m. som har vært grunnlag for opptak til studiet. Studenter som ikke legger frem originaldokumentasjon innen den fristen som er oppgitt, kan miste studieretten. Rektor fatter vedtak om opphør av studierett etter denne bestemmelsen.

@@ -1,0 +1,4 @@
+# § 2-8. Tilknytningskrav og forutsetninger for å tilkjennes ny grad
+(1) For at en kandidat skal få utstedt vitnemål for grad fra NTNU må minst 60 av studiepoengene, som skal inngå i beregningsgrunnlaget for graden, være avlagt ved NTNU.
+(2) For grader som gis i samarbeid med andre norske eller utenlandske institusjoner (fellesgrader) må minst 30 studiepoeng være avlagt ved NTNU.
+(3) Ved godkjenning av utdanning, som tidligere har inngått i beregningsgrunnlaget for en grad eller som del av en grad, må studenten i tillegg ha avlagt minst 60 nye studiepoeng før det kan tildeles en ny grad. Ved tildeling av ny mastergrad må de nye studiepoengene inkludere en annen masteroppgave enn den tidligere graden. Fakultetet selv kan fastsette krav om inntil 90 nye studiepoeng for bestemte utdanninger. Rektor kan fastsette krav om inntil 90 nye studiepoeng for sivilingeniørutdanningen, de 5-årige lektorutdanningene og den 3-årige rammeplanstyrte ingeniørutdanningen.

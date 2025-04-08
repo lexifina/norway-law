@@ -1,0 +1,2 @@
+# § 3-7. Studieavgift for statsborgere fra land utenfor EØS og Sveits
+Fakultetet selv fastsetter studieavgift for studenter som er statsborgere i land utenfor EØS eller Sveits. Studieavgiften skal minst dekke institusjonens kostnader for utdanningen. Studenter som kommer inn under denne bestemmelsen, må også betale studieavgift for emner de melder seg opp til etter studieforskriften § 3-1 (3), dvs. emner utenfor det de er tatt opp til. Dersom studenten ikke betaler studieavgiften, vil oppmeldingen bli annullert og manglende betaling kan føre til tap av studierett, jf. § 3-3.
