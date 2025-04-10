@@ -1,0 +1,3 @@
+# § 6-1. Krav til innhold og sammensetning av bachelorgrad ved Noroff University College
+(1) Graden bachelor oppnås på grunnlag av fullført studieprogram med et samlet omfang på 180 studiepoeng. Sammensetningen av emner må være i henhold til høyskolens gjeldende studieplaner, og med fordypning i fag, emner eller emnegruppe med minimum 90 studiepoeng.
+(2) Ved oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) på vitnemålet som følger: «Bachelor i (navn på studieprogram) (eventuell fordypning eller spesialisering)» «Bachelor of (engelsk navn på studieprogram) (engelsk navn på eventuell fordypning eller spesialisering)».

@@ -1,0 +1,7 @@
+# § 3-10. Individuell tilrettelegging
+(1) Studenter har rett til individuell tilrettelegging ved behov i henhold til lov om universiteter og høyskoler § 10-5 og likestillings- og diskrimineringsloven § 21. Individuell tilrettelegging til eksamen og obligatoriske aktiviteter, skal ha som formål å oppveie de ulemper en funksjonsnedsettelse medfører for kandidaten i eksamenssituasjonen, samtidig som det i størst mulig utstrekning skal sørges for at kandidatene prøves likt. Tilretteleggingen skal ikke føre til en reduksjon av de faglige krav som stilles ved den enkelte eksamen.
+(2) Studenter som har behov for individuell tilrettelegging, må framsette søknad om dette innen de frister som er fastsatt i gjeldende retningslinjer. Dette gjelder individuelle tilrettelegginger for hele studiesituasjonen (undervisning, vurderingsform, etc.).
+(3) Studenter som ikke kan gjennomføre eksamen på grunn av en akutt lidelse, henvises normalt til kontinuasjonseksamen.
+(4) Søknad om tilrettelegging må inneholde dokumentasjon fra sakkyndig instans, som f. eks lege, psykolog osv., og beskrive behovet for særordning i eksamenssituasjonen.
+(5) Studieadministrasjonen avgjør om tilrettelegging innvilges, samt hvilken form tilretteleggingen skal ha.
+(6) Vedtak om individuell tilrettelegging ved Noroff University College ansees som enkeltvedtak og kan påklages i henhold til reglene i kapittel 7 Klagebehandling.

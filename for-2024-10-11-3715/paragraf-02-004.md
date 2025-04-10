@@ -1,0 +1,4 @@
+# § 2-4. Søknad og dokumentasjon
+(1) Søknad om opptak skjer etter gjeldende søknadsprosedyre og retningslinjer. Søkerne må dokumentere at de oppfyller opptakskravene. Alle dokumenter som kreves for opptak må sendes Noroff University College innen angitte frister i gjeldende retningslinjer. Fristene skal være tilgjengelig på høyskolens nettsider.
+(2) Dokumentasjon som ikke er tilgjengelig på søknadstidspunktet må ettersendes innen angitt frist i gjeldende retningslinjer.
+(3) Søkere kan bli avkrevd å fremlegge originaldokumenter av grunnlaget for opptak under søknadsbehandlingen også etter at opptak er innvilget. Dersom originaldokumentene ikke fremlegges innen fastsatt frist, eller søkeren framlegger falske vitnemål eller annen ugyldig dokumentasjon, vil søkeren få søknad om opptak underkjent og mister studieretten.
