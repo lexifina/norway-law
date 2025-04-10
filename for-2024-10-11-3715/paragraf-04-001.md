@@ -1,0 +1,8 @@
+# § 4-1. Eksamensformer og tidspunkt for eksamen
+(1) Eksamen gjennomføres i henhold til de eksamens- og vurderingsformer som er fastsatt i emnebeskrivelsen for det enkelte emnet. Eksamen som innleveres i strid med fastsatt vurderingsform kan unnlates å sendes til sensur.
+(2) Plan for gjennomføring av eksamen fastsettes og gjøres tilgjengelig for studentene i starten av hvert semester. Alle studenter er ansvarlige for å holde seg orientert om tid og sted for eksamen. Eksamen avholdes i henhold til norsk tidssone (GMT+1).
+(3) Utsatt eksamen gjennomføres for studenter som hadde gyldig fravær under eksamen. Det betales ikke ny avgift for utsatt eksamen.
+(4) Kontinuasjonseksamen gjennomføres for studenter som ikke har bestått eksamen eller vil forbedre karakter. Bestemmelser for tidspunkt og gjennomføring av kontinuasjonseksamen vil komme frem av gjeldende retningslinjer.
+(5) Første gang kontinuasjonseksamen gjennomføres, gjelder samme pensum og vurderingsform som ved ordinær eksamen. Det er studentenes eget ansvar å undersøke hvilket vurderingsgrunnlag som gjelder ved oppmelding til kontinuasjonseksamen i et emne. Det betales eksamensavgift for kontinuasjonseksamen.
+(6) Det kan gjennomføres inntil to ekstraordinære eksamener når et emne utgår. Siste ekstraordinære eksamen arrangeres innen to år etter utgangen av studieåret da emnet ble undervist siste gang. Rektor kan gjøre vedtak om ekstraordinær eksamen i spesielle tilfeller.
+(7) Kandidater kan innkalles til muntlig høring som etterprøving/kontroll av innleveringsoppgaver uten at dette er nærmere spesifisert i emnebeskrivelsen. En slik kontroll er ikke en del av karaktersettingen med mindre dette er spesifisert i emnebeskrivelsen.
