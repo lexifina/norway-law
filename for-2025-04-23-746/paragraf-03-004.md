@@ -1,0 +1,7 @@
+# § 3-4. Tilrettelegging av eksamen for studenter med funksjonsnedsettelse og studenter med særskilte behov
+(1) All eksaminering foregår i regi av Luftfartstilsynet. Søknad om tilrettelegging av eksaminering som følge av funksjonsnedsettelse eller særskilte behov rettes til, og behandles av, Luftfartstilsynet.
+(2) Individuell tilrettelegging ved eksamen kan være:
+a) forlengelse av tid til å gjennomføre oppgaver og prosjekter
+b) spesielle hjelpemidler/hjelpetiltak
+(3) Skriftlig søknad må fremsettes til Luftfartstilsynet via Skolen v/rektor minimum en (1) måned før eksamen avholdes. Dokumentasjon fra sakkyndig av nyere dato, dvs. ikke eldre enn ett år tilbake i tid, må følge med søknaden hvor sakkyndig gir anbefalinger om hva som kan være til hjelp for studenten. Rektor vil påføre eventuelle anbefalinger og formidle søknaden videre til Luftfartstilsynet. Luftfartstilsynet fatter vedtak.
+(4) En student har klagerett på vedtak som er beskrevet i punkt 3. Klagen må være framsatt skriftlig og må være Luftfartstilsynet i hende senest tre (3) uker etter at studenten er underrettet om vedtaket og om begrunnelsen for vedtaket. Klagen bør være begrunnet. Faglærer er ansvarlig for å gi studenten hjelp og støtte i forbindelse med klage om ønskelig. Studenten kan også be studentrepresentanten om hjelp og støtte i forbindelse med klage. Samferdselsdepartementet er klageinstans for avgjørelser fattet av Luftfartstilsynet. Studenten har krav på et begrunnet svar innen tre (3) uker fra klagen ble mottatt. Avgjørelsen er endelig og kan ikke ankes.
