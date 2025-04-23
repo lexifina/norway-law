@@ -1,0 +1,2 @@
+# § 7-2. Tillitsvalgte
+Skolen er pliktig for å legge til rette for at alle fagskoleklasser velger en tillitsvalgt senest innen fire (4) uker etter at utdanningen har startet. Skolen legger til rette for at den tillitsvalgte kan ivareta sine medstudenters interesser overfor Skolen og være Skolens kontaktperson overfor klassen. Skolen legger til rette for at den tillitsvalgte representerer klassen i studentrådet.

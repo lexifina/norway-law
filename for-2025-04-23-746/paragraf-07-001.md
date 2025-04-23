@@ -1,0 +1,5 @@
+# § 7-1. Studentråd
+(1) Skolen plikter å stimulere til at studentene oppretter studentråd som ivaretar deres interesser og fremmer deres synspunkter.
+(2) Styret legger til rette for at studentene kan organisere seg i ulike studentorganer.
+(3) Skolen legger forholdene til rette for at studentorganene kan drive arbeidet sitt på en velfungerende måte. Skolen stiller til rådighet et egnet rom. I tillegg disponerer studentorganene Skolens møterom. Studentorganene tas med på råd når Skolen bestemmer hva slags tilrettelegging som er nødvendig for at studentorganet skal fungere på en tilfredsstillende måte.
+(4) Rektor er ansvarlig for tilrettelegging for studentorganene. Med et rullerende studentinntak er studentorganene i kontinuerlig virksomhet. Skolen legger til rette for at studentene kan opprette/opprettholde et studentorgan med tillitsvalgte fra hver klasse, som ivaretar deres interesser og fremmer deres synspunkter. Skolen legger til rette for at studentene er representert i alle kollegiale organer ved Skolen. Studentorganet skal høres i alle saker som angår studentene.

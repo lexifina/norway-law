@@ -1,0 +1,5 @@
+# § 2-4. Språkkrav
+(1) Skolens arbeidsspråk er engelsk. All undervisning ved Skolen gjennomføres på engelsk. Alt av Skolens undervisningsmateriell er på engelsk. Søkere må dokumentere kunnskap i engelsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk. Søkere må også gjennomføre og bestå opptaksprøve i engelsk.
+(2) Søkere med bestått og fullført videregående opplæring fra de andre nordiske landene og som tilfredsstiller kravene gitt i § 2-3, er kvalifiserte for opptak uten tilleggskrav i norsk.
+(3) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden og som tilfredsstiller kravene gitt i § 2-3, er kvalifiserte for opptak uten tilleggskrav i norsk.
+(4) Skulle det vise seg at en student som er tatt opp som student ikke har tilfredsstillende engelskkunnskaper vil skolen tilrettelegge et program for engelskundervisning. Slik kompetanseheving vil først og fremst være basert på studentens egeninnsats. Etter fullført program vil studenten måtte gjennomføre en «Language Proficiency Test» iht. retningslinjer gitt av EASA. Studenten må oppnå nivå 4 for å kunne fortsette studiet.
