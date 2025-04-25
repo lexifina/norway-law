@@ -1,0 +1,4 @@
+# § 24-4. Krav ved fellesgrader og cotutelle
+Ved avtaler om fellesgradssamarbeid og cotutelle kan rektor dispensere fra forskriften dersom det er nødvendig av hensyn til regelverket ved samarbeidende institusjon. Slike unntak skal fremstå som fullt forsvarlige ut fra de faglige kvalitetskravene som stilles til en tilsvarende ph.d.-grad ved Universitetet i Innlandet. Kvalifikasjonskrav for opptak, krav om at avhandlingen er offentlig tilgjengelig og krav om offentlig disputas med en habil bedømmelseskomité, kan ikke fravikes.
+Avtaler om fellesgrad og cotutelle må som minimum regulere opptak, finansiering, opplæringsdel, veiledning, opphold ved institusjonene, rapporteringsplikt, avhandlingens språk, avhandlingens form, bedømmelse, gradstildeling, vitnemål og rettigheter til resultater. Avtalen undertegnes av rektor.
+Ph.d.-utdanningen ved samarbeidsinstitusjonen må ha et omfang av tre års normert studietid. Kandidaten må tas opp ved begge institusjoner.

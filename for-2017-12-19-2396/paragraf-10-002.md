@@ -1,0 +1,4 @@
+# § 10-2. Arbeider som ikke godtas
+Arbeider eller deler av et arbeid som har vært godtatt som grunnlag for tidligere avlagte eksamener eller grader, kan ikke antas til bedømmelse med mindre arbeidet inngår som en mindre del av en avhandling som består av flere sammenhengende arbeider. Data, analyser eller metoder fra tidligere grader kan likevel benyttes som grunnlag for arbeid med ph.d.-prosjektet.
+Ved bruk av publiserte arbeider kan disse ikke godtas som del av avhandlingen hvis de ved opptakstidspunkt er eldre enn fem (5) år fra publiseringsdato. Ph.d.-utvalget kan dispensere fra dette kravet dersom spesielle forhold tilsier det.
+Avhandlingen kan innleveres for bedømmelse ved kun ett lærested, jf. § 13-1.
