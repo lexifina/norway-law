@@ -1,0 +1,2 @@
+# § 5-7. Tvungen avslutning ved fusk på eksamen eller prøver underveis i ph.d.-utdanningen
+Ved fusk på eksamener eller prøver underveis i ph.d.-utdanningen, kan universitetets nemnd for studentsaker vedta annullering, jf. universitets- og høyskolelovens § 12-4. Dersom forholdet eller forholdene er så alvorlig at det er å anse som uredelighet, jf. samme lovs § 12-4, jf. forskningsetikklovens § 8, kan institusjonen vedta tvungen avslutning, jf. § 5-8 nedenfor.

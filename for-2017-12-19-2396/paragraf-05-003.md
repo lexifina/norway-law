@@ -1,0 +1,2 @@
+# § 5-3. Infrastruktur
+Kandidaten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av forskningsprosjektet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring, tas av ph.d.-utvalget i samarbeid med vertsfakultetet. For kandidater med ekstern finansiering og/eller ekstern arbeidsplass, inngås det avtale mellom institusjon og ekstern part i forbindelse med det enkelte forskningsprosjekt. Slik avtale skal som hovedregel foreligge på det tidspunkt opptaksvedtaket for den aktuelle kandidaten fattes, eller kort tid etterpå.
