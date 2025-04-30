@@ -1,0 +1,2 @@
+# § 6a. Gjennomføring av forordning (EU) 2015/786
+EØS-avtalen vedlegg 1 kapittel II nr. 145 (forordning (EU) 2015/786) om fastsettelse av kriterier for godkjenning av detoksifiseringsprosesser som anvendes på produkter beregnet til fôrvarer, som fastsatt i europaparlamentets- og rådsdirektiv 2002/32/EF, gjelder som forskrift med de tilpasninger som følger av vedlegg 1 kapittel II, protokoll 1 til avtalen og avtalen for øvrig.
