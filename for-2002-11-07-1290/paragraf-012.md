@@ -1,0 +1,4 @@
+# § 12. Hygienisering av fôrblandinger
+Fullfôr og tilskuddsfôr, unntatt vitamin- og mineralfôrblandinger, som er produsert med tanke på omsetning til matproduserende landdyr, skal enten varmebehandles ved pelletering der temperaturen er minst 75 °C målt i fôrvaren før pressing, eller ved andre metoder der fôrets kjernetemperatur kommer opp i minst 81 °C. Hele partiet skal varmebehandles, og produksjonen må skje på en linje der alt annet fôr også får tilsvarende varmebehandling.
+Kravet om varmebehandling i første ledd gjelder ikke for substrat til insekter eller pollenerstatning til bier.
+Det stilles krav til hygienisering av fôr til akvatiske dyr. Ved produksjon av fullfôr til akvatiske dyr må virksomheten etablere en hygienebarriere i produksjonslinjen som gir tilfredsstillende desimering av salmonellabakterier.
