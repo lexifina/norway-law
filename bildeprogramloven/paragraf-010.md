@@ -1,0 +1,4 @@
+# § 10. Beskyttelsestiltak ved tilgjengeliggjøring i audiovisuelle bestillingstjenester
+Tjenestetilbyder skal iverksette tiltak som sikrer at mindreårige normalt ikke får tilgang til bildeprogrammer eller tilknyttet materiale med alvorlig skadelig innhold.
+Tjenestetilbyder skal tilby tiltak som kan aktiveres av foresatte eller andre i foresattes sted, for å sikre at mindreårige normalt ikke får tilgang til bildeprogram eller tilknyttet materiale med skadelig innhold. Nyhets- og aktualitetsprogrammer er unntatt kravene i første punktum.
+Personopplysninger som gjelder mindreårige, og som innhentes eller på annen måte genereres av tjenestetilbyderen som ledd i beskyttelsestiltak etter denne paragrafen, skal ikke behandles for kommersielle formål, for eksempel direkte markedsføring, profilering eller atferdsbasert reklame.
