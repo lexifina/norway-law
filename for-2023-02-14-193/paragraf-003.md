@@ -1,0 +1,2 @@
+# § 3. Overtredelsesgebyrets maksimale størrelse
+I samsvar med vilkårene i markedsføringsloven § 42, angrerettloven § 29, pakkereiseloven § 52, åpenhetsloven § 14, avtaleloven § 38c, ehandelsloven § 20a, forbrukerkjøpsloven § 61a, finansavtaleloven § 3-55 og § 7-2 og energiloven § 4A-5 kan det ilegges overtredelsesgebyr på inntil fire prosent av den næringsdrivendes årsomsetning eller inntil 25 millioner kroner, der det høyeste beløpet anvendes.
