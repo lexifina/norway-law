@@ -1,0 +1,2 @@
+# § 21. Ikrafttredelse
+Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
