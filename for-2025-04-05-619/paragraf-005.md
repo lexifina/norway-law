@@ -1,0 +1,2 @@
+# § 5. Rammeplan og studieplan
+Kriminalomsorgsdirektoratet (KDI) har ansvar for å utarbeide en rammeplan for fengselsbetjentutdanningen. Rammeplanen beskriver det overordnete læringsutbyttet kandidaten skal tilegne seg gjennom utdanningen. KRUS har ansvar for å utarbeide studie- og emneplaner for heltids- og deltidsutdanningen. Studieplanene skal beskrive organiseringen, lengden og innholdet i utdanningene. Studieplanene skal godkjennes av KDI. Emneplanene beskriver innholdet og læringsutbyttet i de enkelte emnene.
