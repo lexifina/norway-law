@@ -1,0 +1,2 @@
+# § 24. Endring av tjenestested etter søknad for deltidsaspiranter
+Søknad om å endre arbeidssted sendes tjenestevei til KRUS med godkjenning fra enhetsleder på nåværende arbeidssted. KRUS behandler søknaden i dialog med involverte enheter. Søknaden kan innvilges hvis mottagende enhet er godkjent som opplæringsenhet for fengselsbetjentutdanningen og de to enhetene blir enige om en overgangsordning. Bare tungtveiende grunner kan gi grunnlag for å endre arbeidssted.

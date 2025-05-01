@@ -1,0 +1,2 @@
+# § 8. Vurdering av søkerne
+De søkerne som er best kvalifisert i henhold til høgskolens retningslinjer for poengberegning, kan innkalles til opptaksdag der de gjennomgår fastsatte prøver. Prøvene gir grunnlag for å vurdere om søkeren har nødvendige egenskaper og holdninger som gjør vedkommende egnet til stilling som aspirant i kriminalomsorgen. Det skal gjøres en totalvurdering av søkernes kvalifikasjoner ut fra kvalifikasjonskravene i kunngjøringen.

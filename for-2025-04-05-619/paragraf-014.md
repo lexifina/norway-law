@@ -1,0 +1,5 @@
+# § 14. Prøvetid
+Under hele utdanningen er aspiranten ansatt på prøve og underlagt skikkethetsvurdering, jf. statsansatteloven § 15 sjette ledd. Aspiranten skal få nødvendig veiledning, oppfølging og vurdering av arbeidet i prøvetiden, jf. statsansatteloven § 15 tredje ledd.
+Aspiranten må tilpasse seg teoretisk og praktisk arbeid på en tilfredsstillende måte og utvise holdninger og atferd som er forenlig med kriminalomsorgens verdier og retningslinjer. Dersom aspiranten ikke tilfredsstiller rimelige krav til dyktighet eller pålitelighet, vil aspirantens skikkethet vurderes og aspiranten kan bli sagt opp fra sin stilling jf. statsansatteloven § 15 fjerde ledd.
+Dersom aspiranten ikke oppnår de faglige eller praktiske kravene i utdanningen, eller på annen måte ikke er skikket for yrket, vil aspiranten miste sin studierett på fengselsbetjentutdanningen og aspiranten vil ikke kunne fullføre opplæringen på en tilfredsstillende måte. Aspiranten kan da sies opp fra sin stilling jf. statsansatteloven § 15 sjette ledd.
+Under prøvetiden er det én måned gjensidig oppsigelsesfrist jf. statsansatteloven § 15 sjette ledd.
