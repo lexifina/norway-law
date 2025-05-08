@@ -1,0 +1,3 @@
+# § 9-2. Krav til den trykte avhandlingen
+Når avhandlingen er funnet verdig til å forsvares skal kandidaten levere avhandlingen i standardisert format i henhold til Nord universitets bestemmelse. Fakultetet besørger trykk av avhandlingen.
+Kandidaten skal utarbeide et kortfattet sammendrag av avhandlingen på engelsk og norsk, med sikte på å gjøre avhandlingen og dens resultat kjent for internasjonale forskningsmiljø. Dersom avhandlingen verken er skrevet på engelsk eller norsk, skal det i tillegg leveres et sammendrag på avhandlingens språk. Sammendraget skal følge avhandlingen og, i likhet med selve avhandlingen, publiseres offentlig.

@@ -1,0 +1,10 @@
+# § 5-1. Krav til avhandlingen
+Avhandlingen skal være et selvstendig forskningsarbeid som oppfyller internasjonale standarder med hensyn til etiske og forskningsetiske krav, faglig nivå og metode innen fagområdet.
+Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ha et faglig nivå som tilsier at den kan publiseres eller offentliggjøres i egnet format som en del av fagets vitenskapelige litteratur.
+Avhandlingen skal ligge på samme faglige nivå som en ph.d.-avhandling. Fraværet av krav til godkjent opplæringsdel, skal kompenseres ved at avhandlingsarbeidet er mer omfattende enn det som kreves i organiserte doktorgradsprogram.
+Avhandlingen kan bestå av en monografi eller en sammenstilling av flere mindre arbeider. Dersom avhandlingen består av flere mindre arbeider, skal det redegjøres for sammenhengen mellom dem i kappen.
+En artikkelbasert avhandling skal normalt bestå av minst fem (5) vitenskapelige artikler i anerkjente tidsskrift med fagfellevurdering. Det forventes at søker er førsteforfatter på flertallet av artiklene.
+Det skal utarbeides en sammenbindende fremstilling (kappe) som gjør nærmere rede for helheten i avhandlingen. Kappen skal være en selvstendig innsats og sammenstille de problemstillinger og konklusjoner som legges fram i artiklene, i et helhetlig vitenskapelig perspektiv. Kandidaten skal være eneforfatter av kappen.
+Fellesarbeid godtas til bedømmelse forutsatt at kandidatens bidrag representerer en selvstendig innsats som kan identifiseres. Vitenskapelige kapitler i antologier kan erstatte artikler i dette kravet dersom utgivelsene er fagfellevurdert og utgitt av godkjent forlag
+Delarbeidene bør ikke være eldre enn åtte (8) år på innleveringstidspunktet. Dersom det inngår eldre arbeider skal det gjøres rede for i søknad om innlevering, hvordan dette arbeidet likevel tilfredsstiller kravet om å utvikle ny faglig kunnskap.
+Avhandlingen skal være skrevet på norsk, svensk, dansk eller engelsk. Uavhengig av avhandlingens språk skal den inneholde et sammendrag på engelsk og et på norsk.
