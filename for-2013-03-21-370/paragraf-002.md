@@ -1,0 +1,3 @@
+# § 2. Gjennomføring av forordning (EU) nr. 1308/2013 mv.
+EØS-avtalen protokoll 47 tillegg 1 nr. 8 (forordning (EU) nr. 1308/2013 som endret ved forordning (EU) 2017/2393) om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning (EØF) nr. 922/72, (EØF) nr. 234/79, (EF) nr. 1037/2001 og (EF) nr. 1234/2007 gjelder som forskrift med de tilpasningene som følger av protokoll 47, protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalen protokoll 47 tillegg 1 nr. 13 (forordning (EU) nr. 172/2013) om fjerning av visse eksisterende beskyttede vinbetegnelser fra registeret som er omtalt i forordning (EF) nr. 1234/2007 gjelder som forskrift med de tilpasningene som følger av protokoll 47, protokoll 1 til avtalen og avtalen for øvrig.
