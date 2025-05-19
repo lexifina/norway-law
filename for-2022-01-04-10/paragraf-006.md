@@ -1,0 +1,3 @@
+# § 6. Beredskapsetablering
+Den kommunale beredskapen mot akutt forurensning som er beskrevet i § 3 skal etableres på grunnlag av miljørisikoanalysen, beredskapsanalysen og de dimensjonerende scenarioene, jf. § 4 og § 5, og skal beskrives i en beredskapsplan i henhold til § 8.
+Kommunens beredskap skal bemannes med tilstrekkelig personell med relevant kompetanse og praktisk erfaring for å kunne gjøre innsats mot de dimensjonerende scenarioene, jf. § 4. Kommunens beredskap mot akutt forurensning etablert gjennom interkommunalt samarbeid i henhold til § 7 skal være basert på et enhetlig ledelsessystem.
