@@ -1,0 +1,3 @@
+# § 10. Innkreving av tilbakebetalings- eller avkortingsbeløp mv.
+Differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling jf. § 8 eller avkorting etter § 9, kan kreves tilbakebetalt fra foretaket eller motregnes i senere utbetalinger. Krav fra offentlig myndighet som utspringer av regelverk for jordbruksvirksomhet kan motregnes i tilskuddsutbetalinger til foretaket.
+For tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forfall. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av den urettmessige tilskuddet. Størrelsen på renten følger rentesatsen fastsatt med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
