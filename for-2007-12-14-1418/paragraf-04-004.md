@@ -1,0 +1,2 @@
+# § 4-4. Plikt til å sørge for internkontroll
+Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med personvernforordningen, personopplysningsloven og helseregisterloven, jf. forordningen artikkel 24. Tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve reglene om behandling av helseopplysninger, med særlig vekt på bestemmelser gitt i medhold av helseregisterloven § 21.

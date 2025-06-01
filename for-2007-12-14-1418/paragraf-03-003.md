@@ -1,0 +1,2 @@
+# § 3-3. Informasjonsstrategi rettet mot brukergrupper
+For å fremme bruken av data fra Abortregisteret og for å bygge opp informasjon og kunnskap for formål som nevnt i § 1-3, skal Folkehelseinstituttet ha en informasjonsstrategi og -plan rettet mot så vel helseforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helsetjenesteforskning og samfunnsforskning.
