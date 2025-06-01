@@ -1,0 +1,2 @@
+# § 1-8a. (Biobank tilknyttet MSIS)
+MSIS-registeret kan være tilknyttet biobank med humant biologisk materiale som er nødvendig for å ivareta registerets formål, jf. vedlegg II. Den enkelte skal informeres om at humant biologisk materiale kan lagres og benyttes til evaluering av vaksineeffekt, og har rett til å motsette seg dette. Helseforskningsloven § 16 annet og tredje ledd gjelder tilsvarende.

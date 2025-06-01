@@ -1,0 +1,2 @@
+# § 3-7. (Varsling om smitte fra blodgiver)
+Laboratorier og leger som i sin yrkespraksis finner at en blodgiver er smittet av en sykdom som kan overføres med blod eller blodprodukter, skal varsle blodbanken den smittede har donert blod ved. Varslet skal inneholde blodgiverens navn, fødselsnummer, adresse og hvilken sykdom som er påvist. Blodbanken skal varsle Direktoratet for medisinske produkter, Folkehelseinstituttet og Helsedirektoratet, men uten direkte identifiserbare opplysninger.
