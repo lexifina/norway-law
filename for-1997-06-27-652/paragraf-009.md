@@ -1,0 +1,7 @@
+# § 9. Sektoravgift
+Sokkeldirektoratet kan kreve inn en sektoravgift til dekning av kostnader ved oppfølgningsoppgaver som retter seg mot hele eller deler av petroleumsvirksomheten og som gjelder digital infrastruktur og digitalisering, dataforvaltning og -deling, kunnskapsutvikling og -deling, oppbevaring og tilgjengeliggjøring av geologisk prøvemateriale.
+Sektoravgiften er en årlig avgift på inntil kr 175 000 pr. år (2025-kroner) som er lik for hver utvinningstillatelse per 1. januar i året avgiften gjelder for. Den maksimale grensen for sektoravgiften på kr 175 000 indeksreguleres årlig av Sokkeldirektoratet i samsvar med justeringene i statsbudsjettet for lønns- og prisvekst.
+Sokkeldirektoratet skal hvert år i forbindelse med innkreving av sektoravgift utarbeide et beregningsgrunnlag for sektoravgiften basert på kostnader som nevnt i første ledd i foregående år. Sokkeldirektoratet skal fastsette sektoravgiften basert på beregningsgrunnlaget. Beregningsgrunnlaget skal offentliggjøres. Sektoravgiften forfaller til betaling senest 31. mars i året avgiften gjelder, fra og med år 2026.
+I år 2025 er sektoravgiften inntil kr 87 500, beregningsgrunnlaget utarbeides innen 1. juli og avgiften forfaller til betaling 1. september.
+Sektoravgift innbetales til staten ved Sokkeldirektoratet. Operatør for utvinningstillatelsen er ansvarlig for innbetalingen.
+Plikten til å betale sektoravgift opphører året etter at en utvinningstillatelse oppgis, bortfaller eller utløper.

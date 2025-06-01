@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Denne forskriften gjelder for innkreving av sektoravgift og for tilsyn med ressursforvaltning i petroleumsvirksomheten på områder som nevnt i lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 1-4 og i virksomhet etter forskrift 5. desember 2014 nr. 1517 om utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2 og om transport av CO2 på kontinentalsokkelen § 1-3.
