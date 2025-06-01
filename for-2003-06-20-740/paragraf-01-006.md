@@ -1,0 +1,3 @@
+# § 1-6. (Databehandler og ansvarshavende)
+Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsamling og behandling av helseopplysninger i registeret, herunder om overvåking og forskning, jf. § 1-3, drift og kvalitetssikring av registeret, samt tilgjengeliggjøring av data til brukere.
+Folkehelseinstituttet kan inngå skriftlig avtale om lagring og behandling av biologisk materiale med laboratorier med nasjonal referansefunksjon i medisinsk mikrobiologi som er pekt ut i henhold til § 2-4 tredje ledd (ansvarshavende). Avtalen skal inneholde krav til biobanker tilknyttet MSIS i henhold til § 1-8a som benyttes til evaluering av vaksineeffekt, herunder krav oppstilt i helseforskningsloven § 26, § 27 og § 31.

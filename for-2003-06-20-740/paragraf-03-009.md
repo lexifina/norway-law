@@ -1,0 +1,2 @@
+# § 3-9. (Varsling om smitte fra næringsmidler)
+Kommuneleger som får opplysninger om mistenkt eller påvist smittsom sykdom som kan være overført med næringsmidler, skal varsle det lokale mattilsynet. Varslet skal inneholde opplysninger om den antatte sykdommen, det antatte smittetidspunktet, pasientens alder og bostedskommune, samt eventuelt hvilket næringsmiddel som er mistenkt og hvor det ble frambudt.

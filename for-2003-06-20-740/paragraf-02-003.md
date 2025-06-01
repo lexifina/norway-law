@@ -1,0 +1,6 @@
+# § 2-3. (Meldingsplikt for laboratorier)
+Laboratorier skal sende melding om alle mikrobiologiske prøvesvar samme dag som prøvesvarene foreligger og indikere om det er funn av meldingspliktige sykdommer, jf. vedlegg I, til MSIS. Laboratoriet skal samme dag informere rekvirerende lege ved funn av meldingspliktige sykdommer, jf. vedlegg I. For tuberkulose skal melding i tillegg sendes tuberkulosekoordinatoren.
+Dataansvarlig kan for utvalgte meldingspliktige sykdommer avgjøre at de meldes i samlemeldinger for definerte tidsperioder.
+Laboratorier, inkludert laboratorier med nasjonal referansefunksjon i medisinsk mikrobiologi, som undersøker prøver av human opprinnelse på vegne av annet laboratorium eller som gjør spesialundersøkelser eller bekreftende undersøkelser for annet laboratorium, har samme meldingsplikt som det rekvirerende laboratorium. Laboratoriene skal informere rekvirerende lege om funn som er meldepliktige, jf. vedlegg I, til MSIS. For tuberkulose skal melding i tillegg sendes tuberkulosekoordinatoren.
+Dataansvarlig kan for enkelte sykdommer unnta laboratorier og laboratorier med nasjonal referansefunksjon i medisinsk mikrobiologi for meldeplikt.
+Kreftregisteret skal melde opplysninger etter § 1-7 for HPV-infeksjon som har forårsaket kreft eller forstadier til kreft.
