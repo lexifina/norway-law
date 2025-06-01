@@ -1,0 +1,3 @@
+# § 2-4. Ansvar for sikring av at opplysningene er korrekte og krav til dokumentasjon
+Folkehelseinstituttet har ansvaret for at de opplysningene som blir samlet inn og behandlet i Abortregisteret, er relevante og nødvendige for bruk til formål som nevnt i § 1-3.
+Folkehelseinstituttet skal sørge for at de opplysningene som er samlet inn og behandlet i Abortregisteret, er korrekte og fullstendige. Dersom de innsendte opplysningene er ufullstendige eller på annen måte mangelfulle, skal innsender av opplysningene varsles. Feil skal rettes og opplysningene eventuelt sendes på nytt fra innsender. Dersom det ikke er mulig for Folkehelseinstituttet å få korrekte data, kan Helsetilsynet varsles.
