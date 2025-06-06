@@ -1,0 +1,4 @@
+# § 1
+Ved mellomfolkelig overenskomst som tiltres av Norge, kan en internasjonal organisasjon eller institusjon, dens tjenestepersoner og andre personer som opptrer på organisasjonens eller institusjonens vegne, medlemsstatenes representanter og utsendinger samt personer som deltar i rettergang ved internasjonale organer, innrømmes immunitet og privilegier uten hinder av norsk lov.
+Kongen kan gi nærmere regler til gjennomføring av bestemmelser om immunitet og privilegier i slik overenskomst.
+Når særlige og tungtveiende utenrikspolitiske hensyn tilsier det, kan Kongen i statsråd uten hinder av norsk lov og uavhengig av mellomfolkelig overenskomst innrømme immunitet og privilegier til en fremmed eller internasjonal organisasjon eller institusjon e.l., dens tjenestepersoner og andre personer som opptrer på dens vegne, samt til representasjoner, representanter og utsendinger som tar del i dens virksomhet.
