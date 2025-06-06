@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av forordning (EF) nr. 1304/2003
+EØS-avtalen vedlegg I kapittel I del 7.2 nr. 30, vedlegg I kapittel II nr. 42 og vedlegg II kapittel XII nr. 54zzzd (forordning (EF) nr. 1304/2003) om framgangsmåten som Den europeiske myndighet for næringsmiddeltrygghet skal anvende når den mottar anmodninger om vitenskapelige uttalelser gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.

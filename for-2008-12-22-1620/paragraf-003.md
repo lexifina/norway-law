@@ -1,0 +1,2 @@
+# § 3. Gjennomføring av forordning (EF) nr. 2230/2004
+EØS-avtalen vedlegg I kapittel I del 7.2 nr. 32, vedlegg I kapittel II nr. 44 og vedlegg II kapittel XII nr. 54zzzf (forordning (EF) nr. 2230/2004) om fastsetting av gjennomføringsregler for europaparlaments- og rådsforordning (EF) nr. 178/2002 med hensyn til nettverket av organisasjoner som virker på områder som omfattes av oppdraget til Den europeiske myndighet for næringsmiddeltrygghet gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
