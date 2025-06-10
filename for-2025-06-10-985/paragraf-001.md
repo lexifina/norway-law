@@ -1,0 +1,2 @@
+# § 1. Formål
+Tilskuddsordningen Regionale kulturfond skal bidra til gode lokalsamfunn og et åpent, inkluderende og mangfoldig kulturliv i hele landet. Tilskuddsmidlene skal stimulere til økt aktivitet og deltakelse i kulturlivet, styrke samspill mellom profesjonelt og frivillig kulturliv, forsterke lokal og regional kulturfrivillighet og bidra til økt kvalitet på kunst- og kulturtilbudet lokalt og regionalt.
