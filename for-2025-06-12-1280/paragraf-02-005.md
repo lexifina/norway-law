@@ -1,0 +1,3 @@
+# § 2-5. Avtale ved opptak til utdanningen (doktorgradsavtalen)
+Opptak til utdanningen ved universitetet formaliseres ved at skriftlig avtale underskrives av kandidat og veileder(e), samt ph.d.-programleder og representant for fakultetet, samt eventuell ekstern part. Avtalen regulerer partenes rettigheter og plikter i opptaksperioden. Slik opptaksavtale skal som hovedregel foreligge på tidspunktet opptaksvedtak for den aktuelle kandidaten fattes, eller uten utgrunnet opphold deretter.
+I tilfeller hvor kandidaten skal ha tilknytning til utenlandske institusjoner, skal det inngås egne avtaler i tråd med universitetets retningslinjer for slikt samarbeid. Avtalen skal normalt være inngått samtidig med doktorgradsavtalen.
