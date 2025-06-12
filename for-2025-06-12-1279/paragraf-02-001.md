@@ -1,0 +1,2 @@
+# § 2-1. Vilkår for opptak
+For opptak til doktorgradsutdanningen skal søkeren ha en femårig mastergrad eller tilsvarende utdanning, i samsvar med beskrivelsene i det nasjonale kvalifikasjonsrammeverkets andre syklus, som fakultetet har godkjent som grunnlag for opptak. Fakultetet kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunnlag for opptak. Fakultetet selv kan i utfyllende regler fastsette ytterligere krav for opptak.

@@ -1,0 +1,5 @@
+# § 8-1. Avholdelse av prøveforelesning
+Etter at avhandlingen er funnet verdig til å forsvares, og før disputas, jf. § 8-3, skal kandidaten holde prøveforelesning. Prøveforelesningen er en selvstendig del av doktorgradsprøven og skal være over oppgitt emne. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskaper utover avhandlingens tema og evnen til å formidle disse i en forelesningssituasjon.
+Emne for prøveforelesning kunngjøres for kandidaten ti arbeidsdager før forelesningen. Emnet for forelesningen skal ikke stå i direkte forbindelse med temaet for avhandlingen.
+Dersom fakultetet velger å avholde prøveforelesningen i forbindelse med disputas, oppgir bedømmelseskomiteen emne for prøveforelesning og forestår selv vurderingen. Dersom de to prøvene holdes separat, kan fakultetet oppnevne en egen forelesningskomité som også fastsetter emne for prøveforelesningen. Minst ett av bedømmelseskomiteens medlemmer skal da delta i vurderingen.
+Prøveforelesningen skal skje på avhandlingsspråket med mindre bedømmelseskomiteen godkjenner et annet språk.
