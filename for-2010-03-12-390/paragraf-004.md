@@ -1,0 +1,4 @@
+# § 4. Disponering av inndregne midlar
+Midlar inndregne som følgje av brot på havressurslova, fiskesalslagslova og deltakerloven skal nyttast til å dekkje salslaget sine utgifter til kontroll med om føresegner fastsette i medhald av havressurslova, fiskesalslagslova og deltakerloven vert følgde og til frakttilskot.
+Midlar inndregne som følgje av fangst utover kvote i medhald av havressurslova § 54 jf. § 12, § 13 og § 14 og deltakerloven § 27 kan, i tillegg til formålet i første ledd, nyttast til prisutjamning eller pristilskot for leverte fangstar. Verdien av den delen av fangst utover kvote som overstig gruppekvoten, jf. havressurslova § 11 andre ledd, kan likevel ikkje nyttast til prisutjamning eller pristilskot for leverte fangstar.
+Salslaget kan nytte midlar inndregne som følgje av fangst utover kvote til andre formål når departementet i det enkelte tilfelle gir løyve til dette.
