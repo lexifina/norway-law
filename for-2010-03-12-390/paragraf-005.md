@@ -1,0 +1,3 @@
+# § 5. Mellombels tilbakehald av fangstverdi
+Salslaget kan halde tilbake verdien av fangst når det er grunn til å tru at verdien av fangsten vil verte inndregen. Salslaget skal halde tilbake verdien av fangst når varsel om inndraging er sendt før fiskaren har fått oppgjer for fangsten. Fiskaren skal gjerast kjend med at fangstverdien mellombels er halden tilbake.
+Verdien kan haldast tilbake i inntil 45 dagar frå den dagen fiskaren fekk melding om at fangstverdien mellombels er halden tilbake. Ved motsegn mot varsel om inndraging kan tilbakehaldstida forlengast med ytterlegare 45 dagar dersom dette er meldt til fiskaren.
