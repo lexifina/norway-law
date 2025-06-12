@@ -1,0 +1,4 @@
+# § 7-6. Omarbeiding av innlevert avhandling
+Bedømmelseskomiteen kan på grunnlag av den innleverte avhandlingen og eventuelt grunnlagsmateriale og tilleggsinformasjon anbefale at fakultetet gir tillatelse til mindre omarbeiding før innstilling foreligger. Komiteen skal gi en konkret oversikt i skriftlig form over hva kandidaten må omarbeide.
+Tillater fakultetet en mindre omarbeiding av avhandlingen, skal det gis en frist for slik omarbeiding som normalt ikke skal være lengre enn tre måneder. Det skal også fastsettes en ny frist for oversendelse av komiteens innstilling. Fakultetets vedtak etter denne bestemmelsen kan ikke påklages av kandidaten.
+Dersom komiteen finner at dyptgripende endringer vedrørende teori, hypotese, materiale eller metode er nødvendige for at avhandlingen skal finnes verdig til å forsvares for graden, skal komiteen i stedet avgi en innstilling om at avhandlingen ikke er verdig til å forsvares for graden, jf. § 7-8.

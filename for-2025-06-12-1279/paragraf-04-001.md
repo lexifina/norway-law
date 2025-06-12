@@ -1,0 +1,8 @@
+# § 4-1. Opplæringsdelens formål, innhold og omfang
+Fakultetet har ansvar for at opplæringsdelen, sammen med avhandlingsarbeidet, gir utdanning på høyt faglig nivå og i henhold til internasjonal standard, med gjennomføring av et forskningsarbeid, trening i faglig formidling og innføring i forskningsetikk, vitenskapsteori og vitenskapelig metode. Opplæringen skal sammen med forskningsarbeidet bidra til oppnåelse av forventet læringsutbytte i henhold til det nasjonale kvalifikasjonsrammeverket.
+Dersom fakultetet ikke selv arrangerer hele opplæringsdelen, skal forholdene legges til rette for at kandidaten får tilsvarende opplæring ved andre fakultet og/eller institusjoner.
+Opplæringsdelen skal tilsvare minst 30 studiepoeng. Opplæringsdelen skal inneholde vitenskapsteori og forskningsetikk. Utover dette fastsetter fakultetet hvilke elementer som skal inngå i opplæringsdelen til hvert enkelt studium.
+I emner der det ikke foreligger egnet tilbud, kan individuelt lesepensum godkjennes som en del av opplæringsdelen. I alle emner, og for individuelt lesepensum, skal det være prøving med karakterer i henhold til universitetets eksamensreglement.
+Fakultetene fører katalog over godkjente emner. Slike emner godkjennes etter de gjeldende reglene for godkjenning av studietilbud ved universitetet.
+Minst 20 studiepoeng av opplæringsdelen skal avlegges etter opptak. Elementer som skal inngå i opplæringsdelen kan ikke være eldre enn to år ved opptaksdato. Fakultetet kan innvilge unntak fra bestemmelsen i foregående punktum dersom særlige faglige grunner taler for det.
+Kurs på doktorgradsnivå ved annen institusjon skal godkjennes i samsvar med reglene i universitets- og høyskoleloven § 9-3.

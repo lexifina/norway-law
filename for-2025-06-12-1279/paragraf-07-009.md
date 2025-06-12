@@ -1,0 +1,7 @@
+# § 7-9. Fakultetets behandling av bedømmelseskomiteens innstilling
+Fakultetet fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om hvorvidt avhandlingen er verdig til å forsvares.
+Dersom fakultetet finner at det foreligger begrunnet tvil om hvorvidt enstemmig innstilling fra bedømmelseskomiteen skal legges til grunn, skal fakultetet søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten, som gis anledning til å komme med merknader.
+Fakultetet fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene samt kandidatens eventuelle merknader.
+Dersom komiteen avgir delt innstilling, kan fakultetet enten legge flertallets eller mindretallets innstilling til grunn for sitt vedtak.
+Dersom fakultetet vurderer å legge mindretallets innstilling til grunn, skal fakultetet søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike individuelle uttalelser skal forelegges kandidaten, som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling, skal denne innstillingen følges.
+Kandidaten skal underrettes om utfallet etter behandling av uttalelser fra nye sakkyndige.

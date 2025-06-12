@@ -1,0 +1,3 @@
+# § 8-2. Vurdering av prøveforelesning
+Fakultetet fatter vedtak på grunnlag av komiteens innstilling, jf. § 8-1. Fakultetet avgjør om prøveforelesningen er bestått eller ikke bestått. Det skal begrunnes dersom prøveforelesningen vurderes ikke bestått. Prøveforelesningen skal være bestått før disputas kan avholdes.
+Dersom prøveforelesningen vurderes som ikke bestått, kan kandidaten melde seg til ny prøveforelesning. Ny prøveforelesning må holdes over nytt emne, snarest mulig, og ikke senere enn 6 måneder etter første prøveforelesning. Forelesningen skal så vidt det er mulig bedømmes av samme komité som den opprinnelige, dersom fakultetet ikke har bestemt noe annet. Kandidaten kan holde ny prøveforelesning kun én gang.

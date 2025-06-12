@@ -1,0 +1,7 @@
+# § 6-1. Krav til avhandlingen
+Avhandlingen skal være et selvstendig vitenskapelig arbeid som oppfyller internasjonale standarder med hensyn til etiske krav, faglig nivå og metode.
+Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ha et faglig nivå som tilsier at den vil kunne publiseres eller offentliggjøres i egnet format som en del av fagets forskningsbaserte kunnskapsutvikling.
+Avhandlingen kan bestå av en monografi eller en sammenstilling av flere mindre arbeider.
+Dersom avhandlingen består av flere mindre arbeider, skal det redegjøres for sammenhengen mellom dem i en innledende del («kappe»). Denne innledningsdelen skal, i et helhetlig perspektiv, sammenfatte og sammenstille problemstillingene og konklusjonene som legges frem i delarbeidene, og dokumentere sammenhengen i avhandlingen. Innledningsdelen skal også gjøre rede for valg av teori og metode og vurdering av resultatet i henhold til internasjonale standarder og faglig nivå innen fagområdet. Kandidaten skal være eneforfatter av innledningsdelen.
+Avhandlingens hovedkomponent kan bestå av et nytt produkt eller en systematisert materialsamling eller ha en annen fremstillingsform (for eksempel lyd, bilde, video, elektroniske fremstillingsformer) der dens teoretiske og metodiske grunnlag ikke fremgår av produktet selv. I slike tilfeller skal avhandlingen, foruten å fremstille selve produktet, ha en innledende del («kappe»).
+Fakultetet bestemmer hvilket språk som kan benyttes i en avhandling.
