@@ -1,0 +1,3 @@
+# § 10-3. Klage over avslag på søknad om bedømmelse, ikke godkjent kunstnerisk doktorgradsresultat, prøve over oppgitt emne eller forsvar
+Avslag på søknad om å få doktorgradsresultatet bedømt og vedtak om ikke godkjent doktorgradsresultat, prøveforelesning eller forsvar kan påklages etter reglene i forvaltningsloven § 28 flg. Grunngitt klage sendes fakultetet. Institusjonens klagenemnd er klageorgan, jf. universitets- og høyskoleloven § 13-1 tredje ledd.
+Dersom fakultetet eller klageinstansen finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelsen og de kriteriene denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.

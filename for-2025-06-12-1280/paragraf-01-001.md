@@ -1,0 +1,2 @@
+# § 1-1. Forskriftens virkeområde
+Forskriften gjelder all utdanning som fører frem til graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Universitetet i Stavanger (UiS). Graden er en fellesgrad mellom Universitetet i Stavanger og Universitetet i Agder, og samarbeidet reguleres av samarbeidsavtalen. Forskriften gir regler om opptak til, gjennomføring og avslutning av ph.d.-utdanningen, herunder fellesgrader og cotutelle.
