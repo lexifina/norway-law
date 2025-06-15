@@ -1,0 +1,3 @@
+# § 36. Krav til registreringspliktige anlegg for oppsamling av dyr
+Registreringspliktige anlegg for oppsamling av dyr fra anlegg med næringsrettet dyrehold skal være skilt fra andre anlegg med dyr. Dyr som skal videre til slakteri, kan oppstalles i anlegget, men ikke samtidig med livdyr.
+Den driftsansvarlige skal sikre at livdyr som kommer til anlegget følges av en veterinærattest. Attesten skal dokumentere at dyrene ikke viser tegn på smittsom sykdom, og at de kommer fra et anlegg som ikke er omfattet av offentlige restriksjoner på grunn av en sykdom dyrene er mottakelige for. Veterinærattesten er gyldig i 7 dager fra utstedelsesdatoen.
