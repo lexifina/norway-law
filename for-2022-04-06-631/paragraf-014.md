@@ -1,0 +1,4 @@
+# § 14. Behandling eller avliving mv. ved påvisning av kategori F-sykdom hos viltlevende akvatiske dyr
+Når en kategori F-sykdom er påvist hos viltlevende akvatiske dyr, kan Mattilsynet bestemme at akvatiske dyr i vassdrag eller sjø, skal behandles eller avlives dersom det er grunn til å tro at slike tiltak vil ha vesentlig betydning for å begrense eller utrydde sykdommen.
+Eier av grunn i eller rundt vassdrag eller sjø skal gi Mattilsynet tilgang til vassdrag eller sjø hvor det er påvist kategori F-sykdom, slik at nødvendig behandling eller avliving kan gjennomføres.
+Mattilsynet kan for øvrig gi pålegg om å iverksette tiltak som er nødvendige for å hindre spredning av sykdommen. Herunder kan Mattilsynet for å forebygge spredning av sykdommen, gi pålegg om ekstra sikkerhetstiltak i akvakulturanlegg som ligger spesielt utsatt til eller som kan påvirke resultatet av en planlagt behandling av vassdrag.

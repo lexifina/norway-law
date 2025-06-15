@@ -1,0 +1,2 @@
+# § 17. Tørking og desinfeksjon av fiskeutstyr, båter og andre gjenstander
+Fiskeutstyr, båter og andre gjenstander som er brukt i ett vassdrag, skal tørkes eller desinfiseres før de flyttes til andre vassdrag eller til andre deler av samme vassdrag. Brukt krepseredskap skal i tillegg tørkes og desinfiseres før ny sesong. Mattilsynet kan forby slik flytting dersom hensynet til å hindre smittespredning taler for det.

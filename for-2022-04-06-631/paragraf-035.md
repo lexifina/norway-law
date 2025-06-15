@@ -1,0 +1,6 @@
+# § 35. Dyreansamlinger og åpne gårder
+Den driftsansvarlige skal sikre at en dyreansamling eller åpen gård gjennomføres på en måte som i størst mulig grad hindrer smitteoverføring.
+Den driftsansvarlige skal melde fra til Mattilsynet om arrangementet senest 7 dager i forveien. Meldingen skal inneholde opplysninger om registreringsnummeret til anlegget der arrangementet skal finne sted, tidsrommet for arrangementet og hvilke tiltak som er planlagt for å hindre smitteoverføring.
+Dyreansamlinger skal være smittemessig skilt fra steder der dyr holdes permanent.
+Den driftsansvarlige for dyreansamlingen skal sikre at dyrene følges av en egenerklæring fra den som er driftsansvarlig for dyrene i anlegget de kommer fra. Dyr fra andre fylker enn der dyreansamlingen foregår, skal i tillegg følges av en veterinærattest. Egenerklæringen og veterinærattesten skal dokumentere at dyrene ikke viser tegn på smittsom sykdom, og at de kommer fra anlegg som ikke er omfattet av offentlige restriksjoner på grunn av en sykdom dyrene er mottakelige for. Dokumentasjonen er gyldig i 7 dager fra utstedelsesdatoen. Dokumentasjonen skal oppbevares hos arrangøren i ett år og legges fram når Mattilsynet ber om det.
+Fjerde ledd gjelder ikke for hester, hunder og katter. Det gjelder heller ikke mindre pattedyr og burfugler som holdes som kjæledyr.

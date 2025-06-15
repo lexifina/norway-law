@@ -1,0 +1,8 @@
+# § 34. Fangst og mottak av bisvermer
+Det er kun driftsansvarlige for honningbier med rett til å foreta undersøkelser som nevnt i § 37 som kan sette ut bikuber for å fange inn bisvermer eller ta imot innfangede bisvermer.
+Den driftsansvarlige skal stille opp bikubene som brukes til fangst eller mottak av bisvermene i en registrert bigård som er opprettet kun til dette formålet, en såkalt svermebigård, som ligger minst 300 meter fra andre registrerte bigårder eller bigårdsplasser. Bikubene skal være nye eller rengjorte og kan inneholde tavler med eller uten byggevoks.
+Etter at en bisverm er holdt i fangst- eller mottakerkuben i fire dager, skal den driftsansvarlige flytte bisvermen over i en ny eller rengjort bikube som inneholder tavler med byggevoks. Det gamle vokset i fangst- eller mottakerkuben skal fjernes fra denne og håndteres etter animaliebiproduktforskriften.
+Den driftsansvarlige kan fange inn eller motta bisvermer i svermebigården fra og med 1. mai til og med 31. juli.
+Etter at siste bisverm er fanget inn eller mottatt for sesongen, skal den driftsansvarlige sørge for at undersøkelsene som kreves for å kunne flytte honningbiene til en annen bigård i Norge, jf. landdyrforflytningsforskriften § 13, blir gjennomført i alle bikubene snarest mulig. Undersøkelsene skal gjennomføres selv om honningbiene ikke skal flyttes.
+Den driftsansvarlige må ha fjernet alle honningbier, som stammer fra bisvermer fanget inn eller mottatt en foregående sesong, fra svermebigården før den kan brukes til fangst eller mottak av nye bisvermer.
+Den driftsansvarlige skal sikre at utstyr som brukes i en svermebigård ikke blir brukt i andre bigårder.
