@@ -1,0 +1,2 @@
+# § 2a
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bzg, kap. II nr. 31qzb og vedlegg II kap. XII nr. 164zh (forordning (EU) 2024/2104) om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen gjelder som forskrift med de tilpasninger som følger vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
