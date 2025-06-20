@@ -1,0 +1,2 @@
+# § 10-5. Tilsidesettelse av aksjeeiernes fortrinnsrett
+Generalforsamlingen kan med flertall som for vedtektsendring beslutte å fravike det som er bestemt om aksjeeiernes fortrinnsrett i § 10-4 eller i vedtektene. Generalforsamlingen kan likevel ikke beslutte større avvik fra aksjeeiernes fortrinnsrett enn det som er angitt i styrets forslag, med mindre de aksjeeiere som vil få sin rett forringet, samtykker i dette.

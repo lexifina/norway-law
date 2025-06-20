@@ -1,0 +1,5 @@
+# § 17-4. Krav på selskapets vegne
+(1) Har selskapets generalforsamling truffet beslutning om ansvarsfrihet eller forkastet forslag om å kreve erstatning mot noen som er nevnt i § 17-1, kan aksjeeiere som eier minst en tidel av aksjekapitalen, gjøre erstatningsansvar gjeldende på selskapets vegne og i dets navn. Har selskapet 100 eller flere aksjeeiere, kan kravet også gjøres gjeldende av aksjeeiere som utgjør minst 10 prosent av det samlede antall. Er erstatningssøksmål reist, kan det fortsette selv om enkelte aksjeeiere trekker seg eller avhender sine aksjer.
+(2) Erstatningssøksmålet må anlegges ved felles fullmektig innen tre måneder etter generalforsamlingens beslutning. Er det begjært gransking etter §§ 5-25 til 5-28, regnes fristen fra den dag begjæringen er endelig avslått eller i tilfelle granskingen er avsluttet.
+(3) Kostnadene ved erstatningssøksmålet er selskapet uvedkommende. Kostnadene kan likevel kreves dekket av selskapet med inntil det beløp som er kommet selskapet til gode ved søksmålet.
+(4) Paragrafen her gjelder ikke når beslutningen nevnt i første ledd er truffet med flertall som for vedtektsendring. Det samme gjelder ved inngått forlik.

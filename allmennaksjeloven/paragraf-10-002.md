@@ -1,0 +1,9 @@
+# § 10-2. Aksjeinnskudd i annet enn penger og andre særlige tegningsvilkår
+(1) Generalforsamlingens beslutning om kapitalforhøyelse skal inneholde enhver avtale eller bestemmelse om
+1) at aksjer skal kunne tegnes med rett eller plikt til å gjøre innskudd med andre eiendeler enn penger (jf § 10-12 første ledd), at aksjeinnskuddsforpliktelsen skal kunne gjøres opp ved motregning (jf § 10-12, jf § 2-12 annet ledd annet punktum), eller at aksjer skal kunne tegnes på andre særlige vilkår. Det skal angis hvilke eiendeler det gjelder, innskyterens navn og adresse, hvor mange aksjer selskapet skal yte for innskuddet, og hvilke vilkår som skal gjelde;
+2) at selskapet skal overta andre eiendeler enn penger mot vederlag i annet enn aksjer. Det skal angis hvilke eiendeler det gjelder, overdragerens navn og adresse, det vederlaget som selskapet skal yte, og hvilke vilkår som skal gjelde;
+3) at selskapet skal bli part i en avtale, eller at noen skal ha særskilte rettigheter overfor eller fordeler av selskapet. Det skal i så fall angis hvilke vilkår som skal gjelde, og navn og adresse på den som er tilgodesett.
+(2) I stedet for å gjengi avtalen eller bestemmelsen i generalforsamlingens beslutning kan det henvises til en skriftlig avtale etter reglene i § 2-4 annet ledd.
+(3) Styret skal sørge for at det utarbeides en redegjørelse etter reglene i § 2-6 første og annet ledd. Tidspunktet for verdsettelsen av eiendeler selskapet skal overta, kan tidligst være fire uker før generalforsamlingens beslutning. § 2-6 fjerde ledd gjelder tilsvarende.
+(4) Redegjørelsen og skriftlig avtale som nevnt i annet ledd skal inntas i eller vedlegges innkallingen til generalforsamlingen.
+(5) En avtale eller bestemmelse som ikke er tatt inn i eller angitt i generalforsamlingens beslutning slik det kreves i denne paragrafen, kan ikke gjøres gjeldende mot selskapet.

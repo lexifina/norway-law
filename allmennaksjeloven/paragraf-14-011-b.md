@@ -1,0 +1,2 @@
+# § 14-11 b. Fisjon når de overtakende selskapene eier samtlige aksjer i det overdragende selskapet
+Dersom fisjonen skal gjennomføres ved at det overdragende selskapets eiendeler, rettigheter og forpliktelser skal fordeles på to eller flere overtakende selskaper som til sammen eier samtlige aksjer i det overdragende selskapet, kan fisjonen gjennomføres ved at beslutningen etter § 14-6 i selskapet som skal deles, treffes av styret og uten at det ytes vederlag.

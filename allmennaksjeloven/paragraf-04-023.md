@@ -1,0 +1,5 @@
+# § 4-23. Utøvelse av forkjøpsrett
+(1) Forkjøpsrett gjøres gjeldende ved melding til selskapet. Meldingen må være kommet frem til selskapet senest to måneder etter at verdipapirsentralen eller i tilfelle selskapet fikk melding om eierskiftet som nevnt i § 4-20.
+(2) Innløsningssummen skal fastsettes etter aksjens virkelige verdi på det tidspunktet kravet er fremsatt. En bestemmelse i vedtektene som angir beløpet eller hvordan innløsningssummen skal beregnes, kan lempes etter avtaleloven § 36. Rettighetshaveren må innen fristen på to måneder i første ledd ha gjort det som er nødvendig for å få innløsningssummen bindende fastsatt etter en fremgangsmåte som er angitt i vedtektene eller i tilfelle ved å kreve skjønn. Oppnås det ikke enighet om innløsningssummen, skal dette avgjøres ved skjønn om ikke annet blir avtalt.
+(3) Innløsningssummen skal betales innen en måned etter at kravet om forkjøpsrett ble fremsatt eller i tilfelle innen to uker etter at tvist om innløsningssummen er bindende avgjort.
+(4) Fristene i denne paragrafen kan ikke forlenges ved vedtektsbestemmelse.

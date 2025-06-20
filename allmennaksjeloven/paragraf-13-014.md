@@ -1,0 +1,3 @@
+# § 13-14. Melding av fusjonsbeslutningene til Foretaksregisteret
+(1) Senest en måned etter at fusjonsplanen er godkjent av generalforsamlingene, og eventuelt av styret, i alle de selskapene som deltar i fusjonen, skal beslutningene meldes til Foretaksregisteret. Oversittes fristen, bortfaller beslutningen.
+(2) I meldingen til Foretaksregisteret etter første ledd skal det opplyses om hvorvidt det er utarbeidet mellombalanser etter § 13-8 nr. 3 og datoen for fastsettelsen av mellombalansene. Er det utarbeidet mellombalanser, kan melding av fusjonsbeslutningene etter første ledd tidligst registreres i Foretaksregisteret når mellombalansene er registrert i og kunngjort av Regnskapsregisteret.

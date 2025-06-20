@@ -1,0 +1,3 @@
+# § 5-9. Myndighet til å innkalle til generalforsamling
+(1) Generalforsamlingen innkalles av styret. I selskap med bedriftsforsamling kan det bestemmes i vedtektene at generalforsamlingen skal innkalles av bedriftsforsamlingens leder.
+(2) Dersom styret eller bedriftsforsamlingens leder ikke innkaller generalforsamling som skal holdes etter loven, vedtektene eller tidligere beslutning av generalforsamlingen, skal tingretten gjøre dette snarest når det kreves av et styremedlem, et medlem av bedriftsforsamlingen, daglig leder, revisor som reviderer selskapets årsregnskap eller en aksjeeier. Utgiftene dekkes av selskapet.

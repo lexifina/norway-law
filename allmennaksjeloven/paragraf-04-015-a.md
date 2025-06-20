@@ -1,0 +1,2 @@
+# § 4-15a. Pantsettelse av aksjer
+Aksjer kan pantsettes når annet ikke er fastsatt i vedtektene. Pant i aksjer registrert i verdipapirsentral med Norge som hjemstat får rettsvern etter reglene i verdipapirsentralloven. Avtalen kan bestemme at utbytte skal utbetales til panthaveren uten de begrensninger som følger av § 8-3 annet ledd. Dersom aksjene er registrert i en verdipapirsentral som ikke knytter rettsvernsvirkninger til registrering i verdipapirsentralen, gjelder reglene i aksjeloven § 4-8 annet og tredje ledd om pant i aksjer tilsvarende.

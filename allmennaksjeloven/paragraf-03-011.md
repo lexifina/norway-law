@@ -1,0 +1,4 @@
+# § 3-11. Hva som er en vesentlig avtale
+(1) Med vesentlig avtale menes avtale der selskapets ytelse på tidspunktet for inngåelse av avtalen har en virkelig verdi som er større enn 2,5 prosent av balansesummen i selskapets sist godkjente årsregnskap.
+(2) Terskelverdien etter første ledd kan bygge på en mellombalanse etter § 8-2 a første ledd som er registrert i og kunngjort av Regnskapsregisteret. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
+(3) Ved vurderingen av om en avtale er vesentlig etter første ledd skal avtaler som selskapet eller et annet foretak i samme konsern eller foretaksgruppe, jf. § 8-7 fjerde ledd nr. 3, har inngått med samme tilknyttet part i samme regnskapsår, regnes sammen. Avtale som nevnt i § 3-16 nr. 1 og nr. 3 til 10 som selskapet eller foretak som nevnt i første punktum har inngått, skal ikke regnes med.

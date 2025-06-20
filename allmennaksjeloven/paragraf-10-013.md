@@ -1,0 +1,2 @@
+# § 10-13. Særskilt innbetalingskonto for aksjeinnskudd
+Aksjeinnskudd i penger skal innbetales på særskilt konto i en kredittinstitusjon i Norge eller i en EØS-stat. Kontoen kan ikke disponeres av selskapet før kapitalforhøyelsen er registrert. Den kan heller ikke overdras, stilles som sikkerhet eller tas som utlegg for gjeld. Dersom kapitalforhøyelsen faller bort, skal det beløp som er innbetalt på aksjene, uten opphold betales tilbake til aksjetegnerne. Det samme gjelder dersom en aksjetegning ikke godtas eller ikke er bindende.

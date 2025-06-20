@@ -1,0 +1,4 @@
+# § 1-8. Meldinger mv. til eiere av forvalterregistrerte aksjer
+(1) Selskapets meldinger mv. til eiere av forvalterregistrerte aksjer etter denne loven skal sendes forvalteren. Dette gjelder ikke dersom meldingen er sendt direkte til slik eier. Tredjepersoner som etter denne loven plikter å sende melding mv. til eiere av forvalterregistrerte aksjer, kan kreve at selskapet bistår med dette.
+(2) Forvaltere og andre formidlere som definert i verdipapirsentralloven § 4-5 første ledd, skal uten opphold videreformidle meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer.
+(3) Departementet kan i forskrift gi nærmere bestemmelser om krav til meldinger mv. mellom selskapet og eiere av forvalterregistrerte aksjer, herunder om format og tidsfrister, samt om videreformidling av meldinger mv. etter annet ledd.

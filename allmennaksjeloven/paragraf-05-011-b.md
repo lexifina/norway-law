@@ -1,0 +1,6 @@
+# § 5-11 b. Særregler om innkalling og informasjon til aksjeeierne om generalforsamlingen i selskaper med aksjer tatt opp til handel på regulert marked mv.
+For selskaper med aksjer tatt opp til handel på regulert marked, jf. verdipapirhandelloven § 2-7 fjerde ledd, som ligger i eller har virksomhet i EØS-området, gjelder følgende særregler:
+1) Innkallingsfristen etter § 5-10 annet ledd første punktum er 21 dager, om ikke vedtektene setter en lengre frist, jf. likevel verdipapirhandelloven § 6-17 sjette ledd.
+2) Innkallingen skal i tillegg til kravene etter § 5-10 oppfylle kravene etter forskrift fastsatt av Kongen til gjennomføring av direktiv 2007/36/EF artikkel 5 nr. 3.
+3) Informasjon og skjemaer som gjelder generalforsamlingen, skal være tilgjengelig for aksjeeierne på selskapets internettsider etter regler i forskrift fastsatt av Kongen til gjennomføring av direktiv 2007/36/EF artikkel 5 nr. 4 og artikkel 14 nr. 2.
+4) Selskapet skal innen 15 dager etter generalforsamlingen offentliggjøre fortegnelsen over aksjeeiere som har deltatt på generalforsamlingen, jf. § 5-13, på sine internettsider. Departementet kan i forskrift gi nærmere bestemmelser om offentliggjøring av fortegnelsen.

@@ -1,0 +1,7 @@
+# § 6-16 b. Rapport om lønn og annen godtgjørelse til ledende personer i noterte selskaper
+(1) Bestemmelsene i denne paragrafen gjelder for selskaper med aksjer tatt opp til handel på regulert marked. Departementet kan i forskrift fastsette at bestemmelsene også skal gjelde for selskaper med aksjer tatt opp til handel på tilsvarende marked utenfor EØS eller på andre typer handelsplasser.
+(2) Styret skal for hvert regnskapsår sørge for at det utarbeides en rapport som gir en samlet oversikt over utbetalt og innestående lønn og godtgjørelse som omfattes av retningslinjene i § 6-16 a. Generalforsamlingen skal avholde en rådgivende avstemning over rapporten.
+(3) Styret skal i rapporten for det etterfølgende regnskapsår forklare hvordan resultatet fra generalforsamlingens avstemning etter § 5-6 fjerde ledd er hensyntatt.
+(4) Revisor skal før rapporten behandles i generalforsamlingen kontrollere at rapporten inneholder opplysninger som kreves etter denne bestemmelsen og forskrift gitt i medhold av bestemmelsen.
+(5) Rapporten skal uten opphold offentliggjøres på selskapets nettside etter at ordinær generalforsamling er avholdt. Rapporten skal forbli offentlig tilgjengelig og gratis i en periode på ti år. Dersom selskapet velger å la rapporten være offentlig tilgjengelig ut over dette, skal personopplysninger tas ut av rapporten.
+(6) Departementet kan i forskrift gi nærmere regler om innholdet i rapporten etter annet ledd.

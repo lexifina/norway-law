@@ -1,0 +1,5 @@
+# § 13-8. Vedlegg til fusjonsplanen
+Som vedlegg til fusjonsplanen skal følge:
+1) vedtektene for de selskapene som deltar i fusjonen;
+2) de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de siste tre regnskapsår og eventuell halvårsrapport etter verdipapirhandelloven § 5-6 som har balansedag senere enn balansedagen i siste årsregnskap;
+3) mellombalanser for de deltakende selskaper, dersom planen undertegnes mer enn seks måneder etter balansedagen for det senest fastsatte årsregnskapet, og det ikke følger en halvårsrapport som nevnt i nr. 2 som vedlegg til fusjonsplanen. Kravet i første punktum gjelder ikke dersom samtlige aksjeeiere i selskapet som deltar i fusjonen, samtykker til dette. Mellombalansen skal være utarbeidet og revidert etter reglene for årsregnskap, og balansedagene må ikke ligge lenger tilbake i tid enn tre måneder før dagen for undertegningen av planen. Mellombalansene skal sendes til Regnskapsregisteret. Kongen kan ved forskrift fastsette unntak fra og gi nærmere regler om kravet til mellombalanser, og kan fastsette andre krav til revisjon av mellombalanser enn det som følger av tredje punktum.
