@@ -1,0 +1,3 @@
+# § 5. Klimamål for 2050
+Målet skal være at Norge skal bli et lavutslippssamfunn i 2050. Med lavutslippssamfunn menes et samfunn hvor klimagassutslippene, ut fra beste vitenskapelige grunnlag, utslippsutviklingen globalt og nasjonale omstendigheter, er redusert for å motvirke skadelige virkninger av global oppvarming som beskrevet i Parisavtalen 12. desember 2015 artikkel 2 nr. 1 bokstav a.
+Målet skal være at klimagassutslippene i 2050 reduseres i størrelsesorden 90 til 95 prosent fra utslippsnivået i referanseåret 1990. Ved vurdering av måloppnåelse skal det tas hensyn til effekten av norsk deltakelse i det europeiske klimakvotesystemet for virksomheter.
