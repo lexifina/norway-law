@@ -1,0 +1,5 @@
+# § 1. Formål og virkemidler
+Statens investeringsfond for næringsvirksomhet i utviklingsland (NORFUND) har til formål å medvirke med egenkapital og annen risikokapital, samt yte lån og stille garantier til utvikling av bærekraftig næringsvirksomhet i utviklingsland. Hensikten er å etablere levedyktig, lønnsom virksomhet som ellers ikke vil bli igangsatt som følge av høy risiko.
+Bare land som av OECD er klassifisert som lavere middelinntektsland og land med lavere inntekt pr. innbygger enn disse, samt andre land som Stortinget beslutter kan motta bistand over næringslivsordningene, er kvalifisert som mottakere.
+Fondet kan samarbeide med andre for å oppnå sitt formål, herunder blant annet delta i norske og utenlandske selskaper. Fondet kan etablere og utøve sin virksomhet gjennom datterselskaper. Generalforsamlingen kan i vedtektene etter § 8 fastsette nærmere betingelser og retningslinjer for slik etablering og utøvelse av virksomhet gjennom datterselskaper.
+Fondet kan også utføre andre forvalteroppgaver som det blir tillagt av departementet.
