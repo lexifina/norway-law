@@ -6,7 +6,7 @@ c) finansieringsforetak, jf. finansforetaksloven § 2-9
 d) e-pengeforetak, jf. finansforetaksloven § 2-11
 e) forsikringsforetak, jf. finansforetaksloven § 2-12, og forsikringsforetaks eierselskap
 f) pensjonskasser, jf. finansforetaksloven § 2-16
-g) låneformidlingsforetak, jf. finansforetaksloven § 2-18
+g) låneformidlingsforetak, jf. låneformidlingsloven § 2-2
 h) verdipapirforetak, jf. verdipapirhandelloven § 2-7 første ledd
 i) verdipapirsentraler
 j) verdipapirfond og forvaltningsselskaper, jf. verdipapirfondloven § 1-2 første ledd nr. 1 og 2
@@ -22,7 +22,9 @@ c) innskudd og andre interesser i innretninger som nevnt i første ledd bokstav 
 d) finansielle instrumenter og andre finansielle produkter
 e) forsikringer
 f) individuelle pensjonsavtaler og avtaler om individuell sparing til pensjon
-g) innskuddspensjonsordninger.
+g) innskuddspensjonsordninger
+h) spesifiserte elektroniske pengeprodukter
+i) digitale sentralbankpenger.
 Opplysningene skal blant annet vise saldo eller verdi, avkastning, utbetalinger, erverv og realisasjon. Utbetalinger knyttet til individuelle pensjonsavtaler og innskuddspensjonsordninger følger reglene i § 7-2. Tilsvarende gjelder for utbetalinger av uføreytelser knyttet til avtaler om individuell sparing til pensjon. Departementet kan gi forskrift om opplysningsplikt ved formidling av bestemte betalinger, og om at opplysningspliktige som nevnt i første ledd bokstav a, skal gi opplysninger om kontonummer som er aktuelle for overføring av eventuelle tilgodebeløp etter skatteavregning.
-(3) Det skal gis opplysninger som nevnt i annet ledd, for blant annet den enkelte kontohaver, disponent, investor, forsikringstaker, forsikrede og mottaker av utbetalinger og reelle rettighetshaver. Opplysningspliktige skal identifisere kontohavere mv. som nevnt i første punktum. Departementet kan gi forskrift om framgangsmåten ved slik identifisering, herunder om innhenting av egenerklæring om skattemessig bosted mv. Det kan gis forskrift om konsekvensene av at pliktig egenerklæring ikke er innhentet ved opprettelse av ny kontoavtale, herunder at slik kontoavtale ikke kan inngås. Det kan også gis forskrift om at opplysningspliktige skal oppbevare opplysninger og dokumentasjon benyttet i forbindelse med identifisering.
+(3) Det skal gis opplysninger som nevnt i annet ledd, for blant annet den enkelte kontohaver, disponent, investor, forsikringstaker, forsikrede og mottaker av utbetalinger og reelle rettighetshaver. Opplysningspliktige skal identifisere kontohavere mv. som nevnt i første punktum. Departementet kan gi forskrift om framgangsmåten ved slik identifisering, herunder om innhenting av egenerklæring om skattemessig bosted mv. Det kan gis forskrift om konsekvensene av at framgangsmåten ikke blir fulgt, herunder at kontoavtale kan sperres, avsluttes eller ikke kan inngås. Det kan også gis forskrift om at opplysningspliktige skal oppbevare opplysninger og dokumentasjon benyttet i forbindelse med identifisering.
 (4) Dersom opplysningspliktig etter denne bestemmelsen innretter seg for å unngå at opplysninger blir utvekslet etter overenskomst med fremmed stat, skal pliktene etter denne bestemmelsen likevel gjelde. Opplysningspliktig som har grunn til å tro at kontohaver eller annen person har innrettet seg for å unngå at opplysninger blir utvekslet etter overenskomst med fremmed stat, skal foreta undersøkelser for å avkrefte eller bekrefte mistanken. Dersom mistanken ikke kan avkreftes, skal den opplysningspliktige gi de opplysningene som foreligger, herunder om de forholdene som har medført mistanke.
