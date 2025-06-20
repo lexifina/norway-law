@@ -1,0 +1,4 @@
+# § 23. Innkalling til generalforsamling
+Departementet står for innkallingen til både ordinær og ekstraordinær generalforsamling og bestemmer innkallingsmåten. Innkallingen skal være sendt senest én uke før møtet skal avholdes, med mindre kortere varsel i særlige tilfelle er helt nødvendig.
+Til møtet innkalles de som etter § 20 annet ledd har rett til å være til stede på generalforsamlingen. I tillegg innkalles Riksrevisjonen.
+Innkallingen skal bestemt angi de saker som skal behandles på møtet. Saker som ikke er meddelt dem som har krav på innkalling etter annet ledd, kan bare avgjøres av generalforsamlingen når de møtende medlemmer av styret enstemmig samtykker i det. Er daglig leder eller et medlem av styret uenig i den beslutningen som treffes av departementet i generalforsamlingen, skal vedkommende kreve sin dissens tilført protokollen.

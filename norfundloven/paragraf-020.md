@@ -1,0 +1,3 @@
+# § 20. Generalforsamlingens myndighet og rett og plikt til å være til stede på generalforsamlingen
+Gjennom generalforsamlingen utøver departementet den øverste myndighet i fondet.
+Rett til å være til stede i generalforsamlingen og til å uttale seg har, i tillegg til departementet, fondets styre, daglig leder og revisor. Daglig leder og styrets leder har plikt til å være til stede med mindre dette er åpenbart unødvendig eller det foreligger gyldig forfall. I sistnevnte tilfelle skal utpekes en stedfortreder. Fondets revisor har plikt til å være til stede for så vidt de saker som skal behandles er av en slik art at hans nærvær kan anses nødvendig.
