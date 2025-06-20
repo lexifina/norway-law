@@ -1,0 +1,3 @@
+# § 40. Utlevering av opplysninger om leverandørklarering til andre staters myndigheter eller internasjonale organisasjoner
+Nasjonal sikkerhetsmyndighet kan informere et annet lands myndigheter eller en internasjonal organisasjon om en leverandør har klarering, og for hvilken sikkerhetsgrad.
+Dersom det er av sikkerhetsmessig betydning for det landet eller organisasjonen som ber om det, og Norge har et sikkerhetsmessig samarbeid med staten eller organisasjonen, kan Nasjonal sikkerhetsmyndighet også informere om registeropplysninger, opplysninger om vilkår i en klarering og om avslag, tilbakekall, nedsettelse eller suspensjon av en klarering.

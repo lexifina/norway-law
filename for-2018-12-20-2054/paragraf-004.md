@@ -1,0 +1,2 @@
+# § 4. Kontroll og avvisning av en forespørsel om personkontroll
+Før klareringsmyndigheten kan be Nasjonal sikkerhetsmyndighet om å gjennomføre en personkontroll, skal den kontrollere at forespørselen om klarering er tilstrekkelig begrunnet og dokumentert, jf. virksomhetsikkerhetsforskriften § 75. Klareringsmyndigheten skal avvise forespørselen dersom den ikke er tilstrekkelig begrunnet og dokumentert.

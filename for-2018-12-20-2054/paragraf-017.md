@@ -1,0 +1,3 @@
+# § 17. Vurderingsgrunnlaget for adgangsklarering
+En avgjørelse om adgangsklarering skal minst bygge på forholdene i sikkerhetsloven § 8-4 fjerde ledd bokstav a, b, d, l og m. I vurderingen av forhold angitt i bokstav a skal det særlig legges vekt på opplysninger om ikke-statlig terror, attentat eller annen alvorlig kriminalitet.
+En avgjørelse om utvidet adgangsklarering skal minst bygge på forholdene i sikkerhetsloven § 8-4 fjerde ledd bokstav a, b, d, l, m, k og n. I vurderingen av forhold angitt i bokstav a skal det særlig legges vekt på opplysninger om statlig sabotasje, attentat eller liknende.

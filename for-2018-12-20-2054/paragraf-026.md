@@ -1,0 +1,3 @@
+# § 26. Gyldighetstid for sikkerhetsklarering og adgangsklarering
+En sikkerhetsklarering og adgangsklarering er gyldig i inntil fem år, dersom ikke annet følger av avtale mellom Norge og en annen stat eller internasjonal organisasjon. Klareringsmyndigheten kan på forespørsel i særlige tilfeller forlenge gyldighetstiden med inntil ett år.
+Omfatter en personkontroll opplysninger om ektefelle, partner eller samboer og den klarerte inngår nytt ekte-, partner- eller samboerskap, skal klareringsmyndigheten gjennomføre en kontroll av den nye ektefellen, partneren eller samboeren og vurdere om klareringen opprettholdes. Opprettholdes klareringen, gjelder klareringens opprinnelige gyldighetstid.

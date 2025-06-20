@@ -1,0 +1,2 @@
+# § 10. Innhenting av personkontrollopplysninger fra andre stater
+Nasjonal sikkerhetsmyndighet kan innhente fra andre staters myndigheter tilsvarende opplysninger som fastsatt i § 8 og 9 for de respektive klareringene. En forespørsel om opplysninger til en personkontroll skal bare inneholde personens navn, fødselsdato, adresse i den aktuelle staten eller andre faktiske opplysninger som er nødvendige for å identifisere personen.
