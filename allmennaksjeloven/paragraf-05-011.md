@@ -1,0 +1,2 @@
+# § 5-11. Aksjeeieres rett til å få saker behandlet på generalforsamlingen
+En aksjeeier har rett til å få behandlet spørsmål på generalforsamlingen. Spørsmålet skal meldes skriftlig til styret innen syv dager før fristen for innkalling til generalforsamling sammen med et forslag til beslutning eller en begrunnelse for at spørsmålet settes på dagsordenen. Har innkallingen allerede funnet sted, skal det foretas en ny innkalling dersom fristen for innkalling til generalforsamling ikke er ute. En aksjeeier har også rett til å fremsette forslag til beslutning.

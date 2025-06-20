@@ -1,0 +1,6 @@
+# § 4-5. Offentlighet om aksjeeiere
+(1) Aksjeeierregisteret skal være tilgjengelig for enhver. Dette gjelder likevel ikke opplysninger om digitale adresser.
+(2) Enhver kan be selskapet om innsyn i hvem som er eiere av forvalterregistrerte aksjer i selskapet, og hvor mange aksjer hver enkelt eier. Selskapet kan kreve å få dekket sine faktiske kostnader i forbindelse med innsynskravet.
+(3) Selskapet skal oppbevare opplysninger om aksjeeiere som er innhentet for å oppfylle innsynsretten etter annet ledd, i ti år. Dersom en offentlig myndighet krever det, plikter selskapet å utlevere opplysningene.
+(4) Departementet kan i forskrift gi nærmere bestemmelser om innsynsrett etter første og annet ledd, herunder om frist for å gi innsyn og om betaling av gebyr. Departementet kan i forskrift gi nærmere bestemmelser om oppbevaring av opplysninger etter tredje ledd.
+(5) Departementet kan i forskrift gi nærmere bestemmelser om plikt for selskaper til periodisk å offentliggjøre en oversikt over aksjeeiere i selskapet som skal være kostnadsfritt tilgjengelig for allmennheten. I forskriften kan det blant annet gis regler om hvilke opplysninger som skal offentliggjøres, hvordan og hvor ofte disse skal offentliggjøres, varighet for offentliggjøringen, begrensninger i offentliggjøringsplikten, samt oppbevaring av opplysninger.

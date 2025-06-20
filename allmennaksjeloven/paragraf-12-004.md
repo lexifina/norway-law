@@ -1,0 +1,3 @@
+# § 12-4. Melding til Foretaksregisteret
+(1) Generalforsamlingens beslutning om å nedsette aksjekapitalen skal meldes til Foretaksregisteret. Meldingen skal inneholde opplysninger om hvorvidt beregningen etter § 12-2 er basert på sist godkjente årsregnskap eller en mellombalanse og datoen for fastsettelsen av årsregnskapet eller mellombalansen. Er beslutningen om kapitalnedsetting basert på en mellombalanse, kan beslutningen tidligst registreres i Foretaksregisteret når mellombalansen er registrert i og kunngjort av Regnskapsregisteret.
+(2) Er kapitalnedsettingen ikke meldt til Foretaksregisteret innen to måneder etter at beslutningen ble truffet, bortfaller kapitalnedsettingen.

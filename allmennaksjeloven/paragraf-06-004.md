@@ -1,0 +1,5 @@
+# § 6-4. Ansattes rett til å velge styremedlemmer
+(1) Når et selskap med flere enn 30 ansatte ikke har bedriftsforsamling (jf § 6-35), kan et flertall av de ansatte kreve at ett styremedlem og en observatør med varamedlemmer velges av og blant de ansatte.
+(2) Når et selskap med flere enn 50 ansatte ikke har bedriftsforsamling (jf § 6-35), kan et flertall av de ansatte kreve at inntil en tredel og minst to av styrets medlemmer med varamedlemmer velges av og blant de ansatte.
+(3) Når et selskap har flere enn 200 ansatte og det er avtalt at selskapet ikke skal ha bedriftsforsamling (jf § 6-35 annet ledd), skal de ansatte velge ett styremedlem med varamedlem eller to observatører med varamedlemmer i tillegg til den representasjon som følger av annet ledd.
+(4) Kongen kan gi forskrift om beregningen av antall ansatte, herunder om bruk av gjennomsnittstall. Kongen kan også gi forskrift om valget, herunder om vilkår for stemmerett og valgbarhet, valgmåten og om avgjørelse av tvister om valget, samt om bortfall av verv som styremedlem. Kongen kan gjøre unntak fra første, annet eller tredje ledd.

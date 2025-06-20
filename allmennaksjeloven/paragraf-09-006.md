@@ -1,0 +1,3 @@
+# § 9-6. Unntak fra §§ 9-2 til 9-5
+(1) Bestemmelsene i §§ 9-2 til 9-5 er ikke til hinder for at egne aksjer erverves som gave, ved tvangsinndrivelse til dekning av selskapets fordring, ved overtakelse av annen virksomhet gjennom fusjon, fisjon eller på annen måte eller ved innløsning etter § 16-19.
+(2) Hvis den samlede pålydende verdi av beholdningen av egne aksjer (jf § 9-2 annet ledd og første ledd i paragrafen her) overstiger ti prosent av aksjekapitalen, skal en aksje ervervet etter første ledd så snart som mulig og senest innen to år etter ervervet avhendes eller slettes ved nedsetting av aksjekapitalen.

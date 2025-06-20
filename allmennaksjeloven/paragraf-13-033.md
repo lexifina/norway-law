@@ -1,0 +1,3 @@
+# § 13-33. Rettsvirkninger av fusjonen
+(1) En fusjon over landegrensene skal ha de rettsvirkninger som følger av § 13-17 første ledd nr. 1 til 6. I tillegg skal fusjonen ha som virkning at de deltakende selskapenes rettigheter og plikter som følger av arbeidsavtaler eller arbeidsforhold og som gjelder på det tidspunkt fusjonen trer i kraft, overføres til det overtakende selskapet.
+(2) Rettsvirkningene av fusjonen inntrer på det tidspunkt som er fastsatt i lovgivningen som regulerer det overtakende selskapet. Dersom det overtakende selskapet skal være underlagt norsk rett, inntrer rettsvirkningene når fusjonen blir registrert i samsvar med § 13-32 første ledd.

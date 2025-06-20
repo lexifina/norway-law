@@ -1,0 +1,2 @@
+# § 13-15. Kreditorvarsel
+Foretaksregisteret skal kunngjøre beslutningene om fusjon i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og varsle selskapenes kreditorer om at innsigelse mot fusjonen må meldes til selskapet innen seks uker fra kunngjøringen. Det skal fremgå av kunngjøringen om hvorvidt det er utarbeidet mellombalanser etter § 13-8 nr. 3. Kunngjøringen skal i så fall også angi datoen for fastsettelsen av mellombalansene.

@@ -1,0 +1,2 @@
+# § 6-39. Gransking
+De ansattes representanter i bedriftsforsamlingen kan be om at tingretten ved kjennelse oppnevner én eller flere granskere for å bringe på det rene om opplysningsplikten etter § 6-37 annet ledd er oppfylt og for å få frem de rette opplysningene. § 5-26 gjelder tilsvarende. Når beretningen er avgitt til retten, skal den sendes til bedriftsforsamlingens leder. Bedriftsforsamlingen skal innkalles til møte hvor beretningen deles ut og leses opp.

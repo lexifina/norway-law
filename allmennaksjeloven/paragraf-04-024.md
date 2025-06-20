@@ -1,0 +1,6 @@
+# § 4-24. Innløsning av små aksjeposter
+(1) Selskapet kan fremsette tilbud om å overta de aksjene som eies av aksjeeiere som hver for seg har så få aksjer i selskapet at den samlede verdi av aksjene regnet etter kursen på tilbudsdagen ikke overstiger fem hundre kroner. Tilbud som angir løsningssummen pr aksje og fristen til å godta tilbudet, skal sendes skriftlig til alle aksjeeiere med kjent adresse som omfattes av tilbudet. Ervervet skjer etter reglene om erverv av egne aksjer i §§ 9-2 til 9-8.
+(2) Har selskapet fremsatt tilbud etter første ledd uten at alle aksjer tilbudet omfatter, er blitt overtatt av selskapet, kan departementet gi selskapet tillatelse til tvungen overtakelse av resten av aksjene.
+(3) Når selskapet har truffet beslutning om tvungen overtakelse i henhold til tillatelse fra departementet, skal selskapet innføres som eier av aksjene i verdipapirsentralen. Dette gjelder likevel ikke aksjene til aksjeeiere som etter at tilbudet etter første ledd er fremsatt, har fått registrert erverv av så mange aksjer at de ikke lenger omfattes av tilbudet.
+(4) § 4-25 annet, tredje og fjerde ledd om fastsettelse av løsningssummen gjelder tilsvarende.
+(5) Skjønnet holdes i den rettskrets hvor selskapet har sitt forretningskontor. Alle aksjeeiere skjønnet angår kan innstevnes som part. Kostnadene ved skjønnet dekkes av selskapet.

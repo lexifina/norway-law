@@ -1,0 +1,2 @@
+# § 3-10. Virkeområde
+Bestemmelsene i §§ 3-11 til 3-18 gjelder når et selskap med aksjer tatt opp til handel på regulert marked i eller med virksomhet i EØS skal inngå en vesentlig avtale med en tilknyttet part. Departementet kan i forskrift fastsette at bestemmelsene også skal gjelde for selskaper med aksjer tatt opp til handel på tilsvarende marked utenfor EØS eller på andre typer handelsplasser. Bestemmelsene i § 3-19 gjelder når et datterselskap til et selskap som nevnt i første punktum eller i forskrift inngår en vesentlig avtale med en tilknyttet part til morselskapet.

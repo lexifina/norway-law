@@ -1,0 +1,2 @@
+# § 5-8 b. Skriftlig stemmegivning før generalforsamlingen
+Det kan fastsettes i vedtektene at aksjeeierne skal kunne avgi sin stemme skriftlig, herunder ved bruk av elektronisk kommunikasjon, i en periode før generalforsamlingen. For slik stemmegivning skal det benyttes en betryggende metode for å autentisere avsenderen. I vedtektene kan det fastsettes nærmere krav til slik stemmegivning. Reglene i § 5-8 a gjelder tilsvarende.

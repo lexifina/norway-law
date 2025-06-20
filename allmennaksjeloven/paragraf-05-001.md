@@ -1,0 +1,3 @@
+# § 5-1. Generalforsamlingens myndighet
+(1) Gjennom generalforsamlingen utøver aksjeeierne den øverste myndighet i selskapet.
+(2) Generalforsamlingen kan likevel ikke overprøve bedriftsforsamlingens beslutning etter § 6-37 første og fjerde ledd eller styrets beslutning etter § 6-37 fjerde ledd annet punktum. Kongen kan i det enkelte tilfellet gjøre unntak fra første punktum når selskapet er et datterselskap og de ansatte i datterselskapet har rett til representasjon i styret eller bedriftsforsamlingen etter beslutning som nevnt i § 6-5 eller § 6-35 femte ledd, eller en vedtektsbestemmelse med tilsvarende innhold.

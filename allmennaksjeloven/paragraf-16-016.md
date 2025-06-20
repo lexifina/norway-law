@@ -1,0 +1,4 @@
+# § 16-16. Behandling av saker om oppløsning etter § 16-15
+(1) Når vilkårene i § 16-15 første ledd nr 1 til 4 er oppfylt, skal Foretaksregisteret sende selskapet varsel om dette. I tilfelle som nevnt i § 16-15 første ledd nr 5 sendes varsel av Regnskapsregisteret. Selskapet skal gis en frist på en måned til å bringe forholdet i orden og underrettes om følgene av at fristen oversittes.
+(2) Har selskapet ikke brakt forholdet i orden ved fristens utløp, skal Foretaksregisteret eller Regnskapsregisteret gjenta varselet ved kunngjøring i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon. I kunngjøringen skal det angis at vilkårene for oppløsning av selskapet er oppfylt, og at selskapet har en frist på fire uker fra kunngjøringen til å bringe forholdet i orden. Følgene av at fristen oversittes, skal også angis.
+(3) Dersom det finnes hensiktsmessig, kan varsel etter denne bestemmelsen i stedet gis av tingretten.
