@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av kommisjonens gjennomføringsforordning (EU) nr. 923/2012
+EØS-avtalen vedlegg XIII kap. VI nr. 66wk (forordning (EU) nr. 923/2012, som endret ved forordning (EU) 2015/340, (EU) 2016/1185, (EU) 2020/469, (EU) 2020/1177, (EU) 2021/666, (EU) 2023/1772 og (EU) 2024/404) om fastsettelse av felles lufttrafikkregler og driftsmessige bestemmelser knyttet til tjenester og framgangsmåter i lufttrafikken [...], gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.

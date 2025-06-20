@@ -1,0 +1,3 @@
+# § 23c. Tilbakelesing av klareringer og annen informasjon
+En flygeleder som har mottatt muntlige tilbakelesinger av vilkårsklareringer fra flybesetningen knyttet til bruk av rullebanen, skal i kommunikasjonen med flybesetningen bekrefte at tilbakelesingen er korrekt eller meddele at tilbakelesingen ikke er korrekt og gjenta klareringen.
+Flygeren skal i kommunikasjonen med en enhet for flygeinformasjonstjeneste alltid gjenta mottatt informasjon om tilgjengeligheten av rullebanen, høydemålerinnstilling (QNH) og gjennomgangsnivå i tillegg til tildelt SSR-kode, samt klareringer som gis på vegne av flygekontrolltjenesten.

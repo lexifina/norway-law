@@ -1,0 +1,3 @@
+# § 22a. Fritak fra ansvar for å yte lufttrafikktjeneste
+Luftfartstilsynet kan etter søknad beslutte at lufttrafikktjenesten fritas fra ansvaret for å yte lufttrafikktjeneste i deler av luftrommet som er tilrettelagt for særskilte luftromsbrukere. Søkeren må dokumentere at det foreligger et konkret behov for fritaket, at brukerne av det aktuelle luftrommet er innforstått med konsekvensene av fritaket, og at flysikkerheten ivaretas. Lufttrafikktjenesten skal konsulteres før fritak besluttes.
+Fritak etter første ledd kan gis etter en helhetlig vurdering av de hensyn som gjør seg gjeldende i saken.
