@@ -1,0 +1,2 @@
+# § 1. Forordning (EU) 2019/1780
+Forordning (EU) 2019/1780 om fastsettelse av standardskjemaer for offentliggjøring av kunngjøringer om offentlig innkjøp, som inntatt i EØS-avtalen vedlegg XVI nr. 6i, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg XVI, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2022/2303 og forordning (EU) 2023/2884.
