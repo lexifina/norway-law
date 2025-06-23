@@ -1,0 +1,3 @@
+# § 8. Utlegging av Sametingets valgmanntall
+(1) Samevalgstyret skal legge Sametingets valgmanntall ut til offentlig ettersyn så snart det lar seg gjøre. Valgmanntallet skal ligge ute til og med valgdagen i det året det er valg til Sametinget og i det året det er valg til kommunestyrer og fylkesting.
+(2) Samevalgstyret kunngjør tid og sted for utleggingen og opplyser også om adgangen til og fremgangsmåten for å kreve feil rettet. Kunngjøring kan unnlates dersom det ikke er registrert noen personer i valgmanntallet i kommunen. I kommuner der lokale forhold tilsier det, kan kunngjøring skje i form av direkte meddelelse til hver enkelt som er innført i manntallet.

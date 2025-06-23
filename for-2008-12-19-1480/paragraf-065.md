@@ -1,0 +1,6 @@
+# § 65. Foreløpig opptelling. Rapportering av foreløpige resultater
+(1) Foreløpig opptelling av stemmesedler avgitt på forhånd skal starte senest fire timer før stemmegivningen er avsluttet ved samtlige stemmesteder i valgkretsen, dersom dette kan skje uten å stride mot prinsippet om hemmelig valg. I motsatt fall skal den skje så snart samtlige forhåndsstemmegivninger er mottatt på opptellingsstedet. Samevalgstyret og opptellingsvalgstyret skal holde et visst antall stemmegivninger utenfor den foreløpige opptellingen og blande disse sammen med forhåndsstemmegivninger som kommer inn etter at den foreløpige opptellingen er begynt.
+(2) Foreløpig opptelling av stemmesedler avgitt på valgtinget skal starte så snart som mulig etter at alle stemmegivningene er mottatt hos samevalgstyret.
+(3) Stemmesedler det er tvil om kan godkjennes, legges til side og holdes utenfor opptellingen.
+(4) Hver listes foreløpige stemmetall finnes ved å telle hvor mange stemmesedler som er avgitt til hver liste.
+(5) I kommuner med 30 eller flere personer i Sametingets valgmanntall skal samevalgstyret så snart opptellingen er avsluttet, innrapportere det foreløpige resultatet til opptellingsvalgstyret i kretsen.

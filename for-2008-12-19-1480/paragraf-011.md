@@ -1,0 +1,2 @@
+# § 11. Underretninger om endringer i Sametingets valgmanntall
+Sametinget skal snarest sende melding til den som blir berørt av oppdateringer i Sametingets valgmanntall foretatt på grunnlag av søknad om innføring, krav om retting eller oppdaget feil. Står den som blir innført allerede i valgmanntallet i en annen kommune, skal underretning om innføringen straks sendes til samevalgstyret der, i tillegg til samevalgstyret i den kommunen der velgeren blir innført i manntallet.

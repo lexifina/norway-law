@@ -1,0 +1,2 @@
+# § 34. Klage
+Klage med krav om endring av valgnemndas vedtak om å godkjenne eller forkaste et listeforslag, må fremsettes innen sju dager etter offentliggjøringen av overskriftene på de godkjente valglistene. Dersom klagen er begrunnet i at enerett til registrert navn etter kapittel 5 i denne forskriften er krenket, har også en registrert organisasjon klagerett. For øvrig gjelder bestemmelsene om klage i kapittel 13.
