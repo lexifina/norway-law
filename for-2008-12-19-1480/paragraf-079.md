@@ -1,0 +1,3 @@
+# § 79. Nytt valgoppgjør
+(1) Opptellingsvalgstyret skal, etter pålegg fra Sametinget, foreta nytt valgoppgjør hvis en representantplass i Sametinget blir stående ubesatt.
+(2) Opptellingsvalgstyret utferdiger fullmakt for den som er valgt til representant eller vararepresentant etter første ledd. I fullmakten angis hvilket nummer i rekkefølgen den valgte representanten skal ha. For vararepresentant angis hvilken eller hvilke representanter vedkommende skal erstatte, og nummeret i vararepresentantrekken. Fullmakten sendes til Sametinget. Samtidig underrettes den valgte representanten eller vararepresentanten om valget og om retten til å søke fritak fra valg.

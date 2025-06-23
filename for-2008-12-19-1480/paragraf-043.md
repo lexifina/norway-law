@@ -1,0 +1,15 @@
+# § 43. Fremgangsmåten ved stemmegivningen
+(1) Valgloven §§ 6-2, 6-5, 6-8, 6-9 og 6-11 og valgforskriften § 7-4 gjelder tilsvarende.
+(2) Velgere med stemmerett i en annen valgkrets enn der stemme avgis skal få utlevert en stemmeseddel med navnene til de samepolitiske organisasjonene registrert hos Sametinget som ved forrige sametingsvalg fikk minst 60 stemmer i en valgkrets eller minst 200 stemmer i hele landet.
+(3) Velgeren skal legge stemmeseddelen i en egen stemmeseddelkonvolutt for sametingsvalget.
+(4) Stemmemottaker skal påse at det fremgår av stemmegivningen hvem velgeren er, slik at det er mulig for samevalgstyret eller opptellingsstyret å identifisere vedkommende og krysse av ved rett navn i manntallet.
+(5) Avgis stemmen innenriks, skal stemmemottakeren skrive ut valgkort til velgeren med mindre velgeren har med seg valgkort. Valgkortet skal fylles ut slik at det er mulig å identifisere velgeren ut fra opplysningene på kortet. Opplysningene om hvilket valg og år det gjelder, velgerens navn og fødselsnummer og navn og adresse til samevalgstyret i den kommunen velgeren er manntallsført eller adressen til opptellingsvalgstyret i kretsen skal være synlige i vinduet på omslagskonvolutten. Valgkortet skal også inneholde et felt hvor stemmemottakeren skal påføre tid og sted for stemmegivningen samt signere for stemmemottaket. I tillegg skal det fremgå av valgkortet hvilket valg det gjelder. Velgeren legger selv stemmeseddelen i en stemmeseddelkonvolutt og gir denne til stemmemottaker. Deretter skal stemmemottakeren legge stemmeseddelkonvolutten og valgkortet ned i en omslagskonvolutt og lime den igjen. Velgeren legger omslagskonvolutten i en forseglet urne.
+(6) Avgis stemmen utenriks, på Svalbard eller Jan Mayen skal stemmemottakeren legge stemmeseddelkonvolutten i en omslagskonvolutt og lime denne igjen i velgerens påsyn. Stemmemottaker skal deretter påføre omslagskonvolutten følgende opplysninger:
+a) samevalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med 30 eller flere i valgmanntallet, eller opptellingsvalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med færre enn 30 i valgmanntallet,
+b) velgerens navn og fødselsdato,
+c) adresse på hjemstedet 30. juni valgåret, eventuelt siste adresse i Norge dersom velgeren har meldt flytting til utlandet, og
+d) tid og sted for stemmegivningen.
+Stemmemottakeren og velgeren skriver deretter under på omslagskonvolutten.
+(7) Forhåndsstemmegivningene skal fortløpende sendes til samevalgstyret i kommunen hvor velger er manntallsført, eller til opptellingsvalgstyret i kretsen dersom velger er manntallsført i en kommune med færre enn 30 manntallsførte. Det skal brukes forsendelseskonvolutt.
+(8) Den nest siste uken av forhåndsstemmeperioden skal forhåndsstemmegivningene sendes videre til velgerens hjemkommune hver dag.
+(9) Den siste uken før valgdagen skal forhåndsstemmegivningene ikke sendes som brevpost. Forhåndsstemmegivninger mottatt denne uken skal sendes på en måte som sikrer at stemmegivningene kommer inn til samevalgstyret innen kl. 17 dagen etter valgdagen.

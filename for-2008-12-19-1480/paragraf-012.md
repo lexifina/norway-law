@@ -1,0 +1,5 @@
+# § 12. Tilgang til valgmanntallseksemplar
+(1) Alle som stiller liste ved valget har uten omkostninger rett til ett eksemplar av valgmanntallet. Krav om valgmanntallseksemplarer må fremsettes for Sametinget innen den frist Sametinget har satt.
+(2) Forslagstillerne kan få tilgang til flere valgmanntallseksemplarer og oppgaver over bestemte grupper av velgere, dersom de selv bærer de ekstra omkostningene knyttet til dette.
+(3) Valgmanntallsavskrifter og eventuelt annet materiell som bygger på valgmanntallet, kan bare brukes til politiske formål og skal ikke overlates utenforstående med mindre formålet er politisk bearbeiding. Det er ikke adgang til å koble valgmanntallet til andre offentlige registre.
+(4) Sametinget skal holde oversikt over utleverte valgmanntallseksemplarer og se til at alle blir levert tilbake til Sametinget eller makuleres innen seks måneder etter valget. Mottaker er ansvarlig for at valgmanntallseksemplarene leveres tilbake eller makuleres innen seks måneder etter valget.
