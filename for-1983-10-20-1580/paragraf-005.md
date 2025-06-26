@@ -1,0 +1,3 @@
+# § 5. Godkjenning m.m.
+(1) Gassbeholdere, gassfyrte apparater, automatiske omskiftere, trykkregulatorer, lekkasjeindikatorer og tetthetssikringer skal være typegodkjent. Anvisning for montering og bruk mv. gitt av produsent/hovedagent skal være godkjent. I anvisningen skal tydelig presiseres at denne forskrift skal anskaffes eller være vedlagt dersom utstyret skal anvendes på fartøy. Anvisning og forskrift skal medfølge ved omsetning av utstyr for bruk i fartøy og oppbevares ombord. Bruksanvisning for gassfyrt anlegg skal være oppslått i nærheten av anlegget.
+(2) Installasjon og prøving av gassfyrt anlegg skal utføres i henhold til denne forskrift. Gassfyrt anlegg må ikke tas i bruk før det er kontrollert og tetthetsprøvet og installasjonsbevis utstedt, se § 12.
