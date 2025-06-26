@@ -1,0 +1,6 @@
+# § 12. Røykopptak og eksosrør
+(1) Røykopptak og eksosrør skal bestå av minst 3 mm tykke stålplater og festes forsvarlig. Røykopptaksrør skal føres minst 1,3 m over dekk.
+(2) Stenullskåler med minst 6 cm tykkelse skal plasseres mellom røykopptak og brennbart materiale. Mellom tetningsplater av metall og brennbart materiale skal det isoleres med ubrennbart materiale. Alternativt kan et rør med minst 6 cm større diameter enn røykopptaksrøret monteres utenpå dette, slik at det blir vertikal luftstrømming mellom rørene. Mellom ytre rør og brennbart materiale isoleres med stenullskåler eller mineralullsnor med 3 cm tykkelse. Røret skal føres minst 1 m over dekk, og utløpet beskyttes med krage.
+(3) Når røykopptak føres opp langs skott, skal skottet isoleres med ubrennbart materiale. Røykopptak skal ikke plasseres nærmere isolert skott enn 10 cm. Avstanden til isolert skott kan reduseres til 5 cm dersom røykopptak (rør) er isolert med stenullskåler eller mineralullsnor av minst 2 cm tykkelse.
+(4) Eksosmanifold som ikke er vannavkjølt, og deler av eksosrør som kan forårsake antennelse, skal isoleres slik at oljen ikke kan trenge gjennom. Der gassene er vannavkjølt, kan andre arrangementer godtas. Eksosrør skal ikke være nærmere brennbart materiale enn 2 cm.
+(5) Oljeledninger skal legges lengst mulig bort fra eksosrør og varme maskindeler.

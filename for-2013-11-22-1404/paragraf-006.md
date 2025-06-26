@@ -1,0 +1,2 @@
+# § 6. Skansekledninger, rekkverk og beskyttelsesanordninger
+Fartøy med største lengde 6 til 15 meter bygget etter 1. juli 2014 skal ha skansekledninger eller rekkverk med minimum en meter høyde plassert på alle utsatte deler av arbeidsdekk og på overbygninger som har funksjon som arbeidsplattform. Høyden kan reduseres til minimum 600 millimeter dersom den er til hinder for utøvelse av fisket og det anses som absolutt nødvendig.

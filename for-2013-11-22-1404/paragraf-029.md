@@ -1,0 +1,9 @@
+# § 29. Stabilitetskriterier
+(1) Følgende minstekrav til stabilitet skal være oppfylt i samtlige lastetilstander
+a) arealet under GZ-kurven skal ikke være mindre enn 0,055 meterradianer fra 0 til 30 graders krengningsvinkel og ikke mindre enn 0,090 meterradianer fra 0 til 40 grader eller fyllingsvinkelen θf dersom denne vinkelen er mindre enn 40 grader. I tillegg skal arealet under kurven mellom krengningsvinklene på 30 grader og 40 grader eller mellom 30 grader og θf hvis denne vinkelen er mindre enn 40 grader, ikke være mindre enn 0,030 meterradianer. GZ-kurven skal beregnes uten initial slagside. I forbindelse med stabilitetskriteriene ovenfor og § 32 tredje ledd, skal i tillegg luker som periodevis må stå åpne under fiske, regnes som fyllingsåpninger til tross for at de er arrangerte slik at de raskt kan lukkes værtett,
+b) den rettende arm skal være minst 200 millimeter ved en krengningsvinkel som er lik eller større enn 30 grader,
+c) største rettende arm GZmax skal inntreffe ved en krengningsvinkel som fortrinnsvis er større enn 30 grader men som ikke er mindre enn 25 grader,
+d) initialmetasenterhøyden (GM) skal ikke være mindre enn 350 millimeter,
+e) for fartøy som opererer i fartsområde kystfiske eller større fartsområde, skal den rettende armen (GZ) for krengevinkler fra 40 til 65 grader ikke noe sted være mindre enn 100 millimeter, og positiv opp til 80 grader, når det ses bort fra fylling gjennom luker, dører, lenseventiler eller lignende som må stå åpne under drift, men som raskt kan lukkes værtett.
+(2) Som alternativ til stabilitetskriteriene i første ledd kan Nordisk Båt Standard (1990) kapittel Y3 og Y30 legges til grunn. For fartøy som opererer i fartsområde fjordfiske behøver ikke NBS kap. Y30 pkt. 3.2 oppfylles.
+(3) Fartøyets metasenterhøyde (GM) i lett tilstand skal være positiv uavhengig av valg av stabilitetskriterier.
