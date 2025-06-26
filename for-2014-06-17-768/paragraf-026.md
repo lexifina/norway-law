@@ -1,0 +1,3 @@
+# § 26. Livbøyer
+(1) Skip med største lengde 15 meter eller mer skal ha fire livbøyer. Skip sertifisert for mer enn 250 passasjerer skal ha åtte livbøyer. Livbøyene skal plasseres slik at det på hver side er en livbøye med en flytende redningsline på minst 30 meter, og en livbøye uten flytende redningsline men med selvtennende røyksignal og selvtennende lys. De sistnevnte skal kunne utløses raskt fra broen, manuelt eller med fjernutløsning.
+(2) Skip med største lengde under 15 meter skal ha en livbøye med flytende redningsline på minst 30 meter, og en livbøye uten flytende redningsline men med selvtennende lys.

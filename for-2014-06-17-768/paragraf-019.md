@@ -1,0 +1,4 @@
+# § 19. Krav til godkjenning av redningsmidler
+(1) Utstyr som tas om bord etter denne forskriftens ikrafttredelse og som er omfattet av forskrift 30. august 2016 nr. 1042 om skipsutstyr, skal være godkjent av teknisk kontrollorgan og være rattmerket.
+(2) Utstyr som er tatt om bord før denne forskriftens ikrafttredelse og som ikke er godkjent av teknisk kontrollorgan og rattmerket i henhold til forskrift 30. august 2016 nr. 1042 om skipsutstyr, skal aksepteres av Sjøfartsdirektoratet før passasjersertifikat for vernet eller fredet skip utstedes.
+(3) Sjøfartsdirektoratet kan kreve en praktisk test av redningsarrangementet. Dersom testen viser at redningsarrangementet ikke fungerer etter sin hensikt, eller kan sette de ombordværendes liv og helse i fare, kan Sjøfartsdirektoratet forlange utstyret skiftet, arrangementet forandret eller at passasjerantallet reduseres.

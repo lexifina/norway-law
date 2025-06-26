@@ -1,0 +1,2 @@
+# § 44. Overgangsbestemmelser
+Skip som er innvilget fravik fra gjeldende krav som følge av at skipet er vernet eller fredet av Riksantikvaren og som har gyldig passasjersertifikat på den dag denne forskriften trer i kraft, kan fortsette å seile med de begrensninger som følger av sertifikatet inntil det utløper. Når sertifikatet utløper, eller dersom det gjøres forandringer i forhold som ligger til grunn for sertifikatet, for eksempel ved ombygging, endring i utstyr, endring av passasjerantall eller endring av fartsområde, gjelder reglene i forskriften her.

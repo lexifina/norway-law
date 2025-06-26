@@ -1,0 +1,5 @@
+# § 22. Utstyr til bruk ved situasjoner med menneske over bord
+(1) Skip med største lengde under 24 meter skal være utstyrt med innretninger som gjør det mulig å plukke opp en hjelpeløs person fra vannet. Innretningene skal ikke betjenes i nærhet av propell.
+(2) Skip med største lengde 24 meter eller mer og som skal operere i områder der signifikant bølgehøyde ikke overstiger 1,5 m, skal føre egnet motorisert lettbåt som kan settes ut fra stuet posisjon og bordes på maksimalt fem minutter. Lettbåten skal være utstyrt innretninger som gjør det mulig å plukke opp en hjelpeløs person fra vannet.
+(3) Skip med største lengde 24 m eller mer og som skal operere i i områder der signifikant bølgehøyde overstiger 1,5 m, skal føre rattmerket MOB-båt som betjenes av eget utsettingsarrangement som kan sørge for både utsetting og ombordtaking.
+(4) MOB-båten skal være utstyrt innretninger som gjør det mulig å plukke opp en hjelpeløs person fra vannet, og kan regnes med i kapasiteten av redningsfarkoster.
