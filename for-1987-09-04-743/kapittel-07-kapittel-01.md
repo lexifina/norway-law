@@ -1,0 +1,11 @@
+# Utdrag kap. II-2, regel 5:
+1.2. De nødvendige rør for å lede brannslokningsmiddel inn i et rom som skal beskyttes, skal være forsynt med kontrollventiler og merket slik at de klart viser rommene som rørene føres til. Det skal anbringes passende anordninger for å hindre utilsiktet påslipning av brannslokningsmiddel til noe rom. Når lasterom som er utstyrt med slikt arrangement for brannbeskyttelse brukes som passasjerrom, skal gassforbindelsen blindes i den tid slikt bruk pågår.
+1.3. Rør for distribusjon av brannslokningsmiddel skal arrangeres og dyser skal plasseres slik at jevn spredning av midlet oppnås.
+1.4. Det skal være muligheter for å stenge åpninger som kan slippe luft inn og slippe gass ut fra det beskyttede rom.
+1.5. Administrasjonen skal påby at det skal sørges for et ekstra kvantum slokningsmiddel når volumet av fri luft i luftbeholderene i et rom er slik at hvis luften frigis i rommet under en brann ville dette vesentlig redusere effektiviteten av det fast installerte brannslokningssystemet.
+1.6. Det skal anordnes midler som automatisk gir et hørbart varsel om frigjøring av slokningsgass i alle rom hvor mennesker arbeider eller som de har atkomst til. Alarmen skal være i virksomhet i en passende tid før gassen blir utløst.
+1.7. Betjeningsanordningene for et slikt fastmontert gass-slokningssystem skal være lett tilgjengelige og enkle i bruk. De skal samles i grupper på så få steder som mulig, og ha en plassering som ikke er utsatt for å bli utilgjengelig ved brann i rommet som blir beskyttet. På hvert slikt sted skal det være klar instruksjon om bruken av anlegget idet det er tatt hensyn til sikkerheten for personell.
+1.9. Dersom en viss mengde slokningsmiddel skal beskytte mer enn ett rom, behøver denne mengde slokningsmiddel ikke å være større enn den største mengde som kreves for å beskytte et enkelt av disse rommene.
+2.2. Slokkingsanlegget bør normalt være arrangert kun for manuell utløsning.
+2.3. Ventilasjonsvifter for maskinrom forutsettes stoppet og utløsningsalarmen for slokningsanlegget aktivert automatisk når utløsning igangsettes. Alarmen må ha en kraftig lyd og være lett kjennelig fra en annen alarm.
+2.4. Mengden av slukkemiddel forutsettes å være som angitt i SOLAS 1974 Konvensjonen kapittel II-2, regel 5, pkt. 2.2, 2.3, 2.4 for CO2 anlegg og regel 5 pkt. 3.2.10 for Halonanlegg.
