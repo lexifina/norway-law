@@ -1,0 +1,5 @@
+# § 3. Plikter som følger av denne forskrift
+(1) Rederiet, arbeidsgiveren, skipsføreren og andre som har sitt arbeid om bord skal utføre sine plikter i henhold til skipssikkerhetsloven og med de utfyllende bestemmelser som følger av forskriften her.
+(2) Når fartøyet leveres fra norsk byggeverksted med gassfyrt anlegg installert om bord, skal verkstedet sørge for at gyldig installasjonsbevis er utstedt. Innføres fartøyet fra utlandet for videresalg, skal importøren sørge for at gyldig installasjonsbevis utstedes. Forhandler av fartøy skal, dersom gassfyrt anlegg er installert om bord, påse at gyldig installasjonbevis er utstedt.
+(3) Ansvarlig firma skal påse at installatør har de kvalifikasjoner som er nevnt i § 2 bokstav j. Installatør av gassfyrt skal sørge for at utførelse av installasjonene og øvrige forhold, som ligger til grunn for utstedelsen av installasjonsbeviset, er i henhold til forskriftens krav.
+(4) Sjøfartsdirektoratet kan frata installatør og ansvarlig firma retten til å foreta installasjon m.v. som omhandlet i denne forskrift.
