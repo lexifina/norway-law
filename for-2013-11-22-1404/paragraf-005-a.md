@@ -1,0 +1,5 @@
+# § 5a. Trål-, snurpe-, kraftblokk- og snurrevadarrangement
+(1) Arrangement med tilhørende komponenter og utstyr skal være arrangert og dimensjonert slik god erfaring tilsier, og under rettledning av en person som er kyndig på og har erfaring med den aktuelle redskapstypen.
+(2) Fra 1. januar 2023 skal godkjent foretak kontrollere at blokker, sjakler og annet løst utstyr er dimensjonert i samsvar med forskrift om laste- og losseinnretninger på skip. Kravet gjelder i forbindelse med førstegangskontroll av fartøy og deretter hvert 5. år for fiskefartøy med største lengde 9 meter eller mer.
+(3) På arrangement installert etter 1. januar 2023 skal trålvinsjer være anordnet slik at ønsket trekkraft kan justeres, og trålvaier skal slakke ut dersom den innstilte trekkraften overskrides. Trålvaier skal ikke kunne låses under tråling.
+(4) På arrangement installert etter 1. januar 2023 skal hydraulisk manøvrerbart opphengningsarrangement for kraftblokk være slik anordnet at svikt i oljetilførsel, slangebrudd e.l. ikke forårsaker at arrangementet faller ned på en ukontrollert måte.

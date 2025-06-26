@@ -1,0 +1,19 @@
+# § 28. Stabilitet for lukkede fartøyer
+(1) Fartøy skal være konstruert og bygget slik at kravene i dette kapittel vil bli oppfylt under de driftsforhold nevnt i andre til sjette ledd.
+(2) For lukkede fartøy, jf. Nordisk Båt Standard (1990) Y2, skal det utarbeides GZ-kurver (kurver som viser den rettende arm) korrigert for trim og for fri overflatevirkning i brennolje-, ferskvannstanker og eventuelle andre tanker med lastetilstander som tilsvarer
+a) avgang til fiskefeltet med 100 prosent brennolje, ferskvann, forråd, fiskeredskap og full utrustning for øvrig
+b) ankomst havn uten fangst med 10 prosent brennolje, ferskvann, forråd og full utrustning, og
+c) største tillatte driftsdypgående, som viser avgang fra fiskefeltet med fulle lasterom, minimum 50 prosent brennolje, ferskvann, forråd og full utrustning. Det skal ikke benyttes høyere egenvekt for last enn for sjøvann. Fangst på dekk, hvis driftsmåten tilsier det, skal tas med. Eventuelle vannballasttanker skal være tomme
+d) ankomst havn med fulle lasterom og maksimalt ti prosent brennolje, ferskvann, forråd og full utrustning og med samme mengde last som i bokstav c). Fangst på dekk, hvis driftsmåten tilsier det, skal tas med. Eventuelle vannballasttanker skal være tomme
+e) lastetilstander som representerer de stabilitetsmessig ugunstigste trinn ved fylling/lensing av lasterommene og eventuelle vannballasttanker.
+(3) Hvis driftsmåten tilsier det, skal lastetilstander på feltet med maksimal mengde fangst på dekk, lasterommet tomt og med 10-50 prosent brennolje, ferskvann, forråd, samt full utrustning utarbeides. Kondisjonen skal vises med den minste aktuelle mengde brennolje, ferskvann og forråd.
+(4) Dersom fartøyet opererer i lastetilstander som er ugunstigere enn tilstander som nevnt i andre og tredje ledd skal beregninger også utarbeides for slike lastetilstander.
+(5) For tilstander som nevnt i første til tredje ledd, skal beregningene også ta hensyn til følgende:
+a) vekt av sjøvann i fiskeredskaper på dekk,
+b) vekt av overising,
+c) i fullastkondisjoner skal lasten være homogent fordelt i alle lasterom, lukekarmer og eventuelle trunker. Med homogent fordelt last menes at volumetrisk tyngdepunkt, og samme tetthet, skal benyttes for last i alle rom som er tilgjengelig for føring av denne,
+d) fullastkondisjoner med egenvekt for lasten som for sjøvann skal vises med effekt av fri overflate dersom lastens egenvekt i homogentilstandene (for fartøy som skal føre flytende last, dvs. fisk i bulk eller fisk i is/vann) blir mindre enn for sjøvann,
+e) tillegg for fri overflateeffekt av væsker i tanker og av last som kan medføre fri overflateeffekt,
+f) ballast skal være slik plassert og sikret at den ikke kan forskyve seg. Permanent ballast skal ikke fjernes eller flyttes fra fartøyet. Flytende ballast kan aksepteres som permanent ballast, forutsatt at den er lagret i helt fulle tanker og disse tankene ikke er tilknyttet fartøyets pumpesystemer. Når flytende ballast benyttes som permanent ballast skal det tas inn detaljerte opplysninger om dette i fartøyinstruks og stabilitetsdokumentasjon,
+g) vannballasttanker skal i utgangspunktet holdes helt fulle eller helt tomme. Vannballast (sjøvann) kan regnes med i ballasttilstander, hvis dette benyttes enten i tanker som er spesielt beregnet for dette formål, eller i andre tanker som også er konstruert for å føre vannballast, og som er tilknyttet fartøyets pumpesystem. Hvis vannballastmengden er forskjellig i avgangs- og ankomsttilstand, skal det beregnes mellomtilstander som viser når etterfylling og lensing av vannballast må finne sted. Beregningene skal eventuelt vise stabilitetssituasjonen umiddelbart før etterfylling eller etter lensing av vannballast,
+h) is, emballasje, salt etc. skal bare regnes med hvis det har negativ effekt på stabiliteten.

@@ -1,0 +1,4 @@
+# § 55. Kontroll av gassfare mv.
+(1) Ingen må gå inn i tank, lasterom, trange innesluttede rom, tunneler eller andre rom der det er mulighet for at det kan være gass eller for lite oksygen, uten godkjent eller akseptert åndedrettsbeskyttelse, eller før en har forvisset seg om at lufta der inne er ufarlig gjennom en nødvendig kontroll. Målinger skal foretas i forskjellig høydenivå og om nødvendig gjentatte ganger.
+(2) Før det blir satt i gang arbeid i rom som nevnt i første ledd, skal det foretas omhyggelig utlufting. I større rom skal det være kontinuerlig mekanisk ventilasjon så lenge arbeid pågår.
+(3) Så lenge det pågår inspeksjon/arbeid i tanker/rom, skal oksygeninnholdet og eventuelt gasskonsentrasjonen måles med korte tidsintervaller. Arbeidet/inspeksjonen skal overvåkes av to personer, hvorav den ene har lett tilgang til trykkluftapparat og er trent i bruken av dette.

@@ -1,0 +1,6 @@
+# § 75. Kompass
+(1) Alle fartøy skal ha et magnetkompass som må være oppstilt slik at det er mulig å bruke nødvendige korrigeringsmidler. Korrigeringsmidler/arrangement skal så vidt mulig kunne bringe deviasjonen innenfor området fra +5° til –5°. For fartøy bygget etter 1. juli 1997 skal kompasset oppfylle ISO 613:1982 (ES) magnetkompass kl. B. Alternativt kan standard magnetkompass benyttes, såfremt det er anbrakt i natthus med full høyde plassert så nær langskipets senterlinje i styrehuset som praktisk mulig. Magnetkompasset skal være utstyrt med et avlesningsarrangement slik at kompasskursen tydelig kan leses fra hovedstyreplass.
+(2) Oppstillingen av kompassanlegget skal gis prioritet fremfor oppstillingen av øvrig utstyr i styrehuset. Plassering må være slik at kursen kan avleses tydelig fra rorgjengerens og navigatørens plass.
+(3) Magnetkompass skal bli korrigert for å fastslå deviasjonen når det er foretatt ombygginger eller forandringer som har innvirkning på de magnetiske forhold på kompassplassen. Deviasjonstabell skal være tilgjengelig til enhver tid.
+(4) Kompasset skal ha lysarrangement med innebygget dimmer som kan bli regulert fra hovedstyreplassen.
+(5) Dersom flere kompass blir benyttet i samme kompassanlegg, må ingen av disse ha større forskjell i magnetisk moment enn 15 prosent av det kompasset som har størst moment.

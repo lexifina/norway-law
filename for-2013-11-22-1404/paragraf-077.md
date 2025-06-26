@@ -1,0 +1,4 @@
+# § 77. Brovaktalarm
+(1) Fartøy med største lengde 10,67 til 15 meter som er utstyrt med selvstyreranlegg/styrehjelp skal være utstyrt med en brovaktalarm dersom det har fartøysinstruks for større fartsområde enn fjordfiske.
+(2) Brovaktalarmen skal enten være permanent aktivert, eller aktivert når fartøyets selvstyreanlegg er i bruk, eller innrettet slik at den senest blir aktivert når fartøyet kommer opp i marsjfart. Brovaktalarmen skal utløse et akustisk signal med tidsintervall som ikke overstiger fem minutter dersom ikke ansvarshavende for brovaktholdet kvitterer for sin tilstedeværelse i styrehuset. Det skal være mulig å stille inn kortere tidsintervall enn 5 minutt.
+(3) Brovaktalarmen skal tilfredsstille funksjonskravene spesifisert i vedlegg 8. Alternativt kan brovaktalarm som tilfredsstiller IMO Res. MSC. 128(75) brukes.

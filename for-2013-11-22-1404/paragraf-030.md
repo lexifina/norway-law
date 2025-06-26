@@ -1,0 +1,2 @@
+# § 30. Baughøyde
+Fartøy bygget etter 1. januar 1992 skal ha en baughøyde på minst 43 x Loa + 310 [millimeter] målt vertikalt ved forstevnen fra lastet vannlinje til utsatt dekk. Alternativt kan baughøydekrav i Nordisk Båt Standard (1990) legges til grunn. Hvor baughøyden oppnås ved at det er anbrakt overbygning skal denne være lukket og strekke seg fra forstevnen til et punkt minst 0,10 · LOA aktenfor forreste del av skroget. Krav til baughøyde skal være tilfredsstilt for 0-trim og for lastekondisjoner med forlig trim.
