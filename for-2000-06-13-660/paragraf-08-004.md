@@ -1,0 +1,2 @@
+# § 8-4. Opplæring i fremgangsmåte ved nødssituasjoner
+Skipsføreren og rederiet skal forsikre seg om at besetningen har gjennomgått sikkerhetsopplæring for fiskere, i henhold til forskrift av 10. februar 1989 nr. 88 om sikkerhetsopplæring for fiskere. Skipsføreren og rederiet skal også forsikre seg om at besetningen får forsvarlig opplæring om bord om de plikter som påhviler den enkelte i tilfelle en nødssituasjon, jf. § 8-3.

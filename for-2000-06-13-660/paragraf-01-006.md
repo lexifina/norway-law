@@ -1,0 +1,2 @@
+# § 1-6. Likeverdige løsninger
+Dersom denne forskrift krever at et spesielt tilbehør, materiale, en innretning eller et apparat, skal være anordnet eller finnes om bord i et fartøy, eller at en spesiell forholdsregel skal tas, kan Sjøfartsdirektoratet tillate likeverdige løsninger eller at andre spesielle forholdsregler tas. Det forutsettes at den likeverdige løsningen er utprøvd eller på annen måte påvist å være minst like effektiv som kravene i denne forskrift.

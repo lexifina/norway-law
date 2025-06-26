@@ -1,0 +1,10 @@
+# § 4-23. Spesielle krav til maskin-, kjele- og elektriske installasjoner
+(1) På fartøy med lengde (L) på 75 meter eller mer skal den elektriske hovedkraftkilden få tilførsel som følger:
+1) Når kraft normalt kan leveres av én generator, skal det være installert passende belastningsfordelende innretninger for å sikre tilstrekkelig forsyning til de tjenester som trengs til framdrift og styring. Som sikring i tilfelle tap av den generatoren som er i drift, skal det finnes tilstrekkelige innretninger for automatisk start og tilslutning til hovedtavlen av reservegenerator med tilstrekkelig kapasitet til å tillate framdrift og styring og med automatisk gjenoppstart av de viktigste hjelpesystemene, om nødvendig i rekkefølge. Midler til (manuell) fjernstart og tilslutning av reservegeneratoren til hovedtavlen, samt midler til gjentatt fjernstart av de viktigste hjelpesystemene, kan være installert til Sjøfartsdirektoratets tilfredshet.
+2) Dersom kraft normalt leveres av mer enn ett generatorsett samtidig, skal det f.eks. ved belastningsfordelende innretninger i tilfelle svikt av ett av generatorsettene sørges for at de gjenværende holdes i drift uten overbelastning slik at framdrift og styring er mulig.
+(2) Når det kreves dobbelt sett av annet hjelpemaskineri som er nødvendig for framdriften, skal slikt maskineri være utstyrt med innretninger for automatisk omkopling til reservemaskin. Det skal utløses alarm ved automatisk omkopling.
+(3) Automatisk kontroll- og alarmsystem skal være installert som følger:
+1) Kontrollsystemet skal være slik at det utstyr som trengs til drift av fremdriftsmaskineriet og dets hjelpemaskiner, sikres gjennom nødvendige automatiske innretninger.
+2) Det skal være utstyr som sørger for at nødvendig startlufttrykk eller elektrisk kraft til starteformål kan opprettholdes i tilfeller der det benyttes forbrenningsmotorer som hovedframdriftsmaskin.
+3) Det skal være montert alarmsystem i overensstemmelse med § 4-22 for alle viktige trykk, temperaturer, væskenivåer mv.
+4) Nødvendige alarmpaneler og instrumenter som viser hvilken feil alarmen gjelder, skal være samlet på et egnet og sentralt sted.

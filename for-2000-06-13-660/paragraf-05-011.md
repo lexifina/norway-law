@@ -1,0 +1,12 @@
+# § 5-11. Materialbruk, gjennomføringer mv.
+(1) Utsatte overflater i korridorer og trappeinnhegninger og overflater inklusivt deres underlag i skjulte eller utilgjengelige rom i oppholdsrom, arbeidsrom og kontrollstasjoner, skal ha lav flammespredningsevne. Utsatte overflater av himlinger i oppholdsrom, arbeidsrom og kontrollstasjoner skal ha lav flammespredningsevne.
+(2) Maling, lakk og annen overflatebehandling brukt på utsatte, innvendige overflater skal være godkjent, ha lav flammespredning og ikke utvikle for store mengder røyk, giftig gass eller damp, samt tilfredsstille kravene som nærmere angitt i vedlegg 2.
+(3) Dekksbelegg i oppholdsrom, arbeidsrom og kontrollstasjoner skal være av godkjent materiale som ikke har lett for å antenne eller forårsake forgiftnings- eller eksplosjonsfare ved høye temperaturer. Dekksbelegg skal være i henhold til kravene som nærmere angitt i vedlegg 2.
+(4) Når det i skiller av klasse A eller B er laget gjennomføring for elektriske kabler, rør, sjakter, kanaler mv. eller for ventilasjonsterminaler, lysarmaturer og lignende innretninger, skal det sørges for at skillenes brannintegritet ikke reduseres. Gjennomføringen skal være i henhold til kravene som nærmere angitt i vedlegg 2.
+(5) I oppholdsrom, arbeidsrom og kontrollstasjoner skal rør som er ført gjennom skiller av klasse A eller B, være av godkjente materialer mht. den temperatur slike skiller forlanges å kunne motstå. Dersom olje og brennbare væsker føres i rør gjennom oppholdsrom og arbeidsrom, skal rørene som fører olje eller brennbare væsker, være av godkjent materiale med hensyn til brannfare.
+(6) Materialer som lett gjøres ubrukbare av varme, skal ikke brukes til overbordsspygatt, sanitæravløp og andre avløp nær vannlinjen og der svikt i materialet ved brann ville føre til fare for innstrømning av vann.
+(7) Cellulosenitrat-basert film skal ikke benyttes om bord.
+(8) Alle avfallsbeholdere unntatt slike som benyttes til fiskeforedling, skal være framstilt av ubrennbare materialer og skal ikke ha åpninger i sider eller bunn.
+(9) Motorer som driver pumper for brennolje o.l. skal være utstyrt med fjernkontroll plassert utenfor det aktuelle rommet slik at de kan stoppes i tilfelle det oppstår brann i rommet der de er plassert.
+(10) Spillbrett skal være montert der det er nødvendig for å hindre lekkasje av olje.
+(11) I rom som benyttes til lagring av fisk, skal brennbar isolasjon være beskyttet med tettsluttende kledning.

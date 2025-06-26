@@ -1,0 +1,4 @@
+# § 1-1. Virkeområde
+(1) Denne forskriften gjelder for nye norske fiskefartøy med største lengde på 15 meter eller mer og for eksisterende norske fartøy med største lengde på 15 meter eller mer der det fremgår av det enkelte kapittel.
+(2) Eksisterende fartøy som er gjenstand for reparasjoner, forandringer, ombygninger og utrustning i forbindelse med dette, skal fortsatt minst oppfylle de forskrifter som gjaldt på den tid fartøyet ble bygget. Disse bestemmelser behøver likevel ikke håndheves strengere enn hva som er uttrykt i denne forskrift så fremt sikkerhetsmessige normer blir ivaretatt.
+(3) Når et eksisterende fartøy er gjenstand for reparasjoner, forandringer og ombygninger av større omfang samt utrustning i forbindelse med dette, skal fartøyet bare oppfylle kravene til nye fartøy i den grad Sjøfartsdirektoratet finner dette rimelig og praktisk mulig.

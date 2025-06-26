@@ -1,0 +1,12 @@
+# § 2-14. Lenseporter
+(1) Hvor skansekledninger på åpne deler av arbeidsdekket danner brønner, skal lenseportarealet (A) i kvadratmeter på hver side av fartøyet for hver brønn på arbeidsdekket bestemmes ut fra følgende:
+1) For fartøy med lengde (L) på 24 meter eller mer skal arealet i m2 minst være: A = 0,07 x l (l behøver ikke settes til mer enn 0,7 L). l = brønnlengde
+a) Hvor gjennomsnittshøyden på skansekledningen er mer enn 1200 millimeter, skal det forlangte areal økes med 0,004 m2 per meter brønnlengde for hver 100 millimeter høydeforskjell.
+b) Hvor skansekledningens gjennomsnittshøyde er mindre enn 900 millimeter, kan det forlangte areal reduseres med 0,004 m2 per meter brønnlengde for hver 100 millimeter høydeforskjell.
+2) For fartøy med lengde (L) under 24 meter skal arealet i m2 minst være: A = 0,02 x V V = Volumet i m3 av brønn som dannes av skansekledning, men for notbinger og andre korte brønner med lengde (l) opptil 5 meter, kan følgende formel benyttes i stedet: A = 0,175 x l.
+(2) Lenseportarealet beregnet etter første ledd skal økes dersom Sjøfartsdirektoratet finner at fartøyets spring ikke er tilstrekkelig til å sikre at dekket raskt og effektivt lenses for vann.
+(3) Under forutsetning av Sjøfartsdirektoratets godkjennelse, skal minste lenseportareal for hver brønn på overbygningsdekket ikke være mindre enn halve arealet (A) angitt i første ledd.
+(4) Lenseportene skal være slik plassert langs skansekledningens lengde at dekket meget raskt og effektivt lenses for vann. Lenseportenes underkant skal være så nær dekket som praktisk mulig.
+(5) Bingebord og innretninger for oppbevaring av fiskeredskap skal være anordnet slik at lenseportenes effektivitet ikke reduseres. Bingebord skal være slik konstruert at de kan låses i stilling når de er i bruk og skal ikke hindre avløp av overvann på dekk.
+(6) Lenseporter på mer enn 300 millimeter høyde skal være utstyrt med stenger plassert med innbyrdes avstand på ikke mer enn 230 millimeter eller mindre enn 150 millimeter, eller utstyrt med andre passende beskyttelsesinnretninger. Dersom det er anbrakt lemmer i lenseporter, skal de være av godkjent konstruksjon.
+(7) På fartøy beregnet på fart i farvann der ising kan forekomme, skal lemmer og beskyttelsesinnretninger for lenseportene lett kunne fjernes for å begrense isdannelse. Størrelsen på åpninger og innretninger anbrakt for fjerning av disse beskyttelsesinnretningene skal være til Sjøfartsdirektoratets tilfredshet.

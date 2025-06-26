@@ -1,0 +1,6 @@
+# § 2-20. Trål-, snurpe-/kraftblokk- og snurrevadarrangement
+(1) Arrangement med tilhørende komponenter og utstyr skal være arrangert og dimensjonert slik god erfaring tilsier og under rettledning av person som er kyndig på og har erfaring med den aktuelle redskapstypen.
+(2) Vedrørende sertifisering, merking, kontroll og egenkontroll mv. av løst utstyr som blokker, sjakler, kjetting, ståltau mv., vises det til forskrift om laste- og losseinnretninger på skip. Førstegangskontroll av slikt utstyr skal utføres av sakkyndig person type A og 5-årlig inngående undersøkelser av sakkyndig person type A eller B. Førstegangskontroll, 5-åringe kontroller og egenkontroller skal føres inn i kontrollboken.
+(3) Vinsjer og innhivingsmaskineri for trål skal være anordnet slik at ønsket trekkraft kan innstilles og vinsj slakker ut dersom den innstilte trekkraft overskrides.
+(4) Hekktråler skal være anordnet med en port eller stengsel av minst én meters høyde foran trålslippen. Porten eller stengselet skal lett kunne åpnes og lukkes og bør kunne fjernbetjenes (Rdir. 1993/103/EØF).
+(5) Hydraulisk manøvrerbart opphengningsarrangement for kraftblokk skal være slik anordnet at svikt i oljetilførsel, slangebrudd, e.l. ikke forårsaker at arrangementet faller ned på en ukontrollert måte.

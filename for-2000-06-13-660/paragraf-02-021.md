@@ -1,0 +1,2 @@
+# § 2-21. Personheis og kombinert vare- og personheis
+Bygging, installasjon og drift av personheis og kombinert vare- og personheis skal være i samsvar med regler fra et anerkjent klassifikasjonsselskap, men minst tilsvare kravene som nærmere angitt i vedlegg 2. Kontroll og utstedelse av dokumentasjon skal foretas av kvalifisert person i henhold til § 6-7 fjerde ledd. Rene vareheiser skal tilfredsstille forskrift av 17. januar 1978 nr. 4 om laste- og losseinnretninger på skip.

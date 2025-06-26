@@ -1,0 +1,6 @@
+# § 11-14. Baderom mv.
+(1) På fartøy med lengde (L) under 24 meter skal det være minst et vaske- eller baderom plassert nært soverommene. På fartøy med lengde (L) på 24 meter eller mer skal det være egne vaske- og baderom for offiserer og mannskap, og med mulighet for adskilte sanitærrom for kvinnelige og mannlige besetningsmedlemmer.
+(2) I vaskerommet, eller i særskilt rom i nærheten av dette, skal det være dusj med varmt og kaldt vann for hver fjerde person rommet er bestemt for. Er dusj plassert i vaskerom, må avløpet fra dusjen anbringes slik at vann ikke renner ut i rommet.
+(3) Garderobe eller lignende skal være utstyrt med minst én vaskeservant for hver tredje person rommet er bestemt for. På fartøy hvor det som følge av fangstforedlingsvirksomhet totalt er mer enn 30 personer om bord, skal vaskerommene utstyres med vaskeservant for hver fjerde person rommet er bestemt for.
+(4) Ved beregningen av antall vaskeservanter og dusjer etter annet og tredje ledd, skal de av besetningens medlemmer som har egen vaskeservant i soverom, ikke medtas.
+(5) Dersom det er badstue om bord, skal døren slå utover og kunne åpnes fra begge sider. Dør og dørkarm skal skrås for ikke å sette seg fast. Badstuen skal være utstyrt med alarm tilkoplet alarmklokke i korridor utenfor lugarer/soverom og på broen.

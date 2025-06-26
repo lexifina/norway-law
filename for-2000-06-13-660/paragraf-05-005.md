@@ -1,0 +1,3 @@
+# § 5-5. Beskyttelse av trapper og heissjakter i oppholdsrom, arbeidsrom og kontrollstasjoner
+(1) Trapper som bare er ført gjennom ett dekk, skal være beskyttet på minst ett nivå med skiller av klasse B-0 og selvlukkende dører. Heiser som bare er ført gjennom ett dekk, skal være innhegnet av skiller av klasse A-0 med ståldører på begge nivåer. Trapper og heissjakter som er ført gjennom mer enn ett dekk skal være innhegnet av skiller av minst klasse A-0 og beskyttet av selvlukkende dører på alle nivåer.
+(2) Alle trapper skal være bygget på stålskjelett unntatt i tilfeller hvor Sjøfartsdirektoratet tillater bruk av annet likeverdig materiale.

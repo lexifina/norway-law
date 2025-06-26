@@ -1,0 +1,4 @@
+# § 10-7. Brovaktalarm
+(1) Fartøy som er utstyrt med selvstyreranlegg/styrehjelp, skal være utstyrt med en brovaktalarm dersom det har fartssertifikat for kystfiske eller større.
+(2) Brovaktalarmen skal enten være permanent aktivert eller aktivert når fartøyets selvstyreanlegg er i bruk, eller den skal være innrettet slik at den senest blir aktivert når fartøyet kommer opp i marsjfart. Brovaktalarmen skal utløse et akustisk signal med tidsintervall som ikke overstiger fem minutter, dersom ikke ansvarshavende for brovaktholdet kvitterer for sin tilstedeværelse i styrehuset. Det skal være mulig å stille inn kortere tidsintervall enn 5 minutter.
+(3) Brovaktalarmen skal tilfredsstille funksjonskravene spesifisert i vedlegg 3. Alternativt kan brovaktalarm som tilfredsstiller IMO Res. MSC. 128(75), brukes.

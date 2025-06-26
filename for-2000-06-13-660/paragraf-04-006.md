@@ -1,0 +1,4 @@
+# § 4-6. Dampkjeler, fødesystemer og røropplegg for damp
+(1) Alle dampkjeler og ufyrte dampgeneratorer skal være utstyrt med minst to sikkerhetsventiler med tilstrekkelig kapasitet. Imidlertid kan Sjøfartsdirektoratet, idet det tas hensyn til ytelse eller andre egenskaper ved dampkjelen eller den ufyrte dampgenerator, tillate montert bare én sikkerhetsventil dersom det er godtgjort at dette gir tilstrekkelig beskyttelse mot overtrykk.
+(2) Alle oljefyrte dampkjeler beregnet for drift uten manuelt tilsyn skal ha sikkerhetsinnretninger som stenger av brennstofftilførselen og utløse alarm i tilfelle av lav vannstand, svikt i lufttilførsel eller flammesvikt.
+(3) Dampkjeleinstallasjoner skal gis spesiell oppmerksomhet for å sikre at fødesystemer, overvåkingsinnretninger og sikkerhetstiltak under alle driftstilstander er tilstrekkelige for å sikre at kjeler, damptrykkbeholdere og damprøropplegg er trygge.

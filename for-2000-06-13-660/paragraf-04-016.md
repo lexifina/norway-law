@@ -1,0 +1,10 @@
+# § 4-16. Elektrisk hovedkraftkilde
+(1) Fartøyets elektriske hovedkraftkilde skal tilfredsstille følgende:
+1) Når elektrisk kraft er eneste middel til å opprettholde hjelpefunksjoner som er nødvendige for fartøyets framdrift og sikkerhet, skal det være installert en elektrisk hovedkraftkilde som skal bestå av minst to generatorsett, hvorav ett kan være drevet av hovedmaskinen. Sjøfartsdirektoratet kan godta andre installasjoner med tilsvarende elektrisk kapasitet.
+2) Disse settene skal ha en ytelse tilstrekkelig til å sikre at de funksjoner som det vises til i § 4-3 annet ledd nr. 1 kan opprettholdes i tilfelle ett av generatorsettene stanser, når det ses bort fra den kraft som kreves til fiske, foredling og konservering av fangsten. For fartøy med lengde (L) under 45 meter skal det imidlertid dersom et generatorsett stoppes bare være nødvendig å sikre driften av tjenester som er avgjørende for fartøyenes framdrift og sikkerhet.
+3) Fartøyets elektriske hovedkraftkilde skal være slik innrettet at de funksjoner som det vises til i § 4-3 annet ledd nr. 1, kan opprettholdes uansett hovedmaskinens eller akselledningens omdreiningstall og dreieretning.
+4) Hvis transformatorer utgjør en viktig del av det forsyningssystem som kreves i dette ledd, skal systemet være slik innrettet at det sikrer kontinuerlig forsyning.
+(2) Hoved- og nødbelysningssystem skal være i henhold til følgende:
+1) Hovedbelysningssystemet skal være slik innrettet at brann eller annen skade som inntreffer i det eller de rom som inneholder den elektriske hovedkraftkilde, herunder eventuelle transformatorer, ikke setter nødbelysningen ut av funksjon.
+2) Nødbelysningssystemet skal være slik innrettet at brann eller annen skade som inntreffer i det eller de rom som inneholder den elektriske nødkraftkilde, herunder eventuelle transformatorer, ikke setter hovedbelysningssystemet ut av funksjon.
+(3) Navigasjonslys skal, dersom de utelukkende er elektriske, forsynes gjennom en egen brytertavle, og det skal finnes adekvate midler for overvåking av slike lys.

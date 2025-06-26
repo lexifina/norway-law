@@ -1,0 +1,8 @@
+# § 1-3. Fritak
+(1) Sjøfartsdirektoratet kan frita ethvert fartøy med nye egenskaper fra kravene i kapitlene 2, 3, 4, 5, 6, 7 og 11, dersom anvendelse av slike krav kan være til alvorlig hinder for forskningen for å utvikle disse egenskaper og innarbeide dem i fartøy. Ethvert fartøy som har fått fritak skal likevel tilfredsstille de sikkerhetskrav Sjøfartsdirektoratet finner nødvendige for den fart det er beregnet på og som er slik at de ivaretar fartøyets sikkerhet.
+(2) Sjøfartsdirektoratet kan frita ethvert fartøy med lengde (L) på 24 meter eller mer som utelukkende driver fiske nær kysten fra bestemmelser i denne forskrift dersom det anses urimelig eller ikke mulig i praksis ut fra avstanden fra fartøyets operasjonsfelt til dets base ved kysten, fartøytype, værforholdene og fravær av risiko for generelle navigasjonsfarer. Et slikt fritak forutsetter at fartøyet oppfyller sikkerhetskrav som etter Sjøfartsdirektoratets mening er nødvendige for den fart det er beregnet på og som er slik at fartøyets sikkerhet ivaretas.
+(3) Sjøfartsdirektoratet kan unnta et skip fra et eller flere av kravene i kapittel 11 dersom det rederiet søker skriftlig om unntak og følgende krav er oppfylt:
+a) Det foreligger spesielle grunner som gjør fritaket nødvendig, og det er sikkerhetsmessig forsvarlig.
+b) Det foreligger kompenserende tiltak dersom Sjøfartsdirektoratet krever dette.
+(4) I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad frita fartøy med lengde (L) under 24 meter fra kravene i denne forskrift når dette er sikkerhetsmessig forsvarlig.
+(5) Vedtak etter denne bestemmelsen skal ikke stride mot internasjonal avtale som Norge er tilsluttet, og fattes i samsvar med internasjonale krav til prosedyrer.

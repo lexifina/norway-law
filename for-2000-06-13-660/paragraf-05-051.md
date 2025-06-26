@@ -1,0 +1,6 @@
+# § 5-51. Automatisk brannoppdagelses- og brannalarmanlegg
+1. Uavhengig av om maskinrommet er bemannet eller periodevis ubemannet skal det i maskinrom av kategori A installeres et automatisk brannoppdagelses- og brannalarmanlegg. Det skal installeres et tilstrekkelig antall branndetektorer i forhold til rommets størrelse, dog minst én røykdetektor og én varmedetektor.
+2. Fartøy som utføres i en brennbar konstruksjon eller hvor det benyttes store mengder brennbart materiale til innredning av oppholds-, arbeids- og kontrollrom, skal ha installert et automatisk branndeteksjonsanlegg i slike rom. Ved installasjonen skal det tas hensyn til rommenes størrelse, utforming og beliggenhet i forhold til kontrollrom, samt hvor det er relevant, møblenes flammespredende egenskaper.
+3. Dersom det i maskinrom installeres fem eller flere detektorer eller det i innredning installeres flere enn ti detektorer, forutsettes detektorene å bli fordelt med én sløyfe for maskinrom og én sløyfe for innredning.
+4. Det skal installeres akustiske alarmorgan i nødvendig antall og minst ett for hvert dekk slik at alarm kan høres over hele fartøyet.
+5. I tilfeller hvor høyt støynivå om bord tilsier at bruk av hørselsvern vanskeliggjør oppfattelse av akustisk brannalarm, skal det installeres visuell brannalarm.
