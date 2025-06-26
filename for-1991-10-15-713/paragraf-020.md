@@ -1,0 +1,7 @@
+# § 20. Baderom m.v.
+1) På fartøy under 24 m skal det være minst et vaske-/baderom. På fartøy på 24 m og derover skal det være egne vaske- og baderom for offiserer og mannskap, og kvinnelige og mannlige besetningsmedlemmer bør ha atskilte sanitærrom.
+2) I vaskerommet, eller i særskilt rom i nærheten av dette, skal det være dusj eller badekar med varmt og kaldt drikkevann for hver 4. person rommet er bestemt for. Er dusj eller badekar plassert i vaskerom, må avløpet fra dusjen anbringes slik at vann ikke renner ut i rommet. I rom bestemt for mer enn 1 person må dusj/badekar være avskjermet.
+3) Vaske- og baderom skal ha tilførsel av varmt og kaldt drikkevann. Vaskerom skal være utstyrt med minst en vaskeservant for hver 3. person det er bestemt for. På fartøy hvor det som følge av spesiell virksomhet er mer enn 30 personer om bord, skal vaskerommene utstyres med vaskeservant for hver 4. person rommet er bestemt for.
+4) Vaskeservanter og badekar skal ha glatte innvendige sider som er lette å holde rene og forsynt med hensiktsmessig avløp.
+5) Ved beregningen av antall vaskeservanter og dusjer etter nr. 2 og 3 skal de av besetningens medlemmer som har egen vaskeservant i soverom, ikke medtas.
+6) Dersom det er badstue om bord, skal døren slå utover, og kunne åpnes fra begge sider. Dør og dørkarm skal skrås for ikke å sette seg fast. Badstuen skal være utstyrt med alarm tilkoplet alarmklokke i korridor utenfor lugarer/soverom og på broen.
