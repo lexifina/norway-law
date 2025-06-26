@@ -1,0 +1,5 @@
+# § 19. Belysning
+1. Steder hvor personer om bord ferdes på vei til, fra eller under sitt arbeid, skal være hensiktsmessig belyst.
+2. I trapperom skal belysningen være minst 100 lux. Lyskildene skal arrangeres slik at skygger i trappetrinnene unngås. I vestibyler og korridorer skal den alminnelige belysning være minst 100 lux. Hvor man må passere under manøvrering eller navigering av innretningen, skal belysningen være minst 10 lux. I instrumentpaneler i styrehus m.v. må lysene kunne reguleres med reostat eller skjermes. Hvor det arbeides under lasting eller lossing skal belysningen være minst 100 lux. Dette gjelder så vel rom, oppganger fra rommene samt dekk.
+3. I maskinrom hvor folk ferdes og arbeider skal belysningen være minst 200 lux. Måle og kontrollapparater skal ha en belysning på minst 300 lux.
+4. Til belysning av tanker for olje og andre ildsfarlige væsker, samt rom hvor det føres spesielt ildsfarlig last eller av rom og tanker som ikke er gassfri, skal lampene som benyttes være sertifisert for bruk i eksplosjonsfarlige områder sone 1.

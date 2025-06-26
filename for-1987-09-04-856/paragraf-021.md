@@ -1,0 +1,15 @@
+# § 21. Spesialcontainere
+1. Spesialcontainere (se § 1) som tas om bord skal minst oppfylle følgende krav:
+1.1. De skal være bygget av stål eller annnet likeverdig materiale m.h.t. styrke og brannmotstand. Containere med løftearrangement skal være styrkemessig beregnet for belastninger som kan oppstå ved håndtering offshore. De dynamiske tilleggsbelastninger kan alternativt tas hensyn til ved å benytte standard containere med tilsvarende redusert arbeidsbelastning (redusert lasteutnyttelse).
+1.2. All kledning, isolasjon og eventuell innredning skal være laget av ubrennbare materialer. Overflatematerialer skal ha lav flammespredning.
+1.3. De skal være utstyrt med alarm, egnet automatisk brannoppdagelsessystem samt to-veis kommunikasjonssystem, alle beregnet for tilkobling til innretningens tilsvarende modersystemer – eller på annen måte være utstyrt med tilfredsstillende arrangementer for deteksjon/varsling/kommunikasjon tilpasset hvert enkelt tilfelle.
+1.4. De skal være utstyrt med minst 1 stk. egnet brannslokningsapparat, plassert ved utgangen.
+1.5. Fast slokkesystem skal være montert i containere hvor det for tilsvarende rom om bord ville vært krevd slikt utstyr etter gjeldende forskrift om sikringstiltak mot brann og eksplosjon på flyttbare innretninger. Utløsning av anlegget skal som et minstekrav kunne utføres manuelt fra utsiden av containeren. Vanlige sikkerhetstiltak for vern mot utilsiktet utløsning m.m., må være ivaretatt.
+1.6. Containere hvor personer normalt vil oppholde seg og hvor det ikke kreves fast slokkeanlegg kan utstyres med vindu.
+1.7. Minst 1 stk. batterinødlys skal være montert.
+1.8. Alt elektrisk utstyr skal være sertifisert for bruk i eksplosjonsfarlige områder sone 2. Er unntak fra dette gjort for containere som er plassert i sikkert område, må elektrisk forsyning være koplet til innretningens nødavstengningssystem. Containere som ikke er utstyrt for plassering i sone 2-område, skal være klart merket med at de kun kan plasseres i sikkert område. Dersom containeren inneholder tennkilder, skal den være utstyrt for og merket med at den må tilknyttes innretningens nødavstengningssystem, jfr. krav om nødavstengning m.v. i den til enhver tid gjeldende forskrift om sikringstiltak mot brann og eksplosjon på flyttbare innretninger.
+1.9. For alt utstyr, på og i containere gjelder samme krav til sikkerhet, kontroll og dokumentasjon som for tilsvarende utstyr på innretningen hvor containeren er plassert.
+1.10. Plassering av containere må vurderes og finnes forsvarlig i hvert enkelt tilfelle.
+1.11. Containere skal være forskriftsmessig festet slik at de kan tåle maksimal krengevinkel: se § 6 nr. 7.1 ovenfor.
+1.12. Containere med lengde over 6.5 m, skal ha minst 2 utganger hvorav den ene kan være en nødutgang. Hovedutgangen skal vende mot antatt sikreste rømningsvei, forholdene tatt i betraktning.
+1.13. For containere hvor personer normalt ikke oppholder seg, gjelder bestemmelsene nevnt ovenfor under nr. 1.1, 1.2, 1.3. (hva angår automatisk brannoppdagelsessystem), 1.5, 1.8, 1.9, 1.10 og 1.11.
