@@ -1,0 +1,17 @@
+# Vedlegg III. Retningslinjer om installasjon og godkjennelse av installasjon av fast installerte brannoppdagelses- og brannalarmanlegg og røkvarslingsanlegg på fiske- og fangstfartøy
+1. Generelt.
+1.1. I medhold av § 8 nr. 2 i forskrift av 4.9.1987 om sikringstiltak mot brann på fiske- og fangstfartøy, skal fiske- og fangstfartøy være utstyrt med fast installerte brannoppdagelses- og brannalarmanlegg som angitt i forskriftene.
+1.2. Fremgangsmåten for typegodkjennelse av slike anlegg vil fremgå av Bestemmelser for godkjennelse av fast installerte brannoppdagelses- og brannalarmanlegg på fiske- og fangstfartøy.
+1.3. Nedenstående retningslinjer angir en norm for hvordan installasjonen av slike anlegg bør utføres. Andre løsninger som gir en tilsvarende standard, kan godtas.
+2. Retningslinjer for installasjon.
+2.1. Fiske- og fangstfartøy på 45 m. og derover, forutsettes å tilfredsstille Sjøsikkerhetskonvensjonens krav til installasjon. Rettledning for valg og plassering av detektorer i maskinrom samt retningslinjer for godkjennelse av installasjonen er inntatt i vedlagte bilag 1 og 2.
+2.2. På fiske- og fangstfartøy under 45 m. kan installasjonen utføres på følgende måte:
+2.2.1. På fartøy med lengde under 15 m kan det i motorrommet installeres 1 stk. røkdetektor og 1 stk. varmedetektor. I fellesrom eller lugar installeres 1 stk. røkdetektor. Det installeres 1 stk. alarmorgan i styrehus og 1 stk. i innredning når hensyn tas til fartøyets størrelse.
+2.2.2. På fartøy med lengde på 15 m og derover, men under 24 m., installeres det i motorrommet et tilstrekkelig antall detektorer i forhold til motorrommets størrelse, dog minst 1 røkdetektor og 1 varmedetektor. I alle lugarer installeres røkdetektorer. Alternativt kan et tilsvarende antall røkdetektorer fordeles i fellesrom og i korridorer. Hvor detektor er plassert i fellesrom, kan det installeres varmedetektor klasse 1. Hvor detektor er plassert i bysse, bør det installeres varmedetektor klasse 2.
+Dersom det i motorrom installeres 5 eller flere detektorer og/eller det i innredning installeres flere enn 10 detektorer, forutsettes detektorene å bli fordelt på 1 sløyfe for motorrommet og 1 sløyfe for innredningen.
+Det installeres akustiske alarmorganer i nødvendig antall og minst en for hvert dekk slik at alarm kan høres over hele fartøyet.
+2.2.3. På fartøy på 24 m. og derover installeres det i motorrommet et tilstrekkelig antall detektorer i forhold til motorrommets størrelse. Rettledning for valg og plassering av detektorer i motorrommet er gitt i vedlagte bilag 1. Detektorene i motorrommet forutsettes å være tilsluttet en egen sløyfe i alarmsentralen. Det monteres en manuell melder i sløyfen.
+I alle lugarer installeres røkdetektorer. Alternativt kan et tilsvarende antall røkdetektorer fordeles i fellesrom og i korridorer. Hvor detektorer er plassert i bysse, bør det monteres varmedetektor av klasse 2. Detektorene forutsettes å være tilsluttet en egen sløyfe med manuell melder i sløyfen.
+Dersom det er nødvendig å installere flere enn 20 detektorer i innredningen for å få tilfredstillende dekning, forutsettes detektorene å bli fordelt på 2 sløyfer. Det monteres en manuell melder i hver sløyfe.
+Det installeres akustiske alarmorganer i nødvendig antall og minst en for hvert dekk slik at alarm kan høres over hele fartøyet.
+2.2.4. Detektorer og alarmorganer monteres på vantette koplingsbokser. På fartøy over 24 m. forutsettes tetthetsgrad for detektorer og manuelle meldere i maskinrom å tilsvare IP-56.

@@ -1,0 +1,3 @@
+# § 11. Propanapparater o.l.
+Propanapparater og liknende gassfyrte anlegg skal være godkjent. Trykkbeholder som inneholder antennbar gass og annen farlig gass, skal være tydelig merket med hva de inneholder og oppbevares på åpent dekk. Slike anlegg skal for øvrig installeres i samsvar med forskrift av 20. oktober 1983 nr. 1580 om sikringstiltak for gassfyrte anlegg m.m. som bruker propan eller andre lette kullvannstoffer anvendt om bord på fartøy. Godkjent veiledning på norsk for bruk av gassfyrte anlegg skal være oppslått i nærheten av disse.
+Denne bestemmelsen gjelder for fiske- og fangstfartøy uansett størrelse.
