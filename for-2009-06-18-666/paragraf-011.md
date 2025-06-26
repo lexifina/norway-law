@@ -1,0 +1,2 @@
+# § 11. Mangelfull sikkerhetsbemanning
+Dersom bemanningen ikke oppfyller kravene til fastsatt sikkerhetsbemanning kan skipet ikke gå fra havn med mindre det dreier seg om en kort reise hvor de angitte funksjoner i § 8 tredje ledd blir ivaretatt og under forutsetning av at arbeidsordningen og bestemmelser om hviletiden ikke blir berørt. I slike tilfeller skal avvik fra fastsatt bemanning innføres i skipets dagbok. Sjøfartsdirektoratet skal informeres ved utdrag av dagboken.

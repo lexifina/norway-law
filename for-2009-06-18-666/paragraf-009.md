@@ -1,0 +1,5 @@
+# § 9. Minstekrav til sikkerhetsbemanning
+(1) På skip med største lengde på 15 meter og derover eller på skip som i henhold til målebrev utstedt før 16. desember 1983 er på 25 brutto register tonn eller derover, skal den som tjenestegjør som skipsfører eller dekksoffiser ha sertifikat i henhold til skipssikkerhetsloven § 16.
+(2) På skip hvor fremdriftsmaskineriets effekt er på 750 kW eller mer, skal den som tjenestegjør som maskinoffiser ha sertifikat i henhold til skipssikkerhetsloven. Sjøfartsdirektoratet kan i det enkelte tilfelle kreve sertifikat for å gjøre tjeneste som maskinoffiser på skip med mindre fremdriftsmaskineri enn nevnt i første punktum, dersom skipets type, virksomhet, type maskineri, dets tekniske utstyr, fartsområde, operasjonsområde eller andre spesielle sikkerhetsmessige forhold gjør det nødvendig.
+(3) Maskinoffiser kreves ikke på hurtiggående passasjerskip i innenriks fart med flermotoranlegg hvor fremdriftsmaskineriets effekt er mindre enn 1.500 kW og hvor det er minst to uavhengige maskinrom.
+(4) Bestemmelsen her gjelder ikke for fiskefartøy.
