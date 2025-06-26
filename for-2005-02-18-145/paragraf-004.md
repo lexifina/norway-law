@@ -1,0 +1,3 @@
+# § 4. Beregning og utbetaling av erstatning ved yrkesskade
+Erstatningssummen kan utbetales som et engangsbeløp. Beløpets størrelse avtales i tariffavtale mellom arbeidsgiver og arbeidstakerorganisasjon i Norge eller i arbeidstakers bostedsland. Der erstatningsbeløp ikke er fastsatt i slik tariffavtale, har arbeidstakeren eller arbeidstakerens etterlatte rett til de samme ytelser som etter reglene i folketrygdlovens kap. 13 og yrkesskadeforsikringsloven.
+Arbeidstakeren kan rette krav om dekning under garantien direkte til garantisten. Erstatningssummen skal utbetales uten unødig opphold. Foreløpig utbetaling skal foretas i tilfeller hvor det er vanskelig å vurdere arbeidstakerens langvarige uførhet.

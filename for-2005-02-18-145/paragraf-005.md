@@ -1,0 +1,7 @@
+# § 5. Rederiets plikt til å stille garanti for sykepleie, lønn ved sykdom, erstatning ved yrkesskade og arbeidsuførhet og alderspensjon
+For arbeidstakere som nevnt i § 1 andre ledd plikter rederiet å stille en garanti for trygderettigheter som minst gir;
+a) arbeidstaker som er syk eller skadet, rett til sykepleie på rederiets regning under arbeidsforholdets varighet og deretter i 16 uker samt rettigheter for øvrig i samsvar med bestemmelsene i skipsarbeidsloven § 8-1.
+b) arbeidstaker som er arbeidsufør, som følge av sykdom eller skade, rett til full lønn i inntil 2 måneder samt rettigheter for øvrig i samsvar med bestemmelsene i skipsarbeidsloven § 4-4 (2).
+c) arbeidstaker som er arbeidsufør, som følge av yrkesskade, rett til en engangserstatning på inntil 18G, avhengig av uførhetsgrad og beregnet etter vanlige norske regler. Hvis den ansatte dør, skal de etterlatte ha rett til en engangserstatning på 12G samt 2G til hvert barn under 18 år, dog maksimalt 6G.
+d) arbeidstaker som er arbeidsufør, som følge av sykdom, rett til en engangserstatning på inntil 12G, avhengig av uførhetsgrad og beregnet etter vanlige norske regler. Hvis den ansatte dør, skal de etterlatte ha rett til en engangserstatning på 6G samt 2G til hvert barn under 18 år, dog maksimalt 6G.
+e) arbeidstaker med rett til særskilt fradrag for sjøfolk og med et sammenhengende ansettelsesforhold i rederiet utover 5 år, rettigheter når det gjelder uførhet og alderspensjon som etter folketrygdlovens bestemmelser.
