@@ -1,0 +1,5 @@
+# § 10. Salg av skip til utlandet, uthugging av kjenningssignal og innlevering av dokumenter
+Når et skip selges til utlandet, bareboat-utflagges etter sjøloven § 40b eller NIS-loven § 16, eller omregistreres mellom norsk ordinært skipsregister og norsk internasjonalt skipsregister, skal det hugges en strek over kjenningssignalet. IMO identifikasjonsnummer skal ikke hugges ut.
+Skal skipet overtas i norsk havn, skal rederiet innlevere skipets nasjonalitetsbevis, målebrev, sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl eller bunkeroljesøl samt øvrige norske skipspapirer og bekreftelse på at kjenningssignalet er uthugget, til Sjøfartsdirektoratet.
+Skjer overleveringen i utenlandsk havn, skal ovennevnte dokumenter innleveres til vedkommende norske utenriksstasjon.
+Internasjonale sikkerhetssertifikat for utstyr, konstruksjon og radio samt internasjonalt lastelinjesertifikat kan overlates ny eier når det er gitt en påtegning om ugyldighet på grunn av overføring til fremmed stats flagg av Sjøfartsdirektoratet, norsk utenriksstasjon eller autorisert klasseinstitusjon.

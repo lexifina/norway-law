@@ -1,0 +1,2 @@
+# § 3. Fravik
+I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike forskriftens krav. Spesielle grunner må gjøre fraviket nødvendig, og fraviket må være sikkerhetsmessig forsvarlig.

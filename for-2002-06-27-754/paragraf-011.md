@@ -1,0 +1,2 @@
+# § 11. Ikrafttredelse
+Denne forskrift trer i kraft 1. juli 2002. Fra samme tidspunkt oppheves forskrift av 27. oktober 1980 nr. 3 om skips nasjonalitetsbevis, navn, hjemsted, kjenningssignal og om skipsmatrikkelen fastsatt av Sjøfartsdirektoratet og forskrift av 26. juni 1987 nr. 554 om navn for skip i norsk internasjonalt skipsregister, fastsatt ved kgl.res., fremmet av Handels- og skipsfartsdepartementet.
