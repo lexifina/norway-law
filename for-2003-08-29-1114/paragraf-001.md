@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriftens formål er å styrke sikkerheten for bulkskip som anløper terminaler i Norge for å laste eller losse faste bulklaster, ved å redusere risikoen for uønsket store belastninger og fysisk skade på skipets konstruksjon under lasting eller lossing. Forskriften fastsetter derfor harmoniserte egnethetskriterier for disse skipene og terminalene, og harmoniserte framgangsmåter for samarbeid og kommunikasjon mellom disse skipene og terminalene.

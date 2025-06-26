@@ -1,0 +1,2 @@
+# § 6. Midlertidig tillatelse til nyetablerte terminaler
+Kystdirektoratet kan gi unntak for nyetablerte terminaler fra kravene i § 5 bokstav d, og utstede en midlertidig driftstillatelse gyldig i ikke mer enn 12 måneder. Terminalen må likevel vise at den har til hensikt å iverksette et kvalitetsstyringssystem i samsvar med standarden ISO 9001:2000 eller en tilsvarende standard som fastsatt i § 5 bokstav d.
