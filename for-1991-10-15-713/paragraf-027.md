@@ -1,0 +1,3 @@
+# § 27. Forholdsregler ved utbrudd av sykdom forårsaket av matvarer eller drikkevann
+Dersom hygieniske og/eller ernæringsmessige forhold ved proviant eller drikkevann antas å være årsak til alvorlig sykdom under reisen, skal anløp av havn vurderes. Prøver av mat/drikkevann som antas å være årsak til sykdommen, skal oppbevares i kjøleskap eller fryses i rene beholdere som er betryggende lukket.
+Skipsføreren skal sende skriftlig rapport til Sjøfartsdirektoratet og Helsedirektoratet. I rapporten skal inntas det som er anført i dekksdagboken om sykdomstilfellet og nærmere opplysning om antatt årsak til sykdommen, om de tiltak som er iverksatt for å hindre sykdommens utbredelse og for å behandle/pleie den eller de syke.
