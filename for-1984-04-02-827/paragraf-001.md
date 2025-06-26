@@ -1,0 +1,4 @@
+# § 1. Virkeområde
+(1) Denne forskrift gjelder for nye og eksisterende containere som anvendes i transport som utføres til eller fra Norge eller i transitt gjennom Norge og på norske skip i utlandet, med mindre annet fremgår av de enkelte bestemmelser.
+(2) Ved prøving, kontroll, godkjenning og vedlikehold mv. av containere etter denne forskrift gjelder de krav og prosedyrer som til enhver tid fremgår av Containerkonvensjonen. Bestemmelsene i denne forskrift gjelder ikke containere som er særskilt konstruert for lufttransport.
+(3) Containere som ikke kommer inn under denne forskrift kan komme inn under forskrift av 17. januar 1978 nr. 4 om laste- og losseinnretninger på skip (inntatt i «Regler for passasjer- og lasteskip m.v.» utstedt av Sjøfartsdirektoratet) eller forskrift av 7. mars 1974 nr. 1 om løfteinnretninger og løfteredskap (bestillingsnr. 291 utgitt og håndhevet av Direktoratet for Arbeidstilsynet).
