@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av skipsgjenvinningsforordningen i norsk rett
+EØS-avtalen vedlegg XX nr. 32c og vedlegg XIII nr. 56b (forordning (EU) nr. 1257/2013 om gjenvinning av skip og om endring av forordning (EF) 1013/2006 og direktiv 2009/16/EF) (skipsgjenvinningsforordningen) gjelder som forskrift med de endringer og tillegg som følger av vedlegg XX nr. 32fh, vedlegg XX, vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.

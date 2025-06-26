@@ -1,0 +1,3 @@
+# § 3. Sertifikater, varighet og fornyelsestilsyn
+Sertifikat for fortegnelse av farlige materialer (IHM-sertifikat) i henhold til skipsgjenvinningsforordningen artikkel 10 nr. 1, og internasjonalt sertifikat om farlige stoffer om bord (IIHM-sertifikat) i henhold til Hongkong-konvensjonens vedlegg regel 14.2, utstedes med varighet inntil fem år. Fornyelsestilsyn som nevnt i skipsgjenvinningsforordningen artikkel 8 nr. 5, og i Hongkong-konvensjonens vedlegg regel 10.1.2, skal gjennomføres hvert femte år.
+Sjøfartsdirektoratet eller et anerkjent klasseselskap utsteder sertifikater etter denne forskriften.
