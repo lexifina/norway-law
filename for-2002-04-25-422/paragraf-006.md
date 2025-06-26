@@ -1,0 +1,3 @@
+# § 6. Dokumentasjon
+(1) Tegninger av sentralanlegg skal utarbeides i god tid før installasjonsarbeidet settes i gang. Tegningene skal tydelig vise de foreslåtte installasjoner av utstyr og rørføring og være påført alle relevante opplysninger i henhold til kravene i forskriften. Tegningene og relevant dokumentasjon skal til enhver tid være tilgjengelige om bord.
+(2) Rederiet skal kunne dokumentere at forskriftens krav er oppfylt. På forespørsel skal dokumentasjon sendes Sjøfartsdirektoratet. Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse fastsettes av Sjøfartsdirektoratet.

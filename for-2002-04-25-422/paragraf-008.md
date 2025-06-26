@@ -1,0 +1,5 @@
+# § 8. Sikkerhetsinstrukser i forbindelse med varmt arbeid og bruk av sveiseutstyr
+(1) Skipet skal ha instruks for varmt arbeid og bruk av sveiseutstyr om bord. I instruksen skal det gå fram hvem som har ansvaret for kontroll og vedlikehold av sveiseutstyret, hvem som har tillatelse til å sveise og hvilke sikkerhetstiltak som skal gjennomføres ved sveising. Skipsfører skal sørge for at alle som utfører sveising om bord gjøres kjent med instruksen.
+(2) Alle som benytter sveiseutstyret skal ha gjennomgått nødvendig opplæring i bruk av dette.
+(3) Alle som benytter sveiseutstyret skal være iført nødvendig beskyttelsesutstyr. Det skal tas særlige forholdsregler ved sveising i trange rom, spesielt skal nødvendig ventilasjon iverksettes før og under sveising. Særlige forholdsregler skal også tas med hensyn til høye temperaturer eller høy fuktighet.
+(4) Ved sveising og varmt arbeid utenfor skipets verksted skal sveiseren assisteres av sveisevakt som også skal være iført nødvendig beskyttelsesutstyr.

@@ -1,0 +1,4 @@
+# § 20. Transportabelt sveiseutstyr
+(1) Transportabelt sveiseutstyr består av 1 flaske for henholdsvis oksygen og acetylen, regulatorer, tilbakeslagssikringer, slanger, brennere m.m., plassert i dertil egnet transportabel innretning. Flaskenes volum skal ikke overstige 50 liter. Det tillates kun 1 reserveflaske for henholdsvis acetylen og oksygen.
+(2) På skip med sentralanlegg skal transportabelt sveiseutstyr når det ikke er i bruk, oppbevares i stativ i gassflaskesentralen. Det totale antall acetylen- og oksygenflasker i ett rom skal ikke overstige 8, inklusive flasker som benyttes til transportabelt sveiseutstyr.
+(3) På skip som ikke er utstyrt med sentralanlegg, skal transportabelt sveiseutstyr og reserveflasker når det ikke er i bruk, oppbevares fastmontert i eget godt ventilert rom på eller over øverste gjennomgående dekk. Rommet skal være gasstett atskilt fra andre rom.

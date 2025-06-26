@@ -1,0 +1,15 @@
+# § 9. Spyling og gassfriing
+(1) Skip som har ført last med flammepunkt under 60 °C.
+a) Før sveise- og brennearbeider eller annen bruk av åpen flamme eller annet gnistgivende arbeid settes i gang skal følgende utføres:
+1) Skip utstyrt med nøytralgassanlegg og anlegg for råoljevasking (COW).
+1.1. Ved siste lossing av råolje skal tanker som det skal arbeides i, og tilstøtende tanker råoljevaskes.
+1.2. Tank eller rom som det skal arbeides i samt alle tilstøtende tanker eller rom skal deretter spyles med vann til en tilfredsstillende renhet er oppnådd. Spylingen skal foregå i nøytral atmosfære. Rørsystem, ventiler, filter og pumper skal rengjøres. Etter utlufting skal rengjøring i henhold til § 10 første ledd, utføres. Pumperom og kofferdammer skal være rengjort og utluftet.
+1.3. Sloptanker skal så vidt mulig være tomme og rengjort. Dersom sloptank støter direkte mot den tank eller det rom det skal arbeides i, skal sloptanken være tom og rengjort. Dersom sloptank ikke støter direkte mot den tank eller det rom det skal arbeides i, kan sloptanken inneholde slop. Tanken skal da ha nøytral atmosfære, og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.
+1.4. Tanker som støter direkte mot den tank det skal arbeides i, skal være tomme og rengjort i henhold til § 10, første ledd. Skipets øvrige tanker eller rom skal ha nøytral atmosfære, oksygeninnholdet skal ikke overstige 8%, og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.
+2) Skip som ikke er utstyrt med nøytralgassanlegg og COW.
+2.1. Det skal spyles med vann (maks. 60 °C) med etterfølgende utlufting av alle tanker og rom inklusive ventiler, filter, pumper mv. Pumperom og kofferdammer skal være rengjort og utluftet. Sloptank skal være tom og rengjort dersom den ikke er fylt med CO2 eller annen form for nøytralgass. Oksygeninnholdet skal ikke overstige 8% og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.
+2.2. For skip uten nøytralgassanlegg skal alle tomme lastetanker rengjøres. Slop skal pumpes til den tank med størst mulig avstand til arbeidsområdet. Tanken skal holdes lukket.
+2.3. Skipets øvrige lastetanker og rom skal være rengjort og gassfrie i henhold til § 10 første ledd.
+2.4. Alle lastetanker, pumperom og kofferdammer skal være kontrollert med 2 stk. eksplosimetere som skal være typegodkjente.
+(2) På skip som har ført lastolje eller bunkers med flammepunkt på 60 °C eller derover eller olje og fett som definert i § 2 bokstav j nr. 3, kan spyling og utlufting og kontroll som nevnt i første ledd ovenfor, innskrenkes til de tanker og rom hvor det skal arbeides, samt til rengjøring av tilstøtende tanker eller rom. Imidlertid skal luker og åpninger til ikke-rengjorte tanker og rom holdes lukket.
+(3) På skip som har ført kondenserte gasser skal tanker eller rom som det skal arbeides i, samt tilstøtende tanker eller rom spyles med vann. Spyling kan sløyfes dersom gassen kan fjernes fullstendig ved ventilering eller utluftning. Kontroll av gass må foretas med eksplosimeter kalibrert for angjeldende gass.
