@@ -1,0 +1,5 @@
+# § 27. Utskifting av redskap/ståltau
+(1) Redskap og ståltau som er slitt, tæret eller skadet, skal straks skiftes, og innførsel herom gjøres i kontrollbokens del I eller i egen riggprotokoll.
+(2) Redskap unntatt ståltau, skal fornyes når den på grunn av tæring eller slitasje har fått sin vekt eller sitt tverrsnittsareal redusert med 20 prosent, dog tillates ingen reduksjon i dimensjoner noe sted utover 10 prosent.
+(3) Ståltau skal utskiftes dersom det, over en lengde tilsvarende 8 diametrer, kan ses at det samlede antall brukne tråder overstiger 10 prosent av det totale antall tråder, viser tegn på skadelig slitasje eller innvendig eller utvendig rusttæring, har vært overbelastet til varig deformasjon, har andre mangler, f.eks. kink, enkel part inntrukket, tendens til spiraldannelse eller andre deformasjoner som gjør det uskikket til bruk.
+(4) Sertifikat på formular 3 for ny redskap og formular 4 for ståltau skal vedlegges kontrollboken, men ståltausertifikatene kan også vedlegges egen riggprotokoll, hvor slik finnes. Sertifikatene for de utskiftede deler fjernes fra kontrollbok, eller riggprotokoll for separat oppbevaring.
