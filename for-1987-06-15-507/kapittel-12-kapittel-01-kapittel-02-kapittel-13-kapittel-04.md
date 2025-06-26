@@ -1,0 +1,2 @@
+# 4 Ikke-funksjonelle løfteinnretninger og ankerhåndteringsvinsjer
+Med unntak av det som er angitt i regel I/11(c), skal alle rimelige tiltak iverksettes for å opprettholde løfteinnretninger, ankerhåndteringsvinsjer og løst utstyr som denne regelen gjelder for, i fungerende stand, og feil på dette utstyret skal ikke anses som at skipet er sjøudyktig eller som en grunn til å holde skipet tilbake i havn, forutsatt at skipsføreren har tatt hensyn til den ikke-funksjonelle løfteinnretningen eller ankerhåndteringsvinsjen i planleggingen og gjennomføringen av en sikker seilas.,

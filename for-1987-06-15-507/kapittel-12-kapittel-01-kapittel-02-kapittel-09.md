@@ -1,0 +1,4 @@
+# Regel 3-9 Midler for ombord- og ilandstigning
+1 Skip bygget 1. januar 2010 eller senere skal være utstyrt med midler for ombord- og ilandstigning til bruk i havner og havnerelaterte operasjoner, for eksempel gangbroer og fallrep, i samsvar med nr. 2, med mindre administrasjonen mener at samsvar med en bestemt bestemmelse er urimelig eller upraktisk.
+2 Midlene for ombord- og ilandstigning som krevet etter nr. 1, skal bygges og installeres basert på retningslinjene utarbeidet av organisasjonen.
+3 For alle skip skal midlene for ombord- og ilandstigning inspiseres og vedlikeholdes til passende stand for det formålet de er tiltenkt, idet det tas hensyn til eventuelle begrensninger tilknyttet sikker lasting. Alle ståltau som brukes til å feste midlene for ombord- og ilandstigning, skal vedlikeholdes som angitt i regel III/20.4.

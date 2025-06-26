@@ -1,0 +1,5 @@
+# Regel 16-1 Konstruksjon og førstegangsprøving av vanntette dekk, sjakter osv.
+1 Vanntette dekk, sjakter, tunneler, kanalkjøler og ventilatorer skal være like sterke som vanntette skott på tilsvarende nivåer. Midlene som brukes til å gjøre dem vanntette, og arrangementene som anvendes for å stenge åpninger i dem, skal være til administrasjonens tilfredshet. Vanntette ventilatorer og sjakter skal føres minst opp til skottdekket på passasjerskip og til fribordsdekket på lasteskip.
+2 Når en ventilasjonssjakt på passasjerskip er ført gjennom en konstruksjon som går gjennom et vanntett område i skottdekket, skal sjakten kunne motstå vanntrykket som kan forekomme inne i sjakten, etter at det er tatt hensyn til den største krengevinkelen under fylling, i samsvar med regel 7-2.
+3 Når hele eller deler av gjennomføringen i skottdekket er på hovedroro-dekket på roro-passasjerskip, skal sjakten kunne motstå støttrykk på grunn av innvendig vannbevegelse (skvulping) i oppsamlet vann på roro-dekket.
+4 Etter ferdigstillelse skal det utføres sprøyteprøving eller prøving ved vannfylling av vanntette dekk og sprøyteprøving av vanntette sjakter, tunneler og ventilatorer.

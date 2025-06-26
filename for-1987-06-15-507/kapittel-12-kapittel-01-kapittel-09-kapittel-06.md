@@ -1,0 +1,11 @@
+# Regel 44 Startarrangementer for nødgeneratorsett
+1 Nødgeneratorsett skal kunne startes enkelt fra kald tilstand ved en temperatur på 0 °C. Hvis dette ikke er praktisk mulig, eller hvis det er trolig at lavere temperaturer kan forekomme, skal det treffes tiltak til administrasjonens tilfredshet for vedlikehold av oppvarmingsarrangementene for å sikre at generatorsettene er enkle å starte.
+2 Alle nødgeneratorsett som er slik innrettet at de starter automatisk, skal være utstyrt med startinnretninger som er godkjent av administrasjonen og har lagret energikapasitet til minst tre fortløpende starter. Det skal finnes enda en energikilde til ytterligere tre starter innen 30 minutter, med mindre det kan påvises at manuell start er effektivt.
+2.1 Skip bygget 1. oktober 1994 eller senere skal i stedet for bestemmelsen i nr. 2 annet punktum oppfylle følgende krav:
+Kilden til laget energi skal beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, med mindre det finnes et annet uavhengig startmiddel. Dessuten skal det finnes enda en energikilde til ytterligere tre starter innen 30 minutter, med mindre det kan påvises at manuell start er effektivt.
+3 Den lagrede energien skal opprettholdes til enhver tid på følgende måte:
+.1 elektriske og hydrauliske startsystemer skal vedlikeholdes fra nødtavlen
+.2 startsystemer med trykkluft kan vedlikeholdes ved hoved- eller hjelpetrykklufttankene gjennom en egnet tilbakeslagsventil eller ved en nødluftkompressor som, når den er elektrisk drevet, forsynes fra nødtavlen
+.3 alle disse start-, lade- og energilagringsinnretningene skal være plassert i nødgeneratorrommet; disse innretningene skal ikke brukes til andre formål enn drift av nødgeneratorsettet. Dette utelukker ikke forsyning til trykklufttanken for nødgeneratorsettet fra hoved- eller hjelpetrykkluftsystemet gjennom tilbakeslagsventilen som er montert i nødgeneratorrommet.
+4.1 Når det ikke kreves automatisk start, er manuell start tillatt, for eksempel manuell start med håndsveiv, svinghjulstarter, manuelt ladede hydraulikkakkumulatorer eller kruttladningspatroner, hvis det kan påvises at de er effektive.
+4.2 Når manuell start ikke er praktisk mulig, skal kravene i nr. 2 og 3 oppfylles, bortsett fra at starten kan settes i gang manuelt.
