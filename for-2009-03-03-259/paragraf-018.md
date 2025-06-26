@@ -1,0 +1,4 @@
+# § 18. Båtførerregistre
+Sjøfartsdirektoratet eller den det bemyndiger skal føre sentrale båtførerregistre for nasjonalt båtførerbevis, internasjonalt båtførersertifikat og høyhastighetsbevis for å forvalte førerrettigheter og tap av slike rettigheter.
+I registrene kan det behandles opplysninger om personer som har søkt om, har eller har hatt norsk båtførerbevis, internasjonalt båtførersertifikat og høyhastighetsbevis. Registrene kan inneholde opplysninger om navn, kjønn, fødeland, fødselsnummer, D-nummer, adresse, registreringsstatuser og datoer fra Folkeregisteret, tidspunkt for gjennomført prøve og dato for utstedelse av bevis og sertifikat, historikk over tidligere utstedte bevis og sertifikat, merknader som er nødvendig for saksbehandlingen, sperrefrist og beslag av bevis og sertifikat og tap av førerrett.
+Behandling av registrene som nevnt i første ledd skal skje i tråd med personopplysningsloven og personopplysningsforskriften.
