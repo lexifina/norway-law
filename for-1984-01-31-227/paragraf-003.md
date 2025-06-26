@@ -1,0 +1,3 @@
+# § 3. Dokumentasjon
+Rederiet skal kunne dokumentere at forskriftens krav er oppfylt. På forespørsel skal dokumentasjon sendes Sjøfartsdirektoratet. Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse fastsettes av Sjøfartsdirektoratet.
+Rederiet skal kunne dokumentere at elektriske anlegg og områdeklassifisering (eksplosjonsfarlige områder) oppfyller gjeldende forskrifter om maritime elektriske anlegg, fastsatt av Direktoratet for samfunnssikkerhet og beredskap. Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse bestemmes av Direktoratet for samfunnssikkerhet og beredskap som på forespørsel skal få direkte tilsendt den ønskede dokumentasjon.

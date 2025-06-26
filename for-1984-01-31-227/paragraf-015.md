@@ -1,0 +1,2 @@
+# § 15. Oppbevaring og plassering av røykdykkerutstyret.
+Røykdykkerutstyret skal oppbevares i spesielle rom, og være klart til øyeblikkelig bruk. Utstyret skal oppbevares i sett på minst fire steder atskilt fra hverandre slik at tilgangen til alt røykdykkerutstyret ikke sperres ved brann i et område. Minst 2 sett bør lagres på hvert sted. Utstyr nevnt i § 13 nr. 2 skal oppbevares sammen. To av settene skal oppbevares i nærheten av helikopterdekket.

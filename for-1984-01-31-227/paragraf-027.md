@@ -1,0 +1,5 @@
+# § 27. Operasjon og beredskap.
+1. For spesielle operasjoner som kan medføre en økt risiko for gassutslipp på innretningen (f.eks. testing av brønnstrøm) skal det i operasjonsmanualen finnes prosedyrer for forberedelse, oppstart, gjennomføring og avsluting av operasjonen. Det forutsettes bruk av sjekklister e.l. for å sikre at alle forhold av betydning for en vellykket operasjon dekkes.
+2. I operasjon/beredskapsmanualen skal det være innarbeidet planer/prosedyrer for både mindre gassutslipp innenfor eksplosjonsfarlig område og større gassutslipp som spres utenfor eksplosjonsfarlig område. Prosedyrene skal omfatte tenkelige gass-situasjoner og aktuelle nødavstengningsnivåer, inklusive situasjoner hvor det kan være riktig å forflytte innretningen ved at stigerør og ankerliner utløses.
+Prosedyrene skal videre omfatte alle planlagte former for nødavstengning av gassutslippet, trykkavlastning samt aktiv bekjempelse av gassfaren og evakuering.
+For floteller skal beredskapsprosedyrer i tillegg innbefatte varslingsprosedyre og koordinering mellom fast installasjon og flotellet.
