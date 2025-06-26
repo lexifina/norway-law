@@ -1,0 +1,2 @@
+# Innledning.
+1. Denne rekommandasjon får anvendelse på skip i drift mens det befinner seg i havn, sikkert fortøyd eller sikkert oppankret og gjelder kravene til vakthold ved maskinoffiserer i disse tidsrom. Spesielle krav kan være nødvendige for særlige typer fremdriftssystemer eller hjelpeutstyr og for skip som fører risikobetont, farlig, giftig eller spesielt ildsfarlige stoffer eller andre særlige typer last.
