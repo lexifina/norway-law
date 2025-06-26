@@ -1,0 +1,10 @@
+# § 10. Rengjøring – kontinuerlig gasskontroll
+(1) I tanker eller rom som har inneholdt olje eller kondenserte gasser skal det før det settes i gang varmt arbeid i tillegg til spyling og rengjøring, gjøres grundig rent i tankens bunn og på konstruksjonselementer. Sjekklister over slikt arbeid skal være tilgjengelig, og en kopi av utfylte sjekklister skal oppbevares på broen.
+(2) Tilstøtende tanker eller rom skal rengjøres på samme måte som det rom det arbeides i. Dersom skipet ikke er utstyrt med nøytralgass og COW-anlegg, skal samtlige av skipets tanker være rengjort på samme måte som den tank det skal arbeides i.
+(3) Rør og ventiler i tanker hvor det skal utføres varmt arbeid skal være rengjort.
+(4) Atmosfæren i den tank eller det rom det skal arbeides i, samt tilstøtende tanker, skal være kontrollert umiddelbart før varmt arbeid settes i gang. Under arbeidets gang skal målinger tas minst hver annen time i det første døgnet. Dersom disse målinger viser at det ikke har vært noen gassutvikling i løpet av denne perioden, kan gassmålingene deretter innskrenkes til hver fjerde time.
+(5) Har skipet på foregående reise ført olje med flammepunkt under 60 °C eller kondenserte gasser, skal tilsvarende gassmålinger tas i tilstøtende rom eller tanker.
+(6) Sveise- og brennearbeider eller annen bruk av åpen flamme eller annet gnistgivende arbeid skal innstilles når rør eller ventiler demonteres eller har vært åpnet. Før arbeidet gjenopptas skal gassmålinger utføres som nevnt i fjerde ledd ovenfor.
+(7) Når det gjelder tanker hvor det har vært ført kjemikalier, skal det tas forholdsregler med hensyn til eventuell fare for forgiftning på grunn av gasser som dannes ved oppvarming. Videre skal forholdsregler tas når det gjelder tank-coatinger som kan avgi giftige gasser ved oppvarming.
+(8) Forholdsregler skal tas når det gjelder eksplosiv gass som er oppstått ved bruk av anoder før avrustning (descaling) av tanker.
+(9) I permanente ballasttanker i tankskip skal det foretas gassmålinger, da det i slike tanker kan ha samlet seg gass på grunn av lekkasje.

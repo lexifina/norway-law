@@ -1,0 +1,8 @@
+# § 14. Gassflaskesentral
+(1) Gassflaskesentral skal være et eget rom for oppbevaring og tilkopling av acetylen- og oksygenflasker. Rommet skal ha skott, dekk og tak av stål og være gasstett atskilt fra tilstøtende rom. Gassflaskesentralen skal plasseres på eller over øverste gjennomgående dekk, samt ha direkte atkomst fra åpent dekk.
+(2) Gassflaskesentralen skal isoleres, ventileres og arrangeres slik at temperaturen normalt ikke overstiger 40 °C. Hvor rommets plassering og temperaturforhold tilsier det, kan naturlig ventilasjon anvendes. Materialer som benyttes i forbindelse med isolasjon mv., skal være av ubrennbar type. Ventilasjonsarrangementet skal ikke være tilknyttet andre ventilasjonsanlegg om bord. Videre skal rommet ventileres slik at ingen fare for gassansamling er til stede. Sikkerhetsventiler o.l. avledes til forsvarlig sted på åpent dekk, se § 16 første ledd bokstav d.
+(3) Rommet skal ikke benyttes til annet enn oppbevaring av gassflasker. Rørledninger for brennbare væsker og gasser skal ikke føres gjennom gassflaskesentralen.
+(4) Når det totale antall acetylen- og oksygenflasker (uansett størrelse) inklusive reserveflasker ikke overstiger 8, kan begge gassarter oppbevares i samme rom.
+(5) Når det totale antall acetylen- og oksygenflasker (uansett størrelse) inklusive reserveflasker overstiger 8, skal gassflaskesentralen bestå av to gasstette atskilte rom – ett for acetylen og ett for oksygen.
+(6) Gassflaskesentral skal være tydelig merket med skilt som angir at oksygen- og acetylenflasker er lagret i sentralen. Skiltet skal ha tekst som forlangt i § 22, første ledd.
+(7) Elektriske anlegg skal tilfredsstille de til enhver tid gjeldende regler for installasjon av elektriske komponenter i gassfarlige rom.
