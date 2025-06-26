@@ -1,0 +1,6 @@
+# § 5. Krav angående terminalenes egnethet
+Terminaloperatøren skal påse at følgende krav er oppfylt for terminaler vedkommende har ansvaret for etter denne forskriften:
+a) terminalen er i samsvar med bestemmelsene i vedlegg 2,
+b) det er utpekt terminalrepresentant(er),
+c) det er utarbeidet informasjonshefter med terminalens egne krav og krav fra offentlige myndigheter, herunder Kystverket og Sjøfartsdirektoratet, samt opplysninger om havnen og terminalen som oppført i tillegg 1 nr. 1.2 i BLU-koden, og disse heftene gjøres tilgjengelige for førerne av bulkskip som har anløp ved terminalen for lasting eller lossing av faste bulklaster, og
+d) et kvalitetsstyringssystem er utviklet, iverksatt og vedlikeholdes. Et slikt kvalitetsstyringssystem skal være sertifisert i samsvar med standardene ISO 9001:2000 eller tilsvarende standard som minst omfatter alle sider ved ISO 9001:2000, og det skal revideres i samsvar med retningslinjene i ISO 10011:1991 eller tilsvarende standard som omfatter alle sider ved ISO 10011:1991. Direktiv 98/34/EF skal overholdes når det gjelder nevnte standarder. Kvalitetsstyringssystem skal være opprettet innen tre år etter at denne forskriften trer i kraft. Kvalitetsstyringssystem skal være sertifisert innen fire år etter at denne forskriften trer i kraft.
