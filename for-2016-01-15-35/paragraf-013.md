@@ -1,0 +1,2 @@
+# § 13. Tilfeller der produsentens forpliktelser gjelder for importør og distributør
+En importør eller distributør skal anses som produsent og skal være underlagt produsentens forpliktelser i henhold til § 9 når vedkommende importør eller distributør bringer et produkt i omsetning under eget navn eller varemerke eller endrer et produkt som allerede er brakt i omsetning på en slik måte at det kan påvirke produktets oppfyllelse av kravene i forskriften.

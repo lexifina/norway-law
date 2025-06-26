@@ -1,0 +1,4 @@
+# § 26. Søknad om utpeking som teknisk kontrollorgan
+(1) Teknisk kontrollorgan skal søke om utpeking til myndigheten som peker ut tekniske kontrollorgan i den EØS-staten det er etablert.
+(2) Søknaden nevnt i første ledd skal følges av en beskrivelse av den samsvarsvurderingsvirksomheten, den eller de samsvarsvurderingsmodulene og det eller de produktene som organet hevder å være kompetent for, samt eventuelt et akkrediteringsbevis utstedt av et nasjonalt akkrediteringsorgan der det bekreftes at det tekniske kontrollorganet oppfyller kravene i § 23.
+(3) Dersom det tekniske kontrollorganet ikke kan legge fram et akkrediteringsbevis, skal det gi myndigheten som utpeker tekniske kontrollorgan den dokumentasjon som er nødvendig for å verifisere, anerkjenne og føre regelmessig tilsyn med at organet oppfyller kravene fastsatt i § 23.
