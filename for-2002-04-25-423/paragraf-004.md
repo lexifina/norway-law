@@ -1,0 +1,2 @@
+# § 4. Fravik
+Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet i enkelttilfeller fravike bestemmelsene i denne forskrift slik det er bestemt i § 8 tredje ledd, § 9 sjette ledd, § 10 tredje ledd og § 11 fjerde ledd når det er helse- og sikkerhetsmessig forsvarlig. De bestemmelser som kan fravikes ved dispensasjon er ikke bindende for arbeid som er ledd i godkjente lærlingkontrakter eller videregående opplæring.
