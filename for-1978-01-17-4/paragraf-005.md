@@ -1,0 +1,5 @@
+# § 5. Sakkyndig person
+(1) Sakkyndig person er en person som er godkjent til å utføre konstruksjon, beregning, kontroll, prøving og sertifisering av laste- og losseinnretninger eller begrensede deler av dette.
+(2) Sakkyndig person i Norge godkjennes av Sjøfartsdirektoratet etter søknad. Vedkommende må dokumentere sine kunnskaper og praksis. Det vil bli skilt mellom to typer sakkyndige personer:
+a) Sakkyndig person type A er godkjent for førstegangssertifisering av laste- og losseinnretninger. For å oppnå slik godkjennelse må vedkommende i samarbeid med autorisert verksted ha utført konstruksjon, beregning, kontroll med arbeidsutførelsen, prøving, besiktelse og sertifisering av et komplett riggarrangement til Sjøfartsdirektoratets tilfredsstillelse.
+b) Sakkyndig person type B er godkjent for periodisk sertifisering og sertifisering etter mindre reparasjoner av eksisterende laste- og losseinnretninger. For å oppnå slik godkjennelse må vedkommende i samarbeid med kvalifisert verksted ha utført periodisk kontroll, prøving, besiktelse og sertifisering av en eksisterende laste- og losseinnretning til Sjøfartsdirektoratets tilfredsstillelse.

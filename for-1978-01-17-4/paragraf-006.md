@@ -1,0 +1,3 @@
+# § 6. Tegninger og beregninger
+(1) Tegninger av laste- og lossearrangementer med stykkliste hvor alle deler er beskrevet med posisjonsnummer, antall, benevnelse, tillatt arbeidsbelastning (S.W.L.), materialkvalitet, henvisning til standarder mv. og kraftplan for arrangement skal oppbevares om bord og være gitt påtegning «som utført».
+(2) Tegninger nevnt i 1. ledd skal utarbeides i henhold til Norsk Standard NS-2609 Riggbok (ISO-2333-1972) eller annen anerkjent standard, så langt disse er anvendelige for det aktuelle skips rigg. For mindre skip kan et enklere oppsett tillates, men dette må minst inneholde alle opplysninger som forlangt i 1. ledd.
