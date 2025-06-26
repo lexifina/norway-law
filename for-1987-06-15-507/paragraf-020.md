@@ -1,0 +1,4 @@
+# § 20. Sikkerhetstiltak m.m.
+(1) Følgende sikkerhetstiltak skal være oppfylt under helikopteroperasjoner:
+a) Det skal være utarbeidet instruks og sjekkliste tilpasset den type helikopteroperasjoner (landing, nødlanding og vinsjoperasjoner) som er aktuell om bord i vedkommende skip. Instruksen skal inneholde opplysninger om maksimum helikopterstørrelse, tillatt vekt og rotordiameter ved landing/nødlanding på vedkommende skip, og skal være i samsvar med godkjenning etter gjeldende forskrifter vedrørende bygging av passasjer-, lasteskip og lektere.
+b) Alle personer om bord skal være instruert i henhold til instruksen. Skilt om at røking er forbud og skilt som angir at ingen uvedkommende skal oppholde seg på området når helikopteroperasjoner pågår, skal settes opp på lett synlige steder. Skiltene skal ha norsk og engelsk tekst.

@@ -1,0 +1,3 @@
+# § 33. Oppbevaring og bruk av brennstoff og sprengstoff
+(1) Dersom det er behov for å oppbevare motorbrennstoff om bord i annet enn fast anordnede tanker, skal slikt brennstoff være anbrakt i egnet beholder i eget lett tilgjengelig godt ventilert rom/skap med dør kun til åpent dekk. Skott og dør til rommet/skapet skal ha brannisolasjon tilsvarende A60.
+(2) Oppbevares sprengstoff om bord, skal dette lagres i originalemballasje i stålkasser og oppbevares i eget låsbart skap/rom atskilt fra brannfarlige og giftige produkter. Sprengstoff og tennsatser skal lagres atskilt, og mengden av sprengstoff skal begrenses til minimumsbehovet.

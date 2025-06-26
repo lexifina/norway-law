@@ -1,0 +1,2 @@
+# Regel 3-1 Strukturelle, mekaniske og elektriske krav til skip
+I tillegg til kravene som finnes andre steder i disse reglene, skal skip være utformet, bygget og vedlikeholdt i samsvar med de strukturelle, mekaniske og elektriske kravene som stilles av et klassifikasjonsselskap anerkjent av administrasjonen i samsvar med bestemmelsene i regel XI-1/1 eller gjeldende nasjonale standarder fastsatt av administrasjonen, som gir et tilsvarende sikkerhetsnivå.

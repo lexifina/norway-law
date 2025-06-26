@@ -1,0 +1,10 @@
+# Regel 23 Særlige krav til roro-passasjerskip
+1 Spesiallasterom og roro-lasterom skal patruljeres eller overvåkes kontinuerlig med effektive midler, f.eks. fjernsynsovervåking, slik at enhver kjøretøybevegelse under ugunstige værforhold og ikke-tillatt passasjerferdsel kan oppdages under fart.
+2 Dokumenter som angir framgangsmåter for lukking og sikring av alle porter i skipssiden, lasteporter og andre lukkeinnretninger som, etter administrasjonens mening, kan føre til fylling av et spesiallasterom eller roro-lasterom hvis de står åpne eller ikke sikres forsvarlig, skal finnes om bord og være oppslått på et egnet sted.
+3 Alle atkomstveier fra roro-dekket og kjøretøyramper som fører til rom under skottdekket, skal lukkes før reisen begynner, og holdes lukket til skipet er ved neste kaiplass.
+4 Skipsføreren skal påse at det er gjennomført et effektivt kontroll- og rapporteringssystem for lukking og åpning av atkomstveiene nevnt i nr. 3.
+5 Skipsføreren skal, før reisen begynner, påse at tidspunktet for siste lukking av atkomstveiene nevnt i nr. 3, innføres i skipsdagboken, slik det er fastsatt i regel 22 nr. 13.
+6 Uten hensyn til kravene i nr. 3 kan administrasjonen tillate at noen atkomstveier åpnes under reisen, men bare i et tidsrom som er nødvendig av hensyn til gjennomgang, og når det er helt nødvendig for selve driften av skipet.
+7 Alle tverrskips- eller langskipsskott som regnes som effektive for å holde på oppsamlet sjøvann på roro-dekket, skal være på plass og sikret før reisen begynner, og holdes på plass og være sikret til skipet er ved neste kaiplass.
+8 Uten hensyn til kravene i nr. 7 kan administrasjonen tillate at noen atkomstveier i slike skott åpnes under reisen, men bare i et tidsrom som er nødvendig av hensyn til gjennomgang, og når det er helt nødvendig for selve driften av skipet.
+9 På alle roro-passasjerskip skal skipsføreren eller den offiseren vedkommende har utpekt, sørge for at ingen passasjerer har adgang til et innelukket roro-dekk under fart, med mindre skipsføreren eller offiseren har gitt uttrykkelig samtykke til det.

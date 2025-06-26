@@ -1,0 +1,3 @@
+# 2 Generelle bestemmelser
+2.1 Utforminger av og arrangementer for maskineri, elektriske anlegg og lagrings- og distribusjonssystemer for drivstoff med lavt flammepunkt kan avvike fra kravene som er oppført i del C, D, E eller G, forutsatt at de alternative utformingene og arrangementene oppfyller de aktuelle kravenes hensikt og gir et tilsvarende sikkerhetsnivå som dette kapittelet.
+2.2 Når alternative utforminger eller arrangementer avviker fra de forskriftsmessige kravene i del C, D, E eller G, skal det foretas en teknisk analyse, evaluering og godkjenning av de alternative utformingene og arrangementene i samsvar med denne regelen.

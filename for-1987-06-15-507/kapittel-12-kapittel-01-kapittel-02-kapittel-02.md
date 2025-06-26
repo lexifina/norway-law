@@ -1,0 +1,8 @@
+# Regel 3-2 Beskyttende overflatebehandling av dedikerte sjøvannsballasttanker i alle typer skip og dobbeltsiderom i bulkskip
+1 Nr. 2 og 4 i denne regelen får anvendelse på skip med bruttotonnasje 500 eller mer
+.1 som det er inngått byggekontrakt for 1. juli 2008 eller senere, eller
+.2 i mangel av byggekontrakt, hvis kjøl er strukket eller som er på et tilsvarende byggetrinn 1. januar 2009 eller senere, eller
+.3 hvis levering finner sted 1. juli 2012 eller senere.
+2 Alle dedikerte sjøvannsballasttanker som er arrangert i skip, og dobbeltsiderom som er arrangert i bulkskip med lengde 150 m eller mer, skal under byggingen overflatebehandles i samsvar med «Performance standard for protective coatings for dedicated seawater ballast tanks in all types of ships and double-side skin spaces of bulk carriers», vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.215(82), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+3 Alle dedikerte sjøvannsballasttanker arrangert i oljetankskip og bulkskip bygget 1. juli 1998 eller senere, som nr. 2 ikke får anvendelse på, skal oppfylle kravene i regel II-1/3-2 vedtatt ved resolusjon MSC.47(66).
+4 Vedlikehold av overflatebehandlingen skal inngå i skipets generelle vedlikeholdsplan. Overflatebehandlingens effektivitet skal verifiseres i løpet av skipets levetid av administrasjonen eller en organisasjon anerkjent av administrasjonen, basert på retningslinjene utarbeidet av organisasjonen.
