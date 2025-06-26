@@ -1,0 +1,2 @@
+# Navigering i sterkt trafikkerte farvann.
+22. Ansvarshavende maskinoffiser på vakten skal påse at alt maskineri som vedrører skipets manøvrering øyeblikkelig kan kobles over til manuell driftsmåte når maskinoffiseren blir underrettet om at skipet befinner seg i sterkt trafikkerte farvann. Maskinoffiseren skal også påse at tilstrekkelig reservedraft er til stede til styring og andre manøvreringsbehov. Nødstyring og annet hjelpeutstyr skal være klart til øyeblikkelig bruk.

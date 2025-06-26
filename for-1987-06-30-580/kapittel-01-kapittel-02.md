@@ -1,0 +1,3 @@
+# Kapittel II. Grunnprinsipper som skal iakttas under vakt i havn
+1. På ethvert skip som er trygt fortøyd eller oppankret under normale forhold i havn, skal skipsføreren sørge for at det fås hensiktsmessige og effektive vakter med henblikk på sikkerheten.
+2. Ved organisering av vaktene skal det tas hensyn til bestemmelsene i «Rekommandasjon om prinsipper og driftsveiledning for ansvarshavende dekksoffiserer på vakt i havn» og «Rekommandasjon om prinsipper og driftsveiledning for ansvarshavende maskinoffiser på vakt i maskinen i havn», vedtatt av Den internasjonale konferanse om opplæring og sertifikater for sjøfolk, 1978.

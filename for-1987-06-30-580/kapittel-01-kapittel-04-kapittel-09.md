@@ -1,0 +1,2 @@
+# Klarvær.
+22. Vakthavende offiser skal ta hyppige og nøyaktige kompasspeilinger av skip som nærmer seg, som middel til tidlig å få brakt fare for kollisjon på det rene. Slik fare kan undertiden være til stede selv om merkbar forandring av peilingen klart foreligger, særlig når man nærmer seg et meget stort skip eller slep eller når man nærmer seg et skip på kloss hold. Offiseren skal ta tidlige og klare forholdsregler i samsvar med vedkommende regler til forebygging av sammenstøt på sjøen, og deretter kontrollere at forholdsreglene har den ønskede virkning.

@@ -1,0 +1,2 @@
+# Innledning.
+1. Denne rekommandasjon inneholder driftsveiledning av generell karakter til bruk for ansvarshavende vaktoffiserer på broen, og forutsettes supplert av skipsføreren etter behov. Det er av avgjørende betydning at vakthavende offiserer er seg bevisst at effektiv utførelse av disse plikter er nødvendig av hensyn til sikkerheten for liv og eiendom til sjøs og for forebyggelse av forurensning av det marine miljø.
