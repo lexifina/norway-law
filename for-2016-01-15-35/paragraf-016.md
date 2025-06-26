@@ -1,0 +1,5 @@
+# § 16. Framgangsmåter for samsvarsvurdering
+(1) Produsenten skal bruke framgangsmåtene angitt i modulene nevnt i § 17, § 18 og § 19 før produkter nevnt i § 1, bringes i omsetning.
+(2) Dersom produsenten ikke har utført samsvarsvurdering for det aktuelle produktet, skal privat importør anvende framgangsmåten nevnt i § 20 før produkt nevnt i § 1 kan tas i bruk,.
+(3) Enhver person som bringer i omsetning eller tar i bruk framdriftsmotor, fritidsfartøy eller vannscooter etter en større motorendring eller fartøyombygging, eller enhver person som endrer det tilsiktede formålet med fritidsfartøy eller vannscooter som ikke omfattes av forskriften, på en måte som gjør at det faller inn under virkeområde, skal anvende framgangsmåten nevnt i § 20, før produktet bringes i omsetning eller tas i bruk.
+(4) Enhver person som bringer fritidsfartøy eller vannscooter bygd for personlig bruk i omsetning før utløpet av tidsrommet på fem år nevnt i § 2 (1) bokstav f, skal anvende framgangsmåten i § 20, før produktet bringes i omsetning.

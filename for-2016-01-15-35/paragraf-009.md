@@ -1,0 +1,15 @@
+# § 9. Produsentens forpliktelser
+(1) Produsenten skal sikre at produktet er konstruert og produsert i samsvar med kravene i forskriften når produktet bringes i omsetning.
+(2) Produsenten skal utarbeide teknisk dokumentasjonen i samsvar med § 22 og utføre eller få utført samsvarsvurdering etter § 16 til § 19 og § 21.
+(3) Når det er påvist at produktet samsvarer med kravene, skal produsenten CE-merke produktet jf. § 7 og utarbeide en erklæring som nevnt i § 8.
+(4) Produsenten skal oppbevare den tekniske dokumentasjonen og en kopi av erklæringen som nevnt i § 8, i ti år etter at produktet er brakt i omsetning.
+(5) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas hensyn til endringer i produktets konstruksjon eller egenskaper samt endringer i de harmoniserte standardene det er vist til i samsvarserklæringen for produktet.
+(6) For å verne forbrukernes helse og sikkerhet skal produsenten når det anses hensiktsmessig med hensyn til den risikoen som er forbundet med et produkt
+a) ta stikkprøver av produkter som er gjort tilgjengelige på markedet
+b) undersøke og om nødvendig føre et register over klager, produkter som ikke oppfyller kravene, og tilbakekallinger av produkter, samt holde distributører underrettet om all slik overvåking.
+(7) Produsenten skal sikre at produktet har et type-, parti- eller serienummer eller et annet element som gjør det mulig å identifisere. Dersom komponentens størrelse eller art ikke tillater slik identifisering skal nødvendige opplysninger gis på emballasjen eller i et dokument som følger med produktet.
+(8) Produsenten skal angi navn, firma eller registrert varemerke og kontaktadresse på produktet. For produkter hvor dette ikke er mulig merkes emballasjen eller dokument som følger med produktet. Adressen skal angi sted hvor produsenten kan kontaktes.
+(9) Produsenten skal sikre at produktet følges av instruksjoner og sikkerhetsinformasjon i brukerhåndboken på norsk eller dersom det ikke kan misforstås på svensk eller dansk.
+(10) Produsent som har grunn til å tro at et produkt som er brakt i omsetning ikke er i samsvar med forskriften, skal straks gjøre nødvendige korrigerende tiltak for å bringe produktet i samsvar med forskriften eller om nødvendig trekke tilbake eller tilbakekalle produktet.
+(11) Når produktet utgjør en risiko, skal produsenten umiddelbart underrette vedkommende nasjonale myndigheter i de EØS-statene der de har gjort produktet tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om produktets manglende samsvar og eventuelle korrigerende tiltak som er truffet.
+(12) Produsenten skal på begrunnet anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å bevise produktets samsvar, på et språk som myndigheten lett kan forstå. Produsenten skal på anmodning fra nevnte myndighet samarbeide med denne om alle tiltak som er truffet for å fjerne risikoene forbundet med produkter de har brakt i omsetning.
