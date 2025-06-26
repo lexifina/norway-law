@@ -1,0 +1,3 @@
+# § 24. Beredskapsutstyrets effektivitet
+(1) Det enkelte utstyrs effektivitet skal utredes og så langt som praktisk mulig tallfestes. Med effektiviteten menes f.eks. tidsbruk og sannsynlighet for vellykket resultat med hensyn til å plukke opp personer fra sjøen ved forskjellige sikt og værforhold.
+(2) Fartøyet skal ha et system for registrering og systematisering av erfaringer herunder også effektiviteten til beredskapsutstyret. Disse registreringene vil kunne anvendes til å bedømme utstyrets godhet og revidere operasjonelle begrensninger for utstyret, endre opplærings- og øvelsesplaner samt utbedre utstyret. Registreringene skal være tilgjengelig for operatør og offentlige myndigheter.
