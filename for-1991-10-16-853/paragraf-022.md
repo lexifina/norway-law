@@ -1,0 +1,7 @@
+# § 22. Helikoptervinsjesone
+(1) Beredskapsfartøyet skal være utstyrt med helikoptervinsjesone.
+(2) Vinsjesonen skal være plassert godt klar av fartøyets overbygning og andre større hindringer som kan skape turbulens og innvirke på sikker manøvrering av helikopteret.
+(3) Eventuelle godkjente hindringer som master, kraner, daviter etc. skal være merket med kontrastfarger i den øvre del av utstyret.
+(4) Vinsjesonen og de merkede hindringene skal kunne belyses uten å sjenere manøvreringen av helikopteret og sikten under innflyvningen.
+(5) Vinsjesonen skal ha en diameter på minst 5,0 meter hvor ingen hindringer er høyere enn 0.1 meter. Eventuelle hindringer skal være godt beskyttet mot opphuking av vinsjwire med krok. Sirkelen skal være malt med gul farge i kontrast til de tilstøtende dekk. Vinsjesonen skal ha et antisklibelegg. For å hindre at vinsjesonen blir oppfattet som landingsområde, skal sonen merkes med «WINCH ONLY» i store og hvite bokstaver. Ordene skal plasseres på utsiden av soneringen lett synlig og leselig i den gunstigste innflyvningsretningen.
+(6) I området utenfor vinsjesonen i en sirkel med diameter 1,5 ganger helikopterets største lengde overalt inklusive rotor skal ingen hindring være høyere enn 3 meter. I området mellom 1,5 og 2 ganger som definert over, skal ingen hindring være høyere enn 6 meter. Største helikopter som normalt kan benytte vinsjesonen vil bli angitt i vedlegg til sertifikat for beredskapsfartøy.
