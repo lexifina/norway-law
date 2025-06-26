@@ -1,0 +1,10 @@
+# § 27. Bygging
+(1) Takhøyden i innredningen skal være minst 1980 mm. Takhøyden kan reduseres i et område der full bevegelsesfrihet ikke er nødvendig, og når reduksjonen er rimelig og ikke vil resultere i ubehag for de som har sitt arbeid om bord.
+(2) Det skal ikke være direkte åpninger inn til soverommene fra lasterom, maskinrom, bysser, malerrom, vaske- og tørkerom eller felles sanitærrom, eller fra rom for maskin- og dekksrekvisita og større mengder av andre rekvisita. Skott som skiller disse rommene fra soverom og ytre skott, skal være vanntett, gasstett og solid bygget av stål eller materiale med tilsvarende egenskaper.
+(3) Dørken i innredningen skal ha overflater som er fuktbestandige og enkle å holde rene. Når dørken er laget av komposittmateriale, skal sammenføyningene der dørk og skott møtes, være avrundet eller profilert for å unngå sprekker. Det skal være tilstrekkelig avløp for vann.
+(4) Innvendige skott og tak i innredningen skal være enkle å holde rene. Hvis skottflater og tak males, skal de holdes i lyse farger. Kalkmaling skal ikke brukes. Skottflatene skal fornyes eller repareres etter behov.
+(5) Dørk, skott og tak i sanitærrom skal være isolert mot ytre skott og bestå av stål eller annet vanntett materiale. Dørk, skott og tak i bysse, proviantrom, fryse- og kjølerom skal være av stål eller annet materiale som er lett å holde rent.
+(6) Døråpningen til private dagrom, soverom og sanitærrom skal ha tilstrekkelig bredde.
+(7) I innredningen er mannhull eller andre åpninger til brennoljetanker bare tillatt i korridorer.
+(8) Skip med bruttotonnasje 3000 eller mer skal ha eget oppvaskrom med mindre byssa er innredet med egen oppvaskavdeling utstyrt i overensstemmelse med § 14 sjuende ledd. På skip med bruttotonnasje under 3000 er det ikke krav til egen oppvaskavdeling hvis det er oppvaskmaskin i byssa i samsvar med kravene i § 14 åttende ledd.
+(9) På skip som skal ha bysse, skal det innredes eget proviantrom. På lasteskip med lengde (L) under 24 meter, og på passasjerskip, kan Sjøfartsdirektoratet etter søknad fra rederiet tillate at det arrangeres alternative løsninger for oppbevaring av proviant.
