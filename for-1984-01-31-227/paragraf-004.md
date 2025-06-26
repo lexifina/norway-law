@@ -1,0 +1,8 @@
+# § 4. Risikovurderinger
+1.Brann- og eksplosjonsfare
+1.1. Det skal utføres en risikovurdering av de branntekniske forholdsreglene for alle rom og områder. Risikovurderingen kan være en feilmodi-/feileffektanalyse (FMEA).
+2.Boligkvarter. Kontrollstasjoner.
+2.1. Det skal utføres en risikovurdering med hensyn til boligkvarterets evne til å motstå de ulykkeslaster som kan forventes å ha betydning for dette området. Spesielt skal vurderes kontrollstasjoner som er nødvendig å holde operasjonsdyktig en viss tid etter at en ulykkessituasjon er oppstått (f.eks. kontrollstasjon for ankeroperering).
+2.2. Boligkvarterets og kontrollstasjoners ytterflater som kan bli utsatt for hydrokarbonbrann, skal beskyttes utvendig. Dersom den foretatte riskikovurdering som inkluderer evakueringsplan, krav til operering av innretning i den aktuelle ulykkessituasjon og arrangement for øvrig, viser at det trengs en beskyttelse utover de krav som er stilt i § 20 nr. 2 og nr. 3, skal den utvendige brannbeskyttelse dimensjoneres for å holde konstruksjoner intakt i det tidsrom som anses nødvendig. Veiledende tidsrom for opprettholdelse av funksjonsdyktighet, settes til minimum 1/2 time.
+3.Rømningsveier.
+3.1. Det skal foretas en risikovurdering av rømningsveiene fra alle områder av plattformen til redningsstasjonene. Rømningsveienes beskyttelse mot brann og eksplosjon i de forskjellige områder skal vurderes – også med hensyn til de ulykkeslaster som kan oppstå som følge av f.eks. en ukontrollert utblåsing av gass/olje i brønnområdet, eller som følge av gassutslipp fra mudbehandlingssystemet, rør, gass-separator o.l. utstyr.

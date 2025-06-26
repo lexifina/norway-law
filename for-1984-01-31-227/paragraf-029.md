@@ -1,0 +1,2 @@
+# § 29. Utstyr som tas ombord.
+Utstyr som sendes om bord av operatørselskap/serviceselskap o.l. som f.eks. verkstedscontainere, testutstyr, loggeutstyr etc. skal gjennom operatørs/serviceselskapets sikkerhetsstyringssystem være sjekket og dokumentert i orden før det kommer ombord. Utstyret skal være tilpasset det utstyr det koples til (f.eks. trykklasse/barrierer) og den plassering (soneområde) det får ombord. Nødavstengningsprosedyre for slikt utstyr skal være klarlagt, enten utstyret er tilkoplet innretningens eget nødavstengningssystem eller ikke.
