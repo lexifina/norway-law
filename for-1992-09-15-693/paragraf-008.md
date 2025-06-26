@@ -1,0 +1,4 @@
+# § 8. Kontroll av dagbøker
+På anmodning av Sjøfartsdirektoratet, havnemyndigheter, Kystverket, tollvesenet, politiet, Fiskeridirektoratet, Kystvakten og Statens vegvesen for så vidt gjelder riks- og fylkesvegferjer, eller andre som Sjøfartsdirektoratet bemyndiger, er skipets fører pliktig til å fremvise dagbøkene og i tilfelle utlevere bekreftet utskrift eller kopi av dem når skipet befinner seg i norsk havn.
+Dette gjelder også utenfor havn dersom det foreligger mistanke om at skipet ikke er sjødyktig eller det er skjellig grunn til mistanke om at skipet har foretatt ulovlig utslipp.
+På anmodning av Sjøfartsdirektoratet, norske utenriksstasjoner eller av vedkommende utenlandske myndighet, er skipets fører pliktig til å forholde seg som nevnt i første ledd når skipet befinner seg i utenlandsk havn.

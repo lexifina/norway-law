@@ -1,0 +1,4 @@
+# § 8A. Innsyn i dagbøker
+Enhver som påviser en rettslig interesse i å bli kjent med innholdet av bøkene og de kladdebøker som i tilfelle er ført, kan kreve å få se dem og ta avskrift. Med mindre Sjøfartsdirektoratet påbyr det, gjelder dette likevel ikke for tilfelle hvor skipet har støtt sammen med fremmed skip, dersom det ikke blir gitt tilsvarende adgang til dette skips bøker.
+For skipsbøker som er ført på dansk, finsk eller svensk skip, får reglene i første ledd tilsvarende anvendelse når skipet befinner seg i norsk havn. Det samme gjelder skipsbøker som er ført på andre fremmede skip, dersom ikke Sjøfartsdirektoratet bestemmer annet.
+Det som er bestemt om skipsbøker i første og annet ledd, gjelder også opptegnelser som blir gjort på mekanisk måte om bord vedrørende skipets navigering eller andre forhold som omhandles i skipsbøkene. Det samme gjelder reglene i annet ledd dersom ikke Sjøfartsdirektoratet bestemmer annet.
