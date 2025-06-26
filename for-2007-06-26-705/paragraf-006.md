@@ -1,0 +1,4 @@
+# § 6. Ekstraarbeid på grunn av sikkerhetstjeneste
+Skipsføreren kan i tillegg til bestemmelsene i § 4 og § 5 kreve at sjøfolk skal arbeide så mange timer som er nødvendig for å trygge skipets sikkerhet, personer om bord eller last, eller for å yte hjelp til andre skip eller personer i havsnød. Det samme kan gjøres gjeldende i forbindelse med håndheving av tollbestemmelser, samt karantene- og andre helsemessige bestemmelser.
+Etter første ledd kan skipsføreren sette til side arbeidsordningen eller hviletid som er forutbestemt og kreve at sjøfolk skal arbeide så mange timer som er nødvendig inntil situasjonen er normalisert.
+I tilfeller som nevnt i første ledd skal skipsføreren, så snart som praktisk mulig etter at situasjonen er normalisert, sørge for at sjøfolk som har utført arbeid under en fastsatt hvileperiode får tilstrekkelig hvile.
