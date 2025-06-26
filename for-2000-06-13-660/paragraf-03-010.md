@@ -1,0 +1,5 @@
+# § 3-10. Stabilitetsopplysninger
+(1) Egnede stabilitetsopplysninger, slik som trim og stabilitetsbok, skal av reder være forelagt skipsføreren slik at skipsfører med letthet og sikkerhet kan vurdere fartøyets stabilitet ved forskjellige driftstilstander. Slik informasjon skal omfatte spesifikke instruksjoner til skipsføreren der det advares mot de driftstilstander som kan ha en ugunstig innvirkning på fartøyets stabilitet eller trim. Stabilitetsopplysningene skal forelegges Sjøfartsdirektoratet for godkjennelse.
+(2) Godkjente stabilitetsopplysninger skal oppbevares om bord slik at de er lett tilgjengelig til enhver tid, og skal kontrolleres i forbindelse med besiktelser av fartøyet for å påse at de er godkjent for de faktiske driftstilstander.
+(3) En enkel instruks som oppsummerer kritiske begrensninger med referanse til stabilitet, lasteevne og fribord skal slås opp om bord.
+(4) Dersom det foretas endringer som påvirker et fartøys stabilitet, skal reviderte stabilitetsberegninger utarbeides og forelegges Sjøfartsdirektoratet for godkjennelse.

@@ -1,0 +1,11 @@
+# § 7-10. Livbøyer
+(1) Det skal være minst følgende antall livbøyer som oppfyller bestemmelsene i § 7-27 første ledd:
+1) Åtte livbøyer på fartøy med lengde (L) på 75 meter eller mer.
+2) Seks livbøyer på fartøy med lengde (L) på 45 meter eller mer, men med lengde (L) under 75 meter.
+3) Fire livbøyer på fartøy med lengde (L) på 24 meter eller mer, men med lengde (L) under 45 meter.
+4) Tre livbøyer på fartøy med lengde (L) under 24 meter.
+(2) Fiskefartøy med lengde (L) 24 meter eller mer som ble bygd eller omfattende ombygd før 1. juli 2000 kan istedenfor første ledd ha minst én godkjent livbøye for hver tredje person om bord. Dette gjelder også fiskefartøy med lengde (L) under 24 meter som ble bygd eller omfattende ombygd før 1. april 2001. Antall livbøyer trenger ikke være mer enn 8.
+(3) Minst halvparten av antallet livbøyer som er angitt i første ledd nr. 1 til 3 skal være utstyrt med selvtennende bøyelys som oppfyller kravene i § 7-27 annet ledd. Fartøy som nevnt i første ledd nr. 4 skal være utstyrt med minst ett selvtennende bøyelys.
+(4) Minst to av livbøyene som er utstyrt med selvtennende lys i samsvar med tredje ledd, skal ha selvvirkende røyksignaler som oppfyller kravene i § 7-27 tredje ledd, og skal kunne frigjøres raskt fra styrehus/bro. Fartøy som nevnt i første ledd nr. 4, skal ha minst ett selvvirkende røyksignal. For fartøy som nevnt i annet ledd gjelder denne bestemmelsen for fartøy på 45 meter lengde (L) og større.
+(5) Minst én livbøye på hver side av fartøyet skal være utstyrt med en flytende redningsline som oppfyller kravene i § 7-27 fjerde ledd, med en lengde som er lik minst det dobbelte av høyden fra vannlinjen til det stedet den er plassert om bord med fartøyets minste driftsdypgående, eller 30 meter, alt etter hvilken lengde som er størst. Slike livbøyer trenger ikke ha selvtennende bøyelys. For fartøy som nevnt i første ledd nr. 4 skal minst én livbøye være utstyrt med flytende redningsline som beskrevet ovenfor.
+(6) Alle livbøyer skal plasseres slik at de er lett tilgjengelige for personene om bord, de skal alltid være klare til å frigjøres og må ikke være permanent festet på noen måte. Hver livbøye skal være merket med fartøyets navn og hjemsted eller kallesignal med store bokstaver og tall.

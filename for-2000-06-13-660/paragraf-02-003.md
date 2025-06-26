@@ -1,0 +1,3 @@
+# § 2-3. Vanntett integritet
+(1) Utvendige åpninger skal kunne lukkes værtett for å forhindre at vann trenger inn i fartøyet. Luker i dekk som kan være åpne under fiske, skal normalt være arrangert nær fartøyets senterlinje. I større lukedeksler, over 4 m2, skal det til bruk under drift være anbrakt små lukedeksler nærmest mulig fartøyets senterlinje. Større lukedeksler skal ha tilsettinger også på eventuell hengselside. Hengslede lukedeksler skal kunne sikres i åpen stilling. Sjøfartsdirektoratet kan godkjenne andre arrangementer dersom sikkerheten ikke reduseres.
+(2) Fiskeluker på hekktrålere skal være kraftoperert og kunne betjenes fra et sted der det er fritt utsyn til lukene.

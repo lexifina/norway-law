@@ -1,0 +1,13 @@
+# § 3-12. Baughøyde
+(1) Baughøyden skal være tilstrekkelig til å hindre at urimelig mye sjø slår inn over værdekket.
+(2) Baughøyde i millimeter målt vertikalt ved forstevnen fra utrimmet vannlinje med fribord midtskips tilsvarende største tillatte driftsdypgående, jf. § 3-13, til utsatt dekk skal minst være:
+1) 48 · LOA + 190 for fartøy med lengde (L) på 24 meter eller mer, og
+2) 43 · LOA + 310 for fartøy med lengde (L) under 24 meter.
+3) Hvor baughøyden som kreves i 1 og 2 oppnås ved spring, skal springet strekke seg over minst 0,20 · LOA målt fra forreste del av skroget. Hvor baughøyden oppnås ved at det er anbrakt overbygning skal denne være lukket og strekke seg fra forstevnen til et punkt minst 0,10 · LOA aktenfor forreste del av skroget.
+(3) For fartøy med lengde (L) på 24 meter eller mer bygd etter 1. januar 2003 skal baughøyden tilfredsstille følgende krav:
+1) For fartøy som tar ombord fangsten via luker plassert på åpent værdekk foran dekkshus eller overbygning, skal baughøyde i mm målt vertikalt ved forstevnen fra utrimmet vannlinje med fribord midtskips tilsvarende største tillatte driftsdypgående, jf. § 3-13, til utsatt dekk, minst være:H = 1000 · K1 · L · (1 + (L/K2)) hvor:LK1K224 m ≤ L < 110 m0,117-220L ≥ 110 m5,991/L1484
+2) For fartøy som tar ombord fangsten via luker plassert på åpent værdekk beskyttet av et dekkshus eller overbygning skal baughøyde i mm målt vertikalt ved forstevnen fra utrimmet vannlinje med fribord midtskips tilsvarende største tillatte driftsdypgående, jf. § 3-13, til utsatt dekk, være den største av følgende verdier:H = 56 · L · (1 – (L/500)) · (1,36/(CB + 0,68)) hvor: CB er blokkoeffisienten som ikke må regnes mindre enn 0,68. eller: 2000 millimeter.
+3) Ved beregning av aktuell baughøyde i henhold til nr. 1 kan skansekledning medregnes i en høyde på inntil 1 meter, forutsatt at det er anbrakt skansekledning i denne høyde fra forstevnen til et punkt minst 0,15 · L målt fra forre perpendikulær. For fartøy med akterlig trim i alle driftstilstandene, jf. § 3-7, kan det tas hensyn til minste akterlige trim ved beregning av aktuell baughøyde i henhold til nr. 1.
+4) Hvor baughøyden som kreves i nr. 1 oppnås ved spring, skal springet strekke seg over minst 0,15 · L målt fra forre perpendikulær.
+5) Hvor baughøyden som kreves i nr. 2 oppnås ved spring, skal springet strekke seg over minst 0,15 · L målt fra forre perpendikulær. Hvor baughøyden oppnås ved at det er anbrakt overbygning skal denne være lukket, og strekke seg fra forstevnen til et punkt minst 0,07 · L aktenfor forre perpendikulær.
+(4) Sjøfartsdirektoratet kan tillate redusert baughøyde for fartøy med sertifikat for fartsområde Fjordfiske, jf. § 1-21.

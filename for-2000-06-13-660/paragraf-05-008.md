@@ -1,0 +1,7 @@
+# § 5-8. Konstruksjonsdetaljer
+(1) Metode IF. I oppholdsrom, arbeidsrom og kontrollstasjoner skal alle kledninger, tetningslekter, himlinger og deres underlag være av ubrennbare materialer.
+(2) Metode IIF og IIIF. I korridorer og trappeinnhegninger som betjener oppholdsrom, arbeidsrom og kontrollstasjoner, skal himlinger, kledninger, trekkstoppere og deres underlag være av ubrennbare materialer.
+(3) Metode IF, IIF og IIIF
+1) Unntatt i lasterom og kjøle- og fryseavdeling i arbeidsrom skal isolasjonsmaterialer være ubrennbare. Dampsperrer og lim brukt i forbindelse med isolasjon, samt isolasjon av røropplegg for kjøle- og fryseanlegg, trenger ikke være av ubrennbart materiale, men de skal brukes i så liten utstrekning som praktisk mulig, og udekkede overflater skal være motstandsdyktige mot flammespredning i henhold til kravene som nærmere angitt i vedlegg 2. I maskinrom skal isolasjonsmaterialenes overflate være ugjennomtrengelig for olje og oljedamp.
+2) Når ubrennbare skott, kledninger og himlinger er montert i oppholds- og arbeidsrom, kan de være utstyrt med brennbart overflatebelegg med en tykkelse på maksimalt 2,0 millimeter. I korridorer, trappeinnhegninger og kontrollstasjoner skal tykkelsen ikke overstige 1,5 millimeter.
+3) Lukkede luftrom bak himlinger, paneler eller kledninger skal være oppdelt med tettsluttende trekkstoppere montert med maksimalt 14 meters mellomrom. Vertikalt skal slike rom, herunder rom bak kledninger i trapper, sjakter mv., være avstengt ved hvert dekk.

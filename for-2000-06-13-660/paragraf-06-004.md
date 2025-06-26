@@ -1,0 +1,10 @@
+# § 6-4. Skansekledninger, rekkverk og beskyttelsesanordninger
+(1) Forsvarlige skansekledninger eller rekkverk skal plasseres på alle utsatte deler av arbeidsdekk, og på dekk av overbygninger når disse er arbeidsplattformer. Høyden over dekk for skansekledninger eller rekkverk skal være minst én meter. Der denne høyden vanskeliggjør normal drift av fartøyet, kan Sjøfartsdirektoratet godkjenne en lavere høyde, likevel ikke lavere enn 600 millimeter.
+(2) Den minste vertikale avstand fra dypeste driftsvannlinje til laveste punkt av skansekledningens overkant, eller til kanten av arbeidsdekket dersom det er anbrakt rekkverk, skal være tilstrekkelig til å sikre besetningen tilfredsstillende beskyttelse mot overvann, idet det tas hensyn til den sjøgang og de værforhold fartøyet kan komme til å arbeide under, driftsområder, samt fartøyets type og fiskemetode.
+(3) Åpningen under rekkverkets laveste stang skal ikke være større enn 230 millimeter. Avstanden mellom andre stenger skal ikke være mer enn 380 millimeter, og avstanden mellom rekkestøttene skal ikke være mer enn 1,5 meter. På fartøy med avrundede vaterbordsplater skal støtter for rekkverk plasseres på den flate delen av dekket. Rekkverk skal være uten skarpe deler, kanter og hjørner og ha tilstrekkelig styrke.
+(4) Det skal være anordnet tilfredsstillende midler slik som holdetau, håndrekker, gangbroer eller passasjer under dekk til beskyttelse når besetningen skal bevege seg mellom oppholdsrom, maskinrom og andre arbeidsrom. Rekkverk eller annet tilsvarende utstyr skal anordnes i den utstrekning som er nødvendig, på utsiden av alle dekkshus og casinger for å sikre besetningen ved passasje eller under arbeid (Rdir. 1993/103/EØF).
+(5) Diverse sikkerhetsforhold (Rdir. 1993/103/EØF)
+1) Porten eller stengselet foran trålslippen skal bare holdes åpen under setting og haling av trål og skal ikke hindre drenering av dekk.
+2) Det skal tas forholdsregler for å stabilisere innhalt fangst mv. Dette gjelder spesielt
+a) anordning for feste av tråldører, og
+b) anordninger som hindrer fangstposen å svinge ut.

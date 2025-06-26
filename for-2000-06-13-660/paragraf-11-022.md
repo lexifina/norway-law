@@ -1,0 +1,2 @@
+# § 11-22. Fiske i tropiske farvann
+På fartøy som fisker i tropiske farvann eller i andre farvann hvor insekter er en plage, skal det sørges for å beskytte besetningens oppholdsrom ved anbringelse av insektnett foran lysventiler, luftrør, luftinntak til det mekaniske ventilasjonsanlegg og dører til åpent dekk. I luftkondisjonert oppholdsrom er det tilstrekkelig med insektnett ved utgangsdørene i korridorene. Slike fartøy skal være utstyrt med solseil eller soltak over hvileplasser på dekk.

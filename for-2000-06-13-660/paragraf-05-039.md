@@ -1,0 +1,2 @@
+# § 5-39. Bærbare brannslokningsapparater i kontrollstasjoner, oppholdsrom og arbeidsrom
+(1) Et tilstrekkelig antall godkjente, bærbare brannslokningsapparater skal være anbrakt i kontrollstasjoner og oppholdsrom og arbeidsrom for å sikre at minst ett slokningsapparat er lett tilgjengelig i enhver del av slike rom. Samlet antall slokningsapparat i slike rom skal imidlertid ikke være mindre enn tre.

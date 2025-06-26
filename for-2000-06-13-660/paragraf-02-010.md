@@ -1,0 +1,3 @@
+# § 2-10. Luftrør
+(1) Dersom luftrør til tanker og rom under dekk strekker seg over arbeids- eller overbygningsdekket, skal de utsatte deler av rørene ha en styrke som tilsvarer den tilstøtende konstruksjon og være utstyrt med egnet beskyttelse. Luftrørsåpninger skal være utstyrt med lukningsmidler permanent festet til røret eller tilstøtende konstruksjon.
+(2) Høyde over dekk til det punkt der vann kan trenge ned, skal være minst 760 millimeter på arbeidsdekket og minst 450 millimeter på overbygningsdekket. Sjøfartsdirektoratet kan godta redusert luftrørshøyde dersom driftshensyn gjør dette påkrevet.

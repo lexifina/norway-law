@@ -1,0 +1,3 @@
+# § 2-8. Andre åpninger i dekk
+(1) Dersom driftshensyn gjør det påkrevet, kan det aksepteres luker i flukt med dekket av skrutype, bajonettype eller tilsvarende, samt mannhull. Slike innretninger skal være permanent festet til den tilstøtende konstruksjon, og åpningene skal kunne lukkes vanntett. Under hensyn til åpningenes størrelse og plassering og lukningsmidlenes utførelse, kan metall-mot-metall-lukking benyttes.
+(2) Andre åpninger enn luker, maskinromsåpninger, mannhull og små luker i flukt med arbeids- eller overbygningsdekket skal være beskyttet av lukket oppbygning utstyrt med værtette dører eller tilsvarende. Nedgangskapper skal være plassert så nær fartøyets senterlinje som praktisk mulig.

@@ -1,0 +1,5 @@
+# § 6-21. Oppbevaring og bruk av brennstoff, sprengstoff og visse giftige produkter
+(1) Dersom ekstra brennstoff ikke kan anbringes på åpent dekk, skal det være anbrakt i egnede beholdere i eget lett tilgjengelig godt ventilert rom eller skap med dør kun til åpent dekk. Skott og dør til rommet eller skapet skal ha brannisolasjon tilsvarende A-60.
+(2) Oppbevares sprengstoff om bord, skal dette lagres i originalemballasje i stålkasser og oppbevares i eget låsbart skap eller rom atskilt fra brannfarlige og giftige produkter. Sprengstoff og tennsatser skal lagres atskilt, og mengden av sprengstoff skal begrenses til minimumsbehovet.
+(3) Ved anvendelse av sprengstoff, krutt, tennmidler e.l., skal det ved hvert enkelt oppdrag eller ekspedisjon tas kontakt med Direktoratet for brann- og eksplosjonsvern for utarbeidelse av instruks om anvendelsen.
+(4) Oppbevaring og bruk av giftige stoffer og forbud mot anskaffelse, oppbevaring og bruk av metanol, samt anskaffelse, oppbevaring og bruk av absolutt alkohol om bord i fartøy, skal skje i samsvar med forskrift 1. januar 2005 nr. 8 om arbeidsmiljø, sikkerhet og helse for arbeidstakere på skip kapittel 11.

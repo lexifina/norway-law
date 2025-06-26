@@ -1,0 +1,2 @@
+# § 11-4. Drikkevann
+Skipsføreren skal ha ansvaret for at det er drikkevann i tilstrekkelig mengde om bord. Vannet skal være hygienisk betryggende og dessuten være klart, uten fremtredende lukt, smak eller farge, og for øvrig tilfredsstille kvalitetsnormer for drikkevann. Drikkevannet skal kontrolleres jevnlig av kompetent personell. Til slik kontroll skal det finnes nødvendig utstyr. Sosial- og helsedepartementet kan gi utfyllende forskrifter om krav til, og kontroll av drikkevann og drikkevannsanlegg som skal følges.

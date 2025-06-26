@@ -1,0 +1,2 @@
+# § 4-7. Samband mellom styrehus og maskinrom
+Det skal være installert to separate systemer for kommunikasjon mellom styrehuset og framdriftsmaskineriets kontrollsted hvorav ett kan være en maskintelegraf. På fartøy med lengde (L) under 45 meter med fremdriftsmaskineri som er direkte kontrollerbart fra styrehuset og hvor det også er mulighet for nødmanøvrering fra maskinrom, skal det være tilfredsstillende kommunikasjon mellom styrehus og maskinrom.
