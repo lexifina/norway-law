@@ -1,0 +1,2 @@
+# § 9. Plassering av livbåter, redningsflåter og HMOB-båter
+Livbåter, redningsflåter og HMOB-båter som ikke er sertifisert for bruk i eksplosjonsfarlig område, skal plasseres utenfor eksplosjonsfarlige områder. Med eksplosjonsfarlige områder menes alle områder hvor det på grunn av mulighet for tilstedeværelse av eksplosjonsfarlig atmosfære kan oppstå eksplosjon eller brann ved bruk av uegnet utstyr, maskineri eller elektrisk utstyr.
