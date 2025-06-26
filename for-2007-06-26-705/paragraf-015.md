@@ -1,0 +1,3 @@
+# § 15. Utbedring av mangler
+Dersom det ved inspeksjoner etter § 13 første ledd eller § 14 viser seg at kravene i denne forskrift ikke overholdes, skal tilsynet treffe de tiltak som er nødvendige for å utbedre ethvert forhold om bord som klart utgjør en fare for sjøfolkenes sikkerhet eller helse og for å unngå fremtidige brudd, herunder revisjon av skipets bemanning.
+Når sjøfolk med ansvar for første vakt eller de påfølgende vakter viser tretthetstegn som kan medføre at vedkommende ikke vil kunne ivareta sine arbeidsoppgaver, skal det påses at skipet ikke forlater havn før de påviste mangler er utbedret, eller sjøfolkene er tilstrekkelig uthvilte.
