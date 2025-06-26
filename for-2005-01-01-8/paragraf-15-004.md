@@ -1,0 +1,6 @@
+# § 15-4. Måleutstyr
+(1) Måling av lydtrykknivå skal utføres ved bruk av integrerende presisjonslydnivåmålere som er etter kravene i kapittelet her. Slike målere skal være produsert i samsvar med standarden IEC 61672-1 (2002-05) type/klasse 1, etter hva som er relevant. Annen standard enn IEC 61672-1 (2002-05) kan brukes hvis rederiet fremlegger dokumentasjon for Sjøfartsdirektoratet som viser at standarden er likeverdig. Lydnivåmålere av type/klasse 1 som er produsert i samsvar med IEC 651/IEC 804, kan brukes inntil 1. juli 2016.
+(2) Oktavfiltersett, som brukes enten alene eller sammen med en lydnivåmåler, skal være i samsvar med IEC 61260 (1995). Annen standard enn IEC 61260 (1995) kan brukes hvis rederiet fremlegger dokumentasjon for Sjøfartsdirektoratet som viser at standarden er likeverdig. Med «oktavfiltersett» menes oktavbånd- og fraksjonsoktavbåndfilter.
+(3) Lydkalibratorer skal være i samsvar med standard IEC 60942 (2003-01), og skal være godkjent av produsenten av lydnivåmåleren som brukes.
+(4) Kalibrator og lydnivåmåler skal verifiseres minst annethvert år av et norsk referanselaboratorium eller av et kompetent laboratorium akkreditert etter ISO/IEC 17025:2005/Cor 1:2006.
+(5) En mikrofonvindskjerm skal brukes når målinger foretas ute, herunder på brovinger eller på dekk, og under dekk hvis det forekommer betydelige luftbevegelser.

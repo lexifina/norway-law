@@ -1,0 +1,3 @@
+# § 15-23. Varselskilt
+(1) Når støynivået i maskinrom eller andre rom er høyere enn 85 dB(A), skal innganger til slike rom ha varselskilt som omfatter symboler og utfyllende tekst på fartøyets arbeidsspråk, som tilsvarer eksempelet på varselskilt og symboler i paragrafen her.
+(2) Berørte områder skal også avgrenses, og atkomsten til dem begrenses, der dette er teknisk gjennomførbart og risikoen for eksponering gjør det berettiget.Skilt ved inngangen til støyende rom (eksempel på norsk)80-85 dB(A)HØYT STØYNIVÅ – BRUK HØRSELSVERN85-110 dB(A)FARLIG STØY – BRUK AV HØRSELSVERN PÅBUDT110-115 dB(A)ADVARSEL: FARLIG STØY – BRUK AV HØRSELSVERN PÅBUDT – KUN OPPHOLD I KORTERE TID>115 dB(A)ADVARSEL: MEGET FARLIG STØY – BRUK AV HØRSELSVERN PÅBUDT – HØYST 10 MINUTTERS OPPHOLD

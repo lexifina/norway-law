@@ -1,0 +1,8 @@
+# § 9-2. Sikkerhetstiltak ved bruk av høytrykksutstyr, malersprøyter, sandblåsingsutstyr, spylearrangement m.m.
+(1) Når skadelig støv eller gasser kan forekomme under arbeid, skal åndedrettsorganene beskyttes. Dersom sprøytemaling e.l. foretas i lukket rom, skal det anordnes forsvarlig kontinuerlig ventilasjon.
+(2) Det skal være instruks om bruk av sprøytepistol, spyleapparat e.l.
+(3) Avtrekker på bl.a. sprøytepistol, skal ikke kunne fastsettes i åpen stilling. Ventilen skal være sikret mot utilsiktet utløsning f.eks. ved en påsatt bøyle.
+(4) Høytrykksslanger og utstyr som koples til disse skal være sertifisert for det arbeidstrykk og de væsker som anvendes. Skadet utstyr skal ikke anvendes.
+(5) Tungt spyleutstyr med høyt trykk og stor rekyl skal festes til stativ som er anbrakt slik at det blir stående i samme posisjon selv om spyleutstyret slippes. Hvis spyleutstyret benyttes til å spyle gjennom rørledninger e.l., skal strålestykket festes til rørledningen før vanntrykket settes på.
+(6) Den som har sitt arbeid om bord som arbeider med sandblåsing skal utstyres med nødvendig verneutstyr som f.eks. tettsittende briller, hjelm, ansiktsskjerm, friskluftutstyr mv. Anvendes luft fra kompressorer skal den renses gjennom filtre. Den som har sitt arbeid om bord som skal utføre sandblåsing eller betjene høytrykkssprøyter eller høytrykksspyleutstyr, skal være opplært i å anvende utstyret.
+(7) Bruksanvisning skal medfølge høytrykkssprøyte og høytrykksspyleutstyr. Videre skal det om bord foreligge instruks om bruken av utstyret, der faremomentene ved bruk av høytrykkssprøyte og spyleutstyr skal fremheves. Anvisningene om bruk av utstyret skal nøye følges.

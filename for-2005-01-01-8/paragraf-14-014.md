@@ -1,0 +1,2 @@
+# § 14-14. Overgangsbestemmelser
+Gjennomføring av bestemmelsene § 14-9 for arbeidsutstyr, skal først komme til anvendelse 5 år fra den 6. juli 2005, hvis det benyttes arbeidsutstyr som ble stilt til de som har sitt arbeid om bord sin rådighet før 6. juli 2007 og som ikke kan overholde grenseverdiene for eksponering selv når det tas hensyn til de seneste tekniske framskritt og organisatoriske foranstaltninger.

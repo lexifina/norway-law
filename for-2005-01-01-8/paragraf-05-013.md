@@ -1,0 +1,3 @@
+# § 5-13. Nødvendig tid til verne- og miljøarbeid
+(1) Verneombud og medlemmer av arbeidsmiljøutvalget skal ha nødvendig tid til å utføre sine oppgaver på en forsvarlig måte uten at dette går ut over den som har sitt arbeid om bord sin pålagte hviletid og i alminnelighet innenfor vanlig arbeidstid. Må vedkommende avbryte arbeidet, skal personen underrette sin nærmeste overordnede.
+(2) Skipsføreren og rederiet skal sørge for at vervet som verneombud eller medlem av arbeidsmiljøutvalget ikke medfører inntektstap for de som har sitt arbeid om bord, eller på annen måte fører til at deres arbeids- og ansettelsesvilkår forringes.

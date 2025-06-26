@@ -1,0 +1,2 @@
+# § 1-1. Formål
+Formålet med denne forskrift er å sikre at arbeid og fritid om bord tilrettelegges og organiseres slik at de som har sitt arbeid om bord sin sikkerhet og fysiske og psykiske helse ivaretas i samsvar med den teknologiske og sosiale utviklingen i samfunnet. Forskriften skal videre sikre at de som har sitt arbeid om bord sin sikkerhet og helse beskyttes mot farer som oppstår eller kan oppstå ved eksponering for kjemikalier og biologiske faktorer i arbeidsmiljøet.

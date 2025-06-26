@@ -1,0 +1,3 @@
+# § 15-5. Måling av støy
+(1) For fartøy som er omfattet av § 15-19, skal måling av støynivåer i alle rom spesifisert i § 15-19 annet ledd utføres ved fullføring av byggingen av fartøyet, eller så raskt som praktisk mulig deretter. Målingene skal utføres under driftsforholdene spesifisert i § 15-7, og skal registreres i en inspeksjonsrapport, jf. § 15-28.
+(2) Målinger av det A-veide ekvivalente kontinuerlige lydnivået, LAekv (T) skal utføres, og målinger av det C-veide ekvivalente kontinuerlige lydnivået, LCekv (T) og det C-veide maksimale lydnivået LCmaks skal utføres i rom der LAekv (T) overskrider 85 dB(A).

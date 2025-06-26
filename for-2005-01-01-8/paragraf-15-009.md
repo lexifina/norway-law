@@ -1,0 +1,5 @@
+# § 15-9. Måleprosedyrer
+(1) Under måling av støynivå skal kun personer som er nødvendig for driften av fartøyet, samt personer som foretar målingene, være til stede i det aktuelle rommet.
+(2) Avlesninger av lydtrykknivå skal foretas i desibel ved hjelp av et A-veiefilter (dB(A)) og C-veiefilter (dB(C)), og om nødvendig også i oktavbånd mellom 31,5 og 8000 Hz.
+(3) Støynivåmålingene skal foretas med den integrerende lydnivåmåleren ved hjelp av romlig gjennomsnittsutregning, jf. § 15-14 annet ledd, og over en tidsperiode frem til stabile avlesninger er funnet eller minst 15 s for å representere gjennomsnittsverdien fra variasjoner grunnet uregelmessig drift eller variasjoner i lydfeltet. Avlesninger skal kun foretas til nærmeste desibel. Hvis den første desimalen av dB-avlesningen er 5 eller høyere, skal avlesningen rundes opp til nærmeste heltall.
+(4) For et fartøy som ikke er satt i drift, kan samsvar med kravene i § 15-19 verifiseres basert på sjøprøvingsmålinger av støynivåer ved beregning av den forventede støyeksponeringen for hver kategori av stillingsgrupper etter metoden beskrevet i § 15-10.
