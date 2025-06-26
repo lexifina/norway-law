@@ -1,0 +1,6 @@
+# § 5-15. Opplysningsplikt og årsrapport
+(1) Verneombud og medlem av arbeidsmiljøutvalg er pliktig til å gi opplysninger til norsk utenriksstasjon og Sjøfartsdirektoratet. Det samme gjelder i forhold til spørsmål om utskrift av vernebok eller protokoll.
+(2) Verneombud og medlem av arbeidsmiljøutvalg skal ha adgang til de opplysninger som er nødvendige, for å kunne utføre sine plikter. På ethvert fartøy bør det være litteratur om vernearbeid, som skal være tilgjengelig for alle.
+(3) Arbeidsmiljøutvalget skal hvert år innen 31. januar utarbeide en samlet rapport om verne- og miljøarbeidet om bord for det foregående kalenderåret. Rapporten skal sendes til Sjøfartsdirektoratet ved forespørsel fra direktoratet. Ved inspeksjon fra Sjøfartsdirektoratet skal rapporten for foregående kalenderår vises frem. Årsrapporten skal utarbeides på skjema fastsatt av Sjøfartsdirektoratet.
+(4) På fartøy i lokalfart, som har opprettet arbeidsmiljøutvalg etter § 5-10, utarbeider hvert utvalg en samlet årsrapport.
+(5) Verneombudet og skipsføreren skal på fartøy hvor det ikke skal være arbeidsmiljøutvalg, avgi årsrapport i samsvar med bestemmelsene i tredje ledd. Der det ikke er verneombud skal skipsføreren avgi årsrapport.

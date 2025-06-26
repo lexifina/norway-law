@@ -1,0 +1,6 @@
+# § 9-4. Arbeid i høyden
+(1) Når det arbeides slik at det er fare for å falle ned, skal det brukes sikkerhetssele med tilhørende sikkerhetsline. Foregår arbeidet slik at sikkerhetssele og sikkerhetsline ikke kan brukes, skal det når dette er nødvendig, festes et nett eller tas like betryggende forholdsregler for å unngå ulykker.
+(2) Stiger skal oppsettes slik at de er stødige i bruk. Stiger som henger skal festes på en slik måte at de ikke kan forskyve seg eller begynne å svinge.
+(3) Bærende deler i stillas skal sikres mot utglidning, enten ved at de festes til underlaget, utstyres med en sklisikker innretning eller på andre, like effektive måter, og den belastede overflaten skal ha tilstrekkelig bæreevne. Stillaset skal være stabilt.
+(4) Avhengig av hvilket arbeidsutstyr som velges, skal det fastslås hvilke tiltak som er egnet til å minimere risikoen de som har sitt arbeid om bord utsettes for. Ved behov skal det monteres sikringsinnretninger mot fall. Disse innretningene skal være utformet på en slik måte, og være så sterke at de kan hindre eller stoppe fall, og i størst mulig grad hindre at de som har sitt arbeid om bord skades.
+(5) For øvrig gjelder kravene i vedlegg 1; Bestemmelser om bruk av arbeidsutstyr til midlertidig arbeid i høyden.

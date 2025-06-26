@@ -1,0 +1,3 @@
+# § 15-24. Helseovervåking og hørselskontroll
+(1) Hvis noen som har sitt arbeid om bord, eksponeres for støy som overskrider de øvre tiltaksverdiene for støyeksponering i § 15-18 tredje ledd bokstav a, har vedkommende rett til å få hørselen kontrollert. Hørselskontrollen skal utføres av lege, eller av en annen person med tilstrekkelige kvalifikasjoner som står under en leges ansvar.
+(2) Hvis noen som har sitt arbeid om bord, eksponeres for støy som overskrider de nedre tiltaksverdiene for støyeksponering i § 15-18 tredje ledd bokstav b, skal vedkommende få tilbud om forebyggende hørselskontroll når risikovurderingene og målingene som skal utføres etter § 15-3, viser at det foreligger en helserisiko.

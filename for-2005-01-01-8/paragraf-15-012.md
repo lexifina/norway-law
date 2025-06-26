@@ -1,0 +1,4 @@
+# § 15-12. Målepunkter
+(1) Målinger skal foretas med mikrofonen på en høyde på mellom 1,2 m (sittende person) og 1,6 m (stående person) fra dekket. Målinger skal ikke foretas nærmere enn 0,5 m fra grensene til et rom. Mikrofonposisjonene skal være som spesifisert i tredje ledd og § 15-13 til § 15-15. Målingene skal foretas ved posisjoner der personell arbeider, inkludert ved kommunikasjonsstasjoner.
+(2) Støynivået skal måles ved alle punkter der arbeid utføres. Ytterligere målinger skal foretas i rom som inneholder tjenestestasjoner når variasjoner i støynivå er antatt å forekomme i nærheten av tjenestestasjonene.
+(3) Ved måling av støynivåer skal mikrofonen, der dette er mulig, ikke plasseres innenfor en vinkel på 30° fra retningen av gasstrømmen, og på en avstand ikke mindre enn 1 m fra kanten av innløps- eller avtrekksåpningen til motorer, ventilasjon, klimaanlegg og kjølesystemer, og så langt borte som mulig fra reflekterende overflater.

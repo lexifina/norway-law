@@ -1,0 +1,4 @@
+# § 5-10. Arbeidsmiljøutvalgets sammensetning for fartøy i lokalfart
+(1) Arbeidsmiljøutvalget skal bestå av hovedverneombudene eller inntil tre verneombud når det ikke er hovedverneombud, en representant for rederiadministrasjonen og to skipsførere. I tillegg kan det blant maskinsjefene velges en egen representant til utvalget. Andre som har sitt arbeid om bord kan innkalles til utvalgets møter etter behov.
+(2) Arbeidsmiljøutvalget velger selv sin leder, og kan også oppnevne en sekretær. I den utstrekning det finnes hensiktsmessig, kan utvalget pålegge enkelte av dets medlemmer spesielle oppgaver med hensyn til opplæring, rettledning eller andre forhold som faller inn under utvalgets oppgaver.
+(3) Arbeidsmiljøutvalget skal også behandle spørsmål som angår vernearbeidet på de av rederiets fartøy i lokalfart som ikke har eget verneombud.

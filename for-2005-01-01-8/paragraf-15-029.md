@@ -1,0 +1,9 @@
+# § 15-29. Dispensasjoner
+(1) Sjøfartsdirektoratet kan etter søknad gi dispensasjon fra ett eller flere av kravene i kapittelet her når det er verne- og helsemessig forsvarlig, og det er dokumentert at oppfyllelse av kravet eller kravene ikke vil være mulig på tross av relevante og rimelige tekniske støyreduksjonstiltak. Sjøfartsdirektoratet kan kreve at rederiet fremlegger sakkyndig uttalelse i forbindelse med søknaden, og kan fastsette særlige vilkår for dispensasjonen. Før slik dispensasjon gis, skal rederiet dokumentere at
+a) behovet for talekommunikasjon og for å høre lydalarmer er ivaretatt,
+b) støynivået ikke er til hinder for konsentrasjonen når avgjørelser skal tas på kontrollstasjoner, navigerings- og radiorom, samt bemannede maskinrom,
+c) de som har sitt arbeid om bord, er beskyttet fra støynivåer som kan medføre støyindusert hørselstap,
+d) det er en akseptabel grad av komfort i hvilerom, rekreasjonsrom og andre rom,
+e) det er sørget for egnede forhold for restitusjon fra virkningen av eksponering for høye støynivåer, og
+f) grenseverdier for støyeksponering og øvre tiltaksverdi for støyeksponering i § 15-18 ikke overskrides.
+(2) I særlige tilfeller kan Sjøfartsdirektoratet etter søknad gi dispensasjon fra § 15-16 og § 15-21, hvis fullt og korrekt bruk av hørselsvern på grunn av arbeidets art vil kunne medføre en større risiko for sikkerhet og helse enn hvis hørselsvern ikke brukes. Slike dispensasjoner kan bare innvilges etter konsultasjon med partene i arbeidslivet, og eventuelt med norske helsemyndigheter. Dispensasjonen skal inneholde vilkår som sikrer at helserisikoen reduseres til lavest mulig nivå, og at de som er berørt av dispensasjonen får økt helseovervåking. Videre skal slik dispensasjon tas opp til fornyet vurdering hvert fjerde år, og tilbakekalles hvis årsakene til at dispensasjonen ble gitt, ikke lenger er til stede.
