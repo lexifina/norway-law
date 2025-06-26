@@ -1,0 +1,4 @@
+# § 12. Belastning
+(1) Helikopterdekket skal være dimensjonert ut fra den forutsetning at et hvilket som helst punkt på dekket kan påføres en enkeltlast lik 75 % av totalvekten av det tyngste helikopter som benyttes. Enkeltlasten regnes jevnt fordelt over kontaktflatens areal. Kontaktflaten mellom helikopterets landingsunderstell og helikopterdekk fastsettes i henhold til oppgave fra helikopterprodusenten.
+(2) De bærende konstruksjoner under helikopterdekket skal være dimensjonert for en statisk belastning lik 3,0 ganger høyeste startvekt av det tyngste helikopter som benyttes, med den for dette helikopter normale vektfordeling på understellet. Helikopteret forutsettes plassert i den minst gunstige posisjon på dekket.
+(3) Ved de i første og annet ledd angitte belastninger av helikopteret sammen med konstruksjonens egenvekt og vindpåkjenninger er de tillate spenninger lik materialets flytespenninger, likevel ikke over 2/3 av bruddgrensen.
