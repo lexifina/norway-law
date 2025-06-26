@@ -1,0 +1,3 @@
+# § 13. Tilsyn med tilpassing om bord
+Skipsføreren skal føre et spesielt tilsyn med hvordan personer under 18 år tilpasser seg forholdene om bord og i havn. Om nødvendig skal skipsføreren sørge for at det utpekes en egen kontaktperson for slik ungdom.
+Har skipsfører i utenriksfart grunn til å tro at det hos slik ungdom er inntrådt fysiske eller psykiske forstyrrelser som antas å gjøre det utilrådelig at vedkommende fortsetter tjenesten, skal skipsføreren etter å ha undersøkt forholdene bringe tjenesteforholdet om bord til opphør og fatte beslutning om hjemsendelse av den unge. Skipsfører skal, hvis det er mulig, rådføre seg med lege før slik beslutning fattes.

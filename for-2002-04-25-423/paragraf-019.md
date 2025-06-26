@@ -1,0 +1,4 @@
+# § 19. Plikter og rettigheter for utplassert ungdom
+De unge skal følge de ordensregler som gjelder om bord, og behandle andre ombordværende på en sømmelig måte. De kan ta med seg ting til personlig bruk om bord i et rimelig omfang.
+De unge skal utføre arbeidet etter beste evne i samsvar med instrukser. De skal bruke verneutstyr og ellers medvirke til å hindre ulykker og helseskader. Videre plikter de unge å innrette sin fritid slik at de er uthvilte og forøvrig i stand til å utføre sitt arbeid.
+Under skipets opphold i havn har den unge normalt rett til å gå i land i sin fritid om dagen og vanlig kveldstid. Skipsføreren avgjør om den unge kan gå i land. Ved avgjørelsen skal det tas hensyn til skipets avgang, den enkelte unges alder, modenhet og pålitelighet, forholdene i havnen og andre forhold av betydning. Skipsføreren skal fastsette tid når den unge skal være ombord.
