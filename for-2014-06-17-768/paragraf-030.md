@@ -1,0 +1,4 @@
+# § 30. Rømningsveier, mønstringsstasjoner og belysning
+(1) Rømningsveier, mønstrings- og innskipningsstasjoner, skal være belyst med fastmonterte lyskilder som er forsynt fra hovedkraftkilde og nødkraftkilde.
+(2) Den elektriske nødkraftkilden kan være et akkumulatorbatteri med kapasitet til å betjene lyskildene i minst tre timer. Rederiet skal etablere dokumenterbare rutiner for å sikre at batteriene lades og vedlikeholdes i henhold til produsentens anbefalinger.
+(3) Rømningsveier skal ha en kapasitet som gir sikker rømning. Mønstringsstasjonene skal ha en fri dekksflate på minimum 0,35 m2 pr. person om bord. Mønstringsstasjonene skal være utformet slik at en effektiv kontroll med de ombordværende er mulig og være plassert i tilknytning til steder hvor personene går om bord i redningsfarkostene. Dersom mønstringsstasjon ikke kan legges i umiddelbar nærheten av innskipningsstasjon, skal rømningsvei mellom disse ha en kapasitet som gir sikker rømning.

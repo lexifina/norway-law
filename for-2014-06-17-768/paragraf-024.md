@@ -1,0 +1,6 @@
+# § 24. Marine evakueringssystemer (MES)
+(1) Skip hvor avstanden fra vannlinjen i lettskipstilstand til innskipningsdekk er lik eller større enn 1,5 meter, i en hvilken som helst intakt eller skadet tilstand i henhold til godkjente stabilitetsberegninger, skal være utstyrt med rattmerket marine evakueringssystemer (MES), eller et annet likeverdig arrangement som gjør at redningsmidlene kan bordes på en sikker måte. For skip som ikke har krav til stabilitetsberegninger, jf. kapittel 3, måles avstanden fra vannlinjen i lettskipstilstand til innskipningsdekk.
+(2) Løse sklier som kan festes til redningsflåtene aksepteres som likeverdig arrangement til MES, forutsatt at rederiet fremlegger dokumentasjon fra produsenten som viser at skliene kan festes sikkert til redningsflåtene og til innskipningsstasjonene.
+(3) MES skal så langt det er praktisk mulig være likt fordelt på begge sider av skipet.
+(4) Redningsflåtene skal kunne fortøyes til innskipningsstasjonen på forsvarlig måte.
+(5) Innskipningsstasjoner og -arrangement skal være installert slik at disse er operasjonelle ved en krengning på inntil 10 grader til hvilken som helst side. Alternativt skal skipet minst ha en innskipningsstasjon med tilhørende arrangement på hver side, med en kapasitet på minst det totale antall personer skipet er sertifisert for.
