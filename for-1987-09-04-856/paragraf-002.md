@@ -1,0 +1,5 @@
+# § 2. Virkeområde
+1. Denne forskrift gjelder for innretninger som er registrert eller skal registreres i norsk skipsregister.
+2. Innretninger som er registrert i norsk skipsregister, kan, frem til neste sertifikatutstedelse, følge de krav som gjaldt ved siste sertifikatutstedelse.
+3. For innretninger som for en lengre periode skal anvendes i eller bygges spesielt for operasjon i områder utenfor Nordsjøen, kan andre løsninger enn de som er fastsatt i denne forskrift, godtas dersom de lokale forhold tilsier at dette er forsvarlig. Forutsetningen er at sikkerheten for mannskap og materiell tilsvarer det som gjelder for operasjon i Nordsjøen med innretning bygget og drevet i samsvar med de bestemmelser som gjelder for slik virksomhet. I denne forbindelse vil Sjøfartsdirektoratet eller den det bemyndiger kunne sertifisere flyttbare innretninger etter IMOs «Code for the Construction and Equipment of Mobile Offshore Drilling Units, 1989» (1989 MODU-kode, Resolution A.649(16)).
+4. Rederiet skal foreta en samlet sikkerhetsvurdering og dokumentere at alternative løsninger som nevnt i nr. 3 ovenfor gir tilfredsstillende sikkerhet.
