@@ -1,0 +1,3 @@
+# § 26. Overgangsbestemmelse for mobil tilvirkningsenhet for eksplosiver (MEMU)
+Mobil tilvirkningsenhet for eksplosiver (MEMU) som ble bygget og godkjent i henhold til nasjonale bestemmelser før 1. juli 2009, men som ikke oppfyller kravene i ADR til konstruksjon og godkjenning som gjaldt fra 1. januar 2009, kan benyttes med nasjonal godkjenningsattest for kjøretøyet.
+Nasjonal godkjenningsattest for MEMU kan gis til kjøretøy som tilfredsstiller konstruksjonskravene som gjaldt da enheten ble bygget, samt betingelsene som er angitt i enhetens opprinnelige vedtak om godkjenning uavhengig av godkjenningens varighet.

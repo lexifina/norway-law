@@ -1,0 +1,2 @@
+# § 23. Overgangsbestemmelse for tanker og tankkjøretøy
+Tanker og tankkjøretøyer som ikke tilfredsstiller nåværende krav til konstruksjon, men som ble bygget før 1. januar 1997 i overensstemmelse med norske bestemmelser, kan likevel benyttes for innenlands transport frem til og med 31. desember 2019, dersom de tilfredsstiller de opprinnelige krav til sikkerhet samt at inspeksjon og prøver utføres i samsvar med bestemmelsene i ADR.

@@ -1,0 +1,2 @@
+# § 36. Fravik
+DSB kan fravike bestemmelsene i denne forskriften i enkelttilfeller når særlige grunner foreligger og det ikke strider mot internasjonale avtaler som Norge har inngått. Fravik må være begrenset i tid og gjelde for tydelige definerte transportoperasjoner. Det kan settes særskilte betingelser for slike fravik. Ved vurderingen av om fravik skal gis legges spesielt vekt på at sikkerhetsnivået opprettholdes på tross av et fravik.

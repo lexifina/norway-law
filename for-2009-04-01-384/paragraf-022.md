@@ -1,0 +1,2 @@
+# § 22. Nasjonal godkjenningsattest for kjøretøy som transporterer farlig gods
+Kjøretøy som ikke oppfyller de relevante kravene i ADR kapittel 9 for det farlige godset som skal transporteres, men som er tillatt brukt i henhold til en nasjonal overgangsbestemmelse i denne forskriften, skal ha en nasjonal godkjenningsattest for kjøretøyet. Denne attesten er kun gyldig i Norge. Teknisk kontroll og fornyelse av attesten skal skje årlig slik det er foreskrevet for ADR-godkjente kjøretøyer i ADR avsnitt 9.1.2.3 og 9.1.3.4.

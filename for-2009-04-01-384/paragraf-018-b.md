@@ -1,0 +1,3 @@
+# § 18b. Tanktransport av UN 3375, mellomprodukt for sprengstoff
+Produkter klassifisert og godkjent som UN 3375 AMMONIUMNITRAT EMULSJON, LØSNING eller GEL, flytende eller fast stoff, og som har bestått testene a, b og c i testserie 8 i UN Testmanualen, del I seksjon 18, kan transporteres uten at egnetheten for transport i tank er ytterligere bevist ved prøving, dersom transporten skjer i tank som er tilvirket av aluminium. Når det benyttes aluminiumstank for UN 3375 på mobile tilvirkningsenheter for eksplosiver (MEMU), kreves det ikke sprengblekk eller andre særskilte trykkavlastningsordninger på tanken.
+Denne bestemmelsen gjelder ikke for transport i multimodale tanker.
