@@ -1,0 +1,2 @@
+# § 1. EØS-regler om kredittvurderingsbyråer
+EØS-avtalen vedlegg IX nr. 31eb (forordning (EF) nr. 1060/2009) om kredittvurderingsbyråer (kredittvurderingsbyråforordningen), som endret ved forordning (EU) nr. 513/2011, direktiv 2011/61/EU, forordning (EU) nr. 462/2013 og forordning (EU) 2022/2554, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren § 1, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

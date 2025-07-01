@@ -1,0 +1,2 @@
+# § 3. Utlevering av opplysninger til EFTA-domstolen
+Når EFTA-domstolen behandler en sak som angår kredittvurderingsbyråforordningen som gjennomført i § 1 eller i forskrift gitt i medhold av loven, kan enhver uten hinder av lovbestemt taushetsplikt gi domstolen de opplysninger som domstolen kan kreve i medhold av avtale om Det europeiske økonomiske samarbeidsområde og avtale mellom EFTA-statene om opprettelse av et overvåkingsorgan og en domstol.
