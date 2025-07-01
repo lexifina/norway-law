@@ -1,0 +1,3 @@
+# § 7. (myndighet for departementet til å gi særlige bestemmelser for viktige natur- og friluftsområder og til begrensning av kommunens myndighet etter §§ 5 og 6 og statsforvalterens myndighet etter § 5).
+Departementet kan gi nærmere regler om kommunens bruk av myndigheten etter §§ 5 og 6 og kan fastsette at det ikke skal kunne gis tillatelse til visse former for motorferdsel eller visse bruksformål. Departementet kan gi nærmere regler om statsforvalterens bruk av myndigheten etter § 5.
+Departementet kan for særlig verdifulle natur- og friluftsområder ved forskrift forby eller gi nærmere bestemmelser for motorferdsel som ikke er tillatt etter § 4 første ledd, herunder også for motorferdsel på privat veg.
