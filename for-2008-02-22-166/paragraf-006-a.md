@@ -1,0 +1,2 @@
+# § 6a. Dokumentasjonsplikt
+Underleverandører skal på forespørsel fra hovedleverandør dokumentere at krav til lønns- og arbeidsvilkår etter allmenngjøringsforskrifter etterleves. Leverandører har en tilsvarende dokumentasjonsplikt overfor bestiller som driver næringsvirksomhet, i tilfeller der det ikke benyttes underleverandører. Personopplysninger som ikke er nødvendige for å ivareta påseplikten, skal ikke utleveres til hovedleverandør eller bestiller.

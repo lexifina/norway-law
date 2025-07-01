@@ -1,0 +1,6 @@
+# Til § 8
+Første ledd
+Innsynsbegjæringen skal fremmes skriftlig overfor hovedleverandør/tillitsvalgtes arbeidsgiver.
+Begjæringen skal angi grunnlaget for innsynsretten. Dette innebærer at den tillitsvalgte skal opplyse om sin tilknytning til den aktuelle tariffavtalen og vise til hvilken allmenngjøringsforskrift som regulerer de lønns- og arbeidsvilkår det kreves innsyn i. Innsynsbegjæringen skal videre angi hvilke virksomheter og arbeidstakergrupper den gjelder. Det kan bare kreves innsyn i lønns- og arbeidsvilkår til arbeidstakere som utfører arbeid som er omfattet av en allmenngjøringsforskrift.
+Andre ledd
+For å sikre at innsynsretten blir et effektivt virkemiddel til å kontrollere at allmenngjøringsforskrifter etterleves, må opplysningene utleveres så snart som mulig etter at innsynsbegjæringen er fremsatt. I henhold til andre ledd skal det fastsettes en frist for utlevering av opplysninger i innsynsbegjæringen. Det er lagt opp til en viss fleksibilitet ved at fristen skal avtales mellom den tillitsvalgte og arbeidsgiver i det enkelte tilfelle, men slik at fristen likevel skal være på minimum tre dager. Se under merknadene til § 9 andre ledd om mulige konsekvenser dersom partene ikke skulle greie å komme frem til en avtalt frist.
