@@ -1,0 +1,5 @@
+# § 6-9. Sakleg og geografisk avgrensing av saka
+Jordskifteretten skal gjere ei sakleg og geografisk avgrensing av saka i samsvar med det eller dei krava som reisast, og som partane har fått ytre seg om.
+Retten kan setje ein frist for partane til å fremje krav om den saklege eller geografiske avgrensinga av saka. Krav som er sette fram etter denne fristen, skal avvisast dersom retten ikkje finn gode grunnar for krava. Det skal mellom anna takast omsyn til kva dei andre partane meiner om krava, og om saka vil bli mykje forseinka.
+Retten skal ta avgjerd om avgrensinga så snart det er grunnlag for det.
+Om retten meiner det må til for å bøte på dei utenlege eigedomstilhøva i eit jordskifteområde, kan han av eige tiltak gå utanom den geografiske avgrensinga i dei krava som er reiste, og ta med attverande delar av dei eigedommane som jordskiftet gjeld. Jordskifteområdet kan likevel ikkje utvidast meir enn det som trengst for å få løyst saka slik ho er sakleg avgrensa etter dei krava som er reiste.

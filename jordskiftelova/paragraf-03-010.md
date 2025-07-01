@@ -1,0 +1,5 @@
+# § 3-10. Skiping av lag og fastsetjing av vedtekter. Driftsselskap
+Jordskifteretten kan skipe lag for drift eller vedlikehald når fleire skal bruke eigedom eller har bruksrett. Jordskifteretten kan òg endre eksisterande lag.
+Jordskifteretten skal fastsetje vedtekter for lag han skipar. I eksisterande lag skal vedtektene endrast i den mon endringar i bruksreglar eller endringar i laget tilseier det.
+Tiltak som kan innebere stor risiko, kan berre gjennomførast av eit driftsselskap. Laget tek avgjerd om gjennomføring ved fleirtalsvedtak. Kvar av deltakarane har rett til å vere med i driftsselskapet så langt det svarar til høvetalet. Om nokon vil vere med som ikkje røysta for, skal det seiast frå så snart råd er og seinast tre veker etter at han har fått skriftleg melding om vedtaket med opplysing om denne fristen. Driftsselskapet skal svare vederlag for utnyttingsretten til laget, som fordelar dette til deltakarane etter høvetalet deira.
+Når partane er samde, kan andre tiltak enn nemnt i tredje ledd første punktum gjennomførast av eit driftsselskap. Tredje ledd tredje og femte punktum gjeld tilsvarande.

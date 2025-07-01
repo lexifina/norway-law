@@ -1,0 +1,3 @@
+# § 3-1. Verkemiddel for å bøte på utenlege eigedomstilhøve
+Jordskifteretten kan bruke verkemidla i §§ 3-4 til 3-10 for å bøte på utenlege eigedomstilhøve slik det går fram av § 3-2. Ei jordskiftesak kan omfatte eitt eller fleire av desse verkemidla. Om jordskifteretten brukar verkemiddel etter §§ 3-4 til 3-10, kan han òg bruke verkemidla i §§ 3-11 og 3-12.
+For jordskifte i bygdeallmenningar gjeld lov 19. juni 1992 nr. 59 om bygdeallmenninger § 1-4. For jordskifte i statsallmenningar gjeld lov 6. juni 1975 nr. 31 om utnytting av rettar og lunnende m.m. i statsallmenningane § 16 og lov 19. juni 1992 nr. 60 om skogsdrift mv. i statsallmenningene § 4-2. For jordskifte i dei samiske reinbeiteområda gjeld lov 15. juni 2007 nr. 40 om reindrift § 62 a.
