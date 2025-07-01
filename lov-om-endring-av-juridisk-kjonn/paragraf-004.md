@@ -1,0 +1,4 @@
+# § 4. Endring av juridisk kjønn for barn
+Barn som har fylt 16 år kan selv søke om endring av juridisk kjønn.
+Barn mellom 6 og 16 år må søke om endring av juridisk kjønn sammen med den eller de som har foreldreansvar for barnet. Dersom foreldre har felles foreldreansvar, men søknaden fremmes sammen med bare en av dem, kan det juridiske kjønnet likevel endres dersom dette er til barnets beste.
+Søknad om endring av juridisk kjønn for barn under 6 år fremmes av den eller de som har foreldreansvar for barnet. Barn som er i stand til å danne seg egne synspunkter om det saken gjelder, skal informeres og gis mulighet til å uttale seg før søknaden fremmes. Det er et vilkår for endring at barnet har en medfødt usikker somatisk kjønnsutvikling. Søker må legge frem dokumentasjon på tilstanden fra helsepersonell.
