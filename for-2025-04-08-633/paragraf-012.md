@@ -1,0 +1,4 @@
+# § 12. Stans og tilbakebetaling av tilskudd
+Kommunal- og distriktsdepartementet kan fatte vedtak om midlertidig stans i utbetaling av tilskudd til organisasjoner som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger, eller når det av andre årsaker er berettiget grunn til å frykte at midlene ikke blir brukt i tråd med formålet.
+Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med forskriften og vedtaket om tilskudd, kan vedtaket om tilskudd omgjøres. Det utbetalte beløpet kan i slike tilfeller kreves tilbakebetalt.
+Har en tilskuddsmottaker ved en feil har fått utbetalt for mye tilskudd, kan det som er for mye utbetalt kreves tilbakebetalt. Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
