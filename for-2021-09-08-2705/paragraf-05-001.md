@@ -1,0 +1,8 @@
+# § 5-1. Bruk av akkrediterte interne organer
+Søkeren kan bruke et akkreditert internt organ til samsvarsvurderingsvirksomhet der målet er å gjennomføre framgangsmåtene fastsatt i modul A1, A2, C1 eller C2 angitt i vedlegg II til beslutning nr. 768/2008/EF, og modul CA1 og CA2 angitt i vedlegg I til beslutning 2010/713/EU i forskrift om framgangsmåter for vurdering av samsvar, bruksegnethet og EF-verifisering (forskrift om vurdering av EF-verifisering mv). Et slikt organ skal utgjøre en atskilt og egen del av den aktuelle søkeren og ikke delta i konstruksjon, produksjon, levering, installering, bruk eller vedlikehold av de produktene det vurderer.
+Et akkreditert internt organ skal oppfylle følgende krav:
+a) Det skal være akkreditert i samsvar med EØS-vareloven.
+b) Organet og dets personale skal være organisatorisk atskilt fra foretaket som de utgjør en del av, ha rapporteringsmetoder som sikrer at de er upartiske, og dokumentere dette overfor Norsk Akkreditering.
+c) Verken organet eller dets personale skal ha ansvar for konstruksjon, produksjon, levering, installering, drift eller vedlikehold av de produktene som de vurderer, og de skal heller ikke delta i virksomhet som kan være i strid med deres uavhengighet eller integritet i forbindelse med vurderingsvirksomheten.
+d) Organet skal yte sine tjenester bare overfor det foretaket som det utgjør en del av.
+Et akkreditert internt organ skal ikke meldes til medlemsstatene eller ESA, men foretaket som det er en del av, eller Norsk akkreditering, skal gi informasjon om organets akkreditering til Statens jernbanetilsyn dersom tilsynet ber om det.
