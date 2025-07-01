@@ -1,0 +1,4 @@
+# § 6-9. Avslag på søknad om tillatelse
+Enhver avgjørelse som nekter tillatelse til å bringe et kjøretøy i omsetning eller utelukker en del av jernbanenettet i samsvar med en negativ vurdering som nevnt i § 6-7, skal være begrunnet. Søkeren kan innen én måned regnet fra mottak av den negative beslutningen, be om at Byrået eller Statens jernbanetilsyn, etter hva som er relevant, gjennomgår avgjørelsen på nytt. Byrået eller Statens jernbanetilsyn skal ha en frist på to måneder fra og med mottak av anmodningen om ny gjennomgåelse til å bekrefte eller omgjøre sin avgjørelse.
+Dersom Byråets negative avgjørelse blir bekreftet, kan søkeren sende en klage til klageinstansen utpekt i henhold til artikkel 55 i forordning (EU) 2016/796.
+Dersom Statens jernbanetilsyns negative avgjørelse blir bekreftet, kan søkeren sende en klage til klageinstansen i henhold til forvaltningslovens regler.

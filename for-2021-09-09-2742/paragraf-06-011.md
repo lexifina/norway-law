@@ -1,0 +1,3 @@
+# § 6-11. Utvidelse av bruksområdet til et kjøretøy som har fått tillatelse
+Dersom søkeren ønsker å utvide bruksområdet for et kjørety som allerede har fått tillatelse, skal dokumentasjonen suppleres med de dokumentene som er relevante for utvidelsen av bruksområdet. Søkeren skal oversende dokumentasjonen til Byrået, som kan gi en oppdatert tillatelse som omfatter det utvidede bruksområdet.
+Dersom søkeren har mottatt en kjøretøytillatelse av Statens jernbanetilsyn og ønsker å utvide bruksområdet i Norge, skal søkeren supplere dokumentasjonen med de dokumentene som er relevante for utvidelsen av bruksområdet. Søkeren skal oversende dokumentasjonen til Statens jernbanetilsyn som kan gi en oppdatert tillatelse som omfatter det utvidede bruksområdet.
