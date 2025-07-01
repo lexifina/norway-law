@@ -1,0 +1,4 @@
+# § 2. Grupper av eldre, langtidssyke og uføre i institusjon og hjemmesykepleie
+Når eldre, langtidssyke og uføre i institusjon og hjemmesykepleie har hatt institusjonsopphold eller pleie av hjemmesykepleien i sammenhengende 3 måneder eller mer, skal disse gis vederlagsfrie tannhelsetjenester, inkludert eventuelle utgifter til tanntekniske arbeider, så lenge oppholdet eller pleien vedvarer.
+For tannhelsetjenester som blir gitt før institusjonsoppholdet eller hjemmesykepleien har vart i 3 måneder, kan kreves vederlag som under § 1, dersom oppholdet eller omsorgen ikke forventes å vare over 3 måneder.
+Tannbehandling som har sammenheng med eller påvirker den sykdom pasienten er innlagt for eller får pleie for, skal ytes vederlagsfritt selv om institusjonsoppholdet eller pleien ikke har vart i 3 måneder.
