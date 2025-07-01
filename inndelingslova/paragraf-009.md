@@ -1,0 +1,5 @@
+# § 9. Saksutgreiing
+Departementet avgjer om det skal setjast i gang utgreiing på grunnlag av initiativ etter § 8 og tar i tilfelle stilling til kva som er nødvendig omfang av denne. Avgjerd etter første punktum er ikkje enkeltvedtak etter forvaltningsloven § 2 første ledd bokstav b. Avgjerd om ikkje å setje i gang utgreiing bør likevel bli grunngitt i samsvar med reglane i forvaltningsloven § 25 og kan påklagast i samsvar med reglane i forvaltningsloven kapittel VI.
+Departementet kan avvise søknad frå søkjarar som ikkje har initiativrett. Avvisinga skal vere skriftleg og grunngitt.
+Kommunale, fylkeskommunale og statlege forvaltningsorgan skal gi nødvendige opplysningar og i rimeleg utstrekning medverke ved saksførebuinga, etter oppmoding frå den som gjer utgreiinga.
+Før det blir gjort vedtak om grenseendring eller grensefastsetjing, skal dei kommunane eller fylkeskommunane saka gjeld, få uttale seg. I saker om samanslåing eller deling må kommunestyret eller fylkestinget sjølv uttale seg.

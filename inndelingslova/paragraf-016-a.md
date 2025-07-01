@@ -1,0 +1,2 @@
+# § 16 a. Innmelding i ROBEK-registeret ved samanslåing
+Dersom éin eller fleire av kommunane eller fylkeskommunane som skal slåast saman, står i ROBEK-registeret etter kommuneloven § 28-1 første ledd, kan departementet fram til samanslåinga vert sett i verk, bestemme at den nye kommunen eller fylkeskommunen skal førast inn i ROBEK-registeret. Dette gjeld berre dersom ein må rekne med at den nye kommunen eller fylkeskommunen vil ta over eit så stort meirforbruk frå før samanslåinga at det er behov for å kontrollere årsbudsjettet og låneopptak.
