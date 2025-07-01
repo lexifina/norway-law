@@ -1,0 +1,2 @@
+# § 3. Ungdom og unge voksne fra 19 til 28 år
+Ungdom og unge voksne, fra det året de fyller 19 til og med det året de fyller 28, skal ikke betale større vederlag enn 25 prosent av departementets fastsatte takster, inkludert eventuelle utgifter til tanntekniske arbeider. For behandling som Helsedirektoratet eller det organ som Helsedirektoratet bestemmer gir hel eller delvis refusjon for kan kreves vederlag som under § 1 av dem som fyller 19 til 28 år i behandlingsåret.
