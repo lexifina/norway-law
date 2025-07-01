@@ -1,0 +1,2 @@
+# § 3. EØS-regler om Den europeiske verdipapir- og markedstilsynsmyndighet
+EØS-avtalen vedlegg IX nr. 31i (forordning (EU) nr. 1095/2010) om opprettelse av en europeisk tilsynsmyndighet (Den europeiske verdipapir- og markedstilsynsmyndighet), som endret ved direktiv 2011/61/EU og forordning (EU) nr. 2023/1114, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
