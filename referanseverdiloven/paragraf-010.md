@@ -1,0 +1,3 @@
+# § 10. Forbud mot å ha ledelsesfunksjon
+(1) Dersom styremedlemmer, andre tillitsvalgte, oppdragstakere eller ansatte i foretak med tillatelse eller godkjenning av registrering etter denne loven har overtrådt eller medvirket til overtredelse av bestemmelser gitt i eller i medhold av loven her, kan Finanstilsynet fatte vedtak om at vedkommende ikke kan inneha ledelsesfunksjon i administrator som nevnt i § 2 eller bidragsytere under tilsyn, dersom overtredelsen eller medvirkningen til denne medfører at vedkommende må anses uskikket til å inneha slik ledelsesfunksjon.
+(2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
