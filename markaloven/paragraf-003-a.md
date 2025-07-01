@@ -1,0 +1,2 @@
+# § 3 a. Unntak fra krav i loven for Forsvaret
+Dersom et tiltak krever bruk av sikkerhetsgradert informasjon etter sikkerhetsloven § 5-3, eller tiltaket berører objekt eller infrastruktur som Forsvarsdepartementet har utpekt eller vil utpeke som skjermingsverdig i medhold av sikkerhetsloven § 7-1, er tiltaket unntatt fra forbudet mot bygge- og anleggstiltak i § 5 og krav om tillatelse for bygge- og anleggstiltak etter § 14 eller dispensasjon etter § 15. Forsvaret skal i slike tilfeller vektlegge ivaretakelsen av markalovens formål.
