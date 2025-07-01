@@ -1,0 +1,9 @@
+# § 3-3. Fremgangsmåten for utstedelse av EF-samsvarserklæringer eller EF-erklæringer om bruksegnethet
+Det er bestemmelsene i de relevante TSI-ene som angir fremgangsmåten for å utstede en EF-samsvarserklæring eller en EF-erklæring om bruksegnethet for en samtrafikkomponent. Produsenten av samtrafikkomponenten eller dennes representant, som må være etablert i EØS, utsteder, daterer og signerer erklæringen.
+Dersom TSI-en krever det, skal EF-erklæringene følges av et sertifikat utstedt av ett eller flere meldte organer, om
+a) at en samtrafikkomponent isolert sett er i samsvar med de tekniske spesifikasjonene den skal oppfylle og
+b) at samtrafikkomponenten har bruksegnethet sett i forhold til det jernbanesystem den skal inngå i.
+Hvis samtrafikkomponenten også er omfattet av andre EØS-rettsakter, skal EF-samsvarserklæringen eller EF-erklæringen om bruksegnethet angi at samtrafikkomponentene også oppfyller disse kravene.
+Dersom verken produsenten eller dennes representant har utarbeidet EF-erklæringene i samsvar med første og tredje ledd, skal den som bringer samtrafikkomponentene i omsetning, gjøre det. Den som setter sammen samtrafikkomponenter eller deler av samtrafikkomponenter av ulik opprinnelse, eller som til eget bruk produserer samtrafikkomponenter, må utarbeide EF-erklæringene i samsvar med første og tredje ledd.
+Dersom Statens jernbanetilsyn fastslår at en EF-erklæring ikke er utarbeidet riktig, skal Statens jernbanetilsyn sikre at samtrafikkomponenten ikke bringes i omsetning. Statens jernbanetilsyn skal i slike tilfeller gi produsenten eller dennes representant pålegg om å bringe samtrafikkomponenten i samsvar med vilkårene fastsatt av vedkommende EØS-stat.
+Det er det meldte organet som søknaden er sendt til, som skal foreta samsvarsvurderingen eller vurderingen av bruksegnethet for en samtrafikkomponent.

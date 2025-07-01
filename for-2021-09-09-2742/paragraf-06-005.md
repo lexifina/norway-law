@@ -1,0 +1,7 @@
+# § 6-5. Byråets saksbehandling av søknad om tillatelse til å bringe kjøretøy i omsetning
+Ved behandlingen av søknaden vurderer Byrået de delene av dokumentasjonen som er angitt i § 6-3 annet ledd bokstav c og d, for å kontrollere at dokumentasjonen er fullstendig, relevant og sammenhengende med hensyn til de relevante TSI-ene. Byrået oversender søkerens dokumentasjon for det planlagte bruksområdet til Statens jernbanetilsyn. Tilsynet kontrollerer at dokumentasjonen er fullstendig, relevant og sammenhengende med hensyn til § 6-3 annet ledd bokstav d, de delene som er angitt i § 6-3 annet ledd bokstav b og c, og med hensyn til de relevante nasjonale reglene.
+Byrået kan be om at kjøretøyet verifiseres på jernbanenettet. Paragraf 6-4 gjelder tilsvarende.
+Ved unntak fra kravet om en eller flere TSI-er eller deler av dem som nevnt i § 2-3, skal Byrået ikke gi kjøretøytillatelse før fremgangsmåten fastsatt i § 2-4 og § 2-5 i denne forskriften har fått anvendelse.
+Byrået skal innen en måned etter at søknaden er mottatt, bekrefte at dokumentasjonen er fullstendig eller be søkeren om utfyllende opplysninger. Søkeren skal få en rimelig frist for å ettersende dokumentasjon.
+Søknad skal avgjøres innen en forhåndsfastsatt rimelig frist, og senest fire måneder etter at alle relevante opplysninger er mottatt. Søknader skal behandles i samsvar med de praktiske ordninger for tillatelsesprosessen som fastsatt i forordning (EU) 2018/545.
+Tillatelsene gitt av Byrået tillater omsetning av kjøretøy i hele EØS-området.

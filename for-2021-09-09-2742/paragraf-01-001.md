@@ -1,0 +1,2 @@
+# § 1-1. Formål
+Forskriften fastsetter de vilkårene som skal oppfylles for å oppnå samtrafikkevne på jernbanenettet på en måte som er forenlig med sikkerhetsforskriften. Hensikten er å definere et optimalt nivå for teknisk harmonisering, og gjøre det mulig å forenkle, forbedre og utvikle internasjonal jernbanetransport i EØS og med tredjestater. Forskriften skal bidra til å gjennomføre Det felles europeiske jernbaneområdet og gradvis gjennomføre det indre marked på jernbanen.

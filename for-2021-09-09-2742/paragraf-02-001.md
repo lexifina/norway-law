@@ -1,0 +1,3 @@
+# § 2-1. Innhold i TSI-ene
+Byrået utarbeider tekniske spesifikasjoner for samtrafikkevne (TSI) for hvert delsystem. Et delsystem kan omfattes av flere TSI-er, og en TSI kan omfatte flere delsystemer.
+Faste delsystemer skal være i samsvar med TSI-ene og gjeldende nasjonale regler på det tidspunktet søknaden om tillatelse til å ta i bruk ble sendt. Kjøretøy skal være i samsvar med TSI-ene og gjeldende nasjonale regler på det tidspunktet søknaden om tillatelse til å bringe et kjøretøy i omsetning ble sendt. Faste delsystemer og kjøretøy skal til enhver tid være i samsvar med og overholde TSI-ene som de oppfylte på søknadstidspunktet så lenge de er i bruk.

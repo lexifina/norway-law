@@ -1,0 +1,2 @@
+# § 6-4. Prøving for å verifisere kjøretøy
+Når det er nødvendig med prøving for å verifisere et kjøretøys tekniske forenlighet på jernbanenettet, kan Statens jernbanetilsyn gi en tidsbegrenset tillatelse til det. Infrastrukturforvalteren skal i samråd med søkeren gjøre sitt ytterste for at prøvingen kan finne sted innen tre måneder etter at søknad om tillatelse til å bringe kjøretøyet i omsetning er mottatt. Statens jernbanetilsyn skal eventuelt treffe tiltak for å sikre at slik prøving finner sted.

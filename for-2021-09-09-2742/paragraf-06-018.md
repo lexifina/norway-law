@@ -1,0 +1,6 @@
+# § 6-18. Sikkerhetstiltak når et kjøretøy eller en kjøretøytype ikke oppfyller grunnleggende krav
+Dersom de korrigerende tiltakene ikke sikrer at de grunnleggende kravene blir oppfylt, og dette medfører alvorlig sikkerhetsrisiko, kan Statens jernbanetilsyn fatte vedtak om midlertidige sikkerhetstiltak.
+Statens jernbanetilsyn og Byrået kan samtidig midlertidig tilbakekalle typetillatelsen for et kjøretøy. Vedtak om midlertidig tilbakekall av typetillatelse for kjøretøy kan prøves rettslig. Der Byrået har truffet vedtaket kan det også oversendes til voldgift hos klageinstansen utpekt etter forordning (EU) 2016/796 artikkel 55.
+Dersom det er gitt en tillatelse eller typetillatelse for en kjøretøytype som på tillatelsestidspunktet ikke oppfylte grunnleggende krav, kan Statens jernbanetilsyn og Byrået kalle tilbake eller endre tillatelsen etter en vurdering av effekten av de sikkerhetstiltak som er iverksatt.
+Dersom kjøretøyet på tillatelsestidspunktet ikke oppfylte grunnleggende krav knyttet til en del av kjøretøyets bruksområde, skal tillatelsen kalles tilbake eller endres slik at de relevante delene av bruksområdet utelukkes.
+Byrået eller Statens jernbanetilsyn skal informere innehaveren av tillatelsen eller typetillatelsen for kjøretøyet, og begrunne vedtaket.
