@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne lova er å leggje til rette for ei kommune- og fylkesinndeling som innafor ramma av det nasjonale fellesskap kan sikre eit funksjonsdyktig lokalt folkestyre og ei effektiv lokalforvaltning. Endringar i kommune- eller fylkesinndelinga bør medverke til å skape formålstenlege einingar som kan gi innbyggjarane og næringslivet tilfredsstillande tenester og forvaltning. Verksemda etter denne lova skal byggje på prinsippet om lokal medverknad og initiativrett til grenseendringar.
