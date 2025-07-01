@@ -1,0 +1,14 @@
+# § 12 A-12. Forskrifter
+Departementet kan gi forskrift om
+a) utforming av hensynssoner med krav om grunneierfinansiering, jf. § 12 A-1
+b) utforming av rekkefølgekrav for infrastruktur, krav om at infrastruktur skal være tilstrekkelig etablert før utbygging kan finne sted, og unntak fra slike krav, jf. §§ 12 A-1, 12 A-2 og 12 A-7
+c) hvilken infrastruktur det kan gis bestemmelser om, og krav til beskrivelser, kvalitetsnivå, saksbehandlingsregler for samtykke fra fylkeskommune eller staten, bestemmelser om merverdiavgift som det ikke gis fradragsrett eller kompensasjon for, og rentekompensasjon mv.
+d) forskuttering av kostnadsbidrag og infrastruktur, utforming av tilbakebetalingsplan for forskutterte midler og avtaler om rekkefølge på infrastruktur, dekning av finansieringskostnader, renteutgifter og -satser og frivillig bidrag, jf. § 12 A-3
+e) forhåndberegningen av de samlede estimerte kostnadene for infrastruktur og utregningen av kostnadsbidrag, bruk av byggekostnadsindekser og sakkyndige, tidsfrister, beregning av kostnadsbidrag som gjelder bruksendring eller hovedombygging, kriterier som kan inngå i vurderingen av hva som er urimelig tyngende, og bruk og nytte av infrastrukturen, jf. § 12 A-5
+f) periodevis oppdatering av de samlede estimerte kostnadene for infrastruktur, hva som kan regnes som fremtidig fare for finansiell over- eller underdekning av kostnader, og beregning av over- eller underskudd etter etablering av infrastruktur, jf. § 12 A-6 første ledd
+g) hvilke forpliktelser som skal framgå av rammetillatelsen, andre tidspunkter for innbetaling av kostnadsbidrag enn når det gis igangsettingstillatelse, kommunens kontroll av dokumentasjon, adgang til å kreve sikkerhetsstillelse, endring og bortfall av forpliktelser, jf. § 12 A-7
+h) begrensninger i kommunens disponering av innbetalte kostnadsbidrag og forskutterte midler, krav til dokumentasjon, tidsfrister, håndtering av manglende kostnadsdekning og anvendelse av innbetalte kostnadsbidrag som ikke blir brukt til infrastrukturetablering, jf. § 12 A-8
+i) innholdet i avtaler mellom kommunen og tiltakshaver om opparbeidelse av infrastruktur, hva som kan regnes som fastpris og uforutsette utgifter, unntak fra bruk av fastpris, utregning av etteroppgjør og kompensasjon for rentekostnader tilknyttet merverdiavgift, jf. § 12 A-9
+j) utfyllende regler om endring av hensynssone og bestemmelser med krav om grunneierfinansiering av infrastruktur og hva som kan regnes som mindre endring, jf. § 11-17, § 12-14 og § 12 A-10
+k) frister for kommunens behandling av reguleringsplaner med krav om grunneierfinansiering av infrastruktur, jf. §§ 12-11
+l) i hvilke situasjoner bruk av utbyggingsavtaler etter kapittel 17 er tillatt i stedet for, eller i kombinasjon med, hensynssone med krav om grunneierfinansiering etter dette kapittelet, jf. § 12-1 første ledd bokstav e.

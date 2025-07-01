@@ -1,6 +1,6 @@
 # § 12-7. Bestemmelser i reguleringsplan
 I reguleringsplan kan det i nødvendig utstrekning gis bestemmelser til arealformål og hensynssoner om følgende forhold:
-1) grad av utnytting, utforming, herunder estetiske krav, og bruk av arealer, bygninger og anlegg i planområdet,
+1) grad av utnytting, utforming, herunder estetiske krav, eiendomsinndeling og bruk av arealer, bygninger og anlegg i planområdet,
 2) vilkår for eller forbud mot former for bruk av arealer, bygninger og anlegg i planområdet, som oppdeling av boenheter til hybler og byggegrenser, for å fremme eller sikre formålet med planen, avveie interesser og ivareta ulike hensyn i eller utenfor planområdet,
 3) grenseverdier for tillatt forurensning og andre krav til miljøkvalitet i planområdet, samt tiltak og krav til ny og pågående virksomhet i eller av hensyn til forhold utenfor planområdet for å forebygge eller begrense forurensning,
 4) funksjons- og kvalitetskrav til bygninger, anlegg og utearealer, herunder krav for å sikre hensynet til helse, miljø, sikkerhet, universell utforming og barns særlige behov for leke- og uteoppholdsareal,

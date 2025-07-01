@@ -1,5 +1,5 @@
 # § 12-14. Endring og oppheving av reguleringsplan
 For utfylling, endring og oppheving av reguleringsplan gjelder samme bestemmelser som for utarbeiding av ny plan.
 Kommunestyret kan delegere myndigheten til å treffe vedtak om endringer i reguleringsplan når endringene i liten grad vil påvirke gjennomføringen av planen for øvrig, ikke går utover hovedrammene i planen, og heller ikke berører hensynet til viktige natur- og friluftsområder.
-Før det treffes slikt vedtak, skal saken forelegges berørte myndigheter, og eierne og festerne av eiendommer som direkte berøres av vedtaket, og andre berørte, skal gis anledning til å uttale seg. Jf. for øvrig § 1-9.
+Før det treffes slikt vedtak, skal saken forelegges berørte myndigheter, og eierne og festerne av eiendommer som direkte berøres av vedtaket, og andre berørte, skal gis anledning til å uttale seg. Ved avslag på et forslag til endring av en reguleringsplan gjelder § 12-11 tilsvarende. Jf. for øvrig § 1-9.
 Kommunestyret kan delegere myndigheten til å treffe vedtak om å oppheve plan som i det vesentlige er i strid med overordnet plan. Før det treffes slikt vedtak, skal eierne og festerne av eiendommer som direkte berøres av vedtaket, gis anledning til å uttale seg. Jf. for øvrig § 1-9.

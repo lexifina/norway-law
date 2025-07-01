@@ -1,5 +1,8 @@
-# § 17-3. Avtalens innhold
-En utbyggingsavtale kan gjelde forhold som kommunen har gitt bestemmelser om i arealdelen til kommuneplan eller reguleringsplan.
-Avtalen kan også regulere antallet boliger i et område, største og minste boligstørrelse, og nærmere krav til bygningers utforming der det er hensiktsmessig. Avtalen kan også regulere at kommunen eller andre skal ha fortrinnsrett til å kjøpe en andel av boligene til markedspris.
-Avtalen kan også gå ut på at grunneier eller utbygger skal besørge eller helt eller delvis bekoste tiltak som er nødvendige for gjennomføringen av planvedtak. Slike tiltak må stå i rimelig forhold til utbyggingens art og omfang og kommunens bidrag til gjennomføringen av planen og forpliktelser etter avtalen. Kostnadene som belastes utbygger eller grunneier til tiltaket, må stå i forhold til den belastning den aktuelle utbygging påfører kommunen.
-Avtalen kan uansett gjelde forskuttering av kommunale tiltak som er nødvendige for gjennomføringen av planvedtak.
+# § 17-3. Utbyggingsavtalens innhold
+En utbyggingsavtale kan inneholde bestemmelser om:
+a) at en grunneier eller utbygger skal besørge eller helt eller delvis bekoste tiltak som er nødvendige for gjennomføringen av planvedtak
+b) forskuttering av offentlig infrastruktur som er nødvendig for gjennomføring av planvedtak
+c) antallet boliger i et område, største og minste boligstørrelse og nærmere krav til bygningers utforming
+d) at kommunen eller andre skal ha fortrinnsrett til å kjøpe en andel av boligene til markedspris.
+Det kan ikke avtales at en grunneier eller utbygger helt eller delvis skal bekoste, forskuttere, gi lån til eller på annen måte finansiere sosial infrastruktur som skoler, barnehager, sykehjem eller tilsvarende tjenester som det offentlige etter lov skal skaffe til veie.
+En utbyggingsavtale kan ikke gjelde infrastrukturtiltak som er tilstrekkelig etablert i samsvar med kommuneplanens arealdel eller reguleringsplan, eller der etableringen er sikret. Det samme gjelder kostnader til drift av infrastrukturen og generelle løpende utgifter knyttet til utbygging.

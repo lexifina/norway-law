@@ -1,0 +1,13 @@
+# § 12 A-2. Bestemmelser til hensynssone med krav om grunneierfinansiering av infrastruktur m.m.
+Kommunen kan i nødvendig utstrekning gi bestemmelser til hensynssoner etter § 12 A-1, som følger:
+a) Det kan gis bestemmelse om ny infrastruktur, eller utvidelse, oppgradering, ombygging, flytting eller riving av eksisterende infrastruktur, som helt eller delvis skal finansieres av grunneierne og utbyggerne innenfor hensynssonen, og som er nødvendig for utbyggingen innenfor hensynssonen.
+b) Det kan gis bestemmelse til infrastruktur som nevnt i bokstav a om omfang, utforming, funksjons- og kvalitetskrav, standardnivå, avstand til midtlinje på veg, byggegrenser, krav om særskilt rekkefølge for infrastruktur eller at infrastrukturen skal være tilstrekkelig etablert før utbygging kan finne sted, samt forbud mot eller påbud om bestemte løsninger.
+c) Det kan gis bestemmelse om at en nærmere angitt infrastruktur som nevnt i bestemmelse etter bokstav a helt eller delvis skal bekostes av grunneieren eller utbyggeren selv.
+d) Det kan gis bestemmelse om tiltak etter § 20-1 første ledd bokstav a, d og n som det ikke skal betales kostnadsbidrag for.
+e) Det kan gis bestemmelse om at plikten til grunneierfinansiering av infrastrukturen skal gjelde for kortere tid enn 30 år.
+f) Det kan gis bestemmelse om justering av kostnadsbidraget med grunnlag i relevante byggekostnadsindekser fram til betaling skjer.
+g) Det kan gis bestemmelse om at betaling av kostnadsbidrag fra grunneiere eller utbyggere ikke skal anses som en hel eller delvis oppfyllelse av rekkefølgekrav for kommunal, fylkeskommunal eller statlig infrastruktur som gjelder for utbygging av eiendommen, jf. § 12 A-1 første ledd bokstav d.
+h) Det kan gis bestemmelse om merverdiavgift.
+Kommunen kan gi bestemmelse etter første ledd om fylkeskommunal eller statlig infrastruktur dersom vedkommende myndighet samtykker.
+Kommunen kan gi bestemmelser etter første ledd om sosial infrastruktur som nevnt i § 17-3 andre ledd dersom departementet, etter søknad fra kommunen, samtykker. Departementet kan bare gi slikt samtykke dersom vesentlige samfunnsmessige interesser tilsier det, berørte departementer eller fylkeskommuner har gitt sin tilslutning, og spørsmålet har vært forelagt berørte grunneiere eller festere for uttalelse. Departementet kan sette vilkår for samtykket for å ivareta samfunnsmessige interesser og andre interesser.
+Når det er gitt samtykke etter andre eller tredje ledd til statlig eller fylkeskommunal infrastruktur, eller sosial infrastruktur som nevnt i § 17-3 andre ledd, gjelder bestemmelsene i dette kapittelet tilsvarende. Kommunen skal ha ansvaret for å administrere finansieringsordningen i de tilfellene statlig eller fylkeskommunal infrastruktur er omfattet av ordningen.

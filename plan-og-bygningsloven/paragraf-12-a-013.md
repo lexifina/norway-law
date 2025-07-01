@@ -1,0 +1,7 @@
+# § 12 A-13. Hensynssoner for flytting av infrastruktur, finansiering av flytting mv.
+Kommunen kan i arealplaner som nevnt i §§ 11-5, 12-2 og 12-3 fastsette hensynssoner med krav om flytting av infrastruktur for å frigjøre areal til utbyggingsformål. Det skal samtidig gis bestemmelser til hensynssonen om at grunneiere eller utbyggere innenfor hensynssonen kan betale til kommunen eller eieren av infrastrukturen et kostnadsbidrag som helt eller delvis skal finansiere flyttingen. Kommunen skal også gi nødvendige bestemmelser til sonen som nevnt i § 12 A-2 første ledd bokstav a og b.
+Eieren av infrastrukturen må gi samtykke til flytting og bestemmelser som nevnt i første ledd.
+Eieren av infrastrukturen skal ha ansvaret for flyttingen, med mindre det avtales at kommunen skal ha det. Den som har ansvaret for flyttingen, skal forhåndsberegne de samlede kostnadene for dette. Forhåndsberegningen skal omfatte alle kostnadene til flytting av infrastrukturen, som planlegging, gjennomføring og idriftsetting av anlegg. Eierens og kommunens administrative kostnader til arbeidet med flytting kan tas med. Kostnadene skal ikke overskride selvkost.
+Kommunen kan inngå avtaler med grunneiere, utbyggere og eieren av infrastrukturen om innbetaling av kostnadsbidrag, forskuttering og sikkerhetsstillelse, sluttoppgjør og andre forhold av betydning for flytting av infrastruktur.
+Bestemmelsene i § 12 A-2 andre ledd og § 12 A-10 gjelder tilsvarende for hensynssoner etter denne paragrafen.
+Departementet kan gi forskrift om flytting av infrastruktur etter denne paragrafen.

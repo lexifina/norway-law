@@ -1,2 +1,2 @@
-# § 17-7. Dispensasjon. Samtykke til å fravike reglene
-Det kan ikke gis dispensasjon i medhold av kapittel 19 fra bestemmelsene i dette kapittelet. Departementet kan etter søknad gi samtykke til å fravike reglene i dette kapittelet der samfunnsmessige interesser tilsier det.
+# § 17-7. Forskrifter
+Departementet kan gi forskrift om krav til inngåelsen av utbyggingsavtaler, typer av tiltak som kan omfattes eller ikke omfattes, omfanget av bidrag som kan avtales, hvordan vilkårene i loven skal anvendes og hvordan avtalevilkårene skal gjennomføres.

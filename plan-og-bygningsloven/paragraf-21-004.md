@@ -8,5 +8,5 @@ Kommunen kan sette som vilkår for å gi tillatelse at gebyr etter § 33-1 er in
 a) det blir holdt oppmålingsforretning når det er behov for å klarlegge grensene for den eller de matrikkelenhetene som tiltaket gjelder for
 b) eiendommer som skal nyttes under ett, blir sammenføyd etter matrikkellova
 c) tiltakshaver varsler kommunen når midlertidige tiltak som nevnt i § 20-4 bokstav c, fjernes.
-Ved søknad om opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, kan kommunen sette som vilkår for tillatelsen at festeretten skal gjelde for et særskilt avgrenset areal, eller at enheten blir opprettet som grunneiendom.
+Kommunen kan i en tillatelse om opprettelse eller endring av eiendom angi i hvilket omfang det ved matrikkelføringen kan gjøres tilpasninger i nye eller endrede grenser ut over eventuelle tilpasninger som følger av mindre avvik fastsatt etter matrikkellova § 33 tredje ledd tredje punktum. Ved søknad om opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, kan kommunen sette som vilkår for tillatelsen at festeretten skal gjelde for et særskilt avgrenset areal, eller at enheten blir opprettet som grunneiendom.
 Departementet gir i forskrift nærmere bestemmelser om kommunens behandling av søknaden.

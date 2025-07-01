@@ -1,7 +1,7 @@
 # § 11-7. Arealformål i kommuneplanens arealdel
 Kommuneplanens arealdel skal i nødvendig utstrekning vise arealformål som er angitt i nr. 1 til 6. Hovedformålene kan etter behov inndeles i angitte underformål.
 Arealformål:
-1) Bebyggelse og anlegg. Underformål: boligbebyggelse, fritidsbebyggelse, sentrumsformål, kjøpesenter, forretninger, bebyggelse for offentlig eller privat tjenesteyting, fritids- og turistformål, råstoffutvinning, næringsbebyggelse, idrettsanlegg, andre typer anlegg, uteoppholdsarealer, grav- og urnelunder.
+1) Bebyggelse og anlegg. Underformål: boligbebyggelse, fritidsbebyggelse, sentrumsformål, kjøpesenter, forretninger, bebyggelse for offentlig eller privat tjenesteyting, fritids- og turistformål, råstoffutvinning, næringsbebyggelse, idrettsanlegg, andre typer anlegg, uteoppholdsarealer, gravplasser.
 2) Samferdselsanlegg og teknisk infrastruktur. Underformål: veg, bane, lufthavn, havn, hovednett for sykkel, kollektivnett, kollektivknutepunkt, parkeringsplasser, traseer for teknisk infrastruktur.
 3) Grønnstruktur. Underformål: naturområder, turdrag, friområder og parker.
 4) Forsvaret. Underformål: ulike typer militære formål.

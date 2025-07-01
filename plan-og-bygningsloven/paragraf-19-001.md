@@ -1,2 +1,3 @@
-# § 19-1. Søknad om dispensasjon
+# § 19-1. Adgang til å gi dispensasjon
 Dispensasjon krever grunngitt søknad. Før vedtak treffes, skal naboer varsles på den måten som nevnt i § 21-3. Særskilt varsel er likevel ikke nødvendig når dispensasjonssøknad fremmes samtidig med søknad om tillatelse etter kapittel 20, eller når søknaden åpenbart ikke berører naboens interesser. Regionale og statlige myndigheter hvis saksområde blir direkte berørt, skal få mulighet til å uttale seg før det gis dispensasjon fra planer, plankrav og forbudet i § 1-8.
+Det kan ikke dispenseres fra bestemmelsene i kapittel 12 A, bestemmelsene i kapittel 17 eller saksbehandlingsregler.

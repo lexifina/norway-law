@@ -1,0 +1,7 @@
+# § 12 A-3. Forskuttering av utgifter til etablering av infrastruktur, frivillige bidrag
+Kommunen og fylkeskommunen kan forskuttere kostnadsbidrag til etablering av infrastruktur når det er gitt bestemmelser til en hensynssone etter § 12 A-2 første ledd bokstav a.
+Grunneiere og utbyggere kan inngå avtaler med kommunen, fylkeskommunen eller statlig myndighet om forskuttering av kostnadsbidrag til etablering av infrastruktur når det er gitt bestemmelse som nevnt i første ledd. Slike avtaler kan omhandle rekkefølgen på etablering av infrastruktur og realopparbeidelse av infrastruktur. Avtalene skal inneholde en tilbakebetalingsplan som ikke kan strekke seg ut over ti år fra avtaletidspunktet.
+Den som forskutterer etter andre ledd, kan kreve å få dekket nødvendige finansieringskostnader og renteutgifter.
+Det kan forskutteres også for infrastruktur som ikke er forhåndsberegnet etter § 12 A-4.
+Innbetalte forskudd skal disponeres av kommunen i samsvar med § 12 A-8.
+Kommunen kan inngå avtaler med grunneiere og utbyggere som ønsker å betale et større kostnadsbidrag til kommunen enn det som ellers gjelder for utbyggingen innenfor hensynssonen. Slike avtaler kan kun gjelde infrastruktur som nevnt i bestemmelse etter § 12 A-2 første ledd bokstav a. Andre ledd andre punktum og fjerde og femte ledd gjelder tilsvarende. Slike avtaler krever samtykke fra departementet. Departementet kan stille vilkår for samtykke, og det kan bare gis samtykke når viktige samfunnsmessige interesser tilsier det.

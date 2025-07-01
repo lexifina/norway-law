@@ -1,6 +1,3 @@
-# § 17-4. Saksbehandling og offentlighet
-Kommunen skal kunngjøre oppstart av forhandlinger om utbyggingsavtale.
-Dersom fremforhandlet forslag til utbyggingsavtale bygger på kompetansen i § 17-3 andre eller tredje ledd, skal forslaget legges ut til offentlig ettersyn med 30 dagers frist for merknader.
-Når utbyggingsavtale er inngått, skal denne kunngjøres.
-Reglene i første til tredje ledd gjelder tilsvarende ved eventuelle endringer i utbyggingsavtalen.
-Kommunen kan ikke inngå bindende utbyggingsavtale om et område før arealplanen for området er vedtatt.
+# § 17-4. Grunneiers eller utbyggers bidrag til infrastruktur
+Grunneiers eller utbyggers bidrag etter § 17-3 første ledd bokstav a skal stå i et rimelig forhold til utbyggingens art og omfang og den belastningen den aktuelle utbyggingen påfører infrastrukturen. Det kan tas hensyn til kommunens bidrag til gjennomføring av arealplanen og forpliktelser etter avtalen.
+Grunneiers eller utbyggers endelige kostnad ved forskuttering av offentlig infrastruktur etter § 17-3 første ledd bokstav b skal ikke overstige rammene i første ledd.

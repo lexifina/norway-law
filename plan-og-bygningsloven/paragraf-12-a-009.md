@@ -1,0 +1,9 @@
+# § 12 A-9. Avtale om realopparbeidelse av infrastruktur mv.
+Kommunen, fylkeskommunen og statlige myndigheter kan inngå avtale med tiltakshaver om opparbeidelse av infrastruktur som det er gitt bestemmelse om etter § 12 A-2 første ledd bokstav a. For slike avtaler gjelder følgende:
+a) Det kan avtales at grunneier eller utbygger skal oppfylle hele eller deler av egen betalingsforpliktelse etter § 12 A-1 første ledd bokstav a gjennom realopparbeidelse av infrastruktur.
+b) Avtalen skal inngås til fastpris og bygge på beregningene som ligger til grunn for utregningen av kostnadsbidraget etter § 12 A-4, justert etter eventuelle byggekostnadsindekser, jf. § 12 A-2 første ledd bokstav f. Kommunen kan unnlate å inngå avtale om fastpris for hele eller deler av opparbeidelsen når tungtveiende grunner taler for det.
+c) Den økonomiske verdien på opparbeidelsen skal, så langt den er kjent, framgå av avtalen.
+d) Hvis den økonomiske verdien på opparbeidelsen overstiger betalingsforpliktelsen som framgår av rammetillatelsen, skal det overskytende beløpet anses som forskuttering av kostnader til infrastruktur og følge reglene i § 12 A-3, med mindre noe annet er avtalt om et eventuelt etteroppgjør etter bokstav b.
+e) Avtalen kan også omhandle andre forhold av betydning for å besørge realopparbeidelse av infrastruktur.
+En tiltakshaver som oppfyller hele eller deler av sin forpliktelse til å betale kostnadsbidrag etter § 12 A-1 første ledd bokstav a gjennom realopparbeidelse av infrastruktur, kan kreve å få dekket nødvendige renteutgifter som skyldes at merverdiavgift refunderes over tid. Rentekostnadene skal beregnes ut fra summen av ikke-fradragsberettiget merverdiavgift på kostnadene til infrastrukturen, fratrukket beløpene som tiltakshaveren til enhver tid har mottatt fra mottakeren av infrastrukturen.
+Kommunen og tiltakshaver kan inngå avtale om forhold som nevnt i § 17-3 første ledd bokstav c og d.
