@@ -21,7 +21,7 @@ h) kjent medarbeider: fysisk person som er kjent for å
 3) være eneste reelle rettighetshaver i juridisk person, sammenslutning eller utenlandsk juridisk arrangement som i realiteten er etablert for å begunstige politisk eksponert person.
 i) korrespondentforbindelse:
 1) yting av banktjenester fra en bank som korrespondent til en annen bank som respondent, herunder opprettelse av en foliokonto eller annen trekkonto med tilknyttede tjenester, som likviditetsstyring, internasjonale pengeoverføringer, sjekkavregning, oppgjørskontoer og valutatjenester, og
-2) forbindelsene mellom rapporteringspliktige som nevnt i § 4 første ledd bokstav b, c, e, g til l, n og o seg imellom, herunder der lignende tjenester ytes av en korrespondentinstitusjon til en respondentinstitusjon, samt forbindelsene som er opprettet med sikte på verdipapirtransaksjoner eller pengeoverføringer.
+2) forbindelsene mellom rapporteringspliktige som nevnt i § 4 første ledd bokstav a til c, e, g til l og n til p seg imellom, herunder der lignende tjenester ytes av en korrespondentinstitusjon til en respondentinstitusjon, samt forbindelsene som er opprettet med sikte på verdipapirtransaksjoner, pengeoverføringer og overføringer av kryptoeiendeler.
 j) tilbyder av virksomhetstjeneste: fysisk og juridisk person som ervervsmessig tilbyr en eller flere av følgende tjenester til tredjeperson:
 1) å opprette selskap eller annen juridisk person
 2) å opptre som styremedlem, daglig leder eller deltaker i et selskap, eller å inneha en lignende funksjon i andre juridiske personer
@@ -30,3 +30,6 @@ j) tilbyder av virksomhetstjeneste: fysisk og juridisk person som ervervsmessig 
 5) å opptre som aksjeeier for annen person, med mindre denne er et selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat
 6) å sørge for at andre personer opptrer i posisjoner som nevnt i nr. 2, 4 og 5
 k) tilbyder av spilltjeneste: fysisk eller juridisk person som arrangerer spill som krever tillatelse etter pengespilloven. Når en entreprenør arrangerer pengespill på vegne av en organisasjon eller forening, anses entreprenøren som tilbyder av spilltjenesten.
+l) kryptoeiendeler: eiendeler som nevnt i forordning (EU) 2023/1114 artikkel 3 nr. 1 punkt 5, med unntak av eiendeler som nevnt i artikkel 2 nr. 2 til 4 og eiendeler som nevnt i forordning (EU) 2023/1113 artikkel 3 punkt 8.
+m) kryptoeiendelstjenesteyter: person som nevnt i forordning (EU) 2023/1114 artikkel 3 nr. 1 punkt 15, når vedkommende yter tjenester som nevnt i artikkel 3 nr. 1 punkt 16, unntatt når vedkommende yter rådgivning som nevnt i artikkel 3 nr. 1 punkt 16 bokstav h.
+n) frittstående adresse: frittstående adresse som nevnt i forordning (EU) 2023/1113 artikkel 3 punkt 20.

@@ -15,6 +15,7 @@ l) verdipapirsentraler, i tilfeller der verdipapirsentralen ikke benytter ekster
 m) foretak som driver depotvirksomhet
 n) forvalter av alternative investeringsfond
 o) finansmeglerforetak
+p) kryptoeiendelstjenesteytere
 (2) Loven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:
 a) statsautoriserte og registrerte revisorer, godkjente revisjonsselskaper og revisorer som er ansvarlig for revisjon av regnskap for kommune, fylkeskommune eller kommunalt eller fylkeskommunalt foretak. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
 b) statsautoriserte regnskapsførere og regnskapsselskaper. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
@@ -32,6 +33,6 @@ h) personer som ervervsmessig handler med eller formidler handler med kunst, nå
 i) personer som ervervsmessig tilbyr tjenester som er særlig egnet til, tilpasset for eller utformet med sikte på oppbevaring av kunst, når det gjennomføres eller kan antas at det vil bli gjennomført transaksjoner, herunder transaksjoner som gjennomføres i flere operasjoner som ser ut til å ha sammenheng, verdt 80 000 kroner eller mer, eller når det oppbevares kunst som er eller antas å være verdt 80 000 kroner eller mer.
 (3) § 5 gjelder for forhandlere av gjenstander.
 (4) Når rapporteringspliktige fysiske personer etter annet ledd er ansatt i rapporteringspliktige juridiske personer etter samme ledd, er det bare den juridiske personen som er underlagt reglene i loven om risikovurdering, rutiner, internkontroll, opplæring og varsling.
-(5) Departementet kan i forskrift gi regler som gir loven anvendelse for foretak som formidler finansiering ved donasjon, og for vekslingsplattformer og oppbevaringstjenester for virtuell valuta.
+(5) Departementet kan i forskrift gi regler som gir loven anvendelse for foretak som formidler finansiering ved donasjon.
 (6) Departementet kan i forskrift gi regler om lovens anvendelse for agenter av utenlandske betalingsforetak, herunder gjennomføring av tilsyn og ileggelse av sanksjoner.
 (7) Departementet kan i forskrift gjøre unntak fra bestemmelsene i loven for rapporteringspliktige som driver sporadisk eller svært begrenset finansiell aktivitet og for tilbydere av spilltjenester.
