@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med tilskuddsordningen er å øke kompetansen innen planlegging, kart og geodata. Dette skal bidra til å øke effektiviteten og kvaliteten på den lokale planleggingen etter plan- og bygningsloven og utvikling av nye hjelpemidler til bruk i prosessen. Kompetansetiltakene skal komme aktører i planprosesser etter plan- og bygningsloven til gode, som for eksempel beslutningstakere, planleggere, organisasjoner, innbyggere og næringsliv.
