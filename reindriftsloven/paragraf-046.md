@@ -1,0 +1,5 @@
+# § 46. Distriktskasse
+I hvert distrikt skal det være en distriktskasse. Alle siidaandeler plikter å betale et årlig tilskudd til distriktskassen. Distriktskassens midler skal dekke godtgjørelse til distriktsstyrets medlemmer og andre utgifter til administrering og kan dekke utgifter til daglig drift av distriktet.
+Tilskuddets størrelse beregnes pr. rein og fastsettes av distriktets årsmøte etter forslag fra distriktsstyret, jf. § 50 første ledd nr. 7. Distriktsstyret utregner tilskuddet for den enkelte siidaandel etter antall rein i siidaandelen, sytingsrein medregnet.
+Vedtak om det tilskudd den enkelte siidaandelen skal betale, kan bringes inn for statsforvalteren, som kan endre vedtaket dersom tilskuddet ikke står i rimelig forhold til distriktets gjøremål. Krav om slik overprøving må fremsettes innen åtte uker etter at siidaandelen mottok underretning om vedtaket om tilskuddet.
+Dersom tilskuddet ikke betales, mister siidaandelen sin stemmerett inntil skyldig beløp er betalt. Endelig vedtak om tilskudd er tvangsgrunnlag for utlegg.

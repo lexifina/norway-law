@@ -1,0 +1,3 @@
+# § 7. Ekspropriasjon for å sikre reinbeiteareal
+Kongen kan kreve avstått til staten grunn og rettigheter, herunder rettigheter som nevnt i kapittel 3, samt rett til erstatning for skade voldt av rein, når dette finnes nødvendig av hensyn til reindriften i det samiske reinbeiteområdet og det må regnes med at inngrepet utvilsomt vil være til mer gagn enn skade.
+Gjelder saken avståelse av rettigheter som nevnt i kapittel 3, kan saksøkeren fritas for å erstatte saksøktes sakskostnader så fremt saksøkte etter forhandlinger har avslått eller unnlatt å svare på et tilbud, og saksøkte ved skjønnsavgjørelsen ikke oppnår mer enn tilbudet. For øvrig gjelder sakskostnadsreglene i lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker.

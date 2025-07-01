@@ -1,0 +1,4 @@
+# § 71. Reindriftsstyret
+Det opprettes et reindriftsstyre på syv medlemmer med personlige varamedlemmer der fire av medlemmene med varamedlemmer oppnevnes av Kongen og tre medlemmer med varamedlemmer oppnevnes av Sametinget. Reindriftsstyret er faglig rådgiver for Landbruksdirektoratet, reinforskningen og rettledningstjenesten, og skal behandle de saker som følger av loven her samt etter Kongens nærmere bestemmelser. Reindriftsstyrets virkeområde kan avgrenses til å omfatte reindrift innenfor det samiske reinbeiteområdet.
+Ved oppnevning av medlemmer til reindriftsstyret skal det legges vekt på en rimelig geografisk fordeling, allsidige faglige forutsetninger og samfunnserfaring, og mest mulig lik representasjon av begge kjønn. Blant medlemmene skal det være aktive utøvere av reindrift i reinbeiteområde. Reindriftens organisasjoner har forslagsrett.
+Nærmere bestemmelser om reindriftsstyrets oppgaver, myndighet og arbeidsordning fastsettes av Kongen.

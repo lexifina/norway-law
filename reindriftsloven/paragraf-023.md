@@ -1,0 +1,3 @@
+# § 23. Motorferdsel
+Den som utøver reindrift, har adgang til bruk av nødvendige fremkomst- og transportmidler i samsvar med distriktsplan, jf. § 62.
+Bruk av terrenggående kjøretøy på bar mark skal begrenses mest mulig og skal så langt mulig foregå i faste løyper. Motorisert ferdsel eller flyging inn i område vernet i medhold av naturmangfoldloven kapittel V eller eldre vernevedtak som nevnt i naturmangfoldloven § 77, skal foregå i samsvar med fastsatte forskrifter om vern. Nærmere regler om slik ferdsel i fredet område kan fastsettes ved forskrift av vedkommende forvaltningsmyndighet i samråd med distriktsstyret.

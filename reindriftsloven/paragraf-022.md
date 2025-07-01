@@ -1,0 +1,3 @@
+# § 22. Flyttleier
+Reindriftsutøvere har adgang til fritt og uhindret å drive og forflytte rein i de deler av reinbeiteområdet hvor reinen lovlig kan ferdes og adgang til flytting med rein etter tradisjonelle flyttleier. Med til flyttlei regnes også faste inn- og avlastingsplasser for transport av reinen.
+Reindriftens flyttleier må ikke stenges, men Kongen kan samtykke i omlegging av flyttlei og i åpning av nye flyttleier når berettigede interesser gir grunn til det. Eventuell skade som følge av omlegging av flyttlei eller åpning av ny flyttlei erstattes etter avgjørelse ved jordskifteretten. Kongen kan bestemme at også fastleggingen i detalj av den nye flyttleien skal overlates til skjønnet.

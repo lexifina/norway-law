@@ -1,0 +1,3 @@
+# § 65. Ferdsel i område hvor rein beiter
+De som ferdes i område hvor rein beiter, plikter å vise hensyn og opptre med varsomhet slik at reinen ikke unødig uroes eller skremmes under beiting, flytting mv. Særlig hensyn skal vises i forbindelse med reinens brunsttid, kalving, merking, skilling og slakting.
+Statsforvalteren kan, etter anmodning fra vedkommende distriktsstyre eller fra reineierne i området, stille vilkår for eller nedlegge tidsbegrenset forbud mot større arrangement, idrettsstevne, jakthundprøve eller liknende virksomhet som kan være til særlig skade for reindriften. Vedtaket må gjelde et bestemt angitt område og kan bare fattes etter at grunneier og kommune er hørt. Gjelder vedtaket et konkret arrangement, skal også arrangør høres.

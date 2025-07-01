@@ -1,0 +1,6 @@
+# § 67. Ansvar for skade
+Kommer rein inn på et område der eieren av reinen ikke har rett til å la den beite, er eieren ansvarlig for skade som reinen volder på avling eller annen eiendom. Hvis det ikke innen rimelig tid kan fastslås hvem som er eier av reinen, er samtlige reineiere i den siidaen den skadegjørende reinen tilhører, ansvarlige for skaden én for alle og alle for én. Hvis det heller ikke innen rimelig tid kan fastslås hvilken siida den skadegjørende reinen tilhører, er samtlige reineiere som utøver reindrift i det distriktet som den skadegjørende reinen tilhører, ansvarlige én for alle og alle for én. Dette gjelder likevel ikke for reineiere som godtgjør at deres rein ikke har medvirket til skaden.
+For skader i områder der eieren har rett til å la rein beite, kan den skadelidte kreve erstatning dersom skaden skyldes feil eller forsømmelse fra reineieren.
+Kongen kan i forskrift avgrense området utenfor bestemt reinbeitedistrikt hvor solidarisk ansvar skal gjelde.
+For skade som voldes av rein som tilhører noen som i henhold til § 8, jf. fjellova § 17, utøver reindrift utenfor reinbeitedistrikt, er de som utøver reindrift innenfor området hvor den skadegjørende rein antas å høre hjemme, ansvarlig en for alle og alle for en.
+Ved utmålingen av erstatningen gjelder skadeserstatningsloven §§ 4-1, 5-1 og 5-2.

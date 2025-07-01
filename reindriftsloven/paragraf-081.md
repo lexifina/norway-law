@@ -1,0 +1,3 @@
+# § 81. Reingjerdekonvensjonen 2014
+Konvensjon 9. desember 2014 mellom Finland og Norge om oppføring og vedlikehold av reingjerder og andre tiltak for å hindre at rein kommer inn på det andre rikets område gjelder som norsk lov. Departementet fastsetter hvilke organer som på norsk side skal utøve myndighet etter konvensjonen artiklene 5, 6, 7, 8, 9, 10, 12, 15, 16, 17 og 18.
+Dersom en norsk reineier forsettlig eller uaktsomt forårsaker at vedkommendes rein kommer inn på finsk område, kan norsk myndighet søke regress hos reineieren for erstatning som den har betalt til finsk myndighet i henhold til konvensjonen.

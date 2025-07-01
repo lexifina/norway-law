@@ -1,0 +1,4 @@
+# § 68. Hvem erstatningskrav kan rettes mot
+Krav om erstatning kan rettes mot den som er ansvarlig for skaden etter § 67 første ledd. Dersom den ansvarlige er siidaen eller reinbeitedistriktet, kan kravet rettes mot henholdsvis siidaens styre eller kontaktperson, eller distriktsstyret ved styreleder.
+Dersom siidaen eller reinbeitedistriktet er ansvarlig for å betale erstatning, skal årsmøtet utlikne erstatningen på siidaens eller distriktets reineiere etter den enkelte reineiers reintall. Reineiere som godtgjør at deres rein ikke har medvirket til skaden, kan ikke pålegges å dekke noen del av erstatningen. Det utliknede erstatningsbeløpet er tvangsgrunnlag for utlegg.
+Godtgjøres det at det er rein fra en annen siida eller et annet distrikt som har voldt eller medvirket til skaden, kan det kreves regress overfor disse i samsvar med reglene i paragrafen her.
