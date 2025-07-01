@@ -1,0 +1,3 @@
+# § 1-4. Nærmere regler om utenlandsmegling
+(1) Reglene om oppdragstakers plikter ved budgivning i § 6-3, innsyn i budjournal i § 6-4 og reglene i eiendomsmeglingsloven § 6-7 annet ledd nr. 18, eiendomsmeglingsloven § 6-8 første til sjuende ledd og § 6-10 tredje ledd første punktum kan fravikes ved oppdrag som er omfattet av eiendomsmeglingsloven § 1-4 fjerde ledd.
+(2) Eiendomsmeglingsloven § 3-5 er ikke til hinder for at oppdragstaker kan benytte kontraktsmedhjelper som har rett til å utføre eiendomsmegling i det landet eiendommen befinner seg. Eiendomsmeglingsloven § 6-4 annet ledd gjelder tilsvarende.

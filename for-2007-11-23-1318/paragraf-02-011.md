@@ -1,0 +1,3 @@
+# § 2-11. Utøvelse av eiendomsmeglingsvirksomhet på midlertidig grunnlag
+(1) Eiendomsmeglingsloven § 6-2 første ledd annet punktum gjelder ikke ved utøvelse av eiendomsmeglingsvirksomhet på midlertidig grunnlag i medhold av lov 16. juni 2017 nr. 69 om godkjenning av yrkeskvalifikasjoner kapittel 2.
+(2) Når virksomhet som nevnt i første ledd utøves på selvstendig grunnlag uten at yrkesutøveren er ansatt eller tilsvarende tilknyttet foretak med tillatelse, jf. eiendomsmeglingsloven § 2-1 første ledd nr. 1, eller advokat, jf. eiendomsmeglingsloven § 2-1 første ledd nr. 2, skal det stilles sikkerhet i medhold av eiendomsmeglingsloven 2-7.

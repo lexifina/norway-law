@@ -1,0 +1,2 @@
+# § 3-1. Journalføring
+Føring av journaler, jf. eiendomsmeglingsloven § 3-1, skal være innrettet på betryggende måte. Det som er ført i journalene må ikke ved overstrykninger eller på annen måte gjøres uleselig. Dersom rettelser foretas i journal som føres i elektronisk form, skal tidligere registrerte opplysninger være sporbare, og det skal kunne tas ut en oversikt som viser alle endringer som er foretatt.
