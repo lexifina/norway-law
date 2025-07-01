@@ -1,0 +1,9 @@
+# Til § 2
+Første ledd
+Forskriften gjelder der det utføres arbeid innenfor virkeområdet til en allmenngjøringsforskrift, jf. allmenngjøringsloven § 3.
+Det gjelder i dag tre forskrifter om allmenngjøring. Forskrift 21. november 2006 nr. 1291 om allmenngjøring av tariffavtale for byggeplasser i Norge trådte i kraft 1. januar 2007. Dette er den mest omfattende forskriften. Forskriften allmenngjør deler av Fellesoverenskomsten for byggfag (FOB) 2006-2008 og inneholder minimumsbestemmelser om lønns- og arbeidsvilkår for alle arbeidstakere som utfører bygningsarbeid på byggeplasser i hele landet.
+Forskrift 26. juni 2006 nr. 703 om allmenngjøring av tariffavtaler på enkelte petroleumsanlegg på land allmenngjør deler av Verkstedsoverenskomsten (VO) 2006-2008 og Landsoverenskomsten for elektrofagene (LOK) 2006-2008. Forskriften gjelder arbeidstakere som hører inn under disse overenskomstenes virkeområde og som arbeider på et av sju nærmere angitte petroleumsanlegg på land.
+Forskrift 26. juni 2006 nr. 704 om allmenngjøring av tariffavtaler for byggeplasser i Osloregionen omfatter allmenngjøring av deler av Landsoverenskomsten for elektrofagene (LOK) 2006-2008 i Oslo og Akershus.
+Dersom det blir fastsatt ytterligere allmenngjøringsforskrifter på et senere tidspunkt, vil virkeområdet til forskrift om informasjons- og påseplikt og innsynsrett automatisk utvides i tråd med de nye allmenngjøringsforskriftenes virkeområde.
+Andre ledd
+Bestemmelsen presiserer at forskriften ikke er ment å begrense rettigheter som følger av tariffavtaler, f.eks. når det gjelder innsynsrett. Det følger allerede av en del tariffavtaler, blant annet Verkstedsoverenskomsten 2006-2008, at arbeidsgiver har plikt til å dokumentere overfor tillitsvalgte hvilke lønns- og arbeidsvilkår som gjelder hos underleverandørene.

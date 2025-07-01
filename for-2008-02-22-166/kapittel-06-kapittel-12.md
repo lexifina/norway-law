@@ -1,0 +1,2 @@
+# Til § 12
+Bestemmelsen fastsetter at brudd på forskriften § 10 og § 11 er straffesanksjonert. Dette innebærer blant annet at den som uaktsomt eller forsettlig sprer opplysninger vedkommende har mottatt i forbindelse med gjennomføring av innsynsretten eller påseplikten kan straffes med bøter. Tilsvarende gjelder ved bruk av opplysningene til formål som ikke omfattes av forskriften. Hjemmelsbestemmelsen for straff er den generelle straffebestemmelsen i straffeloven § 339 nr. 2 som regulerer straff ved brudd på forskrifter.
