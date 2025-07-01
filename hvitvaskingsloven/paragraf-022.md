@@ -11,7 +11,7 @@ h) verdipapirsentral som er rapporteringspliktig
 i) forvalter av alternative investeringsfond
 j) statsautorisert og registrert revisor og godkjent revisjonsselskap
 k) statsautorisert regnskapsfører og regnskapsselskap
-l) advokat og annen som ervervsmessig eller stadig yter rettshjelp
+l) advokat, advokatforetak og annen som ervervsmessig eller stadig yter rettshjelp
 m) eiendomsmegler og eiendomsmeglingsforetak
 Er en tredjepart som nevnt i bokstav a til m fra annen stat, må denne være underlagt regler om kundetiltak, oppbevaring og tilsyn som svarer til reglene i denne lov.
 (2) Adgang til å legge til grunn kundetiltak utført av en tredjepart medfører ikke unntak fra den rapporteringspliktiges plikt til å registrere og lagre opplysninger og dokumenter etter § 30 eller ansvar for at kundetiltak gjennomføres i samsvar med bestemmelser i eller i medhold av loven her.
