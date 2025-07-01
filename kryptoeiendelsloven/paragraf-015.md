@@ -1,0 +1,4 @@
+# § 15. Tillatelse fra tingretten og bistand fra politiet
+(1) Stedlig tilsyn etter artikkel 124 i kryptoeiendelsforordningen krever tillatelse fra tingretten.
+(2) Finanstilsynet kan kreve bistand fra politiet for å gjennomføre rettens beslutning om stedlig tilsyn.
+(3) Begjæring om tillatelse etter første ledd fremsettes av Finanstilsynet eller EFTAs overvåkingsorgan for tingretten på det stedet hvor det mest praktisk kan skje. Retten treffer sin avgjørelse ved beslutning. En anke over beslutningen har ikke oppsettende virkning. Straffeprosessloven § 201 første ledd, §§ 117 til 120 jf. § 204, § 207, § 208, § 209, § 213 og kapittel 26 samt forvaltningsloven § 15 annet ledd gjelder så langt de passer. Dersom varsel om stedlig tilsyn kan unnlates etter artikkel 124 i kryptoeiendelsforordningen, og Finanstilsynet eller EFTAs overvåkingsorgan anmoder retten om det, skal den begjæringen retter seg mot, ikke varsles om begjæringen eller beslutningen.
