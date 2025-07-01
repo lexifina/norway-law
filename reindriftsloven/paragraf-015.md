@@ -1,0 +1,7 @@
+# § 15. Overføring av ansvaret som leder av siidaandel
+Er sideordnet rekrutteringsandel ikke etablert, kan lederen av en siidaandel overføre lederansvaret til sin ektefelle eller samboer, sitt barn, sitt barnebarn, sin forelder, sitt søsken eller barn av sitt søsken. Den nye lederen av siidaandelen må være myndig og ha deltatt i alle sider av arbeidet i reindriften sammen med lederen i minst tre år. Den nye lederen må oppfylle vilkårene i § 9 første ledd for å eie rein i siidaandelen.
+Lederen av en siidaandel kan overføre lederansvaret til en person som ikke oppfyller kravene i første ledd første og annet punktum, dersom to tredjedeler av siidaandelslederne i siidaen samtykker.
+Ved overføring av lederansvaret for en siidaandel har tidligere leder fortsatt rett til å eie rein i siidaandelen.
+Dør lederen av en siidaandel, har lederens barn, barnebarn, forelder, søsken eller et barn av lederens søsken rett til å overta lederansvaret, med mindre gjenlevende ektefelle eller samboer overtar ansvaret etter reglene i § 14. Første ledd annet og tredje punktum gjelder tilsvarende.
+Ved lederens død kan det søkes statsforvalteren om at siidaandelen stilles i bero inntil personen som ellers har rett til å bli ny leder etter første ledd, er myndig. Statsforvalteren kan i denne forbindelse dispensere fra kravet om at den nye lederen må ha deltatt i alle sider av arbeidet i reindriften sammen med lederen i minst tre år.
+Den avtroppende lederen skal sende melding om overføring av lederansvaret til statsforvalteren.

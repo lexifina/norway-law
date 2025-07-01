@@ -1,0 +1,2 @@
+# § 75. Pålegg om opphør av ulovlig forhold
+Drives virksomhet i strid med bestemmelser gitt i eller i medhold av denne lov eller vedtak gjort i medhold av disse bestemmelser, skal reindriftsstyret eller statsforvalteren, når offentlige interesser tilsier det, gi nødvendige pålegg for å bringe det ulovlige forholdet til opphør, herunder pålegg om retting og fjerning av ulovlig oppførte hytter og anlegg mv. Slike tiltak kan kreves gjennomført innen en nærmere fastsatt frist. Reindriftsstyret kan delegere sin myndighet etter paragrafen her til Landbruksdirektoratet.

@@ -1,0 +1,4 @@
+# § 14. Opphør av ekteskap og samboerskap
+Har siidaandelen vært drevet i fellesskap mellom ektefeller eller samboere, og en av dem dør, blir den gjenlevende parten ansvarlig leder alene. Dette gjelder selv om den gjenlevende parten ikke fyller vilkårene i § 9 første ledd for å eie rein.
+Dersom ekteskapet eller samboerskapet opphører på annen måte enn ved død, mister den ektefellen eller samboeren som har fått medansvar gjennom ekteskapet eller samboerskapet, rett til å stå som medansvarlig leder. Partene kan avtale at vedkommende fortsatt likevel skal eie rein i siidaandelen og eventuelt alene skal ha lederansvaret for siidaandelen. Dette gjelder selv om vedkommende ikke fyller vilkårene i § 9 første ledd for å eie rein.
+Endringer i lederansvaret etter første og annet ledd skal meldes til statsforvalteren.

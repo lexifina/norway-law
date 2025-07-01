@@ -1,0 +1,5 @@
+# § 1. Lovens formål
+For det samiske reinbeiteområdet skal loven legge til rette for en økologisk, økonomisk og kulturelt bærekraftig reindrift med basis i samisk kultur, tradisjon og sedvane til gagn for reindriftsbefolkningen selv og samfunnet for øvrig. For å nå disse mål skal loven gi grunnlag for en hensiktsmessig organisering og forvaltning av reindriften. Reindriften skal bevares som et viktig grunnlag for samisk kultur og samfunnsliv.
+Loven skal bidra til sikring av reindriftsarealene i det samiske reinbeiteområdet som reindriftens viktigste ressursgrunnlag. Ansvaret for sikring av arealene påhviler både innehavere av reindriftsretten, øvrige rettighetshavere og myndighetene.
+Utenfor det samiske reinbeiteområdet skal loven legge forholdene til rette for en økologisk og økonomisk bærekraftig utnytting av reinbeiteressursene med basis i lokal kultur og tradisjon i de områder hvor det er gitt tillatelse til reindrift etter reglene i § 8.
+Både i og utenfor det samiske reinbeiteområdet skal loven bidra til å sikre forsvarlig dyrevelferd for tamrein.

@@ -1,0 +1,6 @@
+# § 70 a. Saksbehandlingen av erstatningskrav
+Krav om skjønn etter § 70 bør framsettes snarest mulig. I kravet om skjønn skal det gis så vidt mulig nøyaktige opplysninger om tid og sted for skadeforvoldelsen, skadens art og omfang og erstatningskravets størrelse. Det bør så vidt mulig gis opplysninger som kan ha betydning for å fastslå hvem som eier den reinen som har gjort skaden. Eventuelle vitner bør også oppgis.
+Rettens leder skal snarest mulig foreta befaring etter at krav om skjønn er innkommet. Med på befaringen skal være representant fra vedkommende kommune og reindriftsetaten for å bistå rettens leder med faglige vurderinger. Om mulig skal også lederen i vedkommende reinbeitedistrikt være med, foruten den som har krevd skjønn. Er det åpenbart at det ikke er skjedd noen skade voldt av reinen, kan rettens leder avvise kravet om skjønn av eget tiltak.
+Skjønnet skal fremmes så snart som mulig. Gjelder det skade voldt av rein som antas å høre hjemme i reinbeitedistrikt, skal distriktsstyret ved lederen alltid innkalles til skjønnet.
+Skjønnsstyreren kan på ethvert trinn av saksbehandlingen forsøke megling med sikte på en minnelig ordning.
+Skjønnet skal vurdere om skaden er voldt av rein og er av en slik art at den kan kreves erstattet og i tilfelle taksere skaden og fastsette erstatningsbeløpet.

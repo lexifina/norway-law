@@ -1,0 +1,4 @@
+# § 21. Rett til husvære, buer o.l.
+Retten til å utøve reindrift gir rett til i utmark å disponere grunn til nødvendige hytter og gammer for folk og til buer og stillinger som trengs til oppbevaring av løsøre og matvarer.
+En reindriftsutøver har adgang til mot vederlag å få utvist tomt til bolig dersom reindriftsutøveren ikke på annen måte kan skaffe seg bolig som er nødvendig av hensyn til en rasjonell utøvelse av reindriften. Kan ikke partene bli enige om at forutsetningene for å kreve utvisning av tomt er til stede, eller om stedsvalg, størrelse og avgrensing, vilkår og vederlag, avgjøres dette av jordskifteretten.
+Grunnen som er tatt i bruk eller utvist og bygninger og anlegg som er oppført med hjemmel i første eller annet ledd, kan ikke uten godkjennelse av Kongen og samtykke fra grunneieren brukes til annet formål enn reindrift eller overdras til andre enn utøvere av reindrift og som fyller forutsetningene i første og annet ledd.

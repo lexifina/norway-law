@@ -1,0 +1,4 @@
+# § 18. Melding om reindrift
+Leder av siidaandel skal årlig gi melding om reindrift til statsforvalteren. Meldingen skal inneholde opplysninger om antall rein i siidaandelen og eiere av rein innenfor andelen, samt opplysninger om siidatilknytning. Kopi av meldingen sendes styret i det distrikt der reindriften foregår.
+Departementet gir nærmere regler om hvilke opplysninger meldingen skal inneholde og om fristen for å gi melding mv.
+Opplysninger i meldingen om enkeltpersoners reintall og deres personlige forhold er underlagt taushetsplikt, med mindre noe annet følger av lov. Forvaltningsloven §§ 13 a til 13 e og 13 g gjelder tilsvarende. Departementet skal ved forskrift gi nærmere bestemmelser om at siidaandelens reintall skal være tilgjengelig for utøverne i siidaandelen, i siidaen eller i reinbeitedistriktet, og på hvilken måte dette skal skje.
