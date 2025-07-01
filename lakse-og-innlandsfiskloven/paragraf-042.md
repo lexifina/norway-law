@@ -1,0 +1,6 @@
+# § 42. Kontroll, oppsyn og overvåking
+Departementet skal føre kontroll med at bestemmelsene gitt i eller i medhold av denne lov blir overholdt og påse at nødvendig oppsyn blir etablert.
+Departementets oppsyn skal under sin kontrollvirksomhet gis uhindret adgang til båt eller fartøy og til områder der virksomheten drives fra. Under kontrollvirksomheten kan båt eller fartøy stanses for undersøkelse, og oppsynet kan trekke redskaper og forankring for slike, eller gi den ansvarlige pålegg om dette. Oppsynet kan videre kreve å få vist fram redskaper som kan benyttes til fiske, samt fangst som er tatt om bord i båt eller fartøy. Den ansvarlige for virksomheten skal gi oppsynet nødvendig bistand og opplysninger. Oppsynet kan om nødvendig kreve hjelp av politiet for å utføre kontrollen.
+Departementet kan gi forskrifter om kontroll som utøves etter første ledd og instruks for oppsynsmenn.
+Fiskeforvaltningen kan utenom statsallmenning tilsette oppsyn. Oppsynet bør gis politimyndighet etter lov 4. august 1995 nr. 53 om politiet § 20.
+Kongen kan gi forskrift om overvåking av anadrome laksefisk og andre arter som forvaltes i medhold av denne lov, herunder fastsette bestemmelser om overvåking av bestandssituasjonen, påvirkninger på bestandene og om organisering av overvåkingen.

@@ -1,0 +1,2 @@
+# § 26. Vassdrag hvor det bevilges offentlige midler til tiltak
+Når det bevilges vesentlige økonomiske midler til tiltak som omfattes av lovens formål, kan det for en nærmere bestemt tidsperiode ved enkeltvedtak eller forskrift stilles krav om at fisket eller en forholdsmessig andel av fisket skal forvaltes til fordel for allmennheten. I vassdrag eller deler av vassdrag der kravene ikke er oppfylt, kan departementet i særskilte tilfelle unnlate å åpne for fiske.

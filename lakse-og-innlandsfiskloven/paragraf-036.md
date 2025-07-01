@@ -1,0 +1,5 @@
+# § 36. Fiske i friløpet og tilstopping
+Det er forbudt å sette fiskeredskaper slik at redskapet enten alene eller i forbindelse med ledegarn, stein eller andre naturlige hindringer for fiskens frie gang kommer ut i friløpet. Unntatt fra denne bestemmelse er fiske med stang eller håndsnøre, oter, drivgarn, kastenot som trekkes inn straks etter utsettingen og håv som tas opp av vannet like etter nedsenkingen.
+I friløpet er det forbudt uten konsesjon etter vannressursloven å slippe stein eller andre ting som kan være til hinder for fiskens frie gang. Det er også forbudt å gjøre dypere enn friløpet det løp som ovenfra eller nedenfra fører inn til et redskap. Dersom friløpet er oppfylt eller vassdraget utdypet i strid med denne bestemmelse, er det forbudt å fiske på vedkommende sted inntil friløpet eller vassdraget er bragt tilbake i samme tilstand som før det ulovlige tiltak.
+Departementet kan gi pålegg om gjenoppretting av endring av friløpet i strid med annet ledd. Bestemmelsene i § 7 femte ledd gjelder tilsvarende.
+Er oppfylling eller utdyping skjedd uten noens skyld, gjelder vannressurslovens regler for gjenoppretting av friløpet.

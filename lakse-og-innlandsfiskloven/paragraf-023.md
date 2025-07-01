@@ -1,0 +1,4 @@
+# § 23. Fiske på kommunal og fylkeskommunal grunn
+Kommunen og fylkeskommunen skal utnytte retten til fiske etter anadrome laksefisk og innlandsfisk på sine eiendommer i samsvar med lovens formål, samt gi et best mulig tilbud om fiske for allmennheten blant annet ved salg av fiskekort. Inntektene skal gå til fiskekulturtiltak og til administrasjon av fisket. Kommunen og fylkeskommunen kan overlate administrasjonen av fisket til en organisasjon med fremme av fiske som formål eller delformål.
+Kommunen og fylkeskommunen plikter, på samme måte som andre rettighetshavere, å bidra til felles forvaltning og driftsplanlegging i vassdrag, jf. §§ 25 og 25 a.
+Bestemmelsene i første og annet ledd gjelder for all kommunal og fylkeskommunal eiendom, herunder eiendom tilhørende selskap som eies fullt ut av én eller flere kommuner eller fylkeskommuner i fellesskap.

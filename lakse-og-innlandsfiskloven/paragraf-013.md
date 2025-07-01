@@ -1,0 +1,2 @@
+# § 13. Dispensasjon for tiltak som har vern eller utvikling av fiskestammer som formål
+Departementet kan uten hensyn til den enkelte grunneier eller rettighetshaver, eller til bestemmelser gitt i eller i medhold av denne lov, gi tillatelse til å fange stamfisk og settefisk og til vitenskapelige undersøkelser eller praktiske forsøk og fiskekulturtiltak. Før fangst eller arbeid igangsettes, skal grunneiere og fiskeberettigete varsles.

@@ -1,0 +1,3 @@
+# § 41. Nedsenking av redskap og bruk av visse redskapstyper i fredningstiden for anadrome laksefisk
+For å motvirke fiske etter anadrome laksefisk som er forbudt etter denne lov eller forskrift i medhold av denne lov, kan Kongen gi forskrifter om nedsenking av redskap som er bestemt for fiske etter annen fisk enn anadrome laksefisk, når slik redskap også er egnet til å fange anadrome laksefisk.
+I den tiden det ikke er åpnet for fiske etter anadrome laksefisk, kan det med hjemmel i havressurslova fastsettes bestemmelser om bruken av kilenot, krokgarn og sitjenot (lakseverp) til fiske etter saltvannsfisk for å redusere risikoen for fangst av anadrome laksefisk.

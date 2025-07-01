@@ -1,0 +1,6 @@
+# § 25 a. Driftsplanlegging
+I vassdrag hvor fiskeretthaverne plikter å gå sammen om felles forvaltning av fiskeressursene, skal det utarbeides driftsplan. Departementet kan gi dispensasjon fra kravet om driftsplan når spesielle årsaker tilsier det.
+Departementet kan gi regler om at felles forvaltning også skal omfatte fjordsystemer utenfor vassdraget.
+Driftsplan skal inneholde oversikt over fiskeressursene i det aktuelle området, oversikt over regulerings-, overvåkings-, oppsyns- og informasjonstiltak, samt oversikt over den enkelte fiskerettshavers andel i fisket dersom dette er avklart. Videre skal planen beskrive hvordan fiskeinteressene er organisert, og de økonomiske forholdene knyttet til organisering og tiltak. Planen kan også omfatte bortleie av fiskerett.
+Bestemmelsene om flertallsvedtak i § 25 fjerde ledd gjelder tilsvarende. Om nødvendig kan departementet utarbeide driftsplan på eget initiativ.
+Fordeling av utgifter og inntekter av tiltak i medhold av bestemmelsene ovenfor skal skje etter fiskerettshavernes andel i fisket. Departementet kan gi nærmere regler om fordelingen. Utgifter i forbindelse med driftsplanlegging og tiltak besluttet ved flertallsvedtak er tvangsgrunnlag for utlegg.
