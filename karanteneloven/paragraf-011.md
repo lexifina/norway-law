@@ -1,0 +1,2 @@
+# § 11. Overgang til andre stillinger i departementene
+Går en politiker over til andre embeter eller stillinger i departementet enn nevnt i § 10, kan departementet bestemme at vedkommende ikke skal ha oppgaver som innebærer direkte rådgivning til departementets politiske ledelse for en periode på inntil seks måneder etter fratreden. Når tungtveiende grunner tilsier det, kan politikeren ilegges et forbud etter § 10 første og andre ledd i inntil tre måneder.

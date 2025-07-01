@@ -1,0 +1,3 @@
+# § 9. Saksbehandlingen i Karantenenemnda
+Karantenenemnda har frist på to uker til å treffe vedtak om å ilegge karantene og saksforbud, regnet fra det tidspunkt vedkommende politiker har oppfylt sin informasjonsplikt etter § 5. Politikeren kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før Karantenenemnda har truffet endelig vedtak i saken. Det kan heller ikke iverksettes endringer som nevnt i § 5 tredje ledd før Karantenenemnda har truffet endelig vedtak.
+Departementet kan gi forskrift om saksbehandlingen i Karantenenemnda, inkludert om beregning av fristen etter første ledd.
