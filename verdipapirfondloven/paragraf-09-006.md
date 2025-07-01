@@ -1,0 +1,5 @@
+# § 9-6. Melding om avregistrering av markedsføring av norske UCITS i annen EØS-stat
+(1) Opphør av markedsføring av norske UCITS, herunder av en andelsklasse, i en annen EØS-stat skal meldes til Finanstilsynet. Meldingen skal inneholde informasjon som viser at krav tilsvarende det som følger av § 9-5 a første, annet og tredje ledd, er oppfylt.
+(2) Finanstilsynet skal innen 15 virkedager fra komplett melding er mottatt, oversende meldingen til vedkommende myndighet i de stater der markedsføringen skal opphøre. Finanstilsynet skal uten ugrunnet opphold informere forvaltningsselskapet om at melding om opphør av markedsføring er videresendt.
+(3) Direkte og indirekte tilbud om investering i fondet skal opphøre i det aktuelle landet senest på tidspunktet for Finanstilsynets oversendelse av opphørsmelding etter annet ledd. Avtaler med tredjeparter om distribusjon av verdipapirfondsandeler skal være endret eller terminert senest på samme tidspunkt.
+(4) Forvaltningsselskapet skal sørge for at eventuelle gjenværende andelseiere og Finanstilsynet mottar den informasjon som kreves etter artikkel 68 til 82 samt artikkel 94 i direktiv 2009/65/EF.

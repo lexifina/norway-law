@@ -1,0 +1,6 @@
+# § 2-7. Krav til tillitsvalgte og ansatte i forvaltningsselskap
+(1) Den som faktisk leder virksomheten i et forvaltningsselskap, skal ha relevant erfaring fra markeder for finansielle instrumenter. I tillegg skal daglig leder og annen person som faktisk leder virksomheten, ha ført en hederlig vandel og opptrådt i samsvar med god forretningsskikk ved handel med finansielle instrumenter. Styremedlemmer skal oppfylle nødvendige krav til hederlig vandel og erfaring. Personer som nevnt i annet og tredje punktum skal fremlegge ordinær politiattest etter politiregisterloven § 40.
+(2) Departementet kan i forskrift gi nærmere regler om styremedlemmers og ledende ansattes krav til uavhengighet, vandel og erfaring.
+(3) Styremedlem som velges av andelseierne, kan ikke være aksjeeier, tillitsvalgt eller ansatt i forvaltningsselskap eller hos depotmottaker.
+(4) Forvaltningsselskap skal opplyse Finanstilsynet om skifte av ledende ansatte og styremedlemmer.
+(5) Ansatte, tillitsvalgte og personer med bestemmende innflytelse i forvaltningsselskap har taushetsplikt om det de i sin virksomhet får kjennskap til om andres forhold med mindre noe annet er bestemt i lov eller forskrifter. Taushetsplikten omfatter også enhver som utfører oppdrag for forvaltningsselskapet.

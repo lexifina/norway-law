@@ -1,0 +1,3 @@
+# § 11-3. Opplysningsplikt
+(1) Forvaltningsselskap skal gi Finanstilsynet de opplysninger som kreves om forhold som gjelder selskapets virksomhet. Tilsvarende gjelder for forvaltningsselskaps tilknyttede agenter og depotmottaker for så vidt gjelder virksomheten etter denne lov. Finanstilsynet kan kalle sammen styret i i forvaltningsselskap og depotmottaker og har rett til å være representert i valgmøte og andelseiermøte som nevnt i §§ 2-6 og 4-17.
+(2) Dersom det er risiko for at forvaltningsselskap for verdipapirfond ikke vil kunne oppfylle de fastsatte kapitalkrav, eller det inntreffer andre forhold som kan innebære stor risiko knyttet til driften av selskapet, skal selskapet umiddelbart gi melding om dette til Finanstilsynet.

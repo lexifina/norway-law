@@ -1,0 +1,2 @@
+# § 2-10. Tilknyttede agenter
+(1) Et forvaltningsselskap kan benytte tilknyttede agenter for å markedsføre sine tjenester samt formidle ordre om andeler i verdipapirfond. Slik virksomhet krever ikke tillatelse etter verdipapirhandelloven § 9-1. Agenten kan være tilknyttet bare ett forvaltningsselskap. Bestemmelsene gitt i eller i medhold av verdipapirhandelloven § 10-22 annet til fjerde ledd gjelder tilsvarende så langt de passer.
