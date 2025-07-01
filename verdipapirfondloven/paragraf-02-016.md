@@ -1,0 +1,3 @@
+# § 2-16. Godtgjørelsesordninger
+(1) Forvaltningsselskapet skal etablere og praktisere en godtgjørelsesordning som fremmer god og effektiv risikostyring og forvaltning i samsvar med investeringsmandatene for de verdipapirfondene som forvaltes. Godtgjørelsesordningen skal omfatte ansatte med vesentlig betydning for risikoprofilen til forvaltningsselskapet eller fond under forvaltning, herunder ledende ansatte, ansatte med kontrolloppgaver og ansatte med tilsvarende godtgjørelse som ledende ansatte. Godtgjørelsesordningen skal tilpasses virksomhetens art, omfang og kompleksitet.
+(2) Departementet kan i forskrift gi nærmere regler om godtgjørelsesordninger.

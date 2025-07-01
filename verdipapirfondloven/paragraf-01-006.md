@@ -1,0 +1,2 @@
+# § 1-6. Behandling av personopplysninger i tilknytning til autorisasjonsordninger for ansatte
+Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og autoriserer personer ansatt i et forvaltningsselskap, tilknyttet agent, eller utenlandsk forvaltningsselskap som nevnt i §§ 3-3 første ledd eller 3-4 første ledd, kan behandle slike opplysninger som nevnt i personvernforordningen artikkel 10 som ledd i vurderingen av om en ansatt skal gis autorisasjon, fratas autorisasjon eller gis advarsel.

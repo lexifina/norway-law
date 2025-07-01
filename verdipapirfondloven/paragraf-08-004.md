@@ -1,0 +1,5 @@
+# § 8-4. Plikt til å gi nøkkelinformasjon
+(1) Forvaltningsselskap og den som opptrer på selskapets vegne og under selskapets ansvar, skal gi investorer nøkkelinformasjon før tegning av andeler. Nøkkelinformasjon kan gis på et varig medium eller gjennom et nettsted. Investor har rett til vederlagsfri kopi av informasjonen.
+(2) Nøkkelinformasjon for verdipapirfond etablert her i riket, skal sendes Finanstilsynet før det innbys til tegning. Tilsvarende gjelder endringer i informasjonen.
+(3) Også andre som med hjemmel i denne loven eller annen lov har rett til å selge eller gi råd til investorer vedrørende investeringer i verdipapirfond, plikter å gi nøkkelinformasjon til sine kunder. Forvaltningsselskapet plikter på anmodning å gi nøkkelinformasjon til andre som selger eller gir råd vedrørende verdipapirfond, og til leverandører av produkter der verdipapirfond inngår.
+(4) Departementet kan i forskrift gi nærmere regler om vilkårene for å gi nøkkelinformasjon på annet varig medium enn papir eller gjennom et nettsted som ikke er et varig medium.

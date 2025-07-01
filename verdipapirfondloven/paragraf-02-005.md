@@ -1,0 +1,5 @@
+# § 2-5. Erverv og avhendelse av betydelig eierandel
+(1) Erverv av betydelig eierandel i forvaltningsselskap kan bare gjennomføres etter at erververen har sendt Finanstilsynet melding om dette. Det samme gjelder erverv som medfører at eierandelen utgjør eller overstiger 20 prosent, 33 prosent eller 50 prosent av aksjekapitalen eller stemmene i selskapet.
+(2) Finanstilsynet kan nekte slikt erverv dersom aksjeeieren ikke anses egnet til å sikre en god og fornuftig forvaltning av forvaltningsselskapet. Den som erverver betydelig eierandel etter reglene i første ledd, skal fremlegge ordinær politiattest etter politiregisterloven § 40 dersom Finanstilsynet ber om det.
+(3) Avhendelse av betydelig eierandel i forvaltningsselskap kan bare gjennomføres etter at avhenderen har sendt Finanstilsynet melding om dette. Det samme gjelder ved avhendelse av eierandel som medfører at eierandelen kommer under 20 prosent, 33 prosent eller 50 prosent av aksjekapitalen eller stemmene i selskapet.
+(4) Departementet kan i forskrift gi nærmere regler om erverv og avhendelse av eierandel, herunder regler om meldeplikt for forvaltningsselskapet.

@@ -1,0 +1,9 @@
+# § 3-3. Forvaltningsselskap etablert i annen EØS-stat – virksomhet i Norge
+(1) Utenlandsk forvaltningsselskap som omfattes av EØS-reglene som svarer til rådsdirektiv 2009/65/EF (UCITS-direktivet), kan utøve virksomhet som beskrevet i § 2-1 i Norge direkte fra forretningsstedet i en annen EØS-stat eller gjennom etablering av filial. Foretaket må ha rett til å drive slik virksomhet i hjemlandet.
+(2) Innen to måneder etter at Finanstilsynet har mottatt melding fra myndighetene i en annen EØS-stat om etablering av filial, skal Finanstilsynet forberede tilsynet med forvaltningsselskapets virksomhet og opplyse selskapet om reglene for god forretningsskikk som gjelder for virksomheten. Filialen kan starte virksomhet i Norge to måneder etter at Finanstilsynet har mottatt meldingen, eller ved mottak av opplysninger etter første punktum.
+(3) Forvaltningsselskapet kan starte virksomhet direkte fra forretningsstedet i en annen EØS-stat når myndigheten i hjemlandet har sendt melding til Finanstilsynet.
+(4) Forvaltningsselskapet skal informere Finanstilsynet skriftlig om endring i opplysninger om virksomheten i Norge før endringen gjennomføres. Endringer i opplysninger om etablering av filial kan ikke gjennomføres før én måned etter at det er gitt informasjon om endring.
+(5) For utenlandsk forvaltningsselskap som utøver verdipapirfondsforvaltning knyttet til UCITS etablert i Norge, gjelder bestemmelsene i kapittel 4, 5, 6 og 8.
+(6) For utenlandsk forvaltningsselskap som utøver virksomhet gjennom etablering av filial, gjelder regler om god forretningsskikk fastsatt i denne lov eller med hjemmel i denne lov.
+(7) Dersom utenlandsk forvaltningsselskap skal markedsføre UCITS i Norge uten filialetablering, og verdipapirfondet forvaltes av selskapet, er det tilstrekkelig med melding etter § 9-3.
+(8) Departementet kan i forskrift gi nærmere regler om virksomhetsutøvelse og etablering av filial i Norge for forvaltningsselskap fra andre EØS-stater.

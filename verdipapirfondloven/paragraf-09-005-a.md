@@ -1,0 +1,5 @@
+# § 9-5 a. Opphør av markedsføring av utenlandske UCITS i Norge
+(1) Ved opphør av markedsføring av utenlandske UCITS i Norge, herunder av en andelsklasse, skal det fremsettes tilbud om vederlagsfri innløsning til samtlige andelseiere i Norge. Tilbudet må være offentlig tilgjengelig i minimum 30 virkedager, og gis til alle andelseiere med kjent identitet, enten direkte eller gjennom tredjeparter. Informasjon om avvikling av markedsføringen må gjøres offentlig kjent på egnet måte, herunder ved bruk av elektronisk kommunikasjon.
+(2) Informasjonen som skal gis etter første ledd, skal gis på norsk og tydelig angi konsekvensene for andelseierne ved å forbli investert i fondet.
+(3) Direkte og indirekte tilbud om investering i fondet skal opphøre senest på tidspunktet for oversendelse av melding om opphør av markedsføring fra vedkommende myndighet i fondets hjemland til Finanstilsynet. Avtaler med tredjeparter om distribusjon av verdipapirfondsandeler skal være endret eller terminert senest på samme tidspunkt.
+(4) Etter avregistrering skal gjenværende andelseiere i fondet motta informasjon som angitt i lovens kapittel 8 med forskrifter.
