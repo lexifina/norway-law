@@ -8,7 +8,7 @@ c) å oppfylle spesifikke eller faste informasjonskrav som er relevante for kris
 d) å avhende spesifikke eiendeler,
 e) å begrense eller avslutte eksisterende eller planlagt virksomhet,
 f) å begrense eller unnlate å utvikle nye eller eksisterende forretningsområder, eller salg av nye eller eksisterende produkter,
-g) å forenkle strukturen i foretaket eller konsernet for å sikre at kritiske funksjoner kan skilles ut juridisk og operasjonelt fra øvrig virksomhet ved bruk av krisetiltak,
+g) å forenkle strukturen i foretaket eller konsernet for å sikre at kritiske funksjoner kan skilles ut juridisk og operasjonelt fra øvrig virksomhet for å sikre kontinuitet og digital operasjonell motstandsdyktighet,
 h) å etablere et holdingforetak,
 i) å utarbeide en plan for å oppfylle minstekravet etter § 20-9 og det samlede kapitalbufferkravet etter § 14-3,
 j) å utstede konvertibel gjeld for å oppfylle minstekravet etter § 20-9,
