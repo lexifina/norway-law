@@ -1,0 +1,2 @@
+# § 2-10. Opphør av eiendomsmeglingsvirksomhet
+Ved opphør av eiendomsmeglingsvirksomhet skal foretaket gi melding til Finanstilsynet om dette. I meldingen skal det framgå hvem som skal ha ansvaret for oppbevaringspliktige dokumenter, jf. § 3-7. Melding skal inneholde bekreftelse fra revisor om at det ikke finnes klientmidler eller regnskapsført klientansvar. Første punktum gjelder tilsvarende ved opphør av filial, jf. eiendomsmeglingsloven § 2-2 første ledd.

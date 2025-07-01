@@ -1,0 +1,2 @@
+# § 8-1. Godkjenning av klageorgan
+Et klageorgan som er godkjent etter lov om klageorganer for forbrukersaker § 3, anses uten forutgående søknad som godkjent klageorgan for behandling av tvister etter eiendomsmeglingsloven § 8-8, forutsatt at klageorganet i sine vedtekter har angitt hvilke kunder og institusjoner som kan bringe sak inn for klageorganet. Andre klageorganer kan godkjennes etter søknad til Finansdepartementet.
