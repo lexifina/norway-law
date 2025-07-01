@@ -1,0 +1,2 @@
+# § 6-12. Utgifter til tilsynet med overholdelse av lov om betalingssystemer mv.
+Finanstilsynets utgifter til tilsynet med overholdelsen av lov om betalingssystemer m.v., fordeles på foretak som nevnt i finanstilsynsloven § 6-1 etter størrelsen på beløpene som følger av fordelingen etter lovens første ledd. Slike utgifter skal likevel ikke fordeles på eiendomsmeglerforetak, inkassoforetak, revisorer, revisjonsselskap, statsautoriserte regnskapsførere og gjeldsinformasjonsforetak.

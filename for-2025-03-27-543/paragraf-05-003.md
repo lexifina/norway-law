@@ -1,0 +1,2 @@
+# § 5-3. Sekretariat
+Sekretariatets oppgaver er å forberede saker, utrede juridiske spørsmål, innkalle til og tilrettelegge for Finanstilsynsklagenemndas møter og underrette klager, Finanstilsynet og departementet om Finanstilsynsklagenemndas vedtak. Sekretariatet skal utarbeide en årlig rapport om nemndas virksomhet som skal godkjennes av nemndas leder. Sekretariatet skal for øvrig utføre de oppgavene som nemndas leder pålegger.
