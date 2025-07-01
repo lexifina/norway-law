@@ -1,0 +1,3 @@
+# § 2-5. Utval av jordskiftemeddommarar
+I kvart jordskiftesokn skal det vere eit særskilt utval av jordskiftemeddommarar. Medlemmene i utvalet skal vere kunnige i saker som jordskifteretten i jordskiftesoknet til vanleg har. Jordskifterettsleiaren fastset kor mange jordskiftemeddommarar som skal utpeikast, slik at ein kan rekne med at kvart medlem kan gjere teneste i ei sak i valperioden.
+Utvalet skal utpeikast etter reglane i domstolloven om val av meddommarar. Jordskifterettsleiaren fastset kor mange det skal vere i utvalet for kvar kommune. Alle kommunar i jordskiftesoknet skal peike ut minst éin medlem av kvart kjønn til utvalet, og alltid like mange av kvart kjønn. Meddommarar og skjønnsmedlemmer er ikkje fritekne for val til utvalet av jordskiftemeddommarar.

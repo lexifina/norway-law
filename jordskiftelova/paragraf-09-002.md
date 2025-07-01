@@ -1,0 +1,2 @@
+# § 9-2. Skyldnader knytte til eigedom som er med i jordskifte
+Ein skyldnad som ligg på ein eigedom for anlegg som er sett i verk med offentleg tilskott, som for eksempel skogplantings-, senkings-, uttappings- eller førebyggingsarbeid, skal følgje det grunnstykket skyldnaden har samanheng med, om det let seg gjere utan avgjerande ulempe for det som er formålet med jordskiftet. Det same gjeld skyldnad til å halde ved like andre anlegg som for eksempel gravplassar.

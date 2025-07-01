@@ -1,0 +1,2 @@
+# § 3-30. Kompetansen jordskifteretten har
+Jordskifteretten kan fordele planskapt netto verdiauke mellom eigedommar som er omfatta av ein reguleringsplan. Fordelinga kan gjerast dersom planmyndigheita med heimel i plan- og bygningsloven § 12-7 nr. 13 i reguleringsplanen har gitt føresegn om at planskapt verdiauke skal fordelast. Planmyndigheita må i reguleringsplanen ha fastsett den geografiske avgrensinga av området for fordeling.

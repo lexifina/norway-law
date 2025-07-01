@@ -1,0 +1,3 @@
+# § 3-33. Fare for elvebrot, skred, sandfok og liknande
+Der det er fare for elvebrot, skred, sandfok og liknande, skal jordskifteretten om det ikkje er mogleg å ta omsyn til det i sjølve jordskifteløysinga, fastsetje nødvendig førebyggingsarbeid eller andre tryggingstiltak og gi reglar om korleis kostnadene med arbeidet og vedlikehaldet skal delast. Er det ikkje teke omsyn til faren i jordskifteløysinga, skal jordskifteretten gi reglar for det tilfellet det blir skade, og først og fremst om korleis skaden skal delast.
+Når det er gitt reglar etter første ledd, kan skadelidne krevje hjelp av jordskifteretten til å jamne ut skaden, om ikkje anna er fastsett og partane ikkje blir samde. For slike saker gjeld reglane i kapittel 6 så langt dei høver.

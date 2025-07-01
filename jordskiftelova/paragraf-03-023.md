@@ -1,0 +1,2 @@
+# § 3-23. Utlegging av grunn og bruksrett som kan endre verdi
+Meiner jordskifteretten at grunn og bruksrett i jordskifteområdet kan få ei utnytting som gir stor verdiendring, bør grunn eller bruksrett ikkje skifte eigar utan at det trengst for eit tenleg jordskifte. Om grunn eller bruksrett skiftar eigar, skal jordskifteretten sjå til at verdiendring som nemnt i første punktum, blir så lik som råd er før og etter jordskiftet.

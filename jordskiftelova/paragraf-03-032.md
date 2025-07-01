@@ -1,0 +1,4 @@
+# § 3-32. Korleis jordskifteretten skal fordele planskapt netto verdiauke
+Jordskifteretten skal fordele planskapt netto verdiauke slik at kvar eigar får den delen av den planskapte netto verdiauken som følgjer av § 3-31 andre punktum.
+Jordskifteretten skal ved fordeling etter første ledd, så langt råd er, tildele ein part utbyggingsrettar på eller inntil eigedommen parten har. Når ein part får tildelt ein utbyggingsrett som ikkje ligg på eigedommen parten har, følgjer eigedomsretten den tomta som utbyggingsretten gjeld.
+Dersom planskapt netto verdiauke berre utgjer ein del av ein utbyggingsrett, har delhavaren med størst del av utbyggingsretten, rett til å krevje heile utbyggingsretten tildelt til seg. Dersom ingen av delhavarane krev utbyggingsretten tildelt til seg, blir den tomta som utbyggingsretten gjeld, eit sameige mellom delhavarane. Tek ein delhavar over etter første punktum, skal andre delhavarar få oppgjer for planskapt netto verdiauke i pengar.

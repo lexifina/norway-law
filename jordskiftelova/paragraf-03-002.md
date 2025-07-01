@@ -1,0 +1,3 @@
+# § 3-2. Utenlege eigedomstilhøve
+Jordskifteretten kan halde jordskifte etter §§ 3-4 til 3-10 dersom minst éin eigedom eller bruksrett i jordskifteområdet er vanskeleg å bruke på tenleg måte etter tida og tilhøva. Det same gjeld dersom det er grunn til å rekne med at minst éin eigedom eller bruksrett vil bli vanskeleg å bruke på tenleg måte som følgje av eit offentleg eller privat tiltak. Som offentleg tiltak skal òg reknast offentleg regulering av eigarrådvelde eller vedteken reguleringsplan med tilhøyrande omsynssone.
+Jordskifteretten kan ikkje gjere andre endringar enn dei som er nødvendige for å bøte på dei utenlege eigedomstilhøva som partane har teke opp i jordskiftet.

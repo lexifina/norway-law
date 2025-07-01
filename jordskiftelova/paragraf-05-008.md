@@ -1,0 +1,4 @@
+# § 5-8. Tvist
+Jordskifteretten avgjer under forretninga tvist om retten til og vilkåra for å fremje skjønn eller andre saker etter kapittel 5, og tvist om kva som skal vere emne for skjønn eller anna avgjerd.
+Jordskifteretten avgjer under forretninga tvist om retten til og vilkåra for ekspropriasjon og tvist om kva som skal eksproprierast.
+Dersom det i skjønn etter § 5-1 første punktum er tvist om eit underliggjande rettshøve om grenser, eigedomsrett eller anna innan jordskifteområdet og som det er nødvendig å ta stilling til for at saka skal kunne avgjerast, skal jordskifteretten etter krav frå ein part, avgjere dette. Jordskifteretten kan som del av skjønn i samband med vernejordskifte etter § 5-1 første punktum, avgjere om det skal ytast erstatning for den råderettsavgrensinga som følgjer av den offentlege reguleringa av eigarrådvelde.

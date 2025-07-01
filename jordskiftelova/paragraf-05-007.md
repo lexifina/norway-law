@@ -1,0 +1,3 @@
+# § 5-7. Behandlinga av saker etter kapittel 5
+Kapitla 1, 2, 6 og 8 gjeld så langt dei høver for skjønn og andre avgjerder som jordskifteretten held eller tek etter §§ 5-1 til 5-3. I tillegg gjeld § 7-1 andre ledd og § 7-10. Reglane for skjønn styrt av tingretten i lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker gjeld så langt kapittel 1, 2, 6 og 8 ikkje har reglar om behandlinga. I tillegg gjeld reglane i dei lovene som er nemnde i § 5-3, for behandlinga.
+Avgjerder som jordskifteretten tek som eiga sak etter §§ 5-4 til 5-6, følgjer reglane for skjønn styrt av tingretten i lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker. I tillegg gjeld reglane i dei lovene som er nemnde i § 5-3, for behandlinga.
