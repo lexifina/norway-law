@@ -1,0 +1,3 @@
+# § 3. Tariffnemnda
+Kongen oppnevner en tariffnemnd. Tariffnemnda skal ha en leder og 4 andre faste medlemmer. Medlemmene, med personlige varamedlemmer, blir oppnevnt for tre år. Ett av medlemmene skal representere arbeidstakerinteresser, og ett arbeidsgiverinteresser.
+I tillegg oppnevner departementet ett medlem fra den organisasjon som fremmer krav overfor nemnda og ett medlem fra dennes tariffmotpart i den tariffavtalen som kreves allmenngjort, såfremt ikke begge parter er blant de faste medlemmene av Tariffnemnda, jf. første ledd. Disse medlemmene oppnevnes for den enkelte sak etter forslag fra partene.
