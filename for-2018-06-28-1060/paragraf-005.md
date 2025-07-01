@@ -1,0 +1,2 @@
+# § 5. Meldeplikt for nettselskap
+Nettselskap som har tilknytnings- eller leveringsplikt etter energiloven kapittel 3 skal uten ugrunnet opphold melde fra til Norges vassdrags- og energidirektorat dersom utfasing av mineralolje til oppvarming eller fossil gass til byggvarme antas å få betydning for forsyningssikkerheten i kraftsystemet, og hvor tiltak for å bedre forsyningssikkerheten ikke er mulig å gjennomføre innen forbudet trer i kraft. Kopi av meldingen skal sendes berørte kommuner.
