@@ -1,0 +1,2 @@
+# § 4-1. Utlevering av opplysninger til krisehåndteringsmyndigheter og tilsynsmyndigheter i land utenfor EØS
+Taushetsplikt etter finanstilsynsloven § 2-7 og forvaltningsloven gjelder ikke overfor krisehåndteringsmyndigheter, og tilsynsmyndigheter som fører tilsyn som nevnt i finanstilsynsloven § 1-2, i land utenfor EØS, når opplysningene er nødvendige for at krisehåndteringsmyndigheten og tilsynsmyndigheten skal kunne utføre oppgaver som følger av lov eller regler fastsatt med hjemmel i lov.
