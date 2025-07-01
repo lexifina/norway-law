@@ -1,0 +1,2 @@
+# § 10. Opplysningsplikt
+Etter pålegg fra Tariffnemnda plikter offentlige myndigheter uten hinder av taushetsplikt å gi alle opplysninger om lønns- og arbeidsvilkår som nemnda finner det nødvendig å få kjennskap til som ledd i saksforberedelsen. Det samme gjelder arbeidsgiver, den som i arbeidsgivers sted leder virksomheten, virksomhetens arbeidstakere og enhver annen som er knyttet til virksomheten.
