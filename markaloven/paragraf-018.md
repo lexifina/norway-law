@@ -1,0 +1,4 @@
+# § 18. Retting og avbøtende tiltak
+Kommunen kan pålegge den ansvarlige å rette eller stanse forhold som er i strid med loven eller i strid med vedtak med hjemmel i loven.
+Den som ved å overtre loven eller vedtak med hjemmel i loven forårsaker fare for miljøforringelse, skal sette i verk tiltak for å forhindre at slik miljøforringelse skjer. Har miljøforringelsen allerede inntrådt, plikter skadevolder å hindre ytterligere miljøforringelse. Han plikter som hovedregel også å gjenopprette den tidligere miljøtilstand ved oppsamling, rydding, fjerning, planering eller andre egnede tiltak. Tiltak som i seg selv kan volde miljøpåvirkning av noen betydning, skal bare iverksettes etter tillatelse fra departementet eller pålegg etter første ledd.
+Plikten til utbedring og gjenoppretting gjelder ikke dersom det i lys av kostnadene og virkningene av tiltakene, miljøvirkningene av overtredelsen og overtrederens skyld og økonomiske stilling ville være særlig urimelig.

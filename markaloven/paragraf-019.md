@@ -1,0 +1,4 @@
+# § 19. Tvangsmulkt
+For å sikre at bestemmelser gitt i eller i medhold av denne lov blir gjennomført, kan kommunen eller statsforvalteren fatte vedtak om tvangsmulkt.
+Tvangsmulkt kan fastsettes når overtredelsen av en bestemmelse er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter fastsatt frist for retting av forholdet. Tvangsmulkt kan fastsettes på forhånd dersom særlige grunner tilsier det, og løper da fra en eventuell overtredelse inntreffer. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer, eller at den forfaller for hver overtredelse. Tvangsmulkt løper likevel ikke dersom etterlevelse er umulig på grunn av forhold som ikke skyldes den ansvarlige. Tvangsmulkt kan fastsettes som løpende mulkt eller engangsmulkt.
+Tvangsmulkt pålegges den ansvarlige for overtredelsen. Pålegg om tvangsmulkt er tvangsgrunnlag for utlegg. Departementet kan frafalle påløpt tvangsmulkt.
