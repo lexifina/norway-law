@@ -1,0 +1,4 @@
+# § 7. Offentliggjøring av opplysninger
+(1) Finanstilsynet kan pålegge tilbydere eller personer som søker opptak til handel av en kryptoeiendel, eller utstedere av et eiendelsbasert token eller e-pengetoken å gi supplerende opplysninger i hvitboken og i markedsføringsmaterialet for å oppfylle regler gitt i eller i medhold av loven her.
+(2) Finanstilsynet kan offentliggjøre eller pålegge tilbydere eller personer som søker opptak til handel av en kryptoeiendel, utstedere av et eiendelsbasert token eller e-pengetoken, eller tilbydere av kryptoeiendelstjenester, å offentliggjøre alle vesentlige opplysninger som kan påvirke vurderingen av de aktuelle kryptoeiendelene som tilbys til offentligheten eller tas opp til handel, eller den aktuelle kryptoeiendelstjenesten, for å sikre beskyttelsen av kryptoeiendelsinnehavernes interesser eller et velfungerende marked.
+(3) Departementet kan i forskrift gi nærmere regler om offentliggjøring av opplysninger.
