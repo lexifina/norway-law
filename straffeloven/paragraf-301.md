@@ -5,4 +5,4 @@ a) om den er begått av flere i fellesskap,
 b) om den er begått på en særlig smertefull eller særlig krenkende måte,
 c) den fornærmedes alder på handlingstidspunktet,
 d) om det har skjedd gjentatte overgrep, eller
-e) om den fornærmede som følge av handlingen dør eller får betydelig skade på kropp eller helse. Seksuelt overførbar sykdom regnes alltid som betydelig skade på kropp eller helse etter denne paragrafen.
+e) om den fornærmede som følge av handlingen dør eller får betydelig skade på kropp eller helse.
