@@ -1,0 +1,3 @@
+# § 8. Tilgangsstyring og taushetsplikt
+Den behandlingsansvarlige skal sørge for tilgangsstyring, slik at personer tilknyttet organisasjonsleddet bare har tilgang til personopplysninger som nevnt i §§ 4 og 5 dersom og i den utstrekning det er nødvendig for å oppfylle formålene nevnt i disse bestemmelsene.
+Personer som har tilgang til personopplysninger etter denne loven, er underlagt taushetsplikt med hensyn til de nevnte opplysningene. Taushetsplikten er ikke til hinder for at opplysningene kan behandles i samsvar med bestemmelsene i denne loven, utleveres til politiet, gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning de som har krav på taushet, samtykker.
