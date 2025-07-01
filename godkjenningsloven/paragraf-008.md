@@ -1,0 +1,3 @@
+# § 8. Krav til leder, nemndmedlemmer, meklere og saksbehandlere
+Ledere, nemndmedlemmer, meklere og saksbehandlere i klageorganet skal ved ansettelsen eller oppnevnelsen opplyse om ethvert forhold som kan påvirke deres upartiskhet. Personer nevnt i første punktum skal ikke være underlagt instrukser fra partene eller deres representanter, og ansettelsen eller oppnevnelsen skal være av en slik varighet at kravet til upartiskhet sikres. Godtgjørelse skal være uavhengig av resultatet i saken.
+Departementet kan i forskrift gi bestemmelser om krav til kompetanse og upartiskhet for klageorganers ledere, nemndmedlemmer, meklere og saksbehandlere.

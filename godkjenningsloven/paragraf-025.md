@@ -1,0 +1,3 @@
+# § 25. Innmelding til EU-kommisjonens liste over klageorganer
+Klageorganer som er godkjent etter loven her, skal meldes til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker. Også Forbrukertilsynet og klageorganer som er opprettet med hjemmel i annen lov som tilfredsstiller kravene i direktivet, kan meldes inn.
+Innmeldingen etter første ledd foretas av departementet. Departementet skal på sine hjemmesider ha en lett tilgjengelig elektronisk lenke til EU-kommisjonens liste over klageorganer.

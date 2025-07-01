@@ -1,0 +1,4 @@
+# § 24. Forholdet til de alminnelige domstolene
+Så lenge en sak er til behandling i innmeldt klageorgan, kan en part ikke bringe saken inn for de alminnelige domstolene. En sak anses for å være til behandling fra det tidspunktet klageorganet mottok klagen.
+Om en part bringer en sak som er til behandling hos de alminnelige domstolene inn for et innmeldt klageorgan, kan domstolen stanse saken etter begjæring av vedkommende part. Reglene i tvisteloven § 16-15, § 16-18 tredje og fjerde ledd og § 16-19 gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av klageorganets avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing.
+En sak som har vært behandlet i en innmeldt nemnd, kan bringes inn for tingretten uten forutgående behandling i forliksrådet.

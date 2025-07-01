@@ -1,0 +1,3 @@
+# § 21. Avgjørelser
+Nemnda skal ha et likt antall medlemmer fra næringen og fra Forbrukerrådet eller medlemmer oppnevnt av Forbrukerrådet eller en annen organisasjon som representerer forbrukerne på et bestemt saksområde. Nemnda er beslutningsdyktig når minst to medlemmer og leder er til stede. Avgjørelse skal treffes ved alminnelig flertall. Ved stemmelikhet skal nemndas leder ha dobbeltstemme.
+Nemndas avgjørelse skal begrunnes. I begrunnelsen skal det fremgå om avgjørelsen er enstemmig. Det skal opplyses om partstilhørigheten til medlemmene som eventuelt dissenterer. Mindretallets syn skal også begrunnes.

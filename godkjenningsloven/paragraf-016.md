@@ -1,0 +1,4 @@
+# § 16. Saksbehandlingsfrist og krav til begrunnelse
+Klageorganet skal informere partene så snart det har mottatt nødvendige og relevante dokumenter fra begge parter og saksbehandlingen kan begynne. Resultatet av klagebehandlingen skal gjøres tilgjengelig for partene innen 90 dager fra dette tidspunktet. I særlig komplekse saker kan fristen forlenges. Partene skal informeres om forlengelsen og om ny frist.
+Partene skal informeres skriftlig eller på varig medium om resultatet og begrunnelsen. Med varig medium menes enhver innretning som gjør partene i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelig i uendret form.
+Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal klageorganet gi partene rimelig betenkningstid for å vurdere resultatet.
