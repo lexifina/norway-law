@@ -1,0 +1,1 @@
+# Kapittel XII. Ikrafttreden.

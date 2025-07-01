@@ -1,0 +1,3 @@
+# § 34. Regler for fangst av innlandsfisk
+Departementet gir forskrift om regulering av fiske etter innlandsfisk og kreps i samsvar med naturmangfoldloven, herunder om redskapstyper, redskapsbruk og stenging av vassdrag av hensyn til fangst av ål. Departementet kan gi forskrift eller treffe enkeltvedtak om høsting og annet uttak av andre ferskvannsorganismer. Det kan gis særskilte regler for forskjellige områder eller vassdrag.
+I vassdrag hvor det går anadrome laksefisk, gjelder de bestemmelser som er fastsatt for anadrome laksefisk også for fiske av innlandsfisk. Departementet kan ved forskrift fastsette egne regler for fiske av innlandsfisk når det vil tjene til bedre utnytting av innlandsfisken og ikke vil være til vesentlig skade for bestandene av anadrome laksefisk.

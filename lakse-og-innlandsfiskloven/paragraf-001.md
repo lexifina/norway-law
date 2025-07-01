@@ -1,0 +1,2 @@
+# § 1. Lovens formål
+Lovens formål er å sikre at naturlige bestander av anadrome laksefisk, innlandsfisk og deres leveområder samt andre ferskvannsorganismer forvaltes i samsvar med naturmangfoldloven og slik at naturens mangfold og produktivitet bevares. Innenfor disse rammer skal loven gi grunnlag for utvikling av bestandene med sikte på økt avkastning, til beste for rettighetshavere og fritidsfiskere.
