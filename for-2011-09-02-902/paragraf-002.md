@@ -1,0 +1,12 @@
+# § 2. Innarbeiding av forordning (EU) nr. 36/2012
+(1) Forordning (EU) nr. 36/2012 av 18. januar 2012 om restriktive tiltak i lys av situasjonen i Syria, med senere endringer, gjelder som forskrift i sin vedlagte form, med de tilpasninger som følger av denne bestemmelsen.
+(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge», med følgende unntak:
+a) «EUs felles liste over militært materiell» skal forstås som henvisninger til «Liste I – forsvarsrelaterte varer» i vedlegg I i forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester
+b) EU og EUs medlemsstater i artikkel 3, 18 og 19 skal forstås som også å omfatte Norge.
+(3) Henvisningene til medlemsstatenes kompetente myndigheter, i enkelte tilfelle med referanser til vedlegg III, skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+(4) Henvisningene til virkeområdet i artikkel 35 skal forstås som «forskriftens virkeområde slik dette er fastlagt i § 1».
+(5) Det er forbudt å kjøpe, importere eller transportere varer og teknologi, som oppført i vedlegg I til forskrift om eksport av forsvarsmateriell mv., fra Syria eller dersom de har opprinnelse i Syria. Dette gjelder ikke import eller transport av kjemiske våpen eller relatert materiale fra Syria eller med opprinnelse i Syria, som gjennomføres i samsvar med punkt 10 i FNs sikkerhetsrådsresolusjon 2118 (2013) og relevante beslutninger fra OPCWs eksekutivråd, i samsvar med formålet med konvensjonen om kjemiske våpen.
+(6) Forbudene i artikkel 2a, 2b og 4 mot å selge, levere, overføre eller eksportere visse varer og teknologi omfatter også forbud mot transport.
+(7) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også følgende artikler EU-interne og kommer ikke til anvendelse: 2, 28, 30-37. Tilsvarende gjelder forordningens vedlegg III.
+(8) I forskriftens vedlegg II er listen i EU-forordningens vedlegg II erstattet med lenker til EUs konsoliderte liste over listeførte personer og enheter underlagt restriktive tiltak.
+(9) Henvisningen i artikkel 15a til nummererte enheter oppført i vedlegg II viser til vedlegg II til den konsoliderte versjonen av forordning (EU) nr. 36/2012.
