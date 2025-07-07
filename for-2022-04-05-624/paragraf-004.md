@@ -1,0 +1,2 @@
+# § 4. Forflytninger av akvatiske dyr og produkter av akvatiske dyr
+EØS-avtalens vedlegg I kapittel I del 1.1. nr. 13j (forordning (EU) 2020/990) med utfyllende bestemmelser til europaparlaments- og rådsforordning (EU) 2016/429 når det gjelder krav til dyrehelse og sertifikater ved forflytninger i Unionen av akvatiske dyr og animalske produkter av akvatiske dyr gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

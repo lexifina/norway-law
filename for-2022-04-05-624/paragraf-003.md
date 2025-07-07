@@ -1,0 +1,2 @@
+# § 3. Godkjenning, registrering, journalføring og transport
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13i (forordning (EU) 2020/691) med utfyllende bestemmelser til europaparlaments- og rådsforordning (EU) 2016/429 når det gjelder bestemmelser om akvakulturanlegg og transportører av akvatiske dyr gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
