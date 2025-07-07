@@ -1,0 +1,2 @@
+# § 5. Unntak fra krav til registering og journalføring
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13t (forordning (EU) 2021/2037 med utfyllende bestemmelser til europaparlaments- og rådsforordning (EU) 2016/429, når det gjelder bestemmelser om registering av akvakulturvirksomheter og journalføring for driftsansvarlige), gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

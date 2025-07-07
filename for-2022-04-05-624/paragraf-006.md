@@ -1,0 +1,2 @@
+# § 6. Ytterligere krav til godkjenning, med krav til vurdering av avstand til annen akvakulturrelatert virksomhet, vassdrag m.m.
+I vurderingen av om akvakulturanlegget eller grupper av akvakulturanlegg utgjør en uakseptabel risiko for spredning av sykdom etter dyrehelseforskriften § 4, jf. forordning (EU) 2016/429 artikkel 181, nr. 1 c, skal det særlig legges vekt på kunnskap om strømforhold og avstand til vassdrag, annen akvakulturrelatert virksomhet og andre former for grupperinger av akvakulturanlegg som har betydning for smitterisikoen.
