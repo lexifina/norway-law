@@ -1,0 +1,5 @@
+# § 4-1. Krav til grunnutdanning for opptak til 1 ½-2 årige masterprogram etter § 3 og § 7 i forskrift om krav til mastergrad
+(1) For opptak til 1 ½–2-årige masterprogram kreves det en fullført norsk bachelorgrad eller tilsvarende fullført utdanningsløp.
+(2) Grunnutdanningen skal dekke krav til faglig fordypning på minimum 80 studiepoeng. Krav til den faglige fordypningens innhold og omfang skal fremgå av programbeskrivelsen. Vektet karaktergjennomsnitt i den faglige fordypningen skal være minst C (norsk karakterskala) eller tilsvarende, jf. § 5. Se også § 16 om overgangsordninger.
+(3) I spesielle tilfeller kan annen dokumentert kompetanse godkjennes som helt eller delvis likeverdig med kravene i første og andre ledd, forutsatt at søkeren har de nødvendige faglige forutsetninger for å gjennomføre studiet.
+(4) For opptak til masterprogrammet i arkeologi og konservering, studieretningene gjenstandskonservering og malerikonservering, kreves det legeattest som viser normalt fargesyn, bedømt etter «Ishihara test for colour blindness».
