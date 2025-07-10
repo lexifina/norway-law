@@ -1,0 +1,2 @@
+# Merknader til forskriften § 5c
+Av hensyn til kontrollerbarhet og erfaringsinnhenting stilles krav om føring av kjørebok, der opplysninger om når, hvem og hvor man har kjørt skal framgå. Kjøreboka skal framvises på forespørsel til naturoppsynet. Antall turer det kan kjøres skal framgå av tillatelsen, og normalt vil utkjøring av åtebu og bås kun kreve én transportering pr. lisensfellingsperiode. Åte vil kreve flere turer pr. periode, men vil avgrenses ved kommunens tillatelse, slik det fremgår av forskriften.
