@@ -1,0 +1,2 @@
+# § 3. Unntak og dispensasjon
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra forskriften på grunnlag av vedlagte forordnings unntaksbestemmelser. Direktoratet for eksportkontroll og sanksjoner kan også i særskilte tilfeller dispensere fra forskriften dersom den får en klart utilsiktet virkning, og forutsatt at det ikke strider mot Norges folkerettslige forpliktelser eller hensynene bak de restriktive tiltak i lys av Russlands destabiliserende aktiviteter.
