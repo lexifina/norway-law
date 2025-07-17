@@ -1,0 +1,4 @@
+# § 9-9. Antall eksamensforsøk
+Kadetter og studenter kan gå opp til eksamen i et emne inntil to ganger.
+Kadetter og studenter som har bestått første ordinære eksamen, og som ønsker å ta eksamen på nytt for å forbedre karakteren, har bare anledning til å melde seg opp til neste ordinære eksamen under forutsetning av at slik eksamen blir arrangert og at det er tilstrekkelig kapasitet. Dersom flere eksamener bygger på hverandre, kan det fastsettes i utfyllende bestemmelser for de aktuelle studier at det ikke er anledning til å gå opp til ny ordinær eksamen i et emne etter at påfølgende eksamen er bestått.
+Kadetter og studenter som har fått ikke bestått eksamen to ganger mister sin studieplass ved Forsvarets høgskole. Avdeling fagstab eller dekan kan innvilge søknad om dispensasjon med hensyn til antall eksamensforsøk etter anbefaling fra avdeling.
