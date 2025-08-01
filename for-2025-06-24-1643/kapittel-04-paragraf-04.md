@@ -1,0 +1,13 @@
+# § 4-3. Studentens ansvar og undersøkelses- og opplysningsplikt
+(1) Studenter som er tatt opp ved betalingspliktige utdanningstilbud, må overholde betalingsfrister.
+(2) Hovedregelen er at aksept av studieplass også medfører aksept av avgifter og eventuelle særutlegg. Disse er ikke refunderbare.
+(3) Studenten plikter å sette seg inn i gjeldende krav i fagskoleloven, fagskoleforskriften, denne forskrift (forskrift om høyere yrkesfaglig utdanning ved Trøndelag høyere yrkesfagskole), studieplaner og de spesifikke bestemmelsene som gjelder det studietilbudet studenten følger.
+(4) Manglende kjennskap til ovennevnte kilder kan ikke påberopes som et befriende forhold.
+(5) Studenten plikter skriftlig å underrette THYF om navne- og adresseendringer. Navneendring må dokumenteres. All post fra THYF blir sendt til digital postkasse, med unntak av vitnemål som sendes per post. Dersom studenten har reservert seg mot digital post, sendes posten til studentens folkeregistrerte adresse. Unnlatt oppdatering av adresse og telefonnummer innebærer at studenten må bære risikoen for at underretninger fra THYF ikke mottas, eller ikke mottas i tide.
+(6) Alle studenter ved THYF har tilgang til, og skal bruke skolens læringsplattform.
+(7) Studenten skal til enhver tid holde seg orientert om meldinger og bestemmelser som blir gitt fra THYF. De vanligste informasjonskanalene er studiestedets læringsplattform, e-post og THYFs nettside, dette i tillegg til all informasjon formidlet i klasserom, både stedbasert og nettbasert. Studenter som velger å videresende e-posten til en annen adresse enn skole-epostadressen, plikter selv å sørge for at e-post kan bli mottatt av denne e-postadressen, og må selv bære risikoen for at underretning fra THYF eventuelt ikke mottas.
+(8) Studenten må skaffe seg det nødvendige undervisningsmateriellet og lærebøker som opplæringen krever, og som THYF selv ikke holder.
+(9) Kopiering av studiemateriell, dataprogram eller annen informasjon som tilhører THYF, eventuelt fra de(n) THYF har avtale med, må ikke forekomme uten skriftlig samtykke fra THYF.
+(10) Studenten plikter å varsle om kritikkverdige forhold i henhold til krav om læringsmiljø, jf. fagskoleloven § 15 sjette ledd. Informasjon om slik varsling er tilgjengelig på THYFs nettside.
+(11) Studenten har selv ansvar for å delta aktivt i all opplæring i den form den blir gitt, herunder arbeidskrav/arbeidsoppdrag, laboratoriearbeid, praksis, gruppe- og prosjektarbeid, praktiske øvinger, demonstrasjoner og ekskursjoner.
+(12) Arbeidsinnsatsen for en fulltidsstudent er forventet å tilsvare et normalt arbeidsår, det vil si mellom 1500-1800 arbeidstimer per studieår. Studenten er selv ansvarlig for å følge opp sin egen undervisning-/utdanningsplan.

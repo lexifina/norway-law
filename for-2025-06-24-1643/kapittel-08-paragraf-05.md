@@ -1,0 +1,3 @@
+# § 8-5. Studentenes ansvar til trygt og inkluderende læringsmiljø
+(1) Studenten plikter å bidra til et godt lærings- og arbeidsmiljø. Studenter som opptrer på en måte som virker grovt forstyrrende på medstudenters arbeid, ansatte ved THYF eller virksomheten ved THYF ellers, vil kunne motta skriftlig advarsel. En advarsel som ikke blir tatt til følge, vil kunne føre til bortvising, eller utestenging.
+(2) Å skape fare for liv og helse, grov usømmelig opptreden mot studenter, ansatte eller andre studenten møter i forbindelse med undervisning og praksis vil kunne medføre utestenging fra studiet i inntil tre år.
