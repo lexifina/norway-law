@@ -1,0 +1,5 @@
+# § 11-18. Administrasjonsforetak
+(1) Når foretak som verdipapiriserer er finansforetak, skal administrasjonsforetaket som definert i verdipapiriseringsforordningen, være bank, kredittforetak eller finansieringsforetak. Departementet kan i forskrift fastsette utfyllende regler om bruken av og virksomheten til administrasjonsforetak.
+(2) Administrasjonsforetaket skal treffe de tiltak som er nødvendig for å ivareta kredittkundens rettigheter og interesser og sikre at kredittkunden ikke behandles på annen måte enn hvis fordringen var overdratt til et finansforetak. Departementet kan i forskrift fastsette utfyllende regler om hvilke tiltak som må treffes etter første punktum.
+(3) Administrasjonsforetaket skal gjøre gjeldsopplysninger knyttet til verdipapiriserte lån tilgjengelige for gjeldsinformasjonsforetak i samsvar med gjeldsinformasjonsloven § 10.
+(4) Administrasjonsforetaket skal representere spesialforetaket i saker som behandles av utenrettslig tvisteløsningsordning godkjent i medhold av lov.
