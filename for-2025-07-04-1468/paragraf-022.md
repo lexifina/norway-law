@@ -1,0 +1,4 @@
+# § 22. Studiets oppbygning
+Det skal være en tydelig progresjon gjennom studieløpet, både innen teoretisk og empirisk kunnskap, forskningsmetode, ferdighetstrening og praksis. Utdanningen skal omfatte brukerkunnskap som kunnskapskilde.
+Studiemodellen er basert på at veiledet ferdighetstrening og intern og ekstern praksiserfaring med ulike pasient- og brukergrupper er integrert med undervisning i basalfag, anvendte fag og forskningsmetode gjennom hele utdanningsløpet. Det samme gjelder opplæring i fag- og profesjonsetikk, system- og rolleforståelse, formidling, samt undervisning i relevant lovverk.
+Gjennom utdanningsløpet skal kandidaten utvikle ferdigheter i kommunikasjon, alliansebygging, samarbeid og dokumentasjon. Kandidaten skal trene på ulike metoder for psykologisk utredning og intervensjon.
