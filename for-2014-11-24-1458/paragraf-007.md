@@ -1,0 +1,2 @@
+# § 7. Plikt til å sette av tid til utvidet kontroll
+Når et fartøy kan eller skal gjennomgå utvidet kontroll, plikter rederiet eller skipsføreren å sette av tilstrekkelig tid til at kontrollen kan gjennomføres. Med mindre sikkerheten krever at skipet foretar sikringstiltak i løpet av gjennomføringen av den utvidede kontrollen, skal rederiet sørge for at skipet blir liggende i havnen til kontrollen er gjennomført.
