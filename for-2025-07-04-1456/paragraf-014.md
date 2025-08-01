@@ -1,0 +1,2 @@
+# § 14. Praksisstudier
+Praksisstudier kan benyttes for å oppnå læringsutbyttene i forskriften. Dersom praksisstudier eller andre former for samarbeid med praksisfeltet og veiledning av kandidater skal benyttes må det inngås samarbeidsavtaler med praksistilbyderen. Avtalene skal regulere ansvar, roller, kapasitet på praksisplasser, kompetanse og samarbeidsarenaer på alle relevante nivå, og kan også regulere forsknings-, utviklings- og innovasjonssamarbeid.
