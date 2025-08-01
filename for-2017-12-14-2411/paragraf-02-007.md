@@ -1,0 +1,4 @@
+# § 2-7. Studietid og avtaleperiode
+(1) Ph.d.-utdanningen er normert til tre års fulltidsstudier. Maksimal studietid er som hovedregel seks år fra oppstart til innlevering av ph.d.-avhandlingen. Lovhjemlede avbrudd og karrierefremmende arbeid inngår ikke i de seks årene.
+(2) Programutvalget kan forlenge avtaleperioden etter begrunnet søknad. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt sett i forhold til ph.d.-kandidatens finansieringsgrunnlag. Ved innvilget forlengelse kan programutvalget sette ytterligere betingelser.
+(3) Ved avtaleperiodens utløp opphører ph.d.-kandidatens studierett, rett til veiledning og tilgang til universitetets infrastruktur. Ph.d.-kandidaten har likevel rett til å søke om å få levere inn avhandlingen til bedømmelse for ph.d.-graden.

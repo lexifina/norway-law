@@ -1,0 +1,3 @@
+# § 6-3. Klage over avvisning av søknad om bedømmelse, ikke godkjent ph.d.-avhandling, prøveforelesning eller disputas
+(1) Avvisning av søknad om å få ph.d.-avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller disputas kan påklages etter reglene i forvaltningsloven § 28 flg. og universitets- og høyskoleloven § 13-1.
+(2) Klage på vedtak fremsettes skriftlig til institusjonen. Klagenemnda skal prøve alle sider ved saken. Dersom klagenemnda finner det nødvendig for sakens opplysning, skal det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelsen og de kriteriene denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.

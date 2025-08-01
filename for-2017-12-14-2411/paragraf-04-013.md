@@ -1,0 +1,7 @@
+# § 4-13. Offentliggjøring av ph.d.-avhandlingen
+(1) Ph.d.-avhandlingen skal være offentlig tilgjengelig senest to uker før dato for disputas. Ph.d.-avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse, eventuelt etter omarbeiding på grunnlag av komiteens foreløpige kommentarer. Ph.d.-avhandlingen er offentliggjort når et av følgende forhold inntrer:
+a) avhandlingen er tilgjengeliggjort digitalt
+b) avhandlingen er tilgjengeliggjort i papirkopi.
+(2) Det kan ikke legges restriksjoner på offentliggjøring av ph.d.-avhandlingen med unntak av en på forhånd avtalt utsettelse av datoen for offentliggjøring. Slik utsettelse kan finne sted for at institusjonen og eventuelt ekstern part som helt eller delvis har finansiert ph.d.-utdanningen, skal kunne ta stilling til eventuell patentering. Ekstern part kan ikke stille krav om at hele eller deler av ph.d.-avhandlingen skal unntas offentlighet.
+(3) Ved publisering av avhandlingen skal kandidater følge gjeldende retningslinjer for kreditering av institusjoner. Hovedregelen er at en institusjon skal oppgis som adresse i en publikasjon dersom den har gitt et nødvendig og vesentlig bidrag til eller grunnlag for en forfatters medvirkning til det publiserte arbeidet. Samme forfatter skal oppgi også andre institusjoner som adresse dersom disse i hvert enkelt tilfelle tilfredsstiller kravet til medvirkning.
+(4) Sammendraget skal, i likhet med selve avhandlingen, gjøres offentlig tilgjengelig.
