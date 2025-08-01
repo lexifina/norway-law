@@ -1,0 +1,3 @@
+# § 4-7. Omarbeiding av innlevert avhandling
+(1) Bedømmelseskomiteen kan på grunnlag av den innleverte ph.d.-avhandlingen og eventuelt tilleggsmateriale, anbefale at programutvalget gir tillatelse til mindre omarbeiding før endelig innstilling foreligger. Komiteen skal gi en skriftlig oversikt over hva kandidaten må omarbeide.
+(2) Tillater programutvalget en mindre omarbeiding av ph.d.-avhandlingen, skal det gis en frist for slik omarbeiding som normalt ikke skal være lengre enn tre måneder. Vedtak om fristfastsettelse kan ikke påklages. Frist for endelig innstilling fra bedømmelseskomiteen løper fra den dato omarbeidet ph.d.-avhandling leveres på nytt.

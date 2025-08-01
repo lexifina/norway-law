@@ -1,0 +1,5 @@
+# § 2-6. Ph.d.-avtalen
+(1) Opptak til institusjonens ph.d.-utdanning formaliseres ved at det inngås skriftlig avtale mellom ph.d.-kandidat, veileder(e) og institusjonen. Avtalen regulerer partenes rettigheter og plikter i studiet og skal sikre at kandidaten deltar regelmessig i et aktivt forskermiljø, og legge til rette for at ph.d.-utdanningen skal kunne gjennomføres til avtalt tid. Institusjonens mal skal benyttes, og skal normalt signeres senest tre uker etter opptak.
+(2) For ph.d.-kandidater med finansiering eller tilsetting ved en ekstern institusjon, skal det inngås egen avtale mellom kandidaten, utdanningsinstitusjonen og den eksterne institusjonen.
+(3) I tilfeller hvor ph.d.-kandidaten skal ha tilknytning til utenlandske institusjoner, som ved fellesgrader og cotutelle, må retningslinjer for slikt samarbeid følges, og egne avtaler inngås på fastsatt skjema. Avtalen om fellesgrader og cotutelle skal normalt foreligge samtidig med ph.d.-avtalen.
+(4) Dersom det i løpet av avtaleperioden oppstår vesentlige endringer i avtalt forhold, skal ny avtale utarbeides.
