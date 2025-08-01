@@ -1,0 +1,4 @@
+# § 9. Kommersielle overnattingssteders plikter
+I situasjoner hvor det foreligger risiko for etterspørselssjokk, tilbudssvikt eller logistikkbrist, kan departementet i medhold av næringsberedskapsloven § 6 eller § 8 pålegge kommersielle overnattingssteder og underleverandører til slike selskaper å stille nødvendige innkvarteringsressurser til rådighet.
+Dersom det på forhånd er kartlagt at det kan bli behov for bestemte innkvarteringsressurser i krisesituasjoner, skal departementet varsle rådet når innkvarteringsressursene kreves stilt til rådighet. Rådets medlemmer videreformidler slike krav til sine respektive selskaper og andre berørte aktører. I den grad det er nødvendig, skal rådet samarbeide med andre kriseorganisasjoner.
+Selskapene skal så langt som mulig oppfylle pliktene etter forskriften ved normal organisering og kontakt med offentlige myndigheter.

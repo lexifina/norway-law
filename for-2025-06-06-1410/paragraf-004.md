@@ -1,0 +1,5 @@
+# § 4. Sammensetning og oppnevning av rådet
+Departementet oppnevner medlemmer til rådet. Rådet består av faste medlemmer med personlige varamedlemmer fra virksomheter som driver kommersiell overnattingsvirksomhet, og fra bransjeorganisasjoner etter forslag fra selskapene selv. Oppnevnte medlemmer har møteplikt i rådet. Rådets sammensetning bør være hensiktsmessig med hensyn til de oppgavene som skal løses både innenfor rådgivning og krisehåndtering. Departementet kan bestemme at det opprettes undergrupper eller at bare deler av rådet innkalles til særskilte møter.
+Ved behov kan departementet utpeke medlemmer og varamedlemmer fra miljøer med spesialkompetanse eller med spesielle ressurser til tids- eller oppgavebegrenset deltagelse i rådet.
+Rådet konstituerer seg selv. Leder- og nestlederfunksjonen i rådet går på omgang blant medlemmene etter nærmere kriterier fastsatt av rådet selv.
+For personell som faller inn under forskriftens bestemmelser, søkes fritak etter gjeldende regler for fremmøte i Forsvaret ved mobilisering.
