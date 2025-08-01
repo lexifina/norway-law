@@ -1,0 +1,3 @@
+# § 20. Studiets oppbygning
+Utdanningen skal ha en oppbygning som bidrar til å skape en gjensidig sammenheng mellom de fem kompetanseområdene 1) perspektiver på psykisk helse, rusmiddelbruk og avhengighet, 2) etikk, lovverk og organisering, 3) kommunikasjon, relasjon og samhandling, 4) arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer og 5) forskning, formidling og fagutvikling.
+Utdanningen skal være helhetlig, der det faglige innholdet, de pedagogiske virkemidlene og praksisstudier kobles sammen slik at læringsutbyttene oppnås. For å fremme avansert analytisk, kritisk og praktisk kompetanse, skal det anvendes studentaktive læringsformer.
