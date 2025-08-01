@@ -1,0 +1,3 @@
+# § 26. Praksisstudier
+Praksisstudier er de delene av utdanningen som foregår i autentiske yrkessituasjoner. Praksisstudiene skal utformes slik at de sikrer at læringsutbyttet oppnås. De er obligatoriske og skal dekke minst 30 uker, hvorav to perioder bør ha en varighet på minst syv uker.
+Hovedvekten av praksisstudiene skal gjennomføres i primær- og spesialisthelsetjenesten. Det bør tilrettelegges for at praksisstudier kan gjennomføres på andre relevante arenaer, som barnehage, skole, arbeidslivssektoren, frisklivssentraler eller frivillig sektor. Studentene bør møte brukere i alle aldersgrupper og gis anledning til å delta i tverrprofesjonelt samarbeid med studenter fra andre utdanninger, og med andre yrkesgrupper ved praksisstedene.
