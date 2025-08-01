@@ -1,0 +1,6 @@
+# § 1-4. Søkernes og studentenes undersøkelses- og opplysningsplikt
+(1) Søkere og studenter plikter å sette seg inn i gjeldende forskrift ved Fagskolen Vestfold og Telemark.
+(2) Som student plikter man å sette seg inn i studieplaner, retningslinjer og frister som er relevant for utdanningen, eksamensplaner og rutiner for sluttvurdering/eksamen. Enkelte emner og utdanninger kan ha obligatorisk oppmøte. Dette fremgår av studieplanen.
+(3) Manglende kjennskap til ovennevnte kilder kan ikke påberopes som et formildende forhold.
+(4) Studenten plikter skriftlig å underrette Fagskolen Vestfold og Telemark om navneendringer. Navneendring må dokumenteres. Post blir sendt til digital postkasse. Dersom den digitale posten ikke åpnes, sendes posten til studentens folkeregistrerte adresse. Unnlatt oppdatering av adresse og telefonnummer innebærer at studenten må bære risikoen for at underretninger fra Fagskolen Vestfold og Telemark ikke mottas, eller ikke mottas i tide.
+(5) Alle studenter ved Fagskolen Vestfold og Telemark har tilgang til og må bruke fagskolens læringsplattform som blant annet benyttes til viktig studentinformasjon fra fagskolen. Studenten plikter å sjekke læringsplattform jevnlig.

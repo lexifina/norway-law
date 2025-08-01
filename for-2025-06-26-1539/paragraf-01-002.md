@@ -1,0 +1,2 @@
+# § 1-2. Forholdet til annen lovgivning
+Strider denne forskriften mot lov og/eller sentrale forskrifter gitt av lovgiver eller NOKUT, eller ved forhold som ikke er omtalt, gjelder fagskoleloven og sentrale forskrifters bestemmelser. Når fagskolen behandler saker etter fagskoleloven, gjelder forvaltningsloven om habilitet i § 6 til § 10 og om taushetsplikt i § 13 til § 13e. Disse bestemmelsene gjelder også for denne forskriften.

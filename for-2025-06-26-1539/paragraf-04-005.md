@@ -1,0 +1,5 @@
+# § 4-5. Undervisning og eksamen under særlige vilkår
+(1) Studenter som av medisinske eller andre grunner har behov for spesiell tilrettelegging, må framsette søknad om dette. Dersom det oppstår akutte behov, kan det gjøres unntak fra søknadsfristen. Søknad om tilrettelegging sendes studieadministrasjonen som fatter vedtak på bakgrunn av vedlagt dokumentasjon. Behandlingsfrist er tre uker.
+(2) Søknaden må inneholde dokumentasjon fra sakkyndig instans for eksempel lege, logoped, psykolog og beskrivelse av behovet for særordning i undervisnings- og sluttvurdering-/eksamenssituasjonen.
+(3) Særordninger kan være spesiell fysisk tilrettelegging, bruk av særskilte hjelpemidler og/eller utvidet tid til sluttvurdering/eksamen, eller i spesielle tilfeller alternativ vurderings-/eksamensform. Fagskolens særordninger er beskrevet på fagskolens hjemmeside.
+(4) For maritime fag har Sjøfartsdirektoratet egne retningslinjer for særordninger ved sluttvurdering/eksamen. Ved skriftlig eksamen med tilsyn kan det gis utvidet tid med inntil 25 % av normal eksamenstid, maksimalt én time. Særordninger skal være slik at eksamensprestasjonen vurderes etter vanlige faglige kriterier.

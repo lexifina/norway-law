@@ -1,0 +1,4 @@
+# § 3-1. Studieprogresjon
+(1) En student kan etter dokumentert søknad beholde studieplassen i 50 % tid utover normert studietid. Det kan etter søknad fra studenten gjøres unntak fra denne bestemmelsen, og det kan avtales (vedtas) et nytt utdanningsløp tilpasset studenten. Det skal være dokumentert velferdsgrunn eller sykdom som legges til grunn for en at en student skal beholde studieplassen utover 50 % av normert tid.
+(2) Dersom et emne ikke er bestått må emnet i sin helhet tas i det påfølgende studieåret. Enten parallelt i ordinær studieprogresjon eller ved en søknad om forlenget studieløp.
+(3) Dersom en student ikke gjennomfører emner og mangler mer enn 10 studiepoeng etter endt studieår, må disse fullføres før student kan gå videre til neste studieår. I slike tilfeller må det søkes om forlenget studieløp. Denne punktet gjelder ikke for de studenter som er i en aktiv prosess i tråd med vurderingsordningene.

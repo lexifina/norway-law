@@ -1,0 +1,2 @@
+# § 7-6. Nasjonal klagenemnd
+Nasjonal klagenemnd behandler saker som er behandlet i lokal klagenemnd, dersom opprinnelig vedtak blir stående. Dette omfatter vedtak om opptak gjennom samordna opptak, annullering av eksamen m.m, samt om utestengning, bortvisning, vurdering av skikkethet og krav om politiattest. nemnda behandler ikke klager på fagskolens opptaksvedtak om realkompetanse eller spesielle opptakskrav.
