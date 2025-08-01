@@ -1,0 +1,4 @@
+# Kapittel 1. Generelle bestemmelser
+(1) Forskriftens formål er å sikre ivaretakelse av rettigheter etter lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning (fagskoleloven) og forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning (fagskoleforskriften).
+(2) Forskriften gjelder for Trøndelag høyere yrkesfagskole (THYF), skolens styre, skolens ledelse, tilsatte og for de utdanningstilbud som gis av skolen. Forskriften gjelder også for personer som søker opptak til studier, eller som har studierett og status som studenter ved THYF.
+(3) Forskriften regulerer forhold knyttet til opptak, vurdering av skikkethet og krav om politiattest, studentens ansvar og rettigheter, avsluttende vurdering, eksamen og sensur, dokumentasjon, disiplinære sanksjoner, læringsmiljø og studentorgan, taushetsplikt og personopplysninger og klagebehandling.

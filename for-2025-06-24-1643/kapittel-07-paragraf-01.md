@@ -1,0 +1,4 @@
+# § 7-1. Annullering av karakterer fra vurderingssituasjoner, vedtak om opptak m.m.
+(1) Bestemmelser knyttet til annullering er regulert i fagskoleloven, i tillegg til bestemmelser gitt i denne forskriften.
+(2) Styret kan annullere karakterer fra vurderingssituasjoner som bedømmes med karakter, «bestått/ikke bestått», samt vedtak om opptak hvis studenten har oppnådd dette ved hjelp av falsk dokumentasjon eller annen form for uredelig opptreden. Styret kan også annullere godkjenningen av emner hvis en student på tilsvarende urettmessig grunnlag har fått rett til å studere, jf. fagskoleloven.
+(3) Styret kan annullere karakteren i et emne eller godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske i vurderingssituasjoner, jf. fagskoleloven.
