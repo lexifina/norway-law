@@ -1,0 +1,3 @@
+# § 61. Føring av opplysninger om forurenset grunn
+(1) Forurensningsmyndigheten skal legge opplysninger om forurenset grunn inn i det nasjonale systemet for grunnforurensning, herunder enkeltvedtak med pålegg og krav etter forurensingsloven. Opplysninger om forurenset grunn skal overføres til matrikkelen som utdrag eller ved kopling mot det nasjonale systemet for grunnforurensning. Miljødirektoratet avgjør etter avtale med Statens kartverk hvilke opplysninger som skal overføres og når overføringen skal gjennomføres.
+(2) Registrerte eiere og festere, og andre som anses som part i saken, skal gis varsel om at opplysninger om forurenset grunn vil bli registrert i matrikkelen.

@@ -1,0 +1,2 @@
+# § 49. Formålet med adresser og skilt
+Adresser og skilt skal sørge for at alle på en lett og forståelig måte kan identifisere og finne fram til bygninger, atkomst til bygninger, boliger og andre objekter eller steder som det er viktig å finne fram til. Adressen skal også tjene som stedfestingsobjekt og nøkkel til aktuell informasjon i private og offentlige registre og arkiv. Føring av adresser i matrikkelen skal bidra til et felles adressesystem for hele landet.

@@ -1,0 +1,6 @@
+# § 41. Merking og måling av grenser
+(1) Ved merking av nye grenser eller nymerking av eksisterende grenser, skal det brukes merker godkjent av Statens kartverk.
+(2) Det skal plasseres grensemerke i alle grensepunkter. Den som utfører forretningen kan utelate merking av et grensepunkt helt eller delvis når merking kan medføre vesentlig ulempe eller fare, eller det på annen måte er uhensiktsmessig å sette ned godkjent grensemerke i det aktuelle punktet. Der grensemerking utelates, skal grenseforløpet koordinatbestemmes og beskrives.
+(3) Kommunen skal fjerne grensemerker som er satt ned feil, eller som er satt ned ved oppmålingsforretning som blir nektet matrikkelført. Kommunen kan fjerne grensemerker som etter oppmålingsforretning eller sammenslåing av matrikkelenheter ikke lenger er del av en grense. Merker som fjernes, skal dokumenteres.
+(4) Grensepunktene skal koordinatbestemmes i geodetisk grunnlag godkjent av Statens kartverk. Det skal opplyses med hvilken målemetode og kvalitet koordinatbestemmelsen er gjort. Punktene skal måles med nøyaktighet som oppfyller krav i gjeldende standarder godkjent av Statens kartverk.
+(5) Måle- og beregningsarbeidene skal dokumenteres i samsvar med gjeldende standarder godkjent av Statens kartverk.

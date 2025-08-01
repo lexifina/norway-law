@@ -1,0 +1,2 @@
+# § 53. Bruksenhetsnummer
+Bruksenhetsnummeret er en del av den offisielle adressen. Bruksenhetsnummeret består av en stor bokstav (L, H, U eller K) og fire siffer. Bokstaven angir kode for etasje, de to første sifrene etasjenummeret og de to siste bruksenhetens nummer i etasjen (for eksempel H0203). Nummereringen innen etasjen starter til venstre sett fra trappens øverste trinn, fortløpende nummerert med klokken. Statens kartverk kan etter forslag fra kommunen vedta bruk av annen nummereringsmåte dersom særlige hensyn taler for dette.

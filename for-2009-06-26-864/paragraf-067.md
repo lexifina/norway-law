@@ -1,0 +1,3 @@
+# § 67. Omregistrering til anleggseiendom
+(1) Eksisterende volum som er gitt registerbetegnelse før iverksetting av matrikkellova, kan registreres som anleggseiendom i matrikkelen. Slik omregistrering skal gjennomføres innen 31. desember 2012. Kommunen kan gjennomføre slik omregistrering etter å ha varslet registrert eier eller etter søknad fra registrert eier.
+(2) Kommunen skal kontrollere at vilkårene i matrikkellova for å registrere enheten som anleggseiendom er oppfylt før omregistrering gjennomføres. Det skal foreligge tillatelse for tiltaket etter plan- og bygningsloven, herunder tillatelse til fradeling fra overflateeiendommen. Det skal også foreligge målebrev eller tilsvarende dokumentasjon for at eiendommens utstrekning er kjent for berørte rettighetshavere.

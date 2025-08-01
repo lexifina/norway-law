@@ -1,0 +1,2 @@
+# § 6. Kontroll av rekvisisjon og krav om matrikkelføring
+Kommunen skal kontrollere om rekvisisjon av oppmålingsforretning eller krav om matrikkelføring har mangler eller feil når kommunen tar imot rekvisisjonen eller kravet. Finner kommunen at rekvisisjonen eller kravet må rettes, skal kommunen underrette den som har satt fram rekvisisjonen eller kravet, om hva som må rettes. Etterkommer ikke vedkommende kommunens krav innen fastsatt frist, kan kommunen avvise rekvisisjonen eller kravet om matrikkelføring.

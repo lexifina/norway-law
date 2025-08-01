@@ -1,0 +1,5 @@
+# § 57. Skilting
+(1) Kommunen har ansvar for skilting av gater, veger, stier, områder og plasser som er nødvendig for å oppnå god merking av adressene. Statens vegvesen har dette ansvaret for riksveger. Fylkeskommunene har dette ansvaret for fylkesveger. Skiltene skal settes opp så snart som mulig etter at skrivemåten til adressenavnet er vedtatt.
+(2) Eier, fester og tiltakshaver er ansvarlig for at den enkelte bygning eller eiendom blir merket med adressenummeret.
+(3) Eier, fester, beboer eller tiltakshaver skal merke bruksenhet som er tildelt egen offisiell adresse, med bruksenhetsnummeret. Merket skal settes synlig på eller ved inngangsdøren for bruksenheten. Er en bruksenhet merket i samsvar med tidligere regelverk, behøver ikke denne merkingen endres.
+(4) Merking med adressenummer og bruksenhetsnummer skal skje senest tre uker etter mottatt underretning om tildelt adresse. Merking kan likevel utsettes til vedkommende bygning, bygningsdel eller bruksenhet blir tatt i bruk. Kommunen kan gi tillatelse til ytterligere utsettelse dersom særlige grunner taler for dette.

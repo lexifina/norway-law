@@ -1,0 +1,4 @@
+# § 46. Matrikkelføring av framsatt krav om sak for jordskifteretten
+(1) Jordskifteretten skal sende melding til kommunen om at det er satt fram krav om sak for jordskifteretten, jf. jordskiftelova § 6-30, og opplyse om type sak, hvilke matrikkelenheter saken gjelder og referansenummer. Blir det endringer i hvilke matrikkelenheter saken gjelder, skal kommunen ha ny melding. Kommunen skal registrere saken på de matrikkelenhetene kravet omfatter straks meldingen er mottatt.
+(2) Når saken er avvist, hevet eller gjennomført uten at det medfører endring i matrikkelen, skal jordskifteretten sende melding om dette til kommunen. Kommunen fører straks opplysning om dette i matrikkelen.
+(3) Så fort resultatet av saken er ført i matrikkelen, jf. § 47 andre ledd, skal saken registreres som avsluttet på vedkommende matrikkelenheter.
