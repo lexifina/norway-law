@@ -1,0 +1,5 @@
+# § 4. Nasjonale retningslinjer
+Kunnskapsdepartementet skal sørge for at det fastsettes nasjonale retningslinjer for de helse- og sosialfaglige utdanningene. Retningslinjene skal forskriftsfestes.
+Retningslinjene skal inneholde formålsbeskrivelse, læringsutbyttebeskrivelser i tråd med Nasjonalt kvalifikasjonsrammeverk og krav til oppbygging av studiene for den enkelte utdanning. Retningslinjene kan også stille krav til praksisdelen av utdanningene.
+Retningslinjene skal være førende for institusjonenes arbeid med utdanningene. Det skal være handlingsrom innenfor retningslinjene til faglig utvikling, nyskaping og institusjonell tilpasning ved den enkelte institusjon.
+Kunnskapsdepartementet oppnevner programgrupper som fremmer forslag til retningslinjer og revidering av retningslinjene. Det nedsettes en programgruppe for hver utdanning. Programgruppene skal bestå av representanter fra utdanningene, helse- og velferdstjenestene, studentene og eventuelt forskningsmiljøer. Programgruppene skal være i dialog med relevante brukergrupper om retningslinjene.
