@@ -1,0 +1,3 @@
+# § 1. Formål
+Formålet med forskriften er å sikre tilgangen til innkvartering, midlertidig husly og innlosjering i kriser for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til tjenester dekkes. Forskriften skal gi grunnlag for iverksetting av nødvendige tiltak gjennom samarbeid mellom offentlige myndigheter og næringsdrivende.
+Planleggingen og tiltakene skal være dimensjonert ut fra de til enhver tid gjeldende nasjonale trusselvurderinger, beredskapsmessige planleggingsforutsetninger og den aktuelle situasjonen.

@@ -1,0 +1,2 @@
+# § 11. Opplysningsplikt
+Selskaper som har overnattingsvirksomhet som kan brukes til innkvartering, skal gi departementet alle opplysninger som er nødvendige for planlegging og gjennomføring av krisehåndtering. Dette gjelder også den informasjonen som departementet trenger for å etablere og vedlikeholde en oversikt over innkvarteringsressurser, samt deres organisering. Når departementet krever det, skal selskapene informere om egne og samarbeidende virksomheters ressurser etter kriterier og spesifikasjoner fastsatt av departementet.
