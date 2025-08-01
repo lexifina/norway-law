@@ -1,0 +1,2 @@
+# § 4. Kontroll etter reparasjon, ombygging, bytte av klasseselskap mv.
+Skipet skal gjennomgå kontroll for å verifisere samsvar med kravene i vedlegg 2 etter reparasjon, større endringer, ved bytte av rederi eller ved bytte av klasseselskap. Sjøfartsdirektoratet kan unnta skipet fra kravet om kontroll etter første punktum hvis tilsynshistorikken tilsier det og endringene ikke påvirker operasjonen av skipet.
