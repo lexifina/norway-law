@@ -1,0 +1,6 @@
+# § 54. Adressetilleggsnavn
+(1) Når adressen gjelder et gårdsbruk, kan den som har grunnbokshjemmel til eiendommen som eier, kreve at den offisielle adressen også skal omfatte gårdens bruksnavn, dersom navnet faller språklig og geografisk sammen med et nedarvet stedsnavn, jf. lov 18. mai 1990 nr. 11 om stadnamn. Framgår det av grunnboken at eiendommen er festet bort og adressen gjelder en eller flere bygninger, er det den som har grunnbokshjemmel til eiendommen som fester, som kan sette fram kravet.
+(2) Når adressen gjelder en særlig kjent institusjon eller bygning og allmenne hensyn taler for det, kan kommunen etter forslag fra registrerte eiere eller festere fastsette at den offisielle adressen også skal omfatte et navn på institusjonen eller bygningen.
+(3) Kommunen kan tildele adresser innenfor mindre grender, bolig- eller hyttefelt eller andre avgrensede områder et felles adressetilleggsnavn.
+(4) Tildeling av adressetilleggsnavn etter første og andre ledd går foran tildeling etter tredje ledd.
+(5) Er adressetilleggsnavnet på flere enn 25 posisjoner, skal det ved tildelingen også fastsettes en forkortelse for navnet som i alle sammenhenger kan brukes i stedet for adressetilleggsnavnet.

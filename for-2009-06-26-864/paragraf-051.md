@@ -1,0 +1,3 @@
+# § 51. Adressenavn
+(1) Kommunen skal tildele alle gater, veger, stier, plasser og områder som blir brukt til offisiell adressering, et navn som er entydig innenfor kommunen. Skrivemåten fastsettes etter reglene i lov 18. mai 1990 nr. 11 om stadnamn. Navnet føres i matrikkelen som adressenavn for vedkommende gate, veg, sti, plass eller område. Dersom navnet er på flere enn 22 posisjoner, skal det ved tildelingen også fastsettes en forkortelse for navnet. Forkortelsen skal være entydig innenfor kommunen, og kan i alle sammenhenger brukes i stedet for adressenavnet.
+(2) Kommunen skal tildele alle gater, veger, stier, plasser og områder som er gitt adressenavn, eller som er forutsatt brukt til offisiell adressering, en entydig numerisk identifikasjon.

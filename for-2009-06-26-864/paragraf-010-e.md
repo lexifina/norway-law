@@ -1,0 +1,4 @@
+# § 10e. Retting som følge av endrede opplysninger om kommunegrense eller riksgrense
+(1) Statens kartverk kan føre matrikkelen som følge av vedtatte endringer i kommuneinndelingene, ved å endre matrikkelnumre, og koder og identifikasjonsnumre knyttet til matrikkelenheter, adresser og kretser.
+(2) Dersom vedtatte endringer i kommuneinndelingen medfører at en matrikkelenhet må splittes i flere teiger, fører Statens kartverk de nødvendige endringene i matrikkelen så langt dette kan føres med hjelpepunkt. Det samme gjelder endringer i matrikkelen som følge av endrede opplysninger om riksgrensen.
+(3) Registrerte eiere og festere av berørte matrikkelenheter skal underrettes om føringen, eventuelt med relevant utdrag av matrikkelen. Hvis føringen gjelder likt for et stort antall enheter, kan underretningen skje gjennom annonse i lokalavis eller med bistand fra kommunene gjennom kommunal informasjonskanal.

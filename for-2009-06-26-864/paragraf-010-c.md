@@ -1,0 +1,5 @@
+# § 10c. Egenregistrering av opplysninger i matrikkelen
+(1) En registrert eier eller fester av en matrikkelenhet, kan komplettere opplysninger om vedkommende matrikkelenhet ved å registrere opplysningene elektronisk i matrikkelen. Statens kartverk skal underrette eventuelt andre registrerte eiere og festere om kompletteringen.
+(2) Statens kartverk fastsetter hvilke opplysninger som kan kompletteres på denne måten, og de nærmere vilkårene for slik komplettering, herunder med hvilken form og framgangsmåte registreringen skal skje. Det skal benyttes betryggende metode for å autentisere den eller dem som gis tilgang til slik registrering.
+(3) Opplysninger som legges inn etter matrikkellova § 27 første ledd, skal registreres atskilt fra opplysninger som føres på annet grunnlag.
+(4) Statens kartverk kan stoppe for videre egenregistrering dersom det blir lagt inn uvedkommende eller villedende opplysninger eller ordningen blir brukt på en måte som er til hindrer for sikker drift eller matrikkelen som et ensartet og pålitelig register. Statens kartverk skal underrette registrerte eiere og festere og merke de aktuelle opplysningene.

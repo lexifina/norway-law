@@ -1,0 +1,6 @@
+# § 60. Føring av bygningsopplysninger
+(1) Kommunen skal matrikkelføre opplysninger om søknadspliktige tiltak som gjelder oppføring av bygning, tilbygg, påbygg eller underbygning, riving, bruksendring, tap eller annen hendelse som endrer bygning, samtidig med at det gis rammetillatelse, igangsettingstillatelse og midlertidig brukstillatelse eller ferdigattest.
+(2) Er tiltaket unntatt ansvarsrett og kontroll og kan forestås av tiltakshaver, skal kommunen matrikkelføre opplysningene så snart kommunen kan legge til grunn at tiltaket er eller blir gjennomført. Det samme gjelder ved underretning om tiltak etter annet lovverk, eller når kommunen på annen måte kan legge til grunn at et tiltak eller en hendelse som gjelder bygning, er eller blir gjennomført eller har inntruffet.
+(3) Kommunen avgjør om bygning eller del av bygning med bebygd areal eller samlet bruksareal som er 15 m2 eller mindre, skal registreres med eget bygningsnummer.
+(4) Kommunen kan i kommunal tilleggsdel, jf. § 3 tredje ledd, føre andre opplysninger om bygning og bruksenhet til bruk i kommunal planlegging, saksbehandling og administrasjon.
+(5) Ved opprettelse eller endring av eierseksjon skal kommunen kontrollere matrikkelen og eventuelt føre inn nye opplysninger samtidig med seksjoneringsvedtaket og stadfeste opplysningene ved retur av tinglysingsdokumentene.

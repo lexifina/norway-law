@@ -1,0 +1,6 @@
+# § 4. Matrikkelsystemet
+(1) Statens kartverk kan i forskrift, instruks eller spesifikasjon gi utfyllende regler om matrikkelsystemet, om innholdet i matrikkelen og om føring av opplysninger i matrikkelen.
+(2) Statens kartverk skal påse at matrikkelen blir forvaltet og oppbevart på en sikkerhetsmessig forsvarlig måte, herunder at det jevnlig tas sikkerhetskopier.
+(3) Statens kartverk, kommuner og andre som fører opplysninger i matrikkelen, eller noen som på deres vegne behandler matrikkelopplysninger, skal utøve forebyggende sikkerhetstjeneste for matrikkelen i henhold til lov om nasjonal sikkerhet. Kommune som overlater til andre å føre matrikkelen, skal gi forhåndsmelding om dette til Statens kartverk.
+(4) Departementet kan bestemme at Statens kartverk i nærmere avgrensede tilfeller skal føre opplysninger som ellers føres av kommunen. Bestemmelser som gjelder kommunens føring, gjelder da tilsvarende for Statens kartverk. Statens kartverk skal varsle kommunen om slik føring i god tid og ikke med kortere varsel enn seks uker.
+(5) Skattemyndighetene skal utlevere opplysninger som nevnt i § 3 første ledd bokstav a, b, c og e, til matrikkelen i omfang og etter ordning avtalt med Statens kartverk så langt eier eller rettighetshaver av vedkommende matrikkelenhet, bygning eller bruksenhet har plikt til å gi opplysningene til skattemyndighetene.

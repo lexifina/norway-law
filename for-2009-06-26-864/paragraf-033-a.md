@@ -1,0 +1,13 @@
+# § 33a. Endring av festegrunn
+(1) Ved endring av festegrunn kan grunn tilføres eller fratrekkes festegrunnen, slik at den blir en større eller mindre del av vedkommende grunneiendom eller jordsameie. Grunn som tilføres eller fratrekkes, kan ikke omfatte uteareal til eierseksjon. Dersom endringen ikke overskrider skrankene for grensejustering, kan den regnes som grensejustering og behandles etter bestemmelsene om dette.
+(2) Som endring av festegrunn regnes også
+a) overføring av areal mellom to festegrunner som begge er del av samme grunneiendom eller jordsameie
+b) splitting av festegrunn i to festegrunner når grunneiendommen eller jordsameiet som festegrunnen er en del av, ikke samtidig tilføres eller fratrekkes areal, og saken ikke gjelder punktfeste eller omfatter grensejusteringer
+c) omgjøring av punktfeste til festegrunn med bestemte grenser. Grensene skal merkes og måles i samsvar med matrikkellova § 34 første ledd og § 41 i forskriften her.
+(3) Dersom partene ønsker det, er det tilstrekkelig å vise eksisterende grense på kart.
+(4) Krever endringen samtykke etter jordlova § 12, konsesjon etter konsesjonsloven eller egenerklæring om konsesjonsfrihet, må dokumentasjonen nevnt i § 27 i forskriften her også omfatte nødvendig samtykke, konsesjon eller egenerklæring.
+(5) Dersom festegrunnen er festet bort, skal dokumentasjonen også omfatte samtykke fra dem som har grunnbokshjemmel som fester. Er festegrunnen seksjonert, må det foreligge samtykke fra dem som har grunnbokshjemlene til seksjonene. For festegrunner som ikke innført i grunnboken, må det foreligge samtykke fra dem som har registrert seg i matrikkelen som fester av festegrunnen etter § 62b andre eller tredje ledd. Når flere fester matrikkelenheten i fellesskap, gjelder § 23 andre ledd tilsvarende. Samtykke er ikke nødvendig når rekvirenten har lovlig rett til grunnen etter matrikkellova § 9 første ledd bokstav f. Dersom festegrunn som er festet bort, får redusert deler av arealet, må det også foreligge dokumentasjon for at pantefrafall og avlysing av stedbundne rettigheter ikke er nødvendig, eller erklæring om
+a) pantefrafall fra den som har tinglyst pant i festeretten
+b) avlysing av stedbunden rettighet i det aktuelle arealet fra den som har tinglyst slik rettighet i festeretten.
+(6) Tinglysingsmyndigheten skal motta dokumenter for endringen og alle nødvendige tilleggsdokumenter i en samlet forsendelse. Ved tinglysing av splitting av festegrunn skal alle heftelser i bestående festegrunn overføres til de nye festegrunnene.
+(7) Kommunen kan kreve at partene selv håndterer dokumentutforming og utveksling av pengeytelser mellom partene, eller at de lar seg bistå av eiendomsmegler, advokat eller liknende.

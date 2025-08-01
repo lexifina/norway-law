@@ -1,0 +1,3 @@
+# § 39. Omtvistet eller usikker grense
+(1) Dersom det under forretningen ikke oppnås enighet om eksisterende grense, skal partenes påstander bli beskrevet og eventuelt målt inn. Påstandene skal ikke merkes i marka med godkjente grensemerker eller på annen måte som kan forveksles med godkjent merking. Eksisterende merker skal ikke endres.
+(2) Den som utfører forretningen, kan bestemme at den delen av forretningen som gjelder den omtvistede eller usikre grensen skal utsettes i inntil fire uker. Det kan settes en annen frist etter avtale med rekvirenten. Tilsvarende gjelder utsetting av del av en forretning som gjelder ny grense.
