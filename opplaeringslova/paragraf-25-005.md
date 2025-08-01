@@ -1,0 +1,6 @@
+# § 25-5. Register over barn i grunnskoleopplæring
+Departementet kan etablere eit register med opplysningar om barn i grunnskoleopplæringa på individnivå for bruk i statistikk og forsking om grunnopplæringa. Registeret kan innehalde personopplysningar knytte til fødselsnummer eller andre personeintydige identifikasjonsnummer.
+Formålet med registeret er å behandle personopplysningar som grunnlag for statistikk og forsking for å få fram kunnskap om effektar av tiltak og om utviklinga i sektoren.
+Registeret kan berre behandle dei personopplysningane som er nødvendige å behandle for formålet med registeret. Personopplysningane i registeret kan ikkje brukast til formål som er uforeinlege med formål nemnde i andre ledd. Personopplysningane kan ikkje brukast som grunnlag for enkeltvedtak eller andre individuelle avgjerder eller tiltak retta mot dei registrerte.
+Personopplysningar frå registeret kan ikkje utleverast til andre enn Statistisk sentralbyrå.
+Departementet kan gi forskrift om registeret og om plikt for kommunar til, utan hinder av teieplikt, å innrapportere dei opplysningane som er nødvendige for å oppnå formålet med registeret. Departementet kan vidare gi forskrift om behandlinga av personopplysningar, mellom anna om behandlingsansvar, kva opplysningar som kan behandlast og om kven, og tilgang til, vidarebehandling og utlevering av personopplysningar.
