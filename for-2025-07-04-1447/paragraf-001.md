@@ -1,0 +1,10 @@
+# § 1. Virkeområde og formål
+(1) Forskriften gjelder for universiteter og høyskoler som gir barnehagelærerutdanning. Den norske og den samiske barnehagelærerutdanningen er likeverdige.
+(2) Forskriften gjelder for barnehagelærerutdanning på bachelornivå. Forskriften definerer de nasjonale rammene for barnehagelærerutdanningen.
+(3) Forskriftens formål er å sikre at institusjonene tilbyr integrert, profesjonsrettet og forskningsbasert barnehagelærerutdanning med høy faglig kvalitet og at det legges til rette for et forpliktende samspill mellom utdanningsinstitusjon og praksisfelt.
+(4) Utdanningen skal forholde seg til lov 17. juni 2005 nr. 64 om barnehager og gjeldende forskrift om rammeplan for barnehagens innhold og oppgaver.
+(5) Utdanningen skal sikre samspill mellom høy faglig, didaktisk og sosial kompetanse samt evne til profesjonsetisk refleksjon i pedagogisk arbeid med barn i barnehagen. Utdanningen skal vektlegge pedagogisk ledelse.
+(6) Utdanningen skal ha en helhetlig pedagogisk tilnærming til lek, omsorg, læring og danning. Utdanningen skal vektlegge betydningen av samarbeid, forståelse og dialog med barnas hjem og andre instanser med ansvar for barns oppvekst. Barnehagelærerutdanningen skal bidra til inkluderende praksis i barnehagen.
+(7) Utdanningen skal bygge på forskningsbasert kunnskap som et grunnlag for profesjonsutøvelse og kontinuerlig profesjonell utvikling, og bidra til kritisk refleksjon og profesjonsforståelse. Barnehagelærerprofesjonen og barnehagen skal settes inn i en samfunnsmessig sammenheng. Utdanningen skal gi både et historisk, aktuelt og framtidsrettet perspektiv på yrket og barnehagens rolle som en del av utdanningsløpet. Internasjonale perspektiver skal integreres i utdanningen.
+(8) Utdanningen skal bidra til å fremme forståelse av menneskeverd og demokrati, særlig gjennom barns medvirkning og i tråd med verdigrunnlaget i barnehagens formålsbestemmelse i lov 17. juni 2005 nr. 64 om barnehager.
+(9) Utdanningen skal fremme forståelse av samisk kultur som en del av den nasjonale kulturen, og vektlegge urfolks status og rettigheter, både nasjonalt og internasjonalt.
