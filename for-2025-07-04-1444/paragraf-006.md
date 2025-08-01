@@ -1,0 +1,4 @@
+# § 6. Godkjennings- og fritaksbestemmelser
+(1) Utdanning som ikke er avlagt som en del av grunnskolelærerutdanning for trinn 5-10, kan gi grunnlag for faglig godkjenning etter universitets- og høyskoleloven § 9-1, § 9-2 eller § 9-3. Utdanning som kan gi grunnlag for godkjenning, må bestå av relevante fag som tilsvarer de fag som tilbys i grunnskolelærerutdanningen. Institusjonene må sikre at rammeplanens krav om fagdidaktikk og praksis er ivaretatt i kandidatens samlede sluttkompetanse.
+(2) For studenter som ikke velger norsk som ett av sine fag, kan det gis fritak for vurdering i én av målformene i norsk for studenter som ikke har vurdering i begge norske målformer fra videregående opplæring. Tilsvarende fritak gjelder også for utenlandske studenter som ikke har videregående opplæring fra Norge. For studenter som har norsk i fagkretsen, er det ingen fritaksbestemmelser fra målformene.
+(3) Godkjenning og fritak skal føres på vitnemålet.
