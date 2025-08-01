@@ -1,0 +1,5 @@
+# § 1. Virkeområde og formål
+(1) Forskriftens virkeområde er utdanning som kvalifiserer for tilsetting i undervisningsstilling, jf. krav fastsatt med hjemmel i opplæringslova § 17-3.
+(2) Forskriftens formål er å legge til rette for at utdanningsinstitusjonene tilbyr en lektorutdanning for trinn 8-13 som er integrert, profesjonsrettet og forsknings- og erfaringsbasert. Utdanningen skal være av høy faglig kvalitet og med helhet og sammenheng mellom profesjonsfag, fagstudier og praksis. Utdanningen skal imøtekomme samfunnets og skolens behov og skal forholde seg til opplæringsloven og gjeldende læreplanverk for grunnopplæringen.
+(3) Lektorutdanningen skal kvalifisere kandidatene til å videreutvikle skolen som en institusjon for læring og dannelse i et demokratisk og flerkulturelt samfunn. Utdanningen skal være rettet mot undervisning på trinn 8-13.
+(4) Lektorutdanning for trinn 8-13 skal kvalifisere kandidatene til å ivareta opplæring om samiske forhold, herunder kjennskap til den statusen urfolk har internasjonalt, og samiske barn og ungdoms rett til opplæring i tråd med opplæringsloven og gjeldende læreplanverk.
