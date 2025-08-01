@@ -1,0 +1,4 @@
+# INFORMASJON
+21 Hvis skipet har en informasjonsskranke, skal skrankehøyden ikke være høyere enn 90 cm. En teleslynge skal være installert ved informasjonsskranken.
+22 Lettleste oppslag og skilt med nødvendig informasjon til passasjerene skal settes opp der det er relevant, spesielt ved atkomst til skipet. Informasjonstekstene skal inneholde enkle, fete og store bokstaver i en farge som er i kontrast til bakgrunnen (f.eks. svart på gult). Skiltene skal være plassert i en passende høyde over gulvet, cirka 150-160 cm, og være godt opplyst. Informasjon via lydanlegget skal formidles høyt og tydelig. Informasjon via alternative formater, som blindeskrift, taktil merking eller lydmeldinger, skal også vurderes for blinde og personer med nedsatt synsevne.
+23 Skipet bør ha utstyr som gjør det mulig å gi informasjon ved hver havn på en slik måte at både personer med nedsatt synsevne og nedsatt hørselsevne får informasjon.

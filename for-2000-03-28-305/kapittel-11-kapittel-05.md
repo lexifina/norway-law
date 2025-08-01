@@ -1,0 +1,2 @@
+# PARKERING OM BORD
+6 Det skal være tydelig oppmerkede parkeringsplasser for rullestolbrukere om bord på bilferger, slik at det er mulig å komme seg ut av bilen. Antall parkeringsplasser kan variere etter behov. Parkeringsplassene kan også brukes av personer med nedsatt funksjonsevne som ikke er rullestolbrukere. Det skal være fri passasje for rullestolbrukere fra parkeringsplassen til passasjerområdene.

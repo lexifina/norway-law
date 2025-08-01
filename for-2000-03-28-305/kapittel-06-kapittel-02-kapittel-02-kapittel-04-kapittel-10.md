@@ -1,0 +1,52 @@
+# Regel II-1/C/35-1: Lensepumpearrangement
+2.1. Det skal finnes et effektivt lensepumpesystem som kan pumpe fra og lense en hvilket som helst vanntett avdeling som ikke er et rom permanent reservert for føring av ferskvann, vannballast, brennolje eller flytende last, og som er utstyrt med andre effektive pumpeinnretninger, under alle mulige forhold. Det skal finnes effektive midler for tømming av vann fra isolerte lasterom.
+2.2. Sanitærpumper, ballastpumper og alminnelige arbeidspumper kan godtas som uavhengige maskindrevne lensepumper dersom de er utstyrt med de nødvendige forbindelsene til lensepumpesystemet.
+2.3. Alle lensepumper som brukes i eller under lagertanker for brennolje eller i maskin- eller kjelerom, herunder rom med bunnfellingstanker eller pumpeanlegg for brennolje, skal være av stål eller annet egnet materiale.
+2.4. Innretningen av lense- og ballastpumpesystemet skal være slik at vann fra sjøen og fra vannballastrom ikke kan trenge inn i laste- og maskinrom, eller fra én avdeling til en annen. Det skal treffes tiltak for å hindre at noen dyptank med forbindelse til lense- og ballastrør ved uaktsomhet kan bli fylt med sjøvann når den inneholder last, eller kan bli pumpet tom gjennom en lenseledning når den inneholder vannballast.
+2.5. Alle fordelingsbokser og manuelt betjente ventiler i forbindelse med lensepumpearrangementene skal være på steder som er tilgjengelige under vanlige omstendigheter.
+2.6. Det skal treffes tiltak for lensing av innelukkede lasterom som er plassert på skottdekket.
+2.6.1. Dersom fribordet til skottdekket er slik at dekkskanten kommer under vann når skipet krenger mer enn 5 grader, skal lensingen skje ved hjelp av et tilstrekkelig antall spygatt av hensiktsmessig størrelse og med tømming direkte over bord, montert i samsvar med kravene i regel II-1/B-2/15 i avsnitt 1 eller regel 15 i SOLAS II-1, alt etter hva som er relevant.
+2.6.2. Dersom fribordet er slik at kanten av skottdekket kommer under vann når skipet krenger 5° eller mindre, skal lensingen av de innelukkede lasterommene på skottdekket føres til et eller flere egnede rom med tilstrekkelig kapasitet, som har alarm for høy vannstand og er utstyrt med egnede arrangementer for tømming over bord. I tillegg skal det sikres at
+.1 antall, størrelse og plassering av spygatt er slik at urimelig opphoping av fritt vann hindres,
+.2 pumpearrangementene som kreves etter denne regel II-1/C/35-1, tar hensyn til kravene om et fastmontert vannforstøvingssystem til brannslokking,
+.3 vann som er forurenset av bensin eller andre farlige stoffer, ikke lenses til maskinrom eller andre rom der det kan finnes tennkilder, og
+.4 dersom det innelukkede lasterommet er beskyttet av brannslokkingsanlegg med karbondioksid, er dekksspygattene utstyrt med midler til å hindre utslipp av slokkegassen.
+2.6.3. Tiltak for lensing av innelukkede roro-lasterom og spesiallasterom skal også være i samsvar med regel II-2/G/20 nr. 6.1.4 og 6.1.5.
+2.6.3a Dersom salonger for passasjerer og besetning er utstyrt med sprinkleranlegg og hydranter, skal de ha et tilstrekkelig antall spygatt til å tømme vannmengden som kommer fra brannslokking med rommets sprinklerhoder og fra to brannslanger med strålerør. Spygattene skal være plassert på det mest virkningsfulle stedet, f.eks. i hvert hjørne.
+3.1. Lensepumpesystemet som kreves etter nr. 2.1, skal være i stand til å virke under alle mulige forhold etter et havari, uansett om skipet er på rett kjøl eller har slagside. For dette formål skal rør for lensing fra slagene generelt monteres, unntatt i trange avdelinger i endene av skipet, der et enkelt sugerør kan være tilstrekkelig. I avdelinger som har uvanlig form, kan det kreves flere sugerør. Det skal treffes tiltak for å sikre at vannet i vedkommende avdeling renner til sugerørene.
+3.2. Minst tre maskindrevne pumper skal være tilkoplet hovedlenseledningen, hvorav én kan drives av framdriftsmaskineriet. Dersom lensepumpetallet er 30 eller mer, skal det finnes én ekstra uavhengig maskindrevet pumpe.
+Lensepumpetallet skal beregnes på følgende måte:
+Når P1 er større enn P: | bilge pump numeral = \(72\cdot [\frac{M+2P_1}{V+P_{1}-P}]\)
+I andre tilfeller: | bilge pump numeral = \(72\cdot [\frac{M+2P_1}{V}]\)
+der:
+L | = | skipets lengde (meter), som definert i SOLAS II-1/2,
+M | = | maskinrommets volum (kubikkmeter), som definert i SOLAS II-1/2, som er under skottdekket, medregnet også volumet av eventuelle permanente brennoljebunkere som kan være plassert over den innvendige bunnen og forut for eller aktenfor maskinrommet,
+P | = | hele volumet av passasjer- og besetningsrom under skottdekket (kubikkmeter), som er bestemt til bruk for passasjerer og besetning, unntatt bagasjerom, lagerrom og proviantrom,
+V | = | hele volumet av skipet under skottdekket (kubikkmeter),
+P1 | = | KN,
+der:
+N | = | antall passasjerer som skipet skal sertifiseres for, og
+K | = | 0.056L
+Dersom verdien av KN er større enn summen av P og hele volumet av de faktiske passasjerrommene over skottdekket, skal imidlertid tallet som skal tas som P1, være den verdien som er størst av denne summen eller to tredeler av KN.
+3.3. Der det er praktisk mulig, skal de maskindrevne lensepumpene være plassert i atskilte vanntette avdelinger og være slik innrettet eller plassert at disse avdelingene ikke vil bli fylt på grunn av samme skade. Dersom hovedframdriftsmaskineri, hjelpemaskineri og kjeler er installert i to eller flere vanntette avdelinger, skal de pumpene som er anvendelige som lensepumper, så vidt mulig være fordelt på disse avdelingene.
+3.4. På et skip med lengde L 91,5 m eller mer eller med et lensepumpetall på 30 eller mer, beregnet i samsvar med nr. 3.2, skal arrangementene være slik at minst én maskindrevet lensepumpe er tilgjengelig for bruk under alle fyllingsforhold som skipet skal kunne motstå, og, for skip utformet i samsvar med SOLAS-kapittel II-1 del B til B-4 med endringer, under alle fyllingsforhold som framkommer fra vurdering av mindre skader som angitt i SOLAS-kapittel II-1 regel 8, på følgende måte:
+.1 Én av de påkrevde lensepumpene skal være en nødpumpe av en pålitelig nedsenkbar type som har en kraftkilde som er plassert over skottdekket, eller
+.2 lensepumpene og deres kraftkilder skal være fordelt over hele skipets lengde slik at minst én pumpe i en uskadet avdeling vil være tilgjengelig.
+3.5. Med unntak av tilleggspumper som kan være installert bare for skarpene, skal hver påkrevd lensepumpe være innrettet til å ta ut vann fra et hvilket som helst rom som i henhold til nr. 2.1 skal lenses.
+3.6. Alle maskindrevne lensepumper skal være i stand til å pumpe vann gjennom det påkrevde hovedlenserøret med en hastighet på minst 2 m/s. Uavhengige maskindrevne lensepumper plassert i maskinrom skal ha direkte sugerør fra disse rommene, med det unntak at det ikke kreves mer enn to slike sugerør i noe enkelt rom. Dersom det finnes to eller flere slike sugerør, skal det være minst ett på hver side av skipet. Direkte sugerør skal være hensiktsmessig innrettet, og de som er plassert i maskinrom, skal ha en diameter som ikke er mindre enn den som kreves for hovedlenserøret.
+3.7.1. I tillegg til det eller de direkte sugerørene som kreves etter nr. 3.6, skal det i maskinrommet være et direkte nødlenserør, utstyrt med tilbakeslagsventil, fra den største uavhengige maskindrevne pumpen til lensenivået i maskinrommet; diameteren på dette direkte røret skal være den samme som hovedinntaket til pumpene som brukes.
+3.7.3. Spindlene til sjøinntaket og direkte lenseventiler skal føres godt over maskinromsplattformen.
+3.8. Alle lensesugerør opp til forbindelsen til pumpene skal være uavhengige av andre rørledninger.
+3.9. Diameteren «d» på hoved- og sidelenserør skal beregnes etter formelen nedenfor. Den faktiske innvendige diameteren kan imidlertid avrundes til nærmeste standardstørrelse som flaggstatens myndighet kan godta:
+Hovedlenserør:
+$$d = 25 + 1.68 \sqrt{(L(B+D))}$$
+Sidelenserør mellom oppsamlingskassene og sugerørene:
+$$d = 25 + 2.15 \sqrt{(L_1(B+D))}$$
+der:
+d | viser til innvendig diameter i millimeter,
+L og B | er skipets lengde og bredde (meter),
+L1 | er avdelingens lengde, og
+D | er skipets dybde i riss til skottdekket (meter); i et skip med et innelukket lasterom på skottdekket som lenses innvendig i samsvar med kravene i nr. 2.6.2, og som strekker seg over hele skipets lengde, skal D likevel måles til neste dekk over skottdekket. Dersom de innelukkede lasterommene omfatter en mindre lengde, skal D settes til dybden i riss til skottdekket pluss faktoren lh/L, der l og h er henholdsvis den samlede lengden og høyden på de innelukkede lasterommene.
+3.10. Det skal treffes tiltak for å hindre at en avdeling som betjenes av lensesugerør, blir fylt med vann i tilfelle røret sprekker eller på annen måte blir skadet i en annen avdeling ved kollisjon eller grunnstøting. For dette formål skal det, dersom noen del av røret ligger nærmere skipssiden enn en femdel av skipets bredde (målt i rett vinkel på senterlinjen i høyde med den dypeste oppdelingslastelinjen) eller i en kanalkjøl, plasseres en tilbakeslagsventil i røret i den avdelingen som inneholder den åpne enden. For skip som er utformet i samsvar med SOLAS kapittel II-1 del B til B-4, med endringer, skal dypeste oppdelingslastelinje anses som dypeste oppdelingsdypgående.
+3.11. Fordelingskasser, kraner og ventiler i forbindelse med lensepumpesystemet skal være slik innrettet at i tilfelle av fylling vil en av lensepumpene kunne anvendes på en hvilket som helst avdeling; dessuten skal lensesystemet ikke settes ut av virksomhet ved skade på en pumpe eller på dens rørforbindelse til hovedlenserøret beliggende nærmere skipssidene enn en femdel av skipets bredde. Dersom det er bare ett rørledningssystem felles for alle pumper, må de nødvendige ventilene for styring av lensesugerørene kunne betjenes fra et sted over skottdekket. Der det i tillegg til hovedlensesystemet er montert et nødlensesystem, skal dette være uavhengig av hovedsystemet og slik innrettet at en pumpe er i stand til å lense fra en hvilket som helst avdeling i fylt tilstand som angitt i nr. 3.1; i så tilfelle behøver bare de ventiler som er nødvendige for betjening av nødlensesystemet, å kunne styres fra et sted over skottdekket.
+3.12. Alle kraner og ventiler som er nevnt i nr. 3.11 og kan styres fra et sted over skottdekket, skal ha sine betjeningshåndtak på styringsstedet tydelig merket og skal være utstyrt med innretninger som viser om de er åpne eller stengt.

@@ -1,0 +1,5 @@
+# 14. Regel II-1/B-2/14: Skip som fører godskjøretøyer og medfølgende personale (R 16)
+NYE SKIP I KLASSE B, C OG D SAMT EKSISTERENDE SKIP I KLASSE B:
+.1 Denne regel II-1/B-2/14 får anvendelse på passasjerskip konstruert eller tilpasset for å frakte godskjøretøyer og medfølgende personale.
+.2 Dersom det samlede passasjerantallet i slike skip, medregnet personer som følger med kjøretøyene, ikke overstiger N = 12 + A/25, der A = totalt dekksareal (kvadratmeter) i rom beregnet på stuing av godskjøretøyer og der fri høyde i slike rom og ved inngangen til slike rom er minst 4 meter, får bestemmelsene i regel II-1/B-2/13 nr..10 anvendelse med hensyn til vanntette dører, med det unntak at dørene kan plasseres i et hvilket som helst nivå i vanntette skott som skiller lasterom. I tillegg kreves det indikatorer på kommandobroen som automatisk viser når hver dør er lukket og alle festeinnretninger for dører er sikret.
+.3 Når bestemmelsene i dette kapittelet anvendes på et slikt skip, skal N settes lik det største antall passasjerer skipet kan sertifiseres for i samsvar med denne regel II-1/B-2/14.

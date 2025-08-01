@@ -1,0 +1,9 @@
+# Regel II-1/D/44: Startarrangementer for nødgeneratorsett
+1. Nødgeneratorsett skal kunne startes enkelt fra kald tilstand ved en temperatur på 0 °C. Hvis dette ikke er praktisk mulig, eller hvis det er trolig at lavere temperaturer kan forekomme, skal det treffes tiltak til administrasjonens tilfredshet for vedlikehold av oppvarmingsarrangementer for å sikre at generatorsettene er enkle å starte.
+2. Kilden til lagret energi skal beskyttes for å unngå at den lades helt ut av det automatiske startsystemet, med mindre det finnes et annet uavhengig startmiddel. Dessuten skal det finnes enda en energikilde til ytterligere tre starter innen 30 minutter, med mindre det kan påvises at manuell start er effektivt.
+3. Den lagrede energien skal opprettholdes til enhver tid på følgende måte:
+.1 Elektriske og hydrauliske startsystemer skal vedlikeholdes fra nødtavlen.
+.2 Startsystemer med trykkluft kan vedlikeholdes ved hoved- eller hjelpetrykklufttankene gjennom en egnet tilbakeslagsventil eller ved en nødluftkompressor som, når den er elektrisk drevet, forsynes fra nødtavlen.
+.3 Alle disse start-, lade- og energilagringsinnretningene skal være plassert i nødgeneratorrommet; disse innretningene skal ikke brukes til andre formål enn drift av nødgeneratorsettet. Dette utelukker ikke at nødgeneratorsettets lufttanker kan forsynes fra hoved- eller hjelpetrykkluftsystemet gjennom tilbakeslagsventilen som er montert i nødgeneratorrommet.
+4.1. Dersom det ikke kreves automatisk start, er manuell start tillatt, for eksempel ved håndsveiv, svinghjulstarter, manuelt ladede hydraulikkakkumulatorer eller kruttladningspatroner, når det kan påvises at de er effektive.
+4.2. Når manuell start ikke er praktisk mulig, skal kravene i nr. 2 og 3 oppfylles, med unntak av at start kan settes i gang manuelt.
