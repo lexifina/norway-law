@@ -1,0 +1,5 @@
+# § 4-8. Semesteravgift, læremiddelavgift, kursavgift og skolepenger
+Studenter skal betale en semesteravgift som dekker medlemskap i studentsamskipnaden og Organisasjon for fagskolestudenter i Norge (ONF). Semesteravgiften fastsettes av styret og skal dekke kostnader til samskipnaden samt interne administrative kostnader knyttet til medlemskapene. Semesteravgiften faktureres studentene.
+Det kan tilkomme en årlig læremiddelavgift til kopiering og utskrift av dokumenter, lisenser samt læreutstyr. Satsene besluttes av styret og kommuniseres til studentene i studieplanene.
+For de som gjennomfører sikkerhetsopplæring kan det tilkomme en kursavgift som kreves inn med betalingsfrist en måned før gjennomføring av sikkerhetsopplæring. Kursavgiften besluttes av styret og kommuniseres til studentene i studieplanene.
+Styret i fagskolen fastsetter hvilke studier som har egenbetaling av skolepenger. Fagskolen kan kun kreve egenbetaling fra studenter når det ikke er forutsatt at utdanningen skal være gratis i tildelingen av offentlige tilskudd.

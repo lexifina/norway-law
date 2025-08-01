@@ -1,0 +1,2 @@
+# § 5-8. Gyldig fravær ved eksamen eller en annen form for sluttvurdering
+Gyldig fravær er fravær på grunn av sykdom eller sterke velferdsgrunner. En student som på grunn av sykdom eller annen vektig grunn ikke kan møte til eksamen eller en annen form for sluttvurdering, må gi skolen beskjed uten ugrunnet opphold. Dokumentasjon på gyldig fravær skal være levert til fagskolen så raskt som mulig og senest innen tre virkedager etter eksamen eller en annen form for sluttvurdering for at det ikke skal telle som et forsøk.

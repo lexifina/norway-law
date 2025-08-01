@@ -1,0 +1,3 @@
+# § 5-12. Gjennomføring av eksamen/sluttvurdering etter avbrutt studium og gjennomføring av studier eller emner som er vesentlig endret
+En student som har avbrutt ordinært studieprogram og kommer tilbake ved en senere anledning for å fullføre utdanningen, må inngå skriftlig avtale med fagskolen om hvilke eksamener/sluttvurderinger som skal gjennomføres.
+Når en student ikke fullfører studiet eller et emne innen normert studietid, og det i mellomtiden er gjort vesentlige endringer i en studieplan, gjelder retten til å fullføre etter den opprinnelige planen i ett år etter at endringen ble gjort gjeldende, dersom ikke annet er bestemt av sertifikatgivende eller annen myndighet.

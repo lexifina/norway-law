@@ -1,0 +1,5 @@
+# § 5-17. Fusk og forsøk på fusk
+Det blir vurdert som fusk om en student benytter ulovlige hjelpemiddel under eksamen eller andre vurderingssituasjoner, eller på andre måter handler i strid med reglement for sluttvurdering og eksamen, eller regler om kildebruk bestemt av fagskolen.
+Om det under eksamener eller andre vurderingssituasjoner med tilsyn oppstår situasjoner som gjør at en student kan mistenkes for fusk, skal studenten straks gjøres oppmerksom på at forholdene vil bli rapportert til administrasjonen ved fagskolen for videre behandling. Studenten skal ha anledning til å velge om han/hun ønsker å avbryte eller fortsette eksamen eller vurderingssituasjonen. Det samme gjelder for studenter som mistenkes for å ha hjulpet andre til fusk.
+Fuskesaker behandles av den lokale klagenemnda. Har en student forsettlig eller grovt uaktsomt fusket eller forsøkt å fuske kan klagenemnda fatte vedtak om å annullere eksamen eller prøven, og/eller fatte vedtak om utestenging etter reglene i fagskoleloven § 25.
+Studenten skal ha anledning til å forklare seg før saken sendes til klagenemnda. Studenten skal få begrunnelse for vedtaket som fattes.

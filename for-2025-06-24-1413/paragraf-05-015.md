@@ -1,0 +1,2 @@
+# § 5-15. Tillatte hjelpemidler på eksamen/sluttvurdering
+Det varierer fra emne til emne hvilke hjelpemidler som er tillatt under skriftlig eksamen/sluttvurdering. Før eksamen/sluttvurdering må studenten selv sette deg inn i hvilke hjelpemidler de har lov til å bruke under den enkelte eksamen/sluttvurderingen. Tillatte hjelpemidler for hver eksamen/sluttvurdering skal gjøres kjent for studentene i god tid før eksamen/sluttvurderingen.
