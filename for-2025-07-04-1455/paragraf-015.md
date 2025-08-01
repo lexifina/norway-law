@@ -1,0 +1,3 @@
+# § 15. Praksisstudier
+I studiet inngår det praksis innen barnevernsfeltet på minimum 4 uker totalt. Praksis skal være knyttet til et eller flere av læringsutbyttene i denne forskriften, og bidra til å utvikle kandidatens praktiske, analytiske og kritiske kompetanse. Praksis vil kunne gjennomføres i tilknytning til kandidatens egen arbeidsplass innen barnevernsfeltet.
+Det skal inngås samarbeidsavtaler med praksistilbyderen. Avtalene skal regulere ansvar, roller, kapasitet på praksisplasser, kompetanse og samarbeidsarenaer på alle relevante nivå, og kan også regulere forsknings-, utviklings- og innovasjonssamarbeid.
