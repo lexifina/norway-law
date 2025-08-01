@@ -1,0 +1,2 @@
+# § 4a. Kontroll av utenlandske fiskefartøy
+Utenlandske fiskefartøy med største lengde 24 meter eller mer som anløper norsk havn, lander fangst i norsk havn, eller som fisker, fanger eller foredler levende ressurser i norsk territorialfarvann, kan kontrolleres i henhold til EØS-avtalen vedlegg XIII nr. 56g (direktiv 97/70/EF som endret ved direktiv 1999/19/EF, direktiv 2002/35/EF og direktiv 2002/84/EF) om etablering av en harmonisert sikkerhetsordning for fiskefartøyer med en lengde på 24 meter og over.
