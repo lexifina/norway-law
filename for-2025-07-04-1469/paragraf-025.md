@@ -1,0 +1,3 @@
+# § 25. Studiets oppbygning
+Utdanningen skal organiseres på en måte som fremmer integrering av teori og praksis. Emnene skal bygge på hverandre og det skal stilles gradvis økende krav til studentenes kunnskap, ferdigheter og generell kompetanse. Utdanningen skal fremstå som helhetlig ved at faglig innhold, pedagogiske virkemidler og praksisstudier kobles sammen.
+Det skal være sammenheng mellom læringsutbyttebeskrivelser, læringsaktiviteter og vurderingsformer. Veiledet ferdighetstrening på utdanningsinstitusjonen er viktig for studentenes kliniske og tekniske handlingskompetanse og personlige og praktiske ferdigheter, og skal derfor ha en sentral plass i utdanningen.
