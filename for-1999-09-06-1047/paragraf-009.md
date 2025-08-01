@@ -1,0 +1,3 @@
+# § 9. Overgangsregler
+(1) Rederier som har rapportert antall personer til rederiets registeransvarlige eller rederiets landbaserte registreringssystem før (dato for ikrafttredelse av denne forskriften), kan fortsette å rapportere til rederiets registeransvarlige eller rederiets landbaserte registreringssystem frem til 20. desember 2023.
+(2) Rederier som har rapportert opplysningene i § 6 til rederiets registeransvarlige eller rederiets landbaserte registreringssystem før (dato for ikrafttredelse av denne forskriften), kan fortsette å rapportere til rederiets registeransvarlige eller rederiets landbaserte registreringssystem frem til 20. desember 2023.
