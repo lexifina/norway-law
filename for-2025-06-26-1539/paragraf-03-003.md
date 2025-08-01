@@ -1,0 +1,3 @@
+# § 3-3. Permisjon
+(1) En student kan søke permisjon i inntil 1,5 år, eller 50 % utover normert studietid. Det må dokumenteres en velferdsgrunn og/eller egen sykdom eller alvorlig sykdom i nær familie. Grunnlaget for permisjonsrett skal gå frem av fagskolens hjemmeside. Endring i arbeids- eller sosiale forhold gir ikke grunnlag for studiepermisjon.
+(2) Når en student ikke fullfører studiet eller et emne innen normert studietid, og det i mellomtiden er gjort vesentlige endringer i studieplan, gjelder retten til å fullføre etter den opprinnelige planen i to år etter at endringen ble gjort gjeldende.

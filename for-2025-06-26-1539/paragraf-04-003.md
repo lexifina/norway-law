@@ -1,0 +1,18 @@
+# § 4-3. Sluttvurdering og eksamen
+(1) Studenten har rett til sluttvurdering og/eller til å fremstille seg til eksamen når vilkår for sluttvurdering i det aktuelle emnet er oppfylt. Disse vilkårene fremgår av emnebeskrivelsen i studieplanen.
+(2) Studenten har plikt til å sette seg inn i studieplanen for å gjøre seg kjent med gjeldene vilkår for sluttvurdering og eksamen.
+(3) Vilkår for sluttvurdering er ett eller flere av følgende:
+a) Alle arbeidskrav, eller et angitt minimum av antall arbeidskrav, er gjennomført/innlevert og godkjent i henhold til studieplanen.
+b) Veiledningsplikt er oppfylt.
+c) Oppmøteplikt er oppfylt.
+(4) Dersom en student står i fare for å ikke oppfylle vilkårene for sluttvurdering, skal det gis forhåndsvarsel. Hvis vilkårene ikke oppfylles, mister studenten retten til sluttvurdering og må ta emnet på nytt. Det skal da fattes et enkeltvedtak med klageadgang etter forvaltningsloven § 29. Klagefristen er tre uker fra mottak av vedtaksbrevet.
+(5) En student har to forsøk per arbeidskrav. Dersom et arbeidskrav ikke blir godkjent/levert på første forsøk, skal studenten motta et forhåndsvarsel. Det skal sendes forhåndsvarsel for hver gang arbeidskrav ikke godkjennes på første forsøk.
+(6) Dersom arbeidskravet ikke blir godkjent på andre forsøk, mister studenten retten til sluttvurdering i emnet og må ta emnet på nytt. Det skal da fattes et enkeltvedtak med klageadgang, jf. forvaltningsloven § 29.
+(7) Ved akutt sykdom eller velferdsgrunner kan det, etter søknad og særskilt vurdering, gis utsettelse eller et tredje forsøk på arbeidskrav. Fraværet må dokumenteres innen 14 dager etter innleveringsfrist.
+(8) En student har tre forsøk per sluttvurdering før emnet må tas på nytt. Første forsøk gjennomføres automatisk i tilknytning til ordinær sluttvurdering som følger undervisningsløpet. Andre forsøk tilbys ved tilrettelagt ny vurdering etter avtale med faglærer og studieadministrasjonen. Tidspunkt for vurderingen meldes av skolen. Tredje forsøk gjennomføres ved neste ordinære sluttvurdering i emnet.
+(9) Studenter som ikke leverer eller ikke melder forfall til sluttvurdering uten gyldig grunn, har brukt ett forsøk.
+(10) Ved akutt sykdom eller velferdsgrunner kan det, etter søknad og særskilt vurdering, gis utsettelse eller et fjerde forsøk på sluttvurdering. Fraværet må dokumenteres innen 21 dager etter innleveringsfrist. Et fjerde forsøk vil medføre en administrativ kostnad, som oppgis på fagskolens hjemmeside.
+(11) For ikke bestått praksis, gis det det adgang til å ta praksisperioden én gang til, hvis ikke annet er bestemt i studieplanen.
+(12) Minimum seks uker før gjennomføring av sluttvurdering/eksamen i emnet skal studenten få informasjon om tidspunkt og tidsramme, hjelpemidler og annen nødvendig informasjon.
+(13) Studenter som er tatt opp til en utdanning blir automatisk oppmeldt til sluttvurdering/eksamen ved første og andre forsøk i hvert emne. Dersom en student ønsker å avlegge sluttvurdering/eksamen for tredje forsøk i et emne, må studenten selv melde seg opp innen 15. januar for sluttvurdering/eksamener i vårsemesteret og 15. september for sluttvurdering/eksamener i høstsemesteret. For maritime fag er oppmeldingsfristen 15. januar og 1. august.
+(14) Alle emner som inngår i utdanningen, må være bestått før det avsluttende arbeidet kan påbegynnes. Med avsluttende arbeid menes hovedprosjekt, fordypningsoppgave, prosjektoppgave eller tilsvarende arbeid. Hvis en student gjennomfører det avsluttende arbeidet samtidig som vedkommende fullfører andre gjenstående emner i utdanningen, skal sluttvurdering for det avsluttende arbeidet ikke kunngjøres før samtlige øvrige emner er bestått.
