@@ -1,0 +1,2 @@
+# § 2. Økonomiske sanksjoner og tilbaketrekking av anerkjennelse
+EØS-avtalen vedlegg XIII nr. 55f (forordning (EU) nr. 788/2014 om fastsettelse av nærmere regler for ilegging av bøter og tvangsmulkter og tilbaketrekking av anerkjennelse av organisasjoner som skal inspisere og besikte skip) gjelder som forskrift med de endringer og tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
