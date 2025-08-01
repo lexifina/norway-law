@@ -1,5 +1,5 @@
 # § 11-16. Verdipapiriseringsforordningen
-(1) EØS-avtalen vedlegg IX forordning (EU) 2017/2402 om en generell ramme for verdipapirisering og om opprettelse av en spesifikk ramme for enkel, transparent og standardisert verdipapirisering (verdipapiriseringsforordningen) gjelder som lov med de tilpasninger som følger av vedlegg IX til avtalen, protokoll 1 til avtalen og avtalen for øvrig.
+(1) EØS-avtalens vedlegg IX forordning (EU) 2017/2402 om en generell ramme for verdipapirisering og om opprettelse av en spesifikk ramme for enkel, gjennomsiktig og standardisert verdipapirisering (verdipapiriseringsforordningen), som endret ved Europaparlaments- og rådsforordning (EU) 2021/557, gjelder som lov med de tilpasninger som følger av vedlegg IX til avtalen, protokoll 1 til avtalen og avtalen for øvrig.
 (2) Departementet kan i forskrift fastsette nærmere regler til utfylling av bestemmelsene i første ledd, herunder regler om
 a) risikotilbakeholdelse,
 b) transparenskrav,

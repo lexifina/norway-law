@@ -4,7 +4,7 @@
 a) det er usikkert hvem som har rett til utbetaling av innskuddet,
 b) det er reist søksmål om retten til utbetaling av innskuddet,
 c) disponeringen av innskuddet er undergitt nasjonalt eller internasjonalt fastsatte begrensninger,
-d) kredittsaldoen har stått uendret i løpet av de siste 24 månedene,
+d) kreditsaldoen har stått uendret i løpet av de siste 24 månedene,
 e) innskuddet omfattes av § 19-4 annet ledd, likevel ikke i mer enn tre måneder, eller
 f) innskuddet skal utbetales etter § 19-8 første ledd.
 (3) Dersom en innskyter eller person med interesse knyttet til en innskuddskonto er under straffeforfølgning for overtredelse av lovgivningen om hvitvasking av penger eller finansiering av terrorvirksomhet, kan garantiordningen utsette utbetalingen i påvente av rettskraftig dom.

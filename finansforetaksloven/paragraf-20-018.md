@@ -1,5 +1,5 @@
 # § 20-18. Virkninger av vedtak om krisehåndtering
-(1) Når departemenet har truffet vedtak om krisehåndtering etter § 20-15, inntrer følgende virkninger:
+(1) Når departementet har truffet vedtak om krisehåndtering etter § 20-15, inntrer følgende virkninger:
 a) myndigheten som tilligger foretakets styrende organer, overføres til Finanstilsynet, men styret kan likevel avgjøre saker som ikke kan utsettes inntil administrasjonsstyret er tiltrådt,
 b) medlemmene av styret og revisor skal gi Finanstilsynet og administrasjonsstyret alle opplysninger om foretakets stilling og virksomhet,
 c) Finanstilsynet kan bestemme at foretaket helt eller delvis ikke kan ta imot innskudd og innlån, påta seg nye engasjementer eller øke tidligere engasjementer,

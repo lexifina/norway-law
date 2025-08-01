@@ -9,5 +9,4 @@ d) å redusere risikoen knyttet til virksomheten, herunder produkter og systemer
 e) å redusere forskjellen i løpetid mellom foretakets forpliktelser og eiendeler,
 f) å begrense omfanget av prestasjonsbetinget godtgjørelse,
 g) å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital.
-(4) Finanstilsynet kan gi felles pålegg for en gruppe av foretak som er utsatt for samme type risiko.
-(5) Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at foretak som nevnt i første ledd kan ha lavere ansvarlig kapital enn minstekravene og bufferkravene.
+(4) Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at foretak som nevnt i første ledd kan ha lavere ansvarlig kapital enn minstekravene og bufferkravene.
