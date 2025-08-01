@@ -1,0 +1,5 @@
+# § 23. Praksisstudier
+Praksisstudier utgjør en integrert del av utdanningen. Kvaliteten i praksisstudiene og hvordan disse virker sammen med undervisning, simulering og ferdighetstrening ved utdanningsinstitusjonene er avgjørende for den samlede studiekvaliteten. Læringsutbyttebeskrivelsene skal være styrende for praksisstudienes innhold og utforming. Utdanningsinstitusjonen skal tilby opplæring for veiledere.
+Praksisstudier skal ha en varighet på minimum 32 uker. Minimum 20 uker skal være i ambulansetjenesten. Videre skal minimum 12 uker fordeles mellom spesialist- og kommunale helse- og omsorgstjenester slik at kandidaten får ytterligere erfaring med pasientforløp der akuttmedisin og ø-hjelp utføres.
+Praksisstudier skal inkludere fødeavdeling, hvor studentene får erfaring med fødsel og forløsningsprosessen. Det skal også inngå praksisstudier innen psykisk helse og rus.
+Deler av praksisstudiene kan erstattes med simulering og ferdighetstrening når dette gir bedre mulighet for å sikre at læringsutbytter oppnås.
