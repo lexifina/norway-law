@@ -1,0 +1,4 @@
+# § 13-1. Klage på enkeltvedtak
+(1) Vedtak fattet i tråd med universitets- og høyskoleloven § 14-1 kan påklages til institusjonens klagenemnd så fremt ikke annet er spesifisert i lov eller forskrift. Klagenemndas vedtak i saker som er omfattet av § 2-13, § 3-1, § 3-2, § 4-2, § 4-4, § 4-5, § 9-2, § 9-3, 9-11, 10-5 og § 11-2 i forskrift om opptak, studier og eksamen ved Norsk Gestaltinstitutt Høyskole kan ikke påklages.
+(2) Alle vedtak som påklages, skal uten ugrunnet opphold videresendes klagenemnda for vurdering.
+(3) Frist for å klage på vedtaket er senest 3 uker etter mottatt brev fra høyskolen, jf. forvaltningslovens § 29. Klagen skal sendes til Norsk Gestaltinstitutt Høyskole. I klagen skal det oppgis hvilket vedtak det klages over og om den endring som det ønskes i vedtaket det er klaget over jf. forvaltningslovens § 32. Klagen skal behandles og besvares innen tre uker etter at den er mottatt.
