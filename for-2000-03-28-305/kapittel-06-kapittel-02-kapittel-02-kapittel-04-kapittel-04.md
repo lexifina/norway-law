@@ -1,0 +1,44 @@
+# Regel II-1/C/29: Styremaskin
+1. Alle skip skal være utstyrt med en effektiv hovedstyremaskin og reservestyremaskin. Hovedstyremaskinen og reservestyremaskinen skal være slik innrettet at feil i én av dem ikke setter den andre ut av funksjon.
+3. Hovedstyremaskinen og rorstammen skal
+.1 ha tilstrekkelig styrke og være i stand til å styre skipet ved største vanlige fart forover, og være slik utformet at de ikke vil bli skadet ved største fart akterover,
+.2 være i stand til å legge roret over fra 35° på den ene siden til 35 ° på den andre siden når skipet er på sitt største dypgående og går i største vanlige fart forover, og under samme forhold, fra 35° på hver side til 30° på den andre siden i løpet av høyst 28 sekunder. Dersom det ikke er mulig å vise at dette kravet er oppfylt under prøvinger til sjøs når skipet er på sitt største dypgående og går forover med en fart som svarer til antall maksimale kontinuerlige omdreininger på hovedmotoren og maksimal konstruksjonsbestemt propellstigning, kan én av følgende metoder anvendes for å vise at skip, uansett byggedato, oppfyller dette kravet:
+.1 under prøvinger til sjøs med skipet på rett kjøl og roret helt under vann mens det går forover med en fart som svarer til antall maksimale kontinuerlige omdreininger på hovedmotoren og maksimal konstruksjonsbestemt propellstigning, eller
+.2 dersom det ikke er mulig å foreta prøvinger til sjøs med roret helt under vann, skal en egnet fart forover beregnes på grunnlag av den delen av rorbladet som befinner seg under vann, ved de lastetilstander som gjelder for den foreslåtte prøvingen til sjøs. Den beregnede farten forover skal gi en kraft og et dreiemoment på hovedstyremaskinen som er minst like stort som dersom prøvingen utføres når skipet er på sitt største dypgående og går forover med en fart som svarer til antall maksimale omdreininger på hovedmotoren og maksimal konstruksjonsbestemt propellstigning, eller
+.3 det er foretatt en pålitelig beregning av kraften og dreiemomentet på roret under prøvingens lastetilstand, som er ekstrapolert til tilstanden med full last. Skipets fart skal svare til antall maksimale kontinuerlige omdreininger på hovedmotoren og maksimal konstruksjonsbestemt propellstigning,
+.3 være maskindrevet dersom dette er nødvendig for å oppfylle kravene i nr. 3.2, og i alle tilfeller når det er nødvendig med en rorstamme på mer enn 120 mm i diameter ved rorpinnen, ikke medregnet forsterkning for fart i islagte farvann, for å oppfylle kravene i nr. 3.1.
+4. Eventuell reservestyremaskin skal
+.1 ha tilstrekkelig styrke og være i stand til å styre skipet ved manøvreringsfart og kunne settes hurtig i bruk i en nødssituasjon,
+.2 være i stand til å legge roret over fra 15° på den ene siden til 15° på den andre siden i løpet av høyst 60 sekunder når skipet er på sitt største dypgående og er i halv vanlig fart forover, eller 7 knop, dersom dette er mer. Dersom det ikke er mulig å vise at dette kravet er oppfylt under prøvinger til sjøs når skipet er på sitt største dypgående og er i fart forover ved halve den farten som svarer til antall maksimale kontinuerlige omdreininger på hovedmotoren og maksimal konstruksjonsbestemt propellstigning, eller 7 knop, dersom dette er mer, kan én av følgende metoder anvendes for å vise at skip, uansett byggedato, oppfyller dette kravet:
+.1 under prøvinger til sjøs med skipet på rett kjøl og roret helt under vann mens det er i fart forover ved halve av den farten som svarer til antall maksimale kontinuerlige omdreininger på hovedmotoren og maksimal konstruksjonsbestemt propellstigning, eller 7 knop, dersom dette er mer, eller
+.2 dersom det ikke er mulig å foreta prøvinger til sjøs med roret helt under vann, skal en egnet fart forover beregnes på grunnlag av den delen av rorbladet som befinner seg under vann, ved de lastetilstander som gjelder for den foreslåtte prøvingen til sjøs. Den beregnede farten forover skal føre til en kraft og et dreiemoment på hjelpestyremaskinen som er minst like stort som dersom prøvingen utføres når skipet ved sitt største dypgående er i fart forover ved halve den farten som svarer til antall maksimale kontinuerlige omdreininger på hovedmotoren og maksimal konstruksjonsbestemt propellstigning, eller 7 knop, dersom dette er mer, eller
+.3 det er foretatt en pålitelig beregning av kraften og dreiemomentet på roret under prøvingens lastetilstand, som er ekstrapolert til tilstanden med full last,
+.3 være maskindrevet der dette er nødvendig for å oppfylle kravene i nr..4.2, og i alle tilfeller når det er nødvendig med en rorstamme på mer enn 230 mm i diameter ved rorpinnen, ikke medregnet forsterkning for fart i islagte farvann.
+5. Styremaskinkraftenheter skal
+.1 være innrettet for automatisk oppstart når kraften kommer tilbake etter svikt i krafttilførselen, og
+.2 kunne settes i gang fra et sted på kommandobroen. I tilfelle av svikt i krafttilførselen til hvilken som helst av styremaskinkraftenhetene skal det gis en akustisk og optisk alarm på kommandobroen.
+6.1. Dersom hovedstyremaskinen omfatter to eller flere identiske kraftenheter, behøver det ikke være montert en reservestyremaskin, forutsatt at
+.1 hovedstyremaskinen er i stand til å bevege roret som fastsatt i nr. 3.2 med hvilken som helst av kraftenhetene ute av funksjon,
+.3 hovedstyremaskinen er slik innrettet at etter en enkeltfeil i dens rørledningssystem eller i én av kraftenhetene kan feilen isoleres slik at styreevnen kan opprettholdes eller raskt gjenvinnes.
+7. Styremaskinkontroll skal finnes
+.1 for hovedstyremaskinen, både på kommandobroen og i styremaskinrommet,
+.2 når hovedstyremaskinen er innrettet i samsvar med nr..6, i form av to uavhengige kontrollsystemer som begge kan betjenes fra kommandobroen. Dette innebærer ikke krav om dobbelt styrehjul eller styrespak. Dersom kontrollsystemet består av en hydraulisk telemotor, behøver det ikke være montert et annet uavhengig system,
+.3 for reservestyremaskinen, i styremaskinrommet, og dersom den er maskinelt betjent, skal den også kunne betjenes fra kommandobroen og være uavhengig av kontrollsystemet for hovedstyremaskinen.
+8. Ethvert kontrollsystem for hoved- og reservestyremaskin som kan betjenes fra kommandobroen, skal oppfylle følgende krav:
+.1 Dersom det er elektrisk, skal det betjenes av sin egen separate strømkrets som forsynes fra en strømkrets for styremaskinen fra et punkt inne i styremaskinrommet, eller direkte fra samleskinner på fordelingstavlen som forsyner denne strømkretsen for styremaskinen, fra et punkt på tavlen like ved tilførselen til strømkretsen for styremaskinen.
+.2 Det skal finnes midler i styremaskinrommet for frakopling av ethvert kontrollsystem som kan betjenes fra kommandobroen, fra den styremaskinen det betjener.
+.3 Systemet skal kunne settes i gang fra et sted på kommandobroen.
+.4 I tilfelle av svikt i den elektriske krafttilførselen til kontrollsystemet skal det gis en akustisk og en optisk alarm på kommandobroen.
+.5 Det skal finnes kortslutningsvern bare for strømkretser som forsyner styremaskinkontroller.
+9. De elektriske strømkretsene og styremaskinkontrollsystemene med tilhørende deler, ledninger og rør som kreves etter denne regel II-1/C/29 og regel II-1/C/30, skal være atskilt fra hverandre så langt det er praktisk mulig i hele sin lengde.
+10. Det skal finnes et middel til samband mellom kommandobroen og styremaskinrommet eller alternativ styreplass.
+11. Vinkelstillingen på roret/rorene skal
+.1 vises på kommandobroen, dersom hovedstyremaskinen er maskindrevet. Visningen av rorvinkelen skal være uavhengig av kontrollsystemet for styremaskinen,
+.2 kunne gjenkjennes i styremaskinrommet.
+12. Hydrauliske maskindrevne styremaskiner skal være utstyrt med følgende:
+.1 Arrangementer for å holde den hydrauliske væsken ren, under hensyn til det hydrauliske systemets type og utforming.
+.2 Lavnivåalarm for hvert reservoar for hydraulisk væske for å gi tidligst mulig varsel om lekkasje av hydraulisk væske. Det skal gis akustisk og optisk alarm på kommandobroen og der den er lett å oppfatte i maskinrommet.
+.3 Fast lagertank med tilstrekkelig kapasitet til å fylle på nytt minst ett kraftaktiverende system, medregnet reservoaret, dersom det kreves at hovedstyremaskinen er maskindrevet. Lagertanken skal være permanent tilkoplet med rørledninger på en slik måte at de hydrauliske systemene lett kan fylles på nytt fra et sted inne i styremaskinrommet, og skal være utstyrt med en måler som viser hvor mye den inneholder.
+13. Styremaskinrommet skal være
+.1 lett tilgjengelig og, så langt det er praktisk mulig, atskilt fra maskinrom, og
+.2 utstyrt med passende arrangementer som sikrer arbeidsatkomst til styremaskinen og kontrollinnretninger. Disse arrangementene skal omfatte rekkverk og rist eller andre sklisikre overflater for å sikre passende arbeidsforhold i tilfelle av lekkasje av hydraulisk væske.

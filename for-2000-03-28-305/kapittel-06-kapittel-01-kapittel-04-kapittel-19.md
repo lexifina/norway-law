@@ -1,0 +1,3 @@
+# 14. Regel III/14: Registrering (R19.5)
+NYE OG EKSISTERENDE SKIP I KLASSE B, C OG D:
+.1 Datoen for gjennomføring av mønstringer, nærmere opplysninger om båtøvelser og brannøvelser, øvelser i entring av og redning fra innelukkede rom, øvelser med andre redningsredskaper og opplæring om bord skal registreres i en dagbok, eventuelt slik det fastsettes av flaggstatens myndighet. Dersom full mønstring, øvelse eller opplæring ikke er gjennomført på fastsatt tidspunkt, skal en redegjørelse for omstendighetene ved og omfanget av den gjennomførte mønstringen, øvelsen eller opplæringen, noteres i dagboken.

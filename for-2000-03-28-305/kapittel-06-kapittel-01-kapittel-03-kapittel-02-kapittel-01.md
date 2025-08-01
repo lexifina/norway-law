@@ -1,0 +1,9 @@
+# 1. Regel II-2/B/1: Konstruksjon (R 23)
+NYE SKIP I KLASSE B, C OG D SAMT EKSISTERENDE SKIP I KLASSE B:
+.1 Skrog, overbygninger, bærende skott, dekk og dekkshus skal være bygd av stål eller annet likeverdig materiale. Ved anvendelse av definisjonen av annet likeverdig materiale i henhold til artikkel 2 bokstav za. i direktiv 2009/45/EF skal «den fastsatte standard brannprøvingen» være i samsvar med motstands- og isolasjonsstandardene angitt i tabellene i regel II-2/B/4 og II-2/B/5. Dersom slike skiller som f.eks. dekk eller sider og ender på dekkshus tillates å ha brannmotstand av type «B-0», skal «den fastsatte standard brannprøvingen» vare en halv time.
+.2 I tilfeller der noen del av konstruksjonen består av aluminiumslegering, får likevel følgende bestemmelser anvendelse:
+.1 Bortsett fra deler som ikke er bærende, skal isolasjonen på deler av aluminiumslegering i skiller i klasse «A» eller «B» være slik at temperaturen i konstruksjonskjernen ikke stiger mer enn 200 °C over omgivelsestemperaturen på noe tidspunkt under den fastsatte standard brannprøvingen.
+.2 Særlig oppmerksomhet skal rettes mot isolasjonen på deler av aluminiumslegering i søyler, støtter og andre konstruksjonsdeler som skal bære områder for stuing og utsetting av og innskiping i livbåter og redningsflåter samt skiller i klasse «A» eller «B» for å sikre
+.1 at for slike konstruksjonsdeler som bærer områder med livbåter og redningsflåter og skiller i klasse «A», skal den begrensning i temperaturstigningen som er angitt i nr..2.1, gjelde ved utgangen av én time, og
+.2 at for slike konstruksjonsdeler som skal bære skiller i klasse «B», skal den begrensning i temperaturstigningen som er fastsatt i nr..2.1, gjelde ved utgangen av en halv time.
+.3 Topper og casinger i maskinrom av kategori A skal være bygd av stål som er tilstrekkelig isolert, og eventuelle åpninger i dem skal være hensiktsmessig innrettet og beskyttet for å hindre spredning av brann.

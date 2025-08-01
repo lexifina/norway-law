@@ -1,0 +1,12 @@
+# 15. Regel II-2/B/15: Brannpatruljer, branndeteksjons- og brannalarmanlegg samt høyttaleranlegg (R 40)
+NYE SKIP I KLASSE B, C OG D:
+.1 Manuelle brannmeldere som oppfyller kravene i regel II-2/A/9, skal være installert.
+.2 Alle skip skal til enhver tid i sjøen eller i havn (unntatt når de er ute av drift) være slik bemannet eller utstyrt at enhver brannalarm mottas umiddelbart av et ansvarlig besetningsmedlem.
+.3 Det skal være montert en særskilt alarm som betjenes fra kommandobroen eller brannkontrollstasjonen for å tilkalle besetningen. Denne alarmen kan være en del av skipets hovedalarmsystem, men den skal kunne settes i gang uavhengig av alarmen til passasjerrommene.
+.4 Det skal finnes et høyttaleranlegg eller annet effektivt kommunikasjonsmiddel i alle rom i innredningen, arbeidsrom og kontrollstasjoner og på alle åpne dekk.
+På skip i klasse B, C og D bygd 1. januar 2003 eller senere skal dette høyttaleranlegget være i samsvar med kravene i SOLAS-regel III/6.5 med endringer.
+NYE SKIP I KLASSE B, C OG D SAMT EKSISTERENDE SKIP I KLASSE B:
+.5 For skip som fører mer enn 36 passasjerer, skal det opprettholdes et effektivt patruljeringssystem, slik at utbrudd av brann kan oppdages raskt. Hvert medlem av brannpatruljen skal være opplært til å kjenne skipets innretning samt plassering og betjening av utstyr som medlemmet kan komme til å bruke. Hvert medlem av brannpatruljen skal være utstyrt med et bærbart toveis radiotelefonapparat.
+NYE SKIP I KLASSE B, C OG D:
+.6 Skip som fører mer enn 36 passasjerer, skal ha de deteksjonsalarmer for systemene som kreves etter regel II-2/B/13 nr..2, samlet i en kontinuerlig bemannet sentral kontrollstasjon. I tillegg skal fjernbetjeningsinnretninger for lukking av branndører og stenging av ventilasjonsvifter være samlet på samme sted. Ventilasjonsviftene skal kunne settes i drift igjen av besetningen fra den kontinuerlig bemannede kontrollstasjonen. Kontrollpanelet i den sentrale kontrollstasjonen skal kunne vise om branndører er åpne eller lukket, og om detektorer, alarmer og vifter er slått på eller av. Kontrollpanelet skal ha kontinuerlig krafttilførsel og bør ha automatisk omkopling til nødkraft i tilfelle normal krafttilførsel svikter. Kontrollpanelet skal forsynes fra den elektriske hovedkraftkilden og nødkraftkilden definert i regel II-1/D/3, med mindre de relevante reglene tillater andre arrangementer.
+.7 Kontrollpanelet skal være utformet etter feilsikkert prinsipp; for eksempel skal en åpen detektorkrets forårsake alarmtilstand.

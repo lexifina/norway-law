@@ -1,0 +1,2 @@
+# Regel II-1/C/37: Samband mellom kommandobro og maskinrom
+Det skal finnes minst to uavhengige sambandsmidler til å formidle ordre fra kommandobroen til det stedet i maskinrommet eller i kontrollrommet der propellenes hastighet og skyvekraftretning normalt kontrolleres fra: Ett av disse skal være en maskintelegraf som gir synlig angivelse av ordre og svar både i maskinrommet og på kommandobroen. Det skal finnes egnede sambandsmidler fra kommandobroen og maskinrommet for kommunikasjon med ethvert annet sted der propellenes hastighet og skyvekraftretning kan kontrolleres fra.

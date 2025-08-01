@@ -1,0 +1,6 @@
+# 8. Regel II-1/E/8: Særlige krav til maskineri, kjeler og elektriske installasjoner (R 53)
+NYE SKIP I KLASSE B, C OG D SAMT EKSISTERENDE SKIP I KLASSE B:
+.1 Den elektriske hovedkraftkilden skal oppfylle følgende krav:
+.1 Der den elektriske kraften normalt kan tilføres ved hjelp av én generator, skal det finnes passende arrangementer for lastutkopling for å sikre forsyningen til funksjoner som er nødvendig både for framdrift og styring og for skipets sikkerhet. I tilfelle av tap av den generatoren som er i drift, skal det treffes tilfredsstillende tiltak for automatisk start og tilkopling til hovedtavlen av en reservegenerator med tilstrekkelig kapasitet til framdrift og styring og til å sikre skipets sikkerhet med automatisk gjenstart av nødvendig hjelpemaskineri, herunder om nødvendig sekvensoperasjoner.
+.2 Dersom den elektriske kraften normalt skaffes ved hjelp av mer enn én generator samtidig i parallell drift, skal det ordnes slik, f.eks. ved hjelp av lastutkopling, at i tilfelle av tap av ett av disse generatorsettene skal de som er igjen, holdes i drift uten overbelastning for å gjøre det mulig med framdrift og styring og for å sikre skipets sikkerhet.
+.2 Dersom det kreves reservemaskiner for annet hjelpemaskineri som er avgjørende for framdriften, skal det finnes automatiske omskiftingsinnretninger.

@@ -1,0 +1,4 @@
+# 5-2 Regel III/5-2: Landings- og evakueringsområder for helikoptre (R 28)
+NYE OG EKSISTERENDE RORO-SKIP I KLASSE B, C OG D:
+.1 Roro-passasjerskip skal være innrettet med et område for evakuering med helikopter som er godkjent av flaggstatens myndighet, idet det tas hensyn til anbefalingene i IMO-resolusjon A.894(21) med endringer.
+.2 Nye roro-passasjerskip i klasse B, C og D med lengde 130 meter eller mer skal være innrettet med et landingsområde for helikopter godkjent av flaggstatens myndighet, idet det tas hensyn til anbefalingene i IAMSAR-håndboken («International Aeronautical and Maritime Search and Rescue») vedtatt av IMO ved resolusjon A.892(21) med endringer, og i IMO MSC/Circ.895 om anbefalinger om landingsområder for helikopter på roro-passasjerskip.
