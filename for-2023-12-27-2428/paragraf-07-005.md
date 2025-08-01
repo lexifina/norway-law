@@ -1,0 +1,8 @@
+# § 7-5. Klage på karakterfastsetting
+(1) Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal disse være tilgjengelige for studentene etter at karakteren er fastsatt, jf. lov om høyere yrkesfaglig utdanning § 22 tredje ledd.
+(2) En student kan klage skriftlig over karakteren innen tre uker etter at eksamensresultatet er kunngjort. Ny sensur skal da foretas. Ved ny sensur skal sensorene ikke få opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen.
+(3) Er det fremsatt krav om begrunnelse eller klage over formelle feil, løper klagefristen etter denne paragrafen fra studenten har fått begrunnelsen eller endelig avgjørelse av klagen foreligger.
+(4) Ved bruk av løpende vurdering kan fagskolen bestemme om studenten skal fremsette klage etter vurdering av separat prøve, oppgave eller annet arbeid som bedømmes med karakter, eller om klage skal fremsettes når resultatet fra fag, emne eller emnegruppe er kunngjort, jf. lov om høyere yrkesfaglig utdanning § 22 fjerde ledd.
+(5) Bedømmelse av muntlig prestasjon og vurdering av praksisopplæring eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages, jf. lov om høyere yrkesfaglig utdanning § 22 femte ledd.
+(6) Karakterfastsetting ved ny sensur etter denne paragraf er endelig og kan ikke påklages, jf. lov om høyere yrkesfaglig utdanning § 22 sjette ledd.
+(7) Klage på beslutninger truffet av luftfartsmyndigheten (CAA-N) må rettes til CAA-N (gjennom skolen) som er den kompetente myndighet. Slike klager følger retningslinjer og fristene som er vedtatt av CAA-N for håndtering av klager.
