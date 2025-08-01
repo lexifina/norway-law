@@ -1,0 +1,3 @@
+# § 41. Deling av opplysninger om vitnemål og karakterer
+Fagskoler kan oversende vitnemål og karakterer til den nasjonale databasen for vitnemål og dokumentasjon av kompetanse, jf. opplæringslova § 25-2.
+Fagskoler kan dele en persons fødselsnummer, D-nummer og informasjon som kan identifisere at den nasjonale databasen som nevnt i første ledd eller fagskolen har opplysninger om personens utdanningsresultater, automatisk med en portal for deling av vitnemål og dokumentasjon om oppnådd kompetanse, jf. universitets- og høyskoleloven § 15-1. Opplysninger om vitnemål og karakterer kan bare deles når den registrerte har bestemt det.

@@ -1,0 +1,4 @@
+# § 16 b. Gjennomføring av opptak
+Departementet kan gi forskrift om en nasjonal samordning av opptaket til utdanninger ved fagskoler, og om nasjonale opptaksregler, blant annet om opptaksgrunnlag, rangering av søkerne og klagebehandling.
+Den nasjonale opptakstjenesten kan behandle personopplysninger om en søker når det er nødvendig for å behandle en søknad om opptak. Personopplysninger som er nevnt i personvernforordningen artikkel 9 og 10, kan behandles dersom den registrerte har gitt opplysningene eller tillatelse til å innhente dem.
+Departementet kan gi forskrift om behandlingen av personopplysninger ved gjennomføring av opptak, blant annet om formålet med behandlingen, om behandlingsansvar, om hvilke personopplysninger som kan behandles, om bruk av automatiserte avgjørelser, og om adgangen til innhenting, viderebehandling, utlevering og tilgang til personopplysninger.
