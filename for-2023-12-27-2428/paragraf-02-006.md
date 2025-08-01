@@ -1,0 +1,2 @@
+# § 2-6. Vedrørende krav om politiattest
+EHC stiller ikke krav om politiattest. Imidlertid vil det være et krav om uttømmende politiattest dersom studenten etter fullført utdanning ønsker å arbeide innenfor kommersiell luftfart, for å få adgang til sikker sone på lufthavner. Derfor anbefaler vi at studenten innen studiestart kontakter sin nasjonale luftfartsmyndighet for å klarlegge hvilke spesifikke kriterier som gjelder for politiattest. For Norge; se Luftfartstilsynets hjemmeside: www.luftfartstilsynet.no.

@@ -1,0 +1,3 @@
+# § 5-2. Bortvisning
+(1) En student som tross skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved fagskolen ellers, kan etter vedtak av styret selv bortvises fra fagskolen i inntil ett år, jf. lov om høyere yrkesfaglig utdanning § 25 første ledd.
+(2) Et vedtak om å bortvise en student kan bare treffes med minst to tredels flertall i styret. En student har rett til å uttale seg før det treffes vedtak i en sak om bortvisning. Vedtaket kan påklages til nasjonalt klageorgan for fagskoleutdanning, jf. lov om høyere yrkesfaglig utdanning § 25 femte ledd.
