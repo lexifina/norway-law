@@ -1,0 +1,5 @@
+# § 6. Stenging av tilgang til opplysninger fra grunnboken og matrikkelen
+(1) Statens kartverk og virksomheter kan stenge elektronisk tilgang til opplysninger fra grunnboken og matrikkelen via maskinlesbart grensesnitt dersom virksomheten som mottar opplysninger ikke overholder bestemmelsene i denne forskriften. Det samme gjelder dersom Datatilsynet har kommet til at virksomheten har overtrådt personopplysningsloven. Når vilkårene som nevnt er til stede, kan Kartverket pålegge en virksomhet å stenge tilgangen til mottakeren.
+(2) Statens kartverk og virksomheter skal snarest mulig etter at en virksomhet er gått konkurs, stenge tilgangen til opplysninger fra grunnboken og matrikkelen.
+(3) Før stenging kan iverksettes, skal vedkommende virksomhet varsles. Slik varsling kan utelates når vesentlige personvernhensyn står i fare for å bli krenket eller stengingen skyldes konkurs.
+(4) Den som får stengt sin tilgang, skal straks slette opplysningene. Statens kartverk og virksomheter kan kreve å få seg forelagt dokumentasjon for at sletting er utført.
