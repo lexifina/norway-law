@@ -1,0 +1,10 @@
+# § 3. Struktur og innhold
+(1) Praktisk-pedagogisk utdanning skal kvalifisere for undervisning. Utdanningen har et omfang på 60 studiepoeng og består av:
+- minst 60 dager praksis, veiledet, variert og vurdert
+- pedagogikk, 30 studiepoeng
+- fagdidaktikk, 30 studiepoeng.
+(2) Fagdidaktikken skal knyttes til fag i studentens fagkrets som gir undervisningskompetanse.
+(3) Praksisstudiet skal bestå av minst 60 dager veiledet, variert og vurdert praksis. Studentene skal ha praksis i grunnskole og videregående skole. Praksis skal fordeles gjennom studieløpet. For studenter med fagbakgrunn i utøvende kunstfag kan inntil 50 prosent av praksis foregå i kulturskolene og inngå i kravet om 60 dager. Praksisstudiet skal være tilpasset studentenes fag og bidra til at studentene utvikler evnen til å utforske, reflektere over og utvikle egen profesjonsutøvelse. Det skal være progresjon i praksisstudiet. Studenter som er tilsatt i skolen, bør ha minimum 50 prosent av praksis på annen skole enn egen arbeidsplass.
+(4) Studentene skal ha praksis både på grunnskole og i videregående opplæring. Studenter med fagbakgrunn i fellesfagene i videregående opplæring skal møte elever på ulike utdanningsprogrammer i løpet av praksisopplæringen. Studenter som er tilsatt i skolen, bør ha minimum 50 prosent av praksis på annen skole enn egen arbeidsplass. For studenter med fagbakgrunn i utøvende kunstfag kan inntil 50 prosent av praksis foregå i kulturskolene og inngå i kravet om 60 dager.
+(5) Institusjonene kan tilby en integrert master i praktisk-pedagogisk utdanning på minst 120 studiepoeng eller en integrert erfaringsbasert master i praktisk-pedagogisk utdanning på minst 90 studiepoeng. For å få utferdiget vitnemål om fullført praktisk-pedagogisk utdanning, må den integrerte masterutdanningen være bestått.
+(6) Institusjoner som tilbyr bachelorutdanninger i utøvende og skapende kunstfag i finansieringskategori A eller B, kan tilby praktisk-pedagogisk utdanning integrert i studiet over minst fire år. For å få utferdiget vitnemål for fullført praktisk-pedagogisk utdanning, må bachelorutdanningen være bestått.
