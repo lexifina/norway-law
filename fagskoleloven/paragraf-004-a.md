@@ -1,0 +1,3 @@
+# § 4 a. Krav til fagskoleutdanningens innhold og omfang
+Fagskoleutdanning skal ha et innhold og omfang som tilsvarer inntil to års utdanning på fulltid. Departementet kan, etter søknad fra styret for fagskolen, vedta at det kan gis fagskoleutdanning som i innhold og omfang tilsvarer inntil tre års utdanning på fulltid. Departementet kan gi forskrift om vilkår for å opprette utdanning som i innhold og omfang tilsvarer mellom to og tre års utdanning på fulltid.
+For å få akkreditert utdanninger på mindre enn et halvt års omfang må fagskolen fra før tilby minst én akkreditert fagskoleutdanning på 60 studiepoeng eller mer som det er uteksaminert kandidater fra i minst to år.

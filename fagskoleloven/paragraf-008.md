@@ -1,0 +1,4 @@
+# § 8. Godskriving og fritak
+Fagskoler skal godskrive beståtte emner fra andre akkrediterte fagskoleutdanninger som oppfyller de faglige kravene for emnene det søkes om godkjenning for, dersom de aktuelle fagskoleutdanningene ligger innenfor det samme fagområdet eller nært beslektede fagområder. Det skal ikke gis dobbel uttelling for det samme faginnholdet. Departementet kan gi forskrift om godskriving av emner fra andre fagskoleutdanninger.
+Fagskoler kan etter en faglig vurdering også gi fritak for emner på grunnlag av annen dokumentert relevant utdanning og kompetanse. Det kan gis et slikt fritak på grunnlag av dokumentert realkompetanse. Departementet kan gi forskrift om vurderingen av fritak.
+Et vedtak om godskriving av eller fritak for emner kan påklages. Klagen behandles i samsvar med § 20.
