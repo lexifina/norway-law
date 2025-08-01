@@ -1,0 +1,4 @@
+# § 2-4. Vurdering i orden og oppførsel
+Gjentatte brudd på reglene om orden eller om oppførsel kan føre til nedsatt karakter, jf. opplæringsforskriften § 9-17. Ved vurdering av nedsatt karakter i orden eller oppførsel, skal det ikke legges avgjørende vekt på enkelthendelser, med mindre de er klanderverdige eller grove, jf. opplæringsforskriften § 9-2.
+Skolen bruker skriftlig anmerkning for å føre oversikt over brudd på reglene om orden eller oppførsel. Anmerkningene får betydning for vurderingen i orden og oppførsel.
+Foreldrene til mindreårige elever eller eleven skal varsles dersom det er fare for at eleven får nedsatt karakter i orden eller oppførsel, jf. opplæringsforskriften § 9-7. Varslingsplikten gjelder likevel ikke dersom et tiltak for en enkelthendelse er årsaken til den nedsatte karakteren i orden eller oppførsel, jf. opplæringsforskriften § 9-17.
