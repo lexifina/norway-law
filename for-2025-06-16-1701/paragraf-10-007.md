@@ -1,0 +1,12 @@
+# § 10-7. Fusk og forsøk på fusk
+(1) Som fusk eller forsøk på fusk ved eksamen eller prøve regnes bl.a.:
+- Å ha ulovlige hjelpemidler tilgjengelig under eksamen
+- Å presentere andres arbeid som sitt eget
+- Å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger
+- Å oppgi fiktive kilder eller fabrikkere datamateriale
+- Å bruke KI-generert tekst i skriftlige arbeider uten å dokumentere dette
+- Å handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
+(2) Konsekvenser av fusk eller forsøk på fusk reguleres av lov om universiteter og høyskoler og behandles av høyskolens klagenemnd, jf. lov om universiteter og høyskoler § 12-4 og § 14-1. Vedtak i høyskolens klagenemnd kan påklages. Høyskolestyret kan fastsette retningslinjer for behandling av fusk / forsøk på fusk.
+(3) Mistanke om fusk eller forsøk på fusk under gruppeeksamen der det er gitt samme karakter for hele gruppen, vurderes individuelt for hvert gruppemedlem. Dersom ett eller flere medlemmer blir tatt for fusk kan de resterende medlemmene velge å få besvarelsen vurdert. Sensor skal da informeres om forholdet. Alternativt kan de resterende medlemmene innvilges gyldig fravær og gis anledning til å gå opp til utsatt eksamen etter § 9-2.
+(4) Annullering av eksamen eller prøve i henhold til lov om universiteter og høyskoler § 12-4, teller som ett forsøk til eksamen, jf. § 8-3 denne i forskriften.
+(5) En eksamenskandidat som mistenkes for fusk eller forsøk på fusk, har ikke rett til å fremstille seg til eksamen eller prøve i det emnet som omfattes av mistanken, så lenge saken er under behandling. Bestemmelsen gjelder både ordinær og ny og utsatt eksamen eller prøve i vedkommende emne. Dersom klagenemnda kommer frem til at det ikke foreligger fusk og besvarelsen blir vurdert til ikke bestått, har studenten rett til ny eksamen.

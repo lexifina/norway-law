@@ -1,0 +1,2 @@
+# § 9-5. Fornyet sensur
+En eksamenskandidat kan levere ny eller revidert skriftlig studieavsluttende eksamen dersom oppgaven ble vurdert til ikke bestått. Eksamenskandidaten må levere oppgaven ikke senere enn i løpet av det påfølgende studieåret. Utsatt innlevering ut over dette kan innvilges av daglig leder etter søknad og tillates kun ved dokumentert, langvarig sykdom det semesteret oppgaven skulle leveres, eventuelt ved rett til permisjon etter lov om universiteter og høyskoler § 10-6 og 10-7. Denne formen for utsatt innlevering innvilges maksimum én gang.
