@@ -1,6 +1,6 @@
 # § 11-12. Vitnemål og annen dokumentasjon av resultater
 Universiteter og høyskoler skal utstede vitnemål om oppnådd grad og annen fullført utdanning.
-En institusjon kan utstede vitnemål bare dersom minst 60 av studiepoengene som skal inngå i grunnlaget for vitnemålet, er avlagt ved institusjonen.
+En institusjon kan utstede vitnemål bare dersom minst 60 av studiepoengene som skal inngå i grunnlaget for vitnemålet, er avlagt ved institusjonen. Departementet kan gi forskrift om unntak fra kravet om minst 60 studiepoeng.
 Det skal framgå av vitnemålet om utdanningen er gitt i samarbeid med andre institusjoner, jf. § 3-8 andre ledd.
 Institusjonene skal samtidig med vitnemålet utstede et vitnemålstillegg som nærmere beskriver den enkeltes kvalifikasjoner til bruk ved godkjenning av kvalifikasjonene i utlandet.
 Institusjonene skal på forespørsel gi dokumentasjon av resultater til studenter som ikke har fullført utdanningen.

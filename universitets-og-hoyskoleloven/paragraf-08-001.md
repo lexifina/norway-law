@@ -4,4 +4,4 @@ Departementet kan gi forskrift om generell studiekompetanse og om at også annen
 Departementet kan gi forskrift om unntak fra kravet om generell studiekompetanse for enkelte studier eller emner.
 Departementet kan gi forskrift om at institusjonene i særskilte tilfeller kan gi søkere dispensasjon fra kravet om generell studiekompetanse ved opptak til et enkelt studium dersom søkerne har de nødvendige faglige forutsetningene for det aktuelle studiet.
 Departementet kan gi forskrift om spesielle opptakskrav dersom hensynet til gjennomføringen av studiet eller utøvelse av yrket gjør det nødvendig.
-Institusjonene kan gi forskrift om faglige minstekrav ved opptak til høyere grads studier.
+Departementet kan gi forskrift om opptak til mastergradsstudier. Institusjonene kan gi forskrift om faglige minstekrav ved opptak til mastergradsstudier.
