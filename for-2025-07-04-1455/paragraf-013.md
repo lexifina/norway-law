@@ -1,0 +1,2 @@
+# § 13. Opptakskrav
+Opptakskrav for masterutdanning i barnevernsarbeid er fullført 3-årig bachelorutdanning, som gir yrkestittel sosionom, vernepleier eller barnevernspedagog. I tillegg kan de enkelte utdanningsinstitusjonene vurdere i hvilken grad søkere med annen helsefaglig, pedagogisk, psykologisk eller samfunnsvitenskapelig utdanning, og minimum ett års relevant yrkeserfaring fra arbeid med barn unge og familier i utsatte livssituasjoner, er kvalifiserte for opptak.
