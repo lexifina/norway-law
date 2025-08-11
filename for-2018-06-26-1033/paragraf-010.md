@@ -1,0 +1,3 @@
+# § 10. Tilbakebetaling
+Medietilsynet kan kreve hele eller deler av et tilskudd tilbakebetalt dersom tilskuddsmottakeren gir uriktige opplysninger, ikke oppfyller rapporterings- og fremleggelsesplikten etter forskriften her, ikke overholder de fastsatte betingelsene for å motta tilskuddet eller tilskuddet strider mot vilkår som følger av EFTAs overvåkningsorgans (ESA) vedtak nr. 061/18/COL.
+Ved krav om tilbakebetaling kan det fastsettes rente etter forsinkelsesrenteloven. Det skal svares renter dersom tilskuddet kreves tilbake på grunn av brudd på ESAs vedtak nr. 061/18/COL. Renten beregnes i slike tilfeller som anvist i artikkel 9 i ESAs vedtak nr. 195/04/COL.
