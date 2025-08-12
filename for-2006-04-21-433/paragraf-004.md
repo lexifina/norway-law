@@ -1,0 +1,2 @@
+# § 4. Bortfall av godkjenning
+Fiskeridirektoratet kan treffe vedtak om at godkjenning som agent bortfaller dersom vilkårene i § 3 ikke lenger oppfylles, herunder at Nærings- og fiskeridepartementet gjør endringer i stedene nevnt i § 3 første ledd og dette innebærer at agentens geografiske tilknytning til et slikt sted ikke lenger er til stede. Det samme gjelder dersom agenten misligholder plikter etter denne eller andre tilknyttede bestemmelse. Godkjenning kan også bortfalle dersom agenten gjentatte ganger avviser forespørsler om landing av fisk for videretransport.

@@ -1,0 +1,2 @@
+# § 8. Anvendelse av annet regelverk
+Øvrig regelverk gjeldende for fiskerivirksomhet som det ikke er gjort henvisninger til i denne forskrift, får anvendelse med mindre sammenhengen tilsier noe annet. Herunder vil lov 27. april 1990 nr. 9 om regulering av eksporten av fisk og fiskevarer og bestemmelser gitt i medhold av loven, ikke få anvendelse for fisk som transporteres videre i samsvar med bestemmelsene i denne forskrift.
