@@ -1,0 +1,3 @@
+# § 3-3. Nødtiltak mot munn- og klauvsjuke ved import av høy og halm fra tredjeland
+EØS-avtalens vedlegg I kapittel I innledende del nr. 8 (beslutning (EU) 2022/575 med endringer) om nødtiltak for å forhindre introduksjon av munn- og klovsyke ved import av forsendelser av høy og halm fra tredjeland eller territorier til EØS og oppheving av gjennomføringsforordning (EU) 2020/2208, gjelder som forskrift med de tilpasninger som følger av protokoll 1 til avtalen og avtalen for øvrig.
+Forbudene og påbudene i beslutning (EU) 2022/575 gjennomført i første ledd gjelder forsendelser som omfattes av beslutningen.
