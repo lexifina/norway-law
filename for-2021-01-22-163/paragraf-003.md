@@ -1,0 +1,2 @@
+# § 3. Trööndelagen/Trøndelag
+Trööndelagen fylhke/Trøndelag fylke har rettskretsen Trøndelag tingrett, med rettssteder i Brekstad, Nåavmesjenjaelmie/Namsos, Steinkjer og Trondheim, som dekker kommunene Flatanger, Frosta, Frøya, Grong, Heim, Hitra, Holtålen, Høylandet, Inderøy, Indre Fosen, Leka, Levanger, Lierne, Malvik, Melhus, Meråker, Midtre Gauldal, Nåavmesjenjaelmie/Namsos, Namsskogan, Nærøysund, Oppdal, Orkland, Osen, Overhalla, Raarvihke/Røyrvik, Rennebu, Rindal, Røros, Selbu, Skaun, Snåase/Snåsa, Steinkjer, Stjørdal, Trondheim, Tydal, Verdal, Ørland og Åfjord.

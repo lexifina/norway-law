@@ -1,0 +1,8 @@
+# § 2. Romssa/Troms/Tromssan, Finnmárkku/Finnmark/Finmarkun og Nordland
+Romssa fylka/Troms fylke/Tromssan fylkki, Finnmárkku fylka/Finnmark fylke/Finmarkun fylkki og Nordland fylke har rettskretsene
+a) Vestre Finnmark tingrett, med rettssteder i Alta og Hámmerfeasta/Hammerfest, som dekker kommunene Alta, Hammerfest/Hámmerfeasta, Hasvik, Kvænangen, Loppa, Måsøy, Nordkapp og Porsáŋgu/Porsanger/Porsanki,
+b) Sis- ja Nuorta-Finnmárkku diggegoddi/Indre og Østre Finnmark tingrett, med rettssteder i Deatnu/Tana og Vadsø, som dekker kommunene Berlevåg, Båtsfjord, Deatnu/Tana, Gamvik, Guovdageaidnu/Kautokeino, Kárášjohka/Karasjok, Lebesby, Sør-Varanger, Unjárga/Nesseby, Vadsø og Vardø,
+c) Nord-Troms og Senja tingrett, med rettssteder i Finnsnes og Tromsø, som dekker kommunene Balsfjord, Bardu, Dyrøy, Gáivuotna/Kåfjord/Kaivuno, Karlsøy, Lyngen, Målselv, Nordreisa/Ráisa/Raisi, Senja, Skjervøy, Omasvuotna/Storfjord/Omasvuono, Sørreisa og Tromsø,
+d) Midtre Hålogaland tingrett, med rettssteder i Hárstták/Harstad, Narvik og Suortá/Sortland, som dekker kommunene Andøy, Bø, Dielddanuorri/Tjeldsund, Evenes, Gratangen, Hadsel, Hárstták/Harstad, Ibestad, Kvæfjord, Loabák/Lavangen, Lødingen, Narvik, Salangen, Suortá/Sortland og Øksnes,
+e) Salten og Lofoten tingrett, med rettssteder i Bodø og Svolvær, som dekker kommunene Beiarn, Bodø, Fuosko/Fauske, Flakstad, Gildeskål, Hábmer/Hamarøy, Meløy, Moskenes, Rødøy, Røst, Saltdal, Steigen, Sørfold, Vestvågøy, Værøy og Vågan, og
+f) Helgeland tingrett, med rettssteder i Brønnøysund, Mo i Rana og Sandnessjøen, som dekker kommunene Alstahaug, Aarborte/Hattfjelldal, Bindal, Brønnøy, Dønna, Grane, Hemnes, Herøy, Leirfjord, Lurøy, Nesna, Rana, Sømna, Træna, Vefsn, Vega og Vevelstad.
