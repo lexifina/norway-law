@@ -1,0 +1,3 @@
+# § 9-5. Fortegnelse over beslaglagte ting
+Det skal settes opp en nøyaktig fortegnelse over beslaglagte ting. Dersom det som ledd i sakens behandling er nødvendig å ta kopi av beslaglagte dokumenter, skal dette gå fram av fortegnelsen eller ved anmerkning på det kopierte dokumentet.
+Dersom det er tatt beslag i gjenstander som antas å være fravendt noen ved en straffbar handling, og fornærmede er kjent, skal politiet opplyse fornærmede om beslaget og gi informasjon om når beslaget kan forventes opphevet. Påtalemyndigheten skal straks oppheve beslaget, såfremt bevis kan sikres på annen måte. Når beslaget er opphevet, skal gjenstanden straks utleveres i samsvar med straffeprosessloven § 214 første ledd.

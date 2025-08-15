@@ -1,0 +1,2 @@
+# § 30-6. Innkreving hvor inndratt beløp er i behold
+Er domfelte ilagt inndragning av utbytte etter straffeloven § 67, kan i de tilfeller inndragningsbeløpet er i behold, fullbyrding av andre pådømte pengekrav bare foretas med eller i den skyldiges øvrige midler. Dette gjelder likevel ikke for erstatningskrav til fornærmede eller andre skadelidte der det er avsagt kjennelse etter straffeloven § 75 annet ledd om at det som inndras skal anvendes til dekning av slike krav.

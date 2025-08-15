@@ -1,0 +1,2 @@
+# § 14-4. Avgjørelsen av påtalespørsmålet når det er besluttet personundersøkelse
+Dersom politiet mener at en sak om lovbrudd der påtalekompetansen ikke ligger til politiet, jf. straffeprosessloven § 67 annet ledd, bør kunne avgjøres ved tilståelsesdom, skal det avvente resultatet av personundersøkelsen før saken sendes statsadvokaten med mindre sakens avgjørelse ellers ville bli forsinket i urimelig grad.

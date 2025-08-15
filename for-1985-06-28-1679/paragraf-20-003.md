@@ -1,0 +1,6 @@
+# § 20-3. Kompetanse til å utferdige forelegg
+Politiet utferdiger forelegg i saker om lovbrudd der påtalekompetansen ligger til politiet, jf. straffeprosessloven § 67 annet ledd, hvis ikke tiltalespørsmålet hører under riksadvokaten. Ved overtredelse av straffeloven § 156 skal saken i mer alvorlige tilfeller likevel først forelegges statsadvokaten etter reglene i annet og tredje ledd nedenfor. Saken skal også forelegges statsadvokaten når den antas å ha særlig stor allmenn interesse eller når overordnet påtalemyndighet ellers har bestemt det.
+Mener politiet at det bør utferdiges forelegg i en sak om lovbrudd der påtalekompetansen ikke ligger til politiet, skal saken sendes statsadvokaten med utferdiget siktelse.
+I politiets innstilling skal det gis uttalelse om størrelsen av boten og den subsidiære frihetsstraff, samt om den inndragning eller de erstatnings- eller omkostningskrav som det kan bli spørsmål om å la forelegget omfatte.
+Statsadvokaten avgjør om forelegg skal utferdiges i en sak om lovbrudd der påtalekompetansen ikke ligger til politiet, hvis ikke tiltalespørsmålet hører under riksadvokaten eller forelegg kan utferdiges av politiet etter første ledd. Har en sak særlig stor allmenn interesse, skal den forelegges for riksadvokaten.
+Bestemmelsene i annet og tredje ledd gjelder tilsvarende når statsadvokaten avgir innstilling til riksadvokaten.

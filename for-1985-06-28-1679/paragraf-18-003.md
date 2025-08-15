@@ -1,0 +1,4 @@
+# § 18-3. Underretning til siktede om påtaleunnlatelse etter straffeprosessloven § 69
+Siktede (og verger) skal ha skriftlig underretning om påtaleunnlatelsen og om eventuelle vilkår som er satt for påtaleunnlatelsen. I underretningen skal det også gis opplysning om siktedes adgang til å kreve at påtalemyndigheten bringer saken inn for retten og at slikt krav må settes fram innen en måned etter at siktede har mottatt meldingen om påtaleunnlatelse. Kopi av siktelsen vedlegges underretningen.
+Dersom siktede ikke forstår norsk, skal avgjørelsen oversettes etter reglene i § 2-8.
+Siktede bør også gis muntlig orientering om hva det betyr at det er gitt påtaleunnlatelse, hva vilkårene går ut på og følgene av at de ikke blir overholdt. Samtidig bør det gis siktede en etter omstendighetene avpasset advarsel og formaning. Er siktede under 18 år eller fratatt rettslig handleevne, bør vergene være til stede.

@@ -1,0 +1,2 @@
+# § 11-1. Adgang til å ta fingeravtrykk og fotografi av mistenkte
+Når det anses nødvendig for å oppklare en straffesak som kan medføre frihetsstraff, kan det tas fingeravtrykk og fotografi av enhver som er mistenkt i saken. Dette gjelder selv om straff ikke kan idømmes på grunn av reglene i straffeloven § 20 første ledd. Det gjelder også når tilstanden har medført at den mistenkte ikke har utvist skyld.

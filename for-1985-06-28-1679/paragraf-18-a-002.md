@@ -1,0 +1,4 @@
+# § 18 A-2. Oversendelse av sak – samtykke
+I sak som antas egnet for konfliktrådsbehandling, skal politiet så snart som mulig innhente samtykke fra partene om eventuell overføring til konfliktrådet. Er siktede eller skadelidte under 18 år skal også samtykke fra vergen innhentes. For skadelidte over 15 år gjelder straffeprosessloven § 93g annet ledd tilsvarende.
+Saken skal normalt behandles av konfliktrådet i den kommune hvor siktede bor eller oppholder seg. Er det flere siktede, bør saken behandles der hvor de fleste siktede, eller partene hvis forholdet mellom de siktede står likt, bor eller oppholder seg. Hvor det finnes hensiktsmessig, kan påtalemyndigheten beslutte å fremme saken for annet konfliktråd enn det som følger av bestemmelsen foran.
+Partene skal gis melding om overføring av saken til konfliktrådet, med orientering om sakens videre behandling.

@@ -1,0 +1,2 @@
+# § 25-9. Hvordan dokumentene skal gjøres tilgjengelige for fornærmede mv.
+Dokumenter i saken som fornærmede eller andre har rett til å gjøre seg kjent med etter straffeprosessloven § 264a, leses opp for ham eller han gis anledning til selv å lese dem i politiets eller forsvarerens nærvær. Han kan få kopi av sakens dokumenter i den grad det er nødvendig for at han skal kunne ivareta sine interesser i saken og det for øvrig anses ubetenkelig.

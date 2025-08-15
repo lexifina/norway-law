@@ -1,0 +1,4 @@
+# § 10-1. Når kan mistenkte underkastes kroppslig undersøkelse
+Kroppslig undersøkelse kan foretas overfor den som med skjellig grunn mistenktes for en handling som etter loven kan medføre frihetsstraff, når det antas å være av betydning for opplysningen av saken og ikke framstår som et uforholdsmessig inngrep. Hvis den det gjelder samtykker skriftlig, kan det innhentes biologisk materiale med sikte på å gjennomføre en DNA-analyse uten hensyn til om det foreligger skjellig grunn til mistanke.
+Dette gjelder selv om straff ikke kan idømmes på grunn av bestemmelsene i straffeloven § 20 første ledd. Det gjelder også når tilstanden har medført at den mistenkte ikke har utvist skyld.
+Bestemmelsene i denne instruksen gjør ingen endringer i adgangen til å foreta rent ytre undersøkelse av kropp og klær m.m. etter reglene om ransaking, jf. straffeprosessloven §§ 192 flg.

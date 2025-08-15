@@ -1,0 +1,5 @@
+# § 27-1. Anke over dommer – hovedregel
+I saker hvor tiltale er besluttet av riksadvokaten, treffer riksadvokaten beslutning om anke.
+Har politiet tatt ut tiltale etter straffeprosessloven § 67 annet ledd bokstav b eller c eller har statsadvokaten tatt ut tiltale, avgjør statsadvokaten spørsmålet om anke. I saker hvor politiet har tatt ut tiltale etter straffeprosessloven § 67 annet ledd bokstav b eller c, kan politiet likevel vedta dom avsagt i første instans. I saker som nevnt i foregående punktum skal politiet innen 14 dager etter at de mottok dommen, vedta eller oversende den til statsadvokaten.
+Er tiltalen besluttet av politiet i medhold av straffeprosessloven § 67 annet ledd bokstav a, treffes avgjørelsen om anke av dom avsagt i første instans av politimesteren, jf. straffeprosessloven § 68.
+Bestemmelsene i straffeprosessloven § 68 første og annet ledd og i paragrafen her anvendes tilsvarende når saken er avgjort ved tilståelsesdom eller fremmet på grunnlag av et ikke-vedtatt forelegg

@@ -1,0 +1,2 @@
+# § 27-2. Anke over dommer – enkelte særlige forhold
+Statsadvokaten treffer vedtak om anke i saker der politiet har tatt ut tiltale etter straffeprosessloven § 67 annet ledd bokstav b eller c, og i så fall også for forhold i saken der politiet har tatt ut tiltale etter straffeprosessloven § 67 annet ledd bokstav a. Riksadvokaten treffer vedtak om anke for forhold som etter ordre fra riksadvokaten er tatt med i tiltale utferdiget av statsadvokaten eller politiet. § 27-1 annet ledd annet punktum gjelder tilsvarende.

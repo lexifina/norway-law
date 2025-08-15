@@ -1,0 +1,3 @@
+# § 12-1. Politiets anmodning om bistand fra sakkyndige
+Dersom det blir aktuelt å søke bistand hos sakkyndige utenfor politiet til bruk for etterforskingen, jf. straffeprosessloven § 148, skal oppdragets formål og omfang angis skriftlig. Haster saken, kan foreløpig begjæring settes fram muntlig. Når det antas at en sakkyndig gransking vil medføre betydelige utgifter for det offentlige, bør saken forelegges statsadvokaten før det treffes beslutning om slik gransking.
+Begjæringen om rettsmedisinsk bistand skal fremsettes overfor Rettsmedisinsk institutt. Dersom det ved slikt opphold er stor fare for at etterforskningen vil lide, kan likevel den bistand som ikke kan vente, søkes direkte hos den sakkyndige.

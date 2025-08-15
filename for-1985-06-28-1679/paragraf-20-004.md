@@ -1,0 +1,3 @@
+# § 20-4. Adgang til å overlate til underordnet påtalemyndighet å utferdige forelegg
+Når et forelegg er besluttet utferdiget av statsadvokaten, kan det overlates til politiet å foreta selve utferdigelsen av forelegget. I så fall må beslutningen inneholde nærmere bestemmelse om størrelsen av boten og den subsidiære frihetsstraff, eventuelt inndragningen og erstatnings- eller omkostningskravet. Beslutningen bør også inneholde nærmere bestemmelse for tilfelle av at forelegget ikke vedtas.
+Bestemmelsene i første ledd gjelder også når det er riksadvokaten som har besluttet å avgjøre saken ved utferdigelse av forelegg.
