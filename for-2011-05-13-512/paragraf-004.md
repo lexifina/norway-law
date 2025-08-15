@@ -1,0 +1,5 @@
+# § 4. Utvelgelsens betydning
+Betydningen av at en naturtype er en utvalgt naturtype etter forskriften, følger av naturmangfoldloven § 53 til § 56.
+Frist for kommunen til å gi tilbakemelding på melding om skogbrukstiltak, jf. naturmangfoldloven § 54, og jordbrukstiltak, jf. naturmangfoldloven § 55, er 3 uker fra meldingen kom inn til kommunen. Tilbakemelding skal foreligge før tiltaket utføres.
+Det er meldeplikt for alle tiltak som ikke beskrives i handlingsplanen, eller som beskrives som tiltak som er egnet til å endre karakteren eller omfanget av en forekomst av en utvalgt naturtype. For tiltak som i handlingsplanen angis som positive for naturtypen og på den måten bygger opp under naturtypens utbredelse og forekomstenes økologiske tilstand gjelder imidlertid ikke meldeplikten.
+Kunngjøringsplikten etter naturmangfoldloven § 56 første ledd påligger den forvaltningsmyndighet som har fattet vedtaket som tillater tiltak i forekomst av en utvalgt naturtype. Kunngjøringsplikten gjelder også for godkjente miljøplaner som berører tiltak i utvalgte naturtyper, jf. naturmangfoldloven § 55 annet ledd.
