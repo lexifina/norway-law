@@ -1,0 +1,2 @@
+# § 17-6. Underretning om at borgerlig rettskrav nektes fremmet
+Den umiddelbart skadelidende ved en straffbar handling skal straks underrettes om en beslutning om at et borgerlig rettskrav han eller hun har i straffesaken nektes fremmet. I underretningen skal det opplyses om klageadgangen etter straffeprosessloven § 59a første ledd første punktum nr. 6, muligheten for selv å fremme kravet etter straffeprosessloven § 428 såfremt hovedforhandling blir holdt, og at det vil bli gitt en kort frist for å fremsette slikt krav overfor retten dersom det blir tatt ut tiltale.

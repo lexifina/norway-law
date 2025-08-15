@@ -1,0 +1,4 @@
+# § 8-7. Opplysning om rett til advokat
+I saker som nevnt i straffeprosessloven § 107a første og annet ledd skal fornærmede og etterlatte før forklaring gis, gjøres kjent med sin rett til å få bistandsadvokat. Det samme gjelder den som et besøksforbud skal beskytte, i saker som nevnt i straffeprosessloven § 107a femte ledd. De skal også gjøres kjent med sin rett til å vente med å forklare seg til advokaten er til stede.
+Politiet skal spørre om en bestemt advokat ønskes oppnevnt i saken. Dersom den ønskede advokaten har kontor utenfor rettskretsen, skal politiet opplyse at merutgiftene ved dette kan kreves av den advokaten oppnevnes for. Har fornærmede eller etterlatte ikke ønske om en bestemt advokat, kan politiet vise til oversikten over faste bistandsadvokater ved ting- og lagmannsrettene, jf. straffeprosessloven § 107g.
+Det skal gå fram av rapporten om det er gitt slik informasjon som nevnt i første og annet ledd.

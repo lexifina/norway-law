@@ -1,0 +1,4 @@
+# § 25-5. Hvordan dokumentene skal oversendes forsvareren m.m.
+Sakens dokumenter, herunder fotografier, skisser og kart, bør sendes forsvareren i form av kopi til forsvarerens eget bruk når dette ikke byr på vesentlig ulempe. Dersom forsvareren ønsker det, kan han få utlånt sakens originaldokumenter. Dersom originaldokumentene blir lånt ut til forsvareren, skal det settes en frist for tilbakelevering av dokumentene, jf. straffeprosessloven § 265.
+Originaldokumenter og andre bevis som ikke blir oversendt forsvareren, skal gjøres tilgjengelige for denne på hensiktsmessig måte.
+Når særlige grunner taler for det, kan det settes forbud mot at dokumentene blir lånt ut til tiltalte eller at de blir mangfoldiggjort. Det skal her særlig legges vekt på at dokumenter som inneholder opplysninger om personlige forhold ikke blir spredt og at dokumenter for øvrig ikke blir brukt på utilbørlig måte. Originaldokumenter må aldri utleveres til tiltalte.

@@ -1,0 +1,3 @@
+# § 9-4d. Tilbaketrekking av samtykke, brudd på vilkår eller manglende egnethet under gjennomføringen av varetekt med elektronisk kontroll
+Dersom et samtykke etter straffeprosessloven § 184b annet ledd trekkes etter at fengslingskjennelsen er avsagt, må påtalemyndigheten uten ugrunnet opphold vurdere om siktede skal løslates eller pågripes for innsetting i fengsel. Det samme gjelder dersom siktede bryter vilkårene for gjennomføringen, begår nye straffbare forhold under gjennomføringen, eller dersom gjennomføring med oppholdspåbud med elektronisk kontroll ikke lenger anses egnet.
+En beslutning om innsettelse i fengsel etter første ledd, må skje innenfor rammene fastsatt i fengslingskjennelsen. For øvrig gjelder reglene om pågripelse i straffeprosessloven kapittel 14.

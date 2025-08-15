@@ -1,0 +1,10 @@
+# § 8-15. Utarbeidelse av personaliarapport m.m.
+I forbindelse med avhør av mistenkte skal det utarbeides en personaliarapport som skal inneholde følgende opplysninger: Fullt navn, fødselsdata, fødselsnummer, bosted, telefon og fødested.
+I den grad det anses nødvendig, skal rapporten dessuten inneholde:
+Foreldrenes navn, mistenktes statsborgerskap, stilling og arbeidssted, formue og inntekt, samlivsforhold og navn på ektefelle og samboende, forsørgelsesbyrde, skolegang og faglig utdannelse, offentlige bevilgninger og sertifikater, vernepliktsforhold, pensjonsrettigheter, tidligere påtaleunnlatelser, straffedommer og forelegg, tidspunkt for eventuell løslatelse fra soning og ikke avgjorte saker.
+Er mistenkte under 18 år, skal rapporten også inneholde opplysning om foreldrenes bosted. Dersom foreldrene ikke bor sammen, skal det opplyses hvem som har foreldreansvaret. Etter omstendighetene skal rapporten også gi opplysning om mistenktes personlige forhold, særlig i hjem og skole, og om det har vært truffet tiltak overfor mistenkte med hjemmel i barnevernloven av 17. juli 1992 nr. 100.
+Opplysningene som nevnt foran skal søkes innhentet ved avhøret av mistenkte, jf. § 8-1 tredje ledd, og ellers på annen hensiktsmessig måte. Innhenting av mer omfattende opplysninger om mistenktes personlige forhold skal skje i form av personundersøkelse, jf. kap. 14.
+I saker om lovbrudd med strafferamme på fengsel i minst 6 måneder skal det innhentes utskrift fra reaksjonsregisteret. Dersom opplysningene ikke kan bekreftes på annen måte, skal det dessuten innhentes aldersattest fra vedkommende folkeregister.
+Har det skjedd endringer i de forhold som er omtalt i rapporten, skal rapporten ajourføres.
+I enkle saker kan det unnlates å sette opp personaliarapport inntil det eventuelt viser seg at saken må sendes retten til avgjørelse.
+Personaliarapporten og utskrifter som nevnt i femte ledd annet punktum skal ved arkivering oppbevares som bestemt i politiregisterforskriften § 25-3 første ledd annet punktum.

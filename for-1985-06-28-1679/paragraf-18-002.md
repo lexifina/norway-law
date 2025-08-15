@@ -1,0 +1,5 @@
+# § 18-2. Kompetanse til å treffe beslutning om påtaleunnlatelse
+Politiet avgjør spørsmålet om påtaleunnlatelse i saker om lovbrudd der påtalekompetansen ligger til politiet, jf. straffeprosessloven § 67 annet ledd, hvis ikke tiltalespørsmålet hører under riksadvokaten. I andre saker om lovbrudd avgjøres spørsmålet om påtaleunnlatelse av statsadvokaten, hvis ikke avgjørelsen hører under riksadvokaten.
+Mener politiet at en sak om lovbrudd der påtalekompetansen ikke ligger til politiet, jf. straffeprosessloven § 67 annet ledd, bør avgjøres ved påtaleunnlatelse, skal saken forelegges statsadvokaten til avgjørelse. Foreslås påtaleunnlatelse etter straffeprosessloven § 69, skal det utferdiges siktelse.
+I politiets innstilling bør det gis en nærmere begrunnelse for hvorfor saken bør avgjøres ved påtaleunnlatelse. Det skal også angis hvilke vilkår som eventuelt bør settes for å unnlate påtale. Har den straffbare handlingen påført andre økonomisk skade, skal forslaget inneholde en konkret vurdering av mulig erstatningsvilkår, jf. straffeloven § 35.
+Bestemmelsene i annet og tredje ledd gjelder tilsvarende når statsadvokaten avgir innstilling til riksadvokaten.

@@ -1,0 +1,2 @@
+# § 31-2. Ettergivelse av inndragning og sakskostnader
+Bestemmelsene i § 31-1 får tilsvarende anvendelse så langt de passer når det søkes om ettergivelse av inndragning eller saksomkostninger. Søknaden inngis til Statens innkrevingssentral, som videresender søknaden vedlagt statusrapport for innkrevingen, til politiet. Politiet skal uttale seg om saken og foreta den nødvendige saksforberedelse i henhold til § 31-1. Saken sendes deretter departementet via riksadvokaten eller vedkommende statsadvokatembete.

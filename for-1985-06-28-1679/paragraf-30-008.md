@@ -1,0 +1,3 @@
+# § 30-8. Informasjon til fornærmede og andre skadelidte
+Når erstatnings- og oppreisningskrav er pådømt i straffesak, skal politiet opplyse fornærmede og andre skadelidte som har fått krav pådømt i saken om at Statens innkrevingssentral vil gi nærmere redegjørelse om eventuell innkreving. Politiet kan innhente samtykke til Statens innkrevingssentrals innkreving fra fornærmede. Dersom det i saken er besluttet inndragning av vinning, skal fornærmede og andre skadelidte gjøres kjent med adgangen til å kreve inndragningsbeløpet brukt til dekning av deres erstatningskrav, jf. straffeloven § 75 annet ledd.
+Tilsvarende gjelder når betaling av erstatning er satt som vilkår for betinget påtaleunnlatelse.

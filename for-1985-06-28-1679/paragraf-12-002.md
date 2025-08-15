@@ -1,0 +1,2 @@
+# § 12-2. Rettslig oppnevning av sakkyndige
+Når påtalemyndigheten ber retten foreta oppnevning av sakkyndige, skal den skriftlig angi hva som i tilfelle ønskes undersøkt og hva som det ønskes uttalelse om. I påtrengende tilfelle kan foreløpig begjæring settes fram muntlig. Må det antas at en sakkyndig gransking vil medføre betydelige utgifter for det offentlige, bør saken forelegges statsadvokaten før det anmodes om rettens oppnevning av sakkyndige. Saken skal alltid forelegges statsadvokaten før det begjæres oppnevnt sakkyndige til å foreta mentalobservasjon.

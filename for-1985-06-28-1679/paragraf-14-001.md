@@ -1,0 +1,3 @@
+# § 14-1. Når skal personundersøkelse foretas
+Personundersøkelse av siktede skal som regel foretas når det antas å ha betydning for avgjørelsen om straff eller andre forholdsregler. Ved avgjørelsen om personundersøkelse skal foretas, skal det særlig legges vekt på siktedes alder og miljøforhold, sakens alvor, undersøkelsens betydning for sakens avgjørelse og om undersøkelsen vil kunne føre til en uheldig forsinkelse av saken.
+Dersom det tidligere har vært utført personundersøkelse av siktede, bør det innhentes tilleggsopplysninger fra friomsorgskontoret dersom undersøkelsen er eldre enn ett år.

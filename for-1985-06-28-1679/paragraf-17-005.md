@@ -1,0 +1,2 @@
+# § 17-5. Gjenåpning av innstilt strafforfølgning
+Dersom politiet i en sak om lovbrudd der påtalekompetansen ikke ligger til politiet, jf. straffeprosessloven § 67 annet ledd, hvor en person har vært siktet, mener at strafforfølgningen bør tas opp på ny fordi det etter innstilling av saken er oppdaget bevis av vekt, jf. straffeprosessloven § 74 første ledd, skal saken forelegges statsadvokaten så snart det foreligger tilstrekkelige opplysninger til å avgjøre spørsmålet.

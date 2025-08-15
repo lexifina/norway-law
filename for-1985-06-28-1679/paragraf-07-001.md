@@ -1,0 +1,5 @@
+# § 7-1. Behandling av anmeldelse
+Anmeldelse av straffbare handlinger skjer til politiet. Er anmeldelsen muntlig, skal mottakeren skrive den ned, datere den og om mulig få anmelderens underskrift.
+Anmeldelse som skjer til statsadvokat eller riksadvokaten kan uten videre sendes til vedkommende politimyndighet.
+Enhver anmeldelse skal snarest registreres i samsvar med gjeldende regler, jf. § 2-1. Anmeldelse som innkommer til lensmannen, skal etter registrering sendes til politikammeret for registrering der. Anmelderen skal på begjæring gis skriftlig bekreftelse på at anmeldelse har skjedd.
+Dersom det er grunn til å tro at etterforsking i saken vil høre under et annet politikammer, jf. kap. 1, eller at det skal gis melding til overordnet påtalemyndighet etter reglene i § 7-2, skal anmeldelsen snarest forelegges vedkommende tjenestemann med påtalemyndighet. Det samme gjelder når saken ellers tilsier det eller når det følger av særlig instruks. Uten beslutning av overordnet kan det likevel foretas skritt som ikke uten skade kan utsettes.

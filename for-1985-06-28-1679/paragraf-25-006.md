@@ -1,0 +1,3 @@
+# § 25-6. Tiltaltes rett til dokumentinnsyn når han ikke har forsvarer
+Er tiltalte uten forsvarer, skal han ved forkynningen av tiltalebeslutningen underrettes om at han har rett til å gjøre seg kjent med sakens dokumenter hos påtalemyndigheten. Retten til dokumentinnsyn gjelder likevel ikke dokumenter som bare gjelder andre tiltaltes forhold. Dokumenter som bør holdes hemmelig av hensyn til rikets sikkerhet eller forhold til fremmed stat kan bare gjøres tilgjengelig for tiltalte etter rettens beslutning.
+Med mindre særlige grunner taler mot det, kan tiltalte gis kopi av saksdokumentene. Bestemmelsene i § 25-5 tredje ledd annet og tredje punktum gjelder tilsvarende.

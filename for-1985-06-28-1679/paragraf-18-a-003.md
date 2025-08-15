@@ -1,0 +1,3 @@
+# § 18 A-3. Behandling av sak når konfliktrådsavtale ikke er kommet i stand eller er brutt
+Gir konfliktrådet melding om at megling ikke er kommet i stand eller avtale ikke er inngått, fortsetter påtalemyndigheten behandling av saken.
+Dersom konfliktrådet gir melding om at en inngått avtale er brutt, avgjør påtalemyndigheten etter innstilling fra konfliktrådet om bruddet er så vesentlig at det skal åpnes for ny straffeforfølgning etter konfliktrådsloven § 21. Ved vesentlig brudd på avtale kan det også besluttes ny megling. Avgjørelse av om konfliktrådsbehandling skal anses avsluttet og av om ny megling skal innledes, kan treffes etter bestemmelsen i § 18 A-1 første ledd.

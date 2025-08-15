@@ -1,0 +1,2 @@
+# § 8-1a. Vurdering av siktedes behov for forsvarer
+Dersom siktede ikke benytter seg av retten til å la seg bistå av forsvarer, skal politi og påtalemyndighet fortløpende vurdere om det foreligger særskilte forhold som nevnt i straffeprosessloven § 100 annet ledd, som tilsier at siktede bør ha slik bistand. I så fall skal melding inngis til retten med anmodning om å vurdere oppnevning av offentlig forsvarer for siktede.

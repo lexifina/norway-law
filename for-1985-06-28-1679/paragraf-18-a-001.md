@@ -1,0 +1,4 @@
+# § 18 A-1. Beslutning om overføring av sak til megling i konfliktråd
+Med mindre saken omfattes av straffeprosessloven § 65 eller annet er bestemt av riksadvokaten, treffes beslutning om overføring til megling i konfliktråd av påtalemyndigheten i politiet.
+Påtalemyndigheten skal så tidlig som mulig i etterforskingen vurdere om saken egner seg for overføring til megling i konfliktråd. Riksadvokaten kan gi nærmere bestemmelser om hvilke saker som kan besluttes avgjort på denne måte.
+Før en sak kan besluttes overført til megling i konfliktråd, skal det foreligge en formell anmeldelse fra fornærmede. Når saken gjelder flere lovovertredelser, må det ved oversendelsen til konfliktrådet fremgå hvilke forhold det er besluttet konfliktrådsmegling for. Riksadvokaten kan gi nærmere bestemmelser om saksbehandlingen, og kan herunder fastsette at saker kan oversendes til konfliktrådet uten at det foretas formelt avhør og utarbeides fullstendig personaliarapport, jf § 8-15.

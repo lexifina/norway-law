@@ -1,0 +1,2 @@
+# § 15-2. Innholdet i begjæringen om rettslig avhør
+Når det under etterforskingen begjæres rettslig avhør eller bevisopptak til bruk for hovedforhandlingen, bør det gis en kort beskrivelse av det forhold etterforskingen gjelder. Videre bør det angis hvilke straffebestemmelser som er aktuelle, samt navn og adresse på de personer som ønskes avhørt og om de ønskes avhørt som siktet, vitne eller sakkyndig.

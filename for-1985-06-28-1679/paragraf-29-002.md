@@ -1,0 +1,3 @@
+# § 29-2. Underretning til friomsorgskontoret ved dom på samfunnsstraff
+Er det gitt dom på samfunnsstraff, skal påtalemyndigheten straks underrette friomsorgskontoret på det sted hvor domfelte oppholder seg, hvis ikke en representant for kontoret var tilstede ved domsavsigelsen.
+Så snart dommen er endelig, skal kopi av domsslutningen og personaliarapporten sendes til vedkommende friomsorgskontor med anmodning om at samfunnsstraffen settes i verk. Når påtalemyndigheten har besluttet at iverksetting av samfunnsstraff kan skje før dommen er rettskraftig, skal anmodningen og de nevnte dokumentene sendes straks.

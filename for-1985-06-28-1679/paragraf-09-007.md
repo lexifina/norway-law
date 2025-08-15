@@ -1,0 +1,3 @@
+# § 9-7. Underretning om besøksforbud etter straffeprosessloven § 222a
+Dersom det er grunn til å tro at det foreligger slike særlige forhold som nevnt i straffeprosessloven § 222a, skal det gis underretning om adgangen til å begjære besøksforbud mv til den et slikt forbud skal beskytte.
+Vedkommende skal så snart som mulig underrettes om ilagt besøksforbud, og om hvor lang tid forbudet gjelder for. Den forbudet skal beskytte og den forbudet retter seg mot skal gjøres kjent med sin rett til å bringe spørsmålet om besøksforbud inn for retten. Den forbudet retter seg mot, skal også gjøres kjent med at overtredelse er straffbart.
