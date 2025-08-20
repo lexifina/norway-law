@@ -1,0 +1,3 @@
+# § 14. Forholdet til andre regler om stønad til behandling i utlandet mv.
+Det ytes ikke stønad etter forskriften her når det offentlige helt eller delvis dekker utgifter til den mottatte helsehjelpen i utlandet etter andre regler. Dette gjelder også når helsehjelpen mottas i henhold til gjensidighetsavtale med annet land om rett til dekning av utgifter til helsetjenester.
+Selv om vilkårene for stønad er oppfylt etter både forskriften her og annet regelverk, ytes det bare stønad etter en av ordningene, selv om utgiftene til helsehjelpen ikke dekkes fullt ut etter det regelverket pasienten har valgt å fremsette krav i medhold av.
