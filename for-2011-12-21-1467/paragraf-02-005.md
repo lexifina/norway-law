@@ -1,0 +1,6 @@
+# § 2-5. Melding om utkontraktering
+(1) Forvaltningsselskapet skal gi melding til Finanstilsynet om utkontraktering som gjelder kollektiv porteføljeforvaltning og administrasjon av verdipapirfond, jf. verdipapirfondloven § 1-2 første ledd nr. 3. Meldingen skal inneholde en beskrivelse av den virksomhet oppdraget omfatter, hvem det er inngått avtale med, angi bakgrunnen for at avtale om utkontraktering inngås, beskrive hvordan forvaltningsselskapet vil kontrollere den virksomhet som utkontrakteres og ivareta risiko forbundet med utkontrakteringen.
+(2) Forvaltningsselskapet skal gi melding til Finanstilsynet om eventuell avtale om distribusjon av andeler i verdipapirfond som forvaltes av selskapet, herunder hvem det er inngått avtale med.
+(3) Dersom melding om utkontraktering gjelder UCITS-fond etablert i annen EØS-stat, skal forvaltningsselskapet utarbeide meldingen på engelsk. Finanstilsynet skal oversende meldingen til UCITS-fondets hjemlandsmyndighet.
+(4) Første til tredje ledd gjelder tilsvarende ved endring i avtalen.
+(5) Finanstilsynet kan gi forvaltningsselskapet pålegg om å avvikle oppdragsavtale så snart som mulig dersom forvaltningsselskapet eller oppdragtakeren ikke overholder reglene i verdipapirfondloven eller annet regelverk som gjelder oppdragstakeren, denne forskriften eller vilkår eller pålegg fastsatt av Finanstilsynet.

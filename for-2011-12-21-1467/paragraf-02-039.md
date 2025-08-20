@@ -1,0 +1,2 @@
+# § 2-39. Informasjon om godtgjørelsesordningen i årsrapport
+I årsrapporten for hvert fond som forvaltes, skal forvaltningsselskapet innta informasjon om summen av utbetalt godtgjørelse fordelt på fast og variabel godtgjørelse med angivelse av antall mottakere fordelt på de kategorier av ansatte som er omfattet av godtgjørelsesordningen, hvordan godtgjørelsen er beregnet, utfallet av periodisk gjennomgang av godtgjørelsesordningen og vesentlige endringer i godtgjørelsesordningen.

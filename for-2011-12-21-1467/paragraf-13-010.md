@@ -1,0 +1,2 @@
+# § 13-10. Gjennomføring av forordning (EU) 2016/1212
+EØS-avtalen vedlegg IX forordning (EU) 2016/1212 (om fastsettelse av tekniske gjennomføringsstandarder for standardframgangsmåter og -skjemaer for framlegging av opplysninger i samsvar med europaparlaments- og rådsdirektiv 2009/65/EF) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

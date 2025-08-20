@@ -1,0 +1,4 @@
+# § 8-4. Lenke til Finansportalen
+(1) Forvaltningsselskap for verdipapirfond som tilbyr produkter som det informeres om på Finansportalen.no, skal på alle digitale plattformer ha godt synlige lenker til Finansportalen.no. Lenkene skal plasseres på forsiden av selskapets hjemmesider og der hvor priser presenteres.
+(2) Lenken til Finansportalen.no skal utformes som følger: «Sammenlign våre priser med andre selskaper på Finansportalen.no».
+(3) Første og annet ledd gjelder også for norske filialer av forvaltningsselskaper fra andre EØS-stater.

@@ -1,0 +1,5 @@
+# § 9-1. Markedsføring av norske UCITS i annen EØS-stat
+(1) Nærmere regler om hvordan melding om markedsføring av norske UCITS i annen EØS-stat etter verdipapirfondloven § 9-2 første ledd skal utformes følger av forordning (EU) nr. 584/2010, jf. § 13-8.
+(2) Nærmere regler om markedsføring etter denne paragraf, herunder om utforming av bekreftelse etter verdipapirfondloven § 9-2 annet ledd, følger av forordning (EU) nr. 584/2010, jf. § 13-8.
+(3) Melding etter første ledd og bekreftelse etter annet ledd skal gis på engelsk. Ved markedsføring i skandinaviske land, kan melding og bekreftelse gis på norsk, svensk eller dansk dersom dette aksepteres av vertslandet.
+(4) Forvaltningsselskapet skal holde oppdaterte og oversatte dokumenter som nevnt i verdipapirfondloven § 9-2 første ledd elektronisk tilgjengelig på forvaltningsselskapets nettsted eventuelt på et annet nettsted som er angitt i meldingen om markedsføring. Dokumentene skal være tilgjengelig i et vanlig elektronisk format. Forvaltningsselskapet skal påse at vedkommende myndigheter i vertslandet har tilgang til nettstedet.

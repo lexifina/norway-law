@@ -1,0 +1,8 @@
+# § 6-14. Unoterte derivater – motpartsrisiko
+(1) Unoterte derivater må inngås mot bank, forsikringsselskap eller verdipapirforetak med tillatelse fra en EØS-stat. Motparten må minst ha rating «investment grade» fra et anerkjent ratingbyrå.
+(2) Ved plassering i unoterte derivater skal risikoeksponeringen mot samme motpart ikke overstige:
+1) 10 prosent av fondets eiendeler når motparten er en kredittinstitusjon.
+2) 5 prosent av fondets eiendeler mot andre motparter enn kredittinstitusjoner.
+(3) Risikoeksponeringen mot samme motpart knyttet til unoterte derivater og teknikker som nevnt i § 6-8, skal kombineres ved beregning av grensene fastsatt i annet ledd og i verdipapirfondloven § 6-7 første ledd.
+(4) Risikoeksponeringen mot samme motpart beregnes på grunnlag av den positive løpende avregningsverdien (mark-to-market) i kontrakten med motparten. I beregningen er det adgang til å motregne plasseringer i unoterte derivater mot samme motpart, forutsatt at motregningsavtaler med motparten kan gjøres gjeldende. Motpartseksponeringen kan reduseres gjennom sikkerhetsstillelse, forutsatt at sikkerheten som stilles er tilstrekkelig likvid. Sikkerhet som forvaltningsselskapet stiller på vegne av verdipapirfondet, skal tas med i beregningen av motpartsrisiko. Sikkerhet som stilles kan tas med i beregningen etter en nettoavregning, forutsatt at det kan gjøres gjeldende motregning overfor denne motparten.
+(5) Første og annet ledd begrenser ikke adgangen til oppgjørssentral med tillatelse etter verdipapirhandelloven § 13-1 eller tilsvarende institusjon fra annen EØS-stat til å tre inn som part eller garantere for oppfyllelse av derivatkontrakter.

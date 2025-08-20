@@ -1,0 +1,2 @@
+# § 2-33. Formål med godtgjørelsesordning
+Forvaltningsselskap skal ha en godtgjørelsesordning som er i samsvar med forvaltningsselskapets og fondenes forretningsstrategi, overordnede mål, risikotoleranse og langsiktige interesser. Godtgjørelsesordningen skal ikke oppfordre til risikotaking som er uforenelig med risikoprofilen, vedtektene eller øvrige stiftelsesdokumenter til fond under forvaltning. Godtgjørelsesordningen skal bidra til at interessekonflikter unngås.

@@ -1,0 +1,8 @@
+# § 2-31. Aggregering og allokering av ordre
+(1) Forvaltningsselskapet skal ikke utføre en ordre på vegne av verdipapirfond sammen med en ordre for et annet verdipapirfond eller en annen kundeordre eller en transaksjon for egen regning (aggregering), med mindre:
+1) det er usannsynlig at aggregeringen generelt vil være til ulempe for noen verdipapirfond eller kunder, og
+2) forvaltningsselskapet har retningslinjer for fordeling (allokering) som på en presis måte angir vilkår for en korrekt allokering av aggregerte ordre, herunder hvordan volum og kurs på ordre har betydning for allokeringen og behandlingen av delvis utførte ordre.
+(2) Forvaltningsselskap som aggregerer en ordre på vegne av et verdipapirfond med en eller flere ordre for andre verdipapirfond eller kunder og den aggregerte ordren kun utføres delvis, skal fordele de aktuelle handlene i samsvar med retningslinjer for ordreallokering.
+(3) Ved aggregering av transaksjoner for egen regning med en eller flere ordre for verdipapirfond eller andre kunder, skal forvaltningsselskapet ikke allokere de aktuelle handler på en måte som skader verdipapirfondet eller en annen kunde.
+(4) Ved aggregering av en ordre for et verdipapirfond eller annen kunde med en transaksjon for egen regning og den aggregerte ordren kun utføres delvis, skal forvaltningsselskapet prioritere verdipapirfondets eller den andre kundens ordre ved allokeringen.
+(5) Om forvaltningsselskapet godtgjør at transaksjonen, uten aggregeringen etter fjerde ledd, ikke kunne gjennomføres på like gode betingelser, kan forvaltningsselskapet likevel allokere transaksjonen forholdsmessig i henhold til retningslinjene for allokering etter første ledd nr. 2.
