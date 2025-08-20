@@ -1,0 +1,7 @@
+# § 6-26. Søknad eller melding fra tilføringsfond ved avvikling av mottakerfond
+(1) Senest to måneder etter at mottakerfondet har informert tilføringsfondet om en avviklingsbeslutning, skal tilføringsfondet enten gi melding til Finanstilsynet om at tilføringsfondet skal avvikles eller søke Finanstilsynet om godkjenning av følgende:
+1) overføring av tilføringsfondets midler til et annet mottakerfond, eller
+2) omdanning av tilføringsfondet til UCITS som ikke er et tilføringsfond.
+(2) Søknad etter første ledd skal vedlegges endringer i tilføringsfondets prospekt og nøkkelinformasjon og eventuell søknad om godkjenning av endring i tilføringsfondets vedtekter. Søknad om overføring av tilføringsfondets midler til annet mottakerfond, skal i tillegg inneholde slik dokumentasjon som er nevnt i verdipapirfondloven § 6-13 første og annet ledd.
+(3) Verdipapirfondloven § 5-7 første ledd og annet ledd første punktum gjelder ikke ved avvikling av tilføringsfond etter denne paragraf. Tilføringsfondet skal gi andelseierne informasjon om en beslutning om avvikling så snart melding er sendt Finanstilsynet etter første ledd. Andelseierne skal gis slik informasjon som fremgår av verdipapirfondloven § 5-7 annet ledd.
+(4) Dersom mottakerfondet informerte tilføringsfondet om avviklingsbeslutningen mer enn fem måneder før mottakerfondet skal gjennomføre avviklingen, skal søknad eller melding sendes senest tre måneder før gjennomføringstidspunktet.

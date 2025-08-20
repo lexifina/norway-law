@@ -1,0 +1,4 @@
+# § 2-18. Krav til oppbevaringstid av registrerte opplysninger
+(1) Forvaltningsselskapet skal oppbevare den dokumentasjon som kreves etter § 2-16 og § 2-17 i minst 5 år. I den grad Finanstilsynet finner det nødvendig for å ivareta sine tilsynsmessige funksjoner, kan Finanstilsynet i særlige tilfeller gi forvaltningsselskap pålegg om å oppbevare dokumentasjon som nevnt i en lengre periode.
+(2) Ved tilbakekall av et forvaltningsselskaps tillatelse til å drive verdipapirfondsforvaltning, skal dokumentasjon etter første ledd oppbevares frem til femårsperioden er utløpt.
+(3) Dersom forvaltningsselskapet overfører forvaltningen av et verdipapirfond til et annet forvaltningsselskap i henhold til verdipapirfondloven § 4-2, skal dokumentasjon for de siste 5 år være tilgjengelig for det forvaltningsselskap som forvaltningen er overført til.

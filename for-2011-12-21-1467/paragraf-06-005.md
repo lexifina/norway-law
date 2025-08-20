@@ -1,0 +1,12 @@
+# § 6-5. Informasjonskrav for unoterte pengemarkedsinstrumenter
+(1) Informasjonen som skal være tilgjengelig om pengemarkedsinstrumenter i henhold til § 6-4 første ledd nr. 2 må oppfylle følgende:
+1) For pengemarkedsinstrumenter som omfattes av verdipapirfondloven § 6-5 annet ledd nr. 2 og 4 eller for de instrumenter som omfattes av nevnte bestemmelse nr. 1 og som er utstedt av en lokal eller regional myndighet i en stat som er part i EØS-avtalen eller av en offentlig internasjonal institusjon, men som ikke er garantert av en stat som er part i EØS-avtalen, eller hvis det er tale om en forbundsstat som er part i EØS-avtalen, av en av dens delstater, skal det være tilgjengelig hensiktsmessig informasjon som skal bestå av:
+a) informasjon om både utstedelsen eller utstedelsesprogrammet og om utsteders rettslige og finansielle situasjon før utstedelsen av pengemarkedsinstrumentet,
+b) oppdateringer av den informasjonen som er omtalt under bokstav a på regelmessig basis og dersom en betydningsfull begivenhet inntreffer,
+c) informasjonen som er omtalt under bokstav a, skal være bekreftet av egnete kvalifiserte tredjemenn som ikke er underlagt utsteders instruksjoner, og
+d) tilgjengelige og pålitelige statistikker om utstedelsen eller utstedelsesprogrammet.
+2) For pengemarkedsinstrumenter som omfattes av verdipapirfondloven § 6-5 annet ledd nr. 3, skal det være tilgjengelig hensiktsmessig informasjon som skal bestå av:
+a) informasjon om utstedelsen, utstedelsesprogrammet eller om utsteders rettslige og finansielle situasjon før utstedelsen av pengemarkedsinstrumentet,
+b) oppdateringer av den informasjonen som er omtalt under bokstav a på regelmessig basis og dersom en betydningsfull begivenhet inntreffer, og
+c) tilgjengelige og pålitelige statistikker om utstedelsen, utstedelsesprogrammet eller andre data som muliggjør en egnet vurdering av kredittrisikoen som knytter seg til investeringen i slike instrumenter.
+3) For pengemarkedsinstrumenter som omfattes av verdipapirfondloven § 6-5 annet ledd nr. 1 med unntak av de instrumenter som omfattes av denne paragraf første ledd nr. 1 og de pengemarkedsinstrumenter som er utstedt av Den europeiske sentralbank eller av en sentralbank i en stat som er part i EØS-avtalen, skal det være tilgjengelig hensiktsmessig informasjon om utstedelsen, utstedelsesprogrammet eller om utsteders rettslige og finansielle situasjon før utstedelsen av pengemarkedsinstrumentet.

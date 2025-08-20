@@ -1,0 +1,2 @@
+# § 13-7. Gjennomføring av forordning (EU) nr. 583/2010
+(1) EØS-avtalen vedlegg IX forordning (EU) nr. 583/2010 (om gjennomføring av europaparlaments- og rådsdirektiv 2009/65/EF med hensyn til nøkkelopplysninger og de vilkår som skal oppfylles når nøkkelinformasjonen eller prospektet fremlegges i et annet varig medium enn papir, eller på nettsted) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

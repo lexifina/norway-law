@@ -1,0 +1,4 @@
+# § 6-11. Kredittderivater
+(1) Verdipapirfondets midler kan plasseres i kredittderivater som overfører kredittrisikoen ved et underliggende som nevnt i § 6-9 annet og tredje ledd. Kredittderivater må ikke resultere i levering eller i overføring av andre aktiva enn de aktiva som er omfattet av verdipapirfondloven § 6-1, herunder i form av kontantoppgjør.
+(2) Kredittderivater må oppfylle vilkårene for unoterte derivater i § 6-13 og § 6-14 første ledd.
+(3) Risikoen ved kredittderivater må bli hensiktsmessig tatt høyde for ved risikostyringen i fondet, og gjennom internkontrollsystemet når det gjelder risikoen for asymmetrisk informasjon mellom forvaltningsselskapet og motparten til kredittderivatet som følge av motpartens tilgang til ikke-offentlig informasjon om de selskaper som kredittderivatet gjelder.

@@ -1,0 +1,1 @@
+# I. Aksjeeiere, kapitalkrav mv.

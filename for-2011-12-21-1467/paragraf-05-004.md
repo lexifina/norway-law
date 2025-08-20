@@ -1,0 +1,2 @@
+# § 5-4. Informasjon til investorer ved fusjon
+(1) I perioden fra tidspunktet informasjon om fusjonen er gitt andelseierne frem til gjennomføringsdatoen for fusjonen, skal informasjon om fusjonen og oppdatert nøkkelinformasjon gis enhver som tegner andeler i overdragende eller overtakende fond. Tilsvarende gjelder for enhver som ber om kopi av overdragende eller overtakende fonds vedtekter, prospekt eller nøkkelinformasjon.

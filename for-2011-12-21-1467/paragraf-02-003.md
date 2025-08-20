@@ -1,0 +1,8 @@
+# § 2-3. Alminnelige bestemmelser om utkontraktering
+(1) Forvaltningsselskapet kan, i samsvar med denne paragraf og § 2-4 og § 2-5, sette bort utførelsen av oppgaver som er av betydning for den konsesjonspliktige virksomhet, til et annet foretak for å effektivisere virksomheten.
+(2) Utførelse av oppgaver kan ikke settes bort til andre foretak dersom det er fare for interessekonflikt mellom oppdragstaker og forvaltningsselskapet eller mellom oppdragstaker og andelseiere i verdipapirfond. Forvaltningsselskapet kan ikke sette bort utførelsen av oppgaver til depotmottaker dersom oppgavene er knyttet til kollektiv porteføljeforvaltning som nevnt i verdipapirfondloven § 1-2 første ledd nr. 3.
+(3) Forvaltningsselskapet skal påse at oppdragstakeren har de tillatelser som er påkrevet for å utføre den virksomhet her i riket eller i fremmed stat som oppdraget omfatter. Oppdragstaker må ha slik kompetanse og ressurser som oppdraget krever.
+(4) Utkontraktering av virksomhet til foretak i stat utenfor EØS-området forutsetter at foretaket er underlagt betryggende tilsyn i hjemlandet, og det er etablert avtale om tilsynssamarbeid mellom Finanstilsynet og foretakets tilsynsmyndigheter.
+(5) Utkontraktering av virksomhet påvirker ikke plikter og ansvar forvaltningsselskapet eller depotmottakeren har overfor verdipapirfond, andelseiere eller offentlige myndigheter når det gjelder den virksomhet oppdragene omfatter.
+(6) Utkontrakteringen skal ikke medføre hindringer for effektiv kontroll fra forvaltningsselskapet samt adgang til å instruere oppdragstaker med hensyn til utførelsen av det utkontrakterte oppdraget.
+(7) Utkontrakteringen må ikke hindre Finanstilsynets tilsyn med den utkontrakterte virksomheten, herunder innsynsrett hos oppdragstaker.

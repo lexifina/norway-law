@@ -1,0 +1,11 @@
+# § 2-15. Måling og styring av risiko
+(1) Forvaltningsselskapet skal ha tilstrekkelige og effektive ordninger, prosesser og teknikker for å måle og styre den risiko som verdipapirfondene som forvaltes kan bli eksponert for, og for å sikre overholdelse av grensene for total eksponering knyttet til derivater i § 6-10 og motpartsrisiko ved unoterte derivater i § 6-14. Tiltakene skal være tilpasset virksomhetens art, omfang og kompleksitet, de verdipapirfond som forvaltes og deres risikoprofil.
+(2) Forvaltningsselskapet skal for hvert verdipapirfond det forvalter:
+1) gjennomføre og dokumentere slike tiltak for risikomåling som er nødvendig for å sikre at risikoen ved inngåtte posisjoner, og dens innvirkning på samlet risikoprofil, måles presist på grunnlag av forsvarlige og pålitelige data,
+2) når det er relevant, gjennomføre jevnlige «back-tests» for å kunne etterprøve risikomålinger som omfatter modellbaserte prognoser og skjønn,
+3) når det er relevant, foreta jevnlige stress-tester og scenarioanalyser for å kunne ta høyde for endringer i markedsforhold som kan påvirke verdipapirfondet negativt,
+4) innføre, gjennomføre og til enhver tid ha et dokumentert system med interne grenser for de målinger som anvendes for å styre og kontrollere relevante risiki for hvert verdipapirfond, hensyntatt alle risiki som kan være av vesentlig betydning for de ulike verdipapirfond, og sikrer overensstemmelse med verdipapirfondets risikoprofil,
+5) sikre at gjeldende risikonivå er i overensstemmelse med systemet for risikogrenser for hvert enkelt fond,
+6) innføre, gjennomføre og til enhver tid ha tilstrekkelige rutiner som ved faktiske eller påregnelige avvik fra verdipapirfondets risikogrenser, fører til at disse rettes i samsvar med andelseiernes interesser.
+(3) Forvaltningsselskapet skal anvende et hensiktsmessig system for styring av likviditetsrisiko for å sikre at hvert verdipapirfond til enhver tid kan oppfylle andelseiers krav om innløsning av andeler. Når det er relevant skal forvaltningsselskap foreta stress-tester for å kunne ta høyde for økt likviditetsrisiko under ekstraordinære omstendigheter.
+(4) Forvaltningsselskap skal påse at likviditetsprofilen for investeringer er i samsvar med innløsningsreglene for hvert verdipapirfond.

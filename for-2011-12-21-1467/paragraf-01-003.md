@@ -1,0 +1,2 @@
+# § 1-3. Verdipapirhandellovens og verdipapirforskriftens anvendelse for forvaltningsselskap
+(1) For forvaltningsselskap med tillatelse etter verdipapirfondloven § 2-1 annet ledd og tredje ledd nr. 1, gjelder verdipapirhandelloven § 9-16, § 9-18, § 9-19, § 9-21 første ledd, § 9-38 til § 9-43 og § 9-45 til § 9-49, § 10-3 tredje ledd, § 10-4, § 10-5, § 10-9 til § 10-17 og § 10-22 og forskrifter gitt i medhold av disse bestemmelsene så langt de passer.

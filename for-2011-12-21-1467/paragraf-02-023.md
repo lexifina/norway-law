@@ -1,0 +1,2 @@
+# § 2-23. Informasjon til forvaltningsselskapets ledelse og andelseiere
+(1) Dersom rutiner og tiltak som er iverksatt for å håndtere interessekonflikter ikke er tilstrekkelige for å forhindre risiko for å skade interessene til verdipapirfond eller andelseierne, skal den øverste ledelse omgående informeres slik at disse kan ta de beslutninger som er nødvendige for at forvaltningsselskapet uansett skal opptre i samsvar med interessene til verdipapirfond og andelseierne. Andelseiere skal i tilfelle informeres om beslutningene og begrunnelsen for dem gjennom et varig medium.

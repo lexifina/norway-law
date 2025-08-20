@@ -1,0 +1,12 @@
+# § 2-21. Retningslinjer for interessekonflikter
+(1) Forvaltningsselskapet skal ha skriftlige retningslinjer for å håndtere interessekonflikter. Retningslinjene skal være tilpasset foretakets størrelse og organisering samt virksomhetens art, omfang og kompleksitet, Det skal tas hensyn til forhold foretaket er eller burde være kjent med og som kan gi opphav til interessekonflikter knyttet til andre selskaper i foretaksgruppen.
+(2) Retningslinjene skal som et minimum omfatte:
+1) angivelse av de forhold som kan medføre interessekonflikter knyttet til verdipapirfondsforvaltning som utføres av eller på vegne av forvaltningsselskapet og som kan innebære en reell risiko for å skade et verdipapirfonds eller andre kunders interesser, og
+2) angivelse av rutiner som skal følges og tiltak som skal iverksettes for å håndtere slike interessekonflikter.
+(3) Rutiner og tiltak som nevnt i annet ledd nr. 2 skal være egnet til å sikre at tilknyttede personers deltakelse i virksomhet som involverer en interessekonflikt utføres med en nødvendig grad av uavhengighet. Rutinene og tiltakene skal ta hensyn til foretakets, herunder foretaksgruppens, størrelse og virksomhet, samt graden av risiko for å skade kunders interesser. For å sikre nødvendig uavhengighet skal forvaltningsselskap vurdere behovet for blant annet:
+1) rutiner for forsvarlig utveksling av informasjon mellom tilknyttede personer involvert i verdipapirfondsforvaltning,
+2) særskilt kontroll med tilknyttede personer som i hovedsak utfører verdipapirfondsforvaltning for eller yter tjenester til kunder eller investorer som kan ha motstridende interesser, eller som kan ha interesser i strid med foretakets egne interesser,
+3) å fjerne direkte sammenheng mellom avlønningen av tilknyttede personer som utfører ulike typer virksomhet, dersom det kan oppstå interessekonflikter mellom disse virksomhetene,
+4) tiltak for å hindre eller begrense muligheten for at det kan utøves utilbørlig påvirkning av en tilknyttet persons utførelse av verdipapirfondsforvaltning,
+5) tiltak for å hindre eller kontrollere en tilknyttet persons samtidige eller etterfølgende deltagelse i ulike funksjoner under verdipapirfondsforvaltning dersom slik deltagelse er egnet til å svekke håndteringen av interessekonflikter.
+(4) Dersom innføring og gjennomføring av rutiner og tiltak etter tredje ledd ikke sikrer en tilstrekkelig grad av uavhengighet, skal forvaltningsselskapet iverksette ytterligere eller alternative tiltak som er nødvendige og hensiktsmessige for å oppnå slik uavhengighet.

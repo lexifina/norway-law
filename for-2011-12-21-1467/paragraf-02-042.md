@@ -1,0 +1,4 @@
+# § 2-42. Rapportering og dokumentasjon
+(1) Ordningene for personlige transaksjoner skal sikre at forvaltningsselskapet umiddelbart informeres om en personlig transaksjon som tilknyttet person har inngått, enten ved melding eller på annen måte. Informasjonen skal gjøre det mulig for forvaltningsselskapet å identifisere disse transaksjonene.
+(2) Ordningene skal også sikre at forvaltningsselskapet fører et register over meldte eller identifiserte personlige transaksjoner, herunder godkjenninger eller forbud i forbindelse med slike transaksjoner. Registrerte opplysninger skal oppbevares i minst tre år.
+(3) Ved utkontraktering skal forvaltningsselskapet påse at enheten som utfører de utkontrakterte oppgavene, fører et register over personlige transaksjoner inngått av en tilknyttet person, og at opplysningene gis forvaltningsselskapet på anmodning.

@@ -1,0 +1,3 @@
+# § 2-8. Regnskapsrutiner
+(1) Forvaltningsselskapet skal ha retningslinjer og rutiner for regnskapsføring i samsvar med regnskapsregler i et UCITS-fonds hjemland for å sikre at beregningen av netto andelsverdi av hvert UCITS-fond beregnes korrekt på grunnlag av regnskapsføringen og at tegnings- og innløsningsordre kan utføres korrekt i henhold til denne andelsverdien. Dersom forvaltningsselskapet forvalter verdipapirfond med andelsklasser skal retningslinjene og rutinene tilpasses dette.
+(2) Forvaltningsselskapet skal ha retningslinjer som skal sikre nøyaktig verdsettelse av eiendeler og forpliktelser til et verdipapirfond i samsvar med gjeldende regler.
