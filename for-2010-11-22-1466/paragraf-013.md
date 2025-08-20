@@ -1,0 +1,7 @@
+# § 13. Krav om dekning av reise- og oppholdsutgifter
+Krav om dekning av reise- og oppholdsutgifter etter forskriften § 9 fremsettes sammen med krav om stønad til dekning av helsehjelpen innen den frist som følger av § 10 i forskriften her.
+Kravet fremsettes på særskilt skjema. I kravet må helsehjelpen beskrives slik at det er mulig å fastslå hva som er det nærmeste stedet i Norge der helsehjelpen kunne gis, jf. § 9 annet ledd.
+Dersom kravet om stønad til dekning av helsehjelpen avslås, meddeler HELFO pasienten at kravet om dekning av reise- og oppholdsutgifter av denne grunn ikke tas til behandling.
+Dersom stønad til helsehjelpen innvilges helt eller delvis, tas krav om dekning av reise- og oppholdsutgifter til behandling. HELFO oversender kravet til rette instans.
+Krav som behandles etter reglene i og i medhold av pasient- og brukerrettighetsloven § 2-6, sendes Helseforetakenes senter for pasientreiser ANS. Vedtak kan påklages til statsforvalteren etter reglene i pasient- og brukerrettighetsloven kapittel 7. Klagefristen er tre uker. Det regionale helseforetaket i medlemmets bostedsregion dekker reise- og oppholdsutgiftene.
+Krav om reiseutgifter knyttet til tannbehandling som i Norge ville blitt gitt i Den offentlige tannhelsetjenesten, sendes fylkeskommunen. Fylkeskommunen behandler kravet og dekker utgiftene. Vedtak kan påklages etter reglene i tannhelsetjenesteloven § 2-3.
