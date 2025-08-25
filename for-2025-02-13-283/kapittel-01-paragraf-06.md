@@ -1,0 +1,2 @@
+# § 2-2. Innhold i ph.d.-utdanningen i kunstnerisk utviklingsarbeid
+Utdanningen omfatter et selvstendig arbeid innen kunstnerisk utviklingsarbeid. Ph.d.-prosjektet skal gjennomføres under aktiv veiledning. I tillegg skal kandidaten gjennomføre en opplæringsdel i faglig metode, teori og etikk som gir dybde og bredde i eget fag, samtidig som faget settes inn i en videre ramme. I ph.d.-utdanningen skal kandidaten også få trening i formidling av kunstnerisk utviklingsarbeid overfor fagfeller, studenter og allmennheten.

@@ -1,0 +1,4 @@
+# § 17-5. Klage over avslag på søknad om bedømmelse, ikke godkjent ph.d.-resultat eller disputas
+Avslag på søknad om å få ph.d.-resultatet bedømt og vedtak om ikke godkjent ph.d.-resultat eller disputas, kan påklages etter reglene i forvaltningslovens § 28 følgende og universitets- og høyskoleloven § 13-1 (3).
+Begrunnet klage sendes fakultetet selv. Fakultetet kan, etter at saken først er lagt frem for bedømmelseskomiteen, oppheve eller endre vedtaket hvis det finner klagen begrunnet. Hvis ikke fakultetet tar klagen til følge, sendes klagen til Den sentrale klagenemnd til avgjørelse. Klagenemnda kan prøve alle sider ved det påklagede vedtaket.
+Dersom underinstansen eller klageinstansen finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelsen og de kriteriene denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.

@@ -1,0 +1,6 @@
+# § 14-2. Offentliggjøring
+Ved fremstilling skal kandidaten presentere det kunstneriske resultatet offentlig. Refleksjonsmaterialet og eventuelt annet materiale som inngår i bedømmelsen, skal være offentlig tilgjengelig senest to (2) uker før dato for offentlig forsvar. Materialet gjøres tilgjengelig i den form det ble innlevert til bedømmelse, eventuelt med rettinger som er foretatt etter § 14-1.
+Universitetet i Bergen skal arkivere og gjøre åpent tilgjengelig i et varig format dokumentasjon av hele ph.d.-resultatet.
+Det kan ikke legges restriksjoner på offentliggjøring av ph.d.-resultatet med unntak av en avtalt utsettelse av datoen for offentliggjøring og disputas. Slik utsettelse kan finne sted for at Universitetet i Bergen og eventuelt ekstern part som helt eller delvis har finansiert ph.d.-utdanningen, skal kunne ta stilling til eventuell patentering eller lignende.
+Ekstern part kan ikke stille krav om at hele eller deler av ph.d.-resultatet ikke skal kunne offentliggjøres.
+Ved publisering eller offentliggjøring skal kandidaten følge gjeldende retningslinjer for kreditering av institusjoner. Hovedregelen er at en institusjon skal oppgis dersom den har gitt et nødvendig og vesentlig bidrag til eller grunnlag for det offentliggjorte arbeidet.
