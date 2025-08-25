@@ -1,0 +1,3 @@
+# § 1. Forskriftens virkeområde
+Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om retten til å fremstille seg for dr.philos.-prøven og avviklingen av denne.
+For andre bestemmelser som regulerer forhold knyttet til dr.philos.-graden, se til lov om universiteter og høyskoler (universitets- og høyskoleloven), forskrift til universitets- og høyskoleloven, forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring (nasjonalt kvalifikasjonsrammeverk), lov om organisering av forskningsetisk arbeid og lov om behandlingsmåten i forvaltningssaker (forvaltningsloven).
