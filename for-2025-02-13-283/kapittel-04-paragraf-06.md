@@ -1,0 +1,6 @@
+# § 12. Fakultetets behandling av bedømmelseskomiteens innstilling
+Bedømmelseskomiteens innstilling med eventuelle merknader behandles av fakultet selv. På grunnlag av bedømmelseskomiteens innstilling fatter fakultetet selv vedtak om hvorvidt ph.d.-resultatet er verdig til å forsvares.
+Dersom fakultetet selv finner at det foreligger begrunnet tvil om komiteens innstilling eller dersom komiteen avgir delt innstilling, kan fakultetet selv søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to (2) nye sakkyndige som avgir individuelle uttalelser om ph.d.-resultatet.
+Bedømmelseskomiteens innstilling med eventuelle dissenser og individuelle uttalelser sendes til fakultet, og skal så snart som mulig oversendes kandidaten, som gis en frist på ti (10) virkedager til å fremme skriftlige merknader til innstillingen.
+Dersom kandidatens merknader kan ha betydning for spørsmålet om det kunstneriske ph.d.-prosjektet kan godkjennes, bør merknadene forelegges bedømmelseskomiteen før fakultetet selv gjør vedtak i saken.
+Fakultetsstyret skal fatte vedtak ved delt eller negativ innstilling, eller i tilfeller der fakultetet selv ønsker å oppnevne to nye sakkyndige ved positiv innstilling.

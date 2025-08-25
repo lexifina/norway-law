@@ -1,0 +1,3 @@
+# § 2-1. Målsetting for ph.d.-utdanningen i kunstnerisk utviklingsarbeid
+Ph.d.-utdanningen skal kvalifisere ph.d.-kandidater (heretter omtalt som kandidater) for kunstnerisk utviklingsarbeid av internasjonal standard og for annet arbeid i samfunnet hvor det stilles store krav til kunstnerisk innsikt og kompetanse, i samsvar med god akademisk skikk og etiske standarder.
+Ph.d.-utdanningen skal gi kandidaten kunnskap, ferdigheter og kompetanse slik det fremgår av læringsutbyttebeskrivelsen til ph.d.-programmet i kunstnerisk utviklingsarbeid og i tråd med Nasjonalt kvalifikasjonsrammeverk for livslang læring.

@@ -1,0 +1,2 @@
+# § 5-5-4. Tvungen avslutning av hensyn til eksportkontroll
+Dersom det etter opptak fremkommer at kandidatens kunstneriske utviklingsarbeid ikke lenger lar seg forene med Universitetet i Bergen sine plikter knyttet til eksportkontroll i henhold til gjeldende lovgivning, kan fakultetsstyret, etter en vurdering av muligheter for alternative løsninger, fatte vedtak om tvungen avslutning av utdanningen.
