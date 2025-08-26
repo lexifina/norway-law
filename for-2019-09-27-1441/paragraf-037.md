@@ -1,0 +1,5 @@
+# § 37. Adgang til kontinuasjonseksamen
+Kontinuasjonseksamen avholdes kun for studenter som ikke består siste avholdte ordinære eksamen. Studenter som anses for å ha trukket seg fra eksamen etter § 33 har ikke rett til kontinuasjonseksamen. Studentene må selv melde seg til kontinuasjonseksamen ved å kontakte studieavdelingen. Frist for oppmelding er tre uker etter kunngjøring av eksamensresultatet fra ordinær eksamen.
+Kontinuasjonseksamen avholdes tidligst mulig, og før neste ordinære eksamen i emnet. Vurderingsformen ved kontinuasjonseksamen skal være den samme som ved ordinær eksamen.
+Godkjente obligatoriske aktiviteter, samt beståtte karakter på deleksamen der karakteren inngår i beregningen av den endelige karakteren fra gjeldende emne vil være gyldig ved kontinuasjonseksamen.
+Det avholdes ikke utsatt eksamen ved sykdomsforfall eller annet forfall til kontinuasjonseksamen. Det er ikke anledning til å framstille seg til kontinuasjonseksamen for å forbedre karakteren fra en allerede bestått eksamen.

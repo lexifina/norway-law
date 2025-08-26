@@ -1,0 +1,3 @@
+# § 31. Ekstern sensor og krav til kvalifikasjon
+Administrerende direktør oppnevner eksterne sensorer etter forslag fra fagavdelingene, jf. universitets- og høyskolelovens § 11-7. Oppnevning skjer for perioder på 3 år.
+Ekstern sensor skal ikke være ansatt ved UNIS i den aktuelle oppnevningsperioden. Ekstern sensor skal som hovedregel ha vitenskapelig kompetanse som kvalifiserer for ansettelse minimum som universitetslektor ved universitet/høyskole eller annen forskningsinstitusjon. For sensur av emner i opplæringsdelen av ph.d.-studiet kreves doktorgrad eller tilsvarende. Ekstern sensor kan i særlige tilfeller være kvalifisert til å foreta sensur på bachelor- master- og ph.d.-emner innenfor et bestemt område gjennom relevant yrkespraksis.

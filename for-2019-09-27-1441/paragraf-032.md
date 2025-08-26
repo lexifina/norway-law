@@ -1,0 +1,3 @@
+# § 32. Kunngjøring av sensur
+Sensur kunngjøres digitalt. Resultatlister sendes den norske høyere utdanningsinstitusjonen hvor studenten er registrert, som har ansvar for å gjøre den enkelte students resultat tilgjengelig.
+Ved kunngjøring av sensur skal det opplyses om adgang til kontinuasjonseksamen, adgang til å fremstille seg til samme eksamen, retten til å kreve begrunnelse for karakterfastsettelsen, retten til å klage på karakteren, og retten til å klage på formelle feil ved eksamen. Det skal videre opplyses om hvilke frister som gjelder for begrunnelse og klage, utgangspunkt for fristberegning, hvor studenten skal henvende seg for å få begrunnelsen og til hvem klagen skal rettes.

@@ -1,0 +1,10 @@
+# § 43. Klage over karakterfastsetting – rett til begrunnelse
+Studenten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter må krav om slik begrunnelse fremsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse fremsettes innen én uke fra karakteren ble kunngjort. Krav om begrunnelse fremsettes via digitalt eksamenssystem.
+Begrunnelse skal normalt være gitt innen to uker etter at studenten har bedt om dette. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. UNIS ved leder for studieavdelingen bestemmer om sensor skal gi begrunnelsen muntlig eller skriftlig.
+Sensorveiledning skal være tilgjengelig for studentene etter at karakteren er fastsatt.
+Ved klage skal studentens besvarelse forelegges ny eksamenskommisjon som vurderer hele eksamenen på nytt. Den nye eksamenskommisjonen skal foreta en helt ny sensurering, og skal således ikke ha opplysninger om karakter, begrunnelse for karakteren eller studentens begrunnelse for klagen. Ny karakterfastsetting kan skje til gunst eller ugunst for klager, eller forbli uendret. Karakterfastsettingen ved ny sensurering kan ikke påklages.
+Avviker karakteren med to eller flere karakterer fra opprinnelig sensur, skal UNIS foreta ytterligere en sensurering før endelig karakter fastsettes.
+Ved eksamener som består av flere deler, er det ikke anledning til å framsette klage på karakterfastsettelsen før den endelige karakteren på emnet er kunngjort. Ved klage skal alle delene underlegges ny sensur.
+Bedømmelse av muntlig prestasjon eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages.
+Klage over karakterfastsetting av gruppeeksamen vil kun gjelde de gruppemedlemmene som fremmer klage.
+Klagefristen er tre uker fra kunngjøring av karakteren. Er krav om begrunnelse for karakterfastsettingen framsatt, løper klagefristen fra studenten har fått begrunnelsen.
