@@ -1,0 +1,4 @@
+# § 6. Ph.d.-avtalen
+Opptak til høgskolens ph.d.-utdanning formaliseres ved at skriftlig avtale inngås mellom doktorgradsstudent, veiledere og høgskolen. Avtalen regulerer partenes rettigheter og plikter i opptaksperioden og skal sikre at doktorgradsstudenten deltar regelmessig i et aktivt forskermiljø og legge til rette for at ph.d.-utdanningen skal kunne gjennomføres til avtalt tid. Det utarbeides eget avtaleskjema.
+For doktorgradsstudenter med finansiering fra, tilsetting hos eller andre bidrag fra en ekstern part, skal det inngås egen avtale mellom doktorgradsstudent, høgskolen og den eksterne part som regulerer arbeidsvilkårene, herunder tid til doktorgradsarbeidet, driftsmidler og behov for vitenskapelig utstyr.
+I tilfeller hvor doktorgradsstudenten skal ha tilknytning til utenlandske institusjoner, skal det utarbeides avtale om rettigheter, plikter og forventninger de to partene imellom.

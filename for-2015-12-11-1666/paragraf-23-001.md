@@ -1,0 +1,2 @@
+# § 23-1. Klage over avslag på søknad om opptak, vedtak om tvungen avslutning ved forsinkelse eller manglende fremdrift, klage over avslag på søknad om godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak, vedtak om tvungen avslutning ved forsinkelse eller manglende fremdrift og klage over avslag på søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i forvaltningslovens § 28 flg. Grunngitt klage sendes høgskolen. Blir avslaget opprettholdt sendes klagen uten ugrunnet opphold til høgskolens klagenemnd.

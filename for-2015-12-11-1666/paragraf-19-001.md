@@ -1,0 +1,7 @@
+# § 19-1. Prøveforelesning
+Etter at avhandlingen er innlevert til bedømmelse, jf. § 15, skal doktorgradsstudenten forelese. Prøveforelesningen er en selvstendig del av doktorgradsprøven og skal være over oppgitt emne. Hensikten er å prøve doktorgradsstudentens evne til å tilegne seg kunnskaper utover avhandlingens tema og evnen til å formidle disse i en forelesningssituasjon.
+Tittel for prøveforelesning kunngjøres for doktorgradsstudenten ti (10) arbeidsdager før forelesningen. Emnet for forelesningen skal omhandle tematikk som kan være relatert til, men gå ut over temaet for avhandlingen.
+Dersom høgskolen velger å avholde prøveforelesningen i forbindelse med disputas, oppgir bedømmelseskomiteen tema for prøveforelesning og forestår selv bedømmingen. Dersom de to prøvene bedømmes separat, oppnevner høgskolen en egen komité for dette som fastsetter tema for prøveforelesningen. Minst ett av bedømmelseskomiteens medlemmer skal da oppnevnes i forelesningskomiteen.
+Prøveforelesningen skal skje på avhandlingsspråket med mindre høgskolen godkjenner et annet språk.
+Høgskolen avgjør om prøveforelesningen er bestått eller ikke bestått. Det skal begrunnes dersom prøveforelesningen anbefales ikke bestått.
+Er prøveforelesning ikke bestått, kan disputas gjennomføres og ny prøveforelesning holdes over et nytt emne. Doktorgradsprøven kan kun godkjennes når både prøveforelesning og disputas er godkjent.

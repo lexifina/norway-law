@@ -1,0 +1,2 @@
+# § 21. Kreering og vitnemål
+På grunnlag av innberetning om at opplæringsdelen, avhandlingen og doktorgradsprøven er godkjent, kreeres doktorgradsstudenten til philosophiae doctor av høgskolestyret, og vitnemål utstedes. I vitnemålet skal det gis opplysninger om den faglige opplæringen doktorgradsstudenten har deltatt i. Høgskolen fastsetter hvilke ytterligere opplysninger som skal inngå i vitnemålet.

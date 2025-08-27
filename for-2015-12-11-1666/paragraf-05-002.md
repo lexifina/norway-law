@@ -1,0 +1,2 @@
+# § 5-2. Infrastruktur
+Doktorgradsstudenten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av forskningsprosjektet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring, tas av høgskolen. For doktorgradsstudenter med ekstern finansiering eller arbeidsplass inngås det avtale mellom institusjon og ekstern part i forbindelse med det enkelte forskningsprosjekt. Slik avtale skal som hovedregel foreligge på det tidspunkt opptaksvedtaket for den aktuelle doktorgradsstudenten fattes, eller umiddelbart etterpå.

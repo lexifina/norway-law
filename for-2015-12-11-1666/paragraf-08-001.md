@@ -1,0 +1,9 @@
+# § 8-1. Formål, innhold og omfang
+Ph.d.-utdanningen skal være lagt opp slik at den skal kunne fullføres innenfor normert tidsramme. Avtaleperioden kan forlenges grunnet permisjoner som følger av doktorgradsstudentens rettighet som arbeidstaker, jf. § 8-2.
+VID vitenskapelige høgskole har ansvar for at opplæringsdelen, sammen med avhandlingsarbeidet, gir utdanning på høyt faglig nivå og i henhold til internasjonal standard, med gjennomføring av et vitenskapelig arbeid, trening i faglig formidling og innføring i forskningsetikk, vitenskapsteori og vitenskapsmetode. Opplæringen skal sammen med forskningsarbeidet bidra til oppnåelse av forventet læringsutbytte i henhold til det nasjonale kvalifikasjonsrammeverket.
+Høgskolen vil tilby doktorgradsstudenten veiledning om fremtidige yrkesmuligheter i og utenfor akademia, herunder bevisstgjøring om den kompetansen som doktorgradsstudenten har oppnådd gjennom forskningsarbeidet.
+Dersom høgskolen ikke selv arrangerer hele opplæringsdelen, skal forholdene legges til rette for at doktorgradsstudenten får tilsvarende opplæring ved andre institusjoner.
+Opplæringsdelen skal tilsvare minst 30 studiepoeng, hvorav minst 20 studiepoeng skal avlegges etter opptak. Elementer som skal inngå i opplæringsdelen, bør ikke være eldre enn to (2) år ved opptaksdato.
+Høgskolen fastsetter innholdet i opplæringsdelen. Opplæringsdelen skal være gjennomført og godkjent før avhandlingen innleveres. Søknad om endringer i godkjent plan for opplæringsdelen skal utarbeides i samråd med hovedveileder.
+Det kan gis fritak for deltakelse i deler av opplæringsdelen dersom tilsvarende krav er oppfylt ved en annen enhet eller institusjon som gir godkjent opplæring.
+Kurs på doktorgradsnivå ved annen institusjon skal godkjennes i samsvar med reglene i lov om universiteter og høyskoler, § 9-1, 9-3.
