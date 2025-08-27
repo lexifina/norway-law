@@ -1,0 +1,4 @@
+# § 9-2. Midtveisevaluering
+En midtveisevaluering av doktorgradsarbeidet bør normalt finne sted i tredje eller fjerde semester, eller noe senere for deltidsprosjekter. Doktorgradsstudenten skal presentere sitt arbeid og bli evaluert av en gruppe på minst to personer som er oppnevnt av høgskolen. Evalueringsgruppen skal ta stilling til doktorgradsarbeidets faglige status og fremdrift, og skal gi tilbakemelding til doktorgradsstudent, veilederen og høgskolen.
+Midtveisevaluering er en obligatorisk aktivitet i doktorgradsutdanningen, og inngår i grunnlaget for å søke om å få avhandlingen vurdert for offentlig forsvar. Midtveisevalueringen omfattes derfor av § 12-4 og § 13-2 i universitets- og høyskoleloven, og § 5-5 i forskrift om graden ph.d. ved VID vitenskapelige høgskole.
+Dersom evalueringsgruppen rapporterer om vesentlige svakheter ved forskningsarbeidet, skal det iverksettes tiltak for å korrigere situasjonen.

@@ -1,0 +1,5 @@
+# § 7-2. Veiledningens innhold
+Doktorgradsstudent og veiledere bør ha jevnlig kontakt. Hovedveileder har et ansvar for å følge opp doktorgradsstudentens faglige utvikling. Kontakthyppigheten bør fremgå av den årlige fremdriftsrapporteringen, jf. § 9.
+Hovedveileder plikter å holde seg orientert om fremdriften i doktorgradsstudentens arbeid og vurdere den i forhold til prosjektbeskrivelsens fremdriftsplan, jf. § 5-1.
+Hovedveileder plikter å følge opp faglige forhold som kan medføre forsinket gjennomføring av forskerutdanningen, slik at denne kan fullføres innenfor normert tid.
+Veilederne skal gi råd om formulering og avgrensning av tema og problemstillinger, drøfte og vurdere hypoteser og metoder, drøfte resultater og tolkningen av disse, drøfte opplegg og gjennomføring av fremstillingen, herunder disposisjon, språklig form, dokumentasjon mv., og gi hjelp til orientering i faglitteratur og datagrunnlag i forhold til bibliotek, arkiv, etc. Videre bør veilederne gi doktorgradsstudenten veiledning i forskningsetiske spørsmål knyttet til avhandlingen.

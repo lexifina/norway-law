@@ -1,0 +1,6 @@
+# § 11. Meldeplikt om arbeidsresultater som har potensial for næringsmessig utnyttelse
+Regulering av rettigheter mellom samarbeidende institusjoner må reguleres i avtale.
+Arbeidsgiverinstitusjonens til enhver tid gjeldende regelverk skal danne utgangspunkt for hvilken meldeplikt doktorgradsstudenter med tilsetting ved institusjonen har for arbeidsresultater med næringsmessig potensial som gjøres i arbeidsforholdet.
+For doktorgradsstudenter med ekstern arbeidsgiver skal tilsvarende meldeplikt nedfelles i avtale mellom institusjonen, doktorgradsstudenten og den eksterne arbeidsgiver.
+For doktorgradsstudenter uten arbeidsgiver skal tilsvarende meldeplikt nedfelles i opptaksavtalen mellom høgskolen og doktorgradsstudenten.
+De deler av doktorgradsavhandlingen som doktorgradsstudenten alene har opphavsrett til, samt andre faglitterære verk som er resultat av arbeidet med avhandlingen og som doktorgradsstudenten alene har opphavsrett til, kan vederlagsfritt benyttes ved fremstilling av kopier til bruk i høgskolens forsknings- og undervisningsvirksomhet. For doktorgradsstudenter som ikke ansettes ved VID vitenskapelige høgskole inngås egen avtale om tilsvarende bruk. Ved slik bruk skal doktorgradsstudenten navngis slik lovgivning og god skikk tilsier.

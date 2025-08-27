@@ -1,0 +1,2 @@
+# § 18-1. Krav til den trykte avhandlingen
+Når avhandlingen er funnet verdig til å forsvares, skal doktorgradsstudenten levere avhandlingen til høgskolen i godkjent format og i det antall eksemplarer høgskolen bestemmer. Doktorgradsstudenten skal levere et kortfattet sammendrag av avhandlingen i elektronisk form på engelsk og norsk. Dersom avhandlingen verken er skrevet på engelsk eller norsk, skal det i tillegg leveres et sammendrag på avhandlingens språk. Sammendraget skal, i likhet med selve avhandlingen, publiseres offentlig.
