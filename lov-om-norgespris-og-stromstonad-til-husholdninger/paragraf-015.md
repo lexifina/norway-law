@@ -1,0 +1,9 @@
+# § 15. Ordning for sikring av fjernvarmepris
+På forespørsel fra fjernvarmekunden skal fjernvarmeselskapet tilby kunder av fjernvarmeanlegg med konsesjon etter energiloven § 5-1 og som har husholdnings- eller fritidsboligforbruk, deltagelse i ordning for sikring av fjernvarmepris. Energimåleren til fjernvarmekunden bindes ut prisperioden hvis fjernvarmekunden velger å inngå avtale om sikring av fjernvarmepris. Med energimåler menes måler som står i punktet der fjernvarmeselskapet beregner kundens fjernvarmeforbruk som danner grunnlag for fakturering. Fjernvarmekunden taper rett til strømstønad for fjernvarme i samme tidsrom som fjernvarmekunden deltar i ordning for sikring av fjernvarmepris.
+Fjernvarmeselskapet skal beregne prissikringsbeløp per måned for fjernvarmekunde nevnt i første ledd, basert på målt fjernvarmeforbruk og referansepris, på følgende måte:
+a) I forbruksmåned med elspotpris over referansepris skal kunden få et tilskudd tilsvarende elspotpris fratrukket referansepris. Beregningen skal ta hensyn til merverdiavgift.
+b) I forbruksmåned med elspotpris under referansepris skal kunden betale et beløp tilsvarende referansepris fratrukket elspotpris. Beregningen skal ta hensyn til merverdiavgift.
+Elspotpris skal være gjennomsnittlig månedspris i budområdet kunden tilhører.
+Fjernvarmeselskapet skal kreve inn eller betale ut prissikringsbeløp per måned. Beregningen skal gjøres etterskuddsvis for hver måned eller dersom fjernvarmekunden sier opp fjernvarmeavtalen.
+Ved uenighet mellom fjernvarmekunde og fjernvarmeselskap om rett til å bli omfattet av ordningen kan fjernvarmekunden bringe saken inn for avgjørelse hos Norges vassdrags- og energidirektorat. Norges vassdrags- og energidirektorat avgjør saken ved enkeltvedtak. Vedtaket kan påklages til departementet.
+Departementet kan gi forskrift om ordningen, herunder om hvem som er omfattet, fakturering, måling, bindingstid, utbetaling og forbrukstak samt administrering av ordningen.
