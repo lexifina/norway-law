@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av Kommisjonsdelegert forordning (EU) 2022/670
+EØS-avtalen Vedlegg XIII Transport, Kapittel II Veitransport nr. 17kg (forordning (EU) 2022/670 av 2. februar 2022 om utfylling av europaparlaments- og rådsdirektiv 2010/40/EU med hensyn til tilgjengeliggjøring av trafikkinformasjonstjenester i sanntid på EU-plan), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen forøvrig.
