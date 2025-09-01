@@ -1,0 +1,6 @@
+# § 6-1. Klage på enkeltvedtak
+Studenten har rett til å klage på enkeltvedtak fattet av fagskolen. Enkeltvedtak skal være skriftlig og inneholde en begrunnelse. Dersom begrunnelsen ikke følger vedtaket, kan studenten be om få en skriftlig begrunnelse fra instansen som har fattet vedtaket.
+Klagen skal fremsettes skriftlig og sendes til instansen som har fattet det opprinnelige vedtaket (først instans). Klagefristen er tre uker fra det tidspunkt studenten ble gjort kjent med vedtaket, eller burde ha gjort seg kjent med det. Dersom studenten har bedt om begrunnelse for vedtaket, gjelder klagefristen på tre uker fra begrunnelsen er mottatt eller vedkommende på annen måte er gjort kjent med den.
+Dersom første instans ikke finner grunn til å gi klager medhold, skal klagen sammen med relevante dokumenter og uttalelser, oversendes til klageinstans for endelig behandling (andre instans).
+Klageinstansen ved fagskolen er den lokale klagenemnden når enkeltvedtaket er fattet av fagskolen i første instans. Dersom vedtaket er fattet av den lokale klagenemnden i første instans er nasjonal klagenemnd klageinstans.
+Klageinstans skal være uavhengig av første instans. Klagevedtak i andre instans er endelig og kan ikke videre påklages.

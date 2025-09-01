@@ -1,0 +1,4 @@
+# § 1-3. Studentens undersøkelses- og opplysningsplikt
+Studenten plikter å sette seg inn i gjeldende regelverk og retningslinjer ved fagskolen. Dette omfatter fagskoleloven, sentrale og lokale forskrifter, studieplan og spesifikke bestemmelser som gjelder for det utdanningstilbudet studenten følger.
+Studenten plikter å følge med på informasjon som gis i fagskolens kommunikasjonskanaler, spesielt knyttet til vurderingssituasjoner, viktige frister og gjennomføring av studiene.
+Studenten plikter å holde sine kontaktopplysninger oppdatert, herunder navn, postadresse og e-postadresse. Eventuelle endringer skal umiddelbart meldes til fagskolen. Ansvaret for dette ligger hos studenten. Dersom studenten unnlater å oppdatere sine opplysninger, er fagskolen ikke ansvarlig for at viktig informasjon eller vitnemål ikke når frem.

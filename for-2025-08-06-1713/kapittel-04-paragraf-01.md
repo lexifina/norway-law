@@ -1,0 +1,3 @@
+# § 4-1. Vurderingsordning
+Vurderingsordning ved fagskolen skal sikre at studenten vurderes på en systematisk og rettferdig måte i henhold til emnets læringsutbytte. Hver emnebeskrivelse skal beskrive emnets formelle helhetsvurdering av studentens kunnskaper, ferdigheter og generelle kompetanse. Vurderingsordningen kan inneholde obligatoriske aktiviteter og eksamensformer, og kan samlet sett bare lede frem til ett vurderingsuttrykk.
+Vurderingsordning følger fagskolens beskrivelse for læringsaktiviteter og vurdering. Se hver enkelt emnebeskrivelse for gjeldende vurderingsordning. Vurderingsordningen i hvert emne vil bli evaluert eksternt.

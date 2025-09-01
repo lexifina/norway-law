@@ -1,0 +1,4 @@
+# § 2-3. Betinget opptak og betinget tilbud om studieplass
+Fagskolen skal, der det er gitt betinget opptak, så langt det er mulig og rimelig legge til rette for at studenten kan avlegge fag- eller svenneprøve eller utsatt eksamen i videregående opplæring samtidig som utdanningen. Dersom dette ikke lar seg gjennomføre, forlenges det betingede opptaket til neste gang det arrangeres utsatte prøve eller eksamen.
+Studenter som er tatt opp på betinget opptak må selv innen fristen laste opp vitnemål eller bekreftelse på bestått utdanning i fagskolens søknadsportal.
+Studenten som er tatt opp på betinget opptak, og som ikke oppfyller opptakskravet innen utgangen av første semester, mister studieplassen og studieretten. Eksamener avlagt før opptakskravene er dokumentert oppfylt, vil ikke bli godkjent som bestått.
