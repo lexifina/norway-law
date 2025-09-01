@@ -1,0 +1,3 @@
+# § 14. Beskyttelse av aktive hydrotermale strukturer mv.
+Rettighetshaver skal ved undersøkelser ta tilbørlig hensyn til aktive hydrotermale strukturer og naturmangfoldet knyttet til disse, samt større konsentrasjoner av svamper og koraller. Sokkeldirektoratet kan ved enkeltvedtak eller forskrift fastsette nærmere bestemmelser om undersøkelser på og i nærheten av aktive hydrotermale strukturer og større konsentrasjoner av svamper og koraller, herunder bestemmelser om prøvetaking.
+Dersom det identifiseres aktive hydrotermale strukturer eller større konsentrasjoner av svamper og koraller i forbindelse med undersøkelser, skal dette rapporteres til Sokkeldirektoratet. Sokkeldirektoratet kan fastsette nærmere bestemmelser om slik rapportering.

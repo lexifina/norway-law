@@ -1,0 +1,4 @@
+# § 11. Oppbevaringsplikt
+Rettighetshaver skal oppbevare materiale og opplysninger som kan ha betydning for forvaltningen eller som gir nødvendig informasjon om mineralvirksomheten, herunder informasjon om miljø.
+Dersom rettighetshaver ønsker å tilintetgjøre materiale eller opplysninger som skal oppbevares etter første ledd, skal Sokkeldirektoratet ha tilsendt en oversikt over materiale og opplysninger før tilintetgjøring. Sokkeldirektoratet kan innen rimelig tid etter at oversikten er mottatt, pålegge vederlagsfri overlevering til Sokkeldirektoratet, eller videre oppbevaring. Ved overlevering skal tilstrekkelig dokumentasjon over materiale og opplysninger inkluderes.
+For så vidt gjelder miljørelatert materiale og opplysninger skal Sokkeldirektoratet avklare med Miljødirektoratet om rettighetshaver skal pålegges vederlagsfri overlevering eller videre oppbevaring etter andre ledd.

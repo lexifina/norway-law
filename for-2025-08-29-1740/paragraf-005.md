@@ -1,0 +1,7 @@
+# § 5. Meddelelse av opplysninger i forbindelse med undersøkelser mv.
+Sokkeldirektoratet fastsetter nærmere bestemmelser om innsending av opplysninger i forbindelse med undersøkelser, jf. havbunnsmineralloven § 3-3, blant annet om unntak fra fristen i havbunnsmineralloven § 3-3 første ledd.
+Fartøy som foretar geofysisk undersøkelse skal ha fiskerikyndig person om bord når det er nødvendig av hensyn til fiskerivirksomheten i området. I tvilstilfeller har Sokkeldirektoratet i samråd med Fiskeridirektoratet avgjørende myndighet. Sokkeldirektoratet fastsetter nærmere bestemmelser om fiskerikyndig person.
+Sokkeldirektoratet skal sørge for at det finnes en nettside med oppdatert informasjon om geofysiske undersøkelser.
+Etter at den enkelte aktiviteten i medhold av en undersøkelsestillatelse er fullført, skal rettighetshaver sende data, registreringer og resultater fra aktiviteten til Sokkeldirektoratet, jf. § 10 andre ledd. Rettighetshaver skal videre opplyse om resultatene mv. fra undersøkelsen skal være omsettelige.
+Fartøy som utfører undersøkelser skal ha om bord og bruke utstyr som overvåker og rapporterer fartøyets posisjon og bevegelser så lenge undersøkelsesaktiviteten pågår. Sokkeldirektoratet fastsetter nærmere bestemmelser om sporingsutstyr, herunder tilgang til data.
+Havbunnsmineralloven § 3-3 første ledd og denne paragrafen gjelder tilsvarende for undersøkelser som foretas etter en utvinningstillatelse.

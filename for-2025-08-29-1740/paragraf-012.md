@@ -1,0 +1,12 @@
+# § 12. Taushetsplikt
+Opplysninger av enhver art som meddeles myndighetene i forbindelse med søknad om utvinningstillatelse, skal være underlagt taushetsplikt inntil utvinningstillatelsene til de aktuelle områder er tildelt. Deretter skal opplysningene være underlagt taushetsplikt i den utstrekning dette følger av forvaltningsloven i et tidsrom av 20 år, jf. forvaltningsloven § 13c tredje ledd.
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om geologiske forhold i rapporter eller annet materiale som sendes offentlige myndigheter. For data som er underlagt taushetsplikt etter første punktum, skal taushetsplikten ha følgende varighet regnet fra det tidspunkt dataene ble tilgjengelig for eier av dataene:
+a) 10 år for tolkede data
+b) 10 år for data som har vært omsettelige fra det tidspunkt de ble tilgjengelig for eieren
+c) 2 år for øvrige data
+Batymetridata med oppløsning på 20 meter eller mer er ikke underlagt taushetsplikt.
+For data som nevnt i andre ledd som dekker område omfattet av en utvinningstillatelse og eies av rettighetshaver i denne, faller taushetsplikten bort fra det tidspunkt tillatelsen oppgis, bortfaller, utløper eller området hvor dataene stammer fra tilbakeleveres.
+Opplysninger om hvorvidt data skal være omsettelige meddeles Sokkeldirektoratet etter § 5 fjerde ledd. Sokkeldirektoratet kan fastsette hva som anses som omsettelige data. Sokkeldirektoratet kan etter søknad forlenge og forkorte taushetsplikten for data som angitt i andre og sjette ledd.
+For øvrig kommer bestemmelsene om taushetsplikt i forvaltningsloven § 13 til § 13f til anvendelse for forvaltningsorganer som mottar eller behandler opplysninger eller materiale om havbunnsmineralvirksomhet, dog slik at taushetsplikt bortfaller etter 20 år, jf. forvaltningsloven § 13c tredje ledd.
+Bestemmelsene i denne paragraf skal ikke være til hinder for at departementet gir generelle uttalelser om virksomheten og om mulighetene for å finne mineralforekomster, og heller ikke for utveksling av informasjon som forutsatt i lov 3. juni 1994 nr. 15 om Enhetsregisteret og lov 6. juni 1997 nr. 35 om Oppgaveregisteret.
+Bestemmelsen i denne paragraf skal heller ikke være til hinder for utveksling av informasjon med Havindustritilsynet, Miljødirektoratet eller andre myndigheter som departementet utpeker.
