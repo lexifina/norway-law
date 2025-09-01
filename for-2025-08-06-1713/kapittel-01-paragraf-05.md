@@ -1,0 +1,3 @@
+# § 1-5. Fagskolens ansvar
+Fagskolen har ansvar for at all utdanning og vurdering gjennomføres i samsvar med gjeldende lover, forskrift og god faglig praksis. Fagskolen skal sikre at studentens rettigheter ivaretas gjennom tydelig informasjon, forsvarlig saksbehandling og en rettssikker vurderingspraksis. Det er fagskolens ansvar å tilby relevante tjenester og støttefunksjoner som fremmer studentens læring og gjennomføring.
+Styret kan fatte vedtak om å legge ned klasser eller utdanningstilbud dersom det etter styrets vurdering ikke lengre er faglig, økonomisk eller organisatorisk forsvarlig å opprettholde tilbudet. Vedtaket skal fattes før et nytt semester og følges opp av studieadministrasjonen.

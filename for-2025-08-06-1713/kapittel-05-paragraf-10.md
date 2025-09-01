@@ -1,0 +1,5 @@
+# § 5-4-2. Bortvisning
+Dersom en student gjentatte ganger bryter regler om klesplagg, utviser grovt forstyrrende eller uakseptabel oppførsel som skader læringsmiljø eller skolens virksomhet, gis student en skriftlig advarsel av studieadministrasjonen.
+Skriftlig advarsel skal inneholde beskrivelse av hendelse det gis advarsel på, om hvilke regler som er brutt og forventning om fremtidig atferd og hvilke følger det blir om advarselen ikke tas til følge.
+Bortvisning skal som hovedregel begrenses til de arenaer eller situasjoner der den forstyrrende atferden har oppstått. Dette kan innebære at studenten midlertidig blir nektet adgang til fagskolens fysiske områder eller tilgang til fagskolens nettbaserte plattformer tilknyttet utdanningen. Eksamensretten faller ikke bort ved bortvisning.
+Fagskolens lokale klagenemnd kan med minst to tredels flertall fatte vedtak om bortvisning dersom studenten ikke tar advarselen til følge. Bortvisning skal ikke vare lengre enn nødvendig for å ivareta formålet, og maksimalt inntil ett år. Rektor kan midlertidig og inntil klagenemnda er samlet, vedta bortvisning dersom avgjørelse om bortvisning ikke kan vente.

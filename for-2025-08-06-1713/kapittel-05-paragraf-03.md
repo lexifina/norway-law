@@ -1,0 +1,3 @@
+# § 5-1-2. Muntlig høring som kontrolltiltak ved mistanke om fusk
+Ved mistanke om at en innlevert besvarelse eller annet vurderingsgrunnlag ikke er studentens eget arbeid, kan det gjennomføres en muntlig høring som et kontrolltiltak for å vurdere eierskap og selvstendighet.
+Høringen er ikke et formelt varsel om fusk, men kan bidra til å klargjøre studentens tilknytning til arbeidet. Høringen skal gjennomføres etter at sensur er fastsatt og resultatet kan ikke påvirke karakteren. Studieadministrasjonen har ansvar for innkalling, tilrettelegging og gjennomføringen. Vurderingen fra høringen inngår i grunnlaget for eventuell videre behandling som fuskesak.

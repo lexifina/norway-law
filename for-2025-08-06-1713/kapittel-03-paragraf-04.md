@@ -1,0 +1,4 @@
+# § 3-4. Endring i studieplan og emner
+Fagskolen kan foreta justeringer i emner og studieplaner som ledd i faglig utvikling og kvalitetssikring. Slike endringer skal ikke medføre forsinkelser i studentens progresjon eller redusere læringsutbyttet. Studenter som allerede er tatt opp til utdanningen, skal ved vesentlige endringer informeres skriftlig.
+Studenter som følger en utdanning som får vesentlige endringer eller som avsluttes, har rett til å fullføre utdanningen i henhold til opprinnelig plan innenfor fullføringsfrist, med mindre det inngås særskilt avtale om overgang til ny studieplan.
+Studenter som ikke fullfører innen fristen for gammel plan, vil normalt overføres til gjeldende studieplan, forutsatt at dette er faglig og praktisk mulig. Fagskolen fastsetter hvilke emner som eventuelt må tas på nytt, og hva som kan godkjennes etter tidligere gjennomført utdanning.
