@@ -1,0 +1,2 @@
+# § 1. Formål
+Denne forskriften skal gi utfyllende bestemmelser om melding, datainnsamling og dokumentasjon innenfor de områdene under lov 22. mars 2019 nr. 7 om mineralvirksomhet på kontinentalsokkelen (havbunnsmineralloven) og forskrift 29. august 2025 nr. 1740 til havbunnsmineralloven (havbunnsmineralforskriften) som er delegert til Sokkeldirektoratet. Forskriften skal også ivareta hensyn til tredjepart i forbindelse med undersøkelser.
