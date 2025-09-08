@@ -1,0 +1,5 @@
+# § 7-1. Studentråd
+(1) Neste Steg Norge AS har en plikt til å stimulere til at studentene oppretter studentråd som ivaretar deres interesser og fremmer deres synspunkter.
+(2) Styret legger til rette for at studentene kan organisere seg i ulike studentorganer.
+(3) Fagskolen legger forholdene til rette for at studentorganene kan drive arbeidet sitt på en velfungerende måte. Fagskolen stiller til rådighet, et utstyrt kontor til studentorganene. I tillegg disponerer studentorganene fagskolens møterom. Studentorganene tas med på råd når fagskolen bestemmer hva slags tilrettelegging som er nødvendig for at studentorganet skal fungere på en tilfredsstillende måte.
+(4) Rektor er ansvarlig for tilrettelegging for studentorganene som iverksettes innen 4 uker fra oppstart av fagskolen. Fagskolen legger til rettet for at studentene hvert år kan opprette et studentorgan med tillitsvalgt fra hver klasse, som ivaretar deres interesser og fremme deres synspunkter. Fagskolen legger til rette for at studentene er representert i alle kollegiale organer ved fagskolen. Studentorganet skal høres i alle saker som angår studentene.
