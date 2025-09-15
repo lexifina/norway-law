@@ -1,0 +1,2 @@
+# § 15. Innrapportering av annet forbruk enn husholdnings- og fritidsboligforbruk
+Boligselskap med felles oppvarmings- eller ventilasjonssystem, skal rapportere til nettselskapet hvis mer enn 20 prosent av oppvarmet areal benyttes av andre enn boligselskapets husholdninger og/eller fritidsboliger. Rapporteringen skal angi hvor stor andel av oppvarmet areal som benyttes av andre enn boligselskapets husholdninger og/eller fritidsboliger. Rapportering til nettselskapet skal skje uten ugrunnet opphold.

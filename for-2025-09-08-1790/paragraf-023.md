@@ -1,0 +1,6 @@
+# § 23. Fakturering og fakturainformasjon
+Prissikringsbeløpet skal komme til fradrag eller legges til fakturert nettleie fra nettselskapet. Dersom nettleien faktureres separat og prissikringsbeløpet overstiger nettleien, skal det overskytende beløpet utbetales til nettkunden senest ved fakturaforfall.
+Ved gjennomfakturering skal kraftleverandør sørge for at utbetaling til nettkunden skjer gjennom fradrag på faktura. Dersom prissikringsbeløpet overstiger nettleien, skal nettselskapet overføre overskytende beløp til kraftleverandøren. Dersom nettkunden skal betale inn prissikringsbeløp, skal kraftleverandøren overføre dette beløpet til nettselskapet.
+Dersom nettkunden deltar i ordning for sikring av strømpris, skal dette tydelig fremkomme av nettkundens faktura.
+Informasjon om forbruk som er omfattet av ordning for sikring av strømpris skal fremgå av fakturaen fra nettselskapet eller kraftleverandøren som utfører gjennomfakturering. Det skal fremgå tydelig av fakturaen om nettkunden får utbetalt eller må betale inn et prissikringsbeløp. Netto prissikringsbeløp skal fremgå tydelig av fakturaen. Det skal gis informasjon til nettkunden om at prissikringsverdier time for time offentliggjøres av Reguleringsmyndigheten for energi.
+For nettselskap med leveringsplikt etter energiloven § 3-3 gjelder første, tredje og fjerde ledd tilsvarende.

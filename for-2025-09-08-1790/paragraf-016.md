@@ -1,0 +1,2 @@
+# § 16. Innrapportering av overskridelse av forbrukstak for husholdningsforbruk eller fritidsboligforbruk
+Dersom felles husholdningsforbruk i et boligselskap samlet overstiger 5 000 kWh per boenhet i boligselskapet per måned, eller overstiger 1 000 kWh per fritidsbolig i boligselskapet per måned, skal boligselskapet innrapportere antall boenheter/fritidsboliger i boligselskapet til nettselskapet uten ugrunnet opphold.

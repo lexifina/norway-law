@@ -1,0 +1,6 @@
+# § 8. Avbestillingsrett
+Nettkunden kan avbestille ordning for sikring av strømpris inntil 14 dager fra registeransvarlig har mottatt bestillingen. Dersom nettkunden benytter seg av avbestillingsretten, vil retten til ordning for sikring av strømpris bortfalle for de dagene før nettkunden benyttet seg av avbestillingsretten.
+Dersom nettkunden bestiller ordning for sikring av strømpris før ny referansepris trer i kraft, gjelder avbestillingsretten i 14 dager fra første dag i ny prisperiode.
+Dersom referanseprisen endres i løpet av prisperioden, har nettkunden rett til å avbestille ordning for sikring av strømpris i 14 dager fra ny referansepris trer i kraft. Nettselskapet skal informere nettkunden direkte om prisendringen og nettkundens avbestillingsrett.
+For å benytte seg av avbestillingsretten, må nettkunden identifisere seg med elektronisk ID hos registeransvarlig og bekrefte avbestillingen. Nettkunder som ikke har mulighet til å avbestille hos registeransvarlig skal sende avbestilling skriftlig til sitt nettselskap. Avbestillingen gjelder fra den datoen avbestillingen ble poststemplet. Dersom avbestillingen ikke er poststemplet, gjelder avbestillingen fra den datoen nettselskapet mottar avbestillingen.
+Ved avbestilling av ordning for sikring av strømpris skal nettkunden uten ugrunnet opphold motta bekreftelse på avbestilling.
