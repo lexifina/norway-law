@@ -1,0 +1,6 @@
+# § 2. Organisasjon og vedtak
+Energiklagenemnda skal bestå av en leder i tillegg til 4 til 6 medlemmer.
+Lederen skal ha juridisk embetseksamen, mastergrad i rettsvitenskap, eller mastergrad eller tilsvarende i økonomi. Lederen oppnevnes av Kongen i statsråd på åremål i seks år, og kan gjenoppnevnes én gang. De øvrige medlemmene av Energiklagenemnda oppnevnes av Kongen i statsråd for fire år, og kan gjenoppnevnes. Lederen og andre nemndsmedlemmer kan bare fratas vervet dersom de ikke er i stand til å utføre det på en forsvarlig måte, eller dersom de ved gjentatte tilfeller, og på tross av en skriftlig advarsel, ikke utfører vervet på en forsvarlig måte.
+Når Energiklagenemnda skal treffe enkeltvedtak, settes den med tre medlemmer. I særlige tilfeller kan lederen beslutte at enkeltvedtak skal treffes av en forsterket nemnd på fem medlemmer. Lederen fastsetter sammensetningen av nemnda i hver enkelt sak.
+Energiklagenemnda treffer enkeltvedtak ved alminnelig flertall. Det skal opplyses om enstemmighet. Ved dissens skal det opplyses hvem som er uenig, og hvilke punkter uenigheten gjelder.
+Energiklagenemndas sekretariat skal utføre de oppgavene som lederen pålegger, som fremgår av denne forskriften eller av instruks.
