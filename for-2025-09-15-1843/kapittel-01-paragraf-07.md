@@ -1,0 +1,6 @@
+# § 1-7. Studentens tilstedeværelsesplikt og obligatorisk deltakelse
+(1) Fagskolen Tirnas utdanninger har ikke obligatorisk undervisning med mindre annet er fastsatt i studieplanen.
+(2) Ved ugyldig fravær fra obligatorisk undervisning fastsatt i studieplan vil studenten ikke bli vurdert i emnet. Studenten må gjennomføre obligatorisk undervisning og avlegge emneeksamen for å få fullført emnet. Alle emner må være fullført og bestått for at studenten skal kunne motta vitnemål for utdanningen.
+(3) Dersom en student ikke gjennomfører obligatorisk ferdighetstrening uten dokumentert grunnlag, vurderes emnet som ikke bestått. Ved ikke bestått emne har studenten rett til å ta opp emnet innen utgangen av de to påfølgende semestrene.
+(4) Fravær fra praksis som skyldes sykdom, ulykke, uforutsette hendelser eller lignende med dokumentert grunnlag, kan etter skriftlig søknad til fagskolen gi fritak for tilstedeværelsesplikten. Fritak kan likevel ikke innvilges før etter minimum 50 % gjennomført praksis, samt gjennomført og bestått midtevaluering. Vedtaket kan påklages i henhold til kapittel 9 i denne forskrift.
+(5) Udokumentert fravær utover 10 % i praksistiden kan medføre at praksis vurderes til ikke bestått.

@@ -1,0 +1,4 @@
+# § 1-4. Innhenting og behandling av personopplysninger
+(1) Fagskolen Tirna vil behandle personopplysninger om søkere og studenter når formålet med behandlingen er å ivareta den registrertes rettigheter, eller å oppfylle skolens plikter etter fagskoleloven. Innhenting av opplysningene kan skje elektronisk.
+(2) Fagskolen Tirna vil også behandle opplysninger om helse, sosiale forhold og andre sensitive opplysninger når disse opplysningene er nødvendige for formål som nevnt i første ledd. Retten begrenser seg til opplysninger studenten selv har gitt skolen, eller har samtykket til at skolen skal få. Begrensningene gjelder ikke for nødvendig behandling etter fagskoleloven § 26, Vurdering av skikkethet.
+(3) Fagskolen Tirna rapporterer opplysninger som nevnt i første ledd til database for statistikk om fagskoleutdanning (DBH-F), jf. fagskoleloven § 42 andre ledd og fagskoleforskriften § 6.
