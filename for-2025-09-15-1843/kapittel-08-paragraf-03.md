@@ -1,0 +1,6 @@
+# § 8-3. Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet
+(1) Studenter og ansatte skal ikke bruke klesplagg som helt eller delvis dekker ansiktet i forbindelse med undervisning eller tilsvarende, inkludert på turer, ekspedisjoner og lignende i tilknytning til utdanningsinstitusjonens undervisning. Forbudet gjelder ikke når bruken av slike plagg er begrunnet i klimatiske, pedagogiske, læringsmessige, helsemessige eller sikkerhetsmessige forhold.
+(2) En student som tross skriftlig advarsel har brukt klesplagg som helt eller delvis dekker ansiktet i strid med første ledd, kan bortvises i inntil ett år. Hvis studenten til tross for skriftlig advarsel ikke etterkommer et vedtak om bortvisning, kan studenten utestenges fra utdanningen i inntil ett år. Vedtak om bortvisning kan treffes av rektor eller den rektor bemyndiger. Vedtak om utestengning treffes av lokal klagenemnd.
+(3) Vedtak om bortvising kan påklages til lokal klagenemnd, jf. fagskoleloven § 20 og denne forskriften kapittel 9.
+(4) Vedtak om utestengning kan påklages til nasjonalt klageorgan for fagskoleutdanning, jf. fagskoleloven § 20 og denne forskriften kapittel 9.
+(5) Dersom en ansatt opptrer i strid med forbudet i første ledd, skal den ansatte bes om å fjerne klesplagget som dekker ansiktet. Gjentatte brudd på forbudet kan være grunnlag for oppsigelse.

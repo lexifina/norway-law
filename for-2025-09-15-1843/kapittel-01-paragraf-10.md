@@ -1,0 +1,6 @@
+# § 1-10. Permisjon fra utdanningen
+(1) En student har rett til permisjon fra utdanningen når de er i tjeneste etter forsvarsloven § 17 eller, når de har verv i studentpolitiske eller folkevalgte organer. Videre kan en student søke om permisjon dersom tungtveiende grunner gjør det nødvendig, for eksempel alvorlig sykdom eller forhold i hjemmet. Studenten skal få permisjon så lenge behovet tilsier det, og behovet må kunne dokumenteres.
+(2) Søknaden fremmes skriftlig. Vedtak fattes av rektor, eller den rektor har bemyndiget. Vedtaket skal være skriftlig og begrunnet. Vedtaket kan påklages, i henhold til denne forskriftens kapittel 9.
+(3) Ved tiltredelse av utdanningen etter permisjon vil studenten tre inn etter sist fullførte emne. Det tas forbehold om at utdanningen starter på ny og at det ikke er gjort vesentlige endringer i studieplanen. Dersom studieplanen er vesentlig endret, vil studenten måtte starte utdanningen på ny med mindre allerede fullførte og beståtte emner tilfredsstiller kriterier for fritak eller godskriving.
+(4) Permisjon fra utdanningen fritar ikke studenten fra økonomiske forpliktelser i henhold til studiekontrakten.
+(5) Studenten har selv ansvar for å gjøre avtaler med fagskolen om det videre studieforløpet.
