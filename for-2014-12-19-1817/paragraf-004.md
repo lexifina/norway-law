@@ -1,0 +1,5 @@
+# § 4. Tilskudd til jordbruksareal
+Det kan gis areal- og kulturlandskapstilskudd for fulldyrket og overflatedyrket jord samt innmarksbeite som foretaket disponerer og driver aktivt på det tidspunkt eller i den perioden som fremgår av jordbruksavtalen.
+Det kan gis ytterligere tilskudd for de arealene som drives økologisk i samsvar med produksjonskravene i forskrift 11. juni 2022 nr. 1171 om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m.
+Tilskuddet skal avkortes dersom det på, eller i tilknytning til arealet foretaket disponerer foretas inngrep som forringer kulturlandskapet. Det skal likevel bare avkortes for inngrep på eiendom som foretaket helt eller delvis disponerer. Dersom annet regelverk ikke er til hinder for det, kan kommunen likevel forhåndsgodkjenne inngrepet dersom det avhjelper betydelige driftsmessige ulemper.
+Tilskuddet skal avkortes dersom jordbruksarealet ikke har vegetasjonssone på minst to meter mot vassdrag med årssikker vannføring, målt horisontalt fra vassdragets normalvannstand. Vegetasjonssonen kan ikke jordarbeides.

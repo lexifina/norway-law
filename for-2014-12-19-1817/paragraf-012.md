@@ -1,0 +1,2 @@
+# § 12. Avkorting ved feilopplysninger
+Dersom foretaket uaktsomt eller forsettlig har gitt feil opplysninger i søknaden som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet for seg selv eller andre, kan hele eller deler av det samlede tilskuddet som tilfaller foretaket avkortes. Tilskuddet kan også avkortes dersom foretaket ikke overholder de frister som kommunen, statsforvalteren eller Landbruksdirektoratet har satt for å kunne utføre sine kontrolloppgaver i medhold av § 10.

@@ -1,0 +1,6 @@
+# § 7. Utmåling
+Tilskudd utmåles på basis av det dyretall og areal som hvert enkelt foretak disponerer og i samsvar med vilkår, satser, soner, definisjoner m.m. fastsatt i eller i medhold av jordbruksavtalen.
+Foretak som reelt sett inngår i én felles virksomhet eller på annen måte oppnår skalafordeler gjennom samarbeid og søker tilskudd til samme produksjon (driftsfellesskap), kan få beregnet tilskudd for det samlede dyretall og areal som disponeres innenfor driftsfellesskapet. Dersom foretakene uaktsomt eller forsettlig har unnlatt å opplyse om at de er i driftsfellesskap, skal tilskuddet avkortes.
+Alle typer husdyrproduksjoner anses som samme produksjon etter annet ledd. Planteproduksjoner innenfor én vekstgruppe, slik disse til enhver tid er definert i medhold av jordbruksavtalen, anses å være samme produksjon.
+Selv om flere foretak inngår i et driftsfellesskap etter annet ledd, kan de likevel gis selvstendige tilskudd dersom foretakenes beregnede tilskudd ikke samlet overstiger hva de ville fått utmålt som én enhet.
+Driftsfellesskap etter annet ledd skal alltid anses å foreligge dersom landbruksmyndighetene endelig har konstatert at det foreligger forhold som utløser konsesjonsplikt etter lov 16. januar 2004 nr. 5 om svine- og fjørfeproduksjon § 3.
