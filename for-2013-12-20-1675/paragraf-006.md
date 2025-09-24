@@ -1,0 +1,8 @@
+# § 6. Fastsettelse av administrativ inndragning ved biomasseoverskridelser og antallsbegrensning på produksjonsenhetsnivå
+Ved inndragning av utbytte for overtredelse av forskrift om drift av akvakulturanlegg § 47, § 47a, § 48, § 48a, § 48b og 48c legges følgende til grunn for beregning av netto utbytte:
+Salgsprisen per kilogram multiplisert med antall kilogram ulovlig stående biomasse, fratrukket fôrkostnader og andre variable kostnader.
+- Med salgspris menes gjennomsnittlig pris på overtredelsestidspunktet basert på offisiell statistikk fra Sjømatrådet, omregnet fra levende vekt til sløyd fisk med 0,83 for laks og 0,82 for regnbueørret.
+- Med fôrkostnad menes den ulovlige produserte biomassen i kilogram multiplisert med gjennomsnittlig økonomisk fôrfaktor igjen multiplisert med gjennomsnittlig pris per kilogram fôr slik de fremkommer i siste tilgjengelige utgave av Fiskeridirektoratets lønnsomhetsundersøkelse for produksjon av laks og regnbueørret på overtredelsestidspunktet.
+- Med andre variable kostnader menes gjennomsnittlige forsikringskostnader og slaktekostnader inklusiv fraktkostnader per kilogram ulovlig produsert biomasse ifølge siste utgave av Fiskeridirektoratets lønnsomhetsundersøkelse for produksjon av laks og regnbueørret på overtredelsestidspunktet.
+Den ansvarlige for overtredelsen skal gis anledning til å dokumentere reelle variable kostnader, herunder fôrkostnader og oppnådd salgspris. Dersom den ansvarlige for overtredelsen gjennom tilstrekkelig dokumentasjon sannsynliggjør slike kostnader, skal disse legges til grunn i stedet for satsene i første ledd.
+Tilsvarende skal legges til grunn for overtredelse av forskrift for fangstbasert akvakultur § 4 første og fjerde ledd, § 8 og § 19, så langt det passer.
