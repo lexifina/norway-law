@@ -1,0 +1,2 @@
+# § 3. Godkjenningsmyndigheten
+Godkjenningsmyndighet for utsetting etter genteknologiloven § 10 er Klima- og miljødepartementet eller den departementet bemyndiger. Dette gjelder ikke godkjenning av klinisk utprøving av GMO-legemidler til mennesker. Disse godkjennes av Helse- og omsorgsdepartementet eller den departementet bemyndiger. Godkjenningsmyndighet for innesluttet bruk etter genteknologiloven § 7 jf. § 8 er Helse- og omsorgsdepartementet eller den departementet bemyndiger.

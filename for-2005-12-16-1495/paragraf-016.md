@@ -1,0 +1,4 @@
+# § 16. Konsekvensutredning iht. genteknologiloven § 8
+Konsekvensutredningen skal i nødvendig utstrekning og så langt det er mulig gi en beskrivelse av det tiltak det søkes godkjenning for og redegjøre for sannsynligheten for og omfanget av de miljø- og folke- og dyrehelsemessige virkninger som kan oppstå på grunn av tiltaket og utilsiktet spredning fra dette. Godkjenningsmyndigheten for innesluttet bruk avgjør i hvorvidt og i hvilken grad vedlegg 1-4 kommer til anvendelse på konsekvensutredningen. Avgjørelsen kan ikke påklages.
+Konsekvensutredningen skal videre beskrive hvilke beredskapstiltak, herunder eventuelle rense- eller desinfeksjonsmetoder, som kan iverksettes for å begrense eller avbøte uheldige miljø- og folke- og dyrehelsemessige virkninger ved utilsiktet utslipp eller spredning.
+Konsekvensutredningen skal videre angi planene for etterbehandling av produksjonsutstyret/det området som kan bli berørt av utilsiktet utslipp og for behandling av avfallet.

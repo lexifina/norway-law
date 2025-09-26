@@ -1,0 +1,4 @@
+# § 2. Formålet med konsekvensutredningen, undersøkelses- og rapporteringsplikten
+Konsekvensutredning etter genteknologiloven skal danne grunnlag for vurderinger av risikoen for miljø- og folke- og dyrehelsemessige skadevirkninger, og andre følger av det godkjenningspliktige tiltak. Konsekvensutredningen skal sikre at søker tar disse i betraktning forut for gjennomføringen av tiltaket og at godkjenningsmyndigheten får et best mulig beslutningsgrunnlag når den skal ta stilling til om, og eventuelt på hvilke vilkår, godkjenning kan gis.
+Undersøkelsene skal bekrefte at antakelser i konsekvensutredningen om forekomst og omfang av potensielle skadevirkninger av den genmodifiserte organismen eller bruken av den er korrekte, og identifisere skadevirkninger som ikke ble forutsett i konsekvensutredningen.
+Rapporteringen skal bidra til å sikre at godkjenning av utsetting og evt. vilkår endres dersom ny informasjon tilsier det.
