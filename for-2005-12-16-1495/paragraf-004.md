@@ -1,0 +1,3 @@
+# § 4. Konsekvensutredning ved utsettingssøknader
+Konsekvensutredning for utsetting skal foreligge samtidig med søknaden om godkjenning etter genteknologiloven § 10, jf. § 11. Godkjenningsmyndigheten skal gi søker skriftlig bekreftelse på dato for mottak av søknad og konsekvensutredning.
+Der det er i overensstemmelse med anbefalinger fra Vitenskapskomiteen for mat og miljø og Den europeiske myndighet for næringsmiddeltrygghet, eller der produktet fyller et spesielt stort udekket behov og hvor behovet ikke kan dekkes på annen måte, kan godkjenningsmyndigheten lempe på kravene til vurdering av helse- og miljøkonsekvenser i tråd med genteknologiloven § 11 fjerde og femte ledd.
