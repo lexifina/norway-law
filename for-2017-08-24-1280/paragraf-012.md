@@ -1,0 +1,5 @@
+# § 12. Fordeling av verv ved flertallsvalg
+Styremedlemmer, observatører og varamedlemmer er valgt i den rekkefølge stemmetallene tilsier.
+Ved stemmelikhet avgjøres valget ved loddtrekning.
+Dersom det skal velges to eller flere styremedlemmer i et selskap med 200 eller færre ansatte og fremgangsmåten for fordeling av verv fører til at kun ett kjønn blir representert, rykker nærmeste kandidat på listen fra et ikke representert kjønn opp i det omfang som er nødvendig for å sikre at flere kjønn blir representert. Det samme gjelder for varamedlemmer. Dette gjelder likevel ikke dersom mer enn 80 prosent av de ansatte i selskapet på valgtidspunktet har samme kjønn.
+Når det skal velges styremedlemmer i selskaper med flere enn 200 ansatte, og fremgangsmåten for fordeling av verv fører til at kjønnene ikke blir representert i samsvar med lov om interkommunale selskaper § 10 første ledd, rykker nærmeste kandidat på listen fra et underrepresentert kjønn opp i det omfang som er nødvendig for å oppfylle lovens krav.

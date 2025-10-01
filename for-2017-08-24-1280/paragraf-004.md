@@ -1,0 +1,6 @@
+# § 4. Endring og opphør av de ansattes styrerepresentasjon
+Utvidelse av de ansattes representasjon som følge av økning i antall ansatte, jf. lov om interkommunale selskaper § 10 niende ledd, skjer når funksjonstiden for de ansattes styremedlemmer, observatører og varamedlemmer utløper.
+Styret kan beslutte at de ansattes rett til representasjon etter lov om interkommunale selskaper § 10 åttende ledd skal opphøre dersom selskapet har 30 ansatte eller færre.
+Styret kan beslutte at de ansattes rett til representasjon etter jf. lov om interkommunale selskaper § 10 niende ledd skal opphøre dersom selskapet har 50 ansatte eller færre.
+De ansattes styrerepresentasjon opphører når funksjonstiden for de ansattes styremedlemmer og varamedlemmer utløper. Representasjon etter lov om interkommunale selskaper § 10 åttende ledd etableres samtidig med opphør av representasjon etter lov om interkommunale selskaper § 10 niende ledd.
+Styret kan beslutte at de ansattes rett til representasjon etter lov om interkommunale selskaper § 10 tiende ledd skal opphøre dersom selskapet har 200 ansatte eller færre. De ansattes styrerepresentasjon opphører når funksjonstiden for de ansattes styremedlemmer, observatører og varamedlemmer utløper.
