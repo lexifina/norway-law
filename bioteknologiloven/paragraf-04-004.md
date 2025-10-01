@@ -1,0 +1,3 @@
+# § 4-4. Informasjon og genetisk veiledning
+Ved fosterdiagnostikk skal kvinnen eller paret før undersøkelsen gis informasjon som blant annet skal omfatte at undersøkelsen er frivillig, hvilken risiko som er forbundet med gjennomføringen av undersøkelsen, hva undersøkelsen kan avdekke og hvilke konsekvenser dette kan få for barnet, kvinnen, paret og familien. Dersom det er mistanke om genetisk sykdom skal kvinnen eller paret også gis genetisk veiledning.
+Hvis undersøkelsen viser at fosteret kan ha en sykdom eller et utviklingsavvik, skal kvinnen eller paret gis informasjon og genetisk veiledning om den aktuelle sykdommen eller funksjonshemmingen, samt om gjeldende rettigheter og aktuelle hjelpetiltak.

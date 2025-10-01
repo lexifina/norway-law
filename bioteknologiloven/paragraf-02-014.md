@@ -1,0 +1,4 @@
+# § 2-14. Opplæring og kvalitetssikring
+Ubefruktede egg som er hentet ut i forbindelse med befruktning utenfor kroppen, men som ikke egner seg for dette formål, kan anvendes til opplæring i og kvalitetssikring av etablerte metoder for assistert befruktning. Eggene skal destrueres etter endt forsøk.
+Overtallige befruktede egg kan anvendes til opplæring i og kvalitetssikring av etablerte metoder for assistert befruktning og preimplantasjonsdiagnostikk. Vilkårene for forskning på overtallige befruktede egg i § 3-2 annet, tredje og fjerde ledd gjelder tilsvarende.
+Ubefruktede og befruktede egg som nevnt i første og annet ledd kan bare anvendes til opplæring og kvalitetssikring etter frivillig, uttrykkelig og informert samtykke fra kvinnen eller paret som mottar fertilitetsbehandling. Frivillig, uttrykkelig og informert samtykke skal også innhentes fra sæd- eller eggdonor dersom det benyttes donorsæd eller donoregg.
