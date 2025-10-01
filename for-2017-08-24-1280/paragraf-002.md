@@ -1,0 +1,5 @@
+# § 2. De ansattes rett til å bli representert i styret
+Dersom selskapet har 30 ansatte eller færre, har representanter for de ansatte i selskapet tilsvarende møterett i styret som etter kommuneloven § 26 nr. 1, jf. lov om interkommunale selskaper § 10 sjuende ledd.
+Dersom selskapet har flere enn 30 ansatte kan et flertall av de ansatte kreve at ett styremedlem og en observatør med varamedlemmer velges av og blant de ansatte, jf. lov om interkommunale selskaper § 10 åttende ledd.
+Dersom selskapet har flere enn 50 ansatte kan et flertall av de ansatte kreve at inntil en tredjedel men minst to, av styrets medlemmer med varamedlemmer velges av og blant de ansatte, jf. lov om interkommunale selskaper § 10 niende ledd.
+Dersom selskapet har flere enn 200 ansatte skal de ansatte velge ett styremedlem med varamedlem i tillegg til den representasjonen som følger av foregående ledd. Det kan inngås avtale mellom selskapet og et flertall av de ansatte eller lokal fagforening som representerer to tredeler av de ansatte om at det isteden skal velges to observatører og varamedlemmer, jf. lov om interkommunale selskaper § 10 tiende ledd.
