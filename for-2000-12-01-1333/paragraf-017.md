@@ -1,0 +1,4 @@
+# § 17. Vilkår for import
+Planter og andre smittebærende emner nevnt i vedlegg 4A kan bare importeres dersom de oppfyller kravene i vedlegget. I tillegg skal sendinger med planter og formeringsmateriale være praktisk talt fri for andre planteskadegjørere.
+Det er forbudt å nytte planter og plantedeler til planting når det ved importen er oppgitt at plantematerialet skal nyttes til annet formål.
+Ved import av brukte maskiner og redskaper som skal benyttes i jord-, skog- eller hagebruk, og brukt tomemballasje som skal benyttes til planter og plantedeler, skal det foreligge attestasjon om at disse er rengjort og eventuelt desinfisert, og er fri for jord, planterester og smitte av planteskadegjørere. Slik attestasjon skal være utstedt av eksportlandets planteinspeksjonstjeneste eller annen offentlig landbruksmyndighet.
