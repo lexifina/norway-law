@@ -1,0 +1,3 @@
+# § 21 a. (Anmodning om å gjennomføre tiltak)
+Enhver kan anmode tilsynsmyndigheten om å gi pålegg eller treffe tiltak etter §§ 20 til 21. Tilsynsmyndigheten har plikt til å vurdere en anmodning som er fremsatt av en fysisk eller juridisk person, som berøres eller ventes å bli berørt av helse- eller miljømessige skadevirkninger, eller som har tilstrekkelig interesse i saken. Anmodningen må underbygges med opplysninger som sannsynliggjør at det foreligger helse- eller miljømessige skadevirkninger eller overhengende fare for slike.
+Tilsynsmyndighetens avgjørelse på grunnlag av anmodning som nevnt i første ledd annet punktum er enkeltvedtak også dersom pålegg ikke gis.

@@ -1,0 +1,2 @@
+# § 15. Vilkår i en godkjenning
+I en godkjenning etter §§ 6 annet ledd, 7 eller 10, eller i en dispensasjon etter § 11 b, kan det fastsettes vilkår. Slike vilkår kan gjelde bl.a. valg av tekniske framgangsmåter og innsatsfaktorer som er best ut fra hensynet til helse og miljø, plikt til å tegne forsikring eller stille sikkerhet for ansvar etter §§ 21 og 23 og tiltak for å forebygge eller begrense mulige skadevirkninger. Godkjenningen kan gjøres tidsbegrenset.
