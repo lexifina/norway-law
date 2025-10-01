@@ -1,0 +1,6 @@
+# § 5. Endring og opphør av de ansattes representasjon
+Utvidelse av de ansattes representasjon som følge av økning i antall ansatte, jf. selskapsloven § 2-9 andre ledd, skjer når funksjonstiden for de ansattes medlemmer og varamedlemmer utløper.
+Selskapsmøtet kan beslutte at de ansattes rett til representasjon etter selskapsloven § 2-9 første ledd skal opphøre dersom selskapet i de tre siste regnskapsår gjennomsnittlig har hatt færre enn 30 ansatte.
+Selskapsmøtet kan beslutte at de ansattes rett til representasjon etter selskapsloven § 2-9 andre ledd skal opphøre dersom selskapet i de tre siste regnskapsår gjennomsnittlig har hatt færre enn 50 ansatte.
+Selskapsmøtet kan beslutte at de ansattes rett til representasjon etter selskapsloven § 2-9 tredje ledd skal opphøre dersom selskapet i de tre siste regnskapsår gjennomsnittlig har hatt færre enn 200 ansatte.
+De ansattes representasjon opphører når funksjonstiden for de ansattes medlemmer og varamedlemmer utløper. Representasjon etter selskapsloven § 2-9 første ledd etableres samtidig med opphør av representasjon etter statsforetaksloven § 2-9 andre ledd, og representasjon etter selskapsloven § 2-9 andre ledd etableres samtidig med opphør av representasjon etter statsforetaksloven § 2-9 tredje ledd.

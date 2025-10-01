@@ -1,0 +1,4 @@
+# § 2. Næringsmessig avgrensning
+Selskapslovens bestemmelser om ansattes rett til representasjon selskapsmøte og styre gjelder for alle selskaper, med unntak av selskaper som driver bank- og finansieringsvirksomhet, forsikringsvirksomhet, forlegging av aviser og formidling av nyheter og annet stoff til presse, kringkasting mv. (nyhetsbyråer).
+Selskap som driver virksomhet som hører under flere næringer, er omfattet av reglene om ansattes rett til representasjon med mindre et flertall av de ansatte arbeider i næringer som er unntatt. Det samlede antall ansatte i selskapet er avgjørende for når de ansatte kan kreve representasjon i selskapsmøtet eller styret, og når et kommandittselskap skal ha styre.
+Det samme gjelder for konserner eller grupper av selskaper som driver virksomhet som hører under flere næringer.
