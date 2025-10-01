@@ -1,0 +1,2 @@
+# § 20. Pålegg om stans av virksomhet
+Tilsynsmyndigheten kan gi pålegg om øyeblikkelig stans av virksomhet som utføres i strid med loven eller vedtak i medhold av loven. Det samme gjelder dersom framstilling og bruk av genmodifiserte organismer i medhold av loven eller vedtak i medhold av loven, viser seg å medføre fare for helse- eller miljømessige skadevirkninger. Om nødvendig kan pålegg om stans gjennomføres med hjelp fra politiet.

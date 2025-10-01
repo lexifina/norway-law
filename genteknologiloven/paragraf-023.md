@@ -1,0 +1,3 @@
+# § 23. Erstatning
+Den som er ansvarlig for virksomhet etter loven her, har erstatningsansvar uten hensyn til egen skyld, når virksomheten ved utsetting eller utslipp i miljøet av genmodifiserte organismer volder skade, ulempe eller tap.
+For øvrig gjelder reglene i forurensningsloven kapittel 8 om erstatning for forurensningsskade så langt de passer. Tilsynsmyndighetene etter loven her, trer istedenfor forurensningsmyndighetene i forurensningsloven § 58. Den som har myndighet til å gi en godkjenning etter loven her, trer istedenfor forurensningsmyndigheten i forurensningsloven § 63 annet og tredje ledd.

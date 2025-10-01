@@ -1,0 +1,2 @@
+# § 5. Definisjon
+Med innesluttet bruk menes enhver arbeidsoperasjon hvor genmodifiserte organismer blir framstilt, dyrket, lagret, destruert eller brukt på annen måte, i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet.

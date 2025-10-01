@@ -1,0 +1,8 @@
+# § 10. Krav om godkjenning
+Utsetting av genmodifiserte organismer kan bare skje etter godkjenning av Kongen. Utsetting som nevnt i § 9 bokstav a, b, c og f skal som hovedregel bare kunne skje trinnvis. Et produkt kan ikke godkjennes for omsetning før det er tilfredsstillende utprøvd i naturmiljøer som vil bli berørt av den planlagte bruk. Det kreves ikke godkjenning av annen utsetting av et produkt som er godkjent for omsetning etter denne bestemmelsen.
+Utsetting av genmodifiserte organismer kan bare godkjennes når det ikke foreligger fare for miljø- og helsemessige skadevirkninger. Ved avgjørelsen skal det dessuten legges vesentlig vekt på om utsettingen har samfunnsmessig nytteverdi og er egnet til å fremme en bærekraftig utvikling.
+Utsetting som nevnt i § 9 bokstav a kan godkjennes uten noen vurdering av etikk, samfunnsnytte eller bærekraft.
+Ved søknad om klinisk utprøving av legemidler til mennesker skal det ikke gjøres noen vurdering etter denne loven av etikk, samfunnsnytte eller bærekraft.
+Kongen kan ved forskrift bestemme at utsetting som nevnt i § 9 bokstav g og h kan skje uten forutgående godkjenning når nærmere fastsatte vilkår er oppfylt, f.eks. vilkår om særskilt emballasje og merking av produkter. Det kan bestemmes at slik utsetting i stedet skal være meldepliktig.
+Det kreves ikke godkjenning av eller melding om eksport, med mindre annet er bestemt ved forskrift gitt av Kongen.
+Kongen kan i forskrift bestemme at bestemte typer genmodifiserte organismer kan settes ut i bestemte miljøer uten godkjenning etter første ledd første punktum. Slik utsetting skal i stedet være meldepliktig.

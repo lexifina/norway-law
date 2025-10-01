@@ -1,0 +1,2 @@
+# § 10 a. Godkjenning av et produkt som er godkjent i et annet EØS-land
+Det kreves ikke godkjenning for omsetning av et produkt som er godkjent for omsetning i et annet EØS-land etter reglene fastsatt i EØS-avtalen vedlegg XX punkt 25d (rådsdirektiv 2001/18/EF). Myndighetene etter loven her kan forby eller begrense omsetning som medfører risiko for helse eller miljø, eller som for øvrig er i strid med denne lovs formål. Produktet er tillatt omsatt i Norge inntil norske myndigheter eventuelt nedlegger forbud.
