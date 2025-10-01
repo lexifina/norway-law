@@ -1,0 +1,16 @@
+# § 10-9. Gjennomføring av skriftlig eksamen under tilsyn
+(1) Kandidaten har ikke adgang til eksamenslokalet før eksamensinspektørene er på plass.
+(2) I eksamenslokalet må kandidatens vesker og yttertøy plasseres på anvist sted. Bare skrivesaker samt tillatte hjelpemidler tas med til anvist plass. Det er kandidatens eget ansvar å sørge for å skaffe seg de tillatte hjelpemidlene. Lån av hjelpemidler fra andre kandidater er ikke tillatt.
+(3) Kandidaten må være på plass i eksamenslokalet senest 20 minutter før eksamen starter dersom eksamensbesvarelsen skrives for hånd, og senest 30 minutter før eksamen starter dersom eksamen gjennomføres digitalt. Ved digital eksamen er det anledning til å sperre lokalene for ankomst av studenter mellom 20 og 30 minutter før eksamensstart. Se rutiner for gjennomføring av eksamen under tilsyn ved Fjellhaug Internasjonale Høgskole for detaljer. For sent fremmøte kan føre til at kandidaten ikke får avlegge eksamen. Ingen kandidater skal gis adgang til eksamenslokalet mer enn 30 minutter etter at eksamen er begynt.
+(4) Kandidaten skal vise studentlegitimasjon eller annen gyldig legitimasjon med foto og signere kandidatliste, samtidig som kandidatnummer blir tildelt. Kandidater som ikke kan legitimere seg, får ikke adgang til eksamen.
+(5) Det er ikke tillatt å gjøre nytte av mobiltelefon eller andre kommunikasjonsmedier under eksamen og heller ikke bringe disse med til anvist plass.
+(6) Det er ikke tillatt med noen form for kommunikasjon mellom kandidatene under eksamen. Dersom kandidaten har spørsmål, skjer henvendelsen til en av eksamensinspektørene.
+(7) De første 30 minutter etter at oppgaven er utlevert har kandidatene ikke adgang til å trekke seg fra eksamen eller forlate eksamenslokalet.
+(8) Etter at kandidatene har inntatt anvist plass i eksamenslokalet, kan de ikke forlate denne uten adgang fra inspektør.
+(9) Kandidatene har til disposisjon den oppgitte eksamenstid. Dersom eksamensbesvarelsen skrives for hånd gis det i tillegg 15 minutter til klargjøring og innlevering av oppgaven. Kandidater som fortsetter å arbeide etter at den disponible tid er ute, vil bli rapportert til sensorene.
+(10) Alle studenter skal ha egen bærbar datamaskin til bruk ved eksamen. Eksamensbesvarelsen leveres inn via det studieadministrative verktøyet som høgskolen anvender ved eksamensavviklingen.
+(11) Studiesjef kan etter søknad gi adgang til at studenten kan skrive eksamensbesvarelsen for hånd. Søknaden skal være levert senest fire uker før ordinær eksamensperiode. Avgjørelsen kan ikke påklages. Dersom eksamensbesvarelsen skrives for hånd, skal det benyttes egne innføringsark. Kandidaten har selv ansvar for å føre sitt kandidatnummer på hver side. Dersom selvkopierende eksamenspapir benyttes, har kandidaten ansvar for å skille kopiene fra originalen. Kulepenn skal brukes på selvkopierende eksamenspapir.
+(12) Kandidaten blir sittende på sin plass til eksamensbesvarelsen er levert og kontrollert. Innleverte besvarelser kan ikke leveres tilbake uansett hvilken grunn som anføres. Etter innlevering må kandidaten forlate eksamenslokalet.
+(13) Sensorene avgjør om kladd unntaksvis kan godtas som besvarelse.
+(14) Ansvarlig faglærer eller dennes stedfortreder skal være tilgjengelig under eksamen.
+(15) Øvrige krav ved gjennomføring av eksamen spesifiseres i egne retningslinjer.

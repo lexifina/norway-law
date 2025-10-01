@@ -1,0 +1,6 @@
+# § 10-6. Fravær fra eksamen under tilsyn, trekk
+(1) Dersom sykdom forhindrer studenten i å møte til eksamen, må legeerklæring som omfatter eksamensdagen foreligge for at det skal være et gyldig fravær. I så fall blir det ikke regnet som et eksamensforsøk. Dersom det ikke er mulig å fremlegge legeerklæringen på eksamensdagen, må den leveres innen tre virkedager etter eksamensdagen.
+(2) En kandidat som ikke møter til eksamen til fastsatt tid, registreres som «Ikke møtt». Dette teller som ett eksamensforsøk.
+(3) Kandidater som velger å avbryte eksamen uten å levere oppgavebesvarelsen, skal undertegne skjema for trekk hos hovedinspektør og levere tilbake oppgaven og alt utlevert materiale. Ved digital eksamen regnes det som trekk dersom studenten går ut av sikker nettleser. Studenten plikter å umiddelbart varsle hovedinspektør om at han eller hun trekker seg. Trekk regnes som ett eksamensforsøk.
+(4) En kandidat som blir syk under eksamen under tilsyn, kan velge å trekke seg. Velger kandidaten å trekke seg under eksamen, signeres skjema for trekk og kandidaten har da brukt ett eksamensforsøk dersom det ikke leveres legeerklæring, jf. første avsnitt.
+(5) For kandidater som leverer blankt, blir oppgavebesvarelsen behandlet som trekk og kandidaten har da brukt ett eksamensforsøk.
