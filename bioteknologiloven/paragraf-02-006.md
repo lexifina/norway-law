@@ -1,0 +1,6 @@
+# § 2-6. Avgjørelse om behandling
+Beslutning om å foreta behandling med sikte på assistert befruktning treffes av lege. Beslutningen skal bygge på medisinske og psykososiale vurderinger av kvinnen og hennes eventuelle ektefelle eller samboer. Det skal legges vekt på kvinnens og hennes eventuelle ektefelle eller samboers omsorgsevne og hensynet til barnets beste.
+Den som søker assistert befruktning skal legge frem en barneomsorgsattest som nevnt i politiregisterloven § 39 første ledd.
+Hvis det er nødvendig for å supplere de opplysningene som gis av kvinnen eller paret selv, kan legen innhente relevant informasjon fra offentlige instanser for å foreta vurderingen av kvinnens eller parets omsorgsevne og hensynet til barnet beste etter første ledd. Slik informasjon kan blant annet være opplysninger om kvinnens eller parets helse, økonomi, bolig og hvor lenge paret har bodd sammen. Ved innhenting av opplysninger som er underlagt lovbestemt taushetsplikt, kreves samtykke fra den opplysningene gjelder.
+Dersom legen er i tvil om kvinnens eller parets omsorgsevne, kan legen be om en vurdering av omsorgsevnen fra en instans bestemt av departementet. Etter å ha mottatt vurderingen, beslutter legen om kvinnen eller paret skal få behandling med assistert befruktning.
+Departementet kan gi nærmere forskrifter om behandlingen av søknader om assistert befruktning.

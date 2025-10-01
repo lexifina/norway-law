@@ -1,0 +1,4 @@
+# § 2-5. Informasjon og samtykke
+Kvinnen og hennes eventuelle ektefelle eller samboer skal gis informasjon om behandlingen og om de medisinske og rettslige virkninger behandlingen kan få. Informasjonen skal også omfatte informasjon om adopsjon.
+Før behandlingen påbegynnes, skal behandlende lege påse at det foreligger skriftlig samtykke fra kvinnen og hennes eventuelle ektefelle eller samboer. Ved gjentatte behandlinger skal nytt samtykke innhentes. Bare personer over 18 år som ikke er fratatt rettslig handleevne på det personlige området, kan gi slikt samtykke.
+Når behandlingen skjer ved bruk av egg fra kvinnen som er befruktet med donert sæd, og kvinnen har fått ny ektefelle eller samboer, skal samtykke til behandling gis av kvinnen og hennes nåværende ektefelle eller samboer. Det kreves ikke samtykke fra tidligere ektefelle eller samboer, heller ikke dersom kvinnen skal bruke egget til assistert befruktning som enslig.
