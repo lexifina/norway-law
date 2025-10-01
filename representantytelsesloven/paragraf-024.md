@@ -1,0 +1,2 @@
+# § 24. Dekning av reise- og overnattingsutgifter for innkalte vararepresentanter
+Vararepresentanter som er innkalt til å møte og har sitt hjemsted mer enn 40 kilometer fra Stortinget, får dekket utgifter til reise til og fra Stortinget og til overnatting i innkallingsperioden. Ved overnatting på hotell dekkes også trekkfri sats for merutgifter til mat tilsvarende som for bolig uten kokemuligheter.

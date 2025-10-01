@@ -1,0 +1,2 @@
+# § 33. Overgangsbestemmelser
+Representanter som ikke fortsetter på Stortinget etter valget i 2025, kan søke om omstillingsytelse etter § 26 selv om de ikke oppfyller kravet om minst to valgperioders ansiennitet i bestemmelsens tredje ledd første punktum. Tidsbegrensingen på seks måneder i § 26 andre ledd gjelder ikke for representanter som ikke fortsetter på Stortinget etter valget i 2025. Dersom vilkårene ellers er oppfylt, kan disse søke om å få omstillingsytelse i inntil tolv måneder.

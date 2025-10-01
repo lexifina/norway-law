@@ -1,0 +1,2 @@
+# § 28. Representantenes opplysningsplikt
+Den som søker om ytelser fra Stortinget, skal legge frem de opplysningene som er nødvendige for at Stortinget skal kunne vurdere om han eller hun har rett til ytelsen. Den som mottar en ytelse, skal underrette Stortingets administrasjon om endringer som kan ha avgjørende betydning for hans eller hennes rett til å fortsette å motta ytelsen, eller som Stortingets administrasjon må kjenne til for å kunne kontrollere ytelsens størrelse. Opplysningsplikten gjelder også den som tidligere har mottatt ytelser fra Stortinget.

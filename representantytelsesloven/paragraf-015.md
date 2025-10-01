@@ -1,0 +1,4 @@
+# § 15. Familiereiser
+Representanter kan få dekket utgifter til reise mellom hjemstedet sitt og Oslo for medlemmer av husstanden. Som medlemmer av husstanden regnes ektefelle, samboer og hjemmeboende barn til og med det kalenderåret barnet fyller 18 år. I tillegg dekkes utgifter til reise for representantens egne barn som ikke er medlemmer av representantens husstand, mellom barnets hjemsted og Oslo til og med kalenderåret barnet fyller 18 år.
+Representantene har krav på inntil to familiereiser i året per berettiget person for representanter som bor mer enn 40 kilometer fra Oslo. Representanter som har foreldreansvar for barn alene, kan i tillegg få dekket reiseutgifter til ledsager for barnet til og med det kalenderåret barnet fyller tolv år.
+Innkalte vararepresentanter som har gjort tjeneste i til sammen seks måneder eller mer i løpet av tolv måneder, har rett til å få dekket familiereiser etter første og andre ledd.
