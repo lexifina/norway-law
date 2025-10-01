@@ -1,0 +1,11 @@
+# § 17. Valgkrets
+Selskapet kan deles inn i like mange valgkretser som det skal velges styremedlemmer og observatører. Alle ansatte skal tilhøre en valgkrets. De ansatte har bare stemmerett og er bare valgbare i den valgkretsen de tilhører. I tvilstilfelle avgjør valgstyret hvilken valgkrets en ansatt tilhører.
+Valget kan foregå som flertallsvalg eller forholdstallsvalg av og blant de ansatte i den enkelte valgkrets.
+Dersom et styremedlem eller en observatør slutter å ha sitt arbeidssted i den delen av virksomheten som tilhører valgkretsen vedkommende er valgt fra, opphører vervet.
+Dersom det skal velges tre eller flere styremedlemmer i et aksjeselskap med 200 eller færre ansatte, og valget skal gjennomføres i valgkretser, gjelder følgende ordning dersom resultatet av valget innebærer at alle styremedlemmene har samme kjønn: Kandidaten eller listen som fikk lavest oppslutning målt i antall stemmer i forhold til antallet stemmeberettigete i den enkelte valgkrets erstattes av nærmeste kandidat på listen fra et ikke representert kjønn i det omfang som er nødvendig for at flere kjønn blir representert. Det samme gjelder for varamedlemmene. Dette gjelder likevel ikke dersom mer enn 80 prosent av de ansatte i selskapet på valgtidspunktet har samme kjønn.
+Fjerde ledd gjelder tilsvarende dersom det skal velges to eller flere styremedlemmer eller varamedlemmer i følgende selskaper med 200 eller færre ansatte:
+a) allmennaksjeselskaper
+b) statsaksjeselskaper
+c) kommunalt kontrollerte aksjeselskaper
+d) aksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
+Når det skal velges styremedlemmer i et aksjeselskap eller allmennaksjeselskap med flere enn 200 ansatte, og valget skal gjennomføres i valgkretser, gjelder følgende ordning dersom resultatet av valget innebærer at kjønnene ikke blir representert i samsvar med aksjeloven § 6-11b andre ledd og allmennaksjeloven § 6-11b andre ledd: Kandidaten eller listen som fikk lavest oppslutning målt i antall stemmer i forhold til antallet stemmeberettigete i den enkelte valgkrets erstattes av nærmeste kandidat på listen fra et underrepresentert kjønn i det omfang som er nødvendig for å oppfylle lovens krav.

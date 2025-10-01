@@ -1,0 +1,4 @@
+# § 44. Tidsbegrenset avtale om unntak
+Selskapet eller konsernet og et flertall av de ansatte eller lokale fagforeninger som representerer et flertall av de ansatte kan inngå skriftlig tidsbegrenset avtale om unntak fra reglene om ansattes rett til representasjon i styrende organer i aksjeloven og allmennaksjeloven og i denne forskriften. Slikt unntak kan gjelde for inntil to år. Det kan ikke avtales unntak fra kravet om kjønnssammensetning i aksjeloven § 6‑11b og § 20-6 andre og tredje ledd og allmennaksjeloven § 6-11b.
+Avtalen skal være skriftlig, angi hvem som har inngått avtalen og hvor lenge den varer.
+Selskapet eller konsernet og et flertall av de ansatte eller lokale fagforeninger som representerer et flertall av de ansatte kan avtale endringer i avtale etter første ledd, men likevel slik at varigheten av unntak ikke samlet overskrider to år.
