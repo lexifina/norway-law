@@ -1,0 +1,3 @@
+# § 11. Tilskuddsmottakere som driver økonomisk aktivitet
+Tilskudd utbetalt etter denne forskriften skal ikke kryssubsidiere økonomisk aktivitet eller vri eller true med å vri konkurransen eller påvirke samhandelen i EØS-området. Begrepet økonomisk aktivitet skal fortolkes i samsvar med foretaksdefinisjonen etter EØS-avtalens regler om offentlig støtte.
+Tilskuddsmottakere som har både økonomisk og ikke-økonomisk aktivitet skal ha adskilte regnskap for disse. Mottakerne må ha interne retningslinjer som sikrer at felleskostnader fordeles på en forholdsmessig måte mellom den økonomiske aktiviteten og den ikke-økonomiske aktiviteten.
