@@ -1,0 +1,5 @@
+# § 8-3. Endringer i studieplan
+(1) Mindre vesentlige endringer i emnebeskrivelser, herunder pensumjusteringer og andre endringer som ikke påvirker emnets læringsmål, vurderingsform eller undervisningssemester, foretas av undervisningsleder.
+(2) Vesentlige endringer i emnebeskrivelser, herunder opprettelse av nye emner, valgemner eller justeringer som påvirker emnets læringsmål, vurderingsform eller undervisningssemester, utarbeides av undervisningsleder og vedtas av Akademisk Råd etter forslag fra undervisningsleder. Forslag til endringer skal normalt sendes på høring til de lokale Fagrådene.
+(3) Vesentlige endringer av studier/studieprogrammer, som påvirker læringsmålene for studiet som helhet, kriteriene for oppnåelse av grad eller annen kvalifikasjon, endring av undervisningsspråk eller undervisningsform, utarbeides av undervisningsleder og vedtas enten av LOKUT for studier på bachelornivå eller av NOKUT for studier på mastergradsnivå. Slike endringer skal godkjennes av styret.
+(4) Endringer av studieplaner trer i kraft ved oppstarten av nytt semester.

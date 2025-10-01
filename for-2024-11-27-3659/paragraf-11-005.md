@@ -1,0 +1,5 @@
+# § 11-5. Klage over karakterfastsetting – rett til begrunnelse, klagesensur
+(1) Studenten har rett til å få en begrunnelse for karakterfastsetting i samsvar med lov om universiteter og høyskoler § 11-8.
+(2) Sensur kan påklages i samsvar med lov om universiteter og høyskoler §§ 11-10 og 11-11. Ved løpende vurdering avgjør Akademisk råd når det kan fremsettes klage ved den enkelte prøve, oppgave eller annen vurdering eller bare når resultatet fra emne er kunngjort. Det skal fremgå av studieplanen når det kan klages.
+(3) Ved ny sensurering skal det være minst to nye sensorer, hvorav minst en ekstern, jf. lov om universiteter og høyskoler § 11-11 andre avsnitt. De nye sensorene skal ikke ha informasjon om karakterer, begrunnelse eller studentens begrunnelse for klagen. Endring kan gjøres både til gunst og ugunst for klager. Resultatet etter klagesensur er endelig og kan ikke påklages.
+(4) Studenter kan klage individuelt på karakter ved gruppeeksamen. Eventuell endring i karakter etter klagesensur får bare virkning for studenter som har underskrevet skriftlig klage.
