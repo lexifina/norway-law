@@ -1,0 +1,2 @@
+# § 11. Krav om varsling for tilbydere av digitale tjenester
+En tilbyder av en digital tjeneste skal uten unødig opphold og uten hinder av taushetsplikt varsle det organ Kongen utpeker, om hendelser som virker betydelig inn på tjenesteleveransen. Ved vurderingen av om innvirkningen er betydelig, skal det legges vekt på antall brukere som påvirkes, hendelsens varighet, størrelsen på det geografiske området som berøres, omfanget av funksjonalitetssvikten i tjenesten og omfanget av innvirkningen på økonomisk og samfunnsmessig aktivitet.
