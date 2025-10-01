@@ -1,0 +1,7 @@
+# § 3. Utskifting av urenset ballastvann
+Inntil krav om rensing av ballastvann trer i kraft, jf. § 13, skal urenset ballastvann skiftes ut i samsvar med kravene i denne paragrafen, med mindre rensesystem er installert om bord.
+Ved utskifting skal minst 95 prosent av volumet i samtlige ballastvanntanker skiftes ut. Gjennompumping av tre ganger volumet i hver ballastvanntank er likestilt med dette kravet.
+Utskiftingen skal skje på havdyp på over 200 meter, minst 200 nautiske mil fra nærmeste land. Hvis dette ikke er mulig, skal utskiftingen skje på havdyp over 200 meter minst 50 nautiske mil fra nærmeste land.
+I havområder der avstanden fra land eller havdybde ikke oppfyller kriteriene i tredje ledd, skal ballastvann skiftes ut i utskiftingsområder som er inntatt i vedlegg 1 punkt 1.1. Hvis dette ikke er mulig skal ballastvannet skiftes ut før skipet eller den flyttbare innretningen ankommer norsk territorialfarvann.
+Avstandskravene i tredje ledd gjelder ikke dersom skipet på grunn av dette må avvike fra sin planlagte reise eller vil bli unødig forsinket. Utskifting skal i slike tilfeller skje etter fjerde ledd.
+Kravene i annet, tredje og fjerde ledd gjelder ikke dersom skipsføreren med rimelig grunn mener at utskiftingen vil sette sikkerheten eller stabiliteten til skipet eller den flyttbare innretningen, mannskapet eller passasjerene i fare på grunn av dårlig vær, utformingen av eller påkjenningene på skipet eller den flyttbare innretningen, utstyrssvikt eller andre ekstraordinære forhold.
