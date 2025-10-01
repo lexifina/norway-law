@@ -1,0 +1,4 @@
+# § 22. Ytelser til etterlatte ved dødsfall
+Hvis en stortingsrepresentant eller en fast møtende vararepresentant dør i løpet av valgperioden, skal ektefelle eller samboer, eller barn under 18 år dersom representanten ikke hadde ektefelle eller samboer, få utbetalt representantens godtgjøring for måneden representanten døde, og de tre påfølgende månedene.
+Hvis en stortingsrepresentant eller en fast møtende vararepresentant dør i løpet av valgperioden, dekkes inntil 1 ganger grunnbeløpet i folketrygden til gravferden og minnesamvær. Det samme gjelder hvis en innkalt vararepresentant dør på reise til eller fra Stortinget eller i perioden innkallingen gjelder.
+En stortingsrepresentant eller en fast møtende vararepresentant skal ha gruppelivsforsikring tilsvarende som for ansatte i staten. En innkalt vararepresentant skal ha forsikring for den perioden innkallingen gjelder. Dette leddet gjelder også for stortingsrepresentanter som er i regjering.

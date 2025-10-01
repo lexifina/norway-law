@@ -1,0 +1,6 @@
+# § 26. Omstillingsytelse
+Formålet med ytelsen er å sikre inntekt for stortingsrepresentanter som ufrivillig blir stående uten inntekt i en overgangsperiode.
+Stortingets presidentskap kan etter søknad fra stortingsrepresentanter og fast møtende vararepresentanter som etter valg ikke fortsetter på Stortinget, innvilge inntil seks måneders omstillingsytelse i tillegg til ytelsen etter § 25. Det er krav om å aktivt søke arbeid, starte egen virksomhet eller heve sin kompetanse.
+For å få omstillingsytelse må representanten ha vært valgt inn eller møtt fast på Stortinget sammenhengende i minst to valgperioder. Fast møtende vararepresentanter oppfyller kravet om å ha møtt fast i minst to valgperioder dersom varaperioden begynte i forbindelse med utnevning av regjering i direkte sammenheng med et stortingsvalg. I særlige tilfeller kan kravet om ansiennitet fravikes.
+Ytelsen tilsvarer 66 prosent av godtgjøringen etter § 6. Tilleggsgodtgjøring og forhøyet godtgjøring etter § 6 andre ledd og § 8 inngår ikke i ytelsen.
+En fratrådt stortingsrepresentant som tidligere har mottatt sykepenger etter § 20, kan søke Stortingets presidentskap om omstillingsytelse. Perioden med omstillingsytelse forkortes med det antallet dager representanten har mottatt sykepenger.

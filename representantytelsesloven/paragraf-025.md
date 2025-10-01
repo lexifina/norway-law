@@ -1,0 +1,6 @@
+# § 25. Fratredelsesytelse
+Formålet med ytelsen er å sikre inntekt for stortingsrepresentanter som ufrivillig blir stående uten inntekt i en overgangsperiode.
+Stortingets presidentskap kan etter søknad fra stortingsrepresentanter og fast møtende vararepresentanter som ikke fortsetter på Stortinget etter valg, innvilge fratredelsesytelse i inntil tre måneder. Det samme gjelder fast møtende vararepresentanter som trer ut av Stortinget i løpet av valgperioden, og innkalte vararepresentanter som har møtt sammenhengende i minst tolv måneder i én valgperiode. Stortingets presidentskap kan i særlige tilfeller etter søknad fra en innkalt vararepresentant innvilge fratredelsesytelse i inntil én måned også ved kortere møtetid.
+Ytelsen tilsvarer ordinær godtgjøring etter § 6. Tilleggsgodtgjøring og forhøyet godtgjøring til stortingspresidenten etter § 6 andre ledd og § 8 inngår ikke i ytelsen.
+Fast møtende og innkalte vararepresentanter kan ikke få innvilget fratredelsesytelse for mer enn til sammen tre måneder i løpet av én og samme valgperiode.
+En fratrådt stortingsrepresentant som tidligere har mottatt sykepenger etter § 20, kan søke Stortingets presidentskap om fratredelsesytelse. Perioden med fratredelsesytelse forkortes med det antallet dager representanten har mottatt sykepenger.
