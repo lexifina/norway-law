@@ -1,0 +1,5 @@
+# § 23c. Deling av importsendinger før mottakskontrollen
+En importsending, som utgjøres av de varene som er fulgt av ett sertifikat, kan ikke deles før mottakskontrollen med unntak av i disse tilfellene:
+a) når varer til flere importører er fulgt av ett sertifikat, slik at de varene hver enkelt importør eier, utgjør en delsending.
+b) når mottakskontrollen utføres av flere ulike enheter i importørens virksomhet eller i en virksomhet i et konsern importøren inngår i, slik at de varene som kontrolleres av den enkelte enheten, utgjør en delsending. Med enhet menes underenhet med eget organisasjonsnummer i Enhetsregisteret.
+Når en sending er delt opp i flere delsendinger, skal hver enkelt importør sørge for mottakskontroll av sine varer. Importøren av den delsendingen som mottas først skal sørge for at det gjøres kontroll i samsvar med § 23b første ledd bokstav a og b på grunnlag av sertifikatet i original. Importørene av de øvrige delsendingene skal sørge for slik kontroll på grunnlag av hver sin kopi av sertifikatet.

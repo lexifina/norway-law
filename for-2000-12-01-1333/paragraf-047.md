@@ -1,0 +1,8 @@
+# § 47. Overgangsordninger
+§§ 7 og 8 om registreringsplikt, og § 44 om tilbaketrekking av registrering trer ikke i kraft før 1. juli 2001.
+§ 9 om plikt til å innføre internkontroll, og § 14 om krav til merking og dokumentasjon trer ikke i kraft før 1. januar 2002. Samtidig oppheves forskrift for sortering, pakking og merking av planteskolevarer, av 25. mars 1988 nr. 647.
+Vedtak om godkjenning av virksomheter for bruk av ISPM 15-merket eller Mattilsynet KD 56/30-merke eller for varmebehandling av trevirke fattet av Mattilsynet før bestemmelsene i § 28b og § 28c trådte i kraft skal fortsatt gjelde. Vedtak om godkjenning av virksomheter som behandler trevirke med metylbromid for bruk av ISPM 15-merket gjelder likevel ikke etter 1. juli 2013.
+Frem til 1. januar 2014 kan virksomheter som produserer eller reparerer treemballasje og som er godkjent for bruk av ISPM 15-merket, jf. tredje ledd eller § 28c, benytte umerket trevirke mottatt fra følgende virksomheter:
+a) virksomheter som selv mottar trevirke merket eller fulgt av et sunnhetssertifikat i samsvar med kravene i § 28c annet ledd og leverer dette trevirket videre uten egen merking dersom trevirket er fulgt av annen dokumentasjon på at det er produsert i samsvar med kravene i § 28a eller
+b) Virksomheter som er godkjent for varmebehandling av trevirke jf. tredje ledd.
+Frem til 1. januar 2014 kan behandlingskodene HT DB eller HT KD DB brukes i stedet for koden angitt i vedlegg 10A, koden MB DB kan brukes i stedet for koden angitt i vedlegg 10B og virksomhetsnumre som består av bokstavene SLT og ni sifre kan brukes i stedet for virksomhetsnummer angitt i vedlegg 10A eller vedlegg 10B.
