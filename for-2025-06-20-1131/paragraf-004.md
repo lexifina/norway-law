@@ -1,0 +1,2 @@
+# § 4. Vedtak om at digitalsikkerhetsloven også skal gjelde for andre tilbydere av samfunnsviktige tjenester
+Ansvarlig departement kan i særlige tilfeller fatte vedtak om at loven helt eller delvis også skal gjelde for andre tilbydere av samfunnsviktige tjenester enn de som er nevnt i § 1. Nasjonal sikkerhetsmyndighet kan fatte vedtak etter første punktum overfor virksomheter som ikke omfattes av noe departements ansvarsområde.
