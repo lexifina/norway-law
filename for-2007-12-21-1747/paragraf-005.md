@@ -1,0 +1,3 @@
+# § 5. Tilsynet med en automatisk gravimetrisk fyllemaskin i bruk
+Testing av automatiske gravimetriske fyllemaskiner i forbindelse med kontrollen skal utføres i henhold til relevante deler av gjeldende OIML R61 og Justervesenets prosedyrer, med mindre Justervesenet anser det mer hensiktsmessig og måleteknisk forsvarlig å utføre testingen på annen måte.
+Den automatiske gravimetriske fyllemaskinen skal normalt testes med de produktene den vanligvis benyttes til å veie og under normale driftsbetingelser. Under testingen må det være tilgjengelig tilstrekkelig mengde av testproduktene, håndteringsutstyr, kvalifisert personell og nødvendig kontrollinstrument i nærheten av vekten
