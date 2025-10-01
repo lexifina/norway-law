@@ -1,0 +1,2 @@
+# § 8. Krav om varsling for tilbydere av samfunnsviktige tjenester
+En tilbyder av en samfunnsviktig tjeneste skal uten unødig opphold og uten hinder av taushetsplikt varsle det organet Kongen utpeker, om hendelser som virker betydelig inn på tjenesteleveransen. Ved vurderingen av om innvirkningen er betydelig, skal det blant annet legges vekt på antallet brukere som påvirkes, hendelsens varighet og størrelsen på det geografiske området som berøres.
