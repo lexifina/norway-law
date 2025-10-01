@@ -1,0 +1,6 @@
+# § 5. Endring og opphør av de ansattes styrerepresentasjon
+Utvidelse av de ansattes representasjon som følge av økning i antall ansatte, jf. aksjeloven § 6-4 andre ledd og allmennaksjeloven § 6-4 andre ledd, skjer når funksjonstiden for de ansattes styremedlemmer, observatører og varamedlemmer utløper.
+Styret kan beslutte at de ansattes rett til representasjon etter aksjeloven § 6-4 første ledd eller allmennaksjeloven § 6-4 første ledd skal opphøre dersom selskapet har 30 ansatte eller færre.
+Styret kan beslutte at de ansattes rett til representasjon etter aksjeloven § 6-4 andre ledd eller allmennaksjeloven § 6-4 andre ledd skal opphøre dersom selskapet har 50 ansatte eller færre.
+De ansattes styrerepresentasjon opphører når funksjonstiden for de ansattes styremedlemmer og varamedlemmer utløper. Representasjon etter aksjeloven § 6-4 første ledd eller allmennaksjeloven § 6-4 første ledd etableres samtidig med opphør av representasjon etter aksjeloven § 6-4 andre ledd eller allmennaksjeloven § 6-4 andre ledd.
+Når det er inngått avtale om ikke å opprette bedriftsforsamling, jf. § 41 kan styret beslutte at ordningen med utvidet styrerepresentasjon etter aksjeloven § 6-4 tredje ledd eller allmennaksjeloven § 6-4 tredje ledd skal opphøre dersom selskapet har 200 ansatte eller færre.

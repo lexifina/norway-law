@@ -1,0 +1,2 @@
+# § 23. Observatører
+Et flertall av de ansatte eller lokale fagforeninger som representerer et flertall av de ansatte kan beslutte at det skal velges observatører til bedriftsforsamlingen. Det kan velges inntil halvparten så mange observatører som de ansatte har medlemmer i bedriftsforsamlingen, jf. allmennaksjeloven § 6-35 fjerde ledd. Beslutning om hvor mange observatører som skal velges må meddeles valgstyret senest seks uker før valgdagen.

@@ -1,0 +1,6 @@
+# § 22. Fastsettelse av bedriftsforsamlingens størrelse
+Antall medlemmer i bedriftsforsamlingen skal fastsettes senest i første ordinære generalforsamling etter at vilkåret i aksjeloven § 6-35 første ledd eller allmennaksjeloven § 6-35 første ledd er oppfylt.
+I samme generalforsamling velger aksjonærene sine medlemmer og varamedlemmer til bedriftsforsamlingen, hvorav ett medlem utpekes til å innkalle til første møte i bedriftsforsamlingen.
+Ved senere valg til bedriftsforsamlingen, skal aksjonærene i siste ordinære generalforsamling før utløpet av funksjonstiden for de ansattes medlemmer i bedriftsforsamlingen, fastsette antall medlemmer i bedriftsforsamlingen og velge sine medlemmer og varamedlemmer, hvorav ett medlem utpekes til å innkalle til første møte i bedriftsforsamlingen.
+Dersom det er tatt initiativ til å inngå avtale om ikke å opprette bedriftsforsamling, eller det er søkt tvisteløsningsnemnda om unntak fra aksjeloven § 6-35 første ledd eller allmennaksjeloven § 6-35 første ledd, kan generalforsamlingens vedtak og valg utsettes eller foretas med forbehold.
+Dersom det likevel ikke inngås slik avtale eller selskapet ikke fritas fra plikten til å opprette bedriftsforsamling, skal det innkalles til ekstraordinær generalforsamling med mindre nemnda bestemmer noe annet.
