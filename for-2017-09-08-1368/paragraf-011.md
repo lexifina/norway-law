@@ -1,0 +1,2 @@
+# § 11. Dispensasjon for utenlandske skip og flyttbare innretninger i norsk farvann
+Utenlandske skip eller utenlandske flyttbare innretninger som opererer utelukkende i norsk territorialfarvann, norsk økonomisk sone eller norsk kontinentalsokkel kan etter skriftlig søknad gis dispensasjon fra kravene i denne forskriften, såfremt dette ikke vil forringe eller påføre skade på liv og helse, miljø og materielle verdier.
