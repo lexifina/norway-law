@@ -1,0 +1,3 @@
+# § 11. Frammøte
+(1) Eksamenskandidaten skal møte presis til eksamen. Møter en kandidat for sent, skal vedkommende henvende seg til inspektøren og forklare grunnen. Hvis ingen andre kandidater har forlatt lokalet, skal kandidaten få utlevert eksamensoppgaven og begynne eksamen. Kandidater som møter for sent, må likevel levere besvarelsen senest ved den ordinære eksamenstidens slutt. En kandidat som møter etter at en annen har forlatt eksamenslokalet, kan nektes adgang til å delta på eksamen. Kandidaten regnes da som ikke møtt.
+(2) Hver kandidat må registrere seg på et eksamensskjema før eksamen starter og ved innlevering av besvarelsen.

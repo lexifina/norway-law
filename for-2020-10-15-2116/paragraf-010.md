@@ -1,0 +1,6 @@
+# § 10. Oppmelding og avmelding til eksamen
+(1) Studenter som følger et fagskoletilbud ved Eccera IT Academy vil automatisk bli oppmeldt til studietilbudets ordinære eksamener. Skolen plikter i god tid å informere skriftlig om hvor, når og hvordan eksamen gjennomføres.
+(2) Studenter som stryker til eksamen, uteblir fra eksamen eller ønsker å forbedre sin eksamenskarakter, må selv melde seg opp til ny eksamen. Påmelding skal skje skriftlig innen fastsatte frister.
+(3) Studenter kan søke om utsatt eksamen på fastlagt skjema senest én uke før eksamen. Søknaden behandles av skolens administrasjon og skriftlig tilbakemelding gis så snart søknaden er behandlet og senest 3 virkedager etter mottatt søknad. Studenter som har søkt om utsatt eksamen, er selv ansvarlige for å holde seg orientert om neste eksamensavvikling i det aktuelle emnet, og bekrefte sin påmelding til den nye eksamenen.
+(4) Studenter som er innvilget permisjon fra studiet kan likevel fremstille seg til eksamen i permisjonstiden. Studenten er da selv ansvarlig for å melde seg opp til eksamen.
+(5) Avmelding til eksamen må skje skriftlig senest en uke før eksamen. Senere avmelding eller uteblivelse uten gyldig dokumentert fravær teller som et eksamensforsøk, jf. § 9, 4. ledd.
