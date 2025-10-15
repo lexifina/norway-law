@@ -1,0 +1,2 @@
+# § 7. Søkere fra land utenfor Norge
+Søkere fra land utenfor Norge må oppfylle kravene til det studiet det søkes opptak til, gjennom formell utdanning eller realkompetanse som vurderes som tilsvarende de formelle opptakskravene til det studiet som det søkes opptak til. I tillegg må søkere fra land utenfor Norden kunne dokumentere tilstrekkelige norskkunnskaper som tilsvarer det formelle opptakskravet til det studiet det søkes opptak til.
