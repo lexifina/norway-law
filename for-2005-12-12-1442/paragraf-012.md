@@ -1,0 +1,2 @@
+# § 12. Ikrafttredelse/overgangsbestemmelse
+Denne forskriften trer i kraft 1. januar 2006, og kommer til anvendelse på oppdrag påbegynt etter ikrafttredelsen. Samtidig oppheves forskrift 18. september 2001 nr. 1088 om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) ved fritt rettsråd og i straffesaker, med unntak for oppdrag påbegynt før denne forskriftens ikrafttredelse.
