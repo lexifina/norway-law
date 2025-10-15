@@ -1,0 +1,4 @@
+# § 5-4. Utføring av aktiviteter
+Planlagte aktiviteter skal klareres sikkerhetsmessig før de utføres. Av klareringen skal det gå fram hvilke betingelser som skal oppfylles, deriblant hvilke tiltak som skal settes i verk før, under og etter arbeidet slik at de som deltar i eller kan bli berørt av aktiviteten, ikke skades, og slik at sannsynligheten for feilhandlinger som kan føre til fare- og ulykkessituasjoner, reduseres.
+Det skal sikres at kritiske aktiviteter blir utført innenfor de operasjonelle begrensningene som er forutsatt under prosjektering og i risikoanalysene som nevnt i § 3-5.
+Den ansvarlige skal definere hvilke aktiviteter som i kombinasjon med andre aktiviteter skal regnes som samtidige aktiviteter. Ved utføring av samtidige aktiviteter som bidrar til en ikke-akseptabel økning av risiko, skal det settes i verk nødvendige tiltak, jf. § 3-3.

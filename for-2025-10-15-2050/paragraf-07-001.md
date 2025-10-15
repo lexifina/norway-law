@@ -1,0 +1,3 @@
+# § 7-1. Myndighetenes adgang til innretninger og fartøy
+Representanter fra Energidepartementet og Havindustritilsynet eller annen myndighet som Havindustritilsynet bestemmer, skal ha adgang til innretninger og fartøy som nyttes til havbunnsmineralvirksomhet til enhver tid, samt til materiale og opplysninger som er nødvendig for å gjennomføre tilsynsvirksomhet, og ha rett til å delta i revisjoner og granskinger. Representanter for myndighetene har rett til å oppholde seg på innretninger og fartøy så lenge det er nødvendig.
+Operatøren skal sørge for transport av representanter for myndighetene til og fra fartøy og innretninger til havs, samt for opphold om bord.
