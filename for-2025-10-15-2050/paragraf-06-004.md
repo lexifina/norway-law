@@ -1,0 +1,5 @@
+# § 6-4. Samarbeid om og samordning av beredskap
+Operatøren skal samarbeide med andre operatører for å samordne beredskapen ved gjennomføring av havbunnsmineralvirksomheten. Operatørens beredskapstiltak skal være egnet til å samordnes med offentlige beredskapsressurser.
+Operatøren skal lede og koordinere innsatsen av beredskapsressursene ved fare- og ulykkessituasjoner så lenge det er nødvendig.
+Operatøren skal sikre at landingsplass og drivstoff for helikopter er tilgjengelig for redning og evakuering av personell som omfattes av denne forskriften fra innretninger eller fartøy.
+Havindustritilsynet kan fastsette krav om at det skal være stasjonert beredskapsfartøy, deriblant luftfartøy, ved innretninger eller fartøy som deltar i havbunnmineralvirksomheten. Det kan fastsettes krav til de funksjonene som beredskapsfartøy skal kunne ivareta. Når særlige grunner tilsier det, kan Havindustritilsynet gi pålegg om og fastsette vilkår for samarbeid, deriblant gi pålegg om at finansieringen skal være et kollektivt ansvar.
