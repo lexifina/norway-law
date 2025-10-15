@@ -1,0 +1,3 @@
+# § 11. Overskridelse av stykkprisgrunnlaget
+Hvis faktisk samlet timeforbruk i en sak som betales etter denne forskriftens § 7 – § 10 overstiger fastsatt stykkpris med mer enn 50%, og det godtgjøres at det foreligger særlige omstendigheter ved oppdraget som begrunner en slik timebruk, fastsettes hele salæret etter reglene i salærforskriften.
+I saker hvor stykkprisen består av flere komponenter, legges den samlede stykkprisen til grunn ved anvendelsen av første ledd. Dette er ikke til hinder for fortløpende betaling etter stykkpris i fengslingssaker. Stykkpris for forsvarer etter § 7 første og andre ledd skal vurderes samlet med stykkpris etter § 7 tredje og fjerde ledd.

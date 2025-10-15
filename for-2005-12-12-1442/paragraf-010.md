@@ -1,0 +1,4 @@
+# § 10. Stykkpris for fornærmedes advokat i hoved-/ankeforhandling i straffesaker
+Bistand fra fornærmedes advokat i hoved-/ankeforhandling i tingretten/lagmannsretten betales med 2 ganger den offentlige salærsats for hver time som medgår under hoved-/ankeforhandlingens første dag, og 1,75 ganger den offentlige salærsats for hver time som medgår følgende dager. I ankeforhandling i lagmannsretten hvor advokaten har representert fornærmede i tingretten, betales 1,75 ganger den offentlige salærsats for hver time som medgår første dag, og 1,6 ganger den offentlige salærsats for hver time som medgår følgende dager.
+Bistand fra fornærmedes advokat i tidsrommet før datoen for tiltalebeslutningen skal honoreres etter salærforskriften.
+Har hoved-/ankeforhandlingen varighet utover 5 dager eller blir hoved-/ankeforhandling ikke avholdt, fastsettes hele salæret etter reglene i salærforskriften.

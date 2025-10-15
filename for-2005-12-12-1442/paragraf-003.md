@@ -1,0 +1,3 @@
+# § 3. Skifte av advokat
+Ved skifte av advokat skal salær til den advokat som først påtar seg et fritt rettsrådsoppdrag fastsettes etter reglene i denne forskriften. Dette forutsetter at advokaten har arbeidet med saken i slik grad at full stykkpris synes rimelig. Salær til den advokat som overtar saken betales etter reglene om skifte av advokat i salærforskriften.
+Ved skifte av advokat i fri sakførselssaker og i straffesaker fastsettes salæret etter reglene i salærforskriften § 12. Ved skifte av forsvarer i fengslingssaker skal salær både til den forsvareren som først påtar seg oppdraget og den forsvareren som overtar saken, fastsettes etter reglene i denne forskriften.

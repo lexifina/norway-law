@@ -1,0 +1,2 @@
+# § 8. Stykkpris for forsvarer i tilståelsessak
+Forsvarers bistand i sak som behandles etter reglene om tilståelsesdom betales med 4,5 ganger den offentlige salærsats for rettsmøte med varighet inntil 1,5 timer. For rettsmøte av lengre varighet, betales 0,75 ganger salærsatsen for hver overskytende halvtime. Bistand ved skriftlig ankeerklæring eller støtteerklæring til anke betales med 0,5 ganger den offentlige salærsats.
