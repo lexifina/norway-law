@@ -1,0 +1,4 @@
+# § 6-2. Oppmelding til eksamen
+(1) Studentene er selv ansvarlig for å melde seg opp til eksamen innen fastsatte frister. Studentene skal kontrollere at de er oppmeldt til eksamen, og må melde fra til fakultetsadministrasjonen dersom oppmeldingen ikke er korrekt.
+(2) Etter skriftlig begrunnet søknad fra studenten, kan utdanningsavdelingen innvilge utsatt oppmelding til eksamen i inntil én uke etter fristens utløp. Etter dette tidspunktet skal søknader om oppmelding til eksamen kun unntaksvis innvilges. Forholdet som ligger til grunn for søknaden skal dokumenteres.
+(3) Ved ny ordinær eksamen gjelder det pensum og den eksamensform som er fastsatt for den aktuelle eksamen. I særlige tilfeller kan dekan etter søknad gi tillatelse til at studenten benytter samme pensum som ved forrige ordinære eksamen. Søknad om dette skal foreligge senest samtidig med studentens oppmelding til eksamen.

@@ -1,0 +1,5 @@
+# § 6-13. Hjelpemidler
+(1) Det fakultet som har ansvar for emnet, avgjør hvilke hjelpemidler som er tillatt. Oversikt over tillatte hjelpemidler ved eksamen skal fremgå av emnebeskrivelsen.
+(2) Hjelpemidler ved skriftlig skoleeksamen kan omfatte skrevne og trykte hjelpemidler, kalkulator, tegneutstyr og annet hjelpeutstyr. Kommuniserbare enheter tillates ikke, med mindre dette fremgår spesifikt, eller er innvilget som individuell tilrettelegging. Dersom kalkulator tillates brukt, skal den utgjøre en enkelt gjenstand. Programmerbar kalkulator er ikke tillatt med mindre dette er spesifikt angitt i oppgaveteksten. Det kan settes andre begrensninger for bruk av kalkulator i emnebeskrivelsen.
+(3) Ved hjemmeeksamen er normalt alle hjelpemidler tillatt, med mindre annet fremgår av emnebeskrivelsen. Det skal fremgå av emnebeskrivelsen hvorvidt samarbeid er tillatt.
+(4) Bruk eller besittelse av ulovlige hjelpemidler i forbindelse med gjennomføring av eksamen, betraktes som fusk eller forsøk på fusk etter § 7-11.

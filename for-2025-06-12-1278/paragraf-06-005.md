@@ -1,0 +1,5 @@
+# § 6-5. Trekk fra eksamen
+(1) Studenter kan trekke seg fra eksamen senest 14 dager før dato for oppstart av eksamen uten at det blir registrert som et forsøk. For kontinuasjonseksamen er trekkfristen senest syv dager før dato for eksamen.
+(2) Frist for å trekke seg fra bachelor- eller masteroppgave er senest fire uker før innleveringsfristen. For masteroppgaver og bacheloroppgaver med kostbart arbeid (for eksempel laboratorieøvelser) kan dekan selv sette en tidligere frist.
+(3) Studenter som trekker seg muntlig, etter fastsatt frist, eller ikke møter til eksamen uten gyldig fravær, regnes for å ha brukt et eksamensforsøk. Studenten er selv ansvarlig for at trekk gjennomføres innen fastsatt frist.
+(4) Ved Fakultet for utøvende kunstfag kreves det gyldig grunn for å trekke seg eller endre dato for utøvende eksamen. Med gyldig grunn menes sykefravær eller annet tvingende fravær. Annet dokumentert tvingende fravær kan være fravær grunnet ulykker, alvorlig sykdom eller dødsfall i nær familie. Fraværet skal dokumenteres og meldes fakultetet umiddelbart.

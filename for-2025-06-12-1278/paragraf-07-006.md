@@ -1,0 +1,6 @@
+# § 7-6. Kunngjøring av sensur
+(1) Sensur skal kunngjøres på Studentweb innen 15 virkedager fra eksamen er gjennomført, hvis ikke særlige grunner gjør det nødvendig å bruke mer tid. Dersom saksbehandlingsfristen løper ut på en lørdag, helligdag eller dag som etter lovgivningen er likestilt med helligdag, forlenges fristen til nærmeste virkedag, jf. forvaltningslovforskriften § 41. Styret kan gjøre unntak fra sensurfristen etter universitets- og høyskoleloven § 11-7 (4).
+(2) Etter at klagefristen er utløpt, skal klagesensur kunngjøres uten ugrunnet opphold.
+(3) Dersom endelig karakter fastsettes etter justerende muntlig eksamen, skal foreløpig karakter på den skriftlige delen kunngjøres før tidspunktet for justerende muntlig eksamen.
+(4) Dekan selv er ansvarlig for at sensurfristen overholdes. Dersom sensurfristen ikke kan overholdes, skal fakultetet snarest mulig informere de berørte studentene om dette, og opplyse ny dato for kunngjøring av sensur.
+(5) Sensurfristen for oppgaver på mer enn 15 studiepoeng er senest fire uker fra innleveringsfristen. For masteroppgaver og andre større skriftlige arbeid med et omfang på 30 studiepoeng eller mer, er sensurfristen senest åtte uker etter innleveringsfristen.
