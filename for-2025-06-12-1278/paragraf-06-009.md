@@ -1,0 +1,10 @@
+# § 6-9. Antall forsøk
+(1) Studenter har rett til å fremstille seg til eksamen i samme emne inntil fire ganger. For veiledet praksis har studenten rett til å fremstille seg til eksamen inntil to ganger.
+(2) Etter skriftlig begrunnet søknad kan det i særlige tilfeller gis dispensasjon for et tredje forsøk i veiledet praksis. Slike særlige tilfeller kan være gyldig fravær i ett eller flere semestre, eller situasjoner hvor trekk fra eksamen ikke lot seg gjennomføre i rett tid.
+(3) Det gis ikke dispensasjon for et femte eksamensforsøk, eller fjerde forsøk i veiledet praksis. Dette gjelder selv om studenten har fått nytt opptak ved Universitetet i Stavanger.
+(4) Studenter har som hovedregel kun ett forsøk på utøvende eksamen, bachelor- og masteroppgaver. Dekan selv kan etter søknad innvilge et andre forsøk for:
+a) studenter som har gjort et forsøk, men ikke bestått utøvende eksamen, bachelor- eller masteroppgaven. Dekan selv avgjør om bachelor- eller masteroppgaven leveres inn i bearbeidet form eller om det skal leveres en helt ny oppgave. Ny eksamen eller oppgave skal gjennomføres innen fastsatt frist, og blir tellende som et nytt eksamensforsøk.
+b) studenter som har bestått utøvende eksamen, bachelor- eller masteroppgave, og som ønsker å forbedre karakteren. Ved bachelor- og masteroppgaver kan studenten ikke gis anledning til å bearbeide en tidligere innlevert oppgave, men må skrive en ny oppgave på nytt grunnlag.
+(5) Fristen for å søke om dispensasjon etter § 6-9 (2), og (4) er den samme som fristen for oppmelding til eksamen. De forhold som anføres som grunn for dispensasjonssøknad må dokumenteres.
+(6) Det kan stilles krav om at studenten må følge deler av undervisningsopplegget på nytt. Dekan ved det fakultet som har ansvaret for utdanningsplanen behandler og avgjør dispensasjonssøknader etter § 6-9 og fastsetter hvilke krav som eventuelt skal stilles. Dekan selv gir utfyllende regler for gjennomføring og veiledning av bachelor- og masteroppgaver.
+(7) Ved bachelor i rettsvitenskap gjelder egne regler om begrensning for frivillig gjentak av eksamen.
