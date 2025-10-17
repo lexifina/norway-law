@@ -1,0 +1,3 @@
+# § 56-6. Utlevering
+Utlevering av opplysninger fra politiets utlendingsregister kan i tillegg til slik adgang som følger av politiregisterloven kapittel 5 og 6 og forskriften kapittel 9, skje til hjemlandets myndigheter for å få verifisert utlendingens identitet eller for å få utstedt nødvendig reisedokument i forkant av en uttransportering, jf. politiregisterloven § 22 første ledd.
+Når politiet i egenskap av utlendingsmyndighet formidler opplysninger til utlendingsmyndighetene er dette ikke å anse som utlevering som nevnt i politiregisterloven § 30. Slik formidling kan skje ved elektronisk overføring.

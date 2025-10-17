@@ -1,0 +1,2 @@
+# § 14-3. Retting av feil etter begjæring eller av eget tiltak
+Dersom det er behandlet opplysninger som ikke er i samsvar med politiregisterloven, jf. også § 14-2 annet ledd, skal den behandlingsansvarlige etter begjæring av den registrerte sørge for at opplysningene rettes, suppleres eller oppdateres. Det samme gjelder dersom den behandlingsansvarlige selv eller annen myndighet oppdager feil eller blir gjort oppmerksom på mangelfulle registreringer.

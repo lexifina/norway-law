@@ -1,0 +1,2 @@
+# § 47-10. Informasjonsplikt
+Bestemmelsen om informasjonsplikt i politiregisterloven § 48 kommer ikke til anvendelse ved utlevering av opplysninger som er registrert til formål som nevnt i § 47-1 nr. 2 og 3, jf. begrensningene om adgangen til å utlevere opplysningen i § 47-9. Ved utlevering av opplysninger som er registrert til formål som nevnt i § 47-1 nr. 1 gjelder politiregisterloven § 48 og forskriften kapittel 12.

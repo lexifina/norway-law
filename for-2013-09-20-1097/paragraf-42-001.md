@@ -1,0 +1,2 @@
+# § 42-1. Datatilsynets tilsynskompetanse
+Datatilsynet har tilsynskompetanse for all behandling av opplysninger i politiet og påtalemyndigheten, herunder for behandling av opplysninger i den enkelte straffesak, med unntak av opplysninger som behandles av Politiets sikkerhetstjeneste, jf. politiregisterloven § 58, og politiets og påtalemyndighetens behandling av saker etter straffeprosessloven kapittel 16a, § 216m og § 216o, jf. straffeprosessloven § 216h.

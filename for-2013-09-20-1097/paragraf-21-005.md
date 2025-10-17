@@ -1,0 +1,4 @@
+# § 21-5. Særlig om forebyggende sak
+Når PST oppretter forebyggende sak kan det behandles opplysninger som har saklig tilknytning til saken. Formålet med den forebyggende saken er å skaffe til veie nødvendige opplysninger og iverksette nødvendige tiltak for å forebygge straffbare handlinger innenfor PSTs oppgaver etter politiloven § 17b.
+Opprettelse av forebyggende sak skal godkjennes av Sjef PST eller den denne bemyndiger når saken er opprettet ved Den sentrale enhet. Når saken er opprettet av PST-enhetene i politidistriktene er myndigheten til å godkjenne opprettelsen tillagt politimesteren eller den denne bemyndiger.
+Forebyggende saker skal i tillegg til kravene i § 22-3 første ledd gjennomgås hvert år. Dersom det ikke foreligger grunn til å opprettholde den forebyggende saken skal den avsluttes. Bestemmelsene i første ledd gjelder tilsvarende for avgjørelse om å videreføre den forebyggende saken.

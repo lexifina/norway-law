@@ -1,0 +1,7 @@
+# § 28-4. Krav om botid ved utstedelse av politiattest for utlendinger mv.
+Krav om botid i Norge som er fastsatt i henhold til politiregisterloven § 36 annet ledd gjelder bare for utlendinger som har oppholdt seg i Norge i kortere tid enn fastsatt botid. Kravet om botid gjelder likevel ikke for
+1) EØS-borgere som legger frem politiattest fra hjemlandet sitt,
+2) utlendinger fra land utenfor EØS som har opphold i et EØS-land som tilsvarer lengden av kravet om botid, og som legger frem politiattest og bevis på lovlig opphold fra EØS-landet, og
+3) utlendinger fra land utenfor EØS med tidligere opphold i Norge, der fraværet fra Norge er så kortvarig at det kan gjennomføres tilfredsstillende vandelskontroll. Det samme gjelder når utlendingen har fått norsk statsborgerskap etter gjenbosetting i Norge.
+For EØS-borgere regnes tidspunktet for botid fra den dato vedkommende har oppholdt seg i Norge. Dersom det ikke finnes et entydig innreisetidspunkt har EØS-borgeren selv bevisbyrden for å dokumentere at kravet om botid er oppfylt. For tredjelandsborger skal tidspunktet for botid regnes fra den dato vedtak om oppholdstillatelse er registrert hos utlendingsmyndigheten eller fra den dato vedkommende melder om innreise i medhold av utlendingsloven § 19 dersom vedkommende har fått oppholdstillatelse før innreise.
+Bestemmelsene i annet ledd gjelder med mindre noe annet fremgår av lov eller forskrift gitt i medhold av lov.

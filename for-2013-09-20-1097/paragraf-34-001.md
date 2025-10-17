@@ -1,0 +1,2 @@
+# § 34-1. Politiattest til person som skal utføre oppgaver i frivillig organisasjon
+Frivillige organisasjoner kan kreve fremleggelse av politiattest som nevnt i politiregisterloven § 39 første ledd av fysisk person som, lønnet eller ulønnet, utfører eller skal utføre oppgaver for organisasjonen som innebærer et tillits- eller ansvarsforhold overfor mindreårige eller personer med utviklingshemming.

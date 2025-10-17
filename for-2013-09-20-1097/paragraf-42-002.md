@@ -1,0 +1,3 @@
+# § 42-2. Datatilsynets påleggskompetanse
+Datatilsynet kan gi pålegg om at behandling av opplysninger i strid med politiregisterloven og denne forskriften skal opphøre eller stille vilkår som må oppfylles for at behandlingen skal være i samsvar med loven og denne forskriften, med unntak av behandling av opplysninger som nevnt i § 42-3, jf. også politiregisterloven § 60 første ledd. Datatilsynet kan uansett gi pålegg ved behandling av opplysninger i politiets registre som er forskriftsregulert etter politiregisterloven § 14 første ledd, med de unntak som følger av politiregisterloven § 60 første ledd tredje punktum.
+Dersom Datatilsynets vedtak påklages, jf. politiregisterloven § 60 tredje ledd, skal klagen gis oppsettende virkning.

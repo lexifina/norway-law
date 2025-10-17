@@ -1,0 +1,5 @@
+# § 54-12. Sletting
+Opplysninger i arrestjournalen skal slettes i henhold til politiregisterloven § 50 og § 51 og forskriften kapittel 16. Opplysninger skal uansett slettes senest 5 år etter registreringen og det ikke senere er foretatt nye registreringer på vedkommende.
+Sletting av opplysninger i arrestjournalen skal gjøres i samsvar med § 16-2 annet ledd nr. 1.
+Opptak av lyd og bilde i politiarrest skal slettes etter en måned med mindre det foreligger anmeldelse eller andre konkrete holdepunkter tilsier at opptakene vil være av betydning som bevis i straffesak. Fortsatt lagring kan også skje dersom arrestanten klager på arrestoppholdet og samtykker til fortsatt lagring. Beslutning om fortsatt lagring treffes av den behandlingsansvarlige. Når formålet med den videre behandlingen er oppnådd, skal lyd- og bildeopptakene slettes. Opplysningene skal slettes i samsvar med § 16-2 annet ledd nr. 2.
+Saksbehandlingsreglene i politiregisterloven § 54 og forskriften kapittel 17 kommer til anvendelse.

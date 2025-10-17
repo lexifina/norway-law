@@ -1,0 +1,3 @@
+# § 10-3. Underretning til kommunens barnevernstjeneste om lovbrudd begått mot barn
+Dersom politiet får kjennskap til eller mistanke om at barn mishandles av foreldre, foresatte eller andre som barnet bor sammen med, skal det straks gis underretning om dette til kommunens barnevernstjeneste. Tilsvarende gjelder hvor politiet får kjennskap til eller mistanke om at barnet har vært utsatt for seksuallovbrudd fra en av de nevnte personer.
+Kommunens barnevernstjeneste skal i saker som nevnt i første ledd underrettes om bruk av tvangsmidler eller andre etterforskingsskritt hvis det er grunn til å tro at det samtidig bør settes i verk tiltak overfor barnet eller andre familiemedlemmer og det ikke er utilrådelig å gi slik underretning av hensyn til etterforskingen.

@@ -1,0 +1,4 @@
+# § 38-1. Vandelsvurdering
+Vandelsvurdering gis til en mottaker som i henhold til lov eller forskrift gitt i medhold av lov har rett til å innhente opplysninger om en person, som er eller vil bli undergitt særlige plikter etter lov, jf. politiregisterloven § 36 første ledd nr. 2.
+På vandelsvurdering skal det anmerkes de samme reaksjoner som på uttømmende politiattest, jf. politiregisterloven § 41 nr. 1 og forskriften § 29-3, jf. kapittel 30, med mindre det fremgår av hjemmelsgrunnlaget for vandelsvurderingen at det skal anmerkes færre opplysninger eller opplysninger om verserende saker, jf. politiregisterloven § 41 nr. 2. Bestemmelsene i kapittel 31 gjelder tilsvarende.
+Den som er gjenstand for vandelsvurdering skal etter begjæring gis innsyn i de opplysninger som ble utlevert i forbindelse med vandelsvurderingen, jf. politiregisterloven § 49 tredje ledd.

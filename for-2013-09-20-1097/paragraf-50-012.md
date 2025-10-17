@@ -1,0 +1,3 @@
+# § 50-12. Sletting
+Ved identifikasjon av lik skal opplysningene slettes i samsvar med § 16-2 annet ledd nr. 1 senest 5 år etter at vedkommende er identifisert, med unntak av kjerneinformasjon som muliggjør gjenfinnelse av arkivert sak. Når saknet person kommer til rette, skal opplysningene slettes senest 5 år etter at vedkommende er kommet til rette, og det ikke er foretatt nye registreringer på vedkommende. Opplysningene skal slettes i samsvar med § 16-2 annet ledd nr. 1. Utover dette gjelder politiregisterloven § 50 og § 51 og forskriften kapittel 16.
+Saksbehandlingsreglene i politiregisterloven § 54 og forskriften kapittel 17 kommer til anvendelse.

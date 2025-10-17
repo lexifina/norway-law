@@ -1,0 +1,2 @@
+# § 10-10. Underretning til militær myndighet om forhold av betydning for utdeling av militært våpen
+Politiet skal gi underretning til vedkommende militære myndighet når en tjenestepliktig i forsvaret eller tjenestepliktig eller frivillig til Heimevernet kommer under straffeforfølgning og det avdekkes forhold som gjør det betenkelig at vedkommende har eller kan komme i besittelse av militært våpen. Underretning kan sendes til Vernepliktsverket (VPV), eller for heimevernspersonells vedkommende til vedkommendes HV-distrikt dersom dette er kjent.

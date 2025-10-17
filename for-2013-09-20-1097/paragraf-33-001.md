@@ -1,0 +1,3 @@
+# § 33-1. Midlertidig hjemmel for utstedelse av politiattest
+Politidirektoratet kan treffe vedtak i henhold til politiregisterloven § 38 tredje ledd etter at saken har blitt forelagt ansvarlig departement for uttalelse. Slikt vedtak skal bare fattes unntaksvis og hvor det på grunn av tidsaspektet ikke fremstår som forsvarlig å avvente et lovvedtak. Vedtaket skal være tidsbegrenset og ikke overstige 15 måneder. Vedtaket kan ikke fornyes. Når tidsfristen utløper bortfaller det midlertidige hjemmelsgrunnlaget for utstedelse av politiattest.
+Vedtak om midlertidig hjemmel for utstedelse av politiattest kan ikke gå ut på vandelskontroll av enkeltpersoner.

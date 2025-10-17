@@ -1,0 +1,4 @@
+# § 19-2. Saksbehandlingsregler
+Krav om erstatning avgjøres i første instans av den behandlingsansvarlige der den lovstridige behandlingen skal ha funnet sted.
+Når krav fremsettes etter at en person har vært siktet i en straffesak og siktelsen har bakgrunn i den lovstridige behandlingen, gjelder behandlingsreglene i straffeprosessloven kapittel 31, samtidig som bestemmelsene i politiregisterloven § 56 kommer til anvendelse. Straffeprosessloven § 444 til § 446 og § 448 gjelder ikke for krav om erstatning etter politiregisterloven.
+Dersom den lovstridige behandlingen har bakgrunn i utveksling av opplysninger i henhold til rettsaktene som nevnt i del 13, skal utenlandsk myndighet gis adgang til å uttale seg før kravet avgjøres av den behandlingsansvarlige eller Politidirektoratet, jf. blant annet § 70-5.

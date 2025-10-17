@@ -1,0 +1,4 @@
+# § 60-10. Vilkår for utlevering
+Utlevering av PNR-opplysninger kan kun skje i enkelttilfeller etter anmodning, jf. § 60-6 første ledd nr. 3, eller i enkelttilfeller etter behandling som nevnt i § 60-6 annet ledd, til de formål som er nevnt i § 60-1.
+Ved utleveringen skal mottakeren av opplysningene underrettes om formålsbegrensningen i § 60-1. Formålsbegrensningen er ikke til hinder for at opplysningene behandles av rettshåndhevende myndigheter, dersom det under gjennomføring av tiltak som er foranlediget av mottatte PNR-opplysninger, oppdages andre lovbrudd enn kriminalitet som nevnt i § 60-4 nr. 2 og 3.
+Utlevering til kompetente myndigheter i andre land kan kun skje i saker hvor det haster og bare ved begrunnet anmodning. En kopi av anmodningen skal i slike tilfeller sendes det anmodende lands PNR-enhet.

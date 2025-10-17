@@ -1,0 +1,3 @@
+# § 34-9. Politiattest til personer som skal ansettes i virksomhet som ivaretar arkivhåndtering og informasjonssikkerhetssystemer
+Det kan utstedes uttømmende og utvidet politiattest til personer som skal ansettes i virksomhet som ivaretar arkivhåndtering og informasjonssikkerhetssystemer for offentlige og private virksomheter når det er nødvendig av sikkerhetsmessige hensyn.
+Det samme gjelder dersom senere endring i en ansatts stilling eller arbeidsoppgaver gjør at sikkerhetsmessige grunner tilsier at det fremlegges politiattest. I slike tilfeller kan det utstedes politiattest også etter ansettelse.

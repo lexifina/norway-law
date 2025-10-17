@@ -1,0 +1,4 @@
+# § 36-5. Krav til legitimasjon for juridiske personer
+Gyldig legitimasjon for juridisk person registrert i Foretaksregisteret er firmaattest som ikke er eldre enn 3 måneder.
+Gyldig legitimasjon for juridisk person registrert i Enhetsregisteret, men ikke i Foretaksregisteret, er utskrift fra Enhetsregisteret som inneholder alle registrerte opplysninger om enheten, jf. lov 3. juni 1994 nr. 15 om Enhetsregisteret § 5 og § 6 annet ledd, og som ikke er eldre enn 3 måneder.
+Gyldig legitimasjon for juridisk person som ikke er registrert i Enhetsregisteret, men i annet offentlig register, er attest eller utskrift fra registeret som gir opplysninger om navn, adresse for forretningssted eller hovedkontor og eventuelt utenlandsk organisasjonsnummer. Det skal fremgå hvilket offentlig register som kan bekrefte opplysningene.

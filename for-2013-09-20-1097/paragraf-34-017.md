@@ -1,0 +1,2 @@
+# § 34-17. Politiattest til personer som skal ansettes i Eksportfinansiering Norge
+Det skal kreves fremleggelse av ordinær politiattest av personer som skal besette stillinger i Eksportfinansiering Norge som styremedlem, varamedlem og observatør i styret, daglig leder eller andre personer som skal inngå i den faktiske ledelsen av virksomheten eller deler av denne, samt andre personer med nøkkelfunksjoner i Eksportfinansiering Norge.

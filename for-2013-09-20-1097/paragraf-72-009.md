@@ -1,0 +1,3 @@
+# § 72-9. Elektronisk søkeadgang til fingeravtrykkregister
+Medlemslandene sikres tilgang til det norske fingeravtrykkregister, jf. kapittel 46, ved elektroniske søk, likevel slik at det bare kan søkes i referansedata og at søk bare kan gå ut på treff eller ikke-treff. Dette omfatter også registrerte fingeravtrykk som ikke kan knyttes til en identifisert person. Medlemslandene skal ikke ha noen direkte tilgang til opplysninger knyttet til det enkelte fingeravtrykk som er egnet til å identifisere den registrerte.
+Norsk nasjonalt kontaktpunkt skal bekrefte om de fingeravtrykk som det ble søkt med, er identisk med fingeravtrykk som er registrert i det norske fingeravtrykkregisteret. For dette formålet skal referansedata utveksles elektronisk.

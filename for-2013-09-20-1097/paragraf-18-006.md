@@ -1,0 +1,3 @@
+# § 18-6. Klagefrist, klagens form og innhold mv.
+I klagesaker som nevnt i § 18-1 gjelder reglene i forvaltningsloven § 29 til § 32 om klagefrist, fremsettelse av klagen, oversitting av klagefristen, klagens adressat, form og innhold tilsvarende.
+I klagesaker som nevnt i § 18-2 må klagen være fremsatt senest 1 år etter at det forhold som ligger til grunn for klagen, jf. § 18-2 nr. 1 til 4, har funnet sted. Utover dette gjelder forvaltningsloven § 32, med unntak av bestemmelsens første ledd bokstav d, tilsvarende, likevel slik at det med vedtak her siktes til det forhold som ligger til grunn for klagen.
