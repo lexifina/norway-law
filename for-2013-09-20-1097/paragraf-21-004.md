@@ -1,0 +1,3 @@
+# § 21-4. Sammenstilling
+PST kan sammenstille opplysninger som behandles etter reglene i forskriften del 6 med opplysninger fra registre som er regulert etter politiregisterloven § 14. Behandlingen av opplysningene i sammenstillingen følger reglene i henholdsvis del 6 og 11 i denne forskriften.
+PST kan også sammenstille opplysninger som behandles etter reglene i forskriften del 6 eller del 11 med opplysninger fra registre PST har tilgang til eller kan få utlevert opplysninger fra og som ikke reguleres av politiregisterloven. For behandlingen av opplysninger innhentet fra slike registre gjelder de alminnelige behandlingsreglene i politiregisterloven.

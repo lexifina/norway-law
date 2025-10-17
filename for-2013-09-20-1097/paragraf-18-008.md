@@ -1,0 +1,5 @@
+# § 18-8. Saksbehandlingsregler for klage som nevnt i § 18-2
+I klagesaker som nevnt i § 18-2 skal den behandlingsansvarlige foreta de undersøkelser klagen gir grunn til. Dersom vilkårene for å behandle klagen ikke foreligger skal den behandlingsansvarlige avvise klagen. Bestemmelsene i forvaltningsloven § 31 gjelder ikke. Klager som gjelder brudd på taushetsplikt, jf. § 18-2 nr. 1, skal sendes til Spesialenheten for politisaker for vurdering av om det foreligger et straffbart forhold før de tas under behandling, med mindre det er åpenbart at klageren ikke ønsker en strafferettslig forfølgning.
+Dersom den behandlingsansvarlige finner at klagen ikke er berettiget, skal klagen sendes til klageorganet sammen med den behandlingsansvarliges uttalelse om det forhold som ligger til grunn for klagen.
+Dersom den behandlingsansvarlige finner at klagen er berettiget, skal klageren gis meddelelse om det. I disse tilfellene er det ikke nødvendig å sende klagen videre til klageorganet.
+Utover dette kommer bestemmelser i forvaltningsloven kapittel VI ikke til anvendelse.

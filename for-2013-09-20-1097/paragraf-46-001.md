@@ -1,0 +1,3 @@
+# § 46-1. Formålet
+Det skal føres et register for foto og fingeravtrykk som er innhentet i medhold av straffeprosessloven § 160 eller i henhold til samtykke, jf. § 6-1. Fotoregisteret og fingeravtrykkregisteret består av et identitetsregister, et etterforskningsregister og et sporregister. Opplysningene behandles for å bidra til sammenligning, gjenkjennelse og identifikasjon av personer for politimessige formål, herunder også til verifisering av identitet.
+Det kan også føres et eliminasjonsregister for å unngå at det registreres opplysninger i registeret for foto og fingeravtrykk om personer som ikke har tilknytning til lovbruddet.

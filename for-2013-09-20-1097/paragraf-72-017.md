@@ -1,0 +1,2 @@
+# § 72-17. Anmodning om opplysninger for å forebygge terrorlovbrudd
+Dersom konkrete holdepunkter gir grunn til å tro at en person vil begå terrorlovbrudd, jf. § 72-11 annet ledd, kan politiet anmode om at annet medlemsland utleverer opplysninger om etternavn, fornavn, fødselsdato og fødested. Anmodningen skal inneholde en beskrivelse av de omstendigheter som har gitt grunnlag for å etterspørre opplysningene.

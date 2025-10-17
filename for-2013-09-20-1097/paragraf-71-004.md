@@ -1,0 +1,2 @@
+# § 71-4. Forholdet til andre avtaler
+Dette kapittelet berører ikke Norges forpliktelser i henhold til bilaterale eller multilaterale avtaler inngått med andre medlemsland, med tredjeland, eller med EU, om gjensidig bistand til rettsanmodninger eller gjensidig anerkjennelse av rettsavgjørelser i straffesaker. Kapittelet berører heller ikke eventuelle begrensninger fastsatt av et tredjeland når det gjelder videre utlevering av opplysninger som politiet har mottatt fra tredjeland.

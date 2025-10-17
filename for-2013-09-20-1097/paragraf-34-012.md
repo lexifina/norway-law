@@ -1,0 +1,2 @@
+# § 34-12. Politiattest til personer som skal ansettes i eller ha oppgaver for fritidsklubber eller i barne- og ungdomsleirer
+Det kan utstedes barneomsorgsattest som nevnt i politiregisterloven § 39 til personer som skal arbeide eller ha oppgaver i fritidsklubber eller i barne- og ungdomsleirer og hvor oppgavene innebærer et tillits- eller ansvarsforhold overfor mindreårige eller personer med utviklingshemming.

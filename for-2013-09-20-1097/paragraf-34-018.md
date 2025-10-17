@@ -1,0 +1,2 @@
+# § 34-18. Politiattest til personer som skal ansettes ved museer mv.
+Museer som mottar statlig tilskudd eller investeringstilskudd, Nasjonalbiblioteket og andre bibliotek med samlinger av unik karakter kan kreve fremleggelse av ordinær politiattest jf. politiregisterloven § 40 av personer som skal ansettes fast eller midlertidig for å utføre oppgaver som i kraft av stillingen gir jevnlig tilgang til samlinger eller sensitive opplysninger om forvaltning av samlinger. Det samme gjelder personer som skal utføre slike oppgaver uten å være ansatt.

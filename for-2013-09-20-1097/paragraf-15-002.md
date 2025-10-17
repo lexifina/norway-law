@@ -1,0 +1,5 @@
+# § 15-2. Sperring av opplysninger
+Sperring av opplysninger innebærer at den fremtidige behandlingen av opplysningene begrenses til visse formål, jf. politiregisterloven § 2 nr. 10. Sperrede opplysninger kan bare brukes til det eller de formål som gjorde at opplysningen ikke ble slettet. Når en opplysning sperres skal grunnen til at opplysningen ikke ble slettet nedtegnes, jf. også § 15-4 første ledd.
+Opplysninger som er sperret skal holdes atskilt. Tilgang til opplysninger som er sperret skal begrenses til så få personer som mulig, og bare gis til personer som har fått særskilt bemyndigelse, jf. også § 8-4 annet ledd. Når lagring av sperrede opplysninger ikke lenger er nødvendig, skal de slettes etter § 16-5.
+For opplysninger som er sperret fordi de ikke skal brukes til vandelskontroll, jf. § 15-4 første ledd nr. 2, og opplysninger som er sperret etter § 59-11 første ledd, jf. § 15-4 første ledd nr. 3, gjelder bare første ledd første og annet punktum.
+For opplysninger som er sperret etter politiregisterloven § 50 tredje ledd eller etter § 58-10 tredje eller fjerde ledd, gjelder første ledd første og annet punktum og annet ledd.

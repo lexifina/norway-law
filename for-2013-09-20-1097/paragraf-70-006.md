@@ -1,0 +1,9 @@
+# § 70-6. Generelle prinsipper for utlevering av opplysninger
+Personopplysninger kan kun utleveres til tredjeland eller internasjonale organisasjoner dersom
+1) det er nødvendig for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder for å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,
+2) den myndighet i tredjelandet eller i det internasjonale organ som mottar opplysningene, har ansvaret for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,
+3) det medlemsland der opplysningene er innhentet fra har gitt sitt samtykke til utleveringen i samsvar med sin nasjonale lovgivning,
+4) kommisjonen har truffet avgjørelse om tilstrekkelig beskyttelsesnivå, jf. § 70-7, det foreligger en tilstrekkelig grad av beskyttelse for den aktuelle behandling av opplysningene, jf. § 70-8, eller det foreligger særlige unntak som nevnt i § 70-9, og
+5) den myndighet som foretok den opprinnelige utleveringen, eller en annen myndighet i samme medlemsstat, ved videre utlevering til et annet tredjeland eller en annen internasjonal organisasjon, gir tillatelse til den videre utleveringen, etter å ha vurdert alle relevante faktorer, herunder lovbruddets alvorlighet, formålet med den opprinnelige utleveringen og sluttmottakers beskyttelsesnivå.
+Dersom utleveringen av opplysningene er avgjørende for å kunne avverge en overhengende og alvorlig trussel mot et medlemslands eller et tredjelands offentlige sikkerhet eller mot et medlemslands vesentlige interesser, og et forutgående samtykke ikke kan innhentes i tide, er utlevering uten forutgående samtykke som nevnt i første ledd nr. 3 tillatt.
+Den myndighet som har ansvaret for å gi samtykke, skal underrettes omgående.

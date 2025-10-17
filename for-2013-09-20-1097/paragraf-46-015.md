@@ -1,0 +1,4 @@
+# § 46-15. Sletting
+Foto og fingeravtrykk i identitetsregisteret skal slettes hvis den registrerte rettskraftig frifinnes. For øvrig skal sletting skje senest 5 år etter at vedkommende er død eller tidligere dersom fortsatt registrering åpenbart ikke lenger vil være hensiktsmessig. Sletting skal gjøres i samsvar med § 16-2 annet ledd nr. 2.
+Foto og fingeravtrykk i etterforskningsregisteret skal slettes når den registrerte får sin sak endelig avgjort på en måte som ikke tilkjennegir at han er skyldig. Dette gjelder likevel ikke dersom vilkårene for registrering i forbindelse med en annen sak er til stede. Sletting skal gjøres i samsvar med § 16-2 annet ledd nr. 2.
+Foto og fingeravtrykk innhentet etter samtykke skal slettes når formålet med undersøkelsen er oppnådd eller referansepersonen trekker samtykket tilbake. Sletting skal gjøres i samsvar med § 16-2 annet ledd nr. 2.

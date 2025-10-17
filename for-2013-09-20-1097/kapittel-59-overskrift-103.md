@@ -1,0 +1,1 @@
+# Informasjonsplikt og innsyn

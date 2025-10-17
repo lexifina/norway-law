@@ -1,0 +1,3 @@
+# § 50-3. Behandlingsansvar
+Kripos er behandlingsansvarlig for saknetregisteret.
+For øvrig gjelder bestemmelsene i forskriften kapittel 2.

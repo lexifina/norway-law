@@ -1,0 +1,3 @@
+# § 12-1. Generelt
+Bestemmelsen om informasjonsplikt i politiregisterloven § 48 første ledd er ikke til hinder for at den behandlingsansvarlige kan informere den registrerte om utlevering av opplysninger i andre tilfeller enn de som er nevnt der.
+Informasjon utenom de lovpålagte tilfellene bør vurderes dersom utlevering av opplysninger til andre formål enn politiregisterloven § 30 og § 31 må antas å medføre ulemper for den registrerte, jf. § 12-2 tredje ledd. Dette gjelder særlig ved utlevering av opplysninger i de tilfellene der politiregisterloven § 27 tredje ledd annet punktum kommer til anvendelse.

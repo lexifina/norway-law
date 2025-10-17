@@ -1,0 +1,4 @@
+# § 12-2. Unntak fra informasjonsplikten
+Unntaket i politiregisterloven § 48 annet ledd nr. 1 kommer til anvendelse dersom den behandlingsansvarlige enten av eget tiltak eller etter anmodning fra andre har plikt til å utlevere opplysninger. Dersom det er tvilsomt om hjemmelsgrunnlaget gir anvisning på en plikt eller en rett til å utlevere opplysninger, kommer unntaket i politiregisterloven § 48 annet ledd nr. 1 ikke til anvendelse.
+Ved avgjørelsen av om unntaket i politiregisterloven § 48 annet ledd nr. 2 kommer til anvendelse skal det foretas samme vurdering som for de tilsvarende unntakene fra innsyn i politiregisterloven § 49 tredje ledd nr. 1, 4 og 5.
+Unntaket i politiregisterloven § 48 annet ledd nr. 3 kommer ikke til anvendelse dersom det er grunn til å anta at utlevering av opplysninger vil kunne påføre den registrerte skade eller ulempe av økonomisk eller annen art, eller dersom utlevering av opplysninger vil være krenkende.

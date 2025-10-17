@@ -1,0 +1,2 @@
+# § 16-5. Sletting av opplysninger som er sperret
+Opplysninger som er sperret etter politiregisterloven § 50 og § 51 kan slettes når de ikke lenger er nødvendig for formålet som gjorde at opplysningene ikke ble slettet. Når sperrede opplysninger skal slettes etter § 15-4 annet ledd, skal de fjernes fra de registre eller systemer der sperrede opplysninger er lagret. Etter at opplysningene er fjernet skal de slettes i henhold til de regler som gjelder for denne typen opplysninger før de ble sperret, jf. § 16-2 annet ledd.

@@ -1,0 +1,3 @@
+# § 50-5. Nærmere om behandling av DNA-opplysninger
+Kripos kan føre et register tilknyttet saknetregisteret som inneholder DNA-profilene til uidentifiserte lik eller likdeler og DNA-profiler av saknede og dennes pårørende etter samtykke.
+Den pårørende kan samtykke, jf. § 6-1, til å avgi biologisk materiale med sikte på å gjennomføre en DNA-analyse dersom dette kan bidra til å identifisere den saknede. DNA-profiler i saknetregister er gjensidig søkbare. DNA-profil fra pårørende og saknede kan utelukkende søkes mot DNA-profiler i saknetregisteret. DNA-profil fra lik og likdeler kan søkes mot DNA-registeret, jf. § 45-8 annet ledd.

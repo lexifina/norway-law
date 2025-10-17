@@ -1,0 +1,4 @@
+# § 74-8. [DNA-profiler
+Til bruk for etterforskning av alvorlig kriminalitet gis De forente staters nasjonale kontaktpunkt tilgang til referansedata i det norske DNA-register, jf. kapittel 45, herunder rett til å foreta direkte søk ved å sammenlikne DNA-profiler. Søk kan foretas bare i enkelttilfeller. De forente stater skal ikke gis direkte tilgang til opplysninger knyttet til den enkelte DNA-profil som er egnet til å identifisere den registrerte.
+Dersom man ved søk etter første ledd konstaterer at DNA-profilene samsvarer, skal Kripos utlevere elektronisk referansedataene som hører til profilen det er funnet samsvar med. Dersom det ikke foreligger samsvar, skal det gis elektronisk melding om dette. Innenfor de rammer som følger av norsk lovgivning skal Kripos utlevere ytterligere personopplysninger og andre tilgjengelige opplysninger vedrørende referansedataene.]
+Ikke i kraft.

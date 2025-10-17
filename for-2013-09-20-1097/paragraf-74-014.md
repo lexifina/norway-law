@@ -1,0 +1,4 @@
+# § 74-14. Særlige behandlingsregler og informasjonsplikt
+På anmodning fra De forente stater plikter Kripos eller den behandlingsansvarlige å rette, slette eller sperre opplysninger som er innhentet eller behandlet i strid med dette kapittel, eller hvor utleveringen til Norge er i strid med De forente staters interne rett.
+Opplysninger mottatt etter dette kapittel skal ikke utleveres til tredjestater, internasjonale organer eller private parter uten samtykke fra De forente stater. Nødvendige sikkerhetsforanstaltninger skal foretas.
+Kripos skal på anmodning uten unødig opphold underrette kontaktpunktet i De forente stater om behandlingen av oversendte opplysninger og hvilket resultat som er oppnådd. Dersom De forente stater i et konkret tilfelle har fastsatt særlige vilkår for bruk av opplysningene, skal Kripos på anmodning underrette De forente stater om hvordan opplysningene er brukt.

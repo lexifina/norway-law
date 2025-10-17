@@ -1,0 +1,4 @@
+# § 38-5. Akkreditering
+Behandling av opplysninger i forbindelse med akkreditering av person kan foretas når vedkommende skal gis adgang til bestemte områder hvor det av sikkerhetsmessige eller tungtveiende ordensmessige grunner er nødvendig med en kontroll av personen, eller hvor det av samme grunner er nødvendig med en begrensning i antallet personer som skal ha tilgang til et sted.
+Ved akkrediteringen kan politiet bare legge vekt på opplysninger som er relevante i forhold til formålet med akkrediteringen. Sak om akkreditering skal forelegges Politiets sikkerhetstjeneste for uttalelse.
+Akkreditering gis i form av tilbakemelding til sikkerhetsansvarlig for arrangementet mv., og skal bare gi uttrykk for om personen akkrediteres eller ikke. Slik tilbakemelding er ikke gjenstand for klagebehandling etter politiregisterloven § 55. Informasjonsplikten i politiregisterloven § 48 gjelder ikke.

@@ -1,0 +1,2 @@
+# § 37-2. Oppbevaring av politiattest hos mottakeren
+Politiattesten skal oppbevares utilgjengelig for uvedkommende. Politiattesten kan oppbevares så lenge det er nødvendig for formålet med politiattesten, men ikke utover det tidspunkt vedkommende slutter i den stillingen som ga grunnlaget for vandelskontroll. Politiattest som ikke lenger er nødvendig for formålet skal tilintetgjøres. Offentlige mottakere skal slette politiattesten i samsvar med § 16-2 annet ledd nr. 2.

@@ -1,0 +1,3 @@
+# § 34-5. Politiattest til vertsfamilie for utvekslingsstudent
+Skoler, organisasjoner eller andre institusjoner som administrerer utvekslingsprogram for mindreårige studenter skal kreve fremleggelse av uttømmende og utvidet politiattest i samsvar med politiregisterloven § 41 av den eller dem i vertsfamilien som skal ha omsorgen for den mindreårige utvekslingsstudenten. Det kan også kreves fremleggelse av barneomsorgsattest som nevnt i politiregisterloven § 39 første ledd av andre som bor hos vertsfamilien.
+Skoler som administrerer vertsfamilieordning for mindreårige elever i videregående skole skal kreve fremleggelse av barneomsorgsattest som nevnt i politiregisterloven § 39 av den eller dem i vertsfamilien som skal ha hovedansvar for den mindreårige eleven.

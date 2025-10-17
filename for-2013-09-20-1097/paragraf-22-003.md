@@ -1,0 +1,7 @@
+# § 22-3. Sletting og sperring av opplysninger
+Opplysninger skal ikke oppbevares lenger enn nødvendig ut fra formålet med behandlingen. Opplysninger som kan ha betydning som dokumentasjon skal ikke slettes, men skal av notoritetshensyn sperres.
+Opplysninger behandlet i dokumenter underlagt krav til journalføring og arkivering følger arkivlovas bestemmelser om oppbevaring og kassasjon.
+Opplysninger som er registrert i PSTs forebyggende virksomhet, utenfor forebyggende sak som nevnt i § 21-5, skal gjennomgås når det har gått 5 år fra registreringstidspunktet og det i dette tidsrommet ikke er registrert nye opplysninger om vedkommende. Dersom registreringen beholdes utover 5 år skal det fremgå at det er truffet beslutning om dette og hva som er begrunnelsen. Opplysningene skal slettes i samsvar med § 16-2 annet ledd nr. 2 dersom de ikke lenger er nødvendige for formålet. Opplysninger som behandles etter § 65 skal slettes i samsvar med § 16-2 tredje ledd.
+Ved avslutning av forebyggende sak, jf. § 21-5, skal opplysningene av notoritetshensyn ikke slettes, men sperres. Før opplysningene sperres skal det tas stilling til om enkelte av opplysningene i saken er nødvendige for PSTs øvrige forebyggende virksomhet. I så fall kan saken i sin helhet viderebehandles.
+Opplysninger som behandles for formål som nevnt i politiloven § 17a skal slettes i samsvar med § 16-2 annet ledd nr. 2 når de ikke lenger er nødvendige for formålet.
+Behandling av opplysninger i forbindelse med personkontroll følger reglene om oppbevaring og sletting i sikkerhetsloven med forskrift.

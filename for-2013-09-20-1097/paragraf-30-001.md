@@ -1,0 +1,4 @@
+# § 30-1. Konfliktrådsbehandling
+Overføring til konfliktråd etter straffeprosessloven § 71a skal ikke anmerkes på uttømmende politiattest eller vandelsvurdering dersom vedkommende ikke har begått nye lovbrudd som kan idømmes fengselsstraff 2 år etter konfliktrådsbehandlingen.
+Utgangspunktet for beregning av fristen etter første ledd er datoen for godkjent avtale. Fristen avbrytes også dersom vedkommende har en verserende sak, jf. § 28-3 nr. 3. Dersom en verserende sak avsluttes uten at vedkommende ilegges reaksjon for lovbrudd som kan idømmes fengselsstraff beregnes fristen igjen fra datoen for godkjent avtale.
+Opplysninger om overføring til konfliktråd som etter første ledd ikke lenger skal anmerkes på uttømmende politiattest eller vandelsvurdering, skal slettes i reaksjonsregisteret, jf. også forskriften § 44-13.

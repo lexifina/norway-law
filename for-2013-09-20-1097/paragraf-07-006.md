@@ -1,0 +1,2 @@
+# § 7-6. Utlevering av opplysninger underlagt tidsbegrenset unntak fra kravene til formålsbestemthet, nødvendighet og relevans
+Utlevering av opplysninger som omfattes av politiregisterloven § 8 kan bare finne sted dersom det er strengt nødvendig, jf. § 4-3, for å avklare om kravene til formålsbestemthet, nødvendighet og relevans er oppfylt. Slike opplysninger kan ikke utleveres til andre formål enn kontrollen, herunder heller ikke i forbindelse med dokumentinnsyn etter straffeprosesslovens regler.
