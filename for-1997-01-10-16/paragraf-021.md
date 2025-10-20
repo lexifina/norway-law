@@ -1,0 +1,4 @@
+# § 21. Tekst, navneflytting m.m.
+Tekst, fotografi, dekor og symbolbruk på gravminne, minnesmerke og urnevegg skal være sømmelig, og det navnet som settes på, skal være identisk med navnet på den som er gravlagt. Personer som er omkommet på havet, i krig eller liknende, og som ikke er gravlagt på gravplass, kan likevel få navnet satt på eksisterende eller nytt gravminne eller på minnesmerke ved navnet minnelund eller urnevegg hvor dette er anlagt. Det samme gjelder i påvente av gravlegging av avdøde hvor liket er donert til undervisning og forskning.
+Gravplassmyndigheten kan gi tillatelse til at navn på person påføres gravminne på en eksisterende grav eller eksisterende navneplate i navnet minnelund eller urnevegg et annet sted enn der vedkommende er gravlagt. Navnet må da fjernes fra den opprinnelige plasseringen.
+Dersom gravplassmyndigheten fjerner gravminne, skal navn og data tas bort.

@@ -1,0 +1,3 @@
+# § 19. Gravregister
+I tillegg til gravkart etter § 4 skal det for hver gravplass foreligge et kronologisk register over alle gravlagte. Registret skal vise når og hvor de er gravlagt, hvem som er fester eller ansvarlig for frigrav, hvilke graver som er festet sammen og når feste utgår. Opplysninger om enkeltgraver som ikke tilfredsstiller forskriftens krav, skal registreres.
+Gravregister er omfattet av lov om behandling av personopplysninger (personopplysningsloven), og retten til innsyn i registeret for den registrerte reguleres av personvernforordningen artikkel 15. Retten til innsyn for andre reguleres av offentleglova. Registerføreren skal avgi skriftlig taushetserklæring.

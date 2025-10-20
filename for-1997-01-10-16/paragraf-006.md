@@ -1,0 +1,2 @@
+# § 6. Byggetillatelse og ferdigattest
+Ved anlegg, utvidelse og vesentlig endring av gravplass kreves byggetillatelse og ferdigattest etter plan- og bygningslovens bestemmelser. Godkjenning av eller uttalelse om plan for gravplassen fra statsforvalteren skal følge byggesøknaden. Ferdig opparbeidet gravplassareal skal godkjennes av statsforvalteren før det tas i bruk. Statsforvalteren skal påse at det foreligger kommunal ferdigattest og erklæring fra gravplassmyndigheten om at gravplassen er ferdigstilt i henhold til planene.

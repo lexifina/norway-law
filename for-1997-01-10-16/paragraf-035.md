@@ -1,0 +1,2 @@
+# § 35. Registerføring
+For hvert krematorium føres et kremasjonsregister som inneholder kremasjonsnummer, avdødes navn, fødselsdato, bostedskommune, dødsdato, kremasjonsdato, askeurnens utleveringsdato samt kommunen for gravlegging. Dersom statsforvalteren har gitt tillatelse til at asken spres for vinden, skal det gjøres anmerkning om dette. Bestemmelsene i § 19 gjelder tilsvarende så langt de passer.
