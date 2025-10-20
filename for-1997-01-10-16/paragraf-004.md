@@ -1,0 +1,5 @@
+# § 4. Inndeling av gravplass. Gravkart
+Gravplass inndeles i gravfelt. Hvert gravfelt inndeles i graver som normalt er ordnet i rekker og kolonner.
+Ved anlegg, utvidelse eller vesentlig endring av gravplass skal gravplassen, hvert gravfelt og hver grav ha egen ID i henhold til standard fastsatt av Statens kartverk (SOSI). Gravene bør være stedfestet ved hjelp av koordinater og skal være forankret i marken med gravfeltfastmerker, som regel minst fire for hvert gravfelt. Graver skal kunne påvises entydig, enten direkte ved hjelp av koordinater eller ved utmål fra gravfeltfastmerkene.
+Det skal foreligge gravkart for hvert felt på gravplassen, som viser fastmerkene. Gravkartet skal også gi opplysninger om hvem som er gravlagt i vedkommende grav, eventuelt i form av en kode. Deler av gravplass som er fredet av eller i medhold av kulturminneloven, skal avmerkes på gravkartet.
+Der SOSI-standarden ikke er innført, skal likevel hver gravplass, hvert gravfelt og hver grav ha sin egen ID. Ved bruk av analoge kart skal de foreligge i målestokk 1:100 og gravfeltfastmerkene skal være koordinatberegnet.

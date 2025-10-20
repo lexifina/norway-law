@@ -1,0 +1,2 @@
+# § 26. Ansvar
+Eieren er ansvarlig for at gravminne ikke er i forfall, til sjenanse eller til fare for dem som ferdes på gravplassen. Når gravplassmyndigheten finner det nødvendig, skal eieren varsles med pålegg om å bringe gravminnet i overensstemmelse med de krav som er stilt i forskrift og vedtekter. Dersom eieren unnlater å etterkomme slikt pålegg eller det er uvisst hvor eieren befinner seg, kan gravplassmyndigheten sette i verk tiltak som er nødvendig for å bringe gravminnet i orden, herunder fjerne gravminnet.
