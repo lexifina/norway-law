@@ -1,0 +1,5 @@
+# § 5-12. Delt innstilling fra bedømmelseskomitéen
+(1) Dersom komitéen avgir delt innstilling og dekan finner å legge flertallets uttalelser til grunn for sitt vedtak, fatter institusjonen vedtak i samsvar med flertallets innstilling.
+(2) Dersom komitéen avgir delt innstilling og dekan vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan dekan søke nærmere avklaring fra bedømmelseskomitéen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komitéinnstillingen, skal denne innstillingen følges.
+(3) Kandidaten skal underrettes om utfallet etter behandling av uttalelser fra nye sakkyndige.
+(4) Eventuelle nye sakkyndige som oppnevnes etter denne paragraf inngår ikke i bedømmelseskomitéen eller som opponenter ved disputas. Ved frafall av medlemmer i den opprinnelige bedømmelseskomitéen, kan de nye sakkyndige likevel oppnevnes som settemedlemmer etter § 5-5 (9).

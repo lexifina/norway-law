@@ -1,0 +1,5 @@
+# § 2-7. Ph.d.-avtalen
+(1) Opptak til høgskolens ph.d.-utdanning formaliseres ved at skriftlig avtale underskrives av ph.d.-kandidat, veileder(e) og dekan. Avtalen regulerer partenes rettigheter og plikter i opptaksperioden, og skal sikre at kandidaten deltar regelmessig i et aktivt forskermiljø og legge til rette for at ph.d.-utdanningen skal kunne gjennomføres til avtalt tid. Det sentrale ph.d.-utvalget fastsetter avtaleskjema.
+(2) For ph.d.-kandidater med finansiering fra, tilsetting hos eller andre bidrag fra en ekstern part, skal det inngås egen avtale mellom kandidaten, fakultetet og den eksterne part. Det sentrale ph.d.-utvalget fastsetter avtaleskjema.
+(3) I tilfeller hvor ph.d.-kandidaten skal ha tilknytning til utenlandske institusjoner, må høgskolens retningslinjer for slikt samarbeid følges, og egne avtaler inngås på fastsatte skjema. Slike avtaler skal normalt foreligge sammen med opptaksavtalen.
+(4) Betydelige endringer i avtalen som vil påvirke gjennomføringen av forskningsprosjektet eller opplæringsdelen, må godkjennes av programutvalget.
