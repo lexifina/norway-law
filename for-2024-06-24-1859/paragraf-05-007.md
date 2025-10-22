@@ -1,0 +1,4 @@
+# § 5-7. Omarbeiding av innlevert avhandling
+(1) Bedømmelseskomitéen kan på grunnlag av den innleverte avhandlingen og eventuelt tilleggsmateriale, jf. § 5-6, anbefale at programutvalget gir tillatelse til mindre omarbeiding før endelig innstilling foreligger. Komiteen skal gi en konkret oversikt over hva kandidaten må omarbeide i skriftlig form.
+(2) Tillater programutvalget en mindre omarbeiding av avhandlingen, skal det gis en frist for slik omarbeiding som normalt ikke skal være lengre enn tre (3) måneder. Det skal også fastsettes en ny frist for oversendelse av komitéens endelige innstilling. Institusjonens vedtak etter denne paragrafen kan ikke påklages av ph.d.-kandidaten.
+(3) Dersom komitéen finner at dyptgripende endringer vedrørende teori, hypotese, materiale eller metode er nødvendige for at arbeidet skal kunne anbefales til disputas, skal komitéen ikke godkjenne avhandlingen.
