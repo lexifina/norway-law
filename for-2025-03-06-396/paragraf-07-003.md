@@ -1,0 +1,14 @@
+# § 7-3. Fusk og plagiering
+(1) Forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen og vurdering. Som fusk eller forsøk på fusk regnes blant annet:
+- Bruk av andre hjelpemidler enn de som er tillatt i den enkelte emnebeskrivelsen og/eller eksamensoppgaven. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig i forbindelse med gjennomføring av eksamen, selv om det ikke kan påvises at hjelpemiddelet har vært i bruk.
+- Samarbeid med andre, utover det som er beskrevet for hvert enkelte emne eller oppgave/prosjekt.
+- Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+- Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider, innhold laget av kunstig intelligens (KI) og eget eller andres arbeid uten tilstrekkelig kildehenvisning etter gjeldende standard for fagskolen.
+- Bruk av tidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv, eller av andre, uten tilstrekkelig kildehenvisning.
+- Fabrikkering eller forfalsking av data
+- Besvarelsen er preget av manglende selvstendighet, er svært lik en annen besvarelse, eller åpenbart utarbeidet av andre eller kunstig intelligens (KI) uten tilstrekkelig kildehenvisning.
+(2) Dersom det under eksamen eller prøve oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten velger selv om eksamen skal fullføres/avbrytes.
+(3) Bestemmelsene om fusk omfatter både obligatoriske arbeider / arbeidskrav og annet som inngår i emnekarakter og eksamen, og vurderes likestilt.
+(4) Konsekvenser av fusk eller forsøk på fusk kan medføre annullering av karakter på eksamen, prøve og arbeidskrav og utestenging og reguleres av fagskoleloven §§ 24 og 25 samt henvisningene under kapittel 9.
+(5) En student som mistenkes for fusk eller forsøk på fusk, har ikke rett til å fremstille seg til eksamen eller prøve i det emnet som omfattes av mistanken, så lenge saken er under behandling. Bestemmelsen gjelder både ordinær og ny eksamen eller prøve i vedkommende tema eller emne. Tilsvarende gjelder dette når det mistenkes fusk ved arbeidskrav eller annet grunnlag som inngår i en emnekarakter. Dersom klagenemnda kommer frem til at det ikke foreligger fusk, og besvarelsen blir vurdert til ikke bestått, har studenten rett til ny eksamen, prøve eller innlevering av arbeidskrav.
+(6) Ved mistanke om fusk i et skriftlig arbeidskrav eller skriftlig eksamen kan studenten få et tilbud om en muntlig høring for å avklare eierforholdet til den opprinnelige skriftlige besvarelsen/innleveringen. Dette gjøres før saken eventuelt oversendes klagenemnda til vedtak. Notat fra høringen skal følge saken.

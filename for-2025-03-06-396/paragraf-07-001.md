@@ -1,0 +1,2 @@
+# § 7-1. Annullering av eksamen m.m.
+Falsk dokumentasjon eller annen uredelighet ved opptak, eksamen eller søknad om godskriving kan medføre at godkjente emner og eksamener blir annullert. Lokal klagenemnd kan fatte slikt vedtak og klageinstans er Nasjonal klagenemnd for fagskoleutdanning. Bruk av falsk dokumentasjon blir politianmeldt. Nærmere bestemmelse om grunnlag, fremgangsmåte og konsekvens av annullering går frem av fagskoleloven § 24.

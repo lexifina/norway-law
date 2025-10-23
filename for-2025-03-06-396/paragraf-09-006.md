@@ -1,0 +1,2 @@
+# § 9-6. Klage på ikke godkjente arbeidskrav når konsekvensen er ikke bestått emne
+Dersom det fattes vedtak om at et emne ikke er bestått som følge av et ikke godkjent arbeidskrav, kan det klages på formelle feil ved vurderingen. Det kan også klages på den faglige vurderingen av arbeidskravet, så sant innholdet i arbeidskravet lar seg etterprøve, jf. § 9-5. Vedtak om ikke bestått emne fattes bare etter at studenten har fått en ny mulighet til å levere arbeidskravet.

@@ -1,0 +1,5 @@
+# § 5-6. Muligheter for ny gjennomføring for å få emnekarakter
+(1) Hvis en student ikke får godkjent et arbeidskrav, får studenten én (1) ny mulighet til å levere arbeidskravet.
+(2) Hvis en student ikke får bestått praksis, får studenten én (1) ny mulighet til å gjennomføre hele eller deler av praksisemnet. Dersom en student avbryter en praksisperiode uten dokumentert grunn, blir praksisperioden vurdert til «ikke bestått».
+(3) Hvis en student ikke har gjennomført obligatorisk fremmøte til undervisning og gruppesamlinger før emnekarakter skal settes, må emnet tas på nytt for å få bestått karakter i emnet. Hvis en student ikke består arbeidskrav eller praksis etter den nye muligheten (andre gangs forsøk), må emnet tas på nytt for å få bestått karakter i emnet. For å ta et emne på nytt må studenten søke om nytt opptak til studiet.
+(4) Faglig ansvarlig kan innvilge utsettelse av innlevering av arbeidskrav, hvis det er tungtveiende grunner til dette. Dersom arbeidskrav ikke leveres innen frist, og det ikke er innvilget utsettelse, regnes dette som at arbeidskravet ikke er bestått. Studenten får én (1) ny mulighet til å levere arbeidskravet, jf. § 5-6 (1).

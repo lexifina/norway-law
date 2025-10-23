@@ -1,0 +1,2 @@
+# § 1-8. Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet
+Studenter og ansatte skal ikke bruke klesplagg som helt eller delvis dekker ansiktet, i forbindelse med undervisning, praksis, turer, ekspedisjoner og lignende i tilknytning til fagskolens undervisning. Nærmere presisering av forbudet og at gjentatte brudd kan medføre utestenging og bortvisning for studenten og oppsigelse for ansatte, går fram av fagskoleloven § 43.
