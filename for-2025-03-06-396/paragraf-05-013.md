@@ -1,0 +1,8 @@
+# § 5-13. Tilrettelegging ved eksamen, prøver og andre vurderingssituasjoner
+(1) En student som av medisinske eller andre grunner har behov for spesiell tilrettelegging ved gjennomføring av eksamen, prøver og andre vurderingssituasjoner, må søke om dette senest fire uker i forkant. Dersom det oppstår akutte behov, kan det gjøres unntak fra søknadsfristen. Søknader om tilrettelegging av eksamen behandles av rektor eller den rektor har gitt fullmakt.
+(2) Søknaden må inneholde dokumentasjon fra sakkyndig instans (f.eks. lege, logoped, psykolog) og begrunnelse for / beskrivelse av behovet for særordning i eksamenssituasjonen. Det skal normalt søkes for hvert skoleår, men dersom grunnlaget for særordningen er av permanent karakter, kan det gjøres unntak fra dette.
+(3) Særordninger kan for eksempel være spesiell fysisk tilrettelegging, være eget eksamenslokale, bruk av særskilte hjelpemidler, skrivehjelp, muntlig eksamen i stedet for skriftlig, høytlesing av oppgaven, høytlesing av besvarelsen for korrektur, ekstra pauser med mulighet for å hvile, ammepauser og/eller utvidet tid til eksamen, eller i spesielle tilfeller alternativ eksamensform.
+(4) Særordninger skal være slik at eksamensprestasjonen vurderes etter vanlige faglige kriterier.
+(5) Ved skriftlig eksamen med tilsyn kan det gis utvidet tid. Eksamen uten tilsyn vurderes særskilt, men det kan maksimalt gis 48 timer tillegg i tid.
+(6) Særordningene skal være slik at eksamensbesvarelsen/presentasjonen vurderes etter vanlige og faglige kriterier.
+(7) Vedtak om tilrettelegging i forbindelse med eksamen går frem av fagskoleloven § 15 og er et enkeltvedtak. Klageinstans er lokal klagenemnd. Se også kapittel 9.
