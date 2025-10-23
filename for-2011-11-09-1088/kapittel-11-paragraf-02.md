@@ -1,0 +1,5 @@
+# § 11-2. Formålet med fredningen
+Formålet med å bevare Eidsvollsbygningen med to sidebygninger og hageanlegg på gnr./bnr. 97/4, er både kulturhistorisk og arkitekturhistorisk begrunnet. Fredningen skal sikre et sentralt arkitektonisk verk og sted, knyttet til konstitusjonen av Norge som nasjon med egen grunnlov. Formålet med fredningen er videre å opprettholde den museale bruk av bygninger og anlegg i statlig eie som nasjonalt minnesmerke.
+Fredningen av bygningenes eksteriører skal sikre bygningens opprinnelige arkitektur. Både hovedstrukturen i det arkitektoniske uttrykket og detaljering som fasadeløsning, eldre dører og vinduer, materialbruk, overflater og dekor skal opprettholdes.
+Formålet med fredningen av hovedbygningens og sidebygningenes interiører er å bevare rominndeling, bygningsdeler og overflater i de deler av interiøret som er opprinnelig fra byggeåret eller ombygget på en helhetlig måte som tjener den opprinnelige arkitekturen.
+Formålet med fredningen av hageanlegget på gnr./bnr. 97/4 er å sikre den opprinnelige arrondering rundt bygningene på den del som er i statlig eie.
