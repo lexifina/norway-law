@@ -1,0 +1,2 @@
+# § 2. Virkeområde
+Forskriften gjelder innenfor norsk område, herunder på Svalbard. Forskriften gjelder også i tilknytning til petroleumsvirksomhet på norsk kontinentalsokkel, og i øvrige områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester og lufttrafikkstyring, så langt dette er i overensstemmelse med Norges folkerettslige forpliktelser.
