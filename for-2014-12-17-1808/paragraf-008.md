@@ -1,0 +1,2 @@
+# § 8. Dispensasjon
+Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt for en enkelt seilas. Dispensasjon kan gis dersom det er eller vil bli mangel på los og hensynet til sjøsikkerheten tilsier at dispensasjon kan gis eller i andre tilfeller der det er urimelig å pålegge et fartøy å bruke los og det åpenbart er sikkerhetsmessig forsvarlig å gi dispensasjon. Søknad skal gjøres i SafeSeaNet.
