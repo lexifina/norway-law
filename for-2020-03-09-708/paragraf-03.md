@@ -1,0 +1,2 @@
+# § 3. Innholdet i dokument-, identitets- og fysisk kontroll
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bs, kap. II nr. 31qs og vedlegg II kap. XII nr. 164s (forordning (EU) 2019/2130) om fastsettelse av nærmere regler for de oppgavene som skal utføres under og etter dokumentkontroll, identitetskontroll og fysisk kontroll av dyr og varer som omfattes av offentlig kontroll på grensekontrollstasjonene gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.

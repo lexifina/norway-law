@@ -1,0 +1,2 @@
+# Artikkel 4 Ferske fiskerivarer som ilandføres direkte i havner i Unionen som medlemsstatene har utpekt, fra et fiskefartøy som seiler under en tredjestats flagg
+Ferske fiskerivarer som ilandføres direkte fra et fiskefartøy som seiler under en tredjestats flagg, er unntatt fra offentlig kontroll på grensekontrollstasjoner, forutsatt at de er gjennomført av vedkommende myndigheter i havner i Unionen som medlemsstatene har utpekt, i samsvar med artikkel 5 nr. 1 i forordning (EF) nr. 1005/2008.

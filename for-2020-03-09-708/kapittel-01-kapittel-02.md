@@ -1,0 +1,2 @@
+# Forordning (EU) 2019/2130 om innholdet i dokument-, identitets-, og fysisk kontroll
+Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bs, kap. II nr. 31qs og vedlegg II kap. XII nr. 164s (forordning (EU) 2019/2130) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.

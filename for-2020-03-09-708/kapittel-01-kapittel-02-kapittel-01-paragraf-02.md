@@ -1,0 +1,8 @@
+# Artikkel 2 Nærmere regler for dokumentkontroll
+1. For hver forsendelse av dyr og varer nevnt i artikkel 1 skal vedkommende myndighet fastslå den tiltenkte bruken av dyrene og varene i henhold til de offisielle sertifikatene, de offisielle attestasjonene og de andre dokumentene som ledsager forsendelsen, samt forsendelsens bestemmelsessted som er angitt i disse sertifikatene, attestasjonene og dokumentene.
+2. Vedkommende myndighet skal kontrollere alle offisielle sertifikater, offisielle attestasjoner og andre dokumenter nevnt i artikkel 3 nr. 41 i forordning (EU) 2017/625, eller de elektroniske versjonene av dem som leveres via informasjonsstyringssystemet for offentlig kontroll (IMSOC) nevnt i artikkel 131 i nevnte forordning eller via eksisterende nasjonale systemer, for å sikre at
+a) de er utstedt av vedkommende myndighet i tredjestaten, dersom det er relevant,
+b) de oppfyller kravene fastsatt i artikkel 89 nr. 1 og artikkel 91 nr. 2 i forordning (EU) 2017/625 og i gjennomføringsrettsaktene nevnt i artikkel 90 i nevnte forordning,
+c) de tilsvarer malen som er fastsatt i henhold til reglene nevnt i artikkel 1 nr. 2 i forordning (EU) 2017/625,
+d) opplysningene i sertifikatene eller dokumentene er i samsvar med reglene nevnt i artikkel 1 nr. 2 i forordning (EU) 2017/625.
+3. Vedkommende myndighet skal kontrollere at den driftsansvarlige som har ansvaret for forsendelsen, har fylt ut den relevante delen av CHED-dokumentet fullstendig og korrekt som fastsatt i artikkel 56 nr. 1 i forordning (EU) 2017/625, og at opplysningene i det tilsvarer opplysningene som er gitt i de offisielle sertifikatene, offisielle attestasjonene og de andre dokumentene som ledsager forsendelsen.
