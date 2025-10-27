@@ -1,0 +1,2 @@
+# § 2. Frekvenser for kontrollen av levende dyr og animalske produkter
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11br, kap. II nr. 31qr og vedlegg II kap. XII nr. 164r (forordning (EU) 2019/2129, som endret ved forordning (EU) 2021/2141) om fastsettelse av regler for enhetlig bruk av frekvensene for identitetskontroll og fysisk kontroll av visse forsendelser av dyr og varer som innføres til Unionen gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.

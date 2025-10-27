@@ -1,0 +1,2 @@
+# Forordning (EU) 2019/2126 om regler for særlig kontroll av bestemte produkter og unntak fra kontroll ved grensekontrollstasjon
+Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bx, kap. II nr. 31qx og vedlegg II kap. XII nr. 164x (forordning (EU) 2019/2126) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.

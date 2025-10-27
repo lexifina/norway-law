@@ -1,0 +1,2 @@
+# Artikkel 1 Formål
+I denne forordning fastsettes det regler for gjennomføring av særlig offentlig kontroll med hensyn til visse kategorier av dyr og varer samt tiltak som skal treffes ved manglende overholdelse. Forordningen fastsetter regler for i hvilke tilfeller og på hvilke vilkår visse kategorier av dyr og varer er unntatt fra offentlig kontroll på grensekontrollstasjoner, samt når et slikt unntak er berettiget.
