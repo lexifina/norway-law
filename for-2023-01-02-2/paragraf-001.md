@@ -1,0 +1,2 @@
+# § 1
+EØS-avtalen vedlegg XV nr. 1j (forordning (EU) nr. 651/2014 som endret ved forordning (EU) 2017/1084, forordning (EU) 2020/972, forordning (EU) 2021/1237 og forordning (EU) 2023/1315) om erklæring av visse støttekategoriers forenlighet med det indre marked i henhold til artikkel 107 og 108 i traktaten om Den europeiske unions virkemåte gjelder som forskrift med de tilpasninger som følger av vedlegg XV, protokoll 1 til avtalen og avtalen for øvrig.
