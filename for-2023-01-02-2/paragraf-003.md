@@ -1,0 +1,2 @@
+# § 3
+EØS-avtalen vedlegg XV nr. 1h (kommisjonsbeslutning 2012/21/EU av 20. desember 2011) om anvendelsen av artikkel 106 (2) i traktaten om Den europeiske unions virkemåte på statsstøtte i form av godtgjøring for offentlig tjenesteyting til visse foretak som er tillagt oppgaven å utføre tjenester av allmenn økonomisk betydning gjelder som forskrift med de tilpasninger som følger av vedlegg XV, protokoll 1 til avtalen og avtalen for øvrig.
