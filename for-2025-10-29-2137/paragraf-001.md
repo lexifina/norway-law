@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne forskriften er å etablere en tilskuddsordning som skal stimulere til å bruke kornkjøperes egne lagringsmuligheter i en avgrenset periode i 2025 og 2026. Forskriften har til hensikt å sørge for at kornkjøperne frivillig utsetter leveranser av korn som markedsregulator ellers er forpliktet til å motta i henhold til den doble mottaksplikten, jf. markedsreguleringsforskriften § 5-2-2.
