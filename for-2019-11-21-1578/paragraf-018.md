@@ -1,0 +1,2 @@
+# § 18. Identifikasjonen skal gi entydig kobling til Folkeregistrert person
+Identitetspåstanden må gjelde en person som finnes i Folkeregisteret. eID-tilbyderen må kunne gi en sikker og entydig kobling til denne personens identifikator i Folkeregisteret (fødsels- eller d-nummer). Det at koblingen er sikker og entydig innebærer at koblingen ikke kan baseres på personens navn eller andre kjennetegn som kan være i bruk av flere personer. eID-tilbyderen kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret om personens utenlandske identifikasjonsnummer.
