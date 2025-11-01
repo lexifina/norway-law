@@ -1,0 +1,4 @@
+# § 13. Særskilte tiltak
+Dersom det ved kontroll påvises at importerte varer eller varer som søkes importert, utgjør fare for menneskers eller dyrs helse eller det oppdages varer som ikke tilfredsstiller bestemmelser fastsatt i særskilt forskrift, kan tilsynsmyndigheten forby import eller omsetning. Ved mistanke om forhold som nevnt i første punktum, kan senere forsendelser kontrolleres før varene kan tollekspederes. Tilsynsmyndigheten kan også pålegge destruksjon av varene.
+Dersom det godtgjøres at varene ikke utgjør noen fare for menneskers eller dyrs helse, kan de tillates anvendt til andre formål enn konsum eller returnert til avsender.
+Dersom det er mangler ved handelsdokument, merking eller annen pålagt dokumentasjon, kan det dersom varenes opprinnelse kan dokumenteres, gis en frist til å rette dette.

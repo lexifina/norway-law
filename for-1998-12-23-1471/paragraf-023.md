@@ -1,0 +1,4 @@
+# § 23. Varer som ikke oppfyller krav som er oppstilt i særskilt forskrift
+Dersom det ved kontroll påvises at varer som søkes importert, utgjør fare for menneskers eller dyrs helse eller ikke tilfredsstiller bestemmelser som er fastsatt i særskilt forskrift, kan tilsynsmyndigheten forby import eller omsetning. Tilsynsmyndigheten kan også pålegge destruksjon av varene. Tilsynsmyndigheten skal stemple de handelsdokumenter som følger med varepartiet med et stempel som viser at varene er forbudt å importere.
+Dersom det godtgjøres at varene ikke utgjør noen fare for menneskers helse eller dyrs helse, kan de tillates anvendt til andre formål enn konsum eller returnert til avsender.
+Dersom det er mangler ved handelsdokument, merking eller annen pålagt dokumentasjon, kan det, dersom varenes opprinnelse kan dokumenteres, gis en frist til å rette dette.

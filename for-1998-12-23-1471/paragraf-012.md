@@ -1,0 +1,2 @@
+# § 12. Offentlig kontroll
+Tilsynsmyndigheten kan til en hver tid foreta kontroll med importerte varer, varer som søkes importert og transportmidler som frakter varer som faller inn under denne forskrift. Ved mistanke om overtredelse av gjeldende regler kan det foretas kontroll under transporten, herunder kontroll av transportmidlene. Den enkelte virksomhet skal legge forholdene til rette for gjennomføring av kontrollen.
