@@ -1,0 +1,4 @@
+# § 6. Rammeavtaler og prisramme
+Arbeids- og velferdsetaten kan inngå avtaler med bilimportører om levering av kjøretøy og utstyr i gruppe 2. Arbeids- og velferdsetaten kan også inngå avtaler om levering av spesialutstyr og tilpassing i gruppe 1 og gruppe 2. Dersom det er inngått slike avtaler skal det ikke gis stønad til kjøretøy eller utstyr til kjøretøy som er innkjøpt hos leverandør uten avtale, med mindre det foreligger særlige forhold.
+Stønad til anskaffelse av kjøretøy til gruppe 1 gis innenfor en tilskuddsramme som fastsettes av Arbeids- og inkluderingsdepartementet. Det samme gjelder størrelsen på det behovsprøvde rente- og avdragsfrie lånet til gruppe 2.
+Differansen skal betales kontant dersom medlem som er tilstått kjøretøy i gruppe 2, velger et annet hensiktsmessig kjøretøy som er dyrere enn nødvendig. Medlemmet kan likevel ikke velge et fossildrevet kjøretøy framfor kjøretøy med elektrisk drivlinje.
