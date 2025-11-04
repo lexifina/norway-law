@@ -1,0 +1,34 @@
+# § 1. Gjennomføring av CLP-forordningen
+Forordning (EF) nr. 1272/2008 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forordningen), som inntatt i EØS-avtalen vedlegg II kapittel XV nr. 12zze, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+- forordning (EF) nr. 790/2009
+- forordning (EU) nr. 286/2011
+- forordning (EU) nr. 618/2012
+- forordning (EU) nr. 758/2013
+- forordning (EU) nr. 944/2013
+- forordning (EU) nr. 487/2013
+- forordning (EU) nr. 605/2014
+- forordning (EU) nr. 1297/2014
+- forordning (EU) 2015/491
+- forordning (EU) 2015/1221
+- forordning (EU) 2016/1179
+- forordning (EU) 2016/918
+- forordning (EU) 2017/542
+- forordning (EU) 2017/776
+- forordning (EU) 2018/669
+- forordning (EU) 2018/1480
+- forordning (EU) 2019/521
+- forordning (EU) 2020/11
+- forordning (EU) 2020/217
+- forordning (EU) 2020/1182
+- forordning (EU) 2020/1676
+- forordning (EU) 2020/1677
+- forordning (EU) 2021/643
+- forordning (EU) 2021/849
+- forordning (EU) 2021/1962
+- forordning (EU) 2022/692
+- forordning (EU) 2023/1434
+- forordning (EU) 2023/1435
+- forordning (EU) 2023/707
+- forordning (EU) 2024/197
+- forordning (EU) 2024/2564
+- forordning (EU) 2025/1222.
