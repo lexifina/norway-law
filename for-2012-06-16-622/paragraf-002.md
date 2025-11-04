@@ -1,0 +1,2 @@
+# § 2. Forordning (EU) nr. 440/2010 om gebyrer til kjemikaliebyrået
+Forordning (EU) nr. 440/2010 om gebyrer som skal betales til det europeiske kjemikaliebyrået (ECHA) i henhold til forordning (EF) nr. 1272/2008 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), som inntatt i EØS-avtalen vedlegg II kapittel XV nr. 12zzf, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
