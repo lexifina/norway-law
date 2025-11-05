@@ -1,0 +1,2 @@
+# § 8. Søkere til vg2 og vg3 ved Longyearbyen skole som ikke har bestått i alle fag
+Longyearbyen skole skal foreta en helhetlig vurdering av om søkere som ikke har bestått i alle fag likevel har nødvendig kompetanse til å fullføre opplæringen på neste trinn. Vurderinga gjøres på grunnlag av fagdokumentasjon. Rektor fatter enkeltvedtak om utfallet av den helhetlige vurderingen. Fristen for å fatte enkeltvedtak er 1. juli.
