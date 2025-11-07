@@ -1,0 +1,3 @@
+# § 5. Rett til vidaregåande opplæring i Longyearbyen
+Ungdom i Longyearbyen som har fullført grunnskolen eller tilsvarande opplæring, har same rett til vidaregåande opplæring som dei ville hatt i Fastlands-Noreg. Retten kan oppfyllast gjennom vidaregåande opplæring i Longyearbyen eller gjennom vidaregåande opplæring på norsk fastland etter reglane i opplæringslova.
+Longyearbyen lokalstyre kan fastsetje forskrift med vilkår for inntak til vidaregåande opplæring ved Longyearbyen skole, blant anna krav om bustadadresse i Longyearbyen, krav om språkkunnskapar og at det ikkje er behov for individuell tilrettelegging av opplæringa. Inntaksvilkåra må vere objektive, ikkje-diskriminerande og dei må kunne etterprøvast.
