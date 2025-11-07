@@ -1,0 +1,3 @@
+# Vedlegg VI. Områdene i Norge og Sverige som anses for å være i nærheten av grensen etter § 26A
+Norge | Kommuner: Bamble, Skien, Kongsberg, Øvre Eiker, Modum, Ringerike, Søndre Land, Nordre Land, Lillehammer, Øyer, Ringebu, Stor-Elvdal, Alvdal, Tynset, Rennebu, Orkanger, Ørland, Åfjord, Osen, Flatanger, Nærøysund og området mellom disse kommunene og grensen til Sverige. Fylker: Oslo, Nordland og Finnmark.
+Sverige | Kommuner: Kiruna, Gällivare, Jokkmokk, Arjeplog, Sorsele, Storuman, Vilhelmina, Dorotea og området mellom disse kommunene og grensen til Norge. Län: Jämtland, Dalarna, Värmland og Västra Götaland.

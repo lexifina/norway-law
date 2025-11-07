@@ -1,0 +1,3 @@
+# Artikkel 84 Nærmere opplysninger om innhold i helsesertifikat for honningbier og humler
+1. Helsesertifikatet for honningbier som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1, skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene i artikkel 48 og eventuelt i artikkel 49 og 50.
+2. Helsesertifikatet for humler, bortsett fra humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1, skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene i artikkel 51.

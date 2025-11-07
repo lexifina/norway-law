@@ -1,0 +1,2 @@
+# Artikkel 98 Melding om forflytning av rugeegg til andre medlemsstater
+De driftsansvarlige som gir melding til vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 163 i forordning (EU) 2016/429 og artikkel 95 i denne forordningen, skal gi vedkommende myndighet den informasjonen som er fastsatt i del 1 nr. 2 bokstav a)–e) i vedlegg VIII om hver forsendelse av rugeegg som skal flyttes til en annen medlemsstat.

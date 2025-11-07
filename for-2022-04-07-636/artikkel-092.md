@@ -1,0 +1,10 @@
+# Artikkel 92 Unntak fra gyldighetstiden for helsesertifikatet
+1. Som unntak fra artikkel 91 nr. 3 kan, dersom dyrene transporteres på vannveier eller til sjøs, helsesertifikatets gyldighetstid på ti dager forlenges med varigheten av reisen på vannveier eller til sjøs.
+►M3
+2. Også som unntak fra gyldighetstiden for helsesertifikatet nevnt i artikkel 91 nr. 3 skal helsesertifikatet utstedt for et enkelt hestedyr nevnt i artikkel 76 nr. 2 bokstav a) være gyldig i 30 dager forutsatt at
+a) hestedyret som skal flyttes, ledsages av ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, som fastsatt i artikkel 114 nr. 1 bokstav c) i forordning (EU) 2016/429, som omfatter et gyldig valideringsmerke utstedt av vedkommende myndighet eller det organet som denne oppgaven er blitt delegert til i en periode på høyst fire år, for å dokumentere at dyret vanligvis oppholder seg i et anlegg som vedkommende myndighet har godkjent som et anlegg med lav helserisiko på grunn av hyppige dyrehelsebesøk, ytterligere identitetskontroller og helsekontroller samt ingen bruk av naturlig bedekning i anlegget, unntatt i særlige lokaler som er beregnet på dette, eller
+b) det registrerte hestedyret som skal flyttes, ledsages av ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, som fastsatt i artikkel 114 nr. 1 bokstav c) i forordning (EU) 2016/429, som omfatter en gyldig lisens utstedt for en periode på høyst fire år, av det nasjonale forbundet av Det internasjonale rideforbund for deltakelse i hestekonkurranser, eller av den vedkommende veddeløpsmyndigheten for deltakelse i løp, og som dokumenterer minst to besøk per år av en veterinær, også besøk som er nødvendige for å utføre regelmessig vaksinasjon mot hesteinfluensa og undersøkelser som kreves for forflytning til andre medlemsstater eller tredjeland.
+◄M3
+3. I gyldighetstiden skal sertifikatet nevnt i nr. 2 være tilstrekkelig for
+a) flere innførsler til andre medlemsstater,
+b) hjemtransport til det avsenderanlegget som er angitt der.

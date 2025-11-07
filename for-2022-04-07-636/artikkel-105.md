@@ -1,0 +1,2 @@
+# Artikkel 105 Driftsansvarliges meldingsplikt i forbindelse med forflytning av viltlevende landdyr til andre medlemsstater
+Med henblikk på meldingen nevnt i artikkel 155 nr. 1 bokstav d) i forordning (EU) 2016/429, skal andre driftsansvarlige enn transportører som flytter viltlevende landdyr til en annen medlemsstat, gi vedkommende myndighet i opprinnelsesmedlemsstaten de opplysningene som er fastsatt i artikkel 145 nr. 1 i forordning (EU) 2016/429 og i del 1 nr. 3 bokstav a)–d) i vedlegg VIII, om hver forsendelse av disse dyrene som skal flyttes til en annen medlemsstat.

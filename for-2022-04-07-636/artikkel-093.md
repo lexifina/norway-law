@@ -1,0 +1,2 @@
+# Artikkel 93 Forhåndsmelding fra driftsansvarlige om forflytning mellom medlemsstater av humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet
+Når det gjelder humler fra godkjente produksjonsanlegg isolert fra det omgivende miljøet som flyttes til en annen medlemsstat, skal den driftsansvarlige for opprinnelsesanlegget på forhånd melde avsendelsen av disse humlene til vedkommende myndighet i opprinnelsesmedlemsstaten.

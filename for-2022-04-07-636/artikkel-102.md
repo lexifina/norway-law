@@ -1,0 +1,2 @@
+# Artikkel 102 Nærmere opplysninger om innhold i helsesertifikat for viltlevende landdyr
+Helsesertifikatet for viltlevende landdyr som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 155 nr. 1 bokstav c) i forordning (EU) 2016/429, skal inneholde de generelle opplysningene fastsatt i nr. 3 i vedlegg VIII og en attestering av samsvar med kravene i artikkel 101 nr. 4 og eventuelt kravene i artikkel 101 nr. 5 i denne forordningen.

@@ -1,0 +1,2 @@
+# Artikkel 7 Krav ved forflytning av landdyr og rugeegg til en annen medlemsstat i forbindelse med vaksinasjon mot kategori A-sykdommer
+Dersom opprinnelsesmedlemsstaten har innført vaksinasjon mot en kategori A-sykdom, skal de driftsansvarlige bare flytte landdyr eller rugeegg til en annen medlemsstat dersom disse landdyrene og rugeeggene oppfyller de særlige vilkårene som er fastsatt i samsvar med artikkel 47 i forordning (EU) 2016/429 for den relevante kategori A-sykdommen og for dyr av arter som er listeført for denne sykdommen.

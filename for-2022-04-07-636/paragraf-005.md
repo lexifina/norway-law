@@ -1,0 +1,2 @@
+# § 5. Flytting av animalske produkter fra landdyr i Norge og EØS-området
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13n (forordning (EU) 2020/2154) om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til krav til dyrehelse, utstedelse av sertifikater og melding ved forflytning innenfor Unionen av produkter av animalsk opprinnelse fra landdyr gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
