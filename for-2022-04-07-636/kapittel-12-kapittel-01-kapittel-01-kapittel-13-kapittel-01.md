@@ -1,0 +1,4 @@
+# Del 1 Soner som er sesongmessig frie for hemoragisk epizooti
+1. Ved forflytning av holdte hov- og klovdyr til andre medlemsstater kan det opprettes soner som er sesongmessig frie for hemoragisk epizooti, dersom begynnelsen og slutten av den vektorfrie sesongen er dokumentert av vedkommende myndighet på grunnlag av entomologisk overvåking i samsvar med del 2.
+2. Som unntak fra nr. 1, dersom det har lyktes å dokumentere vektorfri sesong i tre sammenhengende år, kan ytterligere kriterier, for eksempel temperatur, erstatte entomologisk overvåking for å påvise begynnelsen og slutten av den vektorfrie sesongen på grunnlag av vitenskapelige bevis.
+3. Sonene som er sesongmessig frie for hemoragisk epizooti, skal oppheves umiddelbart dersom det finnes bevis for at den vektorfrie sesongen er avsluttet eller at hemoragisk epizooti-viruset sirkulerer.

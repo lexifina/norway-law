@@ -1,0 +1,5 @@
+# Artikkel 86 Nærmere opplysninger om innhold i helsesertifikat for hunder, katter og ildrer
+►M3
+1. Helsesertifikatet for hunder, katter og ildrer, bortsett fra hunder, katter og ildrer nevnt i nr. 2, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1, skal inneholde de generelle opplysningene i del 1 nr. 1 i vedlegg VIII og en attestering av samsvar med kravene i artikkel 53 og eventuelt i artikkel 54, samt en lenke til identifikasjonsdokumentet nevnt i artikkel 71 i delegert forordning (EU) 2019/2035.
+◄M3
+2. Helsesertifikatet for hunder, katter og ildrer som holdes som kjæledyr, som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 71 nr. 1, skal inneholde de generelle opplysningene fastsatt i del 1 nr. 1 i vedlegg VIII, en attestering av samsvar med kravene i artikkel 55 og eventuelt i artikkel 56, samt en lenke til identifikasjonsdokumentet nevnt i artikkel 71 i delegert forordning (EU) 2019/2035.

@@ -1,0 +1,11 @@
+# Del 2 Minstekrav til et program før forflytning med hensyn til infeksjon med Mycobacterium tuberculosis-kompleks (M. bovis, M. caprae og M. tuberculosis) hos dyr av kamelfamilien
+1) Programmet for overvåking før forflytning for å påvise infeksjon med Mycobacterium tuberculosis-kompleks (M. bovis, M. caprae og M. tuberculosis) i et anlegg med henblikk på forflytning av holdte dyr av kamelfamilien til en annen medlemsstat som nevnt i artikkel 23 nr. 1 bokstav e), skal minst omfatte følgende elementer:
+a) Kontroll post mortem av alle slaktede dyr av kamelfamilien fra anlegget.
+b) Kontroll post mortem av alle selvdøde dyr av kamelfamilien som er eldre enn ni måneder, med mindre dette er umulig av logistiske grunner eller ikke nødvendig av vitenskapelige grunner.
+c) Et årlig dyrehelsebesøk av en veterinær.
+d) Årlig testing med negativt resultat av alle dyr av kamelfamilien som holdes i anlegget for avlsformål.
+2) Som unntak fra nr. 1 er den årlige testingen fastsatt i nr. 1 bokstav d) ikke nødvendigvis påkrevd dersom vedkommende myndighet basert på en risikovurdering anser at risikoen for infeksjon er ubetydelig i medlemsstaten eller sonen, og følgende vilkår er oppfylt:
+a) Programmet for overvåking før forflytning nevnt i nr. 1 er blitt gjennomført i anlegget i minst 24 måneder, og infeksjon med Mycobacterium tuberculosis-kompleks (M. bovis, M. caprae og M. tuberculosis) hos dyr av kamelfamilien som holdes i anlegget, ikke er rapportert i denne perioden.
+b) Anlegget ligger i en medlemsstat eller en sone i denne som er fri for infeksjon med Mycobacterium tuberculosis-kompleks (M. bovis, M. caprae og M. tuberculosis) hos storfepopulasjonen.
+►M1
+3) Dersom det er rapportert om infeksjon med Mycobacterium tuberculosis-kompleks (M. bovis, M. caprae og M. tuberculosis) hos dyr av kamelfamilien som holdes i anlegget nevnt i nr. 1, kan disse dyrene bare flyttes til en annen medlemsstat dersom alle dyr av kamelfamilien som er eldre enn seks uker, og som holdes i anlegget, er blitt testet med negativt resultat. Disse testene skal utføres på dyr av kamelfamilien eller på prøver som er tatt av dyr av kamelfamilien, minst 42 dager etter at det siste bekreftede tilfellet og det siste dyret som testet positivt ved hjelp av en diagnostisk metode, ble fjernet. ◄M1

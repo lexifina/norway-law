@@ -1,0 +1,2 @@
+# Artikkel 106 Vedkommende myndighets ansvar i forbindelse med melding om forflytning av viltlevende landdyr til andre medlemsstater
+Vedkommende myndighet i opprinnelsesmedlemsstaten som gir melding til vedkommende myndighet i bestemmelsesmedlemsstaten i samsvar med artikkel 155 nr. 1 bokstav d) i forordning (EU) 2016/429, skal gi de opplysningene som er fastsatt i del 1 nr. 3 bokstav a)–d) i vedlegg VIII, om hver forsendelse av viltlevende landdyr som skal flyttes til en annen medlemsstat.

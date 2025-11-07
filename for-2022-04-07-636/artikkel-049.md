@@ -1,0 +1,7 @@
+# Artikkel 49 Unntak for forflytning av honningbidronninger til andre medlemsstater
+Som unntak fra artikkel 48 bokstav b) ii) kan driftsansvarlige flytte honningbidronninger dersom disse dyrene oppfyller kravene i artikkel 48 bokstav a) og bokstav b) i) og iii) samt følgende krav:
+a) Det er ikke rapportert om infestasjon med Aethina tumida (liten kubebille) i opprinnelsesbigården, og bigården ligger minst 30 km fra grensene for en vernesone med en radius på minst 20 km som er opprettet av vedkommende myndighet rundt en bekreftet forekomst av infestasjon med Aethina tumida (liten kubebille).
+b) Opprinnelsesbigården ligger ikke i en sone som er omfattet av vernetiltak innført av Unionen som følge av bekreftet forekomst av infestasjon med Aethina tumida (liten kubebille).
+c) Opprinnelsesbigården ligger i et område hvor vedkommende myndighet gjennomfører årlig overvåking for å påvise infestasjon med Aethina tumida (liten kubebille) med et konfidensnivå på minst 95 % for påvisning av infestasjon med Aethina tumida (liten kubebille) dersom minst 2 % av bigårdene er infestert.
+d) Opprinnelsesbigården undersøkes hver måned i produksjonssesongen av vedkommende myndighet med negativt resultat og med et konfidensnivå på minst 95 % for påvisning av infestasjon med Aethina tumida (liten kubebille) dersom minst 2 % av bikubene er infestert.
+e) De er plassert enkeltvis i bur sammen med høyst 20 følgebier.

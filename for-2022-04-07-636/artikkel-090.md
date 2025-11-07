@@ -1,0 +1,5 @@
+# Artikkel 90 Utstedelse av helsesertifikat for holdte hov- og klovdyr og holdt fjørfe beregnet på eksport til tredjeland under deres forflytning fra opprinnelsesmedlemsstaten gjennom andre medlemsstaters territorium til Unionens ytre grense
+De driftsansvarlige skal sikre at holdte hov- og klovdyr og holdt fjørfe som er beregnet på eksport til et tredjeland og transporteres til Unionens ytre grense gjennom en annen medlemsstats territorium, ledsages av helsesertifikater der det attesteres at
+i) dyrene minst oppfyller kravene i dette kapittelet for forflytning av holdte hov- og klovdyr eller holdt fjørfe som er beregnet på slakting i den medlemsstaten der utførselsstedet ligger,
+og
+ii. når det gjelder dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1-24), oppfyller dyrene minst kravene i artikkel 33 dersom utførselsstedet ligger i en medlemsstat eller en sone i denne med sykdomsfri status eller med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1-24).

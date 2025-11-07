@@ -1,0 +1,2 @@
+# Artikkel 94 Forhåndsmelding fra driftsansvarlige for omreisende sirkus og dyreforestillinger dersom de har til hensikt å flytte holdte landdyr mellom medlemsstater
+Når det gjelder omreisende sirkus og dyreforestillinger som flyttes til en annen medlemsstat, skal den driftsansvarlige for de omreisende sirkusene og dyreforestillingene minst ti dager på forhånd melde avsendelsen av disse omreisende sirkusene og dyreforestillingene til vedkommende myndighet i opprinnelsesmedlemsstaten.

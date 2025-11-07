@@ -1,0 +1,3 @@
+# Artikkel 46 Unntak for forflytning av hov- og klovdyr til utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer
+1. Vilkårene i artikkel 126 nr. 2 og artikkel 134 bokstav b) i forordning (EU) 2016/429 og i artikkel 43, 44 og 45 i denne forordningen får ikke anvendelse på forflytning av holdte hov- og klovdyr til en annen medlemsstat med henblikk på deltakelse i utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer.
+2. Tillatelsen fra medlemsstaten nevnt i artikkel 133 nr. 2 andre ledd i forordning (EU) 2016/429 skal ikke være påkrevd når individuelt sertifiserte registrerte hestedyr deler et transportmiddel for å bli transportert til en annen medlemsstat for å delta i noen av aktivitetene nevnt i nr. 1.

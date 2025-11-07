@@ -1,0 +1,2 @@
+# § 7. Unntak fra krav om rengjøring og desinfisering ved transport mellom anlegg som tilhører samme forsyningskjede
+Kravene om rengjøring og desinfisering av transportmidler i § 4, jf. forordning (EU) 2020/688 artikkel 4 bokstav b), gjelder ikke ved transport av holdte landdyr eller rugeegg mellom anlegg som tilhører samme forsyningskjede i Norge dersom transportmiddelet som brukes, rengjøres og desinfiseres etter endt bruk samme dag som det er brukt for å transportere dyr.

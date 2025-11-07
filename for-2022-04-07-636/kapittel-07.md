@@ -1,0 +1,6 @@
+# Vedlegg II. Regioner og soner som er opprettet for å begrense spredningen av varroa- og trakémiddinfeksjon i Norge etter § 13 og § 14
+Region A | Nordland, Troms og Finnmark og følgende kommuner i Trøndelag: Snåsa, Overhalla, Lierne, Grong, Høylandet, Leka, Namsskogan, Røyrvik, og Fosnes og Namsos kommuner slik de var før 1. desember 2020.
+Region B | Møre og Romsdal, Rindal kommune og tidligere Halsa kommune i Trøndelag og kommunene Kinn, Gulen, Solund, Hyllestad, Høyanger, Vik, Sogndal, Aurland, Årdal, Luster, Askvoll, Fjaler, Sunnfjord, Bremanger, Stad, Gloppen og Stryn i Vestland.
+Region C | Østfold, Akershus, Oslo, Innlandet, Buskerud, Vestfold, Telemark, Agder, Rogaland, tidligere Hordaland fylke, kommunen Lærdal i Vestland og alle kommuner i Trøndelag med unntak av kommuner som inngår i region A og B.
+Sone B1 | Kommunene Kinn, Gulen, Solund, Hyllestad, Høyanger, Vik, Sogndal, Aurland, Lærdal, Årdal, Luster, Askvoll, Fjaler, Sunnfjord, Bremanger, Stad, Gloppen og Stryn i Vestland.
+Sone B2 | Følgende kommuner i Møre og Romsdal: Vanylven, Volda unntatt tidligere Hornindal, Ørsta, Stranda, Fjord unntatt tidligere Stordal. I Innlandet: Skjåk, Lom og Vang. I Buskerud: Hemsedal, Ål, Hol og Nore og Uvdal. I Vestland: Fedje, Austrheim, Masfjorden, Modalen, Vaksdal, Voss og Ulvik.

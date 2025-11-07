@@ -1,0 +1,2 @@
+# Artikkel 83 Nærmere opplysninger om innhold i helsesertifikat for rugeegg fra fugler i fangenskap
+Helsesertifikatet for rugeegg fra fugler i fangenskap som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 72, skal inneholde de generelle opplysningene fastsatt i del 1 nr. 2 i vedlegg VIII og en attestering av samsvar med kravene i artikkel 60, og når det er relevant for den bestemte kategorien av egg, i artikkel 61 og 62.

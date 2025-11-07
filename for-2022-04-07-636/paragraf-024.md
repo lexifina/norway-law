@@ -1,0 +1,4 @@
+# § 24. Unntak for tamrein som flyttes mellom Norge og Sverige i forbindelse med utstillinger, idretts- eller kulturarrangementer knyttet til samisk kultur og tilsvarende arrangementer nær grensen
+Tamrein som flyttes mellom Norge og Sverige for deltakelse i utstillinger, idretts- eller kulturarrangementer knyttet til samisk kultur og tilsvarende arrangementer organisert i nærheten av grensen omfattes av unntaket i § 23. Reinene må følges av tilpasset egenerklæringsdokument, uansett transportmåten. Unntaket gjelder bare for reiser på inntil 10 dager fra tidspunktet riksgrensen ble krysset første gang under reisen.
+Egenerklæringen skal overleveres til den driftsansvarlige på anlegget dyret returnerer til i Norge.
+Unntaket i denne bestemmelsen gir ikke unntak fra begrensninger i CWD-regelverket.

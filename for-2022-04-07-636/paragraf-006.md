@@ -1,0 +1,2 @@
+# § 6. Unntak fra krav om rengjøring og desinfisering av transportmidler ved transport innenfor et anlegg
+Kravene om rengjøring og desinfisering av transportmidler i § 4, jf. forordning (EU) 2020/688 artikkel 4 bokstav b), gjelder ikke ved transport av landdyr og rugeegg innenfor et anlegg dersom de transporterte dyrene og rugeeggene holdes i anlegget og transporten utføres under ansvar av den driftsansvarlige for anlegget. Transportmiddelet som brukes må rengjøres og desinfiseres før det forlater anlegget.

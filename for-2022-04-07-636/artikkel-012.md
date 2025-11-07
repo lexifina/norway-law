@@ -1,0 +1,39 @@
+# Artikkel 12 Utfyllende krav ved forflytning av holdt storfe til andre medlemsstater eller soner i disse med godkjente utryddelsesprogrammer for bestemte sykdommer
+1. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for enzootisk bovin leukose dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+a) Dyrene kommer fra et anlegg som er fritt for enzootisk bovin leukose,
+eller
+b) dersom dyrene kommer fra et anlegg som ikke er fritt for enzootisk bovin leukose, er det ikke rapportert om enzootisk bovin leukose i dette anlegget i løpet av de siste 24 månedene før avsendelse av dyrene, og
+i) dersom dyrene er eldre enn 24 måneder, har de gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat enten
+- på prøver som er tatt ved to anledninger med minst fire måneders mellomrom, samtidig med at dyrene er holdt isolert fra annet storfe i anlegget,
+eller
+- på prøver som er tatt i løpet av de siste 30 dagene før avsendelsen, forutsatt at alt storfe som er eldre enn 24 måneder og som holdes i anlegget, har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene,
+eller
+ii. dersom dyrene er yngre enn 24 måneder, er de avkom av mordyr som har gjennomgått en serologisk test for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I, utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i løpet av de siste tolv månedene før avsendelse av dyrene.
+2. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+a) Dersom dyrene kommer fra et anlegg som er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, enten
+i) ligger anlegget i en medlemsstat eller en sone i denne med status som fri for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
+eller
+ii. ligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt,
+eller
+iii. er dyrene holdt i karantene i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1, eller når det gjelder dyr som er vaksinert med en deletert gE-vaksine, antistoffer mot BoHV-1 gE-protein, ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt i løpet av de siste 15 dagene før avsendelse,
+eller
+iv. er dyrene beregnet på et anlegg der det holdes storfe for kjøttproduksjon uten kontakt med storfe på andre anlegg, og herfra flyttes de direkte til slakteriet,
+eller
+b) dersom dyrene kommer fra et anlegg som ikke er fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, er de holdt i et godkjent karanteneanlegg i minst 30 dager før avsendelse og har gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1 ved hjelp av en av de diagnostiske metodene som er angitt i del 5 i vedlegg I, utført med negativt resultat på en prøve som er tatt minst 21 dager etter begynnelsen av karantenen.
+3. De driftsansvarlige skal bare flytte holdt storfe til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for bovin virusdiaré dersom dyrene oppfyller kravene i artikkel 10, og forutsatt at kravene i enten bokstav a) eller b) er oppfylt:
+a) Dersom dyrene kommer fra et anlegg som er fritt for bovin virusdiaré,
+i) ligger anlegget i en medlemsstat eller en sone i denne med status som fri for bovin virusdiaré,
+eller
+ii. ligger anlegget i en medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for bovin virusdiaré,
+eller
+iii. har anlegget gjennomgått en testordning som nevnt i del VI kapittel 1 avsnitt 2 nr. 1 bokstav c) ii) eller iii) i vedlegg IV til delegert forordning (EU) 2020/689, utført med negativt resultat i løpet av de siste fire månedene før avsendelse,
+eller
+iv. er dyrene blitt testet enkeltvis for å utelukke forekomst av bovin virusdiaré-virus før avsendelse,
+eller
+v) er dyrene beregnet på et anlegg der det holdes storfe for kjøttproduksjon atskilt fra storfe på andre anlegg, og herfra flyttes de direkte til slakteriet.
+b) Dersom dyrene kommer fra et anlegg som ikke er fritt for bovin virusdiaré, har de gjennomgått en test for antigen eller genom for bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat, og
+i) dyrene er holdt i et godkjent karanteneanlegg i minst 21 dager før avsendelse, og når det gjelder drektige mordyr, har de gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med negativt resultat på prøver som er tatt minst 21 dager etter begynnelsen av karantenen,
+eller
+ii. dyrene har gjennomgått en serologisk test for påvisning av antistoffer mot bovin virusdiaré-virus ved hjelp av en av de diagnostiske metodene som er angitt i del 6 i vedlegg I, utført med positivt resultat på prøver som er tatt enten før avsendelse, eller når det gjelder drektige mordyr, før insemineringen forut for den pågående drektigheten.
+4. Som unntak fra artikkel 10 nr. 1 bokstav i) kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av holdt storfe som ikke oppfyller minst ett av kravene fastsatt i del II kapittel 2 avsnitt 1 nr. 1-3 i vedlegg V til delegert forordning (EU) 2020/689, til en annen medlemsstat eller en sone i denne med et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1-24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er nevnt i artikkel 43 nr. 2 i delegert forordning (EU) 2020/689.
+5. Bestemmelsene i nr. 1-4 får ikke anvendelse på holdt storfe beregnet på slakting som nevnt i artikkel 14.

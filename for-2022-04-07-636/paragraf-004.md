@@ -1,0 +1,2 @@
+# § 4. Flytting av landdyr og rugeegg i Norge og EØS-området
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13s (forordning (EU) 2020/688 endret ved forordning (EU) 2021/1706, forordning (EU) 2023/118, forordning (EU) 2023/2515 og forordning (EU) 2024/3160) om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
