@@ -1,0 +1,4 @@
+# § 4. Rett og plikt til grunnskoleopplæring i Longyearbyen
+Barn har rett og plikt til grunnskoleopplæring frå det året dei fyller seks år, til dei har avslutta det 10. trinnet.
+Retten til grunnskoleopplæring gjeld når barnet truleg skal vere i Longyearbyen i meir enn tre månader i samanheng. Retten skal oppfyllast så raskt som mogleg og seinast innan éin månad etter at barnet er komme til Longyearbyen og foreldra har meldt frå til Longyearbyen lokalstyre. Barn har plikt til grunnskoleopplæring når dei har vore i Longyearbyen i seks månader i samanheng.
+Barn med behov som går ut over plikta til Longyearbyen lokalstyre etter § 6 første ledd bokstav f og § 7, og som derfor ikkje kan få eit forsvarleg utbytte av opplæringa ved Longyearbyen skole, har ikkje rett og plikt til grunnskoleopplæring i Longyearbyen. Ei avgjerd etter regelen her er eit enkeltvedtak og kan påklagast etter reglane i forvaltningsloven. Statsforvaltaren i Troms og Finnmark er klageinstans.
