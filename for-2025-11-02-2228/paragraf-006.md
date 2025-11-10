@@ -1,0 +1,3 @@
+# § 6. Prioritering ved tildeling av tilskudd
+Søknader om tilskudd til å planlegge og gjennomføre tiltak i vedtatte kommunedelplaner for naturmangfold, vil bli prioritert. Søknader om tilskudd til tiltak som samtidig bidrar til klimatilpasning, sikrer karbonlagre eller forbedrer andre økosystemtjenester, vil bli prioritert. Videreføring av tiltak tidligere finansiert over ordningen vil bli prioritert. Søknader om tilskudd til tiltak som er kostnadseffektive og som kan gjennomføres med god faglig kompetanse på naturrestaurering, vil bli prioritert. Prioriterte formål utover dette gjøres kjent i årlig utlysning av tilskudd.
+Andel egenfinansiering eller egeninnsats vil bli tillagt vekt ved prioritering mellom ellers like søknader.
