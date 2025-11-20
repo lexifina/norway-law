@@ -1,0 +1,4 @@
+# § 1-1. Verkeområde
+(1) Forskrifta gjeld opptak til alle utdanningar ved Høgskulen på Vestlandet til og med mastergradsnivå. Opptak til doktorgradsprogram er regulert i forskrift for graden philosophiae doctor (ph.d.) ved Høgskulen på Vestlandet.
+(2) Det kan gjelde eigne reglar for fellesgradar som vert tilbydde i samarbeid med ein eller fleire lærestader. Dette skal gå fram av avtalen med dei samarbeidande institusjonar.
+(3) Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven), forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven (universitets- og høyskoleforskriften), forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning, lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) og andre forskrifter om rammeplanar og andre nasjonale avgjerder er overordna denne forskrifta og gjeld føre forskrifta ved eventuell motstrid.
