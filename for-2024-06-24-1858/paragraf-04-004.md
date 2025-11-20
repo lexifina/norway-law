@@ -1,0 +1,2 @@
+# § 4-4. Rangering av søkjarar til allmennfagleg praktisk-pedagogisk utdanning (PPU-A)
+Søkjarar vert rangert etter § 4-3, men kan i tillegg få 6 poeng for dokumentert tilsetting i skule.PoengtypeForklaring+ KarakterpoengVekta karaktersnitt x 10 (maksimalt 50 poeng)+ Utdanningspoeng1 poeng per 30 sp. Maksimalt 4 poengAndre tilleggspoeng6 poeng for dokumentert tilsetting i skule= Konkurransepoengsum

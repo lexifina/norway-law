@@ -1,0 +1,6 @@
+# § 6-2. Opptak på visse vilkår
+(1) I særlege tilfelle kan søkjar som manglar eitt emne på inntil 20 studiepoeng eller to eller fleire emne på inntil 15 studiepoeng for å dekka opptaksgrunnlaget til ei utdanning, få opptak til studiet på visse vilkår og starte på utdanninga. Vilkåret for slikt opptak er at studenten oppfyller opptaksgrunnlaget på utdanninga innan frist gitt i tilbodsbrevet.
+(2) Døme på særlege tilfelle kan vere når søkjar ikkje har hatt moglegheit til å gå opp til eksamen grunna sjukdom, ulukker eller dødsfall i nær familie. Andre særlege tilfelle kan òg gi grunnlag for opptak på vilkår. Særlege tilfelle må dokumenterast ved attest frå lege, anna helsepersonell, politi, høgskulen eller tilsvarande.
+(3) Opptak på visse vilkår vert berre gitt når søkjaren dekker faglege minstekrav og eventuelle krav til fordjuping, jf. kapittel 2 og studieplanen. I tillegg må søkjaren dokumentere tilstrekkelege kunnskapar i norsk og engelsk, jf. § 2-1. Opptak på vilkår gir ikkje dispensasjon frå forkunnskapskrav som er fastsett i eit emne.
+(4) Opptak på vilkår vert ikkje gitt til utdanningar der yrkeserfaring er ein del av opptaksgrunnlaget.
+(5) Studentar som ikkje oppfyller dei gitte vilkåra for opptak innan fristen, taper studieplassen.
