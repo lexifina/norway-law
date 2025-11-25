@@ -1,0 +1,2 @@
+# § 2. Forordning (EU) nr. 284/2011
+EØS-avtalens vedlegg I kapittel I del 7.1 nr. 13 og vedlegg II kapittel XII nr. 54zzzc (forordning (EU) nr. 284/2011) om særlige betingelser og prosedyrer for import av kjøkkenredskaper i plast av polyamid og melamin med opprinnelse i eller sendt fra Kina eller Hong Kong gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
