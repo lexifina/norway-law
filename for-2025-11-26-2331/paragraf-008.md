@@ -1,0 +1,3 @@
+# § 8. Avkorting mv.
+Dersom tilskuddsmottaker uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger som har eller ville ha dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av tilskuddet avkortes.
+Dersom tilskuddsmottaker uaktsomt eller forsettlig driver eller har drevet sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.

@@ -1,0 +1,2 @@
+# § 4. Forvaltning av ordningen
+Landbruksdirektoratet skal utbetale tilskuddet på grunnlag av en oversikt over vindkraftverkenes geografiske plassering og tall for årlig produksjon ved vindkraftverkene. NVE skal innen 1. mars hvert år oversende en oversikt til Landbruks- og matdepartementet over årlig produksjon for de vindkraftverkene som ligger innenfor det samiske reinbeiteområdet eller som ligger rett utenfor det samiske reinbeiteområdet.
