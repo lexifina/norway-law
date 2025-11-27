@@ -1,0 +1,4 @@
+# § 4. Ikrafttredelse og overgangsbestemmelser
+Forskriften trer i kraft 1. januar 2019.
+Virksomheten i Bankenes sikringsfond, herunder etablerte avtaler og fullmaktsforhold, videreføres inntil nytt styre har avholdt første styremøte. Styret kan forlenge overgangsperioden i den utstrekning det er nødvendig.
+Overføringen av eiendeler og forpliktelser forvaltet av Bankenes sikringsfond i medhold av tidligere gjeldende kapittel 19 i finansforetaksloven skal skje innen 31. desember 2026, med regnskapsmessig virkning fra 1. januar 2026. Fordelingen av eiendeler og forpliktelser skal baseres på verdier pr. 1. januar 2019 med etterfølgende verdiutvikling, tillagt innkrevet bidrag til krisetiltaksfondet, fratrukket kostnad ved administrasjon av fondet. Midler som disponeres av krisehåndteringsmyndigheten skal regnskapsmessig presenteres som egenkapital i Bankenes sikringsfond inntil overføringen er foretatt.

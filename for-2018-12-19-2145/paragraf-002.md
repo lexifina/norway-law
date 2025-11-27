@@ -1,0 +1,3 @@
+# § 2. Taushetsplikt
+Taushetsplikten i forvaltningsloven § 13 er ikke til hinder for at opplysninger utleveres til andre EØS-staters innskuddsgarantiordninger, andre EØS lands krisehåndteringsmyndigheter, andre EØS-staters tilsynsmyndigheter og andre EØS-lands sentralbanker i den utstrekning det er nødvendig for å utføre oppgaver pålagt i eller i medhold av lov. Første punktum gjelder også overfor Single Resolution Board og Den europeiske sentralbanken.
+Bankenes sikringsfonds styremedlemmer og ansatte, samt sakkyndige som engasjeres til å utføre oppdrag innenfor sikringsfondets arbeidsområde, har taushetsplikt overfor uvedkommende om det som de får kjennskap til i sitt arbeid om en innskyters forhold.
