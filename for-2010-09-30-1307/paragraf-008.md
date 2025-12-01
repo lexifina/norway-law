@@ -1,0 +1,3 @@
+# § 8. (Generelle tillegg til takstene)
+Det kan kreves prosentvise tillegg til takstene i § 7, § 9, § 11 og § 12 etter tabellen nedenfor.Dag/tidsrom06-1515-1818-2400-06Mandag-fredag0 %0 %21 %35 %Lørdag30 %35 %35 %35 %Søndag35 %35 %35 %35 %
+For drosjetransport påske-, pinse-, jul- og nyttårsaften fra klokken 12.00 til klokken 06.00 den påfølgende dag, og for drosjetransport nyttårsdag, skjærtorsdag, langfredag, første og andre påskedag, Kristi himmelfartsdag, første og andre pinsedag, første og syttende mai og første og andre juledag fra klokken 06.00 til klokken 06.00 den påfølgende dag kan det kreves 45 prosent tillegg til takstene.
