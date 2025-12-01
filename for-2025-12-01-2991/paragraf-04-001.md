@@ -1,0 +1,6 @@
+# § 4-1. Generelle bestemmelser
+(1) Skolen skal ved start av fagskoleutdanning informere om eksamen. Skolen skal minimum en måned før eksamen informere om tid, varighet og eksamensform.
+(2) Vurderingen skal gjennomføres på en slik måte at studentenes kunnskaper, ferdigheter og generelle kompetanse blir prøvet og vurdert på en upartisk og faglig betryggende måte, jf. § 21 første ledd i lov om høyere yrkesfaglig utdanning.
+(3) Styret har ansvaret for at sensor oppnevnes ved eksamen, prøve, bedømmelse av oppgave eller annet arbeid når resultatet inngår på vitnemålet eller innregnes i karakter for utdanningen, jf. § 21 andre ledd i lov om høyere yrkesfaglig utdanning.
+(4) Sensuren skal foreligge innen 3 uker. Helg, romjul og offentlige helligdager inngår ikke i sensurperioden. Styret selv kan gjøre unntak for enkelteksamener og kan fastsette en lengre frist når det ikke er mulig å skaffe det antall kvalifiserte sensorer som er nødvendig for å avvikle sensuren på tre uker, jf. lov om høyere yrkesfaglig utdanning § 21 tredje ledd.
+(5) Ved ny sensur ved klage over formelle feil ved eksamen eller klage over karakterfastsetting, jf. lov om høyere yrkesfaglig utdanning § 22 og § 23, benyttes én eller flere sensorer, jf. lov om høyere yrkesfaglig utdanning § 21 fjerde ledd. Minst én sensor skal være ekstern.

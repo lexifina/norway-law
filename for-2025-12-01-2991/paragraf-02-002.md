@@ -1,0 +1,2 @@
+# § 2-2. Opptaksstørrelse
+Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp til de ulike fagskoleutdanninger innen rammene av NOKUT sin akkreditering og om utdanningen kan tilbys det aktuelle studieår. Avgjørelsen om oppstart tas senest 14 dager før planlagt oppstart. Epost og melding via studenthåndteringssystem om fagskoleutdanningen starter eller blir avlyst sendes til studentene senest 14 dager før planlagt oppstart.
