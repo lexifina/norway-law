@@ -1,0 +1,1 @@
+Havne- og farvannsloven § 17 femte ledd og § 18 første og tredje ledd gis utvidet geografisk virkeområde til også å omfatte Norges økonomiske sone ved Fastlands-Norge, med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat.
