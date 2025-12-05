@@ -1,0 +1,5 @@
+# § 8. Overgangsbestemmelser for krav om tillatelse
+Virksomhet som krever tillatelse etter forurensningsloven § 11 jf. § 4 i denne forskriften, skal søke Direktoratet for strålevern og atomsikkerhet om tillatelse så snart som mulig og senest innen 1. januar 2013.
+Vedtak og godkjenninger gitt i medhold av forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V gjelder til de er erstattet av tillatelse etter forurensningsloven, men er ikke i noe tilfelle gyldige etter 1. januar 2014.
+Virksomhet som krever tillatelse etter forurensningsloven § 11 jf. § 4 i denne forskriften og som er igangsatt før forskriften trer i kraft, men som ikke har hatt godkjenning etter forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V, kan fortsette til de får tillatelse, men ikke i noe tilfelle etter 1. januar 2014.
+Direktoratet for strålevern og atomsikkerhet kan gi pålegg om at virksomhet som nevnt i første ledd likevel må søke om tillatelse innen en kortere frist og bestemme at virksomheten er ulovlig etter en fastsatt dato, dersom pålegget ikke etterkommes.

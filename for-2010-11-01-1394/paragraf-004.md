@@ -1,0 +1,3 @@
+# § 4. Tillatelse til radioaktiv forurensning
+Direktoratet for strålevern og atomsikkerhet kan gi tillatelse etter forurensningsloven § 11 til virksomhet som medfører eller kan medføre radioaktiv forurensning, og fastsette nærmere vilkår etter forurensningsloven § 16 for å motvirke at radioaktiv forurensning fører til skader eller ulemper.
+Virksomhet som medfører eller kan medføre tilførsel av radioaktive stoffer med total aktivitet eller spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg II, skal i relasjon til forurensningsloven § 8 siste ledd alltid anses å medføre nevneverdige skader eller ulemper og kan ikke finne sted uten tillatelse etter forurensningsloven § 11.
