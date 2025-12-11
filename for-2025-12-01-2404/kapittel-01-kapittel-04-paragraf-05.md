@@ -1,0 +1,2 @@
+# § 1-3-5. Fradrag for merkostnader til kost på besøksreiser for skattepliktig som har fri kost på arbeidsstedet
+Fradrag for merkostnader til kost når besøksreisen mellom sted for arbeidsopphold og hjem ikke medfører overnatting, men varer i 6 timer eller mer, settes til kr 113 hver vei. Slikt fradrag skal bare fastsettes av skattepliktige som faktisk kjøper mat på reisen og når kostnadene ikke er dekket av arbeidsgiver.

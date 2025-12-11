@@ -1,0 +1,2 @@
+# § 4-6. Kostnader
+Ved verdsettingen legges til grunn at landets skogareal deles i tre kostnadssoner, se vedlegg. I hver sone fastsetter Skattedirektoratet en gjennomsnittskostnad (kostnadssjablong) som beregnes på grunnlag av erfaringstall for faste kostnader og driftskostnader. Det er ikke adgang til å avvike fra gjennomsnittskostnaden (kostnadssjablongen) med mindre dette følger av § 4-7. Sjablong for kostnadssone hentes automatisk basert på kommune og gårds- og bruksnummer og verdien beregnes automatisk i skattemeldingen.

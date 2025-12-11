@@ -1,0 +1,2 @@
+# § 1-3-24. Spesielle fradragssatser for journalister mv.
+Journalister mv. kan fastsette fradrag for kostnader til bøker, tidsskrifter, aviser mv. med inntil kr 2 200 i inntektsåret uten spesifikasjon. Kostnader til internasjonalt pressekort kan fastsettes med kr 750 når pressekort er utstedt i inntektsåret. Når kostnadene til reise i yrket ikke kan sannsynliggjøres, kan fradrag etter skjønn fastsettes med kr 3 300 per år samlet for reiser med egen bil og offentlig kommunikasjonsmiddel.

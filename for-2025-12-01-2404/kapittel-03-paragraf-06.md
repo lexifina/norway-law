@@ -1,0 +1,4 @@
+# § 3-1-5. Akvakulturtillatelse som gir rett til oppdrett i sjø av laks, ørret og regnbueørret
+Akvakulturtillatelse som gir rett til oppdrett i sjø av laks, ørret og regnbueørret er skattepliktig formue jf. skatteloven § 4-1 jf. § 4-54. Akvakulturtillatelser verdsettes til 25 prosent av omsetningsverdien, se skatteloven § 4-17 tredje ledd.
+For nærmere veiledning se Skattedirektoratets veiledning «Veiledning til bruk ved fastsettelse av formuesverdi av akvakulturtillatelser» 3. juli 2023.
+Bestemmelsen gjelder ikke-tidsbegrensede kommersielle matfisktillatelser som er i selskapets eie etter akvakulturregisteret, det vil si akvakulturtillatelser registrert som Matfisk, Matfisk (5 prosent MTB økning), Matfisk-Grønn A-C, Matfisk-Grønn A (5 prosent MTB økning), Matfisk Grønn-konvertert og Økologisk Matfisk.

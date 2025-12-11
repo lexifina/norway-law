@@ -1,0 +1,2 @@
+# § 3-2-7. Verdien av stallplass og uttatt grovfôr til hester som nyttes utenom jord- og skogbruksnæringen
+Verdien av stallplass og uttatt grovfôr til hester som nyttes i travsport eller på annen måte utenom jord- og skogbruksnæringen, settes til kr 21 700 for voksne trav- og galopphester. For hobbyhester utenom trav- og galoppsport, settes uttaket til kr 14 900 og for ponnier til kr 9 800. Satsene reduseres skjønnsmessig for føll og unghester.
