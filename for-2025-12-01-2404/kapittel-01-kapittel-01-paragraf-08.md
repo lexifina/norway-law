@@ -1,0 +1,3 @@
+# § 1-2-8. Utstyrsgodtgjørelse til idrettsdommere
+Utstyrsgodtgjørelse til idrettsdommere innen lagidretter hvor det er nødvendig med spesielt utstyr, som f.eks. sko, drakt, beskyttelse mv., anses ikke å gi skattepliktig overskudd når godtgjørelsen utgjør inntil kr 330 per oppdrag. Vilkåret er at samlet utstyrsgodtgjørelse fra samme oppdragsgiver ikke overstiger kr 3 300 per år. Det er videre en forutsetning at dommeren faktisk har kostnader til slikt utstyr, og at slike kostnader ikke blir dekket på annen måte.
+Utstyrsgodtgjørelsen kan utbetales i tillegg til beløp som kan utbetales skattefritt etter sktl. § 5-15 (1) bokstav i, jf. forskrift 23. november 2016 nr. 1360 (skatteforvaltningsforskriften) § 7-2-1.

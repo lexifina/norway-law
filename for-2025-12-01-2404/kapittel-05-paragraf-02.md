@@ -1,0 +1,4 @@
+# 5-1-1. Overføring av formuesobjekter ved arv, gave eller gavesalg
+Ved overføring av formuesobjekter ved arv, gave eller gavesalg skal gavemottaker tre inn i givers inngangsverdier og øvrige skatteposisjoner, som er knyttet til formuesobjektene, jf. skatteloven § 9-7 første til tredje ledd.
+Ved overføring av alminnelig gårdsbruk eller skogbruk når giveren kunne realisert slike eiendommer uten gevinstbeskatning på gavetidspunktet, settes inngangsverdien til ¾ av antatt salgsverdi, jf. skatteloven § 9-7 femte ledd.
+Ved gavesalg til nærstående som overtar hele eller deler av virksomheten, kan overdrageren velge å unnlate inntektsoppgjør og i stedet la gavemottakeren tre inn i overdragerens inngangsverdier og skatteposisjoner som er knyttet til den overførte virksomheten, jf. skatteloven § 9-7 tredje til sjette ledd.

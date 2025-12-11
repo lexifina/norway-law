@@ -1,0 +1,2 @@
+# § 2-3-3. Eierens private campingvogn brukt av ansatte i virksomheten
+For campingvogn, som er anskaffet til privat bruk, som også brukes til spisebrakke/overnattingsbrakke for ansatte i eierens virksomhet, kan det bare gis fradrag for den ekstra verdiforringelsen som skyldes bruken i virksomheten. Slik ekstra verdiforringelse settes skjønnsmessig til kr 156 per døgn. Det årlige fradraget begrenses oppad til 10 prosent av vognens kostpris som ny dersom skattyteren eier den, eller til den årlige leie dersom campingvognen leies.

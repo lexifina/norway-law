@@ -1,0 +1,12 @@
+# § 3-1-2. Jordbrukseiendommer
+Jordbrukseiendommer skal verdsettes under ett med bygninger og rettigheter som hører til eiendommen, jf. skatteloven § 4-11 første ledd.
+Det skal ikke foretas noen generell økning av de skattemessige formuesverdiene per 1. januar 2025. Verdien av jordbrukseiendom i inntektsgivende aktivitet fastsettes til 70 prosent av skattemessig formuesverdi, jf. skatteloven § 4-17 andre ledd. Formuesverdien for 2025 vil fremgå av forhåndsutfylt skattemelding.
+Eksempel: Jordbrukseiendom ble for skattefastsettingsåret 2016 satt til skattemessig formuesverdi lik kr 1000. Etter at 10 prosent formuesrabatt ble lagt inn for skattefastsettingsåret 2017 ble verdien i forhåndsutfylt skattemelding satt til kr 900. For skattefastsettingsåret 2025 settes verdien til 70 prosent av verdien i 2016. Det er samme verdi som ble nyttet ved forhåndsutfyllingen for 2024.
+Skattemessig formuesverdi for enkeltstående eiendommer som er vesentlig lavere enn skattemessig formuesverdi for sammenlignbare eiendommer, skal økes. Har en eiendom steget i verdi fra 1. januar 2025 pga. vesentlige påkostninger mv., skal den skattemessige formuesverdien økes. Det samme gjelder for påkostninger mv. foretatt tidligere år, men som pga. manglende eller ufullstendige opplysninger først er blitt kjent for skattemyndighetene på et senere tidspunkt.
+Skattemessig formuesverdi på eiendommer som ligger vesentlig over takstnivået for sammenlignbare eiendommer ellers i kommunen, kan settes ned.
+Omsetning av en eiendom gir i seg selv ikke grunnlag for endring av den skattemessige formuesverdien. Retningslinjene ovenfor gjelder selv om det er fastsatt endrede eiendomsskattetakster i kommunen.
+Den skattemessige formuesverdien skal settes ned, dersom den for våningshus overstiger 30 prosent av husets dokumenterte omsetningsverdi, se sktl. § 4-10 første ledd.
+For den øvrige del av eiendommen skal formuesverdien før verdsettingsrabatt etter skatteloven § 4-17 andre ledd, verken overstige 80 prosent av eiendommens kostpris (for nybygg inkludert grunn) eller 80 prosent av eiendommens markedsverdi.
+Den skattemessige formuesverdien på jakt-, fiske- og fallrettigheter skal inngå i jordbrukseiendommens totale skattemessige formuesverdi, jf. skatteloven § 4-11, første ledd. Ved tilkjøp eller frasalg av rettigheter må formuesverdien vurderes på nytt og i slike tilfeller benyttes metoden som er beskrevet i § 3-1-1 åttende ledd.
+Om bortfestede tomter til bolig- og fritidsformål, se § 3-1-3.
+Om driftsløsøre, se til § 2-1-2.

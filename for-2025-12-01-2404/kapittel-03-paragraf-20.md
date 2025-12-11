@@ -1,0 +1,2 @@
+# § 3-3-4. Fradrag for fôrkostnader til gjeterhund i sau- og reindriftsnæring
+Hvis høyere kostnader ikke kan dokumenteres med bilag, kan det alternativt kreves et samlet fradrag for kostnader til fôr på kr 2 900 for hver næringsdrivende (ved deling av næringsinntekt mellom ektefeller anses ektefellene i denne sammenheng som én næringsdrivende). For lønnet gjeters hundehold inngår kostnadene i minstefradraget.

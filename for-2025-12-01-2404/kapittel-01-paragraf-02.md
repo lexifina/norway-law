@@ -1,0 +1,7 @@
+# § 1-1-1. Bolig- og fritidseiendommer
+Boligeiendommer (herunder i boligselskap som omfattes av skatteloven § 7-3) formuesverdsettes etter reglene i skatteloven § 4-10.
+Bolig- og fritidseiendommer i utlandet og på Svalbard verdsettes etter de regler som gjelder for fritidseiendommer i Norge. Om fritidseiendommer leid ut i eierens næringsvirksomhet, se § 2-1-1.
+For fritidseiendommer (herunder i boligselskap som omfattes av skatteloven § 7-3) skal det ikke foretas noen generell økning av formuesverdiene for inntektsåret 2025. Dette gjelder også for fritidseiendommer på Svalbard og i utlandet.
+Har en fritidseiendom i løpet av 2025 steget i verdi pga. påkostninger mv., skal eiendommens formuesverdi heves til takstnivået (formuesverdier) for sammenlignbare eiendommer ellers i kommunen. Dette gjelder også når påkostninger mv. er foretatt tidligere uten å være tatt hensyn til pga. manglende eller ufullstendige opplysninger til skattemyndighetene. Omsetning eller endrede eiendomsskattetakster i kommunen gir i seg selv ikke grunnlag for å endre formuesverdien.
+Ved første gangs taksering av nybygde fritidseiendommer skal formuesverdien verken overstige 30 prosent av eiendommens kostpris inkludert grunn, eller 30 prosent av eiendommens markedsverdi. Samme norm kan benyttes for tilbygg og påkostninger.
+Formuesverdien på fritidseiendommer som ligger vesentlig over takstnivået for sammenlignbare eiendommer ellers i kommunen, kan settes ned av skattepliktige.

@@ -1,0 +1,1 @@
+# Verdsettelse av naturalytelser

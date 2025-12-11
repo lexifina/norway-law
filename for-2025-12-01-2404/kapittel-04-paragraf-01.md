@@ -1,0 +1,3 @@
+# § 4-1. Kapitlets virkeområde
+Dette kapitlet for fastsetting av formuesverdi på skogeiendommer gjelder den avkastningsverdien som skogen gir på lengre sikt ved rasjonell skjøtsel og drift. Kapitlet gjelder bare for økonomisk drivbare arealer. Det gjelder ikke fastsettelse av verdi av sandtak, torvtak, steinbrudd, tomter, jaktrettigheter, fiskerettigheter og lignende.
+Med økonomisk drivbare arealer menes arealer med skog i hogstklassene 1-5 hvor driftsforholdene (terreng og avstand til vei mv.) er slik at avvirkningen, når skogen er hogstmoden, gir økonomisk overskudd per avvirket kubikkmeter trevirke.

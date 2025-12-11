@@ -1,0 +1,4 @@
+# § 1-3-8. Fradrag for daglig reise mellom hjem og fast arbeidssted (arbeidsreise) og pendleres besøksreiser til hjemmet
+Fradrag settes til kr 1,83 per km, uansett reiselengde i året.
+Avstandsfradrag for reise mellom hjem og arbeidssted og fradrag for besøksreiser til hjem i Norge eller i andre land innenfor EØS-området, er begrenset til den del av beløpet som overstiger kr 15 250, og gis ikke for beløp som overstiger kr 100 880 i året, jf. sktl. § 6-44 første ledd.
+Reglene om avstandsfradrag gjelder i utgangspunktet ikke for skattepliktige som reiser til hjem utenfor EØS-området, jf. sktl. § 6-44 annet ledd første punktum. Skattepliktig som kan dokumentere bruk av privatbil til hjemreisene, kan likevel fastsette fradrag for utgiftene etter kilometersatsene som benyttes ved standardisert avstandsfradrag etter satsene ovenfor.

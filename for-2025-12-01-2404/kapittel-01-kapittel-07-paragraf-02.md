@@ -1,0 +1,2 @@
+# § 1-3-40. Fradragssats for barnepassere
+Den som passer andres barn i eget hjem, herunder driver familiebarnehage som næringsvirksomhet i eget hjem, kan istedenfor fradrag for faktiske kostnader, fastsette standardfradrag. Standardfradraget skal utgjøre 50 prosent av vederlaget for barnepass, men høyst kr 1 413 per måned for hvert barn til dekning av kostnader til kosthold, ekstra kostnader til vask, oppvarming mv. Har skattepliktig valgt standardfradrag, er valget bindende for de neste 5 inntektsår såfremt forholdene ikke endres vesentlig.
