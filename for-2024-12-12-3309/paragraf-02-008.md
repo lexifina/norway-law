@@ -1,0 +1,4 @@
+# § 2-8. Studietilbud
+(1) Ved opptak til studier med løpende opptak sendes det et betinget studietilbud til søkeren. Opptaket fullføres ved at søkeren signerer det betingende tilbudet, dokumenterer at opptakskravene er oppfylt innen spesifiserte frister, og mottar vedtaket om opptak.
+(2) Ved opptak til studier med rangering mottar søkere som tilfredsstiller studieprogrammets opptakskrav, har søkt innen spesifiserte frister, og som når frem i rangeringen, et betinget tilbud. Opptaket fullføres ved at søkeren dokumenterer eventuelle generelle opptakskrav, signerer tilbudet og mottar vedtaket om opptak.
+(3) Ved opptak til enkeltemner bestiller søkeren emne(r), og får deretter tilsendt en ordrebekreftelse. Opptaket fullføres ved at søkeren dokumenterer opptakskravene og mottar vedtak om opptak.

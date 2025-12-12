@@ -1,0 +1,8 @@
+# § 3-9. Obligatorisk aktivitet
+(1) Høyskolen kan fastsette krav om obligatorisk aktivitet, herunder obligatorisk deltagelse i ulike organiserte undervisningsaktiviteter, som del av studiegjennomføringen. Obligatoriske aktiviteter skal fremkomme i emnebeskrivelsen.
+(2) Vurderingsuttrykket ved obligatorisk aktivitet skal være «godkjent» / «ikke godkjent».
+(3) Obligatorisk aktivitet benyttes til å regulere adgang til eksamener. Vurderingen av om en obligatorisk aktivitet er godkjent eller ikke, er en selvstendig vurdering som ikke kan inngå som en del av den endelige karakteren. De arbeidsresultatene obligatoriske aktiviteter har ledet frem til, kan imidlertid inngå i vurderingsgrunnlaget ved påfølgende eksamen.
+(4) Godkjent obligatorisk aktivitet kan ordinært ikke gjentas.
+(5) Ikke-godkjent obligatorisk aktivitet gir rett til gjentak. Gjentak av obligatorisk aktivitet følger av retningslinjer til kapittel 3. I enkelte emner kan obligatorisk aktivitet kun gjentas ved neste ordinære gjennomføring. Dette skal fremgå av emnebeskrivelsen.
+(6) Det skal som hovedregel stilles de samme krav til dokumentasjon av gyldig fravær fra obligatorisk aktivitet som til dokumentasjon av gyldig fravær ved eksamen, men den enkelte school kan etter nærmere vurdering godta egenmelding ved fravær fra obligatorisk aktivitet. Gyldig fravær gir ikke fritak fra obligatorisk aktivitet, men kan gi adgang til gjentak. Nærmere bestemmelser om dokumentasjon og gjentak er gitt i retningslinjer til kapittel 3.
+(7) Det kan kreves avgift for gjentak av obligatorisk aktivitet i tilfeller hvor det ikke foreligger gyldig fravær. Nærmere bestemmelser om dette er gitt i retningslinjer til kapittel 3.
