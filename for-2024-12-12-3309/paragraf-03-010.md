@@ -1,0 +1,4 @@
+# § 3-10. Individuell tilrettelegging
+(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov har rett til egnet individuell tilrettelegging av lærested, undervisning, praksis, læremidler og eksamen, jf. universitets- og høyskoleloven § 10-5. Se retningslinjer til kapittel 3 for informasjon om søknad.
+(2) Studenter som er toppidrettsutøvere, utøver profesjonelt kunstnerisk arbeid eller innehar politiske verv på nasjonalt eller internasjonalt nivå, kan søke om tilrettelegging av studiene etter retningslinjer til kapittel 3. Vurderingen av egnet tilrettelegging er den samme som ved tilrettelegging etter universitets- og høyskoleloven § 10-5 (2). Tilretteleggingen må ikke senke de faglige kravene i studiet.
+(3) Vedtak om tilrettelegging er et enkeltvedtak og kan påklages etter reglene i kapittel 6.
