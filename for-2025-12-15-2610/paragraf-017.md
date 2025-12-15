@@ -1,0 +1,5 @@
+# § 17. Søknad og dokumentasjon
+1. Opptak søkes normalt gjennom elektronisk søknad.
+2. All utdanning, praksis og andre forhold som skal gi grunnlag for opptak må være dokumentert innen angitte frister. Søkere som avslutter kvalifiserende utdanning etter hovedopptaket, må laste opp foreløpig dokumentasjon innen angitte frister. Søker er selv ansvarlig for å laste opp all nødvendig dokumentasjon som skal ligge til grunn for søknaden. Nærmere retningslinjer for krav til dokumentasjon fremgår i utfyllende retningslinjer og av informasjon tilgjengelig på høgskolens nettsider.
+3. Søkere fra land utenfor EU/EØS som må ha oppholdstillatelse for å studere i Norge, må dokumentere finansiering ved søknad om opptak til videreutdanninger, masterstudier og praktisk-pedagogisk utdanning.
+4. På forespørsel er søker pliktig til å vise originaldokumenter til oppgitt tid og sted. Unnlatelse kan medføre vedtak om opphør av studieplass etter nærmere bestemmelser i forskrift om eksamen, studierett og grader ved Høgskolen i Østfold § 2-4 bokstav g.
