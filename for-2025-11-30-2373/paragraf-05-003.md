@@ -1,0 +1,3 @@
+# § 5-3. Overgangsregler
+Forskriften gjelder for tildeling av tilskudd fra og med tilskuddsåret 2026. For flerårige tilskudd hvor første tilskuddsår er 2024 eller 2025 gjelder forskrift 2. januar 2024 nr. 25 om tilskudd til integreringsarbeid i regi av frivillige organisasjoner ut tilskuddsperioden.
+For tilskuddsåret 2026 kan tilskuddsforvalteren sette egne frister for dokumentasjon av kravet i § 1-4 bokstav f om at organisasjonen har vedtektsfestet de demokratiske rettighetene til medlemmer og kravet i § 1-6 andre ledd bokstav c og d om at organisasjonen har vedtektsfestet at personer med innvandrerbakgrunn skal være representert i organisasjonens styrende organ.
