@@ -1,0 +1,4 @@
+# § 4-1. Tilbakebetaling av tilskudd, stans i utbetaling mv.
+Hvis en tilskuddsmottaker ikke har oppfylt kravene i forskriften og tilskuddsbrevet, eller har gitt uriktige opplysninger, kan tilskuddsforvalteren stoppe videre utbetalinger eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet.
+Hvis en tilskuddsmottaker har fått utbetalt for mye tilskudd eller ikke brukt et tilskudd i samsvar med kravene i forskriften og tilskuddsbrevet, kan det som er for mye utbetalt eller som skal tilbakebetales, trekkes fra i senere tilskudd. Ved flerårig tilskudd, kan tilskuddsforvalteren trekke fra ubrukte midler i neste års tilskudd hvis ikke det er innvilget søknad om at midlene overføres til neste år etter § 3-1.
+Dersom tilskuddet ikke kan brukes til tiltaket, eller ikke kan brukes innen rimelig tid, skal tilskuddsmottaker tilbakebetale tilskuddet.
