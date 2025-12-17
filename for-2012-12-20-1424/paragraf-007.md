@@ -1,0 +1,2 @@
+# § 7. Anvendelseserklæring
+For ferdigvarer som gis tillatelse til nedsatt tollavgiftssats i medhold av denne forskrift, kan Landbruksdirektoratet kreve at importøren avgir en erklæring om varens anvendelse før tillatelse til nedsatt tollavgiftssats innrømmes. Anvendelseserklæringen skal følge varen dersom varen selges videre. Ved et slikt videresalg forpliktes kjøper i henhold til anvendelseserklæringen.
