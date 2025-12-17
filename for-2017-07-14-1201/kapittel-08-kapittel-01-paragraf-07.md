@@ -1,0 +1,5 @@
+# § 8-4-9. Når fødsel har funnet sted i en gruppe 4-stat
+For registrering av barn som er født i en stat som nevnt i § 8-4-2 fjerde ledd kreves fødselsattest godkjent av norsk utenriksstasjon. Dersom slik godkjennelse ikke fremlegges, må vedkommende attest være påført Apostille eller være legalisert av utstederlandets utenriksdepartement, jf. § 8-4-20. Dette gjelder ikke der utlendingsmyndighetene har innvilget oppholdstillatelse på grunnlag av den oppgitte familierelasjon.
+Er det grunn til å tro at det kan foreligge surrogati, eller det er grunn til å tvile på riktigheten av opplysningene i attesten, gjelder bestemmelsene i § 8-4-5 til § 8-4-7 tilsvarende.
+Når det gjelder farskap, gjelder i tillegg § 8-4-5 til § 8-4-7 tilsvarende, med unntak for bestemmelsene om DNA-test.
+For fødsel i Kina skal utenriksstasjonene i henholdsvis Beijing, Guangzhou eller Shanghai vurdere om attesten trenger verifisering eller om det er nødvendig med DNA-testing. Bestemmelsene i § 8-4-5 til § 8-4-7 kommer da tilsvarende til anvendelse.

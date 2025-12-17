@@ -1,0 +1,2 @@
+# § 3-3-2. Registrering av fødselsdato
+For personer som omfattes av direktiv 2004/38/EF om EØS-borgere og deres familiemedlemmers rett til å bevege og oppholde seg fritt på medlemsstatenes område, kan fødselsdato registreres på grunnlag av det som er registrert i utlendingsmyndighetenes datasystem. Dersom det ikke er samsvar mellom fødselsdato i pass eller tilsvarende legitimasjonsdokument og registrert fødselsdato i utlendingsmyndighetenes datasystem, skal det avklares med utlendingsmyndighetene hvilken fødselsdato som skal registreres.

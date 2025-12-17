@@ -1,0 +1,4 @@
+# § 8-4-8. Når fødsel har funnet sted i en gruppe 3-stat
+For registrering av barn og farskap til barn som er født i stat som nevnt i § 8-4-2 tredje ledd kreves original fødselsattest eller bekreftet kopi fra norsk utenriksstasjon/notarius publicus i vedkommende stat, med mindre utlendingsmyndighetene har innvilget oppholdstillatelse på grunnlag av den oppgitte familierelasjon. Apostille/legalisering er i utgangspunktet ikke nødvendig.
+Er det grunn til å tro at det kan foreligge surrogati, eller det er grunntil å tvile på riktigheten av opplysningene i attesten, gjelder bestemmelsene i § 8-4-5 til § 8-4-7 tilsvarende.
+For registrering av farskap gjelder i tillegg § 8-4-5 til § 8-4-7 tilsvarende med unntak for bestemmelsene om DNA-test. For fødsler i England, Wales og Nord-Irland er det tilstrekkelig med fødselsattest, jf. første ledd.

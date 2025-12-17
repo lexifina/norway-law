@@ -1,0 +1,4 @@
+# § 10-7-1. Krav om og utlevering av attester
+Attest kan bare utstedes etter begjæring fra den person attesten gjelder, norsk offentlig myndighet eller vedkommendes verge, dersom det faller inn under vergens oppdrag. Likeledes kan attest utstedes til ektefelle, registrert partner eller en av de nærmeste slektninger når det angis et begrunnet behov. Nekter skattekontoret å utstede attest, kan avgjørelsen påklages til Skattedirektoratet.
+Attest kan bare utleveres til den som har krav på å få den utstedt. Skal attesten sendes som post, må det skje til den bosteds- eller postadresse vedkommende er registrert med i Folkeregisteret.
+Utenlandsk myndighet kan ikke kreve å få utstedt fødselsattest. Begjæring om attest fra en utenlandsk myndighet skal oversendes Skattedirektoratet som i særlige tilfeller kan utstede attest.

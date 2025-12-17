@@ -1,0 +1,2 @@
+# § 8-4-4. Når fødsel har funnet sted i en gruppe 2-stat
+For registrering av barn og farskap til barn som er født i stat som nevnt i § 8-4-2 annet ledd kreves original fødselsattest og fremlagt DNA-test i samsvar med det som følger av § 8-4-5 til § 8-4-6, med mindre norsk utenriksstasjon har verifisert vedkommende fødsel eller utlendingsmyndighetene har innvilget oppholdstillatelse på grunnlag av den oppgitte familierelasjon.

@@ -1,0 +1,10 @@
+# § 5-3-3. Enslige pendlere
+Som enslig pendler regnes person som ikke går inn under § 5-3-2.
+Enslig som pendler mellom foreldrehjem og annen bolig, regnes som bosatt i foreldrehjemmet. Fra og med det år pendleren fyller 22 år regnes imidlertid vedkommende som bosatt i den andre boligen dersom den er selvstendig etter § 5-3-4.
+Enslig som har overveiende døgnhvile i annen bolig enn foreldrehjemmet, kan kreve å bli registrert som bosatt i denne bolig. Slik registrering kan ikke omgjøres så lenge boligsituasjonen mv. i det vesentlige er uforandret.
+Med foreldrehjem forstås det folkeregistrerte bosted til foreldre eller andre som pendleren har vokst opp hos. Kan flere boliger regnes som foreldrehjem for pendleren, gjelder regelen i folkeregisterloven § 5-1 annet ledd i forholdet mellom disse.
+Den som tar til å pendle fra en kommune der han har vært registrert bosatt i minst tre år når pendlingen tar til, til en bolig i en annen kommune, kan kreve å forbli registrert som bosatt i den første kommunen dersom:
+a) boligen på det opprinnelige bostedet har minst dobbelt så stort areal av primærrom som den andre boligen, og
+b) pendleren eier den første boligen eller har utgifter til leie av denne. En pendler som har benyttet en eiendom som bolig mot å dekke driftskostnadene, likestilles med pendlere som tar til å pendle fra en eid til en leid bolig dersom pendleren er nær slektning av eiendommens eier eller er mottaker etter en føderådskontrakt.
+For bolig i boenhet der det bor flere, regnes som areal av primærrom boenhetens totale areal av primærrom delt på antall beboere over 15 år. § 5-3-4 annet og tredje ledd gjelder så langt de passer.
+I andre tilfeller enn nevnt i første til femte ledd, skal enslig som pendler mellom to eller flere boliger, regnes som bosatt i sin selvstendige bolig, jf. § 5-3-4. Ved pendling mellom selvstendige boliger eller mellom uselvstendige boliger, gjelder regelen i folkeregisterloven § 5-1 annet ledd, dersom ikke den enslige krever noe annet på grunnlag av femte ledd.
