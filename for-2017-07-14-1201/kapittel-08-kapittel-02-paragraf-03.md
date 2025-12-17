@@ -1,0 +1,3 @@
+# § 8-4-12. Vigsel gjennomført i en gruppe 3- og 4-stat
+For registrering av vigsel som er gjennomført i stat som nevnt i § 8-4-2 tredje og fjerde ledd kreves at attestene må være i original og påført Apostille eller være legalisert av utstederlandets utenriksdepartement, jf. § 8-4-20. Attester verifisert av norsk utenriksstasjon godtas også. Vigsel kan også registreres dersom utlendingsmyndighetene har innvilget oppholdstillatelse på grunnlag av den oppgitte familierelasjon.
+Kravet til påføring av apostille gjelder ikke for attester utstedt på grunnlag av vigsler foretatt av diplomatiske og konsulære tjenestemenn ved utenlandske ambassader akkreditert til Norge.
