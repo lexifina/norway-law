@@ -1,0 +1,5 @@
+# § 9-5. Sensurfristar
+(1) Vanleg sensurfrist er femten verkedagar etter eksamenen blei avslutta, i samsvar med universitets- og høgskulelova § 11-7 (4). Studenten skal få melding om forseinkingar i sensuren og om vedtak om forlenga sensurfrist.
+(2) Sensurfristen for masteroppgåver er to månader frå innleveringa. Sensurfristen for hovudoppgåva i medisinstudiet (MEDOPPG) og for hovudoppgåva for psykologiprogrammet (PROPSY317) er seks veker.
+(3) Fakultetet sjølv kan i mellombels forskrift vedta forlenging av sensurfristen grunna sensormangel, jf. universitets- og høgskulelova § 11-7 (4). Universitetsdirektøren kan vedta slik forlenging dersom andre særlege grunnar gjer det nødvendig, jf. same føresegn.
+(4) Klagesensur skal handsamast utan ugrunna opphald. På emne med mange sensurklagar har fakultetet høve til å vente med å sende eksamenssvara til klagesensorane til klagefristen har gått ut for å sikre lik handsaming av klagane. Klage på formelle feil som kan få følger for fleire eller alle sensurklagane skal reknast som grunna opphald.

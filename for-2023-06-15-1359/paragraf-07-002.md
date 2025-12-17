@@ -1,0 +1,6 @@
+# § 7-2. Form
+(1) Fakultetet fastset eksamensforma i emneskildringa. Eksamensoppgåva skal utformast med utgangspunkt i læringsutbytet i emnet.
+(2) Eksamen kan vere éin del, eller vere oppbygd av fleire delar (deleksamen). I sistnemnde tilfelle skal delane vere vekta etter ein på førehand fastsett brøk.
+(3) Mappevurdering er samansett av fleire arbeid. Sensuren kan gjerast på grunnlag av heile mappa eller utvalde arbeid. Emneskildringa skal fastsetje korleis eit eventuelt utval av arbeida skal gjerast.
+(4) Alle eksamensarbeid kan supplerast med ein justerande munnleg, praktisk, utøvande og/eller skapande eksamen for alle eller eit utval av studentane. Justerande eksamen inneber at studenten blir prøvd etter at ein bestått førebels karakter er sett, med høve til å bli justert opp eller ned i karakter. Dersom det mellom den endelege karakteren i emnet og den førebelse karakteren i klagerunden er eit spenn på to karakterar eller meir, skal fakultetet kalle studenten inn til ny justerande munnleg eksamen.
+(5) Ei mappevurdering har ikkje bestått resultat om ikkje alle arbeida er leverte. Det same gjeld for delane i ein deleksamen. Fakultetet kan vedta utfyllande reglar som gir unntak frå dette, til dømes ved gyldig fråvær knytt til ein del eller eit arbeid.

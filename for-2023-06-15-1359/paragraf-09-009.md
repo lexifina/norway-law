@@ -1,0 +1,3 @@
+# § 9-9. Særskilt om klagesensur
+(1) Ved klagesensur skal klagesensorane ikkje opplysast om karakteren, grunngivinga i den vanlege sensurrunden eller studentens grunngiving for klage (blind klagesensur). Klagesensorane bør få ei revidert sensorrettleiing der den emneansvarlege gjer greie for erfaringane frå den opphavlege sensurrunden.
+(2) Dersom det er fråvik på to karakterar eller meir mellom vanleg sensur og klagesensuren, skal fakultetet gjere ei ny vurdering, jf. uhl. § 11-11 (3). I denne deltek ein av dei opphavlege sensorane, ein av klagesensorane og ein tredje sensor utpeika av fakultetet. Slik ny vurdering skal ikkje vere blind.

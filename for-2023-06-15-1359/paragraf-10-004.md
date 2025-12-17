@@ -1,0 +1,6 @@
+# § 10-4. Samansetjing av mastergrad
+(1) Universitetet i Bergen gir mastergrader med den normerte studietida og innhald som går fram i universitets- og høgskuleforskrifta §§ 2-6 til 2-11.
+(2) Graden master kan berre tildelast studentar som har fullført eit masterprosjekt.
+(3) Masterprosjektet skal vere eit sjølvstendig vitskapleg eller kunstnarisk arbeid på mellom 30 og 60 studiepoeng, utarbeidd under rettleiing. Fakultetet kan i emneskildringa vedta at to eller fleire studentar kan samarbeide om masterprosjektet.
+(4) Integrerte masterprogram skal ha krav om examen philosophicum. Masterprosjektet i eit integrert masterprogram kan vere på 20 studiepoeng, jf. universitets- og høgskuleforskrifta § 2-8.
+(5) Masterprosjektet er i utgangspunktet offentleg og ope for innsyn, med dei avgrensingar som følger av teieplikta (forvaltingslova § 13 med vidare), forskingsetiske omsyn og vedtak om klausulering. Fakultetet vedtar i første rekke om eit masterprosjekt er underlagt teieplikt, og etter grunngiven søknad om eit prosjekt skal underleggast tidsavgrensa klausulering på maksimalt fem år. Universitetet i Bergen skal ikkje inngå avtalar om hemmeleghald som avgrensar studentens rett til sensur.

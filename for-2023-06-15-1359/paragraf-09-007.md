@@ -1,0 +1,4 @@
+# § 9-7. Klage på karakter og formelle feil
+(1) Studenten kan klage på karakterfastsettinga på den vanlege sensuren, dersom arbeidet lar seg etterprøve. Ved klage skal det gjerast ny sensur («klagesensur»). Klageretten og klagesensuren er individuell, også ved gruppearbeid. Studenten kan klage på formelle feil ved alle eksamenar.
+(2) Fristen for å klage på karakterfastsetjinga er tre veker frå kunngjeringa. Det same gjeld klage på formelle feil ved eksamen. Dersom studenten har bede om grunngiving for sensuren, startar klagefristen når grunngiving er gitt. Dersom studenten klagar på karakterfastsetjinga, startar fristen for å klage på formelle feil først etter at sensurklagen er ferdig handsama.
+(3) Ved deleksamen gjeld klageretten først når endeleg karakter er fastsett. Fakultetet kan gjere unntak i utfyllande reglar dersom studentane sin studieprogresjon elles vil kunne hindrast.
