@@ -1,0 +1,3 @@
+# § 3-4. Tap av studieplass
+(1) Dersom studenten ikke oppfyller sine plikter etter § 3-1, § 3-2 og § 4-1 skal studieleder gi melding om dette til rektor, som kan treffe vedtak om tap av studieplass. Slikt vedtak skal ikke treffes dersom vedtaket skyldes utestenging eller bortvisning, eller dersom studenten er innvilget permisjon. Studenten skal gis skriftlig forhåndsvarsel om saken og gis anledning til å uttale seg, innen en nærmere angitt frist, før vedtaket treffes.
+(2) Vedtak etter forrige ledd er et enkeltvedtak og kan påklages til lokal klagenemnd etter bestemmelsene i kapittel 6. Klagen sendes til fagskolens administrasjon.

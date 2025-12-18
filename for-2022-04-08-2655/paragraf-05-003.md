@@ -1,0 +1,2 @@
+# § 5-3. Vurdering av skikkethet
+Selv om yrket som studiet kvalifiserer for ikke spesifikt er oppført på listen over yrker i forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven (universitets- og høyskoleforskriften kapittel 7, skal studentenes skikkethet vurderes gjennom hele utdanningen. Vurdering av studenters skikkethet skjer i henhold til etter fagskoleloven § 26 og fagskoleforskriften §§ 26-36.
