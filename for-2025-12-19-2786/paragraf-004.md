@@ -1,0 +1,2 @@
+# § 4. Ikrafttredelse
+Forskriften trer i kraft straks og gis virkning fra 1. januar 2026. Fra samme dag oppheves forskrift 20. desember 2024 nr. 3471 om avgifter til folketrygden for året 2025 for arbeidstakere utsendt til Norge fra Amerikas forente stater, Canada og Sør-Korea.
