@@ -1,0 +1,2 @@
+# § 1. Personkrets
+Denne forskriften omfatter personer som er medlem i trygden etter folketrygdloven §§ 2-1 til 2-6 med inntekt som ikke er skattepliktig til Norge etter de ordinære skattelover og skattevedtak, eller etter lov om skatt til Svalbard, samt medlem i trygden etter folketrygdloven § 2-7, § 2-7 a eller § 2-8 og utsendt arbeidstaker som er medlem i trygden etter bilaterale og multilaterale overenskomster nevnt i folketrygdloven §§ 1-3 a og 1-3 b.
