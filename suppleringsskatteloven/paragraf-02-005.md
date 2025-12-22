@@ -1,0 +1,2 @@
+# § 2-5. Reduksjon av suppleringsskatt ved indirekte eie
+Et morselskap som har en indirekte eierinteresse i en underbeskattet konsernenhet gjennom et mellomliggende morselskap eller deleid morselskap som skal svare suppleringsskatt etter en kvalifisert regel om skatteinkludering, skal redusere sin andel av suppleringsskatten for den underbeskattede konsernenheten. Reduksjonen skal tilsvare den delen av suppleringsskatten som skal svares av det mellomliggende eller deleide morselskapet.

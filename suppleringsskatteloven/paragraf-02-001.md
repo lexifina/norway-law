@@ -1,0 +1,2 @@
+# § 2-1. Skatteplikt for øverste morselskap
+En konsernenhet som er lokalisert i Norge og er det øverste morselskapet i et konsern, og som direkte eller indirekte har hatt en eierinteresse i en underbeskattet konsernenhet i løpet av regnskapsåret, er skattepliktig for sin andel av suppleringsskatten fra denne. Et slikt morselskap skal også beregne suppleringsskatt for seg selv, og er suppleringsskattepliktig for denne.

@@ -1,0 +1,9 @@
+# § 2-20. Nasjonal suppleringsskatt
+(1) Konsernenheter som er lokalisert i Norge, skal svare nasjonal suppleringsskatt dersom konsernets effektive skattesats i Norge beregnet etter § 5-2 er lavere enn 15 prosent. Plikten til å svare nasjonal suppleringsskatt gjelder også felleskontrollert virksomhet og dens underenheter lokalisert i Norge. Faller plikt til å svare nasjonal suppleringsskatt på en verdipapiriseringsenhet, og det er andre konsernenheter lokalisert i Norge, skal plikten i stedet legges på en slik annen konsernenhet.
+(2) Nasjonal suppleringsskatt beregnes på samme måte som suppleringsskatt etter reglene i og gitt i medhold av denne loven, med mindre annet er presisert. Der suppleringsskatteloven eller forskrift til suppleringsskatteloven gir konsernet en valgadgang, skal samme valg benyttes ved beregningen av suppleringsskatt og nasjonal suppleringsskatt. Ved beregningen etter § 5-1 andre ledd skal beregnet nasjonal suppleringsskatt ikke fradras. Bestemmelsen i § 2-14 gjelder ikke ved beregningen av nasjonal suppleringsskatt.
+(3) Ved beregningen av nasjonal suppleringsskatt skal følgende omfattede skatter ikke medregnes ved beregningen av konsernenhetens effektive skattesats:
+a) skatt betalt av konsernenhetens eiende konsernenhet etter regler om beskatning av inntekt i kontrollerte utenlandske selskaper, for inntekt opptjent av konsernenheten,
+b) skatt betalt av en hovedenhet for inntekt opptjent av konsernenheten, dersom denne er et fast driftssted,
+c) skatt betalt av konsernenhetens eiende konsernenhet, dersom konsernenheten er en hybrid enhet eller omvendt hybrid enhet lokalisert i Norge,
+d) skatt betalt av konsernenhetens eiende konsernenhet, unntatt kildeskatter ilagt i Norge, på utdelinger fra konsernenheten.
+(4) Den enkelte konsernenheten, samt felleskontrollert virksomhet og dens underenheter, skal svare sin andel av den nasjonale suppleringsskatten for regnskapsåret beregnet etter § 5-1 tredje ledd.
