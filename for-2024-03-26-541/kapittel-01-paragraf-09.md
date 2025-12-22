@@ -1,0 +1,2 @@
+# § 1-4-1. Omregning til presentasjonsvaluta
+En konsernenhets regnskapsmessige resultat skal beregnes i presentasjonsvalutaen som benyttes i konsernregnskapet til det øverste morselskapet. Omregning skal gjennomføres i samsvar med de prinsippene for omregning til presentasjonsvaluta som følger av regnskapsspråket som benyttes i konsernregnskapet. Det samme gjelder ved omregning av andre beløp som inngår ved beregningen av justert resultat.

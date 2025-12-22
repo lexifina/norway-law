@@ -1,0 +1,3 @@
+# § 1-2-3. Beløpsgrense ved deling
+(1) Med deling etter denne bestemmelsen menes situasjoner hvor enheter i et konsern blir del av et annet konsern som ikke konsolideres av det samme øverste morselskapet.
+(2) Om et konsern omfattet av suppleringsskattereglene deles og blir til to eller flere konsern, anses det enkelte konsernet for å ha møtt inntektsterskelen det første regnskapsåret som avsluttes etter delingen, dersom det har en inntekt på minst 750 millioner euro dette året. For det andre til fjerde regnskapsåret som avsluttes etter delingsåret, anses det enkelte konsernet for å ha overskredet inntektsterskelen dersom det har en inntekt på minst 750 millioner euro i minst to av regnskapsårene etter delingen, inklusive delingsåret.

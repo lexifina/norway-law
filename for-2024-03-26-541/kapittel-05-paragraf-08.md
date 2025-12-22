@@ -1,0 +1,2 @@
+# § 5-3-5. Delvis utleie
+Hvor en vesentlig del av en kvalifiserende fysisk eiendel leies ut, og utleier beholder retten til å bruke den resterende delen av eiendelen selv, skal den bokførte verdien av eiendelen fordeles mellom leietaker og utleier. Utleier skal medregne andelen som fordeles til denne, og kan bruke prinsippene i § 5-3-3, eller en annen formålstjenlig fordelingsnøkkel som eksempelvis kan være basert på en forholdsmessig andel av arealet.
