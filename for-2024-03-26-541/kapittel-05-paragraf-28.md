@@ -1,0 +1,2 @@
+# § 5-7-40. Skattefordelingsregel Safe Harbour
+For regnskapsår som ikke er lengre enn tolv måneder, og som begynner senest 31. desember 2025 og avsluttes senest 31. desember 2026, skal skattefordelingsbeløpet som er beregnet for det øverste morselskapets jurisdiksjon, settes til null for hvert regnskapsår dersom den nominelle selskapsskattesatsen i det øverste morselskapets jurisdiksjon er minst 20 prosent.

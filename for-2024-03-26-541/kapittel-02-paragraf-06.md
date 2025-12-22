@@ -1,0 +1,4 @@
+# § 2-20-1. Nasjonal suppleringsskatt på verdipapiriseringsenheter
+(1) Faller plikt til å svare nasjonal suppleringsskatt etter § 2-20 på en verdipapiriseringsenhet, skal plikten i stedet legges på «initiativtaker», jf. verdipapiriseringsforordningen artikkel 2 nr. 3, jf. finansforetaksloven § 11-16 første ledd.
+(2) Er ikke «initiativtaker» lokalisert i Norge, skal plikten legges på den nærmeste konsernenheten i verdipapiriseringsenhetens eierkjede som er lokalisert i Norge. Er det flere slike enheter som er like nær verdipapiriseringsenheten i eierkjeden, skal plikten legges på den som har den største direkte og indirekte eierinteressen.
+(3) Er ingen konsernenheter som nevnt i første eller andre ledd lokalisert i Norge, skal plikten til å svare nasjonal suppleringsskatt etter § 2-20 likevel falle på verdipapiriseringsenheten.
