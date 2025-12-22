@@ -1,0 +1,4 @@
+# § 6. Beregning av fartøyandel
+Kompensasjonen til det enkelte fartøy bestemmes av fartøyets andel av omsetningen i den fartøygruppen fartøyet tilhører. Omsetningen i fartøygruppen skal etter denne forskrift forstås som summen av førstehåndsomsetningen til de fartøyene som har levert søknad om kompensasjon, jf. § 3, og som for øvrig oppfyller vilkårene.
+Dersom et fartøy har kjøpt en andel av sitt totale drivstofforbruk uten avgift som beskrevet i § 1 og § 2 trekkes den samme andelen fra fartøyets omsetning. For fartøy som har kjøpt en andel av sitt totale drivstofforbruk med redusert avgiftssats, trekkes en tilsvarende redusert andel fra fartøyets omsetning. Den totale omsetningen i fartøygruppen reduseres med tilsvarende beløp.
+Fiskeridirektoratet fastsetter det enkelte fartøys inntekt. Garantikassen beregner hvor stor andel av det kjøpte drivstoffet som oppfyller vilkårene etter denne forskrift, og justerer fartøyandelen som beskrevet i første og andre ledd.
