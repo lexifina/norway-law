@@ -1,0 +1,2 @@
+# § 1-2. Beløpsgrense
+Denne loven gjelder enheter og felleskontrollert virksomhet og dens underenheter som er del av et konsern med en årlig samlet inntekt på minst 750 millioner euro, inkludert inntekt fra enheter som nevnt i § 1-3. Vilkåret i første punktum må være oppfylt i minst to av de fire foregående regnskapsårene. Det øverste morselskapets konsernregnskap legges til grunn for vurderingen. Er regnskapsåret kortere eller lengre enn tolv måneder, justeres beløpsgrensen på 750 millioner euro forholdsmessig.
