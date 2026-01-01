@@ -1,0 +1,3 @@
+# § 16. Fastsetting av program- og emneplaner
+Styret vedtar programplan for studieprogram etter anbefaling fra Studieutvalget i forbindelse med etablering av nytt studieprogram. Studieadministrative forhold i planene skal avklares med studieavdelingen før planene leveres til behandling i Studieutvalget. Programleder godkjenner emneplaner og endringer i program- og emneplaner så lenge endringene ikke medfører betydelige endringer i studiets målsetting, innhold og ressursrammer.
+Endringer i program- og emneplaner skal ferdigstilles i løpet av høstsemesteret dersom endringene skal gjelde fra kommende studieår.

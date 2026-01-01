@@ -1,0 +1,3 @@
+# § 41. Fusk
+Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studieutvalget fastsetter utfyllende retningslinjer for behandling av fusk / forsøk på fusk. Konsekvenser for studenten ved fusk/forsøk på fusk framgår i lov om universiteter og høyskoler § 12-4.
+Vedtak etter denne paragrafen fattes av NIHs klagenemnd (institusjonens nemnd for studentsaker), jf. lov om universiteter og høyskoler § 14-1. Vedtak om utestenging og tap av eksamensrett fattes med to tredels flertall.

@@ -1,0 +1,2 @@
+# § 49. Krav til innhold og sammensetning av mastergrad
+For å få tildelt mastergrad av 120 studiepoengs omfang må kravene som er fastsatt i forskrift 1. desember 2005 nr. 1392 om krav til mastergrad være oppfylt. I tillegg må studenten ha bestått emner som er fastsatt i den enkelte programplan. Omfanget av det selvstendige arbeidet fastsettes i programplanen. Det er obligatorisk med veiledning av det selvstendige arbeidet. For å få utstedt vitnemål må minst 60 studiepoeng som skal inngå i graden være bestått ved NIH.

@@ -1,0 +1,7 @@
+# § 19. Utdanningsplan, veiledningskontrakt og semesterregistrering
+1) En student som er tatt opp til studier av 60 studiepoengs omfang eller mer skal ha en utdanningsplan for sitt studium i form av en avtale inngått mellom studenten og høgskolen. Utdanningsplanen skal angi partenes viktigste rettigheter og plikter. Utdanningsplanen skal være inngått i løpet av studentens første semester. Dersom utdanningsplanen skal ha vesentlige avvik fra programplanen skal institutt som har det faglige ansvaret for studiet ha anledning til å uttale seg før planen blir utformet.
+2) En student som er tatt opp til masterprogram skal inngå veiledningskontrakt i første studieår. Veiledningskontrakten skal blant annet regulere omfanget og varigheten av veiledningen. Kontrakten inngås mellom studenten og det instituttet som studenten er tatt opp til.
+3) Studentens rett til oppfølging og tilrettelegging underveis i utdanningen er betinget av at studentens forpliktelser etter utdanningsplanen og mastergradskontrakten blir overholdt.
+4) Studenten må betale semesteravgift og bekrefte sin utdanningsplan hvert semester innen fastsatt frist for å beholde sin studie- og undervisningsrett.
+5) En student som er fritatt for å betale semesteravgift pga. utvekslingsordninger eller lignende skal bekrefte sin utdanningsplan på samme måte som øvrige studenter.
+6) Studieutvalget fastsetter frister, jf. § 18 nr. 4 og 6, § 24 nr. 3 og 4 samt § 26 nr. 2.
