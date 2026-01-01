@@ -1,0 +1,2 @@
+# § 6-1
+I den utstrekning det følger av overenskomst med fremmed stat, skal det ikke betales gebyr eller ytes refusjon til staten for forretninger eller utlegg i tilknytning til utenlandsk rettsanmodning, forkynnelse av utenlandsk dokument eller ved sak til erverv av fullbyrdelsesdom for saksomkostninger som er ilagt en saksøker eller intervenient ved en utenlandsk dom eller rettsavgjørelse. Under samme forutsetning skal staten også betale gebyret for slike forretninger hvor betalingen tilkommer andre enn staten.

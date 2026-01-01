@@ -1,0 +1,6 @@
+# § 3-1. Sivile saker og skjønn.
+Dersom en sak fremmes av offentlig organ eller praktiserende advokat, kan gebyr etter rettsgebyrloven § 8, § 9, § 10, § 11, § 12, § 13, § 15, § 23a, § 27a og § 27b, med unntak av gebyr for skjønn og takster holdt ved et lensmannskontor eller et namsfogdkontor eller en politistasjon med sivile rettspleieoppgaver, betales etterskuddsvis når saken avsluttes ved vedkommende domstol. Vedkommende advokat er ansvarlig som selvskyldner for rettidig innbetaling av gebyr og sideutgifter.
+Adgangen til etterskuddsvis betaling omfatter også eventuelle sideutgifter. Sideutgifter kan likevel kreves innbetalt forskuddsvis dersom dommeren eller den han bemyndiger, mener forskudd bør betales på grunn av utgiftenes størrelse eller av andre særlige grunner.
+Dersom vedkommende advokat fratrer saken, kan retten kreve at gebyr straks innbetales. Det samme gjelder for eventuelle sideutgifter.
+Adgangen til etterskuddsvis betaling av gebyr og sideutgifter kan fratas advokat som tidligere har misligholdt sin forpliktelse til å betale forfalt gebyr eller sideutgifter. Slik beslutning treffes av domstolens administrative leder.
+Beslutning om å kreve forskuddsvis betaling av gebyr eller sideutgifter, kan ikke angripes ved kjæremål eller klage.
