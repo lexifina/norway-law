@@ -1,0 +1,2 @@
+# § 1. Saklig virkeområde
+Den som har blitt utsatt for en forsettlig handling eller forsøk på en forsettlig handling som nevnt i straffeloven §§ 131, 155 a, 251, 253, 255, 257, 259, 264, 272, 273, 275, 282, 284, 291, 295, 296, 297, 299, 302, 304, 305, 312, 313, 314 eller 328 eller for en grovt uaktsom handling som nevnt i straffeloven § 281 eller § 294, eller dennes etterlatte, har rett til erstatning fra staten.

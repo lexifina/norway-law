@@ -1,0 +1,4 @@
+# § 10. Dekning av utgifter til advokat og spesialisterklæring
+Dersom sakens omfang eller kompleksitet tilsier det, kan partene få dekket utgifter til advokat til behandling av erstatningssaken hos voldserstatningsmyndighetene. Utgiftene dekkes etter den offentlige salærsatsen, jf. salærforskriften § 2. Forvaltningsloven § 36 gjelder ikke. Partenes krav om dekning av advokatutgifter må fremmes før vedtak om voldserstatning fattes.
+Finner Kontoret for voldsoffererstatning ved behandling av søknaden at en spesialisterklæring vil kunne få avgjørende betydning for søknadens utfall, kan Kontoret for voldsoffererstatning oppnevne en sakkyndig for å avgi erklæring. Utgiftene dekkes etter lov om vidners og sakkyndiges godtgjørelse.
+Kongen kan i forskrift gi nærmere regler om godtgjøring av advokater og om godtgjøring og oppnevning av sakkyndige etter bestemmelsen her.

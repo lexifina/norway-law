@@ -1,0 +1,3 @@
+# § 16. Tilgang til opplysninger
+Dommer og rettsforlik kan uten hinder av taushetsplikt utleveres fra domstolene eller påtalemyndigheten til Kontoret for voldsoffererstatning og Statens sivilrettsforvaltning når dette er nødvendig for at voldserstatningsmyndighetene skal kunne utføre sine oppgaver etter loven her.
+Kontoret for voldsoffererstatning og Statens sivilrettsforvaltning kan uten hinder av taushetsplikt innhente fra Innkrevingsmyndigheten og Folkeregisteret de opplysningene som er nødvendige for utførelsen av oppgaver etter loven her, og nødvendige opplysninger til utredning og produksjon av statistikk.
