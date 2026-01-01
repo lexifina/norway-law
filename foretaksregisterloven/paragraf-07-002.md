@@ -1,0 +1,5 @@
+# § 7-2. Krav til identifikasjon av foretaket på dokumenter mv.
+(1) Et foretaks nettsider, brev og forretningsdokumenter skal, uavhengig av hvilket medium de finnes på, inneholde foretakets organisasjonsnummer og foretaksnavn eller navn. For foretak som er registrert i Merverdiavgiftsregisteret, skal salgsdokumenter i tillegg inneholde bokstavene MVA plassert bak organisasjonsnummeret.
+(2) Et aksjeselskaps og et allmennaksjeselskaps nettsider, brev og forretningsdokumenter skal, uavhengig av hvilket medium de finnes på, i tillegg angi det register der selskapet er registrert, organisasjonsform, hovedkontor og eventuelt at selskapet er under avvikling.
+(3) For filial av utenlandsk foretak, jf. § 3-8, skal filialens brev, kunngjøringer og andre dokumenter i tillegg angi det registeret filialen er registrert i. Det skal også gis opplysninger som nevnt i andre ledd om det utenlandske foretaket.
+(4) For europeisk økonomisk foretaksgruppe skal foretakets dokumenter inneholde opplysninger som nevnt i forordning (EØF) nr. 2137/85 artikkel 25, jf. EØFG-loven § 1.

@@ -1,0 +1,3 @@
+# § 2-3. Forhåndsregistrering i Foretaksregisteret
+(1) En forening kan forhåndsregistreres i Foretaksregisteret dersom den forventer å drive næringsvirksomhet innen tolv måneder etter at melding om forhåndsregistrering er sendt til Foretaksregisteret. Det samme gjelder andre juridiske personer som nevnt i § 2-1 første ledd bokstav w.
+(2) Departementet kan gi forskrift med nærmere regler om sletting fra Foretaksregisteret av foreninger og andre juridiske personer som har blitt forhåndsregistrert, men som ikke driver næringsvirksomhet innen fristen i første ledd, og om fremgangsmåten ved sletting.

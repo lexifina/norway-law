@@ -1,0 +1,3 @@
+# § 6-2. Registrering og kunngjøring av selskapsopplysninger og dokumenter på Unionens offisielle språk
+(1) Aksjeselskaper og allmennaksjeselskaper har rett til å få registrert og kunngjort selskapsopplysninger og dokumenter som nevnt i artikkel 14 i direktiv (EU) 2017/1132 på ethvert av Unionens offisielle språk.
+(2) Hvis det er manglende samsvar mellom dokumenter og opplysninger som er offentliggjort på registerets offisielle språk, og oversettelser som er kunngjort frivillig, kan sistnevnte ikke påberopes overfor en tredjepart. En tredjepart kan påberope seg oversettelser som er offentliggjort frivillig, med mindre selskapet godtgjør at tredjeparten kjente til den versjonen som er gjenstand for obligatorisk offentliggjøring.
