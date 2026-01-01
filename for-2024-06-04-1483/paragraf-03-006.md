@@ -1,0 +1,3 @@
+# § 3-6. Klage på opptak
+(1) Klage på avgjørelser om opptak til grunnutdanning gjennom UHG-opptaket, rettes til den saksbehandlende institusjonen. Dersom vedtaket ikke blir omgjort, vil klagen avgjøres i Nasjonal klagenemnd for opptak gjennom Samordna opptak.
+(2) Klage på avgjørelser om opptak til videreutdanninger, mastergradsstudier og annet lokalt opptak rettes til høgskolen. Dersom vedtaket ikke blir omgjort av høgskolen vil klagen avgjøres i høgskolens nemnd for studentsaker. Det samme gjelder klage på avgjørelse om opptak på grunnlag av realkompetanse og spesielle opptakskrav fastsatt av institusjonen
