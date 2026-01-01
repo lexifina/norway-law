@@ -1,0 +1,4 @@
+# § 42. Modellforsøk som alternativ verifikasjon av kravene etter § 37
+(1) Sjøfartsdirektoratet kan dispensere fra kravene etter § 37 for et enkelt roro-passasjerskip, når verifikasjon utarbeidet med modellforsøk viser at skipet i uregelmessig sjøgang ikke vil kantre med det antatte skadeomfanget fastsatt i SOLAS 90 regel II-1/B//8.4, på det verste stedet vurdert etter § 39. Skipets sertifikat skal vise at Sjøfartsdirektoratet har godkjent modellforsøket som likeverdig med overholdelse av § 37. Verdien av den signifikante bølgehøyden som ble brukt i forsøket skal framgå av sertifikatet.
+(2) Roro-passasjerskip som har fått godkjent modellforsøk etter modellforsøksmetoden som gjaldt før 10. mars 2006, kan unntas fra kravene etter § 37 tilsvarende som etter første ledd i paragrafen her.
+(3) Modellforsøk skal utføres i samsvar med vedlegg 2.

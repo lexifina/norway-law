@@ -1,0 +1,3 @@
+# § 9. Sikring av fortøyningsarrangementer på ferger
+(1) En ferge skal ha et fortøyningsarrangement mellom fergen og fergekaien eller kjørebroen med festepunkter om bord og i land. Arrangementet skal være dimensjonert for å tåle en fortøyningskraft på 30 vekttonn når fortøyningskraften angriper på den minst gunstige måten. Hvis en bevegelig kjørebro med direkte forbindelse til fergen inngår i fortøyningsarrangementet, skal kjørebroen med landfeste kunne ta opp fortøyningskraften. Fortøyningsarrangementet og låsemekanismene skal virke i alle stillinger som er aktuelle for kjørebroen.
+(2) Når fergens størrelse eller type tilsier det, kan Sjøfartsdirektoratet kreve at fortøyningsarrangementet blir dimensjonert for høyere fortøyningskraft enn 30 vekttonn.

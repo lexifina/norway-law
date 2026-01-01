@@ -1,0 +1,4 @@
+# § 30. Åpninger i hylseskott og skarpskott på passasjerskip bygget etter § 4
+(1) Passasjerskip med fartsområde 4 eller mindre som er sertifisert for ikke mer enn 99 passasjerer, kan ha en åpning i hylseskottet uten stengeanordninger fra over fribordsdekket, når atkomst til styremaskin ikke uten vesentlige vansker kan arrangeres fra annet sted.
+(2) Åpningen skal plasseres nær skipets senterlinje og med terskel så høy som praktisk mulig. Åpningen skal ikke være større enn nødvendig og skal kunne lukkes forsvarlig med vanntett lokk (mannlokk), eller vanntett pakket dør eller luke som slår inn i akterskarpen. Det skal settes opp skilt om at åpningen skal være vanntett lukket når skipet er underveis.
+(3) Skarpskottet i begge ender på en pendelferge skal anses som kollisjonsskott hvor åpninger ikke er tillatt.

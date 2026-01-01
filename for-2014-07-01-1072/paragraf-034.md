@@ -1,0 +1,4 @@
+# § 34. Intaktstabilitet for skip som sleper
+Skip som sleper skal, i tillegg til kravene om intaktstabilitet som følger av § 3 eller § 18 og § 19, oppfylle følgende krav:
+a) Når skipet utsettes for en kraft som gir det en hastighet tverrskips gjennom vannet på 5 knop, skal første skjæringspunkt mellom kurvene for rettende arm (GZ-kurven) og krengende arm opptre ved en vinkel som er mindre enn fyllingsvinkelen.
+b) Når skipet utsettes for en tverrskipskraft tilsvarende skipets maksimale slepekraft multiplisert med 0,65, skal arealet mellom kurvene for rettende arm (GZ-kurven) og krengende arm regnet fra første skjæringspunkt til den vinkel som opptrer først av vinklene for GZmaks, 40 grader eller fyllingsvinkelen, være større enn eller lik 0,010 meterradianer. Krengemomentets vertikale arm skal regnes å være fra senteret av propeller til festepunktet for sleperen.
