@@ -1,0 +1,3 @@
+# § 38. Megling i tvister mellom tilbydere
+I tvister mellom tilbydere om rettigheter og plikter fastsatt i eller i medhold av denne loven, kan myndigheten etter skriftlig anmodning fra en part megle for å oppnå enighet mellom partene. Begge parter må samtykke til megling. Myndigheten skal avvise meglingsanmodningen dersom vilkårene for megling ikke er til stede, eller dersom myndigheten etter en helhetsvurdering finner at saken ikke egner seg for megling. Meglingen skal avsluttes senest fire måneder etter mottatt meglingsanmodning.
+Myndigheten kan fastsette tidsfrister og andre vilkår knyttet til meglingen. Myndigheten kan på ethvert tidspunkt avbryte meglingen.

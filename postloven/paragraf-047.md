@@ -1,0 +1,5 @@
+# § 47. Oppsigelse og tilbakekall
+Myndigheten kan si opp en avtale etter § 6 eller trekke tilbake tillatelse gitt i medhold av § 18 når det foreligger vesentlige eller gjentatte brudd på vilkårene og pålegg om retting etter § 46 ikke er etterkommet, eller når andre viktige samfunnshensyn gjør det nødvendig. Myndigheten kan trekke tilbake tillatelse gitt i medhold av § 33 når det foreligger brudd på vilkårene for tilgang eller brudd på andre vedtak gitt i eller i medhold av lov.
+Tilbakekall av tillatelse etter § 18 eller oppsigelse etter § 6 får virkning ett år etter at det er gitt forhåndsvarsel etter forvaltningsloven § 16.
+Dersom brudd på vilkår utgjør en overhengende fare for sikkerhet eller personvern eller for at tilbud om leveringspliktige posttjenester ikke opprettholdes, kan myndigheten trekke tilbake tillatelsen uten å forhåndsvarsle partene etter forvaltningsloven § 16. Det samme gjelder dersom andre viktige samfunnshensyn tilsier det. Vedtak om tilbakekall kan gis umiddelbar virkning.
+En tilbyder kan ikke kreve erstatning fra staten for tap som skyldes at en tillatelse trekkes tilbake etter første og tredje ledd.
