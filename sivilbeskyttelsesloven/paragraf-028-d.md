@@ -1,0 +1,3 @@
+# § 28 d. Regulering av arbeids- og tjenesteforhold
+Kongen kan gi forskrift som utfyller, supplerer eller fraviker offentlig og privat regulering av arbeids- og tjenesteforhold. Forskriften kan blant annet fravike offentlig, kollektiv eller individuell regulering av arbeidstid, helse, miljø og sikkerhet og retten til ferie og permisjon og gi regler om stans av forestående eller pågående arbeidskamp. Forskriften kan også fastsette unntak fra kvalifikasjons- og sikkerhetskrav.
+Forskriften skal så langt som mulig ivareta arbeidsmiljøet og sikkerheten i virksomheten og sikre arbeidstakernes fysiske og psykiske helse og velferd.

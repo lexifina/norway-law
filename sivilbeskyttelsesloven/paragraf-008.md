@@ -1,0 +1,5 @@
+# § 8. Rekrutteringsmøte og pålegg om tjenesteplikt i Sivilforsvaret
+Sivilforsvarets myndigheter kan pålegge personer mellom 18 og 55 år som oppholder seg i Norge, tjenesteplikt i Sivilforsvaret. Ved avgjørelsen av om en person skal pålegges tjenesteplikt, skal det særlig tas hensyn til Sivilforsvarets behov, innhentede opplysninger, vurderinger av helsetilstand og prøver og samtaler.
+Personer som antas å være egnet til tjeneste, kan innkalles til rekrutteringsmøte. De som blir innkalt, plikter å møte. De som søker om det, kan få utsatt møteplikten når det foreligger vektige velferdsgrunner.
+De som blir innkalt til rekrutteringsmøte plikter å gjennomgå legeundersøkelser og andre prøver som er nødvendige for å vurdere om de kan gjøre tjeneste i Sivilforsvaret. Det samme gjelder for de som innkalles til tjeneste, og de som er i tjeneste.
+Departementet kan gi forskrift om innkalling til og gjennomføring av rekrutteringsmøte, godtgjøring for å møte, undersøkelser og prøver og vurderingen av helsetilstanden.

@@ -1,0 +1,4 @@
+# § 33. Gjennomføring av tilsyn
+Den som eier eller bestyrer tilsynsobjektet, har rett til å være til stede under tilsynet, og kan i rimelig utstrekning også pålegges å være til stede. Tilsynsmyndigheten kan bestemme at retten til å være til stede ikke skal gjelde ved tilsynsmyndighetens intervju med ansatte ved tilsynsobjektet. Det samme gjelder dersom tilstedeværelse må antas å kunne medføre at formålet med tilsynet ikke nås.
+Tilsynsmyndigheten skal utarbeide en skriftlig rapport om tilsynet. Rapporten skal gjøres tilgjengelig for den som har mottatt pålegg om tilsynet. I tilfeller der det antas å kunne skade en informasjonsgiver om det kommer frem at han eller hun har gitt opplysninger, kan rapporten unnlate å nevne hvem som har gitt de aktuelle opplysningene.
+Departementet kan gi forskrifter om gjennomføring av tilsyn.

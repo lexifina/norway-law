@@ -1,0 +1,6 @@
+# § 7. Opplysningsplikt og meldeplikt
+Etter pålegg fra Sivilforsvarets myndigheter plikter offentlige myndigheter, utdanningsinstitusjoner og arbeidsgivere uten hinder av taushetsplikt å gi Sivilforsvarets myndigheter opplysninger om personer i tjenestepliktig alder som er nødvendige for å vurdere pålegg om tjenesteplikt og videre tjenestegjøring i Sivilforsvaret.
+Etter pålegg fra Sivilforsvarets myndigheter plikter personer i tjenestepliktig alder å gi Sivilforsvarets myndigheter opplysninger som er nødvendige for å vurdere pålegg om tjenesteplikt og videre tjenestegjøring i Sivilforsvaret. Opplysningene skal dokumenteres hvis Sivilforsvarets myndigheter krever det.
+Sivilforsvarets myndigheter kan kreve skriftlig bekreftelse på at innkallinger, varsel om og pålegg om tjenesteplikt og øvrig informasjon om tjenesteplikt er mottatt.
+Tjenestepliktige og personer som vurderes til tjeneste i Sivilforsvaret skal melde fra om fast eller midlertidig flytting i eller utenfor Norge og om utenlandsopphold på over to måneder.
+Departementet kan fastlegge det nærmere innholdet i opplysningsplikten og meldeplikten i forskrift, og kan herunder gi bestemmelser om hvem det kan innhentes opplysninger fra, hvilke opplysninger som kan innhentes, i hvilken form opplysningene skal gis og hvilke skriftlige bekreftelser som kan kreves.

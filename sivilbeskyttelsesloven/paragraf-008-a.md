@@ -1,0 +1,3 @@
+# § 8 a. Behandling av personopplysninger
+Sivilforsvarets myndigheter kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å utøve myndighet eller utføre andre oppgaver etter denne loven.
+Departementet kan gi forskrift om behandlingen av personopplysninger etter denne loven, herunder om formålet med behandlingen, krav til behandlingen, behandlingsansvar, innhenting av personopplysninger, hvilke personopplysninger som kan behandles, adgangen til viderebehandling, utlevering, registerføring og tilgang til registre.
