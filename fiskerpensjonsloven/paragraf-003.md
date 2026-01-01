@@ -1,0 +1,3 @@
+# § 3
+1. Den som omfattes av § 1, men er unntatt fra trygdeplikt i henhold til vedtak etter bestemmelsen i § 2 nr. 1 litra b, har rett til å stå som frivillig medlem av trygden for del av kalenderåret hvori han ikke omfattes av offentlig pensjonsordning som nevnt. Krav herom og innbetaling av medlemspremie må skje til trygdens organer innen tre måneder etter utløpet av kalenderåret.
+2. Den som ikke er tatt opp på blad B i fiskermanntallet, jfr. § 1, fordi han ikke fyller vilkåret for opptak på blad B på grunn av tillitsverv innen næringen, har rett til å stå som frivillig medlem av trygden. Medlemskapet gjelder for hele kalenderåret.

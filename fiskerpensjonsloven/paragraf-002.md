@@ -1,0 +1,6 @@
+# § 2
+1. Unntatt fra trygdeplikt er:
+a) den som hever alderspensjon etter denne lov, eller som har fylt 60 år og har krevd premie tilbakebetalt, jfr § 21,
+b) den som fremsetter krav om det og som i tjeneste på fiske- eller fangstfartøy er omfattet av pensjonstrygden for sjømenn eller annen offentlig pensjonsordning som departementet finner likeverdig med pensjonsordningen etter denne lov,
+c) den som fremsetter krav om det og som antas å ville bli hovedbeskjeftiget i annen næring enn fiske eller fangst i storparten av kalenderåret. Hvis det ved utgangen av kalenderåret viser seg at noen som etter § 1 er trygdepliktig, ikke har vært sysselsatt med fiske eller fangst på grunn av hovedbeskjeftigelse i annen næring, eller av nevnte grunn bare i ubetydelig utstrekning har vært sysselsatt med fiske eller fangst i kalenderåret, kan det bestemmes at han skal være unntatt fra medlemskap i trygden for vedkommende kalenderår, selv om krav herom ikke er fremsatt.
+2. Den som er over 46 år på det tidspunkt han første gang fyller vilkårene etter § 1, kan kreve seg unntatt fra trygden. Krav settes fram overfor trygdens organer straks vilkårene for trygdeplikt foreligger.Det samme gjelder den som er over 46 år pr. 1. januar 1994, og ikke har tidligere opptjeningstid i pensjonstrygden.
