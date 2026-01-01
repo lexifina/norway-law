@@ -1,0 +1,2 @@
+# § 2
+For de periodiske besiktigelser av og tilsyn med elektriske anlegg i land betales hvert år en avgift beregnet etter halvparten av de i § 1 anførte satser for anleggets forskjellige deler. For anlegget som ikke besiktiges årlig blir dog avgiften bare å oppkreve etter foretatt besiktigelse. Besiktigelsen det enkelte år kan etter nærmere vurdering av vedkommende tilsynsmann, helt eller delvis erstattes av informasjon om elsikkerhetsforskrifter m.v.
