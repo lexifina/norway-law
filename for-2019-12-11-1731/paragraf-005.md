@@ -1,0 +1,6 @@
+# § 5. Direkte og indirekte kapitalkostnader
+Kapitalkostnader omfatter avskrivninger og nedskrivninger av varige driftsmidler, reversering av nedskrivninger og beregnete rentekostnader.
+Avskrivningene skal beregnes ut fra prisen på anskaffelsestidspunktet fratrukket byggelånsrenter og anleggsbidrag og andre inntekter som knytter seg til investeringsutgiftene.
+Avskrivningene skal foretas planmessig over den utnyttbare levetiden til det varige driftsmidlet. Den utnyttbare levetiden kan settes lik avskrivningsperioden i virksomhetens årsregnskap. Tomter og andre varige driftsmidler som ikke avskrives i virksomhetens årsregnskap, kan avskrives over en kortere periode enn den egentlige utnyttbare levetiden.
+Rentekostnadene skal beregnes ut fra årets gjennomsnittlige restverdi på de varige driftsmidlene og kalkylerenten. Kalkylerenten er lik årets gjennomsnittlige 3-måneders NIBOR med et tillegg på 0,7 prosentpoeng.
+Indirekte kapitalkostnader for tjenester og funksjoner som nevnt i § 4 andre ledd første punktum skal enten tilordnes selvkost på samme måte som indirekte driftskostnader etter § 4 andre ledd andre punktum, eller settes lik 5 prosent av de indirekte driftskostnadene etter fratrekk for inntekter som nevnt i § 2 andre ledd.
