@@ -1,0 +1,2 @@
+# § 60
+Den refsede skal leveres kopi av vedtaket. Når vedtaket er underrettet, skal den refsede spørres om vedkommende vedtar refselsen eller tar betenkningstid. Betenkningstiden er i så fall to virkedager etter reglene i domstolloven § 148–§ 149. Refsedes beslutning skal påføres refselsesordren. Samtidig skal vedkommende få skriftlig informasjon om retten til å klage på vedtaket for klagenemnda, jf. forsvarsloven § 76, fristen for slik klage, hvem klagen skal fremsettes for og hvordan man ellers skal gå frem.

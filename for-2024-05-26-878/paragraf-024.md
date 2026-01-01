@@ -1,0 +1,2 @@
+# § 24
+Tid og område for fullbyrdelsen av frihetsinnskrenkning kan fastsettes i lokal instruks eller i den enkelte refselsesordre. Området kan være mindre enn leirområdet, men frihetsinnskrenkningen må ikke ha karakter av arrest og ikke innebære innlåsing eller lignende. Når forholdene tilsier det, kan frihetsinnskrenkningen gis som forbud mot å besøke visse steder til visse tider eller for hele det tidsrom refselsen gjelder.

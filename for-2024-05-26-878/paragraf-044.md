@@ -1,0 +1,2 @@
+# § 44
+En forklaring i en disiplinærsak kan være muntlig eller skriftlig (rapport). En muntlig forklaring mottas av den som har disiplinærmyndighet eller den han eller hun bemyndiger. Er vedkommende ikke militærpoliti, skal han eller hun være offiser eller befal og overordnet den som avhøres. En muntlig forklaring skal straks nedtegnes av den som mottar forklaringen. I særlige tilfeller kan det søkes bistand hos politiet ved innhenting av forklaringer.
