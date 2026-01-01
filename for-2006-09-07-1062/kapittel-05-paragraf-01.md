@@ -1,0 +1,4 @@
+# § 8-1-1. Offentlighet – innsyn i opplysninger i Regnskapsregisteret
+Regnskapsregisteret kan gi opplysninger som nevnt i regnskapsloven § 8-1 i form av papirkopier eller elektronisk overføring.
+Papirkopier og elektroniske kopier skal bekreftes å være «rett kopi», med mindre rekvirenten gir avkall på bekreftelsen. Elektronisk kopi som utstedes fra registeret skal autentiseres ved bruk av tillitstjenester som nevnt i forordning (EU) nr. 910/2014, jf. lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester) § 1, for å sikre at kopien er fra registeret og at innholdet er en rett kopi av dokumentet i registeret eller samsvarer med opplysninger i registeret.
+Registerfører fastsetter gebyrer for utlevering av opplysninger. Gebyrene skal godkjennes av departementet.
