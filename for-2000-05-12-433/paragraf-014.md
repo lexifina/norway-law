@@ -1,0 +1,2 @@
+# § 14. (innhold i søknad om løyve)
+Søknader om løyve til å besitte, omsette og transportere nukleært materiale skal inneholde dokumenterte opplysninger om eierforhold, ansvarsforhold, mengde og type materiale, eventuelle tiltak for fysisk beskyttelse samt hensikt med besittelsen eller omsetningen av nukleært materiale. Søker må akseptere de betingelser som stilles fra kontrollorganet for gjennomføringen av intern sikkerhetskontroll.

@@ -1,0 +1,3 @@
+# § 8. (inspeksjonsadgang)
+1) Inspektører fra kontrollorganet skal, alene eller i følge med utenlandske inspektører, ha adgang til de steder der det nukleære materiale eller flerbruksvarer blir oppbevart eller brukt, eller har blitt oppbevart eller brukt. Inspektørene har rett til alle opplysninger som finnes nødvendige for effektiv kontroll. De skal også kunne gjennomføre nødvendige kontrolltiltak, herunder målinger og prøvetaking. Inspektørene er underlagt taushetsplikt i medhold av atomenergiloven § 53.
+2) Kontrollorganet plikter å stille inspektører til rådighet for å ledsage utenlandske inspektører, slik at disse ikke blir forsinket eller på annen måte hemmet i utøvelsen av sine funksjoner.

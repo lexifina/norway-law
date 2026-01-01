@@ -1,0 +1,2 @@
+# § 12. (tillatelse fra Utenriksdepartementet)
+Nukleært materiale og flerbruksvarer skal ikke eksporteres uten tillatelse fra Utenriksdepartementet. Ved utførsel av nukleært materiale og flerbruksvarer vil den innvilgede utførselstillatelsen stille vilkår om at eksportøren rapporterer til Utenriksdepartementet på fastlagt skjema med beskrivelse av den utførte varen, vekt/kvantitet, navn og adresse på sluttbruker og tidspunkt for utførselen. Gyldig utførselstillatelse fra Utenriksdepartementet må fremlegges for Tollvesenet ved utførselen.
