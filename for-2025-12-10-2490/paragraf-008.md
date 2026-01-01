@@ -1,0 +1,5 @@
+# § 8. Vilkår knyttet til medieselskapet
+Et nyhets- og aktualitetsmedium må eies av et medieselskap for å få tilskudd etter denne forskriften. Offentlige institusjoner eller myndigheter kan ikke ha reell styringsrett, økonomisk ansvar eller inneha mer enn 49 prosent av eierandelene i selskapet.
+Driver medieselskapet annen virksomhet enn produksjon og utgivelse av nyhets- og aktualitetsmediet, må denne virksomheten utgjøre mindre enn en tredjedel av medieselskapets omsetning siste regnskapsår. Medieselskapet skal føre egne regnskap for annen virksomhet.
+Medieselskapets årsoverskudd etter skatt i henhold til aksjeloven eller allmennaksjeloven, fratrukket tilskudd etter denne forskriften, kan ikke utgjøre mer enn to millioner kroner siste regnskapsår, eller mer enn seks millioner kroner i løpet av de siste tre regnskapsårene.
+Medieselskapet kan per år betale utbytte som maksimalt utgjør 25 prosent av tilskuddet tildelt året før utbytte besluttes av generalforsamlingen, men ikke mer enn 500 000 kroner. For medieselskap som inngår i konserndannelser jf. aksjeloven og allmennaksjeloven § 1-3, skal konsernbidrag regnes som utbytte.
