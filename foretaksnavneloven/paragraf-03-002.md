@@ -1,0 +1,4 @@
+# § 3-2
+For at et foretaksnavn skal ha vern mot lignende foretaksnavn eller varemerker, må foretaksnavnet oppfylle de krav til særpreg som gjelder etter varemerkeloven § 14.
+Rett til foretaksnavn etter første ledd gir en enerett, som har den virkning at ingen uten samtykke fra innehaveren kan bruke i næringsvirksomhet foretaksnavn eller varemerke som er identisk med eller ligner foretaksnavnet (kjennetegnslikhet) for virksomhet av samme eller lignende slag (bransjelikhet), såfremt det er risiko for forveksling.
+For et foretaksnavn som er velkjent her i riket, innebærer eneretten etter første ledd at ingen uten samtykke fra innehaveren kan bruke i næringsvirksomhet foretaksnavn eller varemerke som er identisk med eller ligner foretaksnavnet for virksomhet av samme eller annet slag, hvis bruken uten rimelig grunn ville medføre en urimelig utnyttelse av eller skade på det velkjente foretaksnavnets særpreg eller anseelse (goodwill).

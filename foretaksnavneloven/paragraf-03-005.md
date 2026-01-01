@@ -1,0 +1,3 @@
+# § 3-5
+Et yngre foretaksnavn kan uten hinder av bestemmelsene i dette kapittel bestå ved siden av et foretaksnavn som har eldre rett, hvis innehaveren av den eldre rett ikke innen rimelig tid har tatt skritt for å hindre bruken av det yngre foretaksnavn, eller det følger av § 3-6 a eller § 5-1 andre til femte ledd at det yngre navnet kan bestå ved siden av det eldre.
+For å unngå forvekslingsfare i tilfelle som nevnt i første ledd, kan retten bestemme at ett eller begge foretaksnavn i fremtiden bare må brukes på en særlig måte, såsom ved tilføyelse av stedsnavn eller med annet klargjørende tillegg.
