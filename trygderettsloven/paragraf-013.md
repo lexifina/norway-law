@@ -1,0 +1,6 @@
+# § 13. Ankemotpartens forberedelse av ankesaken
+(1) Ankemotparten skal ta det påankede vedtaket opp til ny prøving. Hvis anken ikke faller bort, skal ankemotparten tilrettelegge saken og snarest mulig framstille den i et oversendelsesbrev til Trygderetten. Oversendelsesbrevet skal inneholde en beskrivelse av det faktiske grunnlaget ankemotparten bygger på, partenes påstandsgrunnlag og partenes påstander.
+(2) Oversendelsesbrevet sendes den ankende part med melding om at mulige merknader må avgis til ankemotparten innen tre uker regnet fra og med den dag meldingen er mottatt.
+(3) Straks fristen for merknader er ute, utarbeider ankemotparten et ekspedisjonsbrev med eventuelle tilleggsmerknader og sender sakens dokumenter til Trygderetten.
+(4) Kopi av ekspedisjonsbrevet sendes den ankende part med frist for merknader på tre uker. Den ankende part sender eventuelle merknader direkte til Trygderetten, så vidt mulig med kopi til ankemotparten. Har ankemotparten ytterligere merknader i saken, sendes disse til Trygderetten og den ankende part innen tre uker.
+(5) Bestemmelsene i § 31 første ledd første og tredje punktum og § 31 andre ledd gjelder tilsvarende for meldinger til den ankende part etter andre ledd.

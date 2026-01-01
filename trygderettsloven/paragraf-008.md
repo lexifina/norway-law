@@ -1,0 +1,6 @@
+# § 8. Habilitet
+(1) Reglene om habilitet i domstolloven §§ 106 til 108 og § 113 gjelder tilsvarende for medlemmene av den rett som skal avgjøre saken og for saksforberedere.
+(2) For rettsfullmektiger gjelder domstolloven § 109 tilsvarende.
+(3) Om et medlem av retten er inhabil avgjøres av retten selv, men vedkommende medlem skal ikke delta ved avgjørelsen. Avgjørelsen treffes av Trygderettens leder dersom det er spørsmål om inhabilitet for rettens administrator. Rettens administrator avgjør om en saksforbereder er inhabil.
+(4) Trygderettens leder avgjør selv om han eller hun er inhabil.
+(5) Rettsmedlemmer og rettsfullmektiger må søke departementet om godkjenning for sidegjøremål i slike tilfeller som framgår av domstolloven § 121 c. Departementet fører register over sidegjøremål og siste stilling før utnevnelsen eller tilsettingen som rettsmedlem eller rettsfullmektig. Domstolloven § 121 e gjelder tilsvarende. Et rettsmedlem eller en rettsfullmektig skal melde fra om sidegjøremål snarest mulig og senest innen en måned etter at rettsmedlemmet eller rettsfullmektigen påtok seg sidegjøremålet. Enhver har rett til å gjøre seg kjent med opplysningene i registeret. Departementet bestemmer hvordan opplysninger skal gjøres tilgjengelige for den som ber om det.
