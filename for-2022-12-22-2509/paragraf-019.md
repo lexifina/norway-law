@@ -1,0 +1,4 @@
+# § 19. Tilsynsmyndighetenes oppgaver og ansvar
+Statens helsetilsyn har det overordnede faglige tilsyn med sentrene. Statens helsetilsyn skal utøve sin myndighet i samsvar med barnevernsloven og forskrifter til loven. Statsforvalteren er underlagt Statens helsetilsyn ved utøvelse av tilsyn etter denne forskriften.
+Statsforvalteren skal føre tilsyn med at sentrene følger barnevernsloven og forskrifter til loven. Statsforvalteren i det fylket institusjonen ligger har ansvar for tilsynet. Statsforvalteren skal føre tilsyn med hvert senter så ofte som forholdene tilsier det og minimum hvert annet år. Statsforvalteren kan uten hinder av taushetsplikt innhente alle relevante opplysninger, jf. barnevernsloven § 17-4.
+Etter hvert tilsyn skal statsforvalteren utarbeide en skriftlig rapport som sendes til senteret og til regionalt nivå i Barne-, ungdoms- og familieetaten.
