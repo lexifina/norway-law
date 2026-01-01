@@ -1,0 +1,4 @@
+# § 25. Retting og avbøtende tiltak
+Departementet kan pålegge den ansvarlige å rette eller stanse forhold som er i strid med loven her eller vedtak gjort med hjemmel i loven.
+Den som gjennom overtredelse av loven eller vedtak gjort med hjemmel i loven forårsaker fare for forringelse av verneverdiene, skal sette i verk tiltak for å forhindre slik forringelse. Har det allerede inntrådt forringelse, skal ytterligere forringelse forhindres. Om mulig skal tilstanden for verneverdiene før overtredelsen skjedde, gjenopprettes ved egnede tiltak. Tiltak som i seg selv kan medføre miljøforringelse av noen betydning, skal bare iverksettes etter samtykke av departementet eller pålegg etter første ledd.
+Plikten etter andre ledd gjelder ikke i den utstrekning det ut fra kostnadene og virkningene av tiltakene, miljøvirkningene av overtredelsen og overtrederens skyld og økonomiske stilling ville være særlig urimelig.

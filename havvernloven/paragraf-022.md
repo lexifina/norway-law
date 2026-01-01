@@ -1,0 +1,2 @@
+# § 22. Gransking
+Når det er nødvendig for å utføre gjøremål etter loven, skal tilsynsmyndighetene eller politiet ha uhindret adgang til fartøyer, installasjoner eller anlegg der det foregår virksomhet som kan påvirke eller kan antas å ha påvirket verneverdiene. Tilsynsmyndighetene kan også kreve å få lagt frem og granske dokumenter eller annet materiale som kan ha betydning for gjøremål etter loven.
