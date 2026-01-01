@@ -1,0 +1,3 @@
+# § 3. Rapporteringar og orienteringar
+Kontrolløren skal årleg sende rapport til Nærings- og fiskeridepartementet med eventuelle merknader til styret sitt framlegg til årsmelding og rekneskap. Rapporten må sendast innan to veker før salslaget skal halde årsmøte. Rapporten skal sendast salslaget til orientering.
+Kontrolløren skal straks og på eige initiativ halde Nærings- og fiskeridepartementet og Fiskeridirektoratet orienterte om forhold som kontrolløren reknar med har innverknad på økonomien og drifta til salslaga. Slik sjølvstendig meldeplikt omfattar både god forretnings- og forvaltningsskikk og om drifta er lovleg, jf. § 2 andre ledd.
