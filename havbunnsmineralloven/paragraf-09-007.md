@@ -1,0 +1,3 @@
+# § 9-7. Overtredelsesgebyr
+Departementet kan pålegge den som har overtrådt bestemmelser gitt i denne loven, å betale et overtredelsesgebyr til statskassen. Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Et foretak kan ikke ilegges overtredelsesgebyr dersom overtredelsen skyldes forhold utenfor foretakets kontroll.
+Departementet kan gi forskrift om overtredelsesgebyr, blant annet om vilkår for å ilegge overtredelsesgebyr, størrelsen på gebyret, renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall, og frafall av et ilagt overtredelsesgebyr.

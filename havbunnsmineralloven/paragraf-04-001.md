@@ -1,0 +1,6 @@
+# § 4-1. Utlysing og tildeling
+Kongen kan på nærmere bestemte vilkår tildele utvinningstillatelser. En utvinningstillatelse gir rettighetshaveren enerett til undersøkelser etter og utvinning av alle mineralforekomster i området som er omfattet av tillatelsen.
+Utvinningstillatelser kan bare tildeles juridiske personer som er stiftet i overensstemmelse med norsk lovgivning og er registrert i Foretaksregisteret, når ikke noe annet følger av internasjonale avtaler.
+Før tildeling av en utvinningstillatelse finner sted, skal Kongen offentlig utlyse det området som det kan søkes om utvinningstillatelse for. I utlysningen skal det fremgå hvilke kriterier tildeling av utvinningstillatelse skal skje på grunnlag av, og hvilke frister og vilkår som gjelder. Kongen kan i særlige tilfeller tildele utvinningstillatelser uten utlysning. Områder som utlyses skal angis med geografiske koordinater. Koordinatene fastsettes i samsvar med petroleumsloven § 3-2.
+Tillatelsen kan gis for hele eller deler av det omsøkte området. Kongen fastsetter de geografiske koordinatene for utvinningstillatelsen.
+Kongen kan gi forskrift om eller fastsette i den enkelte tillatelsen hvilke vilkår som knyttes til en tillatelse, som omfanget av den arbeidsforpliktelsen som skal oppfylles, krav til teknologi, finansiell sikkerhetsstillelse, og påkrevde sikkerhetstiltak.

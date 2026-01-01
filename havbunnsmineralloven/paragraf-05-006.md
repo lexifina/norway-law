@@ -1,0 +1,4 @@
+# § 5-6. Statlig overtakelse
+Staten har rett til å overta en rettighetshavers faste innretninger på kontinentalsokkelen når tillatelsen utløper, oppgis eller tilbakekalles, eller når bruken av slike innretninger opphører endelig. Kongen bestemmer med bindende virkning om og i hvilken utstrekning det skal betales vederlag for overtagelsen.
+Dersom staten har meddelt at den vil benytte sin rett til å overta faste innretninger, får overtakelsen virkning seks måneder etter at tillatelsen er utløpt eller bortfalt på annen måte, eller at bruken av innretningen er endelig opphørt, med mindre noe annet avtales, eller departementet bestemmer noe annet.
+Ved en statlig overtagelse skal innretningen med tilhørende utstyr være i en slik stand som et forsvarlig vedlikehold for operasjonell funksjonsdyktighet tilsier. Tvister om dette og om den erstatningen som eventuelt skal betales til staten for manglende vedlikehold, avgjøres ved skjønn.
