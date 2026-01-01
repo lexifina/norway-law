@@ -1,0 +1,5 @@
+# § 7. Rapport og regnskap
+Registrerte tros- og livssynssamfunn skal hvert år rapportere om sin virksomhet til tilsynsmyndigheten. Årsrapporten skal gi en kort omtale av virksomheten i samfunnet, blant annet om eventuelle aktiviteter og tilbud for barn og unge, bruken av tilskudd fra staten og forvaltning av vigselsrett. Den skal i tillegg redegjøre for tilstand og tiltak når det gjelder kjønnslikestilling og for eventuell forskjellsbehandling når det gjelder tilgang til aktiviteter, styrende organer, verv og stillinger. Årsrapporten skal redegjøre for tilstand og tiltak for å oppnå minst 40 prosent kvinner og 40 prosent menn i styrende organ som forvalter statstilskuddet.
+Tilsynsmyndigheten kan i tillegg kreve rapportering om særskilte forhold.
+Tros- og livssynssamfunn som mottar tilskudd, skal hvert år sende inn regnskap til tilsynsmyndigheten. Dersom et tros- eller livssynssamfunn mottar bidrag fra utlandet, skal det opplyse særlig om dette. Regnskapet skal være revidert av statsautorisert eller registrert revisor.
+Kongen kan gi forskrift om rapport og regnskap, herunder om unntak fra revisjonsplikten.

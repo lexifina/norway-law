@@ -1,0 +1,3 @@
+# § 18. Rett til fri ved religiøse høytidsdager
+Personer som har andre religiøse høytidsdager enn de offentlige helligdagene, har rett til fri fra arbeid, skolegang, tjenesteplikt og lignende i opptil to selvvalgte dager hvert år i forbindelse med høytider etter sin religion.
+Arbeidstakere som ønsker å benytte retten til fri, skal varsle arbeidsgiver senest 14 dager før høytidsdagen. Arbeidsgivere kan kreve at arbeidstakere tar igjen tapt arbeidstid på et annet tidspunkt. Etter drøfting med arbeidstakeren fastsetter arbeidsgiveren når tapt arbeidstid skal tas igjen. Selv om slikt arbeid skulle overstige alminnelig arbeidstid etter arbeidsmiljøloven, regnes det ikke som overtid.
