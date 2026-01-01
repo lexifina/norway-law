@@ -1,0 +1,2 @@
+# § 11. Lokale og regionale myndigheters oppgaver
+For at næringsdrivende skal kunne gjennomføre beredskapsoppgaver, skal kommuner og fylkeskommuner bistå med planlegging, forberedelse og gjennomføring av beredskapsoppgavene. Kongen kan gi forskrift om plikt for kommuner til i rimelig utstrekning og uten kompensasjon å forberede eller gjennomføre særskilte tiltak ved behov for varer og tjenester, når disse fremgår av kommunens beredskapsplaner, jf. sivilbeskyttelsesloven § 15.
