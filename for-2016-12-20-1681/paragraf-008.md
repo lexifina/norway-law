@@ -1,0 +1,6 @@
+# § 8. Registrering i systemet og betaling av gebyr
+For biler som er gebyrpliktige jf. § 3 skal korrekt informasjon om bilens kjennemerke og nasjonalitet, eieren og eierens adresse, euroklasse, bilens vektklasse, drivstoff og dato for førstegangsregistrering være lagt inn i kommunens betalingssystem, jf. § 19, og riktig gebyr betalt, før bilen kan kjøre i en lavutslippssone.
+Eieren og føreren av bilen er solidarisk ansvarlig for at bilen er registrert i systemet, opplysningene er korrekte og riktig gebyr er betalt.
+Kommunen gir de nærmere regler på hvordan dokumentasjon på betalt gebyr skal være synlig og eller tilgjengelig for kontroll. Enhver som vil kjøre lovlig i lavutslippssonen plikter å følge disse.
+Betalt årsgebyr er gyldig ett år fra betalingsdato. Betaling for tretti dager har gyldighet fra betalingsdato og klokkeslett. Betaling av døgngebyr har gyldighet 24 timer fra betalingstidspunkt eller fra oppgitt dato og klokkeslett. Betalt gebyr er kun gyldig for én bil. Betalt gebyr i én lavutslippssone er gyldig i en annen lavutslippssone.
+Refusjon for betalt årsgebyr kan gis dersom den aktuelle bilen ikke skal benyttes som forutsatt ved betalingen. Det gis refusjon for et halvt år dersom avtalen sies opp før det er gått et halvt år fra betalingsdato.
