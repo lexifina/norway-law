@@ -1,0 +1,2 @@
+# § 15
+Kongen kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for tillatelsesordninger i eller i medhold av loven her, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra tjenesteloven § 11 andre ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.

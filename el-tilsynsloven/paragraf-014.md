@@ -1,0 +1,4 @@
+# § 14
+Den som forsettlig eller uaktsomt overtrer eller unnlater å følge denne lov, forskrift eller enkeltvedtak gitt i medhold av loven, straffes med bøter hvis ikke en strengere straff i henhold til andre regler kommer til anvendelse.
+Er overtredelsen eller unnlatelsen begått av noen som har handlet på vegne av et selskap eller annen sammenslutning, en stiftelse eller offentlig virksomhet, kan selskapet m.v. ilegges bøtestraff. Dette gjelder selv om ingen enkeltperson kan straffes for overtredelsen.
+Den som legger hindringer i veien for undersøkelser som offentlig myndighet iverksetter etter denne lov, eller unnlater å yte pliktig bistand eller å gi opplysninger som kreves for utførelsen av tilsynet etter denne lov, straffes med bøter såfremt forholdet ikke rammes av strengere straffebud.
