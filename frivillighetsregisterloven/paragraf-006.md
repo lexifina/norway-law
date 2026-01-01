@@ -1,0 +1,4 @@
+# § 6. Registreringspliktige og registreringsberettigede opplysninger
+I frivillighetsregisteret skal det i samsvar med forskrift som departementet gir, registreres opplysninger om enhetens kategori og eventuell tilknytning til en gruppe enheter.
+En forenings vedtekter kan registreres i frivillighetsregisteret. I tilfelle skal vedtektene minst inneholde opplysninger om enhetens navn, formål, årsmøte, styre og valg til styre, vedtektsendringer og opphør.
+Registreringsenhet som ikke har innsendelsesplikt til Regnskapsregisteret etter reglene i regnskapsloven § 8-2, kan velge å påta seg en slik plikt etter § 7 i loven her. For registreringsenhet som har påtatt seg slik innsendelsesplikt, skal registeret inneholde opplysning om dato for sist mottatte regnskapsrapportering i Regnskapsregisteret.

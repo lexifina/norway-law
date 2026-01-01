@@ -1,0 +1,2 @@
+# § 18. Sletting av opphørte enheter
+Dersom registerføreren har grunn til å tro at en enhet er opphørt, skal han varsle enheten eller den meldingspliktige kontaktpersonen om at registreringen av enheten kan bli slettet dersom det ikke innen en nærmere angitt frist fremkommer opplysninger som gjør det sannsynlig at den fortsatt består. Det samme gjelder dersom en enhet ikke betaler skyldig avgift til frivillighetsregisteret innen en nærmere angitt frist.

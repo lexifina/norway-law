@@ -1,0 +1,2 @@
+# § 7. Rapportering av regnskapsopplysninger
+Rapportering av regnskapsopplysninger for stiftelser, aksjeselskap og regnskapspliktige foreninger skjer etter reglene i regnskapsloven kapittel 8. Foreninger som ikke er regnskapspliktige etter regnskapsloven, kan rapportere regnskapsopplysninger til Regnskapsregisteret. Nærmere regler om krav til innhold og form ved rapportering fastsettes av departementet. Om rapporteringsplikten ikke overholdes, kan registerfører iverksette tiltak i henhold til § 12.
