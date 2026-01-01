@@ -1,0 +1,6 @@
+# § 7
+Et dokument som kreves tinglyst, skal registreres når det kommer inn. Departementet fastsetter i forskrift et klokkeslett for når et dokument som ikke er sendt inn elektronisk, skal regnes som registrert etter loven her. Frem til det er avgjort at vilkårene for registrering er oppfylt, skal det fremgå at registreringen ikke er endelig.
+Er det åpenbart at dokumentet ikke kan tinglyses, kan det uten at det registreres, returneres til den som har krevd tinglysing. Han skal samtidig gjøres kjent med hvorfor dokumentet ikke kan tinglyses, og med at det ikke er registrert. Likeså skal han gjøres kjent med at dokumentet vil bli registrert dersom dette kreves. Framsettes slikt krav, registreres dokumentet fra det tidspunktet kravet kommer inn, jf. første ledd.
+Foreligger vilkårene for tinglysing, skal dokumentet registreres endelig i vedkommende tinglysingsregister innen to uker etter registreringstidspunktet.
+Foreligger ikke vilkårene, skal dokumentet nektes tinglyst. Avgjørelsen treffes på grunnlag av dokumentet selv og de andre dokumenter og bevis som foreligger. Når registerføreren finner grunn til det, kan han selv innhente opplysninger.
+Departementet kan bestemme at opplysninger eller attester som det finner nødvendig av hensyn til registerførerens kontroll, skal gis på fastsatt måte. Departementet kan også gi forskrift om gjenpart av hjelpedokument.

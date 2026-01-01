@@ -1,0 +1,4 @@
+# § 21
+Et eldre rettserverv går uten hensyn til § 20 foran et yngre, dersom dette er stiftet ved rettshandel og erververen da hans rett ble registrert, kjente eller burde kjenne den eldre rett.
+For andre lovbestemte rettigheter enn pant har tinglysing ingen betydning, hvor ikke annet er særlig bestemt. Det samme gjelder rettserverv ved hevd.
+Rettsstiftelse som skjer gjennom forbehold ved avhendelse eller annen eiendomsovergang, går uten hensyn til § 20 foran rettserverv som utledes fra den nye eier såfremt forbeholdet enten fremgår av den nye eiers hjemmelsdokument eller registreres senest samme dag som dette. Om prioritet for panterett som sikrer lån for erverv ved tvangssalg gjelder tvangsfullbyrdelsesloven § 11-33 annet ledd annet punktum og § 11-51 fjerde ledd tredje punktum tilsvarende.

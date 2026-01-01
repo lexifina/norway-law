@@ -1,0 +1,4 @@
+# § 18
+Dersom registerføreren blir oppmerksom på at en innføring i grunnboken er uriktig, eller at det på annen måte er gjort feil, skal han rette feilen. Har noen på grunn av feilen fått uriktig opplysning, skal registerføreren så vidt det er mulig gi ham underretning om rettelsen i rekommandert brev eller på annen betryggende måte.
+Departementet kan fastsette forskrift om retting av et dokument som overfører hjemmelen til fast eiendom, og om betaling av tinglysingsgebyr for slik retting. Første ledd annet punktum gjelder tilsvarende.
+Den som mener at grunnbokens innhold er uriktig og til skade for hans rett, kan forlange tinglyst sitt krav om rettelse når han sannsynliggjør sin rett eller stiller sådan sikkerhet som registerføreren bestemmer. Godtgjør han ikke sitt krav innen en frist som registerføreren setter, skal det tinglyste slettes.

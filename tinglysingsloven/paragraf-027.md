@@ -1,0 +1,4 @@
+# § 27
+Overfor den som har tinglyst en rett han har ervervet ved avtale med innehaveren av grunnbokhjemmelen, og som var i god tro da dokumentet ble registrert, kan den innsigelse at grunnbokhjemmelen skyldes et ugyldig dokument, ikke gjøres gjeldende. Det samme gjelder når det i god tro er betalt leie eller avgifter til den som efter dokumentet er berettiget, eller det overfor denne er foretatt opsigelse eller lignende handling.
+Disse bestemmelser gjelder dog ikke når dokumentet er falsk eller forfalsket eller er ugyldig på grunn av mindreårighet eller er kommet i stand ved tvang som nevnt i avtaleloven av 31 mai 1918 § 28.
+Hvis et tinglyst hjemmelsdokument eller annet dokument er ugyldig uten at dette fremgår av grunnboken, og ugyldigheten senere faller bort, er tinglysing av den således stiftede rett unødvendig, idet retten regnes som tinglyst samtidig med at ugyldigheten falt bort.
