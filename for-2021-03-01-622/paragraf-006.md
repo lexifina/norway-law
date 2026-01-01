@@ -1,0 +1,3 @@
+# § 6. Utmåling av menerstatning i særlige tilfeller
+Dersom individuelle forhold gjør at en pasientskade er vesentlig mer belastende for erstatningssøkeren enn for andre med samme type skade, skal det i særlige tilfeller gis erstatning ut fra én gruppe høyere enn den medisinske invaliditeten tilsier etter tabellen i § 5. Et slikt tilfelle kan være der erstatningssøkeren på forhånd har en tilstand eller skade som i særlig stor grad forsterker virkningene av pasientskaden.
+Dersom skaden er særlig stor, kan en noe kortere skadeperiode enn ti år unntaksvis gi grunnlag for en tidsbegrenset menerstatning.

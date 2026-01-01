@@ -1,0 +1,8 @@
+# § 5. Utmåling av menerstatning
+Menerstatningen skal som hovedregel utmåles uavhengig av andre skader eller sykdommer (separasjonsprinsippet).
+Dersom en pasientskade forverrer en tidligere skade eller sykdom i samme kroppsdel eller samme organ, skal menerstatningen for den nye pasientskaden utgjøre differansen mellom menerstatning etter den samlede invaliditetsgraden og menerstatning etter invaliditetsgraden for den tidligere skaden (differanseprinsippet) med mindre utmåling etter separasjonsprinsippet gir en høyere erstatning. Det samme gjelder for skader på parvise organer.
+Den årlige menerstatningen fastsettes på grunnlag av folketrygdens grunnbeløp (G) på oppgjørstidspunktet.
+Årlig menerstatning beregnes slik:GruppeFastsatt invaliditetsgrad i prosentÅrlig menerstatning regnet i prosentandel av G0Lavere enn 15Ingen erstatning115-249,33225-3416335-4424445-5433,33555-6444665-7456775-8469,33885-100849Betydelig større skadefølger enn ved invaliditetsgrad på 100 (overinvaliditet)100
+Menerstatningen ytes for perioden fra skadevirkningstidspunktet til statistisk forventet levealder.
+Menerstatningen skal som hovedregel utbetales som et engangsbeløp, jf. skadeserstatningsloven § 3-9. Engangsbeløpet utgjør den årlige menerstatningen ganget med antall statistisk gjenværende leveår fratrukket forventet renteinntekt av beløpet.
+Dersom erstatningssøkeren tidligere har fått utbetalt menerstatning for en pasientskade, skal menerstatningen for den nye pasientskaden utgjøre differansen mellom menerstatning etter den samlede invaliditetsgraden for pasientskadene og menerstatning etter invaliditetsgraden for den tidligere skaden (differanseprinsippet).
