@@ -1,0 +1,3 @@
+# § 5. Kompetanse til å endre utleggstrekk i særlige situasjoner
+Er flere namsmenn kompetente etter tvangsfullbyrdelsesloven § 7-21 andre ledd andre punktum, treffes avgjørelse av den av de som først etablerte eller meldte krav inn i trekket.
+Har ingen av de aktuelle namsmenn etablert eller meldt krav inn i trekket, treffes avgjørelse av namsmannen i distriktet der saksøkte har bosted i henhold til folkeregisterloven kapittel 5 dersom saksøkte har bopel i flere namsmannsdistrikter. Har saksøkte ukjent adresse, treffes avgjørelse av namsmannen utpekt etter tvangsfullbyrdelsesloven § 7-3 tredje ledd.
