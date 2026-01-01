@@ -1,0 +1,2 @@
+# § 9
+Når en person som i Danmark, Finland, Island eller Sverige har fått en dom på samfunnstjeneste eller samfunnsstraff eller en betinget dom, eller som i Island har fått omgjort en ubetinget fengselsstraff til samfunnstjeneste, her i riket blir funnet skyldig i en straffbar handling, kan retten, selv om det ikke er satt i verk tilsyn eller øvrige tiltak etter § 7, fastsette en samlet straff for begge handlingene i samsvar med reglene om dette i straffeloven §§ 39 tredje ledd eller 52 tredje ledd.
