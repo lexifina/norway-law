@@ -1,0 +1,4 @@
+# § 5. Opplysningsplikt.
+Enhver plikter etter pålegg av Kongen å gi de opplysninger som er nødvendig for gjennomføring av gjøremål etter loven. Offentlige myndigheter plikter å gi opplysninger uten hinder av taushetsplikt. Kongen kan bestemme i hvilken form opplysningene skal gis.
+Kongen kan kreve at den som produserer, innfører eller omsetter produkt fremlegger representativ prøve av produktet vederlagsfritt eller sørger for eller bekoster undersøkelser som finnes nødvendig for å vurdere et produkts egenskaper og virkninger.
+Kongen kan bestemme at kostnadene ved fremleggelse av representativ prøve eller undersøkelser som nevnt i annet ledd skal fordeles på flere produsenter, importører eller omsettere, eller at de helt eller delvis skal dekkes av det offentlige. Kostnadene og refusjon for kostnadene er tvangsgrunnlag for utlegg.

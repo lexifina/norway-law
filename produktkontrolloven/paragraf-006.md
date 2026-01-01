@@ -1,0 +1,3 @@
+# § 6. Midlertidig forbud.
+Kongen kan når særlige grunner foreligger nedlegge midlertidig forbud mot produksjon, innførsel, omsetning, bruk eller annen behandling av produkt, eller mot å tilby forbrukertjeneste, inntil tilstrekkelige opplysninger er fremlagt i overensstemmelse med § 5. Det samme gjelder dersom det er skjellig grunn til å trekke de framlagte opplysninger i tvil.
+Når det finnes påkrevet for å vurdere produktets egenskaper, eller helserisiko ved forbrukertjenesten, og for å fastsette nærmere bestemmelser i henhold til § 4, kan det nedlegges forbud som nevnt i første ledd i inntil 6 måneder regnet fra det tidspunkt det foreligger tilstrekkelige opplysninger. Når særskilte grunner taler for det, kan et slikt forbud forlenges i ytterligere 6 måneder.

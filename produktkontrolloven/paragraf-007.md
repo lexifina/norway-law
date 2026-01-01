@@ -1,0 +1,2 @@
+# § 7. Godkjenning av produkt.
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for søknad om godkjenning av produkt, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
