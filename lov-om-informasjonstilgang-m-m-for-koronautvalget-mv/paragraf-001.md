@@ -1,0 +1,2 @@
+# § 1. Formålet med loven
+Loven skal sikre at det uavhengige utvalget som skal evaluere myndighetenes håndtering av covid-19-pandemien samlet sett, og i tillegg omikronhåndteringen i perioden fra 1. november 2021 til mai 2022 (Koronautvalget), oppnevnt av Kongen i statsråd 29. april 2022, får tilgang til nødvendige opplysninger for å få utført sitt arbeid i henhold til mandatet, og å gi utvalget adgang til å behandle disse opplysningene.
