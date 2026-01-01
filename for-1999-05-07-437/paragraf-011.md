@@ -1,0 +1,5 @@
+# § 11. Klage
+Ilagt tilleggsgebyr kan påklages innen tre uker etter ileggelsen. For beregning av fristen gjelder reglene i forvaltningsloven § 29 og § 30. Klagen utformes i samsvar med forvaltningsloven § 32.
+Klagen fremsettes for politi eller Statens vegvesen i det distrikt gebyret ble ilagt. Er gebyret ilagt av myndighet som nevnt i § 10 annet ledd, sendes klagen til kommunen der dette er ilagt.
+Politi / Statens vegvesen / kommunen behandler klagen og gir skriftlig begrunnelse dersom klageren ikke får medhold. Disse myndigheter kan, dersom særlige grunner knyttet til ileggelsen tilsier det, frafalle tilleggsgebyret. Myndighet som forestår både ileggelse og innkreving, kan frafalle tilleggsgebyret og eventuell forsinkelsesrente, dersom særlige grunner tilsier det.
+Klage på ilagt tilleggsgebyr og eventuell forsinkelsesrente som ikke gis medhold, jf. tredje ledd, kan innen tre uker etter at klageren er underrettet om resultatet kreves forelagt for tingretten. Politi / Statens vegvesen / kommunen forbereder klagebehandlingen.
