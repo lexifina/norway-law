@@ -1,0 +1,4 @@
+# § 14. (inspeksjon, iverksetting av pålegg m.v.)
+1) Direktoratet for strålevern og atomsikkerhet kan til enhver tid kreve adgang til et atomanlegg og området omkring. Enhver som er knyttet til anlegget plikter, uansett den taushetsplikt han ellers måtte ha, å gi direktoratet alle de opplysninger som det trenger for å utøve tilsynet.
+2) Blir et pålegg ikke oppfylt, kan Direktoratet for strålevern og atomsikkerhet kreve tvangsfullbyrdelse hos namsmyndighetene eller politiets bistand. Når det haster, kan direktoratet også etter eget tiltak la nødvendige sikkerhetstiltak foreta på anleggseierens og innehaverens kostnad. Det offentliges krav på dekning for slike utgifter er tvangsgrunnlag for utlegg hos eier og innehaver av vedkommende anlegg.
+3) Bestemmelsene i nr. 1 og 2 gjelder tilsvarende for tilsynsmyndigheten etter § 13 nr. 3 for virksomhet som er underlagt dens tilsyn.

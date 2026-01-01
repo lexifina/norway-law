@@ -1,0 +1,2 @@
+# § 19. (innehaverens ansvar for ulykke i atomanlegg)
+Innehaveren skal erstatte atomskade voldt ved atomulykke som skjer i innehaverens atomanlegg. Dette gjelder likevel ikke atomskade som utelukkende skyldes deltakelse av atomsubstans som bare midlertidig er oppbevart i anlegget under transport, såfremt en annen innehaver er ansvarlig for skaden etter skriftlig avtale og slikt ansvar er forenlig med reglene i § 22, jf. §§ 24 og 25.

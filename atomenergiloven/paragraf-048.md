@@ -1,0 +1,3 @@
+# § 48. (skipsreaktor m.m.)
+1) Hvor ikke annet uttrykkelig er sagt, omfatter reglene i kapitlet her ikke atomreaktor som er bestanddel av et fartøy eller annet transportmiddel og som nyttes eller er bestemt til å nyttes som kraftkilde.
+2) Kongen kan gjøre kapitlets regler med nødvendige lempninger helt eller delvis gjeldende for slike atomreaktorer. Han kan også fastsette regler som helt eller delvis bygger på internasjonal overenskomst, selv om Norge ikke har sluttet seg til vedkommende overenskomst. Innehaverens ansvar kan i alle tilfelle begrenses til det beløp Kongen fastsetter. Bestemmelse etter leddet her kan treffes generelt eller med virkning bare for ett bestemt fartøy eller annet transportmiddel.
