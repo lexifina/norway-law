@@ -1,0 +1,3 @@
+# § 10b. Energikarakterskalaen
+Enova SF bestemmer energikarakterskalaen basert på vektet levert energi per m2 oppvarmet bruksareal, innenfor rammene av denne forskrift.
+Den nedre grensen for energikarakter A skal tilsvare energikravene i TEK17 fratrukket 15 prosent. Bygg som innfrir energikravene i TEK17 skal tilsvare energikarakter B. Den øvre grensen for energikarakter G skal settes slik at byggene som anslås å være de 15 prosent minst energieffektive i hver bygningskategori får energikarakter G. Energikarakterene mellom C og G skal fordeles slik at det blir lik innbyrdes avstand mellom karakterene.
