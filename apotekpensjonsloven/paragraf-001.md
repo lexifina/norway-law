@@ -1,0 +1,4 @@
+# § 1
+Pensjonsordning for apotekvirksomhet mv. omfatter, med de unntakene som følger av denne loven, apotekere og arbeidstakere ansatt ved apotek. Arbeidstakere født i 1964 eller tidligere som er ansatt i en eller flere stillinger ved apotek der samlet arbeidstid er mindre enn 20 prosent av full stilling, og som samtidig er alderspensjonist etter loven her, er unntatt fra medlemskap.
+Departementet kan bestemme at arbeidstakere i andre stillinger knyttet til farmasien, skal omfattes av pensjonsordningen og kan fastsette særskilte vilkår for innlemmingen.
+For å kunne være medlem av pensjonsordningen må arbeidstakeren samtidig være trygdet etter folketrygdloven kapittel 2 og betale folketrygdavgift for de samme inntektene som ligger til grunn for pensjonsopptjening i pensjonsordningen. Departementet kan i særlige tilfeller gjøre unntak og fastsette regler blant annet om innskuddsbetaling etter særskilt fastsatt sats.
