@@ -1,0 +1,4 @@
+# § 4. Dekning av ekstrautgifter med å utføre tjenesten
+Når gebyret ikke dekker utenriksstasjonens nødvendige utgifter for å utføre tjenesten, kan utenriksstasjonen kreve dekket ekstrautgifter med å yte tjenesten, for eksempel utgifter til porto, telefon, transport, tolk og fotokopier. Det kan kreves at tjenestemottakeren betaler et depositum eller stiller sikkerhet for slike utgifter.
+Utføres gebyrpliktige tjenester utenfor kontorlokalene, kan stasjonen kreve at tjenestemottakeren dekker utgiftene til diett, nattillegg og reiseutgifter etter bestemmelsene i særavtalen om reiser utenlands for statens regning med satsene for reiser utland.
+Utfører utenriksstasjonen tjenester som ikke er gebyrpliktige, kan stasjonen kreve at tjenestemottakeren dekker utgiftene etter første og andre ledd etter regning. Tjenestemottakeren skal på forhånd gjøres kjent med kravet.
