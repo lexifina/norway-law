@@ -1,0 +1,2 @@
+# § 7-31a. Godtgjørelse til revisor
+Det skal opplyses om godtgjørelse til revisor og hvordan godtgjørelsen er fordelt på lovpålagt revisjon, andre attestasjonstjenester, skatterådgivning og andre tjenester utenfor revisjonen. Honorarer for andre tjenester utenfor revisjonen skal spesifiseres for vesentlig forskjellige tjenester. Opplysningene skal også omfatte godtgjørelse til foretak som revisor har et særskilt samarbeid med.

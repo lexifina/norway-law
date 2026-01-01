@@ -1,0 +1,2 @@
+# § 5-5. Tilordning av anskaffelseskost
+Eiendeler skal tilordnes anskaffelseskost spesifikt. Varer kan tilordnes anskaffelseskost ved FIFO-metoden (først inn, først ut) eller gjennomsnittlig anskaffelseskost dersom spesifikk tilordning ikke er praktisk eller hensiktsmessig. Ombyttbare finansielle eiendeler skal tilordnes gjennomsnittlig anskaffelseskost. Små foretak kan likevel tilordne ombyttbare finansielle eiendeler anskaffelseskost etter FIFO-metoden.

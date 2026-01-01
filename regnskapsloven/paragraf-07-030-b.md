@@ -1,0 +1,5 @@
+# § 7-30b. Transaksjoner med nærstående parter
+(1) Det skal opplyses om vesentlige transaksjoner med nærstående parter. Opplysningene skal omfatte transaksjonenes beløp, en beskrivelse av hva slags forhold det er mellom selskapet og den nærstående part, samt andre opplysninger om transaksjonene som er nødvendige for å forstå den regnskapspliktiges og konsernets stilling.
+(2) Transaksjoner mellom konsoliderte foretak kan unnlates opplyst i konsernregnskapet. Transaksjoner mellom heleide konsoliderte foretak kan unnlates opplyst i selskapsregnskapet dersom selskapet er unntatt fra dokumentasjonsplikten etter skatteforvaltningsloven § 8-9 annet ledd.
+(3) Opplysninger om individuelle transaksjoner etter første ledd kan grupperes etter typen av transaksjoner, med mindre særskilte opplysninger er nødvendige for å forstå virkningene av transaksjonene for den regnskapspliktiges og konsernets stilling.
+(4) Departementet kan i forskrift gi nærmere bestemmelser om definisjonen av nærstående parter og bestemmelser om at regnskapspliktige som direkte eller indirekte eies helt eller delvis av offentlig myndighet, kan unnlate å gi opplysninger som kreves etter første ledd.

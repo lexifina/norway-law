@@ -1,0 +1,5 @@
+# § 3-2. Årsregnskapets innhold
+(1) Årsregnskapet skal inneholde resultatregnskap, balanse og noteopplysninger. Mellomstore og store foretak skal utarbeide kontantstrømoppstilling. Årsregnskapet kan i tillegg inneholde en oppstilling av endringer i egenkapitalen.
+(2) For morselskap i mellomstore og store konsern består årsregnskapet av selskapsregnskap og konsernregnskap. Konsernregnskapet skal omfatte morselskapet og alle datterselskapene. Konsernregnskapet skal vise disse foretakene som en enhet (konsolidering). Transaksjoner mellom konsoliderte foretak skal ikke regnskapsføres i konsernregnskapet.
+(3) Morselskap i små konsern kan unnlate å utarbeide konsernregnskap. Dette gjelder ikke dersom et av selskapene i konsernet er et foretak av allmenn interesse.
+(4) Et morselskap kan unnlate å utarbeide konsernregnskap hvis samtlige av selskapets datterselskaper både hver for seg og samlet er av uvesentlig betydning, eller samtlige av foretakets datterforetak kan utelates fra konsolidering etter § 3-8.

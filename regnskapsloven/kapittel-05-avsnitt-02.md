@@ -1,0 +1,1 @@
+# II. Spesielle vurderingsregler

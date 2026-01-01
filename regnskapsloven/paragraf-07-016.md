@@ -1,0 +1,2 @@
+# § 7-16. Investering som regnskapsføres etter egenkapitalmetoden
+For investering som regnskapsføres etter egenkapitalmetoden, skal det opplyses om anskaffelseskost og balanseført egenkapital på anskaffelsestidspunktet. For hver investering skal det opplyses om inngående balanse, inntektsført resultat, andre endringer i løpet av året og utgående balanse. Det skal opplyses om merverdier og goodwill samt avskrivning av merverdier og goodwill.

@@ -1,0 +1,2 @@
+# § 1-9. Fusjon
+Som fusjon regnes sammenslåing som nevnt i aksjeloven § 13-2 og allmennaksjeloven § 13-2, samt sammenslåing som omfatter annen regnskapspliktig og som gjennomføres på tilsvarende måte. Som fusjon regnes også en sammenslåing som nevnt i allmennaksjeloven §§ 13-25 til 13-36, jf. aksjeloven § 13-25, om fusjoner over landegrensene når kontantvederlaget som ytes til aksjeeierne i det overdragende selskapet ikke overstiger 20 prosent av det samlede vederlaget.

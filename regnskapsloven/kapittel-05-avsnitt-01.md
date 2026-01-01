@@ -1,0 +1,1 @@
+# I. Generelle vurderingsregler
