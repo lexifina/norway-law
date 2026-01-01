@@ -1,0 +1,4 @@
+# § 59. Karakterisering av olje og kondensat
+Dersom det påvises olje eller kondensat i tilknytning til leteaktivitet, skal det snarest mulig foretas en karakterisering av oljen eller kondensatet. Resultatene fra karakteriseringen skal inngå i grunnlaget for vurdering av miljørisiko knyttet til akutt forurensning ved eventuell framtidig aktivitet og i beslutningsgrunnlaget for å redusere risiko, inkludert dimensjonering og utvikling av beredskap.
+Karakteriseringen skal omfatte fysiske og kjemiske egenskaper, inkludert forvitring og skjebne i marint miljø under relevante ytre betingelser.
+Olje og kondensat som kan forekomme som akutt forurensing, skal måles regelmessig med hensyn til fysiske og kjemiske parametere. Dersom slike målinger viser endringer av betydning, skal ny karakterisering gjennomføres.

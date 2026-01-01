@@ -1,0 +1,7 @@
+# § 69. Formasjonstesting, opprenskning og oppstart av brønner
+Operatøren skal ved formasjonstesting, og ved opprenskning og oppstart av produksjonsbrønner, planlegge og gjennomføre aktiviteten slik at utslippene til luft og sjø minimeres, jf. rammeforskriften § 11. Vurderingene av metodevalg, samt tekniske løsninger og tiltak for å minimere utslippene, skal dokumenteres.
+Dersom aktiviteten medfører fakling eller brenning over brennerbom, skal forbrenningen optimaliseres for å sikre høy forbrenningseffektivitet slik at utslippene til luft og sjø minimeres.
+Operatøren skal iverksette nødvendige tiltak for å begrense mulige skader på ytre miljø når oljenedfall fra brenning av hydrokarboner medfører synlig olje på havoverflaten. Tiltaksplikten gjelder tiltak som står i et rimelig forhold til de skader og ulemper som skal unngås.
+Oljeholdig vann fra aktiviteten som skal slippes til sjø fra innretningen, skal håndteres i henhold til § 60a.
+Olje- og kjemikalieholdig vann fra opprenskning og oppstart av produksjonsbrønner kan bare sendes med produksjonsstrømmen til land dersom mottakeren på land har tillatelse til å ta imot slikt vann, og har kapasitet og er egnet i det enkelte tilfellet til å ta det imot. Når slikt vann sendes med produksjonsstrømmen til land, skal operatøren optimalisere doseringen av kjemikalier som tilsettes eksportstrømmen slik at potensialet for miljøskade ved mottakende anlegg minimeres, jf. § 64 første ledd.
+Operatøren må ha tillatelse etter forurensningsloven kapittel 3 til formasjonstesting, opprenskning og oppstart av brønner.
