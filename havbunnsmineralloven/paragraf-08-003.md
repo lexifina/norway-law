@@ -1,0 +1,6 @@
+# § 8-3. Ansvar for forurensning og avfall
+Rettighetshaveren er erstatningsansvarlig uten hensyn til skyld for økonomisk tap som følge av forurensning og avfall fra mineralvirksomheten, utgifter til rimelige tiltak for å avverge eller begrense slik skade eller slikt tap og for skade eller tap som slike tiltak medfører.
+Rettighetshaverens ansvar etter første ledd omfatter også skade og ulempe fra forurensning og avfall som følge av trafikk med forsynings- eller hjelpefartøy og ved forflytning av en innretning til eller fra vedkommende felt. Rettighetshaveren kan gjøre gjeldende regressansvar mot den direkte skadevolderen eller rederen dersom de ellers gjeldende ansvarsvilkårene er oppfylt.
+For at erstatning skal kunne kreves for tapt fangsttid i forbindelse med lokalisering, merking, opptak eller ilandbringelse av gjenstander, må gjenstandene merkes forsvarlig eller bringes i land og forevises for politiet, havnemyndighet eller annen tilsvarende offentlig myndighet, med mindre det foreligger absolutte hindringer. Posisjonen må i alle fall meldes til politiet eller havnemyndighet.
+Tredje ledd gjelder også ved erstatning for annet tap dersom en slik merking, posisjonsangivelse eller ilandbringelse med rimelighet kan kreves.
+Erstatningsansvaret omfatter også andre fartøy som bistår et fiskefartøy med å bringe gjenstander til land.

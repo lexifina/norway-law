@@ -1,0 +1,4 @@
+# § 4-6. Tilbakelevering av områder
+Departementet skal ved tildelingen av en utvinningstillatelse fastsette hvor stor del av området som dekkes av tillatelsen, rettighetshaveren kan kreve forlengelse for etter § 4-5 tredje ledd. Departementet kan etter søknad samtykke i at rettighetshaveren beholder mer enn det området som er fastsatt ved tildelingen.
+Rettighetshaveren kan med tre måneders varsel og virkning fra neste kalenderår levere tilbake hele eller deler av området som er omfattet av en utvinningstillatelse. Departementet kan kreve at vilkårene for tillatelsen og forpliktelsene som følger av den, skal være oppfylt før tilbakelevering av deler av området eller oppgivelse av tillatelsen.
+Departementet kan gi forskrift om avgrensning av områder som tilbakeleveres etter første og andre ledd.

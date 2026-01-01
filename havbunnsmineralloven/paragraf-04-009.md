@@ -1,0 +1,11 @@
+# § 4-9. Andre naturforekomster enn mineraler mv.
+En utvinningstillatelse etter denne loven er ikke til hinder for at andre enn rettighetshaveren gis rett til å foreta undersøkelser etter og utvinning av petroleumsforekomster i medhold av petroleumsloven når dette ikke medfører urimelig ulempe for den mineralvirksomheten som rettighetshaveren driver i medhold av utvinningstillatelsen. Det samme gjelder
+a) aktivitet i medhold av lov 21. juni 1963 nr. 12 om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster
+b) aktivitet i medhold av havressurslova og naturmangfoldloven
+c) aktivitet i medhold av havenergilova.
+Dersom det er gjort funn av petroleum i et område som omfattes av en utvinningstillatelse etter denne loven, og fortsatt petroleumsvirksomhet ikke kan foregå uten å medføre urimelig ulempe for mineralvirksomheten som rettighetshaveren driver i medhold av utvinningstillatelsen, bestemmer Kongen hvilken av virksomhetene som skal utsettes, eventuelt i hvilket omfang. Det skal ved avgjørelsen tas hensyn til hva slags funn som er gjort, foretatte investeringer, hvilket stadium virksomheten har nådd, virksomhetens varighet og omfang og dens økonomiske og samfunnsmessige betydning.
+Den som får utsatt sin virksomhet, har etter søknad krav på å få tillatelsen forlenget for et tidsrom som svarer til utsettelsen. Dersom utsettelsen bare gjelder en begrenset del av den virksomheten som kan utføres i henhold til tillatelsen, kan departementet fastsette en kortere forlengelse eller bestemme at forlengelse ikke skal gis eller bare gis for en del av området tillatelsen gjelder.
+Dersom utsettelsen medfører at arbeidsforpliktelsen etter § 4-3 ikke kan gjennomføres innen den fastsatte fristen, skal fristen forlenges i nødvendig utstrekning.
+Dersom mineralvirksomheten utsettes, skal arealavgiften for den perioden utsettelsen varer, frafalles.
+Hvis en utsettelse etter andre ledd må antas å bli særlig langvarig, kan tillatelsen i stedet tilbakekalles.
+Kongen kan ved enkeltvedtak bestemme at den som tillates å opprettholde sin virksomhet, helt eller delvis skal refundere påløpte omkostninger og i rimelig utstrekning dekke annet tap for den som må utsette, innskrenke eller stanse sin virksomhet.

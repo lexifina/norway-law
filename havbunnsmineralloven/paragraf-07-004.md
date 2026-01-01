@@ -1,0 +1,3 @@
+# § 7-4. Panthaverens rett mv.
+Departementet skal gi en panthaver et skriftlig varsel om tilbakekall eller oppgivelse av en tillatelse eller av en andel i denne, med meddelelse om at panteretten bortfaller dersom det ikke begjæres tvangssalg uten unødig opphold. Er tvangssalg begjært i rett tid, kan det ikke meddeles en ny tillatelse i strid med panthaverens rett.
+En panterett som nevnt i første ledd kan ikke overdras eller pantsettes uten departementets samtykke. Den kan heller ikke uten et slikt samtykke være gjenstand for utlegg, arrest eller gjeldsforhandling eller inngå i panthaverens konkursbo.

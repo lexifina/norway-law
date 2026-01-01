@@ -1,0 +1,4 @@
+# § 7-1. Registrering av tillatelser
+Departementet skal føre et register over alle utvinningstillatelser gitt etter denne loven. Registeret skal hete Havbunnsmineralregisteret. Departementet kan gi forskrift om at registeret også skal omfatte tillatelser gitt etter § 4-7.
+I registeret gis hver tillatelse sitt eget blad. Departementet skal føre dagbok over de dokumentene som skal registreres, og kan gi forskrift om hvordan dagboken og registeret skal innrettes og føres, meldeplikt for rettighetshaveren ved overdragelse og andre endringer vedrørende tillatelsen og fremgangsmåten for øvrig ved registreringen. Det kan også gis forskrift om hvilke gebyrer som kan kreves.
+Tinglysingsloven kapittel 2 og 3 gjelder tilsvarende så langt de passer, og ikke noe annet følger av loven her eller forskrift gitt i medhold av loven.

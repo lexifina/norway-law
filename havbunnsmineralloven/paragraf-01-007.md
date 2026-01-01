@@ -1,0 +1,3 @@
+# § 1-7. Krav til forsvarlig mineralvirksomhet
+Mineralvirksomhet etter denne loven skal foregå på en forsvarlig måte og ivareta hensynet til sikkerhet for personell, miljø og de økonomiske verdiene innretninger og fartøyer representerer.
+Mineralvirksomheten må ikke unødvendig eller i urimelig grad vanskeliggjøre eller hindre skipsfart, fiske, luftfart eller annen virksomhet eller volde skade eller fare for skade på rørledninger, kabler eller andre undersjøiske innretninger. Alle rimelige foranstaltninger skal tas for å unngå skade på naturmangfoldet i havet eller kulturminner på havbunnen og å unngå forurensning og forsøpling.
