@@ -1,0 +1,6 @@
+# § 2. Gebyrberegningen.
+For hver enkelt aksel/akselkombinasjonslast som er konstatert ved veiing, avrundes overlasten til nærmeste 100 kg.
+1) Aksellastgebyr: For 11,5 tonns drivaksellast fratrekkes 200 kg. For hver foraksellast på motorvogn fratrekkes 500 kg. For last av andre aksel/akselkombinasjoner fratrekkes 1000 kg. Av den gjenstående overlast beregnes gebyr særskilt for hver aksellast/akselkombinasjonslast etter gebyrsatser fastsatt av Samferdselsdepartementet.
+2) Totalvektgebyr: For vogntog og enkeltkjøretøyer der vekten overskrider den tillatte totalvekt som er angitt i § 1. pkt. 1-6, summeres de avrundede veieresultatene for hver enkelt aksel/akselkombinasjon, jf. § 2 første ledd. For enkeltkjøretøy brukes totalvekttabellen bare når kjøretøyet skal ha brukstillatelse. Fra summen av de avrundede veieresultatene fratrekkes følgende:- Enkeltkjøretøy (også som del av vogntog) med tillatt totalvekt til og med 7.500 kg:500 kg- Enkeltkjøretøy (også som del av vogntog) med tillatt totalvekt over 7.500 kg:1.000 kg- Vogntog med samlet tillatt totalvekt til og med 15.000 kg:1.000 kg- Vogntog med samlet tillatt totalvekt over 15.000 kg:2.000 kg
+Av den gjenstående overlast beregnes gebyr etter satser fastsatt av Samferdselsdepartementet.
+Det høyeste gebyr som framkommer av beregningsmåtene i nr. 1 eller nr. 2 ilegges.
