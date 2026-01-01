@@ -1,0 +1,3 @@
+# § 7. Helikopterdekkdata mv.
+En helikopteroperatør kan kun benytte et helikopterdekk hvor helikopterdekkoperatøren har dokumentert og vedlikeholdt data om helikopterdekket og andre data av betydning for flysikkerheten. Helikopteroperatører og andre som har behov for det, må ha tilgang til denne dokumentasjonen.
+Helikopterdekkoperatøren må ha oversendt helikopterdekkdataene til kunngjøringstjenesten for luftfarten i den form, og med den kvalitet som kunngjøringstjenesten bestemmer. Dersom dataene gjøres kjent gjennom et kunngjøringssystem, må helikopterdekkoperatøren overvåke de data om helikopterdekket som publiseres, og sørge for nødvendige endringer slik at helikopterdekkdataene til enhver tid er korrekte.
