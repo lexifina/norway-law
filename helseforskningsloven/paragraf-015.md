@@ -1,0 +1,3 @@
+# § 15. Ny eller endret bruk av innsamlet humant biologisk materiale eller helseopplysninger
+Ved vesentlige endringer i forskningsprosjektet må det innhentes nytt samtykke etter § 13 dersom endringene antas å ha betydning for deltakerens samtykke.
+Dersom det er vanskelig å innhente nytt samtykke, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk godkjenne ny eller endret bruk av tidligere innsamlet humant biologisk materiale eller helseopplysninger uten at nytt samtykke innhentes. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komité for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken.

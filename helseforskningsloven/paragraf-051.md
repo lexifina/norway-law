@@ -1,0 +1,4 @@
+# § 51. Statens helsetilsyns adgang til å gi pålegg om retting og stansning mv.
+Dersom forskningsprosjekter eller forskningsbiobanker drives på en måte som kan ha skadelige følger for forskningsdeltakere eller andre, eller på annen måte er uheldig eller uforsvarlig, kan Statens helsetilsyn gi pålegg om å rette på forholdene. Dersom Statens helsetilsyn finner det nødvendig, kan det gis pålegg om stansning av forskningsprosjektet eller nedleggelse av forskningsbiobanken. Departementet kan overta den videre driften.
+Reglene om klage og omgjøring i forvaltningsloven kapittel VI får tilsvarende anvendelse på pålegg etter første ledd. Klagen skal gis oppsettende virkning, hvis ikke Statens helsetilsyn bestemmer at vedtaket skal iverksettes straks.
+Når Statens helsetilsyn har gitt et pålegg, skal øvrige tilsynsmyndigheter informeres om dette såfremt forskningsprosjektet også faller inn under deres tilsynsområde.
