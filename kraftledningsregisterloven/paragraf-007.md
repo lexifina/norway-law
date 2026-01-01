@@ -1,0 +1,2 @@
+# § 7
+Ved overdragelse av eiendomsrett til og stiftelse av pant eller annen rettighet i registrert kraftledning er inntegning på ledningens folium i registret av det dokument som hjemler rettigheten, nødvendig i samme utstrekning hvori ellers tinglysing utfordres ved fast eiendom. Bestemmelsene i lov om tinglysing av 7. juni 1935 §§ 12-14 og 16-19 samt § 39 nr. 3 gjelder tilsvarende. Tinglysing, foretatt etter denne lovs ikrafttreden vedkommende rettighet i registrert kraftledning, har ingen rettsvirkning.
