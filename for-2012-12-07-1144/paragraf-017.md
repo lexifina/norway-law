@@ -1,0 +1,3 @@
+# § 17. Kontroll
+Fiskeridirektoratet kan kontrollere at de opplysningene som er gitt til Fiskeridirektoratet til enhver tid er korrekte. Ved kontroll kan Fiskeridirektoratet benytte seg av opplysninger i andre offentlige registre eller opplysninger gitt til andre offentlige etater. Fiskeridirektoratet kan også til enhver tid be om å få forelagt og få bekreftet opplysninger. Fiskeridirektoratet kan også foreta fysisk kontroll av fartøy og fysisk kontroll om bord i fartøy som står i merkeregisteret eller søkes innført der.
+Denne bestemmelsen innskrenker ikke Fiskeridirektoratets adgang til kontroll etter havressursloven kapittel 7.

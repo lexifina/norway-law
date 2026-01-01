@@ -1,0 +1,3 @@
+# § 8. Salg av fartøy ved tvangssalg og konkurs
+Ved salg av fartøyet i forbindelse med konkurs eller tvangssalg, forhåndsbehandler Fiskeridirektoratet aktuelle kjøperes søknader om fisketillatelser og kan på bakgrunn av dette gi forhåndstilsagn om tildeling.
+Hvis et fiskefartøy blir solgt på auksjon eller ved medhjelpersalg må ikke bud stadfestes før det foreligger forhåndstilsagn om tildeling av fisketillatelser fra fiskerimyndighetene. Banker eller andre kredittinstitusjoner med panterett i fartøyet kan likevel få stadfestet sitt bud uten slikt forhåndstilsagn for å redde sine fordringer. Reglene i § 6 gjelder tilsvarende.
