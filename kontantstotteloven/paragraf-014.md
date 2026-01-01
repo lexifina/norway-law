@@ -1,0 +1,3 @@
+# § 14. Søknad om kontantstøtte
+Søknad om kontantstøtte settes frem av den barnet bor fast sammen med. Når barnet bor fast sammen med begge foreldrene, settes søknaden frem av en av disse.
+Med mindre Arbeids- og velferdsdirektoratet bestemmer noe annet, skal søknaden settes fram skriftlig for det felles lokale kontoret i arbeids- og velferdsforvaltningen på søkerens bosted, eller søkerens oppholdssted dersom vedkommende ikke har fast bosted. Har søkeren ikke fast bosted, settes søknaden fram for det lokale kontoret på søkerens oppholdssted. Det felles lokale kontoret som søkeren henvender seg til, plikter å gi ham eller henne nødvendig veiledning.
