@@ -1,0 +1,2 @@
+# § 17-2
+Virksomhet som ved lovens ikrafttredelse innehar kommunal salgsbevilling for øl, kommunal skjenkebevilling eller statlig skjenkebevilling, og virksomhet som får salgsbevilling for alkoholholdig drikk som inneholder høyst 4,7 volumprosent alkohol, kommunal skjenkebevilling eller statlig skjenkebevilling innen 31. desember 2005, skal t.o.m. 31. desember 2005 svare bevillingsgebyr etter bestemmelsene i forskrift 11. desember 1997 nr. 1292 om omsetning av alkoholholdig drikk mv. kapittel 11.

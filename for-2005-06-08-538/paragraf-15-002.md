@@ -1,0 +1,2 @@
+# § 15-2
+Når privatpersoner innfører alkoholholdig drikk, kan Helsedirektoratet og toll- og avgiftsmyndighetene kreve framlagt dokumentasjon på at den alkoholholdige drikken er til personlig bruk dersom det på grunn av mengden alkoholholdig drikk eller av andre årsaker er grunn til å tro at varene ikke er til personlig bruk. Dersom slik dokumentasjon ikke gis, kan varene ikke innføres uten rett til å drive engrossalg eller uten bevilling som angitt i alkoholloven § 2-1.

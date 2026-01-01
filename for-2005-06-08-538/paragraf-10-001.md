@@ -1,0 +1,2 @@
+# § 10-1
+Bestemmelsene om prikktildeling og inndragning i § 10-2 til § 10-6 gjelder der kontroll gjennomført i henhold til kapittel 9 i denne forskriften eller rapport fra andre myndigheter, avdekker at innehaver av kommunal salgs- eller skjenkebevilling ikke har oppfylt sine plikter etter alkoholloven, bestemmelser gitt i medhold av alkoholloven, bestemmelser i lov eller i medhold av lov som har sammenheng med alkohollovens formål, eller plikter som følger av vilkår i bevillingsvedtaket.
