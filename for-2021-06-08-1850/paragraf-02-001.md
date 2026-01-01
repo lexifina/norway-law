@@ -1,0 +1,3 @@
+# § 2-1. Hvordan undersøkelsene skal skje
+Med mindre det fremgår at et rom eller en bygningsdel skal undersøkes med målinger, at det skal bores hull, at det skal stikkes i treverk eller annet, skal den bygningssakkyndige basere sine undersøkelser på det som er synlig.
+Den bygningssakkyndige skal flytte på tepper, møbler og annet inventar når det er nødvendig for å komme til det rommet eller den bygningsdelen som skal undersøkes. Dette gjelder likevel ikke for særlig tunge møbler og inventar, når disse ikke skjuler vesentlige installasjoner eller innretninger, og det heller ikke er andre grunner til å mistenke at flytting vil kunne avdekke vesentlige forhold.

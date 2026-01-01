@@ -1,0 +1,3 @@
+# § 2-3. Kjøkken (gulv, avløp og vannrør)
+På kjøkkenet skal den bygningssakkyndige se etter om gulvet har skader eller fuktskjolder. Den bygningssakkyndige skal høre etter om det er knirk. Ved hjelp av fuktoverflateindikator skal det ses etter tegn på skadelig fukt ved kjøleskap, vaskemaskin, varmtvannsbereder og andre vanninstallasjoner.
+Den bygningssakkyndige skal undersøke avløp og vannrør. Avrenning skal undersøkes ved åpen vannkran og vannmengde, og trykk vurderes mens kranene er åpne. Hvis det finnes skjulte anlegg uten dokumentasjon på utførelse, skal eventuelle symptomer på nabokonstruksjoner og alder vurderes.

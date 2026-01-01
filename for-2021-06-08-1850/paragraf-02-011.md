@@ -1,0 +1,4 @@
+# § 2-11. Yttervegger
+I ytterveggens konstruksjoner skal den bygningssakkyndige se etter deformasjoner og forhold som kan indikere fuktskade. Den bygningssakkyndige skal undersøke vannbord over og under vindu, i overgangen mellom grunnmur og fasade og i etasjeskillere.
+På kledningen (trefasade) skal den bygningssakkyndige se etter skader, sprekker og råteskade. Det skal undersøkes om det er tilstrekkelig lufting eller andre konstruksjonsfeil. Den bygningssakkyndige skal dessuten utføre stikktaking på typiske skadesteder, slik som i nedkanten av panelet og i områdene rundt vinduene. Videre skal det vurderes om materialvalg, spikring, vedlikeholdsnivå eller annet kan gi forkortet levetid.
+Denne paragrafen gjelder ikke der en bygnings yttervegger er en del av flere boligers fellesareal. Paragrafen gjelder likevel hvis boligeieren har vedlikeholdsplikt for ytterveggen, eller hvis ytterveggen har en særlig nær tilknytning til den aktuelle boligen.
