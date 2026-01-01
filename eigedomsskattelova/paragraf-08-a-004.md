@@ -1,0 +1,3 @@
+# § 8 A-4. Kontorjustering
+(1) I staden for ny allmenn taksering kan kommunestyret gjere vedtak om auke av det verdet (taksten) som eigedomen blei sett til ved den siste allmenne takseringa for utskriving av eigedomsskatt. Kommunestyret kan dessutan gjere vedtak om at det skal gjerast eit tilsvarande tillegg for dei eigedomane som er verdsett særskild før eit tidspunkt som kommunestyret fastset.
+(2) Auken kan skje stegvis over fleire år, men må ikkje vere meir enn 10 prosent av det opphavlege skattegrunnlaget for kvart år etter 10-årsfristen for den siste allmenne takseringa, likevel slik at skatteåret 1983 vert rekna som første året for slikt tillegg. Fristreglane i § 8 A-3 andre ledd gjeld ikkje for kontorjustering.

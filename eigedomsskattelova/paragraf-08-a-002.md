@@ -1,0 +1,5 @@
+# § 8 A-2. Verdet
+(1) Verdet av eigedomen skal setjast til det beløp ein må gå ut frå at eigedomen etter si innretning, brukseigenskap og lokalisering kan bli avhenda for under vanlege salstilhøve ved fritt sal. Skattegrunnlaget for bustader og fritidsbustader vert sett til verdet multiplisert med 0,7.
+(2) Verdet av næringseigedom skal setjast til teknisk verd når det ikkje er mogleg å fastsetje verdet etter regelen i første ledd første punktum.
+(3) Verdet av vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum skal setjast til teknisk verd, eller avkastningsverd når det gjev best uttrykk for verdet.
+(4) Kommunestyret kan vedta at det skal gjerast frådrag i takstane for ein lokal reduksjonsfaktor, med likt prosentvis frådrag for alle typar eigedom. Frådraget vert vedtatt i samband med allmenn taksering og ligg fast i heile takstperioden. For bustader og fritidsbustader skal ein berre nytte lokal reduksjonsfaktor når denne er høgare enn frådraget i første ledd, og ikkje i tillegg til dette.
