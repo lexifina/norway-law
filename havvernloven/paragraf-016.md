@@ -1,0 +1,2 @@
+# § 16. Kunngjøring av verneforskrifter
+Forskrifter etter §§ 7 og 15 skal kunngjøres etter forvaltningsloven § 38 og på en måte som er hensiktsmessig for å gjøre berørte myndigheter og interesser kjent med forskriften. Forskriften skal meddeles rettighetshavere i verneområdet etter reglene i forvaltningsloven § 27. Kunngjøringen og meddelelsen skal gjøre oppmerksom på retten til erstatning etter § 31 og fristen etter § 32 første ledd i loven her.
