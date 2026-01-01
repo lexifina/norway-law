@@ -1,0 +1,3 @@
+# § 1-5. Tilsyn med omsetning av delsystemer og sikkerhetskomponenter (markedstilsyn)
+Statens jernbanetilsyn kan pålegge at den som bringer i omsetning et delsystem eller en sikkerhetskomponent, skal begrense bruksområdet, forby bruk eller tilbakekalle delsystemet eller sikkerhetskomponenten fra markedet dersom det er risiko for at delsystemet eller sikkerhetskomponenten ikke oppfyller de grunnleggende kravene i taubaneforordningen som er gjennomført i forskriften kapittel 4. Det samme gjelder dersom et delsystem eller en sikkerhetskomponent ikke har nødvendig merking.
+Den som kan få pålegg etter første ledd, kan kreve at kostnadene ved tilsyn etter denne bestemmelsen blir dekket.
