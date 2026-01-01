@@ -1,0 +1,4 @@
+# § 8. Ikrafttredelse
+Denne forskrift trer ikraft 1. januar 2003.
+Fra og med forskriftens ikrafttredelse skal all bruk av innretninger som nevnt i § 1 skje i henhold til vilkår fastsatt i denne forskrift og petroleumsforskriften kapittel 9.
+Naturgassforetak og kvalifiserte kunder med eksisterende avtaler om transport av naturgass i oppstrømsgassrørledningsnett som kan godtgjøre at deres plikt til betaling av tariffer under denne forskriften samlet sett medfører at de økonomisk sett blir dårligere stilt enn under eksisterende avtaler som nevnt, og som er godkjent i medhold av lov av 29. november 1996 nr. 72 om petroleumsvirksomhet § 4-8 eller tilsvarende bestemmelser, kan innen 1. mars 2003 søke Energidepartementet om å videreføre nærmere angitte eksisterende avtaler. Departementet kan fastsette vilkår for slik videreføring, herunder fastsette at kun enkelte rettigheter og forpliktelser i en slik avtale skal videreføres.

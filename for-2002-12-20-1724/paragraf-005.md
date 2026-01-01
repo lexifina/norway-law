@@ -1,0 +1,3 @@
+# § 5. Tariff ved endring av rett til bruk
+Når en bruker endrer inngang eller utgang, skal brukeren belastes den høyeste av K i tariffene. Endring som nevnt i første punktum forutsetter at det er ledig kapasitet i den inngang eller utgang det ønskes byttet til. Når en bruker endrer fra fast til avbrytbar kapasitet, skal brukeren belastes den høyeste tariffen.
+Ved ledig kapasitet i førstehåndsmarkedet for eksisterende anlegg for fjerning av karbondioksid i område C, har brukere av tjenesten utblanding av karbondioksid i område C en rett og en plikt til å endre sine forpliktelser for denne tjenesten til fjerning av karbondioksid.
