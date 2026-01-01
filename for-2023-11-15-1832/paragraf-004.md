@@ -1,0 +1,4 @@
+# § 4. Hva det kan tildeles tilskudd til
+Det gis primært tilskudd til aktivitetstiltak for friluftsliv, men også andre tiltak som bidrar til friluftslivsaktivitet kan få støtte fra ordningen. Det tildeles ikke tilskudd til fysiske tilretteleggingstiltak.
+Det gis primært tilskudd til organisert aktivitet og andre tiltak som stimulerer direkte til friluftslivsaktivitet, som for eksempel organiserte turer, friluftslivsleirer, praktiske kurs og annen opplæring i friluftslivsaktiviteter. Mindre deler av tilskuddet kan brukes til innkjøp av utstyr og materiell som bidrar til å fremme friluftslivsaktivitetene som det søkes om tilskudd til, for eksempel fiskestenger og telt.
+Det kan også gis tilskudd til informasjonstiltak om rettigheter og plikter etter allemannsretten og informasjonstiltak som motiverer til friluftslivsaktivitet, herunder også utvikling av digitale konsepter.
