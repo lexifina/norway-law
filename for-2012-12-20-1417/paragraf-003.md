@@ -1,0 +1,4 @@
+# § 3. Innkreving og administrasjon
+Landbruksdirektoratet krever inn avgiften på norskprodusert kjøtt, egg, melk, korn, norskproduserte vegetabilier og honning. Tollregionene er avgiftsmyndighet for avgiften på importerte landbruksprodukter, jf. lov 21. desember 2007 nr. 119 om toll og vareførsel (tolloven) § 1-5 første ledd bokstav b. Innkrevingsmyndigheten krever inn avgiften på importerte landbruksprodukter etter innkrevingsloven. Forskningsavgiften er tvangsgrunnlag for utlegg.
+Avgiftsmidlene skal tilfalle et fond, Fondet for forskningsavgift på landbruksprodukter. Styret for dette fondet (styret) har ansvaret for forvaltning av fondsmidlene innenfor budsjett fastsatt av Landbruks- og matdepartementet.
+Oppgavene med å forberede sakene for styret, følge opp vedtakene og administrere avgiftsmidlene, legges til Landbruksdirektoratet.
