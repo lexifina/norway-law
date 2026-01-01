@@ -1,0 +1,5 @@
+# § 5. Ansvar for betaling
+Gebyr etter § 2 blir ilagt fører av kjøretøy på stedet. Dersom føreren av kjøretøyet er en annen enn den som var registrert som eier ved overtredelsen, er de solidarisk ansvarlig for betalingen, med mindre kjøretøyet var tatt fra eieren ved et lovbrudd med en strafferamme på mer enn ett år. For kjøretøy som nevnt i § 1 annet ledd er føreren og eieren eller utleieren solidarisk ansvarlig for gebyret. Det gjelder selv om kjøretøyet er flyttet av andre enn registrert fører, eier eller utleier.
+Blanketten for gebyr skal normalt festes på kjøretøyet sammen med innbetalingskort, eller leveres føreren. I særlige tilfeller kan den likevel sendes fører eller eier i posten. Blanketten for gebyr for overtredelser som nevnt i § 2, første ledd, siste punktum, kan likevel alltid sendes eier eller utleier i posten, dersom fører ikke er kjent.
+Er gebyret ikke betalt innen tre uker etter at det er ilagt, løper forsinkelsesrente etter forsinkelsesrenteloven. Dette gjelder selv om gebyret er påklaget.
+Betalingsplikten gjelder selv om det klages på ileggelsen.
