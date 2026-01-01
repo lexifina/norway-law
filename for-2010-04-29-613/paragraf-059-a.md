@@ -1,0 +1,2 @@
+# § 59a. Analyse av radioaktivitet i formasjonsvann
+Dersom det i forbindelse med testing av nye funn blir tilgjengelig prøver av formasjonsvannet, skal disse vannprøvene analyseres for innhold av naturlig forekommende radioaktive stoffer. Dersom prøver av formasjonsvannet ikke blir tatt, skal det tas prøver av produsert vann for analyse av innhold av naturlig forekommende radioaktive stoffer så snart som mulig etter at produsert vann fra feltet er tilgjengelig.

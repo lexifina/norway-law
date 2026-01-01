@@ -1,0 +1,3 @@
+# § 21. Kompetanse
+Den ansvarlige skal sikre at personellet til enhver tid har den kompetansen som er nødvendig for å kunne utføre aktivitetene i henhold til helse-, miljø- og sikkerhetslovgivningen. I tillegg skal personellet kunne håndtere fare- og ulykkessituasjoner, jf. styringsforskriften § 14 og denne forskriften § 23.
+Personell som skal lede eller utføre klokkedykking eller overflateorientert dykking skal ha gyldig sertifikat. Havindustritilsynet utpeker egnet virksomhet for utdannelse av personell, samt egnet virksomhet som utsteder sertifikat på vegne av Havindustritilsynet. Det kan tas betaling for utstedelse av sertifikat.

@@ -1,0 +1,6 @@
+# § 38. Støy
+Arbeidsgiveren skal sikre at ingen arbeidstakere utsettes for hørselskadelig støy. Grenseverdier for hørselskadelig støy er for daglig støyeksponering LEX12h = 83 dB og for toppverdi av lydtrykknivå LpC,peak = 130 dB.
+Tiltaksverdi for eksponering er LEX12h = 80 dB(A) og LpCpeak = 130 dBC. Dersom tiltaksverdien overskrides, skal det vurderes risikoreduserende tiltak.
+Det skal gjennomføres faglig kvalifiserte risikovurderinger, jf. styringsforskriften § 18. Disse skal dekke alle forhold som har betydning for å klarlegge helse- og sikkerhetsrisiko knyttet til eksponering for støy.
+Arbeidet skal planlegges og gjennomføres på en slik måte at arbeidstakerne beskyttes mot støy og slik at støybelastningen reduseres så langt det er mulig. Tiltak skal gjøres ved kilden så langt det er mulig med hensyn til den tekniske utviklingen, eller ved at støyeksponeringen på annen måte begrenses i varighet og intensitet. Dette innebærer også at arbeidet skal tilrettelegges med tilstrekkelige støyfrie perioder.
+Arbeidsgiveren skal sikre at arbeidstakere og verneombud får løpende informasjon og opplæring om aktuell risiko i forbindelse med støy dersom arbeidstakerne utsettes for støy som er lik eller overskrider LEX12h = 80 dB eller LpC,peak = 130 dB.

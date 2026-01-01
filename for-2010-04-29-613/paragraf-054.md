@@ -1,0 +1,6 @@
+# § 54. Miljøovervåking av bunnhabitater
+Planer for miljøovervåking av bunnhabitater (sedimenter, bløt- og hardbunnsfauna) skal utarbeides i henhold til Retningslinjer for miljøovervåking av petroleumsvirksomheten til havs (M-300).
+Undersøkelser i den enkelte regionen skal etter regelen gjennomføres hvert tredje år. Undersøkelsene alternerer mellom regionene. Omfanget av overvåkingen skal relateres til sokkelaktiviteten i de enkelte regionene. Overvåking av ny aktivitet kommer i tillegg til, og skal tilpasses, eksisterende overvåking.
+Prøvene fra de regionale og de feltspesifikke stasjonene skal tas i løpet av samme tokt. De regionale stasjonene skal beskrive de generelle bakgrunnsnivåene i området for de komponentene som skal undersøkes, og fungere som referanser til en forventet normaltilstand. De feltspesifikke stasjonene skal gi informasjon om tilstanden rundt de enkelte innretningene i regionene.
+Undersøkelser skal gi informasjon om både den vertikale og den horisontale utbredelsen av relevante parametre.
+Miljødirektoratet og Direktoratet for strålevern og atomsikkerhet kan i særlige tilfeller gi pålegg om andre typer miljøundersøkelser, og undersøkelser i andre deler av influensområdet, enn de som er beskrevet i Retningslinjer for miljøovervåking av petroleumsvirksomheten til havs (M-300).
