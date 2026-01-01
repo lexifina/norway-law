@@ -1,0 +1,4 @@
+# § 15. Gassdeteksjonssystem
+Alle rom som er definert som eksplosjonsfarlige, skal være overvåket av et fast installert gassdeteksjonssystem. Gassdeteksjonssystemet skal være typegodkjent, akseptert for hydrokarbongass og for bruk i eksplosjonsfarlige rom.
+Plassering og antallet gassdetektorer skal vurderes av Sjøfartsdirektoratet i hvert enkelt tilfelle. Det eksplosjonsfarlige områdets størrelse, gasskilder og ventilasjon vil være en del av vurderingen. En kombinasjon av linje- og punktdetektorer kan brukes i samme rom.
+Gassdetektorer plassert i utløpskanal for ventilasjonen til maskinrom skal ha alarmgrenser på maksimalt 5 % og 10 % av nedre eksplosjonsgrense (LEL). Alarmgrenser på 5 % og 10 % av LEL kan også vurderes andre steder hvor luftutskiftingshastigheten er høy og hvor det forventes en rask uttynning av gasskonsentrasjonen. Andre gassdetektorer skal ha alarmgrenser på maksimalt 20 % og 40 % av LEL.
