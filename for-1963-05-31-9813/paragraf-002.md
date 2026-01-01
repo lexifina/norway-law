@@ -1,0 +1,5 @@
+# § 2
+En bidragsberettiget som oppholder seg her i riket, kan rette begjæring om innkreving av underholdsbidrag i et annet nordisk land til Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer, som sender begjæringen til den kompetente myndighet i innkrevende land. Begjæringen kan også rettes direkte til kompetent myndighet i det land hvor dommen, kjennelsen, beslutningen eller avgjørelsen er truffet eller avtalen er inngått.
+Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer skal påse at vilkårene for anerkjennelse og fullbyrdelse etter konvensjonen artikkel 1 er oppfylt, og skal etter anmodning fra kompetent myndighet i innkrevende land godtgjøre dette, jf. konvensjonen artikkel 3 første ledd.
+Fullbyrdelse i Norge etter begjæring fra et annet nordisk land kan bare skje når begjæringen er mottatt av Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer.
+Dokumenter som er skrevet på finsk eller islandsk, skal ha vedlagt oversettelse til dansk, norsk eller svensk i den utstrekning dette er nødvendig.
