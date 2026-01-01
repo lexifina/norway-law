@@ -1,0 +1,4 @@
+# § 7. Rapporteringsplikt for tilskotsmottakaren
+Ein tilskotsmottakar skal rapportere om kva pengane er brukte til, og kva som er effekten av tiltaket, i den digitale søknadsportalen. Tilskotsmottakar skal sette opp rekneskapen slik at det kan samanliknast med budsjettet i søknaden, og kostnadane skal dokumenterast i form av fakturaer og betalingskvitteringar. For servicestøtte finst det eigne rapporteringsreglar.
+Tilskotsmottakar skal melde frå dersom det oppstår forhold som fører til endringar i høve til føresetnadane som går fram av søknaden eller tilsegnsvedtaket. Rapporteringsplikta er nærare forklart i dei enkelte ordningane.
+Tilskotsmottakaren skal be om godkjenning på førehand frå Distriktssenteret, dersom det er ønskeleg å gjere endringar i prosjektet det er søkt om støtte til. Distriktssenteret skal då vurdere om tilskotet skal reduserast, trekkast tilbake, eller om endringane samsvarar med forskrift og tilskotsbrev.
