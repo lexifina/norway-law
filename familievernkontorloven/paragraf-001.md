@@ -1,0 +1,4 @@
+# § 1. Familievernkontorenes oppgaver
+Familievernet er en spesialtjeneste som har familierelaterte problemer som sitt fagfelt. Familievernkontorene skal gi et tilbud om behandling og rådgivning der det foreligger vansker, konflikter eller kriser i familien. Familievernkontorene skal foreta mekling etter lov om ekteskap § 26 og barneloven § 51. Familievernkontorene skal bistå der retten oppnevner en ansatt fra familievernet etter barnelova § 65 a.
+Familievernkontorene bør også drive utadrettet virksomhet om familierelaterte tema. Dette kan bestå av veiledning, informasjon og undervisning rettet mot hjelpeapparatet og publikum.
+Familier, par eller enkeltpersoner kan henvende seg direkte til et familievernkontor. Lege, psykolog, medisinsk eller sosial institusjon eller offentlig myndighet kan henvise klienter til familievernkontor.
