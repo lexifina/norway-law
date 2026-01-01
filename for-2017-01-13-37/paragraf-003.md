@@ -1,0 +1,5 @@
+# § 3. Gebyr for behandling av søknad om driftstillatelse
+Den som søker driftstillatelse for taubane skal betale gebyr.
+Gebyret for søknad om driftstillatelse skal dekke Statens jernbanetilsyns kostnader med saksbehandlingen og omfatter tid til forberedelse, dokumentgjennomgang, besiktelse, rapportering, prøver og utsendelse av nødvendige dokumenter m.m.
+Gebyret for behandling av søknad om driftstillatelse fastsettes ut i fra klassifiseringsreglene i § 2 sjette ledd. Saksbehandlingen av driftstillatelse for ny taubane, flytting av eksisterende taubane samt sammensetting av brukte komponenter til ny taubane faktureres med et beløp tilsvarende to ganger årsgebyret jf. § 2 sjette ledd. Saksbehandling av driftstillatelse ved endring av eksisterende taubane faktureres med et beløp tilsvarende årsgebyret jf. § 2 sjette ledd. Gebyret for søknad om driftstillatelse etter endring av anlegg skal fastsettes ut ifra slik anlegget fremstår etter at den endringen det er søkt om er gjennomført.
+Reisetid og reisekostnader dekkes av årsgebyret.
