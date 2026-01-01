@@ -1,0 +1,4 @@
+# § 2-2. Personer som ikke er bosatt på Svalbard
+Personer som tar midlertidig opphold på Svalbard og der utfører arbeid eller utøver næringsvirksomhet, skal svare skatt til Svalbard av inntekt vunnet ved slikt arbeid eller virksomhet dersom oppholdet varer sammenhengende i minst 30 dager.
+Personer som tar midlertidig opphold på Svalbard og der mottar ytelser som nevnt i skatteloven § 5-10 bokstav c, skal svare skatt til Svalbard av ytelsene dersom oppholdet varer sammenhengende i minst 30 dager, og vedkommende var i aktivt arbeid på Svalbard da retten til utbetaling oppstod. Departementet kan gi forskrift om at skatteplikten til Svalbard skal bestå ved midlertidig opphold utenfor Svalbard.
+Personer hjemmehørende utenfor Svalbard skal svare skatt av formue i og inntekt av fast eiendom og anlegg med tilbehør som ligger på Svalbard. Det kan kreves fradrag for gjeld stiftet til erverv av slik formue og renter av denne gjelden.
