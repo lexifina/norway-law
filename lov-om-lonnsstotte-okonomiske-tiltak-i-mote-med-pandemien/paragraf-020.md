@@ -1,0 +1,4 @@
+# § 20. Forfall for krav om tilbakebetaling og administrativ sanksjon
+(1) Krav på tilbakebetaling etter § 19 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.
+(2) Før utbetaling av tilskudd skjer etter § 18, kan krav på tilbakebetaling likevel motregnes i utbetalingsbeløpet, selv om tilbakebetalingskravet ikke er forfalt etter første ledd.
+(3) Administrative sanksjoner ilagt etter § 15, forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er utløpt, eller ved klage, tre uker etter at klagen er avgjort. Dersom det innvilges utsatt iverksetting av krav etter skatteforvaltningsloven § 14-10 annet ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen, eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.
