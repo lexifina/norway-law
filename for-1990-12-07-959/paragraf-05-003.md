@@ -1,0 +1,5 @@
+# § 5-3. Plikter ved konsesjon for fjernvarmeanlegg
+a) Drift og vedlikehold Konsesjonæren plikter til enhver tid å holde anlegget i tilfredsstillende driftssikker stand, herunder sørge for vedlikehold og modernisering som sikrer kundene en pålitelig energilevering.
+b) Miljø og landskap Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at allmennheten påføres minst mulig miljø- og landskapsmessige ulemper i den grad det kan skje uten urimelige kostnader og ulemper for konsesjonæren.
+c) Beredskap Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at det tas beredskapsmessige hensyn.
+d) Nedleggelse og rydding av anlegg Ved nedleggelse plikter den tidligere konsesjonæren å fjerne det nedlagte anlegg og så langt det er mulig føre landskapet tilbake i naturlig tilstand. Det kan bestemmes at nedgravde deler av anlegget ikke skal graves opp igjen. Norges vassdrags- og energidirektorat kan sette frist for arbeidet og treffe bestemmelser om tilbakeføringen.
