@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med forskriften er å sikre bærekraftig forvaltning av de viltlevende marine ressursene gjennom å gi næringen effektive verktøy til å oppfylle opplysningsplikten, tilrettelegge for effektiv kontroll med ressursuttaket, omsetning av fisk mv., samt gi et godt grunnlag for statistikk og forskning ved å sette krav til utstyr og bruken av dette for fastsettelse av fangstsammensetningen i industrilandinger.

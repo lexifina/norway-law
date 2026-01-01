@@ -1,0 +1,2 @@
+# § 8. Krav til prøvetrekkersystem
+Mottaksanlegget skal ha et prøvetrekkersystem som er egnet til å fastsette fangstens arts- og størrelsessammensetning. Prøvetrekkersystemet skal bestå av prøvetrekker med styrings- og dataenhet og oppsamlingsbeholder for prøver. Mottaker skal videre ha et system for å føre prøveuttaket fra prøvetrekkeren til prøvetakingsrommet som sikrer at ingen deler av prøvene kan påvirkes eller gå tapt.

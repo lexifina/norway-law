@@ -1,0 +1,2 @@
+# § 14. Innsending av prøvetakingsresultatet
+Den akkrediterte tredjeparten skal sende prøvetakingsresultatet fra landingen elektronisk til fiskesalgslaget. Innsendingen av prøvetakingsresultatet skal inneholde referanse til landings- og/eller sluttseddelen med fiskesalgslag, dokumenttype og seddelnummer. Fiskesalgslaget skal videresende prøvetakingsresultatet i et bestemt format og avtalt frekvens til Fiskeridirektoratet.
