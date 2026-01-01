@@ -1,0 +1,2 @@
+# § 1-2. Formål
+Lovens formål er å legge til rette for sikker, korrekt og effektiv registrering av grunnleggende personopplysninger om den enkelte, herunder hvilke personer som er bosatt i Norge. Loven skal sikre at registreringspliktige personer tildeles et unikt identifikasjonsnummer. Loven skal bidra til at opplysningene i Folkeregisteret skal kunne brukes til myndighetsoppgaver og offentlig forvaltning, forskning, statistikk og til å ivareta grunnleggende samfunnsbehov.

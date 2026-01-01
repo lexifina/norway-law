@@ -1,0 +1,6 @@
+# § 2-2. Identifikasjonsnummer
+Ved første gangs registrering i Folkeregisteret tildeles en person som er bosatt eller født i Norge, et fødselsnummer. Fødselsnummer kan også tildeles norsk statsborger bosatt i utlandet. For andre personer kan det tildeles et d-nummer etter regler fastsatt i forskrift.
+Fødselsnummeret består av elleve siffer. De seks første sifrene er personens fødselsdato i rekkefølge to siffer for dag, to for måned og to for år. De fem siste sifrene er individsiffer og kontrollsiffer. D-nummer er bygget opp på samme måte, likevel slik at første siffer er tillagt fire.
+Fødselsnummeret skal endres når fødselsdato eller kjønn endres, eller dersom det er besluttet i medhold av reglene i politiloven. Fødselsnummer kan ellers endres når adopsjonsmyndigheten har bedt om nytt fødselsnummer der det er innvilget adopsjon av spedbarn etter adopsjonsloven § 14.
+Det kan registreres fødselsnummer til bruk ved etablering av dekkidentitet til politiet eller forsvarspersonell, når det er besluttet av kompetent politi- eller forsvarsmyndighet.
+Departementet kan gi forskrift om oppbygging av individ- og kontrollsiffer, hvem som kan tildeles d-nummer og krav til dokumentasjon og saksbehandling.
