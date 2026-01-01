@@ -1,0 +1,5 @@
+# § 20. Hjelpedokument
+Et dokument som ikke kan registreres, kan leveres inn som hjelpedokument når det tjener som bevis for et forhold av betydning for registrering eller sletting av et annet dokument (hoveddokument). Når hoveddokumentet utstedes etter fullmakt, skal det leveres hjelpedokument som viser fullmaktsforholdet. Gjelder fullmakten rett til å utstede skjøte eller pantedokument, jfr. sjølovens § 15, annet ledd, gjelder reglene i § 18 om bekreftelse av underskrift tilsvarende for fullmaktsgivende underskrift.
+Er hjelpedokumentet en utskrift av offentlig protokoll eller bevitnelse fra offentlig myndighet gitt på grunnlag av opplysninger som fremgår av offentlig protokoll eller dokument, er det ikke nødvendig å oppbevare hjelpedokumentet ved registerførerens kontor. Med mindre annet er bestemt skal andre hjelpedokumenter lagres elektronisk.
+Det er tilstrekkelig med ett hjelpedokument selv om registreringen gjelder flere skip.
+Sjøfartsdirektoratet avgjør om hjelpedokumenter kan sendes inn elektronisk.

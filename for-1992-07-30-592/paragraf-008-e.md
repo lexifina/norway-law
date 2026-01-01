@@ -1,0 +1,4 @@
+# § 8e. Utlevering og oppbevaring av nasjonalitetsbevis
+Nasjonalitetsbeviset skal utleveres til rederen/skipsføreren eller den han har bemyndiget. Dokumentet kan også utleveres gjennom Sjøfartsdirektoratets stasjoner. Befinner skipet seg i utlandet, skal nasjonalitetsbeviset sendes rederen for videresending til skipsfører.
+Når nasjonalitetsbeviset er mottatt, skal rederiet sende skipsregisteret en skriftlig bekreftelse om det. Rederiet skal returnere et tidligere nasjonalitetsbevis eller et midlertidig nasjonalitetsbevis som måtte være om bord. Er et skip bareboat-utflagget etter NIS-loven § 16, skal eieren returnere et tidligere nasjonalitetsbevis eller et midlertidig nasjonalitetsbevis som måtte være om bord.
+Registreringspliktige skip, skip som er bareboatregistrert etter NIS-loven § 14, og skip i utenriksfart, skal oppbevare det originale nasjonalitetsbeviset om bord.

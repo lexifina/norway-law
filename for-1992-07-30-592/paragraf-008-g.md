@@ -1,0 +1,2 @@
+# § 8g. Forbud mot registrering
+Skip som er oppført på lister i regionale fiskeriforvaltningsorganisasjoner over fartøy som har tatt del i ulovlig, urapportert eller uregulert fiske, samt fartøy som er underlagt forbud i medhold av lov om forvaltning av viltlevande marine ressursar § 51 første ledd a og b, og som er oppført på Fiskeridirektoratets liste over slike fartøy, kan ikke registreres i Norsk Internasjonalt Skipsregister.

@@ -1,0 +1,3 @@
+# § 16. Klarhet og form
+Et dokument til registrering skal ha tydelig skrift. Det skal dessuten være så klart formulert at det er utvilsomt hva rettsstiftelsen omfatter og hvor den skal innføres. Dokumentet bør være kort og så vidt mulig bare inneholde opplysninger som kan registreres, jfr. sjølovens § 20. Inneholder dokumentet opplysninger som ikke kan registreres, bør disse stå samlet for seg til slutt i dokumentet. Er dokumentet ikke redigert slik, kan det forlanges at rekvirenten erstatter det med et nytt dokument.
+Partene skal være entydig identifisert. For personer tildelt norsk fødselsnummer (fødselsdato + personnummer) skal dette oppgis. For personer som ikke er tildelt norsk fødselsnummer, skal det oppgis fødselsår, dato og nasjonalitet.

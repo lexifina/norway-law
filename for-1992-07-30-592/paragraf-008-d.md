@@ -1,0 +1,5 @@
+# § 8d. Utstedelse av nasjonalitetsbevis
+Straks registreringspliktige skip og skip som er bareboatregistrert etter NIS-loven § 14 er innført i registeret, utstedes det nasjonalitetsbevis til dem.
+Ved endring av registrert navn, eier eller hjemsted, skal nytt nasjonalitetsbevis utstedes for ombytting med det gamle. Dette gjelder også ikke-registreringspliktige skip for hvilke det på eiers anmodning er utstedt nasjonalitetsbevis.
+Er et nasjonalitetsbevis blitt uleselig eller bortkommet, kan nytt nasjonalitetsbevis utstedes av skipsregisterføreren etter skriftlig anmodning fra rederi/skipsfører. Det nye nasjonalitetsbeviset påstemples «duplikat».
+Dersom nasjonalitetsbeviset er bortkommet, må dette bekreftes av rederi/skipsfører samtidig som det anmodes om nytt nasjonalitetsbevis. Dersom nasjonalitetsbeviset er ødelagt, skal det ødelagte dokumentet innsendes sammen med anmodning om utstedelse av nytt dokument. Kommer tapt nasjonalitetsbevis til rette etter at nytt nasjonalitetsbevis er utstedt, skal rederiet/skipsføreren omgående returnere duplikatet til skipsregisterføreren. Kopi av utstedt nasjonalitetsbevis skal lagres elektronisk hos Sjøfartsdirektoratet.
