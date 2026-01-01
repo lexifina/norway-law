@@ -1,0 +1,2 @@
+# § 9. Krav om sanering av materiell og kjøretøy før flytting ut av sonen under og etter øvelsen
+Militært materiell som er brukt i de svenske og finske delene av sonen under øvelsen Cold Response, skal saneres i henhold til det norske Forsvarets interne bestemmelser om tiltak for å hindre spredning av sykdommer før det tas i bruk utenfor det geografiske området som er, eller har vært, sonen. Sanering av materiellet og kjøretøyet kan unnlates etter en skriftlig risikovurdering dersom den viser at sanering ikke er nødvendig.
