@@ -1,0 +1,3 @@
+# § 17. Krav om registrering av metadata om konverterte arkiv
+Når eit organ skal konvertere arkiv etter § 16 første ledd, skal organet registrere naudsynte metadata om det konverterte arkivet, slik at det ikkje blir vanskelegare å finne fram i og bruke arkivet etter konverteringa. Metadataa skal gjere det mogleg å finne fram til dei ulike delane av dokumentasjonen. Det skal registrerast kven som har skapt arkivet, og kva som var den opphavelege strukturen til arkivet.
+Eit organ som skal avlevere eit arkiv til Nasjonalarkivet, skal avtale med Nasjonalarkivet kva metadata det skal tilføre det konverterte arkivet.

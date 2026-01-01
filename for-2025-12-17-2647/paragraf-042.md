@@ -1,0 +1,2 @@
+# § 42. Betaling for tenester
+Nasjonalarkivet, fylkeskommunale og kommunale bevaringsinstitusjonar og dei som tek vare på arkiv etter arkivlova § 14 sjette ledd, kan krevje betaling for tenester som ligg utanfor innsynsretten etter offentleglova, forvaltningsloven eller anna lov. Betalinga kan dekke faktiske kostnader, arbeidstida som går med, og eit tillegg som gir ei rimeleg avkastning av investeringane.
