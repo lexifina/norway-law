@@ -1,0 +1,5 @@
+# § 3. Forholdet til underholdsbidrag
+Det er et vilkår for å få rett til bidragsforskott at underholdsbidrag som er avtalt eller fastsatt innkreves gjennom Innkrevingsmyndigheten.
+Når det gis bidragsforskott, eller det er satt fram krav om dette, kan bidragsfogden av eget tiltak fastsette bidrag eller endre et løpende bidrag etter reglene i barneloven. Bidraget kan derved ikke settes høyere enn nødvendig for å dekke folketrygdens krav på refusjon for utlagt forskott, og nedsettelse av løpende bidrag kan bare foretas dersom dette utelukkende har betydning for refusjonskravet.
+Bidragsforskott ytes selv om bidrag ikke blir fastsatt, når dette skyldes manglende økonomisk evne hos den bidragspliktige. Det samme gjelder hvis farskap ikke er fastsatt, hvis barnet er adoptert av en enslig adoptant, eller hvis den ene av foreldrene er død og barnet ikke har rett til barnepensjon fra folketrygden eller tilsvarende ytelse fra utlandet.
+Departementet kan gi forskrift om anvendelsen av bestemmelsene i annet og tredje ledd i paragrafen her.
