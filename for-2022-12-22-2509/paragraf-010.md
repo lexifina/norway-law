@@ -1,0 +1,2 @@
+# § 10. Regnskapsplikt og revisjon
+Private sentre har plikt til å føre regnskap etter regnskapsloven. Disse sentrenes årsregnskap skal revideres av statsautorisert eller registrert revisor. Kommunale sentre skal føre årsregnskap i henhold til kommuneloven og forskrifter til denne. Barne-, ungdoms- og familieetaten og statsforvalteren har rett til innsyn i regnskapene til private og kommunale sentre.

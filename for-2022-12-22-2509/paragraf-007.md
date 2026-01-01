@@ -1,0 +1,3 @@
+# § 7. Bortfall av godkjenning
+Dersom senteret ikke lenger oppfyller vilkårene for godkjenning, skal regionalt nivå i Barne-, ungdoms- og familieetaten treffe vedtak eller beslutning om bortfall av godkjenning. Dersom det anses forsvarlig ut fra hensynet til familiene, kan det i stedet fastsettes en frist for retting av de mangler som medfører at vilkårene for godkjenning ikke lenger er oppfylt.
+Statsforvalteren og barnevernstjenesten i de kommunene som har truffet vedtak opphold på senteret skal gis melding om vedtak eller beslutning om bortfall av godkjenning. Det samme gjelder ved fastsettelse av frist for retting av mangler.
