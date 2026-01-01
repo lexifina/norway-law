@@ -1,0 +1,2 @@
+# § 14. Anmerkning i skipsregisteret
+Et dokument anmerkes (ekstraheres) i skipsregisteret ved å innføre dokumentjournalnummer, dato og klokkeslett for mottakelsen, dokumentets betegnelse samt et kort utdrag av de viktigste rettsstiftelsene, herunder alle pengeheftelsene. Tilsvarende gjelder for tvangsforretninger. Melding, målebrev, skipets data og opplysninger om eierforhold mv. anmerkes i samsvar med de til enhver tid gjeldende bestemmelser for føring av registeret.

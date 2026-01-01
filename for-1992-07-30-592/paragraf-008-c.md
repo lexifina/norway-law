@@ -1,0 +1,2 @@
+# § 8c. Nasjonalitetsbevisets innhold
+Nasjonalitetsbeviset skal inneholde opplysninger om skipets navn, kjenningssignal, IMO identifikasjonsnummer, byggested og -år, brutto- og nettotonnasje, skipstype, hjemsted, register samt eierens navn og adresse. Bareboatregistreres et skip, skal nasjonalitetsbeviset i tillegg inneholde opplysninger om nasjonalitetsbevisets utløpsdato og befrakterens navn og adresse. Nasjonalitetsbeviset utstedes på formular fastsatt av Skipsregistrene.
