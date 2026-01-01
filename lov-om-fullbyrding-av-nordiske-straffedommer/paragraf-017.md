@@ -1,0 +1,2 @@
+# § 17
+Vedtak om fullbyrding av straff mv. eller om iverksetting av tilsyn eller et liknende tiltak her i riket i medhold av reglene i denne lov gjøres av departementet etter at det er satt fram begjæring om det fra rette myndighet i vedkommende land. Departementet prøver om begjæringen fyller lovens krav og om den i det enkelte tilfelle bør etterkommes. Lyder dommen på frihetsstraff, samfunnsstraff, samfunnstjeneste eller en liknende reaksjon, skal den dømte i alminnelighet gis anledning til å uttale seg før vedtak gjøres.

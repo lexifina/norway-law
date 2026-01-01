@@ -1,0 +1,3 @@
+# § 11
+Treffes det i Danmark, Finland, Island eller Sverige beslutning om fullbyrding av straff for en handling som det her i riket er gitt betinget dom eller samfunnsstraff for, har denne beslutning samme virkning som en avgjørelse truffet etter reglene i straffeloven § 39 eller § 52.
+Blir en person som her i riket har fått betinget dom eller dom på samfunnsstraff, i Danmark, Finland, Island eller Sverige dømt for en straffbar handling begått i prøvetiden eller gjennomføringstiden uten at den nye dommen avgjør spørsmålet om endring av den betingede dom eller fullbyrdelse av subsidiær frihetsstraff, kan spørsmålet om den betingede dommen eller den subsidiære frihetsstraffen skal fullbyrdes, bringes inn for tingretten til avgjørelse.
