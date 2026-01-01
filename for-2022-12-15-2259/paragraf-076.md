@@ -1,0 +1,4 @@
+# § 76. Følgjer av brot på opplysningsplikta
+Dersom ein låntakar med vilje eller aktlaust har brote opplysningsplikta og såleis har fått eller prøvd å få utbetalt eller godskrive lån eller stipend som låntakaren ikkje har rett til, kan låntakaren misse retten til sletting av renter, betalingsutsetjing og sletting av gjeld. Lånekassen kan krevje beløpet tilbakebetalt og rekne renter frå det tidspunktet låntakaren fekk tildelt lån eller stipend. Heile gjelda kan seiast opp og krevjast inn.
+Dersom ein låntakar med vilje eller aktlaust har brote opplysningsplikta og såleis har fått sletta renter eller gjeld som låntakaren ikkje har rett til, kan låntakaren misse retten til betalingsutsetjing og sletting av renter og gjeld.
+I vurderinga av misleghaldet skal hovudvekta leggjast på kor lenge misleghaldet har vart, og kor mykje urettkommen lån eller stipend eller sletting av renter eller gjeld låntakaren har fått.
