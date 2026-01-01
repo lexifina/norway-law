@@ -1,0 +1,4 @@
+# § 1. Formål
+Formålet med forskriften er at barnevernstjenesten ivaretar sitt løpende og helhetlige ansvar for å følge opp barn på institusjon. Forskriften skal bidra til at barnevernstjenesten har god kunnskap om barnets omsorgssituasjon og utvikling gjennom hele institusjonsoppholdet. Forskriften skal også bidra til at barnevernstjenesten systematisk og regelmessig vurderer om barnet får hjelp, omsorg og behandling tilpasset det enkelte barnets behov, eller om det er behov for endringer eller ytterligere tiltak.
+Forskriften skal bidra til at barnevernstjenesten og institusjonen samarbeider tett for å ivareta hensynet til barnets beste under hele institusjonsoppholdet.
+Barnevernstjenesten skal i sin oppfølging av barn på institusjon ta hensyn til barnets etniske, kulturelle, språklige og religiøse bakgrunn. Samiske barns særskilte rettigheter skal ivaretas.
