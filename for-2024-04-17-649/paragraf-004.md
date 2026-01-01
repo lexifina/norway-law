@@ -1,0 +1,2 @@
+# § 4. Gebyrsatser
+Ved kontroll skal den ansvarlige for virksomheten betale gebyr etter følgende satser:Sats for endags stedlig tilsynSats for flerdags stedlig tilsynSats for digitalt tilsynSats for dokumenttilsyn1kr 53 800kr 107 700kr 51 100kr 9 5002kr 43 100kr 96 900kr 40 900kr 8 2003kr 32 300kr 86 100kr 30 600kr 6 8004kr 21 600kr 75 300kr 20 400kr 5 4005kr 10 800kr 64 600kr 10 200kr 4 1006kr 5 300kr 53 800kr 5 100kr 2 800
