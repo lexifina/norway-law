@@ -1,0 +1,3 @@
+# § 6-4. Registreringsnektelse
+(1) Registerføreren skal nekte å registrere de meldte opplysningene hvis meldingen eller meldte opplysninger ikke oppfyller kravene i § 6-1 første ledd. Registerføreren skal også nekte registrering dersom meldte opplysninger eller grunnlaget for dem er så utydelige eller så uklare at det ikke er mulig å fastslå hvordan opplysningene skal forstås.
+(2) Dersom dokumentasjon som skal inngå i meldingen etter § 5-4, ikke er sendt inn, skal registerføreren varsle innsenderen av meldingen og gi en rimelig frist til å rette forholdet. Varselet skal også sendes til enheten. I varselet skal det opplyses om at de meldte opplysningene vil bli nektet registrert hvis forholdet ikke blir rettet innen fristen.
