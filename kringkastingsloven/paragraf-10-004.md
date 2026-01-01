@@ -1,0 +1,5 @@
+# § 10-4. Tvangsmulkt
+For å sikre at plikter etter bestemmelsene i kapittel 2, med unntak av § 2-20, kapittel 3, 4 og 5 A og §§ 6-4, 8-1, 8-2 og 8-5 eller forskrift eller enkeltvedtak fastsatt i medhold av disse bestemmelsene blir oppfylt, kan tilsynsmyndigheten ilegge den ansvarlige for oppfyllelsen tvangsmulkt.
+Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Ved løpende mulkt kan tilsynsmyndigheten bestemme at mulkten enten skal begynne å løpe en uke etter vedtaket om tvangsmulkt, eller fra en særskilt fastsatt frist for oppfyllelse av plikten dersom denne fristen er utløpt uten at plikten er oppfylt. Ved tvangsmulkt i form av et engangsbeløp kan tilsynsmyndigheten bestemme at mulkten skal betales ved en særskilt fastsatt frist for oppfyllelse av plikten dersom denne fristen er utløpt uten at plikten er oppfylt.
+Tvangsmulkt tilfaller statskassen og er tvangsgrunnlag for utlegg.
+Kongen kan gi forskrift om ileggelse av tvangsmulkt, herunder om vilkår for tvangsmulkt og om tvangsmulktens størrelse og renter ved forsinket betaling.

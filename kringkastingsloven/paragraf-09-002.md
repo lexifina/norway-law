@@ -1,0 +1,2 @@
+# § 9-2. Forbud mot medvirkning m.v.
+Det er forbudt å medvirke til at skip, luftfartøyer o.l. eller anlegg og innretninger av enhver art som brukes eller er beregnet til å brukes til kringkasting på det åpne hav eller i luftrommet over, passerer eller oppholder seg på norsk territorium – herunder sjøterritoriet og luftterritoriet –, selv om sendingene ikke er av den art som nevnt i § 9-1. Forbudet gjelder ikke når det i en nødsituasjon er uomgjengelig nødvendig å søke inn på norsk territorium for å redde menneskeliv, fartøy eller last.

@@ -1,0 +1,2 @@
+# § 9-1. Forbud mot kringkasting m.v.
+Det er forbudt å opprette eller drive kringkasting fra skip, luftfartøy e.l. og fra anlegg av enhver art på det åpne hav eller i luftrommet over, dersom sendingen er egnet til å mottas i Norge, Danmark, Finland eller Sverige eller i annet land tilsluttet den europeiske overenskomst av 22. januar 1965 om å forhindre kringkasting utenfor territorialgrensene, eller dersom det forstyrrer radiomottaking der. Radiomottaking omfatter så vel kringkastingsvirksomhet som radionavigasjon, flynavigasjon m.v.
