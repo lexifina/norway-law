@@ -1,0 +1,9 @@
+# § 36. Iverksettelse av vedtak som gjelder embetsmenn
+(1) Vedtak om ordensstraff truffet av et departement kan påklages innen klagefristens utløp.
+(2) Vedtak om ordensstraff kan ikke iverksettes før klagefristen er ute. Påklages vedtaket innen klagefristens utløp, kan det ikke iverksettes før klagen er avgjort.
+(3) Klageinstansens vedtak om ordensstraff kan ikke iverksettes før to uker etter at underretning om vedtaket er kommet frem til embetsmannen.
+(4) For vedtak om suspensjon eller avskjed truffet av Kongen i statsråd, er søksmålsfristen åtte uker fra det tidspunktet underretning om vedtaket er kommet frem til embetsmannen. Fristen er likevel seks måneder dersom embetsmannen bare krever erstatning. Partene kan i den enkelte sak bli enige om en lengre søksmålsfrist.
+(5) Et vedtak om avskjed av en embetsmann i medhold av § 27 første ledd bokstav a eller b kan ikke iverksettes før to uker etter at underretning om vedtaket er kommet frem til embetsmannen. Dersom embetsmannen i løpet av disse to ukene reiser søksmål, eller skriftlig varsler arbeidsgiver om at søksmål vil bli reist innen fristen på åtte uker som er nevnt i fjerde ledd, kan vedtaket ikke iverksettes før saken er rettskraftig avgjort, eller før søksmålsfristen er utløpt.
+(6) Dersom søksmål reises, kan likevel retten, etter krav fra arbeidsgiver, ved kjennelse bestemme at vedtaket skal iverksettes før saken er rettskraftig avgjort, dersom retten finner det urimelig at iverksettelse av vedtaket utsettes. Retten skal samtidig fastsette frist for iverksettelsen av vedtaket.
+(7) Femte ledd annet punktum gjelder tilsvarende når embetsmenn reiser søksmål om ordensstraff.
+(8) Ved søksmål fra embetsmenn, som nevnt i Grunnloven § 22 første ledd, gjelder arbeidsmiljøloven § 15-14 tredje ledd annet punktum og fjerde ledd og §§ 17-1 og 17-7 tilsvarende.
