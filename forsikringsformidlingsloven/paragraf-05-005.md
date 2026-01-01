@@ -1,0 +1,4 @@
+# § 5-5. Forsikringsformidlingsforetak med hovedsete utenfor EØS
+Forsikringsformidlingsforetak med hovedsete utenfor EØS kan etter særskilt tillatelse fra Finanstilsynet etablere filial her i riket. Bestemmelsene gitt i og i medhold av loven her gjelder tilsvarende for filialen så langt de passer.
+Tillatelse etter første ledd første punktum kan bare omfatte virksomhet som tilsvarer virksomheten foretaket har tillatelse til å drive i hjemstaten, og bare dersom foretaket er undergitt betryggende tilsyn i hjemstaten. Før et utenlandsk forsikringsformidlingsforetak starter sin virksomhet her i riket, skal det være etablert et tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i foretakets hjemstat og Finanstilsynet.
+Departementet kan i forskrift gi regler som utfyller bestemmelsene i paragrafen her.

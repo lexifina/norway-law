@@ -1,0 +1,4 @@
+# § 3-3. Registrering som forsikringsagentforetak eller aksessorisk forsikringsagentforetak, kontroll av vilkår mv.
+For foretak som har avtale om formidling av forsikringer med forsikringsforetak eller forsikringsforetakets agenter, skal forsikringsforetaket påse at vilkårene for registrering i § 3-4 er oppfylt. Dersom vilkårene er oppfylt, skal forsikringsforetaket gi en bekreftelse til foretaket.
+Ved søknad om registrering som forsikringsagentforetak eller aksessorisk forsikringsagentforetak skal foretaket vedlegge bekreftelse som nevnt i første ledd som dokumentasjon for at vilkårene for registrering er oppfylt. Finanstilsynet kan be om utfyllende informasjon av betydning for Finanstilsynets vurdering av søknaden.
+Departementet kan i forskrift gi regler om forsikringsforetakets bekreftelse, opphør av agentavtalen og oppbevaring av dokumentasjon.

@@ -1,0 +1,2 @@
+# § 2-2. Gjenforsikringsmegling
+Med gjenforsikringsmegling menes forsikringsformidling som består i å gi et forsikringsforetak råd i forbindelse med inngåelse av gjenforsikringsavtaler ut fra en analyse av et så stort antall av de på markedet disponible forsikringsløsninger som mulig, eller å presentere forsikringsforetak for forsikringsløsninger fra ett eller flere gjenforsikringsforetak, uten at det er inngått uttrykkelig avtale med gjenforsikringsforetak om dette.

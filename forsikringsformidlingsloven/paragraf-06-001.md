@@ -1,0 +1,4 @@
+# § 6-1. Kvalifikasjonskrav for ledelsen i forsikringsmeglingsforetak og forsikringsagentforetak
+Styremedlemmer, varamedlemmer, daglig leder og andre personer i den faktiske ledelsen av forsikringsformidlingsvirksomheten skal til enhver tid ha nødvendige kvalifikasjoner og nødvendig yrkeserfaring til å utøve stillingen eller vervet.
+Daglig leder og andre personer i den faktiske ledelsen av forsikringsformidlingsvirksomheten skal årlig gjennomføre minst 15 timer etterutdanning som er relevant for virksomheten, og som er godkjent av Finanstilsynet. Etterutdanningen skal dokumenteres.
+Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder fastsette krav til kunnskap og kompetanse for ledelsen og gi regler om etterutdanning.
