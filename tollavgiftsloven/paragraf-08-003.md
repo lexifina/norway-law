@@ -1,0 +1,2 @@
+# § 8-3. Overført taushetsplikt
+Hvis opplysninger gis i tilfeller som nevnt i § 8-1 første ledd annet punktum eller fjerde ledd eller § 8-2, til noen som ikke selv har taushetsplikt etter annen lov, gjelder taushetsplikten etter § 8-1 tilsvarende for den som får opplysningene. Den som gir opplysningene, skal samtidig gjøre oppmerksom på dette. Opplysningene kan likevel brukes til det formålet som begrunnet at de ble gitt.

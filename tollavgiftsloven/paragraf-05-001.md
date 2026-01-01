@@ -1,0 +1,3 @@
+# § 5-1. Nedsettelse av tollavgiftssats for landbruksvarer
+(1) Departementet kan sette ned tollavgiftssatsene for landbruksvarer etter § 3-1 første ledd bokstav b og c og § 3-2 ved generell nedsettelse etter § 5-2, individuell nedsettelse etter § 5-3 eller fastsetting av tollkvoter der kvoteandeler tildeles ved auksjon eller på annen måte etter § 5-4.
+(2) Departementet skal på egnet måte kunngjøre forvaltningsvedtak i budsjettåret om generelle endringer i de tollavgiftssatsene som Stortinget har fastsatt. Tilsvarende gjelder ved tildeling av tollkvoteandeler ved auksjon etter § 5-4. Kunngjøring i Norsk Lovtidend etter forvaltningsloven § 38 kan unnlates for slike kunngjøringer.

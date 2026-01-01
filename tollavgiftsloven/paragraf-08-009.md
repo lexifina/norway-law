@@ -1,0 +1,5 @@
+# § 8-9. Tollrepresentant
+(1) Enhver som har rettigheter eller plikter overfor tollmyndighetene, har rett til å la seg bistå eller representere av en tollrepresentant. Tollrepresentanten handler på vegne av den representerte og i den representertes navn. Den som leverer melding for tollavgift etter § 9-2 i eget navn, men på vegne av en annen fysisk eller juridisk person, er også tollrepresentant.
+(2) Tollrepresentanten skal opplyse tollmyndighetene om at vedkommende handler på vegne av den representerte. Dersom tollrepresentanten leverer melding for tollavgift i eget navn, men handler på vegne av en annen fysisk eller juridisk person, skal vedkommende opplyse om det.
+(3) Tollmyndighetene kan kreve at tollrepresentanten sannsynliggjør at vedkommende handler på vegne av den representerte. Dersom dette ikke kan sannsynliggjøres, anses vedkommende for å handle i eget navn og på egne vegne.
+(4) Departementet kan gi forskrift om tollrepresentantens opplysningsplikt etter annet ledd og om unntak fra plikten.

@@ -1,0 +1,2 @@
+# § 3-2. Nedsettelse av tollavgiftssatser i budsjettåret
+For å legge til rette for innførsel av landbruksvarer som supplement til norsk produksjon, og for å møte forbrukernes og næringsmiddelindustriens behov, kan departementet sette ned de ordinære tollavgiftssatsene såfremt avtale med fremmed stat eller internasjonal organisasjon ikke er til hinder for det. Nedsettelse av tollavgiftsatser skal ivareta hensynet til avsetningsgrunnlaget for norsk produksjon av landbruksvarer og hindre uønskede markedsforstyrrelser. Nedsettelse skjer etter kapittel 5.

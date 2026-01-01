@@ -1,0 +1,5 @@
+# § 2-4. Medansvar for tollavgift
+(1) Tollrepresentant som ved levering av melding for tollavgift etter § 9-2 har medvirket til å gi opplysninger som fører til at tollavgift ikke blir riktig fastsatt, er medansvarlig for tollavgift dersom vedkommende visste eller burde ha visst at opplysningene var uriktige eller ufullstendige.
+(2) Den som har medvirket til manglende overholdelse av vilkår som nevnt i § 2-1 annet ledd, og plikter som nevnt i § 2-1 tredje ledd, er medansvarlig for tollavgift dersom vedkommende visste eller burde ha visst at vilkår eller plikter ikke er oppfylt. Det samme gjelder den som har ervervet eller oppbevart varen. For den som har ervervet eller oppbevart varen, vurderes kunnskapen på tidspunktet for mottak av varen.
+(3) Den som har benyttet tollrepresentant som i eget navn har levert melding for tollavgift, jf. § 8-9 første ledd tredje punktum, er medansvarlig for tollavgift.
+(4) Departementet kan gi forskrift om at rederiet er medansvarlig for tollavgift ved innførsel av proviant i strid med vilkår for fritak.

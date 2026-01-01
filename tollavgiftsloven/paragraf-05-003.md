@@ -1,0 +1,4 @@
+# § 5-3. Individuell nedsettelse av tollavgiftssatser for landbruksvarer og bearbeidede landbruksvarer etter søknad
+(1) Departementet kan treffe enkeltvedtak om å sette ned tollavgiftssatsen på en angitt mengde av en bestemt landbruksvare eller bearbeidet landbruksvare, innenfor et angitt tidsrom. Vedtaket skal være rettet mot én eller flere bestemte fysiske eller juridiske personer som har søkt om dette.
+(2) Departementet kan treffe enkeltvedtak uten mengdebegrensning når det anses hensiktsmessig. Departementet kan også treffe enkeltvedtak med virkning utover budsjettåret med forbehold om at tolltariffen ikke endres.
+(3) Departementet kan gi forskrift om nedsettelse av tollavgiftssats, herunder om saksbehandling, opplysningsplikt, kontroll, administrative sanksjoner og gyldighetsperiode. Departementet kan også gi forskrift om leveringsmåten for søknader.
