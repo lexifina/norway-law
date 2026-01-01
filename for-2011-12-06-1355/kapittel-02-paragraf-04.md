@@ -1,0 +1,3 @@
+# § 2-4. Behandling av planer for bygningsmessige arbeider m.m. i arbeidsmiljøutvalg
+En arbeidsgiver som legger fram for arbeidsmiljøutvalget planer for bygningsmessige arbeider eller andre planer som kan få vesentlig betydning for arbeidsmiljøet, jf. lovens § 7-2 (2) bokstav c) og d), skal samtidig gi utvalget beskjed om hvorvidt planene vil bli forelagt Arbeidstilsynet etter arbeidsmiljøloven § 18-9.
+Tilsvarende gjelder når planene behandles av verneombud i virksomheter som ikke har arbeidsmiljøutvalg, eller eventuelt av særskilte lokale arbeidsmiljøutvalg eller lokale eller regionale verneombud, jf. arbeidsmiljøloven § 6-4.

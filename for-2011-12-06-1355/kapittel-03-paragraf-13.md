@@ -1,0 +1,2 @@
+# § 3-13. Saker som gjelder arbeidstakergruppe uten medlem i arbeidsmiljøutvalget
+Når arbeidsmiljøutvalget behandler saker som særlig gjelder en arbeidstakergruppe som ikke er representert i utvalget, skal det tilkalles representanter for denne arbeidstakergruppa. Disse har tale- og forslagsrett i utvalget, men ikke stemmerett. Denne regelen kommer også til anvendelse for de grupper som er nevnt i arbeidsmiljøloven § 1-6.

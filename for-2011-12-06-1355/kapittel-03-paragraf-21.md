@@ -1,0 +1,3 @@
+# § 3-21. Arbeidstilsynets adgang til å pålegge arbeidsgiveren å gi opplæring av verneombud og medlemmer av arbeidsmiljøutvalg
+I tilfelle hvor arbeidsforholdene gjør det nødvendig med en mer omfattende opplæring av verneombud eller utvalgsmedlemmer enn det er besluttet i virksomheten, kan Arbeidstilsynet pålegge arbeidsgiveren å sørge for dette. Arbeidstilsynet kan også fastsette minimumskrav til opplæringen innenfor spesielle bransjer og typer av virksomhet.
+Hvor opplæring ikke er planlagt eller ikke gjennomført, kan Arbeidstilsynet pålegge arbeidsgiveren å gjennomføre opplæring som fastsatt i denne bestemmelse og § 3-18 til § 3-20 og herunder fastsette innholdet og omfanget av opplæringen.

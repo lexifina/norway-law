@@ -1,0 +1,2 @@
+# § 12-2. Adgang til å sette barn som har fylt 13 år til arbeid
+Barn som har fylt 13 år, kan utføre lett arbeid. Med lett arbeid menes ethvert arbeid som på grunn av arbeidsoppgavenes art og de særskilte forhold de skal utføres under, ikke påvirker barns sikkerhet, helse eller utvikling på en uheldig måte, og ikke går ut over deres skolegang, deltakelse i yrkesveiledning eller yrkesrettet opplæring, eller deres mulighet til å få utbytte av undervisning.

@@ -1,0 +1,4 @@
+# § 12-3. Adgang til å sette barn til kulturelt eller lignende arbeid
+Barn som er under 15 år eller er skolepliktig etter lov 17. juli 1998 nr. 61 om grunnskolen og den videregående opplæringa kan utføre kulturelt, kunstnerisk, sportslig eller reklamemessig arbeid så fremt arbeidet ikke påvirker deres sikkerhet, helse eller utvikling på en uheldig måte og ikke går ut over deres skolegang, deltakelse i yrkesveiledning eller yrkesrettet opplæring, eller deres mulighet til å få utbytte av undervisning.
+Før barn settes til arbeid som nevnt i første ledd skal arbeidsgiver innhente forhåndssamtykke fra Arbeidstilsynet. Samtykket etter § 12-4 skal vedlegges søknaden til Arbeidstilsynet.
+Når det er verne- og helsemessig forsvarlig, kan Arbeidstilsynet etter søknad gi forhåndssamtykke til at barn kan nyttes til kulturelt, kunstnerisk eller sportslig arbeid utover to timer i døgnet og tolv timer i uken.
