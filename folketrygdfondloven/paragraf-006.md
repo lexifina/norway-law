@@ -1,0 +1,4 @@
+# § 6. Forholdet til annen lovgivning, taushetsplikt mv.
+Forvaltningsloven gjelder ikke for Folketrygdfondet. Forvaltningslovens bestemmelser om inhabilitet gjelder likevel for Folketrygdfondets tillitsvalgte, ansatte og andre som utfører tjenester eller arbeid for Folketrygdfondet.
+Enhver som utfører tjeneste eller arbeid for Folketrygdfondet, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om Folketrygdfondets eller andres forretningsmessige forhold eller om noens personlige forhold. Taushetsplikten gjelder ikke overfor departementet. Tilsvarende taushetsplikt som følger av første punktum, gjelder enhver som utfører tjeneste eller arbeid for departementet. Forvaltningsloven § 13 annet og tredje ledd og §§ 13 a til 13 e og 13 g får anvendelse.
+Folketrygdfondet regnes som et organ etter arkivlova § 2 bokstav h.
