@@ -1,0 +1,5 @@
+# § 3-3. Tilgjengeliggjøring av reseptopplysninger og legemiddelliste og tilbakekalling av reseptopplysninger
+Opplysninger i pasientens legemiddelliste og i Reseptformidleren, som rekvirenten selv har meldt inn, kan gjøres tilgjengelig for rekvirenten.
+Når det er nødvendig, skal rekvirenten kalle tilbake resepter denne har meldt inn ved å sende melding om dette til reseptformidleren.
+Opplysninger om en pasients tilgjengelige resepter og legemiddelliste i registeret, kan gjøres tilgjengelig for andre leger, tannleger, jordmødre og helsesykepleiere med rekvireringsrett enn den som har rekvirert. Pasienten kan motsette seg at resepter og legemiddelliste gjøres tilgjengelig, jf. pasientjournalloven § 17.
+En lege som har fått utlevert reseptoversikt etter tredje ledd kan kalle tilbake resepter ved å sende melding om dette til Reseptformidleren. Tannleger, jordmødre og helsesykepleiere med rekvireringsrett som har fått utlevert reseptoversikt etter tredje ledd, kan kalle tilbake resepter utstedt av rekvirent med samme rett til rekvirering, jf. forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 3-1 jf. § 3-3 og § 7-1 annet ledd.

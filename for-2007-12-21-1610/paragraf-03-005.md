@@ -1,0 +1,2 @@
+# § 3-5. Tilgjengeliggjøring av opplysninger for fastlege om hva som er utlevert av legemidler, medisinsk forbruksmateriell eller næringsmidler
+Opplysninger om hvilke legemidler, medisinsk forbruksmateriell eller næringsmidler som er utlevert til pasient, kan gjøres tilgjengelig fra Reseptformidleren for pasientens fastlege. Tilsvarende gjelder for lege i institusjon som har overtatt fastlegens listeansvar, jf. forskrift om fastlegeordning i kommunene § 29. Pasienten kan motsette seg at opplysningene gjøres tilgjengelig, jf. pasientjournalloven § 17.
