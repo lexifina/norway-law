@@ -1,0 +1,2 @@
+# § 22. Nødbelysning i passasjerinnredningen
+Alle eksisterende hurtiggående passasjerfartøy skal være utstyrt med nødbelysning i passasjerinnredningen som minst oppfyller kravene i kodens kapittel 12 nr. 12.7.9.1 og 12.7.9.2. Nødbelysningen skal de første 30 minuttene kunne virke med en lysstyrke i passasjerinnredningen som er tilstrekkelig for lesing av nødinstrukser og håndtering av redningsvester.

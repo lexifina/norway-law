@@ -1,0 +1,3 @@
+# § 14. Klassifiserte hurtiggående fartøy
+(1) Klassifisert hurtiggående fartøy skal med hensyn til dimensjonering og konstruksjon av skrog, vanntette skott med lukningsmidler for åpninger i skott, overbygninger, dekkshus, ror, fortøyningsutstyr mv. tilfredsstille vedkommende klasseinstitusjons regler i relasjon til byggematerialer, størrelse, type og anvendelse.
+(2) Klassifisert hurtiggående fartøy skal med hensyn til maskineri, elektriske anlegg, styremaskin, pumper, rørsystemer mv. samt stabiliseringssystemer og retningskontrollsystemer tilfredsstille vedkommende klasseinstitusjons regler i relasjon til type og anvendelse.

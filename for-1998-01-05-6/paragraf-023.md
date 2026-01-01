@@ -1,0 +1,2 @@
+# § 23. Kompassutrustning
+Hurtiggående fartøy skal i tillegg til magnetkompasset som bestemt i kodens kapittel 13 nr. 13.2.1 være utstyrt med et kompass som minst tilfredsstiller kravene i IMO Res. A.694 (17)«General requirements for shipborne radio equipment forming part of the GMDSS and for electronic Navigational Aids» og IMO Res. A.821(19) «Performance standards forgyro-compasses for high speed craft».
