@@ -1,0 +1,2 @@
+# § 28. Særreglar for ankesaker
+Alle partane i saka på første rettssteget held fram å vere partar i ankesaka. Den som er frifunnen etter § 25 første stykket, er likevel berre part når retten eller nokon av dei andre partane dreg han inn i saka. Tyder opplysningar som kjem fram i ankesaka på at nokon annan kan vere faren, skal retten anten gjere han til part i prosesskrift eller oppheve dommen og sende saka til ny forhandling i tingretten.

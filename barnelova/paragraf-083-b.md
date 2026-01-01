@@ -1,0 +1,2 @@
+# § 83 b. Godkjenning av private avtaler for innkrevjing i utlandet
+Når ein part med heimel i ei avtale med framand stat ber om innkrevjing av ei avtale om tilskot etter § 70 første stykket, skal avtala sendast Arbeids- og velferdsetaten for godkjenning. Arbeids- og velferdsetaten skal kontrollere at vilkåra for innkrevjing av avtala etter norske reglar er oppfylte. Om vilkåra er oppfylte, skal Innkrevjingsmyndigheita gi skriftleg fråsegn om at avtala er godkjent og tvangskraftig i Noreg.

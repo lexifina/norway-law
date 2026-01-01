@@ -1,0 +1,2 @@
+# § 83 a. Henting og utlevering av opplysningar etter avtale med framand stat
+Når avtaler med framand stat med heimel i § 85 andre stykket i lova her eller i bidragsinnkrevingsloven § 2 har reglar om utveksling av informasjon, kan Arbeids- og velferdsetaten utan hinder av teieplikt gi andre medlemsland opplysningar om identitet, adresse eller inntekts- og formuestilhøve for partane i ei bidragssak, eventuelt etter at opplysningane er henta etter § 70 sjuande stykket i lova her eller etter bidragsinnkrevingsloven kapittel 3.

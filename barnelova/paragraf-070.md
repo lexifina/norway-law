@@ -1,0 +1,10 @@
+# § 70. Korleis fostringstilskotet vert fastsett.
+Foreldra kan gjere avtale om fostringstilskot til barnet.
+Dersom dei ikkje vert samde, kan kvar av dei krevje at tilskotsfuten tek avgjerd om tilskotet. Dette kan dei gjere jamvel om dei opphavleg har gjort avtale om tilskotet, men slik at løpande tilskot berre skal endrast dersom reglane i lova vil medføre ei endring på meir enn 12 prosent. Departementet kan gje forskrift om gebyr der tilskotsfuten tek avgjerd om fastsetjing og endring av fostringstilskot.
+Spørsmålet skal likevel avgjerast av domstolane
+a) når nokon av foreldra bed om at det vert gjort i samband med ekteskapssak eller rettssak om foreldreansvar, om kven barnet skal bu saman med eller om samværsrett,
+b) når tilskotsfuten viser partane til domstolane, fordi det er meir tenleg etter den karakter saka har.
+Når det gjeld tilskot etter § 68 andre og tredje stykket til barn som har fylt 18 år, er det barnet sjølv som gjer avtale eller er part i saka.
+Dersom foreldra ikkje lever saman når barnet vert født, og dei ikkje har gjort avtale om tilskotet, skal tilskotsfuten av eige tiltak fastsetje fostringstilskot til barnet.
+Får den tilskotspliktige forsytartillegg frå Forsvaret i samband med avtening av førstegangsteneste eller sivilteneste, eller har rett til anna yting frå det offentlege der barnetillegg er ein del av stønaden, kan tilskotsfuten av eige tiltak fastsetje fostringstilskot til barnet for den tida slikt tillegg vert utbetalt.
+Foreldra har plikt til å opplyse det organet som skal handsame fastsetjinga av tilskotet, om kva arbeid, utdanning, inntekt og formue dei har, og elles om alt anna som kan ha noko å seie for fastsetjinga av fostringstilskotet. For å fastsetje tilskotet kan organet utan omsyn til teieplikta krevje dei opplysningane som trengst frå arbeidsgjevarar, likningsstell, arbeids- og velferdsetaten og forsikringsselskap, bankar og andre som forvarer eller forvaltar formueverdiar. For å fastsetje tilskot etter at barnet har fylt 18 år, kan organet utan omsyn til teieplikta krevje opplysningar frå utdanningsinstitusjonar om skulegangen er i gang, held fram eller er avslutta og om fagleg progresjon.

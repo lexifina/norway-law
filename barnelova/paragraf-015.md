@@ -1,0 +1,3 @@
+# § 15. Kva for domstol saka høyrer under.
+Saka skal reisast ved det alminnelege vernetinget til barnet. Lever ikkje barnet eller bur det utanfor riket, skal saka reisast ved det alminnelege vernetinget til mora. Er også ho død eller busett utanfor riket, skal saka reisast ved det alminnelege vernetinget til den oppgjevne faren.
+Dersom mora eller barnet bur på sperra adresse, jf. lov 9. desember 2016 nr. 88 om folkeregistrering med forskrifter, eller det er søkt om eller gjeve løyve til å nytte fiktive personopplysningar for mora eller barnet, jf. lov 4. august 1995 nr. 53 om politiet § 14 a, kan saka reisast for Oslo tingrett.
