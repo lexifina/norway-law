@@ -1,0 +1,3 @@
+# § 10
+Når Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer skal fastsette bidrag, og den bidragspliktige ikke har bopel i Norge, skal det forkynnes varsel for den bidragspliktige om at bidrag vil bli fastsatt, og med oppfordring om at vedkommende innen en nærmere angitt frist gir opplysninger av betydning for bidragsfastsettingen, jfr. forvaltningsloven § 16 første ledd første punktum. Denne framgangsmåte nyttes også ved sak om endring av tidligere fastsatt bidrag.
+Varsel som nevnt kreves likevel ikke når forkynning skjer etter reglene i domstolslovens § 181, eller dersom den bidragspliktige selv har begjært bidraget fastsatt eller endret eller uttrykkelig har samtykket i det.
