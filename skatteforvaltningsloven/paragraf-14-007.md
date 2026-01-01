@@ -1,6 +1,6 @@
 # § 14-7. Overtredelsesgebyr
 (1) Skattemyndighetene kan ilegge overtredelsesgebyr overfor
-a) tredjeparter som ikke oppfyller sine opplysningsplikter etter kapittel 7
+a) tredjeparter som ikke oppfyller sine opplysningsplikter etter kapittel 7, herunder plikten til å identifisere kontohavere mv., utleiere, tjenesteytere eller brukere etter § 7-3 tredje ledd, § 7-11 annet ledd eller § 7-12 tredje ledd
 b) den som ikke medvirker til kontroll etter § 10-4
 c) den som ikke oppfyller sine plikter til å føre og oppbevare personalliste gitt i medhold av bokføringsloven
 d) en bokføringspliktig som forsettlig eller uaktsomt overtrer sine plikter til å registrere og dokumentere kontantsalg etter regler gitt i eller i medhold av bokføringsloven § 10 a.

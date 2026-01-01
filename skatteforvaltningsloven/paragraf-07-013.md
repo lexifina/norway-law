@@ -1,3 +1,3 @@
-# § 7-13. Forskrifter mv.
-(1) Departementet kan gi forskrift om det nærmere innholdet i opplysningsplikten etter dette kapitlet, hvordan opplysninger skal gis, signatur, leveringsfrist og leveringssted, bekreftelse av opplysninger fra revisor samt om fritak fra å levere melding etter dette kapitlet.
-(2) Departementet kan utforme meldinger som skal brukes ved levering av opplysninger etter dette kapitlet.
+# § 7-13. Hvem opplysningsplikten påhviler
+(1) I enkeltpersonforetak påhviler opplysningsplikten etter dette kapitlet innehaveren. I selskap, samvirkeforetak, forening, institusjon eller innretning påhviler opplysningsplikten den daglige lederen av virksomheten, eller styrelederen dersom virksomheten ikke har daglig leder. Er selskap mv. som nevnt i forrige punktum, ikke skattepliktig, påhviler opplysningsplikten også revisor.
+(2) Opplysningsplikten etter § 7-2 første ledd bokstav f påhviler reder og fører (høvedsmann, notbas) for fiske- og fangstfartøy, mens opplysningsplikten etter § 7-2 første ledd bokstav g påhviler formannen for arbeidslaget. Når det foreligger forhold som nevnt i skattebetalingsloven § 4-1 annet ledd, påhviler opplysningsplikten den som har plikt til å foreta forskuddstrekk. Opplysningsplikten etter § 7-5 fjerde ledd påhviler fondsstyret.
