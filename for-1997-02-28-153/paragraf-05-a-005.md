@@ -1,0 +1,5 @@
+# § 5A-5. Hensiktsmessige tiltak for å overholde krav til reklame, sponsing og produktplassering som markedsføres, selges eller tilrettelegges av andre enn tilbydere av videodelingsplattformer
+Hensiktsmessige tiltak etter kringkastingsloven § 5A-6 omfatter, avhengig av hva som er relevant:
+a) å innta som krav i brukervilkårene at kringkastingsloven § 5A-6 om reklame, sponsing og produktplassering som ikke markedsføres, selges eller tilrettelegges av tilbyderen av videodelingsplattformen, skal overholdes,
+b) å ha en funksjon der brukere som laster opp brukergenererte videoer, kan angi om videoen etter det de kjenner til eller med rimelighet kan forventes å kjenne til, inneholder reklame, sponsing eller produktplassering.
+Tilbydere av videodelingsplattformer skal tydelig informere brukerne om at programmer og brukergenererte videoer inneholder reklame, sponsing og produktplassering dersom brukeren har gitt opplysninger om dette i tråd med første ledd bokstav b, eller tilbyderen av videodelingsplattformen på annen måte har fått kunnskap om dette.

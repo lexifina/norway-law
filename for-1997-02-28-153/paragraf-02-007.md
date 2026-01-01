@@ -1,0 +1,2 @@
+# § 2-7. Overholdelse av reglene fastsatt i EØS-avtalens direktiv om audiovisuelle medietjenester
+Enhver direkte berørt fysisk eller juridisk person som er bosatt eller etablert i land som har tiltrådt EØS-avtalen skal kunne henvende seg til Medietilsynet samt forvaltningsorgan som har myndighet etter § 3-14 i denne forskrift dersom de mener at en norsk tjenestetilbyder bryter reglene som gjennomfører direktiv 2010/13/EU. Slike saker skal behandles etter forvaltningsloven eller relevant særlovgivning så langt de passer.

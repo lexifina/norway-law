@@ -1,0 +1,6 @@
+# § 4-8. Unntak fra kravet til samtykke ved overliggende innslag for kommersielle formål mv.
+Kravet i kringkastingsloven § 4-8 om at fjernsyn og audiovisuelle bestillingstjenester ikke kan forsynes med overliggende innslag for kommersielle formål eller endres uten samtykke fra tjenestetilbyderen, gjelder ikke for:
+a) overliggende innslag som mottakeren av tjenesten utelukkende selv har tatt initiativ til eller tillatt til privat bruk, for eksempel overliggende innslag knyttet til tjenester for personlig kommunikasjon,
+b) betjeningselementer for brukergrensesnitt som er nødvendige for å kunne bruke utstyr eller navigere mellom programmer, for eksempel volumregulering, søkefunksjoner, navigeringsmenyer eller kanallister,
+c) overliggende innslag i form av advarselsmeldinger, generelle opplysninger av allmenn interesse, undertekster eller kommersiell kommunikasjon som leveres av tilbyderen av medietjenester, og
+d) datakomprimeringsteknikker som reduserer størrelsen på en datafil og andre teknikker som tilpasser en tjeneste til distribusjonsmåten, for eksempel oppløsning og koding, som ikke endrer noe av innholdet, med forbehold for artikkel 3 (3) i europaparlamentets- og rådsforordning (EU) 2015/2120 om nettnøytralitet, jf. ekomforskriften § 1-12.
