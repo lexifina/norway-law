@@ -1,0 +1,4 @@
+# § 5. Registrering av «intet til utlegg»
+Når en alminnelig namsmann eller Innkrevingsmyndigheten har besluttet «intet til utlegg» overfor en skyldner, skal namsmyndigheten sørge for at beslutningen registreres i Løsøreregisteret, jf. tvangsfullbyrdelsesloven § 7-23. For fysiske personer som ikke allerede er ilagt utleggstrekk, gjelder dette bare for namsmyndigheter som er kompetent til å etablere utleggstrekk, jf. § 7-23 annet ledd.
+Registreringen skal identifisere skyldneren ved fødsels- eller d-nummer eller organisasjonsnummer og opplyse om datoen for beslutningen.
+Registreringen skal opplyse om hvilken namsmyndighet som har truffet beslutningen. Dersom opplysningen er sendt inn, skal registreringen i tillegg opplyse om saksøker, saksøkers prosessfullmektig og prosessfullmektigens saksreferanse.
