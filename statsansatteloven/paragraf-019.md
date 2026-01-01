@@ -1,0 +1,4 @@
+# § 19. Oppsigelse på grunn av virksomhetens forhold
+(1) Statsansatte kan sies opp når oppsigelsen er saklig begrunnet i virksomhetens forhold.
+(2) En oppsigelse etter første ledd er ikke saklig begrunnet dersom arbeidsgiver har en annen passende stilling i virksomheten å tilby den statsansatte. Ved avgjørelsen av om en oppsigelse har saklig grunn etter første ledd, skal det foretas en avveining mellom virksomhetens behov og de ulemper oppsigelsen påfører den statsansatte. Denne avveiningen gjøres med bindende virkning av forvaltningsorganet.
+(3) Kongen kan gi forskrift om hva som regnes som annen passende stilling etter annet ledd. Kongen kan også i forskrift fastsette at arbeidsgivers tilbud om annen passende stilling ikke skal omfatte den som blir sagt opp fra bestemte stillinger, og at det heller ikke skal gjelde ved ansettelse i bestemte stillinger.
