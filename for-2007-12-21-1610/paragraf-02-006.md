@@ -1,0 +1,5 @@
+# § 2-6. Ansvar for kontroll
+Den dataansvarlige skal sikre at opplysningene som blir meldt inn og behandlet i Reseptformidleren er relevante og nødvendige for bruk til formål som nevnt i § 1-2.
+Den dataansvarlige skal sikre at opplysninger som lagres i Reseptformidleren er meldt på format som følger av § 2-4.
+Dersom de innsendte opplysningene ikke er meldt i henhold til de krav som følger av første ledd og § 2-4 skal opplysningene ikke tas inn i Reseptformidleren. Dersom Reseptformidleren ved kontroll av resepter ikke kan konstatere om avsender er autorisert helsepersonell med rekvireringsrett, skal opplysningene ikke tas inn i Reseptformidleren. Reseptformidleren skal sende varsel til avsender om dette.
+Opplysninger som meldes til Reseptformidleren kan for administrative formål samkjøres med Helsepersonellregisteret, konsesjonsregisteret for apotek fra Direktoratet for medisinske produkter, samt Helsedirektoratet og underliggende organers register over bandasjister som har avtale om direkte oppgjør for bandasjistforretninger.
