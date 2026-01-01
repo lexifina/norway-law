@@ -1,0 +1,4 @@
+# § 4. Samhandling og samarbeid mellom virksomheter som yter akuttmedisinske tjenester
+Kommunene og de regionale helseforetakene skal sikre en hensiktsmessig og koordinert innsats i de ulike tjenestene i den akuttmedisinske kjeden, og sørge for at innholdet i disse tjenestene er samordnet med de øvrige nødetatene, hovedredningssentralene og andre myndigheter.
+Virksomheter som yter akuttmedisinske tjenester skal sikre at personellet som utfører tjenestene får nødvendig opplæring og trening i å utføre egne arbeidsoppgaver og trening i samhandling og samarbeid mellom alle leddene i den akuttmedisinske kjeden.
+Alle deler av helse- og omsorgstjenesten som er en del av den akuttmedisinske beredskapen, skal kunne kommunisere internt og på tvers av etablerte kommune- og regiongrenser i et felles, lukket, enhetlig og landsdekkende kommunikasjonsnett.

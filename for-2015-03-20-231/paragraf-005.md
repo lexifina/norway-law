@@ -1,0 +1,2 @@
+# § 5. Avtale om bistand fra personer utenfor helse- og omsorgstjenesten (akutthjelper)
+Kommunene og de regionale helseforetakene kan, som del av sin akuttmedisinske beredskap, inngå avtale om bistand fra akutthjelpere. Slike akutthjelpere kan være medlemmer av frivillige organisasjoner eller kommunalt brannvesen. Slik bistand kan komme i tillegg til, eller i påvente av, at personell fra de øvrige akuttmedisinske tjenestene kan yte akuttmedisinsk hjelp. Personer som skal yte slik bistand må ha fått nødvendig opplæring.
