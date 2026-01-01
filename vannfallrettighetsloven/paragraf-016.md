@@ -1,0 +1,2 @@
+# § 16. Tinglysing der konsesjon ikke foreligger
+Forlanges noe dokument tinglyst om et erverv som krever konsesjon eller annet vedtak etter denne lov, og konsesjon eller vedtak ikke fremlegges, kan registerføreren ikke nekte tinglysing. Dersom konsesjon eller vedtak mangler eller det av andre grunner finnes tvilsomt om ervervet er i strid med loven, skal registerføreren gjøre anmerkning i grunnboken og på dokumentet. Anmerkningen skal sendes departementet, som kan bestemme at den skal slettes.
