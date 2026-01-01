@@ -1,0 +1,2 @@
+# § 7. Offentliggjøring av vilkår for rett til bruk av bestemte innretninger
+Eier av terminalene i Zeebrugge og Dunkerque, eier av mottaks- og målefasiliteter for tørrgass etablert i Dornum samt 42″ rørledning for transport av tørrgass mellom disse fasilitetene og eier av terminalen i Emden skal minst en gang i året offentliggjøre de viktigste forretningsmessige vilkår for bruk av disse innretningene.
