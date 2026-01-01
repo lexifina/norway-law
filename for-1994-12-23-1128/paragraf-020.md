@@ -1,0 +1,3 @@
+# § 20. Regning for avgiften
+Når los ikke nyttes, utstedes avgiftsregning for hver gang fartøyet passerer grensen for avgiftsbelagt farvann for inn- eller utseiling, eller ved utløpet av perioden nevnt i § 8 første ledd. Når los nyttes, utstedes avgiftsregning for hvert losoppdrag. For øvrig bestemmer Kystverket i hvilken periode det skal beregnes avgift for.
+Kystverket krever inn avgiftene. Den alminnelige betalingsfristen er 30 dager. Når et fartøy tidligere er ilagt avgifter og disse ikke er innbetalt til tross for at de er forfalt og purring er sendt eier av fartøyet, kan Kystverket bestemme at avgiften skal anses som forfalt umiddelbart.

@@ -1,0 +1,4 @@
+# § 15. Ventepenger
+Når los er tilsagt av en som opptrer på fartøyets vegne til å møte fram på et bestemt sted til bestemt tid, men må vente på fartøyet mer enn en time, betales losingsavgift i form av ventepenger etter fartøyets timesats i henhold til § 12, også for den første timen. Ventepenger beregnes fra opprinnelig tilsigelsestidspunkt inntil losingen tar til. For fartøy som betaler losingsavgift etter § 12 annet ledd skal ventepengene samordnes. Dersom summen av ventetid og losingstid er 3 timer eller mindre, skal totalt antall fakturerte timer begrenses til 3 timer.
+Hvis losingen ikke finner sted, skal det dessuten betales ventepenger pr. time for medgått tid for fram og tilbakereise.
+Kystverket kan i tvilstilfeller ved enkeltvedtak bestemme hvor mange timer som skal legges til grunn ved beregningen av ventepenger.
