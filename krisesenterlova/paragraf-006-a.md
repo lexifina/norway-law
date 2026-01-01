@@ -1,0 +1,2 @@
+# § 6 a. Opplysningar til den kommunale helse- og omsorgstenesta og sosialtenesta
+Kommunen skal sørgje for at alle som utfører tenester eller arbeid etter denne lova, er merksame på forhold som bør føre til tiltak frå sosialtenesta eller helse- og omsorgstenesta. Kommunen skal sørgje for at krisesentertilbodet av eige tiltak gir sosialtenesta eller helse- og omsorgstenesta opplysningar om slike forhold så langt opplysningane kan givast utan hinder av teieplikta.
