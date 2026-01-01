@@ -1,0 +1,4 @@
+# § 19. Vedtaksførhet og flertallskrav
+Styret er vedtaksført når mer enn halvparten av samtlige styremedlemmer som kan delta i saken, er til stede. Styret kan likevel ikke treffe beslutning med mindre alle medlemmene av styret så vidt mulig er gitt mulighet til å delta i behandling av saken.
+Som styrets beslutning gjelder det som flertallet blant de møtende har stemt for, eller ved stemmelikhet det som møtelederen har stemt for. De som stemmer for en beslutning, må likevel alltid utgjøre mer enn 1/3 av samtlige styremedlemmer som kan delta i den aktuelle sak.
+Ved valg og ansettelse anses den valgt eller ansatt som får flest stemmer. Styret kan på forhånd bestemme at det skal holdes ny avstemning dersom ingen får flertall av de avgitte stemmer. Står stemmene likt ved valg av møteleder, avgjøres valget ved loddtrekning.

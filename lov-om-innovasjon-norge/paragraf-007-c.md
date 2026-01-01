@@ -1,0 +1,2 @@
+# § 7 c. Forhøyelse av innskuddskapitalen uten nyinnbetaling
+Foretaksmøtet kan beslutte å øke eiernes innskudd i selskapet ved overføring fra selskapets egenkapital i den utstrekning denne etter den senest fastsatte balansen overstiger det tidligere innskuddsbeløpet. Møteprotokollen skal angi hvor mye innskuddet skal forhøyes med. Forhøyelsen anses for gjennomført når den er registrert i Foretaksregisteret.
