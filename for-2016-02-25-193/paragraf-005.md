@@ -1,0 +1,4 @@
+# § 5. Håndheving og tilsyn
+Statens vegvesen håndhever denne forskrift i henhold til forordning (EU) nr. 181/2011 artikkel 28 nr. 1 og fører tilsyn med om reglene i forskriften fastsatt for den som driver persontransport i rute eller med turvogn eller andre som i forbindelse med slik transport har plikter overfor passasjerene, herunder utpekte bussterminaler, etterleves, jf. yrkestransportloven § 32a første til fjerde ledd.
+Statens vegvesen kan uten hensyn til taushetsplikt kreve innsyn og informasjon fra den som mot vederlag driver persontransport i rute eller andre som i forbindelse med slik transport har plikter overfor passasjerene.
+Enhver plikter å medvirke til gjennomføring av tilsyn. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre tilsynet.
