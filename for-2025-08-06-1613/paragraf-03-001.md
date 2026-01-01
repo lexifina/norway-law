@@ -1,0 +1,2 @@
+# § 3-1. Gjennomføring av forordning (EU) 2021/1042
+EØS-avtalen vedlegg XXII nr. 1a forordning (EU) 2021/1042 av 18. juni 2021 om regler for anvendelsen av europaparlaments- og rådsdirektiv (EU) 2017/1132 for det som angår tekniske spesifikasjoner og fremgangsmåte for registersammenkoblingssystemet og om opphevelse av Kommisjonens gjennomføringsforordning (EU) 2020/2244 gjelder som forskrift med de tilpasninger som følger av vedlegg XXII, protokoll 1 til avtalen og avtalen for øvrig.
