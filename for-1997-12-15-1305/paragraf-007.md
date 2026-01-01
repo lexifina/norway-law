@@ -1,0 +1,2 @@
+# § 7. Forenklet fellesoppgjør
+Svalbard skattekontor kan gi samtykke til at forskergrupper og andre prosjektgrupper med utenlandsk arbeidsgiver leverer skattemessig fellesoppgjør for ansattes lønn. Gruppen må ha opphold utenfor Longyearbyen og prosjektet må ha en samlet varighet på maksimalt 6 måneder. Samtykke kan ikke gis når ansatte skal svare trygdeavgift av inntekten. Skatt beregnes med 8 pst. av samlet lønn til ansatte i avregningsperioden. Med mindre skattekontoret bestemmer noe annet, skal opplysninger om slikt trekk gis etter reglene i a-opplysningsloven.

@@ -1,0 +1,4 @@
+# § 6. Arbeidsgiveravgift
+(1) Arbeidsgiveravgift etter folketrygdloven § 23-2 skal svares av lønn mv til person som er trygdet i medhold av folketrygdloven § 2-3. Bestemmelser i Stortingets vedtak om fastsetting av avgifter mv. til folketrygden om ekstra arbeidsgiveravgift av lønn over bestemte beløpsgrenser, får ikke anvendelse for Svalbard.
+(2) Ved fastsettelse og innkreving mv av arbeidsgiveravgift gjelder reglene i folketrygdloven kapittel 24 med utfyllende bestemmelser, likevel slik at skattemyndighetene for Svalbard har de samme funksjonene som er tillagt de ordinære skattemyndighetene og innfordringsmyndighetene for Svalbard har de samme funksjonene som er tillagt de ordinære innfordringsmyndighetene.
+(3) Avgiften innbetales til de samme tider som gjelder for innbetaling av skatt fastsatt ved lønnstrekk.
