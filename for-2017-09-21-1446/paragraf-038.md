@@ -1,0 +1,3 @@
+# § 38. Opplysningsplikt
+Alle som driver salg av tobakksvarer, tobakkssurrogater, tobakksimitasjoner og tobakksutstyr plikter etter anmodning fra Helsedirektoratet å avgi opplysninger til bruk for statistiske formål. Opplysninger som kan kreves avgitt gjelder produktomsetning, herunder kvantum, type og merke, og opplysninger om pris og inntjening.
+Kommunene og Longyearbyen lokalstyre plikter etter anmodning fra Helsedirektoratet å avgi opplysninger om kommunens forvaltning av tobakksskadeloven, herunder opplysninger om innkrevde gebyrer eller avgifter, utførte kontroller, ilagte reaksjoner mv.
