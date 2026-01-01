@@ -1,0 +1,4 @@
+# § 11. Stønadsperiode
+Barnetrygd gis fra og med kalendermåneden etter at retten til barnetrygd inntrer og tidligst med virkning fra kalendermåneden etter at barnet er født.
+Barnetrygd gis for opptil tre måneder før den kalendermåneden da kravet ble satt fram, dersom vilkårene for rett til stønad var oppfylt i denne perioden. Barnetrygden utbetales til og med kalendermåneden før barnet fyller 18 år. Dersom retten til barnetrygd faller bort tidligere, stanses utbetalingen ved utgangen av den kalendermåneden retten til barnetrygd faller bort.
+Dersom vilkårene for rett til barnetrygd var oppfylt på et tidligere tidspunkt enn nevnt i andre ledd første punktum, kan barnetrygd gis for opptil tre år før kravet ble satt fram, når det er åpenbart at den som har rett til ytelsen, ikke har vært i stand til å sette fram krav tidligere. Det samme gjelder dersom vedkommende ikke har satt fram krav tidligere fordi Arbeids- og velferdsetaten har gitt misvisende opplysninger.
