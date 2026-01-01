@@ -1,0 +1,4 @@
+# § 10-7. Tegning
+(1) Tegningen av de nye aksjene skjer i protokollen for generalforsamlingen. Aksjer som ikke tegnes på møte i generalforsamlingen, tegnes på et dokument som gjengir beslutningen om kapitalforhøyelsen. Annet punktum er ikke til hinder for at aksjer tegnes på et elektronisk dokument, forutsatt at det også tilbys tegning på fysisk dokument, dersom en aksjetegner krever det.
+(2) Tegningsdokumentet skal angi hvor selskapets vedtekter, innkallingen til generalforsamlingen med vedlegg som nevnt i §§ 10-2 og 10-3 samt årsregnskapet og årsberetningen for de to siste år, holdes tilgjengelig.
+(3) Tegning av aksje på annen måte enn det som er fastsatt i paragrafen her, eller med forbehold som ikke stemmer med generalforsamlingens beslutning, er ikke bindende for selskapet eller tegneren. Bestemmelsene i § 2-10 gjelder tilsvarende.

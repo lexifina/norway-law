@@ -1,0 +1,3 @@
+# § 6-11 b. Krav til kjønnssammensetning for styremedlemmer valgt av og blant de ansatte
+(1) Dersom det skal velges tre eller flere styremedlemmer av og blant de ansatte etter § 6-4, kan ikke alle disse styremedlemmene ha samme kjønn. Det samme gjelder for varamedlemmer. Første og annet punktum gjelder ikke dersom mer enn 80 prosent av samlet antall ansatte i selskapet på det tidspunkt valget skjer har samme kjønn.
+(2) For selskaper med flere enn 200 ansatte, skal kjønnssammensetningen blant styremedlemmer som velges av og blant de ansatte etter § 6-4 eller blant de ansatte etter § 6-35, jf. allmennaksjeloven § 6-37 første ledd, oppfylle kravene i § 6-11 a annet og tredje ledd. Antall ansatte etter første punktum skal beregnes på samme måte som etter § 6-4.

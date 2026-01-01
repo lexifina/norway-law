@@ -1,0 +1,3 @@
+# § 10-22. Melding til Foretaksregisteret
+(1) Generalforsamlingens beslutning om kapitalforhøyelsen skal meldes til Foretaksregisteret. Meldingen skal inneholde opplysninger om hvorvidt beslutningen er basert på sist godkjente årsregnskap eller en mellombalanse og datoen for fastsettelsen av årsregnskapet eller mellombalansen.
+(2) Aksjekapitalen anses forhøyd med det meldte beløp når kapitalforhøyelsen er registrert i Foretaksregisteret. Er beslutningen om kapitalforhøyelse basert på en mellombalanse, kan kapitalforhøyelsen tidligst registreres i Foretaksregisteret når mellombalansen er registrert i og kunngjort av Regnskapsregisteret.

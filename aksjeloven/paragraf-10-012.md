@@ -1,0 +1,5 @@
+# § 10-12. Aksjeinnskudd, forfall og oppgjør mv
+(1) Eiendeler som ikke kan balanseføres etter regnskapsloven, kan ikke brukes som aksjeinnskudd. En plikt til å utføre et arbeid eller en tjeneste for selskapet kan ikke i noe tilfelle brukes som aksjeinnskudd. Eiendeler som selskapet mottar som aksjeinnskudd, skal vurderes til virkelig verdi, med mindre det følger av regnskapsloven at innskuddet skal videreføres til balanseførte verdier.
+(2) Selskapet kan dekke utgifter ved kapitalforhøyelsen i den utstrekning utgiftene ikke overstiger aksjeinnskuddet. Overstiger utgiftene aksjeinnskuddet, kan utgiftene likevel dekkes i den utstrekning de ligger innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte etter § 8-1.
+(3) Selskapets krav på innskudd stiftes ved aksjetegningen og forfaller på det tidspunktet som er fastsatt i generalforsamlingens beslutning. Dette tidspunktet kan ikke være senere enn det tidspunktet kapitalforhøyelsen meldes til Foretaksregisteret, jf § 10-9.
+(4) §§ 2-12 til 2-17 gjelder tilsvarende for oppgjøret av aksjeinnskuddet.

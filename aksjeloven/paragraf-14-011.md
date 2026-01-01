@@ -1,0 +1,4 @@
+# § 14-11. Fordeling av eiendeler og forpliktelser
+(1) Hvis det ut fra fisjonsplanen ikke lar seg gjøre å bestemme hvilket selskap som skal eie en eiendel, eies denne i sameie mellom selskapene etter forholdet mellom de nettoverdier som har tilfalt selskapene ved fisjonen.
+(2) Hvis det ut fra fisjonsplanen ikke lar seg gjøre å bestemme hvilket selskap som skal hefte for en forpliktelse som var oppstått før virkningen av fisjonen inntrer, hefter de selskapene som har deltatt i fisjonen, solidarisk for forpliktelsen.
+(3) Hvis det selskapet som skal hefte for en forpliktelse etter fisjonsplanen, ikke oppfyller forpliktelsen, hefter de selskapene som har deltatt i fisjonen, solidarisk for forpliktelsen. Heftelsen er likevel for hvert av de øvrige selskapene begrenset til et beløp tilsvarende den nettoverdien som tilfalt selskapet ved fisjonen.

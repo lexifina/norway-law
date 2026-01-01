@@ -1,0 +1,4 @@
+# § 18-4. Beregning av frister
+(1) Ved beregning av frister som er regnet i dager, telles ikke med den dag da fristen begynner å løpe. Derimot medregnes møtedagen eller den dag da den handlingen fristen gjelder, tidligst kan foretas eller senest må være foretatt.
+(2) Frister som er regnet i uker, måneder eller år, ender på den dag i den siste uke eller den siste måned som etter sitt navn eller tall svarer til den dag da fristen begynner å løpe. Har ikke måneden dette tallet, ender fristen på den siste dag i måneden.
+(3) Ender en handlingsfrist på en lørdag, helgedag eller dag som etter lovgivningen er likestilt med helgedag, forlenges fristen til den nærmest følgende virkedag.

@@ -1,0 +1,5 @@
+# § 20-6. Krav til kjønnssammensetning i styret i statsaksjeselskaper
+(1) Reglene i § 6-11 a annet og tredje ledd gjelder tilsvarende for styret i statsaksjeselskaper.
+(2) Dersom det skal velges to eller flere styremedlemmer av og blant de ansatte etter § 6-4, kan ikke alle disse styremedlemmene ha samme kjønn. Det samme gjelder for varamedlemmer. Første og annet punktum gjelder ikke dersom mer enn 80 prosent av samlet antall ansatte i selskapet på det tidspunkt valget skjer har samme kjønn.
+(3) For selskaper med flere enn 200 ansatte, skal kjønnssammensetningen blant styremedlemmer som velges av og blant de ansatte etter § 6-4 eller blant de ansatte etter § 6-35, jf. allmennaksjeloven § 6-37 første ledd, oppfylle kravene i § 6-11 a annet og tredje ledd, likevel slik at dersom det skal velges to styremedlemmer av og blant de ansatte, kan ikke disse styremedlemmene ha samme kjønn. Antall ansatte etter første punktum skal beregnes på samme måte som etter § 6-4.
+(4) Første, annet og tredje ledd gjelder tilsvarende for aksjeselskap som er heleid datterselskap til statsaksjeselskap eller statsallmennaksjeselskap, eller til statsforetak.

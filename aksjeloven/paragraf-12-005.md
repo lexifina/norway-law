@@ -1,0 +1,3 @@
+# § 12-5. Ikrafttredelse uten kreditorvarsel
+(1) Skal hele nedsettingsbeløpet brukes til dekning av tap etter § 12-1 første ledd nr 1, trer kapitalnedsettingen i kraft når meldingen etter § 12-4 er registrert. Utdeling av utbytte kan i så fall ikke besluttes før det har gått tre år fra registreringen i Foretaksregisteret, med mindre aksjekapitalen igjen er blitt forhøyd med et beløp som minst svarer til nedsettingen, eller reglene i § 12-6 er blitt fulgt.
+(2) Kapitalnedsettingen trer også i kraft når meldingen etter § 12-4 er registrert dersom selskapet samtidig med meldingen om kapitalnedsettingen melder at aksjekapitalen er forhøyd ved nytegning av aksjer mot innskudd slik at selskapets bundne egenkapital blir minst like høy som tidligere.

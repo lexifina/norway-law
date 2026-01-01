@@ -1,0 +1,3 @@
+# § 3-7. Ulovlige utdelinger
+(1) Er det skjedd utdeling fra selskapet i strid med bestemmelsene i loven, skal mottakeren tilbakeføre det som er mottatt. Ved utdeling av utbytte eller tilbakebetaling etter kapitalnedsetting, fusjon, fisjon eller oppløsning gjelder dette likevel ikke dersom mottakeren, da utdelingen ble mottatt, verken forsto eller burde ha forstått at den var ulovlig.
+(2) Den som på selskapets vegne medvirker til en beslutning om eller gjennomføring av ulovlig utdeling, og som forsto eller burde ha forstått at utdelingen er ulovlig, er ansvarlig for at utdelingen blir tilbakeført til selskapet. Ansvaret kan lempes etter lov om skadeserstatning § 5-2.

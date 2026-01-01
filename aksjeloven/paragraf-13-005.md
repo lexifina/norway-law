@@ -1,0 +1,3 @@
+# § 13-5. Styrebeslutning i det overtakende selskapet
+(1) Kan kapitalforhøyelsen i det overtakende selskapet gjennomføres i henhold til styrefullmakt etter reglene i §§ 10-14 til 10-19 som angir at den omfatter fusjon, kan beslutningen om fusjon treffes av styret. Har selskapet bedriftsforsamling, kan beslutningen likevel ikke treffes av styret uten at fusjonsplanen er godtatt av bedriftsforsamlingen.
+(2) Eier et aksjeselskap ni tideler eller mer av aksjene i et annet aksjeselskap og har en tilsvarende del av de stemmer som kan avgis på generalforsamlingen, kan beslutningen i morselskapet om fusjon med datterselskapet, treffes av styret.

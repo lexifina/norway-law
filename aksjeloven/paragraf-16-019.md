@@ -1,0 +1,4 @@
+# § 16-19. Oppløsning ved dom
+(1) En aksjeeier kan kreve selskapet oppløst ved dom når et selskapsorgan eller andre som representerer selskapet, har handlet i strid med §§ 5-21 og 6-28 og særlig tungtveiende grunner taler for oppløsning som følge av dette.
+(2) Når selskapet har nedlagt påstand om det, kan dommen i stedet gå ut på at aksjeeierens aksjer skal innløses av selskapet. Innløsningssummen fastsettes i dommen under hensyn til selskapets økonomiske stilling og muligheter. Er innløsningen ikke gjennomført innen den frist som følger av dommen, og dette ikke skyldes aksjeeierens forhold, kan aksjeeieren kreve at tingretten ved kjennelse beslutter selskapet oppløst.
+(3) Går dommen ut på oppløsning av selskapet, gjelder § 16-18 tilsvarende. Dommen har virkning som en kjennelse om konkursåpning etter konkursloven kapittel VIII.

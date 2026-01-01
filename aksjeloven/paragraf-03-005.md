@@ -1,0 +1,3 @@
+# § 3-5. Handleplikt ved tap av egenkapital
+(1) Hvis det må antas at egenkapitalen er lavere enn forsvarlig ut fra risikoen ved og omfanget av virksomheten i selskapet, skal styret straks behandle saken. Styret skal innen rimelig tid innkalle generalforsamlingen og gi den en redegjørelse for selskapets økonomiske stilling. Dersom selskapet ikke har en forsvarlig egenkapital i samsvar med § 3-4, skal styret på generalforsamlingen foreslå tiltak for å rette på dette.
+(2) Hvis styret ikke finner grunnlag for å foreslå tiltak som nevnt i første ledd tredje punktum, eller slike tiltak ikke lar seg gjennomføre, skal det foreslå selskapet oppløst.

@@ -1,0 +1,3 @@
+# § 4-19. Forkjøpsrett mv
+(1) Aksjeeierne har rett til å overta en aksje som har skiftet eier med mindre noe annet er fastsatt i vedtektene. Bestemmelsene i §§ 4-20 til 4-23 gjelder med mindre noe annet er fastsatt i vedtektene.
+(2) Det kan fastsettes i vedtektene at aksjeeierne har rett til å overta en aksje som skal avhendes eller for øvrig skifte eier, og det kan fastsettes i vedtektene at andre enn aksjeeierne har rett til å overta en aksje som har skiftet eier, eller som skal avhendes eller for øvrig skifte eier. Dersom det er fastsatt slike vedtektsbestemmelser, gjelder §§ 4-20 til 4-23 så langt de passer og hvis ikke noe annet er fastsatt i vedtektene.

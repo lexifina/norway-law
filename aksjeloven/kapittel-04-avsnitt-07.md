@@ -1,0 +1,1 @@
+# VII. Forkjøpsrett m.v.
