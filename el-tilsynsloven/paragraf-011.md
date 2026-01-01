@@ -1,0 +1,4 @@
+# § 11
+Kongen gir regler om kontroll av elektrisk utstyr.
+Kongen kan bestemme at det lokale elektrisitetstilsyn (jf. § 8) kan pålegges å føre kontroll med elektrisk utstyr som tilbys eller omsettes innenfor vedkommende anleggs forsyningsområde.
+Tilsynsmyndigheten kan kreve at den som tilbyr, omsetter, tilvirker, innfører eller markedsfører produkt, fremlegger representativ prøve av produktet eller iverksetter undersøkelser som finnes nødvendig for å vurdere produktets egenskaper eller virkninger. Tilsynsmyndigheten kan selv iverksette slike undersøkelser eller foreta nødvendig prøvetaking og kontroll av produkter. Kostnadene bæres av vedkommende tilvirker eller importør, med mindre departementet bestemmer at kostnadene helt eller delvis skal dekkes av det offentlige. Krav på refusjon av kostnadene er tvangsgrunnlag for utlegg.

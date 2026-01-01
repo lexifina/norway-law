@@ -1,0 +1,4 @@
+# § 9
+Eier som er pålagt lokalt elektrisitetstilsyn, skal til enhver tid sørge for å oppfylle de kravene som fremgår av denne loven og bestemmelser gitt i medhold av loven, herunder følge instrukser som nærmere presiserer innholdet av de lovmessige kravene til tilsynsaktiviteten.
+Eier som er pålagt lokalt elektrisitetstilsyn, kan, som ledd i forberedelsen av vedtak som nevnt i § 6, jf. § 8, la andre offentlige eller private sakkyndige utføre oppgaver på sine vegne. Kongen kan gi nærmere regler om hvilke oppgaver som kan settes ut til slike sakkyndige.
+For å sikre at tilsyn utføres uavhengig av forretningsmessig virksomhet, kan Kongen gi forskrift om organiseringen av og arbeidet til det lokale elektrisitetstilsynet og sakkyndige som nevnt i annet ledd. Forskriften kan herunder inneholde bestemmelser om hvilke gjøremål som kan utføres ved siden av oppgaver etter loven.

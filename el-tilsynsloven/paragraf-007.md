@@ -1,0 +1,3 @@
+# § 7
+Når elektriske anlegg eller elektrisk utstyr medfører sjenerende elektriske forstyrrelser, kan tilsynsmyndigheten gi pålegg om straks å sette anlegget eller utstyret i sådan stand at disse forstyrrelser så vidt mulig fjernes.
+Tilsynsmyndigheten kan, i den utstrekning den anser det nødvendig til ivaretagelse av berettigede almenne interesser, gi forskrifter om at elektriske anlegg, anleggsdeler eller elektrisk utstyr som efter tilsynsmyndighetens mening vesentlig forstyrrer radiolyttingen, ikke må drives eller brukes til visse tider av døgnet, dersom disse forstyrrelser ikke unngåes ved de foranstaltninger som tilsynsmyndigheten i henhold til gjeldende forskrifter kan påby.
