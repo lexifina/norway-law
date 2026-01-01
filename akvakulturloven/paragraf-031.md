@@ -1,0 +1,4 @@
+# § 31. Straff
+Den som forsettlig eller grovt uaktsomt vesentlig overtrer bestemmelsene gitt i eller i medhold av §§ 4, 5, 10, 12, 13, 14, 17, 19, 22, 23, 24 og 25, straffes med bøter eller fengsel inntil 1 år eller begge deler, dersom forholdet ikke rammes av strengere straffebestemmelse.
+Grov overtredelse av første ledd straffes med bot eller fengsel inntil 2 år eller begge deler, om ikke strengere straffebestemmelse får anvendelse. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den økonomiske eller potensielle økonomiske verdien av overtredelsen er stor, om overtredelsen har skjedd systematisk og over tid, om overtredelsen har skjedd som ledd i organisert virksomhet, om overtredelsen har medført eller voldt fare for en betydelig miljøskade og om miljøskade som følge av overtredelsen er uopprettelig.
+Departementet kan i forskrift gitt i medhold av denne loven fastsette at overtredelse av forskriften ikke er straffbar.

@@ -1,0 +1,6 @@
+# § 13 a. Fellesansvar for fjerning av rømte organismer
+Innehaver av akvakulturtillatelse plikter å delta i en sammenslutning opprettet av departementet og å betale avgift til sammenslutningen.
+Sammenslutningen skal, med de begrensninger som er fastsatt i forskrift, dekke utgifter det offentlige eller private har med fjerning av organismer som har rømt eller på annen uønsket måte har spredt seg fra en lokalitet for akvakultur. Sammenslutningen skal også dekke utgifter til fjerning av organismer som innehaver av tillatelse er pliktig til å dekke etter § 13, dersom den ansvarlige er ukjent. Dersom den rømte akvatiske organismen kan spores tilbake til en innehaver av akvakulturtillatelse, kan sammenslutningen kreve regress hos den ansvarlige.
+Innehavere av akvakulturtillatelse svarer én for alle og alle for én på objektivt grunnlag for sammenslutningens utgifter.
+Departementet kan i forskrift gi nærmere bestemmelser om sammenslutningens ikrafttreden, organisering og virksomhet, herunder om unntak fra plikten til medlemskap, årlig avgift for deltakelse i sammenslutningen og tilleggsinnbetalinger, begrensninger i ansvaret etter annet og tredje ledd og utbetaling.
+Manglende innbetaling av avgift for deltakelse i sammenslutningen er tvangsgrunnlag for utlegg.
