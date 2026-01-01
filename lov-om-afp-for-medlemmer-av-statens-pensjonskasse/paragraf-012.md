@@ -1,0 +1,2 @@
+# § 12. Regulering av avtalefestet pensjon
+Regulering av avtalefestet pensjon under utbetaling skjer årlig med virkning fra 1. mai. Pensjonen reguleres i samsvar med et gjennomsnitt av lønns- og prisveksten. Reguleringsfaktoren etter folketrygdloven § 20-18 andre ledd skal legges til grunn. Ved første regulering etter at uttaket startet skal pensjonen reguleres ut fra når på året pensjonen tas ut.
