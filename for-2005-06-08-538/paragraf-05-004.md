@@ -1,0 +1,5 @@
+# § 5-4
+Prøven skjer i form av elektronisk flervalgsprøve som er forskjellig for henholdsvis salgsbevilling, skjenkebevilling og for kontrollører. Det avsettes 60 minutter til besvarelse av prøven.
+Bestått prøve for skjenkebevilling skal dokumentere at kandidaten har kunnskaper om innholdet i bestemmelsene i alkohollovens kapittel 1, 4, 5, 7, 8 og 9, samt forskrifter gitt med hjemmel i disse kapitlene, og at vedkommende har kjennskap til alkohollovens kapittel 2, 3, 6, 10, samt forskrifter gitt med hjemmel i disse kapitlene.
+Bestått prøve for salgsbevilling skal dokumentere at kandidaten har kunnskaper om innholdet i bestemmelsene i alkohollovens kapittel 1, 3, 7, 8 og 9, samt forskrifter gitt med hjemmel i disse kapitlene, og at vedkommende har kjennskap til alkohollovens kapittel 2, 4, 5, 6 og 10, samt forskrifter gitt med hjemmel i disse kapitlene.
+Bestått prøve for kontrollører skal dokumentere at kandidaten har tilstrekkelige kunnskaper om de bestemmelsene som er nevnt i annet og tredje ledd, til å kunne utføre forsvarlig salgs- og skjenkekontroll.

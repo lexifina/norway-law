@@ -1,0 +1,3 @@
+# § 14-2
+Med reklame forstås enhver form for massekommunikasjon i markedsføringsøyemed, herunder reklame i trykt skrift, film, radio, fjernsyn, telefonnett, datanettverk, lysreklame, plakater, skilt og lignende innretninger, avbildninger, utstillinger og liknende, distribusjon av trykksaker, vareprøver mv.
+Det foreligger markedsføringsøyemed dersom et siktemål med kommunikasjonen er å fremme salg. I vurderingen av om det foreligger markedsføringsøyemed, må det bl.a. legges vekt på hvem som er avsender av informasjonen, hvem som tar initiativ til å gi informasjonen, innholdet i og utformingen av informasjonen og hvordan informasjonen er presentert og formidlet.

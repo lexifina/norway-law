@@ -1,0 +1,3 @@
+# § 8-1
+For å sikre at krav fastsatt i eller i medhold av alkoholloven overholdes, jf. alkoholloven § 1-1, skal innehavere av salgs- og skjenkebevillinger føre internkontroll med den virksomhet som drives i henhold til bevillingen, alkoholloven og bestemmelser fastsatt i medhold av alkoholloven. Bestemmelsene i kapitlet her gjelder tilsvarende for virksomheter som utleverer alkoholholdig drikk i forbindelse med privat innførsel.
+Første ledd gjelder ikke for innehavere av ambulerende skjenkebevilling etter alkoholloven § 4-5. For bevilling gitt etter alkoholloven § 1-6 annet ledd, siste punktum kan det gjøres unntak fra plikten etter første ledd når det vil virke urimelig bl.a. av hensyn til stedets størrelse.
