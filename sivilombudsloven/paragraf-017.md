@@ -1,0 +1,3 @@
+# § 17. Tilleggsprotokoll til FNs torturkonvensjon
+Sivilombudet er nasjonal forebyggende mekanisme i henhold til artikkel 3 i tilleggsprotokoll 18. desember 2002 til FNs konvensjon mot tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff.
+Som nasjonal forebyggende mekanisme har ombudet myndighet og rettigheter som beskrevet i tilleggsprotokollen artikkel 19 og 20, blant annet til å gjennomføre besøk, foreta undersøkelser og kreve informasjon og tilgang overfor forvaltningen og private. Ingen skal holdes ansvarlig for eller utsettes for represalier som følge av at vedkommende har kommunisert eller delt informasjon med ombudet.
