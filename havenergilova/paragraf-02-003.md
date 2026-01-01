@@ -1,0 +1,6 @@
+# § 2-3. Utlysing og tildeling av areal
+Eitt eller fleire område innanfor eit område som er opna etter § 2-2, skal som hovudregel lysast ut og tildelast gjennom konkurranse. Departementet kan i særlege tilfelle tildele eit område etter søknad utan utlysing og konkurranse. Det kan bli kravd vederlag for tildelinga.
+Ved utlysinga skal departementet avgjere om tildelinga av eit område skal skje ved auksjon, ved ei vurdering av søkarane på grunnlag av objektive og ikkje-diskriminerande vilkår eller ved ein kombinasjon. Ved tildeling på ein annan måte enn ved auksjon, fastset departementet storleiken på det eventuelle vederlaget.
+Ved tildeling av areal må søkarar ha tilfredsstillande teknisk kompetanse og finansiell styrke, og oppfylle relevante krav til helse, miljø og sikkerheit. Departementet kan krevje at aktørane som vil delta i ein konkurranse om tildeling av areal skal prekvalifiserast før deltakinga. Ved utlysing kan departementet også sette andre objektive og ikkje-diskriminerande vilkår.
+Den som får tildelt eit område får ein tidsavgrensa einerett til å gjennomføre ei prosjektspesifikk konsekvensutgreiing og å søke om konsesjon etter § 3-1 for produksjonsanlegg innanfor området.
+Departementet kan gi forskrift om vilkår for tildeling av område etter denne paragrafen.

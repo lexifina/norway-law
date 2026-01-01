@@ -1,0 +1,2 @@
+# § 10-6. (Tvangsmulkt)
+Departementet kan gjere vedtak om tvangsmulkt i medhald av forvaltningsloven § 51 for å sikre at ei plikt som følgjer av eller i medhald av denne lova eller vilkår som er sette for konsesjon eller vedtak i eller i medhald av denne lova, blir oppfylte. Vedtak om tvangsmulkt kan òg gjerast ved oversitjing av fristar for detaljplan, byggjestart eller andre fristar knytt til framdrift av tiltaket.

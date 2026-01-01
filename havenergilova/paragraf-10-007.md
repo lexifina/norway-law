@@ -1,0 +1,5 @@
+# § 10-7. (Tilbaketrekking av konsesjon)
+Dersom konsesjon er gjeven på grunnlag av urette eller ufullstendige opplysningar om vesentlege omstende kan konsesjonen trekkjast tilbake. Det same gjeld dersom konsesjonæren ikkje lenger kan reknast for å vere skikka til å drive verksemda etter grovt eller gjentekne brot på lova eller føresegner eller pålegg gjevne i medhald av lova.
+Konsesjon kan òg trekkjast tilbake dersom dette følgjer av konsesjonsvedtaket, ved oversitjing av fristar for detaljplan, byggjestart eller andre fristar knytt til framdrift av tiltaket.
+Blir konsesjon for eit etablert anlegg trekt tilbake, skal det fastsetjast ein frist til å syte for at anlegget blir overteke av andre som lovleg kan drive det. Føresegnene i lov 28. november 2003 nr. 98 om konsesjon ved erverv av fast eiendom mv. (konsesjonsloven) § 19 gjeld tilsvarande dersom fristen ikkje er overhalden.
+Blir konsesjon etter andre ledd trekt tilbake kan departementet lyse ut konsesjonen for innhenting av søknader frå andre interesserte, eller påleggje frist for overdraging etter tredje ledd. Ved utlysing gjeld kapittel 3 for handsaming av søknader så langt det passar.
