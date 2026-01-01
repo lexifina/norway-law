@@ -1,0 +1,6 @@
+# § 5. Krav til frivillig innsats
+Alle organisasjoner skal dokumentere at frivillig innsats er en viktig del av organisasjonens virksomhet. Ulønnet innsats, medlemskontingent og gaver likestilles i vurderingen av krav til frivillig innsats. Gratis styreinnsats oppfyller ikke krav til frivillig innsats alene. Det må ikke være for tett knytning mellom den frivillige innsatsen og gjenytelser.
+I vurderingen av om frivillig innsats er en viktig del av organisasjonens virksomhet, skal det legges vekt på forholdet mellom ulønnet innsats og lønnet arbeid, omfanget av medlemskontingent og gaver sett opp mot øvrige inntekter, og om organisasjonen har regelmessig aktivitet hvor frivillig innsats er en sentral del av virksomheten.
+I vurderingen av frivillig innsats hos sentralledd og regionalledd kan det legges vekt på frivillig innsats hos underleddene.
+Ved vurdering av frivillig innsats hos stiftelser vil ikke utdeling av midler til frivillig virksomhet tilfredsstille kravet. Det er stiftelsens egenaktivitet som danner grunnlag for vurderingen av om det drives virksomhet som faller inn under ordningen.
+I vurderingen av frivillig innsats hos paraplyorganisasjoner kan det legges vekt på frivillig innsats hos medlemsorganisasjonene dersom minst 50 prosent av disse oppfyller vilkårene for kompensasjon etter forskriften.

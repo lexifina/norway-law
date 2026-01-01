@@ -1,0 +1,2 @@
+# § 17. Krav til eiertid til maskiner, utstyr og andre kapitalvarer
+Ved kjøp av maskiner, utstyr og andre kapitalvarer der inngående merverdiavgift utgjør 50 000 kroner eller mer er det en innlåsingsperiode på 5 år. Kompensert beløp skal tilbakeføres om driftsmidlene selges, tas ut, gis bort, går over til å bli brukt i ikke-frivillig virksomhet eller det skjer andre bruksendringer innen 5 år etter anskaffelsen.
