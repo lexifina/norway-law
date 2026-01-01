@@ -1,0 +1,3 @@
+# § 11 d. (muntlige konferanser og nedtegning av opplysninger).
+I den utstrekning en forsvarlig utførelse av tjenesten tillater det, skal en part som har saklig grunn for det, gis adgang til å tale muntlig med en tjenestemann ved det forvaltningsorgan som behandler saken. Dersom en mindreårig er part i saken og blir representert av verge, gjelder dette også den mindreårige selv.
+Blir det ved muntlige forhandlinger, konferanser eller telefonsamtaler av en part gitt nye opplysninger eller anførsler av betydning for avgjørelsen av saken, skal de såvidt mulig nedtegnes eller protokolleres. Det samme gjelder iakttakelser tjenestemannen gjør ved befaring m.m.

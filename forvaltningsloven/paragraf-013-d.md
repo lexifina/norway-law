@@ -1,0 +1,4 @@
+# § 13 d. (opplysninger til bruk for forsking).
+Når det finnes rimelig og ikke medfører uforholdsmessig ulempe for andre interesser, kan departementet bestemme at et forvaltningsorgan kan eller skal gi opplysninger til bruk for forsking, og at dette skal skje uten hinder av organets taushetsplikt etter § 13.
+Til vedtak som nevnt i første ledd kan det knyttes vilkår. Disse kan bl.a. gi bestemmelser om hvem som skal ha ansvar for opplysningene og hvem som skal ha adgang til dem, om oppbevaring og tilbakelevering av utlånt materiale, om tilintetgjøring av avskrifter, om hvorvidt forskerne skal ha adgang til å henvende seg til eller innhente nærmere opplysninger om dem det er gitt opplysninger om, og om bruken av opplysningene for øvrig.
+Kongen kan gi nærmere forskrifter om vedtak etter denne paragraf.

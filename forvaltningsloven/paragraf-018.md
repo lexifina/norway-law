@@ -1,0 +1,3 @@
+# § 18. (partenes adgang til å gjøre seg kjent med sakens dokumenter).
+En part har rett til å gjøre seg kjent med sakens dokumenter, for så vidt ikke annet følger av reglene i §§ 18 til 19. Dersom en mindreårig er part i saken og blir representert av verge, gjelder dette også den mindreårige selv. Retten til innsyn gjelder også etter at det er truffet vedtak i saken. En mindreårig under 15 år skal ikke gjøres kjent med opplysninger som er underlagt lovbestemt taushetsplikt.
+Når det er adgang til å gjøre unntak fra innsyn, skal forvaltningsorganet likevel vurdere å gi helt eller delvis innsyn. Innsyn bør gis dersom hensynet til parten veier tyngre enn behovet for unntak.

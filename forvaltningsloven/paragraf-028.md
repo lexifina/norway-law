@@ -1,0 +1,10 @@
+# § 28. (vedtak som kan påklages, klageinstans).
+Enkeltvedtak kan påklages av en part eller annen med rettslig klageinteresse i saken til det forvaltningsorgan (klageinstansen) som er nærmest overordnet det forvaltningsorgan som har truffet vedtaket (underinstansen).
+For enkeltvedtak som er truffet av forvaltningsorgan opprettet i medhold av lov om kommuner og fylkeskommuner, er klageinstansen kommunestyret eller fylkestinget, eller etter disses bestemmelse, formannskapet eller fylkesutvalget eller en eller flere særskilte klagenemnder oppnevnt av kommunestyret eller fylkestinget. For enkeltvedtak som er truffet av egne rettssubjekter som har fått overført myndighet fra kommunen eller fylkeskommunen, er klageinstansen én eller flere særskilte klagenemnder som er oppnevnt av det øverste organet i rettssubjektet. Departementet er likevel klageinstans når vedtak er truffet av kommunestyret eller fylkestinget eller av det øverste organet i et eget rettssubjekt som har fått overført myndighet fra kommunen eller fylkeskommunen. Vedkommende statlige organ er klageinstans når vedtak er truffet i henhold til myndighet delegert fra et statlig forvaltningsorgan.
+Med mindre Kongen bestemmer annerledes, kan klageinstansens vedtak i klagesak ikke påklages. Klageinstansens vedtak om å avvise klagen kan likevel påklages, unntatt:
+a) når også underinstansen traff vedtak om å avvise klagen,
+b) når underinstansen har prøvd avvisningsspørsmålet og kommet til at vilkårene for realitetsbehandling er til stede,
+c) når Kongen vil være klageinstans,
+d) når klagen er avvist av en uavhengig klagenemnd.
+Er det klagerett over et vedtak om å avvise en klage som er truffet av et kommunalt eller fylkeskommunalt organ som klageinstans, går klagen til statsforvalteren.
+For særskilte saksområder kan Kongen fastsette klageregler som utfyller eller avviker fra reglene i dette kapittel. Forskrift som begrenser klageretten eller som ellers vesentlig endrer reglene til skade for partsinteresser, kan bare gis når tungtveiende grunner taler for det.
