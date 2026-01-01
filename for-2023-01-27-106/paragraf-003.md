@@ -1,0 +1,4 @@
+# § 3. Barnets deltakelse og medvirkning i samtaleprosess
+Barn som har partsrettigheter deltar i samtaleprosessen på lik linje med øvrige parter. Nemndleder skal gi barnet og prosessfullmektigen tilbud om et formøte i nemnda, for å gi barnet praktisk og tilrettelagt informasjon om samtalemøtet. Nemndleder skal legge til rette for at barnets mening kommer klart frem i prosessen. Nemndleder skal forsikre seg om at barnet får god informasjon om hva midlertidige ordninger og andre utfall av samtaleprosessen innebærer.
+Barn som ikke har partsrettigheter, men som er i stand til å danne seg egne meninger i saken har rett til å medvirke, og skal gis anledning til å uttale seg før samtalemøtet. Nemndleder skal sørge for at barnets mening kommer klart frem i møtet.
+Utover dette gjelder forskrift om medvirkning i barnevernet.
