@@ -1,0 +1,2 @@
+# § 45. Nasjonalarkivets rett til å handsame personopplysningar som ikkje skal takast vare på for ettertida
+Nasjonalarkivet kan ta imot personopplysningar som ikkje skal takast vare på for ettertida, dersom det er umogleg eller urimeleg arbeids- eller kostnadskrevjande for organet som skal avlevere dokumentasjon, å skilje ut slike personopplysningar frå dokumentasjonen. Personopplysningane skal ikkje gjerast tilgjengelege.

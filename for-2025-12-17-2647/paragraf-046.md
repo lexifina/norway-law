@@ -1,0 +1,2 @@
+# § 46. Nasjonalarkivets rett til å handsame personopplysningar i samband med utvikling og testing av ny teknologi
+Nasjonalarkivet kan handsame personopplysningar i avleverte arkiv for å utvikle og teste ny teknologi som skal bidra til å ivareta samfunnsoppdraget til Nasjonalarkivet. Vilkåret for slik handsaming er at det må vere uråd eller uforholdsmessig vanskeleg å utvikle og teste teknologien ved å bruke anonyme eller fiktive opplysningar.

@@ -1,0 +1,2 @@
+# § 28. Krav til uttrekk frå informasjonssystem som er utforma i tråd med Noark 5
+Dersom eit statleg organ skal avlevere dokumentasjon som er skapt i eit informasjonssystem som er utforma i tråd med Noark 5, skal organet følgje retningslinjene i Noark 5 for å produsere uttrekk. Dersom særlege grunnar talar for det, kan organet inngå avtale med Nasjonalarkivet om å bruke andre metodar for å produsere uttrekket.
