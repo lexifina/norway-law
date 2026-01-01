@@ -1,0 +1,3 @@
+# § 6-6. Inndrivelse av tvangsmulkt og overtredelsesgebyr
+Når Direktoratet for mineralforvaltning har truffet vedtak om tvangsmulkt og overtredelsesgebyr, oversendes kravet til Innkrevingsmyndigheten for innkreving. Innkrevingsmyndigheten sender ut faktura til den som er pålagt å betale kravet. Tvangsmulkt og overtredelsesgebyr skal tilfalle statskassen. Dersom kravet ikke blir betalt innen forfall, påløper den til enhver tid gjeldende rente etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven).
+Innkrevingsmyndigheten sender varsel om tvangsfullbyrdelse for tvangsmulkt og overtredelsesgebyr som er forfalt.

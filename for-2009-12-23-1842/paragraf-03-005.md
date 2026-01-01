@@ -1,0 +1,2 @@
+# § 3-5. Søknad om godkjenning som bergteknisk ansvarlig
+Søknad om godkjenning som bergteknisk ansvarlig etter § 3-2 andre ledd og § 3-3 andre ledd og om dispensasjon etter § 3-4 skal inneholde opplysninger og dokumentasjon som er nødvendig for å avgjøre om vedkommende person kan være bergteknisk ansvarlig for det aktuelle uttaket. Direktoratet for mineralforvaltning kan kreve ytterligere opplysninger av søkeren for å klarlegge om vedkommende oppfyller kravene til å være bergteknisk ansvarlig.

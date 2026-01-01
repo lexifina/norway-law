@@ -1,0 +1,5 @@
+# § 2-1. Opprydding og sikring – økonomisk garanti
+Direktoratet for mineralforvalting kan pålegge tiltakshaver å stille økonomisk sikkerhet for gjennomføring av sikringstiltak og oppryddingstiltak etter mineralloven § 49 og § 50.
+Tiltakshaver skal fremsette forslag til sikkerhetsstillelse. Forslaget kan omfatte individuell avsetning. Direktoratet for mineralforvaltning fastsetter endelig krav til sikkerhetsstillelsen.
+Den økonomiske sikkerheten skal være tilstrekkelig til å dekke tiltakshavers sikrings- og oppryddingsplikt etter mineralloven § 49 og § 50. Ved vurderingen skal det legges vekt på uttakets kompleksitet, massetype, potensiell forurensningsfare, underjords- eller dagbruddsdrift, beliggenhet, lokal beskaffenhet mv. Sikkerheten må være slik at den ved konkurs hos tiltakshaver ikke vil inngå i konkursboet.
+Dersom det kan være aktuelt med økonomisk garanti etter forurensningsloven, skal Direktoratet for mineralforvaltning samordne økonomisk sikkerhetsstillelse med forurensningsmyndigheten.

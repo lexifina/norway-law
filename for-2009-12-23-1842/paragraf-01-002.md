@@ -1,0 +1,4 @@
+# § 1-2. Undersøkelsesområdets form og størrelse
+Undersøkelsesområdet skal være en rettvinklet firkant. Området skal ikke være større enn 10 km2 og den lengste siden ikke lenger enn 10 kilometer, regnet i horisontalplanet. Ingen side skal være kortere enn 1 kilometer. Sidene skal følge eller være parallelle med hovedaksesystemet UTM i kartdatum EUREF 89. Målestokken skal være 1:50 000.
+Dersom undersøkelsesområdet legges inn til et annet undersøkelses- eller utvinningsområde eller undersøkelsesområdene går over flere soner i UTM-systemet, kan Direktoratet for mineralforvaltning fravike kravet om undersøkelsesområdets form, størrelse og parallellitet så langt dette er nødvendig. Undersøkelsesområdet kan ikke ha flere enn fire hjørnepunkter.
+I grunnen skal grensene for undersøkelsesområdet være loddrette.
