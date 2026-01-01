@@ -1,0 +1,2 @@
+# § 5-3. Varselfarger for skilt
+Skilter som inneholder en varselfarge skal være i samsvar med følgende tabell:VarselfargeSkilttypeInstrukser og opplysningerRødForbudsskiltFarlig atferdRødAlarmskiltStopp Avstenging Nødstoppinnretning EvakuerRødBrannvernskiltIdentifisering og plasseringGul eller oransjeFareskiltVær forsiktig Ta forholdsregler UndersøkBlåPåbudsskiltSpesiell atferd eller handlemåte Påbud om bruk av personlig verneutstyrGrønnNødskilt Nødutgangsskilt FørstehjelpsskiltLokaler, dører, utganger, veier, utstyrGrønnIngen fareTilbake til normaltilstand

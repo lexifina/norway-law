@@ -1,0 +1,4 @@
+# § 2-12. Synsforhold
+Det skal være gode farge- og kontrastforhold uten for store luminansforskjeller innen synsfeltet, idet det tas hensyn til arbeidets art og arbeidstakerens syn.
+Arbeidsplasser skal være utformet slik at forstyrrende reflekslys eller kontrastblending som kan vanskeliggjøre arbeid ved dataskjermer, maskiner, avlesingen av instrumenter o.l. unngås ved å samordne arbeidsplassens og arbeidsstasjonens utforming med de kunstige lyskildenes plassering og tekniske karakteristika. Lyskilder som vinduer og andre åpninger, gjennomsiktige eller gjennomskinnelige vegger samt utstyr og vegger i lyse farger skal ikke forårsake direkte blending og gi så lite reflekser som mulig.
+Vinduer skal være utstyrt med en hensiktsmessig regulerbar blendingsanordning for å dempe dagslyset som faller inn over arbeidsplasser med dataskjerm.
