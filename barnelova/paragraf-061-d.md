@@ -1,0 +1,3 @@
+# § 61 d. Barnesakkunnig kommisjon kan handsame personopplysningar
+Personopplysningsloven gjeld for Barnesakkunnig kommisjon. Kommisjonen kan handsame personopplysningar, medrekna personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, når det er naudsynt for å utføre oppgåver etter § 61 c eller forskrift i medhald av § 61 c fjerde stykket.
+Departementet kan gje forskrift om handsaminga av personopplysningar, mellom anna om føremålet med handsaminga, handsamingsansvar, kva personopplysningar som kan handsamast, kven det kan handsamast personopplysningar om, tiltak som skal verne den opplysningane gjeld, høve til vidarehandsaming, utlevering, registerføring og tilgang til register.

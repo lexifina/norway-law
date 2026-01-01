@@ -1,0 +1,2 @@
+# § 7. Endring av farskap etter §§ 3 og 4 når ein annan mann erklærer farskap
+Farskap i samsvar med § 3 eller § 4 kan endrast ved at ein annan mann erklærer farskapen i samsvar med § 4, når erklæringa er godteken skriftleg av mora og den som har vore rekna for far. Ei slik erklæring gjeld likevel berre når Arbeids- og velferdsdirektoratet finn at DNA-analyse godtgjer at den andre mannen er far til barnet. Dersom barnet er fylt 18 år, kan farskapen ikkje endrast etter denne paragrafen utan samtykke frå barnet.

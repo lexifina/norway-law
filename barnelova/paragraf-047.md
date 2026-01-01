@@ -1,0 +1,4 @@
+# § 47. Rett til opplysningar om barnet
+Foreldre som har foreldreansvar, har rett til opplysningar om barnet når dei bed om det. Har den eine av foreldra foreldreansvaret aleine, skal denne gje den andre opplysningar om barnet når det blir bede om det. Den andre har også rett til å få opplysningar om barnet frå barnehage, skule, helse- og sosialvesen og politi, om ikkje teieplikta gjeld andsynes foreldra. Slike opplysningar kan nektast gjeve dersom det kan vere til skade for barnet.
+Avslag på krav om opplysningar etter første stykket tredje punktum kan påklagast til statsforvaltaren. Foreldre med foreldreansvar har tilsvarande klagerett. Reglane i forvaltningslova kapittel VI gjeld så langt dei høver, jamvel om avslaget er gjeve av private.
+I særlege høve kan statsforvaltaren avgjere at den som ikkje har foreldreansvaret, skal tape opplysningsretten etter paragrafen her.

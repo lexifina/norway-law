@@ -1,0 +1,4 @@
+# § 71. Offentleg utmåling av fostringstilskot
+Tilskotsfuten skal fastsetje tilskotet slik at fastsette utlegg til forsyting av barnet etter barnet sin alder (underhaldskostnadene) vert delte mellom foreldra etter storleiken på inntekta deira. Tilskotet skal likevel ikkje fastsetjast til eit høgare tilskot enn at tilskotspliktige har att fastsette midlar til eige underhald mv. (bidragsevnevurderinga). Tilskotet skal som hovudregel reduserast for munnleg eller skriftleg avtalt eller offentleg fastsett samvær. Har foreldra avtala delt bustad etter lova § 36, gjeld særskilte reglar.
+Tilskotsfuten skal av eige tiltak regulere fostringstilskotet når barnet går over til ei ny aldersgruppe om ikkje anna er fastsett i forskrift etter tredje ledd.
+Departementet kan ved forskrift gje utfyllande reglar om utmåling av fostringstilskot etter lova her.

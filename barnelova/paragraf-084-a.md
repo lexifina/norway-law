@@ -1,0 +1,4 @@
+# § 84 a. Lovvalet for foreldreansvar etter lova mv.
+Reglane i §§ 34, 35 og 38 gjeld for barn som har vanleg bustad i Noreg. Det same gjeld § 39 om avtalar.
+Foreldreansvar eller tilsvarande myndigheitsforhold etter lova i ein stat der barnet tidlegare hadde vanleg bustad, skal leggjast til grunn i Noreg når dette følgjer av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn artikkel 16 nr. 3. Dette gjeld likevel ikkje dersom det ligg føre ei utanlandsk avgjerd som skal godkjennast etter § 84 b.
+Når eit barn får vanleg bustad i Noreg, og tidlegare hadde vanleg bustad i ein annan stat, kan ein forelder som ikkje har foreldreansvar etter andre stykket, berre tildelast foreldreansvar for barnet i kraft av barnelova dersom forelderen har vanleg bustad i Noreg.

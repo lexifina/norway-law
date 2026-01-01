@@ -1,0 +1,2 @@
+# § 6. Endring av farskap etter §§ 3 og 4 for domstolane
+Barnet, kvar av foreldra og tredjemann som meiner han er far til eit barn som allereie har ein far, kan alltid reise sak for domstolane om farskap etter ekteskap eller erklæring. Er barnet mindreårig, vert saka reist av oppnemnd verje. Er barnet fylt 15 år, kan verja ikkje reise sak utan samtykke frå barnet. Når særlege grunnar taler for det, kan Arbeids- og velferdsdirektoratet reise saka.

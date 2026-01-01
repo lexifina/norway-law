@@ -1,0 +1,2 @@
+# § 57. Kvar sak skal reisast
+Sak etter § 56 må reisast for den domstolen der barnet har alminneleg verneting på den tida saka vert reist. Dersom saka gjeld søsken med ulikt alminneleg verneting, kan felles sak for barna reisast der eitt av barna har alminneleg verneting. Dersom barnet bur på sperra adresse, jf. lov 9. desember 2016 nr. 88 om folkeregistrering med forskrifter, eller det er søkt om eller gjeve løyve til å nytte fiktive personopplysningar for barnet, jf. lov 4. august 1995 nr. 53 om politiet § 14 a, kan saka reisast for Oslo tingrett.
