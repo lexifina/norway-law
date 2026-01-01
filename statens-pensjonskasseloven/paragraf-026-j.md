@@ -1,0 +1,6 @@
+# § 26 j. Overgangstillegg
+Medlem født i årene 1963-1970 som fratrer medlemspliktig stilling helt i perioden mellom fylte 62 og 67 år, og som har minst 15 års samlet tjenestetid, gis et overgangstillegg fra og med måneden etter den måneden medlemmet fratrer. Tillegget opphører ved gjeninntreden i medlemspliktig stilling. Medlemmet gis tillegget på nytt ved senere hel fratreden. Tillegget opphører senest måneden etter at medlemmet fyller 67 år.
+Fullt overgangstillegg er 0,15 ganger folketrygdens grunnbeløp og ytes til medlem født i 1963. Tillegget beregnes forholdsmessig for medlemmer med tjenestetid mindre enn 40 år og for gjennomsnittlig stillingsandel lavere enn 100 prosent. Dersom samlet tjenestetid er over 40 år, skal gjennomsnittlig stillingsandel beregnes med utgangspunkt i de 40 årene med høyest stillingsandel.
+1964-kullet får 87,5 prosent av overgangstillegget som 1963-kullet får, 1965-kullet får 75 prosent osv. til 1970-kullet, som får 12,5 prosent av tillegget.
+Tillegget skal ikke levealdersjusteres. Det avkortes ikke mot arbeidsinntekt fra stilling som ikke er medlemspliktig. Tillegget kan ikke tas ut gradert.
+Overgangstillegget kan ikke utbetales samtidig med tidligpensjon etter kapittel 5 b eller tilsvarende tidligpensjon fra en annen offentlig tjenestepensjonsordning.
