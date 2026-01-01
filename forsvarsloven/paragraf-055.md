@@ -1,0 +1,5 @@
+# § 55. Erstatningsansvar ved personskade
+Staten skal erstatte tap som er påført dem som gjør tjeneste i internasjonale operasjoner på grunn av skade eller sykdom som følge av tjeneste i en internasjonal operasjon etter 1. januar 2010. Ansvaret omfatter også psykiske belastningsskader. En avgjørelse i sak om erstatning for psykiske belastningsskader kan påklages til Klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltagelse i internasjonale operasjoner. Øvrige avgjørelser kan ikke påklages.
+Den som har fått erstatning etter første ledd, kan ikke få ytterligere erstatning fra staten på annet grunnlag.
+For øvrig gjelder yrkesskadeforsikringsloven §§ 12, 13 første ledd, 14 og 15.
+Departementet kan gi forskrift om utmåling og utbetaling. Departementet kan også gi forskrift om billighetserstatning for psykiske belastningsskader som følge av deltagelse i internasjonale operasjoner. Utbetaling etter slik forskrift skal samordnes med andre erstatningsutbetalinger fra staten.

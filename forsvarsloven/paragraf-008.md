@@ -1,0 +1,5 @@
+# § 8. Opplysningsplikt og meldeplikt
+De som kan bli kalt inn til tjeneste i Forsvaret, skal på oppfordring gi Forsvaret opplysninger som har betydning for verneplikten. Plikten gjelder fra det året de fyller 17 år. Opplysningene skal dokumenteres hvis Forsvaret krever det. Vernepliktige som søker om fritak for tjeneste etter kapittel 4, kan bli pålagt å forklare seg muntlig.
+Forsvaret kan kreve skriftlig bekreftelse på at innkallinger, andre pålegg og dokumenter om verneplikt er mottatt. De som ikke oppholder seg på registrert adresse, skal sørge for å gjøre seg kjent med innholdet.
+Forsvaret kan kreve at alle som kan bli kalt inn til tjeneste i Forsvaret, skal melde fra om fast eller midlertidig flytting i eller utenfor Norge og om utenlandsopphold på over to måneder.
+Kongen kan gi forskrift om hvor omfattende meldeplikten skal være, om at alle søkere skal forklare seg muntlig i saker om fritak etter kapittel 4, og om hvilke andre private og offentlige virksomheter i Norge og norske virksomheter utenfor Norge som kan kreve opplysninger etter første ledd.
