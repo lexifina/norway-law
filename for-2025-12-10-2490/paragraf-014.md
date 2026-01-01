@@ -1,0 +1,6 @@
+# § 14. Beregning av tilskudd til egenproduserte saker på samiske språk
+Tilskudd til saker på lulesamisk, sørsamisk, pitesamisk, umesamisk eller østsamisk/skoltesamisk beregnes på grunnlag av det enkelte mediets andel av samtlige saker som ble publisert på disse språkene av et medium som får tilskudd til saker på samiske språk, siste kalenderår før tilskuddsåret.
+Tilskudd til saker på nordsamisk beregnes på grunnlag av det enkelte mediets andel av samtlige saker som ble publisert på nordsamisk av et medium som får tilskudd til saker på samiske språk, siste kalenderår før tilskuddsåret.
+Et medieselskap kan maksimalt motta 1,5 millioner kroner per år i tilskudd til saker på samiske språk. Et medieselskap kan ikke få tilskudd til saker på samiske språk etter denne forskriften, dersom medieselskapet har mottatt offentlig tilskudd til å produsere de samme sakene fra andre offentlige tilskuddsordninger.
+Et medium som mottar produksjonstilskudd med variabelt tilskudd beregnet etter § 12 kan ikke bruke de samme artiklene som grunnlag for tilskudd til saker på samiske språk.
+Til og med tilskuddsåret 2027 kan tilskudd til saker på lule- og sørsamisk beregnes ut fra antall egenproduserte samiske avissider.
