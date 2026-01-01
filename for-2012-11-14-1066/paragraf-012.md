@@ -1,0 +1,3 @@
+# § 12. Pristilbud
+Dersom forbrukeren ber om det, skal den næringsdrivende gi skriftlig pristilbud før avtale om en tjeneste inngås. Pristilbudet skal, med mindre forbrukeren uttrykker ønske om noe annet, inneholde alle deltjenester og varer som inngår i tjenesten og angi totalprisen så langt det er praktisk mulig.
+Er prisen på deltjenester og varer usikker, skal forholdene som vil påvirke den endelige prisen, oppgis. Dersom den næringsdrivende etter at tjenesten er påbegynt levert oppdager nye forhold som gjør at prisen vil øke i forhold til tilbudet, skal forbrukeren straks orienteres om det.

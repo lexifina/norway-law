@@ -1,0 +1,3 @@
+# § 25d. Pristilbud for drosjetjenester
+Dersom forbrukeren oppgir et tilstrekkelig avgrenset bestemmelsessted for en ønsket drosjetjeneste, skal tilbyderen uoppfordret gi forbrukeren et pristilbud før de inngår en avtale om transport. Pristilbudet skal angi totalprisen for drosjetjenesten.
+Tilbyderen skal opplyse forbrukeren om at forbrukeren skal betale den laveste totalprisen av pristilbudet, en fastpris som eventuelt tilbys på strekningen og parallelltaksten med eventuelle tillegg, jf. forskrift 30. september 2010 nr. 1307 om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn § 3 andre ledd, jf. § 2 andre punktum.

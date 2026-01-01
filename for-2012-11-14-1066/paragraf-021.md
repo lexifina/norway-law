@@ -1,0 +1,4 @@
+# § 21. Prislister
+Kraftleverandøren skal ha oppdatert prisliste lett tilgjengelig på det stedet eller i de kanaler der forbrukeren kan inngå kraftavtaler. Har kraftleverandøren hjemmeside, skal oppdatert prisliste også fremgå der. Opplysningene i prislisten skal presenteres på en klar og tydelig måte.
+Prislisten skal inneholde en samlet oversikt over priser og vilkår for alle kraftleverandørens ulike kraftavtaler, herunder kraftavtaler som ikke lenger tilbys, men som kraftleverandøren har aktive kundeforhold på.
+Prislisten skal for hver enkelt kraftavtale per prisområde angi navnet på kraftavtalen, avtaletypen, pris og lenke til avtalevilkår. Dersom kraftleverandøren opererer med ulike priselementer på de samme kraftavtalene, skal det opplyses om laveste og høyeste pris i form av et prisintervall fra–til. Prislisten skal inneholde informasjon om at forbrukeren kan sammenligne kraftavtaler på Forbrukerrådets strømprisportal.
