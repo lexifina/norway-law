@@ -1,0 +1,5 @@
+# § 3-13. Plikt til å registrere deling av kraftproduksjon med nettkunder innenfor samme næringsområde
+Nettselskapet skal, på forespørsel fra en produsent, registrere i Elhub deling av produksjon av elektrisitet i samsvar med vilkårene i denne bestemmelsen.
+Elektrisitet som deles må være produsert av fornybare energikilder og ved produksjonsanlegg på bebygd areal, som er bebygd for et annet formål enn produksjonsanlegget. Samlet installert effekt på produksjonsanleggene som deltar i delingsløsningen etter denne bestemmelsen kan ikke være større enn 5 MW (AC) innenfor et næringsområde.
+En produsent kan kun dele kraft med målepunkt innenfor samme eiendom og nærliggende eiendommer dersom disse eiendommene inngår i et og samme næringsområde. Med næringsområde menes et geografisk avgrenset areal der næringsvirksomheter er samlokalisert, og omfatter næringsparker, industriparker og lignende hvor næringsvirksomheter samarbeider, har fellesfunksjoner og deler infrastruktur. Næringsområde omfatter ikke generell næringsbebyggelse i by- og sentrumsområder. Delingen skal registreres per målepunkt-ID.
+Reglene i § 3-12 tredje og fjerde ledd gjelder tilsvarende.

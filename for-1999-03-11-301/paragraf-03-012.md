@@ -1,0 +1,5 @@
+# § 3-12. Plikt til å registrere deling av kraftproduksjon med nettkunder innenfor samme eiendom
+Nettselskapet skal, på forespørsel fra en produsent, registrere i Elhub deling av produksjon av elektrisitet produsert av fornybare energikilder med nettkunder innenfor samme eiendom. Med samme eiendom menes her samme kommune-, gårds-, bruksnummer og eventuelt festenummer. Delingen skal registreres per målepunkt-ID.
+Samlet installert effekt på produksjonsanleggene som deltar i delingsløsningen kan ikke være større enn 1 MW (AC) per eiendom.
+Kunder som mottar delt produksjon kan ikke fordele denne videre til andre nettkunder og kan ikke ha produksjon bak eget målepunkt.
+Nettselskapet skal tilby produsentene valget mellom lik fordeling og valgfri statisk fordeling mellom målepunktene. Med lik fordeling menes at overskuddsproduksjon som måles i en time fordeles likt mellom målepunktene som deler på slik produksjon. Med valgfri statisk fordeling menes at overskuddsproduksjon som måles i en time fordeles basert på innmeldt andel for hvert målepunkt som deler på denne produksjonen. Nettselskapet og produsenten kan avtale at annen fordelingsnøkkel skal brukes.

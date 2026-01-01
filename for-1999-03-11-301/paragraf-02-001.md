@@ -1,0 +1,6 @@
+# § 2-1. Kraftleveranse ved anleggsovertagelse og oppstart
+Kraftleverandør skal melde anleggsovertagelse og oppstart på vegne av sluttbruker ved å sende melding om leveringsstart etter § 2-4.
+Avregningsansvarlig skal akseptere dato for anleggsovertakelse og oppstart maksimalt 30 virkedager før mottatt melding om leveringsstart. Avregningsansvarlig skal etter mottatt melding om leveringsstart sende melding om leveringsstart til nettselskap etter § 2-5, til kraftleverandør som tar over leveransen etter § 2-6 og melding om opphør til kraftleverandør som avslutter leveransen etter § 2-7. Melding om leveringsstart frem i tid skal sendes senest tre virkedager før leveringsstart i profilavregnede målepunkt og senest én kalenderdag før leveringsstart i intervallavregnede målepunkt. Meldingen skal sendes straks ved leveringsstart tilbake i tid.
+Kraftleverandør kan etter fullmakt fra sluttbruker inngå avtale om tilknytning og bruk av nettet på vegne av sluttbruker.
+Det må være samme sluttbruker som inngår avtale om bruk av nettet og kraftleveranse i det enkelte målepunkt.
+Dersom sluttbruker står uten kraftleveringsavtale ved anleggsovertagelse og oppstart, skal leveranse skje gjennom nettselskapets leveringsplikt i henhold til energiloven § 3-3.

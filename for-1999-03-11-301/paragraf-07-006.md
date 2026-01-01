@@ -1,0 +1,6 @@
+# § 7-6. Fakturering av sluttbrukere med spotprisavtaler og registreringsfrekvens på 60 minutter
+Kraftleverandører som fakturerer sluttbrukere med spotprisavtaler og forbruk med registreringsfrekvens på 60 minutter, skal bruke Nord Pool sin publiserte timespris per budområde oppgitt i NOK. Dette gjelder også sluttbrukere med profilavregnet forbruk.
+Faktureringen baseres på sluttbrukerens forbruk av elektrisk energi per time etter § 7-5. For sluttbrukere med profilavregnet forbruk skal kraftleverandør summere opp de profilerte verdiene slik at de får en timesverdi for hver enkelt time.
+Denne bestemmelsen gjelder også for kraftleverandørers fakturering av innmating og uttak hos plusskunder og nettselskapenes fakturering av nettselskapets leveringsplikt etter energiloven § 3-3.
+Dersom pris nevnt i første ledd ikke er tilgjengelig, eller det av andre årsaker er nødvendig, kan RME fastsette en metode for hvordan kraftleverandører og nettselskap skal regne ut prisen de skal bruke ved fakturering etter denne bestemmelsen.
+Denne bestemmelsen gjelder fra og med døgnmarkedet går over til 15 minutters tidsoppløsning, og gjelder for all fakturering av sluttbrukere i lavspent med spotprisavtale og 60 minutters registreringsfrekvens fra dette tidspunktet.

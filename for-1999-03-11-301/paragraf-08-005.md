@@ -1,0 +1,3 @@
+# § 8-5. Varedeklarasjon
+Kraftleverandøren skal informere sine sluttbrukere om opprinnelsen til leveranser av elektrisk energi i foregående år. Slik informasjon skal gis i salgsfremmende materiale og i forbindelse med fakturering, i form av en henvisning til internettsiden til Norges vassdrags- og energidirektorat, som ansvarlig for den nasjonale varedeklarasjonen.
+Kraftleverandører som ønsker en individuell varedeklarasjon innenfor Norges vassdrags- og energidirektorats ordning for varedeklarasjoner, skal gjøre dette ved å legge til grunn opplysningene lagt ut på internettsiden til Norges vassdrags- og energidirektorat, samt opprinnelsesgarantier innløst i registeret til den avregningsansvarlige.
