@@ -1,0 +1,2 @@
+# § 7b. Individuell fastsettelse av gebyr og årsgebyr
+Statens jernbanetilsyn kan ved enkeltvedtak fastsette gebyr og årsgebyr individuelt dersom gebyrets størrelse etter denne forskriften er åpenbart urimelig. Det skal blant annet legges vekt på om det har inntrådt spesielle omstendigheter etter søknadstidspunktet som søker ikke kan lastes for og som det vil være urimelig at søker bærer risikoen for.
