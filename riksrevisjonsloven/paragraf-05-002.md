@@ -1,0 +1,2 @@
+# § 5-2. Revisjon av statens eierstyring
+Riksrevisjonen skal ut fra en vurdering av risiko og vesentlighet revidere om statsråden ivaretar statens eierinteresser i samsvar med Stortingets vedtak og forutsetninger i selskaper hvor staten har bestemmende innflytelse. Riksrevisjonen avgjør i det enkelte tilfellet om staten anses å ha en bestemmende innflytelse. Riksrevisjonen reviderer statsrådens myndighetsutøvelse overfor Norges Bank.
