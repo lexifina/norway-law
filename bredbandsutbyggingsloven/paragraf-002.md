@@ -1,0 +1,4 @@
+# § 2. Saklig virkeområde
+Loven gjelder tilgang til fysisk infrastruktur som er egnet til framføring av høyhastighetsnett for elektronisk kommunikasjon. Slik fysisk infrastruktur omfatter elektronisk kommunikasjonsnett, elektrisitetsnett, vann- og avløpsnett, infrastruktur for oppvarming og transporttjenester, herunder jernbane- og vegnett, havner og flyplasser. Tilgang til veggrunnen omfattes ikke, mens tilgang til eventuelle trekkrør i veggrunnen omfattes. Ledninger eller rør til framføring av vannforsyning og drikkevann omfattes ikke av loven.
+Loven gjelder samordning av bygge- og anleggsarbeider som helt eller delvis er offentlig finansiert. Loven gjelder også etablering av fysisk infrastruktur for høyhastighetsnett i bygninger og tilgang til slik infrastruktur i bygninger for bredbåndsutbyggere.
+Ved eventuell motstrid mellom ekomloven og denne loven, har ekomloven forrang.
