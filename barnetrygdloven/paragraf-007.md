@@ -1,0 +1,3 @@
+# § 7. Barn av arbeidstaker ved utenlandsk representasjon eller annen administrativ tjenestegren
+Det gis ikke barnetrygd for barn som har fast bosted hos arbeidstaker ved utenlandsk representasjon eller annen administrativ tjenestegren her i riket, med mindre vedkommende er norsk statsborger eller fast bosatt her og betaler skatt til Norge av sin arbeidsinntekt.
+Det gis likevel barnetrygd for barn av ektefelle eller samboer til utsendt arbeidstaker ved utenlandsk representasjon eller annen administrativ tjenestegren her i riket når ektefellen eller samboeren helt eller delvis forsørger barnet og betaler skatt i Norge av sin årlige arbeidsinntekt som overstiger to ganger folketrygdens grunnbeløp.
