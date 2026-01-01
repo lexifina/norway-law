@@ -1,0 +1,3 @@
+# § 9. Innkreving av tilbakebetalingsbeløp eller avkortingsbeløp mv.
+Differansen mellom utbetalt beløp og berettiget tilskudd som følger av vedtak om tilbakebetaling etter § 7 eller avkortning etter § 8, kan kreves tilbakebetalt fra foretaket eller motregnes i senere tilskuddsutbetalinger.
+Der foretaket ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet frem til foretaket. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunkt for utbetaling av det urettmessige tilskuddet. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av lov 17. desember 1976 nr. 100 om renter ved forsinket betaling § 3.
