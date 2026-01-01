@@ -1,0 +1,5 @@
+# § 32. Sikkerhet i postnettet
+Tilbyderen skal undersøke, og om nødvendig selv eller ved hjelp av kompetent personell, åpne en postsending når det er mistanke om at postsendingen i seg selv er farlig å sende, eller det er mistanke om at den ikke er forsvarlig innpakket og av den grunn antas å kunne skade postnettet eller andre postsendinger.
+Tilbyderen kan avbryte formidling av postsending som er omfattet av første ledd. Tilbyderen skal gi avsenderen melding hvis postsendingen har vært åpnet eller formidlingen avbrytes dersom avsenderens navn og adresse er kjent. Dersom avsenderens navn og adresse ikke er kjent, skal mottakeren varsles om at postsendingen har vært åpnet, eller at formidlingen er avbrutt.
+Tilbyderen kan destruere postsending som er farlig å sende, jf. første ledd. Tilbyderen skal før destruering om mulig informere avsenderen om dette.
+Myndigheten kan gi forskrift og fatte enkeltvedtak om sikkerhet i postnettet, herunder om hvilke postsendinger som faller inn under første ledd.

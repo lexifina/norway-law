@@ -1,0 +1,5 @@
+# § 19. Utleveringspostkasse
+Eier eller bruksberettiget av fast, helårig bolig eller næringseiendom skal oppstille utleveringspostkasse eller tilsvarende for mottak av postsendinger til eiendommens postmottakere. Leveringspliktig tilbyder kan anmode eier av utleveringspostkasse om å flytte utleveringspostkassen til egnet sted.
+Dersom det settes opp utleveringspostkasser for fritidseiendom eller sesongbasert bosetting, skal disse plasseres ved nærmeste ordinære stopp i postruten, når ikke annet er avtalt.
+Utleveringspostkasse kan settes opp på fremmed grunn når leveringspliktig tilbyder finner det nødvendig av hensyn til en effektiv postomdeling og det ikke volder særlig skade eller ulempe.
+Myndigheten kan gi forskrift om plassering av utleveringspostkasse, herunder om avstandskrav for plassering av utleveringspostkasse, ulike avstandskrav for tettbygd og spredtbygd strøk og særlige regler for levering til bevegelseshemmede. Myndigheten kan gi forskrift om unntak fra slike avstandskrav, herunder antallet faste, helårlige boliger eller næringseiendommer som kan omfattes av unntaket. Myndigheten kan gi forskrift om krav til merking av utleveringspostkasse.
