@@ -1,0 +1,2 @@
+# § 25e. Spesifisert kvittering for en drosjetjeneste
+Tilbyderen skal gi forbrukeren en spesifisert kvittering når drosjetjenesten er utført. Kvitteringen skal inneholde pristilbudet etter § 25d og utfyllende opplysninger om hvordan parallelltaksten er beregnet, det vil si oppgi de aktuelle takstelementene og tilleggene etter forskrift 30. september 2010 nr. 1307 om takstberegning og maskimalpriser for løyvepliktig drosjetransport med motorvogn.
