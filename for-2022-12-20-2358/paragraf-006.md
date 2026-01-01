@@ -1,0 +1,5 @@
+# § 6. Gjennomføring av kroppsvisitasjon og undersøkelser av barnets rom, eiendeler, brev og pakker
+Dersom barnet eller den ansatte som skal foreta kroppsvisitasjon, ønsker det, jf. barnevernsloven § 10-8, skal kroppsvisitasjon gjennomføres med to ansatte til stede. Kroppsvisitasjonen skal foretas av en person av samme kjønn som barnet, med mindre barnet av særlige grunner ikke ønsker det.
+Undersøkelser av rom og eiendeler skal foretas mens barnet er til stede, med mindre dette er uforholdsmessig vanskelig fordi barnet har forlatt institusjonen uten samtykke, ikke ønsker å være til stede eller lignende.
+Undersøkelser av brev og pakker skal foregå ved at posten åpnes av institusjonens leder eller den lederen gir fullmakt i nærvær av postens mottaker eller avsender. Ved klage over vedtak om undersøkelser av brev og pakker skal ikke undersøkelsen foretas før klagebehandlingen er avsluttet.
+Kroppsvisitasjon og undersøkelser skal skje så skånsomt som mulig og på en måte som ivaretar barnets integritet.

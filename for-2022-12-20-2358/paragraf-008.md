@@ -1,0 +1,2 @@
+# § 8. Gjennomføring av rusmiddeltesting
+Institusjonen skal ha regler og rutiner for avleggelse av prøver av biologisk materiale. Barnet skal gjøres kjent med reglene og rutinene for prøvetaking før samtykke kan gis. Samtykke til rusmiddeltesting etter lovens § 10-7 skal være skriftlig og kan når som helst trekkes tilbake. Når rusmiddeltesting kan kreves etter § 10-13 skal barnet gjøres kjent med reglene og rutinene for prøvetaking ved inntak til institusjonen. Prøver av biologisk materiale skal håndteres i samsvar med Helsedirektoratets prosedyrer for rusmiddeltesting.
