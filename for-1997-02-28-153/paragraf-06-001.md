@@ -1,0 +1,5 @@
+# § 6-1. Tjenester som må godkjennes
+Medietilsynet avgjør om det skal gis tillatelse til å innlemme nye tjenester i Norsk rikskringkasting AS' allmennkringkastingsoppdrag. Dette omfatter tjenester som vil utgjøre en vesentlig endring av det eksisterende allmennkringkastingstilbudet.
+Ved vurdering av om en tjeneste må forhåndsgodkjennes skal det blant annet legges vekt på om den nye tjenesten skiller seg vesentlig fra andre tjenester som allerede tilbys innenfor allmennkringkastingstilbudet, hvilken effekt tjenesten vil ha på markedet som sådan og kostnadene forbundet med å utvikle og tilby tjenesten.
+Oppstart av midlertidige tjenester for å imøtekomme informasjonsbehovet i forbindelse med uforutsette endringer i nyhetsbildet på grunn av nødssituasjoner eller andre tilsvarende omstendigheter, behøver ikke forhåndsgodkjenning. Tilsvarende gjelder for midlertidige tjenester av innovativ karakter. En tjeneste som er planlagt å vare mer enn fire måneder vil ikke være å betrakte som midlertidig.
+I tvilstilfeller avgjør Medietilsynet om NRK må søke om forhåndsgodkjenning av en ny tjeneste.

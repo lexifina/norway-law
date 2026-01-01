@@ -1,0 +1,3 @@
+# § 2A-4. Universell utforming av bildeprogrammer i kommersielle fjernsynskanaler og audiovisuelle bestillingstjenester med lav seeroppslutning
+Tilbydere av kommersielle fjernsynskanaler og audiovisuelle bestillingstjenester som ikke omfattes av kravene i §§ 2A-2 eller 2A-3, skal løpende og gradvis universelt utforme bildeprogrammene i sine tjenester ved forholdsmessige tiltak.
+Ved vurderingen av hva som er forholdsmessige tiltak etter første ledd, skal det blant annet tas hensyn til den enkelte tjenestetilbyders økonomiske forutsetninger og seerandeler, og den teknologiske utviklingen av tilgjengelighetstjenester.

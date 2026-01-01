@@ -1,0 +1,12 @@
+# § 2-3. Definisjon av europeiske verk
+Med europeiske verk forstås verk som har sin opprinnelse i stater som har tiltrådt EØS-avtalen eller i stater som har tiltrådt Europarådets konvensjon om fjernsyn over landegrensene. Verkene må være produsert ved medvirkning av opphavsmenn og medarbeidere bosatt i ett eller flere av de nevnte stater.
+Verkene må videre oppfylle minst ett av følgende tre vilkår:
+a) De må være produsert av én eller flere produsenter etablert i de nevnte stater, eller
+b) produksjonen må faktisk overvåkes og kontrolleres av én eller flere produsenter etablert i de nevnte stater, eller
+c) samprodusenter i de nevnte stater må stå for majoriteten av de totale samproduksjonskostnader. Samproduksjonen skal ikke kontrolleres av én eller flere produsenter etablert utenfor de nevnte stater.
+Verk som hovedsakelig er produsert ved medvirkning av opphavsmenn og medarbeidere bosatt i en eller flere stater som har tiltrådt EØS-avtalen, men som ikke omfattes av første og andre ledd, skal anses som europeiske verk i samme forhold som samprodusenter i statene som har tiltrådt EØS-avtalen har bidratt til å dekke de totale produksjonskostnader.
+Med europeiske verk forstås også verk som har sin opprinnelse i andre europeiske stater enn stater som har tiltrådt EØS-avtalen eller Europarådets konvensjon om fjernsyn over landegrensene. For slike verk er det en forutsetning at verkene hovedsakelig er produsert med medvirkning av opphavsmenn eller medarbeidere bosatt i en eller flere europeiske stater samt at:
+d) Verkene enten utelukkende er produsert av eller i samproduksjon med produsenter etablert i en eller flere stater som har tiltrådt EØS-avtalen, eller
+e) verkene er produsert av produsenter etablert i andre europeiske stater og det er inngått nødvendige avtaler mellom stater som har tiltrådt EØS-avtalen og vedkommende stat.
+Første til fjerde ledd får anvendelse under forutsetning av at verker som har sin opprinnelse i stater som har tiltrådt EØS-avtalen, ikke blir utsatt for diskriminerende tiltak i de berørte europeiske tredjestater.
+Verk som er produsert innen rammen av bilaterale avtaler om samproduksjon inngått mellom stater som har tiltrådt EØS-avtalen og andre stater, men som ikke omfattes av de foregående ledd, skal anses som europeiske verk, forutsatt at samprodusenter i stater som har tiltrådt EØS-avtalen dekker størstedelen av de totale produksjonskostnadene, og at produksjonen ikke kontrolleres av en eller flere produsenter etablert utenfor medlemsstatenes territorium.

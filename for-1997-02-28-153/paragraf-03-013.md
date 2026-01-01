@@ -1,0 +1,7 @@
+# § 3-13. Særlige regler om Norsk rikskringkasting AS
+Sider i Norsk rikskringkasting AS' tekstfjernsyn som inneholder programoversikter skal ikke inneholde reklame. Ved identifisering av sponsor i Norsk rikskringkasting AS' sendinger i kringkasting og audiovisuelle bestillingstjenester, gjelder i tillegg til forskriften § 3-10 at sponsor kun kan identifiseres muntlig og/eller ved et ikke-bevegelig bilde. Sponsoridentifiseringen kan ikke inneholde stillbilder eller bevegelige bilder av sponsors produkt eller tjeneste. Sponsor kan ikke identifiseres i program eller i programtrailere i Norsk rikskringkasting AS' sendinger.
+Norsk rikskringkasting AS kan motta tilskudd fra sponsorer til:
+a) produksjon og sendinger som sendes direkte eller i opptak fra idrettsarrangement. NRK kan ikke motta tilskudd til andre idrettsprogram som ikke er rene sendinger fra idrettsarrangement.
+b) produksjon fra arrangement, når produksjonen helt eller delvis skjer i NRKs regi og programmet skal sendes til flere land eller er av samfunnsmessig interesse eller kulturell betydning; fortrinnsvis produksjoner fra viktige nasjonale begivenheter.
+c) produksjon av undervisningsprogram. For undervisningsprogram som er rettet mot barn og/eller ungdom gjelder § 3-11 første ledd tilsvarende. Ved vurderingen av om et undervisningsprogram er rettet mot barn og/eller ungdom får § 3-6 anvendelse så langt den passer.
+Norsk rikskringkasting AS kan ikke motta tilskudd fra sponsorer til andre typer program enn det som følger av andre ledd.
