@@ -1,0 +1,3 @@
+# § 9-6. Kapasitetsanalyse
+(1) Infrastrukturforvalter skal innen seks måneder fra det tidspunkt jernbaneinfrastrukturen er erklært overbelastet utføre en kapasitetsanalyse. Kapasitetsanalysen skal avklare årsakene til overbelastningen og angi hvilke tiltak som kan treffes på kort og mellomlang sikt for å redusere overbelastningen.
+(2) Kapasitetsanalysen skal omfatte jernbaneinfrastrukturen, driftsprosedyrene, arten av de ulike transporttjenester på jernbaneinfrastrukturen, samt virkningen av alle disse faktorene på infrastrukturkapasiteten. Tiltakene som skal overveies omfatter særlig om trafikken kan kjøres på en annen strekning, endring av ruteplanen, hastighetsendringer og forbedringer av jernbaneinfrastrukturen.

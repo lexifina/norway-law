@@ -1,0 +1,2 @@
+# § 1-1a. Formål
+Formålet med forskriften er å tydeliggjøre roller og ansvar i jernbanesektoren og legge til rette for at aktører i jernbanesektoren bidrar til at statens jernbanepolitiske mål nås. De jernbanepolitiske målene skal bidra til et hensiktsmessig person- og godstogtilbud der kapasitet og øvrige ressurser utnyttes på en effektiv, samfunnsnyttig og sikker måte, og fremgår av gjeldende nasjonale transportplan og øvrige styringsdokumenter fra departementet.

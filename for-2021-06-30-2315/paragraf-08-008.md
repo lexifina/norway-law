@@ -1,0 +1,3 @@
+# § 8-8. Jernbaneinfrastruktur til spesielle formål
+(1) Infrastrukturkapasitet skal anses som tilgjengelig for bruk for alle typer transporttjenester som har de nødvendige egenskaper for å kunne utnytte det aktuelle ruteleiet.
+(2) Der det finnes egnede alternative ruter kan infrastrukturforvalteren, etter samråd med berørte parter, reservere jernbaneinfrastruktur til bruk for bestemte typer trafikk. Slik reservasjon skal ikke være til hinder for at den aktuelle jernbaneinfrastrukturen kan utnyttes av andre typer trafikk dersom det finnes tilgjengelig kapasitet. Opplysninger om reservert jernbaneinfrastruktur skal fremgå av netterklæringen.

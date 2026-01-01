@@ -1,0 +1,2 @@
+# § 8-4. Kapasitetsfordeling over flere jernbanenett
+Infrastrukturforvalter skal samarbeide med andre infrastrukturforvaltere for på en effektiv måte å kunne skaffe til veie og fordele infrastrukturkapasitet som går over flere enn ett jernbanenett i EØS-området. Dette samarbeidet gjelder også inngåelse av rammeavtaler etter § 7-1. Infrastrukturforvalter skal, i samsvar med forskriften her, fastsette egnede framgangsmåter for å oppnå dette. Ruteleier som går over flere enn ett jernbanenett skal organiseres i samsvar med disse fremgangsmåtene.

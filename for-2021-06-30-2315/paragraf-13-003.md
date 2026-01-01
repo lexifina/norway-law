@@ -1,0 +1,2 @@
+# § 13-3. Innsamling av informasjon om jernbanemarkedene
+Virksomheter som er underlagt denne forskriften må rapportere til Statens jernbanetilsyn om informasjon som er nødvendig for å overvåke jernbanemarkedene. Statens jernbanetilsyn kan fastsette nærmere bestemmelser om slike rapporteringsforpliktelser, herunder hvem som rapporterer, hvilke opplysninger det skal rapporteres om og hvordan slik rapportering skal skje.

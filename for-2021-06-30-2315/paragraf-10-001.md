@@ -1,0 +1,2 @@
+# § 10-1. Avtaler med infrastrukturforvalteren
+Ethvert jernbaneforetak som yter jernbanetransporttjenester skal inngå de nødvendige administrative, tekniske og finansielle avtaler med infrastrukturforvalteren for den jernbaneinfrastruktur som benyttes, herunder avtale som gir infrastrukturforvalteren nødvendige trafikkdata og annen relevant informasjon for å kunne ivareta sine oppgaver som planlegger og forvalter av jernbaneinfrastrukturen. Vilkårene i disse avtalene skal sikre åpenhet og ikke-diskriminering og være i overensstemmelse med forskriften her.

@@ -1,0 +1,5 @@
+# § 3-5. Infrastrukturforvalters upartiskhet ved trafikkstyring og vedlikeholdsplanlegging
+(1) Infrastrukturforvalters oppgaver forbundet med trafikkstyring og vedlikeholdsplanlegging skal utøves på en ikke-diskriminerende og gjennomsiktige måte. Infrastrukturforvalter skal i denne forbindelse sikre at det ikke foreligger interessekonflikter som kan skape tvil om ansvarlige personers egnethet til å treffe beslutninger om dette.
+(2) Infrastrukturforvalter skal sikre at jernbaneforetak, ved stans eller andre former for avbrytelser, har full og rettidig tilgang til relevante opplysninger som gjelder dem. Infrastrukturforvalter skal gi tilgang til opplysninger på en transparent og ikke-diskriminerende måte.
+(3) Ved planlegging av omfattende vedlikehold eller fornyelse skal infrastrukturforvalter sørge for at søkere blir hørt. Infrastrukturforvalter skal i videst mulig omfang ta hensyn til søkernes eventuell bekymringer eller innvendinger.
+(4) Planlegging av vedlikeholdsarbeid skal skje på en ikke-diskriminerende måte.

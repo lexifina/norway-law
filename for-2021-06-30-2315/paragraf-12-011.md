@@ -1,0 +1,3 @@
+# § 12-11. Fornyet lisens ved endring av jernbaneforetakets rettslige stilling m.m.
+(1) Den lisensutstedende myndigheten skal varsles ved endringer i jernbaneforetakets rettslige stilling, herunder skifte av daglig leder eller endringer i eierforhold, for eksempel fusjon, overtakelse eller større endringer i eiersammensetningen. Den lisensutstedende myndigheten kan i slike tilfeller kreve at det skal søkes om ny lisens. Virksomheten kan fortsette mens søknaden behandles dersom sikkerheten ivaretas.
+(2) Dersom et jernbaneforetak har til hensikt å endre eller utvide sin virksomhet i betydelig grad, skal lisensen fremlegges den lisensutstedende myndigheten for fornyet vurdering.

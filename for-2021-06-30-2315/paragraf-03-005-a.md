@@ -1,0 +1,2 @@
+# § 3-5a. Planlegging av vedlikeholdsarbeider og andre midlertidige kapasitetsbegrensninger
+Infrastrukturforvalter skal sikre at vedlikeholdsarbeider og andre midlertidige kapasitetsbegrensninger planlegges på en måte som gir størst mulig samfunnsøkonomisk lønnsomhet og som begrenser negative virkninger for søkerne og brukere av jernbanetjenester. Infrastrukturforvalter skal ta hensyn til innspill fra søkere, særlig gjennom bruk av koordineringsmekanismen omhandlet i § 3-8 og samråd med berørte parter ved utarbeidelsen av netterklæringen etter § 5-1.
