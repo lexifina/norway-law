@@ -1,0 +1,3 @@
+# § 22 a. Forskrift
+(1) Nærmere regler om regnskap og bokføring, definisjon av bidrag og ytelser, bruk av revisorer, tilbakebetaling, verdifastsetting og overføring av ulovlige bidrag til statskassen, innberetningsmåten og om organiseringen av det sentrale registeret fastsettes i forskrift av departementet.
+(2) Departementet kan i forskrift gi regler om at innberetningssystemet helt eller delvis også skal omfatte finansieringen av valgkamper til kandidater som representerer politiske partier eller partiledd og som vinner representasjon til folkevalgte organer. Innberetning foretas som en del av partiets eller partileddets årlige innberetning etter denne loven.

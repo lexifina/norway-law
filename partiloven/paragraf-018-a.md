@@ -1,0 +1,3 @@
+# § 18 a. Plikt til registrering og krav til regnskapssystem
+(1) Enhver transaksjon eller disposisjon som har virkning på sammensetning av og størrelsen på partiets eller partileddets inntekter, kostnader, gjeld eller eiendeler, skal registreres i et regnskapssystem. Opplysningene skal regnskapsføres og spesifiseres korrekt og nøyaktig og på en slik måte at det etterpå er mulig å foreta rekonstruksjon.
+(2) Regnskapssystemet skal være innrettet ordentlig og oversiktlig og på en måte som muliggjør innberetning til det sentrale registeret for ordningen og kontroll med at innberetningspliktige opplysninger er riktige.
