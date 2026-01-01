@@ -1,0 +1,2 @@
+# § 6. Oversikt over drivstofforbruk, CO2- og NOx-utslipp
+Statens vegvesen utarbeider og ajourholder løpende en oversikt over drivstofforbruk, CO2- og NOx-utslipp for nye personbiler, jf. art. 4 i direktiv 1999/94/EF, som endret ved direktiv 2003/73/EF og anbefalt i rekommandasjon (EU) 2017/948. Oversikten gjøres tilgjengelig for forbrukerne på www.vegvesen.no (Nybilvelgeren). Forbrukerne skal ved forespørsel gis gratis tilgang til oversikten på utsalgsstedene og hos Statens vegvesen.

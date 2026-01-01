@@ -1,0 +1,4 @@
+# § 9. Overtredelsesgebyr
+Dersom noen på vegne av foretaket som utstiller personbiler for salg eller leasing forsettlig eller uaktsomt overtrer bestemmelsene om energimerking som fastsatt i § 2 første ledd, kan Statens vegvesen ilegge utsalgsstedet et overtredelsesgebyr.
+Overtredelsesgebyret utmåles i det enkelte tilfelle. Utmålingen skal foretas med utgangspunkt i de hensyn som oppregnes i forvaltningsloven § 46 andre ledd. Øvre ramme for gebyret fastsettes til 20 ganger rettsgebyr, jf. lov 17. desember 1982 nr. 86 om rettsgebyr. Statens vegvesen kan gi nærmere retningslinjer for utmålingen av overtredelsesgebyret.
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 første ledd bokstav d. Overtredelsesgebyret kreves inn av Innkrevingsmyndigheten og tilfaller staten.

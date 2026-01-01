@@ -1,0 +1,6 @@
+# § 2. Forhandleres og fabrikanters forpliktelser
+Enhver som utstiller nye personbiler på et utsalgssted, skal før utstilling anbringe et energimerke i henhold til § 3 klart synlig på eller i nærheten av hver enkelt bil. For personbiler som tilbys for salg eller leasing via fjernsalg, skal utstiller sikre at energimerket vises tett ved prisangivelsen. Nye personbiler må ikke forsynes med andre etiketter, symboler eller inskripsjoner enn det i § 3 nevnte energimerke dersom disse kan virke villedende eller misvisende.
+Enhver som utstiller personbiler på et utsalgssted skal vederlagsfritt gi tilgang til den i § 6 nevnte oversikt over drivstofforbruk, CO2- og NOx-utslipp til forbrukere som ber om det.
+Enhver som stiller ut nye personbiler på et utsalgssted, skal på lett synlig sted sette opp en plakat eller et display for hvert enkelt bilmerke i overensstemmelse med § 4.
+Fabrikanten eller importør skal stille nødvendige opplysninger til rådighet for forhandleren slik at denne kan utføre sine plikter i henhold til denne forskrift.
+Pliktene etter første ledd gjelder ikke for utstilte nullutslippsbiler. Pliktene etter andre og tredje ledd gjelder ikke for utsalgssted som bare utstiller nullutslippsbiler.
