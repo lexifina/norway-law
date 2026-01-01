@@ -1,0 +1,2 @@
+# § 1. Formål
+Tilskuddet skal bidra til å jevne ut transportkostnadene ved frakt av storfe, småfe og gris fra produsent til godkjent slakteri og frakt av mobilt slakteri til produsent. Tilskuddet skal bidra til effektiv og miljøvennlig inntransport. Tilskuddet skal også ivareta rammevilkårene til små slakterier, fordi disse kan bidra til særskilt tilpassede driftsformer nær slakteriet, og ofte er viktige i utviklingen av regionale matspesialiteter.
