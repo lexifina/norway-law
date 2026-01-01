@@ -1,0 +1,2 @@
+# § 6. Krepseåpning
+Ved fiske i Norges territorialfarvann og økonomiske sone sør for 62° N innenfor 4 nautiske mil fra grunnlinjen og i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr, innenfor 4 nautiske mil fra grunnlinjen kan det benyttes krepseåpning i selve sorteringsristen. Krepseåpningen skal da være i nedre del av rammen, ha en åpning/spaltehøyde på maksimalt 15 cm, og være lik sorteringsristens bredde.
