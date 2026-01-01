@@ -1,0 +1,4 @@
+# § 1. Gebyr ved utlegg
+Når kommunen sender varsel etter tvangsfullbyrdelsesloven § 2-15 andre ledd første punktum, kan den kreve at skyldneren betaler et gebyr på inntil 0,345 ganger rettsgebyret. Det betales ikke gebyr ved gjentatt varsel etter tvangsfullbyrdelsesloven § 2-15 andre ledd andre punktum.
+Kommunen kan kreve at skyldneren betaler et gebyr på inntil 0,345 ganger rettsgebyret når den treffer beslutning om utleggspant eller utleggstrekk etter tvangsfullbyrdelsesloven § 2-15 første ledd, eller underretter skyldneren etter tvangsfullbyrdelsesloven § 2-15 andre ledd tredje punktum om at kommunen avslutter saken uten å beslutte utlegg. Ved unnlatt varsel etter tvangsfullbyrdelsesloven § 7-6 jf. § 2-15 andre ledd første punktum, kan kommunen etter første punktum kreve et gebyr på inntil 0,69 ganger rettsgebyret.
+Dersom utlegget kjennes ugyldig eller tvangsgrunnlaget oppheves, bortfaller skyldnerens plikt til å betale gebyret.
