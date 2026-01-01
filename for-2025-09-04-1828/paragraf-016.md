@@ -1,0 +1,3 @@
+# § 16. Studiets oppbygging
+Utdanningen skal organiseres slik at den fremmer integrering av teori og praksis, faglig progresjon, gjennomgående profesjonsretting og forskningsforankring. Undervisningsformer, pensum og vurderingsformer skal korrespondere med læringsutbytteformuleringer. Studiet bør tilrettelegges slik at studentene får trening i kritisk og etisk refleksjon samt praktiske ferdigheter. Videre bør studiet gi studentene mulighet til å utfordres på og arbeide med egne holdninger og forforståelser.
+Progresjon i utdanningen nødvendiggjør at kompetanseområder og læringsarenaer utfyller hverandre gjennom utdanningsløpet. Faglig progresjon forutsetter at studenten bygger kompetanse fra generell mot spesialisert kompetanse.
