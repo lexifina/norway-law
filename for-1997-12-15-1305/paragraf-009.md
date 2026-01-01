@@ -1,0 +1,4 @@
+# § 9. Overgangsregler
+(1) For bolig- eller fritidseiendom ervervet før 1. januar 1998, kan skattyter kreve at inngangsverdien oppreguleres til omsetningsverdien pr. 1. januar 1998. Skattyter må godtgjøre omsetningsverdien pr. 1. januar 1998 ved takst som godkjennes av skattemyndighetene. Krav om oppregulering må fremsettes skriftlig, og senest 1. juli 1998.
+(2) For aksjer, grunnfondsbevis og andeler i aksje- og obligasjonsfond ervervet før 1. januar 1998 som ikke er ervervet som ledd i skattyterens næringsvirksomhet, kan skattyter kreve at inngangsverdien oppreguleres til omsetningsverdien pr 1. januar 1998, dersom verdien blir dokumentert på tilfredsstillende måte.
+(3) Ligningsoppgaver for inntektsåret 1997 leveres i henhold til bestemmelsene i lov av 15. juli 1925 om skatt til Svalbard på formue og inntekt.
