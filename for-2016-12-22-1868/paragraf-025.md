@@ -1,0 +1,2 @@
+# § 25. Rapportering
+Ved vannforsyningssystem med produsert vann per døgn på minst 10 m3 skal vannverkseieren rapportere analyseresultatene fra råvannsprøvene i § 20 og drikkevannsprøvene i § 21. Vannverkseieren skal også rapportere andre relevante data som er nødvendige for å ivareta Norges internasjonale rapporteringsforpliktelser. Rapporteringen skal gjøres på skjema fastsatt av Mattilsynet innen 15. februar påfølgende år.

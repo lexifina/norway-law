@@ -1,0 +1,3 @@
+# § 14. Vannbehandlingskjemikalier
+Vannverkseieren og eieren av internt fordelingsnett skal sikre at det bare benyttes vannbehandlingskjemikalier som er godkjent av Mattilsynet. Liste over godkjente vannbehandlingskjemikalier finnes på Mattilsynets internettsider.
+Produsenter og importører skal søke Mattilsynet om godkjenning av vannbehandlingskjemikalier. Søknaden skal minst inneholde den dokumentasjonen som er beskrevet i vedlegg 3. Vannbehandlingskjemikalier kan bare godkjennes dersom bruken ikke medfører helsefarlige mengder stoffer i drikkevannet. Desinfeksjonsmidler skal godkjennes i samsvar med biocidforskriften. Mattilsynet kan trekke tilbake godkjenningen dersom ny informasjon tilsier det.
