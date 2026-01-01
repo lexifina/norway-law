@@ -1,0 +1,4 @@
+# § 31. Innkalling til foretaksmøte
+Styret innkaller til foretaksmøte og bestemmer innkallingsmåten. Innkallingen til ordinært foretaksmøte skal foretas skriftlig senest én måned før møtet, og skal være vedlagt årsregnskap, årsberetning og revisors beretning. Innkallingen til ekstraordinært foretaksmøte skal foretas senest to uker før møtet, om ikke kortere varsel i særlig tilfelle er påtrengende nødvendig.
+Til møtet innkalles de som etter § 28 annet ledd har rett til å være til stede i foretaksmøtet.
+Innkallingen skal bestemt angi de saker som skal behandles på møtet. Vil vedtektene bli foreslått endret, skal hovedinnholdet i forslaget gjengis i innkallingen. Foretaksmøtet kan ikke treffe vedtak i andre saker enn de som er nevnt i innkallingen med mindre samtlige av de som etter § 28 annet ledd har rett til å være til stede samtykker i det.

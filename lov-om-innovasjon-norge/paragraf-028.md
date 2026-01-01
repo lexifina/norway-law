@@ -1,0 +1,4 @@
+# § 28. Allment om foretaksmøtets myndighet og sammensetning
+Eierne utøver den øverste myndigheten i selskapet i foretaksmøtet. Eiernes myndighet i selskapet kan ikke utøves utenom i foretaksmøtet. De sakene som etter lov eller vedtekter hører inn under selskapet, skal behandles i foretaksmøtet.
+Staten representert ved eierdepartementet, fylkeskommunene, selskapets styre, administrerende direktør og revisor har rett til å være til stede og til å uttale seg i foretaksmøtet. Administrerende direktør og styrets leder har plikt til å være til stede med mindre dette er åpenbart unødvendig eller det foreligger gyldig forfall. I sistnevnte tilfelle skal det utpekes en stedfortreder. Selskapets revisor har plikt til å være til stede i den grad de sakene som skal behandles, er av slik art at revisors nærvær er ønskelig.
+Ved voteringer i foretaksmøtet vil hver eiers stemmeantall følge av deres eierandel.

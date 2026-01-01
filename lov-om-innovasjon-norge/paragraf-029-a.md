@@ -1,0 +1,4 @@
+# § 29 a. Beslutning av foretaksmøte uten møte
+Styret kan forelegge en sak til avgjørelse for foretaksmøtet uten å innkalle til møte. Dette gjelder bare hvis styret finner at saken kan behandles på en betryggende måte ved at den skriftlig forelegges eierne til avgjørelse.
+Styret skal i slike tilfeller sende saksdokumentene med forslag til beslutning og begrunnelse for forslaget til alle eierne og til daglig leder og revisor. Det skal angis en frist for å avgi stemme som ikke kan være kortere enn fristen for å innkalle til foretaksmøte, med mindre alle eierne er enige om en kortere frist. Eierne skal gjøres kjent med at de kan kreve at saken forelegges foretaksmøtet i møte.
+Saken skal forelegges foretaksmøtet i møte dersom dette kreves av et styremedlem, en eier eller revisor før utløpet av fristen for å avgi skriftlig stemme.
