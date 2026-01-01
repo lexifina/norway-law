@@ -1,0 +1,3 @@
+# § 2
+Er det tvil om det foreligger naturskade etter § 1 første ledd, eller om betingelsene for nedsettelse eller nektelse av erstatning etter § 1 sjette ledd er til stede, kan forsikringsselskapet eller den sikrede forelegge spørsmålet for Klagenemnda for naturskadesaker, jf. naturskadeerstatningsloven § 21. Selskapet skal underrette sikrede om hans rett etter bestemmelsen her. Klagenemndas vedtak kan ikke påklages.
+Hvis forsikringsselskapet ved behandlingen av en skadesak finner at et område er særlig utsatt for skred eller annen naturskade, jf. lov om sikring mot naturskader § 20, skal det snarest underrette vedkommende kommune om dette.
