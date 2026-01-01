@@ -1,0 +1,4 @@
+# § 7-5. Omdanning av statleg verksemd til statsføretak
+(1) Ei statleg verksemd eller ein del av ei slik verksemd kan som heilskap overførast til eit statsføretak ved at eigedelar, rettar og forpliktingar som er knytte til verksemda, blir overførte til eit statsføretak.
+(2) Det skal utarbeidast ein plan for overføringa. Skal statsføretaket stiftast i samband med overføringa, skal planen takast inn i stiftingsdokumentet, jf. § 2-2. Føresegnene om stifting av statsføretak i lova her gjeld tilsvarande. Skal verksemda overførast til eit eksisterande statsføretak, skal leiinga av den statlege verksemda og styret i statsføretaket utarbeide planen i fellesskap. Føretaksmøtet til statsføretaket skal godkjenne planen.
+(3) Føresegnene i aksjeloven §§ 13-9, 13-11 og 13-13 til 13-17 gjeld tilsvarande så langt føresegnene passar.

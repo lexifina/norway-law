@@ -1,0 +1,4 @@
+# § 5-27. Forbod mot å ta imot gåver m.m.
+(1) Dei som er tilsette eller har tillitsverv i føretaket, skal ikkje for seg eller andre ta imot gåver, provisjonar, tenester eller andre ytingar frå andre enn føretaket som er eigna til, eller av givaren meinte, å påverke handlingane deira for føretaket. Det same gjeld gåver m.m. som det er forbode å ta imot etter instruks frå føretaksmøtet eller styret.
+(2) Gåver, tenester eller andre ytingar som er nemnde i første ledd, kan heller ikkje takast imot av ektefellen til vedkomande, av ein person som vedkomande lever saman med, eller av eit selskap der ein person som nemnd i første ledd, aleine eller samla har bestemmande innverknad over verksemda.
+(3) Den som har teke imot ei yting i strid med forbodet i paragrafen her, pliktar å betale føretaket eit beløp som svarer til verdien av det som urettmessig er motteke.

@@ -1,0 +1,3 @@
+# § 3-11. Berekning av tap. Krav til eigenkapital m.m.
+(1) Ved berekninga av kva føretaket har i tap etter § 3-10 første ledd bokstav a, skal balansen i årsrekneskapen som sist vart godkjend, leggjast til grunn.
+(2) Vedtak som nemnt i § 3-10 første ledd bokstav b og c kan ikkje gjelde større beløp enn at føretaket etter nedsetjinga har att netto eigedelar som dekkjer innskotskapitalen til føretaket. Berekninga skal skje på grunnlag av balansen i årsrekneskapen som sist vart godkjend, men det er den registrerte innskotskapitalen på vedtakstidspunktet som skal leggjast til grunn. Aksjeloven § 8-1 tredje og fjerde ledd gjeld tilsvarande.

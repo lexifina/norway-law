@@ -1,0 +1,3 @@
+# § 3-2. Handleplikt ved tap av eigenkapital m.m.
+(1) Reknar ein med at eigenkapitalen er lågare enn forsvarleg ut frå risikoen ved og omfanget av verksemda i statsføretaket, skal styret straks handsame saka og varsle departementet. Departementet skal innan rimeleg tid etter at det har motteke varselet, kalle inn til føretaksmøte. Styret skal gi føretaksmøtet ei utgreiing om den økonomiske stillinga til føretaket. Dersom statsføretaket ikkje har ein forsvarleg eigenkapital i samsvar med § 3-1, skal styret i føretaksmøtet foreslå tiltak for å rette på dette.
+(2) Om styret ikkje finn grunnlag for å foreslå tiltak som nemnde i første ledd fjerde punktum, eller om slike tiltak ikkje lèt seg gjennomføre, skal styret foreslå å løyse opp føretaket.

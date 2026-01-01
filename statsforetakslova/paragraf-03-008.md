@@ -1,0 +1,2 @@
+# § 3-8. Utbyte
+Føretaket kan berre dele ut utbyte så langt det etter utdelinga har att netto eigedelar som gir dekning for innskotskapitalen til føretaket. Berekninga skal gjerast på grunnlag av balansen i den siste godkjende årsrekneskapen til føretaket, men det er den registrerte innskotskapitalen på vedtakstidspunktet som skal leggjast til grunn. Aksjeloven § 8-1 tredje og fjerde ledd gjeld tilsvarande.

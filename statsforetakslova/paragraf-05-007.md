@@ -1,0 +1,2 @@
+# § 5-7. Suppleringsval
+Blir vervet for ein styremedlem avslutta før tenestetida er ute, skal resten av styret varsle føretaksmøtet om at styrevervet har opphøyrt. Dersom det ikkje finst varamedlem, skal føretaksmøtet velje ein ny styremedlem for resten av tenestetida. Det same gjeld om ein styremedlem blir fråteken rettsleg handleevne eller blir sett i konkurskarantene etter konkursloven §§ 142 og 143. Val av ny styremedlem kan utsetjast til neste ordinære føretaksmøte dersom styret framleis er vedtaksført.

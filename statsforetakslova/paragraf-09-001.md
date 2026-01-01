@@ -1,0 +1,4 @@
+# § 9-1. Erstatningsansvar
+(1) Statsføretaket, staten eller andre kan krevje at dagleg leiar eller styremedlemer erstattar skade som dei i den nemnde eigenskapen har valda vedkomande med forsett eller aktlaust.
+(2) Statsføretaket, staten eller andre kan også krevje erstatning av den som med forsett eller aktlaust har medverka til skadevalding som nemnd i første ledd. Det kan krevjast erstatning av medverkaren sjølv om skadevaldaren ikkje kan haldast ansvarleg fordi vedkommande ikkje har handla med forsett eller vist aktløyse.
+(3) Aksjeloven §§ 17-2, 17-3, 17-5 og 17-6 gjeld tilsvarande så langt føresegnene passar. Aksjeloven §§ 17-3 og 17-5 gjeld tilsvarande for myndet til å krevje offentleg påtale og reise privat straffesak så langt føresegnene passar. Aksjeloven § 17-5 gjeld tilsvarande for krav frå føretaket på tilbakeføring etter § 3-7 og krav på ulovlege gåveytingar etter § 5-27 tredje ledd.

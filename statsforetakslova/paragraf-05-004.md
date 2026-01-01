@@ -1,0 +1,5 @@
+# § 5-4. Retten tilsette har til å velje styremedlemer i konsernforhold
+(1) Når eit statsføretak er morføretak i eit konsern, kan konsernet inngå skriftleg avtale med eit fleirtal av dei tilsette i konsernet eller med éin eller fleire lokale fagforeiningar som representerer eit fleirtal av dei tilsette i konsernet, om at dei tilsette i konsernet ved at § 5-4 kjem i bruk, skal reknast som tilsette i føretaket.
+(2) Når eit statsføretak er morføretak i eit konsern, og det ikkje er inngått avtale etter første ledd, kan Kongen etter søknad frå konsernet, eit fleirtal av dei tilsette i konsernet eller éin eller fleire lokale fagforeiningar som representerer eit fleirtal av dei tilsette i konsernet, bestemme at ved bruken av § 5-3 skal dei tilsette i konsernet reknast som tilsette i føretaket.
+(3) Første og andre ledd gjeld tilsvarande når eit statsføretak tilhøyrer ei gruppe av føretak som er knytte saman gjennom ei felles leiing.
+(4) Kongen kan ved enkeltvedtak eller i forskrift bestemme at paragrafen her skal gjelde for delar av eit konsern eller ei slik gruppe.

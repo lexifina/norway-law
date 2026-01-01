@@ -1,0 +1,4 @@
+# § 5-11. Særlege avgrensingar i myndet til styret m.m.
+(1) Før styret gjer vedtak i saker som ein reknar med kan ha vesentleg betydning for formålet til føretaket, eller som i vesentleg grad vil endre karakteren til verksemda, skal saka leggjast fram skriftleg for departementet. Vedtektene kan fastsetje nærare reglar om kva saker som skal leggjast fram for departementet etter første punktum.
+(2) I vedtektene kan det fastsetjast reglar om høvet til og avgrensingar føretaket har for å ta opp lån og stille garantiar. For avtalar som er i strid med slike vedtektsføresegner, gjeld § 5-32.
+(3) Styret kan ikkje utan samtykke frå føretaksmøtet inngå avtale om deltaking i eit selskap eller eit anna samarbeidsforhold der føretaket har eit uavgrensa ansvar for dei samla forpliktingane den felles verksemda har, eller for delar av desse forpliktingane.
