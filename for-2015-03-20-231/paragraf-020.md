@@ -1,0 +1,2 @@
+# § 20. Oppbevaring av lydopptak
+AMK- og legevaktsentralers lydopptak er å anse som en del av pasientens journal. Opptaket skal oppbevares i tre år etter opptaksdato og deretter slettes. Lydopptaket skal likevel ikke slettes der opptaket er brukt som del av beslutningsgrunnlag i tilsyns-, klage- eller erstatningssaker, inngår i annen saksbehandling eller opptaket av andre årsaker har verdi som dokumentasjon. Arkivforskriften § 14 gjelder tilsvarende.
