@@ -1,0 +1,3 @@
+# § 6. Opplysning om hvem som sitter i partiets utøvende organ
+(1) Registrerte partier skal ved endring av tidligere registrerte opplysninger, sende melding til Registerenheten i Brønnøysund om hvem som er medlemmer av partiets utøvende organ.
+(2) Partiene skal innen 2. januar i valgåret sende inn oppdaterte opplysninger eller bekreftelse på de opplysninger som er registrert i Partiregisteret, om hvem som er medlemmer i partiets utøvende organ med virkning for valget. Registreringsmyndigheten skal i god tid innen fristen informere partiene om de opplysninger som er registrert i Partiregisteret.
