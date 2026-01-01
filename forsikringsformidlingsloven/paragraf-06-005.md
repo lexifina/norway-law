@@ -1,0 +1,4 @@
+# § 6-5. Krav til hederlig vandel
+Person som nevnt i §§ 6-1 til 6-4 skal ikke være dømt for straffbart forhold eller i stilling eller ved utøvelsen av andre verv ha utvist adferd som gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte. Person som nevnt i §§ 6-1 til 6-4 skal heller ikke være under konkursbehandling, konkurskarantene eller gjeldsforhandling.
+Kravene i første ledd skal dokumenteres gjennom foreleggelse av ordinær politiattest etter politiregisterloven § 40 og bekreftelse fra Brønnøysundregistrene om at personen ikke er under konkursbehandling, konkurskarantene eller gjeldsforhandling.
+Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gi regler om begrenset politiattest.

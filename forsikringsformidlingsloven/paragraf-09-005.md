@@ -1,0 +1,4 @@
+# § 9-5. Behandling av tvister i klageorgan
+Forsikringsformidlingsforetak skal være tilsluttet en utenrettslig tvisteløsningsordning (klageorgan) som fastsatt i forskrift av departementet. Hvis det oppstår tvist mellom et forsikringsformidlingsforetak og en kunde, kan hver av partene kreve å få behandlet denne av klageorganet.
+Så lenge en sak er til behandling i klageorganet, kan en part ikke bringe saken inn for de alminnelige domstolene. En sak anses for å være til behandling fra det tidspunktet klageorganet mottok klagen. En sak som har vært behandlet i klageorganet, kan bringes inn for tingretten uten forutgående behandling i forliksrådet.
+Departementet kan i forskrift gi regler som utfyller paragrafen her. Departementet kan herunder gi regler om organisering, sammensetning og finansiering samt bestemmelser om at utgifter tilknyttet klageorganets virksomhet skal utliknes på forsikringsformidlingsforetakene eller dekkes av partene.
