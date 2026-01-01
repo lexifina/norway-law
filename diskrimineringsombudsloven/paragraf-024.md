@@ -1,0 +1,3 @@
+# § 24. Overgangsregler
+Saker om brudd på bestemmelser nevnt i § 1 annet ledd som er brakt inn for ombudet eller nemnda før ikrafttredelsen av denne loven, overføres til nemnda for videre behandling. Nemnda skal også behandle nye saker som gjelder forhold fra før lovens ikrafttredelse, hvis forholdet var i strid med bestemmelser nevnt i § 1 annet ledd eller tilsvarende bestemmelser slik de lød før ikrafttredelsen.
+Saker som nevnt i første ledd skal behandles etter reglene i loven her. Det kan bare treffes vedtak som nevnt i §§ 11, 12 og 13 i den utstrekning det også var adgang til det før ikrafttredelsen av loven her.

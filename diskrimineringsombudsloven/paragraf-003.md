@@ -1,0 +1,3 @@
+# § 3. Opplysningsplikt
+Offentlige myndigheter plikter uten hinder av taushetsplikt å gi ombudet og nemnda de opplysningene som er nødvendige for gjennomføringen av bestemmelsene nevnt i § 1 annet og fjerde ledd, jf. § 5 tredje ledd. Slike opplysninger kan også kreves av andre som har vitneplikt etter tvisteloven. Tvisteloven § 24-8 tredje ledd gjelder tilsvarende. Avgjørelse som nevnt i tvisteloven § 22-6 første ledd annet punktum, § 22-7, § 22-8 annet ledd, § 22-9 annet til fjerde ledd, § 22-10 annet punktum og § 22-11 annet ledd, treffes av tingretten.
+Ombudet og nemnda kan kreve bevisopptak ved domstolene, jf. domstolloven § 43 annet ledd.
