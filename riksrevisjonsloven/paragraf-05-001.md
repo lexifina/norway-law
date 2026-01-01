@@ -1,0 +1,6 @@
+# § 5-1. Forvaltningsrevisjon
+Riksrevisjonen skal med utgangspunkt i Stortingets vedtak og forutsetninger utføre systematiske undersøkelser av om statens ressurser utnyttes effektivt, i hvilken grad mål nås, regler etterleves og om økonomiforvaltningen er nøktern og forsvarlig.
+Riksrevisjonen kan gjennomføre forvaltningsrevisjoner i selskaper som i sin helhet eies av staten og i heleide datterselskaper til disse. Riksrevisjonen kan dessuten gjennomføre forvaltningsrevisjon i selskaper som staten eier sammen med annen offentlig virksomhet, med mindre det er avtalt at det er kommunal revisjon som skal gjennomføre forvaltningsrevisjon.
+Riksrevisjonen kan med utgangspunkt i Stortingets vedtak og forutsetninger revidere egnetheten av virkemidler som benyttes for å nå fastsatte mål, og om virksomheten er hensiktsmessig organisert.
+Ved utvelgelse av tema for, og innretning av, forvaltningsrevisjon skal Riksrevisjonen legge vekt på risiko og vesentlighet, og på om revisjonen kan tilføre merverdi av betydning.
+Riksrevisjonen skal ta hensyn til domstolenes uavhengighet ved revisjon etter denne bestemmelsen. Riksrevisjonen skal ikke revidere kvaliteten på domstolenes avgjørelser eller av domstolenes prioriteringer av hvilke ressurser som skal settes inn i den enkelte sak.
