@@ -1,0 +1,2 @@
+# § 12. Spesialtilpasset registerinformasjon
+Det skal betales et gebyr med 424 kroner for spesialtilpasset registerinformasjon fra Brønnøysundregistrene, herunder attester og annen registerinformasjon på engelsk, bekreftelser av historiske opplysninger, og andre særskilte bekreftelser. For sammenstilling av informasjon som krever gjennomgang av flere meldinger, skal det i tillegg betales et gebyr med 60 kroner for hver melding som er grunnlag for sammenstillingen.
