@@ -1,0 +1,4 @@
+# § 1
+Kommunen kan fremme krav om fastsettelse av oppfostringsbidrag når et barn har opphold utenfor hjemmet som følge av et vedtak etter barnevernsloven. Kommunen kan likevel ikke fremme slikt krav dersom foreldrene er fratatt foreldreansvaret med tanke på adopsjon, jf. barnevernsloven § 5-10. Kommunen kan heller ikke fremme krav om oppfostringsbidrag dersom det ut fra en helhetsvurdering av foreldrenes økonomiske situasjon og forholdene for øvrig må anses som urimelig.
+Kommunen må spesifisere om kravet gjelder begge eller bare en av foreldrene. Dersom kravet gjelder begge foreldrene, må det settes frem eget krav om fastsettelse for hver av foreldrene.
+Ved frivillige vedtak må den private part være gjort uttrykkelig oppmerksom på at krav om oppfostringsbidrag vil bli fremmet før samtykke til vedtaket blir gitt. Det samme gjelder ved samtykke til forlenget oppholdstid.
