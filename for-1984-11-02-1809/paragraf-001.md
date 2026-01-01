@@ -1,0 +1,4 @@
+# § 1. Innledende bestemmelser.
+Hensikten med fysisk beskyttelse av nukleært materiale og nukleære anlegg er å legge forholdene til rette for å minimalisere mulighetene for tyveri av nukleært materiale og sabotasje mot nukleære anlegg. Den fysiske beskyttelsen skal også lette gjenfinningen av stjålet materiale.
+Disse forskrifter angir rammen for anleggsinnehaverens og myndighetenes forpliktelser med hensyn til fysisk beskyttelse.
+Nukleært materiale og nukleære anlegg som faller inn under denne forskrift, er å anse som skjermingsobjekter. Lov 1. juni 2018 nr. 24 om nasjonal sikkerhet og forskrifter gitt med hjemmel i denne kommer til anvendelse for rettsubjekter omfattet av denne forskriften. På grunn av objektenes særlige karakter skal Direktoratet for strålevern og atomsikkerhet ha den koordinerende rolle ved tilsyn og myndighetsutøvelse overfor skjermingsverdige objekter omfattet av lov 12. mai 1972 nr. 28 om atomenergivirksomhet.
