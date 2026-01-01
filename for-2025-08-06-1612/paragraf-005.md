@@ -1,0 +1,3 @@
+# § 5. Tilgjengeliggjøring av informasjon av regler om registrering av utenlandske foretak mv.
+(1) Registerføreren skal sørge for at det utarbeides informasjon om regler om registrering av utenlandske foretak. Informasjonen skal minst inneholde en oversikt over reglene for å registrere utenlandske foretak i Foretaksregisteret og Enhetsregisteret, herunder om elektronisk registrering, krav til bruk av skjema eller løsning, identifisering av fysiske personer og språkkrav.
+(2) Informasjon som nevnt i første ledd skal utarbeides på norsk og engelsk, og være gratis og offentlig tilgjengelig. Registerføreren skal sørge for at informasjonen på engelsk er tilgjengelig på nettsider eller registreringsportaler som kan nås via Single Digital Gateway.
