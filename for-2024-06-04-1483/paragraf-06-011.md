@@ -1,0 +1,8 @@
+# § 6-11. Tilrettelegging av eksamen og alternative vurderingsformer
+(1) En kandidat som av medisinske eller andre grunner har behov for tilrettelegging av eksamen eller alternativ vurderingsform, må søke om dette. Tilretteleggingen skal ha som formål å oppveie ulempene studenten har, samtidig som høgskolen så langt som mulig skal sørge for at studentene prøves likt. Det skal stilles samme faglige krav som ved ordinær vurdering.
+(2) Søknad må framsettes innen en fastsatt frist. Unntak fra søknadsfristen kan gjøres ved akutt sykdom eller forverring av kronisk sykdom. Dersom behovet for tilrettelegging er av permanent karakter, kan det søkes om tilrettelegging for hele studieperioden.
+(3) Behovet for tilrettelegging må dokumenteres med legeattest eller attest fra andre sakkyndige. Attesten må inneholde en spesifikasjon av behovet for tilrettelegging eller alternativ vurderingsform i eksamenssituasjonen. Dokumentasjon må være av nyere dato, normalt ikke eldre enn to år.
+(4) Ved lese- og skrivevansker skal dokumentasjonen være en rapport med konklusjon og anbefaling fra utredning av lese- og skrivevansker. Rapporten kan være eldre enn to år. Legeattest er ikke gyldig dokumentasjon på lese- og skrivevansker.
+(5) Studenter med annet morsmål enn norsk, som har kvalifisert seg til opptak ved å tilfredsstille et av norskkravene til fremmedspråklige søkere, gis ikke utvidet eksamenstid eller annen tilrettelegging av eksamen grunnet språkvansker alene. Det kan søkes om å bruke tospråklig ordbok og/eller rettskrivningsordbok på eksamen med tilsyn.
+(6) Søknad om tilrettelegging av eksamen behandles av studieseksjonen.
+(7) Søknad om alternative vurderingsformer behandles av fakultetene.
