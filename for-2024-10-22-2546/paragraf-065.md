@@ -1,0 +1,5 @@
+# § 65. Advokatbevilling på grunnlag av en internasjonal avtale
+(1) Advokattilsynet kan utstede advokatbevilling til en person med yrkeskvalifikasjoner fra Storbritannia etter reglene i yrkeskvalifikasjonsloven.
+(2) Bestemmelsene i § 64 gjelder tilsvarende for statsborgere i en EØS-stat, personer fra tredjeland som omfattes av direktiv 2004/38/EF og statsborgere i Sveits med yrkeskvalifikasjoner fra Storbritannia fra før 1. januar 2021.
+(3) En person med yrkeskvalifikasjoner fra Danmark, Finland, Island eller Sverige kan søke om advokatbevilling etter vilkårene i overenskomst 24. oktober 1990 mellom Danmark, Finland, Island, Norge og Sverige om nordisk samarbeidsmarked for personer med yrkeskompetansegivende, høyere utdannelse av minst tre års varighet.
+(4) Advokattilsynet kan stille krav om at bevillingssøkeren har bestått en egnethetsprøve som viser at vedkommende har tilstrekkelige kunnskaper i norsk rett. Før bevillingssøkeren kan gjennomføre egnethetsprøven, skal Advokattilsynet ha vurdert og kommet til at de øvrige vilkårene for godkjenning av søknaden er oppfylt.

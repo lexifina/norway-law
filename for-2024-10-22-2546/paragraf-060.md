@@ -1,0 +1,4 @@
+# § 60. Juristregister
+(1) Advokattilsynet skal føre et juristregister. Registeret skal være offentlig tilgjengelig og søkbart.
+(2) En jurist som yter rettslig bistand i næringsvirksomhet og som har stilt sikkerhet etter § 58 og betalt bidrag etter § 59, har rett til å bli oppført i juristregisteret. Juristen skal gi melding til Advokattilsynet om at sikkerhet er stilt og dokumentere at vedkommende er jurist. Den som ikke lenger oppfyller vilkårene for å være oppført i juristregisteret, skal underrette Advokattilsynet.
+(3) Juristen skal slettes fra registeret dersom vedkommende ikke lenger oppfyller kravene til sikkerhetsstillelse, bidragsplikten, eller selv ber om å bli slettet. Et begrenset forbud mot å yte rettslig bistand etter advokatloven § 70 første ledd tredje punktum, skal fremgå av registeret så lenge forbudet gjelder.

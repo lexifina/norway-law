@@ -1,0 +1,5 @@
+# § 40. Advokatregister og advokatfullmektigregister
+(1) Advokattilsynet skal føre et register over alle advokater og advokatfullmektiger, jf. advokatloven §§ 50 og 51.
+(2) Opplysninger om bortfall, tilbakekall og suspensjon av advokatbevilling skal være registrert i advokatregisteret så lenge opphøret gjelder. Dersom et vedtak om suspensjon eller tilbakekall av advokatbevilling ikke er endelig, skal dette fremgå. Opplysninger om den som tidligere har vært advokat, skal slettes fra advokatregisteret fem år etter at advokatbevillingen opphørte.
+(3) Disiplinærreaksjoner som skal registreres i advokatregisteret, skal registreres uten ugrunnet opphold etter at avgjørelsen foreligger. Det skal fremgå av advokatregisteret dersom det er reist søksmål om gyldigheten av et disiplinærvedtak. Advokatnemnda kan beslutte utsatt registrering hvis advokaten reiser søksmål som nevnt i andre punktum.
+(4) Andre og tredje ledd gjelder tilsvarende for advokatfullmektigregisteret. Advokatfullmektigregisteret skal i tillegg inneholde navn på de advokatene som advokatfullmektigen er autorisert for, jf. advokatloven § 11.

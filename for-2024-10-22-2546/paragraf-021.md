@@ -1,0 +1,3 @@
+# § 21. Deling av opplysninger mellom sikkerhetsstilleren og Advokattilsynet
+(1) Sikkerhetsstilleren skal så raskt som mulig, og senest innen en måned etter å ha mottatt kravet, gi Advokattilsynet opplysninger om erstatningskrav som fremsettes under advokatens sikkerhetsstillelse, dersom sikkerhetsstilleren har grunn til å anta at opplysningene kan utløse tilsyn eller føre til en disiplinær reaksjon.
+(2) Dersom det har oppstått et forhold som kan utløse tilsyn eller en disiplinær reaksjon, kan Advokattilsynet kreve opplysninger fra sikkerhetsstilleren om erstatningskrav som er fremsatt under advokatens sikkerhetsstillelse.

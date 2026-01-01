@@ -1,0 +1,3 @@
+# § 15. Advokaters bidrag til Advokattilsynet og Advokatnemnda
+(1) Justis- og beredskapsdepartementet fastsetter det årlige bidraget til Advokattilsynet etter forslag fra Advokattilsynets styre og det årlige bidraget til Advokatnemnda etter forslag fra Advokatnemnda.
+(2) Bidragene skal betales innen 30. april eller senest den dagen advokatbevillingen utstedes. Hvis advokatbevillingen utstedes etter 1. juli, settes bidragene til det halve det aktuelle året. Advokattilsynet er ansvarlig for innkrevingen av bidragene og kan delegere dette ansvaret til Innkrevingsmyndigheten. Bidragene kan bare benyttes til Advokattilsynets og Advokatnemndas virksomhet.

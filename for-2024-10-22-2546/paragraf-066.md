@@ -1,0 +1,4 @@
+# § 66. Adgang for EØS-advokater og sveitsiske advokater til å utøve advokatvirksomhet i Norge på permanent basis
+(1) EØS-advokater og sveitsiske advokater som skal utøve advokatvirksomhet i Norge på permanent basis, skal gi skriftlig melding om dette til Advokattilsynet før virksomheten settes i gang. Meldingen skal inneholde dokumentasjon på registrering ved den kompetente myndigheten i hjemstaten. Advokattilsynet kan kreve at dokumentasjonen ikke er mer enn 3 måneder gammel.
+(2) Advokattilsynet registrerer personer som nevnt i første ledd på grunnlag av den skriftlige meldingen og informerer den kompetente myndigheten i hjemstaten om registreringen. Den registrerte skal sende melding til Advokattilsynet ved flytting eller opphør.
+(3) Adgangen til å utøve advokatvirksomhet i Norge opphører dersom den utenlandske advokatbevillingen opphører.

@@ -1,0 +1,4 @@
+# § 50. Advokatnemndas deling av opplysninger
+(1) Advokatnemnda skal dele en fellende disiplinæravgjørelse med Advokattilsynet uten ugrunnet opphold etter at den er avsagt.
+(2) Advokatnemnda skal underrette Advokattilsynet dersom den gjennom saksbehandlingen i en konkret sak får mistanke om kritikkverdige forhold som gjelder en advokats behandling av klientmidler, sikkerhetsstillelse eller andre forhold som angår en sak Advokattilsynet behandler.
+(3) Advokatnemnda kan dele opplysninger med Advokattilsynet dersom opplysningene kan være av betydning for oppgaver Advokattilsynet er tillagt i eller i medhold av lov. Opplysninger som nevnt i tvisteloven § 22-5 første ledd og straffeprosessloven § 119 første ledd kan deles dersom delingen er nødvendig for at Advokattilsynet skal kunne utføre sine oppgaver.

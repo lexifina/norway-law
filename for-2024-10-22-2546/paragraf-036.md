@@ -1,0 +1,5 @@
+# § 36. Rapportering til Advokattilsynet for advokater i advokatforetak
+(1) Advokater i advokatforetak skal avgi en egenerklæring sammen med advokatforetakets årsregnskap. Advokattilsynet beslutter hvordan egenerklæringen skal utformes og hva den skal inneholde.
+(2) Ved revisjon av advokatforetakets årsregnskap skal revisor også gi en uttalelse om advokatenes egenerklæring. Uttalelsen skal gis i samsvar med standarden ISAE 3000 Attestasjonsoppdrag som ikke er revisjon eller forenklet revisorkontroll av historisk finansiell informasjon.
+(3) Advokatene skal senest 30. april hvert år sende årsregnskap, eventuell årsberetning, revisjonsberetning og egenerklæring med revisoruttalelse til Advokattilsynet. Advokattilsynet bestemmer innsendingsmåten.
+(4) Fritak fra ansvaret for gjennomføringen av regnskapsplikten etter § 29 gir også fritak fra plikten til å rapportere til Advokattilsynet. Advokaten som får fritak, skal avgi en erklæring som Advokattilsynet fastsetter utformingen og innholdet av.

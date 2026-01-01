@@ -1,0 +1,5 @@
+# § 20. Skadelidtes krav mot sikkerhetsstilleren
+(1) Skadelidte kan kreve dekning direkte fra sikkerhetsstilleren uten først å rette krav mot advokaten. Sikkerhetsstilleren kan ikke gjøre gjeldende andre innsigelser overfor skadelidte enn de innsigelsene advokaten selv kan gjøre gjeldende.
+(2) Oppsigelse av sikkerheten eller annet bortfall av sikkerheten gjelder ikke overfor skadelidte før tre måneder etter at Advokattilsynet har mottatt melding om bortfallet. Stilles ny sikkerhet før utløpet av denne perioden, gjelder bortfallet fra det tidspunktet ny sikkerhet er stilt.
+(3) Sikkerhetsstilleren kan bare påberope overfor skadelidte at det er foretatt utbetalinger under sikkerheten dersom Advokattilsynet er varslet om utbetalingen senest samtidig med at utbetalingen fant sted.
+(4) Dersom sikkerheten ikke er tilstrekkelig til å dekke alle kravene, skal sikkerhetsstilleren foreta en forholdsmessig fordeling mellom de skadelidte. Påberoper sikkerhetsstilleren sikkerhetens størrelse overfor flere skadelidte, gjelder det høyeste sikkerhetsbeløpet overfor alle skadelidte.

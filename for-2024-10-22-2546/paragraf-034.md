@@ -1,0 +1,4 @@
+# § 34. Revisors kontroll av advokatens særregnskap
+(1) Revisor skal undersøke om det blir foretatt en egen revisjon av advokatforetakets særregnskap og om det blir rapportert ved regnskapsavleggelse eller ved annen underretning til tingrett, kreditorutvalg, arvinger eller den som har oppnevnt spesiell revisor.
+(2) Er en egen revisor ikke oppnevnt for særregnskapene som advokatforetaket har ansvar for, skal advokatforetakets revisor kontrollere og uttale seg om hvorvidt behandlingen av klientmidlene er tilfredsstillende.
+(3) Advokatforetaket skal sørge for at det er foretatt avstemming av totale klientmidler og klientansvar (klientgjeld) på samme tidspunkt for advokatregnskapet og eventuelle særregnskap. Advokatforetakets revisor skal kontrollere at slik avstemming er foretatt og revidere denne.

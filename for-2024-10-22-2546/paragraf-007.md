@@ -1,0 +1,5 @@
+# § 7. Opptak, gjennomføring og klageadgang
+(1) Deltakerne på advokatkurset skal ha juridisk embetseksamen, mastergrad i rettsvitenskap eller tilsvarende godkjent utenlandsk juridisk utdanning, jf. § 61.
+(2) Den som har fravær fra advokatkurset uten gyldig grunn, skal som hovedregel ikke anses å ha fullført kurset. Deltakerne skal besvare en skriftlig hjemmeoppgave. Oppgaven gis karakteren «bestått» eller «ikke bestått».
+(3) Juristenes Utdanningssenter utsteder vitnemål for bestått advokatkurs til deltakere som har fullført kurset og bestått den skriftlige hjemmeoppgaven. Deltakere som ikke har bestått kurset, kan klage til eksamenskomiteen. Klagefristen er tre uker fra det tidspunktet meldingen om at kurset ikke er bestått kom frem til deltakeren. Komitéens avgjørelse er endelig.
+(4) Eksamenskomiteen skal bestå av tre medlemmer. Lederen skal være fra en utdanningsinstitusjon som tilbyr mastergraden i rettsvitenskap. Ett medlem skal være en advokat utpekt av Den Norske Advokatforening og ett medlem skal være fra Advokattilsynet.
