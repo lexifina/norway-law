@@ -1,0 +1,3 @@
+# § 11. Kvotefleksibilitet på fartøynivå
+Fartøyene kan overfiske kvoten tildelt etter § 10 med inntil 10 % i 2026. Fartøy som benytter denne adgangen, vil bli belastet et tilsvarende kvantum for kvoteåret 2027. Dersom kvoten ikke er oppfisket ved utløpet av 2026, godskrives inntil 10 % av denne kvoten til 2027. Fartøy som benyttet adgangen i 2025 blir belastet eller godskrevet et tilsvarende kvantum for kvoteåret 2026.
+Fartøy som i 2026 benytter slumpfiskeordningen i tråd med forskrift om strukturkvoteordning mv. for havfiskeflåten § 15, kan ikke benytte adgangen til kvotefleksibilitet på fartøynivå.
