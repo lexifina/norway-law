@@ -1,0 +1,7 @@
+# § 2. Retten til å stå på liste hos fastlege
+Enhver som er bosatt i en norsk kommune, har rett til å stå på liste hos fastlege. Som bosatt regnes den som i folkeregisteret er registrert som bosatt i en norsk kommune. Rett til å stå på liste hos fastlege har også asylsøkere og deres familiemedlemmer når de er medlem av folketrygden, jf. forskrift 14. mai 2008 nr. 460 om trygdedekning for asylsøkere og deres familiemedlemmer. Rett til å stå på liste hos fastlege har i tillegg personer som oppholder seg lovlig i en norsk kommune på grunnlag av unntaket fra kravet om oppholdstillatelse i henhold til utlendingsloven § 5 tredje ledd, jf. utlendingsforskriften § 1-4 og § 1-5.
+Den som har rett til å stå på liste hos fastlege, kan fremsette legeønske. Legeønsket skal etterkommes så langt det er ledig plass på fastlegens liste, unntatt i de tilfeller som følger av reglene i denne forskrift.
+Den som ikke selv velger fastlege, vil bli plassert på listen til fastlege med ledig listeplass. Den som ikke ønsker å være tilknyttet fastlegeordningen, gir melding om dette til kommunen.
+Det er adgang til å velge fastlege utenfor bostedskommunen.
+Person som melder flytting til en kommune, skal motta legevalgsskjema og informasjon med tilbud om å velge fastlege i kommunen.
+Innbyggere som er strøket fra en fastlegeliste på grunn av truende eller voldelige atferd, kan ikke velge den samme fastlege som fastlege på nytt, jf. forskrift om fastlegeordning i kommunene §§ 38 og 39.
