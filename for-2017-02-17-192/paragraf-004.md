@@ -1,0 +1,5 @@
+# § 4. Unntak fra kravet om spesialisering
+Kravet om spesialisering i § 3 gjelder ikke for lege med oppgave å yte helsehjelp i samsvar med helse- og omsorgstjenesteloven som tiltrer ett eller flere arbeidsforhold eller avtaleforhold av inntil totalt ett års varighet. Kravet om spesialisering i § 3 gjelder heller ikke for ett eller flere arbeidsforhold eller avtaleforhold med varighet inntil totalt 4 måneder per kalenderår. For lege med oppgave å yte helsehjelp i samsvar med helse- og omsorgstjenesteloven på kommunalt organisert legevakt gjelder ikke kravet om spesialisering for arbeidsforhold og avtaleforhold med varighet inntil totalt 6 måneder per kalenderår.
+Varighet av arbeidsforhold eller avtaleforhold beregnes ut fra antall dager i arbeid.
+For arbeidsforhold eller avtaleforhold inngått før 31. desember 2025 regnes varigheten av unntak etter denne bestemmelsen fra 31. desember 2025.
+Kommune som benytter seg av unntak etter denne bestemmelsen må innen 31. mars hvert år frem til og med 2029 rapportere til statsforvalteren om bruken av unntaksbestemmelsen i foregående år.
