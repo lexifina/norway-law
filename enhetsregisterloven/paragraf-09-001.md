@@ -1,0 +1,5 @@
+# § 9-1. Utlevering av opplysninger fra Enhetsregisteret
+(1) Enhver har rett til å få tilgang til opplysninger og dokumenter som er registrert i Enhetsregisteret. Dette gjelder ikke fødselsnummer, d-nummer og elektronisk varslingsadresse.
+(2) Tilknyttet register, offentlige myndigheter og virksomheter, private virksomheter som utfører lovpålagte oppgaver eller oppgaver på vegne av det offentlige, kredittopplysningsvirksomhet og finansforetak kan få utlevert fødselsnummer og d-nummer fra Enhetsregisteret til bruk i sin virksomhet. Elektroniske varslingsadresser som er registrert i Enhetsregisteret, skal bare være tilgjengelige for offentlige myndigheter.
+(3) Sammenstilling av opplysninger om en person kan bare gis når det gjelder personens registrerte tilknytning til næringsvirksomhet.
+(4) Departementet kan gi forskrift med nærmere regler om hvordan registrerte opplysninger og dokumenter skal gjøres tilgjengelige, og kan bestemme at det skal betales gebyr for tjenestene. Departementet kan gi forskrift med nærmere regler om utlevering av opplysninger om antall ansatte som nevnt i § 4-1 tredje ledd bokstav a.

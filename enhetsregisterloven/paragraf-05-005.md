@@ -1,0 +1,3 @@
+# § 5-5. Pålegg om å sende inn melding
+(1) Dersom en registreringspliktig enhet ikke er registrert, kan registerføreren pålegge enheten å sende melding om nyregistrering til Enhetsregisteret innen en bestemt frist. Det samme gjelder dersom plikten til å sende endringsmelding etter § 5-2 ikke er oppfylt.
+(2) Registerføreren kan pålegge en registrert enhet å sende inn informasjon for å kontrollere at opplysninger som er registrert om enheten i Enhetsregisteret, er riktige. I pålegget skal det gis en rimelig frist til å sende inn slik informasjon. Dersom enheten ikke etterkommer pålegget, kan registerføreren registrere en påtegning om dette i Enhetsregisteret.

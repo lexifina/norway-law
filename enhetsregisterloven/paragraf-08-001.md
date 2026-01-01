@@ -1,0 +1,5 @@
+# § 8-1. Retting av feil i registrerte opplysninger
+(1) Hvis registerføreren oppdager at en registrert opplysning er uriktig, skal registerføreren sørge for at feilen rettes. Registerføreren skal straks varsle enheten om feilen, hvordan den vil bli rettet, og at feilen vil bli rettet dersom registerføreren ikke mottar innsigelser innen en bestemt frist.
+(2) Registerføreren kan rette feil uten å varsle enheten dersom det er ubetenkelig.
+(3) Dersom det er uklart hva som er riktig opplysning, eller feilen på annen måte ikke kan rettes uten ny melding fra enheten, kan registerføreren registrere en påtegning om feilen. Enheten skal samtidig pålegges å sende inn ny melding innen en bestemt frist. Hvis det er registrert en påtegning etter første punktum, skal påtegningen fjernes når forholdet som begrunnet påtegningen, ikke lenger gjør seg gjeldende.
+(4) Hvis feilen gjelder en opplysning som et tilknyttet register har ansvaret for å kontrollere, skal det tilknyttede registeret sørge for at feilen blir rettet.

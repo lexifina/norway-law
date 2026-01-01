@@ -1,0 +1,2 @@
+# § 7-2. Krav til identifikasjon av enheten på dokumenter mv.
+En enhets nettsider, brev og forretningsdokumenter skal, uavhengig av hvilket medium de finnes på, inneholde enhetens organisasjonsnummer og foretaksnavn eller navn. Første punktum gjelder ikke for enkeltpersoner som ikke er innehaver av enkeltpersonforetak. For enheter som er registrert i Merverdiavgiftsregisteret, skal salgsdokumenter i tillegg inneholde bokstavene MVA plassert bak organisasjonsnummeret.
