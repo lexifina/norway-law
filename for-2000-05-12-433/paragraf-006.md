@@ -1,0 +1,2 @@
+# § 6. (regnskapsplikt)
+Innehaveren skal føre regnskap med beholdningen av nukleært materiale. Vedkommende skal hvert år ved en gitt dato foreta en opptelling av beholdningen. For hver type materiale skal det for hvert oppbevarings- og brukssted angis elementvekter i gram. For uran-233, uran-235 og plutonium skal vektene oppgis i tidels gram. Etter opptelling skal beholdningsoppgave samt materialbalanse omgående sendes kontrollorganet. Regnskapene skal oppbevares etter regnskapslovens bestemmelser for alminnelige regnskaper.

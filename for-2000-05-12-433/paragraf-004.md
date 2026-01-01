@@ -1,0 +1,2 @@
+# § 4. (meldeplikt for naturlig uran, utarmet uran og thorium)
+For å besitte eller omsette naturlig uran, utarmet uran eller thorium for ikke-nukleære formål gjelder meldeplikt. Melding skal omgående gis av avsender og mottaker til kontrollorganet ved omsetning av materialet, samt ved enhver kryssing av landegrenser. Meldingen skal inneholde opplysninger om type materiale, formål, avsenders- og mottagers navn og adresse, mottaks- og avsendelsesdato og vekt i gram. Balansevekter i fly og fastmontert ballast i fartøyer er unntatt fra meldeplikt.

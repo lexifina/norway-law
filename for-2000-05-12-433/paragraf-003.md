@@ -1,0 +1,5 @@
+# § 3. (om løyve for besittelse, omsetning og transport av nukleært materiale)
+1) Uten løyve av Helse- og omsorgsdepartementet må ingen besitte, omsette eller transportere nukleært materiale. Dette gjelder likevel ikke for besittelse, omsetning eller transport av naturlig uran, utarmet uran eller thorium for ikke-nukleære formål. Løyve trengs ikke i den utstrekning virksomhet er omfattet av konsesjon etter atomenergiloven § 4. Løyve gis på de vilkår som finnes påkrevet av hensyn til sikkerheten og andre allmenne hensyn.
+2) Med grunnlag i kontrollorganets uttalelse innstiller Direktoratet for strålevern og atomsikkerhet overfor Helse- og omsorgsdepartementet om hvorvidt løyve skal gis eller ikke.
+3) Søknad om løyve til å besitte, omsette eller transportere nukleært materiale sendes Direktoratet for strålevern og atomsikkerhet.
+4) Avsender og mottaker av nukleært materiale skal ved omsetning og transport av materialet omgående gi kontrollorganet skriftlig melding om type materiale, formål, avsenders og mottakers navn og adresse, mottaks- og avsendelsesdato og nøyaktig vekt av materialet.

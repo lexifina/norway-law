@@ -1,0 +1,2 @@
+# § 9. (omkostninger ved sikkerhetskontroll)
+Det er innehaveren som skal bære eventuelle ekstra kostnader internt i virksomheten som følger av den interne sikkerhetskontrollen. Særlige kontrolltiltak som vil føre til store ekstraomkostninger for innehaveren, for eksempel grunnet midlertidig produksjonsstopp, skal ikke gjennomføres før Direktoratet for strålevern og atomsikkerhet har godkjent tiltaket.
