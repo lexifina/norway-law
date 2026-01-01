@@ -1,0 +1,5 @@
+# § 10-10. (Administrativ inndraging av utbyte)
+Departementet kan heilt eller delvis inndra utbyte frå brot på føresegn eller enkeltvedtak nemnd i § 10-9 fyrste ledd nr. 1 til 3, utan omsyn til om det er utvist skuld. Det same gjeld ved brot på forskrift, når det er særskilt fastsett i forskrift. Inndraging skjer overfor den som har stått for brotet, med mindre denne sannsynleggjer at utbytet er gått til ein annan. Inndraging kan berre skje så lenge det ikkje vil vere klart urimeleg.
+I staden for utbyte kan heile eller delar av verdien til utbytet verte drege inn. Med utbyte reknast òg formuesgode som kjem i staden for utbyte, avkasting og andre føremoner av utbytet. Det er nettoutbytet som kan dragast inn. Vert storleiken av nettoutbytet ikkje godtgjord, kan beløpet fastsettast etter skjøn.
+Oppfyllingsfristen er fire veker frå vedtaket blei gjort. Lengre frist kan fastsetjast i vedtaket eller seinare. Endeleg vedtak om inndraging av utbyte er tvangsgrunnlag for utlegg.
+Departementet kan gi forskrift om inndraging av utbyte, medrekna standardisert utmåling av utbyte eller utmåling etter skjøn og frådrag for utgifter.

@@ -1,0 +1,2 @@
+# § 10-11. (Forelding)
+Departementet kan ikkje gje lovbrotsgebyr eller gjere vedtak om inndraging av utbyte seinare enn fem år etter at lovbrotet tok slutt. Fristen vert avbroten ved at departementet gir skriftleg førehandsvarsel om vedtak om gebyr eller inndraging av ulovleg utbyte, eller på annan måte gir skriftleg varsel om at departementet legg til grunn at det er sannsynleg at vedkomande har brote regelverket.
