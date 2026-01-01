@@ -1,0 +1,4 @@
+# § 8. Bifangst
+Det er ikke tillatt å ha bifangst av vassild og strømsild ved fiske etter andre arter med mindre annet er fastsatt i denne bestemmelsen.
+1) Nord for 62° N I fisket etter andre arter er bifangst av vassild tillatt når den kan avregnes fartøyets vassildkvote. Fartøy som ikke har adgang til å delta i vassildfisket kan ha inntil 10 % bifangst av vassild i vekt i de enkelte fangster og ved landing. Dette gjelder også fartøy med vassildtråltillatelse dersom maksimalkvoten er oppfisket eller direktefisket er stoppet.
+2) Sør for 62° N I fisket med småmasket trål er det tillatt med inntil 35 % samlet bifangst av vassild og strømsild i vekt i de enkelte fangster og ved landing. I fisket med andre redskap er det tillatt med inntil 5 % samlet bifangst av vassild og strømsild i vekt i de enkelte fangster og ved landing. Dersom fartøyet har vassildtråltillatelse skal bifangst av vassild og strømsild sør for 62° N ikke avregnes vassildkvoten.
