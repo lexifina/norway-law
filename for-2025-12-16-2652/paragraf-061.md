@@ -1,0 +1,3 @@
+# § 61. Bevegelige deler som går gjennom skroget
+(1) Skip som har bevegelige deler som går gjennom skroget under dypeste vannlinje, slik som sonar, skal ha en indre vanntett barriere som hindrer videre fylling av skipet ved en eventuell lekkasje. Rommet som kan fylles, skal ikke være større enn det som er nødvendig for å kunne utføre vedlikehold, reparasjoner og lignende.
+(2) Åpninger i den indre vanntette barrieren under fribordsdekk skal ha vanntette lukningsmidler med samme styrke som den tilstøtende strukturen. Lukningsmiddelet skal på begge sider merkes med at det skal være lukket til sjøs. Rommet innenfor åpningen skal ha en vannivåmåler med alarm til styrehuset når vannivået i rommet når maksimum 0,3 meter.

@@ -1,0 +1,2 @@
+# § 70. Dimensjonering av maksimal spenning under operasjon av slepevinsj og ankerhåndteringsvinsj
+Slepevinsj og ankerhåndteringsvinsj skal dimensjoneres på en slik måte at ingen spenninger er større enn 0,4ReH under normal operasjon. Når bremsen er aktivert, skal ingen spenninger være større enn 0,9ReH. For materialer som ikke har proporsjonal flytegrense, skal spenningen ved RP0,2 legges til grunn i stedet for ReH.

@@ -1,0 +1,2 @@
+# § 89. Utarbeiding av tilleggstilstander for skip som skal utføre løfteoperasjoner
+For skip som skal utføre løfteoperasjoner som kan påføre skipet en krengende arm på mer enn 0,10 meter, skal det utarbeides lastetilstander som dekker skipets operasjonsmønster med maksimalt tillatt krengende moment fra løfteinnretningen. Lastetilstandene skal vise skipets begrensninger i lastekapasitet under løft og oppfylle kriteriene i § 99. Løfteinnretningens sikre arbeidslast skal uansett ikke overstiges.

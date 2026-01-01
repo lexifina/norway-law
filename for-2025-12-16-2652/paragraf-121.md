@@ -1,0 +1,14 @@
+# § 121. Brannsikre skiller
+(1) Det skal være brannsikre skiller i skott og dekk som beskrevet i tabellen i tredje ledd.
+(2) I maskinrom kategori A på skip bygget i kompositt eller aluminium skal skipssider brannisoleres, med brannklasse A-15 eller FRD 30, til 300 mm under minste dypgang.
+(3) Når det er tvil om hvilken kategori et rom tilhører, eller når et rom kan tilhøre to eller flere ulike kategorier, gjelder den kategorien som gir strengest skille.Romkategori(1)(2)(3)(4)(5)(6)(7)(8)Kontrollstasjoner(1)B-15B-15A-15B-15A-15A-15Innredning(2)B-15A-15B-15B-15A-0Arbeidsrom(3)B-15A-15B-15B-15A-0Maskinrom kategori A(4)A-15A-0A-0Bysse(5)B-15A-0Lasterom(6)B-15A-0Annet maskinrom(7)*Åpent dekk(8)–
+(4) I tabellen i tredje ledd gjelder følgende definisjoner:
+a) Kontrollstasjoner (1): Bro, kontrollrom for fremdriftsmaskineri når dette ligger utenfor maskinrom kategori A, og rom som inneholder kilder for nødstrøm, radioutstyr, slokkemiddel for gassbasert slokkesystem og brannalarmsentraler.
+b) Innredning (2): Rom som brukes til oppholdsrom, korridorer, trapperom, toaletter og bad, garderober, lugarer, kontorer, sykestuer, fritidsrom og pantry uten kokemuligheter.
+c) Arbeidsrom (3): Malingsskap og lagerrom, rom for lagring av brennbare væsker, badstue, vaskerom og verksteder som ikke er del av maskinrom kategori A.
+d) Maskinrom kategori A (4): Rom som inneholder forbrenningsmaskineri brukt til fremdrift, forbrenningsmaskineri med total effekt på 375 kW eller mer, og rom med oljefyrte kjeler eller annet oljefyrt utstyr, slik som gassgeneratorer, forbrenningsovner og lignende.
+e) Bysse (5): Rom, med unntak av pantry, som inneholder elektriske kokeplater, komfyr, frityrkoker, gasskomfyr, gassfyrte apparater uten åpen flamme og lignende kjøkkenutstyr. Med «pantry» menes område i forbindelse med styrehus eller messe som inneholder elektriske kokeplater eller annet kjøkkenutstyr med samlet total effekt til og med 5 kW.
+f) Lasterom (6): Alle rom som brukes til oppbevaring av last, inkludert tanker for frakt av olje, og trunker og lukekarmer til slike rom.
+g) Annet maskinrom (7): Ventilasjonsrom, tavlerom, teknisk rom og rom med elektrisk utstyr og maskineri annet enn det nevnt i bokstav a og d.
+h) Åpent dekk (8): Åpne områder på dekk og lukkede promenader med liten eller ingen brannfare. For å komme i denne kategorien skal lukkede promenader ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger. Luftrom, det vil si rommet utenfor overbygninger og dekkshus, regnes også som åpent dekk.
+(5) Skip med største lengde under 15 meter kan som alternativ til første til fjerde ledd oppfylle kravene i én standard eller ett klasseregelverk fra et anerkjent klasseselskap, eller én annen anerkjent standard akseptert av Sjøfartsdirektoratet.

@@ -1,0 +1,2 @@
+# § 120. Adgang til begrenset bruk av brennbare materialer
+I innredning og arbeidsrom kan innvendig kledning, himling og tilhørende festepunkt være av brennbart materiale dersom disse rommene er omsluttet av ubrennbare skott og dekk som oppfyller § 119 tredje ledd bokstav b, og mengden brennbart materiale i overflatene har en spesifikk brannenergi som er maksimalt 45 MJ/m2 i en branncelle. Det totale volumet av brennbart materiale skal heller ikke overstige det volumet som tilsvarer 2,5 mm kledning på overflatene i rommet.
