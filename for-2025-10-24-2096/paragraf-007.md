@@ -1,0 +1,2 @@
+# § 7. Innhenting av opplysninger om konsernforhold fra andre
+For å kontrollere at opplysninger om konsern som er registrert i Enhetsregisteret er riktige, kan registerføreren innhente og undersøke opplysninger hos andre enn enheten selv. Registerføreren kan, på grunnlag av slike opplysninger, henvende seg til aktuelle enheter og be om at disse bekrefter eller avkrefter riktigheten av opplysningene innen en bestemt frist.
