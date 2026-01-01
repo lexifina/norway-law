@@ -1,0 +1,3 @@
+# § 2. Tilsyn
+Statens vegvesen fører tilsyn med at dekkleverandører, -distributører og enhver annen som utstiller dekk i klassene C1, C2 og C3 på et utsalgssted eller for fjernsalg, oppfyller de krav som er listet opp i art. 4, 5, 6, 7 og 8, jf. vedlegg I, II, III, IV og VII i denne forordning, jf. § 1.
+Foretak som nevnt i første ledd plikter å gi Statens vegvesen adgang til lokalene, utlevere dokumenter og bistå slik det ellers er nødvendig for å gjennomføre tilsyn. Statens vegvesen kan pålegge leverandøren å dekke utgiftene til undersøkelser angitt i vedlegg VI i forordningen, dersom dekket viser seg å være feilmerket.
