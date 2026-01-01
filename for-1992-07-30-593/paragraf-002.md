@@ -1,0 +1,4 @@
+# § 2. Hva som forstås med skip mv.
+Med skip i denne forskriften forstås skip som omfattes av sjølovens § 11. Like med skip regnes innretninger som nevnt i sjølovens § 33, for så vidt ikke annet er sagt eller fremgår av sammenhengen. Innretninger som nevnt i sjølovens § 507 er å anse som skip. Innretninger som nevnt i sjølovens § 39 kan på begjæring av eier innføres i skipsregisteret.
+Med fiske- og fangstfartøy i denne forskrift forstås fartøy som nyttes til ervervsmessig fiske og fangst og annen høsting av viltlevende marine ressurser.
+Skipsbyggingsregisteret skal utgjøre en egen avdeling av skipsregisteret og inneholde skip under bygging som etter begjæring blir innført i registeret. Like med skip under bygging regnes kontrakt om bygging av skip og erklæring fra et verksted om at det har besluttet å bygge et skip for egen regning. Innføring er i ethvert tilfelle betinget av at byggingen foregår eller skal foregå i Norge.
