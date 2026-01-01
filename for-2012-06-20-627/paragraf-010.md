@@ -1,0 +1,4 @@
+# § 10. Fordeling av inn- og utbetalinger for eldre år
+1. Innbetalinger (og utbetalinger) vedrørende personlige skattytere for tidligere inntektsår enn 2001, skal fordeles mellom skattekreditorene på grunnlag av fordelingstall for inntektsåret 2001. For upersonlige skattytere skal innbetalinger (og utbetalinger) for tidligere inntektsår enn 2002 fordeles på grunnlag av fordelingstall for 2002.
+2. Dersom fordelingsmåten har medført en vesentlig skjevhet i fordelingen mellom skattekreditorene, kan kommunen søke skattekontoret om å benytte de endelige fordelingstallene for det inntektsåret restansen gjelder.
+3. Dersom endringer i beregnet skatt for en skattyter får virkning i flere kommuner, kan Skattedirektoratet, når det foreligger sterke administrative hensyn, i særlige tilfeller fravike den fordeling som følger av nr. 1 og bestemme at oppgjøret skal belastes staten.

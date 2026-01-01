@@ -1,0 +1,2 @@
+# § 15. Innbetaling fra anonyme skattytere mv.
+Innbetaling fra anonyme skattytere bokføres til inntekt i skatteregnskapet og fordeles til staten. Innbetaling fra kjent skattyter som ukrevet foretar innbetaling, når skattemyndigheten ikke fastsetter en skatteforpliktelse, bokføres til inntekt i skatteregnskapet i den kommune hvor innbetaler anses skattemessig bosatt. Innbetalingen fordeles etter de foreløpige fordelingstallene for personlige skattytere for inneværende inntektsår, jf. § 3 nr. 1.
