@@ -1,0 +1,6 @@
+# § 34. Kjøretøy til opplæring
+Kjøretøy til bruk i opplæring til erverv av kompetansebevis skal være godkjent utrykningskjøretøy etter forskrift 18. januar 2002 nr. 55 om godkjenning og registrering av utrykningskjøretøy.
+Kjøretøy til bruk i opplæring etter denne forskrift, skal være personbil med tillatt totalvekt ikke over 3500 kg, bredde på minst 1,5 m og minst fire sitteplasser som sikrer gode opplæringsvilkår for alle elevene. Kjøretøyet skal ha en farge lik basisfargen som vanligvis benyttes på utrykningskjøretøy brukt av politi, brannvesen eller ambulansetjeneste. Kjøretøyet skal ha en konstruktiv hastighet på minst 150 km/t og være utstyrt med dobbel betjeningsinnretning for brems.
+Statens vegvesen godkjenner kjøretøy som skal brukes til opplæring etter denne forskrift. Godkjenning som lærevogn skal anmerkes i vognkortet.
+Kjøretøy benyttet til opplæring som ikke medfører utrykningskjøring eller til demonstrasjon der godkjent utrykningsinstruktør selv kjører, er fritatt fra krav om dobbel betjeningsinnretning for brems, og trenger ikke godkjenning som lærevogn fra Statens vegvesen.
+Under opplæring på vei som er åpen for alminnelig ferdsel skal kjøretøyet bak være tydelig merket «OPPLÆRING» eller «UNDERVISNING».
