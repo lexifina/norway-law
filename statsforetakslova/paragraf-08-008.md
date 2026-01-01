@@ -1,0 +1,3 @@
+# § 8-8. Utdeling til staten
+(1) Utdeling av midlar frå føretaket til staten av anna overskot enn utbyte etter § 3-8 kan ikkje skje før forpliktingane til føretaket er dekte og det er gått minst seks veker sidan kunngjeringa av kreditorvarselet i den digitale kunngjeringspublikasjonen til Brønnøysundregistera etter § 8-4.
+(2) Utdeling kan likevel skje når det berre står att uvisse eller omtvista forpliktingar og det blir avsett eit tilstrekkeleg beløp til dekning av dei. Med mindre anna er avtalt, skal beløpet setjast inn på felleskonto for føretaket og den kreditoren det gjeld, slik at uttak ikkje kan gjerast utan skriftleg samtykke frå begge partane eller endeleg dom.

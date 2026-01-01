@@ -1,0 +1,2 @@
+# § 2-4. Innskot med andre eigedelar enn pengar
+Er innskotet frå staten andre formuesverdiar enn pengar, skal stiftingsdokumentet oppgi kva som skal skytast inn, og verdien av innskotet. Innskotet kan ikkje overførast til eit høgare beløp enn det blir anteke å kunne oppførast med i balansen til føretaket. Tidspunktet for verdsetjinga kan tidlegast vere fire veker før stiftinga av føretaket, jf. § 2-2. Ei stadfesting frå revisor om at innskotet ikkje er verdsett høgare enn tillate etter andre punktum, skal leggjast ved stiftingsdokumentet.

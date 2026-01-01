@@ -1,0 +1,5 @@
+# § 5-3. Retten tilsette har til å velje styremedlemer
+(1) I føretak med fleire enn 30 tilsette kan eit fleirtal av dei tilsette krevje at ein styremedlem og ein observatør med varamedlemer skal veljast av og blant dei tilsette.
+(2) I føretak med fleire enn 50 tilsette kan eit fleirtal av dei tilsette krevje at inntil ein tredel og minst to av styremedlemene med varamedlemer skal veljast av og blant dei tilsette.
+(3) I føretak med fleire enn 200 tilsette skal dei tilsette velje éin styremedlem med varamedlem eller to observatørar med varamedlemer i tillegg til den representasjonen som følger av andre ledd.
+(4) Kongen kan gi forskrift om berekninga av talet på tilsette, inklusive om bruk av gjennomsnittstal. Kongen kan også gi forskrift om valet av styremedlemer, inklusive om vilkår for røysterett og valførleik, om valmåten og om avgjerd ved tvistar om valet, og om bortfall av verv som styremedlem. Kongen kan i forskrifta eller ved enkeltvedtak gjere unntak frå første, andre eller tredje ledd.

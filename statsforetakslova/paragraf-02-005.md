@@ -1,0 +1,4 @@
+# § 2-5. Registrering i Føretaksregisteret
+(1) Statsføretaket skal meldast til Føretaksregisteret innan tre månader etter at stiftingsdokumentet er signert.
+(2) Før statsføretaket blir meldt til Føretaksregisteret, skal innskotet frå staten, jf. § 2-3 bokstav c, vere ytt fullt ut. Resultatet av teknisk bistand, forskings- og utviklingsarbeid m.m. skal òg vere stilt til rådvelde for statsføretaket. I meldinga til Føretaksregisteret skal det opplysast om at statsføretaket har fått innskotet. Dette skal stadfestast av revisor. Skal innskotet berre gjerast opp i pengar, kan stadfestinga gjerast av eit finansføretak, ein advokat eller ein statsautorisert rekneskapsførar.
+(3) Er statsføretaket ikkje meldt til Føretaksregisteret innan fristen går ut, kan registreringa ikkje skje. Forpliktingane staten har etter stiftingsdokumentet, er da ikkje lenger bindande. Det same gjeld om registreringa blir nekta på grunn av feil som ikkje kan rettast.
