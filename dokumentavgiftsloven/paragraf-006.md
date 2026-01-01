@@ -1,0 +1,5 @@
+# § 6
+Avgiftsplikten inntrer ved tinglysingen av dokumentet.
+Erververen av grunnbokshjemmel og meglerforetak som bistår med oppgaver som nevnt i lov 29. juni 2007 nr. 73 om eiendomsmegling § 6-9 første ledd nr. 1, 2 eller 4, er i forhold til avgiftsmyndigheten ansvarlig for at riktig avgift, tilleggsavgift og renter blir betalt. Det samme gjelder andre som på vegne av erververen av grunnbokshjemmel begjærer et dokument tinglyst. Arbeidstakere hos erververen av grunnbokshjemmelen eller hos et foretak som på vegne av erververen begjærer tinglysing, har ikke slikt ansvar. Avgiftskravet sendes først til den av de ansvarlige som har begjært dokumentet tinglyst.
+Den som er ansvarlig for betaling av avgift etter annet ledd er også ansvarlig for betaling av etterberegnet avgift. Ansvar for etterberegnet avgift for andre enn erververen av grunnbokshjemmelen, er likevel begrenset til de tilfeller hvor vedkommende visste eller burde visst at opplysningene for fastsettelsen av avgiften var mangelfulle eller feilaktige.
+Erververen av grunnbokshjemmelen har i forhold til avgiftsmyndigheten krav på eventuell avgiftsrefusjon.
