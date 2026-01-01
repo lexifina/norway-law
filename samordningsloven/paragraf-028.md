@@ -1,0 +1,3 @@
+# § 28
+1. Dersom en ytelse fra en pensjons- eller trygdeordning som omfattes av denne loven settes ned eller faller bort med tilbakevirkning, og en ytelse fra en annen ordning er innvilget eller forhøyet med virkning for samme tidsrom, kan beløp som er utbetalt for mye, trekkes i den sistnevnte ytelsen. Dette gjelder både når endringen skjer etter bestemmelser i denne loven og etter særskilte bestemmelser om samordning og tilpassing av ytelser som er fastsatt for pensjons- eller trygdeordningene.
+2. Departementet gir forskrift om gjennomføring av bestemmelsen her, herunder om frist for å fremme refusjonskrav.

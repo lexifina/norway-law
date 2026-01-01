@@ -1,0 +1,6 @@
+# § 6. Pensjonsgivende tjenestetid.
+Den som ikke fyller vilkårene om minste pensjonsgivende tjenestetid for rett til pensjon i en pensjonsordning, skal likevel ha rett til alderspensjon i forhold til sin pensjonsgivende tjenestetid i vedkommende pensjonsordning dersom
+a) hans pensjonsgivende tjenestetid utgjør minst 1/10 av full pensjonsgivende tjenestetid, og
+b) hans samlede pensjonsgivende tjenestetid i pensjonsordninger som går inn under denne lov fyller vilkåret om minste pensjonsgivende tjenestetid i vedkommende pensjonsordning.
+Ved sammenlegging av tjenestetid etter reglene i denne paragraf reknes bare med tjenestetid i de pensjonsordninger hvor vedkommende har nådd den fastsatte pensjonsalder for rett til pensjon, eller hvor vedkommende oppebærer alderspensjon fra lavere alder. Teller samme tidsrom som pensjonsgivende tjenestetid i flere pensjonsordninger, skal tidsrommet ved berekningen etter denne paragraf bare tas med som tjenestetid i en pensjonsordning.
+Denne paragrafen gjelder ikke for pensjonstrygden for sjømenn og pensjonstrygden for fiskere, se likevel lov 3. desember 1948 nr. 7 om pensjonstrygd for sjømenn § 4 nr. 1 andre ledd bokstav a og lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere § 6 nr. 1 andre ledd.
