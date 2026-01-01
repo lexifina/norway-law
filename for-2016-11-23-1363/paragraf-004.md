@@ -1,0 +1,5 @@
+# § 4. Skip med fartssertifikat
+Det internasjonale regelverket for skip som opererer i polare farvann (polarkoden), vedtatt ved IMO-resolusjon MSC.385(94) som endret ved IMO-resolusjon MSC.538(107) del I-A kapitlene 9-1 og 11-1 gjelder som forskrift for skip nevnt i § 1 bokstav c til e. Ved tolkningen av disse bestemmelsene skal det tas hensyn til innledningen og de sikkerhetsrelaterte bestemmelsene i polarkoden del I-A reglene 1.2, 1.4 og 1.5.
+Polarkoden del I-A reglene 9-1.3.1 og 9-1.3.2 gjelder også for skip nevnt i § 1 bokstav c, skip nevnt i § 1 bokstav d med bruttotonnasje under 500 som ikke er på internasjonal reise, og skip nevnt i § 1 bokstav e som ikke er på internasjonal reise.
+Første og andre ledd gjelder også i territorialfarvannet rundt Svalbard og Jan Mayen.
+Med «isforsterket skip», slik det brukes i polarkoden del I-A regel 9-1.3.2, menes skip med offentligrettslige krav til isforsterkning og skip som er isforsterket etter en standard fra et anerkjent klasseselskap, et klasseregelverk fra et anerkjent klasseselskap eller en annen anerkjent standard.
