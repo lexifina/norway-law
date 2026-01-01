@@ -1,0 +1,2 @@
+# § 9. Inndriving av gebyr/tilleggsgebyr
+Er tilleggsgebyr ikke betalt innen tre uker etter ileggelsen, kan dette inndrives i overensstemmelse med vegtrafikkloven § 38, men tidligst fjorten dager etter at varsel om inndriving er kommet fram til den skyldige. Gebyret kan også inndrives hos eieren av kjøretøyet etter samme prinsipper. Skyldneren har ikke erstatningsplikt for kostnader ved utenrettslig inndriving.
