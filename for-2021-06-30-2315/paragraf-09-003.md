@@ -1,0 +1,3 @@
+# § 9-3. Overbelastet infrastruktur
+(1) Dersom det etter samordning av søknadene om ruteleier og etter samråd med søkerne ikke er mulig å imøtekomme alle søknader om infrastrukturkapasitet til togtjenester i tilstrekkelig omfang, skal infrastrukturforvalteren umiddelbart erklære den berørte jernbaneinfrastrukturen som overbelastet. Det samme gjelder for jernbaneinfrastruktur der det kan forventes kapasitetsmangel i nær framtid.
+(2) For jernbaneinfrastruktur som er blitt erklært overbelastet, skal infrastrukturforvalteren foreta en kapasitetsanalyse i henhold til § 9-6, med mindre en kapasitetsforbedringsplan i henhold til § 9-7 allerede er under gjennomføring.

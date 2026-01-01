@@ -1,0 +1,5 @@
+# § 12-10. Suspensjon og tilbakekall av lisens
+(1) Lisensen skal suspenderes eller tilbakekalles av den lisensutstedende myndigheten dersom kravene i § 12-3 til § 12-6 ikke lenger er oppfylt.
+(2) Ved konkursbehandling eller tilsvarende behandling skal lisensen tilbakekalles dersom det ikke er realistiske muligheter for en tilfredsstillende finansiell omstrukturering innen en rimelig frist.
+(3) Dersom lisensen suspenderes eller tilbakekalles på grunn av at kravet til økonomisk evne ikke lenger er oppfylt, kan den lisensutstedende myndigheten mens jernbaneforetaket omorganiseres, utstede midlertidig lisens med gyldighet inntil seks måneder, forutsatt at sikkerheten ivaretas.
+(4) Når et jernbaneforetak har innstilt sin virksomhet i seks måneder eller ikke har begynt sin virksomhet seks måneder etter at lisensen er utstedt, kan den lisensutstedende myndigheten bestemme at lisensen skal suspenderes og fremlegges for fornyet vurdering. Et jernbaneforetak kan søke om en lengre frist for å starte opp virksomhet dersom transporttjenestens særlige karakter tilsier dette.

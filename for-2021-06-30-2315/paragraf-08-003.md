@@ -1,0 +1,3 @@
+# § 8-3. Søknader som gjelder kapasitet på flere enn ett jernbanenett
+(1) Søkere kan søke om infrastrukturkapasitet som går over flere enn ett jernbanenett ved å inngi en søknad til en av de berørte infrastrukturforvalterne. Denne infrastrukturforvalteren kan deretter på søkerens vegne søke om kapasitet hos de andre berørte infrastrukturforvalterne.
+(2) Infrastrukturforvaltere skal sørge for at søkere som ønsker infrastrukturkapasitet som går over flere enn ett jernbanenett kan søke direkte til eventuelle felles organ som infrastrukturforvalterne har opprettet for dette formålet. Dette krav berører ikke Rådsforordning (EU) nr. 913/2010 om et europeisk jernbanenett for konkurransedyktig godstransport.
