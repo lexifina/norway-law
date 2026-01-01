@@ -1,0 +1,2 @@
+# § 7. Krav om tilbakebetaling
+Tilskuddet kan kreves tilbakebetalt helt eller delvis dersom det er gitt feil opplysninger som har dannet grunnlag for utbetaling av tilskudd, eller der vilkårene for tilsagnet ikke overholdes. I slike tilfeller kan det kreves renter fra tidspunktet for utbetalingen av det urettmessige tilskuddet. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av § 3 i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
