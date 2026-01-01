@@ -1,0 +1,5 @@
+# § 7-1. Energiplanlegging
+Som grunnlag for en samfunnsmessig rasjonell utvikling av energisystemet og søknader om konsesjon for elektriske anlegg og fjernvarmeanlegg, skal alle konsesjonærer delta i energiplanarbeidet og samordne de enkelte energiplaner til hverandre.
+Energiplaner skal omfatte produksjon, overføring, distribusjon og bruk av elektrisk energi. I planleggingen skal det tas hensyn til muligheter for bruk av fjernvarme, energifleksible løsninger, varmegjenvinning, innenlandsk bruk av gass, tiltak for energiøkonomisering ved nybygg og rehabiliteringer, effekten av å ta i bruk energistyringssystemer på forbrukssiden mv.
+Konsesjonær plikter etter pålegg fra Norges vassdrags- og energidirektorat å utarbeide langsiktige energiplaner. Konsesjonær plikter også etter pålegg fra Norges vassdrags- og energidirektorat å koordinere utarbeidelse av energiplaner innen et nærmere definert planområde.
+Pålagte energiplaner skal oversendes Norges vassdrags- og energidirektorat. Norges vassdrags- og energidirektorat kan kreve fremlagt alt nødvendig underlagsmateriale av teknisk og økonomisk art for oppfølgingen av energiplanarbeidet.

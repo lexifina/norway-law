@@ -1,0 +1,5 @@
+# § 3-6. Tilgang til personell
+Nettselskap med inntektsramme skal til enhver tid ha tilgang til personell med kompetanse innenfor nettforvaltning, driftskontroll, tilstandskontroll og feilretting, behandling av henvendelser om tekniske forhold, samt nybygging og ombygging av elektriske anlegg. Det kreves tilstrekkelig egenbemanning til å lede virksomheten i enhver situasjon, vurdere hvilke tiltak som må iverksettes for å utføre oppgavene nevnt i første punktum, og til å følge opp innhold og utførelse dersom disse oppgavene er satt bort til andre.
+Alle med konsesjon etter energiloven § 3-1 for kraftproduksjon skal til enhver tid ha tilgang til personell med kompetanse til å ivareta ledelse, kontroll og praktisk drift.
+Den som omfattes av første eller annet ledd skal til enhver tid kunne fremvise dokumentasjon for at kravene er oppfylt. Avtaler og beskrivelser av kontrollrutiner ved kjøp av tjenester skal fremlegges for Norges vassdrags- og energidirektorat eller departementet på forespørsel.
+Kravene i første og annet ledd fritar ikke konsesjonæren fra forpliktelser gitt i eller i medhold av lov.
