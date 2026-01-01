@@ -1,0 +1,4 @@
+# § 5. Unntak fra konsesjonsplikten etter lovens § 3 første ledd
+Dersom en har drevet ervervsmessig svine- eller fjørfeproduksjon i minimum ti år og overtar en eiendom med ervervsmessig svine- eller fjørfeproduksjon som en har odelsrett til, og produksjonene til sammen overstiger grensen for konsesjonsfri drift, kan det gjøres unntak fra konsesjonsplikten etter lov om regulering av svine- og fjørfeproduksjonen § 3 første ledd. Statsforvalteren kan dispensere fra tiårskravet.
+Ved inngåelse av ekteskap eller samboerskap der partene har hver sin ervervsmessige svine- eller fjørfeproduksjon som de har drevet i minimum tre år, og disse produksjonene til sammen overstiger grensen for konsesjonsfri drift, kan det gis unntak fra konsesjonsplikten etter lov om regulering av svine- og fjørfeproduksjonen § 3 første ledd.
+Produksjonen kan ikke flyttes til et annet gårds- og bruksnummer.
