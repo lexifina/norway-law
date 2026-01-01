@@ -1,0 +1,3 @@
+# § 4-9. Markedsplasskonsesjon
+Det kreves konsesjon fra Reguleringsmyndigheten for energi for å forestå organisering eller drift av en markedsplass for omsetning av elektrisk energi for fysisk levering. En slik konsesjon har som formål å bidra til effektiv prisdannelse i kraftmarkedet gjennom å legge til rette for effektive, hensiktsmessige og tillitvekkende handelssystemer og handelsregler. Det skal tas hensyn til allmenne og private interesser som blir berørt. Ved tvil om det foreligger konsesjonsplikt, treffes avgjørelsen av Reguleringsmyndigheten for energi.
+Reguleringsmyndigheten for energi skal ved enkeltvedtak fastsette eller godkjenne vilkår for handel på markedsplasser som nevnt i første ledd eller metoder for å fastsette slike vilkår.

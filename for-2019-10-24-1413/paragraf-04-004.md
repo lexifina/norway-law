@@ -1,0 +1,3 @@
+# § 4-4. Intern organisering og regnskap
+Konsesjonæren plikter å føre regnskap i samsvar med regnskapsloven og god regnskapsskikk. Virksomheten skal deles opp i selvstendige virksomhetsområder med separate budsjetter og regnskaper (resultatoppstilling og balanse), og det skal gis separat regnskapsinformasjon om virksomhetsområdene. Regnskapene skal innleveres til Reguleringsmyndigheten for energi i samsvar med bestemmelsene i regnskapsloven om innlevering til sentralt regnskapsregister.
+Direkte og indirekte interne overføringer av økonomiske midler mellom monopolvirksomhet og annen virksomhet som konsesjonæren driver, skal fremgå av regnskapene.

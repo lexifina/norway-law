@@ -1,0 +1,2 @@
+# § 4-13. Uenighet
+Uenighet om vilkår for tilknytning til og bruk av nettet kan bringes inn til Reguleringsmyndigheten for energi, som skal fatte vedtak i saken innen to måneder etter at klagen kom fram. Fristen kan forlenges med to måneder hvis Reguleringsmyndigheten for energi ønsker ytterligere opplysninger, og kan etter samtykke fra klageren forlenges ytterligere. Fristen kan også forlenges hvis uenigheten gjelder tariffering av nye større produksjonsanlegg.

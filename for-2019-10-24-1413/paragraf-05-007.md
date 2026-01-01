@@ -1,0 +1,2 @@
+# § 5-7. Krav til markedsplass om deling av data til Reguleringsmyndigheten for energi
+Reguleringsmyndigheten for energi kan kreve at konsesjonær for organisert markedsplass for handel med elektrisk energi for fysisk levering, skal dele informasjon om ordre og transaksjoner som gjennomføres på markedsplassen. Konsesjonæren og Reguleringsmyndigheten for energi skal iverksette nødvendige tiltak for å ivareta datasikkerheten.

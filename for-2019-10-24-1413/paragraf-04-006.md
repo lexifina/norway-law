@@ -1,0 +1,3 @@
+# § 4-6. Markedsadgang og tariffer
+Konsesjonærene skal sørge for markedsadgang for alle som etterspør nettjenester til ikke-diskriminerende og objektive punkttariffer og vilkår. Med punkttariffer forstås tariffer som er referert til kundens tilknytningspunkt til nettet, og som er uavhengig av avtaler om kjøp eller salg av kraft.
+Konsesjonærene fastsetter tariffene. Dette omfatter alle priser og annen økonomisk godtgjørelse som konsesjonæren fastsetter for tilknytning til og bruk av elektriske nettanlegg. Tariffene skal utformes slik at de i størst mulig grad gir signaler om effektiv utnyttelse og effektiv utvikling av nettet. Tariffene kan differensieres etter objektive og kontrollerbare kriterier basert på relevante nettforhold.
