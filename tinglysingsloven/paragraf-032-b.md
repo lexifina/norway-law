@@ -1,0 +1,3 @@
+# § 32 b
+Når utmål på Svalbard opphører, skal bergmesteren sende begjæring om sletting av utmålet til tinglysing. Dersom det er tinglyst pant på utmålet, skal bergmesteren minst fire uker før begjæring om sletting fremsettes, sende skriftlig varsel til panthaveren. I varselet skal det gjøres oppmerksom på at utmålet med påhvilende heftelser vil bli begjært slettet dersom det ikke innen to uker dokumenteres at utmålet ikke er opphørt.
+Varsel kan unnlates dersom panthaveren hverken har kjent oppholdssted eller kjent fullmektig med kjent oppholdssted som kan motta varsel på vegne av panthaver. Er sletting ikke begjært innen ett år etter at varsel er sendt, kan begjæring om sletting ikke settes fram før fire uker etter at panthaveren har fått nytt varsel.

@@ -1,0 +1,5 @@
+# § 34 a
+For utleggspant gir registrering i Løsøreregisteret bare rettsvern når det følger av panteloven kapittel 5. Departementet kan i forskrift gi regler om sletting fra registeret av utleggspant som ikke får rettsvern ved registreringen.
+Departementet kan gi forskrift om hvilke opplysninger som skal tas inn i registeret når utleggstrekk og beslutninger om intet til utlegg skal registreres i Løsøreregisteret etter innkrevingsloven § 35 eller tvangsfullbyrdelsesloven § 7-23.
+Opplysninger om utleggstrekk og beslutninger om intet til utlegg kan bare gis til advokater, finansinstitusjoner, inkassobyråer, foretak som driver kredittopplysningsvirksomhet etter kredittopplysningsloven, samt offentlige myndigheter med taushetsplikt etter forvaltningsloven eller annen lov. Opplysningene kan bare gis ut skriftlig.
+Løsøreregisteret skal slette registreringen av et utleggstrekk når det får beskjed fra Innkrevingsmyndigheten. Registreringer av beslutninger om intet til utlegg skal slettes tre år etter at beslutningen ble tatt. Departementet kan i forskrift gi regler om det nærmere tidspunktet for slettingen.

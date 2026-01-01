@@ -1,0 +1,2 @@
+# § 38 c
+For å få grunnbokshjemmel til matrikkelenhet som er opprettet i medhold av matrikkellova § 9 første ledd bokstav d, må den som hevder å være eier, sannsynliggjøre dette, samt skriftlig erklære å være eier. Finner registerføreren at disse vilkår er til stede, kunngjør han en oppfordring til mulige eiere om å melde seg innen en frist som settes til minst en måned. Melder ingen seg, utsteder registerføreren en hjemmelserklæring som tinglyses som et hjemmelsdokument.

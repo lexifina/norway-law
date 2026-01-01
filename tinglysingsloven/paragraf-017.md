@@ -1,0 +1,2 @@
+# § 17
+Skal et skjøte eller pantedokument som ikke er utstedt av offentlig myndighet, kunne registreres i grunnboken, må underskriften være bekreftet i samsvar med forskrifter gitt av departementet. Det skal uttrykkelig bekreftes at underskriften er skrevet eller vedkjent i vedkommendes nærvær, og erklæres om utstederen er over 18 år. Dette gjelder også meddelelse av samtykke som nevnt i § 13 første og femte ledd.

@@ -1,0 +1,3 @@
+# § 9
+Blir et dokument nektet tinglyst, gjøres anmerkning om det i grunnboken. Den som har forlangt tinglysingen, skal straks underrettes om nektelsen og grunnen til den samt om adgangen til anke og fristen for det. Underretningen sendes elektronisk til avsenderens oppgitte elektroniske adresse, eller i rekommandert brev til avsenderens postadresse dersom saken er innkommet på papir. Er det andre som saken direkte gjelder, skal slik underretning samtidig gis til dem.
+Underretning som nevnt i første ledd skal gis også i andre tilfelle hvor noen har forlangt en forretning og ikke fått medhold ved registerførerens avgjørelse.

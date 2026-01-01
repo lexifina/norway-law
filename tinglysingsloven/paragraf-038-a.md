@@ -1,0 +1,2 @@
+# § 38 a
+Når en matrikkelenhet som er registrert i grunnboken, tilhører noen som ikke har grunnbokshjemmel, kan den som utøver eierrådigheten og som skriftlig erklærer å være eier, få grunnbokshjemmel dersom han sannsynliggjør at han, alene eller sammen med sin hjemmelsmann har vært eier i minst 20 år. Finner registerføreren at disse vilkår er til stede, kunngjør han en oppfordring til mulige eiere om å melde seg innen en frist som settes til minst en måned. Melder ingen seg, utsteder registerføreren en hjemmelserklæring som tinglyses som et hjemmelsdokument.

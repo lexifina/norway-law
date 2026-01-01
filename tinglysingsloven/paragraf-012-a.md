@@ -1,0 +1,4 @@
+# § 12 a
+Når det etter matrikkellova skal utføres oppmålingsforretning, kan dokument som gir grunnbokshjemmel til eiendoms- eller festerett, ikke tinglyses uten at melding til tinglysing om opprettelse av matrikkelenheten senest samtidig blir registrert i grunnboken.
+Dokument som gir grunnbokshjemmel til matrikkelenhet kan ikke tinglyses uten at det framgår av matrikkelen at slik tinglysing kan finne sted for vedkommende enhet. Gir dokumentet uttrykk for hjemmelsovergang som ledd i arv, skifte eller tvangsfullbyrdelse, eller gjelder eierseksjon eller festerett for en tid av 10 år eller kortere, er det tilstrekkelig at enheten er innført i matrikkelen. Dokument som endrer grenser for matrikkelenhet, kan ikke tinglyses før endringen er matrikkelført, unntatt når annet er bestemt av retten.
+Dokument som går ut på å stifte eller overdra noen rett som rammes av delingsforbudet i jordlova kan ikke tinglyses uten at departementet har samtykket i delingen.
