@@ -1,0 +1,3 @@
+# § 11. Årlig tildeling av strukturkvote og avkortning
+Strukturkvote tildeles for ett år av gangen, og kan tildeles i inntil 20 år. Strukturkvoter som er tildelt første gang før 2007, kan tildeles i inntil 25 år regnet fra og med 2008. Strukturkvoten skal tilsvare kvotefaktoren for det fartøyet som tas ut av fiske, men avkortet med 10 prosent av denne.
+Prøving av om vilkårene for tildeling er oppfylt skal gjøres før første gangs tildeling. Den årlige tildelingen skjer uten ny prøving, med mindre det fremkommer opplysninger som tyder på at vilkårene likevel ikke er oppfylt eller det av andre grunner er nødvendig å ta saken opp til ny prøving.
