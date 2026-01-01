@@ -1,0 +1,3 @@
+# § 8. Påbud om retting og tvangsmulkt
+Statens vegvesen kan treffe vedtak om retting innen en gitt frist dersom tilsyn viser at utstiller eller fabrikant/importør overtrer bestemmelsene om miljømerking og miljøinformasjon i § 2 og § 5.
+Dersom retting ikke er foretatt innen gitt frist, kan Statens vegvesen fastsette tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt løpende fra det tidspunktet en gitt frist for retting er overskredet og til retting er foretatt. Statens vegvesen kan gi nærmere retningslinjer for ileggelse av tvangsmulkt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 første ledd bokstav d. Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.
