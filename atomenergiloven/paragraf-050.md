@@ -1,0 +1,2 @@
+# § 50. (registrering m.m. av skader)
+Når det er inntruffet en atomulykke, kan departementet påby at alle personer som har vært i fareområdet på ulykkestiden, skal melde fra til kommunelegen eller politiet herom innen en fastsatt frist og gi de opplysninger som kreves for registrering av skader og skademuligheter, samt fremstille seg til legeundersøkelse etter nærmere innkalling eller kunngjøring fra helsemyndighetene.

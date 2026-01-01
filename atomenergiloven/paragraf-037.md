@@ -1,0 +1,7 @@
+# § 37. (garantierklæring)
+1) Forsikrings- eller sikkerhetsgiveren (garantisten) skal hos vedkommende myndighet legge ned en garantierklæring til fordel for mulige skadelidte og i slik form og av slikt innhold som departementet fastsetter. Enhver garantierklæring skal stadfeste bl.a. følgende vilkår som gjelder for garantien inntil den måtte bli avløst av ny godkjent garanti:
+a) Skadelidte har rett til å holde seg direkte til garantisten uansett forholdet mellom garantist og den ansvarlige innehaver.
+b) Garantien gjelder uten tidsgrense og uansett om atomanlegget skifter eier eller innehaver. En transportgaranti kan likevel begrenses til transportens varighet. Også for øvrig kan departementet i særlige tilfelle godkjenne en tidsbegrenset garanti.
+c) Garantien kan bare sies opp eller på annen måte settes ut av kraft etter minst 2 måneders skriftlig forhåndsvarsel til vedkommende myndighet. For så vidt angår atomulykke som inntreffer under transport påbegynt innen varselet kom fram, gjelder dog garantien videre så lenge transporten pågår.
+d) For skade voldt ved atomulykke som inntreffer mens garantien står ved makt, kan skadelidte holde seg til denne også etter at den er brakt til opphør.
+2) Når og så snart erstatningskrav kan gjøres gjeldende her i riket etter dette kapittel, gjelder reglene i bokstavene a-d under nr. 1 uten videre tilsvarende med virkning for kravet, uansett om fremmed lovgivning ellers legges til grunn for forholdet mellom garantisten og innehaveren, og selv om den ansvarlige innehavers anlegg ligger i utlandet.

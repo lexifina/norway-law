@@ -1,0 +1,3 @@
+# § 31. (skade voldt av flere anlegg)
+1) Er to eller flere innehavere erstatningspliktige for samme skade, svarer de overfor skadelidte en for alle og alle for en, men hver især bare innen den ansvarsbegrensning som etter § 30 er fastsatt for ham. Er skaden voldt ved atomulykke under transport av atomsubstans mens denne er i ett og samme transportmiddel eller under midlertidig oppbevaring i ett og samme atomanlegg, skal dog innehavernes ansvar til sammen ikke overstige den høyeste ansvarsbegrensning som etter § 30 gjelder for noen enkelt av dem, forutsatt at deres atomanlegg ligger i samme stat eller i stater som er tilsluttet samme konvensjon,
+2) Mellom innehaverne innbyrdes fordeles ansvaret under hensyn til hvert anleggs del i skaden og forholdene ellers.

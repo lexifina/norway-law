@@ -1,0 +1,4 @@
+# § 41. (begrensning av tilleggsytelser m.m.)
+1) De sammenlagte erstatningssummer som kan kreves utbetalt for atomskader som følge av en og samme atomulykke, dels fra den eller de ansvarlige innehavere etter kapitlets regler, dels av statsmidler etter § 40, skal ikke overstige 1,5 milliarder euro, eller det høyere beløp som måtte følge av tilleggskonvensjonen artikkel 12 bis. I tillegg kommer renter og sakskostnader.
+2) Er slik overenskomst om dekning av statsmidler som nevnt i Tilleggskonvensjonens artikkel 15 inngått mellom konvensjonstat som der nevnt og en annen stat, og overenskomsten omfatter atomulykke som går inn under § 40, skal også erstatninger i henhold til slik overenskomst regnes med i begrensningsbeløpet etter nr. 1.
+3) Dersom begrensningsbeløpet etter nr. 1, jfr. nr. 2, ikke rekker til å gi alle krav full dekning, nedsettes erstatningene med tilhørende renter forholdsmessig. Reglene i § 32 gjelder tilsvarende.

@@ -1,0 +1,6 @@
+# § 30. (ansvarsbegrensning)
+1) Innehaverens samlede ansvar for atomskader som følge av en og samme atomulykke er i alminnelighet begrenset til 700 millioner euro. Kongen kan i særlige tilfelle under hensyn til anleggets størrelse og art, omfanget av transport og forholdene ellers fastsette et annet begrensningsbeløp, likevel ikke under 80 millioner euro.
+2) Ligger den ansvarlige innehavers atomanlegg i en annen konvensjonstat, gjelder denne stats lovgivning om ansvarsbegrensningen selv om norsk rett for øvrig får anvendelse.
+3) Dersom det ved en atomulykke under transport voldes atomskade på det transportmiddel der den skadevoldende atomsubstans befant seg da ulykken skjedde, skal ansvaret for slik skade ikke føre til at ansvaret for annen atomskade begrenses til et lavere beløp enn 80 millioner euro.
+4) Begrensningen i nr. 1-3 foran gjelder ikke renter og sakskostnader.
+5) Når erstatning kan kreves for skade som oppstår i en stat som nevnt i Pariskonvensjonen artikkel 2 bokstav a (ii) eller (iv), jf. § 18 nr. 1, kan Kongen fastsette et lavere erstatningsbeløp enn nevnt i paragrafen her, i den utstrekning denne staten ikke på gjensidig grunnlag stiller tilsvarende ytelser til rådighet.

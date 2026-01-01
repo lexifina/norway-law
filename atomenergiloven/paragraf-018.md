@@ -1,0 +1,8 @@
+# § 18. (stedlig virkeområde)
+1) Reglene i dette kapittel gjelder for atomskade som oppstår på et geografisk område eller om bord i et skip eller et fly der Pariskonvensjonen får anvendelse etter konvensjonen artikkel 2 bokstav a.
+2) Hvis en atomulykke skjer her i riket og innehaveren av et atomanlegg her er ansvarlig for ulykken etter kapitlets regler ellers, kan det også kreves erstatning for atomskade som oppstår i en stat som ikke er konvensjonstat, og som ligger utenfor det området der Pariskonvensjonen får anvendelse etter konvensjonens artikkel 2 bokstav a, eller om bord i et skip eller fly registrert i en slik stat.
+3) Kongen kan bestemme
+a) at reglene i dette kapittel helt eller delvis skal gjelde atomskade oppstått her i riket eller i en annen konvensjonstat eller på det åpne hav, selv om ulykken er skjedd i en stat som ikke er konvensjonstat. Slik bestemmelse kan gjøres betinget av gjensidighet mellom Norge og vedkommende konvensjonstat der atomskaden er oppstått eller der skadelidte hører hjemme,
+b) at en stat som ikke er konvensjonstat, helt eller delvis skal likestilles med konvensjonstat etter reglene i kapitlet her.
+4) Kongen kan videre bestemme at det ikke skal ytes erstatning etter reglene i kapitlet her eller etter andre erstatningsregler for atomskade som er oppstått i en stat som ikke er konvensjonstat, uten for så vidt det etter denne stats lovgivning eller etter overenskomst foreligger gjensidighet. Slik bestemmelse kan Kongen treffe generelt eller med virkning i forhold til nærmere bestemte stater.
+5) Uten hinder av bestemmelsene i paragrafen her kan regresskrav gjøres gjeldende mot vedkommende innehaver i samsvar med reglene i § 28.

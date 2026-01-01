@@ -1,0 +1,5 @@
+# § 45. (lokalt verneting her i riket)
+1) Søksmål som etter § 44 hører under norsk domsmyndighet, kan bare reises i den rettskrets her i riket der atomulykken skjedde, når ikke annet er sagt nedenfor i paragrafen her.
+2) Er atomulykken skjedd utenfor riket, kan søksmål bare reises i den rettskrets der vedkommende atomanlegg her i riket ligger, eller – når saken gjelder ansvar for innehaver av atomanlegg i utlandet – i samsvar med tvisteloven § 4-3 annet ledd.
+3) Kan søksmål om ansvar for samme atomulykke etter reglene foran reises i mer enn en rettskrets, fastsetter vedkommende departement hvor vernetinget skal være. Søksmål som nevnt i § 44 nr. 2 kan likevel reises i enhver rettskrets der det er verneting for saken etter alminnelige prosessregler. Etter søknad kan departementet også fastsette vernetinget dersom det ikke kan bringes på det rene i hvilken rettskrets søksmål skal reises etter reglene foran. Domstollovens kap. 2 får anvendelse.
+4) Søksmål mot staten etter §§ 39 til 42 skal reises i samme rettskrets der det etter reglene foran i paragrafen her er verneting for søksmål mot innehaveren i anledning samme atomulykke.

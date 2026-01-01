@@ -1,0 +1,4 @@
+# § 8. (vilkår for konsesjon og løyve)
+1) Konsesjon og løyve gis på de vilkår som finnes påkrevet av hensyn til sikkerheten og andre allmenne interesser.
+2) Departementet kan endre oppstilte vilkår og sette nye vilkår for konsesjon eller løyve når det finnes påkrevet av hensyn til sikkerheten eller erstatningsvernet. Dersom de nye vilkårene medfører urimelig endring i de økonomiske forutsetninger for den som har fått konsesjon eller løyve, og de går ut over det som følger av hans plikt til å holde anlegg og utstyr i forskriftsmessig og forsvarlig stand og til å sikre mot skade, kan domstolen tilkjenne ham erstatning av statskassen i den utstrekning som finnes rimelig.
+3) Etter søknad fra den som har fått konsesjon eller løyve kan vedkommende departement gjøre de endringer og tilføyelser som det anser forsvarlig.

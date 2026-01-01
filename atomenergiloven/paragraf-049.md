@@ -1,0 +1,2 @@
+# § 49. (offentlig sikringstiltak)
+Kongen kan bestemme at regionale helseforetak og kommunale og fylkeskommunale myndigheter i det område et atomanlegg er eller blir oppført, eller i fareområdet omkring, skal samarbeide med innehaveren om sikringstiltak til vern for befolkningen i området. Etter nærmere regler som Kongen gir, bør det utarbeides en plan for sikrings- og hjelpetiltak i ulykkestilfelle, herunder om nødvendig også tvungen evakuering.
