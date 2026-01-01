@@ -1,0 +1,3 @@
+# § 6. Risikostyring
+Foretaket skal løpende vurdere hvilke vesentlige risikoer som er knyttet til virksomheten. Ved endringer eller etablering av produkter og rutiner av vesentlig betydning skal en slik risikovurdering foreligge før virksomheten igangsettes.
+Med utgangspunkt i definerte mål og strategier for virksomheten skal det minst én gang årlig foretas en gjennomgang av vesentlige risikoer for alle virksomhetsområder. Det skal for alle virksomhetsområder foretas en systematisk vurdering av om foretakets risikostyring og internkontroll er tilstrekkelig for å håndtere foretakets identifiserte risikoer på en forsvarlig måte.
