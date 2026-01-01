@@ -1,0 +1,4 @@
+# § 7. Overtredelsesgebyr
+Dersom noen på vegne av en virksomhet forsettlig eller uaktsomt har overtrådt bestemmelsene i forskriften, kan Statens vegvesen ilegge virksomheten et overtredelsesgebyr, jf. yrkestransportloven § 32a åttende ledd. Gebyret kan ilegges på stedet.
+Overtredelsesgebyret utmåles i det enkelte tilfelle. Utmålingen skal foretas med utgangspunkt i de hensynene som fremgår av forvaltningsloven § 46 andre ledd. Øvre ramme for gebyret fastsettes til 60 ganger rettsgebyr, jf. lov 17. desember 1982 nr. 86 om rettsgebyr. Statens vegvesen kan gi nærmere retningslinjer for utmålingen av overtredelsesgebyret.
+Endelig vedtak om betaling av overtredelsesgebyr er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 bokstav d. Overtredelsesgebyret kreves inn av Innkrevingsmyndigheten og tilfaller staten.
