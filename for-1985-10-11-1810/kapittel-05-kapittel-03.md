@@ -1,0 +1,6 @@
+# Til § 5 bokstav b:
+Ved lov av 4. mai 2001 nr. 16 om endringer i straffeprosessloven og domstolloven mv. (forkynnelse av dommer og enkelte justeringer i to-instansreglene mv.), er det vedtatt nye regler om forkynning av dom i straffesaker. Det vises her spesielt til ny § 159 a i domstolloven. Reglene er fleksible slik at retten fritt kan velge den forkynningsmåte som passer best i den enkelte sak. Domstolene skal forestå forkynningen enten ved at dommen avsies i rettsmøte der siktede er til stede (domsforkynning), ved at siktede etter pålegg fra retten møter opp ved rettens kontor, hos politiet eller ved et annet offentlig kontor for å få dommen forkynt (fremmøteforkynning), eller ved postforkynning. Stevnevitneforkynning som hittil har vært det vanligste, skal heretter bare brukes der dommen ikke kan forkynnes på annen måte.
+Fremmøteforkynning er en helt ny forkynningsmåte.
+Det vises for øvrig til Ot.prp.nr.18 (2000-2001) Om lov om endringer i straffeprosessloven og domstolloven mv. (forkynnelse av dommer og enkelte justeringer i to-instansreglene mv.).
+Endringene trer i kraft 1. juli 2001.
+Denne lovendringen nødvendiggjør visse endringer i postforkynningsforskriften § 5 bokstav b.
