@@ -1,0 +1,2 @@
+# § 19. Sletting av personopplysninger
+Når den årlige kontrollen nevnt i § 3 andre ledd og i § 7 andre ledd, er gjennomført og det ikke lenger er behov for personopplysningene i behandlingen av registrerings- og tilskuddssaker etter trossamfunnsloven, skal alle personopplysninger som er behandlet i forbindelse med kontrollen, slettes, unntatt personopplysninger i eventuelle klagesaksdokumenter hos statsforvalter og departementet.

@@ -1,0 +1,4 @@
+# § 2. Medlemsregisterføring
+Tros- og livssynssamfunn som er registrert etter trossamfunnsloven § 4, skal føre register over medlemmene og daterte inn- og utmeldinger. Opplysningene skal ikke utleveres uten den registrertes samtykke i andre tilfeller enn det som følger av § 3 andre ledd, § 7 andre ledd, behandlingen av registrerings- og tilskuddssaker etter trossamfunnsloven eller av bestemmelser fastsatt i eller med hjemmel i annen lovgivning.
+Det kan føres register over personer som gjennomgår livsfaseriter eller rituelle seremonier i regi av tros- eller livssynssamfunnet. Disse opplysningene kan tas inn i medlemsregisteret.
+Personer som er tildelt vigselsrett i medhold av trossamfunnsloven, skal føre vigselsbok i samsvar med forskrift 20. november 1992 nr. 854 om registrering og melding av vigsel.
