@@ -1,0 +1,2 @@
+# § 39. Ballastsystem
+Flytende innretninger skal være utstyrt med robuste ballast-, lense- og dreneringssystemer for å opprettholde nødvendig dypgående, stabilitet og skrogstyrke under normal bruk. I tillegg skal ballastsystemet kunne bringe innretningen til en sikker tilstand etter utilsiktet dypgående, trim eller krengning. Systemene skal kunne tømme og fylle alle tanker og tømme vanntette rom på en effektiv måte.
