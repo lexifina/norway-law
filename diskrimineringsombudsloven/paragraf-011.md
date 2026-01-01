@@ -1,0 +1,4 @@
+# § 11. Vedtaksmyndighet. Pålegg om stansing, retting mv.
+Nemnda kan treffe vedtak dersom det foreligger et brudd på bestemmelser nevnt i § 1 annet og fjerde ledd, med mindre annet er bestemt. Dersom nemnda kommer til at det ikke foreligger brudd på bestemmelsene i § 1 annet og fjerde ledd, skal den avgi en uttalelse om det.
+Nemnda kan med unntak av i saker som nevnt i § 1 fjerde ledd og med de unntak som følger av §§ 14 og 15, pålegge stansing, retting og andre tiltak som er nødvendige for å sikre at diskriminering, trakassering, instruks eller gjengjeldelse opphører, og for å hindre gjentakelse. Nemnda kan sette en frist for oppfyllelse av pålegget.
+I saker der det antas å medføre ulempe eller skadevirkning å avvente nemndas behandling av saken, kan nemndleder treffe vedtak etter annet ledd.
