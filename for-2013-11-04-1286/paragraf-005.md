@@ -1,0 +1,4 @@
+# § 5. Meldeplikt
+Enhver som mottar tiltakspenger, må som hovedregel melde seg til Arbeids- og velferdsetaten hver fjortende dag (meldeperioden). Melding skal gis ved bruk av meldekort eller på annen måte som Arbeids- og velferdsetaten bestemmer. Meldeplikten omfatter opplysninger som har betydning for retten til ytelse.
+Dersom det vil være unødig tyngende for tiltaksdeltakeren å overholde meldeplikten, kan Arbeids- og velferdsetaten helt eller delvis frita vedkommende fra meldeplikten og i så fall bestemme hvordan opplysninger som nevnt i første ledd skal gis.
+Dersom tiltaksdeltakeren uten rimelig grunn unnlater å melde seg på fastsatt dag, faller retten til ytelse bort fra og med den dagen vedkommende skulle ha meldt seg og inntil han eller hun melder seg på nytt. Tiltaksdeltakere som kan dokumentere at de har hatt rimelig grunn til å unnlate å melde seg, skal få ytelsen etterbetalt.

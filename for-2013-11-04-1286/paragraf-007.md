@@ -1,0 +1,4 @@
+# § 7. Forholdet til andre ytelser
+Det gis ikke tiltakspenger for samme periode som tiltaksdeltakeren har rett til andre ytelser til livsopphold. En tiltaksdeltaker som har barnepensjon etter folketrygdloven kapittel 18 kan likevel få tiltakspenger. En tiltaksdeltaker som har forlenget ventetid eller tidsbegrenset bortfall av dagpenger etter folketrygdloven § 4-10 eller § 4-20, anses å ha rett på dagpenger etter første punktum.
+En tiltaksdeltaker som mottar barnetrygd, jf. barnetrygdloven, eller kontantstøtte etter kontantstøtteloven, kan få barnetillegg jf. § 3 andre ledd.
+Den som deltar i et tiltak som nevnt i § 2 som er en del av et kvalifiseringsprogram, jf. lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen § 29 eller et introduksjonsprogram, jf. lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid kapittel 4, har ikke krav på tiltakspenger.
