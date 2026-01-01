@@ -1,0 +1,3 @@
+# § 9. Forskudd på periodisk oppgjør
+1. Det kan utbetales forskudd på periodisk oppgjør av beløp som i en måned er innbetalt av skatt mv. Ved forskuddsfordeling skal det gjøres fradrag for den marginen som skal holdes tilbake for den enkelte kommune på bankkonto for skatt, jf. § 12.
+2. Forskuddet fordeles mellom skattekreditorene etter gjeldende fordelingstall for de skattearter og inntektsår det foretas forskuddsfordeling for. Ved forskuddsfordeling skal fordelte beløp overføres til kommunen og fylkeskommunen, jf. § 8 nr. 3. Det utbetales ikke forskudd til staten og folketrygden. Samlet oppgjør til staten og folketrygden foretas i forbindelse med periodeavslutning, i samsvar med frister i § 8.

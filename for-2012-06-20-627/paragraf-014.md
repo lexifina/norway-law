@@ -1,0 +1,4 @@
+# § 14. Fordeling av renter, innkrevingsutgifter/-inntekter, gebyrer mv.
+1. Renter fordeles mellom skattekreditorene ved hvert periodiske oppgjør på grunnlag av den gjeldende fordeling for den hovedstol som rentene vedrører.
+2. Innkrevingsutgifter og gebyrer belastes staten. Innkrevingsinntekter og betalte gebyrer godskrives staten.
+3. De utgifter som det offentlige pådrar seg ved rettslig prøving av skattekrav mv. etter reglene i innkrevingsloven § 36 og skatteforvaltningsloven § 15-1, skal fordeles som innkrevingsutgifter. Tilsvarende gjelder for utgifter som det offentlige pådrar seg ved prejudisiell prøving av skattekrav i saker etter skatteforvaltningsloven § 14-12, straffeprosessloven § 427 og § 428, og i sivile erstatningskrav mot medvirkere. Tilkjente saksomkostninger fordeles som innkrevingsinntekter.
