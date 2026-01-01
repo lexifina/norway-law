@@ -1,0 +1,5 @@
+# § 11. Rapporteringsplikter
+Alle mottakere av tilskudd skal rapportere faglig på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet, ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
+Sammen med rapporten skal det sendes inn regnskap for disponeringen av tilskuddet, innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal være satt opp i henhold til omsøkt budsjett, og være undertegnet av styreleder eller den som har signaturrett.
+Når tilskuddet er 400 000 kroner eller høyere skal tilskuddsregnskapet være revidert av statsautorisert revisor. For tilskuddsmottakere som benytter kommunerevisjon eller annet offentlig revisjonsorgan, skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap undertegnet av organisasjonens leder, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
+Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
