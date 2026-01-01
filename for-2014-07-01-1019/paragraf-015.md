@@ -1,0 +1,3 @@
+# § 15. Dokumentasjon
+Det skal dokumenteres ved tegninger at kravene til plassering av redningsredskaper i SOLAS kapittel III og forskriften er oppfylt. Tegningene skal være detaljerte, utført i målestokk og må angi presist hvilke forskriftskrav som er oppfylt. Sjøfartsdirektoratet kan kreve at det legges frem ytterligere opplysninger og dokumentasjon. Ved endring av redningsredskaper skal oppfyllelse av plasseringskravene dokumenteres på tilsvarende måte.
+Ved nybygg eller ombygging av skip eller bemannet lekter etter § 1 skal dokumentasjonen sendes til Sjøfartsdirektoratet i samsvar med den til enhver tid gjeldende dokumentasjonsliste utarbeidet av Sjøfartsdirektoratet.
