@@ -1,0 +1,2 @@
+# § 10-3. Unntak fra kravet om konsolidering
+Interkommunalt politisk råd og kommunalt oppgavefellesskap som ikke er et eget rettssubjekt og som fører eget regnskap, kan utelates fra konsolideringen hvis dette ikke har betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling. Hvis det er flere enheter som hver for seg kan utelates etter første punktum, skal enhetene likevel tas med i konsolideringen så langt det er nødvendig for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.

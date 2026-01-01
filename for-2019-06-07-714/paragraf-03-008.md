@@ -1,0 +1,3 @@
+# § 3-8. Bokføring
+For virksomhet som er bokføringspliktig etter kommuneloven § 14-6 femte ledd, skal pliktig regnskapsrapportering etter bokføringsloven § 3 omfatte regnskapsrapportering etter kommuneloven § 14-6, § 14-8 og § 16-1.
+Hvis kontantsalg i en avgrenset virksomhet er mindre enn tre ganger folketrygdens grunnbeløp i løpet av et regnskapsår, kan kravene i bokføringsforskriften § 5-3-2 fravikes for denne virksomheten. Hvis bokføringsforskriften § 5-3-2 fravikes, skal kontantsalget dokumenteres etter reglene i bokføringsforskriften delkapittel § 5-4 så langt de passer. Første og andre punktum gjelder ikke for virksomhet som er bokføringspliktig etter bokføringsloven § 2 andre ledd.

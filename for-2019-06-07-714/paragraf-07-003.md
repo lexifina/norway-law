@@ -1,0 +1,3 @@
+# § 7-3. Årsregnskapets innhold
+Årsregnskapet skal utarbeides etter regnskapsloven kapittel 3 til 7. Årsregnskapet skal i tillegg inneholde en oppstilling av investeringsutgiftene og finansieringen av disse. Årsregnskapet skal også inneholde noteopplysninger som nevnt i § 5-12 første ledd bokstav b og § 6-2 første ledd bokstav a og b. I note skal det også opplyses om størrelsen på foretakets avdrag på lån.
+Oppstillingen av resultatregnskapet etter regnskapsloven § 6-1 eller § 6-1a og oppstillingen av investeringsutgiftene og finansieringen skal vise beløp for regnskapsåret, det opprinnelige vedtatte årsbudsjettet, det regulerte årsbudsjettet og det forrige årsregnskapet.

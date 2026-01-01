@@ -1,0 +1,3 @@
+# § 7-1. Årsregnskap etter regnskapsloven
+Et kommunalt eller fylkeskommunalt foretak kan utarbeide årsregnskapet etter regnskapsloven hvis foretaket driver næringsvirksomhet og hvis det i vedtektene til foretaket er gitt adgang til å følge regnskapsloven. Kommunale og fylkeskommunale foretak skal utarbeide årsregnskapet etter regnskapsloven når det følger av annen lov eller forskrift.
+Hvis foretaket utarbeider årsregnskapet etter regnskapsloven, gjelder bestemmelsene i § 7-2 til § 7-5. Hvis det følger av annen lov eller forskrift at foretaket skal utarbeide årsberetningen etter regnskapsloven, gjelder likevel ikke § 7-4. Bestemmelsene i § 2-1 til § 5-15 og § 6-1 til § 6-2 i forskriften her og kommuneloven § 14-6 andre til fjerde ledd gjelder ikke.

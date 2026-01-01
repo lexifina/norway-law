@@ -1,0 +1,3 @@
+# § 2-5. Avdrag på lån
+Avdrag på lån som er tatt opp etter kommuneloven § 14-15 første eller andre ledd eller § 14-16 eller med hjemmel i annen lov, regnes som utgifter til drift. I økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal det føres avdrag på slike lån som samlet minst tilsvarer minimumsavdraget beregnet etter kommuneloven § 14-18. Avdrag på slike lån som overstiger minimumsavdraget, skal bare føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet, hvis avdraget finansieres av inntekter her.
+Avdrag på lån som er tatt opp etter kommuneloven § 14-17 første ledd, føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet.

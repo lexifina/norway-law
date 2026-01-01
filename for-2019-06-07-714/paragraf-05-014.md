@@ -1,0 +1,3 @@
+# § 5-14. Separat resultatoppstilling for maritime og offshorerelaterte sikkerhetskurs
+Hvis fylkeskommunen har skoler som tilbyr maritime og offshorerelaterte sikkerhetskurs i markedet, skal det i note til fylkeskommunens årsregnskap gis resultatoppstillinger for slike kurs og for skolens ordinære opplæringsvirksomhet.
+Det skal også opplyses om prinsippene for fordelingen av inntekter og kostnader mellom virksomhetene, og om begrunnelsen for prinsippene som er valgt. Prinsippene skal være konsekvente og objektive, og gjenspeile skolens økonomiske og organisatoriske struktur. Prinsippene skal også være slik at kursvirksomheten dekker alle kostnadene knyttet til sin virksomhet, herunder alle variable kostnader og en forholdsmessig andel av skolens faste kostnader.
