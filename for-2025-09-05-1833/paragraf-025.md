@@ -1,0 +1,5 @@
+# § 25. Studiets oppbygging
+Utdanningen skal sikre at det faglige innholdet, de pedagogiske virkemidlene og praksisstudiene er integrert slik at læringsutbyttene kan oppnås. Det skal tilrettelegges for at kandidater kan avslutte utdanningen etter 90 studiepoeng. Utdanningsinstitusjonene skal samarbeide med tjenestesektoren/tjenestene om hvordan dette mest hensiktsmessig kan organiseres ved den enkelte utdanningsinstitusjon.
+Utdanningen skal ha en oppbygning som viser hvordan de ulike kompetanseområdene bygger på hverandre og bidrar til at klinisk og vitenskapelig kompetanse utvikles og integreres.
+Utdanningen skal gi et tilstrekkelig naturvitenskapelig og anestesiologisk kunnskapsgrunnlag for å sikre kandidatens sluttkompetanse. Sentrale områder i utdanningen skal være anestesisykepleierens handlingskompetanse, selvstendige funksjon og funksjon i tverrfaglige team.
+Utdanningens organisering skal legge til rette for stadig veksling og integrasjon mellom teoretisk fordypning og kompetanseutvikling i det kliniske feltet. Gjennom hele studiet anvendes læringsformer der studenten integrerer forskningsbasert, erfaringsbasert og pasienterfaringsbasert kunnskap.
