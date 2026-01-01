@@ -1,0 +1,2 @@
+# § 3-23. Spesielle grupper
+Representanter for elever, vernepliktige, sivile tjenestepliktige, innsatte, pasienter og utplasserte kan ikke velges til verneombud eller til medlemmer av arbeidsmiljøutvalg uten at dette er fastsatt i tilleggsforskrifter. De har heller ikke stemmerett ved valg av verneombud og arbeidsmiljøutvalg og skal heller ikke være med i tellegrunnlaget når det skal avgjøres om virksomheten har så mange arbeidstakere at arbeidsmiljøutvalg skal opprettes, hvis annet ikke er fastsatt i tilleggsforskrifter.

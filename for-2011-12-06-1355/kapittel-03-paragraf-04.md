@@ -1,0 +1,3 @@
+# § 3-4. Verneombudenes funksjonstid
+Verneombudene velges for to år av gangen. Dersom et verneombud slutter i virksomheten eller går over i varig arbeid innen et annet verneområde, opphører vervet. I så fall skal det umiddelbart velges nytt verneombud, med mindre det er valgt stedfortreder. Da trer stedfortrederen inn som verneombud for den resterende del av valgperioden.
+Virksomhetens ledelse skal ha skriftlig melding om hvem som er valgt som verneombud. En arbeidstaker kan ikke kreves anerkjent som verneombud før slik melding er gitt. Inntil ledelsen mottar melding om nyvalg, blir den tidligere valgte å anse som verneombud.

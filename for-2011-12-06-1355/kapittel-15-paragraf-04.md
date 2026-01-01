@@ -1,0 +1,2 @@
+# § 15-4. Krav til vedlikehold og kontroll av personlig verneutstyr
+Arbeidsgiver skal sørge for rutiner for oppbevaring, vedlikehold, reparasjon og utskifting av personlig verneutstyr, og at det personlige verneutstyret er i god hygienisk stand. Hvis ett og samme personlig verneutstyr må benyttes av flere personer, skal arbeidsgiver sørge for at slik bruk ikke medfører helsemessige eller hygieniske problemer for arbeidstakerne.

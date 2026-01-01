@@ -1,0 +1,2 @@
+# § 3-10. Gjennomføring av valg til arbeidsmiljøutvalg i virksomhet med flere lokale fagforeninger
+I virksomhet med flere lokale fagforeninger, kan to eller flere fagforeninger som til sammen organiserer flertallet av arbeidstakerne avtale at valget skal skje som forholdstallsvalg eller at fagforeningene skal utpeke arbeidstakernes representanter i arbeidsmiljøutvalg. Blir slik avtale ikke inngått, skal valget skje som flertallsvalg.

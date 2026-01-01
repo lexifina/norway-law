@@ -1,0 +1,3 @@
+# § 3-14. Flere arbeidsmiljøutvalg i samme virksomhet
+I virksomheter med flere atskilte driftsenheter, kan arbeidsmiljøutvalget vedta at det skal velges lokale arbeidsmiljøutvalg for hver driftsenhet. Arbeidsmiljøutvalget for hele virksomheten fastsetter arbeidsoppgaver og beslutningsmyndighet for det lokale arbeidsmiljøutvalg. For øvrig gjelder forskriftenes regler om arbeidsmiljøutvalg.
+Arbeidsmiljøutvalget kan opprette underutvalg som skal behandle særskilte problemer (f.eks. attføringsutvalg, ergonomiutvalg mv.). Underutvalgene er rådgivende for arbeidsmiljøutvalget. Arbeidsmiljøutvalget kan likevel vedta at de enkelte underutvalg skal ha en viss avgjørelsesmyndighet.

@@ -1,0 +1,51 @@
+# § 16-3. Ikrafttredelse
+Denne forskriften trer i kraft 1. januar 2013.
+Fra samme dato oppheves
+- Forskrift 14. juni 1985 nr. 1410 om arbeid i tanker
+- Forskrift 19. november 1985 nr. 2105 om graving og avstivning av grøfter
+- Forskrift 14. juni 1985 nr. 1157 om arbeid med ioniserende stråling
+- Forskrift 10. september 1982 nr. 1377 om tekniske innretninger
+- Forskrift 1. november 1966 nr. 9192 om førervern på traktor
+- Forskrift 26. april 2005 nr. 362 om asbest
+- Forskrift 4. april 1973 nr. 1 om installasjon av nytt CO2-anlegg
+- Forskrift 18. april 1974 nr. 3 om snøskredfare ved oppholds- og anleggssteder
+- Forskrift 20. april 1977 nr. 9193 om traktorer
+- Forskrift 29. april 1977 nr. 7 om verneombud og arbeidsmiljøutvalg
+- Forskrift 25. mai 1977 nr. 2 om Arbeidstilsynets samtykke ved oppføring av bygning, bygningsmessige endringer, omorganisering m.v.
+- Forskrift 25. september 1978 nr. 5 om kvilekoier
+- Forskrift 7. desember 1979 nr. 7 om tilsetting av luktestoff til oksygen (odorering) ved sveising, brenning og varmebehandling
+- Forskrift 14. juni 1985 nr. 1411 om arbeid på tankfartøy beskyttet med nøytralgass i lastetankene
+- Forskrift 26. april 2006 nr. 456 om vern mot støy på arbeidsplassen
+- Forskrift 19. september 1997 nr. 1018 om regionale verneombud for bygge- og anleggsvirksomhet
+- Forskrift 15. november 1983 nr. 1674 om kontroll, merking og fylling av trykkluftflasker til dykking og åndedrettsvern
+- Forskrift 21. mars 1986 nr. 745 om arbeidsmiljølovens anvendelse på virksomhet i jordbruk og skogbruk som ikke sysselsetter arbeidstaker
+- Forskrift 10. januar 1986 nr. 17 om arbeidsmiljølovens anvendelse for arbeid i enmannsbedrifter innen bygge- og anleggsvirksomhet
+- Forskrift 11. april 1986 nr. 870 om lokale verneombud og arbeidsmiljøutvalg for losse- og lastearbeid
+- Forskrift 25. januar 2005 nr. 47 om løselig seksverdig krom i sement
+- Forskrift 14. april 1989 nr. 335 om stillaser, stiger og arbeid på tak m.m.
+- Forskrift 11. februar 2009 nr. 162 om at virksomheter innen visse bransjer skal ha godkjent bedriftshelsetjeneste
+- Forskrift 30. november 1990 nr. 944 om dykking
+- Forskrift 13. februar 1992 nr. 1263 om høytrykksspyling m.m.
+- Forskrift 24. mai 1993 nr. 1425 om bruk av personlig verneutstyr på arbeidsplassen
+- Forskrift 16. september 1994 nr. 876 om førervern på gamle traktorer
+- Forskrift 6. oktober 1994 nr. 972 om sikkerhetsskilting og signalgivning på arbeidsplassen
+- Forskrift 10. november 1994 nr. 1053 om havnearbeid
+- Forskrift 15. desember 1994 nr. 1259 om arbeid ved dataskjerm
+- Forskrift 16. februar 1995 nr. 170 om arbeidsplasser og arbeidslokaler
+- Forskrift 20. januar 1995 nr. 156 om tungt og ensformig arbeid
+- Forskrift 20. april 1995 nr. 385 om arbeid i kontrollrom
+- Forskrift 25. august 1995 nr. 768 om forplantningsskader og arbeidsmiljø
+- Forskrift 16. desember 1996 nr. 1315 om arbeid ved avløpsanlegg
+- Forskrift 30. juni 2005 nr. 794 om sikkerhet, helse og arbeidsmiljø ved bergarbeid
+- Forskrift 19. desember 1997 nr. 1322 om vern mot eksponering for biologiske faktorer (bakterier, virus, sopp m.m.) på arbeidsplassen
+- Forskrift 26. februar 1998 nr. 179 om sveising, termisk skjæring, termisk sprøyting, kullbuemeisling, lodding og sliping (varmt arbeid)
+- Forskrift 30. april 1998 nr. 551 om arbeid av barn og ungdom
+- Forskrift 26. juni 1998 nr. 608 om bruk av arbeidsutstyr
+- Forskrift 18. desember 1998 nr. 1206 om gebyr for byggesaksbehandling etter arbeidsmiljøloven § 19
+- Forskrift 14. april 2000 nr. 412 om oppbygging og bruk av stoffkartotek for helsefarlige stoffer i virksomheter (Stoffkartotekforskriften)
+- Forskrift 30. april 2001 nr. 443 om vern mot eksponering for kjemikalier på arbeidsplassen (kjemikalieforskriften)
+- Forskrift 6. juli 2005 nr. 804 om vern mot mekaniske vibrasjoner
+- Forskrift 10. september 2009 nr. 1173 om arbeidsgivers bruk av godkjent bedriftshelsetjeneste og om godkjenning av bedriftshelsetjeneste
+- Forskrift 27. april 2010 nr. 605 om vern mot kunstig optisk stråling på arbeidsplassen
+- Forskrift 16. november 2010 nr. 1452 om regionale verneombud for visse bransjer.
+- Forskrift 2. juni 1977 nr. 3219 om maskiner, redskap og verktøy.

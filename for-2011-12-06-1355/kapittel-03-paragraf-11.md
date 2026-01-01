@@ -1,0 +1,2 @@
+# § 3-11. Stedfortredere for arbeidsmiljøutvalgets medlemmer
+Medlemmene i arbeidsmiljøutvalget skal ha stedfortredere. Stedfortreder for arbeidsgiver skal utpekes av denne og være fra virksomhetens øverste ledelse. Stedfortredere for arbeidstakernes representanter skal velges eller utpekes etter reglene i § 3-9 og § 3-10. Avholdes valg, velges arbeidstakerrepresentanter og stedfortredere under ett. Medlemmer og stedfortredere blir innvalgt i den rekkefølge stemmetallene tilsier. Stedfortreder med flest stemmer blir personlig stedfortreder for medlem med flest stemmer osv.
