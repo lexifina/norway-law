@@ -1,0 +1,3 @@
+# § 10. (miljømessige teknikker og innsatsfaktorer)
+I virksomhet på Svalbard skal anvendes den teknikk som gir minst mulig belastning på miljøet, om ikke vesentlige økonomiske hensyn til igangværende virksomhet tilsier at en annen teknikk blir brukt, og dette er forsvarlig etter en samlet miljømessig vurdering.
+I virksomhet på Svalbard skal kjemiske og bioteknologiske produkter som kan volde skade eller ulempe for miljøet, erstattes med produkter som etter en samlet miljømessig vurdering gir mindre risiko for miljøet, dersom ikke vesentlige økonomiske hensyn til igangværende virksomhet tilsier noe annet.

@@ -1,0 +1,3 @@
+# § 94. (eiendomsrett til flora og fauna håndtert i strid med loven mv.)
+Flora og fauna som er innsamlet, fanget eller avlivet i strid med loven her, eller avlivet med hjemmel i §§ 33 første ledd og 34, tas hånd om av Sysselmesteren. Det samme gjelder fallvilt, deler av fallvilt og dyr som er avlivet av dyrevernhensyn og fauna felt i samband med forskning. Ordningen etter første og annet punktum kan gjøres gjeldende ved forelegg eller dom etter straffeprosesslovens regler for inndragning.
+Sysselmesteren avgjør hvordan slik flora og fauna skal disponeres. Verdien av flora og fauna som nevnt i første ledd, tilfaller Svalbards miljøvernfond. Sysselmesteren kan kreve erstatning for verdien dersom Sysselmesteren ikke får tilgang til flora og fauna etter dette ledd.

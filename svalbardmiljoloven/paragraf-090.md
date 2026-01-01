@@ -1,0 +1,3 @@
+# § 90. (granskning)
+Når det er nødvendig for å utføre gjøremål etter loven, skal Sysselmesteren eller den departementet bemyndiger ha uhindret adgang til eiendom der det foregår virksomhet som kan påvirke miljøet, eller der miljøet kan antas å være påvirket. Sysselmesteren eller den departementet bemyndiger kan også kreve å få lagt frem og granske dokumenter og elektronisk lagret materiale eller annet materiale som kan ha betydning for gjøremål etter loven.
+Ved inspeksjon av virksomhet skal Sysselmesteren eller den departementet bemyndiger først ta kontakt med representanter for virksomhetens ledelse, om ikke formålet med inspeksjonen dermed blir forhindret eller vesentlig vanskeliggjort.

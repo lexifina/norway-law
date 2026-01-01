@@ -1,0 +1,2 @@
+# § 54. (midlertidig forbud mot virksomhet og fradeling)
+Finner Sysselmesteren eller den departementet bestemmer, at det innenfor et delområde må utarbeides en endret eller mer detaljert plan, kan vedkommende bestemme at virksomhet og fradeling som nevnt i § 53 ikke kan settes i gang før planen er godkjent. Forbudet kan ikke vare lenger enn ett år. Departementet kan i særlige tilfelle forlenge fristen.

@@ -1,0 +1,2 @@
+# § 87. (miljøvernmyndighetenes tilsyn)
+Miljøvernmyndighetene eller den departementet bemyndiger fører tilsyn med miljøtilstanden og med at bestemmelsene gitt i og i medhold av denne lov blir overholdt. Det skal legges vekt på å føre et så effektivt tilsyn som forholdene tilsier og med minst mulig belastning for miljøet. Sysselmesteren eller den departementet bemyndiger skal gjennom råd, veiledning og opplysning arbeide for å fremme formålet med loven her.

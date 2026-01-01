@@ -1,0 +1,3 @@
+# § 26. (innførsel av flora eller fauna mv.)
+Innførsel av levende eksemplarer av vill flora og fauna som er etablert eller kan etablere seg i vill tilstand på Svalbard kan bare skje i samsvar med tillatelse fra departementet eller forskrift i medhold av annet ledd. Bestemmelsen gjelder også for rogn og egg av slike arter.
+For å gjennomføre konvensjonen av 3. mars 1973 om internasjonal handel med truede arter av vill flora og fauna (CITES) eller andre internasjonale forpliktelser, eller for øvrig for å bevare naturlig viltlevende arter, kan Kongen gi forskrift om inn- og utførsel, transport, omsetning og oppbevaring eller besittelse av levende eller døde eksemplarer eller deler av slike.

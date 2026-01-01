@@ -1,0 +1,3 @@
+# § 60. (bruk av særskilt konsekvensutredning)
+Tiltakshaverens søknad skal utarbeides sammen med konsekvensutredningen og vise hvordan konsekvensutredningen er lagt til grunn. Sysselmesteren sender søknad og konsekvensutredning på høring.
+Dersom det i utredningen eller på annen måte avdekkes nye forhold som kan ha vesentlig betydning for virksomhetens virkninger for miljøet, kan Sysselmesteren kreve tilleggsutredninger. Det kan ikke gis tillatelse før Sysselmesteren har godkjent at plikten til å utarbeide konsekvensutredning er oppfylt. Hvis virksomheten ikke er påbegynt innen fem år etter at tillatelsen ble gitt, må det utarbeides ny konsekvensutredning etter § 59 om ikke Sysselmesteren fritar for dette.
