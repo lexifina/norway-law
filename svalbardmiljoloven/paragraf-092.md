@@ -1,0 +1,2 @@
+# § 92. (gebyr for saksbehandling og kontroll)
+Departementet kan gi forskrift om gebyr for kontrolltiltak som miljøvernmyndighetene utfører i medhold av dette kapittel, og for behandling av tillatelser, dispensasjoner m.m. etter denne lov eller forskrift fastsatt i medhold av loven. Gebyrene settes slik at de samlet ikke antas å overstige kostnadene ved kontrollordningen eller saksbehandlingen. Gebyret er tvangsgrunnlag for utlegg.

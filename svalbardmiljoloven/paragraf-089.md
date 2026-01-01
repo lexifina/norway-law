@@ -1,0 +1,2 @@
+# § 89. (opplysningsplikt)
+Den som har eller foretar seg noe som kan påvirke miljøet på Svalbard, plikter etter pålegg fra Sysselmesteren eller den departementet bemyndiger, og uten hinder av taushetsplikt, å gi de opplysninger som Sysselmesteren eller den departementet bemyndiger trenger for å utføre sine gjøremål etter denne lov. Når særlige grunner tilsier det, kan Sysselmesteren eller den departementet bemyndiger kreve at opplysninger gis av enhver som utfører arbeid for den som har opplysningsplikt etter første punktum.

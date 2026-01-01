@@ -1,0 +1,5 @@
+# § 44. (dispensasjon og tiltakshaverens særlige plikter for å beskytte kulturminner)
+Når en virksomhet planlegges, skal tiltakshaveren på egen kostnad undersøke om virksomheten vil virke inn på automatisk fredete kulturminner på en måte som nevnt i § 42. Direktoratet avgjør snarest mulig om og i tilfelle på hvilken måte tiltaket kan iverksettes.
+Viser det seg først mens arbeidet er i gang at det kan virke inn på automatisk fredete kulturminner i strid med § 42, skal Sysselmesteren varsles i henhold til § 62 annet ledd og arbeidet stanses. Direktoratet avgjør snarest mulig om arbeidet kan fortsette og vilkårene for det.
+Funn som kommer frem ved undersøkelser og utgraving eller under virksomheten, skal dokumenteres og konserveres på tiltakshaverens regning, om ikke annet blir bestemt etter § 98. Funn skal avleveres innen ett år, om ikke Sysselmesteren forlenger fristen.
+Direktoratet kan i særlige tilfeller gjøre unntak fra vedtak om fredning og fredningsbestemmelser for tiltak som ikke medfører vesentlige inngrep i det fredete kulturminnet eller det fredete området.

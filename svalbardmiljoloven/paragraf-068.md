@@ -1,0 +1,2 @@
+# § 68. (dumping og forbrenning av avfall eller annet materiale)
+Dumping og forbrenning av avfall eller annet materiale fra skip eller annet fartøy er forbudt. Forbudet omfatter ikke forbrenning av avfall som oppstår som følge av skipets vanlige drift og som er tillatt i henhold til forskrift 16. juni 1983 nr. 1122 om hindring av forurensning fra skip (MARPOL-forskriften). Sysselmesteren kan gi tillatelse i medhold av forskrift 1. juni 2004 nr. 931 om begrensning av forurensning kapittel 22 Mudring og dumping i sjø og vassdrag.

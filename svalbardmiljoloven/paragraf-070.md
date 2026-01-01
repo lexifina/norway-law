@@ -1,0 +1,5 @@
+# § 70. (akutt forurensning – beredskap og varsling)
+Den som driver virksomhet som kan medføre akutt forurensning, skal ha nødvendig beredskap og har plikt til å aksjonere for å hindre, oppdage, stanse, fjerne og begrense virkningen av slik forurensning. Departementet kan pålegge den ansvarlige for virksomheten å legge fram beredskapsplan for godkjenning. Det kan fastsettes nærmere vilkår for godkjenning av beredskapsplanen. Med akutt forurensning forstås forurensning av betydning som inntrer plutselig, og som ikke er tillatt etter loven her.
+Inntrer det akutt forurensning eller fare for akutt forurensning, skal den ansvarlige straks varsle Sysselmesteren. Også andre har plikt til å varsle, om det ikke åpenbart er unødvendig.
+Den som har beredskaps- og aksjonsplikt etter denne bestemmelsen, skal etter pålegg av den som har ansvar for den statlige beredskapen bistå med utstyr og personell ved en aksjon mot akutt forurensning.
+Departementet kan gi forskrift om hvem som er beredskaps- og aksjonspliktig, beredskaps- og aksjonspliktens omfang og om avgift for offentlig beredskap.

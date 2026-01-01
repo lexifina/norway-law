@@ -1,0 +1,4 @@
+# § 97. (direkte gjennomføring)
+Blir plikter som følger av loven eller vedtak i medhold av loven ikke etterlevd, kan Sysselmesteren eller den departementet bemyndiger selv sørge for nødvendige tiltak for å få plikten overholdt. Før dette skjer, skal den ansvarlige gis varsel med en kort frist for selv å gjennomføre tiltakene. Varsel kan unnlates dersom tiltakene haster av hensyn til miljøet, eller det er uvisst hvem som er ansvarlig.
+Ved iverksetting av tiltak etter første ledd kan Sysselmesteren eller den departementet bemyndiger gjøre bruk av og om nødvendig volde skade på den ansvarliges eiendom. Sysselmesteren eller den departementet bemyndiger kan om nødvendig bestemme at det mot vederlag kan gjøres bruk av eller voldes skade også på andres eiendom. Staten innestår for vederlaget.
+Utgifter til tiltak etter første ledd kan kreves dekket av den ansvarlige. Kravet er tvangsgrunnlag for utlegg.

@@ -1,0 +1,6 @@
+# § 52. (vedtakelse av planen)
+Den planansvarlige legger etter høringen i samsvar med § 50 et ferdigbehandlet forslag til plan frem for Sysselmesteren eller den departementet bestemmer.
+Sysselmesteren eller den departementet bestemmer, kan treffe vedtak om å godkjenne planen når det ikke foreligger innsigelser, eller det er tatt hensyn til innsigelsene. Vedtak om godkjenning skal treffes senest en måned etter at et fullstendig plandokument er mottatt, om ikke særlige forhold foreligger. I så fall skal den planansvarlige underrettes skriftlig innen utløpet av fristen med opplysning om når vedtak vil være truffet. Godkjent plan sendes departementet til orientering.
+Foreligger det innsigelser som det ikke er tatt hensyn til i planen, kan Sysselmesteren megle i saken. Dersom megling ikke fører til en løsning, sendes saken til departementet. Departementet kan gjøre de endringer i planen som finnes påkrevd.
+Vedtak etter denne paragraf skal begrunnes etter forvaltningsloven §§ 24-25. Det kan påklages etter reglene i forvaltningsloven kapittel VI. Dersom departementet treffer vedtak i medhold av tredje ledd kan vedtaket likevel ikke påklages.
+Den planansvarlige skal sørge for å kunngjøre godkjent plan på hensiktsmessig måte i lokalsamfunnet.
