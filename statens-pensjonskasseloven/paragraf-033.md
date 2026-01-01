@@ -1,0 +1,6 @@
+# § 33.
+Full årlig enke- eller enkemannspensjon skal utgjøre 9 prosent av det pensjonsgrunnlaget som det avdøde medlemmet hadde (nettopensjon), se likevel overgangsregler i § 34.
+Er den avdødes tjenestetid 30 år eller mer, ytes det full enke- eller enkemannspensjon. Dersom den avdødes tjenestetid er mindre enn 30 år, ytes det redusert enke- eller enkemannspensjon. Pensjonen skal da utgjøre så mange trettideler av full pensjon som den avdøde har tjenesteår. For beregning av oppsatt enke- eller enkemannspensjon gjelder § 23 annet ledd tilsvarende.
+Dersom den avdøde mottok avtalefestet pensjon, alderspensjon eller en tidligere oppsatt alders- eller uførepensjon, legges den faktiske tjenestetiden den avdøde hadde til grunn ved beregning av pensjonen. Det samme gjelder dersom den avdøde hadde rett til en oppsatt pensjon. Ellers skal den tjenestetiden den avdøde ville ha fått ved å fortsette i stillingen fram til aldersgrensen legges til grunn, men ikke utover 67 år.
+Finner Pensjonskassen det godtgjort at medlemmets død skyldes skade eller sykdom som er en umiddelbar følge av usedvanlig påkjenning eller ulykkestilfelle i tjenesten, skal det ytes full enke- eller enkemannspensjon uten hensyn til tjenestetiden.
+Departementet gir forskrift om fastsetting av enke- eller enkemannspensjon etter bestemmelsen her.

@@ -1,0 +1,4 @@
+# § 26 i. Tillegg for opptjening før 2011
+Medlem født i årene 1963-1967, og som har opptjening før 2011 som gir rett til oppsatt alderspensjon etter § 26 h, gis et tillegg til alderspensjonen. Fullt tillegg utgjør 1,5 prosent av pensjonsgrunnlaget for den oppsatte alderspensjonen. Tillegget beregnes forholdsmessig dersom tjenestetiden før 2011 er kortere enn 30 år. 1963-kullet får 100 prosent av tillegget, 1964-kullet får 80 prosent, 1965-kullet får 60 prosent, 1966-kullet får 40 prosent og 1967-kullet får 20 prosent av tillegget.
+Tillegget kommer til utbetaling ved uttak av oppsatt alderspensjon etter § 26 h. Tillegget kan ikke graderes eller stanses. Ved uttak multipliseres tillegget med delingstallet ved 67 år og divideres med delingstallet på uttakstidspunktet.
+Tillegget kan kombineres med arbeidsinntekt uten at tillegget blir avkortet.

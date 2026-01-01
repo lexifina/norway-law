@@ -1,0 +1,4 @@
+# § 26 f. Betinget tjenestepensjon – uttak
+Betinget tjenestepensjon gis tidligst fra og med måneden etter den måneden melding om uttak blir gitt, likevel tidligst fra og med måneden etter fylte 62 år. Dersom det innvilges betinget tjenestepensjon etter at et medlem har fylt 70 år, skal årlig pensjon beregnes som om uttaket skjedde ved 70 år. Det er et vilkår for utbetaling av betinget tjenestepensjon at offentlig avtalefestet pensjon er avslått. Betinget tjenestepensjon kan ikke utbetales samtidig med tidligpensjon etter kapittel 5 b, tilsvarende tidligpensjon fra en annen offentlig tjenestepensjonsordning eller avtalefestet pensjon som det gis statstilskott til etter AFP-tilskottsloven.
+Betingetbeholdningen gjøres om til årlig pensjon ved å dividere med delingstallet på uttakstidspunktet for pensjonen.
+Betinget tjenestepensjon kan ikke tas ut gradert eller stanses. Pensjonen kan kombineres med arbeidsinntekt uten at pensjonen blir avkortet.
