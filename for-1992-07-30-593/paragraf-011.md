@@ -1,0 +1,5 @@
+# § 11. Innføring i dokumentjournalen
+Dokumentene registreres i journalen fortløpende etter den dato og det klokkeslett de blir mottatt til registrering. Dokumenter som er mottatt hos registerfører i samme postforsendelse skal anses mottatt samtidig. Dokumenter innkommet med morgenposten skal anses innkommet klokken 10.00. Dokumentjournalnummer, dato og klokkeslett påføres dokumentet.
+Dokumentene registreres med løpende nummer for kalenderåret. Det nyttes bare ett nummer i dokumentjournalen selv om dokumentet gjelder flere skip.
+Utdraget av dokumentet i journalen skal være kort, men det må tydelig angi hvilket dokument innføringen gjelder, dets datering og klokkeslett og de viktigste rettsstiftelser det inneholder, eventuelt med stikkord. Det må nøyaktig angis hva det stiftes rett i og hva som er betalt i gebyr.
+For dokument som er mottatt til registrering, kan rekvirenten forlange at det gis kvittering, med opplysning om dato og klokkeslett for registreringen. Registerføreren kan forlange at rekvirenten leverer inn en ferdig utfylt kvittering for underskrift.

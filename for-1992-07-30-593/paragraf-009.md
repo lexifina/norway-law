@@ -1,0 +1,3 @@
+# § 9. Melding om innføring i skipsbyggingsregisteret
+Begjæring om innføring i skipsbyggingsregisteret skal skrives på blankett eller sendes elektronisk i den form og med den fremgangsmåte som er fastsatt av Sjøfartsdirektoratet. Sjøfartsdirektoratet fastsetter hva som er en betryggende metode for å autentisere innsenderen av et elektronisk dokument og sikre meldingens integritet. Sjøfartsdirektoratet kan fastsette standardvilkår for tilgang til systemer for innsending av dokumenter, samt stille krav til elektroniske sertifikater.
+Innføring i skipsbyggingsregisteret kan skje også om bestilleren er utenlandsk, idet det ikke gjelder noen nasjonalitetskrav som for ferdige skip.

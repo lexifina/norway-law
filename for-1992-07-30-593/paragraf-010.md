@@ -1,0 +1,3 @@
+# § 10. Overføring fra skipsbyggingsregisteret til skipsregisteret
+Når et skip meldes til innføring i skipsregisteret, skal det opplyses om skipet er innført i skipsbyggingsregisteret, jfr. reglene i § 7.
+Registerføreren skal avslutte registreringen i skipsbyggingsregisteret og overføre de anmerkede rettsstiftelser til skipsregisteret. I skipsregisteret anmerkes hvilken dato og klokkeslett innføring i dokumentjournalen fant sted og som prioriteten regnes fra. For så vidt gjelder rettsstiftelser som består i overdragelse av eiendomsrett, medtas dog bare den siste. Heftelser som er slettet overføres ikke. Skipsbyggingsregisteret og skipsregisteret forsynes med krysshenvisninger.
