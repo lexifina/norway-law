@@ -1,0 +1,2 @@
+# § 8. Kost på besøksreise for skattepliktig som har fri kost på arbeidsstedet
+Godtgjørelse inntil kr 115 hver vei til dekning av merkostnader til kost når besøksreisen mellom sted for arbeidsopphold og hjem ikke medfører overnatting, men varer i 6 timer eller mer, anses ikke å gi trekk- eller skattepliktig overskudd. Overstiger godtgjørelsen satsen, vil merutbetalingen utgjøre trekk- og skattepliktig overskudd med mindre full kostnadsdokumentasjon fremlegges.
