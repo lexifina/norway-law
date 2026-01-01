@@ -1,0 +1,3 @@
+# § 21. Tilsyn
+Nasjonalarkivet fører tilsyn med at organa rettar seg etter føresegnene i §§ 5 til 15 og forskrifter gitt med heimel i desse føresegnene. Når tilsynet krev det, har Nasjonalarkivet rett til innsyn i dokumentasjon uavhengig av teieplikt.
+Nasjonalarkivet fører tilsyn med at fylkeskommunane og kommunane rettar seg etter føresegnene i kommuneloven § 25-1. Tilsynet med fylkeskommunar og kommunar skal førast i samsvar med kommuneloven kapittel 30. Nasjonalarkivet fører også tilsyn med bevaringsinstitusjonar som løyser oppgåver i samband med langtidsbevaring på vegner av fylkeskommunar eller kommunar.
