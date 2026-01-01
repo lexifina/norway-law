@@ -1,0 +1,2 @@
+# § 36. Innpass av emne
+En student kan få innpasset et emne som er bestått ved høgskolen eller en annen institusjon. Det er kun emner som skal inngå som en del av en utdanningsplan/grad som kan innpasses. Søknad skal leveres til høgskolen og blir vurdert av emneansvarlig eller programleder. Frist for å søke innpass av emner er 15. september. Med søknaden skal det vedlegges kopi av vitnemål eller karakterutskrift og program-/emneplan eller tilsvarende inkludert pensumliste for den eksamen/prøve studenten søker innpass på grunnlag av.

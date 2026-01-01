@@ -1,0 +1,2 @@
+# § 30. Eksamens- og vurderingsformer
+Aktuelle eksamens- og vurderingsformer kan være skriftlig eksamen under tilsyn, muntlig eksamen, skriftlig hjemmeeksamen, praktisk-metodisk eksamen, ferdighetsprøver, laboratorieøvelser, prosjektarbeid, praksis, mastergradsoppgave, avhandling, prøveforelesning eller framføringer eller en kombinasjon av disse eksamensformene. Eksamen kan være individuell eller gruppebasert.

@@ -1,0 +1,3 @@
+# § 40. Klage over formelle feil ved eksamen
+1) En student som har vært oppe til eksamen kan klage over formelle feil innen tre uker etter at han eller hun er eller burde være kjent med det forhold som begrunner klagen. Er krav om begrunnelse for eller klage over karakterfastsettingen framsatt, løper klagefristen etter denne paragraf fra studenten har fått begrunnelsen eller endelig avgjørelse av klagen foreligger. Klagen avgjøres av styrets klagenemnd.
+2) Hvis styrets klagenemnd finner at det er begått feil som kan ha hatt betydning for én eller flere studenters prestasjoner eller bedømmelsen av disse, kan feilen rettes opp ved ny sensurering, eventuelt at det blir arrangert ny eksamen.

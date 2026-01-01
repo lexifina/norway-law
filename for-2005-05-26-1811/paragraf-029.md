@@ -1,0 +1,2 @@
+# § 29. Trekk fra eksamen
+Studenter som ønsker å trekke seg fra en eksamen de er meldt opp til må gjøre dette senest en måned før første vurderingsordning starter. Det teller som et eksamensforsøk dersom studenten trekker seg når det er mindre enn en måned til eksamen starter. Trekkfristen gjelder også for hjemmeeksamen, slik at studenten må trekke seg senest en måned før oppgaven blir gjort kjent.

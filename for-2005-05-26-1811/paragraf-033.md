@@ -1,0 +1,7 @@
+# § 33. Antall forsøk til eksamen
+1) Bacheloroppgaver i 3. studieår i bachelorprogrammene som er vurdert, kan omarbeides og leveres inn til ny vurdering én gang.
+2) En masteroppgave som har fått et ikke-bestått eksamensresultat, kan bare én gang leveres på nytt som et nytt eksamensforsøk. En masteroppgave som har fått et bestått eksamensresultat, kan ikke leveres på nytt i bearbeidet form. Det er ikke anledning til å skrive ny masteroppgave innenfor det samme tema og med samme datagrunnlag.
+3) For andre eksamener enn de som er nevnt i nr. 1 og 2 har en student anledning til å fremstille seg til eksamen i samme emne maksimalt tre ganger. I særlige tilfeller kan studieutvalget gi dispensasjon fra tregangersregelen. Dersom en student unnlater å møte til eksamen uten gyldig grunn, regnes det som om studenten har gått opp til eksamen én gang. Studenter som har gyldig grunn for fravær under eksamen, har ikke brukt et eksamensforsøk.
+4) Ved endring av karakteruttrykk ved gjentak av eksamen gjelder følgende:
+1) For studenter som gjentar en eksamen som er bestått med bokstavkarakter gjelder følgende: Ved ikke bestått eksamen vil tidligere bokstavkarakter bli stående som tellende karakter. Ved bestått eksamen vil «Bestått» bli tellende karakter.
+2) For studenter som får «Bestått» som tellende karakter i et emne og senere gjentar eksamen med gradert karakter, gjelder følgende: Ved ikke bestått på ny eksamen blir «Bestått» tellende, ved bestått karakter på ny eksamen blir bokstavkarakteren tellende.

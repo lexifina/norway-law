@@ -1,0 +1,2 @@
+# § 12. Reservering av studieplass
+Søkere som er tatt opp som student ved Norges idrettshøgskole kan få reservert studieplassen i inntil to år grunnet innkalling til førstegangstjeneste, og i ett år grunnet graviditet, eller sykdom som er til hinder for gjennomføring av ordinær undervisning eller annen vektig grunn. Den som får innvilget søknad om utsatt studiestart, får reservert studieplassen til neste gang studieprogrammet har ordinær studiestart.

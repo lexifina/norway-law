@@ -1,0 +1,3 @@
+# § 35. Eksamen etter tidligere ordninger
+1) For eksamen under masternivå gjelder det pensum og den eksamensform som er fastsatt for denne eksamen. Unntatt fra dette er utsatt eksamen, hvor det er samme pensum og eksamensform som ved den foregående ordinære eksamen. Dersom en eksamen/et emne opphører, kan studenten gå opp etter det pensum og den eksamensordning som gjaldt ved ordinær eksamen i inntil et år.
+2) For eksamen på masternivå kan en student gå opp til eksamen i gammelt pensum og eksamensform i ett år etter at nytt pensum eller ny ordning ble innført. Dersom en eksamen/emne opphører kan studenten gå opp etter det pensum og den eksamensordning som gjaldt ved ordinær eksamen i inntil to år.
