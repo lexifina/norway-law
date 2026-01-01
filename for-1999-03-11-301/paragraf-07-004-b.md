@@ -1,0 +1,11 @@
+# § 7-4b. Avtale om gjennomfakturering
+Nettselskap som tilbyr gjennomfakturering til forbrukere skal inngå en avtale om gjennomfakturering med kraftleverandør. Nettselskapet skal tilby samme avtale til alle kraftleverandører. Nettselskap skal gi kraftleverandør fullmakt til å opptre som nettselskapets representant for mottak av betaling av nettleie.
+En avtale om gjennomfakturering skal regulere følgende forhold:
+a) Nettselskap kan kreve sikkerhetsstillelse av kraftleverandør. I avtalen skal da følgende klausul benyttes: Kraftleverandør skal stille med en bankgaranti som sikkerhetsstillelse. Nettselskapet skal stille krav om et garantibeløp opp mot en øvre grense på 100 % av en landsgjennomsnittlig, månedlig nettleie for hvert av sine målepunkt tilknyttet forbrukere som har inngått avtale om leveranse av kraft med kraftleverandøren. Antall forbrukere som har inngått avtale om leveranse av kraft med kraftleverandøren skal oppdateres minst hvert kvartal. Den landsgjennomsnittlige, månedlige nettleien vil fastsettes årlig av Reguleringsmyndigheten for energi.
+b) Informasjonsutveksling ved gjennomfakturering skal skje ved bruk av de formater og protokoller, og innenfor de tidsrammer som er fastsatt av Systemstøtten for Ediel.
+c) Kraftleverandøren skal betale nettleien innen forfall til nettselskap. Nettselskapets forfallsdato skal settes til minst 20 kalenderdager etter fakturautstedelse.
+d) Forbrukerens betaling til kraftleverandør skal ha befriende virkning overfor nettselskap.
+e) Kraftleverandør skal betale nettleie på vegne av forbrukere, uavhengig av om det foregår en innbetaling fra forbruker til kraftleverandør.
+f) Utbetalinger tilknyttet avregning og fakturering av nettleie fra nettselskap til forbrukere skal sendes via kraftleverandør. Kraftleverandør skal utbetale tilgodebeløpet til forbrukeren senest ved sin førstkommende fakturautstedelse.
+g) Nettselskap kan si opp avtale om gjennomfakturering dersom kraftleverandøren innen 9 dager etter utstedt purring fra nettselskapet ikke har betalt utestående krav.
+h) Dersom kraftleverandør eller nettselskap ikke overholder gjeldende regelverk for felles fakturering, har partene adgang til å si opp avtalen om gjennomfakturering. Manglende overholdelse av gjeldende regelverk for felles fakturering skal anses som vesentlig mislighold av avtalen.

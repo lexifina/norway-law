@@ -1,0 +1,2 @@
+# § 2-1a. Prising av leveringspliktig kraftleveranse
+I de tilfeller der kraftleveranse til sluttbrukere skjer i henhold til nettselskapets leveringsplikt, jf. energiloven § 3-3, skal prisen de første seks ukene settes lik Nord Pool sin publiserte timespris per budområde oppgitt i NOK jf. § 7-6, pluss 5 øre per kWh i påslag eksklusive avgifter. Etter de første seks ukene skal prisen settes lik Nord Pool sin publiserte timespris per budområde oppgitt i NOK jf. § 7-6, pluss 8 øre per kWh i påslag eksklusive avgifter

@@ -1,0 +1,4 @@
+# § 7-4a. Gjennomfakturering for forbrukere
+Nettselskap som tilbyr felles fakturering for forbrukere, skal tilby gjennomfakturering til alle kraftleverandører som ønsker det. Nettselskap kan ved tilbud av gjennomfakturering for forbrukere ikke kreve gjennomfakturering av øvrige kunder.
+Kraftleverandører som ønsker gjennomfakturering etter første ledd, må gjennomfakturere for alle forbrukere tilknyttet nettselskapet som kraftleverandøren har inngått kraftleveringsavtale med i henhold til § 2-3. Kraftleveringsavtalen skal i tillegg inneholde informasjon om at gjennomfakturering skal benyttes som faktureringsmetode.
+Kraftleverandøren skal varsle eksisterende kunder om endring i kraftleveringsavtalen. Endring i kraftleveringsavtalen kan tidligst tre i kraft én måned etter at varsel er sendt forbruker.

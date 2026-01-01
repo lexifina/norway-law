@@ -1,0 +1,2 @@
+# § 6-8. Tilgjengeliggjøring av avregningsdata
+Avregningsansvarlig skal tilgjengeliggjøre avregningsdata, inkludert informasjon om det totale forbruket og produksjonen i nettavregningsområdet for foregående døgn for nettselskapet, og andelene for den enkelte balanseansvarlige og kraftleverandør. Informasjonen skal gjøres tilgjengelig i Elhub innen kl. 09.00 første kalenderdag etter hvert driftsdøgn.

@@ -1,0 +1,2 @@
+# § 3-11. Beregning av forventet uttak per målepunkt
+Avregningsansvarlig skal beregne forventet årlig uttak for hvert enkelt avregnet målepunkt. Ved opprettelse av nye målepunkt skal nettselskapet sende et estimert forventet årlig uttak på målepunktet til Elhub. Ved vesentlige endringer i målt årlig uttak på et målepunkt skal Elhub beregne et nytt forventet årlig uttak og sende dette til nettselskap og kraftleverandør.
