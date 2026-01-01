@@ -1,0 +1,3 @@
+# § 5-18. Deltakelse i felleskontrollert virksomhet
+(1) Dersom to eller flere deltakere ved avtale i fellesskap kontrollerer en virksomhet (felleskontrollert virksomhet), skal deltakelse i virksomheten regnskapsføres etter generelle vurderingsregler, bruttometoden eller egenkapitalmetoden i selskapsregnskapet. Deltakelse i felleskontrollert virksomhet skal regnskapsføres etter bruttometoden eller egenkapitalmetoden i konsernregnskapet. Midlertidig deltakelse i felleskontrollert virksomhet kan likevel ikke regnskapsføres etter egenkapitalmetoden eller bruttometoden.
+(2) Regnskapsføring etter bruttometoden innebærer at deltakeren regnskapsfører sin andel av inntekter, kostnader, eiendeler og gjeld.

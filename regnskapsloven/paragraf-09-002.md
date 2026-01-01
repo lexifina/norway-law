@@ -1,0 +1,4 @@
+# § 9-2. Resultat- og balanseoppstilling til bruk for offentlig kontroll og statistikk
+(1) Regnskapspliktig som i henhold til § 3-9 tredje eller fjerde ledd utarbeider selskapsregnskap i samsvar med internasjonale regnskapsstandarder fastsatt i medhold av § 3-9 annet ledd, skal utarbeide en egen resultatoppstilling og balanseoppstilling utenfor årsregnskapet i samsvar med kapittel 6 og i tilfelle spesifikasjon av driftskostnadene i samsvar med § 7-8 b.
+(2) Kravet etter første ledd gjelder ikke dersom den regnskapspliktige i selskapsregnskapet har stilt opp resultatregnskapet og balansen i samsvar med bestemmelsene i kapittel 6 og i tilfelle i samsvar med § 7-8 b.
+(3) Bestemmelsene i § 8-2 første ledd, § 8-3 og § 8-4 gjelder tilsvarende for resultat- og balanseoppstilling som skal utarbeides etter denne paragraf. Regnskapsregisteret kan ikke gjøre innholdet kjent for andre enn kontrollmyndigheter og myndigheter som utarbeider offisiell statistikk.

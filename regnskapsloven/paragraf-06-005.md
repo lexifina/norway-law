@@ -1,0 +1,2 @@
+# § 6-5. Konsernregnskapets oppstillingsplan
+Dersom aksjer eller andeler i et datterselskap eies av andre enn de konsoliderte selskapene, skal deres andel av egenkapitalen og årets resultat oppføres som minoritetsinteresser. Minoritetsinteresser oppføres under egenkapital i balansen og som fradrag i årsresultatet i resultatregnskapet. I resultatregnskapet vises årsresultat før og etter minoritetsinteresser. For øvrig gjelder §§ 6-1 og 6-2 så langt de passer.

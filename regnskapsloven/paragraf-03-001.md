@@ -1,0 +1,4 @@
+# § 3-1. Plikt til å utarbeide årsregnskap
+(1) Regnskapspliktige skal for hvert regnskapsår utarbeide årsregnskap i samsvar med bestemmelsene i denne loven. Små foretak kan ved utarbeidelse av årsregnskap følge de unntaksbestemmelser som fremgår av loven.
+(2) Årsregnskapet og årsberetningen skal fastsettes senest seks måneder etter regnskapsårets slutt.
+(3) For konsernregnskap eller selskapsregnskap utarbeidet i samsvar med § 3-9, gjelder ikke bestemmelsene i denne lov § 1-4, § 1-9, § 3-2 første og tredje ledd samt annet ledd annet og tredje punktum, § 3-2a, § 3-4 første og annet ledd, § 3-6, § 3-8, kapittel 4, kapittel 5, kapittel 6, §§ 7-1 til 7-14, § 7-15 fjerde og femte ledd, § 7-16, § 7-17, §§ 7-19 til 7-25, § 7-28, § 7-29, § 7-30b, § 7-33, § 7-34, § 7-35, § 7-36 fjerde til niende ledd og §§ 7-37 til 7-41.

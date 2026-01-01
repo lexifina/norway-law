@@ -1,0 +1,2 @@
+# § 5-7. Goodwill
+Goodwill er differansen mellom anskaffelseskost ved kjøp av en virksomhet og virkelig verdi av identifiserbare eiendeler og gjeld i virksomheten. Goodwill skal vurderes etter vurderingsregelen for anleggsmidler i § 5-3. Dersom den økonomiske levetiden for goodwill ikke kan anslås pålitelig, skal goodwill avskrives over maksimalt ti år. Nedskriving av goodwill skal ikke reverseres.
