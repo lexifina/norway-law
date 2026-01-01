@@ -1,0 +1,3 @@
+# § 4-6. Krav til dokumentasjon av opplysninger i søknaden
+(1) Det skal foreligge en oppstilling som underbygger de tallene og beregningene som ligger til grunn for søknaden, med henvisning til relevant regnskapsmateriale. Oppstillingen må vise hvordan omsetning og faste uunngåelige kostnader er periodisert. Som relevant regnskapsmateriale regnes blant annet fakturajournal og kontospesifikasjon med tilhørende salgsdokumentasjon, oversikter over opptjent inntekt som ikke er fakturert, kjøpsdokumentasjon og kontrakter.
+(2) Dokumentasjon som nevnt i første ledd skal oppbevares i fem år etter regnskapsårets slutt, med mindre lengre oppbevaringstid følger av bestemmelser gitt i eller i medhold av bokføringsloven.
