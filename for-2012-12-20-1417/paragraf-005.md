@@ -1,0 +1,3 @@
+# § 5. Plikt til å betale avgift
+Enhver som bruker norskproduserte og importerte landbruksprodukter til ervervsmessig bearbeiding eller framstilling av nærings- og nytelsesmidler og fôrkorn til husdyr, plikter å betale forskningsavgift i henhold til andre ledd. Importør av ferdigvare og halvfabrikata framstilt av slike produkter plikter også å betale forskningsavgift.
+Ved omsetning av avgiftspliktig landbruksprodukt svares avgiften av den som første gang mottar produktene fra produsent. Ved direktesalg fra produsent til forbruker eller detaljist svares avgiften av produsent. Ved import svares avgiften av importør.

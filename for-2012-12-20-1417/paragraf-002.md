@@ -1,0 +1,3 @@
+# § 2. Definisjoner
+Med landbruksprodukt menes i denne forskrift fôrkorn til husdyr og følgende nærings- og nytelsesmidler: enhver råvare, halvfabrikata eller ferdigvare av animalsk eller vegetabilsk opprinnelse, herunder kjøtt, egg, melk, korn, grønnsaker, honning, urter, røtter, poteter, frukt, bær, bønner, frø og nøtter. Fisk og andre akvatiske organismer anses ikke som et landbruksprodukt.
+Med ervervsmessig bearbeiding eller framstilling av nærings- og nytelsesmidler menes i denne forskrift forretningsmessig virksomhet på området fra lagring, klassifisering, sortering, oppdeling, pakking av ubehandlede produkter via framstilling av halvfabrikata til produksjon av konserver og ferdigretter.
