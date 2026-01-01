@@ -1,0 +1,2 @@
+# § 4. Stønad ved mislykket behandling
+Behandler er ansvarlig både for behandlingen og for det tanntekniske arbeidet som det kreves stønad for. Dersom behandlingen mislykkes, og dette kan føres tilbake til behandler, er ikke ny behandling stønadsberettiget. Ved nytt behandlingsbehov som ikke kan føres tilbake til behandler, må ett av vilkårene i § 1 første ledd være oppfylt for at ny behandling skal være stønadsberettiget. Vilkårene må være oppfylt på tidspunktet for utføring av den nye behandlingen.
