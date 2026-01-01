@@ -1,0 +1,2 @@
+# § 2-3. Type dokumentasjon som inngår i melding
+Registerføreren bestemmer hvilken type dokumentasjon som oppfyller dokumentasjonskravene i foretaksregisterloven § 4-4 første ledd bokstav a andre og tredje punktum og bokstav d og g. Dokumentasjonskravene som registerføreren stiller etter første punktum, må ha saklig sammenheng med kontrollen etter foretaksregisterloven § 5-1 første ledd og ikke være uforholdsmessig tyngende for innsenderen.
