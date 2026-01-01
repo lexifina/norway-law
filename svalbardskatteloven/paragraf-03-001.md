@@ -1,0 +1,3 @@
+# § 3-1. Skattlegging ved lønnstrekk
+Skatt av lønn, pensjoner og annen ytelse som nevnt i skatteloven § 12-2 bokstavene a, b, c, j og k, beregnes med en prosentvis fastsatt del av ytelsens bruttoverdi, jf. § 5-2. Skatten beregnes med en lav sats for inntekt opp til 12 ganger folketrygdens grunnbeløp, og med en høyere sats for overskytende inntekt. I det samlede inntektsgrunnlaget etter forrige punktum inngår også inntekt som nevnt i § 3-2 fjerde ledd bokstav b. Det benyttes det grunnbeløp som sist ble fastsatt for inntektsåret.
+Ved utflytting fra Svalbard gjelder skatteloven § 14-3 fjerde ledd bokstav b tilsvarende.
