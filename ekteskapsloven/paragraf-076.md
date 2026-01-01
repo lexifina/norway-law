@@ -1,0 +1,2 @@
+# § 76. Når deling skal skje.
+Når den ene ektefellen er død, deles ektefellenes formue mellom lengstlevende ektefelle og avdødes arvinger etter reglene i dette kapitlet, dersom ikke den lengstlevende nytter retten til å sitte i uskiftet bo, eller noe annet følger av lov, testament, avtale mellom ektefellene eller bestemmelse av en giver eller arvelater. Deling kan kreves av lengstlevende ektefelle og av avdødes arvinger.

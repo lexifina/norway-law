@@ -1,0 +1,3 @@
+# § 30 e. Rettskraft, oppfriskning og gjenåpning
+En rettskraftig dom om spørsmål som nevnt i § 25 a første ledd bokstav b (ekteskapssak), virker for og mot alle og legges til grunn i alle forhold hvor spørsmålet har betydning. Går dommen ut på skilsmisse eller på separasjon, gjelder det samme selv om dommen ikke er rettskraftig, hvis ikke annet er bestemt.
+Er et ekteskap erklært for ikke å bestå, eller er det oppløst, er oppfriskning for oversittelse av ankefristen og gjenåpning utelukket hvis en av ektefellene har inngått nytt ekteskap før avgjørelsen om oppfriskning eller henvisning til hovedforhandling er forkynt for ham eller henne.

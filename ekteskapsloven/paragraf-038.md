@@ -1,0 +1,3 @@
+# § 38. Ektefellers felles ansvar for underhold av familien.
+Ektefellene har sammen ansvaret for de utgiftene og det arbeidet som kreves for det felles hushold og til dekning av andre felles behov, oppfostringen av barna og hver ektefelles særlige behov. Ektefellene bidrar ved tilskudd av penger, ved virksomhet i hjemmet eller på annen måte.
+En ektefelle kan i rimelig utstrekning kreve penger av den andre ektefellen til å dekke utgifter som nevnt i første ledd. En ektefelle som ikke oppfyller plikten til å stille nødvendige midler til rådighet for den andre, kan pålegges å betale bestemte beløp. §§ 81 andre ledd, 83, 84, 85 andre ledd, 92 og 93 gjelder tilsvarende så langt de passer.

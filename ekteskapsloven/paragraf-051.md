@@ -1,0 +1,4 @@
+# § 51. Eldre kreditorers krav mot gavemottaker i visse tilfeller.
+Har en ektefelle gitt den andre en gave, kan den som da hadde fordring på giveren, og som ikke kan få full dekning hos ham eller henne for sin fordring, holde seg til den andre ektefellen for verdien av det som er overført. Dette gjelder likevel ikke hvis det bevises at giveren fortsatt var utvilsomt solvent. Hvis det er ytet vederlag, skal det trekkes fra ved beregningen av verdien av det som er overført.
+Kreditorens krav mot en godtroende gavemottaker er begrenset til den berikelsen som mottakeren har oppnådd ved gaven. Utbytte som gavemottakeren har vunnet i god tro før kravet ble gjort gjeldende ved søksmål, kan ikke kreves tilbakeført.
+Reglene om lempning av ansvaret i lov om fordringshavernes dekningsrett § 5-12 andre ledd gjelder tilsvarende.

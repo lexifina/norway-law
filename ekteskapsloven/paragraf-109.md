@@ -1,0 +1,2 @@
+# § 109. Plikt til å sørge for tinglysing eller registrering
+Retten skal sørge for at overføring av fast eiendom som ledd i booppgjøret tinglyses i grunnboken. Om en ektefelle gis rett til pant i fast eiendom eller realregistrerbart løsøre, skal retten sørge for at pantet tinglyses eller registreres. Gebyr for tinglysing eller annen registrering i et realregister dekkes av ektefellene i fellesskap.

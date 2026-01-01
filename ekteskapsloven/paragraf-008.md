@@ -1,0 +1,7 @@
+# § 8. Kontroll med skifte etter tidligere ekteskap.
+Den som har vært gift eller vært part i et registrert partnerskap tidligere må godtgjøre at boet i det tidligere ekteskapet eller det registrerte partnerskapet er overlatt tingretten til behandling, eller legge fram erklæring fra den tidligere ektefelle eller tidligere partner eller arvingene om at det er innledet privat skifte.
+Dette gjelder ikke dersom det fremlegges erklæring fra den tidligere ektefelle eller partner om at det i ekteskapet eller det registrerte partnerskapet ikke var formue som skulle deles, eller fra avdød ektefelles eller partners arvinger om at de samtykker i at gjenlevende beholder boet uskiftet.
+Er det tidligere ekteskap eller registrerte partnerskap oppløst på annen måte enn ved død, og det er gått mer enn to år siden det ble oppløst, er det tilstrekkelig at den som vil inngå nytt ekteskap opplyser at det er skiftet, eller at det ikke var noe å skifte mellom ektefellene eller partene.
+Erklæring som nevnt i første ledd kan ikke gis av noen som er under 18 år eller fratatt rettslig handleevne, hvis ikke vergen har gitt samtykke til privat skifte etter § 96 første ledd første punktum bokstav c.
+Første, annet og fjerde ledd gjelder tilsvarende for den som har sittet i uskiftet bo etter en tidligere samboer etter arveloven kapittel 6.
+Departementet kan frita for overholdelse av reglene i denne paragraf når særlige grunner taler for det.

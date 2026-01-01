@@ -1,0 +1,3 @@
+# § 18 a. Anerkjennelse av ekteskap inngått etter utenlandsk rett
+Et ekteskap som er inngått etter utenlandsk rett, anerkjennes her i riket dersom ekteskapet er gyldig inngått i vigselslandet. En regulert samlivsform etter utenlandsk rett som i hovedsak har samme rettsvirkninger som ekteskap i inngåelseslandet, anerkjennes som et ekteskap her i landet, når begge parter skriftlig har samtykket til dette. Departementet kan ved forskrift gi nærmere regler om i hvilke tilfeller en regulert samlivsform etter utenlandsk rett vurderes å ha samme rettsvirkninger som ekteskap i inngåelseslandet.
+Et ekteskap anerkjennes likevel ikke dersom dette åpenbart ville virke støtende på norsk rettsorden (ordre public).

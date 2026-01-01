@@ -1,0 +1,3 @@
+# § 88. Betydningen av at en pensjonsberettiget gifter seg på nytt eller dør.
+Inngår den pensjonsberettigede nytt ekteskap mens den tidligere ektefellen er i live, opphører retten til pensjon etter reglene i dette kapitlet. Er nytt ekteskap inngått etter den tidligere ektefellens død, gjelder de reglene som er fastsatt for en gjenlevende ektefelle i vedkommende pensjonsordning.
+Bortfaller retten til pensjon til en fraskilt eller senere ektefelle ved dødsfall eller ekteskap, tilfaller hele pensjonen den andre forutsatt at han eller hun har rett til pensjon etter den avdøde etter § 86 eller § 87. Dersom det nye ekteskapet opphører, og retten til ytelser inntrer på nytt etter reglene i vedkommende pensjonsordning, skal ytelsene igjen deles.

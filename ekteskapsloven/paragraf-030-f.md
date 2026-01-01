@@ -1,0 +1,4 @@
+# § 30 f. Parten dør. Barns og arvingers rett til å tre inn i saken
+Dør en part før dom er avsagt i en sak om hans eller hennes eget ekteskap, heves saken. Gjelder saken oppløsning av ekteskap etter § 24 første ledd eller spørsmålet om et ekteskap består, eller om en separasjon er uten rettsvirkning etter § 20 annet ledd, kan den likevel fortsettes så vel av som mot den avdødes barn eller arvinger hvis avgjørelsen har rettslig betydning.
+Dør parten etter at dom er avsagt, kan under samme betingelse anke og gjenåpning anvendes av eller mot barna eller arvingene hvis dommen går ut på oppløsning av ekteskapet eller på separasjon, eller saken gjelder spørsmålet om ekteskapet består, eller om en separasjon er uten rettsvirkning etter § 20 annet ledd.
+Har flere søksmåls- eller ankeberettigede trådt inn i saken, må de opptre i fellesskap. Har en enkelt trådt inn, kan andre søksmåls- eller ankeberettigede slutte seg til.
