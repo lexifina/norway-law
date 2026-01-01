@@ -1,0 +1,7 @@
+# § 10. Samlet inntektsgradert utgiftstak for praktisk bistand og opplæring
+Når kommunen bestemmer den maksimale egenandelen en person skal betale pr. år for tjenester som nevnt i § 8 skal betalingen beregnes på grunnlag av husstandens samlede skattbare nettoinntekt før særfradrag. Siste tilgjengelige skatteligning pr. 1. januar i det aktuelle året legges til grunn med mindre inntekten er vesentlig endret. Til inntekten legges også hjelpestønad fra folketrygden til hjelp i huset, mens omsorgslønn etter helse- og omsorgstjenesteloven § 3-6 skal trekkes fra inntektsgrunnlaget.
+Dersom husstandens samlede skattbare nettoinntekt før særfradrag er under 2 G, skal den samlede egenandelen for tjenester som nevnt i § 8 ikke overstige et utgiftstak på kroner 245 pr. måned. Til grunn for fastsetting av utgiftstaket legges G pr. 1. januar i det aktuelle året.
+Til husstanden regnes bare ektefeller eller samboere og i tillegg barn under 18 år, dersom hjelpen ytes på grunnlag av barnets omsorgs- eller pleiebehov.
+Hvis et av husstandens medlemmer betaler egenandel for langtidsopphold etter kapittel 1 eller mottar avkortede trygdeytelser på grunn av opphold utenfor hjemmet, regnes vedkommende ikke som medlem av husstanden etter bestemmelsen i andre ledd.
+Kommunen skal minst årlig oppdatere egenandelsvedtaket ut fra nye opplysninger i likning og ny G.
+Departementet gir veiledende retningslinjer for beregningen av egenandel for tjenester som nevnt i § 1.
