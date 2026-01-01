@@ -1,0 +1,4 @@
+# § 5. Plikt til å melde opplysninger om utenlandske indirekte morforetak og utenlandske indirekte datterforetak
+(1) Enhet med utenlandsk morforetak som nevnt i § 4 første ledd første punktum skal, i tillegg til opplysninger som nevnt i § 4, melde opplysninger om alle utenlandske indirekte morforetak i konsernet som enheten er en del av. § 4 første ledd andre punktum og § 4 andre og tredje ledd gjelder tilsvarende.
+(2) Enhet med utenlandsk datterforetak som nevnt i § 4 første ledd første punktum skal, i tillegg til opplysninger som nevnt i § 4, melde opplysninger om alle utenlandske indirekte datterforetak i konsernet som enheten er en del av. § 4 første ledd andre punktum og § 4 andre og tredje ledd gjelder tilsvarende.
+(3) Opplysninger som nevnt i første og andre ledd skal meldes til Enhetsregisteret senest én måned etter at enheten har godkjent sitt årsregnskap. Det samme gjelder dersom det skjer endringer i forhold som er registrert.
