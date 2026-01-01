@@ -1,0 +1,3 @@
+# § 14. Revisjon
+Regnskapet skal være revidert av statsautorisert revisor når tilskuddet er høyere enn 300 000 norske kroner i regnskapsåret.
+Ved forenklet regnskapsrapportering etter § 13 andre ledd tredje punktum skal regnskapsopplysningene for et underledd være kontrollert av statsautorisert revisor når underleddet i løpet av regnskapsåret har fått overført mer enn 300 000 kroner av tros- eller livssynssamfunnets statstilskudd. Departementet kan fastsette hvilke kontrollhandlinger revisor skal utføre. Har underleddets eget regnskap blitt revidert av statsautorisert revisor, kan revisjonsberetningen fremlegges i stedet for at det gjennomføres revisorkontroll i henhold til første punktum.

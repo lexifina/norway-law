@@ -1,0 +1,11 @@
+# § 11. Nekting og avkorting av tilskudd
+Statsforvalteren kan fatte vedtak om å nekte tilskudd dersom tros- eller livssynssamfunnet
+a) begår, oppfordrer til eller støtter krenkelser som nevnt i trossamfunnsloven § 6 første ledd
+b) bruker tilskuddet til annet enn tros- eller livssynsformål
+c) unnlater å rapportere, rapporterer mangelfullt eller uriktig
+d) ikke overholder lovens regler for inn- og utmelding
+e) har oppgitt vesentlig for høyt medlemstall eller har gitt andre uriktige opplysninger som har betydning for tilskuddsvedtaket
+f) i løpet av et kalenderår mottar ett eller flere bidrag som til sammen utgjør 50 000 norske kroner eller mer, fra en stat som ikke respekterer retten til tros- og livssynsfrihet.
+I vurderingen av om forhold nevnt i første ledd bokstav a–f skal lede til at tros- eller livssynssamfunnet nektes tilskudd, skal det særlig legges vekt på tiltak samfunnet har satt i verk for å forhindre slike forhold. Det skal også legges vekt på hvor alvorlig forholdet er og om det fremstår som forsettlig.
+I vurderingen etter første ledd bokstav f av om en stat respekterer retten til tros- og livssynsfrihet, skal det legges vekt på om staten har tiltrådt FNs konvensjon om sivile og politiske rettigheter eller tatt forbehold mot denne konvensjonens artikkel 18 om rett til tros- og livssynsfrihet eller om staten har dødsstraff, fysisk avstraffelse eller fengselsstraff for frafall fra en religion eller for konvertering til en annen religion eller om staten har dødsstraff for blasfemi. Statsforvalteren skal informere Utenriksdepartementet før det konkluderes med at en stat ikke respekterer tros- og livssynsfriheten. Med bidrag fra «stater» menes bidrag fra en annen stats offentlige organer eller fra fysiske eller juridiske personer som er underlagt en annen stats offentlige myndigheters kontroll, inkludert stiftelser og foretak. Med bidrag menes pengestøtte og verdien av varer, tjenester og andre tilsvarende ytelser som er mottatt vederlagsfritt eller til underpris.
+Er det grunnlag for å nekte tilskudd, kan tilskuddet etter en konkret vurdering i stedet avkortes. Har tros- eller livssynssamfunnet systematisk, vedvarende eller forsettlig utført, oppfordret til eller støttet krenkelser nevnt i trossamfunnsloven § 6 første ledd, skal det likevel fullt ut nektes tilskudd.

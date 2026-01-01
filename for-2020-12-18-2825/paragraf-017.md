@@ -1,0 +1,3 @@
+# § 17. Avlevering
+Tros- og livssynssamfunn skal avlevere til Arkivverket arkivmateriale som er skapt før 2005 og som er omfattet av bevaringsplikt etter lov 7. juni 1996 nr. 31 om Den norske kirke § 37, forskrift 19. april 2005 nr. 345 om registrerte og uregistrerte trossamfunn § 11, forskrift 1. desember 1988 nr. 995 om trossamfunn § 12, forskrift 23. desember 1969 nr. 9809 om trossamfunn § 12 og forskrift 25. juni 1953 nr. 2 om innsending av kirkebøker til statsarkivene.
+Tros- og livssynssamfunn skal beskytte arkivmaterialet mot vann, fukt, brann, skadelig varme, skadelig påvirkning fra klima og miljø, skadedyr m.m., skadeverk, innbrudd og uautorisert tilgang.
