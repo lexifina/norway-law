@@ -1,0 +1,5 @@
+# § 8. Plikt for den som yter helsehjelp utenfor den offentlige helse- og omsorgstjenesten til å melde fra og yte tilskudd til Norsk Pasientskadeerstatning
+Den som utenfor den offentlige helse- og omsorgstjenesten yter helsehjelp som nevnt i § 1, skal melde fra og yte tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt utenfor den offentlige helse- og omsorgstjenesten samt bidrag til driften.
+Nærmere bestemmelser om melde- og tilskuddsplikten, om registrering av meldingene og om tilskuddsordningen fastsettes av Kongen i forskrift, herunder kan det fastsettes fritak fra plikten etter første ledd.
+Norsk Pasientskadeerstatning kan fatte vedtak om plikt til å betale tilskudd. Vedtak om tilskuddsplikt er tvangsgrunnlag for utlegg. Kravet inndrives av Innkrevingsmyndigheten.
+Den som unnlater å oppfylle plikten til å melde fra eller plikten til å betale tilskudd til Norsk Pasientskadeerstatning, straffes med bøter eller fengsel inntil 3 måneder. Det samme gjelder den som i meldingen gir feil opplysninger slik at det betales for lavt tilskudd. Medvirkning straffes ikke.

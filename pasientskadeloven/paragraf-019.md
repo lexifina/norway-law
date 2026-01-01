@@ -1,0 +1,2 @@
+# § 19. Lovens virkeområde
+Loven gjelder skade som voldes i riket med Svalbard. Loven gjelder også skade ved helsetjenester som mottas i utlandet i medhold av pasient- og brukerrettighetsloven § 2-4 a annet ledd bokstav a eller etter annet oppdrag fra norske myndigheter, og som det offentlige helt eller delvis bekoster, herunder behandlingsreiser. Kongen kan bestemme at loven ikke skal gjelde når det ytes helsehjelp her i riket med særskilt liten norsk tilknytning.
