@@ -1,0 +1,2 @@
+# § 28. Hinder utenfor 210° hinderfri inn- og utflygingssektor
+En helikopteroperatør kan kun benytte et helikopterdekk hvor det i 150° sektor fra helikopterdekkets ytterkant og ut til en avstand på 0,12 DHikke er hinder høyere enn 25 cm. Fra 0,12 DHog ut til en avstand på 0,33 DHfra helikopterdekkets ytterkant, kan det ikke være hinder som rager over et plan med stigning 1 (høyde) på 2 (avstand) med utgangspunkt i en høyde i innerkant på 0,05 DH.

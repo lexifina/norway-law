@@ -1,0 +1,4 @@
+# § 48. Brannbeskyttelse
+En helikopteroperatør kan kun benytte et helikopterdekk hvor øvrig helikopterdekkbemanning under start og landing, jf. § 10 femte ledd, har umiddelbar tilgang til egnet sett med brannbeskyttelsesdrakt, brannbeskyttende hansker, hjelm med visir og støvler. Utstyret for brannbeskyttelse må oppbevares i egnet skap eller rom i umiddelbar nærhet til helikopterdekket.
+Alt utstyr for brannbeskyttelse må ha nødvendige godkjenninger, holdes i forsvarlig god stand og til enhver tid være klart til bruk. Vedlikehold, periodiske prøver og inspeksjoner må være utført i henhold til produsentens anvisning og i samsvar med etablerte prosedyrer og opplæringsprogram i ledelsessystemet.
+I situasjoner hvor det er grunn til å tro at en faresituasjon kan oppstå under start eller landing, må alle i helikopterdekkbemanningen bære brannbeskyttende utstyr.

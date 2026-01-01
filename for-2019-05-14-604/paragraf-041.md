@@ -1,0 +1,2 @@
+# § 41. Videoovervåkning
+En helikopteroperatør kan kun benytte et helikopterdekk hvor helikopterdekket er videoovervåket. Opptaket må lagres i 7 dager. Hvis det er sannsynlig at opptaket vil bli utlevert til Statens havarikommisjon i forbindelse med undersøkelser av hendelser og ulykker, eller til politiet i forbindelse med etterforskning av straffbare handlinger, må opptakene oppbevares inntil 30 dager.
