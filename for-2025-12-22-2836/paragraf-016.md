@@ -1,0 +1,2 @@
+# § 16. Redskapsbegrensning
+I fisket etter leppefisk kan det fra et merkeregistrert fiskefartøy ikke benyttes mer enn 100 teiner og ruser til sammen på kyststrekningen fra grensen mot Sverige til og med Agder. På kyststrekningen fra og med Rogaland og nordover kan det fra et merkeregistrert fartøy ikke benyttes mer enn 400 teiner og ruser til sammen. Redskapsbegrensningene i denne bestemmelsen gjelder også når samme person eller de samme personene benytter flere fartøy.

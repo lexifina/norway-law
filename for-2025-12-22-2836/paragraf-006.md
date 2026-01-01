@@ -1,0 +1,3 @@
+# § 6. Fritidsfiske
+Personer som skal fiske leppefisk med fartøy som ikke er merkeregistrert må ha særskilt tillatelse fra Fiskeridirektoratet. Søknad sendes på eget skjema som finnes på Fiskeridirektoratets hjemmeside. For at slik tillatelse kan gis, må det foreligge en leveringsavtale med godkjent kjøper og fartøyet må være registrert i Småbåtregisteret hos Redningsselskapet eller i Skipsregistrene. Kopi av leveringsavtalen må sendes til Fiskeridirektoratet før fartøyet starter opp med å fiske etter leppefisk. Det gis ikke tillatelse til fiske med ruser.
+Fisket må skje innenfor de rammer og begrensninger som følger av fiskeriregelverket for øvrig for fiske fra fartøy som ikke er merkeregistrert.
