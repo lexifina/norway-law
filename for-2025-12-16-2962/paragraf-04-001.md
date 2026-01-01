@@ -1,0 +1,6 @@
+# § 4-1. Rangert opptak til masterstudier og videreutdanninger
+Ved rangert opptak rangeres søkere etter konkurransepoeng. Konkurransepoeng beregnes på bakgrunn av karakterer fra bachelorutdanning, tilleggsutdanning og relevant praksis utover minstekravet. Utregning av konkurransepoeng gjøres på følgende måte:
+a) Det regnes ut en vektet gjennomsnittskarakter for bachelorutdanning / tilsvarende utdanning som inngår i opptaksgrunnlaget for det aktuelle masterprogrammet. Omregningsskala:BokstavkarakterTallkarakterPoengA1,0-2,15B2,2-2,54C2,6-2,73D2,8-3,02E3,1-4,01 Emner med vurderingsuttrykket «Bestått» blir ikke inkludert i poengberegningen.
+b) For studier med tilleggspoeng for praksis, gis det 0,5 tilleggspoeng per halvår for relevant praksis etter avsluttet utdanning som utgjør søkerens opptaksgrunnlag, maksimalt 2 poeng. Det gis ikke tilleggspoeng for praksis som inngår i opptakskravet.
+c) For studier med tilleggspoeng for utdanning, gis det 0,5 tilleggspoeng per 30 studiepoeng for høyere utdanning tatt etter opptaksgrunnlaget, maksimalt 2 poeng.
+Søkere som er vurdert som kvalifiserte etter realkompetansevurdering, rangeres skjønnsmessig i forhold til øvrige søkere etter en helhetsvurdering av søkerens samlede kompetanse.
