@@ -1,0 +1,2 @@
+# § 4. Krav til den sakkyndiges kompetanse
+En sakkyndig som oppnevnes etter voldserstatningsloven § 10 andre ledd, skal være godkjent spesialist innenfor fagområdet for erklæringen, ha autorisasjon etter helsepersonelloven § 48, jf. § 48a og § 53, og være eller nylig ha vært i aktiv klinisk virksomhet. En vitenskapelig stilling innenfor fagområdet for erklæringen kan etter en konkret vurdering oppfylle kravet til aktiv klinisk virksomhet.
