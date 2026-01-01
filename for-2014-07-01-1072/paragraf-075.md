@@ -1,0 +1,5 @@
+# § 75. Dispensasjon
+(1) Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.
+(2) Sjøfartsdirektoratet kan unnta et skip i innenriksfart eller et lasteskip med bruttotonnasje under 500 i utenriksfart fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:
+a) det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig
+b) det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.

@@ -1,0 +1,4 @@
+# § 20. Stabilitet for passasjerskip med største lenge under 15 meter
+(1) På ferdig utrustede passasjerskip i innenriksfart med største lengde under 15 meter skal det gjennomføres en praktisk krengeprøve med vekter om bord som tilsvarer det største antallet passasjerer skipet er sertifisert for. Vektene skal plasseres på den minst gunstige måten.
+(2) Passasjerskip etter første ledd som fører last med høyt beliggende tyngdepunkt skal ha lasten eller tilsvarende vekter om bord under den praktiske krengeprøven. Når alle passasjerer plasseres på den ene siden av skipet på den minst gunstige måten, skal krengevinkelen ikke være større enn 10 grader. Krengningen skal ikke føre til en reduksjon i fribordet på mer enn halve fribordet for skip som ikke krenger.
+(3) I stedet for kravene i paragrafens første og andre ledd, kan stabilitetsberegninger utføres etter § 17. Bestemmelsene i § 19 andre, fjerde og femte ledd gjelder tilsvarende.

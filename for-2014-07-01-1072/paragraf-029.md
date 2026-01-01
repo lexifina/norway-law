@@ -1,0 +1,2 @@
+# § 29. Fyllingsgrader som skal legges til grunn for beregningene etter § 27 og § 28
+I beregningene etter § 27 og § 28 skal følgende fyllingsgrader legges til grunn for hvert enkelt rom eller del av rom:RomFyllingsgrad (u)Bestemt for forråd0,60Anvendt til innredning0,95Anvendt til maskineri0,85Tørrtanker o.l.0,95Bestemt for tørrlast0,70Bestemt for væsker0 eller 0,95. Den verdien som medfører de strengeste kravene skal brukes.

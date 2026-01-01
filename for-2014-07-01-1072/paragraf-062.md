@@ -1,0 +1,5 @@
+# § 62. Supplerende nødbelysning for roro-passasjerskip
+(1) Roro-passasjerskip skal i tillegg til nødbelysningen etter § 59 bokstav b, ha elektrisk nødbelysning i alle passasjerrom og -ganger, som fungerer i minst tre timer under alle krengningsforhold når alle andre elektriske kraftkilder har sviktet.
+(2) Kraftkilden til nødbelysningen skal være akkumulatorbatterier plassert inne i belysningsenhetene. Akkumulatorbatteriene skal lades kontinuerlig fra nødtavlen. Enhver svikt i den supplerende nødbelysningen skal registreres øyeblikkelig. Akkumulatorbatteriene skal skiftes ut med mellomrom som er tilpasset batterienes levetid i omgivelsene de brukes i.
+(3) Nødbelysningen etter første ledd kan inngå i belysningsarrangementet som kreves etter den til enhver tid gjeldende forskrift om redningsredskaper.
+(4) Alle ganger, rekreasjonsrom og arbeidsrom som normalt brukes av besetningen skal ha plassert bærende og oppladbare batteridrevne lamper, med mindre det finnes supplerende nødbelysning som fastsatt i første til tredje ledd.

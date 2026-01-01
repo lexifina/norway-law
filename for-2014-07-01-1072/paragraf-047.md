@@ -1,0 +1,5 @@
+# § 47. Nasjonalt fribord for lasteskip i innenriksfart
+(1) Lasteskip med fartsområde liten kystfart eller mindre skal ha nasjonalt fribord. Nasjonalt sommerfribord skal være fribord fastsatt etter reglene i lastelinjekonvensjonen vedlegg I kapittel III redusert med 1/24 av det internasjonale sommerdypgående. Nasjonalt vinterfribord skal være nasjonalt sommerfribord tillagt 1/48 av det internasjonale sommerdypgående. Fratrekk for ferskvann skal maksimalt være 1/48 av det internasjonale sommerdypgående. Reduksjon i fribordet for ferskvann skal maksimalt være 1/48 av det dypgående som tilsvarer fastsatt fribord.
+(2) Størrelsen av fribordet etter første ledd er minimumsfribord, som skal økes i samsvar med største tillatte dypgående.
+(3) Lasteskip i innenriksfart skal ha merker for fribordets størrelse og dekkslinje på skipssidene i henhold til merkeskjema.
+(4) Lasteskip som verken fører last eller har rom eller annen plass for føring av last, unntas kravene etter første ledd i paragrafen her. Et slikt skip skal ha styrke og stabilitet basert på det største dypgående skipet vil få i påtenkt bruk.
