@@ -1,0 +1,4 @@
+# § 7. Bifangst for konvensjonelle kystfartøy
+For fartøy som ikke har adgang til å delta i direkte fiske etter blåkveite, eller som har fisket kvoten tildelt i medhold av § 6, eller når dette fisket ikke er tillatt, er det ved fiske etter andre fiskeslag tillatt å ha inntil 7 % bifangst av blåkveite. For fartøy som lander flere ganger per uke, regnes bifangsten basert på all fangst fisket i tidsrommet fra mandag klokken 00.00 til søndag klokken 24.00. For fartøy som ikke lander flere ganger per uke, regnes bifangsten i vekt i de enkelte fangster og ved landing.
+Fartøy over 28 meter største lengde kan, uavhengig av første ledd, ikke ha mer enn 12,1 tonn blåkveite som bifangst.
+Blåkveite tatt som bifangst i perioder hvor fartøyet ikke kan drive direkte fiske, går til fradrag i det enkelte fartøys maksimalkvote i det direkte fisket.
