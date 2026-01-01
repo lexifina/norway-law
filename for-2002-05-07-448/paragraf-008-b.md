@@ -1,0 +1,4 @@
+# § 8b. Planlegging av effektregulering
+Systemansvarlig kan fastsette tidsoppløsning for endringer i planlagt produksjon og kreve at produksjonsplanen justeres for å redusere strukturelle ubalanser. Systemansvarlig skal betale produsenten for påført ubalanse. Betalingen skal fastsettes med utgangspunkt i aktuelle markedspriser.
+Systemansvarlig kan pålegge konsesjonæren å tilpasse sine produksjonsplaner til begrensninger i overføringsnettet ved planlagte driftsstanser eller driftsforstyrrelser. Systemansvarlig fastsetter hvordan ledig kapasitet skal fordeles mellom flere konsesjonærer.
+Store sluttbrukere og sluttbrukere som deltar i balansemarkeder skal rapportere planlagt effektregulering. Systemansvarlig kan fastsette grenser for planlagt effektregulering over likestrømsforbindelser og hos store sluttbrukere.

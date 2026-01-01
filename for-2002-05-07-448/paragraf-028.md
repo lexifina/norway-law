@@ -1,0 +1,8 @@
+# § 28. Forhold til forvaltningsloven og offentleglova
+Forvaltningsloven og offentleglova gjelder i saker hvor systemansvarlig treffer enkeltvedtak.
+Systemansvarliges vedtak etter denne forskriften kan påklages til Reguleringsmyndigheten for energi. Vedtak i klagesak kan ikke påklages.
+Avgjørelser fattet i medhold av § 5, § 7 annet ledd, § 8, § 8a, § 8b, § 9 første ledd første punktum, § 11, § 12 annet til femte ledd, § 13 annet og tredje ledd, § 15, § 16, § 17 tredje og fjerde ledd og § 21 femte ledd er systemkritiske vedtak dersom det er mindre enn tre måneder fra tidspunktet saksbehandlingen tidligst kan påbegynnes til vedtaket må iverksettes.
+Systemkritiske vedtak skal av systemansvarlig betegnes som systemkritiske vedtak overfor de berørte parter. Dersom systemkritiske vedtak hvor systemansvarlig pålegger andre konsesjonærer en aktiv handling, fattes muntlig, og hvor konsesjonær ikke etterlever det systemkritiske vedtaket, skal systemansvarlig så snart som mulig oversende konsesjonær skriftlig bekreftelse på tidspunktet for når det er truffet et systemkritisk vedtak samt innholdet i vedtaket.
+Systemkritiske vedtak er unntatt forvaltningsloven kapittel IV–VI og VIII.
+Systemansvarlig skal etablere et system for arkivering og loggføring av systemkritiske vedtak. Systemet skal vise antall vedtak per bestemmelse i denne forskriften.
+Systemansvarlig skal gjennomføre taleregistrering av alle telefonsamtaler mellom systemansvarlig og andre konsesjonærer når det fattes systemkritiske vedtak. Systemansvarlig skal lagre taleregistreringen i 6 måneder. Reguleringsmyndigheten for energi skal på forespørsel ha tilgang til registreringene.

@@ -1,0 +1,3 @@
+# § 16. Koblingsbilde
+Systemansvarlig kan vedta de til enhver tid driftsbetingede bryterstillinger i regional- og transmisjonsnettet (koblingsbilde). Som grunnlag for slike vedtak skal systemansvarlig så langt det er hensiktsmessig benytte forhåndsdefinerte koblingsbilder.
+Konsesjonær skal melde planlagte koblinger som kan påvirke driften av regional- og transmisjonsnettet til systemansvarlig når andre konsesjonærer blir berørt av koblingen. Systemansvarlig skal vedta om kobling kan foretas. Konsesjonær kan ikke effektuere slike koblinger uten etter vedtak av systemansvarlig. Ved endring av koblingsbilde etter vedtak av systemansvarlig, skal systemansvarlig informere konsesjonærer som berøres av endringen.
