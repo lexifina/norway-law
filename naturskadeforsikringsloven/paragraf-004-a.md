@@ -1,0 +1,3 @@
+# § 4 a
+En forsikringstaker som inngår avtale om brannskadeforsikring med et forsikringsselskap som ikke er medlem av Naturskadepoolen, skal betale en avgift til poolen. Avgiften fastsettes på grunnlag av den forsikringssummen som brannskadeforsikringen dekker. Kongen kan gi nærmere regler om avgiften.
+Den som inngår avtale om brannskadeforsikring med et selskap som nevnt i første ledd, plikter å gi melding om dette til Naturskadepoolen etter bestemmelser fastsatt av Kongen. Naturskadepoolen kan også selv kreve å få slike opplysninger. Den som forsettlig eller uaktsomt overtrer denne bestemmelsen eller bestemmelser gitt i medhold av loven, straffes med bøter.
