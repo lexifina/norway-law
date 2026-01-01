@@ -1,0 +1,2 @@
+# § 3-3. Øvre grenser for tilskudd
+Beregnet tilskuddsbeløp opp til 30 millioner kroner per kalendermåned utbetales i sin helhet. For beregnet tilskuddsbeløp som overstiger 30 millioner kroner, vil beløpet over 30 millioner kroner avkortes med en faktor på 0,5. Maksimalt tilskudd per kalendermåned til et foretak er 80 millioner kroner i månedene mars, april og mai. I juni og juli er maksimalt tilskudd per kalendermåned 70 millioner kroner. I august er maksimalt tilskudd 50 millioner kroner.

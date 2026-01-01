@@ -1,0 +1,2 @@
+# § 2-4. Lovlig virksomhet
+Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asbestfjerning skal være godkjent og registrert hos Arbeidstilsynet. Kjøretøyverksteder skal være oppført i Statens vegvesens register. Elektrikervirksomheter skal være registrert i Elvirksomhetsregisteret. Foretak skal ellers ha de tillatelser, godkjenninger eller bevillinger som kreves for driften.

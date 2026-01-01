@@ -1,0 +1,4 @@
+# § 1-1. Registrering
+(1) Foretak med registreringsplikt etter foretaksregisterloven § 2-1 må være registrert i Foretaksregisteret, og melding om registrering i henhold til foretaksregisterloven kapittel IV må ha vært mottatt av Foretaksregisteret senest 1. mars 2020.
+(2) Registreringsmelding for enkeltpersonforetak som ikke er registreringspliktige i Foretaksregisteret, må senest 1. mars ha vært mottatt av Enhetsregisteret i henhold til enhetsregisterloven kapittel 4.
+(3) For foretak som er stiftet i forbindelse med omdanning etter skatteloven § 11-20 gjelder kravet i første og annet ledd det opprinnelige foretaket. Det nystiftede foretaket må i tillegg oppfylle vilkårene om registrering i forskrift 7. april 2020 nr. 764 om utsettelse av skatteinnbetalinger mv. for å avhjelpe konsekvensene av Covid-19-utbruddet § 5.

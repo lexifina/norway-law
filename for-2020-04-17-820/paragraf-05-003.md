@@ -1,0 +1,4 @@
+# § 5-3. Forfall for krav om tilbakebetaling og administrativ sanksjon
+(1) Krav om tilbakebetaling etter § 5-2 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.
+(2) Før utbetaling av tilskudd skjer etter § 5-1 første ledd, kan krav på tilbakebetaling likevel motregnes i utbetalingsbeløpet selv om tilbakebetalingskravet ikke er forfalt etter første ledd.
+(3) Administrative sanksjoner ilagt etter lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort inntektsfall § 12 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er ute, eller ved klage, tre uker etter at klagen er avgjort. Dersom det innvilges utsatt iverksetting av krav etter skatteforvaltningsloven § 14-10 annet ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen, eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.
