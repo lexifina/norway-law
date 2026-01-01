@@ -1,0 +1,3 @@
+# § 6-2. Begrensninger i gyldighetstiden for pass og nasjonalt ID-kort med reiserett
+Pass eller nasjonalt ID-kort med reiserett utstedt til mindreårige med bare den ene forelderens samtykke, jf. passloven § 4 første ledd tredje punktum og ID-kortloven § 4 første ledd annet punktum, skal bare gis gyldighet for den tid som er nødvendig for å gjennomføre reisen.
+Pass og nasjonalt ID-kort med reiserett til person som kan miste sitt norske statsborgerskap etter statsborgerloven § 24 første ledd (tap ved fravær fra riket) skal bare gis gyldighet frem til det tidspunktet søkeren kan miste sitt statsborgerskap.

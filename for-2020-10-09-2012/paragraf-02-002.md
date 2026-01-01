@@ -1,0 +1,3 @@
+# § 2-2. Godtgjøring av identitet
+Søkeren skal godtgjøre sin folkeregistrerte identitet ved å gi opplysninger, herunder navn, statsborgerskap, fødselsdato, fødselsnummer, fødested og familieforhold, og ved å fremlegge nødvendige underlagsdokumenter. Identiteten er godtgjort når det ikke er tvil om at dokumenter og andre opplysninger bekrefter søkerens identitet.
+Søkerens siste pass eller nasjonale ID-kort skal benyttes til identifisering, med mindre søkeren ikke tidligere har hatt pass eller nasjonalt ID-kort, disse er meldt tapt eller ikke er egnet til å identifisere søkeren. I tillegg kan det kreves fremlagt annen dokumentasjon som kan bidra til å bekrefte søkerens identitet.

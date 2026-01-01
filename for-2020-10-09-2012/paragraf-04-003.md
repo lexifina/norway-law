@@ -1,0 +1,3 @@
+# § 4-3. Vedtakets varighet
+Vedtak om nektelse eller tilbakekall av pass eller nasjonalt ID-kort med reiserett skal ikke ha lenger varighet enn nødvendig basert på vedtakets begrunnelse og formål. Vedtaket skal angi når en ny søknad kan forventes innvilget eller hvilke forutsetninger som må være til stede for at søknad kan innvilges.
+Vedtak om nektelse eller tilbakekall av pass etter passloven § 5 tredje ledd bokstav f eller g, jf. § 7 og vedtak om nektelse eller tilbakekall av nasjonalt ID-kort med reiserett etter ID-kortloven § 5 tredje ledd bokstav d eller e, jf. § 8 kan ikke ha lenger varighet enn ett år. Vedtaket kan innen utløpet av ettårsperioden forlenges med inntil ett år av gangen hvis vilkårene fremdeles er oppfylt.
