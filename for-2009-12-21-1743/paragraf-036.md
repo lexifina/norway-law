@@ -1,0 +1,2 @@
+# § 36. Ikrafttredelse
+Denne forskrift trer i kraft straks. Samtidig oppheves forskrift 16. februar 2005 nr. 151 om rapportering av fangst for norske fartøy og forskrift 7. april 1999 nr. 387 om satellittbasert overvåkning av fiske- og fangstfartøys aktivitet. Rapporteringsplikt for fartøy over 21 meter i henhold til forskrift 16. februar 2005 nr. 151 om rapportering av fangst for norske fartøy gjelder likevel fram til 1. juli 2010, jf. § 10 første ledd bokstav a.
