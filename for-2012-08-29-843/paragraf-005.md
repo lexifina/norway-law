@@ -1,0 +1,4 @@
+# § 5. Valg av fastlege for barn
+Den eller de som har foreldreansvaret velger fastlege for barn under 16 år. Dersom fastlege ikke velges, plasseres barnet på samme liste som den eller de som har foreldreansvaret. Der foreldrene har felles foreldreansvar og samme adresse, plasseres barnet på samme liste som mor. Der foreldrene har felles foreldreansvar og forskjellig adresse, plasseres barnet på samme liste som den av foreldrene som har samme folkeregisteradresse som barnet.
+Ved fylte 16 år treffer barnet selv avgjørelse om valg av fastlege. Er barnet mellom 12 og 16 år kan det selv fremsette krav om bestemt fastlege etter samtykke fra den eller de som har foreldreansvaret.
+Når omsorgen og/eller foreldreansvaret er fratatt foreldrene, etter barneverntjenesteloven § 4-8, § 4-12 og § 4-20, er det barneverntjenesten som kan velge fastlege for barnet.
