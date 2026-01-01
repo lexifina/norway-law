@@ -1,0 +1,2 @@
+# § 10-3. Berostillelse av behandling av melding eller klage
+Registerføreren kan stille behandlingen av en melding i bero hvis det er reist søksmål om underliggende forhold som kan ha betydning for registerførerens kontroll etter § 5-1 første eller andre ledd. En avgjørelse om berostillelse kan gjelde inntil søksmålet er endelig avgjort. Første og andre punktum gjelder tilsvarende for registerføreren og klageinstansen ved behandling av klage på registrerings- eller nektingsvedtak.

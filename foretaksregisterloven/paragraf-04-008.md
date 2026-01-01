@@ -1,0 +1,2 @@
+# § 4-8. Gebyr for registrering
+Det skal betales gebyr for nyregistrering i Foretaksregisteret. Det kan også kreves gebyr for andre meldinger som skal registreres. Gebyr etter første og andre punktum skal dekke kostnadene ved registrering av meldinger og en forholdsmessig andel av drifts- og vedlikeholdskostnadene til Foretaksregisteret. Departementet kan gi forskrift om gebyrenes størrelse og innkrevingsform.

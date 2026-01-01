@@ -1,0 +1,3 @@
+# § 3-9. Opplysninger om prospekter mv.
+(1) For aksjeselskaper og allmennaksjeselskaper skal det registreres om aksjetegningen har skjedd uten prospekt som nevnt i verdipapirhandelloven kapittel 7. Det skal i så fall registreres hvorfor prospekt ikke var nødvendig. For EØS-prospekt utarbeidet etter prospektforordningen, jf. verdipapirhandelloven § 7-1, skal erklæring fra Finanstilsynet om at prospektet er godkjent, inngå i meldingen til Foretaksregisteret. Det skal registreres om Finanstilsynet har godkjent prospektet. Nasjonale prospekt skal registreres i Foretaksregisteret, jf. verdipapirhandelloven § 7-8.
+(2) Første ledd gjelder tilsvarende for egenkapitalbevis.

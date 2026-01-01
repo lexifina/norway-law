@@ -1,0 +1,3 @@
+# § 4-2. Endringsmeldinger fra foretaket
+(1) Hvis det skjer endringer i forhold som er registrert eller skal registreres i Foretaksregisteret, skal dette uten ugrunnet opphold meldes til Foretaksregisteret. Endret navn eller adresse for en person som er registrert med en rolle i et registrert foretak, skal ikke meldes hvis denne opplysningen er registrert i Folkeregisteret, Enhetsregisteret eller Foretaksregisteret.
+(2) Hvis et registrert foretak opphører, skal dette uten ugrunnet opphold meldes til Foretaksregisteret. Det samme gjelder dersom vilkårene for registrering i Foretaksregisteret bortfaller. Hvis Foretaksregisteret mottar melding som nevnt i første eller andre punktum, skal registerføreren slette foretaket fra registeret.
