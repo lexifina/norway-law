@@ -1,0 +1,2 @@
+# § 39
+Naar efter denne lov en viljeserklærings forbindende kraft er betinget av, at den anden part ikke kjendte eller burde ha kjendt et bestemt forhold eller forøvrig var i god tro, kommer det an paa det tidspunkt, da viljeserklæringen kom til hans kundskap. Dog kan, hvis særlige grunde tilsiger det, hensyn tages til, at han efter dette tidspunkt, men før han endnu har indrettet sig efter viljeserklæringen, har faat eller burde ha faat kjendskap til forholdet.

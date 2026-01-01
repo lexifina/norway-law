@@ -1,0 +1,3 @@
+# § 3
+Har tilbyderen ikke fastsat nogen akceptfrist, maa akcepten, hvis tilbudet er gjort i brev eller telegram, være kommet frem til ham inden utløpet av den tid, som han, da han avgav tilbudet, maatte regne paa skulde gaa med. Tiden beregnes, hvis ikke andet fremgaar av forholdet, under forutsætning av, at tilbudet kommer frem uten forsinkelse, at den anden part skal ha rimelig tid til at overveie, før han svarer, og at svaret ikke blir forsinket underveis. Er tilbudet gjort i telegram, skal akcepten telegraferes, hvis den ikke paa anden maate kommer likesaa tidlig frem.
+Er tilbudet gjort mundtlig og akceptfrist ikke indrømmet, maa det straks akcepteres.
