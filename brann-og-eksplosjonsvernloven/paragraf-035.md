@@ -1,0 +1,4 @@
+# § 35. Tilsynsmyndighetens rett til å innhente prøver
+Tilsynsmyndigheten kan kreve at den som eier, tilvirker, innfører eller markedsfører et produkt skal fremlegge en representativ prøve av produktet eller iverksette de undersøkelser som finnes nødvendige for å vurdere produktets egenskaper, virkninger eller egnethet. Tilsvarende gjelder når det er nødvendig for å avgjøre om et produkt faller inn under loven. Tilsynsmyndigheten kan selv sette i verk slike undersøkelser eller foreta nødvendig prøvetaking og kontroll av produktet.
+Første ledd gjelder tilsvarende i forhold til avsender, mottaker eller transportør av farlig gods.
+Kostnadene bæres av den som kravet om undersøkelser, prøvetaking og kontroll er rettet mot. Departementet kan likevel bestemme at kostnadene skal fordeles på flere eiere, tilvirkere, importører eller markedsførere, eller at de helt eller delvis skal dekkes av det offentlige. Krav på refusjon av kostnadene er tvangsgrunnlag for utlegg.

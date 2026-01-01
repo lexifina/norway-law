@@ -1,0 +1,4 @@
+# § 19. Sikkerhet i virksomhet
+Virksomheter skal sørge for at sikkerheten i forhold til brann, eksplosjon, håndtering av farlig stoff og transport av farlig gods på veg og jernbane blir ivaretatt på en forsvarlig måte. Sikkerhetshensyn skal være integrert i alle virksomhetens faser, herunder planlegging, prosjektering, etablering, drift og avvikling.
+Virksomheter skal gjøre arbeidstakere og andre som utfører oppgaver i eller på vegne av virksomheten kjent med plikten i henhold til § 25 i denne loven. Virksomheten skal gi opplæring slik at alle arbeidsoppgaver kan gjennomføres på en sikker måte både ved normal drift og ved unormale situasjoner og driftsbetingelser. Opplæringen skal også omfatte rutiner og forholdsregler ved ulykker.
+Plikten til å sørge for at sikkerheten i virksomheten blir ivaretatt ligger hos ledelsen.
