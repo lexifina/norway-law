@@ -1,0 +1,2 @@
+# § 32. Fritak for fremmøte i Forsvaret på grunn av sivil stilling eller fagkyndighet
+Kongen kan gi forskrift om at tjenestepliktige som på grunn av sivil stilling eller fagkyndighet bør fortsette i sin sivile virksomhet, kan fritas for eller få utsatt fremmøte til tjeneste i Forsvaret i krig, når krig truer eller ved styrkeoppbygging. Kongen kan gi forskrift om at disse tjenestepliktige helt eller delvis skal være fritatt for tjeneste i fred.

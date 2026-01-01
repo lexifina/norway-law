@@ -1,0 +1,2 @@
+# § 53. Oppsigelse av ordinært tilsettingsforhold
+Militært tilsatte og sivilt tilsatte i Forsvarsdepartementet og underliggende etater som er beordret til tjeneste i en internasjonal operasjon, kan si opp sitt ordinære tilsettingsforhold. Oppsigelsesfristen er 3 måneder. Militært tilsatte som er pålagt tjeneste som motytelse for opplæring og utdanning betalt av Forsvaret, skal likevel utføre resten av den pålagte tjenesten i Norge.
