@@ -1,0 +1,2 @@
+# Kapittel 11. Farlig avfall
+Hjemmel: Fastsatt med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 20, § 29 og § 31, jf. delegeringsvedtak 8. juli 1983 nr. 1245. EØS-henvisninger: EØS-avtalen vedlegg XX kap. V nr. 32ff (direktiv 2008/98/EF som endret ved forordning (EU) nr. 1357/2014) og nr. 32aa (vedtak 2000/532/EF som endret ved vedtak 2001/118/EF, vedtak 2001/119/EF, vedtak 2001/573/EF og vedtak (EU) 2014/955).

@@ -1,0 +1,6 @@
+# § 19-5. Klage
+Vedtak truffet av kommunen i medhold av bestemmelsene i denne forskriften kan påklages til statsforvalteren.
+Vedtak truffet av statsforvalteren i medhold av bestemmelsene i denne forskriften kan påklages til Miljødirektoratet.
+Vedtak truffet av Miljødirektoratet i medhold av bestemmelsene i denne forskriften kan påklages til Klima- og miljødepartementet.
+Vedtak truffet av Direktoratet for strålevern og atomsikkerhet i medhold av bestemmelsene i denne forskriften kan påklages til Klima- og miljødepartementet.
+Klageinstansens vedtak i klagesak kan ikke påklages, unntatt etter forvaltningsloven § 28 tredje ledd.

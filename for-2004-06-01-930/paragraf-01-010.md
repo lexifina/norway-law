@@ -1,0 +1,3 @@
+# § 1-10. Krav om medlemskap i returselskap
+Produsentene skal finansiere innsamling, sortering og behandling av EE-avfall gjennom medlemskap i et kollektivt eller individuelt finansiert returselskap som er godkjent av Miljødirektoratet jf. § 1-13. Som medlemskap regnes at produsenten inngår avtale om kjøp av tjenester fra et godkjent returselskap eller at produsenten selv driver et godkjent returselskap. Medlemskapet skal dekke de EE-produkter som produsenten importerer eller produserer i Norge.
+Plikten til å være medlem i godkjent returselskap gjelder produsenter av både komponenter og selvstendige produkter som er EE-produkter. Dersom komponenter inngår i produksjon av nye EE-produkter, er det kun nødvendig med medlemskap for det nye EE-produktet.

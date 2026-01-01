@@ -1,0 +1,5 @@
+# § 1-11. Krav til representant for utenlandsk produsent
+Dersom en utenlandsk produsent har utpekt en representant i Norge vil kravene i § 1-10 og produktforskriften § 2a-9 gjelde tilsvarende for representanten.
+Representanten skal ha skriftlig erklæring til å representere den utenlandske produsenten. Representanten skal også sørge for at alle som ervervsmessig importerer produktene til Norge blir informert om at det er representantens ansvar å sørge for at pliktene etter dette kapitlet del IV blir overholdt for de aktuelle produktene. Representanten skal sende kopi av den skriftlige erklæringen til sitt returselskap.
+Representanten skal rapportere til sitt returselskap hvilke norske produsenter representanten ivaretar pliktene til. Representant skal også rapportere hvilke importerte mengder og typer EE-produkter denne plikten omfatter, fordelt på hver produsent, for siste halvår.
+Oppfyller representanten kravene i første, andre og tredje ledd, blir alle som ervervsmessig importerer produktene til Norge fritatt fra sine plikter etter dette kapittel del IV for disse produktene.

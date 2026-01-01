@@ -1,0 +1,7 @@
+# § 17-15. Tiltak for å forebygge forringelse av vannkvalitet og luft- og jordforurensning
+Den driftsansvarlige skal treffe alle nødvendige tiltak for å forebygge eller i størst mulig grad redusere eventuelle skadevirkninger på miljøet og menneskers helse som følge av håndtering av utvinningsavfall. Tiltakene skal sikre overholdelse av gjeldende miljøstandarder, særlig å hindre forringelse av tilstanden i vannforekomstene i samsvar med forskrift om rammer for vannforvaltningen, og skal bygge på beste tilgjengelige teknikker. Den driftsansvarlige skal blant annet:
+a) evaluere potensialet for sigevannproduksjon, herunder innholdet av forurensende stoff i sigevannet, i det deponerte avfallet under drift og etter avslutning av avfallsanlegget, og bestemme avfallsanleggets vannbalanse.
+b) forebygge eller minimere sigevannproduksjonen og forurensning av overflatevann, herunder kystvann, og grunnvann fra avfallet. Ved deponering av utvinningsavfall i vann gjelder reglene i forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltningen
+c) treffe nødvendige tiltak for å samle opp og behandle forurenset vann og sigevann for å oppnå påkrevd utslippskvalitet
+d) treffe tilstrekkelige tiltak for å hindre eller redusere utslipp av støv og gass.
+Dersom en miljørisikovurdering tilsier at det ikke er nødvendig å samle opp og behandle sigevann, eller at avfallsanlegget ikke medfører noen mulig fare for jord, grunnvann eller overflatevann, kan forurensningsmyndigheten lempe på kravene i bokstav b og c.

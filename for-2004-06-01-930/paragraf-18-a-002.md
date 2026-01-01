@@ -1,0 +1,2 @@
+# § 18a-2. Forordning om fastsettelse av kriterier for å bestemme når gjenvunnet glass opphører å være avfall
+EØS-avtalen vedlegg XX nr. 32ffb (forordning (EU) nr. 1179/2012) om fastsettelse av kriterier for å bestemme når gjenvunnet glass opphører å være avfall i henhold til europaparlaments- og rådsdirektiv 2008/98/EF gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.

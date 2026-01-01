@@ -1,0 +1,2 @@
+# § 10-33. Årlig rapportering
+Driftsansvarlig skal sende forurensningsmyndigheten en årlig rapport som minst skal inneholde opplysninger om utslipp til luft og vann ved forbrenningsanlegget. For nye anlegg skal det i tillegg, så snart det er mulig, rapporteres for de første åtte månedene anlegget er i ordinær drift. Forurensningsmyndigheten kan fastsette nærmere krav til hva rapportene skal inneholde.

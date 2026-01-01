@@ -1,0 +1,3 @@
+# § 6-5. Fastsettelse av returandel
+Miljødirektoratet fastsetter hvilken returandel det kan forventes at retursystemet vil oppnå. Fastsettelse av returandel gjøres forhåndsvis for maksimalt ett år om gangen. Returandelen fastsettes til gjennomsnittet av retursystemets oppnådde returandel de tre foregående årene. Returandelen kan fastsettes på annen måte når særlige grunner foreligger eller når det ikke finnes grunnlag fra de tre foregående årene.
+Vedtak om returandel legges til grunn for reduksjon av avgift i henhold til Finansdepartementets forskrift om særavgifter, jf. kap. 3-5 om avgifter på drikkevareemballasje (miljø- og grunnavgift).

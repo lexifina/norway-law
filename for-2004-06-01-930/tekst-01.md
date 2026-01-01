@@ -1,0 +1,16 @@
+Bestemmelser om
+- kasserte elektriske og elektroniske produkter står i kapittel 1
+- miljøskadelige batterier står i kapittel 3
+- kasserte kjøretøy står i kapittel 4
+- innsamling og gjenvinning av kasserte dekk står i kapittel 5
+- retursystemer for emballasje til drikkevarer står i kapittel 6
+- refusjon av avgift på trikloreten (TRI) står i kapittel 7
+- deponering av avfall står i kapittel 9
+- forbrenning av avfall står i kapittel 10
+- forbrenning av farleg avfall står i kapittel 10a
+- forbrenning av kommunalt avfall står i kapittel 10b
+- forbrenning av spillolje står i kapittel 10c
+- farlig avfall står i kapittel 11
+- gebyr for deklarering av farlig avfall står i kapittel 12
+- grensekryssende transport av avfall står i kapittel 13
+- tilsyn, klage, straff mv. står i kapittel 17.

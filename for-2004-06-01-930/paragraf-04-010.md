@@ -1,0 +1,4 @@
+# § 4-10. Utfylling av vrakmelding
+Ved mottagelse av kassert kjøretøy på behandlingsanlegg skal det fylles ut melding om kjøretøyet på blankett fastsatt av Skattedirektoratet, jf. minstekrav til vrakmelding i vedlegg 2 til dette kapitlet. Opplysning om kjøretøyets siste kjennemerke skal dokumenteres ved forevisning av vognkort, kvittering fra Statens vegvesen for innleverte skilter eller kvittering for betalt forsikring. Kjøretøyets understellsnummer skal dokumenteres med eventuelt vognkort og kontrolleres mot vraket så fremt det er leselig.
+Den som leverer kjøretøyet skal legitimere seg ved forevisning av pass, førerkort eller tilsvarende dokument. Legitimasjonsdokumentets nummer samt person- eller foretaksnummer skal påføres vrakmeldingen.
+For kasserte kjøretøy som er levert til vraking i EØS-land utenfor Norge, skal vrakmelding som er utstedt i landet hvor vrakingen fant sted aksepteres.

@@ -1,0 +1,2 @@
+# § 3-18a. Krav til beregning og rapportering av gjenvinningsgrad – gjennomføring av forordning (EU) nr. 493/2012
+EØS-avtalens vedlegg II kapittel XV nr. 12zzi (forordning (EU) nr. 493/2012) om fastsettelse, i henhold til europaparlaments- og rådsdirektiv 2006/66/EF, av regler om beregning av effektivitet av prosesser for gjenvinning av brukte batterier og akkumulatorer gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XV, protokoll 1 til avtalen og avtalen for øvrig.

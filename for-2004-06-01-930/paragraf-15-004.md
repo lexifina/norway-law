@@ -1,0 +1,3 @@
+# § 15-4. Separat regnskap og kostnadsfordeling
+Kommunen skal ha separat regnskap for lovpålagt håndtering av husholdningsavfall. Dette innebærer at kommunen for hvert regnskapsår skal utarbeide adskilte regnskap for resultat og balanse, for å etablere et tydelig skille mellom den lovpålagte håndteringen av husholdningsavfall og avfallshåndtering i markedet.
+Alle kostnader ved lovpålagt håndtering av husholdningsavfall skal dekkes over avfallsgebyret. Dersom kommunen også selger avfallstjenester i markedet, skal de kostnadene som er felles for lovpålagt håndtering av husholdningsavfall og for avfallstjenestene som selges i markedet fordeles forholdsmessig.

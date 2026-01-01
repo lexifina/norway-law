@@ -1,0 +1,4 @@
+# § 9-11. Mottak av avfall
+Når avfall mottas på et deponi, skal det foreligge dokumentasjon på at avfallet oppfyller de kriteriene for avfallskvalitet som framgår av deponiets tillatelse. Fra 1. januar 2007 må avfallsprodusenten dokumentere at avfallet oppfyller kravene til kvalitet som fremgår av vedlegg II til dette kapitlet. Fra 1. juli 2007 må driftsansvarlig drive i henhold til mottakskriteriene som fremgår av vedlegg II til dette kapitlet. Avfall som ikke oppfyller kriteriene for mottak ved deponiet skal avvises.
+Den driftsansvarlige skal sørge for at det ved mottak av avfall for deponering foretas kontroll på stedet i samsvar med vedlegg II til dette kapitlet eller deponiets tillatelse.
+Miljødirektoratet kan fastsette at opplysninger fra basiskarakterisering og verifikasjon som skal følge med avfallet skal oppgis på godkjent skjema.

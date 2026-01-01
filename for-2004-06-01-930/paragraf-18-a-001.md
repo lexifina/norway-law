@@ -1,0 +1,2 @@
+# § 18a-1. Forordning om fastsettelse av kriterier for å bestemme når visse typer metallskrap opphører å være avfall
+EØS-avtalen vedlegg XX nr. 32ffa (forordning (EU) nr. 333/2011) om fastsettelse av kriterier for å bestemme når visse typer metallskrap opphører å være avfall i henhold til europaparlaments- og rådsdirektiv 2008/98/EF gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.

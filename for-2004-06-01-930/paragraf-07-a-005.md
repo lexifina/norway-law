@@ -1,0 +1,3 @@
+# § 7A-5. Informasjon og holdningsskapende arbeid
+Produsent som bringer i omsetning engangsprodukter av plast nevnt i § 7A-2 første ledd bokstav a–f og h, skal sørge for at det gis informasjon til forbrukere og fremme ansvarlig forbrukeradferd for å redusere forsøpling fra produktene. Informasjonen skal omfatte ombruksalternativer, riktig avfallshåndtering, negative effekter på avløpsnettet ved uønsket avfallshåndtering og negative miljøeffekter ved forsøpling og uønsket avfallshåndtering.
+Produsent nevnt i første ledd skal gjennomføre årlige landsdekkende informasjonskampanjer eller andre lignende tiltak.

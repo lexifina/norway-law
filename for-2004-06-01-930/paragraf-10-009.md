@@ -1,0 +1,5 @@
+# § 10-9. Forbrenningsrester
+Forbrenningsanlegg skal utformes, bygges og drives slik at mengden forbrenningsrester fra driften av anlegget begrenses i størst mulig grad. Videre skal innholdet av skadelige stoffer i forbrenningsrestene søkes begrenset mest mulig.
+Slagg og bunnaske fra forbrenningsanlegget skal være tilstrekkelig utbrent og avkjølt før videre håndtering. Slagg og bunnaske skal ha et innhold av TOC på mindre enn 3% eller et glødetap på mindre enn 5% av materialets tørrvekt.
+Forbrenningsrester som klassifiseres som farlig avfall skal håndteres i samsvar med bestemmelsene i kapittel 11 om farlig avfall.
+Forbrenningsrester skal gå til gjenvinning, der dette er hensiktsmessig, eller til sluttbehandling. Virksomheter som foretar gjenvinning eller sluttbehandling av forbrenningsrestene, skal ha nødvendig tillatelse etter forurensningsloven eller forskrifter gitt i medhold av loven. Før det avgjøres hvor forbrenningsrestene skal leveres, skal det gjøres tester, så langt det er berettiget, for å bestemme de forskjellige restenes fysiske og kjemiske egenskaper og forurensningspotensial.

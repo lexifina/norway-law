@@ -1,0 +1,3 @@
+# § 11-6. Tillatelse til håndtering av farlig avfall
+Den som håndterer farlig avfall, skal ha tillatelse etter forurensningsloven § 11.
+For anlegg for mottak og mellomlagring av farlig avfall gjelder i tillegg kravene i vedlegg 4 til dette kapitlet, med mindre forurensningsmyndigheten har stilt strengere krav i tillatelse. Kravene i vedlegg 4 gjelder ikke for kommunale ordninger for mottak av farlig avfall som faller inn under § 11-7 bokstav e og som reguleres av vedlegg 3 til dette kapitlet. Vedlegg 4 nr. 4 om finansiell sikkerhet gjelder likevel for kommunale mottak med begrenset ansvar som reguleres av vedlegg 3 til dette kapitlet.
