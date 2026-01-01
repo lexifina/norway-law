@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Forskriften gjelder for norske og utenlandske fartøy som fisker med reketrål i Norges territorialfarvann og økonomiske sone nord for 62° N, i Norges territorialfarvann og økonomiske sone sør for 62° N, i Skagerrak avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr, i fiskerisonen ved Jan Mayen, i fiskerivernsonen ved Svalbard og i Svalbards territorialfarvann.
