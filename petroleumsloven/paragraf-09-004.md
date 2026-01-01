@@ -1,0 +1,8 @@
+# § 9-4. Sikkerhetssoner m.v.
+Rundt og over innretninger skal det være en sikkerhetssone med mindre departementet bestemmer noe annet. I fare- og ulykkessituasjoner kan departementet opprette eller utvide sikkerhetssoner. Utstrekning av soner som nevnt i første og annet punktum bestemmes av Kongen. Denne bestemmelse får ikke anvendelse for rørledninger og kabler.
+Kongen kan bestemme at en sikkerhetssone skal gå over grenselinjen til en annen stats kontinentalsokkel. Videre kan Kongen bestemme at det skal være en sikkerhetssone på norsk kontinentalsokkel selv om vedkommende innretning ligger utenfor denne.
+Departementet kan bestemme at en sone tilsvarende sikkerhetssonen skal etableres i rimelig tid forut for plassering av innretninger som nevnt i første ledd.
+Departementet kan bestemme at det skal være sikkerhetssone rundt og over etterlatte eller dumpede innretninger, eller deler av slike innretninger.
+Uvedkommende fartøy, luftputefartøy, luftfartøy, fiskeredskaper eller andre gjenstander må ikke befinne seg innenfor sone som nevnt i første, annet, tredje og fjerde ledd. Dersom fiske kan foregå i sonen eller deler av sonen uten å true sikkerheten eller hindre utøvelsen av petroleumsvirksomheten, kan departementet likevel bestemme at slikt fiske kan finne sted.
+Departementet kan gi bestemmelser som anses nødvendige for å sikre adkomst for innretninger som nevnt i første ledd til sone som nevnt i tredje ledd.
+Paragrafen her gjelder ikke for innretninger plassert på land eller sjøgrunn undergitt privat eiendomsrett.

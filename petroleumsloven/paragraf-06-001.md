@@ -1,0 +1,4 @@
+# § 6-1. Registrering av tillatelser
+Departementet skal føre et register over alle utvinningstillatelser, Petroleumsregisteret. Departementet kan ved forskrift bestemme at registeret også skal omfatte tillatelse som omhandlet i § 4-3.
+I registeret gis hver tillatelse eget blad. Departementet skal føre dagbok over de dokumenter som skal registreres. Departementet kan gi nærmere forskrifter om hvordan dagbok og register skal innrettes og føres, om meldeplikt for rettighetshaver ved overdragelse og andre endringer vedrørende tillatelsen og om fremgangsmåten for øvrig ved registreringen. Herunder kan det også gis bestemmelser om hvilke gebyrer som kan kreves.
+Lov 7. juni 1935 nr. 2 om tinglysing kapitlene 2 og 3 gjelder tilsvarende så langt de passer og ikke annet følger av loven her eller forskrifter gitt i medhold av loven.

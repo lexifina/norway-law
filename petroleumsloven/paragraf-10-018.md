@@ -1,0 +1,7 @@
+# § 10-18. Myndighet til å gi forskrifter og fastsette vilkår
+Kongen kan gi forskrifter til utfylling og gjennomføring av denne lov, herunder bl.a. bestemmelser om arbeidsforhold, taushetsplikt, og om rettighetshavers plikt til å gjøre opplysninger om virksomhet etter loven offentlig tilgjengelig.
+Kongen kan i forskrift pålegge rettighetshaver og forvaltningsorganer å gi opplysninger om betalinger. Forvaltningsorganer kan pålegges å gi slike opplysninger uten hinder av taushetsplikt. Opplysningene kan offentliggjøres både av avgiver og mottaker av opplysningene.
+Rettighetshaveren skal sørge for at ansatte på skip som leverer tjenester til petroleumsvirksomhet, ikke har dårligere lønnsvilkår enn det som følger av gjeldende landsomfattende tariffavtaler. Dette gjelder likevel ikke transport av petroleum i bulk. Kongen kan gi forskrift om hvordan rettighetshaverens forpliktelser kan oppfylles.
+Kongen kan gi forskrifter om opplysningsplikt for ivaretakelse av Norges plikter etter EØS-avtalen.
+I forbindelse med enkeltvedtak kan det settes andre vilkår enn de som er nevnt i denne lov, når de har en naturlig tilknytning til det tiltak eller den virksomhet som enkeltvedtaket gjelder.
+Departementet kan i forskrift gi pålegg om at fartøy som driver undersøkelse etter petroleum skal ha om bord og bruke utstyr som overvåker og rapporterer aktiviteten til fartøyet, som for eksempel satelittsporingsutstyr og ferdskriver.
