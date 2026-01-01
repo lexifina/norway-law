@@ -1,0 +1,4 @@
+# § 7
+1. Alderspensjon regnes ikke for mer enn 1560 premieuker i alt. Årspensjon for 1560 premieuker skal på uttakstidspunktet utgjøre 1,6 ganger folketrygdens grunnbeløp, forholdsmessig redusert hvis vedkommende har mindre enn 1560 premieuker.
+2. Alderspensjon under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.Ved regulering av pensjoner etter første ledd benyttes de reguleringsfaktorene Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd og § 20-18 åttende ledd.
+3. Til pensjonist som forsørger barn under 18 år, ytes det barnetillegg som for hvert barn utgjør 30 prosent av folketrygdens grunnbeløp. Tillegget reduseres forholdsmessig hvis vedkommende har mindre enn 1560 premieuker.
