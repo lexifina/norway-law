@@ -1,0 +1,3 @@
+# § 4-4. Tilbakekall av pass eller nasjonalt ID-kort med reiserett til mindreårige
+Pass eller nasjonalt ID-kort med reiserett til mindreårige kan tilbakekalles dersom den eller de som har foreldreansvaret trekker tilbake samtykket. Har foreldrene felles foreldreansvar, må begge trekke samtykket tilbake. Pass eller nasjonalt ID-kort med reiserett til mindreårige kan også tilbakekalles i tilfeller som nevnt i barnelova § 41.
+I tilfeller som omfattes av barnevernloven § 4-31 om forbud mot å ta med barnet ut av Norge, kan pass eller nasjonalt ID-kort med reiserett til mindreårige tilbakekalles dersom barneverntjenesten ber om det.

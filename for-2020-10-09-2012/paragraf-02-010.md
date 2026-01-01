@@ -1,0 +1,3 @@
+# § 2-10. Kontroll av søknaden
+Pass- og ID-kortmyndigheten skal foreta en grundig kontroll av søkerens identitet og fremlagte opplysninger, herunder opplysninger om foreldreansvar, og ektheten av fremlagte dokumenter.
+For å kontrollere at vilkårene for utstedelse av pass eller nasjonalt ID-kort er oppfylt, skal det gjennomføres søk i passregisteret og ID-kortregisteret, herunder biometrisk sammenligning. Det skal også gjennomføres biometrisk sammenligning mot utlendingsregisteret ved utstedelse av nasjonalt ID-kort til utenlandske statsborgere. Det kan gjennomføres søk mot politiets registre i den utstrekning det er gitt adgang til det i politiregisterforskriften del 11.

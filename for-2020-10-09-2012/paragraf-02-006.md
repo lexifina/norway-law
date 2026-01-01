@@ -1,0 +1,4 @@
+# § 2-6. Krav til ansiktsfoto
+Ved søknad om pass eller nasjonalt ID-kort skal det opptas ansiktsfoto av søkeren som kan brukes til biometrisk sammenligning. Politidirektoratet kan gi retningslinjer om innlevering av ansiktsfoto ved søknad om midlertidig pass eller dersom det tekniske utstyret ikke kan benyttes.
+Bildene som opptas eller innleveres skal oppfylle ICAOs standard for kvalitet, herunder bakgrunn, belysning, ansiktsuttrykk mv. Hele ansiktet skal være avbildet. Begge øyne, øyebryn og ører skal være synlige. Briller og hodeplagg må ikke benyttes.
+Personer kan av religiøse eller andre særlige grunner, for eksempel ved sykdom, bruke hodeplagg på bildet når det er grunn til å anta at tilsvarende hodeplagg vil bli brukt i fremtidige kontroller. Hodeplagget må ikke tildekke noe av ansiktet eller mer av hodet enn nødvendig.
