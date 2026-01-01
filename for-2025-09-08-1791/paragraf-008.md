@@ -1,0 +1,2 @@
+# § 8. Innrapportering av annet forbruk enn husholdningsforbruk
+Boligselskap med felles oppvarmings- eller ventilasjonssystem, skal rapportere til nettselskapet hvis mer enn 20 prosent av oppvarmet areal benyttes av andre enn boligselskapets husholdninger. Rapporteringen skal angi hvor stor andel av oppvarmet areal som benyttes av andre enn boligselskapets husholdninger. Rapportering til nettselskapet skal skje uten ugrunnet opphold.

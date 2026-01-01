@@ -1,0 +1,5 @@
+# § 12. Husholdning tilknyttet gårds- og grendeverk
+Husholdninger som er tilknyttet gårds- og grendeverk har rett til strømstønad. Dette gjelder ikke husholdninger som får strømstønad for husholdningsforbruk dekket gjennom andre stønadsordninger.
+For å ha rett til stønad etter første ledd, må nettkunde i tilknytningspunktet rapportere opplysninger om gårds- og grendeverk og tilknyttede husholdninger til nettselskapet, jf. § 13.
+Stønad beregnes etter lov om Norgespris og strømstønad til husholdninger § 6 første til fjerde ledd. Målt og avregnet uttak i tilknytningspunktet mellom gårds- og grendeverket og nettselskapet er stønadsberettiget. Det gis ikke stønad for forbruk som samlet overstiger 5 000 kWh per måned per husholdning tilknyttet gårds- og grendeverket, jf. § 13 første ledd bokstav a.
+Stønaden skal utbetales av nettselskapet til nettkunde i tilknytningspunktet. Nettkunde i tilknytningspunktet skal sørge for at stønaden i sin helhet fordeles på de stønadsberettigede husholdningene tilknyttet gårds- og grendeverket basert på husholdningenes forbruk.
