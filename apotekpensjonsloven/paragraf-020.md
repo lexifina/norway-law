@@ -1,0 +1,3 @@
+# § 20
+Enke- eller enkemannspensjonen løper fra og med den måneden medlemmet dør, og til og med utgangen av måneden etter enkens eller enkemannens død.
+Løpende enke- eller enkemannspensjon faller bort hvis enken eller enkemannen gifter seg igjen. Blir hun eller han igjen enke eller enkemann, kan styret, om hennes eller hans økonomiske forhold gjør det rimelig, bevilge henne eller ham pensjon med inntil forskjellen mellom pensjonen etter denne loven og underhold eller pensjon som vedkommende er sikret gjennom senere ekteskap. Bestemmelsen i andre punktum gjelder tilsvarende dersom det nye ekteskapet blir oppløst ved skilsmisse.

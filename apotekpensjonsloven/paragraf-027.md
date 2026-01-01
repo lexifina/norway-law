@@ -1,0 +1,5 @@
+# § 27
+Dersom et medlem har mottatt en ytelse etter denne loven i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt. Pensjonsordningen kan også kreve en ytelse tilbake når et medlem eller noen som har handlet på medlemmets vegne, uaktsomt har gitt feilaktige eller mangelfulle opplysninger. Det samme gjelder dersom utbetalingen skyldes feil fra Pensjonsordningens side og mottakeren burde ha forstått dette.
+I andre tilfeller enn nevnt i første ledd kan det som er utbetalt for mye, kreves tilbake dersom særlige grunner gjør det rimelig. Ved vurderingen av om det foreligger særlige grunner, skal det legges vekt på blant annet hvor lang tid det er gått siden den feilaktige utbetalingen fant sted, og om vedkommende har innrettet seg i tillit til utbetalingen. Kravet om tilbakebetaling etter dette leddet er begrenset til det beløp som er i behold når vedkommende blir kjent med at utbetalingen var feilaktig.
+Lov om Statens pensjonskasse § 44 åttende ledd gjelder tilsvarende.
+Dersom feilutbetalingen har medført høyere utlignet skatt, herunder trygdeavgift, kan tilbakekrevingsbeløpet reduseres med den merskatten som skyldes feilutbetalingen.
