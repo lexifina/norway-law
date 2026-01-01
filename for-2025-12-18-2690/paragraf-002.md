@@ -1,0 +1,3 @@
+# § 2. Vilkår for kvotebytte
+Kvotebytteordningen gjelder bare mellom fartøy med vassildtråltillatelse. Begge tillatelsene må være kvoteavregnet med minimum 100 tonn vassild i ett av de tre siste årene. Kvotebyttet må gjelde hele kvoteårets kvote.
+Det er et vilkår for kvotebytte at begge fartøyeierne har gitt bindende og signert melding til Fiskeridirektoratet før det fiskes. Meldingen skal bindende angi fartøynavn, fiskerimerke, kjennesignal og identitetsnummeret til fartøyets vassildtråltillatelse. Det skal også oppgis hvilket fartøy som skal fiske på egen og det andre fartøyets tillatelse i 2026 og hvilket av disse fartøyene som skal fiske på egen og det andre fartøyets tillatelse i 2027.
