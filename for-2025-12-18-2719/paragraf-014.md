@@ -1,0 +1,3 @@
+# § 14. Krav om revisorrapport
+Søkere og underledd som har minst 7 millioner kroner i totale driftskostnader to år på rad skal ha revisorrapport for sin egen søknadsdokumentasjon fra statsautorisert revisor eller kommunerevisor. Rapporten skal følge standarden ISRS 4400 Avtalte kontrollhandlinger. Lotteri- og stiftelsestilsynet fastsetter hvilke kontrollhandlinger revisor skal utføre.
+Sentralledd som i den samlede søknaden har minst 7 millioner kroner i totale driftskostnader to år på rad, skal ha revisorrapport for den samlede søknaden fra statsautorisert revisor eller kommunerevisor. Rapporten skal følge standarden ISRS 4400 Avtalte kontrollhandlinger. Lotteri- og stiftelsestilsynet fastsetter hvilke kontrollhandlinger revisor skal utføre.
