@@ -1,0 +1,2 @@
+# § 9
+Har nogen i en henvendelse, som ellers vilde bli at betragte som tilbud, sat ind ordene «uten forbindtlighet», «uten obligo» eller lignende, er henvendelsen ikke et tilbud, men ansees for en opfordring til at gjøre tilbud av det indhold, henvendelsen har. Indløper et saadant tilbud inden rimelig tid fra nogen, som henvendelsen er rettet til, og maa mottageren gaa ut fra, at det er fremkaldt ved henvendelsen, skal han uten ugrundet ophold gi tilbyderen meddelelse, hvis han ikke vil akceptere tilbudet. Ellers ansees det for akceptert.

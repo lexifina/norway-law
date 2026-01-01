@@ -1,0 +1,3 @@
+# § 21
+Dør fuldmagtsgiveren, gjælder fuldmagten allikevel, forsaavidt ikke særlige grunde viser, at den skal falde bort. En retshandel, som fuldmægtigen foretar i henhold til fuldmagten, blir i hvert fald bindende for fuldmagtsgiverens bo, hvis tredjemand ikke kjendte eller burde ha kjendt dødsfaldet og dets betydning for fuldmagten til at foreta retshandelen. Har fuldmagtsgiveren bare meddelt fuldmagten til fuldmægtigen (§ 18), kræves det dog, forat retshandelen skal være bindende, at heller ikke fuldmægtigen kjendte forholdet eller burde ha kjendt det, da han foretok retshandelen.
+Fuldmagten ophører fra det tidspunkt, fuldmagtsgiverens dødsbo tages under offentlig skiftebehandling.

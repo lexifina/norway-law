@@ -1,0 +1,4 @@
+# § 31
+Har nogen utnyttet en andens nødstilstand, letsind, forstandssvakhet, uerfarenhet eller det avhængighetsforhold, som denne staar i til ham, til at opnaa eller betinge fordele, som der ikke skal ydes vederlag for, eller som staar i aapenbart misforhold til vederlaget, blir den anden part ikke bundet ved sin viljeserklæring.
+Det samme gjælder, hvis det er tredjemand, som har gjort sig skyldig i saadant forhold, og mottageren av viljeserklæringen kjendte eller burde ha kjendt forholdet.
+Fragaaes retshandelen, er saavel den krænkede part som den anden pligtig at tilbakegi det av ham mottagne eller dettes værdi tillikemed – hvor retshandelen angaar pengelaan – lovlig rente fra mottagelsestiden. De samme regler kommer til anvendelse overfor den tredjemand, til hvem det mottagne er overdrat, og som kjendte eller burde kjendt forholdet.

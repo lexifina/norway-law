@@ -1,0 +1,2 @@
+# § 19
+Er fuldmagten kaldt tilbake eller erklært magtesløs, men har fuldmagtsgiveren særlig grund til at tro, at fuldmægtigen allikevel vil foreta en retshandel paa hans vegne overfor en bestemt tredjemand, som han maa anta ikke kjender til, at fuldmagten ikke gjælder længer, maa han saa vidt mulig gi ham meddelelse om det. Ellers blir retshandelen bindende for fuldmagtsgiveren, hvis tredjemand var i god tro.

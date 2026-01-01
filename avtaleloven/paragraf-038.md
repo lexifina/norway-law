@@ -1,0 +1,2 @@
+# § 38
+Har noen på grunn av konkurransehensyn forpliktet seg til ikke å drive virksomhet av en viss art eller ta ansettelse i virksomhet av en viss art, er forpliktelsen ikke bindende i den utstrekning den urimelig innskrenker vedkommendes adgang til erverv eller må anses for å strekke seg lenger enn nødvendig for å verne mot konkurranse. Ved avgjørelsen av om forpliktelsen urimelig innskrenker adgangen til erverv, skal det også tas hensyn til den betydning det har for den annen part at forpliktelsen opprettholdes.

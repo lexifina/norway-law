@@ -1,0 +1,4 @@
+# § 17
+Gjør fuldmagtsgiveren det sandsynlig, at det ikke er mulig at kalde en skriftlig fuldmagt tilbake paa den maate, som er foreskrevet i § 16, eller at det ikke kan ske i rimelig tid, kan fuldmagten paa fuldmagtsgiverens begjæring erklæres magtesløs.
+Begjæringen indgives til den myndighet som fører Foretaksregisteret. Finder denne myndighet, at begjæringen bør indvilges, utfærdiger den en erklæring om, at fuldmagten skal være magtesløs, naar erklæringen har været indrykket i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og derefter en bestemt tid, høist fjorten dage, er gaat. Det kan i erklæringen bestemmes, at den ogsaa skal kundgjøres paa anden maate før indrykningen i den elektroniske kunngjøringspublikasjonen.
+Negter registreringsmyndigheten at efterkomme begjæringen, kan fuldmagtsgiveren forlange spørsmaalet forelagt for vedkommende regjeringsdepartement.
