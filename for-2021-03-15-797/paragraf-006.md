@@ -1,0 +1,3 @@
+# § 6. Annet fiske og uttak av rømt oppdrettsfisk i sjøen
+I områder med stort innslag av rømt oppdrettsfisk av anadrome laksefisk, kan statsforvalteren, gjennom enkeltvedtak, gi tillatelse til fiske til andre tider og med andre redskaper enn det som følger av denne forskriften, såframt dette antas å ikke ville ha nevneverdig negativ innvirkning på bestander av laks, sjøørret eller sjørøye.
+Statsforvalteren kan, av eget tiltak, iverksette uttak av rømt oppdrettsfisk av anadrome laksefisk. Slikt uttak regnes ikke som enkeltvedtak, og kan om nødvendig skje på annens eiendom, jf. naturmangfoldloven § 18 tredje ledd.
