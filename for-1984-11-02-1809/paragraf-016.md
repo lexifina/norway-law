@@ -1,0 +1,9 @@
+# § 16. Beskyttelses- og alarmsystemer.
+For sikring mot innbrudd og sabotasje skal det etableres et alarmsystem med tilhørende forbindelse til anleggsinnehaverens vaktsentral med helkontinuerlig vakt. Vaktsentralen skal ha direkte forbindelse til politi. Vaktsentralen skal utformes slik at den kan opprettholde sin funksjon også i nærvær av designbasistrussel.
+Låsesystemer og andre systemer for adgangskontroll som er vesentlige ledd i systemet for fysisk beskyttelse, skal løpende kontrolleres og forandres dersom det antas at uvedkommende har fått kjennskap til systemene.
+De kommunikasjonssystemer som inngår som en vesentlig del av systemet for fysisk beskyttelse, inklusive forbindelse til politi, skal være dublert og skal testes regelmessig.
+Uavhengige og dublerte overføringslinjer, inklusive uavhengig kraftforsyning, skal opprettes mellom vaktsentral og overvåkingsutstyr.
+Beskrivelsen av disse systemene skal graderes etter sitt innhold, men minimum BEGRENSET i henhold til lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 5-3 første ledd bokstav d.
+Bygninger innenfor et slikt område som inneholder nukleært materiale, skal være avlåst utenom arbeidstid. Rom som inneholder nukleært materiale, skal være forsvarlig avlåst når autorisert personell ikke oppholder seg der. Vinduer i rom som inneholder slikt materiale, skal være forsynt med alarm og være fysisk sikret mot inntrengning.
+I tillegg til kravene under kontrollert område gjelder: Den ytre grense for området skal være ryddet, opplyst og forsynt med tilstrekkelig TV-overvåking.
+I tillegg til kravene under beskyttet område gjelder: Beskyttelses- og alarmsystemer samt vaktrutiner skal godkjennes av Direktoratet for strålevern og atomsikkerhet etter råd fra Nasjonal sikkerhetsmyndighet. Beskrivelsen av disse systemer skal graderes etter sitt innhold, men minimum konfidensielt i henhold til lov 20. mars 1998 nr. 10 om sikkerhetstjeneste § 11.
