@@ -1,0 +1,6 @@
+# § 4. Kommunale vass- og avløpsgebyr
+Kommunen kan gi forskrift om at det skal betalast vass- og avløpsgebyr, om storleiken på gebyra i kommunen og om innkrevjing av gebyra. Kommunale vass- og avløpsgebyr skal vere eingongsgebyr for tilknyting og årlege gebyr.
+Når ein fast eigedom har tilknyting til ein kommunal vass- eller avløpsleidning, anten direkte eller gjennom ein privat samleidning, skal eigaren betale vass- og avløpsgebyr til kommunen i samsvar med forskrift gitt i medhald av første ledd. Det same gjeld når kommunen med heimel i plan- og bygningslova §§ 27-1 eller 27-2 har kravd at eigedomen skal ha slik tilknyting.
+Det kan krevjast gebyr etter andre ledd for ein eigedom som det ikkje er hus på, når kommunen kunne kravd tilknyting til ein kommunal vass- eller avløpsleidning om det hadde vore hus på eigedomen. Er det ikkje bygd på eigedomen på grunn av eit offentleg fastsett forbod mot bygging eller ein annan særleg grunn som eigaren ikkje har ansvaret for, kan det ikkje krevjast gebyr så lenge forbodet eller hindringa varar.
+Det kan, uavhengig av vilkåra i andre og tredje ledd, krevjast gebyr for eigedomar som slepp ut avløpsvatn i vassdrag, når kommunen legg vassdraget i ein lukka leidning.
+Kommunen kan ta bort alt eller noko av gebyret for eigedomar som det ikkje er hus på.
