@@ -1,0 +1,2 @@
+# § 5-22. Myndighet til å reise søksmål om ugyldighet
+En aksjeeier, et styremedlem eller daglig leder kan reise søksmål med påstand om at en beslutning av generalforsamlingen er ugyldig, fordi den er blitt til på ulovlig måte eller for øvrig er i strid med loven eller selskapets vedtekter. Slikt søksmål kan også reises av et flertall av de ansatte eller alternativt fagforeninger som omfatter to tredeler av de ansatte.

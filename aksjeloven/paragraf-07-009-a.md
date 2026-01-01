@@ -1,0 +1,4 @@
+# § 7-9 a. Bærekraftsrapportering
+(1) I selskap som har plikt til å utarbeide bærekraftsrapportering etter regnskapsloven § 2-3, skal revisor attestere bærekraftsrapporteringen. Generalforsamlingen kan i stedet velge en annen revisor til å attestere bærekraftsrapporteringen eller en uavhengig tilbyder av attestasjonstjenester dersom det er adgang til dette etter revisorloven § 1-3. Godtgjørelsen skal godkjennes av generalforsamlingen.
+(2) Den som attesterer bærekraftsrapporteringen, skal hvert regnskapsår avgi en attestasjonsuttalelse om bærekraftsrapportering etter revisorloven § 9-7 a til generalforsamlingen. Uttalelsen skal være styret i hende senest to uker før den ordinære generalforsamlingen.
+(3) §§ 7-2, 7-3 og 7-5 gjelder tilsvarende for den som er valgt til å attestere bærekraftsrapporteringen etter første ledd.

@@ -1,0 +1,4 @@
+# § 5-16. Protokoll
+(1) Møtelederen skal sørge for at det føres protokoll for generalforsamlingen.
+(2) Protokollen skal angi tid for generalforsamlingen og møteform. I protokollen skal generalforsamlingens beslutning inntas med angivelse av utfallet av avstemningene. Protokollen skal angi antallet avgitte stemmer, og hvor mange aksjer og hvilken andel av aksjekapitalen de avgitte stemmene representerer, samlet og for og mot den enkelte beslutningen, i den utstrekning dette er relevant for utfallet av avstemningen. Fortegnelse over aksjeeiere som nevnt i § 5-13 skal inntas i eller vedlegges protokollen.
+(3) Protokollen skal signeres av møtelederen og minst en annen person valgt av generalforsamlingen blant dem som deltar. Protokollen og fortegnelse over aksjeeiere som nevnt i § 5-13, skal oppbevares på betryggende måte i hele selskapets levetid. Protokollen skal holdes tilgjengelig for aksjeeierne hos selskapet.

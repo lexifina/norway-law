@@ -1,0 +1,4 @@
+# § 16-17. Tingrettens kjennelse
+(1) Er varsel til selskapet kunngjort etter § 16-16 annet ledd og selskapet har oversittet fristen i kunngjøringen, skal Foretaksregisteret eller Regnskapsregisteret varsle tingretten om dette.
+(2) Retten skal uten ytterligere varsel ved kjennelse beslutte selskapet oppløst etter § 16-15, med mindre beslutning om oppløsning allerede er truffet av generalforsamlingen. Kjennelsen har virkning som kjennelse om konkursåpning etter konkursloven kapittel VIII.
+(3) Dersom vesentlige samfunnsmessige hensyn tilsier det, kan Kongen av eget tiltak treffe vedtak om at selskapet tillates å drive videre, og at saken likevel ikke skal oversendes tingretten for tvangsoppløsning, men at selskapet skal gis en ytterligere frist før tvangsoppløsning gjennomføres. Kongen skal treffe vedtak om at selskapet i så fall skal betale en løpende tvangsmulkt til staten fra en frist som fastsettes og frem til forholdet er rettet.

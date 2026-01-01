@@ -1,0 +1,6 @@
+# § 5-10. Krav til innkallingen
+(1) Generalforsamlingen innkalles ved skriftlig henvendelse til alle aksjeeiere med kjent adresse. Innkallingen skal angi tid og sted for møtet. Selskapet kan ikke kreve noen form for godtgjøring for utsendelsen av innkallingen.
+(2) Innkalling til generalforsamlingen skal være sendt senest en uke før møtet skal holdes, om ikke vedtektene setter en lengre frist. En slik vedtektsbestemmelse gjelder ikke ved innkalling som foretas på bakgrunn av krav etter § 5-6 annet ledd.
+(3) Innkallingen skal opplyse om møteformen, og eventuelt om fremgangsmåten for å delta og stemme elektronisk. I selskaper som åpner for stemmegivning før generalforsamlingen etter § 5-11 b, skal innkallingen opplyse om fremgangsmåten for dette.
+(4) Innkallingen skal i et forslag til dagsorden bestemt angi de saker som skal behandles på generalforsamlingen. Forslag om å endre vedtektene skal gjengis i innkallingen. Styret skal utarbeide forslag til dagsorden i samsvar med det som er bestemt i loven og vedtektene.
+(5) I selskaper med vedtektsbestemmelse som nevnt i § 5-11 a skal innkallingen opplyse om internettadressen og annen informasjon aksjeeierne må ha for å få tilgang til dokumentene på selskapets internettsider, samt informasjon om hvor aksjeeierne kan henvende seg for å få tilsendt dokumentene.

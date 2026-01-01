@@ -1,0 +1,5 @@
+# § 7-7. Forenklet revisorkontroll
+(1) I selskap hvor det i medhold av § 7-6 er truffet beslutning om at selskapets regnskaper ikke skal revideres, kan en aksjeeier fremsette forslag om forenklet revisorkontroll av selskapets årsregnskap for forrige regnskapsår. Forslaget kan fremsettes på en ordinær generalforsamling eller på en generalforsamling der det fremgår av innkallingen at slik sak skal behandles.
+(2) Får forslaget tilslutning av aksjeeiere som har minst en tidel av den aksjekapital som er representert på generalforsamlingen, skal tingretten på begjæring fra én eller flere aksjeeiere ved kjennelse beslutte at det skal foretas forenklet revisorkontroll.
+(3) Forenklet revisorkontroll skal gjennomføres av en statsautorisert revisor, jf. revisorloven § 3-7, utpekt av tingretten. § 5-27 gjelder tilsvarende for revisorer som utfører forenklet revisorkontroll.
+(4) Retten fastsetter revisors godtgjørelse ved kjennelse. Kostnadene ved den forenklede revisorkontrollen bæres av selskapet. Retten bestemmer ved kjennelse om revisor kan kreve at selskapet på forhånd skal deponere et passende beløp. Retten bestemmer i tilfelle også beløpets størrelse.

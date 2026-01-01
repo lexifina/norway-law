@@ -1,0 +1,4 @@
+# § 12-3. Styrets forslag om å nedsette aksjekapitalen
+(1) Styret skal utarbeide forslag til generalforsamlingens beslutning om å nedsette aksjekapitalen, samt forslag til de vedtektsendringer som er nødvendige. Forslagene skal inntas i eller vedlegges innkallingen til generalforsamlingen.
+(2) Forslagene skal begrunnes. Det skal gis en kort redegjørelse for forhold som må tillegges vekt ved kapitalnedsettingen. Dersom generalforsamlingen ikke samtidig skal behandle årsregnskapet, skal redegjørelsen også omfatte hendelser som er inntruffet etter siste balansedag, og som er av vesentlig betydning for selskapet.
+(3) Innkallingen skal opplyse at siste fastsatte årsregnskap med revisjonsberetning er utlagt på selskapets kontor til gjennomsyn, hvis ikke generalforsamlingen samtidig skal behandle årsregnskapet.

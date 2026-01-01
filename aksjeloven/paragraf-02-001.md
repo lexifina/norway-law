@@ -1,0 +1,4 @@
+# § 2-1. Stiftelsesdokument
+(1) For å stifte et aksjeselskap skal den eller de som skal tegne aksjer i selskapet (stifterne), opprette et stiftelsesdokument. Stiftelsesdokumentet skal inneholde selskapets vedtekter (§ 2-2) og de bestemmelser som er nevnt i § 2-3. Stiftelsesdokumentet kan opprettes som et papirdokument eller gjennom elektroniske løsninger for stiftelse av aksjeselskap som er godkjent av registerfører, jf. foretaksregisterloven § 4-9. Reglene i denne loven er ikke til hinder for elektronisk stiftelse som nevnt i tredje punktum.
+(2) Dersom aksjeinnskudd skal kunne gjøres med andre eiendeler enn penger, noen skal gis særskilte rettigheter i forbindelse med stiftelsen eller selskapet skal dekke utgifter ved stiftelsen, må også dette være bestemt i stiftelsesdokumentet, jf §§ 2-4 og 2-5.
+(3) Stiftelsesdokumentet skal oppbevares i hele selskapets levetid.

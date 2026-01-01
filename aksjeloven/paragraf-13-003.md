@@ -1,0 +1,5 @@
+# § 13-3. Godkjenning av fusjonsplanen
+(1) Styrene i de selskapene som skal fusjonere, skal utarbeide en felles fusjonsplan. Planen skal utarbeides etter reglene i §§ 13-6 til 13-8 og signeres av styrene.
+(2) I det enkelte selskap treffes beslutningen om fusjon ved at generalforsamlingen godkjenner fusjonsplanen med flertall som for vedtektsendring. I et overdragende selskap kan slik beslutning treffes selv om selskapet allerede er besluttet oppløst for avvikling, med mindre utlodning til aksjeeierne er påbegynt.
+(3) I et overdragende selskap har godkjenningen også virkning som tegning av de aksjene som skal mottas som vederlag fra det overtakende selskapet.
+(4) Styret i hvert av selskapene som skal fusjonere, skal gi opplysninger til generalforsamlingen i selskapet og til styret i de andre selskapene som deltar i fusjonen, om vesentlige endringer i eiendeler, rettigheter og forpliktelser som har funnet sted i tiden mellom signeringen av fusjonsplanen og behandlingen av fusjonsplanen i generalforsamlingene som skal treffe beslutning om fusjon.

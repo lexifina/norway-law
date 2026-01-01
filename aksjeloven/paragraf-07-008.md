@@ -1,0 +1,3 @@
+# § 7-8. Den forenklede revisorkontrollens innhold
+(1) Revisor skal vurdere om det er forhold som gir grunn til å tro at regnskapet ikke er utarbeidet og fastsatt i samsvar med lov og forskrifter. Gjennom den forenklede revisorkontrollen skal revisor bidra til å avdekke misligheter og feil.
+(2) Revisor skal utføre den forenklede revisorkontrollen etter beste skjønn, herunder vurdere risikoen for at det kan foreligge feilinformasjon i årsregnskapet som følge av misligheter og feil. Revisor skal utføre den forenklede revisorkontrollen i samsvar med revisorloven § 1-1 tredje ledd og god revisjonsskikk for slike oppdrag.

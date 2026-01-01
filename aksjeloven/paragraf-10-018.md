@@ -1,0 +1,2 @@
+# § 10-18. Tegningen
+Tegningen av de nye aksjene skal skje på et dokument som gjengir generalforsamlingens beslutning om styrefullmakt og styrets beslutning om kapitalforhøyelse. § 10-7 første ledd tredje punktum gjelder tilsvarende. Selskapets vedtekter, årsregnskap og årsberetning for de to siste år og i tilfelle redegjørelse etter § 10-2 skal holdes tilgjengelig på ett eller flere steder som skal angis i tegningsdokumentet. § 10-7 tredje ledd gjelder tilsvarende.

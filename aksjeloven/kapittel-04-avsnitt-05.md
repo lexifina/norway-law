@@ -1,0 +1,1 @@
+# V. Samtykkekrav ved eierskifte

@@ -1,0 +1,2 @@
+# § 2-7. Innskudd med andre eiendeler enn penger
+Eiendeler som ikke kan balanseføres etter regnskapsloven, kan ikke brukes som aksjeinnskudd. En plikt til å utføre et arbeid eller en tjeneste for selskapet kan ikke i noe tilfelle brukes som aksjeinnskudd. Eiendeler som selskapet mottar som aksjeinnskudd, skal vurderes til virkelig verdi, med mindre det følger av regnskapsloven at innskuddet skal videreføres til balanseførte verdier.

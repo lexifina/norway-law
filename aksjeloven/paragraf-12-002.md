@@ -1,0 +1,4 @@
+# § 12-2. Beregning av tap. Krav til egenkapital mv
+(1) Ved beregningen av selskapets tap etter § 12-1 første ledd nr 1, skal balansen i selskapets sist godkjente årsregnskap legges til grunn.
+(2) Beslutning som nevnt i § 12-1 første ledd nr 2 og 3 kan ikke gjelde større beløp enn at selskapet etter nedsettingen har tilbake netto eiendeler som gir dekning for selskapets aksjekapital og øvrig bundet egenkapital etter §§ 3-2 og 3-3. Beregningen skal foretas på grunnlag av balansen i selskapets sist godkjente årsregnskap, likevel slik at det er den registrerte aksjekapitalen på beslutningstidspunktet som skal legges til grunn. § 8-1 annet til fjerde ledd gjelder tilsvarende.
+(3) Beregningen av selskapets tap etter første ledd og krav til fri egenkapital etter annet ledd kan foretas på grunnlag av en mellombalanse. I så fall gjelder § 8-2 a første og fjerde ledd tilsvarende.

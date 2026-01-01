@@ -1,0 +1,2 @@
+# § 16-11. Etterutlodning
+Det som måtte tilfalle selskapet av beløp som er avsatt etter § 16-9 annet ledd, utdeling til aksjeeiere som ikke blir hevet, og det som for øvrig måtte vise seg å tilhøre det oppløste selskapet, utloddes etterskuddsvis. Er beløpet så lite at en etterutlodning ville medføre uforholdsmessig ulempe eller kostnad, kan styret i stedet anvende det til veldedige, humanitære eller miljømessige formål.

@@ -1,0 +1,4 @@
+# § 2-18. Melding av selskapet til Foretaksregisteret
+(1) Selskapet skal meldes til Foretaksregisteret innen tre måneder etter at stiftelsesdokumentet er signert.
+(2) Før selskapet meldes til Foretaksregisteret skal aksjeinnskudd være ytet fullt ut. Herunder skal resultatet av teknisk bistand, forsknings- og utviklingsarbeider mv være stilt til rådighet for selskapet. I meldingen til Foretaksregisteret skal det opplyses om at selskapet har mottatt aksjeinnskuddene. Dette skal bekreftes av revisor. Skal aksjeinnskuddene utelukkende gjøres opp i penger, kan bekreftelsen også gis av et finansforetak i Norge eller i en EØS-stat, en advokat eller en statsautorisert regnskapsfører.
+(3) Er selskapet ikke meldt til Foretaksregisteret innen fristens utløp, kan registrering ikke finne sted. Forpliktelser etter stiftelsesdokumentet er da ikke lenger bindende. Det samme gjelder om registreringen nektes på grunn av feil som ikke kan rettes.

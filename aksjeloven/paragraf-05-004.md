@@ -1,0 +1,3 @@
+# § 5-4. Ledelsens rett og plikt til å delta på generalforsamlingen
+(1) Holdes generalforsamlingen som møte, skal styrelederen og daglig leder delta. Blir generalforsamlingen holdt som fysisk møte, skal styrelederen og daglig leder delta fysisk. Ved gyldig forfall skal det utpekes en stedfortreder. Dersom samtlige aksjeeiere samtykker, kan det gjøres unntak fra første til tredje punktum. Andre styremedlemmer kan delta på generalforsamlingen når generalforsamlingen holdes som møte. Blir generalforsamlingen holdt som fysisk møte, kan slike styremedlemmer delta elektronisk.
+(2) Styremedlemmene og daglig leder har rett til å uttale seg på generalforsamlingen.

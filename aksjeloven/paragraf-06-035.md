@@ -1,0 +1,4 @@
+# § 6-35. Bedriftsforsamling
+(1) I selskaper med flere enn 200 ansatte skal det velges en bedriftsforsamling på 12 medlemmer eller et høyere antall, delelig med tre, som fastsettes av generalforsamlingen. Bestemmelsene om bedriftsforsamling i lov om allmennaksjeselskaper gjelder tilsvarende.
+(2) Det kan avtales mellom selskapet og et flertall av de ansatte eller lokale fagforeninger som representerer et flertall av de ansatte, at selskapet ikke skal ha bedriftsforsamling, jf. § 6-4 tredje ledd. Kongen kan gi nærmere regler om inngåelse av en slik avtale og avtalens innhold. Bestemmelsene om slik avtale i lov om allmennaksjeselskaper gjelder tilsvarende.
+(3) Det kan bestemmes i vedtektene at selskapet skal ha bedriftsforsamling selv om vilkårene i første ledd ikke foreligger. Bestemmelsene om bedriftsforsamlingen i lov om allmennaksjeselskaper gjelder i så fall tilsvarende, hvis ikke vedtektene fastsetter noe annet.

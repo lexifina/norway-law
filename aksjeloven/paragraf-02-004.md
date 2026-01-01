@@ -1,0 +1,7 @@
+# § 2-4. Bestemmelser om særskilte rettigheter
+(1) Stiftelsesdokumentet skal inneholde enhver avtale eller annen bestemmelse om
+1) at aksjer skal kunne tegnes med rett eller plikt til å gjøre innskudd med andre eiendeler enn penger, at innskuddet skal kunne gjøres opp ved motregning, eller at aksjer skal kunne tegnes på andre særlige vilkår. Det skal i så fall angis hvilke eiendeler det gjelder, innskyternes navn og adresse, hvor mange aksjer selskapet skal yte for innskuddet, og hvilke vilkår som skal gjelde;
+2) at selskapet skal overta andre eiendeler enn penger mot vederlag i annet enn aksjer. Det skal i så fall angis hvilke eiendeler det gjelder, overdragerens navn og adresse, det vederlaget som selskapet skal yte, og hvilke vilkår som skal gjelde;
+3) at selskapet skal bli part i en avtale, eller at noen skal ha særskilte rettigheter overfor eller fordeler av selskapet. I så fall skal det angis hvilke vilkår som skal gjelde, og navn og adresse på den som er tilgodesett.
+(2) I stedet for å innta avtalen eller bestemmelsen i stiftelsesdokumentet, kan det i stiftelsesdokumentet henvises til avtalen eller bestemmelsen eller til redegjørelse etter § 2-6. I så fall skal hovedpunktene i avtalen eller redegjørelsen gjengis i stiftelsesdokumentet, og avtalen skal vedlegges stiftelsesdokumentet.
+(3) En avtale eller bestemmelse som ikke er tatt inn i stiftelsesdokumentet etter første ledd eller gjengitt i stiftelsesdokumentet etter annet ledd, kan ikke gjøres gjeldende mot selskapet.
