@@ -1,0 +1,4 @@
+# § 2-11 a. Informasjonsutveksling mellom tilsynsorganer
+Et tilsynsorgan som fører tilsyn med bestemmelser som gjennomfører direktiv 2010/13/EU, skal gi tilsynsorganer i andre EØS-stater og EFTAs overvåkingsorgan opplysninger som er nødvendige for anvendelsen av direktiv 2010/13/EU.
+Dersom Medietilsynet mottar opplysninger fra en tilbyder av fjernsyn eller audiovisuell bestillingstjeneste som hører under norsk jurisdiksjon om at tilbyderen vil levere en tjeneste som helt eller hovedsakelig er rettet mot publikum i en annen EØS-stat, skal Medietilsynet underrette tilsynsorganet i den andre EØS-staten om dette.
+Dersom et tilsynsorgan i en annen EØS-stat sender en anmodning til et tilsynsorgan om aktivitetene til en tjenestetilbyder under norsk jurisdiksjon som retter tjenester mot vedkommende stat, skal tilsynsorganet som utgangspunkt ta stilling til anmodningen innen to måneder.

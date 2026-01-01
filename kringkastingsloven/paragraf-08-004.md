@@ -1,0 +1,5 @@
+# § 8-4. Panterett for og inndriving av avgifter m.m.
+Forfalt kringkastingsavgift og tilleggsavgift er sikret ved panterett i kringkastingsmottakeren og tilbehør eller deler til den. Panteretten går foran alle andre rettigheter i tingen selv om den overdras til ny eier, likevel slik at lov av 2. juni 1978 nr. 37 om godtroerverv av løsøre kommer til anvendelse. Faller panteretten bort i medhold av loven om godtroerverv av løsøre, overføres panteretten til ny mottaker m.v. som skyldneren erverver. Denne panteretten står likevel tilbake for gyldig salgspant.
+Foruten tvangsgrunnlag for tvangssalg etter tvangsfullbyrdelsesloven kapittel 8 er forfalt pantekrav tvangsgrunnlag for utlevering etter tvangsfullbyrdelsesloven kapittel 13. Mottakeren m.m. kan i så fall selges til dekning av pantekravet på den måte som bestemmes i forskrift gitt av Kongen.
+Kringkastingsavgift og tilleggsavgift er for øvrig tvangsgrunnlag for utlegg.
+Krav som nevnt i tredje ledd innkreves av Innkrevingsmyndigheten med mindre departementet bestemmer annet.

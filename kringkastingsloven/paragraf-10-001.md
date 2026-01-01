@@ -1,0 +1,4 @@
+# § 10-1. Straff
+Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller uaktsomt grovt eller gjentatte ganger overtrer bestemmelsene i § 2-1 første eller tredje ledd, § 2-4, § 3-1 andre ledd, § 4-5 første ledd bokstav b og d, og kapittel 9 eller forskrift eller enkeltvedtak gitt med hjemmel i disse bestemmelser.
+Er overtredelsen foretatt for å fremme virksomhetens interesser eller virksomheten har hatt fordel av overtredelsen bør det betraktes som en skjerpende omstendighet ved straffeutmålingen etter første ledd.
+Overtredelse av bestemmelser gitt i eller i medhold av kapittel 9, jf. § 10-1 første ledd, kan straffes uten hinder av de begrensninger som følger av straffeloven §§ 4-8 og straffeprosessloven § 65 nr. 5 Men bare den som er statsborger eller hjemmehørende i Norge, Danmark, Finland eller Sverige kan straffes for overtredelse av forskrift gitt med hjemmel i § 9-3.
