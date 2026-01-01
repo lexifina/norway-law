@@ -1,0 +1,2 @@
+# § 4a. Adresse for korrespondanse
+Dersom ikke annet er angitt i søknaden, er adressen til sortseieren som oppgis etter § 4 bokstav a adresse for meddelelser og forkynnelser m.m. etter lov 12. mars 1993 nr. 32 om planteforedlerrett § 27. Har sortseieren oppnevnt fullmektig, er fullmektigens adresse slik adresse så langt som fullmakten rekker. Er det flere sortseiere eller fullmektiger, og ikke annet er angitt, er adressen til den som er nevnt først adresse for korrespondanse. Sortseier kan når som helst melde inn ny adresse for korrespondanse.

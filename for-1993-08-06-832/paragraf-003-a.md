@@ -1,0 +1,4 @@
+# § 3a
+Krav om anmerkning i plantesortsregisteret og i journalen over innkomne søknader som nevnt i planteforedlerloven § 26 annet ledd fjerde punktum, jf. patentloven § 44, skal være skriftlig og sendes til Plantesortsnemnda per post. Med kravet skal følge dokumentasjon for det som kreves anmerket.
+Plantesortsnemnda fører en egen journal over krav om anmerkninger i registeret og i journalen over innkomne søknader.
+Krav om anmerkning som kommer inn til Plantesortsnemnda innen kl. 14.00 en virkedag, innføres i registeret eller i journalen over innkomne søknader under den datoen kravet er kommet inn. Når kontortiden er slutt før kl. 14.00, må kravet være innkommet innen kontortidens slutt for at det skal innføres under datoen kravet er kommet inn. Krav som innkommer senere enn nevnt i første eller annet punktum, innføres under neste virkedag.
