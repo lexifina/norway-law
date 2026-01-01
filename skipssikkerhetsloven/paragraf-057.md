@@ -1,0 +1,3 @@
+# § 57. Inndrivelse av overtredelsesgebyr
+Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
+For å sikre betaling av overtredelsesgebyr etter §§ 55 og 56 som rederiet, arbeidsgiveren, skipsføreren eller andre som har sitt arbeid om bord, er eller antas å ville bli ilagt, kan tilsynsmyndigheten forby skipet å forlate havn, pålegge det å gå til havn eller fastsette andre nødvendige tiltak inntil overtredelsesgebyret er betalt, eller det er stilt tilstrekkelig sikkerhet for beløpet. Tilsynsmyndigheten kan kreve at før tiltak etter første punktum avsluttes, skal rederiet stille tilstrekkelig sikkerhet for eller betale utgiftene ved tiltaket.

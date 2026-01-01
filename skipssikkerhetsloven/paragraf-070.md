@@ -1,0 +1,3 @@
+# § 70. Inndrivelse av bot eller foretaksstraff
+For å sikre betaling av bot etter dette kapitlet eller foretaksstraff etter straffeloven § 27 som rederiet, skipsføreren eller andre som har sitt arbeid om bord er eller antas å ville bli ilagt, kan retten etter begjæring fra påtalemyndigheten beslutte å forby skipet å forlate havn, pålegge det å gå til havn eller fastsette andre nødvendige tiltak, inntil boten eller foretaksstraffen er betalt eller det er stilt tilstrekkelig sikkerhet for beløpet.
+Etter begjæring fra påtalemyndigheten, kan retten også beslutte at rederiet skal stille tilstrekkelig sikkerhet for eller betale utgiftene som er forbundet med tiltak som fastsettes etter første ledd før tiltaket avsluttes.
