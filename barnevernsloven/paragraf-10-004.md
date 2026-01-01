@@ -1,4 +1,3 @@
-# § 10-4. Forebygging av tvangsbruk og andre inngrep i personlig integritet
-Institusjonen skal arbeide systematisk for å forebygge tvang og andre inngrep i barns personlige integritet.
-Institusjonen skal gjennomgå bruk av tvang og andre inngrep sammen med barnet så snart som mulig etter at tiltaket er avsluttet.
-Departementet kan gi forskrift om nærmere regler om systematisk forebygging av tvang og andre inngrep.
+# § 10-4. Trygghet og trivsel på barnevernsinstitusjonen
+Hvis det er nødvendig for å ivareta trygghet og trivsel for andre på barnevernsinstitusjonen, kan institusjonen sette tilsvarende grenser for barnet som nevnt i § 10-3 første ledd. Hvis det er åpenbart nødvendig for å ivareta trygghet og trivsel for andre på institusjonen, kan institusjonen benytte milde former for fysisk makt som nevnt i § 10-3 tredje ledd.
+Departementet kan gi forskrift om gjennomføring av grensesetting etter denne bestemmelsen.

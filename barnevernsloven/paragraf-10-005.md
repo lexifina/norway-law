@@ -1,2 +1,4 @@
-# § 10-5. Forbud mot fysisk og psykisk tvang og makt
-Det er ikke tillatt å tvangsmedisinere, isolere, bruke mekaniske tvangsmidler eller annen psykisk eller fysisk tvang eller makt for å straffe barn eller for å gi barnet omsorg eller behandling. Enkelte former for fysisk tvang og makt kan likevel benyttes etter §§ 10-3 og 10-7.
+# § 10-5. Forebygging av bruk av fysisk makt og inngrep i barnets rettigheter
+Barnevernsinstitusjonen skal arbeide systematisk for å forebygge bruk av fysisk makt og inngrep i barnets rettigheter.
+Institusjonen skal gjennomgå bruk av fysisk makt og inngrep i barnets rettigheter sammen med barnet så snart som mulig etter at tiltaket er avsluttet.
+Departementet kan gi forskrift om nærmere regler om systematisk forebygging etter denne bestemmelsen.

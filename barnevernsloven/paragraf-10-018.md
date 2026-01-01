@@ -1,2 +1,7 @@
-# § 10-18. Kartlegging under opphold på barnevernsinstitusjon
-Barnevernsinstitusjonen kan kartlegge barnets behov under oppholdet. Formålet med kartleggingen skal være å tilrettelegge tilbudet for det enkelte barnet.
+# § 10-18. Krav til bemanning og kompetanse i barnevernsinstitusjon
+Barnevernsinstitusjonen skal til enhver tid ha forsvarlig bemanning og kompetanse. Institusjonen skal ha en stillingsplan som sikrer en faglig forsvarlig drift. Institusjonen skal ha ansatte med tilstrekkelig nivå og bredde i kompetansen ut fra institusjonens målgruppe og målsetting.
+Institusjonen skal ha en arbeidstidsordning som sikrer kontinuitet og stabilitet for barna. Faglig personell som ansettes i en institusjon, skal ha relevant bachelorutdanning. Barne-, ungdoms- og familieetaten kan i særlige tilfeller gi unntak fra dette kravet.
+Institusjonen kan også ansette faglig personell som kan dokumentere minst tre års arbeidserfaring fra barnevernsinstitusjon, andre barnevernstiltak med døgnbemanning eller andre tilsvarende omsorgstiltak etter annet lov- og regelverk.
+Institusjonen kan også ansette studenter under relevant bachelorutdanning, med vilkår om at utdanningen fullføres. Institusjonen og studenten avtaler lengde på ansettelsen ut fra omfanget av stillingen og hvor langt studenten har kommet i utdanningsløpet. Dersom utdanningen ikke fullføres innen avtalt tid, gjelder reglene om avslutning av midlertidig stilling i arbeidsmiljøloven § 14-9 femte ledd.
+Institusjonen skal ha en leder og en stedfortreder for lederen. Fra 1. januar 2031 skal disse ha barnevernsfaglig mastergrad eller annen relevant utdanning på tilsvarende nivå. Kompetansekravet er oppfylt også for ledere og stedfortredende ledere som har relevant bachelorutdanning, og som innen 1. januar 2031 har gjennomført relevant videreutdanning med minst 30 studiepoeng.
+Institusjonen skal sørge for at de ansatte får nødvendig faglig veiledning og opplæring.

@@ -1,0 +1,2 @@
+# § 8-7. Oppfølging av barn og foreldre etter vedtak om oppheving av vedtak om omsorgsovertakelse
+Etter at barneverns- og helsenemnda har truffet vedtak om oppheving av vedtak om omsorgsovertakelse, skal barnevernstjenesten tilby barn og foreldre oppfølging i opptil seks måneder. Ved samtykke skal barnevernstjenesten som en del av oppfølgingen formidle kontakt med øvrige hjelpeinstanser. Barnevernstjenesten skal utarbeide en plan for oppfølgingen.

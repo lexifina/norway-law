@@ -1,3 +1,3 @@
-# § 10-6. Generelle vilkår for tvang og andre inngrep i barns personlige integritet
-Barn skal ikke utsettes for tvang eller andre inngrep i deres personlige integritet med mindre det etter en helhetsvurdering er nødvendig i situasjonen. Andre mindre inngripende tiltak skal være forsøkt eller vurdert som utilstrekkelige. Tiltaket må være egnet til å oppnå formålet og stå i rimelig forhold til de interesser som skal ivaretas.
-Tiltaket skal gjennomføres på en så skånsom måte som mulig og ikke opprettholdes lenger enn nødvendig.
+# § 10-6. Vilkår for og omfanget av grensesetting og inngrep
+Før det settes grenser eller gjøres inngrep, skal andre mindre inngripende tiltak være forsøkt eller vurdert som utilstrekkelige. Tiltaket må være egnet til å oppnå formålet og stå i rimelig forhold til interessene som skal ivaretas. Tiltaket skal gjennomføres så skånsomt som mulig og ikke vare lenger enn nødvendig.
+Ved vurderingen av nødvendigheten og forholdsmessigheten skal barnevernsinstitusjonen vurdere det samlede omfanget og varigheten av grenser og inngrep overfor barnet. Det skal også legges vekt på om barnet bor alene.

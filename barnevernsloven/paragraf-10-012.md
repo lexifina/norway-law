@@ -1,4 +1,9 @@
-# § 10-12. Tilbakeføring ved rømming
-Hvis barnet forlater institusjonen uten tillatelse eller unnlater å komme tilbake til institusjonen etter fravær, skal institusjonen prøve å bringe barnet frivillig tilbake til institusjonen. Tilbakeføring skal om mulig skje i samarbeid med foreldre og barnevernstjenesten.
-Dersom vedtaket for oppholdet i institusjonen gir adgang til det etter §§ 4-2, 4-4, 4-5, 5-1, 6-2 og 6-6, kan barnevernstjenestens leder dersom det er nødvendig kreve bistand fra politiet til å bringe barnet tilbake til institusjonen mot sin vilje, jf. § 12-10.
-Departementet kan gi forskrift om varsling av barnevernstjeneste og politi, og om samarbeid med andre instanser ved rømming og tilbakeføring.
+# § 10-12. Utvidet adgang til inngrep i barnets rettigheter
+Når barn er i barnevernsinstitusjon etter §§ 4-4, 6-1 eller 6-2 og det er nødvendig ut fra formålet med oppholdet, kan institusjonen treffe vedtak om inngrep
+a) i barnets bevegelsesfrihet innenfor og utenfor institusjonsområdet, herunder nekte barnet å forlate institusjonsområdet
+b) om å låse døren til institusjonen for barnet eller kreve at barnet har følge med institusjonsansatte utenfor institusjonen for å gjennomføre vedtak etter bokstav a
+c) i barnets rett til besøk, herunder nekte barnet besøk
+d) i barnets bruk av elektroniske kommunikasjonsmidler og tilgang til internett, herunder nekte bruk
+e) om å inndra elektroniske kommunikasjonsmidler dersom barnet ikke retter seg etter institusjonens vedtak om å nekte bruk etter bokstav d.
+Vedtak om inngrep i barnets bevegelsesfrihet og besøk etter første ledd kan treffes for inntil 14 dager om gangen. Vedtak om inngrep i bruk av et elektronisk kommunikasjonsmiddel og tilgang til internett etter første ledd bokstav d og e kan treffes for inntil fire uker fra barnet ankommer institusjonen, og deretter for maksimum 14 dager om gangen. Institusjonen må fortløpende vurdere om vedtaket skal opprettholdes.
+Departementet kan gi forskrift om gjennomføring av vedtak etter bestemmelsen.

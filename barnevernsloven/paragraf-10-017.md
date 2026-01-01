@@ -1,7 +1,5 @@
-# § 10-17. Godkjenning av barnevernsinstitusjoner
-Barne-, ungdoms- og familieetaten regionalt skal godkjenne barnevernsinstitusjoner.
-En barnevernsinstitusjon kan godkjennes bare dersom den drives i samsvar med denne loven med forskrifter og ellers drives på en forsvarlig måte. Godkjenningen skal gjelde for bestemte målgrupper.
-Barnevernsinstitusjoner kan bestå av flere institusjonsavdelinger. Dersom en institusjonsavdeling utfører selvstendige faglige og administrative oppgaver, må den ha egen godkjenning.
-Dersom institusjonen ikke lenger oppfyller vilkårene for godkjenning, skal det treffes vedtak om bortfall av godkjenning.
-Avgjørelser om godkjenning kan påklages til sentralt nivå i barne-, ungdoms- og familieetaten.
-Departementet kan gi forskrift om godkjenningsordningen, om regnskapsføring og om offentlige myndigheters innsyn i regnskapene.
+# § 10-17. Generelle krav til barnevernsinstitusjoner
+Enhver barnevernsinstitusjon skal være godkjent av barne-, ungdoms- og familieetaten.
+Institusjonen skal ha en definert målgruppe og et formulert mål for sin faglige virksomhet. Institusjonen skal anvende metoder som er faglig og etisk forsvarlige og tilpasset institusjonens målgrupper og målene for institusjonens virksomhet.
+Institusjonen skal ha en skriftlig plan for sin virksomhet. Institusjonen skal føre internkontroll for å sikre forsvarlig drift.
+Departementet kan gi forskrift om internkontroll og nærmere krav til kvalitet, bemanning og kompetanse i institusjonene.

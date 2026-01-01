@@ -1,5 +1,4 @@
-# § 10-22. Institusjoner med hjem
-Barnevernsinstitusjoner som skal ta mot barn etter § 6-1 eller § 6-2 kan omfatte institusjoner med hjem.
-Hjemmene må ha særlige forutsetninger for å ta imot barn med alvorlige adferdsvansker og må være knyttet opp mot en oppfølgingsenhet.
-Oppfølgingsenheten har ansvaret for oppfølgingen av hjemmene, herunder ansvaret for opplæring, behandling og veiledning.
-Departementet kan gi forskrifter om institusjoner med hjem.
+# § 10-22. Rettigheter og plikter under opphold i senter for foreldre og barn
+Sentre for foreldre og barn som tilbyr heldøgnstjenester, skal sørge for at familiene får et faglig forsvarlig tilbud. Senteret skal behandle familiene hensynsfullt og slik at den enkeltes integritet blir ivaretatt.
+Foreldre og barns rett til privatliv og familieliv, og foreldrenes rett til å ta beslutninger for barnet, skal respekteres under oppholdet så langt det er forenlig med formålet med oppholdet og senterets ansvar for trygghet og trivsel for alle på senteret.
+Departementet kan gi forskrift om barns og foreldres rettigheter og plikter under opphold i sentre for foreldre og barn.

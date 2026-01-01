@@ -1,0 +1,2 @@
+# § 13-5 a. Informasjonsplikt til statsforvalteren
+Barnevernstjenesten i omsorgskommunen skal snarest mulig informere statsforvalteren om dødsfall, livstruende hendelser og seksuelle overgrep som involverer barn som har barnevernstiltak utenfor hjemmet. Informasjonsplikten gjelder også for barnevernsinstitusjoner, omsorgssentrene, senter for foreldre og barn og kommunale botiltak med døgnbemanning når barnet har opphold der. Barne-, ungdoms- og familieetaten plikter å informere statsforvalteren når barnet har opphold i omsorgssenter.

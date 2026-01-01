@@ -1,1 +1,1 @@
-# Kapittel 10. Barnevernsinstitusjoner m.m.
+# Kapittel 10 Barnevernsinstitusjoner m.m.

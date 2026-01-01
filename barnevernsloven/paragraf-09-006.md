@@ -1,3 +1,4 @@
 # § 9-6. Oppfølging av barn i fosterhjem og oppfølging av fosterfamilien
-Barnevernstjenesten i omsorgskommunen har ansvar for å følge opp barnet i fosterhjemmet, jf. kapittel 8.
-Barnevernstjenesten i omsorgskommunen har ansvar for å følge opp fosterfamilien så lenge barnet er i fosterhjemmet. Barne-, ungdoms- og familieetaten har ansvaret for å følge opp fosterhjem som etaten tilbyr, jf. § 16-3 annet ledd bokstav a og c.
+Barnevernstjenesten i omsorgskommunen har ansvar for å følge opp barnet i fosterhjemmet, jf. kapittel 8. Barnevernstjenesten kan tilby støttehjem som del av oppfølgingen av barnet og fosterfamilien.
+Barnevernstjenesten i omsorgskommunen har ansvar for å følge opp fosterfamilien så lenge barnet bor i fosterhjemmet, og skal gi godtgjøring og utgiftsdekning til fosterforeldrene. Barnevernstjenesten skal også gi fosterforeldre godtgjøring for å kompensere for manglende opptjening av tjenestepensjon, når de på grunn av fosterhjemsoppdraget helt eller delvis ikke er i annet arbeid.
+Barne-, ungdoms- og familieetaten skal ivareta ansvaret etter første ledd annet punktum og annet ledd for fosterhjem som etaten tilbyr, jf. § 16-3 annet ledd bokstav a og c.

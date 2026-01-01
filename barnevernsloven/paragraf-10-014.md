@@ -1,6 +1,4 @@
-# § 10-14. Saksbehandling og klage
-Avgjørelser om bruk av tvang eller inngrep i barnets personlige integritet etter §§ 10-7, 10-8, 10-9 og 10-11 er enkeltvedtak. Avgjørelsene skal i tillegg protokollføres, sendes barnevernstjenesten og forelegges statsforvalteren.
-Avgjørelser om rusmiddeltesting etter § 10-10 skal protokollføres og begrunnes. Protokollen skal sendes barnevernstjenesten og forelegges statsforvalteren. Tilbakeføring etter § 10-12 første ledd skal dokumenteres. Tilbakeføring mot barnets vilje etter § 10-12 annet ledd skal i tillegg protokollføres og begrunnes. Protokollen skal sendes barnevernstjenesten og forelegges statsforvalteren.
-Barnet og foreldrene kan klage direkte til statsforvalteren på enkeltvedtak og brudd på bestemmelser i kapittel 10 om rettigheter og bruk av tvang på institusjon. Statsforvalteren skal også behandle andre muntlige og skriftlige henvendelser fra barnet og foreldrene om andre forhold som gjelder oppholdet på institusjonen.
-Klager behandles etter reglene i forvaltningsloven og statsforvalteren kan prøve alle sider av saken. Institusjonen skal informere barnet og foreldrene om adgangen til å klage. Hvis barnet ønsker det, skal institusjonen bistå med å utforme og oversende klager.
-Departementet kan gi forskrift om saksbehandling og klagebehandling ved institusjonsopphold.
+# § 10-14. Tilbakeføring til barnevernsinstitusjon
+Hvis barnet forlater barnevernsinstitusjonen uten tillatelse eller unnlater å komme tilbake til institusjonen etter fravær, skal institusjonen prøve å bringe barnet frivillig tilbake til institusjonen. Tilbakeføringen skal om mulig skje i samarbeid med foreldre og barnevernstjenesten.
+Dersom vedtaket for oppholdet i institusjonen gir adgang til det etter §§ 4-2, 4-4, 4-5, 5-1, 6-2 og 6-6, kan barnevernstjenestens leder dersom det er nødvendig, kreve bistand fra politiet til å bringe barnet tilbake til institusjonen mot sin vilje, jf. § 12-10.
+Departementet kan gi forskrift om varsling av barnevernstjeneste og politi, og om samarbeid med andre instanser ved fravær og tilbakeføring til institusjon.

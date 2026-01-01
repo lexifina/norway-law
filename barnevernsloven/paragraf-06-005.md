@@ -1,5 +1,5 @@
 # § 6-5. Informasjon til fornærmede eller etterlatte
-Er det truffet vedtak om informasjon til fornærmede eller etterlatte etter § 6-4, skal institusjonen gi informasjon om plasseringen og varigheten av denne, institusjonens beliggenhet og annen nødvendig informasjon om institusjonsoppholdet.
+Er det truffet vedtak om informasjon til fornærmede eller etterlatte etter § 6-4, skal institusjonen gi informasjon om at barnet oppholder seg i institusjon, og varigheten av oppholdet, institusjonens beliggenhet og annen nødvendig informasjon om institusjonsoppholdet.
 Institusjonen skal informere fornærmede eller etterlatte som har fått informasjon etter første ledd om barnets fravær fra institusjonen dersom følgende vilkår er oppfylt:
 a) det er sannsynlig at barnet og fornærmede eller etterlatte vil kunne møte hverandre
 b) det antas å ha betydning for fornærmede eller etterlatte å få informasjonen.
