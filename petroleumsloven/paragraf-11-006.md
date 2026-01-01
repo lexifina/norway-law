@@ -1,0 +1,3 @@
+# § 11-6. Styrets oppgaver
+Styret skal sørge for at deltakerandelene blir undergitt forsvarlig forvaltning i samsvar med forretningsmessige prinsipper og fastsatte bevilgninger og fullmakter til selskapet og den virksomhet det forvalter. Styret skal også vurdere sammensetningen av porteføljen av deltakerandeler og eventuelt fremme forslag til generalforsamlingen om mulige endringer.
+Styret kan engasjere forretningsførere til å utføre forvalteroppgavene i det enkelte interessentskap. Styret kan også engasjere særskilte forretningsførere for avgrensede forretningsområder. Styret skal sørge for tilfredsstillende tilsyn med utførelsen av de arbeidsoppgaver som overlates til forretningsførere.

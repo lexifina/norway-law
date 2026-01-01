@@ -1,0 +1,5 @@
+# § 10-10. Undersøkelseskommisjon
+Har det skjedd en alvorlig ulykke i forbindelse med petroleumsvirksomhet som omfattes av denne lov, kan departementet nedsette en særskilt undersøkelseskommisjon. Tilsvarende gjelder for hendelser i virksomheten som har medført alvorlig fare for tap av liv eller større materiell skade eller forurensning av det marine miljø. Kommisjonens medlemmer skal representere tilstrekkelig juridisk, nautisk og teknisk sakkyndighet. Formannen skal fylle vilkårene for å være høyesterettsdommer.
+Undersøkelseskommisjonen kan kreve at rettighetshaver og andre som er engasjert i ulykken eller hendelsen gir kommisjonen opplysninger som kan være av betydning for undersøkelsen og at de stiller til disposisjon dokumenter, innretninger og andre ting på et sted hvor det er hensiktsmessig at undersøkelsen foretas.
+Utgifter i forbindelse med undersøkelseskommisjonens arbeid kan kreves dekket av rettighetshaver.
+Reglene i sjøloven om undersøkelse av sjøulykker og forskrifter gitt med hjemmel i sjøloven kapittel 18 II gjelder tilsvarende så langt de passer.

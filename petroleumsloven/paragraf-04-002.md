@@ -1,0 +1,8 @@
+# § 4-2. Plan for utbygging og drift av petroleumsforekomster
+Beslutter rettighetshaver å bygge ut en petroleumsforekomst, skal rettighetshaver forelegge for departementet til godkjennelse en plan for utbygging og drift av petroleumsforekomsten.
+Planen skal inneholde en beskrivelse av økonomiske, ressursmessige, tekniske, sikkerhetsmessige, nærings- og miljømessige forhold samt opplysninger om hvordan en innretning vil kunne disponeres ved avslutning av petroleumsvirksomheten. Planen skal også inneholde opplysninger om innretninger for transport eller utnyttelse som omfattes av § 4-3. I tilfelle en innretning skal plasseres på territoriet, skal planen dessuten gi opplysninger om hvilke tillatelser m.v. som det er søkt om etter ellers gjeldende lovgivning.
+Departementet kan når særlige grunner tilsier det, kreve at rettighetshaver foretar en nærmere redegjørelse for de miljømessige virkninger, mulig fare for forurensninger samt virkninger for andre berørte virksomheter for et større samlet område.
+Planlegges utbygging i to eller flere trinn, skal planen så vidt mulig omfatte den samlede utbygging. Departementet kan avgrense godkjennelsen til å gjelde enkelte trinn.
+Vesentlige kontraktsmessige forpliktelser må ikke inngås eller byggearbeider påbegynnes før plan for utbygging og drift er godkjent, med mindre departementet samtykker i dette.
+Departementet kan etter søknad fra rettighetshaver frafalle krav om plan for utbygging og drift.
+Departementet skal underrettes om og godkjenne vesentlig avvik eller endring av forutsetningene for fremlagt eller godkjent plan og vesentlige endringer av innretninger. Departementet kan kreve fremlagt ny eller endret plan for godkjennelse.

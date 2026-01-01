@@ -1,0 +1,3 @@
+# § 11-1. Statens deltakelse i petroleumsvirksomhet
+Staten deltar i petroleumsvirksomhet etter denne lov ved at staten forbeholder seg en fastsatt andel i tillatelse gitt i medhold av denne lov og i det interessentskap som opprettes ved samarbeidsavtale i henhold til tillatelsen.
+Kongen kan bestemme at staten skal delta i virksomhet etter loven her på annen måte enn nevnt i første ledd, og at staten skal delta i annen virksomhet som har tilknytning til virksomhet etter loven her. I så fall gjelder bestemmelsene i kapitlet her tilsvarende så langt de passer, med mindre annet er særskilt fastsatt av Kongen.

@@ -1,0 +1,3 @@
+# § 7-1. Definisjon
+Med forurensningsskade menes skade eller tap som skyldes forurensning som følge av utstrømming eller utslipp av petroleum fra en innretning, herunder brønn, og utgifter til rimelige tiltak for å avverge eller begrense slik skade eller slikt tap samt skade eller tap som slike tiltak medfører. Som forurensningsskade regnes også skade eller tap som en fisker har lidt på grunn av reduserte fiskemuligheter.
+Skip som brukes stasjonært til boring anses som innretning. Skip som brukes til lagring av petroleum i forbindelse med produksjonsanlegg, anses som en del av innretningen. Det samme gjelder skip for transport av petroleum i den tid lasting fra innretningen pågår.

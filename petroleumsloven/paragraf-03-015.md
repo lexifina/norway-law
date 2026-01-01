@@ -1,0 +1,2 @@
+# § 3-15. Oppgivelse av en utvinningstillatelse
+Rettighetshaver kan i perioden nevnt i § 3-9 første ledd oppgi utvinningstillatelsen i sin helhet med 3 måneders varsel. Deretter kan oppgivelse skje ved utløpet av hvert kalenderår, såfremt varsel om oppgivelse er gitt minst 3 måneder i forveien. Departementet kan kreve at forpliktelsene som følger av utvinningstillatelsen og vilkårene for denne skal være oppfylt før oppgivelse.

@@ -1,0 +1,2 @@
+# § 4-1. Forsvarlig utvinning
+Utvinning av petroleum skal foregå på en slik måte at mest mulig av den petroleum som finnes i hver enkelt petroleumsforekomst, eller i flere petroleumsforekomster sammen, blir produsert. Utvinningen skal skje i samsvar med forsvarlige tekniske og sunne økonomiske prinsipper og slik at øding av petroleum eller reservoarenergi unngås. For å oppnå dette, skal rettighetshaver fortløpende vurdere utvinningsstrategi og tekniske løsninger og iverksette nødvendige tiltak.

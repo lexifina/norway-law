@@ -1,0 +1,7 @@
+# § 1-4. Virkeområde
+Loven kommer til anvendelse på petroleumsvirksomhet knyttet til undersjøiske petroleumsforekomster underlagt norsk jurisdiksjon. Loven gjelder også petroleumsvirksomhet i og utenfor riket og norsk kontinentalsokkel når det følger av folkeretten eller av overenskomst med fremmed stat.
+Loven gjelder utnyttelse av utvunnet petroleum som foregår på norsk landterritorium eller sjøgrunn underlagt privat eiendomsrett, kun når slik utnyttelse er nødvendig for eller utgjør en integrert del av utvinning eller transport av petroleum.
+Når en rørledning i norsk indre farvann, på norsk sjøterritorium eller kontinentalsokkelen begynner på område utenfor norsk jurisdiksjon, kan Kongen i den utstrekning det følger av folkeretten, bestemme hvilke regler i denne lov som skal gjelde for slik rørledning med tilbehør.
+For erstatningsansvar for forurensningsskade etter kapittel 7 og skade som følge av forurensning og avfall etter kapittel 8, gjelder de særlige regler som er fastsatt der.
+Loven gjelder ikke på Svalbard, herunder dets indre farvann og sjøterritorium.
+Kongen kan ved forskrift gi nærmere regler til utfylling og avgrensning av bestemmelsene i denne paragraf, herunder om hvilken utnyttelse som anses nødvendig for eller utgjør en integrert del av utvinning eller transport av petroleum som nevnt i annet ledd. Kongen kan i tvilstilfelle bestemme om en innretning eller virksomhet omfattes av loven eller ikke.
