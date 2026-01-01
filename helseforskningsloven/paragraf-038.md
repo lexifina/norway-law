@@ -1,0 +1,4 @@
+# § 38. Forbud mot lagring av unødvendige helseopplysninger
+Opplysninger skal ikke oppbevares lenger enn det som er nødvendig for å gjennomføre prosjektet. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at dokumenter som er nødvendig for etterkontroll av prosjektet, skal oppbevares i fem år etter at sluttmelding er sendt komiteen. Hvis opplysninger ikke deretter skal oppbevares i henhold til arkivlova eller annen lovgivning, skal de anonymiseres eller slettes.
+Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at opplysningene skal oppbevares i lenger tid enn det som følger av første ledd. Til slikt vedtak kan knyttes vilkår.
+Departementet kan gi forskrift om oppbevaring av opplysninger etter at forskningsprosjektet er gjennomført.

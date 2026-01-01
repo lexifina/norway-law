@@ -1,0 +1,2 @@
+# § 48. Opplysningsplikt til tilsynsmyndighetene
+Den forskningsansvarlige, prosjektlederen og annet personell som er involvert i et forskningsprosjekt, skal gi tilsynsmyndighetene adgang til virksomhetens lokaler, og uten hinder av taushetsplikten gi og gjøre tilgjengelig for tilsynsmyndighetene alle opplysninger, dokumenter, materiale og lignende som anses påkrevd for utøvelsen av tilsyn med medisinsk og helsefaglig forskning.

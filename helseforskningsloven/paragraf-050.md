@@ -1,0 +1,6 @@
+# § 50. Erstatning
+For skade på mennesker som oppstår under medisinske forsøk, gjelder pasientskadelovens regler tilsvarende.
+Den forskningsansvarlige skal erstatte skader som er oppstått som følge av at humant biologisk materiale er behandlet i strid med bestemmelser gitt i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den forskningsansvarliges side. Erstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen av det humant biologiske materialet. Den forskningsansvarlige kan også pålegges å betale slik erstatning for skader av ikke-økonomisk art (oppreisning) som synes rimelig.
+Den dataansvarlige og databehandleren skal erstatte skader som er oppstått som følge av at helseopplysninger er behandlet i strid med personvernforordningen, jf. forordningen artikkel 82. Ansvaret gjelder tilsvarende ved behandling av helseopplysninger i strid med denne loven eller forskrifter gitt i medhold av loven.
+For forskningsansvarlige og dataansvarlige som er private, skal det ved forsikring stilles sikkerhet for det økonomiske ansvaret som kan oppstå etter andre og tredje ledd.
+Departementet kan i forskrift gi nærmere bestemmelser om plikten til forsikring.

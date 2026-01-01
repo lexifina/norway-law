@@ -1,0 +1,3 @@
+# § 54. Straff
+Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller bestemmelser gitt i medhold av den.
+Ved særdeles skjerpende omstendigheter kan fengsel inntil tre år idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for forskningsdeltakeren, den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om vedkommende tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.

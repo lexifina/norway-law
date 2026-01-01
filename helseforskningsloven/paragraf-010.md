@@ -1,0 +1,5 @@
+# § 10. Søknad om forhåndsgodkjenning
+Søknad om forhåndsgodkjenning av et forskningsprosjekt skal sammen med forskningsprotokollen sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
+Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal foreta en alminnelig forskningsetisk vurdering av prosjektet, og vurdere om prosjektet oppfyller kravene stilt i denne loven eller i medhold av denne loven. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for godkjenning, blant annet om tiltak for å verne de registrertes grunnleggende rettigheter og interesser.
+Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. forskningsetikkloven § 10 tredje ledd.
+Departementet kan gi forskrifter om krav til søknaden, om saksbehandlingsfrister for den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og om de nærmere vilkårene for forhåndsgodkjenning.

@@ -1,0 +1,4 @@
+# § 11. Søknad om å foreta vesentlige endringer av forskningsprosjektet
+Dersom prosjektleder ønsker å foreta vesentlige endringer i forskningsprosjektets formål, metode, tidsløp eller organisering, skal søknad sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk som har gitt forhåndsgodkjenning. Søknaden skal beskrive hvilke endringer som ønskes foretatt og begrunnelsen for disse.
+Den regionale komiteen for medisinsk og helsefaglig forskningsetikk avgjør om søknaden skal innvilges. Dersom endringene av prosjektet er så store at det må anses å være et helt nytt prosjekt, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk bestemme at det må søkes om forhåndsgodkjenning etter § 9, jf. § 10, på nytt.
+Departementet kan gi forskrifter om krav til saksbehandlingen og om saksbehandlingsfrister.
