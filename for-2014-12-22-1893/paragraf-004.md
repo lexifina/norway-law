@@ -1,0 +1,2 @@
+# § 4. Tilsyn med lasteskip og passasjerskip som skal overføres til et norsk skipsregister fra skipsregister i EØS-området
+EØS-avtalen vedlegg XIII nr. 56q (forordning (EF) nr. 789/2004) av 21. april 2004 om overføring av lasteskip og passasjerskip mellom skipsregistrene i EØS-området og om opphevelse av Rådets forordning (EØF) nr. 613/91 gjelder som forskrift, med de tilpasninger som følger av protokoll 1 til avtalen og avtalen for øvrig.

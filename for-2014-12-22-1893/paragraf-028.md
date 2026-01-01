@@ -1,0 +1,3 @@
+# § 28. Sertifikat for skip i oljevernberedskap
+(1) Skip som brukes i oljevernøvelser eller oljevernaksjoner skal i tillegg til sitt ordinære sertifikat eller fartøyinstruks ha sertifikat for skip i oljevernberedskap, med mindre tillatelsen til å gjøre slikt arbeid følger av det ordinære sertifikatet eller den ordinære fartøyinstruksen.
+(2) Sertifikat for skip i oljevernberedskap utstedes med samme utløpsdato som det ordinære sertifikatet eller den ordinære fartøyinstruksen. For skip som ikke har annet sertifikat, utstedes oljevernsertifikatet med varighet inntil 30 måneder etter avsluttet tilsyn.

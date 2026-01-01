@@ -1,0 +1,3 @@
+# § 5. Dokumentasjon ved begjæring om overføring til et norsk skipsregister
+(1) For skip eller flyttbare innretninger som verken tidligere har hatt norsk sertifikat eller omfattes av § 4, skal rederiet sammen med begjæringen sende opplysninger om redningsredskaper, stabilitet, brannsikrings- og brannslokkingsarrangement, innredningsarrangement og eventuelt slepe- og ankerhåndteringsutstyr som fremgår av fastsatt dokumentliste.
+(2) For fiskefartøy skal opplysningene i henhold til gjeldende dokumentliste, fastsatt av Sjøfartsdirektoratet, innsendes av rederiet til Sjøfartsdirektoratet eller til den direktoratet har bemyndiget.
