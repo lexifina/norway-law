@@ -1,0 +1,4 @@
+# § 17. Instrumentering for overvåking og registrering
+Innretninger skal utstyres med instrumentering for overvåking og registrering av tilstander og parametere som kan ha betydning for å verifisere resultatene fra analyser samt parametere som er av betydning for innretningens videre bruk.
+Innretninger skal i tillegg utstyres med instrumentering for registrering av data om naturforhold som kan ha betydning for petroleumsvirksomheten. Instrumentering for flyværtjeneste på innretninger skal oppfylle kravene i forskrift om flyværtjeneste på norsk kontinentalsokkel § 8.
+Den første innretningen av en ny type skal instrumenteres for å samle inn data for å verifisere beregningene. Faste referanseelektroder skal installeres på den første innretningen i områder der korrosjonsforholdene avviker fra områder en har erfaring med.
