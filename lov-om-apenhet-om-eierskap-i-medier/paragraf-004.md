@@ -1,0 +1,4 @@
+# § 4. Opplysningsplikt
+Enhver plikter å gi Medietilsynet de opplysninger tilsynet krever for å kunne utføre sine oppgaver etter loven. Opplysningsplikten omfatter både opplysninger om eierskap i norske medier og opplysninger om samarbeidsavtaler som gir en avtalepart tilsvarende innflytelse over det redaksjonelle produktet som eierskap. Opplysninger kan kreves gitt skriftlig eller muntlig innen en fastsatt frist.
+Opplysninger som kreves etter første ledd, kan gis uten hinder av den lovbestemte taushetsplikt som ellers påhviler skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet. Slik taushetsplikt er heller ikke til hinder for at dokumenter som befinner seg hos slike myndigheter, utleveres for gransking.
+Departementet kan gi forskrift om omfanget og gjennomføringen av opplysningsplikten.
