@@ -1,0 +1,5 @@
+# § 24. Systemansvarliges generelle rapporteringsplikt
+Systemansvarlig skal informere relevante aktører om forhold som er av betydning for utviklingen av et effektivt kraftmarked.
+Systemansvarlig skal informere konsesjonærene og systemansvarlige i andre land om forhold som er nødvendig for sikker drift, effektiv utnyttelse og utvikling av deres anlegg, samt om forhold som er av betydning for leveringskvaliteten i området.
+Systemansvarlig skal informere Reguleringsmyndigheten for energi om utviklingen av kraftsystemet og effekt- og energibalansen.
+Systemansvarlig skal rapportere til Reguleringsmyndigheten for energi ethvert betydelig tiltak som begrenser fornybar kraftproduksjon og som gjennomføres for å sikre tilfredsstillende drifts- og forsyningssikkerhet. Med fornybar kraftproduksjon menes produksjon av elektrisk energi basert på fornybare energikilder. Rapporteringen skal beskrive de faktiske forhold, samt angi mulige tiltak for å hindre uønsket reduksjon i fornybar kraftproduksjon.

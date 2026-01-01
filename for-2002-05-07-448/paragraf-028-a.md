@@ -1,0 +1,5 @@
+# § 28a. Retningslinjer
+Systemansvarlig skal utøve myndigheten som nevnt i denne forskrift i tråd med retningslinjer godkjent av Reguleringsmyndigheten for energi.
+Systemansvarlig skal utarbeide forslag til retningslinjer som sendes berørte aktører på høring. Forslaget sendes deretter til Reguleringsmyndigheten for energi for godkjenning sammen med en oppsummering av høringsuttalelsene. Godkjennelse kan nektes dersom Reguleringsmyndigheten for energi finner at retningslinjene ikke er hensiktsmessig utformet. Før iverksettelse skal berørte aktører varsles og gis en rimelig frist for å tilpasse seg de nye retningslinjene.
+Annet ledd gjelder tilsvarende ved endring av retningslinjene. Reguleringsmyndigheten for energi kan gi pålegg om endring av retningslinjene.
+Ved fastsettelse av systemkritiske vedtak kan retningslinjene fravikes dersom dette er nødvendig for å forhindre eller begrense konsekvensene av anstrengte driftssituasjoner eller driftsforstyrrelser. I slike tilfeller skal systemansvarlig i etterkant innen rimelig tid gi Reguleringsmyndigheten for energi og berørte aktører en skriftlig begrunnelse for vedtaket.

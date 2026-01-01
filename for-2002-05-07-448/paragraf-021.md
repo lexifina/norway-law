@@ -1,0 +1,7 @@
+# § 21. Systemvern
+Systemansvarlig kan kreve installasjon og drift av utstyr for automatiske inngrep i kraftsystemet for å unngå sammenbrudd eller for å øke overføringsgrenser i regional- og transmisjonsnettet (systemvern).
+Hendelsesstyrt systemvern som innebærer utkobling av sluttbrukere tilknyttet distribusjonsnett, kan kun benyttes som midlertidig tiltak.
+Systemansvarlig skal betale for kostnadene forbundet med systemvern etablert som følge av vedtak etter første ledd. Betalingen skal dekke kostnader ved installasjon, drift, vedlikehold og avinstallasjon av vern og sambandsløsninger.
+Når systemvern innebærer utkobling av produsenter eller sluttbrukere, skal også kostnader for utkoblingsobjektene som følge av aktivering og utløsning av vern dekkes. Ved utkobling av sluttbrukere skal systemansvarlig betale sluttbrukere i regional- og transmisjonsnett og berørt nettkonsesjonær ved utkobling av sluttbrukere i distribusjonsnett. Betalingen skal fastsettes med utgangspunkt i berørte sluttbrukeres avbruddskostnader jf. kapittel 9 i forskrift 11. mars 1999 nr. 302 om økonomisk og teknisk rapportering, inntektsramme for nettvirksomheten og tariffer. Systemansvarlig skal kun betale for utkobling i tidsrommet systemvernet var korrekt utløst.
+Systemansvarlig kan pålegge konsesjonær å aktivere, deaktivere eller endre innstillinger på systemvern etablert etter første ledd.
+Konsesjonær kan ikke installere, idriftsette, aktivere eller deaktivere systemvern i regional- og transmisjonsnettet uten etter vedtak av systemansvarlig.
