@@ -1,0 +1,4 @@
+# § 21. Stenging av fiskefelt ved fare for neddreping, innblanding m.m.
+Uten hensyn til bestemmelsene i §§ 19 og 20 kan Fiskeridirektoratet ved fare for neddreping, innblanding av norsk vårgytende sild under minstemål eller innblanding av torsk, hyse, sei og uer, i alle områder hvor det fiskes etter norsk vårgytende sild, stenge og gjenåpne områder for fiske i bestemte områder og til bestemte tider, og kan sette nærmere vilkår, herunder forby omsetning direkte fra notkast og anvise til fiske i andre områder.
+Tilsvarende kan Fiskeridirektoratet forby fiske med fartøy over 28 meter største lengde i nærmere avgrensede områder dersom det oppstår fare for redskapskollisjoner. Fiskeridirektoratet kan påby bruk av rist ved eventuell adgang til å fiske i stengte områder.
+Fiskeridirektoratets klagesaksenhet er klageinstans for vedtak truffet av Fiskeridirektoratet.

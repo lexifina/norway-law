@@ -1,0 +1,2 @@
+# § 2. Totalkvote
+Uten hinder av forbudet i § 1 kan norske fartøy med adgang til å delta, fiske og lande inntil 342 666 tonn norsk vårgytende sild i Norges territorialfarvann og økonomiske sone nord for 62° N, fiskerisonen ved Jan Mayen og internasjonalt farvann. Av dette kvantumet avsettes 890 tonn til forsknings- og undervisningskvote, 750 tonn til agn, 332 tonn til rekrutteringskvoter for fartøy i lukket kystgruppe og 200 tonn til rekrutteringskvotebonus for fartøy i åpen kystgruppe.
