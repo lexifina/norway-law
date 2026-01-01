@@ -1,0 +1,2 @@
+# § 38. Tilbakekall av produkt m.m.
+Dersom et produkt kan medføre en uakseptabel risiko for brann, eksplosjon eller annen ulykke eller for øvrig ikke tilfredsstiller kravene i § 26, kan tilsynsmyndigheten fatte vedtak om å tilbakekalle produktet fra brukere eller distributører. Den kan også stanse innførsel, produksjon, salg og markedsføring. Tilsynsmyndigheten kan selv iverksette slike tiltak og kreve kostnadene dekket av den som har fått pålegg om slike tiltak.

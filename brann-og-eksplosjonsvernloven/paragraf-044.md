@@ -1,0 +1,2 @@
+# § 44. Overgangsbestemmelser
+Forskrifter, vedtekter og andre bestemmelser gitt i medhold av lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk, lov 14. juni 1974 nr. 39 om eksplosive varer og lov 5. juni 1987 nr. 26 om brannvern m.v. gjelder inntil videre i den utstrekning de ikke strider mot loven her eller bestemmelser gitt i medhold av den. Det samme gjelder tillatelser, godkjenninger, samtykker m.m. så langt tilsynsmyndigheten aksepterer dette.

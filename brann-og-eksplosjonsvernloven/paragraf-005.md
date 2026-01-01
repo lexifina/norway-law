@@ -1,0 +1,6 @@
+# § 5. Den enkeltes plikt til å forebygge og begrense skadevirkningene ved brann, eksplosjon og annen ulykke
+Enhver plikter å vise alminnelig aktsomhet og opptre på en slik måte at brann, eksplosjon og annen ulykke forebygges.
+Enhver plikter ved brann, eksplosjon eller annen ulykke straks å underrette de som er utsatt for fare og ved behov varsle nødalarmeringssentral. Det samme gjelder ved overhengende fare for en slik hendelse.
+Enhver som oppholder seg nær en brann, eksplosjon eller annen ulykke plikter etter evne å gjøre det som er mulig for å begrense skadevirkningene.
+Enhver plikter å delta i brannvesenets rednings- og slokkearbeid når innsatsleder krever det, samt stille eiendom, bygninger, materiell og eventuelt personell til disposisjon for slik innsats. Det kan gjøres inngrep i den enkeltes materielle verdier dersom dette er nødvendig for å gjennomføre redningsinnsats eller begrense skade. Inngrep i privates eiendom kan likevel bare foretas dersom dette er nødvendig for å sikre liv eller verne verdier som er større enn det som går tapt eller står i fare for å gå tapt ved inngrepet.
+Departementet kan gi forskrifter om den enkeltes plikt til å forebygge og begrense skadevirkningene ved brann, eksplosjon og andre ulykker.

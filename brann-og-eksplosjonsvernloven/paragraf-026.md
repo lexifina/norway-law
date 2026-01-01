@@ -1,0 +1,4 @@
+# § 26. Formålstjenlige og betryggende produkter
+Produkter som benyttes ved håndtering av farlig stoff og farlig gods skal være utført slik at de er formålstjenlige og sikre. De skal til enhver tid være i slik stand at det ikke oppstår fare for brann, eksplosjon eller annen ulykke. Montering skal være utført fagmessig og betryggende.
+Produkter som benyttes ved deteksjon, varsling eller bekjempelse av brann, eksplosjon eller annen ulykke skal være formålstjenlige og betryggende utført og montert, og til enhver tid være i slik stand at de virker som forutsatt.
+Departementet kan gi forskrifter om krav til produkter og krav til den som prosjekterer, produserer, leverer, importerer eller markedsfører produkter, herunder krav om kvalitet og godkjenning av de stoffer som omfattes av loven, forbud mot eller påbud om bruk av produkter.

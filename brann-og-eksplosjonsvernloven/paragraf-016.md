@@ -1,0 +1,4 @@
+# § 16. Nødalarmeringssentral
+Sentral tilsynsmyndighet kan pålegge en kommune å etablere en nødalarmeringssentral for mottak av meldinger om branner og andre ulykker innen en fastsatt region som kan omfatte flere kommuner. De kommuner som omfattes av den fastsatte regionen plikter å knytte seg til nødalarmeringssentralen og med grunnlag i avtale bære sin andel av kostnadene ved etablering og drift av sentralen.
+Nødalarmeringssentralen skal bemannes, utrustes og opereres slik at den til enhver tid fyller behovet for mottak og registrering av nødmeldinger, alarmering av mannskaper og kommunikasjon med innsatsstyrkene og den som melder ulykken. Etablering og drift skal samordnes med øvrige nødalarmeringssentraler for helse og politi.
+Departementet kan gi forskrifter om etablering og drift av nødalarmeringssental for mottak av meldinger om branner, eksplosjoner og andre ulykker, herunder krav til personellets kvalifikasjoner.
