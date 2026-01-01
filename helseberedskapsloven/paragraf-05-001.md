@@ -1,0 +1,2 @@
+# § 5-1. Ansvars-, oppgave- og ressursfordeling
+Når betingelsene i § 1-5 er oppfylt, kan departementet pålegge en eller flere virksomheter som omfattes av loven å ta imot og å gi nødvendige helse- og omsorgstjenester eller sosiale tjenester til personer, uten hensyn til hvor disse bor eller oppholder seg. Departementet kan videre bestemme at en slik virksomhets ressurser innen helse- og omsorgstjenesten eller sosialtjenesten, herunder personellressurser, skal stilles til rådighet for en kommune, en fylkeskommune, et regionalt helseforetak eller staten.

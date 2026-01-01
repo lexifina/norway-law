@@ -1,0 +1,2 @@
+# § 6-3. Forholdet til forvaltningsloven
+Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker gjelder for behandling av saker etter denne lov, med mindre noe annet er bestemt i eller med hjemmel i lov. Under krig eller ved kriser eller katastrofer i fredstid kan forhåndsvarsel til sakens parter unnlates dersom forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Kongen kan bestemme at vedtak etter denne lov ikke kan kreves grunngitt og ikke skal kunne påklages under krig eller ved kriser eller katastrofer i fredstid.
