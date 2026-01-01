@@ -1,0 +1,3 @@
+# § 17. Teieplikt og innsynsrett hos Nasjonalarkivet
+Når råderetten over eit arkiv har gått over til Nasjonalarkivet etter § 14, gjeld teieplikta etter forvaltningsloven dersom det ikkje er fastsett i eller i medhald av lov at ei anna teieplikt skal gjelde. Dersom organet som har avlevert arkivet, var omfatta av ei mindre omfattande teieplikt enn det som gjeld etter forvaltningsloven, skal Nasjonalarkivet ha same høve til å gi innsyn.
+Retten til partsinnsyn, retten til innsyn etter offentleglova og andre særskilde lovfesta innsynsrettar gjeld òg etter at råderetten over eit arkiv går over til Nasjonalarkivet.
