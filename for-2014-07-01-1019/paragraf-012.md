@@ -1,0 +1,5 @@
+# § 12. Redningsdrakter og redningsvester
+Redningsvester for barn og spedbarn skal oppbevares atskilt fra redningsvester for voksne. Med barn menes personer som er 1 år eller eldre og som veier under 35 kg. Med spedbarn menes personer som er under 1 år og som veier under 15 kg.
+Passasjerskip som seiler i fartsområder nord for 30° N og sør for 30° S skal ha redningsvester med termisk isolering, eller termiske drakter i kombinasjon med redningsvest.
+Alle lasteskip uansett fartsområde som fører last i bulk og alle lasteskip som seiler i fartsområder nord for 30° N og sør for 30° S skal i tillegg til å oppfylle kravene i SOLAS regel III//32.3, ha redningsdrakter med termisk isolering til alle om bord.
+Alle passasjerskip skal ha redningsdrakt eller beskyttelsesdrakt til alle besetningsmedlemmer som har oppgaver knyttet til redningsfarkost eller marine evakueringssystemer. Drakten skal være av en type som har avtagbare hansker eller hansker som ikke er til hinder for å utføre nødvendig arbeide og betjene nødvendig utstyr i en nødssituasjon.

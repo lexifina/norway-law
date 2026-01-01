@@ -1,0 +1,3 @@
+# § 11. Livbøyer
+På lasteskip med bruttotonnasje under 300, som skal ha mer enn en livbøye, skal det være minst en livbøye på hver side av skipet. En av livbøyene skal ha redningsline på minst 30 meter og en av de andre livbøyene skal være utstyrt med selvtennende røyksignal og selvtennende lys. Øvrige livbøyer skal være utstyrt med selvtennende lys, men uten line.
+På passasjerskip med største lengde under 15 meter skal det være en livbøye på hver side av skipet. Den ene livbøyen skal være utstyrt med flytende redningsline på minst 30 meter, og den andre skal være med selvtennende lys og uten redningsline.
