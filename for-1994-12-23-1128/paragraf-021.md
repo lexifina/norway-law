@@ -1,0 +1,2 @@
+# § 21. Plikt til melding
+Når betalingspliktig fartøy ikke skal benytte los, skal føreren eller annen representant for fartøyet gi elektronisk melding om seilasen til Kystverket med angivelse av farledsbevis som skal benyttes, jf. § 11 og § 16 annet ledd. Meldingen skal gis i Kystverkets meldingssystem SafeSeaNet før seilas foretas. Meldingen skal inneholde tilstrekkelige opplysninger til at regning kan utferdiges.

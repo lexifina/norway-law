@@ -1,0 +1,2 @@
+# § 11. Administrasjonsavgift
+Hvis meldeplikten etter forskriftens § 21 ikke er overholdt kan fartøyet pålegges å dekke de kostnadene som oppsøkingen av fartøyet har påført Kystverket. Kystverket kan sette administrasjonsavgiften til samme beløp som utstedte avgift etter denne forskrift. For meldinger om seilas på farledsbevis hvor opplysning om farledsbevis som skal benyttes mangler, settes administrasjonsavgiften til kr 1 500,-.
