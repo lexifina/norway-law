@@ -1,0 +1,2 @@
+# § 10. Særlige regler for trålfiske etter reker sør for 62° N
+Det kan ikke tildeles strukturkvote av reker sør for 62 grader nord til et fartøy som har større lasteromsvolum enn 500 m3, på grunnlag av uttak av et fartøy med mindre lasteromsvolum enn 500 m3. Adgang til å delta i trålfisket etter reker sør for 62 grader nord kan i slike tilfeller heller ikke retildeles etter reglene i § 8 annet ledd.

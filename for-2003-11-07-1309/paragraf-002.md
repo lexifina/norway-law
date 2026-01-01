@@ -1,0 +1,2 @@
+# § 2. Formål
+Drifts- og strukturordningene har som formål å legge til rette for en positiv utvikling av de ulike fartøygruppene i kystflåten, ved å gjøre det mulig å utvide kvotegrunnlaget for det enkelte fartøy og derved legge opp en drift som sikrer virksomhet over en størst mulig del av året, og å legge til rette for spesialisering av driften og derved et mer lønnsomt driftsopplegg for det enkelte fartøy.

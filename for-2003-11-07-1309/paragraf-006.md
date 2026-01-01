@@ -1,0 +1,2 @@
+# § 6. Tildeling av særlig kvote ved tildeling av deltakeradgang
+Ved tildeling av deltakeradgang ved salg av fartøy for fortsatt drift, ved utskifting av fartøy eller til erstatning for tilsvarende deltakeradgang, faller kvote for deltakeradgang som er oppgitt etter § 4 annet ledd bokstav c bort. Det kan tildeles særlig kvote til erstatning for den bortfalte kvoten til fartøyet som tildeles deltakeradgang som nevnt i første ledd.
