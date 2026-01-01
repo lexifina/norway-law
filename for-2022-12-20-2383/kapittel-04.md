@@ -1,0 +1,1 @@
+# Kapittel 4. Bestemmelser om tilgjengeliggjøring på markedet av og fri bevegelse for delsystemer og sikkerhetskomponenter til taubaner for persontransport. Krav til utforming, bygging og ibruktaking av nye taubaneanlegg
