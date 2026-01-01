@@ -1,0 +1,6 @@
+# § 2-16. Byggegrunn, fundamenter, grunnmur, drenering og sikring mot vann og fuktighet
+Den bygningssakkyndige skal angi hva slags grunn boligen står på, dersom dette er kjent eller enkelt kan fastslås.
+Hvis fundamentene er synlige, skal den bygningssakkyndige se etter skader og skjevheter. Hvis fundamentene ikke er synlige, skal den bygningssakkyndige i stedet se etter riss, sprekker eller skader på grunnmuren.
+Den bygningssakkyndige skal se etter riss, sprekker og skader i grunnmuren. Hvis den bygningssakkyndige finner riss eller sprekker, skal det vurderes hva som kan være årsaken til dette og om det er behov for umiddelbare tiltak. Videre skal det undersøkes om avskallet puss har ført til at isolasjonen har blitt eksponert.
+Den bygningssakkyndige skal undersøke om drenering og sikring mot vann og fuktighet er tett eller skadet, eventuelt fra rom under terreng.
+Denne paragrafen gjelder ikke der byggegrunn, fundamenter, grunnmur, drenering og sikring mot vann og fuktighet er en del av flere boligers fellesareal. Paragrafen gjelder likevel hvis boligeieren har vedlikeholdsplikt for byggegrunnen eller bygningsdelene, eller hvis byggegrunnen eller bygningsdelene har en særlig nær tilknytning til den aktuelle boligen.

@@ -1,0 +1,3 @@
+# § 2-22. Resultatet av undersøkelsene. Anslag på utbedringskostnader
+Det skal fastsettes en tilstandsgrad for det enkelte rommet eller den enkelte bygningsdelen, jf. § 2-23, med mindre noe annet går frem av bestemmelsene i denne forskriften. Tilstandsgraden gir uttrykk for en gitt forventet tilstand blant annet vurdert ut fra alder og normal bruk (referansenivå).
+Hvis et rom eller en bygningsdel gis tilstandsgrad 2 eller 3, skal den bygningssakkyndige redegjøre for årsaken til og konsekvensen av dette. Den bygningssakkyndige skal også gi et sjablonmessig anslag på hva det vil koste å utbedre rom eller bygningsdeler som gis tilstandsgrad 3.

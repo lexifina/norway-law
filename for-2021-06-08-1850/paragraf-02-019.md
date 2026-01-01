@@ -1,0 +1,2 @@
+# § 2-19. Dokumentasjon på håndverkertjenester
+Dersom det har vært utført reparasjoner, vedlikehold, installasjoner, ombygging eller lignende i boligen de siste fem årene, og arbeidet er utført av kvalifiserte håndverkere, skal den bygningssakkyndige be eieren dokumentere bruken av kvalifiserte håndverkere. Som dokumentasjon regnes blant annet skriftlig bekreftelse fra den eller de håndverkerne som ble brukt.
