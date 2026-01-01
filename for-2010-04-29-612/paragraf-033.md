@@ -1,0 +1,4 @@
+# § 33. Nødavstengningssystem
+Landanlegg skal ha et nødavstengningssystem som kan hindre utvikling av fare- og ulykkessituasjoner og begrense konsekvensene av ulykker, jf. § 10. Systemet skal kunne utføre tiltenkte funksjoner uavhengig av andre systemer.
+Nødavstengningssystemet skal utformes slik at det går til eller forblir i en sikker tilstand dersom det oppstår en feil som kan hindre systemet i å virke. Nødavstengningssystemet skal ha en enkel og entydig kommandostruktur. Systemet skal kunne utløses manuelt fra utløsningsstasjoner som er plassert på strategiske steder på landanlegget. Fra det sentrale kontrollrommet skal det være mulig å manuelt aktivisere funksjoner som bringer landanlegget til en sikker tilstand ved svikt i de programmerbare delene av systemet.
+Det skal installeres nødavstengningsventiler som kan stanse hydrokarbon- og kjemikaliestrømmer til og fra landanlegget, og som isolerer brannområdene på landanlegget.
