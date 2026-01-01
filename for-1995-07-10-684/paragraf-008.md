@@ -1,0 +1,4 @@
+# § 8. Avgift for virksomhet i anleggsfase
+1) Virksomhet som er undergitt tilsyn etter lovene om brannfarlige varer samt væsker og gasser under trykk og eksplosive varer og som er under opp- eller nedbygging, kan pålegges avgift dersom Direktoratet for samfunnssikkerhet og beredskaps engasjement i forbindelse med virksomheten vil pågå kontinuerlig gjennom et lengre tidsrom. Avgiften skal dekke etatens faktiske utgifter ved kontrollen.
+2) Vedtak om at en virksomhet skal betale avgift etter denne bestemmelse, fattes av Direktoratet for samfunnssikkerhet og beredskap så snart man har grunnlag for å vurdere omfanget av kontroll og tilsyn med virksomheten. Denne skal straks underrettes om vedtaket.
+3) Eventuell avgift etter denne bestemmelse kommer i tillegg til avgift etter § 4, § 5, § 6 og § 7.

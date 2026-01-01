@@ -1,0 +1,2 @@
+# § 6. Avgift for trykksatt utstyr
+Virksomheter som har større kjeler og trykkbeholdere som ikke, eller i liten grad anvender brannfarlig vare, kan pålegges avgift av Direktoratet for samfunnssikkerhet og beredskap. Avgiften beregnes skjønnsmessig basert på avgiftsnivået for tilsvarende virksomheter, kjeler og trykkbeholdere som anvender brannfarlig vare. Avgiften pr. kjel/trykkbeholder skal ikke overstige kr. 4.000.
