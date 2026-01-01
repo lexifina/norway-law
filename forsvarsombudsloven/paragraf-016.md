@@ -1,0 +1,3 @@
+# § 16. Sikkerhetslovens anvendelse
+For Ombudsnemndas medlemmer og ansatte ved Ombudsnemndas kontor gjelder bestemmelsene om behandling av sikkerhetsgradert informasjon og personellsikkerhet i sikkerhetsloven med forskrifter samt beskyttelsesinstruksen. Stortingets administrasjon er klareringsmyndighet. Stortingets presidentskap er klagemyndighet for avgjørelser truffet av Stortingets administrasjon.
+Hvis Ombudsnemnda er i tvil om graderingen av en opplysning i uttalelse eller melding, eller mener at av- eller nedgradering bør skje, forelegger nemnda spørsmålet for vedkommende departement eller underliggende forvaltningsorgan. Forvaltningens avgjørelse er bindende for nemnda.
