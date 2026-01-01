@@ -1,0 +1,6 @@
+# § 7-1. Sertifisering som transmisjonssystemoperatør (TSO)
+Eier av anlegg i et transmisjonsnett skal søke Reguleringsmyndigheten for energi om sertifisering som operatør av et transmisjonssystem, jf. energiloven § 4-10. Reguleringsmyndigheten for energi skal kontrollere at kravene etter energiloven § 4-8 er oppfylt.
+Eier av anlegg i et transmisjonsnett skal melde fra til Reguleringsmyndigheten for energi om enhver planlagt transaksjon som nødvendiggjør en vurdering av kravene som følger av energiloven § 4-8.
+Reguleringsmyndigheten for energi skal igangsette prosedyren for sertifisering når den mottar en melding som tilsier dette, på eget initiativ eller ved en begrunnet forespørsel fra EFTAs overvåkingsorgan. En avgjørelse skal fattes innen fire måneder etter at prosedyren ble igangsatt. Dersom det ikke foreligger en avgjørelse innen fire måneder, skal et vedtak om sertifisering anses gitt.
+Reguleringsmyndigheten for energi skal uten ugrunnet opphold underrette EFTAs overvåkingsorgan om vedtak om sertifisering eller stilltiende godkjennelser etter tredje ledd annet punktum, og på forespørsel oversende relevant informasjon knyttet til sertifiseringen.
+Første gangs sertifisering skal omsøkes innen ett år fra ikrafttredelsen av EØS-komiteens beslutning nr. 93/2017 av 5. mai 2017.

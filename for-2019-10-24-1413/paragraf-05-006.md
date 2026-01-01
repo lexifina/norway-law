@@ -1,0 +1,2 @@
+# § 5-6. Krav til systemansvarlig om deling av data til Reguleringsmyndigheten for energi
+Systemansvarlig skal tilrettelegge for deling av data fra regulerkraftmarkedet til Reguleringsmyndigheten for energi som oppdateres løpende. Reguleringsmyndigheten for energi kan stille krav til systemansvarlig om løpende deling av annen data som er nødvendig for å føre tilsyn med markedet, og som systemansvarlig innehar. Systemansvarlig og Reguleringsmyndigheten for energi skal iverksette nødvendige tiltak for å ivareta datasikkerheten.

@@ -1,0 +1,6 @@
+# § 3-1. Områdekonsesjonærens leveringsplikt
+Områdekonsesjonæren skal etter energiloven § 3-3 levere elektrisk energi til alle kunder innenfor det geografiske området konsesjonen gjelder for, tilknytte nye anlegg for uttak av elektrisk energi og om nødvendig investere i nettanlegg. Reguleringsmyndigheten for energi kan gi dispensasjon fra disse pliktene når særlige grunner tilsier det.
+Konsesjonæren skal uten ugrunnet opphold gjøre nødvendige tiltak for å kunne gjennomføre tilknytning av nye uttakskunder og håndtere forbruksøkninger hos eksisterende kunder.
+Et nettselskap og en uttakskunde kan inngå avtale om tilknytning med vilkår om utkobling eller begrensning i forbruket. Det skal ikke gis kompensasjon til uttakskunden ved inngåelse av slik avtale eller ved utkobling eller begrensning i forbruket i henhold til avtalen.
+Konsesjonærer skal forelegge for Reguleringsmyndigheten for energi et utkast til vilkår eller metoder for tilknytning til og bruk av nettet til forhåndsgodkjenning. Forhåndsgodkjenning er ikke nødvendig dersom konsesjonæren anvender vilkår som er godkjent og publisert av Reguleringsmyndigheten for energi.
+Reguleringsmyndigheten for energi skal ved enkeltvedtak jf. energiloven § 3-3 fjerde ledd, fastsette eller godkjenne vilkår for leveringsplikt eller metoder for å fastsette slike vilkår.

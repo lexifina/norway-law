@@ -1,0 +1,5 @@
+# § 4-8. Måling, avregning og fakturering
+Måling, avregning og fakturering skal utføres i samsvar med forskrift om måling, avregning, fakturering av nettjenester og elektrisk energi, nettselskapenes nøytralitet mv. på en måte som sikrer en enkel markedsadgang og legger til rette for en effektiv kraftomsetning. Dette gjelder blant annet regulerkraftavregning, leverandørskifte, måling, avregning og fakturering av nettjenester og elektrisk energi, og felles fakturering av nettjenester og elektrisk energi.
+Fakturering gjennomføres på en måte som bidrar til at sluttbruker bevisstgjøres sitt forbruk av elektrisk energi.
+Reguleringsmyndigheten for energi skal ved enkeltvedtak utpeke en avregningsansvarlig, og kan fastsette nærmere vilkår overfor denne, jf. energiloven § 4-3 annet ledd.
+Reguleringsmyndigheten for energi skal ved enkeltvedtak fastsette eller godkjenne den avregningsansvarliges vilkår, eller metoder for å fastsette slike vilkår, om utøvelsen av avregningsansvaret, jf. energiloven § 4-3 femte ledd. Den avregningsansvarlige skal forelegge forslag til vilkår og metoder for Reguleringsmyndigheten for energi til godkjenning før de gjøres gjeldende.
