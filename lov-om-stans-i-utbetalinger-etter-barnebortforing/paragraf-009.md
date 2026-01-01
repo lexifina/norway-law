@@ -1,0 +1,2 @@
+# § 9. Sakkunnig vurdering
+Dersom opplysningane i saka gjev grunn til det, kan organet som skal treffe avgjerda etter § 7, be om at ein sakkunnig vurderer om det er forsvarleg å halde tilbake ytingar og barnebidrag. Den sakkunnige skal ha tilgang til dokumenta i saka og kan hente inn opplysningar etter § 8. Sakkunnige har krav på godtgjersle for arbeidet sitt og skal få dekt utlegg i samband med saka.
