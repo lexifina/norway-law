@@ -1,0 +1,4 @@
+# § 8-5. Sammenstilling av personopplysninger og automatiserte avgjørelser
+(1) Når det er nødvendig for kontroll med tollavgift, kan tollmyndighetene sammenstille innhentede personopplysninger, også helseopplysninger som nevnt i personvernforordningen artikkel 9 nr. 1 og personopplysninger som nevnt i personvernforordningen artikkel 10. Adgangen til sammenstilling omfatter profilering som nevnt i personvernforordningen artikkel 4 nr. 4. Graden av personidentifikasjon skal ikke være større enn det som er nødvendig for formålet.
+(2) Tollmyndighetene kan treffe avgjørelser hvor personopplysninger inngår, som utelukkende er basert på automatisert behandling, dersom partens krav om forsvarlig saksbehandling ivaretas. Den registrerte har rett til manuell overprøving av avgjørelsen.
+(3) Departementet kan gi forskrift om vilkårene for profilering etter personvernforordningen artikkel 4 nr. 4 og om bruk av automatiserte avgjørelser.

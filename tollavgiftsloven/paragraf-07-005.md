@@ -1,0 +1,4 @@
+# § 7-5. Generelle bestemmelser om refusjon av tollavgift
+(1) Refusjon av tollavgift er betinget av at den innførte varen utføres under prosedyren utførsel etter vareførselsloven § 5-9 eller deklareres for prosedyren tollager etter vareførselsloven § 4-4 innen to år etter innførselen. Tollmyndighetene kan i særlige tilfeller forlenge fristene.
+(2) Tollmyndighetene kan tillate at varen blir destruert under kontroll av eller etter avtale med tollmyndighetene i stedet for at den blir gjenutført. Den som ber om destruksjon, må bære kostnadene ved destruksjonen.
+(3) Departementet kan gi forskrift om adgangen til refusjon, herunder om adgangen til å forlenge fristen, fastsette minstebeløp for refusjon og frafalle vilkåret om at varen må utføres etter vareførselsloven kapittel 5 eller deklareres for prosedyren tollager etter vareførselsloven § 4-4.
