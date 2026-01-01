@@ -1,0 +1,4 @@
+# § 9. Ikrafttredelse og overgangsbestemmelse
+Forskriften trer i kraft 1. januar 2026. §§ 1 til 3 og § 8 kommer til anvendelse i tilfeller som behandles etter nytt regelverk for utlegg, jf. delegering 10. juni 2025 nr. 968 av Kongens myndighet etter innkrevingsloven § 40 andre og tredje ledd til Finansdepartementet. §§ 4 til 7 kommer til anvendelse ved fordelingen av trekkbeløp etter ny ordning, jf. dekningsloven § 2-8 første ledd som endret ved innkrevingsloven.
+Frem til 1. januar 2027 fordeles trekkbeløp til krav med prioritet etter dekningsloven § 2-8 første ledd bokstav a i samsvar med tidligere praksis.
+Frem til 1. januar 2027 gjelder ikke § 7 for folketrygdens regresskrav etter forskotteringsloven § 10, jf. forskrift 1. juli 2025 nr. 1418 om overgangsregler for innkrevingsloven og endringer i andre lover § 22.
