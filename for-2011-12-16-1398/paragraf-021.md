@@ -1,0 +1,4 @@
+# § 21. Deklarasjon for oppfyllelse av elsertifikatplikt
+Den elsertifikatpliktige skal innen 1. mars hvert år kontrollere beregningsrelevant mengde elektrisk energi for siste kalenderår, samt eventuell korrigering for kalenderåret før, i elsertifikatregisteret. Dersom den elsertifikatpliktige mener at feil beregningsrelevant mengde elektrisk energi er registrert i elsertifikatregisteret, skal denne fremlegge dokumentasjon til registeransvarlig på at beregningsrelevant mengde elektrisk energi avviker fra volumet oppgitt i elsertifikatregisteret.
+Den elsertifikatpliktige skal innen 1. mars hvert år angi antall elsertifikater som skal annulleres på egen konto i elsertifikatregisteret.
+Ved uenighet mellom registeransvarlig og den elsertifikatpliktige om beregningsrelevant mengde elektrisk energi, kan den elsertifikatpliktige innen 15. mai kreve at NVE fatter vedtak som avgjør om elektrisk energi anses beregningsrelevant.

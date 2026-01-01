@@ -1,0 +1,2 @@
+# § 36. Gebyr til registeransvarlig
+Enhver som benytter seg av ordningen med elsertifikater etter denne forskriften, kan av registeransvarlig avkreves gebyr for dekning av den registeransvarliges kostnader knyttet til ordningen. De samlede gebyrer skal tilsvare de faktiske kostnader registeransvarlig har ved effektiv utvikling og drift av registeret i ordningens levetid. Gebyrstrukturen til registeransvarlig skal godkjennes av NVE.

@@ -1,0 +1,2 @@
+# § 13. Driftsavbrudd
+Dersom et produksjonsanlegg er forhindret fra å levere elektrisk energi på grunn av uforutsett driftsavbrudd eller hendinger knyttet til overføring eller distribusjon av elektrisk energi, og produksjonsanlegget dermed blir forhindret fra å motta elsertifikater over en periode lenger enn 30 døgn, kan NVE etter søknad forlenge elsertifikatperioden tilsvarende perioden den elsertifikatberettigede ikke har mottatt elsertifikater. Elsertifikater kan likevel ikke utstedes for produksjon som skjer etter 31. desember 2035.
