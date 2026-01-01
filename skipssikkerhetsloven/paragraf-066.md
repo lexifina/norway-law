@@ -1,0 +1,2 @@
+# § 66. Brudd på pliktene til andre som har sitt arbeid om bord når det gjelder den miljømessige sikkerheten
+Med bøter eller fengsel inntil 1 år straffes andre som har sitt arbeid om bord som forsettlig eller grovt uaktsomt vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 38 til å medvirke til at driften av skipet legges opp og gjennomføres i henhold til § 33 med forskrifter, slik at det ikke skjer forurensning av det ytre miljø fra skipet i strid med § 31.

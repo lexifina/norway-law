@@ -1,0 +1,3 @@
+# § 63. Brudd på skipsførerens plikter når det gjelder den personlige sikkerheten om bord
+Med bøter eller fengsel inntil 1 år straffes en skipsfører som forsettlig eller grovt uaktsomt vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 29 første ledd bokstav a til å sørge for at arbeidet om bord er tilrettelagt slik at det kan utføres sikkerhetsmessig forsvarlig og ivaretar det psykososiale arbeidsmiljøet i henhold til kravene i § 22 med forskrifter.
+Med bøter straffes en skipsfører som forsettlig eller grovt uaktsomt vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 29 første ledd bokstav b til å sørge for at den fastsatte hviletiden overholdes i henhold til kravene i § 24 med forskrifter.
