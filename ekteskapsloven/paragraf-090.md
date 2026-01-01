@@ -1,0 +1,2 @@
+# § 90. Registrering av ektefellenes eiendeler.
+Er det satt fram begjæring om mekling eller er det satt fram begjæring om eller reist søksmål med krav om separasjon eller skilsmisse, kan hver av ektefellene kreve at tingretten straks tar opp fortegnelse over ektefellenes eiendeler og gjeld. Tilsvarende gjelder dersom det er satt fram begjæring om deling etter § 57. Reglene om registrering i arveloven § 91 får tilsvarende anvendelse så langt de passer.

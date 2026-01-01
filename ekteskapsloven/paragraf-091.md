@@ -1,0 +1,2 @@
+# § 91. Midlertidig forføyning for å sikre en ektefelles rettigheter ved delingsoppgjøret.
+Er det etter at separasjon er krevd eller søksmål om skilsmisse er reist, grunn til å frykte at en ektefelle vil unndra eiendeler fra delingen eller på annen måte gjøre det vanskelig å oppfylle den andre ektefellens rettigheter etter kapitlene 12 til 14, kan vedkommende ektefelle kreve midlertidig forføyning etter tvisteloven kapittel 32 og 34. Når det er åpnet offentlig skifte, treffer den tingrett som skifter boet avgjørelsen, jf § 104.

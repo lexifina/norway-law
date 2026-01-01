@@ -1,0 +1,3 @@
+# § 68. Bruksrett til bolig.
+Når særlige grunner taler for det, kan en ektefelle gis bruksrett til en bolig som helt eller delvis blir overtatt av den andre ektefellen. Ved vurderingen skal det legges vekt på ektefellenes og barnas behov. Det kan bestemmes at bruksretten skal være tidsbegrenset. Bruksretten faller bort når hensynet til ektefellen eller barnas behov ikke lenger gjør bruksrett rimelig.
+Den ektefellen som eier boligen, kan kreve vanlig markedsleie. Er boligen sameie mellom ektefellene, nedsettes leien forholdsmessig. Leien løper fra det tidspunktet det blir satt fram krav om det.

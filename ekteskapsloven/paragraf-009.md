@@ -1,0 +1,2 @@
+# § 9. Kontroll med at brudefolkene har rettslig handleevne.
+Dersom vigsleren, folkeregistermyndigheten eller norsk utenrikstjenesteansatt har grunn til å tro at noen av brudefolkene på grunn av alvorlig sinnslidelse eller alvorlig psykisk utviklingshemning mangler rettslig handleevne, kan det kreves lagt fram attest fra en offentlig lege eller fra en annen lege som en offentlig lege utpeker. Med rettslig handleevne menes i denne paragrafen evne til normal forståelse av hva en ekteskapsinngåelse innebærer, og evne til normal motivering for å inngå ekteskap.

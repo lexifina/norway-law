@@ -1,0 +1,3 @@
+# § 3. Forbud mot ekteskap mellom nære slektninger.
+Ekteskap kan ikke inngås mellom slektninger i rett opp- eller nedstigende linje eller mellom søsken. Ekteskap kan heller ikke inngås mellom andre beslektede dersom disse er søskenbarn eller nærmere slektninger enn søskenbarn. Statsforvalteren kan gi samtykke til ekteskap etter andre punktum dersom sterke grunner taler for det.
+For adoptivbarn gjelder forbudet overfor både den opprinnelige slekt og adoptivforeldrene og deres slekt. Er adoptivbarnet blitt adoptert på ny, kan statsforvalteren likevel samtykke i ekteskap mellom adoptivbarnet og en av de opprinnelige adoptivforeldrene eller dennes slektning.

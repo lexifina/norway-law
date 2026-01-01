@@ -1,0 +1,3 @@
+# § 18 c. Anerkjennelse av visse ekteskap for parter uten tilknytning til Norge på vigselstidspunktet
+Et ekteskap som er gyldig inngått etter utenlandsk rett mellom parter som verken var norske statsborgere eller fast bosatt her i riket på vigselstidspunktet, anerkjennes ikke her i riket dersom den ene eller begge av partene på dette tidspunktet var under 18 år.
+Statsforvalteren kan likevel anerkjenne ekteskapet dersom partene er over 18 år, var over 16 år på vigselstidspunktet og den som var mindreårig på vigselstidspunktet, ønsker ekteskapet anerkjent. Statsforvalteren kan også anerkjenne ekteskapet dersom sterke grunner taler for det. § 18 b tredje ledd andre til femte punktum gjelder tilsvarende.

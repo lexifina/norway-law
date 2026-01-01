@@ -1,0 +1,5 @@
+# § 70. Eiendelenes verdi overstiger den lodd en ektefelle har krav på.
+Overstiger verdien av de eiendeler en ektefelle overtar, den lodd denne ektefellen har krav på, skal han eller hun betale den andre ektefellen det overskytende.
+Overtar en ektefelle etter § 66 eller § 67 fast eiendom eller andel av fast eiendom, andel eller aksje i boligselskap, eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til, må den andre ektefellen nøye seg med en fordring med pantesikkerhet i eiendommen eller rettigheten. Fordringen kan fra begge sider sies opp med seks måneders varsel. Kongen fastsetter den rentesats som skal legges til grunn.
+Dersom en ektefelle får bruksrett til den andre ektefellens eiendom, kan fordringen ikke sies opp av den bruksberettigede ektefellen så lenge bruksretten består.
+Dersom det er rimelig etter forholdene, kan den ektefellen som har krav mot den andre etter første ledd, tilkjennes renter. Renten kan tidligst regnes fra to år etter de tidspunktene som er nevnt i § 60. Renten skal tilsvare den rentesatsen som Kongen fastsetter etter andre ledd.

@@ -1,0 +1,2 @@
+# § 39. Opplysningsplikt om økonomiske forhold.
+Ektefeller har plikt til å gi hverandre de opplysningene som er nødvendige for å vurdere deres økonomiske stilling. For dette formålet kan en ektefelle kreve at den andre ektefellen og skattemyndighetene gir opplysninger om eller kopi av den felles eller den andre ektefellens skattemelding og fastsetting av formues- og inntektsskatt. En ektefelle kan også kreve opplysninger av selskaper, foretak eller andre institusjoner som driver finansieringsvirksomhet eller forsikringsvirksomhet, og av andre som har midler til forvaltning.

@@ -1,0 +1,3 @@
+# § 4. Forbud mot ekteskap når tidligere ekteskap består.
+Ingen kan inngå ekteskap så lenge et tidligere ekteskap eller registrert partnerskap består.
+Når et ekteskap inngått etter utenlandsk rett ikke anerkjennes her i riket, gjelder første ledd tilsvarende. Partene i et slikt ekteskap kan likevel gifte seg med hverandre dersom lovens øvrige vilkår for inngåelse av ekteskap er oppfylt. Statsforvalteren kan etter begjæring gi tillatelse til at en part i et ekteskap som nevnt i første punktum kan gifte seg med en annen når særlige grunner taler for det. Departementet fastsetter hvilke statsforvaltere som skal behandle slike begjæringer.

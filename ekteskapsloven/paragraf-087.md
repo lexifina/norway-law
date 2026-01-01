@@ -1,0 +1,3 @@
+# § 87. Særregler når det er flere pensjonsberettigede.
+Dersom den avdøde var gift på nytt, og den nye ektefellen har rett til ektefellepensjon som nevnt i § 86 etter de alminnelige reglene i vedkommende pensjonsordning, skal pensjonen deles mellom de berettigede i forhold til antall påbegynte år hver av dem var gift med den avdøde. Hvis den ene har fraskrevet seg retten, tilfaller likevel pensjonen den andre udelt.
+Dersom en fraskilt ektefelle gjør krav gjeldende i en pensjonsordning som også gir rettigheter til en senere ektefelle, kan den senere ektefellen kreve andel i ektefellepensjon fra en pensjonsordning som den avdøde tidligere var medlem av, selv om dette ikke følger av de alminnelige reglene for vedkommende pensjonsordning.

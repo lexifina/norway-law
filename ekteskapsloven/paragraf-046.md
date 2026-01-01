@@ -1,0 +1,3 @@
+# § 46. Omgjøring og lemping av avtaler.
+Avtaler mellom ektefeller etter reglene i §§ 42 til 44 kan oppheves eller endres ved ny ektepakt.
+En avtale mellom ektefeller etter reglene i §§ 42 til 44 kan helt eller delvis settes ut av kraft hvis den vil virke urimelig overfor en av partene. I stedet for å sette avtalen ut av kraft, kan retten bestemme at ektefellen som blir urimelig dårlig stilt, blir tilkjent et beløp fra den andre ektefellen. Dersom begge ektefellene har fullstendig særeie, må krav om lemping settes fram innen tre år etter at ektefellene ble skilt. Dersom en eller begge ektefeller har eiendeler som også er felleseie, må krav settes fram før delingen er avsluttet.

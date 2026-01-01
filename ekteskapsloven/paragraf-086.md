@@ -1,0 +1,3 @@
+# § 86. Fraskilt ektefelles rett til ektefellepensjon fra annen pensjonsordning enn folketrygden.
+En fraskilt ektefelle beholder retten til ektefellepensjon fra annen pensjonsordning enn folketrygden dersom ekteskapet varte i minst ti år, og den fraskilte var minst 45 år ved skilsmissen. Med pensjonsordning menes offentlig pensjonsordning og privat kollektiv pensjonsordning med obligatorisk tilslutning.
+Retten til ektefellepensjon er betinget av at den andre ektefellen ved skilsmissen var eller hadde vært medlem av en pensjonsordning utenfor folketrygden som omfatter ektefellepensjon. I så fall får den fraskilte også rett til ektefellepensjon fra en ordning som den avdøde var blitt medlem av etter skilsmissen.

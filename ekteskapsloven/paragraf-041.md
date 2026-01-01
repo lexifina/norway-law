@@ -1,0 +1,3 @@
+# § 41. Rett til i visse tilfeller å inngå avtaler på begge ektefellenes ansvar.
+En ektefelle kan under samlivet med ansvar for begge ektefellene inngå vanlige avtaler om det daglige husholdet og oppfostringen av barna og vanlige avtaler for å dekke den enkelte ektefellens nødvendige behov. Dette gjelder også leie av felles bolig. Slike avtaler anses å være inngått med ansvar for begge ektefellene hvis ikke noe annet går fram av forholdene.
+Hvis den andre parten forsto eller burde ha forstått at avtalen gikk ut over det ektefellen hadde rett til etter første ledd, blir bare denne ektefellen forpliktet.

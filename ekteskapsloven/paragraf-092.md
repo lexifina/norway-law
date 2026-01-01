@@ -1,0 +1,4 @@
+# § 92. Midlertidig avgjørelse om separasjon, bruksrett, bidrag m v.
+Etter begjæring av en ektefelle kan retten ved kjennelse treffe midlertidig avgjørelse om separasjon, rett til bidrag eller bruksrett til bolig eller vanlig innbo i det felles hjemmet. Før separasjon er krevd eller søksmål om skilsmisse er reist, kan midlertidig avgjørelse bare treffes dersom særlige grunner taler for det. Når ikke annet er bestemt, gjelder en midlertidig avgjørelse fram til spørsmålet om separasjon, bidrag eller bruksrett er rettskraftig avgjort.
+Når særlige grunner tilsier det, kan retten ved kjennelse forby en ektefelle å komme til den eiendommen eller boligen der den andre ektefellen oppholder seg.
+Bruksrett på grunnlag av midlertidig avgjørelse etter denne paragrafen har rettsvern også overfor den som i god tro erverver boligen eller innboet.

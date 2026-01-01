@@ -1,0 +1,2 @@
+# § 30 a. Statsforvalterens adgang til å opptre for å ivareta offentlige interesser
+I saker som anlegges for å få dom for at et ekteskap består eller ikke består, eller for å få det oppløst etter § 24 første ledd, kan statsforvalteren opptre for å ivareta offentlige interesser. Retten skal gi ham melding om saken. Statsforvalteren kan erklære anke og begjære gjenåpning. Ellers er inntreden i saken bare tillatt etter § 30 f.
