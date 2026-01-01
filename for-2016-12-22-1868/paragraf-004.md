@@ -1,0 +1,3 @@
+# § 4. Forurensning
+Det er forbudt å forurense drikkevann. Forbudet omfatter alle aktiviteter, fra vanntilsigsområdet til tappepunktene, som medfører fare for at drikkevannet blir forurenset. Med aktiviteter menes også friluftsliv og annen utøvelse av allemannsretten. Der det er fastsatt beskyttelsestiltak etter § 12 eller restriksjoner etter § 26, gjelder forbudet brudd på disse. I vanntilsigsområdene kan landbruksaktivitet foregå dersom det ikke forurenser drikkevannet eller medfører brudd på beskyttelsestiltak etter § 12 eller restriksjoner etter § 26.
+Abonnentene skal ha egnet sikring mot tilbakestrømming i samsvar med kravene i plan- og bygningsloven og byggteknisk forskrift for å hindre at drikkevannet i distribusjonssystemet blir forurenset.

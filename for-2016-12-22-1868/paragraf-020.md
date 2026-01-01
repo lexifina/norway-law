@@ -1,0 +1,3 @@
+# § 20. Minstekrav til råvannsprøver
+Vannverkseieren skal ta råvannsprøver i samsvar med prøvetakingsplanen omtalt i § 19. Minstekravet til antall råvannsprøver er:
+Råvannsprøvene skal minst analyseres for E. coli. Ved vannforsyningssystemer med minst 10 m3 produsert vann per døgn skal råvannsprøvene i tillegg minst analyseres for intestinale enterokokker, koliforme bakterier, pH, turbiditet og farge. Uttak og analyser av råvannsprøver skal foretas i samsvar med internasjonale eller nasjonale standarder når slike foreligger. Der vedlegg 1 eller vedlegg 2 angir krav til analysemetoder, skal disse benyttes. Laboratoriene som benyttes, skal være akkreditert for de aktuelle analysene.

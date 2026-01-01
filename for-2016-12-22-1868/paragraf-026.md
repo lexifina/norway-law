@@ -1,0 +1,6 @@
+# § 26. Kommunens plikter
+Kommunen skal i samsvar med folkehelseloven kapittel 2 ta drikkevannshensyn når den utarbeider arealdelen av kommuneplanen og reguleringsplaner, samt når den gir tillatelser etter relevant regelverk. Kommunen skal om nødvendig ta initiativ til interkommunalt plansamarbeid for å ivareta drikkevannshensynet der vannforsyningssystemet ligger i flere kommuner.
+Kommunen skal i samarbeid med vannverkseieren vurdere behovet for restriksjoner for å beskytte råvannskilder og vanntilsigsområder. Dette gjelder også i forbindelse med planarbeid etter plan- og bygningsloven.
+Kommunen skal på bakgrunn av data fra Mattilsynet ha oversikt over samtlige vannforsyningssystemer i kommunen for å ivareta sine forpliktelser etter folkehelseloven kapittel 2. Kommunen skal ha oversikt over hvor innbyggerne i samsvar med § 23 andre ledd kan finne informasjon om drikkevannskvaliteten.
+Kommunen skal uttale seg om forhold som angår miljørettet helsevern og arealdisponering til planer for nye vannforsyningssystemer og ved søknader om endringer som omtalt i § 18.
+Kommunen skal i samsvar med sivilbeskyttelsesloven kapittel 5 og hensynet til samfunnssikkerhet gitt i plan- og bygningsloven påse at forsyningen av drikkevann vurderes og følges opp.
