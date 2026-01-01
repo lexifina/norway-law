@@ -1,0 +1,4 @@
+# § 3-1. Opptak til bachelor i sykepleie på bakgrunn av realkompetanse
+Søkere som er 25 år eller eldre i opptaksåret og ikke har generell studiekompetanse, kan bli vurdert ut fra realkompetanse.
+Utfyllende kriterier for vurdering av realkompetansesøknader fastsettes i retningslinjer for opptak ved LDH.
+Søkere rangeres i forhold til poengberegnede søkere ved hjelp av en skjønnsmessig vurdering, jf. forskrift om opptak til høgare utdanning §§ 7-12 og 7-13. For å få tilbud om studieplass kreves likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning. I denne rangeringen legges det vekt på en helhetsvurdering av søkerens samlede kompetanse. Selv om søkeren er kvalifisert etter bestemmelsene om realkompetanse, gir ikke dette i seg selv rett til studieplass.

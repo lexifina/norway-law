@@ -1,0 +1,4 @@
+# § 1-4. Dokumentasjon
+For at søknaden skal behandles, må all utdanning, praksis og andre forhold som skal gi grunnlag for opptak, dokumenteres med elektronisk deling eller skannet kopi av originale dokumenter. Skannet dokumentasjon skal lastes opp i søknaden.
+Godkjente dokumenter det ikke har vært mulig å fremskaffe innen søknadsfristen, skal ettersendes snarest mulig etter at de er søkeren i hende.
+Studenter må på forespørsel fra LDH, fremvise originaldokumenter som er grunnlaget for opptak til studier, eller for utstedelse av vitnemål/karakterutskrift fra LDH. Studenter som ikke fremviser de forespurte originaldokumentene for kontroll, mister studieretten, jf. forskrift om studier og eksamen ved LDH § 4-2 bokstav h. Vitnemål/karakterutskrift vil bli holdt tilbake til de forespurte originaldokumentene er fremvist og kontrollert.
