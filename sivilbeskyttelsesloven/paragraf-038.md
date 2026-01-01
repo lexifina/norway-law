@@ -1,0 +1,5 @@
+# § 38. Forholdet til forvaltningsloven
+Med mindre departementet bestemmer noe annet i forskrift gjelder forvaltningsloven kapittel IV-VI ikke for saker om tjenesteplikten og tjenestens utførelse etter kapittel III. Forvaltningsloven kapittel IV-VI gjelder likevel for pålegg om tjenesteplikt etter § 8 første ledd og pålegg om å tjenestegjøre som befal eller instruktør etter § 9 tredje ledd.
+I andre saker enn de som er nevnt i første ledd kan forhåndsvarsel til sakens parter unnlates dersom antallet parter i saken er stort, et stort antall saker behandles under ett, eller forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Tilsvarende gjelder dersom forhåndsvarsel av hensyn til partene ikke er påkrevet.
+Direktoratet er klageinstans for vedtak truffet av sivilforsvarsdistriktene og tilsynsmyndigheter etter denne loven.
+Departementet kan bestemme at vedtak etter denne loven ikke kan kreves grunngitt eller påklages når riket er i krig, krig truer eller rikets selvstendighet eller sikkerhet er i fare. Det samme gjelder ved uønskede hendelser i fredstid.

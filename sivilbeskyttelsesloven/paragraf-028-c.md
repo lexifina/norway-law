@@ -1,0 +1,2 @@
+# § 28 c. Regulering av adgangen til å etablere og avslutte arbeids- og tjenesteforhold
+Kongen kan gi forskrift om adgangen til å etablere og avslutte arbeids- og tjenesteforhold, blant annet krav om tillatelse fra offentlige myndigheter. Gjeldende lover eller privat regulering av betydning for etablering og avslutning av arbeids- og tjenesteforhold, kan fravikes i den utstrekning det er påkrevd for gjennomføring av tiltak etter første punktum.

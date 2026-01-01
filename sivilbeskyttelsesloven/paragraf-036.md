@@ -1,0 +1,8 @@
+# § 36. Overtredelsesgebyr
+Sivilforsvarets myndigheter eller tilsynsmyndigheten kan ilegge overtredelsesgebyr til fysiske personer og foretak som
+a) overtrer §§ 6 første ledd, 7 første, andre eller fjerde ledd, 8 andre eller tredje ledd, 9 andre ledd, 9 b første ledd, 16 andre ledd, 20 andre ledd, 21 første ledd, 24 b, 24 c første ledd, 24 d tredje ledd eller 32 første ledd
+b) overtrer forskrift gitt i medhold av §§ 7, 8, 9, 9 b, 16, 20, 21 eller 25 når det i forskriften er fastsatt at overtredelsen kan medføre overtredelsesgebyr
+c) ikke retter seg etter vedtak gitt i medhold av §§ 7 tredje ledd, 9 tredje ledd, 16 tredje ledd, 20 fjerde eller femte ledd, 25 første eller fjerde ledd, 26 første eller andre ledd eller 31 første ledd.
+Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
+Departementet kan gi forskrift om ileggelse av overtredelsesgebyr, herunder om hvilke hensyn det kan eller skal legges vekt på ved vurderingen av om overtredelsesgebyr skal ilegges og om utmåling av overtredelsesgebyr. Departementet kan også gi forskrift om betaling av overtredelsesgebyr, herunder om renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall.
+Adgangen til å ilegge overtredelsesgebyr foreldes etter 2 år. Fristen regnes fra tidspunktet da overtredelsen fant sted. Fristen avbrytes ved at departementet gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr. Departementet kan gi nærmere bestemmelser om foreldelse i forskrift, herunder fravike bestemmelsene om foreldelsesfrist og fristavbrudd for særlige typer overtredelser.
