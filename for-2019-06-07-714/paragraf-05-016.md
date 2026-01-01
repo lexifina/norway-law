@@ -1,0 +1,3 @@
+# § 5-16. Frister for oversendelse av økonomiplanen, årsbudsjettet, årsregnskapet og årsberetningen til departementet
+Økonomiplanen og årsbudsjettet skal sammen med saksdokumentene fra det innstillende organet sendes til departementet snarest mulig og senest 30 dager etter at økonomiplanen eller årsbudsjettet er vedtatt. Oppstillingen etter § 5-6 skal sendes til departementet snarest mulig, og senest 1. mars i det året som budsjettet gjelder for.
+Årsregnskapet og årsberetningen skal sammen med saksdokumentene fra det innstillende organet, revisjonsberetningen og kontrollutvalgets uttalelse til årsregnskapet og årsberetningen sendes til departementet snarest mulig og senest 30 dager etter at årsregnskapet og årsberetningen er vedtatt.

@@ -1,0 +1,2 @@
+# § 2-4. Tilskudd til andres investeringer
+Tilskudd til andres investeringer regnes som utgifter til drift. Tilskudd til andres investeringer som kan lånefinansieres etter kommuneloven § 14-16 første eller andre ledd, trossamfunnsloven § 14 fjerde ledd eller gravplassloven § 3 tredje ledd, skal likevel føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet hvis tilskuddet finansieres av inntekter her.

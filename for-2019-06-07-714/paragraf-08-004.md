@@ -1,0 +1,4 @@
+# § 8-4. Særlige regler når det ikke utarbeides eget årsbudsjett og årsregnskap
+Inntektene til det interkommunale politiske rådet eller det kommunale oppgavefellesskapet, og disponeringen av inntektene, skal inngå i årsbudsjettet og årsregnskapet til kontorkommunen.
+Den økonomiske rammen for samarbeidets virksomhet skal i årsbudsjettet til kontorkommunen føres opp som en egen bevilgning i bevilgningsoversiktene etter § 5-4 andre ledd og § 5-5 andre ledd. Representantskapet i samarbeidet fastsetter den nærmere fordelingen av bevilgningen i et detaljbudsjett.
+Samarbeidets inntekter og utgifter skal i årsregnskapet til kontorkommunen føres opp i bevilgningsoversiktene etter § 5-4 andre ledd og § 5-5 andre ledd med samme detaljeringsnivå som bevilgningen i kontorkommunens årsbudsjett. Den nærmere fordelingen av inntekter og utgifter skal forelegges representantskapet i et detaljregnskap på samme detaljeringsnivå som detaljbudsjettet.

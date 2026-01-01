@@ -1,0 +1,4 @@
+# § 2-9. Salg av aksjer klassifisert som finansielle anleggsmidler
+En andel av inntektene fra salg av aksjer som er klassifisert som finansielle anleggsmidler, skal regnes som løpende inntekter. Dette gjelder bare hvis kommuner eller fylkeskommuner har bestemmende innflytelse i selskapet.
+Andelen som utgjør løpende inntekter etter første ledd, er den delen av salgsinntekten som gjenspeiler resultatene som er opptjent i selskapet i løpet av kommunens eller fylkeskommunens eiertid, og som ved en videreføring av eierskapet til aksjene kunne blitt utdelt og inntektsført i driften etter § 2-8 første ledd.
+Beløpet etter andre ledd skal reduseres med utbyttet som eventuelt utbetales til kommunen eller fylkeskommunen, hvis utbyttet inngår i beregningen etter andre ledd og inntektsføres i driften etter § 2-8 første ledd.
