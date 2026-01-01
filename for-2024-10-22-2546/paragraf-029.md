@@ -1,0 +1,3 @@
+# § 29. Fritak fra ansvaret for gjennomføringen av regnskapsplikten
+(1) Advokattilsynet kan for et begrenset tidsrom eller inntil videre frita en ansatt advokat fra ansvaret for gjennomføringen av regnskapsplikten etter advokatloven § 42. Den som er eier, styremedlem, oppnevnt som advokatforetakets hvitvaskingsansvarlige eller som håndterer klientmidler på vegne av foretaket, kan ikke gis fritak. Advokaten som får fritak, skal avgi en erklæring som Advokattilsynet fastsetter utformingen og innholdet av.
+(2) En advokat som har fritak etter første ledd, skal straks underrette Advokattilsynet dersom vilkårene for fritak ikke lenger er oppfylt.

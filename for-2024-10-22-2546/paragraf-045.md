@@ -1,0 +1,3 @@
+# § 45. Advokatnemndas sammensetning og sekretariat
+(1) Når Den Norske Advokatforening og Den Norske Dommerforening oppnevner medlemmer og varamedlemmer til Advokatnemnda, gjelder likestillings- og diskrimineringsloven § 28 tilsvarende. Advokattilsynets administrasjon skal koordinere oppnevningene til Advokatnemnda. Godtgjøringen til medlemmene og varamedlemmene fastsettes av Justis- og beredskapsdepartementet og dekkes av Advokatnemnda.
+(2) Advokatnemnda skal ha et sekretariat som forbereder saker for behandling i nemnda. Sekretariatsfunksjonen skal utøves av Den Norske Advokatforening. Den Norske Advokatforening skal innen 15. mars hvert år sende regnskap og melding om Advokatnemndas virksomhet til Justis- og beredskapsdepartementet.

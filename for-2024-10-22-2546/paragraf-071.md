@@ -1,0 +1,4 @@
+# § 71. Utmåling, renter og innkreving
+(1) Ved avgjørelsen av om en advokat skal ilegges overtredelsesgebyr og ved individuell utmåling av gebyret, kan det blant annet legges vekt på momentene i forvaltningsloven § 44 tredje ledd. Det skal legges vekt på konsekvensene av overtredelsen for klienter eller andre, graden av samarbeid med myndighetene og om det foreligger gjentakelse.
+(2) Ved avgjørelsen av om et advokatforetak og en organisasjon eller enhet med organisasjonsadvokater skal ilegges overtredelsesgebyr og ved individuell utmåling av gebyret, kan det blant annet legges vekt på momentene i forvaltningsloven § 46 andre ledd. Første ledd andre punktum gjelder tilsvarende.
+(3) Dersom overtredelsesgebyret ikke blir betalt innen forfall, skal det betales rente etter forsinkelsesrenteloven.

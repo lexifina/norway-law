@@ -1,0 +1,4 @@
+# § 17. Sikkerhetens form
+(1) Sikkerheten stilles ved at et foretak som nevnt i finansforetaksloven § 1-3 første ledd bokstav a til d, gir en erklæring til Advokattilsynet. En slik erklæring kan også gis av et tilsvarende foretak som har hovedsete i, eller er gitt tillatelse til å drive virksomhet i, en annen EØS-stat eller Sveits, forutsatt at foretaket er underlagt myndighetstilsyn i en av disse statene.
+(2) I erklæringen skal foretaket som nevnt i første ledd (sikkerhetsstilleren) påta seg å innestå for oppfyllelse av advokatens ansvar etter reglene i advokatloven og denne forskriften. I erklæringen kan det angis at sikkerhetsstilleren innestår for ansvaret med et bestemt beløp eller innenfor den rammen som til enhver tid følger av § 18, eventuelt begrenset oppad til et nærmere angitt beløp.
+(3) Advokattilsynet kan nekte å godta en erklæring dersom det er tvil om den oppfyller kravene i første og andre ledd.

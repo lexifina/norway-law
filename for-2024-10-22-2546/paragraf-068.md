@@ -1,0 +1,5 @@
+# § 68. Gjesteadvokaters advokatvirksomhet i Norge
+(1) Gjesteadvokater kan utøve advokatvirksomhet i Norge.
+(2) Når gjesteadvokaten utøver advokatvirksomhet i Norge, gjelder de grunnleggende kravene til advokater i advokatloven kapittel 8 og reglene for god advokatskikk i vedlegg 1 til denne forskriften. Når en EØS-advokat eller en sveitsisk advokat ikke representerer en klient ved rettergang eller overfor offentlige myndigheter, gjelder reglene for god advokatskikk i vedlegg 1 likevel bare i den grad de er nødvendige for å sikre korrekt utøving av advokatvirksomheten, advokatstandens omdømme og overholdelse av prinsippet om uforenelighet.
+(3) Norske myndigheter og domstoler kan kreve dokumentasjon for at gjesteadvokaten har rett til å utøve advokatvirksomhet i hjemstaten. Når slik dokumentasjon er krevd, har personen ikke adgang til å utøve advokatvirksomhet i Norge før tilfredsstillende dokumentasjon er fremlagt, med mindre vedkommende myndighet eller domstol samtykker.
+(4) Adgangen til å utøve advokatvirksomhet i Norge opphører dersom den utenlandske advokatbevillingen opphører.

@@ -1,0 +1,3 @@
+# § 38. Advokattilsynets styre og administrasjon
+(1) Når Den Norske Advokatforening, Den Norske Dommerforening og Den Norske Revisorforening oppnevner medlemmer og varamedlemmer til Advokattilsynets styre, gjelder likestillings- og diskrimineringsloven § 28 tilsvarende. Advokattilsynets administrasjon skal koordinere oppnevningene til Advokattilsynets styre. Godtgjøringen til medlemmene og varamedlemmene fastsettes av Justis- og beredskapsdepartementet og dekkes av Advokattilsynet.
+(2) Advokattilsynets administrasjon ledes av en direktør som ansettes av Advokattilsynets styre. Direktøren har ansvaret for den daglige driften av Advokattilsynet.
