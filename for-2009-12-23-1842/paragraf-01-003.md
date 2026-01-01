@@ -1,0 +1,3 @@
+# § 1-3. Reduksjon av undersøkelsesområdets størrelse
+Innehaver av undersøkelsesrett til statens mineraler kan redusere undersøkelsesområdets størrelse, og skal i så fall sende melding om dette til Direktoratet for mineralforvaltning. Dersom undersøkelsesområdet deles inn i to eller flere uavhengige deler, beholder ett av de nye områdene gammelt løpenummer mens de øvrige tildeles nye løpenummer. Prioritet og utløpsdato for undersøkelsesrettene endres ikke som følge av reduksjon i undersøkelsesområdets størrelse.
+Bestemmelsene i § 1-2 gjelder så langt de passer for reduserte undersøkelsesområder.

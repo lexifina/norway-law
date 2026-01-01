@@ -1,0 +1,4 @@
+# § 4-4. Midlertidig utøvelse som bergteknisk ansvarlig
+Utøvelse av stillingen som bergteknisk ansvarlig kan drives på midlertidig og tilfeldig grunnlag av personer som er lovlig etablert i en annen EØS-stat med sikte på å drive slik virksomhet der, dersom vedkommende gir melding og dokumentasjon i samsvar med EØS-regler som svarer til direktiv 2005/36/EF artikkel 7 til Direktoratet for mineralforvaltning.
+Der yrket eller utdanningen og opplæringen som fører frem til yrket ikke har vært lovregulert, skal personen ha utøvd yrket i denne staten i minst to år i løpet av siste ti år, jf. direktiv 2005/36/EF artikkel 5 nr. 1 bokstav b).
+Direktoratet for mineralforvaltning kan kreve at utøveren dokumenterer å ha nødvendige språkkunnskaper for å kunne utøve stillingen som bergteknisk ansvarlig i Norge.
