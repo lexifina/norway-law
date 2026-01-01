@@ -1,0 +1,4 @@
+# § 9-1. Taushetsplikt
+Enhver som behandler personopplysninger etter denne lov, plikter å bevare taushet om det han eller hun får kjennskap til i sitt arbeid.
+Taushetsplikten omfatter ikke opplysninger om en persons fulle navn, fødselsdato, kjønn, fødsels- og d-nummer, grunnlaget for registrert identitet etter § 3-2, adresse, kontaktopplysninger for dødsbo, fødested, statsborgerskap, sivilstand, vergemål, stadfestet fremtidsfullmakt og dødsdato, med mindre slike opplysninger røper et klientforhold eller andre forhold som gjør at opplysningene må anses personlige. Det samme gjelder historiske opplysninger om navn og adresse.
+Departementet kan i forskrift fastsette unntak fra taushetsplikten for opplysninger om registreringsstatus, jf. § 3-1 første ledd bokstav w. Departementet kan i forskrift også gi regler om hvilke nærmere opplysninger om vergemål og stadfestet fremtidsfullmakt som skal omfattes av taushetsplikt.
