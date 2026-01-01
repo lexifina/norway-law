@@ -1,0 +1,3 @@
+# § 7. Opplysningsplikt og krav om tilbakebetaling
+Lotteri- og stiftelsestilsynet kan på ethvert tidspunkt kreve fremlagt opplysninger som er av betydning for behandlingen av søknaden. Søker plikter straks å melde fra til Lotteri- og stiftelsestilsynet dersom den blir oppmerksom på at en søknad inneholder ufullstendige eller uriktige opplysninger, eller at uberettiget tilskudd er utbetalt.
+Dersom det er gitt tilskudd på uriktig eller ufullstendig grunnlag, kan vedtak om tilskudd endres og det uriktig utbetalte beløpet kreves tilbakebetalt med tillegg av renter. Ved manglende tilbakebetaling vil organisasjonen først være søknadsberettiget når tilbakebetaling er foretatt.
