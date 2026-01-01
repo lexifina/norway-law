@@ -1,0 +1,4 @@
+# § 18
+1. Enkepensjoner fra tjenestepensjonsordning og etter lov av 12 desember 1958 nr. 10 om yrkesskadetrygd samordnes ved at tjenestepensjonen settes ned, slik at summen av pensjonene ikke overstiger den høyeste av dem når tjenestepensjonen regnes etter full tjenestetid.
+2. Enkepensjoner fra tjenestepensjonsordning og fra krigspensjoneringen samordnes ved at tjenestepensjonen settes ned med så stor forholdsmessig del som krigspensjonen utgjør av full krigspensjon.Overstiger summen av pensjonene ikke den høyeste av dem tillagt 1/4 av folketrygdens grunnbeløp, utbetales likevel begge pensjoner fullt ut. Er summen av pensjonene større, utbetales krigspensjonen og minst så stor del av tjenestepensjonen at det samlede utbetalte beløp svarer til den største av pensjonene tillagt 1/4 av folketrygdens grunnbeløp.
+3. Barnepensjon fra personskadetrygd (jfr. § 4 annet ledd) samordnes ved at regelen i nr. 1 anvendes tilsvarende.
