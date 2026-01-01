@@ -1,0 +1,5 @@
+# § 3. Meldefristen
+Opplysningene skal meldes innen seks måneder fra datoen den offentlige støtten blir tildelt, med unntak av bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning, som skal meldes innen 20 virkedager etter at støtten er tildelt.
+Offentlig støtte som gis i form av skatte- eller avgiftsfordel, skal meldes innen ett år fra fristen for å levere skattemelding. Støtte gitt i form av differensiert arbeidsgiveravgift skal registreres av skattemyndighetene innen 20 virkedager etter fristen til levere a-melding.
+Fremgår opplysningene om skatte- eller avgiftsfordelen av innleverte omsetningsoppgaver eller annen periodisk rapportering, skal støtten meldes til registeret innen ett år fra 31. desember i det året støtten er mottatt.
+Dersom skatte- eller avgiftsfordelen ikke fremgår av skattemeldingen eller annen periodisk rapportering, skal støttemottaker rapportere informasjon om skatte- eller avgiftsfordelen til skattemyndighetene.
