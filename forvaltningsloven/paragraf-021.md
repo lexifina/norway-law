@@ -1,0 +1,3 @@
+# § 21. (klage over avslag på krav om å få gjøre seg kjent med et dokument).
+Avslag på krav om innsyn skal være skriftlig. Blir krav om å få gjøre seg kjent med et bestemt dokument eller opplysning avslått, skal parten gjøres merksam på den bestemmelse som ligger til grunn for avslaget og hvilket ledd og hvilken bokstav i bestemmelsen som er brukt. Avslaget skal opplyse om retten til å klage etter annet ledd og klagefristen etter § 29.
+Den som har satt fram kravet, kan påklage avslaget i samsvar med reglene i kap. VI. Statsforvalteren er klageinstans når avslaget er truffet av kommunalt eller fylkeskommunalt organ.

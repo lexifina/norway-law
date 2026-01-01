@@ -1,0 +1,2 @@
+# § 18 c. (innsyn i faktiske opplysninger mv.).
+Selv om dokumentet eller deler av det er unntatt etter reglene i §§ 18 a og 18 b, har parten rett til å gjøre seg kjent med de deler av det som inneholder faktiske opplysninger eller sammendrag eller annen bearbeidelse av faktum. Dette gjelder likevel ikke faktiske opplysninger uten betydning for avgjørelsen og heller ikke når opplysningene eller bearbeidelsen finnes i et annet dokument som parten har tilgang til.

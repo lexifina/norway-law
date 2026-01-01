@@ -1,0 +1,3 @@
+# § 3. (rekkevidden av visse bestemmelser i loven).
+Bestemmelsene i kapitlene IV-VI får bare anvendelse i saker som gjelder enkeltvedtak, og bestemmelsene i kapittel VII bare i saker som gjelder forskrifter.
+Når det gjelder enkeltvedtak som nevnt i § 2, annet ledd, kan Kongen fastsette at kapitlene IV-VI helt eller delvis ikke skal gjelde i nærmere angitte saker eller for visse tjenestemenn. Vedtak i ansettelsessaker er i alle tilfelle unntatt fra reglene om begrunnelse i §§ 24-25, reglene om klage i §§ 28-34 og reglene om omgjøring i § 35 tredje ledd, om ikke vedkommende forvaltningsorgan bestemmer noe annet. Vedtak om oppsigelse eller avskjed som treffes av et kommunalt eller fylkeskommunalt organ, er unntatt fra reglene om klage i §§ 28-34.
