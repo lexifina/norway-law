@@ -1,0 +1,2 @@
+# § 1
+Rettskraftig dom, forvaltningsavgjørelse eller skriftlig avtale om underholdsbidrag til ektefelle, tidligere ektefelle, barn, stebarn eller barnets mor, som er godkjent og tvangskraftig i et annet nordisk land, skal umiddelbart anerkjennes og på begjæring fullbyrdes i Norge uten særskilt stadfesting. Det samme gjelder dommer som ennå ikke er rettskraftige, rettslige kjennelser og beslutninger forutsatt at fullbyrdelse kan skje etter vedkommende lands egen lovgivning.
