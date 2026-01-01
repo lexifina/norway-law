@@ -1,0 +1,8 @@
+# § 11. Tegninger og annen dokumentasjon
+(1) Tegninger og annen dokumentasjon som skal sendes inn, er angitt i den til enhver tid gjeldende tegnings- og dokumentasjonsliste for hurtiggående fartøy som Sjøfartsdirektoratet har utferdiget.
+(2) Stabilitetsberegninger og beregninger av brutto- og nettotonnasje, samt dokumentasjonsunderlag, skal utføres ved hjelp av et godkjent EDB-program. Samme database skal benyttes til stabilitets- og tonnasjeberegninger. Dokumentasjonen skal presenteres på en oversiktlig måte. Stabilitetsberegninger og tonnasjeberegningene skal innsendes samlet, men i separate hefter.
+(3) Hvor ikke annet er bestemt, skal tegninger og annen dokumentasjon innsendes i 3 eksemplarer til Sjøfartsdirektoratets stasjon når fartøyet skal bygges eller ombygges i Norge, eller til den Sjøfartsdirektoratet har bemyndiget.
+(4) For hurtiggående fartøy som bygges eller ombygges i utlandet eller innkjøpes fra utlandet, skal tegninger og annen dokumentasjon sendes direkte til Sjøfartsdirektoratet, med mindre annet er bestemt.
+(5) Ansvarlig for innsendelse av tegninger og dokumentasjon er byggeverkstedet og rederiet, på samme måte som etter § 10.
+(6) Hvor det ikke er gitt konkrete tidsfrister for innsendelse av dokumentasjon, må tegninger og annen dokumentasjon innsendes så tidlig som mulig, slik at det gis rimelig tid til behandling av dokumentasjonsunderlaget før besiktelse skal foretas og påbudte sertifikater kan utstedes.
+(7) For hurtiggående fartøy med nye og spesielle konstruksjonsløsninger eller særskilte operasjonelle forhold, kan Sjøfartsdirektoratet kreve at det utarbeides risikoanalyser eller annen dokumentasjon ut over det som er spesifisert i tegnings- og dokumentasjonslisten.
