@@ -1,0 +1,6 @@
+# § 79. Dimensjonering av dekksutstyr
+(1) Fundament og innfestning for utstyr som brukes til slep, skal være dimensjonert for skipets BP med en sikkerhetsfaktor på minst 3,5 mot materialets minimale flytespenning (ReH).
+(2) Ved sleping med slepekrok skal alle komponentene i slepelinen være dimensjonert for skipets BP med en sikkerhetsfaktor på minst 3 mot brudd.
+(3) Fundament og innfestning for utstyr som brukes til ankerhåndtering, enten separat eller sammen med vinsj, skal dimensjoneres for en kraft som tilsvarer 120 prosent av ankerhåndteringsoperasjonens sikre arbeidslast (WLL) med en sikkerhetsfaktor på minst 3,5 mot materialets minimale flytespenning (ReH).
+(4) Fundament og innfestning for annet dekksutstyr enn det som er nevnt i første og tredje ledd, unntatt løfteinnretning, skal dimensjoneres i henhold til utstyrets maksimale sikre arbeidslast (WLL) med en sikkerhetsfaktor på minst 3,5 mot materialets minimale flytespenning (ReH).
+(5) Når utstyr for sleping eller ankerhåndtering kan utsettes for krefter i horisontal eller vertikal retning, skal utstyret minst beregnes for skipets BP i minst gunstige retninger fra 0-60° til hver side relativt til skipets senterlinje og 30° oppover relativt til horisontalplanet.

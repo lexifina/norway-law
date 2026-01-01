@@ -1,0 +1,3 @@
+# § 37. Nødstoppmekanisme og redningsstige
+(1) Skip som bare har utendørs styreposisjon og hvor bare én person har sitt arbeid om bord, skal ha nødstoppmekanisme som stopper fremdriftsmaskineriet.
+(2) Skip hvor bare én person har sitt arbeid om bord, skal ha fastmontert redningsstige. Redningsstigen skal monteres slik at nederste trinn er minst 300 mm neddykket uansett lastekondisjon. Redningsstigen skal være klar for øyeblikkelig bruk og dimensjonert for en statisk belastning på minimum 200 kg. Sammenrullbar redningsstige anses ikke som fastmontert. Dersom den fastmonterte stigen er hengslet, skal stigen enkelt kunne utløses av en person som ligger i vannet.

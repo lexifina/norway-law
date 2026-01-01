@@ -1,0 +1,3 @@
+# § 116. Elektrisk hoved- og nødbelysningsanlegg
+(1) Skip skal ha et hovedbelysningsanlegg som gir belysning i alle deler av skipet som normalt er tilgjengelige. Dette anlegget skal forsynes fra den elektriske hovedkraftkilden. Brann eller annen skade i rom som inneholder elektrisk hovedkraftkilde, inkludert eventuelle transformatorer, skal ikke sette nødbelysningen ut av funksjon.
+(2) Skip skal ha et nødbelysningsanlegg. Dette anlegget skal forsynes fra den elektriske nødkraftkilden. Brann eller annen skade i rom som inneholder den elektriske nødkraftkilden, inkludert eventuelle transformatorer, skal ikke sette hovedbelysningssystemet ut av funksjon.

@@ -1,0 +1,2 @@
+# § 6. Skip som brukes til opplæringsformål
+Skip som kun brukes til å fange fisk, hval, sel eller andre levende ressurser i sjøen i yrkesrettet opplæring, kan som alternativ til regelverket som ligger til grunn for utstedelse av fartøyinstruks for lasteskip eller fartssertifikat for lasteskip, oppfylle regelverket som ligger til grunn for utstedelse av fartøyinstruks for fiskefartøy eller fartssertifikat for fiskefartøy.

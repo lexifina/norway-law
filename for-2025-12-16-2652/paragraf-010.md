@@ -1,0 +1,3 @@
+# § 10. Innflagging eller innførsel fra utlandet
+(1) Skip som er sertifisert eller dokumentert brukt som lasteskip i utlandet og som flagges inn eller innføres, skal minst oppfylle regelverket for norske lasteskip med samme byggedato. Med byggedato menes skipets kontraktsdato, kjølstrekkingsdato eller leveringsdato, slik det er fastsatt i den aktuelle forskriften.
+(2) Skip som ikke er omfattet av første ledd og som skal ha norsk sertifikat eller fartøyinstruks for lasteskip for første gang ved innflagging eller innførsel fra utlandet, skal oppfylle regelverket som gjelder for et nytt lasteskip.
