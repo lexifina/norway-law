@@ -1,0 +1,4 @@
+# § 17. Tvangssalg
+Oversittes fristen for avvikling av eiendomsrett etter § 14 tredje ledd, kan departementet kreve eiendommen solgt gjennom namsmyndighetene etter reglene om tvangssalg så langt de passer. Bestemmelsen i tvangsfullbyrdelsesloven § 11-20 om det minste bud som kan stadfestes, gjelder ikke.
+Oversittes fristen etter § 14 tredje ledd når det gjelder andre rettigheter, kan departementet la rettigheten tvangsselges etter første ledd eller erklære rettigheten for bortfalt.
+Første ledd gjelder tilsvarende for overdragelse av aksje eller part i selskap. Unnlater innehaver av et partsbrev som er tvangssolgt etter denne paragraf å utlevere det, kan kjøperen på eierens og innehaverens felles bekostning kreve partsbrevet mortifisert. Selskapet plikter deretter å utstede nytt partsbrev som skal inneholde uttrykkelig opplysning om at det trer i stedet for det som er mortifisert.

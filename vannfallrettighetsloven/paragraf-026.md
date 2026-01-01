@@ -1,0 +1,3 @@
+# § 26. Erverv av eierandel i andre selskaper
+For erverv av eierandel i andre selskaper enn de som omfattes av §§ 23 og 25, gjelder lovens bestemmelser om erverv av eiendomsrett til vannfall eller annen rådighet over vannfall, så langt selskapet direkte eller indirekte innehar eiendomsrett eller annen rettighet som erververen ikke kunne erverve uten konsesjon eller vedtak etter denne lov.
+Ved erverv etter første ledd kan det foretas konsesjonsbehandling eller endring av vilkår i konsesjoner meddelt selskapet, laget eller sammenslutningen som innehar vannfallrettighetene for tidligere erverv. Erververen kan gis konsesjon uten at det settes vilkår etter kapittel 5.

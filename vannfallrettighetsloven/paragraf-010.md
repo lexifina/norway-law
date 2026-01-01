@@ -1,0 +1,2 @@
+# § 10. Omgjøring av konsesjonsvilkår
+Kongen kan etter søknad endre vilkår som er fastsatt i en konsesjon etter denne loven eller etter tidligere lovgivning om erverv av vannfall. Endringen må likevel ikke gå utenfor de grenser som følger av denne lovens bestemmelser om konsesjonsvilkår. Søknad om omgjøring av tidligere fastsatte vilkår om tidsbegrensning og hjemfall, skal innvilges så fremt erververen oppfyller vilkårene i § 5.

@@ -1,0 +1,5 @@
+# § 3. Unntak fra konsesjonsplikt eller vilkår for konsesjon
+Konsesjon er ikke nødvendig ved erverv av vannfall ved skifte av ekteskapelig felleseie eller ved arv, odelsløsning eller overdragelse når erververen (arvingen) er nærmere odelsberettiget enn overdrageren (arvelateren), er dennes ektefelle, eller beslektet eller besvogret med ham i opp- eller nedstigende linje eller i første eller annen sidelinje. Er det tidligere gitt konsesjon for erverv av vannfallet, gjelder konsesjonsvilkårene også for den nye erververen.
+Når særlige hensyn foreligger, kan departementet fatte enkeltvedtak om unntak fra konsesjonsplikt og forkjøpsrett.
+Skal det ervervede vannfallet ikke utnyttes til kraftproduksjon, kan Kongen gi tillatelse til erverv uten at eierskapskravet i § 5 er oppfylt og uten at det settes vilkår etter kapittel 5.
+Søker konsesjonæren senere om utbygging, skal Kongen fastsette vilkår etter loven her. Påbegynnes utbygging uten at vilkår er fastsatt, gjelder § 14 tredje og fjerde ledd og § 17.

@@ -1,0 +1,3 @@
+# § 12. Innhold i søknad
+Søknad om konsesjon eller annet vedtak etter denne lov skal gi en beskrivelse av de forhold saken gjelder med nødvendig dokumentasjon. Søknaden kan forlanges supplert.
+Søknad fra et selskap skal vedlegges erklæring fra styret om at de opplysninger som er gitt i forbindelse med konsesjonssøknaden om ledelsen av selskapet og eiendomsretten til grunnkapitalen er uttømmende og dekker det reelle forhold. Blir konsesjon gitt, skal selskapets styre senere sende inn erklæring etter første punktum og bekreftelse om at konsesjonsvilkårene er overholdt, dersom departementet krever det.

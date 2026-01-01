@@ -1,0 +1,5 @@
+# § 30. Avtaler om rettigheter til vannfall
+Etter søknad kan departementet treffe vedtak om at en konsesjon for leie av et vannfall som allerede er utbygd, forlenges for inntil 30 år av gangen. Etter søknad kan departementet treffe vedtak om at forlengelse av konsesjonsfrie inngåtte avtaler om leie av vannfall kan foretas uten konsesjon for inntil 30 år av gangen. Leieforholdet kan overdras i tilfeller som nevnt i tredje ledd.
+Det kan settes vilkår for forlengelser etter første ledd første punktum. Paragraf 2 tredje ledd og §§ 19, 20, 21 og 31, gjelder tilsvarende så langt de passer.
+Departementet kan samtykke til at eksisterende bruksretter, tidsbegrensede langsiktige disposisjonsretter og leieforhold som nevnt i første ledd overdras til foretak mv. som nevnt i § 5 i forbindelse med omorganisering eller liknende. Departementet kan gi samtykke til at foretak mv. som oppfyller vilkårene i § 5, kan erverve tidsubegrenset medeierskap til vannkraftproduksjon.
+Bestemmelsene i § 10 første punktum og §§ 14, 16 og 17 får tilsvarende anvendelse så langt de passer.

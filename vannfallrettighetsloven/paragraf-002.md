@@ -1,0 +1,4 @@
+# § 2. Konsesjonsplikt
+Uten tillatelse av Kongen (konsesjon) kan ingen andre enn staten med full rettsvirkning erverve eiendomsrett til vannfall (fall eller stryk) som ved regulering antas å kunne utbringe mer enn 4.000 naturhestekrefter, enten alene, eller i forbindelse med andre vannfall som erververen eier eller bruker når fallene hensiktsmessig kan bygges ut under ett. Erverv av andre rettigheter enn eiendomsrett over vannfall som nevnt i første punktum kan bare skje med hjemmel i denne lov.
+Gjelder ervervet vannfall som ved regulering antas å kunne utbringe mer enn 20.000 naturhestekrefter, eller står betydelige interesser mot hverandre, skal saken forelegges for Stortinget før konsesjon blir gitt, med mindre departementet finner det unødvendig.
+Konsesjonen gir adgang til å utnytte vannfallet som kraftkilde.

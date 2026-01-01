@@ -1,0 +1,3 @@
+# § 9. Adgang til revisjon
+Vilkårene for konsesjon for erverv av eiendomsrett eller bruksrett etter denne lov kan tas opp til alminnelig revisjon etter 30 år. Er det gitt flere ervervskonsesjoner i samme vassdrag, kan kortere revisjonstid fastsettes. Blir vilkårene revidert, har konsesjonæren adgang til å frasi seg konsesjonen innen 3 måneder etter å ha fått underretning om de reviderte vilkårene. Frafalles konsesjonen, gjelder § 14 tredje og fjerde ledd og § 17 tilsvarende. Frafalles ikke konsesjonen innen fristen, er konsesjonæren bundet av de nye vilkårene.
+Kongen kan gi forskrifter med nærmere bestemmelser om saksbehandlingen ved revisjon av konsesjonsvilkår.
