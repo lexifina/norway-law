@@ -1,0 +1,4 @@
+# § 2-3. Generelle opptakskrav
+(1) For opptak til studier ved AHO kreves ordinært generell studiekompetanse samt faglige kvalifikasjoner som vurderes ved opptaksprøver, jf. forskrift om opptak til høgare utdanning § 2-1.
+(2) Søkere med utenlandsk utdanning fra land utenfor Norden må i tillegg dokumentere språkkunnskaper fastsatt i forskrift om opptak til høgare utdanning § 2-2. Det forventes at alle som får opptak til et studieprogram gjennom Samordna opptak forstår og kan gjøre seg forstått på norsk.
+(3) Særskilt unntak fra kravet om generell studiekompetanse kan gis til søkere som gjennom opptaksprøvene dokumenterer spesielle faglige kvalifikasjoner, jf. forskrift om opptak til høgare utdanning § 4-4 andre ledd. Ved unntak fra kravet om generell studiekompetanse må søkeren likevel dokumentere nødvendige språkkunnskaper.
