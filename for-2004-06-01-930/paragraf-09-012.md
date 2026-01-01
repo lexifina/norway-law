@@ -1,0 +1,2 @@
+# § 9-12. Registrering
+Det skal føres register over de mengder avfall som deponeres og dets egenskaper, med angivelse av opprinnelse, leveringsdato, avfallsprodusentens identitet, og nøyaktig deponeringssted dersom det dreier seg om farlig avfall. Disse opplysningene skal stilles til disposisjon for den nasjonale statistikkmyndigheten og EU dersom det anmodes om dette til statistikkformål. Opplysningene skal oppbevares i 10 år.

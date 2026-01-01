@@ -1,0 +1,3 @@
+# § 1-11b. Plikt for produsenter og representanter til å rapportere til returselskap
+Produsenter og representanter skal rapportere til returselskapet foretaksnummer, kontaktinformasjon, merkevarenavn på EE-produktene, innenlandsk produksjon og avgi en erklæring om at informasjonen er korrekt.
+Dersom produsenter eller representanter blir kjent med at informasjon i registeret Produsentansvar om import-, eksport- og produksjonsdata for siste halvår, kontaktinformasjon, foretaksnummer eller salgsmetode ikke er korrekt, skal produsent eller representant avgi dokumentert korrekt data til returselskapet, som skal rapportere dette videre til registeret Produsentansvar etter § 1-19.

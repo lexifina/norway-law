@@ -1,0 +1,4 @@
+# § 16-12. Import av radioaktivt avfall
+Import av radioaktivt avfall krever tillatelse fra Direktoratet for strålevern og atomsikkerhet. Det kan fastsettes vilkår for slik tillatelse.
+Tillatelse til import av radioaktivt avfall kan bare gis dersom det foreligger tungtveiende grunner og det eksisterer miljømessig forsvarlige løsninger for å håndtere og behandle avfallet i Norge hos virksomhet som har ledig kapasitet og nødvendige tillatelser etter norsk regelverk.
+Import av offshoreinstallasjoner som inneholder både radioaktivt avfall og farlig avfall krever kun tillatelse fra Miljødirektoratet etter kapittel 13 om grensekryssende transport av avfall og rådsforordning (EF) nr. 1310/2006. Miljødirektoratet skal innhente en uttalelse fra Direktoratet for strålevern og atomsikkerhet om importen av det radioaktive avfallet før tillatelse til import kan gis.

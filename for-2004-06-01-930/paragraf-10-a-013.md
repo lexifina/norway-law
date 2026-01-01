@@ -1,0 +1,3 @@
+# § 10a-13. Plikt til forberedelse til ombruk eller materialgjenvinning av utsortert avfall
+Behandlingsanlegg for avfall som tar imot utsortert matavfall, plastavfall, papp- og papiravfall, glass- og metallemballasjeavfall, park- og hageavfall, tekstilavfall og landbruksplastavfall for forberedelse til ombruk eller materialgjenvinning, eller den som eksporterer slikt utsortert avfall til behandlingsanlegg i utlandet, skal sørge for forberedelse til ombruk eller materialgjenvinning av avfallet.
+Dersom deler av avfallet ut fra en avveining av miljøhensyn, ressurshensyn eller beste tilgjengelige teknikk er uegnet for forberedelse til ombruk eller materialgjenvinning, gjelder ikke kravet om forberedelse til ombruk og materialgjenvinning i første ledd for disse delene.

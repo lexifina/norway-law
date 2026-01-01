@@ -1,0 +1,2 @@
+# § 10-6. Unntak for industrianlegg
+Forurensningsmyndigheten kan gjøre unntak fra kravene i § 10-5 for anlegg som er del av en virksomhet som er oppført i forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) kapittel 36 om behandling av tillatelser etter forurensningsloven vedlegg I, dersom anlegget kun forbrenner avfall fra egen virksomhet på stedet der avfallet oppstår, og øvrige krav etter bestemmelsene i dette kapitlet er oppfylt.

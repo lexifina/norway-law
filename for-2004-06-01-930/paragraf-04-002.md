@@ -1,0 +1,3 @@
+# § 4-2. Virkeområde
+Avsnitt II Retursystem for kasserte kjøretøy, avsnitt IV Utfylling av vrakmelding og utbetaling av vrakpant og avsnitt V Avsluttende bestemmelser gjelder for kjøretøy i gruppe M1 og N1 samt trehjulsmotorvogn som ikke er trehjulet motorsykkel, beltemotorsykler, minibusser og busser som er under 6 meter lange og innrettet for transport av inntil 16 personer foruten fører, samt for campingbiler og kombinertbiler, jf. forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften).
+Avsnitt III Behandling av kasserte kjøretøy gjelder for alle kjøretøy.

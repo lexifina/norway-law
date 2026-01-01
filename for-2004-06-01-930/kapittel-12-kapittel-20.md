@@ -1,0 +1,10 @@
+# Vedlegg X. Standardisering av måleresultater og beregning av middelverdier for utslipp til luft
+1. Standardisering av måleresultater
+Resultatene av målinger som foretas ved et forbrenningsanlegg skal standardiseres til følgende referansebetingelser: temperatur 273,15 K, trykk 101,3 kPa og tørr gass.
+Måleresultater fra avfallsforbrennings- og samforbrenningsanlegg skal som hovedregel standardiseres til et oksygeninnhold som angitt i henholdsvis vedlegg V og vedlegg II til dette kapitlet.
+Ved forbrenning av avfall i en atmosfære tilsatt ekstra oksygen, kan måleresultatene standardiseres til et oksygeninnhold som fastsettes av forurensningsmyndigheten, og som tar hensyn til de spesielle forholdene som foreligger.
+Ved forbrenning av farlig og/eller smittefarlig avfall skal standardisering med hensyn til oksygeninnhold kun utføres dersom det faktiske oksygeninnholdet i røykgassen, bestemt for tidsrommet hvor utslippsmålingene blir gjennomført, overstiger den relevante referansebetingelsen for oksygeninnhold gitt i dette vedlegget.
+Standardisering med hensyn til oksygeninnhold skal i alle tilfeller utføres i henhold til formel i vedlegg VI til dette kapitlet.
+2. Beregning av middelverdier
+Ved beregning av times-, halvtimes- og timinuttersmiddelverdier fra utslippsmålinger som foretas ved et forbrenningsanlegg, skal det benyttes måleverdier fra hele den ordinære driftstiden til anlegget. Opp- og nedkjøring av anlegget, så lenge det ikke forbrennes avfall, regnes ikke som ordinær drift, jf. § 10-3 bokstav h. Døgnmiddelverdiene skal bestemmes ut fra de beregnede times-, halvtimes- eller timinuttersmiddelverdiene.
+For å oppnå en gyldig døgnmiddelverdi kan ikke mer enn to times-, fem halvtimes- eller femten timinuttersmiddelverdier per døgn forkastes på grunn av svikt ved eller vedlikehold av det kontinuerlige måleutstyret. Ikke mer enn ti døgnmiddelverdier kan, over en løpende ettårsperiode, forkastes på grunn av slike problemer med måleutstyret. Døgnmiddelverdiene det her refereres til skal beregnes over en fast periode av 24 timers varighet.

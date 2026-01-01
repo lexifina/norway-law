@@ -1,0 +1,4 @@
+# § 1-15. Individuelt finansierte returselskapers plikt til å sikre innsamling av EE-avfall
+Individuelt finansierte returselskaper har ansvar for EE-produkter som hvert av medlemmene har produsert i Norge eller importert etter at vedkommende produsent ble medlem i returselskapet. Ansvaret gjelder til disse EE-produktene blir til avfall eller de blir eksportert, og uavhengig av om produsenten fortsatt er medlem i returselskapet.
+Returselskapet må etablere og drive innsamlingsordninger som gjør det overveiende sannsynlig at de EE-produktene selskapet har ansvar for, returneres til returselskapet ved kassering.
+Det individuelt finansierte returselskapet kan ikke kreve at forhandlere eller kommuner sorterer ut og/eller overleverer EE-avfall av et bestemt merke eller fabrikat til returselskapet. Returselskapet kan heller ikke basere sannsynliggjøringen etter annet ledd på slik utsortering og/eller overlevering.

@@ -1,0 +1,3 @@
+# § 1-6. Plikt til å informere
+Forhandler skal informere om at EE-avfall ikke skal kastes sammen med annet avfall og at det tas i mot vederlagsfritt. Det skal informeres gjennom oppslag i alle butikklokaler, fremvisnings- og utstillingslokaler, på midlertidige utsalgssteder og i alt salgs- og informasjonsmateriell som publiseres i tilknytning til salgsvirksomheten, både i elektroniske og papirbaserte medier. Teksten skal være iøynefallende, lett lesbar og skille seg ut fra øvrig informasjon.
+Når EE-produkter omsettes eller leveres utenfor butikklokale i Norge, herunder ved netthandel, skal forhandler informere om mulighet for vederlagsfri retur. Informasjonen skal være iøynefallende, lett lesbar, skille seg ut fra øvrig informasjon og fremkomme tydelig ved kjøp.

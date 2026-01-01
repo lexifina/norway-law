@@ -1,0 +1,4 @@
+# § 7B-10. Plikt til medlemskap i produsentansvarsselskap
+Produsenter skal oppfylle sine plikter etter §§ 7B-4 til 7B-8 ved å etablere eller melde seg inn i et godkjent produsentansvarsselskap, jf. § 7B-13.
+Plikten til å være medlem i godkjent produsentansvarsselskap gjelder produsenter av både komponenter og selvstendige produkter som er fiskeutstyr som inneholder plast. Dersom komponenter inngår i produksjon av nytt fiskeutstyr som omfattes av produsentansvaret etter dette kapittelet, gjelder plikten til medlemskap likevel bare for produsenten av det nye fiskeutstyret.
+Dersom produsentansvarsselskapet ikke ivaretar pliktene nevnt i første ledd, skal produsenten selv sørge for at pliktene oppfylles. Produsenten skal også sørge for at pliktene til rapportering i § 7B-18 oppfylles, dersom disse ikke ivaretas av produsentansvarsselskapet.

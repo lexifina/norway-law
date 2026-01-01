@@ -1,0 +1,4 @@
+# § 17-22. Overgangsbestemmelser
+For håndtering av avfall fra virksomhet som omfattes av forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) kapittel 30 om forurensninger fra produksjon av pukk, grus, sand og singel, skal avfallshåndteringsplan være sendt forurensningsmyndigheten innen to år etter at endringene i dette kapittelet trer i kraft. Fristen gjelder også for deponering av ikke-farlig avfall fra prospektering av mineralressurser, unntatt olje og andre inndampingsprodukter enn gips og anhydritt samt deponering av ikke-forurensede løsmasser og avfall fra utvinning, behandling og lagring av torv.
+Bestemmelsene i dette kapittelet får ikke anvendelse på avfallsanlegg som er avsluttet før 1. mai 2008.
+Bestemmelsene i § 17-4 til § 17-11, § 17-13, § 17-19 og § 17-20 første ledd, får ikke anvendelse på avfallsanlegg som er avsluttet etter 30. april 2008 og som opphørte med å motta avfall før 1. mai 2006.

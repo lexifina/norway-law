@@ -1,0 +1,3 @@
+# § 7-22. Plikt til rapportering ved innsamling utenfor godkjent produsentansvarsselskap
+Innsamler av emballasjeavfall til materialgjenvinning skal årlig rapportere mengden emballasjeavfall, fordelt på emballasjetypene angitt i § 7-10 som samlet overstiger 1 500 kg og ikke er samlet inn som en del av en avtale med et godkjent produsentansvarsselskap. Rapporteringen skal skje til et godkjent produsentansvarsselskap eller Miljødirektoratet.
+Første ledd gjelder ikke for drikkevareemballasje som samles inn gjennom godkjent retursystem for inneremballasje til drikkevarer jf. avfallsforskriften § 6-4.

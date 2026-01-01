@@ -1,0 +1,2 @@
+# Kapittel 17. Håndtering av avfall fra utvinningsindustrien
+Fastsatt med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9, § 12, § 40, § 41 og § 86. Jf. EØS-avtalen vedlegg XX nr. 32fe (direktiv 2006/21/EF), nr. 32fea (beslutning 2009/335/EF), nr. 32feb (beslutning 2009/337/EF), nr. 32fed (beslutning 2009/359/EF) og nr. 32fee (beslutning 2009/360/EF).

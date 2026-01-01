@@ -1,0 +1,4 @@
+# § 10a-11. Plikt til utsortering, innsamling mv. av landbruksplastavfall
+Virksomheter som bruker landbruksplast skal sørge for at landbruksplastavfall som kan forberedes til ombruk eller materialgjenvinnes, utsorteres ved kildesortering. Kildesortering av landbruksplastavfall kan erstattes av annen sortering dersom metoden gir minst like høy utsorteringsandel og andel avfall som forberedes til ombruk eller materialgjenvinnes som ved kildesortering.
+Virksomheter som bruker landbruksplast skal sørge for separat innsamling av utsortert landbruksplastavfall jf. første ledd og at utsortert landbruksplastavfall leveres til forberedelse til ombruk eller materialgjenvinning.
+Miljødirektoratet kan gi nærmere retningslinjer om landbruksplastavfall som kan forberedes til ombruk eller materialgjenvinnes jf. første ledd.

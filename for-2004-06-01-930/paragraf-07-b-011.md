@@ -1,0 +1,4 @@
+# § 7B-11. Plikt til rapportering til produsentansvarsselskap
+Produsent skal rapportere til produsentansvarsselskapet den er medlem av om mengden fiskeutstyr som inneholder plast den bringer i omsetning. Rapporteringen skal angi mengden fiskeutstyr i tonn, fordelt på utstyr benyttet i fiskeri, i akvakultur og i fritidsfiske. Rapporteringen skal skje en gang i året eller oftere hvis produsentansvarsselskapet krever det.
+Beregning av mengder for rapporteringen etter første ledd skal gjøres på grunnlag av utstyrets totale vekt, herunder både plast og andre materialer.
+Produsentansvarsselskapet kan kreve å få ytterligere informasjon eller dokumentasjon fra produsent om fiskeutstyret produsenten bringer i omsetning, dersom det er nødvendig for å oppfylle rapporteringsforpliktelser overfor myndighetene, jf. § 7B-18.

@@ -1,0 +1,3 @@
+# § 7-8. Plikt til kostnadsdekning for separat innsamling og håndtering av avfall fra emballasje
+Produsent skal dekke nødvendige kostnader til separat innsamling og etterfølgende transport og behandling av avfall fra emballasjen den setter på det norske markedet. Der kildesortering og separat innsamling erstattes med annen sortering og innsamling jf. avfallsforskriften §§ 10a-4 andre ledd, 10a-5 første ledd, 10a-8 tredje ledd og 10a-9, skal produsent dekke nødvendige kostnader ved innsamling, etterfølgende transport, sortering og behandling av avfall fra emballasjen den setter på det norske markedet.
+Inntekter fra salg av emballasjeavfallet, materialgjenvunnet råvare eller andre inntekter fra avfallet skal hensyntas ved beregningen av kostnadene etter første ledd.

@@ -1,0 +1,2 @@
+# Kapittel 10a. Utsortering, innsamling, forberedelse til ombruk og materialgjenvinning av enkelte avfallstyper
+Fastsatt med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 30, § 32, § 33, § 49 og § 81, jf. delegeringsvedtak 8. juli 1983 nr. 1245 og delegeringsvedtak 11. juni 1993 nr. 785. EØS-henvisninger: EØS-avtalen vedlegg XX kapittel V nr. 32ff (direktiv 2008/98/EF, som endret ved direktiv (EU) 2018/851).

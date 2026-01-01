@@ -1,0 +1,4 @@
+# § 10-16. Skorsteinshøyde
+Røykgassen fra forbrenningsanlegget skal slippes ut på en kontrollert måte gjennom en skorstein. Utslippshøyden skal beregnes slik at konsentrasjonen av luftforurensninger ved bakkenivå eller ved eventuelle nærliggende luftinntak ikke overskrider anbefalte luftkvalitetskriterier. Beregningene skal gjennomføres på grunnlag av den tillatte utslippsmengde, eksisterende bakgrunnskonsentrasjon og de ugunstigste spredningsforhold som kan forekomme. Det skal brukes kompetent ekstern bistand til beregningene.
+Forurensningsmyndigheten kan i utslippstillatelsen angi tallfestede krav til utslippshøyden.
+Forurensningsmyndigheten kan i særlige tilfeller gjøre unntak fra bestemmelsen i første ledd andre punktum med hensyn til hvilke grenseverdier luftforurensningene må overholde.

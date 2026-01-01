@@ -1,0 +1,9 @@
+# § 10a-14. Dokumentasjonsplikt
+Behandlingsanlegg for avfall som har plikter etter § 10a-13 skal ha kunnskap om og dokumentasjon på
+a) årlig mengde utsortert matavfall, plastavfall, papp- og papiravfall, glass- og metallemballasjeavfall, park- og hageavfall, tekstilavfall og landbruksplastavfall som er mottatt for forberedelse til ombruk og materialgjenvinning,
+b) årlig mengde utsortert matavfall, plastavfall, papp- og papiravfall, glass- og metallemballasjeavfall, park- og hageavfall, tekstilavfall og landbruksplastavfall som er forberedt til ombruk og materialgjenvunnet,
+c) årlig mengde utsortert matavfall, plastavfall, papp- og papiravfall, glass- og metallemballasjeavfall, park- og hageavfall, tekstilavfall og landbruksplastavfall som er vurdert som uegnet for forberedelse til ombruk eller materialgjenvinning jf. § 10a-13 andre ledd og hvilke vurderinger som er gjort for dette avfallet.
+Eksportører som har plikter etter § 10a-13 skal ha kunnskap om og dokumentasjon på
+a) årlig mengde utsortert matavfall, plastavfall, papp- og papiravfall, glass- og metallemballasjeavfall, park- og hageavfall, tekstilavfall og landbruksplastavfall som er eksportert til forberedelse til ombruk, forbehandling før materialgjenvinning eller direkte til materialgjenvinning ved lovlig avfallsanlegg i utlandet,
+b) årlig mengde av eksportert utsortert matavfall, plastavfall, papp- og papiravfall, glass- og metallemballasjeavfall, park- og hageavfall, tekstilavfall og landbruksplastavfall jf. bokstav a. som er vurdert som uegnet for forberedelse til ombruk eller materialgjenvinning jf. § 10a-13 andre ledd, og hvilke vurderinger som er gjort for dette avfallet.
+Dokumentasjon som nevnt i første og andre ledd skal tas vare på i minst 5 år og være tilgjengelig ved kontroll eller på forespørsel fra tilsynsmyndigheten.

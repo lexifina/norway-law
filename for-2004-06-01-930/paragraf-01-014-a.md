@@ -1,0 +1,2 @@
+# § 1-14a. Krav om revisorgodkjenning og revisorkontroll
+Returselskapet skal innen 15. februar hvert år ha utført revisorgodkjenning av årsrapport over totalt innsamlede mengder EE-avfall, og innen 15. februar hvert andre år ha utført revisorkontroll av fordelingsnøkler og snittvekt som fordeler innsamlede mengder EE-avfall til produktgrupper med undergrupper. Returselskapet skal anvende en godkjent revisor og sikre at revisjonene blir utført i henhold til kravene i vedlegg 3.

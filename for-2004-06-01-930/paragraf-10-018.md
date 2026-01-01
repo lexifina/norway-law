@@ -1,0 +1,3 @@
+# § 10-18. Felles rensing
+Dersom avløpsvann fra rensing av røykgassen ved et gitt forbrenningsanlegg behandles sammen med tilsvarende avløpsvann fra andre forbrenningsanlegg eller med avløpsvann fra andre prosesser, skal utslippsgrensene i § 10-17 første ledd gjelde for den delen av totalutslippet til vann som kan tilskrives avløpsvannet fra det gitte anlegget.
+Driftsansvarlig skal sørge for at det utføres nødvendige målinger i henhold til § 10-24 i vannstrømmene inn og ut av det felles vannrenseanlegget, og at det om nødvendig foretas massebalanseberegninger for å kontrollere at bestemmelsen i første ledd overholdes.

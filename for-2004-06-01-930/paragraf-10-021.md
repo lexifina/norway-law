@@ -1,0 +1,8 @@
+# § 10-21. Målinger av utslipp til luft
+Det skal utføres følgende målinger av utslipp til luft ved et forbrenningsanlegg:
+a) kontinuerlige målinger av totalt støv, TOC, HCl, HF, SO2, NOx og CO,
+b) minst én måling hver sjette måned av tungmetaller og dioksiner. Det skal imidlertid utføres minst én måling hver tredje måned det første året anlegget er i ordinær drift.
+Forurensningsmyndigheten kan gjøre unntak fra kravet om kontinuerlige målinger av HCl, HF og SO2 i første ledd bokstav a og bestemme at det skal foretas periodiske målinger av disse parametrene som angitt i første ledd bokstav b, eller at målinger kan utelates dersom driftsansvarlig kan dokumentere at utslippene av HCl, HF og SO2 ikke kan overskride utslippsgrensene fastsatt i § 10-15.
+Forurensningsmyndigheten kan gjøre unntak fra kravet om kontinuerlige målinger av NOx i første ledd bokstav a for eksisterende avfallsforbrenningsanlegg med en nominell kapasitet på mindre enn 6 tonn per time og bestemme at det skal foretas periodiske målinger som angitt i første ledd bokstav b dersom driftsansvarlig kan dokumentere, basert på opplysninger om kvaliteten på avfallet, på den anvendte teknologien og på utslippsmålinger, at utslippene av NOx ikke kan overskride utslippsgrensen fastsatt i § 10-15.
+Forurensningsmyndigheten kan gjøre unntak fra kravet om periodiske målinger av tungmetaller og dioksiner i første ledd bokstav b forutsatt at det settes krav om minst én måling hver 24. måned for tungmetaller og minst én måling hver 12. måned for dioksiner, og at betingelsene i vedlegg XI til dette kapitlet er oppfylt.
+For anlegg omfattet av del X gjelder i tillegg målekravene i § 10-38.

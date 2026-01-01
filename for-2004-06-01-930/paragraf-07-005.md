@@ -1,0 +1,3 @@
+# § 7-5. Plikt til medlemskap i produsentansvarsselskap for emballasje
+Produsent skal oppfylle sine plikter etter §§ 7-7 til 7-11 ved å etablere eller melde seg inn i et godkjent produsentansvarsselskap, jf. § 7-13. For inneremballasje til drikkevarer, kan produsent oppfylle sine plikter ved å etablere eller melde seg inn i et godkjent retursystem, jf. avfallsforskriften § 6-4.
+Dersom produsentansvarsselskapet eller retursystemet ikke ivaretar pliktene nevnt i første ledd, skal produsent selv sørge for at pliktene oppfylles. Produsent skal også sørge for at pliktene til rapportering i § 7-16 oppfylles dersom disse ikke ivaretas av produsentansvarsselskapet eller retursystemet.

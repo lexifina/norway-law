@@ -1,0 +1,3 @@
+# § 7B-8. Informasjon og holdningsskapende arbeid
+Produsent skal sørge for informasjon til brukere av fiskeutstyr og fremme ansvarlig brukeradferd for å redusere forsøpling fra fiskeutstyret de har brakt i omsetning og bidra til en sirkulær økonomi. Informasjonen skal omfatte ombruksalternativer, riktig avfallshåndtering og negative miljøeffekter ved forsøpling og uønsket avfallshåndtering.
+Produsent skal ha en skriftlig plan for årlige tiltak for oppfyllelse av pliktene etter første ledd. Oppfølging av planen skal dokumenteres skriftlig. Plan og dokumentasjon på oppfølging skal gjøres tilgjengelig for Miljødirektoratet ved kontroll eller på forespørsel.

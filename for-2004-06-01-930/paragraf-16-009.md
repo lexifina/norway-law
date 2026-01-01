@@ -1,0 +1,2 @@
+# § 16-9. Virksomhetenes deklarasjonsplikt om avfallets innhold
+Virksomhet som leverer radioaktivt avfall skal gi tilstrekkelige opplysninger om avfallets opprinnelse, innhold og egenskaper, slik at den videre håndteringen av avfallet kan skje på en forsvarlig måte. Når avfallet leveres, skal virksomheten fylle ut et deklarasjonsskjema som er godkjent av Direktoratet for strålevern og atomsikkerhet. Emballasjen skal merkes tydelig med deklarasjonsskjemaets løpenummer. Merkingen må tåle fysiske og klimatiske påvirkninger.

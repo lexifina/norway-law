@@ -1,0 +1,3 @@
+# § 3-7. Plikt til medlemskap i returselskap
+Produsenter av batterier skal oppfylle sitt produsentansvar gjennom medlemskap i et godkjent returselskap for kasserte batterier. Medlemskapet skal dekke den eller de batterikategorier som produsenten importerer til eller produserer i Norge. Dersom virksomheten opphører i Norge, skal produsenten melde seg ut av returselskapet.
+Produsenter av batterier som er innebygd i EE-produkter eller kjøretøy og som er medlem i godkjent returselskap etter denne forskrifts kapittel 1 og 4 trenger ikke, for så vidt gjelder disse batteriene, å være medlem i et returselskap med godkjenning etter § 3-8.

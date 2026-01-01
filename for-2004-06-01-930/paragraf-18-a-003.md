@@ -1,0 +1,2 @@
+# § 18a-3. Forordning om fastsettelse av kriterier for å bestemme når kobberskrap opphører å være avfall
+EØS-avtalen vedlegg XX nr. 32ffc (forordning (EU) nr. 715/2013) om fastsettelse av kriterier for når kobberskrap opphører å være avfall i henhold til europaparlaments- og rådsdirektiv 2008/98/EF gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.

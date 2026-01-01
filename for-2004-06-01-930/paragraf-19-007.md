@@ -1,0 +1,2 @@
+# § 19-7. Straff
+Overtredelse av bestemmelser i denne forskriften med hjemmel i forurensningsloven § 30 til § 33, kan straffes med bøter, jf. forurensningsloven § 79 annet ledd, hvis forholdet ikke omfattes av strengere straffebestemmelser. Ved øvrige overtredelser av forskriften eller vedtak truffet i medhold av forskriften, kommer forurensningsloven kapittel 10 eller produktkontrolloven § 12 til anvendelse, hvis forholdet ikke omfattes av strengere straffebestemmelser.

@@ -1,0 +1,6 @@
+# § 4-3. Definisjoner
+a) Med produsent menes enhver som ervervsmessig importerer eller i Norge produserer kjøretøy til det norske markedet.
+b) Med behandling menes enhver aktivitet etter at kjøretøyet er levert til et behandlingsanlegg for kasserte kjøretøy for fjerning av farlige stoffer og videre demontering, deling, fragmentering, gjenvinning eller forberedelse til fjerning av restavfall etter fragmentering (shredder-fluff), eller andre operasjoner som gjøres for gjenvinning eller sluttbehandling av det kasserte kjøretøyet og dets deler.
+c) Med farlige stoffer menes kjemiske stoffer og stoffblandinger som kan medføre helse-, miljø-, brann- og eksplosjonsfare, jf. forskrift om klassifisering, merking mv. av farlige kjemikalier § 3 a–o eller forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) § 1, jf. CLP-forordningen vedlegg I, alt etter hvilket regelverk som gjelder.
+d) Med demonteringsopplysninger menes alle opplysninger som er nødvendige for å behandle kasserte kjøretøy på en miljømessig forsvarlig måte, herunder opplysninger om plassering av komponenter og materialer med innhold av farlige stoffer og opplysninger om gjenvinnbarhet.
+e) Med gjenvinning menes både gjenbruk, materialgjenvinning og gjenvinning med energiutnyttelse.
