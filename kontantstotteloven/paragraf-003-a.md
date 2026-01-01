@@ -1,0 +1,2 @@
+# § 3 a. Arbeidstakere på kontinentalsokkelen
+Bestemmelsene i trygdeforordningen og gjennomføringsforordningen, jf. folketrygdloven § 1-3 a, får tilsvarende anvendelse på en arbeidstaker mv. som arbeider med leting etter eller utvinning av olje, gass eller andre naturressurser på den norske delen av kontinentalsokkelen, som om vedkommende hadde arbeidet på norsk territorium. Avtaler som nevnt i § 22 første ledd og folketrygdloven § 1-3 b første ledd, får anvendelse på kontinentalsokkelen i den utstrekning det er bestemt i den enkelte avtale.
