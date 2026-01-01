@@ -1,0 +1,3 @@
+# § 9. Beregning av stønad – terskelverdi og stønadsgrad
+Strømstønad til fjernvarmekunder skal beregnes etter lov om Norgespris og strømstønad til husholdninger § 13. Beregningen skal baseres på månedlig forbruk og månedlig gjennomsnittlig elspotpris i prisområdet leveringsstedet tilhører.
+For forbruk fra og med 1. oktober 2025 til og med 31. desember 2025, er terskelverdien 75 øre per kWh eksklusiv merverdiavgift, og stønadsgraden er 90 prosent. For forbruk fra og med 1. januar 2026 til og med 31. desember 2026, er terskelverdien 77 øre per kWh eksklusiv merverdiavgift, og stønadsgraden er 90 prosent.

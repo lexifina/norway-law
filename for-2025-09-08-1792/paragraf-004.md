@@ -1,0 +1,3 @@
+# § 4. Forvaltning av ordningene
+Den departementet utpeker skal forvalte ordningene i tillegg til Norges vassdrags- og energidirektorat.
+Den departementet utpeker, skal refundere utbetaling av strømstønad og prissikringsbeløp til fjernvarmeselskapene, og fjernvarmeselskapene skal overføre skyldig prissikringsbeløp til den departementet utpeker, jf. lov om Norgespris og strømstønad til husholdninger § 16. Den departementet utpeker skal foreta kontroll av utbetalinger av strømstønadsbeløp og ut- og innbetalinger av prissikringsbeløp mellom fjernvarmeselskapene og fjernvarmekundene, jf. lov om Norgespris og strømstønad til husholdninger § 23.
