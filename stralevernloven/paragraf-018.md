@@ -1,0 +1,6 @@
+# § 18. Tilsyn og vedtak. Tilsynsmyndighetens rett til adgang, opplysninger og gjennomføring av målinger
+Direktoratet for strålevern og atomsikkerhet fører tilsyn med at bestemmelser fastsatt i eller i medhold av denne loven overholdes, og kan for dette formål fatte de nødvendige enkeltvedtak.
+Kongen kan for nærmere avgrensede områder i forskrift fastsette at andre statlige tilsynsorganer eller kommuner skal føre tilsyn og treffe de nødvendige enkeltvedtak i medhold av denne loven. Offentlige organer som er tildelt myndighet i medhold av første punktum, kan anvende lovens håndhevingsbestemmelser på de vilkår som fremgår i den enkelte bestemmelse.
+Tilsynsmyndigheten skal gis fri adgang til å foreta tilsyn, og skal gis de opplysninger som er nødvendige for at tilsynsmyndigheten skal kunne ivareta sine gjøremål etter denne loven.
+Tilsynsmyndigheten skal gis adgang til å foreta målinger og undersøkelser. Virksomheten skal avstå prøver til tilsynsformål vederlagsfritt. Dersom det påvises overtredelse av bestemmelser fastsatt i eller i medhold av denne loven, kan virksomheten pålegges å dekke utgifter til tilsynsoppgaver som følger av overtredelsen.
+Departementet kan i forskrift fastsette avgifter til dekning av bestemte tilsynsoppgaver.

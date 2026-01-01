@@ -1,0 +1,6 @@
+# § 13. Berettigelse og optimalisering
+Medisinsk strålebruk skal utføres i samsvar med medisinsk anerkjente og forsvarlige undersøkelses- og behandlingsmetoder, herunder ivaretagelse av strålevern.
+Ved medisinsk strålebruk skal den faglig ansvarlige vurdere om bruken av stråling er berettiget. Ved vurderingen skal det blant annet tas hensyn til om nytteverdien overstiger den skadelige virkning strålingen kan ha. Det skal tas hensyn til den enkeltes nytte, samfunnets nytte og muligheten for å anvende alternative teknikker. Stråling skal unngås dersom man uten vesentlig ulempe kan oppnå samme resultat på annen måte, f.eks. ved bruk av andre metoder eller ved å fremskaffe resultater fra tidligere undersøkelser.
+Når stråling anvendes, skal den faglig ansvarlige for undersøkelsen eller behandlingen sikre at de stråledoser som gis, er så lave som med rimelighet kan oppnås, sett på bakgrunn av formålet med bestrålingen, tilgjengelig utstyr og ressurser, og lignende forhold.
+Virksomheten skal jevnlig kontrollere at den beregnede stråledose er i samsvar med den som faktisk avgis. Dette gjelder ikke ved undersøkelse eller behandling som består i at radioaktive stoffer tilføres pasienten.
+Departementet kan gi utfyllende forskrifter om krav til medisinsk strålebruk.

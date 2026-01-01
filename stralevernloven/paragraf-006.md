@@ -1,0 +1,3 @@
+# § 6. Godkjenning og melding
+Departementet kan i forskrift fastsette krav om godkjenning eller melding for tilvirkning, import, eksport, transport, overdragelse, besittelse, installasjon, bruk, håndtering og avfallsdisponering av strålekilder. Godkjennings- eller meldingskrav kan også omfatte menneskelig aktivitet som medfører forhøyet naturlig ioniserende stråling. I forskriftene kan det fastsettes krav til innholdet i søknader og meldinger.
+Dersom godkjennings- eller meldingskrav er fastsatt, kan virksomhet underlagt slikt krav ikke igangsettes før godkjenning foreligger, eller melding er behandlet. En virksomhet kan ikke utvides eller endres vesentlig i forhold til bestående godkjenning eller melding.

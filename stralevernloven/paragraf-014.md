@@ -1,0 +1,4 @@
+# § 14. Plikt til å opplyse om strålevernmessige forholdsregler
+Dersom det ved medisinsk strålebruk treffes stråleverntiltak som forutsetter en bestemt opptreden fra den person som blir undersøkt eller behandlet, skal den faglig ansvarlige eller den som er bemyndiget, opplyse hvordan vedkommende skal forholde seg for å ha full nytte av tiltakene. Det samme gjelder overfor ledsagere som bistår personen ved behandlingen eller undersøkelsen. Opplysninger som nevnt kan unnlates, dersom det ikke er grunn til å regne med at personen kan nyttiggjøre seg dem.
+Tilføres pasienter radioaktive stoffer, skal den faglig ansvarlige opplyse om forholdsregler som bør iakttas for å verne andre personer mot stråling.
+Departementet kan gi utfyllende forskrifter om plikten til å opplyse om strålevernmessige forholdsregler.
