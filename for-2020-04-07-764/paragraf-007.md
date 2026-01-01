@@ -1,0 +1,2 @@
+# § 7. Lavere forsinkelsesrentesats
+For krav som det kan gis betalingsutsettelse for etter § 6, og som får beregnet rente ved forsinket betaling etter skattebetalingsloven § 11-1, SI-loven § 7 og forskrift om dokumentavgift § 1-2, skal rentesatsen være 6 pst. fra 10. juni til 31. desember 2020. For krav som det kan gis betalingsutsettelse for etter § 6, og som får beregnet rente ved forsinket betaling etter skattebetalingsloven § 11-1, skal rentesatsen være 6 pst. fra 15. januar til 31. mars 2022.
