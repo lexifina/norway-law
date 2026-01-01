@@ -1,0 +1,4 @@
+# § 94
+Den som har disiplinærmyndighet, kan alltid innhente råd i disiplinærsaker fra Forsvarets jurister.
+Refselse på frihetsinnskrenkning over 15 dager kan ikke ilegges uten at saken har vært forelagt for Forsvarets jurister. Er det av særlige grunner nødvendig at slik refselse blir ilagt straks, kan det i stedet gis melding om saken til Forsvarets jurister så snart som mulig etter at refselsen er ilagt. Refselse på overtredelsesgebyr som overstiger 50 ganger tjenestetillegget, kan ikke ilegges uten at saken har vært forelagt for Forsvarets jurister. Refselse ilagt i strid med reglene her faller bort for den del som overstiger grensen i første punktum.
+I alle andre saker bør refsende sjef forelegge saken for Forsvarets jurister dersom vedkommende sjef finner saken tvilsom eller av andre grunner ønsker råd i saken.

@@ -1,0 +1,3 @@
+# § 72
+Klagen skal snarest leveres den sjef som ila refselsen, som straks skal påføre dato og klokkeslett for mottagelsen samt erkjenne mottagelsen med navn, grad og tjenestestilling. Vedkommende kan ta klagen til følge etter forsvarsloven § 75 eller sende saken gjennom Forsvarets jurister, jf. denne forskrifts § 94, som skal gi uttalelse innen syv dager, til klagenemnda sammen med sakens dokumenter og andre relevante opplysninger. Dersom det foreligger opplysninger som ikke tidligere er gjort kjent for klageren, skal dette fremgå av sakens dokumenter.
+Dersom en personlig fornærmet klager på en avgjørelse om ikke å ilegge refselse, jf. forsvarsloven § 76 andre ledd, skal sjefen som har tatt avgjørelsen, orientere sin høyere foresatte sjef om klagen.

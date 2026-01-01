@@ -1,0 +1,2 @@
+# § 10
+Tjenestetiden er den tid vedkommende gjør militærtjeneste. Den omfatter den tid som medgår til reise til og fra tjenestestedet, i alle fall minst 24 timer før fremmøte og like lang tid etter dimisjon. Tjenestetiden omfatter også fritid, inkludert permisjon. For militært tilsatte er tjenestetiden den tid vedkommende er tilsatt i Forsvaret, men for å kunne ilegges refselse, må handlingen eller dens konsekvenser ha en saklig tilknytning til tjenesten.
