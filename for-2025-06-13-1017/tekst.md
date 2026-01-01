@@ -1,0 +1,9 @@
+# I
+I forskrift 18. desember 1997 nr. 1408 om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt gjøres følgende endringer:
+§ 2 fjerde punktum skal lyde: – – –
+§ 3 bokstav c skal lyde: – – –
+§ 3 bokstav d oppheves.
+§ 3 bokstav e til h endres til d til g.
+# II
+Endring i § 2 fjerde punktum og § 3 bokstav c trer i kraft 1. januar 2026.
+De øvrige endringene trer i kraft 1. januar 2027.
