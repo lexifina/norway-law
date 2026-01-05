@@ -1,0 +1,3 @@
+# § 14-2. Retting av formelle feil i avhandlingen
+Kandidaten kan etter innlevering, og kun én gang, søke fakultetet om å rette formelle feil i den versjonen av avhandlingen som skal offentliggjøres. Til søknaden skal det legges ved en liste (errataliste) som viser de rettinger kandidaten ønsker å foreta i avhandlingen. Verken den rettede versjonen av avhandlingen eller erratalisten skal oversendes bedømmelseskomiteen.
+Frist for søknad om retting av formelle feil er fem (5) virkedager etter at kandidaten har mottatt innstillingen. Erratalisten legges som innstikk i avhandlingen som er tilgjengelig under disputasen.

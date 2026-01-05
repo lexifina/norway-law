@@ -1,0 +1,5 @@
+# § 17-5. Klage over avslag på søknad om bedømmelse, underkjenning av avhandling, prøveforelesning eller disputas
+Avslag på søknad om bedømmelse, samt underkjenning av avhandling, prøveforelesning eller disputas kan påklages etter reglene i forvaltningslovens § 28 følgende og universitets- og høyskolelovens § 13-1 (3).
+Begrunnet klage sendes fakultetet selv.
+Fakultetet kan, etter at saken først er lagt frem for bedømmelseskomiteen, oppheve eller endre vedtaket hvis det finner klagen begrunnet. Hvis ikke fakultetet tar klagen til følge, sendes klagen til Den sentrale klagenemnd til avgjørelse. Klagenemnda kan prøve alle sider ved det påklagede vedtaket.
+Dersom underinstansen eller klageinstansen finner grunn til det, kan det oppnevnes et utvalg eller enkeltpersoner til å foreta en vurdering av den foretatte bedømmelse og de kriterier denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.
