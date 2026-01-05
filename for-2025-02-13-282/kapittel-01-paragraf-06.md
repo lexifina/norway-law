@@ -1,0 +1,2 @@
+# § 2-2. Innhold i ph.d.-utdanningen
+Utdanningen omfatter et selvstendig forskningsarbeid som skal dokumenteres med en vitenskapelig avhandling av internasjonal standard på høyt nivå. Forskningsarbeidet skal gjennomføres under aktiv veiledning. I tillegg skal kandidaten gjennomføre en opplæringsdel i faglig metode, teori, vitenskapsteori og etikk som gir dybde og bredde i eget fag, samtidig som faget settes inn i en videre ramme. I ph.d.-utdanningen skal kandidaten også få trening i formidling av vitenskapelig arbeid overfor fagfeller, studenter og allmennheten.
