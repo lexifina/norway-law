@@ -1,0 +1,2 @@
+# § 18. Varmtvannsberedere, varmtvannsbeholdere og pakker med varmtvannsbereder og solvarmeinnretning
+EØS-avtalen vedlegg II kap. IV nr. 4t (EU-kommisjonens delegerte forordning (EU) nr. 812/2013, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254) om supplering av europaparlaments- og rådsdirektiv 2010/30/EU for så vidt angår energimerking av varmtvannsberedere, varmtvannsbeholdere og pakker med varmtvannsbereder og solvarmeinnretning gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# § 9. Klimaanlegg
+EØS-avtalen vedlegg II kap. IV nr. 4m (EU-kommisjonens delegerte forordning (EU) nr. 626/2011, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254, og som rettet ved forordning (EU) 2020/1059, og som endret ved forordning (EU) 2023/2048) om supplering av europaparlaments- og rådsdirektiv 2010/30/EU for så vidt angår energimerking av klimaanlegg gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
