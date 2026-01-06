@@ -1,0 +1,2 @@
+# § 16. Kjøleskap og fryseskap til yrkesbruk
+EØS-avtalen vedlegg II kap. IV nr. 4r (EU-kommisjonens delegerte forordning (EU) 2015/1094, som endret ved forordning (EU) 2017/254) om supplering av europaparlaments- og rådsdirektiv 2010/30/EU for så vidt angår energimerking av kjøleskap og fryseskap til yrkesbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

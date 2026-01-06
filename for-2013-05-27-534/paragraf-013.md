@@ -1,0 +1,2 @@
+# § 13. Ventilasjonsaggregater til boliger
+EØS-avtalen vedlegg II kap. IV nr. 4o (EU-kommisjonens delegerte forordning (EU) nr. 1254/2014, som endret ved forordning (EU) 2017/254 og som rettet ved forordning (EU) 2020/987) om supplering av europaparlaments- og rådsdirektiv 2010/30/EU for så vidt angår energimerking av ventilasjonsaggregater til boliger gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

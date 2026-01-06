@@ -1,0 +1,4 @@
+# § 6. Kjøleapparater
+EØS-avtalen vedlegg II kap. IV nr. 4j (EU-kommisjonens delegerte forordning (EU) nr. 1060/2010, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254) om supplering av europaparlaments- og rådsdirektiv 2010/30/EU for så vidt angår energimerking av kjøleinnretninger til husholdningsbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalen vedlegg II kap. IV nr. 4y (EU-kommisjonens delegerte forordning (EU) 2019/2016 om supplering av europaparlaments- og rådsforordning (EU) 2017/1369 for så vidt angår energimerking av kjøleapparater, som endret ved forordning (EU) 2021/340 og (EU) 2023/2048), gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+Kravene som følger av første ledd gjelder ikke etter 1. mars 2021.

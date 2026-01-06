@@ -1,0 +1,2 @@
+# § 14. Varmeovner (fastbrensel, gass, olje)
+EØS-avtalen vedlegg II kap. IV nr. 4p (EU-kommisjonens delegerte forordning (EU) 2015/1186, som endret ved forordning (EU) 2017/254) om supplering av europaparlaments- og rådsdirektiv 2010/30/EU for så vidt angår energimerking av varmeovner (fastbrensel, gass, olje) gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

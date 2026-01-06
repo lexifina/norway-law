@@ -1,0 +1,2 @@
+# § 19. Stekeovner og avtrekkshetter til husholdningsbruk
+EØS-avtalen vedlegg II kap. IV nr. 4u (EU-kommisjonens delegerte forordning (EU) nr. 65/2014, som endret ved forordning (EU) 2017/254) om supplering av europaparlaments- og rådsdirektiv 2010/30/EU for så vidt angår energimerking av stekeovner og avtrekkshetter til husholdningsbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

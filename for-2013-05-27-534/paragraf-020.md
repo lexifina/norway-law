@@ -1,0 +1,2 @@
+# § 20. Kjøleapparater til bruk ved direktesalg
+EØS-avtalen vedlegg II kap. IV nr. 4za (EU-kommisjonens delegerte forordning (EU) 2019/2018 om supplering av europaparlaments- og rådsforordning (EU) 2017/1369 for så vidt angår energimerking av kjøleapparater til bruk ved direktesalg, som endret ved forordning (EU) 2021/340 og forordning (EU) 2023/2048), gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
