@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Gebyr- og timesatser i denne forskriften gjelder for førstegangsgebyr, årsgebyr og andre gebyr som skal betales til statskassen i henhold til forskrift 2. februar 1996 nr. 115 om oppkreving av gebyr til Statskassen for besiktelser, sertifikatutstedelse mv. som foretas i henhold til lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) mv. Definisjonene i nevnte forskrift får tilsvarende anvendelse.
