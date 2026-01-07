@@ -1,0 +1,2 @@
+# § 3. Dokumentasjon som gjeld nye oppgåver
+All dokumentasjon som gjeld nye oppgåver og som blir til som ledd i løysinga av desse oppgåvene, skal takast vare på inntil Nasjonalarkivet har fastsett reglar i denne forskrifta eller fastslått etter § 18 om dokumentasjonen frå desse oppgåvene skal takast vare på for ettertida eller ikkje. Det same gjeld dokumentasjon knytt til oppgåver som av andre årsaker ikkje er nemnde i forskrifta her.
