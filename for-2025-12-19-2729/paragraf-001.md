@@ -1,0 +1,5 @@
+# § 1. Kva forskrifta gjeld, og verkeområdet til dei ulike reglane
+Forskrifta gjeld dokumentasjon frå organ som er omfatta av arkivlova, og fastset kva dokumentasjon som skal takast vare på for ettertida. Forskrifta pålegg ikkje organa å skape dokumentasjon.
+Dokumentasjon som skal takast vare på for ettertida, skal avleverast eller overførast til langtidsbevaring i tråd med arkivlova § 14. Dokumentasjon kan kasserast berre dersom anna lov gir heimel til å kassere han, eller dersom Nasjonalarkivet har gitt løyve til å kassere han, jf. arkivlova § 13.
+Reglane om kva som skal takast vare på for ettertida av dokumentasjon frå kommunar, fylkeskommunar og staten gjeld òg for dokumentasjon som er blitt til i eit system for felles oppgåveløysing, og som organa skal inngå avtale om etter arkivforskrifta § 8.
+Reglane om kva dokumentasjon som skal takast vare på for ettertida når staten, fylkeskommunen eller kommunen gjer enkeltvedtak eller utferdar forskrift, gjeld òg for dokumentasjon frå private rettssubjekt i saker der dei gjer tilsvarande enkeltvedtak eller utferdar tilsvarande forskrift, jf. arkivlova § 3 første ledd bokstav b.

@@ -1,0 +1,2 @@
+# § 82. Søknad om å få bruke eldre reglar på eldre materiale
+For arkiv som er skapte før 1. februar 2014 kan fylkeskommunen eller kommunen søke Nasjonalarkivet om å få bruke reglane om arkivavgrensing og kassasjon som gjaldt før 1. februar 2014 i forskrift 1. desember 1999 nr. 1566 kapittel IV og V. Det er ein føresetnad at dokumentasjon som gjeld rettar for enkeltpersonar, blir teken vare på for alle personar og ikkje berre for eit utval.
