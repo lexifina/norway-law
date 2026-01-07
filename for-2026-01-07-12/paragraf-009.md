@@ -1,0 +1,2 @@
+# § 9. Rapporteringsplikt
+Fangst av fisk på 25 cm og mer rapporteres (merkes med garn eller håndsnøre, fangstdato og sted) til Sysselmesteren snarest mulig og senest innen 10 dager etter fiske er foretatt, med mindre ikke tilstrekkelig kommunikasjon foreligger. All fangst (uansett størrelse) skal rapporteres innen 25. oktober hvert år og alle fiskehoder av røye over 25 cm skal innleveres snarest mulig og senest innen 25. oktober hvert år. Manglende rapportering kan medføre at fiskekort for kommende sesong ikke tildeles.
