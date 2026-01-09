@@ -1,0 +1,2 @@
+# § 3. Omregistrering av personer som er registrert i Foretaksregisteret med rollen nestleder i styret
+Registerføreren skal innen 1. januar 2027 omregistrere til «styremedlem» den som per 31. desember 2025 er registrert i Foretaksregisteret med rollen nestleder i styret i et foretak som ikke er underlagt krav i lov eller i medhold av lov til å ha nestleder i styret. Registerføreren skal straks underrette foretaket om omregistreringen.
