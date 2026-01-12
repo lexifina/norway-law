@@ -1,0 +1,2 @@
+# § 8. Om fordeling av tilskudd mellom kommunale og private barnehager
+Kommunen fordeler tilskuddet til barnehage forholdsmessig mellom kommunale og private barnehager. I vurderingen av hvilke kommunale og hvilke private barnehager som skal få midler, skal kommunen se hen til behovet til den enkelte barnehage. Kommunen kan gjøre unntak fra den forholdsmessige fordelingen mellom kommunale og private barnehager dersom tilstrekkelig mange barnehager ikke har meldt et behov.
