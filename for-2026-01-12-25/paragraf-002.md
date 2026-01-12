@@ -1,0 +1,2 @@
+# § 2. Målgruppe for tilskuddsordningen
+Målgruppen for kompetansetiltakene i tilskuddsordningen er lærere, ledere og andre ansatte i statlige, fylkeskommunale og private videregående skoler, videregående opplæring for voksne og lærebedrifter. Instruktører, faglige ledere og prøvenemndsmedlemmer er også omfattet, samt ansatte i PP-tjenesten, oppfølgingstjenesten og andre relevante tjenester i fylkeskommunen.
