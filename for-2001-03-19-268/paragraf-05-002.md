@@ -1,0 +1,5 @@
+# § 5-2. Beregning av tilleggsavgift ved endring av avgiftsmessig status og avgiftsmessig grunnlag
+Ved endring av avgiftsmessig status eller avgiftsmessig grunnlag skal tillegget i engangsavgift utgjøre differansen mellom den opprinnelige og den endrede motorvogn, beregnet etter de regler og avgiftssatser som gjelder på det tidspunkt avgiften blir betalt. Ved behandling av rettsstridig endring av avgiftsmessig status eller avgiftsmessig grunnlag skal legges til grunn de regler og avgiftssatser som gjelder på kontrolltidspunktet eller det tidspunkt offentlig myndighet får kjennskap til endringen.
+I utregnet avgift gjøres fradrag (bruksfradrag) basert på motorvognens registreringstid etter satsene i § 3-3. For motorvogner som er registrert i Norge før 1. januar 2014 skal det ikke beregnes tilleggsavgift.
+Registreringstiden regnes fra tidspunktet for første gangs registrering og frem til tidspunktet for endringen av avgiftsmessig status eller avgiftsmessig grunnlag.
+Bruksfradrag kan nektes dersom tidspunktet for statusendring ikke dokumenteres.

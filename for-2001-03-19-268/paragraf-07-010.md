@@ -1,0 +1,5 @@
+# § 7-10. Vilkår for forholdsmessig avgift
+Leie- eller leasingkontrakten kan, inkludert eventuell forlengelse, maksimalt være av 5 års varighet.
+Motorvognen må tas ut av bruk og avregistreres i Norge innen 14 dager etter kontraktstidens utløp. Skifte av eier i motorvognregisteret uten at leie- eller leasingforholdet må avbrytes tillates bare i de tilfeller der leie- eller leasingkontrakten fullføres som opprinnelig planlagt. Skifte av leie- eller leasingtaker tillates bare i de tilfeller der en ny leie- eller leasingtaker trer inn i avtalen på uendrede vilkår. Søknad om eierskifte eller skifte av leie- eller leasingtaker sendes skattekontoret senest tre uker før ønsket endringstidspunkt.
+Motorvognen kan ikke gjennomgå endring i avgiftsmessig status eller avgiftsmessig grunnlag etter reglene i § 5-1 til § 5-5 i løpet av planlagt leie- eller leasingperiode.
+Dersom motorvognen vrakes før planlagt leie- eller leasingperiode er utløpt, tilbakebetales ikke avgift for den resterende delen av perioden.
