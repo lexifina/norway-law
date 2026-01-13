@@ -1,0 +1,2 @@
+# § 7-1. Refusjon av engangsavgift
+Dersom motorvogn som er første gangs registrert i Norge 26. juni 2014 eller senere permanent utføres til utlandet, kan det etter søknad gis refusjon av engangsavgift herunder vrakpantavgift. Det kan også etter søknad gis refusjon ved utførsel av motorvogn som ikke har vært registrert i Norge, men hvor avgiftsplikt i henhold til Stortingets vedtak om engangsavgift på motorvogner mv. § 1 bokstav b er oppstått 26. juni 2014 eller senere.

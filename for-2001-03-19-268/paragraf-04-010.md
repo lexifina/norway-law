@@ -1,0 +1,6 @@
+# § 4-10. Motorvogner til bruk i reindriftsnæringen
+Motorsykler og beltemotorsykler som skal benyttes i reindriftsnæringen er fritatt for avgift etter Stortingets vedtak om engangsavgift på motorvogner mv. § 8 bokstav o.
+For virksomhet eller person med rett til å eie rein i det samiske reinbeiteområdet etter reindriftsloven § 9, og som er registrert i Merverdiavgiftsregisteret, omfatter fritaket inntil fire terrenggående motorsykler eller beltemotorsykler.
+For virksomhet med rett til å utøve reindrift utenfor det samiske reinbeiteområdet etter reindriftsloven § 8, og som er registrert i Merverdiavgiftsregisteret, omfatter fritaket inntil åtte terrenggående motorsykler eller beltemotorsykler.
+Ny beltemotorsykkel eller terrenggående motorsykkel kan tidligst anskaffes etter 24 måneder. Dersom et kjøretøy blir vraket, kan nytt kjøretøy anskaffes som erstatning for det vrakede kjøretøyet uavhengig av tidsgrensen på 24 måneder.
+Dersom den avgiftsfrie bruken opphører, eller vilkårene for fritak bortfaller innen to år regnet fra første gangs registrering, skal det betales full engangsavgift. Utgangspunkt for beregningen er avgiftsgrunnlag og -satser på tidspunktet for første gangs registrering.
