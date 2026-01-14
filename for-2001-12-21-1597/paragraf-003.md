@@ -1,0 +1,7 @@
+# § 3. Avgift for tilsyn og kontroll
+For hver lokalitet til produksjon av matfisk, stamfisk eller matfisk til forsøks, forsknings-, undervisnings- og visningsformål, samt slaktemerd hvor klarert er lik eller større enn 65 tonn, skal det betales en årlig avgift på kr 16 800,– for tilsyn og kontroll. For lokalitet til fiskepark skal innehaver av tillatelsen betale en årlig avgift på kr 1200,– for tilsyn og kontroll.
+For hver lokalitet til produksjon av matfisk av laks, ørret og regnbueørret hvor klarert biomasse er fra og med 1561 til og med 3119 tonn, i Troms og Finnmark fra og med 1801 til og med 3599 tonn, betales en tilleggsavgift på kr 10 800,–. For hver lokalitet til produksjon av matfisk av laks, ørret og regnbueørret hvor klarert biomasse er lik eller større enn 3120 tonn, i Troms og Finnmark lik eller større enn 3600 tonn, betales en tilleggsavgift på kr 19 200.
+Innehaver av tillatelse til akvakultur av stamfisk av laks, ørret og regnbueørret betaler en tilleggsavgift på kr 19 200,– for tilsyn og kontroll per stamfisktillatelse.
+Unntatt fra plikten til avgift er lokaliteter til matfisk, stamfisk eller matfisk til forsøks-, forsknings- og undervisningsformål i ferskvann og lokaliteter til manntallstillatelse.
+Avgiften skal beregnes pr. 15. september hvert år.
+For hver lokalitet er innehavere av tillatelser som er klarert på lokaliteten solidarisk ansvarlig for betaling av avgiften.
