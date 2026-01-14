@@ -1,0 +1,6 @@
+# § 4-9. Prosjektspesifikk konsekvensutredning
+Innehaver av områdetilsagn skal utarbeide en prosjektspesifikk konsekvensutredning, i tråd med kravene i forskrift om konsekvensutredninger. Den prosjektspesifikke konsekvensutredningen skal dekke hele utlysningsområdet, og skal oppfylle kravene til utredning som er nødvendig for godkjenning av områdeplan etter § 4-8, og tildeling av tillatelse til produksjon på lokalitet etter § 4-11, inkludert for tillatelsene nevnt i § 4-11 nr. 5.
+Innehaver av områdetilsagn skal sende forslag til program for prosjektspesifikk konsekvensutredning til Fiskeridirektoratet.
+Fiskeridirektoratet sender forslaget på høring til berørte myndigheter og interesseorganisasjoner. Det skal fastsettes en rimelig frist for innspill som ikke kan være kortere enn 6 uker. Fiskeridirektoratet skal oppsummere innspillene og skriver en innstilling til departementet. Innstillingen skal inneholde en redegjørelse for hvordan innspillene er vurdert og ivaretatt. Alle innspill skal legges ved innstillingen.
+Departementet fastsetter program for prosjektspesifikk konsekvensutredning.
+Prosjektspesifikk konsekvensutredning gjennomføres etter forskrift om konsekvensutredninger, i tråd med fastsatt program og for tiltakshavers regning.

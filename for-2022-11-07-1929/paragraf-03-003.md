@@ -1,0 +1,2 @@
+# § 3-3. Tillatt biomasse per akvakulturtillatelse for matfisk på lokaliteter i sjø
+Akvakulturtillatelse for matfisk i sjø skal avgrenses kapasitetsmessig i maksimalt tillatt biomasse som kan stå i sjøen i medhold av tillatelsen, jf. forskrift 17. juni 2008 nr. 822 om drift av akvakulturanlegg (akvakulturdriftsforskriften) § 47. Første punktum gjør ikke inngrep i reglene for biomassefleksibilitet etter akvakulturdriftsforskriften § 47 til § 49.

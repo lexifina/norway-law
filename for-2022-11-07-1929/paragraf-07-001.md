@@ -1,0 +1,2 @@
+# § 7-1. Søknadsbehandling
+Søknad om akvakulturtillatelse som nevnt i § 7-2 første ledd nr. 1 og 2 utfylles på skjema fastsatt av Fiskeridirektoratet. Søknaden sendes til og behandles av fylkeskommunen i fylket hvor det søkes om tillatelse. Søknad om akvakulturtillatelse som nevnt i § 7-2 første ledd nr. 3 utfylles på skjema fastsatt av Fiskeridirektoratet, og sendes til og behandles av Fiskeridirektoratet som nevnt § i 6-3.
