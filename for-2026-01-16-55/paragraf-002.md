@@ -1,0 +1,32 @@
+# § 2. Stedlig virkeområde og tidsrom
+Restriksjonsområdet EN R427 «Jan Mayen» har en horisontal utstrekning som er begrenset av rette linjer mellom følgende koordinater oppgitt i grader, minutter og sekunder i WGS84:
+710029N-0082145W
+710058N-0082859W
+705919N-0083454W
+705916N-0083917W
+705909N-0084322W
+705842N-0084250W
+705752N-0084302W
+705736N-0084444W
+705716N-0084631W
+705652N-0084737W
+705629N-0084744W
+705537N-0084700W
+705504N-0084352W
+705510N-0084211W
+705542N-0084055W
+705712N-0083446W
+705743N-0083159W
+705759N-0083013W
+705813N-0082811W
+705820N-0082611W
+705758N-0082450W
+705750N-0082404W
+705746N-0082323W
+705747N-0082226W
+705831N-0081504W
+705907N-0081449W
+705929N-0081600W
+(705929N-0081600W).
+Områdets vertikale utstrekning er fra bakke-/havnivå og strekker seg opp til 1500 fot over middel havnivå (AMSL).
+Restriksjonsområdet er permanent, og gjelder hele døgnet, hele året.
