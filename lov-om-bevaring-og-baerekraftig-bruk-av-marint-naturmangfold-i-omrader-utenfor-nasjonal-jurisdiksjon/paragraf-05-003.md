@@ -1,0 +1,3 @@
+# § 5-3. Straff
+Med bøter eller fengsel inntil ett år straffes den som forsettlig eller uaktsomt overtrer bestemmelsene i eller i medhold av §§ 2-3, 2-4, 2-5, 2-6, 4-4, 4-5, 4-7, 4-8, 4-10 og 4-11 eller bestemmelser i forskrifter gitt i medhold av §§ 2-3, 2-6, 2-8, 3-2 og 4-14.
+Grov overtredelse av bestemmelsene nevnt i første ledd straffes med bøter eller fengsel inntil fem år. Ved avgjørelsen av om overtredelsen er grov, skal det legges særlig vekt på om den har medført eller voldt fare for betydelig skade på naturmangfoldet, om skaden på naturmangfoldet må anses uopprettelig, graden av skyld, og om overtrederen har truffet forebyggende eller avbøtende tiltak.

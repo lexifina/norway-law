@@ -1,0 +1,5 @@
+# § 4-10. Overvåking og rapportering
+Tiltakshaveren skal overvåke virkningene av aktiviteter som gjennomføres, for å avdekke om det er sannsynlig at aktiviteten vil forurense eller ha negative virkninger på det marine miljøet. Overvåkingen skal omfatte miljøvirkninger og eventuelle tilknyttede virkninger som økonomiske, sosiale og kulturelle virkninger og virkninger for menneskers helse.
+Overvåkingen skal skje ved bruk av beste tilgjengelige vitenskapelige metode og kunnskap og relevant tradisjonell kunnskap hos urfolk og lokalsamfunn hvis dette er tilgjengelig.
+Tiltakshaveren skal jevnlig utarbeide overvåkingsrapporter som beskriver virkningene av aktiviteten og resultatene av overvåkingen. Overvåkingsrapportene skal leveres til ansvarlig myndighet, som skal sørge for offentliggjøring.
+Dersom tiltakshaveren gjennom overvåkingen eller på annen måte avdekker vesentlige negative virkninger som enten ikke var forutsett i konsekvensutredningen, eller som har oppstått som følge av brudd på vilkårene for aktiviteten, skal dette meldes til ansvarlig myndighet så snart som mulig.

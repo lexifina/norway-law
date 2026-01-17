@@ -1,0 +1,3 @@
+# § 4-1. Virkeområde
+Kapittelet gjelder konsekvensutredning og etterfølgende overvåking og oppfølging av planlagte aktiviteter under norsk jurisdiksjon eller kontroll, som skal gjennomføres i områder utenfor nasjonal jurisdiksjon.
+Kapittelet gjelder også konsekvensutredninger og etterfølgende overvåking og oppfølging av planlagte aktiviteter i marine områder innenfor nasjonal jurisdiksjon. Dette omfatter likevel bare aktiviteter som kan forårsake betydelig forurensning av eller vesentlige og skadelige endringer i det marine miljøet i områder utenfor nasjonal jurisdiksjon, og som ikke er omfattet av andre konsekvensutredningsregler gitt i eller i medhold av norsk lov.
