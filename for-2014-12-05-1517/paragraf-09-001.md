@@ -1,0 +1,6 @@
+# § 9-1. Saklig virkeområde og definisjoner
+Dette kapittel gjelder erstatning for økonomisk tap som transport og lagring av CO2 påfører norske fiskere som følge av at virksomheten legger beslag på fiskefelt, eller medfører forurensning og avfall eller ved at innretning eller tiltak i forbindelse med plassering av denne volder skade.
+Kapitlet gjelder ikke forurensningsskade som skyldes forurensning som følge av utstrømming eller utslipp av CO2 fra en innretning, herunder brønn, og utgifter til rimelige tiltak for å avverge eller begrense slik skade eller slikt tap samt skade eller tap som slike tiltak medfører. Som forurensningsskade regnes også skade eller tap som en fisker har lidt på grunn av reduserte fiskemuligheter.
+Med forurensning og med avfall i dette kapittel forstås forurensning og avfall som nevnt i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall, henholdsvis § 6 første ledd nr. 1 og 2 og § 27 første ledd.
+Med norske fiskere menes i dette kapittel personer registrert i fiskermanntallet og eiere av fartøy innført i registeret over merkepliktige norske fiskefarkoster.
+Bestemmelsene i de øvrige kapitlene i loven kommer til anvendelse også på dette kapittel så langt de passer og ikke strider mot bestemmelse i dette kapittel.

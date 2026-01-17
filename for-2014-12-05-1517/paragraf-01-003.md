@@ -1,0 +1,5 @@
+# § 1-3. Virkeområde
+Forskriften kommer til anvendelse på undersøkelse og leting etter undersjøiske reservoarer for lagring av CO2, og utnyttelse, transport og lagring av CO2 i slike reservoarer i områder underlagt norsk jurisdiksjon. Forskriften gjelder også transport av CO2 og utnyttelse av undersjøiske reservoarer til lagring av CO2 i og utenfor riket og norsk kontinentalsokkel når det følger av folkeretten eller av overenskomst med fremmed stat.
+Når en rørledning i indre norsk farvann, på norsk sjøterritorium eller kontinentalsokkelen begynner på område utenfor norsk jurisdiksjon, kan Kongen i den utstrekning det følger av folkeretten, bestemme hvilke regler i denne forskrift som skal gjelde for slik rørledning med tilbehør.
+Undersøkelse og leting etter undersjøiske reservoarer for lagring av CO2, og utnyttelse, transport og lagring av CO2 i slike reservoarer på norsk kontinentalsokkel som ledd i petroleumsvirksomheten reguleres av petroleumsloven (lov 29. november 1996 nr. 72) med tilhørende forskrifter.
+Forskriften gjelder ikke på Svalbard, herunder dets indre farvann og sjøterritorium.

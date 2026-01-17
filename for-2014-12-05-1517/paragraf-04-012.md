@@ -1,0 +1,2 @@
+# § 4-12. Oppgivelse av en tillatelse til utnyttelse av undersjøisk reservoar til lagring av CO2
+Rettighetshaver kan oppgi tillatelsen til utnyttelse av et undersjøisk reservoar til lagring av CO2 i sin helhet ved utløpet av hvert kalenderår, såfremt varsel om oppgivelse er gitt minst 3 måneder i forveien. Departementet kan kreve at forpliktelsene som følger av tillatelsen til lagring av CO2 og vilkårene for denne skal være oppfylt før oppgivelse.

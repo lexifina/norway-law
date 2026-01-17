@@ -1,0 +1,2 @@
+# § 1-5. Annen norsk rett
+Annen norsk rett enn forskriften her, herunder bestemmelser om tillatelse, godkjennelse eller samtykke som kreves etter lovgivningen, kommer også til anvendelse for transport og utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2. Dette gjelder med mindre annet følger av forskrift, bestemmelse gitt av Kongen, av folkeretten eller av overenskomst med fremmed stat.

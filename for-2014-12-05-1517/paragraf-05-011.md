@@ -1,0 +1,3 @@
+# § 5-11. Samordnet lagring av CO2
+Strekker et undersjøisk reservoar og/eller en hydraulisk enhet seg over flere tillatelser som ikke har samme rettighetshaver, eller inn på en annen stats kontinentalsokkel, skal det søkes oppnådd enighet om den mest rasjonelle samordning av lagring av CO2 i tilknytning til reservoaret. Tilsvarende gjelder når det for flere undersjøiske reservoarer åpenbart er rasjonelt med samordnet lagring av CO2.
+Avtaler om samordnet transport, injeksjon, avslutning og permanent lagring av CO2 skal forelegges departementet til godkjennelse. Hvis det ikke oppnås enighet om slike avtaler innen rimelig tid, kan departementet bestemme hvordan slik samordnet lagring av CO2 skal foregå.

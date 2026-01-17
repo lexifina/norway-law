@@ -1,0 +1,6 @@
+# § 9-3. Forurensning og avfall
+Rettighetshaver er erstatningsansvarlig uten hensyn til skyld for økonomisk tap som følge av forurensning og avfall fra transport og lagring av CO2, og for utgifter til rimelige tiltak for å avverge eller begrense slik skade eller slikt tap samt skade eller tap som slike tiltak medfører.
+Rettighetshavers ansvar etter første ledd omfatter også skade og ulempe fra forurensning og avfall som følge av trafikk med forsynings- eller hjelpefartøy samt ved forflytning av innretning til eller fra vedkommende felt. Rettighetshaver kan gjøre gjeldende regressansvar mot den direkte skadevolder eller rederen dersom de ellers gjeldende ansvarsvilkår er oppfylt.
+For at erstatning skal kunne kreves for tapt fangsttid i forbindelse med lokalisering, merking, opptak eller ilandbringelse av gjenstander, må gjenstandene merkes forsvarlig eller bringes i land og forevises for politi eller havnemyndighet eller annen tilsvarende offentlig myndighet, med mindre det foreligger absolutte hindringer. Posisjonen må i alle fall meldes til politi eller havnemyndighet.
+Det som er nevnt i tredje ledd gjelder også ved erstatning for annet tap for så vidt slik merking, posisjonsangivelse eller ilandbringelse med rimelighet kan kreves.
+Erstatningsansvaret omfatter også andre fartøyer som bistår et fiskefartøy med å bringe gjenstander til land.

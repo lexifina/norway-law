@@ -1,0 +1,2 @@
+# § 1-4. Krav om tillatelse mv.
+Ingen andre enn staten kan drive undersøkelse, leting, utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2 og/eller transport av CO2 på kontinentalsokkelen uten de tillatelser, godkjennelser og samtykker som kreves i medhold av denne forskrift. Bestemmelsene for øvrig i forskriften og de forskrifter som gis i medhold av den, gjelder for slik virksomhet så langt de passer.

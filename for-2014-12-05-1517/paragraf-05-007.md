@@ -1,0 +1,7 @@
+# § 5-7. Nedstengning og etterdrift
+En lagringslokalitet skal nedstenges dersom:
+a) Betingelsene som oppstilles for nedstengning i lagringstillatelsen gitt av forurensningsmyndigheten i medhold av forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) kapittel 35 og i samtykket til injeksjon og lagring er oppfylt,
+b) Kongen samtykker i nedstengning på grunnlag av søknad fra operatøren.
+Etter nedstengning av en lagringslokalitet i medhold av første ledd bokstav a) eller b) og frem til ansvaret for lagringslokaliteten overdras til staten v/departementet i medhold av § 5-8 første og sjette ledd, er operatøren fortsatt ansvarlig for overvåkning, rapportering og iverksettelse av utbedrende tiltak i samsvar med bestemmelsene i denne forskrift. Operatøren er også ansvarlig for å forsegle lagringslokaliteten og fjerne injeksjonsanleggene.
+Forpliktelsene i annet ledd oppfylles på grunnlag av en etterdriftsplan som er utarbeidet av operatøren basert på beste praksis på området, og i overensstemmelse med vedlegg II til denne forskrift. En foreløpig etterdriftsplan skal forelegges departementet eller den det bemyndiger for godkjennelse i medhold av § 4-6 bokstav p).
+Før nedstengning av en lagringslokalitet i medhold av første ledd bokstav a) og b), skal den foreløpige etterdriftsplanen om nødvendig oppdateres i henhold til risikoanalyse, beste praksis og teknologiske forbedringer og deretter forelegges departementet eller den et bemyndiger for godkjennelse som den endelige etterdriftsplanen.
