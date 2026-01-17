@@ -1,0 +1,2 @@
+# § 11-22. Følgene av tilbakekall, oppgivelse av rettigheter eller bortfall av andre grunner
+Tilbakekall av tillatelse, oppgivelse av rettigheter eller bortfall av rettigheter av andre grunner fritar ikke for de økonomiske forpliktelser som følger av denne forskrift, forskrifter gitt i medhold av den eller særskilte vilkår. Hvis en arbeidsforpliktelse eller annen forpliktelse ikke er oppfylt, kan departementet kreve innbetalt helt eller delvis det beløp som oppfyllelse av forpliktelsen ville ha kostet. Beløpet fastsettes med bindende virkning av departementet.

@@ -1,0 +1,28 @@
+# § 1-6. Definisjoner
+I denne forskrift forstås med:
+a) CO2 -strømmer, massestrømmen av CO2 og eventuelle tilfeldig medfølgende stoffer fra CO2 -fangstprosesser,
+b) CO2 -utbredelse, fordeling av CO2 -volumene i et undersjøisk reservoar,
+c) Departementet, Det kongelige energidepartement,
+d) Etterdrift, perioden etter nedstengning av en lagringslokalitet, herunder perioden etter overføring av ansvaret for denne til Energidepartementet,
+e) Geologisk formasjon, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller litostratigrafiske underinndelinger,
+f) Geologisk lagring av CO2, injeksjon etterfulgt av lagring av CO2 i undersjøiske geologiske reservoarer,
+g) Hydraulisk enhet, et hydraulisk forbundet porevolum hvor trykkommunikasjon kan måles teknisk, og som er omgitt av strømningsbarrierer (forkastninger eller litologiske grenser). En hydraulisk enhet kan være ett undersjøisk reservoar eller bestå av flere undersjøiske reservoarer og den omgivende bergarten.
+h) Injeksjon, injeksjon av CO2 i undersjøiske reservoarer, herunder boring av injeksjonsbrønner, injisering, samt bygging, plassering, drift og bruk av innretning for injeksjon,
+i) Innretning, installasjon, anlegg og annet utstyr for utnyttelse av undersjøisk reservoar til lagring av CO2, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer CO2 i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt,
+j) Kontinentalsokkelen, havbunnen og undergrunnen i de undersjøiske områder som strekker seg utover norsk sjøterritorium gjennom hele den naturlige forlengelse av landterritoriet til ytterkanten av kontinentalmarginen, men ikke kortere enn 200 nautiske mil fra grunnlinjene som sjøterritoriets bredde er målt fra, likevel ikke utover midtlinjen i forhold til annen stat med mindre annet følger av folkerettens regler for kontinentalsokkel utenfor 200 nautiske mil fra grunnlinjene eller overenskomst med vedkommende stat,
+k) Lagringskompleks, lagringslokalitet og de geologiske omgivelser som kan ha betydning for sikkerheten ved lagringen,
+l) Lagringslokalitet, et bestemt område innenfor en geologisk formasjon som anvendes til geologisk lagring av CO2, og tilhørende overflate- og injeksjonsinnretninger,
+m) Lekkasje; frigjøring av CO2 fra lagringskomplekset,
+n) Leteboring, boring av undersøkelses- og avgrensningsbrønner med sikte på vurdering av potensialet for utnyttelse av undersjøisk reservoar til lagring av CO2, samt drift og bruk av innretning i den utstrekning den anvendes til leteboring,
+o) Leting, geologiske, geofysiske, geokjemiske og geotekniske aktiviteter, leteboring, overvåkning og injeksjonstesting for å karakterisere lagringslokaliteten med sikte på vurdering av potensialet for utnyttelse av den til lagring av CO2, samt drift og bruk av innretning i den utstrekning den anvendes til leting,
+p) Nedstengning av en lagringslokalitet, endelig opphør av CO2 -injeksjon i denne lagringslokaliteten,
+q) Migrasjon, bevegelse av CO2 i lagringskomplekset,
+r) Operatør, den juridiske (privat eller offentlig) person som på rettighetshavers vegne forestår den daglige ledelse av transport og utnyttelse av undersjøisk reservoar til lagring av CO2,
+s) Undersjøisk reservoar, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, som har inneholdt petroleum og/eller vann i formasjonen, eller en kombinasjon av disse. Departementet bestemmer i tvilstilfelle hva som skal anses å være et undersjøisk reservoar,
+t) Utnyttelse, all virksomhet knyttet til lagring og overvåkning (monitorering) av CO2 i undersjøiske reservoarer, herunder utbygging, injeksjon av CO2, seismisk datainnsamling for overvåkning, avslutning og permanent lagring av CO2 samt planlegging av slike aktiviteter, likevel ikke transport av CO2 i bulk med skip,
+u) Rettighetshaver, juridisk person, eller flere slike personer, som etter forskriften her innehar en tillatelse til undersøkelse, leting eller utnyttelse av undersjøisk reservoar til lagring av CO2, eller til anlegg og drift av innretninger for transport av CO2. Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker,
+v) Transport, skiping av CO2 i rørledning samt bygging av rørledning, plassering, drift og bruk av innretning for transport,
+w) Utbedrende tiltak, tiltak som iverksettes for å korrigere vesentlig uregelmessighet med sikte på å hindre eller stoppe lekkasje av CO2 fra lagringskomplekset,
+x) Vannsøyle, den kontinuerlige vertikale vannmengde fra overflaten til bunnsedimentene i en vannmasse,
+y) Vesentlig risiko, en risiko for skade på miljøet eller menneskers helse som ikke kan overses uten at formålet om miljøsikker geologisk lagring av CO2 kommer i fare. I vurderingen av om det foreligger en vesentlig risiko er det nødvendig å ta hensyn til både sannsynligheten for at skade inntreffer og det omfanget skaden vil få dersom den inntreffer,
+z) Vesentlig uregelmessighet, en uregelmessighet i injeksjons- eller lagringsoperasjonen eller i selve lagringskompleksets tilstand som innebærer en fare for lekkasje eller en risiko for miljøet eller menneskers helse.
