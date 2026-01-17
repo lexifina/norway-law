@@ -1,0 +1,2 @@
+# § 22. Konsekvensutgreiingar ved negative miljøverknadar i område utanfor nasjonal jurisdiksjon
+Dersom tiltak som blir handsama etter havenergilova kan forårsake betydeleg forureining av eller vesentlege og skadelege endringar i det marine miljøet i område utanfor nasjonal jurisdiksjon, skal departementet sørge for deling av naudsynt informasjon gjennom Mekanismen for informasjonsutveksling, som er oppretta i medhald av Avtale om bevaring og berekraftig bruk av marint biologisk mangfald i område utanfor nasjonal jurisdiksjon under Havrettskonvensjonen.

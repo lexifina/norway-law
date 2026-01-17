@@ -1,0 +1,2 @@
+# § 13. Klagenemnd
+Vedtak gjort av nemnd for handsaming av krav jf. § 12, kan klagast på innan to månadar til ei klagenemnd som er samansett av ein representant kvar frå høvesvis Fiskeridirektoratet, Noregs vassdrags- og energidirektorat, fiskeriorganisasjonane, selskap med konsesjon etter havenergilova § 3-5 og eitt medlem som fyller krava til dommarar. Forskrifta § 12 fjerde og femte ledd gjeld tilsvarande.

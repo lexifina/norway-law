@@ -1,0 +1,5 @@
+# § 20. Kontroll
+Noregs vassdrags- og energidirektorat fører kontroll med at reglar eller vedtak gitt i eller i medhald av denne forskrifta vert overhaldne i medhald av havenergilova § 10-5.
+Noregs vassdrags- og energidirektorat gjer vedtak om retting av tilhøve som er i strid med lova eller vedtak gjort i medhald av lova.
+Konsesjonæren skal medverke til gjennomføring av kontroll. Dette omfattar mellom anna å skaffe opplysingar og dokumentasjon som er naudsynt for å gjennomføre kontrollen.
+Representantar frå Noregs vassdrags- og energidirektorat eller anna myndigheit, skal til ei kvar tid ha tilgang til fartøy og innretningar for energianlegget, samt til føreliggande data og materiale som er naudsynt for gjennomføring av tilsynsverksemd. Representantane skal også ha rett til å delta i undersøkingar. Representantar for myndigheitene har rett til å opphalde seg på fartøy og innretningar så lenge det er naudsynt. Den som har rettar og konsesjonær skal sørge for transport av representantar for myndigheitene til og frå fartøy og innretningar, og for opphald om bord.
