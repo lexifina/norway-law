@@ -1,0 +1,2 @@
+# § 62. Fordeling av ny kapasitet som følge av utvidelser
+Ved fordeling av rett til bruk av økt ledig kapasitet i oppstrøms gassrørledningsnett, skal det først tas hensyn til behørig begrunnet rimelig behov til den som bekoster slik kapasitet, oppad begrenset til dennes andel av investeringen. Departementet kan bestemme at begrensningen oppad til den enkeltes andel av investeringen etter første punktum ikke skal gjelde, herunder fastsette en annen begrensning.

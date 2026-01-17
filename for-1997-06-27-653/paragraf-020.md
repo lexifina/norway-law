@@ -1,0 +1,6 @@
+# § 20. Plan for utbygging og drift av en petroleumsforekomst
+Plan for utbygging og drift av en eller flere petroleumsforekomster, jf. loven § 4-2, skal inneholde en beskrivelse av utbyggingen og en konsekvensutredning. Uttalelser til konsekvensutredningen tas med i vurderingen ved godkjennelse av plan for utbygging og drift. Planen skal sendes departementet med kopi til Sokkeldirektoratet og Havindustritilsynet.
+Plan for utbygging og drift av en forekomst som medfører bygge- og anleggstiltak i strid med arealdel av bindende planvedtak etter plan- og bygningsloven, kan ikke godkjennes av departementet før planmyndigheten har samtykket i dette.
+Departementet kan kreve at den enkelte rettighetshaver gir opplysning om hvordan rettighetshaver vil finansiere sin del av utbyggingen.
+Departementet skal i eget dokument, som skal offentliggjøres, redegjøre for og begrunne vedtaket om å godkjenne eller ikke godkjenne plan for utbygging og drift. I begrunnelsen skal det bl.a. fremgå hvilke miljøvilkår som eventuelt er knyttet til godkjennelsen samt hvilke tiltak som eventuelt er forutsatt å avbøte vesentlige negative miljøvirkninger. Taushetsbelagte opplysninger skal ikke offentliggjøres.
+Ved vesentlige endringer i eller avvik fra planen skal det gis melding til departementet. Departementet kan kreve fremlagt ny eller endret plan.

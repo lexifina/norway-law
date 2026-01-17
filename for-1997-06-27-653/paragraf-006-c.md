@@ -1,0 +1,15 @@
+# § 6c. Konsekvensutredningen
+Konsekvensutredningen skal utarbeides på bakgrunn av fastsatt program, jf. § 6b annet ledd, og skal i innhold, omfang og detaljgrad tilpasses den konkrete saken og, så langt som mulig, basere seg på foreliggende kunnskap og nødvendig oppdatering av denne. Konsekvensutredningen skal beskrive antatte virkninger av åpning av området for petroleumsvirksomhet, forskjellige mulige alternativer for fremtidig petroleumsvirksomhet i området og virkningen av disse og i nødvendig grad inneholde blant annet følgende:
+a) beskrivelse av de områder som planlegges åpnet for petroleumsvirksomhet.
+b) redegjørelse for forholdet til nasjonale planer som er relevante i forhold til området som planlegges åpnet for petroleumsvirksomhet, samt for relevante miljømål fastsatt gjennom rikspolitiske retningslinjer, nasjonale miljømål, stortingsmeldinger eller lignende, og hvordan disse er tatt hensyn til.
+c) beskrivelse av antatte virkninger for sysselsetting og næringsvirksomhet, samt antatte økonomiske og sosiale virkninger av petroleumsvirksomheten.
+d) beskrivelse av viktige miljøforhold og naturressurser, herunder en oversikt over gjennomførte kartleggingstiltak.
+e) beskrivelse av virkningene av åpning av området for petroleumsvirksomhet for bl.a. dyre- og planteliv, havbunn, vann, luft, klima, landskap, beredskap og ulykkesrisiko og samvirket mellom disse.
+f) kort redegjørelse for datagrunnlaget og metoder som er brukt for å beskrive virkningene, og eventuelle faglige eller tekniske problemer ved innsamling og bruk av dataene og metodene.
+g) beskrivelse i samsvar med bokstav d) ovenfor av konsekvenser for annen stat som kan bli berørt av tiltaket.
+h) vurdering av behovet for, og eventuelt forslag til, nærmere undersøkelser før gjennomføring av planen.
+i) vurdering av behovet for, og eventuelt forslag til, undersøkelser og tiltak med sikte på å overvåke og klargjøre de faktiske virkningene av planen og eventuelle tiltak for å begrense og avbøte negative virkninger av vesentlig betydning.
+j) en redegjørelse for hva som kan gjøres for å forhindre eller avbøte eventuelle skader og ulemper.
+Konsekvensutredningen skal inneholde nødvendige illustrasjoner og kartmateriale, samt et sammendrag.
+Departementet skal sende konsekvensutredningen på høring til berørte myndigheter og interesseorganisasjoner, samt gjøre forslaget tilgjengelig for offentligheten på Internett og skal samtidig kunngjøre i Norsk Lysingsblad at konsekvensutredningen er sendt på høring. Det skal settes en rimelig frist for uttalelse til konsekvensutredningen. Fristen skal normalt være 3 måneder, og ikke mindre enn 6 uker. Relevante bakgrunnsdokumenter og fagrapporter skal være tilgjengelig hos departementet. I den grad det er praktisk mulig skal departementet gjøre relevante fagrapporter og andre relevante dokumenter tilgjengelig på Internett.
+Departementet skal, på bakgrunn av høringen, ta stilling til om det er behov for tilleggsutredninger eller dokumentasjon om bestemte forhold. Eventuelle tilleggsutredninger skal sendes på høring til dem som har avgitt uttalelse i saken. Fristen for uttalelse bør ikke settes kortere enn to uker.

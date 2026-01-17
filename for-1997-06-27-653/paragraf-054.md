@@ -1,0 +1,2 @@
+# § 54. Overføring av dataprogrammer
+Materiale og opplysninger som departementet og Sokkeldirektoratet kan kreve overlevert etter loven § 10-4 og bestemmelser i denne forskrift, omfatter også de dataprogrammer som er nyttet for behandling av disse, samt nødvendig dokumentasjon i denne forbindelse. Rettighetshaver skal betale overføringskostnadene til brukernes maskiner i den utstrekning dette finnes rimelig.

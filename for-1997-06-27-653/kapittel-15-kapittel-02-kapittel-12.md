@@ -1,0 +1,2 @@
+# Til § 68A
+Bestemmelsen fastsetter taushetsplikt for operatøren for opplysninger som operatøren mottar i forbindelse med sin virksomhet etter bestemmelsen i kapittel 9. Taushetsplikt gjelder for de samme forretningshemmeligheter som er beskyttet av regelen i forvaltningsloven § 13 første ledd nr. 2). Slike forretningshemmeligheter vil blant annet kunne være opplysninger om hvilken kapasitet som en bestemt bruker har i et oppstrøms gassrørledningsnett eller opplysninger om individuelle feltvolumer.

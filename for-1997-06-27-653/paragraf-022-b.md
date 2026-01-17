@@ -1,0 +1,3 @@
+# § 22b. Fritak fra kravet om konsekvensutredning
+Departementet kan etter søknad fra rettighetshaver gi fritak fra kravet om konsekvensutredning dersom utbyggingen ikke vil medføre utvinning av olje og naturgass i kommersiell hensikt der utvunnet mengde overstiger 4.000 fat per dag for olje og 500.000 m3 naturgass per dag for gass, og den ellers ikke antas å ha vesentlige næringsmessige eller miljømessige virkninger.
+Såfremt utbyggingen ikke kan antas å ha vesentlige grenseoverskridende miljøvirkninger, kan kravet om konsekvensutredning i unntakstilfeller fravikes helt eller delvis, selvom utbyggingen overskrider terskelverdiene i første ledd. Før unntak gis, skal departementet underrette EFTAs Overvåkningsorgan om begrunnelsen for unntaket.

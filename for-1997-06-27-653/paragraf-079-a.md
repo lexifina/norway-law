@@ -1,0 +1,2 @@
+# § 79a. Varsling og rapportering
+Hendelser og andre forhold som medfører nedstengning, reduksjon av utvinning av petroleum eller som påvirker gjennomføring av aktiviteter i tråd med vedtak fattet i medhold av loven og forskriften, skal omgående varsles til Sokkeldirektoratet. Dette gjelder ikke i tilfeller hvor forholdet allerede er varslet til Havindustritilsynet. Havindustritilsynet vil i slike tilfeller omgående varsle Sokkeldirektoratet. Departementet kan fastsette nærmere bestemmelser om varsling og rapportering til Sokkeldirektoratet.
