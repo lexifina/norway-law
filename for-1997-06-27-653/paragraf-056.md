@@ -1,0 +1,3 @@
+# § 56. Styringssystem
+Styringssystem som etableres etter loven § 10-6 for å sikre etterlevelse av myndighetskrav, skal ha som hovedmål å bidra til å sikre og forbedre kvaliteten på det arbeid som utføres i petroleumsvirksomheten.
+Styringssystemet skal angi gjeldende myndighetskrav og i nødvendig utstrekning omfatte interne krav til og rutiner for etterlevelse av myndighetskrav. Videre skal styringssystemet omfatte interne krav til og rutiner for organisering, ansvarsfordeling, myndighetsfordeling internt hos den enkelte og mellom rettighetshaver og andre deltakere i petroleumsvirksomheten, kompetanse, ressurser og arbeidsutførelse hos den som etablerer styringssystemet etter første ledd.

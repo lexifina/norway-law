@@ -1,0 +1,2 @@
+# § 52. Opplysninger fra område utenfor norsk kontinentalsokkel
+Rettighetshaver til en utvinningstillatelse plikter vederlagsfritt å stille til rådighet for Sokkeldirektoratet, geologisk og geofysisk materiale fra område utenfor norsk kontinentalsokkel som er kjøpt eller byttet i tilknytning til virksomhet etter utvinningstillatelsen og som Sokkeldirektoratet finner har betydning for forståelsen av geologien på eller innenfor norsk kontinentalsokkel.

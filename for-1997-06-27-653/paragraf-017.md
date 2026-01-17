@@ -1,0 +1,2 @@
+# § 17. Erklæring om ikke å igangsette utvinning
+Rettighetshaver skal skriftlig underrette departementet senest to år etter at siste letebrønn ble boret dersom rettighetshaver ikke finner å kunne igangsette utvinning fra en petroleumsforekomst. Kopi av underretningen sendes Sokkeldirektoratet. Det skal vedlegges en rapport som redegjør for grunnlaget for beslutningen og et sammendrag av reservoarmessige, tekniske og økonomiske forhold samt undersøkelser som er eller planlegges gjennomført med sikte på å klarlegge om petroleumsforekomsten er eller kan bli drivverdig.

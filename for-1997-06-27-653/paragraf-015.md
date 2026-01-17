@@ -1,0 +1,4 @@
+# § 15. Form og størrelse på områder
+De områder som rettighetshaver tilbakeleverer etter loven §§ 3-9 og 3-14, skal være sammenhengende og avgrenset av meridianer og breddeparalleller uttrykt i hele gradminutter. Tilsvarende gjelder for de områder rettighetshaver beholder.
+Områder som fradeles etter loven § 3-10 skal være sammenhengende og avgrenset av meridianer og breddeparalleller uttrykt i hele gradminutter. Departementet kan når særlige grunner tilsier det godkjenne en horisontal deling av området for en utvinningstillatelse.
+Sokkeldirektoratet skal godkjenne form og størrelse på områdene og kan gi fritak fra kravet om at områdene skal være sammenhengende. Sokkeldirektoratet skal normalt gi slikt fritak dersom tilbakelevering skjer for å tilpasse områdets størrelse etter bestemmelsene om fritak for arealavgift i § 39 andre og tredje ledd. Når særlige grunner tilsier det kan Sokkeldirektoratet fravike kravet til avgrensning i hele gradminutter.

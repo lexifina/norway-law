@@ -1,0 +1,4 @@
+# § 49. Opplysninger om salg av petroleum
+Innen 15 dager etter utløpet av hvert kvartal skal det gis oppgaver til departementet over de kvanta som er avhendet i kvartalet, hvem de er avhendet til, samt de priser som er oppnådd. Videre skal det gis opplysninger om hvilke kvanta som er brukt til egen videreproduksjon eller foredling eller som er avhendet til tilknyttede selskap m.v. og om de avregningspriser som er lagt til grunn.
+Rettighetshaver skal likeledes gi fullstendige opplysninger om andre særlige omstendigheter som kan ha påvirket priser eller betalingsvilkår.
+Opplysninger pliktes ikke gitt etter denne paragraf i den utstrekning tilsvarende opplysninger gis etter lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v. eller lov 27. mai 2016 nr. 14 om skatteforvaltning og forskrifter gitt i medhold av disse.

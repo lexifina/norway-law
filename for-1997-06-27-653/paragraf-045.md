@@ -1,0 +1,6 @@
+# § 45. Konsekvensutredning
+Konsekvensutredningen skal inneholde en beskrivelse av virkningen hvert av de aktuelle disponeringsalternativ kan få for nærings- og miljømessige forhold, og hva som kan gjøres for å redusere utslipp knyttet til disponering og avbøte eventuelle skader og ulemper.
+Konsekvensutredningen skal utarbeides på grunnlag av et fastsatt utredningsprogram, jf. fjerde ledd, og skal tilpasses disponeringens omfang. Konsekvensutredningen skal sendes departementet senest samtidig med disponeringsdelen av avslutningsplanen.
+Departementet kan gi fritak fra kravet om konsekvensutredning dersom disponeringen ikke antas å ha vesentlige virkninger for nærings- og miljømessige forhold.
+Rettighetshaver skal i god tid før fremleggelse av avslutningsplan sende departementet forslag til utredningsprogram. Forslaget skal gi en kort beskrivelse av aktuelle disponeringsalternativer og, på bakgrunn av tilgjengelig kunnskap, av antatte virkninger for miljø og for andre næringer. Videre skal forslaget klargjøre behovet for dokumentasjon. Departementet fastsetter utredningsprogrammet.
+For disponeringer som også skal konsekvensutredes etter annen lovgivning kan det utarbeides en felles konsekvensutredning.

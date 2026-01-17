@@ -1,0 +1,4 @@
+# § 11. Vilkår og krav
+Vilkår og krav for tildeling av en utvinningstillatelse og for utøvelse av petroleumsvirksomhet etter en utvinningstillatelse kan bare begrunnes i behovet for å sikre at petroleumsvirksomheten i området for utvinningstillatelsen gjennomføres på en god måte, og for å ivareta hensyn som nevnt i annet ledd.
+Vilkår for utøvelse av virksomhet etter en utvinningstillatelse skal være begrunnet i hensynet til nasjonal sikkerhet, offentlig orden, folkehelse, transportsikkerhet, miljøvern, vern av biologiske ressurser og nasjonale skatter av kunstnerisk, historisk eller arkeologisk verdi, anleggenes og arbeidstakerens sikkerhet, planmessig ressursforvaltning (for eksempel utvinningstempo eller optimeringen av utvinningsvirksomheten) eller behovet for å sikre skatte- og avgiftsinntekter.
+Denne paragraf får bare anvendelse for utvinningstillatelser som er tildelt etter 1. september 1995.

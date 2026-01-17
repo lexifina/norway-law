@@ -1,0 +1,3 @@
+# § 68. Tvister
+Uenighet om adgang til oppstrøms gassrørledningsnett kan bringes inn for departementet eller den departementet bemyndiger for endelig avgjørelse. Slik avgjørelse skal fattes uten ugrunnet opphold etter at saken er brakt inn. Departementet eller den departementet bemyndiger kan, som tvisteløsningsorgan, kreve at eier av slike innretninger må avgi separat regnskap for transport i oppstrøms gassrørledningsnett, samt øvrige opplysninger for løsning av tvisten.
+Uenighet knyttet til § 66A om videreutvikling, kan bringes inn for departementet for avgjørelse. Departementet kan kreve at partene fremlegger nødvendige opplysninger for løsning av tvisten.

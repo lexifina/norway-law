@@ -1,0 +1,2 @@
+# § 80. Opplysninger om leverandører
+Rettighetshaver kan ikke i medhold av loven pålegges å gi opplysninger om fremtidige eller nåværende leverandører, med mindre departementet anmoder om det ut fra hensynet til offentlig moral, orden og sikkerhet, folkehelse, vernet om menneskers og dyrs liv og helse, plantelivet, nasjonale skatter av kunstnerisk, historisk eller arkeologisk verdi, eller den industrielle eller kommersielle eiendomsrett.

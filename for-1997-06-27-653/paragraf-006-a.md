@@ -1,0 +1,4 @@
+# § 6a. Ansvarlig myndighet og formål
+Departementet er ansvarlig for konsekvensutredning forut for åpning av nye områder for petroleumsvirksomhet i medhold av lovens § 3-1. Konsekvensutredningen skal bidra til å belyse de ulike interessene som gjør seg gjeldende på det aktuelle området. Konsekvensutredningen skal belyse virkningene åpning av et område for petroleumsvirksomhet kan ha for nærings- og miljømessige forhold, herunder mulige farer for forurensning, samt antatte økonomiske og sosiale virkninger. Konsekvensutredningen skal skje i tråd med bestemmelsene i § 6b og § 6c, og i samsvar med eventuelle utfyllende bestemmelser departementet fastsetter.
+Bestemmelsene i § 22c gjelder tilsvarende så langt de passer. Avgjørelser etter § 6b og § 6c er ikke enkeltvedtak etter forvaltningsloven.
+Bestemmelsene i dette kapittelet skal gjelde tilsvarende for andre typer overordnede utredninger, så langt bestemmelsene passer.

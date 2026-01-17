@@ -1,0 +1,3 @@
+# § 55. Oppbevaringsplikt
+Rettighetshaver skal oppbevare materiale og opplysninger som er nødvendige for å sikre at departementet kan etterprøve om petroleumsvirksomheten utøves i samsvar med regelverket så lenge de gir nødvendig informasjon om petroleumsvirksomheten.
+Dersom operatøren ønsker å tilintetgjøre materiale eller opplysninger som kan ha betydning for ressursforvaltningen, skal Sokkeldirektoratet ha tilsendt en oversikt over materiale og opplysninger før tilintetgjøring og kan innen rimelig tid etter at oversikten er mottatt, pålegge vederlagsfri overlevering eller videre oppbevaring. Ved overlevering skal tilstrekkelig dokumentasjon over materiale og opplysninger inkluderes.

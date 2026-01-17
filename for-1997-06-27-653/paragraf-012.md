@@ -1,0 +1,8 @@
+# § 12. Statlig deltakelse
+Kongen kan utpeke en juridisk person som forretningsfører for den direkte statlige deltakelse som nevnt i loven § 3-6.
+Følgende prinsipper skal gjelde for beslutningsprosessen i utvinningstillatelsen:
+a) den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal utøve sin stemmerett på grunnlag av synlige, objektive og ikke-diskriminerende kriterier. Stemmerettsutøvelsen skal ikke være til hinder for at avgjørelser kan fattes på grunnlag av alminnelige forretningsmessige prinsipper.
+b) den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse kan stemme fullt ut for sin andel i alle saker med følgende unntak: den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal ikke få opplysninger om eller ha stemmerett ved avgjørelser om leverandører til virksomheten som er omfattet av denne forskriften. Den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal ikke sammen med en eller flere offentlige enheter utgjøre stemmerettsflertall i andre avgjørelser.
+Bestemmelsen i annet ledd bokstav b) er ikke til hinder for at den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse motsetter seg vedtak fattet av rettighetshaver som ikke ville overholde de vilkår og krav som er angitt i utvinningstillatelsen når det gjelder statens utvinningspolitikk eller statens finansielle interesser.
+Kongen bestemmer hvordan de nærmere regler om beslutningsprosessen skal utformes for den enkelte utvinningstillatelse.
+Denne paragrafen får bare anvendelse for utvinningstillatelser som er tildelt etter 1. september 1995.
