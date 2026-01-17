@@ -1,0 +1,8 @@
+# § 2d. Rett til tildelt prosjektområde
+Den som får tildelt eit prosjektområde må oppfylle krava i havenergilova § 3-5 fyrste ledd.
+Den som får tildelt eit prosjektområde etter § 2b får einerett til å sende inn og få handsama melding med forslag til prosjektspesifikt utgreiingsprogram etter § 3, gjennomføre eit prosjektspesifikt utgreiingsprogram som fastsett av departementet etter § 4, og deretter sende inn søknad om konsesjon etter § 7, for produksjonsanlegg innanfor det tildelte prosjektområdet.
+Eineretten til prosjektområde tildelt etter § 2b er tidsavgrensa. Melding med forslag til prosjektspesifikt utgreiingsprogram etter § 3 skal sendast inn til departementet seinast 6 veker etter tildelinga. Søknad om konsesjon vedlagt den gjennomførte prosjektspesifikke utgreiinga skal etter § 7 sendast inn til departementet seinast to år etter at departementet har fastsett utgreiingsprogrammet.
+Dersom melding eller søknad om konsesjon ikkje er innsendt til departementet innan tidsfristane i tredje ledd og departementet ikkje har gitt fristforlenging i samsvar med § 11, fell retten til det tildelte prosjektområdet bort. Departementet kan då lyse ut prosjektområdet på nytt eller tildele prosjektområdet utan utlysing.
+Eineretten til prosjektområde kan ikkje overdragast utan samtykke frå departementet. Det same gjeld ved overdraging av aksje eller anna eigarinteresse i den juridiske eininga som er tildelt eit prosjektområde, og ved overdraging som gir bestemmande innflytelse i ei slik eining.
+Havenergilova § 10-7 fyrste ledd skal gjelde tilsvarande for tildeling av prosjektområde etter dette kapittel 2A.
+Departementet kan i utlysinga gje nærare føresegner om retten til tildelt prosjektområde, blant anna samordna planlegging av nettanlegg og nettilknytning.
