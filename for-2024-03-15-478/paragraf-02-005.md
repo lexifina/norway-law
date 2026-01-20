@@ -1,0 +1,3 @@
+# § 2-5. Opptak for søkere med utenlandsk utdanning
+(1) Søkere med utenlandsk utdanning må ha kvalifikasjoner på nivå 4 i Nasjonalt Kvalifikasjonsrammeverk. De faglige kvalifikasjonene må tilsvare kvalifikasjonene i utdanningsprogrammet fra videregående opplæring som kreves for opptak til den aktuelle utdanningen.
+(2) For studenter som har bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifiserte for opptak uten tilleggskrav i norsk. Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden, må dokumentere kunnskaper i norsk i henhold til de enhver tid gjeldende bestemmelser i fagskoleforskriften.
