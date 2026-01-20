@@ -1,0 +1,10 @@
+# § 2-1. Generelt om opptak
+(1) Utdanninger som blir satt opp har normalt rullerende opptak. Der utdanningen er satt opp med søknadsfrist vil denne kunngjøres på fagskolens hjemmesider under den enkelte utdanning. Utdanninger med utsatt oppstartstidspunkt vil endre søknadsfristen tilsvarende.
+(2) Fagskolen i denne forskrift er ansvarlig for at opptaket til fagskolens studier gjøres i henhold til lov og forskrifter. Styret har bemyndiget rektor til å fatte vedtak om opptak. Vedtaket er et enkeltvedtak og kan påklages etter bestemmelser i denne forskrift.
+(3) Søkere som får tilbud om studieplass, må bekrefte studieplassen innen oppgitt frist. Dersom fagskolen ikke har mottatt bekreftelse innen oppgitt frist, vil studenten miste studieplassen.
+(4) Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ved de enkelte utdanningene innenfor rammene av NOKUTs godkjenning.
+(5) For opptak til utdanningen kreves fullført og bestått videregående opplæring eller tilsvarende realkompetanse jf. fagskoleloven § 16.
+(6) Styret kan fastsette spesielle opptakskrav til utdanninger. Nærmere informasjon om særskilte opptakskrav følger den enkelte fagskoleutdanning.
+(7) En student kan maksimalt få innvilget opptak til samme studieprogram 2 ganger hvis studiet tidligere har vært påbegynt eller ikke påstartet. Rektor kan fatte vedtak om fravikelse av denne regelen.
+(8) En student kan maksimalt få innvilget 2 opptak dersom tidligere akseptert studieplass ikke er påstartet. Rektor kan fatte vedtak om fravikelse av denne regelen etter søknad.
+(9) Dersom en student ikke har fullført et studium innenfor normert tid, inkludert eventuell forlengelse, og tidligere har mistet sin studierett ved AOF Østlandet, kan fagskolen avslå søknad om opptak til nytt studium. Rektor kan imidlertid etter skriftlig søknad fra studenten, i særlige tilfeller og etter en konkret vurdering, beslutte å fravike denne bestemmelsen. Vedtak om avslag skal være begrunnet og kan påklages til skolens klagenemnd i henhold til gjeldende reglement.

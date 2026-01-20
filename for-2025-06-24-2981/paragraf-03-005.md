@@ -1,0 +1,4 @@
+# § 3-5. Informasjon om og oppmelding til eksamen
+(1) Eksamenstidspunkt publiseres på skolens nettside eller læringsplattform i forkant av hver studiestart, og senest 3 (tre) uker i forveien når eksamen finner sted. Publisering på nettside og læringsplattform ansees også som skriftlig kunngjøring. Studenten må bekrefte å ha lest eksamensinformasjon lagt ut på fagskolens læringsplattform. Denne bekreftelsen er å anse som oppmelding til eksamen.
+(2) Studenter er automatisk påmeldt de eksamener og prøver som fremgår av studieplanen.
+(3) Studenter som ikke ønsker å ta en eksamen de er oppmeldt til, må selv melde seg av eksamen innen fastsatte frister. En student som trekker seg under eksamen uten lovlig grunn jf. forskriften § 3-7, eller unnlater å møte uten å ha meldt seg av eksamen innen fastsatte frister, betraktes som å ha fremstilt seg til eksamen.

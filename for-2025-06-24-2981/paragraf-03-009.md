@@ -1,0 +1,8 @@
+# § 3-9. Rett til begrunnelse og klage på karakterfastsetting
+(1) Studenten har rett til å få en begrunnelse for karakterfastsettingen. Studenten må fremsette krav om begrunnelse en uke fra karakteren ble kunngjort. Krav om begrunnelse for karakter sendes skolens administrasjon.
+(2) Ved muntlig eksamen må studenten be om begrunnelse umiddelbart etter at karakteren er meddelt.
+(3) Sensor skal normalt gi begrunnelsen innen to uker etter at studenten har bedt om denne. I begrunnelsen skal sensor gjøre rede for de generelle prinsippene som er lagt til grunn for bedømmelsen, samt den konkrete bedømmelsen av studentens prestasjon. Sensor kan velge om begrunnelsen gis skriftlig eller muntlig.
+(4) Studenten har rett til å klage på karakterfastsettelsen. Klage på karakterfastsettelsen skal sendes til skolens administrasjon senest tre uker etter at karakteren er gjort kjent for studenten, eller tre uker etter at studenten har mottatt begrunnelse for karakteren. Studenten har ikke klagerett på karakter satt på muntlig eksamen. Det samme gjelder annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve.
+(5) Dersom karakteren er fastsatt på bakgrunn av både skriftlig og muntlig prøve eller eksamen, og karakteren på den skriftlige prøven blir endret, holdes ny muntlig eksamen for fastsettelse av endelig karakter.
+(6) Ved klage på karakteren oppnevner skolen ny(e) sensor(er).
+(7) Den eller de nye sensorene skal ikke gjøres kjent med hvilken karakter besvarelsen ble gitt ved ordinær sensur. Den eller de nye sensorene setter den endelige karakteren. Karakterene fra fornyet sensur er endelige og kan ikke påklages. Resultatet av den nye sensuren sendes studenten skriftlig.
