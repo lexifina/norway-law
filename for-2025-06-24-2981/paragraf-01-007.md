@@ -1,0 +1,5 @@
+# § 1-7. Individuell tilrettelegging
+(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov har rett til å få lærested, undervisning, læremidler og eksamen tilrettelagt for å sikre likeverdige opplærings- og utdanningsmuligheter.
+(2) Frist for søknad om tilrettelegging i studiehverdagen kunngjøres på fagskolens nettsider. Fagskolen kan gi dispensasjon fra søknadsfristen. Dokumentasjonen må angi hvilke spesifikke vansker studenten vil ha i forbindelse med studiehverdagen det søkes tilrettelegging for. Det skal som hovedregel søkes for hvert studieår, med mindre behovet for tilrettelegging er varig.
+(3) Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde for fagskolen. I denne vurderingen skal det legges særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og fagskolens ressurser. Tilretteleggingen må ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.
+(4) Studieadministrasjonen fatter vedtak om tilrettelegging. Vedtaket kan påklages etter reglene i kapittel 5.

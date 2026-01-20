@@ -1,0 +1,8 @@
+# § 3-8. Kontinuasjonseksamen
+(1) Student som har gyldig fravær fra eksamen jf. forskriftens § 3-7, må selv melde seg opp til ny eksamen innen to kalenderår etter ordinær eksamen. Studenter som har strøket på eksamen eller som ønsker å forbedre sin karakter, kan ta kontinuasjonseksamen. Kontinuasjonseksamen avlegges mot eksamensavgift. Studenter som har gyldig fravær fra eksamen, kan gjennomføre eksamen uten avgift.
+(2) Kontinuasjon gjennomføres i all hovedsak samtidig med neste ordinære eksamen i faget/emnet. I de tilfeller hvor studentene må levere ny emneoppgave for å komme videre i utdanningsløpet, kan det gjøres unntak.
+(3) I de tilfeller hvor det foretas endringer i faginnhold eller fagsammensetning, vil det bli gitt anledning til å kontinuere en gang etter gammel ordning. For øvrig kan en eksamen kontinueres inntil to ganger. En student har rett til å avlegge kontinuasjonseksamen inntil 2 (to) ganger mot en avgift som fastsettes av fagskolen.
+(4) En student som pga. gyldig fravær ikke har utført eller levert obligatoriske arbeidskrav som teller med i emnekarakteren får en ny mulighet til å utføre/levere arbeidskravet slik at emnet kan fullføres på normert tid.
+(5) En student som pga. gyldig fravær ikke har utført eller levert obligatoriske arbeidskrav for å kunne gå opp til eksamen får en ny mulighet til å utføre/levere emneoppgavene slik at de kan fullføre på normert tid.
+(6) Ordningen i femte og sjette punkt gjelder også for studenter som har fått arbeidskravet bedømt til «ikke bestått» eller til bokstavkarakteren F.
+(7) Når kontinuasjon skal gjennomføres er studenten selv ansvarlig for å sette seg inn i den til enhver tid gjeldende utdanningsplan (pensumlitteratur, vurderingsform, tillatte hjelpemidler osv.).

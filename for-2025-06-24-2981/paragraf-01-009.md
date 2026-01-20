@@ -1,0 +1,6 @@
+# § 1-9. Fravær fra obligatorisk undervisning – tilstedeværelsesplikt
+(1) Fagskolens utdanninger har ikke obligatorisk undervisning med mindre annet er fastsatt i den enkelte studieplan, eller etter enkeltvedtak gjort for den enkelte student. Fagskolen kan helt eller delvis endre kravene og omfanget for obligatorisk undervisning og tilstedeværelsesplikt dersom dette følger av retningslinjer gitt av offentlig myndighet eller andre utenforliggende årsaker som skyldes force majeure.
+(2) I utdanninger med praksis, er praksis å anse som obligatorisk undervisning. Vesentlig fravær i praksistiden kan medføre at praksis ikke blir bestått.
+(3) Det forventes at studenten møter etter oppsatt timeplan og semesterplan og gir melding til utdanningens faglige ansvarlige ved uteblivelse. Følges ikke deltakelse på obligatorisk undervisning, kan studenten miste studieplassen og/eller studieretten.
+(4) Lengre fravær som skyldes sykdom, ulykke, pandemier eller lignende, og som dokumenteres med legeerklæring eller dokumentasjon fra arbeidsgiver og/eller retningslinjer gitt av offentlig myndighet, kan etter skriftlig søknad til skolen gi fritak for tilstedeværelsesplikten.
+(5) Et vedtak om tap av studieplass og studierett kan påklages til lokal klagenemnd i henhold til kapittel 5 i denne forskrift.
