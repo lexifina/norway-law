@@ -1,0 +1,2 @@
+# § 2-4. Betinget opptak
+(1) Søkere som ikke har dokumentert fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, eller som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, kan på visse vilkår få innvilget betinget tilbud. Vilkårene for å få innvilget betinget tilbud kommer frem av de til enhver tid gjeldende bestemmelser i fagskoleforskriften.
