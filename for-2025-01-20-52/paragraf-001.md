@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriften skal legge til rette for framstilling av entydige og forståelige arealplaner, og for sikker forvaltning av det offentlige kartgrunnlaget og de kommunale planregistrene. Informasjon fra det offentlige kartgrunnlaget og de kommunale planregistrene skal kunne sammenstilles og brukes på tvers av administrative grenser og organisatoriske skiller. De kommunale planregistrene skal gi en samlet oversikt over tillatt og planlagt bruk av arealene etter plan- og bygningsloven.
