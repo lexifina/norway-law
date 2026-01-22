@@ -1,0 +1,5 @@
+# § 4. Tilgang til informasjon i planregisteret og det offentlige kartgrunnlaget
+Alle har rett til gratis å gjøre seg kjent med innholdet i kommunens planregister og det offentlige kartgrunnlaget. Kommunen skal sørge for at informasjon fra planregisteret er elektronisk tilgjengelig i form av søke-, visnings- og nedlastingstjenester på Internett.
+Kommunen skal stille nødvendig utsnitt av det offentlige kartgrunnlaget til rådighet for alle som fremmer eller uttaler seg om en plan- eller byggesak.
+Kommunen kan ta betalt for utlevering eller nedlasting av data fra planregisteret og det offentlige kartgrunnlaget i samsvar med § 4 i forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta). Det kan ikke kreves betaling for planer eller data som skal benyttes i forbindelse med uttalelse til planer, til bruk ved innsigelse eller klagebehandling.
+Kommunen skal sørge for at data fra planregisteret er tilgjengelig via den nasjonale geografiske infrastrukturen etter de reglene som gjelder for slik deling av data.

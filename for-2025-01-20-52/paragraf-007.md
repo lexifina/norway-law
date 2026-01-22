@@ -1,0 +1,3 @@
+# § 7. Krav om kartlegging
+Kommunen kan kreve at den som fremmer planforslag, konsekvensutredning eller søknad om tiltak etter plan- og bygningsloven, skal framskaffe geodata når dette er nødvendig for å ta stilling til forslaget. Slikt krav kan bare framsettes dersom det offentlige kartgrunnlaget ikke er nøyaktig eller detaljert nok til å kunne ta stilling til forslaget. Kommunen skal så tidlig som mulig informere om at slikt krav kan bli aktuelt og årsaken til dette.
+Geodataene kan innarbeides i det offentlige kartgrunnlaget. Kommunen skal stille data, som kommunen ikke selv innarbeider, til rådighet for andre relevante offentlige organer, i den grad dataene må antas å være anvendelige for bruk i det offentlige kartgrunnlaget.

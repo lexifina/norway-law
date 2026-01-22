@@ -1,0 +1,3 @@
+# § 13. Overgangsbestemmelser
+Kommunen kan bestemme at arealplaner vedtatt før 1. januar 2010 skal føres inn i planregisteret. Slike planer skal da registreres med nasjonal arealplan-ID og bestemmelsene i denne forskriften kommer til anvendelse på planen så langt de passer. Planområdet skal dokumenteres i form av et plankart i planregisteret.
+Kommuner som ikke har digitalt planregister, kan føre planregister med planoversikt i samsvar med bestemmelsen i tidligere forskrift 26. juni 2009 nr. 861 om kart, stedfestet informasjon, arealformål og kommunalt planregister § 13 frem til et år etter denne forskriftens ikrafttredelse.
