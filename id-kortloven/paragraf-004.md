@@ -1,0 +1,5 @@
+# § 4. Nasjonalt ID-kort til mindreårige og personer som er fratatt rettslig handleevne
+For utstedelse av nasjonalt ID-kort med reiserett til mindreårige under 18 år kreves samtykke fra den eller de som har foreldreansvaret. Har foreldrene felles foreldreansvar for den mindreårige, må begge samtykke, med mindre barneloven gir adgang for en av foreldrene til å reise ut av landet med barnet uten den andres samtykke. I tilfeller som omfattes av barnevernsloven § 5-6 om forbud mot å ta med barnet ut av Norge, skal samtykke kun innhentes fra barnevernstjenesten.
+Samtykke fra den eller de som har foreldreansvaret, kreves også for utstedelse av nasjonalt ID-kort uten reiserett til mindreårige under 13 år. Har foreldrene felles foreldreansvar, må begge samtykke.
+For utstedelse av nasjonalt ID-kort med reiserett til personer som er fratatt rettslig handleevne, der fratakelsen omfatter retten til å få utstedt nasjonalt ID-kort med reiserett, kreves samtykke fra vergen.
+Nasjonalt ID-kort med reiserett kan i særlige tilfeller utstedes til person som nevnt i første og tredje ledd uten samtykke dersom det er åpenbart ubetenkelig.
