@@ -1,0 +1,4 @@
+# § 5-13. Vedtak om utreiseforbud
+Barneverns- og helsenemnda kan treffe vedtak om at barnet ikke kan forlate Norge (utreiseforbud), dersom det er en nærliggende fare for at barnet i utlandet vil bli utsatt for mishandling, alvorlig fare for barnets liv eller helse eller annen alvorlig omsorgssvikt.
+Vedtaket skal ikke ha lengre varighet enn det som er nødvendig for å hindre at barnet blir utsatt for forhold som nevnt i første ledd, og kan ikke ha lengre varighet enn seks måneder. Barneverns- og helsenemnda kan, innen utløpet av vedtaksperioden, forlenge vedtaket med inntil seks måneder dersom vilkårene fremdeles er oppfylt.
+Barnevernstjenesten kan gi tillatelse til enkeltreiser selv om vedtak om utreiseforbud er truffet, dersom det er åpenbart at reisen ikke medfører fare for forhold som nevnt i første ledd.

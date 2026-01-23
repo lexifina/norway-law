@@ -4,4 +4,5 @@ Barnevernstjenesten skal på eget initiativ gi opplysninger til helse- og omsorg
 Barnevernstjenesten skal uten hinder av taushetsplikt gi informasjon til politiet så snart som mulig når det vurderes, treffes, endres eller oppheves vedtak om skjult adresse i samsvar med denne loven eller vedtak om gradering av opplysninger, jf. folkeregisterloven § 10-4.
 Dersom påtalemyndigheten har besluttet overføring av en sak til barnevernstjenesten etter straffeprosessloven § 71 b, skal barnevernstjenesten underrette påtalemyndigheten om hvorvidt den treffer vedtak i saken eller ikke.
 Dersom et barn er bortført fra barnevernet og til en annen stat, skal barnevernstjenesten gi opplysninger til myndighetene i barnets oppholdsstat, dersom det er forsvarlig og til barnets beste.
+Barnevernstjenesten skal så snart som mulig varsle politiet om vedtak etter §§ 4-6 og 5-13 første ledd og når vedtak etter disse bestemmelsene faller bort. Dersom barnet er utenlandsk statsborger, skal varsel også sendes til utlendingsmyndighetene.
 Barnevernet skal gi opplysninger til andre offentlige myndigheter når dette følger av annen lov eller forskrift.

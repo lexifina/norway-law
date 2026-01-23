@@ -1,1 +1,1 @@
-# Kapittel 5. Omsorgsovertakelse, fratakelse av foreldreansvar og adopsjon
+# Kapittel 5. Omsorgsovertakelse, fratakelse av foreldreansvar, adopsjon og utreiseforbud
