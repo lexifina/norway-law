@@ -1,0 +1,2 @@
+# § 10. Ikrafttredelse
+Forskriften trer i kraft 23. januar 2026 og gjelder til og med 31. desember 2026. Samtidig oppheves forskrift 18. desember 2025 nr. 2655 om forbud mot å fiske torsk i NAFO-underområde 3M i 2026.
