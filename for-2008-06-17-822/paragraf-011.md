@@ -1,0 +1,4 @@
+# § 11. Smittehygiene og smitteforebygging
+Relevante smitteforebyggende og smittehygieniske tiltak skal gjennomføres for å hindre introduksjon, utvikling og spredning av smittsomme sykdommer.
+Nødvendig brakklegging og renhold av installasjoner og produksjonsenheter skal foretas regelmessig. Det skal sikres at personell, arbeidstøy, utstyr, gjenstander, brukt emballasje med videre, ikke sprer smitte. Brukte nøter, gjenstander, utstyr etc. skal rengjøres og desinfiseres med godkjent desinfeksjonsmiddel før de flyttes til et annet akvakulturanlegg.
+Det skal gjennomføres systematiske tiltak som hindrer spredning av smitte med rogn og melke. Nybefruktet rogn av laksefisk skal desinfiseres før den legges inn til inkubering. Rogn av andre arter enn laksefisk skal også desinfiseres dersom det finnes egnet desinfeksjonsmetode.

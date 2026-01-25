@@ -1,0 +1,2 @@
+# § 65. Rapportering
+Driftsdata skal årlig rapporteres til Fiskeridirektoratet innen 7. januar på den måten Fiskeridirektoratet bestemmer. Rapporten skal inneholde tidspunkt for når akvakulturanlegget ble tatt i bruk eller planlegges tatt i bruk, art(er), beholdning i form av antall eller biomasse, årsklasse og planlagt tidspunkt for høsting. Høsting gjelder i denne sammenheng også tømming av anlegget for akvakulturorganismer.

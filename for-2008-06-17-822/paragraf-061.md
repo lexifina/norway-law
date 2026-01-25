@@ -1,0 +1,2 @@
+# § 61. Annen fisk i akvakulturanlegg for settefisk og kultiveringsfisk
+Dersom stamfisk eller villfanget fisk tas inn i akvakulturanlegg for settefisk eller kultiveringsfisk, skal fisk som tas inn holdes i avdeling smittemessig atskilt fra settefisk eller kultiveringsfisk. Avdeling som skal benyttes til stamfisk eller villfanget fisk, skal rengjøres og desinfiseres før fisken tas inn og før den igjen tas i bruk til settefisk eller kultiveringsfisk.

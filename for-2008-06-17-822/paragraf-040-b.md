@@ -1,0 +1,5 @@
+# § 40b. Miljøovervåking av organisk bunnpåvirkning i overgangssonen
+Overgangssonen skal overvåkes ved C-undersøkelser i henhold til NS 9410:2016. Statsforvalteren kan ved behov fatte vedtak om en annen undersøkelsesfrekvens enn den som følger av NS 9410:2016. På lokaliteter hvor C-undersøkelser i henhold til NS 9410:2016 ikke er egnet til å dokumentere den organiske belastningen, kan statsforvalteren fatte vedtak om at overvåkingen skal skje på en annen måte.
+Undersøkelsene skal utføres av organer som er akkreditert for oppgaven.
+Det skal utarbeides en rapport fra den enkelte undersøkelsen senest seks måneder etter at feltundersøkelsen er gjennomført. Rapporten skal utarbeides i henhold til NS 9410:2016 og sendes inn på den måten tilsynsmyndighetene bestemmer så snart den foreligger.
+Hvis det i henhold til NS 9410:2016 skal gjennomføres oppfølgende undersøkelser som følge av redusert miljøtilstand, skal disse gjennomføres i henhold til en plan. Planen skal sendes inn på den måten tilsynsmyndighetene bestemmer for vurdering av statsforvalteren senest to måneder etter at rapporten nevnt i tredje ledd foreligger.

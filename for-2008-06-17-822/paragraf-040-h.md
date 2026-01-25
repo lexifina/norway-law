@@ -1,0 +1,5 @@
+# § 40h. Tiltak ved uakseptabel miljøtilstand for øvrig
+Det skal utarbeides en tiltaksplan og gjennomføres tiltak i henhold til planen for å bedre miljøtilstanden dersom
+a) undersøkelser i henhold til § 40c andre ledd viser at det er grunn til å tro enten at vannforekomsten ikke vil nå miljømål fastsatt i medhold av forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning § 24 eller at gravende bunndyr ikke kan eksistere i anleggssonen eller resipienten for øvrig og utslipp på lokaliteten av stoffer som nevnt i forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII C og D nr. 2 eller vannregionspesifikke stoffer bidrar til dette, eller
+b) befaring i henhold til § 40e første ledd viser at strandsonene er synlig påvirket av forurensning fra driften av akvakulturanlegget.
+Tiltaksplanen skal sendes inn på den måten tilsynsmyndighetene bestemmer. Dersom statsforvalteren vurderer at de planlagte tiltakene ikke er tilstrekkelige, kan statsforvalteren pålegge ytterligere tiltak.

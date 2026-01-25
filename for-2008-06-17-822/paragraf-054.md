@@ -1,0 +1,6 @@
+# § 54. Slaktemerd
+Fisk kan oppbevares maksimalt 6 døgn i slaktemerd. Syk og skadet fisk skal avlives så raskt som mulig. Kravene i denne paragrafen gjelder i tillegg til forordning (EF) nr. 1099/2009 artikkel 3 nr. 1 om at også fisk skal vernes mot unngåelig smerte, lidelse og frykt ved avliving og aktiviteter i forbindelse med det.
+Fisk skal ikke plasseres i slaktemerd med miljøforhold som er særlig belastende for fisken, herunder temperaturer som overskrider fiskens toleransegrense.
+Fisk fra ulike akvakulturanlegg skal ikke oppbevares i samme slaktemerd. Når en slaktemerd er fylt opp med fisk, skal den tømmes før det fylles på med ny fisk fra det samme eller et annet akvakulturanlegg. Det kan maksimalt være fisk fra tre ulike akvakulturanlegg samtidig i slakteriets slaktemerder. Slaktemerder i ferskvann kan bare brukes for fisk fra akvakulturanlegg innenfor det samme nedslagsfeltet.
+Opplining av nøter skal i størst mulig grad begrenses i tid, og skal kun forekomme når fisk pumpes eller håves inn på slakteriet. Oksygennivået i vannet skal overvåkes både i opplinet not og under trenging i kar på land.
+Fisk som er levert til slaktemerd, skal gå direkte til slakting ved tilhørende slakteri.

@@ -1,0 +1,3 @@
+# § 40e. Befaring av strandsonen og overvåking av fastsittende alger
+Det skal årlig gjennomføres en befaring av utsatt strandsone for å avdekke om den er synlig påvirket av avfall eller forurensning fra driften av akvakulturanlegget og tilhørende landbase. Eventuelt avfall skal fjernes.
+Ved drift av akvakulturanlegg i vannforekomster der det er grunn til å tro at utslipp fra akvakulturanlegget kan bidra til at tilstanden for fastsittende alger forringes slik at vannforekomsten ikke vil nå miljømål fastsatt i medhold forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning § 24, kan statsforvalteren pålegge overvåking, herunder deltakelse i fellesovervåkingsprogram.
