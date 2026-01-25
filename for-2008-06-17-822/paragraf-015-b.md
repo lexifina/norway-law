@@ -1,0 +1,2 @@
+# § 15b. Særskilte vilkår knyttet til badebehandling
+Badebehandling med legemidler i akvakulturanlegg som ligger i rekefelt og/eller gytefelt eller nærmere enn 500 meter fra slike, jf. de felt som til enhver tid vises i Fiskeridirektoratets nettbaserte kartverktøy, må foretas i brønnbåt. Badebehandlingsvannet må transporteres bort fra anlegget. Avstanden måles som beskrevet i § 18 første ledd andre punktum.

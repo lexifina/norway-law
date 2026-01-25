@@ -1,0 +1,4 @@
+# § 36. Plikt til å forebygge og hindre gyting
+Ved produksjon av torsk i sjø skal innehaver utvise særlig aktsomhet for å hindre gyting i produksjonsenhet. Det skal gjennomføres risikovurdering med sikte på å minimalisere risikoen for gyting. Risikovurderingen skal danne grunnlag for systematiske tiltak. Beste tilgjengelige kunnskap skal inngå i risikovurderingen, valg av systematiske tiltak og overvåkning.
+Kjønnsmodning skal overvåkes og i størst mulig grad begrenses slik at gyting unngås. Overvåkning av kjønnsmodning skal gjennomføres ved visuell vurdering av fiskens gonader og dokumenteres i den form og det omfang som er nødvendig for å vise modningsstatus i den enkelte produksjonsenhet. Prøveuttakene skal være representative for fisken i produksjonsenhet.
+Dersom modningsstatus viser at gyting er nært forestående, skal innehaver gjennomføre snarlig utslakting av produksjonsenhet.

@@ -1,0 +1,3 @@
+# § 40f. Tiltak ved uakseptabel organisk bunnpåvirkning i anleggssonen
+Dersom en B-undersøkelse eller alternativ undersøkelse utført i henhold til § 40a første ledd, viser meget dårlig lokalitetstilstand i anleggssonen, skal det snarest mulig utarbeides en tiltaksplan og gjennomføres tiltak i henhold til planen for å bedre lokalitetstilstanden.
+Tiltaksplanen skal sendes inn på den måten tilsynsmyndighetene bestemmer. Dersom Fiskeridirektoratet vurderer at de planlagte tiltakene ikke er tilstrekkelige, kan Fiskeridirektoratet pålegge brakklegging eller andre tiltak inntil en ny undersøkelse viser at lokalitetstilstanden i anleggssonen er god eller meget god.

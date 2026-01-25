@@ -1,0 +1,4 @@
+# § 34. Avliving av fisk
+Dersom det kan føre til unødig eller betydelig påkjenning for fisk å leve videre, skal den snarest mulig tas ut av produksjonsenheten, bedøves og avlives på forsvarlig måte. Kravene i denne paragrafen gjelder i tillegg til forordning (EF) nr. 1099/2009 artikkel 3 nr. 1 om at også fisk skal vernes mot unngåelig smerte, lidelse og frykt ved avliving og aktiviteter i forbindelse med det.
+Fisk skal bedøves før avliving og være bedøvd når døden inntrer. Bedøvingsmetoden skal ikke påføre fiskene skade eller unødige påkjenninger. Bedøving skal skje ved slag mot hode, bruk av egnet medikament eller annen egnet metode.
+Fiskene skal dø som følge av bløgging og påfølgende blodtap fra hjernen, medikamentell overdose eller annen egnet metode. Det skal sikres at fiskene er døde før videre behandling. Alt blodvann, andre deler eller avskjær av fisk skal samles opp og ensileres, jf. § 16.

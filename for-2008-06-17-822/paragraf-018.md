@@ -1,0 +1,3 @@
+# § 18. Fiske- og ferdselsforbud
+Det er forbudt å drive fiske nærmere anlegget enn 100 meter og å ferdes nærmere enn 20 meter. Avstanden måles fra en rett linje trukket mellom anleggets faktiske ytterpunkt i overflaten.
+Utenfor én nautisk mil utenfor grunnlinjen er det forbudt å drive fiske eller å ferdes nærmere stasjonære anlegg enn 500 meter. Avstanden måles som angitt i første ledd. Fiskeridirektoratet kan etter søknad fastsette en midlertidig sikkerhetssone dersom dette er nødvendig av hensyn til akvakulturproduksjonen. I god tid før en sikkerhetssone etableres eller oppheves skal innehaver av akvakulturtillatelse sørge for nødvendig kunngjøring.

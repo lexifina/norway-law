@@ -1,0 +1,5 @@
+# § 15c. Tømming av vann som er tilsatt legemidler
+Ved utslipp av legemidler og andre kjemikalier skal det vises særlig aktsomhet for å unngå uakseptable effekter på det omkringliggende miljø.
+Det skal foreligge en risikovurdering av de lokale forhold som har betydning for spredningen av legemidler ved utslipp i det omkringliggende miljø, og en beskrivelse av arter i området som kan påvirkes negativt av slike stoffer. Dette gjelder både når legemidler slippes ut ved anlegget og når tømming skjer andre steder enn ved akvakulturanlegget.
+Vann som er tilsatt legemidler for behandling av akvakulturdyr, kan ikke tømmes til sjø nærmere enn 500 meter fra rekefelt og/eller gytefelt, jf. de felt som til enhver tid vises i Fiskeridirektoratets nettbaserte kartverktøy.
+Når badebehandlingsvann tilsatt legemidler tømmes andre steder enn ved akvakulturanlegget, skal tømmingen skje mens fartøyet er i fart. Opplysninger om tidspunkt, geografisk posisjon, hvilken lokalitet og hvilket legemiddel tømmingen gjelder skal meldes til Fiskeridirektoratet. Melding om tømming skal sendes inn på den måten tilsynsmyndigheten bestemmer.
