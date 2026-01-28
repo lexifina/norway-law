@@ -1,0 +1,3 @@
+# § 9-2. Midtveisevaluering
+En midtveisevaluering av doktorgradsarbeidet bør normalt finne sted innen 2/3 av planlagt tidsforløp i henhold til inngått kontrakt om gjennomføring, og under hensyn til innvilgede permisjoner. Kandidaten skal presentere sitt arbeid og bli evaluert av en gruppe på minst to personer som er oppnevnt av doktorgradsutvalget. Evalueringsgruppen skal ta stilling til doktorgradsarbeidets faglige status og fremdrift, og skal gi tilbakemelding til både kandidaten, veilederen og avdelingen.
+Dersom evalueringsgruppen rapporterer om vesentlige svakheter ved forskningsarbeidet, skal det iverksettes tiltak for å korrigere situasjonen.
