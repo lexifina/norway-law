@@ -1,0 +1,2 @@
+# § 5-3. Infrastruktur
+Kandidaten skal ha til disposisjon nødvendig utstyr for gjennomføring av utdanningen. Avgjørelsen av hva som anses som nødvendig utstyr tas av avdelingen. For kandidater med ekstern finansiering og/eller arbeidsplass inngås det avtale mellom Høgskolen i Molde og ekstern part i forbindelse med doktorgradsarbeidet. Slik avtale skal foreligge på det tidspunkt opptaksvedtaket for den aktuelle kandidaten fattes, eller umiddelbart etterpå.

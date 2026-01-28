@@ -1,0 +1,4 @@
+# § 23-3. Klage over avslag på søknad om bedømmelse, ikke godkjent avhandling, prøveforelesning eller forsvar
+Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller forsvar kan påklages etter reglene i forvaltningslovens § 28 flg.
+Grunngitt klage sendes høgskolen. Høgskolen kan oppheve eller endre vedtaket hvis den finner klagen begrunnet. Hvis høgskolen ikke tar klagen til følge, sendes klagen til høgskolens klagenemnd til avgjørelse. Klageinstansen kan prøve alle sider ved det påklagede vedtak.
+Dersom høgskolen eller klageinstansen finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelse og de kriterier denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.

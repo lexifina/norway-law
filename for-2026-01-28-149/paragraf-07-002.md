@@ -1,0 +1,5 @@
+# § 7-2. Veiledningens innhold
+Kandidat og veiledere bør ha jevnlig kontakt. Veileder har ansvar for å følge opp kandidatens faglige utvikling. Kontakthyppigheten bør fremgå av den årlige fremdriftsrapportering, jf. § 9.
+Veilederne plikter å holde seg orientert om fremdriften i kandidatens arbeid, og vurdere den i forhold til søknadens fremdriftsplan, jf. § 5-2.
+Veilederne plikter å følge opp faglige forhold som kan medføre forsinket gjennomføring av forskerutdanningen, slik at denne kan fullføres innen normert tid.
+Veilederne skal gi råd om formulering og avgrensning av tema og problemstillinger, drøfte og vurdere hypoteser og metoder, drøfte resultater og tolkningen av disse, drøfte opplegg og gjennomføring av fremstillingen, herunder disposisjon, språklig form, dokumentasjon mv., og gi hjelp til orientering i faglitteratur og datagrunnlag i forhold til bibliotek, arkiv, etc. Videre skal veilederne gi kandidaten veiledning i forskningsetiske spørsmål knyttet til avhandlingen.
