@@ -1,0 +1,2 @@
+# § 23-2. Klage over eksamen i opplæringsdelen
+Karakterfastsetting ved eksamener som er avlagt under opplæringsdelen, kan påklages til ny sensur etter UH-loven § 11-10 og 11-11. Formelle feil ved eksamen kan påklages etter UH-loven § 11-9. Behandling av mistanke om fusk eller forsøk på fusk i emner som inngår i opplæringsdelen eller i avhandlingen, følger NMBUs fastsatte retningslinjer for dette og UH-loven § 12-4 og § 13-1.

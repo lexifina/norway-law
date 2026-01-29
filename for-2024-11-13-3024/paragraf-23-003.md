@@ -1,0 +1,3 @@
+# § 23-3. Klage over avslag på søknad om bedømmelse, klage over ikke godkjent avhandling, prøveforelesning eller disputas
+(1) Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent prøveforelesning eller disputas kan påklages etter forvaltningsloven § 28 flg. Vedtak om ikke godkjent avhandling kan påklages etter forvaltningsloven § 28 flg. og UH-loven § § 13-1.
+(2) Dersom fakultetet eller klageinstansen finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg som skal foreta en vurdering av den foretatte bedømmelsen og de kriterier denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.

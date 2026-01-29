@@ -1,0 +1,2 @@
+# § 10-2. Arkivering og tilgjengeliggjøring av forskningsdata
+Forskningsdata som ligger til grunn for den vitenskapelige avhandlingen skal oppfylle FAIR-prinsippene (Findable, Accessible, Interoperable, and Reusable), og være så åpne som mulig og så lukkede som nødvendig, jf. Retningslinjer for håndtering av forskningsdata ved NMBU. NMBUs dataarkiv DataverseNO eller tilsvarende dataarkiv skal benyttes for arkivering og tilgjengeliggjøring av forskningsdata.

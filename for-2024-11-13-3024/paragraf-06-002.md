@@ -1,0 +1,6 @@
+# § 6-2. Avtaleperiode
+(1) Avtaleperioden skal sikre mulighet for gjennomføring av ph.d.-utdanningen til normert tid og settes som hovedregel til tre år. Stillingen kan i tillegg omfatte annet karrierefremmende arbeid og ha en varighet inntil fire år jf. universitets- og høyskoleloven § 7-6 (1) bokstav g jf. universitets- og høyskoleforskriften § 3-16. Avtaleperioden gis tilsvarende varighet.
+(2) Maksimal tillatt studietid er seks år fra oppstartsdato til innlevering av avhandlingen til bedømmelse, når lovhjemlede avbrudd eller godkjente permisjoner fra studiet er trukket fra.
+(3) For ph.d.-kandidater med lovhjemlede avbrudd i avtaleperioden, skal fakultetet (uten søknad fra kandidaten) forlenge avtaleperioden tilsvarende når kandidaten selv dokumenterer de lovhjemlede avbruddene.
+(4) Fakultetet kan forlenge avtaleperioden for andre tilfeller enn § 6-2 tredje ledd, etter begrunnet søknad fra ph.d.-kandidaten. Slik forlengelse må avklares spesielt i forhold til kandidatens finansieringsgrunnlag. Ved innvilget forlengelse kan fakultetet sette ytterligere betingelser.
+(5) Ved avtaleperiodens utløp opphører ph.d.-kandidatens studierett ved NMBU, rett til veiledning og tilgang til universitetets infrastruktur. Ph.d.-kandidaten har likevel rett til å søke om å få levere inn avhandlingen til bedømmelse for ph.d.-graden.

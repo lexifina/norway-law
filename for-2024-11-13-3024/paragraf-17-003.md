@@ -1,0 +1,3 @@
+# § 17-3. Godkjenning av doktorgradsprøven
+(1) Dersom bedømmelseskomiteen enstemmig anbefaler å godkjenne disputasen kan fakultetet, uten ytterligere saksbehandling, godkjenne doktorgradsprøven som helhet.
+(2) Dersom bedømmelseskomiteens innstilling er enstemmig negativ eller delt, skal fakultetet behandle og fatte vedtak i sak om godkjenning av disputasen. Dersom fakultetet ikke godkjenner disputasen, kan doktoranden forsvare avhandlingen på nytt én gang. Fakultetet fastsetter tidspunkt for ny disputas. Ny disputas kan tidligst avholdes etter seks måneder og bedømmes om mulig av den samme komiteen som den opprinnelige.

@@ -1,0 +1,4 @@
+# § 15-2. Enstemmig negativ innstilling eller delt innstilling
+(1) Dersom bedømmelseskomiteens innstilling enten er enstemmig negativ eller delt, skal fakultetet beslutte om avhandlingen er verdig til å forsvares for ph.d.-graden.
+(2) Dersom fakultetet velger å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter fakultetet vedtak i samsvar med denne.
+(3) Ved delt innstilling, eller dersom fakultetet er i tvil om komiteens enstemmige innstilling skal legges til grunn, kan fakultetet be om nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Tilleggsuttalelser eller individuelle uttalelser skal legges frem for ph.d.-kandidaten som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallet i den opprinnelige innstillingen, skal denne følges. Ph.d.-kandidaten skal underrettes om utfallet etter behandling av uttalelser fra nye sakkyndige.

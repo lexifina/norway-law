@@ -1,0 +1,3 @@
+# § 14-4. Retting av formelle feil i avhandlingen
+(1) En avhandling vil bli vurdert nøyaktig slik den er innlevert og kan ikke endres, med unntak av tillatt omarbeiding etter § 14-2 tredje ledd, eller trekkes tilbake før det er endelig avgjort om avhandlingen er verdig til å forsvares for ph.d.-graden.
+(2) Ph.d.-kandidaten kan, én gang, søke fakultetet om tillatelse til å rette formelle feil (errata) i den godkjente versjonen av avhandlingen som skal offentliggjøres. Til søknaden skal det legges ved en errata-liste som viser alle rettinger kandidaten ønsker å foreta i avhandlingen. Frist for å søke om retting av formelle feil er én uke etter at kandidaten har mottatt bedømmelseskomiteens innstilling.
