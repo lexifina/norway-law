@@ -1,0 +1,3 @@
+# § 7-4. Endringer i veiledergruppen, tvister
+(1) Ph.d.-kandidat eller veileder kan sammen eller hver for seg be fakultetet om å oppnevne ny veileder for ph.d.-kandidaten. Veileder kan ikke fratre før ny veileder er oppnevnt. Fakultetet har ansvar for straks å utpeke ny veileder ved langvarig sykdom, permisjon e.l.
+(2) Tvister mellom ph.d.-kandidat og veileder om tilgang til eller rådighet over innsamlede data, størrelsen på bidrag til felles artikkelprosjekter, eller om opphavsrettigheter mv., kan bringes inn til behandling og avgjørelse ved fakultetet. Dersom partene etter drøfting ikke er kommet til enighet om hvordan tvist skal løses, kan ph.d.-kandidat eller veileder be fakultetet om å få endret veiledningsavtalen.

@@ -1,0 +1,9 @@
+# § 17-2. Offentlig forsvar av avhandlingen (disputas)
+(1) Offentlig forsvar av avhandlingen skal finne sted innen to måneder etter at fakultetet har godkjent den for disputas. Tid og sted for disputas skal kunngjøres minst 10 arbeidsdager før disputasen, sammen med opplysninger om hvordan avhandlingen er offentliggjort.
+(2) Disputas skal som hovedregel holdes ved NMBU.
+(3) Den komiteen som har bedømt avhandlingen, bedømmer også det offentlige forsvaret.
+(4) Disputasen skal foregå på avhandlingsspråket med mindre fakultetet godkjenner et annet språk.
+(5) Det skal være to ordinære opponenter. Begge skal være medlemmer av bedømmelseskomiteen.
+(6) Disputasen ledes av dekan eller den dekan utpeker. Disputasleder gjør kort rede for innleveringen og bedømmelsen av avhandlingen og vurderingen av prøveforelesningen. Deretter gjør doktoranden rede for hensikten med og resultatene av det vitenskapelige arbeidet.
+(7) Disputasen skal være en faglig diskusjon mellom opponenter og doktorand om problemformuleringer, metodisk, empirisk og teoretisk grunnlag, dokumentasjon og framstillingsform. Det bør legges spesiell vekt på å få etterprøvd holdbarheten av viktige konklusjoner som doktoranden har trukket i sitt arbeid. Problemstillingene som opponentene velger å forfølge, behøver ikke være begrenset til de som er omtalt i komiteens uttalelse om avhandlingen. Etter at begge opponentene har avsluttet sin opposisjon, og doktoranden har fått anledning til å forsvare avhandlingen, gis de øvrige tilstedeværende anledning til å kommentere ex auditorio. Disputasleder avslutter disputasen.
+(8) Bedømmelseskomiteen leverer en grunngitt innstilling til fakultetet der komiteen gjør rede for hvordan den har vurdert forsvaret av avhandlingen. Innstillingen skal konkludere med om disputasen er vurdert godkjent eller ikke godkjent.

@@ -1,0 +1,3 @@
+# § 8-1. Opplæringsdelens formål og organisering
+(1) Fakultetet har ansvar for at opplæringsdelen sammen med forskningsarbeidet (ph.d.-prosjektet og avhandlingen) gir ph.d.-kandidaten utdanning på høyt faglig nivå i henhold til internasjonal standard, og et læringsutbytte i samsvar med det nasjonale kvalifikasjonsrammeverket. Trening i faglig formidling og opplæring i forskningsetikk, vitenskapsteori og vitenskapelig metode inngår som del av dette.
+(2) Dersom NMBU ikke selv arrangerer hele opplæringsdelen, skal det legges til rette for at ph.d.-kandidaten får tilsvarende opplæring ved andre institusjoner eller enheter som gir godkjent ph.d.-utdanning.

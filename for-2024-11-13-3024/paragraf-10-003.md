@@ -1,0 +1,3 @@
+# § 10-3. Arbeider som ikke godtas
+(1) Med unntak av arbeid som har inngått i veterinær diplomatutdanning eller forskerlinje ved veterinærstudiet, kan arbeider eller deler av et arbeid som kandidaten har fått godtatt som grunnlag for sine tidligere eksamener eller grader, ikke inngå i ph.d.-graden. Data, analyser eller metoder fra tidligere grader kan likevel benyttes som grunnlag for arbeid med ph.d.-prosjektet.
+(2) Publiserte arbeider som ved oppstart av ph.d.-utdanningen er eldre enn fem år (regnet fra publiseringsdato) kan ikke inngå i avhandlingen. En avhandling som inneholder publiserte arbeider som er eldre enn 10 år (regnet fra publiseringsdato) kan ikke antas til bedømmelse for ph.d.-graden.
