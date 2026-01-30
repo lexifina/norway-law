@@ -1,0 +1,6 @@
+# § 5-3. Ikke bestått praksis
+(1) Dersom det er tvil om studenten vil oppnå læringsutbyttet og bestå praksisperioden, skal studenten varsles med en skriftlig begrunnelse så tidlig som mulig i praksisperioden. Nærmere frister for slikt varsel kan være gitt i nasjonal rammeplan for den enkelte utdanning.
+(2) Praksisperioden kan også vurderes til «ikke bestått» ved manglende oppfylling av obligatoriske aktiviteter eller tilstedeværelse.
+(3) Studenten kan uten forutgående varsel få praksis vurdert til «ikke bestått» dersom studenten utvilsomt ikke presterer og oppnår læringsutbyttene i emnet, og den manglende prestasjonen blir tydelig etter at halve praksisperioden er gjennomført eller etter tidspunktet for når varsel normalt blir gitt, jf. første ledd.
+(4) Dersom studenten i praksisperioden har vist handlinger eller adferd som utgjør en mulig fare for liv, fysisk eller psykisk helse for de som studenten er i kontakt med, eller andre klanderverdige forhold som skyldes studenten, kan praksisperioden avbrytes uten forutgående varsel. Praksisperioden kan i disse tilfellene bli vurdert til «ikke bestått» og telle som ett forsøk.
+(5) Ved avbrutt praksis skal universitetet så raskt som mulig gjennomføre samtale med studenten, der det blir informert om grunnlaget for at praksis er avbrutt og konsekvensene dette har for studenten.

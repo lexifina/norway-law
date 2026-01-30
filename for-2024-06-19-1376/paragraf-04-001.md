@@ -1,0 +1,7 @@
+# § 4-1. Studierett og forlenget studieløp
+(1) Studieplass tildeles gjennom vedtak om opptak for studiet eller emnet det er gitt opptak til. Ved overgang til nytt studium eller emne, må det søkes om overgang.
+(2) Studierett etableres ved at studenten aksepterer tilbud om studieplass, registrerer oppmøte til studiestart, semesterregistrerer seg og betaler semesteravgift innen fastsatt frist. Rektor kan fastsette egne regler for enkeltemnestudenter.
+(3) For gradsstudier gis det inntil to år forlenget studierett etter utløp av normert studietid for aktive studenter. I tidsbegrensningen på to år inngår ikke utsatt studiestart, midlertidig utestenging eller innvilgede permisjoner. Dersom det fattes vedtak om tap av studierett etter § 4-5, opphører likevel studieretten før utløpet av toårsfristen.
+(4) For årsstudier har studenten inntil ett år forlenget studierett. Det gis ikke forlenget studierett for studier av kortere varighet.
+(5) Studieretten opphører når studenten skriftlig bekrefter å ha trukket seg fra studiet, når studiene er fullført og vitnemål eller karakterutskrift er utstedt, eller ved tap av studierett, jf. § 4-5. Studenter som har fullført studiene kan likevel søke om forlenget studierett i inntil ett år for å kunne forbedre karakterer.
+(6) En student som følger normal studieprogresjon har krav på at studieprogrammets læringsutbytte, nivå og struktur ikke endres vesentlig. Mindre endringer må ikke medføre at studenten blir forsinket i sin progresjon.

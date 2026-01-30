@@ -1,0 +1,3 @@
+# § 9-4. Tilleggsbetegnelser – siviløkonom og sivilingeniør
+(1) Masterprogram i økonomiske og administrative fag, som tilfredsstiller vilkårene til opptakskrav og fagsammensetning, gir rett til den beskyttede tittelen siviløkonom som tilleggsbetegnelse på vitnemålet, jf. forskrift om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler.
+(2) Masterprogram i teknologiske fag, som tilfredsstiller vilkårene til opptakskrav og fagsammensetning, gir rett til den beskyttede tittelen sivilingeniør som tilleggsbetegnelse på vitnemålet, jf. forskrift om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler.

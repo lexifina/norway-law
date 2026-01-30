@@ -1,0 +1,5 @@
+# § 4-3. Tilrettelegging av studiesituasjon
+(1) Studenter med funksjonsnedsettelse og studenter med særskilte behov har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter, jf. universitets- og høyskoleloven § 10-5.
+(2) Retten gjelder ikke tilrettelegging som innebærer en uforholdsmessig byrde for universitetet. Den som fullfører og består en utdanning, må ha oppnådd det fastsatte læringsutbyttet. Tilretteleggingen må derfor ikke føre til en reduksjon av de faglige krav som stilles i den enkelte utdanningen.
+(3) En student som på grunnlag av sykdom, skade, funksjonsnedsettelse eller annen særskilt grunn trenger tilrettelagt undervisning, kan søke om tilrettelegging av studiesituasjonen.
+(4) Studiesituasjonen skal tilrettelegges for studenter som deltar i studentpolitisk arbeid ved universitetet, som deltagelse i lovpålagte råd, utvalg, nemnder og lignende så langt dette er faglig forsvarlig.
