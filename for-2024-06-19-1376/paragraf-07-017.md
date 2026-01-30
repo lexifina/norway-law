@@ -1,0 +1,6 @@
+# § 7-17. Eksamenssted
+(1) Eksamenssted for eksamen som krever oppmøte er som hovedregel universitetets lokaler ved det studiestedet studenten tilhører eller der undervisningen i emnet gjennomføres.
+(2) Studenter som skal gjennomføre deler av studiet i utlandet, og som ønsker å avlegge eksamen i universitetets emner, må normalt gjøre dette mens de oppholder seg i Norge.
+(3) Studenten kan i særlige tilfeller etter søknad innvilges dispensasjon for å avlegge eksamen ved annet eksamenssted enn der eksamen ordinært gjennomføres. Frist for å levere søknad er 15. oktober for høstsemesteret eller 15. mars for vårsemesteret. Universitetets digitale søknadsskjema skal benyttes.
+(4) Ved innvilgelse ilegges studenten en avgift etter gjeldende satser som dekker interne merkostnader, og må videre dekke eventuelle andre kostnader som det andre eksamensstedet krever. Studenten må selv inngå avtale med ekstern utdanningsinstitusjon.
+(5) Studenter ved andre utdanningsinstitusjoner som ønsker å benytte universitetet som eksamenslokale, kan søke om å avlegge eksamen ved universitetet. Dersom dette innvilges, skal det i henhold til gjeldende satser betales avgift per eksamen per student, samt eventuelle kostnader for eksamensvakt.

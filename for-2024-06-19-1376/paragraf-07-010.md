@@ -1,0 +1,3 @@
+# § 7-10. Ordinær eksamen
+(1) Ordinær eksamen gjennomføres i det semesteret som er angitt i emneplanen. Innenfor samme eksamensperiode skal det normalt arrangeres kun én ordinær eksamen i samme emne.
+(2) Ved innlevering av eksamen kan det innvilges inntil 48 timers utsettelse, dersom studenten umiddelbart ved skriftlig legeerklæring eller annen etterprøvbar dokumentasjon kan dokumentere at forsinkelsen skyldes egen akutt sykdom eller ulykke. Tilsvarende gjelder ved sykdom, dødsfall, ulykke eller lignende i nær familie, eller andre forhold som er utenfor studentens kontroll. I særlige tilfeller kan det innvilges lengre frist enn 48 timer.
