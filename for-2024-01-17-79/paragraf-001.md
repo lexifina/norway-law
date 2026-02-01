@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med forskrifta er å finansiere Nasjonal kommunikasjonsmyndigheit sine oppgåver gjennom sektoravgifter og gebyr slik at Nasjonal kommunikasjonsmyndigheit er sjølvfinansiert. Midlane skal nyttast best mogleg for å nå målsettingane med ekomloven, bredbåndsutbyggingsloven, lov om elektroniske tillitstjenester, postloven og Nasjonal kommunikasjonsmyndigheits arbeid etter sikkerhetsloven.
