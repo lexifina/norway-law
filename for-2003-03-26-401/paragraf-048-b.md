@@ -1,0 +1,3 @@
+# § 48b. Miljøkrav for drosje
+Når løyvemyndigheten etter yrkestransportlova § 9 (2) har gitt påbud om at drosjekjøring innenfor en kommune skal drives med motorvogn med en øvre grense for miljøskadelige utslipp, kan løyvehaver likevel utføre oppdrag fra et sted utenfor kommunen til et sted innenfor kommunen med motorvogn som ikke oppfyller de fastsatte miljøkravene. I forbindelse med en slik tur er det tillatt å ta med passasjerer på oppdrag ut av kommunen. Tomkjøring inn i kommunen for å utføre oppdrag ut av kommunen er bare tillatt for bestilte turer.
+Løyvemyndigheten kan i særskilte tilfeller gi unntak fra den øvre grensen for miljøskadelig utslipp som løyvemyndigheten selv har satt med hjemmel i yrkestransportloven § 9 (2).

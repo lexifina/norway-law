@@ -1,0 +1,6 @@
+# § 30. Billettering
+Løyvehaver plikter å bruke billettmaskiner, billetter, rabattkort og lignende etter et system godkjent av løyvemyndigheten.
+Departementet fastsetter nærmere retningslinjer for bruk av elektroniske billettsystemer.
+Den som har løyve for persontransport med motorvogn og fartøy i rute skal betale gebyr til Jernbanedirektoratet for tilknytning til og bruk av elektroniske støttesystemer for billettering. Administrasjonsselskap eller fylkeskommune skal isteden ilegges slikt gebyr når de har den økonomiske risikoen for å levere tjenesten eller eier billettsystemet som brukes. Gebyret fastsettes av Jernbanedirektoratet på grunnlag av Jernbanedirektoratets budsjett for disse tjenestene. Gebyret fordeles forholdsmessig mellom aktørene med utgangspunkt i antall kollektivreiser. Jernbanedirektoratet fastsetter nærmere retningslinjer for beregning av gebyret.
+Jernbanedirektoratet kan også pålegge den som skal betale gebyr etter tredje ledd et engangsgebyr som skal dekke obligatoriske individuelle tjenester knyttet til elektroniske støttesystemer for billettering.
+Departementet kan gjøre helt eller delvis unntak fra kravene i tredje og fjerde ledd dersom særlige hensyn tilsier det.

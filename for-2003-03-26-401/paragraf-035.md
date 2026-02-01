@@ -1,0 +1,2 @@
+# § 35. Unntak fra krav om ruteløyve
+Den som har tillatelse til å drive persontransport med jernbane etter jernbaneloven, kan ved nødvendig og midlertidig innstilling av togtilbudet utføre transporten med motorvogn i inntil to måneder uten ruteløyve. Løyvemyndigheten skal i slike tilfeller underrettes, og kan etter søknad forlenge perioden i inntil to måneder. Den som utfører transporten må ha løyve for persontransport med motorvogn.

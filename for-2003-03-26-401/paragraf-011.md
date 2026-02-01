@@ -1,0 +1,3 @@
+# § 11. Skifte av transportleder, daglig leder eller styreleder
+Dersom godkjent transportleder eller daglig leder fratrer virksomheten, skal dette meldes løyvemyndigheten snarest og senest innen 28 dager. Løyvene kalles tilbake dersom ikke virksomheten innen 3 måneder etter fratreden kan dokumentere at det er ansatt ny transportleder eller daglig leder som fyller kravene i § 6 og/eller § 8. For virksomhet som har løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve eller turvognløyve gjelder tilsvarende for styrets leder når virksomheten har et styre.
+Løyvemyndigheten kan i særlige tilfeller forlenge denne fristen.

@@ -1,0 +1,5 @@
+# § 23. Dispensasjon
+Samferdselsdepartementet kan gi nærmere bestemmelser om løyveordningene, og kan i særlige tilfelle gjøre unntak fra bestemmelsene i denne forskriften dersom Norges folkerettslige forpliktelser ikke er til hinder for det.
+Løyvemyndigheten kan når transportmessige hensyn tilsier det gjøre unntak fra krav om løyve i det enkelte tilfelle for avgrenset transport som utføres etter avtale med annen løyvehaver og innen rammen av dette løyvet. Slikt unntak gjelder bare når transporten skal utføres med personbil, jf. forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) § 2-2 nr. 2 a) og gis for inntil ett år om gangen. Det kan stilles vilkår for slikt unntak.
+Statens vegvesen kan i særlige tilfeller gi den som søker om løyve for godstransport eller turvognløyve unntak fra kravene til økonomisk evne i § 7 og faglig kompetanse i § 8.
+Statens vegvesen kan i enkeltvedtak gjøre unntak fra krav om løyve for transport med veteranbuss registrert for over 8 personer i tillegg til førersetet.
