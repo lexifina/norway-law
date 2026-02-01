@@ -1,0 +1,4 @@
+# § 2-1. Søknadsfrist
+(1) For søknad til studier der opptaket er organisert gjennom Samordna Opptak, gjelder de nasjonale fristene fastsatt av departementet. Rektor fastsetter frister for opptak til studier med lokalt opptak.
+(2) Dersom det ved søknadsfristens utløp ved lokale opptak er få kvalifiserte søkere, kan høyskolen foreta ny utlysning med ny søknadsfrist. Ny søknadsfrist skal fastsettes av Rektor. Ved ny utlysning skal alle kvalifiserte søkere som søkte innen ordinær søknadsfrist, tilbys studieplass.
+(3) I det lokale opptaket må alle vitnemål, attester og andre aktuelle vedlegg være levert innen søknadsfristen. Det settes egen frist for ettersending av eventuelle vedlegg fra utdanning som avsluttes i inneværende semester. Dokumentasjon må likevel innen den gitte ettersendingsfrist.
