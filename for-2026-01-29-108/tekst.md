@@ -1,0 +1,19 @@
+# I
+I forskrift 26. mars 2003 nr. 401 om yrkestransport med motorvogn og fartøy (yrkestransportforskriften) gjøres følgende endringer:
+§ 12 første ledd tabell rad 1-4 skal lyde:
+Følgende gebyrsatser gjelder for behandling av søknad om løyve mv.:
+Tjeneste | Ordinær betalingsmåte, kr | Betaling ved bruk av selvbetjeningsløsning, kr | Betalingsmottaker
+Løyve for godstransport, turvogn og internasjonalt varebilløyve | 2 290 | – | Løyvemyndigheten
+Attestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve | 1 520 | – | Løyvemyndigheten
+Attestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve ved tapt løyve | – | 1 520 | Løyvemyndigheten
+Nasjonalt varebilløyve | 960 | – | Løyvemyndigheten
+§ 12 andre ledd skal lyde:
+Følgende gebyrsatser gjelder for gjennomføring av eksamen mv.:
+Tjeneste | Ordinær betalingsmåte, kr | Betaling ved bruk av selvbetjeningsløsning, kr | Betalingsmottaker
+Løyveeksamen for gods-, persontransport og internasjonalt varebilløyve | 1 200 | 1 100 | Statens vegvesen
+Utstedelse av bevis for bestått løyveeksamen for gods-, persontransport og internasjonalt varebilløyve | 120 | – | Statens vegvesen
+Løyveeksamen for nasjonalt varebilløyve | 610 | – | Statens vegvesen
+Løyveeksamen for drosje | 470 | – | Statens vegvesen
+Teoretisk førereksamen for drosje | 460 | 400 | Statens vegvesen
+# II
+Endringene trer i kraft 1. februar 2026.
