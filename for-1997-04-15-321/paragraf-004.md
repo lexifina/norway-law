@@ -1,0 +1,3 @@
+# § 4. Oppgjørsform
+Dersom arbeidsgiver har ansatt tolk i henhold til § 1 femte ledd, skal hjelpemiddelsentralen i det fylket der arbeidsstedet ligger foreta forskuddsbetaling til arbeidsgiver. Betalingen kan være kvartalvis, halvårig eller årlig i henhold til antall brukere som har gitt sin fullmakt. Det skal ikke gis forskuddsutbetalinger for kortere tidsrom enn et kvartal, og ikke for lengere tidsrom enn ett år. Hjelpemiddelsentralen som forestår utbetalingene til arbeidsgiver plikter å gi melding om utbetalingen til brukers hjemfylke.
+Stønad gis bare for oppdrag utført av en tolk som er godkjent av det departementet som til enhver tid har ansvaret for utdanning og godkjenning, eller av den som har fått myndighet til det av vedkommende departement.
