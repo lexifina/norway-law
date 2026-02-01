@@ -1,0 +1,2 @@
+# § 55. Gebyr for søknad om opprettelse av luftromsrestriksjoner og andre områder og soner
+For søknad om opprettelse av forbudt område, restriksjons- og fareområde, reservert luftrom, geografisk UAS-område, radiopåbudssone, transponderpåbudssone, eller sone eller område med krav til alternativ type overvåknings- eller kommunikasjonsutstyr, betales gebyr etter regning, jf. § 4. Offentlige myndigheter er unntatt fra kravet om gebyr for søknad om opprettelse av luftromsrestriksjoner og andre områder og soner.

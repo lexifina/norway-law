@@ -1,0 +1,4 @@
+# § 45. Gebyr for instruktør- og kontrollantrettighet for piloter
+For behandling av søknad om utstedelse av instruktørbevis for FI, CRI, IRI eller akro, betales gebyr kr 3 890. For forlengelse, gjenutstedelse eller utvidelse betales gebyr kr 3 380.
+For behandling av søknad om utstedelse av instruktørbevis TRI, SFI, MCCI, STI og FTI, betales gebyr kr 5 030. For søknad om forlengelse, gjenutstedelse eller utvidelse betales gebyr kr 3 380. For søknad om bytte fra TRI til SFI eller motsatt betales gebyr kr 3 380.
+For saksbehandling knyttet til Assessment of Competence og/eller utstedelse av kontrollantbevis, betales gebyr kr 2 820. Når Assessment of Competence gjennomføres av Luftfartstilsynet, betales gebyr kr 6 970. For saksbehandling og utstedelse av autorisasjon til språkkontrollant, betales gebyr kr 1 630.

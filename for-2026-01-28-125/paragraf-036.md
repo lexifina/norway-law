@@ -1,0 +1,7 @@
+# § 36. Gebyr for godkjenning og årsgebyr for UAS-operatører i spesifikk kategori
+For godkjenning av operasjon i spesifikk kategori (Operational Authorisation) skal det betales gebyr etter regning, jf. § 4. Dette gjelder også operatør som benytter predefinerte risikoanalyser (PDRA)
+UAS-operatør med godkjent operasjonstillatelse i spesifikk kategori skal betale årsgebyr kr 32 000. Årsgebyret dekker inntil to operasjonstillatelser. Ut over dette betales et årlig tillegg på kr 5 000 per tillatelse. Revisjon av operasjonstillatelsene er inkludert i årsgebyret.
+Dersom revisjon blir særlig omfattende på grunn av at UAS-operatøren ikke stiller nødvendige dokumentasjon til rådighet eller andre særlige omstendigheter foreligger påløper gebyr etter regning jf. § 4.
+UAS operatør som har kontrakt med eller er tilknyttet en annen organisasjon/virksomhet som benytter deres operasjonstillatelse, skal betale et årlig tillegg per tilknyttet organisasjon/virksomhet etter følgende tabell:Inntil 5 organisasjoner/virksomheter, per organisasjon/virksomhet4 000Fra 6 til og med 15 tilknyttede organisasjoner/virksomheter30 000Fra 16 til og med 25 tilknyttede organisasjoner/virksomheter60 000Fra 26 til og med 50 tilknyttede organisasjoner/virksomheter 100 000Over 50 tilknyttede organisasjoner/virksomheter150 000
+UAS-operatør som kun har godkjente operasjoner standardscenario (STS) skal betale årsgebyr kr 6 500.
+UAS-operatør som benytter PDRA eller STS i kombinasjon med SORA skal betale årsgebyr for operatør i spesifikk kategori.

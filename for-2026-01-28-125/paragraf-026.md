@@ -1,0 +1,3 @@
+# § 26. Årsgebyr og gebyr for luftfartsoperatører som driver luftfartsoperasjoner etter selverklæring
+Luftfartsoperatør som driver luftfartsoperasjoner etter selverklæring jf. forskrift 7. august 2013 nr. 956, forordning (EU) nr. 965/2012, ORO.DEC.100 skal betale årsgebyr etter følgende satser:Deklarerte organisasjonerGrunngebyr:a. VFR, opptil 2 000 kg51 800b. VFR, 2 001-5 700 kg104 000c. IFR, opptil 5 700 kg154 000d. IFR, over 5 701 kg230 000I tillegg til grunngebyret betales kr 20 800 per luftfartøytype ut over en, og per rettighet i henhold til tabellen i § 24.
+For søknad om utstedelse av autorisasjon for høyrisiko spesialiserte luftfartsoperasjoner jf. forskrift 7. august 2013 nr. 956, forordning (EU) nr. 956/2012, ORO.SPO.110, betales gebyr etter regning, jf. § 4.
