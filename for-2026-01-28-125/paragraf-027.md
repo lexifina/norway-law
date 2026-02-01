@@ -1,0 +1,3 @@
+# § 27. Gebyr for godkjenning av leie av luftfartøy mv.
+For godkjenning av avtale om leie av luftfartøy betales gebyr kr 19 200 per fartøy. For godkjenning av forlengelse og andre endringer av leieavtale for luftfartøy betales gebyr kr 11 900 per fartøy. For godkjenning av eierskifte betales gebyr kr 8 380 per fartøy. For godkjenning av avtale om wet-lease av luftfartøy betales gebyr kr 13 240 per fartøy. For godkjenning av forlengelse av avtale om wet-lease av luftfartøy betales gebyr kr 8 380.
+For arbeid i forbindelse med avtale om utleie av norskregistrert luftfartøy betales gebyr kr 13 240 per fartøy. For arbeid i forbindelse med forlengelse av slik avtale om utleie, betales gebyr etter regning, jf. § 4.

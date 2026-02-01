@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Forskriften fastsetter gebyr for Luftfartstilsynets arbeid med myndighetshandlinger etter luftfartsloven. For arbeid utført av Det europeiske flysikkerhetsbyrået (EASA) gjelder forskrift 27. juni 2024 nr. 1381 om felleseuropeiske sikkerhetsregler for sivil luftfart og om etablering av et europeisk flysikkerhetsbyrå (EASA-forskriften), jf. forordning (EU) 2019/2153 om avgifter og gebyrer pålagt av Det europeiske flysikkerhetsbyrået.

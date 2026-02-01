@@ -1,0 +1,4 @@
+# § 21. Årsgebyr og gebyr for godkjenning av andre tekniske organisasjoner eller personell
+For søknad om godkjenning av Part 66 Independent Airworthiness Review Staff betales gebyr kr 15 700.
+For søknad om godkjenning som luftdyktighetsgransker for nasjonalt sertifisert luftfartøy betales gebyr kr 15 700. For søknad om godkjenning som luftdyktighetsgransker for eget amatørbygd luftfartøy betales gebyr kr 7 680.
+For søknad om godkjenning av Stand Alone CAMO betales gebyr etter regning jf. § 4, med minimumsbeløp kr 8 450. For godkjent Stand Alone CAMO påløper årsgebyr kr 7 500. For endring av gitt godkjenning som følge av nytt vedlikeholdsprogram betales gebyr kr 2 420, likevel slik at hvis medgått tid utgjør mer enn to timer påløper gebyr etter regning, jf. § 4. For søknad om endring av gitt godkjenning i andre tilfeller, betales gebyr etter regning, jf. § 4.

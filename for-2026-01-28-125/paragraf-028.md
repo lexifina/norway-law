@@ -1,0 +1,3 @@
+# § 28. Operasjon til lufthavn og aerial work
+For godkjenning av luftfartsoperatører som driver luftambulansetjeneste eller regelbundet ervervsmessig lufttransport til norsk kortbanelufthavn, betales gebyr etter regning, jf. § 4. For godkjenning av andre luftfartsoperatører som driver ikke-regelbundet ervervsmessig lufttransport på norsk lufthavn med krav om særlig godkjenning (compliance review), betales gebyr kr 7 850.
+For søknad fra utenlandske luftfartsselskaper om tillatelse til spesialiserte operasjoner (Aerial Work) eller lufttransport i Norge utenfor landingsplass til allmenn bruk, betales gebyr kr 3 340 per tillatelse.
