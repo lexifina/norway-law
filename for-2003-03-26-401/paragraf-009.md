@@ -1,0 +1,2 @@
+# § 9. Eksamen
+Den som søker om løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve, turvognløyve, eller drosjeløyve skal avlegge løyveeksamen hos Statens vegvesen. Den som søker om kjøreseddel for drosjetransport etter yrkestransportloven kapittel 7A skal avlegge førereksamen hos Statens vegvesen. Statens vegvesen kan fastsette nærmere retningslinjer for gjennomføring av eksamen.
