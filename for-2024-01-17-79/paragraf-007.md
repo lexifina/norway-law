@@ -1,0 +1,2 @@
+# § 7. Sektoravgift for tillitstenester
+Nasjonal kommunikasjonsmyndigheit kan i enkeltvedtak fastsetje og krevje inn ei sektoravgift for tilbydar av tillitstenester som er registreringspliktig, i tillegg til sektoravgift for frivillige sertifiserings-, godkjennings- eller sjølvdeklarasjonsordningar etter lov om elektroniske tillitstjenester. Sektoravgifta må ikkje overstige kostnadene ved Nasjonal kommunikasjonsmyndigheit si verksemd, jf. lov om elektroniske tillitstjenester § 7.
