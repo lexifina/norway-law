@@ -1,0 +1,2 @@
+# § 22. Straff, inndragning og overtredelsesgebyr
+Forsettlig eller uaktsom overtredelse av denne forskrift straffes i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 62, jf. § 64 og lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar § 22. Inndragning kan skje i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 65. Overtredelsesgebyr kan gis i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 59.
