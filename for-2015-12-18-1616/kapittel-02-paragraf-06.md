@@ -1,0 +1,9 @@
+# § 2-6. Funksjonar som eit kassasystem ikkje skal ha
+(1) Programvaren i eit kassasystem skal ikkje ha andre funksjonar enn det som går fram av systemskildringa, jf. kassasystemlova § 3 andre ledd.
+(2) Programvaren i eit kassasystem skal ikkje kunne koplast saman med eller integrerast med utrustning eller programvare som gjer det mogeleg å endre eller slette elektronisk journal.
+(3) Programvaren i eit kassasystem skal ikkje ha funksjonar som gjer det mogeleg for brukaren å ta bort, endre eller legge til opplysningar i registreringane. Programmert tekst på varer og tenester skal ikkje kunne endrast ved eller etter registreringa.
+(4) Det skal ikkje vere mogeleg å avslutte sal utan at systemet fullfører salet og skriv ut ei salskvittering. Kravet til at kassasystemet skal generere utskrift automatisk gjeld ikkje dersom det i samband med salet nyttast ei betalingsløysing som er integrert i kassasystemet. For drivstoff-, parkerings- og billettautomatar, samt andre ubetjente automatar som har funksjon til å skrive salskvittering, kan systemet ha ein funksjon som gjer det frivillig for kunden å ta ut salskvittering. Systemet skal ikkje kunne skrive ut meir enn éi kopikvittering. Dette er ikkje til hinder for at taxfree-butikkar i lufthavner har system som kan skrive ut fleire STEB-kvitteringar.
+(5) Det skal ikkje vere mogeleg å foreta registreringar i kassasystemet dersom integrert kassaskuff er open.
+(6) Det skal ikkje vere mogeleg å foreta registreringar i kassasystemet dersom lagringsminnet er fullt.
+(7) Det skal ikkje vere mogeleg å merke særskilte varer eller tenester i kassasystemet slik at dei ikkje blir tekne med på X- og Z-rapport.
+(8) Eit kassasystem som blir kopla saman med ei ikkje-automatisk vekt, skal ikkje kunne påverke vekta sine måletekniske eigenskapar, jf. forskrift 21. desember 2007 nr. 1735 om krav til ikke-automatiske vekter.

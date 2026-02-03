@@ -1,0 +1,2 @@
+# § 2-8-4. Salskvittering
+Ei salskvittering skal minst innehalde opplysningar som nemnt i forskrift 1. desember 2004 nr. 1558 om bokføring § 5-3-12 samt opplysningar om type betalingsmiddel og ID-nummeret til kassapunktet. Ordet «Salskvittering» skal visast øvst på kvitteringa. Dersom salskvitteringa er framstilt i elektronisk form skal orda «Elektronisk salskvittering» visast. Dersom betalingsløysinga er integrert med kassasystemet, skal salskvitteringa også innehalde transaksjons-ID.

@@ -1,0 +1,7 @@
+# § 2-7. Elektronisk journal
+(1) All kontinuerleg bruk skal lagrast fortløpande i elektronisk journal. Dette omfattar også opplysningar på kvitteringar som nemnt i § 1-2 bokstavane d til h. Elektronisk journal skal vere sikra mot endring og sletting. Elektronisk journal kan overførast til eit anna elektronisk medium i eit filformat som ikkje enkelt lar seg redigere. Slik overføring skal ikkje kunne gjerast før kassasystemet har produsert ein Z-rapport. Systemet skal kunne produsere ei fil direkte frå elektronisk journal eller anna elektronisk medium i ei standardisert form fastsett av Skattedirektoratet.
+(2) Tidspunkta for opning av integrert kassaskuff skal gå fram av elektronisk journal.
+(3) Dersom kassasystemet har funksjonar for fastsetjing av prisar for varer og tenester, skal det vere mogeleg å ta fram opplysningar om aktuelle prisar frå kassasystemet. Det skal i slike tilfelle gå fram av den elektroniske journalen når prisane har blitt endra. Det same gjeld ved andre endringar i dei faste opplysningane.
+(4) Dersom kassasystemet har funksjonar for å undersøke pris, skal slike prisundersøkingar registrerast i elektronisk journal.
+(5) Dersom kassasystemet har funksjonar for identifikasjon av den enkelte operatør ved bruk av kort eller liknande, skal elektronisk journal innehalde opplysningar om vedkomande sitt namn eller tilsettnummer i samband med salstransaksjonane og andre registreringar.
+(6) All kontinuerleg bruk må kunne identifiserast og skiljast ut med eit startpunkt.
