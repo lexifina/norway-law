@@ -1,0 +1,8 @@
+# § 6. Krav til vekt, plassering, avlesningsmulighet og adgang
+Mottaker skal ha vekt egnet til bruk ved landing av fisk. At vekten er egnet til bruk ved landing av fisk vil si at all fisk slik den føres over vekten blir registrert og korrekt veid. Vekten skal være plassert i mottaksområdet og den som lander skal ha uhindret og umiddelbar adgang. De måletekniske kravene til vekten følger av regler gitt i eller i medhold av lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid.
+Pelagisk fanget fisk skal veies på automatisk vekt. Vektens tilleggsdisplay skal være plassert slik at veid kvantum kan avleses fra fartøyet.
+Ved bruk av ikke-automatisk vekt skal alle enkeltveiinger loggføres på en slik måte at korrekt veid kvantum kan dokumenteres. Mottaker skal oppbevare loggførte enkeltveiinger på mottaksstedet i minst 5 år.
+Det er forbudt å ha faste innretninger som kan benyttes til å transportere fisk utenom vekten, samt å ha innretninger plassert før eller i forbindelse med vekten som kan være egnet til å påvirke veiingen. Det skal ikke foretas endringer i styresystemer som kan påvirke veiingen.
+Ved brudd på reglene gitt i § 6 første til tredje ledd, kan Fiskeridirektoratet forby bruk av vekten.
+Fiskeridirektoratet kan i særlige tilfeller gi dispensasjon fra kravene til vekt. Det skal ved dispensasjon fra kravet i andre ledd om bruk av automatisk vekt tas hensyn til mengden fisk som landes og antall landinger hvert kalenderår, samt kostnadenes omfang i forbindelse med anskaffelse av slikt utstyr.
+Fiskeridirektoratet kan også gi dispensasjon fra kravene til vekt dersom det oppstår tekniske feil.

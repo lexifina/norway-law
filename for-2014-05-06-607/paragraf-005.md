@@ -1,0 +1,8 @@
+# § 5. Veieplikt
+All fisk skal sorteres og veies på art fortløpende ved landing. Mottaksanlegg som mottar industrifangster for produksjon av fiskemel, fiskeolje og andre produkter har også veieplikt for all fisk som mottas på annen måte enn i første hånd.
+Pelagisk fanget fisk til konsum skal veies før sortering og/eller pakking. Pelagisk fanget fisk som ikke anvendes til konsum, skal veies på nytt umiddelbart etter utsortering. Dette gjelder tilsvarende for fisk som sorteres ut til produksjon av farse-, mel- og oljeprodukter.
+Ved landing av rensefisk for bekjempelse av lakselus i akvakulturanlegg kan vekten beregnes ved bruk av omregningsfaktorer for leppefisk fastsatt av Fiskeridirektoratet.
+Ved landing av blokkfryste industrireker påføres vekten av blokkene på landingsseddelen. Reell produktvekt av alle arter påføres sluttseddelen etter prøvetaking.
+Fiskeridirektoratet kan i særlige tilfeller gi dispensasjon fra bestemmelsene om veiing av fisk.
+Fiskeridirektoratet kan gi dispensasjon fra bestemmelsene i første og andre ledd for fartøy under 15 meter største lengde som lander fisk på steder der det ikke finnes registrerte kjøpere i første hånd. Ved vurderingen av om det skal gis dispensasjon skal det blant annet legges vekt på de lokale værforholdene, om fartøyet må passere utsatte områder og gangtid fra fiskefeltet til nærmeste mottaksanlegg. Ved innvilget dispensasjon skal landingsseddelen inneholde opplysningene som kreves i henhold til § 9 og § 11, med unntak av vektavlesning og nøyaktig kvantum i kilogram. Den som lander skal oppgi estimert vekt på landingsseddelen. Fiskeridirektoratet kan sette vilkår for dispensasjoner.
+Fiskeridirektoratet kan også gi dispensasjon fra bestemmelsene i første og andre ledd dersom det oppstår tekniske feil.
