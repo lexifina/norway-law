@@ -1,0 +1,8 @@
+# § 3. Retten til å framstille seg
+Graden doctor philosophiae (dr.philos.) er en ikke-veiledet doktorgrad som kan tildeles personer som har mastergrad eller tilsvarende innen relevant fagfelt, jamfør beskrivelsene i kvalifikasjonsrammeverket nivå 7. Fakultetet kan etter særskilt vurdering godkjenne annen likeverdig utdanning.
+Fakultetet kan etter særskilt vurdering gi søkere som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag, adgang til å framstille seg til doktorgradsprøven. Fakultetet vurderer søkerens forhåndskvalifikasjoner og fatter vedtak på grunnlag av søkerens dokumentasjon av tidligere studier og vitenskapelige arbeider, jf. § 5. Fakultetet kan stille krav om at søkere gjennomgår særskilte kurs og/eller består særskilt prøve før det gis adgang til bedømmelse av doktorgradsarbeidet. Søknaden fremmes samtidig med oversendelse av doktorgradsarbeidet. Avhandlingen skal ikke bedømmes før fakultetet har gitt søkeren tillatelse til å framstille seg for graden.
+Forskningsarbeidet og doktoravhandlingen skal være utført på egenhånd uten krav til formell tilknytning til universitetet.
+Den som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å framstille seg for prøven dersom vedkommende fakultet etter begrunnet søknad og innstilling fra det aktuelle fagmiljø gir tillatelse til dette. Slik adgang kan innvilges dersom avhandlingen
+- behandler emner eller bygger på materiale som har direkte tilknytning til Norge,
+- har sterk tilknytning til norsk forskning innen fagområdet,
+- er utført under opphold ved norsk universitet eller forskningsinstitutt, eller i særlig kontakt med norske forskere.

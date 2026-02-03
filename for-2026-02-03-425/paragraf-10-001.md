@@ -1,0 +1,2 @@
+# § 10-1. Retting av formelle feil i avhandlingen
+En innlevert avhandling kan ikke endres eller trekkes tilbake før det er endelig avgjort om det er verdig til å forsvares for doktorgraden. Kandidaten kan likevel etter innlevering rette skrive- og formateringsfeil. Kandidaten skal vedlegge en fullstendig oversikt (errataliste) over de feil som ønskes rettet. Fakultetet må godkjenne erratalisten før offentliggjøring.

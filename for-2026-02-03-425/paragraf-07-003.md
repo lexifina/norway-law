@@ -1,0 +1,5 @@
+# § 7-3. Mindre omarbeiding og underkjennelse av avhandling
+Bedømmelseskomiteen kan på grunnlag av den innleverte avhandlingen og eventuelt tilleggsmateriale, jf. § 7-1, anbefale at fakultetet gir tillatelse til mindre omarbeiding før endelig innstilling foreligger. Komiteen skal skriftlig gi en konkret oversikt over hva kandidaten må omarbeide.
+Dersom fakultetet tillater en mindre omarbeiding av avhandlingen, skal det gis en frist som normalt ikke er lengre enn tre (3) kalendermåneder. Det skal også fastsettes en ny frist for oversendelse av komiteens endelige innstilling. Fakultetets avgjørelse om mindre omarbeiding etter denne paragrafen kan ikke påklages av kandidaten.
+Dersom komiteen finner at dyptgripende endringer vedrørende teori, problemstilling, materiale eller metode er nødvendige for at arbeidet skal kunne anbefales til disputas, skal komiteen underkjenne avhandlingen.
+Komiteen skal ikke gi anbefaling om mindre omarbeiding hvis det kun dreier seg om mindre uklarheter i avhandlingen som lar seg avklare innenfor disputasens ramme.

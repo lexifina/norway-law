@@ -1,0 +1,6 @@
+# § 5. Innlevering
+Innlevering av avhandlingen og anmodningen om å få arbeidet bedømt for doktorgraden stiles til fakultetet og vedlegges bekreftet kopi av vitnemål som viser avlagte eksamener og grader. Hvis kandidaten er i tvil om hvilket fakultet avhandlingen bør bedømmes ved, kan henvendelsen stiles til rektor. Hvis det kreves særskilt tillatelse, skal søkeren dokumentere sine studier og legge ved tidligere vitenskapelige arbeider. Slik søknad fremmes samtidig med oversendelse av doktorgradsarbeidet. Ikke-nordiske statsborgere skal ved innlevering fremme en begrunnet søknad om adgang til bedømmelse for graden.
+Kandidaten sender sammen med avhandlingen en skriftlig egenerklæring om at avhandlingen eller deler av denne ikke er eller har vært innlevert til bedømmelse for doktorgrad ved annen norsk eller utenlandsk institusjon.
+Fakultetet kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité, eller dersom avhandlingens tema klart faller utenfor fakultetets forskningsområder.
+Avhandlingen leveres i den form fakultetet har bestemt.
+Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om det kan godkjennes til å forsvares for doktorgraden.
