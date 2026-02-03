@@ -1,0 +1,2 @@
+# § 2-8-7. Utleveringskvittering
+Dersom kassasystemet blir nytta til å registrere kredittsal som blir fakturert på eit seinare tidspunkt, skal det skrivast ut ei kvittering som viser kva slags varer og tenester som er levert. Kvitteringa skal tydeleg merkast «Utleveringskvittering – IKKJE KVITTERING FOR KJØP». Fonten på den markerte teksten skal vere minst 50 % større enn den teksten som angir beløp. Utleveringskvitteringar skal daterast og nummererast fortløpande i eigen nummerserie.

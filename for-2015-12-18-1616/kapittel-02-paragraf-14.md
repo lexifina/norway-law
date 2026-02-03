@@ -1,0 +1,2 @@
+# § 2-8-6. Kopikvittering, STEB-kvittering, foreløpig kvittering og treningskvittering
+Dersom kassasystemet har funksjonar til å skrive ut kopikvittering, STEB-kvittering, foreløpig kvittering eller treningskvittering skal desse vere tydeleg merka respektive «KOPI», «STEB-kvittering», «Foreløpig kvittering – IKKJE KVITTERING FOR KJØP» og «Treningskvittering – IKKJE KVITTERING FOR KJØP». Fonten på den markerte teksten skal vere minst 50 % større enn den teksten som angir beløp. Treningskvitteringar skal daterast og nummererast fortløpande i eigen nummerserie.

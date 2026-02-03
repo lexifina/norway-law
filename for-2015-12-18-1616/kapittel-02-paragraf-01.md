@@ -1,0 +1,3 @@
+# § 2-1. Systemskildring
+(1) Av systemskildringa som nemnt i kassasystemlova § 3 andre ledd skal det gå fram korleis kassasystemet kan kontrollerast. Dersom kassasystemet oppbevarer dokumentasjon av bokførte opplysningar, og det er nødvendig for å kunne kontrollere bokførte opplysningar på ein enkel måte, skal systemskildringa også dokumentere kontrollsporet, blant anna korleis systemgenererte poster kan etterprøvast.
+(2) Dersom eit kassasystem vert endra ved at det blir tilført nye funksjonar eller det blir gjort endringar som påverkar oppbygginga av systemet, skal det enten utarbeidast eit tillegg til systemskildringa over dei endringane som er gjort eller ei heilt ny systemskildring. Dokumentasjonen skal følgje med kassasystemet.
