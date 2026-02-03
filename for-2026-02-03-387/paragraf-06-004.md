@@ -1,0 +1,2 @@
+# § 6-4. Infrastruktur
+Kandidaten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av doktorgradsarbeidet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring, tas av fakultetet. For kandidater med ekstern finansiering eller arbeidsplass inngås det avtale om tilgang til og finansiering for bruk av nødvendig infrastruktur mellom fakultet og ekstern part i forbindelse med det enkelte prosjekt, jf. § 7-2. Slik avtale skal som hovedregel foreligge på det tidspunkt opptaksvedtaket for den aktuelle kandidaten fattes.

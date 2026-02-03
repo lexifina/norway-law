@@ -1,0 +1,4 @@
+# § 22-3. Klage over avslag på søknad om bedømmelse, ikke godkjent avhandling eller kunstnerisk doktorgradsarbeid, prøveforelesning eller annen prøve over oppgitt emne, eller forsvar
+Avslag på søknad om å få doktorgradsarbeidet bedømt og vedtak om ikke godkjent doktorgradsarbeid, obligatorisk prøve eller forsvar kan påklages etter reglene i forvaltningslovens § 28 flg.
+Grunngitt klage sendes fakultetet. Fakultetet kan oppheve eller endre vedtaket hvis det finner klagen begrunnet. Hvis fakultetet ikke tar klagen til følge, sendes klagen til NTNUs nemnd for studentsaker til avgjørelse.
+Dersom fakultetet eller klageinstansen finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av den foretatte bedømmelse og de kriterier denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.

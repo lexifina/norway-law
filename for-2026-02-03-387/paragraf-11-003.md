@@ -1,0 +1,5 @@
+# § 11-3. Fellesarbeid
+Artikler som er utarbeidet av flere kandidater i felleskap kan inngå som delarbeid i flere doktorgradsavhandlinger forutsatt at den enkelte kandidats bidrag er vesentlig og identifisert. Det skal redegjøres for dette i forbindelse med innlevering av alle avhandlingene som er involvert. Ved artikkelbaserte avhandlinger skal sammenbindingen være et individuelt bidrag. En monografi kan ikke utarbeides i fellesskap med andre.
+For arbeider som er blitt til i samarbeid med flere partnere eller medforfattere, skal kandidaten følge de normer for kreditering av medvirkning som er allment akseptert i fagmiljøet, i samsvar med internasjonale standarder.
+For en vitenskapelig avhandling som hovedsakelig består av artikler, skal kandidaten normalt være hovedbidragsyter på minst to av artiklene.
+Med doktorgradsarbeid hvor det inngår bidrag fra flere, skal det følge en underskrevet erklæring som beskriver kandidatens innsats i hvert enkelt arbeid. Både kandidat og andre bidragsytere skal skrive under.

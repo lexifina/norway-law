@@ -1,0 +1,3 @@
+# § 6-3. Residensplikt
+Kandidater uten ansettelsesforhold ved NTNU må ha et opphold i et godt og relevant fagmiljø ved NTNU på til sammen ett år eller mer av ph.d.-utdanningen. Plan for residensplikt må utarbeides i samråd med institutt, hovedveileder og ekstern arbeidsgiver. I spesielle tilfeller kan kravet om residensplikt reduseres, men den foreslåtte ordningen må ivareta kravene til veiledning og høy kvalitet i fagmiljøet, samt NTNUs ønske om at kandidaten skal bidra til institusjonens faglige utvikling og miljø. Hovedveileder og institutt må støtte søknad om redusert residensplikt. Fakultetet avgjør søknaden.
+For kandidater ansatt ved NTNU gjelder vilkårene i arbeidsavtalen vedrørende arbeidssted.

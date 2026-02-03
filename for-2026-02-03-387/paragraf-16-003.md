@@ -1,0 +1,4 @@
+# § 16-3. Delt innstilling
+Dersom komiteen avgir delt innstilling og fakultetet velger å legge flertallets uttalelser til grunn for sin behandling, fatter fakultetet vedtak i samsvar med flertallets innstilling.
+Dersom komiteen avgir delt innstilling og fakultetet vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan fakultetet søke nærmere avklaring fra komiteen og eventuelt oppnevne to nye sakkyndige som avgir individuelle uttalelser. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallet i den opprinnelige innstillingen, skal denne innstillingen følges.
+Fakultetet fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
