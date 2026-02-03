@@ -1,0 +1,6 @@
+# § 11-1. Prøveforelesninger
+Dersom arbeidet finnes verdig til å forsvares for doktorgraden, skal kandidaten holde to offentlige prøveforelesninger, én over et selvvalgt emne og én over et oppgitt emne. Disputasen skal normalt avholdes innen seks (6) måneder etter at avhandlingen er innlevert til bedømmelse.
+Kandidaten meddeler tittel på prøveforelesning over selvvalgt emne til fakultetet fire (4) uker før disputasen. Emne for prøveforelesning over oppgitt emne bestemmes av bedømmelseskomiteen og kunngjøres for kandidaten ti (10) arbeidsdager før forelesningen. Oppgitt emne skal ikke stå i direkte forbindelse med temaet for avhandlingen eller prøveforelesning over selvvalgt emne. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskaper ut over sitt spesialområde og evnen til å formidle kunnskapene i en forelesningssituasjon eller i annen relevant formidlingsform.
+Prøveforelesningen skal normalt finne sted på det språket avhandlingen er skrevet, med mindre fakultetet godkjenner et annet språk.
+Bedømmelseskomiteen avgjør om prøveforelesningene er bestått eller ikke bestått. Det skal begrunnes dersom prøven vurderes som ikke bestått.
+Prøveforelesningene skal være bestått før disputas kan avholdes.
