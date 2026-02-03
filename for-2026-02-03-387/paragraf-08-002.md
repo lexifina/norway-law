@@ -1,0 +1,8 @@
+# § 8-2. Oppnevning av veiledere
+Fakultetet selv oppnevner veiledere. Ph.d.-kandidaten skal som hovedregel ha minst to veiledere, der én oppnevnes som hovedveileder.
+Hovedveilederen har det faglige hovedansvaret for kandidaten og skal normalt være ansatt ved NTNU. Dersom fakultetet oppnevner ekstern hovedveileder, skal det oppnevnes medveileder som er vitenskapelig eller kunstnerisk ansatt ved NTNU.
+Medveiledere er fagpersoner som gir veiledning og som deler det faglige ansvaret for kandidaten med hovedveileder.
+Alle veiledere skal ha doktorgrad eller tilsvarende kompetanse innenfor fagfeltet og være aktive innen sitt fagfelt. Minst én av de oppnevnte veilederne, normalt hovedveileder, skal ha tidligere erfaring fra ph.d.-veiledning, normalt fram til fullført doktorgrad. Hovedveiledere skal ha gjennomført NTNUs grunnopplæring for doktorgradsveiledning, eller gjennomføre dette ved første anledning.
+Fakultetet kan i tillegg oppnevne en eller flere støtteveiledere som ikke fyller de formelle kompetansekravene til veiledere, men som innehar en konkret kompetanse som er avgjørende for gjennomføringen av prosjektet. Kompetanse og relevans må spesifiseres i søknad om oppnevning.
+Habilitetsreglene i forvaltningslovens andre kapittel «Om ugildhet» (§§ 6-10) gjelder for alle veiledere og oppnevnte støtteveiledere.
+Ph.d.-kandidat og veileder kan be fakultetet om å oppnevne en annen veileder for kandidaten. Hovedveileder kan ikke fratre før ny hovedveileder er oppnevnt. Tvister om veileders og kandidats faglige rettigheter og plikter kan bringes inn av partene til behandling og avgjørelse ved fakultetet.

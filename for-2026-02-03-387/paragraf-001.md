@@ -1,0 +1,2 @@
+# § 1. Forskriftens virkeområde
+Denne forskriften gjelder all utdanning som fører fram til de to gradene philosophiae doctor (ph.d.) og philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid). Forskriften gir regler om opptak til, gjennomføring og avslutning av ph.d.-utdanningen, herunder integrert ph.d., fellesgrader og cotutelle. Forskrift om studier ved NTNU, vedtatt av styret 6. mars 2025, gjelder for eksamener i opplæringsdelen av ph.d.-programmene så langt dette ikke er i strid med ph.d.-forskriften.

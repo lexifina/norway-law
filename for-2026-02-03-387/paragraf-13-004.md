@@ -1,0 +1,2 @@
+# § 13-4. Behandling av søknaden
+Fakultetet behandler søknad om å få den vitenskapelige avhandlingen eller det kunstneriske doktorgradsarbeidet bedømt. Søknad som ikke fyller kravene i § 13-2 eller § 13-3 skal avvises. Fakultetet kan på selvstendig grunnlag avvise søknad om å få doktorgradsarbeidet bedømt dersom det er åpenbart at det ikke holder høy nok kvalitet og vil bli underkjent av en komité.

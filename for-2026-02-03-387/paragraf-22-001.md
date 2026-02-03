@@ -1,0 +1,2 @@
+# § 22-1. Klage over avslag på søknad om opptak, vedtak om avslutning av opptaksperiode og avslag på søknad om godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak, vedtak om avslutning av opptaksperiode og søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i forvaltningslovens § 28 flg. Grunngitt klage sendes fakultetet. Blir vedtaket opprettholdt, sendes klagen til NTNUs nemnd for studentsaker til endelig avgjørelse.
