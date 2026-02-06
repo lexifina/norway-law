@@ -1,0 +1,5 @@
+# § 4-1. Etablering av kundeforhold
+(1) Kundeforhold skal anses etablert når kunden kan bruke den rapporteringspliktiges tjenester, for eksempel ved opprettelse av konto eller utstedelse av betalingskort.
+(2) Statsautoriserte og registrerte revisorer anses for å ha etablert et kundeforhold når de har påtatt seg et oppdrag, herunder rådgivning og andre tjenester, eller sendt revisorerklæring til Foretaksregisteret, jf. foretaksregisterloven § 4-4.
+(3) Statsautoriserte regnskapsførere anses for å ha etablert et kundeforhold når de har inngått skriftlig oppdragsavtale med oppdragsgiver eller oppdrag som forutsetter skriftlig avtale, jf. regnskapsførerloven § 5-2.
+(4) Advokater og andre som ervervsmessig eller stadig yter selvstendig rettshjelp anses for å ha etablert et kundeforhold når de har påtatt seg et oppdrag som nevnt i hvitvaskingsloven § 4 annet ledd bokstav c. Advokater og andre som ervervsmessig eller stadig yter selvstendig rettshjelp anses i alle tilfeller for å ha påtatt seg et oppdrag som nevnt i første punktum når oppdragsbekreftelse er sendt klienten.
