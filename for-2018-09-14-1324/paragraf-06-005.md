@@ -1,0 +1,8 @@
+# § 6-5. Utveksling av opplysninger i konsern
+(1) Informasjon kan uten hinder av taushetsplikt deles mellom konsernselskaper nevnt i hvitvaskingsloven § 31 første ledd, som ledd i tiltak mot hvitvasking og terrorfinansiering når informasjonen gjelder:
+a) felles kunde, eller
+b) kunder som har særlig tilknytning til hverandre, for eksempel tilknytninger som indikerer felles reell rettighetshaver, eller andre forhold som kan tilsi at en transaksjon eller aktivitet gjennomføres på vegne av samme person.
+(2) Informasjon som kan utveksles, omfatter alle relevante opplysninger og dokumenter som er innhentet eller utarbeidet etter hvitvaskingsloven med forskrift, herunder informasjon om kunden, reelle rettighetshavere, konti, transaksjoner mv. Felles kunderegister kan benyttes for å avgjøre om det er adgang til å dele opplysninger etter denne bestemmelsen.
+(3) Informasjonsutvekslingen kan også skje ved etablering av kundeforhold.
+(4) Adgangen til å motta opplysninger fra andre konsernselskap vil ikke endre foretakets eget ansvar for risikoklassifisering, kundetiltak mv. etter hvitvaskingsregelverket.
+(5) Konsernet skal ha en sentralisert funksjon for informasjonsdeling etter denne bestemmelsen, for å håndtere konsernets risiko for hvitvasking og terrorfinansiering. Den sentraliserte funksjonen skal for dette formål få tilgang til alle opplysninger omfattet av bestemmelsen. For filialer og datterselskaper av utenlandske foretak gjelder kravet om sentralisert funksjon den norske delen av virksomheten så lenge hjemstatens hvitvaskingsregelverk ikke stiller krav om etablering av tilsvarende sentralisert funksjon.

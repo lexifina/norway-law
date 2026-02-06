@@ -1,0 +1,2 @@
+# § 6-3. Lagring av opplysninger og dokumenter for advokater mv.
+Rapporteringspliktige som nevnt i hvitvaskingsloven § 4 annet ledd bokstav c, kan lagre opplysninger og dokumenter omfattet av hvitvaskingsloven § 30 så lenge klientforholdet består, også der opplysningene og dokumentene er innhentet i forbindelse med en enkeltstående transaksjon. For øvrig gjelder hvitvaskingslovens regler for behandlingen av opplysningene og dokumentene.

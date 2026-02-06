@@ -1,0 +1,3 @@
+# § 4-13. Delvis avvikling og sperring. Avvikling av grunnleggende tjenester.
+(1) Rapporteringspliktige kan gjennomføre en delvis avvikling av kundeforholdet, ved å begrense eller sperre konkrete produkter og tjenester relatert til de kundetiltak som ikke lar seg gjennomføre. Når kundemidler sperres, anses ikke kundeforholdet å være avsluttet og plikten til å gjennomføre løpende oppfølging etter hvitvaskingsloven § 24 gjelder.
+(2) Avvikling av grunnleggende tjenester for å ivareta finansiell inkludering skal vurderes særskilt. Vurderingen skal dokumenteres og lagres i henhold til hvitvaskingsloven § 30.

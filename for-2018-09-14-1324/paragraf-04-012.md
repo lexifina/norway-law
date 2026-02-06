@@ -1,0 +1,3 @@
+# § 4-12. Bruk av tredjepart for tilbydere av spilltjenester
+(1) Tilbydere som har enerett etter pengespilloven § 10 kan legge hverandres kundetiltak til grunn. Tilbydere av spilltjenester med tillatelse etter pengespilloven § 18 eller § 20 kan legge til grunn kundetiltak utført av tilbydere som har enerett etter pengespilloven § 10.
+(2) Hvis en tilbyder som har enerett etter pengespilloven § 10 tilbyr spill med felles premiepott med utenlandske tilbydere av spilltjenester, kan enerettstilbyderen unnlate å gjennomføre kundetiltak overfor personer som har inngått et kundeforhold eller gjennomført en transaksjon med den utenlandske tilbyderen som oppfyller reglene for tiltak mot hvitvasking og terrorfinansiering i hjemstaten.

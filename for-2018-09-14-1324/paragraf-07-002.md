@@ -1,0 +1,9 @@
+# § 7-2. Inkorporasjon av kommisjonsforordning (EU) 2018/1108 (kriterier for utpeking av sentrale kontaktpunkter for e-pengeutstedere og betalingstjenesteytere og regler for deres funksjoner)
+(1) EØS-avtalen vedlegg IX nr. 23bc forordning (EU) 2018/1108 (om utfylling av europaparlaments- og rådsdirektiv (EU) 2015/849 med tekniske reguleringsstandarder for kriteriene for utpeking av sentrale kontaktpunkter for e-pengeutstedere og betalingstjenesteytere og med regler for deres funksjoner) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) Til utfylling av første ledd gjelder følgende:
+a) Utenlandske betalingsforetak med agentvirksomhet i Norge skal utpeke sentralt kontaktpunkt når minst ett av kriteriene i første ledd artikkel 3 punkt 1 bokstav a til c er oppfylt.
+b) Finanstilsynet kan i særlige tilfeller pålegge utenlandske betalingsforetak å utpeke et sentralt kontaktpunkt nr det er rimelig grunn til å anta at det knytter seg høy risiko for hvitvasking og terrorfinansiering til foretakenes agentvirksomhet.
+c) Det sentrale kontaktpunktet skal, i tillegg til oppgavene angitt i første ledd artikkel 4 og 5, også foreta nærmere undersøkelser, rapportere på vegne av agentene og gi Økokrim opplysninger på vegne av agentene, jf. hvitvaskingsloven § 25 og § 26. Finanstilsynet kan gjøre unntak fra plikten til å foreta nærmere undersøkelser for sentrale kontaktpunkt i tilfeller der dette håndteres tilfredsstillende av det utenlandske betalingsforetaket på annen måte.
+d) Det sentrale kontaktpunktet skal være lokalisert i Norge og ha gode kunnskaper om norsk språk og hvitvaskingsregelverk.
+(3) Finanstilsynet kan pålegge midlertidig stans av virksomhet i Norge inntil sentralt kontaktpunkt er utpekt.
+(4) Finanstilsynet kan ved kontaktpunktets overtredelse av pliktene i annet ledd bokstav c gi kontaktpunktet pålegg om retting og tvangsmulkt etter hvitvaskingsloven § 47.
