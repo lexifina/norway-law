@@ -1,0 +1,4 @@
+# § 4-1. Tilsyn
+Direktoratet for medisinske produkter fører gjentatte tilsyn med at bestemmelsene i denne forskrift overholdes. Tilsynsvirksomheten skal utføres i henhold til et hensiktsmessig kvalitetssystem og i samsvar med Compilation of Union procedures on inspections and exchange of information utgitt av Det europeiske legemiddelbyrå (EMA) på vegne av EU-kommisjonen.
+Direktoratet for medisinske produkter kan i forbindelse med tilsynet kreve å få adgang til alle lokaler omfattet av en tillatelse etter denne forskrift, og kan kreve utlevert de prøver og opplysninger som anses nødvendig for å ivareta tilsynet. Innehaveren av tillatelsen plikter å bidra ved å gi representanten fra Direktoratet for medisinske produkter den nødvendige bistand under tilsynet.
+Direktoratet for medisinske produkter kan, med forbehold av eventuelle avtaler mellom tredjelandet og EØS-EFTA-landene, kreve å føre tilsyn med tilvirker i tredjeland i tråd med denne bestemmelsen.

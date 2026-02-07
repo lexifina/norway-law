@@ -1,0 +1,5 @@
+# § 2-4. Saksbehandling ved Direktoratet for medisinske produkter
+Direktoratet for medisinske produkter skal før tilvirkertillatelse gis, foreta nødvendige undersøkelser for å verifisere opplysningene i søknaden.
+Direktoratet for medisinske produkter skal innen 30 dager etter at søknaden er mottatt, meddele søkeren om søknaden anses å inneholde nødvendig dokumentasjon til at den kan tas under behandling. Innen 90 dager etter at fullstendig søknad er mottatt skal søknaden enten innvilges eller avslag meddeles søker.
+Dersom Direktoratet for medisinske produkter ber søker om å rette opp mangler ved søknaden eller komme med tilleggsopplysninger, suspenderes fristen inntil forholdene er rettet.
+Søknad som gjelder tillatelse til tilvirkning av virksomt stoff skal avgjøres av Direktoratet for medisinske produkter innen 60 dager etter at søknaden er mottatt. Dette gjelder likevel ikke dersom Direktoratet for medisinske produkter innen fristen gir tilbakemelding til søker om at en inspeksjon av virksomheten er nødvendig før utstedelse av tillatelse. Har søker ikke mottatt tilbakemelding innen fristen i første punktum, kan søknaden anses som innvilget.
