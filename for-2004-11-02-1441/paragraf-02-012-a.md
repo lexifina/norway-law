@@ -1,0 +1,2 @@
+# § 2-12a. Kvalifisert person bosatt i Storbritannia
+Er tilvirkertillatelsen utstedt av den kompetente myndigheten i Storbritannia med hensyn til Nord-Irland, kan den kvalifiserte personen være bosatt i og utføre sine oppgaver fra andre deler av Storbritannia enn Nord-Irland. Dette gjelder likevel ikke dersom innehaver av tilvirkertillatelsen 20. april 2022 allerede hadde til rådighet en kvalifisert person bosatt i og som utfører sine oppgaver i EØS-området.
