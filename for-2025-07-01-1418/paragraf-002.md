@@ -1,0 +1,2 @@
+# § 2. Omgjøringsadgang ved ugyldig beslutning om utleggstrekk
+Er det etablert ett utleggstrekk etter nytt regelverk, og en namsmyndighet senere etablerer et parallelt utleggstrekk etter tidligere regelverk, vil den siste beslutningen være ugyldig. Namsmyndigheten som har etablert det parallelle utleggstrekket, har i slike tilfeller myndighet til å omgjøre beslutningen, og kan melde kravet inn i trekket etter innkrevingsloven § 23 andre ledd andre punktum, tvangsfullbyrdelsesloven §§ 2-17 eller 7-20 første ledd. § 1 fjerde ledd andre punktum gjelder tilsvarende.
