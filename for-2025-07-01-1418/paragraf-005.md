@@ -1,0 +1,3 @@
+# § 5. Behandling av overførte utleggstrekk etter utløpet av opprinnelig trekkperiode
+(1) Krav som Innkrevingsmyndigheten, skattekontoret, Statens innkrevingssentral eller Innkrevingssentralen for bidrag og tilbakebetalingskrav har besluttet utleggstrekk for, og som er overført til ny trekkordning etter § 3, skal delta i utleggstrekket selv om opprinnelig trekkperiode utløper. Kravets størrelse ved utløpet av trekkperioden legges til grunn for fordeling etter dekningsloven § 2-8 tredje ledd.
+(2) Krav som alminnelig namsmann har besluttet utleggstrekk for, og som er overført til ny trekkordning etter § 3, skal tas ut av utleggstrekket ved utløpet av opprinnelig trekkperiode, men likevel senest to år etter 1. januar 2027.

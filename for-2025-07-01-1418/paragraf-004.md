@@ -1,0 +1,2 @@
+# § 4. Prioritet for krav i løpende utleggstrekk besluttet etter tidligere regelverk
+Krav i løpende utleggstrekk som er overført til ny trekkordning etter § 3, skal ved fordelingen av trekkbeløpet opprettholde tidsprioriteten etter tidligere dekningslov § 2-8 tredje ledd som en fortrinnsrett til dekning. Dette gjelder ut den opprinnelige trekkperioden for utleggstrekket, men likevel ikke lengre enn to år fra beslutningen om utleggstrekket.
