@@ -1,0 +1,3 @@
+# § 7-4. Optikeres rett til rekvirering
+Optikere med autorisasjon eller lisens, som har gjennomført relevant utdanning og kan dokumentere opplæring i bruk av diagnostiske legemidler, kan til bruk i praksis rekvirere okulære legemidler til diagnostisk bruk på personer over fem år, samt lokalbedøvende legemidler og adrenalin. Helsedirektoratet fastsetter hvilke legemidler som omfattes av denne bestemmelsen.
+Bestemmelsene i § 4-1 krav om tydelighet, datering og signering, § 4-2 første ledd og § 4-3 om skriftlig og muntlig rekvirering, § 4-4 første ledd om gyldighetstid, § 5-1 grunnkrav og § 5-7 om opplysninger om rekvirent, virksomhet og legemiddel på rekvisisjon gjelder tilsvarende.

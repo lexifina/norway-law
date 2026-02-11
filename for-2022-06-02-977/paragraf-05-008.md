@@ -1,0 +1,8 @@
+# § 5-8. Særregler for resept for legemidler i reseptgruppe A og B
+Ved rekvirering av legemidler i reseptgruppe A og B gjelder følgende unntak og særregler:
+a) Maksimal mengde er tilsvarende terapeutisk dose i tre måneder.
+b) Resept på legemiddel til mennesker kan kun reitereres ved rekvirering for folketrygdens regning via Reseptformidleren, eller for helseforetakets regning.
+c) Ved rekvirering av legemidler til mennesker på annen måte enn via Reseptformidleren kan bare minste standardpakning eller en mengde tilsvarende vanlig terapeutisk dose i tre døgn rekvireres. Dette gjelder ikke ved elektronisk kommunikasjon av resepter på legemiddel i reseptgruppe A og B til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene der det finnes andre elektroniske rekvireringsløsninger, og ved rekvirering til multidose utenfor Reseptformidleren hvor resepten er merket med «utlevering kun til multidose». Inntil det er etablert elektroniske løsninger for kommunikasjon av resepter på legemidler i reseptgruppene A og B til inneliggende pasienter i kommunale helsevirksomheter og i spesialisthelsetjenesten, kan det benyttes papirresepter for rekvirering av magistrelle legemidler på en mengde tilsvarende ett års forbruk.
+d) Elektronisk kommunikasjon av resepten kan bare skje via Reseptformidleren. Elektronisk kommunikasjon av resepter på legemiddel i reseptgruppe A og B til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene kan skje via annet rekvireringssystem enn Reseptformidleren.
+e) Resept på legemiddel i reseptgruppe B til behandling av kroniske tilstander hos dyr kan reitereres maksimalt 3 ganger.
+f) Resept på legemiddel i reseptgruppe A til behandling av dyr kan ikke reitereres.

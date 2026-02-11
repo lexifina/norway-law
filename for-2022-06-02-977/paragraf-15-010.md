@@ -1,0 +1,2 @@
+# § 15-10. Legemidler uten markedsføringstillatelse (godkjenningsfritak)
+Legemidler uten markedsføringstillatelse som utleveres etter søknad om unntak fra krav om markedsføringstillatelse jf. forskrift om legemidler § 2-5 og forskrift om legemidler til dyr kapittel 4, skal være merket med følgende tekst: «Preparat på godkjenningsfritak. Dette preparat er ikke alminnelig tilgjengelig i Norge. (Skaffes etter spesiell søknad.)»
