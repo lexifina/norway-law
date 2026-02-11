@@ -1,0 +1,3 @@
+# § 17. Endring, suspensjon eller tilbakekall
+Luftfartstilsynet kan endre vilkårene knyttet til sertifikater som det har utstedt i medhold av artikkel 7 nr. 3 og 4 i tjenesteytingsforordningen dersom det foreligger tungtveiende grunner. Videre kan Luftfartstilsynet suspendere eller tilbakekalle et sertifikat dersom vilkårene for å ha sertifikatet ikke lenger er til stede.
+Samferdselsdepartementet kan endre rettigheter, plikter og pålegg knyttet til utpeking og godkjenning gitt i medhold av § 6 dersom det foreligger tungtveiende grunner. Videre kan departementet suspendere eller tilbakekalle slik utpeking dersom forutsetningene som lå til grunn for den opprinnelige beslutningen, ikke lenger er til stede.

@@ -1,0 +1,5 @@
+# § 8. Norges deltakelse i North European Functional Airspace Block – NEFAB
+I NEFAB-rådet deltar en representant fra Samferdselsdepartementet og en representant fra Forsvarsdepartementet som henholdsvis sivil og militær representant fra Norge.
+Samferdselsdepartementet er nasjonalt kontaktpunkt for arbeidet i NEFAB-rådet. Samferdselsdepartementet plikter å dele alle saksdokumenter med Forsvarsdepartementet med mindre dette fremstår som klart unødvendig. Andre gis tilgang til dokumentene i den grad det er tillatt og nødvendig.
+Før møtene i NEFAB-rådet plikter Samferdselsdepartementet å avholde forberedende møter, der Forsvarsdepartementet og andre berørte parter han anledning til å være til stede og legge frem sitt syn på sakene.
+Luftfartstilsynet er kompetent til å representere Norge i komiteer som nevnt i NEFAB-avtalen artikkel 9.2 bokstav m) og artikkel 10. Ved utøvelsen av denne oppgaven kan Luftfartstilsynet binde Norge dersom det følger av den interne rollefordelingen at Luftfartstilsynet er kompetent til å gi regler på det aktuelle området, og det følger av NEFAB-avtalen at de nasjonale tilsynsmyndighetene er ment å fatte bindende beslutninger.
