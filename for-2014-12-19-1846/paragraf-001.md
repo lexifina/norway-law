@@ -1,0 +1,16 @@
+# § 1. Gjennomføring av EØS-rettsakter som etablerer og gjennomfører Det felles europeiske luftrom
+Følgende bestemmelser i EØS-avtalen vedlegg XIII kap. VI gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig:
+1) Nr. 66t (forordning (EF) nr. 549/2004 av 10. mars 2004 om et rammeverk for etableringen av et felles europeisk luftrom som endret ved forordning (EF) nr. 1070/2009 («rammeforordningen»)).
+2) Nr. 66u (forordning (EF) nr. 550/2004 av 10. mars 2004 om yting av flysikringstjenester i Det felles europeiske luftrom som endret ved forordning (EF) nr. 1070/2009 («tjenesteytingsforordningen»)).
+3) Nr. 66v (forordning (EF) nr. 551/2004 av 10. mars 2004 om organiseringen og bruken av Det felles europeiske luftrom som endret ved forordning (EF) nr. 1070/2009 («luftromsforordningen»)).
+4) – – –
+5) – – –
+6) Nr. 66xj (kommisjonens gjennomføringsforordning (EU) 2019/123 av 24. januar 2019 om fastsettelse av nærmere regler for gjennomføring av nettverksfunksjoner for lufttrafikkstyring (ATM) og om oppheving av kommisjonsforordning (EU) nr. 677/2011 («nettverksforordningen»)).
+7) Nr. 66ua (forordning (EU) nr. 176/2011 av 24. februar 2011 om opplysninger som skal framlegges før en funksjonell luftromsblokk opprettes eller endres («informasjonsforordningen»)).
+8) Nr. 66ub (forordning (EU) nr. 409/2013 av 3. mai 2013 om definisjon av felles prosjekter, fastsettelse av en styringsordning og identifisering av stimuleringstiltak som støtter gjennomføringen av den europeiske hovedplanen for lufttrafikkstyring («fellesprosjektforordningen»), som endret ved kommisjonens gjennomføringsforordning (EU) 2021/116).
+9) Nr. 66uc (kommisjonens gjennomføringsforordning (EU) 2021/116 av 1. februar 2021 om opprettelse av første fellesprosjekt til støtte for gjennomføringen av den europeiske hovedplanen for lufttrafikkstyring fastsatt i europaparlaments- og rådsforordning (EF) nr. 550/2004, om endring av Kommisjonens gjennomføringsforordning (EU) nr. 409/2013 og om oppheving av Kommisjonens gjennomføringsforordning (EU) nr. 716/2014).
+10) Nr. 66xl (kommisjonens gjennomføringsforordning (EU) 2020/1627 av 3. november 2020 om ekstraordinære tiltak for tredje referanseperiode (2020-2024) for ytelses- og avgiftsordningen i Det felles europeisk luftrom som følge av covid-19-pandemien).
+11) Nr. 66xk kommisjonens gjennomføringsforordning (EU) 2019/317 av 11. februar 2019 om fastsettelse av en ytelsesstyrings- og avgiftsordning for flysikringstjenester og nettfunksjoner («ytelsesstyrings- og avgiftsforordningen»), som endret ved forordning (EU) 2024/3128.
+12) Nr. 66xi (kommisjonens gjennomføringsbeslutning (EU) 2021/891 av 2. juni 2021 om fastsettelse av reviderte unionsdekkende ytelsesmål for lufttrafikkstyringsnettet for tredje referanseperiode (2020-2024) og om oppheving av gjennomføringsbeslutning (EU) 2019/903).
+13) Nr. 66xm (kommisjonens gjennomføringsbeslutning (EU) 2023/2481 av 10. november 2023 om fastsettelse av veiledende intervaller for de unionsdekkende ytelsesmålene for lufttrafikkstyringsnettet for fjerde referanseperiode (2025 til 2029)).
+14) Nr. 66xka (kommisjonens gjennomføringsbeslutning (EU) 2024/1688 av 12. juni 2024 om fastsettelse av unionsdekkende ytelsesmål for lufttrafikkstyringsnettet for fjerde referanseperiode fra 1. januar 2025 til 31. desember 2029).
