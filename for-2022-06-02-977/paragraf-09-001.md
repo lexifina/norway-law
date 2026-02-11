@@ -1,0 +1,4 @@
+# § 9-1. Farmasøytkontroll
+Apotekets farmasøytiske personale skal godkjenne resept og rekvisisjon for ekspedisjon, foreta en faglig vurdering av rekvireringen og godkjenne apotekets dokumentasjon for ekspedisjonen. Ved reseptekspedisjon skal personalet vurdere særskilt veiledningsbehov og sørge for at dette blir gitt. Farmasøytkontrollen omfatter også kontroll av klargjort legemiddel med mindre hensynet til sikker ekspedisjon kan dokumenteres ivaretatt på annen måte. Farmasøytkontroll av rekvisisjoner kan ivaretas av validerte elektroniske systemer dersom det anses forsvarlig. Slik vurdering må dokumenteres.
+Apotekets farmasøytiske personale skal skaffe de opplysninger som er nødvendige for å sikre sikker ekspedering og korrekt bruk av legemidlet.
+Direktoratet for medisinske produkter kan gi nærmere retningslinjer vedrørende farmasøytkontrollen.

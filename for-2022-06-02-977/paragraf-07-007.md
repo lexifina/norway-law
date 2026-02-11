@@ -1,0 +1,3 @@
+# § 7-7. Fartøysjef og flygesjef i flyselskap rett til rekvirering
+Fartøysjef og flygesjef i ervervsmessig luftfartsforetak (flyselskap) kan rekvirere legemidler som skal være ombord i luftfartøy i henhold til luftfartsforetakets bestemmelser jf. luftfartsloven § 6-2 og forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner.
+Bestemmelsene i § 4-1 krav om tydelighet, datering og signering, § 4-2 første ledd og § 4-3 om skriftlig og muntlig rekvirering, § 4-4 første ledd om gyldighetstid, § 5-1 grunnkrav og § 5-7 om opplysninger om rekvirent, virksomhet og legemiddel på rekvisisjon gjelder tilsvarende.

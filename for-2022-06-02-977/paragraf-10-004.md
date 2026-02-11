@@ -1,0 +1,3 @@
+# § 10-4. Legemidler med særlige krav til utlevering og/eller rekvirering
+Ved utlevering må apoteket forsikre seg om at utleveringen ikke er i strid med forskrift om hvilke reseptpliktige legemidler som skal ha en begrenset utlevering, jf. legemiddelforskriften § 7-4 første ledd og forskrift om legemidler til dyr § 6-3.
+Ved utlevering av legemiddel rekvirert etter legemiddelforskriften § 2-5, må apoteket forsikre seg om at vilkårene for slik rekvirering er oppfylt og at det er gitt medisinsk begrunnelse for rekvireringen, herunder hvorfor legemidler som har markedsføringstillatelse i Norge ikke kan benyttes.
