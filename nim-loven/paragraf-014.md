@@ -1,0 +1,3 @@
+# § 14. Sikkerhetslovens anvendelse
+For institusjonens styre og personale gjelder bestemmelsene om behandling av sikkerhetsgradert informasjon og personellsikkerhet i sikkerhetsloven med forskrifter samt beskyttelsesinstruksen. Stortingets administrasjon er klareringsmyndighet. Stortingets presidentskap er klagemyndighet for avgjørelser truffet av Stortingets administrasjon.
+Hvis institusjonen er i tvil om graderingen av en opplysning i en melding, eller mener at av- eller nedgradering bør skje, forelegger institusjonen spørsmålet for den offentlige myndighet som har utstedt informasjonen. Avgjørelsen fra vedkommende myndighet er bindende for institusjonen.
