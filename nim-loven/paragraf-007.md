@@ -1,0 +1,6 @@
+# § 7. Direktøren
+Norges institusjon for menneskerettigheters daglige virksomhet ledes av en direktør.
+Direktøren ansettes for en periode på seks år av institusjonens styre etter ekstern kunngjøring. Etter ny kunngjøring kan vedkommende ansettes for ytterligere en periode på seks år. Styret fastsetter direktørens lønn, pensjon og øvrige arbeidsvilkår etter de avtaler og bestemmelser som gjelder for arbeidstakere i statlig stilling.
+Direktøren skal tilfredsstille høye krav til faglige kvalifikasjoner og personlig egnethet, herunder inneha juridisk kompetanse eller annen kompetanse om menneskerettigheter, og bør ha erfaring fra menneskerettighetsarbeid.
+Styret kan bare si opp direktøren som følge av at denne har gjort seg skyldig i grovt pliktbrudd eller annet vesentlig mislighold av arbeidsavtalen som ikke er forenlig med den tillit stillingen som direktør for institusjonen krever. Statsansattelovens saksbehandlingsregler gjelder, så langt de passer.
+Direktøren har ansvaret for den daglige administrative, personalmessige og faglige ledelse av institusjonen og for institusjonens interne organisering innenfor de rammer som styret fastsetter. Direktøren er sekretær for styret, forbereder og gir sin anbefaling i saker som legges frem for styret, og er ansvarlig for å iverksette styrevedtak. Direktøren deltar i styremøtene, men har ikke stemmerett.
