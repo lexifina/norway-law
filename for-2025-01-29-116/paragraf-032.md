@@ -1,0 +1,3 @@
+# § 32. Tillatte avvik for deklarerte verdier
+Det deklarerte innholdet i en gjødselvare eller dets fysisk-kjemiske egenskaper må bare avvike fra den faktiske verdien i samsvar med de tillatte toleransene fastsatt i denne bestemmelsen. Tillatt toleranse for det deklarert pH-verdi er ± 1 pH-enheter. For andre stoffer og verdier er toleransen avvik på ± 20 prosent fra de deklarerte verdiene. Et produkt kan likevel ikke deklareres i en tungmetallklasse dersom de målte verdiene overskrider grenseverdiene for tungmetallklassen.
+Dersom innholdet oppgis i et intervall, skal analyseverdien være innenfor intervallet.

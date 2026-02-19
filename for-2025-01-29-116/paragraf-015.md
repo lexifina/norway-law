@@ -1,0 +1,5 @@
+# § 15. Råvarer til bruk i gjødselvarer
+Bare de råvarene som er angitt i vedlegg 1 kan brukes ved produksjon av gjødselvarer. Til produksjon av biokull og aske kan det bare brukes råvarer i gruppe 1 i vedlegg 1. Mattilsynet kan etter søknad gi tillatelse til bruk av andre råvarer.
+Tillatelse til bruk av andre råvarer enn de som følger av første ledd kan bare gis dersom råvaren har en dokumenterbar nyttevirkning for produktet eller produksjonsprosessen den skal brukes i, og ikke medfører fare for helse eller miljø. Det kan stilles vilkår for tillatelsen. Tillatelsen kan trekkes tilbake dersom det foreligger nye opplysninger, endringer i kunnskapsgrunnlaget eller andre forhold som tilsier at vilkårene for tillatelsen ikke lenger er oppfylt.
+Råvarene det gis tillatelse til etter andre ledd skal ikke forutsette bestemte bruksbetingelser for det ferdige produktet for at bruken skal vurderes som akseptabel for helse og miljø. Det skal heller ikke være nødvendig å sette mengdebegrensning på andelen av råvaren i det ferdige produkt for at bruken skal være akseptabel for helse og miljø.
+Mattilsynet kan fastsette endringer i vedlegg 1.
