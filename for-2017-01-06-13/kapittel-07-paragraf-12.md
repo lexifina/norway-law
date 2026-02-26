@@ -1,0 +1,3 @@
+# § 7-12. Rangering av søkjarar som ikkje kan poengbereknast
+(1) Kvalifiserte søkjarar som ikkje kan poengbereknast, må rangerast i høve til poengberekna søkjarar ved hjelp av ei individuell skjønnsmessig vurdering. For å få tilbod om opptak må søkjaren ha likeverdige ferdigheiter og kunnskapar med søkjarar som får tilbod om opptak etter rangering på grunnlag av poengberekning.
+(2) I vurderinga skal det takast omsyn til om søkjaren har eit opptaksgrunnlag og ein fagsamansetnad som er likeverdig med det som gir grunnlag for tilleggspoeng for realfag/framandspråk for søkjarar som kan poengbereknast og andre poeng etter dette kapittelet.

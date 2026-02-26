@@ -1,0 +1,2 @@
+# § 4-8. Spesielle opptakskrav til engelskspråklege utdanningsprogram
+For bachelorprogram og integrerte masterprogam som i sin heilskap har engelsk som undervisningsspråk, kan lærestadane sjølve fastsetje krav om at søkjarar må dokumentere minimum karakteren 4,0 i fellesfaget engelsk (140 timar). Kravet gjeld ikkje for søkjarar som kan dokumentere bestått programfag i engelsk med eit omfang på minst 140 timar eller tilsvarande.

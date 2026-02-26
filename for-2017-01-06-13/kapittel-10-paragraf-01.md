@@ -1,0 +1,4 @@
+# § 10-1. Behandling av personopplysningar i det samordna opptaket
+Institusjonane og den nasjonale opptakstenesta kan innhente opplysningar om namn, fødselsnummer eller d-nummer, arbeidserfaring og vitnemål og annan dokumentasjon på oppnådd kompetanse frå andre offentlege myndigheiter, offentlege system for vitnemål, statlege, fylkeskommunale og private utdanningsinstitusjonar, når formålet er å behandle søknad om opptak til utdanning ved universitet og høgskolar som deltek i det samordna opptaket etter universitets- og høgskolelova § 8-5.
+Institusjonane og den nasjonale opptakstenesta kan ta avgjerder etter heilt eller delvis automatisert saksbehandling. Søkjaren kan krevje at vedtaket skal overprøvast manuelt.
+Direktoratet for høgare utdanning og kompetanse er behandlingsansvarleg for den nasjonale opptakstenesta.
