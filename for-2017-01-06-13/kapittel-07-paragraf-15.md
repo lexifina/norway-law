@@ -1,0 +1,2 @@
+# § 7-15. Rangering ved opptak til spesielt tilrettelagd ingeniørutdanning
+Ved opptak til spesielt tilrettelagd ingeniørutdanning, jf. § 3-3, skal søkjarar med karakteren mykje godt på fag-/sveineprøven rangerast framfor søkjarar med karakteren godt når søkjarane elles har den same poengsummen. Har søkjarane framleis like mange poeng, skal dei rangerast etter alder, og eldre søkjarar går framom yngre søkjarar.

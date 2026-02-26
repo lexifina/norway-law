@@ -1,0 +1,6 @@
+# § 7-13. Rangering på grunnlag av særskild vurdering
+(1) Grunnlag for opptak etter særskild vurdering kan vere at eit anna morsmål enn norsk, sjukdom, funksjonshemming eller andre spesielle forhold gir grunn til å tru at karakterpoengsummen etter føresegnene i § 7-5 til § 7-7 ikkje gir eit rett bilete av kvalifikasjonane til søkjaren.
+(2) Søkjarar som ønskjer å bli vurderte etter denne føresegna, må be om det i søknaden og leggje ved særskild grunngiving og dokumentasjon på dei forholda dei nemner.
+(3) Forhold som dei som er nemnde ovanfor, gir ikkje i seg sjølve rett til studieplass. For å få tilbod om opptak må søkjaren ha likeverdige ferdigheiter og kunnskapar med søkjarar som får tilbod om opptak etter § 7-1 til § 7-12 og § 7-14. Søkjaren må sannsynleggjere at dei særskilde forholda har hatt innverknad på resultata frå vidaregåande opplæring. Utdanning og andre forhold utover vidaregåande opplæring skal ikkje leggast vekt på.
+(4) For studium med opptaksprøve gjeld denne føresegna når tilbod om opptaksprøve eller endeleg rangering heilt eller delvis byggjer på poengberekning etter § 7-1 til § 7-12.
+(5) Søkjarar som ikkje får tilbod om opptak etter desse reglane, skal rangerast etter reglane i høvesvis § 7-1 til § 7-12 og § 7-14.

@@ -1,0 +1,5 @@
+# § 7-8. Tilleggspoeng for realfag og framandspråk frå vidaregåande opplæring
+(1) Det kan totalt givast inntil 4 tilleggspoeng for programfag frå programområde for realfag og programfag innanfor «framandspråk» frå vidaregåande opplæring i Kunnskapsløftet. Faga må vere bestått. Det skal ikkje givast utteljing for fag som overlappar kvarandre.
+(2) Alle programfag frå programområde for realfag og programfag innanfor «framandspråk» med eit omfang på 140 timar gir 0,5 tilleggspoeng, bortsett frå faga matematikk R2, fysikk 2 og «framandspråk» III, som gir 1,0 tilleggspoeng.
+(3) Søkjarar med studieførebuande Vg3 i utdanningsprogram for naturbruk får 0,5 tilleggspoeng.
+(4) Søkjarar med vitnemål frå anna noverande eller tidlegare norsk eller nordisk vidaregåande opplæring som er eller har vore offentleg godkjend, eller med opptaksgrunnlag frå utlandet elles, kan få inntil 4 tilleggspoeng når det i utdanninga inngår fagkombinasjonar som må reknast som likeverdige med dei realfaga og framandspråka som etter andre ledd gir rett til tilleggspoeng.

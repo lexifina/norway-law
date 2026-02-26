@@ -1,0 +1,4 @@
+# § 3-1. Realkompetanse
+(1) Søkjarar som er 25 år eller eldre i opptaksåret, og som ikkje har generell studiekompetanse, har krav på å få vurdert om dei er kvalifiserte for eit bestemt studium på grunnlag av realkompetanse. Denne føresegna gjeld ikkje for søkjarar som er kvalifiserte for opptak til dette bestemte studiet etter andre føresegner, jf. § 3-2 til § 3-12.
+(2) Realkompetanse er kunnskapar søkjaren har fått gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid, utdanning eller på annan måte.
+(3) Utdanningsinstitusjonen må vurdere kvalifikasjonane ut frå det faget søkjaren ønskjer å studere og finne fram til eigna og tenlege framgangsmåtar for slike vurderingar. Søkjaren må ha nødvendige faglege føresetnader for å gjennomføre det aktuelle studiet utan å ha generell studiekompetanse.

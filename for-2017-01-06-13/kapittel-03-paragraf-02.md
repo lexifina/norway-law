@@ -1,0 +1,3 @@
+# § 3-2. Dispensasjon
+(1) Institusjonane kan i særskilde tilfelle gjere unntak frå kravet om generell studiekompetanse. Vilkåret for slik dispensasjon er at søkjaren kan dokumentere at det på grunn av varig sjukdom, funksjonshemming eller liknande har vore umogleg å oppfylle nokre av dei krava ein normalt må oppfylle for å bli tilkjend generell studiekompetanse.
+(2) Utdanningsinstitusjonen må vurdere kvalifikasjonane ut frå det faget søkjaren ønskjer å studere, og finne fram til eigna og tenlege framgangsmåtar for slike vurderingar. Søkjaren må ha nødvendige faglege føresetnader for å gjennomføre det aktuelle studiet utan å ha generell studiekompetanse.

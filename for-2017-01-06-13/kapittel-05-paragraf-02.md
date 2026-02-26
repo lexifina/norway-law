@@ -1,0 +1,2 @@
+# § 5-2. Opptak på visse vilkår for utanlandske søkjarar
+Utanlandske søkjarar til årskurs i norsk som kan dokumentere at dei fyller krava for opptak til påfølgjande, ordinære studium, kan få tilbod om studieplass på påfølgjande studium på same institusjon etter visse vilkår. Opptaket til ordinære studium følgjande studieår, blir gitt på vilkår av at søkjaren fullfører og består årskurs i norsk. Søkjarar som ikkje består årskurs i norsk mister tilbod om studieplass.
