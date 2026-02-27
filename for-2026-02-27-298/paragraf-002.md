@@ -1,0 +1,2 @@
+# § 2
+Forskriften trer i kraft straks. Samtidig oppheves forskrifter 15. mars 1974 nr. 5 om adgang til anke til Trygderetten for medlemmer av kommunale pensjonsordninger i Kommunal Landspensjonskasse, forskrifter 6. juni 1975 nr. 9551 om ankeadgang til Trygderetten for medlemmer av Kommunal Landspensjonskasse, forskrifter 4. mars 1977 nr. 1 om anke til Trygderetten for medlemmer av kommunale og fylkeskommunale pensjonsordninger og forskrift 30. juni 2006 nr. 744 om at Arbeids- og velferdsdirektoratet skal være ankemotpart i Trygderetten i visse saker.
