@@ -1,0 +1,4 @@
+# § 6. Samarbeidsplikt
+Det er et vilkår for hel eller delvis lempning etter konkurranseloven § 30 og § 31 at foretaket av eget tiltak samarbeider fullt ut under hele Konkurransetilsynets saksbehandling.
+Foretaket skal fremlegge alle bevis og annen relevant informasjon foretaket besitter til enhver tid, besvare alle henvendelser fra Konkurransetilsynet og sørge for at nåværende og, så langt det er mulig, tidligere ansatte er tilgjengelige for å forklare seg.
+Handlinger som vanskeliggjør Konkurransetilsynets etterforskning, som å tilintetgjøre bevis, gi uriktige opplysninger og avsløre eksistensen av eller innholdet i søknaden om lempning, vil kunne frata foretaket rett til lempning. Dette gjelder også fra det tidspunkt foretaket vurderer å søke lempning, men før søknad er sendt Konkurransetilsynet.
