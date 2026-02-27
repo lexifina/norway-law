@@ -1,0 +1,5 @@
+# § 4. Lempningssøknaden
+En søknad om lempning etter konkurranseloven § 30 og § 31 rettes skriftlig eller muntlig til Konkurransetilsynet. Bevis skal fremlegges som beskrevet i konkurranseloven § 30 første ledd bokstav a første punktum og andre ledd.
+I en lempningssøknad skal søker gi tilgjengelig informasjon om identiteten til foretakene som har deltatt i overtredelsen, og en konkret beskrivelse av overtredelsens art, overtredelsens varighet, hvilke produkter overtredelsen har omfattet, overtredelsens geografiske omfang, og om foretaket har hatt kontakt med andre konkurransemyndigheter om overtredelsen.
+Lempningssøknader etter konkurranseloven § 30 andre ledd bokstav c på andre språk enn norsk, svensk, dansk og engelsk gir en prioritert rett til lempning dersom Konkurransetilsynet mottar en oversettelse innen en frist Konkurransetilsynet fastsetter.
+Konkurransetilsynet skal bekrefte skriftlig med dato og klokkeslett når lempningssøknaden er mottatt. Bekreftelsen skal identifisere fremlagte bevis.
