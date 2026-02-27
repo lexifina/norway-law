@@ -1,0 +1,45 @@
+# § 7. Områder for bunntrål i fisket etter uer
+Med de begrensninger som følger av forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer, er fiske med bunntrål etter uer i tiden før 1. mars bare tillatt innenfor følgende område:
+I Norges økonomiske sone nord for N 65° 20′, og nord og vest for rette linjer trukket mellom følgende posisjoner:
+1) Fra yttergrensen av Norges økonomiske sone på Ø 017° 30,00′, og videre til
+2) N 72° 00,00′ Ø 017° 30,00′
+3) N 72° 00,00′ Ø 014° 40,00′
+4) N 71° 45,00′ Ø 014° 45,00′
+5) N 71° 00,00′ Ø 016° 48,00′
+6) N 70° 27,81′ Ø 016° 53,00′
+7) N 68° 00,00′ Ø 009° 24,00′
+8) N 67° 10,00′ Ø 008° 35,00′
+9) N 67° 00,00′ Ø 008° 18,00′
+10) N 66° 50,00′ Ø 008° 09,00′
+11) N 66° 30,00′ Ø 006° 59,00′
+12) N 66° 21,00′ Ø 006° 44,00′
+13) N 65° 43,00′ Ø 006° 00,00′
+14) N 65° 20,00′ Ø 006° 00,00′
+15) Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+Med de begrensninger som følger av forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer, er fiske med bunntrål etter uer i tiden fra og med 10. mai bare tillatt innenfor følgende område:
+I Norges økonomiske sone nord for N 65° 20′, og nord og vest for rette linjer trukket mellom følgende posisjoner:
+1) Fra yttergrensen av Norges økonomiske sone på Ø 024° 00,00′, og videre til
+2) N 73° 00,00′ Ø 023° 00,00′
+3) N 73° 00,00′ Ø 017° 30,00′
+4) N 72° 00,00′ Ø 017° 30,00′
+5) N 72° 00,00′ Ø 014° 40,00′
+6) N 71° 45,00′ Ø 014° 45,00′
+7) N 71° 00,00′ Ø 016° 48,00′
+8) N 70° 27,81′ Ø 016° 53,00′
+9) N 68° 00,00′ Ø 009° 24,00′
+10) N 67° 10,00′ Ø 008° 35,00′
+11) N 67° 00,00′ Ø 008° 18,00′
+12) N 66° 50,00′ Ø 008° 09,00′
+13) N 66° 30,00′ Ø 006° 59,00′
+14) N 66° 21,00′ Ø 006° 44,00′
+15) N 65° 43,00′ Ø 006° 00,00′
+16) N 65° 20,00′ Ø 006° 00,00′
+17) Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
+Uavhengig av annet ledd, og med de begrensninger som følger av forskrift 1. juli 2011 nr. 755 om regulering av fiske for å beskytte sårbare marine økosystemer, er fiske med bunntrål etter uer tillatt fra og med 1. juli innenfor følgende område avgrenset av rette linjer mellom følgende posisjoner:
+1) N 72° 00,00′ Ø 017° 30,00′
+2) N 72° 00,00′ Ø 014° 40,00′
+3) N 71° 45,00′ Ø 014° 45,00′
+4) N 71° 00,00′ Ø 016° 48,00′
+5) N 70° 27,81′ Ø 016° 53,00′
+6) N 70° 40,00′ Ø 017° 30,00′
+7) N 72° 00,00′ Ø 017° 30,00′.
