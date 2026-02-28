@@ -1,0 +1,3 @@
+# § 5. Tilskuddsramme, saksbehandling m.m.
+Tilskuddsrammen fordeles med et likt kronebeløp på de kommuner i Finnmark som har inngått bygdevekstavtaler med staten, men tildeles samlet per pilot, til hhv. Berlevåg (for kommunene Berlevåg, Båtsfjord, Nesseby og Tana i Vestre Varanger), Nordkapp (for kommunene Nordkapp, Porsanger, Lebesby og Gamvik i Midt-Finnmark) og Hammerfest (for kommunene Hammerfest, Hasvik og Måsøy i Hjerteregionen).
+Enkeltpersoner skal søke via Husbankens søknadsløsning for startlån. Kommunene skal registrere og saksbehandle søknader fra enkeltpersoner i Husbankens saksbehandlingsverktøy Startskudd. Kommunen kan be om andre opplysninger og dokumentasjon som er nødvendig for å avgjøre søknaden.

@@ -1,0 +1,2 @@
+# § 7. Utbetaling av tilskuddet
+Ved tilskudd til kjøp til enkeltpersoner, utbetaler kommunen til oppgjørsansvarlig eiendomsmegler, advokat eller bank før overtakelse av boligen. Ved oppføring, utbedring eller tilpasning utbetales tilskuddet når det er dokumentert at arbeidene eller oppføringen er utført og betalt. Kommunen skal kreve at det tinglyses en heftelse på eiendommen som sikkerhet for et potensielt tilbakekrav av tilskuddet.
