@@ -1,0 +1,3 @@
+# § 22. Driftsgodkjenning av EETS-utstedere som AutoPASS-utstedere
+Statens vegvesen skal godkjenne EETS-utstedere for drift som AutoPASS-utsteder i Norge når EETS-utstederen krever dette. EETS-utstedere skal bestå tekniske tester hos alle relevante operatører i AutoPASS Samvirke som en forutsetning for å få driftsgodkjenning. Statens vegvesens avgjørelse er et enkeltvedtak som kan påklages etter forvaltningslovens bestemmelser.
+Dersom EETS-utstedere som er driftsgodkjent etter første ledd mister sin godkjenning som EETS-utsteder i sitt hjemland, må selskapet godkjennes etter § 21 for fortsatt å kunne drive utstedervirksomhet i Norge.

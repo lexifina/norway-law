@@ -1,0 +1,3 @@
+# § 9. Lokale avtaler
+AutoPASS-utstederen må stille sitt utstyr til rådighet for at operatøren skal kunne identifisere lokale avtaler. Med lokale avtaler menes det avtaler med trafikanter om forskudd, rabatter og fritak som tilbys av den enkelte operatør i henhold til de gjeldende takstvedtakene. Operatøren er ansvarlig for administrasjon og innkreving av betaling for passeringer som omfattes av lokale avtaler.
+Operatørene skal ikke forskjellsbehandle AutoPASS-utstedere ved formidling av lokale avtaler. Departementet kan fastsette satser for operatørens bruk av AutoPASS-utstederens utstyr etter første ledd.

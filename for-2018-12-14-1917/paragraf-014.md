@@ -1,0 +1,3 @@
+# § 14. Forsøkssystem
+For å sikre teknologisk utvikling kan Statens vegvesen gi midlertidig godkjenning til forsøkssystemer for innkreving av bompenger og ferjebilletter. Forsøkssystemet skal omfatte ny teknologi eller nye konsept som ikke er i samsvar med en eller flere av bestemmelsene i denne forskriften. Forsøkssystemet skal prøves ut på avgrensede deler av operatørens anlegg og parallelt med det systemet som samsvarer med denne forskriften.
+Statens vegvesen kan ikke gi godkjenning etter første ledd uten samtykke fra EFTAs overvåkningsorgan. Den første godkjenningsperioden skal ikke vare lenger enn tre år. Det skal ikke kreves at en AutoPASS-utsteder tar del i slike forsøkssystemer.
