@@ -1,0 +1,3 @@
+# § 1. Formål
+Formålet med denne forskriften er å regulere utstedervirksomhet for bompenger på det offentlige vegnettet i Norge og elektronisk billettering gjennom AutoPASS Samvirke i offentlig ferjedrift, forvaltningen av AutoPASS Samvirke, regulering av tvisteløsning mellom AutoPASS-utstederne og operatørene og ivareta brukernes rettigheter i kundeforholdet med AutoPASS-utstederne.
+Forskriften skal også sikre at bompengesystemer i Norge virker sammen med den europeiske elektroniske trafikantbetalingstjenesten (EETS) og at Norges forpliktelser etter EØS-avtalen på dette området gjennomføres i norsk rett.

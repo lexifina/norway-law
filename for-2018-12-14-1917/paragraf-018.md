@@ -1,0 +1,2 @@
+# § 18. Krav til salgsdokument
+AutoPASS-utstederen skal som en administrativ tjeneste for operatøren utstede salgsdokumentasjon for avtalepasseringen. AutoPASS-utstederen har ansvar for at salgsdokumentasjonen utarbeides innenfor de til enhver tid gjeldende regler for utstedelse av salgsdokumentasjon. Utstedt salgsdokumentasjon skal holdes løpende tilgjengelig for operatør. AutoPASS-utstederen kan samtidig med utstedelse av salgsdokumentasjon utstede krav om betaling mot bruker etter § 6 første ledd.
