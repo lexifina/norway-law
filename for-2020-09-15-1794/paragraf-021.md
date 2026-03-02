@@ -1,0 +1,5 @@
+# § 21. Rangering av søkere til forkurs for ingeniør- og sivilingeniørutdanning
+(1) Søkere som er kvalifisert til opptak til forkurs for ingeniør- og sivilingeniørutdanning etter § 20 bokstav a er likestilt uansett hvordan det er oppnådd og lengden på opplæringen i skolen.
+(2) Søkere som er kvalifisert til opptak til forkurs for ingeniør- og sivilingeniørutdanning etter § 20 bokstav b, rangeres etter oppnådde karakterpoeng. Karakterpoeng består av gjennomsnittet av karakterene i fag på høyeste nivå, multiplisert med 10. Søkere som har utdanning der karakterskalaen ikke er identisk med norsk videregående skole, rangeres ved en skjønnsmessig vurdering.
+(3) Søkere som er kvalifisert til opptak til forkurs for ingeniør- og sivilingeniørutdanning etter § 20 bokstav c, rangeres etter skjønnsmessig, individuell vurdering.
+(4) Søkere som er kvalifisert til opptak til forkurs for ingeniør- og sivilingeniørutdanning etter § 20 bokstav d, rangeres etter oppnådde karakterpoeng. Søkere som har utdanning der karakterskalaen ikke er identisk med norsk videregående skole, rangeres ved en skjønnsmessig vurdering.
