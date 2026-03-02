@@ -1,0 +1,4 @@
+# § 48. Studierett
+(1) En student som har akseptert tilbud om studieplass ved UiT har studierett til studieprogrammet eller emnet vedkommende er tatt opp til. Studieretten gjelder bare ved det studiestedet studenten har fått opptak. Studenten kan imidlertid søke om overflytting til et annet studiested.
+(2) Studenter beholder studieretten inntil ett år ut over normert studieprogresjon i hel- eller deltidsstudier, såfremt fakultetet ikke har fastsatt at studieretten kan beholdes for flere år ut over normert studieprogresjon for studiet. I denne tidsberegningen inngår ikke utsatt studiestart, permisjoner, utestengelse fra universitetet og faglige forsinkelser.
+(3) Studieretten opphører i alle tilfelle når den grad eller yrkesutdanning studieprogrammet leder frem til er oppnådd. For studenter som er tatt opp til enkeltemner eller årsstudier, opphører studieretten etter at den fastsatte studierettsperioden er gått ut.

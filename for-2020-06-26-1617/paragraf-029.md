@@ -1,0 +1,4 @@
+# § 29. Adgang til å avlegge eksamen etter tidligere ordning ved nedlegging eller endringer i emnet
+(1) Dersom emnet endres vesentlig med hensyn til omfang, pensum eller lignende eller nedlegges, skal det være anledning til å avlegge eksamen etter tidligere ordning kun én gang for et tidsrom på ett år etter at ny ordning trer i kraft. Studenten har imidlertid ikke krav på undervisning etter tidligere ordning. Gjelder endringen selve eksamensordningen, gis det anledning til å gå opp til eksamen én gang etter tidligere ordning dersom studenten har vært vurderingsmeldt til emnet før den nye ordningen trådte i kraft.
+(2) Personer som ikke er tatt opp som studenter ved det aktuelle studieprogrammet eller emnet, må avlegge eksamen etter den eksamensordning som til enhver tid gjelder for privatister.
+(3) Det må søkes om å få avlegge eksamen etter tidligere ordning.
