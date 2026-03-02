@@ -1,0 +1,2 @@
+# § 15. Privatister
+Personer som oppfyller opptakskravene og andre vilkår for å avlegge eksamen, men som ikke er innvilget opptak, kan søke om adgang til å avlegge eksamen i et emne som privatist. Privatistretten begrenser seg til adgang til å delta i offentlige forelesninger og til å gå opp til eksamen. Universitetet kan fastsette at privatister skal betale et vederlag som skal dekke institusjonens merutgifter.

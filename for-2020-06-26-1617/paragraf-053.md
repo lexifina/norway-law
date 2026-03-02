@@ -1,0 +1,2 @@
+# § 53. Pålegg om framvisning av originaldokumenter
+Studenter må ved forespørsel fra universitetet vise fram originaldokumenter som er grunnlaget for opptak til studier eller for utstedelse av vitnemål ved UiT. Studenter som ikke viser fram de forespurte originaldokumentene for kontroll kan miste studieretten. Vitnemål vil kunne bli holdt tilbake til originaldokumentene er framvist og kontrollert.
