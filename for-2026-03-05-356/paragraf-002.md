@@ -1,0 +1,2 @@
+# § 2. Totalkvote
+Uten hinder av forbudet i § 1 kan norske fartøy med adgang til å delta etter denne forskrift, fiske og lande inntil 534,98 tonn makrellstørje i Norges territorialfarvann og Norges økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard. Av dette kvantumet avsettes 10 tonn til bifangst av makrellstørje for fartøy som ikke har adgang til å delta i det direkte fisket, 2 tonn til merk-og-slipp-fisket etter makrellstørje, 8 tonn til sports- og rekreasjonsfiske etter makrellstørje og 34,98 tonn til forskningsformål.
