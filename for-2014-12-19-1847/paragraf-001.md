@@ -1,0 +1,4 @@
+# § 1. Forskriftens virkeområde
+(1) Forskriften gjelder for fastsetting av avgifter for flysikringstjenester, fordelt som terminalavgifter og underveisavgifter, jf. kommisjonens gjennomføringsforordning (EU) 2019/317 av 11. februar 2019 om fastsettelse av en felles ytelsesstyrings- og avgiftsordning for flysikringstjenester og nettfunksjoner (ytelsesstyrings- og avgiftsforordningen).
+(2) Forskriften gjelder bare for terminalavgifter som knytter seg til flygninger til/fra Avinor AS sine lufthavner. Forskriften gjelder ikke terminalavgifter som knytter seg til lufthavner der Avinor AS har satt bort driften til andre foretak basert på kontrakt og der driften ikke inngår i samfinansieringen av selskapets lufthavner.
+(3) Forskriften gjelder innenfor norsk område, samt i områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester.

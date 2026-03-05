@@ -1,0 +1,3 @@
+# § 21. Vedlegg til innbetaling
+(1) Med innbetalingen skal det følge en oversikt med referanser, datoer og beløp i EUR for betalte regninger og fratrukne tilgodehavender. Kravet om å vise regningsbeløpene i EUR gjelder også for betalere som benytter seg av muligheten til å foreta innbetalingen i nasjonal valuta.
+(2) Når en innbetaling ikke er vedlagt opplysningene som angitt i første ledd, og det derfor ikke framgår at innbetalingen gjelder en eller flere bestemte regninger, vil Eurocontrol anvende betalingen først til dekning av påløpte renter, og deretter til dekning av den eldste ubetalte regning.
