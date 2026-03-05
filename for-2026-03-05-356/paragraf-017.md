@@ -1,0 +1,5 @@
+# § 17. Rapportering og havneanløp
+Fartøyene skal sende posisjonsrapportering og rapportere elektronisk fangst- og aktivitetsdata i samsvar med forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy (ERS-forskriften). Ved fangst av makrellstørje skal norsk FMC kontaktes på telefon 55 23 83 36 så snart som mulig. Notfartøy, og linefartøy over 24 meter, som fisker direkte etter makrellstørje skal ikke melde FMC om fangsten. Melding om havneanløp skal sendes senest fire timer før estimert anløp ved havn.
+Fangst av makrellstørje kan kun landes i havner utpekt særskilt til dette formålet i ICCAT. Dersom fartøyet skal lande i utenlandsk havn, må fartøyet sende forhåndsmelding om havneanløp i samsvar med gjeldende krav fastsatt av ICCAT.
+Ved landing av makrellstørje skal det på landings- og sluttseddelen i tillegg til vekt oppgis antall individ.
+Fiskeridirektoratet kan i særlige tilfeller gjøre unntak fra første ledd tredje punktum og annet ledd.
