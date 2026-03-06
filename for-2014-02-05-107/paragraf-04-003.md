@@ -1,0 +1,6 @@
+# § 4-3. Spesifikasjoner i tilknytning til årsregnskapet
+For hvert regnskapsår skal det kunne utarbeides:
+a) Bokføringsspesifikasjon, som skal omfatte alle bokførte opplysninger, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare.
+b) Kontospesifikasjon, som skal omfatte alle kontoer for regnskapsåret. Hver konto skal angi kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder samt inn- og utgående saldo.
+c) Kundespesifikasjon, som skal omfatte alle transaksjoner med kunder per regnskapsår. Kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå. Partier eller partiledd som har mindre en 600 bilag i året, og som ikke er avgiftspliktig, er unntatt fra kravet om kundespesifikasjon.
+d) Leverandørspesifikasjon, som skal omfatte alle transaksjoner med leverandører per periode. Leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå. Partier eller partiledd som har mindre en 600 bilag i året, og som ikke er avgiftspliktig, er unntatt fra kravet om leverandørspesifikasjon.

@@ -1,0 +1,4 @@
+# § 5-1. Verdifastsetting av ulovlige bidrag og overføring til statskassen
+(1) Partier eller partiledd kan verken direkte eller indirekte nyttiggjøre seg ulovlig mottatte bidrag. Delvis tilbakeføring eller overføring av ulovlig bidrag til giver eller statskassen regnes som nyttiggjøring. Som nyttiggjøring regnes også fullstendig eller delvis overføring av ulovlig bidrag eller avkastning til tredjeperson.
+(2) Ved fastsetting av verdien av det ulovlige bidraget som skal overføres til statskassen, skal det også tas hensyn til avkastning eller endring av kjøpekraft. Partilovnemnda kan ved skjønn fastsette verdien av avkastning eller endringer i kjøpekraft for ulovlige bidrag.
+(3) Ulovlige bidrag som ikke tilbakebetales giver innen fire uker, skal overføres til Kommunal- og moderniseringsdepartementet. Overføringen skal merkes «Partiloven § 17a».

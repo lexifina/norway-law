@@ -1,0 +1,2 @@
+# § 1-4. Underretning om registrerte endringer
+Innsender skal ha underretning om opplysninger som registreres på enheten i Partiregisteret. Underretning om vedtak knyttet til partiets navn eller endringer i sammensetningen av partiets utøvende organ skal også sendes til dem som var registrert som medlemmer av partiets utøvende organ på det tidspunkt søknad eller melding om endring ble journalført hos registerfører.
