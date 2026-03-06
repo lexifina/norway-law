@@ -1,0 +1,3 @@
+# § 8. Saksstyring under saksforberedelsen
+(1) Husleietvistutvalget skal aktivt styre saksforberedelsen for å oppnå rask, prosessøkonomisk og forsvarlig behandling. Det bør være et rimelig forhold mellom tvistens betydning og omfanget av bevisførselen. Tvisteloven § 21-8 om begrensning av bevisførsel gjelder tilsvarende så langt den passer. Husleietvistutvalget kan gi veiledning som bidrar til at tvisten får en riktig avgjørelse ut fra de faktiske forhold og de aktuelle reglene. Veiledningen må gis på en måte som ikke svekker tilliten til at Husleietvistutvalget er upartisk.
+(2) Husleietvistutvalget kan forlenge frister det har gitt når det anses hensiktsmessig for saksgangen.

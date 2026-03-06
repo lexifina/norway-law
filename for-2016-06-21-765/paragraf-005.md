@@ -1,0 +1,3 @@
+# § 5. Framgangsmåte ved forkynning og signatur mv.
+(1) Husleietvistutvalgets dokumenter skal forkynnes i vanlig brev vedlagt mottakskvittering for utfylling og retur, eller på slik måte som angitt i domstolloven § 163a. Blir mottakskvittering ikke returnert, skal dokumentet likevel regnes som forkynt dersom det er sannsynliggjort at adressaten har mottatt dokumentet, for eksempel ved bekreftelse på telefon, e-post eller lignende, og det ikke er grunn til å tvile på at vedkommende er rett person.
+(2) For øvrig gjelder reglene i domstolloven kapittel 9 om forkynnelser, meddelelser og elektronisk kommunikasjon så langt de passer.
