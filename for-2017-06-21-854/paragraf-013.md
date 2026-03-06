@@ -1,0 +1,4 @@
+# § 13. Utarbeidelse av planprogram eller melding med forslag til utredningsprogram
+For planer etter plan- og bygningsloven skal forslagsstiller utarbeide et forslag til planprogram for planer etter § 6 første ledd bokstav a og b.
+For tiltak etter annet lovverk skal forslagsstiller utarbeide en melding med forslag til utredningsprogram hvis saken gjelder et tiltak etter § 6 første ledd bokstav c.
+For kommuneplanens arealdel skal forslaget til planprogram skille mellom krav til utredning av enkeltområder og krav til utredning av planen som helhet. Planmyndigheten skal klargjøre hvilken dokumentasjon som skal følge forslag til nye utbyggingsområder. Hvis det i kommuneplanens arealdel eller en kommunedelplan tas sikte på å utrede konsekvensene av et konkret tiltak, jf. § 6 bokstav b eller § 8 bokstav a, må dette fremgå av planprogrammet.

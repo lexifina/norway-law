@@ -1,0 +1,4 @@
+# § 35A. Rapportering til Mekanismen for informasjonsutveksling
+Dersom tiltak som gjennomføres i marine områder kan forårsake betydelig forurensning av eller vesentlige og skadelige forandringer i det marine miljøet i områder utenfor nasjonal jurisdiksjon, skal ansvarlig myndighet sørge for at informasjon som nevnt i andre ledd meldes til Mekanismen for informasjonsutveksling som er opprettet i medhold av Avtale om bevaring og bærekraftig bruk av marint biologisk mangfold i områder utenfor nasjonal jurisdiksjon under Havrettskonvensjonen.
+Relevant informasjon i løpet av konsekvensutredningsprosessen, rapporter om konsekvensutredninger og eventuelle relevante overvåkingsrapporter skal innen rimelig tid meldes til Mekanismen for informasjonsutveksling.
+Kravene i denne bestemmelsen gjelder ikke for Forsvarets aktiviteter, herunder Forsvarets aktiviteter utført av statlige fartøy og luftfartøy i ikke-kommersiell tjeneste.

@@ -1,0 +1,3 @@
+# § 39. Overgangsbestemmelser
+Planer og tiltak som ikke var omfattet av forskrift 19. desember 2014 nr. 1726 om konsekvensutredninger for planer etter plan- og bygningsloven og forskrift 19. desember 2014 nr. 1758 om konsekvensutredninger for tiltak etter sektorlover omfattes ikke av denne forskriften hvis saksbehandlingen av planen ble startet, jf. plan- og bygningsloven § 8-3, § 11-12 og § 12-8, verneforslaget ble kunngjort etter naturmangfoldloven § 47, eller søknad etter annen lov ble sendt på høring før 1. juli 2017.
+For planer og tiltak som er tatt opp til behandling etter de to tidligere forskriftene, skal denne forskriften legges til grunn i den videre behandlingen av saken.

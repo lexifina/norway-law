@@ -1,0 +1,5 @@
+# § 18. Særlig om overordnede planer
+For regionale planer, kommune(del)planer og planer etter andre lover enn plan- og bygningsloven, kan konsekvensutredningen begrenses til å redegjøre for virkningene planen eller programmet kan få på et overordnet nivå. Unntak er der det i planen konsekvensutredes konkrete tiltak.
+Konsekvensutredningen av kommuneplanens arealdel skal bare omfatte de delene av planen som fastsetter rammer for fremtidig utbygging og som samtidig innebærer endringer av den gjeldende planen.
+Konsekvensutredningen av arealdelen skal beskrive virkninger utbygging av nye områder eller vesentlig endret arealbruk i utbygde områder kan få for miljø og samfunn. Det skal også gis en vurdering av virkningene av de samlede arealbruksendringene i planen. Inneholder planen bare strategier for fremtidig arealbruk, skal det vurderes hvordan disse vil påvirke miljø og samfunn.
+Det skal i konsekvensutredningen av arealdelen også redegjøres for hvilke forhold som skal avklares og belyses nærmere i senere regulering av områdene, jf. plan- og bygningsloven § 11-9 nr. 8.
