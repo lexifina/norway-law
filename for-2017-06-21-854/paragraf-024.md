@@ -1,0 +1,2 @@
+# § 24. Innleggelse av data i databaser
+Data som er samlet inn i arbeidet med konsekvensutredningen skal systematiseres i samsvar med standarder når slike foreligger. De systematiserte dataene skal gjøres tilgjengelige for offentlige myndigheter, slik at dataene kan legges inn i offentlige databaser. Der det er lagt til rette for dette, skal forslagsstilleren selv legge inn de innsamlede dataene i offentlige databaser.

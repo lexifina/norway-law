@@ -1,0 +1,3 @@
+# § 26. Endringer av planer eller tiltak etter gjennomført høring
+Ved endring av planer eller tiltak etter gjennomført høring av planforslag eller søknad med konsekvensutredning, skal ansvarlig myndighet påse at konsekvensene av endringene blir redegjort for før det fattes vedtak i saken. Tilsvarende gjelder for endringer av planer som utløser ny behandling etter plan- og bygningsloven.
+Ved omgjøring eller fornyet behandling av konsesjoner skal det, hvis tiltaket vil få nye vesentlige virkninger for miljø eller samfunn, gjennomføres en offentlig høring. I høringen skal det gis en redegjørelse for tiltaket og tiltakets virkninger for miljø og samfunn.
