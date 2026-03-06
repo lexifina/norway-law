@@ -1,0 +1,3 @@
+# § 8-3. Gjennomføring av kontroll
+(1) Kontroll skal som hovedregel gjennomføres skriftlig (dokumentbasert). Ved skriftlig kontroll skal svarfristen for partiet eller partileddet ikke være kortere enn tre uker. Elektronisk oversendelse av dokumenter kan benyttes i den grad dette gir fullgod dokumentasjon. Ved tvil avgjøres saken av Partilovnemnda.
+(2) Stedlig kontroll krever samtykke fra partiets eller partileddets styreleder eller daglige leder. Ved stedlig kontroll skal daglig leder, styreleder eller annet styremedlem i partiet eller partileddet være tilstede. Ved stedlig kontroll skal tidspunkt for kontrollen avtales med partiet eller partilaget minst tre uker før kontroll gjennomføres.

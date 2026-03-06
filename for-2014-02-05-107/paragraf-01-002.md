@@ -1,0 +1,3 @@
+# § 1-2. Opplysninger som skal registreres i Partiregisteret. Offentlighet
+(1) Partiregisteret skal inneholde opplysninger om partiets navn, organisasjonsnummer, adresse og kontaktperson registrert i Enhetsregisteret samt hvem som er medlemmer av partiets utøvende organ. For personer som registreres som medlem av det utøvende organ og kontaktperson, skal registeret inneholde opplysning om navn, bostedsadresse og fødselsnummer eller D-nummer.
+(2) Alle opplysninger i Partiregisteret er offentlige med unntak av opplysninger om fødselsnummer og D-nummer og bostedsadressene til medlemmene av partiets utøvende organ.
