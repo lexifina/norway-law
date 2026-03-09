@@ -1,0 +1,13 @@
+# § 5-3. Rett til begrunnelse og klage over karaktersetting
+(1) Studenten har rett til å få en begrunnelse for karakterfastsettingen. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter må krav om begrunnelse framsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse framsettes innen én uke fra kandidaten fikk kjennskap til karakteren.
+(2) Begrunnelsen skal normalt være gitt innen to uker etter at studenten har framsatt krav om det. Dersom begrunnelsen ikke kan gis innen to uker, skal studenten varsles om dette og samtidig få oppgitt når begrunnelsen kan ventes. I begrunnelsen skal det gjøres rede for generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelsen gis muntlig eller skriftlig etter sensors valg. Sensorene avgjør seg imellom hvem som skal gi begrunnelsen.
+(3) Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal disse være tilgjengelige for studentene etter at karakteren er fastsatt.
+(4) Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har studenten framsatt krav om begrunnelse for karakterfastsetting eller har klaget over formelle feil, løper klagefristen fra studenten har mottatt begrunnelse eller avgjørelse på klagen over formelle feil.
+(5) Den skriftlige klagen skal inneholde:
+- hvem som klager (navn, adresse og studentnummer)
+- det vedtak det klages over (fag, eksamensdato og karakter)
+- dato og underskrift.
+(6) Ved krav om klage over karaktersettingen på gruppeeksamen, må alle gruppens medlemmer samlet samtykke og skrive under på klagen.
+(7) Når karakter i et fag fastsettes på grunnlag av flere deleksamener, kan klage først framsettes når endelig karakter i faget er kunngjort. Studenten har likevel klageadgang på resultatet av en deleksamen når prøven ikke er bestått, og det innebærer at fullstendig eksamen i faget med bestått resultat ikke kan oppnås.
+(8) Bedømmelse av muntlig prestasjon og praksisopplæring eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages.
+(9) Ved klage over karaktersetting benyttes nye sensorer. Ved ny sensur skal sensorene ikke få opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen. Ny sensur skal foreligge innen samme frister som gjelder for ordinær eksamen. Endring kan gjøres til gunst og ugunst for klager. Karakterfastsetting ved ny sensurering etter denne paragraf kan ikke påklages. Hvis den endelige karakter blir fastsatt på grunnlag av en muntlig prøve i tilknytning til en skriftlig deleksamen, og sensurvedtaket på den skriftlige delen av eksamen blir endret, holdes ny muntlig prøve før endelig karakter fastsettes.

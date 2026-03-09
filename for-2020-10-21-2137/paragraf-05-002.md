@@ -1,0 +1,3 @@
+# § 5-2. Klage ved formelle feil ved eksamen
+(1) En student som har vært oppe til eksamen, prøve eller annet arbeid som bedømmes med karakter, kan klage over formelle feil innen tre uker etter at studenten er eller burde være kjent med feilen. Klagen sendes rektor ved Stiftelsen Norsk Hestesenter for videre behandling i fagskolens klagenemnd. Formelle feil kan være feil ved oppgaveformuleringen, eksamensavviklingen eller ved gjennomføring av sensuren.
+(2) Finner skolens klagenemnd at det er begått formelle feil, og det er grunn til å anta at dette har hatt betydning for en eller flere studenters prestasjon eller bedømmelse av denne, skal det foretas ny sensurering eller holdes ny eksamen, prøve eller lignende så snart som mulig med nye sensorer.

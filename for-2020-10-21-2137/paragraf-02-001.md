@@ -1,0 +1,6 @@
+# § 2-1. Generelt opptaksgrunnlag
+(1) Opptaksgrunnlaget til fagskoleutdanning er fullført og bestått videregående opplæring. Opptak til fagskoleutdanningen krever enten relevant fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse.
+(2) Søkere som er 23 år eller eldre i opptaksåret, kan tas opp på grunnlag av tilsvarende realkompetanse.
+(3) For studier som krever opptaksprøve blir de som fyller kravene under punktene 1 og 2 innkalt til opptaksprøve. Dersom det er flere søkere enn antall studieplasser som består opptaksprøve, rangeres søkerne etter sammensatt poengsum fra vitnemål og opptaksprøve. Utregning av poeng er nærmere beskrevet i hver enkelt studieplan.
+(4) Kvalifiserte søkere som ikke kan poengberegnes, må rangeres i forhold til poengberegnede søkere ved hjelp av en individuell skjønnsmessig vurdering. Fagskolen fastsetter selv skjønnskriteriene. For å få tilbud om opptak kreves det likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning.
+(5) Hvis det er ledige studieplasser etter at det ordinære opptaket er gjennomført, kan Fagskolen selv tilby disse studieplassene til kvalifiserte søkere. Søknader om opptak til slike ledige studieplasser behandles i den rekkefølgen de mottas, uavhengig av rangeringsbestemmelsene.

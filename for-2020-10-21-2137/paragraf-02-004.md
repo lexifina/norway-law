@@ -1,0 +1,2 @@
+# § 2-4. Sammensetning og retningslinjer for opptakskomiteen
+Opptakskomiteen oppnevnes av styret for Stiftelsen Norsk Hestesenter og består av tre personer, hvorav én av disse ikke er blant de ansatte ved skolen. Endelig opptak og rangering av søkerne foretas i henhold til opptakskrav i samlet møte hvor medlemmene i nemnda er likestilte. En sekretær fører protokoll som underskrives av medlemmene i nemnda. Vurderingskriteriene er beskrevet i studieplanen til den enkelte utdanning.
