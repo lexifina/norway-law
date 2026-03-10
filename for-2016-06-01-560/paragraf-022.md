@@ -1,0 +1,3 @@
+# § 22. Overgangsbestemmelser
+(1) Kjøretøy i gruppe L som er dokumentert importert for enkeltgodkjenning og som det er søkt om godkjenning for før forskriftens ikrafttredelse, kan framstilles for godkjenning etter kjøretøyforskriften innen ett år. Kjøretøy i gruppe L som er produsert i Norge og ferdigstilt og som det er søkt om enkeltgodkjenning for før ikrafttredelsen kan også godkjennes etter kjøretøyforskriften.
+(2) Kjøretøy i gruppe L som er enkeltgodkjent etter kjøretøyforskriften, men som ikke er registrert, må imidlertid godkjennes etter denne forskrift dersom den ikke førstegangsregistreres innen ett år etter forskriftens ikrafttredelse.
