@@ -1,0 +1,2 @@
+# § 2. Totalkvote
+Uten hinder av § 1 kan norske fartøy som har fått tillatelse til å delta i fangst av vågehval i 2026, fange til sammen 1641 vågehval i Norges økonomiske sone, i fiskevernsonen ved Svalbard, i fiskerisonen ved Jan Mayen, i Norges territorialfarvann og i internasjonalt farvann i IWC-områdene ESB, EW, EN og CM. Av kvoten på 1641 vågehval kan 1388 dyr fanges i IWC-områdene ESB, EW, EN og 253 vågehval i IWC-område CM.
