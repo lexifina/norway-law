@@ -1,0 +1,4 @@
+# § 4. Beregning av tilskudd
+Tilskudd gis med maksimalt 833 kroner per tonn levert husdyrgjødsel. Tilskuddssatsen avtar med minkende andel tørrstoff i gjødselen ved at maksimalsatsen multipliseres med (2x-x2), der x er andelen tørrstoff i gjødselen og angis som et tall mellom 0 og 1. For gjødsel med kun tørrstoff er x lik 1, som gir (2x-x2) = 1 og 833 kroner i tilskudd per tonn husdyrgjødsel.
+Der foretaket benytter eget biogassanlegg, kan tilskudd utmåles direkte ut fra foretakets dyretall såfremt all husdyrgjødsel benyttes i anlegget. Satsen for de ulike dyreslagene er:DyreslagTilskudd (kroner)Melkeku3040Ammeku1583Ungdyr av storfe1000Avlsgris563Slaktegris631000 Verpehøns og slaktekyllingmødre16 9931000 Livkylling21241000 Slaktekylling8501000 Slaktekalkun10 6211000 And2124Sau > 1 år311Mjølkegeit311Hest1296
+Dersom det omsøkte volum per år overstiger det beløp som er avsatt til ordningen, reduseres tilskuddssatsen relativt slik at forbruket tilpasses bevilgningen.
