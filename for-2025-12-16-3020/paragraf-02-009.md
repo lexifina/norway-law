@@ -1,0 +1,2 @@
+# § 2-9. Ansvar for opptak
+Rektor er ansvarlig for opptak og skal på vegne av styret sørge for at opptak til fagskoleutdanningene blir gjennomført korrekt. Rektor oppnevner medlemmer til en opptakskomité. Komiteen skal gjennomføre det praktiske opptaket og også vurdere realkompetanse. Komiteen er sammensatt av minimum 2 ansatte hvorav en fagansvarlig/fagperson for det enkelte fagområdet skal være representert. Det er rektor som fatter endelig vedtak om opptak.

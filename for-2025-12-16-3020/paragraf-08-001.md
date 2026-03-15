@@ -1,0 +1,2 @@
+# § 8-1. Generelle bestemmelser
+Dersom ikke noe annet er bestemt, gjelder forvaltningsloven kapittel III til VI og VIII for avgjørelser om opptak, avsluttende vurdering, annullering av eksamen, bortvisning, utestenging, skikkethetsvurdering, innpassing og fritak etter loven her, jf. lov om høyere yrkesfaglig utdanning § 39 andre ledd. For avgjørelsene som er listet opp, gjelder forvaltningslovens bestemmelser om klage.

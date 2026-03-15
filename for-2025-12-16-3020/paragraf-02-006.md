@@ -1,0 +1,2 @@
+# § 2-6. Poengberegning
+OmtalePoengDet generelle grunnlaget for opptak § 1-2 første ledd10 poengRelevant yrkespraksis i 100 % stilling utover det generelle grunnlaget for opptak, jf. gjeldende studieplan1 poeng per 6 md. (inntil 10 poeng)Fagprøve med «Bestått meget godt»5 poengRelevant fagprøve i annet fag utover det generelle opptakskravet inkl. praksistid5 poengRelevant fagprøve i annet fag utover det generelle opptakskravet med «Bestått meget godt»2 poengGjennomsnittlig karakterpoeng av tallkarakterene i alle fagMultipliseres med 10

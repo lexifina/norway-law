@@ -1,0 +1,7 @@
+# § 4-9. Sluttvurdering under særlige vilkår
+(1) Studenter som har behov for særlig tilrettelegging ved den praktiske gjennomføringen av eksamen eller sluttvurdering, må framsette søknad om særlig tilrettelegging. Fristen for søknad om tilrettelegging er den samme som fristen for oppmelding til eksamen. Dersom det oppstår akutte behov, må det søkes om dette så snart som mulig etter at behovet har oppstått. Rektor fatter vedtak på bakgrunn av vedlagt dokumentasjon.
+(2) Søknad om særlig tilrettelegging må inneholde dokumentasjon fra sakkyndig instans (f.eks. lege, logoped, psykolog) og beskrivelse av behovet for særordning. Det skal normalt søkes for hver eksamensperiode, men dersom grunnlaget for særordningen er av permanent karakter, kan det gjøres unntak fra dette.
+(3) Sjøfartsdirektoratet har gitt egne retningslinjer for særordninger ved eksamen for maritime fag. Ved skriftlig eksamen med tilsyn for maritime fag kan det gis utvidet tid med inntil 25 % av normal eksamenstid, maksimalt 1 time.
+(4) Studenter med dokumenterte lærevansker, eller studenter med annet morsmål enn norsk, kan etter eget ønske få lagt ved eksamensbesvarelsen en anonymisert attest som stadfester dette. Dette ledd gjelder ikke for maritime fag.
+(5) Vedtak om særlig tilrettelegging ved den praktiske gjennomføringen av eksamen er enkeltvedtak og kan påklages til lokal klagenemnd.
+(6) Bestemmelser om klagebehandling finnes i kapittel 8 i denne forskriften.
