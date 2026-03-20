@@ -1,0 +1,4 @@
+# § 11-2. Offentliggjøring
+(1) Avhandlingen skal være offentlig tilgjengelig senest to (2) uker før dato for offentlig forsvar. Avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse.
+(2) Det kan ikke legges restriksjoner på offentliggjøring av en avhandling med unntak av en på forhånd avtalt utsettelse av datoen for offentliggjøring. Ekstern part kan ikke stille krav om at hele eller deler av dr.philos.-avhandlingen ikke skal kunne offentliggjøres.
+(3) Ved publisering av avhandlingen skal kandidater følge gjeldende retningslinjer for kreditering av institusjoner. Hovedregelen er at en institusjon skal oppgis som adresse i en publikasjon dersom den har gitt et nødvendig og vesentlig bidrag til eller grunnlag for en forfatters medvirkning til det publiserte arbeidet. Samme forfatter skal oppgi også andre institusjoner som adresse dersom disse i hvert enkelt tilfelle tilfredsstiller kravet til medvirkning.
