@@ -1,0 +1,3 @@
+# § 2. Forholdet til den øvrige kirkeordning
+Den norske kirkes ordninger og praksis skal være i samsvar med Den norske kirkes grunnlag.
+Forslag til endringer i bestemmelsene i kapittel 1 må fremsettes på det første, andre eller tredje kirkemøtet etter et valg. Det første, andre eller tredje kirkemøtet etter neste valg tar stilling til forslaget. Et vedtak om endring krever tilslutning fra to tredjedeler av Kirkemøtets medlemmer. Før Kirkemøtet tar stilling til forslag til endringer i bestemmelsene, skal forslaget ha vært gjenstand for en forutgående behandling i Bispemøtet etter nærmere regler gitt av Kirkemøtet.

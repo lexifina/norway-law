@@ -1,0 +1,8 @@
+# § 23. Oppføring av ny kirke mv.
+Ny kirke skal bygges når en kirke er tilintetgjort eller på grunn av vesentlige mangler er ubrukbar og ikke kan utbedres, når den under vanlige gudstjenester ikke gir tilstrekkelig plass for de kirkesøkende og ikke hensiktsmessig kan utvides, eller når det dannes et nytt sokn der det fra før ikke er kirke.
+Ny kirke skal i kirkerommet ha sitteplass til en tidel av Den norske kirkes medlemmer i soknet. Det kreves likevel minst 200 og ikke mer enn 500 sitteplasser.
+Når særlige grunner tilsier det, kan Kirkerådet gjøre unntak fra reglene i første og annet ledd.
+Oppføring av ny kirke skal godkjennes av Kirkerådet. Det samme gjelder tomt til oppføring av kirke, tegninger, kostnadsoverslag og finansieringsplan.
+Nedlegging av kirke skal godkjennes av biskopen. Bestemmelsene om enkeltvedtak i forvaltningsloven kommer til anvendelse på biskopens vedtak. Biskopens vedtak kan påklages til Den norske kirkes klagenemnd, og Kirkerådet kan gi retningslinjer for biskopens og klagenemndas saksbehandling.
+Tiltak ut over vanlig vedlikehold av kirke skal godkjennes av biskopen. Bestemmelsene om enkeltvedtak i forvaltningsloven kommer til anvendelse på biskopens vedtak. Biskopens vedtak kan påklages til Den norske kirkes klagenemnd, og Kirkerådet kan gi retningslinjer for biskopens og klagenemndas saksbehandling.
+På uteområdet ved en listeført kirke som ikke har en tilknyttet gravplass, skal tiltak som ikke er søknadspliktige etter plan- og bygningsloven og som vil kunne ha en negativ innvirkning på kulturhistoriske verdier, ikke finne sted uten biskopens godkjenning. Før biskopen treffer sin avgjørelse, skal saken forelegges rette kulturmiljømyndighet for uttalelse.

@@ -1,0 +1,7 @@
+# § 42. Saksbehandlingsregler for kirkelige organer og forholdet mellom kirkeordningen og annet kirkelig regelverk
+Forvaltningsloven, offentleglova og regler om offentlige organer i arkivlova gjelder for den virksomhet som drives av kirkelige organer. For saker om ansettelse, oppsigelse eller andre personalsaker kommer likevel bare forvaltningsloven kapittel II og III til anvendelse.
+Vedtak i et kirkelig organ kan ikke påklages med mindre annet er særskilt bestemt. Vedtak etter offentleglova som er truffet av menighetsrådet eller kirkelig fellesråd, kan påklages til bispedømmerådet. Vedtak etter offentleglova som er truffet av bispedømmerådet, kan påklages til Kirkerådet. Vedtak etter offentleglova som er truffet av Kirkerådet, kan påklages til Den norske kirkes klagenemnd.
+Om ugildhet gjelder reglene i forvaltningsloven kapittel II, med følgende særregler:
+a) Ugildhet inntrer ikke ved valg til tillitsverv eller ved fastsetting av godtgjøring o.l. for slike verv.
+b) Kirkelig tilsatte som i denne egenskap har medvirket ved tilretteleggelsen av grunnlaget for en avgjørelse, eller ved tidligere avgjørelse i samme sak, skal alltid anses som ugild når saken behandles i et kirkelig organ. Biskopen regnes ikke som kirkelig tilsatt i forhold til denne bestemmelse. Det samme gjelder prost og annen prest som enten i kraft av sin stilling eller etter oppnevning av biskopen er medlem av et organ for soknet.
+Bestemmelsene i kirkeordningen skal ved motstrid gå foran bestemmelser i annet regelverk fastsatt av Kirkemøtet eller annet kirkelig organ.

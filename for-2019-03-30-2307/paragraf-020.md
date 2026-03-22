@@ -1,0 +1,5 @@
+# § 20. Forvaltning av kirkene og begrensning i rådighet
+Forvaltningen av kirkene hører under kirkelig fellesråd, med mindre annet er bestemt av departementet før kirkeordningens ikrafttredelse eller deretter av Kirkerådet.
+Kirker kan ikke avhendes, pantsettes eller påheftes bruksretter. Biskopen kan likevel samtykke i avhending og påhefte av bruksretter når særlige grunner tilsier det. Det kan stilles vilkår for slik godkjenning. Bestemmelsene om enkeltvedtak i forvaltningsloven kommer til anvendelse på biskopens vedtak. Biskopens vedtak i saker om avhending av kirker kan påklages til Den norske kirkes klagenemnd, og Kirkerådet kan gi retningslinjer for biskopens og klagenemndas saksbehandling. I saker om påhefte av bruksretter skal Kirkerådet gi retningslinjer for saksbehandlingen.
+Formuesrettigheter som er knyttet til en kirke, kan ikke skilles fra den. Fast eiendom som ikke er nødvendig for kirken, kan likevel avhendes med samtykke av bispedømmerådet.
+Menighetsrådet fører fortegnelse over inventar og utstyr i soknets kirker. Anskaffelse og avhendelse av kirkens inventar og utstyr skal godkjennes av biskopen.
