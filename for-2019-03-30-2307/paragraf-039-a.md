@@ -1,0 +1,4 @@
+# § 39a. Biskopens tilsyn
+Biskopen skal gjennom forkynnelse og sakramentforvaltning ta vare på den apostoliske lære etter Guds ord og vår kirkes bekjennelse, fremme og bevare enheten i Guds kirke og rettlede og oppmuntre bispedømmets menigheter, kirkelig tilsatte og øvrige medarbeidere. For å ivareta dette tilsynsansvaret kan biskopen gi råd og veiledning, og også gi bindende pålegg vedrørende vigslede medarbeideres og andre kirkelig tilsattes tjenesteutøvelse.
+Biskopen ser til at prestene forvalter sakramentene, forkynner og selv lever i overensstemmelse med den kristne tro, slik den er uttrykt i vår kirkes bekjennelse og ordninger, og at også andre som er vigslet til tjeneste i kirken virker og lever i samsvar med vigslingens formaning og løfte.
+Biskopen fører tilsyn med at de kirkelige råd i bispedømmet utfører sitt arbeid i lojalitet med den evangelisk-lutherske lære. Biskopen kan oppheve et vedtak i et kirkelig råd som strider mot kirkens lære.
