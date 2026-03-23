@@ -1,0 +1,10 @@
+Avsnitt B Import fra stater eller regioner med en kontrollert BSE-risiko
+Ved import av storfe fra en stat eller region med en kontrollert BSE-risiko skal det framlegges et helsesertifikat som attesterer at
+a) staten eller regionen er klassifisert i samsvar med vedtak 2007/453/EF som en stat eller region med en kontrollert BSE-risiko, ►M64
+b) dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe: ◄M64
+i) alle tilfeller av BSE,
+ii. alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med syke dyr i sitt første leveår, og som i dette tidsrommet i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret, eller
+iii. dersom resultatene av undersøkelsen nevnt i ii) er usikre, alt storfe født i den samme besetningen som dyrene med BSE tolv måneder før eller etter dyrene med BSE ble født.
+c) dyrene ble født
+i) etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, i henhold til definisjonen i OIEs helseregelverk for landdyr, var effektivt iverksatt, eller
+ii. etter datoen da det siste nasjonale tilfellet av BSE ble født, dersom dyrene ble født etter datoen for fôringsforbudet nevnt i i).

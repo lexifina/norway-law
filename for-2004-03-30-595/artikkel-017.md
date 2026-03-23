@@ -1,0 +1,3 @@
+# Artikkel 17
+Etter framgangsmåten fastsatt i artikkel 24 nr. 2, skal helsesertifikatene nevnt i vedlegg F til direktiv 64/432/EØF, modell II og III i vedlegg E til direktiv 91/68/EØF og de relevante helsesertifikatene som er fastsatt i EØS-regelverk for handel med sæd, embryoer og egg fra storfe, sauer og geiter, om nødvendig utfylles med en henvisning til kategorien som angir opprinnelses EØS-statens eller -regionens klassifisering gitt i samsvar med artikkel 5.
+De handelsdokumentene som er relevante i forbindelse med handel med produkter av animalsk opprinnelse, skal om nødvendig utfylles med en henvisning til kategorien som Kommisjonen har klassifisert opprinnelses EØS-staten eller -regionen i, i samsvar med artikkel 5.

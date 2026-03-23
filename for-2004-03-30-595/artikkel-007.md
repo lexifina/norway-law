@@ -1,0 +1,12 @@
+# Artikkel 7 Forbud vedrørende fôrvarer
+►M30
+1. Det er forbudt å bruke protein fra dyr i fôrvarer til drøvtyggere.
+2. Forbudet fastsatt i nr. 1 skal utvides til å omfatte andre dyr enn drøvtyggere og begrenses når det gjelder fôring av disse dyrene med produkter av animalsk opprinnelse i samsvar med vedlegg IV.
+3. Nr. 1 og 2 får anvendelse med forbehold for bestemmelsene i vedlegg IV om unntak fra forbudet i nevnte numre.
+Kommisjonen kan etter framgangsmåten i artikkel 24 nr. 3 og på grunnlag av en vitenskapelig vurdering av fôrbehovet til unge drøvtyggere og i samsvar med gjennomføringsreglene i nr. 5 i denne artikkel, samt etter å ha vurdert de kontrollmessige sidene ved unntaket, tillate bruk av proteiner fra fisk i fôr til unge drøvtyggere.
+4. EØS-stater eller regioner i EØS-stater med ikke-fastsatt BSE-risiko, har ikke tillatelse til å eksportere eller lagre fôrvarer beregnet på produksjonsdyr, som inneholder protein fra pattedyr, eller fôrvarer beregnet på pattedyr, unntatt hunder, katter og pelsdyr, som inneholder bearbeidet protein fra pattedyr.
+Tredjestater eller regioner i tredjestater med ikke-fastsatt BSE-risiko, har ikke tillatelse til å eksportere til EØS-området fôrvarer beregnet på produksjonsdyr, som inneholder protein fra pattedyr, eller fôrvarer beregnet på pattedyr, unntatt hunder, katter og pelsdyr, som inneholder bearbeidet protein fra pattedyr.
+På anmodning fra en EØS-stat eller tredjestat kan det etter framgangsmåten nevnt i artikkel 24 nr. 2 treffes beslutning om å gjøre individuelle unntak fra begrensningene i dette nummer i samsvar med nærmere kriterier som skal fastlegges etter framgangsmåten i artikkel 24 nr. 3. Alle unntak skal ta hensyn til bestemmelsene i nr. 3 i denne artikkel.
+4a. På grunnlag av en gunstig risikovurdering som minst omfatter mengden og den mulige kontamineringskilden samt sendingens endelige bestemmelsessted, kan det etter framgangsmåten nevnt i artikkel 24 nr. 3, treffes beslutning om å innføre en toleranseterskel for ubetydelige mengder animalsk protein i fôrvarer forårsaket av utilsiktet og teknisk uunngåelig kontaminering.
+5. Regler for gjennomføringen av denne artikkel, særlig reglene for å forebygge krysskontaminering og for prøvetakings- og analysemetodene som kreves for å kontrollere at denne artikkel overholdes, skal vedtas etter framgangsmåten fastsatt i artikkel 24 nr. 2. Reglene skal bygge på en rapport fra Kommisjonen om opprinnelse, bearbeiding, kontroll og sporbarhet når det gjelder fôrvarer av animalsk opprinnelse.
+◄M30

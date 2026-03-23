@@ -1,0 +1,13 @@
+# Artikkel 12 Tiltak rettet mot dyr under mistanke
+►M30
+1. Det skal innføres offentlige restriksjoner på forflytning av alle dyr som er mistenkt for å være angrepet av TSE, til resultatene av en klinisk og epidemiologisk undersøkelse som vedkommende myndighet foretar, er kjent, eller til dyret avlives med henblikk på laboratorieundersøkelse under offentlig tilsyn.
+Dersom det er offisiell mistanke om forekomst av TSE hos storfe i en driftsenhet i en EØS-stat, skal det innføres offentlige restriksjoner på forflytning av alt annet storfe i denne driftsenheten, til resultatene av undersøkelsen foreligger. Dersom det er offisiell mistanke om forekomst av TSE hos en sau eller geit i en driftsenhet i en EØS-stat, skal det innføres offentlige restriksjoner på forflytning av alle andre sauer og geiter i denne driftsenheten, til resultatene av undersøkelsen foreligger.
+Dersom det imidlertid kan dokumenteres at det er usannsynlig at driftsenheten der dyret oppholdt seg da det oppstod mistanke om TSE, er driftsenheten der dyret kan ha blitt utsatt for TSE, kan vedkommende myndighet bestemme at det skal innføres offentlige restriksjoner på forflytning bare for det dyret som er mistenkt for å være angrepet.
+Dersom det vurderes som nødvendig, kan vedkommende myndighet også bestemme at andre driftsenheter eller bare den utsatte driftsenheten skal settes under offentlig tilsyn, avhengig av de epidemiologiske opplysningene som foreligger.
+En EØS-stat kan etter framgangsmåten fastsatt i artikkel 24 nr. 2, og som unntak fra offisielle restriksjoner når det gjelder flytting av dyr som fastsatt i dette nummer, fritas fra å anvende slike restriksjoner, dersom den gjennomfører tiltak som gir tilsvarende garantier, på grunnlag av en hensiktsmessig vurdering av mulige risikoer for menneskers og dyrs helse.
+◄M30
+2. Dersom vedkommende myndighet bestemmer at det ikke kan utelukkes at dyret kan være angrepet av TSE, skal dyret avlives dersom det fremdeles lever; hjernen og alt annet vev som vedkommende myndighet kan bestemme, skal fjernes og sendes til et offentlig godkjent laboratorium, det nasjonale referanselaboratoriet fastsatt i artikkel 19 nr. 1, eller Fellesskapets referanselaboratorium fastsatt i artikkel 19 nr. 2, for undersøkelse i samsvar med prøvingsmetodene nevnt i artikkel 20.
+►M30
+3. Alle kroppsdeler av dyret under mistanke, herunder huden, skal enten holdes tilbake under offentlig tilsyn til det er stilt en negativ diagnose, eller destrueres i samsvar med forordning (EF) nr. 1774/2002.
+◄M30
+4. Nærmere regler for gjennomføringen av denne artikkel skal vedtas etter framgangsmåten fastsatt i artikkel 24 nr. 2.
