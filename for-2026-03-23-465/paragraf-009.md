@@ -1,0 +1,4 @@
+# § 9. Krav til utstyr
+Innehaver av radioamatørlisens tillates til eget bruk å innføre og ta i bruk radioamatørstasjon som ikke omfattes av lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon § 13-1 første ledd, jf. femte ledd, jf. forskrift 15. april 2016 nr. 377 om EØS-krav til radioutstyr og forskrift 15. april 2016 nr. 378 om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon.
+Radioamatørstasjon, inkludert byggesett, skal være innrettet og brukes slik at uønsket utstrålt effekt utenfor frekvensbånd angitt i §§ 5 og 5a er i samsvar med ITU-R SM.329 målt der antennen er tilkoblet senderens siste trinn.
+Radioamatørstasjon inkludert byggesett som brukes av radioamatør med begrenset lisens skal kunne benyttes i henhold til lisenskravene for begrenset lisens.
