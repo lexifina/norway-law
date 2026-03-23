@@ -1,0 +1,2 @@
+# § 10. Reaksjoner
+Ved brudd på plikter etter forskriften kan Nasjonal kommunikasjonsmyndighet fastsette reaksjoner i samsvar med lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon kap. 15. Dette omfatter også overtredelsesgebyr etter § 15-12 første ledd bokstav b for brudd på pliktene etter forskriften § 4 til § 9. En radioamatørlisens kan også tilbakekalles dersom innehaver av radioamatørlisens har opptrådt i strid med forskriften jf. § 15-6 tredje ledd.
