@@ -1,0 +1,5 @@
+# Artikkel 6a Avlsprogrammer
+1. EØS-statene kan innføre avlsprogrammer med sikte på utvelging av TSE-resistens i sine sauebestander. Avlsprogrammene skal omfatte regler for å fastsette visse sauebesetningers status som TSE-resistente og kan utvides til å omfatte andre dyrearter på grunnlag av vitenskapelige bevis som bekrefter resistens mot TSE hos visse genotyper av disse artene.
+2. Nærmere regler for programmene fastsatt i nr. 1 i denne artikkel skal vedtas etter framgangsmåten nevnt i artikkel 24 nr. 2.
+3. EØS-stater som iverksetter avlsprogrammer, skal framlegge regelmessige rapporter til ESA/Kommisjonen slik at programmene kan få en vitenskapelig vurdering, særlig når det gjelder programmenes innvirkning på forekomsten av TSE, men også på det genetiske mangfoldet og den genetiske variasjonen samt bevaring av bestander som er gamle, sjeldne eller som er tilpasset i en viss region. De vitenskapelige resultatene og de generelle følgene av avlsprogrammene skal vurderes regelmessig, og om nødvendig skal programmene endres.
+◄M30

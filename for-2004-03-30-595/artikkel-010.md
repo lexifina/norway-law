@@ -1,0 +1,3 @@
+# Artikkel 10 Opplæringsprogrammer
+1. EØS-statene skal sørge for at personalet hos vedkommende myndighet, ved diagnoselaboratorier og landbruks- og veterinærhøyskoler, offentlige veterinærer, praktiserende veterinærer, slakteripersonale og oppdrettere, dyreholdere og personer som håndterer dyrene, har fått opplæring om kliniske tegn, epidemiologi og når det gjelder kontrollpersonale, i å tolke laboratorieresultater med hensyn til TSE.
+2. For å sikre en effektiv gjennomføring av opplæringsprogrammene nevnt i nr. 1, kan det gis finansiell støtte fra Fellesskapet. Støttebeløpet skal bestemmes etter framgangsmåten fastsatt i artikkel 24 nr. 2.

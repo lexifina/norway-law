@@ -1,0 +1,3 @@
+# Artikkel 2 Atskillelse av levende dyr og produkter av animalsk opprinnelse
+For å unngå at levende dyr eller produkter av animalsk opprinnelse nevnt i artikkel 1 nr. 1, krysskontamineres eller erstattes med produkter nevnt i artikkel 1 nr. 2 bokstav a), b) og c), eller med levende dyr nevnt i artikkel 1 nr. 2 bokstav d), skal de alltid holdes atskilt, med mindre slike levende dyr eller produkter av animalsk opprinnelse blir avlet eller framstilt under minst de samme helsevernvilkår med hensyn til TSE.
+Nærmere regler for gjennomføringen av denne artikkel skal vedtas etter framgangsmåten fastsatt i artikkel 24 nr. 2.
