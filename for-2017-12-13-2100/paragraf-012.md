@@ -1,0 +1,3 @@
+# § 12. Når medlemmet skal fortsette i den opprinnelige stønadsperioden
+Dersom det er mindre enn 52 uker siden medlemmet mottok arbeidsavklaringspenger, fortsetter medlemmet i den opprinnelige stønadsperioden etter § 11-12 første, andre eller tredje ledd, uavhengig av årsak til at arbeidsavklaringspengene stanset eller opphørte. Dersom medlemmet trer inn i den opprinnelige stønadsperioden, skal det tidligere fastsatte beregningsgrunnlaget anvendes.
+Dersom medlemmet har rett til å motta arbeidsavklaringspenger etter folketrygdloven § 11-12 andre eller tredje ledd, må denne retten til ytelsen benyttes før medlemmet har rett til å få innvilget en ny stønadsperiode etter folketrygdloven § 11-12 første ledd.
