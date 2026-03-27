@@ -1,0 +1,7 @@
+# § 5a. Krav til understellsnummer
+(1) Godkjenningspliktig traktor og tilhenger til traktor skal være tydelig merket med understellsnummer.
+(2) Understellsnummeret skal være angitt ved innpreging i rammen eller i egnet del i bærende konstruksjon når kjøretøyet ikke har ramme. Det skal være plassert slik at det er godt synlig og utført slik at det vanskelig kan fjernes eller endres. Understellsnummerets plassering på kjøretøyet skal legges inn som merknad i kjøretøyets vognkort. Innpregingen av understellsnummeret skal være utført etter bestemmelsene i forordning (EU) 2015/208.
+(3) Understellsnummer må ikke påføres av andre enn fabrikanten eller under oppsyn av godkjenningsmyndigheten. Ved flertrinnsproduksjon følges prosedyrene i direktiv 2007/46/EF, vedlegg XVII. Understellsnummer må ikke fjernes, endres eller flyttes uten samtykke fra godkjenningsmyndigheten.
+(4) Når kjøretøyet er registrert eller tatt i bruk kan det ikke godkjennes med annet understellsnummer. Dette gjelder ikke kjøretøy som er oppbygd, jf. § 5b femte ledd og kjøretøyforskriften § 7-2 punkt 1.8 og 5.4. Dette gjelder selv om en eventuell endring skjer før godkjenning i Norge.
+(5) Det påhviler eieren av kjøretøyet å føre bevis for at kjøretøyets identitet (understellsnummer, innpreging, merkeplate osv.) er riktig dersom det oppstår tvil om dette.
+(6) Det stilles ikke krav om å prege inn understellsnummer på kjøretøy som er godkjent i Norge uten innpreget understellsnummer før 1. februar 2017.
