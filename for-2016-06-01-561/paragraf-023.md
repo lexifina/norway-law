@@ -1,0 +1,5 @@
+# § 23. Overgangsbestemmelser
+(1) I den overgangsperiode som følger av artikkel 73 kan den som framstiller traktor og tilhenger til traktor for typegodkjenning velge nasjonal typegodkjenning i henhold til § 7.
+(2) Nasjonale typegodkjenninger opphører å være gyldig senest fra det tidspunkt EU-typegodkjenning er obligatorisk. Bestemmelsene om restkjøretøy jf. § 8 anvendes tilsvarende.
+(1) Traktor og tilhenger til traktor som er dokumentert importert for enkeltgodkjenning og som det er søkt om godkjenning for før forskriftens ikrafttredelse, kan framstilles for godkjenning etter kjøretøyforskriften innen ett år. Traktor og tilhenger til traktor som er produsert i Norge og ferdigstilt og som det er søkt om enkeltgodkjenning for før ikrafttredelsen, kan også godkjennes etter kjøretøyforskriften.
+(2) Traktor og tilhenger til traktor som er enkeltgodkjent etter kjøretøyforskriften, men som ikke er registrert, må imidlertid godkjennes etter denne forskrift dersom den ikke førstegangsregistreres innen ett år etter forskriftens ikrafttredelse.
