@@ -1,0 +1,2 @@
+# § 27. Internasjonal konvensjon om sjøfolks arbeids- og levevilkår (Maritime Labour Convention – MLC)
+For inspeksjon og sertifisering av MLC betales gebyr beregnet etter anvendt tid i samsvar med timesatser fastsatt i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Anvendt tid inkluderer forarbeid, arbeid om bord i skip eller hos rederi og etterarbeid i forbindelse med inspeksjonen.

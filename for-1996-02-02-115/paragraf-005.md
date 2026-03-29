@@ -1,0 +1,4 @@
+# § 5. Gebyr- og timesatser
+1. Gebyrenes størrelse, herunder timesatsene, som skal legges til grunn ved beregning av gebyr på grunnlag av anvendt tid, fastsettes av departementet i egen forskrift, forskrift om tariff for tjenester som utføres av Sjøfartsdirektoratet (Sjøfartsdirektoratets gebyrtariff).
+Dersom ikke annet fremgår av bestemmelsene i denne forskriften, skal forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet på det tidspunkt tjenesten ble utført/avsluttet, legges til grunn.
+2. For gebyr beregnet etter anvendt tid i henhold til kapittel 7 (Gebyr for flyttbare innretninger samt kombinerte flyttbare innretninger og for undervannsfartøy), gjelder timesatsene i forskrift 27. juni 1997 nr. 652 om refusjon av utgifter for tilsyn med sikkerhet, arbeidsmiljø og ressursforvaltning i petroleumsvirksomheten.
