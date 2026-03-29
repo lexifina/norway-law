@@ -1,0 +1,2 @@
+# § 28. Tilbakeholdelse av norske skip
+Når Sjøfartsdirektoratet har nedlagt forbud mot at norsk skip forlater utenlandsk havn (jf. skipssikkerhetsloven § 52), og vedkommende lands myndigheter etter anmodning har gitt bistand til å håndheve Sjøfartsdirektoratets forbud, skal skipets eier betale et gebyr tilsvarende den regning vedkommende lands myndigheter fremlegger for sin bistand. Ved tilbakeholdelse av norsk skip i norske og utenlandske havner, skal eier dekke alle utgifter i forbindelse med frigivelse.
