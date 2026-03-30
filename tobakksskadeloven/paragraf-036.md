@@ -1,0 +1,7 @@
+# § 36. Retting og tvangsmulkt
+Finner tilsynsmyndigheten at noen av bestemmelsene nevnt i § 35 er overtrådt, kan den pålegge retting av forholdet. Det skal samtidig settes en frist for rettingen. Tilsynsmyndigheten kan innhente skriftlig bekreftelse fra overtrederen på at det ulovlige forholdet har opphørt.
+Helsedirektoratet kan fatte vedtak etter første ledd første punktum med midlertidig virkning dersom det er rimelig grunn til å anta at det foreligger en overtredelse av bestemmelser som Helsedirektoratet fører tilsyn med etter § 35, og det foreligger en risiko for alvorlig skade på forbrukernes interesser.
+Et vedtak med midlertidig virkning skal gjelde for en bestemt tid som ikke kan overstige tre uker fra virkningstidspunktet. Vedtaket kan fornyes dersom vilkårene i annet ledd er oppfylt.
+Samtidig med at pålegg om retting gis, kan tvangsmulkt fastsettes. Mulkten løper fra oversittelse av fristen for retting, og kan fastsettes i form av engangsmulkt eller dagmulkt. Mulkten tilfaller staten.
+Dersom tilsynsmyndigheten ved avdekking av en overtredelse av bestemmelser nevnt i § 35 finner særlig grunn til å tro at det vil bli begått nye brudd som ikke kan stanses etter første og annet ledd, kan den på forhånd fastsette at mulkt vil løpe fra det tidspunkt en ny overtredelse tar til. Slik tvangsmulkt kan fastsettes for inntil ett år.
+Departementet kan gi forskrifter om fastsettelse, beregning og innkreving av tvangsmulkt.

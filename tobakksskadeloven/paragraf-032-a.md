@@ -1,0 +1,4 @@
+# § 32 a. Forbud mot karakteristisk aroma i elektroniske sigaretter mv.
+Det er forbudt å innføre eller selge elektroniske sigaretter og gjenoppfyllingsbeholdere med karakteristisk aroma. Det samme gjelder separate beholdere av aromatilsetninger til bruk i elektroniske sigaretter.
+Forbudet i første ledd gjelder tilsvarende for utstyr som benyttes i forbindelse med elektroniske sigaretter eller gjenoppfyllingsbeholdere, som gjør det mulig å endre deres lukt eller smak.
+Departementet kan i forskrift fastsette utfyllende bestemmelser om forbudene i første og annet ledd, gjøre unntak fra dem, fastsette grenseverdier for innholdet av tilsetningsstoffer eller kombinasjoner av tilsetningsstoffer som gir karakteristisk aroma samt gebyrer for myndighetenes arbeid med og kontroll av forbudene. Departementet kan i forskrift også fastsette en liste over hvilke tilsetningsstoffer for aroma som er tillatt.

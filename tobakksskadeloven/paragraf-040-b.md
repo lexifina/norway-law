@@ -1,0 +1,2 @@
+# § 40 b. Begrensninger i omgjørings- og instruksjonsmyndighet
+Kongen kan ikke instruere Helsedirektoratet om behandlingen av enkeltsaker etter §§ 22 eller 23 som gjelder tobakksvarer, elektroniske sigaretter eller gjenoppfyllingsbeholdere, og som retter seg mot tilbydere av fjernsyn, audiovisuelle bestillingstjenester eller videodelingsplattformer. Kongen kan heller ikke omgjøre Helsedirektoratets vedtak i slike saker.

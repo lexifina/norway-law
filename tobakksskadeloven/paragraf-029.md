@@ -1,0 +1,9 @@
+# § 29. Tilsyn med tobakksforbudene
+Kommunen skal føre tilsyn med at reglene i og i medhold av §§ 25, 26 første ledd, § 27 første og annet ledd, § 28 annet ledd bokstav a og b og § 28 a overholdes. Dreier det seg om arbeidslokaler, føres tilsynet av Arbeidstilsynet.
+Reglene vedrørende kommunens og Arbeidstilsynets virksomhet som tilsynsorgan etter henholdsvis folkehelseloven § 7 a og kapittel 3 og arbeidsmiljøloven §§ 18-4 til 18-8 får tilsvarende anvendelse ved tilsyn etter paragrafen her.
+Politiet skal føre tilsyn med at reglene i § 28 annet ledd bokstav c overholdes.
+Havindustritilsynet fører tilsyn med at reglene i og i medhold av §§ 25 og 28 a overholdes innen det ansvarsområdet tilsynet har i petroleumsvirksomheten i henhold til arbeidsmiljøloven. Sjøfartsmyndighetene fører tilsyn med at reglene i og i medhold av §§ 25 og 28 a overholdes på skip samt fartøyer og innretninger for øvrig. I sin tilsynsmyndighet kan nevnte myndigheter bruke tilsvarende virkemidler som de har etter gjeldende regler om helseforhold og arbeidsmiljø på skip og innretninger innen petroleumsvirksomheten.
+Forsvarsstaben fører tilsyn med at reglene i og i medhold av §§ 25 og 28 a overholdes på Forsvarets fartøyer.
+Sysselmesteren fører tilsyn med at reglene i og i medhold av §§ 25, 26, 27, 28 annet ledd bokstav a og b og § 28 a overholdes på Svalbard. Sysselmesteren kan overlate til Longyearbyen lokalstyre å føre tilsyn for Longyearbyen.
+Tilsynsmyndigheten kan i særlige tilfeller gi dispensasjon fra regler gitt i eller i medhold av §§ 25 og 28 annet ledd bokstav a og b og sette vilkår for eventuell dispensasjon. På arbeidsplasser med arbeidsmiljøutvalg skal uttalelse fra utvalget legges ved søknaden. På arbeidsplasser uten arbeidsmiljøutvalg skal uttalelse fra verneombud legges ved.
+Kongen kan gi nærmere regler om gjennomføring og utfylling av disse bestemmelser og kan gjøre unntak fra dem.

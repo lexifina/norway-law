@@ -1,0 +1,5 @@
+# § 12. Overdragelse, død og konkurs
+Bevillingen faller bort ved overdragelse av virksomheten. Det samme gjelder ved overdragelse av alle eller en dominerende andel av aksjene eller andelene i et selskap som eier slik virksomhet. Virksomheten kan likevel fortsette på den tidligere bevilling i inntil tre måneder, så fremt bevillingsmyndigheten er underrettet om dette og det søkes om ny bevilling innen 30 dager etter overdragelsen. Dersom søknad om ny bevilling ikke er endelig avgjort av Helsedirektoratet innen saksbehandlingsfristen i § 10 annet ledd, kan Helsedirektoratet gi tillatelse til at det drives videre på den tidligere bevillingen i inntil ytterligere en måned.
+Bevillingen faller bort ved bevillingshaverens død. Dødsboet kan likevel fortsette virksomheten i henhold til den tidligere bevillingen i tre måneder etter dødsfallet dersom bevillingsmyndigheten underrettes om det, eller innen samme frist overdra tobakksvarer til bevillingshavere etter denne lov.
+Bevillingen faller bort ved bevillingshaverens konkurs.
+Departementet kan i forskrift gi nærmere bestemmelser om bortfall av bevilling.

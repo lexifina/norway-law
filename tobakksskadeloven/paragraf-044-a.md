@@ -1,0 +1,5 @@
+# § 44 a. Gebyr for røyking i private kjøretøy med barn til stede
+Gebyr for brudd på røykeforbudet i § 28 annet ledd bokstav c kan ilegges av politiet. Gebyr kan ilegges både fører av kjøretøyet og den som røyker, dersom vedkommende har fylt 18 år.
+Blir ilagt gebyr ikke betalt innen tre uker etter ileggelsen, forhøyes gebyret med 50 prosent. Dette gjelder selv om gebyret er påklaget. Gebyr ilagt i medhold av denne bestemmelsen er tvangsgrunnlag for utlegg.
+Ileggelse av gebyr kan innklages for tingretten innen tre uker. Blir klage fremsatt etter utløpet av fristen, skal den avvises med mindre retten finner at oversittelsen ikke kan legges den som er ilagt gebyret, til last og klagen er fremsatt så snart det var mulig. Retten kan oppheve ilagt gebyr hvis den finner at vilkårene for ileggelse ikke forelå. Avgjørelsen treffes ved kjennelse og kan ankes. Ileggelse av gebyr kan ikke prøves under tvangsinndrivelse av gebyret.
+Kongen kan i forskrift fastsette størrelsen på gebyret og nærmere regler om ileggelse og inndriving, betalingsfrist og klagebehandlingen.
