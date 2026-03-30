@@ -1,0 +1,2 @@
+# § 2-1. Anerkjennelse
+Personer omfattet av § 1-1 og som er innehaver av et gyldig yrkessjåførbevis utstedt av Ukraina som omtalt i § 1-2, kan etter søknad til Statens vegvesen få utstedt kompetansebevis for yrkessjåførkompetanse i henhold til Europaparlamentets og Rådets forordning (EU) 2022/1280 av 18. juli 2022 om spesifikke og midlertidige tiltak i lys av Russlands invasjon av Ukraina vedrørende førerdokumenter utstedt av Ukraina i overensstemmelse med landets lovgivning, når vilkårene i § 2-2 er oppfylt.
