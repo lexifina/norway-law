@@ -1,0 +1,2 @@
+# § 2-2. Utstedelse av identifikasjonsmerker
+ID-utstederen utpekt av Helsedirektoratet skal utstede entydige identifikasjonsmerker til tobakksvarer som bringes i omsetning i Norge. ID-utstederen skal også utstede entydige identifikasjonsmerker til tobakksvarer som produseres i Norge og plasseres på markedet i en annen EØS-stat som ikke har krav om nasjonal ID-utsteder, og til tobakksvarer som produseres i Norge og eksporteres ut av EØS-området.
