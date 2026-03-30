@@ -1,0 +1,3 @@
+# § 1-2. Definisjoner
+Med yrkessjåførbevis utstedt av Ukraina menes yrkessjåførbevis som omtalt i forordning (EU) 2022/1280, i overensstemmelse med Ukrainas nasjonale lovgivning, vedtatt med hensikt på gjennomførelse av direktiv (EU) 2022/2561, i tråd med artikkel 368 nr. 1 og bilag XXXII til assosieringsavtalen mellom Den Europeiske Union, Det Europeiske Atomenergiagentur og deres medlemsstater på den ene siden, og Ukraina på den andre siden, til førere av kjøretøy som utfører internasjonal godstransport eller persontransport på vei som omfattes av nevnte direktivs virkeområde.
+For øvrig vises det til definisjonene som følger av førerkortforskriften § 2-1.
