@@ -1,0 +1,3 @@
+# § 9. Krav til bevillingssøknaden
+Søkeren skal sammen med bevillingssøknaden fremlegge en uttømmende og utvidet politiattest for personer som nevnt i § 11, jf. politiregisterloven § 41. Attesten avgrenses til å omfatte overtredelser av tobakksskadeloven, alkoholloven, varemerkeloven, designloven, vareførselsloven, tollavgiftsloven, skatte-, avgifts- og regnskapslovgivningen, samt overtredelser av straffeloven 1902 kapittel 24, 25, 26, 27 og 31 og straffeloven 2005 kapittel 27, 30 og 31.
+Departementet kan i forskrift gi nærmere bestemmelser om hvilke krav som skal stilles til søknaden, herunder hvilken dokumentasjon som skal fremlegges.

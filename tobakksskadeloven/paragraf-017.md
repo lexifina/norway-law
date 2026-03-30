@@ -1,0 +1,4 @@
+# § 17. Aldersgrenser
+Det er forbudt å selge eller overlate tobakksvarer, tobakksutstyr, tobakkssurrogater eller tobakksimitasjoner til personer under 18 år. Det er også forbudt å innføre slike produkter for personer under 18 år. Er det tvil om personens alder, kan salg og innførsel bare finne sted dersom personen dokumenterer å ha fylt 18 år.
+Salg av tobakksvarer til forbruker kan bare foretas av personer over 18 år. Det samme gjelder salg av tobakksimitasjoner, tobakkssurrogater og tobakksutstyr. Dette gjelder likevel ikke hvis en person over 18 år har daglig tilsyn med salget.
+Departementet kan i forskrift gjøre unntak fra aldersgrensene fastsatt i første og annet ledd, samt gi bestemmelser om aldersgrensen for innførsel av tobakksvarer, tobakkssurrogater, tobakksimitasjoner og tobakksutstyr.

@@ -1,0 +1,3 @@
+# § 30. Standardisert utforming av pakninger og varer
+Det er forbudt å føre inn i Norge eller selge tobakkspakninger og tobakksvarer som ikke har standardisert utforming etter nærmere bestemmelser fastsatt av departementet i forskrift. Standardiseringen kan for eksempel gjelde farge, form, utseende, materiale og merking, herunder bruk av varemerke, logo og andre elementer knyttet til merkevarebygging.
+Departementet kan i forskrift fastsette krav om tilsvarende standardisering for tobakksutstyr og tobakkssurrogater, og gjøre unntak for enkelte produktkategorier. Departementet kan i forskrift sette begrensninger for hvilke typer utsalgssteder som kan selge varer som er gitt unntak fra standardiseringskravet.

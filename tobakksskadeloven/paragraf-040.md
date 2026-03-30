@@ -1,0 +1,2 @@
+# § 40. Opplysningsplikt om importører av tobakksvarer mv.
+Tolletaten og Skatteetaten skal uten hinder av lovbestemt taushetsplikt på forespørsel fra Helsedirektoratet gi de opplysninger som er nødvendige for at direktoratet skal kunne holde oversikt over hvem som driver import av tobakksvarer, tobakksimitasjoner, tobakkssurrogater og gjenoppfyllingsbeholdere, herunder opplysninger om kvantum og type produkter.
