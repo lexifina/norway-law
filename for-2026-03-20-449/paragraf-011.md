@@ -1,0 +1,2 @@
+# § 11. Utgifter ved valget
+Utgiftene til valget dekkes av foretaket.

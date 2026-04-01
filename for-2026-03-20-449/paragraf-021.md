@@ -1,0 +1,5 @@
+# § 21. Avtale om etablering og opphør av felles representasjonsordning
+Et konsern, et flertall av de ansatte eller lokal fagforening som representerer et flertall av de ansatte i konsernet kan inngå avtale om å etablere en felles representasjonsordning som innebærer at alle ansatte i konsernet er stemmeberettigede og valgbare ved valg til morforetakets styre, jf. statsføretakslova § 5-4.
+Det samme gjelder for gruppe av foretak som er knyttet sammen gjennom eierinteresser eller felles ledelse, jf. statsføretakslova § 5-4.
+Avtale om å etablere en felles representasjonsordning skal være skriftlig, og angi hvem som har inngått avtalen. Det kan ikke avtales at de ansatte skal si fra seg rett til representasjon etter statsføretakslova § 5-3.
+Konsernet og et flertall av de ansatte eller lokale fagforeninger som representerer et flertall av de ansatte kan på samme vilkår avtale opphør av felles representasjonsordning. Slik avtale kan også inngås for felles representasjonsordning som er etablert gjennom nemndsvedtak, dersom ordningen omfatter hele konsernet.
