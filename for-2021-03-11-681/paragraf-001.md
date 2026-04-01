@@ -1,0 +1,2 @@
+# § 1. Formål
+Vilt og fisk i statsallmenning skal forvaltes slik at hensynet til naturmangfoldet ivaretas. Innenfor denne ramme skal ressursen utvikles med sikte på å ivareta rettigheter etter fjellova, fremme det lokale næringslivet og sikre allmennhetens adgang til jakt, fiske og friluftsliv. Forskriften skal sikre at all jakt, felling, fangst og fiske i statsallmenning skal tilbys på en måte som er akseptabel for allmennheten.
