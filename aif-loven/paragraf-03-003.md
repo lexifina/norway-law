@@ -1,0 +1,5 @@
+# § 3-3. Interessekonflikter
+(1) Forvalteren skal søke å unngå at det oppstår interessekonflikter i tilknytning til virksomheten. Forvalteren skal treffe alle rimelige forholdsregler for å identifisere, håndtere og overvåke interessekonflikter som oppstår i forbindelse med forvaltning av alternative investeringsfond. Dette omfatter interessekonflikter mellom forvalter, herunder ansatte og tillitsvalgte, alternative investeringsfond under forvaltning, fondenes investorer, forvalterens øvrige kunder, UCITS under forvaltning, jf. verdipapirfondloven § 1-2 første ledd nr. 4, og andelseiere i slike UCITS.
+(2) Forvalteren skal ha organisatoriske skiller mellom virksomhetsområder som kan medføre systematiske interessekonflikter.
+(3) Dersom tiltakene som nevnt i første og annet ledd ikke er tilstrekkelige for å sikre investorenes interesser på en betryggende måte, skal forvalteren informere investorene om mulige interessekonflikter. Forvalteren kan ikke gjennomføre forretninger for investorenes regning før investoren har fått slike opplysninger.
+(4) Departementet kan i forskrift gi nærmere regler om interessekonflikter.

@@ -1,0 +1,2 @@
+# § 4-5. Melding om erverv av større eierandeler i unoterte selskaper
+Dersom et alternativt investeringsfonds andel av stemmene i et selskap som angitt i § 4-4 første ledd bokstav b når opp til, overstiger eller faller under 10 prosent, 20 prosent, 30 prosent, 50 prosent eller 75 prosent av stemmene i selskapet, skal fondets forvalter snarest mulig og senest innen ti virkedager gi melding til Finanstilsynet.

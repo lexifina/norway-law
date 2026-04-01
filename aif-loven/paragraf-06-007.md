@@ -1,0 +1,3 @@
+# § 6-7. Melding om markedssondering
+(1) Forvalter skal sende Finanstilsynet melding om markedssondering innen to uker etter oppstart. Meldingen skal angi i hvilke medlemsstater og i hvilken periode markedssonderingen skal foregå. Meldingen skal inneholde en kortfattet beskrivelse av markedssonderingen, herunder investeringsstrategier eller ideer, og en eventuell liste over aktuelle alternative investeringsfond eller andelsklasser.
+(2) Finanstilsynet skal uten ugrunnet opphold informere tilsynsmyndighetene i eventuelle andre EØS-stater der det skal foretas markedssonderinger. Forvalter skal på anmodning gi ytterligere opplysninger om markedssonderingen.

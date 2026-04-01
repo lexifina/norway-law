@@ -1,0 +1,5 @@
+# § 6-9. Melding om opphør av markedsføring av alternative investeringsfond i andre EØS-stater som forvaltes av forvalter etablert i Norge
+(1) Opphør av markedsføring av alternative investeringsfond markedsført i andre EØS-stater skal meldes til Finanstilsynet. Meldingen skal inneholde informasjon som viser at krav tilsvarende det som følger av § 6-8 første og annet ledd, er oppfylt.
+(2) Finanstilsynet skal innen 15 virkedager fra komplett melding etter første ledd er mottatt, oversende meldingen til vedkommende myndighet i de stater der markedsføringen skal opphøre. Finanstilsynet skal uten ugrunnet opphold informere forvalteren om at markedsføringen er avregistrert og at meldingen er videresendt.
+(3) Direkte og indirekte tilbud om investering i fondet skal opphøre senest på tidspunktet for Finanstilsynets oversendelse av opphørsmelding etter annet ledd. Avtaler med tredjeparter om distribusjon av fondsandeler skal være endret eller terminert senest på samme tidspunkt.
+(4) Forvalteren skal sørge for at eventuelle gjenværende investorer i fondet mottar informasjon som nevnt i artikkel 22 og 23 i Europaparlamentets og rådets direktiv 2011/61/EU.

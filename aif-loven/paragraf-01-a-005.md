@@ -1,0 +1,4 @@
+# § 1a-5. Gjennomføring av forordning om grensekryssende distribusjon av fond
+(1) EØS-avtalen vedlegg IX forordning (EU) 2019/1156 om tilrettelegging for distribusjon over landegrensene av innretninger for kollektiv investering og om endring av forordning (EU) nr. 345/2013, (EU) nr. 346/2013 og (EU) nr. 1286/2014, gjelder som norsk lov med de endringer og tillegg som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) Når det i loven her vises til forordning om grensekryssende distribusjon av fond, menes forordningen slik den til enhver tid er gjennomført og endret etter første eller tredje ledd.
+(3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her og i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført i første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.

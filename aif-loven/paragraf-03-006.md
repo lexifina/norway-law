@@ -1,0 +1,3 @@
+# § 3-6. Godtgjørelsesordninger
+(1) Forvalteren skal etablere og praktisere en godtgjørelsesordning som fremmer god og effektiv risikostyring og forvaltning i samsvar med investeringsmandatene for de alternative investeringsfondene som forvaltes. Godtgjørelsesordningen skal omfatte ansatte med vesentlig betydning for risikoprofilen til forvalteren eller fond under forvaltning, herunder ledende ansatte, ansatte med kontrolloppgaver samt ansatte med tilsvarende godtgjørelse som ledende ansatte. Godtgjørelsesordningen skal tilpasses virksomhetens art, omfang og kompleksitet.
+(2) Departementet kan i forskrift gi nærmere regler om godtgjørelsesordninger.

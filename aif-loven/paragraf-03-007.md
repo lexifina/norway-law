@@ -1,0 +1,5 @@
+# § 3-7. Risikostyring
+(1) Forvalteren skal ha en risikostyringsfunksjon som er adskilt fra forvalterens operative virksomhet.
+(2) Forvalteren skal ha systemer for risikostyring som løpende identifiserer, måler, styrer og overvåker alle risikoer som er relevante for investeringsstrategien til hvert av de alternative investeringsfondene som forvaltes, og som fondene kan bli eksponert for. Herunder skal forvalter ha prosedyrer for å vurdere investeringer på vegne av fondene i samsvar med investeringsstrategier, målsettinger og risikoprofil. Forvalteren skal sikre at risikoprofilen til hvert fond under forvaltning er i samsvar med fondets størrelse, porteføljestruktur, investeringsstrategi og investeringsmål som fastsatt i fondets vedtekter eller annet stiftelsesdokument, prospekt og tilbudsdokumenter, herunder ved bruk av stresstester.
+(3) Forvalteren skal vurdere risikostyringssystemene regelmessig og minst én gang i året.
+(4) Departementet kan i forskrift gi nærmere regler om risikostyring.

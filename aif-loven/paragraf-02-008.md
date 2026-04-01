@@ -1,0 +1,4 @@
+# § 2-8. Varslingsplikt og endringer i forutsetningene for tillatelsen
+(1) Forvalteren skal informere Finanstilsynet før det iverksettes vesentlige endringer i forutsetningene som lå til grunn for tillatelsen.
+(2) Forvalteren kan iverksette endringer etter første ledd med mindre Finanstilsynet innen én måned etter å ha mottatt informasjon har motsatt seg endringene eller fastsatt vilkår for endringene. Finanstilsynet kan forlenge fristen i første punktum med inntil én måned dersom særlige omstendigheter ved saken gjør det nødvendig. Finanstilsynet skal underrette forvalteren om fristforlengelsen.
+(3) Dersom en ekstern forvalter ikke kan sørge for at et alternativt investeringsfond eller noen som opptrer på fondets vegne, etterlever lovens krav, skal forvalteren straks informere Finanstilsynet og om nødvendig tilsynsmyndigheten for fondet.

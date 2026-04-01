@@ -1,0 +1,2 @@
+# § 8-3. Adgang for norske forvaltere til å forvalte alternative investeringsfond etablert utenfor EØS, som ikke markedsføres i EØS
+En forvalter med tillatelse etter § 2-2 kan forvalte alternativt investeringsfond som er etablert og kun markedsføres utenfor EØS, dersom det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i fondets hjemstat og Norge, og forvalteren overholder bestemmelser gitt i og i medhold av denne loven, med unntak av § 4-1 og kapittel 5.
