@@ -1,0 +1,4 @@
+# § 2-13. Daglig ledelse av Norges Banks forvaltning av Statens pensjonsfond utland
+(1) Hovedstyret skal ansette en daglig leder av Norges Banks forvaltning av Statens pensjonsfond utland på åremål for en periode på fem år. Åremålet kan gjentas for ytterligere én periode på inntil fem år.
+(2) Daglig leder står for den daglige ledelsen av Norges Banks forvaltning av Statens pensjonsfond utland og skal følge retningslinjer og pålegg fra hovedstyret. Den daglige ledelsen omfatter ikke saker som etter virksomhetens forhold er av uvanlig art eller stor betydning.
+(3) Daglig leder kan ellers avgjøre en sak etter fullmakt fra hovedstyret, eller når det er nødvendig at vedtak treffes raskt, og det ikke er tid eller anledning til å forelegge saken for hovedstyret. Daglig leder skal snarest skriftlig underrette hovedstyret om avgjørelsen.
