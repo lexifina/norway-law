@@ -1,0 +1,2 @@
+# § 3-6. Tilbaketrekking av betalingsmidler
+Norges Bank kan ved forskrift bestemme at sedler av en bestemt utgave og pålydende eller en bestemt myntsort skal opphøre å være tvungent betalingsmiddel fra en bestemt dato. Forskriften må kunngjøres minst ett år før opphørsdatoen. Banken kan innløse sedler og mynter som ikke lenger er tvungent betalingsmiddel. Banken kan gi forskrifter om hvordan innløsningen skal praktiseres, herunder om gebyr ved innløsning.

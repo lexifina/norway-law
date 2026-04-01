@@ -1,0 +1,3 @@
+# § 3-8. Kreditt til staten
+(1) Norges Bank kan ikke yte kreditt direkte til staten. Banken kan likevel yte kreditt til staten med løpetid innenfor en kalenderdag.
+(2) Første ledd første punktum er ikke til hinder for at Norges Bank kan yte kreditt med varighet på inntil 90 dager etter pålegg fra Kongen i statsråd når låneopptak er besluttet med hjemmel i lov om Statens pensjonsfond § 7 tredje ledd annet og tredje punktum og andre finansieringskilder er vanskelig tilgjengelige. Banken skal gis anledning til å uttale seg før vedtak treffes. Slike vedtak skal meddeles Stortinget så snart som mulig.

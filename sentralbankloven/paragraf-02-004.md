@@ -1,0 +1,9 @@
+# § 2-4. Hovedstyrets oppgaver
+(1) Styringen og driften av Norges Bank hører under hovedstyret, med unntak av saker som i eller i medhold av loven er lagt til komiteen for pengepolitikk og finansiell stabilitet. Hovedstyret har ansvaret for Norges Banks forvaltning av Statens pensjonsfond utland. Hovedstyret skal sørge for en forsvarlig og effektiv organisering av banken.
+(2) Hovedstyret skal fastsette planer og retningslinjer for Norges Banks virksomhet. Hovedstyret skal hvert år utarbeide forslag til budsjett for kommende driftsår, jf. § 4-2.
+(3) Hovedstyret skal påse at Norges Banks virksomhet, regnskapsavleggelse og formuesforvaltning blir betryggende styrt og kontrollert, og føre tilsyn med den daglige ledelsen og virksomheten for øvrig. Hovedstyret skal ikke føre tilsyn med komiteens utøvelse av skjønnsmyndighet.
+(4) Hovedstyret skal fastsette instrukser for den daglige ledelsen i sentralbankvirksomheten og Norges Banks forvaltning av Statens pensjonsfond utland.
+(5) Hovedstyret skal ha et revisjonsutvalg. Medlemmene av revisjonsutvalget velges av og blant hovedstyrets eksterne medlemmer. Departementet kan fastsette nærmere bestemmelser om revisjonsutvalget.
+(6) Hovedstyret kan oppnevne saksforberedende utvalg blant hovedstyrets medlemmer. Når et saksforberedende utvalg behandler administrative saker, skal de ansatte være representert i utvalget, jf. § 2-3 annet ledd.
+(7) Hovedstyret kan bestemme at forretningsmessig virksomhet som faller inn under loven og virksomhet som ledd i forvaltningen av Statens pensjonsfond utland, skal utøves av selskap som Norges Bank helt eller delvis eier. Hovedstyret representerer banken som eier i slike selskaper.
+(8) Hovedstyret har ansvar for Norges Banks beredskapsplaner. Komiteen for pengepolitikk og finansiell stabilitet skal gis anledning til å uttale seg før beredskapsplaner for finansielle kriser vedtas.
