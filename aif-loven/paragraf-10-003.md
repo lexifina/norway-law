@@ -1,0 +1,2 @@
+# § 10-3. Tilbakekall av tillatelse til å drive markedsføring i Norge
+Finanstilsynet kan kalle tilbake tillatelse til å markedsføre alternative investeringsfond i Norge gitt i medhold av § 6-4, § 6-5 eller § 7-1 dersom kravene i bestemmelsene ikke lenger er oppfylt, vilkår for tillatelsen er brutt eller regler fastsatt i medhold av § 6-6 er overtrådt. Finanstilsynet kan dessuten i særlige tilfeller kalle tilbake tillatelse etter § 7-1 av hensyn til å beskytte ikke-profesjonelle investorer.

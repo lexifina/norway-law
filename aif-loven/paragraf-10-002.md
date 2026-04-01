@@ -1,0 +1,5 @@
+# § 10-2. Pålegg om retting mv.
+(1) Finanstilsynet kan gi en forvalter som driver virksomhet, herunder markedsføring, etter § 6-3, § 6-4, § 6-5, § 6-8, § 7-1, § 7-7 eller § 8-2, pålegg om retting, herunder opphør av virksomhet her i landet, dersom virksomheten drives i strid med lov eller forskrift.
+(2) Før det gis pålegg etter første ledd skal tilsynsmyndighetene i forvalterens hjemstat varsles og gis anledning til å treffe tiltak for å bringe det lovstridige forholdet til opphør.
+(3) Hvis tiltak etter annet ledd ikke er tilstrekkelige til å bringe det lovstridige forholdet til opphør, kan Finanstilsynet treffe nødvendige tiltak, herunder for å hindre nye overtredelser. Før vedtak fattes skal Finanstilsynet varsle tilsynsmyndighetene i forvalterens hjemstat.
+(4) Finanstilsynet kan treffe nødvendige tiltak for å sikre finansiell stabilitet, markedets integritet eller beskytte investorer i Norge, dersom regler i forvalters hjemstat ikke følges. Før tiltak treffes skal tilsynsmyndighetene i forvalterens hjemstat varsles og gis anledning til å treffe tiltak for å bringe det lovstridige forholdet til opphør.

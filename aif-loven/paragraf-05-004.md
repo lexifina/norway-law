@@ -1,0 +1,5 @@
+# § 5-4. Ansvar
+(1) Depotmottakeren er ansvarlig overfor det alternative investeringsfondet og dets investorer for tap av finansielle instrumenter som oppbevares etter § 5-3 tredje ledd første punktum av depotmottakeren eller depotmottakerens oppdragstaker, med mindre tapet skyldes forhold utenfor depotmottakerens kontroll som depotmottakeren ikke med rimelighet kunne ventes å unngå eller overvinne følgene av.
+(2) Ved tap som nevnt i første ledd skal depotmottakeren uten ugrunnet opphold overføre et finansielt instrument av identisk type eller verdien av instrumentet til det alternative investeringsfondet, eventuelt til forvalter på vegne av fondet.
+(3) Depotmottakeren er ansvarlig overfor det alternative investeringsfondet og dets investorer for ethvert annet tap disse måtte lide som følge av at depotmottakeren uaktsomt eller forsettlig har misligholdt sine forpliktelser etter loven.
+(4) Departementet kan i forskrift gi nærmere regler om depotmottakerens ansvar og depotmottakerens adgang til å fraskrive seg ansvar.

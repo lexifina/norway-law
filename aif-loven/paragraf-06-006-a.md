@@ -1,0 +1,12 @@
+# § 6-6 a. Markedssondering
+(1) En forvalter kan foreta markedssondering etter de regler som følger av denne paragraf og § 6-7, uten at fondet er meldt for markedsføring etter § 6-1 eller § 6-2. Forvalter kan benytte verdipapirforetak, tilknyttede agenter av verdipapirforetak, kredittinstitusjoner, forvaltningsselskaper eller andre forvaltere av alternative investeringsfond til å utføre markedssonderinger. Kravene til markedssondering gjelder tilsvarende for disse foretakene.
+(2) Informasjon som benyttes ved markedssonderingen, skal ikke
+a) være tilstrekkelig til at potensielle investorer kan forplikte seg til å investere i fondet,
+b) utgjøre tegningsdokument eller lignende, heller ikke i form av utkast, eller
+c) utgjøre stiftelsesdokument, prospekt eller tilbudsdokument til et alternativt investeringsfond som ikke er etablert.
+(3) Utkast til prospekt og tilbudsdokument kan ikke være så fullstendig at investorer kan treffe en investeringsbeslutning. Utkast skal tydelig angi at dokumentasjonen ikke utgjør tilbud eller invitasjon til å tegne andeler, og at den er ufullstendig og kan endres.
+(4) Forvalteren skal sørge for at investorer ikke erverver andeler i fondet i forbindelse med markedssonderinger. Investorer som er kontaktet i forbindelse med markedssondering, kan kun erverve andeler i fondet etter at fondet er meldt for markedsføring etter § 6-1 eller § 6-2.
+(5) Enhver tegning fra investorer i fond som har vært gjenstand for markedssondering, eller i fond som er etablert som følge av markedssonderingen, skal inntil 18 måneder etter at markedssonderingen startet, regnes som resultat av markedsføring, og krever forutgående melding etter relevante bestemmelser i denne loven § 6-1 og § 6-2.
+(6) Markedssonderingen skal dokumenteres på en slik måte at Finanstilsynet kan kontrollere at reglene om markedssondering er fulgt.
+(7) Dersom et alternativt investeringsfond tidligere har vært markedsført i en annen EØS-stat etter § 6-2, kan en forvalter ikke utføre markedssondering for det samme fondet eller fond med lignende investeringsstrategier i den aktuelle staten før 36 måneder etter at melding om opphør av markedsføring ble sendt etter § 6-9 annet ledd.
+(8) Forvaltere etablert i tredjeland kan ikke foreta markedssondering i Norge. Det kan heller ikke foretas markedssondering i Norge av et fond som enten er etablert eller planlegges etablert i et tredjeland, eller av norske tilføringsfond til slike fond.

@@ -1,0 +1,7 @@
+# § 6-4. Markedsføring i Norge av alternative investeringsfond etablert utenfor EØS med forvalter etablert i EØS
+(1) En forvalter med tillatelse i Norge eller en annen EØS-stat og som forvalter alternativt investeringsfond som er etablert utenfor EØS, eller alternativt investeringsfond etablert i en EØS-stat som er tilføringsfond til et slikt fond, kan markedsføre fondet i Norge til profesjonelle investorer etter tillatelse fra Finanstilsynet. Slik tillatelse kan gis dersom:
+a) forvalteren overholder bestemmelser i og i medhold av denne lov, med unntak av reglene om depotmottaker i kapittel 5, men slik at forvalteren må dokumentere at et annet foretak enn forvalteren selv utfører depotmottakeroppgaver som nevnt i § 5-3 annet, tredje og fjerde ledd og forskrifter gitt med hjemmel i § 5-3,
+b) forvalteren gjør det som er nødvendig for her i riket å kunne foreta utbetalinger til investorene, innløse andeler og gi den informasjon som forvalteren skal utarbeide i henhold til reglene i hjemstaten,
+c) det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i fondets hjemstat og Norge,
+d) det alternative investeringsfondets hjemstat ikke er oppført av Financial Action Task Force on Money Laundering (FATF) som ikke-samarbeidende land.
+(2) Finanstilsynet kan stille vilkår for tillatelse etter første ledd for å sikre beskyttelsen av investorer i Norge, herunder vilkår om plikt til å gi opplysninger til investorer og myndigheter og om hvordan salg av andeler i Norge skal skje.

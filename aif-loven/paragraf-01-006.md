@@ -1,0 +1,2 @@
+# § 1-6. Behandling av personopplysninger i tilknytning til autorisasjonsordninger for ansatte
+Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og autoriserer personer som er ansatt hos en forvalter for et alternativt investeringsfond med tillatelse etter § 2-2, eller som er registreringspliktig etter § 1-4, kan behandle slike opplysninger som nevnt i personvernforordningen artikkel 10 som ledd i vurderingen av om en ansatt skal gis autorisasjon, fratas autorisasjon eller gis advarsel.

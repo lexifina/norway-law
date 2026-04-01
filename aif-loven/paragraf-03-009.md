@@ -1,0 +1,4 @@
+# § 3-9. Likviditetsstyring
+(1) Forvalteren skal for hvert alternativt investeringsfond den forvalter, bortsett fra for lukkede fond som ikke kan benytte seg av finansiell giring, ha et hensiktsmessig system for likviditetsstyring og retningslinjer for å overvåke likviditetsrisikoen for fondet og for å sikre at likviditetsprofilen til fondets investeringer svarer til fondets forpliktelser. Forvalteren skal regelmessig, både i normale og ekstraordinære situasjoner, foreta stresstester som gjør det mulig for forvalteren å vurdere og å overvåke fondenes likviditetsrisiko.
+(2) Forvalteren skal for hvert alternativt investeringsfond den forvalter, sørge for at investeringsstrategien, likviditetsprofilen og innløsningsadgangen stemmer overens.
+(3) Departementet kan i forskrift gi nærmere regler om likviditetsstyring.

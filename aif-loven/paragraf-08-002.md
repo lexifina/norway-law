@@ -1,0 +1,2 @@
+# § 8-2. Forvaltere etablert i annen EØS-stat
+Forvaltere etablert i annen EØS-stat med tillatelse til å forvalte alternative investeringsfond eller yte tjenester som nevnt i § 2-2 tredje og fjerde ledd, kan forvalte alternativt investeringsfond etablert i Norge eller yte tjenester som nevnt i § 2-2 tredje og fjerde ledd, fra det tidspunktet tilsynsmyndighetene i forvalterens hjemstat har underrettet forvalteren om at melding om virksomhet i Norge er sendt til Finanstilsynet.
