@@ -1,0 +1,4 @@
+# § 23. Tidsbegrenset avtale om unntak
+Foretaket eller konsernet og et flertall av de ansatte eller lokale fagforeninger som representerer et flertall av de ansatte kan inngå skriftlig tidsbegrenset avtale om unntak fra om ansattes rett til representasjon i styrende organer reglene i statsføretakslova og i denne forskriften. Slikt unntak kan gjelde for inntil to år. Det kan ikke avtales unntak fra kravet om kjønnssammensetning i statsføretakslova § 5-1 femte ledd.
+Avtalen skal være skriftlig, angi hvem som har inngått avtalen og hvor lenge den varer.
+Foretaket eller konsernet og et flertall av de ansatte eller lokale fagforeninger som representerer et flertall av de ansatte kan avtale endringer i avtale etter første ledd, men likevel slik at varigheten av unntak ikke samlet overskrider to år.
