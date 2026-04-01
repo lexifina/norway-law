@@ -1,0 +1,2 @@
+# § 6. Valutakurser og annen statistikk
+For å få opplysninger som er nødvendige for å sørge for at veiledende valutakurser mot norske kroner er tilgjengelige for offentligheten kan Norges Bank be rapportøren opplyse om blant annet omsetning og volum i valutamarkedet fordelt på valutaslag, motparter, instrumenter og løpetid. Tilsvarende opplysninger kan også innhentes til utarbeidelse av annen statistikk, som betalingsformidlingsstatistikk, verdipapirstatistikk og rentestatistikk.
