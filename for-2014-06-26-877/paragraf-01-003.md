@@ -1,0 +1,2 @@
+# § 1-3. Presisering av unntak fra deler av lov om forvaltning av alternative investeringsfond for forvaltere med samlet forvaltningskapital under visse terskelverdier
+Unntaket i lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond § 1-4 første ledd gjelder tilsvarende der forvaltningen skjer indirekte gjennom et selskap som forvalteren er forbundet med gjennom felles ledelse, kontroll eller en vesentlig direkte eller indirekte eierandel.

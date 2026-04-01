@@ -1,0 +1,3 @@
+# § 8-6. Utfyllende bestemmelser til forordning (EU) 345/2013 (EuVECA-forordningen)
+(1) EØS-avtalen vedlegg IX forordning (EU) nr. 593/2014 (om fastsettelse av tekniske standarder for meldinger etter artikkel 16 (1) i europarlaments- og rådsforordning (EU) nr. 345/2013) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) EØS-avtalen vedlegg IX forordning (EU) 2019/820 (om utfylling av europarlaments- og rådsforordning (EU) nr. 345/2013 med hensyn til interessekonflikter på området europeiske venturekapitalfond) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

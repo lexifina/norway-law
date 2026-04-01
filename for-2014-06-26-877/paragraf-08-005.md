@@ -1,0 +1,2 @@
+# § 8-5. Gjennomføring av forordning (EU) 2015/514
+EØS-avtalen vedlegg IX forordning (EU) 2015/514 (om de opplysninger vedkommende myndigheter skal oversende til Den europeiske verdipapir- og markedstilsynsmyndighet i henhold til artikkel 67 nr. 3 i europaparlaments- og rådsdirektiv 2011/61/EU) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

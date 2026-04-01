@@ -1,0 +1,2 @@
+# § 8-4. Gjennomføring av forordning (EU) nr. 448/2013
+EØS-avtalen vedlegg IX forordning (EU) nr. 448/2013 (om fastsettelse av en framgangsmåte for å bestemme referansemedlemsstaten for en AIF-forvalter etablert i en tredjestat i henhold til europaparlaments- og rådsdirektiv 2011/61/EU) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

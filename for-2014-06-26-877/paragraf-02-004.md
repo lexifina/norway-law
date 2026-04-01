@@ -1,0 +1,4 @@
+# § 2-4. Ansvarlig kapital
+(1) En forvalter som ikke har tillatelse til å yte aktiv forvaltning skal beregne sin ansvarlige kapital etter reglene i forskrift 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for forvaltningsselskap, AIF-forvaltere, oppgjørssentraler og pensjonsforetak.
+(2) Forvalters forvaltningskapital er den samlede andelsverdien til de alternative investeringsfondene under forvaltning, herunder andelsverdien til alternative investeringsfond hvor forvaltningen av fondet er utkontraktert til et annet foretak.
+(3) Finanstilsynet kan tilpasse kravet basert på faste kostnader dersom det skjer en vesentlig endring i forvalterens virksomhet i forhold til det foregående år. Hvis forvalteren har drevet virksomhet i mindre enn ett år, skal ansvarlig kapital tilsvare en fjerdedel av de faste kostnadene fastsatt i budsjettet for inneværende år.

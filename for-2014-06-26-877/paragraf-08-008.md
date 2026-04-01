@@ -1,0 +1,2 @@
+# § 8-8. Utfyllende bestemmelser til forordning (EU) 2015/760 (ELTIF-forordningen), som endret med forordning (EU) 2023/606
+EØS-avtalen vedlegg IX forordning (EU) 2018/480 og forordning (EU) 2024/2759 med utfyllende tekniske reguleringsstandarder til europaparlaments- og rådsforordning (EU) 2015/760 gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalene og avtalen for øvrig.
