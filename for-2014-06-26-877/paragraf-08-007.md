@@ -1,0 +1,3 @@
+# § 8-7. Utfyllende bestemmelser til forordning (EU) 346/2013 (EuSEF-forordningen)
+(1) EØS-avtalen vedlegg IX forordning (EU) nr. 594/2014 (om fastsettelse av tekniske standarder for meldinger etter artikkel 17 (1) i europarlaments- og rådsforordning (EU) nr. 346/2013) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) EØS-avtalen vedlegg IX forordning (EU) 2019/819 (om utfylling av europarlaments- og rådsforordning (EU) nr. 346/2013 med hensyn til håndtering av interessekonflikter, måling av sosial innvirkning og opplysninger til investorer på området fond for sosialt entreprenørskap) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

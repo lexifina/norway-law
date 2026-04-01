@@ -1,0 +1,12 @@
+# § 3-2. Gjennomføring av verdivurdering for eiendeler tilhørende fond under forvaltning
+(1) Verdivurdering av eiendeler som tilhører fond under forvaltning skal foretas av forvalteren selv, eller av en enhet som nevnt i fjerde ledd. Verdivurderingen skal utføres på en korrekt og uavhengig måte.
+(2) Forvaltere som selv foretar verdivurdering skal sørge for at oppgaven er organisatorisk adskilt fra forvalterens øvrige virksomhet, herunder porteføljeforvaltning. Forvalteren skal gjennom godtgjørelsesordninger og andre tiltak avhjelpe interessekonflikter og forhindre utilbørlig påvirkning av ansatte som utfører verdivurdering.
+(3) Finanstilsynet kan pålegge forvaltere som selv foretar verdivurdering å få verdivurderingen eller retningslinjene for verdivurdering kontrollert av en enhet som oppfyller vilkårene i fjerde ledd, eller av en revisor.
+(4) Dersom forvalteren har gitt en annen enhet i oppdrag å foreta verdivurdering, må oppdragstakeren være uavhengig av forvalteren, fondet og deres nærstående. Forvalteren skal kunne dokumentere:
+a) at oppdragstakeren er underlagt pliktig registrering etter lov, annen rettslig regulering eller retningslinjer for yrkesutøvelse,
+b) at oppdragstakeren har tilstrekkelige faglige kvalifikasjoner til å gjennomføre verdivurderingen på en effektiv måte og i tråd med gjeldende regler,
+c) at de generelle vilkårene for utkontraktering i lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond § 3-5 med tilhørende forskrifter er oppfylt.
+(5) Fondets depotmottaker kan ikke foreta verdivurdering, med mindre verdivurderingen skjer organisatorisk uavhengig av depotmottakerfunksjonen, potensielle interessekonflikter er korrekt identifisert, håndtert og overvåket, og fondets investorer er underrettet.
+(6) Oppdragstakeren kan ikke utkontraktere verdivurderingsfunksjonen videre.
+(7) Forvalteren er ansvarlig for korrekt verdivurdering av fondets eiendeler, beregning av andelsverdi og offentliggjøring av andelsverdi. Utkontrakteringen påvirker ikke forvalterens erstatningsansvar overfor fondet og investorene. Oppdragstakeren er erstatningsansvarlig overfor forvalteren for ethvert tap som forvalteren har lidt som følge av oppdragstakerens uaktsomhet.
+(8) Forvalteren skal underrette Finanstilsynet om utkontraktering av verdivurdering. Finanstilsynet kan kreve at det utpekes en annen oppdragstaker dersom vilkårene for utkontraktering ikke er oppfylt.

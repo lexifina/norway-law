@@ -1,0 +1,2 @@
+# § 1-4. Verdipapirhandellovens og verdipapirforskriftens anvendelse for forvaltere med tillatelse til å yte andre tjenester
+For forvaltere av alternative investeringsfond som har tillatelse til å yte tjenester etter lov om forvaltning av alternative investeringsfond § 2-2 tredje ledd og fjerde ledd bokstav a og b, gjelder verdipapirhandelloven § 9-16, § 9-18, § 9-19, § 9-38 til § 9-43 og § 9-46 til § 9-49, og § 10-9 til § 10-17 og forskrifter gitt i medhold av disse bestemmelsene så langt de passer.

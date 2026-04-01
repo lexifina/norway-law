@@ -1,0 +1,2 @@
+# § 3-3. Særlige regler for utenlandske forvaltere som driver virksomhet i Norge gjennom etablering av filial
+For forvaltere etablert i en annen EØS-stat som driver virksomhet som nevnt i lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond § 6-3 eller § 8-2 gjennom etablering av filial, gjelder reglene i loven § 3-2 og § 3-3 og forskrifter fastsatt i medhold av disse bestemmelsene.

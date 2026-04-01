@@ -1,0 +1,2 @@
+# § 8-1. Gjennomføring av forordning (EU) nr. 231/2013
+EØS-avtalen vedlegg IX forordning (EU) nr. 231/2013 (om utfylling av europaparlaments- og rådsdirektiv 2011/61/EU når det gjelder unntak, allmenne driftsvilkår, depotmottakere, finansiell giring, åpenhet og tilsyn) som endret ved forordning (EU) 2018/1618 og forordning (EU) 2021/1255, gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

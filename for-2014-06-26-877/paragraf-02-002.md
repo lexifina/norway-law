@@ -1,0 +1,2 @@
+# § 2-2. Behandling av søknad om tillatelse
+Avgjørelse av en søknad om tillatelse til å forvalte alternative investeringsfond skal meddeles søkeren så raskt som mulig, og senest innen tre måneder etter at fullstendig søknad er mottatt. Finanstilsynet kan forlenge fristen med inntil tre måneder dersom det er nødvendig på grunn av særskilte omstendigheter ved saken. Søkeren skal underrettes om fristforlengelsen.
