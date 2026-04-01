@@ -1,0 +1,4 @@
+# § 2. Retten til jakt, felling, fangst og fiske
+I statsallmenning skal personer som det siste året har vært og fremdeles er fast bosatt i Norge ha rett til jakt, felling, fangst og fiske. Andre personer kan ikke gis adgang til jakt, felling, fangst, eller fiske med faststående redskap eller oter.
+Dersom det ved jakt på småvilt uten hund, elg, hjort eller rådyr, jakt på og fangst av bever og gaupe og ved felling av bjørn, ulv og jerv er nødvendig å regulere antall jegere, skal det være en rimelig fordeling mellom innenbygdsboende og utenbygdsboende. Tilsvarende gjelder ved fiske med krok uten faststående redskap, likevel ikke fiske med oter. Med rimelig fordeling menes at inntil 60 prosent av kort og fellingstillatelser kan forbeholdes innenbygdsboende.
+Dersom fjellstyret tilbyr kort for jakt, fangst og fiske sammen med tilleggstjenester som for eksempel overnatting, bevertning eller transport, skal det samtidig tilbys kort uten slike tilleggstjenester
