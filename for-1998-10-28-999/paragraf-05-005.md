@@ -1,0 +1,6 @@
+# § 5-5. Bostyrers plikter i forbindelse med utbetalingen
+1) Bostyrer skal omgående foreta utbetaling av de tilkjente garantibeløp. Inntil slik utbetaling kan skje, oppbevares pengene på boets konto eller på konto i samsvar med § 4-2 nr 2.
+2) Bostyrer skal gjennomføre trekk i garantibeløp, herunder sende inn lønns- og trekkoppgaver, i forbindelse med de utbetalinger som blir foretatt, jf lønnsgarantiloven § 5 og regler for skattetrekk i garantibeløp. Ved utbetalingen skal innvilget bruttobeløp, skattetrekk og andre fradrag fremgå skriftlig. Etter krav fra arbeidstaker skal bostyrer gi nærmere skriftlig redegjørelse for beregningen.
+3) Bostyrer skal påse at det samlede utbetalte garantibeløp blir anmeldt i boet som statens regresskrav, jf lønnsgarantiloven § 6.
+4) Foreligger det krav som etter sin art er sjøpantberettiget, skal bostyrer straks etter konkursåpning undersøke om sjøpanteretten er eller kan gjøres gjeldende, eventuelt om tredjemann har påtatt seg ansvaret for hyrekravene. Er sjøpanteretten ikke gjort gjeldende, skal Arbeids- og velferdsetaten straks underrettes om dette.
+5) Arbeids- og velferdsetaten kan, når det finnes hensiktsmessig, pålegge bostyrer å medvirke til at sjøpanteretten blir gjort gjeldende. Godtgjøring for dette arbeidet fastsettes i samsvar med § 7-3.

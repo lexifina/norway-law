@@ -1,0 +1,8 @@
+# § 5-4. Bostyrers plikter i forbindelse med kontroll og oversendelse av krav
+1) Bostyrer skal
+a) motta og kontrollere arbeidstakernes søknader, og sørge for at feil og mangler blir rettet,
+b) sørge for at de fremsatte lønnskrav m.v. formelt blir registrert som krav i boet,
+c) på vegne av arbeidstakerne snarest mulig sende kontrollerte og forfalte krav på lønnsgarantidekning til Arbeids- og velferdsetaten i samsvar med bestemmelsene nedenfor. Søknadsblanketter som er utfylt av arbeidstakerne oversendes bare hvis Arbeids- og velferdsetaten av kontrollmessige grunner ber om det.
+2) Bostyrer skal overføre forfalte og kontrollerte krav til samleliste fastsatt av Arbeids- og velferdsetaten. Samlelisten oversendes Arbeids- og velferdsetaten sammen med utfylt oversendelsesblankett for bostyrere, fastsatt av Arbeids- og velferdsetaten. Bostyrer skal gi påtegning om sin innstilling eller om resultatet av prøvelse av fordringen.
+3) I boer hvor de nødvendige opplysninger for vurdering av arbeidstakernes krav kan innhentes på annen betryggende måte, kan bostyrer frita arbeidstakerne fra å fremsette søknadene på fastsatt blankett (se §§ 3-1 og 3-2). Arbeids- og velferdsetaten kan omgjøre bostyrers beslutning og sette som vilkår for lønnsgarantidekning at arbeidstakerne fyller ut blanketter i samsvar med bestemmelsene foran.
+4) Dersom bobehandlingen er avsluttet, jf konkursloven § 137, skal bostyrer likevel behandle søknader om lønnsgarantidekning i samsvar med bestemmelsene foran. Søknader som er mottatt etter fristen i § 3-4 nr 3 oversendes uten videre behandling til Arbeids- og velferdsetaten. Etter anmodning fra Arbeids- og velferdsetaten, skal bostyreren medvirke til ferdigbehandling av garantisakene. For bostyrers godtgjøring gjelder kap 7 tilsvarende.

@@ -1,0 +1,2 @@
+# § 1-3. Insolvent dødsbo, avvikling av insolvent selskap etter aksjeloven og banker og forsikringsselskaper under offentlig administrasjon
+Bestemmelsen i forskriften her gjelder tilsvarende ved skifte av insolvent dødsbo, avvikling av insolvent selskap etter aksjeloven § 16-15 og allmennaksjeloven § 16-15 og for banker og forsikringsselskaper under offentlig administrasjon. Reglene i forskriften her som gjelder bostyrer får tilsvarende anvendelse for administrasjonsstyret i banker og forsikringsselskaper under offentlig administrasjon.
