@@ -1,0 +1,11 @@
+# § 6. Midtsesongevaluering med forhåndsavtalte tiltak for laksefiske i vassdrag
+Lokal forvaltning skal gjennomføre midtsesongevaluering av laksefisket der dette framgår av vedlegg I. Statsforvalteren og lokal forvaltning i disse vassdragene skal inngå avtale om tiltak som lokal forvaltning skal iverksette inneværende sesong dersom midtsesongevalueringen viser at det er sannsynlig at gytebestandsmålet i vassdraget ikke nås det året.
+De forhåndsavtalte tiltakene skal medføre at beskatningen blir justert slik at gytebestandsmålet kan nås, eller at negativt avvik blir minst mulig, og skal være innenfor rammen av følgende handlingsalternativer:
+a) Dersom evalueringen viser at gytebestanden sannsynligvis blir mellom 90 % og 130 % av gytebestandsmålet er det ikke nødvendig at lokal forvaltning iverksetter tiltak.
+b) Dersom evalueringen viser at gytebestanden sannsynligvis blir mellom 50 % og 90 % av gytebestandsmålet skal beskatningen reduseres resten av fiskesesongen.
+c) Dersom evalueringen viser at gytebestanden sannsynligvis blir mindre enn 50 % av gytebestandsmålet skal beskatningen opphøre umiddelbart.
+Avtalen kan også inneholde tiltak som kan iverksettes dersom midtsesongevalueringen viser at det er sannsynlig at gytebestanden blir høyere enn 130 % av gytebestandsmålet for laksebestander med flere enn 500 oppvandrende voksne individer, og høyere enn 150 % for mindre bestander. I slike tilfeller kan lokal forvaltning øke fisketrykket, men likevel ikke slik at fisketida utvides utover 31. august inneværende år.
+Når det iverksettes tiltak som nevnt i andre ledd bokstav b og c samt tredje ledd, skal lokal forvaltning omgående orientere statsforvalteren og Statens naturoppsyn om hvilke tiltak som iverksettes.
+Lokal forvaltning skal sørge for at iverksatte tiltak blir kunngjort på eget nettsted eller annet egnet sted.
+Lokal forvaltning skal utføre midtsesongevalueringen i tråd med føringer gitt av Miljødirektoratet. Lokal forvaltning skal oversende resultatet av midtsesongevalueringen til statsforvalteren innen en frist fastsatt av statsforvalteren.
+Dersom lokal forvaltning ikke iverksetter tiltak i samsvar med andre ledd, eller øker fisketrykket utover det som følger av tredje ledd, kan Miljødirektoratet fastsette nye fiskebestemmelser, uten lokal involvering.
