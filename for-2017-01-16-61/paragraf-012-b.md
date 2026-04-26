@@ -1,0 +1,5 @@
+# § 12b. Beregning av tilbud om økt kapasitet
+Tilbudet om økt kapasitet kan omfatte de tillatelsene som er knyttet til lokaliteten som oppfyller vilkårene i § 12. Tilbudets størrelse avgrenses i utgangspunktet til andelen av den samlede tilknyttede tillatelseskapasiteten som faktisk er benyttet på lokaliteten i kvalifikasjonsperioden og beregnes slik:
+Gjennomsnittlig samlet vekstøkning på fisk i sjø per år på lokaliteten i kvalifikasjonsperioden divideres med snittet for selskapets dokumenterte kapasitetsutnyttelse i det produksjonsområdet lokaliteten tilhører. Resultatet multipliseres med inntil 6 prosent. Dødfisk og annet tap av fisk i beregningsperioden tas ikke med i beregningen av samlet vektøkning.
+Der selskapet ikke i tilstrekkelig grad har dokumentert snittet for kapasitetsutnyttelse, kan en faktor for kapasitetsutnyttelse fastsatt av departementet legges til grunn for beregningen av tilbudets størrelse.
+Hver tillatelse kan maksimalt økes med seks prosent i hver tildelingsrunde.
