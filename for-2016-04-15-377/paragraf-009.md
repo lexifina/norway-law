@@ -1,0 +1,3 @@
+# § 9. Spesielle krav til maritimt radioutstyr i tjenesten Automatic Identification System (AIS)
+Radioutstyr som skal brukes i den maritime mobile tjeneste eller i den maritime mobile satellittjeneste som definert i Den internasjonale teleunions radioreglement artiklene 1.28 og 1.29, skal konstrueres slik at det fungerer korrekt i det miljø det er beregnet for.
+Radioutstyr omfattet av første ledd, som skal brukes i tjenesten AIS som beskrevet i bestemmelse 19 i kapittel V i SOLAS og som skal brukes om bord på ikke-SOLAS skip eller på landstasjoner, skal oppfylle alle relevante operasjonelle krav til AIS.

@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med forskriften er å sikre at det indre marked fungerer, og at radioutstyr har en tilstrekkelig grad av elektromagnetisk kompatibilitet, utnytter frekvensspekteret på en effektiv måte og tilfredsstiller krav til sikkerhet for liv og helse for personer og husdyr, og beskyttelse av eiendom. Forskriften skal sikre tilgang til nødtjeneste og felles ladegrensesnitt. Forskriften skal også sikre beskyttelse av nettet, beskyttelse av personopplysninger og beskyttelse mot svindel.

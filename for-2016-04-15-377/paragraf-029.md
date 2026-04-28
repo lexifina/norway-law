@@ -1,0 +1,4 @@
+# § 29. Utpeking av teknisk kontrollorgan
+Digitaliserings- og forvaltningsdepartementet utpeker teknisk kontrollorgan for radioutstyr som omfattes av forskriften etter lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar.
+Søknad om utpeking som teknisk kontrollorgan skal sendes til Digitaliserings- og forvaltningsdepartementet. Søknaden skal inneholde en beskrivelse av de samsvarsvurderingsoppgaver, samsvarsvurderingsmoduler og radioutstyr som teknisk kontrollorgan hevder å være kompetent til. Der det finnes akkrediteringssertifikat utstedt av Norsk akkreditering som erklærer at teknisk kontrollorgan oppfyller vilkårene i § 30 og § 31 skal dette legges ved søknaden.
+Der det ikke finnes akkrediteringssertifikat skal teknisk kontrollorgan legge frem tilstrekkelig dokumentasjon som er nødvendig for å kunne kontrollere, verifisere og føre tilsyn med at kravene i § 30 og § 31 er oppfylt.

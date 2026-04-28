@@ -1,0 +1,3 @@
+# § 11a. Spesielle krav til håndholdte mobiltelefoner for å sikre lokalisering ved nødkommunikasjon
+Håndholdte mobiltelefoner skal konstrueres slik at det sikres mottak og behandling av Wi-Fi-data, data fra globale satellittnavigasjonssystemer som minimum er kompatible og samvirkende med Galileo-systemet og at det gis tilgang til disse dataene for overføring i forbindelse med nødkommunikasjon.
+Med håndholdte mobiltelefoner i første ledd menes mobiltelefoner som har funksjonalitet tilsvarende en datamaskin for så vidt gjelder evne til å behandle og lagre data. Med Galileo-systemet menes det globale satellittnavigasjonssystemet eid og kontrollert av Den europeiske union.
