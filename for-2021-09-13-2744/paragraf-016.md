@@ -1,0 +1,3 @@
+# § 16. Gjennomføring av statsautorisasjonsprøve i tolking
+OsloMet – storbyuniversitetet er administrativ myndighet for gjennomføringen av statsautorisasjonsprøven i tolking. For gjennomføringen av statsautorisasjonsprøven i tolking i samiske språk er Samisk høgskole / Sámi allaskuvla administrativ myndighet.
+De administrative myndighetene skal oppnevne en prøvenemnd sammensatt av en leder, tre sensorer og to personer som spiller rollen som tolkebrukere ved gjennomføring av prøven. Prøvenemnda skal utarbeide oppgaver og sensorveiledninger, gjennomføre prøven og evaluere kandidatenes prestasjoner. Sensorene avgjør om prøven er bestått.
