@@ -1,0 +1,6 @@
+# § 13. Autorisert representant i EØS
+Produsenten kan ved skriftlig fullmakt gi en autorisert representant i EØS fullmakt til å opptre på vegne av produsenten. Den autoriserte representanten kan ikke gis fullmakt til å påta seg ansvaret for kravene til utarbeidelse av teknisk dokumentasjon i § 27, eller ansvar for å sikre at radioutstyret er konstruert og produsert i samsvar med de grunnleggende kravene i § 6.
+Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til å
+a) stille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble bragt i omsetning,
+b) på anmodning fra Nasjonal kommunikasjonsmyndighet å legge frem informasjon og dokumentasjon på at radioutstyret er i samsvar med kravene i forskriften,
+c) på anmodning å samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved radioutstyret.

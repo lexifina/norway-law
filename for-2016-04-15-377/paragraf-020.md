@@ -1,0 +1,5 @@
+# § 20. Modul C – samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll
+Når produsent anvender samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll for å erklære at radioutstyr er i samsvar med radioutstyrstypen som fremgår av et EU-typeprøvingssertifikat og oppfyller de grunnleggende kravene i forskriften § 6 skal
+a) produsent besørge en forsvarlig produksjonsprosess for å sikre at radioutstyret er i samsvar med den godkjente radioutstyrstypen beskrevet i EU-typesprøvingsertifikatet og med relevante krav i forskriften,
+b) produsent eller dennes autoriserte representant i EØS påføre CE-merking i henhold til § 28 på radioutstyr som oppfyller kravene i forskriften,
+c) produsent eller dennes autoriserte representant i EØS utstede samsvarserklæring i henhold til § 26 og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at utstyret ble brakt i omsetning. I samsvarserklæringen skal det angis hvilken radioutstyrstype den er utarbeidet for.
