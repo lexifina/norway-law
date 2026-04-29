@@ -1,0 +1,3 @@
+# § 11. Tilbakebetaling og renter
+Dersom tilskuddsmottaker som følge av manglende oppfyllelse av vilkår i denne forskriften, vedtaket eller av andre grunner har mottatt et tilskudd som ikke er berettiget, kan utbetalingene av tilskudd reduseres, stanses, eller kreves helt eller delvis tilbake.
+For tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forfall. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet mottaker burde ha skjønt at vilkårene for å få tilskuddet ikke var oppfylt, tidligst fra utbetalingen av det urettmessige tilskuddet. Størrelsen på renten følger rentesatsen fastsatt i forskrift med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
