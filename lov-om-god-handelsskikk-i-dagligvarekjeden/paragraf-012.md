@@ -1,0 +1,3 @@
+# § 12. Opplysningsplikt
+Enhver har plikt til å gi Konkurransetilsynet og Konkurranseklagenemnda de opplysninger som disse myndigheter krever for å kunne utføre sine gjøremål etter loven. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist, og kan nedtegnes og lagres som lydopptak. Konkurransetilsynet og Konkurranseklagenemnda kan også kreve utlevert alle typer informasjon og bærere av slik informasjon for gransking.
+Taushetsplikten som følger av lov, pålegg eller avtale, er ikke til hinder for opplysningsplikten eller retten til å foreta gransking etter første ledd. Dette gjelder likevel ikke opplysninger, informasjon eller bærere av informasjon som er omfattet av taushetsplikten som nevnt i straffeprosessloven §§ 117 til 120.
