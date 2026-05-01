@@ -1,0 +1,4 @@
+# § 4. Hvem som fastsetter salæret
+Salær for å ha tjenestegjort som offentlig forsvarer eller aktor i straffesak, som advokat for fornærmede, som prosessfullmektig i benefisert sak eller som sakkyndig i straffesak eller sivil sak, fastsettes av den rett som har hatt saken til behandling. Dersom det er holdt rettergangsskritt ved en annen domstol enn den som har hatt hovedsaken, er det den rett som har hatt det rettergangsskritt arbeidsoppgaven gjelder som skal fastsette og utbetale salæret for dette.
+I andre saker etter lov om fri rettshjelp fastsettes salæret av det forvaltningsorgan som innvilget fri rettshjelp. I saker med fritt rettsråd der advokaten eller rettshjelperen selv har innvilget rettshjelpen, skal salæret likevel fastsettes av statsforvalteren.
+Salær til sakkyndig som gjør tjeneste for påtalemyndigheten fastsettes av vedkommende politimester.
