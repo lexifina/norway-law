@@ -1,0 +1,5 @@
+# § 1. Hvem forskriften gjelder for
+Forskriften gjelder for fastsettelse av salær til offentlig oppnevnt forsvarer, privat antatt forsvarer som tilkommer offentlig salær, oppnevnt advokat for fornærmede i straffesaker, advokater uten fast lønn fra det offentlige som gjør tjeneste som aktor samt advokat/prosessfullmektig og andre som yter rettshjelp etter lov om fri rettshjelp. Forskriften gjelder likevel ikke for aktorer, forsvarere og advokat for fornærmede i straffesaker for Høyesterett.
+Forskriften gjelder også salær til oppnevnte sakkyndige og rettstolker i saker for andre domstoler enn Høyesterett, sakkyndige/institusjoner og tolker som gjør tjeneste for påtalemyndigheten samt til sakkyndige, tolker eller andre som yter bistand etter lov om fri rettshjelp. Forskriften gjelder likevel ikke translatøroppdrag.
+Forskriften gjelder videre for helsepersonell som utfører kroppslig undersøkelse i medhold av straffeprosessloven § 157 og fengselsloven § 30a.
+Justisdepartementet kan for særskilte advokat- eller forsvarervaktordninger gi egne regler om salær.

@@ -1,0 +1,2 @@
+# § 14. Overgangsbestemmelse
+Forskriften får anvendelse på alle salærfastsettelser og øvrige vedtak truffet i medhold av forskriften som foretas etter ikrafttredelsen. Forskriften §§ 8 og 9 gjelder likevel ikke der oppdraget er påbegynt eller oppnevnelsen er foretatt før ikrafttredelsen. Forskriften § 2 første ledd gjelder ikke for tolker som etter forskrift om salær fra det offentlige til advokater m.v. av 26. oktober 1992 nr. 969 var berettiget til full sats. I disse tilfellene anvendes forskrift av 26. oktober 1992 nr. 969 §§ 3, 7 og 8.
