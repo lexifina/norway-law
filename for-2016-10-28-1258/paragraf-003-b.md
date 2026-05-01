@@ -1,0 +1,4 @@
+# § 3b. Obligatorisk bruk av nettportalen for rettsoppnevnte sakkyndige og tolker
+Rettsoppnevnte sakkyndige og tolker plikter å registrere seg som bruker i nettportalen etter oppnevning fra en av domstolene som omfattes av forskriften. Rettsoppnevnte sakkyndige og tolker skal sende inn salærkrav knyttet til oppdrag i domstolene i nettportalen.
+I saker hvor det gjelder plikt som nevnt i første ledd, kan domstolen, om bruk av nettportalen medfører uforholdsmessige merkostnader eller ulemper for den salærberettigede, beslutte at salærkravet ikke må sendes inn gjennom nettportalen.
+Dersom kommunikasjonen i nettportalen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet, kan Domstoladministrasjonen for et avgrenset tidsrom beslutte at en bestemt del av eller alle salærkrav til én eller flere domstoler ikke skal behandles i nettportalen.

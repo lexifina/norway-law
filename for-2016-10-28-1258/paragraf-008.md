@@ -1,0 +1,2 @@
+# § 8. Fristavbrudd
+Skal en prosesshandling foretas innen en frist, avbrytes fristen når prosesshandlingen er foretatt ved elektronisk innsendelse gjennom nettportalen. Dersom den elektroniske innsendelsen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet i nettportalen, kan fristen avbrytes ved forsendelse til den aktuelle domstolens elektroniske adresse etterfulgt av elektronisk innsendelse gjennom nettportalen når driftsforstyrrelsen eller den tekniske ustabiliteten er opphørt.
