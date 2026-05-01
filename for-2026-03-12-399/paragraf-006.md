@@ -1,0 +1,3 @@
+# § 6. Kalibrering og sporbarhet
+Utstyr som brukes av den ansvarlige eller eksterne til å gjennomføre systematisk kontroll og overvåkning etter § 4 bokstav d) og til å korrigere avvik etter § 4 bokstav e) skal være kalibrert med sporbarhet til det internasjonale systemet for målenheter (SI-systemet), når slikt utstyr påvirker måleredskaper eller målinger omfattet av internkontrollsystemet. Utstyret skal ha en nøyaktighet som kan brukes for å dokumentere at krav i det måletekniske regelverket er oppfylt.
+Utstyret skal ha et program for kalibrering eller verifikasjon av parametere som har vesentlig innvirkning på måleresultatene.
