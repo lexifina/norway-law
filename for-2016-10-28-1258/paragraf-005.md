@@ -1,0 +1,3 @@
+# § 5. Nettportal for elektronisk innlevering og mottak av dokumenter
+Domstoladministrasjonen skal etablere og drive nettportalen for kommunikasjon mellom domstolen og registrert bruker. Nettportalen skal være tilgjengelig for registrert bruker og portalmedhjelper ved pålogging på domstolenes internettsider.
+Gjennom nettportalen skal bruker kunne signere og levere inn dokumenter og motta dokumenter, forkynnelser og andre meddelelser fra retten. Saksinformasjon, dokumentliste og saksdokumenter i verserende saker skal være tilgjengelige for bruker gjennom nettportalen. Informasjon og dokumenter lagres ikke i nettportalen, men i domstolenes alminnelige fagsystem.
