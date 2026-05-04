@@ -1,0 +1,2 @@
+# § 1. TSI TEL-forordningen
+Forordning (EU) 2026/253 om en teknisk spesifikasjon for delsystemet «Telematikk» i Den europeiske unions jernbanesystem for interoperabilitet ved datadeling i forbindelse med jernbanetransport (TEL TSI), som inntatt i EØS-avtalen vedlegg XIII nr. 37pg, gjelder som forskrift. Forordningen gjelder med de tilpasningene som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
