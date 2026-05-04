@@ -1,0 +1,4 @@
+# § 4. Kvoteutnyttelse
+Hvert fartøy kan bare fiske og lande én kvote av de enkelte fiskeslag innenfor kvoteåret.
+Dersom fartøyeier i åpen gruppe skifter ut sitt fartøy, skal det gjøres fradrag i kvoten som tildeles det ervervede fartøyet for det kvantum fartøyeier har fisket og landet innenfor kvoteåret med fartøyet som skiftes ut. Uten hinder av første ledd kan fartøyeier fiske med det ervervede fartøyet selv om tidligere eier har fisket og levert fangst med samme fartøy innenfor kvoteåret, men det skal da gjøres fradrag i kvoten for det kvantum selger av utskiftingsfartøyet har fisket og landet i kvoteåret med fartøyet. Når det kan gjøres fradrag både etter første og annet punktum, skal bare det kvantumet som er størst trekkes fra.
+Dersom det er foretatt utskifting flere ganger i løpet av kvoteåret, skal det så langt det passer tas høyde for dette ved fradrag i kvoten etter annet ledd.
