@@ -1,0 +1,4 @@
+# Artikkel 17 Sporbarhet
+1. Det bør sikres at materialer og gjenstander kan spores i alle ledd for å forenkle kontroll, tilbaketrekking fra markedet av mangelfulle produkter, forbrukeropplysning og plassering av ansvar.
+2. Samtidig som det tas hensyn til teknisk gjennomførbarhet, skal driftsansvarlige for foretak ha innført systemer og framgangsmåter som gjør det mulig å identifisere fra og til hvilke foretak det er levert materialer og gjenstander, og eventuelt stoffer eller produkter, som omfattes av denne forordning og dens gjennomføringstiltak og som inngår i framstillingen av materialene og gjenstandene. Opplysningene skal på anmodning stilles til rådighet for vedkommende myndigheter.
+3. Materialer og gjenstander som omsettes i Fellesskapet skal kunne identifiseres gjennom et hensiktsmessig system som gjør det mulig å spore dem via merking eller relevant dokumentasjon eller informasjon.

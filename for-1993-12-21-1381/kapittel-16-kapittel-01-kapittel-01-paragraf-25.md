@@ -1,0 +1,2 @@
+# Artikkel 25 Sanksjoner
+Medlemsstatene skal fastsette bestemmelser om de sanksjoner som får anvendelse ved brudd på bestemmelsene i denne forordning, og de skal treffe de nødvendige tiltak for å sikre at sanksjonene gjennomføres. De fastsatte sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende. Medlemsstatene skal underrette Kommisjonen om de relevante bestemmelser innen 13. mai 2005 og om eventuelle senere endringer så snart som mulig.

@@ -1,0 +1,2 @@
+# § 2d. Gjennomføring av forordning (EU) 2022/1616 om materialer og gjenstander av materialgjenvunnet plast beregnet på å komme i kontakt med næringsmidler
+EØS-avtalen vedlegg II kapittel XII nr. 56 (forordning (EU) 2022/1616 som endret ved forordning (EU) 2025/351 og forordning (EU) 2025/2269 om materialer og gjenstander av materialgjenvunnet plast beregnet på å komme i kontakt med næringsmidler, og om oppheving av forordning (EF) nr. 282/2008) gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

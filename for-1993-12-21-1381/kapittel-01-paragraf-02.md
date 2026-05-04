@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av forordning (EF) nr. 1935/2004
+EØS-avtalens vedlegg II kap. XII nr. 54zzt (forordning (EF) nr. 1935/2004 som endret ved forordning (EU) 2019/1381) om materialer og gjenstander i kontakt med næringsmidler og om opphevelse av direktiv 80/590/EØF og direktiv 89/109/EØF gjelder som norsk forskrift med de generelle tilpasninger som følger av EØS-avtalens protokoll 1 og EØS-avtalen for øvrig.

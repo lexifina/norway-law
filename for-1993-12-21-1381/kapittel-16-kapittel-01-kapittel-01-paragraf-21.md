@@ -1,0 +1,2 @@
+# Artikkel 21 Felles bruk av eksisterende opplysninger
+Opplysninger gitt i en søknad levert i samsvar med artikkel 9 nr. 1, artikkel 10 nr. 2 og artikkel 12 nr. 2 kan brukes av en annen søker, forutsatt at Myndigheten anser at stoffet er det samme som i den opprinnelige søknaden, også med hensyn til renhetsgrad og arten av urenheter, og at den andre søkeren er blitt enig med den opprinnelige søkeren om at opplysningene kan brukes.

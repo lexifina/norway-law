@@ -1,0 +1,2 @@
+# § 26b. Gjennomføring av forordning (EF) nr. 1895/2005
+EØS-avtalens vedlegg II kap. XII nr. 54zzw (forordning (EF) nr. 1895/2005) av 18. november 2005 om begrensning i bruken av visse epoksyderivater i materialer og gjenstander bestemt til kontakt med næringsmidler gjelder som forskrift, med de EØS-tilpasninger som følger av vedlegg I kapittel II, protokoll 1 til avtalen og EØS-avtalen for øvrig.

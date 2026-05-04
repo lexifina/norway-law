@@ -1,0 +1,18 @@
+# RÅDSDIREKTIV 82/711/EØF av 18. oktober 1982 om fastsettelse av nødvendige grunnregler for undersøkelse av migrasjon av bestanddeler fra plastmaterialer og plastgjenstander beregnet på å komme i kontakt med næringsmidler
+RÅDET FOR DE EUROPEISKE FELLESSKAP HAR –
+under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap,
+under henvisning til rådsdirektiv 76/893/EØF av 23. november 1976 om tilnærming av medlemsstatenes lovgivning om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler [EFT nr. L 340 av 9.12.1976, s. 19.], særlig artikkel 3,
+under henvisning til forslag fra Kommisjonen,
+under henvisning til uttalelse fra Europaparlamentet [EFT nr. C 140 av 5.6.1979, s. 173.],
+under henvisning til uttalelse fra Den økonomiske og sosiale komité [EFT nr. C 227 av 10.9.1979, s. 31.], og
+ut fra følgende betraktninger:
+I direktiv 76/893/EØF artikkel 2 er det blant annet fastsatt at materialer og gjenstander ikke må overføre bestanddeler til næringsmidler i slike mengder at det kan utgjøre en fare for menneskers helse eller føre til en uakseptabel endring i næringsmidlenes sammensetning.
+Med hensyn til plastmaterialer er det beste middel for å nå dette målet å vedta et særdirektiv i henhold til direktiv 76/893/EØF artikkel 3, hvis alminnelige regler får anvendelse også på det foreliggende tilfellet.
+På grunn av problemets kompleksitet bør direktivet i første omgang begrenses til å fastsette grunnleggende regler for kontroll av migrasjon av bestanddeler. Senere direktiver, som skal vedtas etter fremgangsmåten fastsatt i direktiv 76/893/EØF artikkel 10, vil fastsette de nødvendige analysemetoder for kontroll av slik migrasjon.
+Dette direktiv omfatter ikke alle sider ved plastmaterialer og plastgjenstan der. Medlemsstatene må derfor gis tillatelse til å unnlate å kreve merkingsopplysninger som fastsatt i direktiv 76/893/EØF artikkel 7, i samsvar med nr. 4 og 5 i den nevnte artikkel samt til å forby markedsføring av materialer og gjenstander som, selv om de er i samsvar med standardene i nevnte direktiv, ikke er i samsvar med nasjonale bestemmelser om de øvrige standarder nevnt i artikkel 3, eller dersom slike regler ikke finnes, med nevnte direktiv artikkel 2.
+På grunn av de analysemessige vanskelighetene forbundet med å bestemme migrasjonsnivået i næringsmidler, bør konvensjonelle kontrollmetoder velges (væsker som kan simulere innvirkning på næringsmidler og standard prøvevilkår) slik at den migrasjon som kan oppstå ved kontakt mellom gjenstander og næringsmidler, så godt som mulig kan gjengis.
+Dersom det skulle vise seg at slike prøver ikke avspeiler de faktiske forhold, bør medlemsstatene gis tillatelse til å endre dem midlertidig i påvente av en fellesskapsbeslutning.
+Med dagens analysemetoder er det ikke mulig å fastsette alle vilkår som bør gjelde ved konvensjonelle migrasjonsundersøkelser av materialer og gjenstander som består av to eller flere lag, der minst ett lag ikke består av plast alene. Det bør derfor på et senere tidspunkt treffes beslutning om dette direktivs anvendelse på slike materialer og gjenstander.
+Tilpasning av dette direktiv til den tekniske utvikling er et gjennomfør ingstiltak som bør foretas av Kommisjonen, for å forenkle og fremskynde saksgangen.
+I alle tilfeller der Rådet gir Kommisjonen myndighet til å gjennomføre bestemmelsene om plastmaterialer og plastgjenstander beregnet på å komme i kontakt med næringsmidler, bør det fastsettes en fremgangsmåte der det opprettes et nært samarbeid mellom medlemsstatene og Kommisjonen i Den faste komité for næringsmidler, nedsatt ved beslutning 69/414/EØF [EFT nr. L 291 av 19.11.1969, s. 9] –
+VEDTATT DETTE DIREKTIV:

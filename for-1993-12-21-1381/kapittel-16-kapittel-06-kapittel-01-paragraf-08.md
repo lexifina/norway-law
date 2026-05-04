@@ -1,0 +1,11 @@
+# Artikkel 9 Kontroll av samsvar med kravene i denne forordningen
+1. For verifisering av at kravene i denne forordningen overholdes, skal det velges egnede forsøksmetoder i samsvar med artikkel 34 i europaparlaments- og rådsforordning (EU) 2017/625.
+2. ►M1 For valg av metoder som brukes til å verifisere at et materiale eller en gjenstand som kommer i kontakt med næringsmidler, ikke inneholder restmengder av BPA, en annen farlig bisfenol eller et farlig bisfenolderivat, eller ikke avgir disse stoffene til næringsmidler over den angitte påvisningsgrensen eller den spesifikke migrasjonsgrensen, gjelder følgende tilleggsregler:
+a) Dersom Den europeiske unions referanselaboratorium (EURL) for materialer som kommer i kontakt med næringsmidler har utviklet eller anbefalt en metode, skal denne metoden brukes.
+b) En metode skal ha en påvisningsgrense på 1 μg/kg med mindre en annen påvisningsgrense er fastsatt i vedlegg II, eller som del av den metoden som anbefales i samsvar med bokstav a).
+c) For å verifisere at et materiale eller en gjenstand som kommer i kontakt med næringsmidler ikke inneholder restmengder av BPA, en annen farlig bisfenol eller et farlig bisfenolderivat, skal det brukes en ekstraksjonsmetode. ◄M1
+3. Den europeiske unions referanselaboratorium for materialer som kommer i kontakt med næringsmidler skal holde samråd med de nasjonale referanselaboratoriene og relevante interessenter for å identifisere mulige metoder med henblikk på nr. 2. Dersom det konkluderer med at det ikke finnes noen egnet metode på unionsplan for et særlig verifiseringsformål i henhold til nr. 2, skal den fullføre utviklingen av en slik metode innen en dato som avtales med Kommisjonen.
+4. Følgende regler får anvendelse med henblikk på verifisering av spesifikke grenser for påvisning eller migrasjon:
+a) Forsøksresultatene skal angis i samsvar med reglene fastsatt i artikkel 17 i forordning (EU) nr. 10/2011.
+b) Overholdelse av en migrasjonsgrense skal fastslås i samsvar med artikkel 18, vedlegg III og kapittel 1 og 2 i vedlegg V til forordning (EU) nr. 10/2011.
+c) I tilfelle den forutsigbare kontakten skjer under forhold med kontinuerlig gjennomstrømning, som i rør eller filtreringsenheter, skal forsøkstiden være lik næringsmiddelets gjennomsnittlige oppholdstid i røret eller filtreringsenheten.
