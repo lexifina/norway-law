@@ -1,0 +1,2 @@
+# § 11. Biogass- og komposteringsanlegg – prøvetakingstidspunkt før sammenblanding med ikke-animalske biprodukter
+Hvis animalske biprodukter er brukt til omdanning til biogass eller kompost sammen med ikke-animalske biprodukter, kan representative prøver tas etter hygienisering i forordning (EU) nr. 142/2011 vedlegg V kapittel I avsnitt 1 (1)(a) eller kompostering i samme vedlegg kapittel I avsnitt 2 (1) før sammenblanding med ikke-animalske biprodukter

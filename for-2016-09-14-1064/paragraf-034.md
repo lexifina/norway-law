@@ -1,0 +1,2 @@
+# § 34. Enkelte materialer til annen bruk enn fôr til produksjonsdyr
+Mattilsynet kan tillate import av visse typer animalsk materiale til annen bruk enn fôr til produksjonsdyr, dersom importen ikke innebærer en uakseptabel risiko for folke- og dyrehelsen. Tillatt importert materiale er listet i forordning (EU) nr. 142/2011 vedlegg XIV kapittel IV avsnitt 2. Mattilsynet kan sette tilleggsvilkår for importen for å hindre overføring av sykdom til folk eller dyr.
