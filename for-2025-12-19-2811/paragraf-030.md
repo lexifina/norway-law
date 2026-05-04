@@ -1,0 +1,11 @@
+# § 30. (vilkår for å delta i lukket gruppe)
+For å delta i kystfartøygruppens fiske etter norsk vårgytende sild må følgende vilkår være oppfylt:
+a) fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+b) eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+c) fartøyet må være egnet, bemannet og utstyrt for fiske etter norsk vårgytende sild med snurpenot, landnot eller snurrevad.
+d) fartøy som skal fiske med snurpenot, landnot eller snurrevad må ha hatt adgang til å delta i fisket i 2025 med samme redskap. I tillegg kan fartøy som hadde adgang til å delta i fisket i 2004, og som fortsatt har samme eier som før 1. juli 2004, delta. For eier av fartøy som nevnt i 2. pkt. som har søkt om utskifting eller fått tilsagn om utskifting før 24. november 2005, kan Fiskeridirektoratet etter søknad gi samme eier adgang til å delta i fisket med et erstatningsfartøy dersom de øvrige vilkårene er oppfylt. Fiskeridirektoratets klagesaksenhet er klageinstans.
+e) for å kunne delta i fisket med landnot må fartøyet ha en største lengde under 15 meter. Eiere av fartøy over 15 meter som ved søknad kan dokumentere landnotfiske ett av de siste 5 år kan likevel delta i fisket med landnot.
+Bestemmelsen om dispensasjon fra tidligere aktivitet i denne forskrift § 4 tredje ledd gjelder tilsvarende for kravet i første ledd bokstav d.
+Eier av fartøy mellom 28 og 33,50 meter største lengde som hadde tillatelse til å delta i fisket etter norsk vårgytende sild i 1985, kan delta med fartøyet uavhengig av størrelsesvilkåret i første ledd bokstav a.
+Den som hadde kystnottillatelse, ekstraordinær landnottillatelse i 1985 eller som deltok i fisket etter norsk vårgytende sild på kystfiskekvoten i 1985 eller tidligere, kan uavhengig av vilkåret i første ledd bokstav b delta i fisket dersom vedkommende står på blad A i fiskermanntallet.
+Fartøy med deltakeradgang etter første ledd, jf. andre til fjerde ledd, kan benytte trål i den utstrekning dette er unntatt fra konsesjonskravet i medhold av konsesjonsforskriften § 1-1 andre ledd fjerde punktum.

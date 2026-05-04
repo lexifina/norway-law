@@ -1,0 +1,3 @@
+# § 47. (tildeling av adgang til å delta til erstatning for tilsvarende deltakeradgang)
+Fiskeridirektoratet kan tildele adgang til å delta i et fiskeri for et bestemt fartøy dersom fartøyeier eller eier av et annet fartøy oppgir tilsvarende deltakeradgang for et annet fartøy. Bestemmelsene i § 48 femte ledd og § 49 gjelder tilsvarende ved slik tildeling.
+Bestemmelsene i § 45 første ledd andre punktum og tredje ledd og § 46 gjelder tilsvarende ved søknad om tildeling etter første ledd første punktum dersom fartøyet som oppgir deltakeradgang har annen eier enn fartøyet som ønskes tildelt deltakeradgang.

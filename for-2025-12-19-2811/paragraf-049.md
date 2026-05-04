@@ -1,0 +1,3 @@
+# § 49. (særregler som gjelder ved utskiftning av fartøy med deltakeradgang i fisket etter torsk, hyse og sei mv.)
+Disse særreglene gjelder ved utskiftning av fartøy som har deltakeradgang i fisket etter torsk, hyse og sei mv. for konvensjonelle havfiskefartøy og i fisket etter torsk, hyse og sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap nord for 62 grader nord.
+Det kan ikke gis tillatelse etter § 48 dersom søker er tildelt torsketråltillatelse, pelagisk tråltillatelse, seitråltillatelse eller ringnottillatelse etter forskrift 13. oktober 2006 nr. 1157 (konsesjonsforskriften) § 2-1, § 2-6, § 2-14 og § 4-1 for erstatningsfartøyet.
