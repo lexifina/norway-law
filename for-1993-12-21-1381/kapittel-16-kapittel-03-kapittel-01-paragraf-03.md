@@ -1,0 +1,7 @@
+# Artikkel 3 Definisjonar
+I denne forordninga tyder:
+a) «god framstillingspraksis» den delen av kvalitetstrygginga som sikrar at materiale og gjenstandar alltid vert framstilte og kontrollerte på ein einsarta måte i samsvar med dei reglane som gjeld for dei, og med dei kvalitetsstandardane som høver for den tiltenkte bruken av dei, slik at dei ikkje vil utgjere nokon fare for menneskehelsa eller føre til uakseptable endringar i samansetnaden av næringsmidla eller til ei svekking av dei organoleptiske eigenskapane deira,
+b) «kvalitetstryggingssystem» den samla summen av dei ordningane som er innførde og dokumenterte for å syte for at materiale og gjenstandar har den kvaliteten som krevst for å sikre at dei er i samsvar med dei reglane som gjeld for dei og med dei kvalitetsstandardane som er naudsynte for den tiltenkte bruken av dei,
+c) «kvalitetskontrollsystem» den systematiske bruken av tiltak som er innførde innanfor kvalitetstryggingssystemet, og som sikrar at utgangsmateriale, halvfabrikat og ferdige materiale og gjenstandar er i samsvar med dei spesifikasjonane som er fastsette i kvalitetstryggingssystemet,
+d) «side som ikkje kjem i kontakt med næringsmiddelet» den overflata av materialet eller gjenstanden som ikkje er i direkte kontakt med næringsmiddelet,
+e) «side som kjem i kontakt med næringsmiddelet» den overflata av materialet eller gjenstanden som er i direkte kontakt med næringsmiddelet.

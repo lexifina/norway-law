@@ -1,0 +1,2 @@
+# Artikkel 13 Medlemsstatenes vedkommende myndigheter
+Hver medlemsstat skal underrette Kommisjonen og Myndigheten om navn og adresse samt kontaktpunkt for den nasjonale vedkommende myndighet eller de nasjonale vedkommende myndigheter som er utpekt som ansvarlige på medlemsstatens territorium for å motta søknaden om godkjenning omhandlet i artikkel 9-12. Kommisjonen skal offentliggjøre navnet på og adressen til de nasjonale vedkommende myndigheter samt de kontaktpunkter den har blitt underrettet om i samsvar med denne artikkel.

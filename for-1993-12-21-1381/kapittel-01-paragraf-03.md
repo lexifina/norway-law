@@ -1,0 +1,2 @@
+# § 2a. Gjennomføring av forordning (EF) nr. 2023/2006 om god produksjonspraksis
+EØS-avtalen vedlegg II kapittel XII nr. 54zzzb (forordning (EF) nr. 2023/2006 som endret ved forordning (EF) nr. 282/2008 og forordning (EU) 2025/351) om god produksjonspraksis (GMP) for materialer og gjenstander i kontakt med næringsmidler gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

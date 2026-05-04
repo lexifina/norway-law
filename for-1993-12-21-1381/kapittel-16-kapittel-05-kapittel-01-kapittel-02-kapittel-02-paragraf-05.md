@@ -1,0 +1,3 @@
+# Artikkel 12 Samlet migrasjonsgrense
+1. Plastmaterialer og plastgjenstander skal ikke avgi bestanddeler til næringsmiddelsimulanter i mengder som overstiger 10 milligram av samlet avgitte bestanddeler per dm2 overflate som er i kontakt med næringsmiddelet (mg/dm2).
+2. Som unntak fra nr. 1 skal plastmaterialer og plastgjenstander som er beregnet på å komme i kontakt med næringsmidler beregnet på spedbarn og småbarn, som definert i kommisjonsdirektiv 2006/141/EF og 2006/125/EF, ikke avgi bestanddeler til næringsmiddelsimulanter i mengder som overstiger 60 milligram av samlet avgitte bestanddeler per kg næringsmiddelsimulant.

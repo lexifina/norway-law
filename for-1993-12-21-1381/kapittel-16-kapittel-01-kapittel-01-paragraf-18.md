@@ -1,0 +1,6 @@
+# Artikkel 18 Vernetiltak
+1. Dersom en medlemsstat som følge av nye opplysninger eller en ny vurdering av eksisterende opplysninger har særlige grunner til å fastslå at bruk av et materiale eller en gjenstand utgjør en fare for menneskers helse, selv om materialet/gjenstanden er i samsvar med det relevante særlige tiltaket, kan medlemsstaten midlertidig oppheve eller begrense anvendelsen av de aktuelle bestemmelser på sitt territorium.
+Den skal umiddelbart underrette de øvrige medlemsstater og Kommisjonen om dette og begrunne den midlertidige opphevingen eller begrensningen.
+2. Kommisjonen skal så snart som mulig, eventuelt etter å ha innhentet en uttalelse fra Myndigheten, i komiteen omhandlet i artikkel 23 nr. 1, gjennomgå de grunner som er gitt av medlemsstaten nevnt i nr. 1, og umiddelbart avgi en uttalelse og treffe egnede tiltak.
+3. Dersom Kommisjonen anser at det er nødvendig å endre det aktuelle særlige tiltaket for å løse de problemer som er nevnt i nr. 1, og for å sikre vernet av menneskers helse, skal den vedta endringene etter framgangsmåten i artikkel 23 nr. 2.
+4. Medlemsstaten omhandlet i nr. 1 kan opprettholde den midlertidige opphevingen eller begrensningen til endringene nevnt i nr. 3 er vedtatt eller til Kommisjonen har avslått å vedta endringene.

@@ -1,0 +1,2 @@
+# Artikkel 1 Mål
+I denne forordninga vert det fastsett reglar for god framstillingspraksis for dei gruppene av materiale og gjenstandar som er meinte for å kome i kontakt med næringsmiddel (heretter kalla «materiale og gjenstandar»), og som er førde opp i vedlegg I til forordning (EF) nr. 1935/2004, og kombinasjonar av desse materiala og gjenstandane eller resirkulerte materiale og gjenstandar som vert nytta i desse materiala og gjenstandane.

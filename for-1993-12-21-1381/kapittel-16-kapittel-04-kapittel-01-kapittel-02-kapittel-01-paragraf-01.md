@@ -1,0 +1,8 @@
+# Artikkel 5 Fellesskapsliste over stoffer som kan benyttes i aktive og intelligente bestanddeler
+1) Bare stoffer som er oppført på «fellesskapslisten» over godkjente stoffer (heretter kalt «fellesskapslisten»), kan benyttes i bestanddeler i aktive og intelligente materialer og gjenstander.
+2) Som unntak fra nr. 1 kan følgende stoffer benyttes i bestanddeler i aktive og intelligente materialer og gjenstander uten at de er oppført på fellesskapslisten:
+a) et avgitt aktivt stoff, forutsatt at det er i samsvar med vilkårene fastsatt i artikkel 9,
+b) stoffer som faller inn under virkeområdet for fellesskapsbestemmelser eller nasjonale bestemmelser som gjelder for næringsmidler, som er tilsatt eller inkorporert i aktive materialer og gjenstander ved hjelp av teknikker som poding eller fiksering for å ha en teknologisk funksjon i næringsmiddelet, forutsatt at de er i samsvar med vilkårene fastsatt i artikkel 9,
+c) stoffer benyttet i bestanddeler som ikke er i direkte kontakt med næringsmidler eller miljøet rundt næringsmiddelet og som er atskilt fra næringsmiddelet av en funksjonell barriere, forutsatt at de er i samsvar med vilkårene fastsatt i artikkel 10 og de ikke faller inn under noen av følgende kategorier:
+i) stoffer klassifisert som «arvestoffskadelige», «kreftframkallende» eller «reproduksjonstoksiske» i samsvar med kriteriene fastsatt i nr. 3.5, 3.6 og 3.7 i vedlegg I til europaparlaments- og rådsforordning (EF) nr. 1272/2008,
+ii. stoffer som er bevisst konstruert med partikkelstørrelser som framviser funksjonelle fysiske og kjemiske egenskaper som skiller seg vesentlig fra stoffer med større partikkelstørrelse.

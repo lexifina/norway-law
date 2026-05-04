@@ -1,0 +1,4 @@
+# Artikkel 29 Særlige krav til samsvarserklæringer for materialgjenvinnere og omdanningsforetak
+1. Materialgjenvinnere skal framlegge en samsvarserklæring i samsvar med beskrivelsen og malen i vedlegg III del A.
+2. Samsvarserklæringen skal inneholde anvisninger til omdanningsforetak, som er tilstrekkelige til å sikre at omdanningsforetak kan viderebearbeide den materialgjenvunne plasten til materialer og gjenstander av materialgjenvunnet plast som er i samsvar med artikkel 3 i forordning (EF) nr. 1935/2004. Disse anvisningene skal være basert på spesifikasjonene, kravene eller begrensningene som er fastsatt for den materialgjenvinningsteknologien som er benyttet, og eventuelt den materialgjenvinningsprosessen som er brukt.
+3. Omdanningsforetak skal framlegge en samsvarserklæring på grunnlag av beskrivelsen og malen i vedlegg III del B.

@@ -1,0 +1,4 @@
+# Artikkel 8 Samsvarserklæring og underlagsdokumentasjon
+1. Driftsansvarlige skal påse at materialer og gjenstander som kommer i kontakt med næringsmidler som omfattes av denne forordningen, og som ennå ikke er kommet i kontakt med næringsmidler, samt bisfenoler og bisfenolderivater som er beregnet på å brukes som monomerer eller andre utgangsstoffer ved framstilling av disse materialene og gjenstandene som kommer i kontakt med næringsmidler, i alle stadier av markedsføringen unntatt detaljistleddet ledsages av en skriftlig erklæring som nevnt i artikkel 16 nr. 1 i forordning (EF) nr. 1935/2004, der det bekreftes at de er i samsvar med de regler som gjelder for dem («samsvarserklæring»).
+2. Samsvarserklæringen skal inneholde opplysningene fastsatt i vedlegg III.
+3. Egnet underlagsdokumentasjon som viser slikt samsvar skal være tilgjengelig. Denne dokumentasjonen skal uten opphold på anmodning gjøres tilgjengelig for vedkommende myndigheter.

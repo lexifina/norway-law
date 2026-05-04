@@ -1,0 +1,3 @@
+# Artikkel 12 Samsvarserklæring
+1) I alle ledd av markedsføringen, unntatt på stedet for salg til sluttbrukere, skal aktive og intelligente materialer og gjenstander, uansett om de er i kontakt med næringsmidler eller ikke, eller bestanddeler som er beregnet på framstilling av slike materialer og gjenstander eller stoffer som er beregnet på framstilling av slike bestanddeler, ledsages av en skriftlig erklæring i samsvar med artikkel 16 i forordning (EF) nr. 1935/2004.
+2) Erklæringen omhandlet i nr. 1 skal utstedes av den driftsansvarlige for foretaket og skal inneholde den informasjon som er fastsatt i vedlegg II.

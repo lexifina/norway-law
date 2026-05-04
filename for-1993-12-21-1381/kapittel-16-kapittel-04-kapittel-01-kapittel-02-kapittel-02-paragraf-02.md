@@ -1,0 +1,3 @@
+# Artikkel 10 Stoffer nevnt i artikkel 5 nr. 2 bokstav c)
+1) Migrasjonen til næringsmidler av stoffer fra bestanddeler som ikke er i direkte kontakt med et næringsmiddel eller miljøet rundt næringsmiddelet som omhandlet i artikkel 5 nr. 2 bokstav c) i denne forordning, skal ikke overstige 0,01 mg/kg, målt med statistisk sikkerhet ved bruk av en analysemetode som er i samsvar med artikkel 11 i europaparlaments- og rådsforordning (EF) nr. 882/2004.
+2) Grenseverdien fastsatt i nr. 1 skal alltid være uttrykt som konsentrasjon i næringsmiddelet. Den skal gjelde for en gruppe stoffer, om de er strukturelt og toksikologisk beslektet, særlig isomerer eller stoffer med samme relevante funksjonelle gruppe, og skal omfatte eventuell avsmitting.

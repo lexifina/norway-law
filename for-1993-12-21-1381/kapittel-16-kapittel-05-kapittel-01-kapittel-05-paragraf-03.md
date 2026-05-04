@@ -1,0 +1,2 @@
+# Artikkel 19 Vurdering av stoffer som ikke er oppført på unionslisten
+For de stoffene som er nevnt i artikkel 6 nr. 1, 6 nr. 2, 6 nr. 4, 6 nr. 5 og 14 nr. 2 i denne forordning, som ikke er omfattet av en oppføring i vedlegg I til denne forordning, skal samsvar med bestemmelsene i artikkel 3 i forordning (EF) nr. 1935/2004 vurderes i samsvar med internasjonalt anerkjente vitenskapelige prinsipper for risikovurdering.

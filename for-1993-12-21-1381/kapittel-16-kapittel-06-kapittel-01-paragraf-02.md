@@ -1,0 +1,12 @@
+# Artikkel 2 Definisjoner
+1. I denne forordningen gjelder definisjonene i artikkel 3 i forordning (EF) nr. 10/2011.
+2. I denne forordningen menes videre med
+a) «ferdige gjenstander som kommer i kontakt med næringsmidler» produkter som består av ett eller flere materialer og gjenstander som faller inn under virkeområdet for artikkel 1 nr. 2 i forordning (EF) nr. 1935/2004, og som er i ferdig framstilt tilstand for sluttbruk, uten å gjennomgå ytterligere kjemisk, biologisk eller fysisk behandling eller endring, med unntak av videre behandling eller endring med tanke på å fylles med næringsmidler, slik at de kan brukes til engangsemballasje, inkludert forseglingsprosessen,
+b) «mellommaterialer som kommer i kontakt med næringsmidler» materialer som er beregnet på å gjennomgå ytterligere kjemisk, biologisk eller fysisk behandling eller modifisering for å bli en hel eller en del av en ferdig gjenstand som kommer i kontakt med næringsmidler, bortsett fra den videre behandlingen eller modifiseringen for å fylles med næringsmidler, for at de skal brukes til engangsemballasje, herunder forseglingsprosessen,
+c) «bisfenol» et stoff som består av to funksjonelle hydroksyfenylgrupper bundet sammen av ett brodannende atom, i samsvar med struktur A i vedlegg I, og som omfatter saltformen av bisfenolet. Ytterligere grupper kan være festet til det brodannende atomet,
+d) «bisfenolderivat» et stoff som er angitt ved den generelle strukturen B i vedlegg I, med unntak av saltformen av en bisfenol.
+e) farlig bisfenol eller farlig bisfenolderivat: et bisfenol eller et bisfenolderivat som er oppført i del 3 i vedlegg VI til forordning (EF) nr. 1272/2008 på grunn av dets harmoniserte klassifisering som kategori 1A eller 1B «arvestoffskadelig», «kreftframkallende», «reproduksjonstoksisk» eller «hormonforstyrrende for menneskers helse» i kategori 1.
+►M1
+Artikkel 3 Forbud mot bruk av BPA
+1. Det er forbudt å bruke BPA ved framstilling av materialer og gjenstander som kommer i kontakt med næringsmidler som nevnt i artikkel 1 nr. 2, og å bringe materialer og gjenstander som kommer i kontakt med næringsmidler framstilt ved hjelp av BPA, i omsetning på unionsmarkedet.
+2. Som unntak fra nr. 1 kan BPA brukes ved framstilling av materialer og gjenstander som kommer i kontakt med næringsmidler, for en bestemt anvendelse, og det er tillatt å bringe slike materialer og gjenstander som kommer i kontakt med næringsmidler, i omsetning på unionsmarkedet i samsvar med vedlegg II, med de begrensninger som er fastsatt i nevnte vedlegg. ◄M1

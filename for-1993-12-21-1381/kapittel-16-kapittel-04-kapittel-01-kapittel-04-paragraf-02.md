@@ -1,0 +1,3 @@
+# Artikkel 13 Underlagsdokumentasjon
+Den driftsansvarlige skal på anmodning gjøre tilgjengelig for vedkommende nasjonale myndigheter relevant dokumentasjon som godtgjør at de aktive og intelligente materialene og gjenstandene samt de bestanddeler som er beregnet på framstilling av disse materialene og gjenstandene, oppfyller kravene i denne forordning.
+Denne dokumentasjonen skal inneholde opplysninger om hvor egnede og effektive de aktive og intelligente materialene eller gjenstandene er, vilkårene for og resultatene av prøving eller beregninger eller andre analyser samt dokumentasjon på sikkerheten eller opplysninger som godtgjør samsvar.
