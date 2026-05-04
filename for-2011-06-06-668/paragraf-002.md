@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av forordning (EU) nr. 257/2010
+EØS-avtalen vedlegg II kapittel XII nr. 54zzzzt (forordning (EU) nr. 257/2010 som endret ved forordning (EU) 2021/148) om iverksettelse av et program for re-evaluering av godkjente tilsetningsstoffer til næringsmidler i henhold til europaparlaments- og rådsforordning (EF) nr. 1333/2008 om tilsetningsstoffer til næringsmidler gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
