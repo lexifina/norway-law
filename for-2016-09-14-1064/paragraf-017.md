@@ -1,0 +1,4 @@
+# § 17. Spesielle fôringsformål – bearbeidingskrav
+Driftsansvarlig for innsamlingssentral som leverer animalsk materiale til bruk i samsvar med forordning (EF) nr. 1069/2009 artikkel 18 skal sikre at materialet blir denaturert eller sterilisert i samsvar med kravene i forordning (EU) nr. 142/2011 vedlegg VI kapittel II avsnitt 1 punkt 4 bokstav a og b.
+Driftsansvarlig skal sikre at syrekonserverte biprodukter har maksimum pH 4,3, at ferske biprodukter holdes nedkjølt på 0-4 °C og at frosne biprodukter oppbevares på høyst minus 18 °C. Fôret skal ikke inneholde flere koliforme bakterier enn 10 000 kde/g fôr og fôr som skal anvendes til hunder og katter skal oppfylle de mikrobielle kravene til rått kjæledyrfôr i forordning (EU) nr. 142/2011 vedlegg XIII kapittel II (6).
+Innsamlingssentraler som leverer biprodukter til dyrehager trenger ikke å sterilisere eller denaturere det animalske materialet dersom håndteringen ivaretar kvaliteten til materialet.

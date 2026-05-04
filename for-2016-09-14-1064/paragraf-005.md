@@ -1,0 +1,2 @@
+# § 5. Kategorisering av forsøksdyr
+Skrotter og deler av dyr brukt i forsøk som krever godkjenning i henhold til forskrift 18. juni 2015 nr. 761 om bruk av dyr i forsøk er kategori 1 biprodukter, jf. § 2 og forordning (EF) nr. 1069/2009 artikkel 8(a)(iv). Mattilsynet kan etter søknad vedta at disse biproduktene ikke omfattes av første punktum dersom det godtgjøres at forsøket ikke resulterer i at biproduktene kan medføre alvorlig helserisiko for mennesker eller andre dyr.
