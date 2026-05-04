@@ -1,0 +1,2 @@
+# § 5. (unntak fra vilkår om føring i fiskermanntallet)
+Departementet kan gjøre unntak fra vilkår i denne forskriften om at eier av fartøyet må være ført i fiskermanntallet dersom det er gitt unntak fra aktivitetskravet i medhold av deltakerloven § 6 tredje ledd første punktum. Dersom det gjøres et slikt unntak, kommer ikke denne forskriftens krav om at eier selv må stå om bord som høvedsmann under utøvelse av fangst til anvendelse.
