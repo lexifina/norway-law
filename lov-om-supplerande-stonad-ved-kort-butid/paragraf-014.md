@@ -1,0 +1,2 @@
+# § 14. Finansiering
+Utgiftene som Arbeids- og velferdsetaten har til supplerande stønad og til administrasjon av ordninga vert dekte av statskassa. Pengane som trengst til dekning av utgiftene skal overførast til Arbeids- og velferdsdirektoratet på forskot, og seinast på det tidspunktet utbetaling skal skje. Arbeids- og velferdsetaten skal føre særskilt rekneskap over pengane som vert overførte til dekning av supplerande stønad.
