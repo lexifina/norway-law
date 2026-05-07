@@ -1,0 +1,6 @@
+# § 11-1. Krav til avhandlingen
+Avhandlingen skal være et selvstendig forskningsarbeid som oppfyller internasjonale standarder med hensyn til etiske og forskningsetiske krav, faglig nivå og metode innen fagområdet.
+Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ligge på et nivå som tilsier at den kan publiseres eller offentliggjøres i egnet format som en del av fagets forskningsbaserte kunnskapsutvikling.
+Avhandlingen kan bestå av en monografi eller en sammenstilling av flere mindre arbeider. Dersom avhandlingen består av flere mindre arbeider, skal det redegjøres for sammenhengen mellom dem i kappen.
+En artikkelbasert avhandling skal normalt bestå av minst tre artikler. Det skal fastsettes krav til antall artikler, kappen og førsteforfatter, eventuelt alfabetisk forfatterrekkefølge, i utfyllende retningslinjer for det enkelte doktorgradsprogram.
+Avhandlingen skal være skrevet på norsk, svensk, dansk eller engelsk. Dersom det ønskes benyttet annet språk, må det søkes om særskilt tillatelse til dette ved søknad om opptak og om godkjenning av prosjektbeskrivelsen, jf. § 6-2. Det fakultetet som har ansvaret for bedømmelsen, fatter avgjørelse om dette. Avhandlingen skal, uavhengig av språk, ha et sammendrag på norsk og et på engelsk.

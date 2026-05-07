@@ -1,0 +1,4 @@
+# § 22-1. Klage over avslag på søknad om opptak, tvungen avslutning av avtaleperioden og klage over avslag på søknad om godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak, tvungen avslutning av avtaleperioden og avslag på søknad om godkjenning av elementer i opplæringsdelen, kan påklages etter forvaltningslovens bestemmelser om klage på enkeltvedtak.
+Klage på avslag om opptak og godkjenning av opplæringsdelen sendes fakultetet. Klagen bør være begrunnet. Blir avslaget opprettholdt, sendes klagen uten ugrunnet opphold til Nemnda for studentsaker ved Nord universitet.
+Klage på rektorvedtak om vitenskapelig uredelighet, jf. § 7-6, kan påklages etter reglene i forvaltningsloven § 28 følgende og universitets- og høyskoleloven § 13-2. Begrunnet klage sendes til universitetet. Blir avslaget opprettholdt, sendes klagen uten ugrunnet opphold for avgjørelse av departementet eller særskilt klageorgan oppnevnt av dette.
