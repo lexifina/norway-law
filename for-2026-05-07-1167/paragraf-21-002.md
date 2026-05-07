@@ -1,0 +1,7 @@
+# § 21-2. Fellesgrader
+Med fellesgrader menes et samarbeid mellom flere institusjoner der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i forskriften. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne.
+For fullført fellesgrad utstedes felles vitnemål i form av:
+a) et vitnemålsdokument utstedt av alle konsortiemedlemmene,
+b) et vitnemål fra hver av konsortiedeltakerne,
+c) eller en kombinasjon av a og b.
+Fellesgrader skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom Nord universitet og minst en av de andre konsortiedeltakerne. Styret vedtar nærmere retningslinjer for fellesgradssamarbeid, herunder mal for samarbeidsavtaler.

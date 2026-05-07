@@ -1,0 +1,3 @@
+# § 22-2. Klage over eksamen i opplæringsdelen
+Eksamener som er avlagt under opplæringsdelen, kan påklages etter lov om universiteter og høyskoler, § 11-10 klage over karakterfastsetting, rett til begrunnelse og § 11-9 klage over formelle feil ved eksamen.
+Annullering av eksamen og utestenging fra ph.d.-programmet i inntil et år på bakgrunn av fusk på eksamen eller prøver i opplæringsdelen, kan påklages etter reglene i forvaltningsloven § 28 følgende og universitets- og høyskoleloven § 13-1. Begrunnet klage sendes til Nemnda for studentsaker. Blir avslaget opprettholdt, sendes klagen uten ugrunnet opphold til den nasjonale Felles klagenemnd til avgjørelse.
