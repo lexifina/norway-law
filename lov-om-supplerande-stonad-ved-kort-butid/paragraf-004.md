@@ -1,0 +1,4 @@
+# § 4. Opphald i utlandet
+Retten til supplerande stønad fell bort når ein person oppheld seg eller har tenkt å opphalde seg i utlandet i meir enn 90 dagar i samanheng eller i meir enn 90 dagar i alt i ein stønadsperiode.
+Dersom opphaldet i utlandet er meint å vare i meir enn 90 dagar i samanheng, fell ytingane bort frå og med månaden etter den månaden då opphaldet i utlandet tok til. I andre tilfelle fell ytingane bort frå og med månaden etter den månaden då vedkomande hadde vore i utlandet i 90 dagar eller summen av utanlandsopphalda i ein stønadsperiode utgjer 90 dagar.
+I tilfelle som går inn under andre leddet andre punktumet kan ytingar bli gitt for lengre tid enn nemnd dersom stønadstakaren legg fram dokumentasjon på at han eller ho ikkje kunne vende attende til Noreg på grunn av eigen sjukdom.
