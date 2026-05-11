@@ -1,0 +1,8 @@
+# § 3. Innarbeiding av forordning (EU) 2023/1529 om restriktive tiltak på bakgrunn av Irans militære støtte til Russlands angrepskrig mot Ukraina og til væpnede grupper i Midtøsten og Rødehavsregionen
+(1) Rådsforordning (EU) 2023/1529 om restriktive tiltak på bakgrunn av Irans militære støtte til Russlands angrepskrig mot Ukraina og til væpnede grupper i Midtøsten og Rødehavsregionen gjelder som forskrift i sin vedlagte form, med de tilpasninger som følger av denne bestemmelsen. Forordningen er inntatt som vedlegg C til forskriften.
+(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge».
+(3) Henvisningene til medlemsstatenes kompetente myndigheter skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+(4) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Videre er artikkel 7, 9 og 13 til17 EU-interne og kommer ikke til anvendelse.
+(5) Listen i vedlegg III til vedlagte forordning (EU) 2023/1529 er i denne forskriften erstattet med en lenke til EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak.
+(6) Henvisningene til forordning (EU) 2021/821 skal forstås som henvisninger til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.) og forskriftens vedlegg II «Liste II-flerbruksvarer».
+(7) Henvisningen til 27. oktober 2023 i artikkel 2 nr. 7 skal forstås som 15. november 2025. Henvisningen til 26. juli 2023 i artikkel 2 nr. 7 skal forstås som 14. august 2025.
