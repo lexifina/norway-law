@@ -1,0 +1,6 @@
+# § 6. Krav til energibærere
+For energibærere som inngår i oppfyllelsen av kravet til klimagassintensitet, gjelder kravene i denne paragraf.
+Biodrivstoff og drivstoff basert på gjenvunnet karbon skal anses å ha samme utslippsfaktor som den minst gunstige produksjonsprosessen for tilsvarende fossilt drivstoff.
+Fornybare drivstoff av ikke-biologisk opprinnelse, drivstoff basert på lavkarbon hydrogen og drivstoff basert på lavkarbon gass som ikke oppfyller utslippsreduksjonskrav i artikkel 29a i direktiv (EU) 2018/2001 (fornybardirektivet), skal anses å ha samme utslippsfaktor som den minst gunstige produksjonsprosessen for tilsvarende fossilt drivstoff.
+Biogass som ikke oppfyller bærekrafts- og utslippsreduksjonskrav i artikkel 29 og ikke er laget av råstoff oppgitt i vedlegg IX til fornybardirektivet skal anses å ha samme utslippsfaktor som den minst gunstige produksjonsprosessen for tilsvarende fossilt drivstoff.
+Reduksjon i utslipp av klimagasser fra energibærere nevnt i tredje og fjerde ledd skal beregnes i henhold til metode som beskrevet i forordning (EU) 2023/1184, forordning (EU) 2023/1185 og direktiv (EU) 2024/1788. Standardverdier for fossilt drivstoff og den minst gunstige produksjonsprosessen for tilsvarende fossilt drivstoff fremgår av vedlegg II til denne forskriften.
