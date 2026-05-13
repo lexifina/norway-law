@@ -1,0 +1,3 @@
+# § 12c. Habilitet
+Teknisk leder og kontrollører i kontrollorgan for periodisk kontroll har ikke anledning til å kontrollere kjøretøy de selv eller deres nærstående eier eller råder over, jf. forvaltningsloven § 6 første og annet ledd. De har heller ikke anledning til å kontrollere kjøretøy som andre ansatte eller overordnede i kontrollorganet eier eller råder over.
+Dersom kontrollorganet utfører periodisk kontroll av kjøretøy det selv eier, eller på annen måte har råderett over eller har vesentlig interesse i, skal kontrollorganet ha særlige rutiner som sikrer objektivitet og kvalitet i disse kontrollene, jf. § 14 første ledd bokstav f.

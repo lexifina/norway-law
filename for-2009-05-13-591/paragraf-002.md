@@ -1,0 +1,3 @@
+# § 2. Periodisk kontroll og kontrollorgan
+Med periodisk kontroll av kjøretøy forstås i denne forskriften kontroll av kjøretøy som nevnt i § 4 første ledd, gjennomført etter reglene i kapittel 5. En periodisk kontroll og godkjenning skal skje innenfor kontrollfristene som følger av § 5. Reglene for periodisk kontroll gjelder også for etterkontroll med mindre annet følger av denne forskriften.
+Et kontrollorgan er etter denne forskriften en virksomhet som oppfyller vilkårene i kapittel 3 og 4, og som er godkjent av Statens vegvesen. Det er bare godkjente kontrollorgan som kan utføre periodisk kontroll av kjøretøy.
