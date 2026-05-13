@@ -1,0 +1,5 @@
+# § 10. Teknisk leder og stedfortreder
+Kontrollorgan skal ha en teknisk leder med stedfortreder som er godkjent av Statens vegvesen. Statens vegvesen kan ved godkjenning av kontrollorgan gjøre unntak fra kravet til stedfortreder når kravet vil virke urimelig av hensyn til virksomhetens størrelse.
+Teknisk leder er ansvarlig for virksomheten og skal være heltidsbeskjeftiget. Teknisk leder skal delta aktivt i arbeidet ved å veilede kontrollørene og påse at kontrollene utføres i samsvar med krav fastsatt i lov og forskrift. Teknisk leder er ansvarlig for at kontrollvirksomheten drives i samsvar med denne forskriften, skal samordne kontrollvirksomheten og er kontrollorganets kontaktperson i forhold til Statens vegvesen.
+I teknisk leders fravær påhviler dennes plikter og ansvar stedfortreder. Stedfortreder må ha godkjenning som teknisk leder, jf. § 11.
+Statens vegvesen registrerer opplysninger, herunder personopplysninger, om tekniske ledere og stedfortredere i Statens vegvesens elektroniske register i forbindelse med søknader, godkjenninger, tilsyn og reaksjoner.

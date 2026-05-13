@@ -1,0 +1,2 @@
+# § 32. Ikrafttredelse
+Forskriften trer i kraft 1. juli 2009. Samtidig oppheves forskrift 15. desember 1997 nr. 1488 om gjennomføring av periodisk kontroll av kjøretøy (kontrollveiledning), forskrift 8. august 2002 nr. 875 om periodisk kontroll og utekontroll av kjøretøy og forskrift 18. juni 2004 nr. 959 om krav til kontrollorgan for periodisk kontroll av kjøretøy og godkjenning av kjøretøyverksteder.

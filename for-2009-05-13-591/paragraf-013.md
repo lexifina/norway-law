@@ -1,0 +1,5 @@
+# § 13. Plikt til å opprette kvalitetsstyringssystem
+Den som er gitt godkjenning som kontrollorgan skal etablere og ajourholde et kvalitetsstyringssystem for kontrollorganets aktiviteter slik dette er regulert i denne forskrift og nærmere avgrenset i Statens vegvesens vedtak om godkjenning. Systemet skal utarbeides og ajourholdes i samarbeid med teknisk leder og personale.
+Formålet med kvalitetsstyringssystemet er å sikre riktig kvalitet på kontrollgjennomføring og -rapportering, at kontrollene oppfyller kravene i denne forskrift og gjennom kontinuerlig forbedring bidrar til riktig kontrollkvalitet.
+Kvalitetsstyringssystemet skal inneholde nødvendige beskrivelser, prosedyrebeskrivelser og krav til registreringer for å sikre formålet. Med prosedyrebeskrivelse menes et dokument som angir fremgangsmåten for å utføre en aktivitet eller arbeidsprosess. Med registreringer menes et dokument som beviser oppnådd resultat eller gjennomførte aktiviteter.
+Teknisk leder plikter å føre tilsyn med at kontrollene organiseres og gjennomføres slik dette er fastsatt i kvalitetssystemet.

@@ -1,0 +1,10 @@
+# § 11. Krav til teknisk leder
+Teknisk leder ved kontrollorgan skal ha fagbrev og relevant praksis som nærmere fastsatt. Praksis skal være opparbeidet som kontrollør hos Statens vegvesen, ved godkjent kontrollorgan eller som mekaniker ved godkjent kjøretøyverksted. I tillegg skal teknisk leder være godkjent som kontrollør, jf. § 12.
+Teknisk leder ved kontrollorgan skal oppfylle følgende krav:
+a) Kontrollorgan 01: Ved periodisk kontroll av kjøretøy med totalvekt 3 500 kg eller mindre: Fagbrev som «bilmekaniker av tunge kjøretøy» eller som «bilmekaniker av lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+b) Kontrollorgan 02: Ved periodisk kontroll av kjøretøy med totalvekt fra 3 501 kg til 7 500 kg: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+c) Kontrollorgan 03: Ved periodisk kontroll av kjøretøy med totalvekt over 7 500 kg: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+d) Kontrollorgan 04: Ved periodisk kontroll av alle kjøretøy: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+e) Kontrollorgan 05: Ved periodisk kontroll av traktor som er konstruert for en hastighet over 40 km/t: Fagbrev som «landbruksmaskinmekaniker», «anleggsmaskinmekaniker» eller «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+Krav til teknisk leder anses videre oppfylt på bakgrunn av annen relevant utdanning eller praksis dersom Statens vegvesen finner denne likeverdig med forannevnte.
+Krav til teknisk leder kan også anses oppfylt på bakgrunn av tilsvarende yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. yrkeskvalifikasjonsloven og forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner.
