@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med forskriften er å fastsette og regulere bruken av områder i luftrommet som midlertidig kan reserveres for særskilte luftromsbrukere i samsvar med prinsippene for fleksibel bruk av luftrommet og fastsatte prosedyrer (reserverte områder), jf. kommisjonsforordning (EF) nr. 2150/2005 artikkel 4, som gjennomført i forskrift 14. desember 2021 nr. 3530 om luftromsorganisering § 27.
