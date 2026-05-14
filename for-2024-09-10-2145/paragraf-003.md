@@ -1,0 +1,3 @@
+# § 3. Luftromsrestriksjoner
+All flyging i de reserverte områdene, innenfor norsk område, er forbudt for andre enn de særskilte luftromsbrukerne områdene er reservert for, når områdene er aktiverte. De særskilte luftromsbrukerne områdene er reservert for har likevel anledning til å gi andre tillatelse til å fly i de reserverte områdene. Slik tillatelse kan også gis av utpekt yter av flygekontrolltjenester.
+Forbudet etter første ledd gjelder all luftfart inkludert ubemannet luftfartøy og modellfly, men ikke flyginger etter Avtalen om det åpne luftrom. Forbudet gjelder også i reserverte områder utenfor norsk område for norske luftfartøyer.
