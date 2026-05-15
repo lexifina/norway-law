@@ -1,0 +1,2 @@
+# § 2. Kontroll av ikke-animalske produkter for radioaktivitet
+EØS-avtalens vedlegg I kap. I del 7.1 nr. 13, kap. II nr. 41 og vedlegg II kap. XII nr. 54zzzc (forordning (EU) 2020/1158, som endret ved forordning (EU) 2024/256) om særlige importbetingelser for næringsmidler og forvarer med opprinnelse i stater utenfor EØS-området etter ulykken ved atomkraftverket i Tsjernobyl gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
