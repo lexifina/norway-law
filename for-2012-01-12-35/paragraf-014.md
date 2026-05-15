@@ -1,0 +1,3 @@
+# § 14. Overgangsbestemmelse
+1. Frem til 5. august 2013 tillater Mattilsynet import av forsendelser med produkter omfattet av § 2, jf. vedlegg I, som har fysisk ankommet Norge før 4. juli 2013, selv om innførselsdokumentet ikke er oversendt til Mattilsynet en arbeidsdag før ankomsten av forsendelsen jf. § 5 annet ledd, forutsatt at resten av § 5 er oppfylt. Overgangsordningen gjelder ikke for produkter i vedlegg I som er omfattet av tollposisjonene ex 1905.90 og ex 21.03.9099.
+2. Frem til 5. oktober 2013 tillater Mattilsynet import av forsendelser med produkter omfattet av vedlegg I som er omfattet av tollposisjonene ex 1905.90 og ex 21.03.9099, selv om de ikke oppfyller kravene i § 5 og § 6, forutsatt at prøvetaking og analyse er gjennomført i tråd med § 7 tredje ledd.
