@@ -1,0 +1,5 @@
+# § 6-2. Plikt til å betale gebyr
+Enhver som har eller plikter å ha godkjenning etter forskrift 17. juni 2008 nr. 823 om etablering og utvidelse av akvakulturanlegg, zoobutikker m.m. eller dyrehelseforskriften 6. april 2022 nr. 631 og akvabiosikkerhetsforskriften 5. april 2022 nr. 624, skal betale gebyr etter bestemmelsene i dette kapitlet.
+I tillegg skal foretak som er registreringspliktig etter lov 21. juni 1985 nr. 78 om registrering av foretak (foretaksregisterloven), betale gebyr ved revisjoner knyttet til forskrift 19. mars 2004 nr. 537 om internkontroll for å oppfylle akvakulturlovgivningen
+Gebyrplikten etter dette kapitlet omfatter akvakulturanlegg med tillatelse til kommersiell produksjon av settefisk, matfisk og stamfisk av laks, ørret og regnbueørret, inkludert slaktemerder. Akvakulturanlegg med produksjon av matfisk i ferskvann er unntatt.
+Ved samlokalisering eller samdrift av akvakulturanlegg er innehavere av tillatelser som er klarert på lokaliteten, solidarisk ansvarlig for betaling av gebyr etter § 6-3, § 6-5 og § 6-7. Mattilsynet kan fastsette nærmere retningslinjer for innbetalingen.

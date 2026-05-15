@@ -1,0 +1,5 @@
+# § 4-2. Gebyr for kjøttkontroll ved slakteri med utsatt post mortem kontroll
+Slakterier for tamme hov- og klauvdyr, oppdrettsvilt eller fjørfe med utsatt post mortem kontroll, skal betale gebyr til Mattilsynet. Gebyrpliktig kontroll omfatter ante mortem kontroll utført på slakteriet, post mortem kontroll inkludert etterkontroll av slakt og trikinundersøkelse. I tillegg skal gebyret dekke reisetid, reiseutgifter og medgått ventetid.
+Gebyret fastsettes på grunnlag av hvert påbegynt timeverk etter en timeverksats på kr 1 000. For arbeid før kl. 07.00 og etter kl.17.00 fra mandag til fredag, betales et tillegg på 40 % av timeverksatsen. For arbeid mellom kl. 21.00 og 06.00 fra mandag til fredag, på lørdager, søndager og offentlige helge- og høytidsdager, utgjør tillegget 80 %. Til dekning av reisetid og reiseutgifter skal kr 1 000 legges til.
+Gebyret skal likevel ikke overstige kr 2,10 per kilo slakt ved den gjennomførte kontrollen.
+Dersom meldt slakting ikke finner sted, skal slakteriet betale gebyr på kr 2 000 for dekning av Mattilsynets utgifter ved oppmøte og reise.
