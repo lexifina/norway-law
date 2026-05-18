@@ -1,0 +1,2 @@
+# § 11. Ledegarn til kilenot
+Ledegarn til kilenot skal ha en ledende funksjon og skal ikke fange fisk. Ledegarn skal settes stramt, slik at maskene strekkes ut. Det er forbudt å bruke innskutte garn som ledegarn. Ledegarnet kan ha varierende lengde. Det er forbudt å bruke annet enn garn som ledegarn. Den innerste forankringen av ledegarnet kan være fri fra land, men garnet skal likevel settes i nær tilknytning til land, skjær eller landnær båe.
