@@ -1,0 +1,3 @@
+# § 5-1. Grunnlag for utregning av statstilskudd
+Statstilskudd regnes ut på grunnlag av antall tilskuddsberettigede elever. Elevene må ha fulgt den godkjente opplæringen, jf. privatskolelova § 6A-2, og dette må dokumenteres.
+Elever som har større fravær enn 20 skoledager per 1. oktober eller 1. april og som ikke kan dokumentere fraværet etter § 5-2, skal ikke regnes for å ha fulgt opplæringen, og utløser ikke tilskudd. Fravær fra enkelttimer skal regnes om til hele dager med utgangspunkt i elevens kurs. For elever på delårskurs skal fraværsgrensen reduseres prosentvis i forhold til kursets timetall.
