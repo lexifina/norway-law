@@ -1,0 +1,5 @@
+# § 8-1. Krav til regnskapet
+Skolens regnskap skal følge kalenderåret. Kontoplanen skal bygge på gjeldende Norsk standard kontoplan med egne konti for skolepenger og statstilskudd.
+Alle transaksjoner som gjelder skoledriften, skal føres i regnskapet. Regnskapet kan inneholde eierskap, kostnader og inntekter knyttet til tilleggsvirksomheten, jf. § 2-4 og § 7-1. Hver tilleggsvirksomhet skal føres på egen avdeling. Regnskapet skal vise interne transaksjoner mellom avdelingene. Transaksjonene skal være tilfredsstillende dokumentert.
+Skolen skal hvert år innen en frist fastsatt av departementet, sende inn årsregnskap, årsberetning, revisjonsberetning og opplysninger som underbygger skolens regnskap til departementet. Årsberetningen må minst inneholde andre, femte, åttende, niende og tiende ledd i regnskapsloven § 2-2. Driver skolen tilleggsvirksomhet etter § 2-4 og § 7-1, skal skolen også sende inn avdelingsregnskap. Rapporteringen skal skje på et standardisert skjema fastsatt av departementet.
+Utdanningsdirektoratet kan etter søknad gi utsettelse av tidsfristen i tredje ledd.

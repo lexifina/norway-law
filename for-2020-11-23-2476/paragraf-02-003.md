@@ -1,0 +1,5 @@
+# § 2-3. Krav til budsjett ved søknad
+En søknad om ny skole eller driftsendring skal følges av et realistisk budsjett som gir et riktig bilde av forventet inntekts- og kostnadsnivå for den enkelte skole. Budsjettet skal bare inneholde transaksjoner som vedrører skoledriften. Budsjettet skal vise kostnader for det totale elevtallet skolen har søkt om, og hvordan driften skal finansieres. Budsjettet skal blant annet vise kostnader til lønn, under dette arbeidsgiveravgift og pensjonskostnader, kostnader til materiell, inventar, husleie og finanskostnader.
+I noter til budsjettet skal det vises hvordan statstilskuddet og størrelsen på skolepengene er regnet ut. Budsjettet skal følge gjeldende Norsk standard kontoplan.
+Dersom skolen skal drive tilleggsvirksomheter, jf. § 7-1, skal søknaden inneholde egne avdelingsbudsjett. Budsjettene skal vise at tilleggsvirksomhetene samlet sett er selvfinansiert.
+Dersom skolen og tilleggsvirksomheten har felleskostnader, skal disse fordeles i budsjettet på den enkelte avdelingen.
