@@ -1,0 +1,5 @@
+# § 8-1. Krav til rekneskap
+Skolen sitt rekneskap skal følgje kalenderåret. Kontoplanen skal byggje på gjeldande Norsk standard kontoplan med eigne konti for skolepengar og statstilskot.
+Alle transaksjonar som gjeld skoledrifta etter privatskolelova, skal førast i rekneskapen. Rekneskapen kan innehalde eigarskap, kostnader og inntekter knytte til tilleggsverksemd, jf. § 2-2 og § 7-1. Kvar tilleggsverksemd skal førast på eiga avdeling. Rekneskapen skal vise interne transaksjonar mellom avdelingane. Transaksjonane skal vere tilfredsstillande dokumenterte.
+Skolen skal kvart år innan ein frist fastsett av departementet, sende inn årsrekneskap, årsberetning, revisjonsberetning og opplysningar som underbyggjer rekneskapen til skolen til departementet. Årsberetninga må minst innehalde andre, femte, åttande, niande og tiande ledd i regnskapsloven § 2-2. Driv skolen tilleggsverksemd etter § 2-2 og § 7-1, skal skolen òg sende inn avdelingsrekneskap. Rapporteringa skal skje på eit standardisert skjema fastsett av departementet.
+Utdanningsdirektoratet kan etter søknad utsetje tidsfristen i tredje ledd.

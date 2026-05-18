@@ -1,0 +1,4 @@
+# § 3-2. Oppstartskostnader
+Oppstartskostnader er alle kostnader som er kome på før den månaden som skolen tek imot den første utbetalinga av statstilskotet. Statstilskot, skolepengar, inntekter frå skoleverksemd eller inntekter frå tilleggverksemd kan ikkje brukast til å dekkje oppstartskostnader, jf. likevel andre og tredje ledd.
+Nye privatskolar kan bruke det avrekna statstilskotet for juli månad til å dekkje oppstartskostnader som er kome på frå og med januar i det kalenderåret skolen startar opp, eller frå tidspunktet for godkjenning dersom den kjem seinare.
+Skolane kan bruke framtidige statstilskot, skolepengar, inntekter frå skoleverksemd og inntekter frå tilleggverksemd til å dekkje enkelte oppstartskostnader til varige driftsmiddel med låg verdimink som er kome til i nær tid til skoledrifta.
