@@ -1,0 +1,8 @@
+# § 4. Søknad om sjøfartskort
+Norsk statsborger som har sitt arbeid om bord på skip eller flyttbar innretning, kan få utstedt sjøfartskort ved å sende søknad i Sjøfartsdirektoratets database.
+Søkeren skal oppgi følgende opplysninger i databasen:
+a) søkerens folkeregistrerte identitet skal oppgis, inkludert fullt navn, statsborgerskap, fødselsdato, fødselsnummer og fødested. Opplysningene skal samsvare med personopplysningene i søkerens pass eller nasjonale ID-kort med reiserett
+b) søkerens sist utstedte gyldige maskinlesbare pass eller nasjonale ID-kort med reiserett skal benyttes for identifisering. Bilde eller kopi av dokumentets sider med ansiktsfoto, navnetrekk og høyde skal lastes opp
+c) bilde av søkeren som oppfyller kravene til ansiktsfoto i pass og nasjonale ID-kort med reiserett, skal lastes opp. Bildet skal oppfylle ICAOs standard for kvalitet, blant annet krav til bakgrunn, belysning og ansiktsuttrykk. Hele ansiktet skal være avbildet. Begge øyne, øyenbryn og ører skal være synlige. Briller og hodeplagg skal ikke brukes. Personer kan av religiøse eller andre særlige grunner, for eksempel ved sykdom, bruke hodeplagg på bildet når det er grunn til å anta at tilsvarende hodeplagg vil bli brukt i fremtidige kontroller. Hodeplagget skal ikke dekke deler av ansiktet eller mer av hodet enn nødvendig
+d) bilde av søkerens navnetrekk skal lastes opp. Navnetrekket skal ligne mest mulig på navnetrekket i søkerens pass eller nasjonale ID-kort med reiserett og være av god kvalitet, slik at det er enkelt å tyde på sjøfartskortet
+e) egenerklæring om at opplysningene i søknaden er korrekte og at søkeren har sitt arbeid om bord på fartøy, skal bekreftes.
