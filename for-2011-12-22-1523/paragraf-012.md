@@ -1,0 +1,2 @@
+# § 12. Krav til godkjent opplæring om bord
+Opplæring om bord for førstegangsutstedelse av kompetansesertifikat skal være godkjent av Sjøfartsdirektoratet og gi kadetten systematisk praktisk opplæring og erfaring i oppgavene, pliktene og ansvarsområdene til offiserer. Under opplæringen skal kvalifisert offiser overvåke og føre nært tilsyn med kadetten om bord og opplæringen skal dokumenteres i godkjent kadettbok eller annet godkjent dokument.

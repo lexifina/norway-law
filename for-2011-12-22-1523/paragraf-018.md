@@ -1,0 +1,5 @@
+# § 18. Utstedelse av kompetansesertifikater, ferdighetssertifikater, andre sertifikater og kvalifikasjonsbevis
+(1) Søknad om kompetansesertifikater, ferdighetssertifikater og kvalifikasjonsbevis sendes Sjøfartsdirektoratet på fastsatt søknadsskjema. Søknad om utstedelse av kompetansesertifikat og ferdighetssertifikat må sendes innen fem år etter utstedt vitnemål.
+(2) Søknad om utstedelse av fritidsskippersertifikat basert på fritidsskippereksamen må dokumentere kompetanse etter gjeldende læreplan. Søknad om fritidsskippersertifikat på grunnlag av utdanning etter vedlegg III tabell A-II/3 eller høyere må fremmes innen fem år etter utstedt vitnemål.
+(3) Duplikat for tapt sertifikat eller påtegning for utenlandsk sertifikat gis samme utløpsdato som det originale. Duplikat kan bare utstedes for gyldig sertifikat eller påtegning.
+(4) Sjøfartsdirektoratet kan i særlige tilfelle behandle sertifikatsøknader selv om vitnemålet er mer enn fem år dersom søker har fullført og bestått godkjent kurs jf. § 19 fjerde ledd.

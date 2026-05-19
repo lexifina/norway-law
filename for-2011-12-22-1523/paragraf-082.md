@@ -1,0 +1,2 @@
+# § 82. Tillatelse til å tjenestegjøre uten tilstrekkelig kvalifikasjoner som matros, lettmatros, smører, skipsmotormekaniker, maskinpasser eller fyrbøter
+Sjøfartsdirektoratet kan tillate at person gjør tjeneste i stilling som nevnt § 76, § 77, § 78, § 79 og § 80 uten nødvendige kvalifikasjoner i særlige tilfelle og dersom rederiet godtgjør at vedkommende har andre kvalifikasjoner som gjør vedkommende i stand til å utføre oppgavene slik at personer, eiendom eller miljø ikke utsettes for fare. Slik tillatelse skal gis for kortest mulig tidsrom.

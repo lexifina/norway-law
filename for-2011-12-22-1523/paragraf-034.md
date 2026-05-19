@@ -1,0 +1,4 @@
+# § 34. Ferdighetssertifikat matros
+(1) Sjøfolk som skal tjenestegjøre som matros på sjøgående skip med bruttotonnasje 500 eller mer skal ha ferdighetssertifikat matros.
+(2) Ferdighetssertifikat matros kan utstedes til den som er fylt 18 år, oppfyller kravene til å få ferdighetssertifikat brovakt etter § 33 og i tillegg har dokumentert kompetanse i henhold til vedlegg III tabell A-II/5 og har enten minst 18 måneders fartstid på dekk på sjøgående skip eller har fullført godkjent opplæring og minst 12 måneders fartstid på dekk på sjøgående skip. Opplæring etter siste alternativ skal dokumenteres i godkjent opplæringsbok.
+(3) Den som i tillegg dokumenterer gjennomført opplæring i emner som dekker vedlegg II tabell A-VI/6-1 og 6-2 kan få utstedt ferdighetssertifikat som inkluderer sikringskompetanse.

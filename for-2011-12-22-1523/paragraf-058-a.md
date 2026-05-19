@@ -1,0 +1,4 @@
+# § 58a. Ferdighetssertifikat Polarkoden – grunnleggende
+(1) Skipsfører, dekkssjef og ansvarshavende vaktoffiser på bro på passasjerskip og tankskip med polarskipsertifikat og som opererer i åpne polare farvann, skal fra og med 1. juli 2018 ha ferdighetssertifikat Polarkoden – grunnleggende. Med åpne polare farvann menes områder hvor navigeringen kan skje uhindret med haviskonsentrasjon mindre enn 1/10. I åpne polare farvann skal det ikke finnes is dannet på land.
+(2) Ansvarshavende vaktoffiser på bro på skip med polarskipsertifikat som opererer i andre polare farvann, skal ha ferdighetssertifikat Polarkoden – grunnleggende. Med andre polare farvann menes områder som ikke er isfrie eller åpne, eller åpne farvann hvor det finnes breis.
+(3) Ferdighetssertifikat Polarkoden – grunnleggende kan utstedes til den som har fullført og bestått godkjent grunnleggende opplæring som dekker områdene i vedlegg XII tabell A-V/4-1.

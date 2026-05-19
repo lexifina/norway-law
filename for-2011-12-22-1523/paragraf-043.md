@@ -1,0 +1,4 @@
+# § 43. Ferdighetssertifikat skipsmotormekaniker
+(1) Sjøfolk som skal være skipsmotormekaniker på sjøgående skip med framdriftskraft 750 kW eller mer skal ha ferdighetssertifikat skipsmotormekaniker eller kompetansesertifikat maskin.
+(2) Ferdighetssertifikat skipsmotormekaniker kan utstedes til den som er fylt 18 år, oppfyller kravene til å få ferdighetssertifikat maskinvakt etter § 42 og i tillegg har dokumentert kompetanse i henhold til vedlegg IV tabell A-III/5 og har enten minst 12 måneders fartstid i maskinavdeling på skip eller minst seks måneders fartstid i maskinavdeling på skip som ledd i en godkjent opplæring. Opplæring etter siste alternativ skal dokumenteres i godkjent opplæringsbok.
+(3) Den som i tillegg dokumenterer gjennomført opplæring i emner som dekker vedlegg II tabell A-VI/6-1 og 6-2 kan få utstedt ferdighetssertifikat som inkluderer sikringskompetanse.

@@ -1,0 +1,4 @@
+# § 52. Kvalifikasjonskrav for skipskokk
+(1) Den som tjenestegjør som skipskokk skal være fylt 18 år, og ha utdanning og opplæring relevant for stillingen.
+(2) Utdanning som beskrevet i Utdanningsdirektoratets tilbudsstruktur (utdanningsprogram for restaurant- og matfag), eller tilsvarende utdanning anerkjent av andre lands myndigheter, anses som relevant utdanning etter første ledd, forutsatt at det er gjennomført og bestått en praktisk prøve.
+(3) På skip hvor sikkerhetsbemanningen utgjør færre enn 10 personer kan rederiet benytte person som ikke har utdanning som nevnt i annet ledd under forutsetning av at rederiet dokumenterer utsjekk av vedkommendes kokkeferdigheter. Utsjekk skal minst dekke ferdighet i matlaging, ernæringskunnskap og mathygiene, herunder behandling og lagring. For skip som ikke skal ha sikkerhetsbemanning gjelder bestemmelsen tilsvarende hvor bemanningen utgjør færre enn 10 personer.

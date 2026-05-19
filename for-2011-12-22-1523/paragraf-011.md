@@ -1,0 +1,5 @@
+# § 11. Språkkrav
+(1) Sjøfolk skal kunne kommunisere med hverandre på skipets arbeidsspråk fastsatt av rederiet om grunnleggende sikkerhetsspørsmål og forstå sikkerhetsinformasjon ved tekst, symboler og alarmer.
+(2) Sjøfolk som kommer i kontakt med los og landbaserte myndigheter skal kunne kommunisere på engelsk eller det språket losen eller de aktuelle myndigheter bruker.
+(3) Sjøfolk som inngår i sikkerhetsbemanning eller tilleggsbemanningen på skip med fartsområde liten kystfart eller større skal uavhengig av skipets arbeidsspråk kunne nok engelsk til å forstå blant annet kommandoer, skriftlige alarminstrukser og nødinstrukser, bruksanvisninger for bruk og vedlikehold av redningsutstyr.
+(4) Sjøfolk som i beredskapssituasjoner eller nødssituasjoner skal rettlede passasjerer på passasjerskip som går i rutefart til norsk havn skal beherske engelsk og et skandinavisk språk. Dersom flertallet av passasjerene på ruten ikke er skandinaviskspråklige eller engelskspråklige, skal sjøfolkene kunne kommunisere med passasjerene på det relevante språket i en beredskaps- eller nødssituasjon.
