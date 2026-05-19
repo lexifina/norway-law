@@ -1,0 +1,4 @@
+# § 9. Grunnleggende og videregående sikkerhetskurs
+(1) Grunnleggende sikkerhetskurs må for å danne grunnlag for kompetansesertifikat etter denne forskriften inneholde emnene som angitt i vedlegg II tabellene A-VI/1-1, A-VI/1-2, A-VI/1-3 og A-VI/1-4 og være godkjent av Sjøfartsdirektoratet.
+(2) Videregående sikkerhetskurs må for å danne grunnlag for kompetansesertifikat etter denne forskriften inneholde emnene som angitt i vedlegg II tabellene A-VI/2-1, A-VI/3 og A-VI/4-1 og være godkjent av Sjøfartsdirektoratet. Videregående sikkerhetskurs gjennomføres etter bestått grunnleggende sikkerhetskurs.
+(3) Kompetanse etter første og annet ledd skal vedlikeholdes og dokumenteres ved godkjent oppdateringskurs minst hvert femte år. For sjøfolk som har tjenestegjort minst 12 av de siste 60 måneder på skip og flyttbare innretninger som har sikkerhetsstyringssystem som ivaretar krav om sikkerhetskompetanse, er godkjent kurs av begrenset omfang tilstrekkelig.

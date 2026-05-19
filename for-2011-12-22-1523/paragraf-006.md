@@ -1,0 +1,2 @@
+# § 6. Rederiets og skipsførers ansvar for sikkerhetsfamiliarisering og opplæring i sikkerhet
+Rederiet skal påse og skipsfører skal sørge for at sjøfolk før de tjenestegjør om bord blir gjort kjent med sine plikter, skipets arrangementer, installasjoner, utstyr, prosedyrer og særskilte forhold ved skipet som har betydning for ordinær drift og i nødssituasjoner og har fått opplæring som følger av § 7 og § 8. Rederiet skal gi skipsfører skriftlig instruks om å sette av tilstrekkelig tid til opplæring etter § 7.

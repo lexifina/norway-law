@@ -1,0 +1,2 @@
+# § 83. Adgang til å tjenestegjøre i sertifikatpliktig stilling med utenlandsk sertifikat
+Innehaver av utenlandsk sertifikat kan få tillatelse av Sjøfartsdirektoratet til å tjenestegjøre på norsk skip i samsvar med vedkommendes kvalifikasjoner. Direktiv 2005/36/EF skal følges ved anerkjennelse av utenlandsk utdanning og tilhørende sertifikater for personell som skal gjøre tjeneste om bord på norske skip, fiskefartøy eller flyttbare innretninger.

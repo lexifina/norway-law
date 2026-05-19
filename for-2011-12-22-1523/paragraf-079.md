@@ -1,0 +1,2 @@
+# § 79. Matros som ikke skal ha ferdighetssertifikat matros
+Matros som ikke skal ha ferdighetssertifikat matros og som ikke har fagbrev skal ha minst ett års tjenestetid som lettmatros og to års tjenestetid som nevnt i § 78. Tjenestetid i stilling som inkluderer dekkstjeneste eller relevant tjeneste på flyttbar innretning kan erstatte tjenestetid som lettmatros. Sjøfolk med fagbrev matros skal ha ett års tjenestetid på dekk.
