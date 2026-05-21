@@ -1,0 +1,2 @@
+# § 2. Kontroll av ikke animalske produkter
+EØS-avtalens vedlegg I kapittel I del 7.2 nr. 61 (forordning (EU) 2023/1231) om særlige regler for innførsel til Nord-Irland fra andre deler av Det forente kongerike av visse forsendelser av detaljvarer, planter til planting, settepoteter, maskiner og visse kjøretøyer som er blitt brukt for landbruks- eller skogbruksformål, samt for ikke-kommersiell forflytning av visse kjæledyr til Nord-Irland gjelder som forskrift med de tilpasninger som følger av vedlegg I, og protokoll 1 til avtalen og avtalen for øvrig.
