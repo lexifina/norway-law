@@ -1,0 +1,2 @@
+# § 3. Unntak fra kravene til grensekontrollstasjoner m.m.
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11be, kap. II nr. 31qe og vedlegg II kap. XII nr. 164e (forordning (EU) 2019/1012) om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 gjennom unntak fra reglene om utpeking av kontrollsteder og fra minstekravene til grensekontrollstasjoner gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
