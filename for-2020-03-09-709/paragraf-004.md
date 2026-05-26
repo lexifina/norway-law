@@ -1,0 +1,2 @@
+# § 4. Kvalifikasjonskrav til medhjelpere ved grensekontrollstasjoner m.m.
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bh, kap. II nr. 31qh og vedlegg II kap. XII nr. 164h (forordning (EU) 2019/1081) om fastsettelse av regler om særlige krav til opplæring av personale som gjennomfører visse fysiske kontroller på grensekontrollstasjoner gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
