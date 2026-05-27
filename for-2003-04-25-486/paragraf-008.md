@@ -1,0 +1,2 @@
+# § 8. Beliggenhet
+Ved valg av beliggenhet for nye virksomheter og ved vesentlige endringer og utvidelser av eksisterende virksomheter skal det blant annet tas hensyn til trafikkforhold, tilgjengelighet, forurensning, støy, klimaforhold og risikofaktorer i miljøet, samt områdets utforming og topografi. Dette gjelder både miljøfaktorer som kan få innvirkning på virksomhetene, og miljøfaktorer som virksomhetene kan påføre omgivelsene.
