@@ -1,0 +1,4 @@
+# § 4. Kommunens ansvar og tilsyn
+Kommunen skal arbeide for å fremme folkehelse og bidra til å sikre befolkningen mot faktorer i miljøet som kan ha negativ innvirkning på helsen, blant annet ved å ivareta hensynet til helse og trivsel i planlegging etter plan- og bygningsloven og godkjenning av virksomhet etter annet lovverk.
+Kommunen skal føre tilsyn med at denne forskriften overholdes og treffe de nødvendige enkeltvedtak hjemlet i folkehelseloven kapittel 3. Kommunen skal prioritere sin tilsynsvirksomhet etter en vurdering av helserisiko.
+Ved vurderingen av om kommunen skal kreve retting etter folkehelseloven § 14, skal det ses hen til den helsemessige gevinst som oppnås ved vedtaket i forhold til vedtakets øvrige konsekvenser. Videre skal det tas hensyn til om forholdet allerede er vurdert i planlegging eller annen godkjenning etter annet lovverk.
