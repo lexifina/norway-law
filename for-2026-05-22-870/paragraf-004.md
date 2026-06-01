@@ -1,0 +1,2 @@
+# § 4. Plikt for offentlege organ mfl. til å utgreie saka før dei søkjer om oreigning
+Ein kommune, ein fylkeskommune, eit statleg organ eller eit statleg kontrollert sjølvstendig rettssubjekt skal innhente uttale etter oreigningslova § 12 første og andre ledd før det blir søkt om samtykke til oreigningsinngrep eller sett fram spørsmål om oreigning på staten si rekning. Uttalene skal følgje med saka når ho blir sendt til avgjerd.
