@@ -1,0 +1,4 @@
+# § 25. Gjennomføring av behandling med ernæringstilførsel uten eget samtykke
+Dersom det er nødvendig for å kunne gi forsvarlig helsehjelp, jf. spesialisthelsetjenesteloven § 2-2, kan ernæringstilførsel gis ved midlertidig døgnopphold i institusjon som ikke er godkjent for bruk av tvang. I slike tilfeller er den godkjente institusjonen ansvarlig for det tvungne vernet.
+Dersom pasienten ønsker det, kan den praktiske gjennomføringen av behandling med ernæringstilførsel etter avtale med institusjonen som har truffet vedtaket og under forutsetning av faglig forsvarlig tilsyn og veiledning, overlates til helsepersonell utenfor det psykiske helsevernet.
+Pasienten skal ikke tilføres ernæring uten å bli informert. Pasienten skal informeres om den faktiske doseringen. Informasjon til pasienten kan unnlates dersom det er påtrengende nødvendig for å hindre fare for liv eller alvorlig helseskade for pasienten, jf. pasient- og brukerrettighetsloven § 3-2 tredje ledd.

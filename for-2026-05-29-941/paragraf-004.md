@@ -1,0 +1,6 @@
+# § 4. Faglig ansvarlig
+Institusjonen skal sørge for en forsvarlig organisering av vedtakskompetent personell og utpeke en eller flere faglig ansvarlige. Faglig ansvarlig for vedtak, jf. psykisk helsevernloven § 1-4, skal ha tilfredsstillende kunnskaper i helse- og omsorgslovgivningen, med særlig vekt på psykisk helsevernloven.
+Lege som skal være faglig ansvarlig for vedtak, skal være spesialist i psykiatri eller barne- og ungdomspsykiatri.
+Psykolog som skal være faglig ansvarlig for vedtak skal være spesialist i psykologi med fordypningsområde i voksenpsykologi eller spesialist i barne- og ungdomspsykologi. Psykologen skal ha minst 2 års dokumentert relevant praksis fra institusjon eller avdeling som er godkjent for å ha ansvar for tvungen observasjon eller tvungent psykisk helsevern. Nedre grense for godkjenning av et arbeidsforhold er 6 måneder.
+Psykolog kan ikke ha det faglige ansvaret for vedtak om bruk av legemidler og elektrokonvulsiv behandling etter psykisk helsevernloven § 4-4 andre ledd bokstav a, § 4-8 andre ledd bokstav c, og § 4-4 b.
+Helsedirektoratet kan gi dispensasjon fra andre og tredje ledd når særlige hensyn tilsier det. Helsedirektoratet kan delegere myndigheten til statsforvalteren.

@@ -1,0 +1,3 @@
+# § 54. Godtgjøring. Beregning av timeantall som det skal gis arbeidsgodtgjøring for
+I tidsrommet kl. 0800-1600 på hverdager (mandag til fredag) gis godtgjøring for reisetid og annet fravær. Til andre tider gis godtgjøring for reisetid.
+Finner statsforvalteren at det er brukt lengre tid enn det som er rimelig og nødvendig, skal salæret settes ned. Før dette skjer skal den som har innlevert arbeidsoppgaven, gis mulighet til å uttale seg. Hvilken tidsbruk som er rimelig og nødvendig må avgjøres etter et konkret skjønn. Dersom det finnes nødvendig, kan statsforvalteren innhente sakens dokumenter for vurdering av saksforberedelsens omfang. Settes salæret ned, skal dette begrunnes.

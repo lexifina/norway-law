@@ -1,0 +1,7 @@
+# § 14. Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon
+Den faglig ansvarlige skal vurdere om pasienten trenger døgnkontinuerlig omsorg og behandling, eller om det er bedre for pasienten å bo et annet sted enn på en institusjon som er godkjent for tvungent vern med døgnopphold. Det skal legges særlig vekt på pasientens eget ønske. Det skal også tas hensyn til pasientens sykdom, bo- og familiesituasjon, sosiale situasjon og andre individuelle behov. Ved vurderingen skal det også tas hensyn til pårørende, jf. psykisk helsevernloven § 3-5 tredje ledd.
+Tvungen observasjon og tvungent psykisk helsevern kan bare gjennomføres uten døgnopphold i institusjon når pasienten
+a) har en kjent sykdomshistorie og det på bakgrunn av pasientens symptomer og tidligere sykdomsforløp, er utvilsomt hvilken behandling pasienten trenger, eller
+b) har vært observert i institusjon med døgnopphold og observasjonen har klargjort pasientens diagnose og hva slags behandlingsopplegg som anses nødvendig.
+Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon kan ikke omfatte tvangstiltak der pasienten bor. Dette gjelder likevel ikke ved gjennomføring av legemiddelbehandling uten eget samtykke i sykehjem, jf. psykisk helsevernloven § 4-8a første ledd.
+Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon kan ikke etableres eller gjennomføres dersom pasienten mangler et sted å bo.

@@ -1,0 +1,3 @@
+# § 42. Pasientens rett til å være til stede i møte
+Pasienten og den som handler på vegne av pasienten, har rett til å være til stede i møter der det skal opptas forklaringer eller gis muntlige redegjørelser til bruk i saken.
+Dersom sterke grunner taler for det, kan kontrollkommisjonen bestemme at pasienten skal forlate møtet. Pasienten skal gjøres kjent med det som er opplyst under fraværet. Informasjon kan unnlates dersom det er påtrengende nødvendig for å hindre fare for liv eller alvorlig helseskade for pasienten selv. Informasjon kan også unnlates dersom det er klart utilrådelig av hensyn til personer som står pasienten nær, jf. pasient- og brukerrettighetsloven § 3-2.

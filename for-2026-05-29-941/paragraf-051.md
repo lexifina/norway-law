@@ -1,0 +1,6 @@
+# § 51. Besøk og velferdskontroll
+Kontrollkommisjonen skal minst 1 gang hver måned besøke institusjoner og avdelinger som er godkjent for å ha ansvar for pasienter under tvungent psykisk helsevern med døgnopphold og institusjoner eller avdelinger i psykisk helsevern der barn under 16 år er innlagt med døgnopphold. I andre institusjoner skal besøk skje minst 4 ganger i året.
+Besøket kan skje ved ett eller flere av kontrollkommisjonens medlemmer. Helsedirektoratet kan gi dispensasjon fra første ledd.
+Kontrollkommisjonen skal undersøke om det er husordensregler ved institusjonen og påse at husordensreglene er i overensstemmelse med regelverket.
+Kontrollkommisjonen skal under sine besøk gi pasientene anledning til å sette fram klager over vedtak etter psykisk helsevernloven, og ellers ta opp forhold som har betydning for pasientenes opphold ved institusjonen. Pasienter som er blitt innlagt i institusjonen uten eget samtykke etter kommisjonens forrige besøk, skal gis tilbud om samtale med kontrollkommisjonen.
+Kontrollkommisjonen kan ta forhold opp med den faglig ansvarlige for vedtak eller institusjonens ledelse. Kontrollkommisjonen skal varsle statsforvalteren om alvorlige forhold ved institusjonen.

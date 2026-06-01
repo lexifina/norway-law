@@ -1,0 +1,3 @@
+# § 19. Vilkår for skjerming
+Skjerming etter psykisk helsevernloven § 4-3 kan iverksettes av behandlingsmessige hensyn når det er nødvendig å begrense pasientens sanseinntrykk, eller pasienten har tiltagende uro eller angst. Skjermingen må vurderes som nødvendig for å motvirke forverring av pasientens tilstand. Det er ikke tilstrekkelig at pasienten lider av en uro som må anses vanlig ved etablering av tvungen observasjon eller tvungent psykisk helsevern.
+Skjerming kan også iverksettes når pasientens oppførsel er svært forstyrrende, plagsom eller uheldig for andre pasienter. Det kreves ikke at pasienten utgjør en fare for andre pasienter. Medpasientenes behov må vurderes opp mot konsekvensene skjerming kan få for pasienten.
