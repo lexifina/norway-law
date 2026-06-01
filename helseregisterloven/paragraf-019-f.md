@@ -1,0 +1,3 @@
+# § 19 f. Frister for tilgjengeliggjøring av tilrettelagt statistikk og helseopplysninger
+Den dataansvarlige skal tilgjengeliggjøre helseopplysninger etter § 19 tredje ledd og § 19 a innen 30 virkedager fra en fullstendig søknad er mottatt. Dersom tilgjengeliggjøringen krever sammenstilling med opplysninger fra flere registre, er fristen 60 virkedager.
+Tilgjengeliggjøringen kan utsettes dersom særlige forhold gjør det uforholdsmessig vanskelig å overholde fristen. Den dataansvarlige skal i så fall gi et foreløpig svar med informasjon om grunnen til forsinkelsen og tidspunktet for når tilgjengeliggjøring sannsynligvis vil skje.

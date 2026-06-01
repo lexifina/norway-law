@@ -1,0 +1,2 @@
+# § 16. Plikt til å innrapportere data til statistikk
+Departementet kan i forskrift eller ved enkeltvedtak pålegge regionale helseforetak, helseforetak, fylkeskommuner og kommuner å innrapportere anonyme data eller indirekte personidentifiserbare helseopplysninger, uten hensyn til taushetsplikt, til statistikk. Forskriften kan ha nærmere regler om blant annet bruk av standarder, klassifikasjonssystemer og kodeverk.
