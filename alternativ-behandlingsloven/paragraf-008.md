@@ -1,0 +1,8 @@
+# § 8. Beskyttet tittel og markedsføring
+Bare den som har autorisasjon, lisens eller spesialistgodkjenning etter helsepersonelloven §§ 48 a til 51, har rett til å benytte slik yrkesbetegnelse som kjennetegner vedkommende gruppe helsepersonell.
+Personell som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, kan benytte den yrkesbetegnelsen de benytter i det landet de er etablert, på en slik måte at tittelen ikke forveksles med tilsvarende norsk tittel. Personell som har rett til å utøve yrke som lege, legespesialist, tannlege, tannlegespesialist, sykepleier, jordmor eller provisorfarmasøyt midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, kan bruke norsk yrkesbetegnelse.
+Rett til å bruke norsk tittel har også annet personell som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, dersom norsk autorisasjonsmyndighet har kontrollert vedkommendes yrkeskvalifikasjoner.
+Bare den som er registrert som utøver av alternativ behandling i register opprettet i medhold av denne lov § 3, har rett til å benytte betegnelsen registrert i tilknytning til sin yrkesbetegnelse som alternativ behandler.
+Ingen må uriktig benytte titler eller markedsføre virksomhet på en slik måte at det kan gis inntrykk av at vedkommende har autorisasjon, lisens eller spesialistgodkjenning etter helsepersonelloven, jf. første ledd, eller er registrert utøver av alternativ behandling, jf. andre ledd.
+Den som tilbyr alternativ behandling, kan i sin markedsføring kun gi en nøktern og saklig beskrivelse av virksomhetens art.
+Departementet kan ved forskrift gi nærmere bestemmelser om markedsføring.
