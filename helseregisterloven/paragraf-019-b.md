@@ -1,0 +1,3 @@
+# § 19 b. Unntak fra taushetsplikten for indirekte personidentifiserbare helseopplysninger
+Taushetsplikten er ikke til hinder for tilgjengeliggjøring av indirekte personidentifiserbare helseopplysninger i registre som er etablert med hjemmel i § 11, dersom hensynet til den registrertes integritet og konfidensialitet er ivaretatt og behandlingen av opplysningene er av vesentlig interesse for samfunnet.
+Dersom tilgjengeliggjøring av helseopplysninger kan true samfunnets evne til å verne grunnleggende verdier og funksjoner og sette liv og helse i fare, skal opplysningene ikke gjøres tilgjengelig.

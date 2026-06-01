@@ -1,0 +1,3 @@
+# § 13. Innmelding av helseopplysninger til helseregistre
+Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven plikter å melde opplysninger som bestemt i forskrifter etter §§ 8 til 12. Innmelding til registre etter §§ 9 bokstav b, 10, 11 og 12 kan skje uten hinder av taushetsplikt.
+Kongen kan gi forskrifter om innmelding av helseopplysninger til registre som omfattes av §§ 8 til 12, blant annet om hvem som skal gi og motta opplysningene og om frister, formkrav, bruk av meldingsskjemaer og standarder. Den som mottar opplysningene, skal varsle avsenderen dersom opplysningene er mangelfulle.

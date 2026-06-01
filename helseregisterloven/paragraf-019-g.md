@@ -1,0 +1,2 @@
+# § 19 g. Betaling for tilgjengeliggjøring
+Den dataansvarlige kan kreve betaling for tilrettelegging av statistikk og annen behandling av helseopplysninger etter § 19 til § 19 e. Betalingen kan ikke overstige de faktiske utgiftene knyttet til tilgjengeliggjøring av opplysninger fra registeret, inkludert utgifter knyttet til saksbehandling, uttrekk, tilrettelegging, sammenstilling og utarbeiding av statistikk.
