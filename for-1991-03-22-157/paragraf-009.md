@@ -1,0 +1,3 @@
+# § 9. Straff
+Forsettlig eller uaktsom overtredelse av lov 27. april 1990 nr. 9 om regulering av eksporten av fisk, fiskevarer og marine produkter, denne forskrift, eller bestemmelser som er gitt i medhold av loven eller forskriften straffes med bøter, jf. lovens § 9. På samme måte straffes medvirkning og forsøk.
+Er overtredelsen gjort av noen som har handlet på vegne av et selskap eller annen sammenslutning eller stiftelse, kan bøtestraff ilegges virksomheten som sådan. Ved utmålingen av straff etter dette ledd, skal det særlig legges vekt på om overtredelsen er foretatt for å fremme virksomhetens interesser og om virksomheten har hatt fordel av overtredelsen.
