@@ -1,0 +1,3 @@
+# § 2. Verkeområde
+Lova gjeld for alle ledd i prosessen med donasjon og transplantasjon av levande humane organ, celler og vev til eit anna menneske. Lova gjeld også for organ som er tatt ut i strid med reglane i §§ 5, 6, 7, 10, 12, 13, 16 eller 20 og tilknytte handlingar. Lova gjeld ikkje for celler og vev som blir brukt i samband med forplanting (germinale celler og vev), blod, blodkomponentar, blodprodukt og humane organ, celler og vev som berre blir brukt i forsking.
+Kongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller delvis skal gjelde for Svalbard og Jan Mayen og kan fastsette særlege reglar under omsyn til forholda på staden.

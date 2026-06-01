@@ -1,0 +1,2 @@
+# § 23 a. Straff
+Den som forsettleg eller grovt aktlaust bryt reglane i §§ 5, 6, 7, 10, 12, 13, 16, 17, 19 eller 20, eller i forskrifter som er gjevne med heimel i dei, blir straffa med bøter eller fengsel inntil 2 år. Det same gjeld den som brukar, kjøper, klargjer, preserverer, lagrar, transporterer, overfører, tar imot, innfører eller utfører organ som er tatt ut i strid med reglane i §§ 5, 6, 7, 10, 12, 13, 16 eller 20.
