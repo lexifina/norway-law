@@ -1,0 +1,4 @@
+# § 4-1. Individuell plan
+Institusjonen skal utarbeide en individuell plan for pasienter med behov for langvarige og koordinerte tilbud. Institusjonen skal samarbeide med andre tjenesteytere om planen for å bidra til et helhetlig tilbud for pasientene.
+Dersom en person har behov for tilbud både etter loven her og etter helse- og omsorgstjenesteloven, skal kommunen sørge for at arbeidet med planen settes i gang og koordineres. Institusjonen skal så snart som mulig varsle kommunen når den ser at det er behov for en individuell plan som også omfatter kommunale helse- og omsorgstjenester, og skal i slike tilfeller medvirke i kommunens arbeid med individuell plan.
+Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper plikten omfatter etter første ledd, og om innholdet i individuelle planer.

@@ -1,0 +1,2 @@
+# § 7-1. Domstolprøving
+Kontrollkommisjonens vedtak i sak om tvungen observasjon, etablering eller opprettholdelse av tvungent psykisk helsevern etter §§ 3-2, 3-3 og 3-7, kan av pasienten eller vedkommendes nærmeste pårørende bringes inn for tingretten etter reglene i tvisteloven kapittel 36. Det samme gjelder kontrollkommisjonens vedtak om overføring til døgnopphold i institusjon, jf. §§ 4-10 og 5-4.

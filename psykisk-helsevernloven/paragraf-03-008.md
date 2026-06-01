@@ -1,0 +1,4 @@
+# § 3-8. Etterprøving uten klage samt opphør og forlengelse av tvungent psykisk helsevern
+Når noen blir undergitt tvungen observasjon eller tvungent psykisk helsevern, skal underretning sendes kontrollkommisjonen sammen med kopi av underlagsdokumentene. Kontrollkommisjonen skal så snart som mulig forvisse seg om at riktig framgangsmåte er fulgt og at vedtaket bygger på en vurdering av vilkårene i §§ 3-2 eller 3-3.
+Dersom det ikke klages over etableringen av tvungent psykisk helsevern, skal likevel kontrollkommisjonen, når det har gått tre måneder etter vedtaket, av eget tiltak vurdere om det er behov for tvungent vern og kontrollere at det foreligger en individuell plan for pasienten, jf. § 4-1.
+Tvungent psykisk helsevern opphører etter ett år hvis ikke kontrollkommisjonen samtykker i at vernet forlenges. Kommisjonen kan samtykke i forlengelse av vernet med inntil ett år av gangen, regnet fra årsdagen for etableringen.

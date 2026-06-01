@@ -1,0 +1,6 @@
+# § 4A-4. Undersøkelse av pasientens person, rom og eiendeler
+Det kan foretas rutinekontroll av pasientens person, rom og eiendeler ved innleggelse og før og etter opphold utenfor avdelingen, for å hindre innføring av farlige gjenstander, rusmidler, legemidler, skadelige stoffer eller rømningshjelpemidler, herunder mobiltelefon og andre kommunikasjonsmidler. Undersøkelsen kan skje ved bruk av teknisk utstyr eller hund, eller ved kroppsvisitasjon.
+Den faglig ansvarlige kan i tillegg vedta undersøkelse som nevnt i første ledd når det er grunn til mistanke om at slike gjenstander eller stoffer, er tilgjengelig i eller vil bli forsøkt innført i avdelingen.
+Dersom det foreligger en begrunnet og sterk mistanke om at en pasient i kroppen skjuler slike gjenstander eller stoffer som nevnt i første ledd, kan faglig ansvarlig vedta at det skal foretas kroppslig undersøkelse eller annet tiltak for å bringe gjenstanden eller stoffet frem. Tiltaket kan bare utføres av helsepersonell.
+Vedtak etter annet og tredje ledd skal nedtegnes uten opphold og begrunnes. Pasienten eller hans eller hennes nærmeste pårørende kan påklage vedtaket til kontrollkommisjonen.
+Departementet kan gi forskrifter om gjennomføringen av tiltak som er omtalt i paragrafen her.

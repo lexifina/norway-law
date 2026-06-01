@@ -1,0 +1,4 @@
+# § 6-2. Kontrollkommisjonens sammensetning
+Kontrollkommisjonen skal ledes av en jurist som er kvalifisert til å gjøre tjeneste som dommer, og ellers bestå av en lege og to andre medlemmer, alle med personlige varamedlemmer. Av de to sistnevnte faste medlemmer skal det oppnevnes en person som selv har vært under psykisk helsevern eller er eller har vært nærstående til pasient eller som har representert pasientinteresser i stilling eller verv.
+Medlemmene oppnevnes for 4 år om gangen. Ved første oppnevning etter lovens ikrafttredelse oppnevnes to av medlemmene for 2 år. Ingen kan gjenoppnevnes mer enn en gang i samme kontrollkommisjon.
+Ingen kan være medlem av en kontrollkommisjon som skal føre tilsyn med tiltak og institusjoner for psykisk helsevern som vedkommende har noe ansvar for i sin vanlige stilling.

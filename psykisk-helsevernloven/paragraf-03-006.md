@@ -1,0 +1,4 @@
+# § 3-6. Varslings- og bistandsplikt for offentlig myndighet
+Offentlig myndighet skal ved varsling av helse- og omsorgstjenesten og ved nødvendig bistand som beskrevet i loven her, bidra til at personer som må antas å fylle vilkårene for tvungent psykisk helsevern, og som ikke selv søker behandling, blir undersøkt av lege. Om nødvendig skal det fremmes begjæring om tvungen undersøkelse, tvungen observasjon eller tvungent psykisk helsevern.
+Offentlig myndighet skal gi nødvendig bistand for å få vedkommende til tvungen undersøkelse eller tvungen observasjon eller bringe vedkommende under tvungent psykisk helsevern. Offentlig myndighet skal også gi nødvendig bistand i forbindelse med avhenting eller tilbakehenting etter bestemmelsene i loven her. Offentlig myndighet kan om nødvendig anvende tvang.
+Kongen kan gi forskrift om innholdet i offentlige myndigheters plikter etter første og annet ledd.

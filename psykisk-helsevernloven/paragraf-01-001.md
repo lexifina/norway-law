@@ -1,0 +1,3 @@
+# § 1-1. Formål
+Formålet med loven her er å sikre helsehjelp av god kvalitet for personer med psykiske lidelser og at etablering og gjennomføring av psykisk helsevern skjer på en forsvarlig måte og i samsvar med menneskerettighetene og grunnleggende rettssikkerhetsprinsipper. Loven skal bidra til å fremme tillitsforholdet mellom pasienter, nærmeste pårørende og helse- og omsorgstjenesten. Det er et formål med reglene å forebygge, begrense og fremme riktig bruk av tvang.
+Helsehjelpen skal tilrettelegges med respekt for den enkeltes fysiske og psykiske integritet og så langt som mulig være i overensstemmelse med pasientens behov og selvbestemmelsesrett og respekten for menneskeverdet.

@@ -1,0 +1,5 @@
+# § 4-3. Skjerming
+Dersom en pasients psykiske tilstand eller utagerende adferd under oppholdet gjør skjerming nødvendig, kan den faglig ansvarlige bestemme at pasienten av behandlingsmessige grunner eller av hensyn til andre pasienter skal holdes helt eller delvis atskilt fra medpasienter og fra personell som ikke deltar i undersøkelse og behandling av og omsorg for pasienten.
+Det skal fattes vedtak hvis pasienten motsetter seg skjerming, eller hvis skjerming opprettholdes ut over 24 timer. Dersom pasienten overføres til skjermet enhet eller liknende som innebærer en betydelig endring av vedkommendes omgivelser eller bevegelsesfrihet, skal det treffes vedtak dersom skjerming opprettholdes ut over 12 timer. Vedtak om skjerming skal nedtegnes uten ugrunnet opphold. Vedtak kan bare treffes for inntil to uker om gangen.
+Vedtak om skjerming og om forlengelse av skjerming kan påklages til kontrollkommisjonen av pasienten og hans eller hennes nærmeste pårørende.
+Kongen kan gi nærmere forskrifter om vilkårene for skjerming og gjennomføringen av den.

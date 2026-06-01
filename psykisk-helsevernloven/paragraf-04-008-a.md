@@ -1,0 +1,3 @@
+# § 4-8 a. Legemiddelbehandling uten eget samtykke på sykehjem
+Vedtak om behandling med legemidler etter § 4-4 kan, etter avtale med kommunen, gjennomføres på sykehjem dersom dette er en klart bedre løsning for pasienten enn å bli behandlet i institusjon for psykisk helsevern. Det kan, om nødvendig, brukes tvangsmidler etter § 4-8 andre ledd bokstav c og d.
+Behandling som pasienten motsetter seg, kan ikke gjennomføres på pasientens rom eller i lokaler som pasienten bruker i det daglige, med mindre dette er den klart beste løsningen for pasienten. Det samme gjelder undersøkelser som er nødvendige for å kunne fatte vedtak om og gjennomføre behandlingen.
