@@ -1,0 +1,5 @@
+# § 7. Behandling av alvorlige sykdommer og lidelser
+Behandling av andre alvorlige sykdommer og lidelser enn dem som omfattes av § 6, skal heller ikke utøves av andre enn helsepersonell.
+Andre enn helsepersonell kan likevel utøve behandling som utelukkende har til hensikt å lindre eller dempe symptomer på eller følger av sykdommen eller lidelsen eller bivirkninger av gitt behandling, eller som har som formål å styrke kroppens immunforsvar eller evne til selvhelbredelse.
+Bestemmelsen i første ledd gjelder ikke dersom behandlingen skjer i samarbeid eller samforståelse med pasientens lege, og pasienten har beslutningskompetanse etter pasient- og brukerrettighetsloven § 4-3 første og andre ledd. Det samme gjelder for andre pasienter dersom helse- og omsorgstjenesten ikke har helbredende eller lindrende behandling å tilby pasienten. Samtykkebestemmelsene i pasient- og brukerrettighetsloven §§ 4-4, 4-5 og 4-7 gjelder tilsvarende så langt de passer.
+Departementet kan ved forskrift gi nærmere bestemmelser om hvilke sykdommer og lidelser som omfattes av første ledd, og om behandling etter andre og tredje ledd.
