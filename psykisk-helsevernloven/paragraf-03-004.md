@@ -1,0 +1,3 @@
+# § 3-4. Forbud mot overføring fra frivillig til tvungent psykisk helsevern
+Den som er under psykisk helsevern etter eget samtykke, eller med grunnlag i beslutning etter pasient- og brukerrettighetsloven § 4-6, kan ikke overføres til tvungen observasjon eller tvungent psykisk helsevern.
+Forbudet i første ledd gjelder likevel ikke hvor utskrivning innebærer at pasienten utgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse. I forbindelse med kontroll etter § 3-8 første ledd skal kontrollkommisjonen ved skriftlig redegjørelse gjøres særskilt oppmerksom på at det er truffet en beslutning om overføring.

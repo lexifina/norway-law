@@ -1,0 +1,3 @@
+# § 3-9. Rett til å uttale seg
+Før vedtak fattes etter dette kapittel, skal den person saken direkte gjelder, gis anledning til å uttale seg. Retten til å uttale seg gjelder blant annet spørsmålet om etablering av tvungen observasjon og tvungent psykisk helsevern, samt hvilken institusjon som skal ha ansvaret for det tvungne vernet. Også vedkommendes nærmeste pårørende og offentlig myndighet som er direkte engasjert i saken, har rett til å uttale seg.
+Opplysningene etter første ledd skal nedtegnes og ligge til grunn for vedtaket. Det skal legges særlig vekt på uttalelser om tidligere erfaring med bruk av tvang.

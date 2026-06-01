@@ -1,0 +1,4 @@
+# § 5-3. Gjennomføring
+Den som er overført til tvungent psykisk helsevern, skal de første tre ukene ha døgnopphold i en institusjon. Den faglig ansvarlige bør i denne perioden rådføre seg med de rettspsykiatrisk sakkyndige som har observert den domfelte.
+Den faglig ansvarlige bestemmer deretter hvordan det tvungne psykiske helsevernet til enhver tid skal gjennomføres. Ved avgjørelsen skal det legges vekt på hensynet til behandling av den domfelte og på behovet for å beskytte samfunnet mot faren for nye lovbrudd. Dersom den domfelte er dømt etter Almindelig borgerlig Straffelov 22. mai 1902 nr. 10 § 39 nr. 1 eller 2 eller straffeloven § 62 første ledd, skal det legges særlig vekt på behovet for samfunnsbeskyttelse.
+Dersom særlige hensyn tilsier det, skal faglig ansvarlig konsultere påtalemyndigheten før domfelte overføres mellom ulike sikkerhetsnivåer innen samme institusjon eller får permisjon.

@@ -1,0 +1,3 @@
+# § 1-1 a. Virkeområde
+Bestemmelsene i loven her gjelder for undersøkelse og behandling i det psykiske helsevernet, samt for forutgående undersøkelse med sikte på etablering av tvungent psykisk helsevern.
+Dersom en institusjon i det psykiske helsevernet er ansvarlig for et opphold som skjer i medhold av en annen lov, gjelder bestemmelsene i kapittel 4 med unntak av §§ 4-4, 4-4 a, 4-5 annet ledd, 4-7 a annet ledd, 4-9 og 4-10 for gjennomføringen av oppholdet. For pasienter innlagt i medhold av helse- og omsorgstjenesteloven §§ 10-2 og 10-3, skal § 4-7 a annet ledd i loven her likevel gjelde tilsvarende.
