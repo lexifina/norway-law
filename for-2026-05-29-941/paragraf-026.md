@@ -1,0 +1,4 @@
+# § 26. Hvilke institusjoner som kan bruke tvangsmidler
+Tvangsmidler, jf. psykisk helsevernloven § 4-8, kan bare brukes i institusjon for døgnopphold som er godkjent for å ha ansvar for pasienter under tvungen observasjon eller tvungent psykisk helsevern.
+I akutte situasjoner kan tvangsmidler likevel brukes for pasienter som er under psykisk helsevern i andre institusjoner i psykisk helsevern enn de som er nevnt i første ledd. Det skal da straks vurderes om pasienten bør overføres til en godkjent institusjon. Dersom det viser seg nødvendig å bruke tvangsmidler gjentatte ganger, skal den som har ansvaret for det tvungne vernet så snart som mulig søke om overføring til, eller innleggelse av pasienten i, en institusjon som er bedre egnet til å ivareta pasienten.
+Tvangsmidler kan også brukes i sykehjem, jf. psykisk helsevernloven § 4-8a.

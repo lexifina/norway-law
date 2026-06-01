@@ -1,0 +1,2 @@
+# § 20. Skjerming som opprettholdes utover 12 timer
+Ved vurderingen av om skjermingen innebærer en betydelig endring etter psykisk helsevernloven § 4-3 andre ledd, skal det blant annet legges vekt på hvilke restriksjoner pasienten blir underlagt, for eksempel om det settes strenge begrensinger for tilgang til bestemte gjenstander eller utgangsmuligheter, og hvordan lokalet som skjermingen gjennomføres i, er innredet.

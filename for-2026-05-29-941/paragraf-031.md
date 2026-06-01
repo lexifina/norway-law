@@ -1,0 +1,3 @@
+# § 31. Statsforvalterens klagebehandling
+Statsforvalteren skal uten ugrunnet opphold gjøre vedtak i sak om klage på vedtak om undersøkelse og behandling uten eget samtykke. Dersom det anses nødvendig, skal det engasjeres sakkyndig hjelp. Det skal tas personlig kontakt med pasienten, med mindre dette er åpenbart unødvendig. Dersom klagen tas til følge, skal det gjøres vedtak om at iverksatt behandling skal opphøre straks.
+Melding om vedtaket skal snarest mulig gis pasienten og den faglig ansvarlige for vedtaket. Dersom klageren er en annen enn pasienten, skal denne også gis melding om vedtaket.

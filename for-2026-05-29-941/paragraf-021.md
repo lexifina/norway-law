@@ -1,0 +1,5 @@
+# § 21. Gjennomføring av skjerming
+Skjerming kan gjennomføres ved at pasienten skal oppholde seg på sitt eget rom eller i lokaler som er atskilt fra fellesareal og pasientrom i avdelingen (skjermet enhet). Pasienten kan fysisk ledes dit skjermingen skal gjennomføres. Det er ikke adgang til å låse eller på annen måte stenge døren til rommet der pasienten er.
+Pasienter kan holdes tilbake dersom de forsøker å forlate stedet der skjermingen blir gjennomført. Pasienter som er under frivillig psykisk helsevern, kan ikke holdes tilbake eller på annen måte hindres i å forlate institusjonen dersom de ønsker dette. Pasienten skal informeres om sin rett til å skrive seg ut fra institusjonen.
+Helsepersonell skal være til stede i den utstrekning det er nødvendig. Dersom pasienten gir uttrykk for å ville være alene, og det ikke vurderes som nødvendig at personellet er til stede, skal personellet forlate rommet.
+Det må gjøres særskilt vedtak om innskrenkninger i pasientens forbindelse med omverdenen etter psykisk helsevernloven § 4-5.

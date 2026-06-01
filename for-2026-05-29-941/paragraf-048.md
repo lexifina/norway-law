@@ -1,0 +1,3 @@
+# § 48. Dokumentkontroll av beslutning om helsehjelp for alvorlig sinnslidelse som pasienten ikke motsetter seg
+Den som er ansvarlig for helsehjelpen skal informere kontrollkommisjonens leder om beslutninger om helsehjelp for en alvorlig sinnslidelse etter pasient- og brukerrettighetsloven § 4-6 og legge fram relevante deler av pasientens journal. Det skal gjøres rede for hvordan vilkårene i pasient- og brukerrettighetsloven § 4-6 andre ledd er oppfylt.
+Dersom kontrollkommisjonens leder på bakgrunn av de fremlagte dokumentene finner at beslutningen lider av alvorlige formelle eller materielle feil, kan lederen kjenne beslutningen om å gi helsehjelp ugyldig.
