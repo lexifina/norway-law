@@ -1,0 +1,5 @@
+# § 30A-10. Kjørevurdering i klasse AM, S og T
+Kjørevurdering kan gjennomføres i klasse AM og vil begrenses til denne klassen. Kjørevurderingen bygges opp på samme måte som praktisk prøve for klasse A1, ved at det gjennomføres ferdighetsprøve på avsperret område før kjøring i trafikk.
+Ved kjørevurdering med tohjuls moped, gis kode AM 146, jf. førerkortforskriften vedlegg 4. For personer med førerkortklasse AM uten koder, er det tilstrekkelig å gjennomføre kjørevurdering med tohjuls moped for å beholde AM uten koder. Sensor skal selv kjøre egen motorsykkel under kjørevurderingen. Det er et krav at det skal være toveis kommunikasjonsutstyr mellom sensor og kandidaten.
+Ved kjørevurdering med tre- eller firehjuls moped (mopedbil), gis kode AM 147, jf. førerkortforskriften vedlegg 4. Kjøretøyet skal være tre- eller firehjuls moped med egenvekt over 250 kg (uten batterier) og være registrert for to personer. Kjøretøyet skal også ha tilleggsutstyr som følger av § 4-6.
+Kjørevurdering i klasse S og T tilpasses ut fra oppdrag og behov. For klasse T gjelder likevel krav til kjøretøy etter § 30-14.

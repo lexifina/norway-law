@@ -1,0 +1,4 @@
+# § 31-6. Saksbehandlingsregler
+For vedtak som fattes med hjemmel i denne forskriften, gjelder forvaltningsloven. Det er adgang til å klage på førerprøven med unntak av sensors skjønnsmessige vurdering av praktisk førerprøve, jf. forvaltningslovforskriften § 32. Vedtak i forbindelse med førerprøve begrunnes i samsvar med § 29-7.
+For søknad om godkjenning av trafikkskole etter § 5-2 og kursarrangør etter § 5-4 skal saksbehandlingsfrist som nevnt i tjenesteloven § 11 første ledd første punktum, være en måned. Saksbehandlingsfristen løper fra det tidspunktet Statens vegvesen har mottatt all nødvendig dokumentasjon.
+Tjenesteloven § 11 annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning av trafikkskole etter § 5-2 eller kursarrangør etter § 5-4.

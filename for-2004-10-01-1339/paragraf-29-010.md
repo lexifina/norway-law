@@ -1,0 +1,3 @@
+# § 29-10. Førerprøve ved utvidelse av førerett og etter tapt førerett
+Praktisk prøve avlegges på kjøretøy av den gruppen som kreves for vedkommende førerkortklasse. Statens vegvesen kan likevel samtykke i at prøven avlegges på annet egnet kjøretøy.
+Førerett som er tapt kan alternativt gjenerverves gjennom avleggelse av førerprøve i en mer omfattende klasse, jf. førerkortforskriften § 6-1 tredje ledd. Det forutsetter at obligatorisk opplæring i den mer omfattende klassen er gjennomført og at vedkommende har hatt førerett i den opprinnelige klassen som egen førerkortklasse på førerkortet, eller har bestått førerprøven i den opprinnelige klassen.

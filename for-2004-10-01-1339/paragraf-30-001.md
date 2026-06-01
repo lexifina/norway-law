@@ -1,0 +1,15 @@
+# § 30-1. Førerprøve klassene A1, A2 og A
+Førerprøven for motorsykkel består av en teoretisk og en praktisk prøve. Den praktiske prøven er delt i en ferdighetsprøve med sikkerhetskontroll og en trafikal prøve med kontroll før kjøring. Den teoretiske prøven for motorsykkel er lik, bestått teoretisk prøve gjelder for klassene A1, A2 og A. Ved utvidelse fra klasse A1 til A, A1 til A2 og A2 til A avlegges kun praktisk prøve.
+Den praktiske prøven til klasse A1 skal avlegges på lett motorsykkel uten sidevogn. Motorsykkelen skal ha slagvolum på minst 120 cm3, en effekt på høyst 11 kW, et forhold mellom effekt og egenvekt på høyst 0,1 kW/kg og konstruktiv hastighet på minst 90 km/t. Motorsykkel med elektrisk motor skal ha et forhold mellom effekt og egenvekt på minst 0,08 kW/kg.
+Den praktiske prøven til klasse A2 avlegges på motorsykkel uten sidevogn. Motorsykkelen skal ha slagvolum på minst 250 cm3, en effekt på minst 20 kW og høyst 35 kW, et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg og en konstruktiv hastighet på minst 100 km/t. Motorsykkel med elektrisk motor skal ha et forhold mellom effekt og egenvekt på minst 0,15 kW/kg.
+Den praktiske prøven til klasse A avlegges på motorsykkel uten sidevogn. Motorsykkelen skal ha et slagvolum på minst 595 cm3, en egenvekt på mer enn 180 kg, en effekt på minst 50 kW og en konstruktiv hastighet på minst 100 km/t. Motorsykkel med elektrisk motor skal ha et forhold mellom effekt og egenvekt på minst 0,25 kW/kg.
+Kjøretøy til førerprøve for klasse A1, A2 og A skal ha følgende tilleggsutstyr:
+a) dobbelt sett betjeningsinnretning for kopling og brems,
+b) speil på styrets høyre side hvor sensoren kan observere kandidaten,
+c) speil på venstre side for sensors sikt bakover,
+d) støttehåndtak for sensoren,
+e) kommunikasjonsutstyr for sensoren og kandidaten.
+Kandidaten skal under kjøring i tillegg til påbudt styrthjelm benytte gjennomsiktig visir eller briller, hansker, fottøy som dekker over ankelen og hensiktsmessige klær egnet for motorsykkelkjøring som dekker øvrige kroppsdeler. Hansker, fottøy og klær skal være av materiale som ikke smelter, brenner eller rives ved velt, og som har en beskyttende effekt ved slag og støt.
+Til den praktiske prøven skal det settes av 65 minutter hvor 20 minutter anvendes til ferdighetsprøve med sikkerhetskontroll og 45 minutter anvendes til trafikal prøve med kontroll før kjøring.
+Sikkerhetskontroll, kontroll før kjøring og ferdighetsprøve på avsperret område skal være gjennomført før kjøring i trafikk. Dersom ferdighetene ved prøving på avsperret område er slik at det synes farlig for sensor å gjennomføre kjøring i trafikk, skal prøven avbrytes og vurderes til ikke bestått.
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.

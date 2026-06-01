@@ -1,0 +1,3 @@
+# § 3-2. Krav til øvingskjøretøy
+Kjøretøyet skal tilhøre den aktuelle førerkortklassen. Ved øvingskjøring i klasse S kan eleven bruke beltemotorsykkel klasse 2 selv om eleven kun kan få førerett begrenset til beltemotorsykkel klasse 1. Ved øvingskjøring på veg i klasse T skal kjøretøyet ha minst to sitteplasser.
+Øvingskjøretøy for klasse B skal ha ett ekstra speil eller en skjerm som gir ledsageren tilstrekkelig utsyn bakover. Videre skal kjøretøyet være merket med skilt som bakover viser en rød bokstav L på hvit bakgrunn. Skiltet skal være godt synlig for bakenforkjørende. Skiltet skal fjernes når kjøretøyet benyttes til annet enn øvingskjøring.

@@ -1,0 +1,3 @@
+# § 7-5. Trinnvurdering
+Eleven skal, med utgangspunkt i sine prestasjoner, ta stilling til i hvilken grad målene for trinnet er nådd og om grunnlaget for videre opplæring er tilstrekkelig. Læreren skal gi eleven en tilråding i spørsmålet om eleven har den kompetansen som er nødvendig for å få et godt utbytte av opplæringen i neste trinn.
+Trinnvurderingen skal vare 45 minutter for trinn 2 og 60 minutter for trinn 3. Trinnvurderingen skal inneholde før- og ettersamtale, i tillegg til praktisk kjøring. For klasse AM 147 og klasse S gjennomføres trinnvurderingen som en del av den øvrige obligatoriske opplæringen med en eller flere elever.

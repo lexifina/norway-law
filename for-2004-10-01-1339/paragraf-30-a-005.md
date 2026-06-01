@@ -1,0 +1,3 @@
+# § 30A-5. Ny førerprøve etter pålegg fra politiet (kjørevurdering)
+Ny førerprøve etter pålegg fra politiet på bakgrunn av helsemessige årsaker eller mistanke om manglende kunnskaper eller kjøreferdigheter som hensynet til trafikksikkerheten krever, jf. vegtrafikkloven § 34 første ledd, skal gjennomføres med sensor som har kjørevurderingskompetanse.
+Ved ny førerprøve etter dette kapittelet, skal kandidatens prestasjoner måles opp mot hovedmålene for føreropplæringen for å kunne avdekke om kandidaten har en tilfredsstillende kompetanse med tanke på allmenn trafikksikkerhet. I tillegg gjelder kravene om kjørevurdering i § 30A-4 også for gjennomføring av ny førerprøve.

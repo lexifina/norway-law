@@ -1,0 +1,3 @@
+# § 30A-8. Kjøretøytilpasning
+I tilfeller der det er gjennomført og bestått kombinert prøve på et annet kjøretøy enn det førertilpassede kjøretøyet vedkommende skal ha, skal sensor vurdere behov for å gjennomføre en kjøretøytilpasning. Sensor skal også vurdere om det er behov for å gjennomføre en kjøretøytilpasning i tilfeller hvor vedkommende har førerett og fått nytt kjøretøy med nye eller tilsvarende førertilpasninger, uavhengig om det er gjennomført kjørevurdering med tilsvarende tilpasninger tidligere.
+For kjøretøytilpasning, gjelder bestemmelsene for kjørevurdering som fremgår i dette kapittelet.

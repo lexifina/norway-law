@@ -1,0 +1,5 @@
+# § 9-21. Obligatoriske kurs ved utvidelse fra klasse A1 til A2 uten praktisk prøve
+Ved utvidelse fra A1 til A2 skal eleven gjennomføre obligatorisk kurs ved utvidelse fra A1 til A2. Dette kurset er på 2 timer hvor minst 1 time er praktisk kjøring jf. § 9-22. Den praktiske øvingen gjennomføres ved at eleven kjører alene på motorsykkelen. Lærer kan maksimalt undervise 2 elever om gangen. Dette kurset gjennomføres innledningsvis og ikke på samme dag som annen obligatorisk opplæring.
+I tillegg skal eleven ved utvidelse fra A1 til A2 gjennomføre sikkerhetskurs i presis kjøreteknikk – klasse A2 og A jf. § 9-10 og § 9-11 og sikkerhetskurs på veg klasse A2 jf. § 9-14 og § 9-15.
+Dokumentert fullført obligatoriske kurs ved utvidelse av førerett i klasse A1 til A2 gir rett til førerett i klasse A2.
+Førerett i klasse A2, på bakgrunn av dokumentert fullført obligatoriske kurs ved utvidelse fra A1 til A2, forutsetter to års førerett i klasse A1. Kurset kan tidligst påbegynnes når eleven har ett års førerett i klasse A1.

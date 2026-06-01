@@ -1,0 +1,3 @@
+# § 4-9. Tilleggskrav til elever under øvingskjøring mot vederlag
+For øvingskjøring mot vederlag i klassene A, A2 og A1 skal eleven i tillegg til påbudt styrthjelm, benytte gjennomsiktig visir eller briller, hansker, fottøy som dekker over ankelen og hensiktsmessige klær egnet for motorsykkelkjøring som dekker øvrige kroppsdeler. Hansker, fottøy og klær skal være av materiale som ikke smelter, brenner eller rives ved velt, og som har en beskyttende effekt ved slag og støt.
+For øvingskjøring mot vederlag i klasse AM 146 skal eleven i tillegg til påbudt styrthjelm, benytte visir eller briller, hansker og fottøy som er egnet til kjøring på moped.

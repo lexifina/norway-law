@@ -1,0 +1,6 @@
+# § 5-11. Kontroll og tilsyn med trafikkskoler, kursarrangører og øvrige aktører som driver godkjenningspliktig opplæring
+Statens vegvesen fører tilsyn med trafikkskoler og kursarrangører for å kontrollere at disse opptrer i samsvar med denne forskriften, herunder vilkår stilt med hjemmel i forskriften.
+Statens vegvesen kan også føre tilsyn med opplæring i offentlig skoleverk som skjer i elevens fritid og aktør som det er rimelig grunn til å anta foretar ulovlig opplæring mot vederlag.
+Statens vegvesen kan gi reaksjoner etter bestemmelsene i § 5-12, § 6-5, § 6-7 og trafikklærerforskriften § 6.
+Statens vegvesen kan når som helst overvære undervisningen. Statens vegvesen kan treffe vedtak om å avbryte eller om å underkjenne obligatorisk opplæring dersom det er klart at opplæringen er i strid med denne forskriften.
+Eier av trafikkskole, faglig leder, ansvarlig hos kursarrangør, undervisningspersonell, annet personell og øvrige aktører plikter uten ugrunnet opphold å gi de opplysninger om virksomheten som blir krevd angående trafikkopplæringen samt framvise og utlevere til kontroll de dokumenter som angår trafikkopplæringen og virksomheten for øvrig. Er opplysningene lagret elektronisk, kan Statens vegvesen kreve datert utskrift undertegnet av faglig leder.

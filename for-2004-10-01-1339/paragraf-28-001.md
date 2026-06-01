@@ -1,0 +1,7 @@
+# § 28-1. Sikkerhetskurs på bane – klassene C, CE og D
+Sikkerhetskurs på bane for klassene C og D er på 9 undervisningstimer, hvorav hver elev skal ha 6 timer praktisk øving på banen. Det kan være inntil to elever i hver bil forutsatt at disse deler tiden likt. Inn under praktisk øving går også praktiske demonstrasjoner og fordeling av kjøretøy. Kurset kan gjennomføres med inntil 18 elever. Personer som har, eller har hatt, førerett i klassene C eller D som egen førerkortklasse på førerkortet, er fritatt fra kurset.
+Sikkerhetskurs på bane for klasse CE er på 9 undervisningstimer, hvorav hver elev skal ha 6 timer praktisk øving på banen. Det kan være inntil to elever i hver bil forutsatt at disse deler tiden likt. Inn under praktisk øving går også praktiske demonstrasjoner og fordeling av kjøretøy. Kurset kan gjennomføres med inntil 16 elever
+Er det åtte eller færre elever på kurset er det tilstrekkelig med én trafikklærer. Det skal være minst to trafikklærere dersom det er mellom ni og 16 elever på kurset. Ved 17 og 18 elever på kurset skal det være tre trafikklærere. Trafikklærer skal oppfylle kravene som følger av trafikklærerforskriften § 14. Eleven skal så langt det er mulig følges opp av samme trafikklærer gjennom hele kurset.
+Sikkerhetskurs på bane må være gjennomført før eleven går opp til førerprøven, eller senest et år etter at førerkortet ble utstedt.
+Kurset skal gjennomføres på bane som er godkjent av Statens vegvesen, jf. § 5-4.
+En trafikklærer kan undervise inntil 9 timer på banen per dag.

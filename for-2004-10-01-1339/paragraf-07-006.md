@@ -1,0 +1,4 @@
+# § 7-6. Innmelding av gjennomført obligatorisk opplæring
+Obligatorisk opplæring i et trinn, og trinnvurdering i trinn 2 og 3, skal være innmeldt til Statens vegvesen før obligatorisk opplæring i nytt trinn påbegynnes. Når obligatorisk opplæring i klasse S gis over et kort tidsrom, kan opplæringen meldes inn samlet. Opplæringen må være innmeldt senest fire dager etter at den er gjennomført. Innmeldingen skal skje elektronisk til Trafikkskole-, sensor- og kursarrangørregisteret (TSK-registeret).
+Ved opplæring innenfor det offentlige skoleverk er det ikke krav om at trinnvurderingen i trinn 2 og 3 skal meldes inn.
+Ved innmelding av trinnvurdering i Trafikkskole-, sensor- og kursarrangørregisteret (TSK-registeret) skal læreren gi en tilrådning av om eleven har et godt grunnlag for å gå videre med opplæring i neste trinn, eller om eleven rådes til å fortsette opplæringen i det aktuelle trinnet for å komme på riktig nivå.
