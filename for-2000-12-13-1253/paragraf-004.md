@@ -1,0 +1,2 @@
+# § 4. Fordeling av eksportavgiften
+De innkrevde midlene, samt renter bokført på kontoen, fordeles av Norges sjømatråd AS og Fiskeri- og havbruksnæringens forskningsfinansiering AS i fellesskap på grunnlag av avgiftsbestemmelsene i forskriftene omhandlet i § 1. Fordelingen skal skje i henhold til en særskilt utarbeidet fordelingsmodell. Fordelingsmodellen skal godkjennes av departementet. Dersom Norges sjømatråd AS og Fiskeri- og havbruksnæringens forskningsfinansiering AS ikke blir enige om fordeling i henhold til modellen, sendes saken til departementet for avgjørelse.
