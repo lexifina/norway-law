@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriften har til formål å samordne innkrevingen av avgifter på eksport av fisk, fiskevarer og marine produkter. Den samlede avgiften utgjør eksportavgiften og omfatter markedsavgift jf. forskrift 22. mars 1991 nr. 157 om regulering av eksporten av fisk, fiskevarer og marine produkter, og FoU-avgift jf. forskrift 5. september 2018 nr. 1320 om avgift til forskning og utvikling i fiskeri- og havbruksnæringen.
