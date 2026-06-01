@@ -1,0 +1,3 @@
+# § 4. Ansvaret for donasjons- og transplantasjonsverksemdene
+Dei regionale helseføretaka skal sørge for at alle potensielle donorar kan vurderast og gjevast mogelegheit for donasjon innan helseregionen, og for at krava i lova og forskriftene etter lova her blir oppfylte.
+Departementet kan gi forskrift om krav til verksemder som gjennomfører uttak eller transport av organ, celler og vev og transplantasjonar, mellom anna om godkjenning og rapporteringsplikt for verksemdene. Departementet kan gi forskrift om registrering og anna behandling av helseopplysingar og andre personopplysingar som er nødvendige for å gjennomføre uttak eller transport av organ, celler og vev og transplantasjonar.
