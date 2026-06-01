@@ -1,0 +1,4 @@
+# § 8. Opphør eller nedleggelse av biobank
+Den som ønsker å nedlegge en biobank eller som ønsker å destruere materialet i en biobank helt eller delvis, skal sende melding til departementet om dette, eller følge på forhånd fastlagte og innmeldte prosedyrer for slik nedleggelse eller destruksjon.
+Av meldingen skal det fremgå hvordan nedleggingen av banken eller destruksjonen av materialet skal skje.
+Dersom departementet innen 45 dager etter at slik melding er mottatt ikke har kommet med innsigelser eller bedt om ytterligere opplysninger, kan biobanken helt eller delvis nedlegges eller destrueres i samsvar med meldingen. Dersom departementet finner at biobanken på grunn av sitt innhold ikke bør nedlegges eller destrueres, kan departementet bestemme at biobanken fortsatt skal oppbevares, eller at den skal overføres til en annen biobank. Departementet må da overta det økonomiske ansvaret og sørge for at biobanken blir ivaretatt og forvaltet i tråd med denne lov.

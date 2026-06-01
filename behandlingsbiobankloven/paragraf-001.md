@@ -1,0 +1,3 @@
+# § 1. Formål
+Lovens formål er å sikre at innsamling, oppbevaring, behandling og destruksjon av materiale som inngår i en biobank foretas på en etisk forsvarlig måte, og at biobanker utnyttes til individets og samfunnets beste. Dette skal skje i samsvar med grunnleggende personvernhensyn, prinsipper om respekt for menneskeverd, menneskerettigheter og personlig integritet, og uten diskriminering av mennesker som det biologiske materialet stammer fra.
+Loven skal legge til rette for at materialet i biobanken kan benyttes til helsemessige formål, herunder diagnostikk, behandling og undervisning på en etisk forsvarlig måte.
