@@ -1,0 +1,5 @@
+# § 3-1. Krav til ledsager
+Ledsager må ha fylt 25 år, ha gyldig førerett for vedkommende kjøretøygruppe og ha hatt slik førerett uavbrutt de siste 5 år før øvingskjøring finner sted, jf. vegtrafikkloven § 26 andre ledd. Med gyldig førerett menes norsk førerett, førerett ervervet i annen EØS-stat, eller førerett fra annen stat som gir grunnlag for å utstede norsk førerkort uten krav til ytterligere opplæring eller prøver etter førerkortforskriften kapittel 10. Personer som ikke har ervervet føreretten sin i Norge må medbringe dokumentasjon på uavbrutt førerett de siste 5 år, frem til de oppfyller kravet til 5 års norsk førerett.
+Kravet til uavbrutt førerett de siste 5 år er oppfylt også for ledsager hvor føreretten har vært tilbakekalt i seks måneder eller mindre på grunn av helse.
+Godkjente trafikklærere etter trafikklærerforskriften § 4, kan være ledsager ved privat øvingskjøring fra fylte 23 år.
+Ved øvingskjøring med ledsager på veg som er åpen for alminnelig ferdsel, kan det bare øvingskjøres med en elev om gangen.

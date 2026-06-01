@@ -1,0 +1,10 @@
+# § 30A-4. Kjørevurdering
+Kjørevurdering består alltid av praktisk kjøring, og den starter med førsamtale og avsluttes med ettersamtale. Førsamtalen kan etter avtale gjennomføres en annen dag i forkant av kjørevurderingen.
+Kjøreruten skal legges slik at kandidaten får vise sine ferdigheter under vekslende veg- og trafikkforhold, med utgangspunkt i et standardisert ruteopplegg. Kjøreruten kan likevel tilpasses blant annet ut fra anmodning fra oppdragsgiver.
+Kjørevurderingen vurderes i størst mulig grad som en helhet. Sensor skal vurdere om kandidaten kan kjøre trafikksikkert med den helsesvekkelsen kandidaten eventuelt har og i tråd med oppdraget.
+Kjørevurderingen kan avbrytes og vurderes som ikke anbefalt hvis det oppstår en situasjon hvor sensor eller andre trafikanter må gripe inn for å unngå skade eller fare, og kandidaten selv skulle ha avverget situasjonen. Kjørevurderingen kan også avbrytes når adferden medfører at det kan oppstå vesentlige ulemper eller fare i trafikken.
+Inntrer driftsstopp, illebefinnende eller andre forhold som gjør det vanskelig å gjennomføre kjørevurderingen, kan kjørevurderingen avbrytes og vurderingen utstå til ny kjørevurdering kan gjennomføres.
+Kjøretøy til kjørevurderingen, unntatt tilhenger, skal være godkjent av Statens vegvesen som kjøretøy til førerprøve. Kjøretøykravene i kapittel 30 gjelder. Kandidaten skal selv stille godkjent kjøretøy til rådighet ved kjørevurderingen. Godkjenning som kjøretøy til førerprøve skal føres i vognkortet.
+Under kjørevurderingen skal sensor så vidt mulig ha plass ved siden av kandidaten.
+Hvis kandidaten ønsker det, og forholdene ellers ligger til rette for det, kan trafikklæreren være med i kjøretøyet under kjørevurderingen. Dette gjelder også hvis kandidaten har behov for at en annen person som en medhjelper, personlig pleier eller personlig assistent er med i kjøretøyet under kjøringen.
+I spesielle tilfeller kan det være mer enn en sensor eller annet tilsynspersonell til stede i kjøretøyet under kjørevurderingen.

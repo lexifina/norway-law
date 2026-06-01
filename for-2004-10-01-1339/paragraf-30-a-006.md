@@ -1,0 +1,3 @@
+# § 30A-6. Førertilpasset kjøretøy
+Hvis en person på grunn av funksjonsnedsettelse bare kan oppnå førerett på kjøretøy med førertilpasninger, skal kjørevurderingen avlegges på slikt kjøretøy, forutsatt at Statens vegvesen finner det forsvarlig å benytte kjøretøyet under kjørevurderingen, jf. § 4-8 første ledd. Kjøretøyet skal likevel være utstyrt med speil og ekstra bremsepedal for sensor. I særlige tilfeller kan det, etter søknad, gjøres unntak fra krav om ekstra bremsepedal for sensor.
+I enkelttilfeller kan trafikklærer, som kjenner kjøretøyet godt, ha plass ved siden av kandidaten. Sensor kan i slike tilfeller ha plass annet sted i kjøretøyet, som gir god oversikt til å vurdere hendelser og kandidaten under kjørevurderingen.

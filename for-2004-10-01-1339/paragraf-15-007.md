@@ -1,0 +1,2 @@
+# § 15-7. Sikkerhetskurs klasse T kode 141 og klasse T kode 148
+Kurset er på 7 undervisningstimer hvorav minst 2 timer er praktisk kjøring i trafikk med traktor og tilhenger med konstruktiv hastighet 50 km/t. Vekten av lasten må utgjøre minst 50 % av tillatt nyttelast inntil aktuell totalvekt er 7000 kg, likevel være minst 2000 kg. Aktuell totalvekt skal være minst 4000 kg. De øvrige timene av kurset kan gjennomføres med inntil 16 elever.

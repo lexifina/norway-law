@@ -1,0 +1,6 @@
+# § 29-11. Karantene for fusk eller forsøk på fusk ved førerprøven
+En kandidat som forsettlig eller grovt uaktsomt fusker eller forsøker å fuske til førerprøven, kan ilegges karantenetid fra tre til ni måneder. Dersom forholdet er av alvorlig karakter, kan det ilegges karantenetid fra ti måneder til ett år. Karantenetiden beregnes fra fusket ble avdekket.
+Opptreden og handlinger i strid med Statens vegvesens regelverk og retningslinjer for teoretisk og praktisk førerprøve er fusk. Som fusk regnes blant annet å benytte eller ha med ulovlige hjelpemidler under teoriprøve, for eksempel notater, mobiltelefon, kamera eller annet kommunikasjonsutstyr, samt samarbeid med andre. Som fusk regnes også lyd- og bildeopptak inne i bilen under praktisk prøve. Som fusk av alvorlig karakter regnes blant annet fusk med organisert preg, bruk av elektroniske hjelpemidler og at prøven avlegges av en annen enn kandidaten.
+Ved mistanke om fusk eller forsøk på fusk, ilegges midlertidig karantene til saken er ferdig behandlet.
+Kandidaten kan ikke avlegge teoretisk eller praktisk prøve i noen førerkortklasser under karantenetiden.
+Kandidaten kan øvingskjøre og gjennomføre trafikkopplæring i karantenetiden.

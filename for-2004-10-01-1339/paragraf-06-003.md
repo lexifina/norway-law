@@ -1,0 +1,2 @@
+# § 6-3. Undervisningspersonell i kurs i ulykkesberedskap
+Undervisningspersonell som ikke er godkjent trafikklærer for tunge klasser, jf. trafikklærerforskriften, skal ha spesialutdanning godkjent av Statens vegvesen. I tillegg skal vedkommende ha erfaring i brannberedskap, skadestedsledelse eller førstehjelp, avhengig av hvilket emne vedkommende skal undervise i, og være under oppsyn av godkjent trafikklærer for tunge klasser, jf. trafikklærerforskriften. Tilstedeværende trafikklærer er ansvarlig for opplæringen, jf. trafikklærerforskriften § 3.

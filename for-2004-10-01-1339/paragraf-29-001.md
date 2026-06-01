@@ -1,0 +1,7 @@
+# § 29-1. Alminnelige regler om førerprøven
+Statens vegvesen kan fastsette retningslinjer for innhold og vurdering av førerprøven. Statens vegvesen fastsetter de steder hvor førerprøven kan gjennomføres.
+Som hovedregel avlegges en teoretisk og en praktisk prøve for hver førerkortklasse. Den teoretiske prøven skal være bestått før praktisk prøve kan bestilles og avlegges.
+Dersom den teoretiske eller den praktiske prøven ikke bestås, kan ny prøve ikke avlegges før det har gått henholdsvis to eller fire uker. For klassene C, CE, D og DE er karantenetiden en uke for både teoretisk og praktisk prøve.
+For kandidater som ikke forstår norsk kan kommunikasjonen mellom kandidaten og sensoren foregå på et språk som partene behersker godt nok. Dersom språkproblemene er store, kan det benyttes godkjent tolk ved prøven. Eventuelle utgifter til tolk, utover hva som dekkes av den offentlige tolketjeneste, må kandidaten selv dekke. Tolken skal være godkjent av Statens vegvesen. Godkjenning som tolk kan tilbakekalles av Statens vegvesen blant annet dersom det avdekkes at vedkommende ikke innehar tilstrekkelig tolkefaglige kvalifikasjoner eller har bidratt til juks ved førerprøven. Kandidater som skal avlegge førerprøve for førerett i klassene C1, C1E, C, CE, D1, D1E, D eller DE, eller for annen kompetanse i yrkesmessig trafikk, må likevel gjennomføre prøven på norsk.
+Statens vegvesen utarbeider teoretiske prøver.
+Dersom praktisk prøve ikke er bestått innen tre år etter at teoretisk prøve er bestått, må kandidaten avlegge ny teoriprøve.
