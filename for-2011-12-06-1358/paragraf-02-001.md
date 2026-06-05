@@ -1,0 +1,3 @@
+# § 2-1. Tiltaksverdier
+Tiltaksverdiene for støyeksponering er:a)nedre tiltaksverdi for arbeidsforhold i gruppe I:LEX,1h = 55 dBb)nedre tiltaksverdi for arbeidsforhold i gruppe II:LEX,1h = 70 dBc)nedre tiltaksverdi for arbeidsforhold i gruppe III:LEX,8h = 80 dBd)øvre tiltaksverdier:LEX,8h = 85 dB og LpC,peak = 130 dB
+For arbeidsforhold i gruppene I og II skal støy fra egen aktivitet ikke inngå i vurderingen i forhold til nedre tiltaksverdi såfremt arbeidstakeren kan avbryte støyen. For spise- og hvilerom skal kun bakgrunnsstøy fra installasjoner, tilstøtende lokaler og omgivelser inngå i vurderingen.
