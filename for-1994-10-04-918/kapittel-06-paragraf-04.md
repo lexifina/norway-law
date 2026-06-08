@@ -1,0 +1,2 @@
+# § 6-3a. Godkjenning av jord- og skogbrukstraktor
+Ny jord- og skogbrukstraktor som er dokumentert EF-typegodkjent i samsvar med forordning (EU) nr. 167/2013 skal anses som godkjent. Det samme gjelder jord- og skogbrukstraktor dokumentert etter forordning (EU) nr. 1322/2014, forordning (EU) 2015/68, forordning (EU) 2015/96 og forordning (EU) 2015/208 i samsvar med de administrative bestemmelsene i forordning (EU) 2015/504.

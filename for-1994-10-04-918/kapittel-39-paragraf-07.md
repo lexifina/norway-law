@@ -1,0 +1,2 @@
+# § 39-7. Plassering av kjennemerke på to- eller trehjuls motorvogn
+1. Kjennemerke skal være synlig i et område avgrenset av 4 plan gjennom kjennemerkets 4 sidekanter. Disse plan skal sideveis og utover danne en vinkel på minst 30° med bilens lengdeakse. Det øverste plan skal danne en vinkel på minst 30° oppover, målt i forhold til horisontalplanet, og det nederste plan må være horisontalt eller danne en vinkel nedover.

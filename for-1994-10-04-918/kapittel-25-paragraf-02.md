@@ -1,0 +1,5 @@
+# § 25-2. Avgasser – generelle krav til bil
+1. Bil skal holdes i en slik forfatning at utslippet av forurensende avgasser ikke blir nevneverdig endret. Dyser, justering mv. skal til enhver tid være som foreskrevet av fabrikanten, og eventuelle forseglinger tillates bare brutt når det skjer i overensstemmelse med fabrikantens retningslinjer.
+2. Det er forbudt å montere utstyr som øker utslippet av forurensede avgasser med mindre det fremlegges dokumentasjon for at bilen tilfredsstiller de krav som ble lagt til grunn da den ble registrert første gang i Norge og utstyret er godkjent av Statens vegvesen.
+Ettermontering av avgassetterbehandlingsutstyr (f.eks. 3-veis katalysator og partikkelfilter) er bare tillatt dersom det foreligger dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at utstyret er utprøvd og tilpasset vedkommende biltype. Av dokumentasjonen skal det fremgå hvilken avgasstandard (EU-direktiv, ECE-regulativ osv.) biltypen er prøvet etter og tilfredsstiller.
+3. Nr. 2 annet ledd trer i kraft 1. november 2000 for ettermontering og ibruktagelse, uansett når bilen er registrert.

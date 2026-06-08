@@ -1,0 +1,107 @@
+# § 25-6. Avgasser – krav til bil ved første gangs registrering (direktiv 98/69/EF, direktiv 1999/102/EF, direktiv 2001/1/EF, direktiv 2001/100/EF, direktiv 2002/80/EF og direktiv direktiv 2003/76/EF), år 2000 («Euro 3, lette»)
+1. Kravnivå:
+Direktiv 98/69/EF, direktiv 1999/102/EF, direktiv 2001/1/EF, direktiv 2001/100/EF, direktiv 2002/80/EF, direktiv 2003/76/EF, «Euro 3, lette».
+2. Virkeområde m.m.:
+Denne paragraf gjelder for motorvogner som ikke omfattes av § 25-4 og § 25-5.
+Virkeområde for direktiv 70/220/EØF, som endret ved direktiv 98/69/EF, i henhold til direktivets vedlegg 1 nr. 1:
+Dette direktiv får anvendelse på
+- utslipp fra eksosrør ved normal og lav omgivelsestemperatur, fordampningsutslipp, utslipp av veivhusgasser, det forurensningsreduserende utstyrs holdbarhet og egendiagnosesystemer for alle motorvogner som har motorer med elektrisk tenning, og
+- utslipp fra eksosrør, det forurensningsreduserende utstyrs holdbarhet og egendiagnosesystemer for motorvogner i gruppe M1 og N1, utstyrt med kompresjonstenningsmotorer
+som omfattes av artikkel 1 i direktiv 70/220/EØF som endret ved direktiv 83/351/EØF, unntatt de motorvognene i gruppe N1 som er gitt typegodkjenning i henhold til direktiv 88/77/EØF.
+På produsentens anmodning kan typegodkjenning i henhold til dette direktiv utvides fra M1 – eller N1 -kjøretøy utstyrt med dieselmotor som allerede er typegodkjent, til M2 – og N2 -kjøretøy med en referansemasse som ikke overstiger 2 840 kg, og som oppfyller vilkårene i nr. 6 i dette vedlegg (utvidelse av EØF-typegodkjenning).
+I direktiv 70/220/EØF, artikkel 1 som endret ved direktiv 83/351/EØF, heter det:
+«I dette direktiv menes med motorvogn enhver motorvogn med motor med elektrisk tenning eller kompresjonstenning beregnet på å brukes på vei, med minst fire hjul, en høyeste tillatte totalvekt på minst 400 kg og som er konstruert for en topphastighet på over 50 km/t, unntatt landbrukstraktorer og -maskiner og unntatt kjøretøy til bruk i offentlige arbeider.»
+Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
+3. Alternativ standard: ECE-reg.nr. 83-05 tillegg 1 eller 2.
+4. Godkjenning:
+For biler som omfattes av direktiv 70/220/EØF med senere endringer, skal det ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra bilfabrikant eller kompetent, uavhengig laboratorium for at direktiv 70/220/EØF som senest endret ved direktiv 98/69/EF, direktiv 1999/102/EF, direktiv 2001/1/EF (jf. nr. 5.1 og 5.2), direktiv 2001/100/EF (jf. nr. 4.6), direktiv 2002/80/EF (jf. nr. 5.3) og direktiv 2003/76/EF (jf. nr. 5.3) er tilfredsstilt.
+Bilene gjennomgår seks forskjellige prøver og må tilfredsstille krav om egendiagnostikk (OBD):
+4.1. Type I-prøve (simulering av by- og landeveiskjøring for måling av gjennomsnittlige utslipp fra avgassrør etter kaldstart).
+Grenseverdier i henhold til direktiv 70/220/EØF som endret ved direktiv 98/69/EF vedlegg I nr. 5.3.1.4 rad A i tabellen, «Euro 3, lette»:
+ | Grenseverdier – år 2000
+Kategori/ klasse | Referansevekt, kg | CO g/km | HC g/km | NOx g/km | HC + NOx g/km | Partikler g/km
+Kat. | Kl. |  | Bensin | Diesel | Bensin | Bensin | Diesel | Diesel | Diesel
+M | – | alle | 2,3 | 0,64 | 0,20 | 0,15 | 0,50 | 0,56 | 0,05
+N1 | I | RV ≤ 1.305 | 2,3 | 0,64 | 0,20 | 0,15 | 0,50 | 0,56 | 0,05
+ | II | 1.305 < RV ≤ 1.760 | 4,17 | 0,80 | 0,25 | 0,18 | 0,65 | 0,72 | 0,07
+ | III | 1.760 < RV | 5,22 | 0,95 | 0,29 | 0,21 | 0,78 | 0,86 | 0,10
+4.2. Type II-prøve (prøve av CO-konsentrasjonen ved tomgangsturtall). Gjelder bare bil med elektrisk tenning og som ikke omfattes av type I-prøven.
+CO-konsentrasjonen på tomgang skal ikke overskride 3,5% ved innstilling tilsvarende type I-prøven og ikke overskride 4,5% utenfor dette området.
+4.3. Type III-prøve (kontroll av veivhusutslipp). Gjelder alle biler som direktivet omfatter unntatt de med dieselmotor.
+Under prøving som angitt i direktivet, skal veivhusets ventilasjonssystem ikke tillate utslipp av noen veivhusgasser til atmosfæren.
+4.4. Type IV-prøve (bestemmelse av fordampningsutslipp). Gjelder alle biler som direktivet omfatter unntatt de med dieselmotor.
+Under prøving som angitt i direktivet, skal fordampningsutslippet være under 2 g/prøve.
+4.5. Type V-prøve (holdbarhet av forurensningsreduserende innretninger). Gjelder alle biler direktivet omfatter.
+Prøven skal representere en aldringsprøve på 80.000 km. Hensikten med prøven er å komme frem til en forringelsesfaktor for hver av de tre grenseverdiene i type I-prøven. Forringelsesfaktoren er forholdet mellom utslippet ved 80.000 km og nybilutslippet. Prøven kan foretas på prøvebane, på vei eller på chassisdynamometer etter en kjøresyklus som angitt i direktivet. Fabrikanten kan alternativt velge faste forringelsesfaktorer angitt i direktivet.
+Forringelsesfaktorene anvendes ved at de målte utslippene under type I-prøven multipliseres med tilhørende forringelsesfaktorer før de sammenlignes med angitte grenseverdier.»
+4.6. Type VI-prøve (simulering av gjennomsnittlige utslipp fra avgassrør etter kaldstart ved lav omgivelsestemperatur, -7 °C). Gjelder bare bil med motor med elektrisk tenning (bensinmotor).
+Bilene kjøres på bensin i bysyklusdelen av type I-prøvesyklusen ved -7 °C med krav til CO og HC for M1 og N1.
+Grenseverdier og ikrafttredelser for gjennomføring av lavtemperaturprøve (-7 ° C) under typegodkjenning (direktiv 2001/100/EF):
+Kat. | Kl. | Ref. vekt, kg | CO, g/km | HC, g/km | Ikrafttr. typegodkj.
+M1 | – | alle | 15 | 1.8 | 1. januar 2002
+N1 | I | RV ≤ 1305 | 15 | 1.8 | 1. januar 2002
+N1 | II | 1305 < RV ≤ 1760 | 24 | 2.7 | 1. januar 2003
+ | III | 1760 < RV | 30 | 3.2 | 1. januar 2003
+Biler med motor med elektrisk tenning som bare kan gå på gass (LPG/naturgass), eventuelt at bilen også har en bensintank på 15 liter eller mindre og hvor drift på bensin kun er beregnet på nødsituasjoner eller start av motor, behøver ikke gjennomføre lavtemperaturtesten.
+4.7. OBD. Direktivet inneholder krav om at visse biler skal være utstyrt med egendiagnosesystem, «On Board Diagnostics» (OBD) for overvåkning av utstyr for utslippskontroll og utstyr som kan påvirke utslipp. Dersom det monteres på biler som ikke omfattes av kravet om at de skal ha dette installert, må disse likevel følge de tekniske kravene til OBD.
+Systemet skal greie å identifisere sannsynlige områder hvor ev. feil finnes ved at feilkoder lagres i datamaskinens minne. Feilkodene skal kunne avleses gjennom et standardisert grensesnitt for feildiagnoseoverføring. Grensesnittet skal ISO-standardiseres som definert i direktivets anneks XI, appendix 1, nr. 6.5.3.
+OBD-systemet skal kunne oppdage feil som medfører at utslippet overstiger/har oversteget grensene satt under:
+Kategori/ klasse | (RV) (kg) | (CO) (g/km) | (HC) (g/km) | (NOx) (g/km) | (PM) (g/km)
+Kategori | Kl. |  | Bensin/gass | Diesel | Bensin/gass | Diesel | Bensin/gass | Diesel | Diesel
+M | – | alle | 3,20 | 3,20 | 0,40 | 0,40 | 0,60 | 1,20 | 0,18
+N1 | I | RV ≤ 1.305 | 3,20 | 3,20 | 0,40 | 0,40 | 0,60 | 1,20 | 0,18
+ | II | 1.305 < RV ≤ 1.760 | 5,80 | 4,00 | 0,50 | 0,50 | 0,70 | 1,60 | 0,23
+ | III | 1.760 < RV | 7,30 | 4,80 | 0,60 | 0,60 | 0,80 | 1,90 | 0,28
+For at dette skal anses for å være oppfylt må OBD minst overvåke følgende:
+Bensin-/gassmotor:
+- Reduksjon av katalysatorvirkningsgraden, men bare mht. utslipp av HC.
+- Tilstedeværelse av feiltenninger.
+- Forringelse av oksygensensoren (lambda(λ)-sonden i eksosstrømmen).
+- Andre kontrollsystemer, dersom feil oppstår, som kan tenkes å resultere i at utslippet overstiger grensene i tabellen.
+- Den elektroniske kretsen for fordampningskontrollen fra tank- og drivstoffsystem må minst omfattes av en kretskontinuitetskontroll.
+Dieselmotor:
+- Dersom bilen har katalysator, skal dens effektivitet overvåkes.
+- Dersom bilen har partikkelfelle, skal dens funksjonalitet og integritet overvåkes.
+- Den elektroniske kretsen som styrer dieselinnsprøytningen herunder mengde og tidspunkt, skal undergå kretskontinuitetskontroll og kontroll på om kretsen virker.
+- Andre kontrollsystemer, som kan tenkes å resultere i at utslippet overstiger grensene i tabellen, dersom feil oppstår, som f.eks. komponenter som overvåker inntaksluftstrøm (og temperaturer) og ladetrykk (og tilhørende sensorer), skal overvåkes.
+5. Ikrafttreden
+5.1 Direktiv 98/69/EF, «Euro 3, lette»
+Kategori/klasse | Kjøretøyvekt, kg | Ikrafttredelser for
+Kat. | Klas. |  | Typegodkjenning | Registrering
+M1 | – | TTV ≤ 2.500 | 1. januar 2000 | 1. januar 2001
+ |  | TTV > 2.500 | 1. januar 2001 | 1. januar 2002
+N1 | I | RV ≤ 1.305 | 1. januar 2000 | 1. januar 2001
+ | II | 1.305 < RV ≤ 1.760 | 1. januar 2001 | 1. januar 2002
+ | III | 1.760< RV | 1. januar 2001 | 1. januar 2002
+5.2. Tidspunkter fra når person- og varebiler skal ha OBD-system installert avhengig av motor- og drivstofftype, bensin, diesel, LPG og naturgass (NG)
+Bensin: | Direktiv 70/220/EØF, som senest endret ved direktiv 98/69/EF artikkel 2, og vedlegg I nr. 8.1 (eller direktiv 70/220/EØF, som endret ved direktiv 2001/1/EF, vedlegg I nr. 8.1.1)
+Diesel: | Direktiv 70/220/EØF, som senest endret ved direktiv 1999/102/EF, vedlegg I nr. 8.2 og 8.3
+LPG og NG: | Direktiv 70/220/EØF, som senest endret ved direktiv 2001/1/EF, vedlegg I nr. 8.1.2.
+Biler som underkastes typegodkjenning og/eller skal registreres, skal fra tidspunktene under være utstyrt med OBD-system:
+ | Ikrafttredelser for OBD ved typegodkjenning/registrering
+Kat./kl. | Kjt. vekt, kg | Bensin 98/69/EF | Diesel 1999/102/EF | LPG og naturgass 2001/1/EF
+Kat. | Kl. |  | Typ. | Reg. | Typ. | Reg. | Type | Reg.
+M1 | – | TTV ≤2500 | 1/1-2000 | 1/1-2001 | 1/1-2003 1/1-2005 | 1/1-2004 1/1-2006 | 1/1-2003 | 1/1-2004
+ |  | TTV>2500 | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007
+N1 | I | RV ≤1305 | 1/1-2000 | 1/1-2001 | 1/1-2005 | 1/1-2006 | 1/1-2003 | 1/1-2004
+ | II | 1305<RV≤1760 | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007
+ | III | 1760<RV | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007
+5.3 Direktiv 2002/80/EF artikkel 2 og direktiv 2003/76/EF artikkel 2:
+Kategori/klasse | Kjøretøyvekt, kg | Ikrafttredelser for
+Kat. | Klas. |  | Typegodkjenning 2002/80/EF | Typegodkjenning 2003/76/EF | Registrering 2003/76/EF
+M1 | – | TTV ≤2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2006
+ |  | TTV>2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2007
+N1 | I | RV ≤1305 | 1. juli 2003 | 4. september 2004 | 1. januar 2006
+ | II | 1305<RV≤1760 | 1. juli 2003 | 4. september 2004 | 1. januar 2007
+ | III | 1760<RV | 1. juli 2003 | 4. september 2004 | 1. januar 2007
+5.4. Biler med dieselmotor utstyrt med direkteinnsprøytning, som er typegodkjent i henhold til lempningene i fotnote 1 til tabellen i § 25-8 (direktiv 96/96/EF), nr. 4.1 (tilsvarende avsnitt 5.3.1.4 i anneks I til direktiv 96/69/EF), kan registreres frem til følgende datoer:
+Kategori/klasse | Kjøretøyvekt/antall personer | Ikrafttredelse for
+Kat. | Klas. |  | registrering
+M1 | – | Antall personer inkl. føreren ≤ 6 | 1. januar 2001
+ |  | Antall personer inkl. føreren > 6 | 1. januar 2002
+ |  | TTV ≤ 2.500 | 1. januar 2001
+ |  | TTV > 2.500 | 1. januar 2002
+N1 | I | RV ≤ 1.305 og TTV ≤ 2.500 | 1. januar 2001
+ | I | RV ≤ 1.305 og TTV > 2.500 | 1. januar 2002
+ | II | 1035 < RV ≤ 1.760 | 1. januar 2002
+ | III | 1.760 < RV | 1. januar 2002

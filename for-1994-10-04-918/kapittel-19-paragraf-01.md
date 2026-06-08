@@ -1,0 +1,6 @@
+# § 19-1. Generelt om betjeningsinnretninger
+1. Alle betjeningsinnretninger som skal brukes under kjøring må være slik innrettet og plassert at føreren kan betjene dem på en lett og sikker måte, også når det brukes bilbelte. Instrumentbelysning og kontrollamper må ha tilstrekkelig styrke uten å virke blendende.
+2. Betjeningsinnretninger på biler som tilfredsstiller kravene i direktiv 78/316/EØF, eventuelt som endret ved direktiv 93/91/EØF eller direktiv 94/53/EF, anses å oppfylle bestemmelsene i nr. 1.
+Det samme gjelder for betjeningsinnretninger på to- og trehjulede motorvogner som tilfredsstiller kravene i direktiv 93/29/EØF eventuelt som endret ved direktiv 2000/74/EF, eller direktiv 2009/80/EF, og på jordbruks- eller skogbrukstraktor som tilfredsstiller kravene i direktiv 86/415/EØF, eventuelt som endret ved direktiv 97/54/EF og direktiv 2010/22/EU.
+3. For to- og trehjulede motorvogner gjelder bestemmelsene i denne paragraf kjøretøy som vurderes etter direktiv 93/29/EØF eventuelt som endret ved direktiv 2000/74/EF, som er typegodkjent i Norge før 1. oktober 1999 og/eller som registreres før 17. juni 2003. For kjøretøy som vurderes etter direktiv 2009/80/EF gjelder bestemmelsene for typegodkjenning av kjøretøy som finner sted etter 1. januar 2010.
+4. For typegodkjenning av biler gjelder bestemmelsene i denne paragraf til 6. september 2002.

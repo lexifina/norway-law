@@ -1,0 +1,2 @@
+# § 14-8. Karosseri og lasteplan på tilhenger
+1. For semitrailer er største tillatte avstand fra king pins senterakse horisontalt til semitrailerens bakre begrensning 12 m. Største tillatte avstand til king pins senterakse horisontalt til et hvilket som helst punkt på semitrailerens forkant er 2,04 m og største tillatte avstand fra king pin horisontalt til teoretisk svingsentrum for akslene er 8,15 m.

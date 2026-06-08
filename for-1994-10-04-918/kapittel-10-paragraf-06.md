@@ -1,0 +1,3 @@
+# § 10-6. Vektgaranti og vektfordeling for traktor i gruppe T5 som godkjennes etter 1. juli 2005
+Traktor i gruppe T5 som godkjennes etter 1. juli 2005 skal oppfylle kravene i bilag I til direktiv 74/151/EØF som senest endret ved direktiv 98/38/EF, eller bilag I til direktiv 2009/63/EF.
+Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at traktor i gruppe T5 tilfredsstiller ovennevnte krav. Dette gjelder ikke når traktor i gruppe T5 er ledsaget av et gyldig samsvarssertifikat i henhold til direktiv 2003/37/EF, som endret ved direktiv 2004/66/EF og direktiv 2005/67/EF. Alternativt kan traktor i gruppe T5 eller deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.

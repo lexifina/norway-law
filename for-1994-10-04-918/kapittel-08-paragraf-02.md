@@ -1,0 +1,3 @@
+# § 8-2. Krav til innvendig materiale i buss (direktiv 95/28/EF)
+Materialer som benyttes innvendig i kjøretøy i gruppe M med flere enn 22 passasjerplasser utover føreren og som omfattes av § 8-1, skal ha forbrenningsegenskaper som tilfredsstiller direktiv 95/28/EF.
+Ved godkjenning skal det fremlegges dokumentasjon fra fabrikant eller kompetent uavhengig laboratorium som viser at kjøretøyet tilfredsstiller ovennevnte krav. Dette gjelder ikke når kjøretøyet er ledsaget av et gyldig samsvarssertifikat og/eller er merket med typegodkjenningsnummer i henhold til direktiv 70/156/EØF. Alternativt kan kjøretøyet, deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.

@@ -1,0 +1,5 @@
+# § 28-17. Lysutstyr som traktor og motorredskap kan ha
+1. Traktor og motorredskap kan ha nødsignallys, hjelpefjernlys, kurve-/tåkelys, lykt(er) foran for varsling om at traktoren eller motorredskapen trekker tilhenger eller tilhengerredskap, lyshorn, markeringslys, hvite refleksanordninger foran, gule refleksanordninger på sidene, svakt lysende eller belyste reklameskilt e.l., arbeidslys, ryggelys, tåkebaklys, lykt(er) innvendig for belysning av instrumenter og belysning i person-/godsrom og varsellykter som gir blinkende, blått lys forover.
+Lykter og refleksanordninger må oppfylle de krav som er angitt for hver av dem i § 28-4 nr. 6 og § 28-5.
+2. Dessuten kan traktor og motorredskap som er konstruert for en hastighet ikke over 30 km/t ha fjernlys og stopplys, og traktor og motorredskap som er konstruert for en hastighet ikke over 10 km/t ha retningslys.
+Fjernlyset må minst tilfredsstille kravet til «M»-merking (ECE-reg.nr. 1). Øvrige lykter må oppfylle de krav som er angitt i § 28-14 nr. 6 og § 28-15 nr. 3.

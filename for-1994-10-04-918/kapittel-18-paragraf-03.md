@@ -1,0 +1,12 @@
+# § 18-3. Sitteinnretninger i buss med mindre enn 17 passasjerplasser som ikke omfattes av § 8-1
+1. Plass for sittende passasjerer skal være minst 450 mm bred i området fra sitteputen og oppover til 500 mm over denne. Over 500 mm tillates plassen ved vegg å smalne av innover med maksimalt 15° oppover til en høyde over sitteputen på 900 mm. Sitteputens høyde over gulvet skal være minst 300 mm. I en avstand på 150 mm innover fra vegg tillates dog at høyden reduseres til 150 mm. (Se fig. 1.) Kravet om minimum 300 mm høyde fra gulv til sittepute kan fravikes for seter over hjulkasser og mellomakseltunnel.
+Den vertikale avstanden fra sitteputen til tak eller annen hindring skal være minst 900 mm målt fra midt i sitteputen.
+2. Seteputens dybde og bredde skal være minst 400 mm x 400 mm.
+Den horisontale avstanden fra seteryggen og framover i sitteinnretningen som passasjer skal ha til disposisjon skal være minst 650 mm målt i en høyde av 50 mm over sitteputen. (Se fig. 1.) I en høyde på 100 mm fra gulvet skal benplassen i lengderetningen være minimum 300 mm. Målet på 300 mm kan godt være parallellforskjøvet i forhold til det som er vist i figuren.
+Ryggputens høyde over sitteputen skal være minimum 400 mm.
+3. Måling skal skje ved ubelastede seter, og med ryggputene stående i oppreist stilling dersom ryggputene er justerbare. Seter som er justerbare i lengderetningen skal stå i midtposisjon ved måling.
+4. Høyden fra gulv til tak i passasjerrommet skal være minimum 1.300 mm, i en lengde målt fra midt i første passasjersete til midt i siste passasjersete og i en bredde målt midt i det ytterste passasjersete på den ene siden til midt i det ytterste passasjersete på den andre siden.
+5. Dersom bussen er slik utformet at det er direkte adgang til samtlige seterader gjennom dører fra begge sider av bussen, kan kravet om 1.300 mm takhøyde i nr. 4 fravikes.
+Fig. 1
+6. Langsgående seter skal ved fremre og bakre begrensning ha en solid støtteskjerm eller tilsvarende anordning. Rygg på tverrstilt sete som er plassert umiddelbart framfor, anses som tilfredsstillende. Langsgående seter som har plass til flere enn tre personer skal for hver andre setepute være utstyrt med armstøtte eller annen anordning som hindrer passasjerene i å skli fremover.
+7. Klappseter kan regnes som ordinære sitteplasser dersom kravene i denne paragraf er oppfylt. Klappseter tillates imidlertid bare der hvor det er nødvendig av hensyn til adkomsten fra dør til øvrige sitteplasser og i et antall av maksimalt 2 stk.

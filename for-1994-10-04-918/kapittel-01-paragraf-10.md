@@ -1,0 +1,4 @@
+# § 1-10. Unntak for kjøretøy som brukes utenfor offentlig veg m.m.
+1. Kjøretøy som bare brukes utenfor offentlig veg er unntatt fra bestemmelsene i kap. 33 og 47. Tilhenger med konstruktiv hastighet ikke over 30 km/t som bare brukes utenfor offentlig veg og tilhengerredskap som bare brukes utenfor offentlig veg er unntatt fra kravet om bremser i kap. 26. Det forutsettes at kjøretøyene likevel kan brukes på forsvarlig måte.
+2. Kjøretøy som er registrert på kjennemerker med lysegule tegn på sort bunn kan av Statens vegvesen unntas fra bestemmelsene i denne forskrift, med unntak av kap. 1, 2, 3, 4, 5, 6, 7, 41, 42, 43, 46 og 47 i den utstrekning det finnes rimelig og forsvarlig.
+3. Kjøretøy som ikke er registreringspliktig og som bare brukes utenfor offentlig veg er unntatt fra bestemmelsene i denne forskrift, med unntak av kapitlene 1, 2, 3, 4, 5, 6, 7, 41, 42, 43, 46 og 47 i den utstrekning kjøretøyene likevel kan brukes på forsvarlig måte.

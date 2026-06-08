@@ -1,0 +1,3 @@
+# § 18-9. Sitteinnretninger på traktor
+1. Sitteinnretning skal ha tilfredsstillende fotstøtte. Sitteinnretning, fotstøtte mv. skal være slik plassert og avskjermet at fører og passasjerer er effektivt beskyttet mot hjul og andre bevegelige eller spisse eller skarpe deler. Ingen del av sitteinnretningen eller fotstøtten må rage utenfor motorvognens karosseri, hjul eller annen solid del av motorvognen. På traktor av type som skal være utstyrt med førervern, skal sitteinnretningene være slik plassert at fører og passasjerer har tilfredsstillende beskyttelse av vernet.
+2. Sitteinnretningene skal ha en bredde av minst 40 cm pr. person.
