@@ -1,0 +1,2 @@
+# § 11. Krav til personale
+Personale som utfører arbeid ved godkjent kjøretøyverksted skal ha nødvendig kompetanse for det arbeidet de gjennomfører. Personale som skal kjøre de kjøretøy det utføres arbeid på, må ha førerkort for dette, jf. forskrift 19. januar 2004 nr. 298 om førerkort m.m. Unntak i førerkortforskriften § 12-2 første ledd gjelder. De som prøvekjører etter større reparasjoner på vitale deler av kjøretøyet, skal i tillegg ha fagbrev eller likeverdig utdanning.

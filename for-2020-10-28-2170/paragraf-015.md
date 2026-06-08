@@ -1,0 +1,5 @@
+# § 15. Plikt til å opprette kvalitetsstyringssystem
+Den som er gitt godkjenning som kjøretøyverksted skal etablere og ajourholde et kvalitetsstyringssystem for verkstedets aktiviteter knyttet til godkjenningspliktige arbeid slik dette er definert i denne forskrift og nærmere avgrenses i Statens vegvesens vedtak om godkjenning. Systemet skal utarbeides og ajourholdes i samarbeid med teknisk leder og personale.
+Formålet med kvalitetsstyringssystemet er å sikre riktig kvalitet på arbeidet, at godkjenningspliktig arbeid oppfyller kravene i denne forskrift og gjennom kontinuerlig forbedring bidrar til riktig reparasjonskvalitet.
+Kvalitetsstyringssystemet skal inneholde nødvendige beskrivelser, prosedyrebeskrivelser og krav til registreringer for å sikre formålet. Med prosedyrebeskrivelse menes et dokument som angir fremgangsmåten for å utføre en aktivitet eller arbeidsprosess. Med registreringer menes et dokument som beviser oppnådd resultat eller gjennomførte aktiviteter.
+Teknisk leder plikter å føre tilsyn med at arbeidet organiseres og gjennomføres slik dette er fastsatt i kvalitetssystemet.

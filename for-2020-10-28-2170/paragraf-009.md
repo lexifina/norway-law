@@ -1,0 +1,5 @@
+# § 9. Teknisk leder og stedfortreder
+Godkjent kjøretøyverksted skal ha en teknisk leder med stedfortreder som er godkjent av Statens vegvesen. Statens vegvesen kan ved godkjenning av virksomheten gjøre unntak fra kravet til stedfortreder når kravet vil virke urimelig av hensyn til virksomhetens størrelse.
+Teknisk leder skal være heltidsbeskjeftiget og delta aktivt i arbeidet med å veilede personalet og påse at arbeidet utføres i samsvar med krav fastsatt i lov og forskrift. Teknisk leder er ansvarlig for at reparasjonsvirksomheten drives i samsvar med denne forskriften, skal samordne reparasjonsvirksomheten og er verkstedets kontaktperson overfor Statens vegvesen.
+I teknisk leders fravær påhviler dennes plikter og ansvar stedfortreder. Stedfortreder må ha godkjenning som teknisk leder, jf. § 10.
+Statens vegvesen registrerer opplysninger, herunder personopplysninger, om tekniske ledere og stedfortredere i sitt elektroniske register i forbindelse med søknader, godkjenninger, tilsyn og reaksjoner.
