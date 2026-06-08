@@ -1,0 +1,2 @@
+# § 11-6. Meldeplikt for handler foretatt av ansatte, tillitsvalgte og deres nærstående
+Ansatte og tillitsvalgte i en markedsoperatør skal melde til den aktuelle markedsoperatøren om egne og nærståendes erverv eller avhendelse av finansielle instrumenter. Markedsoperatøren skal fastsette nærmere frist for slik melding. Meldeplikten gjelder ikke for andeler som nevnt i § 11-5 tredje ledd. Med nærstående menes personer og foretak med tilknytning som nevnt i verdipapirhandelloven § 2-5 nr. 1, 2, 4 og 5.

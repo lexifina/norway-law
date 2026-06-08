@@ -1,0 +1,2 @@
+# § 3-7. Gjennomføring av kommisjonsforordning (EU) nr. 918/2012
+EØS-avtalen vedlegg IX nr. 29fc (forordning (EU) nr. 918/2012 om utfylling av shortsalgforordningen med hensyn til definisjoner, beregning av korte nettoposisjoner, dekkende kredittbytteavtaler for statspapirer, terskler for melding, likviditetsterskler for oppheving av begrensinger, betydelige verdifall for finansielle instrumenter og uønskede hendelser som endret ved forordning (EU) 2015/97) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

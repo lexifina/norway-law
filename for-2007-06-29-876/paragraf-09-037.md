@@ -1,0 +1,2 @@
+# § 9-37. Handelsprosessen og gjennomføring av transaksjoner på multilaterale handelsfasiliteter og organiserte handelsfasiliteter
+Nærmere regler om handelsprosessen og gjennomføring av transaksjoner på multilaterale handelsfasiliteter og organiserte handelsfasiliteter følger av forordning (EU) 2017/584, forordning (EU) 2017/578, forordning (EU) 2017/566, forordning (EU) 2017/573, forordning (EU) 2017/588, forordning (EU) 2017/570 og forordning (EU) 2017/574 som gjennomført i § 11-8.

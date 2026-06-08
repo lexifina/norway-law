@@ -1,0 +1,3 @@
+# § 2-2. Gjennomføring av kommisjonsforordningen til verdipapirmarkedsdirektivet
+(1) EØS-avtalen vedlegg IX forordning (EU) 2017/565 (om utfylling av verdipapirmarkedsdirektivet med hensyn til organisatoriske krav og virksomhetskrav for verdipapirforetak og definisjoner av begreper for nevnte direktivs formål) som endret ved forordning (EU) 2017/2294, forordning (EU) 2019/1011, forordning (EU) 2021/527, forordning (EU) 2021/1253 og forordning (EU) 2021/1254 gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) Når det i forskriften her vises til kommisjonsforordningen til verdipapirmarkedsdirektivet, menes forordning (EU) 2017/565 som gjennomført i første ledd.

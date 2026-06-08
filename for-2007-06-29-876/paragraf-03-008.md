@@ -1,0 +1,2 @@
+# § 3-8. Gjennomføring av kommisjonsforordning (EU) nr. 919/2012
+EØS-avtalen vedlegg IX nr. 29fd (forordning (EU) nr. 919/2012 om utfylling av shortsalgforordningen med hensyn til tekniske reguleringsstandarder for metoden for beregning av verdifall for likvide aksjer og andre finansielle instrumenter) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

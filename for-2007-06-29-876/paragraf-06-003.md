@@ -1,0 +1,3 @@
+# § 6-3. Garantibeløp
+(1) Garantibeløpet skal minimum tilsvare det beløp som fremkommer ved å multiplisere det samlede antall aksjer i selskapet som omfattes av tilbudet med tilbudsprisen. Til det beløpet som da fremkommer, legges et beløp som tilsvarer forsinkelsesrente i fire uker av beløpet, jf. lov 17. desember 1976 nr. 100 om forsinket betaling m.m. Med tilbudsprisen menes i de tilfellene hvor det også gis tilbud om oppgjør i annet enn penger, det kontantalternativet tilbyder plikter å gi.
+(2) Dersom selskapet vurderer å søke om nedskriving av garantien når tilbudsperioden løper ut, skal det opplyses om dette i garantierklæringen.

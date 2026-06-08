@@ -1,0 +1,10 @@
+# § 6-13. Anvendelsesområde og tilbudsmyndighet
+(1) Dersom selskap med forretningskontor i Norge er notert på regulert marked i Norge, føres tilsyn med tilbudet av norsk tilbudsmyndighet. Verdipapirhandelloven gjelder for slike tilbud.
+(2) Dersom selskap med forretningskontor i Norge ikke er notert på regulert marked i Norge, men er notert på regulert marked i en annen EØS-stat, føres tilsyn med tilbudet av tilbudsmyndighet i den staten der det regulerte markedet som selskapet er notert på ligger, med mindre annet følger av § 6-14 første ledd.
+(3) Første ledd gjelder, med mindre annet følger av § 6-14 annet ledd, tilsvarende for tilbud om overtakelse av:
+1) selskap med forretningskontor i annen EØS-stat enn Norge, hvis aksjer eller andre verdipapirer som kan sidestilles med aksjer ikke er notert på regulert marked i EØS-staten hvor selskapet har forretningskontor, hvis
+a) selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer kun er notert på norsk regulert marked,
+b) selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer er notert på regulert marked i flere EØS-stater, dersom notering skjedde i Norge først,
+c) selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer blir notert samtidig på norsk regulert marked og på et eller flere regulerte marked i andre EU/EØS-stater, dersom selskapet meddeler norsk tilbudsmyndighet og relevant regulert marked på første handelsdag at det har valgt norsk tilbudsmyndighet, eller
+d) selskapets aksjer eller andre verdipapirer som kan sidestilles med aksjer pr. 20. mai 2006 allerede var notert på flere regulerte markeder og noteringer var skjedd samtidig, dersom selskapet meddeler norsk tilbudsmyndighet og relevant regulert marked på første handelsdag at det har valgt norsk tilbudsmyndighet, med mindre de aktuelle kompetente myndighetene gjennom avtale før 20. juni 2006 har fastsatt at annen kompetent myndighet skal ha ansvaret i forhold til tilbudet.
+2) selskap med forretningskontor i stat utenfor EØS-området, hvis aksjer er notert på norsk regulert marked, med mindre tilbudsmyndigheten har gitt dispensasjon etter vphl. § 6-23 tredje ledd.

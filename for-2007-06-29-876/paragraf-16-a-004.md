@@ -1,0 +1,2 @@
+# § 16A-4. Avgifter for transaksjonsregistre
+EØS-avtalen vedlegg IX forordning (EU) 2019/360 (om utfylling av europaparlaments- og rådsforordning (EU) 2015/2365 med hensyn til avgifter fra Den europeiske verdipapir- og markedstilsynsmyndighet til transaksjonsregistre) som endret ved forordning (EU) 2021/822, gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

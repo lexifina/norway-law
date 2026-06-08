@@ -1,0 +1,3 @@
+# § 9-13. Ansvarlig for beskyttelse av kundenes aktiva
+(1) Verdipapirforetak skal utpeke en medarbeider med særlig ansvar for saker om foretakets overholdelse av plikt til å beskytte kundenes finansielle instrumenter og midler. Medarbeideren skal ha tilstrekkelige kvalifikasjoner og autoritet.
+(2) Verdipapirforetak kan, forutsatt at foretaket fremdeles overholder bestemmelsene i forskriften her, selv beslutte om den utpekte medarbeideren utelukkende skal utføre denne oppgaven, eller om vedkommende kan ivareta dette ansvaret på en effektiv måte samtidig som vedkommende har andre ansvarsområder.

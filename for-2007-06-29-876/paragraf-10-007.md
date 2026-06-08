@@ -1,0 +1,4 @@
+# § 10-7. Opplysninger om kvaliteten på utførelsen av transaksjoner mv.
+(1) EØS-avtalen vedlegg IX forordning (EU) 2017/575 (om utfylling av verdipapirmarkedsdirektivet med hensyn til tekniske reguleringsstandarder for opplysninger som skal offentliggjøres av utførelsesplassen om kvaliteten på utførelsen av transaksjoner) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) EØS-avtalen vedlegg IX forordning (EU) 2017/576 (om utfylling av verdipapirmarkedsdirektivet med hensyn til tekniske reguleringsstandarder for verdipapirforetaks årlige offentliggjøring av opplysninger om utførelsesplassens identitet og om kvaliteten på utførelsen) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(3) Plikten til å offentliggjøre informasjon som nevnt i verdipapirhandelloven § 10-20 første ledd gjelder ikke frem til 28. februar 2023.

@@ -1,0 +1,3 @@
+# § 9-23. Opplysninger til distributør
+(1) Verdipapirforetak skal sikre at opplysningene om et finansielt instrument som gis til en distributør, omfatter opplysninger om egnede distribusjonskanaler for det finansielle instrumentet, prosessen for produktgodkjenning og vurderingen av målgruppen. Opplysningene skal være av en slik kvalitet at det er mulig for distributøren å forstå og anbefale eller selge det finansielle instrumentet på en egnet måte.
+(2) Det finansielle instrumentets bærekraftsfaktorer skal presenteres på en klar måte og gi distributørene de opplysninger som er relevante for å kunne vurdere kundens eller den potensielle kundens bærekraftsrelaterte mål.

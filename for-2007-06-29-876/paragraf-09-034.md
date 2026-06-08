@@ -1,0 +1,2 @@
+# § 9-34. Organisatoriske krav til verdipapirforetak som benytter algoritmebasert handel mv.
+EØS-avtalen vedlegg IX forordning (EU) 2017/589 (om utfylling av verdipapirmarkedsdirektivet med hensyn tekniske reguleringsstandarder for spesifisering av organisatoriske krav til verdipapirforetak som benytter algoritmebasert handel) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

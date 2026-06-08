@@ -1,0 +1,11 @@
+# § 10-1a. Vederlag som ansees egnet til å forbedre kvaliteten på tjenesten til kunden
+(1) Vederlag som nevnt i verdipapirhandelloven § 10-12 skal anses egnet til å forbedre kvaliteten på tjenesten til kunden dersom følgende vilkår er oppfylt:
+a) vederlaget er berettiget av at kunden mottar en tilleggstjeneste eller en tjeneste med høyere kvalitet som står i forhold til størrelsen på det mottatte vederlaget,
+b) vederlag som gir direkte fordel for det mottakende foretaket, dets aksjeeiere eller dets ansatte, må gi kunden en merkbar fordel, og
+c) vederlaget er berettiget av at det ytes en løpende fordel til vedkommende kunde i tilknytning til et løpende vederlag.
+(2) Tilleggstjenester eller tjenester med høyere kvalitet som nevnt i første ledd bokstav a, kan eksempelvis være følgende ytelser:
+a) uavhengig investeringsrådgivning om og tilgang til et bredt utvalg av finansielle instrumenter som egner seg for kunden, inkludert et hensiktsmessig antall instrumenter fra tilbydere som ikke har nære forbindelser med verdipapirforetaket,
+b) ikke-uavhengig investeringsrådgivning i kombinasjon med enten tilbud om å vurdere egnetheten av de finansielle instrumentene kunden har investert i minst årlig, eller annen løpende tjeneste til kunden som må antas å være av verdi for kunden, herunder rådgivning om optimal allokering av kundens aktiva,
+c) tilgang til et bredt utvalg av finansielle instrumenter til konkurransedyktig pris som må antas å oppfylle kundens behov, inkludert et hensiktsmessig antall instrumenter fra tilbydere som ikke har nære forbindelser med verdipapirforetaket, sammen med enten verktøy som gir merverdi for kunden, eller med periodiske rapporter over prestasjoner, kostnader og gebyrer som er tilknyttet det finansielle instrumentet. Verktøy som gir merverdi for kunden kan eksempelvis være objektive informasjonsverktøy som bistår kunden med å ta investeringsbeslutninger, eller som setter kunden i stand til å overvåke, tilpasse og justere utvalget av finansielle instrumenter som kunden har investert i.
+(3) Foretaket kan ikke motta eller yte vederlag dersom tjenesten som ytes til kunden, påvirkes eller forringes som følge av vederlaget.
+(4) Første til tredje ledd gjelder løpende så lenge foretaket yter eller mottar vederlag.

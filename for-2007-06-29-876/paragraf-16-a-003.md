@@ -1,0 +1,2 @@
+# § 16A-3. Transaksjonsregistres virksomhet
+EØS-avtalen vedlegg IX forordning (EU) 2019/358 (om utfylling av europaparlaments- og rådsforordning (EU) 2015/2365 med hensyn til tekniske reguleringsstandarder om innsamling, verifisering, aggregering, sammenlikning og publisering av data om verdipapirfinansieringstransaksjoner (SFT-er) av transaksjonsregistre) gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
