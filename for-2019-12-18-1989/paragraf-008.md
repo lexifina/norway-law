@@ -1,0 +1,5 @@
+# § 8. Utfyllende regler om miljømessige, sosiale og styringsmessige faktorer
+Følgende forordninger gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig:
+1) EØS-avtalen vedlegg IX forordning (EU) 2020/1816 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til redegjørelsen i referanseverdierklæringen om hvordan miljømessige, sosiale og styringsmessige faktorer gjenspeiles i hver referanseverdi som leveres og offentliggjøres).
+2) EØS-avtalen vedlegg IX forordning (EU) 2020/1817 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til minstekravet til innhold i redegjørelsen for hvordan miljømessige, sosiale og styringsmessige faktorer gjenspeiles i referanseverdimetoden).
+3) EØS-avtalen vedlegg IX forordning (EU) 2020/1818 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til minstestandarder for EU-referanseverdier for klimaomstilling og EU-referanseverdier for tilpasning til Parisavtalen), med endringene som følger av forordning (EU) 2025/1775.

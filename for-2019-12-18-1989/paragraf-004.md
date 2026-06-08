@@ -1,0 +1,4 @@
+# § 4. Utfyllende regler om unntak fra visse krav for administratorer av betydningsfulle og ikke-betydningsfulle referanseverdier
+Følgende forordninger gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig:
+1) EØS-avtalen vedlegg IX forordning (EU) 2018/1106 (om fastsettelse av tekniske gjennomføringsstandarder med hensyn til malene for samsvarserklæringen som skal offentliggjøres og ajourføres av administratorer av betydningsfulle og ikke-betydningsfulle referanseverdier i henhold til europaparlaments- og rådsforordning (EU) 2016/1011).
+2) EØS-avtalen vedlegg IX forordning (EU) 2018/1642 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til tekniske reguleringsstandarder som spesifiserer hvilke kriterier vedkommende myndigheter skal ta i betraktning når de vurderer om administratorer av betydningsfulle referanseverdier bør anvende bestemte krav).

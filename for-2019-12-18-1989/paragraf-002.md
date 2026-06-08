@@ -1,0 +1,2 @@
+# § 2. Utfyllende regler om krav til søknader om tillatelse og registrering
+EØS-avtalen vedlegg IX forordning (EU) 2018/1646 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til tekniske reguleringsstandarder for opplysninger som skal gis i søknader om tillatelse og i søknader om registrering) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

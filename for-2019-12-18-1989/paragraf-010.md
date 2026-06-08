@@ -1,0 +1,4 @@
+# § 10. Utfyllende regler til tredjelandsbestemmelsene
+Følgende forordninger gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig:
+1) EØS-avtalen vedlegg IX forordning (EU) 2018/1644 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til tekniske reguleringsstandarder for fastsettelse av minstekravet til innhold i samarbeidsavtalene med vedkommende myndigheter i tredjeland hvis rettslige rammer og tilsynspraksis er anerkjent som likeverdige).
+2) EØS-avtalen vedlegg IX forordning (EU) 2018/1645 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til tekniske reguleringsstandarder for formen på og innholdet i søknaden om anerkjennelse hos vedkommende myndighet i referansemedlemsstaten og presentasjonen av opplysningene i meldingen til Den europeiske verdipapir- og markedstilsynsmyndighet (ESMA)).

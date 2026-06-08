@@ -1,0 +1,2 @@
+# § 5. Utfyllende regler om krav til bidragsytere til referanseverdier
+EØS-avtalen vedlegg IX forordning (EU) 2018/1640 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til tekniske reguleringsstandarder som spesifiserer styrings- og kontrollkravene for bidragsytere under tilsyn) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

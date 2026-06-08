@@ -1,0 +1,2 @@
+# § 1a. Gjennomføring av forordning (EU) 2019/2089
+EØS-avtalen vedlegg IX forordning (EU) 2019/2089 (om endring av forordning (EU) 2016/1011 med hensyn til EU-referanseverdier for klimaomstilling, EU-referanseverdier for tilpasning til Parisavtalen og bærekraftsrelaterte opplysninger for referanseverdier) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig. Forordningen gjør endringer i forordning (EU) 2016/1011, som er gjennomført i referanseverdiloven § 1.
