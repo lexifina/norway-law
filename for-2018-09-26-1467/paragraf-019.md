@@ -1,0 +1,3 @@
+# § 19. Krav til habilitet
+Ansvarlig leder, stedfortreder og mekanikere i fartsskriververksted har ikke anledning til å utføre arbeid på og kontroll av fartsskriver i kjøretøy de selv eller deres nærstående eier eller råder over. De har heller ikke anledning til å utføre slikt arbeid eller kontroll på kjøretøy som kollegaer eller overordnete i verkstedet eier eller råder over.
+Dersom fartsskriververkstedet utfører arbeid på fartsskriver i kjøretøy det selv eier eller på annen måte har råderett over eller har vesentlig interesse i, skal fartsskriververkstedet ha særlige rutiner som sikrer objektivitet og kvalitet i arbeidet, jf. 15 bokstav h).

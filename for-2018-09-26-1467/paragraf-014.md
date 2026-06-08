@@ -1,0 +1,5 @@
+# § 14. Krav til etablering og ajourhold av kvalitetsstyringssystem
+Den som er gitt godkjenning som fartsskriververksted skal etablere og ajourholde et kvalitetsstyringssystem for fartsskriververkstedets aktiviteter knyttet til fartsskrivere slik dette er definert i denne forskrift og nærmere avgrenses i Statens vegvesens vedtak om godkjenning. Systemet skal utarbeides og ajourholdes i samarbeid med ansvarlig leder og personale.
+Formålet med kvalitetsstyringssystemet er å sikre riktig kvalitet på arbeidet, at arbeid på fartsskrivere oppfyller kravene i denne forskrift og gjennom kontinuerlig forbedring bidrar til økt kundetilfredshet.
+Kvalitetsstyringssystemet skal inneholde nødvendige beskrivelser, prosedyrebeskrivelser og krav til registreringer for å sikre formålet. Med prosedyrebeskrivelse menes et dokument som angir fremgangsmåten for å utføre en aktivitet eller arbeidsprosess. Med registreringer menes et dokument som beviser oppnådd resultat eller gjennomførte aktiviteter.
+Ansvarlig leder plikter å føre tilsyn med at arbeidet organiseres og gjennomføres slik dette er fastsatt i kvalitetsstyringssystemet.

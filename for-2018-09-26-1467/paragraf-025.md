@@ -1,0 +1,4 @@
+# § 25. Tilsyn
+Statens vegvesen fører tilsyn med virksomheter og personer som det er rimelig grunn til å anta utfører godkjenningspliktig arbeid på fartsskriver, jf. § 4. Tilsynet skal ha en hyppighet og et innhold som beskrevet i forordning (EU) nr. 165/2014 artikkel 24 nr. 3 a) og b).
+Fartsskriververksted plikter å gi Statens vegvesen adgang til steder og bistå slik det ellers er nødvendig for å gjennomføre tilsyn, herunder fremvise og utlevere dokumenter som angår arbeid på fartsskriver og virksomheten for øvrig. Statens vegvesen kan utføre kontroll med pågående arbeid på fartsskrivere. Dersom det er nødvendig for å gjennomføre tilsynet kan Statens vegvesen innkalle kjøretøy til kontroll.
+Ved gjennomført tilsyn minst hvert annet år betales et gebyr. Gebyrsatsene fremgår av forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 15.
