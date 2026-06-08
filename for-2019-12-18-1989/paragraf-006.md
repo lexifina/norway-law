@@ -1,0 +1,8 @@
+# § 6. Identifiserte kritiske referanseverdier
+Følgende forordninger gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig:
+1) EØS-avtalen vedlegg IX forordning (EU) 2016/1368 (om utarbeiding av en liste over kritiske referanseverdier som brukes på finansmarkedene i henhold til europaparlaments- og rådsforordning (EU) 2016/1011).
+2) EØS-avtalen vedlegg IX forordning (EU) 2017/1147 (om endring av forordning (EU) 2016/1368 om utarbeiding av en liste over kritiske referanseverdier som brukes på finansmarkedene i henhold til europaparlaments- og rådsforordning (EU) 2016/1011).
+3) EØS-avtalen vedlegg IX forordning (EU) 2017/2446 (om endring av forordning (EU) 2016/1368 om utarbeiding av en liste over kritiske referanseverdier som brukes på finansmarkedene i henhold til europaparlaments- og rådsforordning (EU) 2016/1011).
+4) EØS-avtalen vedlegg IX forordning (EU) 2018/1557 (om endring av forordning (EU) 2016/1368 om utarbeiding av en liste over kritiske referanseverdier som brukes på finansmarkedene i henhold til europaparlaments- og rådsforordning (EU) 2016/1011).
+5) EØS-avtalen vedlegg IX forordning (EU) 2019/482 (om endring av forordning (EU) 2016/1368 om utarbeiding av en liste over kritiske referanseverdier som brukes på finansmarkedene i henhold til europaparlaments- og rådsforordning (EU) 2016/1011).
+6) EØS-avtalen vedlegg IX forordning (EU) 2021/1122 (om endring av forordning (EU) 2016/1368 om utarbeiding av en liste over kritiske referanseverdier som brukes på finansmarkedene i henhold til europaparlaments- og rådsforordning (EU) 2016/1011).

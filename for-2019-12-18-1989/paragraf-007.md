@@ -1,0 +1,4 @@
+# § 7. Utfyllende regler tilknyttet klassifiseringen av referanseverdier
+Følgende forordninger gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig:
+1) EØS-avtalen vedlegg IX forordning (EU) 2018/64 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 med hensyn til å angi hvordan kriteriene i artikkel 20 nr. 1 bokstav c) iii) skal anvendes for å vurdere om visse hendelser vil kunne medføre betydelig og negativ innvirkning på markedets integritet, finansiell stabilitet, forbrukere, realøkonomien eller finansieringen av husholdninger og foretak i en eller flere medlemsstater).
+2) EØS-avtalen vedlegg IX forordning (EU) 2018/66 (om utfylling av europaparlaments- og rådsforordning (EU) 2016/1011 for å spesifisere hvordan det nominelle beløpet for andre finansielle instrumenter enn derivater, det nominelle beløpet for derivater og netto andelsverdi for investeringsfond skal vurderes).

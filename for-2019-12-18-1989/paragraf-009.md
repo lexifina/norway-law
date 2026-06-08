@@ -1,0 +1,2 @@
+# § 9. Utfyllende regler om tilsynssamarbeid
+EØS-avtalen vedlegg IX forordning (EU) 2018/1105 (om fastsettelse av tekniske gjennomføringsstandarder med hensyn til framgangsmåter og skjemaer for vedkommende myndigheters innberetning av opplysninger til ESMA i samsvar med europaparlaments- og rådsforordning (EU) 2016/1011) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
