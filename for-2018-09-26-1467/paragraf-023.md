@@ -1,0 +1,3 @@
+# § 23. Dokumentasjon
+Utført arbeid på fartsskriver skal registreres på et kontrollskjema godkjent av Statens vegvesen, og oppbevares i originalt eksemplar av fartsskriververkstedet i minst tre år. Skjemaet skal uten ugrunnet opphold utleveres til Statens vegvesen på skriftlig anmodning.
+Ved kontroll av fartsskriver skal det kontrolleres at det på kjøretøyet ikke finnes anordninger eller programvare som kan ødelegge eller forstyrre fartsskriverens funksjon. Funn av forstyrrende anordning eller programvare på kjøretøyet eller forsøk på montering av slikt utstyr skal registreres som mangel og straks meldes til Statens vegvesen.
