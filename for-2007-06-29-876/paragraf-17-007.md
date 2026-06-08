@@ -1,0 +1,2 @@
+# § 17-7. Meldeplikt ved mistanke om finansiell rapportering som ikke gir et rettvisende bilde
+Melding som nevnt i verdipapirhandelloven § 19-2 syvende ledd, skal gis skriftlig og inneholde navn og stilling til personen som gir meldingen, samt en redegjørelse for hvorfor vedkommende anser at utstederforetakets finansielle rapportering ikke gir et rettvisende bilde i overensstemmelse med det relevante regelverket for finansiell rapportering.

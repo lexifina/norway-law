@@ -1,0 +1,2 @@
+# § 3-2. Redegjørelse for utsettelse av offentliggjøring av innsideinformasjon
+Skriftlig redegjørelse for utsettelse av offentliggjøring av innsideinformasjon etter markedsmisbruksforordningen artikkel 17 nr. 4 tredje ledd, skal sendes tilsynsmyndigheten på anmodning. Redegjørelsen skal sendes så snart som mulig. For utstedere hvis finansielle instrumenter bare er tatt opp til handel på et vekstmarked for små og mellomstore bedrifter, gjelder redegjørelsesplikten fastsatt i markedsmisbruksforordningen artikkel 17 nr. 4 fjerde ledd.

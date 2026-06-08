@@ -1,0 +1,2 @@
+# § 11-4. Habilitetskrav til ansatte
+Ansatte i en markedsoperatør eller i morselskapet til slik operatør må ikke ha styreverv eller bierverv i et foretak hvis finansielle instrumenter er tatt opp til handel på vedkommende regulerte marked. Tilsvarende gjelder slike verv i et foretak hvis finansielle instrumenter er tatt opp til handel på en multilateral handelsfasilitet der markedsoperatøren er tilsynsmyndighet for utstederens løpende informasjonsplikt eller tilbakekjøpsprogrammer og stabilisering etter markedsmisbruksforordningen.

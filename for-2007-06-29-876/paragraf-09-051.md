@@ -1,0 +1,2 @@
+# § 9-51. Kunngjøring og frist for å melde krav
+Fondet skal på en hensiktsmessig måte underrette kundene om at et medlem har manglende økonomisk evne som beskrevet i § 9-48. Krav fra kunden skal fremsettes for fondet innen fem måneder fra kunngjøringen som nevnt. Har kunden ikke fremmet sitt krav innen denne tid, er retten til dekning tapt. Dersom kunden har vært forhindret fra å fremsette kravet innen fristen, begynner tidsfristen i stedet å løpe når hindringen er opphørt.

@@ -1,0 +1,3 @@
+# § 9-3. Søknad, tillatelse mv.
+(1) EØS-avtalen vedlegg IX forordning (EU) 2017/1943 (om utfylling av verdipapirmarkedsdirektivet med hensyn til tekniske reguleringsstandarder for opplysninger og krav i forbindelse med tillatelse til verdipapirforetak) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) EØS-avtalen vedlegg IX forordning (EU) 2017/1945 (om fastsettelse av tekniske gjennomføringsstandarder for meldinger fra og til verdipapirforetak som søker om eller har fått tillatelse i samsvar med verdipapirmarkedsdirektivet) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

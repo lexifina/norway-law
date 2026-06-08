@@ -1,0 +1,3 @@
+# § 9-36. Virkemåten til multilaterale handelsfasiliteter og organiserte handelsfasiliteter mv.
+(1) EØS-avtalen vedlegg IX forordning (EU) 2016/824 (om fastsettelse av tekniske gjennomføringsstandarder for innholdet i og formatet for beskrivelsen av multilaterale handelsfasiliteters og organiserte handelsfasiliteters virkemåte og meldingen til den europeiske verdipapir- og markedstilsynsmyndighet i henhold til verdipapirmarkedsdirektivet) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(2) Kommisjonsforordningen til verdipapirmarkedsdirektivet som gjennomført i § 2-2, gir utfyllende regler om vekstmarked for små og mellomstore bedrifter mv.

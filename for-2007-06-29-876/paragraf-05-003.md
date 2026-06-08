@@ -1,0 +1,6 @@
+# § 5-3. Opplysninger om transaksjoner med nærstående
+(1) Annet ledd gjelder for aksjeutsteder som er pliktig til å utarbeide konsernregnskap etter regnskapsloven § 3-9 første og annet ledd, etter nasjonal lovgivning som gjennomfører forordning (EF) nr. 1606/2002 eller tilsvarende regler i land utenfor EØS.
+(2) Om vesentlige transaksjoner med nærstående parter, slik dette er definert i internasjonale regnskapsstandarder i medhold av regnskapsloven § 3-9, skal det i halvårsberetningen etter verdipapirhandelloven § 5-6 fjerde ledd minst opplyses om:
+a) nærståendes transaksjoner gjennomført i de første seks måneder av inneværende regnskapsår, og som har hatt vesentlig betydning på virksomhetens finansielle stilling eller resultater i perioden, og
+b) eventuelle endringer i nærståendes transaksjoner beskrevet i siste årsrapport som kan ha en vesentlig betydning på virksomhetens finansielle stilling eller resultater i perioden.
+(3) For aksjeutstedere som ikke er forpliktet til å utarbeide konsernregnskap, skal halvårsberetningen minst inneholde opplysninger om transaksjonene som det henvises til i direktiv 78/660/EF art. 43 (1)(7b) til nærstående som definert i den internasjonale regnskapsstandard for opplysninger om nærstående parter.

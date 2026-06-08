@@ -1,0 +1,2 @@
+# § 9-55. Opplysningsplikt til kunder
+Medlemmet skal, før det gjør forretninger med kunde, informere denne om Verdipapirforetakenes sikringsfond, herunder beløp, dekningsgrad og virkeområde. For foretak som er etablert ved filial i Norge skal det gis tilsvarende informasjon på norsk og på en lett forståelig måte om den sikringsordning filialen er omfattet av. Informasjonen etter denne bestemmelsen kan gis ved bruk av elektronisk kommunikasjon dersom kunden ønsker det.

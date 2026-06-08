@@ -1,0 +1,4 @@
+# § 9-39a. Ytelse av investeringstjenester fra foretak med hovedsete utenfor EØS til kvalifiserte motparter
+(1) Et foretak med hovedsete utenfor EØS kan yte investeringstjenester og drive investeringsvirksomhet overfor kvalifiserte motparter i Norge uten tillatelse som nevnt i verdipapirhandelloven § 9-36 første ledd dersom det oppfyller vilkårene i annet ledd.
+(2) Foretaket må ha tillatelse i hjemstaten som dekker de investeringstjenester det yter og den investeringsvirksomhet det driver i Norge, og må være under tilsyn i hjemstaten. Finanstilsynet og tilsynsmyndighetene i foretakets hjemstat må ha en bilateral eller multilateral avtale om tilsynssamarbeid på verdipapirområdet. Dersom foretakets hjemstat er listeført av Financial Action Task Force, kan foretaket ikke yte investeringstjenester i Norge så lenge listeføringen varer.
+(3) Likt med kvalifisert motpart i første ledd, regnes Bankenes Sikringsfond, jf. lov 23. mars 2018 nr. 3 om Bankenes Sikringsfond.

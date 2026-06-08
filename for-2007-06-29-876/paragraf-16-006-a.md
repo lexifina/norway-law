@@ -1,0 +1,2 @@
+# § 16-6a. Anvendelse av en sentral motpart, clearingsentraler eller oppgjørssystemer i en annen EØS-stat
+Med mindre det kan godtgjøres at det er nødvendig for at det regulerte markedet skal virke på en ordnet måte, kan Finanstilsynet ikke motsette seg anvendelse av en sentral motpart, clearingsentraler eller oppgjørssystemer i en annen EØS-stat, forutsatt at vilkårene i verdipapirhandelloven § 12-6 er oppfylt.

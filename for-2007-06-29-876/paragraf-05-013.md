@@ -1,0 +1,2 @@
+# § 5-13. Elektronisk rapporteringsformat
+EØS-avtalen vedlegg IX forordning (EU) 2019/815 om utfylling av rapporteringsdirektivet med hensyn til tekniske reguleringsstandarder for spesifisering av et felles elektronisk rapporteringsformat som endret ved forordning (EU) 2019/2100, (EU) 2020/1989, (EU) 2022/352, (EU) 2022/2553, (EU) 2025/19 og (EU) 2026/283 gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# § 6-6. Frister og garantiperiode
+Garantien skal være avgitt senest samtidig med fremsettelse av tilbudet og være gjeldende i tilbudsperioden, oppgjørsperioden og for en periode på fire uker fra oppgjørsfristens utløp. Krav skal kunne gjøres gjeldende under garantien i fire uker fra oppgjørsfristens utløp. I tilfeller hvor tilbudsperioden etter tilbudsdokumentet kan forlenges av tilbyder, skal det fremgå av garantierklæringen at fristen for fremsetting av krav under garantien automatisk forlenges tilsvarende.

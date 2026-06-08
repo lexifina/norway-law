@@ -1,0 +1,2 @@
+# § 13-4. Aksjers frie omsettelighet
+Børsnoterte aksjer skal være fritt omsettelige. Dersom foretaket i henhold til vedtekter, lov eller forskrift gitt i medhold av lov er gitt skjønnsmessig adgang til å nekte samtykke til et aksjeerverv eller anvende andre omsetningsbegrensninger, kan adgangen bare benyttes hvis det foreligger skjellig grunn til å nekte samtykke eller til å anvende andre omsetningsbegrensninger, og anvendelsen ikke skaper forstyrrelser i markedet.

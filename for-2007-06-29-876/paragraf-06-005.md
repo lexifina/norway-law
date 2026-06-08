@@ -1,0 +1,2 @@
+# § 6-5. Flere garantister
+Totalt garantibeløp kan deles opp på en eller flere finansinstitusjoner. Krav skal i slike tilfelle kunne fremmes overfor valgfri garantist med fristavbrytende virkning overfor alle garantister, hvilket skal fremgå av tilbudsdokument og garantierklæring. I garantierklæringen eller tilbudsdokumentet kan det likevel anmodes om at krav rettes til en bestemt av garantistene som vil forestå den praktiske koordineringen av innkomne krav.

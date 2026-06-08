@@ -1,0 +1,2 @@
+# § 16A-6. Utveksling av informasjon
+EØS-avtalen vedlegg IX forordning (EU) 2019/365 (om tekniske gjennomføringsstandarder om fremgangsmåter og skjemaer for utveksling av informasjon om sanksjoner, tiltak og undersøkelser i samsvar med europaparlaments- og rådsforordning (EU) 2015/2365) gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

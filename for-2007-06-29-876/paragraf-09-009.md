@@ -1,0 +1,7 @@
+# § 9-9. Deponering av kundenes finansielle instrumenter
+(1) Verdipapirforetak kan deponere finansielle instrumenter som oppbevares på vegne av kundene, på konto hos en tredjepart. Verdipapirforetaket skal utvise aktsomhet ved utvelgelsen av en slik tredjepart, og regelmessig vurdere tredjeparten og ordningene for oppbevaring og beskyttelse av kundenes finansielle instrumenter. Verdipapirforetaket skal særlig se hen til tredjepartens kvalifikasjoner og renommé, og til regler som vil kunne påvirke kundenes rettigheter negativt.
+(2) Ved deponering av kundenes finansielle instrumenter i stater hvor slik deponering er underlagt særlig regulering eller tilsyn, skal verdipapirforetaket påse at instrumentene er deponert hos en tredjepart som er underlagt slik regulering eller tilsyn.
+(3) Deponering av kundenes finansielle instrumenter hos en tredjepart i en stat utenfor EØS som ikke har regler om deponering, kan bare foretas dersom:
+a) det finansielle instrumentet eller investeringstjenesten forbundet med det finansielle instrumentet forutsetter deponering i vedkommende stat, eller
+b) de finansielle instrumentene oppbevares på vegne av en profesjonell kunde som skriftlig ber om at verdipapirforetaket skal deponere instrumentene i den aktuelle staten.
+(4) Kravene i annet og tredje ledd gjelder også dersom tredjeparten har utkontraktert funksjoner som gjelder oppbevaring og beskyttelse av finansielle instrumenter til en annen tredjepart.

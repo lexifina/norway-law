@@ -1,0 +1,2 @@
+# § 16A-5. Tilgang til SFT-data i transaksjonsregistre
+EØS-avtalen vedlegg IX forordning (EU) 2019/357 (om utfylling av europaparlaments- og rådsforordning (EU) 2015/2365 med hensyn til tekniske reguleringsstandarder om tilgang til detaljer om verdipapirfinansieringstransaksjoner (SFT-er) registrert i transaksjonsregistre) gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
