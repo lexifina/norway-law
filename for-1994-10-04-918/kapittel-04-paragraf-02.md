@@ -1,0 +1,2 @@
+# § 4-2. Søknad om typegodkjenning
+Søknad om typegodkjenning av kjøretøyer eller deler skal innsendes av produsenten til Vegdirektoratet. Søknaden skal ledsages av et opplysningsdokument, som for typegodkjenning av kjøretøyer følger mønsteret i vedlegg II, og for typegodkjenning av deler følger mønsteret i et vedlegg eller tillegg til hvert særdirektiv for den aktuelle tekniske enhet eller del, samt av andre dokumenter nevnt i opplysningsdokumentet.

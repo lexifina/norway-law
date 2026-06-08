@@ -1,0 +1,2 @@
+# § 6-3b. Godkjenning av to- og trehjulede motorvogner
+Ny to- og trehjulet motorvogn som er dokumentert EF-typegodkjent i samsvar med forordning (EU) nr. 168/2013 skal anses som godkjent. Det samme gjelder to- og trehjulet motorvogn dokumentert etter forordning (EU) nr. 4/2014, forordning (EU) nr. 44/2014 og forordning (EU) nr. 134/2014 i samsvar med de administrative bestemmelsene i forordning (EU) 901/2014.

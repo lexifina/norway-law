@@ -1,0 +1,13 @@
+# § 1-8. Godkjenning av kjøretøy importert som arvegods eller ved eiers flytting, eller som registreres på internasjonale organisasjoner eller utenlandsk myndighet mfl. i Norge
+1. Kjøretøy som har vært registrert i utlandet og som importeres som arvegods, kan godkjennes uten at kravene i denne forskrift er oppfylt. Se dog nr. 2 og 3.
+Forutsetningen for at kjøretøyet kan anses som arvegods, er at avgiftsmyndighetene har godtatt det som arvegods («motorvogner som innføres som arvegods») ved å innvilge det avgiftsfradrag eller avgiftsfritak.
+Unntak fra kravene i denne forskrift kan også gis til kjøretøy som tas med fra utlandet i forbindelse med flytting til eller etablering i Norge, og som registreres på kjennemerker med gule tegn på blå, reflekterende bunn («diplomatkjennemerker») eller som registreres på internasjonale organisasjoner i Norge eller deres personale som nyter personlig tollfrihet, i den grad dette følger av folkeretten eller av særskilt overenskomst, forutsatt at kjøretøyet importeres til eget bruk, og det gis avgiftsfrihet, avgiftsnedsettelse eller avgiftstilskudd for engangsavgift. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
+2. Kjøretøy som godkjennes etter nr. 1 må tilfredsstille kravene i motorvognforskriftene av 3. juni 1942 samt bestemmelser gitt med hjemmel i disse.
+3. Likeledes skal følgende krav i denne forskrift være tilfredsstilt:
+a) Alle krav som er gjort tilbakevirkende, dvs. at de også gjelder for tidligere registrerte kjøretøy.
+b) Krav om bilbelter i forsetet, jfr. kap. 16, dog slik at bilbelter som er montert ved importen skal godkjennes, såfremt de er utstyrt med godkjenningsmerke fra kjøretøyets tidligere registreringsland eller det på annen måte godtgjøres at beltene tilfredsstiller visse normer. Det forutsettes dog at bilbelte ved dør skal være trepunktsbelte med hoftebånd og diagonalbånd fast forbundet med hverandre (ikke delbart).
+Beltesystemer hvor diagonaldelen av beltet festes automatisk, og hvor hoftebeltedelen festes manuelt (ett håndgrep), anses i denne forbindelse likeverdig med ordinært trepunktsbelte.
+c) Krav om speil, jfr. kap. 30.
+d) Krav til LPG-drivstoffanlegg på bil, jf. § 22-6.
+4. Kjøretøy som tas med til Norge og registreres på det amerikanske forsvaret eller dets avtalepartnere, eller på deres personale eller personalets familie, i henhold til Tilleggsavtale mellom Norge og USA om forsvarssamarbeid av 16. april 2021 artikkel IX, skal godkjennes uten ytterligere krav. Slikt kjøretøy anses ved eventuelt senere salg i Norge som tidligere registrert her i landet hva angår tekniske krav.
+5. I vognkortet gjøres merknad om at kjøretøyet er godkjent etter foranstående bestemmelser.

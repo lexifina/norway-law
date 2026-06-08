@@ -1,0 +1,5 @@
+# § 25-19. Røykutslipp – krav til bil med dieselmotor ved første gangs registrering (direktiv 2005/55/EF som endret ved direktiv 2008/74/EF, alternativt forordning (EF) nr. 715/2007 som endret ved forordning (EF) nr. 692/2008)
+1) Ikrafttredelse
+Bestemmelsene i denne bestemmelsen trer i kraft 3. januar 2009 for typegodkjenning av ny type bil og for nye registreringer. Inntil 1. januar 2013 kan nye kjøretøy alternativt godkjennes og registreres i henhold til § 25-19A. Fra 2. januar 2013 skal nye kjøretøy godkjennes og registreres i henhold til § 25-19.
+2) For bil med dieselmotor skal det ved typegodkjenning – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra fabrikanten eller kompetent, uavhengig laboratorium for at kravene i direktiv 2005/55/EF som endret ved direktiv 2008/74/EF, alternativt forordning (EF) nr. 715/2007 som endret ved forordning (EF) nr. 692/2008 er tilfredsstilt.
+3) Alternativ standard: ECE-regulativ nr. 24.02.

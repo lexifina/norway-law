@@ -1,0 +1,6 @@
+# § 3-16. Nasjonal typegodkjenning basert på særdirektivene
+1. Etter hvert som særdirektivene trer i kraft:
+- skal det når kjøretøyer eller en kategori kjøretøyer er gjenstand for nasjonal typegodkjenning, anvendes harmoniserte tekniske bestemmelser (særdirektiver) i stedet for tilsvarende nasjonale bestemmelser som grunnlag for nasjonal typegodkjenning dersom det søkes om dette. Dette gjelder likevel ikke for bilbelter som nevnt i § 3-1 nr. 6.
+- skal det når kjøretøyer eller en kategori kjøretøyer ikke er gjenstand for nasjonal typegodkjenning, ikke nektes eller forbys salg, registrering, omsetning eller bruk av disse kjøretøyer på grunn av at særdirektiver er oppfylt i stedet for tilsvarende nasjonale bestemmelser, dersom produsenten eller dennes representant har gitt melding om dette til vedkommende godkjenningsmyndighet,
+- skal Vegdirektoratet etter søknad fra produsenten eller dennes representant og ved fremleggelse av opplysningene som kreves etter særdirektivet, fylle ut typegodkjenningsdokumentet i samsvar med det relevante særdirektiv. En kopi av dokumentet skal utstedes til søkeren. For kjøretøy av samme type skal dokumentet godtas som bevis for at de fastsatte kontroller er utført.
+2. Med unntak av § 3-8 og § 3-9, skal bestemmelsene i denne paragraf ikke gi adgang til unntak frå bestemmelser i særdirektiver som er ufravikelige.

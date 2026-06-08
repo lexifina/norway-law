@@ -1,0 +1,5 @@
+# § 1-6. Unntak ved ikrafttredelse av nye bestemmelser
+1. Kjøretøy – forutsatt at det dreier seg om rimelig antall – som er importert eller produsert har i landet før ikrafttredelsesdatoen for en ny bestemmelse og som ikke tilfredsstiller denne bestemmelse, kan godkjennes (registreres) også etter denne dato når de tilfredsstiller de krav som ble stilt til kjøretøyene før denne dato.
+2. Ved godkjenning/registrering skal Statens vegvesen forlange dokumentert at kjøretøyet er importert eller produsert her i landet før vedkommende bestemmelses ikrafttredelsesdato. Som bevis vil kunne godtas den på registreringsmeldingen (blankett nr. 221) påførte fortollingsdato. Når kjøretøyet har stått på transittlager og blitt fortollet først etter nevnte ikrafttredelsesdato, kan f.eks. erklæring fra tollvesenet i form av eget dokument eller anmerkning på registreringsmeldingen godtas.
+3. På registerkortet og i vognkortet skal gjøres anmerkning om at kjøretøyet er godkjent etter foranstående dispensasjonsordning og hvilke bestemmelser det gjelder.
+4. Bestemmelsene i denne paragraf gjelder ikke ved EØF-typegodkjenning av motorkjøretøy og deres tilhenger, jfr. § 3-10.

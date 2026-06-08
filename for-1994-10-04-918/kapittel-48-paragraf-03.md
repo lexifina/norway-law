@@ -1,0 +1,5 @@
+# § 48-3. Krav til egenskaper ved kollisjon forfra (direktiv 96/79/EF, direktiv 1999/98/EF)
+1. Ikrafttredelse
+Bestemmelsene i nr. 2 trer i kraft 1. oktober 1998 for typegodkjenning av ny type bil, så sant biltypen før denne datoen ikke er typegodkjent i henhold til direktiv 74/297/EØF. Bestemmelsene i nr. 2 trer i kraft 1. oktober 2003 for nye registreringer. Bestemmelsene i nr. 3 trer i kraft 1. april 2001.
+2. For M1-biler med tillatt totalvekt ikke over 2500 kg, unntatt etappevis oppbygde kjøretøy produsert i små serier, skal det ved typegodkjenning – og for nye, ikke typegodkjente biler ved første gangs registrering – fremlegges dokumentasjon/bevitnelse/garanti fra fabrikanten eller kompetent, uavhengig laboratorium for at direktiv 96/79/EF, eventuelt som endret ved direktiv 1999/98/EF, er tilfredsstilt.
+3. For M1-biler med tillatt totalvekt ikke over 2500 kg, unntatt etappevis oppbygde kjøretøy produsert i små serier, skal det ved typegodkjenning fremlegges dokumentasjon/bevitnelse/garanti fra fabrikanten eller kompetent, uavhengig laboratorium for at direktiv 96/79/EF, som endret ved direktiv 1999/98/EF, er tilfredsstilt.

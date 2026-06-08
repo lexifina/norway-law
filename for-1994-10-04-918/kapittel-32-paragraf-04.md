@@ -1,0 +1,3 @@
+# § 32-4. Skjerming av hjul på traktor i gruppe T5 som godkjennes etter 1. juli 2005
+Traktor i gruppe T5 som godkjennes etter 1. juli 2005 skal ha skjerming av hjul som tilfredsstiller kravene i direktiv 91/226/EØF.
+Ved godkjenning skal det fremlegges bevitnelse fra fabrikant eller kompetent uavhengig laboratorium som viser at traktor i gruppe T5 tilfredsstiller ovennevnte krav. Dette gjelder ikke når traktor i gruppe T5 er ledsaget av et gyldig samsvarssertifikat i henhold til direktiv 2003/37/EF, som endret ved direktiv 2004/66/EF og direktiv 2005/67/EF. Alternativt kan traktor i gruppe T5 eller deler eller tekniske enheter være godkjent og merket i henhold til ovennevnte krav.

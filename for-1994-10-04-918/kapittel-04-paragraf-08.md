@@ -1,0 +1,2 @@
+# § 4-8. Midlertidig forbud
+Dersom Statens vegvesen fastslår at kjøretøyer, tekniske enheter eller deler av en godkjent type utgjør en fare for trafikksikkerheten, kan den for et tidsrom på høyst seks måneder forby at disse selges, tas i bruk eller fortsatt brukes på sitt territorium. Statens vegvesen skal umiddelbart underrette de andre EFTA-statene og EFTAs overvåkningsorgan om sitt vedtak og begrunnelsen for det.

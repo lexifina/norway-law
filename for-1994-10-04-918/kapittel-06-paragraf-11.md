@@ -1,0 +1,2 @@
+# § 6-9. Endring av godkjent kjøretøy
+Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endring av kjøretøyet som gjør at det ikke lenger er i samsvar med opplysninger i vognkortet. Det samme gjelder andre endringer av kjøretøyet som har betydning for trafikksikkerheten, eksempelvis i bærende konstruksjoner, styring, forstilling, bremser o.l., eller dersom kjøretøyet blir utstyrt med trekkdel for tilhenger (gjelder ikke for biler med tillatt totalvekt ikke over 3 500 kg), tipp, kran e.l. Det vises for øvrig til kap. 7.

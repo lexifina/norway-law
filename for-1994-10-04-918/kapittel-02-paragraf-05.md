@@ -1,0 +1,26 @@
+# § 2-5. Andre definisjoner av kjøretøy
+1. Beltebil: Motorvogn som hovedsaklig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt over 400 kg, og som har en konstruktiv hastighet på over 30 km/t.
+2. Beltemotorsykkel: Motorsykkel som hovedsakelig er innrettet for transport av personer eller gods eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt ikke over 400 kg, og som har en konstruktiv hastighet på over 30 km/h.
+Beltemotorsykkel deles i to klasser:
+Beltemotorsykkel klasse 1: Beltemotorsykkel som har et forhold mellom effekt og egenvekt på høyst 0,35 kW/kg.
+Beltemotorsykkel klasse 2: Beltemotorsykkel som har et forhold mellom effekt og egenvekt på over 0,35 kW/kg.
+3. Traktor: Motorvogn som hovedsaklig er konstruert for å trekke, skyve, bære og drive forskjellige arbeidsredskap og som har hjul og/eller belter, unntatt jordbruks- eller skogbrukstraktor som nevnt i § 2-4 nr. 5. Gjelder ikke traktor som godkjennes eller tas i bruk uten registreringsplikt fra 1. juli 2005.
+4. Motorredskap: Mobile maskiner/selvkjørende arbeidsredskap, som har hjul og/eller belter når maskinen eller redskapen grunnkonstruksjonen atskiller seg fra andre motorvogner for transport av gods eller personer, eller traktor. Kjøretøyet skal i all hovedsak være innrettet for å utføre bestemte arbeider, ha fast monterte redskaper eller maskiner. Som motorredskap regnes uansett ikke kjøretøy hvis hovedfunksjon – forsåvidt gjelder selve transporten – er kjøring på veg. Dette gjelder likevel ikke vegarbeid.
+Som motorredskap regnes også motorvogn som hovedsaklig er innrettet for transport av personer eller gods eller til å trekke annet kjøretøy og som har en konstruktiv hastighet ikke over 25 km/t. Som motorredskap regnes også motorvogn som hovedsakelig er beregnet til intern transport av masse, jord eller lignende på bygge- eller anleggsplasser eller i terreng og som bare unntaksvis brukes på offentlig veg (dumpere), dersom konstruktiv hastighet ikke overstiger 30 km/t.
+Som motorredskap regnes også to- og trehjulet motorvogn, jfr. § 2-3, med konstruktiv hastighet ikke over 6 km/t.
+Som motorredskap regnes også motorvogn, bestemt til transport av personer eller gods, som har belter, eventuelt med styreski/styrehjul, og som har konstruktiv hastighet ikke over 30 km/t.
+Som motorredskap regnes også motorvogn som er bestemt til å føres av gående. Som motorredskap regnes også kombinasjoner av slik motorvogn og tilhenger eller tilhengerredskap.
+5. Tilhenger: Kjøretøy som hovedsaklig er innrettet for transport av personer eller gods og til å trekkes av motorvogn, herunder kjøretøy gruppe O, som nevnt i § 2-2. Som tilhenger regnes også campingtilhenger.
+6. Påhengsvogn: Tilhenger med en eller flere aksler som er slik konstruert at vertikale krefter kan overføres til tilhengerkoplingen på den trekkende motorvogn.
+7. Slepvogn: Tilhenger med to eller flere aksler som er slik konstruert at vertikale krefter – bortsett fra kreftene p.g.a. tilhengerdragets vekt – ikke kan overføres til tilhengerkoplingen på den trekkende motorvogn.
+8. Semitrailer: Tilhenger med en eller flere aksler og som er slik konstruert at en vesentlig del av tilhengerens vekt bæres av en svingskive montert på den trekkende motorvogn.
+9. Tilhengerredskap: Kjøretøy som er innrettet til å trekkes av motorvogn og som ikke anses som tilhenger. Som tilhengerredskap regnes også flyttbar arbeidsbrakke.
+Tilhengerredskap inndeles i følgende:
+a) Påhengsredskap: Tilhengerredskap med en eller flere aksler som er slik konstruert at vertikale krefter kan overføres til tilhengerkoplingen på den trekkende motorvogn.
+b) Slepredskap: Tilhengerredskap med to eller flere aksler som er slik konstruert at vertikale krefter – bortsett fra kreftene p.g.a. tilhengerdragets vekt – ikke kan overføres til tilhengerkoplingen på den trekkende motorvogn.
+10. Definisjonene i nr. 5 til 9 gjelder ikke kjøretøy som fra 1. juli 2005 defineres som kjøretøy gruppe R og S, jf. § 2-4 nr. 2 og 3.
+11. Vogntog: Motorvogn med ett eller flere kjøretøy tilkoplet.
+12. Sykkel: Kjøretøy som drives frem ved trå- eller veivanordning, unntatt kjøretøy som bare er beregnet for lek.
+Som sykkel regnes også kjøretøy som nevnt i første ledd og som er utstyrt med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller tidligere hvis syklisten slutter å trå/veive. Det tillates at kjøretøyet har fremdrift kun ved motorkraft opp til 6 km/t. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter vegtrafikkloven § 2.
+Sykkel med to sitteplasser kan ha elektrisk hjelpemotor med nominell effekt på høyst 0,5 kW når det kan dokumenteres at kjøretøyet er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten. Det er tilstrekkelig at én av syklistene trår/veiver for at hjelpemotoren skal gi effekt. For øvrig gjelder kravene i forrige ledd. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter vegtrafikkloven § 2.
+Sykkel som tilfredsstiller kravene i NS-EN 15194 anses å oppfylle definisjonen i annet ledd.

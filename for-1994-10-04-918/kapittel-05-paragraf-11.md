@@ -1,0 +1,5 @@
+# § 5-11. Overgangsregler – Nasjonal typegodkjenning basert på særdirektiver
+1. Etter hvert som særdirektivene trer i kraft:
+- skal det i den utstrekning traktorer eller en kategori traktorer er gjenstand for nasjonal typegodkjenning, anvendes harmoniserte tekniske bestemmelser (særdirektiver) i stedet for tilsvarende nasjonale bestemmelser som grunnlag for nasjonal typegodkjenning dersom det søkes om dette,
+- skal det i den utstrekning traktorer eller en kategori traktorer ikke er gjenstand for nasjonal typegodkjenning, ikke nektes eller forbys salg, registrering eller bruk av disse traktorene på grunn av at særdirektiver er oppfylt i stedet for tilsvarende nasjonale bestemmelser, dersom produsenten eller dennes representant har gitt melding om dette til vedkommende godkjenningsmyndighet,
+- skal Vegdirektoratet etter søknad fra produsenten eller dennes representant og ved fremleggelse av opplysningsdokumentet nevnt i § 5-2, fylle ut typegodkjenningsdokumentet. En kopi av dokumentet skal utstedes til søkeren. For traktor av samme type skal dokumentet godtas som bevis for at de fastsatte kontroller er utført.

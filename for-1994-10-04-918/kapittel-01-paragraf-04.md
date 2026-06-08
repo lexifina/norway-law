@@ -1,0 +1,5 @@
+# § 1-4. Ombygging av kjøretøyer
+1. Når et kjøretøy ombygges til annen kjøretøygruppe, skal kjøretøyet tilfredsstille de krav som gjelder for den nye gruppen. Dog kan kjøretøy som har vært registrert i Norge i minst 3 år, ombygges til annen kjøretøygruppe uten at kjøretøyet kreves å oppfylle de krav til støy, avgass, bremser og kollisjonsegenskaper som gjelder for den nye gruppen.
+2. Med mindre annet fremgår, og bortsett fra unntaket i nr. 1, skal de kravene gjelde som gjaldt på det tidspunktet kjøretøyet ble registrert første gang eller tatt i bruk uten registreringsplikt i Norge.
+3. Når et kjøretøy ombygges til annen kjøretøygruppe, skal, med mindre annet fremgår, de definisjoner og klassifiseringsregler gjelde som gjelder på tidspunktet for omregistreringen. For kjøretøy, som ikke er registreringspliktig (når ombyggingen er foretatt), gjelder tilsvarende, dog slik at tidspunktet for avsluttet ombygging er avgjørende.
+4. Bestemmelsene i denne paragraf gjelder ikke dersom annet fremgår av reglene for EØF-typegodkjenning.
