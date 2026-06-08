@@ -1,0 +1,3 @@
+# § 14. Plikter for virksomheter godkjent etter denne forskriften
+Ved endringer av forhold som kan ha betydning for godkjenningen, herunder opphør, flytting, endring av organisasjonsnummer, bytte av teknisk leder, stedfortreder, faglig ansvarlig eller utstyr, skal det straks gis skriftlig melding til Statens vegvesen.
+Når arbeid på kjøretøy vil medføre at det innpregede understellsnummeret blir skadet eller fjernet, kan verkstedet søke Statens vegvesen om å fravike kravet om forhåndskontroll av kjøretøyet før reparasjonen blir satt i gang. Det samme gjelder dersom det viser seg at understellsnummer allerede er skadet eller fjernet før reparasjon av kjøretøyet blir påbegynt ved kjøretøyverkstedet.
