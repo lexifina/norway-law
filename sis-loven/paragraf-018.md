@@ -1,0 +1,6 @@
+# § 18. Saksbehandlingsregler ved begjæring om innsyn, retting og sletting
+Begjæring om innsyn, retting eller sletting fremsettes for den behandlingsansvarlige eller den myndighet som har besluttet registrering, men avgjøres av den behandlingsansvarlige. Dersom meldingen det begjæres innsyn i, er lagt inn av en annen stat, plikter den behandlingsansvarlige å gi denne staten anledning til å uttale seg før innsyn gis.
+Den registrerte kan pålegges å legge frem en skriftlig og undertegnet begjæring.
+Begjæringer om innsyn, retting eller sletting skal besvares skriftlig uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn. Dersom det er uforholdsmessig vanskelig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes i inntil to måneder. Det skal i så fall gis et foreløpig svar med angivelse av sannsynlig tidspunkt for når svar kan gis.
+Dersom begjæring om innsyn i opplysninger som er registrert i medhold av politisamarbeidsforordningen, ikke tas til følge, gjelder politiregisterloven § 54 tredje ledd tilsvarende. Begjæring om retting og sletting i slike opplysninger skal bare behandles dersom den registrerte tidligere har fått innsyn i eller underretning om den registreringen begjæringen gjelder.
+Den registrerte skal informeres om sine rettigheter etter § 21 samt adgangen til å bringe saken inn for en domstol.
