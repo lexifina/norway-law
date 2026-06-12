@@ -1,0 +1,5 @@
+# § 5B-3. Behandlingsansvar i rammeløsningen for interoperabilitet
+Behandlingsansvaret for behandling av personopplysninger i VIS, ETIAS, Eurodac, EES og SIS, jf. utlendingsloven § 102 d, utlendingsforskriften §§ 3-3 a og 18-5, grenseforskriften § 5A-1, SIS-loven § 4 og SIS-forskriften § 1, gjelder også for behandlingen av
+a) biometriske maler i den felles biometriske sammenligningstjenesten (sBMS) basert på personopplysninger myndigheten har registrert i EES, VIS eller SIS, jf. forordning (EU) 2019/817 artikkel 40 nr. 1 og forordning (EU) 2019/818 artikkel 40 nr. 1
+b) personopplysninger i det felles identitetsregisteret (CIR) som er registrert av myndigheten i EES, VIS eller ETIAS, jf. forordning (EU) 2019/817 artikkel 40 nr. 2 og forordning (EU) 2019/818 artikkel 40 nr. 2.
+Myndigheten som tilføyer eller endrer opplysninger i identitetsbekreftelsesmappen er behandlingsansvarlig for personopplysninger i fleridentitetsdetektoren (MID), jf. forordning (EU) 2019/817 artikkel 40 nr. 3 og forordning (EU) 2019/818 artikkel 40 nr. 3.

@@ -1,0 +1,3 @@
+# § 1-4. Grensemyndigheter
+Politiet som grensekontrollmyndighet har ansvar for utøvelsen av grenseovervåkingen og inn- og utreisekontrollen av personer. I tillegg kan kontrollen utføres av annen myndighet på vegne av eller som bistand til politiet, jf. grenseloven § 4.
+For oppgaver ved den norsk-russiske grensen som nevnt i § 2-1, oppnevnes det en grensekommissær på åremål, jf. grenseloven § 5. Åremålsperioden er 3 år med mulighet for forlengelse én gang. Utenriksdepartementet kan utpeke en myndighet til å ivareta de løpende grensetilsynsfunksjonene på de øvrige delene av landegrensen, jf. grenseloven § 5.
