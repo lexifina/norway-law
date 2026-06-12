@@ -1,0 +1,2 @@
+# § 3-4. Særlig om grensepassering og grensekontroll av militærpersonell
+Reglene om grensepassering i grenseloven § 13 første og annet ledd gjelder ikke for personer som er omfattet av utlendingsforskriften § 1-7 annet og tredje ledd, og som kommer til eller reiser fra Norge over norsk militær flyplass eller havn med militært luftfartøy eller skip tilhørende medlemsstat i NATO. Flygningen eller anløpet skal være klarert i samsvar med forskrift 2. mai 1997 nr. 396 om adgang til og opphold på norsk territorium under fredsforhold for fremmede militære og sivile statsfartøyer.

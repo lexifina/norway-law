@@ -1,0 +1,2 @@
+# § 5-5. Utlevering
+Opplysninger fra registeret kan utleveres dersom det er adgang til det etter reglene om taushetsplikt i politiloven § 24, jf. forvaltningsloven § 13 til § 13g. Utlevering etter politiloven § 24 fjerde ledd kan, etter beslutning fra behandlingsansvarlig, skje i form av adgang til direkte søk. For utlevering av biometriske opplysninger gjelder utlendingsloven § 100 annet ledd tilsvarende.

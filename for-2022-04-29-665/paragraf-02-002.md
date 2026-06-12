@@ -1,0 +1,4 @@
+# § 2-2. Forbud mot passering av den norsk-russiske grensen mv.
+Det er forbudt å passere riksgrensen mellom Norge og Russland til lands, til vanns eller i luften utenfor fastsatt grenseovergangssted. Grensekommisæren kan i særlige tilfeller dispensere fra forbudet i samsvar med overenskomsten mellom Norge og Sovjetunionen om forskjellige forhold ved den norsk-sovjetiske grense og om fremgangsmåten ved ordning av konflikter og hendinger på grensen, med protokoller og vedlegg (Grenseregimeavtalen) artikkel 33.
+Det er forbudt å fotografere russisk forsvarsmateriell og militære personer på russisk territorium. Grensekommissæren kan dispensere fra forbudet.
+Det er forbudt å føre samtaler eller ha annet samkvem med personer som befinner seg på den andre side av grensen uten særskilt tillatelse fra grensekommissæren.

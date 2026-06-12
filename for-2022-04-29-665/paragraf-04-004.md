@@ -1,0 +1,2 @@
+# § 4-4. Vilkår for gjennomføring av inn- og utreisekontroll på faste og flyttbare innretninger på kontinentalsokkelen
+Det gjennomføres bare grensekontroll etter grenseloven § 15 første ledd nr. 5 dersom arbeidsgiver dekker utgifter til transport og opphold i forbindelse med kontrollen og gir grensekontrollmyndigheten adgang til kontrollstedet på det tidspunkt som er bestemt av grensekontrollmyndigheten.
