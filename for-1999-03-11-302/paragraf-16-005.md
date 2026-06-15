@@ -1,0 +1,4 @@
+# § 16-5. Beregning av anleggsbidrag
+Anleggsbidraget kan maksimalt være lik kostnadsgrunnlaget for nettinvesteringen minus utredningskostnader kunden har betalt etter § 17-5 tredje ledd.
+Kostnadsgrunnlaget er anleggskostnad, fratrukket reinvesteringskostnader, tillagt fremskyndingskostnader og samlede utredningskostnader etter § 17-5 tredje ledd.
+Kundens anleggsbidrag settes lik en andel av kostnadsgrunnlaget på hvert nettnivå. For kundens bestilling som utløser investeringer i nettanlegg der kunden er eneste bruker beregnes andelen etter § 16-8. Andelen beregnes etter § 16-9 for kundens bestilling som utløser investeringer i nettanlegg med flere brukere i distribusjonsnettet. Andelen beregnes etter § 16-9 og § 16-10 for kundens bestilling som utløser investeringer i nettanlegg med flere brukere i regional- og transmisjonsnettet.

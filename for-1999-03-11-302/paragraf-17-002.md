@@ -1,0 +1,2 @@
+# § 17-2. Ordinære uttak direkte fra kraftverk
+For uttak til distribusjonsnett direkte fra felles nettanlegg tilknyttet kraftverk hvor det over året er netto innmating mot regional- eller transmisjonsnett, skal andre tariffledd beregnes slik at hele gevinsten, sett i forhold til tariffen ved direkte tilknytning mot transmisjonsnettet, tilfaller uttaket. Kostnader i nettanlegg som kun benyttes til uttak, skal dekkes av distribusjonsnettet. Uttak skal avregnes energiledd referert tilknytningspunktet, jf. § 14-1.
