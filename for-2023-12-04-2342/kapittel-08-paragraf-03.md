@@ -1,0 +1,2 @@
+# § 8-3. Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet
+Studenter og tilsatte skal jf. lov om høyere yrkesfaglig utdanning § 43 første ledd ikke benytte klesplagg som helt eller delvis dekker ansiktet i sammenheng med undervisning eller tilsvarende, inkludert på turer, ekspedisjoner og liknende. Forbudet gjelder ikke når bruken av slike plagg er begrunnet i klimatiske, pedagogiske, læringsmessige, helsemessige eller sikkerhetsmessige forhold.

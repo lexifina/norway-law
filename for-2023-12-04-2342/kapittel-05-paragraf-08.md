@@ -1,0 +1,5 @@
+# § 5-8. Utsatt eksamen eller sluttprøve og forbedring av eksamen eller sluttprøve
+(1) En student som er vurdert til ikke bestått eller hadde fravær ved ordinær eksamen eller sluttprøve, vil tilbys ny eksamen eller sluttprøve ved neste eksamens- eller sluttprøveperiode. Benyttes ikke dette tilbudet, vil det påløpe en eksamensavgift ved ny eksamen eller sluttprøve.
+(2) En student som har bestått, men som ønsker å forbedre en sluttvurdering som i sin helhet eller som i hovedsak bygger på eksamen eller annen sluttprøve kan søke om å gå opp til ny eksamen eller sluttprøve ved neste eksamens- eller sluttprøveperiode. Studenten må i så fall betale eksamensavgift.
+(3) Gjentak av tidligere bestått eksamen eller sluttprøve kan maksimalt avlegges én gang og forutsetter at antallet forsøk på eksamen eller sluttprøve i emnet ikke overstiger to forsøk. Det vil være den siste karakteren som blir den gjeldende.
+(4) Hvis en student skal melde seg opp til ny eksamen eller sluttprøve, må det gjøres innen frist som fastsettes av skolen.

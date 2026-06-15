@@ -1,0 +1,3 @@
+# § 5-6. Antall forsøk på eksamen eller sluttprøve
+(1) En student har rett til å framstille seg til ny eksamen eller sluttprøve én gang i et emne når slik eksamen eller sluttprøve tidligere er vurdert til F / ikke bestått. Ved gyldig fravær fra eksamen eller sluttprøve, regnes det ikke som om studenten har framstilt seg til eksamen eller sluttprøve. Dersom en student unnlater å møte til eksamen eller sluttprøve uten gyldig grunn, regnes det som om studenten har fremstilt seg til eksamen eller sluttprøve uten å bestå
+(2) Dersom studenten ikke består emnet etter to forsøk på eksamen/sluttprøve, kan hen søke om å ta emnet på nytt.

@@ -1,0 +1,2 @@
+# § 5-1. Generelt om vurdering
+Styret skal sørge for at studentenes kunnskaper, ferdigheter og generelle kompetanse blir prøvd og vurdert på en upartisk og faglig betryggende måte. I hvert emne skal det foretas en sluttvurdering i forhold til emnets læringsutbyttebeskrivelser. Vurderingen skal sikre det faglige nivået ved vedkommende utdanning. Det skal være en ekstern evaluering av vurderingen eller vurderingsordningene.
