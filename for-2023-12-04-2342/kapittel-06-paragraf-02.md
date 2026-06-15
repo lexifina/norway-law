@@ -1,0 +1,6 @@
+# § 6-2. Klage over formelle feil ved eksamen eller annen sluttprøve
+(1) En student som har vært oppe til eksamen, prøve eller annet arbeid som bedømmes med karakter, kan klage over formelle feil innen tre uker etter at studenten er eller burde være kjent med forholdet som begrunner klagen.
+(2) Sensuren skal oppheves hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne. Ny sensur gjennomføres hvis feilen kan rettes opp ved ny sensur. I motsatt fall holdes ny eksamen, prøve eller lignende med nye sensorer. Karakterfastsetting ved ny sensur etter paragrafen her kan påklages etter reglene i § 6-4.
+(3) Er krav om begrunnelse for eller klage over karakterfastsettingen etter § 6-4 fremsatt, løper klagefristen etter første ledd fra studenten har fått begrunnelsen eller endelig avgjørelse av klagen på karakterfastsettingen foreligger.
+(4) Fagskolen eller klageinstansen kan bestemme at det skal foretas ny sensur eller holdes ny eksamen, prøve eller lignende hvis det er begått formelle feil som kan ha hatt betydning for én eller flere studenters prestasjon eller bedømmelse av denne.
+(5) Styret er klageinstans for institusjonens vedtak etter paragrafen her.

@@ -1,0 +1,9 @@
+# § 4-5. Utestenging og klage
+(1) På bakgrunn av skikkethetsnemndas innstilling fatter den lokale klagenemnd vedtak om at en student ikke er skikket. Det skal ikke utstedes vitnemål for den aktuelle utdanningen til en student som er funnet uskikket.
+(2) Hvis en student som er funnet uskikket skal utestenges fra utdanningen, skal det fattes særskilt vedtak om dette. Ved kortere utestenging enn fem år kan lokal klagenemnd stille vilkår som må være oppfylt før utdanningen gjenopptas.
+(3) Vedtak om utestenging skal opplyse studenten om at han/hun ikke kan søke eller ta imot plass ved lignende utdanninger i utestengingsperioden, og at han/hun må søke nytt opptak dersom utdanningen skal gjenopptas etter utestengingsperioden.
+(4) Jf. denne forskriftens § 3-5; En student som er dømt for forhold som innebærer at studenten må anses som uskikket til å delta i arbeid med bestemte grupper mennesker, kan utestenges fra praksisopplæring eller klinisk undervisning. Studenten kan bare utestenges dersom praksisopplæring eller klinisk undervisning må regnes som uforsvarlig på grunn av kontakten studenten da får med mennesker.
+(5) Den som er siktet eller tiltalt for straffbart forhold som omtalt i politiregisterloven § 39 første ledd, eller i regler om krav til politiattester som nevnt i annet ledd, kan utestenges fra praksisopplæring eller klinisk undervisning til rettskraftig dom foreligger eller saken er henlagt. Studenten kan bare utestenges dersom praksisopplæring eller klinisk undervisning må regnes som uforsvarlig på grunn av kontakten studenten da får med mennesker.
+(6) Lokal klagenemnd avgjør, etter uttalelsene fra fagskolens skikkethetsnemnd, om studenten skal nektes retten til å delta i klinisk undervisning eller praksisopplæring.
+(7) Vedtak om utestenging etter denne bestemmelsen kan påklages til det nasjonale klageorganet for fagskoleutdanning.
+(8) Departementet kan gi forskrift om saksbehandling ved utestenging på grunn av straffbare forhold.

@@ -1,0 +1,6 @@
+# § 2-3. Opptak på visse vilkår ved sen fag- eller svenneprøve (Betinget opptak)
+(1) Søkere som ikke har dokumentert fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag- eller svenneprøve i løpet av det påfølgende semesteret.
+(2) Søkere som har fått opptak uten bestått fag- eller svenneprøve, kan ikke reservere studieplassen.
+(3) Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene i løpet av første semester etter opptak, mister studieplassen og studieretten.
+(4) Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.
+(5) Fagskolen Innlandet skal så langt det er mulig og rimelig legge til rette for at studenten kan gå opp til fag- eller svenneprøven i videregående opplæring og gjennomføre utdanningen skolen har gitt betinget opptak til. Dersom fagskolen ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
