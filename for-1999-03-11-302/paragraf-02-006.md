@@ -1,0 +1,2 @@
+# § 2-6. Segmentinformasjon for nettvirksomheten
+Konsesjonærens årsregnskap skal inneholde separat regnskapsinformasjon for nettvirksomheten. Det skal som et minimum opplyses om årlig inntektsramme, jf. § 8-6, inngående og utgående saldo for mer- og mindreinntekt, eventuell innhenting og avskrivning av mindreinntekt eller tilbakeføring av merinntekt i perioden, driftsresultat, avkastningsgrunnlag og avkastning.

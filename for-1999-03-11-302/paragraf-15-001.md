@@ -1,0 +1,3 @@
+# § 15-1. Energiledd for innmating
+Energileddet for innmating for produsenter med installert effekt større eller lik 1 MW skal avspeile marginale tapskostnader. Energileddet skal være referert til de enkelte tilknytningspunkter og skal tidsdifferensieres. Tidsdifferensieringen skal som et minimum være ukentlig med en sats for dag og en annen sats som gjelder både natt og helg. Marginale tapsprosenter skal beregnes med hensyn til systembelastningen i et samlet nettsystem og en produksjons- og lastsituasjon som er representativ for hvert enkelt tidsavsnitt.
+For kraftverk med installert effekt mindre enn 1 MW skal energileddet avspeile marginale tapskostnader i eget og overliggende nett.
