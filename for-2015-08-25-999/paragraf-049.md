@@ -1,0 +1,3 @@
+# § 49. Rapportering om risikokonsentrasjon og transaksjoner innenfor en gruppe
+(1) Forsikringsforetak som nevnt i § 38 første ledd skal minst årlig avgi en rapport til Finanstilsynet om enhver signifikant risikokonsentrasjon på gruppenivå samt alle signifikante transaksjoner mellom forsikringsforetak i gruppen og transaksjoner som er gjennomført med en fysisk person med nære forbindelser til gruppen. Særlig signifikante transaksjoner skal meldes uten ugrunnet opphold.
+(2) Finanstilsynet kan bestemme hvilke typer risikoer og hvilke typer transaksjoner en bestemt gruppe under enhver omstendighet skal rapportere, herunder unnta foretak fra rapporteringsplikt etter første ledd.

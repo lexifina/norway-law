@@ -1,0 +1,2 @@
+# § 9. Forenklede beregninger av solvenskapitalkravet etter standardmetoden
+(1) Forsikringsforetaket kan benytte en forenklet beregning for deler av solvenskapitalkravet når det er forsvarlig ut fra arten, omfanget og kompleksiteten til risikoene foretaket står overfor, og det er uforholdsmessig å kreve full beregning. De nærmere vilkår for bruk av forenklede beregninger følger av regler i forskrift fastsatt av Finanstilsynet.

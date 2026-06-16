@@ -1,0 +1,2 @@
+# § 14. Manglende oppfyllelse av krav til en intern modell
+(1) Et forsikringsforetak som ikke lenger oppfyller kravene til en intern modell som fastsatt i § 15 til § 20, skal umiddelbart gi melding til Finanstilsynet. I meldingen skal det redegjøres for hvordan kravene vil oppfylles og hvilke konsekvenser manglende oppfyllelse av kravene kan ha. Hvis foretaket ikke oppfyller kravene i løpet av rimelig tid, kan Finanstilsynet kreve at foretaket beregner solvenskapitalkravet etter standardmetoden.
