@@ -1,0 +1,2 @@
+# § 22. Beregning av minstekapitalkrav for livsforsikringsforetak som tilbyr skadeforsikring
+(1) Livsforsikringsforetak som i medhold av finansforetaksloven § 2-13 første ledd tilbyr ulykkes- eller sykdomsforsikringer, skal i samsvar med nærmere regler i forskrift fastsatt av Finanstilsynet beregne separate minstekapitalkrav for henholdsvis livsforsikringsvirksomheten og skadeforsikringsvirksomheten som om foretaket bare tilbød forsikringer innenfor vedkommende virksomhetsområde.
