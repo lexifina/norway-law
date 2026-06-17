@@ -1,0 +1,3 @@
+# § 3-2. Autorisasjon når yrket ikke er lovregulert i landet søkeren kommer fra
+Søker som har arbeidet som fiskehelsebiolog, dyrepleier eller seminpersonell i et EØS-land hvor yrket ikke er lovregulert, har rett til autorisasjon dersom vedkommende har utøvd yrket på heltid i minst ett år eller i en tilsvarende periode på deltid. Utøvelsen må ha funnet sted i løpet av de siste ti årene. Søkeren må fremlegge relevant kvalifikasjonsbevis. § 3-1 annet ledd gjelder tilsvarende.
+Kravet om at yrkeserfaringen skal være så lang som nevnt i første ledd, gjelder ikke når det søkes om autorisasjon på bakgrunn av en lovregulert utdanning på det kvalifikasjonsnivået som er beskrevet i vedlegg I bokstav b, c, d og e.

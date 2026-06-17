@@ -1,0 +1,4 @@
+# § 3-5. Utligningstiltak for søker med kvalifikasjon fra tredjeland
+Dersom Mattilsynet avslår søknad om autorisasjon etter § 3-4 fra person som har oppholdstillatelse i Norge, skal Mattilsynet opplyse om mulige utligningstiltak som prøveperiode eller egnethetstest. Opplysningsplikten gjelder såfremt slike tiltak er tilgjengelige og egnet til å utligne den vesentlige forskjellen som nevnt i § 3-3 første ledd bokstav a og b og annet ledd.
+Ved søknad om autorisasjon etter § 3-4, fra person som har oppholdstillatelse i
+Norge, skal Mattilsynet vurdere om utligningstiltak kan utjevne den vesentlige forskjellen som nevnt i § 3-3 første til tredje ledd. Ved avslag på søknad om autorisasjon, skal Mattilsynet opplyse om mulige utligningstiltak, såfremt slike tiltak anses hensiktsmessig og kan utligne den vesentlige forskjellen.
