@@ -1,0 +1,2 @@
+# § 5-2. Autorisasjon på grunnlag av anerkjent utdanning fra tredjeland
+Person som har dokumentert utdanning fra tredjeland, men som ikke har slik yrkeserfaring som er nevnt i § 1-3 bokstav b annet punktum, skal ved søknad om autorisasjon få sin utdanning vurdert etter kapittel 3 dersom vedkommende fremlegger bekreftelse fra et EØS-land på at dette landet har anerkjent den dokumenterte utdanningen. Mattilsynet skal også vurdere yrkeserfaring bekreftet opparbeidet i et EØS-land.

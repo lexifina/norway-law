@@ -1,0 +1,5 @@
+# § 1-2. Virkeområde
+Forskriften gjelder EØS-statsborgere med kvalifikasjoner som dyrehelsepersonell eller seminpersonell, deres rett til autorisasjon i Norge og deres rett til å arbeide midlertidig uten norsk autorisasjon.
+Forskriften gjelder også for behandling av søknader som er sendt før Storbritannias uttreden fra EU fra søkere som har tilegnet seg yrkeskvalifikasjoner i Storbritannia. Forskriften kapittel 2 og 3 om autorisasjon gjelder tilsvarende ut 2029 for personer som er under utdanning i Storbritannia ved Storbritannias uttreden fra EU, eller som starter sin utdanning i Storbritannia i løpet av 2019. Ut 2020 gjelder kapittel 2 og 3 om autorisasjon også for søkere som har fullført sin utdanning i Storbritannia før Storbritannias uttreden fra EU.
+Andre ledd kommer til anvendelse dersom Storbritannia trer ut av EU uten en utmeldingsavtale som inneholder en overgangsperiode.
+Forskriften § 2-4, § 3-4, § 3-5, kapittel 5 og 6 gjelder for personer med kvalifikasjoner som dyrehelsepersonell og seminpersonell fra tredjeland, så langt ikke annet er bestemt.
