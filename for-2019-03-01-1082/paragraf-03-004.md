@@ -1,0 +1,5 @@
+# § 3-4. Faglig godkjenning av annen utdanning
+(1) Studenten eller søkeren kan søke om å få godkjent annen utdanning fra andre studieinstitusjoner i studieløpet sitt ved høyskolen. Det relevante institutt vurderer søknadene om faglig godkjenning.
+(2) I tråd med forskrift 21. desember 2018 nr. 2221 om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse § 4, må en student i tillegg avlegge minst 60 nye studiepoeng, det vil si studiepoeng som ikke har inngått i den tidligere graden, før det kan utstedes et nytt vitnemål eller tildeles en ny grad. Den nye graden må også som hovedregel ha en annen faglig fordypning enn tidligere grad. Høyskolen kan selv fastsette krav til hvilke deler av graden som må være nye.
+(3) Godkjenning av eksamen eller deler av eksamenspensum kan gis når det godtgjøres at tilsvarende eller annen velegnet eksamen er avlagt ved annen institusjon. Realkompetanse kan også gi grunnlag for godkjenning. Instituttet avgjør godkjenningsgrunnlaget.
+(4) Vedtak om faglig godkjenning er et enkeltvedtak, og kan påklages i henhold til bestemmelsene i forskriftens kapittel 6.
