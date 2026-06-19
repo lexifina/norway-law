@@ -1,0 +1,5 @@
+# § 32. Ugyldig moratorium og akkord
+(1) Dersom en frivillig rekonstruksjon, jf. § 27, er kommet i stand ved at
+1) skyldneren forsettlig eller uaktsomt har gitt uriktige eller ufullstendige opplysninger om sine eiendeler eller forpliktelser, eller
+2) skyldneren eller en tredjeperson med skyldnerens medvirkning i strid med rekonstruksjonen og forutsetningene for den har gitt eller tilsagt én eller flere fordringshavere særlige fordeler, taper skyldneren overfor alle de fordringshavere som ikke har kjent til forholdet, den henstanden som ble innrømmet, og skyldneren plikter å betale til disse fordringshaverne også de deler av fordringene som ble ettergitt ved akkorden.
+(2) En fordringshavers rett etter første ledd foreldes ett år fra den dagen da fordringshaveren fikk vite om det forholdet som ga adgang til å angripe rekonstruksjonen. Retten kan ikke i noe tilfelle gjøres gjeldende om den ikke er erkjent eller gjort gjeldende ved søksmål senest tre år etter at rekonstruksjonsforhandlingen er opphørt.

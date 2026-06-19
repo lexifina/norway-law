@@ -1,0 +1,2 @@
+# § 37. Underretning ved bestridte fordringer
+Dersom en anmeldt fordring helt eller delvis blir bestridt, skal rekonstruktøren uten opphold underrette fordringshaveren og samtidig gjøre vedkommende oppmerksom på reglene i § 46 annet ledd. Underretningen skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at underretningen er mottatt. § 7 første ledd fjerde punktum gjelder tilsvarende.

@@ -1,0 +1,2 @@
+# § 30. Nytt forslag
+Dersom forslaget til frivillig rekonstruksjon ikke blir vedtatt, og skyldneren utarbeider et nytt forslag som rekonstruksjonsutvalget finner at det er god utsikt til å få vedtatt, skal rekonstruktøren sende det til fordringshaverne i samsvar med reglene i § 28, men uten vedleggene som er nevnt i § 28 første ledd nr. 1 og 2. Reglene i § 29 gjelder tilsvarende. Ytterligere forslag om frivillig rekonstruksjon kan ikke fremsettes. Det kan derimot fremsettes forslag om rekonstruksjon med tvangsakkord etter kapittel 7.

@@ -1,0 +1,13 @@
+# § 25. Rekonstruktørens redegjørelse
+(1) Når rekonstruksjonsutvalget har skaffet seg nødvendig oversikt over skyldnerens forhold og finner at det er utsikt til at skyldneren vil kunne oppnå rekonstruksjon, skal rekonstruktøren utarbeide en redegjørelse, som blant annet skal inneholde
+1) en oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært, og om de forhold som har ført til rekonstruksjonsforhandlingen
+2) en oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjonsforpliktelser, de heftelser som hviler på skyldnerens eiendeler, og hvordan eiendelene er verdsatt
+3) opplysning om skyldnerens ekteskapelige formuesforhold
+4) opplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksomme
+5) opplysning om skyldneren tidligere har søkt rekonstruksjon eller frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividenden fordringshaverne oppnådde
+6) opplysning om skyldneren tidligere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet, og om det nå må antas å foreligge forhold som kan gi grunn til straffeforfølgning mot vedkommende i forbindelse med slik virksomhet.
+I oversikten etter første punktum nr. 1 bør skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) inntas, og dessuten oppgave over omsetningen. Er skyldneren en sammenslutning eller en stiftelse, skal det i redegjørelsen etter første punktum nr. 6 gis opplysning om det foreligger forhold som nevnt når det gjelder forretningsfører eller styremedlem.
+(2) Rekonstruktørens gjennomgåelse etter første ledd nr. 1 til 6 skal avpasses til de konkrete forhold for skyldneren. Dersom det er foretatt kun en forenklet gjennomgåelse, skal det opplyses særskilt om dette i rekonstruktørens redegjørelse.
+(3) Borevisorens innberetning skal vedlegges dersom det er oppnevnt borevisor.
+(4) Finner rekonstruktøren at det kan være grunn til strafforfølgning for forhold som nevnt i første ledd første punktum nr. 6, jf. tredje punktum, skal redegjørelsen sendes til påtalemyndigheten. Rekonstruktøren bør i nødvendig utstrekning gi påtalemyndigheten underretning om mulige straffbare forhold også på et tidligere tidspunkt.
+(5) Rekonstruktørens redegjørelse forelegges først for kreditorutvalget, som avgir sin uttalelse. Redegjørelsen med kreditorutvalgets uttalelse sendes så til alle kjente fordringshavere.

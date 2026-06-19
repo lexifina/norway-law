@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på en frivillig ordning av gjelden eller tvangsakkord når begjæring om slik forhandling kommer inn til retten etter lovens ikrafttredelse. Loven gjelder også forhandling med fordringshaverne som skal behandles etter denne loven etter reglene i § 65. Når rekonstruksjonen behandles etter reglene i denne loven, gjelder ikke reglene i konkursloven §§ 1 a til 59.

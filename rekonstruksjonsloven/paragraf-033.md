@@ -1,0 +1,3 @@
+# § 33. Misligholdt akkord
+(1) Dersom en skyldner har fått frivillig rekonstruksjon med akkord, men kommer under konkurs før akkorden er oppfylt, skal en fordringshaver som ikke har fått full dekning for sitt krav etter akkorden, gis konkursdividende av fordringens hele opprinnelige beløp. Fordringshaveren kan likevel ikke få utbetalt mer enn sitt restkrav etter akkorden. Fordringshaveren kan ikke kreve utlegg i konkursboet før det er utbetalt til de øvrige fordringshaverne like mange prosenter som de mottatte akkordavdragene utgjør.
+(2) Første ledd første og tredje punktum gjelder tilsvarende for fordringshavere som er ubundet av akkorden etter § 32.
