@@ -4,8 +4,8 @@ a) vedtak om medisinsk undersøkelse og behandling, jf. § 3-7
 b) vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. § 3-8
 c) akuttvedtak om omsorgsovertakelse, jf. § 4-2
 d) vedtak om midlertidig flytteforbud, jf. § 4-3
-e) akuttvedtak om plassering i barnevernsinstitusjon, jf. § 4-4
-f) akuttvedtak om plassering av barn i institusjon når det er fare for menneskehandel, jf. § 4-5
+e) akuttvedtak om opphold i barnevernsinstitusjon, jf. § 4-4
+f) akuttvedtak om opphold i institusjon når det er fare for menneskehandel, jf. § 4-5
 g) akuttvedtak om utreiseforbud, jf. § 4-6
 h) vedtak om omsorgsovertakelse, jf. § 5-1
 i) oppheving av vedtak om omsorgsovertakelse, jf. § 5-7
@@ -13,8 +13,8 @@ j) vedtak om fratakelse av foreldreansvar, jf. § 5-8
 k) vedtak om oppheving av vedtak om fratakelse av foreldreansvar, jf. § 5-9
 l) vedtak om adopsjon, jf. § 5-10
 m) vedtak om utreiseforbud, jf. § 5-13
-n) vedtak om plassering i barnevernsinstitusjon uten samtykke, jf. § 6-2
-o) vedtak om plassering i institusjon ved fare for menneskehandel, jf. § 6-6
+n) vedtak om opphold i barnevernsinstitusjon uten samtykke, jf. § 6-2
+o) vedtak om opphold i institusjon ved fare for menneskehandel, jf. § 6-6
 p) vedtak om samvær, jf. §§ 7-2 og 7-3.
 Ansvarlige organer kan pålegge myndighetene å gi taushetsbelagte opplysninger også i saker etter § 3-4 om pålegg om hjelpetiltak når det er nødvendig for å unngå at et barn havner i en alvorlig situasjon som beskrevet i § 5-1 om omsorgsovertakelse.
 Adgangen til å pålegge myndighetene å gi taushetsbelagte opplysninger gjelder også når vedtak som er truffet av barneverns- og helsenemnda, skal prøves rettslig etter § 14-25.
