@@ -1,0 +1,4 @@
+# § 47. Felling iverksatt av myndighetene
+Ved felling av vilt som er iverksatt av myndighetene etter naturmangfoldloven § 18 tredje ledd, gjelder bestemmelsene i kapittel 1, 2 og 4, kapittel 5 unntatt §§ 26 og 29, kapittel 6 unntatt §§ 38 og 41 og §§ 51 og 60 i loven her samt forskrifter gitt i medhold av disse bestemmelsene. Ved ettersøk i forbindelse med felling etter naturmangfoldloven § 18 tredje ledd av bjørn, jerv, gaupe, kongeørn og ulv gjelder § 22 første, andre, fjerde, femte og syvende ledd i loven her tilsvarende.
+Kongen kan gi forskrift om gjennomføring av felling etter naturmangfoldloven § 18 tredje ledd, blant annet om at felling kan gjennomføres uten hensyn til bestemmelser som nevnt i første ledd, og om å tildele kommunen oppgaver.
+Kongen kan beslutte å fravike bestemmelser som nevnt i første ledd. En slik beslutning er ikke et enkeltvedtak.

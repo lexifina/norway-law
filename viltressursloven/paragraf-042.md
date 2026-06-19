@@ -1,0 +1,6 @@
+# § 42. Åpning for jakt på hjortevilt og krav om fellingstillatelse
+Innenfor rammene av § 10 er jakt på elg, hjort og rådyr tillatt dersom kommunen har gitt forskrift som åpner for slik jakt. Jakt på elg, hjort eller rådyr krever fellingstillatelse fra kommunen. Kommunen tildeler fellingstillatelse basert på et fastsatt minsteareal.
+Innenfor rammene av § 10 er jakt på villrein tillatt dersom Kongen har gitt forskrift som åpner for slik jakt. Jakt på villrein krever fellingstillatelse fra villreinnemnda med utgangspunkt i fastsatt fellingskvote.
+Ved fastsetting av minsteareal og fellingskvoter skal det tas hensyn til bestandens størrelse og sammensetning, artens levevilkår i det enkelte distriktet, og den skaden viltarten volder.
+Kongen kan gi forskrift om forvaltningen av hjortevilt, blant annet om hvilke oppgaver kommunen eller villreinnemnda skal ha, fastsetting av arealkrav, organisering av vald, vilkår for å fastsette og tildele fellingstillatelser, krav til bestandsplaner og rapportering.
+Kongen kan gi forskrift om at kommunen og villreinnemnda kan nekte å tildele fellingstillatelser helt eller delvis eller tildele ekstra fellingstillatelser i gjeldende jaktperiode for å nå fastsatte forvaltningsmål.
