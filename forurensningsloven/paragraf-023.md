@@ -1,0 +1,4 @@
+# § 23. (rett og plikt til tilknytning til eksisterende avløpsanlegg)
+Forurensningsmyndigheten kan bestemme at avløpsvann kan ledes inn i en annens avløpsanlegg.
+Om plikt til tilknytning til eksisterende avløpsledning gjelder reglene i plan- og bygningsloven. Vedtak etter plan- og bygningsloven kan likevel treffes av forurensningsmyndigheten.
+Skjer tilknytning til kommunal avløpsledning, betales tilknytningsavgift etter lov om kommunale vass- og avløpsanlegg. Skjer tilknytning til privat avløpsanlegg, kan eieren av anlegget kreve at vedkommende foretar eller betaler de utvidelser og forandringer av avløpsanlegget som tilknytningen gjør nødvendig, eller at det blir stilt sikkerhet for dette. Eieren kan også kreve refusjon for anleggsutgiftene i samsvar med plan- og bygningsloven. Kostnadene ved underskjønnet skal bæres av den som blir tilknyttet anlegget.

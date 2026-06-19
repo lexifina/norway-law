@@ -1,0 +1,4 @@
+# § 14. (utredningen er offentlig)
+Når utredningen etter § 13 foreligger, har enhver rett til å gjøre seg kjent med den hos den meldepliktige eller vedkommende forurensningsmyndighet. Forurensningsmyndigheten kan bestemme at deler av utredningen skal være offentlig før hele utredningen foreligger.
+Opplysninger som forurensningsmyndigheten har taushetsplikt om etter forvaltningsloven § 13 flg., kan holdes tilbake også av den meldepliktige. Det samme gjelder opplysninger som går inn under offentleglova §§ 20 og 21.
+Bestemmelsen i offentleglova § 30 om hvordan dokument skal gjøres kjent og i § 32 om klage over avgjørelse om ikke å gjøre det tilgjengelig, gjelder både når krav om offentlighet av konsekvensanalyse rettes til forurensningsmyndigheten og til den meldepliktige. Klage over avgjørelse truffet av den meldepliktige går til forurensningsmyndigheten.

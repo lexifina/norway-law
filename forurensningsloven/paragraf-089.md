@@ -1,0 +1,2 @@
+# § 89. (ikrafttreden)
+Loven trer i kraft fra den tid Kongen bestemmer. Deler av loven kan settes i kraft til forskjellige tider, også i forskjellige fylker og kommuner. I forbindelse med lovens ikrafttreden eller senere kan Kongen sette en frist for alle eller enkelte kommuner til å gjennomføre de plikter som loven pålegger kommunene. Det samme gjelder overfor vegstyresmaktene i forhold til § 36.

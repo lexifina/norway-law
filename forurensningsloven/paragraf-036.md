@@ -1,0 +1,3 @@
+# § 36. (avfall langs offentlige veger m.v.)
+Vegstyresmakten skal sørge for oppsetting og tømming av avfallsbeholdere langs offentlige veger utenfor tettbygd strøk hvor de vegfarende erfaringsmessig etterlater seg avfall. Beholderne skal plasseres slik at de er forenlige med trafikksikkerheten. I tilknytning til tømming skal vegstyresmakten foreta nødvendig opprydding innenfor vegens eiendomsgrenser så langt dette ikke påhviler noen etter § 35 første og tredje ledd.
+Forurensningsmyndigheten kan ved forskrift eller i det enkelt tilfelle fastsette at vegholderen skal sørge for toalett for de vegfarende dersom det ellers vil oppstå utilfredsstillende forhold.

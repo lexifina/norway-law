@@ -1,0 +1,2 @@
+# § 25. (utgifter til anlegg, drift og vedlikehold av avløpsanlegg)
+Utgiftene til anlegg, drift og vedlikehold av avløpsanlegg som drives av kommunen, dekkes av kommunen. Kommunen kan kreve full eller delvis dekning av sine kostnader ved innkreving av avgift i samsvar med lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg. Kommunen kan uten hinder av annet punktum kreve refusjon etter plan- og bygningsloven kapittel 18.

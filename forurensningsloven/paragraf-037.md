@@ -1,0 +1,4 @@
+# § 37. (pålegg om å rydde opp i avfall o.l. eller betale for opprydding)
+Kommunen kan gi pålegg om at den som har etterlatt, tømt eller oppbevart avfall i strid med § 28, skal fjerne det, rydde opp innen en viss frist, eller at han skal dekke rimelige utgifter som noen har hatt til fjerning eller opprydding. Slikt pålegg kan også gis overfor den som har overtrådt § 35 første eller tredje ledd dersom dette har ført til at avfallet er blitt spredd.
+Forurensningsmyndigheten kan også gi pålegg om opprydding og fjerning til den som var eier av motorkjøretøy, skip, fly eller annen liknende større gjenstand, da det ble etterlatt i strid med § 28 eller som er eier når pålegget gis.
+Har noen bedt kommunen gi pålegg om opprydning eller betaling av utgifter etter første eller annet ledd, er avgjørelsen enkeltvedtak også om pålegg ikke blir gitt.

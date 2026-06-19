@@ -1,0 +1,4 @@
+# § 29. (krav til anlegg for behandling av avfall)
+Den som driver opplagsplass eller anlegg for behandling av avfall som kan medføre forurensning eller virke skjemmende, må ha tillatelse etter reglene i kap. 3. I tillatelsen kan det settes vilkår blant annet om transport, behandling, gjenvinning og oppbevaring av avfall og tiltak for å motvirke at anlegget virker skjemmende.
+Denne lovs § 10 gjelder tilsvarende for opplagsplass eller anlegg for behandling av avfall som trenger tillatelse etter første ledd.
+Kommunen skal ha anlegg for opplag eller behandling av husholdningsavfall og kloakkslam og ha plikt til å ta imot slikt avfall og slam. Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfellet fastsette at kommunen også skal ha anlegg for og plikt til å ta imot spesialavfall og næringsavfall. Forurensningsmyndigheten kan likeledes fastsette nærmere krav til avfallsanlegget.

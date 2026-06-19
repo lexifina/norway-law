@@ -1,0 +1,5 @@
+# § 35. (avfall i samband med utsalgssteder, turistanlegg, utfartssteder m.v.)
+Den som driver dagligvarehandel, bensinstasjon, kiosk og liknende utsalgssted skal sørge for oppsetting av avfallsbeholdere i nærheten av salgsstedet og tømming av disse. Den som driver leirplass eller annet turistanlegg har også plikt til å sette opp og tømme avfallsbeholdere. Den som driver virksomhet nevnt i første og annet punktum skal forøvrig foreta nødvendig opprydding i området.
+Kommunen skal sørge for oppsetting og tømming av avfallsbeholdere på utfartssteder og andre sterkt besøkte offentlig steder hvor det må regnes med at avfall vil bli gjensatt. I tilknytning til tømming skal det foretas rimelig opprydding i området. Kommunens plikt etter dette ledd gjelder ikke dersom noen annen har plikt etter første ledd eller § 36.
+Arrangør av tilstelning eller stevne skal sørge for nødvendig opprydding etterpå så langt dette ikke påhviler den som driver virksomhet som nevnt i første ledd.
+Kommunen kan i det enkelte tilfelle gi de pålegg som er nødvendige til gjennomføring av reglene i første og tredje ledd.
