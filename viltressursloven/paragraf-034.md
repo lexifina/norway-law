@@ -1,0 +1,5 @@
+# § 34. Rekkevidden av grunneiers enerett til jakt og fangst
+I elver og innsjøer går grunneiers rett til jakt og fangst så langt som eiendomsretten.
+Mot hav og fjord går grunneiers rett til jakt og fangst så langt som landet til enhver tid ligger tørt. Utenfor grensen for grunneiers rett til jakt og fangst har allmennheten rett til jakt og fangst med de begrensningene som ellers følger av eller i medhold av lov. Andre punktum gjelder også på grunner og skjær som er overskylt ved alminnelig høyvann, med mindre retten til jakt og fangst fra gammelt av ligger til noens eiendom som kobbeveide.
+Eieren av en vei har ikke rett til jakt og fangst på veien, med mindre eieren også eier den tilstøtende eiendommen. En grunneier som eier grunnen på begge sidene av en vei, har rett til jakt og fangst på veien, selv om veien eies av andre. Hvis en vei danner grensen mellom grunn som tilhører forskjellige grunneiere, og ingen av disse eier veien, har hver av grunneierne rett til jakt og fangst på veien.
+Tredje ledd gjelder tilsvarende for jernbane, rørgate, gate for kraftledning og lignende anlegg.

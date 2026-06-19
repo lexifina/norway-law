@@ -1,0 +1,8 @@
+# § 22. Undersøkelses- og ettersøksplikt
+Den som under jakt skyter mot vilt, skal forvisse seg om viltet er truffet. Et såret vilt skal så snart som mulig avlives med et lovlig jaktvåpen på en dyrevelferdsmessig forsvarlig og sikker måte. Kongen kan gi forskrift om avliving av såret småvilt som fraviker kravet om lovlig jaktvåpen.
+Dersom jegeren ved umiddelbar undersøkelse av og rundt skuddstedet verken finner dyret eller kan utelukke at det er truffet, skal jegeren starte et ettersøk. Jegeren skal ikke jakte på nye dyr mens ettersøket pågår.
+Ved ettersøk av hjortevilt, villsvin og muflon skal jegeren varsle kommunen dersom dyret ikke blir funnet innen utgangen av den dagen det ble såret. Jegeren skal vederlagsfritt gjennomføre ettersøket frem til dyret blir avlivet eller funnet dødt, eller kommunen beslutter at ettersøket skal avsluttes. Kommunen kan beslutte å ta ledelsen av eller yte bistand ved slikt ettersøk og at ettersøket skal avsluttes.
+Ved ettersøk av gaupe skal jegeren varsle statsforvalteren og nærmeste politimyndighet uten opphold, og i tillegg varsle kommunen dersom dyret ikke blir funnet innen utgangen av den dagen det ble såret. Statsforvalteren avgjør den videre gjennomføringen og avslutningen av ettersøk av gaupe. Jegeren skal vederlagsfritt bistå forvaltnings- eller politimyndigheten i det videre ettersøket.
+Andre til fjerde ledd gjelder også for jaktlaget når jegeren deltar i et jaktlag.
+Etter at kommunen har besluttet å avslutte ettersøket etter tredje ledd, kan kommunen beslutte å starte søk etter dyret som et offentlig ettersøk, jf. § 55.
+Kongen kan gi forskrift om ettersøk, blant annet om jegerens og jaktlagets plikter ved ettersøk, hvor lenge ettersøket skal vare, og krav om ettersøkshund.
