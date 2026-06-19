@@ -1,0 +1,5 @@
+# § 9. Representant for de ansatte som medlem av kreditorutvalget
+(1) Etter krav fra et flertall av de ansatte i skyldnerens næringsvirksomhet skal retten oppnevne en representant for de ansatte som medlem av kreditorutvalget. Det samme gjelder når slikt krav fremsettes av en lokal fagforening som organiserer et flertall av de ansatte i virksomheten, eller av flere lokale fagforeninger som til sammen organiserer et flertall av de ansatte.
+(2) Når kjennelse om åpning av rekonstruksjonsforhandling er avsagt, skal retten snarest mulig underrette de ansatte i skyldnerens næringsvirksomhet om deres rettigheter etter første ledd.
+(3) Retten kan likevel etter en vurdering av boets stilling, utsiktene for videre drift og omstendighetene for øvrig unnlate å oppnevne slik representant. Retten skal i så fall på forhånd innhente uttalelse fra de medlemmene av kreditorutvalget som er oppnevnt på dette tidspunktet.
+(4) Kongen kan ved forskrift eller vedtak i det enkelte tilfellet gjøre unntak fra denne paragrafen. Kongen kan også gi utfyllende forskrifter, blant annet om reglenes anvendelse i konserner og konsernliknende forhold.

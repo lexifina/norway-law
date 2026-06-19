@@ -1,0 +1,3 @@
+# § 36. Bortfall av pantheftelser
+(1) Ved rekonstruksjon med tvangsakkord bortfaller pantheftelser som ligger utenfor pantets antatte verdi.
+(2) Rekonstruksjonsutvalget foretar verdsettelsen av pantet. En panthaver med sikkerhet utenfor pantets antatte verdi kan bringe verdsettelsen inn for retten med begjæring om at det holdes skiftetakst. Kostnadene ved skiftetaksten bæres av panthaveren dersom rekonstruksjonsutvalgets verdsettelse opprettholdes eller endres med mindre enn ti prosent. For øvrig gjelder arveloven § 106 annet til femte ledd tilsvarende. I særlige tilfeller kan retten fravike satsene for godtgjørelse av skjønnsmedlemmer som ellers gjelder ved skiftetakst.

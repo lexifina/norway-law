@@ -1,0 +1,4 @@
+# § 4. Ansvar for omkostningene ved rekonstruksjonsforhandlingen. Forskudd og sikkerhet
+(1) Retten kan kreve at den som begjærer rekonstruksjonsforhandling åpnet, skal innbetale et passende forskudd til dekning av omkostninger ved rekonstruksjonsforhandlingen som ikke dekkes av gebyr etter rettsgebyrloven, eller at det blir stilt sikkerhet for disse omkostningene. Dersom en fordringshaver begjærer rekonstruksjonsforhandling åpnet, hefter fordringshaveren bare for innbetalt forskudd eller sikkerhet i den utstrekning skyldnerens midler ikke kan dekke omkostninger som er omfattet av forskuddet eller sikkerhetsstillelsen.
+(2) Rettsgebyrloven § 3 tredje og sjette ledd og § 5 annet ledd gjelder tilsvarende.
+(3) Omkostninger som skyldneren ikke kan betale, og som ikke dekkes av forskudd eller sikkerhetsstillelse etter annet ledd, plikter staten å dekke.

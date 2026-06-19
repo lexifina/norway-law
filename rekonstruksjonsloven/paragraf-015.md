@@ -1,0 +1,4 @@
+# § 15. Rekonstruksjonsutvalgets tilsyn med skyldneren
+(1) Under rekonstruksjonsforhandlingen beholder skyldneren rådigheten over sin virksomhet og sine formuesforhold for øvrig, men er under rekonstruksjonsutvalgets tilsyn. Rekonstruktøren og kreditorutvalget skal gis full adgang til å føre tilsyn med skyldnerens virksomhet og økonomiske forhold, og skyldneren skal rette seg etter de pålegg rekonstruktøren og kreditorutvalget gir i denne forbindelse.
+(2) Skyldneren må ikke uten kreditorutvalgets tillatelse stifte eller fornye gjeld, foreta pantsettelse eller avhende eller leie bort sin faste eiendom, sine forretningslokaler eller noen formuesgjenstand av vesentlig betydning.
+(3) Dersom skyldneren er næringsdrivende og virksomheten skal drives videre under rekonstruksjonsforhandlingen, skal skyldneren fremlegge et driftsbudsjett og en finansieringsplan for rekonstruksjonsutvalget.

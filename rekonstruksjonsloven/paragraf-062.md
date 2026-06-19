@@ -1,0 +1,2 @@
+# § 62. Forholdet til andre lover som omhandler gjeldsforhandling
+Når denne loven får anvendelse, skal omtale i andre lover og forskrifter av gjeldsforhandling etter konkurslovens første del forstås som rekonstruksjon etter denne loven, og henvisninger i andre lover og forskrifter til begreper og bestemmelser i konkurslovens første del om gjeldsforhandling forstås som henvisninger til korresponderende begreper og bestemmelser i denne loven.

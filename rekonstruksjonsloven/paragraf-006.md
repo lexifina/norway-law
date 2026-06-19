@@ -1,0 +1,4 @@
+# § 6. Melding ved åpning av rekonstruksjonsforhandling
+(1) Blir en begjæring om åpning av rekonstruksjonsforhandling tatt til følge, skal retten gi skyldneren skriftlig melding om skyldnerens plikter etter §§ 15 og 20, og om følgen av å handle mot dem, jf. § 58 annet ledd.
+(2) Retten skal samtidig opplyse om tidspunkt og sted for fordringshavermøte, jf. § 22, med mindre retten bestemmer at slikt møte ikke skal holdes eller utsetter beslutningen. Dersom retten beslutter at fordringshavermøtet skal avholdes elektronisk uten fysisk møte, skal underretningen inneholde nærmere opplysninger om avviklingen av møtet.
+(3) Retten skal straks underrette Norges Bank når den har avsagt kjennelse om åpning av rekonstruksjonsforhandling i en institusjon som deltar i system som nevnt i lov om betalingssystemer m.v. § 1-1 første ledd eller § 1-2.

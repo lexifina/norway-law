@@ -1,0 +1,6 @@
+# § 28. Utsendelse av forslaget. Svarfrist
+(1) Når skyldneren har utarbeidet et forslag til rekonstruksjon, og rekonstruksjonsutvalget finner at det bør fremmes, skal rekonstruktøren sende forslaget til alle fordringshaverne med fordringer som er omfattet av forslaget. Med forslaget skal følge
+1) redegjørelsen etter § 25
+2) skyldnerens erklæring om at alt skyldneren eier og skylder, er oppgitt
+3) rekonstruksjonsutvalgets uttalelse om hvorvidt det anbefaler at forslaget vedtas, om utsikten til og sikkerheten for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som utvalget har satt for å anbefale forslaget, og om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
+(2) Fordringshaverne oppfordres samtidig til innen en frist, som ikke må settes kortere enn to uker og ikke lengre enn tre uker, å underrette rekonstruktøren skriftlig om de vedtar forslaget. I oppfordringen skal fordringshaverne gjøres oppmerksom på bestemmelsen i § 29 annet ledd. Underretningen skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at underretningen er mottatt. § 7 første ledd fjerde punktum gjelder tilsvarende.
