@@ -1,0 +1,2 @@
+# § 4 a. (tillatelse og krav til godkjent overvåkingsplan)
+For anleggsoperatører og brenselsoperatører kreves tillatelse etter forurensningsloven § 11 annet ledd for aktiviteter som nevnt i forskrift gitt i medhold av § 3, med unntak for aktiviteter som kun har krav til måling og rapportering. For luftfartøysoperatører og skipsoperatører som har kvotepliktige utslipp, kreves en plan for overvåking av utslipps- og aktivitetsdata som er godkjent av klimakvotemyndigheten.

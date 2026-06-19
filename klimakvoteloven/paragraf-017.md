@@ -1,0 +1,2 @@
+# § 17. (suspensjon av retten til å overføre kvoter)
+Dersom en anleggs-, luftfartøys- eller skipsoperatør ikke innen 31. mars, eller en brenselsoperatør ikke innen 30. april, det enkelte år har rapportert sine utslipp i henhold til bestemmelsene gitt i eller i medhold av § 14, skal klimakvotemyndigheten suspendere vedkommende fra retten til å overføre kvoter i klimakvoteregisteret fram til tilfredsstillende rapportering foreligger.

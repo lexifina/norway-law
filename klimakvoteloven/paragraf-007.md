@@ -1,0 +1,2 @@
+# § 7. (gebyr og omkostninger)
+Kongen kan gi forskrift om betaling av gebyr for opprettelse og drift av konto, vedtak om tildeling av kvoter, utstedelse av kvoter, kontrolltiltak som gjennomføres for å sikre at loven eller vedtak i medhold av loven blir fulgt, og for godkjenning av overvåkingsplaner. Slikt gebyr er tvangsgrunnlag for utlegg. Kongen kan gi forskrift om at omkostninger i forbindelse med klimakvotemyndighetens kontroll med utslippsrapport og rapport med tildelingsdata skal dekkes av operatøren.

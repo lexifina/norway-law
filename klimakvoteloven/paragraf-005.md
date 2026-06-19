@@ -1,0 +1,3 @@
+# § 5. (søknad om tillatelse og kvotetildeling)
+Kongen kan gi forskrift om søknader om tillatelse etter forurensningsloven § 11 annet ledd og om søknader om tildeling av vederlagsfrie kvoter. Klimakvotemyndigheten kan i det enkelte tilfellet fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for.
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for søknad om tildeling av vederlagsfrie kvoter og for kontroll av rapporterte klimagassutslipp etter § 15, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
