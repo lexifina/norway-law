@@ -1,0 +1,4 @@
+# § 32. Håndtering av næringsavfall
+Den som produserer næringsavfall, skal sørge for at avfallet blir brakt til lovlig avfallsanlegg eller gjennomgår gjenvinning, slik at det enten opphører å være avfall eller på annen måte kommer til nytte ved å erstatte materialer som ellers ville blitt brukt. Annen disponering av avfall fra fiske, jordbruk og skogbruk mv. er likevel tillatt, såfremt forurensningen dette kan medføre omfattes av § 8 første ledd nr. 1.
+Forurensningsmyndigheten kan i særlige tilfeller gjøre unntak ved enkeltvedtak eller forskrift fra første ledd første punktum på nærmere fastsatte vilkår.
+Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfelle pålegge produsenten å levere næringsavfall til kommunalt avfallsanlegg. Bestemmelsen i § 31 annet ledd gjelder tilsvarende.

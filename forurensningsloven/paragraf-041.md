@@ -1,0 +1,3 @@
+# § 41. (beredskapsplaner)
+Forurensningsmyndigheten kan i forskrift eller enkeltvedtak fastsette at det for virksomhet som kan medføre akutt forurensning, skal legges fram en beredskapsplan til godkjennelse. Planen skal gi retningslinjer for hva som skal gjøres ved akutt forurensning og den skal fornyes etter behov.
+Forurensningsmyndigheten kan fastsette nærmere vilkår for godkjenning av beredskapsplan. Det kan herunder fastsettes at beredskapsplanen skal samordnes med planer for å møte andre ulykkessituasjoner enn akutt forurensning. Forurensningsmyndigheten kan gi pålegg om endring i godkjent beredskapsplan og om nødvendig kalle godkjenningen tilbake.

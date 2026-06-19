@@ -1,0 +1,6 @@
+# § 34. (avfallsgebyr)
+Kommunen skal fastsette gebyrer til dekning av kostnader forbundet med avfallssektoren, herunder innsamling, transport, mottak, oppbevaring, behandling, etterkontroll m.v. Kostnadene skal fullt ut dekkes inn gjennom gebyrene. Med kostnader menes både kapitalkostnader og driftskostnader. For avfall som kommunen har plikt til å samle inn, motta og/eller behandle etter §§ 29, 30 eller 31 må gebyret ikke overstige kommunens kostnader.
+Kommunene bør fastsette differensierte gebyrer, der dette vil kunne bidra til avfallsreduksjon og økt gjenvinning. Forurensningsmyndigheten kan fastsette forskrifter om beregning av gebyrene.
+Avfallshåndtering etter § 35 omfattes ikke av denne bestemmelsen.
+Gebyr skal betales av den som eier en eiendom som omfattes av ordning for innsamling av avfall eller tømming av slamavskiller, privet m.v. etter loven her. Dersom eiendommen er festet bort for 30 år eller mer, skal likevel festeren svare gebyret om ikke annet er avtalt. Det samme gjelder når festeren har rett til å få festet forlenget, slik at den samlede festetid blir mer enn 30 år.
+Avfallsgebyr med påløpte renter og kostnader er sikret med lovbestemt pant etter panteloven § 6-1. Reglene i lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane §§ 26 og 27 gjelder tilsvarende.

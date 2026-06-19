@@ -1,0 +1,4 @@
+# § 49. (opplysningsplikt)
+Etter pålegg av forurensningsmyndigheten plikter den som har, gjør eller setter i verk noe som kan forurense eller føre til avfallsproblemer uten hinder av taushetsplikt å gi forurensningsmyndigheten eller andre offentlige organer de opplysninger som er nødvendige for gjennomføring av gjøremål etter loven. Når særlige grunner tilsier det, kan forurensningsmyndigheten kreve at opplysningene gis av enhver som utfører arbeid for den som har opplysningsplikt etter første punktum.
+Opplysninger som nevnt i første ledd kan også kreves fra andre offentlige myndigheter uten hinder av den taushetsplikt som ellers gjelder. Forurensningsmyndigheten kan bestemme i hvilken form opplysningene skal gis.
+Vedtak etter første eller annet ledd treffes ved forskrift eller enkeltvedtak.

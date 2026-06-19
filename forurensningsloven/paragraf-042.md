@@ -1,0 +1,3 @@
+# § 42. (samarbeid om privat beredskap)
+Forurensningsmyndigheten kan pålegge de som driver virksomhet som kan medføre akutt forurensning å samarbeide om beredskapen. Slike pålegg kan omfatte plikt til å utarbeide felles beredskapsplan etter § 41 og å holde beredskapsutstyr i fellesskap.
+Forurensningsmyndigheten kan kreve at avtaler om etablering av særskilt beredskapsorganisasjon og andre avtaler om beredskapssamarbeid blir lagt fram til godkjennelse. Når det ikke foreligger slik avtale, kan forurensningsmyndigheten treffe vedtak om organisering og utgiftsfordeling i forbindelse med beredskapssamarbeidet.

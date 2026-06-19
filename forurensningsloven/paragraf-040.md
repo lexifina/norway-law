@@ -1,0 +1,3 @@
+# § 40. (beredskapsplikt)
+Den som driver virksomhet som kan medføre akutt forurensning skal sørge for en nødvendig beredskap for å hindre, oppdage, stanse, fjerne og begrense virkningen av forurensningen. Beredskapen skal stå i et rimelig forhold til sannsynligheten for akutt forurensning og omfanget av skadene og ulempene som kan inntreffe.
+Forurensningsmyndigheten kan i forskrift eller enkeltvedtak fastsette nærmere krav til beredskapen etter første ledd. Beredskapen skal etter forurensningsmyndighetens nærmere bestemmelse tilpasses den kommunale og den statlige beredskapen mot akutt forurensning.
