@@ -1,0 +1,8 @@
+# § 3. Definisjoner
+I denne forskriften legges følgende definisjoner til grunn:
+- Markedsregulator: Nortura SA og Tine SA.
+- Egg: Skallegg.
+- Eggprodukter: Heleggpulver, heleggmasse, eggehvite (fersk og frossen) og eggeplomme.
+- Naturell yoghurt: Yoghurt er et melkeprodukt av høypasteurisert melk som er syrnet ved hjelp av melkesyrebakteriene Lactobacillus bulgaricus og Streptococcus thermophilus. Naturell yoghurt er uten andre tilsetninger.
+- Smør: Naturlig smør, mysesmør eller rekombinert smør (ferskt, saltet eller harskt) fremstilt utelukkende fra melk, med et melkefettinnhold på 80 vektprosent eller mer, men høyst 95 vektprosent, med et innhold av råprotein, sukker og salt på høyst 2 vektprosent og med et vanninnhold på høyst 16 vektprosent. Smør inneholder ikke tilsatte emulgeringsmidler, men kan inneholde natriumklorid, fargestoffer, nøytraliseringssalter og harmløse melkesyreproduserende bakterier.
+- Hvitost: Modnede halvfaste, harde eller ekstra harde produkter som kan være belagt (med film eller voks etc.). Osten skal fremstilles ved delvis eller fullstendig koagulering av proteinene i melk (helmelk, delvis skummet melk, fløte, kjernemelk eller kombinasjoner av disse), ved løpe eller andre koaguleringsmidler, og ved delvis drenering av myse som oppstår etter koaguleringen. Ost fremstilles altså ved konsentrering av melkeproteiner, særlig kaseinene, og proteininnholdet er dermed høyere enn i melk. Smelteoster fremstilt av faste guloster som rives og tilsettes vann og smeltesalter før varmebehandling kommer ikke inn under denne definisjonen av ost. Gammelost og pultost er heller ikke omfattet av hvitost.
