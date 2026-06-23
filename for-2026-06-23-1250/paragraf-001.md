@@ -1,0 +1,2 @@
+# § 1. Cybersikkerhetsforordningen
+Forordning (EU) 2019/881 om byrået for nett- og informasjonssikkerhet (ENISA) og om cybersikkerhetssertifisering av informasjons- og kommunikasjonsteknologi (cybersikkerhetsforordningen), som inntatt i EØS-avtalen vedlegg XI nr. 5cp, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.

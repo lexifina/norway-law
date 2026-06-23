@@ -1,0 +1,3 @@
+# § 8. Pålegg
+Dersom en produsent eller leverandør av sertifiserte IKT-produkter, IKT-tjenester eller IKT-prosesser ikke oppfyller kravene produsenten eller leverandøren er ilagt etter forskriften her, kan cybersikkerhetssertifiseringsmyndigheter etter § 4 ilegge pålegg om retting.
+Dersom en produsent eller leverandør har utstedt EU-samsvarserklæring, men ikke oppfyller kravene som følger av sertifiseringsordningen, kan cybersikkerhetssertifiseringsmyndigheter etter § 4 pålegge produsenten eller leverandøren å trekke EU-samsvarserklæringen tilbake, og forby markedsføring som gir uttrykk for at IKT-produktet, -tjenesten eller -prosessen oppfyller kravene til sertifiseringsordningen.
