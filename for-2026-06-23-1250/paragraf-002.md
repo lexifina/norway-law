@@ -1,0 +1,2 @@
+# § 2. Unntak for visse aktiviteter
+Forskriften berører ikke myndighetsområder med hensyn til aktiviteter som gjelder offentlig sikkerhet, forsvar, nasjonal sikkerhet og statens aktiviteter på det strafferettslige området, jf. cybersikkerhetsforordningen artikkel 1 nr. 2. Dette inkluderer sertifisering som faller under disse myndighetsområdene, herunder sertifisering etter sikkerhetsloven og forskrifter fastsatt i medhold av denne.
