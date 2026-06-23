@@ -1,0 +1,2 @@
+# § 11. Forbud mot bruk av opplysninger som bevis i straffesak eller sivil sak
+Opplysninger som kommisjonen har mottatt i medhold av §§ 4 og 6, kan ikke benyttes som bevis i en straffesak eller sivil sak, eller som dokumentasjon i tilsynssaker som kan gi grunnlag for reaksjoner mot enkeltpersoner. Forbudet er ikke til hinder for at det i en straffesak som gjelder uriktig forklaring etter straffeloven § 221, føres bevis om innholdet i forklaringer som er avgitt til kommisjonen.
