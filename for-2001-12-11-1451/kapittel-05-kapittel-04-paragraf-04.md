@@ -1,0 +1,3 @@
+# § 5-12. Avgiftsreduksjon ved redusert svovelutslipp – akkreditering
+(1) Utstedelse av sertifikat for svovelinnhold i mineralske produkter, samt kontrollmålinger av massebalanser m.m. skal utføres av organisasjon som er akkreditert etter EN 5001 eller ISO/IEC Guide 25 av Justervesenet ved avdeling Norsk akkreditering eller en utenlandsk akkrediteringsorganisasjon som gir akkreditering etter disse standardene og som selv tilfredsstiller EN 45003 eller ISO/IEC Guide 58.
+(2) Skattedirektoratet kan bestemme at tidligere autoriserte institusjoner kan utføre oppgaver som nevnt i første ledd, samt attestere søknader om godkjenning, til tross for at kravene i første ledd ikke er oppfylt.

@@ -1,0 +1,4 @@
+# § 3-6-11. Fritak for gass som er avgiftspliktig etter Stortingets vedtak om CO2-avgift i petroleumsvirksomheten på kontinentalsokkelen
+(1) Naturgass og LPG som er avgiftspliktig etter Stortingets vedtak om CO2-avgift i petroleumsvirksomheten på kontinentalsokkelen, er fritatt for CO2-avgift på mineralske produkter.
+(2) Registrert virksomhet kan levere gass uten avgift etter å ha mottatt en erklæring fra bruker om at gassen er avgiftspliktig etter Stortingets vedtak om CO2-avgift i petroleumsvirksomheten på kontinentalsokkelen. Erklæringen må inneholde opplysninger om hvilket anlegg gassen er levert til, samt mengde. Erklæringen gjelder for ett år med mindre annet framgår. Den som avgir erklæringen er ansvarlig for at opplysningene er riktige og fullstendige. Den registrerte virksomheten skal oppbevare erklæringen i ti år.
+(3) For gass levert fra ikke-registrerte virksomheter gis det refusjon tilsvarende betalt avgift. Refusjonssøknaden sendes skattekontoret.

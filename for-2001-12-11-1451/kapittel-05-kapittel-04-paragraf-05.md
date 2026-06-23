@@ -1,0 +1,2 @@
+# § 5-13. Urettmessig bruk av merket mineralolje og biodiesel – kontroll
+Dersom det er mistanke om at merket mineralolje eller merket biodiesel er benyttet urettmessig, skal en prøve av drivstoffet sendes et laboratorium som er akkreditert for den aktuelle analysen. Laboratorium gir en skriftlig uttalelse om prøven. Uttalelsen skal legges til grunn ved en eventuell beregning av avgift etter § 3-11-7. Prøven anses å inneholde merket mineralolje eller merket biodiesel når andelen merket mineralolje eller merket biodiesel overstiger tre prosent.

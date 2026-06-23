@@ -1,0 +1,5 @@
+# § 3-12-18. Avgiftsfritak for lokal deling av kraft fra fornybare energikilder
+(1) Det gis fritak for elektrisk kraft produsert av fornybare energikilder og som leveres til:
+a) abonnenter innenfor samme eiendom, fra anlegg på inntil 1 MW som leveres i henhold til forskrift om kraftomsetning og nettjenester § 3-12 eller
+b) abonnenter innenfor samme næringsområde, fra anlegg på inntil 5 MW, som leveres i henhold til forskrift om kraftomsetning og nettjenester § 3-13.
+(2) Med samme eiendom menes samme kommune-, gårds-, bruks- og eventuelt festenummer som produksjonsanlegget befinner seg på. Med samme næringsområde menes et geografisk avgrenset areal der næringsvirksomheter er samlokalisert, og omfatter næringsparker, industriparker og lignende hvor næringsvirksomheter samarbeider, har fellesfunksjoner og deler infrastruktur. Næringsområde omfatter ikke generell næringsbebyggelse i by- og sentrumsområder. Fritaket gjelder kraft fra ett eller flere produksjonsanlegg som alene eller til sammen ikke er større enn 1 MW per eiendom eller 5 MW (AC) per næringsområde.

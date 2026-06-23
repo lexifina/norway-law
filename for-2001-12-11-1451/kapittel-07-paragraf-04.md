@@ -1,0 +1,32 @@
+# § 7-4. Ikrafttredelse m.m.
+(1) Forskriften gjelder fra 1. januar 2002.
+(2) Fra samme tid oppheves følgende forskrifter:
+- forskrift 29. september 1976 nr. 9950 om avgift på tobakkvarer,
+- forskrift 17. desember 1999 nr. 1306 om avgift på alkohol,
+- forskrift 15. januar 1996 nr. 21 om avgift på brennevin og vin m.m. til teknisk, vitenskapelig og medisinsk bruk m.v. (teknisk sprit),
+- forskrift 18. desember 2000 nr. 1305 om avgift på alkoholfrie drikkevarer,
+- forskrift 20. desember 1999 nr. 1370 om avgifter på drikkevareemballasje,
+- forskrift 16. juli 1990 nr. 611 om avgift på sjokolade- og sukkervarer m.m.,
+- forskrift 25. november 1981 nr. 9930 om avgift på sukker m.v.,
+- forskrift 18. desember 1998 nr. 1249 om CO2-avgift på mineralske produkter,
+- forskrift 18. desember 1998 nr. 1250 om svovelavgift på mineralske produkter,
+- forskrift 29. januar 1990 nr. 75 om beregning, oppkreving og kontroll av avgift på bensin,
+- forskrift 29. januar 1990 nr. 77 om avgift på smøreolje m.v.,
+- forskrift 8. juni 1993 nr. 436 om avgift på mineralolje til framdrift av motorvogn og om merking av mineralolje,
+- forskrift 14. desember 1999 nr. 1298 om grunnavgift på fyringsolje mv.,
+- forskrift 27. januar 1978 nr. 8 om avgift på båtmotorer,
+- forskrift 26. november 1979 nr. 3 om avgift på elektrisk kraft,
+- forskrift 6. desember 1999 nr. 1257 om avgift på trikloreten (TRI) og tetrakloreten (PER),
+- forskrift 2. desember 1998 nr. 1106 om avgift på sluttbehandling av avfall,
+- forskrift 29. mars 1996 nr. 312 om refusjon av avgift på mineralske produkter og elektrisk kraft som leveres til bruk i verneverdige fartøy, museumsjernbaner, tekniske og industrielle kulturminner og tekniske anlegg på museumssektoren,
+- forskrift 10. november 1988 nr. 898 om refusjon av avgift på mineralolje til bruk i fartøy som driver fiske og fangst i nære farvann,
+- forskrift 10. juni 1991 nr. 369 om refusjon av avgift på mineralolje til bruk om bord i fartøy som driver gods- og/eller passasjertransport i innenriks sjøfart,
+- forskrift 30. desember 1992 nr. 1227 om nedsatt avgift på mineralolje for treforedlingsindustrien, sildemel- og fiskemelindustrien,
+- forskrift 18. desember 1998 nr. 1251 om bensin og mineralolje til bruk i fly,
+- forskrift 20. desember 2000 nr. 1427 om redusert svovelavgift ved rensing mv.,
+- forskrift 13. juni 1975 nr. 6 om tilskudd som kompensasjon for bensinavgift,
+- forskrift 27. januar 1978 nr. 9 om fritak og refusjon av avgift på båtmotorer,
+- forskrift 23. desember 1992 nr. 1203 om avgiftsmessig avgrensning og praktisering av fritak for avgift på elektrisk kraft for industrien m.v.,
+- forskrift 19. august 1993 nr. 809 om kontroll og avgiftsberegning ved urettmessig bruk av merket mineralolje,
+- forskrift 20. august 1993 nr. 821 om lageravgift på mineralolje til framdrift av motorvogn og
+- forskrift 28. mai 1999 nr. 656 om refusjon av innbetalt CO2– og svovelavgift på flydrivstoff levert til bruk i internasjonal flytrafikk.

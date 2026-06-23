@@ -1,0 +1,2 @@
+# § 3-12-5. Redusert sats for fjernvarmeprodusenter
+Fjernvarmeprodusenter registrert i næringsundergruppe (næringskode) 35 300 og fjernvarmeprodusenter som har konsesjon fra Norges vassdrags- og energidirektorat skal betale redusert sats dersom bedriften, med unntak av en oppbyggingsperiode på inntil tre år, bruker minst 50 pst. avfall, bioenergi, spillvarme og/eller varmepumper som energikilde og bedriften leverer fjernvarme til forbrukere utenfor egen næringsvirksomhet.

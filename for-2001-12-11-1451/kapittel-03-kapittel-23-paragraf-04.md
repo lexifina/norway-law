@@ -1,0 +1,3 @@
+# § 3-23-4. Avgiftsgrunnlag, -sats og -beregning
+(1) For trafikkforsikringer beregnes avgiften per forsikringsdøgn etter de satser og regler som gjelder på det tidspunkt den avgiftspliktige blir ansvarlig for motorvognen etter forsikringsavtaleloven § 3-1. Ved fornyelse av en forsikringsavtale beregnes avgiften etter regler og satser som gjelder på tidspunktet for fornyelsen, jf. forsikringsavtaleloven § 3-2. Det skal ikke beregnes avgift for ansvar etter forsikringsavtaleloven § 7-2 første ledd tredje punktum.
+(2) For gebyr for uforsikrede motorvogner og motorvogner der ny eier ikke har tegnet egen forsikring, beregnes avgiften per forsikringsdøgn etter de satser og regler som gjelder på det tidspunkt gebyrkravet ble sendt.

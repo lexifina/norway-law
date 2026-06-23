@@ -1,0 +1,8 @@
+# § 3-12-11. Dokumentasjon for rett til redusert sats
+(1) Foretak med rett til å få kraft levert med redusert avgiftssats må legge frem følgende dokumentasjon for nettselskapet:
+a) bekreftelse på næringsundergruppe (næringskode) fra Enhetsregisteret, med mindre Skattedirektoratet bestemmer noe annet. Fjernvarmeprodusenter kan i stedet legge frem konsesjon gitt av Norges vassdrags- og energidirektorat.
+b) fjernvarmeprodusenter må også legge frem dokumentasjon på bruk av energikilde ved kopi av innvilget støtte til fjernvarmeanlegg eller annen lignende dokumentasjon. Fjernvarmeprodusenter under oppbygging må dokumentere dette ved for eksempel uttalelse fra Norges vassdrags- og energidirektorat eller Enova SF.
+c) egenerklæring som viser fordelingen mellom kraft som benyttes til industri, bergverk, fjernvarme og til skip i næring med krav på redusert sats og kraft som benyttes til andre formål. Fordelingen skal kunne sannsynliggjøres.
+d) egenerklæring som viser mengde kraft som er levert med redusert sats til skip i næring. Opplysninger om kundeforhold mv. skal ikke framkomme av erklæringen. Leveringen skal kunne dokumenteres med erklæring fra bruker av kraften med opplysninger om skipets navn og kjennemerke. Generelle erklæringer kan gis av rederiet.
+e) egenerklæring som viser mengde kraft som er levert med redusert sats til produksjon eller omforming av energiprodukt.
+(2) Dokumentasjonen etter første ledd skal ikke være eldre enn ett år. Den som avgir dokumentasjonen er ansvarlig for at opplysningene er riktige og fullstendige. Nettselskapet skal oppbevare dokumentasjonen i ti år.

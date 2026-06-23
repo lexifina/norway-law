@@ -1,0 +1,4 @@
+# § 3-7-5. Vilkår for avgiftsreduksjon
+(1) Det er et vilkår for avgiftsreduksjonen at Miljødirektoratet eller et akkreditert laboratorium, jf. § 5-12, har gitt uttalelse om den produksjonsmåte eller rensemetode som reduserer SO2-utslippet. Av uttalelsen skal det fremgå hvilken grad av redusert SO2-utslipp som forventes oppnådd ved produksjons- eller rensemetoden.
+(2) Ved endring av produksjonsmåte eller rensemetode skal virksomheten straks gi melding om dette til skattekontoret. Uttalelse fra Miljødirektoratet eller akkreditert laboratorium må da innhentes på nytt etter reglene i første ledd.
+(3) Ved bruk av mineralolje skal virksomheten minst en gang i kvartalet foreta måling av det reduserte svovelutslippet. Unntak fra kravet om kvartalsvise målinger kan gjøres i tilfelle der det dokumenteres at en fast andel av de benyttede, avgiftsbelagte produkters svovelinnhold bindes i produksjonsprosessen.
