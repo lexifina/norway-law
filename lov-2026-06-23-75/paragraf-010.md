@@ -1,0 +1,4 @@
+# § 10. Taushetsplikt
+Medlemmene av kommisjonen og enhver som utfører arbeid eller tjeneste for kommisjonen, har taushetsplikt etter reglene i forvaltningsloven §§ 13 til 13 f. Forvaltningsloven § 13 b første ledd nr. 6 gjelder ikke. Taushetsplikten er likevel ikke til hinder for at kommisjonen anmelder eller gir opplysninger til påtalemyndigheten om uriktige forklaringer for kommisjonen, jf. § 9 og straffeloven § 221.
+Når personer som nevnt i første ledd mottar opplysninger som er undergitt strengere taushetsplikt enn det som følger av forvaltningsloven, skal de strengere reglene gjelde. Det samme gjelder etter at materialet har blitt avlevert til statlig bevaringsinstitusjon for de som er ansatt i eller som utfører arbeid eller tjeneste for bevaringsinstitusjonen.
+Taushetsplikten gjelder også etter at kommisjonen har avsluttet arbeidet.
