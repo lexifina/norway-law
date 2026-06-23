@@ -1,0 +1,2 @@
+# § 1. Grunnleggande vilkår for rett til kompensasjon
+Personar som har arbeidd i petroleumsverksemda offshore på norsk kontinentalsokkel i perioden 1966 til 1990 (pionertida) innanfor aktivitetsområda boring og brønn eller produksjon og vedlikehald som angitt i § 2, har rett til kompensasjon etter reglane i denne lova dersom dei har ein varig sjukdom eller skade nemnd i § 3 som har mogleg samanheng med kjemisk eksponering for boreslam, hydrokarbon eller benzen.
