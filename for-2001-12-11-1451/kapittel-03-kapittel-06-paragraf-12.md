@@ -1,0 +1,4 @@
+# § 3-6-12. Levering fra ikke-registrert virksomhet – kreditering av avgift
+(1) Ikke-registrert virksomhet som har levert gass med redusert avgiftssats etter § 3-6-9 kan kreve at leverandør krediterer differansen mellom full og redusert avgiftssats. Den ikke-registrerte virksomheten må avgi erklæring om mengde gass som er levert med redusert avgiftssats. Opplysninger om kundeforhold mv. skal ikke framkomme av erklæringen. Leverandøren skal oppbevare erklæringen i ti år.
+(2) Ikke-registrert virksomhet skal oppbevare erklæringen fra bruker i ti år etter at den er avgitt. Dokumentasjonen må oppbevares på en slik måte at den kan kontrolleres.
+(3) Registrert virksomhet som har kreditert ikke-registrert virksomhet for avgift kan føre denne til fradrag i skattemeldingen. Det er et vilkår for fradrag at virksomheten har mottatt erklæring om bruken.

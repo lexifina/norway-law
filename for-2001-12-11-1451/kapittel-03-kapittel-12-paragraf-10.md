@@ -1,0 +1,3 @@
+# § 3-12-10. Gjennomføring
+(1) Leveranser av kraft levert til foretak som nevnt i § 3-12-4, § 3-12-5, § 3-12-7 og § 3-12-8 gjennomføres ved at nettselskapet etter mottatt dokumentasjon leverer kraft med fakturering av redusert avgiftssats. For statskraftkontrakter hvor kraftprisen er avtalt inkludert avgift («1976-kontrakter» og «2 TWh-kontrakter») leveres kraft uten fakturering av avgift. Prisen reduseres med det beløp som tilsvarer el-avgiftssatsen for 1992 (4,15 øre pr. kWh) prisjustert for senere år.
+(2) Dersom det for ett abonnement leveres kraft til formål som dels faller innenfor og dels utenfor avgiftssatsen, skal det foretas en fordeling av kraftforbruket.

@@ -1,0 +1,4 @@
+# § 3-21-7. Levering fra ikke-registrert virksomhet – kreditering av avgift
+(1) Ikke-registrert virksomhet som har utført eller levert gass uten avgift etter § 3-21-4, § 3-21-5 og § 3-21-6 kan kreve at leverandør (registrert virksomhet) krediterer avgiften. Den ikke-registrerte virksomheten må avgi erklæring om mengde gass som er utført eller levert uten avgift. Opplysninger om kundeforhold mv. skal ikke framkomme av erklæringen. Leverandøren (registrert virksomhet) skal oppbevare erklæringen i ti år.
+(2) Ikke-registrert virksomhet skal oppbevare erklæringen fra bruker i ti år etter at den er avgitt.
+(3) Registrert virksomhet som har kreditert ikke-registrert virksomhet for avgift kan føre denne til fradrag i skattemeldingen. Det er et vilkår for fradrag at virksomheten har mottatt erklæring om bruken.

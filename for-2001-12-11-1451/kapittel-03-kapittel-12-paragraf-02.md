@@ -1,0 +1,3 @@
+# § 3-12-2. Når avgiftsplikten oppstår
+(1) Avgiftsplikten oppstår ved levering av elektrisk kraft til forbruker og ved uttak til eget bruk hos nettselskap, transportør eller produsent.
+(2) Elektrisk kraft fra gjenvinningsanlegg anses levert når kraft mottas som oppfyllelse av avtale om levering av gjenvinningskraft etter § 3-12-12. Dersom mengden levert kraft i løpet av et kalenderår overstiger mengden faktisk produsert kraft i energigjenvinningsanlegget, skal det overskytende føres opp med avgift i skattemeldingen for siste kvartal det aktuelle kalenderåret. Det er avgiftssatsen per 31. desember som skal legges til grunn ved fastsetting av avgift på den overskytende kraften.

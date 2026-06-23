@@ -1,0 +1,5 @@
+# § 4-3-1. Skip i innenriks kvotepliktig og innenriks ikke-kvotepliktig sjøfart – saklig virkeområde
+(1) Registrerte virksomheter kan levere avgiftsbelagte produkter med redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart. Registrerte virksomheter kan levere avgiftsbelagt mineralolje med redusert CO2-avgift til skip i innenriks ikke-kvotepliktig sjøfart.
+(2) Med innenriks sjøfart menes fart i norsk territorialfarvann. Med kvotepliktig menes kvotepliktig etter klimakvoteloven eller tilsvarende regelverk i annet EØS-land.
+(3) For avgiftsbelagte produkter som er levert fra ikke registrerte virksomheter gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass eller LPG og den reduserte satsen som skal betales etter Stortingets avgiftsvedtak § 1.
+(4) For mineralolje, naturgass og LPG levert til innenriks kvotepliktig sjøfart i perioden fra og med 1. januar 2026 til og med 28. februar 2026 gis det refusjon for differansen mellom innbetalt CO2-avgift og den reduserte satsen som skal betales etter Stortingets avgiftsvedtak § 1.

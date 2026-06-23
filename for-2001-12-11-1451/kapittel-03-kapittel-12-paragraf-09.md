@@ -1,0 +1,3 @@
+# § 3-12-9. Avgrensning mot administrasjonsbygg
+(1) Adgangen til å motta elektrisk kraft med redusert avgiftssats eller fritak fra avgift omfatter ikke leveranser til administrasjonsbygg. Som administrasjonsbygg anses bygg hvor arealet knyttet til administrasjon utgjør 80 pst. eller mer av byggets totale areal. Det skal betales full avgift av all kraft levert til slike bygg.
+(2) For foretak som har montert egne målere for kraft levert til administrasjonsbygg, skal faktisk forbruk legges til grunn ved fastsettelse av avgiftsgrunnlaget. Foretak uten slike målere skal opplyse nettselskapet om hvor stor andel av den leverte kraften som er avgiftspliktig.

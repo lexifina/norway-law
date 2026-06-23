@@ -1,0 +1,5 @@
+# § 3-3-14. Produksjon, lagring og transport
+(1) Produksjonsutstyr for tilvirkning og lagring av udenaturert teknisk etanol skal være tidsmessig og velegnet for formålet. Det må være innrettet for plombering på en måte som gjør spriten utilgjengelig under tilvirkning og lagring («lukket system»).
+(2) Utstyr for transport av udenaturert teknisk etanol skal være tidsmessig og betryggende. Utstyret skal være godkjent av skattekontoret før det tas i bruk.
+(3) Tilvirkningsbedrifter skal, ved egne oppnevnte ansvarshavende, være ansvarlig for utlevering av udenaturert etanol. Utleveringsforretningene avsluttes ved at vedkommende ansvarshavende plomberer lagerrom og uttaksarmatur med bedriftens eget plomberingsutstyr. Plomberingsutstyret skal holdes forsvarlig innelåst og være utilgjengelig for uvedkommende. Tilvirkningsbedriften er ansvarlig for transporten til mottaker.
+(4) Utskilling av sprit, brennevin eller annen etanol fra teknisk etanol eller etanolholdig preparat regnes som tilvirkning.

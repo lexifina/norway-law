@@ -1,0 +1,2 @@
+# § 3-19-7. Fastsettelse av kildespesifikk utslippsfaktor
+Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fra den avgiftspliktige. Kompetent myndighet er for denne avgiften Miljødirektoratet for landbasert virksomhet, Sjøfartsdirektoratet for fartøy, Luftfartstilsynet for luftfartøy og Sokkeldirektoratet for innretninger på norsk kontinentalsokkel. Kompetent myndighet kan gi retningslinjer om fastsettelse av kildespesifikk utslippsfaktor.
