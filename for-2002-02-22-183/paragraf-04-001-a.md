@@ -1,0 +1,3 @@
+# § 4-1a. Varetektsinnsatte under 18 år. Informasjon
+Varetektsfengsles barn skal kriminalomsorgen straks gi barnet informasjon om fengselet, hva varetektsoppholdet innebærer og bistå barnet med å komme i kontakt med pårørende, advokat, politi eller andre personer av betydning for varetektsoppholdet.
+Informasjonen skal være tilpasset barnets individuelle forutsetninger, som alder, kultur- og språkforståelse, modenhet og erfaring. Informasjonen skal gis på en hensynsfull måte. Tilsatte skal så langt som mulig sikre seg at barnet har forstått innholdet og betydningen av opplysningene. Tolk skal benyttes ved behov.

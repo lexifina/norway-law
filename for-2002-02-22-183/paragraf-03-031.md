@@ -1,0 +1,2 @@
+# § 3-31. Unntak fra de alminnelige vilkår for permisjon
+Dersom det foreligger særlige og tungtveiende grunner, kan domfelte unntaksvis innvilges permisjonstid på et tidligere tidspunkt enn etter bestemmelsene i § 3-30 (fremskutt permisjonstid). Dersom det foreligger særlige og tungtveiende grunner kan domfelte unntaksvis innvilges flere døgns permisjon pr. år enn det som følger av § 3-30 (utvidet permisjonskvote).

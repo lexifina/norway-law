@@ -1,0 +1,3 @@
+# § 3-1b. Kriminalomsorgens ansvar overfor barn. Verge
+Alle handlinger og avgjørelser som berører barn, skal ta hensyn til barnets beste. Barnet skal kunne gi uttrykk for egne synspunkter, enten direkte eller gjennom representant. Det skal fremgå i enkeltvedtak som gjelder barn at hensynet til barnets beste har vært et grunnleggende hensyn og hvilken vekt hensynet til barnets beste er tillagt.
+Når barn varetektsfengsles eller skal gjennomføre straff, skal det registreres hvem som er verge for vedkommende, jf. vergemålsloven § 16, § 25, § 27, og utlendingsloven kapittel 11 A. Vergen skal informeres om alle handlinger og avgjørelser som er av betydning for den mindreårige.

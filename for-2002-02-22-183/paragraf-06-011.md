@@ -1,0 +1,3 @@
+# § 6-11. Postsendinger
+Postsendinger til og fra innsatte skal kontrolleres ved gjennomlysing eller lignende, og åpnes og gjennomleses før de utleveres eller sendes. Slike sendinger kan helt eller delvis inndras. Den samme kontroll kan gjennomføres av sendinger innsatte allerede har mottatt. Korrespondanse skal foregå på norsk eller engelsk eller et språk den tilsatte behersker.
+Innsattes korrespondanse med offentlig forsvarer og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, skal kontrolleres ved gjennomlysing og lignende, og ved mistanke åpnes av en tilsatt i nærvær av den innsatte, men ikke gjennomleses av den tilsatte. Slik kontroll må ikke medføre at konfidensielt innhold i brev eller dokumenter avsløres eller ødelegges.

@@ -1,0 +1,2 @@
+# § 1-1. Forskriftens anvendelsesområde
+Forskriften gjelder for fengselsstraff, varetekt, personer som politiet har pågrepet og samfunnsstraff. For strafferettslige særreaksjoner gjelder forskriften så langt den passer med forskrift om gjennomføring av forvaring. For overgangsboliger gjelder forskriften med utfyllende retningslinjer gitt av Kriminalomsorgsdirektoratet. For oppholds- og kontaktrestriksjoner med elektronisk kontroll ilagt etter straffeloven § 52c fjerde og femte ledd gjelder forskriften kapittel 7A.

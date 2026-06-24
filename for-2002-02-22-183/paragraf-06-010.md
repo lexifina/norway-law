@@ -1,0 +1,4 @@
+# § 6-10. Besøk
+Besøk skal gjennomføres med glassvegg og avlytting eller med en tilsatt i rommet. Lokalt nivå kan gi lettelser i disse kontrolltiltakene etter forhåndssamtykke fra regionalt nivå. Lettelser kan ikke gis dersom den besøkende motsetter seg de pålagte kontrolltiltak.
+Offentlig forsvarer og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, skal ha fri kommunikasjon med innsatte, uten avlytting eller tilsattes tilstedeværelse i besøksrommet. Glassvegg skal benyttes og besøket kan i tillegg gjennomføres under påsyn.
+Alle samtaler skal føres på norsk eller engelsk eller et språk den tilsatte som utfører kontrollen behersker. Dette påbud gjelder ikke innsattes samtaler med offentlig forsvarer og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant. Brudd på språkpåbud skal føre til at besøket avbrytes umiddelbart.
