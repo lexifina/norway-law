@@ -1,0 +1,2 @@
+# § 5. Krav om politiattest
+For å få opptak til studier ved HKO som innebærer praksis i kriminalomsorgen, må søkeren ha vandel som det ikke er noe å utsette på. For å kontrollere om vandelskravet er oppfylt, skal høyskolen kreve framlagt uttømmende politiattest, jf. politiregisterloven § 41. Attesten kan også kreves framlagt underveis i studiet. Universitets- og høyskoleloven § 12-2 andre til fjerde ledd gjelder tilsvarende for undervisning og praksis der studenten kommer i kontakt med innsatte, domfelte, pårørende, fornærmede eller etterlatte.
