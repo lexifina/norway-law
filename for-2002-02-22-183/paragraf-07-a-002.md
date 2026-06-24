@@ -1,0 +1,2 @@
+# § 7A-2. Ungdommens medvirkningsplikt
+Ungdommen plikter å yte den bistand, og å følge de instruksjoner, som gis av kriminalomsorgen, og som er nødvendig for å gjennomføre kontroll etter § 7A-3. Ungdommen må blant annet vedlikeholde kontrollutstyret, herunder sørge for at enheten er ladet og har dekning. I tillegg må ungdommen være tilgjengelig for kriminalomsorgen på telefon. Brudd på medvirkningsplikten behandles etter § 7A-4.

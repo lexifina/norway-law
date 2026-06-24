@@ -1,0 +1,4 @@
+# § 3-27. Elektronisk postsending
+Innsatte kan unntaksvis gis tillatelse til å bruke og disponere datautstyr og annet elektronisk utstyr for å kommunisere med personer og tilsvarende utstyr utenfor fengselet dersom fengselet kan kontrollere slike sendinger etter de regler som gjelder for kontroll av brev, og dette kan gjøres uten ekstra omkostninger. Alt utstyr og tilbehør skal kunne kontrolleres av fengselets tilsatte.
+Sendinger skal kunne kontrolleres ved at de i sin helhet gjennomleses, høres eller ses før de sendes ut av fengselet, eller før den innsatte mottar dem. Også sendinger den innsatte allerede har mottatt, kan kontrolleres.
+Elektronisk kommunikasjon til og fra oppnevnt forsvarer, diplomater og andre bestemte personer skal behandles som øvrige postsendinger. Sendingens innhold skal ikke gjennomleses, ses eller høres, men det skal være mulig å kontrollere hvem avsender eller mottaker er.

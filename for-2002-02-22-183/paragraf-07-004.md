@@ -1,0 +1,5 @@
+# § 7-4. Krav til domfelte under straffegjennomføringen
+Domfelte skal følge den gjennomføringsplanen som er utarbeidet av kriminalomsorgen.
+Domfelte skal være sysselsatt i Norge under straffegjennomføringen. Sysselsettingen skal kunne kontrolleres på en tilfredsstillende måte. Kravet til sysselsetting kan fravikes helt eller delvis dersom det er umulig å aktivisere domfelte, eller aktiviseringen må begrenses på grunn av domfeltes helsetilstand, soningsudyktighet eller funksjonshemming.
+Domfelte skal møte for kriminalomsorgen eller annen offentlig myndighet, person eller organisasjon som kriminalomsorgen fastsetter, minimum én gang per uke. Kriminalomsorgen kan i gjennomføringsplanen fastsette flere møter, dersom dette vil fremme formål for straffegjennomføring med elektronisk kontroll etter § 7-1.
+Domfelte skal være rusfri under hele straffegjennomføringen. Kontroll for å avdekke bruk av rusmidler kan gjennomføres etter straffegjennomføringsloven § 29 jf. forskriften § 3-26 og straffegjennomføringsloven § 16 jf. § 56.

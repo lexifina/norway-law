@@ -1,0 +1,4 @@
+# § 3-41. Løslatelse fra fengselsstraff. Når vedtak skal foreligge
+Løslatelse på prøve kan bare finne sted dersom det etter en konkret vurdering anses tilrådelig.
+Dersom domfelte nektes løslatelse på prøve, skal løslatelsesspørsmålet vurderes fortløpende, og senest innen 3 måneder etter at løslatelsen i medhold av straffegjennomføringsloven § 42 første ledd ellers kunne ha funnet sted. For domfelte som er dømt til fengselsstraff fra 5 til 12 år, skal vurderingen skje senest innen 6 måneder, og for domfelte som er dømt til fengselsstraff i mer enn 12 år, skal vurderingen skje senest innen ett år.
+Dersom det etter ovennevnte frister fortsatt er grunnlag for å nekte domfelte løslatelse på prøve, skal spørsmålet vurderes fortløpende, senest innen henholdsvis nye 3 eller 6 måneder eller ett år fra forrige vedtak, jf. annet ledd.

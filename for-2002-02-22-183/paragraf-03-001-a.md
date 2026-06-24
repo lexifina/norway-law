@@ -1,0 +1,3 @@
+# § 3-1a. Ungdomsenheter, fengsler og friomsorgskontor som mottar barn
+Ungdomsenhetene skal ha en tverrfaglig basisbemanning, med om lag halvparten fengselsbetjenter og halvparten tilsatte med miljøterapeutisk, barnefaglig eller annen relevant sosialfaglig bakgrunn.
+Fengsler og friomsorgskontor som mottar barn i varetekt eller til straffegjennomføring, skal tilrettelegge forholdene slik at barnets behov og rettigheter blir ivaretatt. Hvis det foreligger en personundersøkelse, skal denne tillegges vekt i vurderingen av barnets behov. Det tverretatlige teamet ved en ungdomsenhet skal kontaktes for å bistå med tilretteleggingen.

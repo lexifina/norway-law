@@ -1,0 +1,7 @@
+# § 3-30. Permisjon. Permisjonstid. Utgifter ved permisjon. Permisjon til utlandet
+Permisjon kan innvilges i form av ordinær permisjon, velferdspermisjon og korttidspermisjon av noen timers varighet.
+Domfelte kan i tillegg til korttidspermisjon innvilges et ordinært samlet permisjonsfravær i året (permisjonskvote) på inntil 18 døgn, med tillegg av nødvendig reisetid. Etter nærmere retningslinjer fra Kriminalomsorgsdirektoratet kan domfelte i særlige tilfeller innvilges en årlig permisjonskvote på inntil 30 døgn. Permisjonskvoten løper fra første ordinære permisjon gjennomføres. I overgangsbolig gjelder egne bestemmelser om permisjonskvote.
+Utgifter i forbindelse med permisjon skal som hovedregel dekkes av private midler. Fengselet kan yte bidrag til reiseutgiftene til og fra permisjonsstedet ved særlige behov. Det samme gjelder utgifter til nødvendig kost og losji under reisen.
+Permisjon til utlandet skal som hovedregel ikke innvilges.
+Ordinær permisjon og korttidspermisjon kan gjennomføres etter en sammenhengende frihetsberøvelse frem til permisjonstidspunktet på minst 4 måneder. Domfelte må i tillegg ha utholdt minst 1/3 av straffetiden. Domfelte med lengre straffetid enn fengsel i 12 år kan innvilges ordinær permisjon etter 4 års sammenhengende straffegjennomføring (permisjonstid).
+Velferdspermisjon kan innvilges på et hvert tidspunkt under straffegjennomføringen før permisjonstid er oppnådd.

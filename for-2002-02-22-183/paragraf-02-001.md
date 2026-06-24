@@ -1,0 +1,4 @@
+# § 2-1. Delegering av avgjørelsesmyndighet
+Det delegeres myndighet til lokalt nivå til å avslå søknader etter straffegjennomføringsloven § 12 til § 16a, § 20, § 33, § 35 og § 42 for domfelte som er dømt til fengselsstraff i mer enn ti år eller som er dømt til sikring eller forvaring.
+Det delegeres myndighet til lokalt nivå til å innvilge søknad om permisjon fra domfelte som er dømt til fengselsstraff i mer enn ti år når regionalt nivå eller Kriminalomsorgsdirektoratet tidligere har innvilget ordinær permisjon og den har vært gjennomført uten svikt.
+Det delegeres myndighet til lokalt nivå til å innvilge søknader etter straffegjennomføringsloven § 12, § 13, § 20, § 33 og § 35 fra domfelte som er dømt til fengselsstraff i mer enn ti år, men som ikke er idømt sikring eller forvaring og som etter beslutning av regionalt nivå eller Kriminalomsorgsdirektoratet er overført til fengsel med lavere sikkerhetsnivå.

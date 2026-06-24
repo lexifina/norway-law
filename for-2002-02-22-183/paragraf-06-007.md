@@ -1,0 +1,2 @@
+# § 6-7. Helsetjeneste
+Innsatte skal ha regelmessig legetilsyn. Legetilsyn og oppfølging skal som hovedregel skje inne i avdeling med særlig høyt sikkerhetsnivå. Unntaksvis kan dette skje utenfor fengselet, men det må da på forhånd vurderes om væpnet politi skal delta som vaktstyrke til enhver tid. Samtykke fra regionalt nivå skal, om mulig, innhentes på forhånd før det treffes beslutning om fremstilling til sykehus. Regionalt nivå treffer beslutning om eventuell gjennomføring av straff i sykehus.

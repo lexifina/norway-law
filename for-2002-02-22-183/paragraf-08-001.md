@@ -1,0 +1,3 @@
+# § 8-1. Målgruppe for bøtetjenesten
+Etter søknad fra botlagte kan kriminalomsorgen beslutte at subsidiær fengselsstraff fastsatt i dom, forelegg eller forenklet forelegg, skal gjennomføres ved bøtetjeneste. Gjennomføring ved bøtetjeneste forutsetter at den botlagte har bosted og opphold i Norge i gjennomføringstiden.
+I tilfeller der bøtetjeneste kan være aktuelt, skal kriminalomsorgen informere botlagte om muligheten for å søke om bøtetjeneste som et alternativ til gjennomføring av den subsidiære fengselsstraffen. Også den som har påbegynt gjennomføring av subsidiær fengselsstraff, kan søke om bøtetjeneste.

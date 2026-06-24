@@ -1,0 +1,3 @@
+# § 7B-5. Krav til siktede
+Siktede plikter å yte den bistand og å følge de instruksjoner som gis av påtalemyndigheten eller kriminalomsorgen, og som er nødvendig for å gjennomføre kontroll etter § 7B-6. Siktede må blant annet vedlikeholde kontrollutstyret, herunder sørge for at enheten er ladet og har dekning. I tillegg må siktede være tilgjengelig for kriminalomsorgen på telefon. Brudd på medvirkningsplikten behandles etter § 7B-8.
+Siktede skal være rusfri i hele varetektsperioden. Kontroll for å avdekke bruk av rusmidler kan gjennomføres etter straffegjennomføringsloven § 29 første ledd, jf. § 52.

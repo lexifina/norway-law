@@ -1,0 +1,3 @@
+# § 8-9. Avslutning av bøtetjenesten
+Bøtetjenesten avsluttes når det totale antallet timer bøtetjeneste er gjennomført, uavhengig av om gjennomføringstiden er benyttet fullt ut. Bøtetjenesten avsluttes også dersom botlagte trekker tilbake samtykket, eller botlagte er besluttet overført til fengsel etter brudd på vilkår og forutsetninger for bøtetjenesten eller på bakgrunn av ny kriminalitet.
+Bøtetjenesten avsluttes dersom boten betales. Dersom deler av boten betales, regnes del av en dag som en hel dag, slik at bøtetjenesten avsluttes når resterende beløp tilsvarer mindre enn én dag subsidiær fengselsstraff.

@@ -1,0 +1,2 @@
+# § 3-17. Bistand fra tilsatte ved bruk av legemidler
+Fengselets tilsatte kan bistå ved medisinutdeling hvis praktiske hensyn nødvendiggjør dette. Hvis tilsatte skal bistå, må kommunelegen ha godkjent ordningen, og tjenestemennene skal ha mottatt nødvendig opplæring. Denne opplæringen skal gis av helsemyndighetene. Reseptbelagte medikamenter skal være dosert av helsetjenesten før tilsatte forestår en utdeling.
