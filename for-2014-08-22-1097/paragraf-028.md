@@ -1,0 +1,2 @@
+# § 28. Endring av systemrisikobuffersatsen
+Finansdepartementet skal annethvert år treffe beslutning om nivået på systemrisikobuffersatsen for engasjementer i Norge. Beslutninger om å øke satsen skal normalt tidligst tre i kraft 12 måneder etter at beslutningen er fattet. I særlige tilfeller kan tidligere ikrafttredelse besluttes. Satsen skal endres i trinn på én eller flere ganger 0,5 prosentpoeng.

@@ -1,0 +1,3 @@
+# § 34. Endring av den motsykliske kapitalbuffersatsen
+Norges Bank treffer hvert kvartal beslutning om nivået på den motsykliske kapitalbuffersatsen for engasjementer i Norge, jf. § 33. Beslutning om å øke satsen skal normalt tre i kraft 12 måneder etter at beslutningen er fattet. I særlige tilfeller kan tidligere ikrafttredelse besluttes.
+Den motsykliske kapitalbuffersatsen skal som hovedregel være mellom 0 og 2,5 prosent. I særlige tilfeller kan satsen settes høyere enn 2,5 prosent. Satsen skal endres i trinn på én eller flere ganger 0,25 prosentpoeng. Beslutning om å redusere satsen kan tre i kraft umiddelbart.

@@ -1,0 +1,2 @@
+# § 29. Innhold og formål
+Denne delen fastsetter fremgangsmåte og kriterier for å fastsette hvilke foretak som skal pålegges et høyere krav til ren kjernekapital, fordi de er systemviktige og har særlig stor betydning for det finansielle systemet og realøkonomien. Slike systemviktige foretak skal ha et høyere krav til ren kjernekapital for å ha en større tapsbærende evne, og dermed redusere sannsynligheten for at foretakene får økonomiske problemer som kan ha alvorlige negative konsekvenser for det finansielle systemet og realøkonomien.

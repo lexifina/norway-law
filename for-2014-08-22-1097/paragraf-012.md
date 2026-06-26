@@ -1,0 +1,4 @@
+# § 12. Likviditetsstrategi
+Styret skal fastsette en likviditetsstrategi som tilfredsstiller kravene i denne forskrift. Strategien skal tilpasses alle relevante forretningsområder, med intern fordeling av risiko og kostnader.
+Strategien skal omfatte retningslinjer og rammer for likviditetsrisiko og risikotoleranse, retningslinjer for beholdning av likvide eiendeler, retningslinjer for stabil langsiktig finansiering, og metoder og rutiner for risikomåling, prognoser og overvåking, inkludert stresstester. Strategien skal også inneholde planer for organisering og ansvarsforhold og bestemmelser om styre- og ledelsesrapportering og om uavhengig kontroll.
+Styret skal minst en gang i året vurdere strategien og etterlevelsen av denne. Styrets vurdering og konklusjon skal framgå av styreprotokollen.

@@ -1,0 +1,3 @@
+# § 1. Virkeområde
+Denne forskrift gjelder for banker, kredittforetak, finansieringsforetak og holdingselskaper i finanskonsern som ikke er forsikringskonsern. Denne forskrift gjelder også for verdipapirforetak, forvaltningsselskaper for verdipapirfond med tillatelse til å yte aktiv forvaltning, forvaltere av alternative investeringsfond med tillatelse til å yte aktiv forvaltning og morselskap til slike foretak som er omfattet av verdipapirhandelloven § 9-46 første ledd nr. 3.
+Finanstilsynet kan bestemme at regler i denne forskrift også skal gjelde annet eierforetak som nevnt i finansforetaksloven § 17-6 annet ledd bokstav c.
