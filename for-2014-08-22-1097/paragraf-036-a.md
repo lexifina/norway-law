@@ -1,0 +1,4 @@
+# § 36a. Renterisiko som følge av virksomhet utenfor handelsporteføljen
+Foretakets system for styring og kontroll med renterisiko skal særlig omfatte risiko som følge av mulige endringer i rentesatser og kredittrisikotillegg fra aktiviteter utenfor handelsporteføljen. Foretaket skal særlig hensynta renterisikoens påvirkning på den økonomiske verdien av egenkapitalen og netto renteinntekter.
+Foretaket kan benytte standardmetoder som fastsatt i forskrift for å oppfylle kravet i første ledd. Foretak som oppfyller kravene i CRR artikkel 4 nr. 1 punkt 145 kan benytte forenklet standardmetode.
+Finanstilsynet kan pålegge foretak å benytte standardmetoden hvis foretakets eget system for styring og kontroll med risiko som nevnt i første ledd ikke er tilfredsstillende eller hvis tilsynets vurdering er at bruk av forenklet standardmetode ikke beregner foretakets renterisiko på tilfredsstillende måte.

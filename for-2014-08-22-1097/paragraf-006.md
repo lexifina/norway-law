@@ -1,0 +1,3 @@
+# § 6. Hensyn til pantesikkerhet i fast eiendom ved fastsettelse av risikovekt
+Eksponering med pantesikkerhet i næringseiendom som omfattes av CRR artikkel 126 nr. 1, skal gis risikovekt etter CRR artikkel 126 nr. 2 første ledd. Eksponering med pantesikkerhet i landbrukseiendom kan likevel gis risikovekt etter CRR artikkel 126 nr. 1, jf. CRR artikkel 126 nr. 2 tredje ledd. Eksponering med pantesikkerhet i næringseiendom i annen EØS-stat kan gis den risikovekt som vedkommende nasjonale myndigheter tillater for slike eksponeringer.
+Eksponering med pantesikkerhet i fritidseiendom i Norge innenfor 40 prosent av verdigrunnlag fastsatt etter CRR artikkel 229, skal gis risikovekt 20 prosent.

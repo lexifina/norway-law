@@ -1,0 +1,2 @@
+# § 13. Rammer for likviditetsrisiko og risikotoleranse
+Rammene for likviditetsrisiko og risikotoleranse skal fastsettes for ulike tidsrom, herunder intradag. Foretaket skal ha tilfredsstillende regler og prosedyrer for å kontrollere og begrense likviditetsrisiko. Foretakets rammer skal også sikre at foretaket har tilstrekkelig likvide eiendeler sett i forhold til kortsiktig gjeld. Det skal tas hensyn til mulige forsinkelser i innbetalinger og utbetalinger.

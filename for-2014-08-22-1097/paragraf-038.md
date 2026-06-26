@@ -1,0 +1,5 @@
+# § 38. Risikokontroll
+Risikokontrollfunksjonen skal sikre at alle vesentlige risikoer i foretaket er identifisert, målt og rapportert av de relevante organisatoriske enhetene.
+Risikokontrollfunksjonen skal være involvert i utarbeidelsen av foretakets risikotoleranse, risikostrategi og overordnede rammer for risikotagning. Risikokontrollfunksjonen skal være involvert i vurderinger som har vesentlig betydning for foretakets samlede risiko.
+Foretaket skal ha en uavhengig risikokontrollfunksjon med tilstrekkelig kompetanse og ressurser. Risikokontrollfunksjonen skal ha en leder som skal rapportere til daglig leder. Leder av risikokontrollfunksjonen skal ikke kunne avsettes uten samtykke fra styret. I mindre foretak med mindre kompleks struktur, kan en leder med andre ansvarsområder i tillegg ha ansvaret for risikokontrollfunksjonen dersom interessekonflikter unngås.
+Risikokontrollfunksjonen skal kunne rapportere direkte til styret i tilfeller der styret ikke får nødvendig informasjon om vesentlige risikoer via den alminnelige rapporteringen samt varsle styret i tilfeller der identifiserte risikoer påvirker eller kan påvirke foretaket.

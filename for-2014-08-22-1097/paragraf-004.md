@@ -1,0 +1,3 @@
+# § 4. Minstekrav for gjennomsnittlig risikovekt
+Fra 1. januar 2025 og frem til og med 30. juni 2025 skal foretak som benytter IRB-metode, ha en gjennomsnittlig risikovekt for eksponeringer med pantesikkerhet i boligeiendom i Norge som ikke er lavere enn 20 prosent. Fra 1. juli 2025 og frem til og med 31. desember 2026 skal den gjennomsnittlige risikovekten for slike eksponeringer ikke være lavere enn 25 prosent.
+Fra 1. januar 2025 og frem til og med 31. desember 2026 skal foretak som benytter IRB-metode, ha en gjennomsnittlig risikovekt for eksponeringer med pantesikkerhet i næringseiendom i Norge som ikke er lavere enn 35 prosent.

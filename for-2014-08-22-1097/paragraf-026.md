@@ -1,0 +1,2 @@
+# § 26. Innhold og formål
+Denne delen fastsetter satsen for systemrisikobuffer for engasjementer i Norge, og angir fremgangsmåten for myndighetenes arbeid med å vurdere og fastsette satsen. Formålet med systemrisikobufferen er å gjøre foretakene mer solide og robuste overfor utlånstap og andre forstyrrelser som kan oppstå som følge av strukturelle sårbarheter i økonomien og annen systemrisiko av varig karakter.
