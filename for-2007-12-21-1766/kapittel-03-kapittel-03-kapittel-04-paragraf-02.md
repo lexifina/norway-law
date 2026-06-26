@@ -1,0 +1,2 @@
+# § 11-4-2. Rente ved kontroll av skattemelding for merverdiavgift til gode
+Ved vedtak om økning som følge av kontroll før utbetaling av krav på utbetaling av merverdiavgift til registrerte næringsdrivende etter merverdiavgiftsloven § 11-5, ytes det renter på det godkjente beløpet fra tre uker etter fristen for innlevering av skattemelding (hovedmelding) for vedkommende termin til tre uker etter beløpet er godkjent til utbetaling.

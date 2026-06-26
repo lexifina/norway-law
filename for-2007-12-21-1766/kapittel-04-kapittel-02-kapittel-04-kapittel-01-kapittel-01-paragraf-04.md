@@ -1,0 +1,4 @@
+# § 14-20-4. Sikkerhetsstillelse for tollkreditt
+(1) Sikkerhetsstillelse kan kreves både ved innvilgelse av tollkreditt, mens tollkreditten består og ved eventuell gjenåpning av stengt tollkredittkonto. Sikkerhetsstillelsens størrelse og varighet fastsettes av skattekontoret. Skattedirektoratet utarbeider en standard garantitekst som skal benyttes.
+(2) I de tilfeller sikkerhet kreves skal den stilles i form av selvskyldnerkausjon fra bank, forsikringsselskap eller annet finansforetak som er gitt tillatelse til å drive virksomhet i og er underlagt myndighetstilsyn i Norge eller en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde, eller annet kredittselskap som er godkjent av Skattedirektoratet.
+(3) Dersom det viser seg at den stilte sikkerhet ikke gir tilstrekkelig dekning for fortsatt utkredittering, skal foretaket stille ytterligere sikkerhet.

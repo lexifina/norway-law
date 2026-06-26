@@ -1,0 +1,3 @@
+# § 5-2-1. Tabellkort
+(1) Tabellkort skal utstedes for alle skattytere, med unntak for skattytere som får utstedt prosentkort, frikort eller fribeløpskort. Tabellkort skal i utgangspunktet brukes hos hovedarbeidsgiveren.
+(2) Trekkprosenten som hovedarbeidsgiver skal trekke etter i inntekt som det etter § 5-10-1 ikke kan trekkes i etter tabell, eller som biarbeidsgivere skal bruke, fastsettes slik at prosenttrekket svarer til forventet skatt og trygdeavgift av annen trekkpliktig inntekt på toppen av den inntekten som det blir trukket i etter tabell. Foreligger det ikke opplysninger om skattyters forventede skatt, trygdeavgift og trekkpliktig inntekt, fastsettes trekkprosenten i samsvar med satsene i skattebetalingsloven § 5-5 første ledd.

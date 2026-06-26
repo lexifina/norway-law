@@ -1,0 +1,1 @@
+# Unntak fra terminvise forfall

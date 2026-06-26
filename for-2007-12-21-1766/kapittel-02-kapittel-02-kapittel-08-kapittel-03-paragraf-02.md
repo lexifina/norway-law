@@ -1,0 +1,5 @@
+# § 5-8-21. Arbeidsgivers plikt til å kreve individuell verdsettelse
+(1) Arbeidsgiver som stiller bolig som nevnt i § 5-8-20 til disposisjon, skal snarest mulig, og senest når den tas i bruk, kreve leieverdien fastsatt. Dette gjelder også om verdsettelsen ikke antas å ville overstige avtalt husleie til arbeidsgiver.
+(2) Kravet skal fremsettes på fastsatt blankett til skattekontoret. Arbeidsgiveren skal gi alle opplysninger som må antas å være av betydning for verdsettelsen, herunder hva arbeidstakeren eventuelt skal betale i leie.
+(3) Forandres boligen på en slik måte at det kan ha betydning for leieverdien, plikter arbeidsgiveren å kreve ny verdsettelse. Bestemmelsene i første og annet ledd gjelder tilsvarende.
+(4) Når en bolig som tidligere har vært verdsatt overtas av en annen arbeidstaker, kan arbeidsgiveren unnlate å kreve den verdsatt på nytt dersom bruken løper uendret, og heller ikke andre grunner taler for en ny verdsettelse. Arbeidsgiveren har i disse tilfellene plikt til å vise arbeidstakeren de vedtak som skattemyndighetene har truffet med hensyn til leieverdien.

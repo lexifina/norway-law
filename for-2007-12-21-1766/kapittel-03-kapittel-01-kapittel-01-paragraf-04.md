@@ -1,0 +1,2 @@
+# § 9-1-4. Oppgjør av arbeidsgiveravgift fra statens forvaltningsvirksomhet (statsforvaltningen)
+De deler av statens forvaltningsvirksomhet (statsforvaltningen) som er unntatt fra å levere opplysninger om arbeidsgiveravgift etter reglene i forskrift 27. november 2003 nr. 1398 om forenklet oppgjør for arbeidsgiveravgift fra statens forvaltningsvirksomhet er unntatt fra å betale arbeidsgiveravgift til skattekontoret.

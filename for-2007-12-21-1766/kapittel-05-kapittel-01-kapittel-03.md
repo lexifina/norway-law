@@ -1,0 +1,1 @@
+# Ansvar for privat oppdragsgiver

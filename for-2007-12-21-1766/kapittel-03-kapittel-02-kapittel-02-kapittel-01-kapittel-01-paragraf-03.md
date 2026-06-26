@@ -1,0 +1,2 @@
+# § 10-10-3. Forfallsfrist for arbeidsgiveravgift fra arbeidsgivere mv. som leverer opplysninger etter særregler
+Arbeidsgiveravgift fra arbeidsgivere som har lønnsutbetalinger som er fritatt for arbeidsgiveravgift etter folketrygdloven § 23-2 syvende til åttende ledd, og som leverer opplysninger etter a-opplysningsforskriften § 2-1 åttende ledd, forfaller til betaling samme dag som det skal leveres opplysninger etter a-opplysningsforskriften § 2-1.

@@ -1,0 +1,6 @@
+# § 5-13-2. Opplysningsplikten
+(1) Arbeidsgiver plikter å gi de opplysninger og dokumenter som skattekontoret anmoder om, og som er nødvendig for å kontrollere at arbeidsgiver gjennomfører skattetrekk, innretter sin bokføring og sender inn opplysninger om forskuddstrekk, arbeidsgiveravgift og finansskatt på lønn, oppgjørslister, trukket skattetrekk i samsvar med gjeldende bestemmelser.
+(2) Opplysninger som nevnt i første ledd skal også gis når Riksrevisjonen krever det.
+(3) I aksjeselskaper og skattemessig likestilte selskaper, foreninger, stiftelser mv. påhviler opplysningsplikten enhver ledende tillitsmann eller funksjonær som har myndighet til å gi regnskapsfører eller kasserer ordre eller direktiver om arbeidsoppgaver som er nevnt i første ledd. I private arbeidsforhold har begge ektefeller opplysningsplikt.
+(4) Ved kontroll etter skattebetalingsloven § 5-13 skal arbeidsgiveren eller den som har ansvaret for regnskapsføringen være til stede og legge fram de regnskaper, den dokumentasjon og de øvrige opplysninger som kontrolløren finner har betydning for gjennomføringen av kontrollen.
+(5) Arbeidsgiver plikter å gi de opplysninger som skattekontoret anmoder om, og som er nødvendig for at forskuddstrekk og forskuddsskatt kan bli fastsatt eller regulert etter gjeldende bestemmelser.

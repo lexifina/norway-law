@@ -1,0 +1,2 @@
+# § 4-1-1. Arbeidsgiver – fiske og fangst
+Som arbeidsgiver i fiske og fangst regnes den som selv eller ved fullmektig utbetaler eller på annen måte gir oppgjør for lott eller part eller annen godtgjørelse eller ytelse som det skal foretas forskuddstrekk eller utleggstrekk i (høvedsmann, rederi osv.). Hvis et båtlag ikke har noen bestemt leder, har den som selger og får oppgjør for fangsten, samme plikter som høvedsmann.

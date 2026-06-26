@@ -1,0 +1,4 @@
+# § 10-20-3. Forfall for nedsatt forskuddsskatt for personlige skattytere
+(1) Når utskrevet forskuddsskatt blir satt ned etter skattebetalingsloven § 6-3 fjerde eller femte ledd, skal hver termin av den utskrevne skatten reduseres med samme beløp. Dersom forskuddsskatten tidligere er forhøyet, skal likevel terminer av tillegget settes ned før terminer av den opprinnelig utskrevne skatten, og senere tillegg skal settes ned før tidligere tillegg.
+(2) Blir utskrevet forskuddsskatt som forfaller til betaling i mer enn to terminer, satt ned til mindre enn 2 000 kroner, forfaller den nedsatte skatten i sin helhet til betaling på forfallsdagen for siste termin av den tidligere utskrevne skatten.
+(3) Hvis en termin av tillegget ikke blir betalt ved forfall, forfaller samtidig de etterfølgende terminer til betaling.

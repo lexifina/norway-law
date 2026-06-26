@@ -1,0 +1,3 @@
+# § 5-5-1. Forskuddstrekk når nytt skattekort ikke lar seg innhente
+(1) Når skattekort for det nye året ikke er gjort tilgjengelig for arbeidsgiver, og arbeidsgiver heller ikke på annen måte har fått de opplysninger som fremgår av skattekortet, skal forskuddstrekk i januar gjennomføres etter det siste beregnede skattekortet for året før.
+(2) Dersom skattekortet blir endret i løpet av inntektsåret og det nye skattekortet ikke er gjort tilgjengelig for arbeidsgiver, og arbeidsgiver heller ikke på annen måte har fått de opplysninger som fremgår av skattekortet, skal forskuddstrekket gjennomføres etter det siste tilgjengelige skattekort.

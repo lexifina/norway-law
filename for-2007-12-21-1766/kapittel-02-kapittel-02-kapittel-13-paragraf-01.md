@@ -1,0 +1,3 @@
+# § 5-13-1. Meldinger til arbeidsgiver- og arbeidstakerregisteret mv.
+(1) Arbeidsgivere innen fiske- og fangstvirksomhet som er unntatt fra plikten til å sende meldinger til arbeidsgiver- og arbeidstakerregisteret, jf. folketrygdloven § 25-1, skal sende melding til skattekontoret ved inntak av medlem i lag for fiske eller fangst. Slik melding skal gis innen 8 dager etter inntakingen. Dersom det er gått mer enn et halvt år siden laget sist avsluttet fisket eller fangsten, skal det sendes ny melding for alle medlemmer i laget.
+(2) Skattedirektoratet kan bestemme at arbeidsgiver, oppdragsgiver og mellommann skal gi melding til skattekontoret.

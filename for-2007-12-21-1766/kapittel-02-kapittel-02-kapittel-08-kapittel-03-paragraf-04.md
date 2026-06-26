@@ -1,0 +1,7 @@
+# § 5-8-23. Fra hvilket tidspunkt verdsettelsen skal medtas i beregningsgrunnlaget for forskuddstrekk
+(1) Leieverdien tas med i beregningsgrunnlaget for forskuddstrekk fra og med første hele måned etter at arbeidsgiveren har mottatt melding om avgjørelsen, og boligen er tatt i bruk.
+(2) Dersom arbeidsgiver oversitter fristene i § 5-8-21, får avgjørelsen virkning fra første hele måned etter at boligen er tatt i bruk. Arbeidsgiveren skal likevel ikke korrigere allerede gjennomførte forskuddstrekk.
+(3) I tilfeller som nevnt i § 5-8-21 fjerde ledd, legges den tidligere verdsettelsen til grunn fra og med første lønnsutbetaling etter overtakelsen.
+(4) Når en tidligere verdsettelse omgjøres etter § 5-8-22 tredje ledd, og verdien settes høyere enn tidligere, får dette bare virkning fra arbeidsgiveren mottar melding om forhøyelsen, jf. første ledd.
+(5) Dersom forhøyelsen skyldes at arbeidsgiveren tidligere har gitt uriktige eller mangelfulle opplysninger, kan omgjøringen gis virkning fra det tidspunktet boligen ble tatt i bruk. Tidligere trekkberegninger korrigeres ikke.
+(6) Settes verdien ned ved omgjøringen, får nedsettelsen virkning også for det tidsrom der boligen er medregnet i beregningsgrunnlaget for forskuddstrekk med den høyere verdien. Gjennomførte forskuddstrekk innenfor samme inntektsår skal korrigeres ved første lønnsoppgjør etter at arbeidsgiveren har fått melding om nedsettelsen, jf. § 5-5-2 fjerde og femte ledd.

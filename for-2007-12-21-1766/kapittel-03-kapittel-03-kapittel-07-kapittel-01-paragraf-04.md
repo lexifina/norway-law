@@ -1,0 +1,2 @@
+# § 11-7-4. Ettergivelse av renter beregnet av merverdiavgiftskrav i korrigeringstilfeller
+Skattedirektoratet og Tolldirektoratet kan sette ned eller frafalle renter etter skattebetalingsloven § 11-1 og § 11-2 av merverdiavgift beregnet ved vedtak om endring mv. eller egenretting når staten ikke er påført tap og det av særlige grunner vil virke urimelig å fastholde rentekravet. Skattedirektoratet og Tolldirektoratet kan delegere myndighet etter denne bestemmelsen til henholdsvis skattekontorene og tollregionene.

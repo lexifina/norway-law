@@ -1,0 +1,3 @@
+# § 10-20-2. Forfall ved forhøyelse av forskuddsskatt for upersonlige skattytere
+(1) Når utskrevet forskuddsskatt blir forhøyet, forfaller det beløpet som skatten er forhøyet med (tillegget) til betaling i to like store terminer 15. februar og 15. april i året etter inntektsåret. Dersom melding om forhøyelsen er sendt skattyter senere enn tre uker før 15. februar, forfaller tillegget i sin helhet til betaling 15. april. Dersom meldingen er sendt senere enn 24. mars i året etter inntektsåret, forfaller tillegget til betaling tre uker etter at meldingen er sendt.
+(2) Hvis en termin av tillegget ikke blir betalt ved forfall, forfaller samtidig de etterfølgende terminer til betaling.

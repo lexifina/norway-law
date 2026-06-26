@@ -1,0 +1,2 @@
+# § 5-4-4. Minstegrense for trekkplikt i beløp som utbetales etter lønnsgarantiloven
+Forskuddstrekk kan unnlates i garantibeløp inntil 4 000 kroner etter lov 14. desember 1973 nr. 61 om statsgaranti for lønnskrav ved konkurs m.v. § 1. Overstiger lønn mv. beløpsgrensen, skal forskuddstrekket beregnes av hele beløpet. I slike tilfeller skal det likevel ikke foretas forskuddstrekk i feriepenger. Dersom skattyteren krever det, skal det foretas forskuddstrekk også i ytelser under beløpsgrensen.
