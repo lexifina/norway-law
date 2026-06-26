@@ -1,0 +1,4 @@
+# § 6-3-2. Melding om endring i utskrevet forskuddsskatt for personlige skattytere
+(1) Skattyter gis melding om endring i forskuddsskatt. Ny samlet forskuddsskatt for inntektsåret skal vises med angivelse av nye terminbeløp, bortsett fra i tilfeller som nevnt i annet og tredje ledd.
+(2) Når det ved forhøyelse av forskuddsskatten blir utstedt nytt skattekort til skattyter senere enn tre uker før 15. mars i inntektsåret, skal det i meldingen gis oversikt over forfallstidspunktene og terminbeløpene for forhøyelsen (tillegget). Oversikten skal alltid gis i meldingen dersom den opprinnelig utskrevne forskuddsskatten er under 2 000 kroner eller tillegget er under dette beløp.
+(3) Ved nedsettelser skal forfallsoversikten angis i meldingen, når tidligere forhøyd forskuddsskatt blir nedsatt eller når skatt som forfaller til betaling i mer enn to terminer blir satt ned til under 2 000 kroner.

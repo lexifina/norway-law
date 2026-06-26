@@ -1,0 +1,2 @@
+# § 10-21-1. Forfall av fastsatt skatt for konkurs- og administrasjonsbo for upersonlige skattytere
+For konkurs- og administrasjonsbo som nevnt i skattebetalingsloven § 4-1 første ledd bokstav a, og som etter § 6-5-5 er unntatt fra plikten til å betale forskuddsskatt, forfaller fastsatt skatt i sin helhet til betaling tre uker etter at skatteoppgjøret ble sendt skattyter. Er skatt for boer som nevnt i første punktum forhåndsfastsatt etter skatteforvaltningsforskriften § 8-2-4, gjelder bestemmelsen om forfall i skattebetalingsloven § 10-51 første ledd bokstav b.

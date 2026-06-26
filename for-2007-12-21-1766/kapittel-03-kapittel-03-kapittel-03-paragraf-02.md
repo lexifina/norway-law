@@ -1,0 +1,2 @@
+# § 11-3-2. Krav som godskrives tollkreditten, månedoppgjørsordningen eller kredittordningen for engangsavgift
+Rente etter skattebetalingsloven § 11-3 skal beregnes dersom krav som er belastet konto for tollkreditten, månedsoppgjørsordningen eller kredittordningen for engangsavgift, tilbakebetales ved godskriving av kontoen. Renten skal beregnes fra den første i måneden etter forfallstidspunktet som følger av skattebetalingsloven § 10-60, og frem til den første i den måned beløpet godskrives den løpende kreditt.

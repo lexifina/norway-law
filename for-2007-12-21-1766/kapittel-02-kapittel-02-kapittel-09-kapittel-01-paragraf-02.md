@@ -1,0 +1,3 @@
+# § 5-9-2. Fagforeningskontingent som arbeidstaker selv betaler direkte til foreningen
+(1) Når arbeidstaker betaler fagforeningskontingenten direkte til foreningen, skal fagforeningen, når arbeidstakeren krever det, gi arbeidsgiveren oppgave over fagforeningskontingenten. Fradragsberettiget del av årskontingenten skal da komme til fradrag i beregningsgrunnlaget for forskuddstrekk med en forholdsmessig del ved hver ordinær lønnsutbetaling.
+(2) Fagforening, som har gitt oppgave som nevnt i første ledd, plikter å melde fra til arbeidsgiveren når skattyter misligholder betalingen eller når medlemskapet opphører. Det samme gjelder når størrelsen på kontingenten endres.

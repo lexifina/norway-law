@@ -1,0 +1,2 @@
+# § 11-2-1. Beregningsgrunnlag
+Ved beregning av renter etter skattebetalingsloven § 11-2 skal følgende ikke inngå i beregningsgrunnlaget: tilleggsskatt, tilleggsavgift, tvangsmulkt og overtredelsesgebyr, samt for mye utbetalt rentegodtgjørelse etter skattebetalingsloven § 11-3 og § 11-4. Det samme gjelder renter etter § 9-10 i ligningsloven, slik den lød frem til 1. januar 2009, dersom renter beregnes etter denne bestemmelsen etter reglene i § 19-2-4.

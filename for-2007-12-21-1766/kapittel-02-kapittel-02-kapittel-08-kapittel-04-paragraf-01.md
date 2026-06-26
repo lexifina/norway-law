@@ -1,0 +1,10 @@
+# § 5-8-30. Hovedregelen om arbeidsgivers verdsettelse
+(1) Andre naturalytelser enn nevnt i § 5-6-10, § 5-8-10 til § 5-8-14 og § 5-8-20 skal tas med i beregningsgrunnlaget for forskuddstrekket med følgende verdi:
+a) Naturalytelser verdsettes til omsetningsverdi. Med omsetningsverdi menes den pris inklusive merverdiavgift som er allment tilgjengelig for forbrukere i sluttbrukermarkedet for samme vare eller tjeneste.
+b) Rabatter og tilbudspriser som er allment tilgjengelig for forbrukere kan tas med ved beregning av omsetningsverdien, når den reduserte prisen kan sannsynliggjøres ved annonse, prislister el.
+c) Opsjoner mv. i arbeidsforhold vedrørende aksje- og egenkapitalbevis verdsettes etter skatteloven § 5-14 første ledd bokstav a.
+d) Fordel ved privat reise ved bruk av kort betalt av arbeidsgiver hvor kortet gjelder et ubegrenset antall reiser i et begrenset tidsrom, Travel Pass og lignende ordninger, verdsettes til normal rabattpris som oppnås i reiseselskapet for tilsvarende reise.
+e) Fordel ved arbeidsgivers dekning av personalforsikringer verdsettes til den enkelte arbeidstakers forholdsmessige andel av arbeidsgivers samlede premie til ordninger arbeidstakeren er omfattet av.
+(2) Dersom naturalytelsens omsetningsverdi ved salg til uavhengig tredjemann er påviselig lavere som følge av sesongsvingning, ukurans mv., kan naturalytelsen likevel verdsettes til denne lavere verdi. Arbeidsgiveren må kunne godtgjøre lavere verdi på overdragelsestidspunktet.
+(3) Beregningsgrunnlaget for forskuddstrekket skal ikke omfatte fordelen ved personalrabatt som faller inn under skattefrie personalrabatter etter Finansdepartementets forskrift 19. november 1999 nr. 1158 til skatteloven § 5-15-3. Overstiger samlet rabatt den skattefrie grensen, skal verdien av den overskytende rabatten fastsettes etter første ledd.
+(4) Dersom det kan dokumenteres at arbeidstakeren har betalt noe for ytelsen, skal dette trekkes fra den fastsatte verdien før trekkberegningen. Betalingen må være inntektsført hos arbeidsgiveren.

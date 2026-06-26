@@ -1,0 +1,4 @@
+# § 14-21-1. Sikkerhetsstillelse for registrerte engangsavgiftspliktige
+(1) Sikkerhet skal stilles i form av selvskyldnerkausjon fra bank, forsikringsselskap eller annet finansforetak som er gitt tillatelse til å drive virksomhet i og er underlagt myndighetstilsyn i Norge eller en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde, eller annet kredittselskap som er godkjent av Skattedirektoratet.
+(2) De nærmere krav til sikkerheten, herunder sikkerhetens omfang, fastsettes av skattekontoret. Normalt skal sikkerheten til enhver tid dekke avgiftskravet for en måned. Dersom nye omstendigheter eller opplysninger tilsier det, kan skattekontoret stille ytterligere krav til sikkerhet.
+(3) Avgiftspliktige som er en institusjon som nevnt i først ledd, skal ikke avkreves sikkerhet.

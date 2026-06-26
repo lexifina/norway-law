@@ -1,0 +1,2 @@
+# § 10-10-2. Forfallsfrist for forskuddstrekk i beløp utbetalt i medhold av statsgarantiloven
+Når det er foretatt forskuddstrekk i beløp som utbetales i medhold av lov 14. desember 1973 nr. 61 om statsgaranti for lønnskrav ved konkurs m.v., kan oppgjør for forskuddstrekk etter skattebetalingsloven § 10-10, utsettes til 15. januar i året etter inntektsåret. Oppgjøret per 15. januar skal i så fall omfatte alt forskuddstrekk som er foretatt i det foregående inntektsåret.

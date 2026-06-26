@@ -1,0 +1,2 @@
+# § 10-10-5. Forfallsfrist ved forsinket skattemelding og førstegangsfastsetting av arbeidsgiveravgift og finansskatt på lønn
+Bestemmelsen i skattebetalingsloven § 10-10 annet ledd gjelder også arbeidsgiveravgift og finansskatt på lønn innrapportert på skattemelding som ikke er levert innen leveringsfristen. Tilsvarende gjelder ved førstegangsfastsetting av arbeidsgiveravgift og finansskatt på lønn når skattemelding ikke er levert.

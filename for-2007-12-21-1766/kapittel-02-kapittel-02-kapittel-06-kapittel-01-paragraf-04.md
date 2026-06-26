@@ -1,0 +1,2 @@
+# § 5-6-4. Beregningsgrunnlaget for forskuddstrekk når ytelsen er trekkpliktig og skattyteren er merverdiavgiftspliktig
+Ved beregning av forskuddstrekk skal arbeidsgiveren gjøre fradrag i bruttovederlaget for merverdiavgift, når skattyteren er registrert i Merverdiavgiftsregisteret, ytelsen er merverdiavgiftspliktig og beregnet avgift er dokumentert i samsvar med bestemmelsene i forskrift 1. desember 2004 nr. 1558 om bokføring § 5-5.

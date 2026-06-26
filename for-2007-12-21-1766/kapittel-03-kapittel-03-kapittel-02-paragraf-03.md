@@ -1,0 +1,3 @@
+# § 11-2-3. Renteberegning ved flere endringer i samme termin eller år
+(1) Dersom et skatte- eller avgiftskrav økes i forhold til foregående skattemelding eller tidligere leverte opplysninger, egenretting eller vedtak, skal renteberegningen skje på grunnlag av økningen. Er det foretatt flere egenrettinger før skatte- og avgiftsmyndigheten har godkjent skattemeldingene eller opplysningene, skal renter bare beregnes av det beløpet som samlet blir å betale.
+(2) For skatte- og avgiftskrav som tidligere har vært innbetalt en periode, og som det er ytt renter for etter skattebetalingsloven § 11-4, skal det ved den nye beregningen benyttes samme sats som etter § 11-4 for den perioden.

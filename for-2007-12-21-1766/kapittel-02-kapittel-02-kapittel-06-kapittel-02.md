@@ -1,0 +1,1 @@
+# B. Begrensning i trekkplikten

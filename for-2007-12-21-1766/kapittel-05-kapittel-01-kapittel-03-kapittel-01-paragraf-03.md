@@ -1,0 +1,2 @@
+# § 16-50-3. Fastsetting av hva som utgjør vederlaget og vederlagets størrelse som grunnlag for ansvarskrav mot kjøper
+Flere betalinger som gjelder vederlag for samme tjeneste, eller varer sammen med tjenester, skal vurderes som én betaling ved anvendelsen av beløpsgrensen. Ved løpende eller periodiske ytelser skal flere betalinger i samme kalenderår ses samlet. Betalinger for andre gjentatte kjøp fra samme næringsdrivende skal vurderes hver for seg ved anvendelsen av beløpsgrensen.

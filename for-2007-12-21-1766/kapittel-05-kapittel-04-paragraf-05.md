@@ -1,0 +1,2 @@
+# § 19-2-4. Renter for perioden før ikrafttredelsen
+Renter etter kapittel 11 skal bare beregnes for perioden fra loven trådte i kraft. Renter for perioden før loven trådte i kraft beregnes etter de regler og satser som gjaldt før loven trådte i kraft. Når økning av skatt skyldes frivillig retting eller utfylling av opplysninger etter ligningsloven § 10-3 annet ledd bokstav c skal det likevel beregnes renter selv om det ikke ilegges tilleggsskatt.

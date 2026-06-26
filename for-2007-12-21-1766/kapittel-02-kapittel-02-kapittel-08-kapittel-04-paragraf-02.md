@@ -1,0 +1,2 @@
+# § 5-8-31. Tidspunktet for verdsettelsen
+Arbeidsgiver som skal gi en naturalytelse som faller inn under § 5-8-30, skal snarest mulig, og senest når arbeidstakeren får adgang til å motta ytelsen, verdsette den. Gis en løpende naturalytelse som faktureres fra tredjemann, kan arbeidsgiver likevel vente med å verdsette den til faktura er mottatt. Arbeidsgiver skal verdsette en naturalytelse betalt av tredjepart senest to måneder etter at arbeidstaker har mottatt fordelen eller tiltaket er gjennomført.

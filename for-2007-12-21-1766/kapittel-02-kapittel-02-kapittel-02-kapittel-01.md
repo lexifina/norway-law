@@ -1,0 +1,1 @@
+# A. Tabellkort og prosentkort

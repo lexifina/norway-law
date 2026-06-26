@@ -1,0 +1,6 @@
+# § 5-7-2. Ytelser før jul
+(1) Skattepliktige med månedsbetaling av lønn og annen ytelse som skattlegges som lønn er fritatt for forskuddstrekk for siste halvdel av november eller første halvdel av desember.
+(2) Skattepliktige med betaling per time, dag eller uke av lønn og annen ytelse som skattlegges som lønn er fritatt for forskuddstrekk for to uker i siste halvdel av november eller siste uke i november og første uke i desember.
+(3) Skattepliktige med utbetaling hver 14. dag av lønn og annen ytelse som skattlegges som lønn er fritatt for forskuddstrekk for siste utbetaling i november eller første utbetaling i desember.
+(4) Fritaket for forskuddstrekk for tidsrom i november og desember skal også omfatte tilleggsytelser som skattlegges som lønn og som blir utbetalt sammen med annen lønn for tidsrommet, selv om tilleggsytelsene helt eller delvis er opptjent i et annet tidsrom. Dette gjelder likevel bare så langt den samlede ytelsen ikke overstiger arbeidstakerens gjennomsnittsfortjeneste hos arbeidsgiveren i denne del av inntektsåret.
+(5) Skattepliktige med livrente, pensjon, vartpenger og supplerende stønad til person som har fylt 67 år er fritatt for forskuddstrekk i slik ytelse for november eller desember.

@@ -1,0 +1,2 @@
+# § 7-2-2. Ny avregning etter bortfall av utsettelse etter skatteloven § 10-70 syvende ledd
+Dersom vilkårene for utsettelse med betaling av skatten etter skatteloven § 10-70 syvende ledd ikke lenger er oppfylt, uten at skattefastsettingen tas opp til endring etter skatteforvaltningsloven § 9-4, kapittel 12 eller kapittel 13, skal det foretas ny avregning. Skattebetalingsloven § 10-53 annet ledd gjelder tilsvarende.
