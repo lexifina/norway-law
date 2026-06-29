@@ -1,0 +1,6 @@
+# § 12. Rapportering av barn i private barnehager
+Eier av private barnehager skal hvert år rapportere om antall barn, barnas alder og oppholdstid i barnehagen per 15. desember. Kommunen skal bruke de private barnehagenes rapportering fra året før tilskuddsåret i utregningen av tilskuddet til de private barnehagene.
+Kommunen kan i lokale retningslinjer bestemme at de private barnehagene skal rapportere om antall barn, barnas alder og oppholdstid ved flere tidspunkter i tilskuddsåret, og hva som skal til for at tilskuddet skal endres i løpet av året. De lokale retningslinjene skal fastsettes før tilskuddsåret begynner.
+De private barnehagene skal rapportere til kommunen om store aktivitetsendringer i barnehagen. Kommunen skal i disse tilfellene beregne tilskuddet til de private barnehagene på nytt.
+Ved rapportering etter andre og tredje ledd gjelder følgende: Blir et barn som fyller tre år i tilskuddsåret, rapportert i tilskuddsårets sju første måneder, utløser dette driftstilskudd for småbarnsplass. Blir et barn som fyller tre år i tilskuddsåret, rapportert i årets fem siste måneder, utløser dette driftstilskudd for storbarnsplass resten av året.
+Åpne barnehager rapporterer etter første ledd om ukentlig åpningstid og hvor mange barn det er plass til innenfor godkjenningen. Andre og tredje ledd gjelder for åpne barnehager så langt de passer.

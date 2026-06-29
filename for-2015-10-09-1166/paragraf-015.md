@@ -1,0 +1,3 @@
+# § 15. Refusjon for barn fra andre kommuner
+Kommuner som har private barnehager med barn som er folkeregistrert i en annen kommune, har rett til refusjon for barnehageplassen fra kommunen der barnet er folkeregistrert.
+Hvis barnet går i ordinær privat barnehage, skal kommunen i beregningen av refusjonskravet bruke satsene for drifts- og kapitaltilskudd i § 3 femte ledd og § 6 andre ledd for kommunen der barnet går i barnehage. Hvis barnet går i privat familiebarnehage skal kommune i beregningen av refusjonskravet bruke satsene for drifts- og kapitaltilskudd i § 7 femte og sjette ledd. Kommunen skal gjøre fratrekk etter § 11 første ledd.
