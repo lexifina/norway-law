@@ -1,0 +1,8 @@
+# § 3-5. Godskriving, fritak og godkjenning
+(1) Fakultetet avgjør søknad om bruk av annen/tidligere utdanning fra Universitetet i Oslo som del av utdanning som gis ved fakultetet.
+(2) Fakultetet avgjør søknad om godskriving av utdanning fra andre institusjoner som går inn under uh-loven av 8. mars 2024 som del av utdanning som gis ved fakultetet.
+(3) Fakultetet avgjør søknad om fritak for deler av utdanning som tilbys ved fakultetet på grunnlag av annen velegnet eksamen eller prøve. Dokumentasjon av realkompetanse kan også gi grunnlag for fritak.
+(4) Fakultetet selv avgjør søknad om godkjenning av annen høyere utdanning som faglig jevngod med utdanning som gis ved fakultetet.
+(5) Fakultetet selv kan i særlige tilfeller gi godkjenning etter fjerde ledd helt eller delvis på grunnlag av kunnskaper som er dokumentert på annen måte enn ved eksamen. Prøve til kontroll av de dokumenterte kunnskaper eller tilleggsprøve kan kreves avlagt. Fakultetet selv kan også kreve slik prøve for kontroll av kunnskaper som er dokumentert med ikke-verifiserbare dokumenter.
+(6) Fakultetet selv kan i nærmere regler til § 3-5 fastsette bestemmelser om godskriving, fritak og godkjenning for bestemte grader, studieprogram, emnegrupper eller emner ved fakultetet.
+(7) Interne og eksterne emner som kan godkjennes i henhold til uh-lovens §§ 9-1 og 9-3 og er bestått de siste ti år, kan inngå i mastergraden i rettsvitenskap. Etter søknad kan fakultetet godkjenne at også emner som er eldre enn ti år inngår i graden. Juridiske emner som kan inngå i studieprogrammet, og som er avlagt de siste ti årene, kan medføre godkjenning av eldre juridiske emner.

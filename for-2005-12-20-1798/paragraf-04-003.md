@@ -1,0 +1,6 @@
+# § 4-3. Undervisningstilbud
+(1) Fakultetet fastsetter undervisningstilbudets omfang for emner ut fra universitetsstyrets fastsettelse av opptaksrammer for det enkelte studieprogram.
+(2) Fastsettelsen av undervisningstilbudets omfang kan innebære begrenset adgang til obligatoriske emner i et semester ved forsinkelse i studieprogrammet og til ikke-obligatoriske emner i et semester.
+(3) Fakultetet kan avlyse undervisningen i et emne dersom det melder seg for få søkere/påmeldte til emnet. Fakultetet skal sørge for at programstudenter som har emnet som obligatorisk emne likevel har anledning til å fullføre studieløpet sitt på normert tid.
+(4) Fakultetet kan gjøre emner som har ledige undervisningsplasser tilgjengelige for enkeltemnestudenter, jf. § 7. Ledige undervisningsplasser tildeles kvalifiserte søkere i den rekkefølgen de melder seg inntil emnet er fullt.
+(5) For helsefaglige utdanninger gjelder helsepersonellovens regler i tillegg til Universitetet i Oslos regler om gjennomføring av undervisning, jf. lovens § 4 om forsvarlig behandling og § 5 om bruk av medhjelpere. En veileder/instruktør med autorisasjon etter helsepersonelloven kan med umiddelbar virkning ta studenten ut av undervisningssituasjonen dersom det oppstår fare for brudd på helsepersonellovens bestemmelser.

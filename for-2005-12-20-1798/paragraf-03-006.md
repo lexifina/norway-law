@@ -1,0 +1,7 @@
+# § 3-6. Examen philosophicum og examen facultatum
+(1) Examen philosophicum uten tallfestet normering eller med normering 7 vekttall, skal tilsvare 30 studiepoeng i grad ved Universitetet i Oslo. For øvrig skal examen philosophicum og examen facultatum i grad ved Universitetet i Oslo tilsvare de avlagte emnenes antall studiepoeng.
+(2) For grad ved Universitetet i Oslo hvor examen philosophicum tilsvarer 30 studiepoeng, skal det gis fritak fra et eventuelt krav om examen facultatum. Tidligere gitte fritak fra kravet om examen facultatum gjelder også fortsatt.
+(3) Bare ett av de emner som er fastsatt til å utgjøre examen philosophicum, kan inngå med studiepoeng i en students grad eller emneoversikt på karakterutskrift. Tilsvarende kan bare ett av de emner som er fastsatt til å utgjøre examen facultatum inngå med studiepoeng i en students grad eller emneoversikt på karakterutskrift.
+(4) For grad ved Universitetet i Oslo som krever examen facultatum, skal alle Universitetet i Oslos varianter av examen facultatum oppfylle kravet.
+(5) For mastergrad av 5 års omfang og for graden cand.theol. ved Universitetet i Oslo, kan fakultetet gi fritak fra den respektive gradens krav om examen philosophicum eller examen facultatum dersom kandidaten har fått innpasset en bachelorgrad eller et tilsvarende utdanningsløp av minimum 3 års omfang hvor det ikke er krav om examen philosophicum eller examen facultatum.
+(6) Universitetsdirektøren kan i nærmere regler til § 3-6 fastsette bestemmelser om godskriving og fritak for examen philosophicum og examen facultatum.
