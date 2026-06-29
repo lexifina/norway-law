@@ -1,0 +1,6 @@
+# § 8. Tilskudd til åpne barnehager
+Kommunen skal gi tilskudd til åpne barnehager per heltidsplass. Tilskuddet skal beregnes ut fra driftsutgifter og kapitalkostnader per heltidsplass i tilsvarende kommunale åpne barnehager, fratrukket pensjonsutgifter og arbeidsgiveravgift på driftsutgiftene, og administrasjonsutgifter. Grunnlaget for beregningen er kommuneregnskapet fra to år før tilskuddsåret.
+Kommunen skal gi påslag for pensjonsutgifter og administrasjonsutgifter, jf. § 4 tredje ledd og § 5.
+Kommunen skal fastsette én sats for barnehager som har en ukentlig åpningstid på mellom 6 og 15 timer og én sats for barnehager som har åpningstid over 15 timer.
+Kommunen beregner tilskudd ut fra hvor mange barn den private barnehagen er godkjent for. Hvis det over tid viser seg at fremmøtet i barnehagen er vesentlig lavere enn dette, kan kommunen legge et lavere barnetall til grunn.
+Kommuner som ikke har kommunale åpne barnehager, skal gi tilskudd til private åpne barnehager etter følgende tabell:ArbeidsgiveravgiftsoneÅpningstid på 6 til 15 timerÅpningstid på 16 timer eller merSone I26 90041 300Sone Ia26 90041 300Sone II26 30040 400Sone III25 60039 200Sone IV25 40038 900Sone IVa25 90039 600Sone V24 50037 500

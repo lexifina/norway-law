@@ -1,0 +1,4 @@
+# § 4. Pensjonspåslag på driftstilskudd
+Kommunen skal gi et påslag for pensjonsutgifter på ti prosent av lønnsutgiftene i de kommunale ordinære barnehagene, fratrukket pensjonsutgift og arbeidsgiveravgift på pensjonsutgiften. Kommunen skal legge til arbeidsgiveravgift på summen av påslaget.
+Kommunen skal gi påslag for pensjonsutgifter til familiebarnehager på seks prosent av lønnsutgifter i kommunale familiebarnehager, fratrukket pensjonsutgift og arbeidsgiveravgift på pensjonsutgiften. Kommunen skal legge på arbeidsgiveravgift på summen av påslaget.
+Kommunen skal gi påslag for pensjonsutgifter til åpne barnehager på seks prosent av lønnsutgifter i kommunale åpne barnehager, fratrukket pensjonsutgift og arbeidsgiveravgift på pensjonsutgiften. Kommunen skal legge på arbeidsgiveravgift på summen av påslaget.
