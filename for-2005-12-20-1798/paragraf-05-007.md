@@ -1,0 +1,5 @@
+# § 5-7. Gjennomføring av eksamen
+(1) Fakultetet har ansvaret for gjennomføringen av eksamen i emner som fakultetet administrerer. Fakultetet selv kan i nærmere regler til § 5-7 fastsette bestemmelser om gjennomføringen av fakultetets eksamener.
+(2) Fakultetet selv kan for kliniske prøver gjøre unntak fra regelen om at muntlige eksamener skal være offentlige.
+(3) For helsefaglige utdanninger gjelder helsepersonellovens regler i tillegg til Universitetet i Oslos regler om gjennomføring av eksamen, jf. lovens § 4 om forsvarlig behandling og § 5 om bruk av medhjelpere. En eksaminator/sensor med autorisasjon etter helsepersonelloven kan med umiddelbar virkning ta eksamenskandidaten ut av eksamenssituasjonen dersom det oppstår fare for brudd på helsepersonellovens bestemmelser.
+(4) Fakultetet skal gi studentene informasjon om tillatt bruk av hjelpemidler og kilder ved eksamen, og om fakultetets kontrollordninger for hjelpemidler og kilder, slik at studentene vet hvordan de skal forholde seg for ikke å bli mistenkt for fusk/forsøk på fusk.

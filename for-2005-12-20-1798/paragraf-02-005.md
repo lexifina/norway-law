@@ -1,0 +1,9 @@
+# § 2-5. Krav til sammensetning av graden master
+(1) Ved Universitetet i Oslo kan graden master av 2 års omfang oppnås på grunnlag av de studieprogram som det enkelte fakultetet tilbyr til denne graden.
+(2) Ved Universitetet i Oslo kan graden master av 5 års omfang oppnås på grunnlag av studieprogrammene i farmasi, informatikk, klinisk ernæring, odontologi, samfunnsøkonomi samt for lektorprogrammet. Examen philosophicum skal inngå i grunnlaget for graden, unntatt for studieprogrammet i farmasi. Examen facultatum skal inngå i grunnlaget for graden når den oppnås på grunnlag av studieprogrammet i samfunnsøkonomi.
+(3) Ved Universitetet i Oslo kan graden master som erfaringsbasert mastergrad av 1½ års eller 2 års omfang oppnås på grunnlag av de studieprogram som det enkelte fakultetet tilbyr til denne graden.
+(4) Ved Universitetet i Oslo kan graden Master of Laws av 1 ½ års omfang oppnås på grunnlag av fastsatte studieprogram ved Det juridiske fakultet.
+(5) Ved Universitetet i Oslo kan graden Master of Arts oppnås på grunnlag av fastsatte studieprogram ved Det samfunnsvitenskapelige fakultet.
+(6) Ved Universitetet i Oslo kan graden master i rettsvitenskap oppnås på grunnlag av studieprogrammet i rettsvitenskap ved Det juridiske fakultet. Examen philosophicum og examen facultatum skal inngå i grunnlaget for graden.
+(7) Ved Universitetet i Oslo skal masteroppgaven utgjøre det selvstendige arbeidet som kreves for å oppnå graden master. Masteroppgavens omfang skal være i samsvar med kravene i forskrift om krav til mastergrad. Det er obligatorisk med veiledning av masteroppgaven. Fakultetet oppnevner eller godkjenner veilederen.
+(8) Universitetsstyret kan fastsette at enkelte studieprogram til mastergrad av 5 års omfang kan ha egne studieenheter som innholdsmessig dekker examen philosophicum (10 studiepoeng) eller examen facultatum (10 studiepoeng).
