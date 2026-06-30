@@ -1,0 +1,4 @@
+# § 6. Lokalforedlingskvote
+Ethvert foretak som produserer melk som foredles på, eller i nærheten av, den landbrukseiendommen der melken produseres, kan få beregnet en lokalforedlingskvote tilsvarende produksjonstakene i § 4 tredje ledd, fratrukket eventuelle grunnkvoter som foretaket disponerer.
+Foretak som i ett eller flere av de siste tre årene før 1. januar 2024 produserte mer enn 700 000 liter kumelk eller 350 000 liter geitemelk, og der en andel av produksjonen ble foredlet lokalt, får beregnet lokalforedlingskvote på grunnlag av foretakets høyeste årlige produksjonsvolum i denne perioden dersom dette medfører en høyere lokalforedlingskvote enn hva som følger av første ledd.
+Dersom flere foretak leverer melk til samme foredlingsforetak, settes produksjonstaket til summen av foretakenes lokalforedlingskvoter, begrenset oppad til produksjonstakene i § 4 tredje ledd.
