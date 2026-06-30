@@ -1,0 +1,5 @@
+# § 4. Disponibel kvote
+Foretak som disponerer grunnkvote kan få beregnet disponibel kvote som grunnlag for melkeproduksjon på én eller flere landbrukseiendommer. Foretakets disponible kvote kan baseres på flere grunnkvoter i ulike produksjonsregioner, men melkeproduksjon på den enkelte grunnkvote må skje i den produksjonsregionen der grunnkvoten er registrert.
+Foretakets disponible kvote i et enkelt kvoteår utgjør grunnkvote multiplisert med forholdstall for disponibel kvote på 1,01 for kumelkkvote og 1,00 for geitemelkkvote. Kvoteåret starter 1. januar.
+Disponibel kvote for et enkelt foretak eller fra en enkelt landbrukseiendom kan ikke overstige 707 000 liter kumelk eller 350 000 liter geitemelk, med mindre foretaket har en større historisk leveringsrett etter § 5 eller § 5a. Ved forholdstall for disponibel kvote større enn 1,00 settes produksjonstaket for foretak med historiske leveringsretter til foretakets historiske leveringsrett multiplisert med forholdstallet.
+For foretak som produserer både ku- og geitemelk, omregnes geitemelkkvote til kumelkkvote i forholdet 1:2.
