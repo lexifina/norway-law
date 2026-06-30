@@ -1,0 +1,6 @@
+# § 29. Håndheving og sanksjoner
+Miljødirektoratet håndhever og sanksjonerer overtredelser av forskriften § 4, § 5, § 6, § 7, § 9, § 26, § 27 og § 28 og enkeltvedtak truffet i medhold av disse bestemmelsene etter naturmangfoldloven § 69 til § 74 og svalbardmiljøloven § 93 til § 98. Overtredelse av nevnte bestemmelser er straffbart etter naturmangfoldloven § 75 og svalbardmiljøloven § 99.
+Når Miljødirektoratet vurderer administrativt beslag etter naturmangfoldloven § 72a, kan kontrollmyndigheten holde aktuelle eksemplarer tilbake i inntil fem virkedager i påvente av avgjørelse om beslag.
+Før avliving av inndratte levende eksemplar av arter oppført i vedlegg 1, liste A, skal Miljødirektoratet vurdere muligheten for omplassering av eksemplaret eller retur til utførselsstaten. Slik retur kan tillates uten hensyn til vilkårene for utførsel i § 5 annet ledd.
+Miljødirektoratet kan beslutte at inndratte døde eksemplar av arter på vedlegg 1, liste A, B og C kan benyttes til ikke-kommersielle vitenskapelige formål, undervisnings- eller håndhevingsformål.
+Miljødirektoratet kan treffe vedtak om at kostnader forbundet med inndragning dekkes av den som forsettlig eller uaktsomt har innført, utført, gjenutført, ilandført eller besittet eksemplarer av arter i strid med forskriften

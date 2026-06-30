@@ -1,0 +1,3 @@
+# § 9. Kommersiell fremvisning
+Kommersiell fremvisning av døde eksemplarer av alle virveldyr oppført i forskriften vedlegg 1, liste A er forbudt. Av døde eksemplarer omfattes utstoppede eksemplarer, skinn, hodeskaller, jakttrofeer, fugleegg, hele eller deler av horn av neshorn, hele støttenner fra alle arter elefant samt ubearbeidede deler som overstiger ett kilo og/eller 20 cm lengde og skall av havskilpadder (Cheloniidae). Det kan i særlige tilfeller gis dispensasjon etter § 17.
+En fremvisning er kommersiell når formålet med fremvisningen er å skape direkte eller indirekte økonomisk fortjeneste.

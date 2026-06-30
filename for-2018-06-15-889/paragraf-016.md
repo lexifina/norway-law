@@ -1,0 +1,3 @@
+# § 16. Transitt
+Med transitt menes transport mellom to fremmede stater der transporten går gjennom Norge. Forsendelsen må være til bestemt vareeier hjemmehørende i bestemmelsesstaten. Sendinger lagret på tollager anses som å være i transitt. Transitt omfatter også omlasting mellom transportmidler.
+Ved transitt kreves gyldig CITES-tillatelse utstedt i henhold til utførselsstatens bestemmelser. For ikke-konvensjonsstat er det tilstrekkelig med tilsvarende utførselsdokumentasjon. Forsendelsens bestemmelsessted skal stå i dokumentasjonen. Adressat og bestemmelsesstat må være uendret i forhold til hva som er oppgitt ved utklarering av varer fra utførselsstaten.
