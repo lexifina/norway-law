@@ -1,0 +1,5 @@
+# § 5-4a. Plikt til å foreta skattetrekk i aksjeutbytte til utenlandsk aksjonær og i utbyttekompensasjon
+(1) Aksjeselskap, allmennaksjeselskap samt likestilt selskap og sammenslutning som utbetaler utbytte som er skattepliktig etter skatteloven § 10-13, plikter å foreta skattetrekk til dekning av inntektsskatt av slikt utbytte. Det samme gjelder for tilbyder av aksjesparekonto ved uttak fra aksjesparekonto som er skattepliktig etter skatteloven § 10-13. Det tas ved skattetrekket ikke hensyn til fradrag for skjerming etter skatteloven § 10-12.
+(2) Innlåner som etter avtale om verdipapirlån, jf. skatteloven § 9-11, utbetaler utbyttekompensasjon som nevnt i skatteloven § 10-11 tredje ledd til kontraktsmotpart hjemmehørende i utlandet, plikter å foreta skattetrekk til dekning av inntektsskatt av slik kompensasjon.
+(3) Skattetrekket beregnes av selskapet eller innlåner til det beløp skatten vil utgjøre etter Stortingets vedtak om skatt for det aktuelle året.
+(4) Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen.

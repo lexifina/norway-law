@@ -1,0 +1,4 @@
+# § 16-13. Skifteforvaltere og styremedlemmers ansvar
+(1) Skifteforvaltere er ansvarlig for at tilstrekkelig av boets midler holdes tilbake til dekning av formues- og inntektsskatt og trygdeavgift som fastsettes for eller som må forutsettes å bli fastsatt for boet eller arvelater, etter at boet er tatt under skiftebehandling. Det samme gjelder konkursskyldners formues- og inntektsskatt og trygdeavgift når boet er ansvarlig for skatte- og avgiftskravet.
+(2) Tilsvarende ansvar påhviler hvert enkelt medlem av styre og ledelse i selskap og annen skattepliktig innretning, når dette oppløses og foretakets midler fordeles mellom eierne.
+(3) Er midlene utloddet eller fordelt i tilfelle som nevnt i første og annet ledd, uten at det er holdt tilbake midler til dekning av skatte- og avgiftskrav, kan ubetalt skatt og avgift innkreves hos konkurskreditorene, arvingene eller parthaverne, som er ansvarlig hver for sin andel av skatte- og avgiftskravet.

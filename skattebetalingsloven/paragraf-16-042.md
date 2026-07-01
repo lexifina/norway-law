@@ -1,0 +1,2 @@
+# § 16-42. Ansvar ved avgiftsfri levering av varer og tjenester
+Departementet kan i forskrift bestemme at mottakeren av avgiftsfrie varer og tjenester som ellers er avgiftspliktige etter lov 19. mai 1933 nr. 11 om særavgifter, er ansvarlig for avgiften dersom vedkommende ikke oppfyller vilkårene for avgiftsfrihet. I slike tilfeller er også leverandøren ansvarlig for avgiften dersom han visste eller burde ha visst at vilkårene for avgiftsfritak ikke var oppfylt.

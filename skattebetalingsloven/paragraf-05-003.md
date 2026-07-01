@@ -1,0 +1,5 @@
+# § 5-3. Fritak for forskuddstrekk og tilbakebetaling av innbetalt forskuddstrekk
+(1) Skattyter som åpenbart ikke vil få fastsatt skatt, kan fritas for forskuddstrekk.
+(2) Skattyteren skal fritas for trekk resten av året når skattekontoret finner det overveiende sannsynlig at det som allerede er innbetalt, er tilstrekkelig til dekning av den skatt og trygdeavgift som vil bli fastsatt for inntektsåret. Er inntekten falt bort eller foreligger det andre særlige forhold som gjør det overveiende sannsynlig at det som er innbetalt som forskuddstrekk er vesentlig mer enn den skatt og trygdeavgift som vil bli fastsatt for inntektsåret, kan skattekontoret bestemme at det overskytende skal betales tilbake til skattyteren. Slik bestemmelse skal bare treffes når det vil virke urimelig å utsette tilbakebetalingen til avregning er foretatt.
+(3) Forskuddstrekk og innbetalt skatt knyttet til tidligere inntektsår, kan i særlige tilfeller, for eksempel ved feilutbetalinger, tilbakebetales til skattyter eller til arbeidsgiver.
+(4) Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen.

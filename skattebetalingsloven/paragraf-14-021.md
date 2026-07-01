@@ -1,0 +1,4 @@
+# § 14-21. Sikkerhetsstillelse for særavgiftene
+(1) Skattekontoret skal ved registrering av avgiftspliktige kreve at det stilles sikkerhet for skyldig engangsavgift på motorvogn. De nærmere kravene til sikkerheten, herunder sikkerhetens omfang, fastsettes av skattekontoret ved registreringen, og kan senere endres.
+(2) Skattekontoret kan kreve at virksomheter som er registrert som avgiftspliktige etter særavgiftsloven, stiller sikkerhet for fremtidig skyldig avgift. Krav om sikkerhetsstillelse kan stilles ved registrering av virksomheten eller senere. De nærmere kravene til sikkerhet, herunder sikkerhetens omfang, fastsettes av skattekontoret i det enkelte tilfellet.
+(3) Departementet kan i forskrift sette nærmere vilkår for sikkerhetsstillelsen og angi hvilke momenter som skal vektlegges ved vurderingen av om sikkerhet skal kreves.

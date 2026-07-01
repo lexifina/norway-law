@@ -1,0 +1,5 @@
+# § 5-10. Gjennomføring av forskuddstrekk og skattetrekk etter § 5-4 (kildeskatteordning)
+(1) Forskuddstrekket eller skattetrekket etter § 5-4 første ledd (kildeskatteordning) gjennomføres ved at arbeidsgiveren, eller selskapet som nevnt i § 5-4 annet ledd, beregner trekkbeløpet og holder dette tilbake i oppgjøret med skattyteren. Forskuddstrekket eller skattetrekket gjennomføres når det oppstår adgang for skattyteren til å få godtgjørelsen utbetalt, selv om oppgjør for denne først finner sted på et senere tidspunkt.
+(2) Arbeidsgiveren har plikt til å sørge for at det blir gjennomført forskuddstrekk eller skattetrekk også i tilfeller der skattyteren selv innkrever sin godtgjørelse. Skattyteren plikter da å innbetale forskuddstrekket eller skattetrekket til arbeidsgiveren.
+(3) Når skattyteren mottar naturalytelser, skal arbeidsgiveren gjennomføre forskuddstrekk eller skattetrekk så langt de kontante ytelser rekker. Er det ikke dekning for det samlede beregnede trekk i de kontante ytelsene, plikter arbeidsgiveren straks å melde fra om forholdet til skattekontoret.
+(4) Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen.

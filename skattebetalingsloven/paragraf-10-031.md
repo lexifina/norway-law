@@ -1,0 +1,8 @@
+# § 10-31. Arveavgift
+(1) Med de unntak som følger av annet til fjerde ledd, forfaller arveavgift til betaling med følgende frister, regnet fra det tidspunkt da rådigheten over midlene i henhold til lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver §§ 9 og 10 anses ervervet:
+a) tolv måneder når midlene utlegges ved privat skifte av dødsbo. Som dødsbo anses også bo etter en forsvunnet person, men ikke uskiftet bo så lenge gjenlevende ektefelle er i live,
+b) straks når midlene skiftes av tingretten,
+c) for øvrig tre måneder.
+(2) Når avgiftsplikt for gaver først kan fastslås ved giverens død, jf. lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 2 annet ledd, forfaller avgiften til betaling først tre måneder etter dødsfallet. Tar gavemottaker også arv etter giveren, forfaller avgift av slik gave samtidig med avgift av arven.
+(3) Overstiger arveavgift av kapitalverdien av en inntektsnytelse halvparten av det inntektsnytelsen utgjør for ett år, kan den avgiftspliktige kreve henstand med betaling av det overskytende, slik at det hvert år betales avdrag med halvparten av inntektsnytelsens årlige beløp inntil avgiften er betalt. Reglene i lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 21 får tilsvarende anvendelse. Mulige uforfalte terminer av avgiften bortfaller når inntektsnytelsen opphører. § 10-20 fjerde ledd gjelder tilsvarende.
+(4) Arveavgift fastsatt etter reglene i lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 21 kan, unntatt i tilfeller som nevnt i første ledd bokstav b, likevel ikke kreves betalt tidligere enn en måned etter at foreløpig eller endelig fastsetting er meddelt den avgiftspliktige.

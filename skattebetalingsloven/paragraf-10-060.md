@@ -1,0 +1,6 @@
+# § 10-60. Tilgodebeløp
+(1) Når det er betalt for mye skatt eller avgift og når det ellers oppstår tilgodebeløp, skal beløpet og renter etter § 11-4 utbetales til den skatte- eller avgiftspliktige så snart som mulig, og senest tre uker etter at vedtaket som medførte tilbakebetaling ble truffet, når ikke annet er bestemt i lov eller forskrift. Utbetalingen skal også omfatte renter som er betalt av refusjonsbeløpet. Renter som er påløpt, men ikke betalt, bortfaller.
+(2) For tilgodebeløp som oppstår ved egenretting av tidligere levert skattemelding, regnes fristen fra skatte- og avgiftsmyndighetene har godkjent beløpet til utbetaling.
+(3) For tilgodebeløp som oppstår etter ordinær avregning, jf. § 7-1, regnes fristen fra skatteoppgjøret ble sendt skattyter. I andre tilfeller regnes fristen fra det tidspunktet avregningen ble foretatt.
+(4) For krav på utbetaling av merverdiavgift til registrerte næringsdrivende etter merverdiavgiftsloven § 11-5 regnes fristen fra skattemeldingen er mottatt av avgiftsmyndigheten.
+(5) For krav på utbetaling av kompensasjon for merverdiavgift skal fristen regnes fra utløpet av fristen for å sende inn skattemelding etter bestemmelser gitt i medhold av skatteforvaltningsloven § 8-16, jf. § 8-7.

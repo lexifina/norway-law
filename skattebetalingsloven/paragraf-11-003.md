@@ -1,0 +1,3 @@
+# § 11-3. Rentegodtgjørelse ved forsinket utbetaling
+(1) Ved utbetaling av skatt eller avgift senere enn forfallstidspunktet i § 10-60, skal det ytes rentegodtgjørelse for tiden fra forfallstidspunktet fram til utbetaling skjer. Det ytes ikke rentegodtgjørelse så lenge manglende utbetaling skyldes at Skatteetaten ikke har mottatt opplysninger om konto, og det heller ikke er besluttet å utbetale tilgodebeløpet på annen måte. Det samme gjelder hvis utbetaling av tilgodebeløp ikke lar seg gjennomføre på grunn av forhold ved kontoen utenfor Skatteetatens kontroll.
+(2) Lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 2 annet ledd gjelder tilsvarende.
