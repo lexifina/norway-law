@@ -1,0 +1,5 @@
+# § 1-3. Subsidierte bygge- og anleggskontrakter og tilknyttede tjenestekontrakter
+(1) Anskaffelsesloven og forskriften gjelder for følgende kontrakter som oppdragsgivere som nevnt i § 1-2 ikke inngår selv, men som de yter et direkte tilskudd til med mer enn 50 prosent:
+a) bygge- og anleggskontrakter med en anslått verdi som er lik eller overstiger 8,7 millioner kroner ekskl. mva. og som gjelder anleggsarbeider som angitt i vedlegg 1 eller oppføring av sykehus, idretts-, rekreasjons- og fritidsanlegg, skole- og universitetsbygninger eller bygninger til forvaltningsformål
+b) tjenestekontrakter med tilknytning til en bygge- og anleggskontrakt som nevnt i bokstav a, med en anslått verdi som er lik eller overstiger 2,5 millioner kroner ekskl. mva.
+(2) Ved inngåelse av kontrakter etter første ledd er tilskuddsmottakeren oppdragsgiver i henhold til anskaffelsesloven og forskriften. Tilskuddsgiveren skal underrette tilskuddsmottakeren om denne bestemmelsen, senest ved tildelingen av tilskuddet.

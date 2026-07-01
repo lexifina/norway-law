@@ -1,0 +1,7 @@
+# § 13-2. Vilkår for bruk av konkurranse med forhandling etter forutgående kunngjøring og konkurransepreget dialog
+Oppdragsgiveren kan bruke konkurranse med forhandling etter forutgående kunngjøring og konkurransepreget dialog dersom
+a) oppdragsgiverens behov ikke kan oppfylles uten at det foretas tilpasninger i allerede tilgjengelige løsninger;
+b) anskaffelsen inkluderer design eller innovative løsninger;
+c) anskaffelsens karakter, kompleksitet, rettslige eller finansielle sammensetning eller tilknyttede risiko gjør det nødvendig å forhandle;
+d) oppdragsgiveren ikke kan utforme kravspesifikasjonene tilstrekkelig presist ved henvisning til en standard, europeisk teknisk bedømmelse, felles teknisk spesifikasjon eller teknisk referanse;
+e) oppdragsgiveren i en forutgående åpen anbudskonkurranse eller begrenset anbudskonkurranse bare mottok uakseptable tilbud. Et uakseptabelt tilbud er et tilbud som oppdragsgiveren ikke kan akseptere fordi det inneholder avvik fra anskaffelsesdokumentene eller uklarheter som ikke må anses ubetydelige, ikke er levert innen tilbudsfristen, er levert av en leverandør som ikke oppfyller kvalifikasjonskravene, er unormalt lavt, ikke oppfyller bestemmelser om miljø, arbeidsforhold og sosiale forhold som følger av nasjonale regler, EØS-regler, tariffavtaler eller internasjonale avtaler som angitt i vedlegg 5, overstiger oppdragsgiverens budsjett som er dokumentert fastsatt før iverksettelse av konkurransen, det foreligger bevis for ulovlig tilbudssamarbeid eller korrupsjon, eller det foreligger lignende forhold.

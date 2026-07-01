@@ -1,0 +1,6 @@
+# § 6-3. Blandede anskaffelser som delvis er omfattet av forskriften og delvis er knyttet til utøvelsen av forsyningsaktiviteter
+(1) En oppdragsgiver som skal anskaffe ytelser som delvis er omfattet av forskriften og delvis er knyttet til utøvelsen av forsyningsaktiviteter, kan velge å inngå
+a) separate kontrakter etter reglene som gjelder for den enkelte kontrakten, eller
+b) en blandet kontrakt etter reglene som gjelder for aktiviteten som anskaffelsen i hovedsak er beregnet for. Dette forutsetter at valget om å inngå en blandet kontrakt ikke tas med sikte på å unnta kontrakten fra virkeområdet til forskriften eller forsyningsforskriften.
+(2) Dersom det er objektivt umulig å avgjøre hvilken aktivitet som anskaffelsen i hovedsak er beregnet for, og den ene aktiviteten er omfattet av forskriften og den andre aktiviteten er omfattet av forsyningsforskriften, skal kontrakten inngås etter reglene i forskriften. Forsyningsforskriften gjelder likevel når ytelsen som er omfattet av forsyningsforskriften overstiger EØS-terskelverdiene i forsyningsforskriften § 5-2, mens ytelsen som er omfattet av forskriften, ikke overstiger EØS-terskelverdiene i § 5-3.
+(3) Dersom en blandet kontrakt som nevnt i første ledd delvis inneholder forsvars- eller sikkerhetselementer, gjelder i stedet § 6-5.

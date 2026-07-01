@@ -1,0 +1,4 @@
+# § 20-4. Minimumsfrister i en konkurranse med forhandling etter forutgående kunngjøring
+(1) I en konkurranse med forhandling etter forutgående kunngjøring skal fristen for mottak av forespørsler om å delta i konkurransen være minst 30 dager regnet fra den dagen den alminnelige kunngjøringen sendes til TED-databasen. Dersom oppdragsgiveren har kunngjort konkurransen ved en forhåndskunngjøring, regnes fristen fra den dagen oppdragsgiveren sender invitasjonen til å bekrefte interessen.
+(2) Fristen for mottak av det første tilbudet fra leverandørene som er invitert til å gi tilbud, skal være minst 25 dager regnet fra den dagen oppdragsgiveren sender invitasjonen. Dersom oppdragsgiveren ikke krever at tilbudene skal leveres elektronisk, skal tilbudsfristen være minst 30 dager.
+(3) § 20-3 tredje til sjette ledd gjelder tilsvarende.

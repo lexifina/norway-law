@@ -1,0 +1,2 @@
+# § 15-2. Plikt til å ta hensyn til universell utforming i visse anskaffelser
+Kravspesifikasjonene skal ta hensyn til universell utforming når oppdragsgiveren skal anskaffe ytelser som skal brukes av personer, enten det er allmennheten eller ansatte hos oppdragsgiveren, med mindre unntak kan begrunnes særskilt. Kravspesifikasjonene skal vise til eventuelle bestemmelser i lov eller forskrift som stiller krav til universell utforming.
