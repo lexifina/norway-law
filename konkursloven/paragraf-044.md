@@ -1,0 +1,5 @@
+# § 44. Nytt akkordforslag.
+Har skyldnerens akkordforslag ikke oppnådd det nødvendige flertall ved en skriftlig avstemning, kan skyldneren bare fremme et nytt akkordforslag dersom gjeldsnemnda finner å kunne anbefale forslaget. Det nye forslaget skal snarest sendes fordringshaverne, med gjeldsnemndas anbefaling vedlagt og med angivelse av en ny avstemningsfrist. Den nye fristen må ikke utløpe senere enn tre uker etter den opprinnelige avstemningsfristen.
+Skyldneren kan ikke foreta ytterligere endringer i akkordforslaget etter at det er sendt fordringshaverne.
+Dersom skyldneren i et avstemningsmøte vil gjøre forandringer i akkordforslaget, og gjeldsnemnda etter å ha hørt de tilstedeværendes mening, finner å kunne anbefale det endrede forslag, skal den beramme et nytt møte til behandling av og avstemning over forslaget. Møtet skal holdes innen tre uker. Innkalling til møtet skal snarest sendes fordringshaverne, med forslaget og gjeldsnemndas uttalelse om dette vedlagt.
+I det nye avstemningsmøtet kan skyldneren ikke gjøre noen forandring i akkordforslaget.

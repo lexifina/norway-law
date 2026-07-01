@@ -1,0 +1,5 @@
+# § 7. Oppnevnelse av gjeldsnemnd.
+Når kjennelse om åpning av gjeldsforhandling er avsagt, skal retten straks oppnevne en gjeldsnemnd.
+Gjeldsnemnda skal bistå skyldneren under gjeldsforhandlingen i samsvar med reglene i denne lov og herunder vareta fordringshavernes felles interesser. Så langt det er forenlig med disse interessene, skal den i samarbeid med offentlige myndigheter medvirke til at hensynet til berørte arbeidstakere og særlige samfunnsinteresser varetas under gjeldsforhandlingen.
+Gjeldsnemnda skal bestå av en leder – som regel en advokat – og av fra ett til tre andre medlemmer, som fortrinnsvis skal tas blant fordringshaverne eller disses representanter. Så vidt mulig skal minst ett av medlemmene ha kyndighet i den næring skyldneren driver. I tilfelle som nevnt i § 8 skal det oppnevnes en representant for de ansatte som medlem av gjeldsnemnda; gjeldsnemnda kan i så fall bestå av inntil fem medlemmer.
+Når boet er lite eller retten av andre grunner finner at gjeldsnemndas gjøremål kan utføres av lederen alene, skal retten unnlate å oppnevne flere medlemmer av nemnda.

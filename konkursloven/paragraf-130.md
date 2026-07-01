@@ -1,0 +1,3 @@
+# § 130. Klage til tingretten.
+Bostyrerens utlodning kan påklages til tingretten av fordringshaverne som har fått godkjent sine fordringer. Klagefristen er en måned regnet fra det tidspunkt meddelelsen om utlodningen ble gitt av bostyreren. Klagen må være skriftlig og grunngitt. Før retten treffer avgjørelse, skal bostyreren gis anledning til å uttale seg. Retten treffer sin avgjørelse ved kjennelse.
+Gir retten klageren helt eller delvis medhold, foretar den snarest mulig ny utlodning. I den forbindelse kan bostyreren bes om å utarbeide forslag til ny utlodning. De fordringshavere som får et mindre beløp enn angitt i bostyrerens utlodning, skal underrettes om den nye utlodningen.

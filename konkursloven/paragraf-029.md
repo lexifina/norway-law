@@ -1,0 +1,3 @@
+# § 29. Misligholdt akkord.
+Dersom en skyldner har fått frivillig akkord eller frivillig likvidasjonsakkord, men kommer under konkurs før akkorden er oppfylt, skal en fordringshaver som ikke har fått sitt fulle tilgodehavende etter akkorden, gis konkursdividende av fordringens hele opphavelige beløp. Fordringshaveren kan likevel ikke få utbetalt mer enn sitt resttilgodehavende etter akkorden. Fordringshaveren kan overhodet ikke kreve noe utlegg i konkursboet før det til de øvrige fordringshavere er utbetalt like mange prosenter som de mottatte akkordavdrag utgjør.
+Bestemmelsene i første ledd og første og tredje punktum gjelder tilsvarende for fordringshavere som ifølge § 28 er ubundet av akkorden.

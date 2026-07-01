@@ -1,0 +1,10 @@
+# § 21. Gjeldsnemndas redegjørelse.
+Når gjeldsnemnda har skaffet seg den nødvendige oversikt over skyldnerens forhold og finner at det er utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord, skal den utarbeide en redegjørelse, som bl a skal inneholde:
+1) en oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært og om de forhold som har ført til gjeldsforhandlingen. I oversikten bør inntas skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) og dessuten oppgave over omsetningen;
+2) en oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjon- og vekselforpliktelser, de heftelser som hviler på skyldnerens eiendeler og hvordan eiendelene er verdsatt;
+3) opplysning om skyldnerens ekteskapelige formuesforhold;
+4) opplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av forhandling om tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksomme;
+5) opplysning om skyldneren tidligere har søkt frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividende fordringshaverne oppnådde;
+6) opplysning om skyldneren tidligere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet, og om det nå må antas å foreligge forhold som kan gi grunn til straffeforfølging mot vedkommende i forbindelse med slik virksomhet. Er skyldneren en sammenslutning eller en stiftelse, gis opplysning om forretningsfører eller styremedlem antas å ha gjort seg skyldig i slikt forhold.
+Dersom særskilt revisor er oppnevnt, vedlegges denne innberetning.
+Finner gjeldsnemnda at det kan være grunn til strafforfølgning for forhold som nevnt i første ledd nr. 6, skal redegjørelsen sendes til påtalemyndigheten. Gjeldsnemnda bør i nødvendig utstrekning gi påtalemyndigheten underretning om mulige straffbare forhold også på et tidligere tidspunkt.

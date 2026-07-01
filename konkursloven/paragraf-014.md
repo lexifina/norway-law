@@ -1,0 +1,4 @@
+# § 14. Skyldneren blir undergitt gjeldsnemndas tilsyn.
+Under gjeldsforhandlingen beholder skyldneren rådigheten over sin forretning og sine formuesforhold for øvrig, men under gjeldsnemndas tilsyn. Skyldneren plikter å gi gjeldsnemnda full adgang til å føre tilsyn med sin forretningsførsel og sine økonomiske forhold, og å rette seg etter de pålegg nemnda gir i denne forbindelse.
+Skyldneren må ikke uten gjeldsnemndas tillatelse stifte eller fornye gjeld, foreta pantsettelse eller avhende eller leie bort sin faste eiendom, sine forretningslokaler eller noen formuesgjenstand av vesentlig betydning. Ved fornyelse av veksler eller gjeldsbrev skal anføres at underskriften meddeles «til fornyelse uten økt ansvar».
+Dersom skyldneren er næringsdrivende og virksomheten skal drives videre under gjeldsforhandlingen, plikter skyldneren å fremlegge et driftsbudsjett og en finansieringsplan for gjeldsnemnda.

@@ -1,0 +1,2 @@
+# § 166. Utenlandsk hovedinsolvensbehandlings virkning ved uberettiget oppfyllelse eller påbud til skyldneren
+Ved oppgjør i Norge av en fordring som tilkommer utenlandsk bo som nevnt i § 163 første ledd, kan boet bare påberope at skyldneren er uberettiget til å ta imot oppfyllelse dersom vilkårene i § 100 annet ledd er oppfylt. Tilsvarende gjelder ved avgivelse av påbud som nevnt i § 100 annet ledd. § 100 tredje ledd gjelder tilsvarende.

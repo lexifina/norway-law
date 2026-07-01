@@ -1,0 +1,4 @@
+# § 71. Utsettelse av rettsmøtet. Utveksling av prosesskriv.
+Retten kan ved kjennelse utsette behandlingen av en konkursbegjæring til et senere rettsmøte når den finner det nødvendig for at det kan bli innhentet ytterligere opplysninger, fordi det er grunn til å tro at skyldneren har gyldig fravær, eller av andre lignende grunner. Det nye rettsmøtet må normalt holdes innen en uke. Innkalling til møtet forkynnes for skyldneren og rekvirenten med minst to dagers varsel. Ny utsettelse kan bare besluttes hvor forholdene gjør det særlig påkrevd.
+Dersom retten finner at en begjæring om åpning av konkurs reiser faktiske eller rettslige spørsmål som bør utredes nærmere, kan den ved kjennelse beslutte at partene skal gis adgang til å inngi prosesskriv. Fristen for å inngi prosesskriv må normalt ikke være over fire dager, og samtlige prosesskriv bør være kommet inn til retten innen to uker.
+Rettens avgjørelser etter denne paragraf kan ikke angripes ved anke.

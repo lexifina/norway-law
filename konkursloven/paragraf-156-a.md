@@ -1,0 +1,2 @@
+# § 156 a. Abonnementsavtaler
+Føreren av Konkursregisteret skal tilby abonnementsordninger for opplysninger som etter loven her skal kunngjøres i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon. Kongen kan i forskrift gi nærmere regler om ordningen, herunder om hvilke typer abonnement som skal tilbys, tekniske krav for å være abonnent og om finansiering. Kongen kan i forskrift også gi regler om at fordringshavere og offentlige myndigheter skal kunne abonnere på opplysninger fra elektroniske bosider hos Brønnøysundregistrene.

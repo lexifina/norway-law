@@ -1,0 +1,2 @@
+# § 61. Insolvens.
+Skyldneren er insolvent når denne ikke kan oppfylle sine forpliktelser etter hvert som de forfaller, medmindre betalingsudyktigheten må antas å være forbigående. Insolvens foreligger likevel ikke når skyldnerens eiendeler og inntekter tilsammen antas å kunne gi full dekning for skyldnerens forpliktelser, selv om oppfyllelsen av forpliktelsene vil bli forsinket ved at dekning må søkes ved salg av eiendelene.

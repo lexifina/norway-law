@@ -1,0 +1,2 @@
+# § 18a. Regnskapsførers og revisors bistandsplikt.
+Skyldnerens regnskapsfører og revisor plikter å utlevere til gjeldsnemnda regnskaper og regnskapsmateriale vedrørende skyldneren. Dette gjelder selv om honorar for utført arbeid ikke er betalt. Gjeldsnemndas krav på utlevering er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13. Regnskapsfører og revisor plikter også vederlagsfritt å bistå gjeldsnemnda med opplysninger om skyldnerens regnskaps- og forretningsførsel. Bistandsplikten etter denne paragrafen kan oppfylles uhindret av eventuell taushetsplikt.

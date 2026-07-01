@@ -1,0 +1,4 @@
+# § 117b. Abandonering.
+Bostyreren kan beslutte å oppheve konkursbeslaget i en eiendel som er uten økonomisk interesse for boet. Beslutningen gjennomføres ved at bostyreren avgir en skriftlig erklæring til skyldneren om at eiendelen er abandonert. Erklæringen skal angi tidspunktet for abandoneringen. Eiendelen skal fra dette tidspunkt stilles til skyldnerens rådighet. Skyldneren overtar risikoen for eiendelen fra abandoneringstidspunktet.
+Bostyreren bør varsle rettighetshavere i eiendelen før abandoneringen gjennomføres.
+Bostyreren kan omgjøre en abandoneringsbeslutning dersom skyldneren har gitt uriktige opplysninger eller tilbakeholdt opplysninger av betydning for beslutningen. Dette gjelder likevel ikke dersom tredjeperson har ervervet en rett til eiendelen. Bostyreren kan inndra et eventuelt overskudd som skyldneren oppnår ved salg eller bortleie av eiendelen eller på annet vis.

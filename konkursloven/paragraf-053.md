@@ -1,0 +1,4 @@
+# § 53. Melding om og kunngjøring av den stadfestede akkord.
+Dersom retten stadfester akkorden, skal gjeldsnemnda straks sende melding om dette til alle kjente fordringshavere som ikke er tilsagt full dekning.
+Når stadfestelseskjennelsen er blitt rettskraftig, skal gjeldsnemnda kunngjøre akkorden på den måte som er fastsatt i § 35 annet ledd og sørge for at melding etter § 36 første ledd nr. 1, 2 og 3 blir slettet, og at melding om avslutning av forhandlingen om tvangsakkord blir registrert i Foretaksregisteret dersom skyldnerens foretaksnavn er innført der.
+Dersom akkorden innebærer at pantheftelser som er registrert i et rettsvernsregister helt eller delvis bortfaller, skal gjeldsnemnda straks stadfestelsen er rettskraftig, sørge for at kjennelsen registreres. Ved håndpant eller ved pant i enkle krav skal melding om bortfallet gis til den som besitter pantet eller til skyldneren for kravet.

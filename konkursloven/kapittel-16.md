@@ -1,0 +1,1 @@
+# Kapittel XVI. Konkursens avslutning.

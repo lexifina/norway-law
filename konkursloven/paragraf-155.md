@@ -1,0 +1,2 @@
+# § 155. Skyldnerens voldgiftsavtaler.
+Tvisteloven § 16-16 første ledd bokstav c gjelder tilsvarende hvor skyldneren er part i en voldgiftssak i Norge som er begynt før konkursåpningen. Gjelder saken krav mot skyldneren, kan boet trekkes inn som part dersom kravet gjøres gjeldende mot boet. For øvrig er skyldnerens avtaler om voldgift ikke bindende i saker som nevnt i § 145 første ledd med mindre annet følger av overenskomst med fremmed stat.

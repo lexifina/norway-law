@@ -1,0 +1,5 @@
+# § 117c. Overføring til panthaver.
+Bostyreren kan overføre en pantsatt eiendel som er uten økonomisk interesse for boet til en panthaver som samtykker i dette.
+Overføringen skal skje til pantets antatte markedsverdi på overføringstidspunktet. Bostyreren foretar verdsettelsen og kan velge å legge til grunn det et salg av pantet innbringer. Verdsettelsen legges til grunn for beregning av panthavernes krav på dividende etter dekningsloven § 8-14 og for avregningen i skyldnerens gjeld til panthaveren.
+Ønsker flere panthavere eiendelen overført til seg, skjer overføringen til den av panthaverne som har den dårligste prioritet innenfor eiendelens antatte markedsverdi på overføringstidspunktet.
+Overføringen gjennomføres ved at bostyreren avgir en skriftlig erklæring til panthaveren om at eiendelen er overført. Erklæringen skal angi tidspunktet for overføringen. Eiendelen skal fra dette tidspunktet stilles til panthaverens disposisjon. Panthaveren overtar risikoen for eiendelen fra overføringstidspunktet. Omkostninger som påløper i forbindelse med overføringen, herunder krav på offentlige gebyrer og avgifter, dekkes av panthaveren.

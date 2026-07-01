@@ -1,0 +1,5 @@
+# § 67. Forskuddsbetaling av beløp til sikkerhet for omkostningene ved bobehandlingen.
+Den som begjærer konkurs åpnet etter §§ 60 til 63, skal ved innlevering av konkursbegjæringen betale inn til tingretten et beløp som tilsvarer det maksimale ansvar for kostnadene ved bobehandlingen etter § 73. Beløpet tjener som sikkerhet for dette ansvaret, og kan dessuten brukes til dekning av kostnader som påløper før realisering av boets eiendeler, dersom det blant skyldnerens midler ikke finnes tilstrekkelige rede midler til dette formål.
+Rettsgebyrloven § 3 tredje og sjette ledd og § 5 annet ledd gjelder tilsvarende.
+Retten kan gjøre unntak fra regelen om sikkerhetsstillelse etter første ledd når konkurs begjæres åpnet av offentlig myndighet eller det ellers må antas å foreligge en vesentlig offentlig interesse i at konkurs blir åpnet.
+Det skal ikke stilles sikkerhet etter første ledd når konkurs begjæres åpnet av skyldneren eller en arbeidstaker med fortrinnsberettiget fordring etter dekningsloven § 9-3 eller et dekningsberettiget krav etter lønnsgarantiloven § 1 fjerde ledd nr. 1 og nr. 2 første punktum.

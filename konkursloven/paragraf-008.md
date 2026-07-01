@@ -1,0 +1,5 @@
+# § 8. Representant for de ansatte som medlem av gjeldsnemnda.
+Etter krav fra et flertall av de ansatte i skyldnerens næringsvirksomhet skal retten oppnevne en representant for de ansatte som medlem av gjeldsnemnda. Det samme gjelder når slikt krav fremsettes av en lokal fagforening som organiserer et flertall av de ansatte i virksomheten eller av flere lokale fagforeninger som til sammen organiserer et flertall av de ansatte.
+Når kjennelse om åpning av gjeldsforhandling er avsagt, skal retten snarest mulig underrette de ansatte i skyldnerens næringsvirksomhet om deres rettigheter etter reglene i første ledd.
+Retten kan likevel etter en vurdering av boets stilling, utsiktene for videre drift og omstendighetene for øvrig unnlate å oppnevne slik representant. Retten skal i så fall på forhånd innhente uttalelse fra de medlemmer av gjeldsnemnda som er oppnevnt på dette tidspunkt.
+Kongen kan ved forskrift eller vedtak i det enkelte tilfelle gjøre unntak fra regelen i denne paragraf og gi utfyllende forskrifter, herunder om reglenes anvendelse i konserner og konsernliknende forhold.

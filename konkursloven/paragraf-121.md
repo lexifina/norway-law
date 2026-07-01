@@ -1,0 +1,3 @@
+# § 121. Årsredegjørelse for bobehandlingen. Tingrettens kontroll.
+Dersom boet ikke er sluttet ett år etter oppnevning av bostyrer, skal bostyreren sende tingretten redegjørelse for bobehandlingen samt regnskap for boet. Hvis det er oppnevnt kreditorutvalg, skal regnskapet og redegjørelsen på forhånd forelegges for kreditorutvalgets medlemmer, som ved påtegning skal gi uttrykk for de merknader de finner å måtte gjøre. Regnskapet skal også forelegges en eventuell revisor.
+Redegjørelse og regnskap som nevnt i foregående ledd skal alltid gis ved bostyrerskifte og for øvrig etter rettens bestemmelse, likevel minst hvert år. Retten kan ellers når som helst forlange at bostyreren og kreditorutvalgets medlemmer gir fulle opplysninger om bobehandlingen.

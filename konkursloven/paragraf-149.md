@@ -1,0 +1,7 @@
+# § 149. Alminnelige regler om tingrettens saksbehandling m v.
+Bestemmelsene i tvisteloven første, fjerde, femte og sjette del, kapittel 8 og §§ 9-6, 9-11 og 9-16 får tilsvarende anvendelse så langt de passer og ikke annet er bestemt. Med hensyn til vitners og sakkyndiges møteplikt gjelder samme regler som under hovedforhandling i sivile tvister.
+For adgangen til å opptre som prosessfullmektig under gjeldsforhandling og konkurs gjelder tvisteloven § 3-3 første til fjerde ledd. Dessuten kan en inkassobevillingshaver hos en inkassator som driver inkassovirksomhet i medhold av inkassobevilling etter inkassoloven, være prosessfullmektig etter samme regler som advokater for en fordringshaver i inkassooppdrag som inkassatoren har for fordringshaveren. Ved begjæring om konkurs, ved behandling av tvister ved allmennprosess etter tvisteloven og ved anke gjelder tvisteloven § 3-3 første til tredje ledd.
+Retten kan ved konkursbehandling i særlige tilfeller beslutte bevisopptak etter tvisteloven kapittel 27 til avklaring av boets rettigheter eller forpliktelser. Retten avgjør hvem som skal varsles om slike bevisopptak.
+Før en tvist avgjøres, skal retten så vidt mulig gi partene anledning til å uttale seg, muntlig eller skriftlig.
+Forkynnelse for en fordringshaver kan under konkurs skje overfor den som har anmeldt fordringen eller opptrådt som fordringshaverens fullmektig ved prøving av fordringen.
+Skiftesamlingene er rettsmøter.
