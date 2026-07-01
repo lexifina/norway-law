@@ -1,0 +1,4 @@
+# § 5. Saksbehandling
+For konflikter mellom reindrift og øvrig landbruk sendes søknad med vedlagt dokumentasjon som nevnt i § 3 parallelt til kommunen og statsforvalteren som regional reindriftsmyndighet (lokale instanser). Disse legger opp til et administrativt samarbeid i saken og sender søknaden, hver for seg eller sammen, med sine uttalelser til Statsforvalteren i Trøndelag. Uttalelsene skal inneholde forslag til vilkår for å ivareta formålet med ordningen, og også forslag til kostnadsfordeling mellom Landbrukets Utviklingsfond og Reindriftens Utviklingsfond.
+De regionale konfliktråd kan i samarbeid med partene fremme søknad om tilskudd direkte for Statsforvalteren i Trøndelag.
+Ved oversendelse til Statsforvalteren i Trøndelag bør det foreligge forslag om kommune eller statsforvalter skal være lokal oppfølgingsinstans for prosjektet, jf. § 7 og § 8.
