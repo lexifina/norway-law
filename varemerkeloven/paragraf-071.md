@@ -1,0 +1,5 @@
+# § 71. Innsigelse
+Enhver kan innen tre måneder fra kunngjøringsdagen fremsette innsigelse mot at den internasjonale varemerkeregistreringen skal ha virkning i Norge. Om fremsettelse og kunngjøring av innsigelser gjelder § 26 tilsvarende. Om behandlingen av innsigelser gjelder §§ 27, 27 a og 28 tilsvarende.
+Hvis et registreringsvilkår etter §§ 14 til 16 ikke er oppfylt, skal Patentstyret beslutte at den internasjonale registreringen helt eller delvis ikke skal ha virkning i Norge hvis fristen etter § 70 tredje ledd annet punktum ikke er utløpt, eller Patentstyret innen utløpet av nevnte frist har gitt Det internasjonale byrået melding om at det kan bli innlevert innsigelse etter fristens utløp og melding om innsigelsen er oversendt innen en måned etter utløpet av innsigelsesfristen. § 29 første ledd annet og tredje punktum og § 29 a gjelder tilsvarende.
+Hvis registreringsvilkårene er oppfylt, skal Patentstyret forkaste innsigelsen.
+Innehaveren av den internasjonale registreringen og innsigeren skal gis melding om Patentstyrets avgjørelse i innsigelsessaker. Når saken er endelig avgjort, skal utfallet innføres i varemerkeregistret og kunngjøres.

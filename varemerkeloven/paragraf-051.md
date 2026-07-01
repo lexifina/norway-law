@@ -1,0 +1,6 @@
+# § 51. Behandling av klage
+Andre parter i saken skal snarest mulig gis melding om klagen med en rimelig frist for uttalelse.
+Er vilkårene for å behandle klagen oppfylt, kan Patentstyret oppheve eller endre avgjørelsen hvis det finner det klart at klagen vil føre frem. Blir det ikke truffet slik avgjørelse, skal saken forelegges for Klagenemnden. Gir Patentstyret en uttalelse til Klagenemnden, skal en kopi sendes til partene.
+Hvis vilkårene for å behandle klagen ikke er oppfylt, skal klageren gis en rimelig frist for uttalelse og om mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal klagen avvises hvis ikke Klagenemnden finner at det bør gis en ny frist for retting.
+Tas klagen under behandling, skal Klagenemnden foreta de undersøkelser som klagen gir grunn til. Den kan ta hensyn til forhold som ikke er berørt i klagen. Er klagen trukket tilbake, kan Klagenemnden fortsette behandlingen av saken hvis det foreligger særlige grunner for dette. Ved klage over avgjørelse av innsigelse eller krav om administrativ overprøving kan Klagenemnden likevel bare ta hensyn til forhold som er berørt i innsigelsen eller kravet. Ved administrativ overprøving kan klagebehandlingen ikke fortsette hvis klagen er trukket tilbake.
+Enhver kan kreve innsyn i dokumentene i klagesaker. Bestemmelsene i § 25 annet og tredje ledd gjelder tilsvarende.

@@ -1,0 +1,6 @@
+# § 70. Krav om at en internasjonal varemerkeregistrering skal ha virkning i Norge
+Når Patentstyret får melding fra Det internasjonale byrået med krav fra innehaveren om at en internasjonal varemerkeregistrering skal ha virkning i Norge, skal Patentstyret undersøke om registreringsvilkårene i §§ 14 til 16 er oppfylt.
+Er registreringsvilkårene oppfylt, skal Patentstyret innføre den internasjonale varemerkeregistreringen i varemerkeregistret og kunngjøre at den har virkning i Norge.
+Er registreringsvilkårene ikke oppfylt, skal Patentstyret helt eller delvis avslå å gi den internasjonale registreringen virkning i Norge. Avslag må meldes til Det internasjonale byrået innen 18 måneder etter at Patentstyret fikk melding som nevnt i første ledd.
+Ved avslag kan innehaveren av den internasjonale registreringen på de vilkårene som er fastsatt i forskrift, kreve at Patentstyret foretar en fornyet vurdering av spørsmålet om den internasjonale registreringen skal ha virkning i Norge.
+For Patentstyrets behandling av krav om at en internasjonal varemerkeregistrering skal ha virkning i Norge, gjelder § 23 tilsvarende. Hvis innehaveren av den internasjonale registreringen har påberopt prioritet, gjelder § 19.

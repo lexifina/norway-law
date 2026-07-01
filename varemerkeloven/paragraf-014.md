@@ -1,0 +1,7 @@
+# § 14. Alminnelige registreringsvilkår
+Et varemerke som skal registreres, må bestå av et tegn som kan beskyttes etter § 2, og som kan gjengis i varemerkeregisteret på en slik måte at myndighetene og allmennheten klart og tydelig kan avgjøre gjenstanden for den beskyttelse merkehaveren gis. Det må ha særpreg som kjennetegn for slike varer eller tjenester som det gjelder.
+Et varemerke kan ikke registreres hvis det utelukkende, eller bare med uvesentlige endringer eller tillegg, består av tegn eller angivelser som:
+a) angir varens eller tjenestens art, beskaffenhet, mengde, formål, verdi eller geografiske opprinnelse, tiden for fremstillingen av varen eller prestasjonen av tjenesten, eller andre egenskaper ved varen eller tjenesten, eller
+b) i alminnelig språkbruk eller etter lojal og etablert forretningsskikk utgjør sedvanlige betegnelser for varen eller tjenesten.
+Vilkårene i første og annet ledd må være oppfylt både på søknadsdagen og registreringsdagen. Ved vurderingen etter første ledd annet punktum og annet ledd skal det tas hensyn til alle omstendigheter som forelå på søknadsdagen, og særlig til virkninger av bruk av varemerket før dette tidspunktet.
+Et tegn som i næringsvirksomhet brukes for å angi den geografiske opprinnelsen for en vare eller tjeneste, kan uten hinder av annet ledd bokstav a registreres som fellesmerke eller garanti- eller kontrollmerke. Et tegn som søkes registrert som fellesmerke eller garanti- eller kontrollmerke, må oppfylle kravene i § 1 annet ledd.

@@ -1,0 +1,3 @@
+# § 54. Lisens
+En merkehaver eller innehaver av søknad om varemerkeregistrering kan gi en annen rett til å bruke varemerket i næringsvirksomhet (lisens). Lisenshaveren kan ikke overdra retten videre hvis ikke annet er avtalt. Lisensen kan være eksklusiv eller ikke-eksklusiv, gjelde alle eller bare enkelte av de varene eller tjenestene merket er beskyttet for, og hele eller deler av riket.
+Merkehaveren kan påberope bestemmelsene i kapittel 8 overfor en lisenshaver som overtrer lisensavtalens bestemmelser om varigheten av lisensen, i hvilken utforming merket kan brukes, hvilke varer eller tjenester det kan brukes for, hvilket geografisk område merket kan brukes i, eller kvaliteten av de varer eller tjenester merket kan brukes for.

@@ -1,0 +1,5 @@
+# § 83. Ikraftsettings- og overgangsbestemmelser
+Loven gjelder fra den tid Kongen bestemmer. Fra samme tid som loven settes i kraft oppheves lov 3. mars 1961 nr. 4 om varemerker og lov 3. mars 1961 nr. 5 om fellesmerker.
+§ 32 første punktum gjelder bare for søknader som leveres etter at loven her har trådt i kraft.
+Søknader om registrering av varemerke og fellesmerker som er innlevert før loven trer i kraft, skal anses å oppfylle kravene til søknadens innhold dersom bestemmelsene om dette i lov 3. mars 1961 nr. 4 om varemerker og lov 3. mars 1961 nr. 5 om fellesmerker med forskrifter er oppfylt.
+Registrering av varemerke eller fellesmerke som er skjedd før loven trer i kraft, kan bare oppheves etter innsigelse eller settes til side som ugyldig i den utstrekning det ville vært grunnlag for det etter lov 3. mars 1961 nr. 4 om varemerker og lov 3. mars 1961 nr. 5 om fellesmerker. Reglene om sletting i §§ 36, 37, 42 og 43 gjelder likevel også for registreringer som har skjedd før loven trer i kraft. For øvrig gjelder loven også for registreringer som har skjedd før ikrafttredelsen.

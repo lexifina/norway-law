@@ -1,0 +1,3 @@
+# § 44. Virkningen av avgjørelser om ugyldighet eller sletting
+En rettskraftig dom eller endelig avgjørelse fra Patentstyret om å sette en registrering helt eller delvis til side som ugyldig, har virkning allerede fra den dag søknaden om registrering ble innlevert.
+En rettskraftig dom eller endelig avgjørelse fra Patentstyret om helt eller delvis å slette en registrering har virkning fra det tidspunktet da søksmål ble reist eller krav om sletting innlevert til Patentstyret. Etter krav fra en part i saken kan det likevel fastsettes i en dom eller avgjørelse som bygger på § 36 at avgjørelsen skal ha virkning fra et tidligere tidspunkt da et grunnlag for sletting forelå.

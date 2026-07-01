@@ -1,0 +1,2 @@
+# § 11. Gjengivelse av varemerke i oppslagsverk
+Gir gjengivelsen av et varemerke i leksikon, ordbok eller lignende oppslagsverk i trykt eller elektronisk form inntrykk av at merket utgjør en alminnelige betegnelse for de varer eller tjenester det er registrert for, skal utgiveren av verket, etter krav fra merkehaveren, snarest mulig påse at det sammen med gjengivelsen angis at det er et registrert varemerke. For trykte verk skal dette fremgå senest i neste utgave.
