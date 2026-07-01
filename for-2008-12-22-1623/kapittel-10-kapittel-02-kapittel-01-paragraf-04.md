@@ -1,0 +1,5 @@
+# Artikkel 4 Krav til sporbarhet for importerte frø og spirer
+1) Forsendelser av frø beregnet på produksjon av spirer og forsendelser av spirer skal, når de importeres til Unionen, ledsages av et sertifikat som fastsatt i artikkel 3 i forordning (EU) nr. 211/2013.
+2) Den driftsansvarlige for næringsmiddelforetaket som importerer frø eller spirer skal oppbevare sertifikatet nevnt i nr. 1 i tilstrekkelig lang tid etter at det kan antas at spirene er konsumert.
+3) Alle driftsansvarlige for næringsmiddelforetak som håndterer importerte frø beregnet på produksjon av spirer skal framlegge kopier av sertifikatet nevnt i nr. 1 til alle driftsansvarlige for næringsmiddelforetak som frøene sendes til, fram til disse frøene mottas av produsenten av spirer.
+Dersom frø beregnet på produksjon av spirer selges i emballasje i detaljistleddet, skal alle driftsansvarlige for næringsmiddelforetak som håndterer de importerte frøene framlegge kopier av sertifikatet nevnt i nr. 1 til alle driftsansvarlige for næringsmiddelforetak som frøene sendes til, fram til de emballeres for salg i detaljistleddet.

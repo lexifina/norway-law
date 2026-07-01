@@ -1,0 +1,4 @@
+# Artikkel 4 Prøving mot kriteriene
+1. Driftsansvarlige for næringsmiddelforetak skal utføre hensiktsmessig prøving mot de mikrobiologiske kriteriene som er fastsatt i vedlegg I, når de validerer eller kontrollerer om deres framgangsmåter basert på HACCP-prinsippene og god hygienepraksis fungerer korrekt.
+2. Driftsansvarlige for næringsmiddelforetak skal beslutte egnet prøvetakingsfrekvens, unntatt når det i vedlegg I er fastsatt spesifikke prøvetakingsfrekvenser, som i så tilfelle fastsetter at prøvetakingsfrekvensen skal være minst som fastsatt i vedlegg I. Driftsansvarlige for næringsmiddelforetak skal treffe en slik beslutning innenfor rammen av framgangsmåtene basert på HACCP-prinsippene og god hygienepraksis, idet det tas hensyn til bruksanvisningene for næringsmidlene.
+Prøvetakingsfrekvensen kan tilpasses næringsmiddelforetakenes karakter og størrelse, forutsatt at næringsmiddeltryggheten ivaretas.

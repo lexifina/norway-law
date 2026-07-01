@@ -1,0 +1,5 @@
+# Kapittel VI Næringsmiddelavfall
+1) Næringsmiddelavfall, uspiselige biprodukter og annet avfall skal så raskt som mulig fjernes fra lokaler der det finnes næringsmidler, for å unngå at de hoper seg opp.
+2) Næringsmiddelavfall, uspiselige biprodukter og annet avfall skal plasseres i beholdere som kan lukkes, med mindre driftsansvarlige for næringsmiddelforetaket kan godtgjøre overfor vedkommende myndighet at andre typer beholdere eller andre systemer for å fjerne avfall som benyttes, egner seg like godt. Disse beholderne skal ha en hensiktsmessig konstruksjon, holdes i god stand, være lette å rengjøre og, når det er nødvendig, desinfisere.
+3) Det skal være egnede muligheter til å lagre og disponere næringsmiddelavfall, uspiselige biprodukter og annet avfall. De stedene der avfall lagres, skal være utformet og brukes på en slik måte at de kan holdes rene, og, når det er nødvendig, frie for dyr og skadedyr.
+4) Alt avfall skal fjernes på en hygienisk og miljøvennlig måte i samsvar med gjeldende EØS-regelverk, og skal ikke utgjøre en direkte eller indirekte kilde til forurensning.

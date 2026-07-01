@@ -1,0 +1,2 @@
+# Artikkel 10 Gjennomgåelse
+Denne forordning skal gjennomgås på nytt idet tas hensyn til vitenskapelige, teknologiske og metodologiske framskritt, nye sykdomsframkallende mikroorganismer i næringsmidler og opplysninger som framkommer som følge av risikovurderinger. Det er særlig kriterier og vilkår for forekomst av salmonella i skrotter av storfe, sauer, geiter, hester, svin og fjørfe som skal gjennomgås på nytt i lys av konstaterte endringer i salmonellaprevalensen.
