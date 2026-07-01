@@ -1,0 +1,4 @@
+# § 88. Kreditorutvalgets oppgaver.
+Kreditorutvalget skal sammen med bostyreren vareta fordringshavernes felles interesser overfor den enkelte fordringshaver og overfor tredjeperson. Så langt det er forenlig med disse interessene, skal det i samarbeid med offentlige myndigheter medvirke til at hensynet til berørte arbeidstakere og særlige samfunnsinteresser varetas under bobehandlingen.
+Utvalget skal videre føre tilsyn med bostyreren, og kan når som helst forlange innsyn i boets registrerte regnskapsopplysninger, regnskapsmateriale, bøker og papirer og kreve å få alle nødvendige opplysninger. Utvalgets medlemmer kan kreve nærmere angitte spørsmål om konkursbehandlingen forelagt for samlet bostyre til avgjørelse.
+Dersom utvalget på vesentlige punkter har innvendinger å gjøre mot bostyrerens forhold, skal det straks avgi innberetning til tingretten.

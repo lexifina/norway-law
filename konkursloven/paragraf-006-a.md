@@ -1,0 +1,2 @@
+# § 6a. Endring av gjeldsforhandlingen.
+Etter at gjeldsforhandling er åpnet, kan skyldneren begjære endring av forhandlingen dersom gjeldsnemnda samtykker. Samtykke er likevel ikke nødvendig ved begjæring om forhandling om tvangsakkord når forslag om frivillig gjeldsordning har fått tilslutning fra fordringshavere som representerer minst 3/4 av det samlede beløp som gir stemmerett. For øvrig gjelder reglene i §§ 2 og 4 tilsvarende for endringsbegjæringer.

@@ -1,0 +1,3 @@
+# § 6. Offentlighet ved gjeldsforhandling.
+Når forhandling om frivillig gjeldsordning er åpnet, skal gjeldsnemnda, hvis ikke retten beslutter å gjøre det selv, uten opphold kunngjøre åpningen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon. I særlige tilfeller kan retten likevel bestemme at kunngjøring skal unnlates. Åpning av forhandling om tvangsakkord kunngjøres i samsvar med reglene i § 35.
+Rettsmøter som holdes under forhandling om frivillig gjeldsordning eller tvangsakkord er offentlige. I særlige tilfeller kan retten likevel bestemme at rettsmøter under forhandling om frivillig gjeldsordning skal holdes for lukkede dører.

@@ -1,0 +1,5 @@
+# § 174. Fordringshavernes stilling der skyldneren er under insolvensbehandling i flere stater
+En fordringshaver kan anmelde sin fordring i norsk gjeldsforhandling eller konkurs etter loven her selv om den også anmeldes i utenlandsk insolvensbehandling som gjelder samme skyldner.
+En insolvensforvalter for utenlandsk insolvensbehandling kan anmelde en fordring som er anmeldt i denne i norsk gjeldsforhandling eller konkurs etter loven her som gjelder samme skyldner, hvis fordringshaveren ikke har motsatt seg dette eller trukket anmeldelsen av fordringen tilbake.
+En fordringshaver som har oppnådd dividende i en utenlandsk insolvensbehandling, deltar først i utlodningen i norsk konkurs når fordringshavere med samme prioritet i den norske konkursen har oppnådd tilsvarende dividende i denne.
+Dekkes alle fordringer i slik konkurs som nevnt i § 161 annet og tredje ledd fullt ut, skal bostyrer overføre overskuddet til insolvensforvalteren for den insolvensbehandlingen som omfatter skyldnerens samlede formue, såfremt denne ikke er avsluttet.

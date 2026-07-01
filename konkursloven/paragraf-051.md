@@ -1,0 +1,4 @@
+# § 51. Tilsyn med oppfyllelsen av akkorden.
+Dersom retten finner grunn til det, kan den sette som vilkår for stadfestelse at skyldneren underkaster seg tilsyn med oppfyllelse av akkorden.
+Tilsyn utøves av ett eller flere av gjeldsnemndas medlemmer eller av en eller flere andre personer som oppnevnes av retten. Tilsynet skal påse at skyldneren innretter sin forretningsførsel slik at skyldneren i rett tid får til rådighet de midler som trenges til å oppfylle akkorden og at skyldneren gjennomfører de tiltak som gjeldsnemnda har satt som vilkår for å anbefale akkorden. Tilsynet skal videre søke å hindre at noen fordringshaver får dekning til skade for andre. Skyldneren plikter å gi full adgang til tilsyn med sin forretningsførsel, og å rette seg etter de pålegg tilsynet i denne forbindelse gir.
+Bestemmelsene i §§ 10, 12 og 13 gjelder tilsvarende for tilsynet.

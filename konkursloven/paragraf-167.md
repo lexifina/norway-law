@@ -1,0 +1,2 @@
+# § 167. Virkninger av og fullbyrdelse av utenlandske insolvensrettslige avgjørelser
+Utenlandsk rettsavgjørelse som treffes i forbindelse med eller er nært knyttet til insolvensbehandling som nevnt i § 163 første ledd, og som ikke er i strid med §§ 164, 166 og 169, er bindende i Norge på samme måte som i åpningsstaten, og kan fullbyrdes her. Det samme gjelder utenlandsk rettsavgjørelse om rådighetsforbud som treffes etter at begjæring om åpning av insolvensbehandling som nevnt i § 163 første ledd er fremsatt, men før den er avgjort.

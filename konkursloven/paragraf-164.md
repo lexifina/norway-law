@@ -1,0 +1,10 @@
+# § 164. Utenlandsk hovedinsolvensbehandlings virkninger for eiendeler i Norge
+Utenlandsk insolvensbehandling som nevnt i § 163 første ledd har samme virkning for skyldnerens rett til å råde over sine eiendeler i Norge som insolvensbehandlingen har i den staten der den er åpnet. Det samme gjelder omfanget av det utenlandske boets beslagsrett overfor skyldneren. For øvrig kommer skyldnerens eiendeler i Norge i samme stilling ved slik insolvensbehandling som ved gjeldsforhandling eller konkurs som åpnes her, likevel slik at
+a) frivillig rettsstiftelse i eiendeler i Norge står seg overfor insolvensbehandlingen dersom slik rettsvernsakt som sikrer rettsstiftelsen vern ved norsk gjeldsforhandling eller konkurs, er besørget senest dagen før kunngjøring i Norge, og erververen ikke kjente eller burde kjenne til den utenlandske insolvensbehandlingen,
+b) fristdagen ved omstøtelse anses å være dagen åpningen av den utenlandske insolvensbehandlingen kunngjøres i Norge, og
+c) rettsvernet panterett, tilbakeholdsrett og annen sikkerhetsrett i eiendeler som tilhører skyldneren, og som befinner seg i Norge ved åpningen av insolvensbehandlingen, ikke berøres, med mindre boet har rett til omstøtelse.
+Norsk rett avgjør også
+a) om en frivillig rettsstiftelse har rettsvern overfor en utenlandsk insolvensbehandling som omhandlet i § 163 første ledd, dersom eiendelen befant seg i Norge på tidspunktet for rettsstiftelsen,
+b) om en frivillig disposisjon kan omstøtes ved utenlandsk insolvensbehandling som omhandlet i § 163 første ledd, dersom eiendelen befant seg her på tidspunktet for disposisjonen,
+c) om skyldnerens medkontrahent overfor det utenlandske boet har rett til å stanse, heve eller holde tilbake egen ytelse, dersom den aktuelle eiendelen befant seg her da beføyelsen ble påberopt. Det samme gjelder ved salgspant og rett som likestilles med salgspant.
+Første ledd er ikke til hinder for åpning av konkurs som omhandlet i § 161 tredje ledd, og gjelder med de begrensninger som følger av slik konkurs eller av konkurs som nevnt i § 161 annet ledd.

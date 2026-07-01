@@ -1,0 +1,4 @@
+# § 109. Oppfordring til anmeldelse. Frist.
+I kunngjøringen av at konkurs er åpnet, skal retten oppfordre skyldnerens fordringshavere til skriftlig å melde sine fordringer til bostyreren innen en nærmere angitt frist. Med anmeldelsen skal følge de dokumenter som tjener som bevis for fordringene, og opplysning skal gis om grunnlaget for fordringene, og de sikkerheter i skyldnerens eller tredjepersons eiendeler som måtte hefte for dem, og om hvorvidt det er solidarisk medforpliktede.
+Dersom konkursen blir åpnet i direkte fortsettelse av en gjeldsforhandling, jf lov om fordringshavernes dekningsrett § 1-4 sjette ledd, og fordringen under denne forhandlingen er meldt til gjeldsnemnda, er det ikke nødvendig å melde den på nytt. Opplysning om dette gis i kunngjøringen.
+Fristen for anmeldelse må være minst tre og høyst seks uker regnet fra den dag konkursåpningen ble kunngjort i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.

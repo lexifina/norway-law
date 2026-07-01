@@ -1,0 +1,3 @@
+# § 127. Foreløpige utlodninger.
+Når alle de fordringer som antas å være fortrinnsberettiget, og som er anmeldt innen anmeldelsesfristens utløp, er prøvd, skal utlodning skje for disse fordringers vedkommende så snart boet har midler til full betaling av dem. Fortrinnsberettigede fordringer av første klasse, jf. dekningsloven § 9-3, kan likevel utbetales uten utlodning når det åpenbart er dekning for fordringene.
+Når anmeldelsesfristen er utløpt og alle fordringer som skal prøves, er prøvd, kan retten på bostyrerens begjæring bestemme at en eller flere foreløpige utlodninger til de øvrige fordringshavere skal skje etter hvert som boet får de nødvendige midler.

@@ -1,0 +1,3 @@
+# § 96. Avstemningsregler.
+Vedtak på skiftesamlinger treffes ved alminnelig flertall regnet etter fordringsbeløp. Flertallets samlede tilgodehavende må likevel utgjøre minst 1/5 av det samlede beløp av de fordringer som gir stemmerett. Er stemmetallene regnet etter fordringsbeløp like, er antallet fordringshavere avgjørende.
+Ved avstemninger før fristen for anmeldelse av fordringer er utløpt, skal det tas hensyn til alle fordringer som retten eller bostyrets medlemmer har kjennskap til på avstemningstiden. Ved senere avstemninger skal det tas hensyn til alle fordringer anmeldt før fristens utløp, samt til fordringer anmeldt etter fristens utløp, men minst én uke før skiftesamlingen.

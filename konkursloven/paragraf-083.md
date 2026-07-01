@@ -1,0 +1,5 @@
+# § 83. Kreditorutvalg og bostyre.
+Dersom boets størrelse eller vanskelighetsgrad eller forholdene for øvrig tilsier det, skal retten oppnevne et kreditorutvalg på fra ett til tre medlemmer, som fortrinnsvis skal utvelges blant fordringshaverne eller deres representanter. I tilfeller som nevnt i § 84 skal det oppnevnes en representant for de ansatte som medlem av kreditorutvalget; kreditorutvalget kan i så fall bestå av inntil fire medlemmer.
+Kreditorutvalget utgjør sammen med bostyreren bostyret.
+Dersom retten ikke allerede har oppnevnt kreditorutvalg, jf. § 77, skal fordringshaverne gis anledning til å uttale seg på første skiftesamling i boet om det bør oppnevnes et kreditorutvalg og eventuelt om sammensetningen av utvalget. Retten bør også innhente bostyrerens syn på spørsmålet. Retten kan gjøre sin beslutning om oppnevnelse av et kreditorutvalg betinget av at den som oppnevnes, er villig til å påta seg vervet uten godtgjørelse.
+Rettens avgjørelser etter første ledd kan ikke angripes ved anke.

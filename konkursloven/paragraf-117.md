@@ -1,0 +1,4 @@
+# § 117. Realisering av boets eiendeler.
+Innenfor de grenser som næringslovgivningen setter, skal boets eiendeler realiseres på den måte som etter forholdene antas å ville gi størst utbytte. Bortsalg ved offentlig auksjon bør ikke skje med mindre det er grunn til å tro at det ved denne salgsmåte blir oppnådd bedre priser enn ved underhåndsalg.
+Salg av boets eiendeler til skyldneren eller til skyldnerens nærstående som nevnt i dekningsloven § 1-5 skal ikke skje før kunngjøring har funnet sted i avis eller i et egnet elektronisk medium. Fristen for å gi bud skal normalt ikke settes kortere enn en uke. Kunngjøring kan unnlates dersom særlige forhold gjør at det må anses uhensiktsmessig å kunngjøre salget.
+Reglene i § 17 annet ledd gjelder tilsvarende, likevel slik at fristen regnes fra fristdagen.

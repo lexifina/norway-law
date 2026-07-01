@@ -1,0 +1,2 @@
+# § 139. Fortsettelse av bobehandlingen.
+Retten kan ved kjennelse bestemme at en avsluttet bobehandling skal fortsette når det viser seg at krav eller eiendeler som skulle ha gått inn i boet, er holdt utenfor bobehandlingen uten at det kan bebreides boets vedkommende. Om ikke annet bestemmes av retten, har fortsettelsen av bobehandlingen ikke andre virkninger for skyldneren enn de som er nødvendige for at boet skal kunne gjøre gjeldende sine rettigheter. Retten bestemmer om og i tilfelle i hvilken utstrekning fortsettelsen av bobehandlingen skal kunngjøres.

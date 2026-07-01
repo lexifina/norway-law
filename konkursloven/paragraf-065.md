@@ -1,0 +1,2 @@
+# § 65. Konkurs som følge av skyldnerens pliktforsømmelse under oppfyllelse av en tvangsakkord.
+Dersom en skyldner som har fått tvangsakkord, og som er blitt undergitt tilsyn med oppfyllelse av akkorden, grovt eller gjentatte ganger har handlet mot sine plikter etter §§ 51 eller 54, skal retten åpne konkurs i skyldnerens bo etter begjæring av tilsynet når det ikke er klart at skyldneren likevel kan oppfylle akkorden.

@@ -1,0 +1,3 @@
+# § 31. Bortfall av pantheftelser.
+Ved tvangsakkord bortfaller pantheftelser som ligger utenfor pantets antatte verdi.
+Gjeldsnemnda foretar verdsettelsen av pantet. En panthaver med sikkerhet utenfor pantets antatte verdi kan bringe verdsettelsen inn for retten med begjæring om at det avholdes skiftetakst. Kostnadene ved skiftetaksten bæres av panthaveren dersom gjeldsnemndas verdsettelse opprettholdes eller endres med mindre enn 10 prosent. For øvrig gjelder arveloven § 106 annet til femte ledd tilsvarende. I særlige tilfeller kan retten fravike satsene for godtgjørelse av skjønnsmedlemmer som ellers gjelder ved skiftetakst.

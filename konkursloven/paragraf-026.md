@@ -1,0 +1,2 @@
+# § 26. Nytt forslag.
+Dersom forslaget til frivillig gjeldsordning ikke blir vedtatt, og skyldneren utarbeider et nytt forslag som gjeldsnemnda finner at det er god utsikt til å få vedtatt, skal nemnda sende det til fordringshaverne i samsvar med reglene i § 24, men uten de vedlegg som er nevnt i § 24 første ledd nr. 1 og 2. Reglene i § 25 gjelder tilsvarende. Ytterligere forslag kan ikke fremsettes.

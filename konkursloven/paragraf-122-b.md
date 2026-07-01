@@ -1,0 +1,2 @@
+# § 122b. Oppbevaring av skyldnerens regnskapsmateriale.
+Skyldnerens regnskapsmateriale kan makuleres dersom bostyreren finner at det ikke lenger har betydning for bobehandlingen. Før makulering skjer, skal bostyreren varsle skyldneren, påtalemyndigheten og skatte- og avgiftsmyndighetene om at regnskapsmaterialet vil bli makulert dersom ingen påtar seg å overta materialet innen en rimelig frist som fastsettes av bostyrer. Varsel bør også gis til andre fordringshavere som kan tenkes å ha interesse av å overta regnskapsmaterialet.

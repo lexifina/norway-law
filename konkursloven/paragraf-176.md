@@ -1,0 +1,5 @@
+# § 176. Overenskomster med fremmede stater om gjeldsforhandling og konkurs.
+Ved overenskomst med fremmed stat kan det vedtas at:
+1) gjeldsforhandling eller akkordforhandling som er åpnet i en av statene, skal kunne hindre åpning av gjeldsforhandling, akkordforhandling eller konkurs og innskrenke adgangen til tvangsfullbyrdelse i den annen stat, og at vedtatt gjeldsordning og rettskraftig stadfestet akkord, herunder akkord under konkurs, skal ha bindende virkning også i den annen stat;
+2) konkurs som er åpnet i en av statene, skal kunne hindre åpning av gjeldsforhandling, akkordforhandling eller konkurs i den annen stat, at konkursen skal ha direkte virkning for skyldnerens formue i den annen stat, og at rettskraftig sluttutlodning eller etterutlodning skal ha bindende virkning også i den annen stat.
+Det kan i overenskomsten fastsettes nærmere bestemmelser om hvilke av statenes rettsregler som skal gjelde for de spørsmål som oppstår under bobehandlingen, og i denne forbindelse foretas de tilpasninger av denne lov som er nødvendige.
