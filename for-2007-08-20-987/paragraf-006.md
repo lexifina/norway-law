@@ -1,0 +1,2 @@
+# § 6. Forpaktning
+Statskog SF kan ved avtale forpakte bort jakt, fangst og fiske i vassdrag med anadrom laksefisk for inntil 10 år til lokale organisasjoner eller lag, fortrinnsvis med fremme av fiske og jakt/fangst som formål. For mindre områder og i særlige tilfeller kan forpaktning skje til bedrifter, grupper og enkeltpersoner og på avvikende vilkår. Fiske i bortforpaktede vassdrag skal likevel være tillatt for allmennheten mot løsning av fiskekort.
