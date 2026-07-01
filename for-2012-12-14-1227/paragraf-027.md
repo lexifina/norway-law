@@ -1,0 +1,9 @@
+# § 27. Varslingsplikt ved kommunikasjonskontroll i Norge uten rettslig eller teknisk bistand
+Ved kommunikasjonskontroll uten teknisk bistand av personer som har en elektronisk kommunikasjonsadresse som benyttes i Norge, skal vedkommende stat varsle norske myndigheter.
+Varsel skal gis
+a) forut for kommunikasjonskontrollen i tilfeller der den som foretar kontrollen er kjent med at den som kontrollen er rettet mot befinner seg i Norge eller
+b) umiddelbart etter at den som foretar kontrollen er kjent med at den kontrollen gjelder befinner seg i Norge.
+Varsel om kommunikasjonskontroll etter denne bestemmelsen skal inneholde de opplysninger som følger av § 23 tredje ledd bokstav a, b og c. I tillegg skal varsel angi den forventede varigheten av kommunikasjonskontrollen og den straffbare handling som er under etterforskning.
+Sjefen eller den assisterende sjefen for Kripos kan treffe beslutning om å be om rettens samtykke til kommunikasjonskontroll, eventuelt selv treffe avgjørelsen om kommunikasjonskontroll i hastesaker. Straffeprosessloven § 216d annet ledd annet og tredje punktum gjelder tilsvarende. Kripos skal så snart som mulig og senest 96 timer etter at opplysningene som nevnt i tredje ledd forelå, underrette den anmodende stat om hvorvidt avlytting tillates.
+Kommunikasjonskontroll som er påbegynt kan fortsette inntil norske myndigheter har gitt samtykke til videre kommunikasjonskontroll eller krevd at kontrollen skal stanses. I sistnevnte tilfelle kan det materialet som allerede er fremkommet ikke benyttes med mindre annet er avtalt med norske myndigheter eller for å treffe hastetiltak for å hindre en overhengende og alvorlig trussel mot den offentlige sikkerhet. Norske myndigheter skal underrettes om slik bruk og grunnene for det.
+Når retten prøver om det er rettslig adgang til kommunikasjonskontroll, prøver den også om vilkårene etter denne bestemmelsen er oppfylt.

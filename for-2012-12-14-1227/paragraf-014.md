@@ -1,0 +1,4 @@
+# § 14. Avhør og bevisopptak ved norsk utenriksstasjon
+Begjæring fra påtalemyndigheten om avhør i utlandet ved norsk utenrikstjenestemann, jf. straffeprosessloven § 231, kan sendes direkte til vedkommende utenriksstasjon.
+Til bruk for avhøret bør det utarbeides en kortfattet fremstilling av saken. Det må opplyses hvilke personer som ønskes avhørt og hva de ønskes avhørt om. Dersom det i saksfremstillingen henvises til andre saksdokumenter, skal kopi av disse legges ved.
+I sak om forbrytelse eller forseelse i sjøfartsforhold eller om straffbar handling foretatt om bord på norsk skip bør det som regel anmodes om at forklaringen om mulig avgis som bevisopptak for konsulrett, jf. straffeprosessloven § 238. Begjæring om dette kan sendes direkte til vedkommende utenriksstasjon. Sjøfartsdirektoratet skal orienteres om begjæringen.

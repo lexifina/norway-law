@@ -1,0 +1,5 @@
+# § 30. Anmodning fra fremmed stat om informasjon om bankkonti og transaksjoner samt overvåkning av transaksjoner
+Utenlandsk myndighet kan anmode om bistand til innhenting av bankopplysninger vedrørende en person som er under etterforskning i en straffesak i vedkommende stat, herunder
+a) informasjon om hvorvidt vedkommende er innehaver av, kontrollerer eller disponerer en eller flere bankkonti i Norge,
+b) nærmere opplysninger om spesifiserte bankkonti samt banktransaksjoner som er foretatt i et bestemt tidsrom, herunder utførlige opplysninger om avsender- eller mottakerkonti.
+En anmodning i medhold av protokoll av 16. oktober 2001 til konvensjonen om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater, skal angi hvorfor den anmodende myndighet mener det er sannsynlig at den informasjonen det er anmodet om har betydning for straffeforfølgningen av den straffbare handlingen. En slik anmodning skal også oppgi hvorfor det antas at banken i Norge har de relevante konti samt angi all tilgjengelig informasjon som kan forenkle behandlingen av anmodningen.
