@@ -1,0 +1,2 @@
+# § 143
+Kongen kan i forskrift bestemme at det etableres en prøveordning ved enkelte tingretter og lagmannsretter om bruk av fjernmøteteknologi ved saksforberedende rettsmøter og hovedforhandling i sivile saker, ved rettsmøter om inngåelse av rettsforlik, ved rettsmøter om varetektsfengsling etter straffeprosessloven, ved rettsmøter for behandling av tilståelsessaker etter straffeprosessloven § 248 og ved avhør av vitner, sakkyndige og bruk av tolker i straffesaker og sivile saker.

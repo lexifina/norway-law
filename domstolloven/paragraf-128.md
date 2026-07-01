@@ -1,0 +1,2 @@
+# § 128
+Når et rettsmøte holdes for lukkede dører, og retten finner at sakens opplysninger helt eller delvis av særlige grunner bør holdes hemmelig, inntil videre eller for bestandig, gir den ved kjennelse de tilstedeværende pålegg om det. Ved muntlige forhandlinger om bevisavskjæring av opplysninger som nevnt i straffeprosessloven § 216 i første ledd tredje punktum bokstav d første punktum, jf. § 216 m sjette ledd, skal de tilstedeværende bevare taushet om det som fremkommer der, frem til det eventuelt avsies kjennelse som tillater opplysningene ført som bevis.

@@ -1,0 +1,2 @@
+# § 55 h
+En midlertidig dommer, herunder dommerfullmektig og jordskiftedommerfullmektig, kan ikke sies opp eller forflyttes mot sin vilje og kan bare avskjediges etter rettergang og dom i den perioden konstitusjonen eller tilsettingen gjelder for. Dersom en konstitusjon eller tilsetting har vart i mer enn ett år, skal den midlertidige dommeren ha minst en måneds varsel før stillingen opphører. Etter utløpet av perioden fratrer midlertidige dommere uten oppsigelse eller avskjed.

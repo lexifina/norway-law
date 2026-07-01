@@ -1,0 +1,2 @@
+# § 163
+Det skrift som skal forkynnes kan overgis i lukket omslag. Omslaget må være forsynt med en bevitnelse, som angir, hvem som lar forkynningen utføre, og det, som ellers er nødvendig for å betegne skriftet, hvis ikke forkynningen foregår postalt etter § 163 a eller gjennom rekommandert brev etter § 178. Bevitnelsen gis av en offentlig tjenestemann eller en advokat, og omslaget lukkes med hans segl. § 162 andet led faar anvendelse.

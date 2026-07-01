@@ -1,0 +1,2 @@
+# § 196
+Naar en part eller hans lovlige stedfortræder eller procesfuldmægtig eller nogen anden, som forkyndelser og meddelelser kan rettes til efter §§ 191, 192, 194 eller 195, skifter bopæl under en sak, maa hans nye bopæl meldes for retten. Unnlates det, kan forkynning foregå på hans tidligere bopel etter § 163 a eller § 176, medmindre hans nye bopel på forhånd er kjent, eller det vites å være anledning til å forkynne på stadig arbeidssted.

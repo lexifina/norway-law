@@ -1,0 +1,3 @@
+# § 206
+Negter et vidne at avgi forklaring eller at avlægge forsikring, og det ikke opgir nogen grund eller bare opgir en grund, som er forkastet ved retskraftig kjendelse, kan det straffes med bøter og paalegges helt eller delvis at erstatte de omkostninger, som er voldt. Straffes med bøter kan dessuten den som i en sak om utlegg eller arrest unnlater å gi namsmyndigheten opplysninger som vedkommende er pålagt å gi etter tvangsfullbyrdelsesloven § 5-7 annet ledd.
+Straf og erstatningsansvar kan ikke ilægges mer end to ganger, om negtelsen gjentages i samme sak eller overfor væsentlig samme bevisgjenstand.

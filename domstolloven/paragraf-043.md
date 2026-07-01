@@ -1,0 +1,3 @@
+# § 43
+Enhver domstol, som skal avgjøre en sak, har ret til selv at opta de nødvendige bevis, hvis ikke andet er bestemt. I andre saker end straffesaker foregaar bevisoptagelsen efter reglerne i tvisteloven.
+En granskingskommisjon, et kontrollutvalg eller et annet særskilt organ som er oppnevnt av Kongen, Stortinget eller et departement eller en statsforvalter for å granske faktiske forhold med sikte på å avdekke lovbrudd eller kritikkverdige forhold, kan kreve bevisopptak ved domstolene etter § 44. Videre kan et forvaltningsorgan som ledd i forberedelsen av eller kontrollen med enkeltvedtak kreve slikt bevisopptak. Også i de her nevnte tilfelle gjelder reglene om bevisopptak i sivile tvister når ikke annet er bestemt ved lov.

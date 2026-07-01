@@ -1,0 +1,3 @@
+# § 176
+Negter de, som er nævnt i §§ 169-171, at ta imot skriftet paa vedkommendes vegne, eller er de hindret fra at gi underretning, eller findes der ikke nogen, som forkyndelsen kan foregaa for, skal stevnevidnet efterlate i lukket omslag en skriftlig meddelelse om, at skriftet kan hentes paa rettens kontor eller paa nærmeste poststed eller paa et andet høvelig sted.
+Er det sted, hvor forkyndelsen foregaar, stængt, eller er det av andre grunde hensigtsmæssig, skal stevnevidnet slaa meddelelsen op paa døren eller anbringe den paa anden iøinefaldende maate. Bor der folk i nærheten, bør han tillike underrette etpar av dem om forkyndelsen og opfordre dem til at gjøre vedkommende opmerksom paa den.

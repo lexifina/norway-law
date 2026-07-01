@@ -1,0 +1,6 @@
+# § 5
+I saker som etter lov skal avgjøres av Høyesteretts ankeutvalg, settes Høyesterett med tre dommere. Det kan bestemmes at slike saker skal avgjøres i avdeling med fem dommere.
+I andre saker enn etter første ledd første punktum settes Høyesterett med fem dommere.
+I særlig tidkrevende saker kan det bestemmes at ytterligere en eller to dommere følger forhandlingene og deltar i avgjørelsen i tilfelle forfall.
+I saker etter første og annet ledd som er av særlig viktighet, kan det bestemmes at saken, eller rettsspørsmål i den, skal avgjøres av Høyesterett i storkammer, satt med 11 dommere. Ved vurderingen skal det blant annet legges vekt på om det oppstår spørsmål om å sette til side en rettsoppfatning Høyesterett har lagt til grunn i en annen sak, eller om saken reiser spørsmål om konflikt mellom lover, provisoriske anordninger eller stortingsbeslutninger og Grunnloven eller bestemmelser Norge er bundet av i internasjonalt samarbeid. I helt særlige tilfeller kan det bestemmes at saken, eller rettsspørsmål i saken, skal avgjøres av Høyesterett i plenum, som da består av alle Høyesteretts dommere som ikke er ugilde eller har forfall.
+Får noen av rettens medlemmer forfall i saker etter fjerde ledd, kan retten avgjøre saken så lenge det er minst fem dommere tilbake. Er det ved avgjørelsen et like antall dommere, fratrer yngste dommer.

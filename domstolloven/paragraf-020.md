@@ -1,0 +1,2 @@
+# § 20
+Domstoladministrasjonen kan oppnevne en særskilt dommer til en eller flere bestemte straffesaker eller til å styre skjønn, ekspropriasjonssaker eller saker som reises under ett etter tvisteloven § 4-5 første ledd, når det er påkrevet fordi saken er vidløftig eller fordi forretningene bør ledes av samme dommer i flere domssokn. For skjønn, ekspropriasjonssaker og saker etter tvisteloven § 4-5 første ledd kan domstoladministrasjonen oppnevne et varamedlem som skal følge forhandlingene og tre inn i retten om lederen får forfall.
