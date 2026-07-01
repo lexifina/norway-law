@@ -1,0 +1,7 @@
+# § 28. Straff
+Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne loven eller vedtak gitt i medhold av loven, straffes med bøter eller fengsel inntil 1 år eller begge deler, såfremt forholdet ikke rammes av strengere straffebestemmelse. Under særlig skjerpende omstendigheter kan fengsel i inntil 2 år anvendes.
+Kongen kan i forskrift bestemme at bøtelegging, på stedet eller i ettertid, for overtredelser av nærmere angitt art kan skje ved forenklet forelegg etter faste bøtesatser. I slikt forelegg kan straffebudet og det straffbare forhold betegnes ved stikkord eller på lignende måte.
+Forelegg som er skrevet ut på stedet, faller bort dersom det ikke straks vedtas. Er siktede under 18 år, kan det gis en kort frist for vedtagelsen av forelegget. For forelegg som er skrevet ut i ettertid, gjelder straffeprosessloven § 256 nr. 5 tilsvarende. Slikt forelegg faller bort dersom det ikke vedtas innen fristen. Kongen kan gi nærmere forskrifter om fremgangsmåten når forelegget skrives ut i ettertid.
+Påtalemyndigheten kan til gunst for siktede oppheve et vedtatt forelegg.
+Polititjenestepersoner som ellers ikke har foreleggsmyndighet, kan gis myndighet til å utferdige forenklet forelegg.
+Kongen gir nærmere regler om bruk av forenklet forelegg etter denne paragrafen og fastsetter bøtesatser og subsidiær fengselsstraff for de overtredelser som ordningen skal omfatte.
