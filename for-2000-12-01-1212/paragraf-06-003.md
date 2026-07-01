@@ -1,0 +1,2 @@
+# § 6-3. Avsetningsgrunnlag ved inngåelse av avtale om investeringsvalg
+(1) Dersom pensjonsinnretningen har endret grunnlaget for beregning av kapitalverdier slik at pensjonsinnretningen må foreta forhøyede avsetninger for tidligere overtatte forsikringer, skal midlene som angitt i foretakspensjonsloven § 4-7a første ledd tredje punktum og § 4-7b første ledd tredje punktum svare til det nye avsetningskravet.

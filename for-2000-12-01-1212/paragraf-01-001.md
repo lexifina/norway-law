@@ -1,0 +1,3 @@
+# § 1-1. Særlige opptjeningsaldre
+(1) Lavere opptjeningsalder enn 67 år gjelder for følgende yrker:Opptjeningsalder 55 år:FlypiloterDykkereRedningsmenn på helikoptre som tjenestegjør på oljeinstallasjon til havsOpptjeningsalder 60 år:Flybesetningsmedlemmer unntatt piloterOpptjeningsalder 62 år:YrkessjåførerOpptjeningsalder 65 år:SykepleiereBergverksarbeidere under dagenKranførereFørere av gravemaskiner og bulldoserkjørereYrkesakkvisitører i forsikringReisende (selgere)ReingjetereAnsatte på faste oljeinstallasjoner til havsSjåførlærere
+(2) For andre yrker kan Finansdepartementet i henhold til lovens § 4-1 tredje ledd fastsette lavere opptjeningsalder i særlige tilfelle når lovens vilkår er oppfylt.

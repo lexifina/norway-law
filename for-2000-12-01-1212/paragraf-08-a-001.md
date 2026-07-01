@@ -1,0 +1,2 @@
+# § 8A-1. Informasjon om reglene om redusert utbetalingstid
+Pensjonsinnretningen skal i løpet av det året arbeidstaker fyller 61 år, gi vedkommende informasjon om adgangen etter foretakspensjonsloven § 5-1 annet ledd til å kreve eller avtale reduksjon av utbetalingstiden for alderspensjon. Første punktum gjelder tilsvarende når pensjonsinnretningen mottar melding etter foretakspensjonsloven § 5-7 b om uttak av pensjon før nådd opptjeningsalder.
