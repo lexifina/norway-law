@@ -1,0 +1,3 @@
+# § 2. Definisjoner
+Med ulykke menes en uforutsigbar og akutt hendelse, som fører til at et større antall rein omkommer, og som ikke med rimelig innsats kunne vært forhindret av reineier. Dette kan eksempelvis være drukning, snøskred, raping og akutt sykdomsutbrudd. Tap som er forårsaket av låste beiter, nedslitte beiter, lavt slakteuttak eller av rovdyr regnes ikke som ulykke etter denne forskrift.
+Med flokkens størrelse før tap menes reintall ved siste offentlig kontrollerte telling. Dersom slik telling ikke er foretatt siste driftsår, legges reintallet i siste melding om reindrift til grunn. Dersom flere siidaandeler er involvert i samme ulykke refererer flokkens størrelse før tap til de berørte siidaandelenes samlede reintall, jf. første og andre punktum.
