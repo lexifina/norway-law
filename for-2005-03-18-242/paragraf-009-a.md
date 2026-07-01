@@ -1,0 +1,3 @@
+# § 9a. Godtgjøring ved fellingsforsøk
+Der forsøk på skadefelling utføres av kommunalt/interkommunalt oppnevnt fellingslag, kan kommunen utbetale godtgjøring til fellingslaget for den tid som er benyttet til fellingsforsøk. Deltakere som mottar godtgjøring etter ordningen må være registrerte lisensjegere, jf. § 15.
+Utbetalingen skjer på grunnlag av satser fastsatt av Klima- og miljødepartementet samt rapport fra fellingsleder om fellingsforsøket og den tid som er benyttet. Utbetalingen må ikke overskride de rammer som fremgår av statsforvalterens vedtak om felling. Statsforvalteren yter etter søknad tilskudd til kommunen til dekning av godtgjøring utbetalt etter vilkårene over.

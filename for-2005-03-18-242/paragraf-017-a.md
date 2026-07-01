@@ -1,0 +1,3 @@
+# § 17a. Varsling og rapportering av bruk av metoder ved skadefelling
+Den som ved skadefelling eller forsøk på skadefelling av gaupe, jerv, bjørn, ulv eller kongeørn tar i bruk synlig lys eller særskilte siktemidler, jf. viltressursloven § 26, eller luftfartøy, motorkjøretøy eller motorfartøy, jf. viltressursloven § 29, skal varsle grunneieren, politiet og kommunen før metodene brukes.
+Den som ved skadefelling eller forsøk på skadefelling av gaupe, jerv, bjørn, ulv eller kongeørn tar i bruk synlig lys eller særskilte siktemidler, jf. viltressursloven § 26, eller luftfartøy, motorkjøretøy eller motorfartøy, jf. viltressursloven § 29, skal rapportere bruken til den myndighet som har fattet avgjørelsen om uttak av det skadegjørende individ.
