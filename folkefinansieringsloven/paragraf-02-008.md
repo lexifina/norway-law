@@ -1,0 +1,3 @@
+# § 2-8. Forbud mot å ha ledelsesfunksjon
+(1) Dersom styremedlemmer, andre tillitsvalgte, oppdragstakere eller ansatte i et folkefinansieringsforetak eller i et foretak som utfører oppgaver for folkefinansieringsforetaket, har overtrådt eller medvirket til overtredelse av bestemmelser gitt i eller i medhold av denne loven, kan Finanstilsynet fatte vedtak om at vedkommende ikke kan ha ledelsesfunksjon i en tilbyder av folkefinansieringstjenester, hvis overtredelsen eller medvirkningen til denne medfører at vedkommende må anses uskikket til å ha en slik ledelsesfunksjon.
+(2) Departementet kan i forskrift gi nærmere regler om forbud mot å ha ledelsesfunksjon.
