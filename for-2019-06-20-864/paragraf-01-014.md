@@ -1,0 +1,4 @@
+# § 1-14. Innkreving av tilbakebetalings- eller avkortingsbeløp
+Differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling etter § 1-12 eller avkorting etter § 1-13, kan kreves tilbakebetalt fra tilskuddsmottakeren eller motregnes i senere tilskuddsutbetalinger.
+Krav fra reindriftsmyndighetene kan motregnes i tilskuddsutbetalinger til tilskuddsmottakeren.
+Dersom tilskuddsmottakeren ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet fram til mottaker. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetaling av det urettmessige tilskuddet. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av § 3 i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
