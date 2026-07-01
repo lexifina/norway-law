@@ -1,0 +1,3 @@
+# § 8 d. Handsaming av personopplysningar for forsking, statistikk og analysar
+Husbanken kan utan hinder av teieplikt handsame opplysningar som er henta inn i medhald av denne lova, medrekna personopplysningar som nemnt i personvernforordninga artikkel 9, når det er nødvendig for forsking, statistikk og analysar for føremåla i husbanklova § 1. Husbanken kan lagre desse opplysningane for seinare bruk i forsking. Handsaminga skal vere underlagd garantiar som nemnt i personvernforordninga artikkel 89 nr. 1.
+Departementet kan gje forskrift om utlevering, innhenting, samanstilling og anna handsaming av personopplysningar frå den statlege bustøtta og andre kjelder til forsking, statistikk og analysar.
