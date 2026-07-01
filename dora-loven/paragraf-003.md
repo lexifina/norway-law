@@ -1,0 +1,5 @@
+# § 3. Tilsyn mv.
+(1) Finanstilsynet er nasjonal tilsynsmyndighet etter DORA-forordningen og fører tilsyn med overholdelse av bestemmelser gitt i eller i medhold av denne loven.
+(2) Departementet kan i forskrift fastsette utfyllende krav til rapportering, register over IKT-tjenesteavtaler og annen informasjon som foretak omfattet av §§ 1 eller 2 skal gi Finanstilsynet om inngåtte og planlagte avtaler om bruk av tjenester fra IKT-leverandører.
+(3) Departementet kan i forskrift fastsette bestemmelser om rapportering av hendelser og deling av informasjon til andre varslingsmottakere enn Finanstilsynet.
+(4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorganer i henhold til DORA-forordningen artikkel 26. Departementet kan i forskrift også fastsette bestemmelser om fordeling av myndighetsorganers utgifter knyttet til TLPT mellom foretak som pålegges å gjennomføre slik testing, herunder bestemmelser om innkreving og betaling av slike bidrag til kostnadsdekning. Ilagte bidrag er tvangsgrunnlag for utlegg.

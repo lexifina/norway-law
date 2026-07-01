@@ -1,0 +1,21 @@
+# § 4. Overtredelsesgebyr
+(1) Finanstilsynet kan ilegge fysiske personer eller foretak overtredelsesgebyr på inntil 50 millioner kroner ved overtredelse av følgende bestemmelser i DORA-forordningen:
+a) artikkel 5 om forvaltning og organisasjon,
+b) artikkel 6 om rammeverk for IKT-risikostyring,
+c) artikkel 8 om identifisering av IKT-relaterte funksjoner og avhengigheter,
+d) artikkel 9 nr. 4 om retningslinjer for sikkerhet mv. som del av rammeverket for IKT-risikostyring, jf. artikkel 6,
+e) artikkel 11 om respons og gjenoppretting,
+f) artikkel 12 om retningslinjer og prosedyrer for sikkerhetskopiering og gjenoppretting,
+g) artikkel 14 om planer for krisekommunikasjon,
+h) artikkel 16 nr. 1 og 2 om forenklet rammeverk for IKT-risikostyring,
+i) artikkel 17 om prosess for håndtering av IKT-relaterte hendelser,
+j) artikkel 19 nr. 1, 3 og 4 om rapportering av alvorlige IKT-relaterte hendelser,
+k) artikkel 24 om generelle krav til gjennomføringen av testing av digital operasjonell motstandsdyktighet,
+l) artikkel 25 nr. 2 om sårbarhetsvurderinger før bruk av nye systemer i verdipapirsentraler og sentrale motparter,
+m) artikkel 28 om generelle prinsipper for forsvarlig styring av IKT-tredjepartsrisiko,
+n) artikkel 42 nr. 3 annet avsnitt om hensyntaken til risiko avdekket hos IKT-leverandører.
+Første punktum gjelder tilsvarende ved overtredelse av forskrifter som gjennomfører tekniske reguleringsstandarder fastsatt etter DORA-forordningen artikkel 15 og artikkel 16 nr. 3.
+(2) Medvirkning til overtredelse som nevnt i første ledd, kan sanksjoneres på samme måte.
+(3) Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, forsettlig eller uaktsomt har begått en overtredelse som nevnt i første eller annet ledd.
+(4) Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen er opphørt. Fristen avbrytes ved at Finanstilsynet gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr.
+(5) Departementet kan i forskrift fastsette bestemmelser til utfylling og avgrensning av paragrafen her, og renter ved forsinket betaling av overtredelsesgebyret. Departementet kan i forskrift fastsette at den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt i medhold av loven, kan ilegges overtredelsesgebyr.
