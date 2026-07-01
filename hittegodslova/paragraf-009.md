@@ -1,0 +1,5 @@
+# § 9
+Finnaren kan nekta å gjeva hittegodset frå seg til eigaren før eigaren har svara ei høveleg finnarløn og den kostnaden som finnaren har havt med godset. Vert ikkje partane samde, fastset politiet kor mykje finnaren skal ha. For slikt gods som er nemnt i § 3, kan det ikkje krevjast finnarløn.
+Hittegods som politiet har teke vare på, skal eigaren berre få att mot å yta så stor finnarløn som politiet fastset, så nær som når det gjeld gods som nemnt i § 3 eller det er gjeve avkall på finnarløn eller finnaren samtykkjer.
+Når finnarløn vert fastsett, skal det takast omsyn til kva slag gods det gjeld, kva verde det har, kva stad det er funne og andre omstende i samband med funnet. Finnarløn bør vanleg ikkje setjast til meir enn 20 prosent og ikkje over kr. 15 når verdet på godset er kr. 100 eller mindre, 15 prosent, men ikkje over kr. 50 på større verde til det kjem opp i kr. 500 og ikkje meir enn 10 prosent når verdet er over kr. 500.
+Finnarløn som politiet har godskrive finnaren, skal gå til statskassa om finnaren ikkje melder seg og krev pengane innan 3 månader etter at han har fått varsel.
