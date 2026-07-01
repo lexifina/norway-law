@@ -1,0 +1,3 @@
+# § 14. Krav til ledelse og kvalitetsforbedring
+Den som har det overordnede ansvaret for virksomheten ved kommunalt fastlegekontor har ansvar for at virksomheten planlegges, gjennomføres, evalueres og korrigeres i samsvar med krav fastsatt i eller i medhold av helse- og omsorgslovgivningen, jf. forskrift om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten §§ 3 og 4. Tilsvarende ansvar for sin virksomhet har også hver enkelt næringsdrivende fastlege. Dette gjelder også i tilfeller der flere næringsdrivende fastleger jobber i et kontorfellesskap/gruppepraksis.
+Fastlegens oppgaver følger av kapittel 5.

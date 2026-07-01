@@ -1,0 +1,3 @@
+# § 29. Fastlegens oppgaver overfor listeinnbyggere som oppholder seg i institusjon
+Blir en person som står på fastleges liste inntatt i en helse- og omsorgsinstitusjon eller annen institusjon med organisert legetjeneste, overføres ansvaret for å tilby og yte oppgaver etter § 21 til institusjonen. Vedkommende blir likevel stående på fastlegens liste, og fastlegen skal tilrettelegge allmennlegetilbudet ved utskrivning.
+Ved behov for oppfølging etter utskrivning plikter institusjonen å orientere fastlegen før utskrivning skjer. Institusjonen skal gi fastlegen epikrise ved utskrivning, jf. helsepersonelloven § 26.
