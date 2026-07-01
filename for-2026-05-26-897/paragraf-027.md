@@ -1,0 +1,7 @@
+# § 27. Rett til å oppnemne medlemmer av stipendkomitéane
+Medlemmer av stipendkomitéane blir oppnemnde av organisasjonar som representerer ein betydeleg del av dei yrkesaktive kunstnarane i den aktuelle kunstnargruppa, jf. § 32 andre ledd. Utvalet for Statens kunstnarstipend oppnemner medlemmer av stipendkomitéen for andre kunstnarar.
+Kunstnarar under grunnutdanning skal ikkje reknast blant dei yrkesaktive kunstnarane etter første ledd.
+Kulturdirektoratet avgjer om ein organisasjon er representativ etter første ledd, basert på søknad frå organisasjonen. Søknaden skal innehalde opplysningar om kor mange kunstnarar i den aktuelle gruppa organisasjonen representerer og gjere greie for dei kriteria organisasjonen har brukt for å definere den aktuelle kunstnargruppa.
+Dersom fleire organisasjonar har rett til å oppnemne etter første ledd, skal organisasjonane bli einige om kor mange medlemmer kvar organisasjon skal oppnemne.
+Kulturdirektoratet set fristen for semje etter fjerde ledd. Dersom organisasjonane ikkje blir samde, bestemmer Kulturdirektoratet kor mange medlemmer kvar organisasjon kan oppnemne. Ved vurderinga kan Kulturdirektoratet leggje vekt på kor stor del av dei yrkesaktive kunstnarane i kunstnargruppa kvar organisasjon representerer. Dersom fleire kunstnargrupper høyrer til same stipendkomité, kan Kulturdirektoratet òg leggje vekt på omsyn som sikrar at dei ulike kunstnargruppene blir forholdsmessig representerte i komitéen.
+Kulturdirektoratet sine avgjerder etter denne føresegna kan påklagast til Kultur- og likestillingsdepartementet.
