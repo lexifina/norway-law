@@ -1,0 +1,2 @@
+# § 7-6. Frigjørende betaling
+Utbetaling fra en skyldner til den som etter registeret er berettiget til å motta betaling på forfallstidspunktet i henhold til registerets innhold, er frigjørende for skyldneren, selv om mottakeren ikke hadde rett til å ta imot betaling. Dette gjelder ikke dersom skyldneren var eller burde ha vært kjent med betalingsmottakerens manglende rett da utbetalingen fant sted.

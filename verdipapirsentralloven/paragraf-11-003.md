@@ -1,0 +1,2 @@
+# § 11-3. Opplysningsplikt overfor Finanstilsynet
+Verdipapirsentraler og foretak i samme konsern har plikt til å gi de opplysningene som Finanstilsynet krever om forhold som angår foretakets virksomhet, samt til å fremvise og utlevere til Finanstilsynet dokumentasjon som angår virksomheten. Første punktum gjelder tilsvarende for kontoførere og andre som utfører arbeid eller oppdrag på vegne av en verdipapirsentral eller en kontofører.

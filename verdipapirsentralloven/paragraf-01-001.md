@@ -1,0 +1,5 @@
+# § 1-1. Gjennomføring av verdipapirsentralforordningen
+EØS-avtalen vedlegg IX forordning (EU) nr. 909/2014 (om forbedring av verdipapiroppgjør i Den europeiske union og om verdipapirsentraler samt om endring av direktiv 98/26/EF og 2014/65/EU og forordning (EU) nr. 236/2012 (verdipapirsentralforordningen)) som endret ved forordning (EU) 2022/2554, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren § 1, gjelder som lov med de tilpasninger som følger av vedlegg IX til avtalen, protokoll 1 til avtalen og avtalen for øvrig.
+Til gjennomføring av Norges forpliktelser etter EØS-avtalen kan departementet i forskrift gi regler om verdipapirsentraler og om verdipapiroppgjør. I forskriften kan det gjøres unntak fra bestemmelsene som er gjennomført etter første ledd.
+Finanstilsynet kan i forskrift gi bestemmelser om at rettslige og tilsynsmessige rammer i tredjestater er likeverdige.
+Når det i loven her vises til verdipapirsentralforordningen, menes forordningen slik den er gjennomført etter bestemmelsen her.

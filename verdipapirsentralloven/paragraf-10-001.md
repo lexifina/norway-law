@@ -1,0 +1,4 @@
+# § 10-1. Vedtak om oppløsning og avvikling
+Vedtak om å oppløse eller avvikle virksomheten i en verdipapirsentral treffes av generalforsamlingen med flertall som for vedtektsendring, med mindre noe annet følger av lov. Vedtaket skal oversendes til Finanstilsynet, som innen 30 virkedager etter mottak kan be om ytterligere informasjon om grunnlaget for og virkningene av vedtaket.
+Vedtak etter første ledd skal godkjennes av departementet, som kan sette vilkår for godkjennelsen. Dersom departementet ikke har truffet vedtak om noe annet innen tre måneder etter at Finanstilsynet mottok vedtaket og eventuell ytterligere informasjon, skal vedtaket anses som godkjent.
+Godkjente vedtak etter første og annet ledd skal offentliggjøres i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og minst to riksdekkende aviser.

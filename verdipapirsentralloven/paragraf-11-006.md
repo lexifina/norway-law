@@ -1,0 +1,2 @@
+# § 11-6. Pålegg om at stemmerettigheter til aksjer ikke kan utøves
+Dersom en aksjeeier som direkte eller indirekte kan øve innflytelse på en verdipapirsentrals ledelse etter verdipapirsentralforordningen artikkel 27 nr. 6, ikke oppfyller kravet om å være skikket etter nevnte bestemmelse eller ikke har underrettet verdipapirsentralen eller Finanstilsynet etter verdipapirsentralforordningen artikkel 27 nr. 7, kan Finanstilsynet gi pålegg om at stemmerettighetene til aksjene ikke kan utøves.
