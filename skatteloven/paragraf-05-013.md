@@ -1,0 +1,4 @@
+# § 5-13. Særlig om privat bruk av arbeidsgivers bil
+(1) Fordel ved privat bruk av arbeidsgivers bil fastsettes til 30 prosent av bilens listepris som ny, inntil et beløp fastsatt av departementet i forskrift, og 20 prosent av overskytende listepris. For biler eldre enn 3 år pr. 1. januar i inntektsåret, regnes det bare med 75 prosent av bilens listepris. Vederlag for bruk av arbeidsgivers bil påvirker ikke fordelsfastsettelsen. Tilsvarende gjelder når arbeidstaker selv dekker bilkostnader.
+(2) For privat bruk av arbeidsgivers bil som faller utenfor standardreglene, eller hvor listeprisen ikke står i forhold til fordelen ved den private bruken, gis reglene for forskuddstrekk tilsvarende anvendelse ved skattefastsettingen, jf. skattebetalingsloven § 5-8 annet ledd.
+(3) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf. Herunder kan det gis forskrift om særregler for biler med særlig omfattende yrkeskjøring og for el-biler.

@@ -1,0 +1,3 @@
+# § 16-23. Bestemmelser om kilde
+(1) Inntekt av arbeid om bord på norske skip i utenriks fart anses ikke å ha kilde i fremmed stat.
+(2) Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i petroleumsskatteloven § 1 første ledd i område som nevnt i petroleumsskatteloven § 1 første ledd a, b og d, anses ikke som inntekt med kilde i eller formue i fremmed stat. Inntekt vunnet ved og formue som knytter seg til virksomhet som nevnt i petroleumsskatteloven § 1 første ledd i område som nevnt i petroleumsskatteloven § 1 første ledd c, anses som inntekt med kilde i eller formue i fremmed stat.

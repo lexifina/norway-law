@@ -1,0 +1,3 @@
+# § 16-70. Skattefradrag for kildeskatt på renter og royalty mv. betalt av NOKUS-selskap
+(1) Skattyter som her i riket er skattepliktig for deltakelse i selskap som nevnt i §§ 10-60 til 10-68, kan kreve fradrag i inntektsskatt for en forholdsmessig del av den skatten selskapet har betalt etter reglene i §§ 10-80 til 10-82. Det gis ikke fradrag for et større beløp enn skattyterens forholdsmessige andel av den skatten som Norge i henhold til skatteavtale mellom Norge og selskapets hjemstat har rett til å ilegge.
+(2) Fradrag etter denne paragraf og § 16-71 skal foretas etter at eventuelt fradrag etter §§ 16-20 til 16-29 og §§ 16-30 til 16-33 er foretatt.

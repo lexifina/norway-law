@@ -1,0 +1,3 @@
+# § 4-54. Akvakultur- og fiskeritillatelser
+(1) Akvakulturtillatelser og fiskeritillatelser som er skattepliktig etter §§ 4-1 flg., regnes med til den skattepliktige formuen uten hensyn til når tillatelsen ble ervervet.
+(2) Ved verdsetting av ikke-børsnotert aksje etter § 4-12 annet ledd for inntektsåret 2022, tas det ved fastsetting av formuesverdien av akvakulturtillatelser utgangspunkt i oppnådde auksjonspriser per tonn MTB (maksimal tillatt biomasse) for vedkommende produksjonsområde i 2022. Tilsvarende gjelder for akvakulturtillatelser i produksjonsområde uten auksjon eller uten omsetning, der det tas utgangspunkt i auksjonspriser i nærliggende områder eller gjennomsnittlig auksjonspris vektet på total tonn MTB for alle områder.

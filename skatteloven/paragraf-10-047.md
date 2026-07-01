@@ -1,0 +1,7 @@
+# § 10-47. Særlig om utenlandsforhold
+(1) Personlig deltaker som på grunn av skatteavtale med fremmed stat eller på grunn av begrenset skatteplikt til riket, jf. § 2-3, ikke kan skattlegges her for hele sin del av selskapets inntekt i inntektsåret eller noen av de fire forutgående årene, kan kreve at tillegg i alminnelig inntekt etter § 10-42 begrenses forholdsmessig etter nærmere regler som departementet fastsetter i forskrift.
+(2) Personlig deltaker kan kreve at tillegg i alminnelig inntekt etter § 10-42 begrenses forholdsmessig også i andre tilfeller enn nevnt i første ledd, når det er åpenbart at utdelingen må anses tatt fra virksomhet som ikke er skattlagt i riket på grunn av skatteavtale med fremmed stat eller deltakerens begrensede skatteplikt til riket, jf. § 2-3.
+(3) Første og annet ledd gjelder tilsvarende når personlig deltakers dødsbo eller konkursbo mottar utdeling fra selskapet.
+(4) Krav etter første og annet ledd må dokumenteres på den måten departementet fastsetter i forskrift.
+(5) Krav etter første og annet ledd må fremsettes før utløpet av fristen for å levere skattemelding, eller om kravet ikke kan godtgjøres da, senest seks måneder etter at kravet kan godtgjøres. Kravet kan ikke under noen omstendighet fremsettes senere enn tre år etter inntektsåret.
+(6) Departementet kan i forskrift gi nærmere regler om fradrag for skjerming i utenlandsforhold, jf. § 10-42 tredje og femte ledd.

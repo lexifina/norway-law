@@ -1,0 +1,2 @@
+# § 10-61. Skatteplikt/fradragsrett for andel av selskapets eller innretningens resultat
+Eier m.v. som direkte eller indirekte eier eller kontrollerer selskap eller innretning som nevnt i § 10-60, er skattepliktig for sin forholdsmessige andel av selskapets eller innretningens overskudd, fastsatt etter reglene i § 10-65, uten hensyn til utdeling av verdier fra selskapet eller innretningen, jf. likevel § 10-64. Underskudd fastsatt etter de samme reglene, kan fremføres til fradrag i senere års inntekt fra selskapet. Reglene i § 14-6 gis anvendelse så langt de passer.

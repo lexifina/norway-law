@@ -1,0 +1,3 @@
+# § 14-65. Andel i selskap med deltakerfastsetting
+(1) For andel i selskap med deltakerfastsetting som tas inn i norsk beskatningsområde, får reglene i §§ 14-61 til 14-63 anvendelse for den forholdsmessige del av selskapets driftsmidler som andelen representerer.
+(2) For andel i selskap med deltakerfastsetting som tas ut av norsk beskatningsområde, får reglene i § 14-64 anvendelse for den forholdsmessige del av selskapets driftsmidler som andelen representerer. Fristen etter § 14-64 annet ledd regnes fra utgangen av det år driftsmidlet ble påbegynt avskrevet av selskapet. Ved inntektsoppgjøret etter § 14-64 tredje ledd skal bare medregnes foretatte avskrivninger i vedkommende deltakers eiertid.

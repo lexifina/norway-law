@@ -1,0 +1,1 @@
+# Selskaper med deltakerfastsetting

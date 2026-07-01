@@ -1,0 +1,2 @@
+# § 20-4. Andre inntekter
+Har skattyter andre skattepliktige inntekter enn nevnt i § 20-1, skal vedkommende skattlegges etter skattelovens alminnelige regler for alle inntekter. Skattlegging etter bestemmelsene i dette kapittel kan likevel kombineres med skatteplikt for kildeskatt på pensjon mv. jf. § 2-3 fjerde ledd, kildeskatt på utbytte jf. § 10-13 og med inntekt som skattlegges etter artistskatteloven.

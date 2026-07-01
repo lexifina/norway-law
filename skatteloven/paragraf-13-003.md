@@ -1,0 +1,4 @@
+# § 13-3. Bortfall eller oppgjør av generelle skatteposisjoner ved skattemotiverte transaksjoner
+Denne paragraf gjelder selskap eller sammenslutning som nevnt i § 2-2 første og annet ledd, og som har skatteposisjon uten tilknytning til eiendel eller gjeldspost. Dette omfatter blant annet skatteposisjoner som underskudd, tom positiv saldo og saldo på gevinst- og tapskonto. Når slikt selskap mv. er part i omorganisering etter kapittel 11 eller får endret eierforhold som følge av slik omorganisering eller annen transaksjon, og det er sannsynlig at utnyttelse av den generelle skatteposisjonen er det overveiende motiv for transaksjonen, skal skatteposisjonen
+a) falle bort dersom den representerer en skattefordel, eller
+b) inntektsføres uten rett til avregning mot underskudd dersom den representerer en skatteforpliktelse. Inntektsføringen kan heller ikke danne grunnlag for konsernbidrag.

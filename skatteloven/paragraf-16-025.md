@@ -1,0 +1,2 @@
+# § 16-25. Frist for fremsetting av krav om skattefradrag
+Krav om fradrag etter §§ 16-20 til 16-29 må fremsettes før utløpet av fristen for å levere skattemelding for det året inntekten fra utlandet er skattepliktig her i riket, eller om kravet ikke kan godtgjøres før, senest seks måneder etter at endelig skatt er fastsatt i utlandet. Kravet kan ikke under noen omstendighet fremsettes senere enn ti år etter utløpet av det året inntekten fra utlandet er skattepliktig her i riket.

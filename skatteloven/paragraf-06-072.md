@@ -1,0 +1,6 @@
+# § 6-72. Fradrag for tilskudd til utenlandsk pensjonsordning
+(1) Skattyter som har inntekt fra arbeid, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Arbeidsgiver gis fradrag for tilskudd til utenlandsk pensjonsordning som nevnt i første punktum. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter tjenestepensjonsloven § 4-7 første og annet ledd.
+(2) Skattyter som har inntekt fra virksomhet, gis fradrag for tilskudd til utenlandsk pensjonsordning vedkommende er medlem av ved etablering av skatteplikt til Norge. Fradrag for tilskudd til utenlandsk pensjonsordning etter denne bestemmelsen kan ikke overstige grensene for innskudd etter innskuddspensjonsloven § 2-3 annet ledd.
+(3) For personlig skattyter med begrenset skatteplikt etter § 2-3 gis det bare fradrag etter denne paragraf hvis hele eller tilnærmet hele skattyters inntekt fra arbeid eller virksomhet i inntektsåret skattlegges i Norge.
+(4) Der medlemskap i en utenlandsk pensjonsordning etter første eller annet ledd kombineres med medlemskap i en norsk tjenestepensjonsordning, gis kun fradrag for tilskudd til den norske ordningen, jf. §§ 6-46 og 6-47.
+(5) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.

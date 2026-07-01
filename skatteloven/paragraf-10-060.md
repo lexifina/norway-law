@@ -1,0 +1,2 @@
+# § 10-60. Anvendelsesområde for bestemmelsene om skattlegging av eiere av norsk-kontrollerte selskaper m.v. hjemmehørende i lavskattland
+Bestemmelsene i §§ 10-61 til 10-68 gjelder for deltaker i norsk-kontrollert aksjeselskap og likestilt selskap eller sammenslutning, jf. § 10-1, som er hjemmehørende i lavskattland. Reglene gjelder videre for skattyter som alene eller sammen med andre direkte eller indirekte kontrollerer annen selvstendig innretning eller formuesmasse hjemmehørende i lavskattland, og som skattyteren direkte eller indirekte har fordeler av.

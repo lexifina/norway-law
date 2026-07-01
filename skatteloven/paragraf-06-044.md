@@ -1,0 +1,4 @@
+# § 6-44. Reise mellom hjem og arbeidssted mv.
+(1) For reiser til hjem innenfor EØS-området gis fradrag for reise mellom hjem og arbeidssted og besøksreiser etter § 6-13 etter forskrift fastsatt av departementet med utgangspunkt i reiseavstand og reisehyppighet. Fradrag er begrenset til den del av beløpet som overstiger 12 000 kroner, og gis ikke for beløp som overstiger 120 000 kroner i året.
+(2) For reiser til hjem utenfor EØS-området gis fradrag for dokumenterte utgifter til transport med andre transportmidler enn privatbil. Når skattyter kan dokumentere bruk av privatbil til hjemreisen, gis fradrag for utgiftene ved dette etter satser fastsatt av departementet i forskrift. Beløpsgrensene i første ledd gjelder tilsvarende.
+(3) Departementet kan i forskrift gi regler om hva som skal anses som reise mellom hjem og arbeidssted, og hva som skal anses som yrkesreise.

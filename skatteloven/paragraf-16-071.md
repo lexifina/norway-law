@@ -1,0 +1,3 @@
+# § 16-71. Frem- og tilbakeføring av skattefradraget
+(1) Ubenyttet skattefradrag etter § 16-70 kan kreves fradratt i inntektsskatt i de fem påfølgende årene. Skattefradrag etter § 16-70 for et tidligere år fradras i sin helhet før det gis fradrag for senere år. Fremført skattefradrag gis etter at det er gitt fradrag for skatt som knytter seg til vedkommende inntektsår.
+(2) Ubenyttet skattefradrag etter § 16-70 kan tilbakeføres til fradrag i skatt i det foregående året. Tilbakeføring etter dette ledd er betinget av at skattyter sannsynliggjør at vedkommende i løpet av de fem påfølgende årene ikke vil bli skattepliktig her i riket.

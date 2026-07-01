@@ -1,0 +1,6 @@
+# § 2-14. Skattlegging av barns formue og inntekt
+(1) Når barn er 16 år eller yngre ved utløpet av inntektsåret, skattlegges barnets inntekt og formue med en halvpart på hver av foreldrene hvis foreldrene lever sammen ved utgangen av året. Foreldrene kan kreve en annen fordeling.
+(2) Lever ikke foreldrene sammen ved utgangen av året, skattlegges barnets inntekt og formue hos den av foreldrene som barnet er folkeregistrert sammen med på dette tidspunkt. Hvis denne av foreldrene ikke har hatt omsorgen for barnet det meste av året, kan vedkommende kreve at barnets formue og inntekt skattlegges hos den annen hvis sistnevnte har hatt omsorgen for barnet det meste av året.
+(3) Særkullsbarns formue og inntekt skattlegges med en halvpart hos hver av ektefellene. Den av ektefellene som ikke er barnets biologiske mor eller far og som heller ikke har adoptert barnet, kan kreve at barnets formue og inntekt skattlegges hos den andre ektefellen.
+(4) Barn som i inntektsåret er 13 år eller eldre, skattlegges likevel særskilt for sin arbeidsinntekt.
+(5) Barn som skattlegges sammen med foreldre etter reglene i første ledd, og som har mottatt engangserstatning eller annen ytelse som omfattes av § 4-22, kan skattlegges særskilt for formue og avkastning av ytelsen. Departementet kan gi forskrift til utfylling og gjennomføring av reglene i første punktum.

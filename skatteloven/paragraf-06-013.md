@@ -1,0 +1,5 @@
+# § 6-13. Opphold utenfor hjemmet
+(1) Skattyter som av hensyn til arbeidet må bo utenfor hjemmet, gis fradrag for merkostnader på grunn av fraværet med de begrensninger som følger av denne paragraf. Fradrag for kost og losji gis for en periode på inntil 24 måneder. Departementet kan gi nærmere regler om tidsbegrensningen i forskrift, herunder unntak for pendlere som bor på brakke. Dersom skattyteren kan oppbevare og tilberede mat i tilknytning til pendlerboligen, gis det ikke fradrag for kost.
+(2) Fradrag for merkostnader etter første ledd gis etter satser som fastsettes av departementet med mindre skattyteren godtgjør og krever fradrag for større kostnader. Fradrag for reisekostnader ved besøk i hjemmet gis etter § 6-44.
+(3) I virksomhet skal fradrag for kostutgifter som påføres ved yrkesreise med overnatting ikke reduseres med kostbesparelsen i hjemmet.
+(4) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf, herunder gi regler om fradrag for merutgifter for personer med hjem i utlandet.

@@ -1,0 +1,3 @@
+# § 18-11. Avgift på landbasert vindkraft
+(1) Avgift etter Stortingets vedtak om avgift på landbasert vindkraft, kan kreves fratrukket i fastsatt grunnrenteskatt som kan henføres til vindkraftanlegget. Dersom eier av vindkraftanlegget ikke er innehaver av konsesjonen, må eieren av vindkraftanlegget kunne dokumentere at avgiften ikke inngår i fradragsberettiget vederlag til driftsoperatøren. Dersom avgiften overstiger grunnrenteskatt for inntektsåret, kan det overskytende fremføres til fradrag i senere inntektsår med rente som departementet fastsetter i forskrift.
+(2) Avgift etter Stortingets vedtak om avgift på landbasert vindkraft, kan ikke fradras i alminnelig inntekt. Forrige punktum gjelder ikke avgift for vindkraftanlegg som den avgiftspliktige ikke eier.

@@ -1,0 +1,5 @@
+# § 14-45. Gevinst- og tapskonto
+(1) Skattyteren skal føre gevinst- og tapskonto særskilt for hver næring og for hver kommune som skattyteren er skattepliktig til, og som skal tilordnes gevinst eller tap undergitt stedbunden skattlegging etter § 3-3.
+(2) Grunnlaget for årets inntekts- eller kostnadsføring er saldo fra forrige år etter inntekts- eller kostnadsføring, tillagt gevinster ved realisasjon av driftsmidler i gruppe e til i i inntektsåret, jf § 14-44 tredje ledd, samt den delen av gevinst som ikke skal inntektsføres direkte etter § 14-44 (4). Tilsvarende skal tap ved realisasjon av driftsmidler i gruppe e til i i året fradras i saldoen. Er vederlaget inntektsført direkte, skal resterende saldo for driftsmidlet fradras. Saldoen skal videre korrigeres med inntekts- og fradragsføring etter § 14-47. Saldoen tillegges også gevinst i form av negativ saldo fra saldogruppe b, jf. § 14-44 tredje ledd annet punktum.
+(3) Saldoen skal tillegges gevinster som ikke er inntektsført og fradras tap på driftsmidler som nevnt i § 14-53.
+(4) Er saldoen positiv skal minst 20 prosent av saldoen inntektsføres. Er saldoen negativ skal inntil 20 prosent fradragsføres.
