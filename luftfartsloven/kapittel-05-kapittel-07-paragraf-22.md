@@ -1,0 +1,3 @@
+# Art 22. Tilgang til dokumenter og vern av personopplysninger
+1. Denne forordning får anvendelse uten at det berører europaparlaments- og rådsforordning (EF) nr. 1049/2001 av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter.
+2. Denne forordning får anvendelse i samsvar med europaparlaments- og rådsdirektiv 95/46/EF av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger og europaparlaments- og rådsforordning (EF) nr. 45/2001 av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger.

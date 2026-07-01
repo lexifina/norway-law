@@ -1,0 +1,3 @@
+# § 10-6. Utferdigelse av luftfraktbrev m.v.
+Luftfraktbrevet utferdiges av avsenderen i tre eksemplarer. Det første eksemplar skal være påtegnet for fraktføreren og underskrives av avsenderen. Det annet eksemplar skal være påtegnet for mottakeren og underskrives både av avsenderen og fraktføreren. Det tredje eksemplar underskrives av fraktføreren og leveres tilbake til avsenderen etter at godset er mottatt. Underskriftene kan være trykt eller erstattet av stempel.
+Har fraktføreren utferdiget luftfraktbrevet etter begjæring av avsenderen, ansees han for å ha gjort det på avsenderens vegne, om ikke annet blir godtgjort.

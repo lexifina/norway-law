@@ -1,0 +1,5 @@
+# Art 8. Europeisk sentralt datalager
+1. Kommisjonen skal forvalte et europeisk sentralt datalager der alle rapporter om tilfeller som er samlet inn i Unionen, skal lagres.
+2. Etter avtale med Kommisjonen skal alle medlemsstater oppdatere det europeiske sentrale datalageret ved å overføre alle sikkerhetsrelaterte opplysninger som er lagret i de nasjonale databasene nevnt i artikkel 6 nr. 6, til nevnte datalager.
+3. Byrået skal avtale med Kommisjonen de tekniske protokoller for overføring av alle rapporter om tilfeller som Byrået har samlet inn i henhold til forordning (EF) nr. 216/2008 og dens gjennomføringsregler, til det sentrale datalageret, særlig for tilfeller som er lagret i det interne systemet for rapportering av tilfeller, samt opplysningene som er samlet inn i henhold til artikkel 4 nr. 9 og artikkel 5 nr. 5.
+4. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta ordninger for forvaltning av det europeiske sentrale datalageret som nevnt i nr. 1 og nr. 2. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 19 nr. 2.

@@ -1,0 +1,3 @@
+# Art 6. Samarbeid mellom myndigheter med ansvar for sikkerhetsundersøkelser
+1. En myndighet med ansvar for sikkerhetsundersøkelser fra én medlemsstat kan anmode om bistand fra myndighetene med ansvar for sikkerhetsundersøkelser i andre medlemsstater. Dersom en myndighet for sikkerhetsundersøkelser etter en anmodning samtykker i å gi bistand, skal denne bistanden i den grad det er mulig gis vederlagsfritt.
+2. En myndighet med ansvar for sikkerhetsundersøkelser kan delegere gjennomføringen av en sikkerhetsundersøkelse av en ulykke eller alvorlig hendelse til en annen myndighet med ansvar for sikkerhetsundersøkelser etter gjensidig avtale, og skal lette den andre myndighetens undersøkelser.

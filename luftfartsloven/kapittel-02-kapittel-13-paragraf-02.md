@@ -1,0 +1,3 @@
+# § 13 a-2. Taushetsplikt
+Enhver som utfører tjeneste eller arbeid for et organ som er tildelt myndighetsoppgaver i eller i medhold av denne loven, har taushetsplikt etter forvaltningsloven om det som de får kjennskap til under utførelse av sitt arbeid.
+Opplysninger som er taushetsbelagte etter første ledd, kan gis videre til utenlandske og internasjonale myndigheter og organisasjoner når dette følger av internasjonale avtaler eller forpliktelser. Det samme gjelder når opplysningene er av vesentlig betydning for slik myndighet eller organisasjon, og vedkommende organ er underlagt taushetsplikt av minst samme omfang som det organet som gir opplysningene fra seg. Bestemmelsen her gjelder ikke opplysninger som mottas i henhold til reglene i kapittel XII.

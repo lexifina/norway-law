@@ -1,0 +1,2 @@
+# § 3-13. Retur av nasjonalitets- og registreringsbevis
+Når et luftfartøy er slettet i registeret eller anmerkning gjort etter § 3-8, skal fartøyets eier eller – såfremt fartøyet er gått over til eier i utlandet – den tidligere eier uten opphold sende nasjonalitets- og registreringsbeviset tilbake til registreringsmyndigheten. Er det ellers ført inn i registeret endring i noe forhold som omhandles i beviset, skal eieren uten opphold sende inn beviset til registreringsmyndigheten, som gir det påskrift om endringen eller bytter det om med et nytt.

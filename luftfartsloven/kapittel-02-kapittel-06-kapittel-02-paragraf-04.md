@@ -1,0 +1,3 @@
+# § 7-8. Om innløsing m.v.
+Når konsesjonstiden for landingsplass til allmenn bruk er utløpt, har staten rett til helt eller delvis å innløse konsesjonshaverens anlegg med rettigheter og løst tilbehør mot erstatning etter skjønn. Erstatningen fastsettes til det som det ville koste å anskaffe et tilsvarende nytt anlegg, beregnet etter prisene på innløsningstiden og med fradrag for verdiforringelsen på grunn av elde, bruk, nedsatt anvendelighet eller lignende. For ting som ikke lenger kan skaffes, skal dog omsetningsverdien legges til grunn.
+Innløsing kan foretas i konsesjonstiden med ett års varsel, når allmenne hensyn eller offentlige interesser gjør det nødvendig, og da mot erstatning etter vanlige ekspropriasjonsregler.

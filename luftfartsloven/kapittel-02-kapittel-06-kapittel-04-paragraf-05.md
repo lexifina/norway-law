@@ -1,0 +1,2 @@
+# § 7-16. Om fjerning av luftfartshinder
+Finnes det i området ved planens ikraftreden luftfartshindring som er i strid med planen, skal hindringen fjernes om ikke departementet samtykker i at den blir stående. Reglene i § 7-15 første ledds annet punktum, annet og tredje ledd gjelder tilsvarende. Utgifter til tiltak etter § 7-15 tredje ledd skal dog bæres av plassens innehaver, bortsett fra tilfelle hvor § 7-15 annet ledds annet punktum er brakt til anvendelse.

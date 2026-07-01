@@ -1,0 +1,3 @@
+# § 10-11. Om luftfraktbrev og godskvittering m.v.
+Luftfraktbrevet eller godskvitteringen gjelder som bevis for avslutningen av fraktavtalen, mottakelsen av godset og vilkårene for transporten som er tatt inn i luftfraktbrevet eller godskvitteringen, om ikke annet blir godtgjort.
+Luftfraktbrevets eller godskvitteringens opplysninger om godsets vekt, dimensjoner, pakning og stykketall ansees riktige, om ikke annet blir godtgjort. Andre opplysninger i luftfraktbrevet om godsets mengde, rominnhold eller tilstand gjelder derimot ikke som bevis overfor fraktføreren, med mindre han har undersøkt riktigheten i nærvær av avsenderen og bekreftet dette ved påskrift på luftfraktbrevet, eller opplysningene gjelder godsets synlige tilstand.

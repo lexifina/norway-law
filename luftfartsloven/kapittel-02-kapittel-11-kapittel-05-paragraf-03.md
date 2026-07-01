@@ -1,0 +1,3 @@
+# § 12-12. Bevisforbud og forbud mot sivilt søksmål
+Det kan ikke føres bevis om opplysninger mottatt hos luftfartsmyndigheten eller undersøkelsesmyndigheten etter reglene i rapporteringsforordningen. For øvrig gjelder § 12-8 tilsvarende.
+Staten kan ikke anlegge sivilt søksmål på grunnlag av opplysninger luftfartsmyndigheten har blitt kjent med utelukkende som følge av opplysninger mottatt i medhold av rapporteringsforordningen. Dette gjelder likevel ikke dersom det er kvalifisert grunn til å tro at den som har gitt opplysningene har opptrådt kritikkverdig som nevnt i rapporteringsforordningen artikkel 16 nr. 10 bokstav a eller b.

@@ -1,0 +1,3 @@
+# § 18-2. Om vilkår (for luftfartøyer med utenlandsk bruker m.v.) for adgang til norsk område
+Kongen bestemmer om og på hvilke vilkår luftfartøyer som brukes av fremmed stat eller internasjonal organisasjon til slikt formål som nevnt i § 18-1, kan gis adgang til norsk område.
+For så vidt ikke annet følger av forskrifter fastsatt etter første ledd, og internasjonal overenskomst eller folkerettslige grunnsetninger ikke er til hinder, gjelder bestemmelsene i denne lovs første del, bortsett fra §§ 3-42 – 3-49, 11-2 og 12-3 tredje og fjerde ledd, tilsvarende for luftfart innenfor norsk område med fartøy som nevnt i første ledd.

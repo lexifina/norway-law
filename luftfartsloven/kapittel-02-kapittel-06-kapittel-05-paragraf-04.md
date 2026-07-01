@@ -1,0 +1,11 @@
+# § 7-26. Fastsettelse av avgifter
+Departementet kan gi forskrifter om beregningen av avgifter for benyttelse av landingsplasser som er til allmenn bruk og avgifter for å stille andre luftfartsanlegg eller tjenester til rådighet for luftfartøy uavhengig av faktisk bruk, samt i forskrift pålegge betaling av slike avgifter. Departementet kan også gi forskrifter om at foretak som beregner og mottar avgifter etter forskrifter som nevnt i første punktum, skal gi brukerne, luftfartsmyndigheten og departementet tilgang til opplysninger om de kostnadene som ligger til grunn for fastsettelsen av avgiftene.
+Departementet kan gi forskrifter om at luftfartsmyndigheten skal føre tilsyn med beregningen av kostnader som danner grunnlag for avgifter som nevnt i første ledd, og om at luftfartsmyndigheten skal kunne fastsette avgifter på grunnlag av nærmere bestemte objektive kriterier. I forskrift kan departementet også bestemme at luftfartsmyndigheten kan utpeke et annet organ til å opptre på sine vegne, og vilkårene som må være til stede for slik utpeking.
+Foretak som mottar avgifter etter forskrifter som nevnt i første ledd, skal legge til rette for inspeksjoner og besiktigelser, herunder kontroller på stedet, som foretas av luftfartsmyndigheten eller et annet organ som opptrer på luftfartsmyndighetens vegne. Første punktum gjelder tilsvarende for foretak som har bistått den som yter tjenester som nevnt i første ledd, med regnskapsføring eller kostnadsberegninger, og som sitter på opplysninger det er nødvendig å ha tilgang til for å kunne utføre inspeksjoner og besiktigelser som nevnt. Luftfartsmyndigheten eller annet organ som opptrer på dennes vegne, skal uten hinder av taushetsplikt ha rett til å:
+1) granske regnskaper, eiendomsfortegnelser, lagerlister og annet materiale som kan ha betydning ved fastsettelsen av de aktuelle avgiftene,
+2) ta kopier av eller lage utdrag fra slike dokumenter,
+3) be om muntlig forklaring på stedet,
+4) kreve adgang til relevant eiendom, områder eller transportmidler, eller
+5) kreve opphør av overtredelse av forskrift gitt i medhold av første eller annet ledd.
+Departementet kan ved forskrift fastsette nærmere regler om måten tilsynet etter annet og tredje ledd skal utøves på.
+Om nødvendig kan luftfartsmyndigheten kreve bistand fra politiet til å gjennomføre tiltak som nevnt i tredje ledd.

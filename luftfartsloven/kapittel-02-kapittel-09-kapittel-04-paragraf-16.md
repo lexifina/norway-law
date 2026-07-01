@@ -1,0 +1,3 @@
+# § 10-30. Ansvarsfordeling mellom fraktførere m.v.
+Skal en befordring, som etter en eller flere fraktavtaler utgjør en enhet, utføres av flere fraktførere etter hverandre, er enhver fraktfører som mottar den reisende, det innskrevne reisegods eller godset, ansvarlig for den del av befordringen som det påhviler ham å utføre.
+Ved befordring av innskrevet reisegods eller av gods kan avsenderen også holde seg til den første fraktfører, og den som har rett til å kreve utlevering, til den siste fraktfører, selv om skaden, tapet eller forsinkelsen er inntruffet mens godset var i en annen fraktførers varetekt. Er to fraktførere ansvarlige, hefter de solidarisk.

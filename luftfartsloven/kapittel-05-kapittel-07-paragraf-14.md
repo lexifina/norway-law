@@ -1,0 +1,18 @@
+# Art 14. Beskyttelse av følsomme sikkerhetsopplysninger
+1. Følgende opplysninger skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelser:
+a) Alle forklaringer som myndigheten med ansvar for sikkerhetsundersøkelser har opptatt fra personer i løpet av sikkerhetsundersøkelsen.
+b) Opplysninger om identiteten til personer som har avgitt forklaring i forbindelse med sikkerhetsundersøkelsen.
+c) Opplysninger som myndigheten med ansvar for sikkerhetsundersøkelser har innhentet, og som er av særlig følsom og personlig karakter, herunder opplysninger om privatpersoners helse.
+d) Materiale som siden produseres under undersøkelsen, som notater, utkast, uttalelser skrevet av utrederne, uttalelser som kommer til uttrykk i forbindelse med analysen av opplysningene, herunder opplysninger fra ferdsskriveren.
+e) Opplysninger og bevis framlagt av utredere fra andre medlemsstater eller tredjestater i samsvar med internasjonale standarder og anbefalt praksis, når de er blitt anmodet om det av sin myndighet med ansvar for sikkerhetsundersøkelser.
+f) Utkast til foreløpige rapporter, sluttrapporter eller foreløpige erklæringer.
+g) Opptak og utskrifter fra tale- og bilderegistratoren i førerkabinen og opptak av tale i flygekontrollenheter, samtidig som det sikres at opplysninger som ikke er relevante for sikkerhetsundersøkelsen, særlig opplysninger av privat karakter, gis tilstrekkelig vern, uten at dette berører anvendelsen av nr. 3.
+2. Følgende opplysninger skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelser eller formål som tar sikte på å bedre flysikkerheten:
+a) All kommunikasjon mellom personer som har deltatt i driften av luftfartøyet.
+b) Skriftlige eller elektroniske registreringer eller transkripsjoner av registreringer fra flygekontrollenheter, herunder rapporter og resultater som er utarbeidet for interne formål.
+c) Følgebrev til oversendelse av sikkerhetstilrådinger fra myndigheten med ansvar for sikkerhetsundersøkelser til mottakeren, dersom myndigheten med ansvar for sikkerhetsundersøkelser som utsteder tilrådingen, anmoder om det.
+d) Hendelsesrapporter innsendt i henhold til direktiv 2003/42/EF.
+Registreringer fra ferdsskriveren skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelsen eller luftdyktighets- eller vedlikeholdsformål, med mindre opplysningene er anonymisert eller framgangsmåtene for utlevering er sikre.
+3. Uten hensyn til nr. 1 og 2 kan den domstol eller myndighet som har kompetanse til å treffe beslutning om frigivelse av opplysninger i henhold til nasjonal lovgivning, treffe en beslutning om at fordelene ved å frigi opplysningene nevnt i nr. 1 og 2 for noe annet lovlig formål, oppveier de negative følgene et slikt tiltak kan ha på nasjonalt og internasjonalt plan på denne eller framtidige sikkerhetsundersøkelser. Medlemsstatene kan beslutte å begrense de tilfeller der en slik beslutning om frigivelse kan tas, i samsvar med EU-rettsaktene.
+Oversendelse av opplysningene nevnt i nr. 1 og 2 til en annen medlemsstat for andre formål enn sikkerhetsundersøkelse, samt når det gjelder nr. 2, for andre formål enn formål som tar sikte på å bedre flysikkerheten, kan tillates i den utstrekning dette er tillatt i henhold til nasjonal lovgivning i avsendermedlemsstaten. Myndighetene i mottakermedlemsstaten skal bare kunne behandle eller utlevere opplysninger mottatt ved slik oversending etter forutgående samråd med avsendermedlemsstaten og med forbehold for nasjonal lovgivning i mottakermedlemsstaten.
+4. Bare opplysninger som er strengt nødvendige for formålene nevnt i nr. 3, kan frigis.

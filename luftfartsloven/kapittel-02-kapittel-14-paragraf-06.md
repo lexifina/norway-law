@@ -1,0 +1,2 @@
+# § 14-6. Overtredelse av sikkerhetsbestemmelser m.v.
+Med bøter eller med fengsel inntil 2 år straffes den som ved bygging av luftfartøy eller fremstilling av tilbehør eller reservedeler eller under utføring av vedlikeholds-, reparasjons- eller endringsarbeid viser uforsvarlig forhold og derved volder fare for at fartøyet kan bli brukt uten å tilfredsstille sikkerhetens krav. På samme måte straffes den som viser uforsvarlig forhold som nevnt ved utrusting, lasting eller annen klargjøring av luftfartøy.

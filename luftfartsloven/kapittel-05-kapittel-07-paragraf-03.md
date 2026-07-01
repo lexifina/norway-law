@@ -1,0 +1,8 @@
+# Art 3. Virkeområde
+1. Denne forordning får anvendelse på sikkerhetsundersøkelser av ulykker og alvorlige hendelser
+a) som har inntruffet på territoriet til de medlemsstater der traktatene får anvendelse, i samsvar med medlemsstatenes internasjonale forpliktelser,
+b) som har inntruffet utenfor territoriet til de medlemsstater der traktatene får anvendelse, og som involverer luftfartøyer som er registrert i en medlemsstat eller som drives av et foretak som er etablert i en medlemsstat, når slike undersøkelser ikke gjennomføres av en annen stat,
+c) der en medlemsstat i henhold til internasjonale standarder og anbefalt praksis har rett til å utpeke en akkreditert representant med henblikk på å delta som registreringsstat, operatørens hjemstat, konstruksjonsstat eller stat som bidrar med opplysninger, anlegg eller sakkyndige etter anmodning fra staten som gjennomfører undersøkelsen,
+d) der en medlemsstat hvis borgere har omkommet eller blitt alvorlig skadet, og som derfor har en særlig interesse, får tillatelse fra den staten som gjennomfører undersøkelsen til å utpeke en sakkyndig.
+2. Denne forordning får også anvendelse på spørsmål som gjelder rask tilgang til opplysninger om alle personer og alt farlig gods om bord på et luftfartøy som er innblandet i en ulykke, og bistand til ofre for flyulykker og deres pårørende.
+3. Denne forordning får ikke anvendelse på sikkerhetsundersøkelser av ulykker og alvorlige hendelser som involverer luftfartøyer som deltar i militær-, toll- eller polititjenester eller lignende tjenester med mindre den berørte medlemsstat fastsetter det i samsvar med artikkel 5 nr. 4 og nasjonal lovgivning.

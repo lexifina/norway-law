@@ -1,0 +1,1 @@
+# Kapittel XIV. Straffebestemmelser mv.

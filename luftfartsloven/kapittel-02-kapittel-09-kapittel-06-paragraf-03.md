@@ -1,0 +1,4 @@
+# § 10-38 a. Forsikringsplikt
+Norske fraktførere skal tegne tilstrekkelig forsikring til å dekke sitt erstatningsansvar etter dette kapittel. Den norske stat, når denne er fraktfører, kan være selvassurandør.
+Utenlandske fraktførere som transporterer passasjerer, reisegods eller gods til, fra eller innom Norge, skal kunne dokumentere at man innehar tilstrekkelig forsikring til å dekke sitt erstatningsansvar etter dette kapittel. Første ledd annet punktum gjelder tilsvarende når en fremmed stat er fraktfører.
+Departementet kan gi nærmere forskrifter om forsikringsplikten, herunder om størrelsen på forsikringen, om virkningen av at forsikringen ikke holdes i kraft, og om utfylling og gjennomføring av krav om forsikring for passasjerer, reisegods og gods som følger av EØS-avtalen på luftfartsområdet. Departementet kan i forskrift sette vilkår for at en stat kan stå som selvassurandør etter første og annet ledd, herunder krav om dokumentasjon.

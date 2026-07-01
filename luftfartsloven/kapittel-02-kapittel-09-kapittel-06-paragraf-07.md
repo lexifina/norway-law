@@ -1,0 +1,2 @@
+# § 10-41 a. Forskrifter om priser, andre vilkår og opplysningsplikt
+Departementet kan gi forskrift om priser og tilhørende vilkår, om formidling av rutefart og om overbooking. Departementet kan også gi forskrift om billettselgeres plikt til å informere om passasjerrettigheter basert på denne loven og andre forhold som setter billettkjøpere i stand til å danne seg en helhetlig og realistisk oppfatning av vilkårene og muligheten for å kjøpe eventuelle tilknyttede tjenester eller produkter.

@@ -1,0 +1,1 @@
+# A. Registrering av luftfartøyer

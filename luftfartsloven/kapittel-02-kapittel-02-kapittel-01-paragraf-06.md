@@ -1,0 +1,3 @@
+# § 3-4. Registreringssøknad m.v.
+Registrering skjer på grunnlag av skriftlig søknad fra eieren. Søknaden skal inneholde alle opplysninger som trengs for registreringen, og være ledsaget av bevis for at søkeren er eier av fartøyet og for at vilkårene etter §§ 3-2 og 3-3 er oppfylt. Er det til søkerens eiendomsrett knyttet vilkår eller begrensninger som kan føre til at eiendomsretten går over til en annen, skal dette opplyses i søknaden.
+Dersom søkeren gjør det sannsynlig at han er eier, men ikke kan føre tilstrekkelige bevis for sin adkomst, kan registreringsmyndigheten etter hans begjæring kunngjøre en oppfordring til mulige eiere om å melde seg innen en frist, som settes til minst 2 måneder. Melder ingen seg, kan registreringsmyndigheten godta søkeren som eier.

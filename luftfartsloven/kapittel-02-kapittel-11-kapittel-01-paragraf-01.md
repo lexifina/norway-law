@@ -1,0 +1,3 @@
+# § 12-1. Generell varslingsplikt
+Enhver som blir vitne til en luftfartsulykke, skal straks varsle nærmeste enhet av lufttrafikktjenesten, nærmeste politimyndighet eller hovedredningssentralen om ulykken. Dette gjelder likevel ikke dersom vedkommende er kjent med at varsel allerede er gitt. Det samme gjelder den som finner et luftfartøy, deler av et luftfartøy eller andre ting under forhold som tyder på at det har inntruffet en luftfartsulykke. Lufttrafikktjenesten, politiet og hovedredningssentralen skal straks varsle hverandre, samt undersøkelsesmyndigheten og luftfartsmyndigheten.
+Departementet kan gi forskrifter om varslingsplikt og videreformidling av varsel etter første ledd.

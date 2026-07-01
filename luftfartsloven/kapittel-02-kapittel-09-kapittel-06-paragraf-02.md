@@ -1,0 +1,3 @@
+# § 10-38. Om ansvarsbegrensninger i fraktavtalen m.v.
+Forbehold i fraktavtalen og særlige avtaler forut for skaden er ugyldige for så vidt de går ut på at tvist skal avgjøres etter en lov som avviker fra denne lovs bestemmelser om befordringen eller ved annet verneting enn fastsatt i dette kapittel.
+Ved godsbefordring kan det dog uten hinder av første ledd skriftlig avtales at tvist skal avgjøres ved voldgift, forutsatt at voldgiftsbehandlingen etter saksøkerens valg skal skje på et sted som er rett verneting etter § 10-28, og at saken skal avgjøres i samsvar med Montreal-konvensjonens bestemmelser. En voldgiftsbestemmelse i strid med dette er ugyldig.
