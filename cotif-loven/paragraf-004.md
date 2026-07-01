@@ -1,0 +1,3 @@
+# § 4. Anerkjennelse og fullbyrdelse av utenlandske dommer
+Dommer, fraværsdommer og rettsforlik, som er avsagt av en kompetent domstol i en konvensjonsstat med grunnlag i overenskomsten, og som etter konvensjonsstatens rett gir adgang til tvangsfullbyrdelse, kan fullbyrdes her i riket. Begjæring om fullbyrding rettes til Oslo tingrett. Retten prøver ikke riktigheten av konvensjonsstatens dom.
+Bestemmelsen i første ledd kommer ikke til anvendelse på avgjørelser som bare har foreløpig tvangskraft, eller på dommer som pålegger saksøkeren å betale en skadeserstatning utover saksomkostningene fordi dennes søksmål avvises.
