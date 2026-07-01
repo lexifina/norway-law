@@ -1,0 +1,4 @@
+# § 32. Kreditors opplysningsplikt
+(1) Kreditoren plikter å informere Innkrevingsmyndigheten om endringer i kravsforholdet, herunder om forhold som nevnt i tvangsfullbyrdelsesloven § 7-25 og om overdragelse av kravet.
+(2) Dersom det er gått mer enn ett år siden kravet ble besluttet dekket ved trekk, og kreditoren verken har informert om endringer i kravsforholdet eller mottatt utbetaling i løpet av det siste året, må kreditoren bekrefte at kravet fortsatt består før vedkommende mottar utbetaling. Dersom Innkrevingsmyndigheten mottar en innbetaling som kreditoren skal ta del i, gis kreditoren en frist for å bekrefte kravet. Hvis kravet ikke blir bekreftet innen fristen, tilfaller vedkommendes del øvrige kreditorer. Kreditoren tar ikke del i senere innbetalinger før kravet er bekreftet.
+(3) Selv om trekket har opphørt, gjelder opplysningsplikten fortsatt så lenge Innkrevingsmyndigheten krever inn et ansvarskrav etter § 31.

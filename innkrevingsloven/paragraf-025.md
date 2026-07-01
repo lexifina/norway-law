@@ -1,0 +1,4 @@
+# § 25. Varsel før avregning, utlegg og tvangsdekning i enkle pengekrav
+(1) Før Innkrevingsmyndigheten treffer beslutning etter §§ 22, 23 og 24, skal skyldneren eller skyldnerens fullmektig varsles med oppfordring om å uttale seg om saken innen en dato som ligger minst tre uker fra varsel ble sendt. Ved tvangsdekning i enkle pengekrav kan varsel tidligst gis tre uker etter at utlegg er besluttet, og varsel skal også gis til den som utad fremstår som eier av fordringen, eller dennes fullmektig.
+(2) Varselet skal inneholde det som er nødvendig for at skyldneren skal kunne ivareta sine interesser. Departementet kan gi forskrift om det nærmere innholdet i varselet.
+(3) Varsel etter denne paragrafen kan unnlates dersom skyldneren ikke har kjent adresse eller kjent fullmektig med kjent adresse. Varsel kan også unnlates dersom gjennomføringen av utlegg ville bli vesentlig vanskeliggjort om slikt varsel ble gitt.
