@@ -1,0 +1,2 @@
+# § 5. Behandling av helseopplysninger
+En kommune som etablerer en godkjent brukerromsordning, kan føre helseregister og behandle helseopplysninger som nevnt i helseregisterloven § 2 bokstav a og andre personopplysninger i den grad det er nødvendig for å oppfylle reglene gitt i eller i medhold av loven her. Det samme gjelder en tjenesteyter som driver brukerrom etter avtale med kommunen. Registrering og annen behandling av opplysningene kan skje uten samtykke fra den registrerte.
