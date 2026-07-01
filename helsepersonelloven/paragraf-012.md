@@ -1,0 +1,8 @@
+# § 12. Undersøkelser i forbindelse med straffbare forhold
+Lege, sykepleier, helsesekretær eller bioingeniør skal etter anmodning fra politiet ta blodprøve eller foreta lignende undersøkelse av personer som er mistenkt for straffbart forhold under påvirkning av alkohol eller annet berusende eller bedøvende middel når dette er hjemlet i lov og kan skje uten fare.
+Lege skal etter anmodning fra påtalemyndigheten foreta kroppslig undersøkelse av mistenkte i straffesak når slik undersøkelse er besluttet etter straffeprosessloven §§ 157 eller 157 a. Videre skal lege etter anmodning fra kriminalomsorgen foreta kroppslig undersøkelse av en innsatt i fengselsanstalt når slik undersøkelse er besluttet etter reglene i straffegjennomføringsloven § 29.
+Ved anmodning om rusprøve fra politiet, ved vilkår for påtaleunnlatelse, fra kriminalomsorgen, ved vilkår for betinget dom, og fra konfliktrådet, ved gjennomføring av ungdomsstraff og ungdomsoppfølging, skal lege, sykepleier, helsesekretær og bioingeniør ta blodprøve eller lignende rusprøve av personer som var under 18 år på handlingstidspunket. Plikten inntrer når personen møter opp til prøvetaking
+Lege, sykepleier, helsesekretær eller bioingeniør har ingen plikt til å foreta undersøkelser etter første til tredje ledd av:
+1) ektefelle, samboer, registrert partner, forlovede eller av slektninger i rett opp- eller nedstigende linje, søsken eller like nær besvogrede. Likt med slektskap regnes adoptiv- og fosterforhold.
+2) person som helsepersonellet har til behandling.
+Departementet kan i forskrift gi nærmere bestemmelser om plikten til å foreta undersøkelser etter denne paragrafen, og herunder fastsette bestemmelser om begrensninger i plikten og om fritak.

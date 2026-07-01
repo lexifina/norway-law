@@ -1,0 +1,4 @@
+# § 26. Oversendelse av epikrise
+Ved utskrivning fra helseinstitusjon, etter poliklinisk behandling eller etter behandling hos spesialist skal en epikrise sendes til innleggende eller henvisende helsepersonell, til det helsepersonellet som trenger opplysningene for å kunne gi pasienten forsvarlig oppfølging, og til pasientens faste lege. Med epikrise menes et sammendrag av tilgjengelige journalopplysninger som gjelder en undersøkelse eller behandling av en pasient, og som er nødvendige for at videre behandling eller oppfølging av pasienten innenfor helse- og omsorgstjenesten kan skje på en forsvarlig måte.
+Dersom det ikke er mulig å sende epikrisen samtidig med utskrivning eller avslutning av behandlingen, skal den sendes innen forsvarlig tid etter dette.
+Departementet kan gi forskrift om plikten etter første og andre ledd, herunder hvem epikrisen skal sendes til, hvilke opplysninger epikrisen skal inneholde, og når epikrisen skal være sendt.

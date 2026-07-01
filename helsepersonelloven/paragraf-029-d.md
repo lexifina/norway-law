@@ -1,0 +1,3 @@
+# § 29 d. Opplysninger om særreaksjonsdømte utlendinger
+Taushetsplikt er ikke til hinder for at det gis nødvendige opplysninger om særreaksjonsdømte utlendinger til utlendingsmyndighetene til bruk i en utvisningssak.
+Ved utvisning av en utlending som utholder en strafferettslig særreaksjon, er taushetsplikt ikke til hinder for at det til helse- og omsorgstjenesten i mottakerstaten gis opplysninger som er nødvendige for at mottakerstaten skal kunne vurdere vedkommendes behov for helsemessig oppfølging eller behov for å underlegges en behandling som kan beskytte samfunnet der mot gjentakelsesfare som nevnt i straffeloven § 62.
