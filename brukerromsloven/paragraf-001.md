@@ -1,0 +1,3 @@
+# § 1. Formål
+Lovens formål er å legge til rette for etablering av ordning med brukerrom for inntak av narkotika (brukerromsordning).
+Brukerromsordningen skal bidra til økt verdighet for mennesker med helseskadelig og risikofylt bruk av narkotika ved å tilby hygieniske rammer for inntak av narkotika og motivere for mest mulig skånsomt inntak. Videre skal brukerromsordningen bidra til økt helsemessig trygghet, blant annet forebygge infeksjoner og smitte og gi raskere hjelp ved overdoser, gjennom tilstedeværelse og tilsyn av helsepersonell. Formålet er også å bidra til økt mulighet for kontakt og samtaler mellom den enkelte bruker og hjelpeapparatet med sikte på tverrfaglig oppfølging og behandling.
