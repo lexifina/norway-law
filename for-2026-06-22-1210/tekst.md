@@ -1,0 +1,8 @@
+# I
+I forskrift 15. oktober 2024 nr. 2556 om krav til utdanning, etterutdanning og godkjenning av trafikklærere (trafikklærerforskriften) gjøres følgende endringer:
+§ 33 fjerde ledd skal lyde:
+Ved behandling av regodkjenning av trafikklærer etter gjennomført etterutdanning skal det betales et gebyr etter satsene i forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1.
+§ 33 femte ledd oppheves, og nåværende sjette ledd blir femte ledd og skal lyde:
+Ved søknad om godkjenning som kursarrangør eller kurstilbyder skal det betales gebyr for hvert kurs det søkes godkjenning for etter satsene i forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1.
+# II
+Endringene trer i kraft 1. juli 2026.
