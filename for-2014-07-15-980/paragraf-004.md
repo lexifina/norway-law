@@ -1,0 +1,4 @@
+# § 4. Rapporteringsplikt
+(1) Eier av luftfartshinder har ansvar for at de opplysninger om luftfartshinderet som er innrapportert til NRL er korrekte. Hindereier skal senest 30 kalenderdager før etablering, endring, flytting eller fjerning av et luftfartshinder, innrapportere opplysninger om luftfartshinderet til Statens kartverk. Rapportering skal skje i den form og med den fremgangsmåte som Statens kartverk anviser. Ved rapportering skal det inngå opplysninger om eierskap og luftfartshinderets egenskaper, i tillegg til opplysninger om luftfartshinderets posisjon og høyde som angitt i § 5. Opplysninger om endringer i juridisk eierskap skal innrapporteres fortløpende av den som er eier av luftfartshinderet, før endringen skjer.
+(2) Midlertidige luftfartshindre med en høyde under 60 meter er ikke rapporteringspliktige.
+(3) Under forflytning er innretninger i petroleumsindustrien ikke rapporteringspliktige.

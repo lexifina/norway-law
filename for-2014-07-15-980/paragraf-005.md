@@ -1,0 +1,2 @@
+# § 5. Krav til rapporteringsnøyaktighet
+(1) Luftfartshinder skal innrapporteres med en absolutt nøyaktighet bedre enn 5 meter i horisontalplanet og vertikalplanet. Hinderets høyde over terreng eller vann skal innrapporteres med en nøyaktighet bedre enn 1 meter. For luftspenn skal høyde over terreng eller vann måles eller beregnes med en nøyaktighet bedre enn 2 meter, jf. § 9 sjette ledd. For rapporteringspliktige luftfartshinder med en høyde inntil 15 meter er det ikke krav om å oppgi høydeinformasjon ved innrapporteringen.
