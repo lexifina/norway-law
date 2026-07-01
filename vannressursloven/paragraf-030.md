@@ -1,0 +1,3 @@
+# § 30. (tilrettelegging for fellestiltak for vannforsyning og tørrlegging)
+Tiltak for vannforsyning og tørrlegging skal i rimelig utstrekning utføres slik at de kan komme til nytte for andre grunneiere.
+Når vassdragsmyndigheten behandler en søknad om konsesjon etter § 8 til vannforsyning eller tørrlegging, bør den ved offentlig kunngjøring eller individuell underretning søke å klarlegge om tiltaket også kan dekke behovet for andre interesserte. I vilkår for konsesjonen kan vassdragsmyndigheten fastsette nærmere hvordan dette skal skje, bl.a at andre interesserte skal kunne delta i eierskap eller med tilskudd, jf. § 31.

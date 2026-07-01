@@ -1,0 +1,5 @@
+# § 22. (planlegging i vassdrag)
+Når sentrale offentlige myndigheter har satt i gang samlet planlegging for bruk eller vern av vassdrag for et større område, kan vassdragsmyndigheten uten videre utsette eller avslå en søknad om konsesjon som gjelder et vassdrag som inngår i planleggingen. Konsesjon kan bare gis dersom tiltaket er uten nevneverdig betydning for planleggingen.
+Når en plan som nevnt i første ledd er fullført, skal den legges til grunn for behandlingen av søknad om konsesjon. En søknad som er i strid med planen, kan avslås uten videre. Bare departementet kan gi konsesjon til vassdragstiltak som kan redusere vannkraften i vassdrag som i planen er disponert til kraftutbygging.
+Samlet planlegging av ulike tiltak innen ett vassdrag bør fortrinnsvis skje etter reglene i plan- og bygningsloven.
+Konsesjonspliktige tiltak i vassdrag må ha konsesjon etter loven her, og konsesjon kan ikke erstattes av rettslig bindende planer etter plan- og bygningsloven. Vassdragsmyndigheten kan bestemme at ethvert kraftproduksjonsanlegg med endelig konsesjon etter denne lov uten videre skal ha virkning som statlig arealplan etter plan- og bygningsloven § 6-4.

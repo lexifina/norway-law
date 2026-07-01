@@ -1,0 +1,4 @@
+# § 23. (innholdet av søknader; saksutredning)
+Søknad om konsesjon etter § 8 skal i samsvar med forskrift etter § 65 gi nødvendige opplysninger om det planlagte tiltak og fordelene og ulempene ved det og om forholdet til rettslig bindende planer etter plan- og bygningsloven.
+Vassdragsmyndigheten kan kreve ytterligere opplysninger av søkeren og kan bestemme at søkeren skal foreta eller bekoste undersøkelser eller utredninger som trengs for å klarlegge fordeler eller ulemper av tiltaket. For tiltak som går inn under reglene om konsekvensutredninger i plan- og bygningsloven, gjelder disse reglene i stedet.
+Hvis et vassdragstiltak kan volde vesentlige skader eller ulemper, skal det legges vekt på å få utredet aktuelle alternativer som har en annen lokalisering, andre tekniske løsninger eller en annen utforming. Hvis tiltaket vil ha betydning for disponeringen av vassdraget for øvrig, skal det legges vekt på å klarlegge slike følger.

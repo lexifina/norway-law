@@ -1,0 +1,3 @@
+# § 40. (tiltak i alvorlige faresituasjoner)
+Når forholdene i eller utenfor et vassdrag skaper en særskilt og uvanlig fare for mennesker, miljø eller eiendom, kan vassdragsmyndigheten pålegge enhver tiltakshaver å innrette sin virksomhet for å redusere faren. Hvis den ansvarlige åpenbart er ute av stand til å oppfylle vedlikeholdsplikten for et anlegg som volder fare for vesentlig skade, skal vassdragsmyndigheten sørge for nødvendig vedlikehold etter § 37 eller nedlegging etter § 41.
+Vassdragsmyndigheten kan om nødvendig iverksette tiltak på fremmed eiendom for å verne mennesker, miljø eller eiendom mot en særskilt fare for alvorlig skade. Iverksettes slike tiltak på en eiendom som ikke er truet, har eieren rett til erstatning etter reglene om ansvar for nødhandlinger.

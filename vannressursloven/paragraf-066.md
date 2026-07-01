@@ -1,0 +1,6 @@
+# § 66. (forholdet til eldre tiltak)
+Loven gjelder også vassdragstiltak som ble påbegynt før loven trer i kraft (eldre vassdragstiltak).
+En konsesjon etter lov 15. mars 1940 nr. 3 om vassdragene §§ 104 og 105 eller vedtak etter § 144 gjelder som en konsesjon etter loven her.
+Eldre vassdragstiltak som ikke trengte tillatelse etter tidligere vassdragslovgivning, kan fortsette uten konsesjon etter § 8. Vassdragsmyndigheten kan i særlige tilfelle likevel bestemme i enkeltvedtak at tiltaket må ha konsesjon, og at tiltaket blir ulovlig hvis det ikke sendes søknad innen en fastsatt frist.
+For eldre vassdragstiltak gjelder § 10 i den utstrekning tiltaket ikke har gjort bruk av den alminnelige lavvannføring før lovens ikrafttreden. Ved konsesjonsbehandling av eldre vassdragstiltak etter tredje ledd annet punktum gjelder § 10 fullt ut. Har et eldre vassdragstiltak konsesjon etter vassdragsloven, kan det ved omgjøring etter § 28 settes krav i samsvar med § 10 annet ledd. For eldre vassdragstiltak som faller inn under vassdragsreguleringsloven gjelder § 10 ikke.
+For utøvelse av rådighet over grunnvann gjelder første til fjerde ledd så langt det passer. Grunnvannsuttak etablert før lovens ikrafttreden kan utøves i samme utstrekning som tidligere uavhengig av bestemmelsen i § 44 første ledd.
