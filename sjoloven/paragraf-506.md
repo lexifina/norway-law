@@ -1,0 +1,11 @@
+# § 506. Straff
+Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt på vesentlig måte
+a) overtrer § 9 om kjenningssignal og merking eller forskrifter gitt i medhold av bestemmelsen
+b) overtrer bestemmelser i kapittel 2 om registrering eller forskrifter gitt i medhold av kapitlet.
+c) uberettiget fører et norsk flagg eller på annen måte utgir skipet for å være norsk, eller i norsk farvann uberettiget fører noe flagg eller på annen måte utgir skipet for å ha en annen enn sin virkelige nasjonalitet.
+Med bøter eller fengsel inntil 1 år straffes en skipsfører eller vakthavende styrmann som overtrer plikten i § 135 første eller annet ledd om å iverksette alle nødvendige tiltak ved havsnød eller annen fare og ikke uten særlig grunn forlate eller oppgi skipet så lenge det er rimelig utsikter til berging, med mindre det er betydelig fare for vedkommendes eget liv.
+Med bøter eller fengsel inntil 6 måneder straffes andre som har sitt arbeid om bord såfremt de uten særlig grunn og uten tillatelse av skipsføreren forlater skipet i havsnød eller annen fare så lenge skipsføreren er om bord.
+Med bøter eller fengsel inntil 3 år straffes en skipsfører eller vakthavende styrmann som forsettlig eller grovt uaktsomt overtrer plikten i § 164 første punktum til å yte nødvendig hjelp når det kan skje uten særlig fare for eget skip eller personer om bord der, men inntil 6 år såfremt unnlatelsen har hatt døden eller betydelig skade på legeme eller helse til følge.
+Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt overtrer plikten i §§ 186, 197 eller 210 d eller forskrifter gitt i medhold av bestemmelsene, om å ha forsikring eller annen sikkerhet samt gyldige sertifikater.
+Med bøter eller fengsel inntil 3 måneder straffes den som unnlater å oppfylle meldeplikten i § 475 første ledd eller forskrifter gitt i medhold av bestemmelsen. På samme måte straffes den som på vesentlig måte unnlater å fremlegge dokumentasjon i samsvar med § 477 annet ledd, eller å etterkomme krav fra undersøkelsesmyndigheten etter § 479 første ledd, eller som fjerner gjenstander i strid med § 478.
+Ved vurderingen av om en overtredelse av første ledd er vesentlig, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.

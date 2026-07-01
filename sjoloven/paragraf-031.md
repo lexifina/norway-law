@@ -1,0 +1,4 @@
+# § 31. Registrering
+Skip som er under bygging her i riket og kontrakt om bygging her i riket, kan på begjæring innføres i en egen avdeling av skipsregisteret (skipsbyggingsregisteret). Slik registrering av skip omfatter også skrog, større seksjoner av skrog eller hovedmaskineri bygget ved verksted utenfor riket dersom levering fra det utenlandske verkstedet har funnet sted. For skip under bygging fremsettes begjæringen av eieren, og for byggekontrakt av bestilleren. Er kontrakten blitt innført, omfatter registreringen også bestillerens rett til skipet når byggingen blir påbegynt. Likt med kontrakt regnes erklæring fra et verksted om at det har besluttet å bygge et skip for egen regning.
+Innføring i skipsbyggingsregisteret kan bare skje når det sannsynliggjøres at det ferdige skip vil få en største lengde på 10 meter eller mer.
+Reglene i § 11 fjerde ledd, § 12 annet ledd, § 13, § 14 første til fjerde ledd og §§ 15 til 27 gjelder tilsvarende så langt de passer.

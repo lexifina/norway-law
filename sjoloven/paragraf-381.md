@@ -1,0 +1,4 @@
+# § 381. Lasting og lossing m v
+Tidsbefrakteren skal sørge for mottakelse, lasting, stuing, trimming, sikring, lossing og utlevering av lasten. Stuingen skal foregå slik at skipet er betryggende stabilisert og lasten sikret. Tidsbefrakteren skal følge instrukser fra tidsbortfrakteren om lastens fordeling i den utstrekning hensynet til skipets sikkerhet og stabilitet tilsier det.
+Tidsbefrakteren kan kreve slik medvirkning av skipsfører og mannskap som er vanlig i den fart det gjelder. Godtgjørelse for overtidsarbeid og andre særlige utgifter ved slik medvirkning betales av tidsbefrakteren.
+Plikter tidsbortfrakteren å erstatte tap som følge av lasting, stuing, trimming, sikring, lossing eller utlevering av lasten, skal tidsbefrakteren holde tidsbortfrakteren skadesløs med mindre tapet skyldes skipsførerens eller mannskapets medvirkning eller annet forhold som tidsbortfrakteren svarer for.

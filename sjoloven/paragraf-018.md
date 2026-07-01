@@ -1,0 +1,3 @@
+# § 18. Feil ved registreringen
+Blir registerføreren oppmerksom på at en innføring i Skipsregisteret er uriktig, eller at det på annen måte er gjort feil, skal registerføreren rette feilen. Har noen på grunn av feilen fått uriktig opplysning, skal registerføreren så vidt mulig underrette vedkommende om rettelsen i rekommandert brev eller på annen sporbar og betryggende måte.
+Den som mener at skipsregisterets innhold er uriktig og til skade for sin rett, kan forlange registrert sitt krav om rettelse når vedkommende sannsynliggjør sin rett eller stiller slik sikkerhet som registerføreren bestemmer. Godtgjøres ikke kravet innen en frist som registerføreren setter, skal kravet slettes.

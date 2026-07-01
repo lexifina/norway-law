@@ -1,0 +1,4 @@
+# § 8. Hjemsted
+For skip som innføres i skipsregisteret, velger eieren hjemstedet blant de de byer og andre tettbebyggelser ved kysten som den myndighet departementet bestemmer har godkjent som hjemsteder. For innsjøfartøyer gjelder reglene i tredje ledd.
+Valg av hjemsted skjer ved melding til skipsregisterføreren etter § 12. Hjemstedet kan senere endres ved melding etter § 13 annet ledd.
+Skip som ikke innføres i skipsregisteret, har hjemsted i den kommune hvor eieren har bosted. Har eieren ikke bosted i Norge, har skipet hjemsted i den kommune hvor eierens representant har bosted. Skip som eies av partrederi eller annet selskap som nevnt i § 1 nr 2, har hjemsted i den kommune hvor den bestyrende reder har bosted. I selskaper ellers anses den kommune hvor selskapet har kontor eller sete for styret, som skipets hjemsted.

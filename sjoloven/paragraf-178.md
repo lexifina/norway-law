@@ -1,0 +1,11 @@
+# § 178. Rettsvirkningene av at begrensningsfond er opprettet for krav som omfattes av § 175, jf. § 172
+For krav som omfattes av § 175, jf. § 172, gjelder følgende regler om rettsvirkninger av begrensningsfond:
+1) Den som har fremsatt et krav mot begrensningsfond som er opprettet etter § 177 eller etter tilsvarende regler i annen konvensjonsstat, kan ikke for dette krav begjære arrest eller annen tvangsforretning vedrørende skip eller annen eiendom som tilhører noen som fondet er opprettet på vegne av og som har rett til ansvarsbegrensning.
+2) Etter at det er opprettet begrensningsfond her i riket eller i Danmark, Finland eller Sverige, kan arrest eller annen tvangsforretning vedrørende skip eller annen eiendom som tilhører noen som fondet er opprettet på vegne av og som har rett til ansvarsbegrensning, ikke foretas for krav som kan kreves dekket av fondet, jf. likevel § 180 tredje ledd første punktum. Hvis en tvangsforretning allerede er foretatt, skal den oppheves. Sikkerhet stilt for å avverge eller få opphevet tvangsforretningen skal frigis.
+3) Er fondet opprettet i annen konvensjonsstat, kan retten avslå begjæring om arrest eller annen tvangsforretning, oppheve en forretning som er foretatt, eller frigi sikkerhet som er stilt. Retten skal avslå begjæringen, oppheve forretning som er foretatt etter at fondet er opprettet, og frigi sikkerhet som er stilt etter dette tidspunkt dersom fondet er opprettet i
+a) den havn hvor den ansvarsbegrunnende hendelse inntraff, eller, dersom den ikke inntraff i en havn, den første havn skipet anløper etter hendelsen, eller
+b) ilandstigningshavnen, for så vidt kravet gjelder personskade som voldes noen ombord i skipet, eller
+c) lossehavnen, for så vidt kravet gjelder skade på skipets last.
+4) Reglene i nr 1 og 3 kan gis tilsvarende anvendelse dersom det godtgjøres at begrensningsfond opprettet i stat som ikke er konvensjonsstat, kan likestilles med begrensningsfond som nevnt i § 177.
+5) Reglene i denne paragraf gjelder bare dersom fordringshaveren kan fremsette krav mot fondet for den domstol som bestyrer det, og fondet faktisk er tilgjengelig og fritt overførbart til dekning av kravet.
+6) Det verneting som er oppnådd ved arrest eller sikkerhetsstillelse, faller ikke bort ved at arresten blir opphevet eller sikkerheten frigitt etter reglene i nr. 2, 3 eller 4.

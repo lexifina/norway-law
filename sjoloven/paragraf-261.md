@@ -1,0 +1,5 @@
+# § 261. Senderens kontraktsbrudd og tilbaketreden
+Trer senderen tilbake fra transportavtalen før utførelsen av transporten er påbegynt, kan transportøren kreve erstatning for frakttap og annen skade.
+Blir godset ikke levert til rett tid, kan transportøren heve transportavtalen dersom forsinkelsen utgjør vesentlig kontraktsbrudd. Vil transportøren heve avtalen, må transportøren gi melding om det uten ugrunnet opphold etter at senderen har spurt om det, likevel senest når godset mottas til transport. Gjør transportøren ikke det, går hevningsretten tapt. Heves avtalen, kan transportøren kreve erstatning for frakttap og annen skade.
+Krever senderen eller mottakeren at transporten skal avbrytes og godset utleveres på et annet sted enn bestemmelsesstedet, kan transportøren kreve erstatning for frakttap og annen skade. Transporten kan ikke kreves avbrutt dersom dette vil medføre vesentlig skade eller ulempe for transportøren eller andre sendere.
+Reglene i § 352 annet til fjerde ledd gjelder tilsvarende.

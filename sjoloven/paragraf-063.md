@@ -1,0 +1,3 @@
+# § 63. Utlevering av lasten, m m
+Sjøpanterett i last faller bort når godset blir utlevert, når det blir solgt ved tvangssalg og når det blir solgt for lasteierens regning eller etter § 137 tredje ledd.
+Den som uten fordringshaverens samtykke eller hjemmel i § 465 utleverer gods som denne vet eller bør vite er beheftet med sjøpanterett, blir personlig ansvarlig for fordringen, likevel ikke for det beløp som vedkommende godtgjør at pantet ikke kunne ha dekket. Var mottakeren ikke personlig ansvarlig for fordringen, får mottakeren samme ansvar dersom mottakeren hadde kunnskap om fordringen da godset ble utlevert.

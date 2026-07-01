@@ -1,0 +1,2 @@
+# § 489. Berammelse og varsling
+Skjønnet holdes snarest mulig etter at begjæringen er mottatt. Skjønnsretten varsler saksøkeren og skipsføreren og så vidt mulig rederen samt befraktere, lasteeiere, assurandører og andre interesserte om berammelsen. Er det skjellig grunn til mistanke om at reglene om sjødyktighet eller sikkerhet til sjøs er overtrådt, skal også vedkommende politimester varsles. Skjønnet kan holdes selv om noen som er eller skulle ha vært varslet, ikke møter.

@@ -1,0 +1,3 @@
+# § 302. Innehaverens legitimasjon
+Den som foreviser et konnossement og ved dets tekst, eller, for ordrekonnossement, ved en sammenhengende rekke av transporterklæringer eller erklæring om overdragelse in blanco, fremtrer som rett innehaver av konnossementet, er legitimert som mottaker av godset.
+Når konnossementet er utstedt i flere eksemplarer, er det for utlevering på bestemmelsesstedet tilstrekkelig at mottakeren legitimerer seg ved ett eksemplar. Utleveres godset på et annet sted, må dessuten de øvrige eksemplarer leveres tilbake eller sikkerhet stilles for krav som innehaverne måtte gjøre gjeldende mot transportøren.

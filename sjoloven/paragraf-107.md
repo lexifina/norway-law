@@ -1,0 +1,5 @@
+# § 107. Rederimøte
+Når partrederne skal treffe beslutning, innkalles de til møte på hensiktsmessig måte med i alminnelighet minst en ukes varsel. I innkallingen skal så vidt mulig opplyses hvilke spørsmål som skal behandles på møtet. Innkallingen kan sendes i rekommandert brev eller telegram til en partreders sist kjente adresse.
+Det skal føres protokoll over forhandlingene med mindre partrederne enstemmig beslutter det motsatte. Protokollen oppbevares av den bestyrende reder. Enhver partreder har rett til å få se protokollen og ta avskrift.
+Er en partreder forhindret fra å delta i et møte, kan partrederen la seg representere ved fullmektig eller skriftlig tilkjennegi sitt standpunkt. Den bestyrende reder sørger for at de beslutninger som er truffet på møtet, meddeles på hensiktsmessig måte til de partredere som ikke har deltatt i møtet personlig eller ved fullmektig.
+Haster saken så mye at det ikke er tid til å holde møte med behørig varsel, kan beslutning treffes på annen måte. Det samme gjelder dersom samtlige partredere er enige om det. Annet ledd gjelder tilsvarende. Partrederne underrettes på hensiktsmessig måte om det som er blitt besluttet.

@@ -1,0 +1,5 @@
+# § 449. Særlig vederlag
+Hvis bergeren har utført bergingsarbeid for et skip som alene eller sammen med lasten medførte risiko for miljøskade, kan bergeren kreve at skipets eier og reder betaler et særlig vederlag som skal svare til bergerens omkostninger ved arbeidet. Slikt særlig vederlag kan bare kreves for så vidt dette overstiger bergelønn fastsatt etter § 446.
+Hvis bergeren har forhindret eller begrenset miljøskade, kan det særlige vederlaget forhøyes med inntil 30 prosent av bergerens omkostninger. Når det finnes rimelig kan vederlaget likevel forhøyes med inntil 100 prosent av bergerens omkostninger, idet hensyn tas til forhold som nevnt i § 446.
+Med bergerens omkostninger forstås her de utgifter bergeren med rimelighet har pådratt seg under bergingsarbeidet, med tillegg av rimelig godtgjørelse for utstyr og mannskap benyttet under arbeidet. Ved fastsettelsen av slik godtgjørelse skal det legges vekt på de forhold som nevnt i § 446 bokstavene g, i og j.
+Hvis bergeren på grunn av uaktsomhet har forsømt å forhindre eller begrense miljøskade, kan det særlige vederlaget settes ned eller falle bort.

@@ -1,0 +1,4 @@
+# § 361. Utløp av avtaleperioden ved konsekutive reiser
+Er skipet befraktet for så mange reiser som det kan utføre i et angitt tidsrom og har reisebefrakteren før utløpet av perioden fått melding om at skipet er klart til å ta inn last, skal reisen utføres selv om dette må skje helt eller delvis etter at avtaleperioden er utløpt.
+Er det på det rene at skipet ikke kan nå lastehavnen og være lasteklart før utløpet av avtaleperioden, plikter ikke reisebortfrakteren å sende skipet til lastehavnen.
+Gir reisebortfrakteren melding om at skipet kan komme for sent frem til lastehavnen og ber om forholdsordre, kan reisebefrakteren bestemme enten at reisen skal utføres under befraktningsavtalen eller at avtalen skal opphøre. Avtalen opphører dersom reisebefrakteren ikke uten ugrunnet opphold etter å ha fått meldingen, krever at reisen skal utføres.

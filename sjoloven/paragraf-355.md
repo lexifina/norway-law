@@ -1,0 +1,3 @@
+# § 355. Forsinket lasting
+Er overliggetiden avtalt og har reisebefrakteren ved lastetidens utløp ikke levert godset eller bare levert en del av det, gjelder reglene i §§ 352 og 353 tilsvarende. Det samme gjelder når avtalen inneholder klausulen liner terms og liggetiden er ute.
+Er overliggetidens lengde ikke avtalt, men lastingen blir så forsinket at det oppstår vesentlig tap eller ulempe for reisebortfrakteren selv om godtgjørelse for overliggetid betales, kan reisebortfrakteren heve avtalen eller, når noe gods allerede er levert, erklære lastingen for avsluttet. I så fall gjelder reglene i §§ 352 og 353 tilsvarende.

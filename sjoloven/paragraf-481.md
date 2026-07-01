@@ -1,0 +1,5 @@
+# § 481. Bevissikring
+Undersøkelsesmyndigheten kan kreve bevissikring utenfor rettssak etter reglene i tvisteloven § 28-3 tredje ledd og § 28-4. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller skip skal undersøkes. Krav kan også fremmes for tingretten for en havn skipet kommer til, eller tingretten for en havn mannskapet oppholder seg i.
+Ved sjøulykker med skip som hører hjemme i Danmark, Finland eller Sverige, kan vedkommende lands myndigheter kreve bevisopptak etter reglene i første ledd. Er ulykke som nevnt i første punktum inntruffet i utlandet, kan bevisopptak foretas ved norsk konsulrett etter reglene i domstolloven § 50.
+For skipsføreren, rederen, skadelidte og andre berørte gjelder tvistelovens alminnelige vilkår for bevissikring utenfor rettssak. Bevisopptak i utlandet kan foretas ved norsk konsulrett etter reglene i domstolloven § 50.
+I Danmark, Finland og Sverige holdes sjøforklaring for norsk skip for den domstol som er kompetent etter lovgivningen der.

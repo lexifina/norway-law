@@ -1,0 +1,3 @@
+# § 382. Konnossement
+Tidsbortfrakteren plikter å utstede konnossement for lastet gods for den reise skipet skal utføre, med de vilkår som er vanlige i den fart det gjelder. Pådrar tidsbortfrakteren seg derved ansvar overfor innehaveren av konnossementet som går ut over ansvaret etter befraktningsavtalen, skal tidsbefrakteren holde tidsbortfrakteren skadesløs.
+Tidsbortfrakteren plikter ikke å følge krav fra tidsbefrakteren om å utlevere godset til mottaker som ikke er legitimert, eller for øvrig i strid med konnossementet, hvis dette vil være i strid med redelighet og god tro. Tidsbortfrakteren kan i alle tilfelle kreve sikkerhet for det ansvar slik utlevering kan medføre.

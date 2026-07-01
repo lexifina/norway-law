@@ -1,0 +1,4 @@
+# § 431. Unntak fra ufravikeligheten
+Uten hinder av § 430 kan bortfrakteren ved befordring av passasjer fraskrive seg ansvaret for forsinkelse etter dette kapittel for tiden før passasjeren går om bord og etter at passasjeren er kommet i land, men likevel ikke for sjøtransport mellom skipet og land som er inkludert i billettprisen eller utføres med transportmiddel stilt til rådighet av bortfrakteren.
+For håndreisegods som ikke befinner seg i eller på medført kjøretøy, kan bortfrakteren likeledes fraskrive seg ansvaret for forsinkelse etter dette kapittel for tiden før godset blir brakt om bord og etter at det er brakt i land, men ikke for sjøtransport mellom skipet og land som nevnt i første ledd, og heller ikke for den tid bortfrakteren har hånd om godset mens passasjeren befinner seg på kai eller på en terminal eller stasjon eller et annet anlegg i havn.
+Bortfrakteren kan i alle tilfelle forbeholde seg ansvarsfrihet for levende dyr som sendes som reisegods.

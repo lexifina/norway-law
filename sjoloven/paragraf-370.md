@@ -1,0 +1,4 @@
+# § 370. Forsinket betaling av frakt m v
+Blir frakt, overliggetidsgodtgjørelse eller andre krav etter kontrakten ikke betalt i rett tid, kan bortfrakteren fastsette en rimelig betalingsfrist. Er kravet ikke betalt innen fristens utløp, kan bortfrakteren stanse oppfyllelsen av kontrakten eller, dersom forsinkelsen utgjør vesentlig kontraktsbrudd, heve kontrakten.
+Bortfrakteren kan kreve erstatning etter alminnelige kontraktsregler for tap som skyldes at oppfyllelsen blir stanset eller, dersom kontrakten heves, at de gjenstående reiser bortfaller.
+Ved avslutningen av en reise under kontrakten har bortfrakteren tilbakeholdsrett i lasten for de krav som skyldes etter kontrakten. I forhold til en tredjeperson som har konnossement utstedt av bortfrakteren, gjelder dette bare hvis kravet er ført på konnossementet, jf § 325.

@@ -1,0 +1,3 @@
+# § 2. Dødsbo, uskifte og tvangssalg
+Når noen som eier norsk skip eller aksje eller andel i selskap som nevnt i § 1, er død, beholder skipet sin nasjonalitet så lenge dødsboet står under skiftebehandling ved norsk tingrett, uten hensyn til arvingenes nasjonalitet. Gjenlevende ektefelle som sitter i uskiftet bo, regnes ved anvendelsen av § 1 som eneeier av boets aktiva.
+Har noen ved tvangssalg kjøpt norsk skip for å redde en fordring som tilhører vedkommende og som denne har panterett for i skipet, kan departementet samtykke i at skipet midlertidig forblir norsk selv om vilkårene i § 1 ikke er oppfylt. Samtykket gjelder for den tid og på de vilkår som departementet fastsetter.

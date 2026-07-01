@@ -1,0 +1,5 @@
+# § 466. Søksmål
+Søksmål om en dispasjes riktighet kan anlegges i den rettskrets der dispasjøren har sitt faste forretningssted.
+Ved stykkgodstransport kan saken reises ved stevning mot alle lasteiere under ett. Retten skal la stevningen med innkalling kunngjøre i Norsk lysingsblad med et varsel av minst to måneder. Retten kan også foreta kunngjøring i et eller flere andre blad. I innkallingen skal retten gjøre oppmerksom på at rettskraftig dom i saken har bindende virkning for alle deltakerne i felleshavariet uten hensyn til om de har meldt seg under saken.
+Søksmål om innfordring av felleshavaribidrag kan reises i den rettskrets der dispasjøren har sitt faste forretningssted. Er slikt søksmål om en dispasjes riktighet anlagt i en annen rettskrets, kan enhver av partene, hvis spørsmålet om dispasjens riktighet ønskes avgjort med bindende virkning for alle deltakerne i felleshavariet, forlange saken overført til domstolen i den rettskrets som er nevnt i første ledd.
+Blir dispasjen underkjent ved dom, plikter dispasjøren å omgjøre den i samsvar med dommen.

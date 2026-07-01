@@ -1,0 +1,4 @@
+# § 346. Opplegging av godset
+Unnlater mottakeren å oppfylle vilkårene for utlevering av godset, eller forsinker mottakeren lossingen slik at den ikke kan fullføres til avtalt tid eller for øvrig uten urimelig forsinkelse, har reisebortfrakteren rett til å losse godset og legge det opp under sikker forvaring for mottakerens regning. Mottakeren skal underrettes om opplegningen.
+Nekter mottakeren å ta imot godset, eller er mottakeren ikke kjent eller ikke å treffe, skal reisebortfrakteren så hurtig som mulig underrette reisebefrakteren. Melder mottakeren seg ikke så tidlig at lossingen kan fullføres til rett tid, skal reisebortfrakteren losse og legge opp godset. Mottakeren og reisebefrakteren underrettes om opplegningen.
+I underretning etter første og annet ledd skal det angis en rimelig frist etter hvis utløp reisebortfrakteren kan selge eller på annen måte råde over opplagt gods. Ved salg eller annen forføyning over godset gjelder § 272.

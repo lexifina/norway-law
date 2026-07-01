@@ -1,0 +1,3 @@
+# § 20. Hvilke rettsstiftelser som kan registreres
+I skipsregisteret kan anmerkes dokument som går ut på å stifte, forandre, overdra, behefte, anerkjenne eller oppheve en rett som har et registrert skip til gjenstand. Unntatt er dokument vedrørende sjøpanterett i eller leie eller befraktning av skip.
+Når et søksmål som er brakt inn for tingretten eller en høyere rett gjelder rettighet som etter sin art kan registreres etter første ledd, kan retten ved kjennelse beslutte at stevningen eller et utdrag av den skal registreres. Blir saken hevet eller går dommen saksøkeren imot eller blir den midlertidige forføyning opphevd, skal det registrerte slettes så snart avgjørelsen er rettskraftig.

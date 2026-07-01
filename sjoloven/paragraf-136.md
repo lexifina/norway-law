@@ -1,0 +1,5 @@
+# § 136. Skipsførerens fravær og forfall m m
+Er skipsføreren fraværende eller har skipsføreren forfall, treffer den øverste tilstedeværende av styrmennene de avgjørelser som ikke kan oppsettes.
+Forlater skipsføreren skipet, plikter denne å gi den øverste tilstedeværende styrmann eller, dersom ingen styrmann er til stede, en annen av mannskapet underretning og nødvendig ordre for påkommende tilfelle.
+Når skipet ikke er fortøyd i havn eller til ankers på sikker ankerplass, må skipsføreren ikke uten nødvendighet være fraværende fra skipet. Det samme gjelder under farefulle forhold.
+Dør skipsføreren, eller blir skipsføreren på grunn av sykdom eller annen tvingende årsak ute av stand til å føre skipet, eller forlater skipsføreren tjenesten, trer den øverste av styrmennene i skipsførerens sted inntil ny fører har tiltrådt. Rederen skal i disse tilfeller underrettes uten opphold. Har styrmannen ikke de foreskrevne kvalifikasjoner for å føre skipet, skal også Sjøfartsdirektoratet eller vedkommende utenrikstjenesteansatt gis underretning så hurtig som mulig.

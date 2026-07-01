@@ -1,0 +1,3 @@
+# § 26. Ekstinksjon av ugyldighetsinnsigelse, m m
+Innsigelse om at registerhjemmel skyldes et ugyldig dokument, kan ikke gjøres gjeldende overfor den som har registrert en rett som denne har ervervet ved avtale med innehaveren av registerhjemmelen, og som var i god tro da innføringen i dagboken fant sted. Innsigelsen kan likevel gjøres gjeldende dersom dokumentet er falsk eller forfalsket eller er ugyldig på grunn av mindreårighet eller er kommet i stand ved grov tvang, jf avtaleloven § 28.
+Dersom et registrert hjemmelsdokument eller annet dokument er ugyldig uten at dette fremgår av skipsregisteret, og ugyldigheten senere faller bort, er registrering av den således stiftede rett unødvendig, idet retten regnes som registrert samtidig med at ugyldigheten faller bort.

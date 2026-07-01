@@ -1,0 +1,4 @@
+# § 25. Rettsvern i konkurs
+For at en frivillig stiftet rett skal ha rettsvern i konkurs, må retten være innført i dagboken senest dagen før konkursåpningen, bortsett fra de tilfeller som er nevnt i § 24 tredje, fjerde og femte ledd.
+Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgående gjeldsforhandling, jf dekningsloven § 1-4 sjette ledd, må retten være innført i dagboken senest dagen før åpningen av forhandling om tvangsakkord. Når retten er stiftet med samtykke av gjeldsnemnda, er likevel dens rettsvern overfor konkursboet ikke avhengig av registrering.
+For at en rett som er stiftet ved avtale skal kunne stå seg ved tvangsakkord, må rettsstiftelsen utenfor de tilfeller som er nevnt i § 24 tredje, fjerde og femte ledd være innført i dagboken senest dagen før forhandlingen om tvangsakkord er åpnet.

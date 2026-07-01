@@ -1,0 +1,4 @@
+# § 401. Definisjoner
+Med bortfrakter forstås i dette kapittel den som ved avtale, ervervsmessig eller mot vederlag, påtar seg befordring med skip av passasjerer eller av passasjerer og reisegods. Bortfrakteren kan være reder, befrakter (frembortfrakter) eller annen.
+Med passasjer forstås den som skal befordres eller blir befordret med skip i henhold til befordringsavtale, samt den som med bortfrakterens samtykke ledsager kjøretøy eller levende dyr som dekkes av en avtale om befordring av gods.
+Med reisegods forstås gjenstand, herunder kjøretøy, som befordres i tilknytning til en avtale om passasjerbefordring. Reglene om reisegods får ikke anvendelse dersom godset befordres i henhold til certeparti, konnossement eller annet dokument som vanligvis benyttes ved godsbefordring. Håndreisegods omfatter reisegods som passasjerer har i sin lugar, i sin varetekt eller i eller på sitt kjøretøy.

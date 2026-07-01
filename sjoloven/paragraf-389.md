@@ -1,0 +1,3 @@
+# § 389. Overskridelse av befraktningsperioden
+Med mindre det er avtalt et tidsrom for tilbakelevering, plikter tidsbortfrakteren å la skipet begynne på en ny reise selv om dette vil medføre overskridelse av den avtalte tid for tilbakelevering. Dette gjelder ikke når overskridelsen vil gå ut over det som må anses rimelig.
+For overskridelse som er tillatt etter første ledd, skal tidsbefrakteren betale avtalt tidsfrakt. For annen overskridelse skal tidsbefrakteren betale gjengs tidsfrakt, men ikke mindre enn den avtalte tidsfrakt, samt erstatning etter alminnelige kontraktsregler for annet tap forsinkelsen medfører for tidsbortfrakteren.

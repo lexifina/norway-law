@@ -1,0 +1,4 @@
+# § 443. Fravikelighet, skipsførerens fullmakt, lemping av avtaler mm
+Bestemmelsene i dette kapitlet gjelder ikke for så vidt annet følger av avtale. Det kan ikke avtales innskrenkninger i plikten til å forhindre eller begrense miljøskade.
+Skipsføreren har fullmakt til å slutte avtale om berging på vegne av skipets eier. Skipets eier, reder og skipsfører har hver for seg fullmakt til å slutte avtale om berging på vegne av eierne av de gjenstander som er eller har vært om bord på skipet.
+En bergingsavtale kan helt eller delvis settes til side eller endres hvis avtalen er inngått under utilbørlig påvirkning eller under innflytelse av fare, og det ville virke urimelig å gjøre den gjeldende. Avtale om bergelønnens eller det særlige vederlagets størrelse kan settes til side eller endres hvis kravet ikke står i rimelig forhold til det utførte bergingsarbeidet.

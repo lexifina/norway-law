@@ -1,0 +1,3 @@
+# § 333. Hindringer
+Kan ikke skipet legges på lasteplassen på grunn av hindring på reisebefrakterens side, kan det likevel meldes klart til lasting med den virkning at liggetiden begynner å løpe. Det samme gjelder ved trafikkopphopning og dessuten ved andre hindringer som reisebortfrakteren ikke med rimelighet kunne ta i betraktning på avtaletiden.
+I liggetiden medregnes ikke tid som går tapt ved hindring på reisebortfrakterens side. Det samme gjelder tid som går tapt som følge av at skipet på grunn av forhold som reisebortfrakteren med rimelighet kunne ta i betraktning på avtaletiden, er lagt på en lasteplass som ikke er sedvanlig. Derimot medregnes opphold ved forhaling av skipet.

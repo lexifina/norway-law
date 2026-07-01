@@ -1,0 +1,3 @@
+# § 325. Trampkonnossement
+Utsteder bortfrakteren konnossement for gods som befordres med skipet, bestemmer konnossementet vilkårene for befordringen og utleveringen av godset i forholdet mellom bortfrakteren og en tredjeperson som innehar konnossementet. Bestemmelser i befraktningsavtalen som ikke er tatt inn i konnossementet, kan ikke gjøres gjeldende overfor en tredjeperson med mindre konnossementet viser til dem.
+Reglene om konnossement i §§ 295 til 307 gjelder også konnossement som nevnt i første ledd. Når det følger av § 253 at reglene i kapittel 13 skal gjelde for konnossementet, bestemmes bortfrakterens ansvar og rettigheter overfor tredjepersoner av reglene i §§ 274 til 290, jf § 254.

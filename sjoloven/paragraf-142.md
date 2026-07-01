@@ -1,0 +1,3 @@
+# § 142. Hjemsending av sjømenn m m
+Sjømenn som det påhviler konsulen å sørge for at blir sendt hjem, plikter skipsføreren å ta med til bestemmelsesstedet eller en havn som skipet anløper under reisen, likevel bare i slikt antall og på slike vilkår som Kongen fastsetter. Uten godtgjørelse plikter skipsføreren, når det ikke volder ulempe, å ta med askeurner og etterlatte personlige eiendeler til sjømenn som ved sin død var norske statsborgere eller hadde sitt bosted i Norge.
+Under forutsetning av gjensidighet kan Kongen utvide disse bestemmelser til også å gjelde utenlandske sjømenn (deres askeurner og eiendeler) som ikke går inn under første ledd.

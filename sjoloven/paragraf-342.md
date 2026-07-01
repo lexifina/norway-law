@@ -1,0 +1,2 @@
+# § 342. Farlig gods
+Er farlig gods lastet uten at reisebortfrakteren kjente dets farlige beskaffenhet, kan reisebortfrakteren etter forholdene losse, uskadeliggjøre eller ødelegge godset uten plikt til å betale erstatning. Det samme gjelder selv om reisebortfrakteren kjente til godsets farlige beskaffenhet, dersom det senere oppstår en fare for person eller eiendom som gjør det uforsvarlig å beholde godset om bord.
