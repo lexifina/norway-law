@@ -1,0 +1,2 @@
+# § 2
+Det er et vilkår for rett til stønad etter denne forskriften at den som utfører svangerskapskonsultasjoner og yter bistand ved fødsel utenfor institusjon, har autorisasjon som jordmor. Vilkåret om norsk autorisasjon gjelder ikke for jordmødre fra andre EU/EØS-stater som yter midlertidige tjenester i Norge, jf. forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits.
