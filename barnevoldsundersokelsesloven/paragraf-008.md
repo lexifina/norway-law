@@ -1,0 +1,3 @@
+# § 8. Underretning og mulighet til å uttale seg
+Når Statens helsetilsyn har iverksatt undersøkelse av en sak etter denne loven, skal Statens helsetilsyn så vidt mulig underrette berørte personer og offentlige virksomheter samt andre som kan tenkes å kunne opplyse saken. Slik underretning skal gis så snart som mulig. Påtalemyndigheten kan beslutte at underretning skal utsettes eller unnlates dersom hensynet til etterforskningen eller andre særlige grunner gjør det nødvendig.
+Innen undersøkelsen avsluttes, skal personer og virksomheter som nevnt i første ledd gis adgang til å uttale seg om saken.
