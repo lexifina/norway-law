@@ -1,0 +1,5 @@
+# § 11. Erverv av skytevåpen, våpendelar og ammunisjon til jakt
+Personar som er innførte i Jegerregisteret, kan få løyve til å erverve og ha inntil åtte komplette skytevåpen som er løyvepliktige etter § 5, samt løyvepliktige våpendelar og ammunisjon etter §§ 6 og 7 til jakt. Personar som kan dokumentere eit særskilt behov, kan likevel få løyve til å erverve og ha meir enn åtte skytevåpen.
+Politiet kan gje løyve etter første ledd til å erverve og ha rifler og hagler med enkeltskot eller manuell omlading og halvautomatiske hagler som er tillatne i eller i medhald av § 5 andre og tredje ledd. Politiet kan også gje løyve etter første ledd til erverv av halvautomatiske rifler som oppfyller krava til konstruksjon og utforming som er fastsette i medhald av fjerde ledd. Dei skytevåpna som er nemnde i første og andre punktum, skal i tillegg oppfylle krava til jaktvåpen som er gjevne i eller i medhald av viltressursloven § 24.
+Politiet kan i særskilde tilfelle gje fritak frå kravet om innføring i Jegerregisteret og kravet til våpentype etter andre ledd tredje punktum.
+Kongen gjev forskrift om godkjenning av halvautomatiske rifler til jakt.

@@ -1,0 +1,2 @@
+# § 17. Krav til juridiske personar
+Politiet kan berre gje løyve til å erverve og ha løyvepliktige skytevåpen, våpendelar og ammunisjon etter §§ 5, 6 eller 7 til juridiske personar som oppfyller krav til vandel. Dei fysiske personane i organisasjonen som er ansvarlege for å levere ut, bruke og oppbevare gjenstandane på vegne av organisasjonen, må i tillegg oppfylle krava til alder, vandel og personlege eigenskapar etter §§ 15 og 16.

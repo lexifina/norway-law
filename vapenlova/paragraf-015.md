@@ -1,0 +1,4 @@
+# § 15. Krav til alder
+Aldersgrensa for å kunne erverve og ha skytevåpen, våpendelar eller ammunisjon er 18 år. For å kunne erverve og ha pistol og revolver som krev løyve etter § 5 første ledd, eller våpendelar til pistol eller revolver som er løyvepliktige i medhald av § 6 tredje ledd, er aldersgrensa likevel 21 år.
+Politiet kan gje personar som har fylt 16 år fritak frå alderskravet for hagler og rifler når verje samtykker til ervervet, og når skytevåpenet eller våpendelen kan oppbevarast av verje eller annan person som oppfyller krava til alder, vandel og personlege eigenskapar etter første ledd og § 16. Politiet kan likevel ikkje gje personar under 18 år løyve til å kjøpe skytevåpen.
+Politiet kan gje personar over 18 år fritak frå alderskravet for å kunne erverve og ha pistol, revolver og våpendelar til slike våpen. Eit vedtak om fritak etter første punktum skal gjerast tidsavgrensa for inntil eitt år.

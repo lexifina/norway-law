@@ -1,0 +1,4 @@
+# § 16. Krav til vandel og personlege eigenskapar
+Politiet kan berre gje løyve til å erverve og ha løyvepliktige skytevåpen, våpendelar og ammunisjon etter §§ 5, 6 eller 7 til personar som oppfyller krav til vandel og edruskap, og som ikkje av andre grunnar er uskikka. Med uskikka etter første punktum meiner ein helsemessige forhold, tilknyting til kriminelle miljø eller andre forhold som påverkar evna til å bruke, eller tilliten til at vedkomande vil bruke gjenstanden i samsvar med vilkår eller føresetnader for løyvet.
+Politiet kan i samsvar med forskrift fastsett i medhald av tredje ledd bestemme at personar som ikkje kan dokumentere kravet til vandel etter første ledd, må oppfylle krav til butid før det kan gjevast løyve til å erverve og ha løyvepliktige gjenstandar etter §§ 5, 6 eller 7.
+Kongen gjev forskrift om kravet til vandel etter første ledd og kravet til butid etter politiregisterloven § 36 andre ledd.

@@ -1,0 +1,2 @@
+# § 14. Erverv av skytevåpen, våpendelar og ammunisjon til andre føremål
+Personar som kan dokumentere eit behov eller annan rimeleg grunn for å erverve og ha løyvepliktige skytevåpen, våpendelar og ammunisjon etter §§ 5, 6 og 7 til andre føremål enn dei som er nemnde i §§ 11 til 13, kan få løyve til å erverve og ha slike gjenstandar. Behov eller annan rimeleg grunn som nemnd i første punktum kan til dømes vere minneverde, museumsføremål eller næringsverksemd.
