@@ -1,0 +1,6 @@
+# § 2-1. Fastsetting av inntekt før uførhet
+For arbeidstaker som har ett eller flere arbeidsforhold, skal inntekt før uførhet fastsettes med grunnlag i arbeidstakerens stillingsandel på tidspunktet personen har rett til å få utbetalt uføretrygden fra (virkningstidspunktet) omregnet til en årsinntekt i full stilling dersom det er gunstigere for vedkommende. Arbeidsforholdet må være dokumentert med arbeidsavtale som inneholder en klart angitt stillingsandel og startdato.
+Dersom sykdommen, skaden eller lytet har redusert inntektsevnen gradvis over flere år, kan det tas utgangspunkt i inntektsevnen før sykdommen, skaden eller lytet oppstod. Lidelsen anses oppstått fra og med det kalenderåret den medførte en inntektsreduksjon. Inntekt før uførhet fastsettes deretter i tråd med folketrygdloven § 12-9 første og andre ledd.
+Følgende pensjonsgivende inntekter skal unntas ved fastsetting av inntekt før uførhet:
+a) Ekstrainntekter og inntekter fra overtidsarbeid som ikke har vært stabile over tid før uførheten inntrådte.
+b) Erstatning for inntektstap ved erstatningsoppgjør som er pensjonsgivende inntekt etter skadeserstatningsloven § 3-1, yrkesskadeforsikringsloven § 13 eller pasientskadeloven § 4 første ledd.

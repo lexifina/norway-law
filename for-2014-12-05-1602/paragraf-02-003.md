@@ -1,0 +1,2 @@
+# § 2-3. Endring av inntekt før og etter uførhet
+Arbeidstaker med gradert uføretrygd kan få fastsatt ny inntekt før og etter uførhet. Endringen av inntekt før og etter uførhet forutsetter at arbeidstakeren har hatt en inntektsøkning som er høyere enn reguleringen av grunnbeløpet uten at stillingsandelen er økt. Personen må selv be om å få endret inntekt før og etter uførhet og dokumentere inntektsøkningen.
