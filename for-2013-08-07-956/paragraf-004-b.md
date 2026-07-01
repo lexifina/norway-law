@@ -1,0 +1,3 @@
+# § 4b. Engangs fergeflyging
+For enkeltstående flyging med luftfartøy for at det enten skal utrustes, repareres, inspiseres eller annet tilsvarende formål, eller når flygingen gjennomføres ved import eller eksport av luftfartøyet, gjelder driftsreglene i forordning (EU) nr. 965/2012 som gjennomført i forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner, vedlegg VII (del-NCO) tilsvarende så langt de passer. Dette gjelder likevel ikke dersom flygingen gjennomføres med passasjerer eller frakt, eller hvor luftfartøyet er oppført i en operatørs AOC eller selverklæring.
+Luftfartøy nevnt i første ledd må være registrert, samt være omfattet av luftdyktighetsbevis eller av flygetillatelse (permit to fly) fra luftfartsmyndigheten.
