@@ -1,0 +1,5 @@
+# § 13. Betaling for utskrivningsklare pasienter i døgnopphold i helseinstitusjon omfattet av spesialisthelsetjenesteloven i påvente av kommunalt tilbud
+Kommunen skal betale for utskrivningsklare pasienter som er innlagt på døgnopphold i helseinstitusjon omfattet av spesialisthelsetjenesteloven i påvente av et kommunalt helse- og omsorgstjenestetilbud.
+For pasienter som mottar helsehjelp inntrer betalingsplikten fra og med det døgnet pasienten blir erklært utskrivningsklar og vilkårene i § 8 til § 10 er oppfylt, og kommunen har gitt beskjed om at den ikke kan ta imot pasienten. Betalingsplikten inntrer også dersom kommunen ikke har svart på varselet etter § 10 om utskrivningsklar pasient.
+Helseinstitusjon omfattet av spesialisthelsetjenesteloven skal rapportere at pasienten er utskrivningsklar til Norsk pasientregister når vilkårene i andre ledd er oppfylt.
+Døgnpris for opphold for utskrivningsklar pasient i helseinstitusjon omfattet av spesialisthelsetjenesteloven fastsettes i statsbudsjettet.

@@ -1,0 +1,3 @@
+# § 12. Overføring av utskrivningsklar pasient fra helseinstitusjon omfattet av spesialisthelsetjenesteloven til kommunen
+Helseinstitusjon omfattet av spesialisthelsetjenesteloven kan overføre utskrivningsklar pasient når kommunen har bekreftet at et kommunalt helse- og omsorgstjenestetilbud til pasienten er klart.
+Ved utskrivning fra helseinstitusjon omfattet av spesialisthelsetjenesteloven skal epikrise eller tilsvarende informasjon sendes det helsepersonell som trenger opplysningene for å kunne gi pasienten forsvarlig oppfølging, jf. helsepersonelloven § 26 og § 29 og forskrift om pasientjournal § 9.

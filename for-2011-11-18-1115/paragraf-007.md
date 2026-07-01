@@ -1,0 +1,2 @@
+# § 7. Vurdering av en pasient som legges inn på døgnopphold i helseinstitusjon omfattet av spesialisthelsetjenesteloven
+Når en pasient legges inn på døgnopphold i helseinstitusjon omfattet av spesialisthelsetjenesteloven, skal helsepersonellet på helseinstitusjonen gjøre en vurdering av om pasienten kan ha behov for hjelp fra den kommunale helse- og omsorgstjenesten etter utskrivning fra døgnoppholdet.
