@@ -1,0 +1,3 @@
+# § 2-1. Krav til forsvarlig mineralvirksomhet
+Mineralvirksomhet skal foregå på en forsvarlig måte og i samsvar med gjeldende regelverk og skal ivareta hensynet til forsvarlig ressursforvaltning og sikkerhet for personell, miljø og omgivelser. Planlegging og gjennomføring av mineralvirksomhet skal skje slik at inngrep i grunn, naturmangfold og kulturminner og ulemper for nærmiljøet og dets brukere begrenses mest mulig innenfor hva som er praktisk og økonomisk forholdsmessig. Mineralvirksomheten må ikke hindre eller vanskeliggjøre annen næringsvirksomhet uten rimelig grunn eller vanskeliggjøre den i urimelig grad.
+Kravet til forsvarlig mineralvirksomhet gjelder også for mineraluttak som omfattes av rapporteringsplikten i § 7-4.

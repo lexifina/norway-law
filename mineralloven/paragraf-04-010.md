@@ -1,0 +1,4 @@
+# § 4-10. Karanteneperiode etter opphør av undersøkelsestillatelse mv.
+I områder hvor tillatelse til undersøkelse etter § 4-3 opphører uten at det er gitt utvinningsrett, kan det i en karanteneperiode på seks måneder fra det tidspunktet tillatelsen opphører, ikke gis ny undersøkelsestillatelse.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan ikke behandle søknader om undersøkelsestillatelse i karanteneperioden. Ved karanteneperiodens utløp gjelder reglene i § 4-3.
+Før utløpet av karanteneperioden kan direktoratet beslutte at området skal lyses ut særskilt. Direktoratet skal fastsette en frist for å søke om undersøkelsestillatelse. Vilkårene for tildeling av undersøkelsestillatelse etter § 4-3 andre og tredje ledd gjelder tilsvarende. Direktoratet kan fastsette saklige og objektive kriterier som skal benyttes ved valg mellom flere søkere til det utlyste området.

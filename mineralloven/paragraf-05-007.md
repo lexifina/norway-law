@@ -1,0 +1,2 @@
+# § 5-7. Forlengelse av utvinningsrett
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan forlenge fristene etter § 5-6 første ledd bokstav a og b med inntil ti år av gangen. Forlengelse av fristene bør normalt gis dersom forekomsten må anses å være en rimelig reserve for søkerens drift. En søknad om forlengelse må være kommet inn til direktoratet innen fristene i § 5-6 første ledd bokstav a til c.

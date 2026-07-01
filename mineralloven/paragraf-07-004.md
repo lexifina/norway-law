@@ -1,0 +1,2 @@
+# § 7-4. Rapportering om uttak av mineraler som hovedsakelig skjer som ledd i tilrettelegging for annen bruk av grunnområdet
+Den som er ansvarlig for et uttak som hovedsakelig skjer som ledd i tilrettelegging for annen bruk av grunnområdet der massene tas ut, jf. § 1-2 andre ledd, skal rapportere om uttaket til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard dersom uttaket overstiger 5000 m3.

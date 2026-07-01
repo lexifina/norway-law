@@ -1,0 +1,2 @@
+# § 5-4. Samordnet utvinning
+Der forskjellige rettighetshavere har rett til ulike deler av den samme mineralforekomsten, og det av hensyn til god ressursforvaltning, kostnader eller miljøet klart er rasjonelt å samordne utvinningen av forekomsten, kan Direktoratet for mineralforvaltning med Bergmesteren for Svalbard gi rettighetshaverne pålegg om utarbeiding av plan for samordnet utvinning. Det samme gjelder der det vil være klart rasjonelt med samordnet utvinning av flere mineralforekomster.

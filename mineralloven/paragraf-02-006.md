@@ -1,0 +1,4 @@
+# § 2-6. Sikkerhet for dekning av kostnader ved sikring, opprydding og istandsetting
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan pålegge tiltakshavere som gjennomfører undersøkelser etter § 4-3, å stille økonomisk sikkerhet for gjennomføring av sikringstiltak etter § 2-4 og oppryddings- og istandsettingstiltak etter § 2-5.
+Direktoratet skal pålegge tiltakshavere for prøveuttak eller konsesjonspliktig drift å stille økonomisk sikkerhet for gjennomføring av sikringstiltak etter § 2-4 og oppryddings- og istandsettingstiltak etter § 2-5. Direktoratet kan også fatte vedtak om økonomisk sikkerhetsstillelse for utvinning som ikke krever driftskonsesjon. I særlige tilfeller kan direktoratet gjøre helt eller delvis unntak fra krav om økonomisk sikkerhetsstillelse.
+Direktoratet kan pålegge tiltakshavere å stille sikkerhet til staten for sikringstiltak og oppryddings- og istandsettingsbehov som kan oppstå etter at mineralvirksomheten er avsluttet.

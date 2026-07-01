@@ -1,0 +1,4 @@
+# § 2-7. Vektlegging av tiltakets virkninger for naturgrunnlaget for samisk kultur mv.
+Ved vurderingen av om det skal gis tillatelse til mineralvirksomhet som nevnt i §§ 4-3, 4-13, 5-2 eller 6-3 eller tillatelse til ekspropriasjon etter § 9-1 i tradisjonelle samiske områder, skal det legges vesentlig vekt på den virkningen det planlagte tiltaket vil ha for naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv.
+I vurderingen etter første ledd skal tiltakets virkninger sees i sammenheng med andre gjennomførte eller planlagte tiltak i området. Det skal også legges vekt på momenter av betydning for naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv som kommer frem i konsultasjoner som er gjennomført etter § 2-8.
+Dersom en søknad om tillatelse som nevnt i første ledd innvilges, kan det settes vilkår for å ivareta hensynet til samisk kultur, næringsutøvelse og samfunnsliv.
