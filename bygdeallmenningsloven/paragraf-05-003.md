@@ -1,0 +1,3 @@
+# § 5-3. (avgifter)
+Når virkesrett utøves ved utvisning etter § 5-2, kan de bruksberettigede pålegges å betale avgift i forhold til tildelt kvantum. Avgiften skal dekke skogfond etter skogbrukslova kapittel 4, samt allmenningsstyrets utgifter i forbindelse med utvisningen og til nødvendig skogkultur for så vidt det ikke dekkes av skogfondmidler og offentlige tilskudd.
+I den utstrekning det ikke på annen måte kan skaffes midler til nødvendige investeringer, kan de bruksberettigede som får utvist virke, også pålegges å betale en tilleggsavgift til slike investeringer i forhold til tildelt kvantum.

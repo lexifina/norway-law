@@ -1,0 +1,9 @@
+# § 4-2. (stemmerettens innhold, stemmegivning og fullmakt til å avgi stemme)
+Det kan avgis to stemmer for hver eiendom bruksrett ligger til, enten slik at den som alene har stemmerett kan avgi to stemmer, eller slik at to som begge har stemmerett kan avgi hver sin stemme ved fremmøte. Følgende regler gjelder for utøvelse av stemmeretten:
+1) Ektefeller har begge stemmerett ved fremmøte. Det samme gjelder samboere hvor begge har undertegnet erklæring til allmenningsstyret om at begge skal stå i manntallet som stemmeberettigede.
+2) Eies den eiendom bruksretten ligger til i sameie mellom to personer, har hver én stemme ved fremmøte. Ellers kan stemmeretten utøves av én eller to av sameierne som fremlegger skriftlig fullmakt gitt i henhold til reglene i lov av 18. juni 1965 nr. 6 om sameige §§ 4 til 7. For ektefeller som er sameiere gjelder nr. 1 ovenfor.
+3) For eiendom som eies av en fylkeskommune, en kommune, et selskap, et samvirkeforetak, en stiftelse, en forening, et bo eller lignende, utøves stemmeretten ved skriftlig fullmakt undertegnet av rette vedkommende.
+4) For eiendom som er forpaktet tilligger stemmeretten eieren, med mindre det overensstemmende med § 2-4 er avtalt at bruksretten skal utøves av forpakteren, og det på valgdagen gjenstår minst to år av forpaktningstiden. Når stemmeretten tilligger forpakteren har også dennes ektefelle stemmerett i samsvar med nr. 1 ovenfor.
+Stemmegivningen kan bare skje skriftlig på stemmesedler som utleveres under årsmøtet. Stemmegivning ved fullmakt kan bare skje i de tilfelle som er nevnt i første ledd nr. 2 og 3.
+For person som er mindreårig eller fratatt rettslig handleevne, utøves stemmeretten av vergen.
+Ingen kan avgi mer enn to stemmer. I tilfelle hvor både vergen og person som nevnt i tredje ledd har stemmerett, kan likevel vergen stemme både for seg selv og personen han eller hun er verge for.

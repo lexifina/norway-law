@@ -1,0 +1,4 @@
+# § 1-7. (forkynnelser m.v. i allmenningssaker)
+Forkynnelser for et større eller et ubestemt antall bruksberettigede i en bygdeallmenning kan foretas ved kunngjøring i Norsk Lysingsblad, uten at de enkelte bruksberettigede navngis. I tillegg skal kunngjøring foretas lokalt på hensiktsmessig måte med henvisning til fullstendig kunngjøring i Norsk Lysingsblad.
+Det må uttrykkelig angis at kunngjøringen trer istedenfor ordinær forkynnelse, og at forkynnelse ikke blir foretatt på annen måte. Medfører forkynnelsen at en frist begynner å løpe, skal også tidspunktet for fristens utløp angis. Fristen regnes fra dato for første kunngjøring i Norsk Lysingsblad, med tillegg av syv dager.
+Bestemmelsene i denne paragraf gjelder tilsvarende for varsel om bevisopptak etter tvisteloven § 27-3 annet ledd første punktum og for øvrig for andre underretninger til parter i forbindelse med rettergang.

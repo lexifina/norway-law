@@ -1,0 +1,2 @@
+# § 7-2. (utvidet adgang til jakt og fangst)
+Allmenningsstyret avgjør om andre personer enn de i § 7-1 nevnte skal gis adgang til slik jakt og fangst som der nevnt, i hvilken utstrekning og på hvilke vilkår. Er det fastsatt bestemmelser om dette i bruksregler for den enkelte allmenning, jfr. §§ 3-7 og 7-6, er allmenningsstyret bundet av disse. Før avgjørelse treffes skal det innhentes uttalelse fra kommunen.

@@ -1,0 +1,5 @@
+# § 3-4. (fellesstyre)
+For bygdeallmenninger som naturlig hører sammen eller som tidligere har vært én allmenning, og hvor det i forbindelse med delingen eller på annen måte er opprettholdt fellesbruk uavhengig av de nye allmenningsgrenser, kan det etableres et fellesstyre til administrasjon av slik fellesbruk. Beslutning om etablering av et fellesstyre treffes av de allmenningsstyrer som spørsmålet berører. Ordningen forutsetter tilslutning fra alle de allmenninger som inngår i det felles bruksområde, og opphører hvis ett av allmenningsstyrene beslutter å tre ut.
+Fellesstyret består av lederne og nestlederne i de respektive allmenningsstyrene, med oppnevnte styremedlemmer som varamedlemmer.
+Fellesstyret har samme myndighet i spørsmål vedrørende fellesbruken som et allmenningsstyre ellers har i spørsmål om bruksrett innen den enkelte allmenning, jfr. § 3-2 annet ledd.
+Fellesstyret skal sørge for at det i den enkelte allmennings bruksregler så vidt mulig blir fastsatt ens bestemmelser om utøvelse av fellesbruken.
