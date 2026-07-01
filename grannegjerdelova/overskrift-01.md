@@ -1,0 +1,1 @@
+# Ålmenne føresegner.

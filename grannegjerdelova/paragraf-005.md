@@ -1,0 +1,2 @@
+# § 5
+Når grannegjerda ikkje vert halde oppe lenger, skal grannane taka bort gjerde eller gjerderestar som kan vera farlege for folk eller husdyr. Så langt grannane ikkje har ansvar for kvart sitt stykke, skal dei dele kostnadene med å taka gjerdet eller gjerderestane bort i same høve som den skyldnaden dei hadde til å halda gjerde på den tida dette vart lagt ned. Tvist etter denne paragrafen kan avgjerast av jordskifteretten.
