@@ -1,0 +1,2 @@
+# § 12. Merking av stag, kabler, forankringsanordninger mv.
+Stag, kabler og andre forankringsanordninger for luftfartshinder skal merkes med markører eller lavintensitets hinderlys type B dersom de har en horisontal utstrekning på mer enn 90 meter fra luftfartshinderet. Markører eller hinderlys skal plasseres på de ytre festeanordninger og eventuelt på de mellomliggende festeanordninger, slik at det ikke er mer enn 90 meter horisontalt og 75 meter vertikalt mellom markørene eller lysene.

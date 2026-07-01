@@ -1,0 +1,3 @@
+# § 14. Markører mv.
+(1) Markører skal i dagslys være synlige på minst 1500 meters avstand fra alle aktuelle innflygingsvinkler. Markører skal ha en diameter på minst 0,8 meter. Avstanden mellom markører skal ikke overstige 90 meter målt langs kabelen. Markører med minste diameter 0,6 meter kan benyttes dersom avstanden mellom markørene ikke overstiger 70 meter. Markører skal ha reflekterende farger som angitt i § 15.
+(2) Markører på luftspenn kan fordeles på flere parallelle faser av luftspennet, men slik at maksimumsavstanden, jf. første ledd, ikke overskrides. Markører kan også festes ved siden av eller over luftspenn.
