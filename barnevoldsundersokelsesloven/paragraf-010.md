@@ -1,0 +1,3 @@
+# § 10. Adgang til å avgi forklaring
+Enhver kan uten hinder av taushetsplikt avgi forklaring til Statens helsetilsyn om opplysninger som er nødvendige for undersøkelser etter denne loven. Dette gjelder også opplysninger som nevnt i straffeprosessloven § 119 første ledd og tvisteloven § 22-5 første ledd. Opplysninger som noen har fått tilgang til i forbindelse med oppdrag som forsvarer i straffesak, kan likevel bare utleveres dersom den som har krav på hemmelighold, samtykker. Det kan ikke utleveres opplysninger som er underlagt taushetsplikt etter ekomloven § 3-10 eller plikt til hemmelighold i medhold av domstolloven § 128.
+Enhver som forklarer seg for Statens helsetilsyn, har rett til å la seg bistå under forklaringen, med mindre dette vesentlig forsinker saken.
