@@ -1,0 +1,2 @@
+# § 8. Delt bustad
+Når foreldra er samde om at dei har avtalt delt bustad etter barnelova § 36 første stykke for barnet og dokumenterer dette skriftleg, skal det leggjast til grunn at foreldra har dei same utgiftene per dag til barnet den tida barnet bur fast hos kvar av dei og at barnet bur like mykje hos begge. § 1 til § 7 i denne forskrifta skal nyttast tilsvarande. Forskrifta § 10 skal ikkje nyttast.

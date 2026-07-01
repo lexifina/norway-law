@@ -1,0 +1,3 @@
+# § 10. Barnetillegg i trygd o.a.
+Dersom den tilskotspliktige får pensjon, forsørgjartillegg frå Forsvaret eller anna yting frå det offentlege der barnetillegg er ein del av stønaden, skal tilskotet før samværsfrådrag aldri setjast til ein lågare sum enn netto motteke barnetillegg. Når den tilskotspliktige betaler skatt, skal det takast omsyn til dette. Når den tilskotspliktige mottek forsørgjartillegg for fleire barn, skal tillegget delast likt mellom barna.
+Dersom tilskotsmottakaren mottek slik offentleg yting der barnetillegg er ein del av stønaden, skal tilskotet etter samværsfrådrag aldri setjast høgare enn underhaldskostnaden redusert for tillegget. Første stykke andre og tredje punktum gjeld tilsvarande.
