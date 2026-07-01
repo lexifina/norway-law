@@ -1,0 +1,5 @@
+# § 11. Apoteklovens og legemiddellovens anvendelse for Svalbard
+Lov 2. juni 2000 nr. 39 om apotek og lov 4. desember 1992 nr. 132 om legemidler m.v. gjelder for Svalbard.
+Forskrifter med hjemmel i lovene, med unntak av forskrift 4. februar 2005 nr. 80 om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre og forskrift 7. mars 2008 nr. 222 om krav til kvalitet og sikkerhet ved håndtering av humane celler og vev, gjelder for Svalbard.
+Apotek på Svalbard kan ekspedere resept og rekvisisjon utstedt av lege som praktiserer på Svalbard etter § 4 tiende ledd eller § 23 første ledd og som er autorisert som lege i annet land enn de som fremgår av forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 9-5.
+Uten hinder av første og andre ledd kan Sysselmesteren gi praktiserende lege på Svalbard tillatelse til å innføre og utlevere legemidler i den utstrekning dette er nødvendig av hensyn til legens virksomhet. Sysselmesteren kan stille nærmere vilkår for slik tillatelse.
