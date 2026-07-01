@@ -1,0 +1,6 @@
+# § 3-11. Om informasjon
+Helseinstitusjoner som omfattes av loven her, har plikt til å gi videre den informasjon som er nødvendig for at allmennheten skal kunne ivareta sine rettigheter, jf. pasient- og brukerrettighetsloven § 2-2, § 2-2 a, § 2-3, § 2-4, § 2-4 a annet ledd bokstav a og § 2-5.
+Helseinstitusjoner som omfattes av loven her, har plikt til å sørge for at det gis slik informasjon som pasienten har rett til å motta etter pasient- og brukerrettighetsloven § 3-2. Tilsvarende gjelder for informasjon til pasientens nærmeste pårørende etter pasient- og brukerrettighetsloven § 3-3 tredje ledd.
+Virksomheter som er omfattet av loven her, har plikt til å besvare henvendelser om kvalitet og pasientsikkerhet fra pasienter eller den som opptrer på vegne av pasienten. Bestemmelsen gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til en avdød pasient eller fra nærmeste pårørende til en pasient over 18 år som mangler beslutningskompetanse etter pasient- og brukerrettighetsloven § 4-3 annet ledd.
+Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og blant annet oppfylle krav til informasjon i pasient- og brukerrettighetsloven kapittel 3.
+Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første til fjerde ledd.

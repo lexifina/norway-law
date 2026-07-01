@@ -1,0 +1,2 @@
+# § 6-2. Opplysningsplikt til Statens helsetilsyn og statsforvalteren
+Bestemmelsene i helsetilsynsloven § 7 om plikt til å gi tilsynsmyndigheten opplysninger og adgang til virksomheten på anmodning, og adgang til å gi tilsynsmyndigheten opplysninger av eget tiltak uten hinder av taushetsplikt, gjelder for enhver som utfører tjeneste eller arbeid som angår helsetjenester som omfattes av denne loven.

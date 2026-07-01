@@ -1,0 +1,2 @@
+# § 3-15. Varsel til kommunen ved utskrivning
+Når utskrivning fra tjeneste som nevnt i § 2-1 a første ledd nr. 5 bør medføre tiltak fra den kommunale helse- og omsorgstjenesten, og pasienten ønsker det, skal kommunen varsles om utskrivningen i god tid på forhånd. Utskrivning skal planlegges og forberedes i samarbeid mellom berørte parter. Ved utskrivning etter innleggelse med hjemmel i helse- og omsorgstjenesteloven §§ 10-2 og 10-3 skal kommunen alltid varsles.

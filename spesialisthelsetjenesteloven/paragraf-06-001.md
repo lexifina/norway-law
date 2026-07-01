@@ -1,0 +1,3 @@
+# § 6-1. Taushetsplikt
+Enhver som utfører tjeneste eller arbeid for en helseinstitusjon som omfattes av denne loven, har taushetsplikt etter forvaltningsloven §§ 13 til 13 e og 13 g.
+Taushetsplikten gjelder også pasientens fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted. Opplysning om en pasients oppholdssted kan likevel gis når det er klart at det ikke vil skade tilliten til helseinstitusjonen. Opplysning om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport etter § 2-1a første ledd nr. 6.
