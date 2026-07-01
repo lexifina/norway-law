@@ -1,0 +1,3 @@
+# § 24. Arrangør og gjennomføring av godkjenningsprøve for ettersøksekvipasjer
+Godkjenningsprøve for ettersøksekvipasjer skal være terminfestet og gjennomføres i regi av lokale lag, foreninger og klubber tilsluttet Norges Jeger- og Fiskerforbund eller Norsk Kennel Klub. Andre kan etter søknad til Landbruksdirektoratet bli godkjent som arrangør. Godkjenningsprøve for ettersøksekvipasjer skal være åpen for enhver.
+Godkjenningsprøve for ettersøksekvipasjer skal dømmes av autorisert ettersøksdommer. Norsk Kennel Klub eller annen organisasjon som etter søknad er godkjent av Landbruksdirektoratet har ansvaret for å utdanne og autorisere ettersøksdommere. Utdannelsen skal følge instruks for prøving og godkjenning av ettersøksekvipasjer fastsatt av Landbruksdirektoratet.

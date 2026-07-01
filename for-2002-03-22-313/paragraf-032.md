@@ -1,0 +1,2 @@
+# § 32. Merking av feller
+Feller skal være synlig merket med brukerens jegernummer. Ved fangst av viltarter opplistet i vedlegg 1, unntatt gaupe og jerv, skal feller i tillegg merkes med telefonnummer til kommunal viltmyndighet. Ved kvotejakt på gaupe, og lisensfelling av jerv, skal feller i tillegg til brukerens jegernummer, merkes med telefonnummeret til statsforvalteren. Disse kravene gjelder ikke rypesnarer.
