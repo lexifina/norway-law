@@ -1,0 +1,3 @@
+# § 11-4. Meldeplikt om avhendelse av vesentlig del av virksomheten, fusjon og fisjon mv.
+En verdipapirsentral skal sende skriftlig melding til Finanstilsynet om beslutning om å avhende en vesentlig del av verdipapirsentralens virksomhet som nevnt i avsnitt A i vedlegget til verdipapirsentralforordningen og ved fusjon og fisjon. Endringen kan tidligst iverksettes tre måneder etter at Finanstilsynet har mottatt melding som nevnt i første punktum.
+En verdipapirsentral skal sende skriftlig melding til Finanstilsynet om beslutning om å etablere datterselskap i utlandet eller filial i land utenfor EØS-området før etableringen iverksettes.

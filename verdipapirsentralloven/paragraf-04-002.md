@@ -1,0 +1,2 @@
+# § 4-2. Rett til å få opprettet konto
+En verdipapirsentral plikter å opprette enkeltkonto eller forvalterkonto til registrering av finansielle instrumenter som er innført i verdipapirsentralen. En verdipapirsentral må ikke avvise en kunde med mindre hvitvaskingsloven eller annen lov eller regler gitt med hjemmel i lov gir anvisning om å avvise kunden eller det foreligger saklig grunn til å avvise kunden.

@@ -1,0 +1,2 @@
+# § 7-2. Rettsvirkninger av registrering for finansielle instrumenter som er innført gjennom en forbindelse til en annen verdipapirsentral mv.
+Dersom en verdipapirsentral innfører finansielle instrumenter som allerede er innført i en annen verdipapirsentral eller i et annet register, får rettigheter til de finansielle instrumentene rettsvirkninger etter §§ 7-3 og 7-4 når de er registrert på en verdipapirkonto i førstnevnte verdipapirsentral.

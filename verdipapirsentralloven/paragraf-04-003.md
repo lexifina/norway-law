@@ -1,0 +1,4 @@
+# § 4-3. Krav til forvaltere
+Innehavere av forvalterkontoer skal være bank, kredittforetak, verdipapirforetak, verdipapirsentral eller forvaltningsselskap for verdipapirfond. Forvalteren må være underlagt regulering og tilsyn i sin hjemstat og plikte å overholde regler som tilsvarer direktiv (EU) 2015/849 om tiltak for å hindre at finanssystemet brukes til hvitvasking av penger eller finansiering av terrorisme.
+Før en verdipapirsentral oppretter en forvalterkonto for en forvalter for første gang, skal verdipapirsentralen innhente en bekreftelse fra forvalteren om at den er kjent med og kan oppfylle plikten til å gi opplysninger i § 4-4 fjerde ledd.
+Finanstilsynet kan i særlige tilfeller gi en verdipapirsentral tillatelse til å opprette en forvalterkonto i navnet til en forvalter som ikke er omfattet av første ledd.

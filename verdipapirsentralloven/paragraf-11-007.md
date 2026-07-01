@@ -1,0 +1,4 @@
+# § 11-7. Tiltak ved brudd på forvalteres plikter
+Dersom noen forvalter en forvalterkonto uten å oppfylle kravene i § 4-3, kan Finanstilsynet kreve kontoen sperret. Ved sperring mister forvalteren retten til å disponere over de finansielle instrumentene som er registrert på kontoen, herunder til å motta utbetalinger knyttet til de finansielle instrumentene med frigjørende virkning for betaleren. Sperringen er ikke til hinder for gjennomføringen av transaksjoner som er godkjent av Finanstilsynet.
+Første ledd gjelder tilsvarende dersom en forvalter ikke oppfyller sin plikt til å gi opplysninger etter § 4-4 fjerde ledd.
+Departementet kan i forskrift gi nærmere regler om tvangssalg av finansielle instrumenter registrert på forvalterkontoer i de tilfeller der kontoen forvaltes av noen som ikke oppfyller kravene i § 4-3, eller der forvalteren ikke oppfyller sin plikt etter § 4-4 fjerde ledd.

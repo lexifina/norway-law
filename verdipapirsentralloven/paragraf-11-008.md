@@ -1,0 +1,2 @@
+# § 11-8. Forbud mot å ha ledelsesfunksjon
+Dersom et styremedlem, en daglig leder eller en faktisk leder i en verdipapirsentral eller i en kredittinstitusjon som er utpekt etter verdipapirsentralforordningen artikkel 54, har overtrådt en bestemmelse som nevnt i verdipapirsentralforordningen artikkel 63 nr. 1 og overtredelsen medfører at vedkommende anses uskikket til å ha ledelsesfunksjon i foretaket, kan Finanstilsynet forby vedkommende å ha slike ledelsesfunksjoner. Tilsvarende gjelder overfor andre fysiske personer som kan holdes ansvarlig for overtredelsen.

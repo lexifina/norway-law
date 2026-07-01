@@ -1,0 +1,3 @@
+# § 7-8. Forskrifter om finansielle instrumenter utstedt etter en annen stats lovgivning mv.
+Departementet kan i forskrift fastsette at reglene i dette kapittelet helt eller delvis ikke skal gjelde for finansielle instrumenter utstedt etter en annen stats lovgivning dersom de er underlagt rettsvirkninger etter lovgivningen i staten der de er utstedt, som ikke er forenelige med bestemmelsene i dette kapittelet.
+Departementet kan i forskrift fastsette at rettsvirkninger som nevnt i § 7-2 ikke skal inntre for finansielle instrumenter som allerede er innført i en annen verdipapirsentral eller i et annet register og som er underlagt rettsvirkninger som ikke er forenelige med § 7-2.

@@ -1,0 +1,2 @@
+# § 7-4. Mangler ved avhenderens rett
+Når en rettighet som er ervervet ved avtale, er registrert etter § 7-1, kan det ikke gjøres gjeldende mot erververen at avhenderens rett ikke var i samsvar med registerets innhold. Dette gjelder ikke dersom erververen var eller burde ha vært kjent med avhenderens manglende rett da rettigheten ble registrert. Første punktum gjelder ikke konflikter mellom kolliderende rettigheter som nevnt i § 7-3.

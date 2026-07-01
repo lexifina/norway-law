@@ -1,0 +1,3 @@
+# § 3-2. Krav til makulering av fysiske dokumenter mv.
+Dersom det allerede er utstedt et dokument som representerer et finansielt instrument på en måte som kan komme i strid med det som følger av denne loven, kan det finansielle instrumentet først innføres i en verdipapirsentral etter at dokumentet har blitt makulert, lagt i sikker forvaring eller på annen måte blitt sikret mot å komme i omsetning. Dokumenter som representerer finansielle instrumenter utstedt etter norsk rett, skal makuleres.
+Departementet kan i forskrift gi nærmere regler om innkalling av dokumenter ved innføring i en verdipapirsentral.

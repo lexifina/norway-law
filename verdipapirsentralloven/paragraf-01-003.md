@@ -1,0 +1,2 @@
+# § 1-3. Forskrifter for velfungerende og trygg verdipapirregistrering mv.
+Departementet kan i forskrift gi regler om verdipapirsentraler, verdipapiroppgjør eller registrering av rettigheter til finansielle instrumenter dersom dette er nødvendig av hensyn til sikre og velfungerende verdipapirsentraler, et sikkert, effektivt og smidig oppgjør eller et sikkert, velordnet og effektivt system for registrering av rettigheter til finansielle instrumenter.
