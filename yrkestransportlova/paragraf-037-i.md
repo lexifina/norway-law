@@ -1,0 +1,3 @@
+# § 37 i. Forkorting på grunn av etterfølgjande forhold m.m.
+Tilbakekalling av retten til å føre motorvogn ved persontransport mot vederlag er ikkje til hinder for at politimeisteren eller den han gir myndigheit utferdar ny kjøresetel dersom dei grunnar som medførte tilbakekallinga ikkje lenger er til stades.
+Dersom særlige grunnar talar for det, kan politimeisteren eller den han gir myndigheit forkorte den perioden for tap av retten til å føre motorvogn ved persontransport mot vederlag som er fastsett ved dom eller førelegg, jf. § 37 f. Dersom særs sterke grunner talar for det, kan perioden forkortast sjølv om minstetida etter lov eller forskrift ikkje er gått ut.

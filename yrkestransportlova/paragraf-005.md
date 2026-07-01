@@ -1,0 +1,3 @@
+# § 5. Løyve for godstransport med motorvogn
+(1) Den som mot vederlag vil drive nasjonal eller internasjonal godstransport med motorvogn eller motorvogn med tilhengar, med tillaten totalvekt over ei vektgrense som vert nærare fastsett av departementet, må ha løyve. Det same gjeld den som utfører godstransport mot vederlag med motorvogn som elles er friteken frå kravet til løyve i medhald av § 16, når transporten kan sjåast som ledd i næringsverksemd. § 4 andre ledd gjeld tilsvarande.
+(2) Som motorvogn etter første ledd reknast varebil, lastebil, kombinert bil og trekkbil tillaten brukt på offentleg veg.

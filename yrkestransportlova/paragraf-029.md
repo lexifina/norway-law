@@ -1,0 +1,5 @@
+# § 29. Tilbakekalling av løyve
+(1) Løyvestyresmakta kan kalle tilbake løyve når løyvehavaren ikkje fyller dei krava som er sette i forskrifter og vilkår, eller ikkje rettar seg etter forskrifter og vilkår som gjeld for å drive verksemda.
+(2) Døyr løyvehavaren, skal den som rår over buet hans straks sende melding om dødsfallet til den styresmakt som har gjeve løyvet. Det same skal gjerast om løyvehavaren går konkurs. Når løyvehavar døyr eller går konkurs, kan løyve takast att utan varsel. Departementet kan gje nærare føresegner om avvikling av løyve der løyvehavar døyr.
+(3) Når retten til å drive løyvepliktig verksemd etter lova har falle bort, skal løyvehavaren eller den som rår over buet hans, straks sende tilbake dei legitimasjonane og løyveskilta som han har fått frå løyvestyresmakta.
+(4) Når det er fastsett at løyve skal takast att, kan det samstundes gjerast vedtak om at vedkomande ikkje skal få nytt løyve før etter ei fastsett tid utan omsyn til at han fyller krava for å få nytt løyve.

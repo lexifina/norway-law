@@ -1,0 +1,7 @@
+# § 41 a. Tilbakehaldsrett i motorvogn og køyretøy som vert trekt av motorvogn
+(1) Den som har fullmakt til å føre kontroll etter denne lova, kan halde tilbake motorvogn og køyretøy som vert trekt av motorvogn, dersom eigaren har fått eller truleg vil få bot eller lovbrotsgebyr for brot på føresegner gjevne i eller i medhald av denne lova. Likestilt med eigaren er den som har disposisjonsrett over motorvogna eller køyretøyet som vert trekt av motorvogna.
+(2) Det kan berre tas avgjerd om tilbakehald når det er naudsynt for å sikre betaling av bot, lovbrotsgebyr og eventuelle kostnadar knytte til gjennomføringa av tilbakehaldet og når slikt tilbakehald er forholdsmessig. Ved vurderinga skal det takast omsyn til storleiken på bota eller lovbrotsgebyret, typen brot og tilhøva elles.
+(3) Tilbakehaldet skal ta slutt når betalinga er gjennomført eller kravet er sikra etter reglane i tvangsfullbyrdelsesloven § 3-4.
+(4) Dersom tilbakehaldet skal sikre betaling av ei bot, kan køyretøyet haldast tilbake til påtalemakta har tatt avgjerd om det skal gis bot. Påtalemakta avgjer om det er grunn til å halde fram tilbakehaldet.
+(5) Tilbakehaldet kan, om det er naudsynt, sikrast ved bruk av mekanisk eller elektronisk innretning.
+(6) Køyretøy som er haldne tilbake, kan seljast etter reglane i vegtrafikkloven § 37 femte til åttande ledd dersom beløpet ikkje er betalt innan tre månader etter rettskraftig avgjerd eller endeleg fastsett gebyr. Føresegnene i vegtrafikkloven § 38 gjeld tilsvarande for kostnadane knytte til gebyr.
