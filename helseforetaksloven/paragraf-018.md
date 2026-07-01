@@ -1,0 +1,5 @@
+# § 18. Innkalling til foretaksmøtet
+Eieren innkaller til foretaksmøte og bestemmer innkallingsmåten. Innkallingen skal skje med minst en ukes varsel, med mindre kortere frist i særlige tilfeller er nødvendig. Til møtet innkalles daglig leder, styrets medlemmer og dessuten revisor som reviderte foretakets årsregnskap, dersom de saker som skal behandles er av en slik art at revisors nærvær kan være ønskelig. Revisor skal ellers innkalles når Riksrevisjonen krever det. Etter innkalling har revisor plikt til å møte i foretaksmøtet.
+Innkallingen skal klart angi de saker som skal behandles i foretaksmøtet. Forslag om å endre vedtektene skal gjengis i innkallingen.
+Eiere kan bestemme at foretaksmøtet holdes som video- eller telefonmøte.
+Foretaksmøtet kan ikke treffe vedtak i andre saker enn de som er nevnt i innkallingen, med mindre samtlige av de som har rett til å være tilstede etter § 17 samtykker i det. Det kan ikke gis samtykke til å vedta andre endringer i vedtektene enn de forslagene til endringer som er gjengitt i innkallingen.

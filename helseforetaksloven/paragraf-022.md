@@ -1,0 +1,3 @@
+# § 22. Ansattes styrerepresentasjon i regionalt helseforetak
+Inntil en tredel og minst to av styrets medlemmer med varamedlemmer skal velges av og blant de ansatte i regionalt helseforetak og helseforetak som regionalt helseforetak eier.
+Kongen kan gi forskrift om valget, herunder om vilkår for stemmerett og valgbarhet, valgmåten og om avgjørelse av tvister om valget, samt om bortfall av vervet som styremedlem. I vedtektene kan det fastsettes at de av styrets medlemmer som er valgt etter første ledd, ikke deltar i behandlingen av saker som gjelder arbeidsgivers forberedelse til forhandlinger med arbeidstakere, arbeidskonflikter, rettstvister med arbeidstakerorganisasjoner eller oppsigelse av tariffavtaler.
