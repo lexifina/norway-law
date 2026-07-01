@@ -1,0 +1,2 @@
+# § 13. Beregning av stønad til læremidler
+Stønad til læremidler er 461 kroner per måned for utdanning eller opplæringstiltak på videregående skoles nivå og 921 kroner per måned for utdanning eller opplæringstiltak på universitets-, høyskole- eller fagskolenivå. Er utdanningen eller opplæringstiltaket normert til femti prosent eller mindre, gis det halv sats. De som har særlig store utgifter til læremidler på grunn av en funksjonshemming får dekket de faktiske utgiftene.

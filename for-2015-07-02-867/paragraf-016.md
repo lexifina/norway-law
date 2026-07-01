@@ -1,0 +1,3 @@
+# § 16. Klageadgang mv.
+For personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak og gjenlevende som gjennomfører godkjent utdanning etter folketrygdloven § 17-7 første ledd bokstav c, som får vedtak iht. § 1 første ledd gjelder reglene om klage og anke i folketrygdloven § 21-12. For øvrig gjelder de alminnelige saksbehandlingsreglene i folketrygdloven kapittel 21.
+For en deltaker i et arbeidsmarkedstiltak og en arbeidssøker som får vedtak iht. § 1 andre og tredje ledd, gjelder reglene om klage i arbeidsmarkedsloven § 17. For øvrig gjelder de alminnelige saksbehandlingsreglene som følger av arbeidsmarkedsloven kapittel 6.
