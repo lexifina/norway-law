@@ -1,0 +1,4 @@
+# § 32. Rapportering
+For elg, hjort, rådyr og villrein skal valdansvarlig representant rapportere årlig fellingsresultat til kommunen eller villreinnemnda innen 14 dager etter endt jakt. Kommunen og villreinnemnda skal innen 30 dager etter endt jakttid rapportere dette til Statistisk Sentralbyrå gjennom Hjorteviltregisteret.
+Valdansvarlig representant skal rapportere opplysninger registrert på kontrollkort for villrein til villreinnemnda senest 14 dager etter endt jakt.
+Landbruksdirektoratet, statsforvalteren, fylkeskommunen, kommunen og villreinnemnda kan hver for seg eller i fellesskap pålegge jegerne og/eller jaktrettshaverne å rapportere opplysninger om viltbestanden i sitt jaktfelt eller vald ved å registrere sett elg eller sett hjort, samle inn kjever, kjønnsorganer og lignende til analyse og bruk i forvaltningen.

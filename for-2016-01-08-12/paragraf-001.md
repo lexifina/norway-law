@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne forskriften er at forvaltningen av hjortevilt ivaretar bestandenes og leveområdenes produktivitet og mangfold. Det skal legges til rette for en lokal og bærekraftig forvaltning med sikte på nærings- og rekreasjonsmessig bruk av hjorteviltressursene. Forvaltningen skal videre sikre bestandsstørrelser som fører til at hjortevilt ikke forårsaker uakseptable skader og ulemper på andre samfunnsinteresser.
