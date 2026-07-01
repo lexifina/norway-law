@@ -1,0 +1,3 @@
+# § 13. Økonomisk vederlag til næringsdrivende fastlege m.m.
+Næringsdrivende fastleges økonomiske vederlag, for det arbeid som honoreres etter forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege, består av et tilskudd fra kommunen for hver person (per capita-tilskudd) på listen og de til enhver tid gjeldende satser for egenandel og refusjon fra folketrygden for utført arbeid.
+Kommuner med mindre enn 5 000 innbyggere skal gi et utjamningstilskudd til fastleger dersom gjennomsnittlig listelengde i kommunen er lavere enn en avtalt referanseliste. Utjamningstilskuddet skal svare til differansen mellom per capita-tilskuddet for fastsatte referanseliste og per capita-tilskudd for gjennomsnittlig listelengde i kommunen.
