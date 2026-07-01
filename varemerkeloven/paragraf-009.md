@@ -1,0 +1,4 @@
+# § 9. Sameksistens
+I tilfeller som nevnt i § 8 og § 35 annet ledd annet punktum kan innehaveren av den yngre retten ikke motsette seg bruk av det eldre kjennetegnet, selv om innehaveren av den eldre retten ikke lenger kan gjøre sin rett gjeldende mot bruk av det yngre varemerket.
+I tilfeller som nevnt i § 8 annet ledd kan retten, om den finner det rimelig, ved dom bestemme at det ene eller begge kjennetegn i fremtiden bare må brukes på en bestemt måte, slik som i en bestemt utforming eller med et klargjørende tillegg som for eksempel innehaverens navn eller en stedsangivelse, eller bare må brukes for bestemte varer eller tjenester eller innen et bestemt område.
+Annet ledd gjelder tilsvarende for tilfeller der samme eller lignende varemerker er innarbeidet for forskjellige innehavere i forskjellige deler av riket.

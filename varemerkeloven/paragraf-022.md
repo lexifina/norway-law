@@ -1,0 +1,3 @@
+# § 22. Registrering og kunngjøring
+Hvis søknaden oppfyller vilkårene i § 20, skal varemerket registreres og registreringsbrev sendes til søkeren. Registreringen skal kunngjøres.
+Når et fellesmerke eller garanti- eller kontrollmerke registreres, skal også bestemmelsene som er fastsatt for bruken av merket, registreres og kunngjøres. Blir bestemmelsene senere endret, skal den endrede teksten meldes til Patentstyret for registrering og kunngjøring. Endringene skal føres inn i varemerkeregisteret såfremt kravene i § 12 a, § 15 tredje ledd og § 20 tredje ledd er oppfylt. Endringene gjelder fra den dagen de føres inn i registeret.

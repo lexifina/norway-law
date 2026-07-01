@@ -1,0 +1,3 @@
+# § 17. Unntaksanmerkning
+Inneholder et varemerke en bestanddel som ikke kan registreres særskilt, kan Patentstyret for å unngå uvisshet om varemerkerettens omfang, sette som vilkår for registrering at det ved en unntaksanmerkning angis at denne bestanddelen ikke omfattes av den beskyttelsen registreringen gir. Det forhold at unntaksanmerkning ikke er gjort, har ikke betydning for varemerkerettens omfang.
+Om det senere viser seg at den bestanddelen av merket som har blitt unntatt fra beskyttelsen, vil kunne registreres særskilt, kan merkehaveren i en ny søknad kreve registrering av delen eller av merket i dets helhet uten unntaksanmerkning.

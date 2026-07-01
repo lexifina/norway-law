@@ -1,0 +1,3 @@
+# § 78. Bevis for registrering i hjemlandet
+Den som søker om registrering av et varemerke uten å drive virksomhet her i riket, og som ikke er bosatt i en stat som er tilsluttet Pariskonvensjonen 20. mars 1883 om beskyttelse av industriell eiendomsrett eller avtale 15. april 1994 om opprettelse av Verdens handelsorganisasjon (WTO-avtalen), må godtgjøre at varemerket er registrert for vedkommende i hjemlandet for de varer eller tjenester som søknaden gjelder.
+Første ledd gjelder ikke hvis søkerens hjemland ikke krever tilsvarende bevis for varemerker som søkes registrert der av innehaver av virksomhet i Norge.

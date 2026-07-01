@@ -1,0 +1,4 @@
+# § 41. Forholdet mellom saker for Patentstyret og domstolene
+Krav om administrativ overprøving kan ikke fremsettes så lenge et søksmål om ugyldighet eller sletting ikke er rettskraftig avgjort. Hvis det reises søksmål om ugyldighet eller sletting før det er truffet endelig avgjørelse i sak om administrativ overprøving, skal Patentstyret stanse behandlingen inntil søksmålet er rettskraftig avgjort hvis kravet om administrativ overprøving er fremsatt av andre enn merkehaveren.
+Den som har fremsatt krav om administrativ overprøving, kan ikke reise søksmål om ugyldighet eller sletting mens saken pågår hos Patentstyret.
+Krav om administrativ overprøving kan ikke fremsettes av en part som tidligere har reist søksmål om ugyldighet eller sletting hvis reglene om rettskraft er til hinder for at det reises nytt søksmål om det samme forholdet.
