@@ -1,0 +1,2 @@
+# § 3-5. Fritaksordninger
+Etter søknad fra en KBO-enhet kan personell som er viktig for å opprettholde driften av kraftforsyningen i krig, få utsettelse eller fritak for fremmøte i Forsvaret ved mobilisering. Etter søknad fra en KBO-enhet kan slikt personell også få fritak for tjeneste i sivilforsvaret. Personell i KBO som er gitt utsettelse eller fritak for annen beredskapstjeneste får tjenesteplikt i KBO.

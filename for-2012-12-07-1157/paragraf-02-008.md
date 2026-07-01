@@ -1,0 +1,2 @@
+# § 2-8. Informasjonsberedskap
+KBO-enheter skal ha en informasjonsplan og en effektiv informasjonsberedskap i ekstraordinære situasjoner. Dette skal blant annet omfatte informasjon internt i KBO-enheten, til berørte myndigheter, samfunnskritiske virksomheter, andre relevante KBO-enheter, publikum og media, samt råd til kunder. Informasjonsplanen skal inngå som del av beredskapsplanverket, øves jevnlig og evalueres.
