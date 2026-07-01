@@ -1,0 +1,2 @@
+# § 2-7. Oversendelse av saken til retten
+Dersom namsfogden ikke selv skal avgjøre spørsmålet om åpning av gjeldsforhandling, sender namsfogden saken til retten for slik avgjørelse. Saken skal da være tilstrekkelig opplyst og forberedt slik at gjeldsforhandling kan gjennomføres innen fire måneder. Saken sendes til tingretten for den kommunen der skyldneren bor. For skyldnere som ikke er bosatt i Norge, jf. § 1-4 fjerde ledd, og skyldnere med adressesperre i Folkeregisteret, jf. folkeregisterloven § 10-4, sendes saken til tingretten for den kommunen der namsfogden har kontor.

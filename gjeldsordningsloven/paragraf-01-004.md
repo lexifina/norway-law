@@ -1,0 +1,13 @@
+# § 1-4. Forhold som er til hinder for åpning av gjeldsforhandling
+Åpning av gjeldsforhandling skal nektes dersom omstendighetene ved gjeldsstiftelsen eller skyldnerens senere disposisjoner klart tyder på at denne på illojal måte har innrettet seg med sikte på å oppnå gjeldsordning, eller skyldneren forsettlig eller grovt uaktsomt har gitt feilaktige eller villedende opplysninger til namsmyndighetene om forhold av vesentlig betydning for saken. Det samme gjelder dersom det foreligger uavklarte økonomiske forhold som i vesentlig grad vil vanskeliggjøre gjennomføringen av en gjeldsforhandling.
+Åpning av gjeldsforhandling skal også nektes dersom det åpenbart vil virke støtende for andre skyldnere eller samfunnet for øvrig. Ved vurderingen skal det særlig legges vekt på om:
+a) størstedelen av gjelden er nylig stiftet. Det skal ses bort fra forsvarlige låneopptak til refinansiering eller til nødvendig bolig o.l.,
+b) en ikke ubetydelig del av gjelden stammer fra straffbare forhold som er avgjort ved dom eller forelegg mindre enn tre år før søknad leveres. Dersom skyldneren klart er i en rehabiliteringssituasjon, kan gjeldsforhandling likevel åpnes,
+c) skyldneren har foretatt disposisjoner som ville vært omstøtelige i konkurs, jf. dekningsloven kapittel 5,
+d) skyldneren i den nærmeste tiden før søknad om gjeldsforhandling ble fremmet, på sterkt klanderverdig måte har unnlatt å oppfylle sine forpliktelser så langt det var mulig,
+e) en betydelig andel av skyldnerens samlede gjeld er skatte- og avgiftsgjeld, og om skyldneren kan klandres for forhold knyttet til denne.
+Dersom skyldneren har oppnådd gjeldsordning tidligere og denne er blitt opphevet, kan det åpnes gjeldsforhandling bare hvis endrete omstendigheter gjør at det fremstår som sannsynlig at en ny gjeldsordning vil bli gjennomført. Dersom skyldneren har fullført en gjeldsordning tidligere, kan det bare i særlige tilfeller åpnes gjeldsforhandling før det har gått fem år fra den tidligere gjeldsordningen ble fullført. Det skal dessuten legges vekt på at skyldneren har hatt gjeldsordning tidligere, ved vurderingen av om det vil virke støtende å åpne gjeldsforhandling.
+Gjeldsforhandling for en skyldner som er bosatt utenfor Norge, kan bare åpnes dersom
+a) det er ubetenkelig med hensyn til sakens opplysning,
+b) skyldneren ikke, eller bare i ubetydelig grad, har gjeld til utenlandske kreditorer, og
+c) skyldneren ikke er eier av bolig eller andre formuesgoder i utlandet av vesentlig verdi med mindre det er åpenbart at saken likevel lar seg opplyse tilstrekkelig og at forholdet ikke vil vanskeliggjøre gjeldsforhandlingene.

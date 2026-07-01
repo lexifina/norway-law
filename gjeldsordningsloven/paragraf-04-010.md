@@ -1,0 +1,2 @@
+# § 4-10. Kausjonsfordringer
+Dersom skyldneren ved åpning av gjeldsforhandling er forpliktet etter et kausjonsløfte, men kausjonsforpliktelsen ikke er forfalt, skal det avsettes midler til dekning av denne fordringen som om kravet var forfalt. Dersom det i gjeldsordningsperioden blir klart at kausjonen ikke vil forfalle eller kausjonen ikke er forfalt ved gjeldsordningsperiodens utløp, skal midlene fordeles forholdsmessig på de øvrige fordringshaverne.

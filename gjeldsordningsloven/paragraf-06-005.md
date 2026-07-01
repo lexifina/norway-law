@@ -1,0 +1,2 @@
+# § 6-5. Frister for fremsettelse av begjæringer etter § 6-1 og § 6-2
+Begjæring om stadfestelse av forslag til tvungen endring av en gjeldsordning etter § 6-1 første til tredje ledd og begjæring om omgjøring av en gjeldsordning etter § 6-2 første og annet ledd må fremsettes i gjeldsordningsperioden. Begjæring om opphevelse av en gjeldsordning etter § 6-2 tredje ledd må fremsettes innen ett år etter gjeldsordningsperiodens utløp. Begjæringer etter § 6-2 første og annet ledd må dessuten fremsettes innen to måneder etter at opplysning som nevnt i § 6-4 er mottatt.

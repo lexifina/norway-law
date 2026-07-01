@@ -1,0 +1,3 @@
+# § 4-3. Hva skyldneren kan beholde av sin inntekt
+Skyldneren har rett til å beholde så meget av sin inntekt at det dekker det som med rimelighet trengs til underhold av skyldneren og personer denne har lovbestemt forsørgelsesplikt for, eller lever i ekteskapsliknende forhold med. Dersom skyldneren utøver samvær med barn, jf. barneloven kapittel 6, skal det tas hensyn til skyldnerens rimelige utgifter i forbindelse med samværet.
+Kongen kan i forskrift fastsette satser for beregningen av det som med rimelighet trengs til underhold av skyldneren og personer denne har lovbestemt forsørgelsesplikt for, eller lever i ekteskapsliknende forhold med.
