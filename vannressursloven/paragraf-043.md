@@ -1,0 +1,2 @@
+# § 43. (oppløsning av fløtingsforeninger)
+Før en fløtingsforening blir oppløst, skal foreningens fløtingsanlegg overdras eller nedlegges i samsvar med reglene i dette kapittel og annen nødvendig opprydding foretas, eller det skal stilles slik sikkerhet for fortsatt drift og vedlikehold samt mulig ansvar som vassdragsmyndigheten fastsetter. Vassdragsmyndigheten kan pålegge en fløtingsforening å stille sikkerhet for utgiftene til nedlegging av fløtingsanlegg.

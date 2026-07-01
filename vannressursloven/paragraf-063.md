@@ -1,0 +1,3 @@
+# § 63. (straff)
+Med bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer bestemmelser eller enkeltvedtak nevnt i § 60 a første ledd bokstav a til c. Overtredelse av § 5 første og annet ledd eller § 43 a første og annet ledd medfører likevel ikke straff. Departementet kan i forskrift bestemme at forsettlig eller uaktsom overtredelse av forskriften straffes på samme måte.
+Er det voldt fare for betydelig skade på mennesker, miljø eller eiendom, eller det forøvrig foreligger skjerpende omstendigheter, kan overtredelser etter første ledd straffes med fengsel inntil 2 år, om ikke strengere straffebud får anvendelse. Det samme gjelder hvor overtredelsen har voldt skade på mennesker eller verneverdier i et vernet vassdrag.

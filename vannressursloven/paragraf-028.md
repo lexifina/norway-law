@@ -1,0 +1,3 @@
+# § 28. (omgjøring og tilbaketrekking av konsesjon mv.)
+I særlige tilfeller kan vassdragsmyndigheten oppheve eller endre vilkår eller sette nye vilkår av hensyn til allmenne eller private interesser. Det skal tas hensyn til det tap som en endring vil påføre konsesjonshaveren og de fordeler og ulemper som endringen for øvrig vil medføre. Bestemmelsen gjelder ikke for tiltak som er behandlet etter vassdragsreguleringsloven.
+Vassdragsmyndigheten kan trekke tilbake en konsesjon eller annen tillatelse dersom rettighetshaveren har gitt uriktig eller ufullstendig informasjon av vesentlig betydning for vedtaket. Det samme gjelder dersom vedkommende ikke lenger anses skikket til å utøve virksomheten etter grovt eller gjentatte brudd på loven eller vedtak i medhold av loven.

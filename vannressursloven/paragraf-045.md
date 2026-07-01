@@ -1,0 +1,5 @@
+# § 45. (konsesjonsplikt for grunnvannstiltak)
+Ingen må iverksette grunnvannstiltak som kan være til nevneverdig skade eller ulempe for noen allmenne interesser uten konsesjon fra vassdragsmyndigheten. §§ 23 til 29 gjelder tilsvarende.
+Vassdragsmyndigheten kan i forskrift eller i det enkelte tilfelle fastsette om et grunnvannstiltak trenger konsesjon etter første ledd. Vassdragsmyndigheten skal treffe enkeltvedtak etter første punktum dersom tiltakshaveren, berørt fagmyndighet eller andre med rettslig interesse begjærer det. Vassdragsmyndigheten kan forby iverksetting før avgjørelsen er truffet. Klage over vedtak om at tiltaket må ha konsesjon, kan ikke gis oppsettende virkning. Regelen i § 27 gjelder tilsvarende.
+Grunnvannsuttak over 100 kubikkmeter per døgn skal meldes til vassdragsmyndigheten, som skal vurdere om uttaket krever konsesjon etter første ledd. Det samme gjelder hvor flere grunnvannsuttak som naturlig må sees under ett, overstiger 100 kubikkmeter per døgn.
+En grunneier kan uten konsesjon ta ut grunnvann til husholdning og husdyr på eiendommen.
