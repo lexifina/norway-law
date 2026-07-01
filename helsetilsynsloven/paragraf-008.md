@@ -1,0 +1,4 @@
+# § 8. Pålegg om retting, stenging og oppfølging av faglige pålegg
+Hvis en virksomhet innen helse- og omsorgstjenesten drives på en måte som kan ha skadelige følger for pasienter, brukere eller andre eller på annen måte er uforsvarlig, kan tilsynsmyndighetene gi pålegg om å rette forholdene. Pålegget skal inneholde en frist for oppfyllelse. Hvis statsforvalteren mener at det bør ilegges tvangsmulkt etter § 9, skal saken oversendes Statens helsetilsyn.
+Dersom virksomheten drives uforsvarlig med fare for liv og helse til pasienter eller brukere, og pålegg om retting ikke etterkommes innen fristen, kan Statens helsetilsyn gi pålegg om stenging.
+Tilsynsmyndighetene kan pålegge en virksomhet innen helse- og omsorgstjenesten å legge til rette for og følge opp faglige pålegg etter helsepersonelloven § 56 for helsepersonell som virksomheten har arbeidsgiveransvar for. Tilsvarende kan kommuner pålegges å følge opp faglige pålegg til fastleger.
