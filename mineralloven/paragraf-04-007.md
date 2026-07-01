@@ -1,0 +1,2 @@
+# § 4-7. Varslings- og meldeplikt før oppstart av undersøkelser av statens mineraler, industrimineraler og lette metaller
+Tiltakshaver etter § 4-3 skal varsle grunneiere og berørte bruksrettshavere og gi melding til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard om oppstart av undersøkelsesarbeider minst fire uker før disse igangsettes. Varsel og melding skal inneholde nødvendig informasjon om undersøkelsene som skal finne sted. Ved opphold i arbeidene i mer enn ett år må det sendes nytt varsel minst fire uker før arbeidene gjenopptas.

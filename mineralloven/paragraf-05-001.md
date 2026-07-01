@@ -1,0 +1,2 @@
+# § 5-1. Utvinningsrett til byggeråstoff, naturstein mv.
+Utvinning av grunneiers mineraler som ikke er industrimineraler og lette metaller, krever avtale med grunneier. Dersom en avtale ikke kommer i stand, kan tiltakshaver søke om ekspropriasjon av grunn og rettigheter etter § 9-1 første ledd bokstav e. Tiltakshaver blir eier av mineralene når de er tatt ut fra grunnen, med mindre et annet tidspunkt er avtalt med grunneieren.

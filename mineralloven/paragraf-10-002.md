@@ -1,0 +1,4 @@
+# § 10-2. Årlig vederlag til staten for undersøkelsestillatelse og utvinningsrett til statens mineraler
+Den som søker om og den som har undersøkelsestillatelse etter § 4-3 eller utvinningsrett etter § 5-2 til statens mineraler, skal betale et årlig vederlag til staten. Første vederlag skal betales før reservasjon for undersøkelsestillatelse gis av Direktoratet for mineralforvaltning med Bergmesteren for Svalbard etter § 4-5, eller før utvinningsrett etter § 5-2 gis. Vederlaget skal deretter betales forskuddsvis. Departementet kan i særlige tilfeller gjøre unntak fra plikten til å betale vederlag etter dette leddet.
+Rettighetene faller bort dersom tiltakshaveren ikke har betalt vederlag i samsvar med første ledd.
+Departementet kan gi forskrift om størrelsen på det årlige vederlaget og om frister og betalingen.

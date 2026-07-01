@@ -1,0 +1,4 @@
+# § 11-1. Pålegg om stans, retting og umiddelbar iverksetting
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan gi pålegg om å rette eller stanse forhold som er i strid med bestemmelser i denne loven eller vedtak gitt med hjemmel i denne loven eller lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser.
+Hvis den ansvarlige ikke etterkommer pålegg om tiltak gitt i medhold av første ledd, det er ukjent hvem som er ansvarlig, eller det er urimelig byrdefullt å finne frem til den ansvarlige, kan direktoratet iverksette tiltaket uten forutgående pålegg dersom det er nødvendig for å avverge overhengende fare eller det foreligger andre særlige grunner.
+Utgiftene til iverksettingen kan kreves dekket av den ansvarlige. Krav om utgiftsdekning er tvangsgrunnlag for utlegg.
