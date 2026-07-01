@@ -1,0 +1,2 @@
+# § 5-3. (Plikt til å utarbeide atskilte regnskaper mv.)
+Departementet kan gi forskrift om føring av atskilte regnskaper, krav til fordeling av inntekter og utgifter, regulering av overskudd, kontrollsystemer, informasjon og andre krav som er nødvendige for å unngå kryssubsidiering mellom tannhelsetjenester som fylkeskommunen tilbyr der det ikke foreligger annet tilstrekkelig tilbud, og tjenester som tilbys i konkurranse med private tjenesteytere.

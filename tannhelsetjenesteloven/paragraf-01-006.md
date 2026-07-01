@@ -1,0 +1,4 @@
+# § 1-6. Om informasjon
+Fylkeskommunen skal sørge for at det gis slik informasjon som pasienten har rett til å motta etter pasient- og brukerrettighetsloven § 3-2. Tilsvarende gjelder for informasjon til pasientens nærmeste pårørende etter pasient- og brukerrettighetsloven § 3-3 tredje ledd.
+Virksomheter som er omfattet av loven her, har plikt til å besvare henvendelser om kvalitet og pasientsikkerhet fra pasienter eller den som opptrer på vegne av pasienten. Denne plikten gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til avdød pasient eller fra nærmeste pårørende til pasient over 18 år uten samtykkekompetanse. Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og blant annet oppfylle krav til informasjon i pasient- og brukerrettighetsloven kapittel 3.
+Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første ledd.
