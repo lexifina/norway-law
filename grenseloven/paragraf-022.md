@@ -1,0 +1,4 @@
+# § 22. Behandling av opplysninger til gjennomføring av grensekontroll
+Politiet kan behandle personopplysninger, herunder særlige kategorier av personopplysninger, som er nødvendige for gjennomføring av grensekontroll etter loven.
+Politiet kan behandle opplysninger om reisende i et register som grunnlag for gjennomføring av inn- og utreisekontroll. Registeret kan kobles til andre registre med opplysninger som er nødvendige for gjennomføring av inn- og utreisekontroll.
+Biometriske opplysninger (ansiktsbilde og fingeravtrykk) kan innhentes elektronisk av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter. Opplysningene skal tilintetgjøres så snart som mulig etter at identiteten er verifisert mot gyldig reisedokument, eller når identiteten er fastslått på annen måte, med unntak av tilfeller som nevnt i § 22 a annet ledd.

@@ -1,0 +1,2 @@
+# § 1. Lovens formål
+Loven skal sikre at grensetilsyn og grensekontroll av personer utføres i samsvar med nasjonale behov og internasjonale forpliktelser, herunder tydeliggjøre ansvar og styring og fremme samarbeid mellom berørte myndigheter. Loven skal også legge til rette for lovlig bevegelse over grensene og bidra til å bekjempe grensekryssende kriminalitet, ulovlig innvandring og trusler mot folkehelsen.
