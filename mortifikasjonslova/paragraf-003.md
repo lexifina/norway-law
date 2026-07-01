@@ -1,0 +1,3 @@
+# § 3
+Eit dokument som lyder på ihendehavaren, kan ikkje verta mortifisert utan det vert gjort truleg at dokumentet vart øydelagt i ei serskild hending. Ein pengesetel kan ikkje verta mortifisert.
+Eit kupongark, med eller utan talong, kan verta mortifisert saman med dokumentet som det høyrer til, så framt det er grunn til å tru at båe vart øydelagde eller kom bort på same tid. Eit kupongark kan ikkje verta mortifisert serskilt, utan det vert gjort truleg at arket vart øydelagt eller kom bort i ei serskild hending. Lause kupongar og talongar kan ikkje verta mortifiserte. Det same gjeld kupongark som ikkje har att minst to kupongar, og om ein kupong med talong.

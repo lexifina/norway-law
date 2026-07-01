@@ -1,0 +1,4 @@
+# § 7
+Held domaren det for truleg at vilkåra for mortifikasjon ligg føre, skal han fremja mortifikasjonssak mot dei som mun ha rett etter dokumentet.
+Saka vert sett i gang når domaren, med grunnlag i kravsmålet frå søkjaren, skriv ut ei oppmaning til dei som mun vera rettshavarar, om å melda seg til retten innan to månader. I oppmaninga skal det stå at melder ingen seg, vert det gjeve mortifikasjonsdom. Nøgnare reglar om kva meir det skal stå i ei oppmaning, kan Kongen gjeva. Oppmaninga skal utlysast ein gong i Norsk Lysingsblad. Utlysing i Lysingsbladet kan berre gjerast fyrste virkedag i ein månad. Meiner domaren at det er grunn for det, kan han dessutan kunngjera oppmaninga på annan måte, og likeins setja lenger frist enn lova byd. Fristen skal reknast frå den dagen lysinga stod i Lysingsbladet.
+Nektar domaren å fremja mortifikasjonssak, kan avgjerda klagast inn for departementet. Forvaltningslova §§ 27-33 gjeld i slike høve.
