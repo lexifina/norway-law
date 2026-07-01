@@ -1,0 +1,2 @@
+# § 3-8. Varsling av sikkerhetsbrudd og -hendelser
+EØS-avtalen vedlegg XI nr. 5haa (kommisjonsforordning (EU) nr. 611/2013) om tiltak som skal anvendes ved varsling av brudd på persondatasikkerheten, jf. Europaparlamentets og Rådets direktiv 2002/58/EF om databeskyttelse for elektronisk kommunikasjon, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.

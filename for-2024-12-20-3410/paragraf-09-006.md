@@ -1,0 +1,2 @@
+# § 9-6. Gjennomføring av forordning om toppnivådomenet.eu
+EØS-avtalen vedlegg XI nr. 5o (europaparlaments- og rådsforordning (EU) 2019/517), nr. 5oac (kommisjonens gjennomføringsforordning (EU) 2020/857), nr. 5oad (delegert kommisjonsforordning (EU) 2020/1083), og nr. 5oaf (kommisjonens gjennomføringsforordning (EU) 2022/1862) om toppnivådomene.eu gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.

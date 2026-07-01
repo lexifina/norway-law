@@ -1,0 +1,5 @@
+# § 4-15. Likeverdig tilgang for sluttbrukere med nedsatt funksjonsevne
+Tilbydere av internettilgangstjenester og talekommunikasjonstjenester skal tilby likeverdig tilgang til tjenestene for sluttbrukere med nedsatt funksjonsevne jf. ekomloven § 4-16. Tilbyder av talekommunikasjonstjenester skal tilby sanntidstekst.
+Når tilbyder tilbyr video i tillegg til talekommunikasjonstjenester og sanntidstekst, skal tjenesten være en totalkonversasjonstjeneste. Med totalkonversasjon menes en multimediekonversasjonstjeneste som gir toveis symmetrisk overføring i sanntid av video, tekst og tale mellom brukere på to eller flere steder.
+Tilbyder av internettilgangstjenester og talekommunikasjonstjenester skal selv finansiere ekstra kostnader knyttet til tjenester til sluttbrukere med nedsatt funksjonsevne. Det samme gjelder tilbud av totalkonversasjonstjenester.
+Informasjon om elektroniske kommunikasjonstjenester og avtalevilkår samt terminalutstyr og annet relevant brukerutstyr, skal gjøres tilgjengelig på en måte som sikrer likeverdig tilgang til informasjon for sluttbrukere med nedsatt funksjonsevne.

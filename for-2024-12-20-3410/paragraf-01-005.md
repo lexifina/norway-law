@@ -1,0 +1,7 @@
+# § 1-5. Bruk av nødnummer
+Tilbyder av offentlig nummerbasert person-til-person-kommunikasjonstjeneste skal sikre at sluttbruker med nedsatt funksjonsevne som ikke kan benytte talekommunikasjonstjeneste, vederlagsfritt kan sende SMS og MMS til nødetatenes nødmeldetjeneste.
+Nødetatene mottar SMS og MMS med nødmeldinger fra registrert sluttbruker med funksjonsnedsettelser. Nødetatene skal automatisk varsle sluttbruker om at meldingen ikke kommer frem, dersom sluttbruker ikke er registrert som bruker hos nodsms.no eller etterfølgende nettsted.
+Tilbyder av offentlig nummerbasert person-til-person-kommunikasjonstjeneste skal legge til rette for at sanntidstekst kan overføres nødetatene. Nødetatene kan benytte videooverføring ved nødkommunikasjonen. Slik kommunikasjon skal være vederlagsfritt for sluttbruker. Når video og sanntidstekst tilbys, skal tilbyder legge til rette for totalkonversasjon mellom nødetat og sluttbruker, jf. § 4-14 andre ledd.
+Ved sending av SMS og MMS til nødnumrene, og når video og sanntidstekst tilbys, skal opplysninger som angis i § 1-4 for geografisk lokalisering av mobilterminalen overføres til nødetatene.
+Nasjonal kommunikasjonsmyndighet kan gi forskrift om grensesnitt for utveksling av informasjon mellom nødetater og tilbydere.
+Forordning (EU) 2023/444 om utfyllende bestemmelser om nødmeldingstjenester, som inntatt i EØS-avtalen vedlegg XI nr. 5czsd, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.

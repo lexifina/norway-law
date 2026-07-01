@@ -1,0 +1,3 @@
+# § 10-2. Tjenestetilbud i privat elektronisk kommunikasjonsnett
+Privat elektronisk kommunikasjonsnett skal anlegges slik at tjenester fra ulike tilbydere skal kunne føres frem til den enkelte sluttbruker.
+Eier av private elektronisk kommunikasjonsnett har ansvar for at elektroniske kommunikasjonstjenester formidles til den enkelte beboer og andre sluttbrukere med samme kvalitet som tilbyder av elektronisk kommunikasjonstjeneste leverer i grensesnittet mellom offentlig og private elektroniske kommunikasjonsnettet. Eier har også ansvar for at den enkelte beboer og andre sluttbrukere får tilgang til leveringspliktige tjenester og funksjonalitet dersom de ønsker det, til minst like gode vilkår som det tilbyder med leveringsplikt tilbyr.

@@ -1,0 +1,2 @@
+# § 12-1. Ikrafttredelse
+Forskriften gjelder fra 1. januar 2025 med unntak av § 3-7, § 3-8 og § 4-15 første ledd andre punktum, som trer i kraft når departementet bestemmer. Fra samme tidspunkt oppheves forskrift 16. februar 2004 nr. 401 om elektronisk kommunikasjonsnett og elektronisk kommunikasjonstjeneste (ekomforskriften) og forskrift 3. oktober 2000 nr. 994 om konsesjon for tilbydere som har fått tillatelse til bruk av frekvenser etter teleloven kap. 5 til etablering og drift av samfunnsviktige telenett.

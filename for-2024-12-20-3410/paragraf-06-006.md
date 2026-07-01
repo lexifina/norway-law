@@ -1,0 +1,9 @@
+# § 6-6. Maksimalpriser for internasjonale nummerbaserte kommunikasjonstjenester innenfor EØS-området
+Ved internasjonale anrop eller SMS, som originerer i fastnett eller mobilnett i Norge og terminerer i fastnett eller mobilnett i EØS-området, skal tilbyder benytte følgende maksimalpriser for forbrukere:
+a) Maksimalpris for anrop: 0,19 EUR per minutt eksklusiv mva.
+b) Maksimalpris per SMS: 0,06 EUR eksklusiv mva.
+Maksimalprisene skal omregnes til NOK basert på gjennomsnittet av valutakursene som publiseres av Den europeiske sentralbank i Den europeiske unions tidende 15. januar, 15. februar og 15. mars hvert år. Nasjonal kommunikasjonsmyndighet oppdaterer årlig maksimalprisen i NOK som skal gjelde fra 15. mai hvert år.
+Maksimalprisene gjelder for internasjonale anrop og SMS som helt eller delvis faktureres basert på faktisk forbruk.
+Tilbyder kan i tillegg til maksimalprisene etter første ledd tilby andre priser for internasjonale anrop og SMS når prisplanen omfatter land utenfor EØS-området i tillegg til EØS-landene. Tilbyder skal informere forbruker som eksplisitt velger en annen pris for disse tjenestene om hvilke fordeler forbrukeren mister ved et slikt valg.
+Etter anmodning fra tilbyder kan Nasjonal kommunikasjonsmyndighet i særlige tilfeller i et enkeltvedtak gjøre unntak fra kravet til maksimalpriser i første ledd. Tilbyder må i slike tilfeller dokumentere at det foreligger forhold som setter tilbyderen i en særskilt stilling sammenlignet med andre tilbydere, og at maksimalprisene i vesentlig grad vil påvirke tilbyders evne til å opprettholde gjeldende priser for nasjonale kommunikasjonstjenester.
+Nasjonal kommunikasjonsmyndighet skal fastsette maksimum prisnivå for tilbyder som innvilges unntak fra maksimalprisene i første ledd basert på en vurdering av tilbyders nasjonale prismodell og lønnsomhet. Unntak vil kunne innvilges for inntil ett år av gangen og skal ikke gå lenger enn det som er nødvendig.
