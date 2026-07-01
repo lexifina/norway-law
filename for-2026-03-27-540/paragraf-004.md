@@ -1,0 +1,3 @@
+# § 4. Deltakelse i Nyfødtscreeningprogrammet
+Deltakelse i Nyfødtscreeningprogrammet er frivillig. Samtykke skal gis i samsvar med pasient- og brukerrettighetsloven § 4-2 og § 4-4 av foreldrene eller andre som har foreldreansvaret, eller av barnevernstjenesten dersom den har overtatt omsorgen for barnet etter barnevernsloven § 4-2.
+Et samtykke etter første ledd omfatter undersøkelse og lagring av blodprøver om det ikke fastsettes noe annet. Samtykket kan også omfatte behandling av helseopplysninger etter § 5 dersom det gis særskilt informasjon om dette. De som samtykker, kan velge at samtykket bare skal gjelde undersøkelse. Samtykket kan når som helst trekkes tilbake.
