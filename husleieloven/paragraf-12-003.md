@@ -1,0 +1,2 @@
+# § 12-3. Midlertidig bruksrett
+Når søksmål om godkjenning etter reglene i kapitlene 7, 8 eller 11 er reist, kan retten ved kjennelse etter begjæring fra saksøkeren, mot eller uten sikkerhetsstillelse, beslutte at den som kreves godkjent som framleier, husstandsmedlem eller ny leier, skal ha bruksrett til husrommet inntil saken er rettskraftig avgjort. Saksbehandlingsreglene i tvisteloven kapittel 32 og 34 gjelder tilsvarende.

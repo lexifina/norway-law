@@ -1,0 +1,8 @@
+# § 10-3. Erstatning for forsinkelse og mangel
+Stilles ikke husrommet til utleierens disposisjon den dagen leieforholdet er opphørt, kan utleieren kreve vederlag tilsvarende avtalt leie inntil leierens bruk opphører.
+Er husrommet i dårligere stand enn hva som er avtalt eller fastsatt i § 10-2, kan utleieren kreve dekket nødvendige utgifter til utbedring. Kravet må være framsatt innen rimelig tid etter at utleieren burde ha oppdaget mangelen. Regelen i annet punktum gjelder ikke dersom leieren har opptrådt grovt uaktsomt eller i strid med redelighet og god tro.
+Utleieren kan kreve erstatning for annet tap som følge av leierens mislighold. Dette gjelder likevel ikke så langt leieren godtgjør at misligholdet skyldes en hindring utenfor leierens kontroll, som leieren ikke med rimelighet kunne forventes å ha tatt i betraktning på avtaletiden eller å ha unngått eller overvunnet følgene av.
+Skyldes misligholdet en tredjeperson som leieren har gitt i oppdrag helt eller delvis å sette husrommet i stand, er leieren fri for ansvar bare om også tredjemann ville være fritatt etter reglene i tredje ledd.
+Ansvarsfriheten gjelder så lenge hindringen virker. Faller hindringen bort, kan ansvar gjøres gjeldende dersom leieren da plikter å oppfylle, men ikke gjør dette.
+Reglene i tredje, fjerde og femte ledd omfatter ikke slikt indirekte tap som er nevnt i § 5-8 fjerde ledd.
+Utleieren kan i alle tilfeller kreve erstatning dersom misligholdet eller tapet skyldes feil eller forsømmelse fra leierens side. For utmålingen av erstatningen gjelder bestemmelsene i § 2-14 første, femte og sjette ledd tilsvarende.

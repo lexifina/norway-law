@@ -1,0 +1,12 @@
+# § 3-5. Depositum
+Det kan avtales at leieren til sikkerhet for skyldig leie, skader på husrommet, utgifter ved fraviking og for andre krav som reiser seg av leieavtalen, skal deponere et beløp oppad begrenset til summen av seks måneders leie. Det kan avtales at depositumet skal endres i takt med endringer i leien.
+Det deponerte beløp skal settes på særskilt konto i leierens navn med vanlige rentevilkår i finansinstitusjon som har rett til å tilby slik tjeneste i Norge.
+Så lenge leieforholdet varer, kan ingen av partene disponere over beløpet på egen hånd. Leieren kan likevel kreve opptjente renter utbetalt fra finansinstitusjonen.
+Etter leieforholdets opphør skal finansinstitusjonen etter krav fra utleieren med frigjørende virkning utbetale skyldig leie fra kontoen dersom:
+a) partene skriftlig har avtalt at leien skal godskrives annen konto i den samme finansinstitusjonen,
+b) utleieren har dokumentert skyldig leie, og
+c) leieren ikke dokumenterer å ha reist søksmål innen fem uker etter at varselet etter femte ledd er sendt.
+Krever utleieren utbetaling etter fjerde ledd, skal finansinstitusjonen varsle leieren om kravet og opplyse om at beløpet vil bli utbetalt til utleieren hvis leieren ikke innen fem uker etter at varselet er sendt, dokumenterer å ha reist søksmål. Varselet skal sendes til leierens oppgitte adresse og til en eventuell oppgitt elektronisk postadresse.
+Hver av partene kan kreve utbetaling av det deponerte beløpet i samsvar med den annen parts skriftlige samtykke, rettskraftig dom eller annen avgjørelse som har virkning som rettskraftig dom. Krever leieren utbetaling av depositum ut over opptjente renter, skal finansinstitusjonen varsle utleieren skriftlig om kravet og opplyse om at beløpet vil bli utbetalt til leieren hvis utleieren ikke innen fem uker etter at varselet ble sendt, fremmer krav etter bestemmelsene i fjerde ledd eller dokumenterer å ha reist søksmål. Mottar ikke finansinstitusjonen slikt krav eller dokumentasjon innen fristen, og leieren ikke har trukket kravet tilbake, skal finansinstitusjonen med frigjørende virkning utbetale beløpet til leieren.
+Utleieren dekker kostnadene med å opprette depositumskonto. Utleieren kan anvise i hvilken finansinstitusjon depositumskontoen skal opprettes så sant dette ikke er til vesentlig ulempe for leieren. Leieren plikter ikke å opprette depositumskonto i utlandet.
+Departementet kan i forskrift gjøre unntak fra bestemmelsene i paragrafen her.

@@ -1,0 +1,2 @@
+# § 7-1. Opptak i husstand
+Leieren har rett til å ta opp i sin husstand sin ektefelle eller samboer, sine egne eller ektefellens eller samboerens slektninger i rett opp- eller nedstigende linje og fosterbarn. Opptak av andre personer i husstanden krever godkjenning fra utleieren. Godkjenning kan bare nektes dersom vedkommende persons forhold gir saklig grunn til det eller husrommet klart blir overbefolket.

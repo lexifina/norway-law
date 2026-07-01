@@ -1,0 +1,4 @@
+# § 10-4. Etterlatt løsøre
+Finnes det i husrommet etterlatt løsøre som må antas å tilhøre leieren eller noen i leierens husstand, skal utleieren for leierens regning ta hånd om dette. Rent skrot kan likevel kastes umiddelbart. Medfører omsorgsplikten arbeid, kan utleieren kreve en rimelig godtgjørelse for dette.
+Utleieren skal så vidt mulig skriftlig oppfordre leieren til å hente løsøret. Utleieren kan holde løsøret tilbake inntil kostnadene med oppbevaringen dekkes eller betryggende sikkerhet stilles.
+Utleieren kan selge løsøret for leierens regning dersom kostnadene eller ulempene med oppbevaringen blir urimelige, eller dersom leieren venter urimelig lenge med å betale kostnadene eller med å overta løsøret. Er det grunn til å tro at salgssummen ikke vil dekke salgskostnadene, kan utleieren i stedet rå over tingen på annen hensiktsmessig måte.

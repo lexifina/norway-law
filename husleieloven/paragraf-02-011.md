@@ -1,0 +1,3 @@
+# § 2-11. Avslag i leie
+Stilles ikke husrommet til leierens disposisjon til riktig tid, er ikke leieren forpliktet til å betale leie for den tid forsinkelsen varer. Gjelder forsinkelsen bare en del av husrommet, kan leieren kreve et leieavslag for den tiden forsinkelsen varer som svarer til forholdet mellom leieverdien av husrommet og av den forsinkede delen.
+I den tid husrommet lider av en mangel, kan leieren kreve avslag i leien slik at forholdet mellom nedsatt og avtalt leie svarer til forholdet mellom husrommets leieverdi i mangelfull og kontraktsmessig stand. Dette gjelder likevel ikke i tiden etter at leieren har avslått et tilbud om retting som leieren pliktet å motta.
