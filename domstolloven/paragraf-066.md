@@ -1,0 +1,4 @@
+# § 66
+Medlemmene til utvalgene av meddommere velges av kommunestyret selv hvert fjerde år. Valget foretas innen 1. juli året etter hvert kommunestyrevalg, og gjelder for fire år fra 1. januar det påfølgende år.
+Er en kommune delt mellom flere domssogn, velges medlemmer til utvalgene særskilt for hver del av kommunen blant dem som er bosatt i vedkommende del. Bestemmelsene i §§ 64 og 65, begges annet ledd, og § 76 får i slike tilfeller tilsvarende anvendelse for så vidt angår de enkelte deler av kommunen. Sletting etter § 76 skal også foretas når noen som er innført i fortegnelsene, ikke er valgbar etter dette ledd første punktum.
+Skal deling gjennomføres i løpet av en valgperiode, skal det for den tiden som gjenstår av perioden, foretas særskilte valg som nevnt i annet ledd første punktum. Valget foregår da etter nærmere regler som fastsettes av Domstoladministrasjonen. Fra delingen opphører funksjonstiden for dem som tidligere var valgt fra kommunen.

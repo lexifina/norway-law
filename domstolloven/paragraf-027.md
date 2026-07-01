@@ -1,0 +1,8 @@
+# § 27
+I hver kommune skal det være et forliksråd.
+Forliksrådet skal ha tre medlemmer og like mange varamedlemmer. Blant medlemmene og blant varamedlemmene skal det være både kvinner og menn. Varamedlemmene tilkalles i den rekkefølge oppnevnelsen viser.
+Kommunestyret velger et av medlemmene til formann. Har denne forfall, trer den av de andre som er nevnt først i oppnevnelsen og som kan gjøre tjeneste, i dennes sted.
+Med samtykke fra departementet kan kommunestyret fastsette at forliksrådet skal ha to eller flere avdelinger. Hver avdeling velges etter annet og tredje ledd. Den ene formannen velges som leder for domstolen. Den andre formannen, eller de andre formennene i den rekkefølge kommunen har fastsatt, er lederens stedfortreder som leder for domstolen.
+Arbeids-, skyss- og kostgodtgjørelse til medlemmene og varamedlemmene fastsettes i samsvar med forskrift gitt av Kongen. For bestemte kommuner kan departementet fastsette at formannen og i tilfelle også de øvrige medlemmene skal ha et midlertidig tilsettingsforhold etter tjenestemannsloven.
+Namsfogden er sekretariat for forliksrådene i sitt distrikt. Kongen kan ved forskrift gi regler om forholdet mellom forliksrådet og sekretariatet.
+Kommuner som har samme sekretariat for forliksrådet og dessuten ligger i samme domssogn, kan med tilslutning av minst 2/3 av hver av kommunestyrenes medlemmer beslutte å ha felles forliksråd dersom kommunene samtidig er enige om hvor mange medlemmer og varamedlemmer hver kommune skal velge, og om hvordan det skal sikres at det blant både medlemmene og varamedlemmene er både kvinner og menn. Felles forliksråd kan opprettes uavhengig av funksjonsperioden etter § 57.

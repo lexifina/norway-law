@@ -1,0 +1,2 @@
+# § 208
+Negter en sakkyndig eller en retstolk at overta hvervet, og han ikke opgir nogen grund eller bare opgir en grund, som er forkastet ved retskraftig kjendelse, eller uteblir han fra et retsmøte uten gyldig fravær eller uten at melde sit fravær i tide, eller forlater han retsstedet uten tilladelse, før møtet er slut, eller gjør han sig skyldig i andet forsømmelig eller utilbørlig forhold, kan han straffes med bøter og paalægges helt eller delvis at erstatte de omkostninger, som er voldt.

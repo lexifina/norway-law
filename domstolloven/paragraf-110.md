@@ -1,0 +1,4 @@
+# § 110
+Ingen som står i et forhold til saken som nevnt i § 106 nr. 1 til 6, kan delta i saken som protokollsekretær eller utreder, jf. § 61, eller forestå trekning av meddommere.
+Ingen kan være stevnevitne, protokollfører eller rettsvitne, herunder vitne ved en forretning for tvangsfullbyrdelse eller midlertidig sikring eller vitne ved en registreringsforretning for tingretten, når vedkommende er i et forhold som nevnt i § 106 nr 1, eller er gift med eller forlovet med eller i slegt eller svogerskap i opp eller nedstigende linje eller i sidelinjen så nær som søsken med noen, som står i et slikt forhold. Det samme gjelder rettsvitner i saker etter gjeldsordningsloven.
+Retten kan desuten beslutte, at de tjenestemænd, som her er nævnt, skal fratræde, naar de staar i noget andet av de forhold, som er nævnt i §§ 106 og 107. Det samme gjælder § 108, hvis nogen av parterne kræver det.

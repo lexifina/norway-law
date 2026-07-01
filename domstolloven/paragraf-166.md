@@ -1,0 +1,3 @@
+# § 166
+Stevnevidner pligter at utføre forkyndelser, naar en offentlig myndighet kræver det. Hvis ophold kan undgaaes, pligter de at utføre forkyndelser ogsaa utenfor sin kreds.
+Efter begjæring av andre er stevnevidnerne pligtige til at utføre forkyndelser indenfor sin kreds, naar forkyndelsen efter lovgivningen er nødvendig og det, som begjæres forkyndt, er i lovlig stand. Forlanges ellers meddelelser, som ikke strider mot lov eller ærbarhet, forkyndt ved stevnevidner, kan de ikke negte at utføre forkyndelsen, medmindre den vil være til hinder for andre forretninger, eller meddelelsen aapenbart er uten retslig betydning. Negter et stevnevidne at utføre en forkyndelse, kan spørsmaalet forelægges for stedets tingrett eller for den ret, som har saken.

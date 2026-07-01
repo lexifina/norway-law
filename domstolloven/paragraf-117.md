@@ -1,0 +1,3 @@
+# § 117
+Reises spørsmål om utelukking forut for det rettsmøte i Høyesterett hvor saken skal behandles, kan det settes rett til å avgjøre spørsmålet.
+Også i andre domstoler kan spørsmål om utelukking avgjøres forut for det rettsmøte hvor saken skal behandles. I så fall kan rettens leder treffe avgjørelsen alene dersom retten har flere medlemmer, men det kan også settes alminnelig rett til å avgjøre spørsmålet på forhånd når det kan gjøres uten vesentlig ulempe eller utgift. Er det spørsmål om å utelukke en enedommer eller domstolens leder eller to av domstolens faste medlemmer, kan enedommeren eller lederen beslutte at spørsmålet isteden skal forelegges for den nærmest overordnede domstol, eller for Høyesteretts ankeutvalg dersom saken står for lagmannsretten.

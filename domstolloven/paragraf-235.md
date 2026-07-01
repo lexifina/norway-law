@@ -1,0 +1,4 @@
+# § 235
+Tilsynsutvalget for dommere behandler klager og vurderer disiplinærtiltak mot dommere. Tilsynsutvalget skal bestå av to dommere fra Høyesterett, lagmannsrettene eller tingrettene, en advokat og to medlemmer som representanter for allmennheten. Når Tilsynsutvalget behandler saker som gjelder en jordskiftelagdommer eller en jordskiftedommer, deltar en jordskiftelagdommer eller jordskiftedommer i stedet for en dommer. Kongen oppnevner medlemmene av Tilsynsutvalget med personlige varamedlemmer, og fastsetter hvilket medlem som skal være leder for Tilsynsutvalget.
+Oppnevning og valg skjer for en periode på fire år med adgang til gjenoppnevning eller gjenvalg for én periode.
+Oppnevningen og valget kan trekkes tilbake dersom et medlem ikke er i stand til eller villig til å utføre vervet på en forsvarlig måte.

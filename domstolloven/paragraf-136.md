@@ -1,0 +1,3 @@
+# § 136
+Processkrifter maa være skrevet paa norsk eller ledsaget av oversættelse. Av bilag og skriftlig bevis, som følger med og er avfattet i et fremmed sprog, vedlægges likeledes en oversættelse. Fra disse forskrifter kan retten helt eller delvis gjøre undtagelse, naar alle vedkommende forstaar det fremmede sprog.
+Oversættelsen maa være bekræftet av en translatør, som er godkjendt av det offentlige, eller av en tolk, som retten har opnævnt eller godkjendt. I andre saker end straffesaker er dog bekræftelse unødvendig, naar parterne er enige om, at oversættelsen er rigtig, og retten ikke finder grund til at tvile paa det.

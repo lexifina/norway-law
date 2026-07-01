@@ -1,0 +1,5 @@
+# § 55 a
+Innstillingsrådet for dommere skal avgi innstilling i forbindelse med dommerutnevnelse og foreta enkelte konstitusjoner etter nærmere bestemmelser i §§ 55 e og 55 f. Innstillingsrådet skal bestå av tre dommere fra Høyesterett, lagmannsrettene eller tingrettene, en advokat, en jurist ansatt i det offentlige og to medlemmer som ikke er jurister. Når Innstillingsrådet behandler saker som gjelder utnevnelse eller konstitusjon av jordskiftelagdommere og jordskiftedommere, deltar en jordskiftelagdommer eller en jordskiftedommer og en jordskiftekandidat i stedet for henholdsvis en dommer og juristen ansatt i det offentlige. Kongen oppnevner medlemmene av Innstillingsrådet med personlige varamedlemmer, og fastsetter hvilket medlem som skal være leder for Innstillingsrådet.
+Oppnevningen skal skje for en periode på fire år med adgang til gjenoppnevning for én periode.
+Oppnevningen kan trekkes tilbake dersom et medlem ikke er i stand til eller villig til å utføre vervet på en forsvarlig måte.
+Direktøren for domstoladministrasjonen eller den direktøren bemyndiger, har møterett i Innstillingsrådet.

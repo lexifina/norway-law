@@ -1,0 +1,3 @@
+# § 51a
+Når en norsk domstol i en sak må ta stilling til tolkningen av Avtalen om Det europeiske økonomiske samarbeidsområde med protokoller, vedlegg og de rettsakter vedleggene omhandler, kan den i samsvar med Avtalen mellom EFTA-statene om opprettelse av et overvåkingsorgan og en domstol artikkel 34 forelegge tolkningsspørsmålet for EFTA-domstolen. Rettens beslutning om at et tolkningsspørsmål skal eller ikke skal forelegges for EFTA-domstolen, kan ikke angripes ved anke.
+Også domstoler som ikke er nevnt i §§ 1 og 2 første ledd har adgang til å forelegge tolkningsspørsmål for EFTA-domstolen. Forliksrådene har ikke adgang til å forelegge tolkningsspørsmål for EFTA-domstolen.

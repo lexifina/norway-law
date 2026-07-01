@@ -1,0 +1,5 @@
+# § 59
+Når et forliksrådsmedlem eller varamedlem dør eller flytter fra kommunen, eller når det opplyses at vedkommende mangler noen av de betingelser som nevnt i §§ 53 eller 56 første ledd, eller vedkommende ellers blir varig forhindret fra å gjøre tjeneste, foretar kommunestyret nytt valg av medlem eller varamedlem for den tid som er igjen. Valget foretas som flertallsvalg.
+Kommunestyret kan tillate et medlem eller varamedlem å fratre sin stilling før tiden og foretar i så fall nytt valg etter reglene i første ledd.
+Har noen forfall så forliksrådet ikke kan holde beslutningsdyktig møte, kan statsforvalteren oppnevne stedfortredere for den enkelte sak eller for inntil tre måneder. Er det ikke tid til å innhente statsforvalterens bestemmelse, kan to forrettende forliksrådsmedlemmer midlertidig tilkalle en stedfortreder når partene samtykker.
+Den som oppnevnes som medlem eller varamedlem etter denne paragraf, kommer i rekkefølge etter dem som er oppnevnt tidligere. Dersom det holdes valg på nytt medlem fordi formannen har fratrådt e.l., kan kommunestyret selv velge ny formann uavhengig av første punktum.

@@ -1,0 +1,5 @@
+# § 131a
+Under forhandlingene i straffesaker er fotografering, filmopptak og opptak for radio eller fjernsyn forbudt. Det er også forbudt å fotografere eller gjøre opptak av den siktede eller domfelte på veg til eller fra rettsmøtet eller under opphold i den bygning hvor rettsmøtet holdes, om han ikke samtykker.
+Dersom særlige grunner taler for det, kan retten under hovedforhandlingen gjøre unntak fra forbudet når det ikke kan antas å ha uheldig virkning for behandlingen av saken og heller ikke andre hensyn taler avgjørende imot. Før tillatelse gis, skal partene ha anledning til å uttale seg.
+Kongen kan gi nærmere regler til utfylling og gjennomføring av disse bestemmelser.
+Kongen kan i forskrift gi saksbehandlingsregler til utfylling av reglene i tjenesteloven for søknad om tillatelse til fotografering, filmopptak og opptak for radio eller fjernsyn, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra tjenesteloven § 11 andre ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.

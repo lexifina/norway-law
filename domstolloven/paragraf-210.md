@@ -1,0 +1,2 @@
+# § 210
+Straf og erstatningsansvar efter §§ 205, 206, 207 og 209 kan ogsaa ilægges parter og stedfortredere, naar de efter tvisteloven § 23-1 eller § 23-2 pligter at møte, avgi forklaring eller forsikring, eller naar de efter samme lovs § 26-8 annet ledd pligter at fremlægge eller gi tilgang til realbevis. Straff etter § 206 kan også ilegges en saksøkt som i en sak om tvangsfullbyrdelse eller midlertidig sikring unnlater å gi namsmyndighetene opplysninger som vedkommende er pålagt å gi etter tvangsfullbyrdelsesloven § 5-7 første ledd.

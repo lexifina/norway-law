@@ -1,0 +1,2 @@
+# § 89
+Ved trekningen kan en dommer bestemme at de samme meddommerne skal gjøre tjeneste i flere saker, dersom sakene skal behandles i umiddelbar sammenheng og det må antas at de til sammen ikke vil vare i mer enn ti dager. Dersom det foreligger tungtveiende grunner, kan de samme meddommerne pålegges å gjøre tjeneste i flere saker i umiddelbar sammenheng også når det må antas at sakene vil vare i mer enn ti dager. Domstollederen kan treffe en generell beslutning etter første punktum for foreleggssaker som skal behandles i umiddelbar sammenheng samme dag.

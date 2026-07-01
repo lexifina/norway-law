@@ -1,0 +1,6 @@
+# § 25
+Kongen fastsetter hvor tingrettene skal ha sine faste rettssteder. Endringer i de faste rettsstedene skal forelegges for Stortinget.
+Dersom ikke staten stiller rettslokale til rådighet, skal vedkommende kommune eller kommuner skaffe rettslokale og nødvendige andre rom på rettssted som nevnt i første ledd, og dessuten sørge for oppvarming, lys, renhold og utstyr i rommene. Utgiftene til dette dekkes i alle tilfelle av vedkommende kommune eller kommuner. Mellom flere kommuner fordeles utgiften i forhold til folkemengden ved siste folketelling. Domstoladministrasjonen kan i særlige tilfelle fastsette en annen fordelingsmåte.
+Rettslokalene må være godkjent av domstoladministrasjonen.
+Dersom ikke staten stiller rettslokale til rådighet for jordskifteretten, skal vedkommende kommune eller kommuner skaffe rettslokale. Andre til fjerde ledd gjelder tilsvarende for lokaler jordskifteretten bruker til rettsmøter.
+Saker i tingrettene og jordskifterettene skal behandles ved rettsstedet i den delen av rettskretsen hvor sakene geografisk hører hjemme. Når det er hensiktsmessig, kan saker behandles på andre faste rettssteder i rettskretsen eller rett settes på andre steder enn de faste rettsstedene.

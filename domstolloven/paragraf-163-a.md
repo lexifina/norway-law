@@ -1,0 +1,7 @@
+# § 163 a
+Offentlige myndigheter som nevnt i annet ledd kan forkynne dokumenter ved direkte oversendelse til den som skal motta forkynningen. Oversendelsen kan enten skje elektronisk ved bruk av en betryggende teknisk løsning som gir bevis for at dokumentet er mottatt av rette vedkommende, ved vanlig brev vedlagt mottakskvittering eller ved rekommandert brev. Forliksrådets dokumenter kan også forkynnes i vanlig brev uten mottakskvittering.
+Følgende myndigheter kan foreta forkynning etter første ledd: de alminnelige domstoler, jordskifterettene, Forbrukerklageutvalget, Husleietvistutvalget, Parkeringsklagenemnda, fylkesnemndene for barnevern og sosiale saker, påtalemyndigheten, namsfogder og statsforvaltere.
+En domstol kan pålegge en klager eller en saksøker å fremskaffe motpartens adresse. Forliksrådet skal foreta en rutinemessig kontroll av klagemotpartens adresse opp mot folkeregisteret eller det elektroniske adresseregisteret til Posten Norge AS.
+Advokater som skal innkalle vitner etter tvisteloven § 13-3 eller straffeprosessloven § 110 ved forkynning av vitnestevning, kan forkynne vitnestevningen ved oversendelse som nevnt i første ledd annet punktum.
+Kongen kan gi nærmere forskrifter om postforkynning.
+Kongen kan ved forskrift gi nærmere regler om elektronisk forkynning, herunder om hvilke krav som skal stilles til den tekniske løsningen for at den skal anses som betryggende.

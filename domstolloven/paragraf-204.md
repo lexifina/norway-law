@@ -1,0 +1,2 @@
+# § 204
+Har en part mot bedre vitende bevirket innledning av tvangsfullbyrdelse eller midlertidig sikring, kan vedkommende straffes med bøter. Det samme gjælder, hvis han ved falske eller aapenbart intetsigende paastande eller paaskud eller ved anden uredelighet har søkt at hindre fuldbyrdelsessakens rette oplysning eller at uthale eller lægge hindringer i veien for fuldbyrdelsen. § 202 andet led faar tilsvarende anvendelse.

@@ -1,0 +1,3 @@
+# § 165
+Annen forkynning enn postal forkynning etter § 163 a kan alltid utføres av et stevnevitne.
+Istedenfor stevnevitne kan offentlige myndigheter bruke en ansatt ved politiet eller i kriminalomsorgen når det gjelder forkynning i straffesaker. Overfor de som gjør tjeneste i Forsvaret kan forkynning i straffesaker også skje ved offiser, befal eller militærpoliti. Hvis det er nødvendig for at vinde tid, kan offentlige myndigheter i andre saker la forkyndelse utføre ved en, som retten har bemyndiget til det. Om dem, som saaledes utfører forkyndelser, gjælder det, som er bestemt om stevnevidner.

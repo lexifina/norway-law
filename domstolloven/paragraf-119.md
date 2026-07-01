@@ -1,0 +1,3 @@
+# § 119
+Har en part krevd at alle eller de fleste dommerne ved en domstol skal vike sete som ugilde til å delta i behandlingen av en sak, kan den nærmest overordnede domstol, eller Høyesteretts ankeutvalg dersom saken står for lagmannsretten, etter søknad fra domstolens formann beslutte at saken skal overføres til en annen domstol av samme orden. Den overordnede domstolens avgjørelse kan ikke angripes.
+Søkes det om slik overføring etter at en domstol i medhold av bestemmelsene i §§ 116 til 118 har avgjort at alle dommere ved domstolen eller de fleste av dem er utelukket fra å gjøre tjeneste i en sak, kan den overordnede domstolen oppheve kjennelsen dersom den finner at utelukkelsen er besluttet uten gyldig grunn.

@@ -1,0 +1,2 @@
+# § 4
+Når saksmengden gjør det påkrevd, kan Høyesterett, for saker som skal avgjøres av fem dommere, deles i flere avdelinger etter bestemmelse av høyesterettsjustitiarius. For saker som skal avgjøres av tre dommere, kan Høyesterett nedsette ett eller flere utvalg, som betegnes som Høyesteretts ankeutvalg. Høyesterettsjustitiarius leder behandlingen i avdelinger og utvalg og behandlingen av saker i storkammer eller plenum, som hun eller han er med i. Ellers ledes behandlingen av eldste dommer som er med.
