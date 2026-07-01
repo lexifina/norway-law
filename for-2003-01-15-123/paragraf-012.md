@@ -1,0 +1,3 @@
+# § 12. Endring og automatisk justering av tilskot
+Ved fastsetjing av tilskot som tidlegare er fastsett av tilskotsfut, statsforvaltar, domstol eller i avtale, skal det gjeldande tilskotet berre endrast dersom reglane i denne forskrifta vil føre til ei endring på meir enn 12 prosent.
+Underhaldskostnaden og samværsfrådraget blir automatisk regulert når barnet går over til ei ny aldersgruppe. Dette gjeld likevel ikkje der tilskotet er fastsett etter § 10 eller § 11 i denne forskrifta, eller der ein av partane bur i utlandet. Justeringa blir gjort samstundes med at grunnlagstala i vedlegget til denne forskrifta blir endra.

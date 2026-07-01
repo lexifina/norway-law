@@ -1,0 +1,2 @@
+# § 5. Inntekta til barnet
+Der barnet sjølv har ei årleg inntekt på meir enn 30 gonger auka forskott per månad etter forskotteringslova, skal meirinntekta til barnet reknast inn i den proporsjonale fordelinga av underhaldskostnadene. Når barnet er sjølvforsørgt, skal tilskot ikkje fastsetjast. Eit barn skal reknast for sjølvforsørgt når det har ei årleg inntekt på minst 100 gonger auka forskott per månad.

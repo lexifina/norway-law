@@ -1,0 +1,2 @@
+# § 2. Fordeling av underhaldskostnaden for barnet mellom foreldra etter storleiken på inntekta deira
+Fostringstilskotet skal fastsetjast ut frå underhaldskostnaden, jf. § 3 i denne forskrifta, og forholdet mellom foreldra og barnet sine inntekter, jf. § 4 og § 5 i denne forskrifta. Andelen skal reknast ut frå kor stor del inntekta til den tilskotspliktige utgjer av foreldra si samla inntekt og den delen av barnet si inntekt som skal takast med. Tilskotet til kvart barn skal ikkje setjast høgare enn 5/6 av underhaldskostnaden.
