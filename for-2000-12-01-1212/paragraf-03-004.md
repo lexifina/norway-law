@@ -1,0 +1,4 @@
+# § 3-4. Gjennomføring av avvikling av suppleringsfond og andre selvstendige pensjonsfond
+(1) Ved avvikling av pensjonsfond som omfattes av § 9 og § 16 punkt 7 i 1968-forskriften, jf. overgangsreglene til skatteloven § 6-46, skal foretaket i samråd med fondets styre sørge for at det foretas beregninger av de ytelser som skal utbetales under foretakspensjonsordningen til de pensjonsberettigede i fondet i samsvar med bestemmelsene i § 9 og § 16 punkt 7 i forskriften. Foretaket skal sørge for at det inntas bestemmelser i regelverket for foretakspensjonsordningen som sikrer rettighetene til de pensjonsberettigede i fondet.
+(2) Ytelsene til de pensjonsberettigede i pensjonsfondet kan ikke i noe tilfelle overstige de maksimale ytelser etter lovens § 5-7 første ledd.
+(3) Første ledd gjelder ikke for de pensjonsfond hvor Finanstilsynet i medhold av § 16 punkt 7 første ledd fjerde punktum i 1968-forskriften har gitt samtykke til annen bruk av fondet.

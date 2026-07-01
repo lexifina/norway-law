@@ -1,0 +1,3 @@
+# § 3-2. Førtidspensjonerte medlemmer
+(1) Medlem som er blitt førtidspensjonert før 1. januar 2001, og som i henhold til § 4 nr. 3 i 1968-forskriften er blitt stående i pensjonsordningen, beholder sitt medlemskap i pensjonsordningen. Pensjonsgrunnlaget kan ikke overstige grunnlaget per 31. desember 2000. Pensjonsgrunnlaget kan reguleres årlig, begrenset oppad med veksten i folketrygdens grunnbeløp.
+(2) Medlem som blir førtidspensjonert i perioden mellom 1. januar 2001 og tidspunktet for endringen av pensjonsordningens regelverk i henhold til foretakspensjonsloven § 16-2 tredje ledd b, skal meldes ut av ordningen på tidspunktet for endringen av pensjonsordningens regelverk.
