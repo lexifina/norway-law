@@ -1,0 +1,3 @@
+# § 4-7 b. Investeringsvalg knyttet til utstedte fripoliser
+(1) Er det utstedt fripolise med kontraktsfastsatte ytelser, kan fripoliseinnehaveren og pensjonsinnretningen avtale at midler som angitt i tredje punktum skal forvaltes som en egen investeringsportefølje tilordnet fripolisen. Avtalen skal angi hvordan porteføljen skal settes sammen og hvilken adgang fripoliseinnehaveren har til å endre sammensetningen. En slik avtale kan bare omfatte midler tilsvarende premiereserven knyttet til alderspensjon med tilhørende bufferfond og administrasjonsreserve knyttet til fripolisen.
+(2) Bestemmelsene i § 4-7 a annet til syvende ledd gjelder tilsvarende for en fripolise utstedt etter paragrafen her.

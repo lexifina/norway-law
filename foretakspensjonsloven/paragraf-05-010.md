@@ -1,0 +1,5 @@
+# § 5-10. Årlig regulering
+(1) Midler tilført pensjonistenes overskuddsfond skal hvert år benyttes som engangspremie for tillegg til alderspensjoner under utbetaling. Alle pensjoner skal gis samme prosentvise årlige tillegg.
+(2) Omfatter pensjonsordningen uførepensjon eller etterlattepensjoner i tillegg til alderspensjon, skal slike pensjoner gis samme prosentvise tillegg som i tilfelle gis til alderspensjon under utbetaling.
+(3) Det kan i regelverket fastsettes at midler i pensjonistenes overskuddsfond også skal benyttes som engangspremie for årlig tillegg til rett til alderspensjon for medlemmer som mottar uførepensjon. I det enkelte år skal det i tilfelle gis samme prosentvise tillegg som for pensjoner under utbetaling, jf. første ledd. Tillegget beregnes med utgangspunkt i den pensjon medlemmet vil ha rett til etter § 4-3 tredje ledd.
+(4) Tillegg til pensjoner kan i et enkelt år prosentvis ikke overstige den prosentvise økning av folketrygdens grunnbeløp i året. Det kan likevel gis høyere tillegg for at reguleringen av pensjonene i året og de to foregående år til sammen skal svare til den prosentvise økning av grunnbeløpet i disse tre årene.

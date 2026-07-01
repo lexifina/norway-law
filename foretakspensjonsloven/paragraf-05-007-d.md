@@ -1,0 +1,6 @@
+# § 5-7 d. Opplysningsplikt om pensjonsytelser
+(1) Pensjonsinnretningen skal i løpet av det året en arbeidstaker fyller 61 år gi vedkommende informasjon om beregnet årlig pensjonsytelse ved uttak av pensjon fra hvert av årene fra fylte 62 år til opptjeningsalder, henholdsvis med og uten fortsatt opptjening fram til opptjeningsalder. Det skal også gis informasjon om retten til pensjonsopptjening ved arbeid etter opptjeningsalder.
+(2) Dersom pensjonsinnretningen krever et standardfradrag i henhold til § 5-7 c tredje ledd, skal det opplyses om størrelsen på fradraget og betydningen av dette.
+(3) Første og annet ledd gjelder tilsvarende når pensjonsinnretningen mottar melding etter § 5-7 b om uttak av pensjon før nådd opptjeningsalder. Er utbetalingstiden for pensjonen redusert i forhold til pensjonsplanen, skal pensjonsinnretningen gi fripoliseinnehaveren skriftlig informasjon om eventuelle muligheter til å redusere uttaket fra andre pensjonsleverandører, herunder adgangen til å redusere uttaksgraden for alderspensjonen fra folketrygden frem til fylte 75 år.
+(4) Informasjonen etter denne bestemmelsen skal gis skriftlig og på en oversiktlig og lett forståelig måte.
+(5) Kongen kan gi nærmere regler om opplysningsplikt for pensjonsinnretninger.

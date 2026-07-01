@@ -1,0 +1,6 @@
+# § 9-3. Premieberegningen
+(1) Årets premie for pensjonsordningen skal beregnes etter de retningslinjer (beregningsgrunnlaget) som selskapet eller pensjonskassen har meddelt Finanstilsynet. Grunnlagsrenten for ordningen skal være i samsvar med regler fastsatt av departementet.
+(2) Er opptjeningsalderen for en gruppe medlemmer satt høyere enn den laveste tillatte opptjeningsalder, kan premien beregnes slik at premiebetaling opphører ved den laveste tillatte opptjeningsalder. Omfatter pensjonsordningen premiefritak ved uførhet, skal premien beregnes slik at det ikke skal betales premie for medlemmer som blir uføre, likevel slik at premiefritaket skal reduseres forholdsmessig etter uføregraden.
+(3) Omfatter pensjonsordningen uførepensjon, skal premien beregnes slik at det ikke skal betales premie for medlemmer som får utbetalt uførepensjon. For medlemmer som får utbetalt delvis uførepensjon, reduseres premiefritaket forholdsmessig.
+(4) Omfatter pensjonsordningen etterlattepensjon, skal det legges til grunn at foretaket ikke skal betale premie for etterlattepensjon for medlemmer som dør før nådd opptjeningsalder.
+(5) Skal tidligere tjenestetid fra annen pensjonsordning medregnes etter reglene i §§ 4-11 og 4-12, regnes tidspunktet for medlemskap fra et tilsvarende tidligere tidspunkt.

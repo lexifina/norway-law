@@ -1,0 +1,5 @@
+# § 3-8. Eldre arbeidstakere
+(1) En arbeidstaker skal tas opp som medlem av pensjonsordningen etter bestemmelsene i §§ 3-3 til 3-7 selv om arbeidstakeren ved ansettelsen har mindre enn 10 år igjen til opptjeningsalderen etter § 4-1.
+(2) I regelverket kan det for slike arbeidstakere eller for bestemte grupper av slike arbeidstakere likevel bestemmes at de som har mindre enn et fastsatt antall år igjen til opptjeningsalderen etter § 4-1, ikke skal tas opp som medlemmer eller bare skal opptas på særskilte vilkår. Arbeidstakere som ikke opptas som medlemmer i foretakspensjonsordningen, skal sikres alderspensjon ved engangsbetalt alderspensjon eller etter innskuddspensjonsloven.
+(3) Bestemmelser i regelverket om medregning av tidligere tjenestetid skal ikke gjelde for arbeidstakere som har mindre enn 10 år igjen til opptjeningsalderen etter § 4-1 når de opptas, med mindre annet er fastsatt i regelverket.
+(4) Bestemmelsene i annet og tredje ledd gjelder ikke ordning med engangsbetalt alderspensjon.

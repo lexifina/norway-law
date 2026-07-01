@@ -1,0 +1,5 @@
+# § 5-7 b. Uttak av alderspensjon
+(1) Medlem skal gi pensjonsinnretningen melding som angir fra hvilket tidspunkt alderspensjon skal utbetales. Dersom det ikke er sendt melding om uttak av alderspensjon innen fylte 75 år, skal pensjonen uansett utbetales.
+(2) Medlem kan i meldingen bestemme at uttaket av alderspensjon bare skal gjelde en del av pensjonsytelsen. Graden av uttak kan likevel ikke være mindre enn det som er nødvendig for at samlet årlig pensjon utgjør om lag 20 prosent av folketrygdens grunnbeløp.
+(3) Uttaksgraden kan på ethvert tidspunkt etter uttak fram til fylte 75 år endres til fullt uttak av pensjon. Uttaksgraden kan for øvrig endres ved nådd opptjeningsalder og deretter på tidspunkter fastsatt i regelverket. Ved fylte 75 år skal uttaket uansett endres til fullt uttak.
+(4) Medlem som mottar uførepensjon etter § 6-1, kan ikke samtidig ta ut alderspensjon i den utstrekning samlet uførepensjon og alderspensjon overstiger en pensjonsgrad på 100 prosent. Blir arbeidstaker ufør etter uttak av alderspensjon, reduseres alderspensjonsutbetalingen slik at pensjonsgraden ikke overskrider 100 prosent.

@@ -1,0 +1,4 @@
+# § 9-2. Årets premie
+(1) Pensjonsordningen skal hvert år tilføres en premie som etter beregningsgrunnlaget for ordningen vil være tilstrekkelig til å sikre den rett til pensjon som medlemmene opptjener i løpet av året, med tillegg av årets risikopremier og kostnader etter beregningsgrunnlaget. I beregningsgrunnlaget skal opptjeningsalderen fastsatt i regelverket etter § 4-1 legges til grunn.
+(2) Er årets premie som følge av lønnsøkning høyere enn to ganger gjennomsnittet av premiene i de tre foregående år, kan en firedel av det beløp som overstiger premiefondet, innbetales neste år.
+(3) Fastsettes det ved opprettelsen av en pensjonsordning regler om medregning av tidligere tjenestetid i foretaket, kan den premiereserve som trengs for å sikre den rett til pensjon slik medregning innebærer, innbetales som premietillegg med en tredel i hvert år deretter.

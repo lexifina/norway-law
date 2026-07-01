@@ -1,0 +1,4 @@
+# § 2-5. Livsforsikringsselskapets plikter
+(1) Et livsforsikringsselskap kan bare tegne «Foretakspensjonsordning med skattefordel» når forsikringsavtalen og pensjonsordningen er i samsvar med loven her med tilhørende forskrifter.
+(2) Livsforsikringsselskapet skal påse at foretaket avgir skriftlig erklæring om at foretaket ikke har opprettet eller er tilsluttet annen pensjonsordning. Oversendelse kan skje ved bruk av elektronisk kommunikasjon dersom det er benyttet en betryggende metode som autentiserer avsender og sikrer kravets innhold. Dersom foretaket har annen pensjonsordning må forsikringsselskapet påse at samtlige pensjonsordninger sett i sammenheng, er i samsvar med loven her med tilhørende forskrifter.
+(3) Bestemmelsene i første og annet ledd gjelder så langt de passer for pensjonskasser.
