@@ -1,0 +1,3 @@
+# § 14. Pantsettelse og gjeldsforfølgning
+Fast eiendom som Finnmarkseiendommen eier og begrensede rettigheter som Finnmarkseiendommen har i fast eiendom som andre eier, kan ikke stilles som sikkerhet for gjeld eller andre forpliktelser og kan ikke være gjenstand for kreditorbeslag. Dette gjelder likevel ikke eiendommer og begrensede rettigheter i eiendommer som er fradelt ved offentlig delingsforretning og som er utlagt til bebyggelse og anlegg i planer etter plan- og bygningsloven, eller fradelte tomter som er bebygd.
+Det kan ikke åpnes konkurs eller gjeldsforhandling hos Finnmarkseiendommen.

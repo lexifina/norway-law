@@ -1,0 +1,4 @@
+# § 36. Utmarksdomstolen for Finnmark
+Det opprettes en særdomstol (utmarksdomstolen for Finnmark) som skal behandle tvister om rettigheter som oppstår etter at Finnmarkskommisjonen har utredet et felt.
+Kongen oppnevner utmarksdomstolens medlemmer. Utmarksdomstolen skal bestå av en leder, en nestleder, tre faste medlemmer og to varamedlemmer. Lederen, nestlederen og ett av de øvrige medlemmene skal oppfylle de kravene domstolloven stiller til høyesterettsdommere. Det samme gjelder ett av varamedlemmene, som er varamedlem for disse tre.
+Saker som hører under utmarksdomstolen, kan ikke bringes inn for de alminnelige domstolene eller jordskifteretten, med mindre utmarksdomstolen har avvist saken etter § 39, eller søksmålsfristen etter § 38 første ledd er løpt ut, og utmarksdomstolen heller ikke skal ta saken til behandling etter § 38 annet ledd.

@@ -1,0 +1,3 @@
+# § 17. Straff- og erstatningsansvar for styremedlemmer m.fl.
+Medlem av styret, firmategner, revisor, ledende ansatt som er tildelt myndighet til å treffe beslutninger på vegne av Finnmarkseiendommen innenfor avgrensede saksområder, eller medlem av kontrollkomiteen som viser grov uforstand i utførelsen av sine oppgaver for Finnmarkseiendommen, straffes med bøter eller under skjerpende omstendigheter med fengsel i inntil ett år. Medvirkning straffes ikke.
+Medlem av styret som forsettlig eller uaktsomt har påført Finnmarkseiendommen tap under utførelsen av vervet, plikter å erstatte tapet. Kontrollkomiteen avgjør om erstatningskrav skal fremmes.

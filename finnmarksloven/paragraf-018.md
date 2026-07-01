@@ -1,0 +1,3 @@
+# § 18. Forholdet til forvaltningsloven og offentlighetsloven
+For Finnmarkseiendommen gjelder forvaltningsloven kapittel II om ugildhet, § 11 om veiledningsplikt, § 11 a om saksbehandlingstid og foreløpig svar og §§ 13 til 13 f om taushetsplikt tilsvarende. Finnmarkseiendommen skal gi rettighetshaverne i et område forhåndsvarsel og adgang til å uttale seg etter reglene i forvaltningsloven § 16 før Finnmarkseiendommen treffer vedtak som kan ha rettslige eller faktiske konsekvenser for dem.
+Finnmarkseiendommens saksdokumenter er offentlige etter reglene i offentleglova. Ved avslag på krav om innsyn kan spørsmålet om det er adgang til å unnta dokument fra offentlighet, påklages til statsforvalteren.

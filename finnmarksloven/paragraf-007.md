@@ -1,0 +1,7 @@
+# § 7. Finnmarkseiendommens styre
+Finnmarkseiendommen ledes av et styre på seks personer.
+Finnmark fylkesting og Sametinget velger selv tre medlemmer med personlige varamedlemmer hver. Medlemmene og varamedlemmene skal være bosatt i Finnmark. Blant medlemmene valgt av Sametinget skal minst ett styremedlem og vedkommendes varamedlem være representanter for reindriften. Både som medlemmer og som varamedlemmer skal begge organer velge både kvinner og menn. Organet skal velge medlemmer og varamedlemmer samlet. Ansatte i Finnmarkseiendommen, Finnmarkseiendommens revisor og medlemmer og varamedlemmer i kontrollkomiteen kan ikke velges som styremedlemmer eller varamedlemmer.
+Styremedlemmene og varamedlemmene oppnevnes for inntil fire år av gangen. Ingen kan være styremedlem i mer enn ti år i sammenheng.
+Styremedlemmer og varamedlemmer kan avsettes av det organ som har oppnevnt vedkommende. Organet skal i så fall på nytt velge medlemmer og varamedlemmer samlet.
+Styremedlemmer og varamedlemmer har rett til å tre tilbake før tjenestetiden er ute dersom særlig grunn foreligger. Styret og det organ som har oppnevnt vedkommende, skal gis rimelig forhåndsvarsel. Fjerde ledd annet punktum gjelder tilsvarende.
+Styret velger selv en leder og en nestleder blant medlemmene. Dersom ingen oppnår flertall, fastsetter fylkestinget i oddetallsår og Sametinget i partallsår hvem av de seks medlemmene som skal være leder og nestleder.

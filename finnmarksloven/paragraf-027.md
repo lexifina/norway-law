@@ -1,0 +1,8 @@
+# § 27. Nærmere vilkår for utnyttelse av fornybare ressurser og innskrenkninger i utnyttelsen
+Finnmarkseiendommen kan fastsette nærmere bestemmelser for utnyttelse av fornybare ressurser som nevnt i § 22 bokstav a til f og § 23 bokstav a til e. Finnmarkseiendommen kan fastsette at utnyttelse krever tillatelse. Det kan settes vilkår i tillatelsene.
+For jakt, fangst og fiske er tillatelse alltid nødvendig. Den som får tillatelse, skal motta et kort eller lignende som viser at vedkommende har tillatelse. Med samtykke fra departementet kan Finnmarkseiendommen fastsette unntak fra bestemmelsene i leddet her.
+For tillatelse til jakt, fangst og fiske kan Finnmarkseiendommen kreve avgift. Avgiften for personer bosatt i Finnmark skal ikke overstige det dobbelte av avgiften for personer bosatt i kommunen. Det kan ikke kreves avgift ved tildeling av særskilte retter etter § 24.
+Fiske etter anadrome laksefisk med faststående redskap i sjøen kan bare foregå etter utvisning av fiskeplass av Finnmarkseiendommen.
+Finnmarkseiendommen kan for nærmere angitte områder fastsette innskrenkninger i adgangen til å utnytte fornybare ressurser som nevnt i første ledd dersom hensynet til ressursen tilsier det. Kommuner, myndigheter for vilt og fiske mv. og organisasjoner for brukere som berøres, skal høres på forhånd.
+Ved innskrenkninger i utnyttelsen av fornybare ressurser som nevnt i første ledd skal det tas rimelig hensyn til de ulike brukergruppenes bruk av ressursen.
+Finnmarkseiendommens beslutninger om innskrenkninger som nevnt i femte og sjette ledd kan påklages til departementet etter reglene i forvaltningsloven kapittel VI. Departementets avgjørelse kan ikke påklages.
