@@ -1,0 +1,2 @@
+# § 8
+Kjem eigaren eller rettshavaren med krav om det, kan Kongen – eller nokon med heimel etter § 5 – fastsetja at oreigningsinngrepet òg skal gjelda grunn, bygning, rettar og anna som kom til å missa mykje av verdet for eigaren eller rettshavaren, om inngrepet vart sett i verk. I slike høve kan det likeeins verta fastsett at oreignaren skal løysa inn heile eigedomen jamvel om han berre har gjort krav på ein bruksrett eller annan serleg rett i eigedomen.

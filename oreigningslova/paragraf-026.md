@@ -1,0 +1,3 @@
+# § 26
+Gjeld oreigningsinngrepet ein bruksrett og er det tidavgrensa, skal oreignaren eller ettermannen hans rydja grunnen når tida er ute, eller når bruken er slutt om det er før, alt innan den fristen departementet fastset, og så framt det ikkje er sagt noko anna i skjønsføresetnadene. Dryer oreignaren over fristen, kan grunneigaren få gjort det arbeidet som trengst for rekning av oreignaren eller ettermannen hans.
+Tvist om omfanget av rydjingsskyldnaden, om alt rydjingsarbeidet er gjort, eller om kva krav grunneigaren har når han lyt gjera arbeidet sjølv, vert avgjort med skjøn som vert styrt av jordskifteretten.

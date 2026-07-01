@@ -1,0 +1,2 @@
+# § 13
+Kjem det på tale å taka avgjerd i skjønet om oreigningsinngrep etter § 6, skal grunneigaren eller rettshavaren straks få varsel, så framt han ikkje har hatt høve til å seia si meining etter § 12, andre leden, av di spørsmålet om inngrep ikkje har vore oppe føre skjønet. Eigaren eller rettshavaren skal gjerast til saksøkt; og trengst det skal saka mot han verta drygd ut så han kan få rimeleg omrøme til å taka vare på baten sin.

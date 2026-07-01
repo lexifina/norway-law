@@ -1,0 +1,2 @@
+# § 3
+Andre enn staten og kommunar kan ikkje få rett til å gjera inngrep etter § 2 utan Kongen i riksråd har gjeve føresegner som fastset noko anna. Føresegnene kan òg gå ut på at serskilt nemnde institusjonar, lag, samskipnader og liknande skal kunne få samtykke til inngrep einast etter visse nummer i § 2. På same måten kan Kongen fastsetja at kommunar ikkje skal kunna få samtykke til inngrep etter visse nummer i § 2.

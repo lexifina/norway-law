@@ -1,0 +1,3 @@
+# § 21
+Går ikkje inngrepet ut på at saksøkte skal lata frå seg heile eigedomen til eige, og skjønet meiner at det ikkje let seg gjera å få fullt oversyn over skade og ulempe før seinare, kan skjønet taka ved å venta ei viss tid med å fastsetja vederlaget eller noko av det. Saksøkte kan likevel krevja at skjønet straks set takst på skade og ulempe som det er råd å slå fast med det same.
+Gjer skjønet vedtak om utsetjing etter fyrste leden, kan det setja eit årleg vederlag som gjeld til så lenge. I alle fall skal det avgjera kor stor sum kvar annan saksøkjar enn staten lyt gjeva trygd for hjå namsmyndigheten, før inngrepet kan setjast i verk. Elles gjeld tvangsfullbyrdelseslova § 3-6 fyrste og andre leden.
