@@ -1,0 +1,5 @@
+# § 3-1. Namsmyndighetens åpning av gjeldsforhandling og fastsettelse av vilkår for åpning
+Dersom vilkårene i §§ 1-2 til 1-4 er oppfylt, og søknaden fyller kravene i § 2-1, skal tingretten åpne gjeldsforhandling. I tilfeller der det er åpenbart at vilkårene er oppfylt, kan åpning av gjeldsforhandling foretas av namsfogden.
+Namsmyndigheten kan sette vilkår for åpning av gjeldsforhandling, herunder vilkår om at salg eller verdsetting av eiendeler er gjennomført. Dersom det er retten som har satt vilkår, sender namsfogden saken tilbake til retten for avgjørelse om åpning når vilkåret er oppfylt.
+Avgjørelse av om gjeldsforhandling skal åpnes, treffes av retten ved kjennelse eller av namsfogden ved skriftlig beslutning.
+Namsfogdens avgjørelse om å åpne gjeldsforhandlinger kan påklages av fordringshaverne innen en uke etter at namsfogden har sendt varsel om åpning av gjeldsforhandling, jf. § 3-2 annet ledd. Namsmyndighetens avgjørelse om å åpne gjeldsforhandling på vilkår kan også påklages eller ankes av skyldneren. Tingrettens avgjørelse om å åpne gjeldsforhandling uten vilkår er endelig.

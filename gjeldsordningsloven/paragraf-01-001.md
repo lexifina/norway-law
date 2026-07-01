@@ -1,0 +1,2 @@
+# § 1-1. Formål
+Loven skal gi personer med alvorlige gjeldsproblemer en mulighet til å få kontroll over sin økonomi. Den skal legge forholdene til rette for at skyldnere med slike problemer etter søknad om gjeldsforhandling kan oppnå en gjeldsordning enten ved avtale med fordringshaverne (frivillig gjeldsordning) eller ved stadfestelse av tingretten (tvungen gjeldsordning). Loven skal sikre at skyldneren innfrir sine forpliktelser så langt det er mulig, samt at det skjer en ordnet fordeling av skyldnerens midler mellom fordringshaverne.

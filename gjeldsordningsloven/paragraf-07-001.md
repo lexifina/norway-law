@@ -1,0 +1,5 @@
+# § 7-1. Registrering av gjeldsordninger m.m.
+Åpning av gjeldsforhandling skal registreres i Løsøreregisteret. Frivillige og tvungne gjeldsordninger skal også registreres i Løsøreregisteret. Kunngjøringen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon etter § 3-2 første ledd og registreringen av åpning av gjeldsforhandling slettes når det enten registreres en gjeldsordning eller gjeldsforhandlingsperioden er utløpt uten at gjeldsordning er kommet i stand. Etter at gjeldsordningsperioden er avsluttet, skal opplysningene kun benyttes av namsmyndighetene i saker etter loven her for undersøkelse av om skyldneren tidligere har oppnådd gjeldsordning.
+Dersom skyldneren under en gjeldsordning skal beholde eiendeler som er pantsatt, og som er registrert i et rettsvernsregister, skal gjeldsordningen registreres der. Dersom skyldneren skal beholde eiendeler som er håndpantsatt, skal den som besitter pantet gis melding om gjeldsordningen.
+Namsfogden sørger for registreringer og meldinger etter paragrafen her.
+Kongen kan gi forskrifter om registrering av gjeldsordning eller gjeldsforhandlinger.

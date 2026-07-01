@@ -1,0 +1,6 @@
+# § 5-1. Begjæring om tvungen gjeldsordning
+Dersom skyldneren og fordringshaverne ikke kommer frem til en frivillig gjeldsordning, kan skyldneren begjære tvungen gjeldsordning. Med begjæringen skal det følge et forslag til tvungen gjeldsordning som er i samsvar med § 5-2.
+Begjæring om tvungen gjeldsordning må være namsfogden i hende før utløpet av gjeldsforhandlingsperioden. Namsfogden skal straks sende saken til retten.
+Når tvungen gjeldsordning er begjært innen fristen, forlenges gjeldsforhandlingsperioden med to måneder.
+Namsfogden skal etter begjæring fra skyldneren beslutte nødvendig forlengelse av gjeldsforhandlingsperioden dersom det er grunn til å anta at frivillig gjeldsordning vil komme i stand. Perioden kan ikke forlenges med mer enn en måned av denne grunn. Når gjeldsforhandling er åpnet, skal skyldneren gis opplysning om retten til å begjære gjeldsforhandlingsperioden forlenget. Namsfogdens avgjørelse om forlengelse av gjeldsforhandlingsperioden er endelig.
+Dersom det benyttes rettsmidler mot en avgjørelse om å nekte stadfestelse av tvungen gjeldsordning eller dersom en kjennelse om tvungen gjeldsordning blir opphevet av ankeinstansen, skal gjeldsforhandlingsperioden anses å løpe inntil rettskraftig avgjørelse foreligger i saken. En gjeldsforhandlingsperiode kan likevel ikke overstige ett år.

@@ -1,0 +1,2 @@
+# § 1-3. Økonomisk vilkår
+Skyldnere som er varig ute av stand til å oppfylle sine forpliktelser, kan oppnå gjeldsordning etter loven her. En skyldner anses som varig ute av stand til å oppfylle sine forpliktelser når det må antas at vedkommende ikke er i stand til å innfri forpliktelsene fullt ut innen et for skyldneren rimelig tidsrom sett i forhold til forpliktelsenes art og omstendighetene ellers, eller uten urimelig oppofrelse.

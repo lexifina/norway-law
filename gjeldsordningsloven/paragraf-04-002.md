@@ -1,0 +1,6 @@
+# § 4-2. Hva en frivillig gjeldsordning kan gå ut på
+Forslaget kan innebære utsettelse med betaling av hele eller deler av gjelden, at fordringshaverne helt eller delvis skal gi avkall på renter og omkostninger, eller at gjelden skal falle bort helt eller delvis enten med en gang eller etter utløpet av gjeldsordningsperioden. Gjeldsordningsperioden skal i så fall normalt være fem år. Gjeldsordningsperiodens lengde skal regnes fra åpningen av gjeldsforhandlingene.
+Forslaget kan innebære en kombinasjon av løsningene nevnt i første ledd.
+Forslaget skal inneholde en fast angivelse av eventuelt beløp som skal betales til fordringshaverne hver betalingstermin. Beløpet skal være fast angitt gjennom hele gjeldsordningsperioden, med mindre det endres etter reglene i kapittel 6. Dersom det er grunn til å tro at skyldnerens betalingsevne under gjeldsordningen vil endres mer enn det som er alminnelig, eller det ellers finnes særlig hensiktsmessig, kan bestemmelsen i første punktum fravikes. Forslaget skal alltid utformes slik at fordringshaverne ved hver betalingstermin så enkelt som mulig kan kontrollere at vilkårene etter gjeldsordningen løpende overholdes.
+Forslaget skal inneholde en bestemmelse som avgjør eventuelle medforpliktedes stilling.
+Forslaget skal bygge på en virkelighetsnær vurdering av skyldnerens betalingsevne.

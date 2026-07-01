@@ -1,0 +1,5 @@
+# § 4-12. Vedtakelse av frivillig gjeldsordning
+Namsfogden sender skyldnerens forslag til gjeldsordning til samtlige kjente fordringshavere som berøres. Det samme gjelder eventuelle solidarisk medforpliktede. Fordringshaverne bør gis en frist på tre uker til å ta stilling til forslaget. Fordringshavere som har krav på annet enn bøter, skal opplyses om at de anses for å ha godtatt forslaget dersom de ikke motsetter seg det innen fristen.
+En fordringshaver skal ikke uten grunn motsette seg et forslag til gjeldsordning. En fordringshaver som motsetter seg forslaget, skal oppgi grunnen.
+En offentlig myndighet eller oppkrever av offentlige krav kan for andre offentlige krav enn bøter godta et forslag til gjeldsordning uten hinder av bestemmelser i annen lov, forskrift eller enkeltvedtak. Avgjørelsen av om forslaget skal godtas, regnes ikke som enkeltvedtak etter forvaltningsloven.
+Et forslag til gjeldsordning er vedtatt når det er godtatt av samtlige fordringshavere som berøres. Fordringshavere som har krav på annet enn bøter og som er varslet etter første ledd, anses for å ha godtatt forslaget dersom de ikke innen fristen i første ledd har motsatt seg det.

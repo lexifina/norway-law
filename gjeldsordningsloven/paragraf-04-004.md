@@ -1,0 +1,2 @@
+# § 4-4. Skyldnerens plikt til å avhende bolig
+Skyldneren har plikt til å avhende bolig dersom salg av boligen vil gi fordringshaverne best dekning og boligen overstiger skyldnerens og dennes husstands rimelige behov. Til grunn for vurderingen legges boligens omsetningsverdi, jfr. § 4-7 første ledd, og kostnaden for skyldneren ved å skaffe seg og sin husstand en annen bolig som med hensyn til beliggenhet, størrelse, pris og andre forhold tilfredsstiller rimelige krav.

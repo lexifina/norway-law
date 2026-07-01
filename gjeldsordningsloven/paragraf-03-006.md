@@ -1,0 +1,2 @@
+# § 3-6. Bortfall av utleggspant
+Lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 5-8 gjelder tilsvarende ved gjeldsforhandling etter loven her. Som fristdag regnes dagen for åpning av gjeldsforhandling. Namsfogden skal sørge for sletting av utlegget i offentlige registre etter at gjeldsordning er vedtatt eller rettskraftig stadfestet. Utlegg som er sikret etter håndpantregelen, skal under gjeldsforhandlingsperioden sikres etter § 3-3 første ledd.
