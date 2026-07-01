@@ -13,4 +13,5 @@ I reguleringsplan kan det i nødvendig utstrekning gis bestemmelser til arealfor
 11) krav om detaljregulering for deler av planområdet eller bestemte typer av tiltak, og retningslinjer for slik plan,
 12) krav om nærmere undersøkelser før gjennomføring av planen, samt undersøkelser med sikte på å overvåke og klargjøre virkninger for miljø, helse, sikkerhet, tilgjengelighet for alle, og andre samfunnsinteresser, ved gjennomføring av planen og enkelttiltak i denne,
 13) krav om fordeling av planskapt netto verdiøkning ved ulike felles tiltak innenfor en nærmere bestemt del av planområdet i henhold til jordskifteloven § 3-30,
-14) hvilke arealer som skal være til offentlige formål eller fellesareal.
+14) hvilke arealer som skal være til offentlige formål eller fellesareal,
+15) krav om at boliger på angitte tomter skal organiseres som borettslag.

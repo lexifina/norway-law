@@ -4,4 +4,5 @@ Til arealformål nr. 1, 2, 3 og 4 i § 11-7 kan det i nødvendig utstrekning gis
 2) fysisk utforming av anlegg,
 3) hvilke arealer som skal være til offentlige formål eller fellesareal,
 4) lokalisering, bruk og strenghetsklasser for avkjørsler til veg,
-5) i hvilke områder Forsvaret i medhold av § 20-7 selv kan fatte vedtak om virksomhet, bygg og anlegg.
+5) i hvilke områder Forsvaret i medhold av § 20-7 selv kan fatte vedtak om virksomhet, bygg og anlegg,
+6) at boliger på angitte tomter skal organiseres som borettslag.
