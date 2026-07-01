@@ -1,0 +1,2 @@
+# § 31. (krav om siktforhold i Søsterløpet–Lera–Rauerfjorden–Larkollsundet)
+Fartøy med farlig eller forurensende last eller fartøy med større lengde enn 90 meter skal ikke bruke farvannet fra sydpynt av Guttormstangen på Vesterøy via 3,5-metergrunnen på Seikrakk, vestkant av Struten, vestkant av søndre Missingen, vestkant av Eldøya, nordpynt av Kollen til Brentetangen når sikten er under 1 nautisk mil.

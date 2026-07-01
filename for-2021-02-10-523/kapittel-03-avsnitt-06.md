@@ -1,0 +1,1 @@
+# VI Seilingsregler i Nordland

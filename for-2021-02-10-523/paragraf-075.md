@@ -1,0 +1,5 @@
+# § 75. (krav om bruk av eskortefartøy på strekningen Fugløya–Porsgrunn–Skien)
+Fartøy med særlig farlig eller forurensende last som er større enn 500 BT og fartøy med farlig eller forurensende last som er større enn 5000 BT skal ha eskortefartøy fastgjort på strekningen fra Fugløyskjær lanterne i sør til Øvre Ringsholmen lanterne i nord. Nord for Øvre Ringsholmen lanterne skal disse fartøyene ha assistanse fra eskortefartøy.
+Krav til assistanse fra eskortefartøy i første ledd gjelder ikke for fartøy som får assistanse fra taubåt ved forflytning mellom kai og ankerplass eller fortøyningsinnretning nord for Øvre Ringsholmen lanterne.
+Fartøy med større lengde enn 195 meter, større bredde enn 30 meter eller større dypgående enn 10 meter, skal ha eskortefartøy fastgjort i farvannet fra Gjermundsholmen lykt i øst og til Midtfjordskjær lykt i vest.
+Første ledd gjelder ikke for inngående fartøy som skal bruke farvannet i Helgerofjorden, sør av Åmlirogna lykt eller for utgående fartøy som har passert Kjørtingløpet, og er lagt på kurs ut Dypingen.

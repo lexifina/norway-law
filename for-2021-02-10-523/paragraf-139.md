@@ -1,0 +1,2 @@
+# § 139. (forbud mot bruk av farvannet ved Mongstad oljeraffineri)
+Ferdsel i farvannet som strekker seg fra land ved Dyrøy og rett nord til 200 meter nord for raffineriets vestligste punkt (kai nr. 7), og videre i en avstand på 200 meter fra raffineriets kaiområde, fram til 200 meter øst for kaiområdets østligste punkt (kai nr. 14) er forbudt for alle fartøy, med unntak av fartøy som skal anløpe eller avgå Mongstad oljeraffineri og fartøy som assisterer ved ankomst eller avgang ved raffineriet.

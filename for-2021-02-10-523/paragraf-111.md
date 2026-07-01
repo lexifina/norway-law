@@ -1,0 +1,2 @@
+# § 111. (forbud mot bruk av farvann i Langøyosen)
+Fartøy med farlig eller forurensende last, fartøy med større lengde enn 100 meter eller større dypgående enn 5,5 meter skal ikke bruke farvannet mellom en rett linje fra Sandnes (59° 00,69′ N 005° 45,19′ Ø) til vestpynten av Langøy (59° 00,59′ N 005° 45,77′ Ø) og en rett linje fra sydpynten av Vassøy (58° 59,35′ N 005° 47,24′ Ø) til Kobbstein (58° 59,37′ N 005° 46,23 Ø′).

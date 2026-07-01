@@ -1,0 +1,2 @@
+# § 124. (forbud mot passering på Falkeidflæet på strekningen Billingen–Kårstøterminalen)
+Fartøy med farlig eller forurensende last, skal i farvannet innenfor rette linjer trukket fra Billingen lanterne i retning rett nord til land på Kårstø og fra Billingen lanterne i retning 235° til land på Austre Bokn, kun passere andre fartøy etter tillatelse fra sjøtrafikksentralen. Det skal alltid holdes en sikkerhetsavstand på minst 500 meter ved passering. Unntatt fra dette er taubåter som assisterer fartøy ved ankomst og avgang ved Kårstøterminalen.
