@@ -1,0 +1,5 @@
+# § 17
+Leger, tannleger og veterinærer kan av departementet gis tillatelse til å levere legemidler, forbindingssaker og andre sykepleieartikler mot betaling når adgangen til apotek er tungvint. Legemidlene skal være anskaffet fra apoteket i ferdig tilberedt stand.
+Selv om tillatelse som nevnt i første ledd ikke er gitt, kan lege, tannlege og veterinær kreve dekket utlegg til legemidler som er brukt under behandlingen av en pasient eller et dyr, eller som er utlevert til bruk inntil midlene kan skaffes fra apotek.
+På steder hvor det er vanskelig adgang til apotek eller lege, kan departementet gi tillatelse til at en autorisert sykepleier har et mindre forråd av legemidler m.v. til bruk i påkommende tilfelle. I særlige tilfeller kan departementet gi slik tillatelse til andre enn autorisert sykepleier. Det er ikke adgang til å beregne noen fortjeneste ved utlevering fra slikt forråd. Varene skal leveres fra et bestemt apotek, som påtar seg å føre nødvendig tilsyn.
+Departementet kan gi nærmere regler om levering av legemidler m.v. i henhold til denne paragraf, derunder om hvilken pris eller fortjeneste som kan beregnes for levering etter første ledd.

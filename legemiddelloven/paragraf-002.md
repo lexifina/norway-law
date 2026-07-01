@@ -1,0 +1,5 @@
+# § 2
+Med legemidler forstås i denne lov stoffer, droger og preparater som er bestemt til eller utgis for å brukes til å forebygge, lege eller lindre sykdom, sykdomssymptomer eller smerter, påvirke fysiologiske funksjoner hos mennesker eller dyr, eller til ved innvortes eller utvortes bruk å påvise sykdom.
+Kongen gir nærmere forskrifter om hva som skal regnes som legemidler. I forskriftene kan det fastsettes at visse stoffer, droger eller preparater alltid skal regnes som legemidler uansett om de også har annen anvendelse, og at visse stoffer, droger eller preparater som kommer inn under bestemmelsen i første ledd, likevel ikke skal regnes som legemidler.
+Departementet avgjør i tvilstilfeller om en vare etter loven og forskriftene skal regnes som legemiddel.
+Kongen gir alminnelige forskrifter om innførsel og omsetning av legemidler, herunder om deklarasjon, om erklæringer eller attester som skal gis eller skaffes ved kjøp eller innførsel, og om forsiktighetsregler som skal iakttas ved utlevering.

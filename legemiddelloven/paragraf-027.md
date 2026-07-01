@@ -1,0 +1,3 @@
+# § 27
+Departementet kan i forskrift bestemme at vare som ikke regnes som legemiddel etter denne lov, men som selges til spesielt medisinsk bruk, eller til annet særlig bruk i helse- og sykepleie, skal være undergitt særskilt kontroll, for å sikre at varen svarer til de krav som må stilles av hensyn til liv og helse.
+Departementet kan gi forskrift med nærmere regler om kontroll av varer etter første ledd. I forskriftene kan det blant annet fastsettes regler om hvilke krav varen skal fylle, om godkjenning av varen og av tilvirkere og selgere og om tilsyn med tilvirkning og omsetning. Det kan i forskriftene fastsettes gebyr for å dekke utgiftene ved godkjenning, kontroll og undersøkelser.

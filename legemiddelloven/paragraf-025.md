@@ -1,0 +1,4 @@
+# § 25
+Lovbestemt taushetsplikt er ikke til hinder for at opplysninger om mulig misbruk av narkotika gis til Statens helsetilsyn.
+Leger, tannleger, veterinærer, apotekere og apotekbestyrere, psykologer, edruelighetsnemnder og politiet er pliktig til på anmodning å gi Statens helsetilsyn opplysninger om bestemte personers mulige misbruk av narkotika, eller om andre bestemt angitte tilfeller av misbruk eller overtredelse av bestemmelser i lov eller forskrifter om disse varer. I sak om straff eller inndragning p.g.a. overtredelse av slike bestemmelser kan retten uten hinder av straffeprosessloven § 119 motta vitneprov om disse forhold.
+Opplysninger om misbruk som er gitt til Statens helsetilsyn i henhold til denne paragraf, eller som det på annen måte har fått kjennskap til, kan uten hinder av taushetsplikt gis til leger, apotek, psykologer, edruelighetsnemnder og, dersom det foreligger mistanke om lovstridig handling, til politiet.
