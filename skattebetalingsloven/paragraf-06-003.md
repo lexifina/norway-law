@@ -1,0 +1,7 @@
+# § 6-3. Fastsetting av forskuddsskatt for personlige skattytere
+(1) Forskuddsskatten fastsettes til det beløp som skatten og trygdeavgiften ventes å ville utgjøre etter de satser og regler som gjelder for vedkommende år.
+(2) Forskuddsskatt utstedes på grunnlag av formue og inntekt ved siste skattefastsetting. Ved fastsetting av forskuddsskatten skal det gjøres fradrag for beløp som må ventes dekket gjennom forskuddstrekk etter reglene i kapittel 5. Slikt fradrag skal likevel ikke gjøres når lønnsinntekten ikke ventes å ville overstige 10 prosent av den samlede inntekt ved skattefastsettingen.
+(3) Når en skattyter ber om å få fastsatt forskuddsskatten etter et høyere grunnlag enn det som følger av reglene i dette kapitlet, skal anmodningen i alminnelighet tas til følge.
+(4) Skattekontoret kan til enhver tid forhøye eller sette ned forskuddsskatten når det er begått feil ved den opprinnelige utskrivingen.
+(5) Utstedt forskuddsskatt kan endres når det er overveiende sannsynlig at skattyteren, med den opprinnelige fastsatte forskuddsskatt, vil få en restskatt eller en tilgodesum ved avregningen for vedkommende år som tilsvarer minst en femtedel av det utstedte forskuddsbeløpet.
+(6) Skattekontoret kan frita skattyter fra plikten til å innbetale gjenstående terminer av forskuddsskatt eller treffe bestemmelse om tilbakebetaling av forskuddsskatt, når vilkårene i § 5-3 annet ledd foreligger.

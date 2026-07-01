@@ -1,0 +1,4 @@
+# § 5-11. Opplysninger om forskuddstrekk og skattetrekk
+(1) Arbeidsgiver skal ukrevet levere opplysninger om forskuddstrekk og dato for utbetaling av ytelser det skal foretas trekk i, for hver kalendermåned etter reglene i a-opplysningsloven. Det samme gjelder for skattetrekk etter § 5-4 første ledd (kildeskatteordning). Forsikringsselskap som er trekkpliktig etter § 5-4 annet ledd, skal levere opplysninger om foretatt forskuddstrekk etter reglene i a-opplysningsloven. Selskap mv. som er trekkpliktig etter § 5-4a første ledd, skal levere opplysninger på den måte som departementet bestemmer.
+(2) Departementet kan i forskrift gi regler om arbeidsgivers plikt til å føre lønningsregnskap, og om de opplysninger om lønn og andre ytelser, trekkbeløp mv. som skal sendes inn.
+(3) Departementet kan i forskrift gi regler som fraviker reglene i denne paragrafen.

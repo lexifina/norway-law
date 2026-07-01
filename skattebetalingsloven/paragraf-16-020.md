@@ -1,0 +1,3 @@
+# § 16-20. Ansvar for forskuddstrekk og skattetrekk etter § 5-4 første ledd (kildeskatteordning)
+(1) Dersom forskuddstrekk eller skattetrekk etter § 5-4 første ledd (kildeskatteordning) ikke blir foretatt i samsvar med reglene i kapittel 5 eller trukket beløp ikke blir betalt i samsvar med § 10-10, er de som har plikt til å foreta forskuddstrekk eller skattetrekk ansvarlig for beløpet. Unnlatelse av å foreta trekk medfører likevel ikke ansvar når det godtgjøres at forholdet ikke skyldes forsømmelse eller mangel på tilbørlig aktsomhet fra arbeidsgiver eller noen i hans tjeneste.
+(2) Foreldelsesloven §§ 9 og 11 gjelder tilsvarende for ansvarskravet.

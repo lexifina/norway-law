@@ -1,0 +1,4 @@
+# § 11-7. Forskrifter
+(1) Departementet kan i forskrift fastsette nærmere regler om at renter av skatte- og avgiftskrav som fastsettes på grunnlag av domstolsavgjørelse, skal svares fra forfallstidspunktet for det opprinnelige skatte- og avgiftskravet.
+(2) Departementet kan i forskrift gi regler til utfylling og gjennomføring av bestemmelsene i §§ 11-1 til 11-4, herunder nærmere regler om grunnlaget for renteberegningen og unntak fra plikten til å svare renter og yte rentegodtgjørelse.
+(3) Departementet kan i forskrift fastsette regler om renter når det på grunn av endringer i utskrevet terminskatt eller innbetalinger etter lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v. § 7 nr. 4, er forskjell på innbetalingene av de fem første og de fem siste terminene.

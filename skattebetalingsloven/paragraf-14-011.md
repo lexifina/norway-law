@@ -1,0 +1,6 @@
+# § 14-11. Stansning av kjøretøy
+(1) Dersom krav på årsavgift, vektårsavgift, engangsavgift, omregistreringsavgift eller avgift for urettmessig bruk av merket mineralolje eller merket biodiesel ikke betales til rett tid, kan skattekontoret bestemme at bruken av det motorkjøretøyet som kravene knytter seg til, skal stanses inntil avgiftene er betalt. Det samme gjelder dersom påbud eller bestemmelser gitt i medhold av lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 1, ikke etterkommes.
+(2) Dersom krav som nevnt i første ledd ikke betales til rett tid, kan registreringsmyndigheten nekte på- eller omregistrering i Statens vegvesens motorvognregister.
+(3) Kjøretøy som er bestemt stanset i medhold av første ledd, kan avskiltes. Skattekontoret kan be tollmyndighetene, politiet eller annen offentlig myndighet om å gjennomføre avskiltingen.
+(4) Skattekontorets stansningsrett kan bortfalle ved rettsvinning etter lov 2. juni 1978 nr. 37 om godtroerverv av løsøre. Dette gjelder likevel ikke overfor personer som er ansvarlige for avgiften etter §§ 16-40 og 16-41.
+(5) Departementet kan i forskrift gi nærmere regler om betaling av gebyr til dekning av utgifter påløpt ved avskiltingen, og om fremgangsmåten for stansning.

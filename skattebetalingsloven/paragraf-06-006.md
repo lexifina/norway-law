@@ -1,0 +1,3 @@
+# § 6-6. Nærmere om beregningsgrunnlaget for forskuddsskatt
+(1) Departementet kan treffe vedtak om at beregningsgrunnlaget for forskuddsskatten skal forhøyes eller reduseres med en prosentsats som fastsettes for det enkelte år.
+(2) Skattekontoret kan beslutte at beregningsgrunnlaget for forskuddsskatten skal forhøyes eller reduseres med et prosentvis tillegg eller fradrag for bestemte grupper skattytere, når det som følge av konjunkturutviklingen eller av andre grunner må ventes en alminnelig stigning eller nedgang i inntekten for denne gruppen i forhold til inntekten ved siste skattefastsetting.

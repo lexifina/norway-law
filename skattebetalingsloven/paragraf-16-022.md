@@ -1,0 +1,3 @@
+# § 16-22. Ansvar for skatt på renter og vederlag for bruk av eller retten til å bruke immaterielle rettigheter og visse fysiske eiendeler
+(1) Dersom skattetrekk i renter og vederlag for bruk av eller retten til å bruke immaterielle rettigheter eller skip, fartøy, rigger mv., fly og helikopter ikke blir foretatt i samsvar med § 5-4b eller trukket beløp ikke blir betalt i samsvar med § 10-14, er den betaleren som har plikt til å foreta skattetrekk, ansvarlig for beløpet. Unnlatelse av å foreta trekk medfører likevel ikke ansvar når det godtgjøres at forholdet ikke skyldes forsømmelse eller mangel på tilbørlig aktsomhet fra selskapet eller noen i dets tjeneste.
+(2) Foreldelsesloven §§ 9 og 11 gjelder tilsvarende for ansvarskravet.

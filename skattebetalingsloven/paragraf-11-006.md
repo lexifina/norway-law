@@ -1,0 +1,4 @@
+# § 11-6. Rentesatser
+(1) Rentesatsen for rente etter §§ 11-1 og 11-3 skal tilsvare satsen fastsatt i medhold av lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3 første ledd første punktum. Er det innvilget betalingsordning for arveavgift fordi arven eller gaven vesentlig omfatter næringsvirksomhet, skal renten være halvparten av satsen etter første punktum.
+(2) Rentesatsen for rente etter § 11-2 skal tilsvare den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar det aktuelle året tillagt ett prosentpoeng. Rentesatsen for rente etter § 11-4 skal tilsvare den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar det aktuelle året.
+(3) Endring i rentens størrelse får virkning fra tidspunktet endringen trer i kraft, også for skatte- og avgiftskrav hvor det løper rente før ikrafttredelsen.
