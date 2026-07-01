@@ -1,0 +1,2 @@
+# § 3-7. Driftskonsesjonsansvaret ved apotekers fravær
+Ved sykdom, permisjon og annet midlertidig fravær over 1 måned skal virksomhetens daglige ledelse overlates til en person med rett til å utøve yrke som provisorfarmasøyt eller med autorisasjon som reseptarfarmasøyt. Vedkommende skal ha tilstrekkelig apotekpraksis til å overta driftsansvaret. Ved sammenhengende fravær over 3 måneder skal det sendes melding til departementet. Perioden kan normalt ikke overstige 12 måneder, men departementet kan i særlige tilfeller godkjenne at den forlenges.

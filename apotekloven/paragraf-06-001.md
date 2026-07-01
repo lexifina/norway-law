@@ -1,0 +1,4 @@
+# § 6-1. Leveringsrett for apotekets varer m.v.
+Apoteket har med de begrensninger som følger av lov og forskrift rett til å levere forhandlingspliktige varer og yte de tjenester som følger av forhandlingsplikten. Apotek kan også levere og yte andre varer og tjenester hvis det naturlig og hensiktsmessig lar seg forene med apotekets salg av forhandlingspliktige varer. Departementet kan likevel gi forskrift som innskrenker adgangen til å selge varer og varegrupper som ikke omfattes av forhandlingsplikten, og kan gi bestemmelser som innskrenker adgangen til å yte andre tjenester enn farmasøytiske tjenester.
+Departementet kan gi forskrift som begrenser apotekets adgang til forsendelse av legemidler.
+Departementet kan ved forskrift og i det enkelte tilfellet helt eller delvis unnta sykehusapotek fra leveringsrett for forhandlingspliktige varer til andre kunder enn sykehuset og sykehusets ansatte og brukere.
