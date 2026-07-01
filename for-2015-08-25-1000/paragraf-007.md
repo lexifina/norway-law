@@ -1,0 +1,2 @@
+# § 7. Overgangsbestemmelser
+Operatør av flyplass kan inntil flyplassen er sertifisert etter forordning (EU) nr. 139/2014 benytte kvalitetssystem og sikkerhetsstyringssystem etter forordningens Annex III i stedet for kvalitetssystem i medhold av forskrift 5. januar 2001 nr. 11 om kvalitetssystem i ervervsmessige luftfartsvirksomheter og sikkerhetsstyringssystem i medhold av forskrift 21. august 2003 nr. 1068 om bruk av system for sikkerhetsstyring innen flysikringstjenesten og bakketjenesten (BSL A 1-9).
