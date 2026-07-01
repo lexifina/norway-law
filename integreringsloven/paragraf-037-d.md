@@ -1,0 +1,4 @@
+# § 37 d. Opplæring i norsk
+Personer som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å delta i opplæring i norsk etter kapittel 6 i loven her. De har ikke rett eller plikt til opplæring i samfunnskunnskap. For øvrig gjelder § 26.
+Retten til opplæring i norsk gjelder i ett år fra oppstartstidspunktet. For øvrig gjelder §§ 30 og 32 i loven her. Deltagere i opplæringen bør oppnå et minimumsnivå i norsk. Plikten til å avlegge prøver etter § 37 gjelder ikke. Kommunen skal likevel sørge for at deltagerne får mulighet til å avlegge gratis avsluttende prøve i norsk. Departementet kan gi forskrift om utvidet opplæring i norsk.
+Kommunen skal, samtidig som det treffes vedtak om opplæring i norsk, utarbeide en norskplan. Norskplanen skal inneholde deltagerens norskmål, omfanget av opplæringen og klagemuligheter. § 34 gjelder ikke.

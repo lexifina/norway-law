@@ -1,0 +1,7 @@
+# § 30. Ansvar for opplæring i norsk og samfunnskunnskap
+Kommunen skal treffe vedtak om og sørge for opplæring i norsk og samfunnskunnskap til personer som omfattes av § 26 første og tredje ledd, og som er folkeregistrert i kommunen. Dette gjelder også for personer i målgruppen som bor midlertidig på asylmottak i kommunen.
+Fylkeskommunen skal sørge for opplæring i norsk og samfunnskunnskap til personer som omfattes av § 26 første ledd, og som går i videregående opplæring etter opplæringslova på fulltid. Fylkeskommunen skal sørge for opplæring i norsk og samfunnskunnskap til personer som mottar tilbud som kombinerer grunnskoleopplæring og videregående opplæring, dersom fylkeskommunen har hovedansvaret for tilbudet. Dersom ansvaret for tilbudet er delt mellom kommunen og fylkeskommunen på en slik måte at det ikke kan fastslås hvem som har hovedansvaret, skal fylkeskommunen sørge for opplæringen i norsk og samfunnskunnskap, med mindre kommunen og fylkeskommunen avtaler noe annet.
+Tilbud om opplæring i norsk og samfunnskunnskap skal gis så snart som mulig og senest innen tre måneder etter folkeregistrering i kommunen eller at krav om deltagelse blir fremsatt. Fylkeskommunens ansvar inntrer ved oppstart i videregående opplæring.
+Kommunen kan kreve at personer som omfattes av § 26 tredje og sjuende ledd, betaler for opplæringen.
+Kommunen skal utstede deltagerbevis ved gjennomført eller avbrutt opplæring.
+Departementet kan gi forskrift om innholdet i opplæringen i norsk og samfunnskunnskap.
