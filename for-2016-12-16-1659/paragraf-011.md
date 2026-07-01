@@ -1,0 +1,2 @@
+# § 11. Vilkår i godkjenningen
+I godkjenningen kan Direktoratet for strålevern og atomsikkerhet sette nærmere vilkår for å sikre forsvarlig strålebruk og forebygge skadelige virkninger av stråling på menneskers helse. Dette omfatter blant annet nærmere vilkår for strålebruk, melding, rapportering, kompetanse, opplæring, fysisk sikring, bruk av måleutstyr, vedlikeholdsrutiner, kvalitetskontroll av apparatur og utstyr for strålebruk, returordninger, økonomiske garantier, import, eksport, beredskap og utforming av lokaler.

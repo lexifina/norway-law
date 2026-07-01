@@ -1,0 +1,4 @@
+# § 33. Persondosimetri
+Virksomheten skal systematisk overvåke yrkeseksponerte i kategori A. Overvåkingen av effektiv dose skal være basert på individuelle målinger som utføres av en persondosimetritjeneste. Der dette ikke er praktisk mulig, skal individuell overvåking baseres på doseberegninger. I tilfeller hvor arbeidstakere kan bli eksponert for en vesentlig intern bestråling eller en vesentlig bestråling av øyelinsen eller ekstremitetene, skal det innføres et egnet overvåkingssystem.
+Virksomheten skal sørge for at yrkeseksponerte i kategori B som kan få effektiv dose over 1 mSv/år får fastlagt sin individuelle stråleeksponering.
+Arbeidstaker skal medvirke til dosemonitorering, og virksomheten skal sørge for at arbeidstaker informeres skriftlig eller elektronisk om doseavlesningene og iverksette tiltak ved behov.

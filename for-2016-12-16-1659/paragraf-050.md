@@ -1,0 +1,3 @@
+# § 50. Kompetanse innen medisinsk fysikk
+I virksomheter som benytter medisinsk strålebruk som krever godkjenning etter § 9, skal det inngå realfaglig personell på masternivå med realkompetanse i den aktuelle disiplinen av medisinsk fysikk. Virksomheten skal dokumentere ansvar og arbeidsoppgaver. Antall fysikere og arbeidsoppgaver skal være tilpasset virksomhetens omfang og kompleksitet. Faglig ansvarlig fysiker skal ha ytterligere to års klinisk erfaring.
+I tilfeller hvor bruken ikke er omfattende, kan Direktoratet for strålevern og atomsikkerhet bestemme at kravet om kompetanse innen medisinsk fysikk ikke skal gjelde for bruk av enkel røntgenapparatur.
