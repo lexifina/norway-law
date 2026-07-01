@@ -1,0 +1,3 @@
+# § 20
+Innen to måneder etter at søkeren er underrettet om at patent kan meddeles, skal søkeren betale fastsatt meddelelsesgebyr. Skjer ikke dette, henlegges søknaden. Behandlingen av søknaden gjenopptas likevel dersom søkeren betaler meddelelsesgebyret innen fire måneder etter utløpet av fristen. Det skal betales fastsatt gjenopptakelsesavgift.
+Søkes patent av oppfinneren, kan Patentstyret innrømme søkeren fritak for å betale meddelelsesgebyr dersom det er forbundet med betydelig vanskelighet for søkeren å betale gebyret, og det er begjært fritak innen to måneder etter at søkeren er underrettet om at patent kan meddeles. Avslås begjæringen om fritak, skal gebyr som betales innen to måneder deretter, anses som betalt i rett tid.

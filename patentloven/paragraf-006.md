@@ -1,0 +1,3 @@
+# § 6
+Søknad om patent på en oppfinnelse som tidligst tolv måneder før søknadsdagen er angitt i søknad om patent her i riket eller om patent, oppfinnersertifikat eller bruksmønsterbeskyttelse i fremmed stat som er tilsluttet Pariskonvensjonen av 20. mars 1883 for vern av den industrielle eiendomsretten, skal i forhold til § 2 første, annet og fjerde ledd samt § 4, anses inngitt samtidig med den tidligere søknad, dersom søkeren begjærer det. Kongen kan ved forskrift gi regler om at også søknader som ikke er inngitt i en stat som er tilsluttet Pariskonvensjonen, skal gi grunnlag for prioritet som nevnt i første punktum.
+Kongen fastsetter de nærmere vilkår for retten til å gjøre prioritet som her omhandlet gjeldende.

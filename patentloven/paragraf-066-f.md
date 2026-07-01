@@ -1,0 +1,3 @@
+# § 66 f
+En europeisk patentsøknad som gjelder for Norge og som Det europeiske patentverket har fastsatt inngivelsesdag for, har samme virkning som en søknad innlevert her i riket denne dag. Har søknaden etter den europeiske patentkonvensjonen prioritet fra en tidligere dag enn inngivelsesdagen, gjelder denne prioriteten også her i riket.
+Ved anvendelsen av § 2 annet ledd annet punktum skal kunngjøring etter den europeiske patentkonvensjonen artikkel 93 likestilles med at søknaden holdes allment tilgjengelig etter § 22. Dette gjelder også kunngjøring som nevnt i konvensjonen artikkel 153 nr. 3 og 4 når slik kunngjøring likestilles med kunngjøring etter artikkel 93.

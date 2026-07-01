@@ -1,0 +1,3 @@
+# § 46 a
+En sortseier som ikke kan oppnå eller utnytte en planteforedlerrett uten å krenke et eldre patent, kan mot passende vederlag få tvangslisens til å utnytte oppfinnelsen som er beskyttet av patentet, hvis lisensen er nødvendig for å kunne utnytte plantesorten. Tvangslisens meddeles bare hvis sortseieren godtgjør at plantesorten utgjør et viktig teknisk fremskritt av vesentlig økonomisk betydning i forhold til oppfinnelsen.
+Hvis en patenthaver har fått tvangslisens til å utnytte en beskyttet plantesort etter lov 12. mars 1993 nr. 32 om planteforedlerrett § 28 annet ledd, har sortseieren krav på tvangslisens til å utnytte den patenterte oppfinnelsen på rimelige vilkår.

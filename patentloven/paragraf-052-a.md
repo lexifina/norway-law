@@ -1,0 +1,6 @@
+# § 52 a
+Reiser søksmål som nevnt i § 52 spørsmål om patentet er meddelt i strid med § 1 b, kan retten innhente en rådgivende uttalelse fra Den etiske nemnden for patentsaker, jf. § 15 a.
+Retten skal ta stilling til om uttalelse skal innhentes straks etter at tilsvar er inngitt. Anmodningen om uttalelse skal være skriftlig og begrunnet. Partene skal gis anledning til å uttale seg om uttalelse skal innhentes og om utformingen av anmodningen. Anmodningen skal sendes til partene samtidig som den sendes til nemnden. Partene gis samtidig en frist på inntil tre uker for å avgi skriftlig uttalelse til nemnden.
+Nemnden skal avgi sin uttalelse innen tre måneder etter foreleggelsen. Nemndens uttalelse skal være skriftlig og begrunnet og skal avgis av en fulltallig nemnd om ikke nemndens leder ut fra sakens karakter finner at det er tilstrekkelig at tre medlemmer behandler saken. Nemndens medlemmer skal søke å avgi en felles uttalelse. Uttalelsen skal sendes retten og partene.
+Retten skal gi partene en frist på tre uker til å inngi skriftlige kommentarer til nemndens uttalelse. Hovedforhandling i saken kan først avholdes etter at denne fristen er utløpt.
+Saksdokumentene i saker der nemnden avgir uttalelse til domstolene er ikke omfattet av offentleglova. Enhver har rett til innsyn i en uttalelse hos nemnden etter at dom er avsagt.

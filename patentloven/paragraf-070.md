@@ -1,0 +1,3 @@
+# § 70
+Kongen kan, når det på grunn av krig eller krigsfare og dermed sammenhengende kriseforhold finnes nødvendig, bestemme at retten til en oppfinnelse skal avstås til staten eller til en annen som Kongen bestemmer. For den rett som således overtas, skal betales erstatning, som fastsettes ved skjønn styrt av tingretten dersom minnelig overenskomst ikke oppnås.
+Er retten til en oppfinnelse ved bestemmelse i henhold til første ledd blitt overtatt av en annen enn staten, og oppfyller vedkommende ikke den erstatningsplikt som påhviler ham, er staten etter krav fra den erstatningberettigede forpliktet til straks å betale erstatningen.

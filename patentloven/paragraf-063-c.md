@@ -1,0 +1,2 @@
+# § 63 c
+Søksmål om retten til å få meddelt europeisk patent skal avvises dersom en sak mellom de samme parter om den samme søknadsgjenstanden er anlagt tidligere ved domstol eller annet organ i en annen stat som er part i den europeiske patentkonvensjonen. Er det fremsatt innsigelse mot å fremme saken for den domstol eller det organ saken er anlagt for i utlandet, skal retten stanse saken inntil spørsmålet er rettskraftig avgjort.

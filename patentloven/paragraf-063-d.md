@@ -1,0 +1,4 @@
+# § 63 d
+Rettskraftig avgjørelse avsagt i hvilken som helst stat som er part i den europeiske patentkonvensjonen i sak om retten til å få meddelt europeisk patent for en eller flere stater angitt i søknaden har uten videre bindende virkning og kan fullbyrdes her i riket. Det skal ikke finne sted noen prøving av avgjørelsens gyldighet eller kompetansen til den domstol eller det organ som har avsagt avgjørelsen. Avgjørelsen har ikke slik virkning dersom:
+a) en som søker om europeisk patent og ikke har bestridt kravet godtgjør at dokumentet som påbegynte sak som nevnt i første punktum ikke ble fremlagt for vedkommende slik at denne kunne ta til motmæle, eller
+b) en søker godtgjør at avgjørelse som nevnt i første punktum er uforenlig med en annen avgjørelse avsagt i en stat som er part i den europeiske patentkonvensjonen mellom de samme parter, og at denne saken ble igangsatt tidligere enn den som resulterte i avgjørelsen som kreves anerkjent.

@@ -1,0 +1,3 @@
+# § 63 e
+Dersom det ikke foreligger en fullstendig oversettelse av patentsøknaden eller patentskriftet til norsk hos Patentstyret, kan retten i søksmål som nevnt i § 63 første ledd pålegge en patentsøker, en patenthaver eller en lisenshaver å legge frem en slik oversettelse. Når patentsøkeren, patenthaveren eller lisenshaveren er saksøker, kan søksmålet avvises dersom et pålegg om å legge frem oversettelse ikke etterkommes. Er patentsøkeren, patenthaveren eller lisenshaveren saksøkt, kan retten beslutte at oversettelse skal innhentes for dennes regning dersom et pålegg om å legge frem oversettelse ikke etterkommes.
+Paragrafen her gjelder tilsvarende i søksmål som gjelder supplerende beskyttelsessertifikater som nevnt i §§ 62 a og 62 b.

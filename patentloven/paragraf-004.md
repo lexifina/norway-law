@@ -1,0 +1,3 @@
+# § 4
+Den som i nærings- eller driftsøyemed utnyttet oppfinnelsen her i riket da patentsøknaden ble inngitt, kan uten hinder av patent fortsette utnyttelsen med bibehold av dennes alminnelige karakter, såfremt utnyttelsen ikke utgjorde et åpenbart misbruk i forhold til søkeren eller noen som denne utleder sin rett fra. Sådan utnyttelsesrett tilkommer under tilsvarende forutsetninger også den som hadde truffet vesentlige foranstaltninger til utnyttelse av oppfinnelsen i nærings- eller driftsøyemed her i riket.
+Den i første ledd omhandlede rett kan bare overgå til andre sammen med den virksomhet hvori den er oppstått, eller hvor utnyttelsen var ment å skulle skje.

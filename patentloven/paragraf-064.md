@@ -1,0 +1,3 @@
+# § 64
+Den som reiser søksmål om et patents ugyldighet, om overføring av et patent til seg eller om tvangslisens, skal samtidig gi melding om dette til Patentstyret og i rekommandert brev til enhver i patentregistret innført lisenshaver og panthaver, hvis adresse er angitt i registret. En lisenshaver eller panthaver som vil reise søksmål om inngrep i patentet, skal i rekommandert brev gi meddelelse om dette til patenthaveren, såfremt dennes adresse er angitt i registeret.
+Dokumenterer saksøkeren ikke at han har gitt sådanne meddelelser som omhandlet i første ledd, kan retten gi ham en frist til å foreta meddelelsene. Oversittes fastsatt frist, skal saken avvises.

@@ -1,0 +1,2 @@
+# § 37
+Har en del av en internasjonal patentsøknad ikke vært gjenstand for internasjonal forberedende patenterbarhetsprøving fordi søkeren etter henvendelse fra vedkommende myndighet har begrenset patentkravene, skal den del av søknaden som ikke er prøvet, anses trukket tilbake, medmindre søkeren betaler fastsatt avgift til Patentstyret innen to måneder fra Patentstyret har anmodet ham om dette under henvisning til begrensningen i den prøving som er foretatt.

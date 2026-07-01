@@ -1,0 +1,11 @@
+# § 1
+Innenfor ethvert teknisk område har den som har gjort en oppfinnelse som kan utnyttes industrielt, eller den som oppfinnerens rett er gått over til, i overensstemmelse med denne lov rett til etter søknad å få patent på oppfinnelsen og derved oppnå enerett til å utnytte den i nærings- eller driftsøyemed.
+Som oppfinnelser anses ikke noe som bare utgjør
+1) oppdagelser, vitenskapelige teorier og matematiske metoder,
+2) kunstneriske frembringelser,
+3) planer, regler eller metoder for utøvelse av intellektuell virksomhet, for spill eller forretningsvirksomhet, eller programmer for datamaskiner,
+4) fremleggelse av informasjon.
+Oppfinnelser kan patenteres også når de gjelder et produkt som består av eller inneholder biologisk materiale, eller en fremgangsmåte for å fremstille, behandle eller anvende biologisk materiale. Biologisk materiale som er isolert fra sitt naturlige miljø eller fremstilt ved hjelp av en teknisk fremgangsmåte, kan være gjenstand for en oppfinnelse selv om det allerede forekommer i naturen. Med biologisk materiale forstås i denne lov materiale som inneholder genetisk informasjon, og som kan formere seg selv eller kan formeres i et biologisk system.
+Patent meddeles ikke på plantesorter eller dyreraser. Oppfinnelser som gjelder planter eller dyr, kan derimot patenteres hvis utøvelsen av oppfinnelsen ikke er teknisk begrenset til en bestemt plantesort eller dyrerase. Kongen kan i forskrift fastsette hva som skal regnes som plantesort eller dyrerase.
+Patent meddeles ikke på vesentlig biologiske fremgangsmåter for fremstilling av planter eller dyr. Med vesentlig biologisk fremgangsmåte forstås i denne lov en fremgangsmåte som i sin helhet beror på naturlige fenomener som krysning eller utvelging. Patent kan derimot meddeles på mikrobiologiske fremgangsmåter eller andre tekniske fremgangsmåter eller et produkt som er fremstilt ved slike fremgangsmåter. Med mikrobiologisk fremgangsmåte forstås i denne lov enhver fremgangsmåte som anvender, utføres på eller fremstiller et mikrobiologisk materiale.
+Patent meddeles ikke på fremgangsmåter for kirurgisk behandling, terapi eller diagnostisering, som foretas på mennesker eller dyr. Denne bestemmelse er ikke til hinder for meddelelse av patent på produkter, herunder stoffer eller stoffblandinger, til bruk i slike fremgangsmåter.

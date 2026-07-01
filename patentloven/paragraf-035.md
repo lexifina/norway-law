@@ -1,0 +1,2 @@
+# § 35
+En internasjonal patentsøknad må ikke uten søkerens samtykke imøtekommes eller offentliggjøres i trykt skrift eller på annen liknende måte før den er publisert av det internasjonale byrå ved Verdensorganisasjonen for immateriell eiendomsrett (WIPO), med mindre 20 måneder er gått fra den internasjonale inngivelsesdagen. Dersom det er begjært prioritet etter § 6, skal fristen på 20 måneder regnes fra den dagen som prioritet er begjært fra.

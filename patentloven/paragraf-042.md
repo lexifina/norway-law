@@ -1,0 +1,4 @@
+# § 42
+Er oppfinneren søker eller innehaver av patentet og Patentstyret finner at han har betydelige vansker med å betale årsavgift, kan det gi ham henstand med betalingen dersom han ber om det senest når årsavgift første gang forfaller. Henstand kan gis for inntil tre år om gangen, men ikke lenger enn inntil tre år fra patentets meddelelse. Forlenget henstand må det søkes om før gitt henstand utløper.
+Avslås søknad om henstand eller forlenget henstand, skal avgift anses betalt i rett tid når den betales innen to måneder etter at melding om avslaget er sendt til patentsøkeren eller patenthaveren.
+Årsavgift, hvis betaling det etter første ledd er gitt henstand med, kan mot samme forhøyelse som nevnt i § 41 tredje ledd, betales innen seks måneder etter det tidspunkt som henstand er gitt til.

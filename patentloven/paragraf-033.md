@@ -1,0 +1,6 @@
+# § 33
+Er en internasjonal patentsøknad videreført etter § 31, kommer bestemmelsene i kapittel 2 til anvendelse på søknaden og dens behandling med de avvik som følger av denne paragraf og §§ 34-37. Søknaden kan likevel ikke uten søkerens samtykke opptas til behandling før utløpet av den frist som gjelder etter § 31 første ledd.
+Bestemmelsene i §§ 8 b og 8 c gjelder ikke for internasjonale patentsøknader.
+§ 22 får anvendelse også før søknaden videreføres, når søkeren har oppfylt sin plikt etter § 31 til å inngi oversettelse av søknaden eller, om søknaden er på norsk eller engelsk, når søkeren har inngitt en kopi til Patentstyret.
+Ved anvendelsen av §§ 48 og 56 anses en internasjonal patentsøknad å være gjort tilgjengelig for enhver når den er gjort tilgjengelig etter tredje ledd. En internasjonal søknad som er på engelsk, og som er gjort tilgjengelig etter tredje ledd, anses bare å være gjort tilgjengelig for enhver ved anvendelsen av § 60 første ledd når søkeren har sendt inn en oversettelse av patentkravene til norsk, og Patentstyret har kunngjort at slik oversettelse er innsendt, jf. § 60 annet ledd første til tredje punktum.
+Oppfyller søknaden samarbeidskonvensjonens krav til form og innhold, skal den godtas i disse henseender.

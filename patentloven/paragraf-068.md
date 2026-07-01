@@ -1,0 +1,3 @@
+# § 68
+Kongen fastsetter de avgifter og gebyrer som er omhandlet i denne lov, samt de nærmere reglene om betaling av disse. Han kan bestemme at ett eller flere av de første avgiftsår skal være avgiftsfrie. Ved endring av årsavgiftene kan han bestemme at de nye avgifter også skal gjelde for tidligere meddelte patenter.
+Kongen fastsetter også gebyrer for innføring i patentregisteret og i Patentstyrets særskilte register over europeiske patentsøknader og for utskrifter, kopier og attester som Patentstyret gir. Gebyrsatsene for utskrifter og kopier skal fastsettes slik at de samlete inntektene ikke blir større enn de faktiske omkostningene ved formidling av informasjonen, med tillegg av en rimelig fortjeneste.

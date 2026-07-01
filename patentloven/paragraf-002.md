@@ -1,0 +1,8 @@
+# § 2
+Patent meddeles bare på oppfinnelser som er nye i forhold til hva som var kjent før patentsøknadens inngivelsesdag, og som dessuten skiller seg vesentlig fra dette.
+Som kjent anses alt som er blitt alment tilgjengelig, enten dette er skjedd ved skrift, foredrag, utnyttelse eller på annen måte. Også innholdet i en her i riket før nevnte dag inngitt patentsøknad anses som kjent dersom denne søknad blir alment tilgjengelig etter bestemmelsene i § 22. Vilkåret i første ledd om at oppfinnelsen skal skille seg vesentlig fra hva som var kjent, gjelder dog ikke i forhold til innholdet i en slik søknad.
+Søknader som omhandlet i kapittel 3 får samme virkning som her i riket inngitte søknader i tilfelle som angitt i §§ 29 og 38.
+Vilkåret i første ledd om at oppfinnelsen skal være ny er ikke til hinder for at patent meddeles på kjente stoffer eller kjente stoffblandinger til anvendelse i fremgangsmåter som nevnt i § 1 sjette ledd, såfremt anvendelsen av stoffet eller stoffblandingen ikke er kjent ved noen av disse fremgangsmåter. Vilkåret er heller ikke til hinder for at patent meddeles på kjente stoffer eller kjente stoffblandinger til en spesifikk anvendelse i fremgangsmåter som nevnt i § 1 sjette ledd, såfremt en slik anvendelse ikke er kjent.
+Patent kan meddeles uten hinder av at oppfinnelsen i løpet av de siste seks måneder før patentsøknadens inngivelse er blitt alment tilgjengelig:
+1) som følge av åpenbart misbruk i forhold til søkeren eller noen denne utleder sin rett fra, eller
+2) ved at søkeren eller noen som denne utleder sin rett fra, har forevist oppfinnelsen på en slik offisiell eller offisielt anerkjent internasjonal utstilling som omhandles i den i Paris den 22. november 1928 vedtatte konvensjon om internasjonale utstillinger.
