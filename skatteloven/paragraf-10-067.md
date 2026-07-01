@@ -1,0 +1,3 @@
+# § 10-67. Skattlegging av utdelt overskudd
+(1) For deltaker som ikke omfattes av § 10-12 første og tredje ledd, er mottatt utbytte ikke skattepliktig i den utstrekning det samlede utbyttet ligger innenfor den samlede inntekten som er skattlagt i medhold av § 10-65 eller er unntatt beskatning etter § 10-65 annet ledd.
+(2) For deltaker som nevnt i § 10-12 første og tredje ledd, skal 78 prosent av mottatt utbytte, etter at utbyttet er økt med den andel av aksjonærens fradrag etter § 16-20 annet ledd som vedrører utbyttet, legges til grunn som utbytte og oppjusteres etter § 10-11 første ledd annet punktum.

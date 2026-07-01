@@ -1,0 +1,3 @@
+# § 2-33. Begrensning av skatteplikt for visse bo m.v.
+(1) Konkursbo og insolvent døds- og administrasjonsbo er bare skattepliktig for inntekt av virksomhet som drives for boets regning. Ved siden av boet kan skyldneren skattlegges for inntekt som skyldneren eller ektefellen erverver, og som ikke tilflyter boet. Skyldneren skal skattlegges for formue som skyldneren eller ektefellen eier ved utløpet av inntektsåret, som ikke er inndratt i boet. Underholdsbidrag som boet betaler skyldneren, fradras i boets inntekt, men skattlegges hos skyldneren.
+(2) Besitteren av Stamhuset Jarlsberg skattlegges som om vedkommende forpaktet eiendommen.

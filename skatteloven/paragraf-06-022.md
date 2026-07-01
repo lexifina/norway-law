@@ -1,0 +1,2 @@
+# § 6-22. Bestikkelse m.v.
+Fradrag gis ikke for bestikkelse og annen ytelse som er vederlag for urettmessig motytelse, eller som tar sikte på å oppnå en slik motytelse. Motytelsen er urettmessig både når den strider mot den alminnelige forretningsmoral eller forvaltningsskikk på det stedet motytelsen skjer eller skulle ha skjedd, og når den ville stride mot den alminnelige forretningsmoral eller forvaltningsskikk i Norge.

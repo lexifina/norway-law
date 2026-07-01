@@ -1,0 +1,6 @@
+# § 14-1. Inntektsperioder
+(1) Med mindre annet er bestemt, er inntektsperioden kalenderåret.
+(2) Er skatteplikten avhengig av bostedet og skattyteren anses som bosatt i riket bare en del av inntektsåret, jf. § 2-1 annet til sjette ledd, fastsettes inntekten til det beløpet som etter bestemmelsene i dette kapittel skal tas til inntekt i vedkommende tidsrom.
+(3) For næringsdrivende regnskapspliktig skattyter som etter regnskapsloven § 1-7 første ledd annet og tredje punktum benytter et annet regnskapsår enn kalenderåret (avvikende regnskapsår), fastsettes inntekten til det beløpet den har utgjort i det siste regnskapsåret som er utløpt før 1. januar det året skatten fastsettes.
+(4) Tredje ledd gjelder tilsvarende når staten, Opplysningsvesenets fond eller en kommune skal skattlegges og det foreligger regnskap som ikke følger kalenderåret.
+(5) Går skattyteren over til å benytte et annet regnskapsår enn tidligere, skal inntekten i tidsrommet mellom det forrige regnskapsårets avslutning og det nye regnskapsårets begynnelse skattlegges særskilt. Det gis fradrag for avskrivninger i denne perioden med en forholdsmessig del etter hvor mange påbegynte måneder skattyteren har benyttet det nye regnskapsåret.

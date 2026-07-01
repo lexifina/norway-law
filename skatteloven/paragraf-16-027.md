@@ -1,0 +1,2 @@
+# § 16-27. Skattefradrag i henhold til overenskomst med fremmed stat
+Bestemmelsene i §§ 16-20 til 16-26 gis anvendelse så langt de passer, når det ved overenskomst med fremmed stat er bestemt at begge stater kan skattlegge inntekt eller formue som oppebæres av en person bosatt eller et selskap hjemmehørende i Norge. Det gis ikke fradrag for et større beløp enn det Norge i henhold til overenskomsten er forpliktet til å gi fradrag for.

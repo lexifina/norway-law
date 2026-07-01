@@ -1,0 +1,9 @@
+# § 4-10. Fast eiendom, herunder andel i boligselskap
+(1) Verdien av fast eiendom kan settes lavere enn omsetningsverdien.
+(2) Verdien av primærbolig settes til 25 prosent av en beregnet omsetningsverdi. Hvis skattyter krever det, skal verdien settes ned til 25 prosent av eiendommens dokumenterte omsetningsverdi. Prosentandelen skal likevel være 70 for den delen av den beregnede eller dokumenterte omsetningsverdien som overstiger 14 000 000 kroner.
+(3) Verdien av sekundærbolig settes til 100 prosent av en beregnet omsetningsverdi. Hvis skattyter krever det, skal verdien settes ned til 100 prosent av eiendommens dokumenterte omsetningsverdi.
+(4) Beregnet omsetningsverdi etter annet og tredje ledd settes til produktet av boligens areal og en kvadratmetersats. Kvadratmetersatsen settes til en beregnet omsetningsverdi per kvadratmeter, hvor det tas hensyn til boligtype, byggeår, areal og geografisk beliggenhet. Kvadratmetersatsene fastsettes årlig av Skattedirektoratet på grunnlag av beregninger fra Statistisk sentralbyrå.
+(5) Verdsetting av boenhet i boligselskap som omfattes av § 7-3, følger reglene i annet og tredje ledd. Øvrig verdi av andel i slikt selskap settes til andelshavers andel av boligselskapets netto formue utenom boenhetene. Innskudd fra andelshaverne kommer ikke til fradrag ved beregningen av boligselskapets formue.
+(6) Verdien av fritidsbolig skal settes ned etter krav fra skattyter dersom den overstiger 30 prosent av eiendommens dokumenterte omsetningsverdi.
+(7) Verdien av næringseiendom settes til 80 prosent av eiendommens beregnede utleieverdi. Verdsetting etter første punktum kan foretas ved bruk av differensierte kvadratmetersatser. Hvis skattyter krever det, skal verdien settes ned til 80 prosent av eiendommens dokumenterte omsetningsverdi.
+(8) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.

@@ -1,0 +1,2 @@
+# § 6-45. Sikring av pensjoner
+Fradrag for kostnad til sikring av pensjoner gis bare etter reglene i §§ 6-46, 6-47 og 6-72 når kostnaden ikke er pålagt i eller i medhold av lov. Det gis fradrag for kostnad til sikring av pensjon i offentlig pensjonsordning i arbeidsforhold og for tilskudd til Overføringsavtalens sikringsordning. Departementet kan gi forskrift om vilkår for fradrag m.v. etter annet punktum.

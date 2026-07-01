@@ -1,0 +1,3 @@
+# § 5-41. Livrente
+(1) For livrente som er tegnet i selskap som har eller har hatt tillatelse til å drive forsikringsvirksomhet her i landet, er skatteplikten etter § 5-1 begrenset til den del av livrenten som anses å gå ut over tilbakebetalingen av premie for forsikringen. Det gjelder under forutsetning av at det ikke er gitt fradrag for premien ved skattefastsettingen. Departementet kan gi forskrift om størrelsen av den skattepliktige delen, om vilkår for begrensning av skatteplikten og om hel eller delvis skatteplikt ved brudd på vilkår.
+(2) Departementet kan gi forskrift om beskatning av utbetalinger fra individuelle pensjonsavtaler hvor sparebeløpet eller premien er innbetalt før 12. mai 2006 og kollektive livrenter hvor premien er innbetalt før 1. januar 2007.

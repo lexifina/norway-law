@@ -1,0 +1,2 @@
+# § 7-10. Fradrag for kostnad ved overgang fra skattefritak til skatteplikt
+Ved overgang fra skattefritak til skatteplikt for leieinntekter mv., jf. § 7-2, gis det fullt fradrag for vedlikeholdskostnader inntil 10.000 kroner. Fradrag for overskytende beløp reduseres med ti prosent for hvert år det ikke har vært skattepliktig utleieinntekt de siste fem årene. Ved utleie mindre enn halve inntektsåret gis det ikke fradrag for vedlikeholdskostnader. Denne bestemmelsen gjelder ikke når utleien skattlegges etter § 7-2 andre ledd.

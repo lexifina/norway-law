@@ -1,0 +1,2 @@
+# § 2-40. Begrensning av skatteplikt for visse selskap eid av Norges Bank
+Aksjeselskap som er direkte eller indirekte heleid av Norges Bank og tilsvarende selskap stiftet i utlandet som er hjemmehørende i Norge, skal ikke svare skatt på inntekt fra kapital som forvaltes i Statens pensjonsfond utland, jf. lov 21. desember 2005 nr. 123 om Statens pensjonsfond § 2 annet ledd annet punktum, herunder avkastning i form av gevinst, utbytte, renter og valutagevinst.

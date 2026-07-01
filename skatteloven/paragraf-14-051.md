@@ -1,0 +1,2 @@
+# § 14-51. Avskrivning av vindkraftverk
+Driftsmidler i vindkraftverk ervervet fra og med 19. juni 2015 til og med inntektsåret 2021, avskrives med like store årlige beløp over fem år, når arbeid på prosjektet ikke er påbegynt før 19. juni 2015. Det samme gjelder for internt nettanlegg og betongfundament for vindkraftverk. Departementet kan gi forskrift til utfylling og gjennomføring av bestemmelsen, herunder presisere hvilke driftsmidler bestemmelsen skal gjelde for.

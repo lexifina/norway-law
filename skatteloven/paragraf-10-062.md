@@ -1,0 +1,4 @@
+# § 10-62. Norsk kontroll
+(1) Norsk kontroll av utenlandsk selskap eller innretning anses å foreligge hvor minst halvparten av selskapets eller innretningens andeler eller kapital direkte eller indirekte eies eller kontrolleres av norske skattytere både ved inntektsårets begynnelse og utgang.
+(2) Norsk kontroll foreligger også dersom selskapet eller innretningen ble ansett som norsk-kontrollert i året før inntektsåret, unntatt dersom mindre enn halvparten av andelene eller kapitalen direkte eller indirekte kontrolleres av norske skattytere både ved inntektsårets begynnelse og utgang.
+(3) Dersom norske skattytere eier eller kontrollerer mer enn 60 prosent av andelene eller kapitalen ved inntektsårets utgang, foreligger norsk kontroll uavhengig av bestemmelsene i første og annet ledd. Tilsvarende foreligger ikke norsk kontroll dersom norske skattytere eier eller kontrollerer mindre enn 40 prosent av andelene eller kapitalen ved inntektsårets utgang.

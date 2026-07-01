@@ -1,0 +1,13 @@
+# § 2-36. Fritak for enkelte skatter
+(1) Fritatt for skatt på formue er
+a) aksjeselskap og allmennaksjeselskap
+b) selskap eller sammenslutning som nevnt i § 2-2 første ledd e og g
+c) verdipapirfond
+d) statsforetak etter statsføretakslova
+(2) Fritatt for skatt til kommune og fylkeskommune er norske og utenlandske selskaper og innretninger som er selvstendige skattesubjekter, jf. § 2-2 første ledd. Dette gjelder likevel ikke dødsbo.
+(3) Fritatt for skatt til kommune og fylkeskommune er person som er skattepliktig etter § 2-3 første ledd g, for så vidt gjelder lønn mottatt fra den norske stat. Det samme gjelder utsendt utenrikstjenesteansatt som har stilling ved en norsk utenriksstasjon, og arbeidstaker som tjenestegjør i Atlanterhavspaktens organisasjon med fast tjenestested i utlandet, jf. § 2-1 åttende ledd.
+(4) Fritatt for skatt til kommune, fylkeskommune og fellesskatt til staten er person som er skattepliktig etter § 2-3 første ledd h, for så vidt gjelder inntekt ved arbeid om bord i tjeneste hos rederi eller hos arbeidsgiver som driver virksomhet på norsk registrert fartøy.
+(5) Fritatt for skatt til kommune og fylkeskommune er eierinntekt til personlig skattyter. Som eierinntekt anses utbytte og annen inntekt som skal oppreguleres etter § 5-22 annet ledd tredje punktum, § 10-11 første ledd annet punktum, § 10-21 fjerde ledd tredje punktum, § 10-21 åttende ledd tredje punktum, § 10-31 første ledd fjerde punktum, § 10-31 annet ledd annet punktum, § 10-42 tredje ledd bokstav b og § 10-44 første ledd tredje punktum.
+(6) Fritatt for skatt på formue er forskningsstiftelse som mottar basisbevilgning fra staten, jf. Retningslinjer for statlig finansiering av forskningsinstitutter. Fritaket omfatter formuesskatt på eiendeler som hovedsakelig benyttes i instituttets forskningsaktiviteter. Et beløp som svarer til det fritatte skattebeløpet etter forrige punktum skal overføres fra forskningsinstituttets økonomiske aktiviteter til instituttets ikke-økonomiske aktiviteter.
+(7) Stiftelse som eier aksjer i forskningsinstitutt som mottar basisbevilgning, jf. femte ledd, er fritatt for formuesskatt på aksjer i forskningsinstituttet. Fritaket er begrenset til et beløp som svarer til en beregnet formuesskatt på eiendeler som hovedsakelig benyttes i instituttets forskningsaktiviteter. Fritaket er betinget av at et beløp tilsvarende det fritatte skattebeløpet etter forrige punktum overføres fra stiftelsen til forskningsinstituttet og anvendes i instituttets ikke-økonomiske aktiviteter.
+(8) Departementet kan gi forskrift til utfylling og gjennomføring av reglene i tredje, sjette og syvende ledd.

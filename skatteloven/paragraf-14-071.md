@@ -1,0 +1,3 @@
+# § 14-71. Betinget skattefritak ved makeskifte med offentlig myndighet m.v.
+(1) Gevinst ved realisasjon av fast eiendom som ikke omfattes av §§ 14-40 til 14-48 eller § 14-53, kan kreves fritatt for inntektsbeskatning i det året da realisasjonen finner sted, så langt skattyteren som vederlag har mottatt ny fast eiendom som ledd i makeskifte med kommune, fylkeskommune, staten eller selskap hvor kommune eller fylkeskommune eier minst 50 prosent av aksjene.
+(2) Gevinsten tas til beskatning ved overdragelse av den nye eiendommen hvis realisasjon av den frabyttede eiendommen på dette tidspunktet ville ha medført skatteplikt for gevinsten.

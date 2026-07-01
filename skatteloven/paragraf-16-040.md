@@ -1,0 +1,9 @@
+# § 16-40. Skattefradrag for kostnader til forskning og utvikling (FoU-fradrag)
+(1) Skattyter som driver virksomhet, gis fradrag i skatt og trygdeavgifter for 19 prosent av kostnader til forsknings- og utviklingsprosjekt etter bestemmelsene i denne paragraf.
+(2) Det gis fradrag for skattyters kostnader til egenutført og innkjøpt forsknings- og utviklingsprosjekt, begrenset til 25 millioner kroner i inntektsåret. Prosjektet må være godkjent av Norges forskningsråd. Kostnadene må være fradragsberettiget etter kapittel 6.
+(3) Det kan også gis fradrag etter annet ledd ved samarbeidsprosjekter mellom flere skattytere når prosjektet er godkjent av Norges forskningsråd. Ved slike prosjekter gjelder kostnadsrammen pr. prosjekt, fordelt på deltakerne etter deltakerandel.
+(4) For selskap som nevnt i § 2-2 annet ledd gjelder kostnadsrammen også for selskapet.
+(5) I konsern etter aksjeloven § 1-3 og allmennaksjeloven § 1-3 skal prosjekter med innbyrdes sammenheng behandles som ett prosjekt. Fradragsgrunnlaget behandles da som i tredje ledd annet punktum.
+(6) Overstiger fastsatt fradrag den utliknede skatt, skal det overskytende beløp utbetales ved avregningsoppgjøret etter skattebetalingsloven.
+(7) Det gis kun fradrag for kostnader ved kjøp av FoU-tjenester fra foretak innenfor EØS og land som Norge har skatteavtale eller informasjonsutvekslingsavtale med.
+(8) Departementet kan gi forskrift til gjennomføring og utfylling av denne paragraf, herunder gi regler om godkjennelse av prosjekter og institusjoner, om hva som regnes som forsknings- og utviklingskostnader og om saksbehandlings- og klageregler for godkjenningsordningen. Departementet kan gi forskrift om utveksling av opplysninger tilknyttet et forsknings- og utviklingsprosjekt mellom Norges forskningsråd og skattemyndighetene uavhengig av taushetsplikt, og gi forskrift om sanksjoner ved brudd på vilkårene for godkjenning av prosjekt.

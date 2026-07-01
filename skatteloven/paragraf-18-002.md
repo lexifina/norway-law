@@ -1,0 +1,7 @@
+# § 18-2. Naturressursskatt til kommunen og fylkeskommunen
+(1) Eier av kraftverk skal svare naturressursskatt til de kommunene og fylkeskommunene som er tilordnet kraftanleggsformuen i henhold til § 3-3, jf. § 18-7.
+(2) Naturressursskatten fastsettes for hvert kraftverk på grunnlag av 1/7 av kraftverkets samlede produksjon av elektrisk kraft for inntektsåret og de seks foregående årene. Av produksjon i kraftverk med generatorer som i inntektsåret har en samlet påstemplet merkeytelse under 10.000 kVA, fastsettes ikke naturressursskatt.
+(3) Naturressursskatt til kommunen beregnes etter en sats på 1,13 øre pr. kilowattime. Naturressursskatt til fylkeskommunen beregnes etter en sats på 0,21 øre pr. kilowattime.
+(4) Naturressursskatt kan ikke kreves som fradrag i alminnelig inntekt. Naturressursskatt kan kreves fratrukket i fastsatt fellesskatt til staten. Selskaper og innretninger som nevnt i § 2-36 annet ledd kan kreve naturressursskatt fratrukket i fastsatt skatt til staten av alminnelig inntekt. Dersom naturressursskatten overstiger fellesskatt eller fastsatt inntektsskatt til staten for inntektsåret, kan det overskytende fremføres til fradrag senere år med rente som departementet fastsetter i forskrift.
+(5) Ved fastsetting og betaling av naturressursskatt gjelder skatteforvaltningsloven og skattebetalingsloven.
+(6) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.

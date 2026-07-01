@@ -1,0 +1,4 @@
+# § 4-30. Fordeling av gjeldsfradrag mellom kommuner
+(1) Har skattyter formue i flere kommuner, fratrekkes gjelden forholdsmessig etter størrelsen av bruttoformuen i hver kommune.
+(2) Hvis skattyterens formue i en kommune bare består av formue i egen fritidsbolig, skal denne formuen ikke tas med i grunnlaget for gjeldsfordelingen så langt skattyteren får dekket gjeldsfradraget i formue i andre kommuner. Foregående punktum gjelder ikke for utleiehytter.
+(3) Første og annet ledd gjelder særskilt for hver ektefelle når ektefellene får skatten fordelt etter § 2-13. Overstiger den ene ektefellens samlede gjeld vedkommendes samlede bruttoformue, skal det overskytende beløp overføres til fradrag på den andre ektefellens hånd og tas med ved en eventuell fordeling av denne ektefellens gjeld mellom flere kommuner.

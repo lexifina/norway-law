@@ -1,0 +1,2 @@
+# § 19-8. Bunnfradrag
+Stortinget vedtar hvert år et bunnfradrag. Ved beregningen av grunnrenteinntekten nedjusteres bunnfradraget med skattesatsen på alminnelig inntekt. Bunnfradraget kan trekkes fra i positiv grunnrenteinntekt beregnet for inntektsåret. Bunnfradraget kan kun komme til fradrag én gang på konsernnivå, jf. § 19-3. Bunnfradrag i konsern fordeles forholdsmessig mellom selskapene med matfisktillatelser ut fra maksimalt tillatt biomasse som innehas av hvert selskap i konsernet. Ubenyttet bunnfradrag kan ikke fremføres til fradrag i fremtidig grunnrenteinntekt.

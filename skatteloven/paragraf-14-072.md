@@ -1,0 +1,3 @@
+# § 14-72. Betinget skattefritak ved innløsning av festet tomt
+(1) Gevinst av vederlag ved innløsning av festetomt, kan kreves fritatt for beskatning så langt skattyteren bruker vederlaget til erverv av annen tomt som bortfestes, eller i erverv av eller påkostning på areal, bygg eller anlegg som brukes i skattyterens næringsvirksomhet eller annen inntektsgivende aktivitet. Dette gjelder likevel ikke bolig- og fritidseiendom. Departementet kan i forskrift gi regler til presisering og avgrensning av reinvesteringsområdet etter første og annet punktum.
+(2) § 14-70 tredje, fjerde og åttende ledd gjelder tilsvarende.

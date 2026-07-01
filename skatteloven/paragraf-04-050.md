@@ -1,0 +1,2 @@
+# § 4-50. Skattlegging av formue for inntekts- eller bruksnyter
+Er det ved testament eller annen gyldig disposisjon bestemt at inntektsnytelsen av en kapital eller bruksnytelsen av en eiendom i kortere eller lengre tid skal tilkomme en person, men at selve kapitalen eller eiendommen skal tilfalle en annen person, stiftelse eller innretning, skattlegges rente- eller bruksnyteren for formue av kapitalen eller eiendommen så lenge denne retten vedvarer.

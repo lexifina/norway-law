@@ -1,0 +1,4 @@
+# § 10-64. Begrensning i skatteplikten/fradragsretten som følge av skatteavtale eller EØS-avtalen
+Skattlegging etter reglene i §§ 10-61 til 10-68 foretas ikke når
+a) selskapet eller innretningen er omfattet av avtale Norge har inngått med annen stat til unngåelse av dobbeltbeskatning, og selskapets eller innretningens inntekter ikke hovedsakelig er av passiv karakter, eller
+b) deltakeren dokumenterer at selskapet eller innretningen reelt er etablert i en EØS-stat og driver reell økonomisk aktivitet der, og Norge i medhold av skatteavtale eller annen folkerettslig overenskomst kan kreve utlevert opplysninger fra etableringsstaten. Dersom det ikke foreligger slik overenskomst, gjelder tilsvarende når deltakeren legger fram erklæring fra skattemyndighetene i etableringsstaten som bekrefter at dokumentasjonen er riktig.

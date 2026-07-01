@@ -1,0 +1,2 @@
+# § 14-53. Gevinst og tap ved realisasjon m.v. av driftsmidler som ikke kan saldoavskrives
+Gevinst ved realisasjon og uttak av driftsmidler i virksomhet som ikke kan saldoavskrives, kan helt eller delvis tas til inntekt i realisasjonsåret. I den grad gevinsten ikke er inntektsført, legges den til gevinst- og tapskontoen etter reglene i § 14-45, med mindre annet følger av særlig lov eller forskrift. Tap ved realisasjon kommer til fradrag i gevinst- og tapskontoen. Dette ledd omfatter ikke verdipapirer, fordringer eller andre finansielle eiendeler.

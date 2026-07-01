@@ -1,0 +1,3 @@
+# § 8-10. Anvendelsesområde for særreglene for skipsaksjeselskaper og skipsallmennaksjeselskaper
+(1) Bestemmelsene i §§ 8-11 til 8-20 gjelder for aksjeselskap som er stiftet i henhold til aksjeloven og allmennaksjeselskap som er stiftet i henhold til allmennaksjeloven, og som skattlegges etter den særskilte beskatningsordningen i henhold til bestemmelsene i §§ 8-11 til 8-20.
+(2) Bestemmelsene i §§ 8-11 til 8-20 gjelder også for selskap hjemmehørende i annen EØS-stat, som tilsvarer selskap som nevnt i første ledd, og som kun driver virksomhet som nevnt i § 8-13 med skatteplikt etter § 2-3 første ledd bokstav b eller petroleumsskatteloven § 2, jf. § 1.

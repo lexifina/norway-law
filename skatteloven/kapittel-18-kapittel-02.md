@@ -1,0 +1,1 @@
+# Skattlegging av landbasert vindkraft
