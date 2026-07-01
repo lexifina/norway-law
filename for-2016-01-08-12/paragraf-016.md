@@ -1,0 +1,4 @@
+# § 16. Godkjenning og endring av bestandsplan for elg og hjort
+Kommunen skal behandle søknad om godkjenning av ny bestandsplan eller endring i eksisterende bestandsplan innen 15. juni.
+En godkjenning fastsetter fellingstillatelser for hele bestandsplanperioden, og skal inneholde informasjon om muligheten for overføring av et begrenset antall fellingstillatelser mellom år i perioden.
+Kommunen kan trekke godkjenningen tilbake og tildele nye fellingstillatelser dersom arealkravet i § 15 ikke lenger er oppfylt, ved manglende rapportering, ved vesentlig uforutsette endringer i bestanden i området eller ved vesentlige avvik fra godkjent bestandsplan, herunder avvik i forhold til årlig planlagt avskyting i antall, kjønn eller alder. Frist for kommunen til å trekke godkjenningen tilbake er 1. april.
