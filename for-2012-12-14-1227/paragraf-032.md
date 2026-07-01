@@ -1,0 +1,4 @@
+# § 32. Anmodninger fra utenlandsk politimyndighet
+For anmodning om bistand som kommer fra politimyndighet i Danmark, Finland, Island eller Sverige gjelder avtale mellom de nordiske lands politimyndigheter om politisamarbeid av 22. august 2012.
+Kommer anmodningen om bistand direkte fra politimyndighet utenfor Norden, skal Kripos underrettes. Gjelder anmodningen innhenting av registeropplysninger, skal svaret sendes gjennom Kripos.
+Politiet kan etterkomme anmodning fra politimyndighet i annet land om å innhente opplysninger i anledning en straffbar handling når dette finnes ubetenkelig. Politimesteren avgjør om utenlandsk polititjenestemann skal få være til stede ved avhør og andre etterforskingsskritt i saken. Når særlige grunner foreligger, kan det tillates at utenlandsk polititjenestemann stiller spørsmål til den som avhøres.

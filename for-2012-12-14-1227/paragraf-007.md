@@ -1,0 +1,2 @@
+# § 7. Påtalemyndighetens kompetanse til å etterkomme rettsanmodning fra utlandet
+Beslutning om å etterkomme en rettsanmodning fra utlandet treffes av statsadvokaten, med mindre noe annet er bestemt. Beslutning om å etterkomme rettsanmodning fra et annet nordisk land, samt anmodning om forkynning av dokumenter eller utskrift av registeropplysninger kan treffes av politimesteren eller den han bemyndiger. Beslutningen skal treffes i henhold til bestemmelsene i utleveringsloven § 23a. Dersom det knytter seg tvil til avgjørelsen bør overordnet påtalemyndighet konsulteres.
