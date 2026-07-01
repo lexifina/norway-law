@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne forskriften er å bidra til at forvaltningen av bever skjer i samsvar med forvaltningsmålet for arter i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 5. Forskriften skal legge til rette for en lokal og bærekraftig forvaltning med nærings- og rekreasjonsmessig nyttiggjøring av viltressursen. Forskriften skal samtidig bidra til å hindre unødige skader og ulemper på andre samfunnsinteresser.
