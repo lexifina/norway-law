@@ -1,0 +1,4 @@
+# § 5-1-1. Reisegods – avgiftsberegning
+(1) Når reisende innfører alkoholholdige drikkevarer, tobakksvarer, e-væske og andre nikotinvarer utover avgiftsfri kvote, inngår merverdiavgiften i satsene etter særavgiftsforskriften § 3-1-2 syvende ledd og § 3-2-2 femte ledd.
+(2) Når reisende innfører andre varer enn de som er nevnt i første ledd med en samlet verdi til og med 20 000 kroner, og varene kan deklareres etter vareførselsforskriften § 4-1-7 første ledd bokstav c, beregnes merverdiavgiften med alminnelig sats av varens verdi.
+(3) Første og andre ledd gjelder for varer som reisende innfører utover avgiftsfri kvote og som er til personlig bruk. Første og andre ledd gjelder ikke for varer som innføres for videresalg eller annet ervervsmessig formål og heller ikke for varer som er kjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.

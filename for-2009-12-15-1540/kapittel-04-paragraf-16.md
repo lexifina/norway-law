@@ -1,0 +1,3 @@
+# § 4-9-1. Alminnelig omsetningsverdi – motorkjøretøy i bilbransjen
+(1) Ved bilforhandleres uttak av nye motorkjøretøy kan den alminnelige omsetningsverdien ikke settes lavere enn til listepris med tillegg av fraktkostnader fram til forretningen og med fradrag for alminnelig rabatt. Det må kunne dokumenteres at alminnelig rabatt gis ved omsetning av samme slags kjøretøy uten innbytte på tidspunktet for beregning av merverdiavgift.
+(2) Dersom uttaket er så omfattende at det kan anses som storforbruk, kan den alminnelige omsetningsverdien settes til listepris med tillegg av fraktkostnader fram til forretningen og med fradrag for storforbrukerrabatt som gis eller ville blitt gitt ved omsetning til storforbrukere.

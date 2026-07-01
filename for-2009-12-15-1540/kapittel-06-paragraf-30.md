@@ -1,0 +1,2 @@
+# § 6-9-2. Registrerings- og dokumentasjonsplikt mv. for fiskefartøy under 15 meter
+For fiskefartøy under 15 meter skal fritaket dokumenteres med en bekreftelse fra skattekontoret om at kjøperen er registrert i Merverdiavgiftsregisteret og i løpet av de siste tolv måneder har hatt omsetning av råfisk, sel, hval, tang eller tare som overstiger beløpsgrensen for registrering i merverdiavgiftsloven § 2-1. Videre skal det foreligge en erklæring fra kjøper om at fartøyet utelukkende er til bruk i yrkesmessig fiske.

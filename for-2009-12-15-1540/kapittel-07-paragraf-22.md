@@ -1,0 +1,2 @@
+# § 7-5-3. Forsyningsfartøy, borefartøy, fiskefartøy mv.
+Fritaket for alkoholholdige drikkevarer, tobakks- og nikotinvarer i § 7-5-1 gjelder ikke varer som bringes til merverdiavgiftsområdet om bord i forsyningsfartøyer, hjelpefartøyer, borefartøyer, boreplattformer og lignende til bruk i petroleumsvirksomheten til havs, forskningsfartøyer og lignende. Fritaket for alkoholholdige drikkevarer gjelder ikke varer som bringes til merverdiavgiftsområdet om bord i norske fiske- og fangstfartøyer.

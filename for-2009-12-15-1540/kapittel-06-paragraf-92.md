@@ -1,0 +1,3 @@
+# § 6-31-2. Luftfartøy som går til havn utenfor merverdiavgiftsområdet
+(1) Omsetning av proviant og forbruksvarer til luftfartøy som i innenriks fart driver persontransport eller varetransport og til militære luftfartøy er fritatt for merverdiavgift dersom varene leveres direkte til luftfartøyet og luftfartøyet for den enkelte tur går til havn utenfor merverdiavgiftsområdet.
+(2) Fritaket omfatter ikke varer for salg til passasjerer på luftfartøy som er bestemt for persontransport mellom Norge og Danmark, Sverige eller Finland. Fritaket gjelder likevel for varer som kan selges om bord etter vareførselsforskriften § 5-9-7, jf. § 5-9-13.

@@ -1,0 +1,2 @@
+# § 4-9-4. Alminnelig omsetningsverdi – veldedige og allmennyttige institusjoner og organisasjoner
+Ved uttak av varer til kiosk- eller serveringsvirksomhet som er unntatt etter merverdiavgiftsloven § 3-12 tredje ledd, kan den alminnelige omsetningsverdien settes til anskaffelseskost. Det samme gjelder dersom uttaket skjer til et avgiftssubjekt i organisasjonen som er særskilt registrert etter merverdiavgiftsloven § 2-2 annet ledd.

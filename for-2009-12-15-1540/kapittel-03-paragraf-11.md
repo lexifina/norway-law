@@ -1,0 +1,2 @@
+# § 3-12-6. Varer fra kiosk
+Det er et vilkår for unntaket for kioskvirksomhet i merverdiavgiftsloven § 3-12 tredje ledd at kiosken bare er åpen under arrangementer eller treninger og at minst 80 prosent av omsetningen skjer til deltakere eller tilskuere under arrangementene eller treningene. Vareutvalget kan bare bestå av typiske kioskvarer og varer tilberedt av organisasjonens medlemmer. Unntaket gjelder selv om organisasjonen også har merverdiavgiftspliktig omsetning av kioskvarer.

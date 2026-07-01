@@ -1,0 +1,2 @@
+# § 7-5-4. Proviant i marinefartøy
+Besetningsmedlem på norske marinefartøyer kan etter ankomst fra utlandet forbruke avgiftsfritt om bord 200 sigaretter, 250 gram andre tobakksvarer og 200 blad sigarettpapir eller 200 gram nikotinvarer. Besetningsmedlem kan i tillegg beholde én liter brennevin eller vin til eget bruk. Dette gjelder ikke personell som er inne til førstegangstjeneste. Det er et vilkår at varene ikke bringes i land.

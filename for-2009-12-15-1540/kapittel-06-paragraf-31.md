@@ -1,0 +1,3 @@
+# § 6-9-3. Registrerings- og dokumentasjonsplikt mv. ved bygging mv. av fartøy
+(1) Fritak etter merverdiavgiftsloven § 6-9 annet ledd første punktum skal dokumenteres med salgsdokument og bekreftelse fra kjøperen som inneholder opplysninger om hvilket fartøy tjenesten gjelder. Dersom tjenesten ikke utføres på fartøyet, må selgeren også ha en bekreftelse fra kjøperen om at den varen som tjenesten gjelder inngår i fartøyets driftsutstyr.
+(2) Ved fritak etter merverdiavgiftsloven § 6-9 annet ledd annet punktum skal varen faktureres i samme salgsdokument som den utførte tjenesten. Det kan benyttes et eget salgsdokument dersom det i dette henvises til salgsdokumentet som gjelder tjenesten. Selgeren av varen må ha en bekreftelse fra kjøperen om at varen er mottatt.

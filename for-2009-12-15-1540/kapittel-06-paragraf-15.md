@@ -1,0 +1,4 @@
+# § 6-3-10. Trykking av tidsskrift
+(1) Trykking av tidsskrift for en forening er fritatt for merverdiavgift dersom foreningen utdeler minst 80 prosent av netto opplag til foreningens medlemmer uten særskilt vederlag. Det samme gjelder dersom det utdelte antall eksemplarer til foreningsmedlemmene og antallet omsatte eksemplarer til betalende abonnenter til sammen utgjør minst 80 prosent av netto opplag. § 6-3-3 annet og tredje ledd gjelder tilsvarende.
+(2) Trykking av tidsskrift med overveiende politisk, litterært eller religiøst innhold er fritatt for merverdiavgift. Ved trykking av slike tidsskrift for en forening gjelder ikke vilkårene i første ledd.
+(3) Denne paragrafen gjelder ikke for trykking av tidsskrift for en oppdragsgiver som er registreringspliktig etter merverdiavgiftsloven § 2-1 for omsetning av tidsskrift.

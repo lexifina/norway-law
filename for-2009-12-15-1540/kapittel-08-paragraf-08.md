@@ -1,0 +1,3 @@
+# § 8-3-3. Registrerings- og dokumentasjonsplikt mv. for fartøy og luftfartøy i utenriks fart
+(1) Rederi eller flyselskap som etter merverdiavgiftsloven § 8-3 annet ledd krever fradrag for inngående merverdiavgift på varer til bruk på fartøy eller luftfartøy i utenriks fart som nevnt i merverdiavgiftsloven § 6-30 annet ledd eller § 6-31 første ledd, skal føre eget lagerregnskap med egen konto for levering til hvert fartøy eller luftfartøy.
+(2) Ved rederiets eller flyselskapets levering til fartøy eller luftfartøy skal ansvarshavende om bord bekrefte at varene er mottatt. Bekreftelsen anses som dokumentasjon av bokførte opplysninger og skal oppbevares av rederiet eller flyselskapet i samsvar med bestemmelsene i bokføringsloven.

@@ -1,0 +1,2 @@
+# § 4-3-1. Leieforedling av edelmetaller
+Ved leieforedling av edelmetaller skal det bare beregnes merverdiavgift av arbeidsytelsen, fortjeneste medregnet, i tillegg til eventuelt legeringsmetall. For smykker er det et vilkår at kunden får tilbake det samme metallet som ble innlevert. I andre tilfeller er det tilstrekkelig at kunden får tilbake en tilsvarende mengde av samme slags metall i bearbeidet stand.

@@ -1,0 +1,2 @@
+# § 4-3-2. Alminnelig omsetningsverdi – bytte av motorkjøretøy i bilbransjen
+Ved bilforhandleres omsetning av nye motorkjøretøy der deler av vederlaget mottas i form av et annet motorkjøretøy, kan den alminnelige omsetningsverdien for det nye kjøretøyet ikke settes lavere enn til listepris med tillegg av fraktkostnader fram til forretningen og med fradrag for alminnelig rabatt. Det må kunne dokumenteres at alminnelig rabatt gis ved omsetning av samme slags kjøretøy uten innbytte på tidspunktet for beregning av merverdiavgift.

@@ -1,0 +1,7 @@
+# § 22-1-3. Prosjekter – levering etter hvert
+(1) Avgiftssubjekter som har prosjekter hvor levering skjer etter hvert, skal utarbeide en oppstilling over varer og tjenester som er levert før satsen ble endret.
+(2) Oppstillingen skal for hvert prosjekt vise oppdragsgivers navn, adresse, prosjektets art og verdien av det som er levert før endringstidspunktet. Oppstillingen skal for hvert prosjekt også vise summen av delfakturaer og gjenstående beløp på det tidspunkt satsen ble endret.
+(3) Oppstillingen eller underbilag til denne skal vise hvordan verdien av det som er levert på det enkelte prosjekt før satsen ble endret, er beregnet, fordelt på direkte arbeidslønn, direkte materialer, andre direkte kostnader, tillegg for indirekte kostnader og fortjeneste.
+(4) Dersom det før satsen ble endret er foretatt betaling ut over verdien av de leverte ytelsene (forskudd) og det dermed uriktig er beregnet for mye merverdiavgift, skal dette framgå av oppstillingen. Ved fakturering etter at satsen er endret skal det tas hensyn til dette. Korreksjonene skal tas med i den ordinære skattemeldingen.
+(5) Dokumentasjon som nevnt i denne paragrafen anses som dokumentasjon av bokførte opplysninger og skal oppbevares i samsvar med bestemmelsene i bokføringsloven.
+(6) Det skal framgå av sluttavregningen hvor stor del av det samlede vederlag som er avgiftsberegnet med henholdsvis gammel og ny merverdiavgiftssats

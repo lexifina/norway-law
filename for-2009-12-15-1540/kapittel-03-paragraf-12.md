@@ -1,0 +1,2 @@
+# § 3-12-7. Servering
+Det er et vilkår for unntaket i merverdiavgiftsloven § 3-12 tredje ledd at virksomheten bare er åpen i tilknytning til arrangementer eller treninger og at minst 80 prosent av omsetningen skjer til deltakere eller tilskuere under arrangementene eller treningene. Serveringstilbudet må være begrenset og virksomheten må drives uten skjenkeløyve. Unntaket gjelder selv om organisasjonen også driver merverdiavgiftspliktig serveringsvirksomhet.
