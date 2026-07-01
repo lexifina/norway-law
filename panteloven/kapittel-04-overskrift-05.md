@@ -1,0 +1,1 @@
+# Patenter, varemerker og planteforedlerretter.

@@ -1,0 +1,4 @@
+# § 6-3. Foreldelse.
+(1) Lovbestemt pant faller bort dersom det ikke senest to år etter at pantekravet skulle ha vært betalt, innkommer begjæring til namsmyndigheten om tvangsdekning, eller dersom dekningen ikke gjennomføres uten unødig opphold. Registrert lovbestemt pant faller bort dersom tvangsdekning ikke er begjært innen tre år etter at pantekravet skulle vært betalt, eller dersom dekningen ikke gjennomføres uten unødig opphold. § 5-13 første ledd annet punktum gjelder tilsvarende.
+(2) Hvis pantekravet skal betales i to eller flere terminer årlig, blir fristen etter første ledd regnet fra det tidspunkt da den siste terminen skulle ha vært betalt.
+(3) Dersom det er kommet i stand gjeldsordning etter gjeldsordningsloven, faller panteretten likevel tidligst bort en måned etter gjeldsordningens avslutning.

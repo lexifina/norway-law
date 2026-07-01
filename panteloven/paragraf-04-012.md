@@ -1,0 +1,2 @@
+# § 4-12. Rettsvern for panterett i patent og varemerke m.m.
+Panterett i patent etter § 4-11 får rettsvern ved anmerkning i patentregisteret, og panterett i varemerke etter § 4-11 ved anmerkning i varemerkeregisteret. I tilfeller som nevnt i § 4-11 første ledd bokstav c, får panteretten rettsvern ved anmerkning i Patentstyrets særskilte register over europeiske patentsøknader. Frempantsettelse får rettsvern på samme måte.

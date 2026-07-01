@@ -1,0 +1,5 @@
+# § 4-10. Factoring.
+(1) En næringsdrivende kan slutte avtale om avhendelse, avhendelse i sikringsøyemed eller pantsettelse av de enkle pengekrav på vederlag for varer eller tjenester som han har eller får i sin virksomhet eller i en særlig del av denne. Det er ikke nødvendig at skyldnerne blir navngitt.
+(2) Avtale som nevnt i første ledd får rettsvern ved tinglysing på den næringsdrivendes blad i Løsøreregisteret. Rett etter slik avtale kan allikevel ikke gjøres gjeldende mot den som i aktsom god tro har ervervet en konkurrerende rett til et krav som omfattes av avtalen, og som har fått rettsvern for sitt erverv etter § 4-5 eller etter lov av 17. februar 1939 om gjeldsbrev § 29.
+(3) Bestemmelsene i § 3-5, § 4-4 tredje ledd, § 4-6, § 4-7 og § 4-8 gjelder tilsvarende for avtale etter nærværende paragraf. For næringsdrivende i landbruksnæring gjelder § 3-9 fjerde ledd tilsvarende.
+(4) § 3-1 a gjelder tilsvarende for panterett etter denne paragrafen til sikring av lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19.

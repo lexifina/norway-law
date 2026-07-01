@@ -1,0 +1,2 @@
+# § 3-1 a. Pant for lån under rekonstruksjonsforhandling
+Panterett etter § 3-4, §§ 3-8 til 3-10 og § 3-11 til sikring av lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 går foran alle andre heftelser i formuesgodene pantsettelsen omfatter. Panteretten kan bare benyttes til å dekke slike lån.

@@ -1,0 +1,5 @@
+# § 1-6. Avkastning av pantet.
+(1) Ved underpant har eieren rett til avkastning av pantet.
+(2) Den som har pant i verdipapirer, finansielle instrumenter registrert i et verdipapirregister, innløsningspapirer, aksjer eller enkle pengekrav, kan kreve og motta renter, utbytte og avdrag som forfaller mens panteretten består. De beløp som panthaveren mottar, kan han bruke til dekning av forfalte renter av pantekravet og forfalte deler av hovedstolen. Overskytende beløp kan eieren kreve å få utbetalt av panthaveren. Skal det pantsatte papir eller krav innløses, kan panthaveren motta og beholde innløsningssummen i den utstrekning dette er nødvendig til sikring også av de uforfalte deler av pantekravet. Panterett i aksjer omfatter også fondsaksjer (friaksjer).
+(3) Ved namsutlegg i verdipapirer, innløsningspapirer eller enkle pengekrav skal avdrag og renter betales til namsmyndigheten. Både saksøkeren og saksøkte kan foreta det som trengs for å holde kravet i kraft. Første punktum gjelder tilsvarende ved hel innfrielse av kravet.
+(4) Annet ledd gjør ingen endring i lov av 16. juni 1989 nr. 69 om forsikringsavtaler § 15-8 første ledd tredje punktum.
