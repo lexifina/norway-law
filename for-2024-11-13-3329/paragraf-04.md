@@ -1,0 +1,2 @@
+# § 4. Krav om nullutslipp av klimagasser for ferjer og ferjetjenester
+Oppdragsgiver som inngår kontrakter om anskaffelse av ferjer og ferjetjenester skal stille krav i kravspesifikasjon om at ferjer i ordinær drift skal bruke løsninger med nullutslipp av klimagasser. Det stilles ikke krav til at hjelpemotorer og andre reservesystemer skal bruke løsninger med nullutslipp av klimagasser i ordinær drift.
