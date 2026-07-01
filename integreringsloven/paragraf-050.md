@@ -1,0 +1,5 @@
+# § 50. Samarbeid og samordning
+Kommunen skal samarbeide med andre tjenesteytere dersom samarbeid er nødvendig for å gi deltagere i introduksjonsprogram et helhetlig og samordnet tjenestetilbud. Dersom deltageren har individuell plan etter annen lov og forskrift, skal kommunen delta i samarbeid om utarbeidelse og oppfølging av tiltak og mål i den individuelle planen.
+Kommunen skal samordne tjenestetilbudet etter første ledd. Ved behov skal kommunen bestemme hvilken kommunal tjenesteyter som skal ivareta samordningen. Dersom det er oppnevnt barnekoordinator etter helse- og omsorgstjenesteloven § 7-2 a, skal koordinatoren sørge for samordning av tjenestetilbudet.
+Kommunen skal, i tillegg til å følge opp enkelte deltagere, samarbeide med andre tjenesteytere slik at kommunen og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift.
+Med tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som utfører oppgaver på vegne av slike tjenesteytere, barnehager som får tilskudd etter barnehageloven § 19 og skoler som får statstilskudd etter privatskolelova § 6-1.

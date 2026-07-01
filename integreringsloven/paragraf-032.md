@@ -1,0 +1,4 @@
+# § 32. Varighet og omfang av opplæring i norsk
+Retten og plikten til opplæring for en deltager med oppholdstillatelse som nevnt i § 27 gjelder til deltageren har nådd et minimumsnivå i norsk etter § 31, men likevel ikke lenger enn tre år fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon. En deltager som har utdanning på videregående nivå eller høyere fra før, har ikke rett eller plikt til opplæring i lenger enn 18 måneder fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon.
+Plikten til opplæring for en deltager med oppholdstillatelse som nevnt i § 28 gjelder til deltageren har nådd et minimumsnivå i norsk etter § 31 eller til gjennomførte 225 timer norskopplæring.
+Departementet kan gi forskrift om hva som regnes som utdanning på videregående nivå etter paragrafen her.

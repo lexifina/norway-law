@@ -1,0 +1,8 @@
+# § 26. Målgruppe for opplæring i norsk og samfunnskunnskap
+Innvandrere mellom 18 og 67 år som har fått innvilget en oppholdstillatelse som nevnt i § 27 har rett og plikt til å delta i opplæring i norsk og samfunnskunnskap.
+Retten og plikten til opplæring inntrer når oppholdstillatelsen innvilges, eller ved ankomst til Norge for personer som har fått innvilget oppholdstillatelsen før innreise. For personer med oppholdstillatelse nevnt i § 9 første ledd bokstav d inntrer retten og plikten ved førstegangs fornyelse av tillatelsen. For personer med oppholdstillatelse nevnt i § 9 første ledd bokstav e inntrer retten og plikten på tidspunktet personen bosettes etter avtale mellom kommunen og integreringsmyndighetene. I særlige tilfeller kan retten og plikten inntre fra det tidspunktet krav om opplæring settes frem. Departementet kan gi forskrift om hva som skal anses som særlige tilfeller.
+Innvandrere mellom 18 og 67 år som har fått innvilget en oppholdstillatelse som nevnt i § 28 har plikt til å delta i opplæring i norsk og samfunnskunnskap.
+Plikten til opplæring inntrer når oppholdstillatelsen innvilges, eller ved ankomst til Norge for personer som har fått innvilget oppholdstillatelse før innreise.
+Alderen da oppholdstillatelsen ble innvilget er avgjørende for om personen omfattes av første eller tredje ledd. Retten og plikten opphører ved fylte 67 år.
+Personer nevnt i § 27 som har påbegynt et introduksjonsprogram eller opplæring i norsk og samfunnskunnskap, har rett til å fullføre opplæringen i norsk og samfunnskunnskap, uavhengig av om oppholdstillatelsen endres, eller om de får innvilget statsborgerskap.
+Kommunen kan tilby opplæring i norsk og samfunnskunnskap til andre enn personer nevnt i denne bestemmelsen.

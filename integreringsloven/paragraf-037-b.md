@@ -1,0 +1,4 @@
+# § 37 b. Kompetansekartlegging og karriereveiledning
+Retten og plikten til å gjennomføre kompetansekartlegging før bosetting etter § 6 i loven her gjelder ikke for personer som har fått oppholdstillatelse etter utlendingsloven § 34.
+Personer som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å gjennomføre kompetansekartlegging etter § 10 i loven her. Personer som deltar i introduksjonsprogram etter § 37 c, har rett og plikt til å gjennomføre kompetansekartleggingen. Kartleggingen skal bidra til å avklare om vedkommende er kvalifisert for tilgjengelige arbeidsplasser i kommunen, og til at introduksjonsprogrammet etter § 37 c blir tilpasset den enkeltes behov.
+Personer som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å gjennomføre karriereveiledning etter § 11 i loven her. § 11 fjerde ledd gjelder ikke.
