@@ -1,0 +1,3 @@
+# § 1-5. (sammenslåing)
+Eierne av jordbrukseiendommer med tilliggende bruksrett kan ved avstemning beslutte å slå flere bygdeallmenninger sammen. For sammenslåing kreves to tredjedels flertall av de avgitte stemmer i hver av de allmenningene det gjelder. Bestemmelsene i §§ 4-1 og 4-2 gjelder tilsvarende.
+Før avstemningen må det foreligge en avtale mellom allmenningene om de viktigste spørsmål i forbindelse med sammenslåingen, og et av departementet godkjent utkast til bruksregler for den sammenslåtte allmenningen. Avtalen og utkastet til bruksregler må være gjort kjent for de bruksberettigede senest fire uker før avstemningen holdes.

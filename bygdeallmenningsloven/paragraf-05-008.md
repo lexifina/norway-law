@@ -1,0 +1,3 @@
+# § 5-8. (gjenoppføring og utbedring av bygninger etter brann eller annen skade – forholdet til forsikring)
+Det gis ikke utvisning, virkesrabatt eller tilskudd til bruk av trebesparende materialer ved gjenoppføring eller utbedring av skadde bygninger som har vært fullverdiforsikret. For bygninger som har vært forsikret etter en lavere verdi, gjelder det samme for den del av gjenoppføringen eller utbedringen som dekkes av forsikringssummen.
+I bruksregler etter § 3-7 kan det bestemmes at virkesretten ved gjenoppføring og utbedring skal være videre enn nevnt i første ledd, men også at bestemmelsene i første ledd skal gjelde i den utstrekning bygningene kunne ha vært forsikret.

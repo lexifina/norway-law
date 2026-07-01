@@ -1,0 +1,3 @@
+# § 4-5. (tidspunkt for valget, antall som skal velges, funksjonstid)
+Valg av allmenningsstyre holdes hvert annet år på årsmøtet. Funksjonstiden for styrets medlemmer er fire år.
+Det velges halvparten av det antall styremedlemmer som er fastsatt, jfr. § 3-7 annet ledd bokstav a, og minst et tilsvarende antall varamedlemmer, i det halvparten av de valgte trer ut hvert annet år. Ved første gangs valg etter lovens ikrafttredelse, og når det skal velges et større antall styremedlemmer og/eller varamedlemmer enn tidligere, avgjøres det ved loddtrekning hvem av de nyvalgte som skal tre ut etter to år. Er antallet et ulikt tall, trer den minste del ut etter to år.

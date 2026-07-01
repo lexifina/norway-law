@@ -1,0 +1,2 @@
+# § 8-8. (fiskekort)
+Enhver som vil utøve fiske i bygdeallmenning skal løse fiskekort. Vederlaget for fiskekort fastsettes av allmenningsstyret og tilfaller allmenningskassen, hvis ikke annet følger av ordning etter §§ 8-4, 8-5 og 8-6. Vederlaget kan settes forskjellig for dem som har fiskerett etter § 8-1 og for andre. Det kan også settes forskjellig vederlag for krokfiske og fiske med andre redskaper, og for fiske i lakseførende og ikke lakseførende vassdrag.

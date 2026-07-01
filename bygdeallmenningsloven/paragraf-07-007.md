@@ -1,0 +1,2 @@
+# § 7-7. (jaktkort)
+Enhver som vil drive jakt eller fangst i bygdeallmenning skal løse jaktkort. Vederlaget for jaktkort fastsettes av allmenningsstyret og tilfaller allmenningskassen, for så vidt ikke annet følger av ordning etter §§ 7-3, 7-4 og 7-5. Vederlaget kan settes forskjellig for dem som har jaktrett etter § 7-1 og for andre. Det kan også settes forskjellig vederlag for jakt på småvilt og for annen slags jakt og fangst.

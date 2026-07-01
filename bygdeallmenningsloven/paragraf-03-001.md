@@ -1,0 +1,6 @@
+# § 3-1. (allmenningsstyret)
+Forvaltningen av en bygdeallmenning ligger til allmenningsstyret.
+Allmenningsstyret skal bestå av fra tre til syv medlemmer. Antallet styremedlemmer og varamedlemmer fastsettes i bruksregler for den enkelte allmenning, jfr. § 3-7. Allmenningsstyret er beslutningsdyktig når flertallet av medlemmene møter. Allmenningsstyre med tre medlemmer er likevel bare beslutningsdyktig når alle medlemmene møter. Ved likt stemmetall gjør lederens stemme utslaget.
+Allmenningsstyret velges etter bestemmelsene i kapittel 4. Styret velger selv leder og nestleder for to år om gangen.
+Det skal føres møtebok for allmenningsstyrets møter. Møteboken skal oppbevares på betryggende måte.
+I bygdeallmenning som de siste tre regnskapsår gjennomsnittlig har hatt flere enn 30 ansatte, kan to tredjedeler av de ansatte kreve at ett styremedlem og ett varamedlem velges av og blant de ansatte. I allmenning som de siste tre regnskapsår gjennomsnittlig har hatt flere enn 50 ansatte, kan et flertall av de ansatte kreve at inntil en tredjedel, dog minst to, av styrets medlemmer med varamedlemmer velges av og blant de ansatte. De ansattes styrerepresentanter har rett til å uttale seg i alle saker som behandles av allmenningsstyret, og har stemmerett i saker som ikke gjelder bruksrettsforhold.
