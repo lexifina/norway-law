@@ -1,0 +1,4 @@
+# § 18. Teknisk beregningsutvalg for nasjonale e-helseløsninger
+Teknisk beregningsutvalg for nasjonale e-helseløsninger skal, som grunnlag for fastsetting av betalingen, vurdere tallgrunnlaget fra Norsk helsenett SF for beregnede kostnader til forvaltning og drift av de nasjonale e-helseløsningene.
+Teknisk beregningsutvalg skal hvert år gjennomføre en gjennomgang av tallgrunnlaget i løpet av våren basert på prognoser fra Norsk helsenett SF. Teknisk beregningsutvalg gir sine vurderinger til departementet som fastsetter betalingen.
+Medlemmene oppnevnes av departementet og skal inkludere medlemmer som er foreslått av KS, regionale helseforetak, Legeforeningen og Apotekforeningen. Departementet kan også inkludere medlemmer som er foreslått av andre. Medlemmene i utvalget oppnevnes for to år av gangen. Departementet fastsetter utvalgets mandat.

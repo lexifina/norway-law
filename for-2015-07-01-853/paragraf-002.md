@@ -1,0 +1,2 @@
+# § 2. Virkeområde
+Forskriften gjelder virksomheter som yter helsehjelp eller forvalter og tilgjengeliggjør helseopplysninger for helseregistre. Det vil si virksomheter innen helse- og omsorgstjenesten som bruker behandlingsrettede helseregistre, jf. pasientjournalloven § 2 bokstav d, regionale helseforetak, helseforvaltning og virksomheter som forvalter og tilgjengeliggjør helseopplysninger for helseregistre med hjemmel i helseregisterloven § 9 til § 11.

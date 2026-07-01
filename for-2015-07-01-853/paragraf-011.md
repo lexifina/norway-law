@@ -1,0 +1,4 @@
+# § 11. Plikt for virksomhetene til å ta i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) i virksomheten
+Helseforetak, selvstendig næringsdrivende fastleger, apotek og bandasjist skal ta i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) i virksomheten fra 1. juli 2022. Kommunen har ansvaret for at kommunale legevakter og kommunalt ansatte fastleger tar i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) fra 1. juli 2022.
+Private sykehus og avtalespesialister skal ta i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) i virksomheten fra 1. januar 2023.
+Med å ta i bruk i virksomheten, menes at e-resept er integrert med journalsystemet eller annet relevant fagsystem, og at personell med tjenstlig behov og rett til å benytte e-resept etter reseptformidlerforskriften kapittel 3 er satt i stand til å ta løsningen i bruk.

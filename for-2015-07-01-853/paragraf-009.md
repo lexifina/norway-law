@@ -1,0 +1,3 @@
+# § 9. Plikt for virksomhetene til å ta i bruk helsenettet i virksomheten
+Virksomheter som yter helse- og omsorgstjenester etter spesialisthelsetjenesteloven, helse- og omsorgstjenesteloven, apotekloven og tannhelsetjenesteloven skal ta i bruk helsenettet i virksomheten fra 1. januar 2022. Dette gjelder også sykehusapotek, uavhengig av organisasjonsform, og bandasjister. Helsenettet inkluderer felleskomponentene grunndata og helseID. Plikten omfatter ikke å ta i bruk felleskomponenten HelseID og velferdsteknologisk knutepunkt.
+Med å ta i bruk i virksomheten menes at virksomheten er medlem av helsenettet og at personell med tjenstlig behov kan kommunisere og utveksle opplysninger ved bruk av meldingsutveksling og andre relevante tjenester.
