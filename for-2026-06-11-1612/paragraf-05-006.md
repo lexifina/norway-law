@@ -1,0 +1,8 @@
+# § 5-6. Oppmelding til eksamen
+(1) Dato for ordinær eksamen skal normalt være kunngjort senest ved starten av det semesteret eksamen er planlagt gjennomført. Dato for ny eksamen skal være kunngjort senest to uker før eksamensdato.
+(2) Eksamenssted følger undervisningsstedet. I emner med utelukkende digital undervisning med en eksamensform som krever oppmøte er eksamenssted Diehtosiida. For bidrags-/oppdragsfinansierte studier kan det avtales egne bestemmelser for valg av eksamenssted.
+(3) Etter søknad kan eksamen avlegges utenfor lokalitetene for ordinær eksamen. Høgskolen må godkjenne eksamensstedet. Søknaden avgjøres administrativt og skal leveres senest tre uker før eksamen, eller fem uker dersom eksamen ønskes gjennomført i utlandet. Studenten dekker selv ekstrakostnader i forbindelse med dette. Styret fastsetter særskilt avgift for ekstraarbeidet dette medfører.
+(4) Studenten melder seg til eksamen i emner gjennom å registrere seg innen fastsatte frister i studiekalenderen. Studenten er selv ansvarlig for å kontrollere at sine eksamensmeldinger til enhver tid er korrekte, samt å holde seg orientert om eksamenstid og -sted.
+(5) Der det gjelder særlige frister for oppmelding til ny/utsatt eksamen, må studenten selv melde seg innen fristen for den aktuelle eksamen.
+(6) Dersom det foreligger særlige tungtveiende grunner, kan studenten søke om oppmelding til eksamen etter fristen.
+(7) Kandidater kan selv trekke seg fra eksamen senest 10 dager før eksamensdato. Kandidater kan trekke seg fra levering av masteroppgave frem til innleveringsfrist. Slike tilfeller registreres ikke eksamensforsøk.
