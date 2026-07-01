@@ -1,0 +1,2 @@
+# § 6-3. Veiledningsplikt overfor den kommunale helse- og omsorgstjenesten
+Helsepersonell som er ansatt i statlige helseinstitusjoner som omfattes av denne loven, eller som mottar tilskudd fra regionale helseforetak til sin virksomhet, skal gi den kommunale helse- og omsorgstjenesten råd, veiledning og opplysninger om helsemessige forhold som er påkrevet for at den kommunale helse- og omsorgstjenesten skal kunne løse sine oppgaver etter lov og forskrift.

@@ -1,0 +1,4 @@
+# § 2-5. Individuell plan
+Helseforetaket skal utarbeide en individuell plan for pasienter med behov for langvarige og koordinerte tilbud. Helseforetaket skal samarbeide med andre tjenesteytere om planen for å bidra til et helhetlig tilbud for pasientene.
+Dersom en pasient har behov for tjenester både etter loven her og etter helse- og omsorgstjenesteloven, skal kommunen sørge for at arbeidet med planen settes i gang og koordineres. Helseforetaket skal så snart som mulig varsle kommunen når det ser at det er behov for en individuell plan som omfatter tjenester både fra spesialisthelsetjenesten og kommunen, og skal i slike tilfeller medvirke i kommunens arbeid med individuell plan.
+Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper plikten omfatter etter første ledd, og om innholdet i individuelle planer.

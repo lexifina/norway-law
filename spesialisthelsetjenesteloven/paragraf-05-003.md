@@ -1,0 +1,5 @@
+# § 5-3. Dekning av utgifter for pasient som ikke har bosted i riket
+Pasient som ikke har bosted i riket, skal dekke behandlings- og forpleiningsutgiftene selv. Før planlagt spesialisthelsetjeneste ytes, kan helseinstitusjonen eller tjenesteyteren kreve dokumentasjon på at pasienten kan dekke behandlings- og forpleiningsutgiftene. Helseinstitusjonen eller tjenesteyteren skal sørge for at pasienten mottar en spesifisert regning som viser hvilke ytelser pasienten har mottatt, og hvilken pris som er beregnet for ytelsene. Dersom pasienten ikke kan dekke utgiftene selv, skal de dekkes av vedkommende helseinstitusjon eller tjenesteyter.
+Folketrygden skal dekke behandlings- og forpleiningsutgifter for pasient som ikke har bosted i riket dersom vedkommende er trygdet etter folketrygdloven eller er stønadsberettiget i henhold til gjensidig avtale med annen stat.
+Utgifter til gjennomføring av tvungent psykisk helsevern skal dekkes av staten.
+Departementet kan gi forskrift om beregning av behandlings- og forpleiningsutgifter som nevnt i første ledd.

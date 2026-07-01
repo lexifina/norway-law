@@ -1,0 +1,5 @@
+# § 2-4 a. Klinisk etikkomité
+Helseforetaket skal opprette en klinisk etikkomité. Andre virksomheter som omfattes av denne loven, kan opprette en klinisk etikkomité.
+Den kliniske etikkomiteen skal bidra til å øke helsepersonellets kompetanse i å identifisere, analysere og avklare etiske verdispørsmål i forbindelse med pasientbehandling og ved prioritering av ressurser. På forespørsel fra helsepersonell eller pasienter skal den kliniske etikkomiteen bistå med råd om hvordan konkrete etiske utfordringer ved behandlingen av den enkelte pasient kan løses. Pasientens nærmeste pårørende kan også be om bistand fra den kliniske etikkomiteen dersom dette antas å være i samsvar med pasientens ønske.
+Den kliniske etikkomiteen skal være tverrfaglig sammensatt og ha medisinsk og helsefaglig kompetanse. Den kliniske etikkomiteen skal også ha brukerrepresentant. Komiteen skal så langt det er mulig, ha kompetanse i medisinsk etikk og helserett.
+Den kliniske etikkomiteen skal utføre sine oppgaver uavhengig og selvstendig.

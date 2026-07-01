@@ -1,0 +1,2 @@
+# § 3-13. Varsel til tilsynsmyndigheten
+Helseinstitusjon som omfattes av denne loven skal uten ugrunnet opphold varsle statsforvalteren ved innleggelse med hjemmel i helse- og omsorgstjenesteloven §§ 10-2 og 10-3. Varsel skal også gis ved innleggelse med hjemmel i helse- og omsorgstjenesteloven § 10-4 dersom samtykket er gitt ved direkte overgang fra opphold med hjemmel i helse- og omsorgstjenesteloven §§ 10-2 og 10-3.
