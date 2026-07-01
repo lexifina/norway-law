@@ -1,0 +1,3 @@
+# § 6-11. Flytting av pensjonsrettigheter utgått fra kollektive pensjonsordninger
+Ved flytting av en kommunal pensjonsordning skal oppsatte pensjonsrettigheter i pensjonsordningen med tilhørende midler, samtidig overføres til den nye pensjonsinnretningen. Bestemmelsene i § 6-3, § 6-5 tredje og fjerde ledd, § 6-7 første, tredje og fjerde ledd, § 6-8, § 6-9 og § 6-10 første til fjerde ledd gjelder tilsvarende.
+Ved flytting av andre pensjonsordninger overføres ikke pensjonsrettigheter knyttet til fripoliser, pensjonsbevis eller pensjonskapitalbevis til den nye pensjonsinnretningen, med mindre den som har rett til fripolisen, pensjonsbeviset eller pensjonskapitalbeviset krever det etter reglene i § 6-13.

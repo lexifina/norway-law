@@ -1,0 +1,3 @@
+# § 7-1. Skadeforsikringsvirksomhet mv.
+Tillatelse til å drive virksomhet som skadeforsikringsforetak gir adgang til å overta forsikringer som regnes som skadeforsikring. Som skadeforsikring regnes forsikring mot skade eller tap av ting, rettigheter eller andre fordeler og forsikring mot erstatningsansvar eller kostnader, samt ulykkesforsikring, sykeforsikring og annen personforsikring som ikke er livsforsikring.
+Et skadeforsikringsforetak har ikke adgang til å markedsføre eller tilby forsikringer mot strafferettslige sanksjoner dersom forsikringen vil være i strid med rettsordenen. Departementet kan ved forskrift eller enkeltvedtak fastsette hva som forstås med forsikring i strid med rettsordenen.

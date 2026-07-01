@@ -1,0 +1,11 @@
+# § 7-5. Premietariffer
+Et skadeforsikringsforetak skal ha premietariffer for standardiserte produkter eller produktkombinasjoner som foretaket markedsfører. De som etterspør slike forsikringer, skal på en enkel måte få opplysninger fra foretaket om premienivå og forhold på forsikringstakerens side som etter premietariffene vil bli lagt vekt på ved beregningen av premiene. Foretaket skal i premietariffen eller på annen måte fastsette regler om hvilke forhold på forsikringstakerens side som vil gi rett til premierabatt eller betinge premietillegg. Kongen kan i forskrift gi nærmere regler om premietariffer.
+Opplysning om premien på en forsikring skal omfatte det samlede vederlag foretaket normalt vil beregne seg for å overta de ulike typer av risiko som omfattes av forsikringsvilkårene for de forskjellige produkter og produktkombinasjoner, og for å yte tjenester knyttet til produktene.
+Foretaket kan benytte forskjellig premie overfor ulike kundegrupper når aktuarberegninger eller risikostatistikk gir forsvarlig grunnlag for å legge til grunn at den forsikringsrisiko kunder innenfor de ulike gruppene representerer, vil være forskjellig.
+Foretaket skal ved utformingen av premietariffene og ved fastsettelse av premien sørge for at:
+a) foretakets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,
+b) foretakets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte forsikringer blir oppfylt, og vil være betryggende ut fra foretakets økonomi,
+c) det ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+Foretaket skal gi melding til Finanstilsynet om fastsatte premietariffer for livsforsikringer som nevnt i finansforetaksloven § 2-14 annet ledd og om prinsippene for utformingen av slike premietariffer.
+Finanstilsynet skal føre kontroll for å påse at de premier som benyttes, er i samsvar med reglene i dette kapittel. Kongen kan forby bruk av premier som Kongen finner er ubetryggende eller urimelige.
+Kongen kan fastsette regler om skadeforsikringsforetaks plikt til å gi opplysninger om produkter, premier og forsikringsvilkår i skadeforsikring til informasjonsordning for finansielle tjenester.

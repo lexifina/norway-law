@@ -1,0 +1,3 @@
+# § 4-20. Adgang til å treffe automatiserte avgjørelser
+Pensjonsinnretningen kan treffe avgjørelser som utelukkende er basert på automatisert behandling av personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10. Behandlingen må sikre partens krav til forsvarlig saksbehandling og være forenlig med retten til vern av personopplysninger. Avgjørelsen kan ikke bygge på skjønnsmessige vilkår i lov eller forskrift, med mindre avgjørelsen er utvilsom. Den registrerte har rett til manuell overprøving av avgjørelsen.
+Departementet kan i forskrift gi nærmere regler om bruk av automatiserte avgjørelser.

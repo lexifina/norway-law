@@ -1,0 +1,2 @@
+# § 6-12. Flytting ved medregning av tidligere tjenestetid
+Blir en arbeidstaker medlem av pensjonsordning med foretakspensjon som har bestemmelser om medregning av tjenestetid, gjelder reglene i foretakspensjonsloven §§ 4-11 til 4-13. Ved beregningen av de midler som skal overføres, gjelder § 6-7 første, tredje og fjerde ledd tilsvarende. For øvrig gjelder § 6-5 fjerde ledd, § 6-9 og § 6-10 første til fjerde ledd tilsvarende så langt de passer.

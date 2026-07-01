@@ -1,0 +1,3 @@
+# § 3-17. Negativt risikoresultat for fripoliser, pensjonsbevis og pensjonskapitalbevis med investeringsvalg
+Bestemmelsene i paragrafen her gjelder fripoliser, pensjonsbevis og pensjonskapitalbevis tilordnet egen investeringsportefølje med investeringsvalg. Kongen kan i forskrift fastsette at bestemmelsene i paragrafen her også skal gjelde for andre typer kontrakter.
+Er foretakets risikoresultat negativt for en gruppe av kontrakter, kan kontraktens andel av risikoresultatet dekkes ved fradrag i avkastning tilordnet kontrakten etter § 3-13 tredje ledd eller i verdien av investeringsporteføljen tilordnet kontrakten.

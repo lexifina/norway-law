@@ -1,0 +1,2 @@
+# § 8-3. Begravelseskasser og hjelpekasser
+Denne lovens bestemmelser kommer ikke til anvendelse på begravelseskasser og hjelpekasser som yter en maksimumsstøtte lik folketrygdens grunnbeløp. Disse innretninger kan imidlertid av Finanstilsynet pålegges å sende oppgave om sin virksomhet til Finanstilsynet. Finanstilsynet kan, hvis det er påkrevet av hensyn til de berettigede til ytelsene, bestemme at også disse ordninger skal være undergitt denne lov helt eller delvis.

@@ -1,0 +1,4 @@
+# § 6-13. Flytting av fripolise, pensjonsbevis og pensjonskapitalbevis
+Den som har rett til pensjonsrettigheter knyttet til fripolise, pensjonsbevis eller pensjonskapitalbevis, kan flytte kontrakten til en annen pensjonsinnretning. Oppsigelsesfristen ved flytting er én måned.
+Bestemmelsene om formkrav til oppsigelse i § 6-5 første ledd annet og tredje punktum, risikoovergang i § 6-5 tredje ledd, samt oppgjørsfrist i § 6-6 gjelder tilsvarende.
+Ved beregning, oppgjør og anvendelse av de midler som skal overføres, gjelder bestemmelsene i §§ 6-7, 6-8, 6-9 og 6-10 første, annet, fjerde og femte ledd tilsvarende. Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene etter en fripolise, skal manglende premiereserve dekkes ved overført bufferfond. Er overført premiereserve og bufferfond ikke tilstrekkelig til å sikre rettighetene etter en fripolise, skal manglende premiereserve dekkes ved betinget egenkapitalbidrag fra pensjonsinnretningen det flyttes til.

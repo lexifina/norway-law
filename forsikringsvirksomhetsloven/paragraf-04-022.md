@@ -1,0 +1,3 @@
+# § 4-22. Opphør av pensjonsordningen
+Dersom et foretak med kommunal pensjonsordning går konkurs eller det er truffet vedtak om at foretaket eller dets virksomhet skal avvikles, skal pensjonsordningen opphøre. Det samme gjelder om foretaket slutter å betale premie til pensjonsordningen og premien ikke kan dekkes av midler i premiefondet.
+Når en pensjonsordning opphører, skal pensjonsordningens midler fordeles mellom medlemmene, pensjonistene og arbeidstakere som har fratrådt sine stillinger på grunnlag av premiereserven knyttet til opptjente pensjonsrettigheter til hver enkelt person, og benyttes til å sikre deres rett til pensjon i pensjonsinnretningen.

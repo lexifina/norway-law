@@ -1,0 +1,3 @@
+# § 9-1. Straffeansvar
+Tillits- eller tjenestemenn i institusjoner som er underlagt denne lov og som forsettlig eller uaktsomt overtrer loven eller bestemmelse eller pålegg gitt med hjemmel i loven eller som overtrer ellers gjeldende regelverk for virksomheten, straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel inntil 1 år, dersom forholdet ikke går inn under noen strengere straffebestemmelse.
+Hvis et pålegg av tilsynet ikke blir etterkommet, kan vedkommende departement bestemme at de personer og/eller den institusjon, institusjonens morselskap eller morselskapet i det konsern institusjonen er en del av, som skal oppfylle pålegget, skal betale en daglig løpende mulkt til forholdet er rettet. Pålegg om mulkt er tvangsgrunnlag for utlegg.
