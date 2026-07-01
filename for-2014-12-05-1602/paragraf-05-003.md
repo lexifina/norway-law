@@ -1,0 +1,3 @@
+# § 5-3. Barnetillegg når et barn blir forsørget av flere som mottar uføretrygd
+Når et barn blir forsørget av flere som mottar uføretrygd, ytes tillegget til den som har rett til høyest tillegg. Ved innvilgelse gis barnetillegget til den med høyest barnetillegg etter inntektsprøving.
+Barnetillegget kan i stedet gis til den andre forsørgeren etter søknad og samtykke fra begge forsørgere. Det kan søkes om ny overføring når det har gått ett år siden overføringen. Tilsvarende gjelder for senere overføringer av barnetillegg mellom forsørgerne. Hvis retten til hovedytelsen faller bort for den som har mottatt barnetillegget, gis tillegget i stedet til den andre forsørgeren.
