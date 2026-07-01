@@ -1,0 +1,6 @@
+# § 3-17. Rettsvern.
+(1) Ved forbrukerkjøp må avtale om salgspant for å få rettsvern inngås skriftlig og senest samtidig med at salgstingen blir overgitt til kjøperen. Avtale om salgspant kan inngås elektronisk dersom det er benyttet en betryggende metode for å autentisere avtaleinngåelsen og sikre avtalens innhold.
+(2) Ved andre kjøp enn forbrukerkjøp må salgspant for å få rettsvern være avtalt senest samtidig med at salgstingen blir overgitt til kjøperen. Dersom avtalen ikke er skriftlig, må den bekreftes skriftlig av en av partene uten ugrunnet opphold etter overleveringen.
+(3) Salgspant i motorvogn som er registrert i henhold til reglene i vegtrafikkloven av 18. juni 1965 nr. 4 § 15, jfr. § 16, må for å få rettsvern dessuten tinglyses på kjøperens blad i Løsøreregisteret. Salgspantet blir da også beskyttet mot rettserverv etter lov av 2. juni 1978 nr. 37 om godtroerverv av løsøre.
+(4) Avtalen må særskilt nevne de ting som panteretten skal omfatte og den kjøpesum eller det innkjøpslån den skal sikre. Når flere ting er kjøpt med salgspant under ett, ansees panteretten å hefte på samtlige ting til sikkerhet for det samlede beløp kjøperen skylder.
+(5) Er det avtalt salgspant både for selgerens krav og for innkjøpslån som tredjeperson har ydet kjøperen, blir de to panteretter likestilt, hvis ikke annet følger av avtalen.

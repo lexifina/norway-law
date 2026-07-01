@@ -1,0 +1,2 @@
+# § 1-15. Nedsettelse av restkrav etter gjennomført dekningssalg.
+Dersom en panthaver under inndrivelse av pantekravet har kjøpt pantet til en pris som ikke ga full dekning, og panthaveren senere søker å inndrive restkravet mot pantets eier eller andre som hefter for kravet, kan restkravet nedsettes i den utstrekning det godtgjøres at kjøpesummen sto i et åpenbart misforhold til pantets verdi på salgstidspunktet.
