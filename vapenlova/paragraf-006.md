@@ -1,0 +1,4 @@
+# § 6. Løyve med vidare for våpendelar
+Den som vil erverve eller ha våpendelar som fastsett i medhald av tredje ledd, må ha løyve frå politiet. Den som vil avhende løyvepliktige våpendelar, må trygge at den som ervervar gjenstanden, har løyve frå politiet til å kunne erverve gjenstanden. Politiet kan berre gje løyve til erverv etter første punktum når vedkomande har løyve til å ha skytevåpen som våpendelen kan brukast i.
+Utanom dei tilfella som er nemnde i §§ 10, 12 eller 13, kan ikkje politiet gje løyve til å erverve, ha, tilverke, importere eller omsette nærare bestemte våpendelar som saknar ein lovleg bruk eller som gjev skytevåpen særskilt farlege eigenskapar.
+Kongen gjev forskrift om kva våpendelar som er løyvepliktige etter første ledd, registreringsplikt for våpendelar som ikkje er løyvepliktige, samt kva våpendelar som ikkje er tillatne etter andre ledd.

@@ -1,0 +1,3 @@
+# § 32. Tilbakekall av løyve til å drive næringsverksemd med skytevåpen, våpendelar og ammunisjon
+Politiet skal tilbakekalle løyve til å drive næringsverksemd etter § 23 første ledd når den som har løyvet, eller den ansvarlege for drifta ikkje lenger oppfyller vilkåra fastsette i eller i medhald av § 23 andre og tredje ledd. Politiet kan også tilbakekalle løyve til å drive næringsverksemd etter § 23 første ledd når den som har løyvet, ikkje oppfyller andre krav for løyvet som er fastsette i lova her eller i forskrift gjeven i medhald av denne lova.
+Reglane i § 31 andre til femte ledd gjeld tilsvarande for tilbakekall av løyve til å drive næringsverksemd.
