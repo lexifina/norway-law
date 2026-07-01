@@ -1,0 +1,6 @@
+# § 19-8. Gjennomføring av konkurranse om innovasjonspartnerskap
+(1) I en konkurranse om innovasjonspartnerskap kan alle interesserte leverandører levere forespørsel om å delta i konkurransen. Bare deleverandørene som blir invitert av oppdragsgiveren, kan gi tilbud.
+(2) Oppdragsgiveren skal forhandle med alle leverandørene, med mindre han reduserer antallet tilbud som det forhandles om, jf. § 19-12. Forhandlingene kan gjelde alle sider ved tilbudet. Det er ikke tillatt å forhandle om tildelingskriteriene og absolutte krav.
+(3) Eventuelle endringer i konkurransegrunnlaget som følge av forhandlingene skal umiddelbart sendes til alle de gjenværende leverandørene. I etterkant av slike endringer skal oppdragsgiveren gi leverandørene tilstrekkelig tid til eventuelt å gi reviderte tilbud.
+(4) Oppdragsgiveren skal avslutte forhandlingene ved å sette en felles frist for mottak av endelige tilbud fra de gjenværende leverandørene. Det er ikke tillatt å forhandle om de endelige tilbudene.
+(5) Ved gjennomføringen av innovasjonspartnerskapet skal oppdragsgiveren følge reglene i § 22-6. Oppdragsgiveren kan inngå innovasjonspartnerskap med en eller flere partnere som gjennomfører separate forsknings- eller utviklingsaktiviteter.

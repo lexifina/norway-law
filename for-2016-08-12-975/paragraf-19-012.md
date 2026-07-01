@@ -1,0 +1,6 @@
+# § 19-12. Reduksjon av antallet tilbud eller løsninger
+(1) I en konkurranse med forhandling etter forutgående kunngjøring, en konkurranse om innovasjonspartnerskap og en konkurransepreget dialog, kan oppdragsgiveren beslutte at forhandlingene eller dialogen skal skje i flere faser for å redusere antallet tilbud eller løsninger. Slike reduksjoner skal foretas på grunnlag av tildelingskriteriene.
+(2) Oppdragsgiveren skal angi om han forbeholder seg retten til å redusere antallet tilbud eller løsninger, i kunngjøringen eller invitasjonen til å bekrefte interesse.
+(3) I den siste fasen av forhandlingene eller dialogen skal antallet tilbud eller løsninger være tilstrekkelig til å sikre reell konkurranse. Dette gjelder bare i den utstrekning det foreligger tilstrekkelig mange gjenværende tilbud eller løsninger.
+(4) Oppdragsgiveren kan redusere antallet tilbud eller løsninger første gang i forkant av forhandlingene eller dialogen, dersom han har forbeholdt seg denne retten i anskaffelsesdokumentene.
+(5) Oppdragsgiveren skal snarest mulig gi leverandørene som har fått sine tilbud eller sine løsninger forkastet, en skriftlig meddelelse om dette. Meddelelsen skal inneholde en kort begrunnelse.

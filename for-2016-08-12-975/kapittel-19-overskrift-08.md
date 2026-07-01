@@ -1,0 +1,1 @@
+# Gjennomføring av ulike anskaffelsesprosedyrer

@@ -1,0 +1,3 @@
+# § 12-3. Krav til leverandørens organisering
+(1) Oppdragsgiveren kan ikke avvise en leverandør med den begrunnelsen at leverandøren må være enten en fysisk eller juridisk person etter norsk lovgivning, dersom leverandøren har rett til å levere ytelsene etter lovgivningen i den staten han er etablert.
+(2) Oppdragsgiveren kan kreve at en leverandør som er en juridisk person, oppgir navn og faglige kvalifikasjoner til personene som skal være ansvarlige for å utføre kontrakten. Opplysningene skal gis i forespørselen om å delta i konkurransen eller i tilbudet. Dette gjelder ikke ved anskaffelser av varer som ikke inkluderer tjenester eller monterings- og installasjonsarbeid.

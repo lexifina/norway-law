@@ -1,0 +1,4 @@
+# § 10-2. Rettelser, suppleringer eller endringer av konkurransegrunnlaget
+(1) Før tilbudsfristens utløp kan oppdragsgiveren foreta rettelser, suppleringer og endringer av konkurransegrunnlaget som ikke er vesentlige. Slike rettelser, suppleringer og endringer skal umiddelbart sendes til samtlige leverandører som har mottatt konkurransegrunnlaget.
+(2) På forespørsel fra en leverandør skal oppdragsgiveren gi supplerende opplysninger om konkurransegrunnlaget senest seks dager før tilbudsfristens utløp, forutsatt at leverandøren har bedt om dem i tilstrekkelig tid i forkant. I hastetilfeller, jf. § 16-2 tredje ledd, er fristen for å gi slike opplysninger fire dager. Opplysninger som gis på forespørsel fra en leverandør, skal sendes til samtlige leverandører som deltar i konkurransen.
+(3) Ved rettelser, suppleringer og endringer av konkurransegrunnlaget skal oppdragsgiveren forlenge tilbudsfristen i samsvar med § 16-1 tredje ledd.
