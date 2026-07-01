@@ -1,0 +1,3 @@
+# § 5-2. Premie for fremtidig administrasjon
+Premie for fremtidig administrasjon for fripoliser, pensjonsbevis og pensjonskapitalbevis med kontraktsfastsatte ytelser skal tilføres kontraktens premiereserve. Det kan også tilføres slik premie til dekning av fremtidig kostnadsansvar knyttet til engangsbetalte kontrakter og andre grupper av kontrakter. Premiereserve for engangsbetalte kontrakter kan i stedet beregnes ut fra kapitalverdien av bruttoforpliktelsene etter kontraktene.
+Premie for fremtidig administrasjon av fripoliser, pensjonsbevis og pensjonskapitalbevis med kontraktsfastsatte ytelser skal beregnes uten fortjenesteelement.

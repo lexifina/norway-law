@@ -1,0 +1,2 @@
+# § 5-5. Annen bruk av bufferfond
+Har et foretak tapt sin ansvarlige kapital, og kan kravet til premiereserve for en eller flere kontrakter ikke oppfylles ved overføring fra bufferfond knyttet til den eller de kontrakter det gjelder, skal kravet til premiereserve oppfylles ved overføring av gjenværende bufferfond knyttet til de kontrakter som har tilstrekkelig premiereserve. Størrelsen av gjenværende bufferfond for hver kontrakt legges til grunn ved fordelingen.

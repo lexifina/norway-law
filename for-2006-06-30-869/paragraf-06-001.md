@@ -1,0 +1,2 @@
+# § 6-1. Flerårig avkastningsgaranti for særskilt investeringsportefølje
+I avtale etter foretakspensjonsloven § 11-1 eller forsikringsvirksomhetsloven § 4-15 om at midlene i en kollektiv pensjonsordning med kontraktsfastsatte ytelser skal forvaltes i en særskilt investeringsportefølje, kan det fastsettes at livsforsikringsforetaket eller pensjonskassen garanterer at avkastningen av investeringsporteføljen over et bestemt antall år, minst skal ligge på det nivå avtalen angir. Slik garanti kan ikke dekke en periode som overstiger fem år.

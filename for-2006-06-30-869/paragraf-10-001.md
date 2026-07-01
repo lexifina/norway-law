@@ -1,0 +1,2 @@
+# § 10-1. Beregning etter forsikringsvirksomhetsloven § 6-7
+Ved beregning etter forsikringsvirksomhetsloven § 6-7 av midler knyttet til den kontrakt som skal flyttes, skal avkastning frem til beregningstidspunktet etter § 6-7 tredje ledd tilordnes kontrakten og disponeres etter reglene i forsikringsvirksomhetsloven § 3-13 første ledd, jf. § 2-6, eller i tilfelle etter § 3-16 annet og tredje ledd, jf. § 4-2 og § 7-1 i forskriften her.

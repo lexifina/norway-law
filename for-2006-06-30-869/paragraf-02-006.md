@@ -1,0 +1,3 @@
+# § 2-6. Fripoliser, pensjonsbevis og pensjonskapitalbevis. Engangsbetalte kontrakter
+Foretaket skal ha særskilt pristariff for forvaltning og administrasjon av fripoliser, pensjonsbevis og pensjonskapitalbevis med kontraktsfastsatte ytelser til bruk ved beregning av premiereserve for slike kontrakter, jf. § 5-2. Tilsvarende gjelder for engangsbetalte kontrakter.
+Foretaket kan hvert år kreve vederlag for forvaltning og administrasjon av fripoliser, pensjonsbevis og pensjonskapitalbevis med særskilte investeringsporteføljer. § 2-2 første ledd tredje punktum og fjerde ledd og § 2-4 første ledd gjelder tilsvarende.
