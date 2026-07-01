@@ -1,0 +1,3 @@
+# § 15. Retting og sletting
+Etter at en journalnedtegnelse er signert, kan den bare endres etter reglene om retting og sletting i helsepersonelloven § 42, § 43 og § 44. Retting og sletting skal som hovedregel utføres av den som har signert opplysningene. Dersom slik retting eller sletting vanskelig kan gjøres av helsepersonellet som har signert opplysningene, kan retting eller sletting gjøres av helsepersonell utpekt av den dataansvarlige.
+Dersom krav om retting eller sletting avslås, skal pasienten orienteres om klageadgangen, jf. helsepersonelloven § 42 andre ledd, § 43 tredje ledd og § 44 andre punktum.
