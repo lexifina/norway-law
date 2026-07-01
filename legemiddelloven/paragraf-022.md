@@ -1,0 +1,3 @@
+# § 22
+Kongen fastsetter hvilke stoffer, droger, planter, sopper og blandinger (narkotika) som skal komme inn under bestemmelsene i dette kapittel og gir forskrifter om tilvirkning, omsetning (salg, kjøp, annen overdragelse og mellommannsvirksomhet), innførsel, utførsel, gjennomførsel (transitt), utlevering, forsendelse og oppbevaring av disse, samt om dyrking av vekster som skal nyttes til fremstilling av narkotika.
+I forskriftene kan inntas forbud mot besittelse, bruk, tilvirkning, anskaffelse, omsetning, innførsel, utførsel og gjennomførsel av visse narkotika. Forskriftene skal gjelde også for frihavner, frilager og transittopplag.

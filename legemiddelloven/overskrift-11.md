@@ -1,0 +1,1 @@
+# Kap. IX. Forskjellige bestemmelser.

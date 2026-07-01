@@ -1,0 +1,6 @@
+# § 25a
+Kongen kan gi forskrifter om at det kreves særskilt godkjenning for import, eksport, transitt, tilvirkning, mottak, besittelse, håndtering og omsetning av stoffer som kan brukes ved illegal fremstilling av narkotika, for å hindre spredning av slike stoffer.
+Kongen kan gi forskrifter om krav til innholdet i søknad om godkjenning for import, eksport, transitt, tilvirkning, mottak, besittelse, håndtering og omsetning av stoffene, til innholdet i dokumenter som vedrører handelen, om merking og om rapporteringsplikt til kontrollmyndigheten på området.
+Kongen kan bestemme hvem som skal være kontrollmyndighet. Kontrollmyndigheten skal vurdere søknader om godkjenning og gjennomføre tilsyn.
+Ved søknad om lisens i henhold til forskrifter gitt i medhold av paragrafen her, skal det fremlegges politiattest for søker og ansvarlig medarbeider. Er søkeren en juridisk person, gjelder kravet om politiattest for virksomhetens daglige leder. Attesten skal være en uttømmende politiattest begrenset til overtredelser av narkotikalovgivningen.
+Det kan kreves gebyr for utstedelse av lisens eller for registrering i henhold til forskrifter gitt i medhold av paragrafen her. Størrelsen på gebyret fastsettes av departementet.

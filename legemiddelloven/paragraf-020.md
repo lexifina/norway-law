@@ -1,0 +1,4 @@
+# § 20
+Det er forbudt i reklame eller lignende, ved tekst eller bilder, direkte eller indirekte, å gi uttrykk for at stoff, droge eller preparat som ikke er legemiddel anbefales som middel til å forebygge, lege eller lindre sykdom, sykdomssymptomer eller smerter eller påvirke fysiologiske funksjoner hos mennesker eller dyr. Når særlige grunner foreligger, kan departementet gjøre unntak fra denne bestemmelse.
+Ved overtredelse av første ledd kan departementet pålegge tilvirkeren eller annonsøren å sørge for at en godkjent beriktigelse blir sendt ut eller offentliggjort på tilsvarende måte som den ulovlige reklamen.
+Blir det tross advarsel fortsatt drevet reklame for en vare i strid med bestemmelsene i første ledd, kan varen ved dom forbys solgt under navn som var brukt i den ulovlige reklamen.
