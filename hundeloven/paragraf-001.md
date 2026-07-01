@@ -1,0 +1,5 @@
+# § 1. Lovens formål. Forholdet til andre lover
+Loven har til formål å bidra til å fremme et aktsomt hundehold som ivaretar hensyn til sikkerhet, trygghet, alminnelig ro og orden.
+Enhver i det sivile samfunn har ansvaret innenfor lovgivningens ramme å utøve og legge til rette for et positivt og samfunnsgagnlig hundehold, til glede for samfunnet og den enkelte hundeholder.
+Hunder har egenverdi uavhengig av den nytteverdien de måtte ha for mennesker. Hunder skal behandles og bli ivaretatt på en slik måte som overensstemmer med og tar hensyn til deres natur og beskytter dem mot fare for unødige påkjenninger og belastninger. Det skal tas hensyn til de omstendigheter som er nødvendige for å forebygge at hunder kan forårsake skader eller ulemper i samfunnet. Loven skal fremme god dyrevelferd og respekt for og kunnskap om hunder.
+For hundeholdet gjelder også bestemmelser i annen lovgivning, bl.a. de alminnelige reglene i dyrevelferdsloven, matloven, reindriftsloven og granneloven, og dessuten særskilte regler om båndtvang med mer hjemlet i naturmangfoldloven, hundehold eller dyrehold f.eks. i husleieloven.

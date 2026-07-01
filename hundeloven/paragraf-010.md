@@ -1,0 +1,5 @@
+# § 10. Løse hunder
+Enhver kan oppta hund som er løs i strid med §§ 4, 6 eller 7, jf. § 9, eller med forskrift gitt i medhold av disse paragrafene. I utmark i jakttiden der jakt er lovlig, kan likevel bare rettighetshavere i området og politiet oppta løse hunder. Dersom hunden blir forsøkt fanget inn, skal den beskyttes mot fare for unødig belastninger, jf. lov om dyrevelferd § 3.
+Hunden skal leveres til hundeholderen dersom denne er til stede. Dette gjelder ikke dersom hundeholderen åpenbart ikke kan ta hånd om hunden på forsvarlig og lovlig måte. Hvis hunden ikke blir levert til hundeholderen, skal den snarest leveres til politiet.
+Unnlater hundeholderen å hente hunden innen rimelig tid, likevel ikke mindre enn en uke, etter at vedkommende er varslet personlig eller ved egnet kunngjøring, kan politiet selge, omplassere eller avlive hunden. Er det fastsatt krav om merking etter § 13, skal politiet søke å opprette direkte kontakt med den personen hunden er registrert på.
+Opptak og behandling av løse hunder etter paragrafen her skal skje i samsvar med reglene i lov om dyrevelferd.
