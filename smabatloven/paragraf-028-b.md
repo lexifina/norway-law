@@ -1,0 +1,2 @@
+# § 28 b. Tilbakekall av retten til å føre fritidsbåt m.v. på grunn av særlige forhold
+Dersom innehaveren av føreretten ikke er edruelig eller hans vandel for øvrig er slik at han ikke anses skikket til å føre fritidsbåt, kan politimesteren eller den han gir myndighet, tilbakekalle retten til å føre båtførerbevispliktig fritidsbåt for en bestemt tid, hvis hensynet til sjøsikkerheten, miljøet eller allmenne hensyn ellers krever det.
