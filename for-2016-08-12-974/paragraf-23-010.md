@@ -1,0 +1,4 @@
+# § 23-10. Fellesregler om gjennomføring av forhandlinger og dialog
+(1) Oppdragsgiveren skal behandle leverandørene likt i forhandlingene eller dialogen. Oppdragsgiveren kan ikke på en diskriminerende måte gi opplysninger som kan gi noen leverandører en fordel fremfor andre.
+(2) Under forhandlingene eller dialogen skal oppdragsgiveren ikke uten samtykke gi de øvrige leverandørene tilgang til løsninger eller andre fortrolige opplysninger som en leverandør har gitt. Et samtykke skal gjelde de bestemte opplysningene som oppdragsgiveren planlegger å gi tilgang til.
+(3) På forespørsel fra en berørt leverandør skal oppdragsgiveren snarest mulig, og senest 15 dager etter mottak av forespørselen, gi alle de berørte leverandørene en skriftlig meddelelse om gjennomføringen av forhandlingene eller dialogen.

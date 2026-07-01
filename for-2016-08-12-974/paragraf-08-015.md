@@ -1,0 +1,4 @@
+# § 8-15. Vedståelsesfrist
+(1) Oppdragsgiveren kan fastsette en vedståelsesfrist som angir hvor lenge tilbudene skal være bindende. Fristen skal ikke settes lenger enn det som er nødvendig.
+(2) Dersom oppdragsgiveren ikke har fastsatt en vedståelsesfrist, gjelder en frist på 30 dager regnet fra utløpet av tilbudsfristen.
+(3) Før utløpet av vedståelsesfristen kan oppdragsgiveren spørre leverandørene som har gitt tilbud, og som ikke er avvist og ikke har fått tilbudet sitt forkastet, om å forlenge fristen. Oppdragsgiveren kan også innen rimelig tid etter utløpet av fristen spørre disse leverandørene om å fastholde tilbudet. Vedståelsesfristen kan bare forlenges, og tilbudet bare fastholdes etter utløpet av fristen, når dette ikke fører til en vesentlig endring av grunnlaget for konkurransen eller leverandørens opprinnelige tilbud.

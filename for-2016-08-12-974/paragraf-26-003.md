@@ -1,0 +1,9 @@
+# § 26-3. Rammeavtaler med flere leverandører
+(1) Dersom en rammeavtale med flere leverandører fastsetter alle kontraktsvilkårene, skal oppdragsgiveren fastsette en fordelingsnøkkel for tildeling av kontrakter under rammeavtalen. Fordelingsnøkkelen skal være angitt i anskaffelsesdokumentene.
+(2) Dersom en rammeavtale med flere leverandører ikke fastsetter alle kontraktsvilkårene, skal oppdragsgiveren tildele kontrakter under rammeavtalen etter ny konkurranse mellom leverandørene.
+(3) Dersom en rammeavtale med flere leverandører fastsetter alle kontraktsvilkårene, kan oppdragsgiveren fastsette at han på nærmere spesifiserte vilkår likevel vil tildele kontrakter under rammeavtalen etter ny konkurranse mellom leverandørene. Der vilkårene for å gjenåpne konkurransen ikke er oppfylt, skal han tildele kontrakten i samsvar med prosedyren i første ledd.
+(4) Oppdragsgiveren skal gjenåpne konkurransen etter annet og tredje ledd på grunnlag av reglene som er angitt i anskaffelsesdokumentene for rammeavtalen. Dette kan være de samme reglene som ble brukt for å tildele rammeavtalen, eller andre regler. Oppdragsgiveren kan om nødvendig presisere reglene for å tilpasse dem til den bestemte kontrakten. Konkurransen skal gjennomføres på følgende måte:
+a) Oppdragsgiveren skal skriftlig kontakte leverandørene som er i stand til å gjennomføre kontrakten.
+b) Oppdragsgiveren skal fastsette en tilstrekkelig frist for mottak av tilbud. Ved fastsettelse av fristen skal oppdragsgiveren ta hensyn til kontraktens kompleksitet og tiden det tar for leverandørene å utarbeide tilbud.
+c) Leverandørene skal gi tilbud skriftlig, og oppdragsgiveren kan ikke åpne dem før utløpet av tilbudsfristen.
+d) Oppdragsgiveren skal tildele kontrakten til den leverandøren som har gitt det beste tilbudet på grunnlag av tildelingskriteriene angitt i anskaffelsesdokumentene for rammeavtalen.

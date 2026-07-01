@@ -1,0 +1,3 @@
+# § 21-4. Kunngjøring på kjøperprofil
+(1) Oppdragsgiveren kan opprette en kjøperprofil på sin internettside som kan inneholde opplysninger om hans anskaffelser, inkludert opplysninger om pågående konkurranser, planlagte anskaffelser, inngåtte kontrakter og avlyste konkurranser.
+(2) Når oppdragsgiveren bruker kjøperprofilen til å publisere veiledende kunngjøringer, jf. § 21-3 annet ledd, skal han publisere en kunngjøring av bruken av kjøperprofilen. Oppdragsgiveren kan ikke publisere veiledende kunngjøringer på sin kjøperprofil før den dagen kunngjøringen av bruken av kjøperprofilen sendes til TED-databasen. Oppdragsgiveren skal angi datoen for oversendelsen av kunngjøringen til TED-databasen på kjøperprofilen.

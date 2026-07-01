@@ -1,0 +1,6 @@
+# § 24-4. Utskiftning av underleverandører
+(1) Dersom oppdragsgiveren i løpet av konkurransen blir kjent med at en underleverandør er i en situasjon som nevnt i § 24-2 første ledd bokstav b til d eller annet ledd, skal han kreve at leverandøren skifter ut underleverandøren.
+(2) Dersom oppdragsgiveren i løpet av konkurransen blir kjent med at en underleverandør er i en situasjon som nevnt i § 24-2 tredje ledd, kan han kreve at leverandøren skifter ut underleverandøren.
+(3) Første og annet ledd gjelder tilsvarende for underleverandører som leverandøren engasjerer etter at kontrakt er inngått og som er i en situasjon som nevnt i § 24-2 første ledd bokstav b, annet eller tredje ledd, når oppdragsgiveren har krevd dokumentasjon for slike forhold etter fjerde ledd.
+(4) Dersom oppdragsgiveren ønsker å kontrollere om en underleverandør er i en situasjon som nevnt i § 24-2, kan han kreve at leverandøren fremlegger dokumentasjon etter § 24-7, jf. § 17-1. For underleverandører som blir engasjert etter at kontrakten er inngått, kan oppdragsgiveren kreve at leverandøren fremlegger attester eller annen dokumentasjon i stedet for egenerklæringer.
+(5) Dersom en leverandør støtter seg på kapasiteten til en underleverandør for å oppfylle kvalifikasjonskravene, jf. § 16-10, gjelder i stedet bestemmelsen i § 16-10 tredje ledd.

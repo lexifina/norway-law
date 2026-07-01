@@ -1,0 +1,4 @@
+# § 16-5. Krav til leverandørens tekniske og faglige kvalifikasjoner
+(1) Oppdragsgiveren kan bare stille krav som er relevante for å sikre at leverandøren har de tekniske og faglige kvalifikasjonene, inkludert menneskelige og tekniske ressurser og erfaringer, til å utføre kontrakten.
+(2) Ved anskaffelser av varer som inkluderer monterings- og installasjonsarbeid, tjenester eller bygge- og anleggsarbeider, kan oppdragsgiveren vurdere leverandørens faglige kvalifikasjoner på grunnlag av hans ferdigheter, effektivitet, erfaring og pålitelighet knyttet til utførelsen av slike tjenester og arbeider.
+(3) Ved konkurranse om innovasjonspartnerskap skal oppdragsgiveren særlig stille krav til leverandørens kvalifikasjoner innen forskning og utvikling, inkludert utvikling og gjennomføring av innovative løsninger.

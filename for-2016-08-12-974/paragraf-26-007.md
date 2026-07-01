@@ -1,0 +1,7 @@
+# § 26-7. Anskaffelser under en dynamisk innkjøpsordning
+(1) For hver anskaffelse under den dynamiske innkjøpsordningen skal oppdragsgiveren invitere alle leverandørene som er tatt opp i ordningen, til å gi tilbud, jf. § 23-2. Dersom ordningen er delt inn i kategorier, skal oppdragsgiveren bare invitere leverandørene som er tatt opp i kategorien som anskaffelsen gjelder.
+(2) Oppdragsgiveren kan ikke sende invitasjonen til å gi tilbud på den første anskaffelsen før han har vurdert alle søknadene om opptak i ordningen som han har mottatt innen fristen i § 26-6 annet ledd.
+(3) Fristen for mottak av tilbud skal være minst 10 dager fra den dagen invitasjonen ble sendt. Ikke-statlige oppdragsgivere kan fastsette en kortere frist i samarbeid med leverandørene som er tatt opp i ordningen, etter § 20-3 tredje ledd.
+(4) Oppdragsgiveren skal velge tilbud på grunnlag av tildelingskriteriene i kunngjøringen eller invitasjonen til å bekrefte interesse. Tildelingskriteriene kan presiseres i invitasjonen til å gi tilbud.
+(5) Oppdragsgiveren skal kunngjøre inngåelsen av kontrakten etter § 21-6 første ledd.
+(6) Oppdragsgiveren kan på et hvilket som helst tidspunkt kreve at leverandørene som er tatt opp i ordningen, leverer en oppdatert egenerklæring, jf. § 17-1, senest etter fem virkedager. Under hele ordningens varighet gjelder § 17-1 tredje til sjette ledd.

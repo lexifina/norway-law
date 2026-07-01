@@ -1,0 +1,2 @@
+# § 8-18. Intensjonskunngjøring
+Dersom oppdragsgiveren mener at han har hjemmel til å inngå en kontrakt uten å kunngjøre konkurransen i samsvar med § 8-17, kan han etter at valget av leverandør er besluttet, kunngjøre at kontrakten vil bli inngått ved å publisere en intensjonskunngjøring i Doffin. For kontrakter om særlige tjenester som overstiger EØS-terskelverdiene, gjelder reglene § 21-1 tilsvarende.

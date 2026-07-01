@@ -1,0 +1,1 @@
+# Fremgangsmåten ved avvisning
