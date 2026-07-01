@@ -1,0 +1,3 @@
+# § 3. (særlige rettigheter som omfattes av loven)
+Lovens regler om konsesjon gjelder også stiftelse og overdragelse av leierett og annen lignende bruksrett over fast eiendom med mindre retten er stiftet for en tid av høyst 10 år, uten adgang for brukeren til å kreve kontraktstiden forlenget ut over dette tidsrom. Det samme gjelder for andre rettigheter over fast eiendom som innebærer at eierens adgang til å rå over eiendommen eller til å få det økonomiske utbyttet av den blir vesentlig innskrenket. Stiftelse og overdragelse av utbyggingskontrakter av enhver art, herunder avtaler om fortrinnsrett til å foreta utbygging, medfører konsesjonsplikt uten hensyn til varighet.
+Fast eiendom kan ikke tas til brukelig pant for lengre tid enn 3 år uten konsesjon.

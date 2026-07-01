@@ -1,0 +1,2 @@
+# § 15 a. (konsesjonsrisiko)
+Er en søknad om konsesjon avslått, og avslaget helt eller delvis er begrunnet i at den avtalte prisen er for høy, kan avtalen om overdragelse ikke gjøres gjeldende mellom partene eller overfor offentlige myndigheter. Det samme gjelder når erververen er et selvstendig rettssubjekt som nevnt i § 9 tredje ledd første punktum, og avslaget helt eller delvis er begrunnet i eierformen.

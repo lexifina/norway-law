@@ -1,0 +1,4 @@
+# § 9 a. (priskontroll ved erverv av landbrukseiendom)
+Ved avgjørelse av en søknad om konsesjon på erverv av eiendom som skal nyttes til landbruksformål, skal det, i tillegg til momentene som er nevnt i § 9, legges særlig vekt på om den avtalte prisen tilgodeser en samfunnsmessig forsvarlig prisutvikling. For bebygd eiendom gjelder første punktum bare dersom eiendommen har mer enn 35 dekar fulldyrka og overflatedyrka jord, eller dersom den består av mer enn 500 dekar produktiv skog.
+Eieren av en eiendom som er omfattet av priskontroll etter første ledd, kan kreve en bindende forhåndsuttalelse fra konsesjonsmyndigheten om hvor høy pris som kan godtas.
+Departementet kan gi forskrift om at prisvurderingen etter første ledd skal unnlates ved erverv av bebygd eiendom med et brukbart bolighus, dersom den avtalte prisen ikke overstiger en fastsatt beløpsgrense.
