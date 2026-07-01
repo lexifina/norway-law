@@ -1,0 +1,7 @@
+# § 4-2. (Utenlandsforbindelser)
+For å eie eller drive utenlandsforbindelser som er omfattet av § 3-1, kreves særskilt konsesjon fra departementet. Konsesjon kan bare gis til den systemansvarlige etter § 6-1 eller til foretak hvor denne har bestemmende innflytelse. Ved vurderingen av om konsesjon bør gis, skal det legges vekt på prosjektets samfunnsøkonomiske lønnsomhet, forholdet til eventuelle konkurrerende prosjekter og transparente og ikke-diskriminerende hensyn for øvrig.
+Departementet kan i konsesjonen fastsette vilkår for handel som innebærer bruk av utenlandsforbindelsen. I konsesjonen kan det for øvrig settes andre vilkår som er påkrevet av allmenne hensyn. Krav som følger av EØS-avtalens regler om grensekryssende krafthandel, må være oppfylt.
+Konsesjon etter første ledd kan likevel gis til andre når forbindelsen er tilknyttet anlegg for produksjon eller forbruk av elektrisk energi til havs og krysser avgrensningslinjen mellom Norges kontinentalsokkel og en annen stats sokkel. Det samme gjelder for mindre utenlandsforbindelser under transmisjonsnettsnivå i grenseområder. For disse kan det gjøres en forenklet vurdering av om konsesjon bør gis, og vilkår i konsesjonen kan tilpasses disponeringen av forbindelsen i det aktuelle området.
+Når det er gitt konsesjon etter første ledd, skal reguleringsmyndigheten, innenfor rammene av konsesjonsvilkårene, ved enkeltvedtak
+a) fastsette eller godkjenne vilkår for tilgang til forbindelsen, eller
+b) fastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.

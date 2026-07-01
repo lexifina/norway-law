@@ -1,0 +1,5 @@
+# § 6-2. (Rasjonering)
+Departementet kan sette i verk rasjonering, herunder tvangsmessige leveringsinnskrenkninger eller rekvisisjon, når ekstraordinære forhold tilsier det.
+Departementet utpeker en rasjoneringsmyndighet som er ansvarlig for planlegging og administrativ gjennomføring av tiltak i forbindelse med rasjonering etter første ledd.
+Rasjoneringsmyndigheten kan delegere myndighet til å treffe vedtak i forbindelse med gjennomføring av rasjonering til Kraftforsyningens beredskapsorganisasjon (KBO). Kapittel VI om klage og omgjøring i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) gjelder ikke for enkeltvedtak som er truffet av rasjoneringsmyndigheten eller KBO i forbindelse med gjennomføring av rasjonering. For saker som behandles av KBO gjelder heller ikke forvaltningsloven kapittel II om ugildhet. Saker skal likevel forberedes og avgjøres etter en forsvarlig, saklig og nøytral saksbehandling.
+Departementet kan gi forskrift om virkemidler for å unngå kraftrasjonering, planlegging og gjennomføring av kraftrasjonering, rekvisisjon av kraft og tvangsmessige leveringsinnskrenkninger.

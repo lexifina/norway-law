@@ -1,0 +1,3 @@
+# § 10-5. (Straff)
+Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomt overtrer bestemmelser eller enkeltvedtak nevnt i § 10-7 første ledd nr. 1 til 3 og annet ledd nr. 1 til 3. Overtredelse av §§ 7-2 til 7-4 eller bestemmelser i kapittel 8 medfører likevel ikke straff. Departementet kan gi forskrift om at forsettlig eller uaktsom overtredelse av forskriften straffes på samme måte.
+Er det voldt fare for betydelig skade på mennesker, miljø eller eiendom, eller det forøvrig foreligger skjerpende omstendigheter, kan overtredelser etter første ledd straffes med fengsel inntil 2 år, om ikke strengere straffebud får anvendelse.

@@ -1,0 +1,2 @@
+# § 10-9. (Foreldelse)
+Adgangen til å treffe vedtak om overtredelsesgebyr eller inndragning av utbytte foreldes fem år etter at overtredelsen opphørte. Fristen avbrytes ved at departementet eller reguleringsmyndigheten gir skriftlig forhåndsvarsel om vedtak om overtredelsesgebyr eller inndragning av utbytte, eller på annen måte gir skriftlig varsel om at departementet eller reguleringsmyndigheten legger til grunn at det er sannsynlig at vedkommende har brutt regelverket.

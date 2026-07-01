@@ -1,0 +1,11 @@
+# § 1-3. (Definisjoner)
+Med elektrisk anlegg forstås i denne lov: Fellesbetegnelse på elektrisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, omforming, overføring og fordeling av elektrisk energi.
+Med fjernvarmeanlegg forstås i denne lov: Betegnelse på teknisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, overføring og fordeling av varmtvann eller annen varmebærer til eksterne forbrukere.
+Med integrert foretak forstås i denne lov: Foretak eller en gruppe av foretak som driver overføring, omforming eller fordeling av elektrisk energi (nettvirksomhet) i tillegg til annen virksomhet. En gruppe av foretak omfattes dersom en fysisk eller juridisk person kan utøve direkte eller indirekte kontroll med foretak i gruppen.
+Med bygning forstås i denne lov: En konstruksjon med tak og vegger som er varig forbundet med grunnen, der det brukes energi for å påvirke inneklimaet. Som bygning regnes også del av slik konstruksjon som er utformet eller endret for separat bruk.
+Med energikartlegging forstås en systematisk kartlegging av energibruken i et foretak med sikte på å få oversikt over mulige energieffektiviseringstiltak. Kartleggingen omfatter bygninger, industriprosesser, transport og andre aktiviteter.
+Med kontroll i tredje ledd og §§ 4-6 og 4-7 forstås i denne lov: Rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig:
+a) eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av dem
+b) rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
+Med rettigheter forstås i denne lov: stemmerettigheter, rett til utnevnelse av personer i styre, ledende stilling eller med fullmakt til å representere virksomheten utad, samt beholdning av majoritetsandel.
+Med omfattende oppgradering menes en oppgradering hvor kostnadene er høyere enn 50 prosent av investeringskostnadene for et nytt sammenlignbart anlegg. Installasjon av utstyr til oppsamling av CO2 med sikte på å lagre det geologisk, anses ikke som oppgradering i denne sammenheng.

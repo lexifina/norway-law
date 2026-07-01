@@ -1,0 +1,4 @@
+# § 9-5. Meldeplikt, rett til adgang og vilkår for tilgang)
+Beredskapsmyndigheten kan i forskrift fastsette krav om å melde igangsetting av arbeid for å bygge eller endre anlegg eller systemer som nevnt i § 9-2 første ledd.
+Alle som omfattes av dette kapittelet, plikter å gi beredskapsmyndigheten adgang til grunn, bygg, anlegg og lignende mot gyldig legitimasjon. Det samme gjelder adgang for politiet og militære myndigheter når dette har sammenheng med forberedelse til og gjennomføring av væpnet sikring.
+Beredskapsmyndigheten kan gi forskrift om at KBO-enheter kan kreve at personer som skal ha tilgang til anlegg eller annet som har vesentlig betydning for drift eller gjenoppretting av eller sikkerhet i produksjon, omforming, overføring, omsetning og fordeling av elektrisk energi eller fjernvarme, skal fremlegge en ordinær politiattest.

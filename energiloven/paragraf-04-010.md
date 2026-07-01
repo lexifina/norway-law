@@ -1,0 +1,6 @@
+# § 4-10. (Sertifisering som operatør av transmisjonssystem (TSO))
+Eier av anlegg i et transmisjonsnett skal søke reguleringsmyndigheten om sertifisering som operatør av transmisjonssystem. Reguleringsmyndigheten skal kontrollere at kravene etter § 4-8 er oppfylt.
+Eier av anlegg i et transmisjonsnett skal melde til reguleringsmyndigheten om enhver planlagt transaksjon som nødvendiggjør vurdering av kravene som følger av § 4-8 eller forskrift gitt i medhold av § 4-8.
+Reguleringsmyndigheten skal igangsette prosedyre for sertifisering ved mottatt melding, på eget initiativ eller ved begrunnet forespørsel fra EFTAs overvåkingsorgan. En avgjørelse skal fattes innen fire måneder etter at prosedyren ble igangsatt. Dersom det ikke foreligger en avgjørelse innen fire måneder, skal vedtak om sertifisering anses gitt.
+Reguleringsmyndigheten skal uten ugrunnet opphold underrette EFTAs overvåkingsorgan om vedtak om sertifisering eller stilltiende godkjennelse etter tredje ledd tredje punktum, og på forespørsel oversende relevant informasjon knyttet til sertifiseringen.
+Departementet kan gi forskrift om sertifisering, blant annet om utenlandsforbindelser og sertifisering for foretak som er hjemmehørende i stater utenfor EØS.

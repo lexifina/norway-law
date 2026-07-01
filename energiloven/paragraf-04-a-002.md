@@ -1,0 +1,4 @@
+# § 4 A-2. Informasjon om kostnader ved forbrukerens oppsigelse av kraftavtale
+Dersom en kraftavtale inneholder vilkår om kostnader ved oppsigelse som kraftleverandøren eller forbrukeren skal betale ved oppsigelse, skal det gis et regneeksempel i avtalevilkårene som viser hvordan kostnadene beregnes.
+Kraftleverandøren skal på forbrukerens anmodning kostnadsfritt og senest innen fem virkedager angi hvilken eventuell kostnad en oppsigelse av kraftavtalen vil utgjøre. Beregningen av kostnaden skal gis forbrukeren skriftlig og på en slik måte at opplysningene er tilgjengelige i fremtiden i uendret form. Beregningen av kostnaden er bindende for kraftleverandøren i 48 timer. Retten til informasjon etter første og annet punktum skal fremgå av avtalevilkårene.
+Departementet kan gi forskrift om hvordan regneeksempelet etter første ledd og beregningen av kostnaden etter annet ledd skal gis.
