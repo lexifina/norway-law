@@ -1,0 +1,3 @@
+# § 17. Bruk av motorvogn mv.
+For så vidt ikke annet følger av § 16, må motorvogn eller andre registreringspliktige kjøretøyer ikke brukes uten at de er meldt til registrering og påsatt lovlige kjennemerker og det er utferdiget vognkort. Vognkortet skal alltid følge med under bruken. Registreringspliktig kjøretøy som er avregistrert eller er uten lovlige kjennemerker, skal ikke være parkert utover 14 dager på offentlig veg eller privat veg skiltet med offentlig trafikkskilt.
+Eier av motorvogn eller den som på eierens vegne har rådighet over den, plikter å forvisse seg om at den som han lar bruke motorvognen, fyller vilkårene for å føre den.

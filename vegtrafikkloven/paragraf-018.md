@@ -1,0 +1,2 @@
+# § 18. Krav om alkolås ved transport mot vederlag
+Departementet kan fastsette i forskrift at det skal være montert alkolås i kjøretøy som benyttes ved transport mot vederlag, og gir nærmere bestemmelser om godkjenning, montering og kontroll av alkolåsen. Utgifter til anskaffelse, montering og kontroll av alkolåsen dekkes av den som driver transport mot vederlag. Departementet kan gi nærmere bestemmelser om ordningen, herunder bestemmelser om virkeområde, hvilke grupper kjøretøy som skal omfattes, og om pålegg om retting ved kontroll langs veg.

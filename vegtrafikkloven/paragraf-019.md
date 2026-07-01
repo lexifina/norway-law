@@ -1,0 +1,4 @@
+# § 19. Kontroll av kjøretøy
+Eier av kjøretøy eller den som på eierens vegne har rådighet over det, skal framstille kjøretøyet til kontroll når politiet eller Statens vegvesen krever det. Vedkommende skal også gi opplysninger om kjøretøyet når det kreves.
+Departementet kan i forskrift gi regler om kontroll av kjøretøy etter første ledd og om gebyr. Departementet kan i forskrift også gi regler om kontroll av kjøretøy langs veg og om kriterier for utvelgelse av kjøretøy til slik kontroll. I forskriften kan det gis nærmere regler om krav til kompetanse for kontrollører, herunder personell som gjennomfører foretakskontroll etter § 21, om krav til kontrollutstyr og om kontrollgebyr.
+Departementet kan i forskrift gi regler om at kjøretøyfabrikanter og deres kontaktpunkt skal gjøre tilgjengelig tekniske opplysninger om kjøretøy til bruk i kontroll av kjøretøy.

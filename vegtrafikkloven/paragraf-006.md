@@ -1,0 +1,7 @@
+# § 6. Fartsregler.
+Fører av kjøretøy skal avpasse farten etter sted, føre-, sikt- og trafikkforholdene slik at det ikke kan oppstå fare eller voldes ulempe for andre, og slik at annen trafikk blir minst mulig hindret eller forstyrret. Føreren skal alltid ha fullt herredømme over kjøretøyet.
+Dersom ikke annen fartsgrense er fastsatt ved offentlig trafikkskilt, må det i tettbygd strøk ikke kjøres fortere enn 50 km/t, og utenfor tettbygd strøk ikke fortere enn 80 km/t. Departementet kan delegere til Statens vegvesen eller i forskrift gi politiet eller kommunen myndighet til å avgjøre om et område skal regnes som tettbygd strøk etter denne lov, og fastsette grensene for det tettbygde strøk.
+I trafikkregler gitt i medhold av § 4 og skiltregler gitt i medhold av § 5 kan det fastsettes nærmere bestemmelser om fartsgrenser, herunder om lavere fartsgrense for bestemte grupper av motorvogner og lavere fartsgrense, for bestemt eller ubestemt tid, også av hensyn til miljøet.
+Departementet kan gi særlige regler om fartsgrenser for område utenfor veg, eller på veg stengt for alminnelig ferdsel.
+Departementet kan som forsøksordning sette lavere generelle fartsgrenser enn hva som er bestemt i andre ledd for bestemte områder og/eller for bestemte tider.
+Fartsgrensene gjelder ikke for konkurransekjøring, trening til konkurransekjøring eller annen organisert kjøring som med Statens vegvesens tillatelse holdes på særskilt bane eller veg som stenges for all annen trafikk. Statens vegvesen kan i tillatelsen stille vilkår i samsvar med lovens formål.

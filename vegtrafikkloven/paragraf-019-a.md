@@ -1,0 +1,3 @@
+# § 19 a. Periodisk kjøretøykontroll
+Periodisk kjøretøykontroll kan bare utføres av godkjente virksomheter med godkjente kontrollører og godkjent teknisk leder. For godkjenning må kontrollør og teknisk leder fremlegge ordinær politiattest for å vise at vedkommende er skikket til oppgaven.
+Departementet kan i forskrift gi regler om vilkår og overgangsordninger for godkjenning som nevnt i første ledd, om opplæringsvirksomhet, om godkjennings- og tilsynsmyndigheten og om gebyrer for godkjenning og tilsyn. Departementet kan i forskrift også gi regler om pålegg om retting, advarsel og tilbakekall av godkjenningen, om stansing av virksomheten og om tvangsmulkt.
