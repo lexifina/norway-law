@@ -1,0 +1,4 @@
+# § 17. Innkreving av tilbakebetalings- eller avkortingsbeløp
+Reindriftsmyndighetene kan kreve tilbakebetalt differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling etter § 15 eller avkorting etter § 16. Differansen kan også motregnes i senere tilskuddsutbetalinger.
+Krav fra reindriftsmyndighetene kan motregnes i tilskuddsutbetalinger til tilskuddsmottakeren.
+Dersom tilskuddsmottakeren ikke var i aktsom god tro om utbetalingen, kan reindriftsmyndighetene kreve renter fra det tidspunkt kravet om tilbakebetaling er kommet fram til mottaker. Ved grov uaktsomhet eller forsett kan reindriftsmyndighetene kreve renter fra tidspunktet da det urettmessige tilskuddet ble utbetalt. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av § 3 i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.

@@ -1,0 +1,2 @@
+# § 10a. Tilskudd som kompensasjon for veibruksavgift på bensin
+Reinlag eller leder av siidaandel kan innvilges tilskudd som kompensasjon for veibruksavgift på bensin. Tilskuddet beregnes på grunnlag av rein som er slaktet og rapportert i samsvar med forskrift om rapportering av slaktet rein og lagerbeholdning. Beregningen skjer på bakgrunn av følgende satser:SatsSlakteuttak (kilo)Tilskudd (kroner)1500-9994 00021000-24998 00032500-499915 00045000 og over20 000
