@@ -1,0 +1,3 @@
+# § 2-4. Beredskapsplanlegging
+KBO-enheter skal ha et oppdatert beredskapsplanverk tilpasset virksomhetens art og omfang. Planverket skal bygge på risikovurderinger og skal omfatte alle beredskapstiltak etter denne forskriften.
+Beredskapsplanleggingen skal blant annet omfatte forberedelser og tiltak det kan bli nødvendig å iverksette ved store ulykker, vesentlige skader, trusselsituasjoner, rasjonering og andre ekstraordinære situasjoner som kan påvirke kraftforsyningens drift og sikkerhet. Beredskapsplanverket skal, innenfor rammene av kapittel 6 om informasjonssikkerhet, samordnes med berørte myndigheter og andre relevante virksomheter, deriblant andre KBO-enheter.
