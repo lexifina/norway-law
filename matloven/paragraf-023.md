@@ -1,0 +1,5 @@
+# § 23. Tilsyn og vedtak
+Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene gitt i eller i medhold av denne loven, herunder forby import, eksport og omsetning eller pålegge tilbaketrekning fra markedet, isolasjon, avlivning, destruksjon, kassasjon, båndlegging, merking eller særskilt behandling. Kongen kan delegere myndighet til andre offentlige eller private rettssubjekter og gi bestemmelser om hvem som er klageinstans i slike tilfeller.
+Dersom påleggene ikke etterkommes, det er ukjent hvem som er ansvarlig, eller det er nødvendig å få gjennomført tiltak raskt, kan tilsynsmyndigheten selv gjennomføre tiltak som nevnt i første ledd. Tiltak kan gjennomføres for den ansvarliges regning. Skyldige beløp er tvangsgrunnlag for utlegg.
+Mattilsynet kan av hensyn til Norges internasjonale forpliktelser fastsette, endre og oppheve tidsbegrensede forskrifter uten forutgående høring, og kunngjøre forskrifter på særskilt måte.
+Offentlige myndigheter plikter på anmodning fra tilsynsmyndigheten å gi nødvendige opplysninger uten hinder av taushetsplikt. Politi, tollvesen, kystvakt og kommuner skal på anmodning bistå tilsynsmyndigheten.
