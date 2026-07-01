@@ -1,0 +1,3 @@
+# § 42
+Blir en veksel ikke forevist til betaling innen den i § 38 nevnte frist, har enhver skyldner rett til, for vekselinnehaverens regning og risiko, å deponere beløpet enten i Norges Bank eller hos politimesteren på det sted hvor skyldneren bor eller har sin forretning, eller hvor vekslen skal betales.
+Det deponerte beløp skal være ledsaget av en av deponenten underskrevet nøiaktig redegjørelse for vekslens innhold. Beløpet utbetales til den som på behørig måte godtgjør sin rett til å få betaling efter vekslen. Har der ikke innen seks måneder meldt sig nogen med krav på å få beløpet utbetalt efter vekslen, kan det også utbetales til deponenten hvis han krever det.

@@ -1,0 +1,7 @@
+# § 44
+Nektelse av aksept eller betaling skal godtgjøres ved offentlig bevidnelse (protest for manglende aksept eller for manglende betaling).
+Protest for manglende aksept skal optas innen den frist som er fastsatt for vekslens forevisning til aksept. Hvis den første forevisning i det tilfelle som omhandles i § 24 første ledd, har funnet sted på fristens siste dag, kan protesten ennu optas dagen efter.
+Protest for manglende betaling skal, når det gjelder en veksel som er betalbar på en bestemt dag eller en viss tid efter utstedelsen eller efter sikt, optas en av de to første virkedager efter forfallsdag. Med hensyn til protest for manglende betaling av en veksel som lyder på betaling ved sikt, skal det som i forrige ledd er bestemt om protest for manglende aksept, få tilsvarende anvendelse.
+Protest for manglende aksept fritar for forevisning til betaling og for protest for manglende betaling.
+Hvis det ved tvangsforretning hos trassaten er funnet at han mangler midler til betaling av gjeld, eller han har innstilt sine betalinger kan vekselinnehaveren ikke søke regress før han har forevist vekslen for trassaten til betaling og opptatt protest.
+Hvis trassaten er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, er det for iverksettelse av regress tilstrekkelig at vekselinnehaveren legger frem rettens bevitnelse for at konkurs eller gjeldsforhandling er åpnet. Det samme gjelder hvis en trassent, som har forbudt vekselens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.

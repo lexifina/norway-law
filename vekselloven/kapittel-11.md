@@ -1,0 +1,1 @@
+# Kapitel XI. Om foreldelse.

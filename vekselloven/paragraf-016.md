@@ -1,0 +1,3 @@
+# § 16
+Den som har en veksel ihende, anses som rettmessig vekselinnehaver når han godtgjør sin rett ved en ubrutt rekke av endossementer, selv om det siste endossement er in blanco. Utstrøkne endossementer anses i denne forbindelse som uskrevne. Når der efter et blankoendossement følger et annet endossement, antas den som har undertegnet dette, å ha erhvervet vekslen ved blankoendossementet.
+Hvis en veksel, likegyldig på hvilken måte, er kommet bort fra besidderen, er en innehaver som godtgjør sin rett på den måte som er angitt i foregående ledd, ikke pliktig til å utlevere vekslen, medmindre han ved erhvervelsen var i ond tro eller utviste grov uaktsomhet.
