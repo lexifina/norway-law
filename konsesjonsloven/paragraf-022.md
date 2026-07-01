@@ -1,0 +1,6 @@
+# § 22. (overgangsbestemmelser)
+Forskrifter fastsatt med hjemmel i lov 31. mai 1974 nr. 19 § 5 tredje ledd skal gjelde til de blir endret eller opphevet. Forskriftene skal forstås i samsvar med de nye reglene i § 7 i denne loven, jf. § 4 første ledd nr. 4.
+Dersom konsesjonssaken ikke er endelig avgjort når loven trer i kraft, skal unntakene fra konsesjonsplikt på grunnlag av eiendommens karakter og erververens stilling i §§ 4 og 5 gjelde selv om ervervet av eiendommen er skjedd før loven trådte i kraft.
+Dersom konsesjonssaken ikke er endelig avgjort når loven trer i kraft, skal erverv av aksjer eller parter i selskap med begrenset ansvar som omfattes av bestemmelsen om konsesjonsplikt etter tidligere konsesjonslov § 4, følge de nye bestemmelsene selv om ervervet av eiendommen er skjedd før loven trådte i kraft.
+Konsesjonssaken anses som endelig avgjort i forhold til annet og tredje ledd dersom klage ikke er mottatt innen klagefristens utløp, eller dersom forvaltningen har fattet avgjørelse i klagesaken.
+Ved lovbestemt bo- og driveplikt som har oppstått etter tidligere konsesjonslov § 6 første ledd nr. 1, får den nye bestemmelsen i § 5 annet ledd anvendelse selv om eiendommen er ervervet før loven trådte i kraft.

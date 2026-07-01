@@ -1,0 +1,3 @@
+# § 19. (oversittelse av fastsatt frist)
+Oversittes en frist som er fastsatt etter § 18 for avvikling av eiendomserverv eller panthavers tvangsbruk, kan departementet uten varsel la eiendommen selge gjennom namsmyndighetene etter reglene om tvangssalg så langt de passer. Bestemmelsene i tvangsfullbyrdelsesloven § 11-20 om det minste bud som kan stadfestes, gjelder ikke i slike tilfeller.
+Oversittes en frist som er fastsatt etter § 18 når det gjelder rettigheter som nevnt i § 3 første ledd, kan departementet enten la rettigheten tvangsselge etter reglene i første ledd eller med bindende virkning erklære rettigheten for bortfalt.
