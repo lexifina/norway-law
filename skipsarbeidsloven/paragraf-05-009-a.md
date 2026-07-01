@@ -1,0 +1,2 @@
+# § 5-9 a. Vern mot opphør av arbeidsforhold ved fangenskap som følge av piratvirksomhet eller væpnet ran
+Arbeidsforholdet skal fortsette dersom arbeidstakeren holdes i fangenskap på eller utenfor skipet som følge av piratvirksomhet eller væpnet ran mot skipet. Det kan ikke bringes til opphør før arbeidstakeren har blitt løslatt og fått fri hjemreise. Dette gjelder også hvis arbeidsavtalens gyldighetsperiode er utløpt eller det er meldt oppsigelse av arbeidsavtalen i forkant av eller under fangenskapet.

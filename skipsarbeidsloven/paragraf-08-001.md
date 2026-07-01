@@ -1,0 +1,6 @@
+# § 8-1. Omsorgsplikt ved sykdom og skade
+(1) Rederiet skal sørge for forsvarlig sykepleie, herunder legehjelp, legemidler og underhold, om bord eller i land, dersom den som har sitt arbeid om bord er blitt syk eller er kommet til skade. Vedkommende skal så vidt mulig undersøkes av lege, dersom det er grunn til å tro at sykdommen eller skaden innebærer fare for vedkommende selv eller andre om bord. Må det anses påkrevet, skal vedkommende bringes i land.
+(2) Rederiets plikt til å sørge for sykepleie varer så lenge vedkommende er i tjeneste om bord. Er vedkommende fortsatt syk eller skadet ved fratreden, gjelder det samme i inntil 16 uker etter fratreden, med mindre vedkommende er medlem av folketrygden eller en tilsvarende offentlig trygdeordning i sitt hjemland som overtar forpleiningsplikten.
+(3) Rederiet skal sørge for at omsorgen overtas av en norsk utenrikstjenesteansatt dersom den som har sitt arbeid om bord, blir etterlatt i utlandet på grunn av skade eller sykdom. Er dette ikke praktisk mulig, skal rederiet sørge for at det på annen måte skaffes forsvarlig pleie, og underrette de nærmeste pårørende dersom vedkommende ber om det.
+(4) Skipsføreren skal medvirke til gjennomføringen av omsorgsplikten etter denne paragraf.
+(5) Departementet kan gi forskrifter om det nærmere innhold og omfang av omsorgsplikten etter denne paragraf.

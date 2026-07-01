@@ -1,0 +1,3 @@
+# § 5-11. Virkninger av usaklig oppsigelse
+(1) Finner retten at oppsigelsen er i strid med §§ 5-5 til 5-9, skal oppsigelsen kjennes ugyldig dersom arbeidstakeren krever det. I særlige tilfeller kan retten likevel, etter påstand fra arbeidsgiver, bestemme at arbeidsforholdet skal opphøre dersom den etter avveining av partenes interesser finner at det vil være åpenbart urimelig at arbeidsforholdet fortsetter.
+(2) Arbeidstaker kan kreve erstatning dersom oppsigelsen er i strid med §§ 5-5 til 5-9. Erstatningen fastsettes til det beløp som retten finner rimelig under hensyn til det økonomiske tap, arbeidsgivers og arbeidstakers forhold og omstendighetene for øvrig.

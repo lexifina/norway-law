@@ -1,0 +1,2 @@
+# § 12-4. Straff
+Med bøter eller fengsel inntil 6 måneder straffes den som på vegne av arbeidsgiveren eller rederiet forsettlig eller grovt uaktsomt lar en arbeidstaker være ansatt på vesentlig andre vilkår enn de som fremgår av loven, forskrifter gitt i medhold av loven eller tariffavtale som gjelder for arbeidstakeren. Ved vurderingen av om en overtredelse av første punktum er vesentlig, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.

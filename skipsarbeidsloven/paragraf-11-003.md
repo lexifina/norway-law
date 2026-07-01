@@ -1,0 +1,2 @@
+# § 11-3. Fortrolige opplysninger
+Dersom virksomhetens behov tilsier at bestemte opplysninger ikke bør gis videre, kan rederiet pålegge arbeidstakernes representanter og eventuelle rådgivere taushetsplikt. Arbeidsgiver kan i særlige tilfeller unnlate å gi informasjon eller gjennomføre drøfting dersom det på det aktuelle tidspunktet åpenbart vil være til betydelig skade for virksomheten at opplysningene blir kjent.
