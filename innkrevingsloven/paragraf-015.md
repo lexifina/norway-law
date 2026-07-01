@@ -1,0 +1,6 @@
+# § 15. Renter og gebyr mv. ved forsinket betaling
+(1) For krav hvor det ikke er fastsatt forsinkelsesreaksjon ved forsinket betaling i lov eller forskrift, påløper det forsinkelsesrente lik den til enhver tid gjeldende rente fastsatt i forskrift med hjemmel i forsinkelsesrenteloven § 3 første ledd første punktum.
+(2) Rente etter første ledd løper fra 30 dager etter at det er gitt varsel om at rente vil påløpe ved forsinket betaling.
+(3) Departementet kan i forskrift gi nærmere regler til utfylling og gjennomføring av første og andre ledd. Det kan blant annet fastsettes at det for enkelte kravstyper ikke skal løpe rente, at rente skal løpe etter lavere sats enn det som følger av første ledd, og at rente skal løpe i tillegg til annen forsinkelsesreaksjon i annen lov eller forskrift. For krav med løpende forfall kan det også bestemmes at renten løper fra et tidligere tidspunkt enn nevnt i andre ledd.
+(4) Dersom særlige hensyn gjør seg gjeldende for enkelte kravstyper, kan departementet i forskrift bestemme at det i stedet for eller i tillegg til renter, påløper gebyr ved forsinket betaling. Gebyr som påløper med hjemmel i første punktum, er tvangsgrunnlag for utlegg når hovedkravet har tvangsgrunnlag.
+(5) Det skal ikke svares forsinkelsesrente eller påløpe gebyr dersom forsinkelsen er fremkalt ved forhold på kreditors side.

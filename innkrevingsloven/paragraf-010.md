@@ -1,0 +1,2 @@
+# § 10. Skyldnerens opplysningsplikt
+Etter krav fra Innkrevingsmyndigheten plikter skyldneren å gi opplysninger som kan ha betydning for innkrevingen. Innkrevingsmyndigheten kan kreve at skyldneren dokumenterer opplysningene ved for eksempel å gi innsyn i, legge frem, sammenstille, utlevere eller sende inn erklæringer, regnskapsmateriale med bilag, kontrakter, korrespondanse, styreprotokoller, elektroniske programmer og programsystemer.

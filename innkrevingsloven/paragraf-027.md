@@ -1,0 +1,2 @@
+# § 27. Utleggstrekk for bidragsforpliktelser
+Utleggstrekk kan besluttes for uforfalte bidragsforpliktelser når skyldneren har misligholdt sin bidragsplikt og ikke stiller sikkerhet. §§ 23, 25 og 26 gjelder tilsvarende. Hvor bidragsforpliktelser allerede deltar i et utleggstrekk, kan departementet i forskrift gi regler om at tvangsfullbyrdelsesloven §§ 4-4 og 4-18, og denne lov §§ 25 og 26, ikke skal gjelde ved innmelding av ytterligere bidragsforpliktelser i trekket.

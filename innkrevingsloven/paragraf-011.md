@@ -1,0 +1,11 @@
+# § 11. Tredjeparters opplysningsplikt
+(1) Enhver tredjepart plikter etter krav fra Innkrevingsmyndigheten å gi opplysninger som kan ha betydning for innkrevingen. I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger om
+a) krav som skyldneren har eller har hatt mot dem, og om hvordan kravet har falt bort
+b) formuesgoder som skyldneren eier, og som de har eller har hatt i sin besittelse, og om hvordan besittelsen opphørte.
+(2) Departementet kan gi forskrift om at tredjeparter ukrevet skal gi opplysninger som kan ha betydning for innkrevingen, til Innkrevingsmyndigheten. Dette gjelder ikke fysiske personer i den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet.
+(3) Departementet kan gi forskrift om at offentlige myndigheter, offentlige innretninger mv. og deres ansatte skal gi opplysninger som kan ha betydning for innkrevingen, uten hinder av taushetsplikt. Departementet kan også gi forskrift om at opplysninger etter første punktum skal gis ukrevet.
+(4) Advokater og andre tredjeparter plikter, uten hinder av lovbestemt taushetsplikt, etter krav fra Innkrevingsmyndigheten å gi opplysninger om pengeoverføringer, innskudd og hvem som er parter i pengeoverføringene, på deres konti tilhørende skyldneren.
+(5) Innkrevingsmyndigheten kan kreve at folkeregistermyndigheten, uten hinder av taushetsplikt, skal gi opplysninger som kan ha betydning for Innkrevingsmyndighetens arbeid etter denne loven.
+(6) Innkrevingsmyndigheten kan kreve at tredjeparten dokumenterer opplysningene ved for eksempel å gi innsyn i, legge frem, sammenstille, utlevere eller sende inn erklæringer, regnskapsmateriale med bilag, kontrakter, korrespondanse, styreprotokoller, elektroniske programmer og programsystemer, eller i nødvendig utstrekning gi utskrift av protokoll, kopi av dokumenter mv.
+(7) Innkrevingsmyndigheten kan uten hinder av taushetsplikt innhente og utlevere opplysninger om skyldnerens inntekts- og formuesforhold og om besluttet utlegg og avregning til bruk for andre namsmyndigheters tvangsfullbyrdelse.
+(8) Departementet kan i forskrift gi nærmere regler om hvordan opplysninger skal gis, signatur, leveringsfrist og leveringssted.
