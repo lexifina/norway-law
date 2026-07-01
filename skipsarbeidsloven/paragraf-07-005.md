@@ -1,0 +1,5 @@
+# § 7-5. Foreldrepermisjon
+(1) Foreldre har rett til permisjon etter at barnet er født i til sammen 12 måneder, medregnet permisjon etter reglene i §§ 7-2 og 7-4. Foreldrene har uansett rett til permisjon i det tidsrom det ytes foreldrepenger fra folketrygden.
+(2) Hver av foreldrene har i tillegg til permisjon etter første ledd rett til 12 måneder permisjon, som må tas ut umiddelbart etter foreldrenes permisjon etter første ledd. Arbeidstaker som har delvis permisjon etter § 7-6 har likevel ikke rett til permisjon etter dette leddet.
+(3) Rett til permisjon etter første ledd kan utøves av en annen som har omsorg for barnet, dersom ikke begge foreldrene har omsorg for barnet. Arbeidstaker som er alene om omsorgen for barnet har rett til to års permisjon etter annet ledd.
+(4) Adoptivforeldre og fosterforeldre har rett til permisjon etter reglene i denne paragraf når omsorgen for barnet overtas. Det samme gjelder arbeidstaker som har eller får tildelt foreldreansvar når den andre av foreldrene dør, og som har hatt mindre enn vanlig samvær med barnet. Retten til permisjon gjelder ikke ved stebarnsadopsjon eller hvis barnet er over 15 år.

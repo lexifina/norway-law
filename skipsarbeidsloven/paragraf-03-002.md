@@ -1,0 +1,4 @@
+# § 3-2. Ansettelse med prøvetid
+(1) Prøvetid på inntil seks måneder kan avtales skriftlig. Ved midlertidig ansettelse kan prøvetiden ikke overstige halvparten av ansettelsesforholdets varighet.
+(2) Har arbeidstakeren vært fraværende fra arbeidet i prøvetiden og dette ikke skyldes arbeidsgiveren, kan prøvetiden etter første ledd forlenges med en periode som tilsvarer lengden av fraværet. Forlengelse kan bare skje dersom arbeidsgiver har orientert arbeidstaker skriftlig både om adgangen til forlengelse ved ansettelsen og om forlengelsen innen utløpet av prøveperioden.
+(3) Det kan ikke avtales ny prøvetid dersom arbeidstaker skal fortsette i samme stilling eller i en stilling som i det vesentlige er likeartet stillingen arbeidstakeren har hatt i samme virksomhet. Ved fast ansettelse kan ny prøvetid likevel avtales dersom arbeidstakerens tidligere ansettelsestid og ny prøvetid samlet ikke overstiger seks måneder.
