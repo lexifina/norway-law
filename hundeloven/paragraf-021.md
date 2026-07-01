@@ -1,0 +1,2 @@
+# § 21. Krav til godkjenning for å ha å gjøre med bestemte hundetyper
+Kongen kan i forskrift sette vilkår for å innføre, holde eller drive avl med bestemte hundetyper eller blandinger av bestemte hundetyper. I forskriften kan det settes krav om godkjenning og om krav til avlagte prøver eller tester, om skjerpet båndtvang, begrensning i antall hunder, hundeholderens alder, vandel, ansvarsforsikring, og gebyr for å dekke kostnader mv. Setter forskriften krav om godkjenning, kan myndighet til å gi godkjenning delegeres til en privat organisasjon.

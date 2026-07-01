@@ -1,0 +1,3 @@
+# § 15. Hund som utgjør klar fare for husdyr og tamrein
+En hund som uten ledsager går løs i utmark eller landbruksområder i strid med bestemmelser om båndtvang og utgjør en fare for husdyr og tamrein, kan opptas av grunneieren, festeren, forpakteren, beiteberettigede, en berørt reineier eller noen som opptrer på vegne av disse.
+Dersom det ikke lar seg gjøre å oppta hunden eller få politiet til stedet så raskt som situasjonen krever, og hunden utgjør en klar fare, kan vedkommende gjøre det inngrep mot hunden som fremstår som nødvendig for å avverge skade, herunder avliving, så sant inngrepet ikke går lenger enn nødvendig og ikke utover det forsvarlige.
