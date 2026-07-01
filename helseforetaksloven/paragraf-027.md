@@ -1,0 +1,4 @@
+# § 27. Vedtaksførhet og flertallskrav
+Styret har vedtakskompetanse når mer enn halvparten av samtlige styremedlemmer er til stede. Styret kan ikke treffe beslutning med mindre alle medlemmer av styret så vidt mulig er gitt mulighet til å delta i behandlingen av saken. Har et styremedlem forfall og det finnes varamedlem, skal varamedlemmet gis mulighet til å møte.
+Som styrets beslutning gjelder det som flertallet av de møtende har stemt for, dersom ikke annet er fastsatt i vedtektene. Ved stemmelikhet er møtelederens stemme avgjørende. De som stemmer for et forslag, må likevel utgjøre mer enn en tredel av samtlige styremedlemmer for at forslaget skal anses som vedtatt.
+Ved valg og ansettelser anses den valgt eller ansatt som får flest stemmer. Styret kan på forhånd bestemme at det skal holdes ny avstemning dersom ingen får flertall av de avgitte stemmene. Står stemmetallet likt ved valg av styreleder, nestleder eller møteleder, avgjøres valget ved loddtrekning.

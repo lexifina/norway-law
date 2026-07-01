@@ -1,0 +1,6 @@
+# § 50. Omdanning
+Fylkeskommunal, kommunal og statlig virksomhet eller del av slik virksomhet kan overføres til regionalt helseforetak eller helseforetak ved at eiendeler, rettigheter, herunder offentlige tillatelser, og forpliktelser som er knyttet til virksomheten, overføres som en helhet til foretaket.
+Overføring til foretaket av forpliktelser knyttet til fylkeskommunen, kommunen og staten har frigjørende virkning for denne. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.
+Det skal ikke betales dokumentavgift etter § 6 i lov 12. desember 1975 nr. 59 om dokumentavgift, omregistreringsavgift etter § 1 i lov 19. juni 1959 nr. 2 om avgifter vedrørende kjøretøy og båter eller rettsgebyr etter § 21 i lov 17. desember 1982 nr. 86 om rettsgebyr i forbindelse med omdanninger i medhold av denne bestemmelsen.
+Det som er bestemt i paragrafen her, gjelder tilsvarende ved overføring av virksomhet til foretak etter loven her fra heleid fylkeskommunalt, kommunalt og statlig selskap eller foretak.
+Bestemmelsene i paragrafen her gjelder også ved overføring av virksomhet mellom foretak etter loven her. Forrige punktum medfører ingen begrensninger i ansvaret etter § 7.

@@ -1,0 +1,4 @@
+# § 42. Ansvarsform for virksomhet eid av foretak
+Foretak kan ikke eie hele eller deler av virksomhet som yter spesialisthelsetjenester og som er organisert med begrenset ansvar. Virksomhet som yter spesialisthelsetjenester skal organiseres som helseforetak.
+Foretak kan ikke eie virksomhet som yter spesialisthelsetjenester sammen med andre enn foretak. Dersom flere foretak eier virksomhet som yter spesialisthelsetjenester sammen, skal virksomheten organiseres som helseforetak eller som ansvarlig selskap i medhold av selskapsloven.
+Når det er egnet til å fremme foretakets formål, kan foretak eie virksomhet som ikke yter spesialisthelsetjenester alene eller sammen med andre. Kun virksomhet som er en nødvendig og sentral forutsetning for at det kan ytes spesialisthelsetjenester, kan organiseres som helseforetak. Annen virksomhet skal organiseres som selskaper med begrenset ansvar.

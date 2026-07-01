@@ -1,0 +1,2 @@
+# § 16a. Departementets innhenting av opplysninger fra regionale helseforetak
+Departementet skal holde seg orientert om foretakenes virksomhet og om virksomheten drives i samsvar med de krav som er stilt i foretaksmøter og de vilkår som er satt for tildeling av bevilgning. Departementet skal innhente skriftlige opplysninger fra regionale helseforetak og avholde rapporteringsmøter. Rapporteringsmøte kan holdes utenom foretaksmøte.

@@ -1,0 +1,3 @@
+# § 7. Ansvar for foretakets forpliktelser
+Eier hefter ubegrenset for foretakets forpliktelser. Når flere foretak eier virksomhet sammen, blir samtlige eiere ansvarlige for virksomhetens forpliktelser.
+En fordringshaver må først gjøre krav gjeldende mot foretaket. En fordringshaver som har krevd foretaket for klar og forfalt gjeld som ikke er betryggende sikret, kan gjøre kravet gjeldende mot en eier. For å gjøre kravet gjeldende mot en eier må fordringshaveren tidligst fire uker etter første påkrav sende ytterligere et påkrav til den opprinnelige skyldneren med betalingsfrist på minst fire uker, og betaling må ikke være mottatt innen utløpet av fristen.

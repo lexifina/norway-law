@@ -1,0 +1,2 @@
+# § 2a. Regionale helseforetaks ansvar og oppgaver
+Regionale helseforetak har et overordnet ansvar for å iverksette den nasjonale helsepolitikken i helseregionen. Regionale helseforetak skal planlegge, organisere, styre og samordne virksomhetene i helseforetakene som de eier. I forbindelse med langsiktig planlegging skal regionale helseforetak vurdere om deler av tjenestene skal ytes gjennom inngåelse av avtale med private eller offentlige virksomheter som de ikke eier selv.
