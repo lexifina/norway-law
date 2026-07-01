@@ -1,0 +1,2 @@
+# § 17. Pålegg
+Departementet kan gi oppdragsgiveren pålegg som er nødvendige for å sikre oppfyllelse av Norges forpliktelser etter EØS-avtalen, WTO-avtalen om offentlige innkjøp eller andre internasjonale avtaler som Norge er forpliktet av. For å sikre at plikten etter et slikt pålegg blir oppfylt, kan departementet ilegge oppdragsgiveren en løpende tvangsmulkt etter utløpet av den frist som er satt for oppfylling av pålegget, inntil pålegget er oppfylt. Departementet kan gi forskrift om tvangsmulkt.
