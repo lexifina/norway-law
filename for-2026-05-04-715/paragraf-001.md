@@ -1,0 +1,2 @@
+# § 1. Formål
+Gjennom krav om systematisk gjennomføring av tiltak (internkontroll), skal denne forskrift fremme et forbedringsarbeid hos sentral og drosjeløyvehaver for å sikre etterlevelse etter krav fastsatt i og i medhold av blant annet arbeidsmiljøloven, bokføringsloven, konkurranseloven, likestillings- og diskrimineringsloven, måleloven, pristiltaksloven, skatteforvaltningsloven, vegtrafikkloven og yrkestransportloven, med tilhørende forskrifter.
