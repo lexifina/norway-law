@@ -1,0 +1,5 @@
+# § 7-3. Salg av apotektilvirkede legemidler
+Apotek har rett til å selge egentilvirkede legemidler til sluttbruker i apotek som omfattes av driftskonsesjon.
+Legemidler som er tilvirket etter den enkelte resepten, kan selges til eller gjennom apotek av virksomhet med tilvirkertillatelse som leieprodusent for resepturproduksjon. Hvis ikke annet følger av avtale, svarer leieprodusenten for legemidlets sammensetning, holdbarhet, emballasje og for leveringen til mottagende apotek.
+Legemidler som er tilvirket til lager, kan bare selges til apotek og til grossist på grunnlag av særskilt tillatelse fra departementet. Tillatelsen kan gis for et begrenset tidsrom og på nærmere vilkår, som kan endres etter at tillatelse er gitt. Apotek med tillatelse til salg av lagerproduksjon etter dette ledd kan pålegges leveringsplikt til apotek og grossist for legemidler som omfattes av tillatelsen.
+Departementet kan gi nærmere bestemmelser om salg, herunder om bestilling, mottak og levering, av apotektilvirkede legemidler.

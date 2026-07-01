@@ -1,0 +1,3 @@
+# § 2-12. Avkall på apotekkonsesjon
+Apotekkonsesjonæren kan gi avkall på konsesjonen og på tillatelser gitt i tilknytning til konsesjonen. Ved avkall faller konsesjonen eller tillatelsen bort 3 uker etter at avkallet er gitt, bortsett fra ved vedtak etter annet ledd, hvor bortfallet inntrer først ved utløpet av avviklingsperioden.
+Departementet kan forlenge rettsvirkningene etter konsesjonen eller tillatelsene i inntil 12 måneder etter at konsesjonæren har gitt avkall på den. Slikt vedtak må treffes senest 3 uker etter at avkallet er gitt. Departementet svarer for økonomisk tap som driften har påført konsesjonæren i avviklingsperioden.

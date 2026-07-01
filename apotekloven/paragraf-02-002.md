@@ -1,0 +1,6 @@
+# § 2-2. Apotekkonsesjon
+Med de begrensninger som følger av § 2-3, har en søker rett til apotekkonsesjon hvis følgende krav er oppfylt:
+a) Søker må dokumentere økonomisk evne til å drive faglig forsvarlig, i samsvar med krav til apotekvirksomhet fastsatt i lov og forskrift, herunder økonomisk evne til å tilby nødvendige ikkelønnsomme farmasøytiske tjenester.
+b) Søker må dokumentere sannsynlighet for at apotekets faglige virksomhet får et omfang som er stort nok til at apotekets kompetanse som faghandel og tilvirker av legemidler sikres og holdes ved like. Kravet kan dokumenteres i fellesskap med annet eller andre nærliggende apotek med samme eier, eller i forpliktende samarbeid.
+Departementet kan i forskrift fastsette regler som begrenser retten til konsesjon etter denne paragraf dersom konkurransepolitiske hensyn tilsier det.
+Departementet kan i forskrift fastsette regler som begrenser retten til konsesjon etter denne paragraf dersom hensynet til en geografisk forsvarlig fordeling av farmasøytisk personell tilsier det. Slike regler kan ikke begrense erververens rett til apotekkonsesjon ved erverv av et eksisterende apotek og eierens rett til ny konsesjon for eksisterende apotek ved omdannelse av eierform.
