@@ -1,0 +1,5 @@
+# § 6-11. Plattformer, rørledninger mv.
+(1) Omsetning og utleie av oljeboringsplattformer og andre flyttbare plattformer til bruk i petroleumsvirksomhet, er fritatt for merverdiavgift. Fritaket omfatter også driftsutstyr som leveres sammen med slike plattformer.
+(2) Omsetning av tjenester som står i direkte forbindelse med bygging, ombygging, reparasjon og vedlikehold av plattformer som nevnt i første ledd eller driftsutstyr for slike plattformer, er fritatt for merverdiavgift i siste omsetningsledd. Fritaket omfatter også varer som leveres i forbindelse med slike tjenester.
+(3) Omsetning av tjenester fra fartøy i form av berging av plattformer som nevnt i første ledd, er fritatt for merverdiavgift.
+(4) Omsetning av varer og tjenester til bruk i forbindelse med bygging, ombygging, reparasjon og vedlikehold av rørledninger mellom havområder utenfor merverdiavgiftsområdet og land, er fritatt for merverdiavgift i siste omsetningsledd. Departementet kan treffe enkeltvedtak om at fritaket skal gjelde tilsvarende for tilhørende anlegg på land som er til direkte bruk i forbindelse med gjennomstrømming av gass.

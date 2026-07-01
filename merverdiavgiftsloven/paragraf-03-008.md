@@ -1,0 +1,3 @@
+# § 3-8. Idrett mv.
+(1) Omsetning av tjenester i form av adgang til enkeltstående idrettsarrangement er unntatt fra loven. Med enkeltstående idrettsarrangement menes idrettsarrangement som av den enkelte arrangør ikke blir arrangert mer enn én gang per år, og ikke i to eller flere år på rad. Det er et vilkår at avgiftssubjektet ikke er registreringspliktig for tjenester som gir noen rett til å overvære idrettsarrangementer.
+(2) Omsetning av tjenester i form av rett til å utøve idrettsaktiviteter er unntatt fra loven. Unntaket omfatter ikke omsetning og utleie av retten til å benytte idrettutøvere fra andre enn idrettslag mv. hvis idrettstilbud hovedsakelig er basert på ulønnet innsats.

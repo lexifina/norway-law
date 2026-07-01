@@ -1,0 +1,4 @@
+# § 14-3. Sletting og fortsatt registrering
+(1) Den registrerte virksomheten skal slettes i Merverdiavgiftsregisteret dersom virksomheten er opphørt eller skattekontoret av særlige grunner finner å kunne slette registreringen.
+(2) Dersom merverdiavgiftspliktig omsetning og uttak er falt under den til enhver tid gjeldende beløpsgrensen i § 2-1 første til tredje ledd uten at virksomheten er slettet i medhold av denne paragrafen, skal avgiftssubjektet forbli registrert i minst to hele kalenderår. Det samme gjelder dersom avgiftssubjektet rykker ned til en divisjon lavere enn angitt i § 2-1 annet ledd annet punktum og omsetningen av tjenester som gir noen rett til å overvære idrettsarrangementer utgjør mindre enn 3 millioner kroner.
+(3) Solidaransvaret etter § 2-2 tredje ledd består fram til det er gitt melding om sletting av fellesregistrering.

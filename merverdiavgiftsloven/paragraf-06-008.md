@@ -1,0 +1,4 @@
+# § 6-8. Kjøretøy som bare bruker elektrisitet til framdrift
+(1) Omsetning av personkjøretøy som bare bruker elektrisitet til framdrift, og hvor elektrisiteten leveres fra batteripakke som kan lades fra ekstern strømkilde, er fritatt for merverdiavgift for vederlag til og med 300 000 kroner.
+(2) Leasing av personkjøretøy som bare bruker elektrisitet til framdrift, og hvor elektrisiteten leveres fra batteripakke som kan lades fra ekstern strømkilde, er fritatt for merverdiavgift dersom leasingvirksomhetens kostpris for det leasede personkjøretøyet er 300 000 kroner eller lavere. Dersom kostprisen er høyere, skal det beregnes merverdiavgift av leien multiplisert med kostpris som overstiger 300 000 kroner dividert med kostpris. Med leasing menes utleie av personkjøretøy hvor leieperioden etter skriftlig avtale er minst 30 dager.
+(3) Departementet kan gi forskrift om hvilke kjøretøy som omfattes av første og andre ledd.

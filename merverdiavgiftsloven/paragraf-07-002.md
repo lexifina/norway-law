@@ -1,0 +1,4 @@
+# § 7-2. Varer som er unntatt fra deklarasjonsplikt etter vareførselsloven § 4-1 og varer det ikke skal beregnes tollavgift av ved innførsel
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av varer som det ikke er plikt til å levere deklarasjon for etter vareførselsloven 4-1 tredje ledd.
+(2) Det skal ikke beregnes merverdiavgift ved gjeninnførsel av varer som nevnt i tollavgiftsloven § 6-4 første ledd bokstav a dersom den som utfører og innfører varen, er samme person. Vilkåret om at den som innfører og utfører varen må være samme person, gjelder likevel ikke dersom varen tidligere er endelig belastet merverdiavgift.
+(3) Departementet kan gi forskrift om omfanget av og vilkårene for fritak og at det ikke skal beregnes merverdiavgift ved innførsel av varer som nevnt i tollavgiftsloven § 6-4 første ledd bokstav d.

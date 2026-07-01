@@ -1,0 +1,5 @@
+# § 14-1. Vilkår for registrering
+(1) Registreringspliktige etter foretaksregisterloven må være registrert i Foretaksregisteret før registrering kan skje. Når særlige forhold foreligger, kan skattekontoret samtykke i at registrering i Merverdiavgiftsregisteret skjer før registrering i Foretaksregisteret.
+(2) Fellesregistrering og frivillig registrering etter § 2-3 fjerde til sjette ledd kan tidligst skje med virkning fra og med den oppgaveterminen den elektroniske søknaden om registrering blir loggført i mottakssentralen som godkjent. Godkjenning bekreftes ved elektronisk kvittering.
+(3) Frivillig registrering etter § 2-3 første og annet ledd kan tidligst skje med virkning fra og med en oppgavetermin som utløp de siste seks måneder før den elektroniske søknaden om registrering ble loggført i mottakssentralen. Godkjenning bekreftes ved elektronisk kvittering.
+(4) Frivillig registrering etter § 2-3 tredje ledd kan tidligst skje med virkning fra og med en oppgavetermin som utløp de siste seks måneder før avgiftsbehandling av utleieforholdet ble tilkjennegitt.

@@ -1,0 +1,4 @@
+# § 6-32. Varer og tjenester til petroleumsvirksomheten
+(1) Omsetning av nærmere bestemte varer og tjenester til bruk i havområder utenfor merverdiavgiftsområdet i forbindelse med utforsking og utnytting av undersjøiske naturforekomster, er fritatt for merverdiavgift dersom omsetningen skjer til rettighetsselskaper, boreselskaper og eiere og leietakere av plattformer. Det samme gjelder omsetning til andre som ikke er avgiftssubjekter og som utenfor merverdiavgiftsområdet utfører tjenester vedrørende anlegg og innretninger som har tilknytning til utforsking og utnytting av undersjøiske naturforekomster.
+(2) Omsetning av nærmere bestemte tjenester fra registreringspliktig baseselskap på baseområdet til personer som nevnt i første ledd, og til eiere eller leietakere av spesialfartøy til bruk i petroleumsvirksomhet til havs, er fritatt for merverdiavgift.
+(3) Departementet kan gi forskrift om hvilke varer og tjenester som omfattes av fritakene i denne paragrafen.

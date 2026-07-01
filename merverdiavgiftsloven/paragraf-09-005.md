@@ -1,0 +1,7 @@
+# § 9-5. Beregning av justeringsbeløpet mv.
+(1) En femdel av den inngående merverdiavgift som påløp ved anskaffelsen eller framstillingen av kapitalvarer som nevnt i § 9-1 annet ledd bokstav a, skal justeres i det enkelte regnskapsår. For kapitalvarer som nevnt i § 9-1 annet ledd bokstav b, skal en tidel av den inngående merverdiavgift som påløp i forbindelse med ny-, på- eller ombyggingen justeres i det enkelte regnskapsår.
+(2) Justeringen foretas på grunnlag av endringen i fradragsprosenten som finner sted innenfor det enkelte regnskapsår i forhold til fradragsprosenten ved justeringsperiodens begynnelse. Ved justering som følge av opphør av virksomhet eller overdragelse av kapitalvarer, skal justering foretas samlet for den resterende delen av justeringsperioden. I den resterende delen av justeringsperioden regnes også med det regnskapsåret bruken av kapitalvarene endres eller kapitalvarene overdras.
+(3) Det skal ikke foretas justering dersom endringen i fradragsprosenten er mindre enn ti prosentpoeng i forhold til fradragsprosenten ved justeringsperiodens begynnelse.
+(4) Dersom endringen i bruken kun gjelder en del av en kapitalvare som nevnt i § 9-1 annet ledd bokstav b, skal justering foretas for inngående merverdiavgift som knytter seg til denne delen. Det samme gjelder ved overdragelse av slik del.
+(5) Justeringsbeløpet skal tas med i skattemeldingen som en økning eller reduksjon av inngående merverdiavgift.
+(6) Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen.

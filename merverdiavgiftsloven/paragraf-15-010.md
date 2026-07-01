@@ -1,0 +1,6 @@
+# § 15-10. Dokumentasjonsplikt
+(1) Inngående merverdiavgift må dokumenteres med bilag for å være fradragsberettiget.
+(2) Avgiftssubjektet skal beregne utgående merverdiavgift, med mindre det ved regnskapsmateriale eller på annen måte som avgiftsmyndighetene godkjenner, kan godtgjøres at det ikke skal beregnes merverdiavgift ved omsetningen eller uttaket.
+(3) Salgsdokumentasjon for en merverdiavgiftspliktig omsetning kan ikke utstedes før ved levering av varen eller tjenesten.
+(4) Tilbyder i forenklet registreringsordning skal føre en oversikt over transaksjoner som omfattes av § 3-1 annet ledd og § 3-30. Transaksjonsoversikten skal være tilstrekkelig detaljert til at skattekontoret kan fastslå at merverdiavgiftsberegningen i skattemeldingen er korrekt. Transaksjonsoversikten skal være elektronisk tilgjengelig for skattekontoret innen tre uker etter anmodning. Transaksjonsoversikten skal oppbevares i fem år fra utgangen av det året transaksjonene er gjennomført.
+(5) Departementet kan gi forskrift om plikt til registrering og dokumentasjon av regnskapsopplysninger. Departementet kan også gi forskrift om tidspunktet for utstedelse av salgsdokumentasjon og dokumentasjon av uttak, herunder gjøre unntak fra tredje ledd. Departementet kan i tillegg gi forskrift om hva transaksjonsoversikten som nevnt i fjerde ledd skal inneholde.

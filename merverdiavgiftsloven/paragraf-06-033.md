@@ -1,0 +1,2 @@
+# § 6-33. Reklamepublikasjoner på fremmed språk mv.
+Omsetning av reklamepublikasjoner på fremmed språk og reklamefilmer med utenlandsk tale, er fritatt for merverdiavgift i siste omsetningsledd til oppdragsgiver i merverdiavgiftsområdet dersom publikasjonene og filmene er bestemt til bruk utenfor merverdiavgiftsområdet. Fritaket gjelder tilsvarende for omsetning av tjenester i form av trykking og produksjon av slike publikasjoner og filmer.
