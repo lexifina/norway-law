@@ -1,0 +1,4 @@
+# § 12. Krav til samarbeid med pasientens fastlege og øvrige helse- og omsorgstjenester
+Fysioterapeuten skal samarbeide med pasientens fastlege og andre relevante tjenesteytere ved behov. Fysioterapeuten skal etter nærmere avtale med kommunen delta på relevante samarbeidsarenaer.
+Fysioterapeuten plikter å informere fastlege om forhold som avdekkes i undersøkelse og behandling som kan gi grunnlag for oppfølging fra fastlegen. Manuellterapeuter skal informere fastlegen når det henvises til spesialisthelsetjenesten.
+For pasienter med behov for langvarige og koordinerte tjenester, plikter fysioterapeuten å informere pasienten om individuell plan og koordinator i kommunen og melde behov for individuell plan og koordinator til kommunens koordinerende enhet. Fysioterapeuten skal ved behov medvirke til utarbeidelse av individuell plan.
