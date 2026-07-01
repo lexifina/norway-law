@@ -1,0 +1,3 @@
+# § 9-11. Varsel om fravikelse
+Når det er grunnlag for å begjære fravikelse av husrommet kan utleier, dersom det er grunn til det, sende skriftlig varsel til sosialtjenesten i kommunen om misligholdet. En eventuell begjæring om tvangsfravikelse bør tidligst fremsettes for namsmyndigheten to uker etter at skriftlig varsel er sendt til sosialtjenesten. Utleier kan gi andre fullmakt til å sende slikt varsel. Leier kan i skriftlig melding til utleier reservere seg mot at slikt varsel blir sendt til sosialtjenesten.
+Utleier skal senest samtidig med oversendelse av varsel til sosialtjenesten i kommunen etter første ledd, sende kopi av varselet eller annen melding om innholdet til leier.

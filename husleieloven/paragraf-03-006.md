@@ -1,0 +1,2 @@
+# § 3-6. Garanti
+Det kan avtales at leieren til sikkerhet for krav på skyldig leie, skader på husrommet, utgifter ved fraviking og for andre krav som reiser seg av leieavtalen, skal stille garanti. Garantibeløpet kan sammen med depositum etter § 3-5 ikke overstige summen av seks måneders leie. Det kan ikke avtales med virkning for leierens regressansvar at garantisten skal ha rett til å utbetale garantien uten hensyn til leierens innsigelser mot utleierens krav.

@@ -1,0 +1,2 @@
+# § 1-8. Forbud mot diskriminering
+Ved utleie av husrom kan det ikke tas hensyn til kjønn, graviditet, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller alder. Slike omstendigheter kan ikke regnes som saklig grunn til å nekte opptak i husstand, framleie, personskifte eller tillegges vekt ved opphør av leieforholdet. Ved diskriminering gjelder likestillings- og diskrimineringsloven.

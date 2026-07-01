@@ -1,0 +1,3 @@
+# § 3-1. Leien
+Leien skal fastsettes til et bestemt beløp. Det kan likevel avtales at utleierens utgifter ved forbruk av elektrisitet og brensel skal fordeles forholdsmessig mellom brukerne av eiendommen, jf. § 3-4. Det samme gjelder utleierens utgifter til vann og avløp når disse utgiftene skal betales etter målt forbruk.
+Er leiens størrelse ikke avtalt, kan utleieren kreve en leie som svarer til det som vanligvis oppnås på avtaletidspunktet ved ny utleie av liknende husrom på liknende avtalevilkår. Blir partene ikke enige om leiens størrelse, kan hver av dem kreve at den blir fastsatt etter bestemmelsene i § 12-2.

@@ -1,0 +1,7 @@
+# § 10-2. Tilbakelevering
+Den dagen leieforholdet opphører, skal leieren stille husrommet med tilbehør til utleierens disposisjon. Er ikke annet avtalt, regnes tilbakelevering for skjedd når utleieren har fått nøkler og ellers uhindret atkomst til husrommet. Forlater leieren husrommet på en slik måte at leieforholdet klart må anses oppgitt, kan utleieren igjen straks disponere over det.
+Er ikke annet avtalt, skal husrommet med tilbehør være ryddet, rengjort og i samme stand som ved overtakelsen, bortsett fra den forringelse som skyldes alminnelig slit og elde, og de mangler som utleieren selv plikter å utbedre.
+Utleieren kan ikke uten særlig avtale kreve at leieren setter husrommet tilbake til opprinnelig stand så langt det gjelder endringer som leieren hadde rett til å utføre. Utleieren kan ikke i noe tilfelle kreve husrommet satt tilbake til opprinnelig stand dersom dette ville medføre uforholdsmessige omkostninger eller urimelig verditap, men utleieren kan kreve erstattet den verdireduksjon endringene har medført, hvis det gjelder endringer leieren ikke hadde rett til å utføre.
+Fast inventar som leieren har brakt inn i husrommet, tilfaller utleieren hvis utskilling ville medføre uforholdsmessige omkostninger eller urimelig verditap.
+Har leieren plikt til å vedlikeholde husrommet eller tilbehøret, skal vedlikeholdet være forsvarlig utført, men utleieren kan ikke uten særlig avtale kreve at husrommet eller tilbehøret er i bedre stand enn det var ved overleveringen.
+Om leierens krav på vederlag gjelder § 10-5.

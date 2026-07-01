@@ -1,0 +1,8 @@
+# § 11-2. Elev- og studentboliger
+Bestemmelsene i paragrafen her gjelder utleie av bolig som etter vedtak av organ for stat, fylkeskommune eller kommune skal brukes av elever og studenter. Bestemmelsene gjelder bare dersom leieren har fått opplyst skriftlig at avtalen gjelder slik bolig, og at dette gir leieren færre rettigheter enn ved leie av annen bolig.
+Det kan avtales at opptak av husstandsmedlem som nevnt i § 7-1 første punktum bare kan skje med utleierens godkjenning. Godkjenning kan i så fall bare nektes dersom forhold knyttet til boligens utforming eller formål tilsier det.
+Det kan avtales at opptak av husstandsmedlem som nevnt i § 7-1 annet punktum og framleie av del av bolig som nevnt i § 7-3 bare kan skje med utleierens godkjenning. Godkjenning kan i så fall bare nektes dersom husrommet klart blir overbefolket, eller dersom det er nødvendig på grunn av forhold ved vedkommende person, eller knyttet til boligens utforming eller formål.
+Framleie etter § 7-4 ved midlertidig fravær kan nektes dersom utleieren tilbyr seg å disponere boligen under leierens fravær, og leieren gis rett til å ta boligen i bruk igjen etter fraværet.
+Uten hinder av bestemmelsene i kapittel 9 om opphør kan det avtales at leieavtalen skal falle bort uten oppsigelse ved endt semester, endt studieår eller endt utdannelse. Uten hinder av § 9-3 kan partene også inngå en tidsbestemt leieavtale for kortere tid enn tre år. Er leieavtalen ikke inngått for bestemt tid, har leieren før fraflytting alltid krav på varsel med frist som nevnt i § 9-6.
+Uten hinder av § 3-5 tredje ledd kan det avtales at rentene av konto for depositum skal godskrives utleieren.
+Uten hinder av § 3-2 første ledd annet punktum kan det avtales forskuddsbetaling for inntil tre måneder.
