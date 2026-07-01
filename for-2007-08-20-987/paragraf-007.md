@@ -1,0 +1,3 @@
+# § 7. Nødvendige dokumenter, plikt til å la seg kontrollere og rapporteringsplikt
+Jakt- eller fiskekort skal medbringes under utøvelse av jakt, felling, fangst og fiske og fremvises på forlangende fra oppsyn eller politiet, grunneier eller en som opptrer på hans vegne. Det samme gjelder utvisningsbevis om slikt blir utstedt. Jegere og fiskere plikter å avgi rapport om utbytte av jakt, felling, fangst og fiske og levere inn deler av felt vilt dersom Statskog SF krever dette.
+Statskog SF kan som betingelse for lovlig jakt, fangst og fiske, stille krav om at det ved kjøp av sesongkort skal rapporteres fangst på forhåndsbestemte rapporteringstidspunkt.
