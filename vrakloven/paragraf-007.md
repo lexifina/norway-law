@@ -1,0 +1,4 @@
+# § 7
+Skip eller gods som det er gitt melding om etter § 6 tredje ledd, skal samtidig eller snarest mulig deretter leveres til politiet. Vil levering volde særlig vanske eller kostnad, skal politiet sørge for avhenting. Gods som det er grunn til å tro er tollavgiftspliktig, lar politiet bringe til nærmeste tollsted. For øvrig avgjør politiet hvordan tingene skal oppbevares. Finner politiet det etter forholdene praktisk og forsvarlig, kan politiet samtykke i at bergeren eller finneren oppbevarer dem.
+Berget eller strandet skip eller gods skal oppbevares på mest mulig betryggende måte. Den som sitter med det, kan holdes ansvarlig av eieren om han viser grov uaktsomhet slik at noe kommer bort eller får skade av noen betydning.
+For øvrig gjelder reglene i lov om hittegods av 29. mai 1953 §§ 6-12 tilsvarende så langt de passer, med de unntak som følger av §§ 8-10 nedenfor.

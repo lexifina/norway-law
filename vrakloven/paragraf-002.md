@@ -1,0 +1,2 @@
+# § 2
+Indtil politiet eller toldvæsenets repræsentant kommer tilstede, skal de tilstedeværende handle efter bedste skjøn og evne for at yde hjælp til skibbrudne eller for at iverksætte bjergning av gods; men saadan bjergning maa ikke paatvinges og nødlidende eller strandet skib ikke bordes mot et uttrykkelig og beføiet forbud av skibsføreren eller av den, som har kommandoen ombord. Foretages bjergning av gods, bør der optages vidnefast fortegnelse over dette med angivelse av merker eller kjendetegn, og bedst mulig sørges for dets forvaring.
