@@ -1,0 +1,4 @@
+# § 3-5. Behandling av opplysninger i Norsk pasientregister knyttet til sykdoms- og kvalitetsregistre
+Norsk pasientregister kan tilrettelegge, utlevere eller på annen måte tilgjengeliggjøre relevante og nødvendige opplysninger til sykdoms- og kvalitetsregistre for etablering og kvalitetskontroll. Sykdoms- og kvalitetsregistre skal ha selvstendig hjemmel for å behandle, herunder sammenstille, opplysninger fra Norsk pasientregister.
+Sammenstilling med sykdoms- og kvalitetsregistre skal ikke føre til at Norsk pasientregister får flere opplysninger enn det som følger av § 1-6 og § 1-7.
+Eventuell kontakt med pasienter ved etablering av sykdoms- eller kvalitetsregistre skal ikke gjøres av Norsk pasientregister. Slik eventuell førstegangskontakt skal gjøres av behandlende institusjon. Dersom et sykdoms- eller kvalitetsregister eller annen institusjon skal kunne ta førstegangskontakt, kreves det dispensasjon fra taushetsplikten jf. helsepersonelloven § 29e.

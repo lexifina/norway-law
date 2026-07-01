@@ -1,0 +1,2 @@
+# § 3-6. Informasjonsstrategi rettet mot brukergrupper
+For å fremme bruken av data fra Norsk pasientregister og for å bygge opp informasjon og kunnskap, jf. forskriften § 1-2, skalFolkehelseinsituttet ha en aktiv informasjonsstrategi og -plan rettet mot så vel helseforvaltningen, helsetjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helsetjenesteforskning og samfunnsforskning.
