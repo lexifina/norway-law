@@ -1,0 +1,2 @@
+# § 14-2. Konsesjonskontrakter som reserveres for virksomheter med funksjonshemmede eller vanskeligstilte personer
+Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som har som hovedformål å integrere funksjonshemmede eller vanskeligstilte personer i arbeidslivet. Dette gjelder bare når minst 30 prosent av de ansatte i virksomheten eller programmet har en funksjonshemming eller er vanskeligstilte. Dersom oppdragsgiveren bruker denne muligheten, skal han angi dette i kunngjøringen.

@@ -1,0 +1,3 @@
+# § 10-1. Krav om bruk av elektronisk kommunikasjon
+(1) All kommunikasjon og informasjonsutveksling mellom oppdragsgiveren og leverandørene skal skje skriftlig ved bruk av elektroniske kommunikasjonsmidler etter reglene i dette kapittelet.
+(2) Muntlig kommunikasjon kan likevel brukes, unntatt i forbindelse med utveksling av anskaffelsesdokumentene, forespørsler om å delta i konkurransen, bekreftelser av interesse og tilbud. Muntlig kommunikasjon skal dokumenteres i tilstrekkelig grad, for eksempel i form av et skriftlig referat eller sammendrag av hovedelementene i kommunikasjonen eller ved lydopptak. Oppdragsgiveren skal tilpasse omfanget av dokumentasjonen til den betydningen innholdet i den muntlige kommunikasjonen kan ha for forståelsen av anskaffelsesdokumentene.

@@ -1,0 +1,8 @@
+# § 6-5. Blandede anskaffelser som delvis er omfattet av forskriften og delvis inneholder forsvars- eller sikkerhetselementer
+(1) En oppdragsgiver som skal anskaffe ytelser knyttet til utøvelsen av samme aktivitet som kan skilles fra hverandre på en objektiv måte og som delvis er omfattet av forskriften og delvis inneholder forsvars- eller sikkerhetselementer, kan velge å inngå
+a) separate kontrakter etter reglene som gjelder for den enkelte kontrakt, eller
+b) en blandet kontrakt.
+(2) En oppdragsgiver som skal anskaffe ytelser knyttet til utøvelsen av flere aktiviteter der den ene aktiviteten er omfattet av forskriften og den andre aktiviteten vedrører forsvars- og sikkerhetselementer, kan inngå en blandet kontrakt.
+(3) Valget om ikke å skille ytelsene fra hverandre i en blandet kontrakt etter første eller annet ledd skal være objektivt begrunnet og ikke tas med sikte på å unnta kontrakten fra forskriften eller forskrift om forsvars- og sikkerhetsanskaffelser.
+(4) Anskaffelsesloven og forskriften gjelder ikke for blandede kontrakter som nevnt i første ledd, blandede kontrakter om slike ytelser som ikke kan skilles fra hverandre på en objektiv måte og blandede kontrakter etter annet ledd, og som delvis er omfattet av EØS-avtalen artikkel 123.
+(5) Oppdragsgiveren kan velge om reglene i forskriften eller forskrift om forsvars- og sikkerhetsanskaffelser skal gjelde for blandede kontrakter som nevnt i første ledd, blandede kontrakter om slike ytelser som ikke kan skilles fra hverandre på en objektiv måte og blandede kontrakter etter annet ledd, og som delvis er omfattet av forskrift om forsvars- og sikkerhetsanskaffelser. Dette gjelder likevel ikke når annet ledd gjelder.
