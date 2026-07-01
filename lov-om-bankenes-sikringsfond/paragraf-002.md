@@ -1,0 +1,4 @@
+# § 2. Oppgaver
+(1) Bankenes sikringsfond skal utføre forvaltningsoppgaver og administrative gjøremål som gjelder innskuddsgarantiordningen og innskuddsgarantifondet i samsvar med bestemmelsene i finansforetaksloven kapittel 19.
+(2) Bankenes sikringsfond skal forvalte midlene i krisetiltaksfondet og kan utføre andre administrative gjøremål som gjelder krisetiltaksfondet i samsvar med bestemmelsene i finansforetaksloven § 20-56. Det samme gjelder for midlene i Verdipapirforetakenes sikringsfond så langt det passer. Krisetiltaksfondet og Verdipapirforetakenes sikringsfond skal belastes kostnader som gjelder gjøremål for fondene.
+(3) Bankenes sikringsfond skal yte bistand til Finanstilsynet etter finansforetaksloven § 20-3 tredje ledd. Kostnader ved slik bistand kan belastes midler som er avsatt til dette formålet etter forskrift gitt i medhold av finansforetaksloven § 20-51 sjette ledd.
