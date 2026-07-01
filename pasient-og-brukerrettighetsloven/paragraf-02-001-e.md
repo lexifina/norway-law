@@ -1,0 +1,3 @@
+# § 2-1 e. Rett til opphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester
+Pasient eller bruker har rett til opphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester dersom dette etter en helse- og omsorgsfaglig vurdering er det eneste tilbudet som kan sikre pasienten eller brukeren nødvendige og forsvarlige helse- og omsorgstjenester.
+Pasient eller bruker som med forsvarlig hjelp kan bo hjemme i påvente av langtidsopphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester, men som oppfyller kriteriene for tildeling av langtidsopphold etter helse- og omsorgstjenesteloven § 3-2 a andre ledd, har rett til vedtak om dette.

@@ -1,0 +1,2 @@
+# § 4-5 a. Aldersgrense for kosmetiske inngrep, injeksjoner og behandling uten medisinsk eller odontologisk begrunnelse
+Pasienter under 18 år kan ikke avgi gyldig samtykke til kosmetiske inngrep, injeksjoner eller behandling uten medisinsk eller odontologisk begrunnelse, jf. helsepersonelloven § 4 b. Foreldre eller andre som har foreldreansvaret for pasienten, kan heller ikke avgi gyldig samtykke til slikt inngrep, injeksjon eller behandling.

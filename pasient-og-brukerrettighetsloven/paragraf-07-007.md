@@ -1,0 +1,2 @@
+# § 7-7. Forvaltningslovens anvendelse
+Forvaltningslovens regler om behandling av klager over enkeltvedtak gjelder så langt de passer, med de særlige bestemmelser som er gitt i dette kapitlet. Statsforvalteren skal ved prøving av kommunale vedtak om helsetjenester legge vekt på hensynet til det kommunale selvstyret ved prøving av det frie skjønn. For øvrige kommunale vedtak skal klageinstansen legge stor vekt på hensynet til det kommunale selvstyre ved prøving av det frie skjønn, jf. forvaltningsloven § 34 andre ledd tredje punktum.

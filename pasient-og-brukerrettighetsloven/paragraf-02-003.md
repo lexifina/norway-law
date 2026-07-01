@@ -1,0 +1,2 @@
+# § 2-3. Rett til fornyet vurdering
+Etter henvisning fra allmennlege har pasienten rett til fornyet vurdering av sin helsetilstand av spesialisthelsetjenesten. Retten gjelder bare én gang for samme tilstand. Ved behov for tverrfaglig spesialisert behandling for rusmiddelavhengighet, gjelder retten til fornyet vurdering også etter henvisning fra helse- og omsorgstjenesten i kommunen og sosialtjenesten.
