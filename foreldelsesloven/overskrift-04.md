@@ -1,0 +1,1 @@
+# Avbrudd av foreldelse.

@@ -1,0 +1,1 @@
+# Alminnelige bestemmelser.

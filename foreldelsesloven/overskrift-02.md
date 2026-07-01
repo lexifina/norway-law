@@ -1,0 +1,1 @@
+# Særskilte foreldelsesfrister.

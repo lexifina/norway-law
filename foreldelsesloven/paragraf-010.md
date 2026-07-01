@@ -1,0 +1,5 @@
+# § 10. (Uvitenhet og andre hindringer.)
+1. Dersom fordringshaveren ikke har gjort fordringen gjeldende fordi han manglet nødvendig kunnskap om fordringen eller skyldneren, inntrer foreldelse tidligst 1 år etter den dag da fordringshaveren fikk eller burde skaffet seg slik kunnskap.
+2. Kan foreldelse ikke avbrytes på grunn av norsk eller fremmed lov eller annen uovervinnelig hindring som ikke beror på fordringshaverens egne forhold, inntrer foreldelse tidligst 1 år etter den dag da hindringen opphørte.
+3. Dersom skyldneren har forlatt landet etter at fordringen oppsto, og fordringshaveren bare kan avbryte foreldelse ved skritt etter § 23, inntrer foreldelse tidligst 1 år etter den dag da fordringshaveren fikk eller burde ha skaffet seg kunnskap om at skyldneren igjen har alminnelig verneting her i riket, eller om at foreldelsen kan avbrytes ved andre skritt enn etter § 23.
+4. Foreldelsestiden kan ikke forlenges etter denne paragraf med mer enn til sammen 10 år. Fristene i § 9 nr. 2 for krav på skadeserstatning m.m. kan ikke forlenges etter nærværende paragraf. Ellers gjelder paragrafen for andre frister og tilleggsfrister etter denne lov.

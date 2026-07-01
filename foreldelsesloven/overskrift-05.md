@@ -1,0 +1,1 @@
+# Virkningen av avbrutt foreldelse.

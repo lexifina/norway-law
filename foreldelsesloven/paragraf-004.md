@@ -1,0 +1,4 @@
+# § 4. (Bankinnskudd m.m.)
+1. Fordring på bank eller offentlig kasse i anledning innskudd eller verdier som er gitt i forvaring, samt rentekrav i tilknytning til slik fordring, foreldes først 20 år etter at det er gitt melding etter finansavtaleloven § 4-46. Dette gjelder selv om kontoen påføres renter etter at slik melding er gitt. Foreldelse inntrer bare dersom institusjonen forut for foreldelsesfristens utløp har gjort det som med rimelighet kan forventes for å komme i kontakt med kontohaveren eller arvingene.
+2. Foreldelse avbrytes når fordringshaveren melder seg for institusjonen eller kontoen disponeres over ved uttak eller ved at midler settes inn på kontoen. Med bank likestilles annen innretning som med hjemmel i lov skaffer seg midler til sin virksomhet ved å motta innskudd fra en ubestemt krets av innskytere.
+3. Finansavtaleloven § 4-46 gjelder tilsvarende for fordring på offentlig kasse.

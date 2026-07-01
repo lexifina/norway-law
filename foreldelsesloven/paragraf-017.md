@@ -1,0 +1,5 @@
+# § 17. (Tvangsfullbyrdelse.)
+1. Har fordringshaveren tvangsgrunnlag for sin fordring, avbrytes foreldelsen ved begjæring om tvangsfullbyrdelse (utlegg eller dekning).
+2. For krav som skal inndrives i fremmed stat, avbrytes foreldelse ved at det settes fram begjæring om inndrivelse overfor vedkommende myndighet her i riket eller i den fremmede stat i samsvar med lov eller overenskomst mellom statene om inndrivelse i den fremmede staten.
+3. For krav som inndrives etter innkrevingsloven, avbrytes foreldelsen når skyldneren er gitt varsel etter innkrevingsloven § 25. I tilfeller der slikt varsel ikke er gitt, avbrytes foreldelsen når utleggspant, utleggstrekk eller tvangsdekning er besluttet, eller inndrivingsforsøket er avsluttet med beslutning om intet til utlegg. For krav som kan inndrives i fremmed stat etter lov eller overenskomst, avbrytes foreldelse også ved at det settes fram begjæring om inndrivelse overfor rette myndighet i den fremmede staten.
+4. For krav som kommunene inndriver som særnamsmyndighet, avbrytes foreldelsen når skyldneren er gitt varsel etter tvangsfullbyrdelsesloven § 2-15 annet ledd. For øvrig gjelder nr. 3 tilsvarende.
