@@ -1,0 +1,2 @@
+# § 35. Krav til vakttelefon og lokal lageransvarlig
+Virksomhet som har tillatelse til å oppbevare eksplosiver, skal ha en vakttelefon som til enhver tid er bemannet. Virksomheten skal ha ansatt en eller flere lokale lageransvarlige, som på kort varsel skal kunne møte på oppbevaringsstedet. Lokal lageransvarlig skal ha god kunnskap om eksplosivene og lagerforholdene. Lokal lageransvarlig skal ha god vandel og kunne legge frem en ordinær politiattest som ikke er eldre enn tre måneder.

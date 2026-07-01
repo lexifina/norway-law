@@ -1,0 +1,3 @@
+# § 135. Kursadministrator, kursarrangør og eksamensadministrator
+(1) Direktoratet for samfunnssikkerhet og beredskap utpeker kursadministrator, kursarrangør og eksamensadministrator for gjennomføring av kurs, eksamen og prøver etter forskriften. Kursadministrator, kursarrangør og eksamensadministrator kan ta gebyr til dekning av utgiftene forbundet med gjennomføring av kurs, prøve og eksamener, retting av prøver og utstedelse av kompetansebevis og sertifikat.
+(2) Vedtak fattet av kursadministrator, kursarrangør eller eksamensadministrator som har betydning for adgangen til deltakelse på kurs, gjennomføring av prøve, eksamen eller utstedelse av kompetansebevis kan påklages til Direktoratet for samfunnssikkerhet og beredskap.

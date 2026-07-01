@@ -1,0 +1,2 @@
+# § 110. Identifikasjon av markedsdeltakere
+For eksplosiver som ikke omfattes av reglene om id-merking og sporing i kapittel 15, skal markedsdeltakerne på anmodning fra markedstilsynsmyndighetene kunne identifisere enhver markedsdeltaker som de har mottatt eksplosiver fra og som de har levert eksplosiver til. Denne plikten gjelder i ti år etter at markedsdeltakerne fikk eksplosivet levert eller selv leverte eksplosivet.

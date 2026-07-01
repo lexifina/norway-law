@@ -1,0 +1,4 @@
+# § 97. Plikt til å ivareta sikkerheten ved teknisk sprengning
+(1) Både ledelsen i virksomheten som skal ha utført teknisk sprengning, og ledelsen i virksomheten som selv utfører teknisk sprengning, skal sørge for at sikkerheten ved bruk av eksplosiver blir ivaretatt på forsvarlig måte.
+(2) Virksomheten som selv utfører teknisk sprengning, skal sørge for å vurdere risikoen og i samarbeid med teknisk sprengningskyndig gjennomføre tiltak slik at det tekniske sprengningsarbeidet kan gjennomføres på en sikker måte. Planer og rutiner for gjennomføring skal foreligge skriftlig før sprengningsarbeid igangsettes, og være en del av virksomhetens internkontrollsystem.
+(3) Ledelsen i virksomhet som skal ha utført teknisk sprengning skal påse at utførende virksomhet har utarbeidet nødvendige planer for å ivareta sikkerheten.

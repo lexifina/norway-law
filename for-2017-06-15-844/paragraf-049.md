@@ -1,0 +1,3 @@
+# § 49. Krav til sikkerhetsavstand
+(1) Virksomheter som oppbevarer ammoniumnitratholdige stoffer og stoffblandinger må sørge for at risikoen er redusert til et nivå som med rimelighet kan oppnås. Før oppbevaring må virksomheten kartlegge farer og problemer med oppbevaringen og på denne bakgrunn vurdere risikoen. Vurderingen skal spesielt ta hensyn til oppbevaring i nærheten av sykehus, skole, barnehage, høyblokk, forsamlingslokale, kjøpesenter eller liknende.
+(2) Videre skal vurderingen ta hensyn til andre virksomheter som håndterer farlige stoffer eller utfører en aktivitet som innebærer fare for brann eller eksplosjon.

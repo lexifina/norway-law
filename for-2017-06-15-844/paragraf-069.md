@@ -1,0 +1,2 @@
+# § 69. Tilintetgjøring av eksplosjonsfarlig stoff
+Produsent av eksplosiver skal sørge for en forsvarlig håndtering av spill og rester slik som forurensede ammoniumnitratholdige stoffer eller stoffblandinger, råvarer eller eksplosivrester. Spill og rester skal holdes separat fra andre stoffer og kan tilintetgjøres av produsent på brukersted etter at det er utført en risikovurdering og eventuelle risikoreduserende tiltak er iverksatt.
