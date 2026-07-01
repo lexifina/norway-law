@@ -1,0 +1,2 @@
+# § 11-4. Informasjon til potensielle medlemmer og nye medlemmer
+Medlemmer som ikke automatisk tas opp i en pensjonsordning og nye medlemmer skal opplyses om eventuelle valgmuligheter og minst gis informasjon som følger av § 11-1. Pensjonsforetaket skal opplyse om og eventuelt hvordan det i kapitalforvaltningen tar hensyn til faktorer knyttet til miljø, sosiale forhold og foretaksstyring. Pensjonsforetaket skal også informere om hvordan ytterligere opplysninger om pensjonsordningen og pensjonsforetaket kan fremskaffes.

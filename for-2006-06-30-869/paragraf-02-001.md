@@ -1,0 +1,3 @@
+# § 2-1. Pristariff for personrisiko
+Pristariffer for risiko knyttet til person skal skille mellom risiko knyttet til alderspensjon, uføreytelser og ytelser til barn og etterlatte, og mellom kontrakter med og uten rett til overskudd av risikoresultatet. Det kan utarbeides særskilte tariffer for ulike grupper av kontrakter.
+Foretaket skal så vidt mulig bygge på senest oppdaterte risikostatistikk. Når foretakets risikoresultater tilsier det, kan finanstilsynet pålegge foretaket å foreta analyser av de enkelte elementer i pristariffene og i tilfelle å endre pristariff som er ubetryggende eller urimelig.

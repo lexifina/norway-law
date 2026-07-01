@@ -1,0 +1,5 @@
+# § 5-7. Risikoutjevningsfond
+Foretaket kan ikke uten samtykke etter forsikringsvirksomhetsloven § 3-15 første ledd foreta overføring til risikoutjevningsfondet som medfører at fondet vil overstige 150 prosent av foretakets samlede risikopremier i regnskapsåret. Dette gjelder ikke avkastning tilordnet risikoutjevningsfondet etter forsikringsvirksomhetsloven § 3-13 første ledd.
+Foretakets overskudd på risikoresultatet i et år beregnes ut fra risikoresultatet for samtlige grupper av kontrakter. Overføringen til risikoutjevningsfondet i et år fordeles mellom de grupper hvor det er overskudd på risikoresultatet etter størrelsen av overskuddet i den enkelte gruppe.
+Reglene om overskudd på risikoresultatet i forsikringsvirksomhetsloven § 3-14 tredje ledd gjelder ikke risikoforsikringer av høyst ett års varighet som etter melding til Finanstilsynet ikke har rett til overskudd. Overskudd på risikoresultatet for slike forsikringer tilordnes foretaket.
+Dersom foretaket skal styrke premiereserven etter reglene i forsikringsvirksomhetsloven § 3-15, kan risikoutjevningsfondet benyttes til å dekke manglende premiereserve.

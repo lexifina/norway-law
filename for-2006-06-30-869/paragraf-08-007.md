@@ -1,0 +1,11 @@
+# § 8-7. Krav til informasjon i pensjonsoversikten
+Pensjonsoversikten skal være skriftlig og på norsk og skal gjøres tilgjengelig for hvert enkelt medlem vederlagsfritt. Kravet til skriftlighet er ikke til hinder for at foretaket benytter elektronisk kommunikasjon så lenge medlemmet ikke har reservert seg mot slik kommunikasjon. Bruk av elektronisk kommunikasjon må sette medlemmet i stand til å lagre informasjonen og gi mulighet til uendret gjengivelse av den lagrede informasjonen for bruk i et tidsrom som er tilstrekkelig for formålet.
+Pensjonsoversikten skal inneholde personopplysninger om medlemmet, herunder angivelse av medlemmets pensjonsalder, navnet på foretaket, dets adresse og pensjonsordningens polisenummer. Pensjonsoversikten skal inneholde informasjon om
+a) pensjonsbeløpene er garanterte eller om pensjonsbeløpet avhenger av pensjonskapitalens verdiutvikling,
+b) forventet fremtidig nivå på medlemmets pensjon basert på medlemmets antatte pensjonsalder,
+c) opptjente pensjonsrettigheter eller oppspart pensjonskapital,
+d) innbetalinger fra arbeidsgiver eller fra medlemmet i foregående år og kostnader som er belastet av foretaket,
+e) verdien av de midler som er knyttet til pensjonsordningen som helhet.
+Hvis pensjonsprognosene etter annet ledd bokstav b er basert på økonomiske scenarioer, skal informasjonen også omfatte det best tenkte scenarioet og et ugunstig scenario. For ytelsesbaserte pensjonsordninger skal prognosene gjenspeile de forutsetningene som inngår i premieberegningsgrunnlaget. Det skal klart fremgå at prognosene kan avvike fra endelig faktisk verdi på pensjonen. For kommunale pensjonsordninger gjelder annet ledd bokstav b så langt det passer.
+Til medlemmer i pensjonsordninger som er etablert i samsvar med tjenestepensjonsloven eller innskuddspensjonsloven skal den kontoinformasjonen som foretaket plikter å gi medlemmene etter regler gitt i eller i medhold av disse lovene, inngå i pensjonsoversikten.
+Pensjonsoversikten skal også angi hvor og hvordan medlemmet kan innhente utfyllende informasjon om sine rettigheter, herunder nærmere opplysninger om forutsetninger som ligger til grunn for informasjon om fremtidig pensjon etter annet ledd bokstav b og om foretakets virksomhet og kapitalforvaltning.

@@ -1,0 +1,4 @@
+# § 1-4. Skadeforsikringsforetaks virksomhet
+Reglene i § 2-8 og § 2-9 gjelder tilsvarende så langt de passer for skadeforsikringsforetak som har tillatelse til å overta livsforsikringer etter finansforetaksloven § 2-14 annet ledd.
+Skadeforsikringsforetak som har tillatelse etter finansforetaksloven § 2-14 annet ledd til å overta livsforsikringer, kan også overta forsikringer knyttet til uførerisiko hvor det er avtalt at det i en periode på inntil fem år skal utbetales årlig innskuddsfritak/premiefritak og i tilfelle årlig uførepensjon i samsvar med uføregraden, med tillegg av utbetaling av et engangsbeløp i samsvar med uføregraden ved utløpet av femårsperioden.
+Engangsbeløpet skal benyttes til dekning av engangspremie etter avtale med livsforsikringsforetak eller pensjonskasse som gir rett til årlige uføreytelser inntil nådd opptjeningsalder.

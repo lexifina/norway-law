@@ -1,0 +1,2 @@
+# § 8-5. Tilleggsopplysninger for fripoliser, pensjonsbevis og pensjonskapitalbevis
+For fripoliser, pensjonsbevis og pensjonskapitalbevis med kontraktsfastsatte forpliktelser, jf. forsikringsvirksomhetsloven § 3-16, skal kontoutskriften opplyse om foretakets prosentvise andel av overskuddet på avkastningsresultatet som er tilordnet kontrakten. Hvis negativt risikoresultat er dekket ved fradrag i overskudd på avkastningsresultatet tilordnet kontrakten, skal dette fremgå.
