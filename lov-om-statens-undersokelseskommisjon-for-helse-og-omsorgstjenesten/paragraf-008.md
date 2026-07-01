@@ -1,0 +1,3 @@
+# § 8. Underretning og adgang til å uttale seg
+Når undersøkelseskommisjonen har iverksatt undersøkelse, skal den så vidt mulig underrette tjenesteytere, pasienter eller brukere, nærmeste pårørende eller andre som undersøkelsen angår. Slik underretning skal gis så snart som mulig, og den skal opplyse om rettighetene etter andre ledd og etter § 16.
+Innen undersøkelsen avsluttes, skal personene og tjenesteyterne nevnt i første ledd gis adgang til å uttale seg om den alvorlige hendelsen eller det alvorlige forholdet. De har også rett til å gjøre seg kjent med dokumentene med de begrensninger som følger av taushetsplikten i § 12.
