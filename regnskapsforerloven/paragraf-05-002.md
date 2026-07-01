@@ -1,0 +1,3 @@
+# § 5-2. Oppdragsavtale og fullmakter
+Regnskapsforetaket skal opprette skriftlig oppdragsavtale med oppdragsgiveren for hvert regnskapsoppdrag. Oppdragsavtalen skal spesifisere hvilke oppgaver som skal utføres, og for hvilken tid oppdraget skal gjelde.
+Når regnskapsforetaket skal opptre overfor tredjemann på oppdragsgivers vegne, skal det foreligge skriftlig fullmakt fra oppdragsgiver. For hvert oppdrag skal det foreligge en oversikt over hvilke fullmakter regnskapsforetaket har, og hvilke fysiske personer som er gitt rett til å benytte fullmakten. Regnskapsforetaket skal påse at retten til å benytte fullmakten tilbakekalles når personen ikke lenger skal ha en slik rett.

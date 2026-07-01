@@ -1,0 +1,4 @@
+# § 3-2. Praksis
+Søker med bachelorgrad som nevnt i § 3-1 skal ha minst tre års variert praksis som er relevant for yrkesutøvelsen. Minst to år av praksisen skal gjennomføres i et regnskapsforetak. Søker med mastergrad som nevnt i § 3-1 skal ha minst to års variert praksis som er relevant for yrkesutøvelsen. Minst ett år av praksisen skal gjennomføres i et regnskapsforetak. Minst ett år av praksisen skal gjennomføres etter at kravene i § 3-1 første til tredje ledd er oppfylt.
+For revisorer som er godkjent etter revisorloven, likestilles praksis fra revisjonsforetak med praksis fra et regnskapsforetak etter første ledd. Dette gjelder ikke for godkjente revisorer som har deponert sin godkjenning etter revisorloven § 3-8.
+Departementet kan i forskrift fastsette nærmere regler om praksiskrav for godkjenning som statsautorisert regnskapsfører, herunder krav til dokumentasjon.
