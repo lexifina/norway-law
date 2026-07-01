@@ -1,0 +1,2 @@
+# § 5-4. Begrensning av koblingssalg ved leveringsplikt
+Tilbyder med leveringsplikt etter ekomloven § 5-1 skal tilby leveringspliktige tjenester på slike vilkår og betingelser at forbrukere, mikro-, små- og mellomstore foretak ikke betaler for tjenester, funksjoner eller ytelser som er unødvendige for tjenesten det er anmodet om. Vilkår og betingelser skal være ikke-diskriminerende, oversiktlige og offentlig tilgjengelige.

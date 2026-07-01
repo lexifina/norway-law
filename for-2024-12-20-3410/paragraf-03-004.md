@@ -1,0 +1,5 @@
+# § 3-4. Informasjon til abonnent eller bruker om ruting av nasjonal trafikk
+Tilbyder av elektroniske kommunikasjonsnett og offentlige elektroniske kommunikasjonstjenester sin taushetsplikt etter ekomloven § 3-10 er ikke til hinder for at tilbyder produserer eller formidler nasjonal elektronisk kommunikasjon ved å benytte elektroniske kommunikasjonsnett og -tjenester eller tilhørende fasiliteter utenfor Norges grenser, men innenfor EØS-området, dersom abonnent eller bruker informeres om dette. Informasjonen skal angi i hvilket land tilbyders produksjon eller formidling skal foregå.
+Nasjonal kommunikasjonsmyndighet kan ved enkeltvedtak gi tillatelse til at bestemmelsen skal gjelde tilsvarende utenfor EØS-området. Krav til tillatelse gjelder også planlagt omruting utenfor EØS-området ved transmisjonsbrudd i de regulære forbindelsene. Krav til tillatelse gjelder ikke ved kortvarig omruting utenfor EØS-området ved uforutsette transmisjonsbrudd i de regulære forbindelsene.
+Tilbyder som nevnt i første ledd, skal informere Nasjonal kommunikasjonsmyndighet om forhold som nevnt i første og andre ledd.
+Satellittelefontjeneste omfattes ikke av bestemmelsen.

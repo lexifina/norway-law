@@ -1,0 +1,4 @@
+# § 8-2. Søknad om særskilt tillatelse til bruk av frekvenser for Kriminalomsorgen
+Kriminalomsorgen skal sende søknad om tillatelse etter ekomloven § 11-15 til Nasjonal kommunikasjonsmyndighet for hvert enkelt fengsel der det ønskes særskilt tillatelse til bruk av frekvenser som er tildelt andre. Søknaden skal inneholde en vurdering av muligheten for å anvende andre virkemidler enn utstyr som kan hindre, påvirke eller manipulere elektronisk kommunikasjon.
+Tillatelse kan gis innenfor det geografiske dekningsområdet som tilsvarer Kriminalomsorgens fengsler med høyt sikkerhetsnivå.
+Valg av teknisk løsning gjøres i samråd med Nasjonal kommunikasjonsmyndighet og berørte tilbydere. Frekvensbruken skal etableres slik at den i minst mulig grad forårsaker skadelig interferens i offentlige mobilkommunikasjonsnett utenfor fengslene.

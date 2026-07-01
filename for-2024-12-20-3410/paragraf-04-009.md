@@ -1,0 +1,2 @@
+# § 4-9. Ansvar for kostnader ved tilbyderportabilitet
+Enhver tilbyder skal dekke egne kostnader for håndtering av tilbyderportabilitet, for eksempel ved oppgradering av sentraler og støttesystemer og ved testing og opplæring av personell. Avgivende tilbyder skal ikke kreve dekket kostnader fra mottakende tilbyder for overflytting av nummer. Sluttbruker skal ikke faktureres særskilt for portering.

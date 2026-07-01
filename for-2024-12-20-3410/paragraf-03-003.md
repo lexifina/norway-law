@@ -1,0 +1,2 @@
+# § 3-3. Samtykke
+Samtykke etter §§ 3-1 og 3-2 skal oppfylle kravene til samtykke i personvernforordningen. Ved innhenting av samtykke skal tilbyder informere bruker om hvilken type trafikk- eller lokaliseringsdata behandlingen gjelder, om behandlingens varighet, om formålet med behandlingen og om lokaliseringsdata er ment å kunne utleveres til tilbyder av tjenesten. Bruker skal ved hjelp av en enkel og vederlagsfri ordning til enhver tid kunne trekke samtykket tilbake.

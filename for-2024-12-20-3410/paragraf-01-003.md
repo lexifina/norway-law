@@ -1,0 +1,3 @@
+# § 1-3. Krav til offentliggjøring av grensesnittspesifikasjon
+Tilbyder av tilgang til elektroniske kommunikasjonsnett som anvendes for tilbud av offentlige elektroniske kommunikasjonstjenester og tilbyder av slik tjeneste, skal offentliggjøre tekniske spesifikasjoner for tilbudt grensesnitt. Offentliggjøring skal skje før tjenesten som leveres over grensesnittet blir gjort offentlig tilgjengelig. Kravet til offentliggjøring gjelder også for oppdatering og modifisering av grensesnitt.
+Spesifikasjonene etter første ledd skal være tilstrekkelig detaljerte til at de kan brukes for konstruksjon av terminalutstyr, slik at utstyret kan nyttes for alle elektroniske kommunikasjonstjenester som leveres over tilbudt grensesnitt.

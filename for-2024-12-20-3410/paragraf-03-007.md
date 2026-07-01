@@ -1,0 +1,2 @@
+# § 3-7. Unntak fra sletteplikt og taushetsplikt for nummeruavhengige person-til-person-kommunikasjonstjenester
+EØS-avtalen vedlegg XI nr. 5hab (europaparlamentets- og rådsforordning (EU) 2021/1232, som endret i europaparlamentets- og rådsforordning (EU) 2024/1307), om prosessering av personlige og andre data med formål å bekjempe seksuelt misbruk av barn, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.

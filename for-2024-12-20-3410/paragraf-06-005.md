@@ -1,0 +1,2 @@
+# § 6-5. Gjennomføring av forordning om BEREC
+EØS-avtalen vedlegg XI nr. 5czr (europaparlaments- og rådsforordning (EU) 2018/1971 av 11. desember 2018 om opprettelse av Sammenslutningen av europeiske reguleringsmyndigheter for elektronisk kommunikasjon (BEREC) og Byrået for støtte til BEREC (BEREC-kontoret), om endring av forordning (EU) 2015/2120 og om oppheving av forordning (EF) nr. 1211/2009), gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.

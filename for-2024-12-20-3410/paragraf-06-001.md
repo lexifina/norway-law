@@ -1,0 +1,2 @@
+# § 6-1. Prisregulering av tilgang til anleggsinfrastruktur
+Nasjonal kommunikasjonsmyndighet skal ved prisregulering av tilgang til anleggsinfrastruktur etter ekomloven § 7-7, basere verdsettelsen av tilgang til anleggsinfrastruktur på den bokførte verdien etter akkumulerte avskrivninger basert på en passende indeks. Tilganger som er i bruk, og som er avskrevet over en periode på minst 40 år, skal ikke inngå i verdsettelsen.

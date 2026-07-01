@@ -1,0 +1,18 @@
+# § 9-3. Informasjon til nummeropplysningstjenester
+Tilbydere av offentlig nummerbaserte person-til-person-kommunikasjonstjenester skal vederlagsfritt og før oppføring i nummeropplysningstjeneste etter ekomloven § 12-5 skjer, gi sluttbruker informasjon om formålet med opplysningssystemer der opplysninger om sluttbrukeren vil fremgå, om mulig bruk av opplysningene som følge av søkemuligheter i elektroniske opplysningssystem og retten til å reservere seg etter § 4-14.
+Tilbyderen skal overføre følgende nummeropplysningsinformasjon til nummeropplysningsvirksomheter som tilbyr offentlig tilgjengelige nummeropplysningstjenester:
+a) brukerens etternavn, fornavn og mellomnavn for personlige brukere eller firmanavn. Når juridisk eier av abonnement og bruker ikke er den samme, skal bare brukerens navn overføres.
+b) organisasjonsnummer
+c) gatenavn eller postadresse
+d) husnummer
+e) postnummer
+f) poststed
+g) telefonnummer, herunder angivelse av hovednummer når dette er registrert eller meldt av sluttbruker
+h) brukstype, det vil si om nummeret brukes til fastnetterminal eller mobilterminal.
+Er et barn registrert som bruker av et abonnement, skal nummeropplysningsinformasjon ikke overføres til nummeropplysningsvirksomheter med mindre sluttbruker har gitt uttrykkelig samtykke til at informasjonen overføres. Er det gitt slikt samtykke, kan barn som har fylt 15 år selv trekke tilbake samtykket. Når barnet fyller 18 år skal tilbyder overføre informasjonen, men skal forut for overføringen varsle den registrerte brukeren om dette og gi brukeren mulighet til å reservere seg mot slik overføring.
+Tilbyder skal ikke overføre nummeropplysningsinformasjon om sluttbrukere som disponerer hemmelig nummer etter § 4-13 eller som har reservert seg mot at informasjon om egne nummer, navn eller adresser utleveres til offentlig tilgjengelig nummeropplysningsvirksomhet, jf. første ledd og § 4-14. Nummeropplysningsvirksomheten skal umiddelbart slette opplysninger om sluttbruker som disponerer hemmelig nummer eller har reservert seg mot offentliggjøring av opplysninger, ved første tilgjengelige oppdatering av opplysninger fra tilbyder.
+Ved overføring av opplysninger etter første, andre og tredje ledd skal det opplyses om nyoppføring, endring i eksisterende opplysninger og sletting av registrering. Sletting angis som endring av tidligere overførte opplysninger. Der sluttbruker har flere nummer angis endring av nummer som sletting av eksisterende oppføring og ny oppføring.
+Nasjonal kommunikasjonsmyndighet kan kreve at tilbyder av nummerbasert person-til-person-kommunikasjonstjeneste dokumenterer at prisen for informasjonen som stilles til rådighet etter andre ledd er basert på faktiske kostnader.
+Tilbyder og nummeropplysningsvirksomhet skal sikre personopplysningenes kvalitet i forhold til behandlingsformålet. Nummeropplysningsinformasjonen skal utleveres i elektronisk form som masseopplysninger og være i samsvar med standardformatet ISO 8859-1.
+Uten samtykke fra den registrerte kan nummeropplysningstjenester bare benyttes til søk etter informasjon på grunnlag av brukerens navn, adresse, nummer og adresse for tjeneste.
+Nummeropplysningsvirksomheten som tilbyr nummeropplysningstjeneste, skal sikre at nummeropplysningssystemet er i overensstemmelse med personopplysningsloven og at det ikke gis opplysninger i strid med taushetsplikt. Nummeropplysningsvirksomheter kan ikke uten samtykke fra bruker behandle utlevert nummeropplysningsinformasjon til andre formål enn nummeropplysningsvirksomhet, heller ikke i egen virksomhet. Plikter etter denne bestemmelsen innskrenker ikke sluttbrukers rettigheter fastsatt i eller i medhold av personopplysningsloven.

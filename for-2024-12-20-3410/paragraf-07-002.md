@@ -1,0 +1,4 @@
+# § 7-2. Krav til innehaver av immaterielle rettigheter til adgangskontrollprodukter og adgangskontrolltjenester
+Når innehaver av immaterielle rettigheter til adgangskontrollprodukter og adgangskontrolltjenester gir lisens til produsent av forbrukerutstyr, skal det skje på objektive, rimelige og ikke-diskriminerende vilkår. Rettighetsinnehaver kan ikke sette tekniske eller kommersielle vilkår for lisensieringen som forbyr eller på annen måte forhindrer at selve produktet utstyres med
+a) et standardisert grensesnitt som gjør det mulig å kople til andre adgangskontrolltjenester, eller
+b) utstyr og programvare til en annen adgangskontrolltjeneste, forutsatt at lisenstakeren oppfyller relevante og rimelige vilkår som for lisenstakeren ivaretar sikkerheten for de transaksjoner som utføres av tilbyder av adgangskontrolltjenester.

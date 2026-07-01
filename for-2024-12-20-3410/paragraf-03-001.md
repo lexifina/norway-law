@@ -1,0 +1,4 @@
+# § 3-1. Behandling av trafikkdata
+Tilbyder skal bevare taushet om trafikkdata, jf. ekomloven § 3-10, og skal slette eller anonymisere trafikkdata, jf. ekomloven § 3-11.
+Behandling av trafikkdata hos tilbyder kan bare foretas av personer som arbeider med fakturering, trafikkstyring, kundeforespørsler, markedsføring av elektronisk kommunikasjonstjeneste eller avsløring av urettmessig bruk av elektronisk kommunikasjon. Nevnte personer må ha fullmakt for utførelsen av arbeidet fra tilbyder av elektroniske kommunikasjonsnett eller -tjenester. Behandlingen skal begrenses til det som er nødvendig for utførelsen av nevnte arbeidsoppgaver.
+Annen behandling av trafikkdata enn den som er nevnt i ekomloven § 3-11 første ledd bokstav a og b, herunder behandling til markedsføringsformål, krever samtykke fra bruker, jf. ekomloven § 3-11 andre ledd.
