@@ -1,0 +1,2 @@
+# § 9. Klage på Folkehelseinstituttets og Helsedirektoratets avgjørelser
+Databrukeren kan klage på Folkehelseinstituttets avgjørelser om tilgjengeliggjøring etter § 4 og § 5 og Folkehelseinstituttets og Helsedirektoratets vedtak om dispensasjon fra taushetsplikten etter § 7. Klagen behandles av Nasjonalt klageorgan for helsetjenesten (Helseklage). For klagesaksbehandlingen gjelder reglene i forvaltningsloven § 29 til § 34 og § 36 tilsvarende.

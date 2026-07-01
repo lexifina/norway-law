@@ -1,0 +1,2 @@
+# § 5. Sammenstillinger
+Sammenstillinger av opplysninger i registre som er besluttet inkludert i løsningen etter § 3, og opplysninger i behandlingsrettede helseregistre eller andre helseregistre, skal gjennomføres av databrukeren eller av den registerforvalteren som Folkehelseinstituttet peker ut. Folkehelseinstituttet fastsetter hvordan sammenstillingen skal skje. Sammenstillingen kan gjennomføres på grunnlag av datafiler der særskilte løpenumre er tildelt av Folkehelseinstituttet.

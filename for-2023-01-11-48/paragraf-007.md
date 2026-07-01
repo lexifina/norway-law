@@ -1,0 +1,3 @@
+# § 7. Dispensasjon fra taushetsplikten
+Folkehelseinstituttet kan fatte vedtak etter helseregisterloven § 19e og helsepersonelloven § 29e om dispensasjon fra taushetsplikten for tilgjengeliggjøring av helseopplysninger. Myndigheten gjelder opplysninger fra registre som er besluttet inkludert i løsningen etter § 3 eller som skal sammenstilles med opplysninger fra slike registre. Dersom vedtaket krever særlig kjennskap til opplysningene i eller fra et helseregister, skal Folkehelseinstituttet rådføre seg med registerforvalteren for det aktuelle registeret.
+Søknader etter første ledd fra Folkehelseinstituttet, behandles av Helsedirektoratet.
