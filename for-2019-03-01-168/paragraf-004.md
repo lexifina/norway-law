@@ -1,0 +1,4 @@
+# § 4. Krav til journalens innhold
+Pasientjournalen skal inneholde opplysninger som er relevante og nødvendige for å yte helsehjelp til den enkelte pasient, jf. helsepersonelloven § 40. Dette inkluderer opplysninger for å kunne identifisere og kontakte pasienten og virksomheten der helsehjelpen gis. Journalen skal gi en oversiktlig og samlet fremstilling av pasientens helsetilstand slik at det er lett for helsepersonell å sette seg inn i pasientens helsetilstand og eventuelt videre planlagt helsehjelp.
+Journalen skal også inneholde opplysninger som er nødvendige for å oppfylle helsepersonellets meldeplikt eller opplysningsplikt fastsatt i lov eller i medhold av lov.
+En oversikt over hvilke opplysninger som kan være relevante og nødvendige etter første og andre ledd, er angitt i § 5 til § 8. Oversikten er ikke uttømmende.
