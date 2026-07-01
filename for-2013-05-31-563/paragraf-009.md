@@ -1,0 +1,5 @@
+# § 9. Tilgangsstyring
+Tilgang til den nasjonale kjernejournalen skal skje gjennom autorisasjons- og autentiseringsløsningen i egen virksomhet. Hver virksomhet skal etablere nødvendige organisatoriske og tekniske tiltak for tildeling, administrasjon og kontroll av autorisasjoner for tilgang til helseopplysninger i nasjonal kjernejournal. En autorisasjon skal knyttes til en entydig identifisert person i en bestemt rolle og være tidsbegrenset.
+Den som gis elektronisk tilgang til helseopplysninger i nasjonal kjernejournal skal autentiseres på et høyt sikkerhetsnivå.
+Den dataansvarlige for den nasjonale kjernejournalen kan sette vilkår for tilgang, oppbevare oversikt over utstedte autorisasjoner og føre kontroll med at tilgang skjer i samsvar med reglene for tilgangsstyring.
+Helsepersonell som trenger det for å yte forsvarlig helsehjelp, kan gis tilgang til pasientens legemiddelliste, jf. pasientjournalforskriften § 9 og reseptformidlerforskriften § 1-3 nr. 7, ved sin tilgang til nasjonal kjernejournal.
