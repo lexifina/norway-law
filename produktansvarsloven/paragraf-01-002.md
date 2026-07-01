@@ -1,0 +1,3 @@
+# § 1-2. (definisjoner)
+(1) Med «produkt» menes alle slags varer og løsøre hva enten det er naturprodukt eller industriprodukt, råvare eller ferdigprodukt, delprodukt eller hovedprodukt, også om produktet er innføyd i annet løsøre eller i fast eiendom. «Produkt» omfatter også elektrisitet. Avfall som oppstår under produksjon omfattes dersom avfallet settes i omsetning som ledd i virksomhet som nevnt i § 1-1. Når ikke annet framgår av sammenhengen, menes det skadevoldende eksemplar av produktet.
+(2) Et produkt er «gitt til forbruk» når det er overtatt eller tatt i bruk av den skadelidte eller en annen forbruker, eller anvendt på den skadelidte.

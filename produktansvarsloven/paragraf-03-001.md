@@ -1,0 +1,4 @@
+# § 3-1. (særreglenes virkeområde)
+(1) Personskade voldt av legemiddel (legemiddelskade) eller under utprøving av legemiddel (forsøksskade) erstattes etter bestemmelsene i kapitlet her, for så vidt norsk rett får anvendelse (jf § 1-4).Som forsøksskade anses enhver skade forårsaket av forsøket, f.eks. av legemidlet selv (legemiddelskade), forsøksprosedyren, særskilt prøvetaking, særskilt bruk av teknisk utstyr eller særskilt behandling i tilknytning til forsøket.
+(2) Dersom det skadevoldende legemiddel ikke var gitt til forbruk her i riket, gjelder bestemmelsene bare såframt den direkte skadelidte var bosatt her og samme legemiddelmerke framstilt av samme produsent på skadetiden også var satt i omsetning eller godkjent for registrering her.
+(3) Bestemmelsene i kapittel 1 og 2 gjelder tilsvarende for legemidler så langt de passer og ikke kommer i strid med reglene i kapitlet her.
