@@ -1,0 +1,4 @@
+# § 14. Avhending av strålekilder
+Virksomheter som anskaffer kapslede radioaktive strålekilder skal påse at det eksisterer returordninger i opprinnelseslandet og bruke disse så langt det er mulig. Virksomheten skal opplyse Direktoratet for strålevern og atomsikkerhet om returordningen i forbindelse med godkjenning eller melding etter § 9 og § 13. Virksomheten skal returnere radioaktive kilder som er tatt varig ut av bruk.
+Virksomheter som avhender strålekilder underlagt godkjenning eller melding etter § 9, § 10 og § 13, skal melde dette til Direktoratet for strålevern og atomsikkerhet.
+Radioaktive strålekilder som er kasserte og som ikke kan returneres til opprinnelseslandet, skal deponeres i Norge og håndteres i henhold til forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall kapittel 16.

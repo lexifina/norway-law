@@ -1,0 +1,3 @@
+# § 45. Representative doser og administrert aktivitet
+Virksomheten skal etablere representative doser og aktiviteter for typiske røntgendiagnostiske og nukleærmedisinske undersøkelser samt intervensjonsprosedyrer. De representative dose- og aktivitetsverdiene skal vurderes og sammenlignes med nasjonale diagnostiske referanseverdier gitt av Direktoratet for strålevern og atomsikkerhet. Dersom doseverdiene i vesentlig grad avviker fra de nasjonale referanseverdiene, skal virksomheten kartlegge årsaken og vurdere om tiltak for å redusere eller øke dosene bør iverksettes.
+De representative dose- og aktivitetsverdiene skal revideres jevnlig.
