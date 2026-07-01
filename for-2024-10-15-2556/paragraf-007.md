@@ -1,0 +1,3 @@
+# § 7. Spesielle krav til trafikklærer – klassene A1, A2 og A
+Den som skal undervise i klassene A1, A2 eller A skal være godkjent trafikklærer, ha førerett i klasse A og spesialutdanning i klasse A1, A2 og A fra Nord universitet eller tilsvarende utdanning godkjent av Statens vegvesen.
+Den som skal undervise i obligatoriske kurs ved utvidelse fra klasse A1 til A2, jf. trafikkopplæringsforskriften § 9-21, eller obligatorisk kurs ved utvidelse fra klasse A2 til A, jf. trafikkopplæringsforskriften § 9-24, skal være godkjent trafikklærer i klasse A og ha tilleggsutdanning godkjent av Statens vegvesen.

@@ -1,0 +1,3 @@
+# § 9. Spesielle krav til trafikklærer – klasse BE
+Den som skal undervise i klasse BE må ha godkjenning som trafikklærer og ha spesialutdanning i klassene B kode 96 og BE fra Nord universitet eller tilsvarende utdanning godkjent av Statens vegvesen. I tillegg må trafikklærer ha gjennomført kurs slik dette følger av § 13. Kun godkjent trafikklærer i klasse BE kan undervise i klasse B kode 96.
+Trafikklærer som er godkjent i klasse BE før 15. mars 2025, må kun gjennomføre etterutdanning i henhold til denne forskriften for å oppfylle vilkårene om spesialutdanning i første ledd. Lærer som ikke har gjennomført kurs i sikring av last for klassene C1 og C, jf. § 13 må likevel gjennomføre dette før regodkjenning gis.
