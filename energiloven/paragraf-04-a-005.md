@@ -1,0 +1,3 @@
+# § 4 A-5. Tilsyn
+Forbrukertilsynet og Markedsrådet skal føre tilsyn med at bestemmelsene i §§ 4 A-1 til 4 A-4 overholdes. Tilsynet med bestemmelsene skal utføres i samsvar med reglene i markedsføringsloven §§ 32 til 41, § 42 første ledd annet punktum og §§ 43 til 43 c. Bestemmelsene i kapittel 10 i denne loven gjelder ikke for tilsyn etter første og annet punktum.
+Ved forsettlig eller uaktsom overtredelse av regler nevnt i første ledd første punktum som anses som vesentlig eller har skjedd gjentatte ganger, kan den ansvarlige ilegges et overtredelsesgebyr. Departementet kan gi forskrift om utmålingen av slikt overtredelsesgebyr.

@@ -1,0 +1,3 @@
+# § 8-4. (Energivurdering av varme- og klimaanlegg)
+Eieren av varme- eller klimaanlegg i en bygning skal sørge for dokumenterbare systemer, rutiner eller jevnlige kontroller som legger til rette for energieffektiv drift av anlegget, og skal sørge for at det foreligger en dokumentert vurdering av dimensjoneringen av anlegget. Vurderingen skal oppdateres ved relevante endringer på bygningen eller anlegget.
+Departementet kan gi forskrift om energivurdering av varme- og klimaanlegg, kvalifikasjonskrav for den som utfører energivurdering, dokumentasjonskrav og liknende, og hvilke bygninger og anlegg som omfattes av kravene i første ledd.

@@ -1,0 +1,4 @@
+# § 10-6. (Forskrifter)
+Departementet kan gi forskrift til gjennomføring og utfylling av loven og dens virkeområde.
+Departementet kan gi de forskrifter som er nødvendig for ivaretakelse av Norges forpliktelser etter EØS-avtalen, blant annet forordning om vilkår for tilgang til nett for utveksling av elektrisk energi over landegrensene, forordning om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter, samt bestemmelser om behandling av tvister, saksbehandlingsfrister og utsatt iverksetting av vedtak.
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for konsesjoner etter §§ 4-1 og 4-5 i denne lov, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn. Saksbehandlingsreglene kan fravike reglene i denne loven.

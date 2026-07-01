@@ -1,0 +1,5 @@
+# § 4-6. (Krav om selskapsmessig skille)
+I et integrert foretak skal nettvirksomhet være organisert som en egen selvstendig juridisk enhet, adskilt fra annen virksomhet. Nettforetak skal ikke ha direkte eller indirekte kontroll over foretak som driver annen virksomhet. Foretak som driver produksjon eller omsetning av elektrisk energi eller konsesjonspliktig fjernvarmevirksomhet, skal ikke ha direkte eller indirekte kontroll over nettforetak.
+Første ledd er ikke til hinder for samarbeid om felles driftssentral mellom nettforetak og foretak som driver produksjon av elektrisk energi eller fjernvarmevirksomhet, så lenge nettforetaket har styring og ansvar for driftssentralens nettfunksjoner. Departementet kan gi forskrift om nettforetaks adgang til å selge eller leie ut egen kapasitet, herunder driftskontrollfunksjoner, overskuddskapasitet og i beredskapssituasjoner.
+Departementet kan gi dispensasjon fra hele eller deler av kravet om selskapsmessig skille.
+Departementet kan gi nærmere forskrifter om selskapsmessig skille og fastsette vilkår i konsesjon etter § 4-1 om forhold som nevnt i denne bestemmelsen.
