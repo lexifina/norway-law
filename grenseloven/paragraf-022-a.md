@@ -1,0 +1,5 @@
+# § 22 a. Testing og utvikling
+Opplysninger som behandles i medhold av § 22 første og annet ledd, kan behandles for å utvikle og teste informasjonssystemer til bruk for grensekontrollformål dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger. Opplysningene skal ikke brukes til testing og utvikling lenger enn nødvendig.
+Politiet kan også lagre ansiktsbilder og fingeravtrykk innhentet i medhold av § 22 tredje ledd i inntil seks måneder dersom det er nødvendig for å teste og utvikle informasjonssystemer til bruk for grensekontrollformål, dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger. Opplysninger som lagres etter dette leddet, kan bare behandles til dette formålet.
+Opplysninger som behandles etter annet ledd i bestemmelsen her, skal holdes atskilt. Tilgang skal bare gis til personer som er særskilt bemyndiget. Bemyndigelse gis av den behandlingsansvarlige.
+Ansiktsbilder og fingeravtrykk skal slettes i form av tilintetgjøring, jf. arkivlova § 13 annet ledd.
