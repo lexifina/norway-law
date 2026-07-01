@@ -1,0 +1,3 @@
+# § 2
+Det er et vilkår for rett til stønad at undersøkelsen og behandlingen skjer hos psykologspesialist. Vilkåret om norsk spesialistgodkjenning gjelder ikke for psykologer fra andre EØS-stater som yter midlertidige tjenester i Norge, jf. forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits.
+Det er videre et vilkår at medlemmet er henvist fra lege, psykolog eller fra barnevernsadministrasjonens leder. Dette gjelder likevel ikke for opptil tre utredende undersøkelser eller samtaler, se merknad til takst 10 a–d og f.
