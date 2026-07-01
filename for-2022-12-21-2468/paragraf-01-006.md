@@ -1,0 +1,4 @@
+# § 1-6. Avkorting mv.
+Dersom tilskuddsmottaker uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknaden som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av tilskuddet avkortes.
+Dersom tilskuddsmottaker i henhold til reindriftsmyndighetenes vedtak driver eller har drevet sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, og det er utvist uaktsomhet eller forsett, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
+Dersom Femund reinbeitedistrikt ikke overholder vilkårene for utøvelse av reindrift innenfor distriktets grenser, skal hele eller deler av tilskuddet avkortes.
