@@ -1,0 +1,3 @@
+# § 1. Fastlønnstilskudd
+Folketrygden yter tilskudd til kommunene for fastlønnsstillinger for fysioterapeuter (fastlønnstilskudd). Slikt fastlønnstilskudd gis i stedet for refusjon etter forskrift om stønad til dekning av utgifter til fysikalsk behandling, gitt i medhold av folketrygdloven § 5-8 femte ledd. Fastlønnstilskuddet dekker også tilfeller der folketrygden gir full godtgjørelse, jf. § 5 i nevnte forskrift. I øvrige tilfeller kan medlemmet avkreves de egenandeler som framkommer som differansen mellom honorartakst og refusjonstakst i nevnte forskrift.
+Fastlønnstilskudd gis også for turnuskandidater.
