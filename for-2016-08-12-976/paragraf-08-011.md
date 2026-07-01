@@ -1,0 +1,3 @@
+# § 8-11. Kontraktsvilkår
+(1) Oppdragsgiveren kan fastsette kontraktsvilkår, for eksempel om økonomi, innovasjon, miljø, sysselsetting og sosiale hensyn. Kontraktsvilkårene skal ha tilknytning til leveransen og fremgå av anskaffelsesdokumentene. Der det finnes fremforhandlede og balanserte kontraktsstandarder, skal oppdragsgiveren som hovedregel bruke disse.
+(2) Oppdragsgiveren kan fastsette endringsklausuler, for eksempel en prisindeksklausuler eller opsjoner. Endringsklausulene skal angis i anskaffelsesdokumentene, og det skal fremgå klart hvilke endringer oppdragsgiveren kan foreta, i hvilket omfang og på hvilke vilkår. Endringsklausulene kan ikke åpne for at anskaffelsens overordnede karakter blir endret.

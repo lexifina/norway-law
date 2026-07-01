@@ -1,0 +1,2 @@
+# § 2-7. Unntak for konsesjonskontrakter som gjelder sikkerhetsmessige forhold
+Anskaffelsesloven og forskriften gjelder ikke dersom anvendelsen av disse vil forhindre oppdragsgiveren fra å ivareta vesentlige sikkerhetsinteresser. Anskaffelsesloven og forskriften gjelder likevel dersom oppdragsgiveren kan ivareta disse interessene ved mindre inngripende tiltak, for eksempel ved å pålegge leverandørene taushetsplikt.

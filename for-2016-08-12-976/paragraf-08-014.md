@@ -1,0 +1,5 @@
+# § 8-14. Frister for mottak av forespørsler om å delta i konkurransen og tilbud
+(1) Ved fastsettelsen av frister for mottak av forespørsler om å delta i konkurransen og tilbud skal oppdragsgiveren ta hensyn til konsesjonskontraktens kompleksitet og tiden det tar for leverandørene å utarbeide forespørsler og tilbud.
+(2) Fristen for mottak av forespørsler om å delta i konkurransen og tilbud skal være minst 25 dager regnet fra den dagen den alminnelige kunngjøringen sendes til TED-databasen. Dersom oppdragsgiveren ikke krever at tilbudene skal leveres elektronisk, skal tilbudsfristen være minst 30 dager.
+(3) I konkurranser hvor bare leverandørene som blir invitert av oppdragsgiveren, kan gi tilbud, skal fristen for mottak av det første tilbudet være minst 22 dager regnet fra den dagen oppdragsgiveren sender invitasjonen til å gi tilbud.
+(4) Oppdragsgiveren skal sette en frist som er forholdsmessig lenger enn minimumsfristene i annet og tredje ledd, dersom forespørslene om å delta i konkurransen eller tilbudene bare kan utarbeides etter en befaring eller gjennomgang av anskaffelsesdokumentene på stedet.

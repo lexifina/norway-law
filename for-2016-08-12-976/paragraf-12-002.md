@@ -1,0 +1,3 @@
+# § 12-2. Karensperiode før inngåelse av konsesjonskontrakt
+(1) Oppdragsgiveren kan tidligst inngå en konsesjonskontrakt etter utløpet av en karensperiode som er fastsatt av oppdragsgiver. Karensperioden skal være minst 10 dager regnet fra dagen etter at meddelelsen om valget av leverandør er sendt. Dersom oppdragsgiveren har gjort unntak fra kravet om bruk av elektronisk kommunikasjon, skal karensperioden være minst 15 dager.
+(2) Kravet om karensperiode gjelder ikke når oppdragsgiveren ikke har plikt til å kunngjøre konkurransen, jf. § 9-2 annet ledd, eller når den valgte leverandøren er den eneste berørte leverandøren.

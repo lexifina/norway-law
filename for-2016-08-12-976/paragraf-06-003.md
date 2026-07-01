@@ -1,0 +1,9 @@
+# § 6-3. Blandede anskaffelser som delvis er omfattet av forskriften og delvis av anskaffelsesforskriften eller forsyningsforskriften
+(1) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis innebærer en konsesjon og delvis er omfattet av anskaffelsesforskriften, kan velge å inngå
+a) separate kontrakter etter reglene som gjelder for den enkelte kontrakten, eller
+b) en blandet kontrakt etter reglene i anskaffelsesforskriften. Dersom ytelsen som er omfattet av forskriften overstiger EØS-terskelverdiene i § 5-1, gjelder likevel forskriften når ytelsen som er omfattet av anskaffelsesforskriften ikke overstiger EØS-terskelverdiene i anskaffelsesforskriften § 5-3.
+(2) En oppdragsgiver som skal anskaffe ytelser som kan skilles fra hverandre på en objektiv måte, og som delvis innebærer en konsesjon og delvis er omfattet av forsyningsforskriften, kan velge å inngå
+a) separate kontrakter etter reglene for den enkelte kontrakten, eller
+b) en blandet kontrakt etter reglene i forsyningsforskriften. Dersom ytelsen som er omfattet av forskriften overstiger EØS-terskelverdiene i § 5-1, gjelder likevel forskriften når ytelsen som er omfattet av forsyningsforskriften, ikke overstiger EØS-terskelverdiene i forsyningsforskriften § 5-2.
+(3) En oppdragsgiver som skal anskaffe ytelser som ikke kan skilles fra hverandre på en objektiv måte, men som delvis er omfattet av forskriften og delvis er omfattet av anskaffelsesforskriften eller forsyningsforskriften, skal inngå en blandet kontrakt etter reglene som gjelder for ytelsen som utgjør kontraktens hovedelement. Dersom en slik kontrakt inneholder elementer av både tjenestekonsesjon og vareleveranse, utgjør ytelsen som har den høyeste verdien, kontraktens hovedelement.
+(4) Dersom en blandet kontrakt som nevnt i første, annet eller tredje ledd inneholder forsvars- eller sikkerhetselementer, gjelder i stedet § 6-5.

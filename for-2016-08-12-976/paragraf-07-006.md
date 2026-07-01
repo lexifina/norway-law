@@ -1,0 +1,5 @@
+# § 7-6. Klima- og miljøhensyn
+(1) Oppdragsgiver skal ta hensyn til klima og miljø i alle anskaffelser for å redusere anskaffelsens samlede klimaavtrykk og miljøbelastning.
+(2) I kunngjøringspliktige anskaffelser skal oppdragsgiver som angir tildelingskriteriene i prioritert rekkefølge, angi klima- og miljøhensyn blant de tre høyest prioriterte. Tildelingskriterier etter første punktum kan erstattes eller kombineres med klima- og miljøkrav i kravspesifikasjonen dersom dette gir en bedre klima- eller miljøeffekt. Dette skal begrunnes i anskaffelsesdokumentene.
+(3) Forpliktelsene etter første og andre ledd gjelder ikke dersom anskaffelsen etter sin art har et uvesentlig klimaavtrykk og miljøbelastning, eller dersom forpliktelsene går på bekostning av vesentlige interesser innenfor helse, sikkerhet eller beredskap. Dette skal begrunnes i anskaffelsesdokumentene.
+(4) Forpliktelsene etter første og andre ledd gjelder heller ikke dersom oppdragsgiver med hjemmel i anskaffelsesloven er pålagt å stille standardiserte minimumskrav eller -kriterier til klimaavtrykk eller miljøbelastning. Kravene eller kriteriene må gjelde hovedytelsen som anskaffes.
