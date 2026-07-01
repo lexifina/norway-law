@@ -1,0 +1,2 @@
+# § 8-9. Dividenderetten hvor så vel hovedfordring som regressfordring anmeldes samtidig.
+Når en fordring og fordring på regress fra en medforpliktet for samme fordring anmeldes i et bo, skal dividenden beregnes felles for begge fordringer. Den regressberettigede kan bare kreve den del av dividenden som blir tilbake etter at den felles fordringshaver har fått det som tilkommer ham. Har flere medskyldnere slik dividenderett, skal overskuddet etter at den felles fordringshaver har fått full betaling, fordeles mellom dem etter prinsippet i § 8-8.

@@ -1,0 +1,2 @@
+# § 2-14. Beslutning om avkall på boets rett etter §§ 2-11 til 2-13.
+Når man under bobehandlingen har fått tilfredsstillende oversikt over boets stilling, og fordringshaverne har fått anledning til å uttale seg, kan retten ved kjennelse beslutte at skyldnerens erverv for den gjenstående del av bobehandlingen ikke skal gå inn i boet. Avgjørelsen kan begrenses til bare å gjelde bestemte angitte erverv.

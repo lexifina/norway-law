@@ -1,0 +1,3 @@
+# § 8-2. Motregning med krav som har tilhørt tredjeperson.
+En fordring på skyldneren som er ervervet fra tredjeperson ved overdragelse eller utlegg senere enn tre måneder før fristdagen, kan ikke benyttes til motregning overfor en fordring som skyldneren hadde da den annen ervervet sin fordring. Det samme gjelder uten hensyn til tidspunktet for ervervelsen, dersom erververen på dette tidspunkt visste eller burde vite at skyldneren var insolvent.
+Overdras en fordring på en insolvent skyldner slik at erververen får rett til motregning, kan boet kreve det tap som motregningen medfører, erstattet av overdrageren, dersom denne ved overdragelsen visste eller burde vite at skyldneren var insolvent og at erververen var i gjeld til skyldneren.

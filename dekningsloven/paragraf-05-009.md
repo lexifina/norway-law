@@ -1,0 +1,3 @@
+# § 5-9. Omstøtelse hvor den annen part ikke har vært i god tro.
+Disposisjoner som på en utilbørlig måte begunstiger en fordringshaver på de øvriges bekostning eller unndrar skyldnerens eiendeler fra å tjene til dekning for fordringshaverne eller forøker skyldnerens gjeld til skade for dem, kan omstøtes dersom skyldnerens økonomiske stilling var svak eller ble alvorlig svekket ved disposisjonen, og den annen part kjente eller burde kjent til skyldnerens vanskelige økonomiske stilling og de forhold som gjorde disposisjonen utilbørlig.
+Disposisjoner som er fullbyrdet tidligere enn ti år før fristdagen, kan ikke omstøtes.

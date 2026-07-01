@@ -1,0 +1,4 @@
+# § 8-14. Dividenderetten når fordringshaveren har panterett i skyldnerens eiendeler.
+Når fordringshaveren har panterett som boet må respektere, i eiendeler som på fristdagen tilhører skyldneren, kan dividende bare kreves av den del av fordringen som ikke dekkes av pantet. Er pantet overført til panthaver etter konkursloven § 117c, kan dividende bare kreves av den del av fordringen som overstiger den beregnede verdien på overføringstidspunktet.
+Dersom det ved dividendebetalingen ikke er brakt på det rene hvor stor del av fordringen som vil bli dekket av pantet, skal det, når panthaveren har anmeldt fordringen, foreløpig avsettes dividende av det som overstiger den del av fordringen som det er åpenbart at pantet vil gi dekning for.
+Hvis fordringshaveren også har panterett i eiendeler som tilhører skyldneren, men som boet ikke kan ha rett til å søke dekning i, gjelder panteloven § 1-12 annet ledd tilsvarende.

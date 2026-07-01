@@ -1,0 +1,4 @@
+# § 3-3. Rettsvern.
+Ved beslagsforbud i fast eiendom eller andre registrerbare formuesgoder må beslagsforbudet og i tilfelle som nevnt i § 3-2 også rådighetsinnskrenkingen tinglyses i grunnboken eller registreres i tilsvarende register.
+Ved beslagsforbud i andre formuesgoder må en spesifisert liste over disse tinglyses i løsøreregisteret. Rådigheten over penger, verdipapirer og enkle fordringer som er beheftet med beslagsforbud, må dessuten overføres til en tillitsmann, jf § 3-4. Penger og verdipapirer må overleveres til tillitsmannen; når det gjelder enkle fordringer, må skyldneren etter disse underrettes om at rådigheten over fordringene er gått over til tillitsmannen. Beslagsforbud fastsatt ved testament har rettsvern inntil boet er overtatt til privat skifte og under offentlig skiftebehandling, selv om reglene i første og annet ledd ikke er fulgt.
+For øvrig får de alminnelige rettsvernsregler for overdragelse av vedkommende formuesgode tilsvarende anvendelse.

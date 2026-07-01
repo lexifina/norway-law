@@ -1,0 +1,2 @@
+# § 5-3. Vedtak i foretaksorganer om ansvarsfrihet m.m.
+Vedtak i foretaksorganer om ansvarsfrihet eller om at erstatningskrav ikke skal reises, binder ikke foretakets konkursbo dersom foretaket må antas å ha vært insolvent da vedtaket ble truffet eller konkurs ble åpnet innen ett år etter vedtaket. Erstatningssøksmål må likevel være reist innen ett år etter konkursåpningen dersom slikt vedtak er fattet.

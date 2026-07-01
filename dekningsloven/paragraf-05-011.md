@@ -1,0 +1,5 @@
+# § 5-11. Virkningen av omstøtelse etter §§ 5-2 til 5-8.
+Dersom vilkårene for omstøtelse etter §§ 5-2 til 5-8 foreligger, kan boet kreve at den annen part fralegger seg den berikelse han har oppnådd ved den omstøtelige disposisjon. Boet kan likevel ikke kreve tilbakeført det utbytte som den annen part i god tro har vunnet av den mottatte ytelse før kravet om omstøtelse ble gjort gjeldende ved søksmål. Dersom det mottatte helt eller delvis er gått tapt, kan mulig ansvar overfor boet nedsettes eller eventuelt helt falle bort etter regelen i § 5-12 annet ledd første punktum.
+Når noen av partene krever det, skal oppgjøret skje ved at hver leverer tilbake det mottatte, for så vidt dette er i behold og tilbakelevering kan skje uten urimelig verdispille, idet den nødvendige utligning skjer ved betaling fra en av sidene.
+Har den annen part overdratt det mottatte til en tredjeperson som kjente eller burde kjenne de forhold ved den annen parts rettserverv som kunne føre til omstøtelse, gjelder første og annet ledd tilsvarende overfor tredjeperson.
+Reglene i denne paragraf gjelder ikke for så vidt annet følger av vedkommende bestemmelse om omstøtelse.

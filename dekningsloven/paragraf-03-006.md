@@ -1,0 +1,2 @@
+# § 3-6. Ombytting av beslagsfrie eiendeler.
+Når ikke annet følger av overdragerens bestemmelser, kan tillitsmannen samtykke i at beslagsfrie eiendeler blir avhendet, og i at det blir innkjøpt nye eiendeler for beslagsfrie midler. Beslagsfriheten går over på vederlaget eller de nye eiendeler under forutsetning av at reglene i § 3-3 blir fulgt. Ny tinglysing i løsøreregisteret er likevel ikke nødvendig, men tillitsmannen skal føre en nøyaktig fortegnelse over de eiendeler som til enhver tid omfattes av forbudet.
