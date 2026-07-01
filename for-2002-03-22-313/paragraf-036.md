@@ -1,0 +1,2 @@
+# § 36. Plikt til å la seg kontrollere
+Enhver som utøver jakt, felling eller fangst etter denne forskrift, plikter å la seg kontrollere av politiet, Statens naturoppsyn eller av lokalt jaktoppsyn som er godkjent av det statlige naturoppsynet eller har begrenset politimyndighet. Kommunen og villreinnemnda kan sørge for kontroll av felte dyr. Ved jakt etter villrein kan villreinnemnda også sørge for kontroll med kontrollkort for villrein og eventuell skriftlig fellesjaktavtale.

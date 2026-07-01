@@ -1,0 +1,4 @@
+# § 28. Avliving av skadet storvilt i ordinær jakttid eller fellingsperiode
+Jeger som på lovlig grunn og i lovlig jakttid eller fellingsperiode treffer på storvilt som er såret eller skadet slik at det er påført store lidelser og ikke kan leve eller bli friskt, skal avlive dyret for å hindre unødige lidelser.
+Dersom jegeren ved avliving av hjortevilt har fellingstillatelse på tilsvarende kategori dyr, skal vedkommende straks ta stilling til om dyret skal tas på egen fellingskvote. Tar ikke jegeren dyret på sin fellingskvote tilfaller hjortevilt kommunen, mens annet storvilt tilfaller Viltfondet. Dyret skal straks gjøres opp slik at kjøttet ikke tar skade. Transport av slikt kjøtt må ikke foretas før melding er gitt etter tredje ledd. Er kjøttet ikke brukbart, skal det plasseres slik at det skjemmer terrenget minst mulig.
+Melding om avlivingen skal så snart som råd gis til kommune og valdansvarlig representant.
