@@ -1,0 +1,4 @@
+# § 7-3. Eiendomsrett til uregistrert, ulovlig avlivet eller ulovlig innført vilt
+Vilt som er ulovlig felt eller ulovlig innført til Norge tilfaller det statlige viltfondet. Ulovlig felt eller ulovlig innført villsvin eller hjortevilt tilfaller det kommunale viltfondet.
+Dødt vilt, preparater og egg fra viltarter som ikke er registrert og merket i samsvar med denne forskriften, eller som er registrert og merket etter tidligere regelverk, kan ikke lovlig oppbevares uten at man godtgjør å ha nødvendig tillatelse for det enkelte eksemplar. Forbudet i første punktum gjelder ikke oppbevaring av egg som er sanket med hjemmel i forskrift etter viltressursloven § 11 og egg fra lovlig oppdrettet vilt, når eggene skal benyttes som mat og eggene ikke er tømt for innhold.
+Vilt og egg som ikke lovlig kan oppbevares etter annet ledd er det statlige viltfondets eiendom.

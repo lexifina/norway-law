@@ -1,0 +1,3 @@
+# § 7-6. Plikt til registrering og merking
+Døde eksemplarer av registreringspliktige viltarter som er tatt hånd om, skal i samsvar med § 7-7 registreres i Fallviltbasen. Døde eksemplarer av de artene som er merkepliktige skal merkes i samsvar med § 7-8. Plikten til registrering og merking gjelder også dødt vilt av registrerings- og merkepliktige arter når disse kommer fra oppdrett eller dyrepark, er felt under lovlig jakt og fangst eller er lovlig innført fra utlandet eller fra Svalbard til fastlandet.
+Miljødirektoratet kan etter søknad frita museale, vitenskapelige eller tilsvarende institusjoner fra plikten til å registrere og merke dødt vilt.

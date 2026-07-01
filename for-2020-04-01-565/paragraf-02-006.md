@@ -1,0 +1,2 @@
+# § 2-6. Om bruk av fangstredskap ved ringmerking
+Ved bruk av fangstredskap for å ringmerke fugl og merke flaggermus, skal fangede individer straks merkes og slippes fri. Fangstredskapet skal være under kontinuerlig tilsyn når det står til fangst. Når fangstredskapet ikke lenger er under tilsyn, skal det stenges eller fjernes slik at det ikke kan fange, og det skal merkes med navn og telefonnummer.

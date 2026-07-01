@@ -1,0 +1,1 @@
+# Eiendomsretten til dødt vilt
