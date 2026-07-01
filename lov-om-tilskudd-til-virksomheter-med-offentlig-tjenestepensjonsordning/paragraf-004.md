@@ -1,0 +1,2 @@
+# § 4. Forskrifter
+Kongen kan gi forskrift om innretningen av tilskuddsordningen, herunder virkeområde, beregning av tilskudd, forvaltning av ordningen, vilkår for utbetaling av tilskudd og plikter og forvaltningstiltak overfor private i forbindelse med forvaltningens kontroll av tilskuddsordningen. Kongen kan i forskrift bestemme at virksomheter som omfattes av § 2, likevel ikke skal omfattes av tilskuddsordningen.
