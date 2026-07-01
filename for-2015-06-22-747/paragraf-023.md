@@ -1,0 +1,5 @@
+# § 23. Overgangsregler
+Den som har utenlandsk godkjenning som helsepersonell og yter helsetjenester på vegne av arbeidsgiver og i hovedsak til arbeidsgiverens ansatte og deres familiemedlemmer, og som søker om norsk autorisasjon, lisens eller spesialistgodkjenning senest 1. juli 2016, kan utøve yrket inntil søknaden er avgjort.
+Kravet for privat sykehus på Svalbard om å utarbeide beredskapsplan skal være oppfylt innen 1. oktober 2017.
+Bevillinger og tillatelser etter forskrift 15. juni 1928 nr. 3357 om læge- og sundhetsforholdene på Svalbard § 21 og § 22 gjelder videre.
+Helseforskningsloven, unntatt § 9 og § 10, gjelder også for forskningsprosjekter som er satt i gang før 1. oktober 2015. Prosjekter som er satt i gang, men som ikke er godkjent av en regional komité for medisinsk og helsefaglig forskningsetikk i Norge før 1. oktober 2015, skal meldes til den regionale komiteen som behandler saker i den nordligste regionen (REK Nord). Meldingen skal inneholde opplysninger om forskningsansvarlig og prosjektleder, en beskrivelse av prosjektet og anslåtte tidsrammer for prosjektet.
