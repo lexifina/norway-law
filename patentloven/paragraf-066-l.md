@@ -1,0 +1,2 @@
+# § 66 l
+Har noen i god tro i nærings- eller driftsøyemed her i riket i perioden mellom avgjørelse fra Klagenemnden i Det europeiske patentverket og kunngjøring av avgjørelse fra Den utvidete klagenemnden i Det europeiske patentverket begynt, eller gjort vesentlige forberedelsestiltak til, å utnytte en oppfinnelse som er gjenstand for en publisert europeisk patentsøknad eller et publisert europeisk patent, kan vedkommende uten hinder av patentsøkerens eller patenthaverens rett fortsette utnyttelsen på tilsvarende måte. Bestemmelsen i § 74 tredje ledd gjelder tilsvarende.

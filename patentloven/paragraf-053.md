@@ -1,0 +1,4 @@
+# § 53
+Er patent meddelt til en annen enn den som etter § 1 er berettiget til det, skal retten, hvis den berettigede nedlegger påstand om det, overføre patentet til ham.
+Søksmålsfristene i § 52 fjerde og femte ledd kommer tilsvarende til anvendelse på søksmål som her omhandlet.
+Har den som frakjennes patentet, i god tro begynt å utnytte oppfinnelsen i nærings- eller driftsøyemed her i riket, eller har han truffet vesentlige foranstaltninger til dette, er han berettiget til mot rimelig vederlag og på rimelige vilkår for øvrig å fortsette den foretatte eller igangsette den forberedte utnyttelse med bibehold av dennes alminnelige karakter. Sådan rett tilkommer under samme forutsetninger innehavere av registrerte lisenser. Retten kan ikke overgå til andre uten i forbindelse med den virksomhet hvori utnyttelsen finner sted eller tok sikte på å finne sted.

@@ -1,0 +1,4 @@
+# § 3 b
+Hvis planteformeringsmateriale med patenthaverens samtykke selges eller overdras på annen måte til en gårdbruker for landbruksformål, har gårdbrukeren rett til å anvende avlingen sin til formering eller oppformering i egen driftsenhet uten hinder av § 3 a første til tredje ledd.
+Hvis avlsdyr eller annet animalsk formeringsmateriale med patenthaverens samtykke selges eller overdras på annen måte til en gårdbruker, har gårdbrukeren rett til å anvende det beskyttede dyret eller formeringsmaterialet til landbruksformål i egen landbruksvirksomhet uten hinder av § 3 a første til tredje ledd. Forrige punktum gir ikke rett til å selge materialet som ledd i eller med sikte på kommersiell formeringsvirksomhet.
+Kongen kan gi forskrift om vilkårene for og omfanget av gårdbrukerens rett etter paragrafen her.

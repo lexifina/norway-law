@@ -1,0 +1,2 @@
+# § 66 d
+Har noen i god tro begynt å utnytte oppfinnelsen i nærings- eller driftsøyemed her i riket eller gjort vesentlige forberedelsestiltak til det etter at frister som nevnt i § 66 c er oversittet, men før det er kunngjort at fristoversittelsen ikke får virkning, kan vedkommende uten hinder av patentet fortsette utnyttelsen på tilsvarende måte. Bestemmelsen i § 74 tredje ledd gjelder tilsvarende.

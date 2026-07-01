@@ -1,0 +1,2 @@
+# § 75
+Patentstyrets sjef bestemmer hvem som skal avgjøre begjæringer i henhold til §§ 72 og 73. Avslag på slik begjæring, og på begjæring om gjenoppretting av prioritet etter § 28 annet ledd fjerde punktum, kan av patentsøkeren eller patenthaveren påklages til Klagenemnden. Om klagefrist m.m. og adgangen til å bringe avgjørelser truffet av Klagenemnden inn for domstolene gjelder § 27 tilsvarende.

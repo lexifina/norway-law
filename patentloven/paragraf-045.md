@@ -1,0 +1,3 @@
+# § 45
+Er tre år gått fra patentets meddelelse og fire år fra patentsøknadens inngivelse uten at oppfinnelsen utøves innen riket i et rimelig omfang, kan den som vil utøve oppfinnelsen her i riket, få tvangslisens til dette, såfremt det ikke foreligger rimelig grunn for unnlatelsen.
+Ved anvendelsen av første ledd skal utøvelse av oppfinnelsen i stater som er part i WTO-avtalen eller EØS-avtalen, likestilles med utøvelse her i riket, såfremt patentrettighetene ikke hindrer import til riket. Det samme gjelder utøvelse i andre stater i den grad det følger av en gjensidig forpliktelse etter en folkerettslig avtale.

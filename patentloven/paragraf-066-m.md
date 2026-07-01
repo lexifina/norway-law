@@ -1,0 +1,5 @@
+# § 66 m
+Dersom en europeisk patentsøknad som er innlevert til et nasjonalt patentverk blir ansett trukket tilbake som følge av at søknaden ikke er sendt til Det europeiske patentverket innen fastsatt frist, skal Patentstyret etter begjæring fra søkeren anse søknaden som en søknad om patent her i riket når:
+a) begjæringen er fremsatt til den nasjonale myndighet som mottok søknaden innen tre måneder etter at søkeren ble gitt melding om at søknaden var ansett trukket tilbake, og
+b) begjæringen er oversendt til Patentstyret innen 20 måneder fra søknadens inngivelsesdag eller, dersom prioritet er begjært, fra prioritetsdagen.
+Dersom vilkårene i første ledd er oppfylt, skal Patentstyret ta søknaden under behandling når søkeren innen en frist fastsatt av Kongen betaler fastsatt gebyr og sender inn en oversettelse av søknaden til norsk eller engelsk, eller en kopi av søknaden dersom den er på engelsk. Oppfyller søknaden de formelle krav i den europeiske patentkonvensjonen, skal de tilsvarende krav i loven her anses oppfylt.

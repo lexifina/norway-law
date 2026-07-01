@@ -1,0 +1,4 @@
+# § 39 c
+Har patenthaveren ikke iakttatt det som er foreskrevet om begjæringen, eller finner Patentstyret at det for øvrig er noe til hinder for å imøtekomme den, skal patenthaveren underrettes om dette og oppfordres til innen en nærmere angitt frist å uttale seg eller foreta rettelse.
+Unnlater patenthaveren innen fristen å avgi uttalelse eller foreta handling for rettelse av en anmerket mangel, skal begjæringen avslås. Opplysning om at så i tilfelle vil skje, skal inntas i Patentstyrets underretning etter første ledd.
+Finner Patentstyret også etter at patenthaverens svar er innkommet at det foreligger hinder for å imøtekomme begjæringen, og har patenthaveren hatt anledning til å uttale seg om hindringen, skal begjæringen avslås om ikke Patentstyret finner at patenthaveren bør tilskrives på nytt.

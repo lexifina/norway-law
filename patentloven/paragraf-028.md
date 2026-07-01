@@ -1,0 +1,4 @@
+# § 28
+Med internasjonal patentsøknad menes søknad inngitt i henhold til konvensjonen om patentsamarbeid vedtatt i Washington 19. juni 1970 (samarbeidskonvensjonen).
+Internasjonale patentsøknader inngis til nasjonale patentmyndigheter eller internasjonale organisasjoner som i henhold til samarbeidskonvensjonen er berettiget til å motta slike søknader (mottakende myndigheter). Patentstyret er mottakende myndighet i henhold til bestemmelser gitt av Kongen. For internasjonal søknad som inngis til Patentstyret, skal søkeren betale fastsatt gebyr. Kongen gir forskrift om gjenoppretting av prioritet der fristen etter § 6 første ledd utilsiktet er oversittet overfor Patentstyret som mottakende myndighet, herunder om frist for å begjære gjenoppretting og om gebyr.
+For internasjonale patentsøknader som omfatter Norge, gjelder bestemmelsene i §§ 29-38.
