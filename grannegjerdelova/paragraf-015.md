@@ -1,0 +1,3 @@
+# § 15
+Kjem jordskifteretten til at der er skyldnad til å halde gjerde, tek jordskifteretten turvande avgjerder om korleis gjerdet skal vera, og kva tid det seinast skal bli sett i lovleg stand. Slike avgjerder skal mest mogeleg retta seg etter det grannane sjølve ynskjer, og etter skikk og bruk på staden.
+Er det jordbruks- eller skogbrukseigedom på ei av sidene, skal gjerdet vera minst 1,10 meter høgt og så sterkt og tett, at det fredar mot hest, naut og sau, så langt ikkje anna fylgjer av vedtekt etter § 18 b, eller avtale partane imellom. Der det er rein jordbruks- eller skogbrukseigedom på båe sider, er det ingen skyldnad til å halda gjerdet i stand utanom den tida på året då marka er tenleg til beiting (jfr. § 18 c).

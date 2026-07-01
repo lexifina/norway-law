@@ -1,0 +1,3 @@
+# § 17
+Avgjerdene jordskifteretten tek er tvangsgrunnlag på same måte som orskurder. Klagen har ikkje utsetjande verknad om ikkje jordskifteretten vedtek noko anna. Føresegna i tvisteloven § 19-13 tredje og fjerde stykket gjeld tilsvarande.
+Når den eine grannen ikkje oppfyller gjerdehaldsskyldnaden, kan namsfuten lata den andre få fullmakt til å setja arbeidet i verk på den fyrstnemnde sin kostnad. Har kravet ikkje tvangskraft, skal namsfuten gjeva grannen høve til å seia si meining før namsfuten tek avgjerd. Er det ikkje tvangsgrunnlag frå før, kan tvist om kostnadsspørsmålet avgjerast av jordskifteretten når arbeidet er gjort.

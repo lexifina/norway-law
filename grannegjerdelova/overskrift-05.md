@@ -1,0 +1,1 @@
+# Avgjerd om gjerdehald
