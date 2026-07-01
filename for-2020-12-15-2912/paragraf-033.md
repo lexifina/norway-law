@@ -1,0 +1,4 @@
+# § 33. Permisjon ved fødsel og adopsjon
+Etter fødsel har foreldre som deltar i opplæring i norsk og samfunnskunnskap rett til omsorgspermisjon i til sammen opptil ti måneder i barnets første leveår. Tar ikke begge foreldrene omsorgen for barnet, kan retten til omsorgspermisjon utøves av en annen som tar omsorgen for barnet dersom vedkommende selv er deltager i opplæring i norsk og samfunnskunnskap etter integreringsloven kapittel 6.
+Kommunen skal tilby oppfølging og norskopplæring eller språktrening til deltagere som er i omsorgspermisjon etter fødsel eller adopsjon. Tilbudet skal gis fra og med den fjerde måneden av permisjonstiden og tilpasses den enkelte deltager.
+Ved adopsjon har adoptivforeldre som deltar i opplæring i norsk og samfunnskunnskap rett til omsorgspermisjon i til sammen opptil ti måneder, dersom barnet er under 15 år.
