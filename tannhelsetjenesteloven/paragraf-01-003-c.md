@@ -1,0 +1,2 @@
+# § 1-3c. Fylkeskommunens ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep
+Fylkeskommunen skal ha særlig oppmerksomhet rettet mot at pasienter kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. Fylkeskommunen skal legge til rette for at den offentlige tannhelsetjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.
