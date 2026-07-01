@@ -1,0 +1,2 @@
+# § 7-2. Retten til å holde tilbake egen ytelse.
+Viser det seg at skyldneren mangler midler til å oppfylle sin del av en gjensidig tyngende avtale i rett tid, kan den annen part holde sin ytelse tilbake, eller når ytelsen er avsendt fra leveringsstedet, hindre at den blir overgitt til skyldneren eller dennes bo inntil sikkerhet blir stilt for motytelsen. Dette gjelder selv om tidspunktet for skyldnerens ytelse ikke er kommet.

@@ -1,0 +1,4 @@
+# § 8-1. Motregning. Hovedregel.
+Den som ved åpningen av bobehandlingen har en fordring på skyldneren som kan meldes i boet, kan benytte den til motregning med dens fulle beløp overfor en fordring som da tilkommer skyldneren, men som inngår i boet.
+Motregning kan ikke skje dersom motregning på grunn av fordringenes beskaffenhet ville være utelukket selv om skyldneren var solvent. At motfordringen opprinnelig gikk ut på annet enn penger, eller at motfordringen forfaller senere enn skyldnerens fordring, utelukker likevel ikke motregning. Motregning kan imidlertid ikke kreves når skyldnerens fordring var forfalt før boåpningen, mens motfordringen først forfaller etter dette tidspunkt.
+Er etter foranstående regler motregning utelukket på ett stadium av insolvensbehandlingen, kan motregning heller ikke skje på et senere tidspunkt.

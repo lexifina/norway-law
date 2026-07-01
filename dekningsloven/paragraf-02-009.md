@@ -1,0 +1,2 @@
+# § 2-9. Avkall på beslagsfriheten
+De rettigheter som §§ 2-3 til 2-7 gir skyldneren, kan skyldneren ikke gi avkall på før namsmyndigheten har varslet skyldneren etter tvangsfullbyrdelsesloven § 7-6 eller innkrevingsloven § 25 eller konkurs blir åpnet. Gir skyldneren etter dette tidspunkt slikt avkall, skal namsmyndigheten eller tingretten påse at dette ikke kommer i strid med tilbørlig hensyn til ektefelle og barn eller offentlige interesser.

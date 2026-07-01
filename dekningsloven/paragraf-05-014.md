@@ -1,0 +1,2 @@
+# § 5-14. Betaling av veksel eller sjekk.
+Har skyldneren betalt veksel eller sjekk, kan omstøtelse ikke skje overfor den som ved å nekte å motta betalingen ville miste sin rett til å fordre vekselen eller sjekken dekket av andre, med mindre det blir bevist at dekning ikke kunne vært oppnådd hos disse. Derimot plikter den som ville ha båret det endelige tap hvis betalingen ikke hadde skjedd, å betale erstatning under samme vilkår som for omstøtelse dersom betalingen hadde skjedd til ham som fordringshaver.

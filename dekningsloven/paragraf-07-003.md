@@ -1,0 +1,3 @@
+# § 7-3. Konkursboets rett til å tre inn i skyldnerens avtaler.
+Kommer skyldnerens bo under konkursbehandling, har konkursboet rett til å tre inn i de gjensidig tyngende avtaler skyldneren har sluttet. Konkursboet kan velge om det vil tre inn i en avtale, selv om avtalen har løpt videre etter åpningen av en forutgående gjeldsforhandling. Den annen part kan kreve at konkursboet uten ugrunnet opphold tar stilling til om det vil benytte sin rett.
+Bestemmelsene i foregående ledd griper ikke inn i den annen parts rett til å påberope insolvensen som opphørsgrunn etter avtalens art. Avtalebestemmelse som gir den annen part en videre adgang til å heve på grunn av skyldnerens insolvens, er ikke bindende for boet.

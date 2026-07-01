@@ -1,0 +1,2 @@
+# § 8-8. Regress mellom solidarskyldnernes bo.
+Dersom summen av de dividender fordringshaveren kan kreve i de solidarisk forpliktede skyldneres bo, overstiger det beløp fordringshaveren i alt har krav på, skal det overskytende fordeles mellom skyldnerne eller deres bo, slik at de beløp hver enkelt endelig blir belastet med, så vidt mulig svarer til det vedkommende skulle ha båret etter rettsforholdene mellom dem. For øvrig kan det ikke gjøres gjeldende noen regress mot boene.
