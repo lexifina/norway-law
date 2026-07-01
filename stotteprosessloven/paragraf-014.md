@@ -1,0 +1,2 @@
+# § 14. Adgangen til å fremme krav om tilbakeføring
+Støttegiveren kan fatte enkeltvedtak etter § 12 med krav om tilbakeføring av ulovlig støtte i inntil tre år etter at støtten ble tildelt. Tidsbegrensningen gjelder ikke dersom ESA har fattet vedtak om tilbakeføring. Dersom en tredjepart reiser søksmål mot støttegiveren om tilbakeføringsplikten etter § 12, suspenderes fristen frem til domstolen har fattet endelig avgjørelse i saken.

@@ -1,0 +1,5 @@
+# § 3. Offentlig støtte gjennom skatte- og avgiftssystemet
+Ved tildeling og kontroll av offentlig støtte som gis gjennom fastsetting av skatter som nevnt i skatteforvaltningsloven § 1-1, gjelder skatteforvaltningsloven så langt den passer.
+Det samme gjelder ved tilbakeføring av ulovlig støtte, likevel slik at § 12 første ledd og annet ledd annet og tredje punktum og § 14 tredje punktum i loven her også gjelder. Endringsfristene i skatteforvaltningsloven § 12-6 gjelder ikke dersom ESA har fattet vedtak om tilbakeføring.
+Mottakere av offentlig støtte som nevnt i første ledd skal i minst ti år etter at støtten ble tildelt, oppbevare opplysninger som er nødvendige for å kontrollere at tildelingen er i tråd med støttereglene.
+Departementet kan gi forskrift om tildeling, kontroll og tilbakeføring av offentlig støtte som nevnt i første ledd. Det kan i slike forskrifter gjøres unntak fra reglene i skatteforvaltningsloven, skattebetalingsloven og innkrevingsloven i den utstrekning det er nødvendig for å oppfylle EØS-rettslige forpliktelser.
