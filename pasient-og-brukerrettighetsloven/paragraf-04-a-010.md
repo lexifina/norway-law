@@ -1,0 +1,2 @@
+# § 4A-10. Domstolsprøving
+Vedtak i klagesak etter § 4A-7 som innebærer innleggelse og tilbakeholdelse i institusjon, eller helsehjelp som strekker seg ut over tre måneder, kan av pasienten eller pasientens nærmeste pårørende bringes inn for retten etter reglene i lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven) kapittel 36. Tilsvarende gjelder for statsforvalterens vedtak om helsehjelp som innebærer innleggelse og tilbakeholdelse, eller som strekker seg ut over tre måneder, jf. § 4A-8.

@@ -1,0 +1,4 @@
+# § 4-9. Pasientens rett til å nekte helsehjelp i særlige situasjoner
+Pasienten har på grunn av alvorlig overbevisning rett til å nekte å motta blod eller blodprodukter eller til å nekte å avbryte en pågående sultestreik.
+En døende pasient har rett til å motsette seg livsforlengende behandling. Er en døende pasient ute av stand til å formidle et behandlingsønske, skal helsepersonellet unnlate å gi helsehjelp dersom pasientens nærmeste pårørende tilkjennegir tilsvarende ønsker, og helsepersonellet etter en selvstendig vurdering finner at dette også er pasientens ønske og at ønsket åpenbart bør respekteres.
+Helsepersonell må forsikre seg om at pasient som nevnt i første og annet ledd er over 18 år og ikke er fratatt rettslig handleevne på det personlige området, og at vedkommende er gitt tilfredsstillende informasjon og har forstått konsekvensene for egen helse ved behandlingsnektelsen.

@@ -1,0 +1,7 @@
+# § 3-4. Informasjon når pasienten eller brukeren er under 18 år
+Er pasienten eller brukeren under 16 år, skal både pasienten eller brukeren og foreldrene eller andre som har foreldreansvaret informeres.
+Er pasienten eller brukeren mellom 12 og 16 år, skal informasjon ikke gis til foreldrene eller andre som har foreldreansvaret når pasienten eller brukeren av grunner som bør respekteres, ikke ønsker dette.
+Uavhengig av pasientens eller brukerens alder, skal informasjon ikke gis til foreldrene eller andre som har foreldreansvaret, dersom tungtveiende hensyn til pasienten eller brukeren taler mot det.
+Informasjon som er nødvendig for å oppfylle foreldreansvaret, skal likevel gis til foreldrene eller andre som har foreldreansvaret, når pasienten eller brukeren er under 18 år. Pasienten eller brukeren skal orienteres om at informasjonen gis.
+Dersom det kan bli aktuelt å unnta informasjon fra foreldrene eller andre som har foreldreansvaret etter andre eller tredje ledd, skal pasienten eller brukeren så tidlig som mulig orienteres om retten til informasjon for foreldrene eller andre som har foreldreansvaret og unntakene fra denne retten.
+Har barnevernstjenesten overtatt omsorgen for en pasient eller bruker under 18 år etter barnevernsloven § 4-2 eller 5-1 eller vedtatt flytteforbud etter barnevernsloven § 4-3, gjelder første til femte ledd tilsvarende for barnevernstjenesten og for fosterforeldre eller institusjonen der barnet bor.

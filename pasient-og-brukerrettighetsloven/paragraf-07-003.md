@@ -1,0 +1,2 @@
+# § 7-3. Klagens form og innhold
+Klage til statsforvalteren skal være skriftlig. Klagen skal være undertegnet av pasienten eller brukeren eller den som representerer pasienten eller brukeren. Klagen bør nevne det forhold som det klages over og gi opplysninger som kan være av betydning for behandlingen av klagen. Inneholder klagen feil eller mangler, setter statsforvalteren en kort frist for rettelse eller utfylling.
