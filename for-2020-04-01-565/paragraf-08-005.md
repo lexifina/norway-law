@@ -1,0 +1,4 @@
+# § 8-5. Overgangsbestemmelse
+Tillatelser til hold av vilt som kjæledyr eller hobbydyr, som er gitt før denne forskriftens ikrafttredelse, gjelder så lenge individene er i live. Slike tillatelser omfatter ikke avkom født etter denne forskriftens ikrafttredelse.
+Tillatelser til hold av vilt i oppdrett og dyrepark, som er gitt før denne forskriftens ikrafttredelse, gjelder fortsatt.
+Forbudet mot hold av vilt i viltressursloven § 49 gjelder ikke hold av individer av vilt som lovlig ble holdt som kjæledyr eller hobbydyr da viltressursloven trådte i kraft. Til og med 31. desember 2027 er det også tillatt å holde avkom av disse individene, så lenge avl ikke strider mot tillatelse til innførsel av fremmede organismer etter naturmangfoldloven § 29 med tilhørende forskrift. Forbudet i viltressursloven § 49 gjelder heller ikke individer som lovlig ble holdt i dyrepark eller i landbruk da viltressursloven trådte i kraft og avkom av disse individene.

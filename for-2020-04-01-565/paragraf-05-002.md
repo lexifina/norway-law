@@ -1,0 +1,2 @@
+# § 5-2. Plikt til varsling ved rømming
+Ved rømming, og ved innfanging og uttak av rømte dyr, skal eier straks varsle kommunen. I tillegg skal berørte grunneiere om mulig varsles dersom dyret skal avlives, innfanges eller tar opphold på deres eiendom. Dersom det rømte dyret er gaupe, jerv, bjørn eller ulv, eller en viltart som ikke forekommer naturlig på stedet, skal i tillegg Miljødirektoratet varsles.
