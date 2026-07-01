@@ -1,0 +1,5 @@
+# § 4. Særlig om gjerdetiltak
+For gjerdetiltak med flere involverte interessenter på grunneiersiden, skal det opprettes avtale mellom disse om gjennomføring av byggearbeidet og det framtidige vedlikehold. Avtalen skal fastsette hvor stor andel av eventuelle byggekostnader som påhviler hver av partene, samt hvordan arbeids- og kostnadsmessige sider ved vedlikeholdet skal fordeles. Avtalen kan tinglyses som heftelse på de aktuelle eiendommer.
+Dersom søker av tilskudd ikke eier grunnen der anlegget skal oppføres, må det innhentes skriftlig tillatelse fra hjemmelshaver til gjennomføring av tiltaket.
+Alt byggearbeid skal skje i henhold til gjeldende lover og forskrifter innen området der anlegget skal føres opp.
+For gjerdeanlegg må det videre utarbeides arbeidsbeskrivelse med kartfestet trasévalg, samt kostnadsoverslag og finansieringsplan. Kostnadsoverslaget kan omfatte utgifter til rydding av trevirke i gjerdetraseen, materialutgifter, samt transport- og arbeidsutgifter ved oppføring av gjerdet. Erstatninger og skjønnsutgifter skal ikke inngå i kostnadsoverslaget.
