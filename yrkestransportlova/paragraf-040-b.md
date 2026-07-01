@@ -1,0 +1,12 @@
+# § 40 b. Lovbrotsgebyr knytt til tildeling av tenestekonsesjonskontraktar
+(1) Departementet kan påleggje oppdragsgjevar eit lovbrotsgebyr dersom oppdragsgjevaren bryt reglar som skal sikre openheit og ikkje-diskriminering i prosessen med å tildele konsesjonskontraktar for transporttenester etter lova her. Lovbrotsgebyret kan verte pålagt dersom eitt av følgjande vilkår er oppfylt:
+a) brotet er konstatert ved rettskraftig dom i ein norsk domstol,
+b) brotet er konstatert ved dom i EFTA-domstolen, eller
+c) norske styresmakter har innrømt brotet etter at saka er handsama i EFTAs overvakingsorgan. Dersom oppdragsgjevaren ikkje har hatt høve til å uttale seg i saka før innrømminga fann stad, og det er grunn til å rekne med at dette har hatt verknad på innrømminga, kan innrømminga ikkje gje grunnlag for lovbrotsgebyr.
+(2) Lovbrotsgebyret skal ikkje overstige 15 % av kontraktsverdien.
+(3) Ved utmåling av gebyret skal det særleg leggjast vekt på kontraktsverdien, kor grovt brotet er, om oppdragsgjevaren har gjort gjentekne brot, den preventive verknaden av lovbrotsgebyret, kor langt tilbake i tid brotet har skjedd, og om brotet har ført til skadebot, terminering eller avkorting av kontrakten.
+(4) Fristen for å betale lovbrotsgebyret er åtte veker frå vedtaket vart gjort.
+(5) Avgjerd om å påleggje lovbrotsgebyr etter denne føresegna skal følgje reglane om enkeltvedtak i forvaltningslova så langt dei høver. Dersom ei avgjerd om lovbrotsgebyr vert bringa inn for ein domstol, kan domstolen prøve alle sidene av saka. Retten kan gje dom for realitet.
+(6) Lovbrotsgebyr kan ikkje påleggjast seinare enn tre år etter at kontrakten vart inngått. Fristen vert avbroten ved at det vert teke ut søksmål ved norsk domstol eller ved EFTA-domstolen for å få dom i saka, eller ved at EFTAs overvakingsorgan tek opp saka skriftleg med norske styresmakter.
+(7) I tilfelle der departementet sjølv eller eit anna statleg organ som er underlagt departementet gjer brot som nemnt i første ledd, kan departementet delegere kompetansen til å påleggje lovbrotsgebyret til Klagenemnda for offentlige anskaffelser. Avgjerd frå Klagenemnda for offentlige anskaffelser om å påleggje lovbrotsgebyr kan ikkje påklagast.
+(8) Departementet kan gje forskrift om fastsetjing av lovbrotsgebyret, medrekna utmåling av gebyret, renter og tilleggsgebyr og avgrensing av kva tenestekonsesjonskontraktar som fell inn under føresegna her.

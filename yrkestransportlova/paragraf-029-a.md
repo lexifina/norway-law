@@ -1,0 +1,4 @@
+# § 29 a. Elektronisk register over dei som har og dei som søkjer om løyve etter lova her
+(1) Departementet skal opprette og drive eit elektronisk register over dei som har forretningsstad i Noreg, og som har eller som søkjer om løyve etter lova her. Registeret skal innehalde opplysningar knytt til løyve, mellom anna opplysningar om namn og juridisk form på verksemda, verksemda si adresse, talet på tilsette, namn på transportleiarar og løyvetype som er tildelt verksemda. I tillegg skal registeret innehalde opplysningar om vandel knytt til person og verksemd og opplysningar som vert nytta til å velje ut køyretøy til kontroll, jf. forskrifter gjevne i medhald av vegtrafikklova § 19 andre ledd.
+(2) Registeret skal koplast saman med dei elektroniske registera i dei andre EØS-landa for utveksling av informasjon etter vilkår som vert nærare fastsette av departementet.
+(3) Departementet kan gje nærare forskrift om registeret.

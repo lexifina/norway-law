@@ -1,0 +1,2 @@
+# § 17. Transport av post
+Posten Norge AS treng ikkje løyve for transport av postsendingar som ligg innanfor samfunnspålagte oppgåver og som følgjer av selskapet sin konsesjon etter lov 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger (postloven). Unnatak frå løyveplikta gjeld berre transporter som Posten Norge AS utfører med motorvogner selskapet eig eller har bruksretten til etter leasing- eller leigekontrakt som skal visast fram ved kontroll.

@@ -1,0 +1,5 @@
+# § 10. Transport med motorvogn til eller frå utlandet mv.
+(1) Den som har forretningsstad i Noreg og som vil utføre transport av personar eller gods mot vederlag til eller frå utlandet, må ha rett til å utføre tilsvarande transport innanlands og dessutan ha særskilt samtykke frå vedkommande stat dersom dette krevst.
+(2) Den som har forretningsstad i utlandet og som vil utføre transport av personar eller gods mot vederlag til eller frå Noreg, må ha særskilt samtykke frå Noreg når ikkje anna følgjer av internasjonal avtale der Noreg er part.
+(3) Den som ikkje har forretningsstad i Noreg kan ikkje utføre transport av personar eller gods mot vederlag mellom stader i Noreg, dersom ikkje anna følgjer av internasjonal avtale der Noreg er part. I einskildvedtak kan departementet òg gje samtykke til slik transport for verksemder frå land som Noreg ikkje har tilsvarande avtale med.
+(4) Departementet kan i forskrift fastsetje nærare reglar og vilkår for transport mot vederlag med motorvogn til eller frå Noreg, og for transport mot vederlag mellom stader i Noreg utført av den som har forretningsstad i utlandet.
