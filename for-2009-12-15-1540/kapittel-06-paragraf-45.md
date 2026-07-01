@@ -1,0 +1,2 @@
+# § 6-13-6. Registrerings- og dokumentasjonsplikt mv.
+Fritakene i § 6-13-1 første og fjerde ledd skal dokumenteres med salgsdokument og erklæring fra amerikanske myndigheter som nevnt i artikkel XVI i Tilleggsavtale mellom Norge og USA om forsvarssamarbeid. Fritakene i § 6-13-3 til § 6-13-5 skal dokumenteres med salgsdokument og bekreftelse fra kjøperen på hvilket fritatt formål anskaffelsen er til.

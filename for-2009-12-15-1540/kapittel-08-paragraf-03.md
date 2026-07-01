@@ -1,0 +1,2 @@
+# § 8-2-2. Felles driftskostnader
+Dersom varer og tjenester anskaffes til bruk under ett for virksomhetens felles drift, kan fradrag for inngående merverdiavgift på kostnadene kreves for så stor del som svarer til den avgiftspliktige omsetning og uttak, merverdiavgift ikke medregnet, i forhold til virksomhetens samlede omsetning i forrige regnskapsår. Det er et vilkår for slik fordeling at den i rimelig grad gjenspeiler bruken.

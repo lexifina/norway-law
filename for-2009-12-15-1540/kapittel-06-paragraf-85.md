@@ -1,0 +1,2 @@
+# § 6-30-10. Varer til norske fiske- og fangstfartøy som oppholder seg utenfor merverdiavgiftsområdet
+Omsetning av mat, drikke og tobakksvarer til norske fiske- og fangstfartøy er fritatt for merverdiavgift dersom det er gitt tillatelse til proviantering etter vareførselsforskriften § 5-9-7, jf. § 5-9-12. Tilsvarende gjelder for norske varer eller varer som er gått over til fri disponering. Det er et vilkår for fritak at varene leveres direkte til fartøyet.

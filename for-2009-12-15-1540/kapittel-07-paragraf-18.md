@@ -1,0 +1,4 @@
+# § 7-4-2. Reklamemateriell, reklamefilm og opplysningsmateriell fra andre lands turistmyndigheter
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av reklamemateriell i form av kataloger, prislister, handelsannonser og lignende om varer og transport- eller forsikringstjenester. Fritaket gjelder forsendelser som består av ett dokument, ulike dokumenter eller like dokumenter som samlet ikke veier over ett kilo.
+(2) Det skal ikke beregnes merverdiavgift ved innførsel av reklamefilm som omhandler en bestemt vare og som er egnet for fremvisning for fremtidige kunder. Fritaket omfatter ikke film som er egnet for alminnelig offentlig fremvisning.
+(3) Det skal ikke beregnes merverdiavgift ved innførsel av opplysningsmateriell fra andre lands turistmyndigheter i form av generell turistreklame fra det aktuelle landet, herunder plakater, brosjyrer, ruteplaner, kart og lignende som skal deles ut gratis her i landet. Fritaket omfatter ikke reklamemateriell for foretak.

@@ -1,0 +1,6 @@
+# § 6-30-6. Registrerings- og dokumentasjonsplikt mv.
+(1) Fritaket i § 6-30-4 skal dokumenteres med salgsdokument som skal inneholde opplysning om hvilket fartøy varene er levert til. Selgeren må ha en bekreftelse fra kjøperen på at varene er mottatt om bord til bruk på fartøyet. Bekreftelsen må foreligge på leveringstidspunktet.
+(2) Ved levering av varer som nevnt i § 6-30-4 annet ledd annet punktum skal fritaket også dokumenteres med tillatelse til proviantering etter vareførselsforskriften § 5-9-7, jf. § 5-9-10. Fritaket skal dokumenteres med attest for utførsel i samsvar med vareførselsforskriften § 5-9-2 tredje og fjerde ledd. Kravet til bekreftelse som nevnt i første ledd gjelder ikke.
+(3) Ved levering av varer som nevnt i § 6-30-4 tredje ledd skal fritaket også dokumenteres med deklarasjon. Annet ledd annet og tredje punktum gjelder tilsvarende.
+(4) Ved levering av varer til reders speditør, jf. § 6-30-4 fjerde ledd, skal fritaket også dokumenteres med en skriftlig bestilling fra kjøperen. Bestillingen skal inneholde opplysninger som nevnt i bokføringsforskriften § 5-1-1 nr. 1-4, samt opplysning om hvilket fartøy varene skal leveres til. Både kjøperen og selgeren skal oppbevare et eksemplar av bestillingen. Kravet til bekreftelse som nevnt i første ledd gjelder ikke.
+Norske spesialfartøy til bruk i petroleumsvirksomhet til havs

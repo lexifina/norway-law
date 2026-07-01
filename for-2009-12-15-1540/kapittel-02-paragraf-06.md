@@ -1,0 +1,5 @@
+# § 2-3-2. Registrerings- og dokumentasjonsplikt mv. for utleiere av bygg eller anlegg
+(1) Utleiere skal dokumentere hvordan bygget eller anlegget er disponert med målsatte tegninger e.l. av bygget eller anlegget og med utleiekontrakter. Det må framgå av dokumentasjonen hvilke arealer som er leid ut til fradragsberettiget formål.
+(2) Ved utgangen av hvert år skal det foreligge en oversikt over bruken av lokalene gjennom året. Dersom utleien har skjedd gjennom flere ledd, skal det foreligge en oversikt over nærmeste leietakers bruk av lokalene. Nærmeste leietaker skal bekrefte at vedkommende er frivillig registrert for utleien.
+(3) Hvert bygg eller anlegg skal registreres slik at oppføringskostnadene kan spesifiseres for hver enkelt bruker. Det samme gjelder senere ombygginger, påkostninger mv. av arealer i bygget eller anlegget.
+(4) Dokumentasjon som nevnt i denne paragrafen anses som dokumentasjon av bokførte opplysninger og skal oppbevares i samsvar med bestemmelsene i bokføringsloven.

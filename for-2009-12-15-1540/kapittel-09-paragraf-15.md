@@ -1,0 +1,3 @@
+# § 9-5-1. Innberetning av justering
+(1) Ved endringer i bruken av kapitalvare i forhold til fradragsberettigede formål, skal det skje en årlig justering av inngående merverdiavgift. Årlig justering skal innberettes i skattemeldingen for sjette termin. For avgiftssubjekter som leverer skattemelding en gang i året, skal årlig justering innberettes etter leveringsfristene i skatteforvaltningsforskriften § 8-3-10 annet og tredje ledd.
+(2) Ved overdragelse av kapitalvare eller opphør av avgiftspliktig virksomhet, skal det skje en samlet justering av inngående merverdiavgift for den resterende delen av justeringsperioden. Samlet justering skal innberettes i skattemeldingen for terminen overdragelsen eller opphøret skjer.

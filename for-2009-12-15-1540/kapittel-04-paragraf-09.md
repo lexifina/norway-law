@@ -1,0 +1,2 @@
+# § 4-4-1. Alminnelig omsetningsverdi – omsetning av motorkjøretøy i bilbransjen
+Ved bilforhandleres omsetning av nye motorkjøretøy der det foreligger et interessefellesskap mellom bilforhandleren og kjøperen, kan den alminnelige omsetningsverdien for kjøretøyet ikke settes lavere enn til listepris med tillegg av fraktkostnader fram til forretningen og med fradrag for alminnelig rabatt. Det må kunne dokumenteres at alminnelig rabatt gis ved omsetning av samme slags kjøretøy uten innbytte på tidspunktet for beregning av merverdiavgift.

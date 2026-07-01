@@ -1,0 +1,70 @@
+# § 22-2-1. Ikrafttredelse
+Denne forskriften trer i kraft 1. januar 2010. Fra samme dato oppheves
+- forskrift 20. august 1969 nr. 1 om regnskapsplikt og bokføring for næringsdrivende som går inn under bestemmelsene i merverdiavgiftsloven
+- forskrift 14. oktober 1969 nr. 1 om innhold av salgsdokumenter m.v.
+- forskrift 5. november 1969 nr. 1 om gjennomføring av fritaket for merverdiavgift på elektrisk kraft og energi levert fra alternative energikilder til husholdningsbruk i fylkene Finnmark, Troms og Nordland
+- forskrift 11. november 1969 nr. 1 om fritak for merverdiavgift m.v. ved omsetning og innførsel av fiskefartøyer under 15 meter største lengde
+- forskrift 10. desember 1969 nr. 1 om registrering av offentlige institusjoner i et særskilt avgiftsmanntall
+- forskrift 13. desember 1969 nr. 1 om gjennomføringen av avgiftsfritaket for tidsskrifter
+- forskrift 20. desember 1969 nr. 1 om forholdsmessig fradrag for inngående avgift etter merverdiavgiftsloven
+- forskrift 20. desember 1969 nr. 2 om gjennomføringen av avgiftsfritaket for bøker
+- forskrift 29. desember 1969 nr. 9016 om bokføring for næringsdrivende som i siste ledd omsetter bøker og tidsskrifter fritatt for merverdiavgift
+- forskrift 30. desember 1969 nr. 9019 om regnskapsplikt og bokføring for næringsdrivende i fiske og fangst som går inn under bestemmelsene i merverdiavgiftsloven
+- forskrift 23. februar 1970 nr. 1 vedrørende omsetning av varer og tjenester til bruk i utlandet, på Svalbard eller Jan Mayen
+- forskrift 12. mars 1970 nr. 9404 om avregning av inngående avgift for samvirkeforetak m.v.
+- forskrift 26. mai 1970 nr. 3 om avgiftsfri transport direkte til eller fra utlandet
+- forskrift 28. juli 1970 nr. 9926 om regler om direkte transport til og fra utlandet og om legitimasjon for avgiftsfrihet etter Finansdepartementets forskrift av 26. mai 1970 nr. 3
+- forskrift 31. juli 1970 nr. 9825 om legitimasjonsregler for omsetning av varer og tjenester til bruk i utlandet m.v.
+- forskrift 18. august 1970 nr. 9795 om redusert merverdiavgiftssats for transport av kjøretøy på ferge eller annet fartøy på innenlands veisamband
+- forskrift 5. oktober 1970 nr. 2 om levering av årsoppgave og om avgiftsfrie uttak i jordbruk med binæringer og skogbruk
+- forskrift 10. november 1970 nr. 9793 om levering av årsoppgave i fiske
+- forskrift 19. november 1970 nr. 2 om frivillig registrering av skogsveiforeninger
+- forskrift 22. januar 1971 nr. 2 om fritak for merverdiavgift vedrørende reparasjon, vedlikehold og ombygging av skip og luftfartøyer
+- forskrift 17. februar 1971 nr. 9796 om legitimasjonsregler for avgiftsfri omsetning av tjenester og varer i forbindelse med reparasjon, vedlikehold, nybygging og ombygging av skip m.v. i henhold til merverdiavgiftsloven § 17 første ledd nr. 2
+- forskrift 30. mars 1971 nr. 1 om tilbakebetaling av merverdiavgift ved havari m.v. i fiske
+- forskrift 25. oktober 1971 nr. 2 om avgrensning av uttrykket «personkjøretøyer»
+- forskrift 24. november 1971 nr. 1 om avgiftsfritak for reklametjenester for utenlandsk regning
+- forskrift 30. november 1971 nr. 4153 om regler om søknad om særskilt avgiftavregning etter havari m.v. i fiske for fiskere som nytter årsoppgave
+- forskrift 16. juni 1972 nr. 1 om avgiftsfritak for garantireparasjoner som utføres for utenlandsk oppdragsgiver
+- forskrift 20. november 1972 nr. 3 om avgiftsfritak for visse tjenester som gjelder offentlig veg
+- forskrift 5. desember 1972 nr. 3 om overgangs- og særregler for næringsdrivende som utfører vegarbeid i siste omsetningsledd
+- forskrift 22. august 1973 nr. 3 om frivillig registrering av bortforpaktere av landbrukseiendom
+- forskrift 19. februar 1974 nr. 3944 om omsetning av varer og tjenester til bruk til havs i forbindelse med utforsking og utnytting av undersjøiske naturforekomster
+- forskrift 22. februar 1974 nr. 1 om legitimasjon av avgiftsfri omsetning av varer til bruk til havs i forbindelse med utforsking og utnytting av undersjøiske naturforekomster
+- forskrift 15. november 1974 nr. 2 om avgiftsfritak for visse tjenester som gjelder baneanlegg utelukkende for skinnegående, kollektiv persontransport
+- forskrift 9. desember 1974 nr. 9799 om overgangs- og særregler for næringsdrivende som utfører banearbeid i siste omsetningsledd
+- forskrift 12. desember 1975 nr. 2 om beregning og oppkreving av merverdiavgift ved innførsel av varer
+- forskrift 10. juni 1976 nr. 1 om avgiftsplikt for bilforhandlere som registrerer kjøretøyer på egne navn i motorvognregisteret
+- forskrift 31. mars 1977 nr. 2 om tilbakeføring av fradragsført merverdiavgift etter bruksendring
+- forskrift 31. mars 1977 nr. 4933 om registrering av utenlandsk næringsdrivende ved representant m.v.
+- forskrift 28. november 1977 nr. 1 om fordeling av pensjonspriser i hoteller og andre herberger mellom avgiftspliktig og avgiftsfri omsetning etter merverdiavgiftsloven
+- forskrift 18. september 1978 nr. 1 om avgrensning av fritaket for merverdiavgift for brukte kjøretøyer etter merverdiavgiftsloven § 16 første ledd nr. 11
+- forskrift 17. oktober 1978 nr. 3 om avregning av inngående avgift overfor hjemmeprodusenter av håndverks- og husflidsarbeider
+- forskrift 29. desember 1980 nr. 9798 om overgangs- og særregler for verksted eller fabrikk som i siste omsetningsledd framstiller bruer eller deler av bruer til offentlig veg eller baneanlegg utelukkende for skinnegående, kollektiv persontransport
+- forskrift 24. januar 1989 nr. 58 om beregning av merverdiavgift på personkjøretøyer som er anskaffet eller uttatt til bruk i yrkesmessig utleievirksomhet eller persontransportvirksomhet
+- forskrift 10. mars 1989 nr. 158 om fastsettelse av den alminnelige omsetningsverdi på motorkjøretøyer ved bilforhandleres uttak – innbytte mv.
+- forskrift 19. oktober 1989 nr. 1114 om fastsettelse av den alminnelige omsetningsverdi for uttak av drikkevarer i hotell- og restaurantbransjen
+- forskrift 1. juli 1992 nr. 491 om avgrensing og gjennomføring av fritaket for merverdiavgift ved uttak av tjenester til fordel for veldedige og allmennyttige institusjoner og organisasjoner
+- forskrift 1. juli 1992 nr. 492 om avgrensing og gjennomføring av bruken av redusert beregningsgrunnlag for merverdiavgift ved veldedige og allmennyttige institusjoner og organisasjoners salg av gjenstander til betydelig overpris
+- forskrift 23. desember 1992 nr. 1205 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 1993 og ved overgang fra kontantprinsippet til regnskapsprinsippet
+- forskrift 22. desember 1994 nr. 1168 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 1995
+- forskrift 25. juni 1996 nr. 611 om refusjon av merverdiavgift til utenlandske næringsdrivende
+- forskrift 22. august 1997 nr. 932 om avgrensing av begrepet «kunstverk» ved kunstnerens omsetning og innførsel av egne kunstverk
+- forskrift 22. august 1997 nr. 933 om omsetning av brukte varer, kunstverk, samleobjekter og antikviteter
+- forskrift 27. november 2000 nr. 1179 om frivillig registrering av utbygger av vann- og avløpsanlegg
+- forskrift 13. desember 2000 nr. 1290 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 2001
+- forskrift 6. juni 2001 nr. 573 om frivillig registrering av utleier av bygg eller anlegg til bruk i virksomhet som er registrert etter merverdiavgiftsloven
+- forskrift 6. juni 2001 nr. 574 om avgrensing av merverdiavgiftsunntaket for omsetning av sosiale tjenester
+- forskrift 15. juni 2001 nr. 682 om avgrensing av merverdiavgiftsunntaket for omsetning av helsetjenester
+- forskrift 15. juni 2001 nr. 683 om redusert merverdiavgiftssats for næringsmidler
+- forskrift 15. juni 2001 nr. 684 om merverdiavgift ved kjøp av tjenester fra utlandet, Svalbard eller Jan Mayen
+- forskrift 29. juni 2001 nr. 800 om levering av årsterminoppgave for registreringspliktig næringsdrivende med liten omsetning
+- forskrift 15. januar 2002 nr. 25 om tidspunkt for innbetaling av merverdiavgift som skal tilbakeføres av næringsdrivende som driver kjøreopplæring
+- forskrift 18. oktober 2002 nr. 1201 om elektronisk innsending av merverdiavgiftsoppgaver og leveringssted for papirbaserte oppgaver
+- forskrift 3. september 2003 nr. 1127 om tidfesting av merverdiavgift på vederlag fra det offentlige mv.
+- forskrift 26. november 2004 nr. 1524 om overgangsregler ved beregning av forhøyet og redusert merverdiavgift fra 1. januar 2005
+- forskrift 13. desember 2005 nr. 1583 om overgangsregler ved beregning av forhøyet merverdiavgift på næringsmidler, persontransporttjenester mv., kinoframvisninger og kringkastingsavgift fra 1. januar 2006
+- forskrift 29. november 2006 nr. 1321 om overgangsregler ved beregning av forhøyet merverdiavgift på næringsmidler fra 1. januar 2007
+- forskrift 19. desember 2007 nr. 1589 om justering av inngående merverdiavgift for kapitalvarer
+- forskrift 18. desember 2007 nr. 1471 om overgangsregler ved behandling av klage- og endringssaker etter merverdiavgiftsloven i forbindelse med reorganiseringen av skatteetaten
+- forskrift 26. juni 2008 nr. 648 om beregning av merverdiavgift ved sletting av klimakvoter.

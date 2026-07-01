@@ -1,0 +1,3 @@
+# § 6-32-2. Tjenester som er omfattet av fritaket
+(1) Fritaket i merverdiavgiftsloven § 6-32 første ledd omfatter tjenester som utføres på andre anlegg eller innretninger enn de som er nevnt i merverdiavgiftsloven § 6-11 og som er til bruk i havområder utenfor merverdiavgiftsområdet i forbindelse med utforskning og utnytting av undersjøiske naturforekomster. Fritaket omfatter tjenester som utføres på utstyr og driftsmidler knyttet til slike anlegg eller innretninger og tjenester som gjelder prosjektering, tegning, konstruksjon og annen teknisk bistand vedrørende slike anlegg eller innretninger.
+(2) Fritaket i merverdiavgiftsloven § 6-32 annet ledd omfatter tjenester med lagring, lossing, transport mv. av varer.

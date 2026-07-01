@@ -1,0 +1,4 @@
+# § 6-21-2. Registrerings- og dokumentasjonsplikt mv. ved utførsel av varer til petroleumsvirksomheten
+(1) Når varer utføres til norsk del av kontinentalsokkelen til bruk i forbindelse med utforsking og utnytting av undersjøiske naturforekomster skal fritaket dokumenteres med salgsdokument, deklarasjon og attest for utførsel i samsvar med vareførselsforskriften § 5-9-2 tredje og fjerde ledd.
+(2) For varer som er unntatt deklareringsplikt, jf. vareførselsforskriften § 5-9-5 første ledd, skal fritaket dokumenteres med salgsdokument, attest for utførsel som nevnt i vareførselsforskriften § 5-9-2 tredje og fjerde ledd og en skriftlig bestilling fra kjøperen. Bestillingen skal inneholde opplysninger som nevnt i bokføringsforskriften § 5-1-1 nr. 1-4.
+(3) Både kjøperen og selgeren skal oppbevare et eksemplar av bestillingen.

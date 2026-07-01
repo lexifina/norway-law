@@ -1,0 +1,2 @@
+# § 4-9-2. Alminnelig omsetningsverdi – drikkevarer i hotell- og restaurantbransjen mv.
+Ved uttak av mineralvann, øl og vin til eier og ansatte i kafé-, restaurant-, hotell- og cateringvirksomhet, kan den alminnelige omsetningsverdien settes til anskaffelseskost med et tillegg på 100 prosent. Dette gjelder likevel bare for drikkevarer som tas ut i forbindelse med arbeidet og til måltider som inngår i kostavtale.

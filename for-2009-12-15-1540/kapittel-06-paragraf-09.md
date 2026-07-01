@@ -1,0 +1,2 @@
+# § 6-3-4. Utenlandske abonnements- og foreningstidsskrift
+Omsetning av utenlandske abonnements- og foreningstidsskrift er fritatt for merverdiavgift dersom minst 80 prosent av de eksemplarene av tidsskriftet som omsettes i merverdiavgiftsområdet i en sammenhengende periode på tolv måneder omsettes til betalende abonnenter eller utdeles til foreningsmedlemmer som betaler kontingent til foreningen og foreningen utgir tidsskriftet.
