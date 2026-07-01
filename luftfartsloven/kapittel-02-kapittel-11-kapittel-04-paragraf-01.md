@@ -1,0 +1,6 @@
+# § 12-6. Gjennomføring av EU-forordning om undersøkelse av luftfartsulykker og -hendelser
+EØS-avtalen vedlegg XIII punkt 66d (europaparlaments- og rådsforordning (EU) nr. 996/2010 om undersøkelse og forebygging av ulykker og hendelser innen sivil luftfart og om oppheving av direktiv 94/56/EF som endret ved forordning (EU) nr. 376/2014 og forordning (EU) 2018/1139 (undersøkelsesforordningen)) gjelder som lov med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Om forholdet mellom forordningens bestemmelser og andre norske lovregler gjelder det som fremgår av §§ 12-7 til 12-9.
+Med undersøkelsesmyndigheten menes i §§ 12-7 til 12-9 den myndigheten som har ansvar for å undersøke ulykker og hendelser i medhold av undersøkelsesforordningen.
+Undersøkelsesmyndigheten skal ikke ta stilling til sivilrettslig eller strafferettslig skyld og ansvar. Undersøkelsen skal foregå uavhengig av annen etterforskning eller undersøkelse som helt eller delvis har slikt formål.
+Luftfartsmyndigheten skal vurdere rapportene som undersøkelsesmyndigheten avgir, med tanke på å identifisere og iverksette tiltak som kan bedre flysikkerheten.
+Departementet kan gi utfyllende forskrifter om undersøkelsesmyndighetens arbeid etter dette kapitlet og regler som utfyller undersøkelsesforordningen.

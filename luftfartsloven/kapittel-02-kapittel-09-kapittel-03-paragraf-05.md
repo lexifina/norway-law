@@ -1,0 +1,4 @@
+# § 10-16. Avsenders ansvar og plikter m.v.
+Fraktføreren kan forlange at avsenderen skal utstede et dokument som angir godsets art, dersom slik dokumentasjon kreves av tollvesenet, politiet eller andre offentlige myndigheter. Dette skal ikke medføre noen forpliktelser eller ansvar for fraktføreren.
+Avsenderen plikter å gi opplysninger og legge frem dokumenter som er nødvendige for å oppfylle krav fra tollmyndighetene, politi eller andre offentlige myndigheter, før godset kan utleveres til mottakeren. Han er overfor fraktføreren ansvarlig for skade som følger av at disse opplysninger eller dokumenter mangler eller er ufullstendige eller ikke forskriftsmessige, med mindre fraktføreren eller hans folk har gjort seg skyldig i feil eller forsømmelse.
+Fraktføreren plikter ikke å undersøke om opplysningene og dokumentene er riktige og fullstendige.

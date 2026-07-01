@@ -1,0 +1,3 @@
+# § 3-46. Rettigheter i reservedeler m.v.
+Skal en registrert rettighet som anerkjennes etter § 3-43, sikre betalingen av et pengekrav, og omfatter rettigheten etter loven i fartøyets hjemland tillike reservedeler, anerkjennes også retten i reservedeler som til enhver tid er lagret her i riket, såfremt lagringsstedet er nevnt i stiftelsesdokumentet, og en fortegnelse som viser arten og det omtrentlige antall av de reservedeler rettigheten omfatter, er tatt inn i eller heftet ved dokumentet. Hvert lager skal ha et oppslag som gir opplysning om den registrerte rettighet og om innehaverens navn og adresse.
+Bestemmelsene i § 3-39 annet og tredje ledd gjelder tilsvarende.

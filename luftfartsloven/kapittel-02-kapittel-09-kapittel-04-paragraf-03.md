@@ -1,0 +1,4 @@
+# § 10-18. Ansvar for reisegods
+Blir innskrevet reisegods skadd, eller går det helt eller delvis tapt, er fraktføreren ansvarlig, såfremt den hendelse som har forårsaket skaden, er inntruffet om bord på luftfartøy eller mens godset var i fraktførerens varetekt. Fraktføreren er likevel ikke ansvarlig i den utstrekning skaden skyldes reisegodsets egen beskaffenhet eller av feil eller mangler ved reisegodset.
+For ikke innskrevet reisegods, herunder personlige eiendeler, er fraktføreren ansvarlig dersom skaden er forårsaket av feil begått av fraktføreren, dennes ansatte eller andre som fraktføreren svarer for.
+Passasjeren kan gjøre gjeldende sine rettigheter etter første og annet ledd dersom innskrevet reisegods ikke er kommet frem senest 21 dager etter at det skulle ha kommet frem, eller dersom fraktføreren erkjenner at innskrevet reisegods er gått tapt.

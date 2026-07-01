@@ -1,0 +1,4 @@
+# § 10-22 a. Utbetaling av forskudd
+Ved flyulykke som medfører at en passasjer omkommer eller blir skadd på legeme eller helbred, skal fraktføreren omgående, og senest 15 dager etter at vedkommende passasjer er identifisert, utbetale et forskudd på erstatningen til fysiske personer som har rett til å kreve erstatning, til dekning av deres umiddelbare behov. Forskuddets størrelse skal stå i forhold til den skaden som er lidt. Slik forskuddsutbetaling innebærer ikke erkjennelse av ansvar, og forskuddet kan trekkes fra i senere erstatningsutbetalinger fra fraktføreren.
+Har passasjeren omkommet, skal forskuddet utgjøre minst 16.000 SDR per passasjer.
+Forskuddet skal tilbakebetales bare i tilfelle som nevnt i § 10-21 første ledd, eller det godtgjøres at den som har mottatt forskuddet, ikke var den person som har rett til erstatning.

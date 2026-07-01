@@ -1,0 +1,3 @@
+# Art 9. Forpliktelse til å melde ulykker og alvorlige hendelser
+1. Enhver berørt person som har kjennskap til at en ulykke eller alvorlig hendelse har funnet sted, skal uten opphold melde den til vedkommende myndighet med ansvar for sikkerhetsundersøkelser i hendelsesstaten.
+2. Myndigheten med ansvar for sikkerhetsundersøkelser skal uten opphold, og i samsvar med internasjonale standarder og anbefalt praksis, underrette Kommisjonen, EASA, Den internasjonale organisasjon for sivil luftfart (ICAO) og berørte medlemsstater og tredjestater om alle ulykker og alvorlige hendelser som den har fått melding om.

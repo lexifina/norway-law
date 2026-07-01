@@ -1,0 +1,3 @@
+# § 6-2. Fartøysjefens plikter
+Fartøysjefen skal påse at fartøyet er luftdyktig, miljødyktig og behørig utrustet, bemannet og lastet, og at flygingen ellers forberedes og gjennomføres i samsvar med gjeldende bestemmelser.
+Bestemmelsen i § 4-7 annet ledd om plikt til å gi melding om forhold av betydning for luftdyktigheten og miljødyktigheten og til å gi opplysninger som trengs for utøvingen av tilsynet, gjelder tilsvarende for fartøysjefen. Han plikter videre i samsvar med nærmere forskrifter som fastsettes av departementet, å gi melding til luftfartsmyndigheten om forhold av betydning for spørsmålet om besetningsmedlemmenes tjenestedyktighet.

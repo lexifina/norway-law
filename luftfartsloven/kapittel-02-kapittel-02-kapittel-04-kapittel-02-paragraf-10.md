@@ -1,0 +1,4 @@
+# § 3-31. Rettsvern ved konkurs og akkord
+For at en frivillig stiftet rett skal ha rettsvern i konkurs, må retten være dagbokført senest dagen før konkursåpningen. Likevel har rettserverv som nevnt i § 3-27 tredje, fjerde og femte ledd rettsvern i konkurs uten hensyn til om og når ervervet er dagbokført.
+Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgående gjeldsforhandling, jf. lov om fordringshavernes dekningsrett § 1-4 sjette ledd, må retten være dagbokført senest dagen før åpningen av forhandling om tvangsakkord. Når retten er stiftet med samtykke av gjeldsnemnda, er dog dens rettsvern overfor konkursboet ikke avhengig av registrering.
+For at en frivillig stiftet rett skal ha rettsvern ved tvangsakkord, må retten være dagbokført senest dagen før åpningen av forhandling om tvangsakkord. Unntaket i første ledds annet punktum gjelder tilsvarende.

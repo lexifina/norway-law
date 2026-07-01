@@ -1,0 +1,2 @@
+# § 14-25. Hinder av tilsynsmyndighet m.v.
+Den som hindrer utføring av besiktelse, tilsyn eller annen undersøkelse etter denne lov eller forskrifter gitt med hjemmel i den, eller som unnlater å yte hjelp ved slik undersøkelse når det kreves med hjemmel i loven eller forskriftene, straffes med bøter eller med fengsel inntil 3 måneder. Det samme gjelder den som i strid med reglene i § 12-14 fjerner eller rører luftfartøy, vrakrester eller annet etter en luftfartsulykke.

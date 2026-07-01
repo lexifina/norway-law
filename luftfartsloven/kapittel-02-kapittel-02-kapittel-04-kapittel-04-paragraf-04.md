@@ -1,0 +1,5 @@
+# § 3-39. Pantsetting av reservedeler
+Pantsetting av et registrert luftfartøy kan også omfatte reservedeler som til enhver tid er lagret på bestemte steder her i riket, når de tilhører eieren av luftfartøyet, og deres art og omtrentlige antall framgår av pantebrevet. Det samme gjelder lagre i en fremmed stat som har sluttet seg til den internasjonale konvensjon om anerkjennelse av rettigheter i luftfartøyer. Hvert lager skal ha et oppslag som gir opplysning om panteretten og panthaverens navn og adresse.
+Til reservedeler reknes deler av et luftfartøy, motorer, propeller, utstyr, instrumenter og andre ting som holdes lagret for å erstatte deler av fartøyet eller tilbehør som blir utskiftet.
+Sikkerheten i reservedeler som avhendes og bortføres fra lageret, faller ikke bort dersom erververen forsto eller burde forstå at avhendelsen var uberettiget av hensyn til panthaveren.
+Ved utleggsforretning kan eieren av luftfartøyet kreve at reservedeler som hører til fartøyet og er lagret her i riket, skal tas med som tilbehør. Den som har panterett i fartøyet med reservedeler, kan motsette seg at det blir tatt særskilt utlegg i reservedelene.

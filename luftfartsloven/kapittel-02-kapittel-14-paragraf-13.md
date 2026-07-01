@@ -1,0 +1,5 @@
+# § 14-13. Overtredelse av forskrift etter §§ 9-1, 9-1 a og 9-2
+Den som overtrer noen forskrift departementet har gitt til unngåelse av sammenstøt mellom luftfartøyer eller av andre luftfartsulykker eller for ellers å trygge mot farer og ulemper som følge av luftfart, straffes med bøter eller med fengsel inntil 2 år.
+Den som overtrer restriksjoner i luftrommet opprettet i medhold av § 9-1 a første og annet ledd, straffes med bøter eller med fengsel inntil 2 år.
+Den som fraviker flygevei fastsatt etter § 9-2, eller som overtrer forskrifter departementet har gitt om luftfartøyer som skal passere rikets grense, straffes med bøter eller med fengsel inntil 1 år. Med bøter eller fengsel inntil 3 måneder straffes den som forsettlig eller uaktsomt fører luftfartøy urettmessig inn i en sone som er opprettet for å beskytte midlertidige eller faste anlegg eller innretninger for undersøkelse etter eller utnytting, lagring eller transport av undersjøiske naturforekomster.
+Den som overtrer noen forskrift departementet har gitt om operative forhold, straffes med bøter eller fengsel inntil 2 år

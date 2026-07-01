@@ -1,0 +1,3 @@
+# § 10-33. Om objektiv identifikasjon mellom fraktfører og folk i hans tjeneste m.v.
+Ved bedømmelsen av en fraktførers ansvar skal handlinger og unnlatelser av den annen fraktfører eller av dennes folk i tjenesten ansees å ha samme virkning som hans egne handlinger og unnlatelser. Dette skal likevel ikke i noe tilfelle medføre at den utførende fraktførers ansvar overstiger de grenser som er fastsatt i § 10-22.
+Har den avtalesluttende fraktfører påtatt seg forpliktelser ut over dem som er fastsatt i dette kapittel, eller har passasjer eller avsender oppgitt en særlig interesse i samsvar med § 10-22 tredje ledd, får dette ikke virkning i forhold til den utførende fraktfører med mindre det er godtatt av ham.

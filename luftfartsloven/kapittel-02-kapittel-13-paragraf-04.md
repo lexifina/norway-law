@@ -1,0 +1,3 @@
+# § 13 a-4. Tvangsmulkt
+For å sikre at plikter, forbud, pålegg eller krav som følger av denne loven, forskrift gitt med hjemmel i loven eller i vedtak gjort i medhold av loven blir etterlevd, kan luftfartsmyndigheten fastsette en løpende tvangsmulkt som betales til staten inntil forholdet er rettet. Luftfartsmyndigheten bestemmer når tvangsmulkten skal begynne å løpe.
+Departementet kan ved forskrift fastsette nærmere regler om ileggelse av tvangsmulkt, herunder at tvangsmulkt skal begynne å løpe automatisk, eller med et nærmere fastsatt beløp, når bestemte plikter, forbud, pålegg eller krav som nevnt i første ledd ikke etterleves.

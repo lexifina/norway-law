@@ -1,0 +1,2 @@
+# § 13-1. Flygeforbud
+Er det når en flyging skal påbegynnes, grunn til å anta at luftfartøyet ikke er luftdyktig eller behørig bemannet, eller at det for øvrig aktes brukt i strid med denne lov eller forskrifter gitt med hjemmel i den, kan flygingen forbys og fartøyet om nødvendig hindres i å forlate landingsplassen. Beslutning om dette treffes av luftfartsmyndigheten eller av noen som den gir fullmakt; i siste tilfelle skal beslutningen uten opphold forelegges for luftfartsmyndigheten til prøving.

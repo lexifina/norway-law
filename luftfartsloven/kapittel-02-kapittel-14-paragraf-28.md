@@ -1,0 +1,3 @@
+# § 14-27. Unnlatelse av meldeplikt m.v.
+Den som i andre tilfeller enn nevnt i § 14-3 unnlater å gi varsel, rapport, melding eller andre opplysninger som er påbudt å gi etter denne loven eller forskrift gitt i medhold av den, eller som gir uriktige eller ufullstendige opplysninger, straffes med bøter eller fengsel inntil 6 måneder. Det samme gjelder den som unnlater å etterkomme pålegg om å gi opplysninger i medhold av § 13 a-1, eller som gir uriktige eller ufullstendige opplysninger som svar på slikt pålegg.
+Straff etter denne paragraf kommer ikke til anvendelse ved overtredelse av bestemmelsene i kapittel X.

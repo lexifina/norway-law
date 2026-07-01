@@ -1,0 +1,3 @@
+# § 3-37. Overføring av heftelser
+Dersom det ved registreringen av et fartøy påhviler dette rettsbeskyttet panterett eller annen heftelse som er stiftet her i riket og som etter regelen i dette kapittel trenger registrering for å få rettsvern, beholder heftelsen sin prioritet, såfremt dokumentet kommer inn til registrering innen 3 måneder etter at fartøyet ble ført inn i registeret. Er fartøyet foreløpig ført inn etter § 3-9 eller § 3-10, regnes fristen fra den dag dette skjedde.
+Er heftelsen tinglyst, kan registreringsmyndigheten slette den når dokumentet er registrert eller fristen etter første ledd er utløpt.

@@ -1,0 +1,3 @@
+# § 16-1. Forskriftsfullmakt – EØS-avtalen
+Kongen kan gi forskrifter om gjennomføring av EØS-avtalen på luftfartens område, herunder regler om krav om lisens, markedsadgang (anbud for regional luftfart), tidsluker, takster og rater i lufttrafikk, erstatningsordning ved nektelse av ombordstigning i regelbundet luftfart, harmonisering av tekniske krav og administrative fremgangsmåter, fraktflygning og om deling av setekapasitet mellom luftfartsselskaper.
+Regler gitt i medhold av første ledd skal gå foran lovens alminnelige bestemmelser, herunder regler om konsesjon for ervervsmessig og regelbundet trafikk (rutefart).

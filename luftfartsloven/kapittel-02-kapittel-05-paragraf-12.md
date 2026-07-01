@@ -1,0 +1,4 @@
+# § 6-12. Pliktmessig avhold
+Den som gjør tjeneste som fører av luftfartøy eller om bord må ikke nyte alkohol eller ta annet berusende eller bedøvende middel i tjenestetiden. Tjenestetiden omfatter tidsrommet fra vedkommende i henhold til sine tjenesteplikter påbegynner utførelsen av slikt arbeid som stillingen krever, og inntil arbeidet avsluttes.
+Forbudet i første ledd gjelder også i et tidsrom av åtte timer før tjenestetiden begynner.
+Den som har gjort tjeneste som fører av luftfartøy eller om bord, må ikke nyte alkohol eller ta annet berusende eller bedøvende middel i de første seks timer etter tjenestetidens opphør, når han eller hun forstår eller må forstå at det kan bli innledet politietterforskning vedrørende hans eller hennes forhold i tjenesten. Dette gjelder ikke etter at blodprøve eller utåndingsprøve er tatt, eller politiet har avgjort at det ikke skal tas slik prøve.

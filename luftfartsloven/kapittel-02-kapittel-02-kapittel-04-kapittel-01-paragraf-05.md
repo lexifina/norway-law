@@ -1,0 +1,5 @@
+# § 3-21. Retting av feil, klage over registreringsmyndighetens avgjørelser
+Blir registreringsmyndigheten oppmerksom på at et dokument er innført i luftfartøyregisteret på uriktig måte, skal den rette feilen. Har noen på grunn av feilen fått uriktig opplysning, skal registreringsmyndigheten såvidt mulig underrette ham om rettingen i rekommandert brev.
+Avgjørelser av registreringsmyndigheten kan påklages til departementet av enhver som har rettslig klageinteresse i saken.
+Klagefristen er 3 uker, om ikke registreringsmyndigheten i særlige tilfelle setter en lengre frist. For den som har fått underretning om avgjørelsen, regnes fristen fra den dag da underretningen ble sendt. For andre regnes fristen fra den dag da vedkommende har fått eller burde ha skaffet seg kjennskap til avgjørelsen. Ved oversittelse av klagefristen gjelder reglene i forvaltningslovens § 31.
+De innskrenkninger i adgangen til å ta anke til følge som er fastsatt i tinglysingsloven §§ 10 a og 10 b, gjelder tilsvarende ved klage over registreringsmyndighetens avgjørelser.

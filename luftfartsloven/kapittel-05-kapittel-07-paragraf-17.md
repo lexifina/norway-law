@@ -1,0 +1,4 @@
+# Art 17. Sikkerhetstilrådinger
+1. Myndigheten med ansvar for sikkerhetsundersøkelser skal på ethvert stadium i sikkerhetsundersøkelsen og etter hensiktsmessig samråd med berørte parter sende et datert følgebrev til berørte myndigheter, herunder berørte myndigheter i andre medlemsstater og tredjestater, med anbefaling om eventuelle forebyggende tiltak som den mener det er nødvendig å iverksette umiddelbart for å bedre flysikkerheten.
+2. En myndighet med ansvar for sikkerhetsundersøkelser kan også utstede sikkerhetstilrådinger på grunnlag av studier eller analyser av en rekke undersøkelser eller annet arbeid gjennomført i samsvar med artikkel 4 nr. 4.
+3. En sikkerhetstilråding skal ikke i noe tilfelle innebære en formodning om skyld eller ansvar for en ulykke, alvorlig hendelse eller hendelse.

@@ -1,0 +1,3 @@
+# § 3-6. Melding om endringer
+Skjer det etter registreringen endring i fartøyets eiendomsforhold eller i eierens nasjonalitet, eller undergår fartøyet endring av betydning for dets identifisering, skal eieren uten opphold sende registreringsmyndigheten melding om endringen med nødvendige opplysninger og bevis. Tilsvarende gjelder når det skjer endring i andre registrerte forhold. Ved salg skal meldingen gis av kjøperen, men av selgeren hvis salget medfører at fartøyet ikke lenger er å anse som norsk.
+Finner registreringsmyndigheten å kunne godta meldingen, skal den føres inn i registeret. I tilfelle som nevnt i § 3-7 eller § 3-8 skal fartøyet slettes eller anmerkning gjøres på dets blad i registeret.

@@ -1,0 +1,4 @@
+# Art 5.
+1. EF[EØS]-luftfartsselskapet skal omgående, og ikke under noen omstendighet senere enn 15 dager etter at identiteten til den person som har rett til erstatning, er fastslått, utbetale et forskudd som dekker umiddelbare økonomiske behov, og som står i forhold til omfanget av den skade som er lidt.
+2. Med forbehold for nr. 1 skal forskuddet ikke være mindre enn 16 000 SDR uttrykt i euro per passasjer ved død.
+3. Utbetaling av forskudd er ikke ensbetydende med erkjennelse av ansvar, og forskuddet kan trekkes fra ethvert beløp som senere utbetales på grunnlag av EF[EØS]-luftfartsselskapets ansvar; beløpet skal tilbakebetales bare i de tilfellene som er nevnt i Montreal-konvensjonens artikkel 20, eller dersom personen som mottok forskuddet, ikke var den person som hadde rett til erstatning.

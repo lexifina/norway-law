@@ -1,0 +1,2 @@
+# § 14-33. Andre enn eier eller bruker som straffebudene er rettet mot
+Straffebud i dette kapittel som er rettet mot eieren eller brukeren av et luftfartøy, mot innehaveren av en landingsplass eller et annet luftfartsanlegg eller mot innehaveren av en virksomhet som nevnt i §§ 14-23 og 14-23 a, får anvendelse også på underordnede, når de i sin tjeneste forgår seg på den måte som er nevnt i vedkommende straffebud. Det som her er bestemt, gjelder tilsvarende for styremedlemmer og andre tillitsmenn i selskaper og andre juridiske personer.

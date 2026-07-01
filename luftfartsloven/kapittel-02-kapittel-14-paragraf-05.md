@@ -1,0 +1,2 @@
+# § 14-5. Manglende miljødyktighet m.v.
+Dersom eieren eller brukeren av et luftfartøy bruker det til luftfart skjønt det ikke er luftdyktig eller miljødyktig eller behørig bemannet, utrustet eller lastet for den reise det er bestemt for, eller av andre grunner ikke er i slik stand at det tilfredsstiller sikkerhetens krav, straffes han med bøter eller med fengsel inntil 2 år, forutsatt at det ikke i medhold av denne lov er gitt tillatelse til bruken.

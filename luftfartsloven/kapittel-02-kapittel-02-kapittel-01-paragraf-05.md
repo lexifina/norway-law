@@ -1,0 +1,3 @@
+# § 3-3. Luftfartøy innført i utenlandsk register m.v.
+Et luftfartøy som er registrert i fremmed stat, kan ikke registreres her i riket før det er slettet i det utenlandske register. Tilsvarende gjelder for fartøy som tilhører internasjonalt luftfartsforetak. Hviler det på fartøyet registrert rettighet som etter overenskomst med fremmed stat skal anerkjennes her i riket, kan fartøyet ikke overføres til luftfartøyregisteret, med mindre rettighetshaveren er utløst eller samtykker i overføringen, eller rettigheten er falt bort ved tvangssalg.
+Et fartøy som er ført inn i det militære luftfartøyregister (jf. §§ 17-2 og 17-3), kan ikke registreres etter nærværende kapittel før det er slettet i det militære register.

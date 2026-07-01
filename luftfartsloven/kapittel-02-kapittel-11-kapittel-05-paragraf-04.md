@@ -1,0 +1,4 @@
+# § 12-13. Forbud mot tilbakekall av sertifikater
+Opplysninger som en kompetent myndighet som nevnt i rapporteringsforordningen artikkel 6 nr. 3 mottar i medhold av rapporteringsforordningen, kan ikke brukes som grunnlag for tilbakekall av personsertifikater som er utstedt av den kompetente myndigheten. På samme måte kan opplysningene heller ikke brukes som grunnlag for å ilegge overtredelsesgebyr med hjemmel i § 13 a-5.
+Første ledd gjelder ikke dersom de aktuelle opplysningene gjør det klart at den som innehar sertifikatet, ikke oppfyller fastsatte medisinske krav eller av andre grunner er klart uskikket til å inneha sertifikatet.
+Første og annet ledd går foran bestemmelsene i rapporteringsforordningen artikkel 16 i den grad de gir et sterkere vern mot tilbakekall av sertifikater enn forordningen.

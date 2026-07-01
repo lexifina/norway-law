@@ -1,0 +1,2 @@
+# Art 3a.
+Tilleggsbeløpet som EF[EØS]- luftfartsselskaper i henhold til artikkel 22 nr. 2 i Montreal-konvensjonen kan kreve når en passasjer gir særlig uttrykk for et ønske om å få bagasjen levert på bestemmelsesstedet, skal fastsettes etter en takst som bygger på tilleggskostnadene ved transport og forsikring av den aktuelle bagasjen utover kostnadene for bagasje hvis verdi ligger på eller under ansvarsgrensen. Passasjerene skal på anmodning få opplysninger om taksten.

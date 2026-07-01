@@ -1,0 +1,3 @@
+# § 3-47. Bergelønn m.v.
+Dersom et krav på bergelønn eller erstatning for ekstraordinære utgifter som har vært nødvendige for å bevare et luftfartøy som er forulykket eller stedt i nød, har panterett i fartøyet etter loven i en konvensjonsstat hvor arbeidet ble avsluttet, skal panteretten anerkjennes her i riket med prioritet foran alle andre rettigheter i fartøyet. Er det flere slike panterettigheter, går de som grunner seg på en senere hendelse, foran dem som grunner seg på en tidligere.
+Panteretten kan dog ikke anerkjennes dersom det er gått 3 måneder uten at den er anmerket i fartøyets rettighetsregister og beløpet godkjent eller sak reist om panteretten. Om søksmålsfristen er overholdt, bedømmes etter loven i den stat hvor saken er reist.
