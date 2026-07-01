@@ -1,0 +1,4 @@
+# Artikkel 3 Registrering
+1. Kapteinen på det sjøgående fartøyet som transporterer oljer og fettstoffer i bulk i tanker, skal inneha nøyaktig dokumentasjon om de tre tidligere lastene i de berørte tankene og om effektiviteten av rengjøringsprosessen som er brukt mellom disse lastene.
+2. Dersom lasten omlastes til et annet fartøy, skal kapteinen på det mottakende sjøgående fartøyet, utover den dokumentasjon som kreves i nr. 1, inneha nøyaktig dokumentasjon som viser at den tidligere bulktransporten av oljer og fettstoffer skjedde i henhold til vilkårene fastsatt i artikkel 2, og om effektiviteten av rengjøringsprosessen som er brukt mellom disse lastene på det andre fartøyet.
+3. På anmodning skal kapteinen på det sjøgående fartøyet framlegge dokumentasjonen nevnt i nr. 1 og 2 for vedkommende myndighet.

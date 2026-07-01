@@ -1,0 +1,2 @@
+# § 1c. Gjennomføring av kommisjonsforordning (EU) nr. 579/2014
+EØS-avtalens vedlegg II kapittel XII nr. 54j (kommisjonsforordning (EU) nr. 579/2014) som endret ved forordning (EU) 2016/238 og forordning (EU) 2019/978 om unntak fra visse bestemmelser i vedlegg II til europaparlaments- og rådsforordning (EF) nr. 852/2004 med hensyn til sjøtransport av flytende oljer og fettstoffer gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

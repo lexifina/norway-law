@@ -1,0 +1,7 @@
+# Artikkel 3 Allmenne krav
+1. Driftsansvarlige for næringsmiddelforetak skal sikre at næringsmidlene oppfyller de relevante mikrobiologiske kriteriene som er fastsatt i vedlegg I. For dette formål skal driftsansvarlige for næringsmiddelforetak i alle ledd i produksjonen, foredlingen og distribusjonen av næringsmidler, herunder detaljhandel, treffe tiltak innenfor rammen av egne framgangsmåter basert på HACCP-prinsipper, og samtidig gjennomføre god hygienepraksis, for å sikre at:
+a) forsyning, håndtering og foredling av råvarer og næringsmidler under deres kontroll blir utført slik at hygienekriteriene for prosessen blir oppfylt,
+b) de kriteriene for næringsmiddeltrygghet som gjelder for hele holdbarhetstiden til produktene, oppfylles under rimelig forutsigbare vilkår for distribusjon, lagring og bruk.
+2. Driftsansvarlige for næringsmiddelforetak som har ansvaret for å framstille produktene, skal om nødvendig gjennomføre undersøkelser i samsvar med vedlegg II for å kontrollere om kriteriene oppfylles gjennom hele holdbarhetstiden. Dette gjelder særlig for spiseferdige næringsmidler der Listeria monocytogenes kan vokse, og som kan innebære risiko for folkehelsen gjennom Listeria monocytogenes.
+Næringsmiddelforetak kan samarbeide om å foreta slike undersøkelser.
+Retningslinjer for å utføre slike undersøkelser kan innlemmes i retningslinjene for god praksis nevnt i artikkel 7 i forordning (EF) nr. 852/2004.

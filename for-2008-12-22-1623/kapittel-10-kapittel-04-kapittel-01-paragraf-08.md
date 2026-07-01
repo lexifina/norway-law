@@ -1,0 +1,6 @@
+# Artikkel 8 Midlertidig unntak
+1. Fram til senest 31. desember 2009 er det i henhold til artikkel 12 i forordning (EF) nr. 852/2004 gitt et midlertidig unntak når det gjelder overholdelse av grenseverdien fastsatt i vedlegg I til denne forordning, for Salmonella i kvernet kjøtt, tilberedt kjøtt og kjøttprodukter som er beregnet på å spises kokt eller stekt, og som omsettes på det nasjonale markedet i en EØS-stat.
+2. EØS-stater som benytter seg av denne muligheten, skal underrette EFTAs overvåkingsorgan (ESA) og de andre EØS-statene om dette. EØS-staten skal:
+a) garantere at det er truffet relevante tiltak, herunder merking og et særlig merke, som ikke kan forveksles med identifikasjonsmerket fastsatt i avsnitt I i vedlegg II til forordning (EF) nr. 853/2004, for å sikre at unntaket gjelder bare for de aktuelle produktene når de omsettes på hjemmemarkedet, og at produkter som er ekspedert for handel innenfor EØS, oppfyller kriteriene fastsatt i vedlegg I,
+b) fastsette at de produktene som et slikt midlertidig unntak gjelder for, merkes tydelig med at de må kokes eller stekes grundig før de spises,
+c) forplikte seg til at høyst en av fem prøveenheter er positiv ved prøving mot Salmonella-kriteriet i henhold til artikkel 4, for at resultatet skal være akseptabelt med hensyn til det midlertidige unntaket.

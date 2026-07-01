@@ -1,0 +1,8 @@
+# Kapittel IV Transport
+1) Transportmidler og/eller containere som brukes til transport av næringsmidler, skal holdes rene og i god stand slik at næringsmidlene beskyttes mot forurensning, og de skal når det er nødvendig, være utformet og konstruert slik at de kan rengjøres og/eller desinfiseres på en egnet måte.
+2) Beholdere i transportmidler og/eller containere skal ikke brukes til transport av noe annet enn næringsmidler dersom dette kan føre til forurensning.
+3) Dersom transportmidler og/eller containere brukes til transport av noe annet enn næringsmidler, eller til transport av forskjellige næringsmidler samtidig, må produktene holdes godt atskilt når det er nødvendig.
+4) Bulktransport av næringsmidler i flytende form eller i form av granulat eller pulver skal foregå i beholdere og/eller containere/tanker som er forbeholdt transport av næringsmidler. Slike containere må merkes på ett eller flere av språkene i EØS, for å vise at de brukes til transport av næringsmidler, eller containerne skal merkes «bare for næringsmidler». Merkingen skal være lett synlig og ikke kunne slettes.
+5) Dersom transportmidler og/eller containere er blitt brukt til transport av noe annet enn næringsmidler, eller til transport av forskjellige næringsmidler, skal det gjøres grundig rent mellom transportene for å unngå risiko for forurensning.
+6) Næringsmidler i transportmidler og/eller containere skal plasseres og beskyttes slik at risikoen for forurensning reduseres mest mulig.
+7) Når det er nødvendig, skal transportmidler og/eller containere som brukes til transport av næringsmidler, kunne holde næringsmidlene ved en hensiktsmessig temperatur og gjøre det mulig å overvåke temperaturen.
