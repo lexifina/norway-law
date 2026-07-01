@@ -1,0 +1,1 @@
+# II. Ansvar og erstatning etter reglene i den internasjonale konvensjon 1992 om erstatningsansvar for oljesølskade (1992-ansvarskonvensjonen) og den internasjonale konvensjon 1992 om opprettelse av et internasjonalt fond for erstatning av oljesølskade (1992-fondskonvensjonen) m.m.

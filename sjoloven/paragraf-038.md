@@ -1,0 +1,3 @@
+# § 38. Forskrifter. Beregning av frister
+Departementet kan gi nærmere forskrifter om hvordan dagbok og skipsregister skal innrettes og føres, og om fremgangsmåten for øvrig ved registrering. Departementet kan også gi de øvrige forskrifter som trengs til gjennomføring og utfylling av reglene i dette kapittel, hvorledes dokumenter skal utformes for å kunne registreres og om godkjenning av blanketter for bestemte dokumenttyper og om bruk av slike.
+Om beregning av frister gjelder reglene i domstolloven. Når en frist skal regnes fra registreringen av et dokument, regnes den fra den dag da dokumentet er innført i dagboken.

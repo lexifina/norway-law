@@ -1,0 +1,6 @@
+# § 5. Flaggføring. Nasjonalitetsbevis
+Norsk skip har rett til å føre norsk flagg. Kongen gir nærmere forskrifter om flaggføring og eventuelt om adgang for andre skip til å føre norsk flagg.
+Norsk skip som er registreringspliktig etter § 11 annet ledd, bareboatregistrert etter § 40 eller går i utenriks fart, skal være forsynt med norsk nasjonalitetsbevis. Kongen kan gi forskrifter om å frita skip som ikke er registreringspliktige, for å ha nasjonalitetsbevis. Eier av norsk skip kan i ethvert tilfelle forlange utstedt nasjonalitetsbevis for skipet. Skal nasjonalitetsbevis utstedes for skip som ikke er registreringspliktig, må skipet innføres i skipsregisteret, jf § 11 tredje ledd.
+Nasjonalitetsbevis utstedes av den myndighet som har innført skipet i skipsregisteret. Midlertidig nasjonalitetsbevis kan i særlige tilfelle utstedes av Sjøfartsdirektoratet. Er skipet i utlandet, kan beviset utstedes av vedkommende norske utenrikstjenesteansatt som har fått fullmakt av Sjøfartsdirektoratet. Kongen kan gi regler om at denne kan utstede bevis uten fullmakt hvis det haster.
+Kongen gir nærmere forskrifter om nasjonalitetsbevis og deres innhold, om rettelse i eller ombytting av bevis og om tilbakelevering.
+Reglene om nasjonalitetsbevis gjelder ikke skip med største lengde under 10 meter.

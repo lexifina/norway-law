@@ -1,0 +1,4 @@
+# § 378. Tidsbefrakterens råderett
+Tidsbortfrakteren skal i befraktningsperioden utføre de reiser som tidsbefrakteren i samsvar med befraktningsavtalen krever. § 372 annet ledd gjelder tilsvarende.
+Tidsbortfrakteren plikter likevel ikke å utføre en reise som utsetter skipet, personer om bord eller lasten for fare som følge av krig, krigsliknende forhold, is eller annen fare eller vesentlig ulempe som tidsbortfrakteren ikke med rimelighet kunne regne med på avtaletiden.
+Tidsbortfrakteren plikter ikke å ta med lett antennelig, brennbart, etsende eller annet farlig gods med mindre godset leveres i slik stand at det kan befordres og utleveres i samsvar med de krav og anbefalinger som stilles av myndighetene i det land der skipet er registrert, i det land der rederen har sitt hovedforretningssted, og i de havner som inngår i reisen. Tidsbortfrakteren plikter heller ikke å ta med levende dyr.

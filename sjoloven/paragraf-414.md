@@ -1,0 +1,3 @@
+# § 414. Opphold under reisen
+Inntreffer under reisen et slikt opphold at det ikke med rimelighet kan forlanges at passasjeren skal vente, eller går skipet tapt eller blir det uistandsettelig etter at en del av reisen er utført, plikter bortfrakteren å sørge for at passasjeren og dennes reisegods blir befordret til bestemmelsesstedet på hensiktsmessig måte, og å bære de utgifter som dette medfører. Oppfyller ikke bortfrakteren sine plikter innen rimelig tid, kan passasjeren heve avtalen.
+Må passasjeren i en mellomhavn oppholde seg i land på grunn av havari eller andre hindringer på skipets side, skal bortfrakteren sørge for passende kost og losji og bære de utgifter som dette medfører.

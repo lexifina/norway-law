@@ -1,0 +1,2 @@
+# § 416. Krigsfare m m
+Viser det seg etter at befordringsavtalen ble sluttet, at reisen vil medføre fare for passasjeren eller skipet som følge av krig, blokade, opprør, borgerlige uroligheter eller sjørøveri eller annen væpnet vold, eller at en slik fare er blitt vesentlig øket, kan så vel bortfrakteren som passasjeren heve avtalen uten plikt til å betale erstatning, selv om reisen er begynt. Den som vil heve avtalen, skal gi meddelelse uten ugrunnet opphold. Blir det ikke gjort, plikter vedkommende å erstatte den skade som følger av dette.

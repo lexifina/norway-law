@@ -1,0 +1,3 @@
+# § 118. Salg av skip ved oppløsning
+Når rederiet oppløses, skal dets skip selges. Er det uenighet om stedet for salget, avgjøres spørsmålet av tingretten ved partrederiets alminnelige verneting. Avgjørelsen treffes i form av kjennelse, som kan ankes.
+For salg i Norge gjelder reglene om tvangssalg av skip tilsvarende så langt de passer. Salg kan kreves uten at det foreligger dom eller dermed likestilt tvangsgrunnlag for oppløsning av rederiet, dersom det ikke er fremsatt innsigelse eller innsigelsen er åpenbart uholdbar. Avgjørelsen hører under tingretten og treffes i form av kjennelse, som kan ankes.

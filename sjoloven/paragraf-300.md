@@ -1,0 +1,3 @@
+# § 300. Ansvar for villedende konnossementsopplysninger
+Påføres en tredjeperson tap ved å innløse et konnossement i tillit til at opplysningene i dette er riktige, er transportøren ansvarlig dersom transportøren har eller burde ha innsett at konnossementet var villedende for tredjeperson. Rett til ansvarsbegrensning etter dette kapittel foreligger ikke.
+Svarer godset ikke til opplysningene i konnossementet, kan mottakeren kreve at transportøren opplyser om avlasteren har forpliktet seg til å holde transportøren skadesløs for uriktige eller ufullstendige opplysninger (indemnitetserklæring). Transportøren plikter i så fall å gjøre mottakeren kjent med innholdet av erklæringen.

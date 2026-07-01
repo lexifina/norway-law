@@ -1,0 +1,4 @@
+# § 503. Foreldelse etter kapittel 10
+Krav om erstatning for forurensningsskade som nevnt i §§ 183, 191, 207 eller 208, eller om erstatning fra Det internasjonale erstatningsfond (1992) faller bort dersom ikke søksmål er reist innen 3 år fra den dag skaden, tapet eller utgiftene oppsto. Krav kan ikke i noe tilfelle reises når det er gått 6 år fra den ansvarsbetingende hendelsen. Er skaden, tapet eller utgiftene oppstått ved en serie av hendelser med samme opphav, regnes 6-årsfristen fra den første hendelsen.
+Foreldelse av krav mot Det internasjonale erstatningsfond (1992) kan foruten ved søksmål også avbrytes ved prosessvarsel til fondet i samsvar med § 204 fjerde ledd.
+Krav mot Det internasjonale tilleggsfond (2003) faller bort når krav om erstatning fra Det internasjonale erstatningsfond (1992) faller bort etter første ledd. Krav fremsatt mot Det internasjonale erstatningsfond (1992) anses også å være fremsatt mot Det internasjonale tilleggsfond (2003).

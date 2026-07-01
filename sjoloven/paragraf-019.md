@@ -1,0 +1,7 @@
+# § 19. Klage m m
+Avgjørelser av registerføreren kan påklages til departementet av enhver som har rettslig klageinteresse i saken. Klage fra den som har fått underretning etter § 16 tredje eller fjerde ledd, må være kommet inn til registerføreren innen 3 uker fra den dag da underretningen ble sendt.
+Klage fra andre må være kommet inn til registerføreren innen 3 uker fra den dag da klageren har fått eller burde ha skaffet seg kjennskap til avgjørelsen, jf likevel fjerde ledd. I særlige tilfelle kan registerføreren sette en frist som er lengre enn 3 uker.
+Klage som gis etter utløpet av klagefristen, kan tas til behandling etter reglene i forvaltningsloven § 31, jf likevel paragrafen her fjerde ledd. Videre gjelder reglene i forvaltningsloven §§ 32, 33 og 36.
+Reglene i tinglysingsloven §§ 10 a og 10 b om enkelte innskrenkinger i adgangen til å ta en anke til følge gjelder tilsvarende.
+Den som har fått underretning etter § 16 tredje eller fjerde ledd, kan ikke reise søksmål uten at klageadgangen først er brukt og klagen er avgjort av departementet. Forvaltningsloven § 27 b annet punktum gjelder likevel tilsvarende.
+Vedkommende forvaltningsorgan kan bestemme at mulig søksmål må reises innen 3 uker fra det tidspunkt da melding om fristfastsettingen kom fram til vedkommende part. Ved oversittelse av fristen kan retten likevel tillate søksmålet fremmet dersom særlige grunner taler for det og det ikke foreligger forhold som er til hinder for å ta en klage til følge, jf paragrafen her fjerde ledd.

@@ -1,0 +1,2 @@
+# § 104. Bestyrende reders fullmakt
+I forhold til tredjepersoner er den bestyrende reder i kraft av sin stilling berettiget til å ansette, avskjedige og instruere skipsfører, tegne vanlige rederiforsikringer og kvittere for penger som innkommer for rederiets regning, samt til å foreta enhver annen disposisjon som den daglige ledelse av en rederiforretning fører med seg. Uten særlig bemyndigelse kan den bestyrende reder ikke kjøpe, selge eller pantsette skip eller slutte fraktavtale eller avtale om leie av skip for mer enn 1 års varighet.

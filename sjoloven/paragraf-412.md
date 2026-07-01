@@ -1,0 +1,2 @@
+# § 412. Bortfrakterens sikkerhet i reisegods
+Bortfrakteren plikter ikke å utlevere reisegods som ikke er håndreisegods, før passasjeren har betalt for befordringen og for kost og utlegg under reisen. Dersom passasjeren ikke betaler, kan godset legges opp under sikker forvaring for passasjerens regning, og bortfrakteren kan på forsvarlig måte selge så mye at bortfrakterens krav med kostnader blir dekket.

@@ -1,0 +1,2 @@
+# § 298. Transportørens undersøkelsesplikt
+Transportøren skal i rimelig utstrekning undersøke om de opplysninger om godset som tas inn i konnossementet etter § 296 første ledd nr 1, er riktige. Har transportøren rimelig grunn til å tvile på om opplysningene er riktige, eller har transportøren ikke hatt rimelig mulighet til å undersøke riktigheten, skal transportøren i konnossementet ta forbehold som gir uttrykk for dette.

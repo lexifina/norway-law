@@ -1,0 +1,3 @@
+# § 386. Felleshavari. Berging
+Fraktens bidrag i felleshavari bæres av tidsbefrakteren. Det samme gjelder bidrag utlignet på bunkers og annet utstyr som tidsbefrakteren har om bord. Ytes det i felleshavari erstatning for utgifter eller skade som tidsbefrakteren har hatt, tilfaller erstatningen tidsbefrakteren.
+Tidsbortfrakteren kan uten samtykke fra tidsbefrakteren redde personer. Tidsbortfrakteren kan også berge skip eller annen eiendom når dette ikke vil virke urimelig overfor tidsbefrakteren. Av tidsbortfrakterens part av nettobergelønnen eller netto særlig vederlag, jf § 451 annet ledd, tilfaller en tredel tidsbefrakteren.

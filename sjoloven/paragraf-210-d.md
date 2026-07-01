@@ -1,0 +1,5 @@
+# § 210 d. Forsikringsplikt, sertifikat
+Den registrerte eieren av et norsk skip med bruttotonnasje på 300 tonn eller mer plikter å ha godkjent forsikring eller annen sikkerhet som dekker ansvaret etter § 210 a, opp til ansvarsgrensene som følger av § 175 nr. 3. Det skal utstedes sertifikat som bekrefter at skipet har slik forsikring eller sikkerhet. Uten gyldig sertifikat kan skipet ikke seile under norsk flagg.
+Første ledd første punktum gjelder tilsvarende for den registrerte eieren av et utenlandsk skip med bruttotonnasje på 300 tonn eller mer som anløper eller forlater havn eller annen laste- eller losseplass i Norge eller som anløper eller forlater en ikke landtilknyttet anløpsplass i norsk sjøterritorium. Skipet skal ha sertifikat etter vrakfjerningskonvensjonen som viser at det har godkjent forsikring eller annen sikkerhet.
+For skip som eies av den norske stat eller av en annen konvensjonsstat, gjelder reglene i § 197 tredje ledd tilsvarende.
+Departementet gir i forskrift nærmere regler om forsikring og annen sikkerhetsstillelse og om sertifikater.

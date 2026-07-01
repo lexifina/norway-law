@@ -1,0 +1,4 @@
+# § 262. Transportørens plikt til å ivareta lasteierens interesser
+Transportøren skal utføre transporten med tilbørlig omhu og hurtighet, ta vare på godset og for øvrig ivareta eierens interesser fra mottakelsen til utleveringen av godset.
+Transportøren skal sørge for at det skip som brukes til transporten, er sjødyktig, herunder at det er tilstrekkelig bemannet og utrustet og at lasterom, kjøle- og fryserom og andre deler av skipet hvor godset lastes, er i forsvarlig stand til å motta, transportere og bevare godset.
+Er gods gått tapt eller blitt skadet eller forsinket, skal transportøren snarest underrette den som senderen har angitt. Kan slik underretning ikke gis, skal lasteieren eller dersom denne ikke er kjent, senderen underrettes. Det samme gjelder dersom transporten ikke kan fullføres som forutsatt.

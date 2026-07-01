@@ -1,0 +1,2 @@
+# § 281. Ansvarsgrensen ved enhetslastet gods
+Brukes container, pall eller liknende transportinnretning for å samle godset, skal hvert kollo eller annen enhet som i transportdokumentet angis å være pakket i innretningen, anses som ett kollo eller én enhet ved anvendelsen av § 280. For øvrig skal godset i transportinnretningen anses som én enhet. Er transportinnretningen selv gått tapt eller blitt skadet, anses denne som en særskilt enhet med mindre den er eid eller på annen måte skaffet av transportøren.

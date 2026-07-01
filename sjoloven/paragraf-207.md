@@ -1,0 +1,8 @@
+# § 207. Ikke konvensjonsbestemt oljesølansvar
+Dersom et skip volder forurensningsskade som nevnt i § 191 på den del av norsk kontinentalsokkel som ligger utenfor norsk økonomisk sone eller, for så vidt norsk erstatningsrett får anvendelse, for øvrig på det åpne hav, eller det treffes tiltak for å avverge eller begrense slik skade, gjelder reglene i §§ 191 og 192 tilsvarende. For skip som nevnt i § 206 tredje ledd gjelder det samme også for skade her i riket eller i norsk økonomisk sone.
+Ansvar etter første ledd er begrenset etter reglene i § 194 første ledd. Kreves ansvarsbegrensning, gjelder følgende:
+a) reglene i kapittel 9 får anvendelse så langt de passer,
+b) krav som nevnt i § 195 tredje ledd er likestilt med andre krav ved fordeling av ansvarsbeløpet,
+c) opprettes begrensningsfond her i riket, skal fondet tilsvare det fulle ansvarsbeløp og reglene i kapittel 12 gjelde tilsvarende, og
+d) er det opprettet begrensningsfond som etter § 178 vil være til hinder for arrest eller annen tvangsforretning her i riket, får også § 193 annet og tredje ledd tilsvarende anvendelse.
+Gjøres ansvar gjeldende ved norsk domstol i anledning av at skip har voldt forurensningsskade i annen stat enn konvensjonsstat eller på det åpne hav, eller at det er truffet tiltak for å avverge eller begrense slik skade, er ansvaret begrenset til 4.510.000 SDR for skip med tonnasje som ikke overstiger 5000 tonn. For skip med tonnasje på mer enn 5000 tonn økes ansvarsgrensen med 631 SDR pr tonn over 5000 tonn. Ansvarsgrensen kan likevel ikke i noe tilfelle overstige 89 770 000 SDR. For øvrig gjelder bestemmelsene i annet ledd og i § 194 fjerde ledd tilsvarende.

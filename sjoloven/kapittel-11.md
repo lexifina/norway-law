@@ -1,0 +1,1 @@
+# Kapittel 11. Ansvar for skade voldt av farlig gods etter den internasjonale konvensjon om ansvar og erstatning for skade i forbindelse med sjøtransport av farlige og skadelige stoffer, 1996, som endret ved protokoll av 2010

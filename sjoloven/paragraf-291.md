@@ -1,0 +1,4 @@
+# § 291. Farlig gods
+Har senderen overlevert farlig gods til transportøren eller en undertransportør uten å opplyse om godsets farlige beskaffenhet og nødvendige sikkerhetstiltak i samsvar med § 257, og kjenner den som mottar godset ikke ellers til dets farlige beskaffenhet, er senderen ansvarlig overfor transportøren og enhver undertransportør for kostnader og annet tap som følge av transporten av slikt gods. Transportøren eller undertransportøren kan etter forholdene losse, uskadeliggjøre eller ødelegge godset uten plikt til å betale erstatning.
+Den som har mottatt godset i sin varetekt med kjennskap til dets farlige beskaffenhet, kan ikke påberope reglene i første ledd.
+Gods som viser seg å innebære fare for person eller eiendom, kan transportøren etter forholdene losse, uskadeliggjøre eller ødelegge uten plikt til å betale erstatning.

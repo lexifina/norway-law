@@ -1,0 +1,1 @@
+# Bortfall av befraktningsavtaler

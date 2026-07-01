@@ -1,0 +1,3 @@
+# § 353. Hevningsrett
+Kan reisebefrakteren tre tilbake fra befraktningsavtalen uten erstatningsansvar, jf § 352 tredje ledd, kan reisebortfrakteren heve avtalen når reisebortfrakteren gir melding om dette uten ugrunnet opphold.
+Leverer reisebefrakteren ikke alt det gods avtalen gjelder, kan reisebortfrakteren sette en rimelig frist for reisebefrakteren til å betale erstatning eller å stille sikkerhet. Er dette ikke gjort innen fristens utløp, kan reisebortfrakteren heve avtalen. Reisebortfrakteren kan dessuten kreve erstatning etter § 352 med mindre reisebefrakteren er uten ansvar for ikke å ha levert det gods som mangler.

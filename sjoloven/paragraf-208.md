@@ -1,0 +1,5 @@
+# § 208. Oljesølansvar undergitt globalbegrensning
+Oppstår det her i riket eller på den norske del av kontinentalsokkelen forurensningsskade voldt av olje som unnslipper eller uttømmes fra annet skip, boreplattform eller liknende flyttbar innretning enn nevnt i § 191 tredje ledd, og skaden ikke er omfattet av reglene i §§ 183 til 190, gjelder reglene i §§ 191 og 192 tilsvarende. Det samme gjelder når det er truffet tiltak for å avverge eller begrense slik skade.
+Det som er bestemt i første ledd, gjelder også for forurensningsskade på det åpne hav utenfor den norske del av kontinentalsokkelen for så vidt norsk erstatningsrett kommer til anvendelse.
+Ansvaret etter første og annet ledd er undergitt begrensning etter reglene i kapittel 9, jf også § 507.
+Reglene i første til tredje ledd gjelder tilsvarende for annen bestandig olje enn nevnt i § 191 fjerde ledd, ikke-bestandig olje og oljeholdig blanding, uten hensyn til om skipet eller innretningen omfattes av definisjonen i § 191 tredje ledd.

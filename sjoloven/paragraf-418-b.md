@@ -1,0 +1,6 @@
+# § 418 b. Pålegg om retting eller opphør, skriftlig bekreftelse og tvangsmulkt ved brudd på passasjerrettigheter
+Tilsynsmyndigheten kan gi pålegg om retting eller opphør av forhold som er i strid med bestemmelser eller vedtak gitt i eller i medhold av § 418 a, og kan fastsette vilkår som må oppfylles for at virksomheten skal være i samsvar med krav etter disse bestemmelsene.
+Pålegg om retting kan også gis med midlertidig virkning dersom det er rimelig grunn til å anta at det foreligger et brudd med bestemmelsene gitt i eller i medhold av § 418 a, og det foreligger en risiko for alvorlig skade på passasjerenes kollektive interesser. Vedtaket skal gjelde for en bestemt tid som ikke kan overstige tre uker fra virkningstidspunktet. Vedtaket kan fornyes dersom vilkårene etter første punktum er oppfylt.
+Tilsynsmyndigheten kan innhente skriftlig bekreftelse som nevnt i markedsføringsloven § 36 annet ledd.
+For å sikre at pålegg etter første og annet ledd blir etterlevd, kan tilsynsmyndigheten fastsette løpende tvangsmulkt som løper inntil forholdet er rettet. Det kan fastsettes tvangsmulkt overfor den ansvarlige for å sikre etterlevelse av skriftlige bekreftelser innhentet etter bestemmelsen i tredje ledd.
+Departementet kan gi forskrift om fastsettelse og utmåling av tvangsmulkt, om hvor lenge tvangsmulkten kan løpe, og om adgangen til å ettergi tvangsmulkt.

@@ -1,0 +1,5 @@
+# § 321. Anvendelsesområde. Definisjoner
+Reglene om befraktning gjelder hel- eller delbefraktning av skip. Reglene om reisebefraktning gjelder også konsekutive reiser når annet ikke er bestemt.
+I dette kapittel menes med: bortfrakter, den som ved avtale bortfrakter et skip til en annen (befrakteren); avlaster, den som leverer godset til lasting; reisebefraktning, befraktning der frakten skal beregnes pr reise; konsekutive reiser, et visst antall reiser som utføres etter hverandre i henhold til en befraktningsavtale for et bestemt skip; tidsbefraktning, befraktning der frakten skal beregnes pr tidsenhet; delbefraktning, befraktning som gjelder mindre enn et helt skip eller en full last når certeparti anvendes.
+Reglene i dette kapittel gjelder for avtaler om befraktning av skip i innenriks fart i Norge samt i fart mellom Norge, Danmark, Finland og Sverige. For innenriks fart i Danmark, Finland og Sverige gjelder loven i den stat hvor befordringen finner sted.
+Ved befraktning i fart som ikke omfattes av tredje ledd, gjelder reglene i dette kapittel når norsk rett kommer til anvendelse.

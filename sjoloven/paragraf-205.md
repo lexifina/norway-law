@@ -1,0 +1,4 @@
+# § 205. Anerkjennelse og fullbyrdelse av utenlandsk dom
+Rettskraftig dom mot skipets eier eller dennes forsikringsgiver har bindende virkning her i riket og kan fullbyrdes her når den er tvangskraftig, såfremt dommen er avsagt i stat som er tilsluttet 1992-ansvarskonvensjonen og av domstol som er kompetent til å avgjøre saken etter 1992-ansvarskonvensjonen artikkel IX.
+Tilsvarende gjelder dom mot Det internasjonale erstatningsfond (1992) avsagt i stat som står tilsluttet 1992-fondskonvensjonen eller hvor fondet har sitt sete, forutsatt at domstolen er kompetent etter 1992-fondskonvensjonen artikkel 7 nr 1 eller 3.
+Tilsvarende gjelder dom mot Det internasjonale tilleggsfond (2003) avsagt i stat som står tilsluttet 2003-tilleggsfondprotokollen eller hvor fondet har sitt sete, forutsatt at domstolen er kompetent etter 2003-tilleggsfondprotokollen artikkel 7.
