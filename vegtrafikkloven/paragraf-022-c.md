@@ -1,0 +1,3 @@
+# § 22 c. Tolletatens testing av ruspåvirkning
+Tolletaten kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om motorvognføreren er påvirket av annet berusende eller bedøvende middel når motorvognen er stanset i kontroll etter vareførselsloven § 8-1 første ledd, jf. § 8-2 bokstav b.
+Dersom testresultatet gir grunn til å tro at føreren av motorvognen har overtrådt bestemmelsen i § 22, skal politiet straks varsles. Tolletaten kan holde føreren tilbake med makt dersom føreren forsøker å unndra seg testing eller inntil føreren er overlevert politiet. Maktbruken må være nødvendig og stå i forhold til situasjonens alvor, tjenestehandlingens formål og omstendighetene for øvrig.

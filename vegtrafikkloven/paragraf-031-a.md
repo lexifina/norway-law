@@ -1,0 +1,7 @@
+# § 31 a. Gebyr for parkeringsovertredelser og visse andre overtredelser.
+Gebyr etter § 31 ilegges av politiet. Kongen kan gi andre offentlige organer tilsvarende gebyrmyndighet.
+Kongen kan, etter at uttalelse er innhentet fra vedkommende politimester, gi forskrift om at slik myndighet som etter denne paragraf er tillagt politiet også skal kunne utøves av kommunen. Kongen kan gi forskrift om gjennomføringen av slike ordninger og hvordan kommunalt oppkrevde gebyrer skal brukes.
+Blir ilagt gebyr ikke betalt innen tre uker etter ileggelsen, løper forsinkelsesrente etter forsinkelsesrenteloven. Dette gjelder selv om gebyret er påklaget.
+Ileggelse av gebyr kan innklages for tingretten innen en fastsatt frist. Blir klage fremsatt etter utløpet av fristen, skal den avvises med mindre retten finner at oversittelsen hverken kan legges eier eller bruker av kjøretøyet til last og klagen er fremsatt så snart det var mulig. Retten kan oppheve ilagt gebyr hvis den finner at vilkårene for ileggelse ikke forelå. Avgjørelsen treffes ved kjennelse og kan ankes. Ileggelse av gebyr kan ikke prøves under tvangsinndrivelse av gebyret.
+Ilagt gebyr og tilleggsgebyr kan inndrives etter reglene i § 38, fjorten dager etter at varsel om inndriving er kommet fram til eieren av kjøretøyet.
+Kongen fastsetter størrelsen av gebyret og gir nærmere regler om ileggelse og inndriving, om betalings- og klagefrist og om klagebehandlingen.

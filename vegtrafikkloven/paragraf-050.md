@@ -1,0 +1,3 @@
+# § 50. Forbud mot sanksjoner fra arbeidsgiver
+En arbeidstaker som avgir forklaring etter § 47, skal ikke som følge av dette utsettes for noen form for sanksjoner fra arbeidsgiverens side. Første punktum gjelder ikke tiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner.
+Første ledd gjelder ikke dersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling, eller at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med ulykken eller uhellet. Første ledd gjelder heller ikke omstendigheter knyttet til arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom arbeidstakerens forklaring etter § 47.

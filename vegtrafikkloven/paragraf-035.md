@@ -1,0 +1,3 @@
+# § 35. Forbud mot å kjøre førerkortfri motorvogn.
+Den som blir ilagt straff, kan i samme dom, forelegg eller beslutning om overføring til konfliktrådet for en bestemt tid eller for alltid forbys å føre motorvogn som det ikke kreves førerkort for, dersom hensynet til trafikksikkerheten eller allmenne hensyn ellers krever det.
+Politimesteren eller den han gir myndighet kan forby en person for nærmere fastsatt tid å kjøre motorvogn som det ikke kreves førerkort for, dersom personen er blitt fratatt retten til å føre motorvogn i medhold av § 34, eller mangler de egenskaper som er nødvendige for å kjøre slik motorvogn eller av andre grunner anses uskikket til å kjøre slik motorvogn, og hensynet til trafikksikkerheten eller allmenne hensyn ellers krever det.

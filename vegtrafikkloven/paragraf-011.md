@@ -1,0 +1,2 @@
+# § 11. Unntak for utrykningskjøretøy m.m.
+Kongen gir regler om adgang til å fravike det som er fastsatt i eller i medhold av §§ 4, 5, 6, 7, 8 og 9 for fører av utrykningskjøretøy, fører av kjøretøy i polititjeneste og fører av vegarbeidsmaskin eller annet kjøretøy som nyttes til arbeid på eller ved veg. Det samme gjelder for fører av kjøretøy i Statens vegvesens tjeneste og offentlig parkeringskontrolltjeneste.
