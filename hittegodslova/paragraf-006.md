@@ -1,0 +1,2 @@
+# § 6
+Når politiet tek mot hittegods, skal det gjera dei etterrøkjingane etter eigaren som det etter tilhøva er rimeleg å gjera. Er godset heller verdfullt eller er det rimeleg av andre grunnar, bør funnet gjerast kjent med oppslag, lysing i blad eller på annan tenleg måte. Melder eigaren seg og provar retten sin, skal han få godset att mot å greida finnarløn og annan kostnad og krav som er nemnde i § 7, tridje leden.

@@ -1,0 +1,5 @@
+# § 1
+Hittegods er lausøyre som har kome bort for innehavaren utan at han ville det, og som nokon har funne og teke hand um. Ville dyr eller andre pelsdyr enn mink som har rømt og sidan vert attfanga eller eventuelt drepne etter tiltak av andre enn eigaren, vert rekna for hittegods.
+Funne bufe og andre husdyr, berga fiskereiskap og båtreinad, vrakgods og annan bortkomen lausøyre som det er gjeve føresegner om i serskild lov, skal ikkje reknast for hittegods utan det går fram av serføresegnene.
+Jordgrave gods og annan lausøyre som har lege gøymd lenge på fast eigedom eller i ein lausøyreting, skal ikkje reknast for hittegods, når det synest klårt etter tilhøva at det ikkje lenger er rimeleg von å finna ut kven som er eigar. Eigaren til grunn, bygning eller lausøyreting der slikt funn vart gjort, og finnaren skal ha kvar sin halvpart av det som er funne. Kjem godset inn under lov 9. juni 1978 nr. 50 om kulturminner, gjeld føresegnene der.
+Kongen kan gjeva serlege føresegner om kva det skal gjerast med gods som sjømenn eig eller rår over og som er inngjeve til norsk stasjon i utlandet eller sendt heim derifrå til styremakt her i riket.
