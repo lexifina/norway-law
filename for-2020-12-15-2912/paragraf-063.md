@@ -1,0 +1,3 @@
+# § 63. Verifikasjon av prøveresultater
+Behandlingsansvarlig for registre opprettet i medhold av integreringsloven § 43 kan gi Samordna opptak og høyere utdanningsinstitusjoner tilgang til registrene når det er nødvendig for å verifisere opplysninger den enkelte har oppgitt.
+Behandlingsansvarlig for registre opprettet i medhold av integreringsloven § 43 kan dele en persons fødselsnummer eller D-nummer og informasjon om at en person har prøveresultat i slike registre, automatisk med nasjonal portal for deling av vitnemål og dokumentasjon av kompetanse, jf. universitets- og høyskoleloven § 4-14. Opplysninger om en persons prøveresultater kan kun deles når dette bestemmes av den enkelte selv.

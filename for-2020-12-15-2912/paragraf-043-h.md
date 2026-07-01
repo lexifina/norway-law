@@ -1,0 +1,3 @@
+# § 43h. Rettigheter og plikter for deltagere som har hatt midlertidig kollektiv beskyttelse ved overgang til andre oppholdstillatelser
+Deltagere som har hatt oppholdstillatelse etter utlendingsloven § 34 og som har fått vedtak om introduksjonsprogram eller opplæring i norsk etter de midlertidige reglene i integreringsloven kapittel 6A, får ikke nye rettigheter eller plikter etter integreringsloven ved overgang til en annen oppholdstillatelse som nevnt i loven §§ 27 eller 28.
+Deltagere som nevnt i første ledd har rett til å fullføre påbegynt introduksjonsprogram etter integreringsloven § 37c eller eventuell gjenstående norskopplæring etter integreringsloven § 37d.
