@@ -1,0 +1,2 @@
+# § 13-3. Anskaffelser som gjennomføres ved bruk av en kvalifikasjonsordning
+En oppdragsgiver som vil gjennomføre en anskaffelse ved bruk av en kvalifikasjonsordning, skal inngå kontrakten etter reglene for begrenset anbudskonkurranse, konkurranse med forhandling etter forutgående kunngjøring eller konkurransepreget dialog. Oppdragsgiveren skal bare invitere leverandørene som er tatt opp i ordningen, til å gi tilbud.

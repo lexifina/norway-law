@@ -1,0 +1,2 @@
+# § 7-2. Offentlighet
+For allmennhetens innsyn i dokumentene knyttet til en offentlig anskaffelse gjelder offentleglova. Oppdragsgivere som ikke er omfattet av offentleglova, skal gi allmennheten innsyn i vare- og tjenestekontrakter med en verdi på minst 11,6 millioner kroner ekskl. mva. og bygge- og anleggskontrakter med en verdi på minst 96 millioner kroner ekskl. mva. Reglene i offentleglova om unntak fra innsyn gjelder tilsvarende.

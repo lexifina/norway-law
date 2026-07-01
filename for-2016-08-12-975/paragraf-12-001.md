@@ -1,0 +1,5 @@
+# § 12-1. Kvalifikasjonskrav
+(1) Oppdragsgiveren kan fastsette objektive regler og kriterier for kvalifisering av leverandørene. Reglene og kriteriene skal gjøres tilgjengelige for alle interesserte leverandører.
+(2) Oppdragsgiveren kan stille krav til leverandørens kvalifikasjoner som angitt i anskaffelsesforskriften § 16-1 på de vilkår som er fastsatt i denne bestemmelsen. I så fall gjelder anskaffelsesforskriften § 16-2 til § 16-6 og § 17-1 tilsvarende.
+(3) Ved begrenset anbudskonkurranse, konkurranse med forhandling etter forutgående kunngjøring, konkurranse om innovasjonspartnerskap eller konkurransepreget dialog skal oppdragsgiveren ikke stille administrative, tekniske eller finansielle krav til noen leverandører som ikke stilles til andre, eller kreve prøver eller bevis som dekkes av allerede tilgjengelig objektiv dokumentasjon.
+(4) Ved konkurranse om innovasjonspartnerskap skal oppdragsgiveren særlig stille krav til leverandørens kvalifikasjoner innenfor forskning og utvikling, inkludert utvikling og gjennomføring av innovative løsninger.
