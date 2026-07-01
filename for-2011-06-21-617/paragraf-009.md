@@ -1,0 +1,6 @@
+# § 9. Landbruksdirektoratets oppgaver og kontroll
+Dersom ikke annen kontroll er bedre eller mer kostnadseffektiv, skal det gjennomføres stikkprøvekontroll av den samlede reinslakt. Omfanget av stikkprøvekontrollen bestemmes av Landbruksdirektoratet. Stikkprøvekontrollen kan overlates til vedkommende statsforvalter.
+Kontrollene skal i den grad det er praktisk mulig, ta utgangspunkt i slaktedyrets eier og ikke i hvem som leverer dyret. Dersom det ved kontroller blir konstatert feilavregning, skal vedkommende rapportør og berørte reineier(e) informeres. I slike tilfeller skal ørene beslaglegges for eventuell senere kontroll av partene, merkenemnd eller annen offentlig myndighet.
+Mottakere av tilskudd etter denne forskriften plikter å gi alle opplysninger som reindriftsmyndighetene finner nødvendig for å kunne forvalte tilskuddsordningen, eller for å kunne oppfylle reindriftsavtalen.
+Reindriftsmyndighetene fører tilsyn med at utbetalinger av tilskudd er riktige, og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet. For virksomheter som er pålagt revisjonsplikt kan det kreves revidert regnskap over utgiftene.
+Reindriftsmyndighetene kan foreta stedlig kontroll hos tilskuddsmottakeren.
