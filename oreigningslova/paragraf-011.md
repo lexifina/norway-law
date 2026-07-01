@@ -1,0 +1,2 @@
+# § 11
+I søknad som vert lagd fram for Kongen – eller styringsorgan med fullmakt etter § 5 – skal det, så langt råd er, vera gjort greie for kven oreigningsinngrepet råkar, kva det går ut på og inngrepsføremålet. Med kart eller rit (skisse) må det likeins vera gjort greie for kva markestykke saka gjeld. Dessutan må det så langt det let seg gjera, vera oppgjeve korleis stykket ligg til, kor stort det er, kva slag det er av og kva det no vert nytta til.

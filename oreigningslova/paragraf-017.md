@@ -1,0 +1,3 @@
+# § 17
+Skjøn som skal fastsetja vederlag for oreigningsinngrep etter § 2, skal haldast av tingretten etter skjønslova om ikkje anna er sagt nedanfor. Skjøn som skal fastsetja vederlag for inngrep etter § 2 nr. 1, 3, 9, 10, 11, 12, 29, 30, 34, 35, 36, 37, 38, 39, 40, 42, 43, 50 og 53 er det jordskifteretten som styrer. Det same gjeld inngrep etter § 2 nr. 19 for lågspana kraftline og nr. 47 til bate for høgst fem brukseiningar. Kongen eller styringsorgan med fullmakt etter § 5 kan likevel gjera vedtak for den einskilde saka om at skjønet skal styrast av tingretten.
+Føresegnene i fyrste leden gjeld på tilsvarande måte når skjønet i samhøve med § 5 tredje leden tek avgjerd om kva inngrepet skal gå ut på, eller kva omfang det skal ha.

@@ -1,0 +1,3 @@
+# § 27
+Om det som er stelt til på ein eigedom etter vedtak om eller samtykke til oreigningsinngrep, vert nedlagt, anten av di inngrepet er tidavgrensa eller av annan grunn, skal oreignaren eller ettermannen hans svara skadebot etter skjøn for skade og ulempe som nedlegginga valdar eigar eller rettshavar. Tap av føremon som det tilstelte har skapt, skal det då ikkje takast omsyn til utan det vert ettervist at eiger eller rettshavar har svara vederlag for føremonen med frådrag i sitt vederlag eller på annan måte. For skade og ulempe som tilstelnaden kan valda etter nedlegginga, skal det likeeins svarast skadebot med ein eingongssum.
+Skjøn etter fyrste leden vert styrt av jordskifteretten.

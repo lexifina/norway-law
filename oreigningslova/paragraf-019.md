@@ -1,0 +1,3 @@
+# § 19
+Skadebot for skade eller ulempe som er valda ved førehandsundersøkingar i samhøve med § 4 fyrste ledd, skal det skjønet fastsetja som fastset vederlag for inngrepet, så framt partane er samde om det. I andre høve vert skadebota fastsett i skjøn som vert styrt av jordskifteretten. Det same gjeld når det ikkje vert gjort vedtak om eller gjeve samtykke til inngrep.
+Vert ikkje inngrepet sett i verk, kan skjønet, så framt eigar eller rettshavar krev det, fastsetja at den ansvarlege for gjennomføringa av førehandsundersøkingane skal vøla skaden i staden for å svara skadebot. Kan ikkje heile skaden vølast, skal det svarast skadebot for resten.
