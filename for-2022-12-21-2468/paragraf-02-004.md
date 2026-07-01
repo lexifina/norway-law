@@ -1,0 +1,2 @@
+# § 2-4. Særskilt tilskudd for Trollheimen
+For Trollheimen ytes det tilskudd til spesielle kostnader med inntil 15 000 kroner per siidaandel for det antall enheter som er innvilget produksjonspremie i minst et av de tre foregående driftsårene. Med bakgrunn i gitte rammebetingelser utbetales et ekstraordinært tilskudd på inntil 200 000 kroner til hver av de fem siidaandelene i Trollheimen. Ved endring av rammebetingelsene bortfaller tilskuddet.

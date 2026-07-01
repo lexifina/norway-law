@@ -1,0 +1,3 @@
+# § 1-2. Definisjoner
+Med distriktstilskudd menes tilskudd til administrasjon, planlegging og ressursforvaltning til reinbeitedistrikt og reinlag.
+Med beitekrise menes en hendelse som avviker fra det normale og skiller seg markant fra den normale driftsvariasjonen som er mellom år. En beitekrise kan oppstå raskt, eller utvikles over tid, og er avgrenset både i geografi og antall reineiere som blir berørt. Ved en krise er en vesentlig andel av siidaens beiteareal utilgjengelig eller påvirket av andre klimatiske forhold som truer reinens velferd, og det foreligger en betydelig risiko for tap av rein og store økonomiske tap. En krise kan true videre drift hos de reineierne som blir berørt.
