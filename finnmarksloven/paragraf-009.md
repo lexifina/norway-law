@@ -1,0 +1,7 @@
+# § 9. Styrets oppgaver og saksbehandling
+Forvaltningen av Finnmarkseiendommen hører under styret. Styret skal sørge for forsvarlig organisering av virksomheten. Styret skal i nødvendig utstrekning fastsette planer, budsjett, retningslinjer og instrukser for virksomheten. Styret iverksetter de undersøkelser som det finner nødvendig for å kunne utføre sine oppgaver. Styret skal iverksette slike undersøkelser dersom et styremedlem krever det.
+Styrelederen skal sørge for at aktuelle saker blir behandlet i styret og at det blir innkalt til styremøter på hensiktsmessig måte og med rimelig frist. Et styremedlem kan kreve at styret behandler bestemte saker.
+Styret skal behandle saker i møte med mindre lederen finner at saken kan forelegges styret skriftlig eller behandles på annen betryggende måte. Et styremedlem kan kreve møtebehandling.
+Styret kan treffe vedtak når minst fem medlemmer er til stede. Vedtak treffes med alminnelig flertall med mindre annet følger av § 10. Ved stemmelikhet er styrelederens stemme avgjørende.
+Styret avgir årlig en beretning til kontrollkomiteen om Finnmarkseiendommens virksomhet. I beretningen skal det gis en særskilt redegjørelse for endringer i bruken av utmark og en vurdering av endringenes betydning for naturgrunnlaget for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv.
+Styret fastsetter selv sin godtgjørelse. Godtgjørelsen dekkes av Finnmarkseiendommen.

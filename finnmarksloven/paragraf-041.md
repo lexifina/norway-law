@@ -1,0 +1,4 @@
+# § 41. Ansvaret for sakens opplysning m.m.
+Det påhviler partene å gjøre rede for de faktiske forholdene og bevisene som er av betydning for avgjørelsen. Utmarksdomstolen skal av eget tiltak innhente Finnmarkskommisjonens rapport og ta utgangspunkt i denne i sin behandling av saken. Partene kan i tillegg legge frem som bevis dokumenter som er kommet inn til, lagt frem for eller utferdiget av Finnmarkskommisjonen.
+Utmarksdomstolen kan ikke ta imot vitneforklaring fra Finnmarkskommisjonens medlemmer eller fra personer som har utført arbeid for kommisjonen i forbindelse med saken.
+Rettsmøter til avhør av parter og vitner utenfor hovedforhandling kan holdes av to av utmarksdomstolens medlemmer, hvorav minst den ene må ha de kvalifikasjonene som kreves for høyesterettsdommere. Utmarksdomstolen kan begjære at vedkommende tingrett foretar avhør.

@@ -1,0 +1,4 @@
+# § 32. Ansvaret for sakens opplysning
+Finnmarkskommisjonen har selv ansvaret for at saken blir tilstrekkelig opplyst. Kommisjonen kan på den måten som den finner hensiktsmessig, innhente forklaringer, dokumenter og annet materiale samt foreta undersøkelser og utredninger m.m. om faktiske og rettslige forhold som kan være av betydning for kommisjonens konklusjoner.
+Partene har rett til å gjøre rede for de faktiske forholdene og føre bevis som er av betydning for kommisjonens konklusjoner. Partene kan begjære iverksatt tiltak etter første ledd. Finnmarkskommisjonen kan avslå begjæringen dersom den finnes ugrunnet, eller det vil medføre uforholdsmessige forsinkelser eller kostnader å etterkomme den.
+For å ivareta partenes interesser kan Finnmarkskommisjonen oppnevne representanter for ulike interessegrupper som kan følge kommisjonens arbeid. Utgiftene dekkes av staten.

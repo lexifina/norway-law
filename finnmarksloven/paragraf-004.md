@@ -1,0 +1,3 @@
+# § 4. Sametingets retningslinjer for endret bruk av utmark
+Sametinget kan gi retningslinjer for hvordan virkningen for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv av endret bruk av utmark skal bedømmes. Retningslinjene skal godkjennes av departementet. Departementet prøver om retningslinjene ligger innenfor rammen av første punktum, og om de er utformet på egnet måte.
+I saker om endret bruk av utmark skal statlige, fylkeskommunale og kommunale myndigheter vurdere hvilken betydning endringen vil ha for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv. Sametingets retningslinjer skal legges til grunn ved vurderingen av samiske interesser etter første punktum.
