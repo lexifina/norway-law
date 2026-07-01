@@ -1,0 +1,4 @@
+# § 3-2. Tilrettelegging og tilgjengeliggjøring av opplysninger for aktivitetsbaserte finansieringsordninger og kommunal medfinansiering av spesialisthelsetjenesten
+Opplysninger nødvendige for drift og utvikling av etablerte finansieringsordninger innen spesialisthelsetjenesten skal legges til rette av Norsk pasientregister og utleveres eller på annen måte tilgjengeliggjøres for Helsedirektoratet, herunder også HELFO, for gjennomføring av drift og utvikling. Det skal ikke tilgjengeliggjøres opplysninger med direkte personidentifiserbare kjennetegn.
+Opplysningene som mottas til formål som følger av første ledd skal slettes så snart oppgavene er utført og kan ikke oppbevares lenger enn inntil 5 år etter avsluttet driftsår.
+Opplysninger som skal benyttes til utredninger av vesentlige endringer eller utvidelser av ordningene som er nevnt i første ledd skal bare utleveres i henhold til § 3-1 i denne forskriften.

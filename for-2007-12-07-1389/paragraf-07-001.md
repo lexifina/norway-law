@@ -1,0 +1,2 @@
+# § 7-1. Overgangsbestemmelse
+Det er kun pasienter som behandles etter ikrafttredelse av lov 16. februar 2007 nr. 7 om etablering av Norsk pasientregister som er lovbestemt register som skal registreres i det personidentifiserbare Norsk pasientregister. For pasienter som behandles etter lovens ikrafttredelse, men som ble henvist til spesialisthelsetjenesten før lovendringen trådte i kraft, vil henvisningsdata registreres i det personidentifiserbare Norsk pasientregister.

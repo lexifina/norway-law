@@ -1,0 +1,3 @@
+# § 5-1. Den registrertes rett til informasjon og innsyn
+Registrerte har rett til informasjon om Norsk pasientregister og innsyn i behandling av helseopplysninger om seg selv i samsvar med personvernforordningen artikkel 13 til 15, jf. helseregisterloven § 24. Registrerte har rett til innsyn i utleveringer som gis i personidentifiserbar form. Er den registrerte mindreårig, gjelder pasient- og brukerrettighetsloven § 3-4 tilsvarende.
+Innsyn i helseopplysninger om en selv skal fortrinnsvis gis gjennom den registrertes sist behandlende lege og helseinstitusjon. Informasjonen skal gis i en forståelig form.
