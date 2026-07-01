@@ -1,0 +1,3 @@
+# § 12a. Utsending fra Norge av arbeidstaker som er innleid fra bemanningsforetak
+Dersom en virksomhet i Norge har leid inn arbeidstaker fra bemanningsforetak, og sender denne arbeidstakeren på midlertidig tjenesteoppdrag utenfor Norge, er det bemanningsforetaket som er ansvarlig for å sikre at arbeidstakeren omfattes av vertslandets bestemmelser som arbeids- og ansettelsesvilkår som er gitt for å gjennomføre direktiv 96/71/EF om utsending av arbeidstakere i forbindelse med tjenesteyting. Dette gjelder uavhengig av om bemanningsforetaket er etablert i Norge eller i et annet land.
+Ved utsending som nevnt i første ledd skal innleier underrette bemanningsforetaket om utsendingen i rimelig tid før oppdraget begynner.

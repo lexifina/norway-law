@@ -1,0 +1,3 @@
+# § 4. Krav om dokumentasjon
+Når utenlandsk virksomhet sender arbeidstakere til Norge i forbindelse med tjenesteyting skal virksomheten ha arbeidsavtaler, oversikt over arbeidstiden og lønnsslipper for de utsendte arbeidstakerne som utfører tjenesten tilgjengelig på arbeidsplassen i Norge i utsendingsperioden. Virksomheten skal også kunne fremlegge dokumentasjon som viser utsendingens forventede varighet og planlagt start- og sluttdato, det forventede antall utsendte arbeidstakere, og arbeidstakernes identitet. Dokumentasjonen skal foreligge skriftlig eller være tilgjengelig elektronisk.
+Dokumenter som nevnt i første ledd skal foreligge på norsk, svensk, dansk eller engelsk.

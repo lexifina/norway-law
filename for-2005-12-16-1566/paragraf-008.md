@@ -1,0 +1,3 @@
+# § 8. Suspensjon av bistanden
+Gjennomføring av bistand som nevnt i § 6 og § 7 suspenderes hvis den myndighet som har anmodet om bistand gir melding om at avgjørelsen eller pengekravet har blitt påklaget, brakt inn for domstolene eller bestridt på annen måte. Gjennomføringen suspenderes frem til det foreligger en avgjørelse fra rett organ i det EØS-land som har anmodet om bistand.
+Hvis et vedtak eller pengekrav som Arbeidstilsynet eller Innkrevingsmyndigheten har anmodet et annet EØS-land om å underrette om eller kreve inn har blitt påklaget, brakt inn for domstolene eller bestridt på annen måte i Norge, skal Arbeidstilsynet eller Innkrevingsmyndigheten så snart som mulig varsle ansvarlig myndigheter som er anmodet om bistanden.
