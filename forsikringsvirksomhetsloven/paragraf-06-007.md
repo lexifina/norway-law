@@ -1,0 +1,5 @@
+# § 6-7. Beregning av pensjonsordningens midler
+En ytelsesbasert pensjonsordnings midler omfatter premiereserve til sikring av opptjent pensjon, herunder premiereserve for uføre- og etterlatteytelser, bufferfond, pensjonistenes overskuddsfond og premiefondet. Pensjonsordningens andel av overskudd i flytteåret omfattes også.
+I pensjonsordninger med innskuddspensjon omfatter pensjonsordningens midler pensjonskapitalen og innskuddsfondet, samt pensjonsordningens andel av overskudd i flytteåret.
+Ved flytting overføres den forsikringskapital som er knyttet til pensjonsordningen beregnet på tidspunktet for oppsigelsestidens utløp. Pensjonsordningens andel av overskudd i flytteåret frem til tidspunktet for oppsigelsestidens utløp omfattes også. Betingede egenkapitalbidrag i samsvar med § 3-19 a omfattes ikke.
+Forvaltes pensjonsordningens midler i egen eller egne investeringsporteføljer, legges markedsverdien av porteføljen ved utløpet av oppsigelsesfristen til grunn ved verdiberegningen. Dette gjelder også avkastnings- og verdisikringsgarantier knyttet til porteføljene. Foretakspensjonsloven § 11-1 fjerde ledd gjelder tilsvarende.

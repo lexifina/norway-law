@@ -1,0 +1,4 @@
+# § 5-4. Vilkår for fellesordning for premieberegning
+Bestemmelsene i kapittel 3 er ikke til hinder for at det opprettes fellesordninger som består av flere pensjonsordninger, for at premie for den enkelte pensjonsordning som inngår i en fellesordning, skal bli fastsatt ved beregning basert på prinsipper som vil motvirke at pensjonskostnaden for de enkelte medlemmer for tilsvarende pensjonsrettigheter vil variere med medlemmenes kjønn og alder.
+Alle pensjonsordningene i en fellesordning skal ha pensjonsplaner som gir samme typer av pensjonsytelser. Forholdet mellom alderspensjonsytelse og etterlatteytelse for det enkelte medlem skal være det samme etter pensjonsplanene for alle pensjonsordningene. Alle pensjonsordningene skal bygge på samme beregningsrente og i hovedsak samme beregningsgrunnlag.
+Pensjonsordninger med pensjonsplaner som gir forskjellig ytelsesnivå for alderspensjon, kan inngå i samme fellesordning.

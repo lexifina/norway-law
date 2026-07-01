@@ -1,0 +1,4 @@
+# § 6-8. Premiereserve for uføreytelser
+Premiereserve for uføreytelser til medlemmer som er blitt uføre før utløpet av oppsigelsesfristen, skal fastsettes på grunnlag av det beregningsgrunnlag som gjaldt for pensjonsordningen ved utløpet av oppsigelsesfristen. Fastsatt uføregrad legges til grunn selv om uføregraden blir fastsatt etter dette tidspunktet.
+Medlem som er sykmeldt ved utløpet av oppsigelsesfristen, skal her anses som ufør dersom den sykdom som da var konstatert, har gitt rett til arbeidsavklaringspenger eller uføretrygd innen ett år etter utløpet av oppsigelsesfristen.
+Tidsfristen i annet ledd kan fravikes ved avtale mellom pensjonsinnretningene. Slik avtale berører ikke foretakets eller de forsikredes rettigheter overfor avgivende pensjonsinnretning etter annet ledd med mindre foretaket samtykker til at forpliktelsene overtas av mottakende pensjonsinnretning.

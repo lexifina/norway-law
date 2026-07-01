@@ -1,0 +1,4 @@
+# § 2-4. Forholdet til pensjonsordningene og arbeidsgiver
+Regelverket for en pensjonsordning fastsettes ved avtale mellom pensjonskassen og arbeidsgiver. Som arbeidsgiver regnes her også morselskap i konsern, kommune, forening og styrende organ i en foreningspensjonsordning.
+Bestemmelsene om kollektive pensjonsordninger i lov 16. juni 1989 nr. 69 om forsikringsavtaler gjelder tilsvarende så langt de passer. Utkast til regelverket skal forelegges pensjonskassens aktuar til uttalelse før avtalen inngås.
+Arbeidsgiver, foretak, forening eller annen institusjon med pensjonsordning i pensjonskassen kan skyte inn ny kapital i pensjonskassen for å sikre at soliditeten til enhver tid er forsvarlig, og at minstekravene til grunnkapital og annen kapital er oppfylt. Det samme gjelder arbeidsgivere tilknyttet en foreningspensjonsordning.

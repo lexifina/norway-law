@@ -1,0 +1,4 @@
+# § 5-3. Premieberegning
+Pensjonsordningen skal årlig tilføres en premie som etter beregningsgrunnlaget for ordningen er tilstrekkelig til å sikre rett til pensjon som medlemmene vil opptjene i løpet av året, med tillegg av årets risikopremier og kostnader for tjenester (ordinær årspremie). Premie for hvert år beregnes ved årets begynnelse og senere i året i takt med lønnsutviklingen.
+Pensjonsordningen skal i tillegg hvert år tilføres premie til dekning av oppregulering i løpet av året av opptjente pensjonsrettigheter (reguleringspremie). Reguleringspremien beregnes på tidspunktet for oppreguleringen ut fra lønnsutviklingen i løpet av året.
+Pensjonsordningen skal også hvert år tilføres premie til dekning av pensjonsrettigheter som medlemmene i tilfelle får i løpet av året, og som ikke kan premiesettes på forhånd ut fra forsikringstekniske beregninger. Slik premie beregnes på det tidspunkt pensjonsrettighetene oppstår.

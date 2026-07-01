@@ -1,0 +1,2 @@
+# § 3-8. Forsikringskapitalen
+I livs- og pensjonsforsikring skal foretaket føre eget kunderegnskap for hver kontrakt med oversikt over forsikringskapitalen. Forsikringskapitalen knyttet til en kontrakt skal bestå av premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond, reguleringsfond og bufferavsetning for pensjonsordninger med flerårig avkastningsgaranti.

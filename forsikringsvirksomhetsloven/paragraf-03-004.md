@@ -1,0 +1,2 @@
+# § 3-4. Kjønn som faktor ved beregning av risiko
+Foretaket kan anvende kjønn som faktor ved beregning av pris for dekning av risiko knyttet til person og ved beregning av premier og ytelser dersom kjønn er en bestemmende faktor ved beregningen av risiko, og dette er basert på relevante og nøyaktige aktuarmessige og statistiske data. Ved avtaler om private og frivillige forsikringer utenfor arbeidsforhold skal anvendelse av kjønn som faktor ved beregningen ikke føre til forskjeller i forsikringstakeres premier og ytelser.

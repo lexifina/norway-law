@@ -1,0 +1,4 @@
+# § 3-19 a. Betinget egenkapitalbidrag for kontraktsfastsatte forpliktelser
+Hvis avkastningen tilordnet en kontrakt i kollektivporteføljen i et år er negativ eller ikke er stor nok til å dekke det årlige kravet til økning i premiereserven etter premieberegningsgrunnlaget, og kravet heller ikke kan oppfylles ved bruk av bufferfond tilordnet kontrakten, kan kravet oppfylles ved betinget egenkapitalbidrag fra foretaket.
+For kontrakter som har fått tilført betinget egenkapitalbidrag, skal foretaket benytte hele eller deler av tilført avkastning utover tilordning i samsvar med beregningsgrunnlaget for kontrakten til økning av premiereserven og tilsvarende reduksjon av betinget egenkapitalbidrag.
+Ved gjenkjøp eller opphør av kontrakten skal egenkapitalbidraget anses som tilført med endelig virkning.
