@@ -1,0 +1,4 @@
+# § 102. Plikt til å ivareta sikkerheten ved saluttering
+(1) Både den som skal ha utført saluttering og den som utfører selve salutteringen hvor det brukes eksplosiver skal sørge for at sikkerheten ved bruk av eksplosiver blir ivaretatt på forsvarlig måte.
+(2) Den som utfører salutteringen skal vurdere risikoen ved salutteringen og gjennomføre tiltak slik at salutteringen kan gjennomføres på en sikker måte. Planer og rutiner for salutteringen skal foreligge skriftlig før salutteringen igangsettes, og blant annet inneholde plan for sikring av omgivelsene og informasjon og varsling til berørte parter.
+(3) Den som skal ha utført saluttering, skal påse at den som utfører salutteringen kan dokumentere tilfredsstillende kompetanse i saluttering og at vedkommende har utarbeidet planer for å ivareta sikkerheten ved salutteringen.

@@ -1,0 +1,2 @@
+# § 109. Tilfeller der produsentens forpliktelser får anvendelse på importører og distributører
+En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 105 så langt bestemmelsen passer når importøren eller distrubutøren bringer eksplosiver i omsetning under eget navn eller varemerke, eller endrer et eksplosiv som allerede er brakt i omsetning på en slik måte at det kan påvirke eksplosivets samsvar med forskriften.

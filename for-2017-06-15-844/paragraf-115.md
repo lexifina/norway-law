@@ -1,0 +1,24 @@
+# § 115. Krav til tekniske kontrollorgan
+(1) Et teknisk kontrollorgan skal opprettes etter norsk lovgivning og være en juridisk person.
+(2) Et teknisk kontrollorgan skal være en tredjepart som er uavhengig av organisasjonen eller eksplosivet det vurderer.
+(3) Et teknisk kontrollorgan, dets øverste ledelse og personalet som har ansvar for å utføre samsvarsvurderingene, skal ikke være de som konstruerer, produserer, leverer, installerer, kjøper, eier, bruker eller vedlikeholder eksplosivene de vurderer, eller være representant for noen av disse partene. Dette skal ikke hindre bruk av eksplosiver som er nødvendige for virksomheten til det tekniske kontrollorganet, eller bruk av eksplosiver for personlige formål.
+(4) Et teknisk kontrollorgan, dets øverste ledelse og personalet som har ansvar for å utføre samsvarsvurderinger, skal ikke delta direkte i utforming, konstruksjon, produksjon, markedsføring, installasjon, bruk eller vedlikehold av disse eksplosivene, eller representere parter som deltar i slik virksomhet. De skal ikke delta i virksomhet som kan påvirke deres uavhengige vurdering eller integritet i forbindelse med samsvarsvurderingsvirksomheten de er utpekt for. Dette gjelder særlig rådgivningstjenester.
+(5) Et teknisk kontrollorgan skal sikre at virksomhet i datterforetak eller underleverandører ikke påvirker fortroligheten, objektiviteten eller upartiskheten i organets samsvarsvurderingsvirksomhet.
+(6) Et teknisk kontrollorgan og dets personale skal utøve sin samsvarsvurderingsvirksomhet med høy grad av faglig integritet og ha nødvendige tekniske kvalifikasjoner på det aktuelle området. De skal ikke være utsatt for noen form for press eller påvirkning, særlig av økonomisk art, som kan påvirke deres vurderinger eller resultatene av deres samsvarsvurderingsvirksomhet, særlig ikke fra personer eller grupper av personer som berøres av resultatene av denne virksomheten.
+(7) Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt etter vedlegg III og som det er utpekt for. Dette gjelder uansett om disse oppgavene utføres av organet selv eller på dets vegne og under dets ansvar.
+(8) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av eksplosiver som det er utpekt for, ha til rådighet
+a) nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen
+b) beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene
+c) egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhet
+d) framgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks eksplosivets teknologi er, og produksjonsprosessens masse- eller seriepreg.
+(9) Et teknisk kontrollorgan skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
+(10) Personale med ansvar for å utføre samsvarsvurderinger skal ha
+a) solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt for
+b) tilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger
+c) tilfredsstillende kunnskap om og forståelse av kravene i vedlegg II, de relevante harmoniserte standardene, relevante bestemmelser i EØS-regelverk og relevant nasjonal lovgivning
+d) nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+(11) Det skal sikres at det tekniske kontrollorganet, dets øverste ledelse og vurderingspersonalet er upartiske.
+(12) Godtgjøringen til det tekniske kontrollorganets ledelse og til vurderingspersonalet skal ikke være avhengig av antallet utførte vurderinger eller av resultatene av slike vurderinger.
+(13) Et tekniske kontrollorgan skal tegne ansvarsforsikring med mindre EØS-staten påtar seg ansvar eller selv er direkte ansvarlig for samsvarsvurderingen.
+(14) Et teknisk kontrollorgan sitt personale har taushetsplikt om alle opplysninger de får kjennskap til når de utfører sine oppgaver etter vedlegg III, unntatt overfor vedkommende myndigheter i den EØS-staten der organet utøver sin virksomhet.
+(15) Et teknisk kontrollorgan skal delta i eller påse at dets vurderingspersonale blir informert om relevant standardiseringsvirksomhet og virksomheten til samordningsgruppen for tekniske kontrollorgan, og anvende forvaltningsvedtakene og dokumentene som er resultat av denne gruppens arbeid, som generelle retningslinjer.

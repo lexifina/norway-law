@@ -1,0 +1,2 @@
+# § 23. Krav til god vandel for ledelsen i virksomheten
+Ledelsen i virksomheten skal ha god vandel. Direktoratet for samfunnssikkerhet og beredskap kan kreve at virksomheten legger frem en tilfredsstillende ordinær politiattest for administrerende direktør, styreleder, styremedlem, daglig leder, innehaver av enkeltpersonsforetak, eller person som er overordnet den ansatte som skal håndtere eksplosiver. Politiattesten skal ikke være eldre enn tre måneder.

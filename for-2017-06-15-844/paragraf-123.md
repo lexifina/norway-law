@@ -1,0 +1,6 @@
+# § 123. Unik id-merking
+(1) Den som produserer eller importerer eksplosiver eller monterer tennere, skal merke eksplosivene og alle forpakningsenheter, med et unikt identifikasjonsmerke (id-merke).
+(2) I de tilfeller hvor eksplosiver er gjenstand for ytterligere bearbeiding eller montering, behøver ikke produsenten å merke eksplosivet med et nytt unikt id-merke dersom det opprinnelige merket tilfredsstiller kravene i § 124.
+(3) Første ledd gjelder ikke i de tilfeller hvor eksplosiver produseres for eksport og eksplosivet er merket med et id-merke som gjør det mulig å spore det i henhold til kravene i importlandet.
+(4) Hvert produksjonssted tildeles en tresifret kode av Direktoratet for samfunnssikkerhet og beredskap. Produsent som har produksjonssted utenfor EØS-området skal kontakte Direktoratet for samfunnssikkerhet og beredskap for å få tildelt en kode til dette produksjonsstedet. Dersom både produksjonsstedet og produsenten er etablert utenfor EØS-området og eksplosivet importeres direkte til Norge, og ikke via en annen EØS-stat, skal importøren kontakte Direktoratet for samfunnssikkerhet og beredskap for å få tildelt kode.
+(5) Distributør som pakker om eksplosiver, skal påse at eksplosivet og alle forpakningsenheter, er merket med det unike id-merket.

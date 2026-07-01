@@ -1,0 +1,2 @@
+# § 46. Virkeområde for dette kapittelet
+Dette kapittelet gjelder for oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1, på lager som er etablert for produksjon av eksplosiver på brukersted, uavhengig av om lageret er etablert på brukerstedet. Kravene i § 55 og § 56 gjelder for all oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1 uansett hva som er formålet med oppbevaringen.

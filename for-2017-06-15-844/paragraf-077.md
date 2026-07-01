@@ -1,0 +1,4 @@
+# § 77. Tillatelse til tilintetgjøring
+(1) Den som søker om å tilintetgjøre eksplosiver og ammunisjon, skal legge frem tilfredsstillende ordinær politiattest på personer som skal tilintetgjøre på virksomhetens vegne. Politiattesten skal ikke være eldre enn tre måneder.
+(2) For søknad om tillatelse til tilintetgjøring av eksplosiver eller ammunisjon, skal saksbehandlingsfristen som nevnt i tjenesteloven § 11 første ledd være 6 uker. Tjenesteloven § 11 annet ledd om at tillatelsen anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for tillatelse til tilintetgjøring av eksplosiver eller ammunisjon.
+(3) Tillatelsen til tilintetgjøring av eksplosiver gir også rett til å samle inn og motta eksplosiver for tilintetgjøring. Tillatelsen til tilintetgjøring av ammunisjon gir også rett til å motta ammunisjon for tilintetgjøring.
