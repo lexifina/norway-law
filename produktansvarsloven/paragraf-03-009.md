@@ -1,0 +1,3 @@
+# § 3-9. (diverse bestemmelser)
+(1) Kongen kan gi regler om behandling og avgjørelse av tvister mellom forsikringsgiver, forsikringstaker eller skadelidte, herunder om opprettelse av en egen legemiddelskadenemnd og om frist for søksmål etter nemndas avgjerd.
+(2) Utenlandsk produsent som eksporterer legemiddel til Norge, må være representert ved fullmektig som har full prosessfullmakt og verneting ved forretningssted her i riket. Dette gjelder ikke når importøren har legemiddelansvar og forsikringsplikt for vedkommende produkt etter § 3-4, jf § 3-3. Første punktum får heller ikke anvendelse for produsenter som har hovedsete i en stat som omfattes av Det europeiske økonomiske samarbeidsområde.

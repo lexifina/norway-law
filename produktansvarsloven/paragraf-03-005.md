@@ -1,0 +1,4 @@
+# § 3-5. (Legemiddelansvarsforeningen)
+(1) Produsenter og importører av legemiddel som blir omsatt i Norge, må for å kunne drive slik virksomhet være tilsluttet en forening av slike produsenter og importører (Legemiddelansvarsforeningen). Det samme gjelder andre som ved arbeid med utvikling av legemidler plikter å ha forsikring etter § 3-4. Legemiddelansvarsforeningen skal ha vedtekter som er godkjent av Kongen.
+(2) Grossister som omsetter legemidler, skal forsikre seg om at produsenten eller importøren er medlem av Legemiddelansvarsforeningen. En grossist som omsetter legemidler fra en produsent eller importør som ikke er medlem av foreningen, blir ansvarlig for den premien som produsenten eller importøren skulle ha betalt for de legemidler grossisten har omsatt.
+(3) Legemiddelansvarsforeningen står ansvarlig for at det blir tegnet pliktig legemiddelforsikring etter § 3-4. Den kan tegne kollektiv ansvarsforsikring på vegne av medlemmene.
