@@ -1,0 +1,3 @@
+# § 17. Bortfall av tillatelse til bareboatregistrering
+Retten til å føre utenlandsk flagg etter § 16 bortfaller når bareboat-certepartiet opphører eller skipet ikke lenger har rett til midlertidig å seile under det utenlandske skipsregisterets flagg. Melding om opphør skal gis av skipets eier snarest mulig og senest innen 30 dager etter opphør. Retten til å føre utenlandsk flagg bortfaller også hvis melding ikke er gitt innen fristen, men registerføreren på annen måte får kjennskap til forholdet. Før retten bortfaller, skal eieren i så fall gis adgang til å uttale seg.
+Når tillatelsen til bareboatregistrering bortfaller etter første ledd, har skipet rett til igjen å føre norsk flagg.
