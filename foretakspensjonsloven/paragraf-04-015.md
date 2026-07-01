@@ -1,0 +1,5 @@
+# § 4-15. Sammenslåing av fripoliser
+(1) Arbeidstaker som har flere fripoliser utstedt av samme pensjonsinnretning, kan kreve at rettighetene etter polisene blir slått sammen og at ny fripolise blir utstedt på grunnlag av de samlede rettigheter. Dette gjelder også i tilfelle av flytting som nevnt i § 4-9 femte ledd.
+(2) Ved sammenslåing av fripoliser som gir ulike rettigheter, skal det foretas omregning av alderspensjon på grunnlag av premiereserver for alderspensjon på omregningstidspunktet. Samlet forsikringsteknisk kontantverdi skal være den samme før og etter omregningen. Det kan ikke legges til grunn en lavere opptjeningsalder enn 67 år med mindre opptjeningsalderen etter alle fripolisene er lavere enn 67 år.
+(3) Kongen kan fastsette nærmere regler om omregning av rettigheter etter fripoliser som slås sammen, herunder regler som gjelder sammenslåing av fripoliser knyttet til uførepensjon og etterlattepensjoner.
+(4) Fripolise som gir rett til utbetaling av pensjon når krav om sammenslåing fremsettes, omfattes ikke av sammenslåing etter paragrafen her, med mindre pensjonsinnretningen samtykker.

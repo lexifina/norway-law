@@ -1,0 +1,3 @@
+# § 7-5. Ektefelle som ikke har fylt 67 år
+(1) I etterlattpensjon til ektefelle som ikke har fylt 67 år, skal fradrag ved ervervsprøving utgjøre 40 prosent av den del av forventet årlig ervervsinntekt som overstiger 8 ganger grunnbeløpet i folketrygden. Det skal likevel ikke gjøres fradrag i årlig pensjon for beløp som er mindre enn 10 prosent av grunnbeløpet.
+(2) Er forventet årlig ervervsinntekt fastsatt i folketrygden, skal denne legges til grunn. For øvrig skal ervervsinntekten settes til det beløp som ektefellen ut fra alder, ervervsevne, foreliggende ervervsmuligheter og omstendighetene ellers må antas å kunne skaffe seg. Endrer forholdene seg vesentlig, skal forventet ervervsinntekt fastsettes på nytt.

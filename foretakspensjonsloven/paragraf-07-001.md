@@ -1,0 +1,4 @@
+# § 7-1. Barnepensjon
+(1) Omfatter pensjonsordningen barnepensjon, skal det i regelverket fastsettes regler om vilkårene for slik pensjon. Pensjonsordningen kan gi rett til barnepensjon til barn som medlemmet ved sin død pliktet å forsørge eller forsørget.
+(2) Barnepensjonen skal løpe fra medlemmets død og skal senest opphøre når barnet fyller 21 år. Er barnet blitt ufør før opphørstidspunktet, utbetales barnepensjon så lenge uførheten varer.
+(3) Barnepensjonen skal fastsettes som en del av medlemmets alderspensjon eller lønn ved medlemmets død. Dør medlemmet før nådd opptjeningsalder, skal den tjenestetid som følger av § 4-3 tredje ledd legges til grunn. Det kan likevel fastsettes regler om minstebeløp for pensjon til hvert barn, beregning av ytelsene etter antall barn, og høyere ytelser til foreldreløse barn.
