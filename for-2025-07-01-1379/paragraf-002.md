@@ -1,0 +1,2 @@
+# § 2. Revisjon av forskriften
+Departementet skal, ved eventuelle endringer i EUs liste over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål, vurdere endringene og gjøre tilsvarende endringer i §§ 3 eller 4. Ved vurderingen av om stater oppført på EUs liste skal føres opp på listene i §§ 3 eller 4, skal departementet ta i betraktning i hvilken grad Norge inngår i forpliktende internasjonalt samarbeid med statene.
