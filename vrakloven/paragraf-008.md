@@ -1,0 +1,4 @@
+# § 8
+Dersom eieren ikke er kjent, skal politiet kunngjøre oppfordring til ham om å melde seg og legitimere sin rett. Det samme gjelder om eieren er kjent, men ikke innen 2 måneder etter at politiet har varslet ham, henter det bergete eller strandete mot å betale bergelønn eller finnerlønn og andre kostnader som kan kreves dekket av tingene.
+Kunngjøringen skal inneholde nøyaktig beskrivelse av de bergete eller strandete ting og opplysning om 3-måneders fristen etter hittegodslovens § 7. Kunngjøringen skal innrykkes i Norsk Lysningsblad og kan dessuten innrykkes i et eller flere andre blad og/eller slås opp.
+Kunngjøringen skal unnlates dersom verdien av det bergete eller strandete er så liten at den ikke vil dekke utgiftene ved kunngjøring og kostnader ellers som kan kreves dekket av tingene, samt en passende bergelønn eller finnerlønn.
