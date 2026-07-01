@@ -1,0 +1,2 @@
+# § 1-6. Krav om fysisk representant i Norge
+En datasenteroperatør skal ha en representant som er til stede i Norge. Representanten skal kunne møte opp fysisk og ha nødvendig fullmakt og kunnskap til å kunne følge opp henvendelser fra myndighetene, herunder til å kunne bistå når myndighetene har hjemmel til å gjennomføre tiltak etter lov eller forskrift gitt med hjemmel i lov, som forskriften § 1-5, straffeprosessloven, politiloven eller sikkerhetsloven.

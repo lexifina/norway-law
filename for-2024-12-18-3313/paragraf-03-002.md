@@ -1,0 +1,5 @@
+# § 3-2. Overtredelsesgebyr
+Nasjonal kommunikasjonsmyndighet kan ilegge et foretak overtredelsesgebyr dersom foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomt
+a) overtrer § 1-3 (Registreringsplikt for datasenteroperatører), § 1-4 (Plikt til å ha oppdatert kundeinformasjon tilgjengelig), § 1-6 (Krav om fysisk representant i Norge), § 1-7 (Krav til responstid), § 2-1 (Krav til sikkerhetsstyring), § 2-2 (Krav om risiko- og sårbarhetsvurderinger), § 2-3 (Krav til grunnsikring og skadebegrensningstiltak), § 2-4 (Krav til sikringsplaner), § 2-5 (Krav om beredskapsplanlegging og -øvelser), § 2-7 (Plikt til å følge opp at andre oppfyller sikkerhetskravene) eller § 2-8 (Plikt til å varsle om uønskede hendelser)
+b) overtrer enkeltvedtak fastsatt med hjemmel i § 2-6 (Adgang til å pålegge sikkerhetsrevisjon), § 2-9 (Adgang til å pålegge datasentrene å ha nasjonal autonomi) eller § 2-10 (Adgang til å pålegge prioritering av tjenestetilbud), eller
+c) overtrer pålegg fastsatt med hjemmel i § 1-5 (Plikt til å utlevere kundeinformasjon).

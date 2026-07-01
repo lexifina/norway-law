@@ -1,0 +1,6 @@
+# § 2-8. Plikt til å varsle om uønskede hendelser
+En datasenteroperatør skal uten ugrunnet opphold varsle Nasjonal kommunikasjonsmyndighet om hendelser som har medført vesentlige brudd på datasenteret eller datasentertjenestenes tilgjengelighet, autentisitet, integritet eller konfidensialitet.
+Varselet skal minst opplyse om hendelsens årsak, konsekvensene for datasenteret og datasentertjenestene, innvirkningen på økonomiske og samfunnsmessige aktiviteter, antallet berørte kunder og det geografiske omfanget i den grad opplysningene er kjent. Det skal også opplyses om tiltakene for å stoppe og utbedre skadene, og hvor lenge tjenestene har vært eller vil være påvirket av hendelsen.
+Ved konkrete og betydelige trusler med fare for brudd på autentisitet, integritet eller konfidensialitet skal datasenteroperatør varsle kundene om mulige vernetiltak eller avhjelpende tiltak som kunden kan sette i verk. Vil det det være hensiktsmessig, skal datasenteroperatør også informere om selve trusselen.
+En datasenteroperatør skal varsle kundene om planlagt arbeid som kan få konsekvenser for datasentertjenestene som tilbys.
+Nasjonal kommunikasjonsmyndighet kan gi forskrift om nærmere prosedyrer for varsling.
