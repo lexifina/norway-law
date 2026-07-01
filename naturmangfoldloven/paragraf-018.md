@@ -8,5 +8,5 @@ e) for innfanging til lovlig oppdrettsvirksomhet,
 f) for forskning, undervisning eller taksonomisk virksomhet, eller
 g) som er fremmede organismer.
 Vedtak etter første ledd bokstav a til f kan bare treffes hvis uttaket ikke truer bestandens overlevelse og formålet ikke kan nås på annen tilfredsstillende måte. Det skal ved vurdering av uttak av rovvilt etter første ledd bokstav c legges vekt på om bestandsmål som er vedtatt i Stortinget er nådd.
-Myndigheten etter loven kan av eget tiltak iverksette uttak med formål som nevnt i første ledd bokstav a til d og g, jf. annet ledd. Uttaket regnes ikke som enkeltvedtak, og kan om nødvendig skje på annens eiendom. Kongen kan gi nærmere forskrift om slikt uttak.
+Myndigheten etter loven kan av eget tiltak iverksette uttak med formål som nevnt i første ledd bokstav a til d og g, jf. annet ledd. Uttaket regnes ikke som enkeltvedtak, og kan skje på andres eiendom. Kongen kan gi nærmere forskrift om slikt uttak.
 Kommunen kan gi tillatelse til uttak av hjortevilt og bever for å avverge skade etter § 18 første ledd bokstav b, samt til å fjerne beverbolig eller dam for å hindre vesentlig skade ved oversvømmelse. Kommunens vedtak kan påklages til statsforvalteren.
