@@ -1,0 +1,3 @@
+# § 3-21. Varer
+(1) Det skal beregnes merverdiavgift når en vare tas ut fra den registrerte eller registreringspliktige virksomheten. Det skal likevel ikke beregnes merverdiavgift for kapitalvare som nevnt i § 9-1 dersom varen tas ut til formål innenfor den samlede virksomheten.
+(2) Det skal beregnes merverdiavgift etter første ledd bare i det omfang avgiftssubjektet har hatt rett til fradrag for inngående merverdiavgift ved anskaffelsen eller framstillingen av varen. Det skal likevel beregnes merverdiavgift dersom den manglende fradragsretten skyldes at varen ved anskaffelsen er fritatt for merverdiavgift.

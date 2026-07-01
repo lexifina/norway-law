@@ -1,0 +1,5 @@
+# § 7-1. Varer som er fritatt eller unntatt ved omsetning i merverdiavgiftsområdet
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av varer som nevnt i § 3-6 bokstav d, § 3-7 fjerde ledd, § 3-18, § 6-1, §§ 6-3 og 6-4, § 6-8 første ledd, § 6-10 fjerde ledd, § 6-11 fjerde ledd og § 6-15.
+(2) Det samme gjelder ved innførsel av varer og driftsutstyr som nevnt i § 6-9 første ledd, § 6-10 første ledd, § 6-11 første ledd eller ved gjeninnførsel av slike varer etter ombygging, reparasjon eller vedlikehold utenfor merverdiavgiftsområdet.
+(3) Bestemmelsene om adgang til å treffe enkeltvedtak om fritak for våpensystemet F-35 i § 6-37 gjelder tilsvarende for beregning av merverdiavgift ved innførsel av varer.
+(4) Departementet kan gi forskrift om omfanget av og vilkår for fritak fra beregning av merverdiavgift ved innførsel etter denne paragrafen og om fritak for varer til bruk for luftfartøy som nevnt i § 6-10 første ledd dersom luftfartøyet går i utenriks fart eller for den enkelte tur har bestemmelsessted utenfor merverdiavgiftsområdet.

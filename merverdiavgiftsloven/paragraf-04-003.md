@@ -1,0 +1,3 @@
+# § 4-3. Byttehandel mv.
+(1) Består vederlaget helt eller delvis av annet enn vanlige betalingsmidler, er beregningsgrunnlaget prisen på den leverte ytelsen. Dersom prisen i slike tilfeller er lavere enn den alminnelige omsetningsverdien for tilsvarende varer eller tjenester som omsettes i virksomheten, er beregningsgrunnlaget den alminnelige omsetningsverdien. Det samme gjelder hvis det ikke er avtalt noen særskilt pris.
+(2) Departementet kan gi forskrift om redusert beregningsgrunnlag når varer er mottatt til bearbeiding og tilsvarende mengde av samme slags vare leveres tilbake i bearbeidet stand. Departementet kan også gi forskrift om hva som menes med alminnelig omsetningsverdi ved bytte av motorkjøretøy.

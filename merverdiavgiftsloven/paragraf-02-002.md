@@ -1,0 +1,4 @@
+# § 2-2. En registreringsenhet
+(1) Flere virksomheter som drives av samme eier, skal registreres i Merverdiavgiftsregisteret som ett avgiftssubjekt.
+(2) En del av et avgiftssubjekt kan registreres som et eget avgiftssubjekt dersom denne delen fysisk og formelt er skilt ut. Ved vurderingen av om slik registrering skal tillates, skal det blant annet legges vekt på om den delen som ønskes utskilt, har særskilt varekjøp, særskilte varelagre og egne ansatte. Det er et vilkår for slik registrering at det føres særskilt regnskap for den utskilte delen.
+(3) To eller flere samarbeidende selskaper kan registreres som ett avgiftssubjekt dersom minst 85 prosent av kapitalen i hvert selskap eies av ett eller flere av de samarbeidende selskapene. Alle deltakende selskaper i en fellesregistrering er solidarisk ansvarlig for betaling av merverdiavgift.

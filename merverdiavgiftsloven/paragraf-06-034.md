@@ -1,0 +1,2 @@
+# § 6-34. Garantireparasjoner
+Omsetning av garantireparasjoner for næringsdrivende hjemmehørende utenfor merverdiavgiftsområdet er fritatt for merverdiavgift. Fritaket gjelder reparasjon av vare eller anlegg den næringsdrivende har levert til kjøper i merverdiavgiftsområdet. Det er et vilkår at næringsdrivende hjemmehørende utenfor merverdiavgiftsområdet ikke er registrert i Merverdiavgiftsregisteret.

@@ -1,0 +1,4 @@
+# § 4-5. Videresalg av brukte varer mv. – enkeltstående kjøp og salg
+(1) Når brukte varer, kunstverk, samleobjekter eller antikviteter er kjøpt for videresalg, herunder salg i kommisjon eller ved auksjon, kan beregningsgrunnlaget ved videresalget settes til differansen mellom innkjøpsprisen og salgsprisen for den enkelte varen. Det er et vilkår at varen er kjøpt fra en selger som ikke skal beregne merverdiavgift av salget eller som ikke oppgir merverdiavgift i salgsdokumentet etter bestemmelser gitt i eller i medhold av bokføringsloven.
+(2) Når kunstverk, samleobjekter eller antikviteter er innført for videresalg, kan beregningsgrunnlaget ved videresalget settes til differansen mellom beregningsgrunnlaget fastsatt etter § 4-11 første ledd og salgsprisen for den enkelte vare.
+(3) Dersom innkjøpsprisen etter første eller annet ledd overstiger salgsprisen, kan differansen ikke trekkes fra i beregningsgrunnlaget for andre salg.
