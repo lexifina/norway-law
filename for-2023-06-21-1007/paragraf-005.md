@@ -1,0 +1,5 @@
+# § 5. Nødvendig og hensiktsmessig utdanning eller opplæring
+Det er vanligvis ikke nødvendig å ta utdanning eller opplæring når stønadsmottakeren har yrkeskompetanse. Utdanning eller opplæring kan likevel anses som nødvendig og hensiktsmessig dersom yrkeskompetansen er utdatert. Det samme gjelder dersom stønadsmottakeren er forhindret fra å benytte sin yrkeskompetanse på grunn av omsorg for barn.
+Utdanningen eller opplæringen skal normalt gjennomføres ved offentlige utdanningsinstitusjoner eller som lærling med godkjent lærekontrakt. Utdanning eller opplæring ved private utdanningsinstitusjoner kan godkjennes i særlige tilfeller.
+Utdanning ved militære skoler eller etatsopplæring kan ikke godkjennes som nødvendig og hensiktsmessig utdanning eller opplæring.
+Stønadsmottakeren skal i samarbeid med Arbeids- og velferdsetaten utarbeide en konkret plan for gjennomføringen og målet for utdanningen eller opplæringen (aktivitetsplan), jf. lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen § 14a tredje ledd. Aktivitetsplanen danner grunnlag for vedtak om nødvendig og hensiktsmessig utdanning eller opplæring.
