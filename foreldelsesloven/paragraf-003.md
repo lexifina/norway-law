@@ -1,0 +1,5 @@
+# § 3. (Fristens utgangspunkt.)
+1. Foreldelsesfristen regnes fra den dag da fordringshaveren tidligst har rett til å kreve å få oppfyllelse.
+2. For krav som oppstår ved mislighold, regnes foreldelsesfristen fra den dag da misligholdet inntrer.
+3. Kan eller skal en avtale anses hevet før oppfyllelsestiden eller en fordring forfalt før den ellers bestemte tid, på grunn av skyldnerens mislighold eller et annet inntruffet forhold, blir foreldelsesfristen for krav som bygger på slikt forhold, først regnet fra den dag da fordringshaveren varsler skyldneren om at han gjør hevnings- eller forfallsgrunnen gjeldende. Blir denne ikke gjort gjeldende, regnes fristen fra den forfallsdag som ellers er bestemt.
+4. Når selgeren eller et tidligere omsetningsledd har garantert for salgstingen ved å påta seg avhjelp eller annet ansvar, blir foreldelsesfristen for krav som bygger på denne garanti, regnet fra den dag da kjøperen gir varsel om det forhold kravet grunner seg på, men senest fra den dag garantien løper ut. Tilsvarende gjelder når en tjenesteyter e.l. har garantert for resultatet av oppdraget.

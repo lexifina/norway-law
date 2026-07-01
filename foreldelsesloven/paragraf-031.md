@@ -1,0 +1,2 @@
+# § 31. (Ikrafttredelse.)
+Loven tar til å gjelde 1. januar 1980, men § 1 nr. 2 fra den tid Kongen fastsetter. Den får anvendelse også på tidligere oppståtte fordringer, som ikke før den nevnte dag var foreldet etter de da gjeldende regler. Foreldelse etter denne lov skal likevel ikke i noe tilfelle inntre før utgangen av året 1982, med mindre fordringen ville være foreldet på tidligere tidspunkt også etter de regler som gjaldt da loven trådte i kraft.

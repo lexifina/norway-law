@@ -1,0 +1,1 @@
+# Den alminnelige foreldelsesfrist.

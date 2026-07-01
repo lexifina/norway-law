@@ -1,0 +1,2 @@
+# § 11. (Krav i forbindelse med straffesak.)
+Selv om foreldelsestiden er ute, kan krav på erstatning, oppreisning og inndragning som springer ut av en straffbar handling, settes fram under en straffesak der skyldneren blir funnet skyldig i det forhold som medfører ansvaret. Slikt krav kan også settes fram ved særskilt søksmål som er reist innen 1 år etter at fellende dom i straffesaken ble rettskraftig. Tilsvarende gjelder når skyldneren vedtar forelegg om forhold som nevnt.

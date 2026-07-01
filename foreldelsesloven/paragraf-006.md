@@ -1,0 +1,2 @@
+# § 6. (Pensjon, underholdsbidrag m.m.)
+En fordring som er avtalt eller fastsatt om pensjon, livrente, føderåd, underholdsbidrag eller annen ytelse, og som forfaller med bestemte mellomrom og ikke er avdrag på hovedstol, foreldes når det er gått 10 år fra den dag da siste ytelse ble betalt. Dersom det ikke er betalt noe, løper denne fristen fra den dag da fordringshaveren kunne ha krevd å få første ytelse. De enkelte forfalte terminytelser foreldes dessuten etter §§ 2 og 3, likevel slik at fristen for krav på underholdsbidrag er 10 år.
