@@ -1,0 +1,3 @@
+# § 73
+Er en veksel som er betalbar her i riket bortkommet, kan den bli mortifisert overensstemmende med de om mortifikasjon ellers givne regler, dog således at mortifikasjonssaken skal anlegges ved tingretten på det sted hvor vekslen er betalbar.
+Når retten har besluttet å fremme mortifikasjonssaken, er trassenten forpliktet til å utstede nytt vekselbrev. Var den bortkomme veksel akseptert, er akseptanten, når forfallstid er kommet, pliktig til å betale til den som godtgjør sin rett til å oppebære betalingen. Dog skal der i disse tilfelle stilles trassenten eller akseptanten antagelig sikkerhet, inntil vekslen er blitt mortifisert eller deres ansvar efter den bortkomne veksel er ophørt på annen måte.

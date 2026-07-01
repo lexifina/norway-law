@@ -1,0 +1,4 @@
+# § 88
+Den som ønsker optatt protest, skal i tide levere vedkommende tjenestemann vekslen eller i tilfelle vekselkopien med fornøden muntlig eller skriftlig begjæring.
+Tjenestemannen skal derefter uten ophold henvende seg til den som protesten kreves optatt hos, og forevise vekslen (vekselkopien) med opfordring om å efterkomme rekvirentens krav.
+Når den som protest for manglende betaling skal optas hos, tilbyr betaling, skal tjenestemannen ta imot det tilbudte, dersom ingen annen er til stede som kan ta imot på vegne av rekvirenten. Tjenestemannen er bemyndiget til å kvittere vekselen når ikke trassaten har fått motsatt meddelelse av vekselinnehaveren. Betales vekselsummen fullt ut (i tilfelle med tillegg av de i vekslen lovlig foreskrevne renter, jfr. § 5), skal tjenestemannen kvittere og utlevere vekselen, når ikke rekvirenten skriftlig har anmodet ham om noget annet.

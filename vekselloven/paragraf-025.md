@@ -1,0 +1,3 @@
+# § 25
+Aksepten skrives på vekslen. Den uttrykkes ved ordet «akseptert» eller et annet tilsvarende uttrykk og underskrives av trassaten. Dennes blotte navnetegning på vekslens forside gjelder som aksept.
+Hvis vekslen skal betales en viss tid efter sikt, eller den i henhold til særskilt bestemmelse skal forevises til aksept innen en viss frist, skal aksepten dateres og som datum anføres den dag da aksepten meddeles, medmindre innehaveren krever at forevisningsdagens datum skal anføres. Mangler datering, må vekselinnehaveren, for å bevare sin regressrett mot endossentene og trassenten, godtgjøre undlatelsen ved en i rette tid optatt protest.

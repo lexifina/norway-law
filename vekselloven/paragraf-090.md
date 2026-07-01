@@ -1,0 +1,4 @@
+# § 90
+Tjenestemannen skal innen 24 timer utferdige en underskrevet bevidnelse om den avholdte forretning (protesten).
+Protesten skal inneholde avskrift av vekselen (vekselkopien) med alt som er tegnet på den, og oplysning om rekvirentens begjæring, tjenestemannens henvendelse med angivelse av sted og tid derfor, samt det svar som gis på henvendelsen. Hvis vedkommende ikke er påtruffet eller ikke har gitt noget svar, påføres dette. Har der ikke kunnet skje nogen henvendelse, fordi vedkommendes forretningslokale eller bolig er ukjent, skal der i protesten tas inn fornøden forklaring for å vise at forskriftene i § 89, annet punktum er fulgt. Er protest i medhold av § 87 annet ledd opptatt av en tjenestemann utenfor sitt distrikt, skal det i protesten anføres at den tjenestemann som normalt skulle ha opptatt protesten, ikke kunne gjøre det i tide.
+Tjenestemannen skal gjøre bemerkning om protesten på vekselen (vekselkopien).
