@@ -2,3 +2,4 @@
 (1) I finansforetak som er datterforetak i finanskonsern, skal styret ha minst tre medlemmer. Bestemmelsen i § 8-4 fjerde ledd gjelder ikke datterforetak i finanskonsern dersom de ansatte er representert i morselskapets styre.
 (2) I finansforetak som er datterforetak i finanskonsern, kan inntil tre firedeler av styrets medlemmer være ansatt i foretak i konsernet eller medlem av styre i annet foretak i konsernet. Styrelederen i datterforetak i finanskonsern kan være ansatt i morselskapet.
 (3) Styrelederen i morselskap til finansforetaket kan ikke uten samtykke fra Finanstilsynet være medlem av styret i finansforetaket.
+(4) Departementet kan pålegge datterforetak i finanskonsern å ha flere styremedlemmer enn minstekravet til antall styremedlemmer, kreve at færre enn tre firedeler av styrets medlemmer kan være ansatt i foretak i konsernet eller medlem av styret i annet foretak i konsernet, samt kreve at styreleder i datterforetak ikke kan være ansatt i morselskapet.

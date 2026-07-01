@@ -3,8 +3,8 @@
 a) en virksomhetsplan som angir hvilke typer av finansielle tjenester virksomheten skal omfatte og filialens organisatoriske oppbygning,
 b) en erklæring om at planlagt virksomhet er omfattet av foretakets tillatelse i hjemstaten,
 c) filialens adresse,
-d) hvem som skal forestå ledelsen av filialen og ha fullmakt til å handle på vegne av foretaket, og en bekreftelse på at denne personen oppfyller egnethetskravene,
-e) hvem som skal inngå i ledelsen av virksomheten ved filialen, og en bekreftelse på at disse personene oppfyller egnethetskravene,
+d) hvem som skal forestå ledelsen av filialen og ha fullmakt til å handle på vegne av foretaket,
+e) hvem som skal inngå i ledelsen av virksomheten ved filialen,
 f) en erklæring om at finansforetaket oppfyller de krav til ansvarlig kapital som gjelder for foretaket,
 g) den garantiordningen som i tilfelle skal gjelde for filialens virksomhet,
 h) ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
