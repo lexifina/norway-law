@@ -1,0 +1,5 @@
+# § 5. Fremgangsmåte ved regress
+Rettmessigheten av den utbetaling som er foretatt av den transportøren som utøver en av de regresser som er fastsatt i CIV og CIM, kan ikke bestrides av den transportør det er søkt regress hos når erstatningen er fastsatt rettslig og når sistnevnte transportør, korrekt stevnet, er gitt anledning til å intervenere i rettssaken. Domstolen i hovedsøksmålet bestemmer fristene for forkynnelse av stevningen og for intervensjonen.
+Den regressøkende transportør skal for en og samme rett fremme sitt krav mot alle de transportører som den ikke har kommet fram til en minnelig ordning med. I motsatt fall tapes retten til regress hos dem som ikke er stevnet. Domstolen avgjør i en og samme dom alle de regressaker som er forelagt den.
+Enhver transportør som ønsker å gjøre sin regressrett gjeldende kan reise søksmål ved domstol i Norge om en av transportørene som har deltatt i transporten har alminnelig verneting i Norge.
+Når søksmål skal reises mot flere transportører som har alminnelig verneting i Norge, har den regressøkende transportør rett til å velge i hvilken av disse kretser den vil anlegge saken.
