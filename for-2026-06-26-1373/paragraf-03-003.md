@@ -1,0 +1,3 @@
+# § 3-3. Dokumentasjon på betalt jegeravgift mv. i Jegerregisteret
+Jegerregisteret gir viltmyndighetene og registrert jeger tilgang til dokumentasjon på betalt jegeravgift og andre opplysninger om jegeren. Dokumentasjonen skal inneholde opplysninger om betalt jegeravgift eller fritak fra jegeravgift, navn, jegernummer, type avgift, eventuelle lisensarter, ettersøkshund eller elektronisk avtale om ettersøkshund, og dato for og gyldighet av skyteprøve for bestemte våpen som jegeren kan benytte under jakt og felling av storvilt, og andre særskilte kompetansekrav.
+Dokumentasjonen kan gjøres tilgjengelig på papir eller gjennom elektronisk innsynsløsning.

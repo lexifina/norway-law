@@ -1,0 +1,2 @@
+# § 1-4. Datasikkerhet
+Registerføreren eller den registerføreren har delegert sin kompetanse til skal sørge for at det regelmessig tas sikkerhetskopi av det som er registrert i Jegerregisterets databaser. Data skal håndteres på en slik måte at kvaliteten av lagrede og avgitte opplysninger er tilstrekkelig god og slik at den blir best mulig beskyttet mot uønskede hendelser. Uhell, misbruk, feil og øvrige trusler mot datasikkerheten skal søkes avdekket og avverget så effektivt som mulig.
