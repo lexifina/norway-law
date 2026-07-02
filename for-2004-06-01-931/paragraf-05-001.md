@@ -1,0 +1,2 @@
+# § 5-1. Formål
+Dette kapitlet har til formål å fremme menneskers helse og trivsel ved å sette minstekrav til innendørs støynivå og unngå at dette nivået overskrides. Et videre formål er å forebygge og redusere skadelige virkninger av støyeksponering gjennom krav om å kartlegge støy og opplyse befolkningen om eksponering av støy og støyens virkninger, og ved å utarbeide handlingsplaner og gjennomføre støyreduserende tiltak.

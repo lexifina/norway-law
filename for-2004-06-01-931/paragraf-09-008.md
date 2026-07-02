@@ -1,0 +1,3 @@
+# § 9-8. Utslippstillatelse
+Forurensningsmyndigheten kan kreve at det søkes om tillatelse etter forurensningslovens regler. Ved vurderingen av om det skal gis tillatelse, og hvilke krav som bør stilles, skal det tas hensyn til de til enhver tid gjeldende krav til bruken av organiske stoffer og de veiledninger som måtte være gitt med hensyn til bruken av stoffer og teknikker som har færrest potensielle virkninger på miljø og helse.
+Dersom et eksisterende anlegg har utslippstillatelse, gjelder dette kapitlets krav dersom disse er strengere enn tillatelsens krav, eller om løsemiddelutslippet ikke er regulert i utslippstillatelsen.

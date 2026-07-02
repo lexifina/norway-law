@@ -1,0 +1,2 @@
+# § 5-13. Beregning av utendørs støynivå
+Utendørs støynivå skal beregnes med de metoder som er beskrevet i direktiv 2002/49/EF annex II, som endret ved direktiv (EU) 2015/996 og direktiv (EU) 2021/1226. Anleggseier er ansvarlig for å dokumentere at valgt metode tilfredsstiller kravene for vedkommende støykilde. I tvilstilfelle skal Miljødirektoratet avgjøre om anleggseiers dokumentasjon er tilfredsstillende.

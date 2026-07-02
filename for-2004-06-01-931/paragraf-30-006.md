@@ -1,0 +1,4 @@
+# § 30-6. Utslipp til vann
+Prosessvann uten miljø- eller helseskadelige stoffer/egenskaper kan slippes til sjø- eller ferskvannsresipient dersom maksimalkonsentrasjon av faststoff/suspendert stoff (SS) i utslippspunktet er under 50 mg/l og dersom utslippet ikke medfører nedslamming i resipienten.
+Utslippet skal heller ikke påvirke vannkvaliteten i primærresipient slik at tilstandsklassen for resipienten endres. Den veileder for tilstandsklassifisering av vann som til enhver tid gjelder skal benyttes ved vurdering av tilstandsklasser.
+Dersom prosessvann har helse- eller miljøskadelige stoffer/egenskaper, eller utslippets innhold av faststoff/suspendert stoff er for høyt til å tilfredsstille kravene i første og andre ledd, skal prosessvannet enten samles opp og leveres godkjent mottak eller renses for eksempel ved hjelp av et sedimenteringsbasseng.

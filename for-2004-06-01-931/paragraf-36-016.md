@@ -1,0 +1,2 @@
+# § 36-16. Saksbehandlingstid
+For søknad om tillatelse etter forurensningsloven for virksomhet omfattet av tjenesteloven, skal det forhåndsfastsettes og offentliggjøres en saksbehandlingsfrist som nevnt i tjenesteloven § 11 første ledd første punktum. Tjenesteloven § 11 annet ledd om at tillatelse skal anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke. Paragrafen her gjelder ikke for kapitlene 12, 13 og 15.

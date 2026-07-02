@@ -1,0 +1,4 @@
+# § 5-5. Kartlegging av innendørs støyforhold
+Anleggseier skal innenfor område som omfattes av § 5-2 tredje ledd senest innen 30. juni 2007 kartlegge innendørs støynivå ned til 35 dB LpAeq,24h.
+Kartleggingen skal oppdateres hvert femte år. Forurensningsmyndigheten kan i særlige tilfeller gi pålegg om oppdatering av den foreliggende kartleggingen.
+Forurensningsmyndigheten kan gi pålegg om å gjennomføre kartlegging etter første ledd og i tvilstilfelle fastsette hvem som skal foreta kartleggingen, hvordan kartleggingen skal foregå og hvilket område den skal omfatte. Forurensningsmyndigheten kan videre gi pålegg om at flere eiere av anlegg som nevnt i § 5-2 tredje ledd skal samarbeide om gjennomføringen av kartlegging, og kan herunder også gi pålegg om at eier av det anlegget som antas å bidra mest til overskridelsen av tiltaksgrensene, skal koordinere arbeidet med å få fram en samlet kartlegging.

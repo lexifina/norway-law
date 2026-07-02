@@ -1,0 +1,3 @@
+# § 8-2. Definisjoner
+Tung fyringsolje: enhver petroleumsbasert fyringsolje som er slik at mindre enn 65 volumprosent (inklusive tap) fordamper ved 250 °C og mindre enn 85 volumprosent (inklusive tap) fordamper ved 350 °C ved bruk av metoden ASTM D86 eller annen tilsvarende standard hvis ASTM D86 ikke kan benyttes. Unntatt er marint drivstoff.
+Lett fyringsolje: enhver petroleumsbasert fyringsolje som er slik at mindre enn 65 volumprosent (inklusive tap) fordamper ved 250 °C og minst 85 volumprosent (inklusive tap) fordamper ved 350 °C ved bruk av metoden ASTM D86 eller annen tilsvarende standard hvis ASTM D86 ikke kan benyttes. Unntatt er autodiesel for bruk i motorvogner, ikke-veigående maskiner og landbrukstraktorer, samt marint drivstoff.

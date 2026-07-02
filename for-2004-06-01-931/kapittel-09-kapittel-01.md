@@ -1,0 +1,2 @@
+# Kapittel 35. Lagring av CO2 i geologiske formasjoner
+Fastsatt med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 9, § 49, § 51 og § 74. Jf. EØS-avtalen vedlegg XX kapittel III nr. 21at (direktiv 2009/31/EF) om geologisk lagring av CO2 og om endringer i direktiv 85/337/EØF, 2000/60/EF, 2001/80/EF, 2004/35/EF, 2006/12/EF, 2008/1/EF og forordning (EF) nr. 1013/2006.

@@ -1,0 +1,3 @@
+# § 20-12. Tilsyn
+Sjøfartsdirektoratet skal føre tilsyn med at skipenes plikter etter dette kapitlet overholdes, og kan gi pålegg til rederiet. Statsforvalteren er forurensningsmyndighet for havner og fører tilsyn med at bestemmelsene i dette kapitlet blir overholdt.
+EØS-avtalen vedlegg XIII kapittel V (forordning (EU) 2022/90) om fastsettelse av regler for anvendelsen av direktiv (EU) 2019/883 med hensyn til de detaljerte elementene i Unionens risikobaserte utvelgelsesmekanisme for valg av skip til inspeksjon gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.

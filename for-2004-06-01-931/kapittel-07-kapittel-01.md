@@ -1,0 +1,2 @@
+# Kapittel 19. Sammensetning og bruk av dispergeringsmidler og strandrensemidler for bekjempelse av oljeforurensing
+Fastsatt med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4 første ledd bokstav a og c, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9 nr. 1 og 4 og lov 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 70 andre ledd. Jf. EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF).

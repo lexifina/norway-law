@@ -1,0 +1,34 @@
+# § 9-3. Definisjoner
+I dette kapitlet menes med
+1) flyktig organisk forbindelse (VOC): enhver organisk forbindelse som ved 293,15 K har et damptrykk på 0,01 kPa eller mer, eller som har en tilsvarende flyktighet under de særegne bruksforhold. I forbindelse med dette kapitlet anses den kreosotfraksjon som overskrider nevnte damptrykkverdi ved 293,15 K, som en flyktig organisk forbindelse,
+2) organisk forbindelse: enhver forbindelse som inneholder minst grunnstoffet karbon og ett eller flere av grunnstoffene hydrogen, halogener, oksygen, svovel, fosfor, silisium eller nitrogen, med unntak av karbonoksider og uorganiske karbonater og bikarbonater,
+3) organisk løsemiddel: enhver flyktig organisk forbindelse som uten å endres kjemisk brukes alene eller sammen med andre stoffer til å løse opp råstoffer, produkter eller avfall, eller brukes som rensemiddel til å løse opp smuss, som løsemiddel, som dispergeringsmiddel, som middel for å justere viskositet eller overflatespenning, som mykner eller som konserveringsmiddel,
+4) halogenert organisk løsemiddel: et organisk løsemiddel som inneholder minst ett brom-, klor-, fluor- eller jodatom per molekyl,
+5) anlegg: en fast teknisk enhet der det utføres én eller flere av de virksomheter som omfattes av virkeområdet for dette kapitlet, samt enhver annen virksomhet direkte forbundet med den som teknisk sett er knyttet til virksomhetene som utføres på stedet, og som kan ha innvirkning på utslippene,
+6) eksisterende anlegg: et anlegg som før 15. oktober 2001 er i drift eller har tillatelse til utslipp i henhold til forurensningsloven, eller som det etter forurensningsmyndighetens oppfatning er inngitt en fullstendig søknad om tillatelse for, forutsatt at dette anlegget settes i drift senest 15. oktober 2002,
+7) lite anlegg: et anlegg som hører inn under de laveste terskelområdene for løsemidler i nr. 1, 3, 4, 5, 8, 10, 13, 16 eller 17 i vedlegg II A til dette kapitlet eller som, for de andre virksomhetene nevnt i vedlegg II A, har et årlig forbruk av løsemidler under 10 tonn,
+8) vesentlig endring:
+- for et anlegg som omfattes av virkeområdet for IPPC-direktivet (direktiv 96/61/EF), definisjonen i nevnte direktiv,
+- for et lite anlegg, en endring av den nominelle kapasiteten som medfører en økning på over 25% av utslippene av flyktige organiske forbindelser. Enhver endring som etter vedkommende myndighets oppfatning kan ha betydelige negative virkninger på menneskers helse eller på miljøet, anses også som en vesentlig endring,
+- for alle andre anlegg, en endring av den nominelle kapasiteten som medfører en økning på over 10% av utslippene av flyktige organiske forbindelser. Enhver endring som etter vedkommende myndighets oppfatning kan ha betydelige negative virkninger på menneskers helse eller på miljøet, anses også som en vesentlig endring,
+9) driftsansvarlig: enhver fysisk eller juridisk person som driver eller eier anlegget, eller som eventuelt i henhold til nasjonal lovgivning har fått overdratt den avgjørende økonomiske råderett med hensyn til den tekniske driften av anlegget,
+10) diffuse utslipp: alle utslipp til luft, jord og vann av flyktige organiske forbindelser, utenom i punktutslipp, og, med mindre annet er angitt i vedlegg II A til dette kapitlet, løsemidler i produkter. Dette omfatter uoppfangede utslipp som slippes ut til det ytre miljø gjennom vinduer, dører, ventilasjonsåpninger eller lignende åpninger,
+11) punktutslipp: sluttutslippet til luft gjennom en skorstein eller et renseanlegg av gasser som inneholder flyktige organiske forbindelser eller andre forurensende stoffer. Volumhastighetene skal uttrykkes i m3/time ved normaltilstand,
+12) totale utslipp: summen av diffuse utslipp og punktutslipp,
+13) utslippsgrenseverdi: massen av flyktige organiske forbindelser, uttrykt ved særskilte parametre, konsentrasjon, prosent og/eller utslippsnivå, beregnet ved normaltilstand (N), som ikke må overskrides i ett eller flere tidsrom,
+14) stoffer: alle grunnstoffer og deres forbindelser slik de forekommer naturlig eller framstilles industrielt, enten de foreligger fast, flytende eller gassformig.
+15) stoffblanding: blanding eller oppløsning av to eller flere stoffer,
+16) overflatebelegg: enhver stoffblanding, herunder alle organiske løsemidler eller stoffblandinger med innhold av organiske løsemidler for å kunne påføres, som brukes for å oppnå dekorativ, beskyttende eller annen funksjonell virkning på en overflate,
+17) klebemiddel: enhver stoffblanding, herunder alle organiske løsemidler eller stoffblandinger med innhold av organiske løsemidler for å kunne påføres, som brukes for å sikre at de ulike delene av et produkt blir klebet sammen,
+18) trykkfarge: enhver stoffblanding, herunder alle organiske løsemidler eller stoffblandinger med innhold av organiske løsemidler for å kunne påføres, som brukes i en trykkeprosess for å trykke tekst eller bilder på en overflate,
+19) forbruk: den totale mengde organiske løsemidler som tilføres i et anlegg per kalenderår eller annen tolv måneders periode, fraregnet de mengder flyktige organiske forbindelser som er gjenvunnet med sikte på gjenbruk,
+20) tilførsel: den mengde organiske løsemidler, i ren tilstand eller i stoffblandinger, som brukes ved en virksomhet, herunder løsemidler som er gjenvunnet innenfor eller utenfor anlegget, og som skal medregnes hver gang de brukes ved virksomheten,
+21) gjenbruk av organiske løsemidler: bruk av organiske løsemidler som er gjenvunnet i et anlegg, i teknisk eller kommersielt øyemed, herunder til brensel; dette omfatter ikke gjenvunne løsemidler som til slutt disponeres som avfall,
+22) massestrøm: mengden av flyktige organiske forbindelser som slippes ut, uttrykt i masseenhet/time,
+23) nominell kapasitet: maksimumsmassen av organiske løsemidler som tilføres i et anlegg, som gjennomsnitt over en dag, ved normale driftsforhold og den produksjonsstørrelse anlegget er konstruert for,
+24) normal drift: samtlige perioder da et anlegg eller en prosess er i drift, bortsett fra oppstarting og stansing samt vedlikehold av utstyret,
+25) innesluttede forhold: forhold der driften av et anlegg gjør at de flyktige organiske forbindelsene som frigjøres under virksomheten, samles opp og slippes ut på en kontrollert måte gjennom en skorstein eller renseutstyr og derfor ikke er bare diffuse.
+26) normaltilstand: en temperatur på 273,15 K og et trykk på 101,3 kPa,
+27) 24-timers middelverdi: det aritmetiske gjennomsnitt av alle gyldige avlesninger foretatt i løpet av en 24-timersperiode ved normal drift,
+28) oppstarting og stansing: operasjoner der et anlegg, en utstyrsdel eller en beholder settes i eller ut av drift eller tomgang. Regelmessig svingende faser i en virksomhet anses ikke som oppstarting og stansing,
+29) forurensningsmyndigheten: Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger.

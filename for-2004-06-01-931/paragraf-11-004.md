@@ -1,0 +1,2 @@
+# § 11-4. Kommunale saksbehandlings- og kontrollgebyrer
+Kommunen kan gi forskrift om gebyrer for egen behandling av eksisterende tillatelser, påslippsvedtak etter § 15A-4, behandling av søknad etter § 12-4, § 13-4 og § 15-4, for saksbehandling etter lokale forskrifter, og for kontrolltiltak som gjennomføres for å sikre at kapittel 11 til 16 eller vedtak i medhold av disse kapitlene blir fulgt. Gebyrene settes slik at de samlet ikke overstiger kommunens kostnader ved saksbehandlingen eller kontrollordningen, jf. forurensningsloven § 52a.

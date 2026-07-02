@@ -1,0 +1,2 @@
+# § 8-5. Virksomhet som skal ha utslippstillatelse
+All virksomhet med kjelkapasitet større enn 500 kg olje per time samt virksomhet med kjelkapasitet mindre enn 500 kg olje per time, men som har et maksimalutslipp på mer enn 10 kg SO2 per time, må ha tillatelse fra forurensningsmyndigheten etter forurensningsloven § 11 dersom anlegget etableres etter 8. oktober 2001. Det samme gjelder for virksomhet som benytter fyringsolje med høyere svovelinnhold enn det som er tillatt etter § 8-3.

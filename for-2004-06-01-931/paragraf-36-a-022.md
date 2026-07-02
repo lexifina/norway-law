@@ -1,0 +1,5 @@
+# § 36A-22. Eierskifte, omdanning mv.
+Den driftsansvarlige skal sende melding til forurensningsmyndighetene så snart som mulig og senest én måned etter at aksjene eller andelene til den driftsansvarlige overdras til ny eier eller den driftsansvarlige får ny eier med bestemmende innflytelse.
+Dersom den driftsansvarlige skal fusjonere, fisjonere, på annen måte omdannes eller driftsansvaret skal overføres til en ny driftsansvarlig, gjelder følgende:
+a) Den driftsansvarlige for virksomhet som ikke har krav til finansiell sikkerhet i sin tillatelse eller i forskrift, skal sende melding til forurensningsmyndigheten så snart som mulig og senest én måned etter gjennomføring.
+b) Den driftsansvarlige for virksomhet som har krav til finansiell sikkerhet i sin tillatelse eller i forskrift, skal sende melding til forurensningsmyndigheten i god tid før planlagt gjennomføring. Ny driftsansvarlig kan ikke drive i henhold til tillatelsen før forurensningsmyndigheten har mottatt og godkjent ny tilfredsstillende finansiell sikkerhet fra den nye driftsansvarlige. Tidligere driftsansvarlig er ansvarlig etter tillatelsen frem til slik godkjenning er gitt.

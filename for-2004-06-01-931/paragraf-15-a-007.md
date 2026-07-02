@@ -1,0 +1,4 @@
+# § 15A-7. Forholdet til eksisterende utslipp
+Kommunen kan fastsette krav i medhold av § 15A-4 for påslipp etablert før 1. januar 2006.
+Tillatelser til ervervsmessig innsamling, mottak eller behandling av andres fotokjemikalier gitt i medhold av forurensningsloven og tilhørende forskrifter før 1. januar 2006 er fortsatt gjeldende. Tillatelser til utslipp av fotokjemikalier gitt i medhold av forurensningsloven og tilhørende forskrifter før 1. januar 2006 er fortsatt gjeldende. Statsforvalteren kan i det enkelte tilfellet i medhold av forurensningsloven § 18 oppheve eller endre vilkår i tillatelse og om nødvendig kalle tillatelsen tilbake.
+Tillatelser til utslipp fra virksomheter innen foto, røntgen og grafisk industri gitt i medhold av forurensningsloven § 11 oppheves fra 1. januar 2006. Utslippene er lovlige fra 1. januar 2006 dersom kravene i § 15A-5 er oppfylt.

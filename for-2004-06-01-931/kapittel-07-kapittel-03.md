@@ -1,0 +1,2 @@
+# Kapittel 21. Forbud mot forbrenning til sjøs
+Fastsatt med hjemmel i lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. Hjemmel er endret til lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2, § 31 og § 33, jf. delegeringsvedtak 16. februar 2007 nr. 171 og lov 26. juni 1998 nr. 47 om fritids- og småbåter § 20 og § 38 jf. delegeringsvedtak av 27. november 1998 nr. 1095 og delegeringsvedtak/kgl.res. ift. kap 5. Videre fastsatt med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9 nr. 1.

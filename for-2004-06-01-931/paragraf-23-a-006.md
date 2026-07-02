@@ -1,0 +1,2 @@
+# § 23A-6. Rydding og deponering av snø
+Den ansvarlige for idrettsbaner der plastholdig løst fyllmateriale brukes, skal sørge for at snø som ryddes av idrettsbanen, deponeres på eget område for snødeponering på eller utenfor banen. Den ansvarlige skal sørge for nødvendige tiltak for å sikre at plastholdig løst fyllmateriale forblir innenfor idrettsbanen eller snødeponiet frem til det håndteres i tråd med § 23A-7 annet ledd.

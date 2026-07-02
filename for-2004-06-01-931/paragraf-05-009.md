@@ -1,0 +1,6 @@
+# § 5-9. Tiltaksplikt
+Anleggseier skal treffe nødvendige tiltak for å unngå at anlegget bidrar vesentlig til at tiltaksgrensen i § 5-4 nr. 1 blir overskredet.
+At tiltaksgrensen i § 5-4 nr. 1 er overskredet når kartleggingen etter § 5-7 legges fram, utløser likevel ikke noen plikt til å treffe tiltak etter første ledd dersom framskrivninger viser at tiltaksgrensen vil være overholdt før eventuelle tiltak vil være gjennomført.
+Forurensningsmyndigheten kan gi pålegg om tiltakspliktens omfang dersom en anleggseier ikke oppfyller tiltaksplikten etter denne paragraf. Forurensningsmyndigheten kan bestemme at anleggseier skal anses å ha oppfylt sin tiltaksplikt, dersom forhold vedkommende ikke har kontroll over hindrer gjennomføringen av det aktuelle tiltaket. Forurensningsmyndigheten kan videre gi pålegg om at flere anleggseiere skal samarbeide om gjennomføringen av tiltak, og at den som bidrar mest til overskridelsen av tiltaksgrensen, skal koordinere gjennomføringsarbeidet.
+Vedtak etter tredje ledd skal følge saksbehandlingsreglene i kapittel 3.6, behandling av tillatelser etter forurensningsloven.
+Granneloven § 6 – § 8 skal ikke få anvendelse for forurensning som er å anse som tillatt etter dette kapitlet, herunder etter vedtak i medhold av § 5-19.

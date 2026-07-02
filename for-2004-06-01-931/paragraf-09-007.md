@@ -1,0 +1,6 @@
+# § 9-7. Særlige krav ved utslipp av løsemidler med alvorlige helse- og miljøvirkninger
+Løsemidler som er klassifisert som kreftfremkallende, kjønnscellemutagene eller reproduksjonstoksiske, og som derfor skal merkes med faresetningene R45/H350, R46/H340, R49/H350i, R60/H360F, R61/H360D i henhold til forskrift om klassifisering, merking mv. av farlige kjemikalier og forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), skal så snart dette er mulig, erstattes med mindre skadelige alternativer.
+For utslipp av samlet 10 gram eller mer per time av disse forbindelsene skal en grenseverdi for punktutslipp på 2 mg/Nm3 overholdes. Verdien viser til samlet masse av enkeltforbindelsene.
+For utslipp av samlet 100 gram eller mer per time av halogenerte løsemidler merket med faresetningene R40/H351 eller R68/H371, skal en grenseverdi for punktutslipp på 20 mg/Nm3 overholdes. Verdien viser til samlet masse av enkeltforbindelsene.
+For å beskytte helse og miljø skal utslipp av alle forbindelser som det er referert til ovenfor, i den grad det er teknisk og økonomisk mulig, begrenses som utslipp fra et anlegg som driver under innesluttede forhold.
+Reduksjonsplanen i vedlegg II B til dette kapitlet fritar ikke en virksomhet fra å overholde ovennevnte krav.

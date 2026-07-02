@@ -1,0 +1,2 @@
+# § 17-1.
+Direktivene i EØS-avtalen vedlegg XX om utslipp av farlige stoffer til vann (direktiv 82/176/EØF, direktiv 83/513/EØF, direktiv 84/156/EØF, direktiv 84/491/EØF, direktiv 86/280/EØF med endringer som følger av direktiv 88/347/EØF og direktiv 90/415/EØF) og grunnvann (direktiv 80/68/EØF) med de endringer som følger av direktiv 91/692/EØF, jf. EØS-komiteens beslutning nr. 7/94 og avtalen for øvrig, gjelder som forskrift.

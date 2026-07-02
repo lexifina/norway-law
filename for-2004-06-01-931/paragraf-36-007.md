@@ -1,0 +1,3 @@
+# § 36-7. Forhåndsvarsel til andre enn sakens parter
+Berørte offentlige organer og myndigheter, organisasjoner som ivaretar allmenne interesser som vedtaket angår, eller andre som kan bli særlig berørt, skal forhåndsvarsles direkte før vedtak treffes og gis anledning til å uttale seg innen en nærmere angitt frist.
+Dersom en stor krets av personer har krav på direkte varsel, eller det viser seg uforholdsmessig byrdefullt å finne fram til enhver som har krav på varsel etter første ledd, kan forurensningsmyndigheten i det enkelte tilfelle isteden høre saken i henhold til § 36-8. Direkte varsel gis i slike tilfelle likevel til representanter for berørte interesser i henhold til første ledd i den utstrekning disse er kjent for forurensningsmyndigheten.

@@ -1,0 +1,2 @@
+# § 36A-10. Utnyttelse av overskuddsenergi
+Den driftsansvarlige skal i størst mulig grad sørge for å utnytte overskuddsenergi fra eksisterende og nye anlegg internt. Den driftsansvarlige skal gjennom tiltak på eget område legge til rette for at overskuddsenergi skal kunne utnyttes eksternt med mindre det kan godtgjøres at dette ikke er teknisk mulig eller medfører uforholdsmessige store omkostninger.

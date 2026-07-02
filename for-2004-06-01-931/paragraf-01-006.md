@@ -1,0 +1,8 @@
+# § 1-6. Periodiske tilstandskontroller
+Det skal utføres tilstandskontroll i henhold til følgende tidspunkter:
+a) Enkeltbunnet ståltank: første kontroll etter 15 år, deretter periodisk tilstandskontroll hvert femte år. Dersom påviste korrosjonsskader er små, av begrenset omfang og hovedsakelig forekommer utvendig, kan kontrollintervallet forlenges fra 5 til 10 år dersom det installeres katodisk beskyttelse. Katodisk beskyttelse skal installeres innvendig og/eller utvendig i betraktning av hvor korrosjonsskadene forekommer. Utvendig katodisk beskyttelse etterprøves ved potensial- og strømmålinger for å bekrefte at systemet fungerer.
+b) Dobbeltbunnet ståltank: første kontroll etter 15 år, deretter periodisk tilstandskontroll hvert femte år. En grundig utført og dokumentert tetthetsprøving av dobbeltbunnen er tilstrekkelig tilstandskontroll.
+c) Særlig korrosjonsbeskyttet ståltank: første kontroll etter 20 år. Denne tilstandskontrollen benyttes i fastsettingen av senere kontrolltidspunkt og kontrollintervaller.
+d) GUP-tank: det skal gjennomføres trykktesting omlag to år etter nedgraving. Ved tilfredsstillende resultat av denne trykktestingen, gjennomføres ordinær førstegangskontroll ved 30-års alder. Denne tilstandskontrollen benyttes i fastsettingen av senere kontrolltidspunkt og kontrollintervaller.
+e) Dobbeltvegget tank: et kontinuerlig overvåkningssystem, jf. § 1-7, er tilstrekkelig tilstandskontroll for dobbeltveggete tanker, samt for tanker som sammen med kunststoffduker (linere) og systemer som gir dobbeltveggeffekt. Det skal føres en revisjonsbok der service, alarmer, reparasjoner og funksjonsprøvinger loggføres.
+f) Rekondisjonert ståltank: første kontroll etter 10 år, deretter periodiske tilstander hvert femte år.

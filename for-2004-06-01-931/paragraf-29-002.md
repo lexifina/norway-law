@@ -1,0 +1,3 @@
+# § 29-2. Virksomheter som må ha særskilt tillatelse etter forurensningsloven
+Virksomheter som har en forbrukskapasitet på over 150 kg/time eller over 200 tonn/år av innsatsstoffer til overflatebehandling som er basert på organiske løsemidler, må ha særskilt tillatelse fra Miljødirektoratet etter forurensningslovens § 11, jf. vedlegg I til forurensningsforskriftens kapittel 36 behandling av tillatelser etter forurensningsloven (direktiv 96/61/EF, IPPC).
+Når særlige forhold tilsier det, kan statsforvalteren kreve at virksomheter som omfattes av dette kapittelet skal ha særskilt tillatelse etter forurensningslovens § 11.

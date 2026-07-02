@@ -1,0 +1,2 @@
+# § 13-14. Analyse
+Prøvene som er tatt i henhold til § 13-12 og § 13-13, skal analyseres for de aktuelle renseparametre som fremgår av § 13-7 og § 13-8. Prøvene skal analyseres av laboratorier som er akkreditert for de aktuelle analysene. Analysemetoder nevnt i vedlegg 2 punkt 2.2 til kapittel 11 skal benyttes. Alternativt kan analysemetoder med dokumentert høy korrelasjon med analysemetodene i vedlegg 2 punkt 2.2 til kapittel 11 benyttes.

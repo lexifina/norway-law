@@ -1,0 +1,4 @@
+# § 19-4. Vilkår for bruk av dispergeringsmidler og strandrensemidler
+Den ansvarlige kan bruke dispergeringsmidler og strandrensemidler under aksjon mot akutt forurensning når kravene i §§ 19-5 og 19-6 er oppfylt. Dersom det ved oljeforurensning oppstår uakseptabel fare for liv og helse, kan dispergeringsmidler og strandrensemidler brukes uten at det gjøres vurdering av bruken i henhold til § 19-6 første ledd.
+Dersom den ansvarlige er beredskapspliktig etter forurensningsloven § 40 og § 43 første og andre ledd og svalbardmiljøloven § 70, og planlegger for bruk av dispergeringsmidler eller strandrensemidler under aksjoner mot akutt forurensning, skal dette følge av beredskapsplanen.
+Annen bruk av dispergeringsmidler og strandrensemidler krever tillatelse fra Miljødirektoratet etter forurensningsloven kapittel 3.

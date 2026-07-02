@@ -1,0 +1,3 @@
+# § 23A-7. Håndtering av plastholdig løst fyllmateriale
+Den ansvarlige for idrettsbaner der plastholdig løst fyllmateriale brukes skal sørge for nødvendige tiltak for å hindre at plastholdig løst fyllmateriale som oppbevares på eller utenfor banen spres til omgivelsene utenfor banen.
+Den ansvarlige for idrettsbaner der plastholdig løst fyllmateriale brukes skal sørge for at oppsamlet plastholdig løst fyllmateriale ombrukes på den samme idrettsbanen eller leveres til lovlig avfallsanlegg. Oppsamlet fyllmateriale kan kun ombrukes på den samme idrettsbanen hvis fyllmaterialet er egnet for ombruk.

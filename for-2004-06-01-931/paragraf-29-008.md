@@ -1,0 +1,2 @@
+# § 29-8. Unntak fra krav som gjelder støy fastsatt i § 29-7
+For virksomheter som driver overflatebehandling og vedlikehold av skip/offshoreinstallasjoner kan de generelle støykravene fravikes i inntil 30 dager pr. år inklusive 4 søn- og helligdager/offentlige fridager, men maksimalt 4 dager pr. løpende uke. Maksimum 20 dager kan tas ut i perioden 1. mai-30. september. Støyen skal likevel ikke overstige 60 Lden på hverdager og 55 Lden på søn- og helligdager/offentlige fridager. Nabo/berørte skal varsles før slik støyende aktivitet settes i gang.

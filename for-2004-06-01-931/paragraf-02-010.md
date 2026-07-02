@@ -1,0 +1,3 @@
+# § 2-10. Plikt til å stanse igangsatt terrenginngrep dersom det oppdages forurensning i grunnen
+Dersom det først oppdages forurensning i grunnen eller det oppstår mistanke om slik forurensning etter at terrenginngrepet er igangsatt, skal alt arbeid som kan utløse spredningsfare straks stanses. Tiltakshaver plikter da å gjennomføre undersøkelser i henhold til § 2-4. Dersom undersøkelsene viser at grunnen er forurenset, inntrer pliktene etter § 2-5 og § 2-6. Regelen om nabovarsel i § 2-8 gjelder tilsvarende.
+Plikten til å stanse arbeidet etter denne bestemmelsen gjelder ikke tiltak som er nødvendige for å redusere eller stanse forurensning eller fare for dette.
