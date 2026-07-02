@@ -1,0 +1,3 @@
+# § 11-15. Systematisk elektronisk utveksling av opplysingar om avslag på søknad om løyve og tilbakekall av løyve
+Delegert kommisjonsforordning (EU) 2021/1423 om systematisk elektronisk utveksling av opplysingar om avslag på søknad om erverv eller innehav av enkelte typar skytevåpen gjeld som forskrift.
+Teieplikta etter forvaltningsloven § 13 er ikkje til hinder for utlevering av opplysingar i samsvar med forordninga. Det skal utleverast opplysingar om avslag på søknad om erverv eller innehav av enkelte typar skytevåpen og om tilbakekall av løyve til enkelte typar skytevåpen, når avgjerda er grunna i at vilkåra i våpenlova § 16 ikkje er oppfylte.

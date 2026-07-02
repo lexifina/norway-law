@@ -1,0 +1,2 @@
+# § 4-13. Test og demonstrasjonsskyting med samlarvåpen
+Politiet kan etter søknad godkjenne test- eller demonstrasjonsskyting med skytevåpen som er erverva for samling når skytinga har sakleg samanheng med samlaraktiviteten. Test- og demonstrasjonsskyting kan berre utførast på skytebane eller skytefelt som er godkjent for bruk av den aktuelle våpentypen, og av person som har løyve til å ha den aktuelle våpentypen.

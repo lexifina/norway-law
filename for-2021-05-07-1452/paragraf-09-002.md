@@ -1,0 +1,2 @@
+# § 9-2. Krav til meldeplikt for skytevåpen med vidare som ikkje er løyvepliktige
+Den som vil drive handel, mekling eller utleige av luft-, gass- eller fjørvåpen, som er laga for å kunne skyte prosjektil med diameter på 4,5 millimeter eller mindre, airsoft våpen, paintballvåpen, samt våpendelar og ammunisjon til slike skytevåpen, må på førehånd sende melding til politiet. Kravet til melding gjeld også for handel, mekling eller utleige av deaktiverte skytevåpen og lyddemparar til løyvepliktige skytevåpen.

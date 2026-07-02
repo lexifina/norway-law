@@ -1,0 +1,3 @@
+# § 4-3. Unnatak frå kravet om innføring i Jegerregisteret
+Politiet kan gje personar som ikkje er innført i Jegerregisteret, men som kan dokumentere eit behov for skytevåpen for utøving av jakt eller fangst som ikkje krev innføring i Jegerregisteret, løyve til å erverve og ha inntil to komplette skytevåpen, samt våpendelar til desse skytevåpena.
+Eit løyve etter første ledd kan berre gjevast for våpentypar som oppfyller krava til lovleg våpentype etter våpenlova § 11 andre ledd, og som lovleg kan brukast til jakta som skytevåpenet skal brukast til. Det kan berre gjevast løyve til personar som kan dokumentere tilstrekkeleg våpendugleik, som til dømes gjennomført førstegongsteneste eller aktivitet i godkjent skyttarorganisasjon.

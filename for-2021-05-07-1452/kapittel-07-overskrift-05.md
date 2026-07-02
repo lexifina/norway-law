@@ -1,0 +1,1 @@
+# Krav til personlege eigenskapar

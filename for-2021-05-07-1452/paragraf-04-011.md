@@ -1,0 +1,3 @@
+# § 4-11. Talet på løyvepliktige skytevåpen og våpendelar som kan ervervast til samling
+Politiet kan gje personar som er godkjente våpensamlarar etter våpenlova § 13 løyve til å erverve og ha inntil 25 komplette løyvepliktige skytevåpen, samt våpendelar til desse skytevåpena. Politiet kan på dei same vilkår gje løyve til fleire skytevåpen, men ikkje meir enn totalt 100 komplette løyvepliktige skytevåpen, samt våpendelar til desse skytevåpena. Eit løyve til å erverve fleire skytevåpen kan gjevast for inntil 25 komplette skytevåpen av gangen.
+Politiet kan berre gje løyve til erverv av skytevåpen som fell inn under samlaren sine godkjente samlarområde.

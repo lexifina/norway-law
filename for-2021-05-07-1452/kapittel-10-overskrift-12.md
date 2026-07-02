@@ -1,0 +1,1 @@
+# Ikkje-ervervsmessig innførsel

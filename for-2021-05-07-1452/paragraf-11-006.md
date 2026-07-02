@@ -1,0 +1,3 @@
+# § 11-6. Kontroll med oppbevaring i privat bustad
+Politiet må sende førehandsvarsel før dei kan føre kontroll med oppbevaring av skytevåpen, våpendelar eller ammunisjon i privat bustad. Førehandsvarselet må vere motteke av vedkomande løyvehavar minst 48 timar før kontrollen kan finne stad.
+Politiet sin kontroll av oppbevaring i privat bustad skal berre skje på det eller dei stadar som løyvehavar syner fram som oppbevaringsstad for skytevåpen, våpendelar eller ammunisjon. Manglar det skytevåpen eller våpendelar på oppbevaringsstaden i høve til det som er registrert hos løyvehavar, skal vedkomande opplyse om kvar gjenstandane er, og gjevast ein kort frist til å syne fram dei aktuelle skytevåpen eller våpendelar for kontroll.
