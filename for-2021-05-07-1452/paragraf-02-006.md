@@ -1,0 +1,3 @@
+# § 2-6. Ammunisjon som er friteke frå løyveplikt
+Det krevst ikkje løyve for å erverve og ha ammunisjon som berre kan brukast i skytevåpen som er fritekne frå løyveplikt etter § 2-3, med dei avgrensingar som følgjer av andre ledd. Det krevst heller ikkje løyve for å erverve og ha komprimert luft eller andre gassar til luftvåpen.
+Den som vil erverve eller ha krut eller tennmiddel til skytevåpen som er fritekne frå løyveplikt må ha løyve frå politiet. Politiet kan berre gje løyve til erverv av krut eller tennmiddel til personar som har gjennomført tryggingsopplæring hos skyttarorganisasjon med godkjent skyttarprogram for skytevåpen som ammunisjonen kan brukast i.

@@ -1,0 +1,2 @@
+# § 1-6. Tilhøvet til brann- og eksplosjonsvernlova
+Våpenlova gjeld for erverv, innehav, tilverking til eige bruk, omsetjing, samt inn- eller utførsel av krut og tennmiddel som er laga for å brukast i skytevåpen. Brann- og eksplosjonsvernlova gjeld for ervervsmessig tilverking av ammunisjon med eksplosivar, samt erverv, innehav, tilverking, omsetjing, inn- eller utførsel av eksplosivar som ikkje er laga for å brukast i skytevåpen.

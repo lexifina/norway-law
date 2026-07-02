@@ -1,0 +1,4 @@
+# § 9-1. Krav til løyve for å drive handel, mekling eller utleige av skytevåpen med vidare
+Den som vil drive handel, mekling eller utleige av skytevåpen, våpendelar og ammunisjon som er underlagt løyve- eller meldeplikt må ha løyve etter dette kapitelet. Eit løyve kan avgrensast til å gjelde for nærare bestemte skytevåpen, våpendelar eller ammunisjon.
+Eit løyve kan berre gjevast for skytevåpen, våpendelar og ammunisjon som er tillatne til jakt eller sportsskyting etter § 4-1, § 4-4, eller § 4-5 i denne forskrifta, samt våpenlova § 11 og § 12, med mindre det gjevast særskilt løyve etter våpenlova § 10.
+Kravet til løyve gjeld ikkje for godkjente skyttarforeiningar, som enten sel eller utleverer ammunisjon til sine medlemar, eller som sel eller utleverer ammunisjon til bruk under skyteprøva til storviltjakt.

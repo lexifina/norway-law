@@ -1,0 +1,2 @@
+# § 11-2. Melding om tap av våpenkort og dokumentasjon på lovleg deaktivering
+Ved tap av våpenkort eller dokumentasjon på lovleg deaktivering etter § 12-1 skal innehavaren snarast melde frå om tapet til det politidistrikt som utferda dokumentet. Meldinga om tap skal vere skriftleg med ei kort forklaring på korleis dokumentet er kome bort. Politiet kan utferde nytt dokument etter at innehavar har sendt melding etter første punktum.

@@ -1,0 +1,3 @@
+# § 8-7. Godkjenning av skyteprogram for godkjente skyttarorganisasjonar
+Skyteprogram eller endringar i gjeldande skyteprogram for skyttarorganisasjonar skal vere godkjent av politiet. Ein godkjenning skal omfatte aktuelle våpentypar, medrekna utforming, tillaten magasinkapasitet, kaliber og andre tekniske krav til dei våpentypar som skal brukast i skyteprogrammet.
+Politiet kan godkjenne skyteprogram for halvautomatiske rifler som er godkjent til jakt etter § 4-1, samt for andre våpentypar med dei avgrensingar som følgjer av kapittel 3 i denne forskrifta og våpenlova § 5. Politiet kan berre godkjenne skyteprogram som inneber bruk av våpenmagasin som krev særskilt løyve etter § 2-5 dersom programmet forvaltast av ein internasjonal skyttarorganisasjon.

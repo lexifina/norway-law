@@ -1,0 +1,4 @@
+# § 5-4. Erverv og innehav av skytevåpen på grunnlag av arv eller minneverde
+Politiet kan gje personar løyve til å erverve og ha skytevåpen og våpendelar som minne etter arvelatar i rett opp- eller nedstigande linje. Politiet kan berre gje løyve til personar som kan dokumentere å ha tilstrekkeleg våpendugleik, som til dømes gjennomført førstegongsteneste eller aktivitet i godkjent skyttarorganisasjon.
+Politiet kan gje løyve etter første ledd for inntil tre komplette rifler eller haglevåpen, samt våpendelar til desse skytevåpena, som er tillatne til jakt etter våpenlova § 11 andre ledd og kapittel 3 i denne forskrifta. Politiet kan gje personar som har våpenløyve for pistol eller revolver løyve for inntil tre pistolar eller revolverar, samt våpendelar til desse skytevåpena.
+Det samla talet skytevåpen som kan ervervast på grunnlag av arv eller minneverde, kan ikkje overstige tre komplette skytevåpen, samt våpendelar til desse skytevåpena.

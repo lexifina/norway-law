@@ -1,0 +1,1 @@
+# Løyvehavar sine plikter

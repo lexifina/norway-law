@@ -1,0 +1,8 @@
+# § 10-14. Mellombels innførsel utan europeisk våpenpass
+Utanlandsk borgar som ikkje har europeisk våpenpass og som mellombels skal føre skytevåpen, våpendelar eller ammunisjon inn i norsk tollområde må ha løyve frå politiet. Politiet kan gje løyve til personar som:
+1) skal bruke skytevåpena til jakt, sportsskyting eller samlaraktivitet,
+2) oppfyller krava til minstealder etter våpenlova § 15 for den aktuelle våpentypen, og
+3) har gyldig løyve frå heimlandet til å ha dei skytevåpen, våpendelar og ammunisjon som skal innførast.
+Ein søknad om mellombels innførsel av skytevåpen, våpendelar eller ammunisjon skal førast på fastsett skjema. Til søknaden skal det leggast ved dokumentasjon for søkar sin identitet og for at skytevåpenet skal brukast til jakt, sportsskyting eller samlaraktivitet. Slik dokumentasjon kan til dømes vere deltakarliste, innbyding til jakt eller invitasjon frå godkjent våpensamlar. Ein søknad om mellombels innførsel må sendast til det politidistrikt der vedkomande skal opphalde seg, seinast to månader før innreisa.
+Politiet kan berre gje løyve til mellombels innførsel av skytevåpen, våpendelar og ammunisjon som lovleg kan brukast til det føremål som grunngjev søknaden. Politiet kan ikkje gje løyve for mellombels innførsel av halvautomatiske rifler for personar som skal bruke våpenet til jakt og som er busett utanfor EØS-området. Eit løyve til mellombels innførsel kan gjevast for opphald i riket i inntil tre månader, og gjeld som våpenløyve for dei skytevåpen, våpendelar og ammunisjon som innførast i medhald av løyvet.
+Vedtak om avslag på søknad om mellombels innførsel av skytevåpen, våpendelar eller ammunisjon til jakt er unnateke frå retten til grunngjeving og partsinnsyn, og kan ikkje klagast på.

@@ -1,0 +1,6 @@
+# § 6-7. Krav til transport og sending av skytevåpen og ammunisjon
+Den som transporterar skytevåpen på offentleg stad kan ikkje bære skytevåpenet i hylster eller liknande, som er festa til kroppen på ein slik måte at det gjev rask tilkomst til skytevåpenet.
+Den som transporterar skytevåpen eller ammunisjon etter våpenlova § 20 i motorvogn skal ha skytevåpen og ammunisjon under forsvarleg tilsyn. Skytevåpen eller ammunisjon som transporterast i motorvogn kan likevel forlatast utan forsvarleg tilsyn når skytevåpen og ammunisjon er pakka og skjult og motorvogna er låst, eller når vital del av skytevåpen er fjerna.
+Ved sending av løyvepliktige skytevåpen skal skytevåpenet tryggast slik at det ikkje kan brukast. Skytevåpenet kan enten tryggast med kammerlås eller liknande innretning, eller ved å sende ein vital våpendel i eiga sending. Ammunisjon skal ikkje pakkast saman med eit komplett skytevåpen.
+Den som skal sende eller transportere ammunisjon må i tillegg til krava som er fastsett i andre og tredje ledd også oppfylle krava til transport eller sending av eksplosivar etter brann- og eksplosjonsvernlova.
+Føresegnene i første og andre ledd gjeld ikkje for Svalbard. Sysselmeisteren på Svalbard kan gje nærare retningsliner om transport av skytevåpen, våpendelar og ammunisjon på Svalbard.

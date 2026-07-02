@@ -1,0 +1,4 @@
+# § 10-16. Mellombels innførsel av skytevåpen, våpendelar og ammunisjon i samband med tryggingsoppdrag
+Utanlandske borgarar kan etter samtykke frå leiar av Politiets tryggingsteneste innføre skytevåpen, våpendelar og ammunisjon for å gjere persontryggingsoppdrag for eit tidsrom av inntil tre månader av gangen. Eit samtykke frå Politiets tryggingsteneste gjeld som våpenløyve.
+Fast tryggingspersonell ved utanlandske ambassadar i Noreg kan etter samtykke frå leiar av Politiets tryggingsteneste innføre skytevåpen, våpendelar og ammunisjon for å gjere persontryggingsoppdrag. Eit samtykke frå Politiets tryggingsteneste gjeld som våpenløyve.
+Utanlandske borgarar kan etter samtykke frå Politidirektoratet innføre skytevåpen, våpendelar og ammunisjon for å gjere andre sikringsoppdrag i samsvar med overeinskomst med framand stat. Eit samtykke frå Politidirektoratet gjeld som våpenløyve.
