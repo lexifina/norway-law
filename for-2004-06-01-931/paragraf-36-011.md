@@ -1,0 +1,14 @@
+# § 36-11. Vilkår i tillatelse
+For å bidra til at den konsesjonspliktige overholder prinsippene i § 36-10 og i forurensningsloven, og iverksetter de tiltak som er nødvendige for å sikre et høyt vernenivå for miljøet som helhet, skal tillatelsen inneholde nødvendige vilkår, herunder
+1) utslippsgrenseverdier for forurensende stoffer, særlig stoffer listet i vedlegg III til dette kapitlet, der hvor virksomheten har utslipp av disse stoffene av betydning. Utslippsgrenseverdier og tilsvarende parametere og tekniske tiltak skal fastsettes i tråd med § 36-15. Fastsettelse av grenseverdier skal ta hensyn til at forurensningen kan spres i miljøet til både luft, jord og vann. Hvis det er hensiktsmessig kan utslippsgrenseverdier erstattes med likeverdige parametre eller krav om tekniske tiltak, som sikrer en tilsvarende beskyttelse av miljøet som utslippsgrenseverdier. Utslippsgrenseverdier, parametere og krav om tekniske tiltak skal bygge på hva de beste tilgjengelige teknikker kan yte, men uten at en særskilt teknikk eller teknologi pålegges tatt i bruk,
+2) vilkår om reduksjon og, så langt det er teknisk og økonomisk mulig, eliminering av utslipp av det som til enhver tid er prioriterte helse- og miljøfarlige kjemikalier,
+3) vilkår som skal sikre at grunn og grunnvann beskyttes i tilstrekkelig grad mot forurensning, herunder krav om regelmessig vedlikehold og overvåking av tiltak som skal forhindre utslipp til grunn og grunnvann, og krav som sikrer at § 36-22 gjennomføres ved endelig opphør av driften,
+4) vilkår om periodisk overvåking i grunn og grunnvann av relevante farlige stoffer og stoffblandinger i henhold til forskrift om klassifisering mv av stoffer (CLP), som kan tenkes å forekomme på området der virksomheten pågår. Overvåkingen skal skje minst en gang hvert femte år for grunnvann og en gang hvert tiende år for grunn, med mindre overvåkningen baseres på en systematisk vurdering av forurensningsrisiko,
+5) vilkår om minimering av langtransportert eller grensekryssende forurensning,
+6) vilkår om årlig rapportering til forurensningsmyndigheten,
+7) vilkår om utarbeidelse av program for utslippsmålinger som inkluderer angivelse av målemetode, målingenes hyppighet og prosedyre for evaluering av resultatene,
+8) når § 36-15 bokstav b er anvendt skal det stilles krav om at resultatet av utslippskontrollen er tilgjengelig for de samme perioder og med de samme referansevilkår som beskrevet i BAT-konklusjonene jf. § 36-15 bokstav a, slik at det blir mulig å sammenligne med utslippsnivåer forbundet med beste tilgjengelige teknikker,
+9) vilkår om å gi forurensningsmyndigheten de opplysninger som er nødvendige for å kontrollere at vilkårene i tillatelsen overholdes,
+10) vilkår om forebygging av forurensning ved annet enn normale driftsforhold, slik som perioder med driftsstans og oppstart, eller ved opphør av driften,
+11) vilkår om overvåking av miljøtilstanden,
+12) vilkår om håndtering av avfall fra virksomheten.

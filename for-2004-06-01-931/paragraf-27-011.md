@@ -1,0 +1,3 @@
+# § 27-11. Utslippsgrenseverdier for forbrenningsanlegg etablert etter 19. desember 2021
+Forbrenningsanlegg, unntatt motorer og gassturbiner, satt i drift etter 19. desember 2021 skal overholde de utslippsgrenseverdier for utslipp til luft av SO2, NOx og støv som fremgår av vedlegg 2, del 2 tabell 1.
+Første ledd gjelder ikke forbrenningsanlegg som ikke er i drift mer enn 500 driftstimer i året. Driftstid skal beregnes som rullerende gjennomsnitt over en periode på tre år. Dersom et slikt forbrenningsanlegg brenner fast brensel skal det likevel overholde utslippsgrenseverdien 100 mg/Nm3 for støv.

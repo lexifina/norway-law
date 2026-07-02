@@ -1,0 +1,2 @@
+# Kapittel 17. Utslipp av farlige stoffer til vann
+Fastsatt med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9. Jf. EØS-avtalen vedlegg XX (direktiv 76/464/EØF, direktiv 82/176/EØF, direktiv 83/513/EØF, direktiv 84/156/EØF, direktiv 84/491/EØF og direktiv 86/280/EØF endret ved direktiv 88/347/EØF og direktiv 90/415/EØF) og (direktiv 80/68/EØF endret ved direktiv 91/692/EØF).

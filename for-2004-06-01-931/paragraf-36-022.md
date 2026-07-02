@@ -1,0 +1,3 @@
+# § 36-22. Tiltak ved nedleggelse av virksomheten
+Ved endelig nedleggelse av virksomheten, skal den ansvarlige vurdere forurensningstilstand i grunn og grunnvann med hensyn til mulig forurensning av relevante farlige stoffer som er brukt, fremstilt eller frigitt ved anlegget og treffe de tiltak som følger av forurensningsloven § 7 og § 20. Det kan tas hensyn til tiltakenes tekniske gjennomførbarhet. Opplysninger om de tiltak den ansvarlige har truffet skal gjøres tilgjengelig for allmennheten.
+Bestemmelsen i første ledd utelukker ikke at forurensningsmyndigheten kan stille ytterligere krav med hjemmel i forurensningsloven.

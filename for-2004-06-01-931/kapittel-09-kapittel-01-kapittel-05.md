@@ -1,0 +1,2 @@
+# Vedlegg I. Kriterier for karakterisering og vurdering av lagringskomplekset og omkringliggende områder
+Karakterisering og vurdering av lagringslokalitet iht. § 35-5 skal gjennomføres i tre trinn, og i samsvar med best praksis på tidspunktet vurderingen foretas og i henhold til kriterier angitt i dette vedlegg. Miljødirektoratet kan tillate avvik fra ett eller flere av disse kriteriene dersom operatøren har demonstrert at omfanget av karakteriseringen og vurderingen er tilstrekkelig til at utfallet av beslutninger som skal foretas iht. § 35-5 ikke påvirkes.

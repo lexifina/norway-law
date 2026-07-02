@@ -1,0 +1,2 @@
+# § 36-14. Dispensasjon for utprøving av ny teknikk
+Forurensningsmyndigheten kan sette vilkår i tillatelsen som avviker fra § 36-11 for utprøving av ny teknikk i inntil ni måneder, og under forutsetning av at bruken av den nye teknikken ved utløpet av dispensasjonsperioden enten opphører eller fører til utslippsnivåer som minst svarer til utslippsnivåene som oppnås ved bruk av den beste tilgjengelige teknikk.

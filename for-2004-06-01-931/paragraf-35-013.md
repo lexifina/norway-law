@@ -1,0 +1,10 @@
+# § 35-13. Forpliktelser i forbindelse med nedlukking og etterdrift
+En lagringslokalitet skal nedlukkes dersom:
+a) tillatelsens betingelser for nedlukking er oppfylt
+b) Kongen samtykker i nedstengning på grunnlag av søknad fra operatøren,
+c) Miljødirektoratet pålegger nedlukking etter tilbakekall av tillatelse, jf. § 35-7.
+Etter nedlukking av en lagringslokalitet i samsvar med første ledd bokstav a eller b og frem til ansvaret for lagringslokaliteten overdras til staten i samsvar med § 35-14 første og andre ledd, er operatøren fortsatt ansvarlig for overvåking, rapportering og utbedrende tiltak i samsvar med bestemmelsene i dette kapittel. Videre er operatøren ansvarlig for overføring av kvoter til oppgjør ved en lekkasje dersom dette er påkrevd i henhold til kravene klimakvoteloven § 12. Operatøren er også ansvarlig for å forsegle lagringslokaliteten og fjerne injeksjonsanleggene.
+Forpliktelsene i annet ledd oppfylles på grunnlag av en etterdriftsplan som er utarbeidet av operatøren ut fra den beste praksis på området og i overensstemmelse med kravene i vedlegg II. Før nedlukkingen av en lagringslokalitet i medhold av første ledd bokstav a eller b, skal den foreløpige etterdriftsplanen som inngår i tillatelsen etter § 35-6 om nødvendig oppdateres i henhold til risikoanalyse, beste praksis og teknologiske forbedringer og deretter forelegges Miljødirektoratet for godkjennelse som den endelige etterdriftsplan.
+Etter nedlukking av en lagringslokalitet i samsvar med første ledd bokstav c, er staten ansvarlig for overvåking og utbedrende tiltak etter bestemmelsene i dette kapittel og overføring av kvoter til oppgjør ved en lekkasje dersom dette er påkrevd i henhold til kravene i klimakvoteloven § 12.
+Etterdriftskravene oppfylles av staten på grunnlag av den foreløpige etterdriftsplan, som inngår i tillatelsen etter § 35-6, og som om nødvendig oppdateres.
+Staten inndriver omkostningen i forbindelse med de i fjerde ledd nevnte tiltak hos operatøren gjennom innløsning av den finansielle sikkerhetsstillelse, jf. § 35-15.

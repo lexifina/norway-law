@@ -1,0 +1,2 @@
+# § 30-10. Journalføring
+Virksomheten skal journalføre opplysninger om støvnedfallsmålinger i henhold til § 30-9 b, «Utslipp til vann og støy», herunder vurderinger og tiltak for å hindre nedslamming og sikre tilstandsklasse i resipienten. I tillegg skal støy i henhold til § 30-9 b og dato og tidsrom for sprengninger samt hvordan naboer er varslet journalføres, jf. § 30-8. Opplysningene skal tas vare på i minst 5 år og være tilgjengelig ved kontroll eller på forespørsel fra forurensningsmyndigheten.

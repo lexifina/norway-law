@@ -1,0 +1,4 @@
+# § 36A-23. Nedleggelse og driftsstans
+Ved nedleggelse eller driftsstans skal den driftsansvarlige sørge for at råvarer, hjelpestoff, halvfabrikat eller ferdig vare, produksjonsutstyr, biprodukter og avfall tas hånd om på forsvarlig måte. Den driftsansvarlige skal rapportere om iverksatte tiltak til forurensningsmyndigheten innen tre måneder etter nedleggelse eller stans. Rapporteringen skal også omfatte dokumentasjon av disponeringen av kjemikalierester og ubrukte kjemikalier og navn på eventuell kjøper.
+Ved nedleggelse av en virksomhet skal den driftsansvarlige sørge for at driftsstedet settes i miljømessig tilfredsstillende stand. Plan for tiltak for forurenset grunn eller grunnvann etter § 36-22 skal sendes forurensningsmyndigheten.
+Den driftsansvarlige skal også for nedleggelsesåret rapportere i henhold til § 36A-18.

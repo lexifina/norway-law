@@ -1,0 +1,4 @@
+# § 22-1. Virkeområde
+Bestemmelsene i dette kapitlet gjelder all mudring fra skip, med unntak av mudring som ledd i petroleumsvirksomheten til havs. De gjelder videre all dumping, plassering av materiale og marine geoingeniørtiltak fra skip, innretninger og fly samt dumping og plassering av skip. Kapitlet gjelder ikke dumping av innretninger som benyttes i petroleumsvirksomheten.
+Bestemmelsene i dette kapitlet gjelder i sjø og vassdrag her i riket. Innen folkerettens grenser gjelder den også i norsk økonomisk sone og på norsk kontinentalsokkel.
+Med de begrensninger som følger av folkeretten gjelder kapitlet også utenfor norske jurisdiksjonsområder for dumping, plassering av materiale og marine geoingeniørtiltak fra norske skip, innretninger og fly, samt fra utenlandske skip, innretninger og fly når avfallet eller materialet er lastet på norsk territorium.

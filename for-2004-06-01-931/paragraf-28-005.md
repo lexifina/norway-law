@@ -1,0 +1,3 @@
+# § 28-5. Lagring, sikring og merking
+Kjemikalier, prosessbad, farlig avfall m.m. skal sikres slik at uhell ikke kan medføre avrenning til grunnen, overflatevann eller avløpsnett. Disse skal også være merket med hovedinnhold og helsefaresymbol.
+For prosessbad, flytende kjemikalier og flytende farlig avfall skal bedriften ha oppsamlingsbasseng med stort nok volum til å romme tankenes/beholdernes volum dersom lekkasjer skulle oppstå. Oppsamlingsbasseng skal minst kunne ta opp det største badvolum i bedriften. Utløpsledning fra oppsamlingsbasseng skal være stengt med tanke på tilbakepumping av badvæsken til prosessbadet.

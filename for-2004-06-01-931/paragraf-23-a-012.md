@@ -1,0 +1,2 @@
+# § 23A-12. Overgangsbestemmelser
+For idrettsbaner som er anlagt før dette kapitlets ikrafttredelse gjelder bestemmelsene i § 23A-4 første ledd bokstav a og § 23A-9 først når banen skal rehabiliteres, herunder når kunstgressmatter eller andre baneunderlag skal skiftes ut. Det samme gjelder for planlagte idrettsbaner som det er gitt byggetillatelse til etter plan- og bygningsloven § 21-4 jf. § 20-1 første ledd bokstav a før dette kapitlets ikrafttredelse.

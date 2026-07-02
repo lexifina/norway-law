@@ -1,0 +1,2 @@
+# § 41-2. Opplysningsplikt
+Reglene om opplysningsplikt i forurensningsloven § 49 og produktkontrolloven § 5 gjelder tilsvarende for så vidt det er nødvendig for å kontrollere og sikre overholdelse av bestemmelsene i denne forskriften. Miljødirektoratet, Direktoratet for strålevern og atomsikkerhet, statsforvalteren og kommunen kan gi pålegg om opplysningsplikt innenfor sine myndighetsområder etter forskriften.

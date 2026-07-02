@@ -1,0 +1,6 @@
+# § 31-5. Utslippsgrenseverdier
+Røykgasser fra forbrenningsanlegg skal slippes ut under kontrollerte forhold gjennom skorstein.
+Utslippene fra forbrenningsanlegg skal overholde de utslippsgrenseverdiene som er angitt i vedlegg 1, del 1 og 2. Utslippsgrenseverdiene skal gjelde for utslipp gjennom felles skorstein og bestemmes for forbrenningsanleggets samlede nominelle tilførte termiske effekt. Skorsteinshøyden skal beregnes slik at miljø og menneskers helse beskyttes.
+Forbrenningsanlegg med tillatelse gjort gjeldende før 7. januar 2013 skal overholde de utslippsgrenseverdier som er angitt i vedlegg 1, del 1. Utslippsgrenseverdiene skal også gjelde for anlegg der det ble levert en fullstendig søknad om tillatelse innen 7. januar 2013 og anlegget ble satt i drift senest 7. januar 2014.
+Forbrenningsanlegg med tillatelse gjort gjeldende fra 7. januar 2013 eller senere, skal overholde de utslippsgrenseverdier som er angitt i vedlegg 1, del 2.
+Når det i vedlegg 1 angis at utslippsgrenseverdiene kan benyttes for en del av et forbrenningsanlegg med et begrenset antall driftstimer, skal utslippsgrenseverdiene gjelde for utslipp fra den delen av anlegget. Utslippsgrenseverdien bestemmes ved å ta hensyn til samlet nominell tilført termisk effekt for hele forbrenningsanlegget.

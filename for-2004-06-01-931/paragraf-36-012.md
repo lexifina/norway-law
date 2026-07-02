@@ -1,0 +1,3 @@
+# § 36-12. Geologisk lagring av karbondioksid
+For alle forbrenningsanlegg med installert elektrisk effekt fra og med 300 MW og hvor første byggetillatelse eller første driftstillatelse er gitt etter ikrafttredelse av forurensningsforskriften kapittel 35 om lagring av CO2 i geologiske formasjoner, avgjør forurensningsmyndigheten om det er teknisk og økonomisk mulig å gjennomføre fangst og komprimering av karbondioksid med grunnlag i redegjørelser i søknaden som kreves etter § 36-4 og annen tilgjengelig informasjon.
+Dersom forurensningsmyndigheten kommer til at fangst og komprimering av karbondioksid er mulig, skal det i tillatelsen stilles vilkår som sikrer at det avsettes tilstrekkelig plass på anlegget til nødvendig ettermontering av utstyr for dette.

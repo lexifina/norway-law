@@ -1,0 +1,7 @@
+# § 10-9. Målinger og rapportering
+Den ansvarlige for kategori I-krematorier skal minst en gang pr. år kontrollere drift og forbrenningstekniske forhold samt gjennomføre kontrollmålinger av støv og kvikksølv i utslipp til luft. For anlegg som har utslipp til vann skal kontrollen omfatte vaskevannet. For kategori II-krematorier skal det gjennomføres tilsvarende kontrollmålinger av forbrenningstekniske forhold og utslipp til luft hvert annet år.
+Det skal i løpet av midlingstiden foretas minimum 3 prøver med tilstrekkelig varighet pr. prøve til å gi et representativt bilde av utslippene til luft.
+For karbonmonoksid og oksygen kreves kontinuerlig måling med registrering av integrert middelverdi hvert minutt.
+For temperatur i etterbrennkammer og i røykgass kreves kontinuerlig måling og registrering.
+Registreringene både fra årlig kontrollmåling og kontinuerlig måling skal arkiveres i minimum 5 år.
+Resultatet av kontrollen som nevnt i første ledd skal for kategori I-krematorier rapporteres til forurensningsmyndigheten innen 1. mars hvert år. Rapporten skal inneholde omregning/beregning av årlige utslipp og en vurdering av resultatene i forhold til kravene. I rapporten skal det også opplyses om antall kremasjoner. For kategori II-krematorier skal resultatene av kontrollmålingene rapporteres på tilsvarende måte til forurensningsmyndighetene dersom målingene viser avvik fra kravene i dette kapitlet.

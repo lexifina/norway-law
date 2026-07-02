@@ -1,0 +1,3 @@
+# § 26-2. Virksomheter som må ha særskilt tillatelse etter forurensningsloven
+Virksomheter med en produksjonskapasitet for ferdig produkt på mer enn 75 tonn ferdig produkt pr. døgn samt fabrikkskip og virksomheter som produserer fiskeolje, fiskemel eller fiskefôr skal ha særskilt tillatelse fra statsforvalteren etter forurensningslovens § 11, jf. vedlegg I til forurensningsforskriftens kapittel 36 behandling av tillatelser etter forurensningsloven (direktiv 96/61/EF, IPPC).
+Når særlige forhold tilsier det, kan statsforvalteren kreve at også virksomheter som omfattes av dette kapittelet eller som har et forbruk på under 50 tonn råstoff pr. år skal ha særskilt tillatelse etter forurensningslovens § 11.

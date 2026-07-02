@@ -1,0 +1,4 @@
+# § 35-11. Tilsyn
+Miljødirektoratet skal føre tilsyn minst en gang i året inntil tre år etter nedlukking og deretter hvert femte år inntil ansvaret er overdratt til staten. Ved tilsynet skal Miljødirektoratet undersøke relevante injeksjons- og overvåkingsanlegg samt alle relevante virkninger av lagringskomplekset på miljøet og menneskes helse.
+Ikke-rutinemessig tilsyn skal også gjennomføres dersom Miljødirektoratet har fått varsel om eller kjennskap til lekkasje eller vesentlige uregelmessigheter, jf. § 35-12 første ledd eller rapportene etter § 35-10 viser at vilkårene for tillatelse ikke overholdes.
+Etter hvert tilsyn skal Miljødirektoratet utarbeide en rapport om tilsynsresultatene. I rapporten vurderes det hvorvidt dette kapitlets bestemmelser er overholdt, og om ytterligere tiltak er nødvendig. Rapporten skal oversendes operatøren og gjøres tilgjengelig for offentligheten senest to måneder etter gjennomført tilsyn.

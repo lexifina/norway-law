@@ -1,0 +1,5 @@
+# § 13-11. Utforming og drift av renseanlegg
+Renseanlegget skal dimensjoneres, bygges, drives og vedlikeholdes av fagkyndige slik at det har tilstrekkelig yteevne under alle klimatiske forhold som er normale for stedet der det ligger. Ved utformingen av anlegget skal det tas hensyn til variasjoner i mengde avløpsvann i løpet av året. Renseanlegget skal utformes slik at det kan tas representative prøver av det tilførte avløpsvannet og av det rensede avløpsvannet. Det skal være mulig å foreta målinger av mengde avløpsvann.
+Minirenseanlegg skal drives og vedlikeholdes i henhold til skriftlig drifts- og vedlikeholdsavtale, jf. vedlegg 2 punkt 2.3 til kapittel 11. Slamavskillere skal tømmes helt for slam etter behov og ikke sjeldnere enn hvert andre år.
+Det er ikke tillatt å slippe ut avløpsslam eller ristgods i en vannforekomst, verken ved dumping fra skip, utslipp fra rørledninger eller på noen annen måte.
+Henvendelser om problemer utslippet skaper, skal registreres og oppbevares av den ansvarlige i minst fem år.

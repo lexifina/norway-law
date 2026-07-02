@@ -1,0 +1,3 @@
+# § 18-7. Beredskap
+På bakgrunn av miljørisikovurderingen og de forebyggende tiltakene, skal den ansvarlige for lagringen utarbeide en analyse av beredskapsbehovet.
+På bakgrunn av beredskapsanalysen, skal den ansvarlige etablere og vedlikeholde en nødvendig beredskap mot akutt forurensning. Beredskapen skal være tilpasset den miljørisikoen som virksomheten til enhver tid representerer. Beredskapsplanen skal gi en beskrivelse av beredskapen, herunder organisering, innsatsplaner, personell og deres kompetanse, opplæring samt type og mengde materiell. Bedriftens beredskap skal utprøves/testes minst en gang hvert år.

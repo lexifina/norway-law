@@ -1,0 +1,7 @@
+# § 2-9. Gjennomføring av tiltak, rapportering m.m.
+Tiltakshaver skal på ethvert tidspunkt kunne dokumentere at arbeidene skjer i samsvar med bestemmelser i dette kapitlet og med godkjent tiltaksplan. Eventuelle avvik fra tiltaksplanen skal godkjennes av kommunen.
+Umiddelbart etter at tiltakene (med unntak for overvåking) er gjennomført, skal tiltakshaver rapportere til kommunen om gjennomføring av tiltakene i henhold til planen.
+I saker hvor tiltaket ikke utgjør en fullstendig opprydning slik at det fortsatt er forurenset grunn på eiendommen, kan ikke nye terrenginngrep finne sted på den delen av eiendommen hvor det er forurenset grunn, uten at kommunen er varslet og eventuelt har godkjent terrenginngrepet etter bestemmelsene i dette kapittel.
+Kommunen skal etter nærmere retningslinjer fra Miljødirektoratet sørge for rapportering av data til databasen Grunnforurensning som er etablert av Miljødirektoratet. Tiltakshaver skal gi kommunen opplysninger som er nødvendige for denne rapporteringen. Kommunen kan gi bestemmelser om krav til tiltakshavers rapportering.
+Tiltak som betinger eller innebærer overvåking i ettertid, må i tillegg rapporteres i samsvar med godkjent tiltaksplan, og når overvåking er avsluttet.
+Er arbeid ikke satt i gang senest 3 år etter at tiltaksplanen er godkjent av kommunen, må ny tiltaksplan utarbeides og sendes kommunen. Det samme gjelder hvis arbeid innstilles i lengre tid enn 2 år.

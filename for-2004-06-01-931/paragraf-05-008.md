@@ -1,0 +1,3 @@
+# § 5-8. Plikt til å utrede tiltak mot innendørs støy
+Dersom kartleggingen etter § 5-7 viser at det er fare for overskridelse av tiltaksgrensen i § 5-4 nr. 1 i løpet av de kommende 5 år, skal anleggseier senest innen 30. juni 2008 utrede tiltak for å bringe støynivået under denne tiltaksgrensen. Tiltakene skal dimensjoneres med tilfredsstillende ventilasjon, jf. forskrift 22. januar 1997 nr. 33 om krav til byggverk og produkter til byggverk (TEK).
+Utredningen av tiltak skal oppdateres hvert femte år. Forurensningsmyndigheten kan i særlige tilfelle gi pålegg om oppdatering av den foreliggende tiltaksutredningen.

@@ -1,0 +1,6 @@
+# § 36-19. Periodisk vurdering av tillatelsen
+Forurensningsmyndigheten skal på eget initiativ periodisk ta tillatelsen opp til ny vurdering, blant annet i lys av utviklingen av beste tilgjengelige teknikker. Om nødvendig kan forurensningsmyndigheten endre tillatelsen i samsvar med bestemmelser om omgjøring av tillatelser etter forurensningsloven § 18.
+Senest fire år etter offentliggjøring av avgjørelser om BAT-konklusjoner som er relevante for en virksomhet som er omfattet av vedlegg I, skal forurensningsmyndigheten sikre at vilkårene for den berørte virksomheten revurderes og om nødvendig endres slik at de er i overensstemmelse med § 36-15 og at anlegget overholder disse vilkårene.
+Når forurensningsmyndigheten revurderer tillatelsen skal den ta hensyn til alle de nye eller ajourførte BAT-konklusjonene som er relevante for virksomheten og som er vedtatt etter at tillatelsen ble gitt eller senest ble endret.
+Hvis en virksomhet ikke er omfattet av noen av BAT-konklusjonene, skal vilkårene revurderes og om nødvendig endres dersom den beste tilgjengelige teknikk utvikler seg på en slik måte at det blir mulig å senke utslippene vesentlig.
+Forurensningsmyndigheten kan i tillatelsen fastsette at tillatelsen bortfaller dersom den ikke er tatt i bruk innen et nærmere fastsatt tidspunkt.

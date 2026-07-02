@@ -1,0 +1,6 @@
+# § 16-4. Årsgebyr
+Årsgebyret skal enten beregnes på grunnlag av vannforbruk, eller en todelt gebyrordning med en fast og en variabel del. Vannforbruket baseres på målt eller stipulert anslag. For eiendom hvor vannmåler ikke er installert, skal vannforbruket stipuleres på grunnlag av bebyggelsens størrelse. Det stipulerte forbruket skal i størst mulig grad tilsvare reelt forbruk. Det kan dessuten tas hensyn til bebyggelsens art og den bruk som gjøres av den, samt eiendommens størrelse og beskaffenhet.
+Både kommunen og den enkelte gebyrpliktige kan kreve at årsforbruket skal fastsettes ut fra målt forbruk. Den enkelte gebyrpliktige må selv bekoste slik måling, og målingen må utføres med vannmåler etter kommunens anvisning.
+Det kan ikke fastsettes minimumsgebyrer fra 1. januar 2008.
+For eiendom som ikke brukes som bolig, kan det fastsettes særlige regler for gebyrberegning eller inngås særlige avtaler. Den fastsatte eller avtalte beregningsmåte må normalt ikke føre til lavere gebyr enn det som ville bli pålagt etter kommunens ordinære forskrift. Hvis det ikke er fastsatt særlige regler eller inngått særlig avtale, skal årsgebyret, eventuelt den variable delen av årsgebyret, beregnes på grunnlag av målt forbruk.
+For ubebygd tomt kan kommunen fastsette særlige regler for gebyrberegning eller inngå særlige avtaler.

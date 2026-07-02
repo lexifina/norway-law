@@ -1,0 +1,3 @@
+# § 1-8. Nedgravde oljetanker som ikke er i bruk
+Nedgravde oljetanker som midlertidig tas ut av bruk, skal tømmes for olje og sikres slik at utilsiktet påfylling ikke kan forekomme.
+Tanker som permanent tas ut av bruk, skal tømmes og graves opp. Tanker som ikke kan gjenbrukes uten å representere fare for lekkasje, skal destrueres. Kommunen kan i særlige tilfeller gi tillatelse til at tanker som permanent tas ut av bruk, rengjøres og fylles med sand, grus o.l. i stedet for oppgraving. For gjenfylte og oppgravde kondemnerte tanker skal påfyllingsanordningen fjernes eller sikres slik at utilsiktet påfylling eller forsøk på påfylling forhindres.

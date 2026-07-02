@@ -1,0 +1,2 @@
+# § 35-14. Ansvarsoverdragelse
+Etter nedlukking av en lagringslokalitet i samsvar med § 35-13 første ledd bokstav a eller b, kan operatøren kreve at alle forpliktelser vedrørende overvåking og utbedrende tiltak i henhold til kravene i dette kapittel og overføring av kvoter til oppgjør ved en lekkasje dersom dette er påkrevd i henhold til kravene i klimakvoteloven, overføres til staten. Energidepartementet fastsetter nærmere bestemmelser om hvilke vilkår som må være oppfylt for at ansvarsoverdragelse kan finne sted.
