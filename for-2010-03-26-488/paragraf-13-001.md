@@ -1,0 +1,3 @@
+# § 13-1. Organ for sentral godkjenning for ansvarsrett
+Direktoratet for byggkvalitet administrerer ordningen med sentral godkjenning av foretak, herunder registeret over foretak med sentral godkjenning, jf. § 13-7, og innehar i tillegg sekretariatsfunksjonen for klagenemnda for sentral godkjenning for ansvarsrett. Direktoratet for byggkvalitet behandler saker om sentral godkjenning, fornyelse og tilbaketrekking av sentral godkjenning og om overtredelsesgebyr, jf. plan- og bygningsloven § 22-1 – § 22-4 og denne forskrift.
+Direktoratet for byggkvalitet fører tilsyn med sentralt godkjente foretak, og kan i den forbindelse kreve fremlagt dokumentasjon som nevnt i kap. 9, 10, 11 og 13. Dokumentasjon kan også kreves fremlagt av klagenemnda for sentral godkjenning.

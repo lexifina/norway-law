@@ -1,0 +1,2 @@
+# § 7-5. Tidsfrist for statlige og regionale myndigheters saksbehandling
+Statlige og regionale myndigheter må avgi uttalelse eller fatte vedtak innen 4 uker fra oversendelse. Dette gjelder både ved søknad etter plan- og bygningsloven § 20-2 som krever dispensasjon fra plan eller planbestemmelser og ved søknad som kun gjelder dispensasjon. I særlige tilfeller kan kommunen forlenge fristen for disse myndigheter før denne er utløpt.

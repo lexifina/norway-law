@@ -1,0 +1,9 @@
+# § 13-6. Tilbaketrekking av sentral godkjenning for ansvarsrett
+Sentral godkjenning for ansvarsrett skal trekkes tilbake
+a) ved alvorlige eller gjentatte overtredelser av plan- og bygningslovgivningen
+b) når foretaket ikke lenger oppfyller kravene til kvalifikasjoner for sentral godkjenning som følger av denne forskriften
+c) når foretaket gjennom sin praksis viser at det ikke oppfyller de nødvendige kravene til pålitelighet og dugelighet for å være kvalifisert for sentral godkjenning.
+Alvorlig overtredelse kan omfatte forhold som kan føre til overtredelsesgebyr etter plan- og bygningsloven § 32-8 første ledd bokstav a til g og bokstav j, unnlatelse av å etterkomme særskilt pålegg eller forbud gitt i eller med hjemmel i plan- og bygningsloven og unnlatelse av å følge opp henvendelser som gjelder tilsyn. Manglende oppfyllelse av pålitelighet og dugelighet kan omfatte forhold som innsending av uriktige opplysninger, unnlatelse av å gi opplysninger av betydning for behandling av søknad, manglende overholdelse av plikten til å opplyse om ulovlige forhold etter § 12-6 fjerde ledd.
+Ved vurdering av tilbaketrekking på grunnlag av overtredelse av krav gitt i eller med hjemmel i plan- og bygningsloven, og om ny godkjenning skal gis, skal det legges vekt på om feilen eller mangelen i tiltaket er rettet.
+Varsel om tilbaketrekking av sentral godkjenning for ansvarsrett skal sendes skriftlig til foretaket. Foretaket skal gis en frist på minst 2 uker fra varselet er sendt til å uttale seg.
+Før foretak kan få tilbake sentral godkjenning for ansvarsrett, skal det, i tillegg til det som fremgår av plan- og bygningsloven § 22-2 andre ledd, være dokumentert at det er foretatt gjennomgang av kvalitetssikringsrutiner og at nødvendige tiltak er iverksatt for å hindre gjentakelse av avvik fra krav gitt i eller med hjemmel i plan- og bygningsloven, samt at kvalitetssikringsrutinene er i bruk.

@@ -1,0 +1,3 @@
+# § 20-4. Overgangsregel ved Storbritannias uttreden fra Den Europeiske Union
+Denne bestemmelsen kommer til anvendelse dersom Det forente kongerike Storbritannia og Nord-Irland (Storbritannia) trer ut av Den europeiske union (EU) uten en utmeldingsavtale som inneholder en overgangsperiode.
+For norske og andre EØS-borgere som har tatt bygg- eller anleggsfaglig utdannelse i Storbritannia forut for Storbritannias uttreden fra EU, skal denne aksepteres på lik linje som norsk, jf. § 11-2 og § 11-5 andre ledd. Tilsvarende gjelder for norske og andre EØS-borgere som har startet eller er under utdanning i Storbritannia ved Storbritannias uttreden fra EU.

@@ -1,0 +1,2 @@
+# § 7-6. Gebyrbortfall ved kommunens fristoverskridelse
+Ved overskridelse av tidsfristene i § 7-4 bokstav a og plan- og bygningsloven § 21-7 første og fjerde ledd skal kommunen tilbakebetale tiltakshaver 25 % av det totale gebyret for hver påbegynt uke tidsfristen overskrides. Bestemmelsen gjelder ikke dersom det er avtalt særskilte frister eller kommunen har forlenget fristen etter § 7-3. I slike tilfeller inntrer virkninger av fristoverskridelse fra det tidspunkt den avtalte eller forlengede frist overskrides.

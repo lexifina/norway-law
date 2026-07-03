@@ -1,0 +1,2 @@
+# § 20-3. Overgangsbestemmelser for forskriftsendringer i kraft 1. januar 2016
+Foretak kan frem til 1. juli 2027 få fornyet sentral godkjenning på grunnlag av kvalifikasjonskravene som gjaldt før 1. januar 2016, dersom kvalifikasjonskravene oppfylles fullt ut innen 1. juli 2027. Dersom kvalifikasjonskravene ikke er oppfylt innen 1. juli 2027, fatter Direktoratet for byggkvalitet vedtak om bortfall av godkjenningen for godkjenningsområder og tiltaksklasser dette gjelder.

@@ -1,0 +1,8 @@
+# § 5-2. Varsel til naboer og gjenboere
+Når nabo- eller gjenboereiendom er en festet tomt (matrikulert festeenhet), skal både eier og fester varsles.
+Varsel skal inneholde de opplysninger etter § 5-4 som skal gis ved søknad, i den grad det berører naboers eller gjenboeres interesser. Målsatt situasjonsplan, snitt- og fasadetegninger skal vedlegges varselet, med mindre det ikke er relevant. Når tiltaket medfører endret bruk, skal nabovarsel også inneholde opplysninger om tidligere bruk. Dersom tiltaket er avhengig av dispensasjon, skal det opplyses om hvilken bestemmelse det er behov for å dispensere fra. Hvis dispensasjonen berører interesser til naboer eller gjenboere, skal begrunnelsen for søknaden om dispensasjon vedlegges. Nabovarsel og kvittering for nabovarsel kan gis ved elektronisk kommunikasjon, personlig overlevering eller registrert postsending.
+Dersom søknad sendes kommunen senere enn ett år etter utsending av nabovarsel, og det ikke er gitt varsel etter plan- og bygningsloven § 12-10 tredje ledd, skal det sendes nytt nabovarsel til alle naboer og gjenboere.
+Tidsfristen på 5 år etter plan- og bygningsloven § 21-3 femte ledd om unntak fra nabovarsling gjelder fra naboer og gjenboere ble varslet etter plan- og bygningsloven § 12-10.
+Det kreves ikke nabovarsel for innvendige fysiske arbeider i eksisterende byggverk. Det samme gjelder
+a) ved riving av gjenstående deler av eksisterende byggverk som er ødelagt av brann, naturskade, ulykke eller lignende akutt hendelse, eller
+b) der kommunen har gitt pålegg etter plan- og bygningsloven § 31-5 og pålegget ikke omfatter tillatelse til riving.
