@@ -1,0 +1,5 @@
+# § 19-2. Pålegg om dokumentasjon, forhåndskonferanse, tilsyn
+Der det er påviselig at tilstanden til en bevaringsverdig bygning er slik at det kan være aktuelt med pålegg etter denne forskrift, kan kommunen kreve de opplysninger av bygningens eier som er nødvendig for å vurdere grunnlaget for pålegg, og hva pålegget skal gå ut på.
+Kommunen skal tilby forhåndskonferanse. Plan- og bygningsloven § 21-1 og forskriften § 6-1 om forhåndskonferanse gis tilsvarende anvendelse.
+Dokumentasjonen skal vise bygningens tilstand og angi hvilke tiltak som kan iverksettes for å bringe bygningen til en tilstand som i tilstrekkelig grad ivaretar bevaringsverdiene. Eier eller den ansvarlige skal gis anledning til å fremme alternative forslag til bruk og utbedring, eventuelt riving, og skal fremlegge fremdriftsplan for gjennomføringen. Tiltakene kan omfatte bygningens eksteriør, samt fundament, bærende konstruksjoner, og andre bygnings- og vedlikeholdsmessige forhold med betydning for bevaring av bygningen.
+Ved utferdigelse av pålegg om dokumentasjon skal det settes rimelig frist for utarbeidelse av dokumentasjonen.

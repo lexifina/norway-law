@@ -1,0 +1,7 @@
+# § 11-1. Kvalifikasjonskrav og dokumentasjon av kvalifikasjoner
+I erklæring om ansvarsrett skal foretaket bekrefte at faglig ledelse oppfyller krav til relevant utdanning og praksis som følger av kapittel 11, og at faglig ledelse i tiltaket benytter personell med nødvendige og relevante kvalifikasjoner for å gjennomføre det aktuelle tiltaket på en forsvarlig måte slik at krav gitt i eller med hjemmel i plan- og bygningsloven ivaretas. Ved tilsyn skal foretaket dokumentere at faglig ledelse oppfyller krav til utdanning og praksis som angitt i § 11-3.
+Ved søknad om sentral godkjenning for ansvarsrett skal foretaket dokumentere at faglig ledelse er fast ansatt i foretaket og oppfyller krav til relevant utdanning og praksis som er tilpasset det omsøkte godkjenningsområde. Kravene kan dokumenteres på følgende måte:
+a) Utdanning kan dokumenteres ved å legge frem kopi av vitnemål eller kvalifikasjonsbevis som er utstedt av offentlig myndighet i Norge eller annen EØS-stat, og som viser relevant utdanning.
+b) Praksis kan dokumenteres ved referanseprosjekter, attester eller erklæring om ansvarsrett.
+c) Ansettelse kan dokumenteres ved å legge frem skriftlige arbeidsavtaler i henhold til arbeidsmiljøloven § 14-5 og § 14-6.
+Ved erklæring av ansvarsrett, tilsyn med kvalifikasjonene til ansvarlig foretak og vurdering av tilbaketrekking etter § 6-9 første ledd bokstav c, skal relevant sentral godkjenning normalt legges til grunn av kommunen.

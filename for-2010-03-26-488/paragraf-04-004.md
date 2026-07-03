@@ -1,0 +1,4 @@
+# § 4-4. Unntak for utvendig etterisolering av eksisterende småhusbebyggelse
+På eksisterende småhusbebyggelse, jf. § 4-3 tredje ledd andre punktum, er utvendig etterisolering av yttervegg og tak inntil 15 centimeter, inkludert isolasjon, utlekting og ny kledning, unntatt fra krav om søknad, tillatelse og dispensasjon fra krav i arealplan om grad av utnytting. Unntaket gjelder ikke dersom tiltaket krever inngrep i bygningens bærende konstruksjoner, fører til at bygningens karakter endres vesentlig, fører til at et brannskille brytes eller fører til at krav til avstand etter plan- og bygningsloven § 29-4 eller avstandskrav fastsatt i plan ikke lenger er oppfylt.
+Unntaket etter første ledd omfatter flytting av vinduer og dører, også plassering lenger ut i vegglivet, dersom dette er nødvendig som del av etterisoleringen, og ikke i seg selv medfører at bygningens karakter endres vesentlig.
+§ 4-3 fjerde og femte ledd gjelder tilsvarende for tiltak etter paragrafen her.

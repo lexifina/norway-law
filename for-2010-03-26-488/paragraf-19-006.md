@@ -1,0 +1,2 @@
+# § 19-6. Pålegg om sikring
+Hvis det er fare for at bygning som nevnt i § 19-1 kan bli skadet ved brann, hærverk eller lignende, eller forfallet av slike eller andre grunner er kommet så langt at bygningen ikke kan reddes dersom det ikke gripes inn umiddelbart, kan kommunen gi eier eller den ansvarlige pålegg om umiddelbare sikringstiltak for å avverge skade eller ytterligere forfall. Slikt pålegg kan gis uten forhåndsvarsel.

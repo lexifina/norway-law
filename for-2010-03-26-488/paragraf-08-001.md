@@ -1,0 +1,13 @@
+# § 8-1. Ferdigstillelse av tiltak
+Kommunen skal etter søknad utstede ferdigattest for alle søknadspliktige tiltak når vilkårene i plan- og bygningsloven § 21-10 foreligger. Følgende søknadspliktige tiltak skal ikke avsluttes med ferdigattest:
+a) Opprettelse av ny eiendom, festegrunn eller arealoverføring etter plan- og bygningsloven § 20-1 første ledd bokstav m
+b) midlertidige bygninger, konstruksjoner eller anlegg som nevnt i plan- og bygningsloven § 20-4 første ledd bokstav c som ikke skal brukes til varig opphold
+c) Skilt- og reklameinnretninger der tillatelse er gitt for et bestemt tidsrom.
+Ved søknad om ferdigattest skal søker bekrefte at tilstrekkelig dokumentasjon som grunnlag for driftsfasen er overlevert byggverkets eier.
+Der det søkes om midlertidig brukstillatelse, skal søker identifisere gjenstående arbeid, bekrefte at byggverket har, eller innen 14 dager vil få, tilfredsstillende sikkerhetsnivå, og angi tidspunkt for ferdigstillelse. Dersom byggverket ikke har tilfredsstillende sikkerhetsnivå på søknadstidspunktet, skal søker innen 14 dager sende en bekreftelse til kommunen på at kravet er oppfylt.
+Der det kreves gjennomføringsplan, jf. § 5-3, skal denne vedlegges søknad om ferdigattest og midlertidig brukstillatelse. Der det kreves avfallsplan eller rapport fra miljøkartlegging, jf. byggteknisk forskrift § 9-6 og § 9-7, skal sluttrapport som dokumenterer faktisk disponering av avfallet vedlegges søknad om ferdigattest.
+Dersom det er foretatt justeringer i forhold til tillatelsen som ikke krever endringssøknad, skal søker senest ved søknad om ferdigattest eller midlertidig brukstillatelse sende oppdatert situasjonsplan, tegninger og dokumentasjon om tiltakets plassering slik den er utført. Dokumentasjon om tiltakets plassering skal enten skje ved innmålte koordinatverdier eller ved inntegning på tidligere godkjent situasjonsplan.
+For tiltak der søknad om byggetillatelse ble sendt kommunen i perioden fra og med 1. januar 1998 til og med 30. juni 2010, og det er gitt midlertidig brukstillatelse, skal kommunen utstede ferdigattest når det enten:
+a) ikke gjenstod alvorlige forhold etter gitt midlertidig brukstillatelse, og foretak med ansvarsrett for relevant fagområde vurderer og avgir erklæring om at de gjenstående forholdene er utført i samsvar med byggetillatelsen, eller
+b) kun gjenstod forhold av mindre betydning etter gitt midlertidig brukstillatelse, og eier eller tiltakshaver har gitt erklæring om at arbeidene er utført i samsvar med byggetillatelsen.
+Der det søkes om ferdigattest etter bokstav b, avgjør kommunen om gjenstående arbeider er av en slik art at bestemmelsen kan benyttes.

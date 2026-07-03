@@ -1,0 +1,7 @@
+# § 7-4. Tidsfrister ved søknad som kun gjelder dispensasjon
+Følgende tidsfrister gjelder for behandling av søknad som kun gjelder dispensasjon etter plan- og bygningsloven kapittel 19:
+a) søknad om dispensasjon etter plan- og bygningsloven § 19-2 skal avgjøres innen 12 uker. Fristen gjelder fra søknad er mottatt og til vedtak er sendt. Fristen kan forlenges med den tid som medgår til feilretting eller supplering av opplysninger. Fristen løper ikke i den tiden søknaden ligger til uttalelse hos statlige og regionale myndigheter, jf. plan- og bygningsloven § 19-1. Kommunen kan forlenge fristen dersom saken er særlig komplisert, krever ekstra politisk avklaring eller der undersøkelse på barmark er nødvendig.
+b) underretning om ny frist må være sendt søker før utløpet av tidligere fastsatt frist.
+c) klagesaken skal forberedes av kommunen og oversendes klageinstansen så snart saken er tilrettelagt, og senest innen 8 uker. Samme frist gjelder der kommunen tar klagen helt til følge og fatter et nytt vedtak.
+d) klagesak skal avgjøres av klageinstansen innen 12 uker. Klageinstansen kan forlenge fristen i særlige tilfeller. Fristen kan forlenges i inntil 4 uker av gangen. I saker som krever undersøkelse på barmark kan klageinstansen forlenge fristen slik at befaring kan gjennomføres. Ny frist skal meddeles klagesakens parter så snart det er klart at fristen vil bli overskredet.
+e) i klagesak der det er gitt utsatt iverksetting med hjemmel i forvaltningsloven § 42, skal klagen behandles av klageinstansen innen 6 uker.

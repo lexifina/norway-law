@@ -1,0 +1,8 @@
+# § 7-1. Tidsfrister for kommunens og klageinstansens saksbehandling
+I tillegg til saksbehandlingsfristene som fremgår av plan- og bygningsloven § 21-7, gjelder følgende tidsfrister for kommunens og klageinstansens saksbehandling:
+a) Forhåndskonferanse skal avholdes av kommunen innen 2 uker. Der eksisterende byggverk er ødelagt av brann, naturskade, ulykke eller lignende hendelse, skal forhåndskonferanse avholdes innen 5 dager.
+b) Søknad om midlertidig brukstillatelse skal behandles av kommunen innen 3 uker
+c) klagesaker skal forberedes av kommunen og oversendes til klageinstansen så snart saken er tilrettelagt, og senest innen 8 uker. Samme frist gjelder der kommunen tar klagen helt til følge og fatter et nytt vedtak. Fristen gjelder for klage i alle byggesaker, herunder klage i byggesaker der tiltaket krever dispensasjon fra bestemmelser gitt i eller med hjemmel i plan- og bygningsloven
+d) klagesaker skal avgjøres av klageinstansen innen 12 uker. Fristen gjelder for klage i alle byggesaker, herunder klage i byggesaker der tiltaket krever dispensasjon fra bestemmelser gitt i eller med hjemmel i plan- og bygningsloven
+e) I klagesak der det er gitt utsatt iverksetting med hjemmel i forvaltningsloven § 42, skal klagen behandles av klageinstansen innen 6 uker. Dette gjelder uansett om det er kommunen eller klageinstansen som har besluttet utsatt iverksetting
+f) Kommunens godkjenning av planer og foreløpig beregning av refusjon etter plan- og bygningsloven § 18-8 skal skje innen 6 uker. Samme frist gjelder for kommunens fastsetting av refusjon etter plan- og bygningsloven § 18-9.

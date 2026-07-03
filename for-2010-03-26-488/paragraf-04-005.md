@@ -1,0 +1,4 @@
+# § 4-5. Etablering av ladestasjoner som ikke krever søknad og tillatelse
+Etablering av frittliggende ladestasjoner for el-biler og el-fartøyer er unntatt fra krav om søknad og tillatelse når ladestasjonen skal etableres på et areal som i kommuneplanens arealdel eller en reguleringsplan er avsatt til bensinstasjon, parkeringsplass, havn eller kaianlegg, og ladestasjonens samlede størrelse ikke overstiger 50 m2 bruksareal (BRA) eller bebygd areal (BYA). Unntaket gjelder også når arealet ikke er bebygd.
+Med ladestasjon menes ladepunkter, tekniske installasjoner, strømskap, eventuelle ladeskur eller takoverbygg, tilhørende oppstillingsplasser som inngår i ladestasjonen, og annet som omfattes av tiltaket.
+Vilkårene i § 4-1 første ledd og plan- og bygningsloven § 30-4 gjelder tilsvarende så langt de passer. § 4-3 fjerde og femte ledd gjelder tilsvarende for tiltak etter paragrafen her.

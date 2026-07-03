@@ -1,0 +1,4 @@
+# § 17-7. Kommunens vedtak om foreløpig beregning av refusjon
+Ved godkjenning skal kommunen vurdere tiltakshavers angivelse av tiltaket og eiendommer og arealer som anses refusjonspliktige, herunder at de refusjonspliktige får oppfylt sin egen forpliktelse etter plan- og bygningsloven § 18-1 og at det lovlig kan kreves tilknytning til anlegget gjennom privat anlegg. For anlegg som nevnt i plan- og bygningsloven § 18-2 skal kommunen tilsvarende påse at tiltaket tjener de refusjonspliktige.
+Finner kommunen grunnlag for å gjøre endringer i planene for utførelse, kostnadsoverslaget eller forslaget til fordeling, skal kommunen rette dette.
+Medfører kommunens vurdering at ny refusjonspliktig eiendom inkluderes i saken, eller at forslaget til fordeling øker med mer enn 15 % for noen eiendom, skal saken returneres til tiltakshaver som sender fordelingsforslaget til berørte grunneiere og festere for ny uttalelse.

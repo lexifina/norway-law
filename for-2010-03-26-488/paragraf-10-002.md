@@ -1,0 +1,3 @@
+# § 10-2. Dokumentasjon for oppfyllelse av kvalitetssikringsrutiner
+I erklæring om ansvarsrett skal foretaket bekrefte at det vil bruke tilstrekkelige kvalitetssikringsrutiner tilpasset det aktuelle tiltaket for å løse de oppgavene det påtar seg. Ved tilsyn skal foretaket dokumentere at det oppfyller krav til rutiner som angitt i § 10-1 første ledd.
+Foretak eller andre skal ved søknad om sentral godkjenning for ansvarsrett, skriftlig og på en oversiktlig måte, dokumentere at det oppfyller krav til kvalitetssikringsrutiner som angitt i § 10-1 annet ledd. Dokumentasjonen kan kreves fremlagt i en nærmere angitt form som viser hvordan kravene er ivaretatt, jf. § 5-1 tredje ledd.
