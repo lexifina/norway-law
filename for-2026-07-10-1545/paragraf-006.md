@@ -1,0 +1,6 @@
+# § 6. Krav til dokumentasjon ved manglende omregningsfaktorer
+Dersom et fartøy skal produsere et nytt produkt om bord eller høste en art som ikke er angitt i Fiskeridirektoratets tabeller over omregningsfaktorer for produkter av ulike arter fra produktvekt til rund vekt, eller fra antall individ til rund vekt, skal den ansvarshavende om bord på fartøyet dokumentere og beskrive produktet eller den bestemte arten.
+For fisk som skal bearbeides om bord, skal dokumentasjonen inneholde art, produkttilstand, inkludert skisse eller bilde av produktet. Målinger av produktets vekt i de ulike trinnene i produksjonen skal angis. Det skal i tillegg gis en beskrivelse av prosess og maskiner som benyttes for å produsere det nye produktet om bord.
+For de tilfeller der nødvendig omregningsfaktor ikke er gitt i Fiskeridirektoratets tabell over omregningsfaktorer fra antall individ til rund vekt, skal den ansvarshavende om bord på fartøyet angi art, kjønn og vekt av et representativt antall individer.
+Dokumentasjonen skal sendes til Fiskeridirektoratet senest 14 dager før turen starter.
+Fiskeridirektoratet kan kreve ytterligere dokumentasjon ved behov. Fartøyet skal bruke den omregningsfaktoren Fiskeridirektoratet fastsetter på bakgrunn av innsendt dokumentasjon.
