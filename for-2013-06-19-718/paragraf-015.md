@@ -1,0 +1,2 @@
+# § 15. Kontroll med sertifiserte foretak
+Direktoratet for eksportkontroll og sanksjoner vil minst hvert tredje år kontrollere at mottakende foretak oppfyller kravene for sertifisering, jf. § 13, 2. ledd, samt eventuelle vilkår fastsatt i sertifikatet, jf. § 14. Dersom det sertifiserte foretaket ikke lenger oppfyller kravene vil Direktoratet for eksportkontroll og sanksjoner pålegge foretaket å iverksette tiltak for å sikre oppfyllelse av samtlige krav og vilkår. Direktoratet for eksportkontroll og sanksjoner kan også suspendere eller tilbakekalle sertifiseringen.
