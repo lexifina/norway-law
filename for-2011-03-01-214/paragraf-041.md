@@ -1,0 +1,3 @@
+# § 41. Krav til botid for søker som har vært bosatt i utlandet
+Det kreves fem års sammenhengende botid i Norge for å kunne få godkjent bakgrunnssjekk. Kravet til botid gjelder likevel ikke for personer som har hatt opphold i et EØS-land og som kan legge frem politiattest fra EØS-landet for de siste fem år.
+Dersom søker har særlig arbeidstilknytning til norsk luftfart, kan Luftfartstilsynet etter en konkret og individuell helhetsvurdering godkjenne søknad om bakgrunnssjekk selv om søkeren ikke oppfyller kravet i første ledd. Politiattest fra alle bostedsstater for de siste fem år må fremlegges.

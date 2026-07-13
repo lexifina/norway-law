@@ -1,0 +1,2 @@
+# § 6. Opplæring
+Lufthavnoperatør, sikkerhetsgodkjent fraktleverandør, kjent avsender, sikkerhetsgodkjent leverandør av forsyninger til flygingen og luftfartsselskap som anvender personer som gjennomfører eller er ansvarlige for å gjennomføre sikkerhetstiltak, er ansvarlig for at nevnte personer oppfyller kravene i forordning (EU) 2015/1998 vedleggets kapittel 11, såfremt ikke annet er bestemt i forskriften.

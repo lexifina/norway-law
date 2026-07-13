@@ -1,0 +1,3 @@
+# § 53. Standard bakgrunnssjekk
+Formålet med bestemmelsene i dette kapitlet er å sikre at personer som skal godkjennes for sentrale posisjoner, eller som har adgang til eller ansvar for sikkerhetskontroll av frakt, post, forsyninger og andre gjenstander som skal inn på sikkerhetsbegrenset område, ikke representerer en risiko for sikkerheten i luftfarten. Bestemmelsene skal også bidra til å sikre allmennhetens tillit til sivil luftfart.
+Luftfartstilsynet foretar standard bakgrunnssjekk av personer i virksomheter som utfører oppgaver som nevnt i forordning (EU) 2015/1998 punkt 11.1.2, eller hvor det i forskrift eller enkeltvedtak er stilt krav om at deres personell må bestå kravene til standard bakgrunnssjekk.
