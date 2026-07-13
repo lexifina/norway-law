@@ -1,0 +1,2 @@
+# § 11. Global overføringslisens
+Ved overføring av forsvarsrelaterte varer som ikke omfattes av en generell overføringslisens, kan Direktoratet for eksportkontroll og sanksjoner, etter skriftlig søknad fra leverandør i Norge, utferdige en global overføringslisens. Lisensene gis for en periode på tre år med mulighet for forlengelse. Globale overføringslisenser gjelder bestemte forsvarsrelaterte varer eller kategorier av varer til mottakere eller kategori av mottakere i en eller flere EØS-stater. Det kan settes særlige vilkår for lisensene.

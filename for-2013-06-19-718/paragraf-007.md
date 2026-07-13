@@ -1,0 +1,6 @@
+# § 7. Lisensplikt for øvrige varer, teknologi og tjenester
+I tillegg til vedlegg til denne forskrift er eksport av følgende varer, teknologi og tjenester lisenspliktige:
+a) enhver vare, teknologi og tjenesteytelse der eksportøren er kjent med eller har grunn til å forstå at varen, teknologien eller tjenesten er eller kan være ment, helt eller delvis, for bruk i forbindelse med utvikling, produksjon, håndtering, drift, vedlikehold, lagring, deteksjon, identifikasjon eller spredning av kjemiske, biologiske eller kjernefysiske våpen eller andre kjernefysiske sprengelementer. Tilsvarende regler gjelder for eksport av enhver vare, teknologi eller tjeneste som kan benyttes til utvikling, produksjon, vedlikehold eller lagring av missiler som kan levere slike våpen,
+b) enhver vare, teknologi eller tjeneste til militær bruk til områder som er underlagt våpenembargo vedtatt av FNs sikkerhetsråd med hjemmel i FN-paktens kapittel VII eller andre tiltaksregimer Norge har sluttet seg til,
+c) enhver vare, teknologi og tjeneste til militær bruk til områder hvor det er krig, krig truer eller til land hvor det er borgerkrig.
+d) enhver vare, teknologi og tjeneste som direkte kan tjene til å utvikle en stats militære evne på en måte som ikke er forenlig med vesentlige norske sikkerhets- og forsvarsinteresser.
