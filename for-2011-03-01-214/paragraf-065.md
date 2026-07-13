@@ -1,0 +1,2 @@
+# § 65. Beskyttelse av informasjon
+Enhver som får tilgang til kommisjonsbeslutningen og de deler av sikkerhetsprogrammene eller annen informasjon som må beskyttes av hensyn til sikkerheten i luftfarten som ledd i arbeid eller oppdrag for en virksomhet, plikter å hindre at uvedkommende får kjennskap til informasjonen. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller oppdraget. Informasjon skal bare gjøres tilgjengelig til personer som har tjenstlig behov for den.

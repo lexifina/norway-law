@@ -1,0 +1,2 @@
+# § 20. Alternativ sikkerhetskontroll av visse persongrupper og deres håndbagasje
+Den Kongelige Politieskorte eller politiets livvakttjeneste, kongefamilien og deres adjutanter, statsminister og utenlandske statsoverhoder og deres adjutanter, politi- og tolltjenestepersoner i tjeneste på lufthavnen, samt nevnte gruppers håndbagasje, er underlagt alternativ sikkerhetskontroll. Det samme gjelder kjøretøy benyttet av nevnte grupper, såfremt vilkårene i forordning (EU) 2015/1998 vedleggets punkt 1.4.4.1 er oppfylt.

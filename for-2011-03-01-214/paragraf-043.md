@@ -1,0 +1,2 @@
+# § 43. Utvidet karantenetid ved flere rettskraftige avgjørelser
+Er det flere rettskraftige avgjørelser på politiattesten, skal det gis et påslag i karantenetiden med 1 år per avgjørelse, likevel begrenset til 4 års påslag. Det skal ikke legges vekt på rettskraftige avgjørelser som ligger mer enn 5 år tilbake i tid regnet fra avgjørelsen som danner utgangspunktet for beregning av karantenetiden. Påslag i karantenetiden gis ikke for forhold som faller inn under § 42 første ledd bokstav f.
