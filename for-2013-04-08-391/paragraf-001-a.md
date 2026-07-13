@@ -1,0 +1,2 @@
+# § 1a. Krav til bruk av påstander i forbindelse med kosmetiske produkter etter artikkel 20(2) i forordning (EF) nr. 1223/2009
+EØS-avtalen vedlegg II kap. XVI nr. 1b (forordning (EU) nr. 655/2013) om fastsettelse av felles kriterier for begrunnelse av påstander brukt om kosmetiske produkter, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

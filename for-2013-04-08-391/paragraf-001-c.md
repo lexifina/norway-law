@@ -1,0 +1,2 @@
+# § 1c. Ordliste over vanlige navn på bestanddeler til bruk ved merking av kosmetiske produkter
+EØS-avtalen vedlegg II kap. XVI nr. 1ab (beslutning (EU) 2025/1175) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EF) nr. 1223/2009 med hensyn til ordlisten over vanlige navn på bestanddeler til bruk ved merking av kosmetiske produkter gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

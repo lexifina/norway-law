@@ -1,0 +1,2 @@
+# § 1b. Retningslinjer for vedlegg I til forordning (EF) nr. 1223/2009 med hensyn til sikkerhetsrapporter for kosmetiske produkter
+EØS-avtalen vedlegg II kap. XVI nr. 1aa (beslutning 2013/674/EU) om retningslinjer for vedlegg I til forordning (EF) nr. 1223/2009 med hensyn til sikkerhetsrapporter for kosmetiske produkter, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
