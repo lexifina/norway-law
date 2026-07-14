@@ -1,0 +1,2 @@
+# § 1. Virkeområde
+Kommisjonen utpeker EU-referanselaboratorier ved hjelp av gjennomføringsrettsakter i henhold til forskrift 3. mars 2020 nr. 704 om offentlig kontroll for å sikre etterlevelse av regelverket for mat, fôr, plantevernmidler, dyrehelse og dyrevelferd (kontrollforskriften), artikkel 93. Kommisjonen offentliggjør og ajourfører listen over EU-referanselaboratoriene (forordning (EU) nr. 2017/625, artikkel 94). I denne forskriften gjennomføres EUs rettsakter om opprettelse av referanselaboratorier i norsk rett.

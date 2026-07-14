@@ -1,0 +1,3 @@
+# § 2a. Opprettelse og utpeking av EUs referanselaboratorium for næringsmiddelforbedringsmidler
+Forordning (EU) 2024/1004 om opprettelse av EUs referanselaboratorium for næringsmiddelforbedringsmidler, som inntatt i EØS-avtalen vedlegg II kapittel XII nr. 164zj, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Beslutning (EU) 2024/1941 om utpeking av EUs referanselaboratorium for næringsmiddelforbedringsmidler, som inntatt i EØS-avtalen vedlegg II kapittel XII nr. 164zk, gjelder som forskrift. Beslutningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
