@@ -1,0 +1,3 @@
+# § 2. Opprettelse og utpeking av EUs referanselaboratorium for Rift Valley Fever
+Forordning (EU) 2021/2156 om opprettelse av EUs referanselaboratorium for Rift Valley Fever, som inntatt i EØS-avtalen vedlegg I kapittel I del 3.1 nr. 51, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning (EU) 2022/2304 om utpeking av EUs referanselaboratorium for Rift Valley Fever, som inntatt i EØS-avtalen vedlegg I kapittel I del 3.2. nr. 52, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
