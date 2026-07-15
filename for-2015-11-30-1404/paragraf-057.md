@@ -1,0 +1,3 @@
+# § 57. BLOS-flyging opp til 120 meter i luftrom klasse G
+BLOS-flyging opp til 120 meter i luftrom klasse G eller luftrom klasse G med etablert Radio Mandatory Zone (RMZ), kan kun skje hvis det er utstedt NOTAM for å informere om aktiviteten. NOTAM skal være utstedt minst 12 timer før aktiviteten påbegynnes.
+BLOS-flyging i luftrom klasse G med etablert Radio Mandatory Zone (RMZ) kan i særlige tilfeller likevel skje etter tillatelse fra flygeinformasjonstjenesten og på de vilkår som flygeinformasjonstjenesten setter. Flygeinformasjonstjenesten kan kun gi tillatelse til slik flyging hvis det er klart at flygingen kan gjennomføres sikkert og uten å hindre øvrig lufttrafikk.

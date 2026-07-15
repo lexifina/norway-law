@@ -1,0 +1,3 @@
+# § 73. Dispensasjon
+Luftfartstilsynet kan, hvor formålet er forskning på og utvikling av luftfartøy uten fører om bord eller statsluftfart som nevnt § 69, gi tillatelse til operasjoner eller testflyging selv om vilkår som følger av luftfartsloven med tilhørende forskrifter ikke er oppfylt.
+Luftfartstilsynet kan dispensere fra bestemmelsene i denne forskriften dersom den som søker kan godtgjøre at sikkerheten kan ivaretas like godt som etter forskriften, og unntaket ikke medfører at andre vesentlige hensyn bestemmelsen skal ivareta tilsidesettes. Søknaden skal inneholde en risikovurdering sammen med en vurdering av eventuelle sikkerhetskompenserende tiltak.
