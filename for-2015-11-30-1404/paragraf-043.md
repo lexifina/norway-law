@@ -1,0 +1,2 @@
+# § 43. Nærmere om testprogram
+Operatør kan ikke igangsette testprogram for et luftfartøy eller system før testprogrammet er godkjent av Luftfartstilsynet. Søknad om godkjenning skal inneholde en beskrivelse av systemtesten, blant annet hvilken operasjonstype som systemet skal testes for, hvor testprogrammet skal gjennomføres, sikkerhetsdokumentasjon for gjennomføring av testprogrammet og sjekkliste for vitale testpunkter.

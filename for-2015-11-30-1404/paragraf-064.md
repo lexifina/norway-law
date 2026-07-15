@@ -1,0 +1,3 @@
+# § 64. BLOS-flyging høyere enn 120 meter i luftrom klasse G
+BLOS-flyging høyere enn 120 meter i luftrom klasse G eller luftrom klasse G med etablert Radio Mandatory Zone (RMZ), kan kun skje i aktive fare- eller restriksjonsområder.
+BLOS-flyging i luftrom klasse G med etablert Radio Mandatory Zone (RMZ) kan i særlige tilfeller likevel skje etter tillatelse fra flygeinformasjonstjenesten og på de vilkår som flygeinformasjonstjenesten setter. Flygeinformasjonstjenesten kan kun gi tillatelse til slik flyging hvis det er klart at flygingen kan gjennomføres sikkert og uten å hindre øvrig lufttrafikk.
