@@ -1,0 +1,7 @@
+# § 19. Rapportering
+Tilsynspersonen skal utarbeide rapport etter hvert tilsyn. Rapporten skal gi en vurdering av barnets situasjon i fosterhjemmet, og skal omtale
+a) hva vurderingene av barnets situasjon bygger på
+b) hvordan barnet er gitt mulighet til å uttrykke sine synspunkter, om det har vært samtaler med barnet og innholdet i disse
+c) om det bør innhentes ytterligere informasjon fra miljøer som barnet er i.
+Rapporten sendes umiddelbart til fosterhjemskommunen som kontrollerer at rapporten gir tilstrekkelig informasjon til at formålet med tilsynet må anses ivaretatt. Dersom tilsynspersonen vurderer at det er alvorlige mangler ved barnets omsorgssituasjon i fosterhjemmet skal rapporten samtidig sendes i kopi til barnevernstjenesten i omsorgskommunen. Har rapporten mangler, skal tilsynspersonen skrive tilleggsrapport, og om nødvendig foreta supplerende vurderinger. Fosterhjemskommunen videresender godkjent rapport til barnevernstjenesten i omsorgskommunen, og kopi til barnevernstjenesten i fosterhjemskommunen og til Bufetat ved tilsyn med barn i fosterhjem som etaten tilbyr. Når rapporten viser alvorlige mangler i barnets omsorgssituasjon, skal fosterhjemskommunen sende kopi av rapporten til statsforvalter.
+Barnevernstjenesten i omsorgskommunen skal følge opp rapporten, og umiddelbart følge opp forhold som gir grunn til bekymring. Fosterhjemskommunen skal ved etterfølgende tilsyn kontrollere at forholdene er fulgt opp.

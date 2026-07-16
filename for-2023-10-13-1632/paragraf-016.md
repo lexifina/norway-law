@@ -1,0 +1,5 @@
+# § 16. Tilsyn med barn i fosterhjem
+Fosterhjemskommunen skal føre tilsyn med at barnet får forsvarlig omsorg, og at forutsetningene i vedtaket følges opp. Dette omfatter også tilsyn med at barnets etniske, kulturelle, språklige og religiøse bakgrunn ivaretas på en hensiktsmessig måte, herunder samiske barns særskilte rettigheter.
+Fosterhjemskommunen skal føre tilsyn med barn i fosterhjem fra barnet flytter inn i fosterhjemmet, og frem til barnet fyller 18 år. Det skal gå klart frem av fosterhjemskommunens delegasjonsreglement hvilken instans i kommunen som skal føre tilsynet.
+Fosterhjemskommunen og omsorgskommunen kan skriftlig avtale at omsorgskommunen skal føre tilsyn.
+Omsorgskommunen skal ved godkjenning av fosterhjemmet, orientere både barnet og fosterforeldrene om fosterhjemskommunens ansvar for tilsynet og hvem som skal føre tilsyn. Barnet skal informeres om at det når som helst kan ta opp problemer i fosterhjemmet eller i forholdet til barnevernstjenesten. Barnets foreldre må også få slik informasjon. Dersom det ikke er hensyn som taler mot det, bør foreldrene få informasjon om hvem som skal føre tilsyn.
