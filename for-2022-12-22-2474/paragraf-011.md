@@ -1,0 +1,2 @@
+# § 11. Regnskapsplikt og revisjon
+Private institusjoner har plikt til å føre regnskap etter regnskapsloven. Disse institusjonenes årsregnskap skal revideres av statsautorisert eller registrert revisor. Kommunale institusjoner skal føre årsregnskap i henhold til kommuneloven og forskrifter til denne. Barne-, ungdoms- og familieetaten og statsforvalteren har rett til innsyn i regnskapene til private og kommunale institusjoner
