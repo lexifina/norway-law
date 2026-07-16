@@ -1,0 +1,5 @@
+# § 5. Stedlig tilsyn
+Som del av tilsynet skal statsforvalteren føre stedlig tilsyn på institusjoner så ofte som nødvendig, men minst to gang hvert år. Barnevernsinstitusjoner som tar imot barn med vedtak etter barnevernsloven § 4-4, § 6-1, § 6-2 og § 6-6 skal det føres stedlig tilsyn med minst fire ganger hvert år.
+Tilsynet skal legges til et tidspunkt der det kan forventes at barna er til stede på institusjonen.
+Statsforvalteren skal sørge for at det enkelte barn gis tilstrekkelig og tilpasset informasjon om tilsynet, herunder om at barnet kan ta kontakt med statsforvalteren også utenom det regelmessige stedlige tilsynet.
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at statsforvalteren skal kunne prioritere sine tilsynsoppgaver på en formålstjenlig og forsvarlig måte, kan statsforvalteren uten hinder av minstekravene i første ledd, vurdere hvor mange årlige tilsyn som skal føres ved besøk i det enkelte omsorgssenteret eller familiebaserte botilbudet.

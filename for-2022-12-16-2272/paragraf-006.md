@@ -1,0 +1,3 @@
+# § 6. Tilsynssamtaler
+Statsforvalteren skal ved stedlig tilsyn kontakte det enkelte barn og gi barnet tilstrekkelig og tilpasset informasjon om tilsynet. Dette gjelder også barn som ikke var til stede ved tilsynet. Barnet skal informeres om retten til å snakke med statsforvalteren alene dersom barnet ønsker det. Statsforvalteren skal legge til rette for at barnet fritt kan uttale seg om alle sider ved institusjonsoppholdet, og gjennomføres på en måte som er tilpasset barnets alder og modenhet. Barnet skal gis informasjon om retten til å klage til statsforvalteren etter barnevernsloven § 10-16, om videre oppfølgning og om hvordan opplysninger fra barnet kan bli benyttet.
+Ved tilsyn med samiske barn skal tilsynsmyndigheten ha samisk språklig eller kulturell kompetanse.
