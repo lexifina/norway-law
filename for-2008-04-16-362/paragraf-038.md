@@ -1,0 +1,5 @@
+# § 38. Tap eller utskifting av bevis for yrkessjåførkompetanse mv.
+Person som har mistet eller er blitt frastjålet bevis for yrkessjåførkompetanse kan få utstedt nytt bevis. Bevis for yrkessjåførkompetanse som på grunn av navneskifte eller fysisk tilstand ikke lenger kan brukes som dokumentasjon skal skiftes ut.
+For person som har bevis for yrkessjåførkompetanse ved avmerking av harmonisert EØS-fellesskapskode i førerkortet gjelder reglene i forskrift 19. januar 2004 nr. 298 om førerkort m.m. kapittel 7.
+For person som har særskilt bevis for yrkessjåførkompetanse gjelder reglene for utstedelse av nytt bevis som for førerkort i forskrift 19. januar 2004 nr. 298 om førerkort m.m. kapittel 7 tilsvarende så langt de passer.
+Når særskilt bevis for yrkessjåførkompetanse er på et sted det ikke med rimelighet kan forlanges at blir hentet straks, kan midlertidig dokumentasjon utstedes. Skjema for midlertidig kjøretillatelse med særlig merknad om yrkessjåførkompetanse benyttes, jf. forskrift 19. januar 2004 nr. 298 om førerkort m.m. kapittel 7.

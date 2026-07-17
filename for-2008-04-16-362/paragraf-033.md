@@ -1,0 +1,3 @@
+# § 33. Reaksjonsmidler overfor undervisningsansvarlig og undervisningspersonell
+Statens vegvesen kan gi undervisningsansvarlig og undervisningspersonell advarsel eller pålegg som anses nødvendig for at vedkommende skal opptre i samsvar med regler gitt i forskriften. Dersom undervisningsansvarlig eller undervisningspersonell ikke etterkommer advarselen eller pålegget, kan Statens vegvesen midlertidig eller permanent kalle tilbake godkjenningen. Reaksjonsmidler overfor undervisningspersonell gjelder fra 1. juli 2022.
+Ved alvorlig brudd på undervisningsansvarligs plikter etter forskriften, kan Statens vegvesen kalle tilbake godkjenning uten forutgående advarsel eller pålegg.

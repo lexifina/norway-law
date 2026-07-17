@@ -1,0 +1,5 @@
+# § 11. Utvidelse av kompetanseområde og aldersbegrensede rettigheter
+Ved å gjennomføre 70 timer utdanning, hvor 5 timer utgjør individuell kjøretrening, og bestå teoretisk prøve i emner relatert til persontransport kan yrkessjåførkompetanse for godstransport utvides til også å gjelde persontransport. På tilsvarende måte kan yrkessjåførkompetanse for persontransport utvides til også å gjelde godstransport.
+Yrkessjåførkompetanse kan også utvides ved å gjennomføre 35 timer komprimert utdanning, hvor 5 timer utgjør individuell kjøretrening og bestå teoretisk prøve i emner relatert til person- eller godstransport. Dette gjelder uavhengig av om grunnleggende yrkessjåførkompetanse er oppnådd ved fullstendig eller komprimert utdanning. Utvidet yrkessjåførkompetanse ved 35 timers komprimert utdanning er underlagt aldersbegrensningene i § 9.
+Kompetanseutvidelse kan foretas når som helst i kompetansebevisets gyldighetstid, jf. § 35.
+Utvidelse av yrkessjåførkompetanse skal ikke medføre repetisjon av emner fra grunnutdanningen.
