@@ -1,0 +1,2 @@
+# § 2. Førerkortmodell
+Førerkortet skal ha to sider og være utformet i samsvar med den modell som er inntatt i direktiv 2006/126/EF vedlegg 1, som senest er endret ved direktiv 2011/94/EU og med de tilpasninger som følger av denne forskrift og av EØS-komiteens beslutning nr. 110/2012, jf. vedlegg 3 og 4 til denne forskrift. Eventuell mikrobrikke i førerkortet skal tilfredsstille kravene i forordning (EU) nr. 383/2012 som endret ved forordning (EU) nr. 575/2014. Førerkortet skal inneholde sikkerhetselementer.

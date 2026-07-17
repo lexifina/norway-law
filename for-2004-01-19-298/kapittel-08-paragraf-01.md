@@ -1,0 +1,3 @@
+# § 8-1. Førerkort fra annen EØS-stat
+Førerkort som er utstedt i en annen EØS-stat, er gyldig her i landet i samsvar med sitt innhold med de unntak som følger av denne forskriften. Føreretten er begrenset til de internasjonale klassene som er nevnt i § 3-1 og rettigheter som følger av beslutning (EU) 2016/1945. Førerkort som er utstedt i en annen EØS-stat etter innbytte av førerkort fra et land utenfor EØS, kan brukes i Norge i inntil 3 måneder.
+«Midlertidig kørekort» og «turistkørekort» utstedt i Danmark samt «tilfälligt körkort» utstedt i Finland, gjelder også under midlertidig opphold her i landet.

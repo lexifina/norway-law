@@ -1,0 +1,3 @@
+# § 1-4. Diplomater m.m.
+Utenlandske statsborgere tilknyttet diplomatisk eller konsulær stasjon i Norge og utenlandske statsborgere tilknyttet NATO eller Partnerskap for Fred kan med gyldig førerkort føre norsk- eller utenlandsregistrert kjøretøy som førerkortet gjelder for i den tid de tjenestegjør her. Tilsvarende gjelder for ektefelle, barn eller andre husstandsmedlemmer til forannevnte personer.
+Utenlandske statsborgere tilknyttet NATO eller Partnerskap for Fred skal med kjøretillatelse eller militært førerbevis utstedt av sendestatens myndigheter, ha førerett for norsk- og utenlandsregistrert kjøretøy i den tid de tjenestegjør her. Føreretten gjelder kun for den tid kjøretøyet blir benyttet til utførelse av tjenesteplikter.

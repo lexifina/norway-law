@@ -1,0 +1,3 @@
+# § 46. Overgangsregel helseattest
+Helseattest som er utstedt før 1. oktober 2016, kan benyttes ved søknad om førerett til og med 31. mars 2017. Helseattestens konklusjon legges til grunn uten vurdering opp mot nye helsekrav. Helseattesten må ved innlevering ikke være eldre enn seks måneder. Førerettens gyldighet settes ut fra datoen for utstedelse av helseattesten.
+Helseattest som er utstedt før 1. oktober 2016, som er benyttet ved utstedelse av et førerkort før 1. april 2017, kan benyttes igjen ved søknad om utvidelse til ny tung klasse når søknad leveres før 1. april 2017. Førerettens gyldighet beregnes ut ifra resterende gyldighet på den førerett som allerede er gitt.

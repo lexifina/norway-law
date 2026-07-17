@@ -1,0 +1,9 @@
+# § 12-10. Særregler for lærlinger og andre som har fullført godkjent opplæring etter yrkessjåførforskriften § 8 og § 9
+Minstealder for utstedelse av førerkort i klasse C og CE ved bestått teoriprøve etter fullstendig grunnutdanning for yrkessjåførkompetanse godstransport er 18 år.
+Minstealder for utstedelse av førerkort i klasse C og CE for lærlinger i yrkessjåførfaget er 18 år. Dette må dokumenteres med gyldig lærekontrakt med godkjent lærebedrift etter opplæringslova.
+Minstealder for utstedelse av førerkort i klasse D1, D1E, D og DE for lærlinger i yrkessjåførfaget er 18 år. Dette må dokumenteres med gyldig lærekontrakt med godkjent lærebedrift etter opplæringslova. Vedkommende kan utføre persontransport i rute oppad begrenset til 50 km rutelengde eller uten passasjerer i klasse D eller DE.
+Minstealder for utstedelse av førerkort i klasse D1, D1E, D og DE med bestått fagprøve og bestått teoriprøve etter fullstendig grunnutdanning for yrkessjåførkompetanse innen persontransport er fylte 20 år.
+Minstealder for utstedelse av førerkort i klasse D og DE ved bestått teoriprøve etter fullstendig komprimert grunnutdanning for yrkessjåførkompetanse persontransport er 21 år.
+Minstealder for utstedelse av førerkort i klasse D og DE ved bestått teoriprøve etter komprimert grunnutdanning for yrkessjåførkompetanse persontransport er 21 år. Vedkommende kan utføre persontransport i rute oppad begrenset til 50 km rutelengde.
+Minstealder for utstedelse av førerkort i klasse D og DE ved bestått teoriprøve etter komprimert grunnutdanning for yrkessjåførkompetanse persontransport er 23 år.
+Kjøring med førerkort i klassene nevnt over før oppnådd ordinær minstealder etter § 3-1, er bare gyldig etter fullført yrkessjåførkompetanse eller med gyldig lærekontrakt med godkjent lærebedrift etter opplæringslova. Dette må medbringes under kjøring.

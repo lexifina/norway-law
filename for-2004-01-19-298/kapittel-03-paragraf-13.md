@@ -1,0 +1,3 @@
+# § 3-13. Førerett i klasse C1E
+Førerett i klasse C1E gjelder for klasse BE og for vogntog bestående av motorvogn som omfattes av § 3-8 første ledd nr. 1 og tilhenger med tillatt totalvekt over 750 kg. Vogntogets samlede tillatte totalvekt må ikke overstige 12 000 kg. Føreretten gjelder også for vogntog bestående av motorvogn som omfattes av § 3-5 første ledd nr. 1 (klasse B) og tilhenger med tillatt totalvekt over 3 500 kg forutsatt at vogntogets samlede tillatte totalvekt ikke overstiger 12 000 kg.
+I Norge omfatter føreretten også føring av traktor og motorredskap hvor kjøretøyenes tillatte totalvekt er over 3 500 kg, men høyst 7 500 kg, eventuelt med tilhenger.

@@ -1,0 +1,4 @@
+# § 4-6. Utfasing av førerkort utstedt før 19. januar 2013
+Førerkort utstedt før 1. april 1979, er ikke gyldig for kjøring fra og med 1. januar 2020. Førerkort utstedt i perioden 1. april 1979 til og med 31. desember 1997, er ikke gyldig for kjøring fra og med 1. januar 2023. Førerkort utstedt i perioden 1. januar 1998 til og med 18. januar 2013, er ikke gyldig for kjøring fra og med 19. januar 2033. Førerkort etter denne bestemmelsen kan byttes til nytt førerkort dersom vilkårene for utstedelse er oppfylt.
+Fra og med 19. januar 2033 må EØS-førerkort som benyttes for kjøring i Norge være i overensstemmelse med den nyeste EØS-modellen for førerkort for å være gyldig.
+Første ledd første og andre punktum gjelder ikke for personer som har meldt flytting fra Norge. Disse personene kan benytte sitt førerkort ved kjøring i Norge frem til dagen før fylte 80 år, men ikke utover 18. januar 2033. De norske helsekravene for førerkort må være oppfylt.

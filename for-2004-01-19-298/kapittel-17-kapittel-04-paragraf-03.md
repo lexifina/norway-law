@@ -1,0 +1,2 @@
+# § 11. Vurdering ved ikke oppfylte krav til synsstyrke eller synsfelt
+I helt spesielle tilfeller, og etter uttalelse fra øyelege, kan det gis førerett i førerkortgruppe 1 selv om kravene til synsstyrke eller synsfelt ikke er oppfylt. Synsfunksjonen må ikke være ytterligere svekket på grunn av andre forhold. Kjørevurdering må være gjennomført etter anmodning fra statsforvalteren, og førerett må være anbefalt av Statens vegvesen.

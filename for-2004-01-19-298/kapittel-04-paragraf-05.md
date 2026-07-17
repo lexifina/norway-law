@@ -1,0 +1,3 @@
+# § 4-5. Manglende sikkerhetskurs på bane for klassene C, CE og D
+Dersom sikkerhetskurs på bane eller glattkjøringskurs ikke er dokumentert gjennomført før utstedelse av førerkort (utvidelse) i klassene C, CE eller D, settes gyldighetstiden til ett år.
+For å oppnå uavbrutt førerett, må dokumentasjon for gjennomført sikkerhetskurs på bane eller glattkjøringskurs fremlegges før gyldighetstiden utløper. Føreretten kan gjenerverves senere ved dokumentasjon av gjennomført kurs. Når disse vilkårene foreligger, utstedes nytt førerkort med vanlig gyldighetstid regnet fra tidspunktet for den første utstedelsen hvis ikke ny helseattest fremlegges.

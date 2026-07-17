@@ -1,0 +1,3 @@
+# § 6. Førerett for beltemotorsykkel
+Innehaver av førerkort i klassene A, A (begrenset til å gjelde beltemotorsykkel), A1, B, S eller T utstedt før 1. juli 2006 har førerett i Norge for beltemotorsykkel, uavhengig av effektforhold. Ved utskifting av førerkort i klassene nevnt i første punktum utstedt før 1. juli 2006 videreføres denne retten ved påføring av klasse S.
+Bestemmelsene i denne paragrafen om førerett gjelder også for innehaver av førerkort i klassene A, A1 og B som er utstedt i annen EØS-stat før 1. juli 2006. Ved innbytte videreføres retten på tilsvarende måte som nevnt i første ledd.

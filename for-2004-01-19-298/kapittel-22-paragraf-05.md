@@ -1,0 +1,6 @@
+# § 5. Førerett for traktor
+Innehaver av førerkort i klassene B eller T, utstedt før 1. januar 2005, har førerett i Norge for traktor, med eller uten tilhenger. Ved utskifting videreføres denne retten ved påføring av klasse T med kode 142.
+Innehaver av førerkort i klasse BE, utstedt etter 1. januar 2005 har førerett i Norge for traktor, med konstruktiv hastighet ikke over 40 km/t og tillatt totalvekt ikke over 25 000 kg, med eller uten tilhenger. Ved utskifting videreføres denne retten ved påføring av klasse T, med kode 144.
+Innehaver av førerkort i klasse C, utstedt etter 1. januar 2005 har førerett for traktor, med eller uten tilhenger med tillatt totalvekt på høyst 750 kg. Ved utskifting videreføres denne retten ved påføring av klasse T, med kode 143.
+Innehaver av førerkort i klasse CE, utstedt etter 1. januar 2005 har førerett for traktor, med eller uten tilhenger. Ved utskifting videreføres denne retten ved påføring av klasse T, med kode 142.
+Bestemmelsene om førerett i denne paragrafen gjelder også for innehaver av førerkort klasse B som er utstedt i annen EØS-stat henholdsvis før og etter 1. januar 2005. Ved innbytte videreføres retten som beskrevet ovenfor. Førerkort tilsvarende klasse T utstedt i annen EØS-stat gir ikke førerett i klasse T i Norge.

@@ -1,0 +1,2 @@
+# § 4. Førerkort utløpt før 2. april 1982
+Førerkort i klassene 1, 2, 3 eller 4 med 10 års gyldighetsperiode, kan fornyes ved bestått praktisk førerprøve. Praktisk prøve for klasse B gir førerett for klasse B med underliggende klasser, eventuelt for klasse BE hvis prøven avlegges med tilhenger. Praktisk prøve for motorsykkel gir klasse A1 eller klasse A etter hvilken motorsykkel som er benyttet under prøven. Bestått prøve med traktor gir klasse T med hastighetsbegrensning på 40 km/t for traktor og motorredskap.

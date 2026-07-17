@@ -1,0 +1,3 @@
+# § 11-1. Tap eller tilbakekall av retten til å føre førerkortpliktig motorvogn, sperrefrist for førerkort
+Den som har tapt føreretten eller fått sperrefrist for førerkort i en eller flere klasser i Norge eller i utlandet, kan ikke få utstedt førerkort i noen annen klasse så lenge tapet eller sperrefristen varer. Nektelse av førerkort i medhold av vegtrafikkloven § 24, fjerde ledd, gjelder alle klasser.
+Dersom bestemt tid ikke kan fastsettes når førerett tilbakekalles av særlige grunner, jf. vegtrafikkloven § 34, fastsettes tilbakekall inntil videre. Tilbakekalt førerett kan vanligvis ikke gjenopprettes før tilfredsstillende legeerklæring er lagt fram eller hel eller delvis førerprøve er bestått.

@@ -1,0 +1,5 @@
+# § 7-2. Utstedelse av nytt førerkort når førerkortet er mistet eller stjålet
+Nytt førerkort kan utstedes som duplikat, fornyelse eller innbytte til personer som har mistet eller blitt frastjålet sitt norske førerkort eller EØS-førerkort og som har fast bopel i Norge, dersom det ikke er kommet til rette fire uker etter at førerkortet er meldt tapt.
+Førerkort kan utstedes straks dersom alt tyder på at førerkortet er tapt for alltid, dersom det er nødvendig å kjøre i utlandet, dersom det skal utvides til en ny førerkortklasse eller dersom en av førerkortklassene eller kompetansene har mindre enn 6 måneders gjenstående gyldighet på førerkortet. For førerkort fra EØS kan det kreves fremlagt dokumentasjon på føreretten fra utstederlandet.
+I stedet for duplikat for gyldige førerkort utstedt før 19. januar 2013 med gjenstående gyldighetstid som er lenger enn det som følger av § 4-1, utstedes nytt førerkort etter bestemmelsene i § 4-1.
+Dersom førerkortet kommer til rette, skal det straks innleveres til Statens vegvesen.

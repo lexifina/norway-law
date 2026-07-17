@@ -1,0 +1,4 @@
+# § 10-8. Innbytte av førerkort utstedt i Japan
+Førerkort fra Japan tilsvarende klasse B kan byttes inn uten prøve i inntil ett år fra søker tok fast bopel i eller flyttet tilbake til Norge. Dersom søknad leveres så tett oppunder ettårsfristen at det kan bli vanskelig å få byttet inn førerkortet innenfor ettårsfristen, kan fristen for gjennomføring av innbyttet forlenges og settes til én måned fra vedtaksdato.
+Ved innlevering av søknad om innbytte og ved positivt vedtak om innbytte kan det utstedes midlertidig kjøretillatelse med gyldighet inntil tre måneder.
+Person som har fast bopel i Norge og har oppnådd fullverdig førerett under midlertidig opphold i Japan, kan på samme vilkår som over få byttet til norsk førerkort. Kravet er at føreretten ble oppnådd under et sammenhengende opphold som varte i minst 6 måneder.
