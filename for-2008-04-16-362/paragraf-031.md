@@ -1,0 +1,2 @@
+# § 31. Samarbeidsplikt med Statens vegvesen
+Undervisningsansvarlig, øvrig undervisningspersonell og andre tilsatte plikter å gi de opplysninger om virksomheten som Statens vegvesen krever. Personellet skal også framvise og utlevere for kontroll dokumenter eller utstyr som angår yrkessjåførutdanningen og virksomheten for øvrig. Er opplysningene lagret elektronisk kan Statens vegvesen kreve datert utskrift undertegnet av undervisningsansvarlig.

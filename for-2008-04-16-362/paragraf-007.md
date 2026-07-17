@@ -1,0 +1,4 @@
+# § 7. Adgang til yrkessjåførutdanning
+Det kreves ikke førerett i den aktuelle førerkortklassen for å gjennomføre grunn- utdanningen. Under individuell kjøretrening kan ikke kjøretøyene benyttes til transport av passasjerer eller gods mot vederlag. Før den individuelle kjøretreningen kan gjennomføres skal kravene i § 10 annet ledd i denne forskrift og vilkårene for øvingskjøring i forskrift 1. oktober 2004 nr. 1339 om trafikkopplæring og førerprøve m.m. kapittel 2 være oppfylt.
+Statsborger fra EØS-stat med fast bopel i Norge, skal gjennomføre grunnutdanning i Norge. Statsborger fra EØS-stat med fast bopel eller som arbeider i Norge, kan gjennomføre etterutdanning i Norge.
+Tredjestatsborger som arbeider i en virksomhet som er etablert i Norge eller har arbeidstillatelse som er utstedt av norske myndigheter kan gjennomføre grunnutdanning i Norge. Tredjestatsborger som har fast bopel eller arbeider i Norge kan gjennomføre etterutdanning i Norge.

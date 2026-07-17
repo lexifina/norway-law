@@ -1,0 +1,2 @@
+# § 12. Krav om regelmessig etterutdanning
+For å opprettholde yrkessjåførkompetanse skal den enkelte gjennomføre etterutdanning innen hvert femte år etter at bevis for yrkessjåførkompetanse ble utstedt første gang eller fornyet. Etterutdanningen gjennomføres som minst 35 timer undervisning fra 5 moduler over 5 dager á 7 timer. To av dagene kan deles i 3,5 timer over to påfølgende dager. Den som etter § 3 er unntatt fra kravet om grunnutdanning må gjennomføre etterutdanning for å opprettholde yrkessjåførkompetansen.

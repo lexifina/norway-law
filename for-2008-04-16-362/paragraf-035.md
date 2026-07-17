@@ -1,0 +1,6 @@
+# § 35. Gyldighetstid, utstedelse og fornyelse av bevis
+Statens vegvesen utsteder bevis for yrkessjåførkompetanse. Bevis for yrkessjåførkompetanse er gyldig i 5 år fra beviset ble utstedt første gang eller fornyet. Ved kompetanseutvidelse utløper den sist oppnådde kompetansen samtidig som den først oppnådde kompetansen.
+Etterutdanning i samsvar med kapittel 2 skal være gjennomført før beviset kan fornyes. Søknad om fornyelse av bevis skal fremmes når etterutdanningen er gjennomført for å gi grunnlag for fornyelse. Ved fornyelse fastsettes utstedelsesdato tilsvarende første virkedag etter siste kursdag. Dersom etterutdanningen gjennomføres i løpet av de siste seks månedene før gyldig yrkessjåførkompetansebevis utløper, skal beviset utstedes for 5 år, regnet fra utløpsdagen for det gyldige beviset.
+Med mindre annet framgår av dette kapittelet utstedes bevis for yrkessjåførkompetanse ved at EØS-fellesskapskode 95 avmerkes i førerkortet.
+Etterutdanning skal være gjennomført før søknad om fornyelse av beviset fremmes. Ved utstedelse av yrkessjåførbevis skal akseptabel legitimasjon framvises.
+Opplysninger om innehaver av utstedt eller tilbakekalt yrkessjåførkompetansebevis kan utveksles med andre EØS-stater.

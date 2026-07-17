@@ -1,0 +1,5 @@
+# § 26. Krav til personell som skal undervise i grunnutdanningen
+Person som har faglig og pedagogisk høyere utdanning tilsvarende minst 150 studiepoeng, hvorav minst 30 studiepoeng i pedagogiske fag, kan undervise i de emner som har en relevant faglig sammenheng med vedkommendes kompetanse og/eller utdanning.
+Trafikklærere som oppfyller vilkårene i forskrift 1. oktober 2004 nr. 1339 om trafikkopplæring og førerprøve m.m. § 6-2 jf. § 6-8, § 6-9 eller § 6-11, kan undervise i emner som har relevant faglig sammenheng med vedkommendes kompetanse og/eller utdanning.
+Person som har utdanning tilsvarende minst 60 studiepoeng kan under oppsyn av lærer som oppfyller kravene til utdanning etter første eller annet ledd, undervise i emner som har en relevant faglig sammenheng med vedkommendes kompetanse og/eller utdanning.
+Undervisningspersonellet etter første, andre og tredje ledd skal være godkjent av Statens vegvesen og registrert i Statens vegvesens elektroniske register. Godkjenning gis etter dokumentert søknad. Krav om godkjenning trer i kraft 1. juli 2022.

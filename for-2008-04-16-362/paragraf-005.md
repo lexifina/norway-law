@@ -1,0 +1,2 @@
+# § 5. Unntak for lærling i yrkessjåførfaget
+Statens vegvesen kan på bakgrunn av dokumentasjon fra lærebedrift tillate lærling som gjennomfører læretid i yrkessjåførfaget å utføre person- eller godstransport uten yrkessjåførkompetanse. Slik tillatelse kan maksimalt gis for tre år og skal alltid medbringes under kjøring. Tillatelsen gjelder kun for innenlands kjøring. Lærling kan bare benytte kjøretøy tilhørende virksomhet vedkommende står i et løpende lærlingkontraktsforhold med. Lærebedriften plikter straks å melde fra til Statens vegvesen ved avbrudd i læretiden.
