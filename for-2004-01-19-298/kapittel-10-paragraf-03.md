@@ -1,0 +1,9 @@
+# § 10-3. Innbytte av førerkort utstedt i annen EØS-stat
+Førerkort utstedt i annen EØS-stat, kan byttes direkte til norsk førerkort i tilsvarende klasser når innehaveren er fast bosatt her i landet. Førerkortklasser som tilsvarer S og T byttes ikke inn.
+Det kreves ikke vandelsattest, helseattest/egenerklæring, ny førerprøve eller obligatorisk opplæring. Dette gjelder likevel ikke når annet følger av tapt eller tilbakekalt førerett, jf. vegtrafikkloven 18. juni 1965 nr. 4 § 24, § 33 og § 34 og forskrift 19. desember 2003 nr. 1660 om tap av retten til å føre motorvogn kapittel 8.
+Søker må, om nødvendig, framlegge dokumentasjon på opprinnelige førerettigheter fra utstederlandet.
+Om innbytte skjer før førerkortets utløpsdato, gis det norske førerkortet 15 års gyldighet for klassene AM, A1, A2, A, B1, B, og BE med mindre førerkortet er særskilt tidsbegrenset på grunn av sykdom eller lignende jf. § 4-3.
+For førerkort i klassene C1, C1E, C, CE, D1, D1E, D og DE gis norsk førerett gyldighet fram til det innbyttede førerkortets gyldighetsdato, men ikke utover fem år, regnet fra vedkommende tok fast bopel i Norge. Dersom det fremlegges helseattest, settes fem års gyldighet.
+For førerkort utstedt i EØS-området, slik dette ble definert før utvidelsen 1. mai 2004, som er byttet i norsk førerkort 1. januar 1994 eller senere, kan det utstedes nytt førerkort (nytt innbytte), dersom det første innbyttet medførte dokumentert tap av rettigheter fra opprinnelig førerkort.
+For førerkort innbyttet før 1. januar 1994 gjelder det samme, forutsatt bestått praktisk førerprøve for aktuelle klasser jf. § 6-1 andre ledd, likevel slik at praktisk prøve for klasse A1, A2 eller A, uansett må bestås.
+Person som har fast bopel i Norge og har oppnådd fullverdig førerett under midlertidig opphold i annen EØS-stat, kan på samme vilkår som over få byttet direkte til norsk førerkort. Kravet er at føreretten ble ervervet etter minst 6 måneder dokumentert studieopphold.

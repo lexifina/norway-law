@@ -1,0 +1,6 @@
+# § 1. Førerkort klasse 1 og 2
+Førerkort i klassene 1 eller 2, som var gyldige 2. april 1982, og som ikke var særlig tidsbegrenset på grunn av sykdom eller lignende, gir førerett i klassene A1 og BE for kjøring i Norge og i EØS, selv om førerkortets gyldighetstid er utløpt.
+I tillegg gir klassene 1 og 2 førerett i Norge for klassene AM, S og T (ubegrenset), for motorredskap og for brannbil (lastebil) avgiftsmessig klassifisert som motorredskap.
+Fra innehaveren fyller 80 år gjelder § 4-1.
+Ved fornyelse av førerkort i klasse 1 eller 2 gis klassene A1, BE, AM, S og T. Til klasse BE tilknyttes kodene 131 og 140 og til klasse T kode 142.
+Personer som har rett til å føre motorredskap uten begrensninger jf. andre ledd kan gis dispensasjon til å føre alle typer mobilkran. Dispensasjon forutsetter at førerkortinnehaver dokumenterer oppfylte helsekrav for førerkortgruppe 2 og arbeidsforhold som innebærer føring av mobilkran. Dispensasjonen gis for inntil 5 år om gangen med maksimal gyldighet til fylte 70 år. For søker som har fylt 66 år kan det gis dispensasjon med gyldighet til 71-årsdagen. Etter fylte 70 år kan dispensasjon gis for ett år om gangen. Vedtaksbrevet må medbringes under kjøring.

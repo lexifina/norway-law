@@ -1,0 +1,4 @@
+# § 9-5. Førerkort utstedt i Ukraina
+Førerkort utstedt i Ukraina er gyldig for kjøring i Norge, utover de tre måneder som fastsatt i § 9-3 andre ledd. Norske alderskrav som fastsatt i § 3-1 må være oppfylt.
+Anerkjennelse av ukrainske førerkort etter første ledd gjelder så lenge personer fordrevet fra Ukraina er under midlertidig kollektiv beskyttelse i Norge, jf. utlendingsloven § 34 og utlendingsforskriften § 7-5a.
+EØS-avtalen vedlegg XIII Transport, kapittel II Veitransport nr. 36ab (forordning (EU) 2022/1280) av 18. juli 2022 om fastsettelse av særlige og midlertidige tiltak på bakgrunn av Russlands invasjon av Ukraina om førerbevis utstedt av Ukraina i samsvar med landets lovgivning, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.

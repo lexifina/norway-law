@@ -1,0 +1,3 @@
+# § 4-2. Prøveperiode for førerett i klasse B
+Ved førstegangsutstedelse av og utvidelse til førerkort i klasse B fastsettes det en prøveperiode på 2 år som anmerkes på førerkortet. Blir nytt førerkort utstedt i prøveperioden, skal gjenstående prøvetid anmerkes på førerkortet.
+Den som taper føreretten i prøveperioden som følge av brudd på trafikale adferdsregler, må avlegge ny full førerprøve, jf. forskrift 19. desember 2003 nr. 1660 om tap av retten til å føre motorvogn mv. § 8-4. Etter bestått førerprøve utstedes førerkort med ny prøveperiode på 2 år. Tilsvarende gjelder også ved senere gjentagelser. Ny prøveperiode skal gjelde, selv om det i dom eller forelegg ikke er fastsatt krav om ny prøve.

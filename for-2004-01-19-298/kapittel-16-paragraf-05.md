@@ -1,0 +1,3 @@
+# § 16-5. Utlevering av opplysninger
+Politiet kan behandle personopplysninger i førerkortregisteret og bilde- og signaturregisteret for å utføre forvaltnings- eller kontrolloppgaver etter vegtrafikkloven, eller forskrift gitt i medhold av vegtrafikkloven. Dette er ikke til hinder for utlevering av opplysninger til politiet i andre tilfeller der dette har hjemmel i lov.
+Opplysninger kan utleveres til andre lands førerkortmyndigheter så lenge utleveringen ikke er uforenlig med formålet for behandlingen. Personopplysninger om førerkortinnehavere utleveres til andre EØS-land gjennom EUs elektroniske meldingsutvekslingssystem til bruk i førerkortsaker, herunder kontroll av førerkort og yrkessjåførbevis og i saker om trafikkovertredelser.

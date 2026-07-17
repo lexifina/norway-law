@@ -1,0 +1,2 @@
+# § 13-1. Utstedelse av internasjonalt førerkort
+Kongelig Norsk Automobilklubb, Motorførernes Avholdsforbund og Norges Automobil-Forbund kan for kjøring med motorvogn i fremmed stat utstede internasjonalt førerkort etter modell i Wienkonvensjonen av 1968 om vegtrafikk. Søker må ha fast bopel i Norge og ha gyldig førerkort fra Norge eller annen EØS-stat. Førerkortet gjelder så lenge det nasjonale førerkortet er gyldig, men for maksimalt 3 år i de(n) aktuelle førerkortklasse(r).

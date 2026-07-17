@@ -1,0 +1,7 @@
+# § 8-2. Førerkort utstedt utenfor EØS-området
+Bestemmelsene i denne paragraf gjelder førerkort som ikke omfattes av andre bestemmelser i dette kapittel.
+Førerkort som aksepteres i henhold til denne paragraf, er gyldig for kjøring i inntil tre måneder i Norge. For personer som har gyldig oppholdstillatelse med varighet over tre måneder og gjeldende arbeidskontrakt, er det nasjonale førerkortet gyldig for kjøring i Norge i inntil 6 måneder. Dokumentasjon på oppholdstillatelsen og arbeidskontrakt må medbringes under kjøring. Føreretten er begrenset til de internasjonale klassene som nevnt i § 3-1, eller tilsvarende klasser. For fører av utenlandskregistrert motorvogn, er førerkortet gyldig i inntil ett år, forutsatt at motorvognen befinner seg midlertidig i Norge og føreren ikke er fast bosatt i Norge.
+Førerkort aksepteres fra de land som er tilsluttet Genevekonvensjonen av 1949 eller Wienkonvensjonen 1968 om vegtrafikk, hvis førerkortet er utstedt etter modell av nevnte konvensjoner eller etter EU-/EØS-modell. Førerkort etter nasjonal modell fra samme stater aksepteres, dersom det medfølger en autorisert oversettelse til norsk.
+Førerkort kan også aksepteres fra andre stater, dersom førerkortet er i henhold til en av de tre modellene nevnt i tredje ledd og utstedt på et skandinavisk språk, eller engelsk, fransk eller tysk.
+Internasjonalt førerkort godtas, sammen med et gyldig nasjonalt førerkort.
+Førerkortinnehavere må oppfylle norske alderskrav i aktuelle førerkortklasser.

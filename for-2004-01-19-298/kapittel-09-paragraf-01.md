@@ -1,0 +1,3 @@
+# § 9-1. Generelle bestemmelser
+Utover det som følger av bestemmelsene i dette kapittel, må en person som ønsker å føre motorvogn i Norge, bytte inn til norsk førerkort, når det er adgang til det. Ellers må norsk førerett erverves på vanlig måte.
+Når en person tar fast bopel i Norge, gjelder de vanlige bestemmelsene i denne forskrift også for utenlandske førerkort, så langt de passer og ikke annet er spesielt angitt. Førerkortinnehavere må oppfylle norske alderskrav i aktuelle førerkortklasser. Innehavere av gyldig EØS-førerkort er underlagt kravet i § 4-1 om helseundersøkelse og utstedelse av nytt førerkort fra fylte 80 år

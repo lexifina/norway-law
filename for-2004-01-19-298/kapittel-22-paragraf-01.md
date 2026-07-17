@@ -1,0 +1,4 @@
+# § 1. Generelt
+Førerkort utstedt i henhold til førerkortforskriften av 1979 gir førerett slik den er beskrevet i denne forskrift, herunder de føreretter som følger av påtegninger, likevel ikke slike påtegninger som er falt bort i henhold til førerkortforskriften av 1979 med senere endringer. Bestemmelsene i dette vedlegg § 1, § 2, § 3, § 4, § 5, § 6, § 7, § 9 og § 11 får også anvendelse på førerkort utstedt i henhold til denne forskrift.
+Ved utskifting av førerkort videreføres disse rettighetene og eventuelle begrensninger, med de tilpasninger som er nevnt nedenfor. Tilpasninger nevnt i en paragraf utelukker ikke tilpasninger nevnt i andre paragrafer.
+Dette vedlegget omhandler også administrative rutiner for påføring av de nasjonale klassene AM, S og T, tilknyttet respektive internasjonale klasser.

@@ -1,0 +1,3 @@
+# § 6. Plikt til å gi informasjon
+Søker om førerett skal ved legeundersøkelsen legge fram akseptabel legitimasjon med navn, fødselsnummer (11 siffer), eller D-nummer for de som ikke har norsk fødselsnummer, og bilde, med mindre legen fra tidligere er godt kjent med pasienten. Der attest for synsfunksjon utfylles av optiker, gjelder tilsvarende legitimasjonsplikt overfor optiker.
+Søkeren er pliktig til å gi legen så fullstendige opplysninger som mulig om sin helsetilstand. Det skal gå fram av egenerklæringen at søkeren ved sin underskrift samtykker i at legen kan innhente nødvendige og relevante helseopplysninger fra spesialist og tidligere fastlege for å sikre en forsvarlig vurdering.

@@ -1,0 +1,12 @@
+# § 27. Helsekrav ved spesifikke hjertearytmier
+Ved spesifikke hjertearytmier som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen over hjertearytmier i tabellen er ikke uttømmende. Ved alle hjertearytmier gjelder helsekravet i § 25.
+ | A | B | C
+ | Arytmitype | Førerkortgruppe 1 | Førerkortgruppe 2 og 3
+1. | Atrieflimmer og flutter uten synkope | Helsekrav oppfylt. | Helsekrav oppfylt forutsatt at hjerneslagsforebyggende medikasjon brukes etter nasjonalefaglige retningslinjer.
+2. | Supraventrikulær takykardi uten synkope | Helsekrav oppfylt. | Helsekrav oppfylt.
+3. | Atrieflimmer og -flutter med synkope | Helsekrav oppfylt en uke etter vellykket behandling og etter anbefaling fra relevant spesialist. | Helsekrav oppfylt tre måneder etter vellykket behandling og etter anbefaling fra relevant spesialist.
+4. | Wolf-Parkinson-White (WPW), AV-knute re-entry takykardi (AVNRT) og AV-re-entry-takykardi (AVRT) uten synkope | Helsekrav oppfylt. | Helsekrav oppfylt dersom det ikke foreligger palpitasjoner eller er påvist atrieflimmer. Ved atrieflimmer er helsekrav oppfylt en uke etter vellykket ablasjon og etter anbefaling fra relevant spesialist.
+5. | WPW, AVNRT og AVRT med synkope | Helsekrav oppfylt en uke etter vellykket behandling og etter anbefaling fra relevant spesialist. | Helsekrav oppfylt tre måneder etter vellykket behandling og etter anbefaling fra relevant spesialist.
+6. | Bradykardi uten synkope med indikasjon for pacemaker | Helsekrav oppfylt en uke etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist. | Helsekrav oppfylt en uke etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist.
+7. | Bradykardi med synkope med indikasjon for pacemaker | Helsekrav oppfylt en uke etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist. | Helsekrav oppfylt fire uker etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist.
+8. | Ventrikkeltakykardi (VT) | Helsekrav oppfylt etter behandling og oppfølging hos relevant spesialist dersom denne vurderer lav årlig risiko for anfall med bevissthetspåvirkning. Helsekrav ikke oppfylt ved strukturell hjertesykdom og vedvarende VT. | Helsekrav oppfylt etter behandling og oppfølging hos relevant spesialist dersom denne vurderer svært lav årlig risiko for anfall med bevissthetspåvirkning. Helsekrav ikke oppfylt ved polymorf ikke-vedvarende VT og vedvarende VT.

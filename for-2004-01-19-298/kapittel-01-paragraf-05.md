@@ -1,0 +1,2 @@
+# § 1-5. Kompetansebevis m.m.
+For visse typer transport eller kjøring kreves i tillegg kompetansebevis eller kjøreseddel, jf. forskrift 12. juni 2009 nr. 637 om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften), forskrift 1. april 2009 nr. 384 om landtransport av farlig gods (ADR-kompetansebevis), yrkestransportlova 21. juni 2002 nr. 45 med forskrifter (kjøreseddel) og yrkessjåførforskriften 16. april 2008 nr. 362 (kode 95 – yrkessjåførkompetansebevis).
