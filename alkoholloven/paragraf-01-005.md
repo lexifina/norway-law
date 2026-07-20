@@ -1,0 +1,5 @@
+# § 1-5. Aldersgrenser
+Salg, skjenking eller utlevering av alkoholholdig drikk gruppe 3 må ikke skje til noen som er under 20 år.
+Salg, skjenking eller utlevering av alkoholsvak drikk og alkoholholdig drikk gruppe 1 og 2 må ikke skje til noen som er under 18 år.
+Den som selger, utleverer eller skjenker alkoholholdig drikk gruppe 3, må ha fylt 20 år, og den som selger, utleverer eller skjenker alkoholsvak drikk og alkoholholdig drikk gruppe 1 og 2, må ha fylt 18 år. Dette gjelder likevel ikke ved salg av alkoholsvak drikk når en person over 18 år har daglig tilsyn med salget. Departementet kan gi forskrift om unntak fra aldersgrensebestemmelsene for personer med fagbrev dersom fagbrevet har naturlig sammenheng med salgs- og skjenkevirksomhet og utdanningen gir tilstrekkelig opplæring i alkohollovgivningen. Departementet kan gi forskrifter om unntak fra aldersgrensebestemmelsene for lærlinger og andre under opplæring.
+Departementet kan gi forskrifter om aldersgrensen for innførsel av alkoholholdig drikk.

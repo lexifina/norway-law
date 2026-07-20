@@ -1,0 +1,5 @@
+# § 9-1. Reklame for tilvirkingsmidler for alkoholholdig drikk.
+Uten tillatelse fra departementet er det forbudt i aviser, blad o.l., ved utstilling i butikker eller på annen måte å reklamere for apparater – herunder deler og utstyr – som er bestemt for eller som finnes tjenlige for tilvirking eller omdestillering av sprit, brennevin eller isopropanol.
+Det er forbudt gjennom bøker, skrifter, annonser i pressen eller på annen måte å oppfordre til ulovlig tilvirking eller omdestillering av sprit, brennevin eller isopropanol eller å gi veiledning som ved sin form framtrer som egnet til å fremme slik tilvirking eller omdestillering blant almenheten eller en større krets av personer.
+Det er videre forbudt å reklamere for stoffer som særskilt er beregnet for, eller i reklamen betegnes som egnet til, tilsetning til alkoholholdig drikk. Det samme gjelder reklame for emner, tilvirkingsbeskrivelser, apparater og andre midler til å framstille slike drikker.
+Departementet kan gi forskrifter om avgrensing, utfylling og gjennomføring av første, annet og tredje ledd. Departementet kan gjøre unntak fra forbudet i tredje ledd når særlige grunner foreligger.

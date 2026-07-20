@@ -1,0 +1,3 @@
+# § 6-7. Melding og godkjenning
+Før bevilling tas i bruk skal melding om dette sendes departementet. Videre skal det gis melding før virksomheten nedlegges eller avbrytes. Det skal gis melding om etablering eller nedleggelse av lager, om endringer i ledelsen av virksomheten og om overdragelse av vesentlige deler av aksjene eller selskapsandeler. Videre skal det også gis melding dersom virksomhetens omfang endres vesentlig og om andre forhold som har betydning for kontrollen med virksomheten.
+Nytt lager eller endring av et lagers innretning må godkjennes av bevillingsmyndigheten før endringen iverksettes. Tilsvarende gjelder dersom nytt tapperi tas i bruk, eller et tapperis innretning endres.

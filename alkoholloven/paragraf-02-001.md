@@ -1,0 +1,4 @@
+# § 2-1. Retten til innførsel av alkoholholdig drikk
+Alkoholholdig drikk kan bare innføres fra utlandet av den som kan drive engrossalg, har tilvirkningsbevilling, salgsbevilling utvidet til å gjelde innførsel etter § 3-1b første ledd eller skjenkebevilling utvidet til å gjelde innførsel etter § 4-2 tredje ledd.
+Etter forskrifter gitt av departementet kan alkoholholdig drikk likevel innføres av AS Vinmonopolet uten bevilling som nevnt i første ledd. Uten slik bevilling kan alkoholholdig drikk også innføres av fremmede makters representasjoner i Norge for tjenestebruk, når det skjer avgiftsfritt eller etter forskrifter gitt av departementet.
+Alkoholholdig drikk kan innføres fra utlandet av privatpersoner til personlig bruk (privat innførsel) uten bevilling som nevnt i første ledd. Departementet kan i forskrift fastsette nærmere krav som må være oppfylt for at innførselen skal anses å være privat innførsel.

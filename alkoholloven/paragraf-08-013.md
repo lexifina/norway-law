@@ -1,0 +1,2 @@
+# § 8-13. Forbud mot innførsel og omsetning av visse alkoholholdige drikker
+Det er forbudt å skjenke, selge eller omsette en gros brennevin som inneholder over 60 volumprosent alkohol. Det er videre forbudt å innføre slikt brennevin til landet uten tilvirkningsbevilling, jf. § 6-1. Departementet kan likevel bestemme at enkelte særlige sorter brennevin som måtte ha et høyere alkoholinnhold skal være unntatt fra denne bestemmelsen.

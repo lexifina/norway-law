@@ -1,0 +1,6 @@
+# § 1-7. Bevilling for salg og skjenking
+Bevilling for salg og skjenking gis av kommunen med mindre det gis statlig bevilling etter kapittel 5. Bevilling for skjenking på tog eller ombord i skip som ikke er omfattet av statlig bevillingsmyndighet etter § 5-2, gis av den kommunen som skipet eller toget har som utgangspunkt for sin virksomhet. Når slik virksomhet har flere kommuner som virkeområde, må bevilling gis av samtlige kommuner.
+Før kommunestyret avgjør søknaden, skal det innhentes uttalelse fra sosialtjenesten og politiet. Det kan også innhentes uttalelse fra skatte- og avgiftsmyndighetene. I kommuner som har militær øvingsplass, skal uttalelse innhentes fra vedkommende militære avdeling.
+Kommunen kan pålegge søkeren å dokumentere de opplysninger som er nødvendige for å kunne ta stilling til om kravene i §§ 1-7b og 1-7c er oppfylt, herunder ved behov pålegge søkeren å legge frem finansieringsplan, driftsbudsjett og likviditetsbudsjett for virksomheten.
+Melding om gitte bevillinger sendes politiet og skatte- og avgiftsmyndighetene.
+Kommunen kan delegere bevillingsmyndigheten til en interkommunal sammenslutning. Avgjørelser fattet av den interkommunale sammenslutningen kan påklages til vertskommunens klageorgan.

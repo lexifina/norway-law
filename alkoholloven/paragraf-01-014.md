@@ -1,0 +1,3 @@
+# § 1-14. Opplysninger til statistiske formål mv
+Departementet kan gi forskrifter om plikt for bevillingsmyndighet, bevillingshaver, den som har tillatelse til avgiftsfritt salg på flyplasser, den som utleverer alkoholholdig drikk ved privat innførsel og den som driver engrossalg til å avgi opplysninger til statistiske formål.
+Det skal føres et register med opplysninger om innehavere av bevillinger etter denne lov, og over de som kan drive engrossalg. Departementet kan gi forskrifter om føring og bruk av registeret, og om bevillingsmyndighetenes, avgiftsmyndighetenes og tollmyndighetenes plikt til å avgi opplysninger til registeret.

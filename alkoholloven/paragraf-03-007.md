@@ -1,0 +1,4 @@
+# § 3-7. Tidsinnskrenkninger for salg og utlevering av alkoholholdig drikk med høyst 4,7 volumprosent alkohol
+Salg og utlevering av alkoholholdig drikk gruppe 1 kan skje fra kl. 08.00 til kl. 18.00. På dager før søn- og helligdager skal salget opphøre kl. 15.00. Dette gjelder ikke dagen før Kristi Himmelfartsdag.
+Kommunestyret kan generelt for kommunen eller for det enkelte salgssted innskrenke eller utvide tiden for salg i forhold til det som følger av første ledd. Salg og utlevering av drikk som nevnt i første ledd er likevel forbudt etter kl. 20.00 på hverdager, og etter kl. 18.00 på dager før søn- og helligdager unntatt dagen før Kristi Himmelfartsdag. Det kan bestemmes at salg ikke skal finne sted til bestemte tider på dagen eller på bestemte ukedager.
+Salg og utlevering av drikk som nevnt i første ledd skal ikke skje på søn- og helligdager, 1. og 17. mai.

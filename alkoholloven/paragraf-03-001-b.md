@@ -1,0 +1,6 @@
+# § 3-1b. Salg av alkoholholdig drikk tilvirket i egen virksomhet
+Kommunal bevilling etter § 3-1 annet ledd kan, dersom kravene i § 1-7f første ledd er oppfylt, utvides til å omfatte innførsel eller tilvirkning for salg i egen virksomhet av alkoholholdig drikk gruppe 1 som ikke er tilsatt brennevin. Dersom også kravene i § 1-7f annet ledd er oppfylt, kan den også utvides til å omfatte tilvirkning for salg i egen virksomhet av alkoholholdig drikk gruppe 2.
+Kommunal bevilling etter § 3-1 annet ledd kan videre, dersom kravene i § 1-7f er oppfylt, omfatte salg i egen virksomhet av alkoholholdig drikk gruppe 2 tilvirket i henhold til statlig tilvirkningsbevilling etter kapittel 6.
+Bevillinger gitt for en bestemt del av året eller for en enkelt bestemt anledning, jf. § 1-6 annet ledd, kan ikke utvides til å omfatte tillatelse til innførsel eller tilvirkning for salg i egen virksomhet eller til å omfatte salg i egen virksomhet av alkoholholdig drikk gruppe 2 tilvirket i henhold til statlig tilvirkningsbevilling etter kapittel 6.
+Bestemmelsene i kapittel 1 og 3 får anvendelse så langt de passer for bevillinger etter første og annet ledd.
+Tilvirkning på grunnlag av utvidet bevilling etter første ledd kan ikke skje i samme anlegg som tilvirkning etter lovens kapittel 6.
