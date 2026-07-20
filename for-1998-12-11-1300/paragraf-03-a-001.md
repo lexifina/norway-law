@@ -1,0 +1,3 @@
+# § 3A-1. Bevilling for tilvirkning av alkoholholdig drikk
+Lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. kapittel 6 om tilvirkning gjelder for Svalbard med unntak av § 6-2 nr. 2.
+Forskrift 8. juni 2005 nr. 539 om engrossalg og tilvirkning av alkoholholdig drikk mv. kapittel 2 om sikring av varelager, kapittel 3 om søknadsgebyr, kapittel 4 om bevillingsgebyr, kapittel 6 om opplysninger til statistiske formål, kapittel 7 og 8 om registre og kapittel 9 om adgang til å benytte alkoholholdig drikk som gave, lønn eller utbytte, samt å selge alkohol til ansatte til eget bruk, gjelder på Svalbard.

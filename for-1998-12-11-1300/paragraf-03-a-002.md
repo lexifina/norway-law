@@ -1,0 +1,2 @@
+# § 3A-2. Innførsel, utførsel og engrossalg ved tilvirkning
+Bevilling til tilvirkning omfatter rett til innførsel av alkoholholdig drikk til bruk i tilvirkningen, utførsel som ledd i næringsvirksomhet og engrossalg av den alkoholholdige drikken som tilvirkes i medhold av bevillingen. Engrossalg av alkoholholdig drikk som ikke skjer til kjøper i utlandet, kan bare skje til den som har bevilling til detaljsalg, skjenking eller tilvirkning av vedkommende drikk, eller som kan drive engrossalg.
