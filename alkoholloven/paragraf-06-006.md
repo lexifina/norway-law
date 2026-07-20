@@ -1,0 +1,5 @@
+# § 6-6. Utøvelse av tilvirkningsbevilling
+Bevillingen skal utøves på en slik måte at de vilkår som er nevnt i bevillingsvedtaket, i denne lov og i bestemmelser gitt i medhold av loven, til enhver tid er oppfylt, og for øvrig på forsvarlig måte. Departementet kan stille nye vilkår dersom dette er nødvendig for å sikre gjennomføringen av loven.
+Den som har tilvirkningsbevilling har ansvaret for at distribusjonen av varene skjer i betryggende former og i samsvar med regler gitt i eller i medhold av denne lov, fra produksjonsstart eller det tidspunkt varene ankommer til landet og til de er levert annen bevillingshaver. Dette gjelder selv om distribusjonen er overlatt til andre.
+Dersom tapping eller andre deler av virksomheten er overlatt til andre, har bevillingshaver ansvar for at det skjer i betryggende former og i samsvar med regler gitt i eller i medhold av denne lov.
+Departementet kan gi forskrifter om distribusjon og tapping. Departementet kan også gi forskrifter om plikt for bevillingshaver til å avgi opplysninger til statistiske formål.

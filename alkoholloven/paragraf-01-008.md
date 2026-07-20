@@ -1,0 +1,6 @@
+# § 1-8. Inndragning av salgs- og skjenkebevillinger
+Kommunestyret kan i bevillingsperioden inndra en bevilling for resten av bevillingsperioden, eller for en kortere tid dersom vilkårene i § 1-7b ikke lenger er oppfylt, eller dersom bevillingshaver ikke oppfyller sine forpliktelser etter denne loven eller bestemmelser gitt i medhold av denne. Det samme gjelder ved overtredelse av bestemmelser gitt i eller i medhold av annen lovgivning når bestemmelsene har sammenheng med denne lovs formål.
+En bevilling kan også inndras dersom det skjer gjentatt narkotikaomsetning på skjenkestedet, eller dersom det ved skjenkestedet skjer gjentatt diskriminering av grunner som nevnt i straffeloven § 186.
+Departementet fastsetter i forskrift nærmere bestemmelser om inndragning av bevillinger etter første og annet ledd, herunder saksbehandlingsregler og standardiserte reaksjoner for ulike typer overtredelser.
+En bevilling kan inndras dersom den ikke er benyttet i løpet av det siste året. Departementet gir forskrifter om avgrensning og utfylling av inndragningsadgangen etter dette ledd.
+Statlige skjenkebevillinger kan når som helst inndras av departementet, selv om vilkårene etter første ledd ikke foreligger.

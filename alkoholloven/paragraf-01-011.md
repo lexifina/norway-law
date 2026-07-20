@@ -1,0 +1,3 @@
+# § 1-11. Saksbehandlingsregler
+For søknad om bevilling eller andre tillatelser etter denne loven som faller inn under tjenesteloven, skal saksbehandlingsfrist som nevnt i tjenesteloven § 11 første ledd første punktum, være fire måneder. Tjenesteloven § 11 annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for bevillinger eller andre tillatelser etter loven her.
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for bevillinger og andre tillatelser i loven her. Saksbehandlingsreglene kan fravike reglene i forvaltningsloven.

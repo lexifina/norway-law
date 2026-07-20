@@ -1,0 +1,2 @@
+# § 4-5. Ambulerende skjenkebevilling.
+Kommunestyret kan gi en eller flere bevillinger som ikke blir knyttet til bestemt person eller skjenkested, og kan tillate at en eller flere av disse bevillinger blir utøvd på et sted eller steder som godkjennes for en enkelt anledning og for skjenking til deltakere i sluttet selskap. En ambulerende bevilling kan ikke utvides til å omfatte tilvirkning eller innførsel av alkoholholdig drikk for skjenking i egen virksomhet.
