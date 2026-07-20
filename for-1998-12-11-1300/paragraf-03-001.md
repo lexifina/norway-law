@@ -1,0 +1,7 @@
+# § 3-1. Skjenking av alkoholholdige drikker
+Skjenking av brennevin, vin og øl kan bare foretas på grunnlag av bevilling gitt av Sysselmesteren. Avgjørelser om tildeling av bevilling kan delegeres til representativt, folkevalgt organ.
+Bevilling til skjenking omfatter rett til innførsel for skjenking i egen virksomhet. Kontroll med innførsel skjer etter nærmere retningslinjer gitt av Sysselmesteren.
+Det kan settes vilkår for bevillingen i samsvar med alminnelige forvaltningsrettslige regler.
+Bevilling kan gis for perioder inntil 2 år eller det som er valgperioden for det representative folkevalgte organ som har fått delegert myndighet etter denne bestemmelsens første ledd. Bevilling for skjenking av alkoholholdig drikk kan dessuten gis for en bestemt del av året, og for en enkelt bestemt anledning.
+Bevillingsmyndigheten kan beslutte at skjenkebevillinger etter fjerde ledd første punktum likevel ikke skal opphøre ved bevillingens utløp, men gjelde videre i inntil en tilsvarende periode som angitt i bestemmelsen. Lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. § 1-6 tredje ledd annet til fjerde punktum og fjerde ledd gjelder tilsvarende for slike beslutninger.
+I passasjerfartøy som anløper Svalbard kan skjenking skje til personer som medfølger fartøyet når det foreligger tillatelse til dette fra fartøyets hjemland. Sysselmesteren kan likevel forby skjenking når hensynet til edruelighet eller sikkerheten til sjøs tilsier dette.
