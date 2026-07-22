@@ -1,0 +1,2 @@
+# § 6. Elektronisk begjæring om utlegg uten angitt namsmann
+Saksøker kan sette frem begjæring om utlegg elektronisk, uten å angi hvilken namsmann som skal være adressat for begjæringen. Valg av namsmann kan skje automatisk basert på opplysninger som saksøker gir i begjæringen, eller som saksbehandlingssystemet henter inn om saksøkte. Blir kompetent namsmann ikke identifisert automatisk, skal saksøker få melding om det og om at begjæring må settes frem på nytt for angitt namsmann.

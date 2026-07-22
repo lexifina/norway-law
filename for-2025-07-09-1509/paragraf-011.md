@@ -1,0 +1,2 @@
+# § 11. Elektronisk kommunikasjon fra namsmannen til klageren
+Namsmannen kan sende dokumenter fra forliksrådet i elektronisk form til klagere som er godkjente brukere og har benyttet elektronisk kommunikasjon i saken. For forkynning av dom eller beslutning avsagt av forliksrådet overfor slike brukere, gjelder forskrift 11. oktober 1985 nr. 1810 om postforkynning § 4 annet ledd annet punktum, jf. § 7 første og annet ledd.

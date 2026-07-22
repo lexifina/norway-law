@@ -1,0 +1,4 @@
+# § 16. Ikrafttredelse og overgangsbestemmelser m.m.
+Forskriften trer i kraft 1. januar 2026, med unntak av § 4 som trer i kraft 1. januar 2027.
+Fra 1. januar 2026 oppheves forskrift 21. desember 1992 nr. 1185 om bruk av skjemaer ved begjæring av tvangsforretninger og forskrift 25. juni 2010 nr. 977 om elektronisk kommunikasjon med namsmannen og Statens innkrevingssentral i saker etter tvangsfullbyrdelsesloven og i saker for forliksrådet.
+For kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten i saker om utlegg gjelder forskriften bare for saker som blir behandlet etter nytt regelverk for utlegg, jf. delegering 10. juni 2025 nr. 968 av Kongens myndighet etter innkrevingsloven § 40 andre og tredje ledd til Finansdepartementet. For saker som behandles etter tidligere regelverk for utlegg, gjelder tidligere bestemmelser om kommunikasjon.
