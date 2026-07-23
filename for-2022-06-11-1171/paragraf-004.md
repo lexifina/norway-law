@@ -1,0 +1,9 @@
+# § 4. Forordninger om import av økologiske produkter fra tredjeland
+EØS-avtalens vedlegg II kapittel XII nr. 54bb, bg, bh, bl, bn, bo og bp med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig:
+a) (forordning (EU) 2021/2306, som er endret ved forordning (EU) 2022/760, forordning (EU) 2022/2238 og forordning (EU) 2024/2975) om kontroll og utstedelse av sertifikat for økologiske varepartier i tredjeland,
+b) (forordning (EU) 2021/1342, som er endret ved forordning (EU) 2024/230) rapportering fra godkjente tredjeland og kontrollmyndigheter i tredjeland,
+c) (forordning (EU) 2021/1378, som er endret ved forordning (EU) 2021/2119, forordning (EU) 2022/2240, forordning (EU) 2024/1748, forordning (EU) 2024/2140, forordning (EU) 2024/2794, forordning (EU) 2024/3121, forordning (EU) 2025/882 og forordning (EU) 2025/2138) om utstedelse av sertifikater og om lister over godkjente kontrollmyndigheter som kan utstede sertifikater i tredjeland,
+d) (forordning (EU) 2021/1698, som er endret ved forordning (EU) 2023/1686, forordning (EU) 2024/2975, forordning (EU) 2024/3095 og forordning (EU) 2025/2651) om godkjenning av kontrollmyndigheter og regler for tilsyn i tredjeland,
+e) (forordning (EU) 2021/2307, som endret ved forordning (EU) 2022/2240) om importkontroll med økologiske varepartier,
+f) (forordning (EU) 2021/2325, som er endret ved forordning (EU) 2022/2047, forordning (EU) 2022/2049, forordning (EU) 2022/2468, forordning (EU) 2023/186, forordning (EU) 2023/1202, forordning (EU) 2023/2785 og forordning (EU) 2025/883) om lister over godkjente tredjeland og kontrollmyndigheter,
+g) (forordning (EU) 2022/1450), om bruk av ikke-økologiske protein fôrmidler til produksjon av økologiske husdyr i forbindelse med Russlands invasjon av Ukraina.
