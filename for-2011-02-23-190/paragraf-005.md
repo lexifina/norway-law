@@ -1,0 +1,2 @@
+# § 5. Krav til energirelaterte produkter
+Et energirelatert produkt som er omfattet av de produktspesifikke reglene i kapittel 3, kan kun bringes i omsetning eller tas i bruk i næringsvirksomhet dersom det er i samsvar med de produktspesifikke regler, er utstyrt med CE-merking etter § 6, har samsvarserklæring etter § 7 og det er foretatt en samsvarsvurdering etter § 8. Den ansvarlige skal sikre at vilkårene er oppfylt før produktet bringes i omsetning eller tas i bruk i næringsvirksomhet.

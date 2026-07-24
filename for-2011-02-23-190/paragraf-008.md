@@ -1,0 +1,4 @@
+# § 8. Samsvarsvurdering
+Samsvarsvurderingen skal utføres i henhold til bestemmelser om dette i de relevante produktspesifikke regler, samt i henhold til én av de to prosedyrene som beskrives henholdsvis i bilag IV og bilag V til europaparlaments- og rådsdirektiv 2009/125/EF. Dersom det er behørig begrunnet og står i forhold til risikoen, kan prosedyre for samsvarsvurdering i stedet utvelges blant de relevante moduler som er beskrevet i bilag II til rådet for den europeiske unions beslutning 768/2008/EF.
+Dersom et produkt er utformet av en organisasjon som er EMAS-registrert i medhold av forurensningsforskriften kapittel 38, og organisasjonens utformingsfunksjon er omfattet av EMAS-registreringen, antas det at vilkåret i første ledd er oppfylt.
+Den ansvarlige skal oppbevare alle relevante dokumenter om den gjennomførte samsvarsvurdering i 10 år etter fremstillingen av det siste produkt som samsvarsvurderingen gjelder.

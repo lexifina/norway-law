@@ -1,0 +1,2 @@
+# § 23. Vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW
+Forordning (EU) 2024/1834 om vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW, som inntatt i EØS-avtalen vedlegg II kapittel IV nr. 6z og vedlegg IV nr. 26za, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# § 37. Tjenere og datalagringsprodukter
+EØS-avtalen vedlegg IV nr. 26v (forordning (EU) 2019/424, som endret ved forordning (EU) 2021/341) om fastsettelse av krav til miljøvennlig utforming av tjenere og datalagringsprodukter i henhold til europaparlaments- og rådsdirektiv 2009/125/EF og om endring av kommisjonsforordning (EU) nr. 617/2013, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

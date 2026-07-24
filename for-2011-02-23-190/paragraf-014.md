@@ -1,0 +1,2 @@
+# § 14. Lyskilder og separat forkoplingsutstyr
+EØS-avtalen vedlegg IV nr. 26h (forordning (EU) 2019/2020, som endret ved forordning (EU) 2021/341) om fastsettelse av krav til miljøvennlig utforming av lyskilder og separat forkoplingsutstyr i henhold til europaparlaments- og rådsdirektiv 2009/125/EF, og om oppheving av kommisjonsforordning (EF) nr. 244/2009, (EF) nr. 245/2009 og (EU) nr. 1194/2012, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

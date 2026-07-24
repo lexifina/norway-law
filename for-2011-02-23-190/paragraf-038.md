@@ -1,0 +1,2 @@
+# § 38. Kjøle-/fryseapparater til bruk ved direktesalg
+EØS-avtalen vedlegg IV nr. 26y (forordning (EU) 2019/2024, som endret ved forordning (EU) 2021/341) om fastsettelse av krav til miljøvennlig utforming av kjøle-/fryseapparater til bruk ved direktesalg i henhold til europaparlaments- og rådsdirektiv 2009/125/EF, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

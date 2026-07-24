@@ -1,0 +1,2 @@
+# § 30. Ventilasjonsaggregater
+EØS-avtalen vedlegg IV nr. 26m (forordning (EU) nr. 1253/2014, som endret ved forordning (EU) 2016/2282 og som rettet ved forordning (EU) 2020/1000) om gjennomføring av europaparlaments- og rådsdirektiv 2009/125/EF når det gjelder krav til miljøvennlig utforming av ventilasjonsaggregater gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
