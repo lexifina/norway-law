@@ -1,0 +1,2 @@
+# § 19. Kjøle-/fryseapparater
+EØS-avtalen vedlegg IV nr. 26w (forordning (EU) 2019/2019, som endret ved forordning (EU) 2021/341) om fastsettelse av krav til miljøvennlig utforming av kjøle-/fryseapparater i henhold til europaparlaments- og rådsdirektiv 2009/125/EF, og om oppheving av kommisjonsforordning (EF) nr. 643/2009, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# § 22. Husholdningsoppvaskmaskiner
+EØS-avtalen vedlegg IV nr. 26d (forordning (EU) 2019/2022, som endret ved forordning (EU) 2021/341, om fastsettelse av krav til miljøvennlig utforming av husholdningsoppvaskmaskiner i henhold til europaparlaments- og rådsdirektiv 2009/125/EF, om endring av kommisjonsforordning (EF) nr. 1275/2008 og om oppheving av kommisjonsforordning (EU) nr. 1016/2010), gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

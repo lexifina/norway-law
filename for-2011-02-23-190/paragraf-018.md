@@ -1,0 +1,2 @@
+# § 18. Elektroniske skjermer
+EØS-avtalen vedlegg IV nr. 26x (forordning (EU) 2019/2021, som endret ved forordning (EU) 2021/341) om fastsettelse av krav til miljøvennlig utforming av elektroniske skjermer i samsvar med europaparlaments- og rådsdirektiv 2009/125/EF, om endring av kommisjonsforordning (EF) nr. 1275/2008, og om oppheving av kommisjonsforordning (EF) nr. 642/2009, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.

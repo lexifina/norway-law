@@ -1,0 +1,2 @@
+# § 36. Anlegg for romoppvarming og anlegg for rom- og tappevannoppvarming
+EØS-avtalen vedlegg IV nr. 26s (forordning (EU) nr. 813/2013, som endret ved forordning (EU) 2016/2282) om gjennomføring av europaparlaments- og rådsdirektiv 2009/125/EF når det gjelder krav til miljøvennlig utforming av anlegg for romoppvarming og anlegg for rom- og tappevannoppvarming, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
