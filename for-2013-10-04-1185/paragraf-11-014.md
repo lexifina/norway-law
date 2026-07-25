@@ -1,0 +1,5 @@
+# § 11-14. Avvisning av unormalt lave tilbud
+(1) Dersom et tilbud virker unormalt lavt i forhold til ytelsen, skal oppdragsgiver, før han kan avvise tilbudet, skriftlig kreve de opplysninger om tilbudets sammensetning som oppdragsgiver anser som relevante.
+(2) Disse opplysningene kan gjelde besparelser ved fremstillingsmåten, tekniske løsninger, usedvanlig gunstige vilkår for leveransen, ytelsens nyskapende karakter, oppfyllelsen av de krav vedrørende arbeidsforhold som gjelder på det sted som ytelsen skal presteres, og eventuell offentlig støtte til leverandøren.
+(3) Oppdragsgiver skal etterprøve de enkelte delene av tilbudet på grunnlag av de forklaringer som blir gitt.
+(4) Dersom oppdragsgiver finner at et tilbud er unormalt lavt fordi leverandøren har mottatt offentlig støtte, kan tilbudet bare avvises av denne grunnen, dersom leverandøren ikke kan godtgjøre, innenfor en tilstrekkelig frist fastsatt av oppdragsgiver, at den offentlige støtten er lovlig. Dersom oppdragsgiver avviser et tilbud fordi det virker unormalt lavt på grunn av offentlig støtte, skal oppdragsgiver underrette EFTAs overvåkingsorgan om dette.

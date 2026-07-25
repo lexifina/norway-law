@@ -1,0 +1,5 @@
+# § 3-12. Skatteattest
+(1) Oppdragsgiver skal for anskaffelser som overstiger 500 000 kroner eksl. mva. kreve at samtlige norske leverandører som leverer tilbud fremlegger skatteattest for merverdiavgift og skatteattest for skatt.
+(2) Oppdragsgiver skal angi innleveringsmåte og tidspunktet for innlevering.
+(3) Skatteattestene skal ikke være eldre enn seks måneder regnet fra fristen i annet ledd.
+(4) Ved bygge- og anleggskontrakter skal entreprenøren tilsvarende kreve skatteattest i alle underliggende entrepriseforhold ved inngåelse av kontrakter i tilknytning til oppdraget, som overstiger en verdi på 500 000 kroner eksl. mva. Brudd på entreprenørens plikt til å kreve skatteattest gir oppdragsgiver rett til å kreve at entreprenøren erstatter vedkommende firma med underentreprenør som kan fremlegge skatteattest. Oppdragsgiver kan tilsvarende kreve at entreprenøren erstatter en underentreprenør som ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter. Eventuelle økonomiske krav fra underentreprenører eller omkostninger for øvrig som følge av heving av avtaler med underentreprenører i denne forbindelse, skal bæres av entreprenøren.

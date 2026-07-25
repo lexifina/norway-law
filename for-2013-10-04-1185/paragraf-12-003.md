@@ -1,0 +1,2 @@
+# § 12-3. Tilleggsfrist for ettersending av dokumenter
+Dersom en eller flere leverandører ikke har levert HMS-egenerklæring, skatteattest eller offentlig tilgjengelig dokumentasjon på at krav til leverandøren er oppfylt, kan oppdragsgiver fastsette en kort tilleggsfrist for ettersending av disse dokumentene. Tilleggsfristen skal gjelde tilsvarende overfor alle deltakerne i konkurransen, og oppdragsgiver skal ikke vurdere de innkomne tilbud før tilleggsfristen er utløpt.

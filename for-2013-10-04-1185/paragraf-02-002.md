@@ -1,0 +1,4 @@
+# § 2-2. Terskelverdier og CPV-koder
+(1) Forskriftens del II gjelder kontrakter der den anslåtte verdi overstiger 5 millioner kroner ekskl. mva. for vare- og tjenestekontrakter og 62,9 millioner ekskl. mva. for bygge- og anleggskontrakter.
+(2) Når den samlede anslåtte verdien av delkontrakter som omtalt i § 2-3 syvende og åttende ledd overstiger verdiene i denne paragrafs første ledd, kommer forskriftens del II til anvendelse på alle delkontraktene. Bygge- og anleggskontrakter som har en anslått verdi på under 11,6 millioner kroner ekskl. mva. og tjenestekontrakter og varekontrakter som har en anslått verdi på under 932 000 kroner ekskl. mva., kan likevel inngås etter forskriften del I, dersom den samlede verdi av disse delkontraktene ikke overstiger 20 prosent av samtlige delkontrakters sammenlagte verdi.
+(3) Nærings- og fiskeridepartementet kan endre terskelverdiene og CPV-kodene fastsatt i denne forskrift.

@@ -1,0 +1,3 @@
+# § 8-15. Dokumentasjon av oppfyllelse av kvalitetssikringsstandarder
+(1) Oppdragsgiver kan kreve fremlagt attester utstedt av uavhengige godkjente organer som bekrefter at leverandøren oppfyller visse kvalitetssikringsstandarder.
+(2) Dersom oppdragsgiver krever slike attester fremlagt, skal det vises til kvalitetssikringssystemer som bygger på de europeiske standardene på området og er sertifisert av organer som oppfyller de europeiske standarder for sertifisering. Oppdragsgiver skal godta likeverdige attester fra organer etablert i andre EØS-stater. Oppdragsgiver skal også godta annen dokumentasjon på likeverdige kvalitetssikringstiltak som forelegges av leverandørene.

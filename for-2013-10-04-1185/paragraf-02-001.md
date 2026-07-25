@@ -1,0 +1,4 @@
+# § 2-1. Anvendelsesområde for forskriftens ulike deler
+(1) Forskriftens del I gjelder for alle anskaffelser som omfattes av denne forskrift med en anslått verdi som er lik eller overstiger 500 000 kroner eksklusive merverdiavgift.
+(2) Forskriftens del I og del II gjelder for kontrakter hvor den anslåtte verdi overstiger terskelverdiene angitt i § 2-2.
+(3) Kontrakter som gjelder uprioriterte tjenester, jf. vedlegg 6, følger reglene i del I selv om den anslåtte verdi overstiger terskelverdiene angitt i § 2-2. Dersom anskaffelsen overstiger terskelverdiene angitt i § 2-2 gjelder også § 8-3 og § 9-5. Tilsvarende unntak gjelder for kontrakter om utførelse av opptrenings- og rehabiliteringstjenester som ytes utenfor sykehus og som omfattes av de regionale helseforetakenes ansvar for spesialisthelsetjenester etter lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. § 2-1a, selv om tjenesten ikke leveres av en ideell organisasjon.

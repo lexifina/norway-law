@@ -1,0 +1,6 @@
+# § 6-1. Rammeavtaler
+(1) Ved inngåelse av rammeavtaler skal oppdragsgiver følge prosedyrereglene som følger av denne forskrift, inntil tildeling av kontrakter foretas innenfor rammeavtalen. Valg av leverandør til rammeavtalen skjer på bakgrunn av tildelingskriteriene som er fastsatt i § 13-2.
+(2) Tildeling av kontrakter innenfor rammeavtalen skjer etter prosedyrene i § 6-2 og § 6-3.
+(3) Med unntak for kontrakter omfattet av § 6-4 kan kontrakter innenfor en rammeavtale bare inngås mellom de opprinnelige partene i rammeavtalen og uten at det gjøres vesentlige endringer i de opprinnelige avtalevilkårene.
+(4) Rammeavtaler kan ikke inngås for mer enn syv år, med unntak av situasjoner hvor det foreligger særlige omstendigheter. Ved vurderingen av om det foreligger særlige omstendigheter, skal oppdragsgiver ta hensyn til levert materiell og leverte installasjoners eller systemers forventede levetid, samt de tekniske vanskelighetene som et leverandørskifte kan forårsake. Hvor oppdragsgiver vil inngå en rammeavtale med en varighet på mer enn syv år, skal en redegjørelse for de særlige omstendighetene gis i kunngjøringen som følger av § 9-5, jf. § 9-1.
+(5) Oppdragsgiver må ikke misbruke rammeavtaler eller anvende dem på en måte som hindrer, begrenser eller vrir konkurransen.

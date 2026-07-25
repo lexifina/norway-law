@@ -1,0 +1,2 @@
+# § 1-1. Formål
+Forskriften skal bidra til økt verdiskapning i samfunnet ved å sikre mest mulig effektiv ressursbruk ved offentlige anskaffelser basert på forretningsmessighet og likebehandling, for på denne måten også ivareta behovet for å utvikle og opprettholde en europeisk forsvars- og sikkerhetsteknologisk og industriell base. Forskriften skal også bidra til at det offentlige opptrer med stor integritet, slik at allmennheten har tillit til at offentlige anskaffelser skjer på en samfunnstjenlig måte.
