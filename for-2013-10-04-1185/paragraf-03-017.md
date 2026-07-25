@@ -1,0 +1,2 @@
+# § 3-17. Pålegg
+Forsvarsdepartementet kan gi oppdragsgiver de pålegg som er nødvendige for å sikre oppfyllelsen av denne forskrift. Overfor oppdragsgivere som nevnt i lov 16. juli 1999 nr. 69 om offentlige anskaffelser § 2 første ledd andre punktum og tredje punktum, kan det likevel bare gis pålegg som er nødvendige for å oppfylle Norges forpliktelser om offentlige anskaffelser overfor fremmede stater eller internasjonale organisasjoner.

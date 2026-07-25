@@ -1,0 +1,2 @@
+# § 15-2. Overgangsregler
+Forskriften gjelder anskaffelser iverksatt etter forskriftens ikrafttredelse. En anskaffelse er iverksatt når den er kunngjort eller oppdragsgiver har sendt ut en forespørsel til en eller flere leverandører om å tilkjennegi interesse eller inngi tilbud i forbindelse med en planlagt anskaffelse. For anskaffelser som ikke er iverksatt før ikrafttredelse, gjelder forskriften der kontrakt inngås etter ikrafttredelse.

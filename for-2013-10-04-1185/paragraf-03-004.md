@@ -1,0 +1,2 @@
+# § 3-4. Taushetsplikt
+Oppdragsgiver og dennes ansatte plikter å hindre at andre får adgang eller kjennskap til opplysninger om tekniske innretninger og fremgangsmåter eller drifts- og forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde, jf. lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13. For oppdragsgivere som ikke er underlagt forvaltningsloven, gjelder reglene i forvaltningsloven § 13 tilsvarende.

@@ -1,0 +1,11 @@
+# § 10-1. Minimumsfrister ved begrenset anbudskonkurranse
+(1) Fristen for mottak av forespørsler om å delta skal være minst 30 dager fra den dag kunngjøringen ble sendt til TED-databasen. Ved fastsettelsen av fristen skal det spesielt tas hensyn til kontraktens kompleksitet og tiden det tar å utarbeide en forespørsel om å delta.
+(2) Fristen for mottak av tilbud fra de som er kvalifisert og utvalgt til å delta i konkurransen skal være minst 40 dager regnet fra den dag den skriftlige invitasjonen og konkurransegrunnlaget ble sendt fra oppdragsgiver. Ved fastsettelsen av fristen skal det spesielt tas hensyn til kontraktens kompleksitet og tiden det tar å utarbeide tilbud.
+(3) Tilbudsfristen i annet ledd skal forlenges forholdsmessig dersom:
+a) det foretas rettelse, supplering eller endring av konkurransegrunnlaget som nevnt i § 8-2,
+b) tilbud bare kan utarbeides etter en befaring, eller
+c) tilbud bare kan utarbeides etter en gjennomgang på stedet av tilleggsdokumentene til konkurransegrunnlaget.
+(4) Tilbudsfristen i annet ledd kan forkortes dersom oppdragsgiver har publisert en veiledende kunngjøring i samsvar med § 9-2 minst 45 dager og høyst tolv måneder forut for kunngjøringen, og den veiledende kunngjøringen inneholdt alle de opplysningene som fremgår av kunngjøringsskjemaene for veiledende kunngjøringer, i den utstrekning disse opplysningene forelå på kunngjøringstidspunktet. Fristen skal være tilstrekkelig lang til at interesserte leverandører kan levere tilbud, og bør generelt være minst 36 dager. Under ingen omstendigheter må tilbudsfristen settes kortere enn 22 dager fra datoen for avsendelse av invitasjonen.
+(5) Tilbudsfristen i annet ledd kan forkortes med fem dager dersom det fra tidspunktet for kunngjøringen gis fri, direkte og full elektronisk adgang til konkurransegrunnlaget og ethvert supplerende dokument. Det skal angis i kunngjøringen på hvilken internettadresse denne dokumentasjonen er tilgjengelig.
+(6) Konkurransegrunnlaget og invitasjon til å sende inn tilbud skal sendes skriftlig og samtidig til de utvalgte leverandørene.
+(7) Forutsatt at forespørsel om tilleggsinformasjon i tilknytning til konkurransegrunnlaget er fremsatt i tilstrekkelig tid før tilbudsfristens utløp, skal tilleggsinformasjonen leveres senest seks dager før tilbudsfristens utløp.

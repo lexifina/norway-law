@@ -1,0 +1,3 @@
+# § 7-2. Bruk av telefaks og telefon ved anmodning om å delta i konkurranser
+(1) Forespørsel om å delta i en konkurranse kan, i tillegg til de kommunikasjonsformer som er nevnt i § 7-1 første ledd, også fremsettes på telefon. Leverandøren skal i så fall sende skriftlig bekreftelse på forespørselen før utløpet av fristen for forespørsel om å delta i konkurransen.
+(2) Forespørsel om å delta i konkurransen kan også fremsettes ved telefaks. Dersom det er nødvendig av bevishensyn, kan oppdragsgiver kreve at en slik forespørsel bekreftes per post eller elektronisk. Krav om slik bekreftelse, samt fristen for innlevering, må fremgå av kunngjøringen.

@@ -1,0 +1,5 @@
+# § 9-2. Veiledende kunngjøring
+(1) Ved vare- og tjenestekontrakter og rammeavtaler kan oppdragsgiver offentliggjøre en veiledende kunngjøring i samsvar med § 9-1. Kunngjøringen skal angi den samlede verdi av de planlagte vare- og tjenestekontrakter og rammeavtaler som oppdragsgiver venter å foreta de neste tolv månedene for hvert enkelt tjenesteområde som nevnt i vedlegg 5 eller vareområder som nevnt i CPV-nomenklaturet. Kunngjøringen skal skje snarest mulig etter godkjennelsen av prosjektet som involverer anskaffelsen.
+(2) Ved bygge- og anleggskontrakter og rammeavtaler kan oppdragsgiver foreta en veiledende kunngjøring i samsvar med § 9-1. Kunngjøringen skal skje snarest mulig etter godkjennelsen av prosjektet som involverer anskaffelsen.
+(3) For å kunne benytte de forkortede fristene i § 10-1 fjerde ledd må oppdragsgiver først ha foretatt en veiledende kunngjøring eller ha gitt de samme opplysninger i sin kjøperprofil.
+(4) Oppdragsgiver som foretar en veiledende kunngjøring på sin kjøperprofil skal sende en kunngjøring om dette til Doffin.

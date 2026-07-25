@@ -1,0 +1,2 @@
+# § 11-4. Alternative tilbud
+Dersom tildeling av kontrakt skal skje på bakgrunn av det økonomisk mest fordelaktige tilbud, kan oppdragsgiver ta i betraktning alternative tilbud. Dersom oppdragsgiver tillater alternative tilbud, skal dette angis i kunngjøringen. Oppdragsgiver skal angi i konkurransegrunnlaget de alternative minstekravene til ytelse og funksjon, og eventuelle spesielle krav til tilbudets utforming som stilles til alternative tilbud.

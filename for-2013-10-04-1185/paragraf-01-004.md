@@ -1,0 +1,4 @@
+# § 1-4. Sammensatte kontrakter
+(1) En kontrakt som både faller innunder denne forskriftens anvendelsesområde og delvis innunder forskrift 7. april 2006 nr. 402 om offentlige anskaffelser (forskrift om offentlige anskaffelser) eller forsyningsforskriften skal anskaffes i henhold til denne forskriften, forutsatt at tildelingen av en enkelt kontrakt er basert på saklige grunner.
+(2) Denne forskriften kommer ikke til anvendelse på kontrakter hvor hele eller deler av anskaffelsen kan unntas denne forskriften, forskrift om offentlige anskaffelser og forsyningsforskriften.
+(3) Første og annet ledd gjelder bare dersom tildeling av en enkelt kontrakt er basert på objektive grunner. Oppdragsgiver skal ikke tildele én kontrakt i den hensikt å unnta kontrakten fra denne forskrift, forskrift om offentlige anskaffelser eller forsyningsforskriften.
