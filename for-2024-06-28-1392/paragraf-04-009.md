@@ -1,0 +1,2 @@
+# § 4-9. Private institusjoner som mottar statstilskudd
+Private universiteter og høyskoler som mottar statstilskudd, har ikke anledning til å ta ut overskudd eller overføre økonomiske verdier til personer eller annen virksomhet på en slik måte at statstilskudd ikke kommer studentene til gode. Det er anledning til å se institusjonens virksomhet som helhet over tid og overføre overskudd fra et år til et annet, men på en slik måte at statstilskudd kommer studentene til gode.

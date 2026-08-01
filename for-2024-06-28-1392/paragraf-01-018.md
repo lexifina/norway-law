@@ -1,0 +1,2 @@
+# § 1-18. Europeisk tilnærming til fellesgrader – unntak fra universitets- og høyskoleloven § 3-2
+Institusjoner med institusjonsakkreditering og selvakkrediteringsrett på det aktuelle nivået og fagområdet kan søke om akkreditering av internasjonale fellesgrader ved kvalitetssikringsorgan som er godkjent i det europeiske registeret over kvalitetssikringsorgan (EQAR), i samsvar med den europeiske tilnærmingen til fellesgrader vedtatt i Bologna-samarbeidet i 2015, the European Approach for Quality Assurance of Joint Programmes.

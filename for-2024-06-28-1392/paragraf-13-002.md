@@ -1,0 +1,5 @@
+# § 13-2. Overgangsregler for kapittel 3 Undervisnings- og forskningsstillinger og rekrutteringsstillinger
+For vedtak om ansettelser og opprykk i undervisning- og forskningsstillinger før 1. august 2025, kan institusjonene velge å bruke kvalifikasjonskravene som er fastsatt i forskrift 9. februar 2006 nr. 129 om ansettelse og opprykk i undervisnings- og forskerstillinger.
+Ansatte som søker om opprykk etter § 3-13 senest 31. juli 2025 har rett til å få søknaden vurdert etter forskrift 9. februar 2006 nr. 129 om ansettelse og opprykk i undervisning- og forskerstillinger.
+Ansatte i stillingskategorien universitets- og høyskolelektor har rett til å søke opprykk til førsteamanuensis etter forskrift 9. februar 2006 nr. 129 om ansettelse og opprykk i undervisning- og forskerstillinger § 2-4 første ledd, fram til 31. desember 2027.
+For vedtak om ansettelser i rekrutteringsstillinger før 1. august 2025, kan institusjonene velge å bruke ansettelsesvilkårene i forskrift 31. januar 2006 nr. 102 om ansettelsesvilkår for stillinger som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat.

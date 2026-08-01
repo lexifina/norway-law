@@ -1,0 +1,3 @@
+# § 9-1. Innhenting av personopplysninger og automatisert saksbehandling
+Universiteter og høyskoler kan innhente opplysninger om navn, fødselsnummer eller d-nummer, arbeidserfaring og vitnemål og annen dokumentasjon på oppnådd kompetanse fra andre offentlige myndigheter, fra offentlige systemer for vitnemål og fra statlige, fylkeskommunale og private utdanningsinstitusjoner, når det er nødvendig for å utføre oppgaver etter universitets- og høyskoleloven.
+Institusjonene kan fatte vedtak ved helt eller delvis automatisert saksbehandling i sine systemer. Avgjørelsen kan ikke bygge på skjønnsmessige lov- eller forskriftsvilkår, med mindre avgjørelsen er utvilsom. Den personen som vedtaket retter seg mot, kan kreve at vedtaket overprøves manuelt.

@@ -1,0 +1,4 @@
+# § 3-8. Utdanningsfaglig kompetanse
+Universiteter og høyskoler skal fastsette nærmere krav til den utdanningsfaglige kompetansen. Kravene skal tilpasses hver stillingskategori. For stillingene førstelektor, dosent, førsteamanuensis og professor skal det minimum kreves formell opplæring, kvalitetsutvikling i egen undervisning, veiledning, og vesentlige bidrag til utvikling av utdanningskvalitet.
+Med utdanningsfaglig kompetanse menes pedagogisk eller didaktisk kompetanse for å fremme læring, blant annet kunnskap og ferdigheter innen utvikling og gjennomføring av undervisning og veiledning på universitets- og høyskolenivå.
+Museumsfaglig kompetanse kan erstatte utdanningsfaglig kompetanse ved ansettelse ved universitetsmuseer. Institusjonene skal fastsette retningslinjer for hva som er relevant museumsfaglig kompetanse.
