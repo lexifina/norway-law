@@ -1,0 +1,12 @@
+# § 4-5-4. Kontinuasjonseksamen, utsatt eksamen og forbedringseksamen
+(1) En student som er vurdert til karakteren «F» / «ikke bestått» eller hadde gyldig fravær ved ordinær eksamen, vil tilbys ny eksamen ved neste eksamensperiode eller påfølgende semester.
+(2) En student som ønsker å forbedre en eksamenskarakter kan søke om å gå opp til ny forbedringseksamen ved neste eksamensperiode. Forbedringseksamen kan maksimalt avlegges en gang forutsatt at eksamensforsøkene ikke overstiger tre forsøk. Det vil være den siste eksamenskarakteren som blir den gjeldende.
+(3) Hvis en student skal melde seg opp til ny eksamen må det gjøres innen frist fastsatt av fagskolen. Jf. § 4-5-1 (6).
+(4) Aktive studenter med studie- og eksamensrett kan avlegge ordinære eksamener, konteeksamener, forbedringseksamener og utsatte eksamener kostnadsfritt på sitt studiested.
+(5) Avgangsstudenter som fullfører utdanningen, men mangler vurdering, må søke om konteeksamen før skoleåret er avsluttet. Dette sikrer at de beholder sin studentstatus og studierett. Når en student har fullført studiet og mottatt sin karakterutskrift/vitnemål, opphører studieretten.
+(6) Tidligere studenter som ikke lengre har studentstatus, kan søke særskilt om å avlegge eksamen. Slik søknad kan innvilges dersom det ikke har skjedd vesentlige endringer i læringsutbyttet for utdanningen, eller dersom endringer i emneplanen ikke påvirker eksamensgrunnlaget vesentlig. Særskilt eksamensforsøk er et enkeltvedtak, og pålegges et eksamensgebyr.
+(7) Ordinære eksamener arrangeres vanligvis ved slutten av hvert semester eller etter fullført emne, med tidspunkter som kan variere avhengig av studieplanen. Konteeksamener arrangeres normalt i begynnelsen av det påfølgende semesteret etter siste ordinære eksamen. Studenter må følge eksamensplanen som publiseres av fagskolen for hvert semester, som inkluderer både ordinære og konteeksamener. Som hovedregel arrangeres det kun en kontinuasjonseksamen per emne i løpet av et studieår, og studentene må selv melde seg opp til denne.
+(8)
+Første gjennomføring av eksamen: Ordinær eksamen.
+Andre gjennomføring av eksamen: Dette kan inkludere konteeksamen, utsatt eksamen eller forbedringseksamen. Slike eksamener arrangeres normalt i starten av det påfølgende semesteret etter den siste ordinære eksamen.
+Tredje gjennomføring av eksamen: Dette kan være konteeksamen eller utsatt eksamen. Som hovedregel gjennomføres disse samtidig med den neste ordinære eksamen i emnet.
