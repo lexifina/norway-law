@@ -1,0 +1,2 @@
+# § 9-3. Utsatt innleveringsfrist ved eksamen uten tilsyn
+Ved eksamen som gjennomføres uten tilsyn, kan det innvilges inntil 48 timers utsettelse med innleveringen dersom studenten innen fastsatt frist kan dokumentere at forsinkelsen skyldes akutt sykdom som forhindrer studenten i å levere eksamensbesvarelsen i tide. MF kan også godkjenne andre forhold som gyldig grunn for utsettelse hvis disse forhindrer studenten fra å levere innen fristen. Kravet til dokumentasjon gjelder tilsvarende. I særlige tilfeller kan studenten få en lengre frist for innleveringen.
