@@ -1,0 +1,5 @@
+# § 3-3. Innpass
+(1) En student med studierett kan søke om å få innpasset emne studenten har avlagt tidligere, jf. universitets- og høyskoleloven § 9-1. Søknad må sendes Studieadministrativ avdeling innen fastsatte frister. For å få innpass må det aktuelle emnet tilsvarer et emne NHH tilbyr. Det omsøkte emnet må minst ha samme omfang målt i studiepoeng, minst være på samme nivå (bachelor/master) og ha tilsvarende innhold/læringsutbytte (bredde/dybde) som NHH-emnet. Et bestått NHH-emne kan ikke erstattes ved innpass.
+(2) Det generelle kravet om tilknytning i § 6-1 og det spesielle kravet i relasjon til utstedelse av en ny grad i § 6-2 vil kunne begrense mulighetene etter første ledd.
+(3) En student kan få godkjent inntil 30 studiepoeng på grunnlag av emner bestått ved utenlandsk lærested i forbindelse med utvekslingsopphold organisert av NHH. For dobbeltgrader gitt i samarbeid med internasjonale samarbeidsinstitusjoner gjelder egne regler.
+(4) Student som har fått innpass for et emne, kan likevel velge å ta emnet ved NHH. Vedtaket om innpass faller da bort.
