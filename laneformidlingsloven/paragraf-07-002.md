@@ -1,0 +1,4 @@
+# § 7-2. Forsvarlig virksomhet
+(1) Låneformidlingsforetak skal organiseres og drives på en forsvarlig måte. Foretaket skal ha en klar organisasjonsstruktur og ansvarsfordeling samt klare og hensiktsmessige styrings- og kontrollordninger. Foretaket skal ha hensiktsmessige retningslinjer og rutiner for å identifisere, styre, overvåke og rapportere risiko foretaket er, eller kan bli, eksponert for. Foretaket skal også ha hensiktsmessige retningslinjer og rutiner for gjennomføring, overvåkning og regelmessig vurdering av godtgjørelsesordninger.
+(2) Foretaket skal kunne dokumentere at foretakets plikter etter denne loven og forskrifter gitt i medhold av loven etterleves. Dokumentasjon skal være minst så fyllestgjørende at Finanstilsynet kan kontrollere om reglene er fulgt. Slik dokumentasjon skal oppbevares i minst fem år.
+(3) Departementet kan i forskrift fastsette nærmere regler om krav til forsvarlig virksomhet og om dokumentasjonsplikt.
