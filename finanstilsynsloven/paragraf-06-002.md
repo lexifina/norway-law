@@ -1,0 +1,4 @@
+# § 6-2. Granskninger mv.
+(1) Finanstilsynet kan engasjere statsautoriserte revisorer og andre sakkyndige til å utføre oppdrag innenfor Finanstilsynets arbeidsområde.
+(2) Finanstilsynet kan oppnevne utvalg til å foreta selvstendige granskninger innenfor Finanstilsynets arbeidsområde. Foretak under tilsyn og deres tillitsvalgte og ansatte har samme opplysningsplikt overfor et slikt utvalg som de har overfor Finanstilsynet etter § 3-1. Som ledd i granskningen kan utvalget kreve bevisopptak ved domstolene etter domstolloven § 44. Utvalgets medlemmer har tilsvarende taushetsplikt som angitt i § 2-7 første ledd og må, hvis ikke annet er fastsatt eller forutsatt ved oppnevningen, følge de regler som gjelder for styremedlemmer i Finanstilsynet.
+(3) Departementet kan bestemme at utgiftene ved oppdrag som nevnt i første og annet ledd helt eller delvis skal refunderes av de foretak hvor oppdragene har vært utført.
