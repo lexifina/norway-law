@@ -1,0 +1,3 @@
+# § 44-9. Sensurering av muntlig presentasjon
+(1) Presentasjonen kan sammen med den påfølgende diskusjonen være justerende på den endelige karakteren på oppgaven. Sluttkarakteren for samarbeidende studenter kan settes likt eller individuelt, avhengig av studentenes prestasjoner jf. § 42-3.
+(2) Studenter som ikke møter til muntlig presentasjon av gradsoppgaven, og som ikke har utsettelse eller dokumenterer akseptert forfallsgrunn, skal få registrert ikke møtt på gradsoppgaven. I slike tilfeller mister studenten studieretten. Adgang til å fremstille seg til vurdering av gradsoppgave reguleres av § 38-1 tredje ledd.

@@ -1,0 +1,6 @@
+# § 40-2. Ekstern sensor
+(1) Emneansvarlig fakultet oppnevner sensorer. Ekstern sensor skal være tilsatt i vitenskapelig stilling ved universitet, høgskole eller annen forskningsinstitusjon, eller på annen måte ha dokumentert vitenskapelig eller kunstnerisk kompetanse innen vedkommende fagområde. Som unntak kan fagperson, som gjennom yrkespraksis dokumenterer at vedkommende er særlig kvalifisert innen vedkommende fag, oppnevnes som ekstern sensor.
+(2) Ekstern sensor kan ikke være tilsatt ved NMBU eller ha hatt undervisningsoppgaver ved NMBU av vesentlig omfang i samme semester eller studieår som eksamenen finner sted.
+(3) For gradsoppgaver hvor studentens praktiske arbeid med oppgaven er gjennomført utenfor NMBU, kan ekstern sensor ikke være tilsatt ved den samme institusjonen som der det praktiske arbeidet gjennomføres.
+(4) Det skal skrives kontrakt om sensoroppdrag mellom ekstern sensor og emneansvarlig fakultet. Av kontrakten skal det fremgå hvordan ekstern sensor deltar i vurderingsopplegget jf. § 40-4. Den som påtar seg eller er pålagt et sensoroppdrag, har plikt til å overholde bestemmelser i uhl. og i denne forskrift.
+(5) Ved forfall eller langvarig sykdom skal fakultetet oppnevne annen/andre kvalifisert(e) sensor(er) i tråd med emnets opprinnelige krav til sensurering.

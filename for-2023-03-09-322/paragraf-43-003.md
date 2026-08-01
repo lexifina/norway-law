@@ -1,0 +1,8 @@
+# § 43-3. Ny sensur ved klage
+(1) Ved klage på karakter skal det foretas ny sensur med nye sensorer oppnevnt av fakultetet. For behandlingen av klage på karakter gjelder de til enhver tid gjeldende bestemmelser i uhl. om klage over karakterfastsetting og sensorveiledningen for det aktuelle emnet.
+(2) Sensur som følge av klage skal avgjøres uten ugrunnet opphold, jf. lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 11a. Dersom klagen ikke kan behandles i løpet av en måned etter at den er mottatt, skal det sendes ut et foreløpig svar til studenten der det gjøres rede for årsaken til dette. Om mulig oppgis det når man regner med å kunne behandle klagen.
+(3) Ny sensur etter klage på karakter kan forbli uendret eller fastsettes til gunst/ugunst for studenten.
+(4) Ved klage på karakter gitt for et skriftlig arbeid med en tilhørende justerende muntlig prøve, kan studenten kun klage på karakteren for det skriftlige arbeidet. Ved klage på karakter skal det skriftlige arbeidet oversendes til nye sensorer. Dersom ny sensurering av det skriftlige arbeidet fører til at karakteren på det skriftlige arbeidet endres til gunst eller ugunst for klager, skal det holdes ny justerende muntlig prøve for fastsetting av endelig karakter jf. de til enhver tid gjeldende bestemmelser i uhl.
+(5) Det er individuell klagerett ved gruppeeksamen. En eventuell endring av karakter etter klage vil kun gjelde for studenten som har klaget.
+(6) Hvis karakteren ved ny sensur etter klage avviker med to eller flere karakterer fra opprinnelig sensur, foretas det ytterligere en vurdering før endelig karakter fastsettes.
+(7) Rektor kan fastsette utfyllende bestemmelser for ny sensur ved klage på karakter.
