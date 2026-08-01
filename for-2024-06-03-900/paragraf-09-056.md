@@ -1,0 +1,4 @@
+# § 9-56. Oppmelding til fag- og sveineprøva, praksisbrevprøva og kompetanseprøva
+Lærebedrifta skal melde opp ein som har læretid i bedrift til fag- eller sveineprøva, praksisbrevprøva eller kompetanseprøva. Skolen skal melde opp elevar til fag- eller sveineprøva.
+Oppmeldinga av dei som har læretid i bedrift skal sendast til den fylkeskommunen der kontrakten om opplæring er godkjend, seinast innan to månader før kontraktstida er ute. Oppmeldinga av elevar skal sendast til fylkeskommunen der skolen ligg.
+Praksiskandidatar må sjølve melde seg opp til fag- eller sveineprøva til fylkeskommunen innan den fristen som fylkeskommunen fastset. Praksiskandidatane skal betale ei prøveavgift til fylkeskommunen. Prøveavgifta blir fastsett ved dei årlege budsjettvedtaka i Stortinget. Dei skal ikkje betale for utsett prøve etter § 9-67, eller for ny prøve ved medhald i klage på bortvising eller annullering etter §§ 9-68 og 9-69.

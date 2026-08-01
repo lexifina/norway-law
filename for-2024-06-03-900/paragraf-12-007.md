@@ -1,0 +1,5 @@
+# § 12-7. Krav for å bli tilsett i lærarstilling i fellesfag på alle utdanningsprogram, og i programfag på studieførebuande utdanningsprogram i den vidaregåande opplæringa
+Fylkeskommunen skal sørgje for at dei som skal tilsetjast i lærarstilling i fellesfag på alle utdanningsprogram, og i programfag på studieførebuande utdanningsprogram i den vidaregåande opplæringa oppfyller eitt av desse krava:
+a) Dei har universitets- eller høgskoleutdanning som samla utgjer minst 240 studiepoeng, inklusive pedagogisk utdanning etter § 12-1. Dei som har slik utdanning, kan tilsetjast for å undervise i fag der dei har minst 60 studiepoeng relevant utdanning.
+b) Dei har faglærarutdanning. Dei som har slik utdanning, kan tilsetjast for å undervise i fag der dei har minst 60 studiepoeng relevant utdanning.
+c) Dei har lærarutdanning med spesialpedagogisk utdanning tilsvarande minst 60 studiepoeng. Dei som har slik utdanning, kan tilsetjast for å gi individuelt tilrettelagd opplæring eller dersom det er ønskjeleg ut frå behova til elevane.

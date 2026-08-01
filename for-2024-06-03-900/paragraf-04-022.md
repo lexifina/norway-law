@@ -1,0 +1,4 @@
+# § 4-22. Fortrinnsrett til ein skole som er særskilt tilrettelagd ved inntak til vidaregåande trinn 1
+Søkjarar som har rett til individuell tilrettelegging etter opplæringslova kapittel 11, og som på grunn av sterkt nedsett funksjonsevne har eit særleg behov for å komme inn på ein skole som er særskilt tilrettelagd, kan søke om fortrinnsrett ved inntaket til vidaregåande trinn 1.
+Søkjarane har ikkje rett til inntak til ein viss skole. Fylkeskommunen vurderer på individuelt grunnlag om det ligg føre tungtvegande grunnar som taler for at søkjaren bør takast inn til ein viss skole.
+Kommunen skal ikkje seinare enn 1. oktober kvart år melde frå til fylkeskommunen om elevar med sterkt nedsett funksjonsevne som er i ferd med å fullføre grunnskolen det aktuelle skoleåret. Slik melding frå kommunen føreset samtykke frå dei elevane det gjeld.

@@ -1,0 +1,4 @@
+# § 9-62. Særskild tilrettelegging av fag- og sveineprøva, praksisbrevprøva og kompetanseprøva
+Dei som har opplæring i bedrift, elevar og praksiskandidatar har rett til særskild tilrettelegging av prøva dersom dei treng det for å få vist kompetansen sin i faget. Tilrettelegginga må vere tilpassa behova til kvar enkelt kandidat så langt det er mogleg, men kandidaten må bli prøvd i kompetansemåla i faget og skal ikkje få fordelar framfor andre kandidatar.
+Der det i læreplanen i faget er lagt særleg vekt på skriftlege, munnlege eller praktiske ferdigheiter, skal prøva ikkje leggjast til rette på ein slik måte at desse ferdigheitene ikkje blir prøvde.
+Dei som ønskjer særskild tilrettelegging av prøva, må søkje fylkeskommunen om det. Fylkeskommunen kan krevje at ein sakkunnig instans gir fråsegn om behovet for tilrettelegging. Fylkeskommunen avgjer kva slags tilretteleggingstiltak som skal setjast inn.

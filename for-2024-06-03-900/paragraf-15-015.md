@@ -1,0 +1,2 @@
+# § 15-15. Fritak frå vurdering med karakter og eksamen for deltakarar i førebuande opplæring for vaksne med individuelt tilrettelagd opplæring
+Reglane om fritak frå vurdering med karakter og fritak frå eksamen for elevar med individuelt tilrettelagd opplæring i § 9-19 og § 9-24 gjeld for deltakarar i førebuande opplæring for vaksne så langt dei passar. Det er kommunen som avgjer søknader om fritak etter § 9-24.

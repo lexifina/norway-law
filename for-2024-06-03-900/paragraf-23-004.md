@@ -1,0 +1,2 @@
+# § 23-4. Fag- og sveineprøve
+Dei første fag- og sveineprøvene etter Læreplanverket for Kunnskapsløftet 2020 skal haldast våren 2023. Fag- og sveineprøver etter Læreplanverket for Kunnskapsløftet 2006 skal haldast innan 31. desember 2025. Siste fag- og sveineprøve for lærefag med opplæring i tre år og verdiskaping i eit og eit halvt år, skal haldast innan 31. juli 2026. Siste fag- og sveineprøve for lærefag med opplæring i fire år og verdiskaping i eit år, skal haldast innan 31. desember 2026. Dei same tidsfristane gjeld også for kompetanseprøver og praksisbrevprøver.

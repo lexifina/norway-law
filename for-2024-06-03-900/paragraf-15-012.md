@@ -1,0 +1,4 @@
+# § 15-12. Modulvurdering i førebuande opplæring for vaksne
+Modulvurderingar i førebuande opplæring skal vere eit uttrykk for den kompetansen deltakarane har ved avslutninga av opplæringa i ein modul. Modulkarakterar skal setjast i samsvar med § 15-2, jf. § 9-1.
+Den som står for hovuddelen av opplæringa, gjennomfører modulvurderinga og set modulkarakter for vaksne deltakarar. Dersom fleire har stått for delar av opplæringa, skal den som har stått for hovuddelen av opplæringa, setje modulkarakterar i samråd med dei andre som har gitt opplæring.
+Dersom kommunen er i tvil om reglane for fastsetjing av modulkarakterar er følgde, kan dei krevje at den som står for hovuddelen av opplæringa, gjer ei ny fagleg vurdering før karakterane blir fastsette og førte. Dersom deltakarar i førebuande opplæring for vaksne ikkje kan få modulkarakter i eit fag og har fått varsel etter § 15-4, jf. § 9-7, skal kommunen gjere vedtak om at det ikkje blir gitt modulkarakter i faget.

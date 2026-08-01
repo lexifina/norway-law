@@ -1,0 +1,2 @@
+# § 12-11. Krav for å bli tilsett på bakgrunn av utanlandske lærarkvalifikasjonar
+Kommunen og fylkeskommunen kan tilsetje personar med utanlandske lærarkvalifikasjonar, dersom dei har godkjenning etter § 12-12 som lærar eller som morsmålslærar. Kommunen og fylkeskommunen skal sørgje for at dei som blir tilsett, har ferdigheiter og innsikt i norsk språk, i norske samfunnsforhold og i skoleforhold som er nødvendige for stillinga.

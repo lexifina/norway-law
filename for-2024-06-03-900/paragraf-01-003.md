@@ -1,0 +1,2 @@
+# § 1-3. Opplæring i og på norsk teiknspråk
+Elevar som har rett til opplæring i og på norsk teiknspråk etter opplæringslova § 3-4, kan i faga norsk teiknspråk, norsk, engelsk og musikk få opplæring etter læreplanane i norsk teiknspråk, norsk for elevar med teiknspråk, engelsk for elevar med teiknspråk og drama og rytmikk for elevar med teiknspråk med utvida timetal. Elevane kan velje om dei vil ha opplæring etter alle dei fire læreplanane, eller om dei berre vil ha opplæring etter læreplanen i norsk teiknspråk.

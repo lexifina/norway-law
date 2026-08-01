@@ -1,0 +1,3 @@
+# § 4-2. Inntak til utdanningsprogram og programområde
+Søkjarar skal takast inn til eit fullstendig utdanningsprogram på vidaregåande trinn 1 eller eit fullstendig programområde på vidaregåande trinn 2 eller vidaregåande trinn 3. Dette gjeld også søkjarar som gjer omval, som forserer fag, eller som planlegg å bruke lengre enn normert tid på trinnet, jf. § 5-1 tredje ledd. Dei som gjer omval og dei som forserer fag, har rett til opplæring også i dei faga som allereie er bestått.
+Ein elev kan søkje fylkeskommunen om å ikkje delta i opplæringa i eit eller fleire fag for å ta eksamen som privatist. Fylkeskommunen kan innvilge søknaden om det ligg føre tungtvegande grunnar.

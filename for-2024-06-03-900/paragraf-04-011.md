@@ -1,0 +1,2 @@
+# § 4-11. Saksbehandling ved søknader om inntak til skolar med opplæring i og på norsk teiknspråk
+For ein søkjar som har prioritert inntak til ein skole som gir opplæring i og på norsk teiknspråk, skal fylkeskommunen der søkjaren er folkeregistrert, innan 15. mars vidaresende søknaden til fylkeskommunen som eig skolen. Sistnemnde melder ifrå til fylkeskommunen der søkjaren er folkeregistrert, om søkjaren har fått plass eller ikkje. Dersom søkjaren får plass ved skolen, gjer fylkeskommunen der søkjaren er folkeregistrert, vedtak om inntak på skolen.

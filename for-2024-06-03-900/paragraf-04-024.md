@@ -1,0 +1,2 @@
+# § 4-24. Fordeling av plassar til vidaregåande trinn 2 og vidaregåande trinn 3
+Dersom det til vidaregåande trinn 2 eller trinn 3 er fleire søkjarar enn fylkeskommunen har tilbod om elevplass til, skal plassane fordelast etter poengsum. Dette gjeld ikkje søkjarar som skal behandlast individuelt etter § 4-26, eller som blir tatt inn på grunnlag av fortrinnsrett etter § 4-27 til § 4-28. Når søkjarar står likt i konkurransen om dei siste plassane, blir rekkjefølgja avgjord ved loddtrekning.

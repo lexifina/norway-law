@@ -1,0 +1,1 @@
+# Sjette delen – sluttreglar
