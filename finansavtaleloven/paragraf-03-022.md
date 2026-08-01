@@ -1,7 +1,7 @@
 # § 3-22. Opplysningsplikt før avtaleinngåelsen
 (1) Når ikke noe annet er særskilt bestemt, skal tjenesteyteren i god tid før avtale inngås gi kunden avtalevilkårene og alle relevante opplysninger i samsvar med reglene gitt i eller i medhold av annet til sjette ledd og §§ 3-23 til 3-39.
 (2) Opplysningsplikten etter §§ 3-24 til 3-29 gjelder for alle avtaler om finansielle tjenester som inngås ved fjernsalg, og for avtaler etter kapittel 4, 5 og 6 uansett salgsform. Opplysningsplikten etter §§ 3-24 til 3-29 gjelder uansett salgsform også for følgende avtaler:
-a) avtaler om finansoppdrag som ikke er omfattet av verdipapirhandelloven eller verdipapirfondloven
+a) avtaler om finansoppdrag som ikke er omfattet av verdipapirhandelloven, verdipapirfondloven eller folkefinansieringsloven
 b) avtaler som inngås med en forbruker om leiefinansiering som nevnt i § 5-23 annet ledd når avtalen varer mer enn 30 dager regnet fra utløpet av leveringsmåneden for leieobjektet
 c) avtaler om finansiell garanti e.l. til fordel for en forbruker.
 (3) Blir avtalen inngått på forespørsel fra kunden ved bruk av fjernkommunikasjon, slik at det ikke er mulig å gi kunden avtalevilkår og opplysninger før avtaleinngåelsen, skal avtalevilkårene og opplysningene gis kunden umiddelbart etter at avtalen er inngått eller det er gjennomført en enkeltstående betalingstransaksjon. Første punktum innebærer ingen begrensning i de regler som gjelder for avtaleinngåelsen, herunder krav til signatur. For alle avtaler om finansielle tjenester som inngås utenom tjenesteyterens faste forretningslokaler, skal tjenesteyteren sørge for at kunden gis opplysninger om angrerett som nevnt i § 3-25 bokstav h, selv om det for øvrig ikke gjelder en opplysningsplikt etter regler i annet ledd.

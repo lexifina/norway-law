@@ -16,6 +16,7 @@ m) foretak som driver depotvirksomhet
 n) forvalter av alternative investeringsfond
 o) finansmeglerforetak
 p) kryptoeiendelstjenesteytere
+q) folkefinansieringsforetak
 (2) Loven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:
 a) statsautoriserte og registrerte revisorer, godkjente revisjonsselskaper og revisorer som er ansvarlig for revisjon av regnskap for kommune, fylkeskommune eller kommunalt eller fylkeskommunalt foretak. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
 b) statsautoriserte regnskapsførere og regnskapsselskaper. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
