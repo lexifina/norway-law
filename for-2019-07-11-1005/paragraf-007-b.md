@@ -1,0 +1,3 @@
+# § 7b. Dispensasjon fra det generelle opptakskravet om fullført og bestått videregående opplæring
+(1) Fagskolene kan i særskilte tilfeller gjøre unntak fra kravet om bestått fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse. Vilkåret for slik dispensasjon er at søkeren kan dokumentere at det på grunn av varig sykdom, funksjonshemming eller liknende har vært umulig å oppfylle alle kravene som normalt må være oppfylt for å kunne fullføre og bestå videregående opplæring.
+(2) Fagskolen må vurdere kvalifikasjonene ut fra utdanningen søkeren ønsker å ta, og finne fram til egnede framgangsmåter for slike vurderinger.

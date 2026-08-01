@@ -1,0 +1,3 @@
+# § 37. Godskriving og fritak
+(1) Utgangspunktet for vurderinger om godskriving og fritak skal være læringsutbyttebeskrivelsene for den aktuelle utdanningen eller det aktuelle emnet og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning for de emner eller den kompetanse det søkes om godskriving eller fritak for.
+(2) Fritak skal bygge på en faglig vurdering fra den enkelte fagskole. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn, fra arbeidsliv, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.

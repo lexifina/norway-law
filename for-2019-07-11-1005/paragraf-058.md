@@ -1,0 +1,2 @@
+# § 58. Direktoratet for høyere utdanning og kompetanses godkjenningsvedtak
+Direktoratet for høyere utdanning og kompetanses vedtak om generell godkjenning av utenlandsk fagskoleutdanning eller en annen yrkesfaglig utdanning fra utlandet på tilsvarende nivå, skal angi om utdanningen er sidestilt i nivå og omfang med norsk fagskoleutdanning. Vedtaket skal kort beskrive fagområdet for utdanningen, blant annet ved å oppgi hvilket yrke eller hvilken bransje eller sektor utdanningen kvalifiserer for der den er avlagt.
