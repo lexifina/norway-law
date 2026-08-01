@@ -1,0 +1,2 @@
+# § 22. Studiets lengde
+Utdanningen skal være i samsvar med yrkeskvalifikasjonsdirektivet. Utdanningen skal ha et omfang på 180 studiepoeng, vare i tre år på normert tid, og bestå av minst 4 600 timers teoretisk utdanning og praksisstudier. Den teoretiske utdanningen skal utgjøre minst en tredel og den praktiske utdanningen minst halvparten av utdanningens samlede minste varighet. Den praktiske utdanningen skal gjennomføres i direkte kontakt med friske eller syke enkeltpersoner og grupper.
