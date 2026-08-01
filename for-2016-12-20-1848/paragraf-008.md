@@ -1,0 +1,3 @@
+# § 8. Pasientbetaling for bandasjemateriell og bedøvingsmiddel
+Ved behandling i poliklinikk innan somatikk kan pasienten verta kravd for 75 kroner som betaling for bandasjemateriell og/eller bedøvingsmiddel, men berre i lag med godkjent eigendel etter § 4 andre ledd. Betalinga kan berre verta kravd ein gong pr. konsultasjon. Det skal ikkje krevjast betaling frå born under 18 år.
+I høve godkjend yrkesskade etter lov 28. februar 1997 nr. 19 om folketrygd kapittel 13, og godkjend krigsskade etter lov 13. desember 1946 nr. 21 om krigspensjonering for militærpersonell og lov 13. desember 1946 nr. 22 om krigspensjonering for hjemmestyrkepersonell og sivilpersoner, vert kostnader etter fyrste leden dekte av staten.
