@@ -1,0 +1,4 @@
+# § 4-6. Ny eksamen
+(1) Dersom studenten ikke møter til eksamen, eller eksamen blir vurdert til strykkarakter (F), har studenten rett til å ta ny eksamen i emnet ved første etterfølgende eksamen.
+(2) En student som har bestått «ordinær eksamen», men som ønsker å forbedre karakteren, kan melde seg opp til «ny eksamen». Studenter kan kun melde seg opp én gang for å forbedre karakteren, og det er den beste karakteren som blir gjeldende. Det må her betales en eksamensavgift. En student som har fullført ei utdanning, har rett til å forbedre karakteren i inntil ett år etter fullført utdanning.
+(3) Eksamen kan maksimalt avlegges tre ganger for hvert emne (ordinær eksamen, ny eksamen, samt én eksamen etter at studieforholdet er avsluttet). Oppmelding til eksamen etter endt studieforhold skjer direkte til fagskolen. Det er fagskolen selv som arrangerer eksamen og det må her betales en eksamensavgift.
