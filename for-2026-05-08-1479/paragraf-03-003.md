@@ -1,0 +1,3 @@
+# § 3-3. Godkjenning
+(1) Tidligere avlagt grad, yrkesutdanning eller annet studieprogram av tre års omfang eller mer som har gitt eget vitnemål fra høgskole som nå er en del av OsloMet, kan ikke konverteres til en bachelorgrad. Tidligere tildelt sivilbibliotekargrad, hovedfagskandidatgrad eller cand.polit.-grad fra høgskole som nå er del av OsloMet kan ikke konverteres til en mastergrad.
+(2) Fakultetet avgjør søknader om faglig godkjenning etter universitets- og høyskoleloven. Søknader om faglig godkjenning av emner som er gjennomført på OsloMet vil vurderes etter universitets- og høyskoleloven § 9-1 så langt bestemmelsen passer.
