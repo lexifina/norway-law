@@ -1,0 +1,2 @@
+# § 36-2. Oppmelding til ny eksamen (konte)
+Studenter kan, i samsvar med betingelsene i § 36-1 første ledd, melde seg til ny eksamen (konte) i et emne. Betingelsene er at studenten strøk eller har fått innvilget gyldig fravær, etter kapittel 35, ved sist ordinære eksamen i emnet. Tilsvarende gjelder for ph.d.-studenter, som i forhold til karakterkrav satt av fakultetet, ikke har bestått et emne i opplæringsdelen.

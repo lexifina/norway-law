@@ -1,0 +1,4 @@
+# § 45-6. Studiepoeng som inngår i grunnlag for mastergrad
+(1) Minst 60 av studiepoengene som skal inngå i grunnlaget for mastergraden ved NMBU skal ikke være en del av tidligere oppnådd grad eller yrkesutdanning. I de 60 studiepoengene skal det alltid inngå en masteroppgave tilknyttet et studieprogram.
+(2) Det kan gjelde unntak fra kravet om masteroppgave tilknyttet et NMBU studieprogram, der studenten i samsvar med en internasjonal samarbeidsavtale, inngått av NMBU, tar en dobbelt- eller fellesgrad.
+(3) Rektor kan i utfyllende bestemmelser fastsette at det, for enkelte studieprogram, skal være krav om at minst 90 studiepoeng, som skal inngå i grunnlaget for mastergraden ved NMBU, ikke er en del av tidligere oppnådd grad eller yrkesutdanning jf. forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven kapittel 2.

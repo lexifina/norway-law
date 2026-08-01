@@ -1,0 +1,4 @@
+# § 16-1. Falske vitnemål og dokumenter
+(1) Den som har søkt opptak eller godkjenning ved bruk av falske vitnemål, andre falske dokumenter eller dokumenter utstedt fra falske institusjoner, vil få nevnte papirer inndratt og vil ikke gis opptak eller få godkjent utdanning i samsvar med de til enhver tid gjeldene regler i uhl. Bruk av falske dokumenter vil bli politianmeldt.
+(2) Et vitnemål eller dokument er falskt dersom det inneholder endringer som ikke samsvarer med det opprinnelige dokumentet. Det samme gjelder dersom det er gjort endringer i det opprinnelige dokumentet.
+(3) Med dokumenter utstedt fra falske utdanningsinstitusjoner menes dokumenter som er utstedt fra ikke-eksisterende utdanningsinstitusjoner, fra utdanningsinstitusjoner som gir uriktig uttrykk for å ha en akkreditering etter de til enhver tid gjeldende bestemmelser i uhl. eller etter tilsvarende utenlandsk regelverk.
