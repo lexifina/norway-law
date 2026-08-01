@@ -1,0 +1,3 @@
+# § 7-1. Kva kapittelet gjeld og forholdet til forvaltningsloven
+Kapittelet gjeld klage på vedtak om sluttvurderingar etter kapittel 6. Reglane i forvaltningsloven gjeld om ikkje noko anna er fastsett.
+Kapittelet regulerer ikkje klage på alternative sluttvurderingar etter eigne vurderingssystem godkjende etter § 6-1 andre ledd. Skolar som er godkjende med alternativ sluttvurdering, må ha eit eige system for klage på sluttvurderingar. Skolar med eit alternativt vurderingssystem som er godkjende for å gi sluttvurdering etter kapittel 6, skal følgje reglane i dette kapittelet for klage på slik vurdering.

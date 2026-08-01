@@ -1,0 +1,2 @@
+# § 3-6. Kvote for vaksne søkjarar
+Skolen kan etter søknad til Utdanningsdirektoratet få godkjent ein kvote for vaksne med rett til vidaregåande opplæring innanfor ramma av det elevtalet skolen er godkjend for. Skolen kan etter reglane i § 3-5 også ta inn vaksne søkjarar utan rett innanfor denne kvoten. Kvoten for vaksne søkjarar kan ikkje brukast til å ta inn ungdom med rett til vidaregåande opplæring.

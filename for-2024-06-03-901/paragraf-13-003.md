@@ -1,0 +1,4 @@
+# § 13-3. Nasjonale undersøkingar om skole- og læringsmiljøet til elevane
+På oppdrag frå departementet utarbeider Utdanningsdirektoratet nasjonale undersøkingar om skole- og læringsmiljøet til elevane. Skolen skal sørgje for at undersøkingane blir gjennomførte og følgde opp lokalt. Utdanningsdirektoratet kan godkjenne lokale tilleggsspørsmål frå skolar. Det skal vere frivillig for elevane å delta i slike undersøkingar.
+Dei endelege resultata frå undersøkingane skal ikkje innehalde direkte identifiserbare personopplysningar.
+Utdanningsdirektoratet kan behandle personopplysningar når det er nødvendig for å gjennomføre undersøkingane. Utdanningsdirektoratet kan også behandle endelege resultat som indirekte kan knytast til enkeltpersonar, når det er nødvendig for å kartleggje skole- og læringsmiljøet til elevane, jf. privatskolelova § 7-2d. Opplysningane kan også brukast som grunnlag for forsking, analyse og statistikk.

@@ -1,0 +1,1 @@
+# Fjerde delen – forskjellige reglar

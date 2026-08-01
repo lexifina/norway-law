@@ -1,0 +1,5 @@
+# § 8-1. Foreldremøte og foreldresamtale
+Frå 1. trinn i grunnskolen til vidaregåande trinn 2 skal skolen i starten av kvart skoleår halde eit foreldremøte der dei gir informasjon om innhaldet i og organiseringa av opplæringa, om korleis foreldra kan medverke, og om rutinar og andre relevante forhold.
+I grunnskolen skal skolen minst to gonger i året invitere foreldra til elevane til ein planlagd samtale med kontaktlæraren. På vidaregåande trinn 1 og vidaregåande trinn 2 skal skolen invitere foreldra til elevar som ikkje er myndige, til minst éin slik planlagd samtale i løpet av første halvår av skoleåret.
+Samtalen etter andre ledd skal gi foreldra informasjon om korleis eleven arbeider, den faglege utviklinga til eleven og korleis eleven utviklar seg sosialt. Samtalen skal også klargjere korleis eleven, skolen og foreldra skal samarbeide for å leggje til rette for at eleven lærer og utviklar seg. Elevar som har fylt tolv år, har rett til å vere med i samtalen. Samtalen kan sjåast i samanheng med samtalen med eleven etter § 6-6.
+Skolen skal gi foreldra til elevar som ikkje er myndige, skriftleg eller munnleg melding om fråværet til elevane.
