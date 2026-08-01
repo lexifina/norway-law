@@ -1,0 +1,7 @@
+# § 8-5. Klage over karakterfastsetting
+(1) Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har studenten framsatt krav om begrunnelse for karakterfastsetting eller har klaget over formelle feil, løper klagefristen fra studenten har mottatt begrunnelse eller avgjørelse på klagen over formelle feil. I emner med deleksamener løper klageretten fra det tidspunkt eksamensresultatet i den enkelte deleksamen er kunngjort.
+(2) Studenten kan fremsette individuell klage på karakter ved gruppeeksamen. En eventuell endring av karakter etter klage vil kun gjelde for den studenten som har klaget.
+(3) Bedømmelse av muntlig prestasjon og praksisopplæring eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages, jf. § 11-10 fjerde ledd.
+(4) Klagesensur skal foreligge uten ugrunnet opphold, jf. forvaltningslovens § 11a. Endring kan gjøres både til gunst og ugunst for klager. Karakterfastsetting ved ny sensurering etter denne paragraf kan ikke påklages.
+(5) Dersom endelige karakter blir fastsatt på grunnlag av en justerende muntlig eksamen i tilknytning til en skriftlig eksamen, og sensurvedtaket på den skriftlige delen av eksamen blir endret, holdes ny muntlig eksamen før ny endelig karakter fastsettes, jf. lovens § 11-11 fjerde ledd.
+(6) Når karakter i et emne fastsettes på grunnlag av flere deleksamener, har studenten klageadgang på karakteren i hver enkelt deleksamen.

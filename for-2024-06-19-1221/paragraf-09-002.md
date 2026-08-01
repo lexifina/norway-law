@@ -1,0 +1,4 @@
+# § 9-2. Annullering og utestenging
+(1) Saker om uredelig opptreden, fusk, forsøk på fusk eller medvirkning til dette behandles etter lovens § 12-4. Uredelig opptreden eller medvirkning til dette gjelder tilfeller der studenten urettmessig skaffer seg selv eller andre tilgang til en eksamen eller obligatorisk aktivitet.
+(2) Universitetets nemnd for studentsaker kan fatte vedtak om annullering av eksamen eller obligatoriske aktivitet som følge av uredelig opptreden, fusk eller forsøk på fusk jf. lovens § 12-4 første og andre ledd.
+(3) Universitetets nemnd for studentsaker kan utestenge studenten og frata studenten retten til å gå opp til eksamen ved andre høyere utdanningsinstitusjoner for en periode som følge av uredelig opptreden, fusk, forsøk på fusk eller forsettlig medvirkning til dette, jf. lovens § 12-4 tredje og fjerde ledd.

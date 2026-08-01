@@ -1,0 +1,2 @@
+# § 2-9. Dokumentasjonskontroll
+Studenter kan bli pålagt å legge frem originaldokumenter av opptaksgrunnlaget etter at opptak er innvilget. Dersom originaldokumentene ikke legges frem innen fastsatt frist, eller studenten legger frem falske vitnemål eller annen ugyldig dokumentasjon, vil studenten få søknad om opptak underkjent og mister studieretten jf. § 5-4 bokstav c), § 12-1 i lov om universiteter og høgskoler, samt § 10-1 i forskrift om opptak til høyere utdanning.
