@@ -1,0 +1,6 @@
+# § 3-6a. Samarbeid og samordning
+Skolen skal samarbeide med andre tenesteytarar dersom samarbeid er nødvendig for å gi eleven eit heilskapleg og samordna tenestetilbod. Dersom eleven har individuell plan etter anna lov og forskrift, skal skolen delta i samarbeid om utarbeiding og oppfølging av tiltak og mål i den individuelle planen.
+Kommunen skal samordne tenestetilbodet etter første ledd. Ved behov skal kommunen bestemme kva for ein kommunal tenesteytar som skal vareta samordninga. Dersom det er oppnemnt barnekoordinator etter helse- og omsorgstjenesteloven § 7-2 a, skal koordinatoren sørgje for samordning av tenestetilbodet.
+Skolen skal, i tillegg til å følgje opp einskilde elevar, samarbeide med andre tenesteytarar slik at skolen og dei andre tenesteytarane kan vareta sine oppgåver etter lov og forskrift.
+Når det er nødvendig for å vareta ansvaret etter første til tredje ledd, kan dei samarbeidande tenestene behandle personopplysningar, inkludert personopplysningar som nemnde i personvernforordningen artikkel 9 og 10.
+Med tenesteytarar er det her meint kommunale, fylkeskommunale og statlege tenesteytarar, private tenesteytarar som utfører oppgåver på vegner av ein slik tenesteytar, barnehagar som får tilskot etter barnehageloven § 19 og skolar som får statstilskot etter privatskolelova § 6-1.

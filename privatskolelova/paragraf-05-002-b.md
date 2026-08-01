@@ -1,0 +1,3 @@
+# § 5-2b. Plikt til å arbeide med kvalitetsutvikling
+Styret skal ha eit forsvarleg system for å følgje opp resultata frå nasjonale kvalitetsvurderingar som departementet gjennomfører etter § 7-2 c. Som ein del av oppfølgingsansvaret skal det utarbeidast ein årleg rapport om tilstanden i skolen med omsyn til læringsresultat, fråfall og læringsmiljø.
+Styret skal sørgje for at skolen jamleg vurderer i kva grad organiseringa, tilrettelegginga og gjennomføringa av opplæringa medverkar til å nå dei måla som er fastsette i godkjende læreplanar etter § 2-3. Elevane skal involverast i denne vurderinga.

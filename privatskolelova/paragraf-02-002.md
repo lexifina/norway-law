@@ -1,0 +1,6 @@
+# § 2-2. Krav til verksemda til skolen
+Skolen kan ikkje drive eller eige anna verksemd enn skole i samsvar med denne lova. Departementet kan gi forskrift eller fastsetje enkeltvedtak som tillet at skolane kan drive eller eige tilleggsverksemd som er nært knytt til skoleverksemda, og som utgjer ein mindre del av den totale verksemda. Departementet kan gi forskrift eller fastsetje enkeltvedtak om bruk av inntekter frå skoleverksemd og tillate tilleggsverksemd.
+Skolen må vere registrert i Einingsregisteret, jf. enhetsregisterloven, eller i tilsvarande register, før det blir søkt om godkjenning. Skolen må seinast til same tid dokumentere at han har ein innskotskapital på minimum kroner 100 000.
+Grunnskolar som har både barne- og ungdomstrinn, skal vere organisert i same rettssubjekt.
+Dersom ein skole har færre enn 15 elevar tre skoleår i samanheng, fell godkjenninga bort. For norske skolar i utlandet gjeld ei tilsvarande minimumsgrense på 10 elevar. Departementet kan i særskilde tilfelle gjere unntak frå minimumskrava til elevtal. Skolar som berre driv verksemd etter § 2-1 bokstav g, er ikkje omfatta av minimumskrava til elevtal.
+Skolen skal ha vedtekter. Vedtektene skal angje at alle offentlege tilskot og skolepengar skal kome elevane til gode, jf. § 6-3.
