@@ -1,0 +1,2 @@
+# § 4-1. Pålegg om retting
+Finanstilsynet kan pålegge de foretak det har tilsyn med, å rette på forholdet dersom foretaket ikke har overholdt sine plikter etter bestemmelser gitt i eller i medhold av lov, eller har handlet i strid med vilkår for tillatelse. Det samme gjelder dersom foretaket ikke har overholdt vedtekter eller interne retningslinjer fastsatt etter bestemmelser gitt i eller i medhold av lov.

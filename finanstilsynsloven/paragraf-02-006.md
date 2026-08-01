@@ -1,0 +1,3 @@
+# § 2-6. Melding om lån og kausjon
+(1) Finanstilsynets styremedlemmer og direktøren skal gi melding til departementet om lån som de har fått innvilget av et foretak under tilsyn, herunder filialer av utenlandske foretak. Finanstilsynets styremedlemmer og direktøren skal gi melding til departementet om kausjon som de stiller for lån gitt av et foretak under tilsyn, herunder filialer av utenlandske foretak. Finanstilsynets ansatte skal gi tilsvarende melding om lån og kausjon til Finanstilsynet.
+(2) Departementet kan i forskrift fastsette bestemmelser om Finanstilsynets styremedlemmers og ansattes plikt til å gi opplysninger om avtaler som nevnt i første ledd.

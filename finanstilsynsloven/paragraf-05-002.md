@@ -1,0 +1,4 @@
+# § 5-2. Søksmål
+(1) En part som har fått saken sin behandlet av Finanstilsynsklagenemnda, kan ved å reise søksmål mot staten ved Finanstilsynsklagenemnda prøve gyldigheten av vedtaket. Gjelder vedtaket en sak mellom private parter fattet i medhold av verdipapirhandelloven kapittel 6, må søksmål om vedtaket reises mot den andre private parten, og retten kan prøve alle sider av saken. Departementet kan i forskrift gi nærmere regler om hvilke saker som regnes som en sak mellom private parter.
+(2) Departementet kan ved søksmål få prøvd om Finanstilsynsklagenemndas vedtak i en klagesak skal oppheves helt eller delvis fordi det bygger på feilaktig faktisk grunnlag eller uriktig oppfatning av et rettsspørsmål. Den avgjørelsen retter seg mot, skal varsles om søksmålet.
+(3) Søksmål etter første og annet ledd må reises innen seks måneder fra det tidspunktet underretningen om det endelige vedtaket er kommet fram til parten.

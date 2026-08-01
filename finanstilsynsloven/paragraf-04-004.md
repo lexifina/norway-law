@@ -1,0 +1,2 @@
+# § 4-4. Innkalling av foretakets styrende organer
+Finanstilsynet kan innkalle til møter i styre, kontrollkomité og representantskap eller tilsvarende organer i foretak under tilsyn. I slike møter og i generalforsamlinger kan Finanstilsynet la seg representere og sette fram forslag, men har ikke stemmerett. Finanstilsynet kan stille krav om ekstraordinær generalforsamling. Blir ekstraordinær generalforsamling ikke innkalt når Finanstilsynet har stilt krav om det, kan Finanstilsynet kalle inn til slik generalforsamling.
