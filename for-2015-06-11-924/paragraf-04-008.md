@@ -1,0 +1,4 @@
+# § 4-8. Bedømmelseskomiteens innstilling
+Bedømmelseskomiteen avgir innstilling om hvorvidt arbeidet er verdig til å forsvares for ph.d.-graden. Innstilling og eventuelle dissenser skal begrunnes.
+Bedømmelseskomiteens innstilling skal foreligge senest innen tre måneder etter at komiteen har mottatt avhandlingen, og senest fire uker før planlagt disputas. Tillater komiteen omarbeiding av avhandlingen, løper ny frist fra den dato avhandlingen leveres på nytt.
+Bedømmelseskomiteens innstilling oversendes Handelshøyskolen BI som forelegger denne for ph.d.-kandidaten. Kandidaten gis en frist på ti arbeidsdager til å fremme skriftlige merknader til innstillingen. Ph.d.-kandidatens eventuelle merknader skal sendes Handelshøyskolen BI. Handelshøyskolen BI fatter vedtak i saken i samsvar med § 4-10 og § 4-11.

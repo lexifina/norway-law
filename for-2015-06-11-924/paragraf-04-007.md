@@ -1,0 +1,4 @@
+# § 4-7. Omarbeiding av innlevert avhandling
+Bedømmelseskomiteen kan på grunnlag av den innleverte avhandlingen og eventuelt tilleggsmateriale, jf. § 4-6, anbefale at Handelshøyskolen BI gir tillatelse til mindre omarbeiding før endelig innstilling foreligger. Komiteen skal gi en konkret oversikt over hva kandidaten må omarbeide i skriftlig form.
+Tillater Handelshøyskolen BI en mindre omarbeiding av avhandlingen, skal det gis en frist for slik omarbeiding som normalt ikke skal være lengre enn tre uker. Det skal også fastsettes en ny frist for oversendelse av komiteens endelige innstilling. Handelshøyskolen BIs vedtak etter denne paragrafen kan ikke påklages av ph.d.-kandidaten.
+Dersom komiteen finner at dyptgripende endringer vedrørende teori, hypotese, materiale eller metode er nødvendige for at arbeidet skal kunne anbefales til disputas, skal komiteen underkjenne avhandlingen.

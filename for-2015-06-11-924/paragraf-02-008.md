@@ -1,0 +1,3 @@
+# § 2-8. Tvungen avslutning ved fusk på eksamen eller prøver underveis i ph.d.-utdanningen
+Ved fusk på eksamener eller prøver underveis i ph.d.-utdanningen, kan Handelshøyskolen BI vedta annullering, jf. universitets- og høyskoleloven § 4-7. Dersom forholdet eller forholdene er så alvorlig at det er å anse som uredelighet, jf. samme lov § 4-13 (1), jf. forskningsetikkloven § 5, andre ledd, kan institusjonen vedta tvungen avslutning, jf. § 2-9 nedenfor.
+Vedtak etter paragrafen her fattes av klagenemnda ved Handelshøyskolen BI. Klager behandles av Felles klagenemnd for studentsaker, jf. universitets- og høyskoleloven § 5-1 og forskrift i medhold av denne.

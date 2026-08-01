@@ -1,0 +1,2 @@
+# § 2-12. Progresjonskrav
+Dean fastsetter progresjonskrav med milepæler. Progresjonskravene er en spesifisering av utdanningsplanen, jf. forskrift om opptak, studier og eksamen ved Handelshøyskolen BI § 3-4. Kravene kan ha mindre variasjoner mellom spesialiseringene, men skal normalt omfatte krav til fullføring av kursdelen og innlevering av skriftlig arbeid, eventuelt i tillegg til ytterlige progresjonskrav.

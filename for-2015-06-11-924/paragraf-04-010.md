@@ -1,0 +1,4 @@
+# § 4-10. Enstemmig innstilling
+Handelshøyskolen BI fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om ph.d.-avhandlingen er verdig til å forsvares. Dersom komiteen avgir enstemmig innstilling og Handelshøyskolen BI finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter Handelshøyskolen BI selv vedtak i samsvar med den enstemmige innstillingen.
+Dersom Handelshøyskolen BI finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal Handelshøyskolen BI selv søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader.
+Handelshøyskolen BI fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
