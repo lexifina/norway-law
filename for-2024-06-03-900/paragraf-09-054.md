@@ -1,0 +1,8 @@
+# § 9-54. Ansvar for å utferde vitnemål, fag- og sveinebrev, praksisbrev og kompetansebevis i vidaregåande opplæring
+Skolen der eleven fullfører og består opplæringa, skal utferde vitnemål. Dersom eleven treng nytt vitnemål, er det skolen som utferda det opphavlege vitnemålet, som skal utferde vitnemålet på nytt.
+Fylkeskommunen skal utferde vitnemåla til lærlingar som ikkje tidlegare har oppfylt krava til vitnemål.
+Når ein privatist som tidlegare har fått vitnemål som elev, treng eit nytt vitnemål, er det den skolen som utferda det opphavlege vitnemålet, som skal utferde det nye. Når ein privatist som ikkje tidlegare har oppfylt krava til vitnemål, skal ha vitnemål, er det den fylkeskommunen der privatisten sist fekk standpunktkarakter i eit fag, som skal utferde vitnemålet. Når ein privatist som ikkje tidlegare har fått standpunktkarakter i vidaregåande opplæring, skal ha vitnemål, er det den fylkeskommunen der privatisten bur, som skal utferde vitnemålet. Det same gjeld dersom ein privatist sist fekk standpunktkarakter i eit fag på ein skole som er godkjend etter privatskolelova.
+Fylkeskommunen er ansvarleg for å utferde fag- og sveinebrev og praksisbrev. Når det blir teikna lærekontrakt med ei bedrift, skal fylkeskommunen gjere bedrifta merksam på dei unntaka som er nemnde ovanfor.
+Elevar og privatistar i vidaregåande opplæring som får nye karakterar i fag eller tar nye fag, har rett til ny dokumentasjon.
+Dokumentasjon skal utferdast på skjema fastsette av Utdanningsdirektoratet.
+Dersom dokumentasjonen går tapt, skal det utferdast ny dokumentasjon som er så identisk som mogleg, men dokumentasjonen skal ikkje tilbakedaterast. Det same gjeld i tilfelle der ny dokumentasjon må utferdast etter lov om endring av juridisk kjønn § 2.

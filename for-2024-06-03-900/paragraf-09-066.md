@@ -1,0 +1,5 @@
+# § 9-66. Ny fag- eller sveineprøve, praksisbrevprøve eller kompetanseprøve
+Dersom fag- eller sveineprøva, praksisbrevprøva eller kompetanseprøva ikkje er bestått ved første forsøk, har kandidaten rett til å bli meldt opp til ei ny prøve.
+Lærebedrifta skal sørgje for oppmelding for dei som har hatt læretid i bedrift. Fylkeskommunen skal sørgje for oppmelding for dei som har hatt opplæring i skole. Fylkeskommunen har ansvaret for å gjennomføre prøva og skal dekkje dei kostnadene lærebedrifta har i samband med gjennomføringa.
+Dersom kandidaten får godkjent forlenging av lærekontrakt eller ny lærekontrakt i lærefaget, eller får tilbod om meir opplæring i lærefaget av fylkeskommunen, gjeld ikkje avgrensinga om berre ei ny prøve etter første ledd. Den gjeld heller ikkje der ein lærekandidat eller praksisbrevkandidat får godkjent forlenga eller ny opplæringskontrakt.
+Første og andre ledd gjeld ikkje for praksiskandidatar. Praksiskandidatar kan melde seg opp til ny prøve tidlegast seks månader etter den førre prøva. Dei må sjølve melde seg opp til ny prøve og betale ny prøveavgift.

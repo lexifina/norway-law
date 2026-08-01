@@ -1,0 +1,3 @@
+# § 1-10. Fritak frå opplæring i framandspråk, fordjuping eller arbeidslivsfag på 8. til 10. trinn
+Elevar som får opplæring i samisk som første- eller andrespråk etter opplæringslova § 3-2, opplæring i kvensk eller finsk som andrespråk etter opplæringslova § 3-3, opplæring i norsk teiknspråk etter opplæringslova § 3-4 eller særskild språkopplæring etter opplæringslova § 3-6, er fritatt frå opplæring i framandspråk, fordjuping eller arbeidslivsfag på 8. til 10. trinn. Dei skal likevel få slik opplæring dersom dei ønskjer det.
+Elevar som ikkje deltar i opplæringa i framandspråk, fordjuping eller arbeidslivsfag, skal få forsterka opplæring i engelsk, norsk, samisk, kvensk, finsk, norsk teiknspråk eller eit anna språk som dei allereie har eit grunnlag i.

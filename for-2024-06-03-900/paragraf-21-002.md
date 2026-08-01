@@ -1,0 +1,3 @@
+# § 21-2. Økonomisk ansvar for elevar som får grunnskoleopplæring utanfor bustadkommunen
+Dersom ein elev får grunnskoleopplæring, og eventuelt individuell tilrettelegging etter opplæringslova kapittel 11, utanfor bustadkommunen og eleven ikkje er særskilt nemnd i § 21-3 eller i opplæringslova § 28-3 og § 28-4, skal bustadkommunen betale dersom bustadkommunen har ein avtale med vertskommunen.
+Dersom ein elev får individuelt tilrettelagd opplæring utanfor bustadkommunen, fastset bustadkommunen omfanget av den individuelt tilrettelagde opplæringa etter ei sakkunnig tilråding frå vertskommunen. Bustadkommunen fastset også omfanget av personleg assistanse og fysisk tilrettelegging og tekniske hjelpemiddel.

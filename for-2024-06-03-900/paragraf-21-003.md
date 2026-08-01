@@ -1,0 +1,4 @@
+# § 21-3. Økonomisk ansvar for grunnskoleopplæringa til elevar som blir plasserte i fosterheim eller i institusjon utanfor bustadkommunen
+Omsorgskommunen har det økonomiske ansvaret for grunnskoleopplæring, og eventuelt individuell tilrettelegging etter opplæringslova kapittel 11, når barnevernstenesta eller barneverns- og helsenemnda plasserer elevar utanfor bustadkommunen i fosterheim eller i institusjon som ikkje er særskilt nemnd i opplæringslova § 28-3 og § 28-4.
+For ordinær opplæring skal omsorgskommunen betale det ein elev i vertskommunen kostar i gjennomsnitt.
+Dersom ein elev får individuelt tilrettelagd opplæring, fastset omsorgskommunen omfanget av den individuelt tilrettelagde opplæringa etter ei sakkunnig tilråding frå vertskommunen. Omsorgskommunen fastset også omfanget av personleg assistanse og fysisk tilrettelegging og tekniske hjelpemiddel.

@@ -1,0 +1,4 @@
+# § 9-49. Særskilde reglar om dokumentasjon i yrkesfaglege utdanningsprogram for dei med store lærevanskar
+Dersom elevar, lærlingar og praksisbrevkandidatar i yrkesfaglege utdanningsprogram har store lærevanskar, kan dei søkje om å få vitnemål, fag- og sveinebrev og praksisbrev sjølv om krava i § 9-46 og § 9-48 ikkje er oppfylte. For elevar og lærlingar gjeld dette berre dei som har følgt opplæringa, men ikkje har bestått eitt eller to fellesfag som følgje av lærevanskar i faget eller faga. For praksisbrevkandidatar gjeld dette berre dei som har følgt opplæringa, men ikkje har bestått eitt fellesfag som følgje av store lærevanskar i faget.
+Det må liggje føre ei sakkunnig vurdering frå den pedagogisk-psykologiske tenesta som dokumenterer lærevanskane i den vidaregåande opplæringa.
+Fylkeskommunen avgjer søknader om dokumentasjon etter denne paragrafen, men ikkje før overgangen frå vidaregåande trinn 2 til vidaregåande trinn 3.

@@ -1,0 +1,4 @@
+# § 9-58. Samla krav til praksis før fag- og sveineprøve for kandidatar for fagbrev på jobb
+Kor lang allsidig praksis kandidatar for fagbrev på jobb må ha før dei tar fag- eller sveineprøva, er avhengig av lengda på lærefaget slik det er fastsett i tilbodsstrukturen. For dei fleste faga vil det seie fire år i heiltidsstilling. Fylkeskommunen avgjer om den praksisen ein kandidat viser til, kan godkjennast.
+Før det blir skrive kontrakt om opplæring, må kandidatane ha hatt minimum eitt års allsidig praksis i lærefaget i heiltidsstilling. For kandidatar som ikkje har hatt heiltidsstilling, må praksisen reknast om til 100 prosent stilling. Ein stillingsbrøk på 80 prosent kan godkjennast som heiltid.
+Før lærekontrakten blir inngått, skal fylkeskommunen trekkje frå det året med praksis som er kravd, og gjere frådrag for eventuell realkompetanse. Det er likevel eit krav at kontraktstida må vere på minst eitt år.

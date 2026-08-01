@@ -1,0 +1,5 @@
+# § 5-11. Godkjenning av tidlegare bestått opplæring
+Elevar som tidlegare har bestått eit fag i Noreg eller i utlandet, kan søkje fylkeskommunen om å få godkjent faget som bestått etter gjeldande læreplanverk. Søknaden skal godkjennast dersom faget er likeverdig med eller meir omfattande enn faget etter gjeldande læreplanverk.
+Elevar som tidlegare har bestått eit skoleår i utlandet, kan søkje fylkeskommunen om å få godkjent det som tilsvarande vidaregåande trinn 1 eller vidaregåande trinn 2. Søknaden skal godkjennast dersom skoleåret er likeverdig med eller meir omfattande enn skoleåret etter gjeldande læreplanverk. Fylkeskommunen kan gi førehandsgodkjenning på vilkår før elevane dreg til utlandet. Det er ikkje eit krav at den utanlandske opplæringa skal innehalde alle faga i det aktuelle utdanningsprogrammet, men opplæringa må ha hovudvekt på fagkrinsen i det tilsvarande norske skoleåret.
+Privatistar kan også søkje fylkeskommunen om godkjenning etter første og andre ledd.
+Elevar og privatistar må sjølve leggje fram nødvendig dokumentasjon når dei søkjer om godkjenning.

@@ -1,0 +1,4 @@
+# § 4-27. Fortrinnsrett til ein skole som er særskilt tilrettelagd ved inntak til vidaregåande trinn 2 og vidaregåande trinn 3
+Søkjarar som har rett til individuell tilrettelegging etter opplæringslova kapittel 11, og som på grunn av sterkt nedsett funksjonsevne har eit særleg behov for å komme inn på ein skole som er særskilt tilrettelagd, har fortrinnsrett ved inntaket til vidaregåande trinn 2 og trinn 3. Det særlege behovet må vere dokumentert.
+Dei som tidlegare har vore tatt inn på grunnlag av sterkt nedsett funksjonsevne etter § 4-22 eller etter denne paragrafen, har rett til å fullføre opplæringsløpet på same skole.
+Dei som tidlegare ikkje har vore tatt inn etter fortrinnsrett på grunnlag av sterkt nedsett funksjonsevne, har ikkje rett til inntak til ein viss skole. Fylkeskommunen vurderer på individuelt grunnlag om tungtvegande grunnar taler for at ein søkjar likevel bør takast inn til ein viss skole.

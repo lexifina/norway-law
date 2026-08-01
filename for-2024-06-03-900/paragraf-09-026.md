@@ -1,0 +1,6 @@
+# § 9-26. Ansvaret for eksamen
+Ved sentralt gitt eksamen har Utdanningsdirektoratet ansvaret for å organisere eksamen, utarbeide eksamensoppgåver, setje dato for eksamen og fastsetje sensurordningane, om ikkje noko anna er fastsett i læreplanen i faget.
+Ved lokalt gitt eksamen har kommunen eller fylkeskommunen ansvaret for å utarbeide eksamensoppgåver, setje dato for eksamen og gjennomføre sensur, om ikkje noko anna er fastsett i læreplanen i faget. Faglæraren skal utarbeide forslag til oppgåver.
+Kommunen og fylkeskommunen har ansvaret for å gjennomføre alle eksamenar og for å trekkje ut elevar til eksamen. Utdanningsdirektoratet har ansvaret for å trekkje ut elevar med opplæring i og på norsk teiknspråk i grunnskolen til eksamen. Kommunen og fylkeskommunen må sørgje for at det er rett elev eller privatist som møter til eksamen.
+Kommunen og fylkeskommunen har ansvaret for å gi elevane informasjon om eksamen og om kva det blir lagt vekt på i vurderinga. Dei har dessutan ansvaret for at privatistane får tilgang til slik informasjon.
+Dei som er ansvarlege for å utarbeide eksamen, avgjer om eksamen kan gjennomførast med hjelpemiddel, og kva for hjelpemiddel som er tillatne i kvart fag.

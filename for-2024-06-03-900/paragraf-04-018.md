@@ -1,0 +1,2 @@
+# § 4-18. Fordeling av plassar til vidaregåande trinn 1
+Dersom det til eit utdanningsprogram på vidaregåande trinn 1 er fleire søkjarar enn fylkeskommunen har tilbod om elevplass til, skal plassane fordelast etter poengsum. Dette gjeld ikkje søkjarar som skal behandlast individuelt etter § 4-20, eller som blir tatt inn på grunnlag av fortrinnsrett etter § 4-21 til § 4-23. Når søkjarar står likt i konkurransen om dei siste plassane, blir rekkjefølgja avgjord ved loddtrekning.

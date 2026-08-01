@@ -1,0 +1,2 @@
+# § 15-20. Eksamensformer, tidsramme og trekk av vaksne deltakarar til eksamen
+Deltakarar i førebuande opplæring for vaksne følgjer reglane om trekk for grunnskolen i § 9-28. Deltakarar i vidaregåande opplæring for vaksne følgjer reglane om trekk for vidaregåande skole i § 9-28. Reglane i § 9-28 gjeld elles for vaksne deltakarar og vaksne privatistar så langt dei passar. Reglane gjeld også for læreplanar i modular.

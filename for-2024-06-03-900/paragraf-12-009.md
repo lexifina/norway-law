@@ -1,0 +1,3 @@
+# § 12-9. Krav om relevant kompetanse i undervisningsfaga i den vidaregåande opplæringa
+Fylkeskommunen skal sørgje for at dei som er tilsette i lærarstilling, og som skal undervise i den vidaregåande opplæringa, har minst 60 studiepoeng som er relevante for faget.
+Kravet i første ledd gjeld ikkje for dei som skal undervise i yrkesfagleg fordjuping. Det gjeld heller ikkje for dei som er tilsette etter § 12-8 første ledd bokstav d, dersom eitt av dei to åra med yrkesteoretisk utdanning utover vidaregåande skolenivå er relevant for å undervise i faget, eller dersom dei har fått godkjent kravet om to års relevant yrkesteoretisk utdanning på grunnlag av realkompetanse etter § 12-8 andre ledd, og ein tilsvarande del av realkompetansen er relevant for å undervise i faget.
