@@ -1,0 +1,5 @@
+# § 16. Transport som organiseres av helseforetaket
+Dersom helseforetaket tilbyr transport til en pasient, skal helseforetaket sørge for at transporten er forsvarlig for pasienten. Helseforetaket beslutter hvilket transportmiddel som skal benyttes og om flere pasienter skal reise sammen.
+Pasientens behandler eller andre som helseforetaket har utpekt, skal vurdere om det er behov for særskilt tilrettelegging av transporten på grunn av pasientens helsetilstand, jf. § 22. Ansatte i helse- og omsorgstjenesten kan vurdere om det er behov for særskilt tilrettelegging av transporten ved reise til en institusjon som yter tverrfaglig spesialisert behandling for rusmiddelmisbruk. Den som vurderer at det er behov for tilrettelagt transport, skal informere helseforetaket om det.
+Dersom det foreligger en helsefaglig vurdering av behovet for tilrettelagt transport, skal vurderingen legges til grunn for gjennomføringen av transporten.
+Helseforetaket eller andre som har fått myndighet til det, kan attestere behov for organisert transport på grunn av manglende rutegående tilbud.
