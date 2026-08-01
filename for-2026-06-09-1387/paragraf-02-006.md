@@ -1,0 +1,2 @@
+# § 2-6. Krav for opptak ved innpassing etter første studieår i flerårige profesjonsutdanninger
+Ved innpassingsopptak etter første studieår til flerårige profesjonsutdanninger gjelder opptakskravene som fremgår av forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning. Søkerens utdanning som skal gi grunnlag for fritak, må godkjennes etter universitets- og høyskoleloven §§ 9-1, 9-2, 9-3 eller 9-5.

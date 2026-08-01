@@ -1,0 +1,6 @@
+# § 2-10. Beregning av karaktergjennomsnitt
+(1) Karakterene i alle emnene som dekker kravet til faglig fordypning, skal normalt benyttes som grunnlag for beregning av karaktergjennomsnitt.
+(2) Emner med gradert karakterskala skal benyttes som grunnlag for beregning av karaktergjennomsnittet dersom disse utgjør minst 2/3 av grunnlaget som kvalifiserer for opptak.
+(3) Dersom under 2/3 av opptakgrunnlaget består av gradert karakterskala, foretas beregningen av karaktergjennomsnittet individuelt. Det samme gjelder dersom minst 1/3 av opptaksgrunnlaget består av emner fra utenlandsk utdanning.
+(4) Dersom søkeren fyller opptakskravene på flere måter, skal det grunnlaget som gir høyest karaktersnitt, legges til grunn for beregningen.
+(5) For emner vurdert med norske bokstavkarakterer, skal følgende tallverdier legges til grunn ved beregning av gjennomsnittskarakter: A = 5, B = 4, C = 3, D = 2 og E = 1. Hver bokstavkarakter erstattes med tilhørende tallverdi. Den aktuelle tallverdien multipliseres deretter med emnets studiepoeng. Produktene som fremkommer etter denne beregningen, summeres. Summen divideres med det totale antallet studiepoeng som inngår i beregningsgrunnlaget. Det beregnede resultatet avrundes etter ordinære avrundingsregler og angis med to desimaler.

@@ -1,0 +1,2 @@
+# § 5-7. Opphør av studierett
+Studieretten opphører når studenten skriftlig bekrefter å ha trukket seg fra studiet, når studiene er fullført, eller ved tap av studierett etter § 5-8. Studenter som har fullført studiene innenfor normert tid, kan likevel søke om utvidet studierett i inntil ett år for å kunne forbedre karakterene sine. Søknad om utvidet studierett må sendes innen fastsatte frister. Det er en forutsetning for retten til utvidet studierett at det fortsatt gis tilbud om det aktuelle studiet.

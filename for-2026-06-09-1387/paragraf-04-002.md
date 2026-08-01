@@ -1,0 +1,2 @@
+# § 4-2. Emnebeskrivelse
+Alle emner skal ha en emnebeskrivelse som beskriver det faglige innholdet og læringsutbyttet i emnet. Det skal fremgå om emnet tilbys på bachelor-, master- eller ph.d.-nivå. Emnebeskrivelsen skal informere om hvilke læringsformer, undervisningsspråk, obligatoriske aktiviteter, vurderingsformer og karakteruttrykk som benyttes. MF skal informere om eventuelle forkunnskapskrav samt studiepoengsreduksjon ved overlapping mellom emner. Nærmere krav til innholdet i emnebeskrivelsen fremgår av System for utdanningskvalitet ved MF vitenskapelig høyskole.

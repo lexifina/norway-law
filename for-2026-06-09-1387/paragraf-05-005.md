@@ -1,0 +1,10 @@
+# § 5-5. Rett til permisjon fra studier
+(1) Studenter har rett til permisjon når de er i tjeneste etter forsvarsloven § 17, når de har verv i studentpolitiske eller folkevalgte organer, og når det foreligger andre særlige grunner, jf. universitets- og høyskoleloven § 10-7. Ved vurdering av permisjonens lengde skal det tas hensyn til hvilke konsekvenser avbruddet får for studentens utdanningsplan.
+(2) Studenter som får barn under studiene, har rett til permisjon etter universitets- og høyskoleloven § 10-6 andre ledd.
+(3) Studenter kan i tillegg søke om permisjon fra studiene uten dokumentert grunn i inntil ett år. Studenten bør da
+- det siste studieåret ha avlagt minimum 30 studiepoeng
+- ha avlagt minimum 60 studiepoeng siden forrige permisjon.
+(4) Retten til permisjon etter tredje ledd gjelder ikke for studenter som skriver bachelor eller masteroppgave, og som mottar veiledning.
+(5) Permisjonssøknaden skal sendes Studieavdelingen innen 1. september i høstsemesteret og 1. februar i vårsemesteret. Ved søknad etter første og andre ledd skal relevant dokumentasjon legges ved. MF kan dispensere fra søknadsfristen for søknader etter første og andre ledd hvis behovet for permisjon har oppstått etter utløpet av fristen, eller hvis det foreligger andre særlige grunner for å fravike den.
+(6) Studenter som er innvilget permisjon, har fortsatt studierett og rett til å gå opp til eksamen ved MF. Det er en forutsetning at vilkårene for å gå opp til eksamen i henhold til aktuelle emnebeskrivelser og aktuell studieplan er oppfylt. Videre må studenten i permisjonsperioden være semesterregistrert og ha betalt studieavgift innen fristene som gjelder for dette.
+(7) MF skal legge til rette for at studenten etter endt permisjon så langt som mulig og rimelig skal kunne gjenoppta studiene på tilsvarende nivå som før permisjonen. Studentens utdanningsplan skal tilpasses gjeldende studieplan på det tidspunktet studiene gjenopptas. For studenter med permisjon etter andre ledd reguleres retten til å gjenoppta studiene i universitets- og høyskoleloven § 10-6 andre ledd.
