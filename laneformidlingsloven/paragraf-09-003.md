@@ -1,0 +1,4 @@
+# § 9-3. Pålegg og tvangstiltak
+(1) Finanstilsynet kan gi pålegg om at forhold i strid med denne loven eller bestemmelse gitt med hjemmel i loven skal opphøre. Finanstilsynet kan sette en frist for at forholdene bringes i samsvar med pålegget.
+(2) Finanstilsynet kan ilegge den som ikke etterkommer pålegg etter første ledd, tvangsmulkt til staten. Tvangsmulkten ilegges i form av en engangsmulkt eller løpende mulkt. Departementet kan i forskrift gi nærmere regler om fastsettelse av tvangsmulkt, herunder mulktens størrelse.
+(3) Første og andre ledd gjelder tilsvarende dersom Finanstilsynet underrettes av tilsynsmyndigheter i en annen EØS-stat om at et norsk boliglånsformidlingsforetak har overtrådt regler som gjelder for foretakets virksomhet i vedkommende stat. Finanstilsynet skal i tilfelle underrette vedkommende myndighet om pålegget.
