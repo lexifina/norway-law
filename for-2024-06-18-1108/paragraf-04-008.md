@@ -1,0 +1,8 @@
+# § 4-8. Antall forsøk
+(1) Under forutsetning av at det gjennomføres vurdering, har en student to forsøk på å gjennomføre vurdering i samme emne. Student på masterstudiet i regnskap og revisjon har tre forsøk på å gjennomføre vurdering i samme emne. Beste resultat gjelder.
+(2) Endring av krav til obligatorisk aktivitet (arbeidskrav) og endring av vurderingsordning kan medføre at studenten må ta hele emnet på nytt, jf. § 4-5, andre ledd.
+(3) Består vurderingsordningen av flere vurderingsformer eller delvurderinger, er antall forsøk knyttet til vurderingsordningen under ett og ikke til de enkelte vurderingsformer eller delvurderinger. Selv om en student kun gjennomfører en av flere vurderingsformer (-deler) av vurderingsordningen telles det som ett forsøk.
+(4) Begrensningen i antall vurderingsforsøk gjelder totalt for et emne. Tidligere forsøk teller selv om emnet har skiftet kode, inngår med ulik kode i flere studieprogrammer eller studenten har fått nytt opptak til det samme eller annet studieprogram hvor emnet inngår.
+(5) I særlige tilfeller kan Studieadministrativ avdeling innvilge en student som har benyttet alle forsøk etter første ledd, uten å ha oppnådd bestått resultat, ytterligere ett forsøk på vurdering i samme emne.
+(6) Masterstudent(er) kan kun levere masteroppgave ved NHH én gang i samme masterprogram, jf. § 6-3. Kun hvis oppgaven blir bedømt til ikke bestått, vil kandidaten(e) få mulighet til å levere en bearbeidet oppgave til bedømming.
+(7) Student med særskilt forlenget studierett etter § 2-6, tredje ledd har ikke anledning til å gjennomføre ny vurdering etter første ledd.

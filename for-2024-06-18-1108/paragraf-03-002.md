@@ -1,0 +1,3 @@
+# § 3-2. Utdanningsplan
+(1) Etter universitets- og høyskoleloven § 11-3 skal det mellom NHH og studenter opptatt på studier med et omfang på 60 studiepoeng eller mer, utarbeides en utdanningsplan. Planen skal i utgangspunktet være satt opp slik at studenten skal kunne gjennomføre planlagt studium på normert tid i henhold til aktuell studieplan.
+(2) Planen skal så langt mulig være satt opp innen fastsatt frist i første semester av studiet. Deretter må endringer i planen gjøres før den hvert semester bekreftes innen fastsatt frist, jf. § 2-4, andre ledd. Planen kan endres etter avtale mellom studenten og NHH.

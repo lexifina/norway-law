@@ -1,0 +1,3 @@
+# § 2-3. Rett til direkte overgang til masterstudiet
+(1) Fullført bachelorgrad fra NHH gir rett til direkte overgang til våre masterstudier. I særlige tilfeller kan Studieadministrativ avdeling innvilge student som gjenstår med ett emne (7,5 studiepoeng) overgang til masterstudiet. Det gjenstående emnet kan ikke være et metodeemne (kode MET) og årsaken må være en uforutsett hendelse eller stryk i ett av emnene fra studentens siste semester.
+(2) Rett til direkte overgang etter første ledd gjelder i inntil to år etter fullføring av bachelorgraden. Studenten må innen fastsatte frister søke om overgang eller opphold.
