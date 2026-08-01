@@ -1,0 +1,6 @@
+# § 3-4 a. Fjernundervisning
+Delar av opplæringa kan gjennomførast utan at læraren er til stades saman med elevane (fjernundervisning) dersom det er gode grunnar for det og det er trygt og pedagogisk forsvarleg. At det må vere gode grunnar betyr at fordelane for elevane må vere større enn ulempene ved å gjennomføre opplæringa som fjernundervisning. Når det skal vurderast om det vil vere trygt og pedagogisk forsvarleg å gi delar av opplæringa som fjernundervisning, skal det mellom anna takast omsyn til elevane sitt høve til læring, utvikling, trivsel og sosial samkjensle.
+Elevane skal få fjernundervisning på skolen. I særlege tilfelle kan ein elev få fjernundervisning andre stader enn på skolen. Elevar i vidaregåande skole kan også få unntak etter avtale med rektor.
+Fjernundervisninga skal gjennomførast slik at elevane og læraren kan kommunisere effektivt. Dei tekniske løysingane som blir nytta, må leggje til rette for kommunikasjon i sanntid eller med kort responstid.
+Skolen skal godtgjere at vilkåra i denne paragrafen er oppfylte.
+Departementet kan gi forskrift om fjernundervisning. Departementet kan også gi forskrift om rapportering og dokumentasjon ved bruk av fjernundervisning.

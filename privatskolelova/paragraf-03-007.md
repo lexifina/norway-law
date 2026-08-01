@@ -1,0 +1,5 @@
+# § 3-7. Rett til skyss, reisefølgje og tilsyn
+Elevar i private grunnskolar har rett til skyss til og frå skolen etter reglane i opplæringslova § 4-1 og rett til reisefølgje og tilsyn etter reglane i opplæringslova § 4-2. Opplæringslova § 4-3 første, andre og tredje ledd gjeld for elevar i private grunnskolar. Retten til skyss, reisefølgje og tilsyn for elevar i grunnskolar gjeld berre innanfor kommunegrensa i den kommunen der eleven bur.
+Elevar i private vidaregåande skolar har rett til skyss til og frå skolen etter reglane i opplæringslova § 9-1 om skyss for elevar i vidaregåande skole og § 9-2 om reisefølgje og tilsyn for elevar i vidaregåande skole. For elevar i vidaregåande skolar gjeld retten til skyss, reisefølgje og tilsyn berre innanfor fylkeskommunegrensa i den fylkeskommunen der eleven bur.
+Heimkommunen eller heimfylket til elevane gjer vedtak om skyss, og dekkjer utgifter etter reglane i opplæringslova § 28-7. Departementet er klageinstans ved klage over kommunale og fylkeskommunale vedtak om skyss.
+Reglane gjeld ikkje for elevar ved norske skolar i utlandet.

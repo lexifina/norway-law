@@ -1,0 +1,2 @@
+# § 7-10. Plikt til å levere vitnemål frå vidaregåande opplæring til nasjonal database for vitnemål og dokumentasjon av kompetanse
+Skolar som tilbyr vidaregåande opplæring skal utan hinder av teieplikt levere resultat frå alle vitnemål og kompetansebevis frå vidaregåande opplæring til nasjonal database for vitnemål og dokumentasjon av kompetanse, jf. opplæringslova § 25-2. Departementet kan i forskrift fastsetje unntak frå denne plikta.
