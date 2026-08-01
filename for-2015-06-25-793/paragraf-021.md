@@ -1,0 +1,6 @@
+# § 21. Beregning av reiseutgifter
+Er reiseveien kortere enn 300 kilometer hver vei, utbetales reisestønad med kr 3,20 per kilometer (standardsats).
+Kan pasienten dokumentere at det ble benyttet båt på strekningen, dekkes utgifter til passasjerbillett, i stedet for standardsats per kilometer etter første ledd.
+Hvis pasienten kan dokumentere at det var nødvendig å benytte privat båt, snøscooter eller ATV, dekkes reiseutgiftene etter satsene i Statens reiseregulativ.
+Reiser pasienten lenger enn 300 kilometer hver vei, dekkes reiseutgiftene med taksten for den billigste reisemåten med rutegående transportmiddel. Dersom pasienten oppfyller vilkårene for å få dekket nødvendige dokumenterte utgifter etter § 22, dekkes reiseutgiftene likevel med standardsats per kilometer etter første ledd. Ved beregningen av om reisestrekningen er lenger enn 300 kilometer, omfattes ikke deler av reisen som er bestilt eller rekvirert av helseforetaket.
+Når pasienten ledsages på reisen etter § 17, har enten ledsageren eller pasienten rett til å få dekket reiseutgifter. Både pasienten og ledsageren har likevel rett til dekning med standardsats etter første ledd eller faktiske kostnader etter andre og fjerde ledd for dokumenterte utgifter til rutegående transport.
