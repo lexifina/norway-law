@@ -1,0 +1,4 @@
+# § 13-4. Nasjonale prøver
+På oppdrag frå departementet utarbeider Utdanningsdirektoratet nasjonale prøver som skal gi kunnskap om elevane sine grunnleggjande ferdigheiter i lesing, rekning og engelsk. Informasjonen frå prøvene skal gi grunnlag for undervegsvurdering og kvalitetsutvikling på alle nivå i skolesystemet. Det er obligatorisk for elevane å delta i slike prøver.
+Skolen skal sørgje for at prøver etter første ledd blir gjennomførte.
+Utdanningsdirektoratet kan behandle personopplysningar om personar som deltar i nasjonale prøver, og personopplysningar knytte til resultata på slike prøver når det er nødvendig for formål som er omtalte i første ledd, jf. privatskolelova § 7-2d. Opplysningane kan også brukast som grunnlag for forsking, analyse og statistikk. Utdanningsdirektoratet kan levere ut prøveresultata for kvar enkelt elev til skolen eleven går på.

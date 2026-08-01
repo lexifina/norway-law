@@ -1,0 +1,4 @@
+# § 6-1. Verkeområde
+Kapittelet gjeld for elevar som får opplæring i skolar godkjende etter privatskolelova.
+Elevar i skolar som er godkjende på grunnlag av ei anerkjend pedagogisk retning, og som bruker alternative vurderingsformer, og elevar i internasjonale skolar som bruker alternative vurderingsformer, har rett til vurdering etter skolane sitt godkjende system for vurdering. Skolane må følgje reglane i dette kapitelet om ikkje anna følgjer av godkjenninga, jf. privatskolelova § 2-3. Godkjenninga kan ikkje gi unntak frå reglane i § 6-2, § 6-3, § 6-6, § 6-8 til § 6-12, § 6-13 første ledd, § 6-14 tredje ledd, § 6-42 til § 6-45 og § 6-47 til § 6-51.
+Elevar som får eit anna tilbod som alternativ til opplæring i bedrift, skal ha vurdering etter opplæringsforskrifta kapittel 9 del VIII og § 9-5, § 9-48 og 9-54 fjerde ledd, så langt det passar. Dei skal elles få vurdering etter dette kapitelet.
