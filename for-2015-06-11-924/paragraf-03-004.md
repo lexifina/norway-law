@@ -1,0 +1,7 @@
+# § 3-4. Formål, innhold og omfang for opplæringsdelen
+Ph.d.-utdanningen skal være lagt opp slik at den skal kunne fullføres innenfor normert tidsramme.
+Handelshøyskolen BI har ansvar for at opplæringsdelen, sammen med avhandlingsarbeidet, gir utdanning på høyt faglig nivå og i henhold til internasjonal standard, med gjennomføring av et forskningsarbeid, trening i faglig formidling og innføring i forskningsetikk, vitenskapsteori og vitenskapsmetode. Opplæringen skal sammen med forskningsarbeidet bidra til oppnåelse av forventet læringsutbytte i henhold til det nasjonale kvalifikasjonsrammeverket.
+Handelshøyskolen BI kan tilby ph.d.-kandidaten veiledning om fremtidige yrkesmuligheter i og utenfor akademia, herunder bevisstgjøring om den kompetansen som kandidaten har oppnådd gjennom forskningsarbeidet.
+Dersom Handelshøyskolen BI ikke selv arrangerer hele opplæringsdelen, skal forholdene legges til rette for at kandidaten får tilsvarende opplæring ved andre institusjoner.
+Opplæringsdelen skal tilsvare minst 60 studiepoeng på doktorgradsnivå. Elementer som skal inngå i opplæringsdelen, bør ikke være eldre enn fem år ved opptaksdato. Søknad om at tidligere avlagte studiepoeng skal inngå som en del av kursporteføljen må vedlegges søknaden om opptak. Godkjente tidligere avlagte studiepoeng kan ikke overstige 18.
+Kurs på doktorgradsnivå ved annen institusjon skal godkjennes i samsvar med reglene i universitets- og høyskoleloven, § 3-5 første ledd.

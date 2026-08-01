@@ -1,0 +1,2 @@
+# § 3-5. Kandidatens rettigheter ved permisjon
+Ph.d.-kandidater som har foreldrepermisjon fra ph.d.-utdanningen, jf. universitets- og høyskoleloven § 4-5, kan likevel følge undervisning og avlegge eksamener i emner og kurs som skal inngå som en del av kandidatens opplæringsdel under permisjonstiden, i tråd med folketrygdloven kapittel 14, § 14-10, fjerde ledd og NAVs rundskriv til § 14-10, fjerde ledd av 18.12.2006 (R14-00-2-A15).

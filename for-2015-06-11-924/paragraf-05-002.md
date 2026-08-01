@@ -1,0 +1,8 @@
+# § 5-2. Offentlig forsvar av avhandlingen (disputas)
+Offentlig forsvar av avhandlingen skal finne sted etter at prøveforelesningen er godkjent, og normalt innen to måneder etter at institusjonen har funnet avhandlingen verdig til å forsvares.
+Tid og sted for det offentlige forsvaret skal kunngjøres minst ti arbeidsdager før det avholdes.
+Den komiteen som opprinnelig har bedømt avhandlingen, bedømmer også det offentlige forsvaret. Det offentlige forsvaret skjer på avhandlingsspråket med mindre institusjonen, etter forslag fra bedømmelseskomiteen, godkjenner et annet språk.
+Det skal normalt være to opponenter. De to opponentene skal være medlemmer av bedømmelseskomiteen og utpekes av Handelshøyskolen BI.
+Disputasen ledes av doktorgradsdekanen eller stedfortreder. Den som leder disputasen, gjør rede for innlevering og bedømmelse av avhandlingen, og for prøveforelesningen. Deretter redegjør doktoranden for hensikten med, og resultater av, den vitenskapelige undersøkelsen. Førsteopponenten innleder opposisjonen, andreopponenten avslutter opposisjonen.
+Handelshøyskolen BI kan eventuelt fastsette en annen oppgavefordeling mellom opponentene og mellom doktoranden og førsteopponenten. Etter at begge opponenter har avsluttet sin opposisjon, gis de øvrige tilstedeværende anledning til å kommentere ex auditorio. En av opponentene avslutter opposisjonen, og disputasleder avslutter disputasen. Handelshøyskolen BI kan eventuelt fastsette en annen oppgavefordeling.
+Bedømmelseskomitéen avgir innstilling til Handelshøyskolen BI der den gjør rede for hvordan den har vurdert forsvaret av avhandlingen. Innstillingen skal konkludere med om disputasen er godkjent eller ikke godkjent. Innstillingen skal begrunnes dersom disputasen anbefales ikke godkjent.
