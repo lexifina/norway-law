@@ -1,0 +1,2 @@
+# § 6-2. Ikrafttredelse
+Forskriften trer i kraft 1. august 2026. Fra samme tid oppheves forskrift 20. juni 2023 nr. 1072 om opptak, studier og eksamen ved Fagskolen Kristiania, forskrift 18. november 2019 nr. 2264 om høyere yrkesfaglig utdanning ved NKI Fagskoler AS, forskrift 1. august 2017 nr. 1230 om fagskoleutdanning ved NKI, forskrift 24. november 2021 nr. 3371 om fagskoleutdanning ved Medlearn AS.
