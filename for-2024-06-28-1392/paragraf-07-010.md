@@ -1,0 +1,5 @@
+# § 7-10. Behandling i styret eller i institusjonens nemnd for studentsaker
+På bakgrunn av skikkethetsnemndas innstilling kan styret selv eller institusjonens nemnd for studentsaker vedta at en student ikke er skikket etter reglene i universitets- og høyskoleloven § 12-3.
+Dersom en student som er funnet ikke-skikket skal utestenges fra studiet, skal det fattes særskilt vedtak om dette. Det kan i vedtaket om utestenging stilles vilkår som må være oppfylt for at studenten kan søke om å gjenoppta studiet før utestengingsperioden utløper.
+Vedtak om utestenging fra studiet medfører at studenten ikke kan søke eller ta imot plass ved samme studium ved andre universiteter og høyskoler i utestengingsperioden. Det skal i vedtaket opplyses om at studenten må søke nytt opptak dersom studiet skal gjenopptas etter utestengingsperioden.
+Dersom en student etter oppfordring ikke legger fram relevant dokumentasjon i en sak som gjelder om studenten er skikket for et yrke, skal saken avgjøres på grunnlag av den dokumentasjonen som er tilgjengelig.

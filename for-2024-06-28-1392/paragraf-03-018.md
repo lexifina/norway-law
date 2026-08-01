@@ -1,0 +1,6 @@
+# § 3-18. Postdoktor
+For å bli ansatt som postdoktor kreves doktorgrad.
+En postdoktorstilling har som formål at den ansatte skal opparbeide seg en forskerprofil og kompetanse som gjør vedkommende kvalifisert for å søke stilling som førsteamanuensis. Stillingen kan i tillegg gi annen kompetanse med relevans for postdoktorens videre karriere.
+Det skal utarbeides en karriereplan for postdoktoren, som spesifiserer den kompetansen som postdoktoren skal opparbeide seg. Institusjonen har ansvar for at karriereplanen følges opp og at postdoktoren har tilgang til karriereveiledning gjennom postdoktorløpet.
+Dersom postdoktoren ikke allerede har utdanningsfaglig kompetanse som innfrir kravene til en stilling som førsteamanuensis, skal institusjonen tilrettelegge for at postdoktoren opparbeider seg slik kompetanse i løpet av ansettelsesperioden.
+Dersom den ansatte ikke har ferdigheter i norsk, svensk eller dansk på nivå A2 ved ansettelse, skal institusjonen tilby gratis norskopplæring med mål om å oppnå norskferdigheter på minimum dette nivået. Ved institusjoner som er gitt et særlig ansvar for samisk etter universitets- og høyskoleloven § 2-3 andre ledd, kan det isteden tilbys samiskopplæring.

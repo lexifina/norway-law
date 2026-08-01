@@ -1,0 +1,2 @@
+# § 3-10. Kvalifikasjons- og dokumentasjonskrav for kompetansevurdering
+Universiteter og høyskoler skal fastsette kvalifikasjons- og dokumentasjonskrav for kompetansevurdering ved ansettelse, overgang og opprykk, og eventuelle krav ut over minstekravene i §§ 3-2 til 3-7. Kravene skal tilpasses stillingskategorien, og reflektere nasjonale eller internasjonale standarder for de ulike stillingskategoriene.

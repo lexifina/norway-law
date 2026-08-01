@@ -1,0 +1,3 @@
+# § 6-3. Konsekvenser av at politiattest ikke blir lagt fram
+En student som ikke har lagt fram politiattest som fastsatt i § 6-2, har ikke rett til å delta i klinisk undervisning eller praksis.
+Universiteter og høyskoler kan gjøre unntak dersom årsaken er utenfor studentens kontroll. Institusjonene må varsle stedet hvor klinisk undervisning eller praksis skal gjennomføres om unntak, slik at de kan ta nødvendige forhåndsregler. Dersom kravet om politiattest følger av universitets- og høyskoleloven § 12-2 første ledd tredje punktum, kan det bare gjøres unntak etter de særlige reglene for politiattest for den bestemte typen yrkesutøvelse.

@@ -1,0 +1,7 @@
+# § 3-19. Stipendiat
+For å bli ansatt som stipendiat kreves opptak i et doktorgradsprogram, eller at det foreligger en forpliktende avtale om opptak.
+En stipendiatstilling skal føre til oppnådd doktorgrad og bidra til at den ansatte kvalifiserer seg for relevante karrierer ved høyere utdannings- og forskningsinstitusjoner og andre sektorer i arbeidslivet der forskningskompetanse kreves.
+Minst tre årsverk av den totale åremålsperioden skal være dedikert til doktorgradsarbeid. Stillingen kan i tillegg omfatte annet karrierefremmende arbeid.
+Det skal utarbeides en karriereplan som spesifiserer den kompetansen som stipendiaten skal opparbeide seg. Institusjonen har ansvar for at karriereplanen følges opp og at stipendiaten har tilgang til karriereveiledning gjennom doktorgradsutdanningen.
+Dersom den ansatte ikke har ferdigheter i norsk, svensk eller dansk på nivå A2 ved ansettelse, skal institusjonen tilby gratis norskopplæring med mål om å oppnå norskferdigheter på minimum dette nivået. Ved institusjoner som er gitt et særlig ansvar for samisk etter universitets- og høyskoleloven § 2-3 andre ledd, kan det isteden tilbys samiskopplæring.
+Ved direkte overgang fra stilling som stipendiat til annen stilling, medregnes ikke tid brukt til eget doktorgradsarbeid i ansettelsestiden. Permisjoner eller forlengelse av åremålet etter § 3-17 medregnes ikke i ansettelsestiden. Tid som er brukt til annet karrierefremmende arbeid i løpet av åremålsperioden regnes sammen til en sammenhengende periode.

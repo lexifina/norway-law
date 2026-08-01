@@ -1,0 +1,5 @@
+# § 3-17. Permisjoner og forlengelse av åremålsperioden
+Permisjoner og redusert arbeidstid som den ansatte har krav på etter lov eller tariffavtale, og sykefravær, gir rett til forlengelse av åremålsperioden. Det samme gjelder for sentrale lederverv i organisasjoner knyttet til stillingene.
+Institusjonene kan gi permisjon for fravær på grunn av kortvarige vikariater i undervisnings- og forskningsstillinger og for utenlandsstipendopphold og lignende, når dette kan skje uten å redusere framdriften med maks et halvt år i postdoktorprosjektet, doktorgradsutdanningen eller spesialistutdanningen. Ansettelsesperioden skal forlenges tilsvarende.
+Institusjonene kan i særskilte tilfeller forlenge åremålsperioden ved uforutsette hindringer relatert til arbeidet, som ikke kan lastes den ansatte.
+Institusjonene kan forlenge åremålsperioden opp til den maksimale tidsrammen i universitets- og høyskoleloven § 7-6 tredje ledd dersom omfanget på annet karrierefremmende arbeid er blitt økt vesentlig etter oppstart i stillingen.
