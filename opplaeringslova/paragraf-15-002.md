@@ -1,3 +1,3 @@
-# § 15-2. Hovudmål på kvar skole
-Kommunen og fylkeskommunen gir forskrift om kva skriftspråk som skal vere hovudmålet på kvar skole, anten bokmål eller nynorsk. Skolen skal bruke hovudmålet i den skriftlege opplæringa og i den skriftlege kommunikasjonen med elevane og foreldra.
+# § 15-2. Hovudmål på kvar grunnskole
+Kommunen gir forskrift om kva skriftspråk som skal vere hovudmålet på kvar skole, anten bokmål eller nynorsk. Skolen skal bruke hovudmålet i den skriftlege opplæringa og i den skriftlege kommunikasjonen med elevane og foreldra.
 I samband med skifte av hovudmål på ein grunnskole eller når eit fleirtal i kommunestyret eller minst 1/4 av dei røysteføre i kommunen krev det, skal det haldast rådgivande røysting. Nytt vedtak om hovudmål kan ikkje gjerast før det har gått fem år. Departementet kan gi forskrift om røysterett, ansvar for røystinga og organisering av røystinga.

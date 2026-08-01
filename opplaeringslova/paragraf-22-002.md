@@ -19,7 +19,8 @@ p) § 24-2 om opplysningar til den kommunale helse- og omsorgstenesta og sosialt
 q) § 24-3 om plikt til å melde frå til barnevernet
 r) § 25-1 om behandling av personopplysningar og unntak frå teieplikt
 s) § 25-4 om plikt til å delta i evalueringar og gi opplysningar
-t) § 27-2 om forbod mot bruk av plagg som dekkjer ansiktet
+t) § 25-5 om register over barn i grunnskoleopplæring
+u) § 27-2 om forbod mot bruk av plagg som dekkjer ansiktet
 Kommuneloven § 25-1 om internkontroll gjeld også for private grunnskolar.
 Der lova legg ansvar, oppgåver eller plikter til kommunen, ligg ansvaret ved ein privat skole til det øvste organet på skolen.
 Heimkommunen skal sørgje for at elevane har same tilgang til den pedagogisk-psykologiske tenesta som elevane i den offentlege skolen.
