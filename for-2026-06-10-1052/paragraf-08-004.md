@@ -1,0 +1,7 @@
+# § 8-4. Ikkje bestått praksis
+(1) Dersom det er tvil om studenten vil oppnå læringsutbytet og få bestått praksisperioden, skal studenten ha eit skriftleg varsel så tidleg som mogleg i praksisperioden. Fristar for eit slikt varsel kan vere gitt i nasjonal rammeplan eller forskrift for den einskilde utdanninga.
+(2) Praksisperioden kan vurderast til «ikkje bestått» ved manglande oppfylling av krav om obligatoriske aktivitetar eller deltaking.
+(3) Dersom studenten utvilsamt underpresterer med omsyn til læringsutbytet i emnet og dette blir tydeleg i andre halvdel av praksisperioden eller etter det tidspunktet studenten normalt hadde fått skriftleg varsel, jf. første ledd, kan studenten utan varsel få praksisen vurdert til «ikkje bestått».
+(4) Dersom studenten i praksisperioden har vist handlingar eller åtferd som utgjer ei fare for liv, fysisk eller psykisk helse for dei som studenten er i kontakt med, eller ved andre klanderverdige forhold som skyldast studenten, kan praksisperioden avbrytast utan varsel. Praksisperioden kan i desse tilfella bli vurdert til «ikkje bestått» og blir rekna som eit forsøk.
+(5) Ved ikkje bestått praksis skal høgskulen og praksisstaden vurdere om det er grunnlag for å sende tvilsmelding når studenten går på eit studieprogram underlagt skikkavurdering, jf. uhl. § 12-3 og forskrift til universitet- og høyskoleloven kapittel 7.
+(6) Studenten har ikkje klagerett på vedtak om ikkje bestått praksis eller praksisstudium, jf. uhl. § 11-10 fjerde ledd.
