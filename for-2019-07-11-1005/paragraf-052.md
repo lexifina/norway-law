@@ -1,0 +1,2 @@
+# § 52. Bortfall av akkreditering av fagskoleutdanning
+Dersom det ikke har blitt tatt opp studenter og ingen studerer ved utdanningen i løpet av tre sammenhengende år, bortfaller akkrediteringen av fagskoleutdanningen. Dette gjelder ikke dersom fagskolen i løpet av siste tre år har hatt studenter ved samme akkrediterte fagskoleutdanning ved et annet studiested eller gjennom en annen organiseringsform.

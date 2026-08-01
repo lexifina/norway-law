@@ -1,0 +1,4 @@
+# § 42. Vilkår for treårig fagskoleutdanning
+(1) Departementet avgjør søknad om unntak for å etablere fagskoleutdanning på mellom 120 og 180 studiepoeng. Det er et vilkår for å få behandlet søknaden at utdanning av et slikt omfang er nødvendig ut fra internasjonale krav til yrkesutøvelse, særlige krav til sertifisering eller autorisasjon eller særlige krav i lov eller i medhold av lov.
+(2) Søker må dokumentere at det foreligger krav til autorisasjon eller sertifisering som gjør det nødvendig at fagskoleutdanningen har en varighet som tilsvarer mer enn to år på fulltid. Søker må dokumentere at det er etterspørsel etter denne typen kompetanse.
+(3) Etter at departementet har gitt tillatelse til å etablere en fagskoleutdanning på mellom to og tre år fulltid, skal utdanningen akkrediteres i henhold til gjeldende regelverk for akkreditering av fagskoleutdanning, jf. forskrift om tilsyn med kvaliteten i fagskoleutdanningen kapittel 3.
