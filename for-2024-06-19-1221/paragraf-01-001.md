@@ -1,0 +1,4 @@
+# § 1-1. Virkeområde
+Forskriften omfatter opptak, grader, studier og eksamen for grunnutdanninger, masterutdanninger og videreutdanninger ved Universitetet i Innlandet. Forskriften gjelder også for personer som avlegger eksamen etter lovens § 11-4, uten å være tatt opp som student ved universitetet.
+For studier som er underlagt nasjonale rammeplaner, vil nasjonale rammeplaner gå foran denne forskriften ved en eventuell konflikt.
+For doktorgradsutdanningene gjelder bestemmelsene i forskrift for graden philosophiae doctor (ph.d.) ved INN og forskrift for graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved INN. Forskriften vil likevel gjelde for obligatoriske aktiviteter og eksamener i opplæringsdelen i ph.d.-programmene, så langt dette ikke er regulert av loven eller forskriftene om graden philosophiae doctor ved Universitetet i Innlandet.
