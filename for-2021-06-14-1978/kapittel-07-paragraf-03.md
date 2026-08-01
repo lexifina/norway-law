@@ -1,0 +1,2 @@
+# § 7-3. Fagskoleutdanninger med skikkethetsvurdering
+Det skal foretas løpende skikkethetsvurdering av studenter ved alle utdanninger ved Fagskolen Viken innenfor fagområdene helse og oppvekst. Dette gjelder for samtlige eksisterende og nye utdanningstilbud, etter- og videreutdanninger. Skikkethetsvurderingen skal inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket.

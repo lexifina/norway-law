@@ -1,0 +1,4 @@
+# § 2-4. Studentens studieavbrudd
+(1) Vil en student avbryte et påbegynt studie, er studenten pliktig til å elektronisk sende inn skjema for studieavbrudd i Studenthåndboken for Fagskolen Viken.
+(2) Ved oppsigelse av studieplass i løpet av påbegynt skoleår skal studieavgift for hele skoleåret betales. For studier som går over flere skoleår og studenten har fullført minst ett skoleår, må studenten melde studieavbrudd innen 1. juli dersom vedkommende skal bli fritatt for studieavgift påfølgende skoleår.
+(3) Ved studieavbrudd mister studenten studieretten sin. Studenten kan på et senere tidspunkt søke opptak ved studietilbudet på nytt. Studenten kan derpå søke godskriving og fritak ved allerede fullførte og beståtte emner i utdanningen, jf. § 3-5 der fagskolen gjør en individuell vurdering for hver enkelt søknad.
