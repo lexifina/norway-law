@@ -1,0 +1,4 @@
+# § 4-12. Klage på formelle feil
+(1) Den som har avlagt en eksamen eller deleksamen, kan klage over formelle feil ved oppgavegivning, eksamensavvikling eller sensur når feilen kan ha hatt betydning for kandidatens prestasjon eller for bedømmelsen, jf. fagskoleloven § 23.
+(2) Klagen må fremsettes skriftlig innen tre uker etter at studenten ble kjent med, eller burde blitt kjent med, det forholdet som begrunner klagen. Har studenten bedt om begrunnelse for karakterfastsetting, løper fristen fra studenten mottok begrunnelsen. Dersom det er fremsatt klage på karakterfastsetting, løper fristen fra resultatet av den nye sensuren ble kunngjort.
+(3) Fagskolen behandler klagen i første instans. Dersom det foreligger formelle feil som kan ha hatt betydning for resultatet, skal sensurvedtaket oppheves. Feilen rettes ved ny sensur eller ved ny eksamen når dette er nødvendig. Den lokale klagenemnda er klageinstans for vedtak etter denne paragrafen.

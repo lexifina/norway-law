@@ -1,0 +1,2 @@
+# § 2-5. Opptak for søkere med utenlandsk utdanning
+Søkere med utenlandsk utdanning skal ha kvalifikasjoner tilsvarende nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR). De faglige kvalifikasjonene skal tilsvare kvalifikasjonene i utdanningsprogrammet fra videregående opplæring som kreves for opptak til den aktuelle utdanningen. Søkeren skal i tillegg dokumentere tilstrekkelige ferdigheter i norsk og/eller engelsk, som er fastsatt i studieplanen for utdanningen.

@@ -1,0 +1,6 @@
+# § 3-3. Obligatorisk aktivitet
+(1) Fagskolen kan fastsette krav om obligatorisk aktivitet, herunder obligatorisk deltakelse i undervisning, praksis eller arbeidskrav, som vilkår for studiegjennomføringen. Hvilke aktiviteter som er obligatoriske, skal fremgå av emnebeskrivelsen.
+(2) Det er et vilkår for å avlegge eksamen at all obligatorisk aktivitet er gjennomført. Dersom en obligatorisk aktivitet ikke er godkjent, mister studenten retten til å gå opp til eksamen i det aktuelle emnet. Vurderingen av om en obligatorisk aktivitet er godkjent eller ikke, er en selvstendig vurdering som inngår ikke i den endelige karakteren.
+(3) En godkjent obligatorisk aktivitet kan som hovedregel ikke gjentas.
+(4) En ikke-godkjent obligatorisk aktivitet gir rett til gjentak i tråd med retningslinjer til kapittel 3. I enkelte emner kan en obligatorisk aktivitet kun gjentas ved neste ordinære gjennomføring. Dette skal fremgå av emnebeskrivelsen.
+(5) Det stilles de samme krav til dokumentasjon av gyldig fravær fra en obligatorisk aktivitet som til dokumentasjon av gyldig fravær fra en eksamen. Gyldig fravær gir ikke fritak fra obligatorisk aktivitet, men kan gi adgang til gjentak. Nærmere bestemmelser om dokumentasjon og gjentak er gitt i retningslinjer til kapittel 3.

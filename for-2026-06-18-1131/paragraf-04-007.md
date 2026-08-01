@@ -1,0 +1,7 @@
+# § 4-7. Fusk, forsøk på fusk, bortvisning og sanksjoner
+(1) Som fusk regnes handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn ved vurderingen. Det samme gjelder handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte.
+(2) Sanksjoner kan ilegges når studenten forsettlig har forsøkt å fuske, eller forsettlig eller grovt uaktsomt har fusket, i forbindelse med eksamen eller obligatorisk aktivitet. Forsettlig medvirkning til fusk hos andre anses som fusk.
+(3) Ved mistanke om fusk kan muntlig høring av besvarelsen benyttes for å avklare kandidatens eierskap til innlevert arbeid. Høringen skal kun omhandle kandidatens egen besvarelse og skal dokumenteres. Nærmere regler om beslutning, innkalling og gjennomføring fremgår av retningslinjene.
+(4) Dersom studenten har fusket eller forsøkt å fuske, kan eksamenen eller aktiviteten annulleres og/eller studenten utestenges i inntil ett år. Den lokale klagenemnda fatter vedtak. Studenten skal gis anledning til å uttale seg før vedtak fattes.
+(5) Den lokale klagenemnda kan annullere fritak eller godskriving som er gitt på grunnlag av falske vitnemål, andre falske dokumenter eller annen uredelig opptreden.
+(6) Vedtak etter denne paragrafen er enkeltvedtak og kan påklages til Nasjonalt klageorgan for fagskoleutdanning. Annullert eksamen teller som ett eksamensforsøk.
