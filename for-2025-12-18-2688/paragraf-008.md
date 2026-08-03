@@ -1,0 +1,2 @@
+# § 8. Bifangst for fartøy under 28 meter største lengde
+Fartøy under 28 meter største lengde som fisker med konvensjonelle redskap kan ha inntil 40 % bifangst av lange ved fiske etter andre fiskeslag. For fartøy som lander flere ganger per uke regnes bifangsten basert på all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere ganger per uke, regnes bifangsten i vekt i de enkelte fangster og ved landing.
