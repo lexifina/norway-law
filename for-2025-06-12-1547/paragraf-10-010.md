@@ -1,0 +1,3 @@
+# § 10-10. Konsekvensar av ikkje bestått praksis eller gyldig fråvær
+(1) Når studenten får praksisen vurdert til ikkje bestått på grunn av ugyldig fråvær eller ikkje bestått praksis, må heile praksisperioden takast om att. Studenten må i slike tilfelle gjennomføre ny praksisperiode neste gong denne blir arrangert ordinært. Dette kan få konsekvensar for studenten sin studieprogresjon.
+(2) Når studenten har gyldig fråvær kan høgskulen tilrettelegge for at studenten får ny eller utsett delar av praksisperioden innanfor same studieår eller neste studieår. Tilrettelegging skal ikkje senke dei faglege krava til praksisen, jf. § 7-2. Sjølv om fråværet er gyldig, kan forseinkinga få konsekvensar for studenten sin studieprogresjon.

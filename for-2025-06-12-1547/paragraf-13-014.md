@@ -1,0 +1,5 @@
+# § 13-14. Klage på formelle feil
+(1) Studenten kan klage på formelle feil under eksamen, jf. universitets- og høyskoleloven § 11-9. Frist for å klage på formelle feil er tre veker etter at studenten vart kjend med eller burde vere kjend med det eller dei forholda som ligg til grunn for klagen, eller tre veker etter at studenten har mottatt grunngjeving for sensur eller har fått svar på klage på sensur.
+(2) Dersom det er gjort formelle feil som kan ha hatt verknad for studenten sin prestasjon eller bedømminga av denne, blir sensurvedtaket oppheva. Når feilen kan rettast ved ny sensur av den innleverte eksamensoppgåva skal ein føreta ny sensurering. Når feilen ikkje kan rettast med ny sensur, kan høgskulen bestemme at det skal arrangerast ny eksamen. Ny sensur skal gjerast av minst to nye sensorar, kor minst éin er ekstern.
+(3) Karakterfastsetting ved ny sensurering etter denne paragrafen, kan klagast på etter reglane i § 13-13.
+(4) Klage over formelle feil skal handsamast av Eining for eksamen og i samråd med fagleg ansvarleg der det er aktuelt. Høgskulen si nemnd for studentsaker er klageinstans.

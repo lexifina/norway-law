@@ -1,0 +1,4 @@
+# § 5-1. Dokumentert permisjon
+(1) Studentar har rett til permisjon frå studieprogram på grunnlag av dokumentert sjukdom skrive ut av lege, psykolog, eller anna sakkunnig person. Studentar kan òg få permisjon på grunnlag av tenesteplikt etter forsvarsloven § 17, møteplikt i offentlege organ, krevjande verv i studentdemokratiet og studentorganisasjonar, eller andre særleg tungtvegande tilhøve. Sjå òg § 5-2 (5). Retten til foreldrepermisjon går fram av universitets- og høyskoleloven § 10-6.
+(2) Permisjonstida kjem i tillegg til retten studenten har til utvida studietid, jf. § 4-3.
+(3) Søknad om dokumentert permisjon kan bli avslått på grunnlag av at forlenging av studieretten vil føre til senking av dei faglege krava til studiet. Kunnskapar, ferdigheiter og generell kompetanse i læringsutbyttet som går fram av studie- og emneplan kan ikkje falle bort, jf. § 7-2 (2).

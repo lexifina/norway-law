@@ -1,0 +1,5 @@
+# § 3-2. Akkreditering og etablering av nye studieprogram
+(1) Utdanningsutvalet sjølv gjer vedtak om akkreditering og godkjenning av studieplan på nye studieprogram med eit omfang på over 60 studiepoeng innanfor fagområde der høgskulen kan tildele doktorgrad, jf. universitets- og høyskoleloven § 3-2 og § 3-4 første og tredje ledd.
+(2) Styret sjølv gjer vedtak om etablering av nye studieprogram med eit omfang på over 60 studiepoeng. Styret gjer vedtak på grunnlag av godkjend utgreiingsløyve, og vedtak om akkreditering i Utdanningsutvalet.
+(3) Dekan sjølv vurderer studieprogram i høve krav til akkreditering av studietilbod i forskrift til universitets- og høyskoleloven, godkjenner studie- og emneplanar og gjer vedtak om etablering av studieprogram og emne til og med 60 studiepoeng.
+(4) Alle studieprogram skal vere knytt til eit fakultet, eit studieprogramråd og ha ein studieprogramansvarleg med eit definert ansvar. Når eit studieprogram er sett saman av emne frå fleire fakultet, skal organet som treff vedtak om etablering avgjere kva fakultet som skal ha det samla faglege ansvaret.

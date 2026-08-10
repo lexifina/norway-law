@@ -1,0 +1,3 @@
+# § 2-11. Fagleg godkjenning av utanlandsk utdanning, anna utdanning og realkompetanse
+(1) Høgskulen skal godkjenne utanlandske emne/kvalifikasjonar frå ein stat som har ratifisert Lisboakonvensjonen, med mindre høgskulen kan påvise betydelege forskjellar mellom utdanninga det er søkt om godkjenning for og utdanninga den samanliknast med, jf. universitets- og høyskoleloven § 9-3 andre ledd.
+(2) Fagleg godkjenning av anna utdanning og realkompetanse, eller utanlandsk utdanning som går fram av universitets- og høyskoleloven § 9-3 første ledd, § 9-4, § 9-5 og § 9-2, kan vurderast av høgskulen etter søknad.

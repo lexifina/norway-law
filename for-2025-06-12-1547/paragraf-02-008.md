@@ -1,0 +1,4 @@
+# § 2-8. Tillegg for namn for gradar
+(1) Grad som blir tildelt på grunnlag av fullført treårig studieprogram på lågare grads nivå (første syklus) får normalt namnet «bachelor i <namn på studiet>», med eventuelt tillegg av namn på linje, studieretning eller liknande. Andre tillegg til namnet blir fastsett i samband med godkjenning av studieplanen.
+(2) Grad som blir tildelt på grunnlag av fullført studieprogram på høgare grads nivå (andre syklus) får normalt namnet «master i <namn på studiet>», med eventuelt tillegg av namn på linje, studieretning eller liknande. Andre tillegg til namnet blir fastsett i samband med godkjenning av studieplanen.
+(3) Engelske namn på gradar ved Høgskulen på Vestlandet blir fastsett i samband med akkreditering av studieprogrammet, etter same prinsipp som i (1) og (2).

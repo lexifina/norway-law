@@ -1,0 +1,3 @@
+# § 13-6. Godkjenning av eksamensoppgåva og sensorrettleiing
+(1) Eksamensoppgåvene skal kvalitetssikrast. Studieprogramansvarleg, eller den det blir delegert til, skal godkjenne eksamensoppgåvene. Godkjenninga av eksamensoppgåve betyr at eksamensoppgåva sitt innhald og formulering samsvarar med emnet sitt læringsutbytte i tillegg til at eksamensoppgåva er rettskriven med oppgåvetekst på dei påkravde skriftsspråka.
+(2) Det skal utarbeidast ei sensorrettleiing til kvar eksamen, jf. universitets- og høyskoleloven § 11-7 tredje ledd. Dette gjeld for alle vurderingsformer. Sensorrettleiinga skal kvalitetssikrast og godkjennast av studieprogramansvarleg, eller den det blir delegert til.

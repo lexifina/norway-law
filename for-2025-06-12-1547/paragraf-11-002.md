@@ -1,0 +1,6 @@
+# § 11-2. Tidspunkt for eksamen. Eksamensplan
+(1) Dato for eksamen skal leggast til ein kvardag, jf. § 1-2 (14). I særlege tilfelle kan eksamen arrangerast på ein annan dag enn kvardag.
+(2) Tidspunktet for kvar enkelt eksamen blir kunngjort på Studentweb. Dato for ordinær skuleeksamen skal vere kunngjort innan 15. august og 15. januar. Tidsrom for avvikling av andre vurderingsformer blir kunngjort i Studentweb seinast to veker før aktuell eksamen. Endringar på dato for ordinær eksamen etter fristen for oppmelding til eksamen kan berre gjerast når det ligg føre særleg tungtvegande grunnar.
+(3) Eksamensplanen blir laga med utgangspunkt i ordinær studieprogresjon for kullet. Høgskulen er difor ikkje ansvarleg for kollisjonar mellom eksamenar for studentar som vel eit anna studieløp enn det ordinære eller for studentar som har fleire studierettar.
+(4) Studentar som følgjer ordinært studieløp og skal avleggje ordinær eksamen, har rett til minimum ein lesedag mellom kvar eksamensdag. Det er ikkje krav om at lesedag er ein kvardag. I særlege tilfelle kan det vere unntak.
+(5) Det kan gjelde eigne reglar for praktisk eksamen. Det kan òg gjelde eigne reglar for studietilbod med studiesamlingar utanfor campus, når vurderingsform ikkje er skuleeksamen. Eigne reglar skal gå fram av studieplan eller emneplan.

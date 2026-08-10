@@ -1,0 +1,4 @@
+# § 11-19a. Oppattaking av bachelor- og masteroppgåve
+(1) Ein student som har fått bachelor- eller masteroppgåva si vurdert til ikkje bestått, kan levere ny eller forbetra versjon til sensur i løpet av dei to påfølgjande semestera. Ved særs tyngande sosiale eller medisinske tilhøve kan studenten søke fakultetet om å levere forbetra versjon etter dei to påfølgande semestera. Krav til dokumentasjon etter § 11-5 (3) bokstav c gjeld tilsvarande. Det er berre mogleg å levere forbetra versjon éin gong.
+(2) Det er ikkje høve til å forbetre karakter på ei bestått bachelor- eller masteroppgåve innafor same studieprogram. Det kan gjerast unntak viss studenten skriv heilt ny oppgåve med ny problemstilling.
+(3) Ved innlevering av ny eller forbetra versjon av bachelor- eller masteroppgåve, kan rettleiinga til studenten bli avgrensa.

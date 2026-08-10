@@ -1,0 +1,10 @@
+# § 7-4. Tilrettelegging av eksamen
+(1) Dokumentert søknad om tilrettelegging av eksamen skal sendast høgskulen seinast innan 1. september i haustsemesteret og 1. februar i vårsemesteret, eller straks behovet for tilrettelegging blir kjent.
+(2) Høgskulen utarbeider eigna tilrettelegging innanfor ramma av § 7-2.
+(3) Utvida tid til skuleeksamen blir gitt som ti minuttar pr. eksamenstime, men kan ikkje gå over ein time totalt. Tid til amming kjem i tillegg.
+(4) Utvida tid til heimeeksamen og oppgåver blir berre innvilga i særlege tilfelle, der sjukdom eller andre tungtvegande tilhøve gjer at studenten ikkje kan arbeide i lengre tidsrom under eksamen. Maksimal utvida tid blir sett i høve til lengd på oppgåva. For heimeeksamen som varar åtte timar eller kortare gjeld same regel som for skuleeksamen, sjå punkt 3.
+(5) Utvida tid til master- eller bacheloroppgåve blir berre innvilga i særlege tilfelle, inntil to veker eller til neste semester sin frist for innlevering. Utviding med eitt semester blir berre gitt to gonger. Høve til å trekke vurderingsmelding og levere ved ny ordinær frist er regulert i kapittel 11.
+(6) For studentar som oppfyller vilkåra i § 7-1 kan det innvilgast eigna tilrettelegging på munnleg, justerande munnleg eller praktisk eksamen.
+(7) Studentar som har eit anna morsmål enn norsk og som har budd i Norge i mindre enn tre år kan søkje om utvida tid ved eksamen.
+(8) Studentar med eit anna morsmål enn norsk kan få bruke tospråkleg ordbok utan ordforklaring, med mindre faglege omsyn talar mot dette. Ordboka blir kontrollert.
+(9) Ved tungtvegande helse- eller sosiale grunnar kan studentar gjennomføre skriftleg skuleeksamen utanfor institusjonen. Høgskulen kan etter søknad godkjenne at eksamen blir avvikla utanfor institusjonen, når dette kan skje under forsvarleg kontroll. Eksamensstaden skal godkjennast av høgskulen på førehand. Frist for søknad er 1. september i haustsemesteret og 1. februar i vårsemesteret, eller straks etter behovet for tilrettelegging blir kjent.

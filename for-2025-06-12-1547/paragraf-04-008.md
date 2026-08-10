@@ -1,0 +1,9 @@
+# § 4-8. Tap av studierett
+(1) Studentar som ikkje fullfører semesterregistrering etter § 4-2 innan fristen, eller ikkje møter til semesterstart på nytt program jf. forskrift om opptak til Høgskulen på Vestlandet § 8-2, taper studieretten.
+(2) Studentar som blir stoppa av progresjonskrav taper studieretten når dei
+a) har brukt alle forsøka på å fullføre eit emne, eksamen eller praksisperiode utan godkjent resultat, jf. § 10-12 og § 11-5, eller
+b) ikkje kan fullføre emne, eksamen eller praksisperiode grunna utestenging frå praksis etter universitets- og høyskoleloven § 12-2 andre ledd.
+(3) Studentar som har brukt opp forsøk på ein eksamen utan bestått resultat, får etter § 11-5 nye forsøk i emnet fem år etter siste eksamensforsøk. Studentar som har brukt opp forsøk i eit praksisemne utan å få bestått resultat, får etter § 10-12 nye forsøk fem år etter siste forsøk. Ved nytt opptak må det vurderast fagleg om studenten kan starte på same nivå.
+(4) Studentar som ikkje oppnår studiepoeng i eit program i to semester på rad, taper studieretten til programmet. I desse to semestera inngår ikkje innvilga permisjonar, opphald i progresjon som går fram av utdanningsplanen og mellombels utestenging frå høgskulen etter vedtak i høgskulen si klagenemnd.
+(5) Studierett som er stengd kan bli gjenopna innan eitt år etter han er stengd, om det ligg føre særlege grunnar og stenginga rammar studenten utilsikta og uforholdsmessig hardt. Fakultetet avgjer søknad om å opne stengd studierett, og set opp ny utdanningsplan med nytt sluttpunkt for studieretten. Studierett kan berre bli gjenopna for same studieprogram.
+(6) Studentar som får opptak til eit nytt studieprogram ved HVL med ei varigheit på meir enn eitt semester, taper studieretten til det tidlegare studieprogrammet, med mindre det er gode faglege grunnar for å ha fleire studierettar samtidig. Dette gjeld ikkje for etter- og vidareutdanningar.
