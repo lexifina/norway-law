@@ -1,0 +1,6 @@
+# § 4-1. Studierett
+(1) For opptak av studentar til studium og emne gjeld forskrifter fastsett av departementet og forskrift om opptak til Høgskulen på Vestlandet.
+(2) Studierett er å vere tatt opp som student ved eit studieprogram eller emne og ha studentstatus. Studieretten gjev rett til å følgje lukka undervisning, gjennomføre praksis, kurs og seminar og gå opp til eksamen i samsvar med gjeldande studieplan.
+(3) Studieretten er knytt til studieprogram eller emne på den studiestaden studenten har fått opptak til. Dekan kan avgjera at særskilde emne kan vere opne for programstudentar ved andre studiestader ved høgskulen.
+(4) For studium som tilbyr alternative opptaksvegar, der studentar kan oppfylle opptakskrava gjennom tilpassa kurs i studieprogrammet, kan studieplanen fastsetje krav om at desse kursa må vere bestått innan gitte fristar for å kunne fortsetje på studiet.
+(5) På førespurnad frå høgskulen må studentar leggje fram originaldokument som grunnlag for opptak til studium eller for utferding av vitnemål ved Høgskulen på Vestlandet. Studentar som ikkje legg fram desse originaldokumenta for kontroll, kan miste studieretten. Karakterutskrift og vitnemål frå Høgskulen på Vestlandet blir halde att til dei etterspurde dokumenta er lagt fram og kontrollert.

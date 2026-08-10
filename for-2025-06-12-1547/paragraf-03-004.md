@@ -1,0 +1,5 @@
+# § 3-4. Nedlegging og nullopptak
+(1) Dersom høgskulen i samband med gjennomgang av studieportefølje vurderer å leggje ned eit studieprogram, avvikle studieprogrammet på ein av studiestadane, eller ha nullopptak på programmet skal dekan sikre medverknad frå studentar, fagmiljø og samfunns- og arbeidsliv. Medverknaden skal vere i tråd med vedtekne prosess-skildringar og retningslinjer.
+(2) Styret sjølv vedtek nedlegging og nullopptak på studieprogram over 60 studiepoeng og fastset overgangstid og -ordning for undervisning, vurdering og utferding av vitnemål, slik at studentane får fullført på normert tid.
+(3) Dekan sjølv vedtek nedlegging og nullopptak på studieprogram til og med 60 studiepoeng og fastset overgangstid og -ordning for undervisning, vurdering og utferding av vitnemål.
+(4) Det skal utarbeidast overgangsordning ved nedlegging av studieprogram. Dersom anna ikkje er bestemt i overgangsordninga eller i forskrift om rammeplan til studieprogrammet, kan høgskulen produsere vitnemål inntil fem år etter siste avslutta undervisingssemester.

@@ -1,0 +1,7 @@
+# § 13-13. Ny vurdering ved klage på karakterfastsetjing
+(1) Studenten har rett på ny vurdering ved klager på karakterfastsetjing på eksamen der vurderingsforma kan etterprøvast, jf. tabell i § 9-2.
+(2) Det er individuell klagerett på karakterfastsetjing ved gruppeeksamen. Ei eventuell endring i karakteren etter klagesensur får berre verknad for den som har klaga.
+(3) Ved klage på karakterfastsetjing skal studenten sitt eksamenssvar sendast til nye sensorar, der minst éin er ekstern, jf. universitets- og høyskoleloven § 11-11 andre ledd. Sensorrettleiing og emneplan skal leggjast ved eksamenssvaret. Sensorane kan òg få tilgang på nivåkontroll om dei ønskjer dette. Klagesensorane skal ikkje ha opplysningar om karakter eller grunngjeving for karakter eller klage. Dersom opphavleg sensur av eksamenssvara på eksamenen har vore delt mellom fleire sensorkommisjonar, bør ein eller fleire av dei andre opphavlege kommisjonane vere klagekommisjon(ar).
+(4) Dersom den endelege karakteren er fastsett på grunnlag av ein skriftleg del og justerande munnleg eksamen jf. § 9-3, og karakteren blir endra etter ny sensur på den skriftlege delen, skal det gjennomførast ny justerande munnleg eksamen og fastsettast endeleg karakter, jf. universitets- og høyskoleloven § 11-11 fjerde ledd.
+(5) Karakteren ved ny vurdering kan bli betre, lik eller dårlegare enn ved ordinær sensur.
+(6) Det er ikkje klagerett på klagesensuren.

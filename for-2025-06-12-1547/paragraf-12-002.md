@@ -1,0 +1,4 @@
+# § 12-2. Mistanke om fusk
+(1) Om det oppstår mistanke om fusk eller forsøk på fusk under obligatoriske læringsaktivitetar eller eksamen, skal høgskulen opplyse studenten om at forholdet vil bli rapportert. Studenten har rett til å fullføre læringsaktiviteten eller eksamenen, men med den risiko at det kan bli reist sak om fusk eller forsøk på fusk, og at slik sak kan føre til at læringsaktiviteten blir underkjent eller at eksamen blir annullert. Valet om å fullføre eller ikkje, verkar ikkje inn på om det blir reist sak om fusk eller forsøk på fusk.
+(2) Inntil høgskulen si nemnd for studentsaker har gjort vedtak i saka har studenten rett til å halde fram på studiet som vanleg. Studenten kan likevel bli stoppa av progresjonskrav på utdanninga.
+(3) Om det blir reist sak om fusk som kan resultere i utestenging, har studenten rett til å få dekka bistand frå advokat, jf. universitets- og høyskoleloven § 12-9.

@@ -1,0 +1,2 @@
+# § 7-1. Rett til tilrettelegging
+Studentar med funksjonsnedsetting og særskilte behov sin rett til tilrettelegging følgjer av universitets- og høyskoleloven § 10-5 og § 10-6. Rett til tilrettelegging gjeld til dømes ved funksjonsnedsetting, sjukdom, graviditet og amming. Tilrettelegging for studentar med verv i høgskulen sine vedtekne organ og utval samt tillitsvalde i studentdemokratiet går fram av samarbeidsavtalen med Studenttinget på Vestlandet. Tilrettelegging for studentar med toppidrettsstatus går fram av avtale med Olympiatoppen.
