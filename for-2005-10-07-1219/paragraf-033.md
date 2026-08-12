@@ -1,0 +1,4 @@
+# § 33. Ansvar
+1. Skiltmyndigheten der varslingen skal utføres skal godkjenne skiltplanen og treffe nødvendige vedtak.
+2. Ansvaret for gjennomføring og oppfølging av planen på arbeidsstedet skal tillegges utførende etat eller entreprenør.
+3. Utførende etat eller entreprenør skal for hvert enkelt arbeidssted utpeke en som er ansvarlig for å påse at varslingen er korrekt og i henhold til planen. Kopi av vedtak, loggbok, arbeidsvarslingsplan og eventuelle vilkår som måtte være fastsatt for vedkommende arbeid skal være tilstede og tilgjengelig på arbeidsstedet. Den ansvarlige skal sørge for at nødvendig varslings- og sikringsmateriell er tilstede, og at varsling og sikring av arbeidsstedet til enhver tid er utført i henhold til godkjent plan. Ved sykdom, ferieavvikling m.m. skal ansvaret overføres til annen kompetent person. Den ansvarliges navn og telefon skal meddeles skiltmyndigheten.

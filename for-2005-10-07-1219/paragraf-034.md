@@ -1,0 +1,3 @@
+# § 34. Sanksjoner
+1. Ethvert arbeid kan stanses av skiltmyndigheten eller politiet inntil de nødvendige tiltak er iverksatt, dersom forholdet kan utgjøre en fare. Likeledes kan arbeidet stanses dersom varsling eller sikring ikke er utført i henhold til godkjent plan e.l. og dette skaper vesentlige ulemper for trafikkavviklingen.
+2. Delegering av ansvar etter § 33 nr. 2 for gjennomføring og oppfølging av skiltplan kan unnlates eller trekkes tilbake for kortere eller lengre tid til den som utfører arbeidsvarsling og som ikke retter seg etter pålegg gitt av skiltmyndigheten, vegmyndigheten eller politiet, eller som i løpet av tolv måneder har mottatt to slike pålegg, uavhengig av om disse i ettertid er fulgt opp.
