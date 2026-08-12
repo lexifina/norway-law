@@ -1,0 +1,5 @@
+# § 29. Myndighet for andre offentlige trafikkskilt
+1. Statens vegvesen kan treffe vedtak om å sette opp eller ta ned andre offentlige trafikkskilt enn dem som omfattes av bestemmelsene i § 26–§ 28 for riksveg, fylkesveg og privat veg. Kommunen har slik myndighet for kommunal veg. Statens vegvesens vedtak kan likevel om nødvendig også gjelde skilting på kommunal veg, dersom skiltene på riksveg, fylkesveg eller privat veg må suppleres med skilt på kryssende kommunal veg. Kommunens myndighet gjelder ikke for skilting for kommunal veg på kryssende riksveg eller fylkesveg.
+2. Myndighet som nevnt i § 28 nr. 3 femte ledd kan også nytte slike skilt.
+3. Utforming og bruk av skilt 590 Trafikksikkerhetsinformasjon skal godkjennes av Statens vegvesen før det treffes vedtak om å sette opp skiltet.
+4. For skilt 729 Gate-/vegnavnskilt treffer kommunen vedtak også for privat veg. Før Statens vegvesen eller kommunen fatter vedtak om slikt skilt skal henholdsvis kommunen og Statens vegvesen få uttale seg.
