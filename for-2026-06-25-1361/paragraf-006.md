@@ -1,0 +1,5 @@
+# § 6. Nødvendig og hensiktsmessig utdanning eller opplæring jf. § 4 første ledd bokstav c
+Det er vanligvis ikke nødvendig å ta utdanning eller opplæring når den enslige moren eller faren har yrkeskompetanse. Utdanning eller opplæring kan likevel anses som nødvendig og hensiktsmessig dersom yrkeskompetansen er utdatert eller denne ikke er forenlig med aleneomsorg for små barn.
+Utdanningen eller opplæringen skal normalt gjennomføres ved offentlige utdanningsinstitusjoner eller som lærling med godkjent lærekontrakt. Utdanning eller opplæring ved private utdanningsinstitusjoner kan godkjennes i særlige tilfeller.
+Utdanning ved militære skoler eller til etatsopplæring kan ikke godkjennes som nødvendig og hensiktsmessig utdanning eller opplæring.
+Den enslige moren eller faren skal i samarbeid med Arbeids- og velferdsetaten utarbeide en konkret plan for gjennomføringen og målet for utdanningen eller opplæringen (aktivitetsplan), jf. lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen § 14a tredje ledd. Aktivitetsplanen danner grunnlag for vedtak om nødvendig og hensiktsmessig utdanning eller opplæring.

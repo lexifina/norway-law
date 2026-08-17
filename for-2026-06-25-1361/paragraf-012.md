@@ -1,0 +1,2 @@
+# § 12. Midlertidig bortfall av stønader
+Stønadene etter denne forskriften faller bort en måned dersom medlemmet uten rimelig grunn sier opp sin stilling, nekter å ta imot tilbudt arbeid, unnlater å gjenoppta sitt arbeidsforhold etter endt foreldrepermisjon, nekter å delta i arbeidsmarkedstiltak eller unnlater å møte ved innkalling til Arbeids- og velferdsetaten. Bortfallsperioden vil trekkes fra den innvilgede stønadsperioden.
