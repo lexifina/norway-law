@@ -1,0 +1,5 @@
+# § 11. Stønad til barnetilsyn til enslig mor eller far i arbeid
+Stønad til barnetilsyn ytes til et medlem som må overlate nødvendig tilsyn med barn til andre på grunn av arbeid eller at de etablerer egen virksomhet, jf. § 4-6 tredje ledd. Stønaden er uavhengig av retten til og perioden for overgangsstønad.
+Stønad kan ytes til barnet har fullført fjerde skoleår. For barn som har fullført fjerde skoleår, kan det gis stønad til tilsyn når barnet må ha vesentlig mer tilsyn enn det som er vanlig for jevnaldrende, eller når medlemmet på grunn av sitt arbeid må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn det en vanlig arbeidsdag medfører. Stønad til barnetilsyn kan også gis i inntil ett år når medlemmet har en forbigående sykdom som hindrer vedkommende i å være i arbeid.
+Stønaden er 64 prosent av dokumenterte utgifter til barnetilsyn opptil de beløp som Stortinget fastsetter. Det gis ikke stønad når den pensjonsgivende inntekten er større enn seks ganger grunnbeløpet.
+Forskrift 21. november 2015 nr. 1341 om stønad til enslig mor eller far § 8 gjelder tilsvarende for beregning av stønad etter denne paragrafen.
