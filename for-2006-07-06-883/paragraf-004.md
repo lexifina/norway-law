@@ -1,0 +1,3 @@
+# § 4
+Det er forbudt å fiske med hummerteiner langs hele sjølinjen ned til 50 meters dyp regnet fra laveste vannstand i områdene avgrenset av følgende posisjoner angitt i grader og desimalminutter (jf. kartvedlegg):AurlandsfjordenLuftspenn Dyrastadneset i Vik kommuneLuftspenn Knubben i Lærdal kommune61° 03,965′ N7° 00,450′ Ø61° 04,148′ N7° 02,344′ ØSogndalsfjordenNordnes lyktHagastrondi61° 09,446′ N6° 59,758′ Ø61° 09.329′ N7° 00.202′ ØLustrafjordenKvarvnes lykt v/kommunegrense ÅrdalOmbandsneset v/ kommunegrense Sogndal61° 12,418′ N7° 23,601′ Ø61° 10.947′ N7° 23.728′ Ø
+All fangst av hummer i fredningsområdet skal straks settes tilbake i sjøen på fangststedet.
