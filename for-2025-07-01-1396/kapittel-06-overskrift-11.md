@@ -1,0 +1,1 @@
+# Utleggstrekk for bidragsforpliktelser

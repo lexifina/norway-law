@@ -1,0 +1,1 @@
+# Trekkets frigjørende virkning

@@ -1,0 +1,4 @@
+# § 27-1. Unnlatelse av varsel og beslutning mv.
+(1) Hvis en bidragsforpliktelse allerede deltar i et utleggstrekk, kan Innkrevingsmyndigheten melde ytterligere bidragsforpliktelser inn i utleggstrekket uten at kravet er misligholdt etter tvangsfullbyrdelsesloven § 4-4, og uten at det er sendt varsel etter tvangsfullbyrdelsesloven § 4-18 og innkrevingsloven § 25.
+(2) Innkrevingsmyndigheten kan unnlate å fatte beslutning etter innkrevingsloven § 26 når den melder inn krav i trekket etter første ledd, dersom den ytterligere bidragsforpliktelsen knytter seg til de samme personer som den bidragsforpliktelsen som allerede deltar i trekket.
+(3) Første og andre ledd gjelder ikke ved innkreving av særtilskudd etter barnelova § 67 andre ledd. Ved økning av et særtilskudd som deltar i et utleggstrekk, gjelder første og andre ledd når økningen meldes inn i trekket.

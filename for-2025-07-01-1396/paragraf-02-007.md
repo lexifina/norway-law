@@ -1,0 +1,32 @@
+# § 2-7. Gebyrer og avgifter mv.
+Innkrevingsmyndigheten krever inn
+- avgift med hjemmel i el-tilsynsloven
+- finanstilsynsavgift ilagt av Finanstilsynet med hjemmel i finanstilsynsloven
+- årsavgift og tilleggsavgift med hjemmel i motorkjøretøy- og båtavgiftsloven § 1
+- gebyr og tilleggsavgift med hjemmel i vegtrafikkloven
+- avgift med hjemmel i lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk § 43
+- dokumentavgift og tilleggsavgift med hjemmel i dokumentavgiftsloven
+- krav som nevnt i rettsgebyrloven § 3 første ledd
+- tinglysningsgebyr med hjemmel i tinglysingsloven § 12b
+- gebyr for grunnbokutskrifter med hjemmel i forskrift om gebyr for tinglysing, registrering eller anmerkning i grunnboken og kraftledningsregisteret § 5
+- gebyr og avgift med hjemmel i lov 15. mai 1987 nr. 21 om film og videogram
+- gebyr med hjemmel i lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister
+- inkassobevillingsgebyr med hjemmel i inkassoloven
+- skjenkebevillingsgebyr og omsetningsgebyr med hjemmel i alkoholloven
+- kringkastingsavgift og tilleggsavgift med hjemmel i kringkastingsloven
+- gebyr med hjemmel i sjøloven § 11 og § 198
+- gebyr med hjemmel i småbåtloven § 26a
+- forsinkelsesgebyr med hjemmel i regnskapsloven
+- gebyr etter stiftelsesloven § 7
+- avgift og gebyr med hjemmel i brann- og eksplosjonsvernloven § 28
+- gebyr for innregistrering, anmerkning, etterregistrering og utskrift av borettsandeler med hjemmel i burettslagslova
+- byggesaksgebyr med hjemmel i arbeidsmiljøloven
+- årsavgift for tilsyn med hjemmel i lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid
+- gebyr med hjemmel i skipssikkerhetsloven
+- prospektgebyr med hjemmel i verdipapirhandelloven § 7-11 første ledd
+- årsgebyr for edelmetall med hjemmel i edelmetalloven
+- avgift med hjemmel i tobakksskadeloven
+- kontroll og tilsynsavgift med hjemmel i forskrift 21. desember 2001 nr. 1597 om gebyr og avgift i forbindelse med akvakulturvirksomhet § 3, jf. akvakulturloven § 26
+- gebyr ved innføring i merkeregisteret og en årlig avgift så lenge fartøyet står i merkeregisteret med hjemmel i deltakerloven
+- forsinkelsesgebyr ilagt med hjemmel i aksjeloven av 1976
+- gebyr for etterkontroll av deaktiverte våpen og gebyr for våpentillatelser med hjemmel i våpenlova § 37, jf. våpenforskrifta § 12-2.

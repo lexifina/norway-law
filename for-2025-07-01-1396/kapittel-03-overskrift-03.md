@@ -1,0 +1,1 @@
+# Tredjeparts opplysningsplikt

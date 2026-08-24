@@ -1,0 +1,4 @@
+# § 31-1. Renter ved forsinket betaling av trekkbeløp
+(1) Den trekkpliktige skal betale rente av trekkbeløp som ikke betales innen forfall, jf. innkrevingsloven § 30 andre ledd. Dette gjelder likevel bare der skyldneren er godskrevet trekkbeløpet etter innkrevingsloven § 34. Dersom Innkrevingsmyndigheten ikke er kjent med forfallstidspunktet for trekkbeløpet, skal rente beregnes fra den første virkedagen i måneden etter at trekket skulle ha vært gjennomført.
+(2) Innbetalte forsinkelsesrenter tilfaller kreditorene som hadde krav på dekning gjennom utleggstrekket på tidspunktet trekket skulle ha vært gjennomført. Rentene fordeles på samme måte som trekkbeløpet, jf. dekningsloven § 2-8.
+(3) Rentesatsen er satsen fastsatt etter forsinkelsesrenteloven § 3 første ledd første punktum. Forsinkelsesrenteloven § 2 andre ledd gjelder tilsvarende.

@@ -1,0 +1,37 @@
+# § 15-1. Renter ved forsinket betaling
+Det skal ikke løpe rente etter innkrevingsloven § 15 første ledd for følgende krav:
+- byggesaksgebyr ilagt av Arbeidstilsynet med hjemmel i arbeidsmiljøloven
+- etteroppgjør uførepensjon etter folketrygdloven § 12-14
+- etteroppgjør omstillingsstønad etter folketrygdloven § 17-9
+- etteroppgjør med hjemmel i AFP-tilskottsloven § 15
+- etteroppgjør med hjemmel i lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d
+- feilutbetalt bidrag etter bidragsinnkrevingsloven § 26
+- feilutbetalt bidragsforskudd etter forskotteringsloven § 8
+- folketrygdens regresskrav (refusjonskrav) ved utbetaling av bidragsforskudd etter forskotteringsloven § 10
+- forsinkelsesgebyr med hjemmel i aksjeloven av 1976
+- forsinkelsesgebyr med hjemmel i regnskapsloven
+- inndragning ilagt i en offentlig straffesak
+- krav som kun avregnes etter folketrygdloven § 22-16
+- overtredelsesgebyr ilagt av Arbeidstilsynet med hjemmel i arbeidsmiljøloven
+- overtredelsesgebyr med hjemmel i folkeregisterloven
+- overtredelsesgebyr med hjemmel i havne- og farvannsloven
+- overtredelsesgebyr med hjemmel i kassasystemlova
+- overtredelsesgebyr med hjemmel i klimakvoteloven
+- overtredelsesgebyr med hjemmel i skatteforvaltningsloven
+- overtredelsesgebyr med hjemmel i vegtrafikkloven
+- pålegg om å betale bidrag på nytt etter bidragsinnkrevingsloven § 27
+- tilbakebetalingskrav for utbetalt bostøtte med hjemmel i bustøttelova
+- tvangsbot fastsatt med hjemmel i barnelova
+- tvangsmulkt ilagt av Arbeidstilsynet med hjemmel i arbeidsmiljøloven
+- tvangsmulkt ilagt av Sjøfartsdirektoratet med hjemmel i produktkontrolloven
+- tvangsmulkt ilagt av Statens vegvesen med hjemmel i forbrukermerkeloven
+- tvangsmulkt med hjemmel i kassasystemlova
+- tvangsmulkt med hjemmel i likestillings- og diskrimineringsloven
+- tvangsmulkt med hjemmel i lov om register over reelle rettighetshavere
+- tvangsmulkt med hjemmel i plan- og bygningsloven
+- tvangsmulkt med hjemmel i sivilbeskyttelsesloven
+- tvangsmulkt med hjemmel i skatteforvaltningsloven
+- tvangsmulkt med hjemmel i skipssikkerhetsloven
+- tvangsmulkt med hjemmel i svalbardmiljøloven
+- tvangsmulkt med hjemmel i vegtrafikkloven
+- underholdsbidrag som påhviler noen etter barnelova, ekteskapsloven eller barnevernsloven.
