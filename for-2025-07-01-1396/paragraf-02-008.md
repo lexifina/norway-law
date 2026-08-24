@@ -1,0 +1,46 @@
+# § 2-8. Øvrige krav
+Innkrevingsmyndigheten krever inn
+- krav om refusjon ved fri rettshjelp og egenandel ved fri sakførsel og fritt rettsråd med hjemmel i rettshjelploven
+- refselsesbot med hjemmel i disiplinærloven
+- miljøerstatning med hjemmel i svalbardmiljøloven
+- refselsesbot med hjemmel i sivilbeskyttelsesloven
+- refusjonskrav med hjemmel i personopplysningsloven
+- krav på tilskudd og regresskrav med hjemmel i pasientskadeloven
+- gjeldskrav med hjemmel i utdanningsstøtteloven som er besluttet overført til Innkrevingsmyndigheten
+- administrativ inndragning med hjemmel i verdipapirhandelloven og referanseverdiloven
+- tilbakebetalingskrav for utbetalt bostøtte med hjemmel i bustøttelova
+- refusjonskrav ved hjemtransport etter vedtak av Helsedirektoratet
+- tilbakebetaling av feilaktig utbetaling med hjemmel i pasient- og brukerrettighetsloven
+- tvangsbot fastsatt med hjemmel i barnelova
+- krav om utgiftsdekning og miljøerstatning med hjemmel i naturmangfoldloven
+- tilbakebetaling av utbetalt erstatning med hjemmel i straffeprosessloven
+- tilbakebetaling av utbetalt tilskudd etter lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort omsetningsfall
+- tilbakebetaling av utbetalt tilskudd etter lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)
+- tilbakebetalingskrav med hjemmel i privatskolelova med forskrifter
+- tilbakebetalingskrav fra Lotteri- og stiftelsestilsynet
+- tilbakebetalingskrav med hjemmel i folkehøgskoleloven
+- regresskrav og krav på tilbakebetaling av voldsoffererstatning med hjemmel i voldsoffererstatningsloven
+- regresskrav og krav på tilbakebetaling av voldserstatning med hjemmel i voldserstatningsloven
+- tilbakebetaling av tilskudd gitt av Helsedirektoratet
+- feilaktig utbetalt barnetrygd etter barnetrygdloven § 13
+- feilaktig utbetalt kontantstøtte etter kontantstøtteloven § 11
+- tilbakekreving etter feilaktig utbetaling etter folketrygdloven § 22-15
+- tilbakekreving av utbetalinger etter direkte oppgjørsordning etter folketrygdloven § 22-15a
+- etteroppgjør uførepensjon etter folketrygdloven § 12-14
+- etteroppgjør omstillingsstønad etter folketrygdloven § 17-9
+- krav på tilbakebetaling av sykepenger fra arbeidsgiver etter folketrygdloven § 8-22
+- refusjonskrav etter forvalteroppdrag og tilsyn med hjemmel i domstolloven og advokatloven
+- årlig bidrag, bidrag ved oppstart og gebyr ved forsinket betaling av årlig bidrag med hjemmel i advokatloven og advokatforskriften
+- tilbakebetalingskrav for tilskudd gitt av Medietilsynet, Utenriksdepartementet, Norsk filminstitutt, Norec, Utdanningsdirektoratet, Kulturdirektoratet, Barne-, ungdoms- og familiedirektoratet og Enova SF
+- krav med grunnlag i avtale med Direktoratet for samfunnssikkerhet og beredskap Utenriksdepartementet og Forsvarsbygg
+- krav på grunnlag av nødlidenhetslån etter gjeldsbrev utstedt av Utenriksdepartementet
+- misligholdte lån og restkrav fra Husbanken med grunnlag i gjeldsbrev/låneavtale
+- krav etter lønnsgarantiloven §§ 6 og 8
+- krav på tilbakebetaling etter innkrevingsloven § 7
+- krav på tilbakebetaling av trygdeytelser mv. med hjemmel i ulovfestet rett (condictio indebiti)
+- krav på tilbakebetaling etter lov 29. april 2005 nr. 21 om supplerande stønad til personar med kort butid i Noreg
+- regresskrav med hjemmel i svalbardskatteloven § 5-2 sjette ledd
+- ansvarskrav etter tvangsfullbyrdelsesloven § 7-22 som bestemmelsen lød før endringer ved innkrevingsloven
+- egenandel etter folketrygdloven § 10-6 og tilskudd og lån etter folketrygdloven § 10-7 (gjeldsbrev)
+- premie etter lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere § 16
+- krav om innbetaling ved tvangsdekning i enkle pengekrav etter innkrevingsloven § 24 andre ledd.

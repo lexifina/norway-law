@@ -1,0 +1,3 @@
+# § 25-2. Krav til varsel før beslutning om avregning
+(1) I varsel om avregning skal skyldner oppfordres til å uttale seg om forhold av betydning for avregningen.
+(2) Skyldner skal få vite hvilke opplysninger Innkrevingsmyndigheten har om vedkommende, og som har betydning for beslutningen om størrelsen på avregningen. Skyldner skal få de opplysninger som følger av § 25-1 andre ledd. Innkrevingsmyndigheten skal gjøre skyldner oppmerksom på at disse opplysningene vil bli lagt til grunn, med mindre andre opplysninger blir sannsynliggjort. Løper det et utleggstrekk mot skyldner, kan Innkrevingsmyndigheten unnlate å gi skyldner opplysninger som følger av § 25-1 andre ledd.

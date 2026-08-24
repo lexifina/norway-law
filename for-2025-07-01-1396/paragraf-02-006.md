@@ -1,0 +1,108 @@
+# § 2-6. Tvangsmulkt og overtredelsesgebyr
+(1) Innkrevingsmyndigheten krever inn tvangsmulkt ilagt med hjemmel i
+- alkoholloven
+- anskaffelsesloven
+- a-opplysningsloven
+- apotekloven
+- arbeidsmiljøloven
+- brann- og eksplosjonsvernloven
+- deltakerloven
+- diskrimineringsombudsloven
+- el-tilsynsloven
+- energiloven
+- finansforetaksloven
+- finanstilsynsloven
+- folketrygdloven § 25-3
+- forbrukermerkeloven
+- forsikringsvirksomhetsloven
+- forurensningsloven
+- havressurslova
+- hvitvaskingsloven
+- klimakvoteloven
+- kringkastingsloven
+- legemiddelloven
+- likestillings- og diskrimineringsloven
+- lotteriloven
+- lov 24. juni 2011 nr. 39 om elsertifikater
+- lov 12. januar 1995 nr. 6 om medisinsk utstyr
+- lov 7. mai 2020 nr. 37 om medisinsk utstyr
+- lov 21. desember 2005 nr. 124 om obligatorisk tjenestepensjon
+- lov 1. mars 2019 nr. 2 om register over reelle rettighetshavere
+- lov 17. juni 2016 nr. 64 om åpenhet om eierskap i medier
+- luftfartsloven
+- markedsføringsloven
+- mineralloven
+- naturmangfoldloven
+- pengespilloven
+- personopplysningsloven
+- plan- og bygningsloven
+- produktkontrolloven
+- referanseverdiloven
+- sivilbeskyttelsesloven
+- skipssikkerhetsloven
+- statistikkloven
+- svalbardmiljøloven
+- tobakksskadeloven
+- vannressursloven
+- vassdragsreguleringsloven
+- vegtrafikkloven
+- verdipapirhandelloven
+- åpenhetsloven.
+(2) Innkrevingsmyndigheten krever inn overtredelsesgebyr ilagt med hjemmel i
+- advokatloven
+- angrerettloven
+- anskaffelsesloven
+- a-opplysningsloven
+- apotekloven
+- arbeidsmiljøloven
+- avtaleloven
+- bildeprogramloven
+- deltakerloven
+- ehandelsloven
+- el-tilsynsloven
+- energiloven
+- finansavtaleloven
+- folkeregisterloven
+- folketrygdloven §§ 25-3 og 25-6a
+- forbrukerkjøpsloven
+- forbrukermerkeloven
+- forsikringsavtaleloven
+- forurensningsloven
+- havenergilova
+- havne- og farvannsloven
+- havressurslova
+- hvitvaskingsloven
+- klimakvoteloven
+- kringkastingsloven
+- lakse- og innlandsfiskloven
+- legemiddelloven
+- lov 24. juni 2011 nr. 39 om elsertifikater
+- lov 12. januar 1995 nr. 6 om medisinsk utstyr
+- lov 7. mai 2020 nr. 37 om medisinsk utstyr
+- luftfartsloven
+- markedsføringsloven
+- mesterbrevloven
+- mineralloven
+- motorferdselloven
+- naturmangfoldloven
+- pakkereiseloven
+- pengespilloven
+- personopplysningsloven
+- plan- og bygningsloven
+- produktkontrolloven
+- referanseverdiloven
+- regnskapsførerloven
+- revisorloven
+- sivilbeskyttelsesloven
+- skipssikkerhetsloven
+- svalbardmiljøloven
+- tjenesteloven
+- universitets- og høyskoleloven
+- valgloven
+- vannressursloven
+- vassdragsreguleringsloven
+- vegtrafikkloven
+- verdipapirfondloven
+- verdipapirhandelloven
+- yrkestransportlova § 40a
+- åpenhetsloven.
