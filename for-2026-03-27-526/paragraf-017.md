@@ -1,0 +1,2 @@
+# § 17. Plassering av generell advarsel og informasjonstekst på rulletobakk i pung
+EØS-avtalens vedlegg II kapittel XXV punkt 3a (Kommisjonens gjennomføringsbeslutning (EU) 2015/1735) om den nøyaktige plasseringen av den generelle advarselen og informasjonsteksten på rulletobakk i pung gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

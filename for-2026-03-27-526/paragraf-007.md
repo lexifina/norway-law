@@ -1,0 +1,18 @@
+# § 7. Rapportering om ingredienser, utslippsmålinger og salgsvolum
+Produsenter og importører av tobakksvarer skal rapportere følgende opplysninger om tobakksvarer, etter merke- og variantnavn:
+a) En liste over alle ingredienser med mengdeangivelse, som benyttes ved fremstilling av tobakksvarene, i synkende rekkefølge etter vekt.
+b) Utslippsnivåer i henhold til §§ 5 og 6.
+c) Informasjon om andre utslipp og deres nivå, dersom de er tilgjengelige.
+d) Importør til Norge av det aktuelle produktet.
+Produsenter og importører av urtebaserte røykeprodukter skal rapportere lister med opplysninger om produktenes ingredienser, og mengde av disse, oppdelt etter merke- og variantnavn.
+Produsenter og importører skal videre underrette direktoratet hvis sammensetningen av et produkt endres på en måte som påvirker de innrapporterte opplysningene etter denne bestemmelsen.
+For nye eller endrede tobakksvarer og urtebaserte røykeprodukter skal opplysninger etter første og annet ledd rapporteres 12 uker før produktet bringes i omsetning i Norge.
+Listen nevnt i første ledd bokstav a skal være vedlagt en erklæring som angir formålet med de aktuelle ingrediensene. Listen skal også inneholde opplysninger om ingrediensenes status, herunder om de har blitt registrert i henhold til forordning 1907/2006/EF, og om deres klassifisering i henhold til forordning 1272/2008/EF. Det skal også opplyses om alle relevante toksikologiske opplysninger for de aktuelle ingrediensene, både før og etter forbrenning, med særlig henvisning til deres helsemessige effekt på forbrukere og med henblikk på deres avhengighetsskapende effekt.
+For sigaretter og rulletobakk skal det i tillegg innleveres et teknisk dokument med en generell beskrivelse av tilsetningsstoffene som er brukt og deres egenskaper.
+Produsenter og importører skal opplyse om metoden som er benyttet ved utslippsmålinger. Kravet gjelder ikke ved rapportering for nivåer av tjære, nikotin og karbonmonoksid.
+Helsedirektoratet kan pålegge produsenter og importører av tobakksvarer å utføre undersøkelser med henblikk på å vurdere ingrediensenes effekter på helse, herunder blant annet deres avhengighetsskapende egenskaper og toksisitet.
+Produsenter og importører skal innlevere til Helsedirektoratet interne og eksterne undersøkelser som de har tilgang til om markedsundersøkelser og undersøkelser av forskjellige forbrukergruppers preferanser når det gjelder ingredienser og utslipp. Det samme gjelder sammendrag av markedsanalyser som er gjennomført ved lansering av nye produkter.
+Produsenter og importører skal innen 1. mars hvert år rapportere på salgsvolum for foregående år, oppdelt per merke- og variantnavn, angitt i antall eller i kilo. Helsedirektoratet skal fremlegge alle andre opplysninger om salgsvolum som de har tilgang til.
+Alle rapporteringer i henhold til denne bestemmelsen skal innleveres elektronisk i EU-CEG, i tråd med kravene i § 8. Helsedirektoratet skal lagre opplysningene og sikre at disse gjøres tilgjengelige for EFTAs overvåkingsorgan, EU-kommisjonen og relevante myndigheter i andre EØS-land. Ved innlevering av informasjonen skal produsenter og importører påpeke hvilke opplysninger de anser som forretningshemmeligheter.
+Helsedirektoratet skal offentliggjøre opplysningene mottatt i medhold av denne bestemmelsens første og annet ledd samt § 9 på en nettside, så langt lovbestemt taushetsplikt ikke er til hinder for offentliggjøring, jf. forvaltningsloven § 13 første ledd nr. 2.
+Det er forbudt å bringe i omsetning i Norge tobakksvarer og urtebaserte røykeprodukter som ikke er innrapportert i henhold til kravene i denne bestemmelsen.

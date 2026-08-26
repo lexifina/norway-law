@@ -1,0 +1,5 @@
+# § 16. Generell advarsel og informasjonstekst på røyketobakk
+For sigaretter og rulletobakk i kubeformede pakninger skal den generelle advarselen stå på den nederste delen av pakningens sideareal og informasjonsteksten skal stå på pakningens andre sideareal. Advarselen skal være minst 20 mm bred.
+For pakninger i form av klappeske med hengslet lokk hvor sidearealene deles i to når pakningen åpnes, skal den generelle advarselen og informasjonsteksten i sin helhet stå på den største delen av den oppdelte flaten. Den generelle advarselen skal også stå på innsiden av det øverste arealet som er synlig når pakningen er åpen. Sideflaten på denne type pakning skal være minst 16 mm høy.
+For rulletobakk i pung skal den generelle advarselen og informasjonsteksten stå på de overflatene som sikrer full synlighet. For sylinderformede pakninger skal den generelle advarselen stå på yttersiden av lokkets areal og informasjonsteksten på innsiden av lokket.
+Både den generelle advarselen og informasjonsteksten skal dekke 50 prosent av den overflate de er trykket på.

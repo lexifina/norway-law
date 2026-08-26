@@ -1,0 +1,2 @@
+# § 4. Opplysnings- og rapporteringsplikter
+Plikten til å innlevere opplysninger i henhold til denne forskrift, påhviler i første rekke produsenten dersom denne er etablert i EØS-området. Dersom produsenten er etablert utenfor EØS-området, påhviler plikten importøren dersom denne er etablert i EØS-området. Dersom begge er etablert utenfor EØS-området, påhviler plikten produsent og importør i fellesskap.

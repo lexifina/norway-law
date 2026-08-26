@@ -1,0 +1,2 @@
+# § 12. Regulering av innholdet i tobakksvarers komponenter
+Det er forbudt å innføre eller bringe i omsetning i Norge sigaretter, rulletobakk og produkter med oppvarmet tobakk med aromatilsetninger i varens komponenter, slik som filter, papir, emballasje, kapsler eller enhver teknisk funksjon som gjør det mulig å endre varens smak, lukt eller røykintensitet. Filtre, papir og kapsler skal ikke inneholde tobakk eller nikotin.
