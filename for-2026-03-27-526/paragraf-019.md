@@ -1,0 +1,2 @@
+# § 19. Tekniske spesifikasjoner for kombinerte helseadvarsler for røyketobakk
+EØS-avtalens vedlegg II kapittel XXV punkt 3b (Kommisjonens gjennomføringsbeslutning (EU) 2015/1842) om tekniske spesifikasjoner for oppstilling, utforming og form for de kombinerte helseadvarslene for røyketobakksvarer gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

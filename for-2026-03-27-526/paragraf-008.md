@@ -1,0 +1,2 @@
+# § 8. Format for rapportering av opplysninger om tobakksvarer og urtebaserte røykeprodukter
+EØS-avtalens vedlegg II kapittel XXV punkt 3d (Kommisjonens gjennomføringsbeslutning (EU) 2015/2186) om fastsettelse av et format for innsending og offentliggjøring av opplysninger om tobakksvarer gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
