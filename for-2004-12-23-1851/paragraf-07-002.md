@@ -1,0 +1,2 @@
+# § 7-2. (generelle bestemmelser om åpning og disponering av kontoer i Det norske registeret for klimakvoter)
+Den som søker om å åpne eller disponere konto i Det norske registeret for klimakvoter (klimakvoteregisteret), skal i tillegg til å følge de krav som fremgår av registerforordningen kapittel 2, benytte de søknadsskjemaer som registermyndigheten gir anvisning om. Søkeren skal identifisere seg med elektronisk ID, med mindre registermyndigheten har godtatt annen ID.

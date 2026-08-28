@@ -1,0 +1,2 @@
+# 2. Oppfyllelse av kravene ved sertifisert energiledelsessystem
+Anlegg som implementerer et sertifisert energi- eller miljøledelsessystem av et uavhengig organ i henhold til relevante europeiske eller internasjonale standarder, er unntatt kravet om å gjennomføre en egen energirevisjon, forutsatt at det aktuelle ledelsessystemet inkluderer en energirevisjon som inneholder minimumskriteriene gitt i punkt 1 i dette vedlegget.

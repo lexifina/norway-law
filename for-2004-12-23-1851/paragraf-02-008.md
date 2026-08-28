@@ -1,0 +1,2 @@
+# § 2-8. (klimakvotemyndighetens kontroll og saksbehandling av utslippsrapporter)
+Klimakvotemyndigheten skal føre kontroll med utslippsrapporter i tråd med klimakvoteloven § 15. Utslippstallet som innrapporteres i tråd med § 2-7 legges til grunn for oppgjør av kvoteplikten etter klimakvoteloven § 12, jf. § 4 med mindre klimakvotemyndigheten som følge av sin kontroll gjør endringer i utslippstallet i tråd med reglene i forordning (EU) 2018/2066 artikkel 70.

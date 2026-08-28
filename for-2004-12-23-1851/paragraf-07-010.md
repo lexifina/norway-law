@@ -1,0 +1,3 @@
+# § 7-10. (gjennomføring av forordninger om bruk av internasjonale kreditter)
+Forordning (EU) 1123/2013 om fastsettelse av bruksretter for internasjonale kreditter i henhold til klimakvotedirektivet, som inntatt i EØS-avtalen vedlegg XX kap. III nr. 21alh, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning (EU) 550/2011 om fastsettelse av visse begrensninger for bruk av godskrevne internasjonale utslippsenheter fra prosjekter som omfatter industrigasser, som inntatt i EØS-avtalen vedlegg XX kap. III nr. 21ale, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.

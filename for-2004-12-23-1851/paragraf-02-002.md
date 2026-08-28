@@ -1,0 +1,2 @@
+# § 2-2. (forordninger om verifikasjon av data og akkreditering av verifikatør for anlegg, luftfart og tilgjengeliggjøring av brensel for forbruk)
+Forordning (EU) 2018/2067 om verifikasjon av data og akkreditering av verifikatører under direktiv 2003/87/EF, som inntatt i EØS-avtalen vedlegg XX nr. 21apk, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2020/2084 og forordning (EU) 2024/1321.

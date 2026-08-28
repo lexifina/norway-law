@@ -1,0 +1,2 @@
+# § 2-2a. (forordninger om verifikasjon av data og akkreditering av verifikatører for maritim transport)
+Forordning (EU) 2023/2917 om verifikasjonsaktiviteter, akkreditering av verifikatører og godkjenning av overvåkingsplaner av administrerende myndigheter, som inntatt i EØS-avtalen vedlegg XX kap. III nr. 21awa, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.

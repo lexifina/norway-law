@@ -1,0 +1,6 @@
+# § 11A-1. (virkeområde)
+Følgende aktiviteter og klimagasser omfattes av dette kapitlet:
+a) fra 1. januar 2024 til og med 31. desember 2025: utslipp fra skip med bruttotonnasje 5000 eller mer, som transporterer passasjerer eller last for kommersielle formål og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene metan (CH4) og lystgass (N2O)
+b) fra 1. januar 2025 til og med 31. desember 2026: utslipp fra offshoreskip med bruttotonnasje 5000 eller mer og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene karbondioksid (CO2), metan (CH4) og lystgass (N2O)
+c) fra 1. januar 2025: utslipp fra stykkgodsskip som transporterer last for kommersielle formål med bruttotonnasje mellom 400-4999 og offshoreskip med bruttotonnasje mellom 400-4999, og som reiser til, fra eller oppholder seg i anløpshavn i EØS-området, for klimagassene karbondioksid (CO2), metan (CH4) og lystgass (N2O).
+Første ledd gjelder likevel ikke utslipp fra fiskefangst- eller fiskeforedlingsskip, krigsskip, forsvarets logistikk- og støttefartøy, treskip av primitiv konstruksjon, skip som ikke drives frem med mekaniske midler, og statseide skip brukt til ikke-kommersielle formål.
