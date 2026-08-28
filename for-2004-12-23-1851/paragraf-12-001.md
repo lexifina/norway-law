@@ -1,0 +1,2 @@
+# § 12-1. (Innovasjonsfondet)
+Forordning (EU) 2019/856 om tillegg til direktiv 2003/87/EF om driften av et innovasjonsfond, som inntatt i EØS-avtalen vedlegg XX kap. III nr. 21alk, gjelder som forskrift. Forordningen gjelder med endringene som følger av forordning (EU) 2021/1204 og forordning (EU) 2023/2537, og med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.

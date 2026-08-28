@@ -1,0 +1,6 @@
+# § 9-1. (generelle bestemmelser om gebyrene)
+I samsvar med § 9-2 til § 9-7 skal det betales gebyr til statskassen for klimakvotemyndighetens og registermyndighetens saksbehandling og kontroll i forbindelse med utslippsrapportering, kontoer i Det norske registeret for klimakvoter og tildeling av vederlagsfrie klimakvoter. For arbeid med tillatelser etter forurensingsloven § 11 andre ledd betales gebyr etter bestemmelsene i forurensningsforskriften kapittel 39.
+Gebyrene skal samlet sett ikke overstige klimakvotemyndighetens og registermyndighetens kostnader ved saksbehandlingen, eller kontrollen.
+Klimakvotemyndigheten og registermyndigheten vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle, med mindre annet er fastsatt i denne forskriften. Ved fastsettelse av gebyrsats etter § 9-2 til § 9-7, skal forventet ressursbruk knyttet til saksbehandlingen eller kontrolltiltaket legges til grunn.
+Klimakvotemyndigheten og registermyndigheten skal, så langt det er mulig, underrette den gebyrpliktige på forhånd om valg av gebyrsats etter § 9-2 til § 9-7.
+Gebyret forfaller til betaling 30 dager etter at operatøren har mottatt faktura fra klimakvotemyndigheten eller registermyndigheten.

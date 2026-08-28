@@ -1,0 +1,9 @@
+# § 1-5a. (maritim transport. Omfang av kvoteplikten)
+For utslipp fra reiser mellom anløpshavner innad i EØS-området, og utslipp fra skip som oppholder seg i anløpshavn i EØS-området, skal det svares kvoter for 100 prosent av utslippstallet for det foregående rapporteringsåret. For reiser mellom en anløpshavn utenfor EØS-området og en anløpshavn i EØS-området, svares det kvoter for 50 prosent av utslippstallet for det foregående rapporteringsåret.
+Skipsoperatørens ansvar for å svare kvoter etter første ledd økes på følgende måte:
+a) For rapporteringsåret 2024 skal det svares kvoter for 40 prosent av den kvotepliktige andelen av utslippstallet
+b) For rapporteringsåret 2025 skal det svares kvoter for 70 prosent av den kvotepliktige andelen av utslippstallet
+c) Fra og med rapporteringsåret 2026 skal det svares kvoter for 100 prosent av den kvotepliktige andelen av utslippstallet.
+For utslipp fra skip med isklasse IA eller IA Super eller tilsvarende isklasse fastsatt på grunnlag av HELCOM-anbefaling 25/7, kan skipsoperatøren frem til og med rapporteringsåret 2030 velge å svare 5 prosent færre kvoter enn kvoteplikten som følger av første og andre ledd.
+Frem til og med rapporteringsåret 2030 gjelder ikke forpliktelsen til å svare kvoter for reiser mellom en havn i fjerntliggende region i et EØS-land og en havn i samme EØS-land. Dette inkluderer reiser mellom havner innenfor en fjerntliggende region, og reiser mellom havner i fjerntliggende regioner i samme EØS-land, samt et skips aktivitet i havn i forbindelse med slike reiser.
+Beslutning (EU) 2023/2895 om liste over øyer og havner som kvalifiserer til unntak fra kvoteplikten, som inntatt i EØS-avtalen vedlegg XX kapittel III nr. 21alza, gjelder som forskrift. Beslutningen gjelder med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning (EU) 2024/1113 og beslutning (EU) 2024/2924.

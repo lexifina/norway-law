@@ -1,0 +1,2 @@
+# § 1-4a. (luftfart. Midlertidig unntak for forpliktelser for flygninger mellom en lufthavn utenfor EØS-området og en lufthavn i EØS-området)
+Frem til og med 31. desember 2026 gjelder ikke forpliktelsene i EUs klimakvotesystem for flygninger mellom en lufthavn utenfor EØS-området og en lufthavn i EØS-området. Dette unntaket gjelder ikke for flygninger mellom EØS-området og Sveits og mellom EØS-området og Storbritannia.

@@ -1,0 +1,3 @@
+# § 4-10. (fastsettelse av gjennomsnittlige tildelingsdata og justering av tildeling)
+Klimakvotemyndigheten fastsetter for hvert anlegg årlig ett gjennomsnittlig aktivitetsnivå for hver enkelt delinstallasjon basert på aktivitetsnivået de to foregående årene, og det gjennomsnittlige nivået på parametere som benyttes ved beregning av tildeling i henhold til forordning (EU) 2019/1842 artikkel 4.
+Klimakvotemyndigheten vedtar en justering av tildelingen til et anlegg når de gjennomsnittlige tildelingsdataene ved anlegget utløser krav om justering i henhold til forordning (EU) 2019/1842 artikkel 5 og 6.

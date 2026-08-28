@@ -1,0 +1,4 @@
+# § 2-7. (frist for utslippsrapportering)
+Operatører skal i henhold til forordning (EU) 2018/2066 artikkel 68 og forordning (EU) 2015/757 artikkel 11 senest 31. mars året etter at utslippene fant sted levere en verifisert utslippsrapport til klimakvotemyndigheten for kontroll. Skipsoperatører skal i tillegg levere en aggregert utslippsrapport på selskapsnivå senest 31. mars året etter at utslippene fant sted, i henhold til forordning (EU) 2015/757 artikkel 11a.
+Brenselsoperatør skal i henhold til forordning (EU) 2018/2066 artikkel 75p senest 30. april året etter at utslippene fant sted levere en utslippsrapport til klimakvotemyndighetene for kontroll. Ved rapporteringen skal brensel og sektorer identifiseres ved bruk av CN- og CRF-koder angitt i vedlegg 3 i tråd med reglene i forordning (EU) 2018/2066 art. 75t.
+Ved rapportering og verifikasjon skal skjema anvist av klimakvotemyndigheten benyttes.
