@@ -1,0 +1,2 @@
+# § 18. Straff
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, straffes i henhold til havressurslova §§ 60, 61, 62, 64 og 65. På samme måte straffes medvirkning og forsøk. Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 28 og lov 19. juni 2009 nr. 97 om dyrevelferd (dyrevelferdsloven) § 37.
