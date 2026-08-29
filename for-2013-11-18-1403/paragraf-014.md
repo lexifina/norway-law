@@ -1,0 +1,4 @@
+# § 14. Generelle prinsipper for CE-merking
+(1) Leketøy som gjøres tilgjengelig på markedet, skal være påført CE-merking. CE-merkingen skal påføres før leketøyet bringes i omsetning. Det forutsettes at leketøy påført CE-merking er i samsvar med denne forskriften.
+(2) CE-merkingen skal være underlagt de generelle prinsippene i artikkel 30 i forordning (EF) nr. 765/2008 om kravene til akkreditering og markedsovervåkning i forbindelse med markedsføring av produkter og om opphevelse av forordning (EØF) nr. 339/93, jf. vedlegg VI til denne forskriften.
+(3) Leketøy som ikke er CE-merket eller som på annen måte ikke er i samsvar med kravene i denne forskriften, kan vises fram og brukes på messer og utstillinger, forutsatt at det er tydelig angitt at leketøyet ikke er i samsvar med denne forskriften, og at det ikke vil bli gjort tilgjengelig på markedet før det er brakt i samsvar.

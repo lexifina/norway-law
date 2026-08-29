@@ -1,0 +1,3 @@
+# § 20. Tilsyn
+(1) Direktoratet for samfunnssikkerhet og beredskap, eller den Direktoratet for samfunnssikkerhet og beredskap bemyndiger, fører tilsyn med at de deler av forskriften som omhandler fysiske og mekaniske egenskaper, brann- og eksplosjonsegenskaper og elektriske og radioaktive egenskaper ved leketøy følges. Det samme gjelder for emballasje og relevant merking.
+(2) Miljødirektoratet eller den Miljødirektoratet bemyndiger, fører tilsyn med at de deler av forskriften som omhandler kjemiske, hygieniske, støyende og biologiske egenskaper ved leketøy følges. Det samme gjelder for emballasje og relevant merking.

@@ -1,0 +1,2 @@
+# § 8. Tilfeller der produsentens forpliktelser gjelder for importøren og distributøren
+En importør eller distributør skal i denne forskriften anses som produsent og være underlagt produsentens forpliktelser i henhold til § 4 når vedkommende importør eller distributør bringer leketøy i omsetning under eget navn eller varemerke eller endrer leketøy som allerede er brakt i omsetning på en slik måte at det kan påvirke leketøyets samsvar med gjeldende krav.

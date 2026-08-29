@@ -1,0 +1,2 @@
+# § 25. Overgangsbestemmelse
+Leketøy som ble brakt i omsetning før 1. desember 2013 og som er i samsvar med kravene i forskrift 4. januar 1996 nr. 7 om sikkerhet ved leketøy kan lovlig gjøres tilgjengelig på markedet. Leketøy som ikke overholder kravene i vedlegg II del III kan likevel bare gjøres tilgjengelig på markedet dersom leketøyet ble brakt i omsetning før 20. juli 2013 og er i samsvar med alle krav i forskrift 4. januar 1996 nr. 7 om sikkerhet ved leketøy.
