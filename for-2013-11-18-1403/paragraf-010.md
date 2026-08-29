@@ -1,0 +1,6 @@
+# § 10. Grunnleggende sikkerhetskrav
+(1) Det er forbudt å bringe i omsetning leketøy som ikke er i samsvar med de grunnleggende sikkerhetskravene, som består av de alminnelige sikkerhetskravene i tredje til femte ledd og de særlige sikkerhetskravene i vedlegg II. Forbudet gjelder også dersom det ikke på begrunnet anmodning kan fremlegges teknisk dokumentasjon som nevnt i § 19.
+(2) Leketøy som bringes i omsetning skal være i samsvar med de grunnleggende sikkerhetskravene i hele leketøyets forventede og normale brukstid.
+(3) Leketøy, herunder de kjemikalier det inneholder, skal ikke sette brukernes eller andre personers sikkerhet eller helse i fare når det brukes for det tiltenkte formål eller på en måte som kan forutses, idet det tas hensyn til barns atferd.
+(4) Det skal tas hensyn til brukernes og eventuelt deres foresattes evne til å håndtere leketøyet, særlig når det gjelder leketøy beregnet på å brukes av barn under 36 måneder eller av andre nærmere angitte aldersgrupper.
+(5) Etiketter som er påført i samsvar med § 11 fjerde ledd og bruksanvisninger som ledsager leketøy, skal gjøre brukerne eller deres foresatte oppmerksom på de farene og risiko for skade som er forbundet med bruken av leketøyet, samt hvordan slike farer og risiko kan unngås.
