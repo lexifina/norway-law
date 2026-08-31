@@ -1,0 +1,5 @@
+# § 13. Unntak fra krav om rattmerket utstyr ved utskifting av utstyr i havn utenfor EØS-området
+I særlige tilfeller når utstyr må skiftes ut i en havn utenfor EØS-området, og det vil ta urimelig lang tid eller føre til urimelig høye kostnader å få tak i rattmerket utstyr, kan annet utstyr plasseres om bord.
+For slikt utstyr skal det medfølge dokumentasjon utstedt av eller på vegne av en stat som har tiltrådt den eller de relevante internasjonale konvensjonene. Dokumentasjonen skal attestere samsvar med kravene i de relevante internasjonale konvensjonene.
+Rederiet skal straks informere Sjøfartsdirektoratet om hvilket utstyr det gjelder, samt gi en nærmere beskrivelse av utstyret. Rederiet skal videre gi en utførlig begrunnelse for hvorfor utstyret plasseres om bord.
+Rederiet skal så snart som mulig gi Sjøfartsdirektoratet tilstrekkelig dokumentasjon, herunder dokumentasjon på testing, slik at Sjøfarsdirektoratet kan vurdere om utstyret er i samsvar med de relevante internasjonale konvensjonene.

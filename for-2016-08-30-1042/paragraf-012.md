@@ -1,0 +1,3 @@
+# § 12. Unntak fra krav om rattmerket utstyr for prøving og vurdering av utstyr
+Sjøfartsdirektoratet kan tillate plassert om bord skipsutstyr som ikke er rattmerket, og som ikke dekkes av § 11, når hensikten er prøving og vurdering av utstyret. Slikt utstyr skal ikke erstatte, eller brukes slik at det kan komme i konflikt med, påkrevd utstyr i samsvar med § 2.
+Sjøfartsdirektoratet skal utstede et sertifikat som bevis på at utstyret kan plasseres om bord. Begrensninger eller andre vilkår knyttet til bruken av utstyret, skal framgå av sertifikatet. Sertifikatet skal oppbevares om bord, være tidsavgrenset og følge utstyret.
