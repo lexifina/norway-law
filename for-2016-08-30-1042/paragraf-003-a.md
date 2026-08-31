@@ -1,0 +1,2 @@
+# § 3a. Elektronisk merking av skipsutstyr
+EØS-avtalen vedlegg II kapittel XXXII nr. 4 (forordning (EU) 2018/414) om tekniske kriterier for elektronisk merking av skipsutstyr og EØS-avtalen vedlegg II kapittel XXXII nr. 5 (forordning (EU) 2018/608) om utfyllende bestemmelser til skipsutstyrsdirektivet om identifikasjon av visse typer skipsutstyr som kan merkes elektronisk, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 og avtalen for øvrig.

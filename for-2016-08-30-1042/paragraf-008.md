@@ -1,0 +1,4 @@
+# § 8. Markedstilsyn
+Sjøfartsdirektoratet fører tilsyn med at bestemmelsene i denne forskriften følges.
+Sjøfartsdirektoratet skal ha tilgang til produsentens lokaler, og Sjøfartsdirektoratet kan pålegge produsenten å gjøre produktprøver tilgjengelige for kontroll. Når Sjøfartsdirektoratet krever det, skal produsenter eller deres representanter, importører og distributører (markedsdeltakere) utlevere all nødvendig informasjon og dokumentasjon på norsk eller engelsk for å vise at et produkt er i samsvar med § 2.
+Markedsdeltakere skal oppbevare informasjon om andre markedsdeltakere som de har levert produkter til eller fått levert produkter fra. Informasjonen skal oppbevares i minimum 10 år etter at produktene var rattmerket, og aldri i en kortere periode enn produktenes forventede levealder.
