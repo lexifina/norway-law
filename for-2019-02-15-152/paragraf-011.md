@@ -1,0 +1,2 @@
+# § 11. Tilgang til brukerens sikkerhetsinformasjon
+Betalingstjenestetilbydere skal sikre at brukerens personlige sikkerhetsinformasjon til elektronisk identifikasjon og signatur ikke er tilgjengelig for andre enn brukeren og utstederen, når identifikasjonen eller signaturen gir tilgang til elektroniske tjenester fra offentlig sektor og som omfattes av regler som svarer til Europaparlaments- og Rådsforordning (EU) nr. 910/2014.

@@ -1,0 +1,6 @@
+# § 9. Kortbaserte betalingstransaksjoner
+Kontotilbyder skal ved henvendelse fra en betalingstjenestetilbyder som har utstedt et kortbasert betalingsinstrument umiddelbart angi om transaksjonen knyttet til instrumentet har dekning i betalingskontoen, når denne er tilgjengelig på internett. Dette gjelder bare dersom betalingstjenestebrukeren har gitt sitt samtykke til at kontotilbyderen på anmodning fra en annen betalingstjenestetilbyder, som utsteder kortbaserte betalingsinstrumenter, kan bekrefte at det er dekning på betalingskontoen for et bestemt beløp som den kortbaserte betalingstransaksjonen gjelder.
+Kontotilbyders svar på om transaksjonen har dekning i kontoen skal være et bekreftende «ja» eller avkreftende «nei». Forespørselen skal ikke gi grunnlag for å reservere midler på betalerens betalingskonto.
+På forespørsel fra betalingstjenestebrukeren skal kontotilbyderen alltid gi betalingstjenestebrukeren opplysninger om identiteten til betalingstjenestetilbyder som har anmodet om slik dekningsbekreftelse og svaret som ble gitt av kontotilbyderen.
+Betalingstjenestetilbyderen skal legitimere seg overfor kontotilbyder før hver anmodning om bekreftelse, og kommunisere på sikker måte med kontotilbyder.
+Bestemmelsene i denne paragrafen gjelder ikke kortbaserte betalingsinstrumenter som er e-penger.

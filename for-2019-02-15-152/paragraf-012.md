@@ -1,0 +1,2 @@
+# § 12. Tekniske reguleringsstandarder for sterk kundeautentisering og kommunikasjonsstandarder
+EØS-avtalen vedlegg IX nr. 16eb (delegert kommisjonsforordning (EU) 2018/389 om tekniske reguleringsstandarder for sterk kundeautentisering og felles og sikre åpne kommunikasjonsstandarder, som endret ved delegert kommisjonsforordning (EU) 2022/2360) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
