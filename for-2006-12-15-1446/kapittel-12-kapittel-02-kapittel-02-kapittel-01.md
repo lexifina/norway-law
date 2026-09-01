@@ -1,0 +1,2 @@
+# 2.2.1 Overvåkningsnettverk for grunnvannsstand
+Et overvåkingsnettverk for grunnvann skal opprettes i samsvar med kravene i § 18. Overvåkningsnettverket skal utformes slik at det gir pålitelig vurdering av alle grunnvannsforekomsters eller grupper av grunnvannsforekomsters kvantitative tilstand, herunder vurdering av tilgjengelige grunnvannsressurser. Det skal utarbeides et kart som viser grunnvannsovervåkningsnettverket i vannforvaltningsplanen for vannregionen.

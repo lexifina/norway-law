@@ -1,0 +1,4 @@
+# 2.4.1. Overvåkingsnettverk for grunnvann
+Et overvåkingsnettverk for grunnvann skal opprettes i samsvar med kravene i § 18. Overvåkningsnettverket skal utformes slik at det gir en sammenhengende og omfattende oversikt over grunnvannets kjemiske tilstand innen hver vannregion, og slik at vesentlige og vedvarende økende trender når det gjelder forurensninger blir oppdaget.
+På grunnlag av karakteriseringen og vurderinger av miljøvirkninger utført i samsvar med § 15 og vedlegg II skal det for hvert tidsrom som en forvaltningsplan for vannregionen gjelder for, utarbeides et basisovervåkingsprogram. Resultatene av dette programmet skal brukes til å utarbeide et tiltaksorientert overvåkingsprogram som anvendes for resten av planens periode.
+Det skal angis prognoser over påliteligheten og presisjonen til resultatene av overvåkningsprogrammene i planen.
