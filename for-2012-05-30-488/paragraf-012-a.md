@@ -1,0 +1,3 @@
+# § 12a. Overvåking, rapportering og verifikasjon av klimagassutslipp fra skip
+For lasteskip og passasjerskip med bruttotonnasje 5000 eller mer som fører last eller passasjerer til eller fra havn i EØS-området, gjelder krav til overvåkning, rapportering og verifikasjon av klimagassutslipp i forordning (EU) 2015/757, jf. forskrift 23. desember 2004 nr. 1851 om kvoteplikt og handel med kvoter for utslipp av klimagasser § 2-1a tilsvarende.
+Fra 1. januar 2025 omfatter bestemmelsen stykkgodsskip med bruttotonnasje 400 eller mer som fører last til eller fra havn i EØS-området, og offshorefartøy med bruttotonnasje 400 eller mer som skifter besetning i en havn i EØS-området.
