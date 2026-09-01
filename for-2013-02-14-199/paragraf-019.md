@@ -1,0 +1,12 @@
+# § 19. Medbringing av legemidler med innhold av narkotika til eget personlig, medisinsk bruk for reisende
+Legemidler med innhold av narkotika kan, til eget personlig, medisinsk bruk, medbringes ved inn- eller utreise når
+a) legemidlene er rekvirert av lege eller tannlege
+b) den reisende kan dokumentere, for eksempel ved hjelp av pakningens etikett, resept eller legeerklæring, at legemidlene er rekvirert til eget personlig, medisinsk bruk
+c) mengden medbrakt legemiddel ikke overstiger mengdebegrensningen som fremkommer av annet, tredje, fjerde, femte eller sjette ledd.
+For reisende med folkeregistrert adresse i Norge gjelder ved innreise til Norge en mengdebegrensning tilsvarende én ukes forbruk etter angitt dosering når legemidlet er anskaffet i utlandet. Den reisende kan likevel medbringe slike legemidler tilsvarende inntil én måneds forbruk etter angitt dosering dersom den reisendes medisinske behov kan dokumenteres ved erklæring fra lege i Norge. Erklæringen må angis på skjema fastsatt av Direktoratet for medisinske produkter, og er gyldig i inntil ett år fra utstedelsesdato med mindre legen har satt en kortere gyldighetsperiode.
+Reisende med folkeregistrert adresse i Norge kan ved innreise til Norge medbringe legemidler med innhold av narkotika inntil én måneds forbruk dersom legemidlene er anskaffet i Norge. Den reisende må kunne dokumentere at legemidlene er anskaffet i Norge.
+For reisende til Norge som ikke har folkeregistrert adresse i Norge, gjelder en mengdebegrensning tilsvarende én måneds forbruk etter angitt dosering. Departementet kan gjøre unntak fra mengdebegrensningen dersom det er medisinsk behov for å medbringe legemidler med innhold av narkotika for mer enn én måneds forbruk.
+Ved utreise fra Norge gjelder en mengdebegrensning tilsvarende én måneds forbruk etter angitt dosering.
+Ved utreise fra Norge til land utenfor Schengen-området, kan reisende medbringe legemidler med innhold av narkotika for mer enn én måneds forbruk dersom den reisende kan dokumentere, ved legeerklæring fra lege i Norge, sitt personlige medisinske behov for legemidlene.
+Ved reiser innen Schengen-området kan reisende bosatt i Schengen-området framlegge original Schengen-attest i stedet for dokumentasjon nevnt i første ledd. Attesten skal være utstedt av kompetent myndighet i landet den reisende er bosatt. For bosatte i Norge utstedes attesten av apotek.
+Tollmyndighetene kan kreve at den reisende legger fram dokumentasjon etter denne bestemmelsen. Dokumentasjonen må fremlegges på innreisetidspunktet.
