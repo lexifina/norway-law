@@ -1,0 +1,6 @@
+# § 20A-5. Utbetaling fra garantiordningen
+Garantiordningens styre kan basere sitt vedtak om utbetaling på at forsikringskravet er godkjent av administrasjonsstyret. Dersom et forsikringskrav bestrides av administrasjonsstyret, kan den som fremsetter kravet henvises til å reise sak mot forsikringsselskapet eller boet.
+Garantiordningens styre kan avtale at administrasjonsstyret skal foreta utbetalinger på garantiordningens vegne. Innbetalinger fra garantiordningen til administrasjonsboet for videreformidling til dekningsberettigede inngår ikke i administrasjonsboets formuesmasse.
+Garantiordningen dekker ikke rentekrav. Dette gjelder likevel ikke rentekrav knyttet til forsikring som gjelder bolig og tvungen ansvarsforsikring.
+Styret kan fastsette terminer for utbetaling. Ved utbetaling fra garantiordningen kan styret beslutte først å dekke inntil 5 millioner kroner, inkludert renter, av hvert krav for hver sikret for hvert skadetilfelle. Dersom styret finner det nødvendig kan det beslutte å bare dekke deler av et krav (avkortning). I vurderingen av om krav skal avkortes og i hvilket omfang tas det hensyn til den dekningsberettigede, type forsikring og forholdene for øvrig.
+Vedtak om utbetaling fra garantiordningen kan påklages til Finansdepartementet.

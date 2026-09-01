@@ -1,0 +1,8 @@
+# § 21-1. Offentlig administrasjon av filial av bank med hovedsete i fremmed stat
+Når en bank med hovedsete i fremmed stat og med filial i Norge ikke dekker sine forpliktelser i Norge etter hvert som de forfaller, samtidig som banken dekker sine forpliktelser etter hvert som de forfaller i hjemlandet, eller de tiltak som er iverksatt fra hjemstatens myndigheter overfor banken med sikte på å sikre fortsatt drift ikke har effekt for filialen i Norge, kan Finansdepartementet treffe vedtak om at filialen settes under offentlig administrasjon. Vedtak om offentlig administrasjon omfatter alle bankens eiendeler og forpliktelser i Norge.
+Vedtak om offentlig administrasjon av filial av bank med hovedsete i annen EØS-stat kan treffes når Finansdepartementet anser det som et nødvendig og forholdsmessig tiltak for å sikre at sentrale hensyn etter EØS-regler som svarer til direktiv 2001/24/EF blir overholdt.
+Bestemmelsene i finansforetaksloven § 21-7, § 21-11 første ledd tredje og fjerde punktum, tredje og fjerde ledd og § 21-12 til § 21-20 gjelder tilsvarende for offentlig administrasjon av filial i Norge av bank med hovedsete i fremmed stat.
+I vedtaket om offentlig administrasjon kan det gis nærmere bestemmelser om lovens anvendelse på filialen.
+Administrasjonsstyret kan inngå avtale med hjemstatens myndigheter eller med bankens representanter i hjemstaten om gjennomføringen av administrasjonsbehandlingen av filialen i Norge med sikte på å ivareta de sentrale hensyn og bestemmelser i direktiv 2001/24/EF. Avtalen skal godkjennes av Finanstilsynet.
+Konkursloven § 87 om sikkerhetsstillelse for bostyrer gjelder tilsvarende for administrasjonsstyrets medlemmer.
+Finanstilsynet kan gi nærmere regler om gjennomføringen av administrasjonen.

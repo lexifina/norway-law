@@ -1,0 +1,3 @@
+# § 5-9. Gjennomføring av forordning
+EØS-avtalen vedlegg IX forordning (EU) 2020/1423 om supplerende regler til europaparlamentets- og rådsdirektiv (EU) 2015/2366 hva gjelder tekniske reguleringsstandarder som presiserer kriteriene for å utpeke sentrale kontaktpunkter på området betalingstjenester og om funksjonene til disse sentrale kontaktpunktene gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+Første ledd er ikke til hinder for at Finanstilsynet kan kreve at det utpekes sentralt kontaktpunkt etter hvitvaskingsforskriften § 7-2.

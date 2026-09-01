@@ -1,0 +1,2 @@
+# § 21a-9. Loven på stedet
+Håndheving av eiendomsretten til instrumenter eller andre rettigheter til slike instrumenter hvis eksistens eller omsettelighet forutsetter innføring i et register, på en konto eller i en verdipapirsentral som administreres eller befinner seg i en medlemsstat, skal reguleres av lovgivningen i den medlemsstat der dette registeret, kontoen eller verdipapirsentralen administreres eller befinner seg.

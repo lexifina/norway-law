@@ -1,0 +1,4 @@
+# § 8-1. Sammensetning av generalforsamling mv.
+I sparebank som ikke har utstedt eierandelskapital skal minst halvparten av medlemmene og varamedlemmene i generalforsamlingen velges av og blant innskyterne i banken. I sparebanker som har utstedt eierandelskapital skal minst en firedel av medlemmene og varamedlemmene i generalforsamlingen velges av og blant innskyterne i banken. Tilsvarende gjelder for sparebankstiftelser.
+Innskytere som har og i de siste seks måneder har hatt et innskudd i banken på minst 2 500 kroner, er valgbare og har stemmerett.
+I sparebanker skal en firedel av medlemmene og varamedlemmene til generalforsamlingen velges av og blant de ansatte i banken. Er antall medlemmer av generalforsamlingen ikke delelig med fire, skal minst en firedel av medlemmene og av varamedlemmene velges av de ansatte. Dette må dog ikke føre til at mer enn en firedel av de ansatte i banken blir medlemmer av generalforsamlingen.

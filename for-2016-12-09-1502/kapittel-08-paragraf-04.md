@@ -1,0 +1,2 @@
+# § 8-4. Unntak fra adgang til å vedtektsfeste at det samlede styret i foretaket skal fungere som foretakets revisjonsutvalg
+Finansforetak som i mer enn 12 måneder har hatt en samlet forvaltningskapital høyere enn 20 milliarder kroner, kan ikke fastsette i vedtektene at det samlede styret i foretaket skal fungere som foretakets revisjonsutvalg, med mindre unntakene i finansforetaksloven § 8-18 annet ledd kommer til anvendelse.

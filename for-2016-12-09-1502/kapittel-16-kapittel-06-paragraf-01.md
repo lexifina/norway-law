@@ -1,0 +1,3 @@
+# § 16-12. Kvalifikasjonskrav for ansatte
+(1) Ansatte i finansforetak som utformer, tilbyr eller bevilger boliglån som definert i lov 16. desember 2022 nr. 91 om låneformidling § 1-2 bokstav a, eller som gir råd om boliglån til forbrukere, skal ha nødvendig kunnskap og kompetanse til å utforme, tilby, bevilge og yte en forsvarlig rådgivning om boliglån. Dersom inngåelse av en avtale om boliglån omfatter en tilleggstjeneste, skal ansatte i tillegg ha kunnskap og kompetanse om tilleggstjenesten.
+(2) Foretaket skal ha interne regler for å sikre at kravene til kunnskap og kompetanse til enhver tid er oppfylt. De interne reglene skal identifisere hvilke ansatte og ledelse som omfattes av kravene.

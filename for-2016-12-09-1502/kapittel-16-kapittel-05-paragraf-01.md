@@ -1,0 +1,3 @@
+# § 16-9. Etterutdanning
+Finanstilsynet kan godkjenne etterutdanning, jf. finansforetaksloven § 16-12, arrangert av bransjeorganisasjon eller utdanningsinstitusjon. Arrangøren skal gi en beskrivelse av hvordan etterutdanningen skal organiseres og gjennomføres, herunder hvordan arrangøren vil sikre en planmessig etterutdanning i emner som er relevante for forsikringsdistribusjon.
+Finanstilsynet kan i særlige tilfeller godkjenne etterutdanning arrangert av forsikringsforetak hvis foretaket kan godtgjøre at det har tilstrekkelige ressurser og kompetanse til å gjennomføre og vedlikeholde etterutdanningen over tid.

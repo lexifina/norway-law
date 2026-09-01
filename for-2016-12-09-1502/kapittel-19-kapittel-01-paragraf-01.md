@@ -1,0 +1,5 @@
+# § 19-1. EØS-filialers medlemskap i garantiordningen
+Før norsk filial av kredittinstitusjon med hovedsete i annen EØS-stat kan bli medlem av innskuddsgarantiordningen, skal Bankenes sikringsfond i samarbeid med hjemstatens sikringsordning avklare hvilke innskudd som er sikret i hjemstatens ordning, og hvilke innskudd som skal være sikret i innskuddsgarantiordningen.
+Bankenes sikringsfond kan avslå søknad om filialmedlemskap, eller sette særlige vilkår for medlemskapet, dersom soliditetssituasjonen hos søker, eller betydelig usikkerhet med hensyn til utviklingen i denne, tilsier det.
+Filialmedlem kan tidligst opptas seks måneder etter at Bankenes sikringsfond har mottatt søknad om slikt medlemskap. Før filialmedlem opptas, skal dette godkjennes av Finanstilsynet.
+Bestemmelsen i tredje ledd gjelder ikke ved omdanning til filial av datterselskap som er medlem i innskuddsgarantiordningen. De berørte tilsynsmyndigheter og sikringsordninger skal varsles uten opphold når det er klart at omdanning vil finne sted. Finanstilsynet kan gi nærmere regler om videreføring av medlemskap i innskuddsgarantiordningen ved slik omdanning.

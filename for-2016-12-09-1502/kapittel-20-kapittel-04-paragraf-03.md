@@ -1,0 +1,11 @@
+# § 20-12. Eierbeføyelser mv. ved overføring av aksjer eller andre eierinstrumenter før eierprøving er fullført
+Dersom eierprøving etter finansforetaksloven §§ 6-1 til 6-5 ikke er fullført før den datoen aksjer eller andre eierinstrumenter skal overføres i forbindelse med overdragelse av virksomhet etter finansforetaksloven § 20-21, gjelder følgende:
+a) overføringen av aksjer eller andre eierinstrumenter til erververen skal ha umiddelbar rettsvirkning,
+b) i vurderingsperioden og en eventuell avhendingsperiode etter bokstav f skal erververens stemmerett knyttet til slike aksjer eller andre eierinstrumenter suspenderes og i sin helhet tildeles Finanstilsynet, jf. finansforetaksloven § 20-14 femte ledd, men uten at Finanstilsynet er forpliktet til å utøve stemmerettene eller på noen måte skal stå til ansvar for å utøve eller avstå fra å utøve stemmerettene,
+c) i vurderingsperioden og en eventuell avhendingsperiode etter bokstav f får sanksjoner og andre tiltak for overtredelser av krav til erverv eller avhending av kvalifiserte eierandeler, ikke anvendelse på overføringen av aksjer eller andre eierinstrumenter,
+d) når eierprøvingen er fullført, skal erververen umiddelbart få skriftlig melding om hvorvidt overføring av aksjer eller andre eierinstrumenter til erververen er godkjent eller ikke,
+e) godkjenner Finanstilsynet overføringen av aksjer eller andre eierinstrumenter til erververen, skal stemmerettene knyttet til slike aksjer eller andre eierinstrumenter anses som tildelt erververen umiddelbart etter at erververen har mottatt melding om en slik godkjenning,
+f) dersom overføringen av aksjer eller andre eierinstrumenter til erververen ikke godkjennes, gjelder følgende:
+i) stemmeretter knyttet til slike aksjer eller andre eierinstrumenter, jf. bokstav b, skal fortsatt ha full virkning,
+ii. Finanstilsynet kan kreve at erververen avhender slike aksjer eller andre eierinstrumenter i løpet av en avhendingsperiode som fastsettes av Finanstilsynet hvor gjeldende markedsvilkår er hensyntatt, og
+iii. dersom erververen ikke fullfører avhendingen i løpet av avhendingsperioden, kan Finanstilsynet ilegge kjøperen sanksjoner og treffe andre tiltak for overtredelser av kravene til erverv eller avhending av kvalifiserte eierandeler i tråd med finansforetaksloven kapittel 22.

@@ -1,0 +1,2 @@
+# § 6-2. Erverver fra annen stat i Det europeisk økonomiske samarbeidsområde
+Dersom erververen er en bank, et kredittforetak, forsikringsforetak, verdipapirforetak, forvaltningsselskap for verdipapirfond eller forvalter av alternative investeringsfond med tillatelse i en annen EØS-stat, skal Finanstilsynet konsultere myndighetene i foretakets hjemstat. Det samme gjelder dersom erververen er morselskap for slikt foretak med tillatelse i en annen EØS-stat eller en fysisk eller juridisk person som kontrollerer et foretak med tillatelse i en annen EØS-stat.

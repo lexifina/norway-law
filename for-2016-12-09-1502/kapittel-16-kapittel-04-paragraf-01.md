@@ -1,0 +1,4 @@
+# § 16-7. Løsninger for å møte økt etterspørsel etter kontanter
+Banker skal ha løsninger for å kunne oppfylle kravet i finansforetaksloven § 16-4 første ledd også ved økt etterspørsel etter kontanter som følge av svikt i tilgangen til de elektroniske betalingssystemene. Løsningene skal angis og dokumenteres i en særskilt plan.
+Løsningene skal tilpasses dokumenterte vurderinger av risiko for økt etterspørsel etter kontanter ved svikt i tilgangen til de elektroniske betalingssystemene. Det kan tas hensyn til risikoreduserende virkninger av elektroniske beredskapsløsninger. Løsningene skal testes regelmessig, og resultatet av testene skal dokumenteres.
+Planen med løsningene skal oppdateres minst annethvert år, eller oftere hvis Finanstilsynet pålegger det, og når det har skjedd endringer som gir grunnlag for endringer i planen.

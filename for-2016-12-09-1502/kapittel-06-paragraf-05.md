@@ -1,0 +1,2 @@
+# § 6-5. Meldeplikt for foretak som eier kvalifiserte eierandeler i finansforetak
+Foretak som eier kvalifiserte eierandeler i et finansforetak, skal snarest gi Finanstilsynet melding om endringer i foretakets styre eller daglig ledelse og om nye eiere av kvalifiserte eierandeler i foretaket som foretaket kjenner. Endringen skal inneholde de aktuelle personenes fulle navn, adresse og organisasjons- eller fødselsnummer.

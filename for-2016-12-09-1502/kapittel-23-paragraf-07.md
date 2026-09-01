@@ -1,0 +1,4 @@
+# § 21a-7. Eiendomsforbehold
+Reorganiseringstiltak eller avviklingstiltak overfor en kredittinstitusjon eller et forsikringsforetak som kjøper en eiendel, berører ikke selgers rettigheter når de bygger på eiendomsforbehold når eiendelen på tidspunktet for vedtaket befinner seg på en annen medlemsstats territorium.
+Reorganiserings- eller avviklingstiltak overfor en kredittinstitusjon eller et forsikringsforetak som selger en eiendel skal, etter at denne er levert, ikke danne grunnlag for heving eller annullering av salget, og skal ikke være til hinder for at kjøperen overtar eiendomsretten til den solgte eiendelen når eiendelen på tidspunktet for vedtaket befinner seg på en annen medlemsstats territorium.
+Første og annet ledd er ikke til hinder for søksmål om ugyldighet, omstøtelse eller manglende tvangskraft som er til skade for kreditorfellesskapet.

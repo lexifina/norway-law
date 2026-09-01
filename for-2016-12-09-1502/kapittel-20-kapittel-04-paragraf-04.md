@@ -1,0 +1,2 @@
+# § 20-13. Beregning av terskelverdier for bruk av statlige støttetiltak og krisetiltaksfondet
+Hvis det vedtas bruk av krisetiltak overfor en krisehåndteringsenhet, eller i særlige tilfeller som et unntak fra krisetiltaksplanen overfor et foretak som ikke er en krisehåndteringsenhet, skal beløpet som reduseres, nedskrives eller konverteres etter finansforetaksloven § 20-14 og §§ 20-24 til 20-26 i foretaket, inngå i beregningen av om terskelverdiene i finansforetaksloven §§ 20-28 første ledd bokstav b eller 20-52 fjerde ledd er oppfylt for det aktuelle foretaket.

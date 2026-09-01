@@ -1,0 +1,3 @@
+# § 15-12. Godtgjørelse til finansmeglerforetak og finansagentforetak
+(1) Et finansforetaks godtgjørelse til finansmeglerforetak og finansagentforetak skal være i tråd med reglene om god forretningsskikk i finansforetaksloven § 13-5 og lov 16. desember 2022 nr. 91 om låneformidling § 7-1.
+(2) Finansforetak må ikke godtgjøre finansmeglerforetak og finansagentforetak eller evaluere deres prestasjoner på en slik måte at evnen til å påse at kundens interesser ivaretas på best måte, svekkes. Finansforetaket skal herunder ikke benytte avlønningsordninger, salgsmål eller andre insentiver som kan påvirke foretakene til å anbefale et bestemt produkt fremfor et annet produkt som er bedre egnet for kunden.
