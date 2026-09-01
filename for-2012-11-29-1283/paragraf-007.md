@@ -1,0 +1,2 @@
+# § 7. Omrekning av inntekt etter talet på personar i husstanden
+Det blir fastset ei omrekna inntekt som blir nytta ved utrekninga av eigendel, jf. § 4. Inntekta til husstanden, medrekna tillegg for formue, blir dividert med ei vekt etter kor stor husstanden er og korleis han er sett saman. Vekta til husstanden kjem fram ved å summere dei einskilde vektene til personane i husstanden. Første person i husstanden har vekta 1,0 og kvar einskild av dei andre personane har ei vekt på 0,13 dersom dei har fylt 18 år, og på 0,15 dersom dei er under 18 år.
