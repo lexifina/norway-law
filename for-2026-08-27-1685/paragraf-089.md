@@ -1,0 +1,2 @@
+# § 89. Gyldigheten av tidligere autorisasjoner
+Autorisasjoner gitt etter forskrift 12. august 1986 nr. 4639 for oppnåelse og opprettholdelse av autorisasjon for utøvelse av lokal flygeinformasjonstjeneste (AFIS) og forskrift 30. juni 1994 nr. 707 for oppnåelse og opprettholdelse av autorisasjon for utøvelse av lokal flygeinformasjonstjeneste (HFIS) ved innretning på norsk kontinentalsokkel, anses fortsatt gyldige uten at særskilte prøver for autorisasjonen må avholdes.

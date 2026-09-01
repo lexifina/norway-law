@@ -1,0 +1,2 @@
+# § 13. Frist for å påbegynne praksistrening (OJT) for flygeinformasjonstjeneste (AFIS/FIS)
+En kandidat som skal påbegynne praksistrening for flygeinformasjonstjeneste, må påbegynne praksistreningen senest 12 måneder etter gjennomført og bestått institusjonell trening. Dersom praksistreningen ikke påbegynnes innen denne fristen, må alle institusjonelle prøver gjennomføres og bestås på ny før praksistrening kan påbegynnes.

@@ -1,0 +1,3 @@
+# § 55. Krav til studiebesøk
+Enhetens treningsprogram skal inkludere studiebesøk ved den lufttrafikktjenesteenheten som har ansvaret for det overliggende luftrommet, dersom kandidaten ikke har gjennomført studiebesøk ved en enhet med samme type tjeneste tidligere i opplæringen. I tillegg skal treningsprogrammet omfatte studiebesøk ved den aktuelle landingsplassen når treningen gjelder fjernstyrte tårnenheter, dersom kandidaten ikke har gjennomført studiebesøk ved en landingsplass med samme type tjeneste tidligere i opplæringen.
+Studiebesøket skal sikre at kandidaten oppnår nødvendig lokalkunnskap og innsikt i operative forhold ved lufttrafikktjenesteenheten.

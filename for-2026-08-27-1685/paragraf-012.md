@@ -1,0 +1,2 @@
+# § 12. Elevbevis for flygeinformasjonstjeneste (AFIS/FIS)
+En kandidat som skal påbegynne praksistrening for flygeinformasjonstjeneste, skal inneha elevbevis utstedt av treningsorganisasjonen før praksistrening påbegynnes. Med elevbevis menes et dokument utstedt av en treningsorganisasjon som bekrefter at kandidaten tilfredsstiller kravene for å kunne utføre praksistrening (OJT) under overvåking av en praksisinstruktør (OJTI).

@@ -1,0 +1,7 @@
+# § 81. Tilbakekall av Luftfartstilsynets autorisasjon
+Luftfartstilsynet kan tilbakekalle en autorisasjon for en bestemt tid eller inntil videre dersom innehaveren i eller utenfor tjeneste gjør seg skyldig i lovbrudd av betydning for autorisasjonen eller om vedkommende ellers ikke fyller vilkårene for å gjøre den tjeneste autorisasjonen gjelder.
+Autorisasjonen skal tilbakekalles for minst ett år dersom innehaveren blir ilagt straff for å ha gjort eller forsøkt å gjøre tjeneste påvirket av alkohol eller annet berusende eller bedøvende middel. Det samme gjelder ved overtredelse av forhold som beskrevet i luftfartsloven § 6-12 tredje ledd. Er innehaver tidligere i de siste fem år ilagt straff for en av de nevnte overtredelser skal autorisasjonen tilbakekalles for alltid.
+Dersom Luftfartstilsynet finner grunn til å anta at det foreligger et forhold som kan begrunne tilbakekalling kan Luftfartstilsynet straks sette autorisasjonen ut av kraft inntil spørsmålet om tilbakekalling er avgjort.
+Når en autorisasjon er tilbakekalt eller midlertidig satt ut av kraft skal innehaver av autorisasjonsbeviset straks innlevere beviset til Luftfartstilsynet.
+Luftfartstilsynet skal underrette tjenesteyter om vedtak som er fattet etter denne bestemmelsen.
+Blir et vedtak om tilbakekalling av autorisasjon, eller om å sette autorisasjonen ut av kraft, påklaget, kan klagemyndigheten beslutte at vedtaket skal gis oppsettende virkning.
