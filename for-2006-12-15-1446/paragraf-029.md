@@ -1,0 +1,7 @@
+# § 29. Vedtak og godkjenning av oppdaterte vannforvaltningsplaner
+Oppdatert vannforvaltningsplan skal vedtas som regional plan etter plan- og bygningsloven § 8-4.
+Vannregionmyndigheten oversender utkastet til oppdatert vannforvaltningsplan for vannregionen til berørte fylkeskommuner. Planen vedtas i fylkestingene i de berørte områder innen påfølgende planperiode begynner.
+Vedtatt oppdatert vannforvaltningsplan og tiltaksprogram oversendes til Miljødirektoratet. Miljødirektoratet skal i samråd med NVE og andre berørte direktorater sikre at nasjonale føringer innenfor det enkelte direktorats ansvarsområde er fulgt opp, og at forskriftens krav er fulgt.
+Miljødirektoratet skal sende sin tilråding til oppdatert plan til Klima- og miljødepartementet. Eventuell uenighet mellom direktoratene skal gjengis i tilrådingen, og vil bli avklart i forbindelse med departementets godkjenning.
+Oppdatert vannforvaltningsplan skal legges fram for Klima- og miljødepartementet som godkjenner planen i samråd med Energidepartementet, jf. plan- og bygningsloven § 8-1 andre ledd. I forbindelse med godkjenningen kan Klima- og miljødepartementet fastsette slike endringer i planen som finnes påkrevd ut fra hensynet til rikspolitiske interesser.
+Godkjente vannforvaltningsplaner skal legges til grunn for regionale organers virksomhet og for kommunal og statlig planlegging og virksomhet i vannregionen, jf. plan- og bygningslovens § 8-2.

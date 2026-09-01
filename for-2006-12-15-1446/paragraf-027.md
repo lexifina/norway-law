@@ -1,0 +1,2 @@
+# § 27. Offentlig deltakelse og informasjon
+Vannregionmyndigheten skal i samarbeid med vannregionutvalget tilrettelegge for at alle interesserte gis anledning til å delta aktivt i gjennomføringen av denne forskriften og særlig ved oppdatering av vannforvaltningsplaner med tilhørende tiltaksprogrammer. På forespørsel skal det i samsvar med miljøinformasjonsloven gis tilgang til bakgrunnsdokumenter og opplysninger som er brukt ved utarbeidelsen av vannforvaltningsplaner.

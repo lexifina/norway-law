@@ -1,0 +1,4 @@
+# 2.3.2 Definisjon av god kjemisk tilstand for grunnvann
+Elementer | God tilstand
+Generelt | Den kjemiske sammensetningen til grunnvannsforekomsten er slik at konsentrasjonene av forurensende stoffer – som angitt nedenfor ikke viser påvirkninger av inntrengning av saltvann eller annet, – ikke overstiger terskelverdier gitt i vedlegg IX, eller kvalitetsstandarder som gjelder i henhold til annet relevant regelverk, – ikke vil medføre at miljømålene ikke nås for tilknyttede overflatevann, eller innebærer annen vesentlig forringelse av slike vannforekomsters økologiske eller kjemiske kvalitet eller vesentlig skade på terrestriske systemer som er direkte avhengige av grunnvannsforekomsten.
+Ledningsevne | Endringer i ledningsevne er ikke tegn på at saltvann eller annet trenger inn i grunnvannsforekomsten.

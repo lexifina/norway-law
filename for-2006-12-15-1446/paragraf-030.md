@@ -1,0 +1,4 @@
+# § 30. Internasjonale vannregioner innenfor EØS-området
+Når et nedbørfelt strekker seg inn på en annen EØS-stats territorium, skal den aktuelle vannregionen defineres som en internasjonal vannregion. Vannregionmyndigheten skal samarbeide med den ansvarlige myndigheten i den tilgrensende EØS-staten med sikte på å etablere felles løsninger, slik at ønsket miljøtilstand kan oppnås for hele nedbørfeltet.
+Vannregionmyndigheten skal sørge for å utveksle relevant informasjon med den ansvarlige myndigheten i den tilgrensende EØS-staten. Tiltaksprogrammer og vannforvaltningsplaner for det berørte nedbørfeltet skal være koordinert med de tilgrensende EØS-statene.
+Reglene om offentlig informasjon og høring gjelder i denne forbindelse tilsvarende overfor den ansvarlige myndigheten i den tilgrensende EØS-staten.

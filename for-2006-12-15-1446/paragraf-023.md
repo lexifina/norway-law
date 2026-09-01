@@ -1,0 +1,5 @@
+# § 23. Organisering av arbeidet i vannregionen
+Vannregionmyndigheten kan i samarbeid med vannregionutvalget der det er hensiktsmessig, dele hele eller deler av vannregionen i vannområder. Ved inndeling i vannområder skal det tas utgangspunkt i de naturgitte forhold, som hele eller deler av nedbørfelt, fjorder og kystområder. I tillegg skal det legges vekt på eksisterende samarbeidsformer mellom kommuner, regionale myndigheter og andre interesser, forventede utfordringer og allerede igangsatte tiltak.
+Arbeidet som utføres i et vannområde fastsatt i henhold til første ledd, herunder bidrag til å karakterisere vannforekomster og vurdere tiltak, skal gjennomføres med sikte på å kunne inngå i arbeidet på vannregionnivå i henhold til denne forskriften.
+Vannregionmyndigheten gir i nødvendig utstrekning rammer og veiledning for organisering og gjennomføring av arbeidet i vannområdet, og legger til rette for at dette skjer på en faglig forsvarlig måte og innenfor fastsatte frister.
+Forslag til inndeling i vannområder skal inngå som en del av planprogrammet for oppdateringen av vannforvaltningsplanen.
