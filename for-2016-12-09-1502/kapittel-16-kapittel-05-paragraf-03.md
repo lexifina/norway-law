@@ -1,0 +1,2 @@
+# § 16-11. Gjennomføring av forordning om produktstyring mv.
+EØS-avtalen vedlegg IX nr. 13eb (forordning (EU) 2017/2358 om utfylling av europaparlaments- og rådsdirektiv (EU) 2016/97 med hensyn til produkttilsyn- og produktstyringskrav for forsikringsforetak og forsikringsdistributører, som endret ved forordning (EU) 2018/541 og forordning (EU) 2021/1257), gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.

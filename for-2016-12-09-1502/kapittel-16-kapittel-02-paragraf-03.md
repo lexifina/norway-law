@@ -1,0 +1,4 @@
+# § 16-4. Opplysninger om forsikringstjenester til Finansportalen
+Forsikringsforetak som tilbyr standardiserte produkter eller produktkombinasjoner som nevnt i forsikringsvirksomhetsloven § 7-5 første ledd og som tilbys forbrukere i Norge, skal holde produktinformasjon tilgjengelig for Finansportalen. Som produktinformasjon regnes opplysninger om premiene, forsikringsvilkårene samt forhold på forsikringstakerens side som etter premietariffen vil bli lagt vekt på ved beregningen av premiene.
+Opplysningene skal holdes tilgjengelig på den måte som fastsettes av Finansportalen.
+Finansportalen skal varsle forsikringsforetakene om hvilke standardiserte produkter eller produktkombinasjoner den anser omfattet første ledd. Opplysningene kan ikke kreves gjort tilgjengelig for Finansportalen før to måneder etter at varsel er sendt.

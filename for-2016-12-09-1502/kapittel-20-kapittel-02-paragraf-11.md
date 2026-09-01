@@ -1,0 +1,4 @@
+# § 20-5. Tapsabsorberingsbeløp
+Tapsabsorberingsbeløpet etter risikovektet metode skal fastsettes som en prosentsats lik summen av minstekravene til ansvarlig kapital etter finansforetaksloven § 14-1, og skal oppfylles med et beløp som tilsvarer prosentsatsen multiplisert med risikovektet beregningsgrunnlag.
+Tapsabsorberingsbeløpet etter uvektet metode skal fastsettes som en prosentsats lik minstekravet til uvektet kjernekapitaldekning etter CRR artikkel 92 nr. 1 bokstav d, jf. CRR/CRD IV-forskriften § 2 første ledd, og skal oppfylles med et beløp som tilsvarer prosentsatsen multiplisert med eksponeringsmålet for uvektet kjernekapitalandel.
+Dersom foretaket har eierandeler i kredittforetak som omfattes av finansforetaksloven § 11-7, jf. finansforetaksloven § 20-9 fjerde ledd, skal beregningsgrunnlag og eksponeringsmål for beregning av tapsabsorberingsbeløp justeres for dette.

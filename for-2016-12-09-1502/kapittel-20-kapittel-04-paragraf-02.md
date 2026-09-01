@@ -1,0 +1,2 @@
+# § 20-11. Nedskrivning og konvertering av delvis redusert hovedstol
+Dersom hovedstolen av et instrument er blitt delvis redusert i tråd med avtalevilkår om reduksjon av hovedstolen som følge av hendelser knyttet til foretakets finansielle stilling, solvens eller graden av ansvarlig kapital, skal Finanstilsynet ved nedskrivning eller konvertering etter finansforetaksloven §§ 20-24 til 20-26 ta utgangspunkt i restbeløpet.

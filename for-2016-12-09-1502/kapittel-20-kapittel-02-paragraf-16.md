@@ -1,0 +1,20 @@
+# § 20-7c. Minstekrav til summen av ansvarlig kapital og konvertibel gjeld for datterforetak som ikke er krisehåndteringsenhet
+Foretak som nevnt i finansforetaksloven § 20-1 første ledd bokstav a og som er datterforetak av en krisehåndteringsenhet, men ikke selv er krisehåndteringsenhet, skal til enhver tid oppfylle et minstekrav til summen av ansvarlig kapital og konvertibel gjeld som nevnt i finansforetaksloven § 20-9 første ledd fastsatt av Finanstilsynet. Minstekravet skal fastsettes samtidig med krisetiltaksplanen etter finansforetaksloven § 20-6, og skal oppfylles med ansvarlig kapital og konvertibel gjeld som angitt i finansforetaksloven § 20-25a og § 20-7b i forskriften her.
+Finanstilsynet kan gi unntak fra kravet i første ledd dersom
+a) både datterforetaket og krisehåndteringsenheten er etablert i samme medlemsstat og medlemmer av samme krisehåndteringskonsern,
+b) krisehåndteringsenheten oppfyller kravene minstekravet til summen av ansvarlig kapital og konvertibel gjeld i første ledd,
+c) det ikke er vesentlige praktiske eller juridiske hindre for en umiddelbar overføring av ansvarlig kapital eller tilbakebetaling av gjeld fra krisehåndteringsenheten til datterforetaket,
+d) krisehåndteringsenheten kan dokumentere for Finanstilsynet at datterforetaket er underlagt forsvarlig styring, og har garantert, med Finanstilsynets samtykke, for datterforetakets forpliktelser, eller at risikoen i datterforetaket er uten betydning,
+e) krisehåndteringsenhetens rutiner for måling, vurdering og kontroll av risiko også dekker datterforetaket, og
+f) krisehåndteringsenheten kontrollerer mer enn 50 prosent av stemmerettighetene i datterforetaket, eller har rett til å utpeke eller avsette et flertall av medlemmene i datterforetakets styre.
+Annet ledd gjelder tilsvarende dersom vilkårene i annet ledd bokstav a, c og d er oppfylt av morforetaket og datterforetaket, og morforetaket oppfyller minstekrav til summen av ansvarlig kapital og konvertibel gjeld på konsolidert nivå.
+Finanstilsynet kan også beslutte at foretak som er datterforetak av en krisehåndteringsenhet, men ikke selv er krisehåndteringsenhet, skal oppfylle minstekrav til summen av ansvarlig kapital og konvertibel gjeld på individuelt nivå.
+Når vilkårene i annet ledd bokstav a og b er oppfylt, kan Finanstilsynet tillate at kravet for datterforetaket helt eller delvis oppfylles med en garanti fra krisehåndteringsenheten som oppfyller følgende vilkår:
+a) garantien stilles for et beløp som minst tilsvarer beløpet for det kravet som garantien erstatter,
+b) garantien utløses når datterforetaket ikke kan innfri sin gjeld eller andre forpliktelser etter hvert som de forfaller, eller når datterforetaket oppfyller vilkårene for nedskriving og konvertering i finansforetaksloven § 20-14, alt etter hva som inntreffer først,
+c) minst halvparten av garantibeløpet sikres gjennom en avtale om finansiell sikkerhetsstillelse, jf. lov om finansiell sikkerhetsstillelse § 2 første ledd bokstav a,
+d) sikkerheten som stilles for garantien, oppfyller kravene i CRR artikkel 197, jf. CRR/CRD-forskriften § 2 første ledd, som etter passende konservative avkortinger er tilstrekkelig til å dekke beløpet som det stilles sikkerhet for, jf. bokstav c,
+e) sikkerheten som stilles for garantien er uten heftelser og benyttes ikke som sikkerhet for andre garantier,
+f) sikkerheten har en effektiv løpetid som oppfyller samme løpetidsvilkår som i CRR artikkel 72c nr. 1, jf. CRR/CRD-forskriften § 2 første ledd,
+g) det er ingen juridiske, regulatoriske eller operasjonelle hindringer for å overføre sikkerheten fra krisehåndteringsenheten til det aktuelle datterforetaket, heller ikke hvis krisetiltak brukes overfor krisehåndteringsenheten.
+Ved anvendelse av femte ledd bokstav g skal krisehåndteringsenheten, på anmodning fra Finanstilsynet, sørge for en uavhengig skriftlig og begrunnet juridisk betenkning eller på annen tilfredsstillende måte vise at det ikke finnes juridiske, regulatoriske eller operasjonelle hindringer for å overføre sikkerhet fra krisehåndteringsenheten til det berørte datterforetaket.

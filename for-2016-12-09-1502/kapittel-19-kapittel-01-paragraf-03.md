@@ -1,0 +1,4 @@
+# § 19-3. Dekning av innskudd i filialer
+Bankenes sikringsfond skal dekke tap på innskudd for innskytere i filialen, med fradrag for det som skal dekkes av hjemstatens garantiordning. Det er uten betydning for Bankenes sikringsfonds forpliktelser om eller på hvilket tidspunkt hjemstatens garantiordning dekker sin del. Bankenes sikringsfond har ikke anledning til å dekke tap utover det garanterte beløpet.
+Som innskyter i filial her i riket regnes innskyter som selv har foretatt innskudd i, og som har naturlig tilknytning til, filialen. Finanstilsynet kan gi nærmere regler om hvem som skal anses som innskyter. Finanstilsynet avgjør tvilstilfeller.
+Filialer skal informere sine innskytere om hvilke typer innskudd som er sikret, hvilket beløp som er sikret, og hvilken sikringsordning som dekker hvilke innskudd eller deler av innskuddet.

@@ -1,0 +1,10 @@
+# § 13-7. Offentliggjøring av investeringsstrategi
+Redegjørelsen etter finansforetaksloven § 13-23 første ledd skal vise hvordan hovedelementene i investeringsstrategien er i samsvar med profilen og varigheten av foretakets forpliktelser, særlig langsiktige forpliktelser, og hvordan strategien bidrar til inntjening på mellomlang til lang sikt.
+Informasjon om hovedelementene i en avtale om utkontraktering av forvaltningen etter finansforetaksloven § 13-23 annet ledd skal omfatte følgende:
+a) hvordan avtalen sikrer at forvalteren tilpasser forvaltningen til profilen og varigheten av pensjonsforetakets og livsforsikringsforetakets forpliktelser, særlig langsiktige forpliktelser,
+b) hvordan avtalen gir forvalteren insitament til å ta investeringsbeslutninger basert på vurderinger av det finansielle og ikke-finansielle resultat på mellomlang til lang sikt hos selskapet det investeres i, og til å engasjere seg i investeringsselskaper for å forbedre deres resultat på mellomlang til lang sikt,
+c) hvordan metoden og tidshorisonten for vurderingen av forvalterens resultater og godtgjørelse for forvalterens tjenester er i samsvar med profilen og varigheten av livsforsikringsforetakets og pensjonsforetakets forpliktelser, særlig langsiktige forpliktelser, og tar hensyn til absolutte langsiktige resultater,
+d) hvordan livsforsikringsforetaket og pensjonsforetaket overvåker transaksjonskostnader som forvalteren påfører porteføljen, og hvordan den definerer og overvåker en tilsiktet omløpshastighet i porteføljen eller et intervall for omløpshastighet, og
+e) varigheten av avtalen med kapitalforvalteren.
+Dersom avtalen med forvalteren ikke inneholder ett eller flere av elementene som nevnt i annet ledd, skal livsforsikringsforetaket og pensjonsforetaket gi en klar og begrunnet forklaring på hvorfor det er tilfellet.
+Pensjonsforetak kan inkludere informasjon etter finansforetaksloven § 13-23 første og annet ledd i redegjørelse for kapitalforvaltningsstrategien, jf. forskrift om pensjonsforetak § 30.

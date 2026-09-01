@@ -1,0 +1,2 @@
+# § 11-2. Likviditet
+Likviditetsbufferen skal bestå av eiendeler som kvalifiserer som nivå 1, nivå 2A eller nivå 2B avkortet i henhold til kapitalkravsforordningen artikkel 460. I tillegg kan kortsiktige eksponeringer mot kredittinstitusjoner i risikoklasse 1 eller 2 og kortsiktige innskudd i kredittinstitusjoner som kvalifiserer til risikoklasse 1, 2 eller 3 inngå. Eiendeler i mislighold kan ikke regnes med i likviditetsbufferen.

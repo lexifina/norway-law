@@ -1,0 +1,3 @@
+# § 5-7. Pensjonsforetak med hovedsete i en annen EØS-stat
+Reglene i finansforetaksloven § 5-5 og bestemmelsene i denne paragrafen gjelder for pensjonsforetak med hovedsete i en annen EØS-stat som vil forvalte en pensjonsordning som er underlagt norsk pensjonslovgivning.
+Pensjonsforetak som nevnt i første ledd kan starte forvaltningen av pensjonsordningen når foretaket har mottatt opplysninger om hvilke regler som skal gjelde for virksomheten i Norge og senest seks uker etter at Finanstilsynet har mottatt meldingen fra tilsynsmyndighetene i pensjonsforetakets hjemstat. Finansforetaksloven § 5-5 første ledd annet, tredje og fjerde punktum gjelder ikke.

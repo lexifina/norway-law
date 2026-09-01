@@ -1,0 +1,4 @@
+# § 20-21. Overgangsbestemmelser
+Kravet om lavere prioritet som nevnt i § 20-7 første ledd skal være oppfylt innen 1. januar 2024. Frem til denne datoen skal Finanstilsynet følge opp foretakenes planer for utstedelse av instrumenter som tilfredsstiller kravet, herunder fastsette mellomliggende nivåer for oppfyllelse av kravet per 1. januar 2022 som skal sikre lineær oppbygging mot sluttkravet.
+Finanstilsynet kan utsette fristen i første ledd første ledd for individuelle foretak på grunnlag av foretakets muligheter for å utstede instrumenter som tilfredsstiller kravet i § 20-7 første ledd, tidspunktet for første vedtak om foretakets minstekrav etter § 20-4 til § 20-6, og andre forhold som tilsier at tilsier at foretaket bør få utsatt frist.
+For foretak med mindre enn fem milliarder kroner i forvaltningskapital, samt for verdipapirforetak, skal kravet om gjenopprettingsplan etter finansforetaksloven § 20-5 være oppfylt innen 1. januar 2020.

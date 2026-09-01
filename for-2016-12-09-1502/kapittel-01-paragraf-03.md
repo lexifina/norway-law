@@ -1,0 +1,2 @@
+# § 1-3. Unntak for begravelseskasser og hjelpekasser
+Finansforetaksloven gjelder ikke begravelseskasser og hjelpekasser som yter en maksimumsstøtte lik folketrygdens grunnbeløp. Finanstilsynet kan likevel pålegge kassene å gi opplysninger om sin virksomhet til Finanstilsynet. Hvis det er påkrevet av hensyn til mottakere av støtte, kan Finanstilsynet bestemme at slike ordninger helt eller delvis skal omfattes av loven.

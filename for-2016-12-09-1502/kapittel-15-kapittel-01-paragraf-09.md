@@ -1,0 +1,3 @@
+# § 15-9. Pålegg og sanksjoner
+Finanstilsynet kan gi foretak som nevnt i § 15-1 første ledd pålegg om utforming, endring og reversering av godtgjørelsesordning. Finanstilsynet kan sette kvantitative grenser for foretakets omfang av variabel godtgjørelse i forhold til foretakets nettoinntekt for å sikre kapitalgrunnlaget i foretaket.
+Hvis et pålegg fra Finanstilsynet med hjemmel i denne forskriften ikke blir etterkommet, kan tilsynet fastsette at foretaket skal betale en daglig løpende mulkt til forholdet er rettet. Finanstilsynet kan fastsette pålegg om avståelse fra variabel godtgjørelse. Pålegg om mulkt er tvangsgrunnlag for utlegg.

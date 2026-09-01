@@ -1,0 +1,3 @@
+# § 16-8. Bankers tilbud av kontanttjenester
+Enhver bank skal gi bankens kunder mulighet til innskudd og uttak av kontanter, enten i egen regi eller gjennom avtale med andre tilbydere av kontanttjenester.
+Plikten til å tilby kontanttjenester omfatter norske foretak med konsesjon som bank, jf. finansforetaksloven § 2-7, norske filialer av utenlandske kredittinstitusjoner som tar imot innskudd i Norge, jf. finansforetaksloven § 5-2, og utenlandske finansforetak som har fått tillatelse av departementet etter finansforetaksloven § 2-7 til å etablere og drive virksomhet gjennom filial i Norge, jf. finansforetaksloven § 5-6.

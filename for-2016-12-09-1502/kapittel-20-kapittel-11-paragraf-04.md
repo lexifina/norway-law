@@ -1,0 +1,10 @@
+# § 20-20. Lån mellom finansieringsordninger for krisehåndtering innenfor EØS
+Finanstilsynet kan på vegne av krisetiltaksfondet anmode om lån fra finansieringsordninger for krisehåndtering i andre EØS-stater, hvis
+a) beløpene som innkreves etter finansforetaksloven § 20-51 første ledd første punktum ikke er tilstrekkelige til å dekke tap, kostnader eller andre utgifter som påløper gjennom bruken av finansieringsordningen,
+b) ekstraordinære tilleggsbidrag fastsatt etter finansforetaksloven § 20-51 annet ledd ikke umiddelbart er tilgjengelige, og
+c) alternative finansieringsordninger etter finansforetaksloven § 20-50 fjerde ledd ikke umiddelbart er tilgjengelige på rimelige vilkår.
+Krisetiltaksfondet kan yte lån til finansieringsordninger i andre EØS-stater som anmoder om lån i henhold til vilkårene i første ledd.
+Ved anmodninger etter annet ledd bestemmer Finanstilsynet, etter godkjenning fra departementet, om krisetiltaksfondet skal yte lån til den aktuelle finansieringsordningen som har bedt om lånet. Beslutningen skal treffes så raskt som mulig.
+Rentesats, nedbetalingsplan og andre vilkår for lånene skal avtales mellom den låntakende finansieringsordningen og de øvrige finansieringsordningene som har valgt å delta. Alle de deltakende finansieringsordningenes lån skal ha samme rentesats, nedbetalingsplan og andre vilkår, med mindre alle deltakende finansieringsordninger avtaler noe annet.
+Beløpet som lånes ut fra hver deltakende finansieringsordning, skal være proporsjonalt med andelen de garanterte innskuddene i den aktuelle medlemsstaten utgjør av størrelsen på de totale garanterte innskuddene i alle medlemsstatene til de deltakende finansieringsordningene. Bidragssatsene som følger av første punktum kan fravikes hvis alle deltakende finansieringsordninger samtykker til det.
+Et utestående lån til en finansieringsordning for krisehåndtering i en annen EØS-stat etter paragrafen her, skal behandles som en eiendel som tilhører krisetiltaksfondet, og kan medregnes i krisetiltaksfondets målnivå dersom dette er fastsatt.

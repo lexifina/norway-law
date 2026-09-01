@@ -1,0 +1,3 @@
+# § 11-7. Krav til overpantsettelse
+Kredittforetaket skal til enhver tid ha en overpantsettelse på minimum fem prosent av pålydende verdi av utestående obligasjoner med fortrinnsrett til dekning i sikkerhetsmassen. Dersom kredittforetaket etter vedtektene bare kan gi lån til, eller med garanti fra, den norske stat, norske kommuner eller norske fylkeskommuner, skal kredittforetaket til enhver tid ha en overpantsettelse på minimum to prosent av pålydende verdi av utestående obligasjoner med fortrinnsrett. Finanstilsynet kan fastsette nærmere regler om beregningen.
+For obligasjoner med fortrinnsrett standard der engasjementer med eller garantert av offentlige foretak er den dominerende typen fordringer i sikkerhetsmassen, skal overpantsettelsen være minimum ti prosent.
