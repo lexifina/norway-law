@@ -1,0 +1,2 @@
+# § 4-3. Lufttrafikktjeneste som ytes til OAT-flyginger
+Lufttrafikktjeneste som ytes til OAT-flyginger (Operational Air Traffic) som foregår etter instrumentflygeregler i kontrollert luftrom, skal skje i samsvar med bestemmelsene i EUROAT med nasjonale vedlegg. Med EUROAT menes «EUROCONTROL Specifications for Harmonized Rules for Operational Air Traffic under Instrument Flight Rules inside Controlled Airspace of the ECAC Area», utgave 3.0 inkludert endring 12.

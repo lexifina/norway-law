@@ -1,0 +1,3 @@
+# § 1-2. Virkeområde
+Forskriften gjelder i Norge, herunder på Svalbard. I tillegg gjelder forskriften tjenesteyting levert fra Norge i områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) for den allmenne lufttrafikken, så langt dette ellers er i overensstemmelse med Norges folkerettslige forpliktelser. Forskriften gjelder også for tjenesteyting i tilknytning til petroleumsvirksomhet på norsk eller utenlandsk kontinentalsokkel, så langt dette er i overensstemmelse med Norges folkerettslige forpliktelser.
+Forskriften gjelder for flyværtjenester med de tilpasninger som følger av forskrift 23. februar 2021 nr. 526 om flyværtjeneste på norsk kontinentalsokkel.

@@ -1,0 +1,10 @@
+# § 4-8. Bruk av ATS-overvåkingssystem i kombinert tårn- og innflygingskontrolltjeneste
+Når flygekontrolltjenesten benytter et ATS-overvåkingssystem under utøvelse av kombinert tårn- og innflygingskontrolltjeneste, skal dette gjøres på en måte som ikke reduserer flygelederens mulighet for visuell overvåking av trafikk på og i nærheten av flyplassen.
+Bruken av ATS-overvåkingssystem under utøvelse av kombinert tårn- og innflygingskontrolltjeneste forutsetter at antall samtidige flybevegelser innenfor tjenesteenhetens ansvarsområde ikke overstiger en grense fastsatt av tjenesteyteren. Tjenesteenheten skal også ha vurdert fastsatt ytterligere begrensninger, med hensyn til faktorer som at flygeleder er alene på vakt, brøyting av manøvreringsområdet, redusert sikt, glatte baner, vanskelige vindforhold, operasjoner utenom dagslysperioden eller andre forhold som krever spesiell oppmerksomhet.
+ATS-overvåkingssystem kan under utøvelse av kombinert tårn- og innflygingskontrolltjeneste kun benyttes for vektorering av luftfartøyer under følgende forutsetninger:
+a) Vektorering skal ikke benyttes for mer enn ett luftfartøy av gangen.
+b) Vektorering skal ikke benyttes samtidig som andre luftfartøy befinner seg i avgangsfasen, landingsfasen eller i landingsrunden.
+c) Vektorering skal ikke benyttes dersom det samtidig er trafikk på manøvreringsområdet, med mindre flygekontrolltjenesten har fastsatt noe annet i sine håndbøker.
+d) Vektorering skal ikke benyttes når andre forhold, som definert lokalt, krever spesiell oppmerksomhet.
+Med «avgangsfasen» menes perioden fra luftfartøyet påbegynner sin avgang og frem til fartøyet er i luften og har passert enden av rullebanen. Med «landingsfasen» menes perioden fra luftfartøyet er nærmere enn 4 NM fra terskelen til rullebanen som skal benyttes til landingen og frem til luftfartøyet har landet.
+Flygekontrolltjenesten kan etablere lokale prosedyrer som tillater vektorering samtidig med begrenset ferdsel på definerte deler av manøvreringsområdet, samt nødvendig og begrenset ferdsel med kjøretøyer som utfører spesifikk bakketjeneste, for eksempel friksjonsmålinger, målinger av rullebanesikt og baneinspeksjoner.
