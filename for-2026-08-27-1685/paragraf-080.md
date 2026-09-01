@@ -1,0 +1,2 @@
+# § 80. Begrensning og tilbakekall av godkjenning for institusjonell trening eller enhets- eller vedlikeholdstrening
+Når en treningsorganisasjon som gjennomfører institusjonell trening eller enhets- eller vedlikeholdstrening ikke lenger fyller vilkårene for godkjenning, kan Luftfartstilsynet begrense eller tilbakekalle godkjenningen for treningsorganisasjonen. Det samme gjelder dersom treningsorganisasjonen i vesentlig grad bryter de krav som stilles til organisasjonen i denne forskriften.

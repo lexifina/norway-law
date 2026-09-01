@@ -1,0 +1,3 @@
+# § 21. Konvertering til norsk autorisasjon for utøvere av AFIS/FIS med kompetanse fra annen stat
+For en person som innehar dokumentasjon på kompetanse til å praktisere AFIS/FIS-tjeneste, utstedt i en annen stat, kan en treningsorganisasjon søke Luftfartstilsynet om godkjenning til å gjennomføre enhetstrening hos en tjenesteyter omfattet av denne forskriftens virkeområde. Treningsorganisasjonen må dokumentere at personen har tilsvarende kompetanse som kravene for oppnåelse av autorisasjon.
+Søknaden skal utarbeides i henhold til de vilkår Luftfartstilsynet setter. Vedlagt søknaden skal det følge et særskilt treningsprogram for oppnåelse av norsk autorisasjon.

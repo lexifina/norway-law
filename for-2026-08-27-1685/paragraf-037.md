@@ -1,0 +1,3 @@
+# § 37. AFIS/FIS enhets- og sektorautorisasjon
+Treningsorganisasjonen for enhets- og vedlikeholdstrening skal utarbeide enhets- og sektorautorisasjonsprøve, og sørge for kandidatens gjennomføring av prøvene. For tjeneste med multiple operasjoner skal treningsorganisasjonen utarbeide og gjennomføre en praktisk prøve for å dokumentere at kandidaten innehar nødvendig kompetanse og kapasitet, i samsvar med § 14.
+Etter gjennomført og bestått enhets-/sektorautorisasjonsprøve skal treningsorganisasjonen sørge for at kandidaten tildeles enhetsautorisasjon og eventuelt sektorautorisasjon. Dersom tjenesten skal utøves fra fjernstyrt tårnenhet og/eller ved bruk av overvåkingsutstyr skal dette fremgå av utstedt dokumentasjon.
