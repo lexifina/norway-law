@@ -1,0 +1,4 @@
+# § 6. Avspilling i ankeforhandlingen
+Lyd- og bildeopptak retten har foretatt av forklaringer avgitt i hovedforhandling skal helt eller delvis spilles av for å tre i stedet for direkte forklaringer i en ankeforhandling, med mindre dette vil stride imot hensynet til forsvarlig saksbehandling.
+Ankedomstolen skal så tidlig som mulig under saksforberedelsen ta stilling til om det er forsvarlig at opptaket spilles av i ankeforhandlingen i stedet for direkte forklaringer. Partene skal gis anledning til å uttale seg om spørsmålet. Ankedomstolen kan beslutte at det skal holdes rettsmøte om spørsmålet under saksforberedelsen.
+Avspillingen bør begrenses til den del av bevisbedømmelsen som bestrides. Skal opptak suppleres med direkte forklaringer, spilles opptaket som hovedregel av før forklaringene avgis.
