@@ -1,0 +1,11 @@
+# § 3-1. Definisjoner
+Rettigheter tilknyttet det å være tatt opp som student ved et studium, program eller enkeltkurs og inneha studentstatus. Det tildeles ordinær studierett innenfor samme tidsperiode som studiet er normert til. I tillegg tildeles retten til forlenget studietid. Studieretten innebærer rett til deltakelse i all organisert undervisning, veiledning (individuell og i grupper), øvelser og oppgaveløsning mv. i det studiet studenten er tatt opp til. I forlenget studietid vil det være begrensinger mht. rett til deltakelse i pedagogiske aktiviteter. Studieretten tildeles etter lærestedets tilbud om og studentens aksept av studieplass.
+Plan for hvordan studiet normert skal gjennomføres for at det skal føre til et bestemt læringsmål, herunder oppbygging, faglig innhold og krav til godkjent kompetanse.
+Individuell plan for gjennomføring av et studium/studieprogram som utarbeides mellom Handelshøyskolen BI og den enkelte student, med sikte på at studenten skal kunne nå sitt læringsmål på normert tid. Planen inneholder bestemmelser om høyskolens ansvar og forpliktelser overfor studenten, og studentens forpliktelser overfor høyskolen og medstudenter.
+Mål på studiebelastningen på et studium/program/enkeltkurs, der 60 studiepoeng tilsvarer ett studieårs arbeidsinnsats. Hvert studium/program/enkeltkurs er tillagt et antall studiepoeng etter forventet arbeidsmengde.
+Tiden et studium er normert til, og som det er forventet at en student skal kunne fullføre dette studiet på.
+Måles ved antall studiepoeng en student har avlagt ift. antall studiepoeng som er normert på angitt tidspunktet i studiet. Normal studieprogresjon er 60 studiepoeng pr. studieår. Studieprogresjonen regnes ut fra hvor mange studiepoeng studenten har bestått tilhørende det studiet studenten har kontrakt på.
+Studietid en student tildeles utover normert studietid. Forlenget studietid gir studenten mulighet til å fullføre sitt studium dersom vedkommende er blitt forsinket ift. normert studietid.
+Det studiestedet ved Handelshøyskolen BI som studenten har tegnet sin studiekontrakt med. Dersom studenten ønsker å bytte studiested, må dette søkes om.
+Frivillig eller tvunget opphold i studiet.
+En uforutsett, ikke påvirkbar omstendighet som medfører at studenten ikke er i stand til å ta del i studiene på vanlig måte eller å oppfylle sine forpliktelser som student.

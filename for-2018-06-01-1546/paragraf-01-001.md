@@ -1,0 +1,3 @@
+# § 1-1. Virkeområde
+Denne forskriften gjelder for alle søkere til all utdanning ved Handelshøyskolen BI. Forskriften gjelder videre for studenter som har fått opptak til og er deltaker i studier, program og enkeltkurs, herunder virksomhetsinterne kurs og ikke-studiepoenggivende kurs, med mindre unntak er presisert i denne forskrift eller i den aktuelle studiekontrakten. Videre for studenter i studieopphold tilknyttet utvekslingsavtaler.
+For ph.d. gjelder forskrift om graden philosophiae doctor (ph.d) ved Handelshøyskolen BI. For forhold som ikke er regulert i forskrift om ph.d., vil Handelshøyskolen BIs forskrift om opptak, studier og eksamen komme til anvendelse.
