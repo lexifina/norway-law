@@ -1,0 +1,2 @@
+# § 1-5. Om klageadgang
+Klage på vedtak i enkeltsaker skal iht. forvaltningsloven (lov 10. februar 1967) kapittel VI innklages til vedtaksenhet. Dersom vedtaket opprettholdes, vil klagen oversendes nemnd for studentsaker ved Handelshøyskolen BI. For vedtak som innebærer inndragning av falske dokumenter og ilegging av karantenetid i denne forbindelse, annullering av karakter og/eller utestenging fra Handelshøyskolen BI, er klageinstansen en særskilt klagenemnd for universiteter og høyskoler i Norge. Klageretten må være uttømt før søksmål kan reises.
