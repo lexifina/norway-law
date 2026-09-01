@@ -1,0 +1,3 @@
+# § 10-2. Fartsgrenser på sjøen i Skien, Porsgrunn og Bamble kommuner
+30 knop er høyeste tillatte fart i Skien, Porsgrunn og Bamble kommuner for næringsfartøy i innaskjærs farvann ut til 100 meter utenfor de ytterste punkt på land, øyer, holmer og skjær mot åpent hav som er synlige over vannflaten, dersom annet ikke er bestemt.
+30 knop er høyeste tillatte fart i Skien, Porsgrunn og Bamble kommuner for fritidsfartøy i den delen av innaskjærs farvann som ligger innenfor hoved- og biled ut til 100 meter utenfor de ytterste punkt på land, øyer, holmer og skjær mot åpent hav som er synlige over vannflaten, dersom annet ikke er bestemt.
