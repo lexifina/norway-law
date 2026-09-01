@@ -1,0 +1,3 @@
+# § 2-7. Utestenging og bortvisning
+Hvis en student mister sikkerhetsklarering, eller får nedsatt sikkerhetsklarering til et nivå under klareringsnivået fastsatt for studiet, kan styret selv eller nemnda for studentsaker vedta at studenten utestenges fra utdanningen ved Forsvarets høgskole. Det samme gjelder dersom studenten ikke lenger oppfyller de medisinske kravene som stilles ved opptak til Forsvarets høgskole. Manglende oppfyllelse av medisinske krav må være varig.
+Hvis en student mister sin autorisasjon, eller får autorisasjonen nedsatt til et nivå under det som kreves for studiet, kan studenten bortvises inntil klareringsmyndigheten har tatt stilling til klareringsspørsmålet.

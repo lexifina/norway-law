@@ -1,0 +1,2 @@
+# § 2-11. Forholdet til universitets- og høyskoleloven i krig, når krig truer, eller ved styrkeoppbygging
+I krig eller når krig truer, eller ved styrkeoppbygging etter forsvarsloven, og dersom det er nødvendig, kan forsvarssjefen bestemme at det gjøres unntak fra deler av universitets- og høyskoleloven for Forsvarets høgskole. Kvalitetskravene til en akkreditert høyskole skal oppfylles så langt det er mulig.
