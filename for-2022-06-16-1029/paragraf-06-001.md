@@ -1,0 +1,3 @@
+# § 6-1. Samsvar med ICAOs regelverk
+Så langt det ikke strider mot bestemmelsene i Kommisjonens gjennomføringsforordning (EU) 2017/373, som gjennomført i § 1-3, skal en yter av luftfartsinformasjonstjenester utføre oppgavene sine i samsvar med Vedlegg 15 til Konvensjonen om internasjonal sivil luftfart og ICAOs «Doc 10066, Procedures for Air Navigation Services – Aeronautical Information Management», første utgave, 2018, med endringer 1 til 3 (PANS-AIM).
+Luftfartstilsynet kan likevel, i samsvar med § 6-2, gi en yter av luftfartsinformasjonstjenester føringer, retningslinjer eller instrukser som kan overstyre bestemmelser som følger av PANS-AIM.

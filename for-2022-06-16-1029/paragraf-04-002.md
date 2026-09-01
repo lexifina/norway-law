@@ -1,0 +1,3 @@
+# § 4-2. Unntak fra kravet om lydopptak ved lufttrafikktjenesteenheter
+Luftfartstilsynet kan gjøre unntak fra kravet om lydopptak ved lufttrafikktjenesteenheter som følger av ATS.OR.460 i kommisjonens gjennomføringsforordning (EU) 2017/373, dersom kravet etter en helhetsvurdering er særlig lite hensiktsmessig for den aktuelle lufttrafikktjenesteenheten.
+Luftfartstilsynet kan også gi midlertidig dispensasjon fra kravet som nevnt i første ledd, dersom det vil bli uforholdsmessig krevende for lufttrafikktjenesteyteren å oppfylle kravet. Dispensasjon kan likevel ikke gis lenger enn til 31. desember 2025.

@@ -1,0 +1,7 @@
+# § 4-6. Prosedyrer for tårnkontrolltjeneste
+Flygekontrolltjenestens ansvar for å holde kjøretøyer på manøvreringsområdet på en flyplass unna en rullebane i bruk, gjelder tilsvarende når det foregår overflyging av rullebanen i høyder lavere enn 500 fot over flyplassens nivå.
+Flygekontrolltjenesten skal ha systemer eller metoder som gir en påminnelse om at rullebanen er opptatt, når personell, inkludert fører av kjøretøy, har fått tillatelse til å oppholde seg på eller i nærheten av rullebane i bruk.
+Med mindre det ved flyplassen er etablert et godkjent system for samtidig og uavhengig bruk av kryssende rullebaner, skal flygekontrolltjenesten ved samtidig bruk av kryssende rullebaner ikke utstede landingsklarering til et etterfølgende luftfartøy før det forangående landende luftfartøy enten
+a) har passert og er klar av kryssende rullebane, eller
+b) etter landing har stoppet utrullingen og har bekreftet at instruksjoner som sikrer at luftfartøyet ikke vil befinne seg nærmere kryssende rullebane enn den avstand som kreves for etablering av holdeposisjoner, er mottatt.
+Når en rullebane brukes av et luftfartøy for taksing eller venting, og et annet luftfartøy blir klarert for overflyging av samme rullebane i høyder lavere enn 1000 fot over flyplassens nivå, skal flygekontrolltjenesten gi trafikkinformasjon til begge luftfartøyer. Overflyging skal i slike tilfeller ikke tillates utført i høyder lavere enn 500 fot over flyplassens nivå.

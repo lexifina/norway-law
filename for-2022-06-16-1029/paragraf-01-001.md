@@ -1,0 +1,2 @@
+# § 1-1. Formål
+Formålet med forskriften er å gjennomføre felleseuropeiske krav til ytere av lufttrafikkstyrings- og flysikringstjenester i norsk rett, og å fastsette særskilte nasjonale krav til disse så langt dette er i samsvar med den felleseuropeiske reguleringen. Forskriften fastsetter også regler for hvor det skal tilbys lufttrafikktjenester og hvilken type lufttrafikktjenester som skal tilbys.
