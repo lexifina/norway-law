@@ -1,0 +1,3 @@
+# § 12. Hindring av luftforurensing fra skip og flyttbare innretninger – MARPOL vedlegg VI
+MARPOL konsolidert utgave 2022 vedlegg VI om hindring av luftforurensning samt NOx Technical Code som endret ved MEPC.177(58), MEPC.217(63), MEPC.251(66), MEPC.272(69), MEPC.317(74) MEPC.361(79), MEPC.362(79), MEPC.385(81), MEPC.392(82) og MEPC.398(83) gjelder som forskrift. Med «skip» menes i MARPOL også flyttbare innretninger.
+Skip i innenriksfart med bruttotonnasje 400 eller mer skal ha om bord en energieffektivtetsplan i henhold til retningslinjene for utvikling av Ship Energy Efficiency Management Plan (SEEMP) del I jf. MEPC.346(78).

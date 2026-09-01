@@ -1,0 +1,2 @@
+# § 14f. Særlige regler om skip vernet eller fredet av Riksantikvaren i verdensarvfjordene
+Sjøfartsdirektoratet kan etter skriftlig søknad gi dispensasjon fra kravene i § 10a, § 10b, § 14b og § 14c til skip som er vernet eller fredet av Riksantikvaren. I vurderingen av om dispensasjon kan innvilges vektlegges det om gjennomføring av kravene kommer i konflikt med skipets verneverdi, om skipet har historisk tilhørighet til verdensarvfjordene, og formålet med den særskilte reguleringen av verdensarvfjordene.

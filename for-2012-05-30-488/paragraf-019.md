@@ -1,0 +1,3 @@
+# § 19. Polarkoden del II-A
+MEPC.264(68) om et internasjonalt regelverk for skip som opererer i polare farvann (polarkoden) del II-A, og de miljørelaterte bestemmelsene i innledningen, gjelder som forskrift.
+Skip av kategori A bygget før 1. januar 2017 som ikke kan tilfredsstille kravene i polarkoden del II-A nr. 1.1.1 for olje eller oljeholdige blandinger fra maskinrom, og som opererer i arktiske farvann i mer enn 30 dager sammenhengende, skal oppfylle disse kravene senest ved første mellomliggende tilsyn eller første fornyelsestilsyn, dersom dette kommer først, etter 1. januar 2018. Frem til denne datoen skal disse skipene tilfredsstille utslippskravene i MARPOL vedlegg I regel 15.3.
