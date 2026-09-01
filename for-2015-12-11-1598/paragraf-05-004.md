@@ -1,0 +1,2 @@
+# § 5-4. Varighet
+Med utgangspunkt i en behovs- eller arbeidsevnevurdering skal varigheten av mentortiltaket tilpasses tiltaksdeltakerens individuelle behov. Tiltaket kan vare i inntil seks måneder. Personer med nedsatt arbeidsevne og særlige behov for bistand fra mentor, kan få tiltaket forlenget i inntil tre år. Unge under 30 år som deltar i et tilrettelagt fag- og yrkesopplæringsløp som opplæringstiltak, kan få mentortiltak forlenget i inntil tre år.

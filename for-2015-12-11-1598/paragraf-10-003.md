@@ -1,0 +1,3 @@
+# § 10-3. Personkrets
+Tilskuddet gis til arbeidsgivere som ansetter personer med varig og vesentlig nedsatt arbeidsevne på ordinære lønns- og arbeidsvilkår, med sikte på et varig arbeidsforhold.
+Tilskuddet kan unntaksvis gis til arbeidsgivere som har ansatte med varig og vesentlig nedsatt arbeidsevne som står i fare for å falle ut av arbeidslivet etter tolv måneder med full eller gradert sykmelding. For personer som har en sykdomstilstand hvor arbeidsevnen gradvis vil svekkes, og hvor sykemelding ikke er påkrevd fordi dette ikke vil anses å ha betydning for bedring av helsetilstanden, kan det gjøres unntak fra kravet om tolv måneders forutgående sykemelding. Det forutsettes at vilkåret i § 10-5 første ledd er oppfylt.

@@ -1,0 +1,2 @@
+# § 15-5. Overgangsregler i forbindelse med avvikling av forsøksordning med tilretteleggingstilskudd for rekruttering av arbeidssøkere med nedsatt arbeidsevne
+Tilretteleggingstilskudd etter forskrift 12. desember 2011 nr. 1362 om forsøk med tilretteleggingstilskudd for rekruttering av arbeidssøkere med nedsatt arbeidsevne, som er vedtatt før 1. januar 2016, kan gis så lenge det er nødvendig og hensiktsmessig for den enkelte, på de vilkår og etter de satser som gjaldt per 31. desember 2015, dersom vedtaket har virkningstidspunkt før 1. januar 2016.

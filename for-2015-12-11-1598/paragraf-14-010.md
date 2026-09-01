@@ -1,0 +1,4 @@
+# § 14-10. Hospitering i ordinært arbeidsliv for deltakere i forhåndsgodkjent virksomhet
+Tiltaksdeltakere i forhåndsgodkjent virksomhet, jf. § 14-5, kan hospitere i ordinære virksomheter. Formålet med hospiteringen skal være å bidra til å opprettholde og utvikle ressurser hos tiltaksdeltakeren. Hospiteringen skal være basert på tiltaksdeltakerens ønsker og behov.
+Hospiteringen kan utgjøre 50 prosent eller mindre av tiltaksdeltakerens samlede avtalte arbeidstid i løpet av en åtteukersperiode. Det kan gjøres unntak fra tidsbegrensningen etter første punktum for en periode på inntil seks måneder i forbindelse med en vurdering av om tiltaksdeltaker skal gis fast ansettelse i hospiteringsvirksomheten.
+I hospiteringsperioden skal tiltaksdeltakeren fortsatt være ansatt i den forhåndsgodkjente virksomheten. Den forhåndsgodkjente virksomheten beholder full tilskuddssats og har ansvar for oppfølging av og tilrettelegging for tiltaksdeltakeren under hospiteringsoppholdet.

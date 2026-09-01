@@ -1,0 +1,2 @@
+# § 14-9. Tilskudd ved opprettelse av nye tiltaksplasser
+Det kan gis tilskudd til dekning av utgifter til bygging, installering eller utvidelse av virksomheten ved opprettelse av nye tiltaksplasser innen varig tilrettelagt arbeid i forhåndsgodkjent virksomhet. Tilskudd gis på grunnlag av faktiske utgifter inntil fastsatt maksimalsats, og utbetales inntil seks måneder før oppstart eller utvidelsen av tiltaket.

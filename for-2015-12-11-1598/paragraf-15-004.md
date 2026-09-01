@@ -1,0 +1,3 @@
+# § 15-4. Overgangsregler som følge av avvikling av tilskudd til teknisk tilrettelegging
+Arrangører av tiltak som er nevnt i § 15-2 og § 15-3, som før 1. januar 2016 har fått innvilget tilskudd til teknisk tilrettelegging etter reglene i kapittel 12B i forskrift 11. desember 2008 nr. 1320 om arbeidsrettede tiltak mv., kan beholde tilskuddet ut vedtaksperioden.
+Arrangører av tiltak som er nevnt i § 15-6, som før 1. oktober 2016 har fått innvilget tilskudd til teknisk tilrettelegging etter reglene i kapittel 12B i forskrift 11. desember 2008 nr. 1320 om arbeidsrettede tiltak mv., kan beholde tilskuddet ut vedtaksperioden.
