@@ -1,0 +1,4 @@
+# § 2. Virkeområde
+Denne forskrift gjelder for tilvirkning, omsetning (salg, kjøp, annen overdragelse og mellommannsvirksomhet), innførsel, utførsel, gjennomførsel (transitt), utlevering, forsendelse, oppbevaring, besittelse og bruk av narkotika.
+Skip, luftfartøy eller annet transportmiddel i internasjonal trafikk som fører begrensede mengder narkotika mv. beregnet til førstehjelpsformål, eller til bruk i nødstilfelle under reise, er unntatt bestemmelsene i denne forskrift. Ambulanser (herunder ambulansehelikopter og ambulansefly) og andre utrykningskjøretøyer som er utstyrt med narkotiske legemidler for behandlingsformål og som krysser den norske grensen i forbindelse med utrykning, er unntatt fra kravene om tillatelse og sertifikat i forskriften § 9.
+Lov 4. desember 1992 nr. 132 om legemidler m.v., og forskrifter gitt med hjemmel i denne, gjelder for narkotika.

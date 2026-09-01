@@ -1,0 +1,3 @@
+# § 4. Narkotikalisten
+Narkotikalisten fastsettes av departementet. Narkotikalisten, og de bestemmelser i denne som er fastsatt for de enkelte stoffer, grupper av stoffer, droger, planter, sopper eller blandinger, gjelder som en del av denne forskrift.
+I narkotikalisten oppføres de stoffer, planter og droger som kommer inn under Den alminnelige narkotikakonvensjon 30. mars 1961 eller Konvensjon om psykotrope stoffer 21. februar 1971. Andre stoffer, grupper av stoffer, droger, planter og sopper kan oppføres dersom de har, eller antas å ha, lignende effekt som de stoffer, planter og droger som kommer inn under konvensjonene.

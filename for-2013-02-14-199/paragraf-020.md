@@ -1,0 +1,3 @@
+# § 20. Legemidler til førstehjelpsformål
+Ved behov for legemidler til førstehjelpsformål kan Direktoratet for medisinske produkter gi tillatelse til å ta med eller sende legemidler med innhold av narkotika, uavhengig av kravene i forskriften § 9. Ved behov for å motta legemidler med innhold av narkotika til førstehjelpsformål i en nasjonal krisesituasjon, kan Direktoratet for medisinske produkter gi tillatelse til import uavhengig av kravene om tillatelse og sertifikat i forskriften § 9.
+Ved utenlandske militæravdelingers behov for å medbringe legemidler med innhold av narkotika til førstehjelpsformål i forbindelse med øvelse i Norge, kan Direktoratet for medisinske produkter gi tillatelse uavhengig av kravene i forskriften § 9.
