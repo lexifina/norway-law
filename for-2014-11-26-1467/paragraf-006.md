@@ -1,0 +1,3 @@
+# § 6. Unntak fra 80 prosent-regelen
+Det skal ikke kreves tilbake for mye utbetalt uførepensjon i etteroppgjøret som skyldes at årlig pensjonsgivende inntekt har oversteget 80 prosent av samlet inntekt før uførhet dersom inntektsøkningen skyldes arbeidsforsøk. Unntaket gjelder for de månedene der den månedlige inntekten ikke har oversteget 1/12 av 80 prosent av samlet inntekt før uførhet.
+Det kan gjøres unntak fra 80 prosent-regelen for person som ikke har uføretrygd eller arbeidsavklaringspenger, og som har hatt årlig inntekt som overstiger 80 prosent av samlet inntekt før uførhet, og den økte inntekten ikke skyldes varig, økt arbeidsevne. Unntaket gjelder for de månedene der den månedlige inntekten ikke har oversteget 1/12 av 80 prosent av samlet inntekt før uførhet.
