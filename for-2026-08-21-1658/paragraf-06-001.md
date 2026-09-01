@@ -1,0 +1,4 @@
+# § 6-1. Ikrafttredelse og overgangsbestemmelser
+Forskriften trer i kraft 1. september 2026. Fra samme tidspunkt oppheves forskrift 30. juli 2018 nr. 1211 om delvis anvendelse av universitets- og høyskoleloven for Forsvarets høgskole og om nemnder og forskrift 16. desember 2005 nr. 1575 om delvis innlemming av Forsvarets etterretningshøgskole under lov 1. april 2005 nr. 15 om universiteter og høyskoler.
+Forskriften kapittel 3 om opptak gjelder fra 1. januar 2027. Til den tid gjelder reglene om opptak i forskrift 30. juli 2018 nr. 1211 om delvis anvendelse av universitets- og høyskoleloven for Forsvarets høgskole og om nemnder.
+Forskriften §§ 4-3 første ledd bokstav b og 5-2 tredje ledd om studentrepresentanter gjelder fra utløpet av perioden til sittende medlemmer i valgkretsen ved ikrafttredelse av denne forskriften.
