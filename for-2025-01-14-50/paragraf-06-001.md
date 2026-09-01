@@ -1,0 +1,4 @@
+# § 6-1. Overdragelse av nettanlegg
+Dersom kjøper eller selger ved overdragelse av eksisterende nettanlegg blir enige om en endring av årlig inntektsramme, skal Reguleringsmyndigheten for energi orienteres skriftlig om de økonomiske konsekvenser for inntektsrammene senest tre uker etter at konsesjon i henhold til energiloven kapittel 3 er meddelt.
+Orienteringen skal være signert av avtalepartene og være vedlagt en oversikt over endringer i avtalepartenes årlige inntektsramme, endringer i mer- og mindreinntekt og endringer i kostnadsgrunnlaget, jf. § 3-1.
+På grunnlag av orienteringen fastsetter Reguleringsmyndigheten for energi ved enkeltvedtak ny årlig inntektsramme og ny mer- og mindreinntekt for kjøper og selger med virkning fra det år partene blir enige om, men ikke tidligere enn det år orienteringen er mottatt. Partenes samlede årlige inntektsramme endres ikke som følge av overdragelsen.

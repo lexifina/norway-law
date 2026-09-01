@@ -1,0 +1,4 @@
+# § 6-3. Oppkjøp og sammenslåing
+Ved oppkjøp eller sammenslåing legges summen av de årlige inntektsrammene for de nettselskapene som er involvert til grunn for beregning av ny årlig inntektsramme. Dersom sammenslåingen medfører en reduksjon i den samlede årlige inntektsrammen, kan nettselskapet søke Reguleringsmyndigheten for energi om kompensasjon for det fremtidige inntektstapet knyttet til sammenslåingen.
+Reguleringsmyndigheten for energi skal informeres skriftlig om konsekvensene for de årlige inntektsrammene, mer- og mindreinntekt og kostnadsgrunnlaget av både kjøper og selger, senest tre uker etter at de nødvendige tillatelser fra myndighetene er gitt.
+På grunnlag av den skriftlige orienteringen fastsetter Reguleringsmyndigheten for energi ved enkeltvedtak nye årlige inntektsrammer og mer- og mindreinntekt for avtalepartene med virkning fra det år partene blir enige om, men ikke tidligere enn det år orienteringen er mottatt.

@@ -1,0 +1,6 @@
+# § 4-1. Justerte inntektsrammer ved KILE
+Årlig inntektsramme skal kvalitetsjusteres som følge av avbruddskostnader for tilknyttede sluttbrukere. Dette gjelder avbruddskostnader for avbrudd som skyldes feil eller planlagte utkoblinger i høyspenningsanlegg eller feil i fordelingstransformator, avbrudd hvor feil i lavspenningsanlegg medfører utkobling i høyspenningsanlegg samt avbrudd ved samtidig, manuell utkobling av alle lavspenningskurser på samme fordelingstransformator, rapportert i henhold til forskrift 30. november 2004 nr. 1557 om leveringskvalitet i kraftsystemet.
+Nettselskapenes totale avbruddskostnader fremkommer ved å summere kostnadene for alle avbrudd innenfor året. Kostnad for ett enkelt avbrudd fremkommer av § 4-2.
+Avbruddskostnader som følge av systemvernutløsning som kompenseres økonomisk etter vedtak av systemansvarlig, jf. forskrift 7. mai 2002 nr. 448 om systemansvaret i kraftsystemet, inngår ikke i KILE-ordningen.
+Avbruddskostnader som følge av rasjonering, jf. energiloven § 6-2, inngår ikke i KILE-ordningen, men skal fremkomme i nettselskapets rapportering til Reguleringsmyndigheten for energi.
+Hvem som er ansvarlig og berørt konsesjonær ved avbrutt effekt, ikke levert energi og KILE er definert i forskrift 30. november 2004 nr. 1557 om leveringskvalitet i kraftsystemet § 2A-3.

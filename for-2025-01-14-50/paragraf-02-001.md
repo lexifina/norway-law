@@ -1,0 +1,2 @@
+# § 2-1. Inntekter ved salg av nettjenester
+Nettvirksomhetens tillatte inntekter ved salg av nettjenester er årlig inntektsramme for nettvirksomheten, jf. § 2-2, tillagt kostnader som kan dekkes inn som et tillegg, jf. § 2-3, fratrukket avbruddskostnader, jf. § 4-1. Fra avbruddskostnadene skal det trekkes fra beløp som omfattes av individuelle avtaler, jf. § 4-3, og utbetalinger ved svært langvarige avbrudd, jf. § 5-1.

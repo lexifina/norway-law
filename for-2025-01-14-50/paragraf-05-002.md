@@ -1,0 +1,3 @@
+# § 5-2. Registrering og beregning av svært langvarig avbrudd
+Varigheten for et svært langvarig avbrudd regnes fra det tidspunkt nettselskapet visste eller burde ha visst at avbrudd har funnet sted. Avbruddet opphører når normal forsyning er gjenopprettet. Flere påfølgende avbrudd regnes som sammenhengende om ikke normal forsyning opprettholdes i minimum to timer sammenhengende.
+Dersom sluttbruker selv har bidratt til å forlenge varigheten av avbruddet, kan nettselskapet redusere avbruddets varighet tilsvarende ved beregning av kompensasjonsbeløpet etter § 5-1. Nettselskapet kan ikke i noe tilfelle legge til grunn en redusert varighet ut over dette.
