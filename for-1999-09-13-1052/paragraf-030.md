@@ -1,0 +1,7 @@
+# § 30. Sorts- og artsblandinger
+Sertifisert såkorn av forskjellige sorter av samme art kan blandes og omsettes som «sortsblanding».
+Sertifisert såkorn av forskjellige arter kan blandes og omsettes som «artsblanding».
+Såvarer av forskjellige arter og sorter av fôrvekster (jf. vedlegg A1 punkt II), med unntak av gras som bare er godkjent for grøntanlegg, kan blandes og omsettes for dyrking til fôrformål. En slik såvare kan også blandes med såvarer av forskjellige arter og sorter av korn (jf. vedlegg A1 punkt I), olje- og fiberplanter (jf. vedlegg A1 punkt IV) og grønnsaker (jf. vedlegg A1 punkt V). Det er en forutsetning at såvarene som inngår i blandingene, tilfredsstiller kvalitetskravene i denne forskriften.
+Såvarer av forskjellige arter og sorter av fôrvekster (jf. vedlegg A1 punkt II) kan blandes med såvarer av andre arter og sorter enn fôrvekster dersom blandingen skal omsettes til andre formål enn dyrking av fôr. Blandingen kan også inneholde arter som ikke er omfattet av vedlegg A1. Det er en forutsetning at såvarer av artene oppført i vedlegg A1 som inngår i slike blandinger, tilfredsstiller kvalitetskravene i denne forskriften.
+Såvarer av forskjellige sorter av samme art grønnsaker (jf. vedlegg A1 romertall V) av klasse standard, kan omsettes som «sortsblanding» i småpakninger som angitt i vedlegg A 10 tabell 1.
+Bevaringsverdige sorter som fyller vilkårene for omsetning, jf. § 21, kan inngå i blandingene som følger av første til femte ledd og i naturfrøblandinger.

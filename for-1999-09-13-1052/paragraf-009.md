@@ -1,0 +1,4 @@
+# § 9. Melding om avl
+Såvareforretninger og andre personer eller virksomheter med tillatelse til omsetning etter § 4 annet ledd, skal gi skriftlig melding til Mattilsynet om utsædspartier til kontrolldyrking og arealer til vekstkontroll etter reglene i vedlegg A6.
+For sorter som ikke er registrert på norsk sortsliste, er forretningen ansvarlig for å fremskaffe en sortsbeskrivelse som Mattilsynet kan godkjenne.
+Såvareforretninger skal innen 1. mars gi melding om størrelse og lokalitet på planlagt areal for produksjon av såvarer av naturfrøblandinger, bevaringsverdige sorter og tradisjonssorter av grønnsaker, for de to sistnevnte skal det også opplyses om sort. Mattilsynet kan tildele kvoter for såvareproduksjon av bevaringsverdige sorter, tradisjonssorter av grønnsaker og naturfrøblandinger.
