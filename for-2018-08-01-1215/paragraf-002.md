@@ -1,0 +1,4 @@
+# § 2. Om beregningen
+Til grunn for beregning av gjennomsnittsavling i planteproduksjon legges dokumentert eller beregnet avling de siste sju år før skadeåret. De to dårligste og det beste året i gjennomsnittsperioden strykes dersom dette gir en gunstigere tilskuddsberegning. Ved svikt i honningproduksjon legges de siste tre år før skadeåret til grunn. Dårligste år erstattes med siste år før perioden dersom det gir en gunstigere tilskuddsberegning.
+For beregning av gjennomsnittsavling ved produksjonssvikt for grovfôr i foretak med husdyr benyttes fastsatte normavlinger, jf. § 14.
+Avlingsmengde i kg slik det er dokumentert i regnskap, legges til grunn for skadeåret og gjennomsnittsårene. Dersom det ikke er fastsatt en sats for den aktuelle veksten skal statsforvalteren benytte egnet sats i vekstgruppen.

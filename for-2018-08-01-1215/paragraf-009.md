@@ -1,0 +1,4 @@
+# § 9. Skadeårets avling – produksjonssvikt grovfôr i foretak med husdyr
+Skadeårets avling beregnes som oppmålt lager av grovfôr høstet fra foretakets grovfôrareal. Fôring og beiting av grovfôrarealet legges til skadeårets avling beregnet etter normene for fôropptak i § 15. Solgt grovfôr legges til skadeårets avling. Overliggende fôr fra forrige år blir regnet som skadeårets avling dersom overlagring ikke kan dokumenteres.
+Fôrverdiene i § 15 i denne forskriften kan fravikes dersom det fremlegges representative fôranalyser som viser at det aktuelle fôrmiddelet avviker mer enn 15 % fra fôrnormen ved normalt tørrstoffinnhold.
+Bruker og en representant for kommunen skal måle opp fôrlageret med type og mengde fôr. Målingen skal skje så snart som mulig etter innsett av dyrene og innhøstingen er avsluttet. Måledato oppgis i søknadsskjemaet.
