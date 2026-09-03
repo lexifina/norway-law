@@ -1,0 +1,4 @@
+# § 21d. Lukkede systemer
+I et lukket system skal det foreligge en skriftlig avtale mellom den som leverer og den som mottar en såvare. Av avtalen skal det gå fram hvilke standarder og betingelser som er satt for den leverte såvaren. Videre skal det gå fram at mottakeren av såvaren ikke får eiendomsrett til verken såvaren eller det høstede produktet. Leverandøren av såvaren skal sende en kopi av avtalen unntatt det som gjelder de økonomiske forholdene, til Mattilsynet.
+Såvaren skal ikke inneholde Avena fatua (floghavre), Avena sterilis og norskproduserte såvarer skal heller ikke inneholde Echinochloa crus-galli (hønsehirse).
+Såvaren skal prøvetas og være analysert minimum for innhold av nevnte ugras. Prøvetakingen skal utføres av en prøvetaker autorisert av Mattilsynet. Laboratoriet skal være akkreditert av International Seed Testing Association (ISTA).
