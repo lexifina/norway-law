@@ -1,0 +1,2 @@
+# § 2. Kontroll av dyr og produkter til konsum som importeres til EØS
+EØS-avtalens vedlegg II kap. XIII nr. 22l (forordning (EU) 2023/905) om utfylling av europaparlaments- og rådsforordning (EU) 2019/6 med hensyn til anvendelse av forbudet mot bruk av visse antimikrobielle legemidler på dyr eller i produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
