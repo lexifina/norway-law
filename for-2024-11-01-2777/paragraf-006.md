@@ -1,0 +1,4 @@
+# § 6. Erstatningsansvar og forsikring for skade og tap på tredjeperson
+Eieren av et ubemannet luftfartøy er uansett skyld ansvarlig for skade eller tap som oppstår utenfor fartøyet som følge av at fartøyet brukes til luftfart, med mindre det ubemannede luftfartøyet veier mindre enn 250 gram inkludert nyttelast og brukes i åpen kategori, jf. luftfartsloven § 11-1.
+Kravet til at det skal foreligge godkjent forsikring etter luftfartsloven § 11-2 første ledd gjelder ikke ubemannet luftfartøy som veier mindre enn 250 gram inkludert nyttelast og som brukes i åpen kategori. Det samme gjelder statlige virksomheter hvor bruk av ubemannet luftfartøy er dekket av statens selvassuranse.
+Den som flyr ubemannet luftfartøy er ansvarlig for at det foreligger forsikring som dekker erstatningsplikt overfor tredjeperson, jf. luftfartsloven § 11-2.
