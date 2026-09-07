@@ -1,0 +1,2 @@
+# § 15. Bortfall av rett til å drive vilkårsparkering
+Retten til å tilby vilkårsparkering bortfaller dersom virksomheten tas under konkursbehandling eller dersom innehaveren av enkeltpersonforetaket dør. Et konkursbo eller dødsbo har rett til å fortsette virksomheten i den utstrekning det finnes hensiktsmessig med sikte på avvikling eller overføring av virksomheten til ny eier, likevel ikke utover 6 måneder uten tillatelse fra Statens vegvesen.

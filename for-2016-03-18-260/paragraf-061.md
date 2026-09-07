@@ -1,0 +1,4 @@
+# § 61. Reservering av plasser for forflytningshemmede med parkeringstillatelse
+På alle parkeringsområder omfattet av § 3 første ledd, skal det avsettes et tilstrekkelig antall plasser tilrettelagt for forflytningshemmede med parkeringstillatelse. Med tilstrekkelig antall menes at det i alminnelighet til enhver tid er en ledig reservert plass. Plassene skal utformes og plasseres i samsvar med bestemmelsen i dette kapittelet.
+På parkeringsområder med 50 plasser eller mer, er virksomheten likevel ikke forpliktet til å reservere mer enn fire prosent av plassene til forflytningshemmede med parkeringstillatelse. På parkeringsområder med opptil 50 plasser, er virksomheten ikke forpliktet til å reservere mer enn to plasser.
+Virksomheten kan ikke sette opp skilt etter § 16 før kravet i første ledd er oppfylt, jf. også § 62.
