@@ -1,0 +1,3 @@
+# § 48. Sekretariatet
+Nemnda skal ha et sekretariat som betjenes av egne ansatte eller ved kjøp av tjenester fra ekstern leverandør. Sekretariatet skal ikke lokaliseres sammen med bransjeforening eller lignende. Sekretariatet skal være uavhengig og upartisk.
+Sekretariatet skal forberede innkomne saker for nemndsbehandling og se til at det blir utarbeidet sakssammendrag og innstilling til vedtak. Sammendraget skal så langt som mulig gi et fyllestgjørende bilde av saksforholdet og partenes anførsler. Sekretariatet skal veilede partene i klageprosessen, herunder gi veiledning i forkant av en eventuell klage.

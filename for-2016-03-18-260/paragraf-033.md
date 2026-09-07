@@ -1,0 +1,2 @@
+# § 33. Betalingsfritak for forflytningshemmede
+Forflytningshemmede med parkeringstillatelse har betalingsfritak på avgiftsbelagte kommunale parkeringsplasser etter forskrift 18. mars 2016 nr. 264 om parkeringstillatelse for forflytningshemmede § 2 første ledd b). De har tilsvarende betalingsfritak på andre avgiftsbelagte vilkårsparkeringsplasser vist med skilt 552 som hovedskilt eller soneskilt. De har også betalingsfritak på andre avgiftsbelagte vilkårsparkeringsplasser, med mindre betalingsplikt er angitt på informasjonsskilt og eventuelt underskilt.

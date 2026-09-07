@@ -1,0 +1,3 @@
+# § 6. Plikt til å inneha dekkende ansvarsforsikring
+Virksomhet som skal tilby vilkårsparkering eller andre som i henhold til avtale skal håndheve vilkårsparkering må inneha dekkende forsikring for det ansvar som kan pådras. Forsikringen må tegnes før virksomheten kan tilby vilkårsparkering.
+Krav til dekkende ansvarsforsikring gjelder også virksomhet som drives av forvaltningsorgan. Dersom forvaltningsorganet kan dokumentere at det på annen måte kan dekke et eventuelt ansvar som organet kan pådra seg på lik linje med en forsikring som angitt i første ledd, kan Statens vegvesen frita organet fra dette kravet.

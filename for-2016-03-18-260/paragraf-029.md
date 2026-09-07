@@ -1,0 +1,4 @@
+# § 29. Boligsoneparkering
+Kommunen kan i nærmere avgrensede områder på kommunale vilkårsparkeringsplasser, etter behovsprøving, reservere parkering for parkerende bosatt i området eller for andre med særlig behov for slik parkering.
+Innføring av boligsoneparkering skjer ved særskilt lokal forskrift. Forskriften skal fastsette på hvilke vilkår man får tildelt boligsoneparkering. Den lokale forskriften skal kunngjøres i Norsk Lovtidend avdeling II.
+Slik forskrift kan ikke innsnevre beboernes adgang til å kunne parkere i det området de bor, ved at kommunen begrenser adgangen til kun å gjelde bestemt(e) kjøretøygruppe(r). Slike begrensninger kan kun skje ved hjelp av offentlige skilt fastsatt av skiltmyndigheten. Forskriften kan heller ikke begrense adgangen til boligsoneparkering til å kun gjelde registrert eier av kjøretøy. Det er tilstrekkelig at det forefinnes nødvendig dokumentasjon på at søker disponerer kjøretøy og at vedkommende bor eller har tilhold i sonen.

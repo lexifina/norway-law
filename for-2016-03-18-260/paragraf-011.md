@@ -1,0 +1,2 @@
+# § 11. Uniformering
+Den som utfører kontrolltjeneste med vilkårsparkering, skal bære uniform. Uniformen må ikke kunne forveksles med politiets, forsvarets, tollvesenets eller Statens vegvesens uniformer. Det skal fremgå av uniformen om personen er godkjent kontrollør med vilkårsparkering eller er under opplæring. Uniformen skal være tydelig merket med virksomhetsnavn og ordet «parkeringsvakt», «parkeringsbetjent», «trafikkbetjent», «bybetjent» eller «parkeringskontrollør» på brystet.

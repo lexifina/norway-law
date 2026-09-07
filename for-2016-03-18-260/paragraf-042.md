@@ -1,0 +1,9 @@
+# § 42. Annen fjerning av motorvogn
+Eier eller bruker av privat grunn kan fjerne og ta i forvaring motorvogn som er plassert ulovlig på privat grunn og som ikke omfattes av § 38 når følgende vilkår er oppfylt:
+a) motorvognen er plassert til fare for andre eller slik at eier eller bruker av grunnen utsettes for vesentlig skade eller ulempe,
+b) fører/eieren av motorvognen er forsøkt varslet der dette kan skje uten vesentlig ulempe. Dersom kontakt med føreren eller eieren av motorvognen oppnås, skal denne gis en rimelig frist for selv å fjerne motorvognen og
+c) det ved oppsatt skilt eller på annen måte klart fremgår at området er privat og at uvedkommende motorvogner kan bli fjernet for eiers regning og risiko og med opplysning om hvor en kan henvende seg for å få utlevert motorvognen som er fjernet. Dette gjelder likevel ikke når motorvognen er plassert på et sted hvor det etter omstendighetene er åpenbart at den vil kunne være til fare eller til vesentlig skade eller ulempe for andre.
+Dersom eier eller bruker av grunnen engasjerer andre til å forestå fjerning eller forvaring av motorvognen, skal dette gjøres uttrykkelig for hver enkelt motorvogn. Det skal foreligge skriftlig begjæring som dokumenterer engasjementet.
+Forskriftens § 39, § 40 første ledd, og § 41 gjelder tilsvarende for motorvogn som er fjernet etter denne bestemmelsen.
+Dersom motorvognen er fjernet, og eventuelt tatt i forvaring, uten at det har vært grunnlag for det, er eier og bruker av grunnen og den som eventuelt har forestått fjerningen på dennes vegne, solidarisk ansvarlige for at eiers kostnader ved fjerning og forvaring refunderes og at økonomisk tap som følge av fjerningen erstattes.
+Fjerde ledd gjelder tilsvarende dersom motorvognen, som er lovlig fjernet og eventuelt tatt i forvaring, er fravendt eieren ved et lovbrudd med en strafferamme på mer enn ett år.
