@@ -1,0 +1,2 @@
+# § 2. Krav om risikovurdering
+Tilbydere av pengespill som krever tillatelse, skal gjøre en risikovurdering av eget pengespilltilbud for å sikre ansvarlige og trygge pengespill. Risikovurderingen skal kartlegge behovet for risikoreduserende tiltak som er nødvendige for å forebygge, oppdage og reagere mot problematisk spilleadferd, kriminalitet og uredelig gjennomføring av pengespill. Risikovurderingen skal oppdateres jevnlig og minst hvert år.

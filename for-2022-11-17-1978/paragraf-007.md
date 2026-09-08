@@ -1,0 +1,2 @@
+# § 7. Opplæring av ansatte
+Tilbydere av pengespill som krever tillatelse, skal sikre at ansatte og samarbeidspartnere som arbeider med produktutvikling, markedsføring, overvåking av spill og salg av kundetjenester, får regelmessig opplæring tilpasset den enkeltes arbeidsoppgaver. Opplæringen skal skape bevissthet om risikoene ved pengespill og hvilke faktorer som påvirker en spillers adferd, og gjøre den ansatte i stand til å gjenkjenne problematisk spilleadferd.

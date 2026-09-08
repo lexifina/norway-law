@@ -1,0 +1,2 @@
+# § 52. Generelle sikkerhetskrav til pengespill med skrapelodd
+Et pengespill med skrapelodd skal sikres slik at det ikke oppstår fare for at skrapeloddet kan manipuleres eller misbrukes. Informasjon om premieutfallet for hvert enkelt skrapelodd skal bare være tilgjengelig for de som har autorisert tilgang, og skal begrenses til personell som har behov for slik informasjon. Det skal foreligge dokumenterte rutiner for at sikkerheten er ivaretatt i alle ledd i utviklingen, designet, produksjonen, forsendelsen, distribusjonen, salget og premieutbetalingen.

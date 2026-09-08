@@ -1,0 +1,4 @@
+# § 17. Forbud mot enkelte virkemidler m.m.
+Det er forbudt å telle ned til innleveringsfristen. Det er også forbudt å bruke personer under 18 år i markedsføring av pengespilltilbudet eller som del av pengespilltilbyderens merkevarebygging.
+Det er forbudt å tilby forbrukeren en fordel mot å samtykke til direktemarkedsføring. Det er også forbudt å rette markedsføring direkte mot personer som har pause i spillingen, eller som er utestengt fra spill. Spillere som har hatt pause eller vært utestengt fra spill, må samtykke på nytt dersom spilltilbyderen skal kunne sende direktemarkedsføring til vedkommende.
+Enerettstilbyderne skal ikke benytte triggende virkemidler i markedsføringen av høye premier, eller rette markedsføringshenvendelser direkte til spillere som er kategorisert med risikoadferd i enerettstilbydernes interne systemer.

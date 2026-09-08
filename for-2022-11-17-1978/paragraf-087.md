@@ -1,0 +1,3 @@
+# § 87. Fordeling av overskuddet og regnskapet for norgesmesterskapet i turneringspoker
+Minst fem prosent av brutto omsetning i pokerspillene skal gå til inntekt til den eller de organisasjonene som har tillatelsen til å tilby norgesmesterskapet. Inntil 20 prosent av brutto omsetning kan gå til medhjelperen til dekning av kostnader forbundet med norgesmesterskapet. Uavhentede premier skal tilfalle organisasjonen eller organisasjonene som har tillatelsen.
+Tilbyderen skal føre regnskap for hver kvalifiseringsturnering og for hovedmesterskapet. Regnskapet skal sendes Lotteritilsynet innen en måned etter avslutningen av hver kvalifiseringsturnering eller hovedmesterskapet.

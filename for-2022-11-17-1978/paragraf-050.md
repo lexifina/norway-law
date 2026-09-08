@@ -1,0 +1,4 @@
+# § 50. Krav til skrapeloddet og fordelingen av premier og premiesymbol
+Alle skrapelodd skal utformes og selges i samsvar med premieplanen, spilleregler og loddbeskrivelsen. Med premieplan menes spesifikasjon over antall og verdi av premier det er mulig å vinne i pengespillet. Alle skrapelodd som inngår i tillatelsen, skal produseres før noen av loddene legges ut for salg.
+Det er ikke tillatt å gi feilaktig inntrykk av sjansene til å oppnå premie eller av når spilleren er i ferd med å oppnå premie.
+Når det selges skrapelodd, skal alle premier og hvert enkelt premiesymbol være tilfeldig fordelt blant alle skrapelodd i samsvar med premieplanen. Fordelingen av premier og premiesymbol skal være statistisk tilfeldig, uavhengig og uforutsigbar. Det skal ikke være korrelasjon mellom fordelingene.

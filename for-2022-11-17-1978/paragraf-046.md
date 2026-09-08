@@ -1,0 +1,3 @@
+# § 46. Forbud mot bruk av digitale plattformer og interaktive trekninger for pengespill med omsetning inntil 100 millioner kroner
+Pengespill med tillatelse etter § 43 kan ikke gjennomføres på digitale plattformer. Digitale løsninger for å betale innsats og distribuere lodd er likevel tillatt, slik at loddene for eksempel kan bestilles og kvittering mottas via e-post, organisasjonens nettside eller sosiale medier og betales via en digital betalingsløsning.
+Spilleren skal ikke selv kunne velge hvilket tidspunkt trekningen skal skje på, og spilleren skal ikke gis inntrykk av at spilleren selv kan påvirke dette.

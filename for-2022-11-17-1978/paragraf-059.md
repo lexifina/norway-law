@@ -1,0 +1,2 @@
+# § 59. Hvem som kan tilby bingo
+En eller flere organisasjoner som er godkjent etter § 38, kan få tillatelse til å tilby bingo etter § 60. Med bingo menes et pengespill der en vinner ved å få en på forhånd bestemt tallformasjon på en bong fullt ut. Med bong menes et spillefelt som består av flere rekker med tallkombinasjoner. Organisasjonene kan tilby bingo på egen hånd eller ved bruk av medhjelper, jf. § 40.

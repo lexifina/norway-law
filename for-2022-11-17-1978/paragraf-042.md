@@ -1,0 +1,4 @@
+# § 42. Regnskaps- og revisjonsplikt
+En organisasjon som er forhåndsgodkjent etter § 38 eller § 39, skal føre regnskap. Organisasjonen skal kunne dokumentere alle inntekter og utgifter og skal ha oversikt over eiendeler og gjeld. Organisasjonen skal hvert år innen 1. juni sende regnskapsopplysninger, herunder hvordan overskudd fra pengespill er benyttet, til Lotteritilsynet.
+Medhjelpere som er godkjent etter § 40, skal føre regnskap etter regnskapsloven, uavhengig av om unntaksreglene gitt i eller i medhold av regnskapsloven gjelder for dem. De skal sende inn årsregnskap til Regnskapsregisteret etter reglene i regnskapsloven kapittel 8, og har revisjonsplikt etter revisorloven.
+Organisasjoner eller medhjelpere som også har annen virksomhet som ikke danner grunnlag for å få godkjenning eller tillatelse etter pengespilloven eller forskriften her, skal føre adskilt regnskap for pengespillvirksomheten.
