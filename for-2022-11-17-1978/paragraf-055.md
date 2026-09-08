@@ -1,0 +1,3 @@
+# § 55. Fordeling av tillatelsene til å tilby store pengespill
+Lotteritilsynet avgjør i enkeltvedtak om en søknad fra andre enn enerettstilbyderne om å tilby store pengespill oppfyller vilkårene i § 54 første ledd. Vedtaket kan påklages. Alle klager på Lotteritilsynets vedtak, skal være ferdigbehandlet før tillatelsene fordeles etter andre ledd.
+Dersom flere søkere oppfyller vilkårene i § 54 første ledd, fordeles tillatelsene ved loddtrekning. En organisasjon kan bare delta i loddtrekningen med én søknad om gangen, og bare ha én tillatelse om gangen. Hvert enkelt lotterikonsept kan kun delta med én søknad om gangen. Resultatet av loddtrekningen kan ikke påklages.

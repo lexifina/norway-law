@@ -1,0 +1,4 @@
+# § 15. Krav til markedsføringens innhold
+Markedsføring av pengespill skal inneholde tydelig informasjon om aldersgrense og kontaktinformasjon til Hjelpelinjen.
+Markedsføringen skal balanseres mellom risiko og ansvarlighet. Det innebærer blant annet at ansvarlighetstiltakene skal være mer synlige i markedsføring av pengespill som har en høyere risiko for å utvikle uheldig spilleadferd. Markedsføringen skal være faktabasert og informativ, tilstrekkelig veiledende og ikke villedende.
+Informasjon om vinnersannsynligheten i et pengespill skal oppgis så langt det er praktisk mulig. Informasjonen skal fremstilles på en tydelig måte og være korrekt, slik at markedsføringen ikke gir inntrykk av at vinnersjansene er større enn de i realiteten er. I markedsføringen av den samlede premiepotten skal det framgå tydelig hvor mye den enkelte spiller maksimalt kan vinne i spillet.

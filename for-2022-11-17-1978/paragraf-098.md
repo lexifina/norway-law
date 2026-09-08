@@ -1,0 +1,4 @@
+# § 98. Plikt til å undersøke og gi opplysninger om betalingstransaksjoner
+Foretak som yter betalingstjenester i Norge skal undersøke alle betalingstransaksjoner til og fra pengespillselskaper og betalingsformidlingsforetak som Lotteritilsynet har sendt vedtak om eller som Lotteritilsynet har informert foretakene om at formidler pengespill uten tillatelse i Norge. Lotteritilsynet skal ha oppdatert oversikt over slike vedtak på sitt nettsted.
+Lotteritilsynet kan på fastsatt skjema kreve at foretak som yter betalingstjenester i Norge gir opplysninger om identifiserte pengespillselskaper og foretak som gjennomfører betalingstransaksjoner på vegne av pengespillselskaper.
+Opplysningsplikten omfatter opplysninger som foretaket har om kontonummer, brukerstedskode, Merchant ID, Acquirer ID, organisasjonsnummer, transaksjonsvolum og tidsperiode for transaksjonene, men ikke personopplysninger om enkelttransaksjoner.

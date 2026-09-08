@@ -1,0 +1,3 @@
+# § 67. Premier i bingo
+I hovedspill kan verdien av hver enkelt premie ikke være mer enn 10 000 kroner. I tillegg til enkeltpremier, kan det tilbys en ekstrapremie. Ekstrapremien kan bestå av en premie på inntil 100 000 kroner per dag eller av flere potter som samlet ikke skal være mer enn 100 000 kroner per dag. Ekstrapremien gjelder for hver link som bingohallen er koblet på. Med link menes bingo der det blir foretatt felles trekning for spill som foregår samtidig i flere bingolokaler, og der det spilles om de samme premiene.
+I databingo kan verdien av hver enkelt premie ikke være mer enn 2 500 kroner. I tillegg til enkeltpremier kan det tilbys en ekstrapremie på inntil 12 000 kroner per dag.

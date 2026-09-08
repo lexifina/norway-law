@@ -1,0 +1,2 @@
+# § 3. Krav om internkontroll
+Tilbydere av pengespill som krever tillatelse, skal etablere rutiner for å sikre at de etterlever de krav som følger av lov, forskrift, tillatelse og eventuelle spilleregler. Disse tilbyderne skal i tillegg etablere rutiner for å sikre at de gjennomfører de risikoreduserende tiltakene som er kartlagt etter § 2 andre punktum. Rutinene skal dokumenteres og holdes oppdatert.

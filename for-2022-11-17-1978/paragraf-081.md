@@ -1,0 +1,3 @@
+# § 81. Utbetaling av overskudd fra pengespill om bord på skip
+Minst 20 prosent av omsetningen fra pengespill om bord på skip, etter fradrag for premier, skal gå til en eller flere organisasjoner som er godkjent etter § 38. Beløpet skal utbetales til organisasjonene hver sjette måned.
+Skal rederiet knytte til seg nye organisasjoner som mottar overskudd fra pengespillvirksomheten etter første ledd, skal dette annonseres offentlig med mulighet for nye organisasjoner til å søke om å motta overskudd fra pengespillvirksomheten. Rederiet skal samtidig annonsere hvilke forhold det vil bli lagt vekt på i valget av nye organisasjoner. Det er tilstrekkelig å annonsere på rederiets nettside.

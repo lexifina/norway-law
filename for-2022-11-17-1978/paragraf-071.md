@@ -1,0 +1,6 @@
+# § 71. Krav til regnskap i bingo
+Tilbyderen skal føre og legge fram separate regnskaper for hovedspillet i hvert bingolokale, hovedspill på internett og databingo.
+Det skal føres en daglig rapport over omsetningen av bonger og utdelingen av premier i hovedspillet og databingo.
+Tilbys bingoen uten medhjelper, skal organisasjonen som har tillatelsen føre en regnskapsrapport etter endt tillatelsesperiode. Denne skal sendes til Lotteritilsynet senest seks uker etter endt tillatelsesperiode. Dersom det er gitt tillatelse med varighet på to kalenderår, skal det også føres regnskapsrapport seks uker etter første kalenderår.
+Tilbys bingoen av medhjelper, skal medhjelperen i første og tredje kvartal føre et sammendrag fra de daglige rapportene. Sammendraget, samt dokumentasjon på at overskuddet er utbetalt til organisasjonene i samsvar med § 68, skal sendes Lotteritilsynet senest to uker etter utgangen av første og tredje kvartal.
+Medhjelperen skal også føre et sammendrag fra dagsrapportene for hele første og andre halvår, med bekreftelse fra offentlig godkjent revisor. Sammendraget, samt dokumentasjon på at overskuddet er utbetalt til organisasjonene i samsvar med § 68, skal sendes Lotteritilsynet senest åtte uker etter utløpet av første halvår og senest seks uker etter utløpet av andre halvår, eller senest seks uker etter at spillet er avsluttet.
