@@ -1,0 +1,3 @@
+# § 5-11-10. Utgiftsgodtgjørelse til dekning av kostnader til elektroniske kommunikasjonstjenester
+Utgiftsgodtgjørelse for kostnader til elektroniske kommunikasjonstjenester er skattepliktig for den del som faller på privat bruk. Det skattepliktige overskudd beregnes ved å anvende reglene i § 5-12-20 og § 5-12-21 tilsvarende så langt de passer, dog slik at overskuddet ikke skal settes høyere enn beløpet som er godtgjort.
+Dersom arbeidstaker også disponerer elektronisk kommunikasjonstjeneste som naturalytelse, skal summen av overskudd etter første ledd og fordel etter § 5-12-21 ikke overstige 4392 kroner.

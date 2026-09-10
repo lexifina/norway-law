@@ -1,0 +1,2 @@
+# § 4-12-5. Oppgaveplikt og fastsettelse
+Beregning av aksjenes formuesverdi skal vedlegges selskapets skattemelding. Dette gjelder likevel ikke for ikke-børsnotert selskap som direkte eller indirekte i sin helhet eies av et børsnotert aksjeselskap eller allmennaksjeselskap. Første punktum gjelder heller ikke for ikke-børsnotert selskap som direkte eller indirekte i sin helhet er eid av personer eller institusjoner som er fritatt for skatteplikt etter skatteloven § 2-30.

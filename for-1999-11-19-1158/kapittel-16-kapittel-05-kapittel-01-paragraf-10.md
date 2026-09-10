@@ -1,0 +1,3 @@
+# § 16-40-10. Rapportering til Norges forskningsråd
+(1) Norges forskningsråd kan kreve at bedriften skal rapportere fremdrift og oppnådde resultater i godkjent prosjekt.
+(2) Norges forskningsråd kan inndra godkjenningen etter § 16-40-4 dersom skattyter ikke oppfyller rapporteringsplikten etter første ledd, eller innrapporterer uriktige eller mangelfulle opplysninger. Det samme gjelder godkjent prosjekt som ikke oppfyller vilkårene for forsknings- og utviklingsarbeid i § 16-40-4. Inndragning av godkjenning etter første og andre punktum kan gis virkning for inneværende og tidligere inntektsår. Krav om tilbakesøking av skattefradrag etter § 16-40 anses som et skatte- og avgiftskrav etter skattebetalingsloven.

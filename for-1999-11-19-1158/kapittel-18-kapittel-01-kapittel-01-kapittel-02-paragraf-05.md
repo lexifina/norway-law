@@ -1,0 +1,2 @@
+# § 18-2-8. Nedsettelse av beregningsgrunnlaget
+Dersom kraftverkets midlere produksjonsevne er varig redusert med 10 prosent eller mer, nedsettes beregningsgrunnlaget for naturressursskatt tilsvarende. Produksjonen i alle år som inngår i grunnlagsperioden før produksjonsevnen er redusert, reduseres prosentvis like mye som reduksjonen i midlere produksjonsevne. Skattemyndighetene godkjenner en slik reduksjon i midlere produksjonsevne etter å ha innhentet sakkyndig uttalelse fra Norges vassdrags- og energidirektorat (NVE).

@@ -1,0 +1,2 @@
+# § 11-20-10. Avvikling av overdragende selskap
+Når omdanning innebærer at et selskap overdrar samtlige eiendeler, rettigheter og forpliktelser til annet selskap, skal det overdragende selskapet så langt mulig oppløses og avvikles straks etter overdragelsen. Ved omdanning av selskap som nevnt i § 11-20-1 annet ledd g er det likevel tilstrekkelig at selskapet så langt det er mulig oppløses og avvikles innen fristen for å levere skattemeldingen.

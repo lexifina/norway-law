@@ -1,0 +1,3 @@
+# § 5-11-1. Utgifter til kost, losji og transport mellom bolig på arbeidsstedet og annen bolig
+(1) For arbeidstaker som ikke er pendler, anses ikke kostnader til kost, losji og arbeidsreise til og fra arbeidsstedet som kostnader i forbindelse med utførelse av arbeid. Godtgjørelse for slike kostnader er skattepliktig arbeidsinntekt.
+(2) For arbeidstaker som er pendler og som får standardfradrag for utenlandsk arbeidstaker, er utgiftsgodtgjørelse til dekning av kostnader til kost, losji og besøksreiser til hjemmet skattepliktig arbeidsinntekt. Tilsvarende gjelder for arbeidstaker som er pendler og som skattlegges etter særreglene om skattlegging av utenlandske arbeidstakere i skatteloven kapittel 20.

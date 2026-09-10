@@ -1,0 +1,3 @@
+# § 2-5-2. Fordeling mellom skattefri omsetning av konsesjonskraft og skattepliktig kraftomsetning
+(1) Bruttoinntekter knyttet til omsetning av kraft skal fordeles forholdsmessig mellom omsetning av konsesjonskraft og omsetning av annen kraft etter de andelene konsesjonskraft og annen kraft utgjør av samlet omsatt kvantum i løpet av inntektsåret.
+(2) Kostnader til kjøp av kraft og andre kostnader knyttet til omsetning av kraft, fordeles til skattepliktig kraftomsetning bare i den grad skattyter dokumenterer at kostnaden faktisk knytter seg til slik omsetning. Kostnader som er felles for omsetning av konsesjonskraft og annen kraft fordeles forholdsmessig etter de samme andelene som i første ledd.

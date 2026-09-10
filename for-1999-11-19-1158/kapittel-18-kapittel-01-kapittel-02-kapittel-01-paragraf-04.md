@@ -1,0 +1,2 @@
+# § 18-3-4. Beregningsgrunnlaget – nærmere om forbruk i produksjonsvirksomhet
+Som forbruk i produksjonsvirksomhet regnes bare forbruk i industriell virksomhet som oppfyller vilkårene for registrering i Statistisk sentralbyrås industristatistikk i NACE-kode 20, 21, 24 eller 27, slik disse var avgrenset pr. 1. januar 1997, når kraftleveransen skal verdsettes til kontraktspris etter reglene i skatteloven § 18-3 annet ledd a nr. 2 eller til prisen etter skatteloven § 18-3 annet ledd a nr. 3, jf. denne forskrift § 18-3-10, § 18-3-11, § 18-3-13 første ledd a og § 18-3-14.

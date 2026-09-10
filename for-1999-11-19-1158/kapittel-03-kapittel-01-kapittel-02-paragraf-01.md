@@ -1,0 +1,2 @@
+# § 3-1-10. Skattemessig bosted for personer på alders- og sykehjem
+Personer som blir innlagt på alders- eller sykehjem i en annen kommune enn bostedskommunen, regnes fortsatt som bosatt i den kommunen hvor de hadde sitt bosted på innleggelsestidspunktet. Forutsetningen er at kommunen som personen var bosatt i på innleggelsestidspunktet fortsatt skal ha det rettslige og økonomiske ansvaret for å tilby vedkommende alders- og sykehjemsplass.

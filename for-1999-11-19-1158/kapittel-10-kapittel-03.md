@@ -1,0 +1,1 @@
+# Gevinstbeskatning av aksjer mv.

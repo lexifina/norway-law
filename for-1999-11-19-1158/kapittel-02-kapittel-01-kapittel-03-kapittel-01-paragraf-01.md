@@ -1,0 +1,3 @@
+# § 2-5-1. Anvendelsesområde for bestemmelsene om kommuners og fylkeskommuners skatteplikt for kraftinntekter
+(1) Bestemmelsene i denne forskrift § 2-5 gjelder for kommuner og fylkeskommuner som både omsetter kraft ervervet i henhold til vilkår for konsesjon (konsesjonskraft), jf. vannfallrettighetsloven § 19 og vassdragsreguleringsloven § 22, og driver skattepliktig omsetning av annen kraft.
+(2) Når omsetning av konsesjonskraft skjer ved bruk av et eget selskap, men for kommunens regning og risiko, skal inntekter og utgifter knyttet til videresalget skattemessig tilordnes kommunen. Bestemmelsene i denne forskrift § 2-5 gjelder i så fall for fordelingen av inntekter og kostnader i omsetningsselskapet.

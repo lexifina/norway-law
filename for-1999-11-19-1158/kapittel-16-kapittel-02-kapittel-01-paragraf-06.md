@@ -1,0 +1,7 @@
+# § 16-10-6. Rett til boliglån
+(1) Banker er ved opprettelse av BSU-konto forpliktet til å tilby spareren boliglån i tilknytning til boligspareordningen.
+(2) Banken skal tilby spareren førsteprioritets pantelån til bolig, begrenset oppad til fire ganger det innestående beløpet på BSU-kontoen (sparebeløp inklusiv opparbeidede renter). Det pliktige lånebeløpet er begrenset til å ligge innenfor 80 prosent av det laveste av boligens kjøpesum og lånetakst. Vilkårene på boliglånet skal følge de rente- og avdragsbetingelsene som banken til enhver tid ellers tilbyr for lån med tilsvarende sikkerhet.
+(3) Utlånsforpliktelsen inntrer når spareren ønsker å anvende det oppsparte beløpet på BSU-kontoen til erverv av egen bolig. Det stilles ikke krav om at spareren etablerer seg for første gang i egen bolig.
+(4) Bankens plikt til å tilby førsteprioritets pantelån til bolig bortfaller dersom spareren bryter boligsparekontrakten, eller spareren på annen måte misligholder sine løpende betalingsforpliktelser overfor banken eller annen finansinstitusjon. Spareren plikter, når lån skal opptas, å gi nødvendige opplysninger om sin økonomi. Bankens utlånsplikt bortfaller dersom spareren ikke kan dokumentere økonomisk evne til å betale renter og avdrag på lånet.
+(5) Ved overføring av BSU-konto til annen bank, plikter den nye banken å tilby lån under de forutsetningene som er nevnt i bestemmelsen her.
+(6) Ved overføring av BSU-konto til spareinstitusjon som ikke er forpliktet til å tilby lån, bortfaller utlånsforpliktelsen.

@@ -1,0 +1,7 @@
+# § 8-20-5. Fradrag i fond for miljøtiltak mv.
+(1) Det gis fradrag i fond for miljøtiltak mv. for kostnader til tiltak som oppfyller vilkårene for å være miljøtiltak, jf. § 8-20-3 og § 8-20-4. Det gis kun fradrag for den del av totalkostnaden som medfører en reduksjon av forurensning. Dersom kostnaden knyttet til miljøgevinsten ikke kan skilles ut som en del av totalkostnaden, kan differansen mellom totalkostnaden og kostnaden for en teknisk sammenlignbar investering som ikke medfører en miljøgevinst fradragsføres fond for miljøtiltak mv. Med teknisk sammenlignbar investering menes investering med tilsvarende produksjonskapasitet og tekniske spesifikasjoner.
+(2) En kostnad fradras i fond for miljøtiltak mv. i det året det oppstår en ubetinget forpliktelse for skattyteren til å dekke eller innfri kostnaden. Kostnad som det er oppstått en ubetinget forpliktelse til å dekke eller innfri i inntektsåret 2007, kan likevel kreves fradratt for inntektsåret 2008.
+(3) Kostnader til formuesobjekt som realiseres innen to år etter ervervelsen gir ikke rett til fradrag i fond for miljøtiltak mv.
+(4) Det gis ikke fradrag i fond for miljøtiltak mv. for kostnader som kreves fradratt i egen eller annen skattyters inntekt eller skatt ved skattefastsetting i Norge.
+(5) Det gis fradrag i fond for miljøtiltak mv. for kostnader til dokumentasjon, verifisering og regnskapsføring vedrørende fondet.
+(6) Skattemyndighetenes avgjørelse om fradrag i fond for miljøtiltak mv. kan påklages etter reglene i skatteforvaltningsloven kapittel 13.

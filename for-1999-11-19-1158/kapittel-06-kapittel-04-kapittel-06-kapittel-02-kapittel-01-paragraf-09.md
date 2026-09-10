@@ -1,0 +1,2 @@
+# § 6-47-28. Dokumentasjon
+Betegnelsen «Individuell pensjonsavtale etter skatteloven» skal påføres forsikringsbeviset eller dokumentet for pensjonsspareavtalen. Samme betegnelse skal fremgå av kvittering og årsoppgave til rettighetshaveren og på meldinger (innberetninger) som sendes skattemyndighetene. Selskapet skal bekrefte i avtaledokumentet at innskudd, premie og tilskudd til premiefond er i samsvar med bestemmelsene i § 6-47.

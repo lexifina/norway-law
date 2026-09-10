@@ -1,0 +1,4 @@
+# § 6-47-3. Krav til pensjonsytelser mv.
+(1) Avtalen om individuell sparing til pensjon skal gi kunden rett til alderspensjon i samsvar med bestemmelsene i § 6-47-1 til § 6-47-17.
+(2) Avtalen om individuell sparing til pensjon kan, i tillegg til alderspensjon, omfatte forsikring som gir rett til innskuddsfritak i samsvar med uføregraden når uføregraden er minst 20 prosent. Avtalen kan også omfatte forsikring for finansiell risiko knyttet til verdiutviklingen på alderspensjonskapitalen.
+(3) Samlet årlig innbetaling av innskudd, vederlag for eventuell forsikring knyttet til avtalen, vederlag for administrasjon av avtalen og vederlag for forvaltning av årets innskudd, kan for hver person ikke overstige 25 000 kroner. Innbetaling som nevnt i første punktum kan ikke trekkes av pensjonskapitalen.

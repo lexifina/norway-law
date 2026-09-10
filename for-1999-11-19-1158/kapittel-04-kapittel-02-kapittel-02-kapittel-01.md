@@ -1,0 +1,1 @@
+# Fastsettelse av livsforsikringers gjenkjøpsverdi

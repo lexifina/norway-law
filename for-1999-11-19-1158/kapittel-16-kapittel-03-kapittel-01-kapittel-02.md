@@ -1,0 +1,1 @@
+# B. Den alternative fordelingsmetoden

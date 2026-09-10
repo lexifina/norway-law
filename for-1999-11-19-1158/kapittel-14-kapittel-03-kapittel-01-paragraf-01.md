@@ -1,0 +1,2 @@
+# § 14-62-1. Anvendelsesområde for bestemmelsene om lineær avskrivning
+Bestemmelsene i denne forskrift § 14-62 gjelder lineær avskrivning på driftsmidler som tas inn i og ut av norsk beskatningsområde, jf. skatteloven § 14-60 flg. Dette omfatter både beregnet avskrivning etter skatteloven § 14-62 første ledd for fastsetting av inntaksverdi, og faktisk avskrivning etter skatteloven § 14-62 annet ledd til fradrag etter inntak i norsk beskatningsområde.

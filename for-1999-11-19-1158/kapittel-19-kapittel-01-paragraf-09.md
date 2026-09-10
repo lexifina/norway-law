@@ -1,0 +1,7 @@
+# § 19-5-9. Opplysnings- og dokumentasjonsplikt
+(1) Grunnrenteskattepliktige etter skatteloven § 19-2 plikter å gi alle opplysninger som kreves for fastsetting av skatteavregningspris. Vedkommende skal også gi ytterligere opplysninger dersom disse må antas å være av betydning for verdsetting av laks, ørret og regnbueørret etter skatteloven § 19-5 tredje ledd.
+(2) Opplysninger om salg mv. av laks, ørret og regnbueørret kan bl.a. kreves gitt på særskilt prisoppgaveskjema som fastsettes av departementet. Prisoppgaven skal innsendes til prisrådet. Departementet fastsetter frist for innsending av prisoppgave.
+(3) Endringer i innsendte opplysninger skal meddeles prisrådet innen 15 dager etter at den oppgavepliktige er blitt kjent med endringen.
+(4) Prisrådet kan pålegge skattepliktig etter skatteloven § 19-2 å sende inn kopi av avtale om salg av laks, ørret og regnbueørret. Dersom salg har skjedd til nærstående part, kan skattepliktig pålegges å sende inn kopi av avtale om nærstående selskaps salg til uavhengig part.
+(5) Skatteforvaltningsloven § 14-1 og § 14-2 gjelder tilsvarende ved overtredelse av bestemmelsene i de foregående ledd.
+(6) Dersom skattepliktig ønsker å få lagt til grunn ved skattefastsettingen skatteavregningspris for avtaler om finansiell sikring fastsatt av prisrådet, jf. § 19-5-2 annet ledd, må skattepliktig rapportere slaktevolum, kontraktspris og dato for kontraktsinngåelse senest én uke etter bindende inngått kontrakt med uavhengig part, på en av rådet nærmere fastsatt måte.

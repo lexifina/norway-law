@@ -1,0 +1,2 @@
+# § 4-10-8. Delutleie av næringseiendom
+Ved delutleie av næringseiendom skal inntektsårets utleieinntekt divideres på utleid del av eiendommen, og deretter multipliseres med eiendommens samlede areal. Forholdsmessig andel av fellesområder medregnes som utleid del av eiendommen etter forrige punktum der tilgang til slikt areal inngår i avtalt leie. Det ses bort fra grunnareal (tomt) etter første punktum der bygningene utgjør eiendommens hovedfunksjon. Beregnet utleieinntekt etter denne paragraf legges til grunn etter § 4-10-4 annet ledd.

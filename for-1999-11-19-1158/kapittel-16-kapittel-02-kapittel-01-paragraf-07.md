@@ -1,0 +1,2 @@
+# § 16-10-7. Spareinstitusjonens og skattyterens opplysningsplikt når BSU-kontoen er opprettet i annen EØS-stat
+Ved opprettelse av BSU-konto i annen EØS-stat, jf. skatteloven § 16-10 første ledd første punktum, fastsetter Skattedirektoratet nærmere regler om hvilke opplysninger spareinstitusjonen skal gi og på hvilken måte opplysningene gis. Skattedirektoratet fastsetter også nærmere regler om hvilke opplysninger og hvilken dokumentasjon som kreves av skattytere som har opprettet BSU-konto i annen EØS-stat.

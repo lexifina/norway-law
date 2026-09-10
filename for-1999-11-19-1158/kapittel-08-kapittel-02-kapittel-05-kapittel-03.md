@@ -1,0 +1,1 @@
+# C. Utfyllende bestemmelser om beskatning ved realisasjon eller uttreden av rederiskatteordningen innen tre år, fastsatt med hjemmel i overgangsregler til endringene i skatteloven § 8-14, § 8-15 og § 8-17 vedtatt ved lov 14. desember 2007 nr. 107

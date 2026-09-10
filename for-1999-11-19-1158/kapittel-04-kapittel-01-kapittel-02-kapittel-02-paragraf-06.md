@@ -1,0 +1,5 @@
+# § 4-10-7. Utleie av næringseiendom i deler av inntektsåret, bortfall av utleieinntekt mv.
+(1) Ved utleie av næringseiendom i deler av inntektsåret skal samlet utleieinntekt divideres på antall måneder næringseiendommen har vært leid ut, og multipliseres med 12. Tilsvarende fremgangsmåte benyttes ved inntektsbortfall i en del av inntektsåret. Beregnet utleieinntekt etter dette ledd legges til grunn etter § 4-10-4 annet ledd. Blir eiendommen benyttet av eieren ved utgangen av inntektsåret, skal eiendommen verdsettes som ikke-utleid næringseiendom.
+(2) Ved inntektsbortfall et helt inntektsår skal siste innrapporterte utleieverdi legges til grunn etter § 4-10-4 annet ledd, forutsatt at eiendommen ikke blir benyttet av eieren ved utgangen av inntektsåret.
+(3) Utleie i deler av en måned avrundes opp til nærmeste hele måned etter første og annet ledd.
+(4) Inntektsårets brutto utleieinntekt legges til grunn etter § 4-10-4 annet ledd for eiendom som ikke er mulig å leie ut i deler av året (sesongavhengig utleie).

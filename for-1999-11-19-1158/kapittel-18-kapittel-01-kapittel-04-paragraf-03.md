@@ -1,0 +1,2 @@
+# § 18-8-3. Normrente for friinntekt, for fremføring av negativ grunnrenteinntekt og for tilbakeføring av negativt skattegrunnlag ved realisasjon
+Rentesatsen etter skatteloven § 18-3 tredje ledd b settes til renten etter § 18-8-1, korrigert til renten etter skatt. Renten etter skatteloven § 18-3 fjerde ledd annet punktum settes til renten etter § 18-8-1 tillagt 2 prosentpoeng, korrigert til renten etter skatt. Renten etter skatteloven § 18-3 niende ledd a settes til renten etter § 18-8-1, korrigert til renten etter skatt.

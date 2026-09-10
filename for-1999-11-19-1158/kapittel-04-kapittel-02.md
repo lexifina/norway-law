@@ -1,0 +1,1 @@
+# Særlige verdsettelsesregler

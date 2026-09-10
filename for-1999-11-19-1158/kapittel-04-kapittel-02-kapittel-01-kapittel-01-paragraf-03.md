@@ -1,0 +1,3 @@
+# § 4-12-4. Fordeling på aksjene
+(1) Den fastsatte selskapsformuen fordeles på aksjene i forhold til aksjenes pålydende på verdsettelsestidspunktet. For aksjeselskap eller allmennaksjeselskap hvor aksjekapitalen i inntektsåret er forhøyet eller satt ned uten innbetaling fra eller utbetaling til aksjonærene, fordeles selskapsformuen på aksjene i forhold til aksjenes pålydende pr. 1. januar i skattefastsettingsåret. Egne aksjer som selskapet har på dette tidspunktet, ses det bort fra ved fordelingen.
+(2) Den enkelte aksjes formuesverdi fastsettes til den andelen av selskapsformuen som faller på aksjen ved fordelingen etter første ledd.

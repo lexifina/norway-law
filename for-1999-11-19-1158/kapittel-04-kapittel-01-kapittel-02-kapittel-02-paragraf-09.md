@@ -1,0 +1,4 @@
+# § 4-10-10. Forenklet beregningsmetode for skattytere som dokumenterer verdien av eiendommen
+(1) For næringseiendom som er verdsatt etter skatteloven § 4-10 syvende ledd tredje punktum, kan formuesgrunnlaget for eiendommen de fem påfølgende inntektsårene settes til den beregnede utleieverdien, redusert med et forholdsmessig fradrag.
+(2) Fradraget etter første ledd settes til det prosentvise avviket mellom næringseiendommens beregnede utleieverdi etter skatteloven § 4-10 syvende ledd første punktum og eiendommens dokumenterte omsetningsverdi.
+(3) For næringseiendom som er verdsatt etter skatteloven § 4-10 syvende ledd tredje punktum før inntektsåret 2024, skal beregnet utleieverdi for de resterende inntektsårene etter første og annet ledd fastsettes uten tillegget i kalkulasjonsfaktoren som fremgår av § 4-10-5 første ledd tredje punktum.

@@ -1,0 +1,4 @@
+# § 14-62-3. Endring av avskrivningssatsen ut fra særlige forhold
+(1) Skattemyndighetene kan forhøye satsen for det enkelte driftsmiddel med inntil 50 prosent dersom særlige forhold gjør at driftsmidlets gjenværende levetid må antas å være vesentlig kortere enn hva som ellers er vanlig for driftsmidler av tilsvarende alder og art, for eksempel på grunn av ekstraordinær slitasje. Avskrivningssatsen kan økes tilsvarende dersom driftsmidlet er anskaffet brukt. I slike tilfeller fastsettes avskrivningssatsen konkret ut fra driftsmidlets antatte gjenværende levetid.
+(2) Skattemyndighetene kan sette ned satsen for det enkelte driftsmiddel med inntil 50 prosent dersom særlige forhold gjør at driftsmidlets gjenværende levetid antas å være vesentlig lengre enn hva som ellers er vanlig for driftsmidler av tilsvarende alder og art.
+(3) Forhøyelse etter første ledd eller nedsettelse etter annet ledd kan fastsettes for hele driftsmidlets levetid eller for enkelte perioder.

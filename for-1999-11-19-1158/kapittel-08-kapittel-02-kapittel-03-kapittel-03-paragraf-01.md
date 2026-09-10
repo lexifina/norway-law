@@ -1,0 +1,2 @@
+# § 8-15-20. Beregning av gevinst og tap på langsiktige valutaposter som er etablert før 1. januar 2005
+Ved beregning av urealisert og realisert gevinst og tap på de enkelte fordringer og gjeldsposter omfattet av skatteloven § 14-5 femte ledd etablert før 1. januar 2005, foretas det ingen reduksjon av gevinsten eller tapet for en forholdsmessig andel etter skatteloven § 8-15 annet ledd fjerde og femte punktum.

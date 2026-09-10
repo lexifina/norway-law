@@ -1,0 +1,3 @@
+# § 5-14-11. Beregning av skatt på opsjoner i arbeidsforhold
+(1) Skatt på fordel ved opsjon i arbeidsforhold kan for innløsnings- eller salgsåret fastsettes til det beløp som skatten ville ha utgjort dersom opsjonsfordelen var blitt tidfestet med et like stort beløp i hvert av inntektsårene fra og med ervervsåret til og med innløsnings- eller salgsåret. Dette gjelder likevel bare når skatten blir lavere ved slik beregning enn ved ordinær skatteberegning for innløsnings- eller salgsåret.
+(2) Krav om beregning etter første ledd må settes fram av skattyteren innen fristen for levering av skattemeldingen.

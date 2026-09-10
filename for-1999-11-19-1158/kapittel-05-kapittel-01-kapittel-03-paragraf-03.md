@@ -1,0 +1,2 @@
+# § 5-13-3. Hva fordelsfastsettelsen etter skatteloven § 5-13 omfatter
+Fordelen fastsatt etter skatteloven § 5-13 omfatter arbeidsgivers dekning av alle bilutgifter vedrørende skattyter og hans husstands private bruk av bilen. Arbeidsgivers dekning av bilutgifter som skattyter selv utreder omfattes dersom skattyter leverer arbeidsgiver originalbilag som vedlegges arbeidsgivers regnskap. Utgifter som ikke har direkte tilknytning til bilen, som utgifter til ferge, bompenger, parkering og trafikkbøter/-gebyrer omfattes ikke.

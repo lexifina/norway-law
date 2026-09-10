@@ -1,0 +1,2 @@
+# § 14-3-1. Beregning av skatt på etterbetalte pensjoner og trygdeytelser
+Skatt og trygdeavgift på etterbetalte offentlige eller private pensjoner samt trygdeytelser som utbetales gjennom trygdemyndighetene i henhold til lov, skal ved skattefastsettingen for utbetalingsåret beregnes til det beløpet som skatten og trygdeavgiften ville ha utgjort om pensjons- eller trygdebeløpene var blitt skattlagt i de år utbetalingene refererer seg til. Dette gjelder likevel bare når skattyteren har skattemessig fordel av det.

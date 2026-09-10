@@ -1,0 +1,4 @@
+# § 18-5-9. Fastsettelse av investeringskostnader ved fremtidige utskiftninger av driftsmidler
+(1) Investeringskostnader ved fremtidig utskifting av et driftsmiddel settes lik sist observerte historiske anskaffelseskostnad for det aktuelle driftsmidlet på takseringstidspunktet, der kroneverdien oppjusteres med konsumprisindeksen fra anskaffelsesåret til takseringsåret.
+(2) Dersom driftsmidlet er ervervet før 1. januar 1997, settes investeringskostnadene til den verdien som er lagt til grunn for driftsmidlet i den skattemessige åpningsbalansen pr. 1. januar 1997, der kroneverdien oppjusteres med konsumprisindeksen fra 1. januar 1997 til 1. januar i takseringsåret.
+(3) Ved utskiftning av fast teknisk installasjon i bygning som nevnt § 18-5-11 femte ledd, skal grunnlaget etter første og andre ledd reduseres med kostpris for den nye faste tekniske installasjonen.

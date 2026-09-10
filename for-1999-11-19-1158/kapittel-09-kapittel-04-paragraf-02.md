@@ -1,0 +1,2 @@
+# § 9-10-2. Børsnotert finansiell opsjon
+For børsnotert finansiell opsjon settes omsetningsverdien av opsjonens underliggende objekt til sist noterte omsetningskurs for det underliggende objekt på innløsningsdagen, eventuelt tidligere dersom det ikke er notert omsetningskurs denne dagen. Er gjenstående kjøperkurs høyere eller gjenstående selgerkurs lavere enn sist noterte omsetningskurs, skal denne benyttes. Foregående punktum gjelder uavhengig av om sist noterte omsetningskurs skriver seg fra innløsningsdagen eller tidligere.

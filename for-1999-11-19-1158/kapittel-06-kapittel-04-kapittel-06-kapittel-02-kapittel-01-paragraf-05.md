@@ -1,0 +1,4 @@
+# § 6-47-24. Kontinuitet i avtalte rettigheter
+(1) Rett til ytelser skal avtales i forbindelse med avtaleinngåelsen og kan ikke omgjøres med mindre annet følger av § 6-47. Som rett til ytelse regnes ikke avtale om hvordan kapitalen skal forvaltes eller avtale om avkastningsgaranti.
+(2) Bestemmelsene i første ledd gjelder også dersom midlene tilknyttet en individuell pensjonsavtale overføres til annet selskap, jf. § 6-47-25 og forskrift av 27. november 1991 nr. 757 om rett til overføring av oppsamlede midler knyttet til kollektiv eller individuell livs- eller pensjonsforsikring.
+(3) Dersom ikke annet er fastsatt i denne forskrift, i lov eller i medhold av lov, skal utbetalt beløp for ytelser som nevnt i denne forskrift for hvert år i hele utbetalingsperioden være minst like stort som foregående år.

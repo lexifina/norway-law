@@ -1,0 +1,2 @@
+# § 18-3-16. Kraftkjøpers informasjonsplikt
+Ved inngåelse av kontrakt eller leieavtale som skal verdsettes etter reglene i skatteloven § 18-3 annet ledd a nr. 2, plikter kraftkjøper å informere kraftselger om det samlede årlige kraftvolumet i eventuelle andre tilsvarende kontrakter foretaket eller selskap i samme konsern allerede har inngått med andre produsenter, og om samlet årlig kraftforbruk i egen produksjonsvirksomhet.

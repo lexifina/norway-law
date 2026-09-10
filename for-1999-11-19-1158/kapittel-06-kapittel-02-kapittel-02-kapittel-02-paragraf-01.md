@@ -1,0 +1,4 @@
+# § 6-13-10. Anvendelsesområde og forholdet til andre fradrag
+(1) Bestemmelsene i denne forskrift § 6-13 del B gjelder fradrag for merkostnader til kost, losji, småutgifter og besøksreiser til hjemmet etter skatteloven § 6-13 for person som er skattepliktig til Norge etter skatteloven § 2-1, § 2-3 første ledd bokstav d og annet ledd og lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster mv. § 1, og som av hensyn til sitt arbeid må bo utenfor det hjem vedkommende har i en annen stat. Bestemmelsene regulerer ikke det skattemessige bostedet i Norge etter skatteloven § 3-1.
+(2) Fradrag etter denne forskrift § 6-13 del B inngår i eventuelt fradrag etter skatteloven § 6-70.
+(3) Ved krav om fradrag etter denne forskrift § 6-13 del B bortfaller rett til fradrag for eventuelle merutgifter ved å pendle mellom boliger i Norge.

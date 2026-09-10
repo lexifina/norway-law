@@ -1,0 +1,2 @@
+# § 6-47-38. Uførepensjon
+Uførepensjon er ytelser som tilstås rettighetshaver ved inntrådt ervervsuførhet og som opphører senest når alderspensjonen skal begynne å løpe. Uførepensjon ytes i forhold til graden av ervervsuførhet, men slik at det kan ytes pensjon først når uføregraden utgjør 25 prosent eller mer. Ved minst 50 prosent ervervsuførhet skal pensjonen ytes etter samme grad som i folketrygden, men slik at denne grad kan fravikes når særlige grunner tilsier det.

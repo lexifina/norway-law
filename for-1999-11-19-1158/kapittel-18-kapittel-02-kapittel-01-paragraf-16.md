@@ -1,0 +1,2 @@
+# § 18-10-16. Rente ved skattlegging av vindkraftanlegg
+Renten i skatteloven §§ 18-10 tredje ledd bokstav a nr. 4, 18-10 fjerde ledd, 18-10 sjuende ledd bokstav a og 18-11, skal for det enkelte inntektsåret være årsgjennomsnittet av renten på statskasseveksler med 12 måneders gjenstående løpetid, korrigert til renten etter skatt på alminnelig inntekt. Renten avrundes til nærmeste tiendels prosentpoeng.

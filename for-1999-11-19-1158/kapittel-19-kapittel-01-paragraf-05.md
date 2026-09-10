@@ -1,0 +1,2 @@
+# § 19-5-5. Særlige regler om partsinnsyn
+Skjønnsmessige holdepunkter og tallfesting av disse i tilknytning til skjønnet anses ikke som faktiske opplysninger og bearbeiding av faktum etter forvaltningsloven § 18c. Øvrige berørte parter har ikke krav på å gjøre seg kjent med dokumenter som er lagt frem for prisrådet av en part, med mindre parten ønsker dokumenter eller deler av disse gjort kjent for andre berørte parter.

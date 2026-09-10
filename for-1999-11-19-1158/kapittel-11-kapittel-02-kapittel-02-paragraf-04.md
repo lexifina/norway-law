@@ -1,0 +1,2 @@
+# § 11-21-4. Deling av saldo mv.
+Ved overføring av driftsmidler som inngår på samlesaldo hos det overdragende selskap, må en tilsvarende del av saldo overføres til det mottakende selskap. Er det ført et fullstendig skatteregnskap for hvert enkelt driftsmiddel, legges de nedskrevne verdier som fremgår av dette til grunn. Dersom slikt skatteregnskap ikke foreligger, foretas en forholdsmessig fordeling på grunnlag av driftsmidlenes omsetningsverdi. Tilsvarende gjelder ved deling av skattefastsatt verdi av varelager.
