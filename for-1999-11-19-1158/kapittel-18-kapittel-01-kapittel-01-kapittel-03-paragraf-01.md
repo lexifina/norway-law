@@ -1,0 +1,2 @@
+# § 18-2-9. Samordning av naturressursskatt mot fellesskatt til staten
+Fastsatt naturressursskatt som overstiger skattyterens utlignede fellesskatt for inntektsåret, kan fremføres med rente til fradrag i fellesskatt for senere år, jf. skatteloven § 18-2 fjerde ledd. Skattyters adgang til å fremføre naturressursskatt til fradrag i fellesskatt for senere år, opphører ikke ved skattyters realisasjon av kraftverket, eller ved at kraftverket tas varig ut av produksjon.

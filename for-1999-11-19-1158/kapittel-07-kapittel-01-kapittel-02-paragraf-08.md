@@ -1,0 +1,2 @@
+# § 7-3-17. Overgangsregel til oppheving av skatteloven § 7-3 femte ledd bokstav d
+Kostnader og inntekter som er fastsatt på andelshavernes hånd etter skatteloven § 7-3 femte ledd bokstav a til c for inntektsår til og med 2009, men som ikke er fordelt til skattlegging eller fradrag hos andelshaverne, skal tas til inntekt eller føres til fradrag i sin helhet hos andelshaverne for inntektsåret 2010.

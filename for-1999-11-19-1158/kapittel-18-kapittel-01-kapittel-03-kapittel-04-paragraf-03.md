@@ -1,0 +1,3 @@
+# § 18-5-10. Fastsettelse av gjenstående levetid for driftsmidler som er i bruk i kraftanlegget
+(1) Gjenstående levetid for driftsmiddel som er i bruk i kraftanlegget, settes til gjenstående skattemessige levetid for driftsmidlet, jf. skatteloven § 18-6 første ledd og § 14-43 første ledd sammenholdt med forskriften § 18-5-11 annet, tredje og femte ledd.
+(2) For driftsmiddel som avskrives iht. skatteloven § 18-6 første ledd, kan den gjenstående levetid som er utledet av avskrivningsreglene fravikes dersom skattemyndighetene på bakgrunn av befaring etter § 18-5-13 finner å måtte legge til grunn en annen gjenstående levetid for driftsmidlet.

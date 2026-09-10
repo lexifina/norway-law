@@ -1,0 +1,2 @@
+# § 18-3-23. Prisen på kraft ved interne leveranser
+Prisen på kraft som skal verdsettes etter skatteloven § 18-3 annet ledd a nr. 3, settes lik det volumveide gjennomsnittet av prisen på kraft levert til den skattepliktige i skattleggingsperioden i henhold til langsiktige kjøpskontrakter som nevnt i skatteloven § 18-3 annet ledd a nr. 2 annet og tredje punktum, inngått mellom den skattepliktige, herunder selskap i samme konsern, og uavhengig kontraktspart.

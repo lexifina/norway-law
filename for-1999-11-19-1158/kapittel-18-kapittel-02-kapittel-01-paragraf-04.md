@@ -1,0 +1,5 @@
+# § 18-10-4. Plikt til måling av produksjon i vindkraftanlegg og omregning av spotmarkedspriser til norske kroner
+(1) Skattyter har plikt til å måle faktisk kraftproduksjon i hvert tidsavsnitt i spotprismarkedet i hvert vindkraftanlegg. Produksjonsdataene må lagres og oppbevares i fem år etter inntektsårets utgang.
+(2) Med faktisk kraftproduksjon i hvert tidsavsnitt menes netto produksjon, som definert i § 3-4 tredje ledd i forskrift 11. mars 1999 nr. 301 om måling, avregning, fakturering av nettjenester og elektrisk energi, nettselskapets nøytralitet mv. (forskrift om kraftomsetning og nettjenester).
+(3) Dersom produksjonstallene ikke kan dokumenteres eller sannsynliggjøres på tilfredsstillende måte, fastsettes beregningsgrunnlaget skjønnsmessig. Grunnlaget er blant annet de opplysningene som er registrert hos Statnett, og påstemplet merkeytelse omregnet til installert effekt multiplisert med antall tidsavsnitt i det aktuelle tidsrommet.
+(4) Spotmarkedspriser som ikke noteres i norske kroner, omregnes til norske kroner med dagskursen som gjelder i det tilhørende døgnet, fastsatt av Nord Pool AS.

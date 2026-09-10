@@ -1,0 +1,2 @@
+# § 18-3-14. Grense for hvilke interne leveranser som det tas hensyn til
+Årets kraftproduksjon i skattyters egne kraftverk, samt andel av kraftproduksjon som skattyter har rett til å disponere i kraftverk hvor skattyter har eierandeler, kan verdsettes etter bestemmelsene i skatteloven § 18-3 annet ledd a nr. 3. Slik verdsettelse kan likevel bare skje i den grad årets forbruk av kraft i skattyters produksjonsvirksomhet overstiger årets tilgang på kraft i henhold til kontrakter eller leieavtaler som verdsettes etter skatteloven § 18-3 annet ledd a nr. 2.

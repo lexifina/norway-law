@@ -1,0 +1,4 @@
+# § 18-3-31. Brudd på betingelser og avslutning av fastpriskontrakt som nevnt i § 18-3-29
+(1) Ved brudd på betingelsene som nevnt i § 18-3-29, herunder krav om standard fastprisavtaler med sluttbruker og maksimalt prispåslag, verdsettes kraften som er avtalt levert til den aktuelle sluttbrukeren, til spotmarkedspris hos produsenten for inntektsåret og den resterende kontraktsperioden. Dersom kontraktsprisen for kraftvolumet er høyere enn spotmarkedsprisen, et inntektsår sett under ett, verdsettes kraften likevel til kontraktsprisen.
+(2) Første ledd gjelder ikke dersom en fastprisavtale med sluttbruker avsluttes.
+(3) Vederlag til en kraftprodusent ved avslutning eller endring av en fastpriskontrakt skal inngå i beregningsgrunnlaget for grunnrenteskatt. Vederlag fra kraftprodusent til kraftkjøper kommer til fradrag i beregningsgrunnlaget for grunnrenteskatt.

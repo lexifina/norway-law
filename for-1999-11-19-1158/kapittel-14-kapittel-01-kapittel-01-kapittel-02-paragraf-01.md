@@ -1,0 +1,2 @@
+# § 14-3-10. Bonus ved åremåls tilsettinger i Forsvaret
+Skatt på bonus ved åremåls tilsetting i Forsvaret, som utbetales i én sum ved tjenestens slutt, skal ved skattefastsettingen for utbetalingsåret beregnes til det beløpet som skatten ville ha utgjort om beløpet var blitt fordelt på de enkelte år i tjenestetiden. Ved beregningen fordeles beløpet forholdsmessig etter størrelsen av den godtgjørelsen for det enkelte år som bonus er beregnet av. Dette gjelder likevel bare når skattyteren har skattemessig fordel av det.

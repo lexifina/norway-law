@@ -1,0 +1,3 @@
+# § 3-5-2. Rikspolitikeres adgang til å frasi seg skattemessige fordeler ved å anses som bosatt i Finnmark eller Nord-Troms
+(1) Medlemmer av Stortinget og Regjeringen, statssekretærer og politiske rådgivere i departementene og ved Statsministerens kontor som er ansett som bosatt i Finnmark eller Nord-Troms, kan frasi seg de skattemessige fordelene ved dette. Dette gjelder fordelen av et særskilt fradrag i alminnelig inntekt og lavere skattesats på alminnelig inntekt.
+(2) Melding om å frasi seg skattemessige fordeler ved å anses bosatt i Finnmark eller Nord-Troms gis til skattekontoret for ett år av gangen. Slik melding endrer ikke skattyterens skattemessige bosted.

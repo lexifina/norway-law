@@ -1,0 +1,1 @@
+# II. Beregning av naturressursskatt

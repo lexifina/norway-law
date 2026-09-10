@@ -1,0 +1,4 @@
+# § 4-10-3. Verdsettingsmetoder for næringseiendom
+(1) Næringseiendom verdsettes som utleid næringseiendom etter § 4-10-4 til § 4-10-9 dersom utleid del av eiendommen, herunder en forholdsmessig andel av fellesområder, overstiger 50 prosent av eiendommens samlede areal. Det ses bort fra grunnareal (tomt) etter forrige punktum der bygningene utgjør eiendommens hovedfunksjon.
+(2) Næringseiendom som ikke verdsettes etter første ledd, verdsettes som ikke-utleid næringseiendom etter § 4-10-4 til § 4-10-9.
+(3) Næringseiendom verdsettes ikke etter første og annet ledd dersom eiendommen i sin helhet eies av aksjeselskap eller allmennaksjeselskap som er fritatt fra oppgaveplikt etter § 4-12-5 første ledd annet og tredje punktum. Ikke-utleid næringseiendom i utlandet verdsettes ikke etter annet ledd.

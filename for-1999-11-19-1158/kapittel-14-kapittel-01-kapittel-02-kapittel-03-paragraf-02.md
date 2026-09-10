@@ -1,0 +1,2 @@
+# § 14-5-21. Ikke-konvertibel valuta
+Urealisert tap eller gevinst på langsiktig fordrings- eller gjeldspost i ikke-konvertibel fremmed valuta skal føres til omvurderingskontoen dersom skattyter konsekvent gjennomfører dette for alle fordrings- og gjeldsposter i samme ikke-konvertible valuta. Urealisert tap eller gevinst som i henhold til første punktum ikke føres til omvurderingskontoen, kan ikke utgifts- eller inntektsføres med virkning for fastsettingen av skatt.

@@ -1,0 +1,9 @@
+# § 6-47-40. Premiefond
+(1) Midler i premiefond kan bare nyttes til hel eller delvis dekning av årets premie, med mindre annet følger av bestemmelsene i denne paragraf.
+(2) Hvis det er midler i premiefondet og rettighetshaver tilstås uførepensjon fra folketrygden på grunnlag av minst 75 prosent ervervsuførhet, kan det avtales at innestående midler utbetales som uførepensjon etter en fast plan, i den utstrekning premiefondet er mer enn tilstrekkelig til å dekke premie for den gjenstående del av rettighetshavers forpliktelser, og i tilfelle med anvendelse av selskapets beregningsgrunnlag. Slik uførepensjon kan ikke settes høyere enn alderspensjonen.
+(3) Hvis det er midler i premiefondet når rettighetshaver når pensjonsalder, skal midlene benyttes til økning av ytelser som nevnt i § 6-47 del II, III og IV. Ytelsene skal beregnes etter en fast plan, og med anvendelse av selskapets forsikringstekniske beregningsgrunnlag.
+(4) Hvis det er midler i premiefondet ved rettighetshavers død, og pensjonsforsikringsavtalen gir rett til ytelser som nevnt i § 6-47 del III, skal midlene anvendes til forholdsmessig økning av disse ytelsene. Dersom pensjonsforsikringsavtalen ikke gir rett til ytelser som nevnt i § 6-47 del III, skal midlene likevel anvendes til slike ytelser, i følgende prioritetsrekkefølge:
+a) Ytelser som nevnt i § 6-47-15 dersom rettighetshaver har etterlatt ektefelle, registrert partner eller samboer.
+b) Ytelser som nevnt i § 6-47-16 dersom rettighetshaver har etterlatt barn, stebarn eller fosterbarn under 21 år.
+c) Ytelser som nevnt i § 6-47-17 dersom rettighetshaver har annen etterlatt livsarving.
+Hvis rettighetshaver ikke har etterlatte som er eller kunne ha vært sikret ytelser som nevnt i § 6-47 del III, skal midlene i premiefondet behandles på samme måte som forsikringsmidler for øvrig.

@@ -1,0 +1,3 @@
+# § 10-21-2. Tilbyders informasjonsplikt
+Før avtalen om aksjesparekonto inngås, skal tilbyder gi kontohaver opplysninger om hvilke midler som kan inngå på kontoen, relevante skatteregler og kostnader knyttet til kontoen. Tilbyder skal også opplyse om at det ikke løper renter på innestående kontanter på kontoen, og om forholdet til innskuddsgarantiordningen.
+Tilbyder skal minimum to ganger i året gi kontohaver periodisk informasjon om beholdningen av finansielle instrumenter og kontanter på aksjesparekontoen. Kontoutskriften skal også gi informasjon om kontohavers samlede innskudd på kontoen. Dersom det er kontanter på kontoen, skal det gjøres særlig oppmerksom på at det ikke påløper renter på kontantbeholdningen.

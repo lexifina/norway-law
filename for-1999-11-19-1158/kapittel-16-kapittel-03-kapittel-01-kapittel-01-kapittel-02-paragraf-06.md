@@ -1,0 +1,3 @@
+# § 16-29-7. Beregnet personinntekt fra utenlandsk aksjeselskap
+(1) Skattyter som tilordnes beregnet personinntekt fra utenlandsk aksjeselskap kan, som et alternativ til å la denne inntekten inngå i globalinntekten i tilordningsåret ved beregning av det maksimale skattefradrag, velge å tilordne denne inntekten til foregående års globalinntekt og foreta ny beregning av det maksimale skattefradraget for foregående år. Differansen mellom det foregående års korrigerte skattefradrag og det skattefradraget som er gitt ved det foregående års skattefastsetting, kan fradras i årets skatt.
+(2) Skattyter må overfor skattemyndighetene fremme krav om å få beregnet skattefradraget som angitt i første ledd. Slikt krav må fremmes til samme tid som kravet om skattefradrag fremmes.

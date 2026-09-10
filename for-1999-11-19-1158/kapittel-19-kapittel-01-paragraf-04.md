@@ -1,0 +1,3 @@
+# § 19-5-4. Forberedende saksbehandling
+(1) Grunnrenteskattepliktig etter skatteloven § 19-2 kan innen fire uker etter hvert kvartal gi uttalelse om skatteavregningspriser for vedkommende kvartal. Prisrådet kan også innkalle de skattepliktige til drøfting og innhenting av ytterligere opplysninger.
+(2) Prisrådet skal deretter, enten skriftlig eller i møte med de berørte grunnrenteskattepliktige, gi en foreløpig vurdering av prisingsspørsmålet. Etter at de foreløpige vurderinger er kunngjort for de berørte grunnrenteskattepliktige, kan disse avgi uttalelse innen to uker. Når prisrådet finner grunn til det, kan det settes lengre frister for uttalelse.

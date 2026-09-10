@@ -1,0 +1,2 @@
+# § 11-21-7. Sikkerhetsstillelse for skatt
+Ved overføring av eiendeler mot vederlag, enten dette ytes i form av aksjer i det mottakende selskap, kontantbeløp, gjeldsovertakelse, fordring på restkjøpesum eller annet, som overstiger fastsatt inngangsverdi av det overførte, må det mottakende selskap stille sikkerhet for skatt som vil kunne fastsettes på gevinst ved senere realisasjon av eiendelene. Kravet til sikkerhetsstillelse og dens varighet fastsettes av skattekontoret etter nærmere bestemmelser.

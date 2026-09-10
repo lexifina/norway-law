@@ -1,0 +1,4 @@
+# § 6-47-25. Oppnevning av begunstiget mv.
+(1) Rettighetshaver kan i pensjonsforsikringsavtale oppnevne begunstiget i samsvar med bestemmelsene i § 6-47 del III. Rettighetshaver kan i pensjonsspareavtale oppnevne begunstiget i samsvar med bestemmelsene i § 6-47-15 og § 6-47-17. Den eller de personer som er begunstiget, skal navngis i pensjonsavtalen. En begunstigets rett til ytelser kan gjøres betinget av at annen begunstigets rett til ytelser har bortfalt (subsidiær oppnevning).
+(2) Bestemmelsen i § 6-47-5 er ikke til hinder for at oppnevning av begunstiget og begunstigedes rett til ytelser kan omgjøres. For pensjonsspareavtaler gjelder forsikringsavtaleloven § 15-2 tilsvarende.
+(3) Dersom en pensjonsspareavtale ikke inneholder navngitt begunstiget, skal gjenværende pensjonsformue ved rettighetshavers død utbetales som et engangsbeløp til boet. Bestemmelsen gjelder tilsvarende hvis navngitte begunstigede ikke lenger er i live.

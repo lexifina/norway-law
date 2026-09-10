@@ -1,0 +1,3 @@
+# § 10-68-2. Gevinst og tap ved realisasjon av aksje
+(1) Ved skattepliktig realisasjon av aksje skal inngangsverdien opp- eller nedreguleres med aksjens forholdsmessige andel av endringen i tilbakeholdt overskudd i selskapet. Regulering av inngangsverdi skal skje gjennom eiertiden for de år deltakeren har blitt løpende beskattet etter regelen i skatteloven § 10-60 flg. om skattlegging av eiere av norsk-kontrollerte selskaper mv. hjemmehørende i lavskatteland.
+(2) Reguleringen skjer ved at tilbakeholdt beskattet inntekt for selskapet fastsettes først, jf. § 10-68-3 og at individuelle korreksjoner deretter foretas for den enkelte deltaker, jf. § 10-68-4.

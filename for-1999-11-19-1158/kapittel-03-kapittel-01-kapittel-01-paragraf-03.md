@@ -1,0 +1,10 @@
+# § 3-1-3. Enslige pendlere
+(1) Som enslig regnes person som ikke går inn under § 3-1-2.
+(2) Enslig som pendler mellom foreldrehjem og annen bolig, anses bosatt i foreldrehjemmet. Fyller personen 22 år eller mer i inntektsåret, og den andre boligen er selvstendig etter § 3-1-4, anses vedkommende likevel som bosatt i den selvstendige boligen.
+(3) Enslig som har overveiende døgnhvile i annen bolig enn foreldrehjemmet, kan kreve å bli registrert som bosatt i denne boligen. Kravet må fremsettes før 1. januar i inntektsåret. Slik registrering kan ikke omgjøres så lenge boligsituasjonen mv. i det vesentlige er uforandret.
+(4) Med foreldrehjem forstås det skattemessige bostedet til foreldre eller andre som personen har vokst opp hos. Kan flere boliger regnes som foreldrehjem for personen, gjelder døgnhvileregelen i § 3-1-1 andre ledd i forholdet mellom disse.
+(5) Skattyter som tar til å pendle fra en kommune der han har vært bosatt i minst tre år da pendlingen tar til, til en bolig i en annen kommune, kan kreve å forbli registrert som bosatt i den første kommunen, dersom
+- boligen på det opprinnelige bostedet har minst dobbelt så stort areal av primærrom som den andre boligen, og
+- skattyter eier den første boligen eller har utgifter til leie av denne. Skattyter som har benyttet en eiendom som bolig mot å dekke driftskostnadene, likestilles med skattyter som tar til å pendle fra en eid eller leid bolig dersom skattyter er nær slektning av eiendommens eier eller er mottaker etter en føderådskontrakt.
+Bolig i boenhet der det bor flere, anses å ha som areal av primærrom boenhetens totale areal av primærrom delt på antallet beboere i boenheten som er over 15 år. § 3-1-4 andre og tredje ledd gjelder så langt de passer.
+(6) I andre tilfeller enn som nevnt i første til femte ledd skal enslig som pendler mellom to eller flere boliger, anses å ha sitt hjem i den av boligene som er selvstendig, jf. § 3-1-4. Ved pendling mellom selvstendige boliger, eller kun mellom uselvstendige boliger, gjelder døgnhvileregelen i § 3-1-1 andre ledd, dersom ikke den enslige krever noe annet på grunnlag av femte ledd.

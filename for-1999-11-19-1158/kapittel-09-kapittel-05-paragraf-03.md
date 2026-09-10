@@ -1,0 +1,5 @@
+# § 9-14-3. Utsettelse med innbetaling av fastsatt skatt
+(1) Utsettelse med innbetaling av fastsatt skatt etter skatteloven § 9-14 niende ledd er betinget av at det leveres oppgave over eiendeler og forpliktelser som nevnt i skatteloven § 9-14 tredje ledd a til c, med beregning av gevinst, sammen med skattemeldingen for det år gevinsten er innvunnet, jf. skatteloven § 9-14 første ledd første punktum.
+(2) Fortsatt utsettelse med innbetaling av skatten er betinget av at det sammen med skattemeldingen i hvert av de påfølgende år etter skattefastsettingsåret dokumenteres at eiendel eller forpliktelse som nevnt er i behold, og hvor skattyteren har sitt skattemessige bosted. For skattyter som ikke skal levere skattemelding er fristen 31. mai.
+(3) Sikkerhetsstillelsen skal svare til skatteforpliktelsen, og kan skje i form av bankgaranti, pant i verdipapirer eller annen betryggende sikkerhet. Kravet til sikkerhetsstillelse og dens varighet fastsettes av Skattedirektoratet.
+(4) Når rett til utsettelse med innbetaling av skatten ikke lenger foreligger, skal skattyteren innen to måneder informere skattekontoret om den betalingsutløsende hendelsen.

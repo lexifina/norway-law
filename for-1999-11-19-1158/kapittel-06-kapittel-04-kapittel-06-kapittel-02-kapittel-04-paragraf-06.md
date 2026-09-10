@@ -1,0 +1,2 @@
+# § 6-47-42. Forsikringsteknisk omregning av pensjon ved avtaleendring
+Ved endring av pensjonsforsikringsavtale som nevnt i § 6-47-6 annet ledd, § 6-47-12 femte ledd og § 6-47-14, skal pensjonen omregnes på forsikringsteknisk grunnlag og med anvendelse av beregningsgrunnlaget som gjelder for forsikringen. Ved slik avtaleendring kan forsikringsselskapet beregne et fradrag i de forsikringstekniske avsetningene som står i forhold til endring i risiko. Som grunnlag for slik beregning kan selskapet kreve at det framlegges legeerklæring på tidspunktet for avtaleendring.

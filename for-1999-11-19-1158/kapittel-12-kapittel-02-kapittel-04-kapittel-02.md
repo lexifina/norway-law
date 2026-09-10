@@ -1,0 +1,1 @@
+# II. Verdsettelse av skjermingsgrunnlaget

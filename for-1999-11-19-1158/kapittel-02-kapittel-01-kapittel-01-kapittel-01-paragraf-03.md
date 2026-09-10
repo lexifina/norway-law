@@ -1,0 +1,3 @@
+# § 2-1-3. Arbeidsopphold
+(1) Med arbeidsopphold menes opphold hvor hovedformålet er å utføre personlige tjenester av økonomisk karakter i eller utenfor et tjenesteforhold, men ikke som ledd i virksomhet. Utenlandsopphold hvor personen arbeider mindre enn femti prosent av full stilling, anses ikke som arbeidsopphold.
+(2) Opphold hvor personen mottar ytelser som nevnt i § 2-1-1 bokstavene a-c anses også som arbeidsopphold. Det gjelder likevel ikke dersom personen på det tidspunkt vedkommende tok arbeidsopphold utenfor riket visste eller burde ha visst at vilkårene for ytelser som nevnt i § 2-1-1 bokstavene a-c var oppfylt eller ville bli oppfylt i løpet av oppholdet.

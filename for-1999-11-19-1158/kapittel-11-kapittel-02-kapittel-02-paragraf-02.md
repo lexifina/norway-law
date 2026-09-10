@@ -1,0 +1,3 @@
+# § 11-21-2. Hovedregel
+(1) Eiendeler mv. kan overføres mellom selskaper som nevnt i § 11-21-1 første og annet ledd og som nevnt i tredje ledd, uten at det utløser beskatning for det overdragende selskapet. Overføringen gjennomføres etter bestemmelsene i § 11-21-3 til § 11-21-8. Overføring kan også skje til datterselskap som nevnt i § 11-21-1 som stiftes i forbindelse med overføringen.
+(2) Skattefritaket etter første ledd er betinget av at det mottakende selskapet forblir en del av konsernet slik dette er definert i § 11-21-1, også etter at overføringen av eiendeler er gjennomført. Ved brudd på vilkåret i år etter overføringsåret gjelder § 11-21-10.

@@ -1,0 +1,7 @@
+# § 14-3-12. Bonus til flyvere i Luftforsvaret – etterskuddsbetaling
+(1) Bonus i form av engangsbeløp som flyvere i henhold til personlig tjenestekontrakt med Luftforsvaret skal ha utbetalt ved kontrakttidens utløp, skal skattlegges i utbetalingsåret. Skatten beregnes til det beløp den ville ha utgjort dersom bonusen var blitt tillagt inntekten det enkelte kontraktsår med et forholdsmessig beløp.
+(2) Luftforsvaret skal
+a) opplyse skattemyndighetene om at kontrakt som nevnt i første ledd er inngått, kontrakttidens lengde og bonusbeløpets størrelse. Denne informasjonen gis sammen med flyverens lønnsoppgave for det året tjenestekontrakten er inngått. På tilsvarende måte skal det gis melding om eventuell endring/avbrytelse av kontrakten,
+b) hvert år innhente oppgave fra skattemyndighetene over beregnet skatt som ville blitt fastsatt på den forholdsmessige andel av bonusen, jf. tredje ledd,
+c) ved utbetaling av bonusen foreta et trekk basert på summen av oppgaver innhentet i medhold av b over beregnet skatt. Har flyveren vært skattepliktig til flere kommuner i tjenestekontraktstiden, fordeles trekkbeløpet på disse i henhold til oppgaver innhentet i medhold av b.
+(3) Skattemyndighetene skal på bakgrunn av opplysningene som Luftforsvaret plikter å gi etter annet ledd, hvert år beregne den skatten som ville blitt fastsatt på bonusen dersom denne var tillagt inntekten det enkelte år i kontrakttiden med et like stort beløp. Melding om skatteberegningen sendes Luftforsvaret

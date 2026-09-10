@@ -1,0 +1,2 @@
+# § 6-13-11. Fradragsvilkår
+Vilkåret for fradrag for merutgifter til kost, losji og besøksreiser til hjem i en annen stat er at skattyteren har sitt virkelige hjem i en annen stat og pendler mellom dette hjemmet og norsk sokkel, jf. lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster § 1, eller mellom dette hjemmet og norsk bolig etter de kriteriene som følger av skatteloven § 3-1 femte til niende ledd.

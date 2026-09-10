@@ -1,0 +1,2 @@
+# § 18-3-5. Forbruk eller produksjon av kraft i konsern
+Skattyter kan kreve at kraft som produseres eller forbrukes i produksjonsvirksomhet i selskap i samme konsern som skattyter, jf. skatteloven § 10-4, likestilles med kraft som produseres eller forbrukes i skattyters egen produksjonsvirksomhet i forhold til disse bestemmelsene, jf. denne forskrift § 18-3-10, § 18-3-11, § 18-3-13 første ledd a og c og § 18-3-14.

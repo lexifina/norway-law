@@ -1,0 +1,4 @@
+# § 6-60-1. Arbeidsinntekt av fiske eller fangst
+(1) Som arbeidsinntekt av fisket eller fangsten etter skatteloven § 6-60 første ledd regnes også lott eller part som er vederlag for arbeid eller for bruken av redskap som skattyter holder, jf. skattebetalingsloven § 5-6 første ledd bokstav c første punktum. Dessuten medregnes verdien av fisk til eget bruk etter takseringsregler fastsatt av Skattedirektoratet.
+(2) Ved beregningen av netto arbeidsinntekt av fisket eller fangsten etter skatteloven § 6-60 første ledd gjøres det ikke fradrag for skattyters kostnader til trygdepremier, personlig utstyr som arbeidsklær og lignende samt reisekostnader eller eventuelle merkostnader ved opphold utenfor hjemmet.
+(3) Minstefradrag kommer ikke til fradrag ved beregningen av netto arbeidsinntekt etter skatteloven § 6-60 første ledd.

@@ -1,0 +1,2 @@
+# § 6-50-4. Kontrollopplysninger fra organisasjonene
+Organisasjonene skal etter krav fra departementet gi opplysninger som kan ha betydning for en utelukkelsesvurdering. Departementet kan kreve at organisasjonene dokumenterer opplysningene ved for eksempel å gi innsyn i, legge fram, sammenstille, utlevere eller sende inn regnskapsmateriale med bilag, kontrakter, korrespondanse, styreprotokoller, elektroniske programmer og programsystemer.

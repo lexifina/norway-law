@@ -1,0 +1,3 @@
+# § 6-47-43. Terminbeløp
+(1) Alderspensjon og ytelser som nevnt i § 6-47 del III skal utbetales i terminer av høyst ett års varighet.
+(2) Er ikke ytelsene garanterte i utbetalingsperioden, skal den terminvise utbetaling ikke utgjøre et større beløp enn avtalens verdi på utbetalingstidspunktet dividert på gjenstående antall terminer, inklusive den aktuelle termin. Ved beregning av gjenværende utbetalingsperiode for alderspensjonen kan det tas utgangspunkt i at alderspensjonen skal løpe i det minimum antall år som er fastsatt i lov eller i medhold av lov. Er det avtalt at alderspensjonen skal settes ned fra fylte 67 år, jf. § 6-47-12, kan det tas hensyn til dette ved beregning av største terminvise utbetaling.

@@ -1,0 +1,3 @@
+# § 5-20-11. Skattetrekk og oppgjør ved utbetaling av forsikringen
+(1) Dersom forsikringstakeren har bedt om at det skal foretas trekk i henhold til § 5-20-9, skal selskapet ved utbetaling av forsikringen foreta skattetrekk av forventet avkastning i utbetalingsåret, og av foregående års beregnet eller forventet avkastning når trekk ikke allerede er foretatt. Trekket beregnes etter § 5-20-10.
+(2) Når forsikringssummen utbetales ved forsikringens opphør, skal det gjøres fradrag for saldoen på skattetrekkskontoen. Forsikringstakeren er uten ansvar overfor selskapet for skattetrekkbeløp som ikke kan dekkes på denne måte.

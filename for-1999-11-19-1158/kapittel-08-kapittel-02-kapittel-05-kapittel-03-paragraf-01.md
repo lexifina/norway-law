@@ -1,0 +1,2 @@
+# § 8-20-20. Fastsetting av inngangsverdi ved gevinstberegning
+Ved beskatning etter del X åttende ledd annet og tredje punktum i lov 14. desember 2007 nr. 107 om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) skal inngangsverdien ved gevinstberegningen utgjøres av den verdien som er lagt til grunn ved inntredenbeskatningen, justert for inn- og utbetalinger i selskapet etter inntreden.

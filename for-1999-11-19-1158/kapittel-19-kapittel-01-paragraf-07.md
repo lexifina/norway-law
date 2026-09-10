@@ -1,0 +1,2 @@
+# § 19-5-7. Klage
+Prisrådets vedtak om skatteavregningspris kan påklages til Fiskeridirektoratet. Klage må være innkommet til prisrådet for havbruk innen 30 dager etter at vedtaket er fattet. De øvrige parter skal uten ugrunnet opphold underrettes om klagen og ha anledning til å slutte seg til klagesaken, selv om de ikke har påklaget vedtaket innen fristens utløp. § 19-5-5 gjelder tilsvarende. Fiskeridirektoratet kan ikke instrueres, verken generelt eller i enkeltsaker, når det behandler klager på prisrådets vedtak.

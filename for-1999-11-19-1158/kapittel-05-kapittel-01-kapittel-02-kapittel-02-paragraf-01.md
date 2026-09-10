@@ -1,0 +1,2 @@
+# § 5-12-10. Kost, losji og transport mellom bolig på arbeidsstedet og annen bolig
+Fordel som består i helt eller delvis fri kost, losji eller transport mellom bolig på arbeidsstedet og annen bolig for arbeidstaker som ikke er pendler og arbeidstaker som får standardfradrag for utenlandsk arbeidstaker, er skattepliktig så langt ikke skattefritak følger av § 5-15. Tilsvarende gjelder for arbeidstaker som er pendler og som skattlegges etter særreglene om skattlegging av utenlandske arbeidstakere i skatteloven kapittel 20.

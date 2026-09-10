@@ -1,0 +1,3 @@
+# § 5-15-13. Særlig om intern utdanning
+(1) Er vilkårene i § 5-15-12 oppfylt, regnes ytelse i form av intern utdanning som skattefri.
+(2) En utdanning anses som intern dersom den arrangeres av arbeidsgiver og i det alt vesentligste bare tilbys til arbeidstakere hos arbeidsgiver. Utdanning arrangert av annet foretak enn det arbeidstaker er ansatt i skal anses arrangert av arbeidsgiver dersom vilkårene i forskrift av 4. desember 1997 nr. 1255 § 3 er oppfylt. For ansatte i kommuner og fylkeskommuner anses utdanning som er arrangert av den kommune eller fylkeskommune vedkommende er ansatt i som arrangert av arbeidsgiver. For ansatte i staten anses utdanning arrangert av enhet underlagt samme departement som den enhet vedkommende er ansatt i, som arrangert av arbeidsgiver.

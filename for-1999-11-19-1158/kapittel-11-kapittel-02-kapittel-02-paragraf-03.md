@@ -1,0 +1,2 @@
+# § 11-21-3. Inngangsverdier, avskrivningsgrunnlag og ervervstidspunkt på det mottakende selskaps hånd
+Inngangsverdier og avskrivningsgrunnlag ved skattefastsettingen settes på det mottakende selskaps hånd lik verdien ved skattefastsettingen hos det overdragende selskap på overføringstidspunktet. Overførte eiendeler anses ervervet av det mottakende selskap på det ervervstidspunkt som ville gjelde på det overdragende selskaps hånd.

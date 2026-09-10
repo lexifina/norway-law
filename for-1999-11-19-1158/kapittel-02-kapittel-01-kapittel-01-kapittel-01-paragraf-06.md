@@ -1,0 +1,5 @@
+# § 2-1-6. Utvidet opphold i riket som følge av upåregnelige forhold som verken personen eller dennes arbeidsgiver rår over
+(1) I tillegg til opphold som nevnt i § 2-1-5, opptjener personen rett til å oppholde seg i riket under utlandsoppholdet i inntil tre dager for hver hele måned vedkommende har hatt arbeidsopphold utenfor riket i inntektsåret, hvis oppholdet i riket skyldes forhold som var upåregnelige da arbeidsoppholdet ble påbegynt og som verken personen eller dennes arbeidsgiver rår over.
+(2) Ved beregningen av oppholdsdager i riket, regnes ethvert døgn eller del av døgn som en dag.
+(3) Retten til utvidet opphold i riket bortfaller uansett når personens opphold i riket ikke lenger skyldes upåregnelige forhold som verken personen eller dennes arbeidsgiver rår over.
+(4) Med upåregnelige forhold menes hendelser, inngrep eller hindringer som ikke med rimelighet kunne tas i betraktning da arbeidsoppholdet ble påbegynt. Dette omfatter ytre begivenheter som krig, uro, stengte grenser, naturkatastrofer, samt egen alvorlig sykdom eller alvorlig sykdom hos personens ektefelle, samboer, mindreårige barn eller foreldre.

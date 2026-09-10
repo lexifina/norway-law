@@ -1,0 +1,1 @@
+# Skipsaksjeselskaper og skipsallmennaksjeselskaper

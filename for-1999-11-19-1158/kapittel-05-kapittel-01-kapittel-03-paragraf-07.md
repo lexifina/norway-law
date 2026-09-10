@@ -1,0 +1,2 @@
+# § 5-13-7. Skifte av bil
+Skiftes den bil som brukes privat i løpet av året med en bil med en annen listepris, skal fordelsfastsettelsen fordeles mellom bilene etter hele kalendermåneder. For den kalendermåned bilskiftet skjer skal fordelen beregnes bare på grunnlag av listeprisen til den bil som skattyter disponerte på det vanlige tidspunkt for siste trekkberegning i vedkommende måned, som om skattyter har disponert bilen hele måneden.

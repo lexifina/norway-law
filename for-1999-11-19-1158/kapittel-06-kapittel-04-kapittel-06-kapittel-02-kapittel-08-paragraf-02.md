@@ -1,0 +1,3 @@
+# § 6-47-53. Rett til å inngå ny forsikringsavtale
+(1) Rettighetshaver etter en avtale om fortsettelsesforsikring skal ha rett til å inngå ny avtale på tilsvarende vilkår og med rett til samme ytelser som den eksisterende forsikringsavtalen uten å gi nye helseopplysninger. Gebyr ved etablering av ny avtale kan ikke settes høyere enn maksimalt tillatt gebyr ved flytting av individuell livsforsikringsavtale.
+(2) Rettighetshaver som vil benytte adgangen til å inngå ny avtale etter første ledd, må sende skriftlig melding om dette til selskapet innen 30. juni 2009, jf. lov om individuell pensjonsordning § 5-1 fjerde ledd. Dersom denne retten benyttes, er det ikke tillatt å foreta innbetaling på den opprinnelige avtalen.

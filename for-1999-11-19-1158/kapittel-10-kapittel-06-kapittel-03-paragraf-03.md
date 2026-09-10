@@ -1,0 +1,2 @@
+# § 10-70-3. Opphør av betalingsutsettelse ved uttak fra aksjesparekonto
+Ved uttak ut over tilbakebetaling av innskudd på aksjesparekonto som inngår i fastsatt utflyttingsskatt, bortfaller utsettelsesadgangen for en forholdsmessig del av utflyttingsskattekravet, jf. skatteloven § 10-70 åttende ledd tredje punktum. Som forholdsmessig del anses uttaket som nevnt i første punktum dividert med grunnlaget for fastsetting av utflyttingsskatten. Skattyteren skal gi opplysninger om slikt uttak til skattemyndighetene innen to måneder etter uttaket.

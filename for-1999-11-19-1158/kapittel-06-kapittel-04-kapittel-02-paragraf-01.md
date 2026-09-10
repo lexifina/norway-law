@@ -1,0 +1,4 @@
+# § 6-41-1. Terskelbeløpet for den norske delen av konsernet
+(1) Med den norske delen av konsernet i skatteloven § 6-41 fjerde ledd annet punktum menes selskap mv. som i utgående balanse i et konsernregnskap for inntektsåret kunne ha vært konsolidert linje for linje dersom IFRS hadde vært anvendt, for så vidt de på noe tidspunkt i løpet av inntektsåret er skattepliktige til Norge.
+(2) Hvis selskap mv. i konsern, jf. skatteloven § 6-41 femte ledd, ved utgangen av inntektsåret ikke kunne ha vært konsolidert i et konsernregnskap som nevnt i første ledd, gjelder terskelbeløpet i skatteloven § 6-41 fjerde ledd annet punktum for det enkelte selskapet mv.
+(3) Selskap mv. som nevnt i skatteloven § 6-41 ellevte og tolvte ledd skal ikke medregnes i den norske delen av konsernet etter skatteloven § 6-41 fjerde ledd annet punktum.

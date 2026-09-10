@@ -1,0 +1,3 @@
+# § 18-10-15. Inngangsverdi for investeringer før inntektsåret 2024
+(1) I særlig beregnet selskapsskatt skal inngangsverdien for driftsmidler fastsatt etter skatteloven § 18-10 tredje ledd bokstav a nr. 3 c, avskrives etter skattelovens alminnelige regler. Ved oppjustering av avskrivningsgrunnlaget etter c og hvor samlet inngangsverdi overstiger 85 pst. av anskaffelsesverdien, skal tilsvarende reduksjon gjøres i inngangsverdiene for beregnet selskapsskatt. Reduksjonen fordeles da etter verdien i de ulike avskrivningsgruppene, som andel av samlet inngangsverdi for avskrivningsgruppene.
+(2) Aktiverte driftsmidler som ikke er avskrivbare, er ikke omfattet av skatteloven § 18-10 tredje ledd bokstav a nr. 3 c.

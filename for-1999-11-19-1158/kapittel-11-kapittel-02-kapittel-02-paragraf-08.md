@@ -1,0 +1,2 @@
+# § 11-21-8. Oppgaver til skattemyndighetene
+Redegjørelse for overføringen med krav om anvendelse av forskriften, herunder oppstilling som viser vederlag, inngangsverdi og de beregninger som er lagt til grunn for eventuell deling i henhold til § 11-21-4, må vedlegges selskapenes skattemeldinger for det år overføringen finner sted. Medfører overføringen utvidelse av det mottakende selskaps aksjekapital, må dessuten oppgave over selskapets samlede innbetalte aksjekapital i relasjon til skatteloven § 10-11 annet ledd vedlegges.

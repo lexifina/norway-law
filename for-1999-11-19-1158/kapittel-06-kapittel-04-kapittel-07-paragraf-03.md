@@ -1,0 +1,5 @@
+# § 6-50-3. Krav til regnskap, revisjon, maskinell innberetning og registrering i Enhetsregisteret
+(1) Selskapets, stiftelsens eller sammenslutningens sentrale ledd skal føre ett samlet regnskap over mottatte gaver. Regnskapet skal være revidert av revisor, og vise at verdier tilsvarende de mottatte gaver er brukt eller satt av til et godkjent formål som nevnt i skatteloven § 6-50 første ledd. Kravet til revisjon gjelder bare hvis summen av de mottatte gaver overstiger 10 000 kroner i året.
+(2) Selskapets, stiftelsens eller sammenslutningens sentrale ledd skal gi de nødvendige opplysninger til Skattedirektoratet innen fastsatte frister, jf. skatteforvaltningsloven § 7-10 bokstav c.
+(3) Selskapet, stiftelsen, sammenslutningen, herunder tros- og livssynssamfunn må være registrert i Enhetsregisteret på innberetningstidspunktet. Registrering må være skjedd før det gis forhåndsuttalelse om at organisasjonen faller inn under ordningen.
+(4) Første ledd første punktum og annet ledd gjelder tilsvarende for Den norske kirke.

@@ -1,0 +1,2 @@
+# § 7-3-13. Fordeling etter husleiebrøk
+Ved fordeling etter husleiebrøk fordeles alle inntekts- og formuespostene unntatt formuesverdien av boenhet omfattet av skatteloven § 4-10 annet ledd, på andelshaverne etter forholdet mellom påløpt husleie for den enkelte boenhet i året og påløpt husleie for samtlige boenheter for andelshaverne i året. Som påført husleie for samtlige boenheter regnes også beregnet husleie i året for boenheter som er pålagt brukt som bolig for andelshaverne, men som ikke er ferdigstilt eller solgt.

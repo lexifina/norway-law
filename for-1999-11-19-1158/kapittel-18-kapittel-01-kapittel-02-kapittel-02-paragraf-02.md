@@ -1,0 +1,2 @@
+# § 18-3-9. Særlig om plikt til måling av pumpekraft
+Skattyter har plikt til å måle kraft medgått til pumping i hvert tidsavsnitt for pumper og pumpestasjoner med merkeytelse over 10.000 kVA. For øvrige pumper og pumpestasjoner legges det til grunn at pumpingen skjer jevnt i tidsavsnittene i de perioder pumpen faktisk har vært i drift. Hvis det ikke kan dokumenteres hvilke perioder pumpen har vært i drift, fastsettes driftsperioden ved skjønn.

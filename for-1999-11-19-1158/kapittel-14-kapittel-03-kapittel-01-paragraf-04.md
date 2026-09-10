@@ -1,0 +1,2 @@
+# § 14-62-4. Avskrivning for del av et år
+For inntaks- og uttaksår fastsettes avskrivning forholdsmessig for det antall dager avskrivninger gjelder. For anskaffelsesåret fastsettes beregnede avskrivninger forholdsmessig for det antall dager skattyteren har vært eier av driftsmidlet. Dersom skattyteren ikke kan dokumentere anskaffelsestidspunktet, anses et driftsmiddel som anskaffet 1. januar i anskaffelsesåret.

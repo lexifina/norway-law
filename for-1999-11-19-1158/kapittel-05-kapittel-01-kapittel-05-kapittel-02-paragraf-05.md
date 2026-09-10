@@ -1,0 +1,6 @@
+# § 5-15-14. Særlig om annen utdanning
+(1) Er vilkårene i § 5-15-12 oppfylt, regnes utdanning som ikke omfattes av § 5-15-13 som skattefri etter reglene i denne paragraf.
+(2) Ytelsen regnes som skattefri dersom utdanningen er beregnet til normalt å skulle gjennomføres på inntil fire semester, maksimalt 20 måneder, ved full tids studium mv. Er utdanningen beregnet til normalt å skulle gjennomføres på mer enn 20 måneder ved full tids studium mv., begrenses skattefritaket til ytelser for de første 20 måneder av utdanningen som dekkes. Arbeidsgivers dekning av flere, kortere, uavhengige kurs mv., anses som skattefri selv om disse til sammen har en varighet på over 20 måneder. Kurs som bygger på hverandre, eller som alene eller sammen med andre kurs kan lede til en grad, regnes ikke som uavhengige.
+(3) For kurs med varighet over to måneder, er det et vilkår for skattefritaket etter denne paragraf at arbeidstakeren har arbeidet i heltidsstilling hos arbeidsgiver i minst ett år ved oppstart av utdanningen. Ved deltidsstilling forlenges kravet om arbeidsperiode forholdsmessig.
+(4) Skattefritaket gjelder uavhengig av om arbeidstakeren har fått dekket utdanning hos tidligere arbeidsgiver.
+(5) For vurderingen av hvem som er skattyters arbeidsgiver gjelder bestemmelsene i § 5-15-13 annet ledd annet til fjerde punktum tilsvarende.

@@ -1,0 +1,4 @@
+# § 6-44-4. Fradrag for kostnader til ferge og bom
+(1) Det gis fradrag for kostnader til ferge og bom dersom kostnadene overstiger 3.300 kroner i året. Fradrag for kostnader til ferge gis som alternativ til fradrag etter standardsatsen for reiseavstand med ferge.
+(2) Fradrag for kostnader etter foregående ledd forutsetter at bruk av egen bil er nødvendig. Bruk av egen bil anses som nødvendig i forhold til fradragsrett etter første ledd, når det fører til minst to timer kortere reise- og ventetid regnet under ett for hver gang skattyteren reiser hjemmefra til vedkommende kommer hjem igjen, sammenlignet med bruk av rutegående transportmiddel på samme og på alternativ reisestrekning. Har skattyteren flere slike reiser samme dag, gjelder vilkåret om to timer kortere reisetid for hver reise.
+(3) Kostnadene dokumenteres med kvittering. Rimeligste billettalternativ legges til grunn.

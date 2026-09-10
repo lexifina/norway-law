@@ -1,0 +1,4 @@
+# § 14-5-11. Ny virksomhet
+(1) Ved vurderingen av om det foreligger ny virksomhet som nevnt i skatteloven § 14-5 fjerde ledd d i en tidligere etablert virksomhet, skal det blant annet legges vekt på hvorvidt det har skjedd vesentlige endringer med hensyn til arten av varer og tjenester som produseres og omsettes, kundekrets, produksjonsmetoder, omløps- og anleggsmidler.
+(2) Det foreligger ikke ny virksomhet når en tidligere drevet virksomhet i det vesentligste drives videre i nyetablert virksomhet med samme eiere. Tilsvarende gjelder virksomhet som i det vesentlige videreføres etter en omdannelse eller omorganisering, for eksempel ved fusjon eller fisjon av selskaper eller etter konkurs.
+(3) Når virksomheten anses for å være en videreføring av tidligere drevet virksomhet, kan nedskrivning skje etter skatteloven § 14-5 fjerde ledd b og c. Beregning av nedskrivningsbeløp skjer på grunnlag av den tidligere virksomhetens erfaringsmateriale.

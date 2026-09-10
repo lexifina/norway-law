@@ -1,0 +1,3 @@
+# § 10-68-3. Foreløpig beregning av tilbakeholdt beskattet inntekt for selskapet
+(1) Endring i selskapets beskattede inntekt for det enkelte år beregnes på grunnlag av selskapets skattepliktige overskudd i inntektsåret, beregnet i samsvar med skatteloven § 10-65. Ved skattemessig underskudd i inntektsåret, settes årets skattepliktige overskudd til kroner 0,-. Overskuddet reduseres med avsatt utbytte, utbetalt utbytte som ikke er kommet til fradrag tidligere år og betalt selskapsskatt i utlandet.
+(2) Endring i det norsk-kontrollerte utenlandske selskapets tilbakeholdte beskattede kapital fordeles på aksjene i selskapet etter pålydende.

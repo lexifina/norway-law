@@ -1,0 +1,4 @@
+# § 5-20-9. Selskapets plikt til å trekke skatt
+(1) Selskapet skal foreta årlig skattetrekk til dekning av forsikringstakerens inntektsskatt av skattepliktig årsavkastning i det foregående år, jf. skattebetalingsloven § 5-4 og § 5-6. Krav om skattetrekk gjelder inntil ny foreholdsordre er gitt.
+(2) Selskapet skal føre egen skattetrekkskonto for hver forsikring. Trekkbeløp forrentes etter selskapets gjennomsnittsrente som beregnet etter tredje ledd, og føres til fradrag ved beregning av årsavkastningen.
+(3) Selskapet skal for hvert år beregne avkastningen ved forvaltningen av dets midler i form av en gjennomsnittsrente. Beregningen skal godkjennes av Finanstilsynet. Finanstilsynet kan fastsette slike retningslinjer ved forskrift eller gi et selskap pålegg om hvordan beregningen skal utføres.

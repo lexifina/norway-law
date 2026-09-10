@@ -1,0 +1,3 @@
+# § 5-12-30. Virkeområde mv.
+Bestemmelsene i denne forskrift § 5-12 D gjelder verdsettelse av skattepliktig fordel for arbeidstaker som disponerer fri eller subsidiert bolig i utlandet. Skattebetalingsforskriften av 21. desember 2007 nr. 1766 § 5-8 kapittel C gjelder ikke, med mindre verdsettelsen skal skje etter bestemmelsen i § 5-12-31 første ledd annet punktum.
+Fordel av fri eller subsidiert bolig i utlandet skal fastsettes til den laveste av verdiene fastsatt i samsvar med § 5-12-31 om individuell verdsettelse eller § 5-12-32 om sjablonmessig verdsettelse. Sjablonmessig verdsettelse gjennomføres dersom arbeidstakeren ikke krever individuell verdsettelse innen fristen for skattemeldingen.

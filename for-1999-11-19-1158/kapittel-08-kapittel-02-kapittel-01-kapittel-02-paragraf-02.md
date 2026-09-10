@@ -1,0 +1,3 @@
+# § 8-11-3. Beregning av flaggkrav ved konsolidering
+(1) For en konsolidert selskapsgruppe beregnes flaggkravet som forholdet mellom selskapenes samlede EØS-registrerte nettotonnasje eid på måletidspunktet, jf. § 8-11-2 tredje ledd og selskapenes samlede nettotonnasje eid på måletidspunktet, jf. § 8-11-2 fjerde ledd.
+(2) Der et selskap har bestemmende innflytelse over et deltakerlignet selskap eller NOKUS-selskap, jf. regnskapsloven § 1-3, skal EØS-registrert nettotonnasje og total nettotonnasje i det deltakerlignede selskapet eller NOKUS-selskapet i sin helhet tilordnes selskapet med bestemmende innflytelse.

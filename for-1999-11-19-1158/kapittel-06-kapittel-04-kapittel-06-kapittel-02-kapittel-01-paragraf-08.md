@@ -1,0 +1,2 @@
+# § 6-47-27. Unntak fra minstekravet til ytelsesperiodens lengde
+Dersom årlig pensjonsytelse fra et selskap til rettighetshaver eller en begunstiget er mindre enn 10 prosent av folketrygdens grunnbeløp, kan ytelsesperioden omgjøres til det største antall hele år som er nødvendig for at den årlige ytelse skal utgjøre minst 10 prosent av folketrygdens grunnbeløp. Dersom vedkommende mottar ytelser etter flere individuelle pensjonsavtaler i selskapet, skal alle disse medregnes ved beregning av den årlige ytelsen etter første punktum.

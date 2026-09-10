@@ -1,0 +1,4 @@
+# § 12-12-8. Verdsettelse etter skattemessig verdi og verdien ved skattefastsettingen
+(1) Verdsettelse etter skattemessig verdi eller verdien ved skattefastsettingen omfatter eiendeler som ikke går inn under § 12-12-9.
+(2) Med skattemessig verdi i skatteloven § 12-12 annet ledd e menes skattemessige saldoverdier. Med verdien ved skattefastsettingen menes verdier lagt til grunn ved formuesfastsettingen.
+(3) Er verdien ved skattefastsettingen for flere eiendeler fastsatt under ett, skal verdien av de eiendeler som ikke inngår i skjermingsgrunnlaget trekkes ut med det beløp som utgjør eiendelens forholdsmessige andel av verdien ved skattefastsettingen. Tilsvarende gjelder dersom noen av eiendelene som inngår i en samlet verdi ved skattefastsettingen skal verdsettes etter en annen verdsettelsesmetode.
