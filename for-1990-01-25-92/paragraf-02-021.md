@@ -1,0 +1,2 @@
+# § 2-21. Unntak for utstedelse av dagsprøvekjennemerker til registrerte kjøretøy
+Når det foreligger særlig tungtveiende grunner kan Statens vegvesen, ved enkeltvedtak, gjøre unntak fra bestemmelsene i § 2-19 første ledd første punktum og utstede dagsprøvekjennemerker til registrert kjøretøy som har kjennemerker med lysegule tegn på sort bunn. Med særlig tungtveiende grunner forstås bl.a. flytting av anleggsmaskiner fra anlegg til anlegg, terminalkjøretøy som skal på verksted og campingvogner som skal flyttes til sommer- eller vintersted.

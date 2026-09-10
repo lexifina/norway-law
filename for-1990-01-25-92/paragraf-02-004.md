@@ -1,0 +1,3 @@
+# § 2-4. Kjøretøyregisteret
+(1) Registreringspliktige kjøretøy skal registreres i Kjøretøyregisteret, hvor Statens vegvesen er behandlingsansvarlig.
+(2) Direktiv (EU) 2015/413 gjelder som norsk rett med Statens vegvesen som nasjonalt kontaktpunkt for elektronisk utveksling av opplysninger fra kjøretøyregistre. Det kan gjennom automatiserte søk utveksles opplysninger om registrerte kjøretøy, eiere og innehavere av kjøretøy til andre medlemsstater dersom dette er nødvendig for å etterforske eller håndheve trafikksikkerhetsrelaterte overtredelser som angitt i direktivets art. 2. Statens vegvesen er også nasjonalt kontaktpunkt for elektronisk utveksling av opplysninger fra kjøretøyregistre i medhold av direktiv (EU) 2019/520.
