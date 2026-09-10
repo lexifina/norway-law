@@ -1,0 +1,2 @@
+# § 2-28. Unntak fra vilkår om innlevering av melding om eierskifte og at partene må legitimere seg
+Når det foreligger særlig tungtveiende grunner kan Statens vegvesen, ved enkeltvedtak, gjøre unntak fra bestemmelsen i § 2-27 første og andre ledd, og fatte vedtak om eierskifte uten at melding om eierskifte er innlevert, og/eller uten at partene har legitimert seg. Med særlig tungtveiende grunner forstås bl.a. dokumentasjon fra offentlig instans eller at tidligere eier er et foretak som er slettet i foretaksregisteret.

@@ -1,0 +1,8 @@
+# § 2-14. Plassering av kjennemerker på bil og tilhenger til bil
+(1) For bil og tilhenger til bil som registreres første gang i Norge gjelder bestemmelsene i denne paragraf. For eldre kjøretøy og andre kjøretøygrupper gjelder kjøretøyforskriften kapittel 39.
+(2) Kjennemerke foran skal være plassert slik at høyden fra vegbanen til nederste kant av kjennemerket er 25 cm eller mer. Høyden fra vegbanen til øverste kant skal være mindre enn 80 cm.
+(3) I særlige tilfelle, hvor en bils konstruksjon eller det utstyr den brukes med gjør det nødvendig, kan høyden fra vegbanen til øverste kant av kjennemerket foran økes til den høyde som er nødvendig. Målene skal tas når bilen er ubelastet.
+(4) Kjennemerke foran skal være godt synlig i et område avgrenset av 4 plan gjennom kjennemerkets 4 sidekanter. Disse plan skal sideveis og utover danne en vinkel på minst 30 grader med bilens lengdeakse. Det øverste plan skal danne en vinkel på minst 30 grader oppover, målt i forhold til horisontalplanet, og det nederste plan må være horisontalt eller danne en vinkel nedover. Såfremt kjennemerkets øverste kant er høyere enn 120 cm fra vegbanen, skal det nederste plan danne en vinkel på minst 15 grader i forhold til horisontalplanet. Midten av kjennemerket skal være plassert så nær kjøretøyets midtlinje som mulig.
+(5) Plassering av bakre kjennemerke for bil og tilhenger til bil skal tilfredsstille kravene i forordning (EU) nr. 1003/2010.
+(6) Reglene i denne paragraf gjelder likevel ikke bil og tilhenger til bil som omfattes av § 2-15.
+(7) For andre kjøretøy enn bil og tilhenger til bil gjelder kjøretøyforskriften kapittel 39.

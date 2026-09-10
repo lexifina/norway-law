@@ -1,0 +1,11 @@
+# § 2-11. Utforming av kjennemerker
+(1) Kjennemerke til kjøretøy skal være av utførelse fastsatt av Statens vegvesen.
+(2) Statens vegvesen bestemmer hvilket kjennemerke som skal tildeles kjøretøyet.
+(3) Registreringspliktig kjøretøy skal ha kjennemerke med sorte tegn på hvit reflekterende bunn, med følgende unntak
+a) Kjøretøy som bare brukes utenfor offentlig veg, herunder kjøretøy registrert for bruk på Svalbard, kan ha kjennemerke med lysegule tegn på sort bunn. Kjøretøy som på grunn av vekt eller dimensjon ikke tillates brukt på offentlig veg, skal ha slikt kjennemerke. Kryssing av offentlig veg er tillatt for kjøretøy med slikt kjennemerke. Om nødvendig må dispensasjon eller brukstillatelse være innhentet.
+b) Varebil klasse 2 skal ha kjennemerke med sorte tegn på grønn reflekterende bunn.
+c) Kjøretøy tilhørende Forsvaret skal ha kjennemerke med sorte tegn på gul bunn.
+d) Kjøretøy som eies av fremmed stats diplomatiske eller konsulære stasjon, av diplomatisk eller konsulær tjenestemann, av diplomatisk stasjons administrative eller tekniske personale eller av familiemedlem, og som nyter privilegier og immunitet i henhold til Wien-konvensjonen av 1961 om diplomatisk samkvem, eller Wien-konvensjonen av 1963 om konsulært samkvem, skal ha kjennemerke med gule tegn på blå reflekterende bunn.
+e) Lisensiert rallybil, trial- eller enduromotorsykkel som er fritatt for engangsavgift/tilleggsavgift, og som utelukkende brukes under konkurranse og organisert treningskjøring i henhold til reglement og godkjenning av motorsportforbund, samt kjøring til og fra slike arrangement, skal ha kjennemerker med hvite tegn på sort bunn.
+f) Årsprøvekjennemerke skal ha hvite tegn på rød bunn. Dagsprøvekjennemerke skal ha sorte tegn på rød bunn. Prøvekjennemerke som brukes på kjøretøy tilhørende Forsvaret, kan ha røde tegn på gul bunn.
+g) Kjøretøy som oppfyller vilkår fastsatt i forskrift 28. mars 1967 nr. 9350 om bruk av utenlandsk motorvogn i riket og om særskilt registrering av motorvogn for midlertidig bruk skal i tillegg ha en 45 mm loddrett, rød bord på hver side av kjennemerket. Med hvit skrift skal den venstre bord være påført tallet for den måned, og den høyre bord være påført de to siste sifre av tallet for det år registreringens gyldighet utløper.

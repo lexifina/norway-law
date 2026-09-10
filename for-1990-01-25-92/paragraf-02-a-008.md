@@ -1,0 +1,2 @@
+# § 2a-8. Gjenbruk av tegnkombinasjonen til et personlig kjennemerke
+Et tidligere anvendt personlig kjennemerke kan tildeles en annen søker tidligst tre måneder etter at retten til det aktuelle personlige kjennemerket opphørte. Dette gjelder likevel ikke dersom det foreligger forhold som hindrer tildeling av dette personlige kjennemerket. Slike forhold kan være at det personlige kjennemerket tidligere har vært meldt tapt, stjålet eller misbrukt.
