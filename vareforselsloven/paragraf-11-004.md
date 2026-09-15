@@ -1,0 +1,4 @@
+# § 11-4. Beslag av varer og transportmidler mv.
+(1) Er det skjellig grunn til mistanke om overtredelse av straffebestemmelsene i denne loven, eller i andre lover fordi varer inn- eller utføres uten nødvendig tillatelse etter vedkommende lov, kan tollmyndighetene ta beslag i varer som antas å kunne inndras etter straffeloven kapittel 13. Det samme gjelder transportmidler og andre gjenstander som har vært brukt ved overtredelsen. For at beslaget skal kunne gjennomføres, skal fører av transportmiddel føre transportmiddelet til sted som tollmyndighetene bestemmer.
+(2) Beslaglagte varer, transportmidler mv. skal opptegnes nøyaktig og merkes på en slik måte at forveksling unngås. Det skal så vidt mulig gis kvittering til den som hadde gjenstanden i sin besittelse.
+(3) Departementet kan gi forskrift om klage på beslag.

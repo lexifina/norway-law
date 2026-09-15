@@ -1,0 +1,3 @@
+# § 1-4. Politiattest og tildeling av myndighet til studenter i praksis
+(1) Tollmyndighetene kan kreve fremleggelse av ordinær politiattest i forbindelse med tilsettinger. Ved tilsetting i særskilte stillinger kan det kreves utvidet og uttømmende politiattest. I vurderingen av om politiattest skal kreves, og i tilfelle hvilken type attest, skal det blant annet tas hensyn til stillingens art, omfang og varighet, hvilke rettigheter og plikter som ligger til stillingen, og hvilke oppgaver som skal utføres.
+(2) Departementet kan tildele myndighet etter denne loven til studenter som er i praksis hos tollmyndighetene.

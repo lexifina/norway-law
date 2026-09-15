@@ -1,0 +1,9 @@
+# § 10-4. Varsel mv. ved tilbakehold av varer etter vedtak om bistand eller midlertidig forføyning
+(1) Når tollmyndighetene har avdekket varer som skal holdes tilbake på grunnlag av en midlertidig forføyning eller vedtak fra tollmyndighetene etter § 10-2, skal de straks varsle rettighetshaveren og mottakeren av varene eller dennes representant. Gjelder det en småforsendelse som nevnt i § 10-8 fjerde ledd, er det ikke nødvendig å varsle rettighetshaveren. Er grunnlaget for tilbakeholdet en midlertidig forføyning, skal også tingretten varsles.
+(2) I varselet skal det, i den utstrekning opplysningene er kjent for tollmyndighetene, opplyses om
+a) avsenderens og mottakerens navn og adresse
+b) varenes art og antallet varer
+c) tollprosedyren, varenes opprinnelse og bestemmelsessted
+d) at varene holdes tilbake i samsvar med vedtak etter § 10-2 eller midlertidig forføyning inntil vedtaket eller forføyningen oppheves eller faller bort, eller rettighetshaveren bestemmer noe annet.
+Er grunnlaget for tilbakeholdet et vedtak etter § 10-2, skal varselet også opplyse om muligheten for ødeleggelse av varer etter §§ 10-7 eller 10-8, herunder om vilkårene for ødeleggelse og mottakerens rettigheter. Rettighetshaveren kan ikke benytte de mottatte opplysningene for andre formål enn håndheving av immaterialrettigheter eller andre forhold nevnt i § 10-1 første ledd.
+(3) Når retten mottar varsel fra tollmyndighetene om tilbakehold på grunnlag av en midlertidig forføyning etter første og annet ledd, skal den straks sette en kort frist for saksøkeren til å reise søksmål mot mottakeren av varen om det krav forføyningen skal sikre, med mindre retten allerede har fastsatt en slik frist. Er forføyningen besluttet uten innkalling til muntlig forhandling, kan mottakeren av varen og enhver annen som er rammet av forføyningen kreve etterfølgende muntlig forhandling etter tvisteloven § 32-8.

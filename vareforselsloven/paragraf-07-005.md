@@ -1,0 +1,3 @@
+# § 7-5. Oppbevaring av meldinger, deklarasjoner, dokumenter mv.
+(1) Den som gir pliktig melding til tollmyndighetene, herunder deklarasjon, skal oppbevare meldingen eller en kopi av denne. Dette gjelder enten meldingen er gitt på papir, ved bruk av elektronisk datautveksling eller på annen måte. Tilsvarende gjelder for dokumenter, erklæringer mv. som skal fremlegges etter kapittel 2 og 5.
+(2) Departementet kan gi forskrift om hvilke dokumenter som skal oppbevares, på hvilken måte og hvor lenge de skal oppbevares, om pålegg om forlenget oppbevaringstid ved kontroll, og om fritak fra oppbevaringsplikten.

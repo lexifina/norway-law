@@ -1,0 +1,4 @@
+# § 7-11. Utlevering av opplysninger til offentlige myndigheter
+(1) Taushetsplikten etter § 7-10 første ledd første punktum er ikke til hinder for at opplysninger utleveres til andre offentlige myndigheter dersom det er nødvendig for å utføre mottakerorganets oppgaver etter lov eller for å hindre at virksomhet blir utøvd på en uforsvarlig måte.
+(2) Utleveringen må ikke være uforholdsmessig ut fra de ulempene den medfører i form av inngrep i personvernet og fare for at opplysninger av konkurransemessig betydning kommer på avveie.
+(3) Departementet kan gi forskrift om utlevering av opplysninger til andre offentlige myndigheter i deres interesse, blant annet om hvem det skal utleveres opplysninger til, hvilke opplysninger som kan utleveres, hvilke kriterier som skal vektlegges ved vurderingen av om utleveringen er forholdsmessig og om at opplysninger i enkelte tilfeller alltid skal kunne utleveres.

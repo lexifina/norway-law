@@ -1,0 +1,6 @@
+# § 8-13. Kontroll hos den opplysningspliktige
+(1) Tollmyndighetene kan foreta kontroll hos den som skal gi opplysninger etter §§ 8-10, 8-11 og 8-12. Den opplysningspliktige plikter ikke å gi adgang til kontroll i sitt private hjem, med mindre vedkommende utøver næringsvirksomhet fra hjemmet.
+(2) Ved kontroll som nevnt i første ledd skal den opplysningspliktige gi opplysninger som vedkommende plikter å gi etter §§ 8-10, 8-11 og 8-12. Den opplysningspliktige skal også gi tollmyndighetene adgang til å undersøke lokaler og varer og gjennomgå fysisk og digital informasjon mv. Tollmyndighetene kan kreve vareprøver uten vederlag. Ved gjennomsyn av virksomhetens fysiske og digitale informasjon kan tollmyndighetene kopiere informasjon til datalagringsmedium for senere gjennomgang hos den opplysningspliktige eller hos tollmyndighetene.
+(3) Om nødvendig kan det kreves hjelp av politiet til å få utlevert regnskapsmateriale, bøker, dokumenter, varer mv.
+(4) Ved kontroll som nevnt i første ledd skal den opplysningspliktige eller en fullmektig være til stede og yte nødvendig veiledning og bistand når tollmyndighetene krever det.
+(5) Departementet kan gi forskrift om tollmyndighetenes fremgangsmåte ved kontroll etter denne paragrafen.

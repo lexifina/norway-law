@@ -1,0 +1,4 @@
+# § 4-8. Prosedyren innenlands bearbeiding av landbruksvarer
+(1) Under prosedyren innenlands bearbeiding av landbruksvarer kan en virksomhet innføre en landbruksvare for bearbeiding dersom varen gjenutføres innen seks måneder etter innførselen.
+(2) Ved bruk av prosedyren innenlands bearbeiding av landbruksvarer beregnes ikke tollavgift eller andre innførselsavgifter.
+(3) Departementet kan gi forskrift om innholdet i deklarasjonen for prosedyren innenlands bearbeiding av landbruksvarer, om unntak fra plikten til å levere deklarasjon, om unntak fra fristen for gjenutførsel, om krav til tollbehandling av restprodukter, om unntak fra krav om gjenutførsel ved destruksjon og om sikkerhetsstillelse. Departementet kan også gi forskrift om at det på forhånd må søkes om tillatelse til bearbeidingen, om at det kan stilles krav til virksomhetens produksjonsforhold, lagerhold og organisering, og om hva som skal regnes som vare av samme kvalitet og samme slag.

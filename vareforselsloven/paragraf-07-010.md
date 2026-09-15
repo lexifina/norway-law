@@ -1,0 +1,5 @@
+# § 7-10. Taushetsplikt
+(1) Enhver som har eller har hatt verv, stilling eller oppdrag knyttet til tollmyndighetene, skal hindre at uvedkommende får adgang eller kjennskap til det vedkommende i sitt arbeid har fått vite om noens formues- eller inntektsforhold eller andre økonomiske, bedriftsmessige eller personlige forhold. Taushetsplikten er ikke til hinder for at opplysningene i en sak gjøres kjent for sakens parter eller deres representanter. Den som tiltrer verv, stilling eller oppdrag skal gi skriftlig erklæring om at vedkommende kjenner og vil overholde taushetsplikten.
+(2) Informasjonsutveksling med fremmed stat eller til organisasjon på mandat fra De forente nasjoner (FN) som Norge har akseptert som offentlig myndighet, er ikke omfattet av denne bestemmelsen.
+(3) Departementet kan uten hinder av taushetsplikt etter første ledd godkjenne at opplysninger gis til forskningsformål i samsvar med forvaltningsloven § 13 d.
+(4) Forvaltningsloven §§ 13, 13 b, 13 c og 13 e gjelder ikke som utfyllende bestemmelser for taushetsplikten etter denne paragrafen.

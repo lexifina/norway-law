@@ -1,0 +1,2 @@
+# § 12-4. Bortfall av adgangen til å representere den deklarasjonspliktige
+Tollmyndighetene kan bestemme at en tollrepresentant som har opptrådt i strid med loven eller i strid med meddelt tillatelse, ikke kan representere den deklarasjonspliktige ved tollbehandlingen. Handlingen må ha vært av en slik karakter at vedkommende ikke anses skikket eller egnet til å opptre som representant ved tollbehandlingen. Vedtaket skal gjelde for en bestemt periode.

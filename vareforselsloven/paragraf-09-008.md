@@ -1,0 +1,4 @@
+# § 9-8. Utveksling av opplysninger med annen stat
+(1) Til gjennomføring av avtale med annen stat om tollsamarbeid eller annen gjensidig bistand kan tollmyndighetene, uten hinder av taushetsplikt, utveksle opplysninger til bruk for vedkommende stats myndigheter for å sikre overholdelse og forfølge overtredelser av bestemmelser om vareførsel.
+(2) Bestemmelser i lov om plikt til å gi opplysninger til bruk for myndighetene ved utskrivning av skatt eller offentlig avgift gjelder tilsvarende når det med hjemmel i avtale med fremmed stat innhentes opplysninger til bruk for utenlandsk tollmyndighet.
+(3) Departementet kan gi forskrift om tollmyndighetenes utveksling av opplysninger med annen stat, herunder bestemme at tollmyndighetene under forbehold om gjensidighet kan utveksle slike opplysninger med tollmyndighet i annen stat uten at formell avtale med vedkommende stat er inngått.

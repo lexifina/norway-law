@@ -1,0 +1,3 @@
+# § 4-3. Prosedyren transittering
+(1) Under prosedyren transittering kan en vare sendes gjennom eller til et sted i tollområdet etter bestemmelsene i Transitteringskonvensjonen og TIR-konvensjonen. Ved transittering beregnes ikke tollavgift eller andre innførselsavgifter.
+(2) Departementet kan gi forskrift om innholdet i deklarasjonen for prosedyren transittering. Departementet kan også gi forskrift om transitteringsordninger, herunder om gjennomføring av prosedyren, elektroniske transitteringssystemer, autorisasjonsordninger og vilkår for disse og om følger av brudd på vilkår i en transitteringstillatelse.

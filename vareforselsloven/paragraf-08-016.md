@@ -1,0 +1,2 @@
+# § 8-16. Pålegg om bokføring
+Tollmyndighetene kan pålegge bokføringspliktige som omfattes av § 8-13, å oppfylle sin plikt til å innrette bokføringen, spesifikasjonen, dokumentasjonen og oppbevaringen av regnskapsopplysninger i samsvar med regler gitt i eller i medhold av bokføringsloven. Saksbehandlingsreglene i tollavgiftsloven § 10-4 annet ledd og § 10-5 om klage over pålegg gjelder tilsvarende.

@@ -1,0 +1,3 @@
+# § 2-3. Melde- og opplysningsplikt om ankomst til bestemmelsessted i tollområdet
+(1) Føreren av fartøy og luftfartøy skal melde fra til tollmyndighetene om ankomst til bestemmelsessted i tollområdet. I meldingen skal det gis opplysninger om transportmiddelet, besetningen, varer som bringes med som last, og referanse til deklarasjonen for varene.
+(2) Departementet kan gi forskrift om hvilke opplysninger som skal gis, når opplysningene skal gis, leveringsmåten og om unntak fra pliktene. Departementet kan gi forskrift om at melde- og opplysningsplikten også skal gjelde for fører av motorvogn og tog.
