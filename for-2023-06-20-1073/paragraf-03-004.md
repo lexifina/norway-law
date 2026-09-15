@@ -1,0 +1,3 @@
+# § 3-4. Samarbeid med helse- og omsorgstjenesten mv.
+Jobbspesialisten skal samhandle med behandlingsteamet i helse- og omsorgstjenesten og kan i henhold til arbeids- og velferdsforvaltningsloven § 4a og § 7 behandle, herunder innhente og utlevere, personopplysninger som er nødvendige for å gi arbeidsrettet bistand. Det er en forutsetning at deltakeren samtykker til utlevering av egne helseopplysninger, jf. helsepersonelloven § 22.
+Dersom deltakere skal gjennomføre opplæring eller utdanning, kan jobbspesialisten i henhold til arbeids- og velferdsforvaltningsloven § 7 utlevere personopplysninger til utdanningsmyndighetene dersom det er nødvendig for å gi arbeidsrettet bistand.
