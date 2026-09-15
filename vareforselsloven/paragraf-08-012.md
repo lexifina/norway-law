@@ -1,0 +1,3 @@
+# § 8-12. Kontrollopplysninger for tollbehandling i et annet land
+(1) Den som har utstedt opprinnelsesbevis, faktura eller annet særlig legitimasjonsdokument som er bestemt til å tjene som bevis ved tollbehandling av en vare i et annet land, skal etter krav fra tollmyndighetene gi opplysninger som kan ha betydning for kontroll av grunnlaget for tollbehandlingen. Opplysningsplikten gjelder også for importører og leverandører som har utstedt dokumenter som har tjent som grunnlag for opprinnelsesbevis, faktura eller annet særlig legitimasjonsdokument.
+(2) Tollmyndighetene kan kreve at vedkommende dokumenterer opplysningene ved blant annet å gi innsyn i, legge frem, sammenstille, utlevere eller sende inn dokumentasjon etter første ledd.

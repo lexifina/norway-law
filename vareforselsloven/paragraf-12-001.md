@@ -1,0 +1,5 @@
+# § 12-1. Tvangsmulkt
+(1) For å fremtvinge levering av pliktige opplysninger kan tollmyndighetene ilegge den som har plikt til å gi opplysninger etter §§ 8-10 til 8-12, en daglig løpende tvangsmulkt når opplysningene ikke gis innen de fastsatte frister. Det samme gjelder når det er åpenbare mangler ved de opplysningene som er gitt. Tvangsmulkt kan også ilegges den som ikke retter seg etter et pålegg om bokføring etter § 8-16 innen den fastsatte fristen.
+(2) Samlet tvangsmulkt etter første ledd første og annet punktum kan ikke overstige 50 ganger rettsgebyret.
+(3) Tvangsmulkt etter første ledd tredje punktum skal utgjøre ett rettsgebyr per dag, jf. rettsgebyrloven § 1 annet ledd. I særlige tilfeller kan tvangsmulkten settes lavere eller høyere, men ikke høyere enn ti rettsgebyr per dag. Samlet tvangsmulkt kan ikke overstige én million kroner.
+(4) Ved et vedtak om tvangsmulkt kan forhåndsvarsel etter forvaltningsloven § 16 unnlates. I melding om vedtak om tvangsmulkt, skal tollmyndighetene opplyse om hvilke plikter som ikke anses å være oppfylt, frist for når tvangsmulkten begynner å løpe og størrelsen på tvangsmulkten.

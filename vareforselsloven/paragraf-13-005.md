@@ -1,0 +1,8 @@
+# § 13-5. Handelstiltak mot subsidier (utjevningstiltak)
+(1) Finner departementet at det foreligger direkte eller indirekte subsidiering av varer som eksporteres til Norge, og at subsidieringen volder eller truer med å volde vesentlig skade, kan Kongen, innenfor de rammer som følger av avtale med fremmed stat eller internasjonal organisasjon, eller av folkeretten for øvrig, iverksette utjevningstiltak.
+(2) Utjevningstiltak i form av en særskilt utjevningstollavgift må ikke overstige hva som antas å motsvare den subsidie som er fastslått, beregnet per enhet av den subsidierte og eksporterte varen. Vedtak etter første ledd skal uttrykkelig gjøre rede for utregningsmåten i det enkelte tilfelle, som skal være i samsvar med de avtaleforpliktelser som gjelder. Utjevningstollavgift skal pålegges alle subsidierte varer som har forårsaket skade, unntatt varer fra leverandører som har gitt avkall på de aktuelle subsidiene, eller som har gitt pristilsagn.
+(3) Utjevningstiltaket skal bare gjelde så lenge det er nødvendig for å motvirke den skaden som subsidiene forårsaker. Tiltaket skal reduseres dersom en nærmere vurdering tilsier det.
+(4) Utjevningstiltak kan iverksettes som midlertidig tiltak. Tiltaket kan tidligst iverksettes 60 dager etter at formelle undersøkelser ble innledet og kunngjort. Slikt midlertidig tiltak kan ikke vare lenger enn 120 dager.
+(5) Søksmål om gyldigheten av vedtak om å iverksette utjevningstiltak behandles i Oslo tingrett som førsteinstans. Retten skal påse at saksbehandlingen påskyndes.
+(6) Departementet skal i forskrift kunngjøre iverksetting av utjevningstiltak. Dersom det er mulig, skal kunngjøringen opplyse om hvilke leverandører som er omfattet av tiltaket.
+(7) Departementet kan gi forskrift om utjevningstiltak.

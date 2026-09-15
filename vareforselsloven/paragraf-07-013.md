@@ -1,0 +1,2 @@
+# § 7-13. Overført taushetsplikt
+Hvis opplysninger gis i tilfeller som nevnt i § 7-10 første ledd annet punktum eller tredje ledd eller § 7-11 til noen som ikke selv har taushetsplikt etter annen lov, gjelder taushetsplikten tilsvarende for den som får opplysningene. Den som gir opplysningene skal samtidig gjøre oppmerksom på dette. Opplysningene kan likevel brukes til det formålet som begrunnet at de ble gitt.

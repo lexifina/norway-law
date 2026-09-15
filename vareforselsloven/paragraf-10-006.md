@@ -1,0 +1,4 @@
+# § 10-6. Undersøkelse av varer mv.
+(1) Tollmyndighetene kan etter begjæring beslutte at rettighetshaveren, mottakeren eller dennes representant skal gis adgang til å undersøke varer som holdes tilbake etter §§ 10-4 eller 10-5.
+(2) Tollmyndighetene kan også beslutte at eksemplarer av slike varer skal overlates til rettighetshaveren for undersøkelser. Varer som er overlatt til rettighetshaveren, skal returneres så snart undersøkelsene er fullført eller tilbakeholdet har falt bort. Rettighetshaveren er ansvarlig for skade på varer som oppstår i forbindelse med undersøkelser etter leddet her.
+(3) Før varer besørges ødelagt etter §§ 10-7 eller 10-8, skal det tas vareprøver eller sikres andre bevis for varens art. Tollmyndighetene skal oppbevare vareprøvene på en måte som legger til rette for at prøvene kan fremlegges i en eventuell senere rettslig tvist.

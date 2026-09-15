@@ -1,0 +1,4 @@
+# § 5-2. Lasting
+(1) Ingen må laste varer i fartøy som har bestemmelsessted utenfor tollområdet, uten tillatelse fra tollmyndighetene. Lastetillatelse kreves ikke for produkter av fiske og fangst som er tatt ombord i et fartøy på fiske- og fangstfeltene.
+(2) Er varer likevel lastet uten tillatelse fra tollmyndighetene, plikter fartøyets fører å losse varene hvis tollmyndighetene finner dette nødvendig for å undersøke varene.
+(3) Departementet kan gi forskrift om lasting, herunder at lasting bare kan finne sted ved bestemte steder, til bestemte tider eller i bestemte områder, og om unntak fra plikten til å innhente tillatelse før lasting. Departementet kan også gi forskrift om at plikten til å innhente tillatelse før lasting skal gjelde for fører av andre nærmere bestemte transportmidler, og om plikt til lossing der transportmiddelet er lastet uten tillatelse fra tollmyndighetene.

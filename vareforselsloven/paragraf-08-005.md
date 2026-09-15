@@ -1,0 +1,2 @@
+# § 8-5. Plikt til å medvirke ved kontroll
+Enhver som befinner seg på sted og under forhold som nevnt i §§ 8-2 og 8-3, skal stanse når tollmyndighetene ved tegn eller på annen måte krever det, og yte den hjelpen og rette seg etter anvisninger som tollmyndighetene finner nødvendig for at de kan gjennomføre kontrollen. Den som stanses, skal på forespørsel gi opplysninger og legge frem identifikasjonsdokument.

@@ -1,0 +1,7 @@
+# § 8-4. Gjennomføring av undersøkelser av personer
+(1) Undersøkelser av personer skal foretas så skånsomt og hensynsfullt som mulig og på en minst mulig krenkende måte.
+(2) Tollmyndighetene kan visitere den som undersøkes, og undersøke vedkommendes hode med hår og hulrom.
+(3) Dersom den som undersøkes, mistenkes for å unndra varer fra kontroll og handlingen etter loven kan medføre frihetsstraff, kan tollmyndighetene foreta inngripende undersøkelse. Ved inngripende undersøkelse kan tollmyndighetene besiktige den undersøktes kropp. Etter samtykke fra den som undersøkes, kan tollmyndighetene blant annet gjennomlyse vedkommendes kropp ved bruk av godkjent apparat.
+(4) Inngripende undersøkelse av barn under 15 år kan ikke gjennomføres uten samtykke fra den som har foreldreansvaret. Innhenting av samtykke kan unnlates dersom det ikke er forsvarlig å utsette undersøkelsen, eller dersom tollmyndighetene har mistanke om at den som har foreldreansvaret, utnytter barnet til å unndra varer fra kontroll.
+(5) Dersom den som undersøkes, krever det, skal tollmyndighetene gi en skriftlig begrunnelse for grunnlaget for å foreta inngripende undersøkelse.
+(6) Departementet kan gi forskrift om omfanget av og fremgangsmåten ved visitasjon og undersøkelse etter annet ledd, om inngripende undersøkelse og gjennomlysing av den undersøktes kropp etter tredje ledd og om saksbehandling ved begrunnelse etter femte ledd.

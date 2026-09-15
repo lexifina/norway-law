@@ -1,0 +1,9 @@
+# § 13-8. Beskyttelsestiltak og mottiltak
+(1) Finner departementet at en vare som følge av en uforutsett utvikling blir importert i slik økende mengde og under slike forhold at dette volder eller truer med å volde alvorlig skade for norske produsenter av lignende eller konkurrerende varer, kan Kongen innenfor de rammer som følger av avtale med fremmed stat eller internasjonal organisasjon, eller av folkeretten for øvrig, iverksette beskyttelsestiltak.
+(2) Undersøkelser av om det er grunn til å iverksette beskyttelsestiltak eller mottiltak, skal gjennomføres etter § 13-9. Undersøkelsesmyndighetene kan innhente opplysninger etter § 13-1.
+(3) Beskyttelsestiltak skal bare brukes så langt det er nødvendig for å hindre eller rette opp alvorlig skade og å lette nødvendige tilpasninger. Tiltaket skal iverksettes i form av en særskilt tollavgift på angjeldende varer uten hensyn til deres opprinnelse eller i form av kvantitative reguleringer som kan fordeles slik at berørte land gis en forholdsmessig andel. Beskyttelsestiltak skal ikke vare utover en periode på fire år, hvis ikke det på nytt fastslås at tiltak fortsatt er nødvendig. Midlertidig beskyttelsestiltak kan iverksettes med inntil 200 dagers varighet.
+(4) Kongen kan iverksette avtale med annen stat om handelskompensasjon for negative virkninger av beskyttelsestiltak som nevnt i første ledd.
+(5) Dersom norske produsenter rammes av andre lands beskyttelsestiltak, kan Kongen iverksette mottiltak i form av rebalanserende tiltak, herunder opphevelse av tollavgiftsmessige innrømmelser.
+(6) Vilkårene i første og annet ledd kan fravikes såfremt beskyttelsestiltaket iverksettes innenfor folkerettslige rammer som åpner for dette.
+(7) Departementet skal i forskrift kunngjøre iverksetting av beskyttelsestiltak og mottiltak.
+(8) Departementet kan gi forskrift om beskyttelsestiltak og mottiltak.

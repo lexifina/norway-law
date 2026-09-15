@@ -1,0 +1,4 @@
+# § 6-4. Transaksjonsverdien av identisk vare
+(1) Hvis tollverdien av en innført vare ikke kan fastsettes etter § 6-3, skal tollverdien være transaksjonsverdien av identiske varer solgt for eksport til Norge i samme omsetningsledd, og i vesentlig samme mengde og på samme eller omtrent samme tidspunkt som den varen som skal verdifastsettes.
+(2) Med identisk vare menes vare som på alle måter er lik, både når det gjelder fysiske egenskaper, kvalitet og omdømme, og som er produsert i samme land som varen som skal verdifastsettes. Mindre ytre forskjeller skal ikke utelukke at varene kan betraktes som identiske.
+(3) Departementet kan gi forskrift om fastsetting av transaksjonsverdien av identisk vare, herunder om adgangen til å fravike kravene til samme omsetningsledd og samme mengde som nevnt i første ledd.
