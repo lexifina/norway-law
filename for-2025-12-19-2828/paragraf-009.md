@@ -1,0 +1,5 @@
+# § 9. Kvoter på fartøynivå
+Fartøy med tillatelse til å fiske nordsjøsild med trål, tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:50 tonn +50 % av bruttotonnasje fra0-10040 % av bruttotonnasje fra101-20030 % av bruttotonnasje fra201-30020 % av bruttotonnasje fra301-40010 % av bruttotonnasje fra401-600
+Kvoten til det enkelte fartøy fremkommer ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet fastsatt av Fiskeridirektoratet.
+Ved beregning av fartøyets kvotefaktor gjelder tonnasje i henhold til skipskontrollens målebrev/identitetsbevis utstedt senest 31. desember 2001, eventuelt fartøyets tonnasje i henhold til Skipskontrollens målebrev/identitetsbevis etter foretatt utskifting eller ombygging i overensstemmelse med utskifting/ombyggingstillatelse gitt senest samme dato. Ved eierskifte nyttes bruttotonnasje per nevnte tidspunkt for det fartøy reder hadde konsesjon på ved årets begynnelse eller tidligere.
+Kvoteenheten fastsettes til 0,4997. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,3 fiskes i britisk sone. Delkvoteenheten i britisk sone oppheves fra og med 5. august 2026.
