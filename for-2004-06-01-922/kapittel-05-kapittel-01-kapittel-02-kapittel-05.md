@@ -1,0 +1,1 @@
+# E. Beregnede disaggregerte standardverdier for framtidig biodrivstoff og flytende biobrensel som i januar 2008 ikke var tilgjengelig på markedet, eller som fantes på markedet bare i ubetydelige mengder

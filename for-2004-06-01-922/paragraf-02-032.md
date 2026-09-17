@@ -1,0 +1,4 @@
+# § 2-32. Plikt til å gi opplysninger om stoffer med svært uønskede egenskaper (SVHC) i produkter til Det europeiske kjemikaliebyrået (ECHA)
+Enhver leverandør av et produkt som definert i REACH-forordningen artikkel 3 nr. 33 jf. forskrift 30. mai 2008 nr. 516 om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften) skal gi opplysninger om stoffer med svært uønskede egenskaper (SVHC) i produkter i henhold til REACH-forordningen artikkel 33 nr. 1 til Det europeiske kjemikaliebyrået (ECHA).
+Opplysningsplikten i første ledd gjelder ikke for leverandører som leverer produkter direkte til forbrukere med mindre leverandør også er importør eller produsent av produktet.
+Opplysningene som skal gis til ECHA i henhold til første ledd skal gis elektronisk i den formen som til enhver tid etterspørres i databasen opprettet av ECHA for dette formålet.

@@ -1,0 +1,4 @@
+# § 2-14. Vaskemidler – gjennomføring av Vaskemiddelforordningen
+EØS-avtalen vedlegg II kapittel XV nr. 12u (forordning (EF) nr. 648/2004 som endret ved forordning (EF) nr. 907/2006, forordning (EF) nr. 551/2009, forordning (EF) nr. 1336/2008 og forordning (EU) nr. 259/2012) om vaske- og rengjøringsmidler gjelder som forskrift med de tilpasninger som følger av EØS-avtalens vedlegg II kapittel XV, protokoll 1 til avtalen og til avtalen for øvrig.
+All merking skal være på norsk.
+I vedlegg VI til kapittel 2 i denne forskrift gjengis EØS-avtalens vedlegg II kapittel XV nr. 12u (forordning (EF) nr. 648/2004, forordning (EF) nr. 907/2006, forordning (EF) nr. 551/2009, forordning (EF) nr. 1336/2008 og forordning (EU) nr. 259/2012), slik Klima- og miljødepartementet tolker denne delen av EØS-avtalen.

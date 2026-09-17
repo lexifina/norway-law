@@ -1,0 +1,3 @@
+# § 2a-8. Navn og adresse
+Produsenten og importøren skal påføre eget navn, firma eller registrert varemerke og kontaktadresse på EE-produktet. Dersom påføring direkte på produktet ikke er mulig, kan disse opplysningene i stedet gis på emballasjen eller i dokumenter som følger produktet. Adressen skal angi ett enkelt sted der produsenten kan kontaktes.
+Det er forbudt å gjøre tilgjengelig på markedet EE-produkter som ikke er påført produsentens navn, firma eller registrert varemerke og kontaktadresse i samsvar med første ledd. Det er forbudt å gjøre tilgjengelig på markedet EE-produkter som ikke er påført importørens navn, firma eller registrert varemerke og kontaktadresse i samsvar med første ledd.

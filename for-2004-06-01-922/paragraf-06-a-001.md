@@ -1,0 +1,2 @@
+# § 6a-1. Gjennomføring av EU-rettsakter om fluorholdige stoffer
+EØS-avtalens vedlegg II kapittel XVII nr. 9b og vedlegg XX kapittel III nr. 21aq (forordning (EU) nr. 517/2014, forordning (EU) 2015/2065, forordning (EU) 2015/2066, forordning (EU) 2015/2067, forordning (EU) 2015/2068, forordning (EF) nr. 1497/2007, forordning (EF) nr. 1516/2007, forordning (EF) nr. 304/2008, forordning (EF) nr. 306/2008 og forordning (EF) nr. 307/2008) om fluorholdige klimagasser gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.

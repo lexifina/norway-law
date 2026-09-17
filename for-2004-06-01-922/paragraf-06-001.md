@@ -1,0 +1,2 @@
+# § 6-1. Gjennomføring av forordning om ozonreduserende stoffer og etterfølgende rettsakter
+EØS-avtalens vedlegg XX kapittel III nr. 21aa (forordning (EF) nr. 1005/2009 om ozonreduserende stoffer som endret ved forordning (EU) nr. 744/2010, forordning (EU) nr. 1087/2013 og forordning (EU) 2017/605) og nr. 21aaa (forordning (EU) nr. 291/2011) gjelder som forskrift med de tilpasninger som følger av vedlegg XX kapittel III, protokoll 1 til avtalen og avtalen for øvrig.

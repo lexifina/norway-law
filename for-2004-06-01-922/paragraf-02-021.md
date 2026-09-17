@@ -1,0 +1,11 @@
+# § 2-21. Krav til klimagassreduksjon fra drivstoff
+Omsettere av drivstoff til motorvogner, mobile ikke-veigående maskiner, landbrukstraktorer og fritidsbåter som ikke går til sjøs, skal omsette drivstoff med maksimalt 88,454 g CO2-ekvivalenter/MJ livssyklusutslipp av klimagasser per enhet energi. Elektrisitet til bruk i veitransport og biodrivstoff til luftfart kan telle med i oppfyllelsen av kravet.
+Med omsetter menes her den som omsetter drivstoff og er registrert etter særavgiftsforskriften § 5-1 eller § 5-2.
+Kravet i første ledd kan oppfylles av den enkelte omsetter eller av flere omsettere samlet.
+Med livssyklusutslipp av klimagasser menes her netto utslipp av CO2, CH4 og N2O som kan tilskrives drivstoffet eller annen tilført energi. Dette omfatter alle relevante stadier fra utvinning eller dyrkning, inkludert endringer i arealbruk, transport og distribusjon, bearbeiding og forbrenning, uansett hvor disse utslippene har oppstått.
+De ansvarlige etter første ledd skal innen 31. mars hvert år rapportere til Miljødirektoratet
+a) forrige kalenderårs omsatte volum av ulike typer drivstoff til motorvogner, ikke-veigående maskiner, landbrukstraktorer og fritidsbåter som ikke går til sjøs
+b) forrige kalenderårs livssyklusutslipp av klimagasser per energienhet for omsatt volum drivstoff.
+Med omsatt volum menes her drivstoff som omsetter er eller hadde vært ansvarlig for å betale særavgifter for etter særavgiftsforskriften § 2-1, også dersom drivstoffet er unntatt fra eller fritatt for særavgifter.
+Livssyklusutslipp av klimagasser fra biodrivstoff skal beregnes etter metode som er beskrevet i vedlegg I til IV i kapittel 3. Biodrivstoff som skal telle med i oppfyllelsen av kravet om reduserte klimagassutslipp, må oppfylle bærekraftskriteriene i § 3-5 til § 3-9. Rapporteringen på biodrivstoff skal være i tråd med reglene beskrevet i § 3-10 og § 3-11. Klimagassintensiteten for biodrivstoff som ikke oppfyller bærekraftskriteriene i § 3-5 til § 3-9, er lik klimagassintensiteten for det respektive fossile brenselet framstilt av konvensjonell råolje eller gass.
+Livssyklusutslipp av klimagasser fra ikke-biologiske drivstoff skal beregnes etter metode fastsatt i Vedlegg V, del I, i kapittel 2. Rapportering skal skje etter vedlegg V, del II, i kapittel 2.

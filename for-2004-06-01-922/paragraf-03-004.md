@@ -1,0 +1,3 @@
+# § 3-4. Samlet oppfyllelse og fleksibilitet mellom omsetningskrav
+Omsetningskravene i § 3-3, § 3-3a, § 3-3b og § 3-3c kan oppfylles i samarbeid med andre omsettere innenfor samme omsetningskrav ved at omsettere som omsetter mer biodrivstoff eller biobrensel enn de er forpliktet til kan overføre overskytende volumer til andre omsettere.
+Ved omsetning av biodrivstoff utover omsetningskravet i § 3-3 kan overskytende volum avansert biodrivstoff og avansert flytende biobrensel og biodrivstoff og flytende biobrensel fremstilt av råstoff på listen i vedlegg V, del B, medregnes i oppfyllelsen av omsetningskravet i § 3-3c, og motsatt. Dette kan gjøres av den enkelte omsetter selv eller i samarbeid med andre omsettere.
