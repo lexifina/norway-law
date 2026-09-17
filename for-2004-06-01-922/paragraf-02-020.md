@@ -1,0 +1,12 @@
+# § 2-20. Kvaliteten på bensin og autodiesel
+De som importerer, setter sammen, distribuerer eller omsetter bensin og autodiesel med eller uten innblandet biodrivstoff til bruk i motorvogner, ikke-veigående maskiner, landbrukstraktorer og fritidsbåter som ikke går til sjøs, skal oppfylle kravene til kvalitet i vedlegg IV (tabell 1 og 2) til dette kapitlet. Forsvarets bruk av flydrivstoff til drift av bakkeutstyr omfattes ikke.
+Med bensin menes alle flyktige mineraloljer som kan anvendes i forbrenningsmotorer med styrt tenning for framdrift av kjøretøyer og som omfattes av tolltariffnumrene 27.10.1231, 27.10.1232, 27.10.1233, 27.10.1241 og 27.10.1242.
+Med autodiesel menes gassoljer som kan anvendes i motorvogner, og gassoljer til bruk i ikke-veigående maskiner, landbrukstraktorer og fritidsbåter som ikke går til sjøs som omfattes av tolltariffnummer 27.10.1941.
+Med biodrivstoff menes flytende eller gassformig brensel til transport som er produsert av biomasse.
+For bruk av bensin i bevaringsverdige kjøretøyer tillates maksimalt blyinnhold på 0,15 gram pr. liter bensin. Salget skal ikke overskride 0,03 % av det totale årlige bensinsalget.
+For å ta hensyn til at mindre forurensninger kan forekomme i forsyningskjeden, tillates det at autodiesel til bruk i ikke-veigående maskiner, landbrukstraktorer og fritidsbåter som ikke går til sjøs, kan inneholde opp til 20 mg/kg svovel når det leveres til sluttbruker.
+Ved innblanding i autodiesel skal biodrivstoff basert på fettsyremetylester (FAME) tilfredsstille kravene i NS EN 14214.
+På utsalgssteder der biodrivstoff er blandet i fossilt drivstoff skal det opplyses om dette. For autodiesel skal det opplyses om innholdet av fettsyremetylester (FAME). Hvis andelen biodrivstoff overstiger 10 volumprosent skal dette merkes ved salgssted.
+Tilsetning av metylsyklopentadienyl mangan trikarbonyl (MMT) skal utgjøre maksimalt 2 mg mangan per liter drivstoff. Salgssteder der metalliske additiver er tilsatt drivstoffet skal være merket tydelig med «Inneholder metalliske additiver».
+De ansvarlige etter første ledd skal gjennomføre drivstoffkontroll etter gjeldende CEN-standarder eller på en tilsvarende måte. Kontroll av drivstoffkvalitetene skal utføres i henhold til krav og analysemetoder gitt i tabellene 1 og 2 i vedlegg IV til dette kapitlet.
+De ansvarlige etter første ledd skal innen 31. mars hvert år rapportere resultatene av forrige års drivstoffkontroll til Miljødirektoratet.

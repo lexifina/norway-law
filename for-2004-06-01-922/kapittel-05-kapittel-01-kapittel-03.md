@@ -1,0 +1,16 @@
+# Vedlegg III. Forhold som kan omfattes av frivillige tiltak
+- Samfunnsmessige konsekvenser i produsentland
+- Tilgjengeligheten av næringsmidler til overkommelige priser, særlig for mennesker i utviklingsland
+- Andre generelle utviklingsspørsmål
+- Landrettigheter
+- Oppfølging av kravene i følgende konvensjoner fra Den internasjonale arbeidsorganisasjon (ILO):
+- Konvensjonen om tvangsarbeid (nr. 29),
+- Konvensjonen om foreningsfrihet og vern av organisasjonsretten (nr. 87),
+- Konvensjonen om gjennomføring av prinsipper for organisasjonsretten og retten til å føre kollektive forhandlinger (nr. 98),
+- Konvensjonen om lik lønn for mannlige og kvinnelige arbeidere for arbeid av likt verd (nr. 100),
+- Konvensjonen om avskaffelse av tvangsarbeid (nr. 105),
+- Konvensjonen om diskriminering i sysselsetting og yrke (nr. 111),
+- Konvensjonen om minstealder for adgang til sysselsetting (nr. 138),
+- Konvensjonen om forbud mot og umiddelbare tiltak for avskaffelse av de verste former for barnearbeid (nr. 182), og
+- Cartagena-protokollen om biosikkerhet,
+- Konvensjonen om internasjonal handel med ville dyre- og plantearter som er truet av utryddelse (CITES).

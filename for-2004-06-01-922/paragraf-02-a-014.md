@@ -1,0 +1,2 @@
+# § 2a-14. Tilfeller der produsentens forpliktelser gjelder for importører og distributører
+Importør eller distributør anses som produsent og skal oppfylle produsentens forpliktelser i kapittel 2a når vedkommende importør eller distributør bringer i omsetning EE-produkter under eget navn eller varemerke, eller endrer produkter som allerede er brakt i omsetning på en måte som kan påvirket produktenes samsvar med forbudet i § 2a-3.

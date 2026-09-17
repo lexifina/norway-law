@@ -1,0 +1,7 @@
+# § 2-25. Flyktige organiske forbindelser (VOC) i maling- og lakkeringsprodukter – krav til innhold av VOC, merking mv.
+Det er forbudt å produsere, importere, eksportere og omsette maling- og lakkeringsprodukter som står oppført i vedlegg VII avsnitt 1, dersom VOC-innhold er høyere enn angitt i vedlegg VII avsnitt 2. Forbudet gjelder fra de datoer som er oppgitt i vedlegget. For å fastslå om grenseverdiene er overholdt, skal analysemetodene som angitt i vedlegg VII avsnitt 3 benyttes.
+Forbudet gjelder ikke for maling- og lakkeringsprodukter utelukkende til bruk i næringsvirksomhet som omfattes av forskrift 1. juni 2004 nr. 931 om begrensning av forurensning kap. 9 jf. direktiv 1999/13/EF.
+Forbudet gjelder ikke for produksjon av maling- og lakkeringsprodukter beregnet på restaurering og vedlikehold av faste og løse kulturminner. Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger kan ved enkeltvedtak gi tillatelse til omsetning av begrensede mengder av slike maling- og lakkeringsprodukter til bruk på spesifisert kulturminne.
+For maling- og lakkeringsprodukter som nevnt i vedlegg VII avsnitt 1, skal emballasjen i tillegg til forskriftsmessig helse-, miljø-, brann- og eksplosjonsfaremerking være merket med lettleselig og varig påskrift på norsk som opplyser om
+a) produktets underkategori og de relevante VOC-grenseverdiene i g/l jf. vedlegg VII avsnitt 2
+b) det maksimale VOC-innhold i g/l i produktet i bruksklar tilstand.

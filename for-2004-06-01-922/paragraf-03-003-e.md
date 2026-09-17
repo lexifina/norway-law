@@ -1,0 +1,3 @@
+# § 3-3e. Krav til dokumentasjon på omsetning av flytende drivstoff og flytende brensler til sjøfart ved salg via videreforhandlere
+Ved salg via én eller flere videreforhandlere, skal videreforhandleren som selger til sluttbruk innhente og oppbevare dokumentasjon som nevnt i § 3-3d andre til fjerde ledd. Dokumentasjonen skal oppbevares i tre år.
+Videreforhandleren som selger til sluttbruk skal gi omsetter erklæring som nevnt i § 3-3d første ledd, enten direkte eller via øvrige videreforhandlere. Alle videreforhandlere er ansvarlige for å gi videre riktige og fullstendige opplysninger, og for å legge frem dokumentasjon for Miljødirektoratet på forespørsel.
