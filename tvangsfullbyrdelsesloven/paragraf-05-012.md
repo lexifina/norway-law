@@ -1,0 +1,3 @@
+# § 5-12. Utsettelse ved betalingsvansker
+Dersom saksøkte i en sak om tvangsdekning er kommet i forbigående betalingsvansker på grunn av sykdom, arbeidsløshet eller andre særlige forhold, kan namsfogden etter begjæring fra saksøkte beslutte utsettelse av saken når saksøkte betaler en femtedel av saksøkerens samlede krav og forplikter seg til å betale det resterende i månedlige avdrag etter namsfogdens bestemmelse. Før namsfogden beslutter utsettelse, skal saksøkeren gis anledning til å uttale seg. Dersom et avdrag ikke betales i rett tid, bortfaller utsettelsen. Ny utsettelse kan bare gis dersom det foreligger særlige grunner.
+Blir fullbyrdelsen utsatt, skal partene og andre som er varslet om fullbyrdelsen underrettes.

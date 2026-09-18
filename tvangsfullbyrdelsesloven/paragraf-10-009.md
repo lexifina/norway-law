@@ -1,0 +1,6 @@
+# § 10-9. Virkningen av anvisningen
+Saksøkeren har rett til å si opp kravet og drive det inn rettslig. Er det anvist uten forbehold, kan saksøkeren også kvittere for betaling, og den forpliktede kan med befriende virkning betale til saksøkeren. Dette gjelder likevel ikke hvis anvisningen er opphevet og dette er kommet til den forpliktedes kunnskap.
+Saksøkte plikter å utlevere til saksøkeren alle dokumenter som trengs for å gjøre kravet gjeldende. Nekter saksøkte å utlevere dokumentene, kan saksøkeren på grunnlag av anvisningen og uten gebyr kreve dokumentene utlevert etter kapittel 13.
+Er kravet avhengig av at saksøkte som motytelse utleverer et formuesgode, plikter saksøkte etter eget valg å utlevere dette til saksøkeren, den forpliktede eller namsfogden hvis ikke formuesgodet er unntatt fra utlegg, eller en bedre rett er til hinder. Nekter saksøkte å utlevere formuesgodet, kan saksøkeren kreve utlevering etter kapittel 13.
+Reiser saksøkeren søksmål til innkreving, skal saksøkeren underrette saksøkte om søksmålet med oppfordring om å tre inn i saken som partshjelper. Utfallet av søksmålet har virkning for og imot saksøkte og rettighetshavere i kravet.
+Den som mottar betalingen fra den forpliktede, fordeler den mellom partene og rettighetshaverne. § 8-22 første ledd gjelder tilsvarende.

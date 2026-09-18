@@ -1,0 +1,3 @@
+# § 5-6. Innvendinger og begjæringer
+Innvendinger og begjæringer under saken kan settes fram både muntlig og skriftlig. Settes de fram muntlig, skal namsfogden skrive dem ned. Innvendinger og begjæringer som settes fram under en forretning eller et møte, bør avgjøres med det samme.
+Innvendinger kan settes ut av betraktning hvis de ikke blir satt fram så snart det er anledning til det. Innvendinger mot at saksøkerens krav består eller mot størrelsen av kravet kan likevel ikke settes ut av betraktning. Det samme gjelder innvendinger mot at det foreligger tvangsgrunnlag eller mot at de materielle og personlige vilkår for tvangskraft er oppfylt.

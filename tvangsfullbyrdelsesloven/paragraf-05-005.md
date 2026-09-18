@@ -1,0 +1,3 @@
+# § 5-5. Overføring av sak
+Er en begjæring om tvangsfullbyrdelse satt fram for en namsfogd som ikke er kompetent, kan namsfogden istedenfor å nekte fullbyrdelsen fremmet, overføre saken til den namsmyndigheten som er stedlig og saklig kompetent. Det samme gjelder om det senere viser seg at fullbyrdelsen ikke kan gjennomføres i namsfogdens distrikt. Ved overføringen skal namsfogden gi de nødvendige opplysninger om saken og dessuten underrette saksøkeren om overføringen.
+En namsfogd som mottar en sak ved overføring, overtar saken i den stilling den sto for den foregående namsfogd. Namsfogd som mottar saken kan likevel gjenta skritt som den foregående namsfogd har foretatt, og er ikke bundet av dennes avgjørelser i større utstrekning enn denne selv er.

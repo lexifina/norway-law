@@ -1,0 +1,3 @@
+# § 6-3. Tingrettens avgjørelser
+Tingrettens avgjørelser treffes ved kjennelse når fullbyrdelsen nektes fremmet, heves eller utsettes, ved avgjørelse av tvist eller når det ellers er bestemt i tvisteloven eller loven her. Nektes fullbyrdelsen fremmet før begjæringen er forelagt for saksøkte, treffes avgjørelsen ved beslutning. Når det ikke er tvist, kan en kjennelse meddeles på den måten som retten finner hensiktsmessig i det enkelte tilfellet.
+Før retten avsier en kjennelse, skal den så vidt mulig gi partene anledning til å uttale seg. Dette kan unnlates før retten avsier kjennelse om heving etter begjæring fra saksøkeren eller på grunn av saksøkerens forhold.

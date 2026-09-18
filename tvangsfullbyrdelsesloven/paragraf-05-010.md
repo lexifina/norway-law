@@ -1,0 +1,4 @@
+# § 5-10. Bruk av makt og plikt til varsomhet under fullbyrdelsen
+Dersom tvangsfullbyrdelse møter motstand, eller en person som er varslet om en tvangsforretning unnlater å være til stede for å åpne, kan namsfogden bruke nødvendig makt. Namsfogden kan om nødvendig kreve bistand fra politiet.
+Under tvangsfullbyrdelsen skal det vises den hensynsfullhet og varsomhet som forholdene tillater. Det skal tas hensyn til saksøktes interesser og ønsker i den utstrekning forholdene tillater det. Fullbyrdelse skal ikke foretas i større omfang enn nødvendig. En sak om tvangsdekning skal heves dersom fortsatt gjennomføring vil medføre kostnader som vil overstige det som vil komme inn ved dekningen.
+Bare dersom det er påtrengende nødvendig, kan tvangsforretninger holdes om natten eller på helligdager. Saksøkeren kan i påtrengende tilfeller kreve at fullbyrdelsen gjennomføres utenfor kontortiden.

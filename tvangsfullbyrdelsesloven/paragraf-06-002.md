@@ -1,0 +1,2 @@
+# § 6-2. Prosessfullmektig
+Inkassobevillingshaver hos en inkassator som driver inkassovirksomhet i medhold av inkassobevilling etter inkassoloven, kan være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassatoren har for parten. Videre kan en jurist være prosessfullmektig under tvangsfullbyrdelse. For prosessfullmektig etter annet punktum gjelder tvisteloven § 12-1 på tilsvarende måte som for advokater. Reglene i første til tredje punktum gjelder ikke ved behandling av tvister ved allmennprosess.

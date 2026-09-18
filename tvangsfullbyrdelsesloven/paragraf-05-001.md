@@ -1,0 +1,3 @@
+# § 5-1. Prosessdyktighet og prosessfullmektig
+Om partsevne, prosessdyktighet og stedfortredere gjelder tvisteloven kapittel 2 tilsvarende.
+Om prosessfullmektig gjelder tvisteloven kapittel 3 tilsvarende. Dessuten kan en inkassobevillingshaver hos en inkassator som driver inkassovirksomhet i medhold av inkassobevilling etter inkassoloven, være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassatoren har for parten. Videre kan en jurist være prosessfullmektig under tvangsfullbyrdelse. For prosessfullmektig etter tredje punktum gjelder tvisteloven § 12-1 på tilsvarende måte som for advokater.

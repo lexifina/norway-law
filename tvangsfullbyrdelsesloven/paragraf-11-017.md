@@ -1,0 +1,2 @@
+# § 11-17. Innhenting av opplysninger
+Medhjelperen skal forberede salget ved å foreta slike undersøkelser og å innhente slik dokumentasjon som er vanlig ved frivillig omsetning gjennom megler. Innhentet dokumentasjon skal være tilgjengelig for parter og rettighetshavere på medhjelperens kontor. For kjøpsinteresserte skal innhentet dokumentasjon være tilgjengelig som vanlig ved frivillig omsetning.

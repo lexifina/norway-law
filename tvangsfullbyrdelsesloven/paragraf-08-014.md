@@ -1,0 +1,4 @@
+# § 8-14. Avhenting av løsøret
+Besitter saksøkte løsøret, skal namsfogden om nødvendig hente det eller på annen måte sikre det mot rettsstridig forføyning fra saksøktes side, hvis ikke særlige forhold tilsier at det forblir i saksøktes besittelse inntil salget er gjennomført. Dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort, kan løsøret avhentes også før tvangssalg er besluttet.
+Avhenting kan bare skje etter forhåndsvarsel til saksøkte. Forhåndsvarsel er ikke nødvendig dersom namsfogden finner saksøkte eller en myndig person i saksøktes husstand på stedet, eller dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
+Har saksøkeren eller en tredjeperson på saksøkerens vegne løsøret i sin besittelse, kan namsfogden pålegge saksøkeren å bringe det til et fastsatt sted. Dersom pålegget ikke blir etterkommet, skal saken heves.

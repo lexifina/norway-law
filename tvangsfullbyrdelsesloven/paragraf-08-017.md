@@ -1,0 +1,5 @@
+# § 8-17. Virkningen av salget
+Ved inngåelsen av salgsavtalen blir kjøperen eier av gjenstanden hvis ikke annet følger av avtalen. Risikoen for salgsgjenstanden går likevel først over ved leveringen. Blir salgsgjenstanden ikke hentet eller mottatt til rett tid, og beror dette på forhold på kjøperens side, går risikoen over på kjøperen når gjenstanden er stilt til kjøperens rådighet.
+Ved betalingen av kjøpesummen kan kjøperen kreve salgsgjenstanden utlevert. Ved betalingen bortfaller alle begrensede rettigheter i salgsgjenstanden. Dette gjelder likevel ikke foranstående heftelser som ikke er pengeheftelser når de skal overtas av kjøperen utenfor kjøpesummen eller er beskyttet etter § 8-21 tredje ledd.
+Når kjøpesummen er betalt, gir namsfogden på begjæring av kjøperen eller saksøkte skriftlig erklæring om salget.
+Dersom det solgte løsøre besittes av noen av partene, eller av en person som er varslet etter § 8-8, og det viser seg at vedkommende etter salget ikke er villig til å oppgi besittelsen, kan kjøperen på grunnlag av salget og uten gebyr kreve tvangsfullbyrdelse etter kapittel 13.

@@ -1,0 +1,3 @@
+# § 9-4. Forberedelse
+Når tilbakelevering er besluttet, kan namsfogden hente det som skal tilbakeleveres dersom det finnes hensiktsmessig å holde tilbakeleveringsforretningen på annet sted enn der løsøret er. Dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort, kan løsøret avhentes eller på annen måte sikres mot rettsstridig forføyning fra saksøktes side før tilbakelevering er besluttet.
+Avhenting kan bare skje etter forhåndsvarsel til saksøkte. Varselet kan gis ved foreleggelsen av begjæringen. Forhåndsvarsel er likevel ikke nødvendig dersom namsfogden finner saksøkte eller en myndig person i saksøktes husstand på stedet, eller dersom fullbyrdelsen vil bli vesentlig vanskeliggjort om meddelelse gis.

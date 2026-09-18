@@ -1,0 +1,3 @@
+# § 6-5. Utsettelse og sikkerhetsstillelse ved innvendinger mot fullbyrdelsen
+Inntil retten kan avgjøre en innvending, kan den beslutte at fullbyrdelsen helt eller delvis skal utsettes mot eller uten at saksøkte stiller sikkerhet, eller at fullbyrdelsen bare kan gjennomføres dersom saksøkeren stiller sikkerhet. Retten kan også mot eller uten sikkerhet oppheve tvangsskritt som er foretatt. Rettens avgjørelser etter denne paragrafen kan ikke angripes.
+Så lenge en avgjørelse om å fremme fullbyrdelsen ikke er rettskraftig, kan retten bestemme at fullbyrdelsen ikke skal gjennomføres eller bare kan gjennomføres mot sikkerhet.

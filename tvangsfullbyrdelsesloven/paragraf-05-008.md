@@ -1,0 +1,3 @@
+# § 5-8. Partenes møteplikt, rett til å være til stede
+Partene har bare plikt til å være til stede ved en forretning eller et møte når namsfogden pålegger dem det. Uteblir en part som plikter å være til stede, avgjør namsfogden om forretningen eller møtet skal holdes eller utsettes. Dersom saksøkeren uteblir uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, kan saken heves.
+Alle som har en rett som blir berørt av det som skal foretas, har rett til å være til stede ved namsfogdens forretninger og møter. Andre har ikke rett til å være til stede om ikke namsfogden tillater det. Den som opptrer forstyrrende, kan vises bort.

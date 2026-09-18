@@ -1,0 +1,2 @@
+# § 10-14. Dekningsmåte
+Blir det søkt tvangsdekning i andre formuesgoder enn de som er nevnt foran, bestemmer namsfogden, etter særskilt å ha forelagt dekningsalternativene for partene, på hvilken måte dekningen skal skje. Det kan besluttes salg, utleie, at en fordring skal anvises saksøkeren til innkreving eller, når det er lovlig adgang til det, at rettigheten skal utøves ved en bestyrer etter regler som namsfogden fastsetter. Det kan også besluttes at formuesgodet skal selges ved en auksjon holdt av namsfogden etter reglene i kapittel 8 avsnitt III.

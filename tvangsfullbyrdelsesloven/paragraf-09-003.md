@@ -1,0 +1,2 @@
+# § 9-3. Namsmyndighet, begjæring, foreleggelse, beslutning om tilbakelevering
+Om namsmyndighet, innholdet av begjæringen, foreleggelse og beslutning om tilbakelevering gjelder §§ 8-3 til 8-9, unntatt § 8-5 tredje ledd, tilsvarende. Begjæringen skal inneholde en utregning og oppstilling over det saksøkeren vil godskrive seg etter § 9-8 første ledd. Ønsker saksøkeren at rettsvitner skal delta i verdsettingen, skal begjæringen gi opplysning om det.

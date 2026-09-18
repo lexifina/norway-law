@@ -1,0 +1,2 @@
+# § 7-13. Utlegg i felles bolig
+Dersom saksøkte er gift eller lever i et ekteskapslignende forhold som har vart i minst to år, eller hvor samboeren har, har hatt eller venter barn med saksøkte, kan utlegg tas i en ideell halvdel av felles bolig ervervet under samlivet, hvis ikke et annet eierforhold blir sannsynliggjort. At bare den ene part er registrert eller meldt som eier, er ikke i seg selv tilstrekkelig til å sannsynliggjøre partens enerett.

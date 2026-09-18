@@ -1,0 +1,3 @@
+# § 6-4. Omgjøring
+Retten kan av eget tiltak omgjøre en beslutning om fremme av tvangsfullbyrdelsen, valg av gjennomføringsmåte og andre avgjørelser i den grad fullbyrdelsen ikke er avsluttet eller en tredjepersons rett ikke er til hinder for omgjøringen. Første punktum gjelder ikke avgjørelser truffet under behandling ved allmennprosess.
+Når et utleggspant påberopes som tvangsgrunnlag i en sak om tvangsdekning for retten, kan retten etter begjæring oppheve utleggspantet i samme utstrekning som ved klage. Det samme gjelder når et utleggspant påberopes som tvangsgrunnlag i en sak om tvangsdekning for namsfogden, og det i denne saken settes fram klage for retten.

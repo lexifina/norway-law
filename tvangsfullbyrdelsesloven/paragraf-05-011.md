@@ -1,0 +1,4 @@
+# § 5-11. Utsettelse
+Namsfogden kan beslutte å utsette tvangsfullbyrdelsen dersom saksøkeren begjærer det og hensynet til saksøkte ikke taler imot. Ved tvangsfullbyrdelse i henhold til et særlig tvangsgrunnlag, kan det dessuten etter begjæring fra saksøkte gis utsettelse dersom det er reist søksmål om kravet. Er det særlige tvangsgrunnlaget et forvaltningsvedtak, gjelder det samme også dersom vedtaket er påklaget til overordnet forvaltningsorgan. Utsettelse kan gjøres avhengig av at det blir stilt sikkerhet. De skritt som er nødvendige for å hindre at fullbyrdelsen forspilles, kan alltid foretas.
+Utsettelse gis så vidt mulig på bestemt tid. Er fullbyrdelsen utsatt på ubestemt tid, fortsettes den ikke uten begjæring fra saksøkeren. Går det mer enn to år fra fullbyrdelsen ble utsatt, må begjæring om fullbyrdelse inngis på nytt.
+Blir fullbyrdelsen utsatt, skal partene og andre som er varslet om fullbyrdelsen underrettes.

@@ -1,0 +1,4 @@
+# § 3-2. Saksøkerens ansvar for sakskostnader i særlige tilfeller
+Saksøkeren kan pålegges helt eller delvis å erstatte saksøktes sakskostnader i tilfeller der saksøkte etter § 3-1 annet eller tredje ledd er fritatt for å erstatte saksøkerens sakskostnader dersom saken ikke har vært nødvendig eller dersom saksøkeren unødig har vidløftiggjort saken. I tilfeller som nevnt i § 3-1 annet ledd bokstav c skal saksøkeren pålegges å erstatte saksøktes sakskostnader.
+Saksøkerens kostnadsansvar fastsettes av retten ved kjennelse etter begjæring av saksøkte. Dersom saksøkeren pålegges helt eller delvis å erstatte saksøktes sakskostnader ved fullbyrdelsen av pengekrav, trekkes kostnadene fra i kravet.
+Krav om sakskostnader etter denne paragrafen må settes fram innen tre måneder etter at avgjørelse som avslutter saken, ble meddelt saksøkte. Dersom det ikke gjøres, tapes kravet. Tvisteloven §§ 16-12 til 16-14 gjelder tilsvarende.
