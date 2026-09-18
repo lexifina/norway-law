@@ -1,0 +1,2 @@
+# § 3a. Nasjonale krav til grossistvirksomhet i medhold av EØS-tillatelse
+Innehaver av tillatelse utstedt av annet land i EØS-området som gir rett til utøvelse av grossistvirksomhet i Norge, kan ikke pålegges strengere leveringskrav eller mer omfattende krav til offentlig tjenesteyting enn det som innehavere av grossisttillatelse utstedt i medhold av § 2 er pålagt. Slike krav må under enhver omstendighet være begrunnet ut fra hensynet til folkehelsen og må være avpasset det formål vilkåret skal fremme.

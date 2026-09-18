@@ -1,0 +1,2 @@
+# § 18. Virkeområde og formål
+Forskriftene i dette kapittel gjelder innlevering og behandling av opplysninger om omsetning av legemidler, inkludert vaksiner og medisinfôr, fra virksomheter som utøver engrosomsetning med legemidler. Formålet med bestemmelsene er å kartlegge legemiddelomsetningen i landet over tid slik at man får en oversikt over det totale legemiddelsalget til bruk for forskning på legemiddelområdet og for helsemyndighetenes overordnede planlegging og styring av legemiddelforsyningen.
