@@ -1,0 +1,2 @@
+# § 12
+Grossister kan bare kjøpe legemidler fra produsenter med tilvirkertillatelse eller fra godkjente grossister eller importører. Grossisten skal påse at produsenten, grossisten eller importøren har nødvendig tillatelse. Grossisten skal påse at den som legemidlene kjøpes fra overholder kravene i § 9 første ledd. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra denne bestemmelse.

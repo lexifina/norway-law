@@ -1,0 +1,2 @@
+# § 9a. Salgsdokument
+Ved all utlevering av legemidler skal grossisten vedlegge et salgsdokument som minst angir dato, legemidlets navn og legemiddelform, levert mengde og leverandørens og mottakerens navn og adresse. I tillegg skal transaksjonsdokumentasjonen for legemidler som skal ha sikkerhetsanordninger som nevnt i forskrift 18. desember 2009 nr. 1839 § 3-29 fjerde ledd inneholde varepartiets nummer (batchnummer).

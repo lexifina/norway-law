@@ -1,0 +1,5 @@
+# § 4
+Grossister som leverer til apotek, må som hovedregel innen 24 timer kunne levere hvor som helst i landet. I områder med vanskelige kommunikasjonsforhold skal leveranse som hovedregel skje innen 48 timer. Leveringsplikten omfatter alle legemidler som grossisten fører. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra dette kravet.
+Grossister som leverer til apotek, kan pålegges en forsyningsplikt for leveranser utenom normal åpningstid.
+Overfor utsalgssted som omsetter legemidler etter forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek gjelder ikke kravet i første ledd. Grossisten bestemmer selv hvilke utsalgssteder utenom apotek denne ønsker å handle med. Leveringstid skal i slike tilfelle avtales mellom grossist og utsalgssted.
+Grossist som omsetter legemidler til en virksomhet som ikke er apotek og som driver detaljsalg av reseptfrie legemidler, må levere de legemidler som denne virksomheten etterspør dersom disse inngår i minimumsutvalget som nevn i forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek § 9.
