@@ -1,0 +1,3 @@
+# § 11-6. Begjæringens innhold
+Foruten å oppfylle kravene i § 5-2, skal begjæringen opplyse om registerbetegnelsen og hvor formuesgodet befinner seg, samt om uregistrerte rettigheter i formuesgodet som saksøkeren kjenner til. Det bør dessuten gis opplysninger om formuesgodets art, størrelse og vedlikehold m m.
+Attest fra realregisteret om eierforholdet og registrerte heftelser legges ved begjæringen. Attesten skal ikke være utstedt mer enn tre måneder før begjæringen settes fram. For tvangsgrunnlag som nevnt i § 11-2 første ledd bokstavene a, b og d må attesten dessuten være utstedt tidligst ved registreringen av panteretten.

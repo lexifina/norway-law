@@ -1,0 +1,4 @@
+# § 11-13. Nærmere om salg ved medhjelper
+Medhjelperen bør rådføre seg med partene, rettighetshaverne og retten i viktige spørsmål som angår gjennomføring av salget. Spørsmål om lovligheten av bestemte salgsvilkår kan medhjelperen la utstå til budene forelegges for retten. Når partene ber om det, kan medhjelperen oppta forhandlinger med sikte på å unngå tvangssalg.
+Er omsetningen av formuesgodet underlagt konsesjon, skal namsmyndigheten bringe på det rene den høyeste pris som vil bli akseptert før formuesgodet blir lagt ut for salg. Den myndighet som avgjør konsesjonsspørsmålet, har plikt til å gi retten bindende uttalelse om høyeste pris som vil bli godkjent.
+Dersom medhjelperen kommer til at en annen fremgangsmåte enn salg gjennom medhjelperen sannsynligvis vil gi større utbytte, skal retten underrettes. Medhjelperens krav på godtgjørelse dekkes etter § 11-36 annet ledd, selv om tvangssalget gjennomføres på annen måte.

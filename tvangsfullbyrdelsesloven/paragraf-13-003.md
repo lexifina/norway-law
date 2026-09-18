@@ -1,0 +1,4 @@
+# § 13-3. Kompetent namsmyndighet
+Begjæring om utlevering av løsøre eller verdipapir skal settes fram for namsfogden i det distrikt hvor formuesgodet er. Dersom utlevering begjæres på grunnlag av et utenlandsk tvangsgrunnlag som nevnt i § 4-1 annet ledd bokstav f til h, gjelder § 7-3 femte ledd tilsvarende.
+Begjæring om fravikelse av fast eiendom skal settes fram for namsfogden i det distrikt hvor eiendommen er. Når tvangsfullbyrdelse blir begjært etter tvangsgrunnlag som nevnt i første ledd annet punktum og i § 13-2 tredje ledd bokstav d og e, skal begjæringen settes fram for tingretten. Saksøkeren kan i så fall overfor tingretten også påberope andre tvangsgrunnlag for fravikelsen.
+Begjæring om tvangsfullbyrdelse av andre krav settes fram for tingretten i det distrikt hvor saksøkte har alminnelig verneting. Begjæringen kan også settes fram for tingretten i det distrikt hvor det formuesgodet eller den gjenstand finnes som fullbyrdelsen gjelder.

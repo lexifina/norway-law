@@ -1,0 +1,4 @@
+# § 2-3. Namsfogdens stedlige kompetanse
+Når en begjæring om tvangsfullbyrdelse lovlig er satt fram for den kompetente namsfogd etter loven, vedblir namsfogden å være stedlig kompetent selv om det senere skjer slike endringer at namsfogden ikke fra først av kunne tatt saken til behandling. Tilsvarende gjelder når en domstol har overlatt til namsfogden å gjennomføre rettens beslutning om tvangsfullbyrdelse.
+En namsfogd kan ikke holde forretninger eller på annen måte opptre utenfor sitt distrikt. Unntak kan gjøres i påtrengende tilfeller, eller hvis distriktets namsfogd samtykker og omstendighetene gjør det hensiktsmessig at namsfogden opptrer utenfor sitt distrikt. En namsfogd kan alltid holde tvangssalg utenfor distriktet.
+I særlige tilfeller kan en namsfogd be namsfogden i et annet distrikt om å stå for skritt som den første namsfogden ikke selv kan foreta.

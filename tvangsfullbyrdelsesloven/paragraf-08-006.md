@@ -1,0 +1,4 @@
+# § 8-6. Begjæringens innhold
+Foruten å oppfylle kravene i § 5-2 skal salgsbegjæringen opplyse om rettigheter i løsøret som saksøkeren kjenner til. Så vidt mulig skal det opplyses om den effektive gjelden og rente som påløper for alle de rettighetshavere som har bedre prioritet enn saksøkeren i løsøret.
+Utskrift fra Løsøreregisteret legges ved begjæringen. Utskriften skal være tatt etter at grunnlaget ble tvangskraftig og ikke mer enn tre måneder før begjæringen settes fram. Dersom tvangsgrunnlaget er et utlegg registrert i Løsøreregisteret, behøver ikke utskrift legges ved dersom heftelsene er påført det registrerte dokument.
+Ved særskilt tvangssalg av lagrede reservedeler som omfattes av rettigheter i luftfartøy, skal det isteden legges ved attest fra realregisteret om eierforholdet og registrerte heftelser. § 11-6 annet ledd annet og tredje punktum gjelder tilsvarende.

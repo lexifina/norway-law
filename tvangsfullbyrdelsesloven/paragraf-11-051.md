@@ -1,0 +1,6 @@
+# § 11-51. Stadfestelse, virkningen av stadfestelse, rettsmiddel mot stadfestelse m m
+Når saksøkeren har begjært et bud stadfestet og byderen i tilfelle har stilt sikkerhet, skal retten ved kjennelse snarest mulig avgjøre om budet skal stadfestes. Innen seks uker fra auksjonsdagen kan et bud stadfestes selv om fristene etter § 11-50 tredje og fjerde ledd er oversittet. § 11-30 annet og fjerde ledd gjelder tilsvarende.
+Om virkningen av stadfestelsen gjelder § 11-31 tilsvarende. Beslutning som nevnt i § 11-31 annet ledd annet punktum treffes av tingretten.
+Om mislighold fra kjøper gjelder § 11-32 tilsvarende. § 11-32 tredje ledd annet punktum gjelder likevel ikke.
+Om utstedelse av skjøte gjelder § 11-33 første ledd tilsvarende. Kjøperen og den som skal yte eller formidler lån til kjøperen for erverv av formuesgodet, kan avtale at denne skal begjære skjøte utstedt, og at tingretten skal sende det til vedkommende. Avtalepant som sikrer lån gitt til kjøperen for erverv av formuesgodet, som vedkommende har besørget registrert, og som er registrert samme dag som skjøtet, går foran alle andre rettsstiftelser som utledes fra kjøperen uansett når de er registrert. Ved tvangssalg av skip gjelder dessuten sjøloven § 24 tredje ledd tredje punktum.
+Om rettsmiddel mot stadfestelsen og om oppgjøret ved opphevelse av stadfestelsen gjelder §§ 11-34 og 11-35 tilsvarende.

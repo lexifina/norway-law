@@ -1,0 +1,3 @@
+# § 8-23. Stedet for auksjonen m m
+Auksjonsmøtet holdes fortrinnsvis i et lokale som vanligvis nyttes til auksjoner. Dersom det anses hensiktsmessig, kan auksjonsmøtet isteden holdes et annet sted. Auksjon kan bare holdes på saksøktes bopel dersom saksøkte samtykker eller det på grunn av løsørets art vil vanskeliggjøre salget å holde auksjonen et annet sted.
+Under auksjonen skal vanligvis løsøret være til stede. Dette er likevel ikke nødvendig hvis muligheten for å besiktige gjenstandene må antas å være uten betydning for den prisen som oppnås, eller hvis det vil være særlig vanskelig å bringe løsøret til et egnet auksjonssted.

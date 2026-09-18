@@ -1,0 +1,3 @@
+# § 4-17. Utenlandsk tvangsgrunnlag
+Et utenlandsk tvangsgrunnlag som nevnt i § 4-1 annet ledd bokstavene f og g kan begjæres tvangsfullbyrdet når det er tvangskraftig i opphavsstaten.
+Et utenlandsk tvangsgrunnlag som nevnt i § 4-1 annet ledd bokstav h kan begjæres fullbyrdet når de vilkår som følger av overenskomsten er oppfylt. § 5-12 og § 6-5 gjelder bare i den utstrekning overenskomsten gir adgang til det. Det samme gjelder § 8-2 tredje ledd annet punktum, § 10-2 annet ledd annet punktum, § 11-2 annet ledd annet punktum og § 12-2 annet ledd annet punktum dersom det er tatt utlegg på grunnlag av et slikt tvangsgrunnlag.

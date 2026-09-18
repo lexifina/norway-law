@@ -1,0 +1,3 @@
+# § 11-26. Budenes bindende virkning
+Det kan bare tas hensyn til bud som er bindende for byderen i minst seks uker. Med rettens samtykke kan det likevel tas hensyn til bud med kortere bindingstid ned til 15 dager. Et bud som ikke lenger er bindende, kan bare stadfestes dersom byderen samtykker. Et bud er ikke bindende for byderen når det følger av alminnelige avtalerettslige regler at byderen er ubundet.
+Stadfester retten et bud, løses samtidig andre bydere fra sine bud. Nekter retten ved kjennelse å stadfeste noe bud, løses samtlige bydere fra sine bud. En byder løses dessuten fra sitt bud dersom saksøkeren gir avkall på adgangen til å begjære det stadfestet.

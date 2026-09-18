@@ -1,0 +1,2 @@
+# § 11-48. Innledningen av auksjonsmøtet
+Auksjonsmøtet starter med at auksjonsstyreren nevner det formuesgodet som skal selges, hvem som har begjært tvangssalget og for hvilket krav. Auksjonsstyreren gir de opplysninger som ellers kan være av betydning. Deretter skal utkastet til auksjonsvilkår leses opp. Etter at de tilstedeværende er gitt adgang til å uttale seg, fastsetter auksjonsstyreren vilkårene.

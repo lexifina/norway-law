@@ -1,0 +1,2 @@
+# § 8-15. Salgsvilkår
+Det skal gjøres oppmerksom på at salget er et tvangssalg og at kjøperen har begrenset adgang til å påberope mangler. Dersom kjøpesummen skal betales til namsfogden, skal kjøperen gjøres oppmerksom på dette. Det skal ellers gjøres oppmerksom på heftelser som kjøperen skal overta i tillegg til kjøpesummen etter § 8-16 første ledd tredje punktum. Det kan fastsettes nærmere salgsvilkår.

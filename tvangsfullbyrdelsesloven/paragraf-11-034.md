@@ -1,0 +1,5 @@
+# § 11-34. Rettsmiddel mot stadfestelsen
+En kjennelse som stadfester et bud, kan angripes ved anke. Anke kan bare grunnes på at budet ikke skulle ha vært stadfestet etter § 11-30 annet ledd bokstavene b til f. Anke kan ikke grunnes på innvendinger mot stadfestelse som ikke har vært fremsatt for tingretten. Anke kan likevel grunnes på nye innvendinger dersom det ikke kan legges den ankende til last at innvendingen ikke ble fremsatt tidligere, eller særlige omstendigheter taler for det.
+Ankefristen er en måned regnet fra avsigelsen. Det kan ikke begjæres oppfriskning for oversittelse av ankefristen etter at skjøte er registrert eller kjøpesummen er utbetalt. Begjæres det oppfriskning etter at skjøte er utstedt, skal retten straks sørge for at det anmerkes i realregisteret at stadfestelsen er angrepet.
+Ankerett har partene, personer som er varslet etter § 11-8 første ledd, kjøperen og rettighetshavere med en rett som salget har grepet inn i. Ankemotpart er enhver annen som er part eller kjøper.
+Dersom stadfestelsen av et bud blir opphevet, faller en kjennelse om fordelingen av kjøpesummen bort.

@@ -1,0 +1,7 @@
+# § 11-39. Mangler
+En mangel foreligger når:
+a) formuesgodet ikke svarer til opplysninger om vesentlige forhold som medhjelperen har gitt, og som kan antas å ha innvirket på kjøpet,
+b) medhjelperen har forsømt å gi opplysning om vesentlige forhold som denne måtte kjenne til og som kjøperen hadde grunn til å regne med å få, såfremt unnlatelsen kan antas å ha innvirket på kjøpet, eller
+c) formuesgodet er i vesentlig dårligere stand enn kjøperen hadde grunn til å regne med.
+Dersom formuesgodet har mangler, kan kjøperen kreve prisavslag. Kjøperen kan ikke heve kjøpet på grunn av mangler. Erstatning kan bare kreves av medhjelperen dersom denne har utvist skyld eller det foreligger annet særskilt rettsgrunnlag. Krav om prisavslag eller erstatning gjøres gjeldende ved søksmål. Søksmålet reises for den tingrett som har behandlet tvangssalget eller for den domstol som saken hører under etter tvisteloven. Ved søksmål om prisavslag saksøkes de som har fått del i den del av kjøpesummen som rammes av prisavslaget.
+Kjøpesummen må betales selv om prisavslag kreves. Dersom kjøperen krever at den del av kjøpesummen som rammes av kravet om prisavslag, ikke skal utbetales til de berettigede, skal denne delen av kjøpesummen holdes tilbake hvis ikke retten finner kravet om prisavslag åpenbart grunnløst. Dersom kjøperen ikke har reist søksmål om prisavslag innen to måneder regnet fra forfallstidspunktet for kjøpesummen, skal den tilbakeholdte del av kjøpesummen ikke lenger holdes tilbake.

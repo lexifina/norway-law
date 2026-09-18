@@ -1,0 +1,2 @@
+# § 9-9. Underretning
+Namsfogden skal gi partene meddelelse om verdsettingen dersom de er til stede og ellers snarest mulig etter at forretningen er holdt. Saksøkeren skal gis meddelelse om at innbetaling etter § 9-8 må skje innen utløpet av klagefristen etter § 9-12 første punktum. Dersom saksøkeren ikke har gjort dette og heller ikke har påklaget namsfogdens beslutning, skal saken heves. Har namsfogden tatt løsøret i forvaring, skal det leveres tilbake til saksøkte.

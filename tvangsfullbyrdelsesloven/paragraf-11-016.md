@@ -1,0 +1,6 @@
+# § 11-16. Varsling av parter og rettighetshavere
+Medhjelperen skal så langt det er mulig straks underrette partene, personer som er varslet etter § 11-8, og kjente rettighetshavere om tvangssalget med opplysning om hvem som er saksøker og hvilket krav tvangssalget er begjært for.
+Saksøkte skal oppfordres til innen en frist fastsatt av medhjelperen å opplyse om det finnes rettigheter i formuesgodet som ikke går fram av realregisteret, og om det finnes tilbehørsgjenstander som eies av andre eller som er beheftet særskilt. Unnlater saksøkte å opplyse om slike heftelser som saksøkte kjenner til, blir saksøkte ansvarlig overfor rettighetshaveren og kjøperen for tap unnlatelsen medfører.
+Saksøkeren og andre panthavere skal oppfordres til innen en frist fastsatt av medhjelperen å gi opplysning om størrelsen av pantekravet med renter og kostnader. En panthaver som unnlater å gi slike opplysninger innen fristen, er ansvarlig for økning i godtgjørelsen til medhjelperen som skyldes merarbeid som følge av unnlatelsen. Ved fordelingen av kjøpesummen dekkes økningen av panthaverens del av kjøpesummen.
+Andre rettighetshavere skal oppfordres til å gi de opplysninger som trengs for utarbeidelsen av salgsoppgaven og utkast til fordelingskjennelse.
+I underretningen skal medhjelperen gjøre oppmerksom på følgen av å unnlate å gi opplysninger.

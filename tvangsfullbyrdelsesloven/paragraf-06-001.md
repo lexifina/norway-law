@@ -1,0 +1,4 @@
+# § 6-1. Forholdet til andre regler
+Tvisteloven første, fjerde og femte del, med unntak for kapittel 4, 16 III og IV og 20, samt kapittel 8 gjelder for tingretten.
+Kapittel 5 i loven her gjelder tilsvarende for tingretten. Det gjelder likevel ikke § 5-1, § 5-7, § 5-8 annet ledd, § 5-13 annet ledd, § 5-15, § 5-16 og § 5-17 første ledd annet og tredje punktum. § 5-14 gjelder tilsvarende også når loven her foreskriver forkynnelse. I saker om tvangsdekning i fast eiendom, borettslagsandel eller adkomstdokument til leierett eller borett til bolig, kan retten i særlige tilfeller beslutte utsettelse etter § 5-12 selv om saksøkte ikke betaler en femtedel av saksøkerens samlede krav dersom tvangsdekningen vil medføre at saksøkte taper retten til nødvendig bolig for seg og sin familie.
+Om rettsbøker for tingrettens rettsmøter gjelder tvisteloven kapittel 13 II og 14. Om innføring i rettsbok og opptak av forklaringer gjelder samme regler som under hovedforhandling.

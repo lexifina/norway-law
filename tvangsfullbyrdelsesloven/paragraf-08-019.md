@@ -1,0 +1,6 @@
+# § 8-19. Avslutningen av salget
+Salget avsluttes ved at kjøpesummen utbetales til de berettigede.
+Rettsgebyret og godtgjørelse til oppnevnt medhjelper dekkes forlodds av kjøpesummen. Deretter dekkes panthavere og andre innehavere av begrensede rettigheter etter prioritet. Før resten i tilfelle utbetales til eieren, undersøkes i Løsøreregisteret om det er stiftet ytterligere heftelser i salgsgjenstanden før bindende salgsavtale ble inngått.
+Er et krav betinget, skal en del av kjøpesummen avsettes til eventuell dekning av kravet. En del av kjøpesummen kan avsettes til dekning av omstridte eller usikre krav. Avsatte beløp plasseres på best mulige rentebærende vilkår i norsk bank inntil det er avgjort hvordan de skal fordeles.
+Ble tvangssalget begjært etter et alminnelig tvangsgrunnlag som hadde foregrepet tvangskraft, kan saksøkerens del av kjøpesummen bare utbetales før grunnlaget er blitt rettskraftig hvis saksøkte samtykker. Tilsvarende gjelder når salget er begjært etter § 8-2 tredje ledd tredje punktum.
+For pantekrav som er knyttet til et verdipapir, skal det ikke utbetales del av kjøpesummen før panthaveren har fremlagt dokumentet. Ved utbetaling skal beløpet noteres på dokumentet. Gir dokumentet uttrykk for at kravet er sikret ved panterett i løsøret, skal det også noteres at panteretten er falt bort som følge av tvangssalget.

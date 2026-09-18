@@ -1,0 +1,5 @@
+# § 11-54. Ny auksjon, heving av saken
+Dersom det ikke blir gitt bindende bud eller saksøkeren i auksjonsmøtet erklærer at ingen av budene vil bli begjært stadfestet, kan saksøkeren innen en måned kreve nytt salgsforsøk. Dersom saksøkeren har forbeholdt seg frist til å ta stilling til om bud skal begjæres stadfestet, kan saksøkeren innen fristen i stedet kreve nytt salgsforsøk.
+Dersom bud blir begjært stadfestet og retten nekter stadfestelse av en grunn som kan avhjelpes før eller ved ny auksjon, skal saksøkeren gis anledning til å begjære ny auksjon innen en frist retten fastsetter. Dette gjelder likevel ikke dersom begjæringen innkom eller sikkerhet først ble stilt mer enn en måned etter auksjonsdagen.
+Det kan bare begjæres ny auksjon en gang. Når retten har nektet stadfestelse etter § 11-30 annet ledd bokstavene a, c, e eller f, kan saksøkeren likevel alltid begjære ny auksjon.
+Når avgitte bud ikke er stadfestet, bud ikke lenger er bindende og det ikke lenger kan kreves ny auksjon, skal saken heves.

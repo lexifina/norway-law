@@ -1,0 +1,3 @@
+# § 4-8. Tvangsfullbyrdelse overfor arving og gjenlevende ektefelle
+Et tvangsgrunnlag overfor en person som senere er avgått ved døden, er også tvangsgrunnlag overfor den avdødes arving som har overtatt ansvaret for den avdødes forpliktelser, og overfor gjenlevende ektefelle eller samboer i uskifte. Et tvangsgrunnlag rettet mot en avdød i egenskap av eier av et formuesgode, er tvangsgrunnlag også overfor en testamentsarving.
+Et tvangsgrunnlag overfor en avdød er også tvangsgrunnlag overfor avdødes dødsbo som skiftes offentlig i den utstrekning det er adgang til tvangsfullbyrdelse mot slike boer.

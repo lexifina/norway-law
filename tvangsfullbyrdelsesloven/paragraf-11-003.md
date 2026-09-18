@@ -1,0 +1,6 @@
+# § 11-3. Kompetent namsmyndighet
+Begjæring om tvangsdekning i fast eiendom, og begjæring om tvangssalg av borettslagsandel som er registrert i grunnboken, skal settes fram for tingretten i den krets der eiendommen eller boligen ligger.
+Begjæring om tvangsdekning i skip og luftfartøy skal settes fram for tingretten i den krets der skipet eller luftfartøyet er eller ventes å komme i nær fremtid. Dersom begjæringen gjelder tvangsbruk av norsk skip eller luftfartøy, skal begjæringen isteden settes fram for tingretten ved det alminnelige vernetinget til den som er registrert som eier, eller til en representant som kan motta søksmål på vedkommendes vegne.
+Begjæring om tvangsdekning i akvakulturtillatelsen skal settes fram for tingretten ved det alminnelige vernetinget til den som er registrert som innehaver. Dersom innehaveren av tillatelsen ikke har alminnelig verneting i Norge, settes begjæringen fram for tingretten for den kommunen som tillatelsen er knyttet til i akvakulturregisteret.
+Begjæring om tvangsdekning i kraftledninger skal settes fram for tingretten i en krets der ledningen går. For kraftledninger som opprinnelig ble registrert av en tingrett, settes begjæringen fram for denne tingretten.
+Begjæring om tvangsdekning i andre realregistrerte formuesgoder skal settes fram for tingretten i den krets der formuesgodet er registrert.

@@ -1,0 +1,2 @@
+# § 11-41. Partiell rettsmangel
+En ikke-pengeheftelse som det ikke er tatt forbehold om i salgsoppgaven, er likevel i behold dersom den ikke er satt til side etter § 11-21 annet ledd og heller ikke er falt bort ved registrering av skjøtet etter alminnelige regler om godtroerverv. Er en ikke-pengeheftelse i behold til tross for at det ikke er tatt forbehold om den i salgsoppgaven, gjelder § 11-39 annet og tredje ledd tilsvarende.

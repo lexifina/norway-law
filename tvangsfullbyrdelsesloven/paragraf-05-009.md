@@ -1,0 +1,3 @@
+# § 5-9. Namsfogdens adgang til bolig, forretningslokaler m.m.
+I den utstrekning det er nødvendig for fullbyrdelsen, kan namsfogden kreve å få adkomst til bolig, forretningslokaler eller annen eiendom som saksøkte helt eller delvis eier eller besitter.
+Når et formuesgode er besluttet tvangssolgt, har saksøkte og besitteren plikt til å gi medhjelper og andre etter namsfogdens eller medhjelperens bestemmelse adkomst til salgsgjenstanden. Namsfogden kan bestemme at saksøkte ikke skal ha anledning til å være til stede når de som er interessert i å kjøpe, gis adgang til å besiktige salgsgjenstanden.

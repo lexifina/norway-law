@@ -1,0 +1,3 @@
+# § 11-59. Fordeling av inntektene m m
+Av inntektene dekkes først nødvendige utgifter til drift og vedlikehold, medregnet forsikringspremier og godtgjørelse til utenforstående bestyrer og revisor. Deretter dekkes forfalte krav, medregnet renter og kostnader, som har bedre prioritet enn saksøkerens krav. Etter dette dekkes vederlag til saksøkeren når denne er bestyrer. Deretter dekkes forfalte deler av saksøkerens krav, dersom ikke saksøkeren bestemmer at det isteden skal utbetales til saksøkte eller brukes til å dekke krav med prioritet etter saksøkeren.
+Saksøkte er ikke ansvarlig for underskudd ved tvangsbruken.

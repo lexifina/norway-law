@@ -1,0 +1,4 @@
+# § 5-21. Sammenstilling og automatiserte avgjørelser
+Namsfogden kan sammenstille innhentede personopplysninger når det er nødvendig for namsfogdens arbeid, herunder til kontroll-, veilednings-, analyse- og statistikkformål.
+Namsfogden kan treffe avgjørelser som utelukkende er basert på automatisert behandling. Behandlingen må sikre partenes krav til forsvarlig saksbehandling og være forenlig med retten til vern av personopplysninger. Avgjørelsen kan ikke bygge på skjønnsmessige vilkår i lov eller forskrift, med mindre avgjørelsen er utvilsom. Partene har rett til manuell overprøving av avgjørelsen.
+Kongen kan i forskrift gi nærmere regler om sammenstilling og automatiserte avgjørelser, blant annet om formålet med behandlingen, hvilke personopplysninger som kan behandles, og hvem det kan behandles opplysninger om.

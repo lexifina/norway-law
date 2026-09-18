@@ -1,0 +1,2 @@
+# § 7-12. Formuesgoder hos tredjeperson
+Utlegg kan tas i ikke-realregistrert løsøre og verdipapirer som er i en tredjepersons besittelse, dersom det er sannsynlig at saksøkte er eier. Det samme gjelder realregistrerte formuesgoder, finansielle instrumenter registrert i en verdipapirsentral, aksjer og adkomstdokumenter til leierett eller borett til husrom som en tredjeperson er registrert eller meldt som eier av.

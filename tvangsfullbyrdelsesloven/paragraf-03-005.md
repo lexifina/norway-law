@@ -1,0 +1,3 @@
+# § 3-5. Bortfall av stilt sikkerhet
+Dersom saksøkeren i en sak om tvangsfullbyrdelse hvor tvangsgrunnlaget er gitt foregrepet tvangskraft har stilt sikkerhet for mulig erstatning til saksøkte, kan sikkerheten kreves frigitt når tvangsgrunnlaget er blitt rettskraftig, eller når det er gått mer enn tre måneder etter at saksøkte fikk underretning om at tvangsgrunnlaget er endret eller opphevet uten at søksmål om erstatning er reist.
+Dersom en saksøkt har stilt sikkerhet for å avverge tvangsfullbyrdelse, kan sikkerheten kreves tilbake når det krav som sikkerheten er stilt for, er falt bort eller når det er fastslått at kravet ikke er til.

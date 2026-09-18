@@ -1,0 +1,4 @@
+# § 8-16. Forholdet til bedre prioriterte rettighetshavere
+Salget kan bare gjennomføres dersom den pris som oppnås dekker alle heftelser med bedre prioritet enn saksøkerens krav. For beregning av foranstående pengeheftelser gjelder § 8-19 annet og tredje ledd tilsvarende. Foranstående heftelser som ikke er pengeheftelser, skal overtas av kjøperen utenfor kjøpesummen hvis ikke rettighetshaveren samtykker i at heftelsen gjøres om i penger. Dersom det viser seg at den nødvendige pris ikke kan oppnås, skal namsfogden heve saken.
+Uansett pris kan et salg gjennomføres dersom foranstående rettighetshavere har samtykket i salget, eller saksøkeren har stilt sikkerhet for deres krav.
+Dersom løsøret besittes av en bedre prioritert panthaver, kan tvangssalg bare gjennomføres dersom gjenstanden stilles til disposisjon for den som forestår salget. Er det stilt sikkerhet for panthaverens krav, plikter vedkommende å utlevere gjenstanden til den som forestår salget.

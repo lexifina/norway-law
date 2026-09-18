@@ -1,0 +1,3 @@
+# § 7-24. Klage
+Når det er tatt utleggspant, kan klage til tingretten etter § 5-16 settes fram så lenge tvangsdekning ikke er begjært. Når det er besluttet dekning ved utleggstrekk, kan klage settes fram så lenge trekket løper. Partene kan likevel ikke klage over valg av utleggsgjenstand senere enn en måned etter at de ble underrettet om utlegget.
+Klage over størrelsen av et utleggstrekk behandles av den namsmyndigheten som er angitt i § 7-21 annet ledd. Klage over fordelingen av innbetalte trekk behandles av Innkrevingsmyndigheten. Avgjørelsen av klagen er bindende for alle fordringshavere med krav i trekket.

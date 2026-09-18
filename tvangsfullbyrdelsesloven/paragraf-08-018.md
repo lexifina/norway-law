@@ -1,0 +1,4 @@
+# § 8-18. Mislighold fra kjøperen
+Dersom kjøpesummen ikke blir betalt innen betalingsfristen, plikter kjøperen å betale forsinkelsesrente etter lov om renter ved forsinket betaling m.m. § 3 første ledd første punktum.
+Oversitter kjøperen betalingsfristen, skal den som står for salget straks varsle kjøperen om at kjøpet vil bli hevet dersom kjøpesummen med renter ikke er betalt innen en frist på minst to uker. Oversittes denne fristen, skal kjøpet heves og salget fortsettes.
+Blir salg gjennomført etter opphevelsen, er kjøperen ansvarlig for forskjellen overfor rettighetshavere som ville fått bedre dekning ved det første salget enn ved det siste, dersom ikke misligholdet skyldtes en uforutsett hindring utenfor kjøperens kontroll. Krav mot kjøperen etter dette leddet gjøres gjeldende ved søksmål for de alminnelige domstoler. Søksmålet kan reises i den rettskrets der namsfogden har sitt kontor.

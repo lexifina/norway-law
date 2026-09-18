@@ -1,0 +1,4 @@
+# § 8-13. Særskilt om salg ved medhjelper
+Namsfogden avgjør om medhjelperen skal ha adgang til å inngå bindende salgsavtale. Dersom medhjelperen ikke har adgang til å inngå bindende avtale, innhenter medhjelperen bud og forelegger det for namsfogden til godkjenning. Det samme kan medhjelperen gjøre også ellers.
+Namsfogden avgjør om medhjelperen skal motta kjøpesummen og kan i tilfelle pålegge medhjelperen å holde kjøpesummen adskilt fra egne midler. Namsfogden kan bestemme at medhjelperen skal utbetale kjøpesummen til parter og rettighetshavere når det finnes ubetenkelig. Dersom medhjelperen ikke skal gjøre dette, skal kjøpesummen innbetales til namsfogden med fradrag for medhjelperens godtgjørelse.
+Dersom medhjelperen antar at en annen fremgangsmåte enn salg gjennom medhjelperen sannsynligvis vil gi større utbytte, skal namsfogden underrettes. Medhjelperens krav på godtgjørelse dekkes etter § 8-19 annet ledd, selv om tvangssalget gjennomføres på annen måte.

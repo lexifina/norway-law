@@ -1,0 +1,2 @@
+# § 7-27. Beslutning om opphør av registrering av «intet til utlegg»
+Er det krav som ble søkt inndrevet i en sak som ble avsluttet ved intet til utlegg, dekket eller bortfalt på annen måte, eller er tvangsgrunnlaget opphevet, falt bort eller kjent ugyldig, skal namsfogden på begjæring treffe beslutning om at registreringen i Løsøreregisteret av beslutningen om intet til utlegg skal slettes. § 7-26 tredje ledd gjelder tilsvarende.

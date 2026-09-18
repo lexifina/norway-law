@@ -1,0 +1,3 @@
+# § 7-11. Formuesgoder hos saksøkte
+Utlegg kan tas i ikke-realregistrert løsøre og verdipapirer som er i saksøktes besittelse, dersom det ikke sannsynliggjøres at en annen er eier. Det samme gjelder realregistrerte formuesgoder, finansielle instrumenter registrert i en verdipapirsentral, aksjer og adkomstdokumenter til leierett eller borett til husrom som saksøkte er registrert eller meldt som eier av.
+Er ikke-realregistrert løsøre eller verdipapirer i sambesittelse mellom saksøkte og en eller flere andre, kan utlegg tas i hele formuesgodet dersom det ikke sannsynliggjøres at en annen helt eller delvis er eier.

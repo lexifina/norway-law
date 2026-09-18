@@ -1,0 +1,8 @@
+# § 2-17. Gjennomføring av beslutning om utleggstrekk
+Dersom kommunen beslutter utleggstrekk, fremsettes beslutningen for den namsfogden som er kompetent til å etablere utleggstrekk mot skyldneren. Kongen kan fastsette hvordan beslutningen skal fremsettes.
+Beslutningen skal inneholde skyldnerens navn, adresse og fødselsnummer eller d-nummer, en nøyaktig beregning av kravet med sakskostnader og renter fram til beslutningsdatoen, nøyaktige opplysninger om beregningen av renter fra beslutningsdatoen, og en angivelse av kravets prioritet etter dekningsloven § 2-8.
+Dersom det allerede løper utleggstrekk mot skyldneren, meldes kravet umiddelbart inn i trekket.
+Dersom det ikke allerede løper utleggstrekk mot skyldneren, skal namsfogden forsøke å etablere utleggstrekk mot vedkommende. Namsfogden skal av eget tiltak påse at denne er kompetent til å etablere utleggstrekk, og at skyldneren har partsevne og er prosessdyktig.
+Namsfogden forelegger kommunens beslutning for skyldneren med oppfordring om å uttale seg om forhold av betydning for om utleggstrekk kan etableres og om trekkets størrelse. Skyldnerens frist for å uttale seg fastsettes til en bestemt dato som ligger minst tre uker fra foreleggelsen ble sendt. Kongen kan i forskrift gi regler om det nærmere innholdet i foreleggelsen.
+Når skyldnerens frist for å uttale seg har løpt ut, avgjør namsfogden om det skal etableres utleggstrekk. Et utleggstrekk etableres og gjennomføres som fastsatt i § 7-20. Dersom det ikke er rom for trekk, underretter namsfogden kommunen og skyldneren om det.
+Både kommunen og skyldneren kan påklage namsfogdens avgjørelser i samsvar med §§ 5-16 og 7-24.

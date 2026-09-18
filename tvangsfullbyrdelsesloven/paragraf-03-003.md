@@ -1,0 +1,2 @@
+# § 3-3. Sakskostnader ved klage m v
+Tvisteloven kapittel 20 gjelder for partenes ansvar for sakskostnader ved rettens behandling av tvister og klage etter § 5-16 og ved rettsmidler mot rettens avgjørelser. I saker om tvangsfullbyrdelse av pengekrav dekkes sakskostnader som saksøkte blir pålagt å erstatte sammen med kravet. Pålegges saksøkeren å erstatte motpartens kostnader ved fullbyrding av pengekrav, trekkes kostnadene fra i kravet.

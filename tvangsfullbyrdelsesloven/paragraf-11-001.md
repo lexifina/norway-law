@@ -1,0 +1,6 @@
+# § 11-1. Innledning
+Den som har panterett i et formuesgode som er registrert i et realregister, i en registrert særlig rett i et slikt formuesgode eller i en ideell andel i et slikt formuesgode eller en slik rett, kan begjære tvangsdekning ved tvangssalg eller tvangsbruk etter reglene i dette kapitlet når det foreligger tvangskraftig tvangsgrunnlag. Tvangsdekning på grunnlag av panterett i registrert panterett skjer likevel etter reglene i kapittel 10. Tvangssalg gjennomføres etter reglene i avsnitt II og III og tvangsbruk etter reglene i avsnitt IV.
+Den som har tinglyst utleggspant i en utinglyst rettighet i fast eiendom, kan også begjære dekning etter dette kapitlet.
+Den som har registrert en sikkerhetsrett i mobilt løsøre etter Cape Town-konvensjon 16. november 2001 om internasjonale sikkerhetsretter i mobilt løsøre og protokoll 16. november 2001 om særlige forhold for luftfartøysløsøre, kan begjære dekning etter konvensjonens og protokollens regler eller etter reglene i dette kapitlet.
+Tvangsbruk kan nektes når det av særlige grunner vil påføre saksøkte eller rettighetshavere i formuesgodet vesentlig skade eller ulempe, og panthaveren må antas å være like godt tjent med å kreve tvangssalg.
+Tvangsbruk kan ikke gjennomføres for andel i borettslag og for akvakulturtillatelser.

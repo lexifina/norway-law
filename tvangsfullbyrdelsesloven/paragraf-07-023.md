@@ -1,0 +1,3 @@
+# § 7-23. Avslutning av sak med intet til utlegg
+Når det ikke blir tatt utlegg fordi saksøkte ikke har formuesgoder eller lønn eller andre pengekrav som nevnt i dekningsloven § 2-7 som det kan tas utlegg i, avsluttes saken ved at namsfogden gir begge parter gjenpart av namsboken som viser utfallet og hva som er foretatt. I namsboken skal det opplyses at utfallet vil bli registrert i Løsøreregisteret. Namsfogden sørger omgående for registreringen.
+Der saksøkte er en fysisk person som ikke allerede er ilagt utleggstrekk, skal utfallet bare registreres i Løsøreregisteret dersom namsfogden er kompetent til å etablere utleggstrekk.
