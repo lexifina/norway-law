@@ -1,0 +1,2 @@
+# § 6. Nasjonale bestemmelser om merking
+Dersom EU-gjødselvarer merkes med kvalitetsklasse 0 eller I etter bestemmelsen om frivillig merking i forordning (EU) 2019/1009 artikkel 4, jf. vedlegg III del I nr. 8, gjelder forskrift 29. januar 2025 nr. 116 om produksjon, omsetning og import av gjødselvarer av organisk opphav og visse uorganiske gjødselvarer (gjødselvareforskriften) § 21 tilsvarende for slike EU-gjødselvarer.
