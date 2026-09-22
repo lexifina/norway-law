@@ -1,0 +1,2 @@
+# § 7. Nasjonale bestemmelser om lagring og bruk av EU-gjødselvarer av organisk opphav og visse uorganiske EU-gjødselvarer
+Bestemmelsene i forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv. (gjødselbrukforskriften) kapittel 2 til 8 gjelder tilsvarende for EU-gjødselvarer. Gjødselbrukforskriften §§ 24 og 25 gjelder likevel bare EU-gjødselvarer av organisk opphav, uorganiske dyrkingsmedier og uorganiske jordforbedringsmidler.
