@@ -1,0 +1,2 @@
+# § 19. Utvidet bevilling til fri sakførsel
+Hvis faktisk samlet timeforbruk i saken overstiger fastsatt stykkpris med mer enn 50 prosent, og det godtgjøres at det foreligger særlige omstendigheter ved oppdraget som begrunner en slik timebruk, kan den som har kompetanse til å innvilge fri sakførsel utvide bevillingen. Det samlede salæret skal i så fall fastsettes skjønnsmessig etter salærforskriften av den rett eller det forvaltningsorgan som har saken til behandling.

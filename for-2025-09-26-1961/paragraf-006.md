@@ -1,0 +1,4 @@
+# § 6. Fradrag for søker med forsørgeransvar
+For en søker som har forsørgeransvar for barn under 18 år, jf. barnelova kapittel 8, skal det gjøres et fradrag ved fastsettingen av betalingsevnen. Fradraget er 0,5 ganger folketrygdens grunnbeløp for søkere med ett barn, 0,65 ganger folketrygdens grunnbeløp for søkere med to barn, og 0,75 ganger folketrygdens grunnbeløp for søkere med tre eller flere barn.
+For en søker som er gift eller som lever sammen med andre med felles økonomi, skal det gjøres et felles fradrag etter fastsettingen av betalingsevnen etter § 2.
+Forsørgeransvar dokumenteres gjennom opplysninger om foreldreskap som innhentes automatisk fra Folkeregisteret til rettshjelpsapplikasjonen. Dersom det ikke er tilgjengelig opplysninger i Folkeregisteret, må søkeren dokumentere at søkeren har barn under 18 år for å få fradrag.

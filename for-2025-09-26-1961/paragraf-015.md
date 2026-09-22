@@ -1,0 +1,2 @@
+# § 15. Søknad om utvidet bevilling til fritt rettsråd
+Hvis faktisk samlet timeforbruk i saken blir over det dobbelte av fastsatt stykkpris og det godtgjøres at det foreligger særlige omstendigheter ved oppdraget som begrunner en slik timebruk, kan statsforvalteren utvide en bevilling til fritt rettsråd. Det samlede salæret skal i så fall fastsettes skjønnsmessig av statsforvalteren etter salærforskriften § 7.
