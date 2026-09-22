@@ -1,0 +1,2 @@
+# § 12. Automatisert beregning av søkerens betalingsevne og egenandelsprosent
+Beregningen av en søkers betalingsevne og egenandelsprosenten som søkeren skal betale, baseres på en automatisert behandling av opplysninger i søknadsportalen for rettshjelp om søkerens inntekt, formue og forsørgeransvar for barn, og inntekten og formuen til søkerens ektefelle eller den søkeren lever sammen og har felles økonomi med.

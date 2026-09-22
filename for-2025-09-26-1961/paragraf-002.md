@@ -1,0 +1,3 @@
+# § 2. Fastsetting av betalingsevnen til en søker som er gift eller som lever sammen med andre med felles økonomi
+For en søker som er gift eller som lever sammen med andre med felles økonomi, skal bruttoinntektene og nettoformuene legges sammen når betalingsevnen skal fastsettes etter § 1. Søkerens betalingsevne skal utgjøre 0,6 ganger den samlede betalingsevnen.
+Dersom personene er hverandres motparter eller er gift, men kan dokumentere at de formelt eller faktisk er separert, skal betalingsevnen fastsettes etter § 1. Det samme gjelder dersom den ene personen bor i utlandet og det ikke er mulig å fremskaffe opplysninger om vedkommendes inntekt og formue.

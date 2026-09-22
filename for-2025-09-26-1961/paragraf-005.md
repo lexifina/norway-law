@@ -1,0 +1,3 @@
+# § 5. Dokumentasjon av bruttoinntekt og nettoformue
+Bruttoinntekt og nettoformue skal dokumenteres gjennom siste tilgjengelige skatteoppgjør. Dersom det ikke er et skatteoppgjør tilgjengelig, kan bruttoinntekt dokumenteres gjennom innrapporterte opplysninger om lønn og tilsvarende ytelser. Skatteoppgjør og innrapporterte opplysninger innhentes automatisk fra Skatteetaten til søknadsportalen for rettshjelp. Dersom det ikke er mulig å innhente opplysninger fra Skatteetaten, må søkeren selv dokumentere bruttoinntekt og nettoformue.
+Mottakerorganet skal legge opplysningene som følger av siste skatteoppgjør til grunn, med mindre søkeren har dokumentert at bruttoinntekten eller nettoformuen er endret slik at betalingsevnen er endret med 15 prosent eller mer.
