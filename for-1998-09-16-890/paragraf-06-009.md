@@ -1,0 +1,2 @@
+# § 6-9. (unntak fra kravet i folketrygdloven § 4-5 om å være arbeidsfør for permitterte deltakere i arbeidsmarkedstiltaket varig lønnstilskudd)
+For medlemmer som deltar i arbeidsmarkedstiltaket varig lønnstilskudd etter forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak kapittel 10, og som permitteres fra sin stilling, gjelder ikke kravet i folketrygdloven § 4-5 om å være arbeidsfør for å kunne anses som reell arbeidssøker.

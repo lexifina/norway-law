@@ -1,0 +1,3 @@
+# § 6-2. (permittering i visse virksomheter)
+Dagpenger ytes ikke ved permittering i statlig, fylkeskommunal eller kommunal virksomhet. Det ytes heller ikke dagpenger ved permittering i kulturinstitusjoner, organisert som aksjeselskap, stiftelse o.l., dersom disse i vesentlig grad får støtte til driften fra det offentlige.
+Begrensningene i første ledd gjelder ikke ved permitteringer som skyldes brann, ulykker, naturomstendigheter eller andre uforutseelige hendinger. Begrensningene i første ledd kommer heller ikke til anvendelse ved permitteringer i statlig, fylkeskommunal eller kommunal næringsvirksomhet, når virksomheten er etablert/organisert som selvstendig enhet, og drives etter samme prinsipper som privat næringsvirksomhet.
