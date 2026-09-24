@@ -1,0 +1,2 @@
+# § 10-3. (korrigering av forskuddsanvisning)
+For lite eller for mye utbetalt stønad pga endringer som nevnt i § 2-2 og § 10-2 i denne forskriften, skal korrigeres ved første mulige anvisning for så vidt gjelder personer som fortsetter stønadsforholdet etter forskuddsperioden. Personer som ikke fortsetter stønadsforholdet, plikter å tilbakebetale for mye utbetalt stønad. For lite utbetalt stønad skal etterbetales uten ugrunnet opphold.

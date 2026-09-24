@@ -1,0 +1,7 @@
+# § 11-2. (beregning av vanlig arbeidstid)
+Som vanlig arbeidstid regnes den samlede arbeidstiden medlemmet hadde før siste arbeidstidsreduksjon, når arbeidstiden har vært fast i minst seks måneder.
+Dersom medlemmet har hatt varierende arbeidstid, settes vanlig arbeidstid i stedet til gjennomsnittet av den samlede arbeidstiden medlemmet har hatt de siste tolv månedene før siste arbeidstidsreduksjon.
+Et medlem som dokumenterer arbeidstiden, kan kreve en gjennomsnittsberegning på grunnlag av arbeidstimene hun eller han hadde de siste 36 månedene forut for siste arbeidstidsreduksjon.
+Perioder med rett til sykepenger etter folketrygdloven kapittel 8, rett til stønad ved barns og andre nærståendes sykdom etter folketrygdloven kapittel 9 og rett til ytelser ved svangerskap, fødsel og adopsjon etter folketrygdloven kapittel 14 regnes som perioder med arbeid, med tilsvarende arbeidstid som medlemmet hadde i arbeidsforhold forut for sykmeldings- eller permisjonsperioden. Det samme gjelder perioder medlemmet mottar ytelse fra arbeidsgiver som trer i stedet for arbeidsinntekt, jf. folketrygdloven § 4-3 første ledd tredje punktum. Uker med avtjent verneplikt regnes som 37,5 timer arbeid per uke.
+For medlemmer som har rett til dagpenger etter folketrygdloven § 4-19 etter avtjent verneplikt settes vanlig arbeidstid til 37,5 timer per uke.
+Ved gjennomsnittsberegning for arbeidstakere i fiskeforedlingsindustrien og i fiskeoljeindustrien inngår kun uker med arbeid i beregningen.

@@ -1,0 +1,2 @@
+# § 13-4. (supplerende regler til trygdeforordningen artikkel 64 nr. 1 bokstav a)
+Arbeids- og velferdsetaten kan samtykke til å forkorte fireukersperioden i trygdeforordningen artikkel 64 nr. 1 bokstav a dersom dagpengemottakeren skal følge ektefelle eller samboer til et annet EØS-land, Norden eller Sveits der denne har tatt arbeid, forutsatt at alle vilkårene i trygdeforordningen artikkel 64 nr. 1 og gjennomføringsforordningen artikkel 55 er oppfylt og at vedkommende oppfyller alle vilkårene for rett til dagpenger under arbeidsløshet.
