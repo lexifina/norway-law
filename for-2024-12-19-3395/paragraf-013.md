@@ -1,0 +1,4 @@
+# § 13. Krav om tiltaksplan
+Virksomheter som mottar kompensasjon skal utarbeide en tiltaksplan som viser hvordan kompensasjonen skal brukes på klima- og energieffektiviseringstiltak, jf. § 11. Virksomheter i samme konsern kan legge frem en plan på konsernnivå.
+Tiltaksplanen skal som minimum beskrive alle planlagte tiltak, estimerte kostnader, tidsplan for gjennomføring og en vurdering av tiltakenes potensial for reduksjon av klimagassutslipp eller energieffektivisering.
+Tiltaksplanen skal legges frem for Miljødirektoratet når en virksomhet søker om CO2-kompensasjon for første gang. Miljødirektoratet skal godkjenne tiltaksplanen så langt kravene i denne forskriften er oppfylt. Dersom virksomheten vil legge til nye tiltak eller endre tiltakene i planen, skal planen revideres og legges frem for Miljødirektoratet for ny godkjenning.
