@@ -1,0 +1,2 @@
+# § 3. Gjennomføring av forordning (EU) 2015/1013
+EØS-avtalen vedlegg 11kapittel XIII nr. 15xb (forordning (EU) 2015/1013 om regler vedrørende forordning (EF) nr. 273/2004 om narkotikaprekursorer og forordning (EF) nr. 111/2005 om regler for overvåking av handel med narkotikaprekursorer mellom EU og tredjeland) artikkel 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12 og 13 gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
