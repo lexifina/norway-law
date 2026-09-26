@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av forordning (EU) 2015/1011
+EØS-avtalen vedlegg II kapittel XIII nr. 15xa (forordning (EU) 2015/1011 om supplerende bestemmelser til forordning (EF) nr. 273/2004 om narkotikaprekursorer og forordning (EF) nr. 111/2005 om regler for overvåkning av handel med narkotikaprekursorer mellom EU og tredjeland og om opphevelse av forordning (EF) nr. 1277/2005) artikkel 1, 2, 3, 7, 9, 13. 14 og 15 gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
