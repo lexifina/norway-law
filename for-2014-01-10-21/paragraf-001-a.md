@@ -1,0 +1,2 @@
+# § 1a. Gjennomføring av forordning (EU) 2016/128
+EØS-avtalen vedlegg II kapittel XII nr. 77a (forordning (EU) 2016/128 som endret ved forordning (EU) 2021/1040) om utfylling av europaparlaments- og rådsforordning (EU) nr. 609/2013 med hensyn til bestemte sammensetnings- og informasjonskrav om næringsmidler til spesielle medisinske formål gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

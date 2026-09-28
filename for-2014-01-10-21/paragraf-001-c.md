@@ -1,0 +1,2 @@
+# § 1c. Gjennomføring av forordning (EU) 2017/1798
+EØS-avtalen vedlegg II, kapittel XII nr. 77c (forordning (EU) 2017/1798 som endret ved forordning (EU) 2022/2182) om utfylling av europaparlaments- og rådsforordning (EU) nr. 609/2013 med hensyn til særlige sammensetnings- og informasjonskrav til totale kosterstatninger for vektkontroll, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
