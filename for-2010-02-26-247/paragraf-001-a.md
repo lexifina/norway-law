@@ -1,0 +1,2 @@
+# § 1a. Gjennomføringsbestemmelser, jf. artikkel 8(6) i forordning (EF) nr. 1925/2006
+EØS-avtalens vedlegg II kap. XII nr. 54zzzzzn (forordning (EU) nr. 307/2012 som endret ved forordning (EU) 2021/842 og forordning (EU) 2023/612) om gjennomføringsbestemmelser jf. artikkel 8 i forordning (EF) nr. 1925/2006, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
