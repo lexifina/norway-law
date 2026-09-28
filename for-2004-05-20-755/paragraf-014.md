@@ -1,0 +1,11 @@
+# § 14. Ikrafttredelse og overgangsordninger
+Denne forskriften trer, med unntak av § 10, i kraft 28. mai 2004. Samtidig oppheves forskrift 25. september 1986 nr. 1918 for produksjon og frambud m.v. av vitamin- og mineraltilskudd. § 10 trer i kraft fra den tid departementet bestemmer.
+Kosttilskudd som inneholder minimum 1 μg vitamin D per anbefalt døgndose, kan fortsatt produseres og merkes til og med 24. september 2015, og omsettes til lagrene er tomme.
+Kosttilskudd som inneholder minimum 25 μg folsyre per anbefalt døgndose, eller minimum 200 mg kalium per anbefalt døgndose, kan fortsatt produseres og merkes til og med 1. juli 2017, og omsettes til lagrene er tomme.
+Kosttilskudd som inneholder maksimum 20 µg vitamin D per anbefalt døgndose kan fortsatt produseres og merkes til og med 30. november 2017, og omsettes til lagrene er tomme.
+Kosttilskudd som inneholder maksimum 200 µg folsyre per anbefalt døgndose kan fortsatt produseres og merkes til og med 30. november 2017, og omsettes til lagrene er tomme.
+Virksomheter som før ikrafttredelsen av denne forskriften har fått dispensasjon til omsetning av kosttilskudd med 400 µg folsyre per anbefalt døgndose kan fortsatt produsere og merke kosttilskudd i samsvar med vedtaket om dispensasjon til og med 30. november 2017, og kosttilskuddene kan omsettes til lagrene er tomme.
+Kosttilskudd som inneholder maksimum 1500 mg kalsium per anbefalt døgndose kan fortsatt produseres og merkes til og med 30. november 2017, og omsettes til lagrene er tomme.
+Kosttilskudd som inneholder maksimum 600 mg magnesium per anbefalt døgndose kan fortsatt produseres og merkes til og med 30. november 2017, og omsettes til lagrene er tomme.
+Kosttilskudd som inneholder vitamin E, jern eller sink, og som var lovlig omsatt på det norske markedet før 5. juli 2023, kan produseres og merkes til og med 5. januar 2024, og deretter omsettes fram til lagrene er tomme.
+Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge fra 11 år og opptil 18 år i én oppmålt enhet, og er merket med «Skal ikke brukes av voksne fra 18 år», og som var lovlig omsatt på det norske markedet før 5. juli 2023, kan omsettes til og med 5. januar 2024, og deretter omsettes fram til lagrene er tomme.
