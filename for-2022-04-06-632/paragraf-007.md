@@ -1,0 +1,3 @@
+# § 7. Godkjenning av nasjonale tiltak for visse akvatiske sykdommer
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13o (beslutning (EU) 2021/260 endret ved beslutning (EU) 2023/749, beslutning (EU) 2023/2626, beslutning (EU) 2025/403 og beslutning (EU) 2026/837) om godkjenning av nasjonale tiltak som har som formål å begrense virkningene av visse sykdommer hos akvatiske dyr i samsvar med artikkel 226 nr. 3 i europaparlaments- og rådsforordning (EU) 2016/429, og om oppheving av kommisjonsbeslutning 2010/221/EU, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I protokoll 1 til avtalen og avtalen for øvrig.
+Områder i Norge med godkjente nasjonale tiltak for Gyrodactylus salaris fremgår av forskriftens vedlegg 3.

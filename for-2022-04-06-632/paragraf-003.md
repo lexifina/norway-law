@@ -1,0 +1,2 @@
+# § 3. Overvåkning, utryddelsesprogrammer og sykdomsfri status
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13h (forordning (EU) 2020/689 sist endret ved forordning (EU) 2023/1798) om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til overvåkingsregler, utryddelsesprogrammer og sykdomsfri status for visse listeførte og nye sykdommer, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

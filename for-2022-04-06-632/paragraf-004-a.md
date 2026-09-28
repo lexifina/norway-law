@@ -1,0 +1,2 @@
+# § 4a. Godkjenning og anerkjenning av sykdomsfri status for Newcastlesyke og høypatogen fugleinfluensa i segmenter av fjørfeanlegg
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13y (forordning (EU) 2024/2623) om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til regler for godkjenning og anerkjennelse av sykdomsfri status for segmenter der det holdes landdyr, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll I til avtalen og avtalen for øvrig.
