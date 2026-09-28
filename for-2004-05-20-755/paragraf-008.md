@@ -1,0 +1,4 @@
+# § 8. Deklarasjon av mengdeinnhold
+Kosttilskudd skal merkes med mengdeinnhold av næringsstoffer eller andre stoffer med ernæringsmessig eller fysiologisk effekt uttrykt i tall per anbefalt døgndose. Enhetene som skal benyttes for vitaminer og mineraler er gitt i vedlegg 1.
+Mengdeinnholdet skal fastsettes på grunnlag av gjennomsnittsverdier av produsentens analyse av produktet.
+I tillegg til merking i henhold til første ledd, skal mengdeinnholdet av de vitaminene og mineralene som er gitt i forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne § 1 (i vedlegg XIII, del A i forordning (EU) nr. 1169/2011 om matinformasjon til forbrukerne), også angis som prosentandel av det referanseinntaket som er fastsatt i vedlegget i matinformasjonsforordningen. Prosentandelen skal angis per anbefalt døgndose. Angivelse av prosentandel kan i tillegg vises grafisk.
