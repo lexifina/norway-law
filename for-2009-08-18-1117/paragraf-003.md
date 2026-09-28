@@ -1,0 +1,2 @@
+# § 3. Direktiv 2002/63/EF
+EØS-avtalen vedlegg II kapittel XII nr. 54zz (direktiv 2002/63/EF) om fastsettelse av fellesskapsmetoder for prøvetaking ved offentlig kontroll av rester av plantevernmidler i og på produkter av vegetabilsk og animalsk opprinnelse og om oppheving av direktiv 79/700/EØF gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
