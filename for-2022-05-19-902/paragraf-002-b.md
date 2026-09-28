@@ -1,0 +1,2 @@
+# § 2b. Metoder for prøvetaking og analyser og om tolkning av resultater ved offentlig kontroll
+EØS-avtalen vedlegg I kap. II nr. 31y og vedlegg II kap. XII nr. 54zzzzzu (forordning (EU) 2026/765) om metoder for prøvetaking og analyser og om tolking av resultater ved offentlig kontroll av plantevernmiddelrester i og på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse, og om oppheving av direktiv 2002/63/EF gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.

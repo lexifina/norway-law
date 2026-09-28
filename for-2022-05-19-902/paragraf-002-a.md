@@ -1,0 +1,2 @@
+# § 2a. Prøvetakingsprosedyrer
+EØS-avtalen vedlegg II kapittel I del 1.1 nr. 11e og nr. 31t og vedlegg II kapittel XII nr. 164za (forordning (EU) 2021/2244) om særskilte regler om offentlig kontroll når det gjelder prøvetakingsprosedyrer for plantevernmiddelrester i næringsmidler og fôrvarer gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
