@@ -1,0 +1,2 @@
+# § 1-13. Forkortelser og piktogrammer til bruk på emballasjen til legemidler til dyr
+EØS-avtalen vedlegg II kapittel XIII nr. 22m (forordning (EU) 2024/875 om vedtakelse av en liste over forkortelser og piktogrammer som er felles for hele Unionen til bruk på emballasjen til legemidler til dyr i samsvar med artikkel 10 nr. 2 og artikkel 11 nr. 3 i europaparlaments- og rådsforordning (EU) 2019/6) gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

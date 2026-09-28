@@ -1,0 +1,3 @@
+# § 3-19. Meldeplikt hvis studien ikke igangsettes eller hvis den avbrytes
+Sponsor skal informere Direktoratet for medisinske produkter dersom utprøvingen ikke igangsettes som planlagt. Dersom den kliniske utprøvingen ikke er igangsatt innen 12 måneder etter at tillatelsen er gitt, bortfaller tillatelsen. I særlige tilfeller kan fristen forlenges.
+Sponsor skal informere Direktoratet for medisinske produkter dersom utprøvingen avbrytes før den er fullført. Informasjonen skal gis skriftlig innen 15 dager dersom avbrytelsen skyldes sikkerhetsproblematikk og innen 30 dager dersom avbrytelsen skyldes andre forhold.

@@ -1,0 +1,2 @@
+# § 1-7. Antimikrobielle stoffer som skal forbeholdes behandling av visse infeksjoner hos mennesker
+EØS-avtalen vedlegg II kapittel XIII nr. 22g (forordning (EU) 2021/1760), om fastsettelse av kriterier for utpeking av antimikrobielle stoffer som skal forbeholdes behandling av visse infeksjoner hos mennesker, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# § 1-14. Størrelse på små indre emballasjeenheter for legemidler til dyr
+EØS-avtalen vedlegg II kapittel XIII nr. 22n (forordning (EU) 2024/878 om vedtakelse av ensartede regler for størrelsen på små indre emballasjeenheter for legemidler til dyr som omhandlet i artikkel 12 i europaparlaments- og rådsforordning (EU) 2019/6), gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
