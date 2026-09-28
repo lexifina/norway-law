@@ -1,0 +1,2 @@
+# § 1-12. Liste over antimikrobielle stoffer som ikke skal brukes i legemidler til dyr
+EØS-avtalen vedlegg II kapittel XIII nr. 22k (forordning (EU) 2022/1255, om bestemmelse av antimikrobielle midler eller grupper av antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, i samsvar med europaparlaments- og rådsforordning (EU) 2019/6, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

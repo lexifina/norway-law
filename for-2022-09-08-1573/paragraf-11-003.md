@@ -1,0 +1,5 @@
+# § 11-3. Overtredelsesgebyr
+Overtredelsesgebyr etter legemiddelloven § 28a annet og tredje ledd, jf. forordning (EU) 2019/6 artiklene 58 nr. 3, 4 og 10, 88 nr. 1 bokstav c, 99 nr. 1, 119, 120 og 121 og legemiddelloven § 16 annet ledd, § 20, § 21, § 23 femte ledd, § 28 annet ledd kan ilegges av Direktoratet for medisinske produkter.
+Overtredelsesgebyr etter legemiddelloven § 28 a annet ledd, jf. forordning (EU) 2019/6 artiklene 58 nr. 3, 4 og 10, 88 nr. 1 bokstav c, 99 nr. 1, 119, 120 og 121 og legemiddelloven § 16 annet ledd, § 20, § 21, § 23 femte ledd, § 28 annet ledd, kan ikke settes høyere enn et beløp tilsvarende 15 ganger folketrygdens grunnbeløp for foretak, eller 2 ganger folketrygdens grunnbeløp for fysiske personer.
+Overtredelsesgebyr etter legemiddelloven § 28 a tredje ledd jf. § 28 annet ledd, kan ikke settes høyere enn et beløp tilsvarende 15 ganger folketrygdens grunnbeløp for foretak, eller 2 ganger folketrygdens grunnbeløp for fysiske personer.
+Ved avgjørelsen av om fysiske personer skal ilegges overtredelsesgebyr skal det særlig tas hensyn til overtredelsens omfang og virkninger, samt overtrederens skyld og økonomiske evne.

@@ -1,0 +1,2 @@
+# § 1-11. Overgangsbestemmelser vedrørende merking og pakningsvedlegg for legemidler til dyr
+EØS-avtalen vedlegg II kapittel XIII nr. 22i (forordning (EU) 2022/839 om overgangsbestemmelser vedrørende emballering og merking av legemidler til dyr, som er godkjent eller registrert i overensstemmelse med direktiv 2001/82/EF eller forordning (EF) nr. 726/2004), gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,4 @@
+# § 3-2. Tillatelse
+Klinisk utprøving av legemiddel til dyr skal søkes godkjent hos Direktoratet for medisinske produkter. Utprøvingen kan ikke settes i gang uten at det foreligger tillatelse fra Direktoratet for medisinske produkter.
+I tillegg til kliniske utprøvinger, som definert i forordning (EU) 2019/6 artikkel 9, krever andre systematiske studier av legemidler som utføres på dyr i norske husholdninger, besetninger, fellesstaller, akvakulturanlegg m.v. i den hensikt å skaffe til veie eller etterprøve kunnskap om klinisk sikkerhet eller effekt av legemidlet hos den samme dyrearten, tillatelse fra Direktoratet for medisinske produkter.
+Forskning der bruk av legemiddel inngår, men der hovedhensikten ikke er å skaffe til veie eller etterprøve kunnskap om klinisk sikkerhet eller effekt av legemidlet, krever ikke søknad til Direktoratet for medisinske produkter.
