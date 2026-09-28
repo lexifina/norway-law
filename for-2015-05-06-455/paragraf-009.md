@@ -1,0 +1,6 @@
+# § 9. Myndigheten som utsteder og inndrar autorisasjonsbevis for plantevernmidler mv.
+Mattilsynet fatter enkeltvedtak om autorisasjonsbevis for plantevernmidler etter § 8, tilleggsbevis for gnagermidler etter § 8a, autorisasjon for gassingsprodukter etter § 8b og kompetansebevis for bekjempelse av rotråte i skogbruk etter § 8c i denne forskriften.
+Mattilsynet kan delegere myndighet til å holde eksamen og utstede autorisasjonsbevis for plantevernmidler, herunder å sørge for at det arrangeres autorisasjonskurs, til kommunen og statsforvalteren. Tilsvarende gjelder tilleggsbevis for gnagermidler.
+Mattilsynet kan delegere myndighet til å holde kurs og utstede kompetansebevis for bekjempelse av rotråte i skogbruk til andre offentlige eller private rettssubjekter. Kurset skal oppfylle de relevante kravene som følger av vedlegg 3 til denne forskriften og gi spesiell kompetanse om rotråtebekjempelse. Kursholdere skal ha relevant kompetanse på universitets- eller høyskolenivå, eller relevant kompetanse som er opparbeidet gjennom yrkespraksis.
+Mattilsynet hovedkontoret er klageinstans for vedtak om autorisasjon etter §§ 8 til 8c.
+Mattilsynet kan fatte vedtak om inndragelse av autorisasjon som er gitt etter §§ 8 til 8c.

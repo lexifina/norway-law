@@ -1,0 +1,3 @@
+# § 8a. Gnagermidler
+Norsk autorisasjonsbevis for plantevernmidler med tilleggsbevis for gnagermidler gir rett til å kjøpe og bruke gnagermidler som er godkjent i produkttype 14 etter forskrift 18. april 2017 nr. 480 om biocider, men bare til bruk i og rundt bygninger på landbrukseiendom som innehaver av autorisasjonsbeviset eier eller leier, og bare dersom slik bruk er angitt på etiketten. For slik bruk gjelder forskrift 21. desember 2000 nr. 1406 om skadedyrbekjempelse.
+Tilleggsbevis for gnagermidler gis etter gjennomført kurs i gnagerbekjempelse med bestått eksamen. Beviset er gyldig i ti år, og fornyelse krever ny gjennomføring av kurset.

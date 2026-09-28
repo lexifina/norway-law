@@ -1,0 +1,2 @@
+# § 7. Oppgavefordeling mellom medlemsland
+EØS-avtalens vedlegg II kapittel XV (forordning (EU) nr. 686/2012 sist endret ved forordning (EU) 2026/398) om utpeking av medlemsstater som i forbindelse med framgangsmåten for fornyelse skal vurdere aktive stoffer med godkjenninger, gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XV, protokoll 1 til avtalen og avtalen for øvrig.
