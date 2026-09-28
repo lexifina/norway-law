@@ -1,0 +1,2 @@
+# § 2. Forordning (EF) nr. 645/2000
+EØS-avtalen vedlegg II kapittel XII nr. 54zzd (forordning (EF) nr. 645/2000) om fastsettelse av nærmere gjennomføringsregler som er nødvendige for riktig anvendelse av visse bestemmelser i artikkel 7 i rådsdirektiv 86/362/EØF og i artikkel 4 i rådsdirektiv 90/642/EØF om kontroll av grenseverdier for rester av plantevernmidler på og i henholdsvis korn og visse produkter av vegetabilsk opprinnelse, herunder frukt og grønnsaker gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

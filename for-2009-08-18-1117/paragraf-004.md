@@ -1,0 +1,2 @@
+# § 4. Innhold av rester av plantevernmidler i barnemat mv.
+Bestemmelser om innhold av rester av plantevernmidler i barnemat følger av forskrift 18. oktober 2002 nr. 1185 om bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn og bestemmelser om innhold av rester av plantevernmidler i morsmelkerstatning og tilskuddsblandinger følger av forskrift 13. august 2008 nr. 936 om morsmelkerstatning og tilskuddsblandinger.
