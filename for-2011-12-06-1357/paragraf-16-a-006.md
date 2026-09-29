@@ -1,0 +1,2 @@
+# § 16 A-6. Særskilte tiltak mot eksponering for elektromagnetisk felt ved overskridelse av grenseverdiene
+Dersom risikovurderingen viser at grenseverdiene for eksponering overskrides, skal arbeidsgiver straks sette i verk tiltak som bringer eksponeringsnivået under grenseverdiene. For å unngå fremtidige overskridelser av grenseverdiene skal arbeidsgiver kartlegge årsakene til at grenseverdiene er overskredet.

@@ -1,0 +1,7 @@
+# § 26-27. Forsvarlig bemanning
+Bemanningen må stå i forhold til de arbeidsoppgaver som skal utføres, de farer som dykkerne kan utsettes for og nødsituasjoner som kan oppstå. Vurderingen av hva som er forsvarlig bemanning skal dokumenteres.
+Dykkeoperasjonen skal utføres av minimum en dykkeleder, en dykker, en beredskapsdykker og en lineholder.
+Ved flere dykkere i vannet skal antallet lineholdere økes tilsvarende.
+Unntatt fra kravet i annet ledd er virksomhet som driver opplæring av fritidsdykkere (fritidsdykkerinstruktører) og virksomhet som utfører fritidsdykkerguiding, Ved fritidsdykkeropplæring og fritidsdykkerguiding skal det være minst to instruktører eller guider til stede. Når to eller flere instruktører eller guider er i vannet samtidig, skal én pekes ut som dykkeleder.
+Unntatt fra kravet i annet ledd er dykking i basseng tilsvarende svømmebasseng med dybde inntil seks meter. I slike tilfeller skal dykkeoperasjonen utføres av minimum en dykker og en beredskapsdykker.
+Unntatt fra kravet i annet ledd er redningsdykking. Ved redningsdykking og trening i redningsdykking skal dykkeoperasjonen utføres av minimum en dykkeleder, en dykker og en beredskapsdykker. Ved redningsdykking fra helikopter kan bemanningen være to redningsdykkere når det er forsvarlig og nødvendig på grunn av plassforholdene i helikopteret. En av redningsdykkerne skal være dykkeleder. Lineholderfunksjonen skal ivaretas av kompetent personell på helikopteret.

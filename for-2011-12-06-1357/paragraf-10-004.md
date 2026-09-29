@@ -1,0 +1,2 @@
+# § 10-4. Krav til utstyrsspesifikk opplæring
+Arbeidsgiver skal sørge for at arbeidstaker får nødvendig opplæring på det spesifikke arbeidsutstyret vedkommende skal bruke. Opplæringen skal tilpasses arbeidsutstyrets art og sikre at arbeidstakeren kan bruke arbeidsutstyret på en forsvarlig måte. Det skal dokumenteres skriftlig hvilket arbeidsutstyr det er gitt opplæring på, hvem som har gitt opplæringen og hvem som har fått opplæring.

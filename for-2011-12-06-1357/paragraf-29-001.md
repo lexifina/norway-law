@@ -1,0 +1,4 @@
+# § 29-1. Arbeid hvor det kan være fare for brann eller eksplosjon
+Når virksomhet skal utføre arbeid i eller på tanker, rom, rørledning eller liknende hvor det er eller kan ha samlet seg brannfarlig vare eller helsefarlig stoff, skal virksomheten iverksette nødvendige tiltak for at arbeidet kan utføres uten risiko for liv eller helse.
+Før arbeidet tar til skal virksomheten sørge for at det blir foretatt kontroll og nødvendige målinger for å forsikre seg om at arbeidsatmosfæren er farefri. Kontrollen skal foretas av en kompetent person som er gitt spesiell opplæring til oppgaven. Når arbeidsatmosfæren anses farefri skal kontrolløren skrive ut et arbeidssertifikat som gir tillatelse til arbeidet.
+Virksomheten skal melde fra til Arbeidstilsynet om hvem som til enhver tid har oppgaven som kontrollør.

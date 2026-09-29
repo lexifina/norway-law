@@ -1,0 +1,2 @@
+# § 16-6. Særskilte tiltak mot eksponering for kunstig optisk stråling ved overskridelse av grenseverdiene
+Dersom risikovurderingen viser at grenseverdiene for eksponering overskrides, skal arbeidsgiveren straks sette i verk tiltak som bringer eksponeringsnivået under grenseverdiene. For å unngå fremtidige overskridelser av grenseverdiene, skal arbeidsgiveren kartlegge årsakene til at grenseverdiene er overskredet.

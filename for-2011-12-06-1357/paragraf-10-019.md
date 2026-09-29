@@ -1,0 +1,3 @@
+# § 10-19. Fare for brann og utslipp av stoff ved bruk av arbeidsutstyr
+Arbeidsutstyr skal være innrettet slik at arbeidstakerne er vernet mot farer ved overoppheting av eller brann i arbeidsutstyret, og mot utslipp av gass, støv, væske, damp eller andre stoffer som produseres, brukes eller lagres i arbeidsutstyret. Dersom det er fare for eksponering fra slikt utslipp skal arbeidsutstyret være utstyrt med egnede oppsamlings- eller utsugningsinnretninger i nærheten av farekildene.
+Ved brannfare, skal brannslokkingsutstyr finnes på mobilt arbeidsutstyr, og være lett tilgjengelig ved stasjonært arbeidsutstyr.
