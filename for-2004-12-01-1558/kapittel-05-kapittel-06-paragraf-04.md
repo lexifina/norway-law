@@ -1,0 +1,2 @@
+# § 5-9. Reise- og oppholdsutgifter
+Det skal fremgå av dokumentasjon av reise- og oppholdsutgifter hvem utgiftene omfatter, hva formålet med reisen har vært og hvilke arrangement den reisende har deltatt på. Består dokumentasjonen av flere reisedokumenter, og opplysningene som nevnt i første punktum ikke fremgår av hvert enkelt dokument, skal det være gjensidig henvisning mellom dem. Dokumentasjonen skal også være i samsvar med aktuelle regler i forskrift 21. desember 2007 nr. 1766 til utfylling og gjennomføring mv. av skattebetalingsloven.

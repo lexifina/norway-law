@@ -1,0 +1,2 @@
+# § 8-14-3. Kunde- og leverandørspesifikasjon
+Bokføringspliktige som er omfattet av dette delkapittelet, som oppfyller kravene gitt i eller i medhold av forsikringsavtaleloven og forsikringsvirksomhetsloven, kan benytte sitt fagsystem for å utarbeide spesifikasjoner som nevnt i § 3-1 nr. 3 og 4. Opplysningene må kunne spesifiseres i en form som sikrer at opplysningsplikten etter lov og forskrift kan ivaretas.

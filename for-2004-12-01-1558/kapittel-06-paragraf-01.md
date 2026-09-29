@@ -1,0 +1,8 @@
+# § 6-1. Dokumentasjon av varelager
+Varelager skal telles ved regnskapsårets slutt. Bokføringspliktige som fører et betryggende lagerregnskap kan foreta opptelling i løpet av året, forutsatt at tilgang og avgang fra opptellingstidspunktet til regnskapsårets slutt kan dokumenteres på tilfredsstillende måte.
+Dokumentasjon av varelager skal inneholde en spesifisert oppstilling over varens art, kvantum (med angivelse av måleenhet) og verdi for hver enkelt vare, samt en summeringskolonne for de spesifiserte verdiene. Beregningsmåten for de spesifiserte verdiene, jf. tredje ledd, skal fremgå av dokumentasjonen.
+Ved dokumentasjon av varelageret kan verdi for hver enkelt vare etter første ledd beregnes til:
+1) anskaffelseskost
+2) varens kalkulerte utsalgsverdi dersom varelagerets anskaffelseskost på tilfredsstillende måte kan beregnes på grunnlag av denne verdien. Det skal fremgå av dokumentasjonen hvordan anskaffelseskosten er beregnet. Varer som etter sin art er fritatt for merverdiavgift ved salg eller avgiftsberegnes med forskjellige satser, skal skilles ut og vises som egne grupper. Det samme gjelder varer med forskjellig bruttofortjeneste.
+Den regnskapsmessige og skattemessige verdien av varelageret skal fremgå av dokumentasjonen. For bokføringspliktige etter bokføringsloven § 2 annet ledd, er det tilstrekkelig at den skattemessige verdien fremgår. Varer verdsatt til virkelig verdi skal vises som egen gruppe.
+Dokumentasjonen skal være ordentlig og oversiktlig. Dersom tellelister på papir benyttes, skal de være nummerert før tellingen foretas. Dokumentasjonen skal være datert og det skal fremgå hvem som har foretatt opptellingen. Tellelister på papir skal oppbevares som en del av dokumentasjonen, men kan skannes for elektronisk oppbevaring.

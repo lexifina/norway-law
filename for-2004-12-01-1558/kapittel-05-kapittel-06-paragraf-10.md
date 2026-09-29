@@ -1,0 +1,3 @@
+# § 5-15. Dokumentasjon av timebestillinger
+Bokføringspliktige som utfører tjenester etter timebestilling, skal dokumentere de bestilte timene. Dokumentasjonen skal omfatte tidspunkt for utførelsen av tjenesten, kundens navn og så vidt mulig hvem som skal utføre tjenesten. Det skal fremgå av dokumentasjonen hvilke timer som ikke er gjennomført. Dersom en avbestilt time erstattes av en ny bestilling, skal den nye bestillingen fremgå av dokumentasjonen og den tidligere bestillingen kan fjernes.
+For bokføringspliktige som tar imot timebestillinger, gjelder bestemmelsen også for timer som ikke er forhåndsbestilte.

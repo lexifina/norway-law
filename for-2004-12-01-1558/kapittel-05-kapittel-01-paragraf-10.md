@@ -1,0 +1,2 @@
+# § 5-1-7. Spesifikasjon ved salg av beltemotorsykkel eller firehjuls terrenggående motorsykkel
+Ved salg av beltemotorsykkel eller firehjuls terrenggående motorsykkel som nevnt i merverdiavgiftsforskriften § 1-3-1 annet og tredje ledd, skal kjennemerke angis i salgsdokumentet. Det samme gjelder ved salg av tjenester til vedlikehold, reparasjon, påkostning og ombygging av slike samt omsetning av varer i forbindelse med utføring av slike tjenester.

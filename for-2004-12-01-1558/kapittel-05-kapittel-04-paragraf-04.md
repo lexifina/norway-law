@@ -1,0 +1,2 @@
+# § 5-4-4. Salg fra andre ubetjente salgssteder enn automater
+Salg fra andre ubetjente salgssteder enn automater, jf. § 5-4-3 kan dokumenteres med forhåndsnummererte konvolutter, elektronisk salgsrapport som viser alle transaksjoner enkeltvis eller innbundet bok der sidene er forhåndsnummererte. Dokumentasjonen skal inneholde opplysninger om ytelsens art og omfang, dato og vederlag. Salg av varer kan alternativt dokumenteres med lister som viser beregnet salg ut fra endring i varebeholdning.

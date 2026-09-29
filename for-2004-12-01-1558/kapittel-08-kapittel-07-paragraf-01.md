@@ -1,0 +1,2 @@
+# § 8-8-1. Virkeområde
+Dette delkapittelet gjelder for bokføringspliktige som nevnt i bokføringsloven § 2, jf. regnskapsloven § 1-2 første ledd nr. 13, som utøver eller deltar i virksomhet som er skattepliktig etter petroleumsskatteloven, med unntak av skattepliktige etter petroleumsskatteloven § 3 og § 5. Videre gjelder den bokføringspliktige som nevnt i bokføringsloven § 2, jf. regnskapsloven § 1-2 første ledd nr. 13, som ikke har varig tilknytning til riket.

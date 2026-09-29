@@ -1,0 +1,2 @@
+# § 5-2-4. Løpende levering av varer og tjenester
+Tjenester som leveres løpende, og varer som leveres i den forbindelse, skal faktureres senest en måned etter utløpet av den alminnelige skattleggingsperioden for merverdiavgift, jf. skatteforvaltningsforskriften § 8-3-1. Utstedelse av salgsdokument for løpende tjenesteleveranser kan utsettes ytterligere for ubetydelige leveranser. Ved anbudsarbeider og lignende kan avtalte betalingsplaner legges til grunn for faktureringen med mindre de avviker vesentlig fra den reelle fremdriften i perioden.

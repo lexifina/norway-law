@@ -1,0 +1,2 @@
+# § 5-4-2. Oppsøkende salg til publikum
+Ved oppsøkende salg til publikum på idrettsarrangementer, konserter og lignende, kan daglig salg fra hver enkelt selger registreres som ett beløp på kassasystemet. Ved registrering som nevnt i første punktum og for bokføringspliktige som ikke har plikt til å benytte kassasystem, må dokumentasjonen av kontantsalget vise ut- og innleverte varer og kontanter. Oppgjørene skal telles og signeres av to personer.

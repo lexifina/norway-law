@@ -1,0 +1,2 @@
+# § 8-11-3. Unntak fra krav til dokumentasjon av kontantsalg
+For bokføringspliktige som er omfattet av dette delkapittelet, gjelder ikke § 5-3-2 for å dokumentere omsetning som nevnt i merverdiavgiftsloven § 3-12 første ledd bokstav e og § 3-12 tredje ledd. Slike bokføringspliktige kan i stedet dokumentere kontantsalget med dagsoppgjør, jf. § 5-4-5 første og tredje punktum og annen tilgjengelig dokumentasjon, for eksempel elektronisk salgsrapport som viser transaksjonene enkeltvis og rapporter fra betalingsterminal.
