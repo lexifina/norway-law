@@ -1,0 +1,5 @@
+# § 6-11. Helseundersøkelse av arbeidstakere som kan utsettes for biologiske faktorer
+Dersom risikovurderingen viser at arbeidstaker kan bli eksponert for helsefarlige biologiske faktorer på en slik måte at det er nødvendig med mer enn vanlige hygieniske vernetiltak, skal arbeidstaker ha egnet helseundersøkelse.
+Helseundersøkelsen skal gi grunnlag for forebyggende tiltak i virksomheten eller tiltak som kan redusere arbeidstakers risiko for helseskade som følge av arbeid med biologiske faktorer.
+Egnet helseundersøkelse skal utføres før arbeidstakeren kan bli eksponert for biologiske faktorer, og deretter med regelmessige mellomrom. Lege avgjør hyppigheten av og innholdet i undersøkelsen på bakgrunn av eksponeringens art, nivå og varighet, og på bakgrunn av arbeidstakerens helsetilstand.
+Dersom det konstateres at en arbeidstaker lider av en infeksjon og/eller en sykdom som kan skyldes eksponering for en biologisk faktor i arbeidsmiljøet, skal arbeidsgiver gi tilbud om egnet helseundersøkelse til andre arbeidstakere som er blitt eksponert på lignende måte.

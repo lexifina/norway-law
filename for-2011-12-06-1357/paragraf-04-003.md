@@ -1,0 +1,5 @@
+# § 4-3. Kartlegging av bygninger før rivnings-, reparasjons- og vedlikeholdsarbeid
+Før oppstart av rivnings-, reparasjons- og vedlikeholdsarbeid på bygninger som kan inneholde asbestholdige materialer skal arbeidsgiver ta alle nødvendige skritt for å identifisere asbestholdige materialer. Plikten til å identifisere asbestholdige materialer kommer i tillegg til plikten til å kartlegge og vurdere risiko for eksponering for støv med asbestfiber som følger av § 3-1. Arbeidsgiver skal innhente informasjon fra eier av bygningen, andre arbeidsgivere og fra andre kilder, inkludert relevante registre.
+Hvis det etter undersøkelsene er usikkert om bygget inneholder asbest, skal arbeidsgiver sørge for en undersøkelse utført av en kvalifisert fagperson. Arbeidet kan ikke starte før resultatet av undersøkelsen foreligger.
+Arbeidsgiveren skal dele informasjon fra undersøkelsen med andre virksomheter som skal utføre arbeid i bygget.
+Pliktene i denne paragrafen gjelder så langt de passer også ved rivnings-, reparasjons- og vedlikeholdsarbeid på andre konstruksjoner som kan inneholde asbest.

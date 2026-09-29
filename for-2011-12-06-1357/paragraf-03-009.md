@@ -1,0 +1,2 @@
+# § 3-9. Tiltak mot helseskadelige kjemikalier ved reparasjon, vedlikehold og renhold
+Hvis det ved reparasjon, vedlikehold og renhold er risiko for eksponering for kjemikalier som kan medføre helseskade, skal det settes i verk tiltak som reduserer eksponeringen til et minimum. Arbeidsgiver skal sørge for at eksponeringen ikke er vedvarende, og at den for hver enkelt arbeidstaker blir så lav som mulig.

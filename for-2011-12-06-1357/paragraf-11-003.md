@@ -1,0 +1,2 @@
+# § 11-3. Valg og bruk av mekanisk og elektrisk utstyr
+Ved valg, installasjon, idriftsetting, drift og vedlikehold av mekanisk og elektrisk utstyr, skal arbeidsgiveren ta hensyn til arbeidstakernes sikkerhet, liv og helse. Det skal særlig tas hensyn til de spesielle arbeidsforholdene på den enkelte arbeidsplass, arbeidets særpreg og farer som kan oppstå ved bruken. Arbeidsutstyret skal bare brukes til de arbeidsoperasjoner og under de forholdene som det er beregnet for.

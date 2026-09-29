@@ -1,0 +1,3 @@
+# § 26-6. Krav om utstyr for forsvarlig dykking
+Arbeidsgiver skal på grunnlag av risikovurderingen stille til rådighet det utstyret som er nødvendig for å kunne gjennomføre dykkeoperasjonen på en fullt forsvarlig måte.
+Tilførsel av pustegass skal skje med overflateforsynt dykkerutstyr. Når det er forsvarlig kan det likevel benyttes selvforsynt dykkerutstyr ved redningsdykking og trening i dette, ved fritidsdykkeropplæring og fritidsdykkerguiding, samt ved dykking ned til 18 meters dybde når det etter § 26-11 er anledning til å dykke med dykkerbevis klasse A forutsatt at det er fri vei til overflaten.

@@ -1,0 +1,2 @@
+# § 17-5. Krav til opplæring av bruker av stillas
+Arbeidsgiver skal sørge for at arbeidstakere som bruker stillas som arbeidsplattform for å utføre arbeid i høyden har fått opplæring i bruk av det aktuelle stillaset, herunder en gjennomgang av veiledningen for montering, bruk og demontering, jf. § 17-8 andre ledd. Arbeidsgiver har ansvar for at tilfredsstillende opplæring blir gitt før arbeidet igangsettes.

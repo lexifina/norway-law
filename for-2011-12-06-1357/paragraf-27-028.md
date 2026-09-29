@@ -1,0 +1,4 @@
+# § 27-28. Helseundersøkelse av arbeidstaker ved bergarbeid
+Dersom risikovurderingen viser at arbeidstakerne eksponeres for gass eller støv som kan medføre risiko for støvlungesykdom eller andre helseskadelige forhold, skal arbeidstakerne gjennomgå helseundersøkelse tilpasset den risiko som vedkommende er utsatt for.
+Helseundersøkelsen skal foretas før arbeidstakerne begynner med arbeid der eksponering kan finne sted. Deretter skal undersøkelsen foretas regelmessig, og minimum hvert femte år. Innholdet og hyppigheten av undersøkelsen skal avgjøres av legen, på bakgrunn av arbeidstakernes helsetilstand og eksponeringens art, grad og varighet.
+Ved arbeidsforholdets opphør avgjør legen om det er behov for helseundersøkelse. Dersom det er behov for videre oppfølging, skal arbeidstakerne ha skriftlig orientering om dette.

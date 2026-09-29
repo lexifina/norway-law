@@ -1,0 +1,5 @@
+# § 27-19. Helsefarlige og eksplosive stoffer ved bergarbeid
+Det skal treffes tiltak for å vurdere mengden og konsentrasjonen av helsefarlige og mulige eksplosive stoffer i luften.
+Når det er sørget for tiltak som trer i funksjon automatisk, skal de målte verdiene registreres og oppbevares som fastsatt i HMS-planen.
+Det er forbudt å røyke i områder som er utsatt for særlig brann- eller eksplosjonsfare. Det er også forbudt å bruke åpen ild, samt foreta arbeid som kan medføre fare for antenning, med mindre det er truffet tilfredsstillende forholdsregler for å hindre utbrudd av brann eller eksplosjon. Ved arbeid under jord i gassfarlige gruver eller steinbrudd eller i gruver med eksplosjonsfarlig støv er det også forbudt å være i besittelse av røyketobakk, samt enhver gjenstand som kan lage ild.
+Ved arbeid under jord i gassfarlige gruver eller steinbrudd eller i gruver med eksplosjonsfarlig støv, kan skjærebrenning, sveising og liknende arbeider bare utføres i unntakstilfeller. Disse arbeidene skal da være underlagt særskilte tiltak for vern av arbeidstakernes sikkerhet og helse.

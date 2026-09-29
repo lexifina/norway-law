@@ -1,0 +1,2 @@
+# § 30-1. Risikovurdering av skredfare ved anleggsarbeid
+Arbeidsgiver skal sørge for en forsvarlig befaring og få utarbeidet en rapport som grunnlag for en risikovurdering av skredfare. Dersom det er fare for skredulykker ved arbeidssteder, atkomstveger, bolig- og oppholdssteder, skal skredsakkyndige ved befaring vurdere hvilke sikrings- og beredskapstiltak det kan være nødvendig å gjennomføre. Det skal samtidig fastsettes hvilke forholdsregler som må følges i skredfarlige situasjoner.
