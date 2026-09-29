@@ -1,0 +1,2 @@
+# § 5-4-5. Dagsoppgjør mv.
+Ved salg som nevnt i § 5-4-1 og § 5-4-2 skal det foretas daglig opptelling av kassabeholdning som skal sammenholdes mot salgsdokumentasjonen. Ved salg som nevnt i § 5-4-3 og § 5-4-4 kan avstemming mot salgsdokumentasjon skje på det tidspunktet den bokføringspliktige oppsøker salgsstedet, forutsatt at kassabeholdningen er tilfredsstillende sikret i mellomtiden. Oppgjørene skal dateres og det skal fremgå hvem som har foretatt opptelling av kassabeholdningen. Eventuelle differanser skal forklares.

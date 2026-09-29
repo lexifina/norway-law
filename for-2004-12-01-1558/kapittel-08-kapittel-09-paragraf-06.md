@@ -1,0 +1,5 @@
+# § 8-10-6. Bokføring
+Videreforhandlere som foretar samlede innkjøp eller salg hvor prisen på den enkelte vare ikke er kjent, skal enten opprette egne konti for samlede kjøp og salg, eller føre oversikt over slike kjøp og salg i hjelpebøker eller på annen måte. Det må tilsvarende føres oversikt over kjøp og salg hvor avgiften ved videresalget er beregnet på grunnlag av de alminnelige regler for avgiftsberegningen, jf. merverdiavgiftsloven kapittel 4.
+Samlede salg og salg av enkeltgjenstander fra et samlet kjøp, skal i sin helhet føres på en avgiftsfri salgskonto inntil hjelpekontoen, jf. § 8-10-5, er utlignet.
+For øvrige salg skal avansen føres på avgiftspliktig salgskonto, mens resten av salgsverdien skal føres på en avgiftsfri salgskonto, jf. dog § 8-10-5 første ledd. Dersom varen selges med tap, bokføres salgssummen i sin helhet på den avgiftsfrie salgskontoen.
+Fordelingen mellom avgiftspliktig og avgiftsfri omsetning, kan gjennomføres ved utgangen av en termin. Grunnlaget for denne fordelingen må fremgå av regnskapet eller hjelpeoppstillinger.

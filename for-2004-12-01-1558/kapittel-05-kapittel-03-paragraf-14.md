@@ -1,0 +1,6 @@
+# § 5-3-14. Dagsoppgjør
+Ved dagens slutt skal det utarbeides en Z-rapport fra hvert enkelt kassapunkt. Z-rapporten skal enten skrives ut på papir eller lagres elektronisk i kassasystemet slik at den til enhver tid kan skrives ut på papir.
+Tilsvarende skal det ved dagens slutt utarbeides rapport fra hver enkelt betalingsterminal over de betalinger og uttak som er registrert. Den delen av betalingene som gjelder tips skal fremgå særskilt. Rapporten skal være forløpende nummerert med maskinelt tildelte nummer.
+Kontantbeholdningen skal telles daglig og sammenholdes med opplysningene på Z-rapporter. Opplysninger fra betalingsterminal om betalinger ved bruk av betalingskort skal sammenholdes med tilsvarende opplysninger på Z-rapport. Eventuelle differanser skal forklares. Avstemmingen skal foretas for det enkelte kassapunkt. Hvis kassapunktene betjenes av flere operatører som har egen kassaskuff, skal avstemmingen foretas for hver enkelt operatør.
+Hvis tips ikke er registrert på kassasystemet, jf. § 5-3-2 tredje ledd, skal kontanttips telles opp særskilt og fremgå av dagsoppgjøret.
+Dagsoppgjøret skal dateres og det skal fremgå hvem som har foretatt opptelling av kontantbeholdningen og avstemt kontantsalget.

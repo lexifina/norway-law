@@ -1,0 +1,2 @@
+# § 8-3-1. Spesifikasjon av omsetning og uttak, varekjøp og varebeholdning på varegrupper
+Bokføringspliktige som driver frisørvirksomhet og skjønnhetspleie skal bokføre kjøp av varer slik at disse kan spesifiseres for salgsvarer og behandlingsvarer. Omsetning og uttak skal tilsvarende kunne spesifiseres for varesalg og salg av behandlingstjenester. Bokføringspliktige som driver frisørvirksomhet skal dessuten kunne skille ut og spesifisere klipp fra øvrige behandlingstjenester. Ved varetelling skal varene grupperes adskilt for salgsvarer og behandlingsvarer.

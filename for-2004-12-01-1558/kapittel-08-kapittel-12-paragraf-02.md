@@ -1,0 +1,3 @@
+# § 8-13-2. Salgsdokument
+Ved kjøp og salg av finansielle instrumenter kan finansvirksomhet benytte sluttsedler som salgsdokument. Finansvirksomhet som har transaksjoner i form av utlån/kreditt/finansiering til eller innskudd/forvaltningsoppdrag fra kunder, og som etter avtale med kundene kan belaste kunden direkte for utførte tjenester via kontoforhold, kan benytte kontoutskrift som salgsdokument.
+Sluttsedler og kontoutskrift skal inneholde opplysninger som nevnt i delkapittel 5-1. Kravet i § 5-1-3 om fortløpende nummerering av salgsdokument kan likevel erstattes av angivelse av kundens kontonummer og et fortløpende nummer på kundenivå.

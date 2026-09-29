@@ -1,0 +1,3 @@
+# § 8-7-1. Stats- og bygdeallmenninger
+Stats- og bygdeallmenninger skal bokføre alle leveranser, utbetalt utbytte samt bidrag fra allmenningen slik at opplysningene kan spesifiseres for hver enkelt bruksberettiget.
+Av dokumentasjonen skal det fremgå hvilke kvanta som er levert. Videre skal fremgå både verdi beregnet etter vanlige priser ved detaljomsetning i åpent marked, og den betaling som den bruksberettigede har erlagt for leveranser av tømmer, ved, skurlast, høvellast, torv mv. Når den bruksberettigede har fått utvist tømmer og ved på rot, skal virkets antatte rotverdi ved salg i åpent marked anføres. Når det utbetales utbytte eller bidrag, skal det anføres hvor mye av det utbetalte som tidligere er skattlagt på allmenningens hånd.

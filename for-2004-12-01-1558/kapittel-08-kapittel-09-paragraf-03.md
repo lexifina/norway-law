@@ -1,0 +1,2 @@
+# § 8-10-3. Dokumentasjon av kjøp
+Videreforhandlere må påse at det utferdiges salgsdokument også når selger av gjenstanden ikke er bokføringspliktig. I slike tilfeller regnes også avregningsseddel eller annet bilag som videreforhandleren utsteder som salgsdokument. Salgsdokumentet skal foruten videreforhandlerens navn, inneholde de spesifikasjoner som fremgår av § 8-10-2 bokstavene b-e og skal signeres av den som avhender gjenstanden. Også samlede innkjøp med enhetspris på mindre enn kr 300 skal fremgå av salgsdokumentet.

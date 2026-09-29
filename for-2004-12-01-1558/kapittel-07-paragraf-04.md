@@ -1,0 +1,5 @@
+# § 7-4. Unntak fra oppbevaringssted
+Bokføringspliktige som fører regnskap i utlandet skal overføre regnskapsmateriale til oppbevaring i Norge innen en måned etter fastsetting av årsregnskapet og senest sju måneder etter regnskapsårets slutt. Departementet kan ved enkeltvedtak pålegge den bokføringspliktige å føre og oppbevare regnskapet i Norge dersom den bokføringspliktige vesentlig tilsidesetter bestemmelser i eller i medhold av bokføringsloven.
+For utenlandske foretak som ikke lenger har bokføringsplikt til Norge er plikten til oppbevaring av regnskapsmateriale i Norge begrenset til 3 år etter regnskapsårets slutt.
+Bokføringspliktige som driver virksomhet i utlandet kan oppbevare regnskapsmateriale knyttet til denne virksomheten i dette land, dersom de er pliktige til det etter det aktuelle lands lovgivning. Oppbevaringstiden skal som et minimum følge bokføringsloven § 13 annet ledd og reglene i denne forskrift selv om oppbevaringstiden er en annen etter det aktuelle lands lovgivning.
+Regnskapsmateriale skal uten ubegrunnet opphold kunne fremlegges for offentlig kontrollmyndighet i Norge i hele oppbevaringstiden.

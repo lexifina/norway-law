@@ -1,0 +1,2 @@
+# § 8-11-1. Virkeområde
+Dette delkapittelet gjelder for bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner, som omfattes av merverdiavgiftsloven § 3-12 første ledd bokstav b og e om omsetning av varer til betydelig overpris og varer fra enkeltstående og kortvarige salgsarrangementer samt § 3-12 tredje ledd om omsetning av varer fra kiosk og omsetning av serveringstjenester.
