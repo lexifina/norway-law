@@ -1,0 +1,4 @@
+# § 4-2. Studieavbrudd
+(1) Dersom en student ønsker å si opp studieplassen skal utmelding skje innen de frister som fremgår av studiekontrakten.
+(2) Dersom uforutsette og alvorlige forhold gjør videre studier umulig eller urimelig tyngende (force majeure), kan studenten søke om å bli meldt ut av studiet. Force majeure må dokumenteres med legeerklæring eller annen relevant dokumentasjon. Høyskolen vurderer på bakgrunn av fremlagt dokumentasjon om det foreligger dokumentert utmeldingsgrunn. Dersom utmeldingsgrunn foreligger, blir studenten fritatt for videre betalingsforpliktelser. For inneværende semester har studenten full betalingsplikt frem til søknad med dokumentasjon er mottatt av høyskolen.
+(3) Studenter som har meldt seg ut av et studium eller blitt meldt ut av høyskolen, må søke nytt opptak dersom de senere ønsker studieplass. Høyskolen vurderer ut fra gjeldende regelverk og studieplan om tidligere avlagte eksamener kan inngå i det aktuelle studieprogrammet.
