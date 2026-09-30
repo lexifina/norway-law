@@ -1,0 +1,2 @@
+# § 4. Sekretariatets oppgaver
+Klagenemnda skal ha et sekretariat som skal forberede saker, herunder gjøre juridiske, faktiske og økonomiske utredninger, skrive utkast til vedtak, innkalle til og tilrettelegge for klagenemndas møter og høringer, underrette klager, Nasjonal kommunikasjonsmyndighet og departementet om klagenemndas vedtak og avgjørelser, og ellers utføre de oppgaver som klagenemndas leder pålegger.
