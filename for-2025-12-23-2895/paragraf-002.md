@@ -1,0 +1,5 @@
+# § 2. Klagenemndas sammensetning og organisering
+Medlemmene i Klagenemnda for elektronisk kommunikasjon skal samlet sett ha tilstrekkelig juridisk, økonomisk og teknisk kompetanse.
+Klagenemndas leder har det overordnede ansvaret for organiseringen av arbeidet i klagenemnda. Klagenemndas leder fastsetter sammensetningen av nemnda for hver enkelt klagesak og utpeker en saksordfører.
+Når klagenemnda skal treffe enkeltvedtak, settes den med tre medlemmer. Klagenemnda settes med fem medlemmer ved behandling av klagesaker etter ekomloven kapittel 6, 7, 8 og 9, og når klagenemndas leder i særlige tilfeller beslutter dette. Beslutning etter ekomloven § 16-6 tredje ledd om utsatt iverksetting av vedtak fattes av klagenemndas leder og to nemndsmedlemmer.
+Klagenemndas leder kan selv fatte enkeltvedtak eller andre avgjørelser om saksbehandlingen, innsyn og sakskostnader etter forvaltningsloven, eller beslutte at slike avgjørelser treffes av de øvrige medlemmene alene, eller av sekretariatet. Klager på klagenemndas enkeltvedtak i slike saker behandles av Digitaliserings- og forvaltningsdepartementet.
