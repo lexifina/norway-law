@@ -1,0 +1,4 @@
+# § 2-3. Opptakskrav
+(1) Opptakskravet til høyskolens studier er generell studiekompetanse, i henhold til krav fastsatt i forskrift om opptak til høyere utdanning.
+(2) Søkere over 25 år som ikke har generell studiekompetanse, kan bli tatt opp på bakgrunn av realkompetanse, i henhold til forskrift om opptak til høyere utdanning. Søkere må dokumentere nødvendige faglige forutsetninger for å kunne gjennomføre det aktuelle studiet. Det foretas en individuell vurdering av søkerens kvalifikasjoner opp mot de faglige kravene for studiet det søkes opptak til. Høyskolens minstekrav til realkompetanse skal fremgå av institusjonens nettsider. En realkompetansevurdering gjelder kun opptak til det aktuelle studiet og kan ikke legges til grunn for opptak til andre studier eller institusjoner.
+(3) Søknad om dispensasjon fra krav om generell studiekompetanse behandles etter den til enhver tid gjeldende forskriften om opptak til høyere utdanning.

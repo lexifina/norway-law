@@ -1,0 +1,4 @@
+# § 3-4. Studieprogresjon og bortfall av studierett
+(1) Ordinær studieprogresjon fremgår av studiekontrakten og studieplanen innenfor det enkelte studium.
+(2) Studenter kan maksimalt være 60 studiepoeng forsinket i studieløpet. Studenter som ikke tilfredsstiller studieprogresjonskravet, kan få tilbud om inntil ett år opphold i studiene (progresjonspermisjon) for å kunne innhente manglende eksamener. Studenten vil ikke bli belastet med studieavgift i denne perioden. Progresjonspermisjon vil inngå i tidsberegning for forlenget studietid (fullføringsfrist).
+(3) Ved bortfall av studierett kreves ny søknad om opptak for videre studier. Ordinære opptaksregler gjelder. Høyskolen vurderer ut fra gjeldende regelverk, aktiv studieportefølje og studieplaner om tidligere avlagte eksamener kan inngå i det aktuelle studieprogrammet. En forutsetning for nytt opptak er at alle forfalte betalingsforpliktelser er innfridd.
