@@ -1,0 +1,4 @@
+# § 1
+Vitner som møter for retten etter lovlig innkalling, sakkyndige som avgir erklæring til retten eller påtalemyndigheten eller forklaring for retten, og rettstolker har krav på godtgjøring etter reglene i denne loven. Det samme gjelder for vitner og sakkyndige som møter eller på annen måte avgir forklaring for gjenopptakelseskommisjonen, jf. straffeprosessloven kapittel 27.
+Fornærmede som nevnt i straffeprosessloven § 93 a første ledd og etterlatte som nevnt i straffeprosessloven § 93 a annet ledd første punktum, har krav på godtgjøring som for vitner så langt de er til stede under hovedforhandlingen. Det samme gjelder søsken og steforeldre i saker der noen er død som følge av en straffbar handling.
+Hvis bare én hadde foreldreansvaret i en sak der fornærmede under 18 år er død som følge av en straffbar handling, kan vedkommende peke ut en annen person som også kan fremme krav.
