@@ -1,0 +1,2 @@
+# § 2. Politisk eksponerte personer (PEP) i andre EØS-land
+De som er rapporteringspliktige etter hvitvaskingsloven § 4 første, andre og femte ledd skal anse andre EØS-lands lister over stillinger og funksjoner som medfører status som politisk eksponert person etter direktiv (EU) 2015/849 om tiltak for å hindre at finanssystemet brukes til hvitvasking av penger eller finansiering av terrorisme artikkel 20a, som uttømmende angivelser av stillinger og verv som i disse landene gir status som politisk eksponert person.
