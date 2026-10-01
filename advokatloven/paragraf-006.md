@@ -1,0 +1,5 @@
+# § 6. Søknad om ny advokatbevilling
+(1) Dersom noen som tidligere har hatt advokatbevilling, søker om ny bevilling, gjelder vilkårene i § 4 første ledd bokstav d, e og f og § 4 andre ledd.
+(2) Den som søker om ny advokatbevilling etter at bevillingen har falt bort etter § 14 bokstav c, d eller e, eller etter vedtak om tilbakekall etter § 15, må i tillegg godtgjøre at det ikke lenger foreligger forhold som gir grunnlag for bortfall eller tilbakekall. Har bevillingen bortfalt etter § 14 bokstav e, gir konkursen ikke grunnlag for å nekte ny bevilling dersom Advokattilsynet finner det ubetenkelig at vedkommende til tross for konkursen utøver advokatvirksomhet.
+(3) Den som har fått advokatbevillingen tilbakekalt etter § 15 første ledd, kan tidligst søke om ny advokatbevilling to år etter at bevillingen ble suspendert eller tilbakekalt, med mindre noe annet fremgår av vedtaket om tilbakekall. Ved avslag på søknaden gjelder ny karantene på ett år.
+(4) Departementet kan gi forskrift om forenklet saksbehandling ved søknad om ny advokatbevilling etter melding om opphør av advokatvirksomhet etter § 14 bokstav b.

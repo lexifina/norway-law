@@ -1,0 +1,3 @@
+# § 5. Advokaters plikt til sikkerhetsstillelse
+(1) En advokat som skal utøve advokatvirksomhet, skal stille sikkerhet for erstatningsansvar som advokaten kan pådra seg under utøvelsen av advokatvirksomheten. Sikkerheten skal ikke dekke ansvar som advokaten etter bestemmelse i eller i medhold av lov har stilt annen sikkerhet for.
+(2) Departementet kan gi forskrift om sikkerhetsstillelsen, blant annet om fritak fra plikten til å stille sikkerhet, opplysningsplikt til Advokattilsynet for sikkerhetsstilleren og sikkerhetsstillelse for personer med utenlandsk advokatbevilling som skal opptre som prosessfullmektig eller forsvarer i Norge.

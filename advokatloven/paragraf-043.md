@@ -1,0 +1,8 @@
+# § 43. Advokattilsynets organisering
+(1) Advokattilsynet er et uavhengig forvaltningsorgan og kan ikke instrueres i utøvelsen av sin myndighet.
+(2) Advokattilsynet skal ledes av et styre på fem medlemmer med personlige varamedlemmer. To medlemmer og to varamedlemmer skal være advokater oppnevnt av Den Norske Advokatforening, hvorav én velges som leder. Ett medlem og ett varamedlem skal være dommere oppnevnt av Den Norske Dommerforening, ett medlem og ett varamedlem skal være statsautoriserte revisorer oppnevnt av Den Norske Revisorforening, og ett medlem og ett varamedlem skal oppnevnes av departementet som representanter for allmennheten.
+(3) Medlemmene og varamedlemmene oppnevnes for en periode på fire år med adgang til gjenoppnevning for én periode. Ved første oppnevning kan to medlemmer og to varamedlemmer oppnevnes for en periode på to år. Oppnevningen kan trekkes tilbake dersom forutsetningene for oppnevningen ikke lenger er til stede, eller medlemmet ikke kan eller vil utføre vervet på en forsvarlig måte.
+(4) Advokattilsynet skal ha en administrasjon med egne ansatte og en leder som er ansvarlig overfor Advokattilsynets styre. Lederen ansettes på åremål for inntil syv år. Styret har ansettelsesmyndighet for Advokattilsynets stillinger. Styret kan delegere til leder for administrasjonen å foreta ansettelser.
+(5) Advokattilsynets styre fastsetter instruks for saksbehandlingen i Advokattilsynet, blant annet om hvilke saker som skal forelegges for eller avgjøres av et samlet styre.
+(6) Advokattilsynet kan engasjere statsautoriserte revisorer og andre sakkyndige til å utføre oppdrag for Advokattilsynet.
+(7) Kongen kan gi forskrift om oppnevning og sammensetning av styret og om Advokattilsynets virksomhet og administrasjon.

@@ -1,0 +1,4 @@
+# § 22. Krav til eiere og ledelsen i advokatforetak
+(1) Eiere, styremedlemmer, daglig leder og andre som deltar i ledelsen i et advokatforetak, skal ha hederlig vandel og ikke anses uskikket som følge av straffbare forhold, manglende økonomisk kontroll, grove eller gjentatte overtredelser av plikter gitt i eller i medhold av lov eller andre tilsvarende alvorlige forhold. Det skal legges frem utvidet ordinær politiattest etter politiregisterloven § 40 og § 41 nr. 2.
+(2) Dersom en person som nevnt i første ledd ikke lenger oppfyller vilkårene, skal vedkommende fratre stillingen, rollen eller vervet uten ugrunnet opphold. Eiere skal avhende eierandelen så snart som mulig og senest innen ett år etter at det er konstatert at kravene i første ledd ikke er oppfylt.
+(3) Departementet kan gi forskrift om hvilke personer som omfattes av kravene i første ledd, advokatforetakets rapporteringsplikt ved endring i eierforhold eller ledelsen, og avhending av eierandeler.

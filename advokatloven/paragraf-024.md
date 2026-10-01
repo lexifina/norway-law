@@ -1,0 +1,5 @@
+# § 24. Internadvokater
+(1) En internadvokat er en ansatt advokat som yter advokatbistand til arbeidsgiveren. Internadvokater ansatt i private foretak kan i tillegg yte advokatbistand til virksomheter som inngår i konsern med arbeidsgiveren. Internadvokater som er ansatt i et statlig organ, en fylkeskommune eller en kommune, kan i tillegg yte advokatbistand til offentlige virksomheter som samarbeider med arbeidsgiveren. Internadvokater kan også yte advokatbistand til andre i interessefellesskap med arbeidsgiveren. Internadvokater kan ikke yte advokatbistand til andre som del av arbeidsgiverens forretningskonsept.
+(2) Når en internadvokat opptrer utad, skal det fremgå hvilken virksomhet advokaten er ansatt i. Internadvokatene skal innplasseres i virksomheten på en slik måte at advokatens uavhengighet ivaretas.
+(3) Internadvokater skal ikke utføre oppgaver for sin arbeidsgiver som kan gå ut over deres uavhengighet.
+(4) Andre og tredje ledd gjelder tilsvarende for advokatfullmektiger som er ansatt under en internadvokat.
