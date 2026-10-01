@@ -1,0 +1,2 @@
+# § 4b. Avgjørelser av søknader om bruk av generiske betegnelser etter artikkel 1(4) i forordning (EF) nr. 1924/2006
+EØS-avtalen vedlegg II kapittel XII nr. 160 (forordning (EU) 2019/343) om unntak fra artikkel 1(3) i Europaparlaments- og Rådsforordning (EF) nr. 1924/2006 om ernærings- og helsepåstander om næringsmidler med henblikk på bruk av visse generiske beskrivelser, om avgjørelser av generiske betegnelser som er unntatt anvendelsen av artikkel 1(3), gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

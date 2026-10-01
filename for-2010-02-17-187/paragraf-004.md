@@ -1,0 +1,2 @@
+# § 4. Gjennomføringsbestemmelser vedrørende søknader om godkjenning av helsepåstander, jf. artikkel 15 i forordning (EF) nr. 1924/2006
+EØS-avtalen vedlegg II kapittel XII nr. 54zzzzza (forordning (EF) nr. 353/2008 som endret ved forordning (EF) nr. 1169/2009) om gjennomføringsbestemmelser vedrørende søknader om godkjenning av helsepåstander, jf. artikkel 15 i forordning (EF) nr. 1924/2006, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll I til avtalen og avtalen for øvrig.

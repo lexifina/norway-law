@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EF) nr. 1924/2006
+EØS-avtalen vedlegg II kapittel XII nr. 54zzzt (forordning (EF) nr. 1924/2006 som endret ved forordning (EF) nr. 109/2008, forordning (EU) nr. 116/2010, forordning (EU) nr. 1169/2011 og forordning (EU) nr. 1047/2012) om ernærings- og helsepåstander om næringsmidler gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
