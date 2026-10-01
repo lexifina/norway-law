@@ -1,0 +1,2 @@
+# § 1-10. Reservert studieplass
+Tildelt studieplass kan reserveres til året etter i forbindelse med militærtjeneste, fødsel, adopsjon eller dersom det foreligger andre tungtveiende grunner. Tildelt studieplass kan av tilsvarende årsaker reserveres i to år for studier med opptak annet hvert år. Ytterligere utsettelse innvilges normalt ikke. Tildelt studieplass kan ikke reserveres ved opptak etter § 2-3 og § 5-1.
