@@ -1,0 +1,3 @@
+# § 22. Reaksjonenes innhold
+Reaksjonene ungdomsstraff og ungdomsoppfølging består av gjennomføring av et ungdomsplanmøte, utarbeidelse av en individuelt tilpasset ungdomsplan, oppfølging av planen og jevnlige møter med ungdommens oppfølgingsteam. I tillegg skal konfliktrådet legge til rette for gjennomføring av et gjenopprettende møte med fornærmede og annen gjenopprettende prosess og relasjonsbygging som del av reaksjonene.
+Dersom retten har igangsatt ungdomsstraff ved å fastsette særvilkår, jf. straffeloven § 52 b annet ledd første punktum, gis §§ 27, 29 og 31 tilsvarende anvendelse for oppfølgingen av særvilkårene. Øvrige regler om ungdomsstraff vil ellers gjelde så langt de passer.

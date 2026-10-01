@@ -1,0 +1,5 @@
+# § 11. Samtykke og verge
+Konfliktrådsbehandling krever partenes samtykke med mindre annet er fastsatt i eller i medhold av loven her. Samtykket skal være reelt og informert. Partene skal i hovedsak være enige om saksforholdet som konflikten gjelder. I en sak med flere fornærmede eller skadelidte må samtlige samtykke til konfliktrådsbehandling.
+Dersom en part er under 18 år, må også partens verger samtykke i at en sak blir behandlet av konfliktrådet. Vergene skal varsles om konfliktrådsmøtet og har rett til å være til stede i møtet. Dersom vergen ikke kan eller vil ivareta partens interesse i saken, eller hensynet til barnets beste tilsier det, skal midlertidig verge oppnevnes etter vergemålslovens regler.
+For mindreårige fornærmede i straffesaker gjelder straffeprosessloven § 93 g annet ledd. I sivile saker kan samtykke og varsel etter annet ledd unnlates dersom den mindreårige har fylt 15 år og konfliktrådet eller mekleren finner det ubetenkelig.
+Ved ungdomsoppfølging kreves bare samtykke fra ungdommen og dennes verger. Ved ungdomsstraff skal det i stedet for samtykke vurderes om reaksjonen er egnet for ungdommen.
