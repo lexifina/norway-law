@@ -1,0 +1,3 @@
+# § 11 r. Uttak av særalderspåslag – opphør og endringer
+For medlemmer som mottar tidligpensjon etter dette kapittelet eller tilsvarende tidligpensjon fra en annen offentlig tjenestepensjonsordning, utbetales særalderspåslaget fra måneden etter siste utbetaling av tidligpensjon. Særalderspåslag utbetales ellers tidligst fra og med måneden etter at meldingen om uttak blir gitt, men likevel tidligst fra måneden etter at retten til særalderspåslag inntreffer. Særalderspåslaget opphører ved utgangen av måneden etter måneden medlemmet døde.
+Endringer i særalderspåslaget får virkning fra måneden etter at forholdet som førte til endringen, inntraff, se likevel § 11 q andre ledd tredje punktum.

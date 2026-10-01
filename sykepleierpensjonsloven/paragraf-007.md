@@ -1,0 +1,9 @@
+# § 7
+Et medlem får alderspensjon når det helt eller delvis fratrer sin stilling ved eller etter den aldersgrensen som gjelder for stillingen.
+Fratrer et medlem tidligst tre år før aldersgrensen, får det straks begynnende alderspensjon så fremt summen av medlemmets tjenestetid og alder er minst 85 år eller det ved fratreden har fylt 67 år.
+Rett til alderspensjon har også sykepleier som fratrer etter fylte 65 år, når dette er bestemt i tariffavtale. Rett til alderspensjon fra fylte 65 år har også sykepleier som har fratrådt, eller kunne ha fratrådt, med avtalefestet pensjon fra arbeidsgiver.
+Ved overgang fra stilling med aldersgrense 65 år til stilling med aldersgrense 72 år, skal aldersgrensen på 65 år legges til grunn i inntil ti år dersom vedkommende ville hatt rett til alderspensjon etter den tidligere aldersgrensen. Det er et vilkår at vedkommende har hatt stilling med lavere aldersgrense i minst 15 år.
+Ved overgang fra stilling med aldersgrense 72 år til stilling med aldersgrense 65 år, skal den lavere aldersgrensen først legges til grunn etter ett års tjeneste.
+Det kan ytes redusert pensjon ved delvis fratreden på minst 10 pst., målt i forhold til full stilling. Pensjonen fastsettes normalt på grunnlag av nedgangen i deltidsprosent og med utgangspunkt i pensjon for 100 pst. stilling. Dersom sykepleieren har opptjent pensjon i stillinger med varierende deltid, beregnes nedgangen i deltidsprosent med utgangspunkt i gjennomsnittlig deltidsprosent på det tidspunkt pensjon tas ut.
+Ved endelig fratreden regnes den resterende pensjon for seg.
+Alderspensjon etter tredje ledd kan ikke tas ut samtidig med alderspensjon fra folketrygden. Er det tatt ut alderspensjon fra folketrygden, må den stanses før det gis pensjon etter tredje ledd. Det kan heller ikke ytes alderspensjon etter tredje ledd til en person som mottar eller har mottatt avtalefestet pensjon etter AFP-tilskottsloven.

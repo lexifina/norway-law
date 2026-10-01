@@ -1,0 +1,3 @@
+# § 3
+Unntatt fra medlemskap er sykepleier som gjør tjeneste på pensjonistvilkår. Departementet kan gi forskrift med utfyllende bestemmelser om tjeneste på pensjonistvilkår. Sykepleier født i 1964 eller tidligere som er ansatt i en eller flere stillinger omfattet av pensjonsordningen der samlet arbeidstid er mindre enn 20 prosent av full stilling, og som samtidig er alderspensjonist etter loven her, er også unntatt fra medlemskap.
+Departementet kan unnta fra pensjonsordningen sykepleiere som på grunn av stilling som nevnt i § 1 første og andre ledd, er omfattet av annen pensjonsordning som det finner likeverdig med pensjonsordningen etter denne lov, eller når det ellers foreligger særlige grunner for det.
