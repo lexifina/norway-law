@@ -1,0 +1,13 @@
+# § 7-3. Sikkerhet mot skred
+(1) Bygninger som er avgjørende for nasjonal eller regional beredskap og krisehåndtering skal ikke plasseres i skredfarlig område, dersom konsekvensen av et skred, herunder sekundærvirkninger av et skred, vil føre til at beredskapen svekkes.
+(2) For byggverk i skredfareområde skal det fastsettes sikkerhetsklasse for skred etter tabellen under. Byggverk og tilhørende uteareal skal plasseres, dimensjoneres eller sikres mot skred, herunder sekundærvirkninger av skred, slik at største nominelle årlige sannsynlighet i tabellen ikke overskrides.
+(3) I særskilte tilfeller kan kravene til personsikkerhet i andre ledd oppfylles ved periodisk stenging på grunnlag av lokal varsling eller ved vinterstenging mellom faste datoer, når faren er fra snøskred eller sørpeskred. Krav til sikkerhet for materielle verdier skal oppfylles etter andre ledd. Denne bestemmelsen gjelder kun for konstruksjoner og anlegg. Følgende vilkår må være oppfylt:
+a) Bruk av organisatoriske sikringstiltak skal gi en klart større fordel for kommunen enn bruk av permanente sikringstiltak. I vurderingen skal det særlig legges vekt på hensynet til arealbruk, infrastruktur, naturmiljø, vassdragsmiljø, kulturmiljø, bomiljø, friluftsliv og landskapsvirkninger. Det kan også legges vekt på kostnadene knyttet til sikringstiltaket.
+b) Bruk av organisatoriske sikringstiltak skal oppfylle kravene til sikkerhet etter sikkerhetsklassene i andre ledd. Dette skal være dokumentert på forprosjekteringsnivå.
+c) Det skal være etablert en beredskapsplan som skal inneholde plan for forvaltning, drift, vedlikehold og iverksetting av det organisatoriske sikringstiltaket. Ved periodisk stenging skal beredskapsplanen være basert på lokale observasjoner og målinger og være basert på tilstrekkelig varslingstid til å iverksette det organisatoriske tiltaket og stenge av området.
+d) En offentlig myndighet er ansvarlig for at det blir gjennomført drift og vedlikehold av det organisatoriske sikringstiltaket. Det offentlige kan benytte private til drift, vedlikehold og iverksetting av det organisatoriske sikringstiltaket.
+e) Overvåking av skredfare og krav til vinterstenging og periodisk stenging skal tinglyses som en heftelse på berørte eiendommer.
+(4) Sikkerhetsklasse S1 omfatter også følgende tiltak der tiltaket har liten konsekvens for personsikkerhet og ikke omfatter etablering av ny bruksenhet:
+a) ett tilbygg, ett påbygg eller underbygging inntil 50 m2 BRA i byggverkets levetid
+b) bruksendring og ombygging inntil 50 m2 BRA.
+Dette leddet omfatter ikke tiltak som fører til etablering av virksomhet som inngår i § 7-3 første ledd. Dette leddet omfatter ikke tiltak som ligger innenfor områder med fare for kvikkleireskred.

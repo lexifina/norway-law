@@ -1,0 +1,3 @@
+# § 18-2. Overgangsbestemmelser
+(1) For søknader som kommer inn til kommunen før 1. januar 2019 kan tiltakshaver velge om hele tiltaket skal følge denne forskriften eller bestemmelsene i forskrift 26. mars 2010 nr. 489 om tekniske krav til byggverk. Der tiltakshaver velger byggteknisk forskrift (TEK10) skal dette fremgå av søknad om tillatelse til tiltak.
+(2) Kommunen kan etter søknad tillate at forskrift 26. mars 2010 nr. 489 om tekniske krav til byggverk legges til grunn også for søknader som kommer inn etter 1. januar 2019. Dette gjelder kun for tiltak der prosjektering er påbegynt før 1. juli 2017 og der bruk av forskriften vil føre til omfattende og kostbare endringer.

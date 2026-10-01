@@ -1,0 +1,1 @@
+# IV. Lyd og vibrasjoner

@@ -1,0 +1,5 @@
+# § 13-6. Lyd og vibrasjoner
+(1) Lydforhold skal være tilfredsstillende for personer som oppholder seg i byggverk og på uteoppholdsareal avsatt for rekreasjon og lek. Krav til lydforhold gjelder ut fra forutsatt bruk, og kan oppfylles ved å tilfredsstille lydklasse C i Norsk Standard NS 8175:2012 Lydforhold i bygninger Lydklasser for ulike bygningstyper.
+(2) For studentboliger som omfattes av § 1-2 sjette og sjuende ledd, er det tilstrekkelig luftlydisolasjon mellom rom for varig opphold i boenhet og fellesareal eller kommunikasjonsvei, dersom veid feltmålt lydreduksjonstall R'w er minimum 45 desibel.
+(3) Vibrasjonsforhold skal være tilfredsstillende for personer som oppholder seg i byggverk og på uteoppholdsareal avsatt for rekreasjon og lek.
+(4) I byggverk for publikum og arbeidsbygning skal det være lyd- og taleoverføringsutstyr, med mindre det kan dokumenteres at dette er unødvendig for å oppnå god taleforståelse. Inngangen til rom med forsterket lyd- og taleoverføring skal være tydelig merket.

@@ -1,0 +1,5 @@
+# § 6-2. Høyde
+(1) Gesimshøyden er høyden til skjæringen mellom ytterveggens ytre flate og takflaten. Hvor taket er forsynt med et takoppbygg eller parapet som stikker mer enn 0,3 m opp over takflaten, regnes høyden til toppen av takoppbygget eller parapetet. Gesimshøyden måles i forhold til ferdig planert terrengs gjennomsnittsnivå rundt bygningen.
+(2) Mønehøyden er høyden til skjæringen mellom to skrå takflater. Mønehøyden måles i forhold til ferdig planert terrengs gjennomsnittsnivå rundt bygningen.
+(3) Høyde som beskrevet i plan- og bygningsloven § 29-4 annet ledd, er gjennomsnittlig gesimshøyde for fasaden mot tilliggende nabogrense.
+(4) Kommunen kan i planbestemmelsene fastsette at høyder skal måles i forhold til ferdig planert terreng, eksisterende terreng, gatenivå eller en nærmere fastsatt kotehøyde. For en bygning som går gjennom et kvartal, bestemmer kommunen hvilke høyder som skal brukes for de ulike deler av bygningen. Det samme gjelder for hjørnebygninger og for byggverk med meget stort areal eller uvanlig form.

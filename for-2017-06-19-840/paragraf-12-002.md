@@ -1,0 +1,4 @@
+# § 12-2. Krav om tilgjengelig boenhet
+(1) Boenheter i en bygning med krav om heis skal ha alle hovedfunksjoner på boenhetens inngangsplan. Inngangsplanet skal være tilgjengelig for personer med funksjonsnedsettelse slik det følger av bestemmelser i forskriften.
+(2) I en bygning med krav om heis, jf. § 12-3, er det likevel tilstrekkelig at minst 50 prosent av boenhetene på inntil 50 m2 BRA oppfyller kravet om tilgjengelig boenhet og kravet til utforming av bad og toalett i § 12-9 første ledd. Ved søknad om oppføring av flere bygninger, gjelder unntaket samlet for alle bygningene.
+(3) Boenheter i en bygning uten krav om heis som har alle hovedfunksjoner på bygningens inngangsplan, skal være tilgjengelig på inngangsplanet slik det følger av bestemmelser i forskriften, med mindre gangatkomsten oppfyller vilkåret for unntak i § 8-5 annet ledd.
