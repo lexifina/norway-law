@@ -1,0 +1,4 @@
+# § 9. Betaling av egenandel
+Mottaker av fri rettshjelp i behovsprøvde saker skal betale en egenandel av utgiftene til bistand etter denne lov. I utgiftene det skal betales egenandel av skal advokatens salær og godtgjøring for advokatens nødvendige reiseutgifter og reisefravær inngå. Egenandelen beregnes etter den offentlige salærsatsen og skal øke med de totale advokatutgiftene i saken. Egenandelen fastsettes ut fra søkers betalingsevne etter § 11 annet og tredje ledd og § 16 annet og tredje ledd. Personer med betalingsevne som ikke overstiger én ganger folketrygdens grunnbeløp skal ikke betale egenandel.
+Egenandelen skal kreves inn av staten. Statens krav om betaling av egenandel er tvangsgrunnlag for utlegg.
+Departementet gir forskrift om beregningen av egenandelen. Herunder kan departementet også gi regler om innkrevingen av egenandelen.

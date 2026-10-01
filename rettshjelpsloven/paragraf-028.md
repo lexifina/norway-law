@@ -1,0 +1,2 @@
+# § 28. Innhenting av personopplysninger
+Offentlige organer som behandler søknader om rettshjelp kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret og Skatteetaten opplysninger om søker og søkers ektefelle eller samboer som er nødvendige for å vurdere om vilkårene for rettshjelp er oppfylt eller har vært oppfylt i tidligere perioder. Organene skal også ha tilgang til opplysninger til utredning og produksjon av statistikk.
