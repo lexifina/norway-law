@@ -1,0 +1,6 @@
+# § 5-7. Bedømmelseskomiteens innstilling
+Bedømmelseskomiteen avgir en begrunnet innstilling om hvorvidt doktorgradsarbeidet er verdig til å forsvares for doktorgraden. Alle deler av den innleverte eller fremviste dokumentasjonen skal omtales ut fra kriteriene i § 4-9. Innstillingen bør ha en drøftende form og avsluttes med en klar konklusjon om hvorvidt arbeidet skal godkjennes eller ikke. Eventuelle dissenser eller individuelle uttalelser skal inngå i innstillingen, og de skal være begrunnet.
+Bedømmelseskomiteens innstilling stiles til høyskolen.
+Komiteens innstilling skal foreligge senest innen tre (3) måneder etter at komiteen har fått alle deler av doktorgradsarbeidet til vurdering. Hvis komiteen tillater en mindre omarbeiding av den vitenskapelige avhandlingen, løper ny frist fra den dato arbeidet leveres på nytt.
+Komiteens innstilling oversendes høyskolen, som forelegger den for kandidaten. Kandidaten gis en frist på ti (10) arbeidsdager til å fremme skriftlige merknader til innstillingen. Hvis kandidaten ikke ønsker å fremme merknader, skal høyskolen snarest underrettes skriftlig om dette.
+Kandidatens eventuelle merknader skal sendes institusjonen. Institusjonen fatter vedtak i saken, jf. § 5-9.
