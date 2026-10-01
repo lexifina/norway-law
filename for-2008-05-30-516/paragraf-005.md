@@ -1,0 +1,2 @@
+# § 5. Unntak
+I særlige tilfeller og forutsatt at det ikke vil stride mot REACH-forordningen eller internasjonale avtaler som Norge har inngått, kan Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger gjøre unntak fra denne forskriften. Dette gjelder likevel ikke unntak fra REACH-forordningen artikkel 31 nr. 5 og artikkel 67, jf. vedlegg XVII post 59. For disse bestemmelsene kan Arbeidstilsynet eller den Arbeids- og inkluderingsdepartementet bemyndiger gjøre unntak på samme vilkår som nevnt i første punktum.
