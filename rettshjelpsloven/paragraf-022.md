@@ -1,0 +1,7 @@
+# § 22. Hva fri sakførsel omfatter.
+Fri sakførsel omfatter hel eller delvis dekning av salær til prosessfullmektig. Dessuten dekkes gebyr og sideutgifter ved saken etter bestemmelsene om fritak for rettsgebyr i kapittel IV. Den rett som har saken til behandling, avgjør om bevilling til fri sakførsel også skal omfatte rettergangsskritt ved annen domstol.
+Den domstol eller det forvaltningsorgan som har saken til behandling, kan samtykke i at partenes egne vesentlige og nødvendige utgifter i anledning saken dekkes helt eller delvis. Det samme gjelder partenes utgifter til bistand fra sakkyndige som ikke er oppnevnt av retten.
+En bevilling til fri sakførsel omfatter også sakens behandling i høyere rettsinstanser dersom selvstendig anke bare er innbrakt av motparten, og den part som har fri sakførsel helt eller delvis har fått medhold i foregående instans.
+Når fri sakførsel er innvilget til voldsofre i erstatningssak mot gjerningspersonen eller for den private part i en sak hvor søksmål er anbefalt av Sivilombudet, skal det også dekke ansvar for motpartens sakskostnader.
+Etter særskilt søknad til departementet kan bevillingen utvides til å gjelde bistand til å gjøre myndighetene oppmerksom på generelle forhold som måtte ligge til grunn for saken, samt foreslå endringer og forbedringer av lovregler eller forvaltningspraksis.
+Den domstol eller det forvaltningsorgan som har saken til behandling, fastsetter godtgjøring til prosessfullmektig og eventuelle sakkyndige.

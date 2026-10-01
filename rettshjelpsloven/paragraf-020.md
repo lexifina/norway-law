@@ -1,0 +1,2 @@
+# § 20. Oppnevning av prosessfullmektig i ekteskaps- og familiesaker.
+I ekteskaps- og familiesaker etter § 16 annet ledd jf. § 11 annet ledd nr. 1 kan domstolen, dersom den finner det nødvendig, oppnevne prosessfullmektig for saksøkt som er uteblitt eller ikke har gitt tilsvar under saksforberedelsen, eller er uteblitt fra hovedforhandlingen. Oppnevning kan skje selv om saksøkte ikke fyller de økonomiske vilkår i § 16. Saksøkte plikter å erstatte det offentliges utlegg til prosessfullmektigen. Beløpet er tvangsgrunnlag for utlegg.

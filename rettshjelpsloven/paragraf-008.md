@@ -1,0 +1,5 @@
+# § 8. Refusjon av det offentliges utgifter. Adgang til å trekke tilbake bevilling til fri rettshjelp.
+Får noen sin økonomiske stilling vesentlig bedret gjennom bistand gitt etter denne lov, skal den offentlige instans som har innvilget fri rettshjelp, kreve det offentliges utgifter i forbindelse med rettshjelpen refundert, dersom ikke særlige forhold gjør det urimelig. Har en advokat eller rettshjelper innvilget fri rettshjelp, skal departementet kreve refusjon. Kravet er tvangsgrunnlag for utlegg.
+Krav som nevnt i første ledd innkreves av Innkrevingsmyndigheten med mindre departementet bestemmer annet.
+Bevilling til bistand etter denne lov som innvilges etter økonomisk behovsprøving kan trekkes tilbake dersom det er gitt ufullstendige eller uriktige opplysninger om søkerens økonomiske situasjon, eller dersom søkerens økonomiske situasjon er vesentlig bedret før rettshjelpen er avsluttet.
+Utbetalt salær som etter vedtak i henhold til denne paragraf kreves refundert, er tvangsgrunnlag for utlegg. § 8 annet ledd gjelder tilsvarende.
