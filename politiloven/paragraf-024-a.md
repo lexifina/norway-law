@@ -1,0 +1,2 @@
+# § 24a. Organisasjon og oppgaver
+Politihøgskolen er den sentrale utdanningsinstitusjon for politiet. Politihøgskolen er underlagt Justisdepartementet og har et styre som øverste organ. Sjefen for Politihøgskolen har på vegne av styret det overordnede ansvaret for og ledelsen av høgskolens virksomhet. Departementet gir nærmere regler om valg til styret, styremedlemmenes oppnevning, sammensetning og oppgaver, og om høgskolens oppgaver, organisering og virksomhet.
