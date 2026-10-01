@@ -1,0 +1,2 @@
+# § 1-2. Virkeområde
+Denne forskriften gir regler for tilskudd over Kulturdepartementets budsjett til audiovisuell produksjon og tiltak for den audiovisuelle bransjen. Forskriften forvaltes av Norsk filminstitutt og gjelder tildeling av tilskudd til enkeltpersoner, produksjonsforetak og organisasjoner i den audiovisuelle bransjen. Forskriften gjelder også tilskudd fra regionale filmfond og filmsentre når de benytter statlige midler over Kulturdepartementets budsjett med mindre annet er spesifisert i tilskuddsbrev fra Norsk filminstitutt.
