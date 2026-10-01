@@ -1,0 +1,8 @@
+# § 275
+Retten fastsetter så snart som mulig tid og sted for hovedforhandlingen og underretter påtalemyndigheten, forsvareren og bistandsadvokaten. Om ikke særlige forhold er til hinder, skal hovedforhandling berammes senest to uker etter at saken kom inn til tingretten, jf § 262 første punktum, eller anke til lagmannsretten er henvist til ankeforhandling, jf § 325.
+Hovedforhandling skal avholdes så snart som mulig. Om ikke særlige forhold er til hinder, skal hovedforhandlingen være påbegynt innen seks uker etter at saken kom inn til tingretten, og innen åtte uker etter at anke til lagmannsretten er henvist til ankeforhandling, dersom den siktede
+a) var under 18 år da lovbruddet ble begått, eller
+b) er varetektsfengslet når saken berammes.
+Blir en frist som nevnt i første eller annet ledd ikke holdt, skal grunnen opplyses i rettsboken.
+Påtalemyndigheten sørger for at innkalling til hovedforhandling blir forkynt for tiltalte, vitner og sakkyndige, og for at tiltalte og vitner som ikke er på frifot, blir brakt til rettsstedet. Påtalemyndigheten gir underretning om tid og sted for hovedforhandling til etterlatte i lovbestemt rekkefølge hvis de ikke varsles på annen måte. Innkalling kan sendes offentlig oppnevnt forsvarer med anmodning om at denne forestår forkynningen for tiltalte etter reglene i domstolloven § 179. Forsvareren skal senest en uke før hovedforhandlingen underrette påtalemyndigheten om hvorvidt forkynning har skjedd.
+Vil tiltalte eller hans forsvarer innstevne vitner til hovedforhandlingen, gjelder reglene i § 270 tredje ledd tilsvarende. Erstatning for utgifter kan også gis når vitner møter frivillig, og når det møter sakkyndige som ikke er oppnevnt.

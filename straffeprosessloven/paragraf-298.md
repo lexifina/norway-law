@@ -1,0 +1,6 @@
+# § 298
+I sak der det er tatt tilrettelagt avhør etter § 239 første ledd og vitnet ved hovedforhandlingen er under 16 år, skal videoopptak av avhøret tre i stedet for personlig forklaring. Det samme gjelder om vitnet har fylt 16 år, med mindre det av hensyn til siktedes rett til kontradiksjon er nødvendig at vitnet avgir personlig forklaring under hovedforhandlingen.
+I sak der det er tatt tilrettelagt avhør etter § 239 andre ledd, tredje ledd eller fjerde ledd, skal videoopptak som hovedregel tre i stedet for personlig forklaring under hovedforhandlingen, med mindre retten etter en samlet vurdering av hensynet til siktedes rett til kontradiksjon, hensynet til vitnet og hensynet til sakens opplysning finner at vitnet bør avgi personlig forklaring under hovedforhandlingen.
+Kommer retten til at vitnet må forklare seg personlig under hovedforhandling, kan retten beslutte at forklaringen skal gis som et supplement til avspilling av videoopptak av avhør.
+Er det tatt lydopptak av avhøret etter § 239 a tredje ledd, gjelder reglene i første til tredje ledd tilsvarende.
+Retten skal så tidlig som mulig under saksforberedelsen ta stilling til om vitnet skal avgi personlig forklaring under hovedforhandlingen.

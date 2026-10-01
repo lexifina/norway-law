@@ -1,0 +1,8 @@
+# § 216 o
+Retten kan ved kjennelse gi politiet tillatelse til å foreta avlesing av ikke offentlig tilgjengelige opplysninger i et datasystem (dataavlesing) når noen med skjellig grunn mistenkes for en handling eller forsøk på en handling
+a) som etter loven kan medføre straff av fengsel i 10 år eller mer
+b) som rammes av straffeloven §§ 121, 123, 125, 126, 127 jf. 123, § 128 første punktum, §§ 129, 130, 136, 136 a, 136 b, 232, 254, 257, 311, 333, 337 jf. 231, eller 340 jf. 231, eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5 eller av lov om utlendingers adgang til riket og deres opphold her § 108 femte ledd.
+Dataavlesing kan besluttes selv om straff ikke kan idømmes på grunn av bestemmelsene i straffeloven § 20. Det gjelder også når tilstanden har medført at den mistenkte ikke har utvist skyld.
+Tillatelse etter første ledd kan bare gis dersom det må antas at dataavlesing vil være av vesentlig betydning for å oppklare saken, og at oppklaring ellers i vesentlig grad vil bli vanskeliggjort. § 216 c annet ledd gjelder tilsvarende.
+Det kan bare gis tillatelse til å avlese bestemte datasystemer eller brukerkontoer til nettverksbaserte kommunikasjons- og lagringstjenester som den mistenkte besitter eller kan antas å ville bruke. Avlesingen kan omfatte kommunikasjon, elektronisk lagrede data og andre opplysninger om bruk av datasystemet eller brukerkontoen.
+§§ 216 d til 216 k gjelder tilsvarende, likevel slik at rettens tillatelse ikke kan gis for mer enn to uker om gangen. Eventuelt utstyr som er benyttet for å gjennomføre dataavlesingen skal fjernes snarest mulig etter avlesingsperiodens utløp.

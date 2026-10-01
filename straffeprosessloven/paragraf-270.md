@@ -1,0 +1,4 @@
+# § 270
+Bevisopptak forut for hovedforhandlingen kan holdes når et vitne er fritatt for møteplikt etter § 109 første ledd annet punktum, beviset ikke kan føres under hovedforhandlingen uten uforholdsmessig ulempe eller utgift, eller det er fare for at beviset ellers kan gå tapt eller verdien av det bli forringet.
+Når påtalemyndigheten begjærer bevisopptak, bedømmer den selv om vilkårene etter første ledd er til stede. Ved begjæring fra tiltalte eller hans forsvarer hører avgjørelsen under den rett som begjæringen er fremsatt for.
+Begjærer tiltalte eller hans forsvarer bevisopptak, skal retten som regel kreve at det blir innbetalt et tilstrekkelig beløp til å dekke utgiftene. Finner påtalemyndigheten eller den dømmende rett at det har vært rimelig grunn til bevisopptaket, erstattes utgiftene av staten.

@@ -1,0 +1,2 @@
+# § 263
+Påtalemyndigheten lar tiltalebeslutningen snarest mulig forkynne for tiltalte med underretning om hvem som er oppnevnt som hans forsvarer. Har tiltalte fått oppnevnt offentlig forsvarer, kan tiltalebeslutningen sendes til forsvareren med anmodning om at denne forestår forkynningen etter reglene i domstolloven § 179. Forsvareren skal innen en frist som påtalemyndigheten fastsetter, underrette påtalemyndigheten om hvorvidt forkynning har skjedd.

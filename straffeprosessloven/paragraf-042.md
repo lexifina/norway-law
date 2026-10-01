@@ -1,0 +1,4 @@
+# § 42
+Dommen bør avsies umiddelbart etter at saken er tatt opp til doms. Kan dette ikke skje, og domsavsigelsen derfor besluttes utsatt til et senere rettsmøte, skal om mulig tid og sted for dette fastsettes før saken tas opp til doms.
+Dersom siktede er til stede eller deltar i rettsmøtet ved fjernmøteteknikk når saken tas opp til doms, skal retten opplyse hvordan dommen vil bli forkynt. Skal dommen forkynnes etter reglene i domstolloven § 159 a annet eller tredje ledd, skal retten gjøre siktede kjent med at han plikter å møte til forkynnelsen, og kan pågripes om han ikke møter. Retten skal også opplyse siktede om regelen i § 310 annet ledd annet punktum. Det skal anmerkes i rettsboken at opplysningene er gitt.
+Er dom ikke avsagt innen tre dager etter at saken er tatt opp til doms, skal grunnen opplyses i rettsboka.

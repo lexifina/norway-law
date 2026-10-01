@@ -1,0 +1,3 @@
+# § 267
+Har tiltalte ikke forsvarer, skal han ved forkynning av tiltalebeslutningen gis kopi av påtalemyndighetens bevisoppgave og underretning om at han kan få gjøre seg kjent med sakens dokumenter. Han oppfordres til innen tre dager å melde fra dersom han mener at det bør føres andre bevis enn påtalemyndigheten har oppgitt. Reglene i § 242 femte ledd og § 264 annet, femte og sjette ledd gjelder tilsvarende.
+Når fristen for tiltalte er utløpt, sender påtalemyndigheten dokumentene til retten med oppgave over mulige nye bevis. Retten undersøker om det trengs ytterligere bevis, og sender dokumentene tilbake til påtalemyndigheten med underretning om hva den har besluttet om bevisførselen.

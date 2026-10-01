@@ -1,0 +1,2 @@
+# § 443
+Siktedes forsvarer anses bemyndiget til å motta erstatning som er tilkjent etter § 438. Han kan kreve utbetalt direkte til seg den del av erstatningen som trengs for å dekke det han har til gode for utlegg og arbeid med saken. Den del av erstatningen som medgår til dette, kan ikke gjøres til gjenstand for utlegg av siktedes øvrige kreditorer, og heller ikke inndras i hans konkursbo eller anvendes til motregning med siktedes gjeld til staten.

@@ -1,0 +1,5 @@
+# § 310
+Fristen for anke er to uker fra den dag dommen er avsagt. Siktede må innen samme frist angi om det begjæres ny behandling av krav som nevnt i § 3.
+Fristen for siktede løper fra det tidspunkt dommen er forkynt for ham. Er siktede i medhold av § 42 annet ledd eller domstolloven § 159 b, jf. domstolloven § 159 a annet eller tredje ledd, pålagt å møte til forkynnelse, løper fristen fra det varslede forkynnelsestidspunktet, selv om siktede ikke møter. Møter han ikke, skal retten straks sende kopi av dommen til siktede, forsvareren og påtalemyndigheten med opplysning om utgangspunktet for ankefristen.
+Har den ankeberettigede tjenestemann i påtalemyndigheten ikke vært til stede ved domsavsigelsen, løper fristen for påtalemyndigheten fra den dag da dommen er kommet inn til dennes kontor. Fristen løper likevel senest ut fire uker etter at dommen kom inn til den påtalemyndighet som utførte aktoratet.
+Fristen for støtteskriv til anke fra siktede er to uker etter at anke er fremsatt. Påtalemyndigheten eller retten kan forlenge fristen.

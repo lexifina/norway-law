@@ -1,0 +1,5 @@
+# § 237
+Påtalemyndigheten kan begjære rettslig avhør, rettslig gransking eller oppnevning av sakkyndige til bruk for etterforskingen. Retten plikter å etterkomme begjæringen, med mindre den finner at det forhold som etterforskingen gjelder, ikke er straffbart, eller at straffansvaret er falt bort, eller at det ikke er lovlig adgang til å ta begjæringen til følge. Ved begjæring fra en politistasjonssjef prøver retten likevel fullt ut om begjæringen er tilstrekkelig begrunnet. Adgang til å begjære rettslig avhør gjelder ikke ved tilrettelagt avhør etter § 239 med mindre tilrettelagt avhør ikke lar seg gjennomføre uten rettens medvirkning.
+Retten kan etter begjæring fra fornærmede oppnevne en sakkyndig under etterforskingen for å utrede hvilke helseskader fornærmede er påført dersom det er nødvendig for å avgjøre vedkommendes krav etter § 3.
+Bevisopptak til bruk for hovedforhandlingen kan holdes når vilkårene etter § 270 første ledd foreligger, og det ikke uten skade, tidsspille eller omkostning kan utstå til spørsmålet om tiltale er avgjort.
+Retten kan av eget tiltak ta slike skritt som hensiktsmessig kan gjøres i forbindelse med det som begjæringen går ut på.

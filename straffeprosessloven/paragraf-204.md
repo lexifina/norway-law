@@ -1,0 +1,3 @@
+# § 204
+Det kan ikke tas beslag i dokumenter eller annet hvis innhold et vitne kan nekte å forklare seg om etter §§ 117-121 og 124-125, og som besittes enten av den som kan nekte å forklare seg, eller av den som har rettslig interesse i hemmelighold. I den utstrekning det etter de nevnte bestemmelser kan pålegges vitneplikt i visse tilfelle, gjelder dette tilsvarende for adgangen til beslag.
+Forbudet i første ledd gjelder ikke dokumenter eller annet som inneholder betroelser mellom personer som er mistenkt for å være medskyldige i det straffbare forhold. Det er heller ikke til hinder for at dokumenter eller annet blir fratatt urettmessig besitter for å muliggjøre overlevering til rette vedkommende.

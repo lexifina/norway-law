@@ -1,0 +1,4 @@
+# § 93 a
+Fornærmede med bistandsadvokat er fornærmede i saker hvor det er oppnevnt bistandsadvokat etter § 107 a første ledd eller tredje ledd.
+Når noen er død som følge av en straffbar handling, regnes i denne lov som etterlatte den avdødes ektefelle eller samboer, barn og foreldre. Når rettigheter er gitt til etterlatte i lovbestemt rekkefølge, tilkommer rettighetene først den avdødes ektefelle eller samboer, dernest barn, og til sist foreldre. Når avdøde var under 18 år, skal rettighetene likevel alltid først tilkomme den som hadde foreldreansvar. Med etterlatte med bistandsadvokat, menes etterlatte i saker hvor det er oppnevnt bistandsadvokat etter § 107 a annet eller tredje ledd.
+I tilfeller hvor andre har fått oppnevnt bistandsadvokat i medhold av § 107 a tredje ledd, gjelder lovens regler om fornærmede eller etterlatte tilsvarende.

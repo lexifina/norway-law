@@ -1,0 +1,2 @@
+# § 147 a
+I saker der det kan bli lagt ned påstand om dom på overføring til tvungent psykisk helsevern etter straffeloven § 62 eller tvungen omsorg etter straffeloven § 63, skal påtalemyndigheten underrette den eller de rettspsykiatrisk sakkyndige om dette. De sakkyndige skal straks etter at de har avgitt den rettspsykiatriske erklæringen, underrette det regionale helseforetaket eller helseforetak det bemyndiger om saken. De sakkyndige skal gi råd om hvilken institusjon den siktede bør innskrives ved, jf. psykisk helsevernloven §§ 5-2 og 5-3.

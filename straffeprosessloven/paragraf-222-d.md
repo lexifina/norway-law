@@ -1,0 +1,13 @@
+# § 222 d
+Retten kan ved kjennelse gi politiet tillatelse til som ledd i etterforskning å nytte tvangsmidler som nevnt i kapittel 15, 15 a, 15 b, 16, 16 a, 16 b og 16 d når det er rimelig grunn til å tro at noen kommer til å begå en handling som rammes av
+a) straffeloven §§ 131 eller 134,
+b) straffeloven § 275, eller
+c) straffeloven §§ 232 annet ledd eller 328, jf. § 79 bokstav c.
+Politiets sikkerhetstjeneste kan også gis slik tillatelse når det er rimelig grunn til å tro at noen kommer til å begå en handling som rammes av
+a) straffeloven §§ 111, 113, 115, 117, 119, 120 a, 121, 123, 125, 126, 127, § 128 første punktum, §§ 129, 130 a, 133, 135, 136, 136 a, 142 eller 145,
+b) lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5,
+c) straffeloven §§ 139, 140, 192, 194, 238, 239, 240, 241, 242, 355, 356, 357 eller 358 og som begås med sabotasjehensikt, eller
+d) straffeloven §§ 251, 254, 256, 263 eller 273 og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
+Tillatelse kan bare gis dersom det må antas at inngrepet vil gi opplysninger av vesentlig betydning for å kunne avverge handlingen og at avverging ellers i vesentlig grad vil bli vanskeliggjort. Tillatelse til å nytte tvangsmidler som nevnt i §§ 200 a, 202 c, 202 f, 216 a, 216 m og 216 o kan bare gis når særlige grunner tilsier det. Politiets sikkerhetstjeneste kan bare gis tillatelse til å romavlytte, jf. § 216 m, når det er grunn til å tro at noen kommer til å begå en handling som rammes av straffeloven §§ 121, 123, 125, 126, 130 a, 131, 133, 134 eller 142, eller av §§ 251, 254, 256, 263, 273 eller 275 og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
+Dersom det ved opphold er stor fare for at en handling som nevnt i første eller annet ledd ikke vil kunne avverges, kan ordre fra påtalemyndigheten tre i stedet for kjennelse av retten. Beslutningen skal snarest mulig, og senest 24 timer etter at tvangsmidlet ble tatt i bruk, legges frem for retten for godkjennelse. Beslutningen skal så vidt mulig være skriftlig og opplyse om hva saken gjelder og om formålet med bruken av tvangsmidlet. En muntlig beslutning skal snarest mulig nedtegnes. § 216 d første ledd tredje til femte punktum og annet ledd gjelder tilsvarende.
+Bestemmelsene i kapittel 15, 15 a, 15 b, 16, 16 a og 16 b gjelder tilsvarende så langt de passer. Reglene i §§ 216 i, 242 og 242 a gjelder for all bruk av tvangsmidler etter paragrafen her.

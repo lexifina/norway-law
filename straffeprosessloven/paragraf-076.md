@@ -1,0 +1,13 @@
+# § 76
+Saker ved Høyesterett kan riksadvokaten føre selv eller overlate til en statsadvokat, en advokat med rett til å føre saker for Høyesterett eller en fullmektig ved riksadvokatembetet.
+Saker ved lagmannsrett og tingrett blir ført av statsadvokatene, polititjenestepersoner som tilhører påtalemyndigheten, eller advokater. Når særlige grunner foreligger, kan riksadvokaten overdra til en polititjenesteperson som har juridisk embetseksamen eller mastergrad i rettsvitenskap, men som ikke hører til påtalemyndigheten, å føre saker ved lagmannsrett eller ved tingrett. I saker ved tingrett hvor det er utferdiget forelegg, kan påtalemyndigheten møte ved en polititjenesteperson som ikke hører til påtalemyndigheten. Det samme gjelder for rettsmøter utenfor hovedforhandling.
+Saker ved lagmannsrett og tingrett som gjelder lovbrudd som etter loven kan medføre fengsel i mer enn 6 år, eller sak hvor påtalemyndigheten vil påstå idømmelse av særreaksjon eller forvaring, skal under hoved- og ankeforhandling føres av en statsadvokat. Når det er grunn til det, kan en advokat, en polititjenesteperson som tilhører påtalemyndigheten, eller en fullmektig ved riksadvokatembetet føre en slik sak. Beslutningen om å overdra saken til en fullmektig ved riksadvokatembetet treffes av riksadvokaten. For øvrig treffes avgjørelser etter annet punktum av den påtalemyndighet som har påtalekompetansen. Utenfor hoved- eller ankeforhandling kan statsadvokaten overlate til en advokat eller polititjenesteperson som tilhører påtalemyndigheten, å føre saken. Det samme gjelder når siktede i retten har gitt en uforbeholden tilståelse som styrkes av de øvrige opplysninger i saken, og saken ikke kan medføre fengsel i mer enn 10 år.
+Når politiet har tatt ut tiltale i en sak, skal saken for tingretten som regel føres av en polititjenesteperson som hører til påtalemyndigheten.
+Ved rettsmøter i tingretten og lagmannsretten kan tilsatte i kriminalomsorgen møte i saker
+a) om fullbyrding av subsidiær fengselsstraff etter straffeloven § 52 første ledd bokstav a,
+b) om fullbyrding av subsidiær fengselsstraff, omgjøring til samfunnsstraff eller betinget fengsel etter straffeloven § 52 c første ledd bokstav a,
+c) om fastsetting av vilkår for fortsatt gjennomføring av ungdomsstraff etter straffeloven § 52 c fjerde og femte ledd,
+d) om ileggelse av reststraff etter prøveløslatelse etter straffegjennomføringsloven § 44 annet ledd,
+e) om fullbyrding skal utsettes etter § 459 første ledd, og
+f) som kriminalomsorgen har brakt inn for retten etter straffeloven § 39 første og annet ledd.
+Bestemmelser om påtalemyndighetens rettigheter og plikter gjelder tilsvarende.

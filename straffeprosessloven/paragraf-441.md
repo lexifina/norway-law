@@ -1,0 +1,2 @@
+# § 441
+Avgjørelse om erstatning for saksomkostninger tas i dommen eller i den kjennelse som avslutter saken. Er slik avgjørelse ikke truffet, eller innstilles forfølgningen uten dom eller kjennelse, kan krav om saksomkostninger bringes inn til avgjørelse ved kjennelse av den rett som har hatt saken, eller om ingen rett har hatt saken, den tingrett som saken hører under etter § 12. Kravet settes fram innen en måned etter at det ble adgang til det. Før avgjørelsen treffes, skal motparten ha hatt anledning til å uttale seg.

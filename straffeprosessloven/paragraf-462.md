@@ -1,0 +1,2 @@
+# § 462
+Oppstår det uenighet mellom påtalemyndigheten eller kriminalomsorgen og domfelte om dommens tolkning, beregning av straffetiden, eller liknende spørsmål som gjelder fullbyrdingen, kan domfelte kreve spørsmålet avgjort ved kjennelse av stedets rett eller den rett som har dømt i saken. Det tilsvarende gjelder når det er tvist om hvorvidt den person som dommen søkes fullbyrdet mot, er den domfelte, og når det er tvist mellom påtalemyndigheten og andre enn domfelte om hvorvidt en avgjørelse om inndragning kan gjøres gjeldende overfor dem.

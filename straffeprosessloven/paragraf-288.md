@@ -1,0 +1,8 @@
+# § 288
+Når det er tvil om tiltaltes sinnstilstand eller andre grunner gjør det ønskelig, kan retten beslutte at det skal forhandles særskilt om skyldspørsmålet eller enkelte deler av det.
+Når slik særskilt forhandling er holdt, kan retten:
+1) avslutte saken med dom såfremt den går ut på frifinnelse, eller
+2) avsi kjennelse om at tiltalte er skyldig eller at han har foretatt den rettsstridige handling tiltalen gjelder. Omfatter tiltalen også forhold som retten finner at tiltalte må frifinnes for, kan den i kjennelsen ta avgjørelse om det. Kjennelsen trenger ikke grunner og kan ikke ankes.
+Det skal alltid avsis kjennelse som nevnt dersom vilkårene ellers er til stede for det og den videre forhandling må utsettes for at tiltalte kan bli underkastet mentalobservasjon i tilfelle der avgjørelsen om dette har utstått etter reglene i § 165 tredje ledd. Når det er avsagt kjennelse som nevnt, kan den videre forhandling utsettes for at man kan få undersøkt tiltaltes sinnstilstand eller innhentet andre opplysninger som trengs for avgjørelsen av spørsmål om straff og andre rettsfølger. Utsettelse skal alltid skje til et senere rettsmøte som samtidig berammes.
+Ved avsigelse av dom i saken kan kjennelsen fravikes til gunst for tiltalte, men ikke til hans skade. Har det vært stemt særskilt over spørsmålet om tiltalte har foretatt den rettsstridige handling, og det senere stemmes over spørsmålet om straffeskyld, deltar ikke de dommere som har stemt for frifinnelse, men anses for å stemme til gunst for tiltalte.
+Blir det ikke tatt avgjørelse etter annet ledd, fortsetter forhandlingen med sikte på å avgjøre saken under ett.

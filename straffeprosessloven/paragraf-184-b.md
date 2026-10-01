@@ -1,0 +1,4 @@
+# § 184 b
+Retten kan beslutte at fengsling etter § 184 skal gjennomføres som opphold på bestemte steder med elektronisk kontroll, dersom slik gjennomføring utenfor fengsel anses egnet. Oppholdspåbudet kan kombineres med forføyninger nevnt i § 181 første ledd annet punktum.
+Oppholdspåbud etter første ledd kan bare ilegges dersom siktede og myndige husstandsmedlemmer samtykker. Er siktede under 18 år, må også siktedes verger samtykke. Mindreårige husstandsmedlemmer skal få anledning til å uttale seg etter alder og modenhet, og den mindreåriges verger må samtykke. Dersom oppholdsstedet er en institusjon eller en kommunal boenhet, må institusjonen eller kommunen samtykke.
+Kongen kan gi nærmere forskrifter om oppholdspåbud etter bestemmelsen her, herunder om saksbehandling og om behandling av personopplysninger i forbindelse med den elektroniske kontrollen.

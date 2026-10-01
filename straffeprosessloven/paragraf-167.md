@@ -1,0 +1,3 @@
+# § 167
+Er det nødvendig for å bedømme siktedes sinnstilstand, kan retten etter at forsvarere og oppnevnte sakkyndige er hørt, ved kjennelse bestemme at han skal innlegges til undersøkelse på psykiatrisk sykehus eller annet egnet undersøkelsessted. Retten fastsetter en frist for varigheten av innleggelsen. Fristen skal være så kort som mulig og ikke overstige åtte uker. Fristen kan forlenges ved kjennelse med inntil fire uker av gangen.
+Blir siktede straffet, skal oppholdet komme til fradrag i straffen etter samme regler som varetektsfengsel. Dette gjelder også når siktede uten rettens kjennelse har latt seg innlegge til undersøkelse.

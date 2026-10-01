@@ -1,0 +1,2 @@
+# § 399
+Reglene om kjennelse gjelder for kommisjonens avgjørelse av om gjenåpning skal tillates. Fem medlemmer hvorav tre med juridisk embetseksamen eller mastergrad i rettsvitenskap avgjør om begjæringen skal tas til følge. Reglene i § 54 får ikke anvendelse. Kommisjonen kan omgjøre en avgjørelse om gjenopptakelse når den som har begjært omgjøring trekker begjæringen og § 400 tredje ledd ikke er til hinder.

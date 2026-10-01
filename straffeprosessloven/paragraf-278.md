@@ -1,0 +1,2 @@
+# § 278
+Hovedforhandlingen er muntlig. Opplesing kan ikke tre i stedet for fri muntlig framstilling. For å lette fremstilling av argumentasjon og bevisføring kan det benyttes disposisjon, illustrasjon, oversikt eller annet hjelpemiddel. Hjelpedokumenter skal ikke utgjøre bevis i saken uavhengig av den redegjørelse de skal være til støtte for, og skal heller ikke ha karakter av skriftlig prosedyre.

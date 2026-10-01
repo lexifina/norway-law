@@ -1,0 +1,4 @@
+# § 273
+Avgjørelser om saksbehandlingen skal treffes så tidlig som mulig under saksforberedelsen. Avgjørelsen kan likevel utsettes til hovedforhandlingen når det er nødvendig for å sikre et forsvarlig avgjørelsesgrunnlag, eller når andre forhold ellers tilsier det.
+Avgjørelser om saksbehandlingen under saksforberedelsen treffes etter skriftlig behandling. Muntlig forhandling holdes når hensynet til forsvarlig og rettferdig behandling tilsier det. Den muntlige behandlingen kan begrenses til særlige spørsmål.
+Prosessledende avgjørelser under saksforberedelsen er ikke bindende ved hovedforhandlingen eller annet rettsmøte hvor saken avgjøres. Retten behandler bare en begjæring om omgjøring hvis den finner grunn til det. En avgjørelse om saksbehandlingen av overordnet domstol kan bare fravikes på grunnlag av nye opplysninger.

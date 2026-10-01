@@ -1,0 +1,2 @@
+# § 71
+Dersom siktede hevder at han ikke er skyldig i en straffbar handling som påtale er unnlatt for etter §§ 69 eller 70, kan han kreve at påtalemyndigheten bringer saken inn for retten, om den ikke frafaller siktelsen. Begjæring om dette må være fremsatt innen en måned etter at siktede fikk melding om påtaleunnlatelsen og adgangen til å kreve sak reist. Reglene i § 318 første ledd gjelder tilsvarende.

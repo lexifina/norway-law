@@ -1,0 +1,3 @@
+# § 10
+Hovedforhandling holdes i den rettskrets der den straffbare handling antas foretatt eller i en av de rettskretser der den kan være foretatt.
+Er den straffbare handling foretatt om bord i norsk skip eller luftfartøy under reise i eller utenfor riket, kan hovedforhandling holdes i den rettskrets der skipet eller luftfartøyet har hjemsted eller der det først anløper, eller der etterforsking først blir satt i verk. Tilsvarende gjelder når handlingen er foretatt om bord på norsk boreplattform eller liknende flyttbar innretning under reise i eller utenfor riket. For luftfartøy regnes eierens bopel eller forretningskontor som hjemsted.
