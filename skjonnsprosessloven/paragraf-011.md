@@ -1,0 +1,5 @@
+# § 11
+Antall skjønnsmedlemmer skal være fire dersom ikke annet er bestemt ved lov. Skjønnet settes med to skjønnsmedlemmer dersom en av partene krever det og skjønnsstyreren finner det ubetenkelig. I særlig vanskelige og omfattende saker settes retten med seks skjønnsmedlemmer dersom partene krever det og skjønnsstyreren finner det påkrevet.
+I vidtløftige saker kan skjønnsstyreren bestemme at en eller to varamedlemmer skal følge forhandlingene for å tre inn i retten om noen av skjønnsmedlemmene får forfall.
+Får høyst et skjønnsmedlem forfall etter at forhandlingene er begynt i sak, hvor antallet skjønnsmedlemmer er minst 4, kan de gjenværende medlemmer av retten ved enstemmig kjennelse beslutte at behandlingen av saken skal fortsette. Slik beslutning kan bare treffes når det ikke finnes betenkelig av omsyn til rettens sammensetning, jfr. § 12. Kjennelsen kan omgjøres dersom det senere likevel finnes betenkelig av omsyn som nevnt.
+Kjennelse etter tredje ledd første punktum kan bare angripes ved anke som erklæres innen tre dager. Anken har oppsettende virkning.
