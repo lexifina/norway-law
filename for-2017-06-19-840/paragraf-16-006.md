@@ -1,0 +1,2 @@
+# § 16-6. Nasjonalt installasjonsregister
+Det skal føres register over installerte løfteinnretninger og gjennomførte sikkerhetskontroller. Kravet om registrering gjelder likevel ikke løfteinnretninger som omfattes av § 16-1 (2) og (3). Eier av løfteinnretning skal melde installasjonen til kommunen og registeret. Sikkerhetskontrollorganene skal uten ugrunnet opphold melde inn gjennomført sikkerhetskontroll til registeret. Registerførende organ utpekes av Direktoratet for byggkvalitet.

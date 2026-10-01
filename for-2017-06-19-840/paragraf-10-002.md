@@ -1,0 +1,4 @@
+# § 10-2. Konstruksjonssikkerhet
+(1) Materialer og produkter i byggverket skal ha slike egenskaper at grunnleggende krav til byggverkets mekaniske motstandsevne og stabilitet blir tilfredsstilt.
+(2) Byggverket skal prosjekteres og utføres slik at det oppnås tilfredsstillende sikkerhet mot brudd og tilstrekkelig stivhet og stabilitet for laster som kan oppstå under forutsatt bruk. Kravet gjelder byggverk under utførelse og i endelig tilstand.
+(3) Grunnleggende krav til byggverkets mekaniske motstandsevne og stabilitet, herunder grunnforhold og sikringstiltak under utførelse og i endelig tilstand, kan oppfylles ved prosjektering av konstruksjoner etter Norsk Standard NS-EN 1990 Eurokode: Grunnlag for prosjektering av konstruksjoner og underliggende standarder i serien NS-EN 1991 til NS-EN 1999, med tilhørende nasjonale tillegg.

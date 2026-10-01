@@ -1,0 +1,4 @@
+# § 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for personer med yrkeskvalifikasjoner fra andre land
+(1) Direktoratet for byggkvalitet kan gi godkjenning som sikkerhetskontrollør til person med yrkeskvalifikasjoner fra en annen EØS-stat, Sveits eller Storbritannia etter reglene i yrkeskvalifikasjonsloven og forskrift om godkjenning av yrkeskvalifikasjoner.
+(2) Søker fra annen EØS-stat, Sveits eller Storbritannia som ikke omfattes av reglene etter yrkeskvalifikasjonsloven og forskrift om godkjenning av yrkeskvalifikasjoner, kan godkjennes dersom søker har likeverdige kvalifikasjoner som nevnt i § 16-2 tredje ledd.
+(3) For yrkesutøvere med yrkeskvalifikasjoner fra land som ikke omfattes av første ledd, gjelder yrkeskvalifikasjonsloven § 2 tredje ledd og bestemmelser gitt i medhold av yrkeskvalifikasjonsloven § 2 femte ledd.
