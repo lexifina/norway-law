@@ -1,0 +1,3 @@
+# § 16
+1) Når det settes i verk undersøkelse etter § 14, skal det oppnevnes offentlig forsvarer for den som er begjært utlevert, med mindre denne selv velger en forsvarer. For øvrig får reglene i straffeprosessloven § 100 første ledd tilsvarende anvendelse. Straffeprosessloven § 186 første ledd gjelder tilsvarende.
+2) Godtgjørelse til offentlig forsvarer etter denne lov betales av statskassen etter de bestemmelser som gjelder for betaling til offentlig forsvarer etter straffeprosessloven § 107. Også andre sakskostnader dekkes av statskassen. For innstevning av vitner gjelder likevel reglene i straffeprosessloven § 275 femte ledd tilsvarende. Retten kan i særlige tilfelle bestemme at sakskostnader som nevnt skal erstattes av den som er begjært utlevert.

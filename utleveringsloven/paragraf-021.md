@@ -1,0 +1,5 @@
+# § 21
+1) Departementet kan på begjæring samtykke i at den som er utlevert etter denne lov, settes under rettsforfølgning eller at straff fullbyrdes mot ham for en annen før utleveringen begått straffbar handling enn den han er utlevert for. Det samme gjelder samtykke til at han blir utlevert videre til en tredje stat for noen straffbar handling begått før utleveringen herfra.
+2) Samtykke kan bare gis når handlingen kunne ha begrunnet utlevering etter denne lov. Dette spørsmål avgjøres ved kjennelse av den tingrett som tidligere har truffet avgjørelse i saken. Dersom saken tidligere ikke har vært prøvd for retten, skal den tingretten hvor den ettersøkte sist oppholdt seg, avgjøre spørsmålet. Bestemmelsene i § 16 og § 17 tredje ledd gjelder tilsvarende.
+3) Begjæringen skal inneholde opplysning om arten av og tiden og stedet for den straffbare handling samt opplysning om de straffebestemmelser som anses anvendelige på handlingen.
+4) Departementet kan på begjæring også gi slikt samtykke som nevnt i § 12 første ledd bokstav c, men bare når det anses ubetenkelig.

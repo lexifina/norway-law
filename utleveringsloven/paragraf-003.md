@@ -1,0 +1,4 @@
+# § 3
+1) Utlevering kan bare skje når handlingen, eller en tilsvarende handling, etter norsk lov kan medføre fengsel i mer enn 1 år. Når den som begjæres utlevert er straffedømt for handlingen, kan utlevering bare skje når dommen går ut på frihetsstraff eller anbringelse i anstalt i et tidsrom av minst 4 måneder, eller når det med heimel i dommen er truffet eller kan treffes bestemmelse om slik anbringelse.
+2) Kongen kan inngå overenskomst med fremmed stat om utlevering for handlinger selv om den frihetsberøvelse som er ilagt eller som kan ilegges, er av kortere varighet enn fastsatt i første ledd.
+3) Utlevering til rettsforfølgning eller fullbyrding av dom for flere handlinger kan finne sted selv om vilkårene i første ledd bare er oppfylt for en av handlingene, forutsatt at de øvrige handlingene er straffbare etter norsk og vedkommende fremmede stats lov.

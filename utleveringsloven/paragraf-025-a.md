@@ -1,0 +1,5 @@
+# § 25 a
+1) En person som i utlandet er berøvet friheten på grunn av straffbar handling, kan overføres midlertidig til Norge for å avhøres som vitne eller bistå ved andre etterforskningsskritt. Det samme gjelder ved fornyet prøving av dom.
+2) Begjæring om overføring etter nr. 1 fremsettes av påtalemyndigheten og sendes via departementet med mindre annet er fastsatt ved overenskomst med fremmed stat.
+3) Personen som overføres skal holdes i fengslig forvaring, med mindre vedkommende utenlandske myndighet anmoder om at fengslingen skal opphøre. Det er et vilkår for fengsling at det godtgjøres å foreligge beslutning om bruk av fengslig forvaring i samsvar med vedkommende stats lovgivning. Lov 20. januar 2012 nr. 4 om pågriping og overlevering til og frå Noreg for straffbare forhold på grunnlag av ein arrestordre § 13 tredje ledd første og annet punktum gjelder tilsvarende.
+4) Personen som er overført skal under oppholdet her i riket ikke bli satt under rettsforfølgning, straffet eller utlevert for handling han har begått før overføringen. Vedkommende skal tilbakeføres til den fremmede stat så snart som mulig eller innen en nærmere fastsatt frist.

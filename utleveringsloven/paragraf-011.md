@@ -1,0 +1,3 @@
+# § 11
+1) Er den som begjæres utlevert, her i riket dømt til frihetsstraff eller ved dom eller med heimel i dom besluttet anbrakt i anstalt for en annen handling enn den begjæringen om utlevering gjelder, kan han ikke utleveres før han løslates eller utskrives fra fengslet eller anstalten. Utlevering kan heller ikke skje dersom han her i riket er under forfølgning for en annen handling som kan medføre frihetsstraff i minst 2 år, eller holdes fengslet eller er underkastet tiltak som nevnt i straffeprosessloven § 188 i anledning av annen straffbar handling.
+2) Utlevering til rettsforfølgning kan dog skje på det vilkår at den utleverte etter rettsforfølgningen sendes tilbake så snart som mulig.
