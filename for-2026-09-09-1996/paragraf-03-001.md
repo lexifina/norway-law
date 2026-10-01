@@ -1,0 +1,4 @@
+# § 3-1. Avtalens parter
+Opptak til Høyskolen Kristianias ph.d.-utdanning formaliseres ved at skriftlig avtale underskrives av ph.d.-kandidat, veiledere og høyskolen. Avtalen regulerer partenes rettigheter og plikter i opptaksperioden. Den skal sikre at kandidaten deltar regelmessig og bidrar aktivt i fagmiljøet, og legge til rette for at ph.d.- utdanningen skal kunne gjennomføres til avtalt tid. Høyskolen Kristiania fastsetter avtaleskjema.
+For ph.d.-kandidater med finansiering fra, tilsetting hos eller andre bidrag fra en ekstern part skal det, i tråd med fastsatte retningslinjer, inngås en egen avtale mellom kandidaten, institusjonen og den eksterne parten.
+I tilfeller der ph.d.-kandidaten skal ha tilknytning til utenlandske institusjoner, må Høyskolen Kristianias retningslinjer for slikt samarbeid følges, og egne avtaler inngås. Slike avtaler skal normalt foreligge sammen med ph.d.-avtalen.

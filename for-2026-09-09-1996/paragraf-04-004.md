@@ -1,0 +1,9 @@
+# § 4-4. Opplæringsdel
+Ph.d.-utdanningen skal være lagt opp slik at den skal kunne fullføres innenfor den normerte tidsrammen.
+Programkomiteen har ansvar for at opplæringsdelen, sammen med prosjektet, gir utdanning på høyt faglig nivå i henhold til internasjonal standard. Opplæringen skal blant annet gi trening i faglig formidling og innføring i fag- og forskningsetikk, vitenskapsteori og metode. Opplæringen skal sammen med doktorgradsarbeidet bidra til oppnåelse av forventet læringsutbytte i henhold til det nasjonale kvalifikasjonsrammeverket.
+Opplæringsdelen skal tilsvare minst 30 studiepoeng, hvorav minst 20 studiepoeng som hovedregel skal avlegges etter opptak. Minst 20 studiepoeng skal bestå av studieplanfestede emner på ph.d.-nivå. For at et masteremne skal kunne inngå i opplæringsdelen, kreves et nivå som tilsvarer karakteren B eller bedre på Høyskolen Kristianias karakterskala. I tillegg kreves det en vurdering fra veilederen av det faglige nivået i emnet, samt en beskrivelse av behovet for å bruke masteremnet.
+Elementer som skal inngå i opplæringsdelen, kan ikke være eldre enn to (2) år ved opptaksdato. Unntak kan innvilges dersom særlige faglige grunner taler for det. For ph.d.-kandidater med bakgrunn fra forskerlinjer gjelder egne regler.
+Høyskolen fastsetter hvilke elementer som kan og skal inngå i opplæringsdelen, krav til dokumentasjon og kriterier for bestått prøve ved eksamener.
+Kurs på doktorgradsnivå ved annen institusjon skal godkjennes når de fyller de faglige kravene i opplæringsdelen, i samsvar med reglene i universitets- og høyskoleloven § 9-1.
+Utarbeidelse av karriereplan og oppfølging av denne utføres i tråd med universitets- og høyskoleforskriften § 3-19 fjerde ledd.
+Språkopplæring utføres i tråd med universitets- og høyskoleforskriften § 3-19 femte ledd.

@@ -1,0 +1,5 @@
+# § 7-2. Krav ved fellesgrader og cotutelle
+Ved avtaler om fellesgradssamarbeid og cotutelle kan rektor eller den rektor bemyndiger, dispensere fra forskriften dersom det er nødvendig av hensyn til regelverket ved de samarbeidende institusjonene. Slike unntak skal, både enkeltvis og samlet, fremstå som fullt ut forsvarlige ut fra de faglige kvalitetskravene som stilles til en tilsvarende ph.d.-grad ved Høyskolen Kristiania. Kvalifikasjonskrav for opptak, krav om at avhandlingen skal være offentlig tilgjengelig, og krav om offentlig disputas med en habil bedømmelseskomité kan ikke fravikes.
+Avtaler om fellesgrad og cotutelle må som et minimum regulere opptak, finansiering, opplæringsdel, veiledning, opphold ved institusjonene, rapporteringsplikt, avhandlingens språk, avhandlingens form, bedømmelse, gradstildeling, vitnemål og rettigheter til resultater. Avtalen undertegnes av rektor eller av den rektor bemyndiger.
+Ph.d.-utdanningen ved samarbeidsinstitusjonen må også ha et omfang av tre års normert studietid.
+Kandidaten må tas opp ved begge institusjonene.

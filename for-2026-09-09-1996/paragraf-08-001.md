@@ -1,0 +1,2 @@
+# § 8-1. Klage over avslag på søknad om opptak, vedtak om opphør av studierett og avslag på søknad om godkjenning av elementer i opplæringsdelen
+Avslag på søknad om opptak, vedtak om opphør av studierett og søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i forvaltningsloven § 28 flg. Grunngitt klage sendes høyskolen. Blir vedtaket opprettholdt, sender høyskolen klagen til Den sentrale klagenemnd ved Høyskolen Kristiania til endelig avgjørelse.

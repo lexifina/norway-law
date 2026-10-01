@@ -1,0 +1,4 @@
+# § 8-3. Klage over avslag på søknad om bedømmelse, ikke godkjent avhandling, prøveforelesning eller annen prøve over oppgitt emne, eller forsvar
+Avslag på søknad om å få doktorgradsarbeidet bedømt og vedtak om ikke godkjent doktorgradsarbeid, obligatorisk prøve eller forsvar kan påklages etter reglene i forvaltningsloven § 28 flg.
+Grunngitt klage sendes til doktorgradsutvalget. Doktorgradsutvalget kan oppheve eller endre vedtaket hvis det finner klagen begrunnet. Hvis doktorgradsutvalget ikke tar klagen til følge, sender utvalget klagen til Høyskolen Kristianias sentrale klagenemnd til avgjørelse. Klageinstansen kan prøve alle sider ved det påklagede vedtak.
+Dersom høyskolen eller klageinstansen finner grunn til det, kan det oppnevnes enkeltpersoner eller et utvalg til å foreta en vurdering av bedømmelsen og de kriterier denne bygger på, eller til å foreta en ny eller supplerende sakkyndig vurdering.
