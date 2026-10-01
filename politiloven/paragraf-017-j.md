@@ -1,0 +1,3 @@
+# § 17 j. Pålegg om bistand og taushetsplikt
+Politiets sikkerhetstjeneste kan pålegge andre enn dem som er nevnt i straffeprosessloven § 122 første og annet ledd å yte nødvendig bistand for å båndlegge et formuesgode.
+Er det aktuelt å begjære utsatt underretning etter § 17 h tredje ledd, kan Politiets sikkerhetstjeneste pålegge andre enn dem som er nevnt i straffeprosessloven § 122 første og annet ledd å bevare taushet om beslutningen om å båndlegge formuesgodet inntil utsatt underretning blir gitt. Når taushetsplikten har opphørt, skal Politiets sikkerhetstjeneste snarest mulig varsle den som har fått slikt pålegg.

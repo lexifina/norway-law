@@ -1,0 +1,5 @@
+# § 6 b. Vilkår for bruk av skytevåpen
+Skytevåpen kan bare brukes når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvor
+a) tjenestepersonen selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade, eller
+b) det anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner anses som særlig farlige for menneskers liv eller helse, Norges selvstendighet, eller som alvorlig truer grunnleggende nasjonale interesser.
+I situasjoner som nevnt i første ledd kan skytevåpen etter beslutning fra innsatsleder også brukes til å beskadige eller gjøre en gjenstand ubrukelig eller forstyrre eller avlede gjerningspersonen.

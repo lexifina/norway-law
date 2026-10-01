@@ -1,0 +1,2 @@
+# § 25. Særlig politioppsyn ved allment tilgjengelige arrangementer
+Når det av ordensmessige grunner er påkrevd med særlig polititilsyn ved allment tilgjengelige sammenkomster eller tilstelninger, for eksempel offentlig dans, fester, konserter, festivaler, forestillinger, idrettsstevner og lignende, kan arrangøren pålegges helt eller delvis å dekke utgiftene til dette oppsynet. Det kan kun kreves dekning for utgifter til særskilt politioppsyn som utføres i umiddelbar tilknytning til arrangementet og som tidsmessig står i direkte forbindelse med avviklingen av arrangementet.
