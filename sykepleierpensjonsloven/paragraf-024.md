@@ -1,0 +1,5 @@
+# § 24
+Full årlig barnepensjon skal utgjøre 15 prosent av det pensjonsgrunnlaget som det avdøde medlemmet hadde (nettopensjon). Med pensjonsgrunnlag menes pensjonsgrunnlag fastsatt etter reglene i § 8.
+Er den avdødes tjenestetid 30 år eller mer, ytes det full barnepensjon. Dersom den avdødes tjenestetid er mindre enn 30 år, ytes det redusert barnepensjon. Pensjonen skal da utgjøre så mange trettideler av full pensjon som den avdøde hadde tjenesteår. For beregning av oppsatt barnepensjon gjelder § 10 andre ledd tilsvarende.
+Dersom den avdøde mottok avtalefestet pensjon, alderspensjon eller en tidligere oppsatt alders- eller uførepensjon, legges den faktiske tjenestetiden den avdøde hadde til grunn ved beregning av pensjonen. Det samme gjelder dersom den avdøde hadde rett til en oppsatt pensjon. Ellers skal den tjenestetiden den avdøde ville ha fått ved å fortsette i stillingen fram til aldersgrensen legges til grunn, men ikke ut over 67 år.
+Barnepensjon etter medlem som er død før 1. juli 2000, beregnes likevel etter de regler som gjaldt ved dødsfallet.

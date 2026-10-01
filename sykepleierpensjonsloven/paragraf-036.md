@@ -1,0 +1,7 @@
+# § 36
+Enhver arbeidsgiver plikter å sende pensjonsordningen meldinger og innberetninger om de arbeidstakere arbeidsgiveren har i sin tjeneste, og som omfattes av denne lov. Departementet kan gi nærmere bestemmelser om dette.
+Den som krever pensjon etter denne loven, plikter å gi de opplysninger som er nødvendige for at pensjonsordningen skal kunne ta stilling til pensjonskravet og til enhver tid utbetale riktig pensjon.
+Pensjonsordningen kan sette som vilkår for tilståelse av ytelser at vedkommende samtidig setter fram krav om ytelser etter folketrygdloven. Departementet kan gi forskrift om dette.
+Bestemmelsene i lov om Statens pensjonskasse § 45 b om behandling av personopplysninger gjelder tilsvarende.
+Dersom en pensjonist har mottatt pensjon i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt. Feil utbetalt pensjon kan også kreves tilbakebetalt dersom pensjonisten, eller noen som har handlet på pensjonistens vegne, uaktsomt har gitt feilaktige, mangelfulle eller misvisende opplysninger. Det samme gjelder dersom utbetalingen skyldes en feil fra pensjonsordningens side, og mottakeren burde ha forstått dette. Beløpet kan trekkes i framtidige ytelser.
+Også i andre tilfelle enn nevnt i fjerde ledd kan feil utbetalt pensjon kreves tilbakebetalt når dette ikke ville virke urimelig. Tilbakebetalingskrav i medhold av dette ledd er begrenset til en eventuell berikelse.
