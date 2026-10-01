@@ -1,0 +1,2 @@
+# § 3-17. Tilbakebetaling av for mye utbetalt tilskudd
+Tilskudd etter dette kapittelet er tilskudd mot avregning. Tilskuddets størrelse fastsettes som del av et budsjett eller faktisk godkjent regnskap. Dersom de faktiske godkjente utgiftene er lavere enn budsjettert, vil det kreves tilbakebetaling slik at tilskuddsprosenten opprettholdes. Dersom samlet offentlig tilskudd er høyere enn det som følger av § 3-13 eller § 3-14, skal tilskuddsforvalter kreve tilskudd tilbakebetalt slik at maksimalt tilskuddstak ikke overskrides.

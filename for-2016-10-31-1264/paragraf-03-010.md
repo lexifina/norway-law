@@ -1,0 +1,14 @@
+# § 3-10. Utmåling av etterhåndstilskudd
+Etterhåndstilskudd utgjør 75 prosent av filmens dokumenterte inntekter eks. mva., fra distribusjon og salg av visningsrett de tre første årene etter filmens første offentlige primærvisning på kino i Norge, innenfor de begrensningene som følger av denne bestemmelsen.
+For barne- og ungdomsfilmer utgjør etterhåndstilskuddet 150 prosent av dokumenterte inntekter. Med barne- og ungdomsfilm menes filmer med uttrykt målgruppe under 18 år, der markedsplan, distribusjonsplan og prosjektets ambisjoner retter seg mot barn og/eller ungdom.
+For filmer med produksjonstilskudd etter § 3-7 som oppfyller krav til mangfold, utgjør etterhåndstilskuddet 150 prosent av dokumenterte inntekter. For barne- og ungdomsfilmer med produksjonstilskudd etter § 3-7 som oppfyller krav til mangfold, utgjør etterhåndstilskuddet 200 prosent av dokumenterte inntekter.
+Tilskuddsforvalter skal fastsette krav til mangfold i retningslinjene for tilskuddsordningen.
+Det kan settes krav til at filmens inntekter kontrolleres og fordeles av en uavhengig part (collecting agency).
+Som grunnlag for utbetaling av etterhåndstilskudd godkjennes prosjektets dokumenterte inntekter før fordeling til investorer, kredittgivere, samprodusenter og royaltyinnehavere. Inntektene skal være knyttet til kommersiell visning av filmen.
+Bytteavtaler, inntekter fra salg av filmrelaterte produkter, sponsorinntekter, remakeinntekter, inntekter på salg av omtale, reklame, produktplassering og lignende, samt lønnskreditter godkjennes ikke som grunnlag for etterhåndstilskudd.
+Inntekter fra salg godkjennes kun dersom Norsk filminstitutt mener at avtalene gjenspeiler filmens kommersielle verdi i markedet på avtaletidspunktet og at avtalene er inngått på normale forretningsmessige vilkår. Inntekter fra forhåndssalg og forhåndsolgte minimumsgarantier, vil kun utløse etterhåndstilskudd dersom de er forelagt og godkjent av Norsk filminstitutt før filmens premiere.
+Hvis Norsk filminstitutt vurderer det slik at filmen ikke har Norge som sitt primærmarked, skjer beregning av etterhåndstilskudd på grunnlag av filmens dokumenterte inntekter fra visning i Norge.
+Maksimalt etterhåndstilskudd for filmer med produksjonstilskudd etter § 3-7 kan ikke overskride 50 % av godkjent sluttregnskap for utviklings- og produksjonskostnader eller følgende beløpstak:
+a) etterhåndstilskudd til filmer som er tildelt produksjonstilskudd på under 12 millioner kroner, kan ikke overskride 12 millioner kroner,
+b) etterhåndstilskudd til filmer som er tildelt produksjonstilskudd på 12 millioner kroner eller høyere, kan ikke overskride 18 millioner kroner.
+For filmer som gis tilskudd til produksjon etter § 3-6, skal maksimalt etterhåndstilskudd ikke overskride 20 % av godkjent sluttregnskap for utviklings- og produksjonskostnader eller 8 millioner krone.

@@ -1,0 +1,4 @@
+# § 3-7. Tilskudd etter markedsvurdering
+Tilskudd etter denne bestemmelsen gis til utvikling av dramaserier og produksjon av spillefilmer. Tilskuddet skal stimulere til dramaserier og spillefilmer av høy kvalitet og høyt publikumspotensial.
+For tilskudd til utvikling av dramaserier skal bidrag fra primær distribusjonsplattform særlig vektlegges. Tilskuddet skal ikke overstige 50 prosent av utviklingsbudsjettet.
+I vurderingen av og prioriteringen mellom søknader om produksjonstilskudd til spillefilmer skal det særlig legges vekt på verkets forventede publikums- og inntektspotensial på dokumenterbare plattformer i Norge, søkers markeds- og distribusjonsstrategi og tidligere kommersielle resultater hos søker og nøkkelpersoner i prosjektet. Forhåndstilskudd etter denne bestemmelsen skal ikke overstige 50 prosent av filmens godkjente budsjett.
