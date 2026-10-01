@@ -1,0 +1,14 @@
+# § 14
+For begjæring om utlegg betales 0,69 ganger rettsgebyret. Det betales ikke gebyr for begjæring om utlegg for underholdsbidrag mv. og for tvangsbot etter barnelova § 65 eller når en kommune fremsetter en beslutning om utleggstrekk for namsmannen etter tvangsfullbyrdelsesloven § 2-17. Det betales ikke gebyr etter første punktum når det første gang fremmes ny begjæring om utlegg for krav som er fastslått i dom, kjennelse eller rettsforlik etter behandling i forliksrådet etter tvangsfullbyrdelsesloven § 7-7 med mindre den opprinnelige utleggssaken ble fortsatt etter tvangsfullbyrdelsesloven § 7-7 tredje ledd.
+Ved begjæring om tvangssalg etter tvangsfullbyrdelsesloven kapittel 8 betales 1,25 ganger rettsgebyret og i tillegg 2,2 ganger rettsgebyret når beslutning om å gjennomføre tvangssalget blir truffet.
+Ved begjæring om tilbakelevering etter tvangsfullbyrdelsesloven kapittel 9 betales 1,25 ganger rettsgebyret og i tillegg 2,2 ganger rettsgebyret når tilbakeleveringen blir gjennomført.
+Ved begjæring om tvangsdekning etter tvangsfullbyrdelsesloven kapittel 10 betales 2,1 ganger rettsgebyret og i tillegg rettsgebyret når tvangsdekning blir gjennomført. Ved begjæring om tvangsdekning etter tvangsfullbyrdelsesloven kapittel 10 avsnitt III Tvangsdekning i pengekrav betales likevel 0,4 ganger rettsgebyret.
+Ved begjæring om tvangsdekning etter tvangsfullbyrdelsesloven kapitlene 11 og 12 betales 1,1 ganger rettsgebyret og i tillegg 6,3 ganger rettsgebyret når beslutning om å gjennomføre tvangsdekningen blir truffet.
+Ved begjæring til tingretten om tvangsfullbyrdelse etter tvangsfullbyrdelsesloven kapittel 13 betales 2,1 ganger rettsgebyret og 2 ganger rettsgebyret når tvangsfullbyrdelse blir gjennomført.
+Ved begjæring til namsfogden om utlevering etter tvangsfullbyrdelsesloven kapittel 13 betales 1,2 ganger rettsgebyret. Ved begjæring til namsfogden om fravikelse etter tvangsfullbyrdelsesloven kapittel 13 betales 1,25 ganger rettsgebyret og i tillegg 1,35 ganger rettsgebyret når tvangsfullbyrdelse blir gjennomført.
+For begjæring om annen tvangsfullbyrdelse enn nevnt i første til syvende ledd betales 2,1 ganger rettsgebyret.
+Gebyret etter første til åttende ledd skal betales selv om begjæringen senere blir trukket tilbake eller avvist.
+Gebyret omfatter også sideutgifter. Dette gjelder likevel ikke:
+1) utgifter til flytting og oppbevaring av løsøre ved fravikelse av fast eiendom.
+2) sideutgifter ved tvangsdekning etter tvangsfullbyrdelsesloven §§ 10-13 og 10-14.
+Gebyr etter denne paragraf innkreves etterskuddsvis. Der tvangssalg gjennomføres, sørger namsmyndigheten eller medhjelperen for betaling av gebyret. Ved begjæring om utlegg etter tvangsfullbyrdelsesloven § 7-2 bokstav f kan namsfogden i særlige tilfeller kreve at gebyret etter første ledd første punktum betales forskuddsvis.
