@@ -1,0 +1,10 @@
+# § 9-6. Antall dager med omsorgspenger
+Omsorgspenger etter § 9-5 første ledd ytes til den enkelte arbeidstaker i opptil 10 stønadsdager for hvert kalenderår. Har vedkommende omsorgen for mer enn to barn, ytes det omsorgspenger i opptil 15 stønadsdager. Når arbeidstakeren er alene om omsorgen, økes antallet stønadsdager til henholdsvis 20 og 30.
+Dersom en arbeidstaker har kronisk eller langvarig syke eller funksjonshemmede barn og dette fører til en markert høyere risiko for fravær fra arbeidet for å ta seg av barnet, ytes det omsorgspenger etter reglene i første ledd med tillegg av 10 stønadsdager for hvert kronisk eller langvarig sykt eller funksjonshemmet barn. Når arbeidstakeren er alene om omsorgen, dobles antall stønadsdager.
+Arbeidstakeren regnes for å være alene om omsorgen for et barn også hvis den andre av barnets foreldre i lang tid ikke kan ha tilsyn med barnet fordi han eller hun er funksjonshemmet, er innlagt i helseinstitusjon, er i fengsel, avtjener verneplikt e.l.
+For at arbeidstakeren skal få utvidet rett til omsorgspenger etter andre ledd, må Arbeids- og velferdsetaten ha godtatt at barnet er kronisk eller langvarig sykt eller funksjonshemmet, og at dette fører til markert høyere risiko for fravær fra arbeidet for å ta seg av barnet.
+Når den ene av foreldrene er alene om omsorgen, kan stønadsdagene etter første og andre ledd fordeles mellom foreldrene etter avtale.
+Når en av foreldrene er alene om omsorgen, kan opptil 10 av stønadsdagene overføres til ektefelle, eller til samboer når samboerforholdet har vart i minst 12 måneder.
+Reglene i denne paragrafen gjelder tilsvarende for frilansere og selvstendig næringsdrivende, men slik at det ytes omsorgspenger etter utløpet av ventetiden, se § 9-9 første ledd.
+Arbeidsgiver kan gi rett til omsorgspenger for kortere perioder enn hele dager. Arbeidsgiver har plikt til å drøfte med de tillitsvalgte om det skal gis slik rett til å ta ut omsorgspenger for del av dag.
+Departementet kan gi forskrifter om gjennomføringen av bestemmelsene i denne paragrafen.

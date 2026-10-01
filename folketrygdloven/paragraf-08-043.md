@@ -1,0 +1,3 @@
+# § 8-43. Arbeidstaker, selvstendig næringsdrivende og frilanser
+Til et medlem som på sykmeldingstidspunktet har inntekt både som arbeidstaker, som selvstendig næringsdrivende og som frilanser, ytes det sykepenger etter bestemmelsene for arbeidstakere. Se §§ 8-15 til 8-33.
+Sykepengegrunnlaget fastsettes etter de bestemmelsene som gjelder for et medlem som har inntekt både som arbeidstaker og som selvstendig næringsdrivende, se § 8-41. Inntekt som arbeidstaker og frilanser fastsettes ut fra den aktuelle månedsinntekten etter § 8-41 andre ledd bokstav a. Inntekt som selvstendig næringsdrivende fastsettes ut fra den pensjonsgivende årsinntekten etter § 8-41 andre ledd bokstav b.

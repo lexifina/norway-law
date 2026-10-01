@@ -1,0 +1,6 @@
+# § 22-17. Renter ved etterbetaling av ytelser
+Det ytes renter ved etterbetaling i medhold av § 22-13 syvende eller § 22-14 fjerde ledd og ved etterbetaling når Arbeids- og velferdsetaten av eget tiltak retter ytelser som er gitt med for lavt beløp. Rentesatsen fastsettes av departementet og skal utgjøre om lag halvparten av rentesatsen etter § 3 i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling.
+Renter regnes fra utbetalingsdato for den enkelte termin som etterbetalingen omfatter fram til den dato da utbetalingen skjer. Ytelsene for den enkelte termin i etterbetalingen renteberegnes for seg. Rentesrente beregnes ikke.
+Dersom det gjøres fradrag i en eller flere av de ytelsesterminer som etterbetalingen omfatter, fordi vedkommende har mottatt andre ytelser etter folketrygdloven eller arbeidsmarkedsloven eller har fått økonomisk sosialhjelp etter sosialtjenesteloven, skal renter beregnes på grunnlag av de deler av etterbetalingen som gjenstår etter at slike fradrag er gjort.
+Det ytes ikke renter for tidsrom da stønadsmottakeren eller andre som har opptrådt på vegne av ham eller henne er skyld i at ytelsen ikke er kommet til utbetaling.
+Departementet kan gi forskrift om gjennomføringen av paragrafen her.

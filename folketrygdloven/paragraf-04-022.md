@@ -1,0 +1,2 @@
+# § 4-22. Bortfall ved streik og lock-out
+Det ytes ikke dagpenger til medlem som deltar i streik, eller som er omfattet av lock-out eller annen arbeidstvist. Det samme gjelder medlem som ikke deltar i arbeidstvisten, men som på grunn av arbeidstvisten blir ledig ved bedrift eller arbeidsplass som tvisten gjelder, dersom det må antas at vedkommendes lønns- eller arbeidsvilkår vil bli påvirket ved utfallet av tvisten.

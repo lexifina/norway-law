@@ -1,0 +1,4 @@
+# § 17-5. Omstillingsstønad
+Til en gjenlevende som fyller vilkårene for rett til ytelser etter §§ 17-2 til 17-4, kan det ytes omstillingsstønad i inntil tre år etter dødsfallet.
+Stønadsperioden kan utvides med inntil to år hvis den gjenlevende er under nødvendig og hensiktsmessig utdanning, eller har behov for tiltak for å komme i arbeid.
+Dersom den gjenlevende er født i 1963 eller tidligere, kan stønaden likevel utbetales til den gjenlevende fyller 67 år, selv om det utvider stønadsperioden etter første ledd. Det er et vilkår for rett til utvidet stønadsperiode at den gjenlevende de siste fem årene før dødsfallet ikke har hatt en gjennomsnittlig årlig pensjonsgivende inntekt som overstiger to ganger grunnbeløpet det enkelte år. Den årlige pensjonsgivende inntekten må i tillegg ikke ha oversteget tre ganger grunnbeløpet hvert av de siste to årene før dødsfallet.

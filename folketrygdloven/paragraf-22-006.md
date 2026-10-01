@@ -1,0 +1,5 @@
+# § 22-6. Utbetaling til Nav-kontor o.a.
+Dersom en person ikke er i stand til å disponere ytelsen selv på grunn av sinnslidelse, psykisk utviklingshemning, alvorlig mental svekkelse, hjerneskade, eller misbruk av berusende eller bedøvende midler, kan ytelsen utbetales til en annen person eller til et Nav-kontor. Det samme gjelder når en person åpenbart bruker sine trygdeytelser til skade for seg selv eller en person som han eller hun forsørger eller plikter å forsørge.
+Ytelsen skal disponeres til beste for den som har rett til den.
+Reglene i vergemålsloven får ikke anvendelse på ytelser det er truffet vedtak om etter første ledd. Statsforvalteren skal ha kopi av vedtaket. Hvis statsforvalteren treffer vedtak om vergemål for personen etter reglene i vergemålsloven, kan statsforvalteren beslutte at ytelsen i stedet skal forvaltes av vergen. Er personen allerede under vergemål, må vergen samtykke til vedtak som nevnt i første ledd hvis forvaltning av ytelsen hører under vergens mandat.
+Departementet gir forskrifter om utbetaling og forvaltning av ytelser etter denne paragrafen.

@@ -1,0 +1,4 @@
+# § 19-11. Vilkår for uttak av alderspensjon før 67 år
+For å ta ut alderspensjon før fylte 67 år må summen av grunnpensjon, tilleggspensjon og pensjonstillegg etter §§ 19-5 og 19-9 minst tilsvare minste pensjonsnivå med full trygdetid. I vurderingen skal minste pensjonsnivå med særskilt sats etter § 19-8 sjette ledd bokstav a benyttes. Grunnpensjonen i basispensjonen, se § 19-5, skal beregnes med satsen etter § 3-2 tredje ledd. Se også § 19-15 tredje ledd. Ved vurdering av om vilkåret er oppfylt, medregnes kun alderspensjon på grunnlag av vedkommendes egen opptjening.
+Ved gradert pensjon skal restpensjonen, se § 19-10 femte ledd, forutsettes tatt ut ved 67 år og medregnes i beregningene etter første ledd.
+Dersom vedkommende mottar avtalefestet pensjon med statstilskott, skal den delen som er livsvarig og gjenstand for regulering medregnes i beregningene etter første ledd.

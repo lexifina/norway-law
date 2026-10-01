@@ -1,0 +1,4 @@
+# § 8-20. Risiko for særlig stort sykefravær eller svangerskapsrelatert sykefravær
+Dersom en arbeidstaker har langvarig eller kronisk sykdom som medfører risiko for særlig stort sykefravær, kan arbeidstakeren selv eller arbeidsgiveren søke om at trygden dekker utgiftene til sykepenger i arbeidsgiverperioden. Det samme gjelder for en arbeidstaker som har en sykdom som medfører risiko for gjentatte sykefravær i en begrenset periode. Blir søknaden innvilget, får avgjørelsen virkning fra den dag Arbeids- og velferdsetaten mottok søknaden.
+Dersom en arbeidstaker er sykmeldt på grunn av svangerskapsrelatert sykdom, og tilrettelegging eller omplassering til annet arbeid i virksomheten ikke er mulig, kan arbeidstakeren selv eller arbeidsgiveren søke om at trygden dekker utgiftene til sykepenger i arbeidsgiverperioden.
+Arbeidsgiveren utbetaler sykepengene i arbeidsgiverperioden og får refusjon fra trygden.

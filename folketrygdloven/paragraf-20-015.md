@@ -1,0 +1,4 @@
+# § 20-15. Vilkår for uttak av alderspensjon før 67 år
+For å ta ut alderspensjon før fylte 67 år må summen av inntektspensjon og garantipensjon minst tilsvare garantipensjonsnivået med full trygdetid. I vurderingen skal garantipensjonsnivå med høy sats benyttes, se § 20-9. Se også § 20-19 tredje ledd.
+Ved gradert pensjon, skal den delen av pensjonsbeholdningene som ikke er tatt ut, se § 20-14, forutsettes tatt ut ved 67 år og medregnes i beregningene etter første ledd.
+Dersom vedkommende mottar pensjonsytelser som det gis statstilskott til etter AFP-tilskottsloven eller avtalefestet pensjon etter lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 2 eller tilsvarende ordning, skal den delen som er gjenstand for regulering, medregnes i beregningene etter første ledd.

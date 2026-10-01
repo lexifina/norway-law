@@ -1,0 +1,4 @@
+# § 11-25. Arbeidsavklaringspenger under opphold i institusjon
+Dersom et medlem som mottar arbeidsavklaringspenger, oppholder seg i en institusjon med fri kost og losji, blir arbeidsavklaringspengene redusert. Dette gjelder likevel ikke for et medlem som forsørger ektefelle eller har krav på barnetillegg.
+Arbeidsavklaringspengene gis uten reduksjon for innleggelsesmåneden og de tre påfølgende månedene. Deretter blir arbeidsavklaringspengene redusert med 50 prosent inntil institusjonsoppholdet avsluttes. Dersom medlemmet innen tre måneder etter utskrivelsen på nytt kommer i institusjon, gis det reduserte arbeidsavklaringspenger fra og med måneden etter at det nye oppholdet tar til.
+Dersom medlemmet har faste utgifter som er nødvendige for at han eller hun skal kunne beholde bolig og annet, kan Arbeids- og velferdsetaten bestemme at arbeidsavklaringspengene ikke skal reduseres.

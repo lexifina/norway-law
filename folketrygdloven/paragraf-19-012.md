@@ -1,0 +1,3 @@
+# § 19-12. Omregning av pensjon ved endring i pensjonsgrad
+Dersom pensjonsgraden endres eller oppdateres, skal pensjon under utbetaling multipliseres med forholdstallet på endringstidspunktet. Dette beløpet legges sammen med eventuell restpensjon, se § 19-10. Summen multipliseres med aktuell uttaksgrad og divideres med forholdstallet på endringstidspunktet. Pensjon som ikke tas ut, utgjør ny restpensjon.
+Ved stans i pensjonen skal pensjon under utbetaling multipliseres med forholdstallet på endringstidspunktet. Dette beløpet legges sammen med eventuell restpensjon, se § 19-10, og utgjør vedkommendes nye restpensjon. Ved senere uttak multipliseres restpensjonen med aktuell uttaksgrad og divideres med forholdstallet på uttakstidspunktet.

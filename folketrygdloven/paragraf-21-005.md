@@ -1,0 +1,3 @@
+# § 21-5. Bistand fra barnevernstjenesten, den kommunale helse- og omsorgstjenesten, sosialtjenesten og kommunale organer etter introduksjonsloven
+Barnevernstjenesten, den kommunale helse- og omsorgstjenesten, sosialtjenesten og kommunale organer etter introduksjonsloven plikter å innhente opplysninger og gi uttalelser til Arbeids- og velferdsetaten og Helsedirektoratet eller det organ Helsedirektoratet bestemmer om forhold som har betydning for behandlingen av saker etter denne loven.
+Departementet gir forskrifter om samarbeid mellom Arbeids- og velferdsetaten og Helsedirektoratet, barnevernstjenesten, den kommunale helse- og omsorgstjenesten, sosialtjenesten og kommunale organer etter introduksjonsloven.

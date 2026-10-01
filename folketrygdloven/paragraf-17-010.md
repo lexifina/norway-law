@@ -1,0 +1,7 @@
+# § 17-10. Stønad til barnetilsyn til gjenlevende i arbeid
+Til en gjenlevende som er i arbeid, og som fyller vilkårene i § 17-2 til § 17-4, kan det gis stønad til barnetilsyn. Stønaden er uavhengig av retten til og perioden for omstillingsstønad.
+Stønad til barnetilsyn gis til en gjenlevende som må overlate nødvendig tilsyn med barn til andre på grunn av arbeid eller at de etablerer egen virksomhet, jf. § 4-6 tredje ledd.
+Stønad til barnetilsyn kan gis til barnet har fullført fjerde skoleår. For barn som har fullført fjerde skoleår, kan det gis stønad når barnet må ha vesentlig mer tilsyn enn det som er vanlig for jevnaldrende, eller når den gjenlevende på grunn av sitt arbeid må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn det en vanlig arbeidsdag medfører. Stønad til barnetilsyn kan også gis i inntil ett år når den gjenlevende har en forbigående sykdom som hindrer vedkommende i å være i arbeid.
+Stønaden er 64 prosent av dokumenterte utgifter til barnetilsyn opptil de beløpene som Stortinget fastsetter. Det gis ikke stønad når den pensjonsgivende inntekten er større enn seks ganger grunnbeløpet.
+Stønad gis for barn som blir forsørget av den gjenlevende. For barn som bor i fosterhjem, jf. barnevernsloven § 9-1, kan det gis stønad når den gjenlevende har forsørget barnet de siste to årene eller oppfostringen tok til før dødsfallet.
+Departementet kan i forskrift fastsette nærmere regler om vilkårene for og beregning av stønad til barnetilsyn etter denne bestemmelsen.

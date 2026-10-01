@@ -1,0 +1,3 @@
+# § 11-26. Arbeidsavklaringspenger under straffegjennomføring
+Et medlem som sitter i varetekt, soner straff eller er underlagt særreaksjoner i en anstalt under kriminalomsorgen eller tilsvarende anstalt i utlandet, har ikke rett til arbeidsavklaringspenger. Det samme gjelder dersom medlemmets formue er satt under forvaltning etter straffeprosessloven § 220. Det gis likevel arbeidsavklaringspenger hvis medlemmet arbeider for en arbeidsgiver utenfor anstalten i medhold av straffegjennomføringsloven § 20.
+Ved straffegjennomføring i frihet beholdes arbeidsavklaringspengene dersom vilkårene for øvrig er oppfylt. Tilsvarende gjelder ved prøveløslatelse i medhold av straffegjennomføringsloven §§ 42 og følgende.

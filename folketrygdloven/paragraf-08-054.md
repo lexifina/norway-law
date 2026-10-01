@@ -1,0 +1,4 @@
+# § 8-54. Opphold i fengsel
+Et medlem som sitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalter eller tilsvarende anstalt i utlandet, har ikke rett til sykepenger. Det samme gjelder dersom medlemmets formue er satt under forvaltning etter straffeprosessloven § 220.
+Det ytes likevel sykepenger etter bestemmelsene i dette kapitlet hvis vedkommende arbeider for en arbeidsgiver utenfor anstalten i medhold av straffegjennomføringsloven § 20. Sykepengene reduseres etter bestemmelsene i § 8-53 i loven her. Bestemmelsene om arbeidsgiverperioden i §§ 8-18 og 8-19 gjelder ikke.
+Dersom medlemmet er arbeidsufør ved løslatelsen eller når forvaltningen heves, skal arbeids- og inntektsforholdene på innsettelsestidspunktet eller tidspunktet forvaltningen ble besluttet legges til grunn. Dette gjelder likevel ikke dersom vedkommende under fengselsoppholdet har hatt arbeids- og inntektsforhold som gir et bedre resultat.

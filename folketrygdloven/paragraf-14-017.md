@@ -1,0 +1,7 @@
+# § 14-17. Engangsstønad
+Til en kvinne som føder barn eller adopterer barn under 15 år, men ikke har rett til foreldrepenger, ytes det engangsstønad for hvert barn. Til mann som adopterer alene, ytes det engangsstønad for hvert barn dersom han ikke har rett til foreldrepenger. Personer som etter første eller andre punktum har rett til foreldrepenger, kan i stedet velge å motta engangsstønad. Stønadsmottakeren kan ikke senere gjøre om på valget som er tatt. Adopsjon av ektefellens barn gir ikke rett til engangsstønad.
+Engangsstønad kan ytes også til person som har foreldreansvar når den andre av foreldrene dør, eller får tildelt foreldreansvaret i medhold av barnelova § 38 og kapittel 7. IV, såfremt vedkommende har hatt mindre samvær enn tilsvarende barnelova § 43 andre ledd.
+Dersom moren dør i forbindelse med fødselen eller omsorgsovertakelsen, har faren rett til engangsstønad. Det er et vilkår at han har omsorgen for barnet og at stønaden ikke allerede er utbetalt til moren.
+Faren har rett til engangsstønad også dersom han i stønadsperioden har overtatt omsorgen for barnet med sikte på å overta foreldreansvaret alene etter barneloven kapittel 5. Retten gjelder selv om moren har fått utbetalt engangsstønad.
+Engangsstønad ytes kun til stønadsmottaker som har vært medlem i folketrygden i minst 12 måneder sammenhengende, direkte forut for tidspunktet for fødselsterminen eller omsorgsovertakelsen.
+Stortinget fastsetter engangsstønadens størrelse.

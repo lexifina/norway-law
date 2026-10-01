@@ -1,0 +1,5 @@
+# § 17-8. Sanksjoner
+Dersom den gjenlevende ikke følger opp aktivitetskravet i § 17-7, skal omstillingsstønaden stanses inntil vilkårene for å motta ytelsen igjen er oppfylt.
+Dersom den gjenlevende uten rimelig grunn sier opp sin stilling, nekter å ta imot tilbudt arbeid, unnlater å gjenoppta sitt arbeidsforhold etter endt foreldrepermisjon, nekter å delta i arbeidsmarkedstiltak eller unnlater å møte ved innkalling til arbeids- og velferdsetaten, faller omstillingsstønaden bort én måned.
+Dersom den gjenlevende har gitt uriktige opplysninger om forhold som har betydning for retten til ytelser etter dette kapitlet, og han eller hun var klar over eller burde vært klar over dette, kan vedkommende utestenges fra rett til stønad i inntil tre måneder første gang og inntil seks måneder ved gjentakelser. Det samme gjelder dersom den gjenlevende har unnlatt å gi opplysninger av betydning for retten til ytelser.
+Departementet kan gi forskrifter om gjennomføring av sanksjoner etter paragrafen her, utestengingsperiodens varighet og opphør av ytelse ved langvarig manglende aktivitet.

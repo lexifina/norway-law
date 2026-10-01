@@ -1,0 +1,3 @@
+# § 17 A-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering
+Ytelser til gjenlevende ektefelle og til tidligere familiepleier etter folketrygdloven kapitlene 16 og 17 slik de lød før 1. januar 2024, er ytelser til etterlatte etter trygdeforordningen. Bestemmelsene i dette kapitlet skal fravikes i den utstrekning det er nødvendig av hensyn til relevante bestemmelser i EØS-avtalens hoveddel, trygdeforordningen, gjennomføringsforordningen og bi- og multilaterale trygdeavtaler, se §§ 1-3 a og 1-3 b.
+Departementet kan i forskrift gi bestemmelser som supplerer eller legger til rette for etterlevelse av bestemmelser om ytelser til etterlatte i trygdeforordningen og gjennomføringsforordningen.

@@ -1,0 +1,5 @@
+# § 18-5. Beregning av barnepensjon
+Dersom en av foreldrene er død, skal den årlige pensjonen utgjøre 1 ganger grunnbeløpet for hvert barn. Full barnepensjon gis dersom den avdøde forelderen hadde minst 40 års trygdetid etter bestemmelsene i §§ 3-5 og 3-7. Dersom trygdetiden er kortere, reduseres barnepensjonen forholdsmessig.
+Dersom begge foreldrene er døde, skal den årlige pensjonen utgjøre 2,25 ganger grunnbeløpet for hvert barn. Full barnepensjon gis dersom en av foreldrene hadde minst 40 års trygdetid etter bestemmelsene i §§ 3-5 og 3-7. Dersom ingen av foreldrene hadde full trygdetid, reduseres barnepensjonen forholdsmessig tilsvarende trygdetiden til den av foreldrene som hadde lengst trygdetid.
+Dersom det er fastsatt juridisk foreldreskap for kun én forelder etter bestemmelsene i barneloven kapittel 2, og denne forelderen er død, fastsettes barnepensjonen etter andre ledd.
+Når det ytes barnepensjon på grunnlag av bestemmelsen i § 18-3 andre ledd bokstav b, skal trygdetiden i første og andre ledd svare til antall år med faktisk opptjent tilleggspensjon eller inntektspensjon.

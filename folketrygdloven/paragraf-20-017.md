@@ -1,0 +1,7 @@
+# § 20-17. Omregning av pensjon på grunnlag av opptjening mv. etter pensjonsuttak
+Ved uttak av hel alderspensjon skal pensjonsopptjening som tilføres pensjonsbeholdningen etter uttak, regnes om til årlig pensjon ved hjelp av delingstallet på omregningstidspunktet, og legges til pensjonen som allerede er tatt ut. Eventuell garantipensjon avkortes med 80 prosent av økningen i inntektspensjonen, jf. § 20-11 tredje ledd.
+Ved gradert uttak av pensjon skal pensjonsopptjening som tilføres pensjonsbeholdningen etter uttak omregnes til pensjon når uttaksgraden endres, se § 20-16. Beholdning av garantipensjon, se § 20-11, avkortes med 80 prosent av økt pensjonsbeholdning.
+Omregninger foretas med virkning fra januar året etter at fastsettingen av formues- og inntektsskatt foreligger.
+Ved økt trygdetid beregnes ny opptjening av garantipensjon ved å multiplisere endringen i garantipensjonsnivået etter § 20-11 andre ledd med delingstallet ved 67 år. Beregnet opptjening avkortes mot eventuell pensjonsbeholdning som det ikke er avkortet mot tidligere. Ved uttak av hel alderspensjon omregnes verdien av økt trygdetid til årlig pensjon ved å dividere med delingstallet på omregningstidspunktet, og legges til garantipensjonen. Ved uttak av gradert pensjon tilføres verdien beholdningen av garantipensjon.
+Ved endring i sivilstand mv. som påvirker pensjonen, skal pensjonen og eventuell restbeholdning omregnes.
+Departementet gir forskrifter om gjennomføringen av denne paragrafen.

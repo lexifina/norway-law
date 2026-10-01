@@ -1,0 +1,2 @@
+# § 15-13. Forholdet til andre folketrygdytelser m.m.
+Overgangsstønad etter dette kapitlet faller bort i den utstrekning vedkommende mottar ytelser til livsopphold fra folketrygden i form av omstillingsstønad som gjenlevende ektefelle etter kapittel 17, pensjon eller overgangsstønad som gjenlevende ektefelle, uføretrygd eller tilsvarende ytelser fra utlandet. Det samme gjelder når vedkommende mottar avtalefestet pensjon som det godskrives pensjonspoeng for, se § 3-19.

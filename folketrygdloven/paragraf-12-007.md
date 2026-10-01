@@ -1,0 +1,4 @@
+# § 12-7. Nedsatt inntektsevne
+Det er et vilkår for rett til uføretrygd at evnen til å utføre inntektsgivende arbeid (inntektsevnen) er varig nedsatt med minst halvparten.
+For personer som mottar arbeidsavklaringspenger når krav om uføretrygd settes fram, er det tilstrekkelig at inntektsevnen er varig nedsatt med 40 prosent.
+Ved vurderingen av hvor mye inntektsevnen er nedsatt, legges det vekt på alder, evner, utdanning, yrkesbakgrunn og arbeidsmuligheter på hjemstedet eller andre steder der det er rimelig at vedkommende tar arbeid. Inntektsmulighetene i ethvert arbeid som vedkommende nå kan utføre (inntekt etter uførhet) sammenlignes med inntektsmulighetene som vedkommende hadde før uføretidspunktet (inntekt før uførhet). Dersom sykdommen, skaden eller lytet har redusert inntektsevnen gradvis over flere år, kan det tas utgangspunkt i inntektsevnen før sykdommen, skaden eller lytet oppsto.

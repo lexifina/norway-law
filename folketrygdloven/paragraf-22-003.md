@@ -1,0 +1,4 @@
+# § 22-3. Utbetaling til arbeidsgiver
+En arbeidsgiver som betaler full lønn for et tidsrom da medlemmet har rett til en ytelse som skal sikre inntekt etter kapittel 8, 9 eller 14, kan kreve å få ytelsen utbetalt til seg. Utbetalt beløp kan ikke overstige den ytelse som medlemmet kunne ha fått utbetalt når hensyn tas også til reglene i § 22-13. Tilsvarende kan arbeidsgiver som forskutterer reisetilskott for å dekke nødvendige ekstra transportutgifter etter § 8-14, kreve reisetilskottet utbetalt til seg.
+En arbeidsgiver som betaler full lønn for et tidsrom som nevnt i første ledd, skal også betale feriepenger. Arbeidsgiveren kan kreve å få utbetalt til seg feriepenger som arbeidstakeren ville ha hatt krav på fra trygden for samme tidsrom.
+Dersom ytelsen fra trygden er høyere enn utbetalt lønn, utbetales differansen til den som har rett til ytelsen.

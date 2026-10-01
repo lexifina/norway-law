@@ -1,0 +1,7 @@
+# § 14-4. Svangerskapspenger
+En arbeidstaker har rett til svangerskapspenger dersom hun etter bestemmelser i lov eller forskrift blir pålagt å slutte i sitt arbeid fordi hun er gravid, og det ikke er mulig å omplassere henne til annet høvelig arbeid i bedriften.
+En gravid selvstendig næringsdrivende har rett til svangerskapspenger dersom hun i sitt virke er utsatt for slike risikofaktorer som gir en gravid arbeidstaker rett til svangerskapspenger. Det er en forutsetning at risikofaktorene er dokumentert og at hun ikke har mulighet til å tilrettelegge sitt virke. Tilsvarende rett til svangerskapspenger gjelder for frilansere.
+Fraværet under svangerskapet må medføre tap av pensjonsgivende inntekt. Vilkårene om opptjeningstid etter § 8-2 må være oppfylt før hun må slutte i arbeidet. Inntektsgrunnlaget for svangerskapspenger må på årsbasis utgjøre minst halvparten av grunnbeløpet, se femte ledd.
+Svangerskapspenger ytes fra det tidspunktet medlemmet må slutte i arbeidet, og fram til tre uker før fødselen. Fra sistnevnte tidspunktet ytes det foreldrepenger etter bestemmelsene i §§ 14-5 til 14-16.
+Svangerskapspengene beregnes etter de samme bestemmelsene som sykepenger fra trygden, se kapittel 8. Svangerskapspenger til selvstendig næringsdrivende ytes likevel med 100 prosent av beregningsgrunnlaget. Det ytes ikke svangerskapspenger for den del av inntekten som overstiger seks ganger grunnbeløpet.
+Trygden yter feriepenger til arbeidstaker med 10,2 pst. av utbetalte svangerskapspenger. Feriepenger ytes for de første 64 stønadsdagene.

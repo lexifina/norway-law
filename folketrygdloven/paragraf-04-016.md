@@ -1,0 +1,3 @@
+# § 4-16. Gjenopptak av løpende stønadsperiode
+En løpende stønadsperiode som er avbrutt i inntil 52 uker, gjenopptas uten ny prøving av kravet til minsteinntekt etter § 4-4, uten ny egenandel etter § 4-9, og uten at dagpengegrunnlaget etter § 4-11 fastsettes på nytt. Et medlem som har hatt avbrudd i stønadsperioden på grunn av arbeid i 12 uker eller mer, får fastsatt dagpengegrunnlaget på nytt dersom det er til gunst for medlemmet. Dagpengene gjenopptas tidligst fra det tidspunktet da kravet om å få saken gjenopptatt ble satt fram. Antall uker før avbruddet etter bestemmelsene i denne paragraf regnes med i antall stønadsuker etter § 4-15.
+For medlem som er under utdanning, gjelder bestemmelsene i første ledd bare for avbrudd i stønadsperioden i inntil 12 uker.

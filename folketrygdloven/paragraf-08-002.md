@@ -1,0 +1,3 @@
+# § 8-2. Opptjeningstid
+For å få rett til sykepenger må medlemmet ha vært i arbeid i minst fire uker umiddelbart før han eller hun ble arbeidsufør (opptjeningstid). Fravær i et arbeidsforhold uten gyldig grunn regnes ikke med i opptjeningstiden.
+Likestilt med forutgående arbeid er tidsrom da medlemmet har mottatt en ytelse til livsopphold etter kapittel 4, 8, 9 eller 14. Foreldrepenger etter kapittel 14 opptjent på grunnlag av arbeidsavklaringspenger etter kapittel 11 likestilles likevel ikke med arbeid. Dersom medlemmet har vært sammenhengende yrkesaktiv (eller mottatt ytelse etter kapittel 8, 9 eller 14) i minst fire uker umiddelbart før uttaket av foreldrepenger starter, kan det likevel gis rett til sykepenger.

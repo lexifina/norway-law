@@ -1,0 +1,6 @@
+# § 8-18. Sykepenger fra arbeidsgiveren
+For å få rett til sykepenger fra arbeidsgiveren må arbeidstakeren ha vært ansatt hos arbeidsgiveren i minst fire uker (opptjeningstid). Fravær uten gyldig grunn regnes ikke med i opptjeningstiden.
+Dersom arbeidstakeren slutter i arbeidet, men igjen begynner å arbeide hos den samme arbeidsgiveren innen to uker, regnes det tidligere arbeidsforholdet med når opptjeningstiden skal beregnes.
+Sykepenger fra arbeidsgiveren ytes tidligst fra og med den dag arbeidstakeren har gitt melding om arbeidsuførheten til arbeidsgiveren, såfremt det har vært mulig for arbeidstakeren å gi slik melding. Plikten til å gi melding gjelder også når det foreligger legeerklæring. Retten til sykepenger faller bort dersom arbeidsgiveren skal betale sykepenger på grunnlag av legeerklæring (§ 8-7), og legeerklæringen ikke er sendt til arbeidsgiveren innen 14 dager etter at arbeidsgiveren kan kreve slik erklæring, såfremt det har vært mulig for arbeidstakeren å sende legeerklæringen.
+Sykepenger fra arbeidsgiveren ytes bare for dager som det skulle ha vært utbetalt lønn for.
+Arbeidstakerens rett til sykepenger fra arbeidsgiveren faller bort når arbeidsforholdet opphører, dersom tidspunktet for opphøret var fastsatt før arbeidsuførheten oppstod.

@@ -1,0 +1,4 @@
+# § 12-5. Hensiktsmessig behandling og arbeidsrettede tiltak
+Det er et vilkår for rett til uføretrygd at vedkommende har gjennomgått hensiktsmessig behandling for å bedre inntektsevnen. Med mindre åpenbare grunner tilsier at arbeidsrettede tiltak ikke er hensiktsmessige, kan uføretrygd bare gis dersom vedkommende har gjennomført eller har forsøkt å gjennomføre individuelle og hensiktsmessige arbeidsrettede tiltak uten at inntektsevnen er bedret.
+Når det skal avgjøres om et behandlingstiltak eller et arbeidsrettet tiltak er hensiktsmessig, legges det vekt på alder, evner, utdanning, yrkesbakgrunn og arbeidsmuligheter. Det skal også legges vekt på om vedkommende kan få arbeid dersom han eller hun pendler eller flytter.
+Når det fremmes krav om uføretrygd, skal det dokumenteres at funksjonsevnen har vært vurdert av lege eller annet fagpersonell.
