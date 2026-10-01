@@ -1,0 +1,2 @@
+# § 52. Samarbeid med utenlandske tilsyns- og disiplinærmyndigheter
+Departementet kan gi forskrift om Advokattilsynets og Advokatnemndas samarbeid med utenlandske tilsyns- og disiplinærmyndigheter og rapportering om advokater med norsk advokatbevilling som utøver advokatvirksomhet i utlandet, og personer med utenlandsk advokatbevilling som utøver advokatvirksomhet i Norge, blant annet om adgang til å dele taushetsbelagte opplysninger.

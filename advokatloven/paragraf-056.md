@@ -1,0 +1,5 @@
+# § 56. Krav til disiplinærklager
+(1) Advokater og advokatfullmektiger kan klages inn for Advokatnemnda av en klient eller andre som påvirkes av at en advokat eller advokatfullmektig under utføringen av et oppdrag har overtrådt regler gitt i eller i medhold av denne loven. Også overtredelser begått av et advokatforetak eller organisasjoner eller enheter med organisasjonsadvokater kan klages inn for Advokatnemnda.
+(2) Disiplinærklagen skal være skriftlig og inneholde en kort beskrivelse av hva det klages over. Departementet kan gi forskrift om hvordan disiplinærklager skal fremsettes, og hva klagen skal inneholde.
+(3) Disiplinærklager må fremsettes senest seks måneder etter at klageren ble gjort kjent med forholdet klagen gjelder. Klager som er fremsatt senere, kan behandles dersom det foreligger særlige grunner. Klager som er fremsatt senere enn tre år etter at advokatoppdraget ble avsluttet, skal avvises.
+(4) En disiplinærklage kan avvises dersom den er åpenbart grunnløs, eller den ikke oppfyller kravene til skriftlighet og innhold, og dette ikke blir rettet etter oppfordring fra Advokatnemnda.

@@ -1,0 +1,5 @@
+# § 16. Suspensjon av advokatbevilling
+(1) Advokattilsynet kan suspendere en advokatbevilling dersom en advokat blir siktet for en straffbar handling, og det må antas at bevillingen vil bli tilbakekalt etter § 15 første ledd dersom advokaten blir funnet skyldig. En bevilling kan også suspenderes dersom sterke grunner tilsier at suspensjon er nødvendig i påvente av en endelig avgjørelse om tilbakekall etter § 15. Ved vurderingen etter andre punktum skal det legges stor vekt på hensynet til klientene. § 15 andre ledd andre punktum, tredje ledd og fjerde ledd gjelder tilsvarende ved suspensjon.
+(2) Advokattilsynet skal alltid vurdere suspensjon når en advokat er siktet for en straffbar handling, og det må antas at advokatbevillingen vil bli tilbakekalt dersom advokaten blir funnet skyldig.
+(3) Er en advokatbevilling suspendert og vilkårene for tilbakekall oppfylt, skal Advokattilsynet treffe vedtak om tilbakekall så snart forholdene som begrunnet suspensjonen, er avklart.
+(4) Suspensjonsvedtak etter første ledd første punktum faller bort ved en rettskraftig frifinnende dom.
