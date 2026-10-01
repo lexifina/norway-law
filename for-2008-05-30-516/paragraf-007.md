@@ -1,0 +1,2 @@
+# § 7. Klage
+Vedtak truffet av Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger, kan påklages til Klima- og miljødepartementet. Vedtak truffet av Arbeidstilsynets regioner kan påklages til Direktoratet for arbeidstilsynet. Vedtak truffet av Havindustritilsynet eller den Arbeids- og inkluderingsdepartementet bemyndiger, kan påklages til Arbeids- og inkluderingsdepartementet. Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap eller den Justis- og politidepartementet bemyndiger, kan påklages til Justis- og politidepartementet.
