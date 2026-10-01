@@ -1,0 +1,3 @@
+# § 22-2. Utbetaling ved direkte oppgjør
+Den som gir behandling eller yter tjenester som trygden er stønadspliktig for, kan etter avtale få rett til direkte oppgjør med Arbeids- og velferdsetaten, Helsedirektoratet eller det organ Helsedirektoratet bestemmer. Stønaden blir da utbetalt direkte til behandleren eller tjenesteyteren. Medlemmets betalingsplikt blir tilsvarende redusert.
+Departementet gir forskrifter om direkte oppgjør og om adgang for Arbeids- og velferdsetaten og Helsedirektoratet til å nekte direkte oppgjør. Nasjonalt klageorgan for helsetjenesten er klageinstans for vedtak om å nekte direkte oppgjør fattet av Helsedirektoratet eller det organ Helsedirektoratet bestemmer.

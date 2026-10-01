@@ -1,0 +1,3 @@
+# § 24-1. Skatteetatens og Arbeids- og velferdsetatens oppgaver
+(1) Pensjonsgivende inntekt fastsettes av det skattekontoret som Skattedirektoratet bestemmer. Departementet kan i forskrift bestemme at Arbeids- og velferdsetaten skal fastsette pensjonsgivende inntekt for nærmere angitte grupper av personer eller deler av deres inntekt.
+(2) Skattemyndighetene kan vedta økning av pensjonsgivende inntekt når den skattepliktige forlanger det som følge av feil som i høy grad er sannsynliggjort, og som han eller hun ikke kan lastes for. Ved slik økning skal pensjonsopptjening og trygdeavgift økes tilsvarende. Trygdeavgiften kan økes uten hinder av fristene for endring av skattefastsetting etter skatteforvaltningsloven.

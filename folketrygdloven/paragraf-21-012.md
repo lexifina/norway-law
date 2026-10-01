@@ -1,0 +1,7 @@
+# § 21-12. Klage og anke i trygdesaker
+Vedtak etter folketrygdloven kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer. Vedtak etter kapittel 5 kan påklages til Nasjonalt klageorgan for helsetjenesten. Etter at denne klageadgangen er benyttet, kan klageinstansens vedtak, også vedtak om å avvise en klage, ankes inn for Trygderetten etter reglene i lov 16. desember 1966 nr. 9 om anke til Trygderetten.
+Departementet kan bestemme at visse vedtak skal kunne bringes direkte inn for Trygderetten. Overprøving av en sak skal i sin helhet skje i Trygderetten dersom hensynet til sammenhengen i saken tilsier det.
+Klage eller anke settes fram skriftlig eller muntlig for den enheten som Arbeids- og velferdsdirektoratet bestemmer. Klage eller anke over vedtak etter kapittel 5 settes fram for det forvaltningsorgan som har truffet vedtaket, med mindre Helsedirektoratet bestemmer noe annet.
+Departementet kan bestemme at visse vedtak skal unntas fra anke til Trygderetten. Slike vedtak kan påklages etter reglene i forvaltningsloven kapittel VI til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer eller til Nasjonalt klageorgan for helsetjenester.
+Fristen for klage og anke er seks uker, også i saker som nevnt i fjerde ledd.
+Et vedtak etter folketrygdloven kan ikke bringes inn for de alminnelige domstolene før mulighetene til å klage og anke er nyttet fullt ut.

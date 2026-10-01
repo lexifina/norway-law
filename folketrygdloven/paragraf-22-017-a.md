@@ -1,0 +1,3 @@
+# § 22-17 a. Renter og rentetillegg ved tilbakekreving av feilutbetalinger
+Ved tilbakekreving etter § 22-15 første og andre ledd på grunnlag av forsett eller grov uaktsomhet hos den som kravet retter seg mot, beregnes et rentetillegg på 10 prosent av det beløp som kreves tilbake.
+Ved tilbakekreving etter § 22-15 a beregnes et rentetillegg på 10 prosent av det beløp som kreves tilbake. Ved betaling etter fastsatt betalingsfrist kreves det renter fra fristens utløp inntil tilbakebetaling skjer, beregnet på grunnlag av tilbakebetalingsbeløpet tillagt rentetillegg etter første punktum. Rentesatsen etter forsinkelsesrenteloven legges til grunn.

@@ -1,0 +1,2 @@
+# § 14-11. Utsettelse av uttak av foreldrepenger
+Uttak av foreldrepenger kan utsettes. Den delen av stønadsperioden som er forbeholdt moren, se § 14-9 sjette ledd, kan likevel bare utsettes dersom moren på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet eller er innlagt i helseinstitusjon, eller dersom barnet er innlagt i helseinstitusjon. Forholdet må dokumenteres med legeerklæring.

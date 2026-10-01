@@ -1,0 +1,7 @@
+# § 19-13. Omregning av pensjon på grunnlag av opptjening mv. etter pensjonsuttak
+Etter at pensjonsuttaket har startet skal det beregnes ny basispensjon, se § 19-5, dersom opptjente pensjonspoeng eller økt trygdetid etter uttaket kan gi høyere pensjon. Beregningen foretas med virkning fra januar året etter at fastsettingen av formues- og inntektsskatt for det aktuelle året foreligger.
+Dersom det beregnes ny basispensjon etter første ledd, skal tidligere beregnet basispensjonstillegg avkortes mot økningen i basispensjonen. Det avkortes også mot eventuell basispensjon som det ikke er avkortet mot tidligere. Ved økt trygdetid skal basispensjonstillegget først økes med endringen i minste pensjonsnivå etter § 19-9 andre ledd multiplisert med forholdstallet ved 67 år.
+Økning i basispensjonen skal ved uttak av full pensjon divideres med forholdstallet på omregningstidspunktet og tillegges pensjon under utbetaling. Ved gradert uttak skal økningen i basispensjonen tillegges restpensjonen.
+Ved uttak av hel pensjon skal pensjon under utbetaling endres med endringen i basispensjonstillegget etter andre ledd, dividert med forholdstallet på omregningstidspunktet. Ved gradert uttak skal restpensjonen endres tilsvarende endringen i basispensjonstillegget etter andre ledd.
+Ved endring i sivilstand mv. som påvirker pensjonen, skal pensjonen og restpensjonen omregnes.
+Departementet gir forskrifter om pensjonsberegning etter denne paragrafen.

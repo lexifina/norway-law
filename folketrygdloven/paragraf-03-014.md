@@ -1,0 +1,7 @@
+# § 3-14. Opptjening av pensjonspoeng for medlemmer som mottar uføretrygd
+Når et medlem mottar hel uføretrygd (§ 12-10), beregnes opptjente pensjonspoeng (§ 3-13) ved at den pensjonsgivende inntekten divideres med grunnbeløpet.
+Når et medlem mottar gradert uføretrygd (§ 12-10), gjøres det først et fradrag i den pensjonsgivende inntekten med en så stor prosent av grunnbeløpet som svarer til den gjenværende arbeidsevnen. Deretter beregnes pensjonspoengene ved at differansen divideres med grunnbeløpet.
+For år da et medlem har mottatt hel uføretrygd, kan han eller hun få medregnet opptil 0,50 opptjente pensjonspoeng. Det kan likevel bare medregnes en så stor del av de opptjente pensjonspoengene at summen av de opptjente pensjonspoengene og de godskrevne pensjonspoengene blir høyst 4,00.
+For år da vedkommende har mottatt uføretrygd etter en uføregrad lavere enn 100 prosent, kan summen av de opptjente og de godskrevne pensjonspoengene (§§ 3-13 og 3-17) ikke overstige de fastsatte pensjonspoengene etter § 3-17. Summen kan likevel utgjøre opptil 4,00 pensjonspoeng.
+For det året da inntektsevnen/arbeidsevnen ble varig nedsatt, opptjenes pensjonspoeng på grunnlag av pensjonsgivende inntekt (§§ 3-13 og 3-15) bare dersom de opptjente pensjonspoengene er høyere enn pensjonspoengene beregnet etter § 3-17.
+Bestemmelsene i denne paragrafen gjelder også for personer som mottar avtalefestet pensjon som det godskrives pensjonspoeng for, se § 3-19.

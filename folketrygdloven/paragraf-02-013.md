@@ -1,0 +1,3 @@
+# § 2-13. Unntak for personer med rettigheter i utenlandske trygdeordninger m.m.
+For en person som har bosatt seg i Norge etter 1992, og som mottar en utenlandsk pensjonsytelse som svarer til minste pensjonsnivå for enslige (§ 19-8 sjette ledd bokstav a), omfatter medlemskapet ytelser etter kapitlene 6, 12, 17, 17 A, 18, 19 og 20 bare i perioder da vedkommende har pensjonsgivende inntekt eller mottar pensjon fra folketrygden.
+Departementet gir forskrifter med nærmere regler om unntak fra medlemskap for personer som er sikret tilfredsstillende dekning fra utlandet, og for deres forsørgede familiemedlemmer.

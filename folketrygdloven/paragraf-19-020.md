@@ -1,0 +1,4 @@
+# § 19-20. Alderspensjon ved yrkesskade
+Den som ved fylte 67 år mottok uføretrygd på grunn av yrkesskade, får fra 67 år basispensjonen etter § 19-5 beregnet etter bestemmelsene i § 3-18. Minste pensjonsnivå etter § 19-8 og pensjonstillegg etter § 19-9 reduseres ikke selv om vedkommende har mindre enn 40 års trygdetid.
+Den som har rett til pensjon som gjenlevende ektefelle etter dødsfall på grunn av yrkesskade, får alderspensjonen beregnet etter bestemmelsene for etterlattepensjon ved yrkesskade, se § 17-12 tredje ledd slik bestemmelsen lød før 1. januar 2024, med de tillempninger som følger av bestemmelsene i § 19-16. Det samme gjelder den som har rett til omstillingsstønad som gjenlevende ektefelle etter dødsfall på grunn av yrkesskade etter § 17-12.
+Departementet gir forskrifter om beregning og omregning av alderspensjon etter paragrafen her.

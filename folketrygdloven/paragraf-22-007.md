@@ -1,0 +1,2 @@
+# § 22-7. Utsatt utbetaling
+Er det grunn til å anta at en arbeidsgiver, en pensjonsordning eller en offentlig myndighet har krav på refusjon i en persons ytelser etter denne loven, kan trygdens organer gjøre den som har krav på refusjon, kjent med vedkommendes rettigheter uten hinder av taushetsplikten. Utbetaling av ytelsen kan i tilfelle utsettes i opptil tre uker, med mindre annet følger av lov om samordning av pensjons- og trygdeytelser § 28 og forskrift gitt i medhold av denne bestemmelsen. Bestemmelsene i denne paragraf gjelder ikke for dagpenger under arbeidsløshet.

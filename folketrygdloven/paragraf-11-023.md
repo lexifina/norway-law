@@ -1,0 +1,8 @@
+# § 11-23. Reduksjon ved delvis nedsatt arbeidsevne
+Det gis fulle arbeidsavklaringspenger til et medlem som har tapt hele arbeidsevnen, se § 11-5.
+Dersom et medlem har tapt en del av arbeidsevnen, reduseres arbeidsavklaringspengene medregnet barnetillegget slik at ytelsen svarer til den delen av arbeidsevnen som er tapt. Det skal alltid vurderes om medlemmet har en arbeidsevne som ikke er utnyttet.
+Beregningen av den reduserte ytelsen skal ta utgangspunkt i forholdet mellom en arbeidstid på 37,5 timer per uke og det antall timer medlemmet har vært i eller kunne ha vært i inntektsgivende arbeid. Beregningen baseres på gjennomsnittlig arbeidet tid i meldeperioden, se § 11-10.
+Reduserte arbeidsavklaringspenger gis når arbeidsevnen er redusert med minst 40 prosent. Ved beregningen skal det tas hensyn til om medlemmet har reduserte muligheter til å utføre inntektsgivende arbeid på grunn av at han eller hun deltar på et arbeidsrettet tiltak eller får aktiv behandling.
+Når medlemmet arbeider i et arbeidsrettet tiltak uten lønn eller med lønn inntil grunnbeløpet, kan arbeidsavklaringspengene reduseres med et lavere antall timer enn det timeantallet som er arbeidet.
+Når medlemmet er nær ved å komme i fullt arbeid, kan det i inntil tolv måneder gis arbeidsavklaringspenger når han eller hun arbeider inntil 80 prosent. Det kan ikke gis mer enn én periode med arbeidsavklaringspenger etter dette leddet i løpet av en stønadsperiode, se § 11-12.
+Departementet kan i forskrift fastsette nærmere regler om reduksjon av arbeidsavklaringspenger på grunn av samtidig arbeid, herunder gi bestemmelser for særskilte grupper.

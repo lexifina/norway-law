@@ -1,0 +1,4 @@
+# § 11-27. Forholdet til andre fulle ytelser fra folketrygden
+Et medlem som har rett til arbeidsavklaringspenger og samtidig fyller vilkårene for å få en annen folketrygdytelse som skal dekke det samme inntektstapet i det samme tidsrommet, kan velge ytelse. Et medlem som samtidig fyller vilkårene for sykepenger og for arbeidsavklaringspenger, skal likevel først benytte retten til sykepenger fullt ut. Dersom sykepengegrunnlaget er mindre enn to ganger grunnbeløpet, kan medlemmet velge mellom sykepenger og arbeidsavklaringspenger.
+Fulle sykepenger og fulle svangerskapspenger av deltidsstilling anses som en redusert ytelse etter § 11-28. Foreldrepenger etter § 14-9 anses som en full ytelse.
+Arbeidsavklaringspengene faller ikke bort dersom medlemmet tar ut alderspensjon etter kapitlene 19 og 20. Når medlemmet får barnepensjon etter kapittel 18, reduseres arbeidsavklaringspengene med samme beløp.

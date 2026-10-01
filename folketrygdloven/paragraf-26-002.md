@@ -1,0 +1,3 @@
+# § 26-2. Overgangsbestemmelser
+Den som når denne loven trer i kraft, mottar en løpende ytelse etter lov av 17. juni 1966 nr. 12 om folketrygd, beholder denne ytelsen dersom den er høyere enn den ytelsen vedkommende har rett til etter den nye loven. Krav som er satt fram før lovens ikrafttredelse, avgjøres etter den tidligere loven dersom dette er til gunst for vedkommende. Hjelpestønad til hjelp i huset (sats 0) som er innvilget etter lov 17. juni 1966 nr. 12 om folketrygd § 8-2 bokstav b, ytes ikke etter 1. juli 2018.
+I tillegg til bestemmelsene i første ledd gjelder følgende overgangsregler: – – –

@@ -1,0 +1,4 @@
+# § 14-12. Uttak av kvotene
+Dersom begge foreldrene fyller vilkårene for rett til foreldrepenger, er 75 stønadsdager (15 uker) av stønadsperioden forbeholdt faren (fedrekvote) og 75 stønadsdager (15 uker) av stønadsperioden forbeholdt moren (mødrekvote) når foreldrene velger full sats. Ved redusert sats er 95 stønadsdager (19 uker) tilsvarende forbeholdt hver av foreldrene.
+Faren kan ta ut fedrekvoten uten hensyn til om vilkårene i § 14-13 første ledd er oppfylt. Kvotene kan også tas ut samtidig med at den andre av foreldrene tar ut graderte foreldrepenger på opptil 50 % av valgt sats, se § 14-16.
+Det kan gjøres unntak fra bestemmelsene i første ledd dersom forelderen som skal ta ut foreldrepenger på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet eller er innlagt i helseinstitusjon. Forhold som nevnt i første punktum må dokumenteres med legeerklæring.

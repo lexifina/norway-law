@@ -1,0 +1,2 @@
+# § 2-4. Avtaler om arbeidstakere mv. på kontinentalsokkelen
+Bestemmelsene i trygdeforordningen og gjennomføringsforordningen får tilsvarende anvendelse på en arbeidstaker mv. som er omfattet av EØS-avtalens personkrets og som arbeider med leting etter eller utvinning av olje, gass eller andre naturressurser på den norske delen av kontinentalsokkelen, som om vedkommende hadde arbeidet på norsk territorium. Avtaler som nevnt i § 1-3 b får anvendelse på kontinentalsokkelen i den utstrekning det er bestemt i den enkelte avtale.

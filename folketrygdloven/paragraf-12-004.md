@@ -1,0 +1,3 @@
+# § 12-4. Alder
+Det er et vilkår for rett til uføretrygd at personen er mellom 18 og 67 år.
+Dersom krav om uføretrygd settes fram etter at personen har fylt 62 år, er det et vilkår for rett til uføretrygd at vedkommende hadde en pensjonsgivende inntekt på minst folketrygdens grunnbeløp i året før uføretidspunktet (se § 12-8) eller minst tre ganger folketrygdens grunnbeløp i løpet av de tre siste årene før dette tidspunktet. Dette gjelder likevel bare dersom medlemmet har rett til uttak av hel alderspensjon etter kapitlene 19 og 20. Vilkåret i første punktum gjelder heller ikke dersom uføretrygden er gitt med virkning fra et tidspunkt før personen fylte 62 år.

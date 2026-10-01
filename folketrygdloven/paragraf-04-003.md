@@ -1,0 +1,5 @@
+# § 4-3. Tap av arbeidsinntekt og arbeidstid
+For å få rett til dagpenger må medlemmet ha tapt arbeidsinntekt som arbeidstaker på grunn av arbeidsløshet. Som arbeidstaker i dette kapittel regnes også den som har inntekt utenfor tjenesteforhold når dette ikke er ledd i selvstendig næringsvirksomhet. Medlemmet anses ikke å ha tapt inntekt dersom vedkommende for det aktuelle tidsrom har krav på lønn. Departementet kan gi forskrifter med nærmere bestemmelser. Forskriftene kan inneholde avvik fra bestemmelsene i dette ledd, tredje punktum.
+For at medlemmet skal få rett til dagpenger, må vanlig arbeidstid være redusert med minst 50 prosent. Som vanlig arbeidstid regnes den arbeidstiden vedkommende hadde før ledigheten eller før arbeidstiden ble redusert. Vanlig arbeidstid kan likevel ikke overstige lovbestemt arbeidstid for yrket eller næringen. For medlem som bare søker deltidsarbeid (se § 4-5 annet ledd), kan vanlig arbeidstid ikke overstige ønsket arbeidstid.
+En arbeidstidsreduksjon kan bare legges til grunn for én full stønadsperiode.
+Departementet kan gi forskrifter om fastsetting av vanlig arbeidstid.

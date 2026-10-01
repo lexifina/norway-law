@@ -1,0 +1,3 @@
+# § 21-8. Bortfall av rett til ytelser når mottakeren er skjødesløs med sin helse m.m.
+Et krav om en ytelse som gis på grunnlag av sykdom, skade eller lyte, kan avslås, og en innvilget ytelse kan holdes tilbake eller stanses dersom medlemmet uten rimelig grunn nekter å ta imot tilbud om behandling, rehabilitering eller arbeidsrettede tiltak.
+En innvilget ytelse som nevnt i første ledd kan helt eller delvis holdes tilbake eller stanses dersom medlemmet uten rimelig grunn unnlater å rette seg etter legens råd. Det samme gjelder dersom medlemmet opptrer på en måte som han eller hun bør forstå kan forverre helsetilstanden eller forlenge arbeidsuførheten.

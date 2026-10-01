@@ -1,0 +1,4 @@
+# § 12-18. Tillegg til uføretrygd for gjenlevende ektefelle (gjenlevendetillegg)
+Gjenlevendetillegg som er innvilget med virkning før 1. januar 2024, videreføres med den nominelle verdien. Tillegget skal ikke reguleres årlig i samsvar med senere endringer i grunnbeløpet. Dette gjelder også innvilget gjenlevendetillegg for uføre med minsteytelse som har fått innvilget gjenlevendetillegg som følge av at den avdødes trygdetid er høyere enn egen trygdetid.
+Tillegget skal justeres for uføregrad. Dersom den gjenlevende har inntekt som vil gi reduksjon av uføretrygd etter § 12-14, skal gjenlevendetillegget multipliseres med forholdet mellom den reduserte uføretrygden og uføretrygden uten inntektsreduksjon. Bestemmelsene om etteroppgjør i § 12-14 fjerde ledd gjelder tilsvarende.
+Tillegget faller bort når den gjenlevende gifter seg igjen, se § 1-5.

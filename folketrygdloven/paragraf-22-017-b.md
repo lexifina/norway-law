@@ -1,0 +1,2 @@
+# § 22-17 b. Forholdet til erstatning
+Ved etterbetaling av en ytelse etter bestemmelsene i § 22-13 kan det ikke kreves erstatning etter skadeserstatningsloven eller alminnelige erstatningsrettslige regler for ytelser for tidsrom som ikke omfattes av etterbetalingen. Tilsvarende kan det ved etterbetaling av ytelser ikke gis renter eller kreves erstatning for rentetap i andre tilfelle eller i større utstrekning enn det som følger av bestemmelsene i § 22-17.

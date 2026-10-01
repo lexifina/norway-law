@@ -1,0 +1,2 @@
+# § 13-16. Forholdet til loven om yrkesskadetrygd og de tidligere lovene om ulykkestrygd
+Det ytes ikke stønad etter særbestemmelsene om yrkesskade i denne loven for yrkesskade som kommer inn under lov av 12. desember 1958 nr. 10 om yrkesskadetrygd og de tidligere lovene om ulykkestrygd som nevnt i yrkesskadetrygdloven § 53 bokstavene a, b og c. Folketrygden dekker likevel utgiftene til ytelser etter disse lovene.

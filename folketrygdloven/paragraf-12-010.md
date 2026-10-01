@@ -1,0 +1,5 @@
+# § 12-10. Fastsetting og endring av uføregrad
+Det skal fastsettes en uføregrad ved å sammenligne inntektsevne før og etter uførhet, se § 12-7. Dersom personen har tapt hele inntektsevnen, skal uføregraden settes til 100 prosent. Dersom personen har tapt en del av inntektsevnen, skal uføregraden svare til den delen av inntektsevnen som er tapt. Uførheten graderes i trinn på fem prosentpoeng. Det skal alltid vurderes om uføregraden skal settes lavere enn 100 prosent.
+Den fastsatte uføregraden endres ikke selv om uføretrygden reduseres på grunn av inntekt, se § 12-14.
+Dersom uføretrygden faller bort etter § 12-14 tredje ledd, kan vedkommende beholde retten til uføretrygd med opprinnelig uføregrad i inntil fem år (hvilende rett) ved å melde fra til Arbeids- og velferdsetaten. Retten til ytelsen kan etter søknad beholdes i ytterligere fem år.
+Uføregraden kan økes dersom inntektsevnen blir ytterligere nedsatt og det settes fram krav om økt uføregrad. Det skal da fastsettes et nytt uføretidspunkt dersom dette er til fordel for vedkommende.

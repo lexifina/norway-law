@@ -1,0 +1,4 @@
+# § 4-6. Dagpenger under utdanning, opplæring, etablering av egen virksomhet m.v.
+Det ytes ikke dagpenger til medlemmer som tar utdanning eller opplæring, eller deltar i ulønnet arbeid, med mindre det er særskilt bestemt. Departementet gir forskrift om i hvilke tilfeller det kan gis dagpenger under utdanning eller opplæring og ved ulønnet arbeid.
+Departementet gir forskrift om at medlemmer som etter forskrift gitt i medhold av første ledd får dagpenger mens de tar opplæring eller utdanning, kan regnes som reelle arbeidssøkere, selv om de bare søker arbeid innenfor et begrenset geografisk område, og bare søker arbeid som lar seg forene med opplæringen eller utdanningen.
+Et medlem som mottar dagpenger, kan etter søknad beholde dagpenger i inntil tolv måneder under planlegging og etablering av egen virksomhet. Departementet gir forskrifter om dagpenger til etablerere av egen virksomhet.

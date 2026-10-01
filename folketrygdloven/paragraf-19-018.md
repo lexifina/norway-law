@@ -1,0 +1,4 @@
+# § 19-18. Forholdet til avtalefestet pensjon tilstått før 1. januar 2011
+For personer født i 1942 og tidligere år som fram til fylte 67 år hadde avtalefestet pensjon med statstilskott, skal beregningsgrunnlaget for tilleggspensjon mellom fylte 67 og 70 år være det samme som i perioden med avtalefestet pensjon. Tilleggspensjonen kan også beregnes på grunnlag av en avdød ektefelles opptjening, se § 3-23.
+Fra måneden etter at pensjonisten fyller 70 år, ytes det alderspensjon også på grunnlag av pensjonspoeng som vedkommende har opptjent eller fått godskrevet i perioden med avtalefestet pensjon.
+Departementet gir forskrifter om beregningsgrunnlaget for tilleggspensjon for personer født i 1943 og senere år som ble tilstått avtalefestet pensjon med statstilskott med virkningstidspunkt før 1. januar 2011.

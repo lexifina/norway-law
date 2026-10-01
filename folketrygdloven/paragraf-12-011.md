@@ -1,0 +1,8 @@
+# § 12-11. Grunnlaget for beregning av uføretrygd
+Uføretrygd beregnes på grunnlag av pensjonsgivende inntekt, se § 3-15, i de fem siste kalenderårene før uføretidspunktet, se § 12-8. Gjennomsnittlig inntekt i de tre beste inntektsårene legges til grunn.
+For år da en person har mottatt uføretrygd, skal pensjonsgivende inntekt, og en inntekt som svarer til beregningsgrunnlaget for uføretrygden justert for fastsatt uføregrad, inngå i grunnlaget. Samlet inntekt kan likevel ikke overstige det som er høyest av beregningsgrunnlaget og den pensjonsgivende inntekten. Departementet kan gi forskrifter om hvilken inntekt som skal legges til grunn for år da en person har mottatt uførepensjon.
+For år da et medlem har avtjent militær eller sivil førstegangstjeneste eller frivillig slik tjeneste, skal det legges til grunn en inntekt på minst tre ganger gjennomsnittlig grunnbeløp. Dersom medlemmet hadde en høyere inntekt i året før tjenesten tok til, benyttes denne inntekten.
+Det skal ses bort fra år da et medlem har fått pensjonsopptjening på grunnlag av omsorgsarbeid etter § 3-16 eller § 20-8 dersom dette er til fordel for vedkommende. Året før og året etter slike år anses da for å følge umiddelbart etter hverandre.
+Pensjonsgivende inntekt over seks ganger gjennomsnittlig grunnbeløp i et kalenderår regnes ikke med i grunnlaget for uføretrygd.
+Den pensjonsgivende inntekten i det enkelte kalenderåret skal reguleres i samsvar med endringer i grunnbeløpet fram til det tidspunktet uføretrygden gis virkning fra.
+Grunnlaget for uføretrygden reguleres i samsvar med senere endringer i grunnbeløpet.

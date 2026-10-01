@@ -1,0 +1,4 @@
+# § 21-13. Ankenemnda for sykepenger i arbeidsgiverperioden
+En tvist mellom arbeidsgiver og arbeidstaker eller mellom arbeidsgiver og Arbeids- og velferdsetaten om rettigheter og plikter i arbeidsgiverperioden (§ 8-19) kan bringes inn for Ankenemnda for sykepenger i arbeidsgiverperioden. Ankefristen er tre uker fra det tidspunktet meldingen om vedtaket er mottatt.
+Ankenemnda skal ha tre medlemmer, som oppnevnes av departementet. Lederen av nemnda skal ha særlig innsikt i trygderettslige spørsmål. Ett medlem oppnevnes etter forslag fra Næringslivets Hovedorganisasjon og ett medlem etter forslag fra Landsorganisasjonen i Norge.
+Ankenemndas vedtak kan ikke påklages til et overordnet forvaltningsorgan eller ankes til Trygderetten, men kan bringes inn for domstolene, som kan prøve om vedtaket er i samsvar med loven.

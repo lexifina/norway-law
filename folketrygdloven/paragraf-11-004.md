@@ -1,0 +1,3 @@
+# § 11-4. Alder
+Det er et vilkår for rett til arbeidsavklaringspenger at medlemmet har fylt 18 år. Retten til arbeidsavklaringspenger opphører ved utgangen av den måneden medlemmet fyller 67 år.
+Dersom kravet settes fram etter at medlemmet har fylt 62 år, er det et vilkår at medlemmet hadde en pensjonsgivende inntekt på minst ett grunnbeløp i året før arbeidsevnen ble nedsatt med minst halvparten, se § 11-5, eller på til sammen minst tre ganger grunnbeløpet i løpet av de tre siste årene før samme tidspunkt. Dette gjelder likevel bare dersom medlemmet har rett til uttak av hel alderspensjon etter kapitlene 19 og 20.

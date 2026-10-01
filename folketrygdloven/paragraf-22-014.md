@@ -1,0 +1,6 @@
+# § 22-14. Foreldelse
+Lov av 18. mai 1979 nr. 18 om foreldelse av fordringer gjelder med de særlige bestemmelser som er gitt i denne paragrafen.
+Foreldelsesfristen for rett til ytelser etter folketrygdloven regnes fra tidspunktet da det endelige vedtaket ble fattet. I sak om etteroppgjør for uføretrygd etter § 12-14 fjerde ledd andre punktum regnes foreldelsesfristen fra tidspunktet for endelig vedtak om etteroppgjøret.
+En fordring som en behandler, en forhandler eller andre har mot Arbeids- og velferdsetaten, Helsedirektoratet eller underliggende organer på grunnlag av direkte oppgjør, se § 22-2, foreldes seks måneder etter at fordringen oppstod.
+Dersom den som har rett til en ytelse, helt eller delvis har fått avslått et krav om ytelsen på grunn av feil som Arbeids- og velferdsetaten, Helsedirektoratet eller underliggende organer har gjort, skal ytelsen gis fra det tidspunktet den skulle ha vært gitt hvis kravet var blitt godtatt første gang det ble framsatt. Det samme gjelder dersom avslaget skyldes ufullstendige eller misvisende opplysninger fra andre enn den som har rett til ytelsen.
+Trekk etter § 22-15 åttende ledd eller § 22-15 a sjette ledd avbryter foreldelse. Dersom slikt trekk opphører, varer virkningen av avbrutt foreldelse i ett år etter at trekket opphørte.
