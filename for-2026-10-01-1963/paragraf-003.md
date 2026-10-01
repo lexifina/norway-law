@@ -1,0 +1,2 @@
+# § 3. Ikrafttredelse og overgangsregler
+Forskriften trer i kraft straks. De som er rapporteringspliktige etter hvitvaskingsloven § 4 første, andre og femte ledd, skal senest 1. januar 2027 legge til grunn §§ 1 og 2 i etterlevelsen av hvitvaskingsloven. Personer som innehar stillinger eller funksjoner i Norge som ikke lenger anses som politiske eksponerte personer, men som tidligere er blitt ansett som det, kan straks anses ikke lenger å være politisk eksponerte personer.
