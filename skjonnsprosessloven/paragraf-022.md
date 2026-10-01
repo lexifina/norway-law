@@ -1,0 +1,3 @@
+# § 22
+Under skjønnsforretningen skal skjønnsstyreren avklare skjønnsforutsetningene og partenes standpunkter om verdsettingen, og partene skal gjøre rede for sitt syn og føre bevis. Saksøkeren gis som regel ordet før saksøkte. For skjønnsforretningen får tvisteloven §§ 9-11, 9-13 og 9-14 tilsvarende anvendelse. Om innføring i rettsbok og opptak av forklaringer gjelder tvistelovens regler for hovedforhandling tilsvarende under skjønnsforretningen. Etter avsluttet saksforberedelse gjelder reglene i tvisteloven § 9-16 for tilbud av nye bevis.
+Saksøkte bør gi spesifisert oppgave over hva han krever erstatning for.

@@ -1,0 +1,3 @@
+# § 15
+Sletting av skjønnsmedlemmer fra utvalget, jf § 14, foretas av fylkesrådmannen når et skjønnsmedlem flytter fra fylket eller for øvrig vilkårene for sletting foreligger etter reglene i domstolloven § 76 første eller annet ledd. Før avgjørelse treffes, skal vedkommende skjønnsmedlem så vidt mulig få høve til å uttale seg, og han skal om mulig gis meddelelse om resultatet. Reglene i domstolloven § 76 tredje ledd om klage gjelder tilsvarende. Klagen går til lagmannsretten. Istedenfor et skjønnsmedlem som er slettet, oppnevner fylkesrådmannen en annen.
+Beslutning om endringer i skjønnsmedlemutvalget meddeles tingrettene og jordskifterettene i fylket og vedkommende lagmannsrett.
