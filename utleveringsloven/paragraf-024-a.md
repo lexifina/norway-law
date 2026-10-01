@@ -1,0 +1,7 @@
+# § 24 a
+1) Til bruk for straffesak i fremmed stat kan utenlandsk domstol eller annen myndighet som er kompetent etter vedkommende lands lovgivning, på begjæring avhøre vitner og sakkyndige som befinner seg i Norge ved fjernavhør. Begjæringen fremsettes overfor departementet, med mindre annet er fastsatt ved overenskomst med fremmed stat.
+2) Fjernavhør etter denne bestemmelsen gjennomføres ved norsk domstol. Innkallelse av den som skal avgi forklaring skjer etter reglene i straffeprosessloven. For plikten til å møte som vitne eller sakkyndig gjelder straffeprosessloven §§ 108, 109 og 143 tredje ledd tilsvarende. Tredje punktum gjelder ikke for fjernavhør ved hjelp av telefon.
+3) Avhøret kan gjennomføres i henhold til lovgivningen i den stat som har fremsatt begjæringen, så lenge en slik fremgangsmåte ikke er forbudt etter norsk rett. En dommer skal være til stede under hele avhøret og føre kontroll med utspørringen.
+4) For vitnet og den sakkyndiges adgang og plikt til å forklare seg mv. gjelder bestemmelsene i straffeprosessloven kapittel 10 og 11 tilsvarende så langt de passer. Den som avhøres kan også nekte å avgi forklaring i den utstrekning dette følger av den anmodende stats lovgivning. Fjernavhør ved hjelp av telefon kan bare skje dersom vitnet eller den sakkyndige samtykker.
+5) For straffansvar for uriktig forklaring gjelder straffeloven § 221 tilsvarende.
+6) Kongen kan gi forskrifter om fjernavhør etter denne bestemmelsen, herunder regler om blant annet føring av referat, bruk av tolk og dommerens kontroll med avhøret mv.

@@ -1,0 +1,4 @@
+# § 10
+1) Er den som begjæres utlevert domfelt for handlingen i den fremmede stat, skal utlevering ikke skje dersom det er særlig grunn til å tro at dommen ikke bygger på en riktig vurdering av spørsmålet om vedkommende er skyldig i gjerningen.
+2) I andre tilfelle kan utlevering skje når det i samsvar med lovgivningen i den fremmede stat er avsagt beslutning om pågripelse eller fengsling eller annen beslutning som har samme virkning og som bygger på en vurdering av om vedkommende er skyldig i lovbruddet. Utlevering må i disse tilfelle ikke skje med mindre man finner at det er skjellig grunn til mistanke om at vedkommende er skyldig.
+3) Ved overenskomst med fremmed stat kan det bestemmes at dommer eller beslutninger som nevnt i annet ledd, og som er avsagt av en domstol, skal godtas som grunnlag for utlevering i forhold til denne stat uten nærmere prøving av beviset for at vedkommende er skyldig i gjerningen.

@@ -1,0 +1,3 @@
+# § 19
+1) Når endelig vedtak om utlevering foreligger, skal den settes i verk så snart råd er.
+2) Er vedkommende ikke på forhånd fengslet, kan han pågripes og settes i varetektsfengsel etter reglene i straffeprosessloven §§ 175 flg. eller underkastes forholdsregler som nevnt i straffeprosessloven § 188 inntil utleveringen kan settes i verk. Beslutning om bruk av tvangsmiddel skal dog ikke gjelde for lengre tid enn 4 uker fra endelig vedtak om utlevering er truffet. Etter begjæring fra departementet kan retten, når særlige grunner foreligger, beslutte at tvangsmidler skal nyttes en bestemt tid utover den fastsatte frist. Kjennelse om bruk av tvangsmidler kan ankes etter straffeprosessloven kapittel 26.
