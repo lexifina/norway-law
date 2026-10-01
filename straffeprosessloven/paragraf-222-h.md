@@ -1,0 +1,2 @@
+# § 222 h
+Den som ilegges elektronisk kontroll, plikter å yte den bistand og å følge de instruksjoner som gis av politiet, som er nødvendig for å gjennomføre kontrollen, herunder å vedlikeholde og sørge for signaler fra kontrollutstyret. Utenfor områder omfattet av forbudet kan handlinger som ellers ville utløst alarmen, bare foretas med bistand fra politiet. Opphold innenfor forbudssonen kan bare skje etter tillatelse fra politiet.

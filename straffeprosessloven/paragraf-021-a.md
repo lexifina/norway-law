@@ -1,0 +1,4 @@
+# § 21 a
+Når retten behandler en begjæring om anonym vitneførsel, jf. § 130 a eller § 234 a, skal vitnets navn og andre opplysninger som kan føre til at vitnets identitet blir kjent, nedtegnes i et særskilt dokument. Dette dokumentet og andre dokumenter i saken som har opplysninger som kan føre til at vitnets identitet blir kjent, skal oppbevares på en strengt betryggende måte i samsvar med forskrift som Kongen gir. Avslår retten en begjæring om anonym vitneførsel, gjelder likevel de alminnelige reglene om protokollasjon og oppbevaring bare dersom påtalemyndigheten fører vitnet under full identitet, jf. § 130.
+Reglene i første ledd om protokollasjon og oppbevaring av dokumenter gjelder tilsvarende for avhør i rettsmøte med hjemmel i § 130 a.
+Reglene i bestemmelsen her gjelder tilsvarende så langt de passer for saker etter § 28 fjerde ledd tredje til sjette punktum, § 242 a, § 264 sjette ledd, § 267 første ledd tredje punktum, jf. § 264 sjette ledd og § 292 a.

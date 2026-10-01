@@ -1,0 +1,4 @@
+# § 461
+Skal en domfelt som er på frifot, utholde frihetsstraff eller samfunnsstraff, meddeler kriminalomsorgen ham pålegg om å møte til fastsatt tid og sted for at fullbyrdingen kan påbegynnes.
+Dersom domfelte unnlater å etterkomme pålegg om å fremstille seg, kan han avhentes av politiet etter begjæring fra kriminalomsorgen. Det samme gjelder om han uteblir under gjennomføringen eller det før påbegynt soning er grunn til å tro at han vil unndra seg fullbyrdingen av straff.
+Konfliktrådet meddeler en domfelt som er idømt ungdomsstraff pålegg om å møte til fastsatt tid og sted for at fullbyrdingen kan påbegynnes. Dersom domfelte unnlater å etterkomme pålegg om å fremstille seg, kan han avhentes av politiet etter begjæring fra konfliktrådet. Det samme gjelder om domfelte ikke etterkommer pålegg om å møte til samtale for å motvirke nye brudd jf. konfliktrådsloven § 31 første ledd første punktum.

@@ -1,0 +1,3 @@
+# § 99
+Når en sak er sendt retten til pådømmelse etter § 248 og det er spørsmål om å idømme ubetinget frihetsstraff i mer enn 6 måneder, skal siktede ha forsvarer. Dette gjelder likevel ikke i saker etter vegtrafikkloven § 22 første og femte ledd, jf. § 31, eller hvor retten på grunnlag av sakens art og forholdene ellers finner det ubetenkelig at han er uten forsvarer. Der siktede var under 18 år på handlingstidspunktet og det er spørsmål om å idømme ubetinget frihetsstraff, samfunnsstraff eller ungdomsstraff, skal siktede alltid ha forsvarer.
+Siktede skal alltid ha forsvarer når en sak er sendt til pådømmelse etter § 248 og det er oppnevnt bistandsadvokat for fornærmede i medhold av straffeprosessloven § 107 a.

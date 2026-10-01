@@ -1,0 +1,8 @@
+# § 74
+Er forfølging mot en siktet innstilt på grunn av bevisets stilling, kan den tas opp på ny dersom det senere blir oppdaget bevis av vekt. Er forfølgningen mot en siktet innstilt etter § 72 første ledd annet punktum annet alternativ, kan forfølgningen tas opp igjen når grunnen til at saken ble innstilt er bortfalt.
+Er påtale unnlatt etter § 69, kan forfølgingen tas opp på ny om det reises siktelse for en annen lovovertredelse som er forøvd før påtaleunnlatelsen. Tiltale må i så fall være reist eller begjæring om tilståelsesdom fremsatt innen ett år etter påtaleunnlatelsen. Blir siktede ikke kjent skyldig i den annen lovovertredelse, står påtaleunnlatelsen ved makt, når ikke retten finner at han må frifinnes.
+Er det satt vilkår for påtaleunnlatelsen, kan forfølgingen også tas opp på ny dersom vilkårene ikke blir overholdt. Det samme gjelder om siktede unndrar seg pålagt tilsyn eller setter seg ut over pålegg fra tilsynsmyndigheten. Tiltale må i så fall være reist eller begjæring om tilståelsesdom fremsatt innen tre måneder etter utløpet av prøvetiden.
+Er påtale unnlatt etter § 70, kan forfølgingen tas opp på ny dersom siktede ikke blir domfelt for den eller de straffbare handlinger som ble påtalt.
+Er forfølgingen innstilt fordi en nødvendig påtalebegjæring eller en annen forutsetning for å fremme saken manglet, kan den tas opp på ny om mangelen blir avhjulpet.
+Ellers kan en forfølging bare tas opp på ny ved omgjøring av overordnet myndighet etter § 75 annet ledd, ved avgjørelse i klagesak etter § 59 a eller når vilkårene for gjenåpning er oppfylt.
+Disse regler hindrer ikke at en påtaleunnlatelse blir gjort om til gunst for siktede.

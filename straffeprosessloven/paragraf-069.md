@@ -1,0 +1,4 @@
+# § 69
+Selv om straffeskyld anses bevist, kan påtalemyndigheten når særlige grunner tilsier det, unnlate å påtale handlingen.
+Påtaleunnlatelse kan gis på vilkår av at siktede i prøvetiden ikke gjør seg skyldig i noen ny straffbar handling. Prøvetiden er to år fra den dag det blir besluttet å unnlate påtale, men ikke lenger enn foreldelsesfristen for adgangen til å reise straffesak for handlingen. For siktede som var under 18 år på handlingstidspunktet, kan prøvetiden settes til 6, 12, 18 eller 24 måneder.
+Påtaleunnlatelse kan også gis på vilkår som nevnt i straffeloven § 35, § 36 og § 37 første ledd bokstavene a til h og j. Gir siktedes forhold grunn til det, kan påtalemyndigheten i prøvetiden oppheve eller endre fastsatte vilkår og sette nye vilkår. Den siktede skal så vidt mulig få uttale seg om vilkårene før de fastsettes.

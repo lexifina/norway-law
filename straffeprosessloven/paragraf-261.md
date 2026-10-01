@@ -1,0 +1,5 @@
+# § 261
+Begjæring om gjenåpning av sak som er avgjort ved forelegg, settes frem for tingretten. Begjæringen må angi grunnlaget for gjenåpning og de bevis som vil bli påberopt. §§ 389 til 393 gjelder tilsvarende så langt de passer.
+Hvis begjæringen er åpenbart grunnløs, avsier retten straks kjennelse om at begjæringen forkastes. Ellers forelegges den for motparten til uttalelse. Retten kan innhente ytterligere opplysninger og beslutte bevisopptak. Reglene i § 97 første punktum og § 270 gjelder tilsvarende. Partene skal gis anledning til å uttale seg om de innhentede opplysningene.
+Når særlige grunner tilsier det, kan retten beslutte å holde muntlig forhandling om begjæringen, herunder å avhøre parter og vitner eller foreta annen umiddelbar bevisførsel. Rettens beslutning kan ikke ankes eller brukes som ankegrunn. Holdes muntlig forhandling, skal siktede ha forsvarer dersom forsvarer vil være nødvendig ved en ny fullstendig behandling av saken.
+Retten avgjør ved kjennelse om gjenåpning skal tillates. Reglene i § 54 kommer ikke til anvendelse. Blir gjenåpning besluttet, behandles saken av tingretten. § 400 gjelder tilsvarende så langt den passer.

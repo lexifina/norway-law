@@ -1,0 +1,5 @@
+# § 165 a
+Det skal oppnevnes to sakkyndige for å foreta en rettspsykiatrisk undersøkelse etter § 165 første og annet ledd, med mindre retten finner at det er tilstrekkelig med én, eller at saken krever flere enn to. Én av de sakkyndige må være godkjent spesialist. Hvis det er oppnevnt flere sakkyndige, må én av dem arbeide klinisk.
+Den som ville ha vært inhabil som dommer i saken etter domstolloven §§ 106 eller 108, skal ikke oppnevnes som sakkyndig for å foreta en rettspsykiatrisk undersøkelse etter § 165 første og annet ledd. Oppnevning bør unngås når tilknytningen til en annen sakkyndig i saken er egnet til å svekke tilliten til den sakkyndiges uavhengighet.
+Før oppnevning skal den sakkyndige fremlegge en egenerklæring for retten. I egenerklæringen skal den sakkyndige opplyse om sin utdannelse, kliniske erfaring og forhold av betydning for habilitets- og uavhengighetsvurderingen etter annet ledd.
+Kongen kan gi forskrift om krav til sakkyndiges kompetanse, sakkyndiges egenerklæring, om krav til den rettspsykiatriske erklæringen og om oppgavene til Nasjonal enhet for rettspsykiatrisk sakkyndighet.

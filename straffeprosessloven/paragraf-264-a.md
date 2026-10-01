@@ -1,0 +1,5 @@
+# § 264 a
+Påtalemyndigheten underretter fornærmede og etterlatte i lovbestemt rekkefølge om at det er tatt ut tiltale i saken og om at de kan kreve å gjøre seg kjent med tiltalebeslutningen.
+Påtalemyndigheten fastsetter samtidig en frist for fornærmede og etterlatte med bistandsadvokat for å foreslå supplerende bevisførsel om straffekravet. Avslår påtalemyndigheten å føre beviset, kan spørsmålet bringes inn for retten til avgjørelse.
+Fornærmede og etterlatte i lovbestemt rekkefølge skal på begjæring gis adgang til å gjøre seg kjent med sakens dokumenter såfremt det kan skje uten skade eller fare for en tredjeperson. § 242 første ledd siste punktum og siste ledd gjelder tilsvarende.
+Bistandsadvokaten skal ha kopi av tiltalebeslutningen, av bevisoppgaven og så vidt mulig av sakens dokumenter. Påtalemyndigheten skal også angi når saken bør behandles. Dokumenter som ikke blir sendt til advokaten, skal gjøres tilgjengelig for denne på hensiktsmessig måte. Advokaten skal gis adgang til overfor retten å uttale seg om tidspunkt for hovedforhandlingen i saken.

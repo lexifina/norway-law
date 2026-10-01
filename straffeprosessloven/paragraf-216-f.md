@@ -1,0 +1,3 @@
+# § 216 f
+Tillatelse til kommunikasjonskontroll gis for et bestemt tidsrom, som ikke må være lenger enn strengt nødvendig. Tillatelsen må ikke gis for mer enn 4 uker om gangen. Gjelder mistanken overtredelse av straffeloven kapittel 17, kan tillatelsen likevel gis for inntil 8 uker om gangen dersom etterforskningens art eller andre særlige omstendigheter tilsier at fornyet prøving etter 4 uker vil være uten betydning.
+Kommunikasjonskontrollen skal stanses før utløpet av fristen som er satt i rettens kjennelse, dersom vilkårene for kontroll ikke lenger antas å være til stede, eller dersom kontroll ikke lenger anses hensiktsmessig.

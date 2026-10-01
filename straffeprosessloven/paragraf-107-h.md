@@ -1,0 +1,4 @@
+# § 107 h
+Når det anses hensiktsmessig for gjennomføringen av saken, kan retten oppnevne en eller flere koordinerende bistandsadvokater.
+Koordinerende bistandsadvokat skal, så langt det er mulig, samordne bistandsadvokatenes syn på spørsmål som oppstår under etterforskningen og forberedelsen av hovedforhandlingen og bidra til en hensiktsmessig gjennomføring av saken i samarbeid med øvrige aktører. Dersom det er nødvendig for en hensiktsmessig gjennomføring av saken, kan retten beslutte at spørsmål som den enkelte bistandsadvokat ønsker stilt under etterforskning, bevisopptak og hovedforhandling til andre enn egen klient, jf. § 271 andre ledd andre punktum og § 291 a, skal samordnes og stilles av koordinerende bistandsadvokat.
+Rettens oppnevning av en bestemt koordinerende bistandsadvokat kan ikke ankes eller brukes som ankegrunn.

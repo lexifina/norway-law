@@ -1,0 +1,7 @@
+# § 186 a
+Retten kan ved kjennelse beslutte at den fengslede skal utelukkes fra fellesskap med de andre innsatte (fullstendig isolasjon) når varetektsfengsling er besluttet etter § 184 annet ledd, jf § 171 første ledd nr. 2, og det er nærliggende fare for at den fengslede vil forspille bevis i saken dersom han ikke holdes isolert. Er den siktede under 18 år, kan isolasjon ikke besluttes.
+Retten skal fastsette en bestemt tidsfrist for isolasjonen. Fristen skal være så kort som mulig, og må ikke overstige 2 uker. Den kan forlenges ved kjennelse med inntil 2 uker om gangen. Dersom etterforskningens art eller andre særlige omstendigheter tilsier at fornyet prøving etter 2 uker vil være uten betydning, og den siktede er fylt 18 år, kan fristen forlenges med inntil 4 uker om gangen.
+Den fengslede kan ikke holdes isolert i et sammenhengende tidsrom på mer enn
+a) 6 uker når siktelsen gjelder en straffbar handling som kan medføre straff av fengsel inntil 6 år. Dersom siktelsen gjelder flere straffbare handlinger som samlet kan føre til en straff av mer enn 6 års fengsel, og tungtveiende hensyn gjør det nødvendig, kan den fengslede likevel holdes fortsatt isolert utover 6 uker.
+b) 12 uker når siktelsen gjelder en straffbar handling som kan medføre høyere straff enn fengsel i 6 år. Dersom tungtveiende hensyn gjør det nødvendig, kan den fengslede holdes fortsatt isolert utover 12 uker.
+§ 186 tredje og fjerde ledd gjelder tilsvarende.

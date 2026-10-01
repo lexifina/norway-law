@@ -1,0 +1,4 @@
+# § 107
+Offentlig forsvarer og advokat oppnevnt etter § 100 a skal ha godtgjørelse av staten. Om godtgjørelsen gjelder reglene i § 78 tilsvarende. Er det etter siktedes ønske oppnevnt en forsvarer som ikke er fast antatt ved domstolen eller i rettskretsen, kan Kongen gi nærmere regler om i hvilken utstrekning forsvareren skal få skyss-, kost- og fraværsgodtgjørelse. For saker ved Høyesterett er det retten som bestemmer dette.
+En fast offentlig forsvarer må ikke motta noen godtgjørelse for utførelsen av vervet utover det som retten fastsetter. Annen offentlig forsvarer kan ikke kreve godtgjørelse av siktede for sitt arbeid med mindre denne før forsvareren ble oppnevnt, har samtykket i å betale, og forsvareren har gitt avkall på godtgjørelse av staten.
+Når særlige forhold taler for det, kan retten tilkjenne en privat forsvarer godtgjørelse av staten som om han hadde vært offentlig oppnevnt. Begjæring om dette må være fremsatt innen saken er endelig avgjort.

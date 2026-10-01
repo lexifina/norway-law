@@ -1,0 +1,6 @@
+# § 186
+Den som er pågrepet eller fengslet, har rett til ukontrollert skriftlig og muntlig samkvem med sin offentlige forsvarer.
+For øvrig kan retten, i den utstrekning hensynet til etterforskingen i saken tilsier det, ved kjennelse bestemme at den fengslede ikke skal kunne motta besøk eller sende eller motta brev eller annen sending, eller at besøk eller brevveksling bare kan finne sted under kontroll av politiet. Dette gjelder ikke korrespondanse med og besøk fra offentlig myndighet med mindre det er uttrykkelig fastsatt i kjennelsen. Fengslede under 18 år skal kunne motta besøk av, eller sende eller motta brev fra, nær familie, med mindre det foreligger særlige omstendigheter. Retten kan også bestemme at den fengslede ikke skal ha adgang til aviser eller kringkasting eller at han skal utelukkes fra samvær med bestemte andre innsatte (delvis isolasjon). Retten kan overlate til påtalemyndigheten å bestemme hvilke innsatte den fengslede skal utelukkes fra samvær med.
+Kjennelsen skal angi på hvilken måte etterforskningen vil bli skadelidende om ikke den fengslede blir underlagt forbud eller kontroll etter bestemmelsen her. Det skal også gå frem av kjennelsen at bruken av forbud eller kontroll ikke er et uforholdsmessig inngrep.
+§ 187 a gjelder tilsvarende.
+Ellers gjelder reglene i straffegjennomføringsloven kapittel 4.

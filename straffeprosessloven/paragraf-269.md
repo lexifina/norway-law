@@ -1,0 +1,3 @@
+# § 269
+Når en part i stedet for å innkalle et vitne til muntlig avhør under hovedforhandlingen, vil begjære opplest erklæring fra vitnet eller gjengivelse av dets forklaring avgitt før hovedforhandlingen, skal han sende melding til retten om det. Foreligger det ikke en tidligere rettslig forklaring fra vitnet, skal forklaringen søkes avgitt ved rettslig bevisopptak, såfremt det er mulig og ikke medfører uforholdsmessig ulempe eller utgift.
+Dersom en part bestemmer seg til å bruke andre bevis enn dem som er oppgitt, eller å gi avkall på noen av disse eller å søke bevisene opptatt eller brukt på annen måte enn oppgitt, skal han snarest mulig underrette motparten og retten.

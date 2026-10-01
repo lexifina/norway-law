@@ -1,0 +1,4 @@
+# § 292
+Bevis som mangler beviskraft eller gjelder forhold uten betydning for dommens innhold, kan nektes ført.
+Retten kan også nekte et bevis ført når beviset ikke er nødvendig for å sikre et forsvarlig avgjørelsesgrunnlag i samsvar med § 294 første punktum og dets bidrag til sakens opplysning ikke står i et rimelig forhold til hensynet til effektiv saksavvikling. Gir tiltalte en fullstendig tilståelse, bestemmer retten i hvilken utstrekning ytterligere bevisføring om skyldspørsmålet finner sted.
+Er det begjært anonym vitneførsel, jf. § 130 a eller § 234 a, kan det ikke føres bevis som kan føre til at identiteten til vitnet eller informanten blir kjent. Avslår retten en begjæring om anonym vitneførsel, kan beviset føres bare dersom påtalemyndigheten likevel vil føre vitnet under full identitet, jf. § 130.

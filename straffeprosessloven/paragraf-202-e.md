@@ -1,0 +1,3 @@
+# § 202 e
+Vedvarende eller regelmessig gjentatt skjult kameraovervåking kan rettes mot personer på offentlig sted eller privat sted som er synlig for allmennheten, når det foreligger skjellig grunn til mistanke om en eller flere straffbare handlinger som etter loven kan medføre høyere straff enn fengsel i 6 måneder, og slik overvåking vil være av vesentlig betydning for etterforskningen. Tillatelse gis av retten ved beslutning.
+Dersom det ved opphold er stor fare for at etterforskningen vil lide, kan ordre fra påtalemyndigheten tre istedenfor rettens avgjørelse etter første ledd. Reglene i § 216 d gjelder tilsvarende.

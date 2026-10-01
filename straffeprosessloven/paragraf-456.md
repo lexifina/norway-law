@@ -1,0 +1,4 @@
+# § 456
+Bøter og andre pengekrav som er tilkjent i en offentlig straffesak, innkreves av Innkrevingsmyndigheten med mindre departementet bestemmer annet. Det samme gjelder erstatning og andre pengekrav som er tilkjent en fornærmet eller en annen skadelidt i en offentlig straffesak, dersom den berettigete ønsker det.
+Bot som ikke betales eller lar seg inndrive ved lønnstrekk eller annen tvangsfullbyrding, skal fullbyrdes ved soning av den subsidiære fengselsstraffen når den botlagte har evne til å betale boten eller allmenne hensyn tilsier det. Vedtak om soning treffes av politiet.
+Etter nærmere regler fastsatt av Justisdepartementet kan bøtelagte pålegges å betale renter og gebyr på ubetalte bøter samt eventuelle andre utgifter som påløper ved tvangsinndriving. Tilsvarende regler kan fastsettes for ilagt inndragning. Dom eller forelegg på bot eller inndragning er også tvangsgrunnlag for tilleggskrav etter dette ledd.

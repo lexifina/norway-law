@@ -1,0 +1,4 @@
+# § 210 b
+Når noen med skjellig grunn mistenkes for en handling eller forsøk på en handling som etter loven kan medføre straff av fengsel i 5 år eller mer, eller som rammes av straffeloven §§ 121, 123, 125, 126, 127 jf. 123, eller 130, kan retten ved kjennelse pålegge den som i fremtiden vil få besittelse av en ting som antas å ha betydning som bevis, å utlevere tingen til politiet straks den mottas. Utleveringspålegg kan bare gis overfor noen som plikter å vitne i saken. §§ 196 og 210 første ledd annet punktum gjelder tilsvarende.
+Pålegget gis for et bestemt tidsrom, som ikke må være lenger enn strengt nødvendig. Pålegget må ikke gis for mer enn 4 uker om gangen. § 216 f annet ledd gjelder tilsvarende.
+Bestemmelsen her gjelder ikke for utlevering av kommunikasjonsdata, jf § 216 b annet ledd bokstav d.

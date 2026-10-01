@@ -1,0 +1,2 @@
+# § 228
+Sakkyndig likundersøkelse skal foretas når det er grunn til mistanke om at noens død er voldt ved en straffbar handling. Påtalemyndigheten kan også ellers beslutte at det skal foretas sakkyndig likundersøkelse når dødsårsaken er uviss og særlige forhold krever slik undersøkelse. Kongen gir nærmere forskrifter om sakkyndig likundersøkelse, herunder i hvilke tilfeller slik undersøkelse bør foretas.

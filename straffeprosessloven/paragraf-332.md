@@ -1,0 +1,4 @@
+# § 332
+Ved ankeforhandling som omfatter bevisbedømmelsen under skyldspørsmålet eller avgjørelse om straff eller rettsfølge som nevnt i § 2 første ledd nr. 1 for forbrytelse som etter loven kan medføre fengsel i mer enn 6 år, settes lagmannsretten med to fagdommere og fem meddommere. I vidløftige saker kan rettens leder bestemme at ett eller flere varamedlemmer for meddommerne skal følge forhandlingene og tre inn i retten om noen av meddommerne får forfall. I saker hvor det er behov for det, kan rettens leder beslutte at to av meddommerne skal være fagkyndige. Disse oppnevnes etter reglene i domstolloven § 94.
+Er retten satt med meddommere i saker der bare noen spørsmål skal behandles med meddommere etter første ledd, deltar meddommerne i avgjørelsen av alle spørsmålene sakene omfatter.
+Paragrafen her gjelder ikke for anke over saker som nevnt i straffeloven § 39 annet ledd og § 52 første ledd bokstav a.

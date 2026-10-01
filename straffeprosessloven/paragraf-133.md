@@ -1,0 +1,3 @@
+# § 133
+Vitnene skal forklare seg muntlig. Vitnet oppfordres til så vidt mulig i sammenheng å forklare hva det vet om gjenstanden for bevisførselen. Deretter kan særskilte spørsmål stilles. Vitnet skal anmodes om å oppgi kilden til sin kunnskap. Skal en person eller ting vises fram for et vitne til gjenkjennelse, oppfordres det først til å gi en så nøyaktig beskrivelse som mulig.
+Vitnet kan bruke opptegnelser om tall eller annet til støtte for hukommelsen. Vitnet må opplyse hvem som har gjort opptegnelsene, når det er skjedd og formålet med dem. Erklæring eller fremstilling som er skrevet med saken for øye, kan bare leses opp når forklaringens art krever det.

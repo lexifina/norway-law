@@ -1,0 +1,5 @@
+# § 222 b
+Ved fare for voldsutøvelse som ledd i et gjensidig oppgjør mellom grupper av personer der det på begge sider brukes voldelige midler, kan påtalemyndigheten forby en eller flere personer som tilhører eller har tilknytning til en av gruppene å oppholde seg på en eller flere eiendommer som er tilholdssted for en av gruppene, dersom det på grunn av vedkommendes opphold der er grunn til å frykte at voldsutøvelsen kan føre til skade på personer som bor eller oppholder seg i nærheten av tilholdsstedet. Når særlige grunner taler for det, kan forbudet som nevnt i første punktum også gjelde for en annen bestemt eiendom. § 170 a gjelder tilsvarende.
+Når særlige grunner taler for det, kan et forbud etter første ledd rettes mot enhver som tilhører eller har tilknytning til grupper som nevnt i første ledd. Forbudet kunngjøres ved oppslag.
+Forbudet skal gjelde for en bestemt tid, høyst for ett år av gangen.
+Påtalemyndigheten må snarest råd og så vidt mulig innen fem dager etter beslutningen bringe saken inn for tingretten, som avgjør spørsmålet ved kjennelse. §§ 175 første ledd, 177, 181 annet og tredje ledd, 184 og 187 a gjelder tilsvarende så langt de passer.

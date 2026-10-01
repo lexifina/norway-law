@@ -1,0 +1,4 @@
+# § 147
+Enhver som tjenestegjør som sakkyndig i rettsmedisinske spørsmål, skal straks sende den rettsmedisinske kommisjon avskrift av den skriftlige erklæring som denne gir retten eller påtalemyndigheten. For foreløpige erklæringer som nevnt i § 165 fjerde ledd gjelder dette bare dersom erklæringen skal legges frem i retten. Innsendelsesplikten gjelder også for erklæringer om rettspsykiatriske forhold som er utarbeidet av personer som partene fremstiller for retten etter § 149, dersom erklæringen skal legges frem i retten.
+Såfremt den sakkyndige under hovedforhandlingen gir uttalelser som avviker fra den skriftlige erklæring eller på vesentlige punkter utfyller den, skal han sende kommisjonen et referat av sin muntlige forklaring.
+Kommisjonen skal gjennomgå de innkomne erklæringer og uttalelser. Finner den vesentlige mangler, skal den gjøre retten eller i tilfelle påtalemyndigheten oppmerksom på det.

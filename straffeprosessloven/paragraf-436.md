@@ -1,0 +1,3 @@
+# § 436
+Blir siktede dømt i offentlig sak, bør siktede i regelen pålegges å erstatte staten nødvendige omkostninger ved saken. Særlig bør en siktet som kan bebreides for under forfølgningen å ha opptrådt slik at omkostningene er blitt høyere enn ellers nødvendig, pålegges å erstatte meromkostningene. Saksomkostninger kan også ilegges når en sak etter at hovedforhandling er berammet, blir hevet fordi siktede vedtar et tidligere utferdiget forelegg.
+Når avgjørelsen ved anke eller begjæring om gjenåpning fra siktede går ham imot, gjelder regelen i første ledd tilsvarende. Det samme gjelder når rettsmiddel er brukt av noen som nevnt i § 308.

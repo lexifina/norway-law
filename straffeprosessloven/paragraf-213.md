@@ -1,0 +1,3 @@
+# § 213
+Viser det seg innen saken er endelig avgjort, at det ikke lenger er behov for beslaget, skal dette heves av påtalemyndigheten eller retten. Dersom det er fare for at en gjenstand som er beslaglagt med sikte på inndragning, raskt vil bli ødelagt, kan retten tillate politiet å avhende gjenstanden.
+For øvrig faller beslaget bort når saken er endelig avgjort. Retten kan bestemme at beslag av bevismidler skal opprettholdes også etter at det foreligger rettskraftig dom i saken, såfremt og så lenge det er grunn til å regne med at saken kan bli begjært gjenåpnet eller andre særlige forhold tilsier det.

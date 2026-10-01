@@ -1,0 +1,4 @@
+# § 264 b
+Fremmer påtalemyndigheten krav for fornærmede etter § 427, fastsetter den en frist for fornærmede for å be om endringer i angivelsen av kravet.
+Ellers fastsetter påtalemyndigheten en frist for fornærmede for å fremsette krav etter § 428. Kravet fremsettes for retten. Fornærmede skal angi kravets størrelse, dets faktiske og rettslige grunnlag samt hvilke bevis som vil bli ført. Retten sender kopi av kravet til tiltalte og fastsetter en frist for bemerkninger til kravet. Retten kan nekte at kravet fremsettes etter reglene i § 428 tredje ledd.
+Fristen for å sette frem sivile krav for retten er to uker før hovedforhandlingen, hvis ikke retten fastsetter et annet tidspunkt. Samme frist gjelder for å utvide påstanden til et fremsatt krav, sette frem et nytt faktisk grunnlag for kravet eller tilby nye bevis.

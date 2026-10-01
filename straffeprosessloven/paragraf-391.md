@@ -1,0 +1,7 @@
+# § 391
+Til gunst for siktede kan gjenåpning kreves:
+1) når dommer, lagrettemedlem, protokollfører, tjenestemann i politi eller påtalemyndighet, aktor, forsvarer, sakkyndig eller rettstolk har gjort seg skyldig i straffbart forhold med hensyn til saken, eller et vitne har gitt uriktig forklaring i saken, eller et dokument som er brukt under saken er falsk eller forfalsket, og det ikke kan utelukkes at dette har innvirket på dommen til skade for siktede,
+2) når en internasjonal domstol eller FNs menneskerettskomité i sak mot Norge har funnet at
+a) avgjørelsen er i strid med en folkerettslig regel som Norge er bundet av, og ny behandling må antas å burde føre til en annen avgjørelse, eller
+b) saksbehandlingen som ligger til grunn for avgjørelsen er i strid med en folkerettslig regel som Norge er bundet av, hvis det er grunn til å anta at saksbehandlingsfeilen kan ha innvirket på avgjørelsens innhold, og gjenåpning er nødvendig for å bøte på den skade som feilen har medført.
+3) når det opplyses en ny omstendighet eller skaffes frem et nytt bevis som synes egnet til å føre til frifinnelse eller avvisning eller til anvendelse av en mildere strafferegel eller en vesentlig mildere rettsfølge. I sak hvor det ikke er idømt frihetsstraff, overføring til tvungent psykisk helsevern etter straffeloven § 62, tvungen omsorg etter straffeloven § 63 eller rettighetstap, kan det ikke påberopes nye opplysninger eller bevis som vedkommende burde gjort gjeldende på et tidligere tidspunkt.

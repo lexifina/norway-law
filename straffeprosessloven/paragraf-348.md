@@ -1,0 +1,3 @@
+# § 348
+Er siktede ved den påankede dom dømt for flere straffbare forhold, og bevisbedømmelsen under skyldspørsmålet skal prøves bare for enkelte av disse, skal retten i tilfelle fellende dom fastsette en felles straff for alle de straffbare forholdene. Blir siktede frifunnet, skal retten fastsette ny straff for de forhold hvor domfellelsen blir stående.
+Når siktede ved den påankede dom er dømt for flere forhold, og det ikke er anket over bevisbedømmelsen under skyldspørsmålet, skal retten ved opphevelse eller frifinnelse for enkelte av forholdene fastsette ny straff for de forhold hvor domfellelsen blir stående. Dersom det ikke er anket over straffutmålingen, kan straffen ikke settes høyere enn den samlede straff som var ilagt ved den påankede dom.

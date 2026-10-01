@@ -1,0 +1,3 @@
+# § 13
+Forfølging mot samme person for flere straffbare handlinger eller mot flere personer som medskyldige i samme handling, kan forenes i én sak, såfremt det lar seg gjøre uten vesentlig forsinkelse eller vanske. Tilkommer påtalen forskjellige, kan slik forening skje når de er enige om det. En avgjørelse om å foreta eller unnlate forening av forfølging mot samme person for flere straffbare handlinger kan ikke ankes eller brukes som ankegrunn.
+Med rettens samtykke kan også ellers forfølgingen av flere straffbare handlinger forenes i én sak, likesom forente saker kan skilles når retten bestemmer det eller samtykker.

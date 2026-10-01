@@ -1,0 +1,4 @@
+# § 387
+Når særlige grunner taler for det, kan retten beslutte å holde muntlig forhandling om anken og herunder avhøre parter og vitner eller foreta annen umiddelbar bevisførsel. Rettens beslutning kan ikke ankes eller brukes som ankegrunn. Føring av rettsboken under den muntlige forhandling foregår etter reglene i § 21.
+Holdes muntlig forhandling, skal siktede alltid ha forsvarer når anken berører ham. Retten kan oppnevne prosessfullmektig for en tredjemann som er part i ankesaken etter dette kapittel. For prosessfullmektigen gjelder reglene i kap 9 så langt de passer.
+Når det etter første ledd blir holdt muntlig forhandling i Høyesteretts ankeutvalg eller i Høyesterett etter beslutning etter domstolloven § 5 første eller fjerde ledd, gjelder de samme begrensninger for bevisførselen som følger av § 340 i denne lov.

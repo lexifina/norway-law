@@ -1,0 +1,4 @@
+# § 38
+Retten kan ikke gå utenfor det forhold tiltalen gjelder, men er ubundet av den nærmere beskrivelse med hensyn til tid, sted og andre omstendigheter. Bare når den finner særlig grunn til det, prøver retten om det foreligger omstendigheter som ville bringe forholdet inn under en strengere straffebestemmelse enn etter tiltalen.
+Med hensyn til det straffebud som skal anvendes på forholdet, er retten ikke bundet av tiltalen eller de påstander som er fremsatt. Det samme gjelder med hensyn til straff og andre rettsfølger. Straff eller rettsfølger som nevnt i § 2 nr. 1, kan ikke idømmes i en sak som bare gjelder inndragning.
+Før retten bruker et annet straffebud enn tiltalebeslutningen, eller idømmer en annen rettsfølge eller et større inndragningsansvar enn påstått, skal den gi partene anledning til å uttale seg om spørsmålet. Siktede skal få en passende utsettelse når retten finner det ønskelig for forsvaret.

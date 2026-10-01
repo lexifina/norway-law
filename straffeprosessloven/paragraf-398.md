@@ -1,0 +1,6 @@
+# § 398
+Kommisjonen skal av eget tiltak sørge for at saken er så godt opplyst som mulig før den avgjør om begjæringen skal tas til følge. Avgjørelsen skal forberedes og avgjøres uten ugrunnet opphold. Kommisjonen kan innhente opplysninger på den måten den anser hensiktsmessig, jf. §§ 398 a og 398 b, og avholde muntlige høringer.
+Fornærmede og etterlatte i lovbestemt rekkefølge skal gis anledning til å uttale seg skriftlig om begjæringen. Fornærmede og etterlatte kan be om å forklare seg for kommisjonen etter reglene i § 398 a.
+Dersom kommisjonen under saksforberedelsen innhenter eller mottar opplysninger av betydning for avgjørelsen, skal siktede og påtalemyndigheten gjøres kjent med opplysningene og få uttale seg om dem. Plikten til å informere siktede gjelder likevel ikke for opplysninger som vedkommende ikke har rett til å gjøre seg kjent med etter § 264, jf. § 267.
+Når det er strengt nødvendig for å unngå fare for et alvorlig lovbrudd mot noens liv, helse eller frihet, kan kommisjonen nekte domfelte og forsvareren innsyn i opplysninger. Før avgjørelsen treffes, skal kommisjonen innhente uttalelse fra politiet.
+Om dokumentinnsyn gjelder §§ 28, 242, 242 a, 264, 264 a og 267 tilsvarende. Kommisjonen kan unnta fra innsyn dokumenter som den selv har utarbeidet for sin interne saksforberedelse.

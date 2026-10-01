@@ -1,0 +1,4 @@
+# § 216 c
+Tillatelse til kommunikasjonskontroll kan bare gis dersom det må antas at slik avlytting eller kontroll vil være av vesentlig betydning for å oppklare saken, og at oppklaring ellers i vesentlig grad vil bli vanskeliggjort.
+Dersom den telefon den mistenkte antas å ville bruke er tilgjengelig for et større antall personer, kan tillatelse til kommunikasjonskontroll bare gis når det foreligger særlige grunner. Det samme gjelder ved kontroll av telefon som tilhører advokat, lege, prest eller andre som erfaringsmessig fører samtaler av svært fortrolig art over telefon eller redaktør eller journalist, såfremt vedkommende ikke selv er mistenkt i saken. Første og annet punktum gjelder tilsvarende for andre kommunikasjonsanlegg.
+Kravet om særlige grunner etter annet ledd gjelder ved all identifisering av kommunikasjonsanlegg etter § 216 a tredje ledd annet punktum, men ikke ved identifisering etter § 216 b annet ledd bokstav c.

@@ -1,0 +1,3 @@
+# § 124
+Et vitne kan nekte å svare på spørsmål når det ikke kan svare uten å åpenbare en forretningshemmelighet.
+Retten kan likevel pålegge vitnet å forklare seg når den etter en avveining av de stridende interesser finner det påkrevd. I så fall skal retten pålegge de tilstedeværende taushetsplikt og forbud mot bruk av forretningshemmeligheten som kan utledes av forklaringen. Retten kan bestemme at forklaringen bare skal meddeles den selv og partene i møte for lukkede dører. Forbud og påbud etter annet punktum skal gjelde inntil det i rettskraftig dom eller kjennelse fastslås at opplysningene ikke utgjør forretningshemmeligheter, eller vernet bortfaller som følge av at opplysningene blir allment kjent eller lett tilgjengelig.

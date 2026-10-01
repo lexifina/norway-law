@@ -1,0 +1,3 @@
+# § 130
+Rettens leder spør vitnet om navn, fødselsdato, stilling, bopel og forhold til siktede og fornærmede. Er det særlig grunn til det, spørres vitnet også om andre omstendigheter som kan ha innflytelse på bedømmelsen av forklaringen.
+I stedet for bopel kan vitnet oppgi arbeidssted. Oppgir vitnet arbeidsstedet, kan rettens leder dersom det er behov for det, i tillegg pålegge vitnet å oppgi bopelen skriftlig til retten. Er det fare for at vitnet eller noen som vitnet står i et slikt forhold til som nevnt i § 122, kan bli utsatt for en forbrytelse som krenker livet, helsen eller friheten, eller for vesentlig velferdstap av annen art, kan lederen beslutte at opplysning om bopelen eller arbeidsstedet bare skal opplyses skriftlig til retten.
