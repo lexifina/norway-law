@@ -1,0 +1,3 @@
+# § 8. Beregning av kvote ved utskifting og ombygging
+Ved utskiftning, eller ombygging til større fartøy eller til mindre fartøy, skal fartøyets kvote beregnes etter utskiftningsfartøyets lengde før 5. juni 2003. Ved avgjørelsen legges tidspunktet for innføring i merkeregisteret til grunn. Tidspunktet for utstedelse av identitetsbevis eller målebrev utstedt av Sjøfartsdirektoratet sentralt likestilles med tidspunktet for innføring i merkeregisteret.
+Fiskeridirektoratet kan dispensere fra kravet om at utskiftningen, forlengelsen eller forkortelsen må være registrert i merkeregisteret innen skjæringsdatoen, dersom manglende registrering skyldes forhold på myndighetenes hånd. Fiskeridirektoratets klageenhet er klageinstans.
