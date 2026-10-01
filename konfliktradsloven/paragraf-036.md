@@ -1,0 +1,5 @@
+# § 36. Innholdet i og gjennomføringen av reaksjonen oppfølging i konfliktråd
+Reaksjonen oppfølging i konfliktråd består av gjennomføring av et møte i konfliktrådet, utarbeidelse av en individuelt tilpasset plan og oppfølging av planen. Planen utformes i møtet og skal godkjennes av konfliktrådet og siktede eller domfelte. Konfliktrådet har ansvaret for at planen gjennomføres.
+Hvis den siktede eller domfelte forsettlig eller uaktsomt bryter vilkår fastsatt i planen, generelle pålegg etter § 27 eller øvrige vilkår fastsatt i medhold av loven her, gjelder reglene for håndtering av brudd i § 33 tilsvarende så langt de passer.
+Reglene i §§ 22 e, 27, 30 og 34 gjelder tilsvarende så langt de passer.
+Departementet kan gi forskrift med bestemmelser om innholdet i og gjennomføringen av reaksjonen oppfølging i konfliktråd, herunder nærmere bestemmelser om møter i konfliktrådet, utformingen av og innholdet i en plan, oppfølgingsansvar, forbud mot bruk av rusmidler, ruskontroll og håndtering av brudd. Bestemmelsene skal ikke være mer inngripende overfor siktede eller domfelte enn det som følger av kapittel IV.

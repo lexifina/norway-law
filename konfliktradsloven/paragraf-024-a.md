@@ -1,0 +1,4 @@
+# § 24 a. Gjenopprettende prosess og relasjonsbygging
+Etter at saken er overført fra domstolen eller påtalemyndigheten, skal konfliktrådet straks starte forberedelsene med å legge til rette for gjennomføring av et gjenopprettende møte med fornærmede og for annen gjenopprettende prosess og relasjonsbygging.
+Det gjenopprettende møtet med fornærmede skal fortrinnsvis være mellom ungdommen og dennes verger og fornærmede og dennes verger. I tillegg til én eller flere meklere kan ungdomskoordinatoren delta. Dersom konfliktrådet finner det hensiktsmessig, skal en representant fra politiet delta. Ved ungdomsstraff gjelder tilsvarende også for en representant fra kriminalomsorgen.
+For øvrig gjelder § 11 første ledd, annet ledd og tredje ledd første punktum og § 12 tilsvarende for det gjenopprettende møtet med fornærmede. Tilsvarende gjelder § 11 første ledd, annet ledd og tredje ledd annet punktum og § 12 for annen gjenopprettende prosess under straffegjennomføringen.
