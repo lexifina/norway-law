@@ -1,0 +1,3 @@
+# § 55. Forbud mot sorteringsmaskiner og andre innretninger som kan brukes til utkast av fisk
+Det er forbudt å ha ombord og å nytte innretninger og utstyr som kan brukes til oppmaling og utkast av fisk, og som ikke har en legitim funksjon i forbindelse med fartøyets behandling av fangsten eller som av sikkerhetsmessige grunner er pålagt av Sjøfartsdirektoratet eller annen myndighet.
+Ved fiske etter reker sør for 62° N er det ikke tillatt å ha sollebrett i sollemaskinene som kan brukes til utkast av reker. Det nederste sollebrettet skal ikke ha en større åpning mellom spilene enn 7,5 mm. Sollemaskiner med tilhørende innretninger må ikke være montert slik at frasortert reke kan kastes eller føres tilbake i sjøen.

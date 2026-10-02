@@ -1,0 +1,2 @@
+# § 38. Landing og samføring av samfisket fangst
+Landing av samfisket fangst kan skje ved opptak fra lås i sjøen eller direkte overføring fra not til godkjent førings-/kjøperfartøy. Den samfiskede fangsten kan også tas opp og føres i land av ett eller begge fartøyene i samfiskelaget (samføring). Ved samføring skal samfiskelaget snarest mulig melde fra til Norges Sildesalgslag om tidspunktet for opptak fra lås eller not, kvantumet som skal samføres og landingssted.

@@ -1,0 +1,3 @@
+# § 60. Adgang til å fiske med småmasket flytetrål innenfor 12 nautiske mil fra grunnlinjene
+Fartøy med tillatelse til å fiske norsk vårgytende sild med trål etter forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften) § 2-20, kan fiske norsk vårgytende sild med småmasket flytetrål innenfor 12 nautiske mil fra grunnlinjene.
+Fartøy med loddetråltillatelse etter konsesjonsforskriften § 2-22 og fartøy med adgang til å delta i fisket etter lodde i medhold av deltakerforskriften, kan fiske lodde med småmasket flytetrål innenfor 12 nautiske mil fra grunnlinjene.

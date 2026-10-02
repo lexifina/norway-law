@@ -1,0 +1,12 @@
+# § 31. Begrensninger i bruk av fartøy innenfor fjordlinjene
+Det er forbudt for fartøy på eller over 15 meter største lengde å fiske innenfor fjordlinjene som er angitt i vedlegg 4.
+Forbudet i første ledd gjelder ikke:
+a) Fra N 68° 15,60′ Ø 15° 55,70′ og sørover langs kysten for annet fiske enn etter torsk og etter sei med not
+b) Fiske etter sei med not nord for Kibergsneset mellom N 70° 17,34′ Ø 31° 03,83′ og N 70° 21,70′ Ø 31° 08,66′, i ytre del av Laksefjorden, i ytre del av Porsangerfjorden og i et område innenfor Sørøya mellom N 70° 58,00′ Ø 24° 32,10′ og N 70° 23,50′ Ø 21° 42,48′ med fartøy under 28 meter største lengde. Høstingen må foregå utenfor linjer som er angitt i vedlegg 5. Fartøyet skal være påmeldt hos Fiskeridirektoratet og kan pålegges særskilte krav til rapportering
+c) Fiske med reketrål med fartøy under 19,81 meter største lengde
+d) Fangste kongekrabbe med teiner med fartøy under 21,35 meter største lengde
+e) Fiske etter sild med not i områder sør for N 70° 40,50′ og vest for Ø 20° 00,00′ med fartøy under 21 meter største lengde
+f) Fiske etter sild med not i perioden fra og med 1. september til og med 31. mars i statistikkområde 05, unntatt i Kaldfjorden og Bergsfjorden i Troms slik disse områdene er avgrenset i tredje ledd.
+g) Fiske etter makrell fra og med Troms og sørover med fartøy under 28 meter største lengde, med unntak av i Ofoten øst for en linje mellom N 68° 24,73′ Ø 16° 00,70′ og N 68° 13,49′ Ø 16° 04,70′.
+h) Fiske etter andre fiskeslag enn torsk med andre konvensjonelle redskaper enn snurrevad med fartøy under 21 meter største lengde
+Dersom det er nødvendig av hensyn til praktisk gjennomføring av fisket, og det er vurdert som forsvarlig ut fra biologiske og økosystembaserte betraktninger, kan Fiskeridirektoratet i særlige tilfeller gjøre unntak fra forbudet i første ledd i bestemte fiskerier for bestemte fartøygrupper i bestemte områder for et bestemt tidsrom. Det kan likevel ikke gis adgang til å fiske sild med not med fartøy over 21 meter største lengde eller makrell med fartøy over 28 meter største lengde i Kaldfjorden i Troms innenfor en rett linje mellom posisjon N 69° 49,81′ Ø 018° 39,56′ (Klubbeneset) og N 69° 48,29′ Ø 018° 38,37′ (Røsneset) og Bergsfjorden i Troms innenfor linjer trukket mellom følgende posisjoner: På fjordlinjen ved Ø 017° 12,03′ videre sørvestover langs fjordlinjen til Ø 017° 05,00′ og videre til N 69° 24,811′ Ø 017° 08,420′ (Hellandsneset lykt).
