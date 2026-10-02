@@ -1,0 +1,4 @@
+# § 4. Organiseringen og forpliktelsene til ekspertgruppen
+(1) Kommisjonen har ansvaret for å forvalte og koordinere ekspertgruppen, og sikre at programmets mål blir etterlevd. Dette skal gjøres gjennom utarbeidelse av tidsplaner for aktivitetene, herunder ekspertgruppens møter og innholdet og det spesifikke fokuset for hver av aktivitetene.
+(2) Medlemsstatene skal legge til rette for at medlemmene av ekspertgruppen kan delta i programmets aktiviteter, og samarbeide med Kommisjonen og andre medlemsstater om å organisere og gjennomføre samarbeidsbaserte besøk og stedlige aktiviteter.
+(3) Medlemmene av ekspertgruppen skal på kort varsel være tilgjengelig til å delta i programmets aktiviteter, og overholde taushetsplikten i forhold til det de får kjennskap til i forbindelse med dette arbeidet.
