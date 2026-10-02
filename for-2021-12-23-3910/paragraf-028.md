@@ -1,0 +1,5 @@
+# § 28. Redskapsbegrensning ved fangst av kongekrabbe, snøkrabbe og reker
+Kongekrabbe i kvoteregulert område kan bare fangstes med teiner. Hvert fartøy kan fangste med inntil 30 teiner. I teiner som er satt ut for fangst av kongekrabbe i kvoteregulert område, skal det være minst fire sirkelformede fluktåpninger med minste indre diameter på 150 mm. Fluktåpningene skal være montert i nedre kant av teinens sidepanel, men ikke høyere enn 10 cm fra bunnrammen.
+Ved fangst av kongekrabbe utenfor kvoteregulert område er det forbudt å høste med teiner med fluktåpning.
+Snøkrabbe kan kun fangstes med teiner. Hvert fartøy kan fangste med maksimalt 8 000 teiner.
+Ved fiske etter reker med teiner kan det ikke samtidig innenfor statistikkområde 03-24 i Porsangerfjorden og innenfor statistikkområde 03-05 i Tanafjorden brukes mer enn 250 teiner pr. fartøy og pr. person. Fiskeridirektoratet kan stoppe fiske etter reker med teiner i statistikkområde 03-24 når det i løpet av kalenderåret er beregnet at det er fisket 20 tonn i dette fiskeriet.

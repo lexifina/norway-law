@@ -1,0 +1,5 @@
+# § 19. Maskeutforming og maskestørrelse på garn
+Det er forbudt å ha mer enn fire sider i den enkelte maske. Alle maskens sider skal være like lange.
+Det er forbudt å bruke garn dersom maskestørrelsen er mindre enn fastsatt nedenfor:a.Fiske etter torsk nord for 62° N156 mmb.Fiske etter breiflabb360 mmc.Fiske etter kveite470 mmd.Fiske etter rognkjeks267 mme.Fiske med bunnsatte garn sør for 62° N:126 mmf.Fiske etter torsk, hyse, sei, rødspette, lange, lyr og lysing utenfor 4 nautiske mil fra grunnlinjene i Norges økonomiske sone sør for 62° N og vest for en rett linje gjennom Lindesnes og Hanstholmen fyr:148 mm
+Maskestørrelsen i annet ledd bokstav e gjelder ikke ved fisket etter sild og makrell med bunnsatte sildegarn av multifilament (polyamid) tråd med maskestørrelse mindre enn 64 mm.
+Maskestørrelsen på garn er lik 2 ganger stolpelengden. Stolpelengden er avstanden mellom midten av to påfølgende knuter når tråden er strukket mellom disse midtpunktene. Maskestørrelsen fastsettes normalt som gjennomsnittet på grunnlag av 10 masker. Masker som er ujevne på grunn av reparasjoner og liknende skal ikke regnes med ved fastsettingen av gjennomsnittet.

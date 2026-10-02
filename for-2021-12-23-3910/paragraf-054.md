@@ -1,0 +1,5 @@
+# § 54. Forbud mot avsilingsrist, renner o.a. som kan brukes som sorteringsutstyr for sild, makrell og tobis
+Ved fiske etter sild, makrell og tobis er det ikke tillatt å ha rister i avsilingskassen eller i renner fra avsilingskassen (avsilingsanlegget) som kan brukes som sorteringsutstyr.
+Rister som er nødvendige om bord for avsiling av vann fra fisk (hele avsilingsanlegget) kan ikke ha større åpning mellom spilene enn 10 mm. Ved fiske etter tobis kan ikke åpningen mellom spilene være større enn 5 mm. Spilene må være fastsveiset og ikke stillbare. Avsilingsrister for avsiling av vann fra fisk skal sveises fast til avsilingskassen.
+Dersom det brukes perforerte plater i avsilingskassen kan avsilingshullene ikke være over 10 mm i diameter. Ved fiske etter tobis kan ikke avsilingshullene være over 5 mm i diameter.
+Det er ikke tillatt å ha om bord rister eller utstyr som kan brukes i avsilingsanlegget, med større spileavstand eller hulldiameter enn beskrevet i første ledd. Spiler i utstyr som nevnt må være fastsveiset og ikke stillbare.

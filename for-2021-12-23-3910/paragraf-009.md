@@ -1,0 +1,3 @@
+# § 9. Forsterkningsnett og fiskelås
+Det er tillatt å bruke forsterkningsnett i småmasket trål.
+Ved fiske med snurrevad nord for 62° N er det kun tillatt å bruke fiskelås foran fiskeposen. Ved bruk av forlengelser skal fiskelåsen være innmontert i forkant av forlengelsene. Dersom fiskelåsen er innmontert i en separat diamantmasket nettseksjon, skal denne seksjonen monteres mellom belgen og fiskeposen. Maskevidden i selve fiskelåsen kan være mindre enn 130 mm. Nettseksjonen som fiskelåsen er innmontert i, skal ha minimum den maskevidden som gjelder for det området fisket foregår. Total lengde på nettseksjonen med fiskelås eller der hvor fiskelåsen innmonteres i forlengelsen, skal ikke overstige 4 meter.

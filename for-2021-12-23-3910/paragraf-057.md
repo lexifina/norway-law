@@ -1,0 +1,5 @@
+# § 57. Iverksettelse av reguleringer for å unngå redskapskonflikter og sikre havdeling
+Når det på grunn av store ansamlinger av fartøy eller av andre grunner oppstår fare for redskapskollisjoner, eller når det er behov for å gi fartøy med ulike redskap driftsmuligheter innenfor et område, kan Fiskeridirektoratet eller Kystvakten iverksette midlertidige reguleringer i nærmere avgrensede områder.
+Slike reguleringer kan bare iverksettes når dette kan skje uten at reguleringene i vesentlig grad går ut over andre redskapstyper som allerede er i drift i området. Iverksatte reguleringer kan opprettholdes til fordel for fartøy med faststående redskap selv om fartøyene for en kortere periode har forlatt feltet for landing av fangst, bunkring eller på grunn av vanskelige værforhold mv.
+Melding om vedtak om regulering, fastsetting av forbud eller endring av forbud skal gis minst 12 timer før reguleringen, forbudet eller endringen blir iverksatt.
+Reguleringer iverksatt av Kystvakten skal så snart som mulig stadfestes av Fiskeridirektoratet.

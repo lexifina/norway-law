@@ -1,0 +1,2 @@
+# § 50a. Forbud mot å fiske med snurrevad for å begrense fangst av fisk under minstemål
+I tidsrommet fra og med 1. april til og med 15. juni er det forbudt for fartøy på eller over 15 meter største lengde å fiske med snurrevad innenfor 4 nautiske mil av grunnlinjene avgrenset i vest mot Ø 027° 39,42′ (Kinnarodden) og i øst mot N 70° 21,70′ (Svartnes lykt). Fiskeridirektoratet kan åpne for fiske dersom innblanding av torsk, hyse og sei under minstemål til sammen er under 15 % i antall i de enkelte fangster.
