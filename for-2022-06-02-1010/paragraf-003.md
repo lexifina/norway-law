@@ -1,0 +1,2 @@
+# § 3. Unntak fra kontroll for noen sammensatte produkter
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bz (forordning (EU) 2021/630, som endret ved forordning (EU) 2023/2652 og forordning (EU) 2026/908) om utfyllende regler for europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til visse kategorier av varer unntatt fra offentlig kontroll ved grensekontrollstasjoner og endring av kommisjonsvedtak 2007/275/EF gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
