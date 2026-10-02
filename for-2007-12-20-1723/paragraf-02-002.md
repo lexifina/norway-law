@@ -1,0 +1,3 @@
+# § 2-2. Tilleggsangivelser i ikke-gjeldende enheter
+En størrelse (måleresultat) kan angis i andre enheter enn de som gjelder etter § 2-1 første ledd dersom angivelsen kommer i tillegg til en angivelse av størrelsen i gjeldende enheter. Måleredskaper som er angitt i § 3-1 kan likevel ikke vise størrelser i andre målenheter enn de gjeldende med mindre Justervesenet har fastsatt noe annet i instrumentspesifikk forskrift.
+Angivelser i de gjeldende målenheter skal fremheves. Skriftlige eller trykte tilleggsangivelser i andre enheter må ikke ha større skriftstørrelse enn den skriftlige angivelsen i gjeldende målenheter.

@@ -1,0 +1,3 @@
+# § 4-8. Virkning av gyldig samsvarsvurdering etter EØS-avtalen
+Måleredskaper som tilfredsstiller kravene gitt i eller i medhold av lov om målenheter, måling og normaltid, skal ikke hindres gjort tilgjengelig på markedet og/eller tatt i bruk under henvisning til forhold som er regulert i eller i medhold av lov om målenheter, måling og normaltid.
+Det er ikke tillatt å gjøre måleredskaper som ikke oppfyller kravene i denne forskriften og den instrumentspesifikke forskriften tilgjengelig på markedet, uansett om måleredskapet for øvrig oppfyller kravene i de aktuelle instrumentspesifikke forskriftene.

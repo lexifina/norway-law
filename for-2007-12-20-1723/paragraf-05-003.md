@@ -1,0 +1,2 @@
+# § 5-3. Dokumentene som skal fremlegges ved tilsynet
+Ved tilsynet skal brukeren legge frem samsvarserklæringen eller den nasjonale typegodkjenningen og annen dokumentasjon som Justervesenet krever. Fremlegger ikke brukeren dokumentene, kan Justervesenet fastsette at måleredskapet ikke kan brukes som grunnlag for beregning av et økonomisk oppgjør eller andre formål som er underlagt krav etter kapittel 3.

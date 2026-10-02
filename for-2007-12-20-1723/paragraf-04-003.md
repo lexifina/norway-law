@@ -1,0 +1,2 @@
+# § 4-3. Unntak fra krav om samsvarsvurdering
+Med unntak for ikke-automatiske vekter kan måleredskaper framvises på messer, utstillinger, demonstrasjoner og lignende uten at samsvarsvurdering er gjennomført dersom tydelig merking klart angir at måleredskapet ikke er i samsvar med fastsatte krav og ikke kan gjøres tilgjengelig på markedet eller tas i bruk før det er brakt i samsvar med de kravene som gjelder for det aktuelle måleredskapet.

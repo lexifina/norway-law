@@ -1,0 +1,2 @@
+# § 2-3. SI-grunnenhetene
+Følgende SI-grunnenheter gjelder:Tabell 1. SI-grunnenheteneStørrelseGrunnenhetNavnSymbolLengdemetermMassekilogramkgTidsekundsElektrisk strømampereATermodynamisk temperaturkelvinKStoffmengdemolmolLysstyrkecandelacd
