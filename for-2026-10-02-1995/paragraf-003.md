@@ -1,0 +1,5 @@
+# § 3. Etableringen av ekspertgruppen, medlemsskap og fratredelse
+(1) Ekspertgruppen for importkontrollen skal være programmets operative organ.
+(2) De kompetente myndighetene i medlemsstatene skal sende Kommisjonen lister over nasjonale eksperter som er kandidater til ekspertgruppen. Kommisjonen skal vurdere forslagene og utpeke medlemmene av ekspertgruppen på grunnlag av deres kvalifikasjoner og erfaring innen de relevante fagområdene.
+(3) De nasjonale ekspertene skal være tjenestemenn eller ansatte ved medlemsstatenes kompetente myndigheter med ansvar for offentlig kontroll av og annen offentlig virksomhet i forbindelse med dyr og næringsmidler som innføres til unionen ved grensekontrollstasjoner, og de skal ha den nødvendige ekspertisen innen offentlig kontroll og annen offentlig virksomhet, særlig på områdene dyrehelse, plantehelse eller næringsmiddeltrygghet.
+(4) Medlemskap i ekspertgruppen kan avsluttes av Kommisjonen hvis eksperten ikke lenger oppfyller kravene, eksperten ikke overholder sine forpliktelser etter § 4 (3), eller eksperten ønsker å fratre ekspertgruppen.

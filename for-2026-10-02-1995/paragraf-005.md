@@ -1,0 +1,3 @@
+# § 5. Godtgjørelse, og reise- og oppholdsutgifter
+(1) Medlemmene av ekspertgruppen skal ha rett til godtgjørelse for sin deltakelse i programmets aktiviteter, herunder ekspertgruppens møter, som fastsatt i vedlegget. Medlemmene av ekspertgruppen skal være ulønnede eksperter i henhold til artikkel 243 i europaparlaments- og rådsforordning (EU, Euratom) 2024/2509. Godtgjørelsen kan justeres av Kommisjonen.
+(2) Reise- og oppholdsutgifter for medlemmene av ekspertgruppen i forbindelse med deltakelsen i programmets aktiviteter, herunder ekspertgruppens møter, skal refunderes av Kommisjonen i samsvar Kommisjonens egne regler. Disse utgiftene skal refunderes innenfor rammen av de bevilgningene som tildeles Kommisjonens kontorer ved den årlige budsjettbehandlingen.
