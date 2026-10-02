@@ -1,0 +1,5 @@
+# § 2-10. Bruk av enhetssymboler i skrift og trykk
+I trykk settes enhetssymboler med rett (vertikal) skrift uavhengig av hvilken skrifttype som er brukt i den øvrige tekst. Enhetssymboler skrives uten flertallsendelse og uten etterfølgende punktum. Verdien av en størrelse skrives med avstand mellom måltall og enhet.
+Navn og symboler for enheter skrives med små bokstaver, men er enheten basert på et personnavn, skrives første bokstav i symbolet med stor bokstav. Symbolet for enheten for volum (liter) kan likevel skrives med stor bokstav.
+Når en avledet enhet er kvotient mellom enheter og denne skal skrives ut i et datasystem med begrenset utvalg av skrifttegn, skal kvotienten angis ved å skille teller og nevner med en skråbrøkstrek (/), eller ved å angi nevneren med negativ eksponent, f.eks. m/s eller ms-1 for meter per sekund.
+Et prefiks skrives uten mellomrom foran et enhetssymbol. Prefikset velges slik at det gir praktiske verdier av måltallene. Det er vanlig å velge prefiks som gir måltall mellom 0,1 og 1 000.

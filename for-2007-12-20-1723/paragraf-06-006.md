@@ -1,0 +1,4 @@
+# § 6-6. Gebyr ved funn av brudd på regelverket (avviksgebyr)
+Avdekker et tilsyn brudd på kravene i eller med hjemmel i lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid som brukeren kan lastes for, skal brukeren betale gebyr for
+a) målinger i forbindelse med fremstilling av ferdigpakninger i fiskemottak og vekter i fiskemottak med kr 7 130 per pakkelinje og per måleredskap
+b) taksametre, vekter i dagligvarebutikker, vekter i post i butikk, mellomstore vekter og tungvekter, målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann på bensinstasjoner, store målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann på bensinstasjoner, store målesystem for kontinuerlig og dynamisk måling av andre væsker enn vann og andre måleredskaper og målinger med kr 3 760 per måleredskap.

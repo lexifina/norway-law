@@ -1,0 +1,2 @@
+# § 5-8. Retting og midlertidig brukstillatelse
+Dersom måleredskapet ikke tilfredsstiller fastsatte krav, kan Justervesenet fastsette en frist for retting, jf. lov om målenheter, måling og normaltid § 26. Måleredskapet kan midlertidig brukes frem til denne fristen. For å kunne bruke måleredskapet etter fristens utløp, må feilen være rettet og melding om retting være sendt til Justervesenet innen fristen.

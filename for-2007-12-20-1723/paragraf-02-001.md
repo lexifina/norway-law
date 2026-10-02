@@ -1,0 +1,3 @@
+# § 2-1. Bruk av målenheter
+Det er ikke tillatt å bruke andre målenheter enn de gjeldende målenheter som er angitt i forskriften med mindre det er gjort unntak i kapitlet her. Gjeldende målenheter er fastsatt i samsvar med det internasjonale systemet for målenheter (SI-systemet). Definisjonene av SI-enhetene er i samsvar med definisjonene fastsatt av Generalkonferansen for mål og vekt (CGPM). I tillegg til SI-enhetene gjelder enkelte målenheter som er definert uavhengig av SI-systemet.
+Det er likevel tillatt å bruke andre enheter innenfor sjøfart, luftfart og jernbanetrafikk dersom slike enheter er fastsatt i internasjonale konvensjoner eller avtaler som Norge er forpliktet til å følge.
