@@ -1,0 +1,4 @@
+# § 17-1. Forholdet til gamle og nye bestemmelser
+(1) Når det ved endring i denne forskrift iverksettes nye og strengere bestemmelser, skal tidligere bestemmelser på området fortsette å gjelde for bil og tilhenger til bil som allerede er godkjent og registrert samt for deler/utstyr som er tatt i bruk eller omsatt, med mindre noe annet er spesielt fastsatt.
+(2) Når det i denne forskrift er fastsatt at en bestemmelse trer i kraft en viss dato, skal dette ikke være til hinder for at bestemmelsen følges straks, med mindre noe annet fremgår av sammenhengen.
+(3) Når det i denne forskrift og vedlegg til den er fastsatt tekniske krav i en EU-rettsakt eller et FN-regulativ, skal det ikke være til hinder for at senere endringer av disse kan godtas dersom det gir en like god eller bedre trafikksikkerhets- eller miljøstandard og ikke annet er fastsatt i forskriften.

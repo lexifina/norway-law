@@ -1,0 +1,2 @@
+# § 2-6. Fremstilling for ny godkjenning
+Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endring av kjøretøyet som gjør at det ikke lenger er i samsvar med opplysninger i vognkortet, eller følger av de enkelte bestemmelser i denne forskrift. Det samme gjelder andre endringer av kjøretøyet som har betydning for kjøretøyets miljø-, trafikksikkerhets- eller brannsikkerhetsegenskaper.

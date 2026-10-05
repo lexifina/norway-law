@@ -1,0 +1,7 @@
+# § 3-2. Nasjonal typegodkjenning av småserier
+(1) Bil og tilhenger til bil produsert i små serier kan framstilles for nasjonal typegodkjenning jf. forordning (EU) 2018/858 artikkel 42. Høyeste produksjonsantall i Norge settes til det maksimale som følger av forordningen vedlegg V, del A, punkt 2. Godkjenningsformen kan også benyttes for etappevis typegodkjenning. Alternative krav kan bare benyttes ved godkjenningen der slike er fastsatt i kapittel 9.
+(2) Overensstemmelse med kravene skal prøves og dokumenteres som fastsatt i de enkelte rettsakter for EU-typegodkjenning, likevel slik at det tillates at slik prøving og dokumentasjon kan utstedes av teknisk prøveinstans utpekt av andre EØS-land enn Norge.
+(3) Dokumentasjon kan også utstedes av fabrikant dersom denne kan utføre de nødvendige prøver mv. som rettsaktene krever. Underlagsmateriale skal i så fall vedlegges søknaden. Godkjenningsmyndigheten gir nærmere retningslinjer for prøving og utstedelse av slik dokumentasjon. § 2-3 femte ledd gjelder tilsvarende for fabrikant som utsteder feil opplysninger.
+(4) Godkjenningsmyndigheten kan kreve underlagsmateriale for dokumentasjonen som legges frem av søkeren. Myndigheten kan videre kreve underlagsmateriale for dokumentasjonen som er utstedt av teknisk prøveinstans.
+(5) Fabrikantens forpliktelser ved EU-typegodkjenning får tilsvarende anvendelse.
+(6) Prosedyrene for retting, endring, vurdering av produksjonsoverensstemmelse, tilbaketrekking og opphør av EU-typegodkjenninger gjelder så langt de passer.

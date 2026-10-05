@@ -1,0 +1,4 @@
+# § 4-6. Fabrikantens forpliktelser knyttet til anvendelsen av typegodkjente komponenter eller separate tekniske enheter
+Dersom en komponent eller separat teknisk enhet er typegodkjent etter vilkårene beskrevet i forordning (EU) 2018/858 artikkel 29 nr. 3, eller med samme vilkår relatert til en typegodkjenning utstedt i henhold til 1958-avtalen for FN-regulativ, eller direktiv 2007/46/EF artikkel 10, gjelder følgende ved nasjonal enkeltgodkjenning av det komplette og ferdigbygde kjøretøyet:
+a) Fabrikanten skal overfor godkjenningsmyndigheten kunne dokumentere og synliggjøre hvilke begrensninger og vilkår som gjelder for de typegodkjente komponentene eller separate tekniske enhetene som er benyttet.
+b) Fabrikanten skal overfor godkjenningsmyndigheten kunne dokumentere at begrensningene og vilkårene for komponenten eller den separate tekniske enheten jf. bokstav a) fortsatt er ivaretatt for det ferdigbygde kjøretøyet.

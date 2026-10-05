@@ -1,0 +1,4 @@
+# § 6-1. Ambulanse
+(1) Denne bestemmelsen gjelder for kjøretøy som definert i § 1-5 første ledd. For Forsvarets og Sivilforsvarets ambulansebiler som ikke brukes i den sivile beredskapstjenesten, gjelder ikke kravene i denne paragrafens tredje og fjerde ledd samt § 12-1, men likevel slik at øvrige paragrafer i kapittel 12 gjelder.
+(2) I tillegg til kravene som stilles ved godkjenning etter kapitlene 2-5, må ambulanse som skal godkjennes etter forskrift 18. januar 2002 nr. 55 om godkjenning og registrering av utrykningskjøretøy oppfylle tekniske krav som følger av kapittel 12.
+(3) Ved godkjenning skal det fremlegges dokumentasjon fra kompetent, uavhengig laboratorium eller fra produsent av bilen eller produsent av ombyggingen til ambulansebil om at kravene i kapittel 12 er oppfylt. Dokumentasjon for at kravene i § 12-1 første ledd er oppfylt skal imidlertid komme fra kompetent, uavhengig laboratorium.

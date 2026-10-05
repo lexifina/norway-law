@@ -1,0 +1,11 @@
+# § 7-5. Ombygging av kjøretøy
+(1) Når et kjøretøy ombygges til annen kjøretøygruppe, skal kjøretøyet tilfredsstille de krav som gjelder for den nye gruppen. Dog kan kjøretøy som har vært registrert i Norge i minst 3 år, ombygges til annen kjøretøygruppe uten at kjøretøyet kreves å oppfylle de krav til støy, avgass, bremser og kollisjonsegenskaper som gjelder for den nye gruppen.
+(2) Med mindre annet fremgår, og bortsett fra unntaket i første ledd, skal de kravene gjelde som gjaldt på det tidspunktet kjøretøyet ble registrert første gang eller tatt i bruk uten registreringsplikt i Norge.
+(3) Når et kjøretøy ombygges til annen kjøretøygruppe, skal, med mindre annet fremgår, de definisjoner og klassifiseringsregler gjelde som gjelder på tidspunktet for omregistreringen. For kjøretøy som ikke er registreringspliktig (når ombyggingen er foretatt), gjelder tilsvarende, dog slik at tidspunktet for avsluttet ombygging er avgjørende.
+(4) Kjøretøy skal framstilles for godkjenningsmyndigheten til ny godkjenning dersom det foretas ombygging eller endring av kjøretøyet som gjør at det ikke lenger er i samsvar med vognkortet. Det samme gjelder andre ombygginger eller endringer av kjøretøy som har betydning for kjøretøyets miljø-, trafikksikkerhets- eller brannsikkerhetsegenskaper.
+(5) Kjøretøy anses som ombygd bl.a. når:
+a) personbil (M1) ominnredes til varebil (N1), og omvendt.
+b) karosseri til kjøretøy med chassisramme (ikke selvbærende karosseri) skiftes ut med karosseri av samme eller tilnærmet samme type, f.eks. 4-dørs til 2-dørs, og det ikke foretas omfattende ombygging eller utskifting av deler og komponenter for øvrig. Det forutsettes at karosseriet det skiftes til passer rett på rammen, uten modifikasjon av festepunkter og lignende.
+c) det monteres ekstra aksel, og det ikke foretas omfattende utskifting av deler og komponenter for øvrig.
+d) det på elektrisk drevet motorvogn foretas endring av batterikjemi eller bytting til batteri med lavere eller høyere spenning enn originalt.
+(6) Ved ombygging som innebærer at kjøretøyet faller inn under definisjonen for annen kjøretøygruppe, skal kjøretøyet registreres/omregistreres til den gruppe som kjøretøyet i ombygd utførelse hører inn under.
