@@ -1,0 +1,23 @@
+# § 6-8. Bevaringsverdige kjøretøy
+(1) Bestemmelsene i denne paragraf gjelder for:
+a) kjøretøy som tidligere ikke har vært registrert i Norge,
+b) kjøretøy som er ordinært registrert i Norge, og som ønskes tilbakebygd til original utførelse,
+c) kjøretøy som er registrert på unntaksbestemmelsene for bevaringsverdig motorvogn, men som etter gjeldende bestemmelser kunne vært ordinært registrert,
+d) kjøretøy som tidligere har vært registrert på Forsvaret.
+(2) Definisjoner
+a) Med «original utførelse» menes den utførelse kjøretøyet hadde fra fabrikantens side, med eventuelle endringer som på det tidspunkt var nødvendig for registrering i Norge, samt eventuelle endringer som følge av tekniske bestemmelser som er gjort tilbakevirkende.
+b) Med «tilnærmet original utførelse» menes at kjøretøyet ikke med hensikt skal være vesentlig endret, hverken teknisk eller utseendemessig utvendig eller innvendig, uansett om hensikten har vært å følge en mote eller å gjøre kjøretøyet mer trafikksikkert. Unntatt herfra er tidstypiske modifikasjoner og ombygninger for spesielle formål der det kan dokumenteres at disse ble foretatt og godkjent i den periode da kjøretøyet var i vanlig bruk.
+(3) Kjøretøy som er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelsen selv om det ikke oppfyller betingelsene i kapittel 5. Innretning/utstyr som har betydning for sikkerheten, må virke tilfredsstillende. Kjøretøy i denne gruppen omfattes ikke av senere tekniske bestemmelser som er gjort tilbakevirkende.
+(4) Kjøretøy som er 15 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), men yngre enn 30 år, og er i tilnærmet original utførelse, kan godtas som bevaringsverdig og godkjennes i denne utførelse selv om det ikke oppfyller betingelsene i kapittel 5, såfremt det er av spesiell interesse. «Spesiell interesse» vil i denne forbindelse vanligvis avhenge av alder og sjeldenhet (i Norge), slik at det til et 15 år gammelt kjøretøy stilles meget strenge krav til sjeldenhet. Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
+(5) Kjøretøy som er yngre enn 15 år og er i tilnærmet original stand, kan i helt spesielle tilfelle godtas som bevaringsverdig og godkjennes selv om det ikke oppfyller betingelsene i kapitlene 2-5. Kjøretøy i denne gruppen omfattes av senere tekniske bestemmelser som er gjort tilbakevirkende.
+(6) Kjøretøy som er godkjent etter tredje, fjerde eller femte ledd, skal ha følgende registreringsvilkår:
+a) Bevaringsverdig kjøretøy. Må ikke endres konstruktivt eller utseendemessig.
+(7) Kjøretøy som er godkjent etter tredje eller fjerde ledd, skal i tillegg ha følgende bruksvilkår:
+a) Må bare benyttes
+i) ved spesielle anledninger som f.eks. motorhistoriske samlinger og løp
+ii. ellers leilighetsvis når bruken ikke er til unødig fare eller ulempe for annen trafikk.
+(8) Ved deltagelse i motorhistoriske samlinger og løp, men ikke kjøring til eller fra, kan kjøretøy, som et unntak fra annet ledd, ha den utførelse det hadde fra fabrikantens side.
+(9) Hvis kjøretøy som er godkjent etter ovenstående unntak for bevaringsverdige kjøretøy, endres konstruktivt eller utseendemessig etter registreringen, omfattes det ikke lenger av disse unntaksbestemmelsene. Kjøretøyet må da fremstilles for ny godkjenning og kravene i kapittel 4 eller 5 må tilfredsstilles.
+(10) Kjøretøy som er ordinært registrert i Norge, og er i, eller tilbakebygges til, original utførelse kan gis status som bevaringsverdig kjøretøy og pålegges de aktuelle restriksjoner med hensyn til endring og bruk. Kjøretøy som etter tilbakebygging ikke oppfyller betingelsene i kapitlene 2-5 skal gis slik status og restriksjoner.
+(11) Kjøretøy som er registrert etter unntaksbestemmelsene for bevaringsverdig kjøretøy, men som etter gjeldende bestemmelser kunne vært ordinært registrert, kan registreres ordinært og eventuelle restriksjoner strykes.
+(12) Militærtaktiske kjøretøy som tidligere har vært registrert på Forsvaret, må, for å kunne registreres ordinært, tilfredsstille de ordinære kravene som gjaldt da kjøretøyene ble registrert første gang på Forsvaret, pluss eventuelle senere tekniske bestemmelser som er gjort tilbakevirkende. Kjøretøy kan om ønskelig beholdes i original militær stand mot at det gis status som bevaringsverdig kjøretøy. Det skal da ha påtegningen i sjette ledd ovenfor i vognkortet pluss hele eller første del av påtegningen i syvende ledd ovenfor. Dette avgjøres av godkjenningsmyndigheten etter vurdering av om kjøretøyet kan bevege seg sammen med øvrig trafikk med rimelig sikkerhet.

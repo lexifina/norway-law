@@ -1,0 +1,7 @@
+# § 14-10. Taklykt for drosje
+(1) Drosje skal ha svakt lysende taklykt som foran og bak har påskriften «TAXI» og et løyvenummer.
+(2) Lyktens kuppel skal være av materiale som avgir hvitt lys og bevillingsnummeret skal være i sorte typer med høyde min. 40 mm. Påskriften «TAXI» kan integreres i selskapets logo og fargen samt geometrisk utforming for både «TAXI» og logo er valgfri, likeledes typenes størrelse. Logoen tillates å dekke inntil 40 % av flateinnholdet av flaten den monteres på. Lykten skal ikke være større enn 400 mm lang, 200 mm høy og 150 mm bred.
+(3) Lykten skal være plassert utvendig på bilens tak, symmetrisk på bilens midtlinje i lengderetningen, slik at hele lykten er synlig forfra og bakfra fra 20 meters avstand fra bilen i en synshøyde på 150 cm over bakken. Ytterligere én lykt kan benyttes dersom dette er nødvendig for å oppfylle synlighetskravet. Lykten må være så godt festet til kjøretøyet at den ikke kan falle av, magnetisk festeanordning kan godtas.
+(4) Lykten skal være koplet slik at den kan tennes selv om bilens øvrige lys ikke er tent og slik at følgende er oppfylt:
+a) På drosjer med taksameter skal lykten være sammenkoblet med taksameteret på en slik måte at den bare kan lyse når taksameteret er slått av.
+b) På andre drosjer skal lykten være koplet over egen bryter og sammenkoplet med kontrollampe som er godt synlig fra førerens plass og som viser når lykten lyser.

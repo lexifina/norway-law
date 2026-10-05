@@ -1,0 +1,5 @@
+# § 10-6. Avansert nødbremsesystem (AEBS) for kjøretøy i gruppe M2, M3, N2 og N3
+(1) I tillegg til kjøretøy som er unntatt etter forordning (EU) nr. 347/2012 artikkel 1, unntas følgende kjøretøy kravet til AEBS ettersom det er forutsatt at bruksområdet medfører at systemet gir begrenset eller ingen sikkerhetsgevinst:
+a) Skogs- og anleggskjøretøy,
+b) Kjøretøy som utfører spesielle funksjoner, blant annet betongbil, bergingsbil, brannbil, tømmerbil, lastebil med tipp, kjøretøy for rengjøring, gatefeiing og transport av avfall.
+(2) Andre kjøretøy som utfører spesielle funksjoner kan unntas fra kravet om montering av AEBS dersom bruksområdet medfører at systemet gir begrensede eller ingen sikkerhetsgevinster.

@@ -1,0 +1,4 @@
+# § 7-2. Krav om dokumentasjon for endrede kjøretøy
+(1) For kjøretøy som repareres/ombygges/oppbygges slik at vitale deler på kjøretøyet – ramme, karosseri, bremser, lysutstyr, styring, motor, fjærer, støtdempere, felger, dekk osv. – avviker fra den utførelsen som er foreskrevet eller tillatt av kjøretøyfabrikanten og/eller fra den utførelse som kjøretøyet hadde ved første gangs registrering i riket, skal det fremlegges dokumentasjon for at de benyttede deler er egnet og at kjøretøyet etter reparasjonen/ombyggingen/oppbyggingen har tilfredsstillende kjøreegenskaper og vil tåle de påkjenninger det kan regnes med å bli utsatt for.
+(2) Dokumentasjonen kan være utstedt av teknisk prøveinstans, kjøretøyfabrikanten eller kompetent, uavhengig laboratorium.
+(3) Slik dokumentasjon kreves ikke dersom kjøretøyet på de aktuelle punkter med rimelighet kan kontrolleres av godkjenningsmyndigheten.

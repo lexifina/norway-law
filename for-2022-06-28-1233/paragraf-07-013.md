@@ -1,0 +1,2 @@
+# § 7-13. Miljøkrav for ombygd bil 30 år eller eldre
+Ved ombygging av bil som er 30 år eller eldre fritas denne fra krav om å gjennomføre kjøresyklus for avgasstesting. Ved ombygging skal de brukskrav til utslipp som gjaldt på tidspunkt for første gangs registrering i Norge tilfredsstilles. Bil skal være utstyrt med utslippsreduserende komponenter i samsvar med de krav som bilen er godkjent etter ved første gangs registrering i Norge.

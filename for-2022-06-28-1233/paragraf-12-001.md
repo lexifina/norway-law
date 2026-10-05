@@ -1,0 +1,11 @@
+# § 12-1. Ambulanse
+(1) Alt utstyr i bårerom, herunder båre, skal kunne innfestes eller innplasseres i kjøretøyet på en forsvarlig måte. Båre skal være utstyrt slik at liggende pasient kan fastholdes til båren på en forsvarlig måte. Disse kravene anses oppfylt hvis kravene i europeisk ambulansestandard NS-EN-1789, pkt. 4.5.9 og 5.3, er oppfylt.
+(2) Det skal være montert beskyttelsesvegg mellom fører- og bårerom. Denne skal tilfredsstille kravene i tredje ledd eller følgende krav:
+a) Veggen skal dekke hele rommets bredde og høyde,
+b) Hvis veggen er utstyrt med dør som kan bli stående i åpen stilling, skal denne lukkes automatisk, uten å kunne gli opp, når kjøretøyet er i bevegelse,
+c) Veggen skal være utstyrt med ett eller to vinduer, plassert minst 100 mm fra hverandre. Hvert vindu skal ha et areal på maksimalt 0,12 m2. Vindu skal være utført i materiale som tilfredsstiller kravene i direktiv 92/22/EØF eller amerikansk standard AS4 eller AS5. Ett av vinduene skal kunne åpnes fra begge sider. Vindu skal være utstyrt med justerbar avskjerming, som hindrer at lys fra bårerom kan sjenere fører.
+(3) Beskyttelsesvegg som er i henhold til europeisk ambulansestandard NS-EN-1789 punkt 4.4.4 anses å oppfylle kravene i annet ledd bokstav a–c.
+(4) Beskyttelsesvegg, unntatt vindu, skal være forsvarlig polstret på flaten som vender mot bårerommet, i hele bredden og i høyden minimum fra bårens overside under båremadrass og opp til tak.
+(5) Beskyttelsesvegg, unntatt vindu, skal ha slik styrke at den gjennom et prøvelegeme kan påføres en kraft som tilsvarer 7,5 kN uten at det oppstår brudd, og uten at den varige deformasjonen overstiger 100 mm. Prøvelegemet skal være kvadratisk med sidekanter 50 mm, og eventuell avrunding av kantene skal ha radius høyst 5 mm. Kraften skal virke fremover parallelt med bilens lengderetning.
+(6) Alt bygge- og isoleringsmateriale i bårerom skal ha en forbrenningshastighet som ikke overstiger 100 mm/min., testet etter ISO standard 3795 eller forbrenningsegenskaper som tilfredsstiller direktiv 95/28/EF. Materiale med forbrenningsegenskaper som tilfredsstiller NS-EN-1789 punkt 4.4.1 anses å oppfylle disse kravene.
+(7) Baklys og nødsignallys bak på kjøretøyet skal tilfredsstille krav til synlighet i FN-regulativ nr. 48 for minimum ett lyktepar for hver funksjon når bakluke/bakdører står i åpen stilling.

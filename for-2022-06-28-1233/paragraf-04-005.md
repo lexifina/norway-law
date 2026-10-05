@@ -1,0 +1,6 @@
+# § 4-5. Fabrikantens generelle forpliktelser ved nasjonal godkjenning
+(1) Ved nasjonal godkjenning av kjøretøy gjelder fabrikantens forpliktelser som følger av forordning (EU) 2018/858 med de tillegg eller begrensninger som fremgår av denne forskrift med vedlegg. Tilsvarende gjelder for fabrikantens representanter, importører og distributører.
+(2) Fabrikanten skal sikre at det ferdigbygde og komplette kjøretøyet som søkes godkjent, herunder alle benyttede systemer, komponenter og separate tekniske enheter, er produsert eller godkjent i samsvar med forskriftens krav og bestemmelser.
+(3) Fabrikanten har plikt til å gi godkjenningsmyndigheten de opplysningene som kreves i forbindelse med godkjenning. Dersom en annen søker på vegne av fabrikanten, plikter fabrikanten å oversende alle relevante opplysninger og dokumentasjon til ansvarlig søker, jf. § 2-3 annet ledd.
+(4) Fabrikanten er ansvarlig for å sikre produksjonssamsvar. Fabrikanten er ansvarlig for at essensielle sammenføyinger og forbindelser som er benyttet, særlig når det gjelder ramme, karosseri og drivverk, er i tråd med kravene § 2-4 første ledd.
+(5) Fabrikanten skal sikre at kjøretøyet er designet, konstruert og sammenføyd for å minimere risiko for skade på sjåfører og myke trafikanter.
