@@ -1,0 +1,3 @@
+# § 1. Forbud mot omlasting av makrell (Scomber scombrus) og å gi forsynings- og støttetjenester til fartøy
+Det er forbudt å foreta omlasting i farvann under norsk jurisdiksjon av arten makrell (Scomber scombrus) høstet i ICES' statistikkområder 1, 2, 5, 6, 12 og 14 utenfor noen stats jurisdiksjon (internasjonalt farvann), som overstiger avsetningen på 1495 tonn til fartøy som fører russisk flagg til fiske i internasjonalt farvann. For norske fartøy er det også forbudt å motta slik fangst gjennom omlasting av makrell i områder utenfor norsk jurisdiksjon.
+Det er forbudt for norske fartøy å gi forsynings- og støttetjenester i internasjonalt farvann til fartøy med slik makrell om bord.
