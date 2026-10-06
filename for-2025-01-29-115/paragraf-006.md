@@ -1,0 +1,3 @@
+# § 6. Krav til håndtering av husdyrgjødsel ved utendørs dyrehold
+For å hindre avrenning skal man ved utendørs husdyrhold unngå at husdyrgjødsel samler seg opp på samme sted over lengre tid. Innretninger hvor dyr og husdyrgjødsel samler seg, slik som luftegård, utegård, fôrings-, drikke- og hvileplasser, skal plasseres i tilstrekkelig avstand fra vannforekomster, dreneringssystem mv. til at det ikke medfører fare for forurensning. Innretningene skal plasseres og håndteres slik at avrenning begrenses.
+Husdyrgjødsel som samler seg i luftegårder, utegårder og på permanente fôrings-, drikke- og hvileplasser skal fjernes minst én gang i vekstsesongen og én gang om høsten.

@@ -1,0 +1,3 @@
+# § 25. Særlige bestemmelser om bruk av gjødselvarer på dyrket jord ut fra tungmetallinnhold
+Det kan ikke brukes gjødselvarer i tungmetallklasse I, II og III eller med fosforbaserte grenseverdier for tungmetallinnhold på jordbruksareal dersom tungmetallinnholdet i jorda overskrider følgende verdier:Milligram per kilogram tørrstoffKadmium1Bly60Kvikksølv1Nikkel50Sink150Kobber50Krom100
+Jordbruksforetaket skal sørge for at det utføres tungmetallanalyser av jorda med nødvendig hyppighet dersom det er risiko for at tungmetallgrensene angitt i første ledd overskrides på grunn av geologiske forhold eller andre forhold, som for eksempel intensiv bruk av husdyrgjødsel over flere år.

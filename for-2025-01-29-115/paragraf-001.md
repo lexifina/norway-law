@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne forskriften er å legge til rette for at gjødselvarer kan utnyttes som en ressurs samtidig som forurensningsmessige, helsemessige og hygieniske ulemper ved lagring og bruk forebygges. Forskriften skal legge til rette for god avling og god utnytting av næringsstoffer i gjødselvarer og jordsmonn, og begrense tap av næringsstoffer til vassdrag og luft. Forskriften skal bidra til en miljøforsvarlig forvaltning av jordsmonnet og ivareta hensynet til biologisk mangfold.

@@ -1,0 +1,2 @@
+# § 10. Krav til håndtering av næringsholdig væskeoverskudd fra innendørs husdyrhold og veksthus
+Veksthus og driftsbygninger for husdyrhold som oppføres eller bygges om, skal etableres med oppsamling av vaskevann og annet næringsholdig væskeoverskudd slik at det ikke medfører fare for forurensning. Dette gjelder likevel ikke driftsbygninger for innendørs drift på talle, hvor oppsamling av gjødsel skjer med strø.

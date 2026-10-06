@@ -1,0 +1,10 @@
+# § 31. Myndighet til å gi forskrift og fatte enkeltvedtak
+Statsforvalteren kan gi forskrift eller fatte enkeltvedtak om:
+a) Ytterligere krav til skjerming mot nedbør eller krav om annen plassering av gjødselvaren enn det som følger av § 8 dersom dette er nødvendig for å begrense fare for forurensning.
+b) Senere spredetidspunkt i områdene som ligger innenfor nedbørsfeltet som drenerer til kyststrekningen fra svenskegrensa til fylkesgrensa mot Agder jf. § 15 første ledd nr. 1. I disse områdene kan spredning med nedmolding tillates frem til 1. november så lenge det ikke fører til vesentlig økt avrenning til Oslofjorden.
+c) Senere spredetidspunkt enn det som følger av § 15 første ledd i Nordland og innlandsområder over marin grense der vekstsesongen i snitt de siste ti årene har startet etter 1. mai, med unntak av områder omfattet av bokstav b). I slike områder kan spredning med nedmolding tillates frem til 1. november. Adgangen til å tillate senere spredetidspunkt er begrenset til områder der vannforekomstene oppfyller målene i vannforskriften, og ikke står i fare for å få forverret tilstand.
+d) Strengere krav til spredning av gjødselvarer med avløpsslam enn det som følger av § 22 andre ledd bokstav e) og f) i områder der vannforekomstene ikke oppfyller målene i vannforskriften eller står i fare for å få forverret tilstand.
+e) Krav til gjennomføring av avbøtende tiltak for å motvirke avrenning på arealer der det produseres poteter eller grønnsaker som er særlig fosforkrevende, jf. § 21, i områder der vannforekomstene ikke oppfyller målene i vannforskriften eller står i fare for å få forverret tilstand.
+f) Digital innrapportering av opplysninger etter § 27 første og tredje ledd til offentlig register i områder der vannforekomstene ikke oppfyller målene i vannforskriften eller står i fare for å få forverret tilstand.
+g) Strengere krav til lagring og bruk av gjødselvarer enn det som følger av denne forskrift i områder der vannforekomstene ikke oppfyller målene i vannforskriften eller står i fare for å få forverret tilstand.
+Enkeltvedtak etter denne bestemmelsen skal innrapporteres av statsforvalteren til offentlig register.

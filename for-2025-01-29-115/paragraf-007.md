@@ -1,0 +1,5 @@
+# § 7. Krav til utforming av lager for husdyrgjødsel og andre organiske gjødselvarer
+Lager for flytende organiske gjødselvarer skal ha tette konstruksjoner i gulv, sidevegger, porter, luker, uttappingsrør, spjeld m.m., slik at det ikke oppstår lekkasjer. Kanaler og renner for å lede gjødsel til lageret skal være tette. Lageret skal ha tilstrekkelig sikring til å ivareta hensyn til helse, arbeidsmiljø og sikkerhet.
+Lager for urin og biorest med mindre enn 25 prosent tørrstoff skal ha tak eller annet dekke som begrenser fordamping til luft. Dekket må likevel sørge for nødvendig ventilering av farlige gasser.
+Lager for faste organiske gjødselvarer med mindre enn 25 prosent tørrstoff skal ha tett bunnplate og skjermes med tette kanter. Bunnplaten skal ha fall til sluk og tett oppsamlingskum for sig fra gjødselen.
+Ved oppføring, utvidelse eller utbedring av gjødsellager som er søknadspliktig etter plan- og bygningsloven, skal det foreligge samsvarserklæring om oppfyllelse av krav etter denne forskriften og etter byggteknisk forskrift gitt i medhold av plan- og bygningsloven.

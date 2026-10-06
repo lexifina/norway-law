@@ -1,0 +1,2 @@
+# § 11. Krav til håndtering av oppsamlede planterester
+Oppsamlede planterester fra veksthus og grønnsaksavlinger skal ikke lagres på flomutsatte områder eller så nær vannforekomster, dreneringssystem mv. at det medfører fare for forurensning. Ved plassering skal det legges vekt på terreng- og grunnforhold slik at avrenning begrenses. Slike rester kan lagres i inntil tre år, og må kunne fjernes på en enkel måte.

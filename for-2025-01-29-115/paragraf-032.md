@@ -1,0 +1,6 @@
+# § 32. Dispensasjon
+Kommunen kan etter søknad gi en tidsavgrenset dispensasjon til å spre gjødselvare på annet areal enn godkjent spredeareal jf. § 17 første ledd, som ledd i etablering av innmarksbeite. Ved vurderingen skal det legges særlig vekt på hvilke virkninger gjødsling kan få for natur- og kulturlandskapsverdier, og om gjødslingen kan skje på en forsvarlig måte.
+Statsforvalteren kan i særlige tilfeller og etter søknad, gi en tidsbegrenset dispensasjon fra bestemmelsene i denne forskriften, med unntak av § 22 første ledd og andre ledd bokstav a) til d), § 24 og § 25, der det er Mattilsynet som har myndighet til å gi dispensasjon.
+Dispensasjon kan ikke gis dersom hensynene bak bestemmelsen det dispenseres fra, eller forskriftens formålsbestemmelse, blir vesentlig tilsidesatt. Fordelen ved en dispensasjon må, etter en samlet vurdering, være klart større enn ulempene.
+Ved vurderingen av om dispensasjon skal gis og eventuelt på hvilke vilkår, skal det legges særlig vekt på dispensasjonens konsekvenser for vannkvalitet, herunder om dispensasjon medfører at vannforekomster ikke oppfyller målene i vannforskriften eller står i fare for å få forverret tilstand, samt konsekvenser for helse, ressursutnyttelse og miljøforsvarlig forvaltning av jordsmonnet.
+Dispensasjoner etter denne bestemmelsen skal innrapporteres til offentlig register.
