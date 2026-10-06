@@ -1,0 +1,3 @@
+# § 9. Krav til oppsamling av silopressaft og lagring av fôr på bakken
+Siloanlegg for gras og surfôr skal utformes slik at det ikke medfører fare for forurensning. Silopressaft skal samles opp og lagres i overenstemmelse med kravene i § 7.
+Rundballer, og annen midlertidig lagring av fôr med tilsvarende begrenset avrenning, kan plasseres direkte på bakken. Lagring av slikt fôr skal ikke overstige tre år. Fôret skal ikke plasseres på flomutsatte områder eller så nær vannforekomster at det medfører fare for forurensning. Ved plassering skal det legges vekt på terreng- og grunnforhold slik av avrenning begrenses.
