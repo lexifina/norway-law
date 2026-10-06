@@ -1,0 +1,4 @@
+# § 10-1. Fastsettelse av tvangsmulkt
+Tvangsmulkt etter mineralloven § 11-3 kan fastsettes som en løpende dagmulkt eller som et engangsbeløp. Om plikten til å betale et engangsbeløp ikke er oppfylt innen fristen, kan det fastsettes et nytt engangsbeløp med ny frist. Løpende dagmulkt løper både på virkedager og fridager og gjelder frem til plikten blir oppfylt.
+Tvangsmulkt begynner å løpe når fristen for retting av forholdet, som er satt i vedtaket om tvangsmulkt, er utløpt. Lengden på fristen fremgår av vedtaket og fastsettes på grunnlag av en konkret vurdering av påleggets alvorlighetsgrad i forhold til de hensyn pålegget er ment å ivareta.
+Tvangsmulkten løper inntil den ansvarlige har dokumentert at pålegget er oppfylt. Tvangsmulkten opphører med virkning fra den dato tilstrekkelig dokumentasjon om retting ble sendt til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard.

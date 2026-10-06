@@ -1,0 +1,3 @@
+# § 10-3. Frist for betaling av tvangsmulkt
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard fastsetter frist for betaling av tvangsmulkt. Fristen for betaling av engangsbeløp skal være minst én uke etter at underretning med pålegg om tvangsmulkt er mottatt av den ansvarlige. Mulkten forfaller til betaling første virkedag etter at fristen er ute. Løpende dagmulkt forfaller til betaling i daglige terminer fra og med første virkedag etter at fristen er ute.
+Dersom mulkten ikke blir betalt innen forfall, påløper den til enhver tid gjeldende rente etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.

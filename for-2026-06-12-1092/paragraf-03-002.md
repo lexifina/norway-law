@@ -1,0 +1,3 @@
+# § 3-2. Undersøkelsesområdet
+Angivelsen av undersøkelsesområdets geografiske plassering etter mineralloven § 4-5 første ledd bokstav b skal leveres i et digitalt, vektorisert format spesifisert av Direktoratet for mineralforvaltning med Bergmesteren for Svalbard. Området tildeles som en todimensjonal flate. I grunnen er grensene for undersøkelsesområdet loddrette.
+Hvert sammenhengende undersøkelsesområde skal tildeles et unikt identifiserende løpenummer. Hvis et område ved reduksjon deles inn i to eller flere uavhengige deler, beholder ett av de nye områdene gammelt løpenummer mens de øvrige tildeles nye løpenummer.
