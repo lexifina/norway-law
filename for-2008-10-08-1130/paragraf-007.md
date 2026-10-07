@@ -1,0 +1,4 @@
+# § 7. Autorisasjon og lisens på grunnlag av særlige ervervede rettigheter
+Søker med kvalifikasjonsbevis som sykepleier fra Polen og Romania som enten er utferdiget før det tidspunkt som følger av forskriften vedlegg II punkt 5.2.2 eller gjelder en utdanning påbegynt før dette tidspunktet, har kun rett til autorisasjon eller lisens som sykepleier dersom vilkårene i forskriften vedlegg IV er oppfylt.
+Søker med kvalifikasjonsbevis som tannlege fra en annen EØS-stat et annet EØS-land eller Sveits som ikke fyller vilkårene i § 5 eller § 6, har rett til autorisasjon eller lisens dersom vilkårene i forskriften vedlegg V er oppfylt.
+Søker med kvalifikasjonsbevis som jordmor fra Den tidligere tyske demokratiske republikk, Romania eller Polen, har kun rett til autorisasjon eller lisens som jordmor dersom vilkårene i forskriften vedlegg VI punkt 2 til 5 er oppfylt.

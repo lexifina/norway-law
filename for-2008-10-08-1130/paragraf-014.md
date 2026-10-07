@@ -1,0 +1,3 @@
+# § 14. Særlige krav som kan stilles når et yrke ikke er lovregulert i landet søker kommer fra
+Søker som har utøvd ett av yrkene nevnt i § 13 første ledd i en avtalestat hvor yrket ikke er lovregulert, har rett til autorisasjon eller lisens når søker har utøvd yrket på heltid i minst ett år eller i en tilsvarende periode på deltid, i løpet av de siste ti årene. Søkeren må fremlegge bevis på yrkeskvalifikasjoner som dokumenterer at innehaveren er forberedt til å utøve det aktuelle yrket. § 13 annet ledd gjelder tilsvarende.
+Yrkeserfaring som nevnt i første ledd kreves ikke når det søkes om autorisasjon eller lisens på bakgrunn av en lovregulert utdanning på kvalifikasjonsnivåer beskrevet i vedlegg I, bokstav b, c, d eller e.

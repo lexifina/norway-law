@@ -1,0 +1,5 @@
+# § 20b. Etablering som sykepleier, provisorfarmasøyt eller fysioterapeut i en annen EØS-stat
+En yrkesutøver som har utdannet seg i Norge som sykepleier, provisorfarmasøyt eller fysioterapeut, kan søke om profesjonskort for etablering i en annen EØS-stat.
+Søkeren skal legge frem slik dokumentasjon som kreves av den aktuelle vertsstaten. Helsedirektoratet skal bekrefte at den fremlagte dokumentasjonen er gyldig og autentisk. Dersom det foreligger rimelig tvil om dokumentasjonen er gyldig og autentisk, kan direktoratet be utstederen om å verifisere eller be yrkesutøveren om å levere bekreftede kopier.
+Helsedirektoratet sender søknaden med bekreftelse til ansvarlige myndigheter i den eller de landene der søkeren ønsker å utøve sitt yrke. Direktoratet skal samtidig informere søkeren om søknadens status.
+Helsedirektoratet skal behandle søknaden innen en måned etter at søknaden er mottatt. Dersom direktoratet har opplyst søkeren om at dokumentasjonen ikke er tilstrekkelig, jf. § 21 andre ledd, skal søknaden behandles innen en måned etter at all nødvendig dokumentasjon er mottatt.

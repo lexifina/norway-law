@@ -1,0 +1,10 @@
+# § 20e. Yrkesutøvere som ønsker å utøve sitt yrke i Norge
+En yrkesutøver som har utdannet seg i en annen EØS-stat som sykepleier, provisorfarmasøyt eller fysioterapeut og som ønsker å utøve sitt yrke i Norge, kan søke om profesjonskort for etablering eller midlertidig tjenesteyting.
+Søkeren skal legge frem slik dokumentasjon som kreves etter kapittel 2, 3 eller 4.
+Helsedirektoratet utsteder profesjonskort basert på slike søknader når de oversendes fra ansvarlige myndigheter i det landet der søkeren er utdannet. Dersom det foreligger rimelig tvil, kan Helsedirektoratet kreve ytterligere opplysninger eller bekreftede kopier fra de ansvarlige myndighetene som har oversendt søknaden.
+Søknaden kan avslås dersom Helsedirektoratet ikke mottar nødvendig dokumentasjon.
+Ved søknad om profesjonskort for sykepleier eller provisorfarmasøyt, skal Helsedirektoratet innen en måned etter at søknaden er oversendt fatte vedtak om avslag eller utstedelse av profesjonskort. Ved søknad om profesjonskort som fysioterapeut, skal Helsedirektoratet innen to måneder etter at søknaden er oversendt fatte vedtak om avslag eller utstedelse av profesjonskort eller om prøveperiode eller egnethetsprøve etter § 15 eller § 18 femte ledd.
+Direktoratet kan i den enkelte sak forlenge fristen i femte ledd med inntil to uker dersom det er behov for dette for å kunne vurdere søknaden. Fristen kan i særlige tilfeller forlenges ytterligere med inntil to uker dersom det er nødvendig for å sikre forsvarlig helsehjelp. Hvis fristen forlenges skal dette begrunnes og søkeren skal informeres.
+Hvis Helsedirektoratet ikke fatter vedtak innen fristen etter femte jf. sjette ledd, skal profesjonskortet utstedes automatisk via IMI.
+Arbeidsgivere, kunder, pasienter, offentlige kontorer og andre interesserte aktører skal ha adgang til å kontrollere ektheten og gyldigheten av et profesjonskort.
+Dersom søkeren også har søkt om autorisasjon, lisens eller spesialistgodkjenning etter kapittel 2 eller 3 eller sendt en melding om midlertidig tjenesteyting etter kapittel 4, skal Helsedirektoratet behandle denne søknaden så snart som mulig i etterkant av vedtaket om profesjonskort.
