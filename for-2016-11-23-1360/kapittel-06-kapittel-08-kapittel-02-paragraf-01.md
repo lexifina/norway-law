@@ -1,0 +1,2 @@
+# § 7-10-5. Hvem som har opplysningsplikt
+Privat eller offentlig eiet institusjon som driver skolefritidsordning eller barnehage, herunder familiebarnehage og barnepark, og som mottar betaling for pass og stell av barn, skal gi opplysninger etter reglene i § 7-10-5 til § 7-10-8. Privat barnepassordning der foreldre mv. har opplysningsplikt etter skatteforvaltningsloven § 7-2 første ledd bokstav a og h omfattes ikke.

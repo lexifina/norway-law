@@ -1,0 +1,4 @@
+# § 8-11-3. Generelle bestemmelser
+(1) Dokumentasjonen som utarbeides etter skatteforvaltningsloven § 8-11 annet ledd skal gi grunnlag for å vurdere om priser og vilkår i kontrollerte transaksjoner er fastsatt i samsvar med armlengdeprinsippet.
+(2) Dokumentasjonen skal inneholde opplysninger, redegjørelser og analyser som omtalt i § 8-11-4 til § 8-11-13 nedenfor. Omfanget av disse opplysninger, redegjørelser og analyser skal tilpasses til den kontrollerte transaksjonens økonomiske omfang og kompleksitet, og det som er nødvendig for at skattemyndighetene skal kunne vurdere om transaksjonens priser og vilkår er i samsvar med armlengdeprinsippet.
+(3) Dokumentasjonen skal fremstilles på en oversiktlig måte, men det kreves ikke at den følger strukturen i § 8-11-4 til § 8-11-13. Er dokumentasjonen omfattende, skal den inneholde en sammenfatning av hovedpunkter.

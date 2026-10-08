@@ -1,0 +1,3 @@
+# § 7-10-19. Opplysningspliktens omfang
+(1) Det skal gis melding om de inntekter og utgifter samt annen formue og gjeld som andelshaveren skal skatte av. Opplysningsplikten omfatter ikke formue i form av andelshavers boenhet omfattet av skatteloven § 4-10 annet ledd.
+(2) Det skal gis en melding for hver andelshaver. Har boligselskapet fått melding om at flere eier en andel sammen, skal det gis en melding for hver eier der fordeling av verdien som skal legges til grunn ved fastsettingen, inntekter, utgifter, formue og gjeld etter § 7-10-20 skal skje i forhold til antall eiere. Har andelshaver eid flere andeler i løpet av året, gis en melding for hver andel.

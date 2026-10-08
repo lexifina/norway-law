@@ -1,0 +1,9 @@
+# § 7-3-30. Alternativer for gjennomgang av konto
+(1) Opplysningspliktige kan velge å gå gjennom eksisterende konti etter reglene for nye konti.
+(2) Opplysningspliktige kan velge å gå gjennom konto med saldo eller verdi som ikke overstiger USD 1 000 000 etter reglene for konto med saldo eller verdi som overstiger USD 1 000 000.
+(3) Valg etter første og annet ledd må gjelde alle konti, en klart avgrenset type konto, eller en avgrenset del av den opplysningspliktiges virksomhet. Valget har ikke betydning for fristen til å innhente utenlandsk identifikasjonsnummer eller hvilke eksisterende konti det er plikt til å gå gjennom.
+(4) Opplysningspliktige kan velge å ikke gå gjennom kollektive forsikringsavtaler med gjenkjøpsverdi og kollektive livrenter som er utstedt til en arbeidsgiver eller individuelle ansatte inntil utbetaling for å identifisere kontohaver og reelle rettighetshavere som er skattepliktige eller hjemmehørende i en annen stat eller jurisdiksjon enn USA, dersom
+a) den kollektive forsikringsavtalen med gjenkjøpsverdi eller den kollektive livrenten er utstedt til en arbeidsgiver og dekker 25 eller flere ansatte
+b) de ansatte er berettiget til å motta enhver kontraktsinteresse i tilknytning til sin avtale og til å oppnevne begunstigede i tilfelle arbeidstakers død og
+c) den samlede utbetalingen til en ansatt eller begunstigede ikke overstiger USD 1 000 000.
+(5) Opplysningspliktige kan legge til grunn at fysiske personer som mottar en utbetaling fra en forsikringsavtale med gjenkjøpsverdi eller en individuell livrente knyttet til et dødsfall ikke er skattemessig bosatt i utlandet eller er amerikansk statsborger, med mindre det foreligger opplysninger som nevnt i § 7-3-18 annet ledd om den begunstigede. Foreligger det opplysninger som nevnt i § 7-3-18 annet ledd, skal kontoen behandles etter reglene i § 7-3-12. Dette ledd gjelder ikke utbetalinger til forsikringstaker eller andre som er benevnt som eier i forsikringsavtalen.

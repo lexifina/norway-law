@@ -1,0 +1,2 @@
+# § 8-11-10. Opplysninger om valg og anvendelse av prissettingsmetode
+Dokumentasjonen skal inneholde en redegjørelse for den prissettingsmetode som er anvendt i en kontrollert transaksjon. Det skal redegjøres for hvorfor denne metoden er valgt, og hvorfor prissettingen som bruken av metoden leder til, anses å være i samsvar med armlengdeprinsippet. Det skal videre angis i hvilken utstrekning prissettingsmetoden er forenlig med de metodene som er beskrevet i kapittel II og III i OECD-retningslinjene.

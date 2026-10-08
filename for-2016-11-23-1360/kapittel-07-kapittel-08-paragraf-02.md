@@ -1,0 +1,5 @@
+# § 8-9-2. Deltakere i utenlandske selskaper
+(1) Deltakere som skal beskattes i Norge for andel i utenlandsk selskap mv. som omfattes av skatteloven § 10-40, skal levere selskapsmelding og melding om deltakernes formue og inntekt fra selskapet. Selskapsmeldingen skal omfatte hele selskapets virksomhet. Hvis mer enn en deltaker skal beskattes i Norge for andel i det utenlandske selskapet, skal meldingene leveres av deltakerne i fellesskap.
+(2) Første ledd gjelder tilsvarende for deltakere som skal beskattes i Norge for andel av overskudd i norsk-kontrollerte utenlandske selskaper mv. hjemmehørende i lavskatteland, jf. skatteloven § 10-60 til § 10-68.
+(3) Årsregnskapet i det utenlandske selskapet mv. skal overføres til selskapsmeldingen, som skal fylles ut i samsvar med norske skatteregler. Ved omregningen av skattemessig resultat til norske kroner, skal valutakursen ved skattleggingsperiodens utløp legges til grunn.
+(4) Er det utenlandske selskapet mv. regnskapspliktig etter intern rett i det land det er hjemmehørende, skal selskapets årsoppgjør vedlegges.

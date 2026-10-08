@@ -1,0 +1,1 @@
+# B. Utbetalinger av skadeserstatninger

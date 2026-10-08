@@ -1,0 +1,2 @@
+# § 13-3-1. Klage over vedtak om skattefastsetting som gjelder mindre beløp
+Skattedirektoratet er klageinstans ved klager over vedtak om fastsetting av formues- og inntektsskatt, merverdiavgift og arbeidsgiveravgift når den samlede skattemessige virkningen av det som er påklaget er under 25 000 kroner. Skattedirektoratet kan likevel beslutte at Skatteklagenemnda skal avgjøre saker av prinsipiell interesse. Skattedirektoratets beslutning kan ikke påklages.

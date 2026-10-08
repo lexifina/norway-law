@@ -1,0 +1,2 @@
+# § 7-5-2. Opplysningsplikt for ikke digital formidling av utleie av fast eiendom
+For den som formidler utleie av fast eiendom hvor betaling for formidlingen er knyttet til gjennomførte transaksjoner, gjelder opplysningsplikten i §§ 7-11-1 til 7-11-3, 7-11-5 og 7-11-6 tilsvarende så langt den passer dersom formidlingen ikke har skjedd gjennom en digital plattform. Det samme gjelder for den som på vegne av utleier inngår kontrakt om utleie av fast eiendom hvor betaling for tjenesten er knyttet til gjennomførte transaksjoner.

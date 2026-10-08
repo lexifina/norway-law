@@ -1,0 +1,3 @@
+# § 6-1-2. Hvem som kan fremsette anmodning om bindende forhåndsuttalelse
+(1) Enhver skattepliktig og bruker som har rett til fritak fra særavgift kan fremsette anmodning om bindende forhåndsuttalelse. Anmodningen kan være felles for flere saksforhold og flere skattepliktige (fellesanmodning).
+(2) Selskap som nevnt i skatteloven § 10-40 kan fremsette anmodning som gjelder fastsetting av formue eller inntekt for deltakerne fra selskapet. Boligselskap som nevnt i skatteloven § 7-3 og sameie etter eierseksjonsloven kan fremsette anmodning som gjelder tilsvarende fastsetting for andelseierne i boligselskapet og sameierne i seksjonerte bygg.

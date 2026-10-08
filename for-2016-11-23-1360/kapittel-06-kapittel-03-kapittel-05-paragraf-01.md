@@ -1,0 +1,3 @@
+# § 7-5-18. Hvem som har opplysningsplikt
+(1) Formidler av drosjetjenester skal gi opplysninger etter reglene i § 7-5-18 til § 7-5-21 om tilknyttede løyvehavere som nevnt i yrkestransportloven § 9 første ledd. Formidlere av drosjetjenester som anvender digitale plattformer og som har løyvehavere skattemessig hjemmehørende i land som har avtale om automatisk utveksling av opplysninger med Norge, skal i tillegg gi opplysninger om disse etter § 7-11-1 til § 7-11-6.
+(2) Digitale formidlere av drosjetjenester hjemmehørende i land som har gjennomført tilsvarende regler som i skatteforvaltningsloven § 7-11 og som har avtale om automatisk utveksling av opplysningene med Norge, er unntatt fra opplysningsplikten i første ledd.

@@ -1,0 +1,2 @@
+# § 7-11-7. Overgangsordning
+Den som er opplysningspliktig om formidling av utleie av fast eiendom etter skatteforvaltningsloven § 7-5 åttende ledd slik den lød før 1. januar 2026, kan for skattleggingsperioden 2026 enten gi opplysninger etter denne bestemmelsen eller velge å gi opplysninger etter skatteforvaltningsloven § 7-11. Opplysningspliktige som velger å rapportere etter de nye reglene for inntektsåret 2026, har ikke plikt til å foreta selgergjennomgang etter § 7-11-4 for eksisterende kunder dette året.

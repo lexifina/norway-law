@@ -1,0 +1,3 @@
+# § 7-2-5. Vederlag for arbeid som utføres etter avtale i konfliktråd eller i Politiets sikkerhetstjenestes skjermede etterretningsvirksomhet
+(1) Skattefri fordel vunnet ved arbeid utført etter skriftlig avtale inngått ved mekling i konfliktråd eller etter ungdomsplan eller plan, jf. skatteloven § 5-15 første ledd bokstav k, er ikke omfattet av opplysningsplikten.
+(2) Skattefri fordel som Politiets sikkerhetstjeneste yter til kilder og kontakter som ledd i sikkerhetstjenestens skjermede etterretningsvirksomhet, jf. skatteloven § 5-15 første ledd bokstav r, er ikke omfattet av opplysningsplikten.

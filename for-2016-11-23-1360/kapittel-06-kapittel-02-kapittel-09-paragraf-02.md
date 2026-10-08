@@ -1,0 +1,2 @@
+# § 7-3-29. Summering av kontoverdi
+Opplysningspliktige skal, ved beregning av kontosaldo eller verdi ved gjennomgang av konti, summere saldo og verdi på alle konti med positiv verdi som kontohaver har i den finansielle institusjonen og nærstående enheter. Dette behøver likevel bare gjøres i den utstrekning datasystemer knytter flere konti sammen med et dataelement, for eksempel kundens identifikasjonsnummer, og muliggjør summering av kontosaldo.

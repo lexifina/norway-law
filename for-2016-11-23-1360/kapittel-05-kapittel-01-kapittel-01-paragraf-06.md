@@ -1,0 +1,5 @@
+# § 6-1-6. Saksbehandlingstid og avgivelse av bindende forhåndsuttalelse
+(1) Skattekontorets og Oljeskattekontorets forhåndsuttalelser bør normalt avgis senest fire uker fra fullstendig anmodning er mottatt. Skattedirektoratets forhåndsuttalelser bør normalt avgis senest tre måneder fra fullstendig anmodning er mottatt.
+(2) Fullstendig anmodning anses innkommet når anmodningen er journalført, saken er fullstendig opplyst fra den skattepliktiges side og gebyr er registrert innkommet på gebyrkontoen.
+(3) Bindende forhåndsuttalelse gis i avsluttende brev til den som har fremsatt anmodningen. Uttalelsen skal identifisere den eller de berørte skattepliktige og beskrive den disposisjon uttalelsen gjelder med utgangspunkt i anmodningen, jf. § 6-1-4 sjette ledd. I uttalelsen kan det siteres fra sakens dokumenter, men ikke henvises til dokumentinnhold som ikke gjengis.
+(4) Når uttalelse er gitt av Oljeskattekontoret og Skattedirektoratet, skal kopi sendes Finansdepartementet og det skattekontoret som forhåndsuttalelsen antas å kunne bli påberopt overfor.

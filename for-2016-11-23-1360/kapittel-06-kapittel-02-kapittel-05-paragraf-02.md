@@ -1,0 +1,2 @@
+# § 7-3-17. Følger av at egenerklæring ikke innhentes ved kontoopprettelse
+Dersom egenerklæring ikke kan innhentes ved opprettelse av en ny konto, skal opplysningspliktige ikke etablere kontoforholdet for kontohaver. Er konto opprettet, men det viser seg at det er gitt feilaktige eller utilstrekkelige opplysninger ved kontoopprettelsen, skal kontoen avsluttes eller sperres om det ikke kan innhentes ny gyldig egenerklæring innen 90 dager fra kontoforholdet ble etablert. Blir forholdet oppdaget etter at kontoforholdet er etablert, gjelder fristen fra forholdet ble oppdaget.

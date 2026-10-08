@@ -1,0 +1,3 @@
+# § 8-2-2. Skattleggingsperiode
+(1) Skattemeldingen skal omfatte opplysninger om den skattepliktiges formue per 1. januar i skattefastsettingsåret og inntekts- og fradragsposter fra foregående kalenderår.
+(2) Et annet regnskapsår enn kalenderåret kan legges til grunn som skattleggingsperiode av regnskapspliktige skattepliktige som er gitt unntak i medhold av regnskapsloven § 1-7 første ledd annet, tredje eller fjerde punktum. Årsoppgjøret skal ikke omfatte mer enn 12 måneder. Skattepliktige som går over til å nytte et annet regnskapsår enn tidligere, skal levere særskilte opplysninger for tiden mellom avslutningen av det forrige og begynnelsen av det nye regnskapsåret.

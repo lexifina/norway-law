@@ -1,0 +1,12 @@
+# § 7-12-9. Brukergjennomgang
+(1) Ved etablering av kundeforhold, skal opplysningspliktige innhente en egenerklæring for å fastslå hvor brukeren er bosatt eller hjemmehørende. Opplysningspliktige skal vurdere påliteligheten av en slik egenerklæring opp mot annen innhentet dokumentasjon, herunder dokumentasjon samlet inn etter hvitvaskingsloven. En enhet som ikke er skattemessig hjemmehørende i noen jurisdiksjon, skal behandles som hjemmehørende der enhetens reelle ledelse finner sted eller der enheten har hovedkontor.
+(2) For eksisterende brukere må gjennomgang være gjennomført innen 12 måneder etter ikrafttredelse av reglene i skatteforvaltningsloven § 7-12.
+(3) For enheter som ikke er unntatt etter § 7-12-4, skal opplysningspliktige identifisere eventuelle reelle rettighetshavere og hvor disse er skattemessig bosatt. Første og annet ledd gjelder tilsvarende.
+(4) Tredje ledd gjelder ikke når
+a) mindre enn 50 prosent av virksomhetens bruttoinntekt i det foregående inntektsåret var passiv inntekt og mindre enn 50 prosent av virksomhetens eiendeler i det foregående inntektsåret var passive kapitalplasseringer
+b) virksomheten i all vesentlighet består i å yte finansielle tjenester til ett eller flere datterselskaper som ikke driver virksomhet som finansiell institusjon, unntatt når formålet er å erverve eller finansiere selskaper og deretter beholde eierinteressene for investeringsformål
+c) virksomheten er under oppstart og investerer kapital i aktiva de første 24 måneder for å drive annen virksomhet enn som finansiell institusjon
+d) virksomheten er i ferd med å avvikle eller omorganisere sine aktiva når den ikke har drevet virksomhet som finansiell institusjon de siste fem år og ikke skal drive slik virksomhet i fremtiden
+e) hoveddelen av virksomheten er knyttet til finansierings- og sikringstransaksjoner som utelukkende gjennomføres med eller for nærstående enheter, forutsatt at de nærstående enhetene hovedsakelig driver annen virksomhet enn virksomhet som finansiell institusjon, eller
+f) enheten er etablert som en ideell organisasjon etter lovgivningen i jurisdiksjonen den er hjemmehørende i, og at vilkårene i § 7-3-22 tredje ledd bokstav a nr. 8 er oppfylt.
+(5) Dersom den opplysningspliktige vet eller har grunn til å tro at det foreligger endringer eller nye relevante opplysninger, eller at den opprinnelige egenerklæringen er uriktig eller upålitelig, kan opplysningene ikke lenger legges til grunn. Det skal i slike tilfeller innhentes en ny egenerklæring eller en rimelig forklaring med tilhørende dokumentasjon fra bruker.
