@@ -1,0 +1,5 @@
+# § 7-12-3. Hvem det skal gis opplysninger om
+(1) Med bruker av tjenesten menes person eller enhet som en opplysningspliktig tilbyder utfører vekslingstjenester eller oppbevaringstjenester på vegne av.
+(2) Når en person eller enhet, som ikke er en finansiell institusjon eller opplysningspliktig tilbyder, opptrer som bruker av tjenesten på vegne av en annen, anses den det opptres på vegne av som bruker av tjenesten.
+(3) Ved overføring av kryptoeiendeler til en næringsdrivende som vederlag for varer eller tjenester for en verdi som overstiger USD 50 000, anses den næringsdrivende for å være bruker. Dersom den opplysningspliktige tilbyderen er forpliktet til å identifisere kjøperen etter hvitvaskingsloven, skal også kjøperen anses for å være bruker.
+(4) Enheter som har inntekter som hovedsakelig kan henføres til investering, reinvestering eller omsetning av finansielle produkter eller kryptoeiendeler og som styres, forvaltes eller på annen måte ledes av en finansiell institusjon, anses som bruker av tjenesten.

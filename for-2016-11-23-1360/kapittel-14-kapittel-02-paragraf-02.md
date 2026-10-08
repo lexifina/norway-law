@@ -1,0 +1,2 @@
+# § 16-2-2. Overgangsbestemmelser om endringsmelding for innførselsmerverdiavgift
+Tollmyndigheten har myndighet til å kontrollere endringsmelding etter skatteforvaltningsloven § 9-4 som leveres av skattepliktig som er registrert i Merverdiavgiftsregisteret og som gjelder endring av merverdiavgift for innførsel foretatt i 2016 eller tidligere. Dersom tollmyndigheten ikke finner å kunne legge endringsmeldingen til grunn, skal saken oversendes skattekontoret for avgjørelse.

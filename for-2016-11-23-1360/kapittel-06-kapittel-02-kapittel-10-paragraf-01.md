@@ -1,0 +1,4 @@
+# § 7-3-33. Plikter ved formidling av betalinger med amerikansk kilde
+(1) Dette kapittel gjennomfører artikkel 4 nr. 1 bokstav e i avtale av 15. april 2013 mellom Norge og USA om forbedret internasjonal overholdelse av skattelovgivningen og gjennomføring av FATCA.
+(2) Opplysningspliktige som nevnt i kapittel C, som skal foreta utbetaling av eller opptre som mellomledd ved en utbetaling som er kildeskattepliktig i USA til en ikke-deltakende finansiell institusjon som definert i FATCA, skal gi forutgående finansiell institusjon i betalingskjeden de opplysninger som er påkrevet for å trekke amerikansk kildeskatt og overholde opplysningsplikten om betalinger til ikke-deltakende finansielle institusjoner som definert i FATCA.
+(3) Denne paragraf gjelder ikke opplysningspliktige som nevnt i artikkel 4 nr. 1 bokstav d i avtalen nevnt i første ledd.

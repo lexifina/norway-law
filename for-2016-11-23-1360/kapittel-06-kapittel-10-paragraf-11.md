@@ -1,0 +1,2 @@
+# § 7-12-11. Følger av at egenerklæringen ikke innhentes
+Dersom egenerklæring ikke kan innhentes ved opprettelse av nytt kundeforhold, skal opplysningspliktige ikke etablere kundeforholdet. Er kundeforholdet opprettet, men det viser seg at det er gitt feilaktige eller utilstrekkelige opplysninger ved etablering av kundeforholdet, skal kundeforholdet avsluttes eller sperres om det ikke kan innhentes ny gyldig egenerklæring innen 90 dager fra kundeforholdet ble etablert. Blir forholdet oppdaget etter at kundeforholdet er etablert, gjelder fristen fra forholdet ble oppdaget.

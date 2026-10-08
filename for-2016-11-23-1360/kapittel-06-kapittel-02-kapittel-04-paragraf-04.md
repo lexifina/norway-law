@@ -1,0 +1,2 @@
+# § 7-3-13. Oppbevaring av dokumentasjon
+Opplysningspliktige skal oppbevare dokumentasjon som viser hvordan en konto er gjennomgått etter reglene i kapittel D til I. Dokumentasjonen skal oppbevares i minst fem år etter utløpet av rapporteringsåret. Når det foreligger ny dokumentasjon, skal dokumentasjon som har betydning for opplysningsplikten for tidligere skattleggingsperioder oppbevares i minst fem år etter utløpet av rapporteringsåret.

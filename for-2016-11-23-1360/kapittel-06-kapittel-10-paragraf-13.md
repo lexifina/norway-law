@@ -1,0 +1,2 @@
+# § 7-12-13. Oppbevaring av dokumentasjon
+Opplysningspliktige skal oppbevare dokumentasjon for opplysninger levert etter § 7-12-5 til § 7-12-7, herunder lommebokadresser nevnt i § 7-12-7 første ledd bokstav f. Opplysningspliktige skal også oppbevare egenerklæringer og annen dokumentasjon knyttet til gjennomgangskravene i § 7-12-9 og § 7-12-10. Opplysningene skal oppbevares i minst fem år etter utløpet av rapporteringsåret.

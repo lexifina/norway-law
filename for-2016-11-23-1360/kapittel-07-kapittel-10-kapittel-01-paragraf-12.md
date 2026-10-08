@@ -1,0 +1,4 @@
+# § 8-11-12. Opplysninger om avtaler mv.
+(1) Dokumentasjonen skal inneholde de avtaler som har betydning for pris og øvrige vilkår i kontrollerte transaksjoner.
+(2) Avtaler vedrørende prisingen av kontrollerte transaksjoner som foretaket har inngått med myndighetene i andre land skal vedlegges. Det samme gjelder bindende forhåndsuttalelser eller lignende meddelelser som foretaket har innhentet fra utenlandsk skattemyndighet og som angår prising av foretakets kontrollerte transaksjoner.
+(3) Avtaler vedrørende prisingen av kontrollerte transaksjoner som et annet foretak har inngått med myndighetene i andre land, skal vedlegges når foretaket påberoper seg slike som grunnlag for prisingen av kontrollerte transaksjoner. Det samme gjelder bindende forhåndsuttalelser eller lignende meddelelser som et annet foretak har innhentet fra utenlandsk skattemyndighet, når foretaket påberoper seg slike meddelelser som grunnlag for prisingen av sine kontrollerte transaksjoner.

@@ -1,0 +1,3 @@
+# § 7-3-10. Plikt til å identifisere konti med utenlandske kontohavere mv.
+(1) Opplysningspliktige nevnt i kapittel C skal identifisere konti med kontohavere og reelle rettighetshavere som er skattemessig bosatt/skattemessig hjemmehørende i en annen stat eller jurisdiksjon enn Norge eller amerikansk statsborger, og ikke-deltakende finansielle institusjoner som definert i FATCA. Konti med reelle rettighetshavere som er skattemessig bosatt i Norge skal også identifiseres.
+(2) For å identifisere konti nevnt i første ledd, skal opplysningspliktige innhente og gå gjennom opplysninger etter reglene i kapittel D til I når det er påkrevet etter § 7-3-11, § 7-3-14 og § 7-3-15.

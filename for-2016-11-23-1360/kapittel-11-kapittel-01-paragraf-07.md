@@ -1,0 +1,5 @@
+# § 12-4-7. Beregning og fastsetting av krav på skatt og arbeidsgiveravgift
+(1) Når vedtaket omfatter flere kommuner skal kopi av skattekontorets vedtak sendes til Skattedirektoratet med anmodning om beregning av fordelingsnøkkel.
+(2) Skattedirektoratet utarbeider fordelingsnøkkel som en prosentvis fordeling mellom kommunene, basert på vedkommende arbeidsgivers samlede innberetning av opplysningspliktige ytelser og på de skattekommuner som omfattes av innberetningene, og sender denne til skattekontoret. Den prosentvise fordeling beregnes med en desimal og for hver av de aktuelle skattleggingsperioder.
+(3) Skattekontoret fastsetter kravet på skatt etter vedtaket om beregningsgrunnlag og skattesats, jf. § 12-4-3 bokstav d og e og § 12-4-4. Kravet fordeles per kommune, og summeres per kommune for alle skattleggingsperioder.
+(4) Skattekontoret fastsetter kravet på arbeidsgiveravgift. Avgiften beregnes av beregningsgrunnlaget for hver skattleggingsperiode, jf. § 12-4-3 bokstav d og § 12-4-4. Ved avgiftsberegningen skal avgiftsgrunnlaget fordeles på de ulike avgiftssoner i samme forhold som arbeidsgiverens øvrige avgiftspliktige ytelser i samme periode fordelte seg.

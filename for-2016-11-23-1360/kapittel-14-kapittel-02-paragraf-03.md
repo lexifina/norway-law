@@ -1,0 +1,2 @@
+# § 16-2-3. Overgangsbestemmelse om vedtaksmyndighet for klage over ligningen for inntektsårene 2015 og tidligere
+Skattekontoret treffer vedtak i klage over ligningen for inntektsårene 2015 og tidligere, når klagen er kommet fram innen 31. desember 2016. Dersom den skattepliktiges klage fullt ut tas til følge, gjelder ikke skatteforvaltningsloven § 5-7. Den skattepliktige kan påklage skattekontorets vedtak til Skatteklagenemnda.

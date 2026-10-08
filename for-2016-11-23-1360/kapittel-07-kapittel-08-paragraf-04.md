@@ -1,0 +1,2 @@
+# § 8-9-4. Skattleggingsperiode, leveringsfrist mv.
+Reglene i § 8-2-2 til § 8-2-5 om skattleggingsperiode, leveringsfrist og søknad om utsatt leveringsfrist gjelder for selskap med deltakerfastsetting og for deltakere i utenlandske selskaper som nevnt i § 8-9-2 første og annet ledd. Når selskapet har plikt til å ha revisor, skal signaturpliktige næringsopplysninger være signert av revisor. Revisor skal sende skriftlig begrunnelse for manglende underskrift til skattekontoret.

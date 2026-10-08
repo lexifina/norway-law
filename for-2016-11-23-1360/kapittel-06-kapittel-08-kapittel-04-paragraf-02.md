@@ -1,0 +1,2 @@
+# § 7-10-14. Opplysningspliktens omfang
+Det skal gis en melding for hver eierseksjon, selv om en sameier eier flere seksjoner. Har boligsameiet fått melding om at flere personer eier en seksjon sammen, skal det gis en melding for hver eier der fordeling av inntekter, utgifter, formue og gjeld etter § 7-10-15 skal skje i forhold til antall eiere. Har en eierseksjon hatt flere etterfølgende sameiere i løpet av skattleggingsperioden, skal det gis en melding for hver av eierseksjonens sameiere.

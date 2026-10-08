@@ -1,0 +1,2 @@
+# § 8-11-8. Særlig om sentralisert tjenesteyting
+Ved sentralisert konsernintern tjenesteyting, herunder tjenester av administrativ, teknisk og finansiell karakter, skal det tjenestemottakende foretaket redegjøre for sin forventede nytte av tjenestene. Ved kostnadsbasert fordeling eller prissetting, skal foretaket redegjøre for kostnadsgrunnlag, fordelingsnøkkel og eventuelt fortjenestepåslag. Dersom det ikke er anvendt fortjenestepåslag, skal det tjenesteytende foretaket begrunne dette særskilt.

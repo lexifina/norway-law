@@ -1,0 +1,3 @@
+# § 8-3-3. Skattleggingsperiode ved lav omsetning
+(1) Dersom merverdiavgiftspliktig omsetning og uttak i løpet av et kalenderår ikke overstiger en million kroner, merverdiavgift ikke medregnet, kan skattekontoret samtykke i at skattemelding skal leveres en gang i året. Skattleggingsperioden er kalenderåret.
+(2) Det er et vilkår at skattepliktig har vært registrert i Merverdiavgiftsregisteret med alminnelig skattleggingsperiode i minst 12 måneder og i denne perioden har overholdt sin opplysnings- og betalingsplikt. Første punktum gjelder likevel ikke for annen næringsvirksomhet som drives av skattepliktig med årlig skattleggingsperiode som nevnt i § 8-3-7 første ledd.

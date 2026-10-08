@@ -1,0 +1,4 @@
+# § 6-1-1. Hvem som avgir bindende forhåndsuttalelse
+(1) Oljeskattekontoret avgir bindende forhåndsuttalelser om skatt på inntekt fra utvinning, behandling og rørledningstransport av petroleum i område som nevnt i petroleumsskatteloven § 1.
+(2) Skattekontoret avgir bindende forhåndsuttalelser om særavgifter, motorkjøretøyavgifter og merverdiavgiftskompensasjon.
+(3) For øvrige skattearter avgir skattekontoret og Skattedirektoratet bindende forhåndsuttalelser. Skattedirektoratet kan gi utfyllende bestemmelser om hvilke anmodninger om bindende forhåndsuttalelse som skal behandles av skattekontorene, om saksbehandlingen og om organiseringen av ordningen mv. Skattedirektoratet skal normalt behandle anmodninger som gjelder kompliserte spørsmål og spørsmål av allmenn interesse eller prinsipiell betydning.

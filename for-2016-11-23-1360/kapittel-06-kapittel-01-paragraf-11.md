@@ -1,0 +1,2 @@
+# § 7-2-11. Kontrolloppstillingen
+Når arbeidsgiver leverer sin skatte- eller selskapsmelding med næringsspesifikasjon, skal arbeidsgiver inkludere en kontrolloppstilling over bokførte og innberettede beløp. Kontrolloppstillingen skal være signert av arbeidsgiver. Har arbeidsgiver revisor, skal også revisor signere kontrolloppstillingen. Revisor skal sende skriftlig begrunnelse for manglende underskrift til skattekontoret.

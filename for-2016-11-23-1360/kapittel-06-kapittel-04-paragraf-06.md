@@ -1,0 +1,6 @@
+# § 7-6-6. Leveringsfrist
+(1) Opplysninger om oppdraget og oppdragstaker skal gis senest den 5. i måneden etter at arbeidet er påbegynt. Dersom arbeidet påbegynnes etter den 20. i en kalendermåned, utskytes fristen til den 15. i måneden etter arbeidets start. Opplysninger om arbeidets avslutning skal gis senest den 5. i måneden etter avslutningen. Dersom arbeidet avsluttes etter den 20. i en kalendermåned, utskytes fristen til den 15. i måneden etter at arbeidet er avsluttet.
+(2) Opplysninger om arbeidstaker skal gis senest den 5. i måneden etter arbeidstakers første arbeidsdag på oppdraget. Opplysninger om siste arbeidsdag for arbeidstaker skal gis senest den 5. i måneden etter siste arbeidsdag. Dersom arbeidstakers første eller siste arbeidsdag finner sted etter den 20. i en kalendermåned, utskytes fristen til den 15. i måneden etter arbeidstakers første eller siste arbeidsdag.
+(3) Dersom det skjer endringer etter at opplysningene er gitt, skal det gis korrigerte opplysninger senest den 5. i måneden etter at endringen fant sted. Dersom endringen skjer etter den 20. i en kalendermåned, utskytes fristen til den 15. i måneden etter at endringen fant sted.
+(4) Faller fristen på en lørdag, søndag eller helligdag, utskytes fristen til første påfølgende virkedag.
+(5) Skattekontoret kan godta andre frister etter avtale med den som skal gi opplysninger.
