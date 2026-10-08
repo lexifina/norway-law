@@ -1,0 +1,2 @@
+# § 5. Periodevis forbud mot å fiske i gytefelt for torsk
+Fra 1. januar til og med 30. april er alt fiske forbudt i gytefelt for torsk. Forbudet gjelder også ved dykking. Gytefeltene ligger i indre fjord, Frebergsvik, Mossesundet, Sletterhausen, Hvaler, Fossingfjorden og Skåtøysund. Gytefeltene er nærmere definert med koordinater i forskrift 25. mars 2019 nr. 321 om forbud mot å fiske i gytefelt for torsk, fremgår av vedlegg 2, og er vist i kartverktøy på www.fiskeridir.no.
