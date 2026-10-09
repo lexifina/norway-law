@@ -1,0 +1,6 @@
+# § 9. Fartøykvoter
+Fartøy med makrelltråltillatelse tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:50 tonn +50 % av bruttotonnasje fra0-10040 % av bruttotonnasje fra101-20030 % av bruttotonnasje fra201-30020 % av bruttotonnasje fra301-40010 % av bruttotonnasje fra401-600
+Ved beregning av fartøyets kvotefaktor gjelder tonnasje i henhold til Skipskontrollens målebrev eller identitetsbevis utstedt senest 31. desember 2001, eventuelt fartøyets tonnasje i henhold til Skipskontrollens målebrev eller identitetsbevis etter foretatt utskifting eller ombygging i overensstemmelse med utskifting- eller ombyggingstillatelse gitt senest samme dato. Ved eierskifte nyttes bruttotonnasje per nevnte tidspunkt for det fartøy reder hadde konsesjon på ved årets begynnelse eller tidligere.
+Kvoten til det enkelte fartøyet beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet fastsatt av Fiskeridirektoratet.
+Kvoteenheten er 0,2572 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,20 tonn fiskes i Storbritannias økonomiske sone.
+Fartøy med makrelltråltillatelse som deltar som ringnotfartøy eller som kystfartøy, kan ikke delta i trålgruppens fiske etter makrell.
