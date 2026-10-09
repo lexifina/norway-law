@@ -1,0 +1,2 @@
+# § 7. Hold av ender og gjess sammen med andre fugler
+I infisert sone for høypatogen aviær influensa er det forbudt å holde ender og gjess sammen med andre fugler. Mattilsynet kan gi unntak fra forbudet dersom de vurderer at risikoen for smitte er svært lav grunnet utforming av anlegget eller risikoreduserende tiltak i anlegget. Forbudet gjelder ikke dersom ender og gjess brukes som ledd i smitteovervåkning av Mattilsynet
