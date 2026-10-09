@@ -1,0 +1,3 @@
+# § 13. Kvotefleksibilitet over årsskiftet på fartøynivå
+Etter at kvoten som tildeles etter § 12 er utnyttet, kan det enkelte fartøy fiske og lande inntil 10 % av kvoten i 2026. Fartøy som benytter denne adgangen i 2026 blir belastet et tilsvarende kvantum for kvoteåret 2027. Dersom kvoten ikke er oppfisket ved utløpet av 2026, godskrives inntil 10 % av denne kvoten til 2027. Adgangen til å overføre inntil 10 % ufisket kvantum til neste år er betinget av at det er registrert fangst på fartøyets deltakeradgang i inneværende år.
+Fartøy som benyttet adgangen til kvotefleksibilitet over årsskifte på fartøynivå 2025 blir belastet eller godskrevet et tilsvarende kvantum for kvoteåret 2026.
