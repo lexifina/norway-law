@@ -1,0 +1,2 @@
+# § 1-13. Forordning om gebyrer og avgifter som skal betales til ECHA
+Forordning EU) nr. 564/2013 om gebyrer og avgifter til det europeiske kjemikalibyrået, som inntatt i EØS-avtalen vedlegg II kapittel XV nr. 12nl, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2025/1490.
