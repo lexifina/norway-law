@@ -1,0 +1,1 @@
+Forurensingsloven § 88 og § 74 fjerde ledd jf. § 3 andre ledd nr. 3 gis anvendelse for skip registrert i land som er bundet av Nairobi-konvensjonen, med de begrensinger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat.
