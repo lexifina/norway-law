@@ -1,0 +1,4 @@
+# § 104. Følger av brudd på opplysningsplikten
+Dersom søkeren med vilje eller uaktsomt har brutt opplysningsplikten, og dermed har fått eller forsøkt å få utbetalt eller godskrevet lån og stipend som søkeren ikke har rett til, kan søkeren helt eller delvis miste retten til lån og stipend.
+Stipend som søkeren ikke har rett til, gjøres om til lån. Utbetalt lån og stipend kan kreves tilbakebetalt umiddelbart. Renter kan regnes av lånet i utdanningstiden. Beløp som ikke blir betalt tilbake, kan trekkes fra fremtidige utbetalinger slik at utbetalingene reduseres. Hele gjelden kan bli sagt opp, og søkeren kan miste retten til sletting av renter, betalingsutsettelse og sletting av gjeld.
+Ved vurderingen av hvilke konsekvenser bruddet på opplysningsplikten skal få, skal hovedvekten legges på hvor lenge misligholdet av opplysningsplikten har vart, og hvor mye uberettiget lån og stipend søkeren har fått.

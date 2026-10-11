@@ -1,0 +1,2 @@
+# § 101. Behovsprøving av barnestipend mot ektefelles person- og kapitalinntekt
+Barnestipendet blir redusert dersom søkeren har en ektefelle med brutto person- og kapitalinntekt over grensene i tabellen under i den perioden søkeren får barnestipend. Renteinntekter fra Boligsparing for ungdom regnes ikke med. Stipendet blir redusert med 5 prosent per måned av den delen av ektefellens brutto person- og kapitalinntekt som overstiger grensene.KalenderårPerson- og kapitalinntekt til søkerens ektefelle2026529 861 kr2027548 406 kr

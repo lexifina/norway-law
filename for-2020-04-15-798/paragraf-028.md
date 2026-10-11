@@ -1,0 +1,3 @@
+# § 28. Universitets- og høyskoleutdanning på nett i et EØS-land eller i Storbritannia
+En søker som i et annet EØS-land enn Norge tar en universitetets- eller høyskoleutdanning som bare foregår på nett og som oppfyller vilkårene i § 26 eller § 27 første ledd bokstav a eller bokstav b, har bare rett til lån til dekning av skolepenger etter § 89a.
+Søkere som er i gang med en gradsutdanning som bare foregår på nett ved et lærested i Storbritannia, senest innen utløpet av overgangsperioden som er avtalt mellom Island, Liechtenstein, Norge og Storbritannia som følge av at Storbritannia trer ut av EU, har rett til lån til skolepenger etter § 89a. Skolepenger blir gitt i normert tid for utdanningen.

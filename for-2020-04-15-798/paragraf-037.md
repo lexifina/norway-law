@@ -1,0 +1,3 @@
+# § 37. Foreldrestipend etter utdanningsperioden
+En søker som fullfører en grad, og som får eller adopterer barn innen 7 måneder etter en fullført grad, har rett til basislån og barnestipend som foreldrestipend etter utdanningsperioden etter vilkårene i § 36 første ledd bokstav b–d, andre, tredje, fjerde, femte og sjuende ledd. Søkeren skal ha hatt rett til lån og stipend i en opptjeningstid på de siste 4 månedene før utdanningsperioden ble avsluttet. Med grad menes fagskolegrader og grader som omfattes av § 78. En grad fullført i høstsemesteret regnes som fullført 15. januar. En grad fullført i vårsemesteret regnes som fullført 15. juni.
+Dersom søkeren begynner i utdanning igjen, gjelder vilkårene i § 36.

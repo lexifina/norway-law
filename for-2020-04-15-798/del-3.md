@@ -1,0 +1,1 @@
+# Del 3. Universitets- og høyskoleutdanning, fagskoleutdanning, folkehøgskoleutdanning, videregående opplæring og forberedende opplæring for voksne for søkere som ikke er omfattet av del 2, og andre utdanninger

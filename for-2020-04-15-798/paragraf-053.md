@@ -1,0 +1,2 @@
+# § 53. Behovsprøving av borteboerstipend
+For lærlinger, praksisbrevkandidater, lærekandidater og kandidater for fagbrev på jobb blir borteboerstipendet i studieåret 2026-2027 redusert dersom brutto månedslønn er høyere enn 18 677 kr i den perioden søkeren får lån og stipend. 60 prosent av bruttoinntekten over denne grensen trekkes fra stipendet. Dersom inntekten varierer, blir gjennomsnittlig månedsinntekt per semester lagt til grunn.
