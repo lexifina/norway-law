@@ -1,0 +1,9 @@
+# § 7. Lån og stipend til utenlandske statsborgere som tar utdanning i Norge
+En utenlandsk statsborger som har lovlig opphold og tar utdanning i Norge, har rett til lån og stipend på samme vilkår som norske statsborgere når søkeren oppfyller ett av følgende vilkår:
+a) Søkeren har permanent oppholdstillatelse.
+b) Søkeren har opphold på grunnlag av beskyttelse, sterke menneskelige hensyn eller særlig tilknytning til riket.
+c) Søkeren har opphold etter utlendingsloven § 113 eller § 114, jf. § 110 som familiemedlem til en EØS-borger med annet oppholdsgrunnlag i Norge enn studier.
+d) Søkeren har opphold på grunnlag av familieinnvandring med norsk eller utenlandsk statsborger med et annet oppholdsgrunnlag i Norge enn studier, eller søkeren har fortsatt opphold på selvstendig grunnlag etter utlendingsloven § 53.
+e) Søkeren er gift, samboer med felles barn eller partner med norsk statsborger, og begge bor i Norge.
+f) Søkeren har i en opptjeningstid på minst 24 måneder hatt sammenhengende fulltidsarbeid i Norge, vært bosatt i og betalt skatt til Norge. Søkeren skal ha hatt oppholdstillatelse som arbeidstaker i opptjeningstiden. Det skal ikke være opphold i opptjeningstiden eller mellom opptjeningstiden og perioden med lån og stipend. Det kan likevel gjøres unntak for opphold på inntil 1 år ved sykdom eller fødsel.
+g) Søkeren har i en opptjeningstid på minst 36 måneder vært bosatt i og vært i utdanning i Norge og bestått utdanning tilsvarende 3 års fulltidsutdanning. Det skal ikke være opphold i opptjeningstiden eller mellom opptjeningstiden og perioden med lån og stipend. Det kan likevel gjøres unntak for opphold på inntil 1 år ved sykdom eller fødsel. Søkeren kan i opptjeningstiden ikke ha mottatt støtte til utdanningen fra offentlige utdanningsstøtteordninger eller norske offentlige støtteordninger for utvikling.

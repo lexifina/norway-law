@@ -1,0 +1,2 @@
+# § 103. Endring av låne- og stipendbeløp ved nye opplysninger
+Dersom nye opplysninger viser at søkeren ikke har rett til hele eller deler av låne- og stipendbeløpet som er utbetalt, gjør Lånekassen stipend søkeren ikke har rett til, om til lån. I særlige tilfeller krever Lånekassen lånet tilbakebetalt umiddelbart. Beløp som ikke blir tilbakebetalt, kan trekkes fra fremtidige utbetalinger av lån og stipend slik at utbetalingene reduseres.

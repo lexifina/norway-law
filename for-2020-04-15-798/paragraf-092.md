@@ -1,0 +1,6 @@
+# § 92. Lån og stipend til reiser i land utenfor Norden
+En søker som tar utdanning i land utenfor Norden, og som har bostedsadresse i Folkeregisteret i Norge, har rett til lån og stipend til dekning av utgifter til reiser mellom Norge og regionen lærestedet ligger i.
+Søkeren har rett til 65 prosent per region som lån og 35 prosent per region som stipend etter satsene i fjerde kolonne i tabellen under.RegionLån (65 %)Stipend (35 %)Sum i studieåret 2026-2027Europa2 022 kr1 089 kr3 110 krAfrika8 307 kr4 473 kr12 780 krAsia6 941 kr3 737 kr10 678 krNord- og Mellom-Amerika7 543 kr4 061 kr11 604 krSør-Amerika9 658 kr5 200 kr14 858 krOseania11 005 kr5 926 kr16 930 kr
+Søkere som tar utdanning som varer lenger enn 6 måneder per studieår, har også rett til et lån etter satsene i tabellen under.RegionLån i studieåret 2026-2027Europa3 110 krAfrika12 780 krAsia10 678 krNord- og Mellom-Amerika11 604 krSør-Amerika14 858 krOseania16 930 kr
+Søkere som tar kurs som varer i mindre enn 4 uker ved de norske studiesentrene og instituttene i utlandet, har bare rett til lån til reiser. Lånet gis etter satsene i tabellen i tredje ledd.
+Søkere som får støtte til reiser fra andre eller som bor sammen med en av eller begge foreldrene i utlandet, har ikke rett til lån og stipend til reiser.

@@ -1,0 +1,2 @@
+# § 94a. Rekrutteringsstipend til gradsutdanning eller utvekslingsopphold i utvalgte land
+En søker som i Brasil, Russland, India, Kina, Sør-Afrika, Japan eller Sør-Korea tar en gradsutdanning eller et utvekslingsopphold som er en godkjent del av en universitets- og høyskoleutdanning som søkeren har begynt på i Norge, har, i tillegg til basislånet, rett til et stipend i inntil 10 måneder. For studieåret 2026-2027 er stipendet på inntil 4 493 kr per måned.

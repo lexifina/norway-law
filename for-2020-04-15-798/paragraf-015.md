@@ -1,0 +1,2 @@
+# § 15. Krav om opptak som elev eller student
+For å ha rett til lån og stipend skal søkeren være tatt opp som elev eller student i en utdanning som er godkjent for utdanningsstøtte, og ha rett til å gå opp til eksamen. Søkere som er lærlinger, har rett til lån og stipend når lærekontrakten er godkjent. Søkere som er lærekandidater, praksisbrevkandidater eller kandidater for fagbrev på jobb, har rett til lån og stipend når opplæringskontrakten er godkjent.

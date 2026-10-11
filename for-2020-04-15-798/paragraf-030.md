@@ -1,0 +1,2 @@
+# § 30. Yrkesfaglig utdanning
+Yrkesfaglig utdanning i et land utenfor Norden på nivå med videregående opplæring eller fagskoleutdanning i Norge, gir rett til lån og stipend dersom utdanning innenfor tilsvarende fagområde enten ikke finnes i Norge eller regnes som ett av de verneverdige tradisjonshåndverksfagene i Norge i liste publisert av Utdanningsdirektoratet. Utdanningen skal ha offentlig godkjenning i studielandet eller bli anbefalt av norsk faginstans.

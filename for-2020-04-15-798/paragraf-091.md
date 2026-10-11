@@ -1,0 +1,4 @@
+# § 91. Valutajustering ved utbetaling av lån og stipend til skolepenger i land utenfor Norden
+En søker som får lån og stipend til dekning av skolepenger i land utenfor Norden, og som betaler skolepenger i utenlandsk valuta, kan få utbetalt et annet beløp enn beløpet i vedtaket om lån og stipend dersom valutakursen for norske kroner er endret sammenlignet med valutakursen Lånekassen fastsetter for studieåret 2026-2027. Dette gjelder ikke for lån til skolepenger til utdanning som bare foregår på nett ved et lærested i et annet EØS-land enn Norge.
+Søkeren kan få utbetalt et lavere beløp dersom den norske kronen har styrket seg med mer enn 1 prosent på utbetalingstidspunktet, sammenliknet med valutakursen som Lånekassen har fastsatt for studieåret.
+Søkeren kan få utbetalt et høyere beløp dersom den norske kronen har svekket seg med mer enn 1 prosent på utbetalingstidspunktet, sammenliknet med valutakursen som Lånekassen har fastsatt for studieåret.

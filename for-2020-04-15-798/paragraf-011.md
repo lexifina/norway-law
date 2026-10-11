@@ -1,0 +1,2 @@
+# § 11. Lån og stipend til statsborgere fra Storbritannia og deres familiemedlemmer som tar utdanning i Norge eller utlandet
+En statsborger fra Storbritannia har rett til lån og stipend etter vilkårene i § 8, § 9 og § 10 dersom den britiske statsborgeren har utøvd sin rett til å oppholde seg i Norge i samsvar med EØS-avtalen før utløpet av overgangsperioden som er avtalt mellom Island, Liechtenstein, Norge og Storbritannia som følge av at Storbritannia trer ut av EU, og fortsatt oppholder seg i Norge. Den samme retten gjelder for statsborgerens familiemedlemmer.
