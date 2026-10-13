@@ -1,0 +1,4 @@
+# § 1. Overgangsregler til trygderettsloven § 11 første ledd
+Anke over vedtak datert til og med 31. desember 2026 framsettes for den institusjon som har fattet vedtaket, i loven kalt ankemotparten. Ankemotparten forbereder saken og oversender denne til Trygderetten i henhold til regelverket gjeldende per 31. desember 2026.
+Anke over vedtak datert fra og med 1. januar 2027 framsettes for Trygderetten.
+Anker som er feilsendt til ankemotparten eller Trygderetten i perioden 1. januar til 15. februar 2027, anses som fristavbrytende så lenge de er sendt innen ankefristen. Mottakeren av den feilsendte anken har i perioden ansvaret for å oversende anken til riktig instans uten ugrunnet opphold. For øvrig gjelder reglene for ankefrist og beregning av ankefristen som regulert i trygderettsloven §§ 9 og 10.
