@@ -1,0 +1,3 @@
+# § 7. Samsvarsvurdering
+Dokumentasjon som benyttes i prosedyrene for samsvarsvurdering, jf. forordning (EU) 2017/745 (MDR) artikkel 52 nr. 1 til 7 og nummer 9 til 11, herunder teknisk dokumentasjon, samt revisjons-, vurderings- og inspeksjonsrapporter, skal gis på engelsk, jf. forordning (EU) 2017/745 (MDR) artikkel 52 nr. 12.
+Dokumentasjon som benyttes i prosedyrene for samsvarsvurdering, jf. forordning (EU) 2017/746 (IVDR) artikkel 48 nr. 1 til 10, herunder teknisk dokumentasjon, samt revisjons-, vurderings- og inspeksjonsrapporter, skal gis på engelsk, jf. forordning (EU) 2017/746 (IVDR) artikkel 48 nr. 12.

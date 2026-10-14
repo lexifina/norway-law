@@ -1,0 +1,2 @@
+# § 21. Overgangsbestemmelse for unntak fra samsvarsvurdering
+Unntak fra samsvarsvurdering gitt av Direktoratet for medisinske produkter i samsvar med forskrift 15. desember 2005 nr. 1690 om medisinsk utstyr jf. artikkel 9 nr. 9 i direktiv 90/385/EF (AIMDD), artikkel 11 nr. 13 i direktiv 93/42/EF (MDD) eller artikkel 9 nr. 12 i direktiv 98/79/EF (IVDD) skal være gyldige til tidspunkt angitt i unntaket.

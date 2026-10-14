@@ -1,0 +1,2 @@
+# § 10. Dokumentasjon fra produsent og autorisert representant
+Produsent og autorisert representant skal på anmodning fra Direktoratet for medisinske produkter fremlegge all informasjon og dokumentasjon som er nødvendig for å vise at utstyret er i samsvar med kravene på norsk eller engelsk, jf. forordning (EU) 2017/745 (MDR) artikkel 10 nr. 14 og artikkel 11 nr. 3 bokstav d og forordning (EU) 2017/746 (IVDR) artikkel 10 nr. 13 og artikkel 11 nr. 3 bokstav d.

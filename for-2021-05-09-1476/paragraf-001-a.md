@@ -1,0 +1,2 @@
+# § 1a. Elektroniske bruksanvisninger for medisinsk utstyr
+Forordning (EU) 2021/2226 om elektroniske bruksanvisninger for medisinsk utstyr, som inntatt i EØS-avtalen vedlegg II kapittel XXX nr. 11b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II kapittel XXX, protokoll 1 til avtalen og avtalen for øvrig, og med de endringene som følger av forordning (EU) 2025/1234.
