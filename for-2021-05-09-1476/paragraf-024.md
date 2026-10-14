@@ -1,0 +1,4 @@
+# § 24. Registrering i offentlig utstyrsregister
+Enhver med forretningsadresse i Norge, som produserer og i eget navn markedsfører medisinsk utstyr, eller markedsfører utstyret som systemer eller prosedyresett, skal føre inn sitt firmanavn, organisasjonsnummer, forretningsadresse, samt data som gjør det mulig å entydig identifisere utstyret, i et offentlig utstyrsregister.
+Produsent som ikke har forretningsadresse innenfor EØS-området, men som i eget navn markedsfører utstyr i EØS-området, skal før markedsføringen utpeke en ansvarlig representant etablert innenfor EØS-området. Ansvarlig representant med norsk forretningsadresse skal registrere opplysninger om sitt firma og det aktuelle utstyret i samsvar med bestemmelsen i første ledd.
+Direktoratet for medisinske produkter kan gi nærmere retningslinjer om gjennomføring av registreringsplikten, herunder bestemmelser om at opplysninger om utstyret skal gis ved bruk av gjeldende nomenklatur for medisinsk utstyr.

@@ -1,0 +1,2 @@
+# § 1b. Medisinsk utstyr framstilt av animalsk vev
+EØS-avtalens vedlegg II kapittel XXX nr. 5a (forordning (EU) nr. 722/2012) om særskilte krav til kriteriene fastsatt i rådsdirektivene 90/385/EØF og 93/42/EØF om aktivt implanterbart medisinsk utstyr og medisinsk utstyr som er framstilt av animalsk vev gjelder som forskrift med de endringer og tillegg som følger av vedlegg II kapittel XXX, protokoll 1 til avtalen og avtalen for øvrig.

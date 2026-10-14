@@ -1,0 +1,3 @@
+# § 1g. Felles spesifikasjoner og omklassifisering av produkter uten tiltenkt medisinsk formål
+EØS-avtalens vedlegg II kapittel XXX nr. 11d (forordning (EU) 2022/2346 som endret ved forordning (EU) 2023/1194) om fastsettelse av felles spesifikasjoner for gruppene av produkter uten tiltenkt medisinsk formål oppført i vedlegg XVI til europaparlaments- og rådsforordning (EU) 2017/745 gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalens vedlegg II kapittel XXX nr. 11e (forordning (EU) 2022/2347) om omklassifisering av grupper av aktivt utstyr uten et tiltenkt medisinsk formål gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

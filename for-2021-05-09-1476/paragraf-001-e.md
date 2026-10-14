@@ -1,0 +1,2 @@
+# § 1e. Felles spesifikasjoner for in vitro-diagnostisk medisinsk utstyr i klasse D
+EØS-avtalen vedlegg II, kapittel XXX nr. 12a (forordning (EU) 2022/1107) om fastsettelse av felles spesifikasjoner for visse medisinske utstyr for in vitro-diagnostisk klasse D i samsvar med europaparlaments- og rådsforordning (EU) 2017/746 gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
