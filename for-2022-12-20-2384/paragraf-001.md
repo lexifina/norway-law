@@ -1,0 +1,2 @@
+# § 1. Formål
+Forskriftens formål er å sikre at offentlige oppdragsgivere og oppdragsgivere ved anskaffelse av visse kjøretøyer til veitransport tar hensyn til energi- og miljøvirkninger gjennom hele kjøretøyenes levetid, herunder energiforbruk samt utslipp av CO2 og visse forurensende stoffer, med det formålet å fremme og å stimulere markedet for rene og energieffektive kjøretøyer samt å øke transportsektorens bidrag til miljø-, klima- og energipolitikken innen EØS.
