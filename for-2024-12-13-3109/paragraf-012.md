@@ -1,0 +1,3 @@
+# § 12. Beregningsgrunnlag når uttaket skjer ved 62 år
+Dersom AFP tas ut det kalenderåret arbeidstakeren fyller 62 år, skal pensjonen beregnes etter AFP-loven § 10 på grunnlag av inntekten til og med det kalenderåret vedkommende fylte 60 år.
+Grunnlaget for det kalenderåret vedkommende fylte 61 år, skal gis virkning for pensjonen fra januar året etter at formues- og inntektsskatt er fastsatt. Grunnlaget skal oppjusteres i samsvar med lønnsveksten fra inntektsåret fram til virkningstidspunktet. Årlig pensjon økes deretter med 4,21 prosent av det oppjusterte grunnlaget, dividert med delingstallet etter folketrygdloven § 20-13 som gjelder på virkningspunktet for økningen.

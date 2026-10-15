@@ -1,0 +1,2 @@
+# § 5. Nærmere om kravet til hovedarbeidsforhold etter AFP-loven § 8
+Ved samtidige stillinger der én stilling er tilknyttet en AFP-virksomhet og en annen stilling ikke, regnes stillingen med høyest faktisk arbeidet tid som hovedarbeidsforhold. Dersom faktisk arbeidet tid i stillingene er den samme, skal stillingen med høyest pensjonsgivende inntekt etter folketrygdloven § 3-15 regnes som hovedarbeidsforholdet.
