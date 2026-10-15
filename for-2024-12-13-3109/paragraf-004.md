@@ -1,0 +1,4 @@
+# § 4. Nærmere om kravet til arbeidsforhold etter AFP-loven § 8
+Stillingsandelen i en AFP-virksomhet må i gjennomsnitt utgjøre minst 20 prosent av full stilling. Gjennomsnittlig stillingsandel i kalenderåret må minst utgjøre 20 prosent av full stilling dersom arbeidstakeren arbeider alle månedene i kalenderåret. Arbeider ikke arbeidstakeren i alle årets måneder, kreves minst 20 prosent stilling av full stilling hver arbeidsmåned.
+Kravet om stillingsandel på 20 prosent av full stilling, kan for sesongarbeidere oppfylles dersom de utfører sesongarbeid i en AFP-virksomhet som på årsbasis minst tilsvarer 20 prosent av en full stilling.
+Ved vurderingen av arbeidsforholdet skal faktisk arbeidet tid legges til grunn. Dersom arbeidstaker i perioder er forhindret fra å utføre arbeidet på grunn av sykdom eller skade, kan det formelle arbeidsforholdet legges til grunn.

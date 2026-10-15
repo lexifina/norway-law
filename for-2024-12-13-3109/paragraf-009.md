@@ -1,0 +1,3 @@
+# § 9. Nærmere om vilkåret om å ikke ha mottatt uføretrygd etter fylte 62 år
+Tidsrom der uføretrygd ikke er kommet til utbetaling, men vedkommende har hatt rett til å få tilbake uføretrygden etter reglene i folketrygdloven § 12-10 tredje ledd, skal ikke regnes som tidsrom med mottak av uføretrygd etter AFP-loven § 8 tredje ledd. Utbetaling av uføretrygd etter fylte 62 år som følge av etteroppgjør for tidsrom før fylte 62 år, regnes heller ikke som mottak av uføretrygd ved vurdering av vilkåret.
+En arbeidstaker som har rett til, men som ikke har mottatt uføretrygd etter fylte 62 år, har rett til AFP dersom vedkommende senest ved uttak av pensjonen sier fra seg uføretrygden, med virkning fra og med måneden etter fylte 62 år.
