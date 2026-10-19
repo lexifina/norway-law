@@ -1,0 +1,3 @@
+# § 15. Ny stilling i utdanningens første del i særlige tilfeller
+Legen kan ansettes i en ny stilling i utdanningens første del i særlige tilfeller dersom det er behov for det av andre grunner enn lovfestet eller tariffestet fravær. Dette skal ikke føre til bortfall av en stilling som ellers ville vært tilgjengelig for nye søkere. Den nye stillingen skal ikke utlyses.
+Leger som var ansatt i stilling i utdanningens første del under covid-19-utbruddet, og som ikke har oppnådd alle læringsmål i utdanningens første del, har rett til forlenget tjeneste, så lenge fraværet er en følge av covid-19-utbruddet.
