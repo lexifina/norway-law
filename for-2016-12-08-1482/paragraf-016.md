@@ -1,0 +1,3 @@
+# § 16. Tilskudd til kommunene
+Kommunene mottar et økonomisk tilskudd for å medvirke til gjennomføringen av den praktiske tjenesten i utdanningens første del ved å ansette leger i stillinger opprettet etter § 11 første eller andre ledd. Dersom kommunen i en periode ikke har leger i spesialisering i utdanningens første del ansatt på grunn av forhold den ikke selv har kontroll over, skal kommunen likevel få tildelt tilskuddet.
+Misligholder kommunen sine forpliktelser etter forskriften, kan Helsedirektoratet bestemme at tilskuddet skal bortfalle eller at kommunen i en nærmere fastsatt periode fratas stillinger for utdanning av legespesialister i utdanningens første del.

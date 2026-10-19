@@ -1,0 +1,5 @@
+# § 8. Krav til stillinger og praksis for leger i spesialisering
+Spesialistutdanning skal gjennomføres i særskilte stillinger for leger i spesialisering. Dette gjelder ikke for spesialistutdanning tilknyttet registrerte utdanningsvirksomheter.
+Stillingene skal utlyses og det skal stå i utlysningsteksten at den ledige stillingen er en stilling for lege i spesialisering.
+For leger i spesialisering ved godkjente utdanningsvirksomheter, skal stillingene være heltidsstillinger. En lege kan likevel ansettes på deltid dersom dette ikke er i veien for at legen kan gjennomføre de læringsaktivitetene som er nødvendige for å oppnå læringsmålene.
+For leger i spesialisering tilknyttet registrerte utdanningsvirksomheter, skal utdanningen gjennomføres på heltid. En registrert utdanningsvirksomhet som skal ansette lege eller inngå avtale med lege som skal gjennomføre spesialistutdanning, skal påse at spesialistutdanningen gjennomføres på heltid. Spesialiseringen kan likevel gjennomføres på deltid dersom dette ikke er i veien for at legen kan gjennomføre de læringsaktivitetene som er nødvendige for å oppnå læringsmålene.

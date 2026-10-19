@@ -1,0 +1,3 @@
+# § 38. Overgangsregler for godkjenning av utdanningsvirksomheter og registrering av utdanningsvirksomheter
+Søknad om godkjenning som utdanningsvirksomhet etter denne forskriften som er sendt før 1. mars 2019, gjelder som godkjenning frem til søknaden er ferdig behandlet.
+Virksomheter som innen 1. juni 2019 søker om registrering som utdanningsvirksomhet, skal ansees som registrert utdanningsvirksomhet etter denne forskriften fra 1. mars 2019 og frem til virksomheten er registrert som utdanningsvirksomhet etter § 21. Helsedirektoratet kan bestemme at virksomheter som søker om registrering før 31. desember 2023 og som har gitt utdanning i samsvar med kravene i § 23 og § 25, skal regnes som registrert fra et tidligere tidspunkt enn søknadstidspunktet.

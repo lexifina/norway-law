@@ -1,0 +1,5 @@
+# § 26. Vurdering og dokumentasjon av oppnådde læringsmål
+Utdanningsvirksomheten skal sørge for at legen får løpende vurdering av om læringsmålene er oppnådd og at oppnådde læringsmål dokumenteres så snart som mulig. I vurderingen skal det innhentes anbefalinger fra veilederen og minst en av dem som har deltatt i supervisjonen.
+Dersom en lege i spesialisering i utdanningens andre eller tredje del ikke får dokumentasjon på at et læringsmål er oppnådd, har legen rett til en ny vurdering.
+Dersom legen ber om det, skal det regionale helseforetaket sørge for en ny vurdering fra en annen virksomhet. Dersom lege under spesialistutdanning tilknyttet registrert utdanningsvirksomhet ber om det, skal statsforvalteren legge til rette for ny vurdering. Registrert utdanningsvirksomhet skal bistå statsforvalteren med gjennomføring av ny vurdering.
+Dersom læringsmålet heller ikke oppnås etter den nye vurderingen, kan legen kreve ny vurdering etter å ha gjennomført relevante læringsaktiviteter i minst seks måneder.

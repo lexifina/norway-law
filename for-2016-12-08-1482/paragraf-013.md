@@ -1,0 +1,4 @@
+# § 13. Kobling av stillinger i utdanningens første del
+Kommunen og helseforetak eller sykehus skal samarbeide om å lyse ut stillinger koblet, slik at den som ansettes får gjennomført hele utdanningens første del innenfor en utlyst stilling. Helsedirektoratet kan pålegge helseforetak, sykehus og kommuner å lyse ut koblete stillinger. Stillingene i sykehuset og i kommunen er to ulike ansettelsesforhold. Stillingene kan kobles på en av følgende måter:
+a) Søkeren ansettes samtidig i en stilling ved et sykehus eller et helseforetak, og i en stilling i en bestemt kommune.
+b) Søkeren ansettes først i en stilling ved et sykehus eller et helseforetak. Søkeren gis deretter rett til ansettelse i én av de kommunene som sykehuset eller helseforetaket samarbeider med. Søkeren skal ansettes i kommunen i rimelig tid før tjenesten der er planlagt å begynne.
