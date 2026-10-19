@@ -1,0 +1,4 @@
+# § 15-2. Regler om varigheten av oppholdstillatelse etter lovens § 74
+Oppholdstillatelse etter lovens § 74 gis normalt for en periode av inntil seks måneder om gangen, men kan i særlige tilfeller gis for inntil ett år. Tillatelsen gjelder fra vedtaksdato.
+Dersom vernet mot utsendelse etter lovens § 73 faller bort før utløpet av den gitte tillatelsen, opphører tillatelsen å gjelde fra det tidspunkt det er truffet vedtak i første instans om bortfall av vernet, jf. forskriftens § 15-1. Tillatelsen bortfaller også dersom utlendingen reiser ut av riket.
+Dersom det fremsettes klage over vedtak om bortfall av vernet etter lovens § 73, og klagen gis oppsettende virkning, kan Utlendingsdirektoratet beslutte at en gitt tillatelse fortsatt skal gjelde, og ny tillatelse kan gis fram til klagen er avgjort i medhold av forskriftens § 15-3.

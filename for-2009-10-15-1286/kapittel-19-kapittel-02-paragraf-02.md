@@ -1,0 +1,5 @@
+# § 19-3. Søknad om oppholdstillatelse etter lovens kapittel 3, 4, 6 og 7 fra utlendinger som har oppholdsrett etter lovens kapittel 13, og betydningen av oppholdsretten
+Utlendinger som har oppholdsrett etter lovens kapittel 13, kan søke oppholdstillatelse etter lovens kapittel 3, jf. forskriftens kapittel 6.
+Utlendinger som har oppholdsrett etter lovens kapittel 13, kan søke beskyttelse etter lovens kapittel 4 og eventuelt få slik oppholdstillatelse som følger av bestemmelsene i lovens kapittel 4, jf. lovens kapittel 5 og 9.
+Familiemedlemmene til en referanseperson som er EØS-borger med oppholdsrett, kan ikke få oppholdstillatelse etter lovens kapittel 6 uten at referansepersonen har oppholdstillatelse etter lovens kapittel 3 eller 4.
+Utlendinger som har oppholdsrett etter lovens kapittel 13 og har oppholdstillatelse med grunnlag for permanent oppholdstillatelse, får medregnet perioder med oppholdsrett ved søknad om permanent oppholdstillatelse etter bestemmelsene i forskriftens § 11-1 tredje ledd, jf. lovens § 62.

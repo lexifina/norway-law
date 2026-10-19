@@ -1,0 +1,3 @@
+# § 6-29. Oppholdstillatelse til nyutdannede og forskere mv. for å søke arbeid som faglært
+En utlending som er faglært etter § 6-1 første ledd og som på søknadstidspunktet har tillatelse etter § 6-19 første eller tredje ledd eller § 6-20, kan få oppholdstillatelse for til sammen ett år for å søke arbeid, jf. § 6-1 første ledd. Det samme gjelder personer som på søknadstidspunktet har tillatelse etter § 6-1 første ledd som forsker eller lignende stilling for å drive med forskning ved høyskole, universitet eller forskningsinstitusjon. UDI kan gi nærmere retningslinjer.
+Tillatelsen danner ikke grunnlag for permanent oppholdstillatelse.

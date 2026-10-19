@@ -1,0 +1,2 @@
+# § 6-34. Misbruk av ordningen med tidlig arbeidsstart
+Arbeidsgiver som ikke fyller vilkårene i § 6-8 første ledd og som lar arbeidstakerne starte arbeidet før tillatelse foreligger, eller som etter å ha gitt uriktige opplysninger har fått adgang til å la arbeidstakere starte i arbeidet før tillatelse foreligger, jf. § 6-8 tredje ledd, kan bli utelukket fra ordningen med tidlig arbeidsstart for en periode på inntil ett år. Utlendingsdirektoratet kan gi nærmere retningslinjer.

@@ -1,0 +1,8 @@
+# § 20-8. Særskilt om fornyelse av tillatelse gitt etter utlendingsforskriften 1990 § 2 til § 5a
+En utlending som har en løpende tillatelse etter utlendingsforskriften 1990 § 2 til § 5a når denne forskriften trer i kraft, kan søke fornyet tillatelse etter bestemmelsene i lovens kapittel 3, jf. forskriftens kapittel 6, og lovens kapittel 7, jf. forskriftens kapittel 10, når tillatelsen utløper. Fornyet tillatelse gis med utgangspunkt i at de nye tillatelsesgrunnlagene vil være nye rettslige grunnlag, jf. lovens § 61. Det skal likevel tas tilbørlig hensyn til om det nye tillatelsesgrunnlaget vil være en videreføring av det tidligere tillatelsesgrunnlaget.
+Tillatelse til
+a) utsendte arbeidstakere, jf. § 6-13, fornyes på grunnlag av vilkårene etter utlendingsforskriften 1990 § 4 a første ledd bokstav c innenfor rammen av den opprinnelige kontrakten som lå til grunn for den tidligere tillatelsen,
+b) selvstendige næringsdrivende, jf. § 6-18, fornyes på grunnlag av vilkårene etter utlendingsforskriften 1990 § 3 annet ledd bokstav c når det gjelder den samme virksomheten som lå til grunn for den tidligere tillatelsen, og
+c) praktikanter, jf. § 6-21, fornyes på grunnlag av vilkårene etter utlendingsforskriften 1990 § 4 a annet ledd bokstav a inntil søkeren har hatt tillatelse i til sammen to år.
+Det skal tas hensyn til den tidligere tillatelsen ved beregning av samlet tid og karenstid før ny tillatelse eventuelt kan gis. Når fornyet tillatelse gis med grunnlag i § 6-1, skal likevel ikke tidligere begrensninger i tid tas hensyn til.
+Fornyet tillatelse etter forskriftens § 6-1, § 6-2 eller § 6-3, jf. første ledd, skal ikke telle inn under kvoteordningene, jf. § 6-12.

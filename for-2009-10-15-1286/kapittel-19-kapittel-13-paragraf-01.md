@@ -1,0 +1,5 @@
+# § 19-28. Bortvisning – vedtaksmyndighet
+Politimesteren eller den politimesteren gir fullmakt treffer vedtak om bortvisning etter lovens § 121 første ledd bokstav a. Det samme gjelder når det ikke er tvil om at det foreligger forhold som nevnt i lovens § 121 første ledd bokstav c eller forskriftens § 19-29.
+Politimesteren eller den politimesteren gir fullmakt treffer vedtak om bortvisning etter lovens § 121 første ledd bokstav b frem til utlendingen har oppholdt seg i riket i tre måneder uten rett til innreise og opphold, eller i tre måneder etter utløpet av oppholdsrett etter lovens § 111, når det ikke er tvil om at vilkårene for bortvisning er oppfylt.
+Sjef for Politiets sikkerhetstjeneste eller den vedkommende gir fullmakt kan treffe vedtak om bortvisning inntil sju dager etter innreise i saker hvor grunnleggende nasjonale interesser tilsier det. Begrensingen i første ledd om at det ikke må foreligge tvil, gjelder ikke i slike tilfeller.
+Vedtak som nevnt i tredje ledd kan påklages til departementet, jf. lovens § 129 første ledd.

@@ -1,0 +1,6 @@
+# § 17-15. Uttransportering
+Politiet skal foreta nødvendig kontroll og avgjøre om eskorte er påkrevd. Ved vurderingen av behovet for eskorte bør det særlig tas hensyn til sikkerheten om bord på transportmiddelet, muligheten for at utlendingen ikke fullt ut etterkommer en beslutning om iverksetting, om transportselskapet eller fartøysjefen har bedt om eskorte, samt behovet for bistand til utlendingen. Politiet skal i det enkelte tilfellet vurdere for hvilken strekning eskorte er påkrevd.
+Antallet ledsagere fastsettes i det enkelte tilfellet etter hvor mange personer som skal føres ut, deres kjønn og personlige forhold ellers, reisens lengde, transportmåten og omstendighetene for øvrig.
+Før transporten påbegynnes, skal politiet underrette føreren av vedkommende transportmiddel.
+Politimyndighetene på aktuelle transittsteder i utlandet bør varsles på forhånd i tilfelle utlendingen vil komme til å oppholde seg på landets territorium utenfor transportmiddelet, eller når slik underretning er påkrevd av sikkerhetsmessige eller andre grunner.
+Alminnelig tjenesteinstruks for politiet (politiinstruksen) gjelder for slike transporter så langt den passer. Etter utført eskorte skal politiet sende rapport om uttransporteringen til Utlendingsdirektoratet.

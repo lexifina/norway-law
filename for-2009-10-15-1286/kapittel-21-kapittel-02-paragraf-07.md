@@ -1,0 +1,2 @@
+# § 20-10. Utlending med beskyttelse etter utlendingsforskriften 1990 § 21 første ledd
+Fornyelse av oppholdstillatelse som er innvilget i medhold av utlendingsforskriften 1990 § 21 første ledd, jf. utlendingsloven 1988 § 8 annet ledd, skjer i medhold av utlendingsloven 2008 § 38. Ved søknad om familiegjenforening med en utlending med slik tillatelse gis reglene om unntak fra underholdskravet for flyktning i § 10-8 tilsvarende anvendelse.

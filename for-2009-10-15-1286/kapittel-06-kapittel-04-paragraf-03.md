@@ -1,0 +1,5 @@
+# § 6-21. Oppholdstillatelse til praktikanter
+Utlendinger som er under 30 år og ikke har fullført utdanning fra høyskole eller universitet, men som nå gjennomfører slik utdanning, kan få oppholdstillatelse som praktikant når oppholdet bygger videre på og er relevant for denne utdanningen. Normalt kan praktikanter få oppholdstillatelse i inntil seks måneder og ikke mer enn til sammen tolv måneder. Tillatelsen kan ikke fornyes. Utlendingsdirektoratet gir nærmere retningslinjer, herunder om dokumentasjon fra utdanningsinstitusjonen, opplæringsplan, opplæringens relevans for utdanningen og krav til lønns- og arbeidsvilkår.
+Unntaksvis kan utlendinger som ikke er under utdanning, få oppholdstillatelse når de skal gjennomgå yrkesopplæring i henhold til kontrakt inngått mellom deres arbeidsgiver og selskaper i Norge. Utlendingsdirektoratet gir nærmere retningslinjer.
+Uavhengig av begrensningene i første ledd kan oppholdstillatelse også gis når praktikanten er formidlet på bakgrunn av mellomstatlige avtaler som Norge er forpliktet av.
+Oppholdstillatelse etter denne paragrafen danner ikke grunnlag for permanent oppholdstillatelse.

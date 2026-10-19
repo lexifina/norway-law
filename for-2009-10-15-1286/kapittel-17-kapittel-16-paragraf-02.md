@@ -1,0 +1,3 @@
+# § 17-25. Varigheten av tillatelse for asylsøker til å ta arbeid etter lovens § 94
+En tillatelse til å ta arbeid etter lovens § 94 gjelder for inntil 6 måneder, og kan fornyes dersom vilkårene for dette er til stede. Hvis tillatelse er gitt mens søknaden er til behandling i Utlendingsdirektoratet, faller ikke tillatelsen bort før utløpet av seksmånedersperioden selv om søknaden avslås av Utlendingsdirektoratet, dersom det foreligger en rett til fortsatt tillatelse i medhold av lovens § 94 annet ledd første punktum.
+Dersom en asylsøker som har tillatelse til å ta arbeid etter lovens § 94, får avslag på søknaden om beskyttelse av Utlendingsnemnda, bortfaller ikke tillatelsen før utreisefristen forfaller, med mindre seksmånedersperioden utløper før dette tidspunktet.

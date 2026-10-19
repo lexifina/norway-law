@@ -1,0 +1,5 @@
+# § 17-9. Utlevering av opplysninger fra politiet i saker om visum
+Etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda i henhold til lovens § 86, skal politiet gi opplysninger dersom referansepersonen er siktet, tiltalt eller ilagt straff etter straffeloven kapittel 24 til 26, ilagt kontaktforbud etter straffeloven § 57 eller besøksforbud etter straffeprosessloven § 222a, med mindre dette kan skade arbeidet med kriminalitetsbekjempelse. For øvrig kan politiet blant annet gi opplysninger om at referansepersonen er anmeldt for forhold som nevnt i første punktum eller er siktet, tiltalt eller ilagt straff for andre straffbare forhold dersom disse opplysningene må antas å være av vesentlig betydning for å vurdere om visum skal nektes.
+Underretning etter første ledd gis skriftlig med kopi til referansepersonen. Dersom opplysninger om referansepersonen senere gis videre til søkeren, skal referansepersonen orienteres om dette på samme måte.
+I saker hvor visum innvilges, skal ikke opplysninger om referansepersonens vandel formidles videre til søkeren.
+Utlendingsdirektoratet gir nærmere retningslinjer for gjennomføring av bestemmelsene i denne paragrafen.

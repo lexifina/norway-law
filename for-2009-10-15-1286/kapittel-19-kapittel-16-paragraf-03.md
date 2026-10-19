@@ -1,0 +1,4 @@
+# § 19-34. Grensearbeidere
+Britiske borgere som ved utløpet av 31. desember 2020 er arbeidstaker eller selvstendig næringsdrivende i Norge, men som ikke er bosatt her, og fortsetter å utøve slik virksomhet etter 31. desember 2020, har etter søknad rett til oppholdstillatelse. For familiemedlem til utlending som nevnt i første punktum gjelder § 19-33 annet ledd tilsvarende.
+§ 19-33 tredje til sjette ledd gjelder tilsvarende. Oppholdstillatelsen gis for inntil ett år av gangen og kan fornyes. Oppholdstillatelsen danner ikke grunnlag for permanent oppholdstillatelse. Ved søknad om oppholdstillatelse og fornyelse etter bestemmelsen her betales ikke gebyr. Utlendingen har rett til fortsatt opphold på samme vilkår etter utløpet av tillatelsen, dersom vilkårene for opphold etter bestemmelsen her fortsatt er oppfylt.
+En utlending som har oppholdstillatelse etter første ledd har etter søknad rett til oppholdstillatelse etter § 19-33, dersom vilkårene i § 19-33 er oppfylt.

@@ -1,0 +1,4 @@
+# § 10-3. Søknad som fremmes av arbeids- eller oppdragsgivere
+Arbeidsgivere, jf. § 6-9, og oppdragsgiver, jf. § 6-16, kan fremme søknad om oppholdstillatelse fra riket på vegne av arbeidstakere eller utsendte arbeidstakere og deres nærmeste familiemedlemmer som faller inn under lovens § 40 – § 42, forutsatt at det foreligger skriftlig fullmakt.
+For sjøfolk, jf. § 6-6, kan kapteinen eller annen representant for rederiet fremme søknad, forutsatt at det foreligger skriftlig fullmakt.
+Arbeids- eller oppdragsgivere kan fremme søknaden fra riket, jf. § 10-2 femte ledd, for politiet i det distriktet der arbeids- eller oppdragsgiveren har sitt forretningssted eller via et Servicesenter for utenlandske arbeidstakere. Det samme gjelder søknad om gruppetillatelse, jf. § 6-7 og § 6-15. For søknad om tillatelse til sjøfolk, jf. § 6-6, fremmes søknaden eventuelt som angitt i § 10-2 femte ledd.

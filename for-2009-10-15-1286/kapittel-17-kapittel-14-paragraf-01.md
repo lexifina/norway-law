@@ -1,0 +1,4 @@
+# § 17-17. Veiledning om rettshjelp
+I sak om bortvisning, utvisning og tilbakekall av gitt tillatelse, og når utlendingen søker beskyttelse etter lovens § 28, skal politiet gi veiledning i samsvar med lovens § 82. Politiet skal også informere om det offentliges adgang til å kreve refusjon når det er gitt fritt rettsråd uten behovsprøving, jf. § 17-19.
+Veiledningen skal gis samtidig med underretning om vedtaket eller samtidig med forhåndsvarsel når dette er påkrevd, jf. forvaltningsloven § 16. Utlending som søker beskyttelse, og som ikke har rett til fritt rettsråd, skal gis tilbud om individuell veiledning fra en uavhengig organisasjon i forbindelse med at søknaden fremsettes, med mindre det er iverksatt en ordning med kollektiv beskyttelse, jf. lovens § 34.
+Veiledning etter bestemmelsen her skal gis på et språk utlendingen kan forstå.

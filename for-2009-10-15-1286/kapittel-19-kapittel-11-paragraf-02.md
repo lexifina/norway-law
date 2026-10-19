@@ -1,0 +1,4 @@
+# § 19-26. Varig oppholdskort for familiemedlemmer som ikke er EØS-borgere
+Søknad om varig oppholdskort etter lovens § 119 fremmes for politiet i det distriktet søkeren har sitt faste opphold eller ved et Servicesenter for utenlandske arbeidstakere. Søknaden fremmes i henhold til retningslinjer gitt av Utlendingsdirektoratet.
+Søknad om varig oppholdskort fremmes innen utløpet av oppholdskortets varighet. Varig oppholdskort med biometriske opplysninger, jf. lovens § 64a, § 100a og § 100b skal som hovedregel utstedes vederlagsfritt innen seks måneder etter at fullstendig søknad er levert. Varig oppholdskort er gyldig for 10 år. Forskriftens § 12-16 om plikt til å legge frem oppholdskort, § 12-17 om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., § 12-18 om plikt til å skaffe nytt oppholdskort og § 17-11a om gebyr gjelder tilsvarende.
+Fornyelse av varig oppholdskort skjer uten søknad.

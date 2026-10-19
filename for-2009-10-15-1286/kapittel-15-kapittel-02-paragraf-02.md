@@ -1,0 +1,2 @@
+# § 15-3. Regler om fornyelse av oppholdstillatelse etter lovens § 74
+Når vilkårene etter lovens § 73 og § 74 fortsatt er oppfylt, kan en oppholdstillatelse etter lovens § 74 fornyes. Dersom søknad blir levert senest en måned før tillatelsen utløper, gjelder den eksisterende tillatelsen frem til søknaden er endelig avgjort. Bestemmelsen i forskriftens § 15-2 om varigheten av tillatelsen, gjelder tilsvarende.

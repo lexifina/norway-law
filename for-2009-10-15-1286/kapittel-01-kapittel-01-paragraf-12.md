@@ -1,0 +1,3 @@
+# § 1-9. Særregler om bortvisning og utvisning
+Vedtak om bortvisning og utvisning av en utlending med diplomatpass treffes av Utlendingsdirektoratet med mindre departementet beslutter at saken skal avgjøres av departementet, jf. lovens § 127 fjerde ledd.
+Lovens bestemmelser om utvisning kommer ikke til anvendelse overfor utlendinger som har eller er tilstått diplomatisk immunitet. Vedtak om at en diplomatisk eller konsulær tjenestemann er persona non grata eller at et hvilket som helst annet medlem av den diplomatiske stasjonens personale eller av den konsulære staben ikke er akseptabel, treffes av Utenriksdepartementet.

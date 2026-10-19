@@ -1,0 +1,5 @@
+# § 16-11. Adgang for nemndleder til å beslutte at bare visse deler av saken skal avgjøres i nemndmøte eller stornemnd
+Når en sak skal behandles i nemndmøte, kan nemndleder beslutte at nemndmøtet bare skal avgjøre om klage over avslag på søknad om oppholdstillatelse skal tas til følge etter de bestemmelsene som det er knyttet vesentlige tvilsspørsmål til.
+Når det besluttes at en anmodning om omgjøring av Utlendingsnemndas tidligere vedtak skal behandles i nemndmøte, kan nemndleder beslutte at nemndmøtet bare skal avgjøre om de nye anførslene eller de nye opplysningene som har gitt grunnlag for nemndmøtebehandling, gir grunnlag for å omgjøre Utlendingsnemndas tidligere vedtak.
+Adgangen til å avgrense saken i første og annet ledd gjelder tilsvarende for en sak som skal behandles i stornemnd. Beslutningen om å avgrense saken treffes av den nemndlederen som leder stornemnda.
+Forvaltningsloven kapittel IV til VI om saksforberedelse, vedtak og klage gjelder ikke for en beslutning om å avgrense saken etter første til tredje ledd.

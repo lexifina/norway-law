@@ -1,0 +1,5 @@
+# § 17-11. Behandlingsgebyr ved søknad om reisebevis og utlendingspass
+Ved søknad om utlendingspass fra utlending som har fått oppholdstillatelse på annet grunnlag enn en søknad om beskyttelse, eller ved søknad som fremsettes av en utlending som tidligere har fått avslag på søknad om utlendingspass, betales et gebyr på 2 200 kr senest samtidig med innlevering av søknaden. Det samme gjelder ved fremsettelse av søknad om reisebevis eller utlendingspass når tidligere utstedt reisebevis eller utlendingspass har gått tapt eller er skadd. For barn betales et gebyr på 1 200 kr.
+Ved søknad om fornyelse av reisebevis eller utlendingspass betales et gebyr på 2 200 kr. For barn under 16 år betales et gebyr tilsvarende det beløp som er fastsatt i pass- og ID-kortforskriften for søknad om ordinært pass.
+I særlige tilfeller kan vedtaksmyndigheten frafalle krav om gebyr etter annet ledd.
+Ved søknad om utlendingspass fra utlending som ikke kan skaffe seg pass eller annet reisedokument fra sitt hjemland eller annet land, til bruk for enkeltreise for assistert retur til hjemlandet, betales ikke gebyr.

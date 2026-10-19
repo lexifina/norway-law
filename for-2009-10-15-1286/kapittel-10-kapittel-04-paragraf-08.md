@@ -1,0 +1,3 @@
+# § 10-26. Utgangspunkt for beregning av varigheten av tillatelse på nytt grunnlag, jf. lovens § 61 sjuende ledd
+For tillatelse som gis før utløpet av den tidligere tillatelsen, gir vedtaksdato utgangspunkt for beregningen av tillatelsens varighet. Det samme gjelder når tillatelse på nytt grunnlag søkes etter utløpet av den tidligere tillatelsen eller dersom vilkårene for den nye tillatelsen først ble oppfylt etter utløpet av den tidligere tillatelsen. For øvrig gir utløpet av den tidligere tillatelsen utgangspunktet for beregningen.
+Lovens § 61 sjuende ledd gjelder ikke for utlendinger med oppholdstillatelse etter lovens § 47.

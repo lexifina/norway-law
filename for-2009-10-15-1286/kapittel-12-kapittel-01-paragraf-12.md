@@ -1,0 +1,6 @@
+# § 12-12. Om utstedelse av reisebevis og utlendingspass
+Det skal ikke utstedes reisebevis eller utlendingspass til barn under 18 år uten samtykke fra den eller de som har foreldreansvaret. Har foreldrene felles foreldreansvar, må begge samtykke. Reisebevis eller utlendingspass kan likevel utstedes til barn med bare den ene av foreldrenes samtykke i tilfeller der vedkommende i henhold til barneloven har anledning til å ta barnet ut av landet uten den andres samtykke. I tilfeller som nevnt i barnevernsloven § 5-6 om forbud mot å ta med barnet ut av Norge, skal samtykke bare innhentes fra barnevernstjenesten.
+Til utlending som er fratatt rettslig handleevne utstedes reisebevis eller utlendingspass bare når det foreligger samtykke fra vergen.
+Reisebevis og utlendingspass kan i særlige tilfeller utstedes til mindreårige eller personer som er fratatt rettslig handleevne uten samtykke dersom det er åpenbart ubetenkelig.
+Ved utlevering av reisebevis eller utlendingspass skal utlendingen gjøres kjent med at reisebeviset eller utlendingspasset inndras ved anskaffelse av hjemlandets reisedokument, jf. § 12-4 og § 12-8.
+Når nytt reisebevis eller utlendingspass utstedes, skal det gamle inndras.

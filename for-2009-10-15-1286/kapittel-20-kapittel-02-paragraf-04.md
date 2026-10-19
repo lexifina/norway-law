@@ -1,0 +1,4 @@
+# § 19A-4b. Vedtaksmyndighet i særskilte saker om bortvisning på ytre Schengengrense av russiske borgere med Schengenvisum for turistformål og andre ikke-essensielle reiser
+Politiet kan treffe vedtak om bortvisning ved innreise over ytre Schengengrense i saker som gjelder russiske statsborgere med Schengenvisum for turistformål og andre ikke-essensielle reiser, som kan bortvises av utenrikspolitiske hensyn, jf. lovens § 126.
+Vedtak etter første ledd kan påklages til Utlendingsdirektoratet.
+Vedtak etter første ledd kan iverksettes straks, jf. lovens § 129 femte ledd og § 90c. Det kan unnlates å sette en utreisefrist, jf. lovens § 90a første ledd bokstav e. Påberoper utlendingen seg å være flyktning eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter lovens § 73 vil komme til anvendelse, gjelder § 129 sjette ledd.

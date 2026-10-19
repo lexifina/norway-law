@@ -1,0 +1,4 @@
+# § 6-11. Tilbakekall ved arbeidsforhold. Arbeidsledighet – arbeidssøkerperiode
+Oppholdstillatelse kan tilbakekalles etter alminnelige forvaltningsrettslige regler dersom arbeidsforholdet opphører, jf. lovens § 63, med mindre vilkårene i annet ledd er oppfylt.
+Arbeidstakere med tillatelse etter § 6-1 første ledd, kan oppholde seg i landet for å søke arbeid i inntil seks måneder etter arbeidsforholdets opphør dersom den opprinnelige tillatelsen ikke utløper. Det er et vilkår at arbeidstakerne gir politiet melding innen sju dager etter arbeidsforholdets opphør. Likeså er det et vilkår at arbeidstakerne gir politiet melding innen sju dager dersom de begynner i et nytt arbeidsforhold.
+Meldinger som nevnt i annet ledd, skal registreres i Datasystemet for utlendings- og flyktningsaker (DUF). Utlendingsdirektoratet kan gi nærmere retningslinjer.

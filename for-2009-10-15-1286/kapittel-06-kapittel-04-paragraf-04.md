@@ -1,0 +1,6 @@
+# § 6-22. Oppholdstillatelse til musikere, artister og kulturarbeidere mv.
+Musikere, artister, kunstnere eller medfølgende nødvendig hjelpepersonell som ikke fyller vilkårene for tillatelse til faglærte, jf. § 6-1 første ledd, kan få oppholdstillatelse i inntil ett år. Søkeren må legge fram kontrakt om engasjement for et bestemt, sammenhengende tidsrom med én eller flere arbeidsgivere eller oppdragsgivere. Utlendingsdirektoratet kan fastsette at det skal gjøres unntak fra kravet om at engasjementet skal gjelde for et bestemt, sammenhengende tidsrom. Utlendingsdirektoratet kan gi nærmere retningslinjer, herunder om krav til lønns- og arbeidsvilkår.
+Utlendinger som er formidlet som arbeidende gjest i landbruket gjennom en organisasjon, kan få tillatelse i til sammen tre måneder. Utlendingsdirektoratet kan gi nærmere retningslinjer, herunder om krav til lønns- og arbeidsvilkår.
+For øvrig kan det gis tillatelse i til sammen to år til utlendinger ut fra annet kulturelt formål. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+De som har hatt tillatelse etter første og annet ledd i denne paragrafen, kan først få ny tillatelse etter tre måneders opphold utenfor Norge, med mindre annet er fastsatt i retningslinjer gitt av Utlendingsdirektoratet.
+Tillatelsen danner ikke grunnlag for permanent oppholdstillatelse.

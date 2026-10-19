@@ -1,0 +1,3 @@
+# § 20-6. Særregler om diplomater mv.
+Vilkåret i § 1-4 annet ledd annet punktum og tredje ledd tredje punktum om at en utlending som skal være unntatt fra kravet til oppholdstillatelse etter bestemmelsen i § 1-4 må være utsendt til stillingen av senderstatens myndighet i henhold til beordring eller tidsbegrenset tjenesteavtale, gjelder ikke for utlending som allerede er tilmeldt og akseptert av Utenriksdepartementet på tidspunktet for ikrafttredelse av utlendingsloven 2008.
+Vilkåret i § 1-5 annet ledd om at diplomatisk immunitet i henhold til Wienkonvensjonen skal være gitt avkall på for at oppholdstillatelse som gir rett til arbeid kan gis, gjelder ikke for utlending som allerede er innvilget arbeidstillatelse i medhold av utlendingsforskriften 1990 § 160 annet ledd.

@@ -1,0 +1,6 @@
+# § 3-18. Visum på grensen (nødvisum)
+Dersom uforutsette og tvingende grunner taler for det, kan en visumpliktig utlending som melder seg for passkontrollen uten gyldig visum, gis Schengenvisum på grensen når vilkårene for å utstede slikt visum etter lovens § 10 er oppfylt.
+Selv om vilkårene for å utstede visum etter lovens § 10 ikke er oppfylt, kan det utstedes visum på grensen når særlige rimelighetsgrunner taler for det, og vilkårene for å utstede nasjonalt visum etter lovens § 11, eller innreisevisum etter lovens § 12, jf. forskriftens § 3-13 første ledd (innreisevisum til utlending som er gitt en oppholdstillatelse), er oppfylt.
+Visumpliktig mannskap som fratrer sine stillinger om bord på norsk eller utenlandsk sjøfartøy mens dette ligger i norsk havn, jf. grenseforskriften § 4-12, kan gis visum på grensen.
+En utlending som er på norsk grense og som søker beskyttelse (asyl) etter reglene i lovens kapittel 4, eller for øvrig gir opplysninger som tyder på at vernet mot utsendelse etter § 73 kan komme til anvendelse, har likevel rett til innreise uten visum, jf. lovens § 9 første ledd.
+Utlendingsdirektoratet kan gi nærmere retningslinjer om visum på grensen, herunder regler om varighet av slikt visum.

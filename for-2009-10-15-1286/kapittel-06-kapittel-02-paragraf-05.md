@@ -1,0 +1,3 @@
+# § 6-17. Tilbakekall ved tjenesteyting
+Oppholdstillatelse kan tilbakekalles etter alminnelige forvaltningsrettslige regler dersom arbeidsforholdet opphører, jf. lovens § 63.
+Oppholdstillatelsen kan tilbakekalles dersom en arbeidsgiver i utlandet ikke oppfyller kravet til lønns- og arbeidsvilkår under oppdraget, jf. lovens § 24 første ledd bokstav b. Tillatelsen kan også tilbakekalles hvis oppdragsgiveren ikke oppfyller sine forpliktelser etter forskriftens § 6-16 annet og tredje ledd. Forhåndsvarsel om at tilbakekall vurderes skal gis til utlendingen selv, til oppdragsgiveren og til arbeidsgiveren i utlandet.

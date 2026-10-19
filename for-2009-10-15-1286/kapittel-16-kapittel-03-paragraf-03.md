@@ -1,0 +1,5 @@
+# § 16-6. Utlendingsnemndas kompetanse i saker etter lovens § 76 tredje ledd
+Dersom vilkårene for å behandle saken ikke er oppfylt, jf. lovens § 76 tredje ledd, skal den nemndlederen som har saken, avvise saken. Utlendingsnemnda er ikke bundet av at Utlendingsdirektoratet har ansett vilkårene for å foreligge. Utlendingsnemndas vedtak om å avvise saken kan ikke påklages.
+Tas saken under behandling, kan Utlendingsnemnda prøve alle sider av saken og herunder ta hensyn til nye omstendigheter.
+Kommer Utlendingsnemnda til at Utlendingsdirektoratets vedtak er ugyldig, skal Utlendingsnemnda oppheve vedtaket og sende saken tilbake til direktoratet for hel eller delvis ny behandling. Utlending som oppholder seg i riket på grunnlag av Utlendingsdirektoratets vedtak, har, med mindre særlige grunner taler mot det, rett til fortsatt opphold på tidligere vilkår fram til direktoratet fatter nytt vedtak i saken. Gyldige vedtak kan ikke oppheves eller endres, men Utlendingsnemnda kan avgi uttalelse om sakens prinsipielle sider.
+Utlendingsnemndas vedtak etter tredje ledd første punktum kan ikke påklages.

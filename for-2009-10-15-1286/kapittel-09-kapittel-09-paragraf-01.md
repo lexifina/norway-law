@@ -1,0 +1,4 @@
+# § 9-9. Tilknytningskrav
+Tillatelse kan nektes i medhold av lovens § 51 tredje ledd dersom det er mest sannsynlig at søkeren har statsborgerskap, formell oppholdstillatelse eller tilsvarende status, i et trygt land som respekterer flyktninger og asylsøkeres grunnleggende rettigheter og landet er tilgjengelig for familien gjennom trygg og lovlig innreise. Tilknytningskravet gjelder ikke etter at referansepersonen har fått permanent oppholdstillatelse.
+Ved vurderingen av om tillatelse skal nektes, må det legges vekt på den samlede tilknytningen familien, inkludert medfølgende barn, gjennom botid, språk, utdannelse, arbeid, slektninger og nettverk mv., har til det aktuelle landet, sammenlignet med tilknytningen til Norge. Barnets beste skal være et grunnleggende hensyn.
+Bestemmelsen i lovens § 51 tredje ledd gjelder ikke når familielivet må utøves i en flyktningleir.

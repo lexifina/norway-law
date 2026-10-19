@@ -1,0 +1,31 @@
+# Vedlegg 3. Liste over Schengenland
+Følgende stater deltar i Schengensamarbeidet, jf. § 1-19 bokstav d:
+Belgia
+Bulgaria
+Danmark
+Estland
+Finland
+Frankrike
+Hellas
+Island
+Italia
+Kroatia
+Latvia
+Liechtenstein
+Litauen
+Luxembourg
+Malta
+Nederland
+Norge
+Polen
+Portugal
+Romania
+Slovakia
+Slovenia
+Spania
+Sveits
+Sverige
+Tsjekkia
+Tyskland
+Ungarn
+Østerrike.

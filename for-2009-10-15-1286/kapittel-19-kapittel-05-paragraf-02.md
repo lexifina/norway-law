@@ -1,0 +1,4 @@
+# § 19-13. Oppholdsrett i mer enn tre måneder – tilstrekkelige midler
+EØS-borgere har oppholdsrett i mer enn tre måneder, jf. lovens § 112, dersom de har tilstrekkelige midler til ikke å utgjøre en urimelig byrde for offentlige velferdsordninger. Tilstrekkelige midler kan blant annet omfatte faste periodiske ytelser eller egne midler, herunder bankinnskudd.
+Ved vurderingen av hva som anses som tilstrekkelige midler skal det tas hensyn til EØS-borgernes personlige situasjon, herunder om de skal forsørge medfølgende familiemedlemmer. Familiemedlemmene skal ikke godtgjøre at de har tilstrekkelige midler. Det kan heller ikke fastsettes et fast beløp som anses tilstrekkelig.
+Utlendingsdirektoratet kan gi nærmere retningslinjer om hva som ligger i begrepet tilstrekkelige midler og om hva som anses å falle inn under begrepet faste periodiske ytelser.

@@ -1,0 +1,8 @@
+# § 17-21. Registrering av asylsøknad
+Søknad om beskyttelse skal registreres av politiet på fastsatt skjema. Søknad om beskyttelse omfatter også søknad om reisebevis eller utlendingspass, jf. § 12-11.
+Pass eller annet reisedokument som søkeren er i besittelse av, må innleveres sammen med søknaden, jf. lovens § 93 første ledd. Det samme gjelder for søkerens ektefelle eller samboer og barn, som søker tillatelse etter innreise i medhold av lovens § 40 til § 42.
+Den som registrerer søknaden, skal gi søkeren veiledning om de rettigheter som følger av lovens § 82, og om nødvendig sørge for at tolk blir tilkalt, jf. lovens § 81 første ledd. Søkeren skal opplyses om tolkens rolle og at tolken har taushetsplikt etter forvaltningsloven § 13 flg. og tolkeloven § 15. Det skal også opplyses at overtredelse av taushetsplikten kan medføre straffansvar etter straffeloven § 209.
+Utlending som søker beskyttelse skal registreres individuelt. Medfølgende barn som søker samtidig med én eller begge foreldre, kan registreres i én av foreldrenes sak. Det skal bringes på det rene om eventuell medfølgende ektefelle eller samboer og barn søker beskyttelse.
+Det skal bringes på det rene om søkeren samtykker i at opplysninger om vedkommende innhentes fra andre myndigheter, herunder fra myndigheter i andre land enn hjemlandet, dersom det er av betydning for avgjørelsen av søknaden.
+Ved registreringen av asylsøknaden kan det tas lyd- og bildeopptak av samtaler med søkeren. Søkeren skal orienteres om at det tas slike opptak.
+Utlending som kommer til riket og søker beskyttelse, har plikt til å gjennomgå tuberkuloseundersøkelse i henhold til forskrift 13. februar 2009 nr. 205 om tuberkulosekontroll § 3-1 første ledd bokstav a. Utlendingsdirektoratet kan gi nærmere retningslinjer.
