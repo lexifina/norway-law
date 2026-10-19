@@ -1,0 +1,10 @@
+# § 2-8. Sjøfolks identitetsbevis
+Sjøfolks identitetsbevis kan gjelde som reisedokument for utlending som kommer til riket
+a) for å tiltre stilling på sjøfartøy som ligger i havn eller som er i ferd med å ankomme en havn på Schengenterritoriet, når utlendingen godtgjør ansettelse på sjøfartøyet og har til hensikt å reise direkte til vedkommende havn
+b) som mannskap på sjøfartøy, og som etter fratreden skal returnere til hjemlandet eller reise ut av Schengenterritoriet, og som kan sannsynliggjøre dette ved å forevise billett eller dokumentere tilstrekkelige midler til reisen
+c) som mannskap på sjøfartøy og som under landlov oppholder seg i havnen eller tilgrensende kommuner, der sjøfartøyet ligger
+d) for å arbeide som nødvendig vakt- og vedlikeholdsmannskap på sjøfartøy i opplag.
+e) fordi innreise er påkrevd av andre grunner.
+Identitetskort for sjømann skal være utstedt av kompetent myndighet i den staten innehaveren er borger av, gi adgang til tilbakereise til denne staten og fylle vilkårene i § 2-4 annet og tredje ledd.
+Identitetsbevis for sjøfolk utstedt i samsvar med IMO-konvensjon 9. april 1965 om lettelser i internasjonal sjøtransport kan videre gjelde som pass for utlending som kommer til riket og som går inn under første ledd. Identitetsbeviset skal fylle vilkårene i annet ledd. Vilkåret om at teksten må være på et av de angitte språkene gjelder likevel ikke, men passkontrollen kan kreve en skriftlig oversettelse av dokumentet til norsk eller til et av de andre språk som er angitt.
+Identitetsbevis for sjøfolk utstedt i samsvar med ILO-konvensjon nr. 108 eller ILO-konvensjon nr. 185 om slike dokumenter kan også gjelde som pass for utlending som kommer til riket og går inn under første ledd. Identitetsbevis skal fylle vilkårene i tredje ledd. Opplysning om statsborgerforhold er likevel ikke nødvendig dersom innehaveren ikke er borger av den staten som har utstedt identitetsbeviset. Selv om det ikke fremgår av identitetsbeviset, er utstederstaten pliktig til å ta innehaveren tilbake i minst ett år etter utløpet av den angitte gyldighetsdatoen.

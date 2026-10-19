@@ -1,0 +1,2 @@
+# § 17-9a. Pålegg om å avlegge prøve for DNA-analyse der parten eller det antatte familiemedlemmet kommer fra et land med dokumenter med lav notoritet
+I saker om familiegjenforening etter utlendingsloven kapittel 6 der parten eller det antatte familiemedlemmet kommer fra et land hvor det er generell usikkerhet knyttet til dokumenter som kan bidra til å sannsynliggjøre vedkommendes identitet og den angitte familierelasjonen, skal parten og det antatte familiemedlemmet som hovedregel pålegges å avlegge biologisk prøve for DNA-analyse.

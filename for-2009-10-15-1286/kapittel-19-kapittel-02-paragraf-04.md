@@ -1,0 +1,3 @@
+# § 19-5. Bortvisning etter lovens kapittel 2 og utvisning etter lovens kapittel 8 for utlendinger som er omfattet av kapittel 13
+EØS-borgere kan bare bortvises eller utvises etter reglene i lovens kapittel 13 og bestemmelsene i dette kapittelet. Det samme gjelder familiemedlemmer til en EØS-borger som faller inn under begrepet familiemedlem i lovens § 110 tredje ledd eller som nevnt i forskriftens § 19-7.
+Tjenesteytere og etablerere som nevnt i lovens § 110 fjerde ledd, som ikke har oppholdsrett etter bestemmelsene i lovens § 111 annet ledd eller lovens § 114 annet ledd, kan bortvises etter bestemmelsene i lovens § 16, § 17 og § 18 og utvises etter bestemmelsene i lovens kapittel 8.

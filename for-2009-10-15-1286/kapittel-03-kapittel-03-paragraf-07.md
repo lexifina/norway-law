@@ -1,0 +1,5 @@
+# § 3-9. Varighet og innhold av Schengenvisum
+Schengenvisum gis for opphold av bestemt varighet inntil 90 dager i løpet av enhver periode på 180 dager. Lengste varighet beregnes for øvrig etter reglene i lovens § 9 fjerde ledd, jf. lovens § 55 og forskriftens § 3-3.
+I Schengenvisum fastsettes en gyldighetsperiode i henhold til besøkets formål. Med unntak for sjøfolk som skal av- og påmønstre og kan søke opptil ni måneder før reisen, kan en visumsøknad ikke fremmes før tidligst seks måneder før starten av det planlagte besøket.
+Schengenvisum kan gis for én, to eller flere innreiser. Gyldighetsperioden skal ikke overstige fem år.
+Schengenvisum gir innehaveren adgang til innreise og opphold i den angitte tidsperioden i Schengenland som anerkjenner reisedokumentet og som ikke har reist innvendinger mot utstedelsen, jf. § 3-17 annet ledd, dersom øvrige vilkår er oppfylt, jf. grenseforordningen artikkel 6. Det er en forutsetning at reglene om bortvisning etter lovens § 17 ikke får anvendelse.

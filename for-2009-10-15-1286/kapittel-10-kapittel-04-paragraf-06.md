@@ -1,0 +1,2 @@
+# § 10-25. Adgang til opphold på samme vilkår inntil søknad om fornyelse er avgjort
+Søker en utlending med fornybar oppholdstillatelse om fornyelse senere enn én måned før tillatelsen utløper, jf. lovens § 61 sjette ledd, skal vedtaksmyndigheten ved vurderingen av om utlendingen skal få fortsatt opphold på samme vilkår, legge vekt på om søknaden kan påregnes innvilget og om den tidligere tillatelsen er av en slik art at den danner grunnlag for permanent oppholdstillatelse.

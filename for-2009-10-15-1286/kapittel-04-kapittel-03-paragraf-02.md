@@ -1,0 +1,5 @@
+# § 4-25. Overnattingssteder
+Den som driver hotell, pensjonat, losjihus, leirplass og lignende skal føre fortegnelse over alle som overnatter, jf. lovens § 20 første ledd bokstav a. Fortegnelsen skal inneholde opplysninger om gjestens navn, fødselsdato, stilling, bopel, statsborgerskap og ankomstdato. Dersom gjesten reiser sammen med barn under 18 år, skal barnas navn og fødselsdato anmerkes. Gjesten skal personlig fylle ut og undertegne et erklæringsskjema der opplysningene nevnt i annet punktum fremgår. Identiteten skal kontrolleres ved fremvisning av gyldig legitimasjon. For andre enn nordiske borgere kreves reisedokument. Reisedokumentets type og nummer skal anmerkes i fortegnelsen.
+Bestemmelsene i første ledd tredje til sjuende punktum gjelder ikke deltakere i gruppereiser.
+Politimesteren eller den politimesteren gir fullmakt, skal godkjenne måten fortegnelsen føres på og skal til enhver tid ha adgang til gjennomsyn av fortegnelsen.
+Når politiet ber om det, skal overnattingssted som nevnt i første ledd gi politiet fortegnelse over alle utenlandske overnattingsgjester med unntak av nordiske borgere.

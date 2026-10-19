@@ -1,0 +1,3 @@
+# § 17-1. Parter og fullmektiger i utlendingssaker
+Søkeren anses som part i saker etter loven og forskriften, jf. forvaltningsloven § 2 første ledd bokstav e. I saker som ikke beror på søknad vil det kun være den som saken retter seg mot som er å anse som part.
+En part har rett til å la seg bistå av fullmektig i saken, jf. forvaltningsloven § 12. En fullmektig som ikke er advokat, skal legge fram skriftlig fullmakt. Dersom det for eksempel på grunn av krig, manglende infrastruktur eller helsemessige forhold er umulig eller uforholdsmessig vanskelig å fremlegge skriftlig fullmakt, kan det i særlige tilfeller legges til grunn at en annen opptrer som fullmektig uten skriftlig fullmakt.

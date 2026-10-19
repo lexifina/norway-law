@@ -1,0 +1,3 @@
+# § 4-30. Tolletatens kontroll
+Dersom Tolletaten under tollkontroll på indre Schengengrense avdekker at en utlending mangler dokumenter som er gyldige for innreise, eller utlendingen selv uttaler at vedkommende vil søke beskyttelse, eller det for øvrig er grunn til mistanke om at utlendingen mangler adgang til lovlig innreise i Norge, kan Tolletaten utføre identitetskontroll, herunder ta kopi av pass eller andre reise- eller legitimasjonsdokumenter samt øvrige beviser, og rapportere dette til politiet.
+Justis- og beredskapsdepartementet kan i samråd med Finansdepartementet gi nærmere retningslinjer for gjennomføring av Tolletatens kontroll etter første ledd.

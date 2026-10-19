@@ -1,0 +1,2 @@
+# § 13-4. Norsk utenriksstasjons adgang til å avgjøre søknader om førstegangs oppholdstillatelse
+Utlendingsdirektoratet kan gi myndighet til norsk utenriksstasjon til å avgjøre søknader om oppholdstillatelse. Beslutningen om å gi slik kompetanse til norsk utenriksstasjon, må godkjennes av Utenriksdepartementet. Liste over norske stasjoner som har avgjørelsesmyndighet, følger som vedlegg 18 til forskriften.

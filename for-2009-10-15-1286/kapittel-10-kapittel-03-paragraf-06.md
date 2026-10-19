@@ -1,0 +1,4 @@
+# § 10-18. Adgang til å ta arbeid for familiemedlem til referanseperson med tillatelse etter lovens § 24 og § 25
+Ektefelle eller samboer til en referanseperson med oppholdstillatelse som utsendt arbeidstaker, jf. § 6-13, og selvstendig oppdragstaker, jf. § 6-14, som har oppholdstillatelse etter § 9-6, kan ta arbeid uten at begrensningene som er fastsatt i oppholdstillatelsen for referansepersonen gjelder.
+Familiemedlem til en referanseperson som har tillatelse som selvstendig næringsdrivende etter § 6-18, og som har oppholdstillatelse etter lovens § 40 flg., kan ta arbeid uten at begrensningene som er fastsatt i oppholdstillatelsen for referansepersonen gjelder.
+Dette innebærer at oppholdstillatelsen til familiemedlemmene gir rett til å arbeide og drive ervervsvirksomhet i hele riket, jf. lovens § 60 tredje ledd bokstav b.

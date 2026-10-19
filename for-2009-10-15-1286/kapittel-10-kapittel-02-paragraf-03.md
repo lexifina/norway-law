@@ -1,0 +1,10 @@
+# § 10-9. Krav til tidligere inntekt i sak om familieinnvandring etter lovens kapittel 6
+En referanseperson som må oppfylle krav til framtidig inntekt etter § 10-8 første ledd, må dokumentere at vedkommende i henhold til siste skatteoppgjør eller i henhold til bekreftelse fra skattemyndighetene på innrapportert inntekt foregående år, hadde en registrert inntekt tilsvarende minst 3,2 ganger grunnbeløpet i folketrygden. Stønad etter integreringsloven regnes ikke med som registrert inntekt. Det er et vilkår at referansepersonen har beholdt inntekt på tilstrekkelig nivå også i perioden etter skatteoppgjøret eller bekreftelsen fra skattemyndighetene.
+Det gjøres unntak fra kravet om dokumentasjon i henhold til første ledd første punktum dersom referansepersonen er norsk borger, nordisk borger eller utlending med permanent oppholdstillatelse, som har vært i arbeid i utlandet og kan dokumentere at vedkommende har hatt en inntekt tilsvarende minst 3,2 ganger grunnbeløpet i folketrygden.
+Det gjøres unntak fra kravet til tidligere inntekt etter første ledd i følgende tilfeller:
+a) Referansepersonen er norsk borger, nordisk borger eller utlending med permanent oppholdstillatelse, som har tatt høyere utdanning (høyskole eller universitet) i Norge eller utlandet, og som har opptjent minst 60 studiepoeng eller tilsvarende, eller har tatt fagskoleutdanning i Norge tilsvarende ett års normert studietid. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+b) Referansepersonen har avtjent militær verneplikt eller har gjort pliktig siviltjeneste.
+c) Referansepersonen har hatt en fastsatt nettoformue på over 1 million kr ved de to siste skatteoppgjør.
+d) Referansepersonen er omfattet av § 10-8 annet ledd (alderspensjon eller uføretrygd).
+e) Referansepersonen har tillatelse etter § 6-1 første ledd (faglært på grunnlag av kompetanse), § 6-18 (selvstendig næringsdrivende).
+f) Referansepersonen har tillatelse som nevnt i § 9-6 (oppholdstillatelse som ikke kan danne grunnlag for permanent oppholdstillatelse).

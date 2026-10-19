@@ -1,0 +1,2 @@
+# § 4-26. Sikkerhets- eller beredskapshensyn
+Når sikkerhets- eller beredskapshensyn tilsier det, kan Justis- og beredskapsdepartementet bestemme at enhver som lar en utlending overnatte hos seg, skal gi melding om dette til politiet, jf. lovens § 20 første ledd bokstav a. Ordningen kan iverksettes for hele riket eller for nærmere angitt politidistrikt. Meldeplikten skal ikke gjelde nordisk borger.

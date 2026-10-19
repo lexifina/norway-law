@@ -1,0 +1,3 @@
+# § 3-3. Samlet oppholdstid på Schengenterritoriet for visumfrie og visumpliktige utlendinger
+Samlet oppholdstid på Schengenterritoriet for visumfrie og visumpliktige utlendinger, jf. lovens § 9 fjerde ledd, kan ikke overstige 90 dager i løpet av enhver periode på 180 dager. Dette gjelder ikke for reiser hvor grenseboerbevis blir benyttet som innreisetillatelse, jf. § 3-1 bokstav m. Oppholdstid med oppholdstillatelse i Norge eller annet Schengenland skal ikke tas med ved beregningen av den tillatte oppholdstiden etter denne bestemmelsen.
+For visumpliktige utlendinger vil den tillatte oppholdstiden fremgå av det visumet som er gitt.

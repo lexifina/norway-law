@@ -1,0 +1,4 @@
+# § 6-12. Arbeidsmarkedsmessig vurdering ved arbeidsforhold og fastsettelse av kvoter for ulike kategorier arbeidstakere
+Når det skal foretas en individuell arbeidsmarkedsmessig vurdering av om stillingen kan besettes av innenlandsk arbeidskraft eller arbeidskraft fra EØS- eller EFTA-området etter § 6-1 til § 6-7, er det en forutsetning for å gi tillatelse at Arbeids- og velferdsetaten samtykker etter nærmere retningslinjer gitt av Arbeids- og velferdsdirektoratet.
+Arbeidsdepartementet fastsetter i samråd med Nærings- og handelsdepartementet og Finansdepartementet en årlig kvote for faglærte som nevnt i § 6-1. Arbeids- og velferdsdirektoratet fastsetter kvoten for sesongarbeid innenfor jordbruks- og skogbruksnæringen som nevnt i § 6-3.
+Utlendingsdirektoratet kan i samråd med Arbeids- og velferdsdirektoratet, gi nærmere retningslinjer om ordningene med kvoter.

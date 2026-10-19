@@ -1,0 +1,4 @@
+# § 17-16. Ansvar for utgifter til uttransportering
+Dersom en transportør blir ansvarlig for utgifter til eskorte som følge av at en utlending blir uttransportert, jf. lovens § 91 tredje, fjerde, femte eller sjette ledd, skal transportøren dekke alle utgifter forbundet med eskorten, herunder utgifter til reise, kost, losji, lønn og eventuell overtid.
+Transportørens ansvar for utgifter etter lovens § 91 tredje ledd gjelder når et vedtak om bortvisning av en asylsøker uten pass eller annet gyldig reisedokument eller visum kan iverksettes før utlendingen har oppholdt seg i riket i seks måneder. For øvrig gjelder ansvaret bare når bortvisningsvedtaket kan iverksettes før utlendingen har oppholdt seg i riket i tre måneder.
+Politidirektoratet kan gi nærmere bestemmelser om utgiftsdekning etter utlendingsloven § 91.

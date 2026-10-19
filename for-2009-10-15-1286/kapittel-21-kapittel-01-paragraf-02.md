@@ -1,0 +1,2 @@
+# § 20-2. Hvem som utarbeider skjemaer, etiketter, stempler, reisedokumenter mv.
+Utlendingsdirektoratet utarbeider nødvendige skjemaer, elektroniske løsninger, etiketter, stempler, reisedokumenter og registreringsbevis mv., som er nødvendig for gjennomføring av forskriften. Utlendingsdirektoratet utarbeider herunder også registreringsbevis for EØS- og EFTA-borger, oppholdskort, varig oppholdsbevis og varig oppholdskort til bruk etter forskriftens kapittel 19.

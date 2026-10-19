@@ -1,0 +1,4 @@
+# § 10-11. Unntak fra underholdskravet i sak om familieinnvandring etter lovens kapittel 6
+Det kan gjøres unntak fra bestemmelsene i § 10-8 til § 10-10 dersom særlig sterke menneskelige hensyn tilsier det.
+Når søknad er fremmet i medhold av lovens § 40 (ektefeller), § 41 (samboere) og § 42 (barn), kan det også gjøres unntak fra bestemmelsene i § 10-8 til § 10-10 dersom referansepersonen eller andre, jf. § 10-8 tredje ledd, åpenbart er i stand til å forsørge partene. Når søkeren er referansepersonens ektefelle eller samboer, kan unntak bare gjøres dersom det er åpenbart at samlivet er frivillig.
+Når referansepersonen tar høyere utdanning (høyskole eller universitet) eller har oppholdstillatelse i medhold av § 6-20 (forskere med egne midler), kan det gjøres unntak fra bestemmelsene i § 10-8 til § 10-10. Utlendingsdirektoratet kan gi nærmere retningslinjer.

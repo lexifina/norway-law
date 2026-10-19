@@ -1,0 +1,5 @@
+# § 6-16. Oppdragsgiver – oppdragstilbudsskjema
+Oppdragsgiveren skal informere utlendingens arbeidsgiver i utlandet om kravet til lønns- og arbeidsvilkår som gjelder for dem som søker tillatelse etter § 6-13 og § 6-15, jf. lovens § 24 første ledd bokstav b.
+Oppdragsgiveren skal påse at søkerens arbeidsgiver i utlandet oppfyller kravet til lønns- og arbeidsvilkår under oppdraget, og skal kunne legge fram dokumentasjon på dette ved forespørsel fra tilsyns- eller utlendingsmyndighetene.
+Oppdragsgiveren er ansvarlig for å fremlegge nødvendige opplysninger om oppdraget og om arbeidsforholdet i utlandet på fastsatt oppdragstilbudsskjema. Skjemaet skal undertegnes av oppdragsgiveren, arbeidsgiveren i utlandet og søkeren selv, dersom ikke Utlendingsdirektoratet har fastsatt annet i retningslinjer. I tillegg skal kontrakten mellom oppdragsgiveren og oppdragstakeren i utlandet, og søkerens arbeidskontrakt med arbeidsgiveren i utlandet, fremlegges.
+Utlendingsdirektoratet kan gi nærmere retningslinjer om hvem som er oppdragsgiver etter lovens § 24.

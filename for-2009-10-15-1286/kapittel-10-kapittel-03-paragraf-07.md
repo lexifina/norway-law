@@ -1,0 +1,3 @@
+# § 10-19. Adgang til å ta arbeid for familiemedlem til referanseperson med tillatelse etter lovens § 26
+En utlending som har oppholdstillatelse som ektefelle eller samboer etter § 9-6 til en referanseperson med oppholdstillatelse etter § 6-19 første og tredje ledd, § 6-20 og § 6-22 tredje ledd, kan gis rett til heltidsarbeid, selv om referansepersonen etter § 6-33 har begrenset rett til å ta arbeid.
+Ektefelle og samboer som har oppholdstillatelse etter § 9-6, jf. § 10-23 annet ledd, når referansepersonen gis oppholdstillatelse etter § 6-29 til å søke arbeid som faglært, kan gis adgang til heltidsarbeid selv om referansepersonen etter bestemmelsen i § 6-33 har begrenset rett til å ta arbeid.

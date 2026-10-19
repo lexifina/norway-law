@@ -1,0 +1,8 @@
+# § 2-7. Kollektivpass
+For utlendinger som skal reise gjennom riket i samlet følge eller oppholde seg her i kortere tid i felles øyemed som turistselskaper, idrettslag, foreninger mv., kan godtas felles pass (kollektivpass). Gruppen kan bestå av inntil 50 personer.
+Kollektivpasset skal være utstedt av kompetent myndighet i reisedeltakernes hjemland, forsynt med dennes stempel og gyldig for innreise i Norge. Det skal gi adgang til tilbakereise til utstederstaten. Gyldighetstiden skal være angitt. Passet må bare omfatte personer som er borgere av utstederstaten. Det skal gi opplysning om deltakernes fulle navn, fødselsdato og faste bopel, reiselederens navn, samt nummer og utstedelsesdato for kollektivpasset. Reiselederen skal medbringe to kopier av passet, hvorav den ene leveres passkontrollen ved innreise og den andre ved utreise i de tilfeller utreisekontroll finner sted.
+Reiselederen må ha pass (nasjonalitetspass), jf. § 2-4. De enkelte deltakerne må ha med personlig identitetskort med fotografi utstedt av offentlig myndighet i hjemlandet.
+Kollektivpass for ungdom under 21 år som er utstedt i henhold til avtale 16. desember 1961 om reiser for ungdom på fellespass mellom Europarådets medlemsland, kan omfatte flyktninger og statsløse under denne aldersgrensen dersom
+a) utstederstaten har garantert tilbaketakelse selv om disse ikke returnerer sammen med reiseselskapet,
+b) navnene på de oppførte flyktninger og statsløse er adskilt fra navnene på utstederstatens egne borgere med tydelig angivelse av deres status, og
+c) overskriften i kollektivpasset angir tydelig at reiseselskapet ikke bare omfatter utstederstatens egne borgere.

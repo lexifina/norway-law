@@ -1,0 +1,5 @@
+# § 6-33. Om formålet med oppholdstillatelsen og adgangen til å ta arbeid
+Oppholdstillatelse etter § 6-19 til § 6-31 gis for det formålet som fremgår av bestemmelsen. Utlendingen har ikke rett til å ta arbeid med mindre det følger av tillatelsen.
+Utlendinger som får tillatelse etter § 6-19, skal samtidig få tillatelse til deltidsarbeid for 20 timer i uken og heltidsarbeid i de ordinære feriene, eventuelt også heltidsarbeid for et avgrenset tidsrom når det foreligger dokumentasjon på at arbeidet er en del av utdanningen. Tillatelse til heltidsarbeid kan også gis for et avgrenset tidsrom når arbeidet er en helt nødvendig forutsetning for opptak på videre utdanning innen samme studieretning, og det foreligger konkret arbeidstilbud.
+Utlendinger som får tillatelse etter § 6-20 og § 6-22 tredje ledd, kan få tillatelse til deltidsarbeid og arbeid i ferier. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+Utlendinger som får tillatelse etter § 6-29, skal samtidig få tillatelse til heltidsarbeid.

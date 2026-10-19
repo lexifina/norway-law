@@ -1,0 +1,2 @@
+# § 20-4. Ikrafttreden mv.
+Forskriften trer i kraft fra 1. januar 2010, se likevel § 20-18 annet ledd. Fra samme tidspunkt oppheves forskrifter og bestemmelser gitt i medhold av utlendingsloven 1988 med unntak av utlendingsforskriften 1990 § 172 første og siste ledd, § 173, § 174, § 175, § 190, § 191, § 192, § 193, § 194 og § 197a som gjelder fortsatt for forhold som er omfattet av utlendingsloven 1988 § 58a.

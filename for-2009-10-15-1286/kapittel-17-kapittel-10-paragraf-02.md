@@ -1,0 +1,2 @@
+# § 17-14a. Beslutning om overføring etter grenseforordningen artikkel 23a
+Beslutning om overføring etter grenseforordningen artikkel 23a som nevnt i utlendingsloven § 90a første ledd bokstav g skal følge et vedtak om bortvisning, og fattes ved utfylling i standardskjema og etter saksbehandlingsregler som følger av grenseforordningen artikkel 23a og vedlegg XII, jf. grenseloven § 8 nr. 1. Beslutningen kan påklages.

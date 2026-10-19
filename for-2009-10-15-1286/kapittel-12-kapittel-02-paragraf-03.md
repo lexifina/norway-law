@@ -1,0 +1,3 @@
+# § 12-16. Plikt til å legge frem oppholdskort
+I forbindelse med behandling av en sak etter utlendingsloven, ved kontroll av utlending ved grensepassering etter grenseloven § 15 og ved alminnelig utlendingskontroll etter utlendingsloven § 21, kan en utlending pålegges å legge frem standardisert oppholdskort som dokumentasjon på oppholdstillatelsen. Tilsvarende gjelder kort som dokumenterer andre typer tillatelser eller rettigheter enn oppholdstillatelse, for eksempel grenseboerbevis utstedt til beboere i det russiske grenseområdet. Dersom utlendingen ikke har kortet i sin besittelse, kan vedkommende pålegges å innhente det.
+Utlendingen plikter å avgi fingeravtrykk som nevnt i lovens § 100 b.

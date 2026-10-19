@@ -1,0 +1,7 @@
+# § 19-24. Oppholdskort for tjenesteytere og etablerere som ikke er EØS-borgere
+Søknad om oppholdskort etter lovens § 118 tredje ledd fremmes gjennom norsk utenriksstasjon, for politiet i det distriktet søkeren har sitt faste opphold eller ved et Servicesenter for utenlandske arbeidstakere. Søknaden fremsettes innen tre måneder etter innreise. Søkeren skal straks motta kvittering som bekrefter at fullstendig søknad er innlevert. Utlending som har søknad til behandling skal gi skriftlig melding til politiet ved endring av adresse mens søknadsbehandlingen pågår. Utlendingsdirektoratet gir nærmere retningslinjer.
+Når det ikke er tvil om at vilkårene er oppfylt, kan politiet innvilge søknad om oppholdskort. Ellers avgjør Utlendingsdirektoratet om oppholdskort skal utstedes.
+Avgjørelse om ikke å utstede oppholdskort regnes som enkeltvedtak.
+Oppholdskort med biometriske opplysninger, jf. lovens § 64a, § 100a og § 100b skal som hovedregel utstedes vederlagsfritt og er gyldig i den tiden tjenesteytingen eller etableringen etter § 19-16 første ledd er dokumentert å ville vare, inntil ett år av gangen. Forskriftens § 12-16 om plikt til å legge frem oppholdskort, § 12-17 om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., § 12-18 om plikt til å skaffe nytt oppholdskort og § 17-11a om gebyr gjelder tilsvarende.
+Utlendingsdirektoratet kan gi nærmere retningslinjer om hvordan og når fornyelse av kortet skal skje.
+Bestemmelsene i § 19-22 sjette ledd gjelder tilsvarende.

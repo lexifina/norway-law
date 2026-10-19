@@ -1,0 +1,2 @@
+# § 3-4. Visumforordningen (europaparlaments- og rådsforordning (EF) nr. 810/2009 av 13. juli 2009)
+Europaparlaments- og rådsforordning (EF) nr. 810/2009 om innføring av fellesskapsregler for visum (visumforordningen), som endret ved europaparlaments- og rådsforordning (EU) nr. 154/2012, europaparlaments- og rådsforordning (EU) nr. 610/2013 og europaparlaments- og rådsforordning (EU) nr. 2019/1155, gjelder som forskrift.

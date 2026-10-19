@@ -1,0 +1,6 @@
+# § 17-4. Samtale med barn i asylsaker
+Den totale livssituasjonen til medfølgende barn skal klarlegges under intervjuet av foreldrene.
+I asylsaker skal det gjennomføres en samtale med medfølgende barn over 7 år, med mindre barnet selv ikke ønsker det, eller det anses åpenbart unødvendig. Det kan også gjennomføres egen samtale med barn under 7 år som er i stand til å danne seg egne synspunkter, og som skal gis anledning til å bli hørt etter § 17-3. Samtalens formål er å belyse barnets situasjon og klarlegge om barnet kan ha et selvstendig asylgrunnlag.
+Asylsøker under 18 år som er kommet til riket uten foreldre eller andre som utøver foreldreansvar, skal alltid ha representant eller fullmektig til stede under samtalen. Samtalen skal så vidt mulig gjennomføres innen 14 dager etter at søknaden er fremsatt, med mindre det er behov for aldersundersøkelse for å klarlegge søkerens alder.
+Opplysninger barnet gir under samtalen etter annet eller tredje ledd, skal nedtegnes skriftlig.
+Utlendingsdirektoratet gir nærmere retningslinjer for å sikre at barnets interesser og behov blir ivaretatt i samtalen, og kan også gi nærmere retningslinjer om når det skal anses åpenbart unødvendig å gjennomføre samtale etter annet ledd.

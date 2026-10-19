@@ -1,0 +1,4 @@
+# § 12-17. Plikt til å ta vare på oppholdskort, melding ved tap av kort mv.
+Innehaver av standardisert oppholdskort plikter å ta vare på dokumentet så det ikke kommer uvedkommende i hende. Tilsvarende gjelder innehaver av kort som dokumenterer andre typer tillatelser eller rettigheter enn oppholdstillatelse, for eksempel grenseboerbevis utstedt til beboere i det russiske grenseområdet.
+Når standardisert kort som nevnt i første ledd er tapt eller på annen måte har kommet bort, plikter innehaveren uten opphold å melde fra til politiet eller nærmeste norske utenriksstasjon. Innehaveren skal samtidig avkreves en detaljert forklaring om når, hvor og hvordan dette har skjedd. Forklaringen skal søkes kontrollert så langt det er mulig og i den utstrekning det er nødvendig.
+Dersom utlendingen mister kortet, eller kortet på annen måte går tapt eller blir ødelagt, plikter utlendingen å gå til anskaffelse av nytt kort.
