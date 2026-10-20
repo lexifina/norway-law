@@ -1,0 +1,4 @@
+# Artikkel 79 Opprinnelsestredjeland eller opprinnelsesterritorium eller sone i disse
+1. Forsendelser av sæd, oocytter og embryoer fra storfe, svin, sau, geit og hestedyr tillates innført til Unionen bare dersom de er tatt ut eller produsert fra dyr som kommer fra tredjeland eller territorier eller soner i disse som oppfyller dyrehelsekravene fastsatt i artikkel 22.
+2. Som unntak fra nr. 1 i denne artikkelen kan, i forbindelse med dyrehelsekravet fastsatt i artikkel 22 nr. 4 bokstav a), forsendelser av sæd, oocytter og embryoer fra storfe, svin, sau og geit tillates innført til Unionen dersom de er tatt ut eller produsert i tredjeland eller territorier der det er utført vaksinasjon mot munn- og klovesyke, forutsatt at de er tatt ut fra dyr i samsvar med dyrehelsekravene fastsatt i del 5 kapittel I nr. 3 eller 4 i vedlegg II til delegert forordning (EU) 2020/686.
+◄M4

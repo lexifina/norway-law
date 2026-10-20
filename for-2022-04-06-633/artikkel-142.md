@@ -1,0 +1,4 @@
+# Artikkel 142 Opprinnelsesanlegg for fjørfe
+Forsendelser av ferskt kjøtt fra fjørfe skal bare tillates innført til Unionen dersom det ferske kjøttet i forsendelsen kommer fra fjørfe som kommer fra et anlegg
+a) der det innenfor en radius på 10 km rundt anlegget, eventuelt innbefattet et nabolands territorium, ikke har forekommet utbrudd av høypatogen aviær influensa eller infeksjon med Newcastle disease-virus i løpet av minst de siste 30 dagene før slaktedatoen,
+b) som når det gjelder ferskt kjøtt fra strutsefugler som kommer fra et tredjeland eller territorium eller en sone i disse som ikke er fri(tt) for infeksjon med Newcastle disease-virus, oppfyller kravene til dyrehelse for strutsefugler, rugeegg fra disse og ferskt kjøtt fra strutsefugler som kommer fra et tredjeland eller territorium eller en sone i disse som ikke er fri(tt) for infeksjon med Newcastle disease-virus, angitt i nr. 3 bokstav b) og c) i vedlegg XIV.

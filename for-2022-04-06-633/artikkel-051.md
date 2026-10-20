@@ -1,0 +1,4 @@
+# Artikkel 51 Vedkommende myndigheters forpliktelse med hensyn til prøvetaking og testing av forsendelser av fjørfe etter innførsel til Unionen
+Vedkommende myndighet i bestemmelsesmedlemsstaten skal sikre at
+a) avlsfjørfe, produksjonsfjørfe, unntatt produksjonsfjørfe for gjenoppbygging av fugleviltbestanden, og daggamle kyllinger som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse i løpet av periodene fastsatt i artikkel 50 nr. 1, gjennomgår en klinisk kontroll som foretas av en offentlig veterinær på bestemmelsesanlegget, senest den dagen da de relevante periodene fastsatt i nevnte artikkel utløper, og at det om nødvendig tas prøve av dem for testing med sikte på å overvåke deres helsestatus,
+b) når det gjelder annet fjørfe enn strutsefugler, og dersom den driftsansvarlige ber om det, som nevnt i artikkel 50 nr. 2, prøvetaking og testing av annet fjørfe enn strutsefugler utføres i samsvar med ved vedlegg XVIII.

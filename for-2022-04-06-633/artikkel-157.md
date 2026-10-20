@@ -1,0 +1,8 @@
+# Artikkel 157 Melkeprodukter som er omfattet av risikoreduserende behandling
+1. Forsendelser av melkeprodukter som ikke oppfyller kravene fastsatt i artikkel 156, skal bare tillates innført til Unionen dersom melkeproduktene i forsendelsen har gjennomgått minst én av de risikoreduserende behandlingene fastsatt i kolonne A i vedlegg XXVII, dersom
+a) de er foredlet av melk som kommer fra Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis eller Camelus dromedarius,
+b) tredjelandet eller territoriet eller en sone i disse ikke har vært fri(tt) for munn- og klovsyke og infeksjon med kvegpestvirus i minst de siste tolv månedene før datoen for melking, eller dersom det i løpet av denne perioden er foretatt vaksinasjon mot disse sykdommene.
+2. Forsendelser av melkeprodukter skal bare tillates innført til Unionen dersom melkeproduktene i forsendelsen har gjennomgått minst én av de risikoreduserende behandlingene fastsatt i kolonne B i vedlegg XXVII, hvor de ble foredlet av melk som kommer fra andre dyrearter enn dem som er nevnt i nr. 1 bokstav a).
+3. Forsendelser av melkeprodukter som er foredlet av rå melk eller av melkeprodukter fra mer enn én dyreart, skal bare tillates innført til Unionen dersom disse melkeproduktene har gjennomgått enten
+a) minst den strengeste av de risikoreduserende behandlingene som er fastsatt for hver enkelt opprinnelsesdyreart, dersom blandingen av rå melk eller melkeprodukter finner sted før den endelige foredlingen av produktet, eller
+b) den risikoreduserende behandlingen som er fastsatt for hver enkelt opprinnelsesart, dersom blandingen av produktene finner sted etter foredling av hver ingrediens i melkeproduktet.

@@ -1,0 +1,8 @@
+# Artikkel 50 Forpliktelser for driftsansvarlige i bestemmelsesanlegget etter innførsel til Unionen av forsendelser av fjørfe
+1. Driftsansvarlige i bestemmelsesanleggene skal fra ankomstdatoen holde avlsfjørfe, produksjonsfjørfe, unntatt produksjonsfjørfe for gjenoppbygging av fugleviltbestanden, og daggamle kyllinger som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse, i bestemmelsesanleggene i en sammenhengende periode på minst
+a) seks uker, eller
+b) fram til dagen de slaktes, dersom dyrene slaktes i løpet av de seks første ukene etter ankomstdatoen.
+2. Når det gjelder annet fjørfe enn strutsefugler, kan perioden på seks uker fastsatt i nr. 1 bokstav a) reduseres til tre uker, dersom det på forespørsel fra den driftsansvarlige er foretatt prøvetaking og testing i samsvar med artikkel 51 bokstav b) med tilfredsstillende resultater.
+3. Driftsansvarlige på bestemmelsesanlegget skal sikre at fjørfe nevnt i nr. 1 gjennomgår en klinisk kontroll som foretas av en offentlig veterinær på bestemmelsesanlegget senest den dagen da de relevante periodene fastsatt i nevnte nummer utløper.
+4. I løpet av periodene fastsatt i nr. 1 skal driftsansvarlige holde fjørfe som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse, atskilt fra andre flokker av fjørfe.
+5. Dersom fjørfe nevnt i nr. 1 plasseres i samme flokk som annet fjørfe som befinner seg i bestemmelsesanlegget, skal periodene nevnt i nr. 1 bokstav a) og b) regnes fra og med den datoen da den siste fuglen kom inn på bestemmelsesanlegget, og ikke noe fjørfe som befinner seg der, skal flyttes fra flokken før disse periodene utløper.

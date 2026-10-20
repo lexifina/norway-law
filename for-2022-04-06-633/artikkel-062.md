@@ -1,0 +1,12 @@
+# Artikkel 62 Unntak fra kravene til dyrehelse for innførsel til Unionen av fugler i fangenskap
+1. Som unntak fra kravene fastsatt i artikkel 3-10, unntatt artikkel 3 bokstav a) i), artikkel 11-19 og artikkel 53-61, skal forsendelser av fugler i fangenskap som ikke oppfyller de nevnte kravene, tillates innført til Unionen dersom de kommer fra tredjeland eller territorier som er særlig listeført for innførsel av fugler i fangenskap til Unionen basert på likeverdige garantier.
+2. Som unntak fra kravene fastsatt i artikkel 11 og artikkel 54-58 skal forsendelser av brevduer som innføres til Unionen fra et tredjeland eller territorium eller en sone i disse der de vanligvis holdes, i den hensikt at de umiddelbart slippes løs for å fly tilbake til tredjelandet eller territoriet eller sonen, og som ikke oppfyller de nevnte kravene, tillates innført til Unionen dersom de oppfyller følgende krav:
+a) Bestemmelsesmedlemsstaten har bestemt at brevduene kan innføres til dens territorium fra tredjelandet eller territoriet eller sonen i disse i samsvar med artikkel 230 nr. 2 i forordning (EU) 2016/429.
+b) De kommer fra et registrert anlegg der det innenfor en radius på 10 km rundt anlegget, eventuelt innbefattet et nabolands territorium, ikke har forekommet utbrudd av høypatogen aviær influensa eller infeksjon med Newcastle disease-virus i løpet av minst de siste 30 dagene før lastedatoen for avsendelse til Unionen.
+c) De er ikke vaksinert mot høypatogen aviær influensa.
+d) De er vaksinert mot infeksjon med Newcastle disease-virus, og vedkommende myndighet i opprinnelsestredjelandet eller opprinnelsesterritoriet har gitt garantier for at vaksinene som brukes, er i samsvar med de generelle og særlige kriteriene for vaksiner mot infeksjon med Newcastle disease-virus angitt i nr. 1 i vedlegg XV.
+e) De kommer fra et anlegg der det vaksineres mot infeksjon med Newcastle disease-virus.
+3. Som unntak fra kravene i artikkel 59, 60 og 61 kan vedkommende myndighet i innførselsmedlemsstaten tillate innførsel til Unionen av brevduer som ikke transporteres direkte til et karanteneanlegg som er godkjent i samsvar med artikkel 14 i delegert forordning (EU) 2019/2035, dersom de
+a) er brevduer som innføres til Unionen fra et tredjeland eller territorium eller en sone i disse der de vanligvis holdes, i samsvar med nr. 2,
+b) umiddelbart slippes løs, under vedkommende myndighets kontroll, for å fly tilbake til opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse.
+◄M2

@@ -1,0 +1,2 @@
+# § 3. Import fra tredjestater
+EØS-avtalens vedlegg I kapittel I del 1.1 nr. 13f (forordning (EU) 2020/692 sist endret ved forordning (EU) 2023/119) om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til regler for import til Unionen og forflytning og håndtering etter import av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.

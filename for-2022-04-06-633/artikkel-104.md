@@ -1,0 +1,4 @@
+# Artikkel 104 Rugeegg fra fjørfe som er importert til opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse
+Forsendelser av rugeegg fra fjørfe som kommer fra flokker som ble importert til opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse fra et annet tredjeland eller territorium eller en sone i disse, skal bare tillates innført til Unionen dersom vedkommende myndighet i rugeeggenes opprinnelsestredjeland eller opprinnelsesterritorium har gitt garantier for at
+a) flokkene som rugeeggene kommer fra, ble importert fra et tredjeland eller territorium eller en sone i disse som er listeført for innførsel til Unionen av slike flokker,
+b) importen av flokkene som rugeeggene kommer fra, til dette tredjelandet eller territoriet eller en sone i disse skjedde i samsvar med krav til dyrehelse som er minst like strenge som om de ble innført direkte til Unionen.

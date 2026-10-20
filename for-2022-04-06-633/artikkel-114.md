@@ -1,0 +1,5 @@
+# Artikkel 114 Vedkommende myndigheters forpliktelse med hensyn til prøvetaking og testing av strutsefugler som kommer fra rugeegg med opprinnelse i et tredjeland eller territorium eller en sone i disse som ikke er fri(tt) for infeksjon med Newcastle disease-virus
+Vedkommende myndighet i bestemmelsesmedlemsstaten skal sikre at strutsefugler som er utklekket fra rugeegg som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse som ikke er fri(tt)n for infeksjon med Newcastle disease-virus, i løpet av periodene fastsatt i artikkel 112 nr. 2
+a) gjennomgår en viruspåvisningstest for infeksjon med Newcastle disease-virus, foretatt av vedkommende myndighet på en kloakksvaberprøve eller avføringsprøve fra hver enkelt strutsefugl,
+b) når det gjelder strutsefugler beregnet på en medlemsstat med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, i tillegg til kravene nevnt i bokstav a) gjennomgår en serologisk test for infeksjon med Newcastle disease-virus, foretatt av vedkommende myndighet på hver enkelt strutsefugl,
+c) alle har testet negativt på testene fastsatt i bokstav a) og b) før de slippes ut av isolasjon.

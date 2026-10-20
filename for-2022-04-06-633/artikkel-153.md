@@ -1,0 +1,2 @@
+# Artikkel 153 Opprinnelsesland for rå melk, råmelk og råmelkbaserte produkter
+Forsendelser av rå melk, råmelk og råmelkbaserte produkter skal bare tillates innført til Unionen dersom den rå melken, råmelken og de råmelkbaserte produktene i forsendelsen kommer fra et tredjeland eller territorium eller en sone i disse som har vært fri(tt) for munn- og klovsyke og infeksjon med kvegpestvirus i minst de siste tolv månedene før datoen for melking, og det i løpet av denne perioden ikke er foretatt vaksinasjon mot disse sykdommene.
