@@ -1,0 +1,2 @@
+# Artikkel 151 Innførsel til medlemsstater med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon
+Forsendelser av kjøttprodukter fra fjørfe som er beregnet på en medlemsstat, eller et territorium i denne, med status som fri(tt) for infeksjon med Newcastle disease-virus uten vaksinasjon, skal bare tillates innført til Unionen dersom de stammer fra fjørfe som ikke er vaksinert med en levende vaksine mot Newcastle disease i løpet av de siste 30 dagene før slaktedatoen.

@@ -1,0 +1,5 @@
+# Artikkel 31 Unntak fra kravet om listeføring av tredjelandet eller territoriet og listeføring av det lukkede opprinnelsesanlegget for hov- og klovdyr
+1. Som unntak fra kravene fastsatt i artikkel 3 nr. 1 og artikkel 28 nr. 1 skal forsendelser av hov- og klovdyr fra anlegg i tredjeland eller territorier som ikke oppfyller de nevnte kravene, tillates innført til Unionen dersom de er beregnet på et lukket anlegg og forutsatt at
+a) ekstraordinære og uforutsette omstendigheter gjør det umulig å oppfylle disse kravene,
+b) disse forsendelsene oppfyller vilkårene fastsatt i artikkel 32.
+2. Medlemsstaten der bestemmelsesstedet for forsendelsen nevnt i nr. 1 ligger, skal underrette Kommisjonen og medlemsstatene innenfor rammen av Den faste komité for planter, dyr, næringsmidler og fôr, og skal underrette hov- og klovdyrenes innførselssted i Unionen direkte om tillatelsene som er gitt i henhold til nr. 1, før en eventuell forflytning gjennom andre medlemsstater, og før slike hov- og klovdyr ankommer deres territorium.

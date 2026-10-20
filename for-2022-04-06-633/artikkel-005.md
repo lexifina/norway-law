@@ -1,0 +1,8 @@
+# Artikkel 5 Forpliktelser for driftsansvarlige
+1. Driftsansvarlige som er ansvarlige for innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse fra de artene og kategoriene som hører inn under denne forordningens virkeområde, skal forevise disse forsendelsene for vedkommende myndighet i Unionen for offentlig kontroll, som fastsatt i artikkel 47 nr. 1 i forordning (EU) 2017/625, og skal sikre at slike forsendelser oppfyller følgende krav:
+a) De alminnelige kravene til dyrehelse ved innførsel til Unionen av dyr, avlsmateriale og produkter av animalsk opprinnelse fastsatt i artikkel 3 og 4 og artikkel 6-10.
+b) Kravene til dyrehelse som får anvendelse på den bestemte arten og kategorien av dyrene, avlsmaterialet og produktene av animalsk opprinnelse i forsendelsen og den tiltenkte bruken, som fastsatt i del II–VI.
+2. Driftsansvarlige som er ansvarlige for forflytning av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse fra de artene og kategoriene som hører inn under denne forordningens virkeområde, fra innførselsstedet i Unionen til deres bestemmelsessted, og de som er ansvarlige for håndteringen av slike forsendelser etter innførselen til Unionen, skal sikre at forsendelsene
+a) tillates innført til Unionen av vedkommende myndighet i samsvar med artikkel 3,
+b) oppfyller kravene til dyrehelse ved forflytning og håndtering av slike forsendelser etter innførselen til Unionen med hensyn til de bestemte artene og kategoriene av dyr, avlsmateriale og produkter av animalsk opprinnelse fastsatt i del II–VI,
+c) ikke brukes til andre formål enn formålene de er sertifisert for av vedkommende myndighet i opprinnelsestredjelandet eller opprinnelsesterritoriet, for innførsel til Unionen.

@@ -1,0 +1,9 @@
+# Artikkel 143 Fjørfeet som det ferske kjøttet kommer fra
+1. Forsendelser av ferskt kjøtt fra fjørfe skal bare tillates innført til Unionen dersom det ferske kjøttet i forsendelsen kommer fra fjørfe som ikke er vaksinert mot høypatogen aviær influensa eller infeksjon med Newcastle disease-virus, eller oppfyller følgende krav:
+a) Dersom de er vaksinert mot høypatogen aviær influensa, har opprinnelsestredjelandet eller opprinnelsesterritoriet gitt garantier for at minstekravene til vaksinasjonsprogrammer og ytterligere overvåking fastsatt i vedlegg XIII er oppfylt.
+b) Dersom de er vaksinert mot infeksjon med Newcastle disease-virus,
+i) har vedkommende myndighet i opprinnelsestredjelandet eller opprinnelsesterritoriet gitt garantier for at vaksinene som brukes, er i samsvar med enten
+- de generelle og særlige kriteriene for vaksiner mot infeksjon med Newcastle disease-virus angitt i nr. 1 i vedlegg XV, eller
+- de generelle kriteriene for anerkjente vaksiner mot infeksjon med Newcastle disease-virus angitt i nr. 1 i vedlegg XV, og fjørfeet som det ferske kjøttet kommer fra, oppfyller kravene til dyrehelse fastsatt i nr. 3 i vedlegg XV for ferskt kjøtt fra fjørfe som kommer fra et tredjeland eller territorium eller en sone i disse der vaksinene som brukes mot infeksjon med Newcastle disease-virus, ikke er i samsvar med de særlige kriteriene angitt i nr. 1 i vedlegg XV,
+ii. skal opplysningene som er angitt i nr. 4 i vedlegg XV, gis for forsendelsen.
+2. Forsendelser av ferskt kjøtt fra fjørfe som er beregnet på en medlemsstat eller et territorium med status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, skal bare tillates innført til Unionen dersom det ferske kjøttet i forsendelsen kommer fra fjørfe som ikke er vaksinert mot Newcastle disease med en levende vaksine i løpet av de siste 30 dagene før slaktedatoen.

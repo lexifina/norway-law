@@ -1,0 +1,10 @@
+# Artikkel 181 Særlige krav ved innførsel av produkter av animalsk opprinnelse som er uemballert eller i bulk, som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innførsel av et listeført tredjeland eller territorium
+1. Forsendelser av produkter av animalsk opprinnelse som er uemballert eller i bulk, som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innførsel av vedkommende myndighet i et listeført tredjeland eller territorium, skal bare tillates gjeninnført til Unionen dersom følgende krav er oppfylt:
+a) Tredjelandet eller territoriet som nekter innførsel, er listeført for innførsel til Unionen av den bestemte arten og kategorien av produkter av animalsk opprinnelse som sendes tilbake til Unionen.
+b) Produktene av animalsk opprinnelse ledsages av
+i) originaleksemplaret av helsesertifikatet utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten, den elektroniske versjonen av det som er sendt inn via IMSOC, eller en attestert kopi av det offisielle sertifikatet fra vedkommende myndighet i opprinnelsesmedlemsstaten,
+ii. en av følgende:
+- En offentlig erklæring fra vedkommende myndighet eller annen offentlig myndighet i tredjelandet eller territoriet som angir årsaken til avvisningen, og som bekrefter at plomben på kjøretøyet eller containeren for forsendelsen bare ble åpnet for offisielle formål, og at produktene ble håndtert i så liten grad som nødvendig for disse formålene, særlig uten å losse dem, og kjøretøyet eller containeren ble plombert på nytt umiddelbart deretter.
+- Når det gjelder plomberte forsendelser, en erklæring fra den driftsansvarlige som har ansvaret for forsendelsen med angivelse av årsaken til avvisningen,
+iii. en erklæring fra vedkommende myndighet i en medlemsstat om at den godtar å motta forsendelsen og som angir bestemmelsesstedet den skal sendes tilbake til.
+2. Transporten til og ankomsten på forsendelsens bestemmelsessted skal overvåkes i samsvar med artikkel 2 og 3 i delegert forordning (EU) 2019/1666.

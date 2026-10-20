@@ -1,0 +1,2 @@
+# § 4. Lister over tredjestater godkjent for import
+EØS-avtalens vedlegg I kapittel I innledende del nr. 7 (forordning (EU) 2021/404 sist endret ved forordning (EU) 2026/2328) om fastsettelse av lister over tredjeland, territorier eller soner av disse som det er tillatt å innføre dyr, avlsmateriale og produkter av animalsk opprinnelse fra til Unionen i samsvar med europaparlaments- og rådsforordning (EU) 2016/429, gjelder som forskrift med de tilpasninger som følger av protokoll 1 til avtalen og avtalen for øvrig.

@@ -1,0 +1,2 @@
+# Artikkel 136 Opprinnelsesanlegg for ferskt kjøtt fra holdte hov- og klovdyr
+Forsendelser av ferskt kjøtt fra holdte hov- og klovdyr skal bare tillates innført til Unionen dersom det ferske kjøttet i forsendelsen kommer fra et slakteri eller et viltbehandlingsanlegg som ingen av de listeførte sykdommene nevnt i del A i vedlegg XXIV er rapportert i og rundt, i et område med en radius på 10 km, eventuelt innbefattet et nabolands territorium, i løpet av de siste 30 dagene før slakte- eller avlivingsdatoen.

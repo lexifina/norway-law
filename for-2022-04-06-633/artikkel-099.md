@@ -1,0 +1,4 @@
+# Artikkel 99 Håndtering av rugeegg under transport til Unionen
+Forsendelser av rugeegg skal bare tillates innført til Unionen dersom avlsmaterialet i forsendelsen oppfyller følgende krav:
+a) Rugeeggene som er beregnet på innførsel til Unionen, skal ikke ha vært i kontakt med fjørfe, fugler i fangenskap eller rugeegg som ikke er beregnet på innførsel til Unionen, eller som har en lavere helsestatus, fra det tidspunktet de lastes på opprinnelsesanlegget for avsendelse til Unionen, til det tidspunktet de ankommer Unionen.
+b) Rugeeggene kan ikke ha vært transportert i, losset i eller flyttet til et annet transportmiddel ved transport på vei, til sjøs eller med luftfartøy gjennom et tredjeland eller territorium eller en sone i disse som ikke er listeført for innførsel av den bestemte arten og kategorien av rugeegg til Unionen.

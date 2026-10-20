@@ -1,0 +1,4 @@
+# Artikkel 33 Krav til dyrehelse for lukkede opprinnelsesanlegg for hov- og klovdyr med hensyn til listeførte sykdommer
+Forsendelser av hov- og klovdyr beregnet på et lukket anlegg som ligger i Unionen, skal bare tillates innført til Unionen dersom det lukkede opprinnelsesanlegget oppfyller følgende krav med hensyn til listeførte sykdommer:
+a) Når det gjelder det lukkede opprinnelsesanlegget for hov- og klovdyr, er de listeførte sykdommene nevnt i tabellen i del A i vedlegg XII ikke rapportert i de tidsrommene som er angitt for disse listeførte sykdommene i denne tabellen.
+b) Når det gjelder området i og rundt det lukkede anlegget, er de listeførte sykdommene nevnt i tabellen i del B i vedlegg XII ikke rapportert i de tidsrommene som er angitt for disse listeførte sykdommene i denne tabellen.

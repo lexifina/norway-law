@@ -1,0 +1,2 @@
+# Artikkel 113 Prøvetaking og testing etter innførsel til Unionen
+Vedkommende myndighet i bestemmelsesmedlemsstaten skal sikre at avlsfjørfe og produksjonsfjørfe som er utklekket fra rugeegg som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse, gjennomgår en klinisk undersøkelse som foretas av en offentlig veterinær på bestemmelsesanlegget senest den dagen da de relevante periodene fastsatt i artikkel 112 nr. 2 utløper, og at det om nødvendig tas prøve av dem for testing med sikte på å overvåke deres helsetilstand,

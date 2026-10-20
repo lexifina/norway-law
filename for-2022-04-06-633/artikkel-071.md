@@ -1,0 +1,4 @@
+# Artikkel 71 Håndtering etter innførsel av honningbidronninger og humler
+1. Etter innførsel til Unionen skal honningbidronninger ikke føres inn i lokale kolonier, med mindre de overføres fra transportkuben til nye kuber i samsvar med nr. 2 med tillatelse fra og eventuelt under direkte tilsyn fra vedkommende myndighet.
+2. Etter overføringen til nye kuber, som nevnt i nr. 1, skal transportkubene, følgebiene og annet materiale som ledsaget honningbidronningene fra opprinnelsestredjelandet, leveres til et offisielt laboratorium med sikte på undersøkelse for å avkrefte forekomst av Aethina Tumida (liten kubebille), herunder egg og larver, og eventuelle tegn på Tropilaelaps-midd.
+3. Driftsansvarlige som mottar humler, skal destruere containeren og emballasjematerialet som ledsaget dem fra opprinnelsestredjelandet eller opprinnelsesterritoriet, men kan holde dem i containeren som de ble innført til Unionen i, fram til slutten av koloniens levetid.

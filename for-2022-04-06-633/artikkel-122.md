@@ -1,0 +1,2 @@
+# Artikkel 122 Krav som gjelder transportmidler for produkter av animalsk opprinnelse
+Forsendelser av produkter av animalsk opprinnelse skal bare tillates innført til Unionen dersom slike forsendelser transporteres i et transportmiddel som er utformet, konstruert og vedlikeholdt på en slik måte at hygienestatusen til produktene av animalsk opprinnelse ikke settes i fare under transporten fra opprinnelsesstedet til Unionen.

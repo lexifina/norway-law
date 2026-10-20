@@ -1,0 +1,2 @@
+# Artikkel 94 Særlige krav til dyrehelse for donordyr av hestefamilien
+Forsendelser av sæd, oocytter eller embryoer fra hestedyr skal bare tillates innført til Unionen dersom donordyrene for dette avlsmaterialet oppfyller kravene fastsatt i artikkel 24 nr. 1 bokstav a) ii) og bokstav b) ii) og artikkel 24 nr. 6 i denne forordningen og de ytterligere særlige kravene til dyrehelse fastsatt i del 4 i vedlegg II til delegert forordning (EU) 2020/686.

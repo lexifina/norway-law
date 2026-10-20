@@ -1,0 +1,2 @@
+# Artikkel 35 Forflytning og håndtering av hov- og klovdyr beregnet på lukkede anlegg etter innførsel
+Etter innførsel til Unionen skal hov- og klovdyr som kommer fra et lukket anlegg i et tredjeland eller territorium, som nevnt i artikkel 27, oppholde seg på det lukkede bestemmelsesanlegget i et tidsrom på minst seks måneder før de kan flyttes til et annet lukket anlegg i Unionen, med mindre de eksporteres fra Unionen eller flyttes med henblikk på slakting.

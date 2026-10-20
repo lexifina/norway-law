@@ -1,0 +1,2 @@
+# Artikkel 75 Hunders, katters og ildrers opprinnelsestredjeland eller opprinnelsesterritorium eller en sone i disse
+Forsendelser av hunder, katter og ildrer skal bare tillates innført til Unionen dersom dyrene i forsendelsen kommer fra et tredjeland eller territorium eller en sone i disse der regler for forebygging og bekjempelse av infeksjon med rabiesvirus er i kraft og gjennomføres effektivt for å minimere risikoen for infeksjon hos hunder, katter og ildrer, herunder regler for import av disse artene fra andre tredjeland eller territorier.
