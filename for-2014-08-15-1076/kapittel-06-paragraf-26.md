@@ -1,0 +1,8 @@
+# § 17ka. Forbud mot kortvarig lagring mv. av råolje eller petroleumsprodukter
+Kortvarig lagring i henhold til vareførselsforskriften § 4-4-15 og plassering under prosedyren frisone i henhold til vareførselsloven § 4-5, av råolje eller petroleumsprodukter som oppført i vedlegg XXV på norsk territorium, er forbudt dersom varene har opprinnelse i Russland eller eksporteres fra Russland.
+Forbudet i første ledd gjelder ikke før 16. september 2025 for varer som allerede befinner seg i Norge før 18. juni 2025.
+Forbudet i første ledd gjelder ikke dersom unntakene i § 17j fjerde ledd bokstav d og § 17j sjette ledd kommer til anvendelse.
+Forbudet i første ledd gjelder ikke råolje og petroleumsprodukter oppført i vedlegg XXV som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse til kortvarig lagring av råolje eller petroleumsprodukter, som oppført i vedlegg XXV, på norsk eller EUs territorium, og plassering av slike varer under prosedyren frisone i henhold til vareførselsloven § 4-5, dersom varene har opprinnelse i eller eksporteres fra Russland, etter å ha fastslått at:
+a) de berørte varene er beslaglagt eller inndratt av en myndighet i Norge eller en EU-medlemsstat under nasjonale forvaltningssaker eller rettsprosesser,
+b) de berørte varene er under effektiv kontroll av myndighetene i Norge eller en EU-medlemsstat eller en enhet som handler på vegne av disse myndighetene.

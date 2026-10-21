@@ -1,0 +1,4 @@
+# § 8dc. Forbud mot å delta i transaksjoner med juridiske personer som yter kryptoeiendelstjenester mv. etablert i visse tredjeland
+Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som yter kryptoeiendelstjenester, eller er en plattform som gjør det mulig å utveksle eller overføre kryptoeiendeler, og som er etablert i et tredjeland oppført i vedlegg LVII.
+Vedlegg LVII omfatter tredjeland som av Rådet anses for systematisk og vedvarende å ha unnlatt å hindre yting av kryptoeiendelstjenester, eller å hindre at plattformer utveksler eller overfører kryptoeiendeler i strid med bestemmelsene i denne forskriften.
+Forbudet i første ledd gjelder ikke transaksjoner gjennomført av statsborgere i Norge eller i en EU-medlemsstat som er bosatt i et land oppført i vedlegg LVII, og som var dette før den aktuelle datoen som er angitt i vedlegget.

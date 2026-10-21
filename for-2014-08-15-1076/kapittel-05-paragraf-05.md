@@ -1,0 +1,14 @@
+# § 14ca. Unntak fra § 14c for humanitære formål
+Forbudene fastsatt i § 14c gjelder ikke
+a) salg, levering, overføring eller eksport av varer eller teknologi oppført i vedlegg II,
+b) direkte eller indirekte yting av faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i vedlegg II eller til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, eller
+c) direkte eller indirekte yting av finansiering eller finansiell bistand knyttet til varer og teknologi oppført i vedlegg II, til fysiske eller juridiske personer, i de angitte territoriene eller til bruk i de angitte territoriene av
+i) offentlige organer eller juridiske personer som mottar offentlig finansiering fra Norge eller EU-medlemsstatene, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene,
+ii. organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene,
+iii. organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av Norge eller en EU-medlemsstat i samsvar med nasjonale framgangsmåter, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene, eller
+iv. Norges eller EU-medlemsstatenes særlige organer, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendig utelukkende for humanitære formål i de angitte territoriene.
+Som unntak fra § 14c kan Direktoratet for eksportkontroll og sanksjoner, i saker som ikke omfattes av første ledd i denne bestemmelsen, gi særskilte eller alminnelige tillatelser, på de generelle og særskilte vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, til
+a) salg, levering, overføring eller eksport av varer eller teknologi oppført i vedlegg II,
+b) direkte eller indirekte yting av faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i vedlegg II eller til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, eller
+c) direkte eller indirekte yting av finansiering eller finansiell bistand knyttet til varer og teknologi oppført i vedlegg II, til fysiske eller juridiske personer i de angitte territoriene eller til bruk i de angitte territoriene, forutsatt at varene, teknologien, tjenestene og bistanden er nødvendige utelukkende for humanitære formål i de angitte territoriene.
+Ingen bestemmelse i denne paragrafen skal berøre overholdelse av § 3–§ 8a.

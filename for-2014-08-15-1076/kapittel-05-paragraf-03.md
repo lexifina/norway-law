@@ -1,0 +1,6 @@
+# § 14ba. Forbud mot å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til de angitte territoriene
+Det er forbudt å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til de angitte territoriene eller til fysiske eller juridiske personer i de angitte territoriene eller til bruk i de angitte territoriene.
+Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
+a) personlig bruk for fysiske personer som reiser til de angitte territoriene, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+b) offisielle formål i internasjonale organisasjoner i de angitte territoriene som har immunitet etter folkeretten, eller
+c) sivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i de angitte territoriene, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg IV til forordning (EU) 2022/263.

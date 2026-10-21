@@ -1,0 +1,6 @@
+# § 10a. Forbud mot å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til Krim eller Sevastopol
+Det er forbudt å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til Krim eller Sevastopol eller til fysiske eller juridiske personer på Krim eller i Sevastopol eller til bruk på Krim eller i Sevastopol.
+Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
+a) personlig bruk for fysiske personer som reiser til Krim eller Sevastopol, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+b) offisielle formål i internasjonale organisasjoner på Krim eller i Sevastopol som har immunitet i henhold til folkeretten, eller
+c) sivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten på Krim eller i Sevastopol, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg V til forordning (EU) nr. 692/2014.

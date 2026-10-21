@@ -1,0 +1,10 @@
+# § 8cg. Forbud mot å delta i transaksjoner i forbindelse med ferdigstillelse, drift mv. av Nord Stream og Nord Stream 2
+Det er forbudt direkte eller indirekte å delta i transaksjoner i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2, med hensyn til ferdigstillelse, drift, vedlikehold eller bruk av rørledningene. I tillegg er det forbudt direkte eller indirekte å delta i transaksjoner i forbindelse med finansiering av ferdigstillelse, drift eller bruk av rørledningene.
+Forbudene i første ledd gjelder ikke transaksjoner som er strengt nødvendige for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, sjøtransport eller miljøet, eller som respons ved naturkatastrofer.
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra første ledd og gi tillatelse, på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for
+a) avvikling eller omstrukturering av juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2 der dette er nødvendig for å sikre at naturgassrørledningene Nord Stream og Nord Stream 2 ikke vil bli brukt,
+b) å kreve kompensasjon, tilbakebetalinger eller andre midler fra fysiske eller juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2,
+c) å foreta og motta betalinger eller tilbakebetalinger som har forfalt eller vil forfalle i forbindelse med rettsavgjørelser, finansiering, forsikring, garantier eller andre kontrakter eller avtaler i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2 som ble inngått før 29. oktober 2025,
+d) et forlik, eller en rettsak eller voldgiftssak i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2,
+e) regelmessige vedlikeholdstjenester som er strengt nødvendige for å forhindre miljø- og sikkerhetsrisikoer eller negativ innvirkning på fiskerisektoren.
+Operatører skal underrette Direktoratet for eksportkontroll og sanksjoner om enhver transaksjon som er gjennomført i henhold til andre ledd innen to uker etter at den er gjennomført.

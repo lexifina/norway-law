@@ -1,0 +1,2 @@
+# § 8q. Forbud mot overføring mv. av risiko forbundet med forsikringsdekning for visse fartøy og luftfartøy
+Det er forbudt i fem år etter salg eller enhver form for leasing av fartøy eller luftfartøy som direkte eller indirekte har blitt drevet av Russlands regjering eller av juridiske personer etablert i Russland, å selge, levere, garantere eller på annen måte inngå kontrakter eller ordninger som fører til overføring av risikoer fra, eller overdragelse av eksponering for risikoer i forbindelse med forsikringsdekning for slike fartøy eller luftfartøy.
