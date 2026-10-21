@@ -1,0 +1,2 @@
+# § 20b. Plikt til å gjøre sitt ytterste for å sikre at visse juridiske personer ikke deltar i aktiviteter som undergraver de restriktive tiltakene
+Fysiske og juridiske personer skal gjøre sitt ytterste for å sikre at alle juridiske personer etablert utenfor Norge eller EU som de eier eller kontrollerer, ikke deltar i aktiviteter som undergraver de restriktive tiltakene fastsatt i denne forskriften.

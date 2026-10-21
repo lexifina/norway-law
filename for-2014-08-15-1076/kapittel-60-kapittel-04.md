@@ -1,0 +1,3 @@
+# Part D – List of refineries in Russia and in third countries other than Russia
+ | Name | Grounds for inclusion | Date of application
+1. | Kulevi Oil Refinery, Georgia | Article 5ae(2a), point (a): used for the processing or refining of crude oil or the processing or blending of petroleum products, as listed in Annex XXV, or of mineral products, that originate in Russia Article 5ae(2a), point (b): used in such a way as to facilitate or engage in the violation or circumvention or otherwise significantly frustrate the provisions of this Regulation or of Regulation (EU) No 269/2014, (EU) No 692/2014 or (EU) 2022/263 | 25.1.2027

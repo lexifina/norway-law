@@ -1,0 +1,3 @@
+# § 8g. Forbud for verdipapirsentraler å yte visse tjenester
+Det er forbudt for verdipapirsentraler i Norge å yte enhver form for tjenester som definert i vedlegg til forordning (EU) nr. 909/2014, jf. verdipapirsentralloven § 1-1, for omsettelige verdipapirer utstedt etter 4. mai 2022 til russiske statsborgere eller fysiske personer bosatt i Russland eller til juridiske personer etablert i Russland.
+Første ledd gjelder ikke statsborgere i Norge, et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller fysiske personer med midlertidig eller fast oppholdstillatelse i Norge, et land som er medlem av Det europeiske økonomiske samarbeidsområde eller i Sveits.

@@ -1,0 +1,14 @@
+# § 8iii. Forbud mot å motta visse gaver, økonomiske fordeler eller støtte til politiske partier mv.
+Det er forbudt å motta gaver, økonomiske fordeler eller økonomisk støtte, herunder i form av finansiering og finansiell bistand, direkte eller indirekte, fra
+a) Russlands regjering,
+b) juridiske personer som er etablert i Russland og er under offentlig kontroll, eller der det offentlige eier over 50 %,
+c) juridiske personer etablert utenfor Norge og EU hvis eiendomsrettigheter direkte eller indirekte eies over 50 % av en enhet som nevnt i bokstav a eller b, eller
+d) fysiske eller juridiske personer som handler på vegne av eller etter instruks fra enheter som nevnt i bokstav a, b eller c.
+Første ledd gjelder bare for
+a) politiske partier og politiske allianser, som definert i forordning (EU) nr. 1141/2014,
+b) ikke-statlige organisasjoner etablert eller registrert i samsvar med norsk lovgivning, og
+c) tilbydere av medietjenester, som definert i forordning (EU) 2024/1083, som er etablert i Norge,
+d) offentlige og private forskningsinstitusjoner, universiteter, høyrere utdanningsinstitusjoner, forsknings- og teknologiorganisasjoner, ikke-statlige organisasjoner, offentlige organer og etater samt foretak og andre enheter i industriell og kommersiell sektor, herunder mikro, små, mellomstore og store bedrifter, som utfører forsknings- og innovasjonstiltak som definert i europaparlaments- og rådsforordning (EU) 2021/695,
+e) fysiske personer med tilknytning til juridiske personer som nevnt i bokstav d.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate at enheter som nevnt i annet ledd bokstav b og c, tar imot gaver, økonomiske fordeler eller økonomisk støtte, herunder i form av finansiering og finansiell bistand, forutsatt at slikt mottak ikke på noen måte påvirker de demokratiske prosessene i Norge eller EU, eller undergraver deres demokratiske grunnlag, herunder gjennom påvirkningskampanjer og fremme av desinformasjon, med sikte på å undergrave Ukrainas territoriale integritet, suverenitet og uavhengighet og gjennom propagandaaksjoner til støtte for Russlands militære aggresjon mot Ukraina.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate at European X-Ray Free-Electron Laser Facility (EuXFEL), Facility for Antiproton and Ion Research in Europe (FAIR) og European Synchrotron Radiation Facility (ESRF) tar imot gaver, økonomiske fordeler eller økonomisk støtte, herunder finansiering og finansiell bistand, forutsatt at slike gaver, økonomiske fordeler eller økonomisk støtte, herunder finansiering og finansiell bistand, er basert på internasjonale avtaler med Den russiske føderasjons regjering.

@@ -1,0 +1,4 @@
+# Category VI – Marine
+X.A.VI.001 Vessels, marine systems or equipment, and specially designed components therefor, components and accessories:
+a) Equipment contained in chapter 4 (navigation equipment) of the applicable Commission Implementing Regulation on design, construction and performance requirements and testing standards for marine equipment adopted in accordance with Article 35(2) of Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment;
+b) Equipment contained in chapter 5 (radio-communication equipment) of the applicable Commission Implementing Regulation on design, construction and performance requirements and testing standards for marine equipment adopted in accordance with Article 35(2) of Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment;

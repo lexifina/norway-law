@@ -1,0 +1,10 @@
+# § 17l. Forbud mot kjøp, import mv. av gull
+Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre gull, som oppført i vedlegg XXVI, fra Russland dersom det har sin opprinnelse i Russland eller eksporteres fra Russland til Norge, EU eller et tredjeland etter 27. august 2022.
+Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre produktene oppført i vedlegg XXVI når de er bearbeidet i et tredjeland og inneholder de produktene som er forbudt i henhold til første ledd.
+Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre gull, som oppført i vedlegg XXVII, dersom det har sin opprinnelse i Russland eller eksporteres fra Russland til Norge eller EU etter 27. august 2022.
+Det er forbudt
+a) direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varene omhandlet i første, annet og tredje ledd og til levering, produksjon, vedlikehold og bruk av de nevnte varene i forbindelse med forbudet i første, annet og tredje ledd,
+b) direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene omhandlet i første, annet og tredje ledd i forbindelse med kjøp, import eller overføring av de nevnte varene, eller til yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med forbudet i første, annet og tredje ledd.
+Forbudene i første, annet og tredje ledd gjelder ikke gull som er nødvendig for offisielle formål på utenriksstasjoner i Russland eller i internasjonale organisasjoner som har immunitet i Russland i henhold til folkeretten.
+Forbudet i tredje ledd gjelder ikke varer som oppført i vedlegg XVII til personlig bruk for fysiske personer som reiser til Norge, eller for medlemmer av deres nærmeste familie som reiser sammen med dem, og som eies av disse personene og ikke er beregnet på salg.
+Som unntak fra første, annet og tredje ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til å overføre eller importere kulturgjenstander som er utlånt innenfor rammen av et formelt kultursamarbeid med Russland.

@@ -1,0 +1,8 @@
+# § 14da. Unntak fra § 14d for humanitære formål
+Forbudene fastsatt i § 14d gjelder ikke yting av faglig bistand eller tjenester fra
+a) offentlige organer eller juridiske personer som mottar offentlig finansiering fra Norge eller EU eller EU-medlemsstatene, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene,
+b) organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene,
+c) organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av Norge eller en EU-medlemsstat i samsvar med nasjonale framgangsmåter, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene, eller
+d) Norges eller EU-medlemsstatenes særlige organer, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene
+Som unntak fra § 14d kan Direktoratet for eksportkontroll og sanksjoner, i saker som ikke omfattes av første ledd, gi særskilte eller alminnelige tillatelser, på de generelle og særskilte vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessig, til yting av faglig bistand eller tjenester, forutsatt at bistanden og tjenestene er nødvendige utelukkende for humanitære formål i de angitte territoriene.
+Ingen bestemmelse i denne paragrafen skal berøre overholdelse av § 3–§ 8a.

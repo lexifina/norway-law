@@ -1,0 +1,9 @@
+# § 19i. Risikovurdering mv. i forbindelse med salg, levering, overføring eller eksport av felles høyt prioriterte produkter
+Fysiske og juridiske personer som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XL eller varer som oppført i vedlegg XLVIII, skal
+a) treffe hensiktsmessige tiltak som står i forhold til deres art og størrelse, for å identifisere og vurdere risikoen for eksport til Russland og eksport til bruk i Russland av slike varer eller slik teknologi, og sikre at disse risikovurderingene dokumenteres og holdes oppdatert,
+b) innføre hensiktsmessige retningslinjer, kontroller og prosedyrer som står i forhold til deres art og størrelse, for å redusere og effektivt håndtere risikoen for eksport til Russland og eksport til bruk i Russland av slike varer eller slik teknologi.
+Første ledd får anvendelse fra og med 4. april 2025 med hensyn til vedlegg XL og fra og med 16. september 2025 med hensyn til vedlegg XLVIII.
+Første ledd får ikke anvendelse på fysiske og juridiske personer som utelukkende selger, leverer eller overfører felles høyt prioriterte produkter som oppført i vedlegg XL eller varer som oppført i vedlegg XLVIII, i Norge, EU eller partnerlandene i vedlegg VIII til forordning (EU) nr. 833/2014.
+Fysiske og juridiske personer skal sikre at alle juridiske personer etablert utenfor Norge eller EU som de eier eller kontrollerer, og som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XL eller varer som oppført i vedlegg XLVIII, gjennomfører kravene i første ledd bokstav a og b.
+Fjerde ledd får anvendelse fra og med 4. april 2025 med hensyn til vedlegg XL og fra og med 16. september 2025 med hensyn til vedlegg XLVIII.
+Fjerde ledd får ikke anvendelse når en fysisk eller juridisk person av grunner som vedkommende ikke selv har forårsaket, ikke er i stand til å utøve kontroll over den juridiske personen som vedkommende eier.

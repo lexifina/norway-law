@@ -1,0 +1,26 @@
+# § 19a. Forbud mot havneanløp for russiske fartøy
+Det er forbudt å gi adgang til eller for fartøy å anløpe havner etter 7. mai 2022 og til sluser etter 3. september 2022 på Fastlands-Norge til fartøy som er registrert under russisk flagg, unntatt for adgang til sluser i den hensikt å forlate norsk territorium. Etter 8. april 2023 gjelder forbudet også for alle fartøy som er sertifisert av det russiske skipsregisteret, uansett hvilket flagg fartøyet er registrert under og uten hensyn til begrensningene i tredje ledd.
+Første ledd første punktum får anvendelse på fartøy som har byttet sitt russiske flagg eller sin registrering til enhver annen stats flagg eller registrering etter 24. februar 2022.
+I denne paragrafen, med unntak av første ledd andre punktum, menes med «fartøy»:
+a) skip som faller inn under virkeområdet til relevante internasjonale konvensjoner, inkludert replikaer av historiske skip,
+b) en yacht som er minst 15 meter lang, som ikke frakter gods, og som har høyst tolv passasjerer, eller
+c) et lystfartøy eller fritidsfartøy som definert i europaparlaments- og rådsdirektiv 2013/53/EU.
+Forbudet i første ledd gjelder ikke fiskefartøy som anløper Tromsø, Kirkenes eller Båtsfjord forutsatt at oppholdstiden i havnen ikke overstiger fem virkedager, men oppad begrenset til syv døgn, og det har gått minst tre døgn siden forrige opphold i havn på Fastlands-Norge. Med virkedager forstås i denne bestemmelsen mandag til fredag. Direktoratet for eksportkontroll og sanksjoner kan etter søknad gjøre unntak fra begrensningene på antall virkedager og døgn dersom det er søkt om unntak etter § 16 for strengt nødvendige reparasjoner, eller dersom det foreligger andre særlige grunner. Unntak kan gis på de vilkår direktoratet finner hensiktsmessig. Kompetent norsk kontrollorgan kan beslutte at maksimal oppholdstid skal forlenges dersom det i et konkret tilfelle er nødvendig for å kunne gjennomføre kontroll av fartøy, varer eller mannskap.
+Adgang for fartøy som omfattes av fjerde ledd kan bare gis til kaiene 20, 21, 22, 23, 24 og 38 i Breivika i Tromsø, Troms fryseterminal AS, Tromsø Mekaniske AS, kaiene Dampskipskaia, Nessekaia og Neptunbukta i Båtsfjord, kaiene Industrikaia, Dypvannskaia, Hurtigrutekaia og Sentrumskaia i Kirkenes, Kimek AS, Tschudi Bulk Terminals AS og Henriksen Shipping Service AS.
+Første ledd får ikke anvendelse på et fartøy som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet eller for å redde liv til sjøs eller på et fartøy som er pålagt av kompetent norsk myndighet å anløpe en angitt havn.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi et fartøy adgang til en havn eller en sluse, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at adgangen er nødvendig for
+a) med mindre det er forbudt i henhold til § 17j og § 17k, kjøp, import eller transport av naturgass og olje til Norge eller EU, herunder raffinerte petroleumsprodukter, titan, aluminium, kobber, nikkel, palladium og jernmalm, samt visse kjemiske produkter og jernprodukter som oppført i vedlegg XXIV,
+b) kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matprodukter, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og frakte i henhold til denne forskriften,
+c) humanitære formål, eller
+d) transport av kjernebrensel og andre varer som er strengt nødvendige for drift av sivile kjernefysiske kapasiteter.
+Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi fartøy som har byttet sitt russiske flagg eller sin registrering til enhver annen stats flagg eller registrering før 7. mai 2022, adgang til en havn eller en sluse, etter å ha fastslått at
+a) russisk flagg eller registrering var påkrevd som følge av kontrakt, og
+b) adgangen er nødvendig for operasjoner som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU.
+Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi et fartøy adgang til en havn eller sluse, forutsatt at fartøyet
+a) har ført russisk flagg i henhold til en bareboatregistrering som trådte i kraft før 24. februar 2022,
+b) har gjenopptatt sin rett til å føre norsk flagg eller flagg fra en av EUs medlemsstater før 31. januar 2023, og
+c) ikke er eid, chartret, drevet eller på annen måte kontrollert av en russisk statsborger eller av juridiske personer som er etablert eller stiftet i henhold til Russlands lovgivning.
+Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi fartøy som har byttet sitt russiske flagg til en annen stats flagg før 7. mai 2022, adgang til en havn eller en sluse, etter å ha fastslått at fartøyet
+a) ble erklært oppgitt i henhold til en EU-medlemsstats eller norsk lovgivning før 24. februar 2022,
+b) var gjenstand for tvangssalg av vedkommende nasjonale myndigheter i en EU-medlemsstat eller Norge før 24. februar 2022, og
+c) befant seg fysisk på en EU-medlemsstats eller Norges territorium på tidspunktet for tvangssalget.

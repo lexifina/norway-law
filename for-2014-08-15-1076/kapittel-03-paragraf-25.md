@@ -1,0 +1,6 @@
+# § 8l. Forbud mot å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta
+Det er forbudt å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta til Russland eller til fysiske eller juridiske personer i Russland, herunder til Russlands regjering og Russlands sentralbank, eller til bruk i Russland.
+Forbudet i første ledd gjelder ikke salg, levering, overføring eller eksport av pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
+a) personlig bruk for fysiske personer som reiser til Russland, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+b) offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten, eller
+c) sivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Russland, og som mottar offentlig finansiering fra Norge, EU, EU-medlemsstatene eller et partnerland til EU som oppført i vedlegg VIII til forordning (EU) nr. 833/2014.

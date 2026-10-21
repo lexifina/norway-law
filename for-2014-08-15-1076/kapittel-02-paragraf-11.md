@@ -1,0 +1,2 @@
+# § 6d. Unntak for teleoperatører
+Bestemmelsen i § 3 gjelder ikke penger eller formuesgoder som er strengt nødvendige for at teleoperatører i Norge og EU skal kunne yte elektroniske kommunikasjonstjenester, for levering av tilhørende infrastruktur og tjenester som er nødvendige for slike elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, i Russland, i Ukraina, i Norge, i EU, mellom Russland og Norge eller EU og mellom Ukraina og Norge eller EU, og for datasentertjenester i Norge og EU.

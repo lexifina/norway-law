@@ -1,0 +1,6 @@
+# § 19f. Frigjøring av varer
+Med hensyn til forbudene mot import av varer fastsatt i denne forskriften, kan tollmyndighetene frigjøre varer som fysisk befinner seg i Norge for disponering, som fastsatt i vareførselsloven kapittel 3 og 4, forutsatt at de har vært framlagt for tollmyndighetene for kontroll i samsvar med vareførselsloven § 2-4 før ikrafttredelses- eller anvendelsesdatoen for de respektive importforbudene, avhengig av hva som inntreffer sist.
+Alle administrative skritt som er nødvendige for frigjørelsen nevnt i første og femte ledd av de relevante varene, skal være tillatt.
+Tollmyndighetene skal ikke frigjøre varer dersom det er rimelig grunn til å anta at regelverket omgås, og de skal ikke tillate gjenutførsel av varene til Russland etter vareførselsloven § 1-3 første ledd.
+Betaling i forbindelse med slike varer skal være i overenstemmelse med bestemmelsene i og målene med denne forskriften, særlig med hensyn til forbud mot kjøp.
+Varer som fysisk befinner seg i Norge og har vært framlagt for tollmyndighetene for kontroll i samsvar med vareførselsloven § 2-4 før 5. april 2023, og som ble stoppet i henhold til anvendelse av denne forskriften, kan frigjøres av tollmyndighetene i henhold til vareførselsloven kapittel 3 etter vilkårene fastsatt i første til fjerde ledd.
