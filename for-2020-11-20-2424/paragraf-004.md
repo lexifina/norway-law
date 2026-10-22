@@ -1,0 +1,2 @@
+# § 4. Forenklede importvilkår for forsendelser av ferskt kjøtt fra svin fra Canada
+Beslutning 2005/290/EF om fastsettelse av særlige vilkår for forsendelser av ferskt kjøtt fra svin fra Canada, som inntatt i EØS-avtalen vedlegg I kapittel I innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning (EU) 2026/1375.

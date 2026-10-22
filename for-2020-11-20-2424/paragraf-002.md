@@ -1,0 +1,2 @@
+# § 2. Forenklede importvilkår for toskallede bløtdyr, pigghuder, sekkdyr og sjøsnegler fra USA
+Forordning (EU) 2020/1641 om import av toskallede bløtdyr, pigghuder, sekkdyr og sjøsnegler fra USA, som inntatt i EØS-avtalen vedlegg I kapittel I innledende del nr. 7, gjelder som forskrift. Forordningen gjelder med tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2022/158 og forordning (EU) 2026/1305.

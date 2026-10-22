@@ -1,0 +1,2 @@
+# § 5. Forenklede importvilkår for forsendelser av levende dyr og produkter av animalsk opprinnelse fra New Zealand
+Beslutning (EU) 2026/1936 om fastsettelse av særlige vilkår for innførsel til Unionen av forsendelser av levende dyr og produkter av animalsk opprinnelse fra New Zealand, som inntatt i EØS-avtalens vedlegg I kapittel I innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med de tilpasninger som følger av vedlegg I og protokoll 1 til avtalen og avtalen for øvrig.
