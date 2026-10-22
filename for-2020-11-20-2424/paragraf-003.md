@@ -1,0 +1,2 @@
+# § 3. Forenklede importvilkår for fiskerivarer fra USA
+Beslutning 2006/199/EF om fastsettelse av særlige vilkår for import av fiskerivarer fra USA, som inntatt i EØS-avtalen vedlegg I kapittel I innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning (EU) 2026/1205.
