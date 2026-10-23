@@ -1,0 +1,2 @@
+# § 24. Kommunesammenslåing og kommuneoppdeling
+Ved kommunesammenslåing skal den nye kommunen beregne tilskuddet til private barnehager ut fra de tidligere kommunenes regnskap og barnetall i to år etter at kommunesammenslåingen er gjennomført. Ved kommuneoppdeling skal de nye kommunene beregne tilskuddet til private barnehager ut fra den tidligere kommunens regnskap og barnetall i to år etter at kommuneoppdelingen er gjennomført.

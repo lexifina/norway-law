@@ -1,0 +1,2 @@
+# § 6. Grunntilskudd til ordinære barnehager
+Kommunen skal gi grunntilskudd etter barnehageloven § 19a første ledd til private ordinære barnehager per heltidsplass. Den vedtatte foreldrebetalingen for kommunale barnehager i kommunen skal trekkes fra beregningsgrunnlaget. Dersom kommunen har vedtatt høyere foreldrebetaling enn maksimalprisen, jf. forskrift om foreldrebetaling i barnehager § 4, skal maksimalprisen fastsatt av Stortinget trekkes fra beregningsgrunnlaget.

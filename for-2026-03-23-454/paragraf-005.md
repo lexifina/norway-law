@@ -1,0 +1,8 @@
+# § 5. Rapportering i private barnehager
+Private barnehager skal hvert år rapportere om antall barn, barnas alder, oppholdstid i barnehagen og antall årsverk barnehagen har pensjonsforpliktelser for per 15. desember.
+Private barnehager skal rapportere om samlet pensjonsgivende lønn, jf. forskrift om regnskapsplikt mv. for private barnehager § 8.
+Private barnehager skal opplyse om forhold som kan ha betydning for retten til ekstra grunntilskudd etter barnehageloven § 19a andre ledd innen 15. desember i året før tilskuddsåret.
+Kommunen kan i forskrift bestemme at de private barnehagene skal rapportere om forhold som nevnt i første ledd ved flere tidspunkter i tilskuddsåret, og hva som skal til for at tilskuddet skal endres i løpet av året. Forskrift etter første punktum skal fastsettes før tilskuddsåret begynner.
+De private barnehagene skal rapportere om store aktivitetsendringer i form av endringer i antall barn og endringer i antall årsverk. Kommunen skal i disse tilfellene beregne tilskuddet til barnehagen på nytt. Barnehagen skal også rapportere om endringer som kan ha betydning for retten til ekstra grunntilskudd etter barnehageloven § 19a andre ledd andre punktum.
+Ved rapportering etter fjerde og femte ledd gjelder følgende: Blir et barn som fyller tre år i tilskuddsåret, rapportert i tilskuddsårets sju første måneder, utløser dette grunntilskudd for småbarnsplass. Blir et barn som fyller tre år i tilskuddsåret, rapportert i årets fem siste måneder, utløser dette grunntilskudd for storbarnsplass resten av året.
+Åpne barnehager skal rapportere om forhold nevnt i andre ledd og om ukentlig åpningstid og hvor mange barn det er plass til innenfor godkjenningen. Fjerde og femte ledd gjelder for åpne barnehager så langt de passer.
