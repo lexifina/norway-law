@@ -1,0 +1,3 @@
+# § 9. Opplysningsplikt
+Markedsdeltakere skal umiddelbart underrette Direktoratet for medisinske produkter om ethvert forhold, som for eksempel uvanlige bestillinger eller transaksjoner, som omfatter listeførte stoffer i alle kategorier i vedlegg I, som gir grunn til mistanke om at stoffene som skal omsettes eller fremstilles, kan komme på avveier for å benyttes til ulovlig fremstilling av narkotika.
+Markedsdeltakerne skal når Direktoratet for medisinske produkter krever det, gi Direktoratet for medisinske produkter sammenfattende opplysninger i forbindelse med transaksjoner med listeførte stoffer i alle kategorier i vedlegg I. Direktoratet for medisinske produkter kan gi nærmere retningslinjer om hvordan slik innberetning skal skje.
