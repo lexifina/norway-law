@@ -1,0 +1,6 @@
+# § 7. Nasjonale satser for grunntilskudd til ordinære barnehager
+Kommuner som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:Grunntilskuddssats, inklusive administrasjonspåslagOrdinære barnehager, barn fra null år til to år310 400Ordinære barnehager, barn fra tre år til seks år164 500
+Kommuner som ligger i sentralitetssone 5 eller sentralitetssone 6 som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:Grunntilskuddssats, inklusive administrasjonspåslagOrdinære barnehager, barn fra null år til to år315 900Ordinære barnehager, barn fra tre år til seks år170 100
+Med sentralitetssone 5 og sentralitetssone 6 menes kommuner som grupperes i nest-minst sentrale kommuner (klasse 5) eller minst sentrale kommuner (klasse 6) i den siste versjonen av sentralitetsindeksen som utarbeides av Statistisk sentralbyrå.
+Kommuner i innsatssonen i Finnmark og Nord-Troms som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:Grunntilskuddssats, inklusive administrasjonspåslagOrdinære barnehager, barn fra null år til to år323 600Ordinære barnehager, barn fra tre år til seks år177 800
+Med kommuner i innsatssonen i Finnmark og Nord-Troms menes alle kommuner i Finnmark samt sju kommuner i Nord-Troms (Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord).

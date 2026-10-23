@@ -1,0 +1,2 @@
+# § 8. Kommunale satsinger
+Kommunen kan holde utgifter som følger av en kommunal satsing utenfor beregningen av grunntilskuddet etter barnehageloven § 19a første ledd andre punktum. Med kommunal satsing menes finansiering av særskilte tiltak utover lov- eller forskriftskrav, hvor kommunen har bestemt hvordan midlene skal brukes. Kommunen skal legge til rette for at private barnehager kan delta i satsingen.
