@@ -1,0 +1,5 @@
+# § 3. Definisjoner:
+a) Listeført stoff: Ethvert stoff oppført i vedlegg I til forskriften, herunder blandinger og naturprodukter som inneholder slike stoffer. Unntatt fra denne forskrift er legemidler slik disse er definert i direktiv 2001/83/EF av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker, blandinger, naturprodukter og andre preparater som inneholder listeførte stoffer, men som er sammensatt på en slik måte at stoffene ikke uten videre kan brukes eller gjenvinnes ved hjelp av lett anvendelige eller økonomisk fordelaktige midler.
+b) Ikke listeførte stoffer: Stoffer som ikke er oppført i vedlegg I til forskriften, men hvis anvendelse ved ulovlig fremstilling av narkotika er blitt fastslått.
+c) Markedsføring: Enhver leveranse med eller uten vederlag av listeførte stoffer; eller lagring, fremstilling, produksjon, bearbeiding av, handel, distribusjon eller meglervirksomhet med disse stoffer med henblikk på levering.
+d) Markedsdeltaker: Fysisk eller juridisk person som er beskjeftiget med markedsføring av registrerte stoffer.
