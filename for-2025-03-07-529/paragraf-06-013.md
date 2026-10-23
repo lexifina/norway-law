@@ -1,0 +1,2 @@
+# § 6-13. Om justerande munnleg høyring
+Ved sensur av skriftlege vurderingar kan det bli gjennomført ei justerande munnleg høyring. Det må følge av emneplanen at ei slik høyring kan bli gjennomført. Ei justerande munnleg høyring skal ha særleg tett samanheng med det føregåande skriftlege arbeidet. Ved justerande munnleg høyring kan karakteren på bestått resultat bli justert opp eller ned med éin karakter

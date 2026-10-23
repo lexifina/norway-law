@@ -1,0 +1,5 @@
+# § 6-3. Vurderingsform
+(1) Ved Fagskulen Vestland skal studentane sine kunnskapar, ferdigheiter og kompetanse bli prøvd og vurdert på ein upartisk og fagleg forsvarleg måte, jf. fagskoleloven § 21 første ledd. Prøving og vurdering av studentane skal gjennomførast slik at fagskulen, på eit mest mogleg sikkert grunnlag, kan vurdere i kva grad studentane har nådd læringsutbyttet for utdanninga eller emnet. Fagskulen avgjer kva vurderingsformer som skal brukast for å sikre dette.
+(2) Fagskulen kan bestemme at ei vurderingsform skal brukast aleine eller i kombinasjon med andre vurderingsformer. Det skal gå fram av emneplanen kva vurderingsform eit emne har.
+(3) Ei vurdering som består av fleire vurderingsdelar er ikkje bestått før alle vurderingsdelane er bestått. Vekta av kvar vurderingsdel skal gå fram av emneplanen som ein brøk eller prosentandel av den samla karakteren.
+(4) Dersom ein eller fleire vurderingsdelar, og dermed endeleg karakter, ikkje er bestått, må studenten normalt ta alle vurderingsdelar på nytt ved eit eventuelt nytt vurderingsforsøk.
