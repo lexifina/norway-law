@@ -1,0 +1,3 @@
+# § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
+(1) EØS-avtalen vedlegg XIII nr. 66zbn (forordning (EU) 2025/20 om utfylling av europaparlaments- og rådsforordning (EU) 2018/1139 ved fastsettelse av krav til sikker yting av bakketjenester og til organisasjoner som yter dem) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+(2) EØS-avtalen vedlegg XIII nr. 66zbo (forordning (EU) 2025/23 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2018/1139 med hensyn til krav til tilsynet med bakketjenester og organisasjoner som yter dem) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
