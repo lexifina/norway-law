@@ -1,0 +1,5 @@
+# § 6-10. Om gruppevurdering
+(1) Ved gruppevurdering skal alle deltakarane i gruppa bidra til eit felles produkt. Karakteren på produktet kan vere individuell eller lik for heile gruppa.
+(2) Oppstår det tvil om ein student bidreg eller har bidrege tilstrekkeleg til å få utteljing for eit felles produkt, skal det hentast inn skriftleg fråsegn frå fagleg rettleiar eller emneansvarleg. Fagskulen kan gjere vedtak om at studenten skal reknast for ikkje å ha møtt til vurdering dersom studenten ikkje bidreg eller har bidrege tilstrekkeleg. Studenten har rett til å uttale seg før det blir fatta vedtak i saka.
+(3) Heile gruppa har ansvar for å sørge for at produktet er komplett. Om produktet ikkje er i tråd med kjeldereglar og retningslinjer for vurdering, kan alle gruppedeltakarane bli mistenkt for fusk etter kapittel 9.
+(4) Når munnleg, justerande munnleg og praktisk vurdering blir gjennomført i gruppe, skal sensorane sørge for at alle studentane i gruppa blir eksaminerte i eit omfang som gir tilstrekkeleg grunnlag for karakterfastsettinga.

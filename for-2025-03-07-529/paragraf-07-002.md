@@ -1,0 +1,8 @@
+# § 7-2. Sensur
+(1) Fagskulen skal sørge for at studentane sine kunnskapar, ferdigheiter og kompetanse blir prøvd og vurdert på ein upartisk og fagleg forsvarleg måte. Det skal alltid vere ei ekstern evaluering av vurderinga eller vurderingsordningane, jf. fagskoleloven § 21 første ledd.
+(2) Studenten kan ikkje trekke tilbake eit oppgåvesvar etter innlevering. Det same gjeld for munnleg eller praktisk eksamen frå tidspunktet førebuinga eller eksaminasjonen har starta.
+(3) Dersom ein student har gjennomført vurdering i same emne fleire gonger, vil den beste karakteren gjelde.
+(4) Vurderingskriteria som blir brukt ved sensuren bør i størst mogleg grad vere tilgjengelege for studentane. Dersom det er gitt skriftlege retningslinjer for bedømminga, skal studentane ha tilgang til desse etter at karakteren er fastsett, jf. fagskoleloven § 22 tredje ledd.
+(5) Kunngjering av sensur skjer i Visma InSchool. Fagskulen skal opplyse om retten til å krevje grunngiving og til å klage, jf. fagskoleloven §§ 22 og 23, fristane som gjeld, og kor studenten skal rette krav om grunngiving og klage. Ved munnleg og praktisk eksamen blir sensuren gitt munnleg og med ein gong.
+(6) Ved ny sensur skal klagesensor ikkje få kjennskap til studenten sin opphavlege karakter, sensor si grunngiving for karakteren eller studenten si grunngiving for klaga, jf. fagskoleloven § 22 fjerde ledd.
+(7) Om karakteren er fastsett på grunnlag av skriftleg vurdering og justerande munnleg høyring, og karakteren blir endra etter ny sensur av den skriftlege delen, skal det haldast ny justerande munnleg høyring for å få fastsett endeleg karakter.
