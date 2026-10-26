@@ -1,0 +1,2 @@
+# § 11. Alternativ oppfyllelse av vilkår for apotekkonsesjon
+Departementet kan godkjenne at et vilkår for apotekkonsesjon oppfylles gjennom tilbud om økonomisk kompensasjon til andre apotek i området som er pålagt det samme vilkåret. Apotekkonsesjonærene i området skal avtale kompensasjonens størrelse. Dersom apotekkonsesjonærene ikke blir enige, kan Direktoratet for medisinske produkter fastsette kompensasjonen ved skjønn.

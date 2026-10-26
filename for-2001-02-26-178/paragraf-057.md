@@ -1,0 +1,3 @@
+# § 57. Legemidler mv. som kan selges i medisinutsalg
+Fra medisinutsalg kan bare selges reseptfrie legemidler, legemidler unntatt fra reseptplikt og andre varer som kan selges fra apotek uten særskilt rekvisisjon. Reseptfrie legemidler som i markedsføringstillatelsen har risikominimeringstiltak knyttet til utleveringen kan ikke selges fra medisinutsalg. Det må ikke selges andre legemidler enn de som utsalget mottar fra apoteket.
+Direktoratet for medisinske produkter kan unnta fra salg bestemte legemidler eller andre varer som kan misbrukes eller som av andre grunner ikke bør tillates solgt fra medisinutsalg. Det kan også fastsettes hvilke legemidler og medisinsk utstyr medisinutsalg alltid skal være forsynt med.

@@ -1,0 +1,2 @@
+# § 31. Narkotikaregnskap
+Apoteket skal registrere innkjøp, utlevering, svinn ved tilvirkning, tap ved spill, brekkasje og kassasjon av legemidler i reseptgruppe A og alle øvrige legemidler hvor det inngår stoffer oppført på narkotikalisten under konvensjonene N1 og P2. Direktoratet for medisinske produkter kan gjøre unntak for bestemte stoffer, droger eller preparater og også bestemme at registrerings- og regnskapsplikten helt eller delvis skal gjøres gjeldende for andre stoffer, droger eller preparater som lett kan misbrukes.
