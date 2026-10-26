@@ -1,0 +1,5 @@
+# § 6. Kvotefleksibilitet på gruppenivå fra 2026 til 2027
+Dersom en gruppekvote overfiskes, kan Fiskeridirektoratet belaste gruppekvoten det påfølgende kvoteåret med et tilsvarende kvantum. Dersom overfisket skyldes Fiskeridirektoratets refordeling av kvoter mellom fartøygrupper etter tredje ledd, skal belastningen av gruppekvoten det påfølgende kvoteåret ikke overstige 10 % av den gruppekvoten som er overfisket. Denne begrensningen gjelder bare så langt det for øvrig er dekning innenfor totalkvoten.
+Dersom en gruppekvote ikke er oppfisket ved kvoteårets slutt, kan Fiskeridirektoratet godskrive inntil 10 % av denne gruppekvoten til det påfølgende kvoteåret.
+Dersom det beregnes at det vil gjenstå mer enn 10 % av en gruppekvote ved kvoteårets slutt, kan Fiskeridirektoratet innenfor samme kvoteår refordele overskytende kvantum til andre fartøygrupper.
+Gruppekvotene angitt i forskriften er ikke justert for eventuelle overføringer av kvantum mellom kvoteår som beskrevet i første og andre ledd.

@@ -1,0 +1,3 @@
+# § 15. Beregning av kvote ved utskiftning og ombygging av fartøy på 28 meter største lengde og over
+Ved forlengelse eller utskiftning til større fartøy på eller over 28 meter største lengde etter 9. desember 1994, skal erstatningsfartøyets kvote i fisket etter torsk beregnes etter utskiftingsfartøyets lengde før nevnte skjæringsdato.
+Ved forlengelse eller utskifting av fartøy under 28 meter største lengde til fartøy på eller over 28 meter største lengde i perioden fra 9. desember 1994 til 18. desember 1998, skal erstatningsfartøyets kvote i fisket etter torsk beregnes etter utskiftingsfartøyets lengde.
