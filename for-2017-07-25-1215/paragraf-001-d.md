@@ -1,0 +1,2 @@
+# § 1d. Gjennomføring av forordning (EU) 2018/456 om saksbehandlingstrinnene i konsultasjonsprosessen for fastsettelse av status som nytt næringsmiddel
+EØS-avtalen vedlegg II kap. XII nr. 124d (forordning (EU) 2018/456) om saksbehandlingstrinnene i konsultasjonsprosessen for avgjørelse av status som nytt næringsmiddel i samsvar med forordning (EU) 2015/2283 om ny mat, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

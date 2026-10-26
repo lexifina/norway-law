@@ -1,0 +1,2 @@
+# § 2. Ansvarlig myndighet i Norge for avgjørelse av ny mat-status
+Når en virksomhet er usikker på om et næringsmiddel faller innenfor virkeområdet til forordning (EU) 2015/2283 og først har til hensikt å omsette næringsmiddelet i Norge, så skal Mattilsynet på grunnlag av dokumentasjonen fra virksomheten avgjøre om næringsmiddelet faller innenfor virkeområdet, i henhold til § 1, jf. artikkel 4 i forordning (EU) 2015/2283.

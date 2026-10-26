@@ -1,0 +1,2 @@
+# § 1a. Gjennomføring av forordning (EU) 2017/2469 om administrative og vitenskapelige krav til søknader etter artikkel 10
+EØS-avtalen vedlegg II kap. XII nr. 124a (forordning (EU) 2017/2469 som endret ved forordning (EU) 2020/1772) om administrative og vitenskapelige krav til søknader etter artikkel 10 i forordning (EU) 2015/2283, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
