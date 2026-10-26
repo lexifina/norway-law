@@ -1,0 +1,2 @@
+# § 1. Gjennomføring av forordning (EU) 2015/2283
+EØS-avtalens vedlegg II kapittel XII nr. 124 (forordning (EU) 2015/2283 som endret ved forordning (EU) 2019/1381) om ny mat, som endrer Europaparlamentets og Rådets forordning (EU) nr. 1169/2011, og som opphever Europaparlamentets og Rådets forordning (EF) nr. 258/97 og Kommisjonsforordning (EF) nr. 1852/2001, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

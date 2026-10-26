@@ -1,0 +1,2 @@
+# § 1c. Gjennomføring av forordning (EU) 2017/2468 om administrative og vitenskapelige krav som gjelder tradisjonelle næringsmidler fra tredjeland
+EØS-avtalen vedlegg II kap. XII nr. 124c (forordning (EU) 2017/2468 som endret ved forordning (EU) 2020/1824) om administrative og vitenskapelige krav som gjelder tradisjonelle næringsmidler fra tredjeland etter forordning (EU) 2015/2283, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
