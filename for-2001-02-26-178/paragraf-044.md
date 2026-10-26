@@ -1,0 +1,2 @@
+# § 44. Fraktrefusjon
+I tillegg til prisen for legemidlet, jf. legemiddelforskriften kapittel 12, kan apotek ta betalt av forbrukeren for forsendelse av legemidler. Det kan ikke tas urimelig høy pris for frakt og ekspedisjon, jf. 42 fjerde ledd. For pasienter med særskilt behov for hyppig og kostbar forsendelse av legemidler kan det offentlige refundere utgifter til forsendelse. Departementet fastsetter nærmere retningslinjer for fraktrefusjon.

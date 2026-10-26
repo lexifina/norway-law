@@ -1,0 +1,2 @@
+# § 30. Kontroll med narkotika
+Apoteket skal ha nødvendig kontroll med legemidler i reseptgruppe A og B og tilsvarende legemidler uten markedsføringstillatelse, som oppbevares i apoteket. Det skal føres regelmessig kontroll med at teoretisk og faktisk beholdning overensstemmer. Eventuelle uoverensstemmelser skal avklares så langt mulig, og tiltak skal iverksettes for å forebygge ytterligere uoverensstemmelser. Dokumentasjon på gjennomført kontroll samt eventuelle gjennomførte tiltak skal oppbevares i minst tre år.
