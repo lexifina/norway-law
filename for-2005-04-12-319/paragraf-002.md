@@ -1,0 +1,2 @@
+# § 2. Gjennomføring av forordning (EF) nr. 1831/2003
+EØS-avtalen vedlegg I, kapittel II, nr. 1 (forordning (EF) nr. 1831/2003 som endret ved forordning (EF) nr. 378/2005, forordning (EF) nr. 850/2007, forordning (EF) nr. 386/2009, forordning (EU) 2015/327, forordning (EU) 2015/2294, forordning (EU) 2019/962 og forordning (EU) 2019/1381) om tilsetningsstoffer i fôrvarer, gjelder som forskrift, med de EØS-tilpasninger som følger av vedlegg I, kapittel II, protokoll 1 til avtalen og EØS-avtalen for øvrig.
