@@ -1,0 +1,2 @@
+# § 4. Gjennomføring av forordning (EU) 2015/1375 om fastsettelse av særlige regler om offentlig kontroll av trikiner i kjøtt
+EØS-avtalens vedlegg I kapittel I del 6.2 nr. 54 (forordning (EU) 2015/1375, som endret ved forordning (EU) 2020/1478, forordning (EU) 2021/519, forordning (EU) 2022/1418, forordning (EU) 2023/2156 og forordning (EU) 2025/506), om fastsettelse av særlige regler for offentlig kontroll av trikiner i kjøtt (trikinkontrollforordningen) gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
