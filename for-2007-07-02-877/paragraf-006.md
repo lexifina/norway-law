@@ -1,0 +1,4 @@
+# § 6. Bedriftskort
+Bedriftskort skal brukes av foretak som utøver transport omfattet av denne forskriften og som eier eller innehar bruksrett til kjøretøy utstyrt med digital fartsskriver.
+Foretak skal med bedriftskortet låse de data som tilhører vedkommende foretak til de digitale fartsskrivere som foretaket har benyttet ved utførelse av transport. Foretak som benytter kjøretøy utstyrt med digital fartsskriver, hvor kjøretøyet også benyttes av annet foretak, skal med bedriftskortet låse opp fartsskriveren slik at lagring og tilgjengeliggjøring av data i fartsskriveren er mulig også for annet foretak.
+Foretak skal minst hver måned sikre at alle data knyttet til foretaket blir lastet ned fra digital fartsskriver som er benyttet ved transport utført av eller for foretaket, og fra sjåførkort som benyttes av sjåfører som utfører transport for foretaket.
