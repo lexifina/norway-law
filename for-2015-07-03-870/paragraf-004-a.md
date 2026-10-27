@@ -1,0 +1,2 @@
+# § 4a. Nasjonale grenseverdier for radioaktive stoffer i drikkevann
+Med drikkevann forstås drikkevann som definert i forskrift 22. desember 2016 nr. 1868 om vannforsyning og drikkevann. Drikkevann skal overholde grenseverdiene som er angitt i tabellen.ParameterEnhetGrenseverdiMerknadRadonBequerel/l (Bq/l)100Total indikativ doseMillisievert/år (mSv/år)0,10Omfatter ikke tritium, kalium-40, radon og radons datterprodukter.TritiumBequerel/l (Bq/l)100
