@@ -1,0 +1,2 @@
+# § 12. Landbruksvarer med samme varenummer i tolltariffen som varer omfattet av vedlegg 2
+Det kan innrømmes individuell nedsettelse av tollavgiftssats for import av landbruksvarer som ikke er omfattet av vedlegg 2, men som har samme varenummer i tolltariffen som varer omfattet av vedlegget. Ved fastsettelse av tollavgiftssatsen skal det tas hensyn til avsetningsmulighetene for eventuelle tilsvarende norskproduserte varer.
