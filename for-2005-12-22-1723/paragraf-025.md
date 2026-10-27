@@ -1,0 +1,3 @@
+# § 25. Produkter som ikke omfattes av jordbruksavtalens målprissystem
+Det kan innvilges generell nedsettelse av tollavgiftssats for import av varer omfattet av vedlegg 8. Det kan gis generell nedsettelse av tollavgiftssats i den perioden og til den tollsats som fremgår av vedlegget. Nivået på tollavgiftssatsen eller perioden kan fravikes dersom næringspolitiske vurderinger tilsier det.
+For landbruksprodukter som ikke omfattes av denne forskriftens øvrige bestemmelser om generell nedsettelse av tollavgiftssatser, kan det innrømmes nedsettelse av tollavgiftssats for å hindre alvorlige markedsforstyrrelser. I slike tilfeller settes nivået på tollavgiftssatsen normalt ned til et nivå som gir importmuligheter til priser på tilsvarende norskprodusert vare.

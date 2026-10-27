@@ -1,0 +1,5 @@
+# § 8. Nivået på den nedsatte tollavgiftssatsen
+Tollavgiftssatsen settes som hovedregel ned til et nivå som gir importmuligheter til priser som tilsvarer målprisen. Før nivået på den nedsatte tollavgiftssatsen fastsettes skal konsekvensene for avsetning av varer som er kontraktsdyrket til konservesindustrien vurderes.
+Ved nedsettelse av tollavgiftssats etter § 7 første ledd kan tollavgiftssatsen settes lavere enn det som følger av første ledd i forbindelse med avslutning av norsk sesong.
+Ved nedsettelser av tollavgiftssats etter § 7 andre ledd nr. 1 og 3 kan tollavgiftssatsen settes lavere enn det som følger § 8 av første ledd.
+Nedsettelse av tollavgiftssats gis med samme relative nedsettelse på alle varenumre som er knyttet til representantvaren, med mindre Landbruksdirektoratet finner at særlige grunner foreligger. I tilfeller der nedsettelsen av tollavgiftssats ikke gis med samme relative nedsettelse på alle varenummer som omfattes, skal norskprodusert vare med størst beskyttelsesbehov innenfor hvert varenummer legges til grunn ved beregning av tollavgiftssats for varenummer hvor representantvaren ikke omfattes.

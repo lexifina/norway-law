@@ -1,0 +1,2 @@
+# § 1. Formål
+Formålet med denne forskriften er å legge til rette for import av landbruksprodukter som supplement til norsk produksjon ut fra hensynet til forbrukere og næringsmiddelindustri. Tollvernet for landbruksvarer skal administreres med sikte på å sikre avsetningsgrunnlaget for norsk produksjon blant annet i henhold til jordbruksavtalens prisbestemmelser og å hindre uønskede markedsforstyrrelser.

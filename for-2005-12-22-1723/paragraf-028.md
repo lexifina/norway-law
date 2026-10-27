@@ -1,0 +1,2 @@
+# § 28. Anvendelseserklæring
+For landbruksvarer som innvilges nedsettelse av tollavgiftssats etter bestemmelsene i kapittel 3, kan Landbruksdirektoratet kreve at importøren avgir en erklæring om varens anvendelse før tollnedsettelse innrømmes. Det samme gjelder ved innvilgelse av nedsatt tollavgiftssats for hvete etter til kapittel 4, jf. vedlegg 7. Anvendelseserklæringen skal følge varen dersom varen selges videre. Ved et slikt videresalg forpliktes kjøper i henhold til anvendelseserklæringen.

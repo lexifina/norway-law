@@ -1,0 +1,2 @@
+# § 24. Særlige bestemmelser om såfrø og såkorn
+For å sikre markedsdekning for såfrø og såkorn kan det innvilges nedsettelse av tollavgiftssats, men likevel slik at norskprodusert såfrø og såkorn sikres muligheter for avsetning. Hvilke arter og sorter av såfrø og såkorn som kan administreres for det enkelte år fastsettes av Landbruksdirektoratet på grunnlag av prognoser for norsk produksjon og forbruk.

@@ -1,0 +1,3 @@
+# § 14. Økologiske produkter
+Det kan innrømmes individuell nedsettelse av tollavgiftssats for bearbeidede varer av økologiske safter, økologisk konserves av frukt, bær og grønnsaker, og økologisk barnemat, dersom det ikke finnes tilstrekkelig norsk produksjon av tilsvarende varer, og varen etter næringspolitiske vurderinger ikke konkurrerer med norske landbruksvarer. Disse varene skal tilfredsstille gjeldende regelverk om produksjon og merking av økologiske landbruksvarer.
+Tollavgiftssatsen fastsettes på et slikt nivå at norske økologiske og konvensjonelle produkter i tilsvarende produktgruppe får en sikkerhetsmargin på minst 10 %.

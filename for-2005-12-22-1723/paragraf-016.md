@@ -1,0 +1,3 @@
+# § 16. Egg til utklekking av dyr for avl og formering mv.
+Det kan innrømmes individuell nedsettelse av tollavgiftssats for import av egg til utklekking av dyr for avl og formering innenfor varenummer 04.07.1100 og 04.07.1900 i tolltariffen dersom norsk produksjon ikke dekker etterspørselen i markedet. Ved nedsettelser av tollavgiftssats innenfor disse varenumrene skal tollavgiftssatsen settes til henholdsvis 12,59 og 15,50 kr/kg.
+Det kan innrømmes individuell nedsettelse av tollavgiftssats for import av egg av saktevoksende kalkunraser innenfor varenummer 04.07.1900 i tolltariffen til utklekking av slaktedyr i økologisk produksjon. Tollavgiftssatsen fastsettes til 15,50 kr/kg.
