@@ -1,0 +1,4 @@
+# § 3-52. Krav til lesbarhet og til nasjonalspråk
+Pakningsvedlegget skal være skrevet på en måte som er klar og forståelig for brukeren og dermed bidrar til riktig bruk, om nødvendig ved hjelp av helsepersonell.
+Pakningsvedlegget skal være lett leselig og på norsk. Dette er ikke til hinder for at pakningsvedlegget trykkes på flere språk, forutsatt at det er de samme opplysningene som gis på alle de språk som brukes.
+Lesbarheten av pakningsvedlegget skal testes i samarbeid med en målgruppe pasienter for å sikre at teksten er lett leselig, klar og brukervennlig. For legemiddel som godkjennes etter § 5-8 eller § 6-1 er det tilstrekkelig at slik testing gjøres på et annet EØS-språk. Søknad om markedsføringstillatelsen skal vedlegges resultatene av testene som er foretatt i samarbeid med målgruppen pasienter.

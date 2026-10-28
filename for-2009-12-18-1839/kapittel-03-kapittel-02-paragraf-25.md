@@ -1,0 +1,2 @@
+# § 3-25. Særlige innholdskrav til søknad om parallellimport fra Bulgaria, Estland, Kroatia, Latvia, Litauen, Polen, Romania, Slovakia, Slovenia, Tsjekkia eller Ungarn
+Søknad om markedsføringstillatelse for et patentbeskyttet legemiddel omfattet av forskrift 14. desember 2007 nr. 1417 til patentloven § 100, skal inneholde dokumentasjon for at patenthaveren eller innehaveren av supplerende beskyttelsessertifikat, eller den som utleder sine rettigheter fra denne, har blitt varslet senest én måned på forhånd.

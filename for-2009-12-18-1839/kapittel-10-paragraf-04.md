@@ -1,0 +1,2 @@
+# § 10-4. Informasjon til allmennheten om forhold vedrørende et legemiddels sikkerhet
+Innehaver av markedsføringstillatelse som har til hensikt å informere allmennheten om forhold vedrørende et legemiddels sikkerhet, skal umiddelbart informere Direktoratet for medisinske produkter, EMA og EU-kommisjonen. Varselet skal gis senest samtidig som informasjonen gis allmennheten. Informasjonen som gis skal være objektiv og ikke være villedende.

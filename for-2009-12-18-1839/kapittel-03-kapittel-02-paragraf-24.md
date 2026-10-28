@@ -1,0 +1,4 @@
+# § 3-24. Søknad om markedsføringstillatelse for parallellimportert legemiddel
+Søknad om markedsføringstillatelse for parallellimportert legemiddel sendes Direktoratet for medisinske produkter.
+En parallellimportør som ikke selv er innehaver av markedsføringstillatelsen, og som importerer et legemiddel fra et annet EØS-land, underretter innehaveren av markedsføringstillatelsen og Direktoratet for medisinske produkter om hvilket legemiddel, herunder legemiddelform- og styrke, som planlegges importert. Har legemidlene fått markedsføringstillatelse etter reglene i kapittel 6, underrettes innehaver av markedsføringstillatelsen og Det europeiske legemiddelbyrå (EMA).
+Kravet i annet ledd gjelder ikke ved salg av legemidler til tredjeland, eller ved mottak av legemidler direkte fra tredjeland, når legemidlet skal distribueres til tredjeland og legemidlet ikke skal plasseres på markedet i EU/EØS.

@@ -1,0 +1,2 @@
+# § 10-12. Gjennomføring av forordning om utførelse av legemiddelovervåkningsaktiviteter
+Forordning (EU) nr. 520/2012 om utførelse av legemiddelovervåkningsaktiviteter, som inntatt i EØS-avtalen vedlegg II kapittel XIII nr. 15zq, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2025/1466.

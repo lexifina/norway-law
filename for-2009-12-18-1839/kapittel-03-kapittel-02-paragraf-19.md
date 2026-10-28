@@ -1,0 +1,2 @@
+# § 3-20. Øvrige regler for tradisjonelle plantebaserte legemidler
+I tillegg til det som ellers følger av forskriften, kommer bestemmelsene i kapittel 1, 2, 7, 10 og 15 så langt de passer til anvendelse på tradisjonell plantebaserte legemidler. Det samme gjelder § 3-7, § 3-57, § 5-1, § 5-2, § 5-3, § 5-13, § 5-18, § 5-19, § 8-1, § 8-2, § 8-6 første ledd bokstav a og b, § 8-7 første ledd bokstav a og § 8-8 andre ledd.

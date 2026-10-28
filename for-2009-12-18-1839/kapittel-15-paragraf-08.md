@@ -1,0 +1,6 @@
+# § 14-7. Fullmaktsgrense
+Refusjon for et legemiddel til ett bruksområde skal ikke innvilges uten Stortingets samtykke, dersom det vil lede til en vekst i utgifter til legemidler for folketrygden som overstiger 100 millioner kroner i minst ett av de første fem årene etter tidspunktet for refusjonsvedtaket, regnet fra dato til dato.
+Dersom flere legemidler vurderes for samme bruksområde, gjelder fullmaktsgrensen for samlet bruk. De faktiske budsjettvirkningene for folketrygden knyttet til tidligere refusjonsvedtak som overlapper i tid i den aktuelle femårsperioden, skal inngå i den samlede beregningen.
+Utgiftsveksten etter første ledd beregnes med utgangspunkt i legemiddelets refusjonspris. Det gjøres fradrag for bortfall av refusjonsutgifter til konkurrerende legemidler med samme bruksområde.
+Hvis utgiftsveksten til refusjon av et legemiddel til ett bruksområde overstiger fullmaktsgrensen skal Direktoratet for medisinske produkter gjennomføre en vurdering av om legemiddelet oppfyller vilkårene i § 14-5 og § 14-6 innen fristen som følger av § 14-10. Dersom vilkårene i § 14-5 og § 14-6 er oppfylt, oversendes vurderingen til departementet.
+Legemiddelets rettighetshaver kan påklage vurderingen etter fjerde ledd for så vidt gjelder saksbehandlingen. Forvaltningslovens bestemmelser om klage på enkeltvedtak gjelder tilsvarende.

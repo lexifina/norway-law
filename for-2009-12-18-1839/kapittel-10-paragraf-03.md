@@ -1,0 +1,5 @@
+# § 10-3. Krav til risikohåndteringssystem for eldre legemidler
+Kravet i § 10-2 andre ledd bokstav c) gjelder ikke for legemidler hvis markedsføringstillatelse ble utstedt første gang før 21. juli 2012.
+Direktoratet for medisinske produkter kan likevel pålegge innehaveren et slik krav dersom det antas å kunne foreligge en risiko som påvirker legemidlets nytte-/risikoforhold. I slike tilfeller skal innehaveren pålegges å oversende en detaljert beskrivelse av risikohåndteringssystemet som planlegges iverksatt for det aktuelle legemidlet. Pålegget skal være skriftlig, begrunnet og angi når beskrivelsen skal oversendes.
+Markedsføringstillatelsens innehaver må innen 30 dager etter mottak av pålegget varsle Direktoratet for medisinske produkter dersom de ønsker å påklage vedtaket. Direktoratet for medisinske produkter fastsetter i så fall en frist for oversendelse av en skriftlig klage.
+Opprettholdes pålegget i opprinnelig eller endret form, endres markedsføringstillatelsen slik at kravet fremkommer av denne.

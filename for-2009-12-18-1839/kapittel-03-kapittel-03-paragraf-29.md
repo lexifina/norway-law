@@ -1,0 +1,2 @@
+# § 3-54. Unntak fra kravene om pakningsvedlegg
+Direktoratet for medisinske produkter kan for bestemte legemidler gjøre unntak fra kravet om pakningsvedlegg, fra kravet om å oppføre visse opplysninger i pakningsvedlegget og fra kravet om å skrive pakningsvedlegget på norsk, hvis legemidlet ikke er beregnet utlevert til pasienten for egenbehandling eller hvis det er alvorlige problemer vedrørende tilgjengeligheten av legemidlet i Norge.

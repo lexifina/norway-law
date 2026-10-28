@@ -1,0 +1,2 @@
+# § 3-1. Regler for søknad om markedsføringstillatelse mv.
+Søknad om markedsføringstillatelse fremsettes etter reglene i dette kapitlet og behandles etter reglene i kapittel 5. Hvis legemidlet søkes godkjent på grunnlag av markedsføringstillatelse utstedt av annet EØS-land, eller legemidlet søkes godkjent samtidig i flere land, gjelder også reglene i kapittel 4. For legemiddel som søkes godkjent på grunnlag av markedsføringstillatelse utstedt av EU-kommisjonen, gjelder likevel bare reglene i kapittel 6.

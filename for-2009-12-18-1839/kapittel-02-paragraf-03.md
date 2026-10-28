@@ -1,0 +1,2 @@
+# § 2-3. Unntak fra krav om markedsføringstillatelse – radioaktive legemidler
+Unntatt fra kravet om markedsføringstillatelse er radioaktivt legemiddel tilberedt på det tidspunkt det skal anvendes av en person eller en institusjon som etter gjeldende regelverk har tillatelse til å bruke slikt legemiddel i en godkjent helseinstitusjon, og som utelukkende bruker godkjente radionuklidegenerator, preparasjonssett eller stamoppløsning til radioaktive legemidler i samsvar med produsentens instruksjoner.

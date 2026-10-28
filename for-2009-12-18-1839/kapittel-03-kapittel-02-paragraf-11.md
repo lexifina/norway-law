@@ -1,0 +1,3 @@
+# § 3-12. Søknad basert på veletablert bruk
+Resultater fra egne toksikologiske, farmakologiske og kliniske undersøkelser, jf. § 3-4 andre ledd bokstav i og j kreves ikke hvis søkeren kan dokumentere at de virkestoff som inngår i legemidlet har hatt en veletablert medisinsk bruk i minst ti år innenfor EØS-området, har anerkjent virkning og er tilstrekkelig sikre i samsvar med de betingelser som fremgår av vedlegg I til direktiv 2001/83/EF som endret ved direktiv 2003/63/EF, direktiv 2004/24/EF, direktiv 2004/27/EF, direktiv 2009/53/EF og direktiv 2009/120/EF.
+Søker skal i stedet for dokumentasjonen som nevnt i første og andre ledd fremlegge relevant bibliografisk vitenskapelig dokumentasjon.

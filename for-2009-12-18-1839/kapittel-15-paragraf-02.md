@@ -1,0 +1,5 @@
+# § 14-2. Anmodning
+Et legemiddels rettighetshaver kan anmode Direktoratet for medisinske produkter om at et legemiddel skal vurderes for refusjon etter blåreseptforskriften. Det må foreligge anbefaling om markedsføringstillatelse for den aktuelle bruken av legemiddelet før anmodning. Andre aktører kan foreslå at et legemiddel vurderes for refusjon.
+Direktoratet for medisinske produkter skal på bakgrunn av anmodning eller forslag gjennomføre en egnethetsvurdering som ligger til grunn for en eventuell bestilling av dokumentasjon fra legemiddelets rettighetshaver, jf. § 14-4.
+Dersom anmodningen eller forslaget gjelder et legemiddel til et bruksområde som åpenbart ikke oppfyller kriteriene for innvilgelse av refusjon, jf. § 14-5, kan Direktoratet for medisinske produkter avvise anmodningen eller forslaget. Avvisningsvedtaket kan påklages.
+Dersom anmodningen eller forslaget gjelder et legemiddel til et bruksområde som åpenbart oppfyller kriteriene for innvilgelse av refusjon, jf. § 14-5, kan Direktoratet for medisinske produkter innvilge refusjon uten videre dokumentasjon, jf. § 14-4.

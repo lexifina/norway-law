@@ -1,0 +1,2 @@
+# § 10-5. Registrering av bivirkninger
+Innehaveren av markedsføringstillatelse for et legemiddel skal, uavhengig av rapporteringsform, registrere alle mistenkte bivirkninger av legemidlet innen EØS-området eller i tredjeland som vedkommende gjøres kjent ved av pasienter, helsepersonell eller som inntreffer i en sikkerhetsstudie utført etter utstedelse av markedsføringstillatelsen. Vedkommende skal sikre at rapportene gjøres tilgjengelig på minst ett enkelt sted innen EØS-området.

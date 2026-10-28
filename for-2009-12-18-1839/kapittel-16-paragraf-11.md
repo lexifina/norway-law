@@ -1,0 +1,2 @@
+# § 15-8. Legemidler til barn
+EØS-avtalens vedlegg II kapittel XIII nr. 15zr (forordning (EF) nr. 1901/2006 om legemidler til barn og om endring av forordning (EØF) nr. 1768/92, direktiv 2001/20/EF, direktiv 2001/83/EF og forordning (EF) nr. 726/2004, som endret ved forordning (EF) nr. 1902/2006 gjelder som forskrift med de endringer og tillegg som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.

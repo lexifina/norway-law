@@ -1,0 +1,2 @@
+# § 3-11d. Dokumentbeskyttelse for veletablerte virkestoff
+Dersom innehaveren av markedsføringstillatelsen for et legemiddel som inneholder et veletablert virkestoff får godkjent en ny indikasjon etter fremleggelse av vesentlig preklinisk eller klinisk dokumentasjon, vil en annen søker ikke kunne henvise til denne dokumentasjonen for den aktuelle indikasjonen det første året etter at indikasjonen ble godkjent.

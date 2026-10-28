@@ -1,0 +1,2 @@
+# § 3-18. Unntak fra innholdskrav
+Dersom søknad om registrering for tradisjonelt plantebasert legemiddel gjelder plantedroger, plantebaserte tilberedninger og sammensetninger av slike som er omfattet av liste som nevnt i artikkel 16 f i direktiv 2001/83/EF som endret ved direktiv 2003/63/EF, direktiv 2004/24/EF og direktiv 2004/27/EF, kreves ikke fremlagt data som nevnt i § 3-17 første ledd bokstav c, d og e. Legemiddelforskriften § 5-10 første ledd bokstav c og d kommer i disse tilfellene ikke til anvendelse.
