@@ -1,0 +1,4 @@
+# § 4-6. Innsigelse mot dokumentasjonen av legemidlet
+Nekter Direktoratet for medisinske produkter å anerkjenne referanselandets avgjørelse innen fristen som nevnt i § 4-3 første ledd eller § 4-5 første ledd, sender de en detaljert begrunnelse til støtte for avgjørelsen til referanselandet, øvrige berørte land og søkeren.
+Søkeren skal gis mulighet til å uttale seg om Direktoratet for medisinske produkters innsigelser i henhold til prosedyren som nevnt i direktiv 2001/83/EF artikkel 29 som endret ved direktiv 2003/63/EF, direktiv 2004/24/EF og direktiv 2004/27/EF.
+Oppnås enighet innen 60 dager etter at prosedyren som nevnt i andre ledd ble igangsatt, utsteder Direktoratet for medisinske produkter markedsføringstillatelsen senest 30 dager etter at enighet mellom referanselandet og de berørte land ble nådd.

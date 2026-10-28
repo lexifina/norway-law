@@ -1,0 +1,3 @@
+# § 4-5. Vedtak om godkjenning av legemidlet
+Direktoratet for medisinske produkter godkjenner legemidlet på grunnlag av referanselandets utredning innen 90 dager etter at dokumentene som nevnt i § 4-4 tredje ledd er mottatt, med mindre det etter Direktoratet for medisinske produkters syn er knyttet alvorlig fare for menneskers helse til godkjenning av legemidlet.
+Godkjennes legemidlet, utsteder Direktoratet for medisinske produkter markedsføringstillatelsen senest 30 dager etter at enighet mellom referanselandet og de berørte land ble nådd. Direktoratet for medisinske produkter underretter samtidig referanselandet om sin avgjørelse.

@@ -1,0 +1,3 @@
+# § 4-7. Oversendelse av saken for tvisteløsning
+Er det ikke oppnådd enighet innen fristen i § 4-6 tredje ledd, oversendes saken via EU-kommisjonen til Det europeiske legemiddelbyrå (EMA) for tvisteløsning etter prosedyren gitt for komiteenes behandling av uenighet landene imellom, jf. direktiv 2001/83/EF artikkel 32, 33 og 34, som endret ved direktiv 2003/63/EF, direktiv 2004/24/EF og direktiv 2004/27/EF.
+Dersom Direktoratet for medisinske produkter har anerkjent referanselandets avgjørelse, kan søkeren anmode Direktoratet for medisinske produkter om å utstede en midlertidig markedsføringstillatelse som maksimalt kan løpe frem til avgjørelse etter prosedyren som nevnt i første ledd er fattet.

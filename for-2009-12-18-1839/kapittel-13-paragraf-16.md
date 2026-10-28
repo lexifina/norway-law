@@ -1,0 +1,5 @@
+# § 12-16. Refusjon av legemidler med trinnpris
+Folketrygden refunderer maksimalt trinnpris for legemidler som inngår i en byttegruppe som fastsatt etter § 12-14. Ved utsalgspris lavere enn trinnpris, refunderes inntil legemidlets faktiske utsalgspris.
+Folketrygden refunderer likevel inntil legemidlets faktiske utsalgspris, dersom rekvirenten har reservert seg mot bytte til et andre legemiddel innen byttegruppen enn det legemiddel apoteket tilbyr til trinnpris.
+Dersom pasienten krever å få utlevert et legemiddel som har høyere utsalgspris enn trinnpris, beregnes pasientens egenandel av trinnprisen. I tillegg kan apoteket kreve mellomlegget mellom trinnpris og faktisk utsalgspris av pasienten. Dette mellomlegget skal ikke føres opp på pasientens egenandelskort.
+Pasient som reserverer seg mot generisk eller biotilsvarende bytte etter at legemidlet er utlevert, må selv dekke de kostnader som er knyttet til ny reseptekspedering og utlevering, herunder forsendelse. Apoteket skal før utleveringen eller forsendelsen av legemidlet informere pasienten om at bytte er foretatt og at det ekspederte legemidlet er likeverdig.

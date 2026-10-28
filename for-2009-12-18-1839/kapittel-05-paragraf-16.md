@@ -1,0 +1,2 @@
+# § 5-14. Tilbakekall av markedsføringstillatelse for tradisjonelt plantebasert legemiddel
+Dersom plantedroge, plantebaserte tilberedninger eller sammensetning av slike opphører å være oppført på liste som nevnt i § 4-18 første ledd, tilbakekalles de markedsføringstillatelser som er utstedt i henhold til § 4-18 andre ledd, med mindre opplysninger og dokumenter som nevnt i § 4-17 første ledd fremlegges innen tre måneder.

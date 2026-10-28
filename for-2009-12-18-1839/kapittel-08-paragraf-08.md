@@ -1,0 +1,4 @@
+# § 8-8. Plikt til å foreslå endringer mv.
+Markedsføringstillatelsens innehaver skal godtgjøre at det foretas kontroll av legemidlet og/eller av innholdsstoffer og av mellomprodukter under tilvirkningen, i samsvar med de metoder som er lagt til grunn for markedsføringstillatelsen.
+Markedsføringstillatelsens innehaver skal følge med i den vitenskapelige og tekniske utviklingen på legemiddelområdet og gjennomføre nødvendige endringer for å sikre at legemidlet fremstilles og kontrolleres etter allment anerkjente vitenskapelige metoder, jf. § 3-4 andre ledd bokstav h. Endringene skal godkjennes av Direktoratet for medisinske produkter.
+Ønsker tilvirkeren å endre en tilvirkningsprosess som er beskrevet og godkjent i forbindelse med søknaden om markedsføringstillatelse, skal endringen forelegges Direktoratet for medisinske produkter for godkjenning i samsvar med bestemmelsene i kapittel 9.

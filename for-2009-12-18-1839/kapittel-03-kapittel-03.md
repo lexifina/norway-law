@@ -1,0 +1,1 @@
+# C. Krav til produktinformasjon

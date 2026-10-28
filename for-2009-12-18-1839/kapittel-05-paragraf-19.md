@@ -1,0 +1,4 @@
+# § 5-17. Evalueringsrapport
+Direktoratet for medisinske produkter utarbeider en evalueringsrapport med kommentarer til innsendt dokumentasjon av legemidlets kvalitet, sikkerhet og effekt, risikohåndteringssystemet og legemiddelovervåkingssystemet. Direktoratet for medisinske produkter skal også utarbeide et lettfattelig sammendrag av evalueringsrapporten med informasjon om bruken av legemidlet.
+Evalueringsrapporten oppdateres når det foreligger nye opplysninger av betydning for vurderingen av legemidlets kvalitet, sikkerhet eller effekt.
+Enhver kan kreve innsyn i den evalueringsrapport som utarbeides av Direktoratet for medisinske produkter i forbindelse med behandlingen av søknaden. Innsynsretten gjelder ikke opplysninger som er å anse som forretningshemmeligheter etter lov om legemidler § 30.

@@ -1,0 +1,2 @@
+# § 3-13. Kombinert legemiddel
+For legemiddel som inneholder virkestoff som inngår i godkjente legemidler, men som ikke har vært kombinert i samme legemiddel til terapeutiske formål, skal det i henhold til § 3-4 andre ledd bokstav i og j fremlegges resultater av prekliniske og kliniske undersøkelser vedrørende den nye kombinasjon. For slikt legemiddel er det ikke nødvendig å fremlegge dokumentasjon vedrørende hvert enkelt virkestoff.

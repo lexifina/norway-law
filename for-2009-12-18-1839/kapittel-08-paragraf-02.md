@@ -1,0 +1,4 @@
+# § 8-2. Forbud mot omsetning av legemiddel med markedsføringstillatelse
+Direktoratet for medisinske produkter kan midlertidig forby omsetning av et legemiddel med markedsføringstillatelse hvis det påvises slike mangler ved legemidlet at det antas å være grunnlag for å tilbakekalle markedsføringstillatelsen. Innehaveren av markedsføringstillatelsen skal så vidt mulig varsles på forhånd. Vedtak om midlertidig forbud mot omsetning skal begrunnes, og det skal opplyses om klageadgang.
+Direktoratet for medisinske produkter kan forby omsetning av enkelte produksjonspartier når det er oppdaget andre feil ved legemidlet.
+Når vedtak om omsetningsforbud av legemiddel med markedsføringstillatelse etter § 6-1 er fattet av EU-kommisjonen i samsvar med forordning (EF) nr. 726/2004 som endret ved forordning (EF) nr. 649/98, fatter Direktoratet for medisinske produkter tilsvarende vedtak innen 30 dager.
