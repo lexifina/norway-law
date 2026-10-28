@@ -1,0 +1,3 @@
+# § 6. Fastsettelse av referansepris for proteinråvarer
+Soyamel med 46 prosent protein er basis referansevare for proteinkraftfôr. Grunnlaget for beregning av referanseprisen for soyamel fremgår av jordbruksavtalen. Modellen for fastsetting av referansepriser for proteinråvarer utarbeides av Landbruksdirektoratet og skal gi en referansepris i samsvar med den verdi varen har som energi- og proteinråvare i kraftfôr til husdyr.
+Det fastsettes referansepriser for følgende proteinråvarer:ProteinråvareProteininnholdErteprotein50Fiskemel71Hvetegluten78Lupiner38Maisglutenmel60Potetprotein75Rapsmel, ekstrahert35Solsikkemel45Åkerbønner28Mesk (Distiller's Dried Grain with Solubles)30Høyprotein soyamel56Risprotein50
