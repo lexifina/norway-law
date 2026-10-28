@@ -1,0 +1,2 @@
+# § 2. Omregningsfaktorer for varer omfattet av tollkvote for karbohydratråvarer til kraftfôr
+Omregningsfaktoren er satt i forhold til den fôrverdien varen har som kraftfôrråvare sammenlignet med bygg.KarbohydratråvareOmregningsfaktorFôrhvete108,0Fôrrug98,5Mais107,1Durra103,3Maisgrits110,0Lusernemel73,4Glyserol92,3Rørmelasse65,0Kli eller lignende av mais110,0Hvetekli95,0Roesnitter80,4Ertestivelse108,9Erteskall83,7Erteavsikt114,7Erter123,5Stivelseskonsentrat av faba-/hestebønner116,9Palmekjerneekspeller91,6Lettmelasserte roesnitter88,0
