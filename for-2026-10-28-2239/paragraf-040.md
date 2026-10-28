@@ -1,0 +1,5 @@
+# § 40. Vurdering av praksis
+(1) Praksis blir vurdert etter skalaen «bestått» / «ikke bestått» etter en avsluttende vurdering av studentens prestasjon i praksisperioden. For å bestå praksisen må studenten oppnå målene for læringsutbyttet.
+(2) Studenten har rett til jevnlig veiledning og tilbakemelding. Tilbakemeldingen skal informere om hvordan studenten ligger an for å oppnå læringsutbyttet for praksisperioden.
+(3) Tilbakemeldingen skal informere om hvordan studenten ligger an for å oppnå læringsutbyttet for praksisperioden.
+(4) Studenten skal få en avsluttende vurdering som viser om vurderingsresultatet er bestått eller ikke bestått. Vurderingen skal omtale hva som er vurdert og om læringsutbyttet for praksisperioden er oppnådd. Vurderingen skal gjøres ut ifra kravene til læringsutbyttet, studenten sin prestasjon i praksisperioden underveis og eventuelle praktiske prøver. Hele praksisperioden skal telle med i vurderingen. Den avsluttende vurderingen skal være tilgjengelig for studenten når resultatet for praksisen er publisert.

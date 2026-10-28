@@ -1,0 +1,6 @@
+# § 24. Definisjoner
+Eksamen: Vurderingsform. Alle typer prøver og arbeider som gir grunnlag for fastsettelse av selvstendig karakter for et emne. En vurderingsform kan omfatte flere deleksamener, og i så fall skal fastlegging av samlet karakter (vekting) omtales i emnebeskrivelsen. Vurderingsformen kan være individuell eller i fastlagte grupper.
+Ordinær eksamen: Den vurderingsform som holdes når undervisningen i et emne eller del av emne er avsluttet.
+Ny og utsatt eksamen: Eksamen som arrangeres for studenter som har vært syke, eller har hatt annet gyldig dokumentert fravær ved ordinær eksamen eller fått ikke bestått til ordinær eksamen.
+Obligatorisk arbeidskrav: Arbeidskrav som må være gjennomført og godkjent for å gi adgang til / kvalifisere for eksamen.
+Mappe: Læringsmappe er en samling tekster og/eller andre arbeider som er produsert gjennom en viss periode. Samlingen dokumenterer prosess og/eller produkt, og skal vise studentens faglige refleksjoner og kompetansemessige utvikling. Vurderingsmappe består av et utvalg av arbeider fra mappa og danner grunnlaget for vurdering. Prosessen for å bestemme hvilke element i læringsmappa som skal telle med i mappevurderingen, skal omtales i emnebeskrivelsen.

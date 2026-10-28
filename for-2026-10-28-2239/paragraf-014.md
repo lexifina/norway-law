@@ -1,0 +1,4 @@
+# § 14. Studierett og studieprogresjon
+(1) Den som har akseptert tilbud om studieplass, har studierett i henhold til normert studietid for det aktuelle studieprogrammet han eller hun er tatt opp til.Studieretten gir rett til deltakelse i all organisert undervisning og vurdering i tråd med studieplan og emnebeskrivelser i det studieprogrammet studenten er tatt opp til.
+(2) Kortvarige studieretter som ikke er tilknyttet et studieprogram gir studenten rett til å undervisnings- og vurderingsmelde seg til utvalgte emner i ett eller to semester.Studieretten betinger at studenten registrerer seg og betaler pålagte avgifter innen fastsatt frist. Dersom studieprogrammet krever utdanningsplan, må studenten bekrefte utdanningsplanen hvert semester innen fastsatte frister, jf. uhl. § 11-3.
+(3) Retten til å fortsette et studium kan være regulert av særskilte krav for hvert enkelt studium. Dette skal være beskrevet i studieplanen.

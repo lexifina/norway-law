@@ -1,0 +1,7 @@
+# § 30. Adgang til å avlegge eksamen
+(1) Retten til å gå opp til eksamen er fastsatt i uhl. § 11-4. For å kunne gå opp til eksamen må en student ha betalt semesteravgift i henhold til lov 14. desember 2007 nr. 116 om studentsamskipnader med tilhørende forskrifter.
+(2) For å få fremstille seg til vurdering, må studenten være semesterregistrert for gjeldende semester. Det er studentens ansvar å registrere seg og melde seg til vurdering innenfor de frister som er fastsatt og kunngjort av høgskolen.
+(3) For å kunne ta eksamen, kan det være krav om at bestemte arbeidskrav skal være fullført eller det kan være krav om å ha deltatt i obligatorisk undervisning og/eller praksis. Disse bestemmelsene skal gå frem av studieplanen. Bare de studenter som fyller disse kravene har rett til å gå opp til eksamen.
+(4) Det er ikke anledning til å fremstille seg til vurdering i samme emnet mer enn tre ganger unntatt for praksisstudier (jf. § 44). Ved ny eller utsatt eksamen gjelder det pensum som var fastsatt siste gang det ble gitt undervisning i emnet. Studenten kan etter søknad med særskilte grunner maksimalt innvilges et fjerde forsøk.
+(5) Studenter som har mistet studieretten fordi antall forsøk til eksamen i et emne er oppbrukt (jf. § 17), kan søke opptak på nytt etter 3 år etter siste forsøk. Ved nytt opptak til profesjonsstudier skal det vurderes faglig om studenten kan få godkjent tidligere utdanning.
+(6) Det skal gis tilbud om eksamen i et emne i inntil ett år etter at emnet ikke lenger eksisterer på studieprogrammet.
