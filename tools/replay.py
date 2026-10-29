@@ -162,12 +162,20 @@ def blocks(raw):
                             # "26. I lov av 29. juni 2007 nr. 73 om eiendomsmegling, skal § 2-3 nytt fjerde ledd lyde:"
                             # (lov 19. juni 2009 nr. 103): "lov 29. juni 2007 nr. 73"
                             t = re.sub(r'\b([Ll]ov)\s+av\s+(?=\d{1,2}\.\s+\w+\s+\d{4}\s+nr\.)', r'\1 ', t)
-                        m2 = c == 'defaultP' and re.match(r'^(Nåværende\s+§\s*%s\s+oppheves\.)\s+((?:Nåværende|Gjeldende)\s+§.*)$'
+                        if c == 'defaultP' and re.match(r'^Gjeldende\s+§\s*%s\s+(?:%s)(?:\s+og\s+(?:%s)|\s+til\s+(?:%s))?\s+(?:ledd|punktum)\s+blir\s+(?:nytt?\s+|nye\s+)?(?:%s)(?:\s+og\s+(?:nytt?\s+)?(?:%s)|\s+til\s+(?:nytt?\s+)?(?:%s))?\s+(?:ledd|punktum)\.?$'
+                                                        % (NUM, ORDRE, ORDRE, ORDRE, ORDRE, ORDRE, ORDRE), t):
+                            # "Gjeldende § 39 annet og tredje ledd blir tredje og fjerde ledd." (markedsføringsloven,
+                            # lov 20. mai 2020 nr. 42): "Nåværende ..."
+                            t = re.sub(r'^Gjeldende\s', 'Nåværende ', t)
+                        m2 = c == 'defaultP' and re.match(r'^((?:Nåværende|Gjeldende)\s+§\s*%s\s+oppheves\.)\s+((?:Nåværende|Gjeldende)\s+§.*)$'
                                                           % NUM, t)
-                        if m2 and move_pairs(m2.group(2)):
+                        if m2 and (move_pairs(m2.group(2)) or re.match(
+                                r'^(?:Nåværende|Gjeldende)\s+§\s*%s\s+blir\s+(?:ny\s+)?§\s*%s\.?$' % (NUM, NUM), m2.group(2))):
+                            # "Gjeldende § 41 oppheves. Gjeldende § 42 blir § 41." (markedsføringsloven, lov 20. mai
+                            # 2020 nr. 42): also a single renumbering after the repeal
                             # "Nåværende § 6-10 oppheves. Nåværende §§ 6-8 og 6-9 blir §§ 6-9 og 6-10." in one paragraph
                             # (eiendomsmeglingsloven, lov 10. april 2025 nr. 10): two instructions
-                            out.append(('d', m2.group(1), None))
+                            out.append(('d', re.sub(r'^Gjeldende\s', 'Nåværende ', m2.group(1)), None))
                             out.append(('d', m2.group(2), None))
                             continue
                         out.append(('d', t, 'cont' if c == 'leddfortsettelse' else None))
@@ -1865,6 +1873,22 @@ def _apply_para(state, key, num, ops, lang):
             and o.get('bokstav') is None]
 
     def _after_renum(i, o):
+        if (o['act'] in ('set', 'del') and o.get('ledd') and not o.get('ledd_new') and not o.get('ledd_to')
+                and (o.get('pkt') is not None or o.get('bokstav') is not None)):
+            # "§ 39 annet ledd skal lyde: ... / Gjeldende § 39 annet og tredje ledd blir tredje og fjerde ledd. / § 39
+            # tredje ledd første punktum skal lyde: ..." (markedsføringsloven, lov 20. mai 2020 nr. 42): a sentence or
+            # letter instruction printed after the law moves ledd on names the ledd by its new number
+            for r in renums:
+                if not (r.get('renum_to') and r['renum_to'][0] == 'ledd' and r.get('pkt') is None and r.get('ledd')
+                        and r.get('bokstav') is None and any(x is r for x in ops[:i])):
+                    continue
+                lo, hi, to = r['ledd'], r.get('ledd_to') or r['ledd'], r['renum_to'][1]
+                if to > lo and to <= o['ledd'] <= to + hi - lo:
+                    old = lo + o['ledd'] - to
+                    NOTES.append((num, 'the law moves ledd on ("%s"); its instruction printed after that ("%s") names '
+                                       'the ledd by its new number, the old %s ledd' % (
+                                           r['src'], o['src'], ORDN_EN.get(old, old))))
+                    return dict(o, ledd=old)
         if not (gone and o['act'] == 'set' and o.get('ledd') and not o.get('ledd_new') and o.get('bokstav') is None
                 and not o.get('ledd_to')):
             return o
@@ -1974,6 +1998,24 @@ def _apply_para(state, key, num, ops, lang):
                                        'that place; that ledd is replaced by it, as in the consolidated text of Lovdata'
                                   % (op['src'], len(new))))
                     continue
+            if op['act'] == 'set' and op['ledd_new'] and not op['ledd_to'] and _rl:
+                # "§ 42 nytt tredje ledd skal lyde: ... / Nåværende tredje og fjerde ledd blir fjerde og femte ledd. / § 42
+                # nytt sjette ledd skal lyde: Departementet kan ved forskrift ..." (markedsføringsloven, lov 16. juni 2017
+                # nr. 49): the old fifth ledd ("Kongen kan ved forskrift ...") is neither moved nor repealed, and the
+                # renumbering gives its number to another ledd; the new ledd, a revision of it, replaces it
+                _moved = {i for r in _rl for i in range(r['ledd'], (r.get('ledd_to') or r['ledd']) + 1)}
+                _gone = {i for o in ops if o['act'] == 'del' and o.get('ledd') and o.get('pkt') is None
+                         and o.get('bokstav') is None for i in range(o['ledd'], (o.get('ledd_to') or o['ledd']) + 1)}
+                clash = [c for c in range(1, len(item['ledd']) + 1) if c not in _moved and c in _lands and c not in _gone]
+                new = payload_ledd(op['payload'][lang])[0]
+                old = [s for s in slots if clash and s['orig'] == clash[0] - 1 and not s['dead']]
+                if (len(clash) == 1 and len(new) == 1 and old and op['ledd'] == clash[0] + 1
+                        and difflib.SequenceMatcher(None, old[0]['ledd'][0], new[0][0]).ratio() >= 0.6):
+                    old[0]['dead'] = True
+                    NOTES.append((num, 'the law renumbers ledd onto the number of the old %s ledd, which it neither '
+                                       'moves nor repeals, and adds "%s" a revision of that ledd: the new ledd replaces '
+                                       'it, as in the consolidated text of Lovdata' % (
+                                           ORDN_EN.get(clash[0], clash[0]), op['src'])))
             if op['act'] == 'set' and (op['ledd_new'] or becomes_insert):
                 inserts.append((k, payload_ledd(op['payload'][lang])[0]))
                 continue

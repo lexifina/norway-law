@@ -178,6 +178,11 @@ LEDD_KEPT = {
         '(4) Hvor lenge det er adgang til å gå til søksmål',
         'lov 22. desember 2021 nr. 158 replaced the first and second ledd and made the old second ledd the third, '
         'without repealing the old third ledd, and no later law in Norsk Lovtidend repeals it'),
+    ('markedsforingsloven', 'paragraf-039'): (
+        'Et vedtak gjelder i fem år',
+        'lov 20. mai 2020 nr. 42 replaced the first ledd, added a new second ledd and made the old second and third '
+        'ledd the third and fourth, without repealing the old fourth ledd, and no later law in Norsk Lovtidend repeals '
+        'it'),
 }
 
 
@@ -196,7 +201,8 @@ def ledd_kept(slug, k, ours, theirs):
     start, why = LEDD_KEPT[(slug, k)]
     lines = ours.split('\n')
     drop = [i for i, x in enumerate(lines) if x.startswith(start)]
-    if len(drop) != 1 or not re.match(r'^\(\d+\) ', lines[drop[0]]):
+    # a whole ledd: numbered "(4) ...", or an unnumbered ledd line that is not a list item
+    if len(drop) != 1 or re.match(r'^(?:[a-z]|\d+)\) ', lines[drop[0]]):
         return None
     rest = lines[:drop[0]] + lines[drop[0] + 1:]
     # a whole ledd: its list lines go with it
