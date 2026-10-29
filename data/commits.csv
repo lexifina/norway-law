@@ -1,0 +1,46 @@
+day,kind,law,acts,files,branch
+2003-07-01,start,lov-2003-05-23-35,ehandelsloven,15,main
+2004-03-01,law,lov-2004-02-20-8,ehandelsloven,8,main
+2005-07-01,law,lov-2005-06-17-104,ehandelsloven,1,main
+2012-01-01,law,lov-2011-11-18-42,ehandelsloven,1,main
+2014-05-06,start,,grunnlova,111,main
+2014-05-06,start,,grunnloven,111,main
+2014-05-13,law,for-2014-05-14-628,grunnloven grunnlova,67,main
+2014-05-27,law,for-2014-06-20-778,grunnloven grunnlova,0,main
+2015-06-01,law,for-2015-06-12-623,grunnloven grunnlova,2,main
+2016-03-31,law,for-2016-04-22-404,grunnloven grunnlova,2,main
+2016-05-24,law,for-2016-06-10-615,grunnloven grunnlova,2,main
+2018-05-08,law,for-2018-06-01-788,grunnloven grunnlova,35,main
+2018-07-20,start,lov-2018-06-15-38,personopplysningsloven,43,main
+2018-12-20,law,lov-2018-12-20-116,personopplysningsloven,1,main
+2019-01-01,law,lov-2018-12-14-95,ehandelsloven,3,main
+2020-01-07,law,for-2020-01-31-93,grunnloven grunnlova,2,main
+2020-05-14,law,for-2020-05-29-1085,grunnloven grunnlova,4,main
+2020-05-14,law,for-2020-05-29-1086,grunnloven grunnlova,2,main
+2020-05-14,law,for-2020-05-29-1087,grunnloven grunnlova,2,main
+2020-05-14,law,for-2020-05-29-1088,grunnloven grunnlova,4,main
+2021-01-01,start,lov-2019-06-14-21,arveloven,219,main
+2021-01-01,law,lov-2020-12-18-149,arveloven,6,main
+2021-06-01,law,lov-2021-05-07-34,arveloven,16,main
+2022-01-01,law,lov-2020-12-18-149,arveloven,1,main
+2022-01-01,law,lov-2021-06-18-124,personopplysningsloven,1,main
+2022-06-01,law,for-2022-06-22-1133,grunnloven grunnlova,32,main
+2022-06-22,law,lov-2022-06-22-81,arveloven,1,main
+2023-01-01,law,lov-2022-03-18-12,ehandelsloven,1,main
+2023-01-12,law,for-2023-01-27-92,grunnloven grunnlova,2,main
+2023-04-01,law,lov-2023-03-31-5,arveloven,1,main
+2023-05-15,law,for-2023-05-26-739,grunnloven grunnlova,2,main
+2023-10-01,law,lov-2023-06-16-38,ehandelsloven,1,main
+2023-10-01,law,lov-2023-06-16-59,arveloven,6,main
+2024-05-01,start,lov-2023-06-16-62,valgloven,170,main
+2024-05-21,law,for-2024-06-07-928,grunnloven grunnlova,10,main
+2024-06-21,law,lov-2024-06-21-51,valgloven,4,main
+2024-08-01,start,lov-2024-03-08-9,universitets-og-hoyskoleloven,139,main
+2025-01-01,start,lov-2024-12-13-76,ekomloven,169,main
+2025-08-01,law,lov-2025-04-10-11,universitets-og-hoyskoleloven,1,main
+2025-08-01,law,lov-2025-06-20-101,universitets-og-hoyskoleloven,12,main
+2025-12-19,law,lov-2025-12-19-112,ekomloven,1,main
+2026-07-01,law,lov-2025-12-22-128,ekomloven,1,main
+2026-07-01,law,lov-2026-06-19-45,universitets-og-hoyskoleloven,2,main
+2026-08-01,law,lov-2026-06-19-60,universitets-og-hoyskoleloven,8,main
+2028-01-01,law,lov-2026-06-19-57,valgloven,1,fremtidig

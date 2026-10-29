@@ -1,0 +1,429 @@
+{
+ "country": "NO",
+ "acts": [
+  {
+   "slug": "grunnloven",
+   "short": "Grl.",
+   "title": "Kongeriket Norges Grunnlov",
+   "url": "https://lovdata.no/dokument/NL/lov/1814-05-17",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 111,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140509-0613.xml",
+     "sha256": "852c4daa3b85be626374d3bbdbe39e18f9f1d7d9e1fefc1d4053463de64b8718"
+    },
+    {
+     "from": "2014-05-13",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140514-0628.xml",
+     "sha256": "208e7513b175c93ce9c908daaf0ef9af7af60df08cdf2be798b3872474fb93fd"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140620-0778.xml",
+     "sha256": "8c88aa3b116f46c061b9e06f88f29a5a148900145fe59467199fceaf421e11f3"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/sf-20150612-0623.xml",
+     "sha256": "03169d497c125302130ab5f72bb79d414cd1b7a0882facd4f3604b673b15cd7f"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160422-0404.xml",
+     "sha256": "13849753a61fc741c2c09ef519adf1e118c45323995c5808bd8bab806431c7d1"
+    },
+    {
+     "from": "2016-05-24",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160610-0615.xml",
+     "sha256": "9a8ba862e5cd8e7282ac457f0c7c3b961810d629dd8c724299d877fbde3995ba"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/sf-20180601-0788.xml",
+     "sha256": "f76826a0715cab300d17785c2ff337767bb60a3121a9b395eb2edf22c2d5ca9d"
+    },
+    {
+     "from": "2020-01-07",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200131-0093.xml",
+     "sha256": "8ed8f671c07f8e14fb33027b96812fa8858a119323c96b36193426d9d3d8108e"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1085.xml",
+     "sha256": "499240ed77c6c8f9a4d94429374d2fea0b8b5a3a15e3a877ee003b10a4bbb1d8"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1086.xml",
+     "sha256": "f8483039e7247a78274dcdb92a89156c081b0c61c6b93d3461d81455634c06e9"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1087.xml",
+     "sha256": "066c64bd9bee799e39bd1fb7d7aedf8a514803925e1d78c1c9bfc6626c207110"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1088.xml",
+     "sha256": "8c4bf7839477fa0561dedb94cdae47dcc461b49003d0cf8f04b7ce6d687507d1"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/sf-20220622-1133.xml",
+     "sha256": "d38325df5ea17c1a349e6832e4812c332d75ea1c95bf492999cb8ec708d7f832"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230127-0092.xml",
+     "sha256": "dfe14b1246f3f40242a2692bb59785e8ec7cd0ede9e3cd63194ec2e2e82cea9d"
+    },
+    {
+     "from": "2023-05-15",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230526-0739.xml",
+     "sha256": "5c03cc7498011ac81477db7cbf02d5d8aa310fa2299f881bce2941277579f325"
+    },
+    {
+     "from": "2024-05-21",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/sf-20240607-0928.xml",
+     "sha256": "a5d52f89b4c55cdb212ad01e58cfff6cc4d05c7c7ca66838cfd3980bf003c202"
+    }
+   ]
+  },
+  {
+   "slug": "grunnlova",
+   "short": "Grl. (nn)",
+   "title": "Kongeriket Noregs grunnlov",
+   "url": "https://lovdata.no/dokument/NL/lov/1814-05-17/nn",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 111,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140509-0613.xml",
+     "sha256": "852c4daa3b85be626374d3bbdbe39e18f9f1d7d9e1fefc1d4053463de64b8718"
+    },
+    {
+     "from": "2014-05-13",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140514-0628.xml",
+     "sha256": "208e7513b175c93ce9c908daaf0ef9af7af60df08cdf2be798b3872474fb93fd"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140620-0778.xml",
+     "sha256": "8c88aa3b116f46c061b9e06f88f29a5a148900145fe59467199fceaf421e11f3"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/sf-20150612-0623.xml",
+     "sha256": "03169d497c125302130ab5f72bb79d414cd1b7a0882facd4f3604b673b15cd7f"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160422-0404.xml",
+     "sha256": "13849753a61fc741c2c09ef519adf1e118c45323995c5808bd8bab806431c7d1"
+    },
+    {
+     "from": "2016-05-24",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160610-0615.xml",
+     "sha256": "9a8ba862e5cd8e7282ac457f0c7c3b961810d629dd8c724299d877fbde3995ba"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/sf-20180601-0788.xml",
+     "sha256": "f76826a0715cab300d17785c2ff337767bb60a3121a9b395eb2edf22c2d5ca9d"
+    },
+    {
+     "from": "2020-01-07",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200131-0093.xml",
+     "sha256": "8ed8f671c07f8e14fb33027b96812fa8858a119323c96b36193426d9d3d8108e"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1085.xml",
+     "sha256": "499240ed77c6c8f9a4d94429374d2fea0b8b5a3a15e3a877ee003b10a4bbb1d8"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1086.xml",
+     "sha256": "f8483039e7247a78274dcdb92a89156c081b0c61c6b93d3461d81455634c06e9"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1087.xml",
+     "sha256": "066c64bd9bee799e39bd1fb7d7aedf8a514803925e1d78c1c9bfc6626c207110"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1088.xml",
+     "sha256": "8c4bf7839477fa0561dedb94cdae47dcc461b49003d0cf8f04b7ce6d687507d1"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/sf-20220622-1133.xml",
+     "sha256": "d38325df5ea17c1a349e6832e4812c332d75ea1c95bf492999cb8ec708d7f832"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230127-0092.xml",
+     "sha256": "dfe14b1246f3f40242a2692bb59785e8ec7cd0ede9e3cd63194ec2e2e82cea9d"
+    },
+    {
+     "from": "2023-05-15",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230526-0739.xml",
+     "sha256": "5c03cc7498011ac81477db7cbf02d5d8aa310fa2299f881bce2941277579f325"
+    },
+    {
+     "from": "2024-05-21",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/sf-20240607-0928.xml",
+     "sha256": "a5d52f89b4c55cdb212ad01e58cfff6cc4d05c7c7ca66838cfd3980bf003c202"
+    }
+   ]
+  },
+  {
+   "slug": "personopplysningsloven",
+   "short": "popplyl.",
+   "title": "Lov om behandling av personopplysninger (personopplysningsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2018-06-15-38",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 43,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-038.xml",
+     "sha256": "069f4e1d1153ebe65c4e9f075f2a12193c012df9e880537648400e7d338633ba"
+    },
+    {
+     "from": "2018-12-20",
+     "units": 44,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-116.xml",
+     "sha256": "b06dd58dc4f39d355a0b26cf45e0ac0ef39e5361fc22d046480e190774704571"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 44,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-124.xml",
+     "sha256": "036fbacd01aaef0ef4ecf512c0fd0768f40e5569df638342aba184559d8b856a"
+    }
+   ]
+  },
+  {
+   "slug": "arveloven",
+   "short": "arvel.",
+   "title": "Lov om arv og dødsboskifte (arveloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2019-06-14-21",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 219,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190614-021.xml",
+     "sha256": "4b81ed4ea8fb86e97cccbda048f303def39d14b1c541038710a54752b1172c9e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 219,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-149.xml",
+     "sha256": "ac83800619df37f601f58a46852940eaa52b3f67f88353d88eebb2b4a8ba8e61"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 219,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 220,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-149.xml",
+     "sha256": "ac83800619df37f601f58a46852940eaa52b3f67f88353d88eebb2b4a8ba8e61"
+    },
+    {
+     "from": "2022-06-22",
+     "units": 221,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220622-081.xml",
+     "sha256": "b5d9614c7c3bf6171391988162a8489da9fd46cc94357ead4d001b546cd122a1"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 221,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230331-005.xml",
+     "sha256": "4b4fa246a2392bb161dca9b9ef75630af48a95adcc328d5642ad840e829c1f4b"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 221,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-059.xml",
+     "sha256": "73299fc531b91361676e8cac0b1b0a11621a6fd767b709e887378e9d7641a2ad"
+    }
+   ]
+  },
+  {
+   "slug": "ehandelsloven",
+   "short": "ehandelsl.",
+   "title": "Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven).",
+   "url": "https://lovdata.no/dokument/NL/lov/2003-05-23-35",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 15,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2003/nl-20030523-035.xml",
+     "sha256": "46f096a83fc3e8b6af122a031caeeac6f92c9ef809a2db07a44425e5673c513b"
+    },
+    {
+     "from": "2004-03-01",
+     "units": 20,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2004/nl-20040220-008.xml",
+     "sha256": "dd4c949118dc3585778b3092d1fd04380a363ea371cec87b511ad46770d5c8fd"
+    },
+    {
+     "from": "2005-07-01",
+     "units": 20,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20050617-104.xml",
+     "sha256": "98a26dd1fa85abf731586da31a223bdc4f087e100dffdc6eb0d598d95215c5bf"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 20,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20111118-042.xml",
+     "sha256": "03b4abc2ca7b36c06264b7f3fd35625b829fde24be03da461582ce860ee0bb04"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 21,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181214-095.xml",
+     "sha256": "9e66a3131a5fb5922a3c36a655fae4c3eace6cd0be82a291e2c53829643a814b"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 21,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220318-012.xml",
+     "sha256": "2a95e788d393a7312b72c332242eea1d23103d2e36f3996154f0841d791a3c43"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 22,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-038.xml",
+     "sha256": "55d51e1ee085a960080034b99332065f2589859426bbc7ab6804028332d61e07"
+    }
+   ]
+  },
+  {
+   "slug": "ekomloven",
+   "short": "ekoml.",
+   "title": "Lov om elektronisk kommunikasjon (ekomloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2024-12-13-76",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 169,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241213-076.xml",
+     "sha256": "7302b558fef19308117d70187f7ce71a073df4ef0be15a1c3214d4a84cfa2c71"
+    },
+    {
+     "from": "2025-12-19",
+     "units": 169,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251219-112.xml",
+     "sha256": "dbcaf427addf5d8e47b30401f183b716aafac66004844e970dddcf35f5ba33c7"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 168,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251222-128.xml",
+     "sha256": "edcdfc86aec54a29be3050f0d735ed82e5839a4817fad846edba61f31d29fe3d"
+    }
+   ]
+  },
+  {
+   "slug": "universitets-og-hoyskoleloven",
+   "short": "uhl.",
+   "title": "Lov om universiteter og høyskoler (universitets- og høyskoleloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2024-03-08-9",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240308-009.xml",
+     "sha256": "c2de45641f6e497866e4f3b1e37daad1c563fedd9e6986a5cbb9d6507dfe9a6f"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250410-011.xml",
+     "sha256": "5fe0180eab9e8a6bc450c1b7d0a5fbbf86232c709956c9b5514bd14a6544c17e"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-101.xml",
+     "sha256": "5b07768e28f57f180451e4c13bda5fad61cf521a1fcc21ee9452a85baa1dc65e"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-045.xml",
+     "sha256": "cbc7b137c8facd758e8fa036eb41e8257f92007e61715634489509a3e29cd812"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-060.xml",
+     "sha256": "ad8bc1f09779ea5791776b3c2a2ce6a3e844380d8d54b2ed0bd3f694408bf2df"
+    }
+   ]
+  },
+  {
+   "slug": "valgloven",
+   "short": "vall.",
+   "title": "Lov om valg til Stortinget, fylkesting og kommunestyrer (valgloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2023-06-16-62",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 170,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-062.xml",
+     "sha256": "2405c38c70f7990cce22b333767f53920b68756f5235a3225e0dfe6f198523c4"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 170,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-051.xml",
+     "sha256": "9174d9ed634f6bc6ea29f474563f03971aa9d965ce72dafb3aa6ad8edb98-503"
+    },
+    {
+     "from": "2028-01-01",
+     "units": 170,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-057.xml",
+     "sha256": "04234bde375b0e25a38fcca40e23eb1034d310a3d862baf5a81494cecb2d56b7"
+    }
+   ]
+  }
+ ]
+}
