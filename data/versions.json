@@ -1040,6 +1040,122 @@
    ]
   },
   {
+   "slug": "eiendomsmeglingsloven",
+   "short": "emgl.",
+   "title": "Lov om eiendomsmegling (eiendomsmeglingsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2007-06-29-73",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070629-073.xml",
+     "sha256": "84ddf6167faa0fb16c15a501b757278fdb7ce12235d33868f4087e3b76ea7838"
+    },
+    {
+     "from": "2009-12-21",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-048.xml",
+     "sha256": "03052b5b33-150f54c4497b433902bd97bf087fbbe19366761b7cdbb2459e478"
+    },
+    {
+     "from": "2009-12-28",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-103.xml",
+     "sha256": "3a30a54bfc428f2612d061309b9e03991184bcebb5e3026dcc1249e46cc5923e"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100604-020.xml",
+     "sha256": "b027b726da9934cb1d4f6bc17044aa59266c240e2db2d9bcd34d0327f70d1004"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100903-054.xml",
+     "sha256": "b74cf6e68d1bf8f9d4e85c864b0c8bf661623a78031b57f9d11e456a7ae81f6c"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120525-027.xml",
+     "sha256": "a190359a5df28fae502cca817d1af30635418806dc7bd5c74756419bb29c4a36"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120622-035.xml",
+     "sha256": "525b84225685752e70d15e1564f223e7bb0da0a24-843f5c7793f08c92d32f1a"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120622-035.xml",
+     "sha256": "525b84225685752e70d15e1564f223e7bb0da0a24-843f5c7793f08c92d32f1a"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140411-012.xml",
+     "sha256": "b3fc276cc49bf8ba0169d2c02c213c2e20c087a8279149180fe6320c5a105533"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150619-065.xml",
+     "sha256": "13637782b8d728afafb51cbbd9ac88fe1cb4e78c97ac0db26ab093fbaefa9a72"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20151204-096.xml",
+     "sha256": "ffdd186a123b3d5756fc9531ccfc746ad6ad0ef126465d50f8ecbbacd03becd6"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160617-029.xml",
+     "sha256": "5c5528e9f5e23adfc7cda7ece2042703ef9c166157d6e6e08307c2fc07e62869"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160527-014.xml",
+     "sha256": "2f10f2edba78f33ef59cc061c481451f756cbce9e4e66eac54931c88678aa9be"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 67,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171215-106.xml",
+     "sha256": "d7305732dc22f0ace92ae0f0c137e4e4007cdae445806343994c5bff4c497c32"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 67,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220512-028.xml",
+     "sha256": "00e45418b238788160764df3154354038ed356b704a54707bdb47dfdf27da38c"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 67,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-041.xml",
+     "sha256": "b46cb215583833ac8c74f82eaa3767042aecf6122b692f4def6fcebf90058e56"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 69,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250410-010.xml",
+     "sha256": "cd6482d5d765a18f412c9a9f76fdaf6392061d9d26448a3b91fa7ea86eb77517"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 69,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-106.xml",
+     "sha256": "4d69091855fda34a0d1d9f62b4c2e4787d8802359d8b2793dc1d3364f400e880"
+    }
+   ]
+  },
+  {
    "slug": "eierseksjonsloven",
    "short": "esl.",
    "title": "Lov om eierseksjoner (eierseksjonsloven)",
