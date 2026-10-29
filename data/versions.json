@@ -1,0 +1,3789 @@
+{
+ "country": "NO",
+ "acts": [
+  {
+   "slug": "grunnloven",
+   "short": "Grl.",
+   "title": "Kongeriket Norges Grunnlov",
+   "url": "https://lovdata.no/dokument/NL/lov/1814-05-17",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 111,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140509-0613.xml",
+     "sha256": "852c4daa3b85be626374d3bbdbe39e18f9f1d7d9e1fefc1d4053463de64b8718"
+    },
+    {
+     "from": "2014-05-13",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140514-0628.xml",
+     "sha256": "208e7513b175c93ce9c908daaf0ef9af7af60df08cdf2be798b3872474fb93fd"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140620-0778.xml",
+     "sha256": "8c88aa3b116f46c061b9e06f88f29a5a148900145fe59467199fceaf421e11f3"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/sf-20150612-0623.xml",
+     "sha256": "03169d497c125302130ab5f72bb79d414cd1b7a0882facd4f3604b673b15cd7f"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160422-0404.xml",
+     "sha256": "13849753a61fc741c2c09ef519adf1e118c45323995c5808bd8bab806431c7d1"
+    },
+    {
+     "from": "2016-05-24",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160610-0615.xml",
+     "sha256": "9a8ba862e5cd8e7282ac457f0c7c3b961810d629dd8c724299d877fbde3995ba"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/sf-20180601-0788.xml",
+     "sha256": "f76826a0715cab300d17785c2ff337767bb60a3121a9b395eb2edf22c2d5ca9d"
+    },
+    {
+     "from": "2020-01-07",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200131-0093.xml",
+     "sha256": "8ed8f671c07f8e14fb33027b96812fa8858a119323c96b36193426d9d3d8108e"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1085.xml",
+     "sha256": "499240ed77c6c8f9a4d94429374d2fea0b8b5a3a15e3a877ee003b10a4bbb1d8"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1086.xml",
+     "sha256": "f8483039e7247a78274dcdb92a89156c081b0c61c6b93d3461d81455634c06e9"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1087.xml",
+     "sha256": "066c64bd9bee799e39bd1fb7d7aedf8a514803925e1d78c1c9bfc6626c207110"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1088.xml",
+     "sha256": "8c4bf7839477fa0561dedb94cdae47dcc461b49003d0cf8f04b7ce6d687507d1"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/sf-20220622-1133.xml",
+     "sha256": "d38325df5ea17c1a349e6832e4812c332d75ea1c95bf492999cb8ec708d7f832"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230127-0092.xml",
+     "sha256": "dfe14b1246f3f40242a2692bb59785e8ec7cd0ede9e3cd63194ec2e2e82cea9d"
+    },
+    {
+     "from": "2023-05-15",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230526-0739.xml",
+     "sha256": "5c03cc7498011ac81477db7cbf02d5d8aa310fa2299f881bce2941277579f325"
+    },
+    {
+     "from": "2024-05-21",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/sf-20240607-0928.xml",
+     "sha256": "a5d52f89b4c55cdb212ad01e58cfff6cc4d05c7c7ca66838cfd3980bf003c202"
+    }
+   ]
+  },
+  {
+   "slug": "grunnlova",
+   "short": "Grl. (nn)",
+   "title": "Kongeriket Noregs grunnlov",
+   "url": "https://lovdata.no/dokument/NL/lov/1814-05-17/nn",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 111,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140509-0613.xml",
+     "sha256": "852c4daa3b85be626374d3bbdbe39e18f9f1d7d9e1fefc1d4053463de64b8718"
+    },
+    {
+     "from": "2014-05-13",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140514-0628.xml",
+     "sha256": "208e7513b175c93ce9c908daaf0ef9af7af60df08cdf2be798b3872474fb93fd"
+    },
+    {
+     "from": "2014-05-27",
+     "units": 114,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/sf-20140620-0778.xml",
+     "sha256": "8c88aa3b116f46c061b9e06f88f29a5a148900145fe59467199fceaf421e11f3"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/sf-20150612-0623.xml",
+     "sha256": "03169d497c125302130ab5f72bb79d414cd1b7a0882facd4f3604b673b15cd7f"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160422-0404.xml",
+     "sha256": "13849753a61fc741c2c09ef519adf1e118c45323995c5808bd8bab806431c7d1"
+    },
+    {
+     "from": "2016-05-24",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/sf-20160610-0615.xml",
+     "sha256": "9a8ba862e5cd8e7282ac457f0c7c3b961810d629dd8c724299d877fbde3995ba"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/sf-20180601-0788.xml",
+     "sha256": "f76826a0715cab300d17785c2ff337767bb60a3121a9b395eb2edf22c2d5ca9d"
+    },
+    {
+     "from": "2020-01-07",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200131-0093.xml",
+     "sha256": "8ed8f671c07f8e14fb33027b96812fa8858a119323c96b36193426d9d3d8108e"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1085.xml",
+     "sha256": "499240ed77c6c8f9a4d94429374d2fea0b8b5a3a15e3a877ee003b10a4bbb1d8"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1086.xml",
+     "sha256": "f8483039e7247a78274dcdb92a89156c081b0c61c6b93d3461d81455634c06e9"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1087.xml",
+     "sha256": "066c64bd9bee799e39bd1fb7d7aedf8a514803925e1d78c1c9bfc6626c207110"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/sf-20200529-1088.xml",
+     "sha256": "8c4bf7839477fa0561dedb94cdae47dcc461b49003d0cf8f04b7ce6d687507d1"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/sf-20220622-1133.xml",
+     "sha256": "d38325df5ea17c1a349e6832e4812c332d75ea1c95bf492999cb8ec708d7f832"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230127-0092.xml",
+     "sha256": "dfe14b1246f3f40242a2692bb59785e8ec7cd0ede9e3cd63194ec2e2e82cea9d"
+    },
+    {
+     "from": "2023-05-15",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/sf-20230526-0739.xml",
+     "sha256": "5c03cc7498011ac81477db7cbf02d5d8aa310fa2299f881bce2941277579f325"
+    },
+    {
+     "from": "2024-05-21",
+     "units": 116,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/sf-20240607-0928.xml",
+     "sha256": "a5d52f89b4c55cdb212ad01e58cfff6cc4d05c7c7ca66838cfd3980bf003c202"
+    }
+   ]
+  },
+  {
+   "slug": "personopplysningsloven",
+   "short": "popplyl.",
+   "title": "Lov om behandling av personopplysninger (personopplysningsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2018-06-15-38",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 43,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-038.xml",
+     "sha256": "069f4e1d1153ebe65c4e9f075f2a12193c012df9e880537648400e7d338633ba"
+    },
+    {
+     "from": "2018-12-20",
+     "units": 44,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-116.xml",
+     "sha256": "b06dd58dc4f39d355a0b26cf45e0ac0ef39e5361fc22d046480e190774704571"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 44,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-124.xml",
+     "sha256": "036fbacd01aaef0ef4ecf512c0fd0768f40e5569df638342aba184559d8b856a"
+    }
+   ]
+  },
+  {
+   "slug": "arveloven",
+   "short": "arvel.",
+   "title": "Lov om arv og dødsboskifte (arveloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2019-06-14-21",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 219,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190614-021.xml",
+     "sha256": "4b81ed4ea8fb86e97cccbda048f303def39d14b1c541038710a54752b1172c9e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 219,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-149.xml",
+     "sha256": "ac83800619df37f601f58a46852940eaa52b3f67f88353d88eebb2b4a8ba8e61"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 219,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 220,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-149.xml",
+     "sha256": "ac83800619df37f601f58a46852940eaa52b3f67f88353d88eebb2b4a8ba8e61"
+    },
+    {
+     "from": "2022-06-22",
+     "units": 221,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220622-081.xml",
+     "sha256": "b5d9614c7c3bf6171391988162a8489da9fd46cc94357ead4d001b546cd122a1"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 221,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230331-005.xml",
+     "sha256": "4b4fa246a2392bb161dca9b9ef75630af48a95adcc328d5642ad840e829c1f4b"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 221,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-059.xml",
+     "sha256": "73299fc531b91361676e8cac0b1b0a11621a6fd767b709e887378e9d7641a2ad"
+    }
+   ]
+  },
+  {
+   "slug": "andsverkloven",
+   "short": "åndsverkl.",
+   "title": "Lov om opphavsrett til åndsverk mv. (åndsverkloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2018-06-15-40",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 140,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-040.xml",
+     "sha256": "31c4731e01e1ebec45e92c8f21e1a6bebbab183245200e6b9e8a0c7a334cf820"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 140,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-120.xml",
+     "sha256": "356bc66efeca5715eb6a6ae5fe7281e3f9e83b087b1620db9e96b03d7b74a754"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 140,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210528-049.xml",
+     "sha256": "973913396f4555370f2e6b720c5c61ec3b83bc50d3b32a0d782ac35402392fcf"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 141,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210604-058.xml",
+     "sha256": "c1260f4a2b4124bafd364dbaf5df8bbf16faaf56a47b257cb918bbdcea1dd922"
+    },
+    {
+     "from": "2021-09-01",
+     "units": 141,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210528-049.xml",
+     "sha256": "973913396f4555370f2e6b720c5c61ec3b83bc50d3b32a0d782ac35402392fcf"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 141,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-052.xml",
+     "sha256": "2a05301365f9e73189d45d556175075f48d9ba7047edb986a5835f7db7153dca"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 141,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241213-076.xml",
+     "sha256": "7302b558fef19308117d70187f7ce71a073df4ef0be15a1c3214d4a84cfa2c71"
+    }
+   ]
+  },
+  {
+   "slug": "arbeidsmiljoloven",
+   "short": "aml.",
+   "title": "Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).",
+   "url": "https://lovdata.no/dokument/NL/lov/2005-06-17-62",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 177,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20050617-062.xml",
+     "sha256": "3c1352f59f81d1edd017fe601c63838d3a3944203cba2fcf0a4fbd798997208f"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 177,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20051221-121.xml",
+     "sha256": "e2ddc53b0dfe62213ee7477e8b491cc78da5a2941c0a66ef59-489bcd89aaf6a"
+    },
+    {
+     "from": "2006-07-01",
+     "units": 177,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20060616-020.xml",
+     "sha256": "2e1b0799267e7c12f0fc970b5780bc75887529e345cadd3081d0186c3140eeac"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 177,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20060421-010.xml",
+     "sha256": "5f1b06f670f71c465a70864e8fe64a3f361169e4b4f985fe2adf5533d27ba377"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20061201-064.xml",
+     "sha256": "fc42fdb8650afc59889f54e117065ce63202e2fc928a95418da806671486a742"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20061215-069.xml",
+     "sha256": "3a86d586b360d17f7c8507e86952627c03433bb6873b0dfefd522780cb9babf3"
+    },
+    {
+     "from": "2007-03-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070223-010.xml",
+     "sha256": "93bdbcae6bba1f327819653cc6717e832b7d4133bd59201473e5d22a0596a18a"
+    },
+    {
+     "from": "2007-06-15",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070615-021.xml",
+     "sha256": "849ba265ac952d34f30142ecfa1bb0a4d598da591527780984fe0953bc01221e"
+    },
+    {
+     "from": "2007-06-15",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070615-022.xml",
+     "sha256": "1e467a653a7861291a6b18f0ec8f23c8ba8103d7994a2efb1a02e21aa6f6f802"
+    },
+    {
+     "from": "2007-07-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070615-038.xml",
+     "sha256": "fd700b120d896c74f6c0911602b34a964d6fa96613178b23273c5e07c3f52e0f"
+    },
+    {
+     "from": "2007-11-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070629-042.xml",
+     "sha256": "71c29b82b3f9d1caeed704bcbbc41b3678ad409950f89fcea2b3ebf2264a59d8"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20050617-090.xml",
+     "sha256": "f1c807517a29120c8d8ba87f6039ae5dfffaca5f2b384cc5bbfa9bfa4ef3c464"
+    },
+    {
+     "from": "2008-07-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070629-042.xml",
+     "sha256": "71c29b82b3f9d1caeed704bcbbc41b3678ad409950f89fcea2b3ebf2264a59d8"
+    },
+    {
+     "from": "2008-07-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20071221-118.xml",
+     "sha256": "8ad68f19c85274da6cdb59e24fa33538d351996612ef75e507a69be2eba96f2c"
+    },
+    {
+     "from": "2008-07-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20080606-038.xml",
+     "sha256": "deddcadf601721d4cfec710c5b673bd558e695fff2e5de40b24e6b2580f609f0"
+    },
+    {
+     "from": "2008-07-01",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20080613-040.xml",
+     "sha256": "ba3b6819eee09478022e7726d27475e64a6fec26de2de620637434c57cce2a1e"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 178,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20080620-042.xml",
+     "sha256": "d78edf7a1f798d71a44cc6f11d984df81797fd687b2b567c2e059775e25e3ac0"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 178,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20081205-082.xml",
+     "sha256": "fe7678c387474e00addeea7f522049954658a1e5b1218dc348a3ad93843ca552"
+    },
+    {
+     "from": "2009-01-09",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090109-003.xml",
+     "sha256": "caa36d5b43572297ac84846c3460719235af62359576ad8082edb1e348a17d20"
+    },
+    {
+     "from": "2009-06-26",
+     "units": 179,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-083.xml",
+     "sha256": "1fa721d0d2875a26a42347300992032981a4f2cf88 D-504ece3af9bdc73d2418"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-039.xml",
+     "sha256": "36c25b1018dba5bf1f3e921876721c792e45ffb4d7d195ea53-688eaba54295f"
+    },
+    {
+     "from": "2010-03-01",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20081219-106.xml",
+     "sha256": "7219b91afc428e50e043e39ac709e275a5c169009d4f4ea689381ea00a66533c"
+    },
+    {
+     "from": "2010-04-09",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100409-012.xml",
+     "sha256": "516c79d3b318ee35168f02a1905a5ec22f30cc3c84b88cfca4d437826b1062d4"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100409-011.xml",
+     "sha256": "d88b7c44e600cb233bc222ca66b00c29fc60f37abb8bc4fad84fefee58160ca3"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100625-031.xml",
+     "sha256": "9911f5bc707b47fc54f5fb585e48a4456f897a0ad8064e0302c91b3c2d77efb5"
+    },
+    {
+     "from": "2011-07-01",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-018.xml",
+     "sha256": "7b2afac747105b78911736e770062cc84863fd4b55a4ae604298f5d4f282df58"
+    },
+    {
+     "from": "2011-12-16",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20111216-058.xml",
+     "sha256": "5eb3202eaeeb42b13d2437610979e73ef6a41f4e944b7879836dc6e6ddb7372e"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 181,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120127-009.xml",
+     "sha256": "46c136cde23e29b06106777101246a242ca4f5ac860be1bd4ecfe5318c6edbec"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 183,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120622-033.xml",
+     "sha256": "634bffbf4ccededff4c3fa45cb6cea741a3c438ec10471a3b2d519c9dc674037"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 183,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20121019-068.xml",
+     "sha256": "18e49f9e4d32301d4027ab51a737226cd6d980a4ae14f41168c17ae4595644f4"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 183,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20121214-080.xml",
+     "sha256": "29fc48543cba8c0c53c530932d95ae9692f55f25069326a69f03c1f4c62edf5f"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 184,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120622-033.xml",
+     "sha256": "634bffbf4ccededff4c3fa45cb6cea741a3c438ec10471a3b2d519c9dc674037"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 184,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130614-032.xml",
+     "sha256": "62be57b99878a32739b1b0d9ef90d080e5956c28607af7a1311b7ffc09db03cb"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 184,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130607-027.xml",
+     "sha256": "737eb0d1b8e10346e45c7f7a31ddbbbd430472c2d28840a75c59d000f4da27ec"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 188,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130614-032.xml",
+     "sha256": "62be57b99878a32739b1b0d9ef90d080e5956c28607af7a1311b7ffc09db03cb"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 188,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130621-061.xml",
+     "sha256": "d2996c95003255d5f54d4308189505871d9a1ce025f428042626b6eb93e18af2"
+    },
+    {
+     "from": "2014-06-20",
+     "units": 188,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-025.xml",
+     "sha256": "1f1ecde86fa92a464de007ab2e8682fe7759afa61478c96a6fe97c682c374113"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 188,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-026.xml",
+     "sha256": "1b3858e6b0693d992eaaa528937e1c3037f97278476bfea144b037502a97f7f7"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 188,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150424-020.xml",
+     "sha256": "b2cb5a01ecec58de0050bf7d530eaeace2ba8679a875639551b21ae5669e5bb0"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 188,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150424-021.xml",
+     "sha256": "0cb059c7a17e481063e2156cf7f976982718e77d661dc0237be544112c3419e1"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150619-065.xml",
+     "sha256": "13637782b8d728afafb51cbbd9ac88fe1cb4e78c97ac0db26ab093fbaefa9a72"
+    },
+    {
+     "from": "2015-12-18",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20151218-103.xml",
+     "sha256": "eab1b400025c770cd45fde6562256a6407887e25200213e487516062e75427ea"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 194,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20151218-104.xml",
+     "sha256": "8783330a40b5fde425b228c1eacf619f8a145a368bdd8d4a1ab835da3d06be86"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 195,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170331-012.xml",
+     "sha256": "0f3e22530a70d3fcdf29007951f29265100d85a06e180eeb37511a2a54706850"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170616-042.xml",
+     "sha256": "d8147eea7787d63665afa66614ef31e36e947a53617fa48b03d21346258bdd47"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170511-025.xml",
+     "sha256": "149733973924ff3ca4310aefacd489ee57c9508b7cbda7b8890489177a59fd3e"
+    },
+    {
+     "from": "2017-12-15",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171215-104.xml",
+     "sha256": "4ec330032e955c1c98ae7821382f0cb0a32c5c94ab327e32764def012c1f209c"
+    },
+    {
+     "from": "2017-12-19",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171219-113.xml",
+     "sha256": "ec20aa8b864c4638e5d456306dfe313221c9dce22e671860bdeb35e91d22c454"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170616-051.xml",
+     "sha256": "2e40b6da7055c386c3f924ab12dc3a1f878988e7d7f77-766e489a7d8f2d7416"
+    },
+    {
+     "from": "2018-07-20",
+     "units": 198,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-038.xml",
+     "sha256": "069f4e1d1153ebe65c4e9f075f2a12193c012df9e880537648400e7d338633ba"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 201,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-045.xml",
+     "sha256": "7cd321f9a5f791cce697a666565e6a007660ae8e3e6aba9efbbe021b9b1bcc65"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 201,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-046.xml",
+     "sha256": "ac95f6d55861c7817456592aae84578283445f010d6b782c8194a0b4c6ac4543"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 201,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-098.xml",
+     "sha256": "583f1a80d7bd55a41eb31590002fbac75000f39b0f01ffb9ce90ff4454e0def0"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 201,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-025.xml",
+     "sha256": "051544219dcf9a6d7ca389e14765fb5ef431c04a08e863bcb0e328cef2e4fa5d"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 204,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-024.xml",
+     "sha256": "0fd8f471d7d67664aede9b6c0f6d51b9b6ff4f612fcfa7440fcf25c80753c299"
+    },
+    {
+     "from": "2020-03-20",
+     "units": 205,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200320-008.xml",
+     "sha256": "3ea983388001eca32d2435e2e710b39a74ef5ff0db0cca3a6030b0f233126ea2"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 205,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200619-069.xml",
+     "sha256": "5a9ca0969b54b0578b034745512086011f396a9d34358f18204ca36211ccc737"
+    },
+    {
+     "from": "2020-12-30",
+     "units": 205,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200623-097.xml",
+     "sha256": "8935834f3785e50de10474f7165ae677a24eab517e39d8520f73cd2b063726b2"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 206,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-093.xml",
+     "sha256": "b1b34d6fd4da2202b84abad83c7c50b90505b0de784622731916b53ea463efee"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 206,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-127.xml",
+     "sha256": "bafdd4fd236cc737d3cb4852f64c35b0cda3f55d29f59bb57fb1ecc2fdca4486"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 206,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210611-059.xml",
+     "sha256": "8d3c0d6f2c0b511c7afde020b416e3b44818e206e0dcc6152107e794e60ff06b"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 206,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-029.xml",
+     "sha256": "e50242bc7eca8504a2c7875c9c2dcdd8ab383f82b5e689317b48c5bbac53f530"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 206,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220318-010.xml",
+     "sha256": "503679b1493737394caa8e56aaf0ca8318466e32fdb18ff93e40137c829fc400"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 206,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220408-019.xml",
+     "sha256": "e0ebb772384b5316d36b0860283a45070350bd2a952f801f2e3d0cdba7249b72"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 206,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220617-042.xml",
+     "sha256": "9e2608d1180701aefa91dff970f615756b66f4465aa0d470857afea642750f21"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 207,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221209-088.xml",
+     "sha256": "15888ea3bdbf5850b1082395e5b7e86bac43dbbf1789a2627565b5e98d4845ca"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 207,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221220-098.xml",
+     "sha256": "9754d84ccc56186e1237cac45dfe60d413fd78bcd3fd5633ce955659777fc2c9"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 207,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221220-099.xml",
+     "sha256": "52414c364c20a4f89a788b1d40a2ba79b4ff293510c4f61def6ca41ad39742e1"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 208,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230317-003.xml",
+     "sha256": "942ab8620261a07ea71d4d407947a42be87df92bf81df9c34f711f4a14518f2a"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 208,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-037.xml",
+     "sha256": "65a918c66b8251c2838bae3c24223797799f9da18e300d677fd783a2a10d68b8"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 208,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231201-086.xml",
+     "sha256": "f4566be46ea5f4241dedd3d9757bcfa5e673fe49a7e6b3b3f029e39dead1bb41"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 209,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231215-088.xml",
+     "sha256": "77bb9d8ecc2b91ca22404c3aca5a708a18420df6dccf70345567dba2115fb259"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 209,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240614-031.xml",
+     "sha256": "ec4b908a962c99e99cdcc105a6533d3dcd3ef701944dcde8882a79d3a8efaeb3"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 212,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-034.xml",
+     "sha256": "d8292a9d88d4af8431d95617b00da48cedca25b56b7179d85c95e9bc22710128"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 213,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-036.xml",
+     "sha256": "eb394aee61e1c8d95183075040d98a8ba5c8cd1e922e039aa52e953eb2329fc2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 213,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250425-012.xml",
+     "sha256": "a4469e70a433e11cbf6911e0631651a937f5b13e4349eeb35cda5513610eee1b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 213,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250527-017.xml",
+     "sha256": "87b5d23b84de258153091bfd1f9faf3c85a9ed1a9d9a8d812c480bb7a7500f7b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 213,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-037.xml",
+     "sha256": "9a8578fdd4b4772a8668d78cff35ac9a97d3e25d609a0adf21baaa8360ba846d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 213,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-045.xml",
+     "sha256": "dbcace7fc1ea4995381d31f1ede4883b6968ae678256e977dff918f6f401ab20"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 213,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-033.xml",
+     "sha256": "f44bb26ca9fcf0aef6285c1dc30f3f44506f4b16473cb1af83928435c184a369"
+    }
+   ]
+  },
+  {
+   "slug": "barnevernsloven",
+   "short": "bvl.",
+   "title": "Lov om barnevern (barnevernsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2021-06-18-97",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 186,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-097.xml",
+     "sha256": "179333dbc828dcd9aee09aa5633d470c9beb08e911dbbb84f98309dec3f138e1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 186,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220325-013.xml",
+     "sha256": "af53575bd411c24fadf11026c42f563275b73cabcbe5df6375cb479c48e4acf3"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220610-035.xml",
+     "sha256": "c2ecd6b303da8ae9eb11ac52500570b787e978aa4df1bcc3a2f76d89e0c0c1c8"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220610-039.xml",
+     "sha256": "a3f3103e0ecff15084874638c99ac1521b0cbb49ee97349ed03badc5ec50c6f1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220617-044.xml",
+     "sha256": "97f93e4a119f7108c8058c25657b6864e94b87dc71ba546ec4541b58dfb74518"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220617-045.xml",
+     "sha256": "787431d145fd54f707f4bf4cc66568436caf56e9ebcd88b7aaa2464f71d0eef7"
+    },
+    {
+     "from": "2023-06-16",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-041.xml",
+     "sha256": "18d41aa2bb2cef3bceeae92391252fbb2912e50de7e29fc743619c2a9e6ca4cc"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-042.xml",
+     "sha256": "108fdf954c7dd2875dffe11079cdf7b3fbb623781252185c5630ae02b47a8609"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230511-013.xml",
+     "sha256": "2b95c0e7bfbc2d12183bd89f9a6581149aa3efdab0dba121b9a09bf18c69601d"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-041.xml",
+     "sha256": "18d41aa2bb2cef3bceeae92391252fbb2912e50de7e29fc743619c2a9e6ca4cc"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230609-030.xml",
+     "sha256": "393a432f571dfe723d04b4e5be1cdc2127c77c20bb98147a675533c616d277af"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241213-078.xml",
+     "sha256": "927354408244f15d9970e8cdd8ef185b5b72df4224b2ff582bf3c062998d4856"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 187,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250425-012.xml",
+     "sha256": "a4469e70a433e11cbf6911e0631651a937f5b13e4349eeb35cda5513610eee1b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 195,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-039.xml",
+     "sha256": "d2014ebf73d3735edd281fdb13b934f9be93ae237a372789fecf5c5fcf9e3be1"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251222-115.xml",
+     "sha256": "06907b0b2d901f233ead703aed50bda5a7a4a93f884d4e2e19455a468c97d1e1"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-035.xml",
+     "sha256": "7b78f095dbe057832104536f01b82ba55c8e6e6e335fa6d6c926c83e079d72bf"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 197,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260612-022.xml",
+     "sha256": "96e07df4b0ce3ba0c3e4abd313d521299254be722da0fde53122145bc6c4520a"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 205,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-039.xml",
+     "sha256": "d2014ebf73d3735edd281fdb13b934f9be93ae237a372789fecf5c5fcf9e3be1"
+    }
+   ]
+  },
+  {
+   "slug": "dyrevelferdsloven",
+   "short": "dyrevelferdsl.",
+   "title": "Lov om dyrevelferd",
+   "url": "https://lovdata.no/dokument/NL/lov/2009-06-19-97",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 44,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-097.xml",
+     "sha256": "6ad36d542c99189c77ecd6ddbd29e390526278c574971684da9f313240f8a807"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 45,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-103.xml",
+     "sha256": "3a30a54bfc428f2612d061309b9e03991184bcebb5e3026dcc1249e46cc5923e"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 45,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150619-065.xml",
+     "sha256": "13637782b8d728afafb51cbbd9ac88fe1cb4e78c97ac0db26ab093fbaefa9a72"
+    },
+    {
+     "from": "2018-05-01",
+     "units": 45,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180410-004.xml",
+     "sha256": "339cbdf5015e045cbbbf01177f64a87d21abf380160f77a3ee06b25434718863"
+    },
+    {
+     "from": "2018-07-20",
+     "units": 45,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-038.xml",
+     "sha256": "069f4e1d1153ebe65c4e9f075f2a12193c012df9e880537648400e7d338633ba"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 46,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-134.xml",
+     "sha256": "b30f597f2bd131c212a1e8f60ec4b181740ab7162ba4ddd99146a3c252a41d29"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 47,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260313-009.xml",
+     "sha256": "04dbe7389da95cd69575be606b13af83de83818066ec31a7415b7ba4d1a646c0"
+    }
+   ]
+  },
+  {
+   "slug": "ehandelsloven",
+   "short": "ehandelsl.",
+   "title": "Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven).",
+   "url": "https://lovdata.no/dokument/NL/lov/2003-05-23-35",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 15,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2003/nl-20030523-035.xml",
+     "sha256": "46f096a83fc3e8b6af122a031caeeac6f92c9ef809a2db07a44425e5673c513b"
+    },
+    {
+     "from": "2004-03-01",
+     "units": 20,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2004/nl-20040220-008.xml",
+     "sha256": "dd4c949118dc3585778b3092d1fd04380a363ea371cec87b511ad46770d5c8fd"
+    },
+    {
+     "from": "2005-07-01",
+     "units": 20,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20050617-104.xml",
+     "sha256": "98a26dd1fa85abf731586da31a223bdc4f087e100dffdc6eb0d598d95215c5bf"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 20,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20111118-042.xml",
+     "sha256": "03b4abc2ca7b36c06264b7f3fd35625b829fde24be03da461582ce860ee0bb04"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 21,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181214-095.xml",
+     "sha256": "9e66a3131a5fb5922a3c36a655fae4c3eace6cd0be82a291e2c53829643a814b"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 21,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220318-012.xml",
+     "sha256": "2a95e788d393a7312b72c332242eea1d23103d2e36f3996154f0841d791a3c43"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 22,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-038.xml",
+     "sha256": "55d51e1ee085a960080034b99332065f2589859426bbc7ab6804028332d61e07"
+    }
+   ]
+  },
+  {
+   "slug": "eierseksjonsloven",
+   "short": "esl.",
+   "title": "Lov om eierseksjoner (eierseksjonsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2017-06-16-65",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 78,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170616-065.xml",
+     "sha256": "0e9c31297fac5e7bb77826bf3ae8339ff85b625b7e3798a1b796cdd12652310f"
+    },
+    {
+     "from": "2018-06-22",
+     "units": 78,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-074.xml",
+     "sha256": "f3163b6793cc392ff70b4deea48ac06cb306e9c4a4a575a518118f97fde3af8d"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 79,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190410-013.xml",
+     "sha256": "ecd8d7953f7c09dae298f905b1f8a9bd04d74850ff7cf65644ba2330a4af0853"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 82,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201204-137.xml",
+     "sha256": "47812081df7954ba5e9f29579fae6a4b07c298e2fa5b0756bb777a384b833d72"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 84,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210326-016.xml",
+     "sha256": "849224f272120e3876a3115f8100c1b18634a2f603052c5c42ceae10dfba0f28"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 84,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210511-037.xml",
+     "sha256": "798c71301fa8a21cc472a4a07bacd5c761f3d823057c6dc6a0d2e0994e9c2485"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 86,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251219-114.xml",
+     "sha256": "f864fcf91d7b6edced05138a4aefa0546313474f792861e5c7a7c0793bd7158c"
+    }
+   ]
+  },
+  {
+   "slug": "ekomloven",
+   "short": "ekoml.",
+   "title": "Lov om elektronisk kommunikasjon (ekomloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2024-12-13-76",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 169,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241213-076.xml",
+     "sha256": "7302b558fef19308117d70187f7ce71a073df4ef0be15a1c3214d4a84cfa2c71"
+    },
+    {
+     "from": "2025-12-19",
+     "units": 169,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251219-112.xml",
+     "sha256": "dbcaf427addf5d8e47b30401f183b716aafac66004844e970dddcf35f5ba33c7"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 168,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251222-128.xml",
+     "sha256": "edcdfc86aec54a29be3050f0d735ed82e5839a4817fad846edba61f31d29fe3d"
+    }
+   ]
+  },
+  {
+   "slug": "finansavtaleloven",
+   "short": "finansavtalel.",
+   "title": "Lov om finansavtaler (finansavtaleloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2020-12-18-146",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-146.xml",
+     "sha256": "073631dd6bcf53084dbcf93a600ceca04b0f41cd36c79137f49292be7a6a5447"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-097.xml",
+     "sha256": "179333dbc828dcd9aee09aa5633d470c9beb08e911dbbb84f98309dec3f138e1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220218-005.xml",
+     "sha256": "48adeb856c87ff5f7ae32196707c34908dcf6887ae7e010589cd98d27ed5f894"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220617-059.xml",
+     "sha256": "be877ede0aa27a38c37054ea2921718382b689b485168ad223cc1732c64b2d66"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221216-091.xml",
+     "sha256": "73f6f1c5f79dd144033b65f50f55e1b5e5eee6dbb80e75f71bb2e38224b4cfb7"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-038.xml",
+     "sha256": "55d51e1ee085a960080034b99332065f2589859426bbc7ab6804028332d61e07"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-059.xml",
+     "sha256": "73299fc531b91361676e8cac0b1b0a11621a6fd767b709e887378e9d7641a2ad"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240607-029.xml",
+     "sha256": "a9a81dbc6cf7f284a375653d0ac5d282bf311402d1cd8163a7330d89d2ba3e35"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240607-029.xml",
+     "sha256": "a9a81dbc6cf7f284a375653d0ac5d282bf311402d1cd8163a7330d89d2ba3e35"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-041.xml",
+     "sha256": "b46cb215583833ac8c74f82eaa3767042aecf6122b692f4def6fcebf90058e56"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250410-011.xml",
+     "sha256": "5fe0180eab9e8a6bc450c1b7d0a5fbbf86232c709956c9b5514bd14a6544c17e"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-045.xml",
+     "sha256": "cbc7b137c8facd758e8fa036eb41e8257f92007e61715634489509a3e29cd812"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 218,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260206-002.xml",
+     "sha256": "340ddc011b4c1fa6c3468bd0738d4b45b4224fc77af5a00f6e890b0b8f208a0b"
+    }
+   ]
+  },
+  {
+   "slug": "finansforetaksloven",
+   "short": "finforetakslov.",
+   "title": "Lov om finansforetak og finanskonsern (finansforetaksloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2015-04-10-17",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 348,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150410-017.xml",
+     "sha256": "364b8dc4fae73329a0ed7beae396c4c7f4349d959d7dc6eb18dc24bbcbe7f64b"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20151204-096.xml",
+     "sha256": "ffdd186a123b3d5756fc9531ccfc746ad6ad0ef126465d50f8ecbbacd03becd6"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160617-029.xml",
+     "sha256": "5c5528e9f5e23adfc7cda7ece2042703ef9c166157d6e6e08307c2fc07e62869"
+    },
+    {
+     "from": "2017-02-10",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170210-004.xml",
+     "sha256": "bbbf4a60042cd573bb2a0ed18e447e4cb3e2e1b8c417941191399344013b4ff9"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161216-091.xml",
+     "sha256": "6562e740012480dfa7299f06c0657550bf448f234fd0e203ddc0bf3b7909ae49"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161209-088.xml",
+     "sha256": "c7ba2bf1031d4e3008c73be1cff7f2d80edd3f838cc3e807f6b9630fc6be251e"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170616-047.xml",
+     "sha256": "7e399491158b4ae7a4de994a94da1cb4a88f6153f372d24d69ad1c4f0a807009"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171215-105.xml",
+     "sha256": "3f3a05dbd52ff38d7c9363e207f46cbab2fc53bd513ff0ba8ba37f286d70a6b1"
+    },
+    {
+     "from": "2018-07-20",
+     "units": 349,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-038.xml",
+     "sha256": "069f4e1d1153ebe65c4e9f075f2a12193c012df9e880537648400e7d338633ba"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 423,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180323-002.xml",
+     "sha256": "4051b273d9ad81bad11b71e5b145a8d67426913b5c456a7e2755543152b4580d"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 423,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-035.xml",
+     "sha256": "c8c183a28fee3fd653e50bc6944f363d03bd166f6de3b120e604b38d7cadcd94"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 423,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181214-092.xml",
+     "sha256": "f92155de82d12b3bdd5e6a45eae635a2788e5e90319a064f3d011aea7cfe5aa2"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181123-087.xml",
+     "sha256": "020a6bdb3cce16ff12fa5e7476324a4738dd9a3e060aed099df8b3bba0567919"
+    },
+    {
+     "from": "2019-05-03",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190503-014.xml",
+     "sha256": "145ca6f4685fb29f8ad4c853351e0c3b280707c49fdc0083031aef35b6ceaf41"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190315-006.xml",
+     "sha256": "9ba08032a7a254680c765a4e621b2317b0e907d431df45659e2bef2a5fdd2515"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-031.xml",
+     "sha256": "61857356c2463cc120c8f1b2cfc64e361038bcdb2ff300bb98e534827fa29447"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20191213-079.xml",
+     "sha256": "3665aabf2f103c0a092d9297b805aa021fc5ea3ca3dfb64a4ca7d194d97b6b2d"
+    },
+    {
+     "from": "2020-05-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20191213-079.xml",
+     "sha256": "3665aabf2f103c0a092d9297b805aa021fc5ea3ca3dfb64a4ca7d194d97b6b2d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20191206-077.xml",
+     "sha256": "50630509541af6836b5ad70638006793158fce927face99edc2b21452fb2b947"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 429,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201120-128.xml",
+     "sha256": "473ea4fd0fc9454f469ddd62ee4c8c1499d0770bcf9f040e7e4b48341a94317c"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 429,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 429,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210528-051.xml",
+     "sha256": "0eb51e3c1f12a2d6ceada25caebf882f223f9fb849861374d640474c617d2c61"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 430,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210423-022.xml",
+     "sha256": "0a22eb01142a0f7ba14-458b7d415a881c55652de6c4eba02ec2f4909baaa864"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 430,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210430-026.xml",
+     "sha256": "6e2f5093749daaf79550d72153a0ff65da0da91020ef823d24c56328c3fb150f"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 430,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-101.xml",
+     "sha256": "f0e2912aefb819c3c85cff80d05b404dd93d19adf0f069cb3b12691e535ab484"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 439,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20211222-163.xml",
+     "sha256": "7f17c98b417da3dfd9550fa7af6e31a4d5aacace71f2a735589206d65d615bca"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 444,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-100.xml",
+     "sha256": "ad3f2ea61b7b7bb7f3b7af438e2486c38e6361ea49c607260633626059bc1f6d"
+    },
+    {
+     "from": "2022-07-08",
+     "units": 445,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220523-031.xml",
+     "sha256": "b07b06c662c2f6b8285a6299a36c9106dc63a34be064bb87e169ecf84ebacabe"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 445,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-146.xml",
+     "sha256": "073631dd6bcf53084dbcf93a600ceca04b0f41cd36c79137f49292be7a6a5447"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 447,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220408-020.xml",
+     "sha256": "dc532ebcc486c1d278c997a3eb7127a086f5893bed9ed23dbb92be63fc64a6bf"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 447,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220622-079.xml",
+     "sha256": "01f0a77c7e1469376450f4b9dc7de4d86494ec2525d5e9f260f38d5e4cec0393"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 447,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230331-005.xml",
+     "sha256": "4b4fa246a2392bb161dca9b9ef75630af48a95adcc328d5642ad840e829c1f4b"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 446,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221216-091.xml",
+     "sha256": "73f6f1c5f79dd144033b65f50f55e1b5e5eee6dbb80e75f71bb2e38224b4cfb7"
+    },
+    {
+     "from": "2023-08-11",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20191206-077.xml",
+     "sha256": "50630509541af6836b5ad70638006793158fce927face99edc2b21452fb2b947"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-114.xml",
+     "sha256": "e5c37a1adaecaacaa8a7b953d059f87098abfbfa3f7a321a58a215bdf9de488f"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240322-013.xml",
+     "sha256": "2d3ad01cfa030f2418196eb717701142e61f86ed688366c78f2fc3d568f36113"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240625-060.xml",
+     "sha256": "5a8272e99cf3a1c95a67b3daed66cb10566ce9fbe213246cea7c980ffec825c2"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-042.xml",
+     "sha256": "e245b3c0a4bdf6d70c22c6286cefafafd1c121b35fb6e5b46190b9471e060be7"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240322-013.xml",
+     "sha256": "2d3ad01cfa030f2418196eb717701142e61f86ed688366c78f2fc3d568f36113"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-041.xml",
+     "sha256": "b46cb215583833ac8c74f82eaa3767042aecf6122b692f4def6fcebf90058e56"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 449,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250527-018.xml",
+     "sha256": "e1b9c2837177fb0a23b13818a101c7b406144edeb85c86A-165fc844270da7d1"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 455,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210423-022.xml",
+     "sha256": "0a22eb01142a0f7ba14-458b7d415a881c55652de6c4eba02ec2f4909baaa864"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 456,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250410-011.xml",
+     "sha256": "5fe0180eab9e8a6bc450c1b7d0a5fbbf86232c709956c9b5514bd14a6544c17e"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 456,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-040.xml",
+     "sha256": "df829b53c3846852dccd94e91d42f89327061412d3ea84e046d7b13fc5b46ae1"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 456,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260206-002.xml",
+     "sha256": "340ddc011b4c1fa6c3468bd0738d4b45b4224fc77af5a00f6e890b0b8f208a0b"
+    }
+   ]
+  },
+  {
+   "slug": "forbrukerkjopsloven",
+   "short": "fkjl.",
+   "title": "Lov om forbrukerkjøp (forbrukerkjøpsloven).",
+   "url": "https://lovdata.no/dokument/NL/lov/2002-06-21-34",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 76,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2002/nl-20020621-034.xml",
+     "sha256": "b861a53f155c5baebb5b710587eeed66692263fefa298311b6d64a4f687982c9"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 78,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20060630-046.xml",
+     "sha256": "71dead800b2a9953b5031df93376ce73372085bf88dea80fa4672dcfedc10ba9"
+    },
+    {
+     "from": "2007-06-15",
+     "units": 78,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070615-036.xml",
+     "sha256": "cef7061c8c712366ae6c74249378613c2176988657e557bf2de7255062bf19ac"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 79,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070615-036.xml",
+     "sha256": "cef7061c8c712366ae6c74249378613c2176988657e557bf2de7255062bf19ac"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 79,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-030.xml",
+     "sha256": "557b1e9a61ea879d57052af58da6306e22f0752b78048cc64f1f90dd34bbc42e"
+    },
+    {
+     "from": "2014-06-20",
+     "units": 79,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-027.xml",
+     "sha256": "5e1b09510dfa9eab9f805bc6607466bda4d612bfa3e5072938680bc3b9152ed6"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 78,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160617-029.xml",
+     "sha256": "5c5528e9f5e23adfc7cda7ece2042703ef9c166157d6e6e08307c2fc07e62869"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 79,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-038.xml",
+     "sha256": "55d51e1ee085a960080034b99332065f2589859426bbc7ab6804028332d61e07"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 78,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-060.xml",
+     "sha256": "8821496c304b9f8bd335f75ead32f2ce62c9a68db67a7b24b423332257678321"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 78,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240614-032.xml",
+     "sha256": "06b0d659090154d356445db8476c129f00454d33680250f2a94b973b466a2794"
+    }
+   ]
+  },
+  {
+   "slug": "hvitvaskingsloven",
+   "short": "hvitvaskingsl.",
+   "title": "Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2018-06-01-23",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180601-023.xml",
+     "sha256": "6dfcf98adc35632dbc4e911468feeca993ab562861d3e3ca896afa36d675d89d"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190315-006.xml",
+     "sha256": "9ba08032a7a254680c765a4e621b2317b0e907d431df45659e2bef2a5fdd2515"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-127.xml",
+     "sha256": "bafdd4fd236cc737d3cb4852f64c35b0cda3f55d29f59bb57fb1ecc2fdca4486"
+    },
+    {
+     "from": "2022-06-22",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220622-079.xml",
+     "sha256": "01f0a77c7e1469376450f4b9dc7de4d86494ec2525d5e9f260f38d5e4cec0393"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220311-008.xml",
+     "sha256": "463770011322eafda32d2d72072c77253e1662f474441af3d7e5212c7def00d4"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220318-012.xml",
+     "sha256": "2a95e788d393a7312b72c332242eea1d23103d2e36f3996154f0841d791a3c43"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221216-090.xml",
+     "sha256": "4c4b6138cbaff433990f840e1aa1a1feab14a95c33ca94bc5f866662b617b579"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221216-091.xml",
+     "sha256": "73f6f1c5f79dd144033b65f50f55e1b5e5eee6dbb80e75f71bb2e38224b4cfb7"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240625-060.xml",
+     "sha256": "5a8272e99cf3a1c95a67b3daed66cb10566ce9fbe213246cea7c980ffec825c2"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220512-028.xml",
+     "sha256": "00e45418b238788160764df3154354038ed356b704a54707bdb47dfdf27da38c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240625-060.xml",
+     "sha256": "5a8272e99cf3a1c95a67b3daed66cb10566ce9fbe213246cea7c980ffec825c2"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 65,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250527-019.xml",
+     "sha256": "2dbd76dc924878969a31c012e1e48705e1357c2b95a42e1ca6b6114ce07765b5"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 65,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-047.xml",
+     "sha256": "075093718bbad3c9785b0924d2fe5210c0ab808a054276e05667405efc6313e9"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 65,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260206-002.xml",
+     "sha256": "340ddc011b4c1fa6c3468bd0738d4b45b4224fc77af5a00f6e890b0b8f208a0b"
+    }
+   ]
+  },
+  {
+   "slug": "kommuneloven",
+   "short": "koml.",
+   "title": "Lov om kommuner og fylkeskommuner (kommuneloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2018-06-22-83",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 225,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-083.xml",
+     "sha256": "b7b3cf94673f92d291c7ad8cc985e04f25a9399e658b10bbc0885e7760b3fc06"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 226,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-055.xml",
+     "sha256": "85fe410dd3720bdb48d903c968c6cd10a5bc36f6f482258c3be257f9cb42fa4f"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 226,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-057.xml",
+     "sha256": "010c234dc92ae887450a8f46ffb172bbee9f7c53b473c508f406e6797320180c"
+    },
+    {
+     "from": "2020-12-30",
+     "units": 226,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200623-097.xml",
+     "sha256": "8935834f3785e50de10474f7165ae677a24eab517e39d8520f73cd2b063726b2"
+    },
+    {
+     "from": "2021-04-23",
+     "units": 227,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210423-024.xml",
+     "sha256": "fc566fb344093a8d6175b4b9cb8e7e0a9b63120824387db15feddc2c4edc858b"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 227,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 227,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-127.xml",
+     "sha256": "bafdd4fd236cc737d3cb4852f64c35b0cda3f55d29f59bb57fb1ecc2fdca4486"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 226,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210423-024.xml",
+     "sha256": "fc566fb344093a8d6175b4b9cb8e7e0a9b63120824387db15feddc2c4edc858b"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 227,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230602-021.xml",
+     "sha256": "86856d2073d29eba0c5e6d917d8e81feb4b605e0241118498bc60af45146e6ed"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 227,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-062.xml",
+     "sha256": "2405c38c70f7990cce22b333767f53920b68756f5235a3225e0dfe6f198523c4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 227,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-096.xml",
+     "sha256": "a9a5f56238e1e35dbbf2604c5c9429a92abf6d373e09248d22e7f55a0cef2e67"
+    }
+   ]
+  },
+  {
+   "slug": "likestillings-og-diskrimineringsloven",
+   "short": "ldl.",
+   "title": "Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2017-06-16-51",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 51,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170616-051.xml",
+     "sha256": "2e40b6da7055c386c3f924ab12dc3a1f878988e7d7f977766e489a7d8f2d7416"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 52,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171219-115.xml",
+     "sha256": "0292b5fc3b8f02b0af4175ceec41525b935725e4a9cca690c2574106180cb27e"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 54,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-057.xml",
+     "sha256": "010c234dc92ae887450a8f46ffb172bbee9f7c53b473c508f406e6797320180c"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 54,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20191220-110.xml",
+     "sha256": "a29be667c1ce1d7ae6c7196367d873db4a8a17a7c5730e39ed6103c42466394f"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 56,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210611-077.xml",
+     "sha256": "125a6d1cde0afdf45060b509d0f235586ea83afdf39cf2b8c2a4f4dba1fcbb27"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 56,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240614-033.xml",
+     "sha256": "f8f97f9f38404b225e895647751c6fa4afa55e7ed3030b3b174ea55531b50ab9"
+    }
+   ]
+  },
+  {
+   "slug": "naturmangfoldloven",
+   "short": "nml.",
+   "title": "Lov om forvaltning av naturens mangfold (naturmangfoldloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2009-06-19-100",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 82,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-100.xml",
+     "sha256": "c7290171efa3bba3b26e9e88a3381a43c6bb7480ecca4187bf1db121cbe529bb"
+    },
+    {
+     "from": "2010-10-01",
+     "units": 82,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100917-057.xml",
+     "sha256": "67d810b012c70c5508f9b1fc4cc24a8c0ccd1fb82d47943a51e51c999e2cd3e3"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 87,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/sf-20130125-0072.xml",
+     "sha256": "72c3bc32592039cd1db01a0ecc64719dabc65cfd9a8cdb9419f0b5a61111e9cf"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 88,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100917-057.xml",
+     "sha256": "67d810b012c70c5508f9b1fc4cc24a8c0ccd1fb82d47943a51e51c999e2cd3e3"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 88,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120622-056.xml",
+     "sha256": "b46693356c481dc8fc755b5b82a3628b55204efab59849eec7e43bc27b353f69"
+    },
+    {
+     "from": "2012-08-10",
+     "units": 88,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120810-062.xml",
+     "sha256": "e23765d2cecf8eba570f1b8b19210f5ba92aa670030696c5296e1205c10c4106"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 88,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20121214-094.xml",
+     "sha256": "0127f5d3652f509f9dc421b4b4cd52e6afea1f845712611b26c731370c623683"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 88,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130614-048.xml",
+     "sha256": "c6692eed0fb140860be174248de3607f9c543d298f0f0210960ee2f42d9d87ce"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 89,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130614-050.xml",
+     "sha256": "2341e21b3f35d2e96c1dd0f7605400440d25ed74a9541f51b4a1e82999f242c1"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 89,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130614-051.xml",
+     "sha256": "31dc1e30e2d9e422d1bd44c1b094f634a7c9a0ad2496774dd6fd9af227b6e47f"
+    },
+    {
+     "from": "2014-06-01",
+     "units": 89,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140328-009.xml",
+     "sha256": "b09192db2020d05f8123c9af6775b023c355d9ad45b5b0b20557942845f3301a"
+    },
+    {
+     "from": "2014-06-20",
+     "units": 89,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-050.xml",
+     "sha256": "bf78c41879fc35b57cd1634ebd0c064d352d8b8a992b752a8016cb08c54065d6"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 90,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/sf-20151218-1583.xml",
+     "sha256": "8241c114ed671c1f9decbf3611c88df37a9c0b2ab30cd7406fd878fb47244ea8"
+    },
+    {
+     "from": "2016-11-18",
+     "units": 92,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161118-083.xml",
+     "sha256": "5c586ff530b237ddb0482095cb5d78500fbeb0c925cc9ee8a3ba370c1b81181b"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 92,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170511-026.xml",
+     "sha256": "f4e2c17396eb4a9d10fab2a7884ae64884ee4cef8097b3bb604bdde58933e2f4"
+    },
+    {
+     "from": "2018-12-14",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181214-094.xml",
+     "sha256": "c1514027b61a15ae56a1a738a7b40c180ff420713201f89ba3ad201008c0159f"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-054.xml",
+     "sha256": "5738483ee2c7f6a97499ee044c22524688c76474380d13270326fc8adfd9f775"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200619-087.xml",
+     "sha256": "868ba32e0bbbee45805f80c7c9febd3cfe54b3984f4cfef7ee111e752f950e60"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200619-088.xml",
+     "sha256": "e1b1a3ae50209c4254962f5268b48a5107d3cbdeac62c7110cd38b78bf39ed7a"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-054.xml",
+     "sha256": "5738483ee2c7f6a97499ee044c22524688c76474380d13270326fc8adfd9f775"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2022-06-17",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220617-064.xml",
+     "sha256": "6bb97973b8625ceef4533ad7a59ed2c27bb1cb8701ac46474cda1020ccc9eb13"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241206-074.xml",
+     "sha256": "accd07685952ff51315a05861890305673abc64be4799568acd5e672431ca248"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250328-006.xml",
+     "sha256": "90fa3c4b10b89bd4430b631f8dabdb5fc672e1634d36894fc9702005616002a6"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 93,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250425-012.xml",
+     "sha256": "a4469e70a433e11cbf6911e0631651a937f5b13e4349eeb35cda5513610eee1b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 94,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251222-130.xml",
+     "sha256": "2112067f2d88f85954078334fcac8bf36af821b362072408d5c8efa198db548f"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 94,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-102.xml",
+     "sha256": "c5d21d123d386299d7568ff1302d90474781738464bd027802ea4b81cf967499"
+    }
+   ]
+  },
+  {
+   "slug": "offentleglova",
+   "short": "offl.",
+   "title": "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova).",
+   "url": "https://lovdata.no/dokument/NL/lov/2006-05-19-16",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20060519-016.xml",
+     "sha256": "c13a3221150026c2c1cdf331866440a07e10f776ddaa0391017ed1b64df8a5ee"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20060630-052.xml",
+     "sha256": "6e9c4f32d404e5517e1ad6a1fe5c2aac7116d874ef6bbc8962d7944ff4fc7ced"
+    },
+    {
+     "from": "2009-01-30",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090130-007.xml",
+     "sha256": "20769a83d0b5cefea4642f8f1fcb2e61e0dd2c419f81b306c2e05d703cd31abe"
+    },
+    {
+     "from": "2011-12-16",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20111216-062.xml",
+     "sha256": "767b7312cabc6fc487d3eaacfb874e5df08634cf97fbe98aab807ef8c546aacb"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20141219-092.xml",
+     "sha256": "f1dec77f379fad1ca1a359605828df014894699f2e51af13845c5661877d1f3c"
+    },
+    {
+     "from": "2015-06-19",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150619-064.xml",
+     "sha256": "f29a579974914dcb06c916cabd8c7c09dda8ae79ac2e14d7ce0d0da5b30ccaf3"
+    },
+    {
+     "from": "2017-04-21",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170421-018.xml",
+     "sha256": "30bec3f0325ad0f8a94948e1d42efe1235fb2a626f34ebc3f5d14b90ca92f9d8"
+    },
+    {
+     "from": "2017-04-28",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170428-022.xml",
+     "sha256": "13bb7a6a585ca34036602bb56e6d91741e4b7219d2896029580575793f30ed58"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161209-088.xml",
+     "sha256": "c7ba2bf1031d4e3008c73be1cff7f2d80edd3f838cc3e807f6b9630fc6be251e"
+    },
+    {
+     "from": "2018-07-20",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-038.xml",
+     "sha256": "069f4e1d1153ebe65c4e9f075f2a12193c012df9e880537648400e7d338633ba"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-083.xml",
+     "sha256": "b7b3cf94673f92d291c7ad8cc985e04f25a9399e658b10bbc0885e7760b3fc06"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200424-031.xml",
+     "sha256": "f1e96dd4a9031b2ba9c8d34e6412c88a3c6cb0e4c42f3b330a84c06d9ce0faf2"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200619-077.xml",
+     "sha256": "c2871640410650321243aab6d4eba82d8afc889601d52d69fa023489cedee7ed"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2021-06-18",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-124.xml",
+     "sha256": "036fbacd01aaef0ef4ecf512c0fd0768f40e5569df638342aba184559d8b856a"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210611-076.xml",
+     "sha256": "63bbc60d07ee887407a100674d27f29e30aafaeec0fc76005062d35e86b3b042"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-124.xml",
+     "sha256": "036fbacd01aaef0ef4ecf512c0fd0768f40e5569df638342aba184559d8b856a"
+    },
+    {
+     "from": "2022-12-20",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221220-115.xml",
+     "sha256": "6a18f09c47debdbea59495b05f1efec5a841376c23155da3e7b07eca27ba852c"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250328-005.xml",
+     "sha256": "a579b2ab67a4c711a87053e13d5cd4ec0d3390d378a4e1941eb89e3f550116d5"
+    },
+    {
+     "from": "2025-06-20",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-051.xml",
+     "sha256": "9cc9dd4ea7cd97cd416df5a44249d838a10ebf7d22567391299b18dc17c6c724"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 39,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260529-020.xml",
+     "sha256": "87f263bfaae1b1b26eb1153ec540a19630503eb53454677d24a1817e736f1d16"
+    }
+   ]
+  },
+  {
+   "slug": "opplaeringslova",
+   "short": "opplæringslova",
+   "title": "Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)",
+   "url": "https://lovdata.no/dokument/NL/lov/2023-06-09-30",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 236,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230609-030.xml",
+     "sha256": "393a432f571dfe723d04b4e5be1cdc2127c77c20bb98147a675533c616d277af"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 236,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240308-009.xml",
+     "sha256": "c2de45641f6e497866e4f3b1e37daad1c563fedd9e6986a5cbb9d6507dfe9a6f"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 239,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240614-036.xml",
+     "sha256": "d16665e881f40db0da7dde34d2f5ad639846ef63f2f357af4d4c4a5f188f33f3"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 239,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240625-053.xml",
+     "sha256": "1e9ed4aa11f45b69e230ca79e8c8da4d02385cfeba4bce2994d69e658152623b"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 239,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250523-016.xml",
+     "sha256": "f25d33eeb0a3095ef31fb3064e5c1b95eee93836529fa6ba505724e581cb852c"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 240,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-098.xml",
+     "sha256": "01b6207a695ff655ad2287ee34ce9ac60ed2b41933c34fd30febe19c1a918cd5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 240,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-039.xml",
+     "sha256": "d2014ebf73d3735edd281fdb13b934f9be93ae237a372789fecf5c5fcf9e3be1"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 240,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260213-006.xml",
+     "sha256": "c06fd8d7eefa05c84067cdacdb7e52f309f39500ed00a5fcaff3524bf86f6e5a"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 240,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-059.xml",
+     "sha256": "f0da69a49c8e12cb166cf0bd305e6b3e4666ed77ec3cb468293ed3caff800b32"
+    }
+   ]
+  },
+  {
+   "slug": "plan-og-bygningsloven",
+   "short": "pbl.",
+   "title": "Lov om planlegging og byggesaksbehandling (plan- og bygningsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2008-06-27-71",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 122,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20080627-071.xml",
+     "sha256": "cb8af8c93172ef7ae666188d850adf2f395369cbe5207bd2c9b4721349a700f9"
+    },
+    {
+     "from": "2009-07-01",
+     "units": 122,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090508-027.xml",
+     "sha256": "b33c233e848a3d7bf439c350746c4b172e49a80d1206d5fbd36e57a374623080"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 126,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/sf-20100618-0896.xml",
+     "sha256": "1e8f7d17265c621252d71f380100a837ff949d89ba89cda734c7e531d0e76884"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 260,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090508-027.xml",
+     "sha256": "b33c233e848a3d7bf439c350746c4b172e49a80d1206d5fbd36e57a374623080"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 260,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100625-048.xml",
+     "sha256": "00275b4f2ed68f31ed3cf4e900a7b588574a2eabbe40756f68786ab840821223"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 260,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-030.xml",
+     "sha256": "557b1e9a61ea879d57052af58da6306e22f0752b78048cc64f1f90dd34bbc42e"
+    },
+    {
+     "from": "2012-08-10",
+     "units": 260,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120810-061.xml",
+     "sha256": "ca3a50f352b0d2477ae63fda0da5d657956a56cb895193d87082cdc2f0872a09"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 261,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090508-027.xml",
+     "sha256": "b33c233e848a3d7bf439c350746c4b172e49a80d1206d5fbd36e57a374623080"
+    },
+    {
+     "from": "2014-06-01",
+     "units": 261,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140328-009.xml",
+     "sha256": "b09192db2020d05f8123c9af6775b023c355d9ad45b5b0b20557942845f3301a"
+    },
+    {
+     "from": "2014-06-20",
+     "units": 266,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-052.xml",
+     "sha256": "b3bb8fdee14b39f41f0facebea7f02f53799f2598a5c7e4eccbdfff140d6f95a"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 266,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20141219-091.xml",
+     "sha256": "de41dbdf74ca8fa7ce8f2e6e9eeddc4a19e1d90072ae136abfb69c7590fce5c8"
+    },
+    {
+     "from": "2015-03-13",
+     "units": 266,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140912-064.xml",
+     "sha256": "de3f9c49c17f9e2c35174613ede26aea567623084d524915241ebd465d7d8ef8"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 270,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-052.xml",
+     "sha256": "b3bb8fdee14b39f41f0facebea7f02f53799f2598a5c7e4eccbdfff140d6f95a"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 270,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150619-065.xml",
+     "sha256": "13637782b8d728afafb51cbbd9ac88fe1cb4e78c97ac0db26ab093fbaefa9a72"
+    },
+    {
+     "from": "2015-11-13",
+     "units": 270,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-052.xml",
+     "sha256": "b3bb8fdee14b39f41f0facebea7f02f53799f2598a5c7e4eccbdfff140d6f95a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 270,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130621-100.xml",
+     "sha256": "fea44d160946984f7fff366ba580a32db5e9940d3c949d8ebfa41456e4f790ad"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 272,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-052.xml",
+     "sha256": "b3bb8fdee14b39f41f0facebea7f02f53799f2598a5c7e4eccbdfff140d6f95a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 272,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150904-089.xml",
+     "sha256": "7c4e4ce58da35eb77b274049a49e96f4580c4cad88f00cdd9f6296df3a04a5e9"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 272,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161216-100.xml",
+     "sha256": "eff3b1f2dcb5a68b9fb0263ccb658dc8d6396ab64b0e72581b65741039fc5994"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 274,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170428-020.xml",
+     "sha256": "3c24ea5b481b85083ece92d67f8143ff9b3e10d260fe3ecd4ebb23427d99092c"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 275,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170621-097.xml",
+     "sha256": "a7d2c1fe0f103d851c93b72b4fa60e935a9da81ea2f65f314aec9a5102cd5747"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 275,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170511-026.xml",
+     "sha256": "f4e2c17396eb4a9d10fab2a7884ae64884ee4cef8097b3bb604bdde58933e2f4"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170616-063.xml",
+     "sha256": "da53c86475ba43c68c1e075bfe0d948f2ae0b375f3b0fca2a7c35bb21e9a3138"
+    },
+    {
+     "from": "2018-04-20",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180420-012.xml",
+     "sha256": "ba10743be7a0684e5d2d2fd15116c5e65861dc86aedde239e00905ac9ba09253"
+    },
+    {
+     "from": "2019-03-08",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190308-005.xml",
+     "sha256": "e5a22ac4a492b2de64d8ce2c990c5-838c233478233308bafbc21b0ed827ef6"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-083.xml",
+     "sha256": "b7b3cf94673f92d291c7ad8cc985e04f25a9399e658b10bbc0885e7760b3fc06"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-052.xml",
+     "sha256": "18ae30d34ec11a65940f254a11d45e65f5fd99e357728574dd7aa560a131fa18"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-068.xml",
+     "sha256": "2c11e1feb60c5c0897a3b5f9f1240611deb03284bdafed0890939813051f0bf9"
+    },
+    {
+     "from": "2020-05-26",
+     "units": 277,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200526-050.xml",
+     "sha256": "54cc7530baf4062e3484659960c5f4f9dfcedeef7f0dd53b895580140979f872"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 277,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180420-012.xml",
+     "sha256": "ba10743be7a0684e5d2d2fd15116c5e65861dc86aedde239e00905ac9ba09253"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200526-050.xml",
+     "sha256": "54cc7530baf4062e3484659960c5f4f9dfcedeef7f0dd53b895580140979f872"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 277,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-151.xml",
+     "sha256": "56f301b0fd85904bdfcfa36-603e42e888450015c711441de0f29df7e9a8cf75"
+    },
+    {
+     "from": "2021-05-11",
+     "units": 277,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210511-037.xml",
+     "sha256": "798c71301fa8a21cc472a4a07bacd5c761f3d823057c6dc6a0d2e0994e9c2485"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-151.xml",
+     "sha256": "56f301b0fd85904bdfcfa36-603e42e888450015c711441de0f29df7e9a8cf75"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 276,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 277,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210528-048.xml",
+     "sha256": "d115b3fb691591c48b4b611b50e9db2ae8ed017047f3dc7ce4001c07f6df2b1a"
+    },
+    {
+     "from": "2021-06-04",
+     "units": 278,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210604-057.xml",
+     "sha256": "b07c2cf17d7f3fee2680a9875239257779e77416789d3b609a544f30dfd2fc1f"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 279,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170621-097.xml",
+     "sha256": "a7d2c1fe0f103d851c93b72b4fa60e935a9da81ea2f65f314aec9a5102cd5747"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 279,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210511-037.xml",
+     "sha256": "798c71301fa8a21cc472a4a07bacd5c761f3d823057c6dc6a0d2e0994e9c2485"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 279,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-130.xml",
+     "sha256": "b9f5b3c9cc9c55c1ece864f5aa114ad42eac53773cfc4289adcccef0824fe6a4"
+    },
+    {
+     "from": "2021-12-01",
+     "units": 278,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210528-048.xml",
+     "sha256": "d115b3fb691591c48b4b611b50e9db2ae8ed017047f3dc7ce4001c07f6df2b1a"
+    },
+    {
+     "from": "2022-06-15",
+     "units": 280,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220610-035.xml",
+     "sha256": "c2ecd6b303da8ae9eb11ac52500570b787e978aa4df1bcc3a2f76d89e0c0c1c8"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 288,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210511-037.xml",
+     "sha256": "798c71301fa8a21cc472a4a07bacd5c761f3d823057c6dc6a0d2e0994e9c2485"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 289,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-073.xml",
+     "sha256": "fac5ed830841db2957403fd60b5ec891f2e8e4086357d56138e683b8b794cac8"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 291,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221202-087.xml",
+     "sha256": "fb68e5def7d11ebb261c38e3f1cc3a44f5848a4de8850888e7e322c24cd7376a"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 291,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-052.xml",
+     "sha256": "2a05301365f9e73189d45d556175075f48d9ba7047edb986a5835f7db7153dca"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 291,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240625-053.xml",
+     "sha256": "1e9ed4aa11f45b69e230ca79e8c8da4d02385cfeba4bce2994d69e658152623b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 292,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-052.xml",
+     "sha256": "2a05301365f9e73189d45d556175075f48d9ba7047edb986a5835f7db7153dca"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 309,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-093.xml",
+     "sha256": "ecc5d293a42d73700af7a529f3beb54aed9c027942ebc32761d82652a6f529b4"
+    },
+    {
+     "from": "2026-01-17",
+     "units": 309,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250527-021.xml",
+     "sha256": "e62aeb11eb7d57dab193c2d3ba76aa15 B-82bbd27698cd2598c187059e0f766"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 309,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260306-007.xml",
+     "sha256": "d1934bcf78230c8a59828685d758ca9bac8f292ebdeddee3da31480efe08f518"
+    }
+   ]
+  },
+  {
+   "slug": "samvirkelova",
+   "short": "samvirkelova",
+   "title": "Lov om samvirkeforetak (samvirkelova)",
+   "url": "https://lovdata.no/dokument/NL/lov/2007-06-29-81",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 189,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070629-081.xml",
+     "sha256": "1283287bdf97d984a30d7c00ab77b5dced933743a54a233e2cd5dda080631708"
+    },
+    {
+     "from": "2011-07-01",
+     "units": 189,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-033.xml",
+     "sha256": "c35178eb63c855a34fa41ed992ef5125bbdb648b0ac78fab507d1ecda49a81b9"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 189,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100326-009.xml",
+     "sha256": "ece010f29babb1dafcbed17b39c6d630e755c02e1bdab467fb30e5fdf17f627a"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 189,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130614-041.xml",
+     "sha256": "c5e0788f127b90b5e334c59e567a45e6ba8e98094a209441c0e0de6b22a2baef"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 189,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130621-075.xml",
+     "sha256": "34a818b5d5767a6c8576854e229eda67d78889efe8fcb47d95904c71022a766c"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 189,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-025.xml",
+     "sha256": "1f1ecde86fa92a464de007ab2e8682fe7759afa61478c96a6fe97c682c374113"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 189,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150410-017.xml",
+     "sha256": "364b8dc4fae73329a0ed7beae396c4c7f4349d959d7dc6eb18dc24bbcbe7f64b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 190,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201120-128.xml",
+     "sha256": "473ea4fd0fc9454f469ddd62ee4c8c1499d0770bcf9f040e7e4b48341a94317c"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 190,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190614-021.xml",
+     "sha256": "4b81ed4ea8fb86e97cccbda048f303def39d14b1c541038710a54752b1172c9e"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 191,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210528-051.xml",
+     "sha256": "0eb51e3c1f12a2d6ceada25caebf882f223f9fb849861374d640474c617d2c61"
+    },
+    {
+     "from": "2021-12-01",
+     "units": 191,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210528-051.xml",
+     "sha256": "0eb51e3c1f12a2d6ceada25caebf882f223f9fb849861374d640474c617d2c61"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 191,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-122.xml",
+     "sha256": "d89f7c4de1a24e66ff524775ab9e45e235979cc5732149451e6e59345640244b"
+    },
+    {
+     "from": "2022-12-20",
+     "units": 191,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221220-122.xml",
+     "sha256": "ef7c825230bf368e67a89d16b1bafc63e6b24b1de1eb827fee10d3ae4c0f53a0"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 191,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-067.xml",
+     "sha256": "889a78d97a10ec0a9f626130cb25df6658e704eba2b0bbfe4b3eff8debc18e94"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 192,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-114.xml",
+     "sha256": "e5c37a1adaecaacaa8a7b953d059f87098abfbfa3f7a321a58a215bdf9de488f"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 193,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-042.xml",
+     "sha256": "e245b3c0a4bdf6d70c22c6286cefafafd1c121b35fb6e5b46190b9471e060be7"
+    }
+   ]
+  },
+  {
+   "slug": "sikkerhetsloven",
+   "short": "sikkerhetsl.",
+   "title": "Lov om nasjonal sikkerhet (sikkerhetsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2018-06-01-24",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 80,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180601-024.xml",
+     "sha256": "b568a3dab6b0796590bad43b3d5622aefff3a39fae0aeef654c032558b172246"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 81,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230620-077.xml",
+     "sha256": "ae1a6b793d09f6941e61d4b6168697b72cc37990b5251fd4c6d4abe973a8be80"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 81,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-110.xml",
+     "sha256": "718636924321bc1d2bf8b8cb1d58241796631bdb2b307fe3e31f3ef654a54b84"
+    },
+    {
+     "from": "2024-06-14",
+     "units": 81,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230620-077.xml",
+     "sha256": "ae1a6b793d09f6941e61d4b6168697b72cc37990b5251fd4c6d4abe973a8be80"
+    },
+    {
+     "from": "2026-10-16",
+     "units": 81,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260623-074.xml",
+     "sha256": "0400d0bc40f1dc7a96eb8630a30ce214a758fb4ecfb81f90ac5695cfe8b19c5c"
+    }
+   ]
+  },
+  {
+   "slug": "skatteforvaltningsloven",
+   "short": "sktfvl.",
+   "title": "Lov om skatteforvaltning (skatteforvaltningsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2016-05-27-14",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 156,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160527-014.xml",
+     "sha256": "2f10f2edba78f33ef59cc061c481451f756cbce9e4e66eac54931c88678aa9be"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161220-120.xml",
+     "sha256": "8fb23cf478e21072b90e8311eebcee30096c2fa0332911d9bc86adac602ddd58"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170511-026.xml",
+     "sha256": "f4e2c17396eb4a9d10fab2a7884ae64884ee4cef8097b3bb604bdde58933e2f4"
+    },
+    {
+     "from": "2017-06-21",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170621-086.xml",
+     "sha256": "7a2b0c36a1343bc70bd9fd9bac7c21212dc0cf8661bf33c9af4c99a154708442"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161209-088.xml",
+     "sha256": "c7ba2bf1031d4e3008c73be1cff7f2d80edd3f838cc3e807f6b9630fc6be251e"
+    },
+    {
+     "from": "2017-12-19",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171219-128.xml",
+     "sha256": "12664c48387a974f3a02e48155777ef5c95c31da427a71b5305acf412b7ffdbb"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171219-128.xml",
+     "sha256": "12664c48387a974f3a02e48155777ef5c95c31da427a71b5305acf412b7ffdbb"
+    },
+    {
+     "from": "2018-04-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20171219-122.xml",
+     "sha256": "e05710432ab20a2f393b4207b14c8713b31ace48e1488ff948c64811534ae5c5"
+    },
+    {
+     "from": "2018-06-22",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-071.xml",
+     "sha256": "93839a43fd6eb566e62ffec81f763ec2cdf0070c6d5a3485575cd4b2d074030e"
+    },
+    {
+     "from": "2018-06-22",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-071.xml",
+     "sha256": "93839a43fd6eb566e62ffec81f763ec2cdf0070c6d5a3485575cd4b2d074030e"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-071.xml",
+     "sha256": "93839a43fd6eb566e62ffec81f763ec2cdf0070c6d5a3485575cd4b2d074030e"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161220-120.xml",
+     "sha256": "8fb23cf478e21072b90e8311eebcee30096c2fa0332911d9bc86adac602ddd58"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-071.xml",
+     "sha256": "93839a43fd6eb566e62ffec81f763ec2cdf0070c6d5a3485575cd4b2d074030e"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-110.xml",
+     "sha256": "2adb7e932a4fb74623e057382957b24f12a5f6ebe24709253a6d4645f36e9c8c"
+    },
+    {
+     "from": "2019-06-21",
+     "units": 157,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-038.xml",
+     "sha256": "b7b2bcfc9f8db8153a2dd0254e15d300c64f387a39bcd28e41880e498d71939a"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 159,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-110.xml",
+     "sha256": "2adb7e932a4fb74623e057382957b24f12a5f6ebe24709253a6d4645f36e9c8c"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 159,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-025.xml",
+     "sha256": "051544219dcf9a6d7ca389e14765fb5ef431c04a08e863bcb0e328cef2e4fa5d"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-110.xml",
+     "sha256": "2adb7e932a4fb74623e057382957b24f12a5f6ebe24709253a6d4645f36e9c8c"
+    },
+    {
+     "from": "2019-12-20",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20191220-101.xml",
+     "sha256": "76ced88489a2120a59bef435d79c9f892bf4ae1e8159cdf4689755baca649fde"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-110.xml",
+     "sha256": "2adb7e932a4fb74623e057382957b24f12a5f6ebe24709253a6d4645f36e9c8c"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190315-006.xml",
+     "sha256": "9ba08032a7a254680c765a4e621b2317b0e907d431df45659e2bef2a5fdd2515"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-068.xml",
+     "sha256": "2c11e1feb60c5c0897a3b5f9f1240611deb03284bdafed0890939813051f0bf9"
+    },
+    {
+     "from": "2020-06-23",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200623-108.xml",
+     "sha256": "441ea2b71ed96f3d36490faea299a51b36fab2d29340bb71d913e6446a0e70ff"
+    },
+    {
+     "from": "2020-12-21",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201221-171.xml",
+     "sha256": "90753f2a042c553fb0feef2d5f6da80204ff04b95d526922e7ea566f92454420"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201106-127.xml",
+     "sha256": "cb823a39e4d3874e05d85a0d38000a6d11f5177b09802a998acc3e09e48d0844"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190614-021.xml",
+     "sha256": "4b81ed4ea8fb86e97cccbda048f303def39d14b1c541038710a54752b1172c9e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-161.xml",
+     "sha256": "7bf2bf7ed3ab12cc547b39fd168e0774cc9c8868b6d6d125aadc246504aec064"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201221-171.xml",
+     "sha256": "90753f2a042c553fb0feef2d5f6da80204ff04b95d526922e7ea566f92454420"
+    },
+    {
+     "from": "2021-05-15",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210430-028.xml",
+     "sha256": "1a2fc28e9d399fe96205818bcfd348d4312b9bab6e679b3d42d620c7e69e5141"
+    },
+    {
+     "from": "2021-06-18",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-109.xml",
+     "sha256": "22cc3717012b112f7b46d3108b89b6ae1e5e95c87c0feacd473a661c24b66cce"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 161,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201221-171.xml",
+     "sha256": "90753f2a042c553fb0feef2d5f6da80204ff04b95d526922e7ea566f92454420"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 162,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20211222-158.xml",
+     "sha256": "e1910cec9afb9fb49133b76db2b72fe16d4eb4b968a007c76e0ac7e6fc4d32ba"
+    },
+    {
+     "from": "2022-06-22",
+     "units": 162,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220622-075.xml",
+     "sha256": "25a7270f1c1697cf8135b7cffaac1e4d863dca0d28d651ec4fb56ad9ffd56ac7"
+    },
+    {
+     "from": "2022-12-20",
+     "units": 162,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20221220-115.xml",
+     "sha256": "6a18f09c47debdbea59495b05f1efec5a841376c23155da3e7b07eca27ba852c"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 162,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220304-007.xml",
+     "sha256": "dcc98d9a63e783281bf8648c586f6f7928b2e3457d19-760d7fc1d421d46b4c1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 162,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220311-008.xml",
+     "sha256": "463770011322eafda32d2d72072c77253e1662f474441af3d7e5212c7def00d4"
+    },
+    {
+     "from": "2023-12-20",
+     "units": 162,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-101.xml",
+     "sha256": "f2368436177efd1b3f54-311ca7bbf83acc63ab182c8c1a937dd0fde1c810ed6"
+    },
+    {
+     "from": "2023-12-20",
+     "units": 162,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-105.xml",
+     "sha256": "b443f64d654f64091b1e450990e859deffcd2b239a321553da479fab1027695a"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 163,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-105.xml",
+     "sha256": "b443f64d654f64091b1e450990e859deffcd2b239a321553da479fab1027695a"
+    },
+    {
+     "from": "2024-01-12",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240112-007.xml",
+     "sha256": "e7b830040953c56aaeea1719e2ce10cd3176644aef14ee3d5fbb351e7d4632b5"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240322-011.xml",
+     "sha256": "3de50e5292d82659b6da2e56a7b16dc4b3c1de8198420b055a30bbe9c423b141"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240531-025.xml",
+     "sha256": "918bde0723626b205b6b1653d1f4480c4283b512c4be5b62fa971d0744464a4c"
+    },
+    {
+     "from": "2024-12-20",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241220-089.xml",
+     "sha256": "599bf6e86b19958453676cefdf946ef5ee6885be111312605593e4695787d18b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220512-028.xml",
+     "sha256": "00e45418b238788160764df3154354038ed356b704a54707bdb47dfdf27da38c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241220-089.xml",
+     "sha256": "599bf6e86b19958453676cefdf946ef5ee6885be111312605593e4695787d18b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241220-093.xml",
+     "sha256": "440ab027825d5ee4d6195cd352ce0b7de94a12047292a318388dcb67e2cb15b7"
+    },
+    {
+     "from": "2025-06-20",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-059.xml",
+     "sha256": "0bc4b46e135edda6045c9bdb2e35a54adf0b2f0f261b1357e59fb6fad9d6e748"
+    },
+    {
+     "from": "2025-06-20",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-064.xml",
+     "sha256": "39bfa7566c6fc0687d44b8ee58dbed3e42d121dcf8253dc3a52f721b6b249485"
+    },
+    {
+     "from": "2025-12-22",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251222-122.xml",
+     "sha256": "599f47ebd88b2b3603e27379e8f6a9e4c149559e9e1ca6d709e760e6f018d2ca"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250425-012.xml",
+     "sha256": "a4469e70a433e11cbf6911e0631651a937f5b13e4349eeb35cda5513610eee1b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 164,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-059.xml",
+     "sha256": "0bc4b46e135edda6045c9bdb2e35a54adf0b2f0f261b1357e59fb6fad9d6e748"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 166,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-064.xml",
+     "sha256": "39bfa7566c6fc0687d44b8ee58dbed3e42d121dcf8253dc3a52f721b6b249485"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 166,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251222-117.xml",
+     "sha256": "cd27dc8188884c5ae8a4d75e532dc13a04b1858a8ad27748a5dc25348555223e"
+    }
+   ]
+  },
+  {
+   "slug": "straffeloven",
+   "short": "strl.",
+   "title": "Lov om straff (straffeloven).",
+   "url": "https://lovdata.no/dokument/NL/lov/2005-05-20-28",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 119,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20050520-028.xml",
+     "sha256": "b405ad4434c19109343fee3fa30cd31ec1be499098205420dfae323339d3f8b8"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 119,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20051221-131.xml",
+     "sha256": "926797f8c1fc55d3ee011746f9bcf50edeea8b1e8c9e421ec5cb5c80ef3832ec"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 119,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2006/nl-20060630-045.xml",
+     "sha256": "6b1bd3242e523a6e1bb0d1b65b0b2e2760c2a811a2dd89b8b1ca348c01df0941"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 119,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20050617-090.xml",
+     "sha256": "f1c807517a29120c8d8ba87f6039ae5dfffaca5f2b384cc5bbfa9bfa4ef3c464"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 119,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070629-081.xml",
+     "sha256": "1283287bdf97d984a30d7c00ab77b5dced933743a54a233e2cd5dda080631708"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 211,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20080307-004.xml",
+     "sha256": "cd9379f9431a9a9fb5ec65a42be23f369133b9fc2c24603ec279a438923e1e99"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 211,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20080620-047.xml",
+     "sha256": "ffffc6bc73cf3f31c834f79523dd30854ba4b0552268789f604f311fdb579594"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 211,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20080627-053.xml",
+     "sha256": "abbf0d4e488c57b9cd8f4a9a523f8c7c1c1520aa54bd1755900ec9898ead32cf"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 395,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-074.xml",
+     "sha256": "7ec6a1b4ae319b86ae6735eb2e969022e827afad552c9f9e8a9e4e12db1304d4"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 395,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100625-046.xml",
+     "sha256": "fb74446b4ed71411d49de61cfa5857720700d562792247b0bb853850b356f581"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 395,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-030.xml",
+     "sha256": "557b1e9a61ea879d57052af58da6306e22f0752b78048cc64f1f90dd34bbc42e"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 395,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-032.xml",
+     "sha256": "e00ba0a502373b0b84817aa11a036058afad44caeccecf7b9e3303c698ef440b"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 395,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-034.xml",
+     "sha256": "6ebe74d4c8a04fe87abf882c87edff7e7b86dcbae0d38dce6bf5ea78b7c1a5bb"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 399,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120120-006.xml",
+     "sha256": "79157ffcb5740b448fa2faf0256a29b6949e3cc6997c3c2d36b61489577c9472"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 399,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120511-026.xml",
+     "sha256": "0cb4ecc72b84e8bf953a68eaf4a943111baab4803e08df5e65faa0d8e6da97be"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 399,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120622-049.xml",
+     "sha256": "2f563250856896bafca574472dbd2dea2c364e96ecd2099e41eef2adc325637b"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 399,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100326-009.xml",
+     "sha256": "ece010f29babb1dafcbed17b39c6d630e755c02e1bdab467fb30e5fdf17f627a"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 399,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130531-025.xml",
+     "sha256": "6d8a4b169477ab3d51e8140df617aef3a31cca7fc61e9cae6d2bd0b6108ce0cd"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 402,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130621-085.xml",
+     "sha256": "c09f776bd1391558f4dcc36585968cb98599b8e17a932a4b643bd50a2e7964f4"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 402,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140328-009.xml",
+     "sha256": "b09192db2020d05f8123c9af6775b023c355d9ad45b5b0b20557942845f3301a"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 402,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140509-016.xml",
+     "sha256": "37d6161cc31da1cf580bbec0029821d6b1374cc51db9902ec33633104ad6a554"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 402,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2014/nl-20140620-049.xml",
+     "sha256": "6d312344f9f1d002cf32ee36dc076f84e1fd07e827c34fbf9124aa8c3c3658d6"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 402,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150529-036.xml",
+     "sha256": "6a6f326a1ebd11e547bda510a7bd8c35fba74e8ec8abc2b0ae0b9d328c2ff5a9"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 405,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150619-065.xml",
+     "sha256": "13637782b8d728afafb51cbbd9ac88fe1cb4e78c97ac0db26ab093fbaefa9a72"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 405,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20151218-126.xml",
+     "sha256": "06a85305a319cad2005e7d0f08b7b1945465491f736063d02f77aa68c67ba041"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 405,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160422-003.xml",
+     "sha256": "620d8efa4aed6aebf016bd412b14c104e30ab843c3294e1ab60c085b20166ca0"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 405,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160617-051.xml",
+     "sha256": "3302090f212ecc24f538d48fd8c313cd276b41dc01de5a8a39fe6b3a4c3099b9"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 409,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160617-052.xml",
+     "sha256": "3550d43576d986166af84685990c97af20d9927cc7ac04cfb027d345b1b1757a"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 410,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160617-053.xml",
+     "sha256": "9c5e7144ce52c0adec51bf3bf3810b29ec13fde4db2840180de754e511bbccf1"
+    },
+    {
+     "from": "2016-10-01",
+     "units": 410,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160429-007.xml",
+     "sha256": "f85edf50284df7b743125583c708842a84acec3791b155d6df8a1298e4b49962"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 410,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20161216-098.xml",
+     "sha256": "40403a17a4130865807bac4791a52a234d588bb7796393ee8108f0f81b426871"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 411,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170621-090.xml",
+     "sha256": "f446ae6a2f87e4e326616ea88b14a065870de3da3f474fe2c6cda7e9e3c817ac"
+    },
+    {
+     "from": "2018-05-06",
+     "units": 411,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170621-094.xml",
+     "sha256": "196592d2d82ca0a8f6cf70ae1386f830643c2ca378ff81ecd2abb51f3dc89d7c"
+    },
+    {
+     "from": "2018-06-01",
+     "units": 411,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180601-025.xml",
+     "sha256": "fadb4e70c306353bf5f774ae419fd2d3b9586c80d575eddf6a684785fb6dd88f"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 411,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-037.xml",
+     "sha256": "abc2e59129736059baa21c7dc6924ee4589e470e9c25c07b98ff41a57739ca96"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 411,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180420-006.xml",
+     "sha256": "ff809d67f44483d61b0d3c57d873a710ba131c4f6cccf366b506bda047b27392"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 411,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180525-019.xml",
+     "sha256": "c9f077a2612b79fa46269a6662375e5f1c0deeaf04a3e4156f44ec49d9121e41"
+    },
+    {
+     "from": "2019-06-07",
+     "units": 413,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190607-019.xml",
+     "sha256": "a29eac114e0b2e864d44aeb90d886fa468061f5d973041128ce623b1e0221819"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 415,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-050.xml",
+     "sha256": "804fd2b7f2a3c76c5411803be114264818cd17e0585900fa185d26a8d7a2e86d"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 415,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-052.xml",
+     "sha256": "18ae30d34ec11a65940f254a11d45e65f5fd99e357728574dd7aa560a131fa18"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 413,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200529-059.xml",
+     "sha256": "a526a156ff93fe4171ca7daa3f0183867b2b8f2c62e1313b1d5bf7833a957525"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200619-081.xml",
+     "sha256": "7d973d7b2acd68eb0aa64961942152a0d5ed539cce4f6870f6055b21ba185869"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-048.xml",
+     "sha256": "e72e55031e479299d246ce1383e0f58070cd73ba5da09e229efece46286f3665"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201204-135.xml",
+     "sha256": "4514eddc76c5b6568f77f583d4368eb3c1b36824246757b85fb5afb336db0ae2"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 415,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200327-015.xml",
+     "sha256": "8d6cf6d98b01f8b68e3f18b5f61f269ae6c1bd3fef08f8e149202aeca470aa0f"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201204-135.xml",
+     "sha256": "4514eddc76c5b6568f77f583d4368eb3c1b36824246757b85fb5afb336db0ae2"
+    },
+    {
+     "from": "2021-03-05",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210305-006.xml",
+     "sha256": "827181d157af2245691ccb9af9059cd9183a0c7c8d5b6881b02ab37a845d7b88"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210305-006.xml",
+     "sha256": "827181d157af2245691ccb9af9059cd9183a0c7c8d5b6881b02ab37a845d7b88"
+    },
+    {
+     "from": "2021-04-16",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210416-018.xml",
+     "sha256": "ee2e4ae04a78396c6b19f600cd8dad86f39f3dc51dd0e92afe5e2865e63bfbf7"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-033.xml",
+     "sha256": "94aa1538982fa9a03a8dc4ac874dafb1ca3ae1a7720f39d5a4f01dc0ce899aa6"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 419,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210611-074.xml",
+     "sha256": "df18f7782f435d688a3accd1042f9f194dc165504ac42cfa48bce769fef9cfa9"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 420,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-128.xml",
+     "sha256": "a08dd160effdc8e9f2a225e694fc7ddbf211ede12233350e103f63d8dfdb64d4"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 422,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210611-059.xml",
+     "sha256": "8d3c0d6f2c0b511c7afde020b416e3b44818e206e0dcc6152107e794e60ff06b"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 422,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-117.xml",
+     "sha256": "3a151504b5231381afbe233052c1013217da77b480da0ca0da3846a24d580a77"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 422,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-122.xml",
+     "sha256": "d89f7c4de1a24e66ff524775ab9e45e235979cc5732149451e6e59345640244b"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 422,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220408-022.xml",
+     "sha256": "d08f4a3c4519f01a0ee18fc76612dd71b16f56cbfd16fdac3066195e77b1f4f1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 422,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-097.xml",
+     "sha256": "179333dbc828dcd9aee09aa5633d470c9beb08e911dbbb84f98309dec3f138e1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 422,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220622-083.xml",
+     "sha256": "502bede5971c3469b8c584b19753a159e0d991a11f74b35afb0ca35ff3fa5d03"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-113.xml",
+     "sha256": "b0cf0402d6b9a21d0e77ce580f9d1c707bbeee9f55ac834c2d4fe0030d53b092"
+    },
+    {
+     "from": "2024-04-08",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-111.xml",
+     "sha256": "4eb885765b780191cc1dc6d9782232230e8a01447ffd84d79e8f5a349f2db18b"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-062.xml",
+     "sha256": "2405c38c70f7990cce22b333767f53920b68756f5235a3225e0dfe6f198523c4"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 425,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-110.xml",
+     "sha256": "718636924321bc1d2bf8b8cb1d58241796631bdb2b307fe3e31f3ef654a54b84"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240531-025.xml",
+     "sha256": "918bde0723626b205b6b1653d1f4480c4283b512c4be5b62fa971d0744464a4c"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 428,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-110.xml",
+     "sha256": "718636924321bc1d2bf8b8cb1d58241796631bdb2b307fe3e31f3ef654a54b84"
+    },
+    {
+     "from": "2024-12-01",
+     "units": 428,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241129-073.xml",
+     "sha256": "4e6be5c5cef5a86e09da368bf88a222c30ec97debe26bcf07c19699ece181d49"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 428,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220512-028.xml",
+     "sha256": "00e45418b238788160764df3154354038ed356b704a54707bdb47dfdf27da38c"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-086.xml",
+     "sha256": "8e59ce67360b05c6ccf701042382a4f4052a2f6361cdc3f7c4eeb140dd7e4f6a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250425-012.xml",
+     "sha256": "a4469e70a433e11cbf6911e0631651a937f5b13e4349eeb35cda5513610eee1b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250610-033.xml",
+     "sha256": "4036c032108cdd305009f324ce4e57030c9fe1738e6ed4d3c8e24a80e7c75c45"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-086.xml",
+     "sha256": "8e59ce67360b05c6ccf701042382a4f4052a2f6361cdc3f7c4eeb140dd7e4f6a"
+    },
+    {
+     "from": "2026-04-10",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260410-013.xml",
+     "sha256": "142ab006e2b877ee610ead7e72ab340dc4a671676fd19e10e1a8fa1511232b14"
+    },
+    {
+     "from": "2026-04-15",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20251222-115.xml",
+     "sha256": "06907b0b2d901f233ead703aed50bda5a7a4a93f884d4e2e19455a468c97d1e1"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 427,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-045.xml",
+     "sha256": "cbc7b137c8facd758e8fa036eb41e8257f92007e61715634489509a3e29cd812"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 429,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260623-071.xml",
+     "sha256": "de89ebd74f8bda83c89757de1037a7c394c7a015b5bc64c402391ff756b24ffa"
+    }
+   ]
+  },
+  {
+   "slug": "tvisteloven",
+   "short": "tvl.",
+   "title": "Lov om mekling og rettergang i sivile tvister (tvisteloven).",
+   "url": "https://lovdata.no/dokument/NL/lov/2005-06-17-90",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 407,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2005/nl-20050617-090.xml",
+     "sha256": "f1c807517a29120c8d8ba87f6039ae5dfffaca5f2b384cc5bbfa9bfa4ef3c464"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 407,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070126-003.xml",
+     "sha256": "b4b4df1486417a69f90a830cb7579f0e9368e24ea16cbfb0b8e2f83970c4a850"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 407,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070615-038.xml",
+     "sha256": "fd700b120d896c74f6c0911602b34a964d6fa96613178b23273c5e07c3f52e0f"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 407,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070629-068.xml",
+     "sha256": "2a773c37bc2ddcc8bf32a18428c8326920af50c9678fb01013022c10e803b1dc"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 407,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20070629-081.xml",
+     "sha256": "1283287bdf97d984a30d7c00ab77b5dced33-743a54a233e2cd5dda080631708"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 407,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2007/nl-20071221-127.xml",
+     "sha256": "b6650fba53966ac2ef5819bcb4ff774e228b00971db229090211ce41972cab11"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 407,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2008/nl-20081212-085.xml",
+     "sha256": "636d7f9a114a85790fb11faa5b1c7ec7fe54-295e8598c2d30e99ba03fd4ec30"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 408,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2009/nl-20090619-079.xml",
+     "sha256": "da35caae1570f36299da15bd1b3c6f3187208bc0de4644e8f44aa1b4eedd7176"
+    },
+    {
+     "from": "2010-12-10",
+     "units": 408,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20101210-076.xml",
+     "sha256": "ea18096c78cfd7e2142cc06c67e66803d0eced36f76ae22d50c8c3021e5c093a"
+    },
+    {
+     "from": "2012-05-11",
+     "units": 408,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120511-026.xml",
+     "sha256": "0cb4ecc72b84e8bf953a68eaf4a43-111baab4803e08df5e65faa0d8e6da97be"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 408,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2012/nl-20120525-028.xml",
+     "sha256": "80b1201b62c9b5550e47f47febeb1e676c2a9f563e3adc4a49b9f14c0ab115ad"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 408,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100326-009.xml",
+     "sha256": "ece010f29babb1dafcbed17b39c6d630e755c02e1bdab467fb30e5fdf17f627a"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 414,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130531-025.xml",
+     "sha256": "6d8a4b169477ab3d51e8140df617aef3a31cca7fc61e9cae6d2bd0b6108ce0cd"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 414,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150619-065.xml",
+     "sha256": "13637782b8d728afafb51cbbd9ac88fe1cb4e78c97ac0db26ab093fbaefa9a72"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 414,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2015/nl-20150904-091.xml",
+     "sha256": "78d9e7dd03775f3b0ebc5fffb8d6cd31ec0a8cef7c8e1936238d285303402a85"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 414,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160422-003.xml",
+     "sha256": "620d8efa4aed6aebf016bd412b14c104e30ab843c3294e1ab60c085b20166ca0"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 414,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170217-007.xml",
+     "sha256": "38a259bd027b7f8fd009072971cfbf0c465e753f371f413a55e277a7ccb64b45"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 414,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170428-019.xml",
+     "sha256": "566c3ec465fa0d76e4ddaa4e555e46181cd04275bad0403bf5930e36797a874a"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 415,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2017/nl-20170616-063.xml",
+     "sha256": "da53c86475ba43c68c1e075bfe0d948f2ae0b375f3b0fca2a7c35bb21e9a3138"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 416,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-037.xml",
+     "sha256": "abc2e59129736059baa21c7dc6924ee4589e470e9c25c07b98ff41a57739ca96"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 416,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-079.xml",
+     "sha256": "bb8de75ce7ee915b4659147f05e51f65f46cac5c0fa215ae3655517887f5df24"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 416,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180622-080.xml",
+     "sha256": "a2a782b054cb9fdf35df087a21617528ed9cae7ac368e17b0af5a791ee723e80"
+    },
+    {
+     "from": "2019-06-21",
+     "units": 416,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190621-055.xml",
+     "sha256": "85fe410dd3720bdb48d903c968c6cd10a5bc36f6f482258c3be257f9cb42fa4f"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 416,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160422-004.xml",
+     "sha256": "37ce9a4b735008b9ced298d623d0b190b48e3c5677efaf9551e726e7a32acb1b"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 416,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190315-006.xml",
+     "sha256": "9ba08032a7a254680c765a4e621b2317b0e907d431df45659e2bef2a5fdd2515"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 416,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200417-026.xml",
+     "sha256": "2e019f559ee2e0a7fb21159f2f3d28985666aa75ecab524e4bbe39a9f196d13e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20200327-015.xml",
+     "sha256": "8d6cf6d98b01f8b68e3f18b5f61f269ae6c1bd3fef08f8e149202aeca470aa0f"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190614-021.xml",
+     "sha256": "4b81ed4ea8fb86e97cccbda048f303def39d14b1c541038710a54752b1172c9e"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2020/nl-20201218-147.xml",
+     "sha256": "a640cdcfbefae555a5940c74bb1987cb04a0ea54be5d0d795a9ab943b4db1102"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160617-055.xml",
+     "sha256": "fc97283248fce67e677a96e4d6ffd50cafec4783771838db389df278ce42079b"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-126.xml",
+     "sha256": "61d568493dd0329fa82923cc450068f37435e18c36c4df4d34996048a077d473"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220617-058.xml",
+     "sha256": "d7d46cdea39feb2723fcba9483e1cb6499d151986096acfc6e0153af3d664027"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210618-097.xml",
+     "sha256": "179333dbc828dcd9aee09aa5633d470c9beb08e911dbbb84f98309dec3f138e1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220311-009.xml",
+     "sha256": "8583826aca458fd3db0210c4f26a283731ba3fe339ae43416df3bdd82c1b7664"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 417,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230511-013.xml",
+     "sha256": "2b95c0e7bfbc2d12183bd89f9a6581149aa3efdab0dba121b9a09bf18c69601d"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 419,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230511-013.xml",
+     "sha256": "2b95c0e7bfbc2d12183bd89f9a6581149aa3efdab0dba121b9a09bf18c69601d"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 419,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20231220-110.xml",
+     "sha256": "718636924321bc1d2bf8b8cb1d58241796631bdb2b307fe3e31f3ef654a54b84"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 419,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-046.xml",
+     "sha256": "3b3ba2b0ef3eaeaa4e2c360da7f97650304bad66e672995e49dce98cfcf5f85a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 419,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220512-028.xml",
+     "sha256": "00e45418b238788160764df3154354038ed356b704a54707bdb47dfdf27da38c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 418,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20241213-078.xml",
+     "sha256": "927354408244f15d9970e8cdd8ef185b5b72df4224b2ff582bf3c062998d4856"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 418,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260507-017.xml",
+     "sha256": "6d9824a3302d7cd89fd93d15fd6891e4d80b04bc8d0ab2a2563ff50b6db25f68"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 418,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-045.xml",
+     "sha256": "cbc7b137c8facd758e8fa036eb41e8257f92007e61715634489509a3e29cd812"
+    }
+   ]
+  },
+  {
+   "slug": "universitets-og-hoyskoleloven",
+   "short": "uhl.",
+   "title": "Lov om universiteter og høyskoler (universitets- og høyskoleloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2024-03-08-9",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240308-009.xml",
+     "sha256": "c2de45641f6e497866e4f3b1e37daad1c563fedd9e6986a5cbb9d6507dfe9a6f"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250410-011.xml",
+     "sha256": "5fe0180eab9e8a6bc450c1b7d0a5fbbf86232c709956c9b5514bd14a6544c17e"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-101.xml",
+     "sha256": "5b07768e28f57f180451e4c13bda5fad61cf521a1fcc21ee9452a85baa1dc65e"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-045.xml",
+     "sha256": "cbc7b137c8facd758e8fa036eb41e8257f92007e61715634489509a3e29cd812"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 139,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-060.xml",
+     "sha256": "ad8bc1f09779ea5791776b3c2a2ce6a3e844380d8d54b2ed0bd3f694408bf2df"
+    }
+   ]
+  },
+  {
+   "slug": "valgloven",
+   "short": "vall.",
+   "title": "Lov om valg til Stortinget, fylkesting og kommunestyrer (valgloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2023-06-16-62",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 170,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230616-062.xml",
+     "sha256": "2405c38c70f7990cce22b333767f53920b68756f5235a3225e0dfe6f198523c4"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 170,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2024/nl-20240621-051.xml",
+     "sha256": "9174d9ed634f6bc6ea29f474563f03971aa9d965ce72dafb3aa6ad8edb98-503"
+    },
+    {
+     "from": "2028-01-01",
+     "units": 170,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260619-057.xml",
+     "sha256": "04234bde375b0e25a38fcca40e23eb1034d310a3d862baf5a81494cecb2d56b7"
+    }
+   ]
+  },
+  {
+   "slug": "vergemalsloven",
+   "short": "vergemålsl.",
+   "title": "Lov om vergemål (vergemålsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2010-03-26-9",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2010/nl-20100326-009.xml",
+     "sha256": "ece010f29babb1dafcbed17b39c6d630e755c02e1bdab467fb30e5fdf17f627a"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2011/nl-20110624-030.xml",
+     "sha256": "557b1e9a61ea879d57052af58da6306e22f0752b78048cc64f1f90dd34bbc42e"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130405-012.xml",
+     "sha256": "5f1d25e5c54c1fad5ce17ddec921a139602a77b8031277275337a17717d3d4ba"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2013/nl-20130621-100.xml",
+     "sha256": "fea44d160946984f7fff366ba580a32db5e9940d3c949d8ebfa41456e4f790ad"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2016/nl-20160422-003.xml",
+     "sha256": "620d8efa4aed6aebf016bd412b14c104e30ab843c3294e1ab60c085b20166ca0"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20180615-037.xml",
+     "sha256": "abc2e59129736059baa21c7dc6924ee4589e470e9c25c07b98ff41a57739ca96"
+    },
+    {
+     "from": "2018-12-20",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2018/nl-20181220-114.xml",
+     "sha256": "8134a3059cb601ac616af660e80a8602a926e645657f341beb8da54ea1b90ccd"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190315-006.xml",
+     "sha256": "9ba08032a7a254680c765a4e621b2317b0e907d431df45659e2bef2a5fdd2515"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2019/nl-20190614-021.xml",
+     "sha256": "4b81ed4ea8fb86e97cccbda048f303def39d14b1c541038710a54752b1172c9e"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210507-034.xml",
+     "sha256": "760520a6e176abd5b95e18ae3eac19469e3583123900182ff46f9a19549f1e98"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2021/nl-20210611-068.xml",
+     "sha256": "7f053a9ecda4e034e4fb6ebb42f1ce3229d8aba144b6c20c478d4c810eb006a0"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2023/nl-20230331-005.xml",
+     "sha256": "4b4fa246a2392bb161dca9b9ef75630af48a95adcc328d5642ad840e829c1f4b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2022/nl-20220512-028.xml",
+     "sha256": "00e45418b238788160764df3154354038ed356b704a54707bdb47dfdf27da38c"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2001-2025.tar.bz2#lti/2025/nl-20250620-082.xml",
+     "sha256": "a6f58d5739c9f8a8937319e33120bcf6be7f4d321a5db2a68dba55dd8415ab6b"
+    },
+    {
+     "from": "2026-03-20",
+     "units": 115,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/lovtidend-avd1-2026.tar.bz2#lti/2026/nl-20260320-011.xml",
+     "sha256": "18097f2978763149515e34dd8cebbfe080932c09a21f435860e53dcc1bbafa1c"
+    }
+   ]
+  }
+ ]
+}

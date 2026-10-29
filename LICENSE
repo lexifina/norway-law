@@ -1,0 +1,21 @@
+The legal texts are Norwegian laws and decisions of public authorities, as officially announced in
+Norsk Lovtidend avd. I and published by Lovdata:
+
+  Inneholder data under norsk lisens for offentlige data (NLOD) tilgjengeliggjort av Lovdata.
+  Contains data under the Norwegian licence for Open Government data (NLOD) distributed by Lovdata.
+  NLOD 2.0: https://data.norge.no/nlod/no/2.0
+  Source: https://api.lovdata.no/publicData, retrieved 29 October 2026.
+
+Laws, regulations, court decisions and other decisions of public authorities are not protected by
+copyright in Norway (åndsverkloven, lov 15. juni 2018 nr. 40, § 14).
+
+Changes made by Lexifina: each announcement's amendment instructions were applied by code to the text
+before it; each version was converted to one Markdown file per provision, one ledd or list item per line;
+spacing, quotes, dashes in number ranges and list labels were normalised; Lovdata's amendment notes and
+editorial "(Opphevet ...)" lines were left out of the text; and the versions were arranged as git commits
+credited to the decisions and laws that made each change. The wording of the law was not changed.
+Lovdata does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

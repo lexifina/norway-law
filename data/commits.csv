@@ -1,0 +1,511 @@
+day,kind,law,acts,files,branch
+2002-07-01,start,lov-2002-06-21-34,forbrukerkjopsloven,76,main
+2003-07-01,start,lov-2003-05-23-35,ehandelsloven,15,main
+2004-03-01,law,lov-2004-02-20-8,ehandelsloven,8,main
+2005-07-01,law,lov-2005-06-17-104,ehandelsloven,1,main
+2006-01-01,start,lov-2005-06-17-62,arbeidsmiljoloven,177,main
+2006-01-01,law,lov-2005-12-21-121,arbeidsmiljoloven,18,main
+2006-07-01,law,lov-2006-06-16-20,arbeidsmiljoloven,4,main
+2007-01-01,law,lov-2006-04-21-10,arbeidsmiljoloven,1,main
+2007-01-01,law,lov-2006-06-30-46,forbrukerkjopsloven,4,main
+2007-01-01,law,lov-2006-12-01-64,arbeidsmiljoloven,6,main
+2007-01-01,law,lov-2006-12-15-69,arbeidsmiljoloven,16,main
+2007-03-01,law,lov-2007-02-23-10,arbeidsmiljoloven,2,main
+2007-06-15,law,lov-2007-06-15-21,arbeidsmiljoloven,6,main
+2007-06-15,law,lov-2007-06-15-36,forbrukerkjopsloven,1,main
+2007-06-15,law,lov-2007-06-15-22,arbeidsmiljoloven,1,main
+2007-07-01,law,lov-2007-06-15-38,arbeidsmiljoloven,1,main
+2007-11-01,law,lov-2007-06-29-42,arbeidsmiljoloven,1,main
+2008-01-01,start,lov-2007-06-29-81,samvirkelova,189,main
+2008-01-01,start,lov-2005-06-17-90,tvisteloven,407,main
+2008-01-01,law,lov-2007-01-26-3,arbeidsmiljoloven,3,main
+2008-01-01,law,lov-2007-06-15-36,forbrukerkjopsloven,2,main
+2008-01-01,law,lov-2007-01-26-3,tvisteloven,14,main
+2008-01-01,law,lov-2007-06-15-38,tvisteloven,2,main
+2008-01-01,law,lov-2007-06-29-68,tvisteloven,1,main
+2008-01-01,law,lov-2007-06-29-81,tvisteloven,1,main
+2008-01-01,law,lov-2007-12-21-127,tvisteloven,6,main
+2008-07-01,law,lov-2007-06-29-42,arbeidsmiljoloven,1,main
+2008-07-01,law,lov-2007-12-21-118,arbeidsmiljoloven,1,main
+2008-07-01,law,lov-2008-06-06-38,arbeidsmiljoloven,1,main
+2008-07-01,law,lov-2008-06-13-40,arbeidsmiljoloven,1,main
+2009-01-01,start,lov-2006-05-19-16,offentleglova,39,main
+2009-01-01,law,lov-2008-06-20-42,arbeidsmiljoloven,4,main
+2009-01-01,law,lov-2008-12-12-85,tvisteloven,1,main
+2009-01-01,law,lov-2006-06-30-52,offentleglova,1,main
+2009-01-01,law,lov-2008-12-05-82,arbeidsmiljoloven,2,main
+2009-01-09,law,lov-2009-01-09-3,arbeidsmiljoloven,1,main
+2009-01-30,law,lov-2009-01-30-7,offentleglova,1,main
+2009-06-26,law,lov-2009-06-19-83,arbeidsmiljoloven,1,main
+2009-07-01,start,lov-2009-06-19-100,naturmangfoldloven,82,main
+2009-07-01,start,lov-2008-06-27-71,plan-og-bygningsloven,122,main
+2009-07-01,law,lov-2009-05-08-27,plan-og-bygningsloven,3,main
+2010-01-01,start,lov-2009-06-19-97,dyrevelferdsloven,44,main
+2010-01-01,law,lov-2009-06-19-39,arbeidsmiljoloven,19,main
+2010-01-01,law,lov-2009-06-19-79,tvisteloven,2,main
+2010-01-01,law,lov-2009-06-19-103,dyrevelferdsloven,1,main
+2010-03-01,law,lov-2008-12-19-106,arbeidsmiljoloven,2,main
+2010-04-09,law,lov-2010-04-09-12,arbeidsmiljoloven,2,main
+2010-07-01,law,lov-2008-06-27-71,plan-og-bygningsloven,4,main
+2010-07-01,law,lov-2010-04-09-11,arbeidsmiljoloven,1,main
+2010-07-01,law,lov-2009-05-08-27,plan-og-bygningsloven,134,main
+2010-07-01,law,lov-2010-06-25-31,arbeidsmiljoloven,2,main
+2010-07-01,law,lov-2010-06-25-48,plan-og-bygningsloven,12,main
+2010-10-01,law,lov-2010-09-17-57,naturmangfoldloven,1,main
+2010-12-10,law,lov-2010-12-10-76,tvisteloven,1,main
+2011-07-01,law,lov-2011-06-24-18,arbeidsmiljoloven,1,main
+2011-07-01,law,lov-2011-06-24-33,samvirkelova,2,main
+2011-12-16,law,lov-2011-12-16-58,arbeidsmiljoloven,1,main
+2011-12-16,law,lov-2011-12-16-62,offentleglova,2,main
+2012-01-01,law,lov-2011-06-24-30,forbrukerkjopsloven plan-og-bygningsloven,2,main
+2012-01-01,law,lov-2011-11-18-42,ehandelsloven,1,main
+2012-03-01,law,lov-2012-01-27-9,arbeidsmiljoloven,1,main
+2012-05-11,law,lov-2012-05-11-26,tvisteloven,1,main
+2012-07-01,law,lov-2009-06-19-100,naturmangfoldloven,5,main
+2012-07-01,law,lov-2012-05-25-28,tvisteloven,4,main
+2012-07-01,law,lov-2010-09-17-57,naturmangfoldloven,1,main
+2012-07-01,law,lov-2012-06-22-56,naturmangfoldloven,1,main
+2012-08-10,law,lov-2012-08-10-61,plan-og-bygningsloven,1,main
+2012-08-10,law,lov-2012-08-10-62,naturmangfoldloven,1,main
+2013-01-01,law,lov-2009-05-08-27,plan-og-bygningsloven,2,main
+2013-01-01,law,lov-2012-06-22-33,arbeidsmiljoloven,6,main
+2013-01-01,law,lov-2012-12-14-94,naturmangfoldloven,3,main
+2013-01-01,law,lov-2012-10-19-68,arbeidsmiljoloven,2,main
+2013-01-01,law,lov-2012-12-14-80,arbeidsmiljoloven,1,main
+2013-07-01,start,lov-2010-03-26-9,vergemalsloven,115,main
+2013-07-01,law,lov-2012-06-22-33,arbeidsmiljoloven,1,main
+2013-07-01,law,lov-2013-04-05-12,samvirkelova tvisteloven,5,main
+2013-07-01,law,lov-2013-06-14-48,naturmangfoldloven,1,main
+2013-07-01,law,lov-2011-06-24-30,vergemalsloven,3,main
+2013-07-01,law,lov-2013-05-31-25,tvisteloven,7,main
+2013-07-01,law,lov-2013-06-14-32,arbeidsmiljoloven,2,main
+2013-07-01,law,lov-2013-06-14-41,samvirkelova,4,main
+2013-07-01,law,lov-2013-06-14-50,naturmangfoldloven,3,main
+2013-07-01,law,lov-2013-04-05-12,vergemalsloven,10,main
+2013-07-01,law,lov-2013-06-14-51,naturmangfoldloven,4,main
+2014-01-01,law,lov-2013-06-07-27,arbeidsmiljoloven,1,main
+2014-01-01,law,lov-2013-06-21-75,samvirkelova,2,main
+2014-01-01,law,lov-2013-06-14-32,arbeidsmiljoloven,8,main
+2014-01-01,law,lov-2013-06-21-61,arbeidsmiljoloven,3,main
+2014-05-06,start,,grunnlova,111,main
+2014-05-06,start,,grunnloven,111,main
+2014-05-13,law,for-2014-05-14-628,grunnloven grunnlova,67,main
+2014-05-27,law,for-2014-06-20-778,grunnloven grunnlova,0,main
+2014-06-01,law,lov-2014-03-28-9,naturmangfoldloven plan-og-bygningsloven,7,main
+2014-06-20,law,lov-2014-06-20-25,arbeidsmiljoloven,1,main
+2014-06-20,law,lov-2014-06-20-27,forbrukerkjopsloven,3,main
+2014-06-20,law,lov-2014-06-20-50,naturmangfoldloven,2,main
+2014-06-20,law,lov-2014-06-20-52,plan-og-bygningsloven,7,main
+2014-07-01,law,lov-2014-06-20-25,samvirkelova,1,main
+2014-07-01,law,lov-2014-06-20-26,arbeidsmiljoloven,1,main
+2015-01-01,law,lov-2014-12-19-91,plan-og-bygningsloven,20,main
+2015-01-01,law,lov-2014-12-19-92,offentleglova,1,main
+2015-03-13,law,lov-2014-09-12-64,plan-og-bygningsloven,1,main
+2015-06-01,law,for-2015-06-12-623,grunnloven grunnlova,2,main
+2015-06-19,law,lov-2015-06-19-64,offentleglova,1,main
+2015-07-01,law,lov-2014-06-20-52,plan-og-bygningsloven,32,main
+2015-07-01,law,lov-2015-04-24-20,arbeidsmiljoloven,5,main
+2015-07-01,law,lov-2015-04-24-21,arbeidsmiljoloven,10,main
+2015-10-01,start,lov-2005-05-20-28,straffeloven,119,main
+2015-10-01,law,lov-2015-06-19-65,arbeidsmiljoloven dyrevelferdsloven plan-og-bygningsloven tvisteloven,9,main
+2015-10-01,law,lov-2005-12-21-131,straffeloven,1,main
+2015-10-01,law,lov-2006-06-30-45,straffeloven,1,main
+2015-10-01,law,lov-2007-01-26-3,straffeloven,2,main
+2015-10-01,law,lov-2007-06-29-81,straffeloven,1,main
+2015-10-01,law,lov-2008-03-07-4,straffeloven,101,main
+2015-10-01,law,lov-2008-06-20-47,straffeloven,1,main
+2015-10-01,law,lov-2008-06-27-53,straffeloven,1,main
+2015-10-01,law,lov-2009-06-19-74,straffeloven,221,main
+2015-10-01,law,lov-2010-06-25-46,straffeloven,4,main
+2015-10-01,law,lov-2011-06-24-30,straffeloven,3,main
+2015-10-01,law,lov-2011-06-24-32,straffeloven,1,main
+2015-10-01,law,lov-2011-06-24-34,straffeloven,1,main
+2015-10-01,law,lov-2012-01-20-6,straffeloven,12,main
+2015-10-01,law,lov-2012-05-11-26,straffeloven,1,main
+2015-10-01,law,lov-2012-06-22-49,straffeloven,1,main
+2015-10-01,law,lov-2013-04-05-12,straffeloven,1,main
+2015-10-01,law,lov-2013-05-31-25,straffeloven,1,main
+2015-10-01,law,lov-2013-06-21-85,straffeloven,9,main
+2015-10-01,law,lov-2014-03-28-9,straffeloven,1,main
+2015-10-01,law,lov-2014-05-09-16,straffeloven,2,main
+2015-10-01,law,lov-2014-06-20-49,straffeloven,7,main
+2015-10-01,law,lov-2015-05-29-36,straffeloven,2,main
+2015-10-01,law,lov-2015-06-19-65,straffeloven,33,main
+2015-11-13,law,lov-2014-06-20-52,plan-og-bygningsloven,1,main
+2015-12-18,law,lov-2015-12-18-103,arbeidsmiljoloven,1,main
+2016-01-01,start,lov-2015-04-10-17,finansforetaksloven,348,main
+2016-01-01,law,lov-2013-06-21-100,plan-og-bygningsloven vergemalsloven,2,main
+2016-01-01,law,lov-2014-06-20-50,naturmangfoldloven,1,main
+2016-01-01,law,lov-2015-04-10-17,samvirkelova,1,main
+2016-01-01,law,lov-2015-09-04-91,tvisteloven,1,main
+2016-01-01,law,lov-2015-12-18-104,arbeidsmiljoloven,7,main
+2016-01-01,law,lov-2015-12-18-126,straffeloven,1,main
+2016-01-01,law,lov-2014-06-20-52,plan-og-bygningsloven,11,main
+2016-01-01,law,lov-2015-12-04-96,finansforetaksloven,23,main
+2016-01-01,law,lov-2015-09-04-89,plan-og-bygningsloven,4,main
+2016-03-31,law,for-2016-04-22-404,grunnloven grunnlova,2,main
+2016-04-22,law,lov-2016-04-22-3,straffeloven tvisteloven vergemalsloven,6,main
+2016-05-24,law,for-2016-06-10-615,grunnloven grunnlova,2,main
+2016-07-01,law,lov-2016-06-17-29,finansforetaksloven forbrukerkjopsloven,5,main
+2016-07-01,law,lov-2016-06-17-51,straffeloven,1,main
+2016-07-01,law,lov-2016-06-17-52,straffeloven,6,main
+2016-07-01,law,lov-2016-06-17-53,straffeloven,5,main
+2016-10-01,law,lov-2016-04-29-7,straffeloven,2,main
+2016-11-18,law,lov-2016-11-18-83,naturmangfoldloven,4,main
+2017-01-01,start,lov-2016-05-27-14,skatteforvaltningsloven,156,main
+2017-01-01,law,lov-2016-12-16-100,plan-og-bygningsloven,1,main
+2017-01-01,law,lov-2016-12-16-98,straffeloven,2,main
+2017-01-01,law,lov-2016-12-20-120,skatteforvaltningsloven,27,main
+2017-02-10,law,lov-2017-02-10-4,finansforetaksloven,2,main
+2017-03-01,law,lov-2017-02-17-7,tvisteloven,1,main
+2017-04-21,law,lov-2017-04-21-18,offentleglova,1,main
+2017-04-28,law,lov-2017-04-28-22,offentleglova,5,main
+2017-06-01,law,lov-2017-05-11-26,skatteforvaltningsloven,1,main
+2017-06-21,law,lov-2017-06-21-86,skatteforvaltningsloven,12,main
+2017-07-01,law,lov-2016-12-16-91,finansforetaksloven,3,main
+2017-07-01,law,lov-2017-03-31-12,arbeidsmiljoloven,3,main
+2017-07-01,law,lov-2017-04-28-19,tvisteloven,1,main
+2017-07-01,law,lov-2017-04-28-20,plan-og-bygningsloven,18,main
+2017-07-01,law,lov-2017-06-21-90,straffeloven,6,main
+2017-07-01,law,lov-2017-06-16-42,arbeidsmiljoloven,12,main
+2017-07-01,law,lov-2017-06-21-97,plan-og-bygningsloven,17,main
+2017-10-01,law,lov-2016-12-09-88,finansforetaksloven offentleglova skatteforvaltningsloven,3,main
+2017-10-01,law,lov-2017-05-11-25,arbeidsmiljoloven,1,main
+2017-11-01,law,lov-2017-06-16-47,finansforetaksloven,1,main
+2017-12-15,law,lov-2017-12-15-104,arbeidsmiljoloven,2,main
+2017-12-19,law,lov-2017-12-19-113,arbeidsmiljoloven,1,main
+2017-12-19,law,lov-2017-12-19-128,skatteforvaltningsloven,1,main
+2018-01-01,start,lov-2017-06-16-65,eierseksjonsloven,78,main
+2018-01-01,start,lov-2017-06-16-51,likestillings-og-diskrimineringsloven,51,main
+2018-01-01,law,lov-2017-05-11-26,naturmangfoldloven plan-og-bygningsloven,2,main
+2018-01-01,law,lov-2017-06-16-51,arbeidsmiljoloven,2,main
+2018-01-01,law,lov-2017-06-16-63,tvisteloven,1,main
+2018-01-01,law,lov-2017-12-15-105,finansforetaksloven,3,main
+2018-01-01,law,lov-2017-12-19-128,skatteforvaltningsloven,4,main
+2018-01-01,law,lov-2017-06-16-63,plan-og-bygningsloven,2,main
+2018-01-01,law,lov-2017-12-19-115,likestillings-og-diskrimineringsloven,1,main
+2018-04-01,law,lov-2017-12-19-122,skatteforvaltningsloven,1,main
+2018-04-20,law,lov-2018-04-20-12,plan-og-bygningsloven,2,main
+2018-05-01,law,lov-2018-04-10-4,dyrevelferdsloven,1,main
+2018-05-06,law,lov-2017-06-21-94,straffeloven,1,main
+2018-05-08,law,for-2018-06-01-788,grunnloven grunnlova,35,main
+2018-06-01,law,lov-2018-06-01-25,straffeloven,1,main
+2018-06-22,law,lov-2018-06-22-71,skatteforvaltningsloven,1,main
+2018-06-22,law,lov-2018-06-22-74,eierseksjonsloven,1,main
+2018-06-22,law,lov-2018-06-22-71,skatteforvaltningsloven,3,main
+2018-07-01,start,lov-2018-06-15-40,andsverkloven,140,main
+2018-07-01,law,lov-2018-06-15-37,straffeloven tvisteloven vergemalsloven,10,main
+2018-07-20,start,lov-2018-06-15-38,personopplysningsloven,43,main
+2018-07-20,law,lov-2018-06-15-38,arbeidsmiljoloven dyrevelferdsloven finansforetaksloven offentleglova,5,main
+2018-08-01,law,lov-2018-06-22-71,skatteforvaltningsloven,1,main
+2018-10-01,law,lov-2018-06-22-79,tvisteloven,3,main
+2018-10-15,start,lov-2018-06-01-23,hvitvaskingsloven,64,main
+2018-12-14,law,lov-2018-12-14-94,naturmangfoldloven,2,main
+2018-12-20,law,lov-2018-12-20-114,vergemalsloven,1,main
+2018-12-20,law,lov-2018-12-20-116,personopplysningsloven,1,main
+2019-01-01,start,lov-2018-06-01-24,sikkerhetsloven,80,main
+2019-01-01,law,lov-2016-12-20-120,skatteforvaltningsloven,1,main
+2019-01-01,law,lov-2018-03-23-2,finansforetaksloven,110,main
+2019-01-01,law,lov-2018-04-20-6,straffeloven,2,main
+2019-01-01,law,lov-2018-06-22-45,arbeidsmiljoloven,9,main
+2019-01-01,law,lov-2018-06-22-80,tvisteloven,1,main
+2019-01-01,law,lov-2018-12-14-95,ehandelsloven,3,main
+2019-01-01,law,lov-2018-05-25-19,straffeloven,1,main
+2019-01-01,law,lov-2018-06-15-35,finansforetaksloven,2,main
+2019-01-01,law,lov-2018-06-22-46,arbeidsmiljoloven,8,main
+2019-01-01,law,lov-2018-06-22-71,skatteforvaltningsloven,6,main
+2019-01-01,law,lov-2018-12-14-92,finansforetaksloven,1,main
+2019-01-01,law,lov-2018-12-20-110,skatteforvaltningsloven,3,main
+2019-01-01,law,lov-2018-12-20-98,arbeidsmiljoloven,1,main
+2019-03-08,law,lov-2019-03-08-5,plan-og-bygningsloven,3,main
+2019-04-01,law,lov-2018-11-23-87,finansforetaksloven,10,main
+2019-05-03,law,lov-2019-05-03-14,finansforetaksloven,1,main
+2019-06-07,law,lov-2019-06-07-19,straffeloven,2,main
+2019-06-21,law,lov-2019-06-21-38,skatteforvaltningsloven,2,main
+2019-06-21,law,lov-2019-06-21-55,tvisteloven,1,main
+2019-07-01,law,lov-2018-12-20-110,skatteforvaltningsloven,2,main
+2019-07-01,law,lov-2019-06-21-25,arbeidsmiljoloven,1,main
+2019-07-01,law,lov-2019-06-21-50,straffeloven,7,main
+2019-07-01,law,lov-2019-06-21-54,naturmangfoldloven,1,main
+2019-07-01,law,lov-2019-06-21-25,skatteforvaltningsloven,1,main
+2019-08-01,law,lov-2018-12-20-120,andsverkloven,3,main
+2019-10-01,law,lov-2018-12-20-110,skatteforvaltningsloven,4,main
+2019-11-01,start,lov-2018-06-22-83,kommuneloven,225,main
+2019-11-01,law,lov-2018-06-22-83,offentleglova plan-og-bygningsloven,4,main
+2019-11-01,law,lov-2019-06-21-55,kommuneloven,6,main
+2019-12-20,law,lov-2019-12-20-101,skatteforvaltningsloven,4,main
+2020-01-01,law,lov-2016-04-22-4,tvisteloven,4,main
+2020-01-01,law,lov-2018-12-20-110,skatteforvaltningsloven,1,main
+2020-01-01,law,lov-2019-03-15-6,finansforetaksloven hvitvaskingsloven vergemalsloven,6,main
+2020-01-01,law,lov-2019-04-10-13,eierseksjonsloven,14,main
+2020-01-01,law,lov-2019-06-21-24,arbeidsmiljoloven,11,main
+2020-01-01,law,lov-2019-06-21-52,plan-og-bygningsloven straffeloven,3,main
+2020-01-01,law,lov-2019-06-21-57,kommuneloven likestillings-og-diskrimineringsloven,8,main
+2020-01-01,law,lov-2019-03-15-6,skatteforvaltningsloven tvisteloven,2,main
+2020-01-01,law,lov-2019-06-21-31,finansforetaksloven,1,main
+2020-01-01,law,lov-2019-06-21-68,plan-og-bygningsloven,1,main
+2020-01-01,law,lov-2019-12-20-110,likestillings-og-diskrimineringsloven,1,main
+2020-01-01,law,lov-2019-06-21-68,skatteforvaltningsloven,1,main
+2020-01-01,law,lov-2019-12-13-79,finansforetaksloven,9,main
+2020-01-07,law,for-2020-01-31-93,grunnloven grunnlova,2,main
+2020-03-20,law,lov-2020-03-20-8,arbeidsmiljoloven,1,main
+2020-05-01,law,lov-2019-12-13-79,finansforetaksloven,1,main
+2020-05-14,law,for-2020-05-29-1085,grunnloven grunnlova,4,main
+2020-05-14,law,for-2020-05-29-1086,grunnloven grunnlova,2,main
+2020-05-14,law,for-2020-05-29-1087,grunnloven grunnlova,2,main
+2020-05-14,law,for-2020-05-29-1088,grunnloven grunnlova,4,main
+2020-05-26,law,lov-2020-05-26-50,plan-og-bygningsloven,1,main
+2020-06-19,law,lov-2020-06-19-87,naturmangfoldloven,1,main
+2020-06-19,law,lov-2020-06-19-88,naturmangfoldloven,1,main
+2020-06-23,law,lov-2020-06-23-108,skatteforvaltningsloven,7,main
+2020-07-01,law,lov-2020-04-17-26,tvisteloven,5,main
+2020-07-01,law,lov-2020-05-29-59,straffeloven,2,main
+2020-07-01,law,lov-2020-06-19-69,arbeidsmiljoloven,2,main
+2020-07-01,law,lov-2020-06-19-81,straffeloven,11,main
+2020-10-01,law,lov-2019-06-21-48,straffeloven,7,main
+2020-12-04,law,lov-2020-12-04-135,straffeloven,4,main
+2020-12-21,law,lov-2020-12-21-171,skatteforvaltningsloven,1,main
+2020-12-30,law,lov-2020-06-23-97,arbeidsmiljoloven kommuneloven,3,main
+2021-01-01,start,lov-2019-06-14-21,arveloven,219,main
+2021-01-01,law,lov-2018-04-20-12,plan-og-bygningsloven,2,main
+2021-01-01,law,lov-2019-06-21-54,naturmangfoldloven,1,main
+2021-01-01,law,lov-2019-12-06-77,finansforetaksloven,1,main
+2021-01-01,law,lov-2020-03-27-15,straffeloven tvisteloven,6,main
+2021-01-01,law,lov-2020-04-24-31,offentleglova,1,main
+2021-01-01,law,lov-2020-11-06-127,skatteforvaltningsloven,1,main
+2021-01-01,law,lov-2020-11-20-128,samvirkelova,1,main
+2021-01-01,law,lov-2020-12-04-137,eierseksjonsloven,7,main
+2021-01-01,law,lov-2020-12-18-149,vergemalsloven,2,main
+2021-01-01,law,lov-2020-05-26-50,plan-og-bygningsloven,1,main
+2021-01-01,law,lov-2020-06-19-77,offentleglova,1,main
+2021-01-01,law,lov-2020-11-20-128,finansforetaksloven,10,main
+2021-01-01,law,lov-2020-12-04-135,straffeloven,24,main
+2021-01-01,law,lov-2020-12-18-149,arveloven samvirkelova skatteforvaltningsloven tvisteloven,10,main
+2021-01-01,law,lov-2020-12-18-151,plan-og-bygningsloven,1,main
+2021-01-01,law,lov-2020-12-18-161,skatteforvaltningsloven,1,main
+2021-01-01,law,lov-2020-12-21-171,skatteforvaltningsloven,2,main
+2021-02-01,law,lov-2020-12-18-147,tvisteloven,1,main
+2021-03-05,law,lov-2021-03-05-6,straffeloven,1,main
+2021-04-01,law,lov-2021-03-05-6,straffeloven,1,main
+2021-04-01,law,lov-2021-03-26-16,eierseksjonsloven,6,main
+2021-04-16,law,lov-2021-04-16-18,straffeloven,1,main
+2021-04-23,law,lov-2021-04-23-24,kommuneloven,1,main
+2021-05-11,law,lov-2021-05-11-37,plan-og-bygningsloven,1,main
+2021-05-15,law,lov-2021-04-30-28,skatteforvaltningsloven,1,main
+2021-06-01,law,lov-2020-12-18-151,plan-og-bygningsloven,1,main
+2021-06-01,law,lov-2021-05-07-33,straffeloven,1,main
+2021-06-01,law,lov-2021-05-07-34,arveloven finansforetaksloven kommuneloven naturmangfoldloven offentleglova tvisteloven vergemalsloven,88,main
+2021-06-01,law,lov-2021-05-28-51,samvirkelova,23,main
+2021-06-01,law,lov-2021-05-07-34,plan-og-bygningsloven,6,main
+2021-06-01,law,lov-2021-05-28-51,finansforetaksloven,1,main
+2021-06-01,law,lov-2021-05-28-48,plan-og-bygningsloven,1,main
+2021-06-04,law,lov-2021-06-04-57,plan-og-bygningsloven,1,main
+2021-06-18,law,lov-2021-06-18-109,skatteforvaltningsloven,2,main
+2021-06-18,law,lov-2021-06-18-124,offentleglova,1,main
+2021-07-01,law,lov-2016-06-17-55,tvisteloven,1,main
+2021-07-01,law,lov-2017-06-21-97,plan-og-bygningsloven,1,main
+2021-07-01,law,lov-2020-12-21-171,skatteforvaltningsloven,6,main
+2021-07-01,law,lov-2021-04-23-22,finansforetaksloven,5,main
+2021-07-01,law,lov-2021-05-11-37,eierseksjonsloven,1,main
+2021-07-01,law,lov-2021-05-28-49,andsverkloven,8,main
+2021-07-01,law,lov-2021-06-11-68,vergemalsloven,1,main
+2021-07-01,law,lov-2021-06-11-74,straffeloven,2,main
+2021-07-01,law,lov-2021-06-11-76,offentleglova,1,main
+2021-07-01,law,lov-2021-06-18-127,hvitvaskingsloven kommuneloven,2,main
+2021-07-01,law,lov-2021-06-18-134,dyrevelferdsloven,4,main
+2021-07-01,law,lov-2021-06-18-93,arbeidsmiljoloven,4,main
+2021-07-01,law,lov-2021-04-30-26,finansforetaksloven,1,main
+2021-07-01,law,lov-2021-05-11-37,plan-og-bygningsloven,3,main
+2021-07-01,law,lov-2021-06-04-58,andsverkloven,6,main
+2021-07-01,law,lov-2021-06-18-124,offentleglova,1,main
+2021-07-01,law,lov-2021-06-18-126,tvisteloven,1,main
+2021-07-01,law,lov-2021-06-18-127,arbeidsmiljoloven,2,main
+2021-07-01,law,lov-2021-06-18-128,straffeloven,1,main
+2021-07-01,law,lov-2021-06-18-130,plan-og-bygningsloven,3,main
+2021-08-01,law,lov-2021-06-18-101,finansforetaksloven,1,main
+2021-09-01,law,lov-2021-05-28-49,andsverkloven,1,main
+2021-12-01,law,lov-2021-05-28-48,plan-og-bygningsloven,1,main
+2021-12-01,law,lov-2021-05-28-51,samvirkelova,1,main
+2022-01-01,law,lov-2020-12-18-149,arveloven,1,main
+2022-01-01,law,lov-2021-04-23-24,kommuneloven,1,main
+2022-01-01,law,lov-2021-06-11-59,arbeidsmiljoloven straffeloven,6,main
+2022-01-01,law,lov-2021-06-11-77,likestillings-og-diskrimineringsloven,7,main
+2022-01-01,law,lov-2021-06-18-124,personopplysningsloven,1,main
+2022-01-01,law,lov-2021-12-22-158,skatteforvaltningsloven,9,main
+2022-01-01,law,lov-2021-12-22-163,finansforetaksloven,10,main
+2022-06-01,law,lov-2021-06-18-100,finansforetaksloven,30,main
+2022-06-01,law,for-2022-06-22-1133,grunnloven grunnlova,32,main
+2022-06-15,law,lov-2022-06-10-35,plan-og-bygningsloven,2,main
+2022-06-17,law,lov-2022-06-17-64,naturmangfoldloven,1,main
+2022-06-22,law,lov-2022-06-22-75,skatteforvaltningsloven,3,main
+2022-06-22,law,lov-2022-06-22-79,hvitvaskingsloven,1,main
+2022-06-22,law,lov-2022-06-22-81,arveloven,1,main
+2022-07-01,law,lov-2021-05-07-29,arbeidsmiljoloven,1,main
+2022-07-01,law,lov-2021-06-18-117,straffeloven,2,main
+2022-07-01,law,lov-2021-06-18-122,samvirkelova,1,main
+2022-07-01,law,lov-2022-06-17-58,tvisteloven,5,main
+2022-07-01,law,lov-2021-06-18-122,straffeloven,1,main
+2022-07-01,law,lov-2022-03-18-10,arbeidsmiljoloven,4,main
+2022-07-01,law,lov-2022-04-08-19,arbeidsmiljoloven,3,main
+2022-07-01,law,lov-2022-04-08-22,straffeloven,3,main
+2022-07-08,law,lov-2022-05-23-31,finansforetaksloven,12,main
+2022-12-20,law,lov-2022-12-20-115,offentleglova skatteforvaltningsloven,5,main
+2022-12-20,law,lov-2022-12-20-122,samvirkelova,1,main
+2023-01-01,start,lov-2021-06-18-97,barnevernsloven,186,main
+2023-01-01,start,lov-2020-12-18-146,finansavtaleloven,218,main
+2023-01-01,law,lov-2020-12-18-146,finansforetaksloven,4,main
+2023-01-01,law,lov-2021-05-11-37,plan-og-bygningsloven,22,main
+2023-01-01,law,lov-2021-06-18-97,straffeloven tvisteloven,4,main
+2023-01-01,law,lov-2022-03-04-7,skatteforvaltningsloven,1,main
+2023-01-01,law,lov-2022-03-11-8,hvitvaskingsloven,1,main
+2023-01-01,law,lov-2022-03-18-12,ehandelsloven,1,main
+2023-01-01,law,lov-2022-06-17-42,arbeidsmiljoloven,1,main
+2023-01-01,law,lov-2021-06-18-97,finansavtaleloven,1,main
+2023-01-01,law,lov-2022-03-11-8,skatteforvaltningsloven,1,main
+2023-01-01,law,lov-2022-03-11-9,tvisteloven,1,main
+2023-01-01,law,lov-2022-03-18-12,hvitvaskingsloven,1,main
+2023-01-01,law,lov-2022-03-25-13,barnevernsloven,2,main
+2023-01-01,law,lov-2022-04-08-20,finansforetaksloven,11,main
+2023-01-01,law,lov-2022-06-22-83,straffeloven,3,main
+2023-01-01,law,lov-2022-12-09-88,arbeidsmiljoloven,4,main
+2023-01-01,law,lov-2022-02-18-5,finansavtaleloven,1,main
+2023-01-01,law,lov-2022-06-10-35,barnevernsloven,6,main
+2023-01-01,law,lov-2022-06-22-79,finansforetaksloven,2,main
+2023-01-01,law,lov-2022-12-16-90,hvitvaskingsloven,3,main
+2023-01-01,law,lov-2022-12-20-98,arbeidsmiljoloven,1,main
+2023-01-01,law,lov-2022-06-10-39,barnevernsloven,3,main
+2023-01-01,law,lov-2022-06-17-59,finansavtaleloven,1,main
+2023-01-01,law,lov-2022-06-17-44,barnevernsloven,1,main
+2023-01-01,law,lov-2022-06-17-45,barnevernsloven,12,main
+2023-01-12,law,for-2023-01-27-92,grunnloven grunnlova,2,main
+2023-04-01,law,lov-2022-12-20-99,arbeidsmiljoloven,3,main
+2023-04-01,law,lov-2023-03-31-5,arveloven finansforetaksloven vergemalsloven,18,main
+2023-05-15,law,for-2023-05-26-739,grunnloven grunnlova,2,main
+2023-06-16,law,lov-2023-06-16-41,barnevernsloven,2,main
+2023-07-01,law,lov-2022-12-16-91,finansavtaleloven finansforetaksloven hvitvaskingsloven,6,main
+2023-07-01,law,lov-2023-05-11-13,tvisteloven,4,main
+2023-07-01,law,lov-2023-06-02-21,kommuneloven,20,main
+2023-07-01,law,lov-2023-06-16-67,samvirkelova,1,main
+2023-07-01,law,lov-2023-06-16-73,plan-og-bygningsloven,5,main
+2023-07-01,law,lov-2023-06-20-77,sikkerhetsloven,7,main
+2023-08-11,law,lov-2019-12-06-77,finansforetaksloven,3,main
+2023-09-01,law,lov-2023-06-16-42,barnevernsloven,1,main
+2023-10-01,law,lov-2023-06-16-38,ehandelsloven finansavtaleloven forbrukerkjopsloven,3,main
+2023-10-01,law,lov-2023-06-16-59,arveloven,6,main
+2023-10-01,law,lov-2023-06-16-59,finansavtaleloven,6,main
+2023-12-20,law,lov-2023-12-20-101,skatteforvaltningsloven,5,main
+2023-12-20,law,lov-2023-12-20-105,skatteforvaltningsloven,1,main
+2024-01-01,law,lov-2022-12-02-87,plan-og-bygningsloven,11,main
+2024-01-01,law,lov-2023-03-17-3,arbeidsmiljoloven,18,main
+2024-01-01,law,lov-2023-05-11-13,barnevernsloven tvisteloven,30,main
+2024-01-01,law,lov-2023-06-16-60,forbrukerkjopsloven,22,main
+2024-01-01,law,lov-2023-12-20-105,skatteforvaltningsloven,3,main
+2024-01-01,law,lov-2023-12-20-113,straffeloven,5,main
+2024-01-01,law,lov-2023-12-20-114,finansforetaksloven samvirkelova,3,main
+2024-01-01,law,lov-2023-06-16-37,arbeidsmiljoloven,2,main
+2024-01-01,law,lov-2023-06-16-41,barnevernsloven,3,main
+2024-01-12,law,lov-2024-01-12-7,skatteforvaltningsloven,10,main
+2024-04-01,law,lov-2024-03-22-11,skatteforvaltningsloven,1,main
+2024-04-08,law,lov-2023-12-20-111,straffeloven,3,main
+2024-05-01,start,lov-2023-06-16-62,valgloven,170,main
+2024-05-01,law,lov-2023-06-16-62,kommuneloven straffeloven,6,main
+2024-05-21,law,for-2024-06-07-928,grunnloven grunnlova,10,main
+2024-05-24,law,lov-2023-12-20-110,sikkerhetsloven straffeloven tvisteloven,3,main
+2024-06-14,law,lov-2023-06-20-77,sikkerhetsloven,1,main
+2024-06-21,law,lov-2024-06-21-46,tvisteloven,1,main
+2024-06-21,law,lov-2024-06-21-51,valgloven,4,main
+2024-06-21,law,lov-2024-06-21-52,plan-og-bygningsloven,11,main
+2024-07-01,law,lov-2023-12-01-86,arbeidsmiljoloven,1,main
+2024-07-01,law,lov-2024-03-22-13,finansforetaksloven,2,main
+2024-07-01,law,lov-2024-05-31-25,skatteforvaltningsloven straffeloven,3,main
+2024-07-01,law,lov-2024-06-14-32,forbrukerkjopsloven,1,main
+2024-07-01,law,lov-2024-06-14-33,likestillings-og-diskrimineringsloven,2,main
+2024-07-01,law,lov-2024-06-25-53,plan-og-bygningsloven,1,main
+2024-07-01,law,lov-2024-06-25-60,hvitvaskingsloven,2,main
+2024-07-01,law,lov-2023-12-15-88,arbeidsmiljoloven,7,main
+2024-07-01,law,lov-2024-06-25-60,finansforetaksloven,2,main
+2024-07-01,law,lov-2024-06-14-31,arbeidsmiljoloven,1,main
+2024-08-01,start,lov-2023-06-09-30,opplaeringslova,236,main
+2024-08-01,start,lov-2024-03-08-9,universitets-og-hoyskoleloven,139,main
+2024-08-01,law,lov-2023-06-09-30,barnevernsloven,1,main
+2024-08-01,law,lov-2024-03-08-9,opplaeringslova,2,main
+2024-08-01,law,lov-2024-06-14-36,opplaeringslova,11,main
+2024-08-01,law,lov-2024-06-25-53,opplaeringslova,3,main
+2024-09-01,law,lov-2023-12-20-110,straffeloven,12,main
+2024-10-01,law,lov-2024-06-07-29,finansavtaleloven,1,main
+2024-11-01,law,lov-2024-06-21-42,finansforetaksloven samvirkelova,4,main
+2024-12-01,law,lov-2024-11-29-73,straffeloven,4,main
+2024-12-20,law,lov-2024-12-20-89,skatteforvaltningsloven,1,main
+2025-01-01,start,lov-2024-12-13-76,ekomloven,169,main
+2025-01-01,law,lov-2024-03-22-13,finansforetaksloven,1,main
+2025-01-01,law,lov-2024-06-07-29,finansavtaleloven,2,main
+2025-01-01,law,lov-2024-06-21-46,hvitvaskingsloven skatteforvaltningsloven straffeloven tvisteloven vergemalsloven,7,main
+2025-01-01,law,lov-2024-06-21-52,andsverkloven plan-og-bygningsloven,2,main
+2025-01-01,law,lov-2024-12-06-74,naturmangfoldloven,3,main
+2025-01-01,law,lov-2024-12-13-78,barnevernsloven,1,main
+2025-01-01,law,lov-2024-06-25-60,hvitvaskingsloven,3,main
+2025-01-01,law,lov-2024-12-13-76,andsverkloven,1,main
+2025-01-01,law,lov-2024-12-13-78,tvisteloven,5,main
+2025-01-01,law,lov-2024-12-20-89,skatteforvaltningsloven,1,main
+2025-01-01,law,lov-2024-12-20-93,skatteforvaltningsloven,1,main
+2025-04-01,law,lov-2024-06-21-41,finansavtaleloven finansforetaksloven,3,main
+2025-04-01,law,lov-2025-03-28-5,offentleglova,1,main
+2025-04-01,law,lov-2025-03-28-6,naturmangfoldloven,1,main
+2025-06-20,law,lov-2025-06-20-51,offentleglova,1,main
+2025-06-20,law,lov-2025-06-20-59,skatteforvaltningsloven,1,main
+2025-06-20,law,lov-2025-06-20-64,skatteforvaltningsloven,3,main
+2025-07-01,law,lov-2025-05-27-18,finansforetaksloven,2,main
+2025-07-01,law,lov-2025-05-27-19,hvitvaskingsloven,7,main
+2025-07-01,law,lov-2025-06-20-34,arbeidsmiljoloven,7,main
+2025-07-01,law,lov-2025-06-20-82,vergemalsloven,1,main
+2025-07-01,law,lov-2025-06-20-86,straffeloven,12,main
+2025-07-01,law,lov-2025-06-20-93,plan-og-bygningsloven,50,main
+2025-07-01,law,lov-2025-06-20-36,arbeidsmiljoloven,3,main
+2025-07-01,law,lov-2025-06-20-47,hvitvaskingsloven,6,main
+2025-08-01,law,lov-2021-04-23-22,finansforetaksloven,6,main
+2025-08-01,law,lov-2025-04-10-11,finansavtaleloven universitets-og-hoyskoleloven,2,main
+2025-08-01,law,lov-2025-05-23-16,opplaeringslova,1,main
+2025-08-01,law,lov-2025-04-10-11,finansforetaksloven,16,main
+2025-08-01,law,lov-2025-06-20-101,universitets-og-hoyskoleloven,12,main
+2025-08-01,law,lov-2025-06-20-98,opplaeringslova,2,main
+2025-12-19,law,lov-2025-12-19-112,ekomloven,1,main
+2025-12-22,law,lov-2025-12-22-122,skatteforvaltningsloven,2,main
+2026-01-01,law,lov-2025-04-25-12,arbeidsmiljoloven barnevernsloven naturmangfoldloven skatteforvaltningsloven straffeloven,10,main
+2026-01-01,law,lov-2025-06-20-39,opplaeringslova,2,main
+2026-01-01,law,lov-2025-06-20-96,kommuneloven,1,main
+2026-01-01,law,lov-2025-12-19-114,eierseksjonsloven,3,main
+2026-01-01,law,lov-2025-05-27-17,arbeidsmiljoloven,1,main
+2026-01-01,law,lov-2025-06-10-33,straffeloven,1,main
+2026-01-01,law,lov-2025-06-20-39,barnevernsloven,82,main
+2026-01-01,law,lov-2025-06-20-59,skatteforvaltningsloven,3,main
+2026-01-01,law,lov-2025-12-22-130,naturmangfoldloven,3,main
+2026-01-01,law,lov-2025-06-20-37,arbeidsmiljoloven,1,main
+2026-01-01,law,lov-2025-06-20-64,skatteforvaltningsloven,9,main
+2026-01-01,law,lov-2025-06-20-86,straffeloven,1,main
+2026-01-01,law,lov-2025-06-20-45,arbeidsmiljoloven,1,main
+2026-01-01,law,lov-2025-12-22-117,skatteforvaltningsloven,1,main
+2026-01-17,law,lov-2025-05-27-21,plan-og-bygningsloven,1,main
+2026-01-23,law,lov-2025-12-22-115,barnevernsloven,10,main
+2026-03-20,law,lov-2026-03-20-11,vergemalsloven,2,main
+2026-04-10,law,lov-2026-04-10-13,straffeloven,3,main
+2026-04-15,law,lov-2025-12-22-115,straffeloven,1,main
+2026-05-01,law,lov-2026-03-13-9,dyrevelferdsloven,1,main
+2026-06-19,law,lov-2026-06-19-35,barnevernsloven,6,main
+2026-07-01,law,lov-2025-06-20-102,naturmangfoldloven,2,main
+2026-07-01,law,lov-2025-12-22-128,ekomloven,1,main
+2026-07-01,law,lov-2026-03-06-7,plan-og-bygningsloven,2,main
+2026-07-01,law,lov-2026-05-07-17,tvisteloven,2,main
+2026-07-01,law,lov-2026-05-29-20,offentleglova,1,main
+2026-07-01,law,lov-2026-06-12-22,barnevernsloven,1,main
+2026-07-01,law,lov-2026-06-19-33,arbeidsmiljoloven,1,main
+2026-07-01,law,lov-2026-06-19-40,finansforetaksloven,9,main
+2026-07-01,law,lov-2026-06-19-45,finansavtaleloven straffeloven universitets-og-hoyskoleloven,4,main
+2026-07-01,law,lov-2026-06-19-45,tvisteloven,4,main
+2026-07-01,law,lov-2026-06-23-71,straffeloven,3,main
+2026-08-01,law,lov-2026-02-06-2,finansavtaleloven finansforetaksloven hvitvaskingsloven,5,main
+2026-08-01,law,lov-2026-02-13-6,opplaeringslova,1,main
+2026-08-01,law,lov-2026-06-19-60,universitets-og-hoyskoleloven,8,main
+2026-08-01,law,lov-2026-06-19-59,opplaeringslova,5,main
+2026-10-16,law,lov-2026-06-23-74,sikkerhetsloven,1,main
+2027-01-01,law,lov-2025-06-20-39,barnevernsloven,15,fremtidig
+2028-01-01,law,lov-2026-06-19-57,valgloven,1,fremtidig
