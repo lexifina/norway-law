@@ -70,13 +70,13 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b41a86cb627b075a06a183fea7e621859360f7af53a53893615aab1f32ea1301` (6944687 bytes).
+- Corpus: sha256 `f75fd2974391afa62c17607a8a7c85014e6d95e3a1779c244bce5fba1cfefefa` (6945906 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-592 versions of 29 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -135,6 +135,8 @@ No second build of this corpus has been compared yet.
 - arbeidsmiljoloven: Lov 29. juni 2007 nr. 42 left its commencement to the King and has no Lovdata in-force note on § 4-1; dated 2007-11-01 by the commencement resolution FOR-2007-10-12-1140 ("Lov 29. juni 2007 nr. 42 om endringer i arbeidsmiljøloven og allmenngjøringsloven, arbeidsmiljøloven § 4-1, sjette ledd, annet punktum trer i kraft fra 1. november 2007.").
 - arbeidsmiljoloven: Lov 21. desember 2007 nr. 118 amended Lov 29. juni 2007 nr. 42 before that law took effect; its correction of § 14-13 takes effect with it, 2008-07-01.
 - arbeidsmiljoloven: § 10-11: the law moves ledd past one another (Nåværende § 10-11 tredje ledd blir femte ledd.; Nåværende § 10-11 femte til åttende ledd blir sjette til niende ledd.); the ledd are placed by their new numbers, and its later instructions on them use the new numbers (Lov 16. juni 2017 nr. 42).
+- arbeidsmiljoloven: Lovdata gives the day Lov 16. juni 2017 nr. 42 took effect for its change of § 2 A-2 in its note on § 2 A-4, the number that paragraph has had since a later law renumbered it ("tidligere § 2 A-2"): 2017-07-01.
+- arbeidsmiljoloven: Lovdata gives the day Lov 16. juni 2017 nr. 42 took effect for its change of § 2 A-3 in its note on § 2 A-6, the number that paragraph has had since a later law renumbered it ("tidligere § 2 A-3"): 2017-07-01.
 - arbeidsmiljoloven: § 1-2 commenced Lov 7. mai 2021 nr. 29 in stages for different subjects ("i kraft ... for så vidt gjelder"); its words are in force from the first day, 2022-07-01, and dated by it (later stages: 2024-07-01).
 - arbeidsmiljoloven: some amending laws took effect before laws promulgated earlier (§ 1-6 by Lov 19. desember 2008 nr. 106, § 17-7 by Lov 17. juni 2005 nr. 90); the amendments are applied in the order they took effect, each to the text in force on its day.
 - arbeidsmiljoloven: Lov 26. januar 2007 nr. 3 replaced the list of amendments to other acts in Lov 17. juni 2005 nr. 90 before that law took effect; the amendments of this act are applied as restated, with that law, on 2008-01-01, credited to both laws (§ 17-1, § 17-5, § 17-7).
@@ -392,7 +394,10 @@ No second build of this corpus has been compared yet.
 - skatteforvaltningsloven: paragraf-13-003 reads «kla ger» in the official Lovtidend text where Lovdata writes «klager»; the official wording is kept.
 - skatteforvaltningsloven: paragraf-15-004 keeps the ledd «(4) Hvor lenge det er adgang til å gå til søksmål ...», which the consolidated text of Lovdata leaves out: lov 22. desember 2021 nr. 158 replaced the first and second ledd and made the old second ledd the third, without repealing the old third ledd, and no later law in Norsk Lovtidend repeals it; the official wording is kept.
 - skatteforvaltningsloven: § 8-11: the instruction "§ 8-11 fyrste ledd fyrste punktum skal lyde:" gives 2 sentences, the later ones revising the sentences after the one it names; those are replaced too, as in the consolidated text of Lovdata (Lov 21. juni 2017 nr. 86).
+- skatteforvaltningsloven: Lovdata gives the day Lov 19. desember 2017 nr. 128 took effect for its change of § 7-11 in its note on § 7-13, the number that paragraph has had since a later law renumbered it ("tidligere § 7-11"): 2018-01-01.
+- skatteforvaltningsloven: Lovdata gives the day Lov 20. desember 2018 nr. 110 took effect for its change of § 5-11 in its note on § 5-12, the number that paragraph has had since a later law renumbered it ("tidligere § 5-11"): 2019-07-01.
 - skatteforvaltningsloven: § 2-13: Norsk Lovtidend prints the title of the new text as a first line of text after a heading that holds only the number; it is read as the title (Lov 21. desember 2020 nr. 171).
+- skatteforvaltningsloven: Lovdata gives the day Lov 22. desember 2021 nr. 158 took effect for its change of § 7-12 in its note on § 7-14, the number that paragraph has had since a later law renumbered it ("tidligere § 7-12"): 2022-01-01.
 - skatteforvaltningsloven: Lov 22. juni 2018 nr. 71 has retroactive effect from 2018-01-01; its changes (§ 8-8) are dated by its publication in Norsk Lovtidend, 2018-06-22.
 - skatteforvaltningsloven: Lov 12. januar 2024 nr. 7 has retroactive effect from 2024-01-01; its changes (§ 1-1, § 2-1, § 5-6, § 8-14, § 8-15, § 8-16, § 9-1, § 9-2, § 12-6, § 13-3) are dated by its publication in Norsk Lovtidend, 2024-01-12.
 - skatteforvaltningsloven: some amending laws took effect before laws promulgated earlier (§ 7-13 by Lov 20. juni 2025 nr. 64); the amendments are applied in the order they took effect, each to the text in force on its day.
