@@ -1,0 +1,3 @@
+# § 2-3-5. Melding om ankomst for varer som forhåndsvarsles
+(1) Fører av luftfartøy og fartøy skal gi elektronisk melding om ankomst til bestemmelsessted i tollområdet ved innførsel av varer som er omfattet av plikten til å avgi forhåndsvarsel etter § 2-1-1 eller plikt til å avgi forhåndsvarsel i ICS2 til tollmyndighetene i Den europeiske union, Sveits eller Liechtenstein, dersom varene ankommer Norge direkte fra et tredjeland.
+(2) Meldingen skal inneholde opplysninger som identifiserer transporten, opplysninger om den som leverer melding om ankomst og tollsted hvor varen ankommer, samt en referanse til opplysninger om transporten avgitt i forhåndsvarsel.

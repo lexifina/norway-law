@@ -1,0 +1,4 @@
+# § 5-12-13. Leverandørerklæring
+(1) En norsk leverandør av opprinnelsesprodukter eller -materialer kan utstede til eksportøren en leverandørerklæring om opprinnelsesstatus.
+(2) Hvis bearbeidingen eller foredlingen ikke er tilstrekkelig til å oppnå opprinnelsesstatus, kan leverandøren utstede en erklæring som viser den bearbeidingen eller foredlingen som har vært foretatt, eller eventuelt verdi som er tilført under bearbeidingen eller foredlingen.
+(3) Erklæringer etter første og annet ledd skal være underskrevet av leverandøren eller en person som har fullmakt fra leverandøren. Tollmyndighetene kan etter søknad fravike kravet til underskrift, på tilsvarende vilkår som for godkjente eksportører, jf. § 5-12-4 annet ledd bokstav b til d. Tollmyndighetene kan kreve at en norsk leverandør legger frem nærmere dokumentasjon for opprinnelsen, jf. § 5-12-1, eller for den bearbeidingen eller foredlingen som er foretatt, jf. annet ledd.

@@ -1,0 +1,3 @@
+# § 2-4-3. Opplysninger om tilbyders identifikasjonsnummer mv.
+(1) Den som bringer en vare som omfattes av § 4-1-24 til tollområdet, og som har mottatt tilbyders identifikasjonsnummer, jf. merverdiavgiftsloven § 14-5, fra avsenderen av varen, skal gi opplysning om tilbyders identifikasjonsnummer elektronisk til tollmyndighetenes datasystem. I den elektroniske meldingen skal det i tillegg gis opplysning om varenummer, transportørens sendingsnummer og varens verdi i norske kroner eksklusive merverdiavgift, fraktkostnader og forsikringskostnader.
+(2) Opplysningsplikten anses også oppfylt dersom opplysninger om tilbyders identifikasjonsnummer mv. gis på samme måte som deklarasjon for prosedyren overgang til fri disponering.

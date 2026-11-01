@@ -1,0 +1,2 @@
+# § 9-8-2. Utveksling av opplysninger uten avtale
+Tollmyndighetene kan, under forbehold om gjensidighet, utveksle opplysninger med annen stat uten at formell avtale med vedkommende stat er inngått. Utveksling kan skje for å sikre overholdelse av bestemmelser om vareførsel og hindre og forfølge overtredelser av nevnte bestemmelser. Før opplysninger utveksles skal tollmyndighetene vurdere om det er fare for at opplysninger kan komme på avveie eller misbrukes.

@@ -1,0 +1,5 @@
+# § 2-1-3. Ansvar for forhåndsvarsel ved innførsel
+(1) Transportør er ansvarlig for å avgi forhåndsvarsel ved innførsel. Dersom motorvogn som inneholder varer transporteres om bord på et fartøy, er føreren av motorvognen ansvarlig. Dersom vare fraktes med fartøy eller luftfartøy som deles av flere transportører, er den som har utstedt fraktdokument ansvarlig.
+(2) Uavhengig av første ledd kan et forhåndsvarsel eller et minimumsdatasett etter § 2-1-1 annet ledd avgis av en importør, mottaker eller en annen person transportøren opptrer på vegne av, eller enhver annen som har mulighet til å fremlegge eller få fremlagt varene på første innpasseringstollsted.
+(3) Dersom i særlige tilfeller alle opplysningene i et forhåndsvarsel ikke kan leveres av personene nevnt i annet ledd jamfør første ledd, kan det kreves at andre personer som innehar disse opplysningene og de nødvendige rettighetene for å fremlegge dem, leverer opplysningene.
+(4) Enhver person som avgir opplysninger til et forhåndsvarsel skal være ansvarlig for de opplysningene som vedkommende avgir.

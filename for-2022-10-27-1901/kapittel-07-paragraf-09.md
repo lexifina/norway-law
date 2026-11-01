@@ -1,0 +1,3 @@
+# § 7-6-2. Klassifiseringsuttalelsen
+(1) En klassifiseringsuttalelse er bare gyldig for den som uttalelsen er avgitt til (identifisert ved organisasjons- eller fødselsnummer), i forbindelse med vare vedkommende selv innfører, utfører eller produserer. Tollmyndighetene kan fravike kravet om tilknytning til organisasjons- eller fødselsnummer dersom søkeren har behov for det. Varen må være identisk med den varen som er beskrevet i klassifiseringsuttalelsen.
+(2) En klassifiseringsuttalelse er bindende i tre år fra uttalelsen er avgitt. Uttalelsen er bare bindende for en vare som blir tollbehandlet eller produsert etter at klassifiseringsuttalelsen er avgitt.

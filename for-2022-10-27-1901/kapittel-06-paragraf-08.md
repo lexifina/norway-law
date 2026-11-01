@@ -1,0 +1,2 @@
+# § 6-7-1. Fortjeneste og alminnelige kostnader
+Dersom tollverdien fastsettes med utgangspunkt i salgspris skal prisen reduseres med fortjeneste og alminnelige kostnader, som skal betraktes under ett. Reduksjonsbeløpet fastsettes på grunnlag av oppgaver som er gitt av importøren. Dersom importørens oppgaver avviker fra det som vanligvis oppnås ved salg i Norge av innførte varer av samme kategori eller slag, skal den pris som vanligvis oppnås ved salg i Norge legges til grunn.

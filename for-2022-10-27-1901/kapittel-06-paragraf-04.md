@@ -1,0 +1,4 @@
+# § 6-4-1. Transaksjonsverdien av identisk vare
+(1) Dersom det ikke er mulig å finne et salg av identisk vare solgt i samme omsetningsledd og i vesentlig samme mengde, skal transaksjonsverdien av identisk vare solgt i et annet omsetningsledd eller i andre mengder brukes. Det må da foretas en justering med hensyn til forskjeller som har forbindelse med omsetningsledd eller mengder. Justeringer kan bare foretas på grunnlag av oppgaver som sannsynliggjør rimeligheten og nøyaktigheten av justeringen.
+(2) Transaksjonsverdien skal justeres dersom kostnadene og utgiftene etter vareførselsloven § 6-10 er tatt med i transaksjonsverdien og det oppstår betydelige forskjeller mellom den innførte varen og omhandlede identiske vare på grunn av forskjell i transportlengde og transportmåte.
+(3) Dersom det fremkommer mer enn én transaksjonsverdi for identiske varer, skal den laveste av disse transaksjonsverdiene brukes for å fastsette tollverdien av den innførte varen.

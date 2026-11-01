@@ -1,0 +1,3 @@
+# § 7-5-3. Pålegg om forlenget oppbevaringstid
+(1) Tollmyndighetene kan i forbindelse med kontroll pålegge den som har avgitt deklarasjon etter vareførselsloven § 4-1, § 4-6, § 4-7, § 4-8 og § 5-5 å oppbevare deklarasjonen og grunnlagsdokumenter i mer enn fem år fra utgangen av det året deklarasjonen ble mottatt av tollmyndighetene.
+(2) Pålegget kan påklages i samsvar med reglene i forvaltningsloven kapittel VI med den begrunnelse at det ikke foreligger plikt eller lovlig adgang til å etterkomme pålegget. Tollmyndighetene skal opplyse om klageadgangen i forbindelse med pålegget. Klage har ikke oppsettende virkning.

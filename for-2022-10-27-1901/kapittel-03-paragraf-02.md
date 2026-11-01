@@ -1,0 +1,3 @@
+# § 3-1-1. Omkostninger og sikkerhet ved midlertidig lagring av vare
+(1) Tollmyndighetene kan kreve dekket omkostninger ved lagring på losseplassen eller lagring på annen måte. Kontroll med vare som blir liggende på losseplassen kan skje ved særskilt tollvakt dersom varene er høyt beskattede eller avhengig av tillatelser fra andre myndigheter. Tollmyndighetene kan kreve dekket omkostninger knyttet til særskilt tollvakt.
+(2) Det kan kreves sikkerhet for slike omkostninger ved godkjennelse av slik lagring. Dersom det ikke stilles depositum, skal sikkerhet stilles i form av selvskyldnerkausjon. Skattebetalingsforskriften § 14-20-4 gjelder tilsvarende så langt den passer.

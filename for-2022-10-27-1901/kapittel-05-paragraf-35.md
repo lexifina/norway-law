@@ -1,0 +1,11 @@
+# § 5-9-10. Fartøy i rutetrafikk – særlige bestemmelser for tillatelse til proviantering
+(1) For fartøy i regelmessig rutetrafikk mellom havner i Danmark, Sverige, Finland og Norge gis tillatelse til proviantering med de begrensninger som fremgår av annet til fjerde ledd. Begrensningene gjelder ikke trafikk til Færøyene, Grønland, Svalbard og Jan Mayen.
+(2) For servering om bord kan det bare gis tillatelse til proviantering av mat- og drikkevarer.
+(3) For salg om bord kan det bare gis tillatelse til proviantering av alkoholholdig drikk, tobakksvarer, sjokolade- og sukkervarer, parfyme, kosmetikk og toalettartikler.
+(4) For salg om bord på korte ruter kan det bare gis tillatelse til proviantering av tobakksvarer, sjokolade- og sukkervarer. Med korte ruter menes fartøysruter mellom norske havner fra og med Risør i vest til svenskegrensen i øst, og svenske havner fra og med norskegrensen i nord til og med Lysekil i sør. Tollmyndighetene kan etter søknad gi tillatelse til at korte ruter likevel kan proviantere varer som nevnt i tredje ledd. Dette gjelder bare fartøy som går i rute mellom norsk havn fra og med Risør i vest til og med Sandefjord i øst og svensk havn fra og med Strømstad i nord til og med Lysekil i sør. Det er videre et vilkår for slik tillatelse at fartøyet går i helårs rutetrafikk etter en fast, regelmessig rutetabell, har kapasitet til å transportere gods og motorvogner i betydelig omfang og at det er lagt til rette for tilfredsstillende tollkontroll.
+(5) Det stilles følgende vilkår for tillatelse til proviantering til fartøy i rutetrafikk:
+a) at salg etter tredje og fjerde ledd bare skjer fra kiosk eller lignende utsalgssted, og bare til passasjerer med gyldig billett
+b) at selger merker billettene slik at passasjerene ikke får kjøpt mer enn den mengde som kan innføres tollavgiftsfritt etter gjeldende bestemmelser for reisende i de land ruten omfatter
+c) at passasjerene ved oppslag om bord blir gjort oppmerksom på gjeldende bestemmelser for reisende for de land ruten omfatter
+d) at det føres separate regnskap for varer som selges til passasjerer fra kiosk eller lignende utsalgssted, og varer som serveres om bord.
+(6) For alle reisende til Norge er det den utvidede mengden tobakks- og nikotinvarer etter § 4-1-12 tredje ledd som etter femte ledd bokstav b kan kjøpes om bord.
