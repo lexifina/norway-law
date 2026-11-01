@@ -1,0 +1,5 @@
+# § 17. Revurdering av refusjonsstatus
+Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, kan til enhver tid vurdere om vilkårene i § 14 eller § 15 er oppfylt for bestemte produkter eller produktgrupper oppført i produkt- og prislistene.
+Leverandør av et produkt skal varsles dersom Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, finner at et produkt, eller en produktgruppe, ikke lenger oppfyller vilkårene i § 14 eller § 15. Dersom vilkårene i § 14 eller § 15 kan oppfylles ved at prisen på produktet endres eller ved at det fastsettes nye vilkår for refusjon, skal varselet inneholde opplysninger om hvilke endringer som anses nødvendige for å oppfylle vilkårene.
+Dersom vilkårene i § 14 eller § 15 ikke kan oppfylles, eller dersom det må fastsettes nye refusjonsvilkår, fatter Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, vedtak om endret refusjonsstatus.
+Leverandør kan søke om endring av refusjonsstatus for produkter som er oppført i produkt- og prislistene.
