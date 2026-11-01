@@ -1,0 +1,3 @@
+# § 4-1-5. Gyldighet av opprinnelsesbevis
+(1) Et opprinnelsesbevis er gyldig i fire måneder etter utstedelsen i eksportlandet, med mindre den aktuelle frihandelsavtalen setter en lengre frist. Opprinnelsesbeviset kan uansett legges til grunn dersom produktene er lagt fram for tollmyndighetene innen fristens utløp eller oversittelsen av fristen skyldes ekstraordinære omstendigheter, og tollmyndighetene ikke finner grunn til å tvile på produktenes opprinnelse.
+(2) Et opprinnelsesbevis skal anses som gyldig selv om det har mindre feil ved utformingen eller det er mindre uoverensstemmelser mellom opplysninger gitt i opprinnelsesbeviset og opplysninger gitt i dokumenter fremlagt for tollmyndighetene, og det ikke er grunn til å tvile på produktenes opprinnelse.

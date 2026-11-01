@@ -1,0 +1,2 @@
+# § 13-2-2. Overgangsregel om tollmyndighetenes endring av tollavgiftsfastsetting
+§ 11-2 og § 11-3 gjelder for fastsettinger som tas opp til endring etter tidspunktet for lovens ikrafttredelse. Tollmyndighetene kan likevel ikke endre fastsettinger foretatt før lovens ikrafttredelse til ugunst for den tollavgiftspliktige dersom det ikke ville ha vært adgang til å endre fastsettingen etter fristreglene i tolloven.

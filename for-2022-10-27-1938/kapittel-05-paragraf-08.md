@@ -1,0 +1,3 @@
+# § 7-5-1. Dokumentasjon for at varen er utført eller lagt på tollager
+(1) Gjenutførsel etter vareførselsloven § 5-9 og innlegg på tollager etter vareførselsloven § 4-4 skal dokumenteres med deklarasjon attestert av tollmyndighetene, tollagerholder eller transportør som frakter varer ut av landet. Det skal også fremlegges faktura eller annen dokumentasjon for at den innførte og utførte varen er den samme.
+(2) Ved gjenutførsel av vare som er unntatt deklareringsplikt, kan utførselen dokumenteres på annen måte. Slik dokumentasjon kan blant annet være innførselsdeklarasjon fra annet land, erklæring fra speditør eller ankomstmelding.

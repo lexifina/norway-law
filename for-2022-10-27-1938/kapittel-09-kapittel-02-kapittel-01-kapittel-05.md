@@ -1,0 +1,5 @@
+# Anmerkning 5 – Terminologi som anvendes i forbindelse med enkelte tekstilvarer
+5.1 «Naturlige fibre» anvendes i prosesslisten for alle andre fibre enn kunstige og syntetiske fibre. Utrykket er begrenset til å gjelde stadiet før spinning foretas, medregnet avfall og med mindre annet er fastsatt, omfatter det også fibre som er blitt kardet, kjemmet eller behandlet på en annen måte, men ikke spunnet.
+5.2 «Naturlige fibre» omfatter også hestehår under posisjon 05.11 og natursilke under posisjon 50.02 og 50.03 samt ull og fine eller grove dyrehår under posisjon 51.01-51.05, bomull under posisjon 52.01-52.03 og andre vegetabilske fibre under posisjon 53.01-53.05.
+5.3 «Spinnmasse», «kjemikalier» og «materialer til papirfremstilling» anvendes i prosesslisten til beskrivelse av materialer, som ikke klassifiseres i kapittel 50-63, og som kan anvendes til fremstilling av kunstige eller syntetiske fibre, papirfibre eller garn.
+5.4 «Stapelfibre» anvendes i prosesslisten for syntetiske eller kunstige fiberkabel, stapelfibre eller avfall under posisjon 55.01-55.07.
