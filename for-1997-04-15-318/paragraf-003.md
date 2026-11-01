@@ -1,0 +1,4 @@
+# § 3. Grunnmønster til søm av klær, jf folketrygdloven § 10-7 første ledd bokstav c
+Til et medlem som har sterkt avvikende kroppsform og som derfor ikke kan bruke konfeksjonssydde klær, kan det gis stønad til anskaffelse og endring av grunnmønster for søm av klær.
+Stønad gis etter satser fastsatt av Arbeids- og velferdsdirektoratet. Grunnmønsteret må utarbeides av personell som er spesialutdannet på fagområdet.
+Til et medlem som fyller vilkårene for stønad til grunnmønster, kan det også gis stønad til dokumenterte utgifter til søm av klær etter grunnmønster. Stønaden begrenses pr. kalenderår til en andel av det grunnbeløpet som gjelder pr. 1. januar samme år. Medlem som må få alt tøy spesialsydd gis en kompensasjon på 1/5 G. Til medlem som kun har behov for spesialsydde bukser/skjørt eller spesialsøm til overkropp kompenseres 1/10 G.
