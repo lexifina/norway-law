@@ -1,0 +1,5 @@
+# Anmerkning 7 – Andre toleranseregler for enkelte tekstilvarer
+7.1 For tekstilprodukter som i prosesslisten er merket med en fotnote som henviser til denne anmerkning, kan tekstilmaterialer som ikke tilfredsstiller regelen i kolonne 3 i prosesslisten for den aktuelle ferdigvaren, anvendes forutsatt at de skifter posisjon og verdien av dem ikke overstiger 8 % av ferdigvarens pris fra fabrikk.
+7.2 Materialer som ikke klassifiseres under kapittel 50-63, kan anvendes fritt til fremstilling av tekstilvarer uansett om de inneholder tekstilmaterialer, se anmerking 7.3.
+Eksempel: Dersom en regel i prosesslisten sier at det for en bestemt tekstilartikkel, for eksempel en bukse, må anvendes garn, hindrer ikke dette bruk av metallartikler for eksempel knapper, fordi knapper ikke hører under kapittel 50-63. Av samme grunn forhindres ikke bruken av glidelås selv om glidelåser normalt inneholder tekstilmaterialer.
+7.3 Når det gjelder en prosentregel må verdien av brukte materialer som ikke hører under kapittel 50-63 også regnes med i verdien av ikke-opprinnelsesmaterialer.

@@ -1,0 +1,5 @@
+# § 4-1-6. Verifisering av opprinnelsesbevis
+(1) Tollmyndighetene kan sette som vilkår for preferansetollavgift at eksportlandets kompetente myndigheter verifiserer at produktet som er omfattet av det fremlagte opprinnelsesbeviset, er et opprinnelsesprodukt og at opprinnelsesbeviset er ekte.
+(2) Dersom tollmyndighetene ikke innen fristen som er fastsatt i frihandelsavtalen, har mottatt svar fra eksportlandets kompetente myndighet, eller svaret ikke inneholder tilstrekkelig informasjon til å fastslå produktets opprinnelse eller at opprinnelsesbeviset er ekte, skal tollmyndighetene fastsette tollavgift med ordinær sats med mindre tollmyndighetene ikke finner grunn til å tvile på opprinnelsen.
+(3) Tollmyndighetene kan, i påvente av resultatene fra verifisering etter annet ledd, utsette fastsettingen av preferansetollavgift dersom det foreligger indikasjoner på at vilkårene for preferansetollavgift ikke er oppfylt. Dersom tollmyndighetene beslutter utsettelse, skal de på nærmere vilkår tilby at varen underlegges prosedyren overgang til fri disponering.
+Preferensiell opprinnelse – GSP-ordningen

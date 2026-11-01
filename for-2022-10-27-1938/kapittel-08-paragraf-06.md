@@ -1,0 +1,2 @@
+# § 13-2-3. Overgangsregel om tilleggsavgift
+§ 12-3 til § 12-5 får virkning for saker der opplysningssvikten eller pliktbruddet er begått etter tidspunktet for lovens ikrafttredelse. Det samme gjelder for saker der vedtak treffes etter lovens ikrafttredelse, men opplysningssvikten eller pliktbruddet er begått før tidspunktet for lovens ikrafttredelse, for så vidt samlet tilleggsavgift hadde blitt høyere etter reglene i tolloven.
