@@ -1,0 +1,4 @@
+# § 8-13-9. Sletting av elektronisk kopiert informasjon
+(1) Sletting av elektronisk kopiert informasjon skal skje på en slik måte at en rekonstruksjon av dataene ikke er praktisk mulig. Den opplysningspliktige kan kreve å være til stede ved slettingen.
+(2) Kopier av elektronisk informasjon skal senest slettes når saken er endelig avgjort. Saken ansees som endelig avgjort når frist for endring og søksmålsfristen er utløpt, eller når det foreligger rettskraftig dom, og kravet er betalt.
+(3) Ved kopiering av elektronisk informasjon hvor systemet eller filene er innrettet slik at tollmyndighetene ikke umiddelbart kan skille hvilke opplysninger som gjelder hvilke opplysningspliktige (sammenblandet informasjon), skal hele den sammenblandede elektroniske informasjonen senest slettes når sakene er endelig avgjort.

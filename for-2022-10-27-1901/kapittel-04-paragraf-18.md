@@ -1,0 +1,5 @@
+# § 4-1-17. Unntak fra deklareringsplikt for vare i luftfartøy
+(1) Deklareringsplikten gjelder ikke for mat-, drikke- og tobakksvare (proviant) og forbruksvare som medbringes og forbrukes av besetning og passasjerer om bord i luftfartøy eller selges om bord i luftfartøy til passasjerer under reise til og fra tollområdet og under opphold der. Fritaket fra deklareringsplikten opphører fra den tid luftfartøyet går over i innenriks fart.
+(2) Hver passasjer som har fylt 20 år og som følger med luftfartøyet fra eller til utlandet, Svalbard eller Jan Mayen, kan ikke forbruke større mengder alkoholholdige drikkevarer enn ¼ liter brennevin av høyst 60 volumprosent alkohol eller ¼ liter vin.
+(3) Proviant kan selges til passasjerer som skal ta med varene når luftfartøyet forlates. Salg av alkohol- og tobakksvarer er ikke tillatt når luftfartøyet har landet.
+(4) Proviant og forbruksvare som ikke kan forbrukes om bord må holdes i egne, atskilte rom eller skap som kan forsegles. Slike varer kan ikke brukes tollavgiftsfritt før luftfartøyet har forlatt siste landingsplass i tollområdet.

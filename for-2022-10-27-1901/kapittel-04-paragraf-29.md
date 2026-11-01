@@ -1,0 +1,8 @@
+# § 4-1-28. Unntak fra deklareringsplikt for vare til grenseboere
+(1) Jordbruker og skogbruker som bor i norsk grensekommune og som også driver jordbruk eller skogbruk i svensk eller finsk grensekommune, kan innføre følgende varer uten å deklarere dem for tollmyndighetene:
+a) Avlinger, naturgjødsel, skogsvirke og gårdsprodukter. Vilkår for fritaket er at nevnte varer skal benyttes til eget behov i egen husholdning. Vare som er ment for salg eller annet ervervsmessig formål er ikke omfattet av unntaket fra deklareringsplikt.
+b) Maskiner og redskaper som er overført til eiendommen i svensk eller finsk grensekommune og som senere tilbakeføres til eiendommen i Norge. Unntaket gjelder også for maskiner og redskaper som overføres fra eiendommen i svensk eller finsk grensekommune og som senere skal tilbakeføres til denne eiendom.
+c) Husdyr som er overført til eiendommen i svensk eller finsk grensekommune og som senere tilbakeføres til eiendommen i Norge. Unntaket gjelder også for husdyr som overføres fra eiendommen i svensk eller finsk grensekommune og som senere skal tilbakeføres til denne eiendom.
+(2) Første ledd gjelder tilsvarende for jordbruker og skogbruker som bor i svensk eller finsk grensekommune og som også driver jordbruk eller skogbruk i norsk grensekommune.
+(3) Norsk grensebeboer kan gjeninnføre vare for husbehov fra Sverige eller Finland etter bearbeiding eller reparasjon uten at varen deklareres til tollmyndighetene. Svensk eller finsk grenseboer kan innføre vare til husbehov uten at varen deklareres til tollmyndighetene, dersom varen etter bearbeiding eller reparasjon skal gjenutføres til Sverige eller Finland.
+(4) Hvilke kommuner som anses som grensekommuner fremgår av vedlegg 4.

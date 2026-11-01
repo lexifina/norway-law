@@ -1,0 +1,4 @@
+# § 3-2-2. Utveksling av elektronisk deklarasjoner og krav til lagring mv.
+(1) Den som leverer deklarasjon skal føre logg over alle meldinger slik de blir sendt og mottatt. Loggen skal blant annet vise tidspunktene for sending og mottak. Bestemmelsene i § 7-5-1 fjerde ledd, § 7-5-2 og § 7-5-3 gjelder tilsvarende for oppbevaring av loggen.
+(2) Dersom en deklarasjon er sendt til tollmyndighetene og bruker ikke har fått tilbakemelding innen normal behandlingstid, skal meldingen etterlyses. Dersom etterlysning eller tilbakemelding ikke er mottatt innen rimelig tid, anses deklarasjonen som ikke levert.
+(3) Den som leverer deklarasjon har taushetsplikt om de sikkerhetstiltak og systemer som vedkommende er gjort kjent med. Den som mottar en melding som ikke er ment for vedkommende, har taushetsplikt om opplysningene i meldingen.

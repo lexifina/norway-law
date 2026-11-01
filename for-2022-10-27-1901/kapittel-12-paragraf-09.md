@@ -1,0 +1,3 @@
+# § 12-11-4. Utferdigelse av forelegg
+(1) Forenklet forelegg skal som hovedregel utferdiges i umiddelbar tilknytning til overtredelsen og i siktedes nærvær. Forelegg som er skrevet ut på stedet, faller bort dersom det ikke straks vedtas. Er siktede under 18 år, kan det gis en kort frist for vedtakelsen av forelegget.
+(2) Forelegget kan likevel utferdiges i ettertid på bakgrunn av rapporter fra finske eller svenske tollmyndigheter. Forelegget skal da inneholde en oppfordring til siktede om å vedta forelegget innen en fastsatt frist. Fristen fastsettes slik at den siktede får en betenkningstid som i alminnelighet bør være fra tre til ti dager. Forelegget faller bort dersom det ikke vedtas innen fristen.

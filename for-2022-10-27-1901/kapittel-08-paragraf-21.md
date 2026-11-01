@@ -1,0 +1,5 @@
+# § 8-13-4. Kopiering av elektronisk informasjon
+(1) Når tollmyndighetene tar kopier av elektronisk lagret informasjon skal det benyttes teknikker og programvare som sikrer dataenes konfidensialitet og integritet.
+(2) Kopiering av elektronisk informasjon skal fortrinnsvis skje hos den opplysningspliktige, men kan skje i lokaler som tollmyndighetene disponerer dersom den opplysningspliktige samtykker.
+(3) Deler den opplysningspliktige elektroniske systemer eller digital lagring med andre, og systemet eller filene er innrettet slik at tollmyndighetene ikke umiddelbart kan skille mellom hvilke opplysninger som gjelder den opplysningspliktige (sammenblandet informasjon), kan hele den sammenblandede elektroniske informasjonen kopieres.
+(4) Dersom den opplysningspliktige samtykker, kan utstyr som inneholder elektronisk informasjon tas bort fra den opplysningspliktiges lokaler i forbindelse med kopieringen. Det skal nedtegnes hvilket utstyr som tas med og når og hvordan tilbakelevering skal skje. Den opplysningspliktige og tollmyndighetene skal undertegne dokumentet.

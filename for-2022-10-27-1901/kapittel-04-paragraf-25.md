@@ -1,0 +1,2 @@
+# § 4-1-24. Unntak fra deklareringsplikt for vare av lav verdi
+Deklareringsplikten gjelder ikke for vare der tilbyder beregner og betaler merverdiavgift etter forenklet registrerings- og rapporteringsordning, jf. merverdiavgiftsloven § 14-4, når det er gitt opplysninger om tilbyders identifikasjonsnummer i samsvar med § 2-4-3. Unntaket gjelder ikke næringsmidler omfattet av merverdiavgiftsloven § 5-2, varer som krever særskilt tillatelse for innførsel eller varer som ilegges særavgifter.

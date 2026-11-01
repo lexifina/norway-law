@@ -1,0 +1,3 @@
+# § 8-13-5. Tilgang til elektronisk informasjon
+(1) Tilgangen til kopier som tollmyndighetene har tatt av elektronisk informasjon etter § 8-13-4 skal lukkes senest når endelig rapport om kontroll er ferdigstilt. Når tilgangen er lukket, skal tollmyndighetene ikke kjøre søk eller foreta annen gjennomgang av den elektroniske informasjonen.
+(2) Tilgangen til elektronisk informasjon kan åpnes igjen for å bekrefte eller avkrefte opplysninger fra den opplysningspliktige, for å verifisere tidligere uttrukne data eller hvis saksbehandlingen viser at det er behov for ytterligere opplysninger eller dokumentasjon. Ved gjenåpning skal den opplysningspliktige underrettes.

@@ -1,0 +1,3 @@
+# § 7-6-5. Opprinnelsesuttalelsen
+(1) En opprinnelsesuttalelse er bare gyldig for den uttalelsen er avgitt til (identifisert ved organisasjons- eller fødselsnummer), i forbindelse med vare vedkommende selv innfører, utfører eller produserer. Tollmyndighetene kan fravike kravet om tilknytning til organisasjons- eller fødselsnummer dersom søkeren har behov for det. Varen må være identisk med den varen som er beskrevet i opprinnelsesuttalelsen.
+(2) En opprinnelsesuttalelse er bindende i tre år fra uttalelsen er avgitt. Uttalelsen er bare bindende for en vare som blir tollbehandlet i Norge etter at uttalelsen er avgitt.

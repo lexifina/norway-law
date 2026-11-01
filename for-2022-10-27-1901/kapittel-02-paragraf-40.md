@@ -1,0 +1,2 @@
+# § 2-5-1. Tillatelse til videre transport i tollområdet
+Fører av fartøy med vare som ikke er tollbehandlet, skal ved videre transport i tollområdet levere melding etter § 2-3-1 med opplysningskrav som følger av § 2-3-2, unntatt referanse til deklarasjon. Referanse til deklarasjon skal leveres senest ved ankomst til bestemmelsessted hvor varen skal losses. Tillatelse til videre transport i tollområdet anses gitt når denne meldingen leveres.

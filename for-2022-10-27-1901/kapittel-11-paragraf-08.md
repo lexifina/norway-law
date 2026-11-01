@@ -1,0 +1,4 @@
+# § 11-5-1. Behandling av beslag
+(1) Andre beslaglagte varer enn varer som er utsatt for hurtig bedervelse og levende dyr kan utleveres til eieren mot at varen underlegges prosedyren overgang til fri disponering. Det er et vilkår for utlevering at det stilles sikkerhet som svarer til varens verdi. Der det ikke stilles depositum, skal sikkerhet stilles i form av selvskyldnerkausjon. Skattebetalingsforskriften § 14-20-4 gjelder tilsvarende så langt den passer. Utlevering kan ikke skje etter at forholdet er anmeldt til påtalemyndigheten.
+(2) Beslag kan unnlates dersom det er grunn til å gå ut fra at tollmyndighetene når som helst kan få rådighet over varen eller dens verdi. Verdien skal være fastsatt av tollmyndighetene og godtatt av eieren.
+(3) Ved krav om sikkerhet kan tollmyndighetene sette beløpet lavere enn varens verdi.
