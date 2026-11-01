@@ -1,0 +1,2 @@
+# § 46. Tilbaketrekking av tildelt kvoteandel og tap av rett til å bli tildelt tollkvoter
+Ved brudd på bestemmelsene i denne forskriften eller vilkår fastsatt med hjemmel i forskriften, kan Landbruksdirektoratet trekke hele eller deler av kvoteandelen tilbake og/eller bestemme at kvotesøker, budgiver eller kvoteeier mister adgangen til å bli tildelt kvoteandeler etter denne forskrift i inntil tre år.
