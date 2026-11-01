@@ -1,0 +1,2 @@
+# § 20. Utsetting, stans og annullering
+Dersom det oppstår eller har oppstått problemer knyttet til Landbruksdirektoratets auksjonssystem, som kan ha betydning for gjennomføringen og resultatet av en auksjon, kan auksjonen utsettes, stanses eller annulleres. I slike tilfeller skal Landbruksdirektoratet informere budgivere som har lagt inn bud på de auksjonene som blir rammet, om åpningstidspunkt for ny auksjon eller tidspunktet for når en stanset auksjon skal fortsette.
