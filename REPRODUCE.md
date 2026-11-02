@@ -1,6 +1,6 @@
 # How this repository was made (Norway)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-02, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-10-29, the day the source data was ret
 | --- | --- | --- | --- |
 | Norsk Lovtidend avd. I (Lovdata public data) | <https://api.lovdata.no/publicData> | 2026-10-29 | NLOD 2.0 |
 | Gjeldende lover (Lovdata public data) | <https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2> | 2026-10-29 | NLOD 2.0 |
+| Gjeldende sentrale forskrifter (Lovdata public data) | <https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2> | 2026-11-02 | NLOD 2.0 |
 | Lovdata API description and data set list | <https://api.lovdata.no/swagger/api.json> | 2026-10-29 | NLOD 2.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -34,6 +35,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `hvitvaskingsloven` | Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven) | 14 | 2018-10-15 to 2026-08-01 |
 | `kommuneloven` | Lov om kommuner og fylkeskommuner (kommuneloven) | 11 | 2019-11-01 to 2026-01-01 |
 | `likestillings-og-diskrimineringsloven` | Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) | 6 | 2018-01-01 to 2024-07-01 |
+| `markedsforingsloven` | Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven) | 25 | 2009-06-01 to 2026-07-01 |
 | `naturmangfoldloven` | Lov om forvaltning av naturens mangfold (naturmangfoldloven) | 27 | 2009-07-01 to 2026-07-01 |
 | `offentleglova` | Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova). | 21 | 2009-01-01 to 2026-07-01 |
 | `opplaeringslova` | Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova) | 9 | 2024-08-01 to 2026-08-01 |
@@ -46,20 +48,580 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `universitets-og-hoyskoleloven` | Lov om universiteter og høyskoler (universitets- og høyskoleloven) | 5 | 2024-08-01 to 2026-08-01 |
 | `valgloven` | Lov om valg til Stortinget, fylkesting og kommunestyrer (valgloven) | 3 | 2024-05-01 to 2028-01-01 |
 | `vergemalsloven` | Lov om vergemål (vergemålsloven) | 15 | 2013-07-01 to 2026-03-20 |
+| `lappekodisillen` | Første Codicill og Tillæg til Grendse-Tractaten imellem Kongerigerne Norge og Sverrig Lapperne betreffende (Lappekodisillen) | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-undersjoiske-kabler` | Lov om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet | 1 | 2008-07-01 to 2008-07-01 |
+| `lov-om-leilendingsgods-tilhorende-stamhus` | Lov indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamhuse og visse Stiftelser m.v. | 1 | 1996-06-07 to 1996-06-07 |
+| `vrakloven` | Lov om Stranding og Vrag [vrakloven] | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-omordning-af-det-civile-embedsverk` | Lov om delvis Omordning af det civile Embedsværk | 1 | 2008-01-01 to 2008-01-01 |
+| `lov-om-moteplikt-til-stortinget` | Lov om særlige Straffebestemmelser m.v. for Personer, som i Henhold til Grundlovens § 75 h indkaldes til at møde for Storthinget | 1 | 2015-10-01 to 2015-10-01 |
+| `flaggloven` | Lov om Norges Flag [flaggloven] | 1 | 1899-12-16 to 1899-12-16 |
+| `lov-om-roros-kobberverks-skogvaesen` | Lov om forskjellige forhold vedkommende Røros Kobberverks Skogvæsen | 1 | 1901-07-01 to 1901-07-01 |
+| `militaer-straffelov` | Militær Straffelov | 1 | 2024-07-01 to 2024-07-01 |
+| `domstolloven` | Lov om domstolene (domstolloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-straff-for-internerte-militaere` | Lov om straffebestemmelser for utenlandske militærpersoner som er internert her i riket under krig mellem fremmede magter | 1 | 2015-10-01 to 2015-10-01 |
+| `kommisjonsloven` | Lov om kommisjon (kommisjonsloven) | 1 | 2002-07-01 to 2002-07-01 |
+| `lov-om-vidners-og-sakkyndiges-godtgjorelse` | Lov om vidners og sakkyndiges godtgjørelse m.v. | 1 | 2026-10-01 to 2026-10-01 |
+| `skjonnsprosessloven` | Lov om skjønn og ekspropriasjonssaker [skjønnsprosessloven] | 1 | 2026-10-01 to 2026-10-01 |
+| `vannfallrettighetsloven` | Lov om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `vassdragsreguleringsloven` | Lov om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven) | 1 | 2024-07-01 to 2024-07-01 |
+| `avtaleloven` | Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avtaleloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `rettsutdragsloven` | Lov om utdrag i sivile saker og straffesaker [rettsutdragsloven] | 1 | 2008-01-01 to 2008-01-01 |
+| `auksjonsloven` | Lov om frivillige auksjoner [auksjonsloven] | 1 | 2006-01-01 to 2006-01-01 |
+| `lov-om-kongens-myndighetsalder` | Lov om Kongens myndighetsalder | 1 | 1979-06-08 to 1979-06-08 |
+| `lov-om-statens-premieobligasjonslan` | Lov om adgang for staten til utferdigelse av premieobligasjonslån | 1 | 2023-01-01 to 2023-01-01 |
+| `lov-om-avgift-av-kull-m-v-fra-svalbard` | Lov om avgift av kull, jordoljer og andre mineraler og bergarter som utføres fra Svalbard | 1 | 2020-11-01 to 2020-11-01 |
+| `svalbardloven` | Lov om Svalbard [Svalbardloven] | 1 | 2026-07-01 to 2026-07-01 |
+| `bergverksordning-for-svalbard` | Bergverksordning for Svalbard | 1 | 1992-08-28 to 1992-08-28 |
+| `kraftledningsregisterloven` | Lov om registrering av elektriske kraftledninger [kraftledningsregisterloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `stamhusloven` | Lov om stamhuset Rosendal og om forandring i arverettsreglene for stamhuset Jarlsberg [stamhusloven] | 1 | 1999-05-28 to 1999-05-28 |
+| `el-tilsynsloven` | Lov om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-jan-mayen` | Lov om Jan Mayen | 1 | 2002-07-01 to 2002-07-01 |
+| `bilandsloven` | Lov om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. (bilandsloven) | 1 | 2015-10-01 to 2015-10-01 |
+| `landslottloven` | Lov om landslott [landslottloven] | 1 | 2026-07-01 to 2026-07-01 |
+| `vassdragslov-i-h-t-konvensjon-norge-sverige` | Lov i henhold til konvensjonen mellem Norge og Sverige om visse spørsmål vedrørende vassdragsretten av 11 mai 1929 | 1 | 2018-01-01 to 2018-01-01 |
+| `vinmonopolloven` | Lov om Aktieselskapet Vinmonopolet [vinmonopolloven] | 1 | 2012-01-01 to 2012-01-01 |
+| `ansvarlighetsloven` | Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `riksrettsrettergangsloven` | Lov om rettergangsmåten i riksrettssaker [riksrettsrettergangsloven] | 1 | 2014-05-09 to 2014-05-09 |
+| `lov-om-merkning-pa-tunge-kolli` | Lov om merkning av vekten på tunge kolli som fraktes med fartøi | 1 | 1933-01-01 to 1933-01-01 |
+| `vekselloven` | Lov om veksler [vekselloven] | 1 | 2026-07-01 to 2026-07-01 |
+| `sjekkloven` | Lov om chekker [sjekkloven] | 1 | 2018-07-01 to 2018-07-01 |
+| `lov-om-kvalitetskontroll-med-landbruksvarer` | Lov om kvalitetskontroll med landbruksvarer m.v. | 1 | 2015-10-01 to 2015-10-01 |
+| `saeravgiftsloven` | Lov om særavgifter (særavgiftsloven) | 1 | 2017-01-01 to 2017-01-01 |
+| `lov-om-flagging-pa-kommunale-bygninger` | Lov om flagging på kommunenes offentlige bygninger | 1 | 2021-06-04 to 2021-06-04 |
+| `betalingsutjevningsloven` | Lov om betalingsutjevning [betalingsutjevningsloven] | 1 | 1938-05-13 to 1938-05-13 |
+| `tinglysingsloven` | Lov om tinglysing [tinglysingsloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-til-a-fremja-umsetnaden-av-jordbruksvaror` | Lov til å fremja umsetnaden av jordbruksvaror | 1 | 2019-07-01 to 2019-07-01 |
+| `gjeldsbrevlova` | Lov om gjeldsbrev [gjeldsbrevlova] | 1 | 2013-07-01 to 2013-07-01 |
+| `deponeringslova` | Lov om deponering i gjeldshøve [deponeringslova] | 1 | 1957-07-06 to 1957-07-06 |
+| `lov-om-adgangen-til-visse-omrader` | Lov om adgangen til visse områder | 1 | 2015-10-01 to 2015-10-01 |
+| `vassdragsloven` | Lov om vassdragene [vassdragsloven] | 1 | 2010-01-01 to 2010-01-01 |
+| `lov-om-norsk-lysingsblad` | Lov om Norsk Lysingsblad | 1 | 1948-01-01 to 1948-01-01 |
+| `lov-om-krigspensjon-for-militaerpersoner` | Lov om krigspensjonering for militærpersoner | 1 | 2024-06-01 to 2024-06-01 |
+| `lov-om-krigspensjonering-for-sivile-m-v` | Lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner | 1 | 2024-06-01 to 2024-06-01 |
+| `lov-om-1-og-17-mai` | Lov om 1 og 17 mai som høgtidsdager | 1 | 2019-01-01 to 2019-01-01 |
+| `lov-um-prisereglar-og-prisedomstolar` | Lov um prisereglar og prisedomstolar | 1 | 2021-06-01 to 2021-06-01 |
+| `lov-om-internasjonale-organisasjoner-m-v` | Lov om immunitet og privilegier for internasjonale organisasjoner m.v. | 1 | 2025-06-06 to 2025-06-06 |
+| `lov-om-ulykkestrygd-pa-svalbard` | Lov om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard | 1 | 2006-07-01 to 2006-07-01 |
+| `boikottloven` | Lov om boikott [boikottloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `kunstavgiftsloven` | Lov om avgift på omsetning av billedkunst m.m. (kunstavgiftsloven) | 1 | 2019-08-01 to 2019-08-01 |
+| `pensjonsordning-for-arbeidstakere-til-sjos` | Lov om pensjonsordning for arbeidstakere til sjøs | 1 | 2024-10-01 to 2024-10-01 |
+| `riksteaterlova` | Lov om Riksteatret [riksteaterlova] | 1 | 2003-07-01 to 2003-07-01 |
+| `agnforsyningsloven` | Lov om produksjon, transport og omsetning av agn [agnforsyningsloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `dobbeltbeskatningsavtaleloven` | Lov om adgang for Kongen til å inngå overenskomster med fremmede stater til forebyggelse av dobbeltbeskatning mv. (dobbeltbeskatningsavtaleloven) | 1 | 2016-06-17 to 2016-06-17 |
+| `valutalova` | Lov om valutaregulering [valutalova] | 1 | 2017-01-01 to 2017-01-01 |
+| `lov-om-forbod-mot-samkvem-med-fienden` | Lov om forbod mot samkvem med personar som har tilhald på fiendeområde o.a | 1 | 2015-10-01 to 2015-10-01 |
+| `fiendegodsloven` | Lov om fiendegods [fiendegodsloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `beredskapsloven` | Lov om særlige rådgjerder under krig, krigsfare og liknende forhold [beredskapsloven] | 1 | 2022-12-20 to 2022-12-20 |
+| `rekvisisjonsloven` | Lov om militære rekvisisjoner [rekvisisjonsloven] | 1 | 2024-07-01 to 2024-07-01 |
+| `lov-om-norges-krigsskaderad` | Lov om Norges Krigsskaderåd | 1 | 2019-01-01 to 2019-01-01 |
+| `polititjenestepliktloven` | Lov om tjenesteplikt i politiet [polititjenestepliktloven] | 1 | 2024-07-01 to 2024-07-01 |
+| `lov-om-adgang-til-rekvisisjon-av-skip` | Lov om adgang til rekvisisjon av skip m.v. under krig eller kriseforhold | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-rett-til-a-selja-uhenta-ting` | Lov om rett for handverkarar o.a. til å selja ting som ikkje vert henta | 1 | 2016-04-22 to 2016-04-22 |
+| `hittegodslova` | Lov om hittegods [hittegodslova] | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-forsvarsviktige-oppfinnelser` | Lov om oppfinnelser av betydning for rikets forsvar | 1 | 2024-07-01 to 2024-07-01 |
+| `apotekpensjonsloven` | Lov om pensjonsordning for apotekvirksomhet mv. [apotekpensjonsloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `sjotrygdelagloven` | Lov om sjøtrygdelag [sjøtrygdelagloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `krigsskadeerstatningsloven` | Lov om erstatning for krigsskade på eiendom og interesse [krigsskadeerstatningsloven] | 1 | 2020-01-01 to 2020-01-01 |
+| `krigsskadestonadsloven` | Lov om stønad ved krigsskade på person [krigsskadestønadsloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-brudvigjing-i-utlandet` | Lov om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg | 1 | 2023-10-01 to 2023-10-01 |
+| `tilleggslov-om-statens-pensjonskasse` | Lov om tillegg til lov om Statens pensjonskasse av 28. juli 1949 | 1 | 2011-01-01 to 2011-01-01 |
+| `lov-om-avgift-til-fond-for-utovende-kunstnere` | Lov om avgift på offentlig framføring av utøvende kunstneres prestasjoner m.v. | 1 | 2018-07-01 to 2018-07-01 |
+| `lov-om-aldersgrenser-for-statsansatte-m-fl` | Lov om aldersgrenser for statsansatte m.fl. | 1 | 2026-01-01 to 2026-01-01 |
+| `isbjornloven` | Lov om fredning og fangst av isbjørn [isbjørnloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-pensjonering-av-militaert-tilsatte` | Lov om pensjonering av militært tilsatte som etter søknad er gitt avskjed med redusert lønn og tjenesteplikt | 1 | 2025-07-01 to 2025-07-01 |
+| `fiskerpensjonsloven` | Lov om pensjonstrygd for fiskere [fiskerpensjonsloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `friluftsloven` | Lov om friluftslivet (friluftsloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `samordningsloven` | Lov om samordning av pensjons- og trygdeytelser (samordningsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-statens-oppkrevere-m-v` | Lov om ansvar og garanti for statens oppkrevere og regnskapsførere m.v. | 1 | 2004-07-01 to 2004-07-01 |
+| `tjenestetvistloven` | Lov om offentlige tjenestetvister [tjenestetvistloven] | 1 | 2012-03-01 to 2012-03-01 |
+| `yrkesskadetrygdloven` | Lov om yrkesskadetrygd [yrkesskadetrygdloven] | 1 | 2024-01-01 to 2024-01-01 |
+| `motorkjoretoy-og-batavgiftsloven` | Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven) | 1 | 2017-01-01 to 2017-01-01 |
+| `oreigningslova` | Lov om oreigning av fast eigedom (oreigningslova) | 1 | 2026-07-01 to 2026-07-01 |
+| `mortifikasjonslova` | Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova] | 1 | 2026-07-01 to 2026-07-01 |
+| `grannegjerdelova` | Lov om grannegjerde [grannegjerdelova] | 1 | 2026-07-01 to 2026-07-01 |
+| `beitelova` | Lov om ymse beitespørsmål [beitelova] | 1 | 2022-07-01 to 2022-07-01 |
+| `grannelova` | Lov om rettshøve mellom grannar (grannelova) | 1 | 2016-04-22 to 2016-04-22 |
+| `sykepleierpensjonsloven` | Lov om pensjonsordning for sykepleiere [sykepleierpensjonsloven] | 1 | 2026-10-01 to 2026-10-01 |
+| `lov-om-andre-undersjoiske-naturforekomster` | Lov om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster | 1 | 2021-06-18 to 2021-06-18 |
+| `lov-om-fullbyrding-av-nordiske-straffedommer` | Lov om fullbyrding av nordiske dommer på straff m.v. | 1 | 2026-01-01 to 2026-01-01 |
+| `kjopslovvalgsloven` | Lov om mellomfolkeleg-privatrettslege reglar for lausøyrekjøp [kjøpslovvalgsloven] | 1 | 1964-09-01 to 1964-09-01 |
+| `lov-om-fristar-og-betalingsutsetjing` | Lov om fristar og betalingsutsetjing og ymist anna i serlege tilhøve | 1 | 2016-04-22 to 2016-04-22 |
+| `lov-om-avgift-til-det-norske-komponistfond` | Lov om avgift til Det norske komponistfond | 1 | 2019-08-01 to 2019-08-01 |
+| `vegtrafikkloven` | Lov om vegtrafikk (vegtrafikkloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `sameigelova` | Lov om sameige [sameigelova] | 1 | 2016-01-01 to 2016-01-01 |
+| `forpaktingslova` | Lov om forpakting [forpaktingslova] | 1 | 2021-06-01 to 2021-06-01 |
+| `kredittloven` | Lov om adgang til regulering av penge- og kredittforholdene [kredittloven] | 1 | 2020-01-01 to 2020-01-01 |
+| `lov-om-pensjonsordning-for-sivilombudsmannen` | Lov om pensjonsordning for Stortingets ombudsmann for forvaltningen | 1 | 2024-04-12 to 2024-04-12 |
+| `lov-om-avgift-pa-forestillinger-m-v` | Lov om avgift til statskassen på inngangspenger til forestillinger og framvisninger m.v. | 1 | 2015-10-01 to 2015-10-01 |
+| `hevdslova` | Lov om hevd [hevdslova] | 1 | 2002-03-01 to 2002-03-01 |
+| `trygderettsloven` | Lov om anke til Trygderetten (trygderettsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `forvaltningsloven` | Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-internasjonale-investeringstvistar` | Lov om å setja i verk avtala 18 mars 1965 om løysing av tvistar mellom ein stat og borgarar i andre statar om investeringar | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-forbud-mot-at-redere-gir-opplysninger` | Lov om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlandske myndigheter | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-diskriminering-i-internasj-skipsfart` | Lov om tiltak mot diskriminering i internasjonal skipsfart | 1 | 2015-10-01 to 2015-10-01 |
+| `patentloven` | Lov om patenter (patentloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `tilleggslov-om-krigspensjonering` | Lov om tillegg til 1) lov om krigspensjonering for militærpersoner av 13. desember 1946 og 2) lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner av 13. desember 1946 | 1 | 2006-07-01 to 2006-07-01 |
+| `servituttlova` | Lov um særlege råderettar over framand eigedom [servituttlova] | 1 | 2016-01-01 to 2016-01-01 |
+| `hendelege-eigedomshovelova` | Lov om hendelege eigedomshøve | 1 | 1969-07-01 to 1969-07-01 |
+| `skadeserstatningsloven` | Lov om skadeserstatning (skadeserstatningsloven) | 1 | 2022-07-01 to 2022-07-01 |
+| `lov-om-norsk-lovtidend` | Lov om Norsk Lovtidend m.v. | 1 | 1993-08-01 to 1993-08-01 |
+| `lov-om-gjennomforing-av-nordiske-konvensjoner` | Lov om gjennomføring av nordiske konvensjoner om visse internasjonal-privatrettslige forhold | 1 | 1969-12-19 to 1969-12-19 |
+| `hanndyrloven` | Lov om avgrensing i retten til å sleppa hingstar, oksar, verar og geitebukkar på beite [hanndyrlova] | 1 | 2021-06-01 to 2021-06-01 |
+| `arbeidstakeroppfinnelsesloven` | Lov om retten til oppfinnelser som er gjort av arbeidstakere [arbeidstakeroppfinnelsesloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-utlevering-mellom-nordiske-land` | Lov om utlevering for å få iverksatt vedtak om frihetsinngrep truffet av myndighet i annet nordisk land | 1 | 2013-07-01 to 2013-07-01 |
+| `lov-om-forskningsavgift-i-landbruket` | Lov om forskningsavgift på landbruksprodukter | 1 | 2015-10-01 to 2015-10-01 |
+| `brannfarligvareloven-svalbard` | Lov om brannfarlige varer samt væsker og gasser under trykk [brannfarligvareloven] [gjelder bare for Svalbard] | 1 | 2015-10-01 to 2015-10-01 |
+| `kristendomslaerelov-for-vidaregaande-skoler-m-v` | Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet | 1 | 1986-07-11 to 1986-07-11 |
+| `grensereinbeiteloven` | Lov om svensk reinbeiting i Norge og norsk reinbeiting i Sverige (grensereinbeiteloven) | 1 | 2023-06-09 to 2023-06-09 |
+| `tobakksskadeloven` | Lov om vern mot tobakksskader (tobakksskadeloven) | 1 | 2026-03-30 to 2026-03-30 |
+| `lov-om-utvinning-av-petroleum-under-land` | Lov om undersøkelser etter og utvinning av petroleum i grunnen under norsk landområde | 1 | 1973-05-04 to 1973-05-04 |
+| `lonnsgarantiloven` | Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-statsbidrag-til-skytebaner` | Lov om statsbidrag til anlegg m.v. av skytebaner | 1 | 1974-04-05 to 1974-04-05 |
+| `lov-om-prisregler-for-jern-og-stal` | Lov om prisregler for jern og stål | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-eksplosive-varer-svalbard` | Lov om eksplosive varer [gjelder bare for Svalbard] | 1 | 2015-10-01 to 2015-10-01 |
+| `odelslova` | Lov om odelsretten og åsetesretten (odelslova) | 1 | 2025-01-01 to 2025-01-01 |
+| `vegfraktloven` | Lov om vegfraktavtaler [vegfraktloven] | 1 | 2020-09-09 to 2020-09-09 |
+| `lov-om-nordisk-vitneplikt` | Lov om nordisk vitneplikt | 1 | 2016-04-22 to 2016-04-22 |
+| `fjellova` | Lov om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova) | 1 | 2023-06-09 to 2023-06-09 |
+| `petroleumsskatteloven` | Lov om skattlegging av undersjøiske petroleumsforekomster mv. (petroleumsskatteloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `utleveringsloven` | Lov om utlevering av lovbrytere m.v. [utleveringsloven] | 1 | 2026-10-01 to 2026-10-01 |
+| `dokumentavgiftsloven` | Lov om dokumentavgift (dokumentavgiftsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-nordisk-miljovernkonvensjon` | Lov om gjennomføring i norsk rett av miljøvernkonvensjon mellom Norge, Danmark, Finland og Sverige, undertegnet 19 februar 1974 | 1 | 1976-12-17 to 1976-12-17 |
+| `produktkontrolloven` | Lov om kontroll med produkter og forbrukertjenester (produktkontrolloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `okonomiske-soneloven` | Lov om Norges økonomiske sone [økonomiske soneloven] | 1 | 2017-07-01 to 2017-07-01 |
+| `forsinkelsesrenteloven` | Lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) | 1 | 2013-03-16 to 2013-03-16 |
+| `lov-om-overforing-av-straffeforfolging` | Lov om overføring av straffeforfølging fra eller til annet europeisk land | 1 | 1978-03-30 to 1978-03-30 |
+| `lov-om-kommunal-forkjopsrett-til-leiegarder` | Lov om kommunal forkjøpsrett til leiegårder | 1 | 2004-01-01 to 2004-01-01 |
+| `steriliseringsloven` | Lov om sterilisering [steriliseringsloven] | 1 | 2021-06-01 to 2021-06-01 |
+| `lov-om-nordiske-privatrettslige-dommer` | Lov om anerkjennelse og fullbyrding av nordiske dommer på privatrettens område | 1 | 2013-07-01 to 2013-07-01 |
+| `jernbaneansvarsloven` | Lov om jernbaneansvar (jernbaneansvarsloven) | 1 | 2016-04-22 to 2016-04-22 |
+| `motorferdselloven` | Lov om motorferdsel i utmark og vassdrag (motorferdselloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `godtroervervloven` | Lov om godtroerverv av løsøre [godtroervervloven] | 1 | 2002-03-01 to 2002-03-01 |
+| `lov-om-utenlandske-skilsmisser` | Lov om anerkjennelse av utenlandske skilsmisser og separasjoner | 1 | 2021-06-01 to 2021-06-01 |
+| `kulturminneloven` | Lov om kulturminner [kulturminneloven] | 1 | 2018-12-20 to 2018-12-20 |
+| `foreldelsesloven` | Lov om foreldelse av fordringer (foreldelsesloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `panteloven` | Lov om pant (panteloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `rettshjelpsloven` | Lov om fri rettshjelp (rettshjelpsloven) | 1 | 2026-10-01 to 2026-10-01 |
+| `barneombudsloven` | Lov om barneombud [barneombudsloven] | 1 | 2023-09-01 to 2023-09-01 |
+| `forurensningsloven` | Lov om vern mot forurensninger og om avfall (forurensningsloven) | 1 | 2026-06-19 to 2026-06-19 |
+| `barnelova` | Lov om barn og foreldre (barnelova) | 1 | 2026-01-01 to 2026-01-01 |
+| `straffeprosessloven` | Lov om rettergangsmåten i straffesaker (Straffeprosessloven) | 1 | 2026-10-01 to 2026-10-01 |
+| `forbrukermerkeloven` | Lov om merking av forbruksvarer mv. (forbrukermerkeloven) | 1 | 2020-10-01 to 2020-10-01 |
+| `hoyesterettspensjonsloven` | Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensjonsloven] | 1 | 2024-04-12 to 2024-04-12 |
+| `containerloven` | Lov om sikre containere [containerloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `rettsgebyrloven` | Lov om rettsgebyr (rettsgebyrloven) | 1 | 2026-10-01 to 2026-10-01 |
+| `tannhelsetjenesteloven` | Lov om tannhelsetjenesten (tannhelsetjenesteloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `ekspropriasjonserstatningslova` | Lov om vederlag ved oreigning av fast eigedom [ekspropriasjonserstatningslova] | 1 | 1997-06-19 to 1997-06-19 |
+| `konkursloven` | Lov om gjeldsforhandling og konkurs (konkursloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `dekningsloven` | Lov om fordringshavernes dekningsrett (dekningsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `trollheimenloven` | Lov om reindrift i kommunene Meldal, Midtre Gauldal, Oppdal, Rennebu, Rindal, Sunndal og Surnadal [Trollheimenloven] | 1 | 2021-06-01 to 2021-06-01 |
+| `lov-om-avtale-mellom-norge-og-kina` | Lov om inngåelse av avtale mellom Kongeriket Norge og Folkerepublikken Kina vedrørende gjensidig beskyttelse av investeringer | 1 | 1985-05-03 to 1985-05-03 |
+| `foretaksnavneloven` | Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `prokuraloven` | Lov om prokura [prokuraloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `selskapsloven` | Lov om ansvarlige selskaper og kommandittselskaper (Selskapsloven) | 1 | 2024-01-01 to 2024-01-01 |
+| `folkebibliotekloven` | Lov om folkebibliotek (folkebibliotekloven) | 1 | 2014-01-01 to 2014-01-01 |
+| `mesterbrevloven` | Lov om mesterbrev i håndverk og annen næring [mesterbrevloven] | 1 | 2022-12-20 to 2022-12-20 |
+| `film-og-videogramlova` | Lov om film og videogram | 1 | 2022-01-01 to 2022-01-01 |
+| `bibliotekvederlagsloven` | Lov om bibliotekvederlag | 1 | 2019-08-01 to 2019-08-01 |
+| `nis-loven` | Lov om norsk internasjonalt skipsregister [NIS-loven] | 1 | 2026-07-01 to 2026-07-01 |
+| `sameloven` | Lov om Sametinget og andre samiske rettsforhold (sameloven) | 1 | 2024-08-01 to 2024-08-01 |
+| `lov-om-forbud-mot-fallskjermhopping` | Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder | 1 | 2015-10-01 to 2015-10-01 |
+| `eksportkontrolloven` | Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. [eksportkontrolloven] | 1 | 2021-07-01 to 2021-07-01 |
+| `ferieloven` | Lov om ferie [ferieloven] | 1 | 2024-01-01 to 2024-01-01 |
+| `permitteringslonnsloven` | Lov om lønnsplikt under permittering (permitteringslønnsloven) | 1 | 2022-03-01 to 2022-03-01 |
+| `inkassoloven` | Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `kjopsloven` | Lov om kjøp [kjøpsloven] | 1 | 2014-11-01 to 2014-11-01 |
+| `barnebortforingsloven` | Lov om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar m v og om tilbakelevering av barn (barnebortføringsloven) | 1 | 2018-12-20 to 2018-12-20 |
+| `produktansvarsloven` | Lov om produktansvar [produktansvarsloven] | 1 | 2026-07-01 to 2026-07-01 |
+| `forskotteringsloven` | Lov om bidragsforskott (forskotteringsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `alkoholloven` | Lov om omsetning av alkoholholdig drikk m.v. (alkoholloven) | 1 | 2026-07-20 to 2026-07-20 |
+| `pliktavleveringslova` | Lov om avleveringsplikt for allment tilgjengelege dokument (pliktavleveringslova) | 1 | 2016-01-01 to 2016-01-01 |
+| `handverkertjenesteloven` | Lov om håndverkertjenester m.m for forbrukere [håndverkertjenesteloven] | 1 | 2007-06-15 to 2007-06-15 |
+| `yrkesskadeforsikringsloven` | Lov om yrkesskadeforsikring (yrkesskadeforsikringsloven) | 1 | 2022-12-20 to 2022-12-20 |
+| `forsikringsavtaleloven` | Lov om forsikringsavtaler (forsikringsavtaleloven) | 1 | 2025-04-01 to 2025-04-01 |
+| `naturskadeforsikringsloven` | Lov om naturskadeforsikring | 1 | 2026-01-01 to 2026-01-01 |
+| `fiskeeksportloven` | Lov om regulering av eksporten av fisk, fiskevarer og marine produkter (fiskeeksportloven) | 1 | 2023-07-01 to 2023-07-01 |
+| `stadnamnlova` | Lov om stadnamn (stadnamnlova) | 1 | 2021-06-01 to 2021-06-01 |
+| `kretsmonsterloven` | Lov om vern av kretsmønstre for integrerte kretser [kretsmønsterloven] | 1 | 2022-07-01 to 2022-07-01 |
+| `energiloven` | Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-avgift-pa-utslipp-av-co2` | Lov om avgift på utslipp av CO 2 i petroleumsvirksomhet på kontinentalsokkelen | 1 | 2024-04-01 to 2024-04-01 |
+| `husstandsfellesskapsloven` | Lov om rett til felles bolig og innbo når husstandsfellesskap opphører [husstandsfellesskapsloven] | 1 | 2021-01-01 to 2021-01-01 |
+| `ekteskapsloven` | Lov om ekteskap (ekteskapsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-overforing-av-domfelte` | Lov om overføring av domfelte | 1 | 2017-01-01 to 2017-01-01 |
+| `lakse-og-innlandsfiskloven` | Lov om laksefisk og innlandsfisk mv. (lakse- og innlandsfiskloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `lov-om-inspeksjoner-av-styrker-i-europa` | Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) og om immunitet og privilegier for inspektørene m.fl | 1 | 2015-10-01 to 2015-10-01 |
+| `agenturloven` | Lov om handelsagenter og handelsreisende (agenturloven) | 1 | 2006-01-01 to 2006-01-01 |
+| `bygdeallmenningsloven` | Lov om bygdeallmenninger | 1 | 2026-07-01 to 2026-07-01 |
+| `statsallmenningsloven` | Lov om skogsdrift m.v. i statsallmenningene | 1 | 2023-06-09 to 2023-06-09 |
+| `tvangsfullbyrdelsesloven` | Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven) | 1 | 2026-09-18 to 2026-09-18 |
+| `forsoksloven` | Lov om forsøk i offentlig forvaltning (forsøksloven) | 1 | 2021-06-01 to 2021-06-01 |
+| `avhendingslova` | Lov om avhending av fast eigedom (avhendingslova) | 1 | 2022-01-01 to 2022-01-01 |
+| `gjeldsordningsloven` | Lov om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `eos-loven` | Lov om gjennomføring i norsk rett av hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde (EØS) m.v. (EØS-loven) | 1 | 2014-04-12 to 2014-04-12 |
+| `forsikringslovvalgsloven` | Lov om lovvalg i forsikring [forsikringslovvalgsloven] | 1 | 1997-01-24 to 1997-01-24 |
+| `lov-om-sjotransporttjenester` | Lov om fri utveksling av tjenesteytelser innen sjøtransport | 1 | 1998-06-26 to 1998-06-26 |
+| `kringkastingsloven` | Lov om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `husdyravlsloven` | Lov om husdyravl | 1 | 2015-10-01 to 2015-10-01 |
+| `legemiddelloven` | Lov om legemidler m.v. (legemiddelloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `planteforedlerloven` | Lov om planteforedlerrett (planteforedlerloven) | 1 | 2022-07-01 to 2022-07-01 |
+| `genteknologiloven` | Lov om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven) | 1 | 2025-10-01 to 2025-10-01 |
+| `lov-om-vederlag-for-kunstvisning` | Lov om vederlag for visning av billedkunst og kunsthåndverk m.v. | 1 | 2019-08-01 to 2019-08-01 |
+| `allmenngjoringsloven` | Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `pristiltaksloven` | Lov om pristiltak | 1 | 2017-01-01 to 2017-01-01 |
+| `lov-om-prisregulering-ved-fiskeimport-m-v` | Lov om prisregulering ved import av fisk og fiskevarer m.v. | 1 | 2015-10-01 to 2015-10-01 |
+| `jernbaneloven` | Lov om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) | 1 | 2024-10-01 to 2024-10-01 |
+| `naturskadeloven` | Lov om sikring mot naturskader | 1 | 2017-01-01 to 2017-01-01 |
+| `lov-om-konvensjon-om-kjemiske-vapen` | Lov om gjennomføring av Konvensjonen om forbod mot utvikling, produksjon, lagring og bruk av kjemiske våpen samt øydelegging av dei | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-tekniske-kontrollorgan` | Lov om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar | 1 | 1997-05-02 to 1997-05-02 |
+| `lov-om-krigsforbryterdomstol-jugoslavia-m-m` | Lov om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda | 1 | 2016-04-22 to 2016-04-22 |
+| `sjoloven` | Lov om sjøfarten (sjøloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-afp-for-apotekvirksomhet` | Lov om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjonsordning for apotekvirksomhet mv. | 1 | 2024-10-01 to 2024-10-01 |
+| `smittevernloven` | Lov om vern mot smittsomme sykdommer [smittevernloven] | 1 | 2024-06-01 to 2024-06-01 |
+| `lov-om-loysingsrettar` | Lov om løysingsrettar | 1 | 2018-01-01 to 2018-01-01 |
+| `eos-kontrolloven` | Lov om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-kontrolloven) | 1 | 2023-01-01 to 2023-01-01 |
+| `helligdagsfredloven` | Lov om helligdager og helligdagsfred | 1 | 2021-06-01 to 2021-06-01 |
+| `jordlova` | Lov om jord (jordlova) | 1 | 2025-01-01 to 2025-01-01 |
+| `lov-om-innenlands-transport-i-eos-avtalen` | Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen | 1 | 2025-06-20 to 2025-06-20 |
+| `politiloven` | Lov om politiet (politiloven) | 1 | 2026-10-01 to 2026-10-01 |
+| `eofg-loven` | Lov om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens vedlegg XXII nr. 10 (rådsforordning (EØF) nr. 2137/85) (EØFG-loven) | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-regulering-av-byggje-og-anleggsverksemd` | Lov om regulering av byggje- og anleggsverksemd | 1 | 2015-10-01 to 2015-10-01 |
+| `gravplassloven` | Lov om gravplasser, kremasjon og gravferd (gravplassloven) | 1 | 2024-07-01 to 2024-07-01 |
+| `naturoppsynsloven` | Lov om statlig naturoppsyn (naturoppsynsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-europeiske-samarbeidsutvalg-m-v` | Lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. | 1 | 2019-08-01 to 2019-08-01 |
+| `svalbardskatteloven` | Lov om skatt til Svalbard (Svalbardskatteloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `jan-mayen-skatteloven` | Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skatteloven) | 1 | 2016-06-17 to 2016-06-17 |
+| `petroleumsloven` | Lov om petroleumsvirksomhet [petroleumsloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `artistskatteloven` | Lov om skatt på honorar til utenlandske artister mv (artistskatteloven) | 1 | 2017-01-01 to 2017-01-01 |
+| `tomtefestelova` | Lov om tomtefeste | 1 | 2018-01-01 to 2018-01-01 |
+| `norfundloven` | Lov om Statens investeringsfond for næringsvirksomhet i utviklingsland (Norfundloven) | 1 | 2025-06-20 to 2025-06-20 |
+| `innforsle-og-utforslereguleringslova` | Lov om innførsle- og utførsleregulering | 1 | 2023-01-01 to 2023-01-01 |
+| `oppgaveregisterloven` | Lov om Oppgaveregisteret | 1 | 2021-01-01 to 2021-01-01 |
+| `kystvaktloven` | Lov om Kystvakten (kystvaktloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `bustadoppforingslova` | Lov om avtalar med forbrukar om oppføring av ny bustad m.m. (bustadoppføringslova) | 1 | 2021-01-01 to 2021-01-01 |
+| `aksjeloven` | Lov om aksjeselskaper (aksjeloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `allmennaksjeloven` | Lov om allmennaksjeselskaper (allmennaksjeloven) | 1 | 2025-06-20 to 2025-06-20 |
+| `lov-om-europaradsavtale-om-handel-med-narkotika` | Lov om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope stoffer til sjøs | 1 | 2015-10-01 to 2015-10-01 |
+| `serveringsloven` | Lov om serveringsvirksomhet (serveringsloven) | 1 | 2023-10-01 to 2023-10-01 |
+| `familievernkontorloven` | Lov om familievernkontorer | 1 | 2026-01-01 to 2026-01-01 |
+| `passloven` | Lov om pass (passloven) | 1 | 2026-01-23 to 2026-01-23 |
+| `kontantstotteloven` | Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `smabatloven` | Lov om fritids- og småbåter (småbåtloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-konvensjonen-mot-antipersonellminer` | Lov om gjennomføring av Konvensjonen om forbud mot bruk, lagring, produksjon og overføring av antipersonellminer og om ødeleggelse av slike miner | 1 | 2015-10-01 to 2015-10-01 |
+| `regnskapsloven` | Lov om årsregnskap m.v. (regnskapsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `operapensjonsloven` | Lov om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den Norske Opera & Ballett [operapensjonsloven] | 1 | 2020-01-01 to 2020-01-01 |
+| `lov-om-ledsagerpensjon-i-utenrikstjenesten` | Lov om pensjonsordning for ledsagere i utenrikstjenesten | 1 | 2023-10-01 to 2023-10-01 |
+| `iks-loven` | Lov om interkommunale selskaper (IKS-loven) | 1 | 2024-01-01 to 2024-01-01 |
+| `deltakerloven` | Lov om retten til å delta i fiske og fangst (deltakerloven) | 1 | 2023-04-21 to 2023-04-21 |
+| `husleieloven` | Lov om husleieavtaler (husleieloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `menneskerettsloven` | Lov om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-traktat-mot-kjernefysiske-provesprengingar` | Lov om gjennomføring av Traktat om totalforbod mot kjernefysiske prøvesprengingar | 1 | 2015-10-01 to 2015-10-01 |
+| `lov-om-omdanning-til-postbanken-as` | Lov om omdanning av Postbanken BA til aksjeselskap | 1 | 1999-06-18 to 1999-06-18 |
+| `lov-om-registrering-av-raoljehandel` | Lov om registrering av import og leveranser av råolje i Det europeiske økonomiske samarbeidsområde | 1 | 1999-06-25 to 1999-06-25 |
+| `spesialisthelsetjenesteloven` | Lov om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `pasient-og-brukerrettighetsloven` | Lov om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `helsepersonelloven` | Lov om helsepersonell m.v. (helsepersonelloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `sis-loven` | Lov om Schengen informasjonssystem (SIS) [SIS-loven] | 1 | 2026-06-12 to 2026-06-12 |
+| `lov-om-kommunalbanken-as` | Lov om omdanning av Noregs Kommunalbank til aksjeselskap | 1 | 2004-03-01 to 2004-03-01 |
+| `brukthandellova` | Lov om handelsverksemd med brukte og kasserte ting (brukthandellova) | 1 | 2024-07-01 to 2024-07-01 |
+| `kornforvaltningsloven` | Lov om kornforvaltning m.v. | 1 | 2015-10-01 to 2015-10-01 |
+| `foretakspensjonsloven` | Lov om foretakspensjon (foretakspensjonsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `stralevernloven` | Lov om strålevern og bruk av stråling [strålevernloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `apotekloven` | Lov om apotek (apotekloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `helseberedskapsloven` | Lov om helsemessig og sosial beredskap (helseberedskapsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-eksportavgift-pa-fiskevarer` | Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen | 1 | 2026-01-01 to 2026-01-01 |
+| `innskuddspensjonsloven` | Lov om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven) | 1 | 2024-01-01 to 2024-01-01 |
+| `vannressursloven` | Lov om vassdrag og grunnvann (vannressursloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `vaktvirksomhetsloven` | Lov om vaktvirksomhet (vaktvirksomhetsloven) | 1 | 2023-06-02 to 2023-06-02 |
+| `lov-om-garanti-fra-statoil-asa-ved-aksjesalg` | Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer | 1 | 2001-05-18 to 2001-05-18 |
+| `pasientskadeloven` | Lov om erstatning ved pasientskader mv. (pasientskadeloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-gjennomforing-av-roma-vedtektene` | Lov om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene) | 1 | 2016-04-22 to 2016-04-22 |
+| `inndelingslova` | Lov om fastsetjing og endring av kommune- og fylkesgrenser (inndelingslova) | 1 | 2025-07-01 to 2025-07-01 |
+| `knockoutloven` | Lov om organisert kampaktivitet som tillater knockout [knockoutloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `dyrehelsepersonelloven` | Lov om veterinærer og annet dyrehelsepersonell [dyrehelsepersonelloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `svalbardmiljoloven` | Lov om miljøvern på Svalbard (svalbardmiljøloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-banetele-as` | Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap | 1 | 2016-03-01 to 2016-03-01 |
+| `helseforetaksloven` | Lov om helseforetak m.m. (helseforetaksloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-pensjonsrettigheter-innen-eos` | Lov om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvstendig næringsdrivende som flytter innenfor EØS-området | 1 | 2025-04-01 to 2025-04-01 |
+| `barnetrygdloven` | Lov om barnetrygd (barnetrygdloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-notarius-publicus` | Lov om notarius publicus | 1 | 2023-10-01 to 2023-10-01 |
+| `navneloven` | Lov om personnavn (navneloven) | 1 | 2021-06-01 to 2021-06-01 |
+| `brann-og-eksplosjonsvernloven` | Lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-oppheving-av-ervervsloven-mv` | Lov om oppheving av lov om erverv av næringsverksemd | 1 | 2002-07-01 to 2002-07-01 |
+| `lov-om-nsb-as-og-posten-norge-as` | Lov om omdanning av statens jernbanetrafikkselskap (NSB BA) og statens postselskap (Posten Norge BA) til aksjeselskaper | 1 | 2016-03-01 to 2016-03-01 |
+| `yrkestransportlova` | Lov om yrkestransport med motorvogn og fartøy (yrkestransportlova) | 1 | 2026-07-01 to 2026-07-01 |
+| `naturgassloven` | Lov om felles regler for det indre marked for naturgass (naturgassloven) | 1 | 2025-04-01 to 2025-04-01 |
+| `lov-om-statlig-aksjeselskap-for-vegproduksjon` | Lov om omdanning av Statens vegvesens produksjonsvirksomhet til statlig aksjeselskap | 1 | 2016-03-01 to 2016-03-01 |
+| `lov-om-statens-lufthavnselskap` | Lov om omdanning av Luftfartsverket til aksjeselskap | 1 | 2016-03-01 to 2016-03-01 |
+| `behandlingsbiobankloven` | Lov om behandlingsbiobanker (behandlingsbiobankloven) | 1 | 2026-06-01 to 2026-06-01 |
+| `designloven` | Lov om beskyttelse av design (designloven) | 1 | 2023-03-01 to 2023-03-01 |
+| `miljoinformasjonsloven` | Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven) | 1 | 2009-01-01 to 2009-01-01 |
+| `bustadbyggjelagslova` | Lov om bustadbyggjelag (bustadbyggjelagslova) | 1 | 2024-11-01 to 2024-11-01 |
+| `territorialfarvannsloven` | Lov om Norges territorialfarvann og tilstøtende sone [territorialfarvannsloven] | 1 | 2023-01-01 to 2023-01-01 |
+| `alternativ-behandlingsloven` | Lov om alternativ behandling av sykdom mv. | 1 | 2026-06-01 to 2026-06-01 |
+| `hundeloven` | Lov om forsvarlig hundehold (hundeloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `konsesjonsloven` | Lov om konsesjon ved erverv av fast eiendom mv. (konsesjonsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `bioteknologiloven` | Lov om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven) | 1 | 2025-10-01 to 2025-10-01 |
+| `merverdiavgiftskompensasjonsloven` | Lov om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. (merverdiavgiftskompensasjonsloven) | 1 | 2022-06-15 to 2022-06-15 |
+| `dattersamvirkeforetaksloven` | Lov om heleide dattersamvirkeforetak | 1 | 2008-01-01 to 2008-01-01 |
+| `varekrigsforsikringslova` | Lov om statleg varekrigsforsikring | 1 | 2004-01-01 to 2004-01-01 |
+| `matloven` | Lov om matproduksjon og mattrygghet mv. (matloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-innovasjon-norge` | Lov om Innovasjon Norge | 1 | 2026-01-01 to 2026-01-01 |
+| `svine-og-fjorfeproduksjonsloven` | Lov om regulering av svine- og fjørfeproduksjonen | 1 | 2004-04-01 to 2004-04-01 |
+| `eos-konkurranseloven` | Lov om gjennomføring og kontroll av EØS-avtalens konkurranseregler mv. (EØS-konkurranseloven) | 1 | 2014-01-01 to 2014-01-01 |
+| `lov-om-finansiell-sikkerhetsstillelse` | Lov om finansiell sikkerhetsstillelse | 1 | 2020-01-01 to 2020-01-01 |
+| `voldgiftsloven` | Lov om voldgift | 1 | 2008-01-01 to 2008-01-01 |
+| `valutaregisterloven` | Lov om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterloven) | 1 | 2021-04-16 to 2021-04-16 |
+| `brukerromsloven` | Lov om ordning med brukerrom for inntak av narkotika (brukerromsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-omorganisering-av-statkraft-sf` | Lov om omorganisering av Statkraft SF | 1 | 2004-09-10 to 2004-09-10 |
+| `bokforingsloven` | Lov om bokføring (bokføringsloven) | 1 | 2021-01-01 to 2021-01-01 |
+| `cotif-loven` | Lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-loven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-kystverkets-produksjonsvirksomhet` | Lov om omdanning av Kystverkets produksjonsvirksomhet til statsaksjeselskap | 1 | 2016-03-01 to 2016-03-01 |
+| `klimakvoteloven` | Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven) | 1 | 2026-06-19 to 2026-06-19 |
+| `eos-horingsloven` | Lov om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven) | 1 | 2023-09-15 to 2023-09-15 |
+| `lov-om-baneservice-som-as` | Lov om omdanning av Jernbaneverkets forretningsenhet BaneService til aksjeselskap | 1 | 2016-03-01 to 2016-03-01 |
+| `lov-om-det-frie-varebyttet-innan-eos` | Lov om handheving av det frie varebyttet innan EØS | 1 | 2005-03-04 to 2005-03-04 |
+| `se-loven` | Lov om europeiske selskaper (SE-loven) | 1 | 2022-12-20 to 2022-12-20 |
+| `bidragsinnkrevingsloven` | Lov om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-supplerande-stonad-ved-kort-butid` | Lov om supplerande stønad til personar med kort butid i Noreg | 1 | 2026-05-07 to 2026-05-07 |
+| `skogbrukslova` | Lov om skogbruk (skogbrukslova) | 1 | 2025-01-01 to 2025-01-01 |
+| `jernbaneundersokelsesloven` | Lov om varsling, rapportering og undersøkelse av jernbaneulykker og jernbanehendelser m.m. (jernbaneundersøkelsesloven) | 1 | 2021-06-11 to 2021-06-11 |
+| `utdanningsstotteloven` | Lov om utdanningsstøtte (utdanningsstøtteloven) | 1 | 2026-08-01 to 2026-08-01 |
+| `skattebetalingsloven` | Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `akvakulturloven` | Lov om akvakultur (akvakulturloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `finnmarksloven` | Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `partiloven` | Lov om visse forhold vedrørende de politiske partiene (partiloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `statens-pensjonsfond-loven` | Lov om Statens pensjonsfond | 1 | 2020-01-01 to 2020-01-01 |
+| `otp-loven` | Lov om obligatorisk tjenestepensjon [OTP-loven] | 1 | 2022-01-01 to 2022-01-01 |
+| `kosmetikklova` | Lov om kosmetikk og kroppspleieprodukt m.m. (kosmetikklova) | 1 | 2024-07-01 to 2024-07-01 |
+| `lov-om-opplosning-av-stamhuset-ekeberg` | Lov om oppløsning av stamhuset Ekeberg | 1 | 2006-01-01 to 2006-01-01 |
+| `sce-loven` | Lov om europeiske samvirkeforetak (SCE-loven) | 1 | 2022-12-20 to 2022-12-20 |
+| `lov-om-beredskapslagring-av-petroleumsprodukt` | Lov om beredskapslagring av petroleumsprodukt | 1 | 2022-12-20 to 2022-12-20 |
+| `lov-om-malenheter-maling-og-normaltid` | Lov om målenheter, måling og normaltid | 1 | 2013-04-12 to 2013-04-12 |
+| `skipssikkerhetsloven` | Lov om skipssikkerhet (skipssikkerhetsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `reindriftsloven` | Lov om reindrift (reindriftsloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `folketrygdfondloven` | Lov om Folketrygdfondet | 1 | 2026-01-01 to 2026-01-01 |
+| `svarteborsloven` | Lov om forbud mot prispåslag ved videresalg av billetter til kultur- og idrettsarrangementer | 1 | 2007-07-01 to 2007-07-01 |
+| `frivillighetsregisterloven` | Lov om register for frivillig virksomhet | 1 | 2026-01-01 to 2026-01-01 |
+| `kulturlova` | Lov om offentlege styresmakters ansvar for kulturverksemd (kulturlova) | 1 | 2025-07-01 to 2025-07-01 |
+| `studentsamskipnadsloven` | Lov om studentsamskipnader (studentsamskipnadsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `helseforskningsloven` | Lov om medisinsk og helsefaglig forskning (helseforskningsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-individuell-pensjonsordning` | Lov om individuell pensjonsordning | 1 | 2017-11-01 to 2017-11-01 |
+| `stortingspensjonsutvalgsloven` | Lov om utvalget for gjennomgang av stortingspensjoner | 1 | 2018-07-20 to 2018-07-20 |
+| `statens-finansfond-loven` | Lov om Statens finansfond | 1 | 2026-01-01 to 2026-01-01 |
+| `klaseammunisjonsloven` | Lov om gjennomføring av Konvensjonen om klaseammunisjon | 1 | 2015-10-01 to 2015-10-01 |
+| `husbankloven` | Lov om Husbanken | 1 | 2026-01-01 to 2026-01-01 |
+| `markaloven` | Lov om naturområder i Oslo og nærliggende kommuner (markaloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `krisesenterlova` | Lov om kommunale krisesentertilbod (krisesenterlova) | 1 | 2026-01-01 to 2026-01-01 |
+| `merverdiavgiftsloven` | Lov om merverdiavgift (merverdiavgiftsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-undersokelsesutvalg-psykiske-lidelser` | Lov om utvalg som skal undersøke forhold knyttet til at personer med kjent psykisk lidelse har tatt liv | 1 | 2009-06-19 to 2009-06-19 |
+| `voksenopplaeringsloven` | Lov om voksenopplæring (voksenopplæringsloven) | 1 | 2021-01-01 to 2021-01-01 |
+| `tjenesteloven` | Lov om tjenestevirksomhet (tjenesteloven) | 1 | 2023-10-01 to 2023-10-01 |
+| `lov-om-omklassifisering-av-veg` | Lov om overføring av rettigheter og forpliktelser ved omklassifisering av veg etter vegloven § 62 tredje ledd i forbindelse med forvaltningsreformen | 1 | 2009-06-19 to 2009-06-19 |
+| `lov-om-pensjon-for-oppdragstaker-i-barnevernet` | Lov om pensjonsordning for oppdragstaker i beredskapshjem eller spesialisert fosterhjem | 1 | 2025-12-22 to 2025-12-22 |
+| `afp-tilskottsloven` | Lov om statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat sektor (AFP-tilskottsloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `varemerkeloven` | Lov om beskyttelse av varemerker (varemerkeloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `havenergilova` | Lov om fornybar energiproduksjon til havs (havenergilova) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-afp-for-medlemmer-av-statens-pensjonskasse` | Lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse | 1 | 2026-01-01 to 2026-01-01 |
+| `sivilbeskyttelsesloven` | Lov om sivil beskyttelse og beredskap (sivilbeskyttelsesloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `edelmetalloven` | Lov om varer av edelt metall mv. [edelmetalloven] | 1 | 2011-01-01 to 2011-01-01 |
+| `geodataloven` | Lov om infrastruktur for geografisk informasjon (geodataloven) | 1 | 2012-01-20 to 2012-01-20 |
+| `lov-om-internasjonal-sikkerhet-i-mobilt-losore` | Lov om internasjonale sikkerhetsretter i mobilt løsøre | 1 | 2011-04-01 to 2011-04-01 |
+| `elsertifikatloven` | Lov om elsertifikater | 1 | 2021-07-01 to 2021-07-01 |
+| `verdipapirfondloven` | Lov om verdipapirfond (verdipapirfondloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `stortings-og-regjeringspensjonsloven` | Lov om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer (stortings- og regjeringspensjonsloven) | 1 | 2022-04-01 to 2022-04-01 |
+| `naeringsberedskapsloven` | Lov om næringsberedskap (næringsberedskapsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `arrestordreloven` | Lov om pågriping og overlevering til og frå Noreg for straffbare forhold på grunnlag av ein arrestordre (arrestordreloven) | 1 | 2020-01-01 to 2020-01-01 |
+| `arbeidstvistloven` | Lov om arbeidstvister (arbeidstvistloven) | 1 | 2024-01-01 to 2024-01-01 |
+| `lonnsnemndloven` | Lov om lønnsnemnd i arbeidstvister (lønnsnemndloven) | 1 | 2012-12-14 to 2012-12-14 |
+| `tidspartloven` | Lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven) | 1 | 2021-01-01 to 2021-01-01 |
+| `a-opplysningsloven` | Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `patentstyrelova` | Lov om Patentstyret og Klagenemnda for industrielle rettar (patentstyrelova) | 1 | 2021-07-01 to 2021-07-01 |
+| `bustottelova` | Lov om bustøtte og kommunale bustadtilskot (bustøttelova) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-registrering-av-verv-og-okonomiske-interesser` | Lov om registrering av regjeringsmedlemmers, statssekretærers og politiske rådgiveres verv og økonomiske interesser | 1 | 2023-12-20 to 2023-12-20 |
+| `eos-arbeidstakarlova` | Lov om fri rørsle av arbeidstakarar innanfor EØS mv. (EØS-arbeidstakarlova) | 1 | 2025-04-10 to 2025-04-10 |
+| `eos-vareloven` | Lov om det frie varebytte i EØS (EØS-vareloven) | 1 | 2023-09-15 to 2023-09-15 |
+| `kulturradsloven` | Lov om Kulturrådet (kulturrådsloven) | 1 | 2024-01-01 to 2024-01-01 |
+| `fiskesalslagslova` | Lov om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) | 1 | 2015-10-01 to 2015-10-01 |
+| `jordskiftelova` | Lov om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. (jordskiftelova) | 1 | 2025-07-01 to 2025-07-01 |
+| `skipsarbeidsloven` | Lov om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `tjenestepensjonsloven` | Lov om tjenestepensjon (tjenestepensjonsloven) | 1 | 2022-04-01 to 2022-04-01 |
+| `endringslov-til-lov-om-statens-pensjonskasse-mfl` | Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uførepensjonsordning) | 1 | 2014-12-19 to 2014-12-19 |
+| `lov-om-stans-i-utbetalinger-etter-barnebortforing` | Lov om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av foreldra har bortført eit barn til utlandet | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-kredittvurderingsbyraer` | Lov om kredittvurderingsbyråer | 1 | 2025-07-01 to 2025-07-01 |
+| `lov-om-rituell-omskjaering-av-gutter` | Lov om rituell omskjæring av gutter | 1 | 2015-01-01 to 2015-01-01 |
+| `helseregisterloven` | Lov om helseregistre og behandling av helseopplysninger (helseregisterloven) | 1 | 2026-06-01 to 2026-06-01 |
+| `konfliktradsloven` | Lov om konfliktrådsbehandling (konfliktrådsloven) | 1 | 2026-10-01 to 2026-10-01 |
+| `tanaloven` | Lov om fiskeretten i Tanavassdraget (Tanaloven) | 1 | 2014-07-01 to 2014-07-01 |
+| `naturskadeerstatningsloven` | Lov om erstatning for naturskader (naturskadeerstatningsloven) | 1 | 2019-07-01 to 2019-07-01 |
+| `bildeprogramloven` | Lov om beskyttelse av mindreårige mot skadelige bildeprogram mv. | 1 | 2025-05-01 to 2025-05-01 |
+| `utenrikstjenesteloven` | Lov om utenrikstjenesten (utenrikstjenesteloven) | 1 | 2023-10-01 to 2023-10-01 |
+| `lov-om-utvalget-for-evaluering-av-eos-utvalget` | Lov om utvalget for evaluering av EOS-utvalget | 1 | 2015-02-13 to 2015-02-13 |
+| `transplantasjonslova` | Lov om donasjon og transplantasjon av organ, celler og vev (transplantasjonslova) | 1 | 2026-06-01 to 2026-06-01 |
+| `obduksjonslova` | Lov om obduksjon og avgjeving av lik til undervisning og forsking (obduksjonslova) | 1 | 2022-07-01 to 2022-07-01 |
+| `lov-om-forsvunne-personar` | Lov om forsvunne personar | 1 | 2021-06-01 to 2021-06-01 |
+| `nim-loven` | Lov om Norges institusjon for menneskerettigheter (NIM-loven) | 1 | 2026-02-13 to 2026-02-13 |
+| `id-kortloven` | Lov om nasjonalt identitetskort (ID-kortloven) | 1 | 2026-01-23 to 2026-01-23 |
+| `kassasystemlova` | Lov om krav til kassasystem (kassasystemlova) | 1 | 2017-01-01 to 2017-01-01 |
+| `straffelovens-ikraftsettingslov` | Lov om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov) | 1 | 2015-10-01 to 2015-10-01 |
+| `karanteneloven` | Lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og statsansatte (karanteneloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `lov-om-haagkonvensjonen-1996` | Lov om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn (lov om Haagkonvensjonen 1996) | 1 | 2023-01-01 to 2023-01-01 |
+| `postloven` | Lov om posttjenester (postloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `referanseverdiloven` | Lov om fastsettelse av finansielle referanseverdier (referanseverdiloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `eric-lova` | Lov om konsortium for europeisk forskingsinfrastruktur (ERIC-lova) | 1 | 2016-01-01 to 2016-01-01 |
+| `its-loven` | Lov om intelligente transportsystemer innenfor vegtransport m.m. (ITS-loven) | 1 | 2015-12-11 to 2015-12-11 |
+| `lov-om-nye-veier-as` | Lov om overføring av offentlige og private rettsforhold fra Statens vegvesen til et statlig utbyggingsselskap for veg | 1 | 2016-01-01 to 2016-01-01 |
+| `lov-om-granskingskommisjonen-for-scandinavian-star` | Lov om granskingskommisjonen for brannen på Scandinavian Star | 1 | 2016-04-29 to 2016-04-29 |
+| `lov-om-informasjonstilgang-m-m-for-barnevoldsutvalget` | Lov om informasjonstilgang m.m. for Barnevoldsutvalget | 1 | 2019-07-01 to 2019-07-01 |
+| `godkjenningsloven` | Lov om godkjenning av klageorganer for forbrukersaker (godkjenningsloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `lov-om-omdanning-av-aim-norway-sf-til-aksjeselskap` | Lov om omdanning av Aerospace Industrial Maintenance Norway SF til aksjeselskap | 1 | 2016-08-01 to 2016-08-01 |
+| `lov-om-endring-av-juridisk-kjonn` | Lov om endring av juridisk kjønn | 1 | 2025-07-01 to 2025-07-01 |
+| `lov-om-apenhet-om-eierskap-i-medier` | Lov om åpenhet om eierskap i medier | 1 | 2026-01-01 to 2026-01-01 |
+| `anskaffelsesloven` | Lov om offentlige anskaffelser (anskaffelsesloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `forsvarsloven` | Lov om verneplikt og tjeneste i Forsvaret m.m. (forsvarsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-reservasjonssystemer-for-flyreiser-mv` | Lov om reservasjonssystemer for flyreiser mv. | 1 | 2016-09-09 to 2016-09-09 |
+| `folkeregisterloven` | Lov om folkeregistrering (folkeregisterloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `forsvarsundersokelsesloven` | Lov om undersøkelser av ulykker og hendelser i Forsvaret (forsvarsundersøkelsesloven) | 1 | 2020-01-01 to 2020-01-01 |
+| `lov-om-informasjonstilgang-mv-for-statens-helsetilsyn` | Lov om informasjonstilgang mv. for Statens helsetilsyn ved gjennomgang av et utvalg barnevernssaker | 1 | 2021-06-01 to 2021-06-01 |
+| `forskningsetikkloven` | Lov om organisering av forskningsetisk arbeid (forskningsetikkloven) | 1 | 2024-08-01 to 2024-08-01 |
+| `lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjos` | Lov om tilskudd til sysselsetting av arbeidstakere til sjøs | 1 | 2026-06-23 to 2026-06-23 |
+| `taubaneloven` | Lov om taubaner (taubaneloven) | 1 | 2024-01-01 to 2024-01-01 |
+| `tivoliloven` | Lov om fornøyelsesinnretninger (tivoliloven) | 1 | 2024-01-01 to 2024-01-01 |
+| `gjeldsinformasjonsloven` | Lov om gjeldsinformasjon ved kredittvurdering av privatpersoner (gjeldsinformasjonsloven) | 1 | 2022-07-01 to 2022-07-01 |
+| `adopsjonsloven` | Lov om adopsjon (adopsjonsloven) | 1 | 2023-01-01 to 2023-01-01 |
+| `diskrimineringsombudsloven` | Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-statens-undersokelseskommisjon-for-helse-og-omsorgstjenesten` | Lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten | 1 | 2026-07-01 to 2026-07-01 |
+| `klimaloven` | Lov om klimamål (klimaloven) | 1 | 2025-06-20 to 2025-06-20 |
+| `lov-om-overforing-av-ansvar-for-kollektivtransport` | Lov om overføring av ansvar for kollektivtransport | 1 | 2020-01-01 to 2020-01-01 |
+| `statsansatteloven` | Lov om statens ansatte mv. (statsansatteloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `yrkeskvalifikasjonsloven` | Lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven) | 1 | 2021-08-01 to 2021-08-01 |
+| `lov-om-informasjon-skjermingsverdige-objekter-og-bunnforhold-mv` | Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold | 1 | 2017-10-01 to 2017-10-01 |
+| `helsetilsynsloven` | Lov om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-utproving-av-selvkjorende-kjoretoy` | Lov om utprøving av selvkjørende kjøretøy | 1 | 2018-07-20 to 2018-07-20 |
+| `midlertidig-lov-om-tillegg-til-merverdiavgiftsloven` | Midlertidig lov om tillegg til merverdiavgiftsloven | 1 | 2018-01-01 to 2018-01-01 |
+| `lov-om-bankenes-sikringsfond` | Lov om Bankenes sikringsfond | 1 | 2026-07-01 to 2026-07-01 |
+| `vapenlova` | Lov om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova) | 1 | 2026-07-01 to 2026-07-01 |
+| `grenseloven` | Lov om grensetilsyn og grensekontroll av personer (grenseloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `fagskoleloven` | Lov om høyere yrkesfaglig utdanning (fagskoleloven) | 1 | 2025-08-01 to 2025-08-01 |
+| `pakkereiseloven` | Lov om pakkereiser og reisegaranti mv. (pakkereiseloven) | 1 | 2021-06-11 to 2021-06-11 |
+| `lov-om-elektroniske-tillitstjenester` | Lov om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester) | 1 | 2024-06-21 to 2024-06-21 |
+| `lov-om-register-over-reelle-rettighetshavere` | Lov om register over reelle rettighetshavere | 1 | 2024-10-01 to 2024-10-01 |
+| `lov-om-tilskudd-til-virksomheter-med-offentlig-tjenestepensjonsordning` | Lov om tilskudd til visse private virksomheter med offentlig tjenestepensjonsordning | 1 | 2026-07-01 to 2026-07-01 |
+| `verdipapirsentralloven` | Lov om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `havbunnsmineralloven` | Lov om mineralvirksomhet på kontinentalsokkelen (havbunnsmineralloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-en-overgangsperiode-ved-storbritannias-uttreden-av-eu` | Lov om en overgangsperiode ved Storbritannias uttreden av EU | 1 | 2020-02-01 to 2020-02-01 |
+| `sentralbankloven` | Lov om Norges Bank og pengevesenet mv. (sentralbankloven) | 1 | 2026-04-01 to 2026-04-01 |
+| `statistikkloven` | Lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven) | 1 | 2019-11-01 to 2019-11-01 |
+| `lov-om-forbud-mot-hold-av-pelsdyr` | Lov om forbud mot hold av pelsdyr | 1 | 2022-03-25 to 2022-03-25 |
+| `havne-og-farvannsloven` | Lov om havner og farvann (havne- og farvannsloven) | 1 | 2021-01-01 to 2021-01-01 |
+| `lov-om-informasjonstilgang-m-m-for-partnerdrapsutvalget` | Lov om informasjonstilgang m.m. for Partnerdrapsutvalget | 1 | 2020-12-15 to 2020-12-15 |
+| `lov-om-opphevelse-av-omstillingslova` | Lov om opphevelse av omstillingslova | 1 | 2020-01-01 to 2020-01-01 |
+| `endringslov-til-folketrygdloven-og-enkelte-andre-lover` | Lov om endringer i folketrygdloven og enkelte andre lover | 1 | 2020-12-18 to 2020-12-18 |
+| `lov-om-informasjonstilgang-mv-for-nav-granskingsutvalget` | Lov om informasjonstilgang mv. for utvalget for ekstern gransking av saken knyttet til feilaktig praktisering av adgangen til å motta sykepenger, arbeidsavklaringspenger og pleiepenger ved opphold i et annet EØS-land | 1 | 2020-08-04 to 2020-08-04 |
+| `kredittopplysningsloven` | Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven) | 1 | 2022-07-01 to 2022-07-01 |
+| `lov-om-statens-obligasjonsfond` | Lov om Statens obligasjonsfond | 1 | 2020-03-27 to 2020-03-27 |
+| `lov-om-statlig-garantiordning-for-lan-til-sma-og-mellomstore-bedrifter` | Lov om statlig garantiordning for lån til små og mellomstore bedrifter | 1 | 2020-03-27 to 2020-03-27 |
+| `forretningshemmelighetsloven` | Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven) | 1 | 2021-01-01 to 2021-01-01 |
+| `lov-om-midl-tilskuddsordning-ved-omsetningsfall` | Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall | 1 | 2020-04-17 to 2020-04-17 |
+| `lov-om-god-handelsskikk-i-dagligvarekjeden` | Lov om god handelsskikk i dagligvarekjeden | 1 | 2026-04-30 to 2026-04-30 |
+| `trossamfunnsloven` | Lov om tros- og livssynssamfunn (trossamfunnsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-medisinsk-utstyr` | Lov om medisinsk utstyr | 1 | 2026-07-01 to 2026-07-01 |
+| `rekonstruksjonsloven` | Midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 (rekonstruksjonsloven) | 1 | 2026-06-19 to 2026-06-19 |
+| `bredbandsutbyggingsloven` | Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommunikasjon (bredbåndsutbyggingsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-informasjonstilgang-fornorskingspolitikk` | Lov om informasjonstilgang mv. for Kommisjonen for å granske fornorskingspolitikk og urett overfor samer, kvener og norskfinner | 1 | 2023-06-01 to 2023-06-01 |
+| `medieansvarsloven` | Lov om redaksjonell uavhengighet og ansvar i redaktørstyrte journalistiske medier (medieansvarsloven) | 1 | 2020-07-01 to 2020-07-01 |
+| `etterretningstjenesteloven` | Lov om Etterretningstjenesten (etterretningstjenesteloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `lov-om-infrastruktur-for-alternativt-drivstoff` | Lov om infrastruktur for alternativt drivstoff | 1 | 2023-07-01 to 2023-07-01 |
+| `forbrukerklageloven` | Lov om behandling av forbrukerklager i Forbrukertilsynet og Forbrukerklageutvalget (forbrukerklageloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `lov-om-midl-kompensasjon-ved-nullsats-for-arbeidsgiveravgift` | Lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard) | 1 | 2020-06-23 to 2020-06-23 |
+| `integreringsloven` | Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `revisorloven` | Lov om revisjon og revisorer (revisorloven) | 1 | 2025-04-01 to 2025-04-01 |
+| `brexit-loven` | Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union (brexit-loven) | 1 | 2022-11-25 to 2022-11-25 |
+| `koronakommisjonsloven` | Lov om informasjonstilgang m.m. for den uavhengige kommisjonen som skal gjennomgå og evaluere myndighetenes håndtering av covid-19-pandemien i Norge (Koronakommisjonen) | 1 | 2026-01-01 to 2026-01-01 |
+| `mediestotteloven` | Lov om økonomisk støtte til mediene (mediestøtteloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `lov-om-midl-tilskudd-ved-omsetningsfall-etter-august-2020` | Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020 | 1 | 2022-01-28 to 2022-01-28 |
+| `lov-om-midl-tilskudd-for-innreisekarantene` | Lov om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet | 1 | 2020-12-21 to 2020-12-21 |
+| `sanksjonsloven` | Lov om gjennomføring av internasjonale sanksjoner (sanksjonsloven) | 1 | 2024-12-20 to 2024-12-20 |
+| `spraklova` | Lov om språk (språklova) | 1 | 2025-07-01 to 2025-07-01 |
+| `lov-om-kollektiv-forvaltning-av-opphavsrett-mv` | Lov om kollektiv forvaltning av opphavsrett mv. | 1 | 2021-07-01 to 2021-07-01 |
+| `tolkeloven` | Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven) | 1 | 2022-06-15 to 2022-06-15 |
+| `lov-om-norges-kontinentalsokkel` | Lov om Norges kontinentalsokkel | 1 | 2021-06-18 to 2021-06-18 |
+| `apenhetsloven` | Lov om virksomheters åpenhet og arbeid med grunnleggende menneskerettigheter og anstendige arbeidsforhold (åpenhetsloven) | 1 | 2024-11-01 to 2024-11-01 |
+| `forsvarsombudsloven` | Lov om Stortingets ombudsnemnd for Forsvaret (forsvarsombudsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-informasjonstilgang-overgrep-begatt-av-helsepersonell` | Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep begått av helsepersonell mot pasienter i perioden 2010 til 2020 | 1 | 2022-04-16 to 2022-04-16 |
+| `sivilombudsloven` | Lov om Stortingets ombud for kontroll med forvaltningen (sivilombudsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-roystingsradgjevarar` | Lov om røystingsrådgjevarar | 1 | 2025-04-01 to 2025-04-01 |
+| `lov-om-utleie-av-sma-elektriske-kjoretoy-pa-offentlig-grunn` | Lov om utleie av små elektriske kjøretøy på offentlig grunn | 1 | 2021-06-18 to 2021-06-18 |
+| `forsikringsformidlingsloven` | Lov om forsikringsformidling (forsikringsformidlingsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-lonnsstotte-okonomiske-tiltak-i-mote-med-pandemien` | Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien) | 1 | 2026-01-01 to 2026-01-01 |
+| `stotteprosessloven` | Lov om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `tollavgiftsloven` | Lov om tollavgift (tollavgiftsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `vareforselsloven` | Lov om inn- og utførsel av varer (vareførselsloven) | 1 | 2026-09-15 to 2026-09-15 |
+| `pengespilloven` | Lov om pengespill (pengespilloven) | 1 | 2025-01-01 to 2025-01-01 |
+| `advokatloven` | Lov om advokater og andre som yter rettslig bistand (advokatloven) | 1 | 2026-10-01 to 2026-10-01 |
+| `forsvarssamarbeidsloven` | Lov om gjennomføring av tilleggsavtale mellom Norge og USA om forsvarssamarbeid av 16. april 2021 (forsvarssamarbeidsloven) mv. | 1 | 2022-06-10 to 2022-06-10 |
+| `lov-om-forskriftshjemmel-personopplysninger` | Lov om forskriftshjemmel for behandling av personopplysninger for frivillige tiltak på barne-, oppvekst- og familieområdet mv. | 1 | 2022-06-17 to 2022-06-17 |
+| `lov-om-informasjonstilgang-for-riksrevisjonen` | Lov om informasjonstilgang for Riksrevisjonen ved undersøkelser av saker som gjelder stortingsrepresentantenes økonomiske ordninger | 1 | 2025-06-20 to 2025-06-20 |
+| `digitalytelsesloven` | Lov om levering av digitale ytelser til forbrukere (digitalytelsesloven) | 1 | 2023-10-01 to 2023-10-01 |
+| `voldserstatningsloven` | Lov om erstatning fra staten til voldsutsatte (voldserstatningsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `regnskapsforerloven` | Lov om regnskapsførere (regnskapsførerloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `laneformidlingsloven` | Lov om låneformidling (låneformidlingsloven) | 1 | 2026-08-01 to 2026-08-01 |
+| `lov-om-informasjonstilgang-m-m-for-ekstremismekommisjonen` | Lov om informasjonstilgang m.m. for Ekstremismekommisjonen | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-informasjonstilgang-m-m-for-koronautvalget-mv` | Lov om informasjonstilgang m.m. for Koronautvalget, og endringer i voldserstatningsloven (ny forskriftshjemmel) | 1 | 2026-01-01 to 2026-01-01 |
+| `boligsosialloven` | Lov om kommunenes ansvar på det boligsosiale feltet [boligsosialloven] | 1 | 2023-07-01 to 2023-07-01 |
+| `lov-om-informasjonstilgang-m-m-for-baneheia-utvalget` | Lov om informasjonstilgang m.m. for det uavhengige utvalget som skal granske straffesaken mot Viggo Kristiansen i Baneheia-saken og foreta en gjennomgang av Kommisjonen for gjenopptakelse av straffesaker (Baneheia-utvalget) | 1 | 2023-06-09 to 2023-06-09 |
+| `lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret` | Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret | 1 | 2023-06-09 to 2023-06-09 |
+| `bokloven` | Lov om omsetning av bøker (bokloven) | 1 | 2024-01-01 to 2024-01-01 |
+| `militaerpolitiloven` | Lov om militær politimyndighet (militærpolitiloven) | 1 | 2025-06-20 to 2025-06-20 |
+| `digitalsikkerhetsloven` | Lov om digital sikkerhet (digitalsikkerhetsloven) | 1 | 2025-10-01 to 2025-10-01 |
+| `suppleringsskatteloven` | Lov om suppleringsskatt på underbeskattet inntekt i konsern (suppleringsskatteloven) | 1 | 2025-12-22 to 2025-12-22 |
+| `lov-om-informasjonstilgang-gransking-av-utenlandsadopsjoner` | Lov om informasjonstilgang m.m. for utvalget som skal granske utenlandsadopsjoner til Norge | 1 | 2026-06-22 to 2026-06-22 |
+| `priips-loven` | Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven) | 1 | 2024-10-01 to 2024-10-01 |
+| `finanstilsynsloven` | Lov om Finanstilsynet (finanstilsynsloven) | 1 | 2026-08-01 to 2026-08-01 |
+| `lov-om-omdanning-av-opplysningsvesenets-fond-til-aksjeselskap` | Lov om omdanning av Opplysningsvesenets fond til aksjeselskap | 1 | 2024-06-25 to 2024-06-25 |
+| `lov-om-statens-fond-i-tromso` | Lov om Statens fond i Tromsø | 1 | 2024-08-09 to 2024-08-09 |
+| `baerekraftige-produkter-loven` | Lov om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven) | 1 | 2024-07-01 to 2024-07-01 |
+| `riksrevisjonsloven` | Lov om Riksrevisjonen (riksrevisjonsloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `abortloven` | Lov om abort (abortloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-statens-kommisjon-for-partnerdrap` | Lov om Statens kommisjon for partnerdrap | 1 | 2025-04-01 to 2025-04-01 |
+| `ela-lova` | Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) | 1 | 2025-04-10 to 2025-04-10 |
+| `statsforetakslova` | Lov om statsføretak (statsføretakslova) | 1 | 2026-01-01 to 2026-01-01 |
+| `innkrevingsloven` | Lov om innkreving av statlige krav mv. (innkrevingsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `dora-loven` | Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven) | 1 | 2026-07-01 to 2026-07-01 |
+| `kryptoeiendelsloven` | Lov om kryptoeiendeler (kryptoeiendelsloven) | 1 | 2025-07-01 to 2025-07-01 |
+| `lov-om-bevaring-og-baerekraftig-bruk-av-marint-naturmangfold-i-omrader-utenfor-nasjonal-jurisdiksjon` | Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon | 1 | 2026-01-17 to 2026-01-17 |
+| `vass-og-avlopsanleggslova` | Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova) | 1 | 2026-01-01 to 2026-01-01 |
+| `havvernloven` | Lov om vern av marin natur utenfor territorialfarvannet (havvernloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-norgespris-og-stromstonad-til-husholdninger` | Lov om Norgespris og strømstønad til husholdninger | 1 | 2025-08-29 to 2025-08-29 |
+| `representantytelsesloven` | Lov om godtgjøring og andre ytelser til stortingsrepresentanter (representantytelsesloven) | 1 | 2025-10-01 to 2025-10-01 |
+| `lov-om-informasjonstilgang-evaluering-av-etterretningstjenesteloven` | Lov om informasjonstilgang m.m. for Utvalget for evaluering av etterretningstjenesteloven | 1 | 2025-06-20 to 2025-06-20 |
+| `lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv` | Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og paralympiske komité og dets organisasjonsledd for å forebygge, avdekke og reagere mot seksuelle overgrep, trakassering og vold mv. i idretten | 1 | 2025-07-01 to 2025-07-01 |
+| `arkivlova` | Lov om dokumentasjon og arkiv (arkivlova) | 1 | 2026-01-01 to 2026-01-01 |
+| `folkehogskoleloven` | Lov om folkehøgskoler (folkehøgskoleloven) | 1 | 2026-06-19 to 2026-06-19 |
+| `viltressursloven` | Lov om jakt, fangst og felling av vilt mv. (viltressursloven) | 1 | 2026-06-19 to 2026-06-19 |
+| `besoksbidragsloven` | Lov om besøksbidrag (besøksbidragsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `enhetsregisterloven` | Lov om Enhetsregisteret (enhetsregisterloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `foretaksregisterloven` | Lov om Foretaksregisteret (foretaksregisterloven) | 1 | 2026-01-01 to 2026-01-01 |
+| `mineralloven` | Lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-kompensasjonsordning-for-kjemikalieskadde-oljepionerar` | Lov om kompensasjonsordning for kjemikalieskadde oljepionerar | 1 | 2026-06-23 to 2026-06-23 |
+| `romloven` | Lov om aktiviteter i verdensrommet (romloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `folkefinansieringsloven` | Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `barnevoldsundersokelsesloven` | Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-2026-06-12-25` | Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-2026-06-23-75` | Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene | 1 | 2026-06-23 to 2026-06-23 |
 
-The build made 528 commits:
+The build made 1113 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 30 | first version of an act |
-| 498 | one law on its in-force day |
+| 591 | first version of an act |
+| 522 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 2 commits on the branch `fremtidig`: laws not yet in force on 2026-10-29.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 442 laws in the record.
-- 852 tags.
+- 2 commits on the branch `fremtidig`: laws not yet in force on 2026-11-02.
+- 9 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 455 laws in the record.
+- 1445 tags.
 
 ## Dates
 
@@ -71,13 +633,13 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fed1a5093242f030751d7db390acbe8ec374f8f198fad49847d8f5ab7f8f05a9` (7101203 bytes).
+- Corpus: sha256 `43a35a06151120d5e36522d7e50a47bff1e4b33fc9c3efa0b2d7404538a1d908` (21100804 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-610 versions of 30 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+1195 versions of 591 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
@@ -258,6 +820,27 @@ No second build of this corpus has been compared yet.
 - likestillings-og-diskrimineringsloven: amending instruction not applied by the replay (LOV-2017-12-19-115, no bokstav 1: § 44 nr. 1 oppheves.): § 44 nr. 1 oppheves.
 - likestillings-og-diskrimineringsloven: amending instruction not applied by the replay (LOV-2017-12-19-115, no bokstav 3: § 44 nr. 3 oppheves.): § 44 nr. 3 oppheves.
 - likestillings-og-diskrimineringsloven: Lov 20. desember 2019 nr. 110 amended Lov 21. juni 2019 nr. 57 before that law took effect; its correction of § 26 b takes effect with it, 2020-01-01.
+- markedsforingsloven: replayed from the act as promulgated (LOV-2009-01-09-2) through every amending law Norsk Lovtidend lists for it; the replay matches Lovdata's consolidated text (as of 2026-10-21) in every unit (70).
+- markedsforingsloven: Lov 19. juni 2026 nr. 34 is passed but not yet in force (Lovdata: "i kraft fra den tid Kongen bestemmer"); its changes are not in the history: paragraf-007, paragraf-008.
+- markedsforingsloven: amending instruction not applied by the replay (LOV-2013-05-31-25, § 412 is not in the text (§ 412 ny nr. 270 skal lyde:)): § 412 ny nr. 270 skal lyde:
+- markedsforingsloven: amending instruction not applied by the replay (LOV-2021-06-11-62, no such ledd: § 24 andre og tredje ledd oppheves.): § 24 andre og tredje ledd oppheves.
+- markedsforingsloven: amending instruction not applied by the replay (LOV-2026-06-19-34, 2 letters, 10 texts with nested lists: § 5 bokstav e og ny bokstav f til n skal lyde:): § 5 bokstav e og ny bokstav f til n skal lyde:
+- markedsforingsloven: kapittel-01 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-02 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-03 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-04 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-05 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-06 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-07 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-08 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: kapittel-10 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
+- markedsforingsloven: paragraf-039 keeps the ledd «Et vedtak gjelder i fem år ...», which the consolidated text of Lovdata leaves out: lov 20. mai 2020 nr. 42 replaced the first ledd, added a new second ledd and made the old second and third ledd the third and fourth, without repealing the old fourth ledd, and no later law in Norsk Lovtidend repeals it; the official wording is kept.
+- markedsforingsloven: Lovdata gives the day Lov 3. september 2010 nr. 53 took effect for its change of § 43 in its note on § 42, the number that paragraph has had since a later law renumbered it ("tidligere § 43"): 2011-01-01.
+- markedsforingsloven: Lovdata gives the day Lov 20. juni 2014 nr. 27 took effect for its change of § 43 in its note on § 42, the number that paragraph has had since a later law renumbered it ("tidligere § 43"): 2014-06-20.
+- markedsforingsloven: Lovdata gives the day Lov 2. juni 2017 nr. 31 took effect for its change of § 43 in its note on § 42, the number that paragraph has had since a later law renumbered it ("tidligere § 43"): 2018-01-01.
+- markedsforingsloven: § 42: the law renumbers ledd onto the number of the old fifth ledd, which it neither moves nor repeals, and adds "§ 42 nytt sjette ledd skal lyde:" a revision of that ledd: the new ledd replaces it, as in the consolidated text of Lovdata (Lov 16. juni 2017 nr. 49).
+- markedsforingsloven: Lovdata gives the day Lov 16. juni 2017 nr. 49 took effect for its change of § 43 in its note on § 42, the number that paragraph has had since a later law renumbered it ("tidligere § 43"): 2018-01-01.
+- markedsforingsloven: § 39: the law moves ledd on ("Nåværende § 39 annet og tredje ledd blir tredje og fjerde ledd."); its instruction printed after that ("§ 39 tredje ledd første punktum skal lyde:") names the ledd by its new number, the old second ledd (Lov 20. mai 2020 nr. 42).
 - naturmangfoldloven: replayed from the act as promulgated (LOV-2009-06-19-100) through every amending law Norsk Lovtidend lists for it; the replay matches Lovdata's consolidated text (as of 2026-10-21) in every unit (93).
 - naturmangfoldloven: kapittel-01 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
 - naturmangfoldloven: kapittel-02 is a chapter heading the official Lovtidend text prints without a full stop after the chapter number, where the consolidated text of Lovdata has one; the official wording is kept.
@@ -467,6 +1050,61 @@ No second build of this corpus has been compared yet.
 - vergemalsloven: paragraf-067 reads «folketrygdloven § 22-4» where the consolidated text of Lovdata has «folketrygdloven § § 22-4»; the official Lovtidend text has one section sign, and the official wording is kept.
 - vergemalsloven: Lov 18. desember 2020 nr. 149 replaced the list of amendments to other acts in Lov 14. juni 2019 nr. 21 before that law took effect; the amendments of this act are applied as restated, with that law, on 2021-01-01, credited to both laws (§ 41, § 42).
 - vergemalsloven: Lov 21. juni 2024 nr. 46 replaced the list of amendments to other acts in Lov 12. mai 2022 nr. 28 before that law took effect; the amendments of this act are applied as restated, with that law, on 2025-01-01, credited to both laws (§ 65).
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- militaer-straffelov (LOV-1902-05-22-13): the consolidated text's section «Slutningsbestemmelse.» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-vidners-og-sakkyndiges-godtgjorelse (LOV-1916-07-21-2): the consolidated text's section «Slutningsbestemmelse.» (not part of the act's own chapters, such as an annexed text) is not included.
+- skjonnsprosessloven (LOV-1917-06-01-1): the consolidated text's section «Slutningsbestemmelse.» (not part of the act's own chapters, such as an annexed text) is not included.
+- rettsutdragsloven (LOV-1918-08-14-2): the consolidated text's section «Slutningsbestemmelse.» (not part of the act's own chapters, such as an annexed text) is not included.
+- auksjonsloven (LOV-1918-08-14-3): the consolidated text's section «Slutningsbestemmelse.» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-internasjonale-organisasjoner-m-v (LOV-1947-06-19-5): the consolidated text's section «II.» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- beitelova (LOV-1961-06-16-12): the consolidated text's section «Kap. I. (Oppheva med lov 13 juni 1980 nr. 41.)» (not part of the act's own chapters, such as an annexed text) is not included.
+- patentloven (LOV-1967-12-15-9): the consolidated text's section «Forordninger» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- dokumentavgiftsloven (LOV-1975-12-12-59): the consolidated text's section «Kap. V. Valutalisenser ved overføring av rettigheter i fast eiendom i utlandet.» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-nordisk-miljovernkonvensjon (LOV-1976-04-09-21): the consolidated text's section «Miljøvernkonvensjon av 19. februar 1974, mellom Danmark, Finland, Norge og Sverige.» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-overforing-av-straffeforfolging (LOV-1977-03-25-22): the consolidated text's sections «Del B»; «Del C» (not part of the act's own chapters, such as an annexed text) are not included.
+- foreldelsesloven (LOV-1979-05-18-18): the consolidated text's section «Konvensjon av 14 juni 1974 om forelding i internasjonale kjøpsforhold.» (not part of the act's own chapters, such as an annexed text) is not included.
+- straffeprosessloven (LOV-1981-05-22-25): the consolidated text's section «Kap 25. (Opphevet)» (not part of the act's own chapters, such as an annexed text) is not included.
+- forbrukermerkeloven (LOV-1981-12-18-90): the consolidated text's section «Forordning» (not part of the act's own chapters, such as an annexed text) is not included.
+- sameloven (LOV-1987-06-12-56): the consolidated text's section «Vedlegg. Samisk oversettelse» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- kjopsloven (LOV-1988-05-13-27): the consolidated text's section «FN-konvensjonen 11 apr 1980 om kontrakter for internasjonale løsørekjøp.» (not part of the act's own chapters, such as an annexed text) is not included.
+- barnebortforingsloven (LOV-1988-07-08-72): the consolidated text's sections «Europeisk konvensjon av 20 mai 1980 om anerkjennelse og fullbyrding av avgjørelser om foreldreansvar og om gjenopprettelse av foreldreansvar.»; «Konvensjon av 25 oktober 1980 om de sivile sider ved internasjonal barnebortføring.» (not part of the act's own chapters, such as an annexed text) are not included.
+- lov-om-overforing-av-domfelte (LOV-1991-07-20-67): the consolidated text's sections «Del B»; «Tilleggsprotokoll»; «Del C.»; «II. Endringer i andre lover»; «III. Stortingets samtykke i ratifikasjon»; «IV.» (not part of the act's own chapters, such as an annexed text) are not included.
+- eos-loven (LOV-1992-11-27-109): the consolidated text's sections «Avtale om Det europeiske økonomiske samarbeidsområde.»; «Avtale mellom EFTA-statene om opprettelse av et Overvåkingsorgan og en Domstol.» (not part of the act's own chapters, such as an annexed text) are not included.
+- lov-om-sjotransporttjenester (LOV-1992-12-04-121): the consolidated text's section «Forordninger» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-prisregulering-ved-fiskeimport-m-v (LOV-1993-06-11-73): the consolidated text's section «IV.» (not part of the act's own chapters, such as an annexed text) is not included.
+- sjoloven (LOV-1994-06-24-39): the consolidated text's sections «Vedlegg 1. EØS-avtalen vedlegg XIII nr. 56x (forordning (EF) nr. 392/2009 av 23. april 2009 om transportørers erstatningsansvar ved ulykker under sjøtransport av passasjerer).»; «Vedlegg 2. 2002 protokollen til Aten-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, 1974» (not part of the act's own chapters, such as an annexed text) are not included.
+- jordlova (LOV-1995-05-12-23): the consolidated text's sections «Kap. VI. Oreigning og skjønn»; «II.»; «III.» (not part of the act's own chapters, such as an annexed text) are not included.
+- eofg-loven (LOV-1995-12-22-85): the consolidated text's section «Forordning (EØF) nr. 2137/85» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- artistskatteloven (LOV-1996-12-13-87): the consolidated text's section «II.» (not part of the act's own chapters, such as an annexed text) is not included.
+- regnskapsloven (LOV-1998-07-17-56): the consolidated text's section «EØS-avtalen vedlegg XXII nr. 10b (Europaparlaments- og rådsforordning (EF) nr. 1606/2002 av 19. juli 2002 om anvendelse av internasjonale regnskapsstandarder)» (not part of the act's own chapters, such as an annexed text) is not included.
+- menneskerettsloven (LOV-1999-05-21-30): the consolidated text's sections «Vedlegg 1. Den europeiske menneskerettskonvensjon med protokoller (autentisk engelsk tekst)»; «Vedlegg 2. Den europeiske menneskerettskonvensjon med protokoller (norsk oversettelse)»; «Vedlegg 3. Den internasjonale konvensjonen om økonomiske, sosiale og kulturelle rettigheter (autentisk engelsk tekst)»; «Vedlegg 4. Den internasjonale konvensjonen om økonomiske, sosiale og kulturelle rettigheter (norsk oversettelse)»; «Vedlegg 5. Den internasjonale konvensjonen om sivile og politiske rettigheter med protokoller (autentisk engelsk tekst)»; «Vedlegg 6. Den internasjonale konvensjonen om sivile og politiske rettigheter med protokoller (norsk oversettelse)»; «Vedlegg 7. FNs konvensjon om barnets rettigheter med protokoller (autentisk engelsk tekst)»; «Vedlegg 8. FNs konvensjon om barnets rettigheter med protokoller (norsk oversettelse)»; «Vedlegg 9. Konvensjon om avskaffelse av alle former for diskriminering av kvinner med protokoll (autentisk engelsk tekst)»; «Vedlegg 10. Konvensjon om avskaffelse av alle former for diskriminering av kvinner med protokoll (norsk oversettelse)»; «Vedlegg 11. Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne (autentisk engelsk tekst)»; «Vedlegg 12. Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne (norsk oversettelse)»; «Vedlegg 13. Den europeiske menneskerettskonvensjonen med protokoller (nordsamisk oversettelse)»; «Vedlegg 14. FNs konvensjon om barnets rettigheter med protokoller (nordsamisk oversettelse)» (not part of the act's own chapters, such as an annexed text) are not included.
+- lov-om-registrering-av-raoljehandel (LOV-1999-06-25-54): the consolidated text's section «Forordninger» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- bustadbyggjelagslova (LOV-2003-06-06-38): the consolidated text's section «III (Oppheva)» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-det-frie-varebyttet-innan-eos (LOV-2005-03-04-12): the consolidated text's section «Forordning» (not part of the act's own chapters, such as an annexed text) is not included.
+- se-loven (LOV-2005-04-01-14): the consolidated text's section «EØS-avtalen vedlegg XXII nr. 10a (Rådsforordning (EF) nr. 2157/2001 av 8. oktober 2001 om vedtektene for det europeiske selskap (SE))» (not part of the act's own chapters, such as an annexed text) is not included.
+- finnmarksloven (LOV-2005-06-17-85): the consolidated text's section «Vedlegg. Samisk oversettelse» (not part of the act's own chapters, such as an annexed text) is not included.
+- sce-loven (LOV-2006-06-30-50): the consolidated text's section «EØS-avtalen vedlegg XXII nr. 10 c (Rådsforordning (EF) nr. 1435/2003 av 22. juli 2003 om vedtektene for europeiske samvirkeforetak (SCE-foretak)).» (not part of the act's own chapters, such as an annexed text) is not included.
+- reindriftsloven (LOV-2007-06-15-40): the consolidated text's section «Vedlegg. Samisk oversettelse» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- markaloven (LOV-2009-06-05-35): the consolidated text's section «Klima- og miljødepartementets digitale kart «Markagrensen» datert 10. april 2019» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-internasjonal-sikkerhet-i-mobilt-losore (LOV-2010-11-12-58): the consolidated text's sections «Convention on International interests in mobile equipment»; «Konvensjon om internasjonale sikkerhetsretter i mobilt løsøre»; «Protocol to the Convention on International interests in Mobile Equipment on matters specific to aircraft equipment»; «Protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre, om særlige forhold for luftfartøysløsøre» (not part of the act's own chapters, such as an annexed text) are not included.
+- eos-arbeidstakarlova (LOV-2012-12-14-81): the consolidated text's section «Forordning» (not part of the act's own chapters, such as an annexed text) is not included.
+- eos-vareloven (LOV-2013-04-12-13): the consolidated text's section «EØS-avtalen vedlegg II kap. XIX nr. 3b (forordning (EF) nr. 765/2008) om fastsettelse av krav til akkreditering og markedstilsyn for markedsføring av varer.» (not part of the act's own chapters, such as an annexed text) is not included.
+- lov-om-kredittvurderingsbyraer (LOV-2014-06-20-30): the consolidated text's section «Forordning (EU) nr. 1060/2009 (kredittvurderingsbyråforordningen)» (not part of the act's own chapters, such as an annexed text) is not included.
+- eric-lova (LOV-2015-12-11-99): the consolidated text's sections «EØS-avtalen protokoll 31 artikkel 1 nr. 12 (forordning (EF) nr. 723/2009 av 25. juni 2009 om Fellesskapets rettslige ramme for et konsortium for en europeisk forskningsinfrastruktur (ERIC-konsortium))»; «EØS-avtalen protokoll 31 artikkel 1 nr. 12 (forordning (EF) nr. 1261/2013 av 2. desember 2013 om endring av forordning (EF) nr. 723/2009 om Fellesskapets rettslige ramme for et konsortium for en europeisk forskningsinfrastruktur (ERIC-konsortium))» (not part of the act's own chapters, such as an annexed text) are not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- lov-om-reservasjonssystemer-for-flyreiser-mv (LOV-2016-09-09-80): the consolidated text's section «Forordning» (not part of the act's own chapters, such as an annexed text) is not included.
+- endringslov-til-folketrygdloven-og-enkelte-andre-lover (LOV-2019-12-20-84): the consolidated text's section «I» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (60 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- suppleringsskatteloven (LOV-2024-01-12-1): the consolidated text's section «II» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (20 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
+- folkehogskoleloven (LOV-2025-06-20-99): the consolidated text's section «Vedlegg. Samisk oversettelse» (not part of the act's own chapters, such as an annexed text) is not included.
+- viltressursloven (LOV-2025-06-20-102): the consolidated text's section «Vedlegg. Samisk oversettelse» (not part of the act's own chapters, such as an annexed text) is not included.
 
 ## What AI did and did not do
 
@@ -478,3 +1116,13 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and read sample documents to design it. No model wrote, edited or summarised legal text, and no model runs at data-build or git-build time.
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none

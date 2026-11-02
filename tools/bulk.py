@@ -178,13 +178,29 @@ def main():
     CFG = SETS[args[args.index('--set') + 1] if '--set' in args else 'lover']
     L.REPEAL_PARTS = True
     L.OLD_HEADS = True
-    asof = CFG.get('asof') or P.gj_asof()
+    history = CFG['tar'] == GJ_URL
+    if '--tar' in args:
+        # a later copy of the same data set (run_bulk.py --refresh), cached under "<url>@<lastModified>"
+        CFG = dict(CFG, tar=args[args.index('--tar') + 1])
+    asof = (args[args.index('--asof') + 1] if '--asof' in args else None) or CFG.get('asof') or P.gj_asof()
     gj = L.read_tar(CFG['tar'])
-    skip = history_lids() if CFG['tar'] == GJ_URL else set()
+    skip = history_lids() if history else set()
     used = set()
-    for f in os.listdir(os.path.join(HERE, 'corpus.d')):
-        if f.startswith('60-') and f.endswith('.json'):
-            used |= {a['slug'] for a in json.load(open(os.path.join(HERE, 'corpus.d', f), encoding='utf-8'))['acts']}
+    first = 1
+    prefix = CFG['part'].split('-%')[0]
+    for f in sorted(os.listdir(os.path.join(HERE, 'corpus.d'))):
+        if (f.startswith('60-') or f.startswith(('70-', '80-'))) and f.endswith('.json'):
+            acts_f = json.load(open(os.path.join(HERE, 'corpus.d', f), encoding='utf-8'))['acts']
+            used |= {a['slug'] for a in acts_f}
+            if '--new-only' in args and f.startswith(prefix + '-'):
+                # published current-text parts stay as they are: their acts are not read again, new parts follow
+                skip |= {('LOV-' if f.startswith('70-') else 'FOR-') + a['url'].rsplit('/', 1)[-1] for a in acts_f}
+                first = max(first, int(re.search(r'-(\d+)\.json$', f).group(1)) + 1)
+    if '--new-only' not in args:
+        # a full run renumbers from 01 and must not see its own earlier output as taken slugs
+        for f in os.listdir(os.path.join(HERE, 'corpus.d')):
+            if f.startswith(('70-', '80-')) and f.endswith('.json'):
+                used -= {a['slug'] for a in json.load(open(os.path.join(HERE, 'corpus.d', f), encoding='utf-8'))['acts']}
     used |= {a['slug'] for a in json.load(open(os.path.join(HERE, 'corpus.json'), encoding='utf-8'))['acts']}
     report = {'asof': asof, 'files': len(gj), 'history': [], 'ok': [], 'failed': {}}
     acts = []
@@ -206,7 +222,7 @@ def main():
         acts.append(act)
         report['ok'].append(lid)
     parts = [acts[i:i + size] for i in range(0, len(acts), size)]
-    for i, block in enumerate(parts, 1):
+    for i, block in enumerate(parts, first):
         decisions = []
         for a in block:
             sk = a.pop('_skipped')
