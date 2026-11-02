@@ -4048,7 +4048,7 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 - Corpus: sha256 `c22b9ab65f060a1628fdc9c2da5596fa5a0512c458e4d1116a20cb3e7243a45f` (83833295 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
