@@ -4100,12 +4100,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `for-2026-10-16-2078` | Forskrift om endring i forskrift om tilskudd til inkludering av barn og unge | 1 | 2027-01-01 to 2027-01-01 |
 | `for-2026-10-19-2079` | Forskrift om endring i forskrift om adopsjon | 1 | 2027-07-01 to 2027-07-01 |
 | `for-2026-10-30-2189` | Forskrift om endring i integreringsforskriften | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-21-2199` | Forskrift om endring i forskrift om stønad til høreapparat og tinnitusmaskerer | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-10-23-2200` | Forskrift om bakketjenester på lufthavner | 1 | 2026-10-23 to 2026-10-23 |
 
-The build made 4573 commits:
+The build made 4574 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4051 | first version of an act |
+| 4052 | first version of an act |
 | 522 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -4113,7 +4115,7 @@ Other counts:
 - 2 commits on the branch `fremtidig`: laws not yet in force on 2026-11-02.
 - 41 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 455 laws in the record.
-- 4905 tags.
+- 4906 tags.
 
 ## Dates
 
@@ -4125,7 +4127,7 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `66fe9664f03e2966d6dffe14c8eb1e06956c266d34699f8e2af96d3772e589d8` (84197843 bytes).
+- Corpus: sha256 `fe52f9323bc286b72b872dadd86b7dbc7e5e00c238f7b3f128d0c9c9b5ba70d8` (84204064 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6059,6 +6061,9 @@ No second build of this corpus has been compared yet.
 - for-2026-10-19-2079 (FOR-2026-10-19-2079): Lovdata states 2027-07-01 as the in-force day; this version belongs on fremtidig until that day.
 - for-2026-10-30-2189 (FOR-2026-10-30-2189): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
 - for-2026-10-30-2189 (FOR-2026-10-30-2189): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- Current-text regulations (2 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-03, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each act's units hold the consolidated document's text word for word (Lovdata's editorial notes, footnotes, the title line and repealed "(Opphevet)" articles apart; images are not included): paragraphs, articles ("Art.") and headings as the document numbers them, or one unit holding the whole text of a document with no numbered articles (a single-file act).
+- for-2026-09-21-2199 (FOR-2026-09-21-2199): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-21-2199 (FOR-2026-09-21-2199): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
 
 ## What AI did and did not do
 
@@ -6070,6 +6075,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and read sample documents to design it. No model wrote, edited or summarised legal text, and no model runs at data-build or git-build time.
+- none
 - none
 - none
 - none

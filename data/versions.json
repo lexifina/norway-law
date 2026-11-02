@@ -60786,6 +60786,34 @@
      "sha256": "b8691c34b69c730a6540f4cc43d4347881ff2df37f01fc289ecd38f1ced2152b"
     }
    ]
+  },
+  {
+   "slug": "for-2026-09-21-2199",
+   "short": "FOR-2026-09-21-2199",
+   "title": "Forskrift om endring i forskrift om stønad til høreapparat og tinnitusmaskerer",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-09-21-2199",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-03T02:32:00Z#sf/sf-20260921-2199.xml",
+     "sha256": "e6e305fe5bf7b4b4f2a2aadf0dfc45f2cde9c53b4338d72c6e7efa447d09b496"
+    }
+   ]
+  },
+  {
+   "slug": "for-2026-10-23-2200",
+   "short": "FOR-2026-10-23-2200",
+   "title": "Forskrift om bakketjenester på lufthavner",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-23-2200",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 7,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-03T02:32:00Z#sf/sf-20261023-2200.xml",
+     "sha256": "d9f63d8d6b9a9e44f3a8f87a5e197e570a2078e0d4ab55e97bee2a747314d96c"
+    }
+   ]
   }
  ]
 }
