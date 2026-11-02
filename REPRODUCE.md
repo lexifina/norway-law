@@ -715,6 +715,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `endringslov-til-politiregisterloven-og-grenseloven-mv` | Lov om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer) | 1 | 2026-07-01 to 2026-07-01 |
 | `endringslov-til-konkursloven-mv` | Lov om endringer i konkursloven mv. (rekonstruksjonsforhandling) | 1 | 2026-06-19 to 2026-06-19 |
 | `endringslov-til-utlendingsloven` | Lov om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-matloven` | Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskrift) | 1 | 2027-01-01 to 2027-01-01 |
+| `endringslov-til-integreringsloven` | Lov om endringer i integreringsloven (integreringserklæring) | 1 | 2027-01-01 to 2027-01-01 |
+| `saeravgiftsloven-2026-06-19-41` | Lov om særavgifter (særavgiftsloven) | 1 | 2027-01-01 to 2027-01-01 |
+| `endringslov-til-skadeserstatningsloven` | Lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente) | 1 | 2027-01-01 to 2027-01-01 |
+| `endringslov-til-baerekraftige-produkter-loven` | Lov om endringer i bærekraftige produkter-loven (hjemmel for bærekrafts- og utslippsreduksjonskriterier i EUs fornybardirektiv) | 1 | 2027-01-01 to 2027-01-01 |
+| `endringslov-til-valgloven` | Lov om endringer i valgloven (endringer i valgdistriktene) | 1 | 2028-01-01 to 2028-01-01 |
 | `for-1896-06-26-9805` | Forskrifter angaaende Fremgangsmaaden ved Salg af Leilændingsgods tilhørende Stamhuse m.V. | 1 | 1961-01-27 to 1961-01-27 |
 | `for-1925-08-07-3767` | Bergverksordning for Spitsbergen (Svalbard) fremlagt av den norske regjering. | 1 | 1992-08-28 to 1992-08-28 |
 | `for-1927-06-24-9812` | Forskrift om stevnevitners, politiansattes og fengselstjenestemenns utførelse av forkynnelser. | 1 | 2003-01-01 to 2003-01-01 |
@@ -4046,13 +4052,13 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c22b9ab65f060a1628fdc9c2da5596fa5a0512c458e4d1116a20cb3e7243a45f` (83833295 bytes).
+- Corpus: sha256 `32eb2dd4cf2bfc1fae469cbf31c3109f2eae1dffd511c73b12b9cf4f265b9a09` (83902509 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-4608 versions of 4004 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -4674,6 +4680,18 @@ No second build of this corpus has been compared yet.
 - endringslov-til-konkursloven-mv (LOV-2026-06-19-48): in force in part; dated by the first in-force day Lovdata gives (2026-06-19), with the text as Lovdata prints it.
 - endringslov-til-utlendingsloven (LOV-2026-06-19-50): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
 - endringslov-til-utlendingsloven (LOV-2026-06-19-50): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- Current-text acts (6 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-11-01, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each act's units hold the consolidated document's text word for word (Lovdata's editorial notes, footnotes, the title line and repealed "(Opphevet)" articles apart; images are not included): paragraphs, articles ("Art.") and headings as the document numbers them, or one unit holding the whole text of a document with no numbered articles (a single-file act).
+- endringslov-til-matloven (LOV-2025-06-20-75): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-matloven (LOV-2025-06-20-75): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- endringslov-til-integreringsloven (LOV-2026-06-12-23): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-integreringsloven (LOV-2026-06-12-23): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- saeravgiftsloven-2026-06-19-41 (LOV-2026-06-19-41): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- endringslov-til-skadeserstatningsloven (LOV-2026-06-19-47): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-skadeserstatningsloven (LOV-2026-06-19-47): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- endringslov-til-baerekraftige-produkter-loven (LOV-2026-06-19-55): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-baerekraftige-produkter-loven (LOV-2026-06-19-55): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- endringslov-til-valgloven (LOV-2026-06-19-57): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-valgloven (LOV-2026-06-19-57): Lovdata states 2028-01-01 as the in-force day; this version belongs on fremtidig until that day.
 - Current-text regulations (100 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-02, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
 - for-1896-06-26-9805 (FOR-1896-06-26-9805): the consolidated text's sections «II»; «III.»; «IV.» (not part of the act's own chapters, such as an annexed text) are not included.
 - for-1928-07-05-3356 (FOR-1928-07-05-3356): the consolidated text's section «I» (not part of the act's own chapters, such as an annexed text) is not included.
@@ -5842,6 +5860,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and read sample documents to design it. No model wrote, edited or summarised legal text, and no model runs at data-build or git-build time.
+- none
 - none
 - none
 - none

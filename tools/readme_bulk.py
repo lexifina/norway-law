@@ -60,21 +60,44 @@ p = os.path.join(D, 'repo', 'README.md')
 s = open(p, encoding='utf-8').read()
 
 CUR = ('**Acts with their current text only.** Beside the acts above, `lov-…`-named and short-titled folders hold %d '
-       'further laws, and `for-…` folders %d central regulations (sentrale forskrifter), each as one version: the text '
-       'in force today in Lovdata\'s consolidation (unofficial), credited to Lovdata as the oldest version available '
+       'further laws, and `for-…` folders %d central regulations (sentrale forskrifter), each as one version: Lovdata\'s '
+       'consolidated text (unofficial), credited to Lovdata as the oldest version available '
        'and dated by the day Lovdata gives for the last change in force (or, for one never changed, its own in-force '
        'day). They have no history yet. Laws: the `gjeldende-lover` data set%s; regulations: the '
        '`gjeldende-sentrale-forskrifter` data set%s. Each is split into its paragraphs (§) or articles '
        '("Art.") and headings as the document numbers them, except %d **single-file acts** (%d laws, %d regulations): '
        'documents with no numbered articles, such as amending acts and short acts of a few unnumbered ledd, each '
        'recorded as one file, `tekst.md`, holding its whole text (listed below). %d acts in force only in part are '
-       'dated by the first in-force day Lovdata gives. Not included: laws and regulations not yet in force or whose '
-       'last change takes effect later, regulations whose in-force day Lovdata gives only as a year ("Inntektsåret '
-       '2014"), the delegation decisions and instructions in the regulations data set, and local regulations.' % (
+       'dated by the first in-force day Lovdata gives. Acts with a stated in-force day in 2027 or later are on '
+       '`fremtidig` until that day. For "Inntektsåret YYYY", the version day is 1 January of that year. '
+       'Also not included: the delegation decisions and instructions in the regulations data set, and local regulations.' % (
            laws, regs, day_words(ldays, 'laws'), day_words(rdays, 'regulations'), single, len(lsingle), len(rsingle),
            lpart + rpart))
 LIST = ('<details><summary>Single-file acts (%d)</summary>\n\n%s\n\n</details>'
         % (single, ', '.join('`%s`' % x for x in lsingle + rsingle)))
+
+
+def held_list():
+    groups = {'No stated day or a conditional day': [], 'Dated later in 2026': [], 'No usable text': []}
+    root = os.path.dirname(os.path.abspath(__file__))
+    for n in ('70', '80'):
+        p = os.path.join(root, '.tmp-bulk-report-%s.json' % n)
+        if not os.path.exists(p):
+            continue
+        for lid, why in json.load(open(p, encoding='utf-8'))['failed'].items():
+            if 'after the data set day' in why:
+                group = 'Dated later in 2026'
+            elif 'no in-force day' in why or 'no single stated future' in why:
+                group = 'No stated day or a conditional day'
+            else:
+                group = 'No usable text'
+            groups[group].append(lid)
+    return ('<details><summary>Not yet included (held acts)</summary>\n\n' +
+            '\n\n'.join('**%s:** %s' % (group, ', '.join('`%s`' % lid for lid in sorted(lids)))
+                        for group, lids in groups.items() if lids) + '\n\n</details>')
+
+
+HELD = held_list()
 if '**Acts with their current text only.**' in s:
     s = re.sub(r'\*\*Acts with their current text only\.\*\*[^\n]*', lambda m: CUR, s)
     if '<details><summary>Single-file acts' in s:
@@ -88,9 +111,15 @@ else:
                      'Lovtidend**.')
     s = s.replace('\n\n## How it is checked', '\n\n' + CUR + '\n\n## How it is checked', 1)
 
+if '<details><summary>Not yet included (held acts)' in s:
+    s = re.sub(r'<details><summary>Not yet included \(held acts\).*?</details>', lambda m: HELD, s, flags=re.S)
+else:
+    s = s.replace(LIST, LIST + '\n\n' + HELD, 1)
+
 CHK = ('- **Current-text acts.** Each law and regulation recorded with its current text only has exactly the '
        'paragraphs the consolidated document itself lists (repealed "(Opphevet)" articles and paragraphs not yet in '
-       'force apart); one that does not, or whose last change takes effect after the data set\'s day, is left out. '
+       'force apart); one that does not is left out. A stated in-force day in 2027 or later places the act on '
+       '`fremtidig` until that day. '
        'Paragraphs of amendments to other acts that Lovdata prints as "– – –" keep their title only, as in the acts '
        'above. Annexes without numbered paragraphs (such as an annexed EU regulation) are not included; the record\'s '
        'decisions list them. A document whose paragraphs this reading does not list is read article by article '
@@ -126,12 +155,13 @@ new_row = ('| [Gjeldende lover](https://api.lovdata.no/v1/publicData/get/gjelden
 if old_row in s:
     s = s.replace(old_row, new_row)
 
-NO = ('- Gjeldende tekst: %d andre lover og %d sentrale forskrifter er tatt med slik de lyder i dag i Lovdatas '
-      'ajourførte (uoffisielle) tekst, én versjon hver, uten historikk ennå%s.' % (
+NO = ('- Ajourført tekst: %d andre lover og %d sentrale forskrifter er tatt med fra Lovdatas '
+      'ajourførte (uoffisielle) tekst, én versjon hver, uten historikk ennå. Bestemmelser med fastsatt '
+      'ikrafttredelse i 2027 eller senere ligger på `fremtidig` fram til den dagen%s.' % (
           laws, regs, ('; %d av dem er én fil med hele teksten (dokumenter uten nummererte paragrafer eller artikler)'
                        % single) if single else ''))
-if '- Gjeldende tekst:' in s:
-    s = re.sub(r'- Gjeldende tekst:[^\n]*', lambda m: NO, s)
+if '- Gjeldende tekst:' in s or '- Ajourført tekst:' in s:
+    s = re.sub(r'- (?:Gjeldende|Ajourført) tekst:[^\n]*', lambda m: NO, s)
 else:
     a = '- Inneholder data under norsk lisens'
     assert s.count(a) == 1

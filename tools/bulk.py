@@ -367,9 +367,11 @@ def read_act(name, raw, asof):
     day, part = in_force_day(h)
     if not day:
         return None, 'no in-force day in the header (%r)' % (h.get('dateInForce') or '')[:60]
-    if day > asof:
+    if day >= '2027-01-01' and not stated_future_day(h):
+        return None, 'no single stated future in-force day (%r)' % (h.get('dateInForce') or '')[:100]
+    if day > asof and day < '2027-01-01':
         return None, 'last change in force %s is after the data set day %s' % (day, asof)
-    act, why = read_paragraphs(name, raw, asof, h, lid)
+    act, why = read_paragraphs(name, raw, asof, h, lid, day)
     if act is not None or not GENERIC:
         return act, why
     units, single = generic_units(raw)
@@ -391,12 +393,26 @@ def read_act(name, raw, asof):
 GENERIC = False  # --generic: read the documents the paragraph reader leaves out with the article reader
 
 
+def stated_future_day(h):
+    """Only a stated 2027+ start day belongs on fremtidig; a condition or several start days stays held."""
+    d = (h.get('dateInForce') or '').strip()
+    if re.fullmatch(r'Inntektsåret\s+\d{4}', d, re.I):
+        return True
+    # A bounded period gives one start day and one end day, unlike two commencement days.
+    if re.fullmatch(r'\d{4}-\d{2}-\d{2}\s*[–-]\s*\d{4}-\d{2}-\d{2}', d):
+        return True
+    return re.fullmatch(r'\d{4}-\d{2}-\d{2}', d) is not None
+
+
 def in_force_day(h):
     """(day, partly): Lovdata's last change in force, else its in-force day; partly when Lovdata gives the rest of the
     act's in-force day as not yet set ("2026-07-01, Kongen bestemmer"). With GENERIC, the earliest day it names."""
     if (h.get('lastChangeInForce') or '')[:10] and re.fullmatch(r'\d{4}-\d{2}-\d{2}', h['lastChangeInForce'][:10]):
         return h['lastChangeInForce'][:10], False
     d = h.get('dateInForce') or ''
+    year = re.fullmatch(r'Inntektsåret\s+(\d{4})', d.strip(), re.I)
+    if year:
+        return '%s-01-01' % year.group(1), False
     if re.fullmatch(r'\d{4}-\d{2}-\d{2}', d[:10]):
         return d[:10], len(d) > 10
     if GENERIC:
@@ -406,7 +422,7 @@ def in_force_day(h):
     return None, False
 
 
-def read_paragraphs(name, raw, asof, h, lid):
+def read_paragraphs(name, raw, asof, h, lid, day):
     """The paragraph reader: (act, None) or (None, reason)."""
     L.CHAPNUM = A.chapter_numbered(raw)
     t = re.sub(r'<[^>]+>', ' ', raw.decode('utf-8', 'replace'))
@@ -431,11 +447,7 @@ def read_paragraphs(name, raw, asof, h, lid):
     if sorted(off) != sorted(ours):
         return None, 'paragraphs differ from the official list: only official %s, only ours %s' % (
             sorted(set(off) - set(ours))[:8], sorted(set(ours) - set(off))[:8])
-    day = h.get('lastChangeInForce') or h.get('dateInForce') or ''
-    day = day[:10]
-    if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', day):
-        return None, 'no in-force day in the header'
-    if day > asof:
+    if day > asof and day < '2027-01-01':
         return None, 'last change in force %s is after the data set day %s' % (day, asof)
     act = make_act(name, raw, asof, h, lid, units, day, False)
     act['_skipped'] = skipped
@@ -445,6 +457,8 @@ def read_paragraphs(name, raw, asof, h, lid):
 def make_act(name, raw, asof, h, lid, units, day, partly):
     if h.get('lastChangeInForce'):
         why = 'the last change Lovdata records in force'
+    elif re.fullmatch(r'Inntektsåret\s+\d{4}', (h.get('dateInForce') or '').strip(), re.I):
+        why = 'Lovdata says «%s», dated to the first day of that income year' % h['dateInForce'].strip()
     elif GENERIC and partly:
         why = ('the first day Lovdata gives for its entry into force; Lovdata gives the rest as %s'
                % ', '.join('«%s»' % x.strip() for x in (h.get('dateInForce') or '').split(',')
@@ -467,7 +481,9 @@ def make_act(name, raw, asof, h, lid, units, day, partly):
             'units': units,
             'credits': {},
             'note': ('Current text only: Lovdata\'s consolidated text (unofficial; Norway has no official '
-                     'consolidations) %s %s, in force since %s (%s).' % (CFG['asof_words'], asof, day, why)),
+                     'consolidations) %s %s, %s %s (%s).' % (
+                         CFG['asof_words'], asof,
+                         'scheduled to take effect on' if day >= '2027-01-01' else 'in force since', day, why)),
         }],
         '_skipped': [],
         '_hdr': {k: h.get(k) for k in ('dateInForce', 'lastChangeInForce', 'lastChangedBy')},
@@ -533,7 +549,6 @@ def main():
         decisions = []
         for a in block:
             sk = a.pop('_skipped')
-            a.pop('_hdr')
             lid = a.pop('lid')
             how = a.pop('_how', None)
             a.pop('_why', None)
@@ -547,11 +562,20 @@ def main():
             if GENERIC and '; Lovdata gives the rest as' in a['versions'][0]['note']:
                 decisions.append('%s (%s): in force in part; dated by the first in-force day Lovdata gives (%s), with '
                                  'the text as Lovdata prints it.' % (a['slug'], lid, a['versions'][0]['from']))
+            income = re.fullmatch(r'Inntektsåret\s+(\d{4})', (a.get('_hdr', {}).get('dateInForce') or '').strip(), re.I)
+            if income and not a['_hdr'].get('lastChangeInForce'):
+                decisions.append('%s (%s): Lovdata gives the in-force day as «%s»; the income year begins on '
+                                 '%s-01-01, used as this version\'s day.' % (
+                                     a['slug'], lid, a['_hdr']['dateInForce'].strip(), income.group(1)))
+            if a['versions'][0]['from'] >= '2027-01-01':
+                decisions.append('%s (%s): Lovdata states %s as the in-force day; this version belongs on '
+                                 'fremtidig until that day.' % (a['slug'], lid, a['versions'][0]['from']))
             if sk:
                 decisions.append('%s (%s): the consolidated text\'s section%s %s (not part of the act\'s own '
                                  'chapters, such as an annexed text) %s not included.' % (
                                      a['slug'], lid, 's' if len(sk) > 1 else '', '; '.join('«%s»' % x for x in sk),
                                      'are' if len(sk) > 1 else 'is'))
+            a.pop('_hdr')
         decisions.insert(0, ('Current-text %ss (%d in this part): each is one version, Lovdata\'s consolidated text '
                             '(unofficial) %s %s, credited to Lovdata as the oldest version available and dated by '
                             'the day Lovdata gives for the last change in force (or its own in-force day). '

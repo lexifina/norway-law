@@ -13398,6 +13398,90 @@
    ]
   },
   {
+   "slug": "endringslov-til-matloven",
+   "short": "Endringslov til matloven",
+   "title": "Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskrift)",
+   "url": "https://lovdata.no/dokument/NL/lov/2025-06-20-75",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2@2026-11-01T02:32:00Z#nl/nl-20250620-075.xml",
+     "sha256": "67382cb0bca9b6a9848e08e1204db8a40f3d95e9e344ac4cd13deae3adec101d"
+    }
+   ]
+  },
+  {
+   "slug": "endringslov-til-integreringsloven",
+   "short": "Endringslov til integreringsloven",
+   "title": "Lov om endringer i integreringsloven (integreringserklæring)",
+   "url": "https://lovdata.no/dokument/NL/lov/2026-06-12-23",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2@2026-11-01T02:32:00Z#nl/nl-20260612-023.xml",
+     "sha256": "1573b0e484c10c4f12fb79223602546674b540c42620c64df66f3a56ed3de9a7"
+    }
+   ]
+  },
+  {
+   "slug": "saeravgiftsloven-2026-06-19-41",
+   "short": "Særavgiftsloven",
+   "title": "Lov om særavgifter (særavgiftsloven)",
+   "url": "https://lovdata.no/dokument/NL/lov/2026-06-19-41",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 174,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2@2026-11-01T02:32:00Z#nl/nl-20260619-041.xml",
+     "sha256": "632479f40e791fd26b8fc3868316d621a4181fa28cbaf7600ca61dacf5ead255"
+    }
+   ]
+  },
+  {
+   "slug": "endringslov-til-skadeserstatningsloven",
+   "short": "Endringslov til skadeserstatningsloven",
+   "title": "Lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)",
+   "url": "https://lovdata.no/dokument/NL/lov/2026-06-19-47",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2@2026-11-01T02:32:00Z#nl/nl-20260619-047.xml",
+     "sha256": "49243acc0712689fed2aeff94788a48c3e8a927c5796b05a49fe7e7b7410f2f6"
+    }
+   ]
+  },
+  {
+   "slug": "endringslov-til-baerekraftige-produkter-loven",
+   "short": "Endringslov til bærekraftige produkter-loven",
+   "title": "Lov om endringer i bærekraftige produkter-loven (hjemmel for bærekrafts- og utslippsreduksjonskriterier i EUs fornybardirektiv)",
+   "url": "https://lovdata.no/dokument/NL/lov/2026-06-19-55",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2@2026-11-01T02:32:00Z#nl/nl-20260619-055.xml",
+     "sha256": "e88a4ffcaa014070eaac09d1e1262008182ae2e57841f56ef3b01ae96aa58541"
+    }
+   ]
+  },
+  {
+   "slug": "endringslov-til-valgloven",
+   "short": "Endringslov til valgloven",
+   "title": "Lov om endringer i valgloven (endringer i valgdistriktene)",
+   "url": "https://lovdata.no/dokument/NL/lov/2026-06-19-57",
+   "versions": [
+    {
+     "from": "2028-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2@2026-11-01T02:32:00Z#nl/nl-20260619-057.xml",
+     "sha256": "dad6bb3374c85eed77c01ac53e18ce82a17cb2fe879851d10186a4f6b7815d75"
+    }
+   ]
+  },
+  {
    "slug": "for-1896-06-26-9805",
    "short": "Forskrift om salg av stamhuses leilendingsgods",
    "title": "Forskrifter angaaende Fremgangsmaaden ved Salg af Leilændingsgods tilhørende Stamhuse m.V.",
