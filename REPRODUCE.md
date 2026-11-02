@@ -4027,12 +4027,85 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `for-2026-09-29-1933` | Forskrift om endring i bokføringsforskriften | 1 | 2026-09-29 to 2026-09-29 |
 | `for-2026-10-02-1999` | Forskrift om endring i forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser | 1 | 2026-10-02 to 2026-10-02 |
 | `for-2026-10-15-2077` | Forskrift om endring i forskrift om tollavgift (tollavgiftsforskriften) | 1 | 2026-11-01 to 2026-11-01 |
+| `for-1989-12-22-1351` | Forskrift om beregning av underskudd og gjennomføring av fradrag i toppskattegrunnlaget. | 1 | 1989-01-01 to 1989-01-01 |
+| `for-1990-12-21-1016` | Forskrift om beregning av underskudd og gjennomføring av fradrag i toppskattegrunnlaget. | 1 | 1990-01-01 to 1990-01-01 |
+| `for-2005-09-09-1043` | Forskrift om overgangsregler ved avviklingen av de særlige reglene om nettoligning av visse sameier i skatteloven § 10-40 annet ledd. | 1 | 2006-01-01 to 2006-01-01 |
+| `for-2009-01-26-70` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 annet ledd bokstav a nr. 3 for inntektsåret 2008 | 1 | 2008-01-01 to 2008-01-01 |
+| `for-2010-01-29-80` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 annet ledd bokstav a nr. 3 for inntektsåret 2009 | 1 | 2009-01-01 to 2009-01-01 |
+| `for-2011-01-26-92` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 annet ledd bokstav a nr. 3 for inntektsåret 2010 | 1 | 2010-01-01 to 2010-01-01 |
+| `for-2012-01-16-54` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 andre ledd bokstav a nr. 3 for inntektsåret 2011 | 1 | 2011-01-01 to 2011-01-01 |
+| `for-2013-01-25-69` | Kunngjøring av normrentesats for inntektsåret 2012 til bruk ved anvendelse av forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2012-01-01 to 2012-01-01 |
+| `for-2013-01-25-70` | Kunngjøring av rentesats for inntektsåret 2012 til bruk ved fremføring av underskudd og overskytende friinntekt i henhold til forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2012-01-01 to 2012-01-01 |
+| `for-2013-01-28-115` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 annet ledd bokstav a nr. 3 for inntektsåret 2012 | 1 | 2012-01-01 to 2012-01-01 |
+| `for-2014-01-29-72` | Kunngjøring av rentesats for inntektsåret 2013 til bruk ved fremføring av underskudd og overskytende friinntekt i henhold til forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2013-01-01 to 2013-01-01 |
+| `for-2014-01-29-73` | Kunngjøring av normrentesats for inntektsåret 2013 til bruk ved anvendelse av forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2013-01-01 to 2013-01-01 |
+| `for-2014-01-30-80` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 annet ledd bokstav a nr. 3 for inntektsåret 2013 | 1 | 2013-01-01 to 2013-01-01 |
+| `for-2015-01-22-53` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 annet ledd bokstav a nr. 3 for inntektsåret 2014 | 1 | 2014-01-01 to 2014-01-01 |
+| `for-2015-01-22-54` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2014 | 1 | 2014-01-01 to 2014-01-01 |
+| `for-2015-02-06-86` | Kunngjøring av normrentesats for inntektsåret 2014 i henhold til forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2014-01-01 to 2014-01-01 |
+| `for-2015-02-06-87` | Kunngjøring av rentesats for inntektsåret 2014 til bruk ved framføring av underskudd og friinntekt | 1 | 2014-01-01 to 2014-01-01 |
+| `for-2016-01-26-59` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2015 | 1 | 2015-01-01 to 2015-01-01 |
+| `for-2016-01-26-60` | Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 annet ledd bokstav a nr. 3 for inntektsåret 2015 | 1 | 2015-01-01 to 2015-01-01 |
+| `for-2016-02-04-94` | Kunngjøring av normrentesats for inntektsåret 2015 i henhold til forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2015-01-01 to 2015-01-01 |
+| `for-2016-02-04-95` | Kunngjøring av rentesats for inntektsåret 2015 til bruk ved fremføring av underskudd og friinntekt | 1 | 2015-01-01 to 2015-01-01 |
+| `for-2017-01-18-43` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2016 | 1 | 2016-01-01 to 2016-01-01 |
+| `for-2017-01-30-101` | Kunngjøring av normrentesats for inntektsåret 2016 etter forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2016-01-01 to 2016-01-01 |
+| `for-2017-01-30-102` | Kunngjøring av rentesats for inntektsåret 2016 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2016-01-01 to 2016-01-01 |
+| `for-2018-01-09-17` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2017 | 1 | 2017-01-01 to 2017-01-01 |
+| `for-2018-01-26-105` | Kunngjøring av rentesats for inntektsåret 2017 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2017-01-01 to 2017-01-01 |
+| `for-2018-01-26-106` | Kunngjøring av normrentesats for inntektsåret 2017 etter forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | Normrentesats for inntektsåret 2017 | 1 | 2017-01-01 to 2017-01-01 |
+| `for-2019-01-11-18` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2018 | 1 | 2018-01-01 to 2018-01-01 |
+| `for-2019-02-15-121` | Kunngjøring av rentesats for inntektsåret 2018 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2018-01-01 to 2018-01-01 |
+| `for-2019-02-15-122` | Kunngjøring av normrentesats for inntektsåret 2018 etter forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2018-01-01 to 2018-01-01 |
+| `for-2020-01-22-58` | Kunngjøring av rentesats for inntektsåret 2019 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2019-01-01 to 2019-01-01 |
+| `for-2020-01-22-59` | Kunngjøring av normrentesats for inntektsåret 2019 etter forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2019-01-01 to 2019-01-01 |
+| `for-2020-01-23-72` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2019 | 1 | 2019-01-01 to 2019-01-01 |
+| `for-2020-11-26-2480` | Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2021 | 1 | 2021-01-01 to 2021-01-01 |
+| `for-2021-01-07-47` | Kunngjøring av rentesats for inntektsåret 2020 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2020-01-01 to 2020-01-01 |
+| `for-2021-01-07-48` | Kunngjøring av normrentesats for inntektsåret 2020 etter forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2020-01-01 to 2020-01-01 |
+| `for-2021-01-25-197` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2020 | 1 | 2020-01-01 to 2020-01-01 |
+| `for-2021-11-23-3287` | Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `for-2022-01-19-82` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2021 | 1 | 2021-01-01 to 2021-01-01 |
+| `for-2022-01-19-83` | Kunngjøring av rentesats for inntektsåret 2021 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum | 1 | 2021-01-01 to 2021-01-01 |
+| `for-2022-01-19-84` | Kunngjøring av normrentesats for inntektsåret 2021 etter forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen | 1 | 2021-01-01 to 2021-01-01 |
+| `for-2023-01-30-114` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `for-2024-01-30-145` | Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `for-2024-02-09-229` | Vedtak om fastsettelse av renter for skattlegging av havbruksvirksomhet for inntektsåret 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `for-2025-01-24-66` | Vedtak om fastsettelse av rente for skattlegging av havbruksvirksomhet for inntektsåret 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2025-01-24-67` | Vedtak om fastsettelse av renter for beskatning av vannkraftverk for inntektsåret 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2025-09-11-1850` | Forskrift om opptak til høgare utdanning (opptaksforskrifta) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2025-12-15-2562` | Forskrift om takseringsregler til bruk ved beskatningen av utenlandske artister for inntektsåret 2026 som skattlegges etter lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2026-02-03-130` | Midlertidig forskrift om automatiske vekter og automatiske veiesystemer ved mottak av pelagisk fisk | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-02-04-164` | Midlertidig forskrift om krav til vekter og automatiske veiesystemer til bruk ved landing av pelagisk fisk | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-02-04-165` | Forskrift om krav til vekter og automatiske veiesystemer til bruk ved landing av fisk | 1 | 2028-01-01 to 2028-01-01 |
+| `for-2026-02-10-232` | Forskrift om endring i forskrift om EU-gjødselvarer | 1 | 2027-05-01 to 2027-05-01 |
+| `for-2026-06-09-1053` | Forskrift om endring i forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-06-22-1391` | Forskrift om endring i forskrift om prisnedskriving ved salg til spesialmarkeder | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-06-26-1394` | Forskrift om endring i forskrift om regnskapsplikt mv. for private barnehager (økonomiforskrift til barnehageloven) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-07-01-1458` | Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS | 1 | 2027-04-01 to 2027-04-01 |
+| `for-2026-07-01-1459` | Forskrift om endring i forskrift om kontroll av kjøretøy langs veg | 1 | 2027-04-01 to 2027-04-01 |
+| `for-2026-08-21-1651` | Forskrift om standardisert inntektstaperstatning til barn | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-16-1830` | Forskrift om endring i forskrift om grunnutdanning og etterutdanning for yrkessjåfører (yrkessjåførforskriften) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-16-1831` | Forskrift om endring i forskrift om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-16-1832` | Forskrift om endring i forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-16-1833` | Forskrift om endring i forskrift om førerkort m.m. (førerkortforskriften) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-16-1888` | Forskrift om endring i forskrift om fartsskriververksteder | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-23-1891` | Forskrift om endring i forskrift om fastlegeordning i kommunene | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-09-28-1930` | Forskrift om endring i forskrift om luftromsorganisering | 1 | 2027-06-10 to 2027-06-10 |
+| `for-2026-09-28-1931` | Forskrift om endring i forskrift om lufttrafikkregler og operative prosedyrer | 1 | 2027-06-10 to 2027-06-10 |
+| `for-2026-10-02-1991` | Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-10-07-2009` | Forskrift om forbud mot bruk av fossile brensler til indirekte fyring i industrien fra 2030 | 1 | 2029-01-01 to 2029-01-01 |
+| `for-2026-10-14-2060` | Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy mv. | 1 | 2027-04-01 to 2027-04-01 |
+| `for-2026-10-16-2069` | Forskrift om endring i forskrift om sikkerhetsklarering og annen klarering (klareringsforskriften) | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-10-16-2078` | Forskrift om endring i forskrift om tilskudd til inkludering av barn og unge | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-10-19-2079` | Forskrift om endring i forskrift om adopsjon | 1 | 2027-07-01 to 2027-07-01 |
+| `for-2026-10-30-2189` | Forskrift om endring i integreringsforskriften | 1 | 2027-01-01 to 2027-01-01 |
 
-The build made 4526 commits:
+The build made 4573 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4004 | first version of an act |
+| 4051 | first version of an act |
 | 522 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -4040,7 +4113,7 @@ Other counts:
 - 2 commits on the branch `fremtidig`: laws not yet in force on 2026-11-02.
 - 41 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 455 laws in the record.
-- 4858 tags.
+- 4905 tags.
 
 ## Dates
 
@@ -4052,7 +4125,7 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `32eb2dd4cf2bfc1fae469cbf31c3109f2eae1dffd511c73b12b9cf4f265b9a09` (83902509 bytes).
+- Corpus: sha256 `66fe9664f03e2966d6dffe14c8eb1e06956c266d34699f8e2af96d3772e589d8` (84197843 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5849,6 +5922,143 @@ No second build of this corpus has been compared yet.
 - for-2026-10-02-1999 (FOR-2026-10-02-1999): in force in part; dated by the first in-force day Lovdata gives (2026-10-02), with the text as Lovdata prints it.
 - for-2026-10-15-2077 (FOR-2026-10-15-2077): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
 - for-2026-10-15-2077 (FOR-2026-10-15-2077): in force in part; dated by the first in-force day Lovdata gives (2026-11-01), with the text as Lovdata prints it.
+- Current-text regulations (73 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-02, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each act's units hold the consolidated document's text word for word (Lovdata's editorial notes, footnotes, the title line and repealed "(Opphevet)" articles apart; images are not included): paragraphs, articles ("Art.") and headings as the document numbers them, or one unit holding the whole text of a document with no numbered articles (a single-file act).
+- for-1989-12-22-1351 (FOR-1989-12-22-1351): Lovdata gives the in-force day as «Inntektsåret 1989»; the income year begins on 1989-01-01, used as this version's day.
+- for-1990-12-21-1016 (FOR-1990-12-21-1016): Lovdata gives the in-force day as «Inntektsåret 1990»; the income year begins on 1990-01-01, used as this version's day.
+- for-2005-09-09-1043 (FOR-2005-09-09-1043): Lovdata gives the in-force day as «Inntektsåret 2006»; the income year begins on 2006-01-01, used as this version's day.
+- for-2009-01-26-70 (FOR-2009-01-26-70): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2009-01-26-70 (FOR-2009-01-26-70): Lovdata gives the in-force day as «Inntektsåret 2008»; the income year begins on 2008-01-01, used as this version's day.
+- for-2010-01-29-80 (FOR-2010-01-29-80): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2010-01-29-80 (FOR-2010-01-29-80): Lovdata gives the in-force day as «Inntektsåret 2009»; the income year begins on 2009-01-01, used as this version's day.
+- for-2011-01-26-92 (FOR-2011-01-26-92): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2011-01-26-92 (FOR-2011-01-26-92): Lovdata gives the in-force day as «Inntektsåret 2010»; the income year begins on 2010-01-01, used as this version's day.
+- for-2012-01-16-54 (FOR-2012-01-16-54): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2012-01-16-54 (FOR-2012-01-16-54): Lovdata gives the in-force day as «Inntektsåret 2011»; the income year begins on 2011-01-01, used as this version's day.
+- for-2013-01-25-69 (FOR-2013-01-25-69): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2013-01-25-69 (FOR-2013-01-25-69): Lovdata gives the in-force day as «Inntektsåret 2012»; the income year begins on 2012-01-01, used as this version's day.
+- for-2013-01-25-70 (FOR-2013-01-25-70): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2013-01-25-70 (FOR-2013-01-25-70): Lovdata gives the in-force day as «Inntektsåret 2012»; the income year begins on 2012-01-01, used as this version's day.
+- for-2013-01-28-115 (FOR-2013-01-28-115): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2013-01-28-115 (FOR-2013-01-28-115): Lovdata gives the in-force day as «Inntektsåret 2012»; the income year begins on 2012-01-01, used as this version's day.
+- for-2014-01-29-72 (FOR-2014-01-29-72): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2014-01-29-72 (FOR-2014-01-29-72): Lovdata gives the in-force day as «Inntektsåret 2013»; the income year begins on 2013-01-01, used as this version's day.
+- for-2014-01-29-73 (FOR-2014-01-29-73): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2014-01-29-73 (FOR-2014-01-29-73): Lovdata gives the in-force day as «Inntektsåret 2013»; the income year begins on 2013-01-01, used as this version's day.
+- for-2014-01-30-80 (FOR-2014-01-30-80): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2014-01-30-80 (FOR-2014-01-30-80): Lovdata gives the in-force day as «Inntektsåret 2013»; the income year begins on 2013-01-01, used as this version's day.
+- for-2015-01-22-53 (FOR-2015-01-22-53): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2015-01-22-53 (FOR-2015-01-22-53): Lovdata gives the in-force day as «Inntektsåret 2014»; the income year begins on 2014-01-01, used as this version's day.
+- for-2015-01-22-54 (FOR-2015-01-22-54): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2015-01-22-54 (FOR-2015-01-22-54): Lovdata gives the in-force day as «Inntektsåret 2014»; the income year begins on 2014-01-01, used as this version's day.
+- for-2015-02-06-86 (FOR-2015-02-06-86): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2015-02-06-86 (FOR-2015-02-06-86): Lovdata gives the in-force day as «Inntektsåret 2014»; the income year begins on 2014-01-01, used as this version's day.
+- for-2015-02-06-87 (FOR-2015-02-06-87): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2015-02-06-87 (FOR-2015-02-06-87): Lovdata gives the in-force day as «Inntektsåret 2014»; the income year begins on 2014-01-01, used as this version's day.
+- for-2016-01-26-59 (FOR-2016-01-26-59): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2016-01-26-59 (FOR-2016-01-26-59): Lovdata gives the in-force day as «Inntektsåret 2015»; the income year begins on 2015-01-01, used as this version's day.
+- for-2016-01-26-60 (FOR-2016-01-26-60): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2016-01-26-60 (FOR-2016-01-26-60): Lovdata gives the in-force day as «Inntektsåret 2015»; the income year begins on 2015-01-01, used as this version's day.
+- for-2016-02-04-94 (FOR-2016-02-04-94): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2016-02-04-94 (FOR-2016-02-04-94): Lovdata gives the in-force day as «Inntektsåret 2015»; the income year begins on 2015-01-01, used as this version's day.
+- for-2016-02-04-95 (FOR-2016-02-04-95): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2016-02-04-95 (FOR-2016-02-04-95): Lovdata gives the in-force day as «Inntektsåret 2015»; the income year begins on 2015-01-01, used as this version's day.
+- for-2017-01-18-43 (FOR-2017-01-18-43): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2017-01-18-43 (FOR-2017-01-18-43): Lovdata gives the in-force day as «Inntektsåret 2016»; the income year begins on 2016-01-01, used as this version's day.
+- for-2017-01-30-101 (FOR-2017-01-30-101): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2017-01-30-101 (FOR-2017-01-30-101): Lovdata gives the in-force day as «Inntektsåret 2016»; the income year begins on 2016-01-01, used as this version's day.
+- for-2017-01-30-102 (FOR-2017-01-30-102): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2017-01-30-102 (FOR-2017-01-30-102): Lovdata gives the in-force day as «Inntektsåret 2016»; the income year begins on 2016-01-01, used as this version's day.
+- for-2018-01-09-17 (FOR-2018-01-09-17): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2018-01-09-17 (FOR-2018-01-09-17): Lovdata gives the in-force day as «Inntektsåret 2017»; the income year begins on 2017-01-01, used as this version's day.
+- for-2018-01-26-105 (FOR-2018-01-26-105): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2018-01-26-105 (FOR-2018-01-26-105): Lovdata gives the in-force day as «Inntektsåret 2017»; the income year begins on 2017-01-01, used as this version's day.
+- for-2018-01-26-106 (FOR-2018-01-26-106): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2018-01-26-106 (FOR-2018-01-26-106): Lovdata gives the in-force day as «Inntektsåret 2017»; the income year begins on 2017-01-01, used as this version's day.
+- for-2019-01-11-18 (FOR-2019-01-11-18): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2019-01-11-18 (FOR-2019-01-11-18): Lovdata gives the in-force day as «Inntektsåret 2018»; the income year begins on 2018-01-01, used as this version's day.
+- for-2019-02-15-121 (FOR-2019-02-15-121): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2019-02-15-121 (FOR-2019-02-15-121): Lovdata gives the in-force day as «Inntektsåret 2018»; the income year begins on 2018-01-01, used as this version's day.
+- for-2019-02-15-122 (FOR-2019-02-15-122): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2019-02-15-122 (FOR-2019-02-15-122): Lovdata gives the in-force day as «Inntektsåret 2018»; the income year begins on 2018-01-01, used as this version's day.
+- for-2020-01-22-58 (FOR-2020-01-22-58): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2020-01-22-58 (FOR-2020-01-22-58): Lovdata gives the in-force day as «Inntektsåret 2019»; the income year begins on 2019-01-01, used as this version's day.
+- for-2020-01-22-59 (FOR-2020-01-22-59): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2020-01-22-59 (FOR-2020-01-22-59): Lovdata gives the in-force day as «Inntektsåret 2019»; the income year begins on 2019-01-01, used as this version's day.
+- for-2020-01-23-72 (FOR-2020-01-23-72): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2020-01-23-72 (FOR-2020-01-23-72): Lovdata gives the in-force day as «Inntektsåret 2019»; the income year begins on 2019-01-01, used as this version's day.
+- for-2020-11-26-2480 (FOR-2020-11-26-2480): Lovdata gives the in-force day as «Inntektsåret 2021»; the income year begins on 2021-01-01, used as this version's day.
+- for-2021-01-07-47 (FOR-2021-01-07-47): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-01-07-47 (FOR-2021-01-07-47): Lovdata gives the in-force day as «Inntektsåret 2020»; the income year begins on 2020-01-01, used as this version's day.
+- for-2021-01-07-48 (FOR-2021-01-07-48): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-01-07-48 (FOR-2021-01-07-48): Lovdata gives the in-force day as «Inntektsåret 2020»; the income year begins on 2020-01-01, used as this version's day.
+- for-2021-01-25-197 (FOR-2021-01-25-197): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-01-25-197 (FOR-2021-01-25-197): Lovdata gives the in-force day as «Inntektsåret 2020»; the income year begins on 2020-01-01, used as this version's day.
+- for-2021-11-23-3287 (FOR-2021-11-23-3287): Lovdata gives the in-force day as «Inntektsåret 2022»; the income year begins on 2022-01-01, used as this version's day.
+- for-2022-01-19-82 (FOR-2022-01-19-82): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2022-01-19-82 (FOR-2022-01-19-82): Lovdata gives the in-force day as «Inntektsåret 2021»; the income year begins on 2021-01-01, used as this version's day.
+- for-2022-01-19-83 (FOR-2022-01-19-83): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2022-01-19-83 (FOR-2022-01-19-83): Lovdata gives the in-force day as «Inntektsåret 2021»; the income year begins on 2021-01-01, used as this version's day.
+- for-2022-01-19-84 (FOR-2022-01-19-84): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2022-01-19-84 (FOR-2022-01-19-84): Lovdata gives the in-force day as «Inntektsåret 2021»; the income year begins on 2021-01-01, used as this version's day.
+- for-2023-01-30-114 (FOR-2023-01-30-114): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2023-01-30-114 (FOR-2023-01-30-114): Lovdata gives the in-force day as «Inntektsåret 2022»; the income year begins on 2022-01-01, used as this version's day.
+- for-2024-01-30-145 (FOR-2024-01-30-145): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-01-30-145 (FOR-2024-01-30-145): Lovdata gives the in-force day as «Inntektsåret 2023»; the income year begins on 2023-01-01, used as this version's day.
+- for-2024-02-09-229 (FOR-2024-02-09-229): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-02-09-229 (FOR-2024-02-09-229): Lovdata gives the in-force day as «Inntektsåret 2023»; the income year begins on 2023-01-01, used as this version's day.
+- for-2025-01-24-66 (FOR-2025-01-24-66): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-01-24-66 (FOR-2025-01-24-66): Lovdata gives the in-force day as «Inntektsåret 2024»; the income year begins on 2024-01-01, used as this version's day.
+- for-2025-01-24-67 (FOR-2025-01-24-67): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-01-24-67 (FOR-2025-01-24-67): Lovdata gives the in-force day as «Inntektsåret 2024»; the income year begins on 2024-01-01, used as this version's day.
+- for-2025-09-11-1850 (FOR-2025-09-11-1850): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2025-09-11-1850 (FOR-2025-09-11-1850): the consolidated text's sections «Vedlegg I: Generell studiekompetanse for søkarar med utanlandsk utdanning – GSU-lista»; «Vedlegg II: Tabellar for omrekning av karakterar frå utanlandsk vidaregåande utdanning»; «Vedlegg III: Spesielle opptakskrav»; «Vedlegg IV: Spesielle kvotar» (not part of the act's own chapters, such as an annexed text) are not included.
+- for-2025-12-15-2562 (FOR-2025-12-15-2562): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-12-15-2562 (FOR-2025-12-15-2562): Lovdata gives the in-force day as «Inntektsåret 2026»; the income year begins on 2026-01-01, used as this version's day.
+- for-2026-02-03-130 (FOR-2026-02-03-130): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-02-04-164 (FOR-2026-02-04-164): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-02-04-165 (FOR-2026-02-04-165): Lovdata states 2028-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-02-10-232 (FOR-2026-02-10-232): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-02-10-232 (FOR-2026-02-10-232): Lovdata states 2027-05-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-06-09-1053 (FOR-2026-06-09-1053): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-09-1053 (FOR-2026-06-09-1053): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-06-22-1391 (FOR-2026-06-22-1391): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-22-1391 (FOR-2026-06-22-1391): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-06-26-1394 (FOR-2026-06-26-1394): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-26-1394 (FOR-2026-06-26-1394): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-07-01-1458 (FOR-2026-07-01-1458): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-07-01-1458 (FOR-2026-07-01-1458): Lovdata states 2027-04-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-07-01-1459 (FOR-2026-07-01-1459): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-07-01-1459 (FOR-2026-07-01-1459): Lovdata states 2027-04-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-08-21-1651 (FOR-2026-08-21-1651): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-16-1830 (FOR-2026-09-16-1830): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-16-1830 (FOR-2026-09-16-1830): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-16-1831 (FOR-2026-09-16-1831): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-16-1831 (FOR-2026-09-16-1831): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-16-1832 (FOR-2026-09-16-1832): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-16-1832 (FOR-2026-09-16-1832): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-16-1833 (FOR-2026-09-16-1833): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-16-1833 (FOR-2026-09-16-1833): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-16-1888 (FOR-2026-09-16-1888): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-16-1888 (FOR-2026-09-16-1888): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-23-1891 (FOR-2026-09-23-1891): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-23-1891 (FOR-2026-09-23-1891): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-28-1930 (FOR-2026-09-28-1930): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-28-1930 (FOR-2026-09-28-1930): Lovdata states 2027-06-10 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-09-28-1931 (FOR-2026-09-28-1931): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-28-1931 (FOR-2026-09-28-1931): Lovdata states 2027-06-10 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-02-1991 (FOR-2026-10-02-1991): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-02-1991 (FOR-2026-10-02-1991): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-07-2009 (FOR-2026-10-07-2009): Lovdata states 2029-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-14-2060 (FOR-2026-10-14-2060): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-14-2060 (FOR-2026-10-14-2060): Lovdata states 2027-04-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-16-2069 (FOR-2026-10-16-2069): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-16-2069 (FOR-2026-10-16-2069): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-16-2078 (FOR-2026-10-16-2078): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-16-2078 (FOR-2026-10-16-2078): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-19-2079 (FOR-2026-10-19-2079): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-19-2079 (FOR-2026-10-19-2079): Lovdata states 2027-07-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-30-2189 (FOR-2026-10-30-2189): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-30-2189 (FOR-2026-10-30-2189): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
 
 ## What AI did and did not do
 
@@ -5860,6 +6070,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and read sample documents to design it. No model wrote, edited or summarised legal text, and no model runs at data-build or git-build time.
+- none
 - none
 - none
 - none
