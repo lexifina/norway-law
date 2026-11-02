@@ -4115,7 +4115,7 @@ Other counts:
 - 2 commits on the branch `fremtidig`: laws not yet in force on 2026-11-02.
 - 41 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 455 laws in the record.
-- 4906 tags.
+- 4939 tags.
 
 ## Dates
 
@@ -4133,7 +4133,7 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 ## Checks
 
-Not yet run for this build.
+4689 versions of 4085 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
