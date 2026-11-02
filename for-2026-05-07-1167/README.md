@@ -1,0 +1,64 @@
+# Forskrift for graden philosophiae doctor (ph.d.) ved Nord universitet
+
+FOR-2026-05-07-1167 · 1 versions, from 2026-05-07 (latest in force: 2026-05-07) · <https://lovdata.no/dokument/SF/forskrift/2026-05-07-1167>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 1 | [paragraf-001.md](paragraf-001.md) | 0 |  |
+| § 2 | [paragraf-002.md](paragraf-002.md) | 0 |  |
+| § 4 | [paragraf-004.md](paragraf-004.md) | 0 |  |
+| § 5 | [paragraf-005.md](paragraf-005.md) | 0 |  |
+| § 14 | [paragraf-014.md](paragraf-014.md) | 0 |  |
+| § 19 | [paragraf-019.md](paragraf-019.md) | 0 |  |
+| § 23 | [paragraf-023.md](paragraf-023.md) | 0 |  |
+| § 24 | [paragraf-024.md](paragraf-024.md) | 0 |  |
+| § 3-1 | [paragraf-03-001.md](paragraf-03-001.md) | 0 |  |
+| § 3-2 | [paragraf-03-002.md](paragraf-03-002.md) | 0 |  |
+| § 6-1 | [paragraf-06-001.md](paragraf-06-001.md) | 0 |  |
+| § 6-2 | [paragraf-06-002.md](paragraf-06-002.md) | 0 |  |
+| § 6-3 | [paragraf-06-003.md](paragraf-06-003.md) | 0 |  |
+| § 6-4 | [paragraf-06-004.md](paragraf-06-004.md) | 0 |  |
+| § 7-1 | [paragraf-07-001.md](paragraf-07-001.md) | 0 |  |
+| § 7-2 | [paragraf-07-002.md](paragraf-07-002.md) | 0 |  |
+| § 7-3 | [paragraf-07-003.md](paragraf-07-003.md) | 0 |  |
+| § 7-4 | [paragraf-07-004.md](paragraf-07-004.md) | 0 |  |
+| § 7-5 | [paragraf-07-005.md](paragraf-07-005.md) | 0 |  |
+| § 7-6 | [paragraf-07-006.md](paragraf-07-006.md) | 0 |  |
+| § 8-1 | [paragraf-08-001.md](paragraf-08-001.md) | 0 |  |
+| § 8-2 | [paragraf-08-002.md](paragraf-08-002.md) | 0 |  |
+| § 9-1 | [paragraf-09-001.md](paragraf-09-001.md) | 0 |  |
+| § 9-2 | [paragraf-09-002.md](paragraf-09-002.md) | 0 |  |
+| § 9-3 | [paragraf-09-003.md](paragraf-09-003.md) | 0 |  |
+| § 9-4 | [paragraf-09-004.md](paragraf-09-004.md) | 0 |  |
+| § 10-1 | [paragraf-10-001.md](paragraf-10-001.md) | 0 |  |
+| § 10-2 | [paragraf-10-002.md](paragraf-10-002.md) | 0 |  |
+| § 11-1 | [paragraf-11-001.md](paragraf-11-001.md) | 0 |  |
+| § 11-2 | [paragraf-11-002.md](paragraf-11-002.md) | 0 |  |
+| § 11-3 | [paragraf-11-003.md](paragraf-11-003.md) | 0 |  |
+| § 12-1 | [paragraf-12-001.md](paragraf-12-001.md) | 0 |  |
+| § 12-2 | [paragraf-12-002.md](paragraf-12-002.md) | 0 |  |
+| § 12-3 | [paragraf-12-003.md](paragraf-12-003.md) | 0 |  |
+| § 13-1 | [paragraf-13-001.md](paragraf-13-001.md) | 0 |  |
+| § 13-2 | [paragraf-13-002.md](paragraf-13-002.md) | 0 |  |
+| § 13-3 | [paragraf-13-003.md](paragraf-13-003.md) | 0 |  |
+| § 15-1 | [paragraf-15-001.md](paragraf-15-001.md) | 0 |  |
+| § 15-2 | [paragraf-15-002.md](paragraf-15-002.md) | 0 |  |
+| § 15-3 | [paragraf-15-003.md](paragraf-15-003.md) | 0 |  |
+| § 15-4 | [paragraf-15-004.md](paragraf-15-004.md) | 0 |  |
+| § 15-5 | [paragraf-15-005.md](paragraf-15-005.md) | 0 |  |
+| § 16-1 | [paragraf-16-001.md](paragraf-16-001.md) | 0 |  |
+| § 16-2 | [paragraf-16-002.md](paragraf-16-002.md) | 0 |  |
+| § 17-1 | [paragraf-17-001.md](paragraf-17-001.md) | 0 |  |
+| § 17-2 | [paragraf-17-002.md](paragraf-17-002.md) | 0 |  |
+| § 17-3 | [paragraf-17-003.md](paragraf-17-003.md) | 0 |  |
+| § 18-1 | [paragraf-18-001.md](paragraf-18-001.md) | 0 |  |
+| § 18-2 | [paragraf-18-002.md](paragraf-18-002.md) | 0 |  |
+| § 20-1 | [paragraf-20-001.md](paragraf-20-001.md) | 0 |  |
+| § 20-2 | [paragraf-20-002.md](paragraf-20-002.md) | 0 |  |
+| § 21-1 | [paragraf-21-001.md](paragraf-21-001.md) | 0 |  |
+| § 21-2 | [paragraf-21-002.md](paragraf-21-002.md) | 0 |  |
+| § 21-3 | [paragraf-21-003.md](paragraf-21-003.md) | 0 |  |
+| § 21-4 | [paragraf-21-004.md](paragraf-21-004.md) | 0 |  |
+| § 22-1 | [paragraf-22-001.md](paragraf-22-001.md) | 0 |  |
+| § 22-2 | [paragraf-22-002.md](paragraf-22-002.md) | 0 |  |
+| § 22-3 | [paragraf-22-003.md](paragraf-22-003.md) | 0 |  |

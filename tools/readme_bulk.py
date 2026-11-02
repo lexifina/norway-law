@@ -25,6 +25,37 @@ def count(pat):
 
 laws, _, _ = count('70-lover-*.json')
 regs, _, _ = count('80-forskrifter-*.json')
+MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November',
+          'December']
+
+
+def survey(pat):
+    """(acts per data set day, single-file act slugs, in-force-in-part count) of a set's parts."""
+    days, single, part = {}, [], 0
+    for f in sorted(glob.glob(os.path.join(D, 'corpus.d', pat))):
+        d = json.load(open(f, encoding='utf-8'))
+        m = re.search(r'(?:as of|as retrieved on) (\d{4}-\d{2}-\d{2})', d['decisions'][0])
+        days[m.group(1)] = days.get(m.group(1), 0) + len(d['acts'])
+        for a in d['acts']:
+            if list(a['versions'][0]['units']) == ['tekst']:
+                single.append(a['slug'])
+            if '; Lovdata gives the rest as' in a['versions'][0]['note']:
+                part += 1
+    return days, single, part
+
+
+def day_words(days, noun):
+    ds = sorted(days)
+    words = ['%d %s %s' % (int(x[8:]), MONTHS[int(x[5:7]) - 1], x[:4]) for x in ds]
+    if len(ds) == 1:
+        return ' of ' + words[0]
+    parts = ['%s (%d %s)' % (w, days[x], noun) for w, x in zip(words, ds)]
+    return 's of ' + ', '.join(parts[:-1]) + ' and ' + parts[-1]
+
+
+ldays, lsingle, lpart = survey('70-lover-*.json')
+rdays, rsingle, rpart = survey('80-forskrifter-*.json')
+single = len(lsingle) + len(rsingle)
 p = os.path.join(D, 'repo', 'README.md')
 s = open(p, encoding='utf-8').read()
 
@@ -32,12 +63,24 @@ CUR = ('**Acts with their current text only.** Beside the acts above, `lov-…`-
        'further laws, and `for-…` folders %d central regulations (sentrale forskrifter), each as one version: the text '
        'in force today in Lovdata\'s consolidation (unofficial), credited to Lovdata as the oldest version available '
        'and dated by the day Lovdata gives for the last change in force (or, for one never changed, its own in-force '
-       'day). They have no history yet. Laws: the `gjeldende-lover` data set of 21 October 2026; regulations: the '
-       '`gjeldende-sentrale-forskrifter` data set as of 2 November 2026. Laws and regulations Lovdata prints with no '
-       'numbered paragraphs (treaties numbered by article, short acts of a few unnumbered ledd), and the delegation '
-       'decisions and instructions in the regulations data set, are not included yet.' % (laws, regs))
+       'day). They have no history yet. Laws: the `gjeldende-lover` data set%s; regulations: the '
+       '`gjeldende-sentrale-forskrifter` data set%s. Each is split into its paragraphs (§) or articles '
+       '("Art.") and headings as the document numbers them, except %d **single-file acts** (%d laws, %d regulations): '
+       'documents with no numbered articles, such as amending acts and short acts of a few unnumbered ledd, each '
+       'recorded as one file, `tekst.md`, holding its whole text (listed below). %d acts in force only in part are '
+       'dated by the first in-force day Lovdata gives. Not included: laws and regulations not yet in force or whose '
+       'last change takes effect later, regulations whose in-force day Lovdata gives only as a year ("Inntektsåret '
+       '2014"), the delegation decisions and instructions in the regulations data set, and local regulations.' % (
+           laws, regs, day_words(ldays, 'laws'), day_words(rdays, 'regulations'), single, len(lsingle), len(rsingle),
+           lpart + rpart))
+LIST = ('<details><summary>Single-file acts (%d)</summary>\n\n%s\n\n</details>'
+        % (single, ', '.join('`%s`' % x for x in lsingle + rsingle)))
 if '**Acts with their current text only.**' in s:
     s = re.sub(r'\*\*Acts with their current text only\.\*\*[^\n]*', lambda m: CUR, s)
+    if '<details><summary>Single-file acts' in s:
+        s = re.sub(r'<details><summary>Single-file acts.*?</details>', lambda m: LIST, s, flags=re.S)
+    elif single:
+        s = s.replace(CUR, CUR + '\n\n' + LIST, 1)
 else:
     a = 'Every version is built from the official announcement in **Norsk Lovtidend**.'
     assert s.count(a) == 1
@@ -50,7 +93,10 @@ CHK = ('- **Current-text acts.** Each law and regulation recorded with its curre
        'force apart); one that does not, or whose last change takes effect after the data set\'s day, is left out. '
        'Paragraphs of amendments to other acts that Lovdata prints as "– – –" keep their title only, as in the acts '
        'above. Annexes without numbered paragraphs (such as an annexed EU regulation) are not included; the record\'s '
-       'decisions list them.')
+       'decisions list them. A document whose paragraphs this reading does not list is read article by article '
+       'instead, or recorded as a single-file act, and its words, in order, equal the document\'s own text '
+       '(Lovdata\'s editorial notes, footnotes and repealed "(Opphevet)" articles apart; images in a few regulations '
+       'are not included).')
 if '- **Current-text acts.**' in s:
     s = re.sub(r'- \*\*Current-text acts\.\*\*[^\n]*', lambda m: CHK, s)
 else:
@@ -81,7 +127,9 @@ if old_row in s:
     s = s.replace(old_row, new_row)
 
 NO = ('- Gjeldende tekst: %d andre lover og %d sentrale forskrifter er tatt med slik de lyder i dag i Lovdatas '
-      'ajourførte (uoffisielle) tekst, én versjon hver, uten historikk ennå.' % (laws, regs))
+      'ajourførte (uoffisielle) tekst, én versjon hver, uten historikk ennå%s.' % (
+          laws, regs, ('; %d av dem er én fil med hele teksten (dokumenter uten nummererte paragrafer eller artikler)'
+                       % single) if single else ''))
 if '- Gjeldende tekst:' in s:
     s = re.sub(r'- Gjeldende tekst:[^\n]*', lambda m: NO, s)
 else:
@@ -93,6 +141,7 @@ open(p, 'w', encoding='utf-8', newline='\n').write(s)
 j = os.path.join(D, 'repo', 'jurisdiction.json')
 jd = json.load(open(j, encoding='utf-8'))
 b = re.sub(r'; current text only: .*$', '', jd['build'])
-jd['build'] = b + '; current text only: %d laws and %d central regulations (Lovdata consolidation)' % (laws, regs)
+jd['build'] = b + '; current text only: %d laws and %d central regulations (Lovdata consolidation%s)' % (
+    laws, regs, ', %d of them single-file' % single if single else '')
 open(j, 'w', encoding='utf-8', newline='\n').write(json.dumps(jd, ensure_ascii=False, indent=2) + '\n')
 print('laws', laws, 'regulations', regs)

@@ -608,6 +608,113 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `barnevoldsundersokelsesloven` | Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven) | 1 | 2026-07-01 to 2026-07-01 |
 | `lov-2026-06-12-25` | Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold | 1 | 2026-07-01 to 2026-07-01 |
 | `lov-2026-06-23-75` | Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene | 1 | 2026-06-23 to 2026-06-23 |
+| `norske-lov` | Kong Christian Den Femtis Norske Lov | 1 | 2023-07-01 to 2023-07-01 |
+| `prom-ang-territorial-graense` | Cancelli-Promemoria | 1 | 2004-01-01 to 2004-01-01 |
+| `rettergangsordningens-ikrafttraedelseslov` | Lov om rettergangsordningens ikrafttræden | 1 | 2008-01-01 to 2008-01-01 |
+| `svalbardtraktaten` | Traktat mellem Norge, Amerikas Forente Stater, Danmark, Frankrike, Italia, Japan, Nederlandene, Storbritannia og Irland og de britiske oversjøiske besiddelser og Sverige angående Spitsbergen [Svalbardtraktaten] | 1 | 1925-08-14 to 1925-08-14 |
+| `rettergangsoverenskomst-med-storbritannia` | Overenskomst mellem Norge og Storbritannia angående den civile rettergang | 1 | 1931-09-07 to 1931-09-07 |
+| `nordisk-familierettslig-konvensjon` | Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål med sluttprotokoll [nordisk familierettslig konvensjon] | 1 | 2008-12-01 to 2008-12-01 |
+| `nordisk-konkurskonvensjon` | Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige om konkurs | 1 | 1986-05-01 to 1986-05-01 |
+| `nordisk-konvensjon-om-arv-og-dodsboskifte` | Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige om arv og dødsboskifte | 1 | 2015-09-01 to 2015-09-01 |
+| `statens-pensjonskasseloven` | Lov om Statens pensjonskasse | 1 | 2026-01-01 to 2026-01-01 |
+| `tilleggslov-om-krigspensjonering-1951-06-29-34` | Midlertidig lov om tillegg til lover av 13. desember 1946 om 1) Krigspensjonering for hjemmestyrkepersonell og sivilpersoner og 2) Krigspensjonering for militærpersoner | 1 | 2022-04-01 to 2022-04-01 |
+| `bilansvarslova` | Lov om ansvar for skade som motorvogner gjer (bilansvarslova) | 1 | 2022-07-01 to 2022-07-01 |
+| `sivildomsoverenskomst-med-storbritannia` | Overenskomst mellom Norge og Storbritannia om gjensidig anerkjennelse og fullbyrdelse av dommer i sivile saker | 1 | 1971-10-13 to 1971-10-13 |
+| `nordisk-konvensjon-om-underholdsbidrag` | Konvensjon mellom Norge, Danmark, Finnland, Island og Sverige om inndriving av underholdsbidrag, undertegnet i Oslo den 23 mars 1962 | 1 | 2002-04-01 to 2002-04-01 |
+| `helsingforsavtalen` | Samarbeidsavtale mellom Norge, Danmark, Finland, Island og Sverige [Helsingforsavtalen] | 1 | 1962-07-01 to 1962-07-01 |
+| `veglova` | Lov om vegar (veglova) | 1 | 2025-01-01 to 2025-01-01 |
+| `atomenergiloven` | Lov om atomenergivirksomhet [atomenergiloven] | 1 | 2026-01-01 to 2026-01-01 |
+| `eigedomsskattelova` | Lov om eigedomsskatt til kommunane (eigedomsskattelova) | 1 | 2026-01-01 to 2026-01-01 |
+| `lov-om-opph-av-pensjonsordn-for-aremalstilsatte` | Lov om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte | 1 | 2011-01-01 to 2011-01-01 |
+| `linjekonferanseloven` | Lov om linjekonferanser m.v. [linjekonferanseloven] | 1 | 2015-10-01 to 2015-10-01 |
+| `konkurslovgivningens-ikrafttredelseslov` | Lov om ikrafttredelse av ny gjeldsforhandlings- og konkurslovgivning m m | 1 | 2003-01-01 to 2003-01-01 |
+| `endringslov-angaende-allmenninger-m-v` | Lov om opphevelse av og endringer i gjeldende lovgivning om allmenninger m.v. | 1 | 1993-01-01 to 1993-01-01 |
+| `luftfartsloven` | Lov om luftfart (luftfartsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `lov-om-medisinsk-utstyr-1995-01-12-6` | Lov om medisinsk utstyr | 1 | 2015-10-01 to 2015-10-01 |
+| `folketrygdloven` | Lov om folketrygd (folketrygdloven) | 1 | 2026-10-01 to 2026-10-01 |
+| `skatteloven` | Lov om skatt av formue og inntekt (skatteloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `psykisk-helsevernloven` | Lov om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven) | 1 | 2026-06-01 to 2026-06-01 |
+| `betalingssystemloven` | Lov om betalingssystemer m.v. | 1 | 2023-01-01 to 2023-01-01 |
+| `endringslov-til-sentralbankloven-m-fl` | Lov om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven | 1 | 2004-01-01 to 2004-01-01 |
+| `privatskolelova` | Lov om private skolar med rett til statstilskot (privatskolelova) | 1 | 2026-08-01 to 2026-08-01 |
+| `endringslov-til-pengespill-og-lotterilover` | Lov om endringer i pengespill- og lotterilovgivningen | 1 | 2009-01-01 to 2009-01-01 |
+| `endringslov-til-skatte-og-avgiftslovgivningen-mv` | Lov om endringer i skatte- og avgiftslovgivningen mv. | 1 | 2008-05-09 to 2008-05-09 |
+| `forsikringsvirksomhetsloven` | Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-kringkastingsloven` | Lov om endringar i lov 4. desember 1992 nr. 127 om kringkasting | 1 | 2005-07-01 to 2005-07-01 |
+| `endringslov-til-barnevernl-og-sosialtjenestel` | Lov om endringer i barnevernloven og sosialtjenesteloven mv. (saksbehandlingsregler for fylkesnemndene for barnevern og sosiale saker mv.) | 1 | 2007-01-01 to 2007-01-01 |
+| `endringslov-til-skatteloven` | Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt | 1 | 2007-06-15 to 2007-06-15 |
+| `endringslov-til-ekomloven` | Lov om endringer i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) | 1 | 2008-01-15 to 2008-01-15 |
+| `endringslov-til-skatteloven-2008-12-12-99` | Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) | 1 | 2008-12-12 to 2008-12-12 |
+| `endringslov-til-folketrygdloven-ny-alderspensjon` | Lov om endringer i folketrygdloven (ny alderspensjon) | 1 | 2010-12-17 to 2010-12-17 |
+| `endringslov-til-forsikringsvirksomhetsloven` | Lov om endringer i forsikringsvirksomhetsloven (skadeforsikring) | 1 | 2016-01-01 to 2016-01-01 |
+| `endringslov-om-datalagringsdirektivet` | Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs datalagringsdirektiv i norsk rett) | 1 | 2015-10-01 to 2015-10-01 |
+| `endringslov-til-klimakvoteloven` | Lov om endringer i klimakvoteloven | 1 | 2011-04-15 to 2011-04-15 |
+| `endringslov-til-skatteloven-2011-12-09-52` | Lov om endringer i skatteloven | 1 | 2016-12-20 to 2016-12-20 |
+| `endringslov-til-folketrygdloven-ny-uforetrygd` | Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre) | 1 | 2014-12-19 to 2014-12-19 |
+| `endringslov-til-straffeloven-mv` | Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff) | 1 | 2018-07-01 to 2018-07-01 |
+| `endringslov-til-utleveringsloven-m-m` | Lov om endringer i utleveringsloven m.m | 1 | 2013-01-01 to 2013-01-01 |
+| `endringslov-til-straffegjennomforingsloven-mv` | Lov om endringar i straffegjennomføringsloven mv. | 1 | 2013-06-14 to 2013-06-14 |
+| `endringslov-til-barnevernloven` | Lov om endringer i barnevernloven | 1 | 2013-06-21 to 2013-06-21 |
+| `oppheving-av-arveavgiftsloven` | Lov om oppheving av lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver (arveavgiftsloven) | 1 | 2021-01-01 to 2021-01-01 |
+| `aif-loven` | Lov om forvaltning av alternative investeringsfond | 1 | 2026-04-01 to 2026-04-01 |
+| `endringslov-til-ftrl-og-div-pensjonslover` | Lov om endringer i lov om Statens pensjonskasse, folketrygdloven og i enkelte andre lover (justeringer i reglene om uføretrygd og ny uførepensjonsordning i offentlig tjenestepensjon mv.) | 1 | 2015-01-01 to 2015-01-01 |
+| `endringslov-til-arbeidsmiljoloven-og-sosialtjenesteloven` | Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlertidig ansettelse mv. og vilkår om aktivitet for stønad til livsopphold) | 1 | 2020-12-18 to 2020-12-18 |
+| `endringslov-til-sjoloven` | Lov om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.) | 1 | 2018-12-20 to 2018-12-20 |
+| `endringslov-til-tomtefesteloven` | Lov om endringer i tomtefesteloven (festeavgift ved forlengelse m.m.) | 1 | 2015-07-01 to 2015-07-01 |
+| `lov-om-eos-finanstilsyn` | Lov om EØS-finanstilsyn | 1 | 2025-07-01 to 2025-07-01 |
+| `endringslov-til-pasient-og-brukerrettighetsloven-mv` | Lov om endringer i pasient- og brukerrettighetsloven og helse- og omsorgstjenesteloven (rett til opphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester – kriterier og ventelister) | 1 | 2016-07-01 to 2016-07-01 |
+| `endringslov-til-tobakksskadeloven` | Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger) | 1 | 2025-06-20 to 2025-06-20 |
+| `endringslov-til-folketrygdloven-mv` | Lov om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv.) | 1 | 2018-01-01 to 2018-01-01 |
+| `endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m` | Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking av rettsstillinga til barn ved yting av helse- og omsorgstenester m.m.) | 1 | 2019-04-10 to 2019-04-10 |
+| `endringslov-til-eigedomsskattelova` | Lov om endringer i lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eigedomsskattelova) | 1 | 2019-01-01 to 2019-01-01 |
+| `endringslov-til-finansforetaksloven-mv` | Lov om endringer i finansforetaksloven mv. (innskuddsgaranti og krisehåndtering av banker) | 1 | 2019-01-01 to 2019-01-01 |
+| `endringer-i-alkoholloven-mv` | Lov om endringer i alkoholloven, atomenergiloven, folkehelseloven, legemiddelloven, lov om medisinsk utstyr og strålevernloven (overtredelsesgebyr mv.) | 1 | 2025-06-20 to 2025-06-20 |
+| `endringslov-til-tobakkskadeloven` | Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.) | 1 | 2025-06-20 to 2025-06-20 |
+| `endringslov-til-reindriftsloven` | Lov om endringer i reindriftsloven (tilgjengeliggjøring av reintall og obligatorisk individmerking) | 1 | 2021-06-01 to 2021-06-01 |
+| `endringslov-til-veglova-mv-overforing-av-fylkesveiadministrasjon` | Lov om endringer i veglova mv. (overføring av fylkesveiadministrasjon) | 1 | 2019-06-21 to 2019-06-21 |
+| `endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven` | Lov om endringer i spesialisthelsetjenesteloven og pasient- og brukerrettighetsloven (lovfesting av systemet for nye metoder m.m.) | 1 | 2020-01-01 to 2020-01-01 |
+| `endringslov-til-vegtrafikkloven-opplaering` | Lov om endringer i vegtrafikkloven (opplæring) | 1 | 2020-04-03 to 2020-04-03 |
+| `endringslov-til-verdipapirhandelloven-og-pakkereiseloven` | Lov om endringer i verdipapirhandelloven (forskriftshjemmel om tilbudsprisen ved pliktig tilbud) og lov om endringer i pakkereiseloven (forskriftshjemmel om forlengelse av frist for tilbakebetaling) | 1 | 2020-04-24 to 2020-04-24 |
+| `lov-om-tilskudd-ved-avbrutt-permittering` | Lov om tilskudd ved avbrutt permittering (økonomiske tiltak i møte med virusutbruddet) | 1 | 2026-01-01 to 2026-01-01 |
+| `endringslov-til-folketrygdloven-nye-etterlatteytelser` | Lov om endringer i folketrygdloven (nye etterlatteytelser) | 1 | 2023-12-20 to 2023-12-20 |
+| `endringslov-til-deltakerloven-og-havressurslova` | Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet) | 1 | 2022-01-01 to 2022-01-01 |
+| `endringslov-til-finansforetaksloven-mv-2021-04-23-22` | Lov om endringer i finansforetaksloven mv. (verdipapirisering og kreditorhierarki) | 1 | 2025-08-01 to 2025-08-01 |
+| `endringslov-til-aksjelovgivningen-mv` | Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på generalforsamlingen) | 1 | 2022-01-01 to 2022-01-01 |
+| `lov-om-offentliggjoring-av-baerekraftsinformasjon-i-finanssektoren-mv` | Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer | 1 | 2023-01-01 to 2023-01-01 |
+| `endringslov-til-barnevernloven-mv` | Lov om endringer i barnevernloven mv. (tverrfaglig helsekartlegging) | 1 | 2022-06-17 to 2022-06-17 |
+| `endringslov-til-lov-om-interkommunale-selskaper` | Lov om endringar i lov om interkommunale selskaper (møteoffentlegheit, økonomiforvaltning m.m.) | 1 | 2023-07-01 to 2023-07-01 |
+| `endringslov-til-sikkerhetsloven` | Lov om endringer i sikkerhetsloven (eierskapskontroll og lovens virkeområde) | 1 | 2023-07-01 to 2023-07-01 |
+| `endringslov-til-forsvarsloven-mv-militaer-disiplinaermyndighet` | Lov om endringer i forsvarsloven mv. (militær disiplinærmyndighet) | 1 | 2024-07-01 to 2024-07-01 |
+| `endringslov-til-tobakksskadeloven-2023-12-20-107` | Lov om endringer i tobakksskadeloven (strengere regulering av e-sigaretter) | 1 | 2023-12-20 to 2023-12-20 |
+| `endringslov-til-konfliktradsloven-straffeloven-mv` | Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (strafferettslige reaksjoner for ungdom og varetekt med elektronisk kontroll) | 1 | 2024-05-24 to 2024-05-24 |
+| `endringslov-til-skatteloven-2024-01-12-2` | Lov om endringer i skatteloven | 1 | 2024-01-12 to 2024-01-12 |
+| `endringslov-til-regnskapsloven-mv` | Lov om endringer i regnskapsloven mv. (bærekraftsrapportering) | 1 | 2025-08-01 to 2025-08-01 |
+| `endringslov-til-grenseloven-og-utlendingsloven-mv` | Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.) | 1 | 2026-06-12 to 2026-06-12 |
+| `endringslov-til-gjeldsordningsloven-mv` | Lov om endringer i gjeldsordningsloven mv. (effektivisering og forenkling av gjeldsordningsprosessen) | 1 | 2025-01-01 to 2025-01-01 |
+| `endringslov-til-finansmarkedslovgivningen` | Lov om endringer i finansmarkedslovgivningen (samleproposisjon) | 1 | 2024-07-01 to 2024-07-01 |
+| `endringslov-til-konfliktradsloven-og-straffeloven-mv` | Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaksjoner for ungdom) | 1 | 2024-12-01 to 2024-12-01 |
+| `endringslov-til-kringkastingsloven-mv` | Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til direktiv om audiovisuelle medietjenester mv.) | 1 | 2025-05-01 to 2025-05-01 |
+| `endringslov-til-allmenngjoringsloven` | Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard) | 1 | 2025-07-01 to 2025-07-01 |
+| `endringslov-til-folketrygdloven` | Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrkesskade) | 1 | 2026-01-01 to 2026-01-01 |
+| `endringslov-til-integreringsloven-mv` | Lov om endringer i integreringsloven mv. (økt arbeidsretting og formell opplæring i introduksjonsprogrammet) | 1 | 2025-06-20 to 2025-06-20 |
+| `endringslov-til-trygderettsloven-mv` | Lov om endringer i trygderettsloven mv. (ankeerklæring til Trygderetten, avgjørelse innen seks måneder mv.) | 1 | 2026-01-01 to 2026-01-01 |
+| `endringslov-til-barnevernsloven-mv` | Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet) | 1 | 2026-01-01 to 2026-01-01 |
+| `endringslov-til-rettshjelpsloven-mv` | Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv.) | 1 | 2025-07-01 to 2025-07-01 |
+| `endringslov-til-utlendingsloven-mv` | Lov om endringer i utlendingsloven mv. (familieinnvandring m.m.) | 1 | 2025-07-01 to 2025-07-01 |
+| `endringslov-til-plan-og-bygningsloven-og-matrikkellova` | Lov om endringer i plan- og bygningsloven og matrikkellova (nye virkemidler ved fortetting og transformasjon, grunneierfinansiering av infrastruktur mv.) | 1 | 2025-07-01 to 2025-07-01 |
+| `endringslov-til-yrkestransportloven-mv` | Lov om endringer i yrkestransportloven mv. (drosjetilbud, internkontroll, kontrollutrustning og tilknytning til sentral) | 1 | 2025-06-20 to 2025-06-20 |
+| `endringslov-til-anskaffelsesloven` | Lov om endringer i anskaffelsesloven (samfunnshensyn mv.) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven` | Lov om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter) | 1 | 2026-07-01 to 2026-07-01 |
+| `midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina` | Lov om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-folketrygdloven-mv-2026-06-12-24` | Lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre) | 1 | 2026-10-01 to 2026-10-01 |
+| `endringslov-til-arbeidsmiljoloven-og-folketrygdloven` | Lov om endringer i arbeidsmiljøloven og folketrygdloven (hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort og trekk av fagforeningskontingent i ytelser) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-barnevernsloven` | Lov om endringer i barnevernsloven (bedre beskyttelse av barn på institusjon) | 1 | 2026-06-19 to 2026-06-19 |
+| `endringslov-til-bokforingsloven-mv` | Lov om endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-finansforetaksloven-mv-2026-06-19-40` | Lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m` | Lov om endringer i politiloven og tvangsfullbyrdelsesloven m.m. (kjønnsnøytrale betegnelser) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-politiregisterloven-og-grenseloven-mv` | Lov om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer) | 1 | 2026-07-01 to 2026-07-01 |
+| `endringslov-til-konkursloven-mv` | Lov om endringer i konkursloven mv. (rekonstruksjonsforhandling) | 1 | 2026-06-19 to 2026-06-19 |
+| `endringslov-til-utlendingsloven` | Lov om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse) | 1 | 2026-07-01 to 2026-07-01 |
 | `for-1896-06-26-9805` | Forskrifter angaaende Fremgangsmaaden ved Salg af Leilændingsgods tilhørende Stamhuse m.V. | 1 | 1961-01-27 to 1961-01-27 |
 | `for-1925-08-07-3767` | Bergverksordning for Spitsbergen (Svalbard) fremlagt av den norske regjering. | 1 | 1992-08-28 to 1992-08-28 |
 | `for-1927-06-24-9812` | Forskrift om stevnevitners, politiansattes og fengselstjenestemenns utførelse av forkynnelser. | 1 | 2003-01-01 to 2003-01-01 |
@@ -3429,20 +3536,505 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `for-2026-10-08-2011` | Forskrift om midlertidig tilskudd for andre redskapsgrupper enn reketrål i Oslofjorden | 1 | 2026-10-08 to 2026-10-08 |
 | `for-2026-10-11-2047` | Forskrift om forlengelse av fristen for masseoppsigelsers virkning | 1 | 2026-10-11 to 2026-10-11 |
 | `for-2026-10-13-2050` | Forskrift om overgangsregler når ankeerklæring skal framsettes for Trygderetten | 1 | 2026-10-13 to 2026-10-13 |
+| `for-1905-11-15-2` | Res. om Kongeflaget m.v. | 1 | 1924-09-26 to 1924-09-26 |
+| `for-1905-12-30-1` | Res. om Kongevaabenet. | 1 | 1905-12-30 to 1905-12-30 |
+| `for-1906-01-27-2` | Res. om fastsættelse af en kongevimpel. | 1 | 1906-01-27 to 1906-01-27 |
+| `for-1924-09-26-4` | Res. angående flagg for Kronprinsen og Kronprinsessen | 1 | 1924-09-26 to 1924-09-26 |
+| `for-1925-12-18-9838` | Forskrift om hvad der skal henføres til skattepliktig formue og inntekt samt bestemmelser om utførelse av skatteligningen for Svalbard. | 1 | 1982-07-09 to 1982-07-09 |
+| `for-1927-05-20-3729` | Forskrift angående bruk av Rikets segl og Riksvåbenet. | 1 | 1927-06-15 to 1927-06-15 |
+| `for-1927-06-10-3` | Res. om dommerforsikring efter domstollovens § 60 | 1 | 1927-06-10 to 1927-06-10 |
+| `for-1930-09-19-3663` | Forskrift om Bouvet-øya. | 1 | 2021-04-26 to 2021-04-26 |
+| `for-1933-07-06-3` | Forskrift om adgang til i særlige tilfelle å benytte fremmed lands flagg ved siden av det norske flagg på kommunale offentlige bygninger. | 1 | 1933-07-06 to 1933-07-06 |
+| `for-1937-03-19-3728` | Res. om Noregs riksvåpen | 1 | 1937-03-19 to 1937-03-19 |
+| `for-1945-10-12-1` | Forskrifter om det nøyaktige tidspunkt for frigjøringen av Norge. | 1 | 1945-05-09 to 1945-05-09 |
+| `for-1947-04-26-1` | Forskrift om lønn 1. og 17. mai. | 1 | 1947-06-09 to 1947-06-09 |
+| `for-1949-01-20-1` | Forskrift om Norsk Lysingsblad. Innrykking og betaling for proklamaer og ektepakter. | 1 | 2004-01-01 to 2004-01-01 |
+| `for-1952-05-08-6` | Forskrifter om adgangen til kirkelig vigsel for medlemmer av The Evangelical Lutheran Church i U.S.A. | 1 | 1989-12-22 to 1989-12-22 |
+| `for-1953-02-27-3` | Forskrift om forbud mot fangst av pelssel og sjøelefanter på Bouvetøya og Peter I.'s øy. | 1 | 1953-02-27 to 1953-02-27 |
+| `for-1953-03-20-3454` | Forskrift om administrativ tilhørighet for sysselmannen på Svalbard. | 1 | 1953-07-01 to 1953-07-01 |
+| `for-1953-06-11-4014` | Utfyllende regler til § 1 og § 2 i lov av 4. juli 1952 nr 3. | 1 | 1996-11-22 to 1996-11-22 |
+| `for-1954-02-05-2` | Forskrift om omsetning m.v. av agn. | 1 | 1974-05-31 to 1974-05-31 |
+| `for-1956-11-09-8632` | Forskrift om normalvedtekter for gjensidige sjøtrygdelag ifølge lov av 3. juli 1953. | 1 | 1956-11-09 to 1956-11-09 |
+| `for-1956-11-09-9388` | Forskrift om normalvedtekt for ymsesidige sjøtrygdelag etter lov av 3. juli 1953. | 1 | 1983-08-19 to 1983-08-19 |
+| `for-1959-07-24-7` | Forskrifter om epidemiske sykdommer og klimatsykdommer som stilles likt med yrkesskade. | 1 | 1960-01-01 to 1960-01-01 |
+| `for-1959-09-11-5036` | Regler for fastsettelse av krigsskueplass i overensstemmelse med lov om særlige rådgjerder under krig § 6 | 1 | 1959-09-11 to 1959-09-11 |
+| `for-1961-01-20-1` | Forskrift om forbud mot oppankring på et område utenfor Andøya flystasjon. | 1 | 1961-01-20 to 1961-01-20 |
+| `for-1961-12-22-4` | Forskrift om målingsmåten i lov om rettshøve mellom grannar 16. juni 1961 nr. 15 § 3. | 1 | 1962-01-01 to 1962-01-01 |
+| `for-1962-11-09-1` | Forskrifter om meniges æresord til fienden. | 1 | 1962-11-09 to 1962-11-09 |
+| `for-1963-03-08-8` | Forskrifter vedr. egentlige militære kommandosaker (jfr. Grunnlovens §§ 28 og 31). | 1 | 1975-09-19 to 1975-09-19 |
+| `for-1963-12-12-1` | Forskrift om fullbyrding av nordiske dommer på straff m.v. | 1 | 2018-05-03 to 2018-05-03 |
+| `for-1964-07-16-3905` | Forskrift om alminnelige regler om bygging og vedlikehold av avkjørsler fra offentlig veg. | 1 | 2020-01-01 to 2020-01-01 |
+| `for-1964-09-04-8677` | Forskrift om yrkesskadetrygd for lotter og flysøstre. | 1 | 1964-09-04 to 1964-09-04 |
+| `for-1964-10-09-3` | Forskrifter om pelsing av pelsdyr. | 1 | 2004-01-09 to 2004-01-09 |
+| `for-1965-03-09-9736` | Forskrifter for teknisk kontroll av tørrklosetter til bruk i offentlige og private tilfluktsrom. | 1 | 1965-03-09 to 1965-03-09 |
+| `for-1966-11-04-4011` | Forskrift om plassering av skogsvirke ved riksveg | 1 | 2020-01-01 to 2020-01-01 |
+| `for-1966-12-31-4099` | Forskrift om flere tjenestepensjoner og grunnpensjon og omstillingsstønad fra folketrygden (samordningsforskrift 24) | 1 | 2024-01-01 to 2024-01-01 |
+| `for-1968-07-05-1` | Forskrift om forbud mot fangst av Ross-sel. | 1 | 1968-07-05 to 1968-07-05 |
+| `for-1968-09-06-3` | Res. om fredning av kongeørn og havørn hele året | 1 | 1968-09-06 to 1968-09-06 |
+| `for-1969-10-09-3815` | Forskrift om gjerde ved offentlig veg | 1 | 2020-01-01 to 2020-01-01 |
+| `for-1970-12-30-9395` | Forskrifter om innbetaling av medlemspremie og om fritak for å betale premie. | 1 | 2006-07-01 to 2006-07-01 |
+| `for-1971-06-25-9` | Forskrift 25. juni 1971 nr. 9 om tillatelse for utenlandske fiskefartøy til fiske i vitenskapelig øyemed i samarbeid med norske myndigheter | 1 | 2017-07-01 to 2017-07-01 |
+| `for-1971-06-25-3800` | Forskrift om fortsatt bevilling til TONO og NCB til å drive virksomhet i Norge. | 1 | 2002-01-01 to 2002-01-01 |
+| `for-1971-08-06-3434` | Forskrift om utvidelse av Svalbardutvalgets stedlige virkeområde m.v. | 1 | 2002-01-01 to 2002-01-01 |
+| `for-1971-12-17-9` | Forskrift om fredning av Bouvetøya med tilliggende territorialfarvann som naturreservat. | 1 | 2007-01-01 to 2007-01-01 |
+| `for-1972-08-25-3` | Forskrift om utbetaling til norske sjøfolk som seilte ute i krigsårene. | 1 | 1988-12-23 to 1988-12-23 |
+| `for-1972-12-04-2` | Forskrifter om hvilken fart som skal regnes som fjernfart ved skattlegging av sjømenn. | 1 | 1973-01-01 to 1973-01-01 |
+| `for-1973-04-06-9740` | Forskrift for meklingsnemnda for arbeidstakeroppfinnelser | 1 | 2009-01-01 to 2009-01-01 |
+| `for-1973-04-09-9549` | Forskrift om fastsetting av fradrag i tjenestepensjon fra Statens pensjonskasse, pensjonsordningen for apoteketaten, pensjonsordningen for sykepleiere og kommunale tjenestepensjonsordninger for tilleggspensjon fra folketrygden. | 1 | 1989-12-20 to 1989-12-20 |
+| `for-1973-06-01-1` | Forskrift om opprettelse av nasjonalparker, naturresevater og fuglereservater, Svalbard | 1 | 2021-12-03 to 2021-12-03 |
+| `for-1973-10-26-4` | Forskrift om bekreftelse av underskrift på eksigible gjeldsbrev. | 1 | 1992-12-04 to 1992-12-04 |
+| `for-1973-11-23-3460` | Forskrift om luftfart på Jan Mayen. | 1 | 1996-03-15 to 1996-03-15 |
+| `for-1974-06-18-3650` | Forskrift for definisjon av begrepet olje og oljeholdig blanding i lov om vern mot oljeskader. | 1 | 1974-06-18 to 1974-06-18 |
+| `for-1975-03-07-8625` | Forskrift om overføring av fullmakter til Forbruker- og administrasjonsdepartementet vedrørende Norsk lysingsblad. | 1 | 1975-03-07 to 1975-03-07 |
+| `for-1975-03-07-8626` | Forskrifter for Norsk Lysingsblad | 1 | 1996-11-22 to 1996-11-22 |
+| `for-1975-12-16-1` | Forskrift om dokumentavgift. | 1 | 2016-01-01 to 2016-01-01 |
+| `for-1976-04-23-1` | Forskrifter om bergverksordningen for Jan Mayen. | 1 | 1976-04-23 to 1976-04-23 |
+| `for-1976-08-03-9783` | Forskrifter om tilfluktsrom ved industrivernpliktige bedrifter og virksomheter. | 1 | 1976-08-03 to 1976-08-03 |
+| `for-1976-09-06-4054` | Forskrift om ervervsmessig luftfart med helikopter. | 1 | 2014-10-28 to 2014-10-28 |
+| `for-1976-10-29-3763` | Forskrift om fredning av mistelteinen. Delegering av myndighet. | 1 | 2014-01-01 to 2014-01-01 |
+| `for-1976-11-15-2` | Forskrift om hastighetsgrenser ved prøving av bremser. | 1 | 1976-11-15 to 1976-11-15 |
+| `for-1976-12-17-8` | Forskrift om regnskap for skattepliktige som driver petroleumsutvinning og rørledningstransport. | 1 | 1999-07-01 to 1999-07-01 |
+| `for-1976-12-17-15` | Forskrift om iverksettelse av Norges økonomiske sone. Delegering av fullmakt. | 1 | 1977-01-01 to 1977-01-01 |
+| `for-1977-04-22-9891` | Forskrifter om frist for anvendelse av midler avsatt til premiefond til folketrygda. | 1 | 1977-04-22 to 1977-04-22 |
+| `for-1977-08-05-2` | Forskrifter om gjennomføring av lov om kontroll med produkter og forbrukertjenester | 1 | 2014-01-01 to 2014-01-01 |
+| `for-1977-11-24-1` | Forskrifter om sjømenns fradrag for foreningskontingent ved beregning og trekk av sjømannsskatt og ved ligning. | 1 | 1987-10-21 to 1987-10-21 |
+| `for-1978-01-11-1` | Resolusjon om opprettelse av Olje- og energidepartementet. | 1 | 1978-01-11 to 1978-01-11 |
+| `for-1978-02-17-2` | Forskrifter om unntak fra lov og forskrifter om brannfarlige varer. | 1 | 1978-02-17 to 1978-02-17 |
+| `for-1978-04-03-9460` | Forskrift for produksjons- og hjelpesystemer på produksjonsanlegg m.v. for utvinning av petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet. | 1 | 1992-04-03 to 1992-04-03 |
+| `for-1978-06-01-3389` | Forskrift om matloven, Svalbard. | 1 | 2004-01-09 to 2004-01-09 |
+| `for-1978-12-15-5` | Forskrifter for Jan Mayen i henhold til lov om arbeidervern og arbeidsmiljø. Delegasjon av myndighet. | 1 | 1978-12-15 to 1978-12-15 |
+| `for-1979-09-21-7` | Forskrift om bruk av personlig verneutstyr under kjøring med motorvogn | 1 | 2024-01-01 to 2024-01-01 |
+| `for-1980-05-16-8` | Forskrifter om gjennomføringen av bestemmelsene i yrkesskadetrygdlovens § 57 om automatisk regulering av ytelsene etter loven. | 1 | 1982-02-17 to 1982-02-17 |
+| `for-1980-05-23-4` | Forskrift om opprettelse av fiskerisone ved Jan Mayen. Delegering av fullmakt. | 1 | 1980-05-29 to 1980-05-29 |
+| `for-1980-06-06-6` | Forskrift om unntak fra arbeidsmiljøloven – medbestemmelse for tilsatte i staten. | 1 | 1980-07-17 to 1980-07-17 |
+| `for-1980-06-13-2` | Forskrifter om arbeids- og fritid for personale ved helse- og sosialinstitusjoner – dispensasjon fra arbeidsmiljøloven. | 1 | 1980-08-04 to 1980-08-04 |
+| `for-1980-06-27-7` | Forskrift om flytting av det sentrale ektepaktregister fra Oslo byskriverembete, gamle byområde, til landsregisteret for rettigheter i løsøre (løsøreregisteret) ved Brønnøy sorenskriverembete. | 1 | 1980-09-01 to 1980-09-01 |
+| `for-1980-11-21-12` | Forskrift om administrasjon av Jan Mayen | 1 | 2021-11-01 to 2021-11-01 |
+| `for-1980-11-21-14` | Forskrift til lov om pant (pantelovforskriften). | 1 | 2005-04-08 to 2005-04-08 |
+| `for-1981-05-08-4026` | Protokoll om opprettelse av et fond for norsk/svensk industrielt samarbeid | 1 | 1981-05-08 to 1981-05-08 |
+| `for-1981-06-05-8828` | Forskrift om oppkreving av eksportavgift. | 1 | 1981-06-05 to 1981-06-05 |
+| `for-1981-07-24-4940` | Endringer i 1) rettskrivningen og læreboknormalen for bokmål og 2) bruksområdet for læreboknormalen. Delegasjon av fullmakt. | 1 | 1989-12-22 to 1989-12-22 |
+| `for-1981-10-02-8783` | Forskrifter om fredning for sibirstjerne Aster sibiricus | 1 | 2014-01-01 to 2014-01-01 |
+| `for-1981-11-19-8761` | Forskrifter for gjennomføring av Gatt-avtalen om offentlige innkjøp. | 1 | 2013-07-01 to 2013-07-01 |
+| `for-1982-02-16-382` | Forskrift om endring av rettskriving og læreboknormal | 1 | 1989-12-22 to 1989-12-22 |
+| `for-1982-02-26-3791` | Forskrift om behandling av avkjørslesaker for riksveg | 1 | 2021-06-01 to 2021-06-01 |
+| `for-1982-09-16-1431` | Forskrift om fradrag i inntekt om bord ved beregning av sjømannsskatt fra og med trekkåret 1983. | 1 | 1983-01-01 to 1983-01-01 |
+| `for-1982-10-05-1440` | Forskrift om priser og betalingsbetingelser for eksport av tørrfisk. | 1 | 1982-11-29 to 1982-11-29 |
+| `for-1982-10-15-1515` | Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner | 1 | 2024-01-01 to 2024-01-01 |
+| `for-1982-10-22-3421` | Forskrift om overføring av fødselsregistreringen til folkeregistrerene. | 1 | 1991-01-11 to 1991-01-11 |
+| `for-1982-12-15-1787` | Forskrift om frådrag i sjømannsskatt ved aksjesparing. | 1 | 1982-12-15 to 1982-12-15 |
+| `for-1983-01-07-12` | Forskrift om bygging av fiske- og fangstfartøyer. | 1 | 2007-07-01 to 2007-07-01 |
+| `for-1983-01-17-67` | Forskrifter om priser for eksport av tørrfisk. | 1 | 1983-04-02 to 1983-04-02 |
+| `for-1983-02-25-512` | Forskrift om fredning av Masimjelt (Oxytropis deflexa) og Purpurkarse (Braya purpurascens). Delegering av myndighet. | 1 | 2014-01-01 to 2014-01-01 |
+| `for-1983-06-03-1029` | Forskrift om fredning for Moffen naturreservat på Svalbard | 1 | 2025-01-01 to 2025-01-01 |
+| `for-1983-10-05-4605` | Forskrift om motorseilfly (BSL D 4-6) | 1 | 2019-05-15 to 2019-05-15 |
+| `for-1983-10-13-1571` | Forskrift om frådrag i inntekt om bord ved utrekning av sjømannsskatt frå og med trekkåret 1984. | 1 | 1983-10-13 to 1983-10-13 |
+| `for-1983-10-28-1588` | Vedtak om at tjenestetvistloven gjøres gjeldende for undervisningspersonale ved helsefaghøgskoler som fremtidig skal bli statlige. | 1 | 1989-12-22 to 1989-12-22 |
+| `for-1984-01-31-227` | Forskrift om sikringstiltak mot brann og eksplosjon på flyttbare innretninger | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1984-04-10-940` | Forskrift om kontroll av dykkesystem m.m. på norske skip i sjøen. | 1 | 2007-07-01 to 2007-07-01 |
+| `for-1984-09-21-1672` | Forskrift om overgangsbestemmelser i medhold av lov om havner og farvann | 1 | 1993-12-17 to 1993-12-17 |
+| `for-1984-12-14-2044` | Forskrift om etablering av Direktoratet for brann og eksplosjonsvern og Statens bygningstekniske etat. Nedleggelse av Statens branninspeksjon og Statens sprengstoffinspeksjon. | 1 | 1985-01-01 to 1985-01-01 |
+| `for-1985-02-08-293` | Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera. | 1 | 1985-02-08 to 1985-02-08 |
+| `for-1985-03-08-532` | Forskrift om domsmyndighet på Svalbard | 1 | 2021-04-26 to 2021-04-26 |
+| `for-1985-03-29-699` | Forskrift etter luftfartsloven – utenlandsk luftfartøy innenfor norsk område. | 1 | 1985-05-22 to 1985-05-22 |
+| `for-1985-06-28-1679` | Forskrift om ordningen av påtalemyndigheten (Påtaleinstruksen) | 1 | 2025-08-15 to 2025-08-15 |
+| `for-1985-10-08-1806` | Forskrift om frådrag i inntekt om bord ved utrekning av sjømannsskatt frå og med trekkåret 1986. | 1 | 1986-01-01 to 1986-01-01 |
+| `for-1985-10-11-1810` | Forskrift om postforkynning | 1 | 2026-01-01 to 2026-01-01 |
+| `for-1985-11-29-1994` | Omorganisering av Bergvesenet. | 1 | 1986-01-16 to 1986-01-16 |
+| `for-1986-01-13-31` | Forskrift om kraner som brukes til lasting og lossing på skip i åpent farvann | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1986-07-01-3055` | Overenskomst 1985 mellom Danmark, Finland, Norge og Sverige om gjensidig godkjennelse av førerkort og registrering av kjøretøyer. | 1 | 1986-07-01 to 1986-07-01 |
+| `for-1986-12-17-2318` | Forskrift om konstruksjon og utrustning av boligkvarteret på flyttbare innretninger | 1 | 2018-01-01 to 2018-01-01 |
+| `for-1987-02-06-71` | Forskrift om oppheving av forskrift om arealtilskott til privateide skoler, kirker utenfor Den Norske Kirke. | 1 | 1987-01-01 to 1987-01-01 |
+| `for-1987-03-04-164` | Forskrift om valg av tillitsmannsutvalg (distriktsstyre) og dets arbeidsoppgaver og arbeidsform (reinbeitedistriktene). | 1 | 2007-07-01 to 2007-07-01 |
+| `for-1987-06-15-507` | Forskrift om sikkerhetstiltak m.m. på passasjerskip, lasteskip og lektere | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1987-06-30-580` | Forskrift om vakthold for dekksavdelingen og maskinavdelingen på norske fiske- og fangstfartøy | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1987-09-04-743` | Forskrift om sikringstiltak mot brann på fiske- og fangstfartøy | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1987-09-04-856` | Forskrift om bygging av flyttbare innretninger | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1987-09-04-859` | Forskrift om verne-, miljø- og sikkerhetstiltak på flyttbare innretninger | 1 | 2023-03-27 to 2023-03-27 |
+| `for-1987-11-20-924` | Forskrift om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere. | 1 | 1991-03-15 to 1991-03-15 |
+| `for-1987-11-20-1080` | Forskrift om autorisasjon av verksteder for reparasjon/ombygging m.v. av eksplosjonsbeskyttet elektrisk utstyr. | 1 | 1988-01-01 to 1988-01-01 |
+| `for-1988-04-29-314` | Forskrift om anvendelse av lov om oppdrett av fisk, skalldyr mv. i Norges økonomiske sone. | 1 | 1988-04-29 to 1988-04-29 |
+| `for-1988-05-15-356` | Forskrift for bruk av motorkjøretøyer i utmark og på islagte vassdrag | 1 | 2025-07-10 to 2025-07-10 |
+| `for-1988-07-08-562` | Forskrift om endring av landbruksfagskulane sin struktur og plass i skulesystemet – unntak frå lov om fagskulane i landbruket. | 1 | 1988-08-28 to 1988-08-28 |
+| `for-1988-10-07-835` | Forskrift om nedgradering m.m. | 1 | 1988-10-07 to 1988-10-07 |
+| `for-1988-11-14-932` | Forskrift for sykehjem og boform for heldøgns omsorg og pleie | 1 | 2022-06-23 to 2022-06-23 |
+| `for-1989-01-10-52` | Forskrift til gjennomføring av den alminnelige utførselsregulering. | 1 | 2003-01-01 to 2003-01-01 |
+| `for-1989-02-10-88` | Forskrift om sikkerhetsopplæring for fiskere. | 1 | 2007-11-23 to 2007-11-23 |
+| `for-1989-05-12-302` | Forskrift om unntak fra lov om havner og farvann for sjø- og landområder samt arbeid, anlegg og tiltak knyttet til forsvarsmessige formål | 1 | 1989-06-26 to 1989-06-26 |
+| `for-1989-10-13-1043` | Forskrift om innføring av produktpatent på legemidler og næringsmidler på selve produktet. | 1 | 1992-01-01 to 1992-01-01 |
+| `for-1990-01-25-92` | Forskrift om bruk av kjøretøy | 1 | 2026-09-10 to 2026-09-10 |
+| `for-1990-01-26-68` | Forskrift for garantiordningen for fiskere | 1 | 2004-02-27 to 2004-02-27 |
+| `for-1990-03-01-715` | Forskrift om kommunale og fylkeskommunale budsjetter og regnskaper. | 1 | 1991-01-01 to 1991-01-01 |
+| `for-1990-06-01-435` | Forskrift om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak | 1 | 2024-01-01 to 2024-01-01 |
+| `for-1990-06-22-589` | Forskrift om oppheving av forskrift om valutaregulering. Delegering av myndighet til Norges Bank. | 1 | 1990-06-22 to 1990-06-22 |
+| `for-1991-05-31-349` | Forskrift om miljøkrav for sivile luftfartøyer | 1 | 1991-05-31 to 1991-05-31 |
+| `for-1991-10-15-712` | Forskrift om bygging av fiske- og fangstfartøy med lengde på 15 m Loa og derover. | 1 | 2007-07-01 to 2007-07-01 |
+| `for-1991-10-15-713` | Forskrift om plassering m.v. av innredning og om forpleiningstjenesten for besetningen på fiske- og fangstfartøy | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1991-10-16-853` | Forskrift om beredskapsfartøy | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1991-11-15-737` | Overføring av fullmakt til Landbruksdepartementet etter lov om kvalitetskontroll av landbruksvarer m.v. | 1 | 1991-11-15 to 1991-11-15 |
+| `for-1991-12-20-878` | Forskrift om stabilitet, vanntett oppdeling og vanntette/værtette lukningsmidler på flyttbare innretninger | 1 | 2023-03-27 to 2023-03-27 |
+| `for-1992-09-15-693` | Forskrift om innretning og føring av dagbøker på skip og flyttbare innretninger | 1 | 2025-06-26 to 2025-06-26 |
+| `for-1992-10-28-1` | Rundskriv om kunngjøring i Norsk Lovtidend avdeling I og II. | 1 | 1993-03-04 to 1993-03-04 |
+| `for-1992-12-04-893` | Forskrift om bemyndigelse av funksjonærer etter tvangsfullbyrdelsesloven. | 1 | 2006-01-01 to 2006-01-01 |
+| `for-1992-12-04-910` | Forskrift om gjennomføring av EØS-avtalen vedlegg XVI punkt 6 (Rfo EØF/Euratom nr. 1182/71) om fastsettelse av regler for frister, datoer og tidspunkter | 1 | 2006-04-07 to 2006-04-07 |
+| `for-1993-04-30-316` | Forskrift om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum. | 1 | 2022-10-17 to 2022-10-17 |
+| `for-1993-08-20-815` | Forskrift om brannvern på Svalbard. | 1 | 2021-12-03 to 2021-12-03 |
+| `for-1993-11-10-1018` | Forskrift om vegtrafikkloven med forskrifters gyldighet på Svalbard | 1 | 2024-03-20 to 2024-03-20 |
+| `for-1993-11-10-1019` | Forskrift om vegtrafikkloven med forskrifters gyldighet på Jan Mayen. | 1 | 2002-07-01 to 2002-07-01 |
+| `for-1993-11-22-1039` | Forskrift om overgangsbestemmelser i anledning ikrafttredelse av lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet (konkurranseloven) og lov 11. juni 1993 nr. 66 om pristiltak. | 1 | 1994-01-01 to 1994-01-01 |
+| `for-1993-12-17-1315` | Fullmakt til å gjøre unntak fra tvistemålslovens og straffeprosesslovens bestemmelser om taushetsplikt for lover under Konkurransetilsynet. | 1 | 1994-01-01 to 1994-01-01 |
+| `for-1993-12-21-1381` | Forskrift om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften) | 1 | 2026-05-04 to 2026-05-04 |
+| `for-1993-12-21-1384` | Forskrift om identifikasjonsmerking av næringsmiddelpartier. | 1 | 2004-01-15 to 2004-01-15 |
+| `for-1994-02-10-123` | Forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr | 1 | 2023-03-27 to 2023-03-27 |
+| `for-1994-03-11-202` | Forskrift om gjennomføringsbestemmelser til luftfartsloven. | 1 | 2000-01-01 to 2000-01-01 |
+| `for-1994-10-04-918` | Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) | 1 | 2026-06-08 to 2026-06-08 |
+| `for-1994-11-10-1001` | Rikspolitiske retningslinjer for vernede vassdrag | 1 | 2022-01-01 to 2022-01-01 |
+| `for-1994-11-14-1280` | Forskrift om soloflygingsbevis. | 1 | 1995-10-01 to 1995-10-01 |
+| `for-1994-11-14-1298` | Forskrift om utstedelse, forlengelse og gjenutstedelse av rettigheter på klasse og type (fly/helikopter) tilknyttet flygersertifikat/bevis. | 1 | 1995-10-01 to 1995-10-01 |
+| `for-1994-11-18-1015` | Overgangsregler til lov av 4. november 1994 nr. 59 om endring i lov av 5. juni 1992 nr. 51 om bank som eies av staten ved Postverket. | 1 | 1994-11-18 to 1994-11-18 |
+| `for-1994-12-15-1187` | Forskrift om internkontroll for å oppfylle næringsmiddellovgivningen | 1 | 2010-03-01 to 2010-03-01 |
+| `for-1995-01-31-107` | Forskrift om overvåkning av og kontroll med forekomsten av salmonella hos levende storfe og svin | 1 | 2016-01-01 to 2016-01-01 |
+| `for-1995-02-01-90` | Forskrift om utvidelse av anvendelsesområdet for lov 20. juli 1991 nr 67 om overføring av domfelte. | 1 | 2006-06-30 to 2006-06-30 |
+| `for-1995-05-09-466` | Forskrift om ikrafttredelse av forskrift om endring i forskrift om sikkerhetstiltak på fiske- og fangstfartøyer. | 1 | 1995-07-01 to 1995-07-01 |
+| `for-1995-06-02-517` | Forskrift om definisjon og bruk av kompatible tekniske spesifikasjonar og vedtekne Eurocontrol-standardar for innkjøp av utstyr og system til styring av lufttrafikken og framgangsmåtar, arbeidsreglar og bruk av ressursar i lufttrafikken. | 1 | 2003-09-22 to 2003-09-22 |
+| `for-1995-06-30-603` | Forskrift om endring i forskrift om arbeidervern og arbeidsmiljø i petroleumsvirksomheten og i visse andre forskrifter. | 1 | 1995-08-01 to 1995-08-01 |
+| `for-1995-07-20-698` | Forskrift om legemidlers kvalitet, standarder m.m. | 1 | 2024-01-01 to 2024-01-01 |
+| `for-1995-11-30-938` | Forskrift om AS Vinmonopolets innkjøpsvirksomhet mv. | 1 | 2018-01-01 to 2018-01-01 |
+| `for-1996-01-19-4263` | Vedtak om borgerlig vigselsformular | 1 | 2009-01-01 to 2009-01-01 |
+| `for-1996-02-02-115` | Forskrift om oppkreving av gebyr til statskassen for besiktelser, sertifikatutstedelse mv. som foretas i henhold til skipssikkerhetsloven mv. (Sjøfartsdirektoratets gebyrforskrift) | 1 | 2026-03-29 to 2026-03-29 |
+| `for-1996-03-01-291` | Forskrift om skogfrø og skogplanter. | 1 | 2021-01-01 to 2021-01-01 |
+| `for-1996-04-01-319` | Forskrift om bemanning av flyttbare innretninger | 1 | 2016-07-01 to 2016-07-01 |
+| `for-1996-05-14-498` | Forskrift om tiltak mot mørk ringråte i potet. | 1 | 1996-05-21 to 1996-05-21 |
+| `for-1996-06-07-533` | Overføring av ansvar for landtransport av farlig gods fra Samferdselsdepartementet til Kommunal- og arbeidsdepartementet. | 1 | 1996-07-01 to 1996-07-01 |
+| `for-1996-07-19-703` | Forskrift om sikkerhet ved lekeplassutstyr | 1 | 2014-09-15 to 2014-09-15 |
+| `for-1996-08-20-811` | Delegering av myndighet til Direktoratet for brann- og eksplosjonsvern etter lov om brannvern mv. | 1 | 1996-08-20 to 1996-08-20 |
+| `for-1997-01-24-36` | Kunngjøring av York-Antwerpen reglene 1994. | 1 | 1997-01-01 to 1997-01-01 |
+| `for-1997-02-18-234` | Forskrift om endring i forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr. | 1 | 1997-07-01 to 1997-07-01 |
+| `for-1997-03-25-270` | Forskrift om forsikringsbasert refusjon av trygdeutgifter ved yrkesskade og yrkessykdommer | 1 | 2018-04-01 to 2018-04-01 |
+| `for-1997-06-19-618` | Forskrift om Petroleumsregisteret. | 1 | 2024-01-01 to 2024-01-01 |
+| `for-1997-06-27-653` | Forskrift til lov om petroleumsvirksomhet | 1 | 2026-01-17 to 2026-01-17 |
+| `for-1997-08-22-945` | Forskrift om utvidelse av det geografiske virkeområdet til forurensningsloven § 74 femte ledd. | 1 | 1997-09-01 to 1997-09-01 |
+| `for-1997-09-19-1061` | Forskrift om inngrep på åpent hav og i Norges økonomiske sone i tilfelle av havforurensning eller fare for forurensning av olje eller andre stoffer som følge av en sjøulykke | 1 | 2014-01-01 to 2014-01-01 |
+| `for-1997-10-10-1090` | Forskrift til lov om Oppgaveregisteret | 1 | 2011-12-07 to 2011-12-07 |
+| `for-1998-01-05-6` | Forskrift om bygging, utrustning og drift av hurtiggående fartøy som anvendes som passasjerskip eller lasteskip | 1 | 2026-01-01 to 2026-01-01 |
+| `for-1998-01-16-37` | Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd | 1 | 2008-09-01 to 2008-09-01 |
+| `for-1998-01-19-38` | Delegering av myndighet til å gi tillatelse til midlertidig oppbevaring av brannfarlig gass (LPG/propan) på byggeplasser. | 1 | 1998-01-19 to 1998-01-19 |
+| `for-1998-05-29-564` | Delegering av myndighet til å gi tillatelse til midlertidig oppbevaring av brannfarlig gass (LPG/propan) på byggeplasser. | 1 | 1998-05-29 to 1998-05-29 |
+| `for-1998-09-16-890` | Forskrift om dagpenger under arbeidsløshet | 1 | 2026-09-24 to 2026-09-24 |
+| `for-1999-02-05-195` | Forskrift om charter- og taxiflyging fra og til norsk område. | 1 | 2018-11-21 to 2018-11-21 |
+| `for-1999-03-11-302` | Forskrift om tariffer og rapporteringsplikt for omsetningskonsesjonærer (forskrift for omsetningskonsesjonærer) | 1 | 2026-06-15 to 2026-06-15 |
+| `for-1999-06-04-571` | Forskrift om endring i forskrift til lov om petroleumsvirksomhet. | 1 | 1999-06-04 to 1999-06-04 |
+| `for-1999-11-19-1158` | Forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14 | 1 | 2026-09-10 to 2026-09-10 |
+| `for-1999-11-22-1160` | Forskrift fastsatt av Skattedirektoratet til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14 | 1 | 2024-01-01 to 2024-01-01 |
+| `for-1999-12-10-1272` | Forskrift om hvem som er luftfartsmyndighet etter luftfartsloven. | 1 | 2002-01-01 to 2002-01-01 |
+| `for-1999-12-17-1347` | Vedtak om Beredskapssystem for Forsvaret (BFF). Delegering av myndighet. | 1 | 1999-12-17 to 1999-12-17 |
+| `for-2000-01-27-65` | Forskrift om kontrolltiltak for restmengder av visse stoffer i animalske næringsmidler, produksjonsdyr og fisk for å sikre helsemessig trygge næringsmidler | 1 | 2022-12-15 to 2022-12-15 |
+| `for-2000-03-28-305` | Forskrift om besiktelse, bygging og utrustning av passasjerskip i innenriksfart | 1 | 2025-08-01 to 2025-08-01 |
+| `for-2000-05-19-442` | Godkjenning av hovedavtalen for Bankklagenemnda. | 1 | 2000-07-01 to 2000-07-01 |
+| `for-2000-06-29-688` | Forskrift om vektårsavgift | 1 | 2023-01-01 to 2023-01-01 |
+| `for-2000-09-20-1697` | Forskrift om fiske etter reker – stenging av områder i fiskevernsonen ved Svalbard, Svalbards territorialfarvann og indre farvann. | 1 | 2000-09-20 to 2000-09-20 |
+| `for-2000-10-10-1004` | Forskrift om konsesjonsområder for lokalradio. | 1 | 2007-11-12 to 2007-11-12 |
+| `for-2000-11-15-1274` | Forskrifter om sjømannspensjonering | 1 | 2024-10-17 to 2024-10-17 |
+| `for-2000-12-20-1638` | Forskrift om flymaskinistsertifikat (BSL C 5-1a). | 1 | 2001-07-01 to 2001-07-01 |
+| `for-2000-12-20-1673` | Forskrift om generelle bestemmelser om utstedelse av luftfartssertifikater (BSL C 1-1a) | 1 | 2017-01-13 to 2017-01-13 |
+| `for-2000-12-21-1379` | Forskrift om lisens til helsepersonell | 1 | 2022-09-16 to 2022-09-16 |
+| `for-2000-12-21-1381` | Forskrift om overgangsordning for autorisasjon av hjelpepleiere og bioingeniører | 1 | 2024-07-11 to 2024-07-11 |
+| `for-2000-12-21-1384` | Forskrift om spesialistgodkjenning av helsepersonell og turnusstillinger for leger | 1 | 2021-09-17 to 2021-09-17 |
+| `for-2000-12-22-1412` | Forskrift om overgangsregler for private tjenestepensjonsordninger etter skatteloven § 6-46, jf. tidligere forskrift av 28. juni 1968 nr. 3 om private tjenestepensjonsordninger i henhold til skatteloven § 44 første ledd, bokstav k, tidligere forskrift av 27. oktober 1969 nr. 9451 om private tjenestepensjonsordninger og tidligere forskrift av 9. mars 1994 nr. 166 om overføring av avkastning på pensjonskassers innskudd. | 1 | 2011-12-07 to 2011-12-07 |
+| `for-2001-03-09-192` | Vedtak om utvidelse av det geografiske virkeområdet for lov om arkiv til også å omfatte Svalbard, Jan Mayen og de norske biland i Antarktis. | 1 | 2001-03-09 to 2001-03-09 |
+| `for-2001-03-19-268` | Forskrift om engangsavgift på motorvogner | 1 | 2026-01-13 to 2026-01-13 |
+| `for-2001-04-18-426` | Forskrift om avlsfremmende tiltak på bier | 1 | 2025-03-01 to 2025-03-01 |
+| `for-2001-05-08-471` | Delegering av myndighet til Direktoratet for brann- og eksplosjonsvern til å fastsette forskrift om transport av farlig gods på veg og jernbane. | 1 | 2001-05-08 to 2001-05-08 |
+| `for-2001-06-08-570` | Forskrift om tomtefeste m.m. | 1 | 2021-11-01 to 2021-11-01 |
+| `for-2001-08-23-1067` | Forskrift om medisinske undersøkelser av seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer (BSL C 1-2). | 1 | 2022-01-26 to 2022-01-26 |
+| `for-2001-08-23-1068` | Forskrift om medisinske krav for seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer (BSL C 1-3) | 1 | 2022-01-26 to 2022-01-26 |
+| `for-2001-08-31-1074` | Tillatelse for Posten Norge BA til å utgi og godta bruk av frimerker og andre frankeringsmidler der Norge eller Noreg forekommer. | 1 | 2001-10-01 to 2001-10-01 |
+| `for-2001-10-05-1148` | Vedtak om utvidelse av lov av 15. juni 2001 nr. 93 om helseforetak m.m. sitt geografiske virkeområde til også å gjelde Svalbard. | 1 | 2002-01-01 to 2002-01-01 |
+| `for-2001-10-30-1231` | Forskrift om krav til teknisk/operativ godkjenning av flyplasser | 1 | 2019-09-01 to 2019-09-01 |
+| `for-2001-10-31-1274` | Forskrift om utanrettslege gjeldsordningar og ettergiving av fordringar som er uråd å drive inn. | 1 | 2001-11-01 to 2001-11-01 |
+| `for-2001-12-04-1450` | Forskrift om maritime elektriske anlegg | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2001-12-11-1451` | Forskrift om særavgifter | 1 | 2026-06-23 to 2026-06-23 |
+| `for-2001-12-12-1494` | Forskrift om hold av høns og kalkun | 1 | 2017-03-21 to 2017-03-21 |
+| `for-2001-12-21-1525` | Forskrift om fredning av truede arter | 1 | 2015-05-29 to 2015-05-29 |
+| `for-2002-03-13-407` | Forskrift om vurdering av den praksis som godkjennes ved søknad om mesterbrev. | 1 | 2002-08-01 to 2002-08-01 |
+| `for-2002-06-26-922` | Forskrift om håndtering av eksplosjonsfarlig stoff | 1 | 2018-01-04 to 2018-01-04 |
+| `for-2002-07-09-1116` | Vedtak om retningslinjer ved forvaltningen av kompensasjonsordningen | 1 | 2002-09-27 to 2002-09-27 |
+| `for-2002-11-07-1290` | Forskrift om fôrvarer | 1 | 2025-04-30 to 2025-04-30 |
+| `for-2002-11-14-1632` | Vedtak om utvidelse av forskrifter til å gjelde for Svalbard. | 1 | 2003-01-01 to 2003-01-01 |
+| `for-2002-12-13-1497` | Vedtak om at forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter gjøres gjeldende for luftfart som omfattes av arbeidsmiljøloven. | 1 | 2003-01-01 to 2003-01-01 |
+| `for-2003-02-18-175` | Forskrift om hold av svin | 1 | 2020-06-10 to 2020-06-10 |
+| `for-2003-03-07-287` | Vedtak om godkjenning av vedtekter for klagenemnd for inkassotenester mellom Forbrukarrådet og Norske Inkassobyråers Forening. | 1 | 2003-03-07 to 2003-03-07 |
+| `for-2003-04-04-418` | Forskrift til designloven (designforskriften) | 1 | 2019-07-01 to 2019-07-01 |
+| `for-2003-05-16-652` | Forskrift om opptak til mesterutdanningen | 1 | 2020-10-13 to 2020-10-13 |
+| `for-2003-05-30-661` | Forskrift om særskilte beskyttelsestiltak ved innførsel av akvatiske dyr og produkter av disse. | 1 | 2004-02-01 to 2004-02-01 |
+| `for-2003-06-25-1236` | Forskrift om grader ved Kunsthøgskolen i Bergen. | 1 | 2005-09-21 to 2005-09-21 |
+| `for-2003-06-26-868` | Delegering av myndighet til Direktoratet for brann- og elsikkerhet etter lov om tilsyn med elektriske anlegg og utstyr § 2 og lov om brannfarlige varer samt væsker og gasser under trykk § 37 tredje ledd. | 1 | 2003-06-26 to 2003-06-26 |
+| `for-2003-08-13-1046` | Forskrift om endring i forskrift om prospekt for verdipapirfond. | 1 | 2004-12-02 to 2004-12-02 |
+| `for-2003-08-21-1068` | Forskrift om bruk av system for sikkerhetsstyring innen bakketjenesten | 1 | 2020-03-02 to 2020-03-02 |
+| `for-2003-09-26-1185` | Forskrift om fredning av Hopen naturreservat på Svalbard | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2003-09-26-1187` | Forskrift om fredning av Nordre Isfjorden nasjonalpark på Svalbard | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2003-09-26-1188` | Forskrift om fredning av Ossian Sars naturreservat | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2003-09-26-1189` | Forskrift om fredning av Sassen-Bünsow Land nasjonalpark på Svalbard | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2003-09-26-1190` | Forskrift om fredning av Festningen geotopvernområde på Svalbard | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2003-12-19-1791` | Ikrafttredelse av lov av 19. desember 2003 nr. 123 om endringer i legemiddelloven (refusjonskontrakter m.m.). | 1 | 2004-01-01 to 2004-01-01 |
+| `for-2003-12-19-1874` | Vedtak om at midlertidig forskrift av 19. desember 2003 nr. 1595 om sikkerhet og arbeidsmiljø for enkelte petroleumsanlegg på land og tilknyttede rørledningssystemer skal gjelde for det planlagte fremtidige integrerte landanlegget i Nyhamna. | 1 | 2003-12-19 to 2003-12-19 |
+| `for-2004-01-19-298` | Forskrift om førerkort m.m. (førerkortforskriften) | 1 | 2026-07-17 to 2026-07-17 |
+| `for-2004-03-18-532` | Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste. | 1 | 2004-03-18 to 2004-03-18 |
+| `for-2004-03-30-595` | Forskrift om forebygging av, kontroll med og utryddelse av overførbare spongiforme encefalopatier (TSE) | 1 | 2026-03-23 to 2026-03-23 |
+| `for-2004-06-01-922` | Forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften) | 1 | 2026-09-17 to 2026-09-17 |
+| `for-2004-06-01-930` | Forskrift om gjenvinning og behandling av avfall (avfallsforskriften) | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2004-06-01-931` | Forskrift om begrensning av forurensning (forurensningsforskriften) | 1 | 2026-07-02 to 2026-07-02 |
+| `for-2004-10-04-1316` | Forskrift om naturlig mineralvann og kildevann | 1 | 2012-01-01 to 2012-01-01 |
+| `for-2004-12-01-1558` | Forskrift om bokføring | 1 | 2026-09-29 to 2026-09-29 |
+| `for-2004-12-22-1799` | Tillatelse til akvakultur av andre arter enn laks, ørret og regnbueørret (andre arter-forskriften) | 1 | 2025-08-01 to 2025-08-01 |
+| `for-2004-12-23-1851` | Forskrift om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteforskriften) | 1 | 2026-08-28 to 2026-08-28 |
+| `for-2005-02-17-141` | Forskrift om flypassasjerers rettigheter ved nektet ombordstigning og innstilt eller vesentlig forsinket flyging | 1 | 2012-09-03 to 2012-09-03 |
+| `for-2005-02-18-160` | Forskrift om velferd for småfe | 1 | 2013-02-01 to 2013-02-01 |
+| `for-2005-03-21-247` | Forskrift om registrering og merking av eldre preparater av dødt vilt. | 1 | 2006-08-15 to 2006-08-15 |
+| `for-2005-05-26-1811` | Forskrift om opptak, studier og eksamen ved Norges idrettshøgskole | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2005-06-02-505` | Forskrift om velferd for hest | 1 | 2014-06-19 to 2014-06-19 |
+| `for-2005-07-01-754` | Forskrift om medieregioner. | 1 | 2005-07-01 to 2005-07-01 |
+| `for-2005-09-09-1046` | Forskrift om fredning av Indre Wijdefjorden nasjonalpark på Svalbard | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2005-10-07-1219` | Forskrift om offentlige trafikkskilt, vegoppmerking, trafikklyssignaler og anvisninger (skiltforskriften) | 1 | 2026-08-12 to 2026-08-12 |
+| `for-2005-12-16-1563` | Forskrift om videreføring av forskrifter til bidragsinnkrevingsloven (1955). | 1 | 2006-01-01 to 2006-01-01 |
+| `for-2006-03-03-394` | Vedtak om at midlertidig forskrift 19. desember 2003 nr. 1595 om sikkerhet og arbeidsmiljø for enkelte petroleumsanlegg på land og tilknyttede rørledningssystemer skal gjelde for de planlagte gasskraftverkene i Hammerfest, Skogn og Grenland. | 1 | 2006-04-01 to 2006-04-01 |
+| `for-2006-03-07-563` | Forskrift om opptak, studier og eksamen ved Steinerhøyskolen | 1 | 2016-04-19 to 2016-04-19 |
+| `for-2006-04-20-453` | Forskrift om forbud mot vilkår om sosial infrastruktur i utbyggingsavtaler. | 1 | 2006-07-01 to 2006-07-01 |
+| `for-2006-06-01-572` | Vedtak om opphevelse av rundskriv vedrørende unntak for beregning av forsinkelsesrente ved for sen innbetaling av skatt og oppgjør for skattetrekk innen fiske- og fangstvirksomhet. | 1 | 2006-07-01 to 2006-07-01 |
+| `for-2006-06-30-756` | Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften) | 1 | 2022-10-01 to 2022-10-01 |
+| `for-2006-07-06-968` | Forskrift om utforming av store flyplasser (BSL E 3-2) | 1 | 2015-08-25 to 2015-08-25 |
+| `for-2006-09-07-1062` | Forskrift til utfylling og gjennomføring mv. av regnskapsloven av 17. juli 1998 nr. 56 | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2006-12-15-1446` | Forskrift om rammer for vannforvaltningen | 1 | 2026-09-01 to 2026-09-01 |
+| `for-2007-06-01-570` | Forskrift om statlig refusjon av utgifter til kommunale presteboliger. | 1 | 2019-05-03 to 2019-05-03 |
+| `for-2007-06-29-832` | Forskrift om prisutjevningsordningen for melk | 1 | 2024-11-01 to 2024-11-01 |
+| `for-2007-07-02-877` | Forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS | 1 | 2026-10-27 to 2026-10-27 |
+| `for-2007-10-05-1112` | Forskrift om inspeksjoner på bakken av luftfartøy | 1 | 2009-03-19 to 2009-03-19 |
+| `for-2007-12-14-1416` | Overgangsregler til lov 29. juni 2007 nr. 80 om endringar i lov 15. desember 1967 nr. 9 om patenter m.m. (gjennomføring av Den europeiske patentkonvensjonen) | 1 | 2008-01-01 to 2008-01-01 |
+| `for-2007-12-14-1417` | Forskrift til patentloven (patentforskriften) | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2007-12-21-1735` | Forskrift om krav til ikke-automatiske vekter | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2007-12-21-1736` | Forskrift om krav til transportbåndvekter | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2007-12-21-1737` | Forskrift om krav til automatiske diskontinuerlige summeringsvekter (summerende beholdervekter) | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2007-12-21-1766` | Forskrift til utfylling og gjennomføring mv. av skattebetalingsloven (skattebetalingsforskriften) | 1 | 2026-06-26 to 2026-06-26 |
+| `for-2007-12-21-1773` | Forskrift om endring i forskrift om arbeidsmarkedstiltak | 1 | 2008-01-01 to 2008-01-01 |
+| `for-2007-12-28-1753` | Forskrift om krav til elektrisitetsmålere | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2008-02-22-166` | Forskrift om informasjons- og påseplikt og innsynsrett | 1 | 2025-07-01 to 2025-07-01 |
+| `for-2008-06-02-526` | Vedtak om at midlertidig forskrift 19. desember 2003 nr. 1595 om sikkerhet og arbeidsmiljø for enkelte petroleumsanlegg på land og tilknyttede rørledningssystemer skal gjelde for reservegasskraftverket på Nyhamna | 1 | 2008-06-01 to 2008-06-01 |
+| `for-2008-07-30-866` | Forskrift om bruk av krumkniv | 1 | 2010-08-06 to 2010-08-06 |
+| `for-2008-10-15-1214` | Forskrift til lov om register for frivillig virksomhet | 1 | 2016-04-20 to 2016-04-20 |
+| `for-2008-10-22-1136` | Forskrift om markedsregulering til å fremme omsetningen av jordbruksvarer | 1 | 2024-11-01 to 2024-11-01 |
+| `for-2008-11-13-1693` | Vedtak om fristutsettelse for å fremsette krav om erstatning ved vern av nasjonalparker og landskapsvernområder | 1 | 2008-11-13 to 2008-11-13 |
+| `for-2008-12-22-1623` | Forskrift om næringsmiddelhygiene (næringsmiddelhygieneforskriften) | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2009-03-24-352` | Vedtak om fastsettelse av alternativ instrumentidentifikator | 1 | 2009-03-24 to 2009-03-24 |
+| `for-2009-04-25-975` | Vedtak om innføring av matrikkelsystem | 1 | 2009-04-25 to 2009-04-25 |
+| `for-2009-05-13-591` | Forskrift om periodisk kontroll av kjøretøy | 1 | 2026-05-13 to 2026-05-13 |
+| `for-2009-06-05-617` | Vedtak om dispensasjon fra kravet om diplomatisk klarering for forskningsfartøyer som er sivile statsfartøyer | 1 | 2009-06-05 to 2009-06-05 |
+| `for-2009-06-19-707` | Overgangsregler til lov 19. juni 2009 nr. 60 om endringer i revisorloven og enkelte andre lover (gjennomføring av revisjonsdirektivet) | 1 | 2009-06-19 to 2009-06-19 |
+| `for-2009-06-26-864` | Forskrift om eiendomsregistrering (matrikkelforskriften) | 1 | 2025-08-01 to 2025-08-01 |
+| `for-2009-08-21-1148` | Anerkjennelse av Norges Røde Kors' rett til til bruk av navn og emblem som Norges nasjonale forening i samsvar med Genève-konvensjonene | 1 | 2009-08-21 to 2009-08-21 |
+| `for-2009-10-15-1286` | Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften) | 1 | 2026-10-19 to 2026-10-19 |
+| `for-2009-11-03-1327` | Forskrift om provisorfarmasøyters og reseptarfarmasøyters rett til rekvirering av oseltamivir og zanamivir | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2009-12-15-1540` | Forskrift til merverdiavgiftsloven (merverdiavgiftsforskriften) | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2009-12-18-1839` | Forskrift om legemidler til mennesker (legemiddelforskriften) | 1 | 2026-10-28 to 2026-10-28 |
+| `for-2009-12-23-1890` | Forskrift om Politiets utlendingsinternat (Utlendingsinternatforskriften) | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2010-05-28-1888` | Forskrift om masterstudiene ved Arkitektur- og designhøgskolen i Oslo | 1 | 2011-08-01 to 2011-08-01 |
+| `for-2010-11-01-1394` | Forskrift om forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall | 1 | 2025-12-05 to 2025-12-05 |
+| `for-2010-11-19-1456` | Forskrift om fredning av Jan Mayen naturreservat | 1 | 2021-11-01 to 2021-11-01 |
+| `for-2010-11-22-1466` | Forskrift om stønad til helsetjenester mottatt i et annet EØS-land | 1 | 2025-08-20 to 2025-08-20 |
+| `for-2010-11-30-1493` | Forskrift om kombinasjon av avtalefestet pensjon for medlemmer av Statens pensjonskasse og arbeidsinntekt (pensjonsgivende inntekt) | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2010-12-10-1569` | Forskrift om tillatelse til å drive trafikkvirksomhet og infrastruktur for sporvei, tunnelbane, forstadsbane og godsbane, samt sidespor, havnespor m.m. (tillatelsesforskriften) | 1 | 2020-01-01 to 2020-01-01 |
+| `for-2010-12-20-1786` | Forskrift om bruk av sorteringsristsystem i fiske med stormasket trål | 1 | 2023-03-02 to 2023-03-02 |
+| `for-2011-02-11-138` | Forskrift om saksbehandling i saker om odelsfrigjering etter odelslova § 30 og § 32 | 1 | 2021-01-01 to 2021-01-01 |
+| `for-2011-11-09-1088` | Forskrift om fredning av statens kulturhistoriske eiendommer | 1 | 2025-10-23 to 2025-10-23 |
+| `for-2011-12-06-1355` | Forskrift om organisering, ledelse og medvirkning | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2011-12-06-1357` | Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) | 1 | 2026-09-29 to 2026-09-29 |
+| `for-2011-12-20-1457` | Forskrift om årsregnskap for pensjonsforetak | 1 | 2024-11-01 to 2024-11-01 |
+| `for-2011-12-23-1502` | Forskrift om kvoteordningen for melk | 1 | 2026-06-30 to 2026-06-30 |
+| `for-2012-05-25-461` | Kunngjøring av virkningstidspunktet for regulering av kravet til minsteinntekt i dagpengeordningen | 1 | 2012-07-02 to 2012-07-02 |
+| `for-2012-05-30-488` | Forskrift om miljømessig sikkerhet for skip og flyttbare innretninger | 1 | 2026-09-01 to 2026-09-01 |
+| `for-2012-06-05-645` | Forskrift for graden philosophiae doctor (ph.d.) ved MF vitenskapelig høyskole | 1 | 2018-08-30 to 2018-08-30 |
+| `for-2012-08-31-847` | Bestemmelser om klarering av adgang til og opphold på norsk territorium under fredsforhold for militære og sivile statsfartøyer mv. iht. avtale 11. desember 2008 nr. 36 mellom regjeringene i den euroarktiske Barentsregionen om samarbeid innen forebygging, beredskap og innsats rettet mot krisesituasjoner (heretter «avtalen») | 1 | 2012-09-01 to 2012-09-01 |
+| `for-2013-02-04-206` | Forskrift om tilskudd til tiltak i beiteområder | 1 | 2021-01-01 to 2021-01-01 |
+| `for-2013-03-01-245` | Overgangsreglar til lov 22. juni 2012 nr. 58 om Patentstyret og Klagenemnda for industrielle rettar | 1 | 2013-03-01 to 2013-03-01 |
+| `for-2013-08-09-970` | Forskrift om endringer i personopplysningsforskriften | 1 | 2013-08-09 to 2013-08-09 |
+| `for-2013-09-20-1109` | Kvalitetsnorm for ville bestander av atlantisk laks (Salmo salar) | 1 | 2014-01-01 to 2014-01-01 |
+| `for-2013-12-20-1648` | Operational directive – operation to and from airfields north of 65° latitude – Compass system limitations due to magnetic inclination/dip | 1 | 2014-10-28 to 2014-10-28 |
+| `for-2014-02-12-130` | Forskrift om lokale opptak til Universitetet i Oslo | 1 | 2025-07-07 to 2025-07-07 |
+| `for-2014-05-09-626` | Forskrift om restriktive tiltak mot Republikken Guinea | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2014-08-15-1076` | Forskrift om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet | 1 | 2026-10-21 to 2026-10-21 |
+| `for-2014-10-10-1287` | Utvidelse av det geografiske virkeområdet for lov 17. april 2009 nr. 19 om havner og farvann | 1 | 2014-10-10 to 2014-10-10 |
+| `for-2014-12-19-1890` | Forskrift om endring i forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14 | 1 | 2014-12-19 to 2014-12-19 |
+| `for-2015-04-09-418` | Forskrift om godkjenning av annen utdanning i stedet for mesterutdanning | 1 | 2020-10-13 to 2020-10-13 |
+| `for-2015-04-09-420` | Forskrift om søknad om mesterbrev med bakgrunn i mesterkvalifikasjon fra andre land | 1 | 2015-04-09 to 2015-04-09 |
+| `for-2015-12-11-1666` | Forskrift om graden philosophiae doctor (ph.d.) ved VID vitenskapelige høgskole | 1 | 2025-08-27 to 2025-08-27 |
+| `for-2015-12-18-1616` | Forskrift om krav til kassasystem (kassasystemforskrifta) | 1 | 2026-02-03 to 2026-02-03 |
+| `for-2016-01-08-9` | Forskrift om utviding av det stadlege verkeområde til lov om forvaltning av viltlevande marine ressursar (havressurslova) | 1 | 2016-01-08 to 2016-01-08 |
+| `for-2016-01-19-39` | Forskrift om beskyttelse av Skjørost fra Røros-traktene som geografisk betegnelse | 1 | 2016-01-19 to 2016-01-19 |
+| `for-2016-03-18-260` | Forskrift om vilkårsparkering for allmennheten og håndheving av private parkeringsreguleringer (parkeringsforskriften) | 1 | 2026-09-07 to 2026-09-07 |
+| `for-2016-05-19-542` | Forskrift om ikke-kommersiell forflytning av kjæledyr (kjæledyrforskriften) | 1 | 2024-09-16 to 2024-09-16 |
+| `for-2016-05-24-512` | Operational Directive requiring the use of pressurized aircraft for air operators conducting scheduled passenger flights over mountainous areas in Norway | 1 | 2020-10-07 to 2020-10-07 |
+| `for-2016-10-26-1442` | Forskrift for graden philosophiae doctor (ph.d.) ved Arkitektur- og designhøgskolen i Oslo (AHO) | 1 | 2018-10-31 to 2018-10-31 |
+| `for-2016-11-23-1360` | Forskrift til skatteforvaltningsloven (skatteforvaltningsforskriften) | 1 | 2026-10-08 to 2026-10-08 |
+| `for-2016-12-09-1502` | Forskrift om finansforetak og finanskonsern (finansforetaksforskriften) | 1 | 2026-09-01 to 2026-09-01 |
+| `for-2016-12-14-1578` | Forskrift om lufttrafikkregler og operative prosedyrer | 1 | 2025-06-20 to 2025-06-20 |
+| `for-2016-12-22-1924` | Kampaktivitetslisten | 1 | 2025-10-19 to 2025-10-19 |
+| `for-2016-12-27-1883` | Forskrift om skip som bruker drivstoff med flammepunkt under 60 °C | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2017-01-06-13` | Forskrift om opptak til høgare utdanning | 1 | 2026-02-26 to 2026-02-26 |
+| `for-2017-03-31-416` | Forskrift om overgangsregler til lov 10. februar 2017 nr. 5 om endringer i lov 9. mars 1973 nr. 14 om vern mot tobakksskader | 1 | 2026-08-21 to 2026-08-21 |
+| `for-2017-04-19-674` | Forskrift om opptak til masterstudier ved Politihøgskolen | 1 | 2017-04-19 to 2017-04-19 |
+| `for-2017-04-24-487` | Forskrift om rammeplan for barnehagens innhold og oppgaver | 1 | 2021-03-19 to 2021-03-19 |
+| `for-2017-05-24-2480` | Forskrift om fastsetting av inndeling i politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten | 1 | 2025-12-01 to 2025-12-01 |
+| `for-2017-06-21-854` | Forskrift om konsekvensutredninger | 1 | 2026-03-06 to 2026-03-06 |
+| `for-2017-06-22-1145` | Forskrift for integrert ph.d.-utdanning ved Universitetet i Agder (UiA) | 1 | 2017-06-22 to 2017-06-22 |
+| `for-2017-07-14-1201` | Forskrift til folkeregisterloven (folkeregisterforskriften) | 1 | 2025-12-17 to 2025-12-17 |
+| `for-2017-12-08-1952` | Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften) | 1 | 2019-03-08 to 2019-03-08 |
+| `for-2017-12-18-2235` | Forskrift om tilskudd til utleieboliger fra Husbanken | 1 | 2023-12-31 to 2023-12-31 |
+| `for-2017-12-19-2396` | Forskrift for graden philosophiae doctor (ph.d.) ved Universitetet i Innlandet | 1 | 2025-04-25 to 2025-04-25 |
+| `for-2017-12-20-2329` | Regulations on observation flights conducted under the Treaty on Open Skies | 1 | 2018-01-01 to 2018-01-01 |
+| `for-2018-02-06-177` | Forskrift om graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Kunsthøgskolen i Oslo | 1 | 2024-08-01 to 2024-08-01 |
+| `for-2018-06-07-836` | Forskrift om luftfart med ballong | 1 | 2024-09-17 to 2024-09-17 |
+| `for-2018-08-01-1215` | Forskrift om satser for og beregning av tilskudd ved produksjonssvikt i plante- og honningproduksjon (sats- og beregningsforskriften) | 1 | 2026-09-03 to 2026-09-03 |
+| `for-2018-10-18-1671` | Forskrift om opptak til studier og emner ved Universitetet i Stavanger | 1 | 2026-10-01 to 2026-10-01 |
+| `for-2018-12-20-2064` | Forskrift om behandling av ATOMAL | 1 | 2019-01-01 to 2019-01-01 |
+| `for-2019-02-15-115` | Forskrift om system for rapportering av bivirkninger av legemidler (bivirkningsregisterforskriften) | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2019-03-01-1082` | Forskrift om opptak, studier og eksamen ved Oslo Nye Høyskole | 1 | 2026-06-18 to 2026-06-18 |
+| `for-2019-05-15-663` | Forskrift om luftfart med seilfly | 1 | 2024-09-17 to 2024-09-17 |
+| `for-2019-06-13-1472` | Forskrift for graden dr.philos. ved Universitetet i Stavanger | 1 | 2020-01-01 to 2020-01-01 |
+| `for-2019-09-23-1468` | Forskrift om opptak, studier og eksamen ved Høyskolen for Ledelse og Teologi | 1 | 2019-10-01 to 2019-10-01 |
+| `for-2019-12-06-1646` | Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften) | 1 | 2020-10-15 to 2020-10-15 |
+| `for-2019-12-20-2114` | Forskrift om språkvedtak i kommunar og fylkeskommunar (språkvedtaksforskrifta) | 1 | 2026-02-09 to 2026-02-09 |
+| `for-2020-03-09-708` | Forskrift om offentlig kontroll – generelle regler for grensekontroll forordning (EU) 2019/2123, forordning (EU) 2019/2126, forordning (EU) 2019/2129 og forordning (EU) 2019/2130 | 1 | 2025-10-27 to 2025-10-27 |
+| `for-2020-06-22-1400` | Forskrift om prisnedskriving ved salg til spesialmarkeder | 1 | 2026-06-22 to 2026-06-22 |
+| `for-2020-06-23-1298` | Kvalitetsnorm for villrein ( Rangifer tarandus ) | 1 | 2020-06-23 to 2020-06-23 |
+| `for-2020-06-26-1617` | Forskrift om studier og eksamener ved Universitetet i Tromsø – Norges arktiske universitet | 1 | 2026-03-02 to 2026-03-02 |
+| `for-2020-10-21-2137` | Forskrift om opptak, studier og eksamen ved Stiftelsen Norsk Hestesenter | 1 | 2026-03-09 to 2026-03-09 |
+| `for-2020-12-11-2711` | Refusjon av merutgifter og tap som følge av hevnaksjoner, som har sammenheng med arbeid for staten | 1 | 2021-01-01 to 2021-01-01 |
+| `for-2020-12-15-2912` | Forskrift til integreringsloven (integreringsforskriften) | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2021-01-13-84` | Forskrift om tilskudd til brukerstyrte organisasjoner som arbeider mot fattigdom | 1 | 2021-01-13 to 2021-01-13 |
+| `for-2021-01-22-163` | Forskrift om inndelingen av rettskretser og lagdømmer | 1 | 2025-08-15 to 2025-08-15 |
+| `for-2021-02-16-530` | Forskrift om opptak, studier og eksamen ved International Stunt Academy | 1 | 2021-02-16 to 2021-02-16 |
+| `for-2021-03-18-815` | Forskrift om helikopterdekk på flyttbare innretninger | 1 | 2025-06-26 to 2025-06-26 |
+| `for-2021-05-28-1666` | Statlige planretningslinjer for differensiert forvaltning av strandsonen langs sjøen | 1 | 2021-05-28 to 2021-05-28 |
+| `for-2021-05-31-1825` | Forskrift om rammeplan for skolefritidsordningen | 1 | 2021-08-01 to 2021-08-01 |
+| `for-2021-06-10-1861` | Forskrift om graden doctor philosophiae (dr.philos.) ved Norges musikkhøgskole | 1 | 2021-06-10 to 2021-06-10 |
+| `for-2021-06-11-1877` | Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister | 1 | 2024-07-01 to 2024-07-01 |
+| `for-2021-06-14-1978` | Forskrift om opptak, studier og eksamen ved Fagskolen Viken | 1 | 2026-08-01 to 2026-08-01 |
+| `for-2021-06-20-2053` | Forskrift om læreplan i norsk for voksne innvandrere | 1 | 2024-08-23 to 2024-08-23 |
+| `for-2021-06-20-2054` | Forskrift om læreplan i samfunnskunnskap for voksne innvandrere | 1 | 2022-01-01 to 2022-01-01 |
+| `for-2021-06-20-2086` | Forskrift om læreplan i norsk for voksne innvandrere nivå C1 | 1 | 2022-01-01 to 2022-01-01 |
+| `for-2022-01-21-128` | Forskrift om jakt- og fangsttider samt sanking av egg og dun for jaktsesongene fra og med 1. april 2022 til og med 31. mars 2028 | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2022-01-28-139` | Forskrift til utfylling og gjennomføring av lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020 for tilskuddsperioder etter oktober 2021 | 1 | 2022-01-28 to 2022-01-28 |
+| `for-2022-04-06-633` | Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften) | 1 | 2026-10-20 to 2026-10-20 |
+| `for-2022-04-07-636` | Forskrift som utfyller dyrehelseforskriften med bestemmelser om forflytning av landdyr, rugeegg og animalske produkter fra landdyr i EØS-området (landdyrforflytningsforskriften) | 1 | 2025-11-07 to 2025-11-07 |
+| `for-2022-06-16-1029` | Forskrift om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m. | 1 | 2026-09-01 to 2026-09-01 |
+| `for-2022-06-20-1116` | Midlertidig forskrift om endring i forskrifter etter barnevernloven for å håndtere høyt antall ankomster av fordrevne fra Ukraina | 1 | 2022-06-20 to 2022-06-20 |
+| `for-2022-06-22-1110` | Forskrift om individuell plan ved ytelse av velferdstjenester | 1 | 2024-10-11 to 2024-10-11 |
+| `for-2022-07-19-1364` | Forskrift om stønad til briller til barn | 1 | 2023-12-21 to 2023-12-21 |
+| `for-2022-08-29-1598` | Forskrift for graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Universitetet i Innlandet | 1 | 2025-12-12 to 2025-12-12 |
+| `for-2022-09-21-1626` | Forskrift om tilskudd til produsenter som gjennomfører opphold i eggproduksjonen | 1 | 2022-09-26 to 2022-09-26 |
+| `for-2022-10-27-1901` | Forskrift om inn- og utførsel av varer (vareførselsforskriften) | 1 | 2026-11-01 to 2026-11-01 |
+| `for-2022-10-27-1938` | Forskrift om tollavgift (tollavgiftsforskriften) | 1 | 2026-11-01 to 2026-11-01 |
+| `for-2022-11-07-1929` | Forskrift om tillatelse til akvakultur for laks, ørret og regnbueørret (laksetildelingsforskriften) | 1 | 2026-01-14 to 2026-01-14 |
+| `for-2022-12-01-2087` | Forskrift om gradene philosophiae doctor (ph.d.) og philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Universitetet i Tromsø – Norges arktiske universitet (UiT) | 1 | 2023-01-01 to 2023-01-01 |
+| `for-2022-12-16-2270` | Forskrift til lov om regnskapsførere (regnskapsførerforskriften) | 1 | 2023-07-01 to 2023-07-01 |
+| `for-2022-12-20-2301` | Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak) | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2022-12-22-2501` | Forskrift om endring i forskrift om bustøtte | 1 | 2022-12-22 to 2022-12-22 |
+| `for-2023-02-13-186` | Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6 | 1 | 2023-05-01 to 2023-05-01 |
+| `for-2023-02-17-230` | Overgangsbestemmelser for delt ikrafttredelse 1. mars 2023 av lov 12. juni 2020 nr. 67 om endringer i varemerkeloven og tolloven mv. (gjennomføring av nytt varemerkedirektiv mv.) | 1 | 2023-03-01 to 2023-03-01 |
+| `for-2023-06-21-1009` | Forskrift om endring i forskrift om statlige fartsgrenser på sjøen | 1 | 2023-07-01 to 2023-07-01 |
+| `for-2023-06-23-1096` | Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv. | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2023-10-19-1685` | Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning | 1 | 2023-11-01 to 2023-11-01 |
+| `for-2023-11-22-1915` | Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften) | 1 | 2025-11-21 to 2025-11-21 |
+| `for-2023-11-23-1895` | Forskrift om godkjenning av helsepersonell med yrkeskvalifikasjoner fra Storbritannia | 1 | 2024-02-22 to 2024-02-22 |
+| `for-2023-11-29-1935` | Forskrift for forskerlinjen i medisin ved Norges teknisk-naturvitenskapelige universitet (NTNU) | 1 | 2024-01-01 to 2024-01-01 |
+| `for-2023-12-04-2342` | Forskrift om høyere yrkesfaglig utdanning ved Fagskolen Innlandet | 1 | 2026-06-15 to 2026-06-15 |
+| `for-2024-02-02-171` | Delegering av Kongens myndighet etter lov 4. september 2015 nr. 91 om posttjenester (postloven) til Samferdselsdepartementet, Nasjonal kommunikasjonsmyndighet, Kommunal- og distriktsdepartementet og Digitaliserings- og forvaltningsdepartementet | 1 | 2024-02-02 to 2024-02-02 |
+| `for-2024-02-14-257` | Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen) | 1 | 2024-03-13 to 2024-03-13 |
+| `for-2024-03-05-415` | Forskrift om graden doctor philosophiae (dr.philos.) ved Norges Handelshøyskole | 1 | 2024-03-05 to 2024-03-05 |
+| `for-2024-03-13-448` | Forskrift om tilskudd til smågrisprodusenter som gjennomfører forlenget opphold i produksjonen | 1 | 2024-03-13 to 2024-03-13 |
+| `for-2024-03-26-541` | Forskrift til utfylling og gjennomføring mv. av suppleringsskatteloven av 12. januar 2024 nr. 1 | 1 | 2025-12-22 to 2025-12-22 |
+| `for-2024-05-20-1548` | Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag | 1 | 2024-05-20 to 2024-05-20 |
+| `for-2024-06-06-969` | Forskrift om graden philosophiae doctor (ph.d.) ved Norges musikkhøgskole | 1 | 2024-08-01 to 2024-08-01 |
+| `for-2024-06-06-1106` | Forskrift om graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Norges musikkhøgskole | 1 | 2024-08-01 to 2024-08-01 |
+| `for-2024-06-12-1347` | Forskrift om høyere yrkesfaglig utdanning ved Norges grønne fagskole – Vea | 1 | 2024-08-01 to 2024-08-01 |
+| `for-2024-06-27-1381` | Forskrift om felleseuropeiske sikkerhetsregler for sivil luftfart og om etablering av et europeisk flysikkerhetsbyrå (EASA-forskriften) | 1 | 2026-03-06 to 2026-03-06 |
+| `for-2024-09-05-2677` | Forskrift om graden philosophiae doctor (ph.d.) ved Høgskulen i Volda | 1 | 2024-10-01 to 2024-10-01 |
+| `for-2024-09-17-3171` | Forskrift for graden philosophiae doctor (ph.d.) ved Høgskolen i Østfold | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2024-09-27-2374` | Forskrift om tiltak for å begrense spredningen av blåtunge hos drøvtyggere | 1 | 2026-03-13 to 2026-03-13 |
+| `for-2024-10-11-2477` | Overgangsregler til lov 21. juni 2024 nr. 42 om endringer i regnskapsloven mv. (bærekraftsrapportering) | 1 | 2025-11-13 to 2025-11-13 |
+| `for-2024-11-01-2777` | Forskrift om ubemannede luftfartøyer (BSL A 7-2) | 1 | 2026-09-04 to 2026-09-04 |
+| `for-2024-11-13-2941` | Forskrift for graden doctor philosophiae (dr.philos.) ved Norges miljø- og biovitenskapelige universitet | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2024-11-13-3024` | Forskrift for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitet | 1 | 2026-01-29 to 2026-01-29 |
+| `for-2024-11-13-3329` | Forskrift om krav til nullutslipp av klimagasser ved offentlig anskaffelse av sjøtransport | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2024-11-25-3026` | Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter) | 1 | 2024-11-25 to 2024-11-25 |
+| `for-2024-12-09-3030` | Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2024-12-10-3031` | Forskrift om endring i forskrift om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2024-12-18-3263` | Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften) | 1 | 2025-01-01 to 2025-01-01 |
+| `for-2024-12-20-3359` | Statlige planretningslinjer for klima og energi | 1 | 2024-12-20 to 2024-12-20 |
+| `for-2025-01-07-8` | Anerkjennelse av visse typer legitimasjonsdokumenter ved reise til Svalbard, jf. forskrift om kontroll av reisende til og fra Svalbard § 4 annet ledd | 1 | 2025-01-07 to 2025-01-07 |
+| `for-2025-01-09-20` | Forskrift om opptak, utdanninger og eksamen ved Fagskolen Diakonova | 1 | 2025-01-24 to 2025-01-24 |
+| `for-2025-01-24-69` | Statlige planretningslinjer for arealbruk og mobilitet | 1 | 2025-01-24 to 2025-01-24 |
+| `for-2025-02-04-156` | Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften) | 1 | 2025-11-21 to 2025-11-21 |
+| `for-2025-02-13-282` | Forskrift for graden philosophiae doctor (ph.d.) ved Universitetet i Bergen | 1 | 2026-01-05 to 2026-01-05 |
+| `for-2025-02-13-283` | Forskrift for graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Universitetet i Bergen | 1 | 2025-08-25 to 2025-08-25 |
+| `for-2025-02-13-284` | Forskrift for graden doctor philosophiae (dr.philos.) ved Universitetet i Bergen | 1 | 2025-08-25 to 2025-08-25 |
+| `for-2025-03-06-384` | Forskrift om studier ved Norges teknisk-naturvitenskapelige universitet (NTNU) | 1 | 2025-04-08 to 2025-04-08 |
+| `for-2025-04-30-725` | Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften) | 1 | 2025-04-30 to 2025-04-30 |
+| `for-2025-05-08-862` | Forskrift for graden doctor philosophiae (dr.philos.) ved Nord universitet | 1 | 2025-05-08 to 2025-05-08 |
+| `for-2025-05-15-805` | Forskrift om oppheving av abortforskriften og endringer i medisinsk fødselsregisterforskriften og abortregisterforskriften mv. | 1 | 2025-05-15 to 2025-05-15 |
+| `for-2025-06-13-1017` | Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2025-06-24-1643` | Forskrift om høyere yrkesfaglig utdanning ved Trøndelag høyere yrkesfagskole | 1 | 2025-08-01 to 2025-08-01 |
+| `for-2025-06-25-1311` | Forskrift til lov om kryptoeiendeler (kryptoeiendelsforskriften) | 1 | 2026-10-12 to 2026-10-12 |
+| `for-2025-08-06-1713` | Forskrift om høyere yrkesfaglig utdanning ved Noroff fagskole | 1 | 2025-09-01 to 2025-09-01 |
+| `for-2025-08-15-1645` | Forskrift om endring i forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn | 1 | 2025-08-15 to 2025-08-15 |
+| `for-2025-09-15-1843` | Forskrift om høyere yrkesfaglig utdanning ved Fagskolen Tirna | 1 | 2025-09-16 to 2025-09-16 |
+| `for-2025-10-24-2093` | Forskrift om informasjonssikkerhet i sivil luftfart | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2025-11-27-2357` | Forskrift om tilskudd til lavterskel arbeidsrettede aktiviteter i regi av frivillige organisasjoner | 1 | 2025-11-27 to 2025-11-27 |
+| `for-2025-12-01-2374` | Forskrift om endring i ERS-forskriften og opphevelse av forskrift om kystfiskeappen | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2025-12-01-2404` | Forskrift om taksering av formues-, inntekts og fradragsposter mv. som må fastsettes ved skjønn til bruk ved fastsettingen for 2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `for-2025-12-05-2419` | Utvidelse av det geografiske virkeområdet for havne- og farvannsloven | 1 | 2025-12-05 to 2025-12-05 |
+| `for-2025-12-08-2457` | Forskrift om endring i forskrift om taubaner (taubaneforskriften) | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2025-12-10-3067` | Gebyr- og fakturasatser for Longyearbyen lokalstyre 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2025-12-12-2507` | Forskrift om norsk farmakopé | 1 | 2025-12-12 to 2025-12-12 |
+| `for-2025-12-16-2594` | Forskrift om klassifisering av varer (tolltariffen) | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2025-12-17-2649` | Forskrift om endring i rettsgebyrforskriften | 1 | 2026-01-01 to 2026-01-01 |
+| `for-2026-01-21-71` | Forskrift om endring i forskrift om bruk av kjøretøy | 1 | 2026-02-01 to 2026-02-01 |
+| `for-2026-01-28-149` | Forskrift for graden philosophiae doctor (ph.d.) ved Høgskolen i Molde, Vitenskapelig høgskole i logistikk | 1 | 2026-01-28 to 2026-01-28 |
+| `for-2026-01-29-108` | Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften) | 1 | 2026-02-01 to 2026-02-01 |
+| `for-2026-02-03-128` | Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften) | 1 | 2026-02-03 to 2026-02-03 |
+| `for-2026-02-03-387` | Forskrift for gradene philosophiae doctor (ph.d.) og philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid) ved Norges teknisk-naturvitenskapelige universitet (NTNU) | 1 | 2026-02-03 to 2026-02-03 |
+| `for-2026-02-03-425` | Forskrift for graden doctor philosophiae (dr.philos.) ved Norges teknisk-naturvitenskapelige universitet (NTNU) | 1 | 2026-02-03 to 2026-02-03 |
+| `for-2026-02-04-140` | Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff) | 1 | 2026-02-20 to 2026-02-20 |
+| `for-2026-03-11-396` | Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI | 1 | 2026-08-01 to 2026-08-01 |
+| `for-2026-03-11-448` | Forskrift for graden doctor philosophiae (dr.philos.) ved VID vitenskapelige høgskole | 1 | 2026-03-20 to 2026-03-20 |
+| `for-2026-04-27-745` | Forskrift om gebyr til Mattilsynet | 1 | 2026-05-15 to 2026-05-15 |
+| `for-2026-05-07-763` | Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften) | 1 | 2026-08-29 to 2026-08-29 |
+| `for-2026-05-07-1167` | Forskrift for graden philosophiae doctor (ph.d.) ved Nord universitet | 1 | 2026-05-07 to 2026-05-07 |
+| `for-2026-06-15-1087` | Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.) | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2026-06-19-1319` | Forskrift om endring i spesialistforskriften | 1 | 2026-09-01 to 2026-09-01 |
+| `for-2026-06-19-1490` | Overgangsbestemmelser til lov 19. juni 2026 nr. 50 om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse) | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2026-06-22-1158` | Forskrift om overgangsregler til viltressursloven og oppheving av forskrifter med hjemmel i viltloven og naturskadeerstatningsloven | 1 | 2026-06-22 to 2026-06-22 |
+| `for-2026-06-22-1210` | Forskrift om endring i forskrift om krav til utdanning, etterutdanning og godkjenning av trafikklærere (trafikklærerforskriften) | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2026-06-26-1397` | Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften) | 1 | 2026-07-01 to 2026-07-01 |
+| `for-2026-07-13-1558` | Forskrift om endring i forskrift om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer og forskrift om rester av plantevernmidler i næringsmidler og fôrvarer | 1 | 2026-07-13 to 2026-07-13 |
+| `for-2026-08-27-1685` | Forskrift om krav til kompetanse for personer som skal utøve flygeinformasjonstjeneste, HF-tjeneste og databehandling i ATM-systemer, og krav til tilhørende virksomheter (AFIS-forskriften) | 1 | 2026-09-01 to 2026-09-01 |
+| `for-2026-09-18-1836` | Forskrift om beskyttelse av Røros Smør som geografisk betegnelse | 1 | 2026-09-18 to 2026-09-18 |
+| `for-2026-09-29-1933` | Forskrift om endring i bokføringsforskriften | 1 | 2026-09-29 to 2026-09-29 |
+| `for-2026-10-02-1999` | Forskrift om endring i forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser | 1 | 2026-10-02 to 2026-10-02 |
+| `for-2026-10-15-2077` | Forskrift om endring i forskrift om tollavgift (tollavgiftsforskriften) | 1 | 2026-11-01 to 2026-11-01 |
 
-The build made 3934 commits:
+The build made 4526 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3412 | first version of an act |
+| 4004 | first version of an act |
 | 522 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 2 commits on the branch `fremtidig`: laws not yet in force on 2026-11-02.
-- 16 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 41 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 455 laws in the record.
-- 4266 tags.
+- 4858 tags.
 
 ## Dates
 
@@ -3454,13 +4046,13 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `16078ece3a627a7c3e92854dcd81860b87251e1d09595c09baa10ecd6400c79c` (61250917 bytes).
+- Corpus: sha256 `c22b9ab65f060a1628fdc9c2da5596fa5a0512c458e4d1116a20cb3e7243a45f` (83833295 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-4016 versions of 3412 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -3926,6 +4518,162 @@ No second build of this corpus has been compared yet.
 - Current-text acts (20 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-10-21, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
 - folkehogskoleloven (LOV-2025-06-20-99): the consolidated text's section «Vedlegg. Samisk oversettelse» (not part of the act's own chapters, such as an annexed text) is not included.
 - viltressursloven (LOV-2025-06-20-102): the consolidated text's section «Vedlegg. Samisk oversettelse» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text acts (107 in this part): each is one version, Lovdata's consolidated text (unofficial) as of 2026-11-01, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each act's units hold the consolidated document's text word for word (Lovdata's editorial notes, footnotes, the title line and repealed "(Opphevet)" articles apart; images are not included): paragraphs, articles ("Art.") and headings as the document numbers them, or one unit holding the whole text of a document with no numbered articles (a single-file act).
+- norske-lov (LOV-1687-04-15): read article by article from the consolidated document (numbered by §).
+- prom-ang-territorial-graense (LOV-1812-02-25): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- rettergangsordningens-ikrafttraedelseslov (LOV-1918-08-14-4): read article by article from the consolidated document (numbered by §).
+- svalbardtraktaten (LOV-1920-02-09): read article by article from the consolidated document (numbered "Art.").
+- rettergangsoverenskomst-med-storbritannia (LOV-1931-01-30): read article by article from the consolidated document (numbered "Art.").
+- nordisk-familierettslig-konvensjon (LOV-1931-02-06): read article by article from the consolidated document (numbered "Art.").
+- nordisk-konkurskonvensjon (LOV-1933-11-07): read article by article from the consolidated document (numbered "Art.").
+- nordisk-konvensjon-om-arv-og-dodsboskifte (LOV-1934-11-19): read article by article from the consolidated document (numbered "Art.").
+- statens-pensjonskasseloven (LOV-1949-07-28-26): read article by article from the consolidated document (numbered by §).
+- tilleggslov-om-krigspensjonering-1951-06-29-34 (LOV-1951-06-29-34): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- bilansvarslova (LOV-1961-02-03): read article by article from the consolidated document (numbered by §).
+- sivildomsoverenskomst-med-storbritannia (LOV-1961-06-12): read article by article from the consolidated document (numbered "Art.").
+- nordisk-konvensjon-om-underholdsbidrag (LOV-1962-03-23): read article by article from the consolidated document (numbered "Art.").
+- helsingforsavtalen (LOV-1962-03-23-2): read article by article from the consolidated document (numbered "Art.").
+- veglova (LOV-1963-06-21-23): read article by article from the consolidated document (numbered by §).
+- atomenergiloven (LOV-1972-05-12-28): read article by article from the consolidated document (numbered by §).
+- eigedomsskattelova (LOV-1975-06-06-29): read article by article from the consolidated document (numbered by §).
+- lov-om-opph-av-pensjonsordn-for-aremalstilsatte (LOV-1982-05-21-29): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- linjekonferanseloven (LOV-1984-06-08-55): read article by article from the consolidated document (numbered by §).
+- konkurslovgivningens-ikrafttredelseslov (LOV-1984-06-08-60): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-angaende-allmenninger-m-v (LOV-1992-06-19-61): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- luftfartsloven (LOV-1993-06-11-101): read article by article from the consolidated document (numbered "Art.").
+- lov-om-medisinsk-utstyr-1995-01-12-6 (LOV-1995-01-12-6): read article by article from the consolidated document (numbered by §).
+- folketrygdloven (LOV-1997-02-28-19): read article by article from the consolidated document (numbered by §).
+- skatteloven (LOV-1999-03-26-14): read article by article from the consolidated document (numbered by §).
+- psykisk-helsevernloven (LOV-1999-07-02-62): read article by article from the consolidated document (numbered by §).
+- betalingssystemloven (LOV-1999-12-17-95): read article by article from the consolidated document (numbered by §).
+- endringslov-til-sentralbankloven-m-fl (LOV-2003-06-20-44): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-sentralbankloven-m-fl (LOV-2003-06-20-44): in force in part; dated by the first in-force day Lovdata gives (2004-01-01), with the text as Lovdata prints it.
+- privatskolelova (LOV-2003-07-04-84): read article by article from the consolidated document (numbered by §).
+- endringslov-til-pengespill-og-lotterilover (LOV-2003-08-29-90): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-skatte-og-avgiftslovgivningen-mv (LOV-2004-12-10-77): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- forsikringsvirksomhetsloven (LOV-2005-06-10-44): read article by article from the consolidated document (numbered by §).
+- endringslov-til-kringkastingsloven (LOV-2005-06-17-98): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-kringkastingsloven (LOV-2005-06-17-98): in force in part; dated by the first in-force day Lovdata gives (2005-07-01), with the text as Lovdata prints it.
+- endringslov-til-barnevernl-og-sosialtjenestel (LOV-2006-12-01-65): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-barnevernl-og-sosialtjenestel (LOV-2006-12-01-65): in force in part; dated by the first in-force day Lovdata gives (2007-01-01), with the text as Lovdata prints it.
+- endringslov-til-skatteloven (LOV-2006-12-15-81): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-ekomloven (LOV-2008-01-11-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-ekomloven (LOV-2008-01-11-2): in force in part; dated by the first in-force day Lovdata gives (2008-01-15), with the text as Lovdata prints it.
+- endringslov-til-skatteloven-2008-12-12-99 (LOV-2008-12-12-99): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-skatteloven-2008-12-12-99 (LOV-2008-12-12-99): in force in part; dated by the first in-force day Lovdata gives (2008-12-12), with the text as Lovdata prints it.
+- endringslov-til-folketrygdloven-ny-alderspensjon (LOV-2009-06-05-32): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-forsikringsvirksomhetsloven (LOV-2010-12-17-84): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-om-datalagringsdirektivet (LOV-2011-04-15-11): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-klimakvoteloven (LOV-2011-04-15-12): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-klimakvoteloven (LOV-2011-04-15-12): in force in part; dated by the first in-force day Lovdata gives (2011-04-15), with the text as Lovdata prints it.
+- endringslov-til-skatteloven-2011-12-09-52 (LOV-2011-12-09-52): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-folketrygdloven-ny-uforetrygd (LOV-2011-12-16-59): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-straffeloven-mv (LOV-2012-01-20-6): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-utleveringsloven-m-m (LOV-2012-06-22-52): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-utleveringsloven-m-m (LOV-2012-06-22-52): in force in part; dated by the first in-force day Lovdata gives (2013-01-01), with the text as Lovdata prints it.
+- endringslov-til-straffegjennomforingsloven-mv (LOV-2013-06-14-44): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-straffegjennomforingsloven-mv (LOV-2013-06-14-44): in force in part; dated by the first in-force day Lovdata gives (2013-06-14), with the text as Lovdata prints it.
+- endringslov-til-barnevernloven (LOV-2013-06-21-63): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-barnevernloven (LOV-2013-06-21-63): in force in part; dated by the first in-force day Lovdata gives (2013-06-21), with the text as Lovdata prints it.
+- oppheving-av-arveavgiftsloven (LOV-2013-12-13-110): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- aif-loven (LOV-2014-06-20-28): read article by article from the consolidated document (numbered by §).
+- endringslov-til-ftrl-og-div-pensjonslover (LOV-2014-12-19-73): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-ftrl-og-div-pensjonslover (LOV-2014-12-19-73): in force in part; dated by the first in-force day Lovdata gives (2015-01-01), with the text as Lovdata prints it.
+- endringslov-til-arbeidsmiljoloven-og-sosialtjenesteloven (LOV-2015-04-24-20): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-sjoloven (LOV-2015-05-12-30): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-tomtefesteloven (LOV-2015-06-19-63): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- lov-om-eos-finanstilsyn (LOV-2016-06-17-30): read article by article from the consolidated document (numbered by §).
+- endringslov-til-pasient-og-brukerrettighetsloven-mv (LOV-2016-06-17-45): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-pasient-og-brukerrettighetsloven-mv (LOV-2016-06-17-45): in force in part; dated by the first in-force day Lovdata gives (2016-07-01), with the text as Lovdata prints it.
+- endringslov-til-tobakksskadeloven (LOV-2017-02-10-5): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-folketrygdloven-mv (LOV-2017-06-16-43): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m (LOV-2017-06-16-53): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-eigedomsskattelova (LOV-2017-12-19-118): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-finansforetaksloven-mv (LOV-2018-03-23-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringer-i-alkoholloven-mv (LOV-2018-06-22-76): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-tobakkskadeloven (LOV-2018-06-22-77): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-reindriftsloven (LOV-2019-06-21-62): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-veglova-mv-overforing-av-fylkesveiadministrasjon (LOV-2019-06-21-68): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-veglova-mv-overforing-av-fylkesveiadministrasjon (LOV-2019-06-21-68): in force in part; dated by the first in-force day Lovdata gives (2019-06-21), with the text as Lovdata prints it.
+- endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven (LOV-2019-12-20-103): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven (LOV-2019-12-20-103): in force in part; dated by the first in-force day Lovdata gives (2020-01-01), with the text as Lovdata prints it.
+- endringslov-til-vegtrafikkloven-opplaering (LOV-2020-04-03-18): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-vegtrafikkloven-opplaering (LOV-2020-04-03-18): in force in part; dated by the first in-force day Lovdata gives (2020-04-03), with the text as Lovdata prints it.
+- endringslov-til-verdipapirhandelloven-og-pakkereiseloven (LOV-2020-04-24-32): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-verdipapirhandelloven-og-pakkereiseloven (LOV-2020-04-24-32): in force in part; dated by the first in-force day Lovdata gives (2020-04-24), with the text as Lovdata prints it.
+- lov-om-tilskudd-ved-avbrutt-permittering (LOV-2020-06-23-99): read article by article from the consolidated document (numbered by §).
+- endringslov-til-folketrygdloven-nye-etterlatteytelser (LOV-2020-12-18-139): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-deltakerloven-og-havressurslova (LOV-2021-03-05-7): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-deltakerloven-og-havressurslova (LOV-2021-03-05-7): in force in part; dated by the first in-force day Lovdata gives (2022-01-01), with the text as Lovdata prints it.
+- endringslov-til-finansforetaksloven-mv-2021-04-23-22 (LOV-2021-04-23-22): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-aksjelovgivningen-mv (LOV-2021-06-11-84): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-aksjelovgivningen-mv (LOV-2021-06-11-84): in force in part; dated by the first in-force day Lovdata gives (2022-01-01), with the text as Lovdata prints it.
+- lov-om-offentliggjoring-av-baerekraftsinformasjon-i-finanssektoren-mv (LOV-2021-12-22-161): read article by article from the consolidated document (numbered by §).
+- endringslov-til-barnevernloven-mv (LOV-2022-03-25-13): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-lov-om-interkommunale-selskaper (LOV-2023-06-02-22): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-lov-om-interkommunale-selskaper (LOV-2023-06-02-22): in force in part; dated by the first in-force day Lovdata gives (2023-07-01), with the text as Lovdata prints it.
+- endringslov-til-sikkerhetsloven (LOV-2023-06-20-77): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-sikkerhetsloven (LOV-2023-06-20-77): in force in part; dated by the first in-force day Lovdata gives (2023-07-01), with the text as Lovdata prints it.
+- endringslov-til-forsvarsloven-mv-militaer-disiplinaermyndighet (LOV-2023-11-24-84): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-forsvarsloven-mv-militaer-disiplinaermyndighet (LOV-2023-11-24-84): in force in part; dated by the first in-force day Lovdata gives (2024-07-01), with the text as Lovdata prints it.
+- endringslov-til-tobakksskadeloven-2023-12-20-107 (LOV-2023-12-20-107): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-tobakksskadeloven-2023-12-20-107 (LOV-2023-12-20-107): in force in part; dated by the first in-force day Lovdata gives (2023-12-20), with the text as Lovdata prints it.
+- endringslov-til-konfliktradsloven-straffeloven-mv (LOV-2023-12-20-110): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-konfliktradsloven-straffeloven-mv (LOV-2023-12-20-110): in force in part; dated by the first in-force day Lovdata gives (2024-05-24), with the text as Lovdata prints it.
+- endringslov-til-skatteloven-2024-01-12-2 (LOV-2024-01-12-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-skatteloven-2024-01-12-2 (LOV-2024-01-12-2): in force in part; dated by the first in-force day Lovdata gives (2024-01-12), with the text as Lovdata prints it.
+- endringslov-til-regnskapsloven-mv (LOV-2024-06-21-42): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-grenseloven-og-utlendingsloven-mv (LOV-2024-06-21-47): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-gjeldsordningsloven-mv (LOV-2024-06-25-56): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-gjeldsordningsloven-mv (LOV-2024-06-25-56): in force in part; dated by the first in-force day Lovdata gives (2025-01-01), with the text as Lovdata prints it.
+- endringslov-til-finansmarkedslovgivningen (LOV-2024-06-25-60): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-finansmarkedslovgivningen (LOV-2024-06-25-60): in force in part; dated by the first in-force day Lovdata gives (2024-07-01), with the text as Lovdata prints it.
+- endringslov-til-konfliktradsloven-og-straffeloven-mv (LOV-2024-11-29-73): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-konfliktradsloven-og-straffeloven-mv (LOV-2024-11-29-73): in force in part; dated by the first in-force day Lovdata gives (2024-12-01), with the text as Lovdata prints it.
+- endringslov-til-kringkastingsloven-mv (LOV-2025-02-28-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-kringkastingsloven-mv (LOV-2025-02-28-2): in force in part; dated by the first in-force day Lovdata gives (2025-05-01), with the text as Lovdata prints it.
+- endringslov-til-allmenngjoringsloven (LOV-2025-03-28-4): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-allmenngjoringsloven (LOV-2025-03-28-4): in force in part; dated by the first in-force day Lovdata gives (2025-07-01), with the text as Lovdata prints it.
+- endringslov-til-folketrygdloven (LOV-2025-06-10-30): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-folketrygdloven (LOV-2025-06-10-30): in force in part; dated by the first in-force day Lovdata gives (2026-01-01), with the text as Lovdata prints it.
+- endringslov-til-integreringsloven-mv (LOV-2025-06-20-35): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-integreringsloven-mv (LOV-2025-06-20-35): in force in part; dated by the first in-force day Lovdata gives (2025-06-20), with the text as Lovdata prints it.
+- endringslov-til-trygderettsloven-mv (LOV-2025-06-20-38): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-trygderettsloven-mv (LOV-2025-06-20-38): in force in part; dated by the first in-force day Lovdata gives (2026-01-01), with the text as Lovdata prints it.
+- endringslov-til-barnevernsloven-mv (LOV-2025-06-20-39): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-barnevernsloven-mv (LOV-2025-06-20-39): in force in part; dated by the first in-force day Lovdata gives (2026-01-01), with the text as Lovdata prints it.
+- endringslov-til-rettshjelpsloven-mv (LOV-2025-06-20-82): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-rettshjelpsloven-mv (LOV-2025-06-20-82): in force in part; dated by the first in-force day Lovdata gives (2025-07-01), with the text as Lovdata prints it.
+- endringslov-til-utlendingsloven-mv (LOV-2025-06-20-84): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-utlendingsloven-mv (LOV-2025-06-20-84): in force in part; dated by the first in-force day Lovdata gives (2025-07-01), with the text as Lovdata prints it.
+- endringslov-til-plan-og-bygningsloven-og-matrikkellova (LOV-2025-06-20-93): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-plan-og-bygningsloven-og-matrikkellova (LOV-2025-06-20-93): in force in part; dated by the first in-force day Lovdata gives (2025-07-01), with the text as Lovdata prints it.
+- endringslov-til-yrkestransportloven-mv (LOV-2025-06-20-111): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-yrkestransportloven-mv (LOV-2025-06-20-111): in force in part; dated by the first in-force day Lovdata gives (2025-06-20), with the text as Lovdata prints it.
+- endringslov-til-anskaffelsesloven (LOV-2026-03-06-8): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-anskaffelsesloven (LOV-2026-03-06-8): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven (LOV-2026-05-07-16): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven (LOV-2026-05-07-16): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina (LOV-2026-06-12-22): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina (LOV-2026-06-12-22): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- endringslov-til-folketrygdloven-mv-2026-06-12-24 (LOV-2026-06-12-24): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-folketrygdloven-mv-2026-06-12-24 (LOV-2026-06-12-24): in force in part; dated by the first in-force day Lovdata gives (2026-10-01), with the text as Lovdata prints it.
+- endringslov-til-arbeidsmiljoloven-og-folketrygdloven (LOV-2026-06-19-33): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-arbeidsmiljoloven-og-folketrygdloven (LOV-2026-06-19-33): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- endringslov-til-barnevernsloven (LOV-2026-06-19-35): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-barnevernsloven (LOV-2026-06-19-35): in force in part; dated by the first in-force day Lovdata gives (2026-06-19), with the text as Lovdata prints it.
+- endringslov-til-bokforingsloven-mv (LOV-2026-06-19-39): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-bokforingsloven-mv (LOV-2026-06-19-39): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- endringslov-til-finansforetaksloven-mv-2026-06-19-40 (LOV-2026-06-19-40): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-finansforetaksloven-mv-2026-06-19-40 (LOV-2026-06-19-40): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m (LOV-2026-06-19-45): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m (LOV-2026-06-19-45): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- endringslov-til-politiregisterloven-og-grenseloven-mv (LOV-2026-06-19-46): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-politiregisterloven-og-grenseloven-mv (LOV-2026-06-19-46): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- endringslov-til-konkursloven-mv (LOV-2026-06-19-48): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-konkursloven-mv (LOV-2026-06-19-48): in force in part; dated by the first in-force day Lovdata gives (2026-06-19), with the text as Lovdata prints it.
+- endringslov-til-utlendingsloven (LOV-2026-06-19-50): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- endringslov-til-utlendingsloven (LOV-2026-06-19-50): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
 - Current-text regulations (100 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-02, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
 - for-1896-06-26-9805 (FOR-1896-06-26-9805): the consolidated text's sections «II»; «III.»; «IV.» (not part of the act's own chapters, such as an annexed text) are not included.
 - for-1928-07-05-3356 (FOR-1928-07-05-3356): the consolidated text's section «I» (not part of the act's own chapters, such as an annexed text) is not included.
@@ -4574,6 +5322,515 @@ No second build of this corpus has been compared yet.
 - for-2026-06-25-1341 (FOR-2026-06-25-1341): the consolidated text's section «II» (not part of the act's own chapters, such as an annexed text) is not included.
 - Current-text regulations (21 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-02, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each one's paragraphs equal the consolidated document's own list of articles.
 - for-2026-10-02-1995 (FOR-2026-10-02-1995): the consolidated text's section «Vedlegg Godtgjørelse omhandlet i § 6» (not part of the act's own chapters, such as an annexed text) is not included.
+- Current-text regulations (485 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-02, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each act's units hold the consolidated document's text word for word (Lovdata's editorial notes, footnotes, the title line and repealed "(Opphevet)" articles apart; images are not included): paragraphs, articles ("Art.") and headings as the document numbers them, or one unit holding the whole text of a document with no numbered articles (a single-file act).
+- for-1905-11-15-2 (FOR-1905-11-15-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1905-12-30-1 (FOR-1905-12-30-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1906-01-27-2 (FOR-1906-01-27-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1924-09-26-4 (FOR-1924-09-26-4): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1925-12-18-9838 (FOR-1925-12-18-9838): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1927-05-20-3729 (FOR-1927-05-20-3729): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1927-06-10-3 (FOR-1927-06-10-3): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1930-09-19-3663 (FOR-1930-09-19-3663): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1933-07-06-3 (FOR-1933-07-06-3): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1937-03-19-3728 (FOR-1937-03-19-3728): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1945-10-12-1 (FOR-1945-10-12-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1947-04-26-1 (FOR-1947-04-26-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1949-01-20-1 (FOR-1949-01-20-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1952-05-08-6 (FOR-1952-05-08-6): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1953-02-27-3 (FOR-1953-02-27-3): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1953-03-20-3454 (FOR-1953-03-20-3454): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1953-06-11-4014 (FOR-1953-06-11-4014): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1954-02-05-2 (FOR-1954-02-05-2): read article by article from the consolidated document (numbered by §).
+- for-1956-11-09-8632 (FOR-1956-11-09-8632): read article by article from the consolidated document (numbered by §).
+- for-1956-11-09-9388 (FOR-1956-11-09-9388): read article by article from the consolidated document (numbered by §).
+- for-1959-07-24-7 (FOR-1959-07-24-7): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1959-09-11-5036 (FOR-1959-09-11-5036): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1961-01-20-1 (FOR-1961-01-20-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1961-12-22-4 (FOR-1961-12-22-4): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1962-11-09-1 (FOR-1962-11-09-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1963-03-08-8 (FOR-1963-03-08-8): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1963-12-12-1 (FOR-1963-12-12-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1964-07-16-3905 (FOR-1964-07-16-3905): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1964-09-04-8677 (FOR-1964-09-04-8677): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1964-10-09-3 (FOR-1964-10-09-3): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1965-03-09-9736 (FOR-1965-03-09-9736): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1966-11-04-4011 (FOR-1966-11-04-4011): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1966-12-31-4099 (FOR-1966-12-31-4099): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1968-07-05-1 (FOR-1968-07-05-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1968-09-06-3 (FOR-1968-09-06-3): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1969-10-09-3815 (FOR-1969-10-09-3815): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1970-12-30-9395 (FOR-1970-12-30-9395): read article by article from the consolidated document (numbered by §).
+- for-1971-06-25-9 (FOR-1971-06-25-9): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1971-06-25-3800 (FOR-1971-06-25-3800): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1971-08-06-3434 (FOR-1971-08-06-3434): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1971-12-17-9 (FOR-1971-12-17-9): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1972-08-25-3 (FOR-1972-08-25-3): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1972-12-04-2 (FOR-1972-12-04-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1973-04-06-9740 (FOR-1973-04-06-9740): read article by article from the consolidated document (numbered by §).
+- for-1973-04-09-9549 (FOR-1973-04-09-9549): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1973-06-01-1 (FOR-1973-06-01-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1973-10-26-4 (FOR-1973-10-26-4): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1973-11-23-3460 (FOR-1973-11-23-3460): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1974-06-18-3650 (FOR-1974-06-18-3650): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1975-03-07-8625 (FOR-1975-03-07-8625): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1975-03-07-8626 (FOR-1975-03-07-8626): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1975-12-16-1 (FOR-1975-12-16-1): read article by article from the consolidated document (numbered by §).
+- for-1976-04-23-1 (FOR-1976-04-23-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1976-08-03-9783 (FOR-1976-08-03-9783): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1976-09-06-4054 (FOR-1976-09-06-4054): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1976-10-29-3763 (FOR-1976-10-29-3763): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1976-11-15-2 (FOR-1976-11-15-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1976-12-17-8 (FOR-1976-12-17-8): read article by article from the consolidated document (numbered by §).
+- for-1976-12-17-15 (FOR-1976-12-17-15): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1977-04-22-9891 (FOR-1977-04-22-9891): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1977-08-05-2 (FOR-1977-08-05-2): read article by article from the consolidated document (numbered by §).
+- for-1977-11-24-1 (FOR-1977-11-24-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1978-01-11-1 (FOR-1978-01-11-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1978-02-17-2 (FOR-1978-02-17-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1978-04-03-9460 (FOR-1978-04-03-9460): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1978-06-01-3389 (FOR-1978-06-01-3389): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1978-12-15-5 (FOR-1978-12-15-5): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1979-09-21-7 (FOR-1979-09-21-7): read article by article from the consolidated document (numbered by §).
+- for-1980-05-16-8 (FOR-1980-05-16-8): read article by article from the consolidated document (numbered by §).
+- for-1980-05-23-4 (FOR-1980-05-23-4): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1980-06-06-6 (FOR-1980-06-06-6): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1980-06-13-2 (FOR-1980-06-13-2): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1980-06-27-7 (FOR-1980-06-27-7): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1980-11-21-12 (FOR-1980-11-21-12): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1980-11-21-14 (FOR-1980-11-21-14): read article by article from the consolidated document (numbered by §).
+- for-1981-05-08-4026 (FOR-1981-05-08-4026): read article by article from the consolidated document (numbered "Art.").
+- for-1981-06-05-8828 (FOR-1981-06-05-8828): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1981-07-24-4940 (FOR-1981-07-24-4940): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1981-10-02-8783 (FOR-1981-10-02-8783): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1981-11-19-8761 (FOR-1981-11-19-8761): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1982-02-16-382 (FOR-1982-02-16-382): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1982-02-26-3791 (FOR-1982-02-26-3791): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1982-09-16-1431 (FOR-1982-09-16-1431): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1982-10-05-1440 (FOR-1982-10-05-1440): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1982-10-15-1515 (FOR-1982-10-15-1515): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1982-10-22-3421 (FOR-1982-10-22-3421): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1982-12-15-1787 (FOR-1982-12-15-1787): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1983-01-07-12 (FOR-1983-01-07-12): read article by article from the consolidated document (numbered by §).
+- for-1983-01-17-67 (FOR-1983-01-17-67): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1983-02-25-512 (FOR-1983-02-25-512): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1983-06-03-1029 (FOR-1983-06-03-1029): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1983-10-05-4605 (FOR-1983-10-05-4605): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1983-10-13-1571 (FOR-1983-10-13-1571): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1983-10-28-1588 (FOR-1983-10-28-1588): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1984-01-31-227 (FOR-1984-01-31-227): read article by article from the consolidated document (numbered by §).
+- for-1984-04-10-940 (FOR-1984-04-10-940): read article by article from the consolidated document (numbered by §).
+- for-1984-09-21-1672 (FOR-1984-09-21-1672): read article by article from the consolidated document (numbered by §).
+- for-1984-12-14-2044 (FOR-1984-12-14-2044): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1985-02-08-293 (FOR-1985-02-08-293): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1985-03-08-532 (FOR-1985-03-08-532): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1985-03-29-699 (FOR-1985-03-29-699): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1985-06-28-1679 (FOR-1985-06-28-1679): read article by article from the consolidated document (numbered by §).
+- for-1985-10-08-1806 (FOR-1985-10-08-1806): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1985-10-11-1810 (FOR-1985-10-11-1810): read article by article from the consolidated document (numbered by §).
+- for-1985-11-29-1994 (FOR-1985-11-29-1994): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1986-01-13-31 (FOR-1986-01-13-31): read article by article from the consolidated document (numbered by §).
+- for-1986-07-01-3055 (FOR-1986-07-01-3055): read article by article from the consolidated document (numbered "Art.").
+- for-1986-12-17-2318 (FOR-1986-12-17-2318): read article by article from the consolidated document (numbered by §).
+- for-1987-02-06-71 (FOR-1987-02-06-71): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1987-03-04-164 (FOR-1987-03-04-164): read article by article from the consolidated document (numbered by §).
+- for-1987-06-15-507 (FOR-1987-06-15-507): read article by article from the consolidated document (numbered by §).
+- for-1987-06-30-580 (FOR-1987-06-30-580): read article by article from the consolidated document (numbered by §).
+- for-1987-09-04-743 (FOR-1987-09-04-743): read article by article from the consolidated document (numbered by §).
+- for-1987-09-04-856 (FOR-1987-09-04-856): read article by article from the consolidated document (numbered by §).
+- for-1987-09-04-859 (FOR-1987-09-04-859): read article by article from the consolidated document (numbered by §).
+- for-1987-11-20-924 (FOR-1987-11-20-924): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1987-11-20-1080 (FOR-1987-11-20-1080): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1988-04-29-314 (FOR-1988-04-29-314): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1988-05-15-356 (FOR-1988-05-15-356): read article by article from the consolidated document (numbered by §).
+- for-1988-07-08-562 (FOR-1988-07-08-562): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1988-10-07-835 (FOR-1988-10-07-835): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1988-11-14-932 (FOR-1988-11-14-932): read article by article from the consolidated document (numbered by §).
+- for-1989-01-10-52 (FOR-1989-01-10-52): read article by article from the consolidated document (numbered by §).
+- for-1989-02-10-88 (FOR-1989-02-10-88): read article by article from the consolidated document (numbered by §).
+- for-1989-05-12-302 (FOR-1989-05-12-302): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1989-10-13-1043 (FOR-1989-10-13-1043): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1990-01-25-92 (FOR-1990-01-25-92): read article by article from the consolidated document (numbered by §).
+- for-1990-01-26-68 (FOR-1990-01-26-68): read article by article from the consolidated document (numbered by §).
+- for-1990-03-01-715 (FOR-1990-03-01-715): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1990-06-01-435 (FOR-1990-06-01-435): read article by article from the consolidated document (numbered by §).
+- for-1990-06-22-589 (FOR-1990-06-22-589): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1991-05-31-349 (FOR-1991-05-31-349): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1991-05-31-349 (FOR-1991-05-31-349): in force in part; dated by the first in-force day Lovdata gives (1991-05-31), with the text as Lovdata prints it.
+- for-1991-10-15-712 (FOR-1991-10-15-712): read article by article from the consolidated document (numbered by §).
+- for-1991-10-15-713 (FOR-1991-10-15-713): read article by article from the consolidated document (numbered by §).
+- for-1991-10-16-853 (FOR-1991-10-16-853): read article by article from the consolidated document (numbered by §).
+- for-1991-11-15-737 (FOR-1991-11-15-737): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1991-12-20-878 (FOR-1991-12-20-878): read article by article from the consolidated document (numbered by §).
+- for-1992-09-15-693 (FOR-1992-09-15-693): read article by article from the consolidated document (numbered by §).
+- for-1992-10-28-1 (FOR-1992-10-28-1): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1992-12-04-893 (FOR-1992-12-04-893): read article by article from the consolidated document (numbered by §).
+- for-1992-12-04-910 (FOR-1992-12-04-910): read article by article from the consolidated document (numbered "Art.").
+- for-1993-04-30-316 (FOR-1993-04-30-316): read article by article from the consolidated document (numbered by §).
+- for-1993-08-20-815 (FOR-1993-08-20-815): read article by article from the consolidated document (numbered by §).
+- for-1993-11-10-1018 (FOR-1993-11-10-1018): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1993-11-10-1019 (FOR-1993-11-10-1019): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1993-11-22-1039 (FOR-1993-11-22-1039): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1993-12-17-1315 (FOR-1993-12-17-1315): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1993-12-21-1381 (FOR-1993-12-21-1381): read article by article from the consolidated document (numbered "Art.").
+- for-1993-12-21-1384 (FOR-1993-12-21-1384): read article by article from the consolidated document (numbered by §).
+- for-1994-02-10-123 (FOR-1994-02-10-123): read article by article from the consolidated document (numbered by §).
+- for-1994-03-11-202 (FOR-1994-03-11-202): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1994-10-04-918 (FOR-1994-10-04-918): read article by article from the consolidated document (numbered by §).
+- for-1994-11-10-1001 (FOR-1994-11-10-1001): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1994-11-14-1280 (FOR-1994-11-14-1280): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1994-11-14-1298 (FOR-1994-11-14-1298): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1994-11-18-1015 (FOR-1994-11-18-1015): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1994-12-15-1187 (FOR-1994-12-15-1187): read article by article from the consolidated document (numbered by §).
+- for-1995-01-31-107 (FOR-1995-01-31-107): read article by article from the consolidated document (numbered by §).
+- for-1995-02-01-90 (FOR-1995-02-01-90): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1995-05-09-466 (FOR-1995-05-09-466): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1995-06-02-517 (FOR-1995-06-02-517): read article by article from the consolidated document (numbered by §).
+- for-1995-06-30-603 (FOR-1995-06-30-603): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1995-07-20-698 (FOR-1995-07-20-698): read article by article from the consolidated document (numbered by §).
+- for-1995-11-30-938 (FOR-1995-11-30-938): read article by article from the consolidated document (numbered by §).
+- for-1996-01-19-4263 (FOR-1996-01-19-4263): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1996-02-02-115 (FOR-1996-02-02-115): read article by article from the consolidated document (numbered by §).
+- for-1996-03-01-291 (FOR-1996-03-01-291): read article by article from the consolidated document (numbered by §).
+- for-1996-04-01-319 (FOR-1996-04-01-319): read article by article from the consolidated document (numbered by §).
+- for-1996-05-14-498 (FOR-1996-05-14-498): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1996-06-07-533 (FOR-1996-06-07-533): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1996-07-19-703 (FOR-1996-07-19-703): read article by article from the consolidated document (numbered by §).
+- for-1996-08-20-811 (FOR-1996-08-20-811): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1997-01-24-36 (FOR-1997-01-24-36): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1997-02-18-234 (FOR-1997-02-18-234): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1997-03-25-270 (FOR-1997-03-25-270): read article by article from the consolidated document (numbered by §).
+- for-1997-06-19-618 (FOR-1997-06-19-618): read article by article from the consolidated document (numbered by §).
+- for-1997-06-27-653 (FOR-1997-06-27-653): read article by article from the consolidated document (numbered by §).
+- for-1997-08-22-945 (FOR-1997-08-22-945): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1997-09-19-1061 (FOR-1997-09-19-1061): read article by article from the consolidated document (numbered by §).
+- for-1997-10-10-1090 (FOR-1997-10-10-1090): read article by article from the consolidated document (numbered by §).
+- for-1998-01-05-6 (FOR-1998-01-05-6): read article by article from the consolidated document (numbered by §).
+- for-1998-01-16-37 (FOR-1998-01-16-37): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1998-01-19-38 (FOR-1998-01-19-38): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1998-05-29-564 (FOR-1998-05-29-564): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1998-09-16-890 (FOR-1998-09-16-890): read article by article from the consolidated document (numbered by §).
+- for-1999-02-05-195 (FOR-1999-02-05-195): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1999-03-11-302 (FOR-1999-03-11-302): read article by article from the consolidated document (numbered by §).
+- for-1999-06-04-571 (FOR-1999-06-04-571): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1999-11-19-1158 (FOR-1999-11-19-1158): read article by article from the consolidated document (numbered by §).
+- for-1999-11-22-1160 (FOR-1999-11-22-1160): read article by article from the consolidated document (numbered by §).
+- for-1999-12-10-1272 (FOR-1999-12-10-1272): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-1999-12-17-1347 (FOR-1999-12-17-1347): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2000-01-27-65 (FOR-2000-01-27-65): read article by article from the consolidated document (numbered by §).
+- for-2000-03-28-305 (FOR-2000-03-28-305): read article by article from the consolidated document (numbered by §).
+- for-2000-05-19-442 (FOR-2000-05-19-442): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2000-06-29-688 (FOR-2000-06-29-688): read article by article from the consolidated document (numbered by §).
+- for-2000-09-20-1697 (FOR-2000-09-20-1697): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2000-10-10-1004 (FOR-2000-10-10-1004): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2000-11-15-1274 (FOR-2000-11-15-1274): read article by article from the consolidated document (numbered by §).
+- for-2000-12-20-1638 (FOR-2000-12-20-1638): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2000-12-20-1673 (FOR-2000-12-20-1673): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2000-12-21-1379 (FOR-2000-12-21-1379): read article by article from the consolidated document (numbered by §).
+- for-2000-12-21-1381 (FOR-2000-12-21-1381): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2000-12-21-1384 (FOR-2000-12-21-1384): read article by article from the consolidated document (numbered by §).
+- for-2000-12-22-1412 (FOR-2000-12-22-1412): read article by article from the consolidated document (numbered by §).
+- for-2001-03-09-192 (FOR-2001-03-09-192): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-03-19-268 (FOR-2001-03-19-268): read article by article from the consolidated document (numbered by §).
+- for-2001-04-18-426 (FOR-2001-04-18-426): read article by article from the consolidated document (numbered by §).
+- for-2001-05-08-471 (FOR-2001-05-08-471): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-06-08-570 (FOR-2001-06-08-570): read article by article from the consolidated document (numbered by §).
+- for-2001-08-23-1067 (FOR-2001-08-23-1067): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-08-23-1068 (FOR-2001-08-23-1068): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-08-31-1074 (FOR-2001-08-31-1074): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-10-05-1148 (FOR-2001-10-05-1148): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-10-30-1231 (FOR-2001-10-30-1231): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-10-31-1274 (FOR-2001-10-31-1274): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2001-12-04-1450 (FOR-2001-12-04-1450): read article by article from the consolidated document (numbered by §).
+- for-2001-12-11-1451 (FOR-2001-12-11-1451): read article by article from the consolidated document (numbered by §).
+- for-2001-12-12-1494 (FOR-2001-12-12-1494): read article by article from the consolidated document (numbered by §).
+- for-2001-12-21-1525 (FOR-2001-12-21-1525): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2002-03-13-407 (FOR-2002-03-13-407): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2002-06-26-922 (FOR-2002-06-26-922): read article by article from the consolidated document (numbered by §).
+- for-2002-07-09-1116 (FOR-2002-07-09-1116): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2002-11-07-1290 (FOR-2002-11-07-1290): read article by article from the consolidated document (numbered by §).
+- for-2002-11-14-1632 (FOR-2002-11-14-1632): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2002-12-13-1497 (FOR-2002-12-13-1497): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2003-02-18-175 (FOR-2003-02-18-175): read article by article from the consolidated document (numbered by §).
+- for-2003-03-07-287 (FOR-2003-03-07-287): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2003-04-04-418 (FOR-2003-04-04-418): read article by article from the consolidated document (numbered by §).
+- for-2003-05-16-652 (FOR-2003-05-16-652): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2003-05-30-661 (FOR-2003-05-30-661): read article by article from the consolidated document (numbered by §).
+- for-2003-06-25-1236 (FOR-2003-06-25-1236): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2003-06-26-868 (FOR-2003-06-26-868): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2003-08-13-1046 (FOR-2003-08-13-1046): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2003-08-21-1068 (FOR-2003-08-21-1068): read article by article from the consolidated document (numbered by §).
+- for-2003-09-26-1185 (FOR-2003-09-26-1185): read article by article from the consolidated document (numbered by §).
+- for-2003-09-26-1187 (FOR-2003-09-26-1187): read article by article from the consolidated document (numbered by §).
+- for-2003-09-26-1188 (FOR-2003-09-26-1188): read article by article from the consolidated document (numbered by §).
+- for-2003-09-26-1189 (FOR-2003-09-26-1189): read article by article from the consolidated document (numbered by §).
+- for-2003-09-26-1190 (FOR-2003-09-26-1190): read article by article from the consolidated document (numbered by §).
+- for-2003-12-19-1791 (FOR-2003-12-19-1791): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2003-12-19-1874 (FOR-2003-12-19-1874): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2004-01-19-298 (FOR-2004-01-19-298): read article by article from the consolidated document (numbered by §).
+- for-2004-03-18-532 (FOR-2004-03-18-532): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2004-03-30-595 (FOR-2004-03-30-595): read article by article from the consolidated document (numbered "Art.").
+- for-2004-06-01-922 (FOR-2004-06-01-922): read article by article from the consolidated document (numbered by §).
+- for-2004-06-01-930 (FOR-2004-06-01-930): read article by article from the consolidated document (numbered by §).
+- for-2004-06-01-931 (FOR-2004-06-01-931): read article by article from the consolidated document (numbered by §).
+- for-2004-10-04-1316 (FOR-2004-10-04-1316): read article by article from the consolidated document (numbered by §).
+- for-2004-12-01-1558 (FOR-2004-12-01-1558): read article by article from the consolidated document (numbered by §).
+- for-2004-12-22-1799 (FOR-2004-12-22-1799): read article by article from the consolidated document (numbered by §).
+- for-2004-12-23-1851 (FOR-2004-12-23-1851): read article by article from the consolidated document (numbered by §).
+- for-2005-02-17-141 (FOR-2005-02-17-141): read article by article from the consolidated document (numbered by §).
+- for-2005-02-18-160 (FOR-2005-02-18-160): read article by article from the consolidated document (numbered by §).
+- for-2005-03-21-247 (FOR-2005-03-21-247): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2005-05-26-1811 (FOR-2005-05-26-1811): read article by article from the consolidated document (numbered by §).
+- for-2005-06-02-505 (FOR-2005-06-02-505): read article by article from the consolidated document (numbered by §).
+- for-2005-07-01-754 (FOR-2005-07-01-754): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2005-09-09-1046 (FOR-2005-09-09-1046): read article by article from the consolidated document (numbered by §).
+- for-2005-10-07-1219 (FOR-2005-10-07-1219): read article by article from the consolidated document (numbered by §).
+- for-2005-12-16-1563 (FOR-2005-12-16-1563): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2006-03-03-394 (FOR-2006-03-03-394): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2006-03-07-563 (FOR-2006-03-07-563): read article by article from the consolidated document (numbered by §).
+- for-2006-04-20-453 (FOR-2006-04-20-453): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2006-06-01-572 (FOR-2006-06-01-572): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2006-06-30-756 (FOR-2006-06-30-756): read article by article from the consolidated document (numbered by §).
+- for-2006-07-06-968 (FOR-2006-07-06-968): read article by article from the consolidated document (numbered by §).
+- for-2006-09-07-1062 (FOR-2006-09-07-1062): read article by article from the consolidated document (numbered by §).
+- for-2006-12-15-1446 (FOR-2006-12-15-1446): read article by article from the consolidated document (numbered by §).
+- for-2007-06-01-570 (FOR-2007-06-01-570): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2007-06-29-832 (FOR-2007-06-29-832): read article by article from the consolidated document (numbered by §).
+- for-2007-07-02-877 (FOR-2007-07-02-877): read article by article from the consolidated document (numbered by §).
+- for-2007-10-05-1112 (FOR-2007-10-05-1112): read article by article from the consolidated document (numbered by §).
+- for-2007-12-14-1416 (FOR-2007-12-14-1416): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2007-12-14-1417 (FOR-2007-12-14-1417): read article by article from the consolidated document (numbered by §).
+- for-2007-12-21-1735 (FOR-2007-12-21-1735): read article by article from the consolidated document (numbered by §).
+- for-2007-12-21-1736 (FOR-2007-12-21-1736): read article by article from the consolidated document (numbered by §).
+- for-2007-12-21-1737 (FOR-2007-12-21-1737): read article by article from the consolidated document (numbered by §).
+- for-2007-12-21-1766 (FOR-2007-12-21-1766): read article by article from the consolidated document (numbered by §).
+- for-2007-12-21-1773 (FOR-2007-12-21-1773): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2007-12-28-1753 (FOR-2007-12-28-1753): read article by article from the consolidated document (numbered by §).
+- for-2008-02-22-166 (FOR-2008-02-22-166): read article by article from the consolidated document (numbered by §).
+- for-2008-06-02-526 (FOR-2008-06-02-526): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2008-07-30-866 (FOR-2008-07-30-866): read article by article from the consolidated document (numbered by §).
+- for-2008-10-15-1214 (FOR-2008-10-15-1214): read article by article from the consolidated document (numbered by §).
+- for-2008-10-22-1136 (FOR-2008-10-22-1136): read article by article from the consolidated document (numbered by §).
+- for-2008-11-13-1693 (FOR-2008-11-13-1693): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2008-12-22-1623 (FOR-2008-12-22-1623): read article by article from the consolidated document (numbered "Art.").
+- for-2009-03-24-352 (FOR-2009-03-24-352): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2009-04-25-975 (FOR-2009-04-25-975): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2009-05-13-591 (FOR-2009-05-13-591): read article by article from the consolidated document (numbered by §).
+- for-2009-06-05-617 (FOR-2009-06-05-617): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2009-06-19-707 (FOR-2009-06-19-707): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2009-06-26-864 (FOR-2009-06-26-864): read article by article from the consolidated document (numbered by §).
+- for-2009-08-21-1148 (FOR-2009-08-21-1148): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2009-10-15-1286 (FOR-2009-10-15-1286): read article by article from the consolidated document (numbered by §).
+- for-2009-11-03-1327 (FOR-2009-11-03-1327): read article by article from the consolidated document (numbered by §).
+- for-2009-12-15-1540 (FOR-2009-12-15-1540): read article by article from the consolidated document (numbered by §).
+- for-2009-12-18-1839 (FOR-2009-12-18-1839): read article by article from the consolidated document (numbered by §).
+- for-2009-12-23-1890 (FOR-2009-12-23-1890): read article by article from the consolidated document (numbered by §).
+- for-2010-05-28-1888 (FOR-2010-05-28-1888): read article by article from the consolidated document (numbered by §).
+- for-2010-11-01-1394 (FOR-2010-11-01-1394): read article by article from the consolidated document (numbered by §).
+- for-2010-11-19-1456 (FOR-2010-11-19-1456): read article by article from the consolidated document (numbered by §).
+- for-2010-11-22-1466 (FOR-2010-11-22-1466): read article by article from the consolidated document (numbered by §).
+- for-2010-11-30-1493 (FOR-2010-11-30-1493): read article by article from the consolidated document (numbered by §).
+- for-2010-12-10-1569 (FOR-2010-12-10-1569): read article by article from the consolidated document (numbered by §).
+- for-2010-12-20-1786 (FOR-2010-12-20-1786): read article by article from the consolidated document (numbered by §).
+- for-2011-02-11-138 (FOR-2011-02-11-138): read article by article from the consolidated document (numbered by §).
+- for-2011-11-09-1088 (FOR-2011-11-09-1088): read article by article from the consolidated document (numbered by §).
+- for-2011-12-06-1355 (FOR-2011-12-06-1355): read article by article from the consolidated document (numbered by §).
+- for-2011-12-06-1357 (FOR-2011-12-06-1357): read article by article from the consolidated document (numbered by §).
+- for-2011-12-20-1457 (FOR-2011-12-20-1457): read article by article from the consolidated document (numbered by §).
+- for-2011-12-23-1502 (FOR-2011-12-23-1502): read article by article from the consolidated document (numbered by §).
+- for-2012-05-25-461 (FOR-2012-05-25-461): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2012-05-30-488 (FOR-2012-05-30-488): read article by article from the consolidated document (numbered by §).
+- for-2012-06-05-645 (FOR-2012-06-05-645): read article by article from the consolidated document (numbered by §).
+- for-2012-08-31-847 (FOR-2012-08-31-847): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2013-02-04-206 (FOR-2013-02-04-206): read article by article from the consolidated document (numbered by §).
+- for-2013-03-01-245 (FOR-2013-03-01-245): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2013-08-09-970 (FOR-2013-08-09-970): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2013-08-09-970 (FOR-2013-08-09-970): in force in part; dated by the first in-force day Lovdata gives (2013-08-09), with the text as Lovdata prints it.
+- for-2013-09-20-1109 (FOR-2013-09-20-1109): read article by article from the consolidated document (numbered "Art.").
+- for-2013-12-20-1648 (FOR-2013-12-20-1648): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2014-02-12-130 (FOR-2014-02-12-130): read article by article from the consolidated document (numbered by §).
+- for-2014-05-09-626 (FOR-2014-05-09-626): read article by article from the consolidated document (numbered "Art.").
+- for-2014-08-15-1076 (FOR-2014-08-15-1076): read article by article from the consolidated document (numbered by §).
+- for-2014-10-10-1287 (FOR-2014-10-10-1287): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2014-12-19-1890 (FOR-2014-12-19-1890): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2014-12-19-1890 (FOR-2014-12-19-1890): in force in part; dated by the first in-force day Lovdata gives (2014-12-19), with the text as Lovdata prints it.
+- for-2015-04-09-418 (FOR-2015-04-09-418): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2015-04-09-420 (FOR-2015-04-09-420): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2015-12-11-1666 (FOR-2015-12-11-1666): read article by article from the consolidated document (numbered by §).
+- for-2015-12-18-1616 (FOR-2015-12-18-1616): read article by article from the consolidated document (numbered by §).
+- for-2016-01-08-9 (FOR-2016-01-08-9): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2016-01-19-39 (FOR-2016-01-19-39): read article by article from the consolidated document (numbered by §).
+- for-2016-03-18-260 (FOR-2016-03-18-260): read article by article from the consolidated document (numbered by §).
+- for-2016-05-19-542 (FOR-2016-05-19-542): read article by article from the consolidated document (numbered "Art.").
+- for-2016-05-24-512 (FOR-2016-05-24-512): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2016-10-26-1442 (FOR-2016-10-26-1442): read article by article from the consolidated document (numbered by §).
+- for-2016-11-23-1360 (FOR-2016-11-23-1360): read article by article from the consolidated document (numbered by §).
+- for-2016-12-09-1502 (FOR-2016-12-09-1502): read article by article from the consolidated document (numbered by §).
+- for-2016-12-14-1578 (FOR-2016-12-14-1578): read article by article from the consolidated document (numbered by §).
+- for-2016-12-22-1924 (FOR-2016-12-22-1924): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2016-12-27-1883 (FOR-2016-12-27-1883): read article by article from the consolidated document (numbered by §).
+- for-2017-01-06-13 (FOR-2017-01-06-13): read article by article from the consolidated document (numbered by §).
+- for-2017-03-31-416 (FOR-2017-03-31-416): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2017-04-19-674 (FOR-2017-04-19-674): read article by article from the consolidated document (numbered by §).
+- for-2017-04-24-487 (FOR-2017-04-24-487): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2017-05-24-2480 (FOR-2017-05-24-2480): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2017-06-21-854 (FOR-2017-06-21-854): read article by article from the consolidated document (numbered by §).
+- for-2017-06-22-1145 (FOR-2017-06-22-1145): read article by article from the consolidated document (numbered by §).
+- for-2017-07-14-1201 (FOR-2017-07-14-1201): read article by article from the consolidated document (numbered by §).
+- for-2017-12-08-1952 (FOR-2017-12-08-1952): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2017-12-18-2235 (FOR-2017-12-18-2235): read article by article from the consolidated document (numbered by §).
+- for-2017-12-19-2396 (FOR-2017-12-19-2396): read article by article from the consolidated document (numbered by §).
+- for-2017-12-20-2329 (FOR-2017-12-20-2329): read article by article from the consolidated document (numbered by §).
+- for-2018-02-06-177 (FOR-2018-02-06-177): read article by article from the consolidated document (numbered by §).
+- for-2018-06-07-836 (FOR-2018-06-07-836): read article by article from the consolidated document (numbered by §).
+- for-2018-08-01-1215 (FOR-2018-08-01-1215): read article by article from the consolidated document (numbered by §).
+- for-2018-10-18-1671 (FOR-2018-10-18-1671): read article by article from the consolidated document (numbered by §).
+- for-2018-12-20-2064 (FOR-2018-12-20-2064): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2019-02-15-115 (FOR-2019-02-15-115): read article by article from the consolidated document (numbered by §).
+- for-2019-03-01-1082 (FOR-2019-03-01-1082): read article by article from the consolidated document (numbered by §).
+- for-2019-05-15-663 (FOR-2019-05-15-663): read article by article from the consolidated document (numbered by §).
+- for-2019-06-13-1472 (FOR-2019-06-13-1472): read article by article from the consolidated document (numbered by §).
+- for-2019-09-23-1468 (FOR-2019-09-23-1468): read article by article from the consolidated document (numbered by §).
+- for-2019-12-06-1646 (FOR-2019-12-06-1646): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2019-12-20-2114 (FOR-2019-12-20-2114): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2020-03-09-708 (FOR-2020-03-09-708): read article by article from the consolidated document (numbered "Art.").
+- for-2020-06-22-1400 (FOR-2020-06-22-1400): read article by article from the consolidated document (numbered by §).
+- for-2020-06-23-1298 (FOR-2020-06-23-1298): read article by article from the consolidated document (numbered "Art.").
+- for-2020-06-26-1617 (FOR-2020-06-26-1617): read article by article from the consolidated document (numbered by §).
+- for-2020-10-21-2137 (FOR-2020-10-21-2137): read article by article from the consolidated document (numbered by §).
+- for-2020-12-11-2711 (FOR-2020-12-11-2711): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2020-12-15-2912 (FOR-2020-12-15-2912): read article by article from the consolidated document (numbered by §).
+- for-2021-01-13-84 (FOR-2021-01-13-84): read article by article from the consolidated document (numbered by §).
+- for-2021-01-22-163 (FOR-2021-01-22-163): read article by article from the consolidated document (numbered by §).
+- for-2021-02-16-530 (FOR-2021-02-16-530): read article by article from the consolidated document (numbered by §).
+- for-2021-03-18-815 (FOR-2021-03-18-815): read article by article from the consolidated document (numbered by §).
+- for-2021-05-28-1666 (FOR-2021-05-28-1666): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-05-31-1825 (FOR-2021-05-31-1825): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-06-10-1861 (FOR-2021-06-10-1861): read article by article from the consolidated document (numbered by §).
+- for-2021-06-11-1877 (FOR-2021-06-11-1877): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-06-14-1978 (FOR-2021-06-14-1978): read article by article from the consolidated document (numbered by §).
+- for-2021-06-20-2053 (FOR-2021-06-20-2053): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-06-20-2054 (FOR-2021-06-20-2054): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2021-06-20-2086 (FOR-2021-06-20-2086): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2022-01-21-128 (FOR-2022-01-21-128): read article by article from the consolidated document (numbered by §).
+- for-2022-01-28-139 (FOR-2022-01-28-139): read article by article from the consolidated document (numbered by §).
+- for-2022-04-06-633 (FOR-2022-04-06-633): read article by article from the consolidated document (numbered "Art.").
+- for-2022-04-07-636 (FOR-2022-04-07-636): read article by article from the consolidated document (numbered "Art.").
+- for-2022-06-16-1029 (FOR-2022-06-16-1029): read article by article from the consolidated document (numbered by §).
+- for-2022-06-20-1116 (FOR-2022-06-20-1116): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2022-06-20-1116 (FOR-2022-06-20-1116): in force in part; dated by the first in-force day Lovdata gives (2022-06-20), with the text as Lovdata prints it.
+- for-2022-06-22-1110 (FOR-2022-06-22-1110): read article by article from the consolidated document (numbered by §).
+- for-2022-07-19-1364 (FOR-2022-07-19-1364): read article by article from the consolidated document (numbered by §).
+- for-2022-08-29-1598 (FOR-2022-08-29-1598): read article by article from the consolidated document (numbered by §).
+- for-2022-09-21-1626 (FOR-2022-09-21-1626): read article by article from the consolidated document (numbered by §).
+- for-2022-10-27-1901 (FOR-2022-10-27-1901): read article by article from the consolidated document (numbered by §).
+- for-2022-10-27-1938 (FOR-2022-10-27-1938): read article by article from the consolidated document (numbered by §).
+- for-2022-11-07-1929 (FOR-2022-11-07-1929): read article by article from the consolidated document (numbered by §).
+- for-2022-12-01-2087 (FOR-2022-12-01-2087): read article by article from the consolidated document (numbered by §).
+- for-2022-12-16-2270 (FOR-2022-12-16-2270): read article by article from the consolidated document (numbered by §).
+- for-2022-12-20-2301 (FOR-2022-12-20-2301): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2022-12-22-2501 (FOR-2022-12-22-2501): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2022-12-22-2501 (FOR-2022-12-22-2501): in force in part; dated by the first in-force day Lovdata gives (2022-12-22), with the text as Lovdata prints it.
+- for-2023-02-13-186 (FOR-2023-02-13-186): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2023-02-17-230 (FOR-2023-02-17-230): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2023-06-21-1009 (FOR-2023-06-21-1009): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2023-06-23-1096 (FOR-2023-06-23-1096): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2023-10-19-1685 (FOR-2023-10-19-1685): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2023-11-22-1915 (FOR-2023-11-22-1915): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2023-11-23-1895 (FOR-2023-11-23-1895): read article by article from the consolidated document (numbered by §).
+- for-2023-11-29-1935 (FOR-2023-11-29-1935): read article by article from the consolidated document (numbered by §).
+- for-2023-12-04-2342 (FOR-2023-12-04-2342): read article by article from the consolidated document (numbered by §).
+- for-2024-02-02-171 (FOR-2024-02-02-171): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-02-14-257 (FOR-2024-02-14-257): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-03-05-415 (FOR-2024-03-05-415): read article by article from the consolidated document (numbered by §).
+- for-2024-03-13-448 (FOR-2024-03-13-448): read article by article from the consolidated document (numbered by §).
+- for-2024-03-26-541 (FOR-2024-03-26-541): read article by article from the consolidated document (numbered by §).
+- for-2024-05-20-1548 (FOR-2024-05-20-1548): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-05-20-1548 (FOR-2024-05-20-1548): in force in part; dated by the first in-force day Lovdata gives (2024-05-20), with the text as Lovdata prints it.
+- for-2024-06-06-969 (FOR-2024-06-06-969): read article by article from the consolidated document (numbered by §).
+- for-2024-06-06-1106 (FOR-2024-06-06-1106): read article by article from the consolidated document (numbered by §).
+- for-2024-06-12-1347 (FOR-2024-06-12-1347): read article by article from the consolidated document (numbered by §).
+- for-2024-06-27-1381 (FOR-2024-06-27-1381): read article by article from the consolidated document (numbered by §).
+- for-2024-09-05-2677 (FOR-2024-09-05-2677): read article by article from the consolidated document (numbered by §).
+- for-2024-09-17-3171 (FOR-2024-09-17-3171): read article by article from the consolidated document (numbered by §).
+- for-2024-09-27-2374 (FOR-2024-09-27-2374): read article by article from the consolidated document (numbered by §).
+- for-2024-10-11-2477 (FOR-2024-10-11-2477): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-11-01-2777 (FOR-2024-11-01-2777): read article by article from the consolidated document (numbered by §).
+- for-2024-11-13-2941 (FOR-2024-11-13-2941): read article by article from the consolidated document (numbered by §).
+- for-2024-11-13-3024 (FOR-2024-11-13-3024): read article by article from the consolidated document (numbered by §).
+- for-2024-11-13-3329 (FOR-2024-11-13-3329): read article by article from the consolidated document (numbered by §).
+- for-2024-11-25-3026 (FOR-2024-11-25-3026): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-11-25-3026 (FOR-2024-11-25-3026): in force in part; dated by the first in-force day Lovdata gives (2024-11-25), with the text as Lovdata prints it.
+- for-2024-12-09-3030 (FOR-2024-12-09-3030): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-12-10-3031 (FOR-2024-12-10-3031): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-12-18-3263 (FOR-2024-12-18-3263): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2024-12-18-3263 (FOR-2024-12-18-3263): in force in part; dated by the first in-force day Lovdata gives (2025-01-01), with the text as Lovdata prints it.
+- for-2024-12-20-3359 (FOR-2024-12-20-3359): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-01-07-8 (FOR-2025-01-07-8): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-01-09-20 (FOR-2025-01-09-20): read article by article from the consolidated document (numbered by §).
+- for-2025-01-24-69 (FOR-2025-01-24-69): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-02-04-156 (FOR-2025-02-04-156): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-02-13-282 (FOR-2025-02-13-282): read article by article from the consolidated document (numbered by §).
+- for-2025-02-13-283 (FOR-2025-02-13-283): read article by article from the consolidated document (numbered by §).
+- for-2025-02-13-284 (FOR-2025-02-13-284): read article by article from the consolidated document (numbered by §).
+- for-2025-03-06-384 (FOR-2025-03-06-384): read article by article from the consolidated document (numbered by §).
+- for-2025-04-30-725 (FOR-2025-04-30-725): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-04-30-725 (FOR-2025-04-30-725): in force in part; dated by the first in-force day Lovdata gives (2025-04-30), with the text as Lovdata prints it.
+- for-2025-05-08-862 (FOR-2025-05-08-862): read article by article from the consolidated document (numbered by §).
+- for-2025-05-15-805 (FOR-2025-05-15-805): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-05-15-805 (FOR-2025-05-15-805): in force in part; dated by the first in-force day Lovdata gives (2025-05-15), with the text as Lovdata prints it.
+- for-2025-06-13-1017 (FOR-2025-06-13-1017): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-06-13-1017 (FOR-2025-06-13-1017): in force in part; dated by the first in-force day Lovdata gives (2026-01-01), with the text as Lovdata prints it.
+- for-2025-06-24-1643 (FOR-2025-06-24-1643): read article by article from the consolidated document (numbered by §).
+- for-2025-06-25-1311 (FOR-2025-06-25-1311): read article by article from the consolidated document (numbered by §).
+- for-2025-08-06-1713 (FOR-2025-08-06-1713): read article by article from the consolidated document (numbered by §).
+- for-2025-08-15-1645 (FOR-2025-08-15-1645): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-08-15-1645 (FOR-2025-08-15-1645): in force in part; dated by the first in-force day Lovdata gives (2025-08-15), with the text as Lovdata prints it.
+- for-2025-09-15-1843 (FOR-2025-09-15-1843): read article by article from the consolidated document (numbered by §).
+- for-2025-10-24-2093 (FOR-2025-10-24-2093): read article by article from the consolidated document (numbered by §).
+- for-2025-11-27-2357 (FOR-2025-11-27-2357): read article by article from the consolidated document (numbered by §).
+- for-2025-12-01-2374 (FOR-2025-12-01-2374): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-12-01-2404 (FOR-2025-12-01-2404): read article by article from the consolidated document (numbered by §).
+- for-2025-12-05-2419 (FOR-2025-12-05-2419): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-12-08-2457 (FOR-2025-12-08-2457): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-12-10-3067 (FOR-2025-12-10-3067): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-12-10-3067 (FOR-2025-12-10-3067): in force in part; dated by the first in-force day Lovdata gives (2026-01-01), with the text as Lovdata prints it.
+- for-2025-12-12-2507 (FOR-2025-12-12-2507): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-12-16-2594 (FOR-2025-12-16-2594): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2025-12-16-2594 (FOR-2025-12-16-2594): in force in part; dated by the first in-force day Lovdata gives (2026-01-01), with the text as Lovdata prints it.
+- for-2025-12-17-2649 (FOR-2025-12-17-2649): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-01-21-71 (FOR-2026-01-21-71): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-01-28-149 (FOR-2026-01-28-149): read article by article from the consolidated document (numbered by §).
+- for-2026-01-29-108 (FOR-2026-01-29-108): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-02-03-128 (FOR-2026-02-03-128): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-02-03-128 (FOR-2026-02-03-128): in force in part; dated by the first in-force day Lovdata gives (2026-02-03), with the text as Lovdata prints it.
+- for-2026-02-03-387 (FOR-2026-02-03-387): read article by article from the consolidated document (numbered by §).
+- for-2026-02-03-425 (FOR-2026-02-03-425): read article by article from the consolidated document (numbered by §).
+- for-2026-02-04-140 (FOR-2026-02-04-140): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-03-11-396 (FOR-2026-03-11-396): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-03-11-448 (FOR-2026-03-11-448): read article by article from the consolidated document (numbered by §).
+- for-2026-04-27-745 (FOR-2026-04-27-745): read article by article from the consolidated document (numbered by §).
+- for-2026-05-07-763 (FOR-2026-05-07-763): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-05-07-1167 (FOR-2026-05-07-1167): read article by article from the consolidated document (numbered by §).
+- for-2026-06-15-1087 (FOR-2026-06-15-1087): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-15-1087 (FOR-2026-06-15-1087): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- for-2026-06-19-1319 (FOR-2026-06-19-1319): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-19-1319 (FOR-2026-06-19-1319): in force in part; dated by the first in-force day Lovdata gives (2026-09-01), with the text as Lovdata prints it.
+- for-2026-06-19-1490 (FOR-2026-06-19-1490): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-22-1158 (FOR-2026-06-22-1158): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-22-1158 (FOR-2026-06-22-1158): in force in part; dated by the first in-force day Lovdata gives (2026-06-22), with the text as Lovdata prints it.
+- for-2026-06-22-1210 (FOR-2026-06-22-1210): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-26-1397 (FOR-2026-06-26-1397): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-06-26-1397 (FOR-2026-06-26-1397): in force in part; dated by the first in-force day Lovdata gives (2026-07-01), with the text as Lovdata prints it.
+- for-2026-07-13-1558 (FOR-2026-07-13-1558): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-07-13-1558 (FOR-2026-07-13-1558): in force in part; dated by the first in-force day Lovdata gives (2026-07-13), with the text as Lovdata prints it.
+- for-2026-08-27-1685 (FOR-2026-08-27-1685): read article by article from the consolidated document (numbered by §).
+- for-2026-09-18-1836 (FOR-2026-09-18-1836): read article by article from the consolidated document (numbered by §).
+- for-2026-09-29-1933 (FOR-2026-09-29-1933): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-29-1933 (FOR-2026-09-29-1933): in force in part; dated by the first in-force day Lovdata gives (2026-09-29), with the text as Lovdata prints it.
+- for-2026-10-02-1999 (FOR-2026-10-02-1999): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-02-1999 (FOR-2026-10-02-1999): in force in part; dated by the first in-force day Lovdata gives (2026-10-02), with the text as Lovdata prints it.
+- for-2026-10-15-2077 (FOR-2026-10-15-2077): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-15-2077 (FOR-2026-10-15-2077): in force in part; dated by the first in-force day Lovdata gives (2026-11-01), with the text as Lovdata prints it.
 
 ## What AI did and did not do
 
@@ -4585,6 +5842,8 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and read sample documents to design it. No model wrote, edited or summarised legal text, and no model runs at data-build or git-build time.
+- none
+- none
 - none
 - none
 - none

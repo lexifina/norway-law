@@ -1,0 +1,71 @@
+# Forskrift om bygging, utrustning og drift av hurtiggående fartøy som anvendes som passasjerskip eller lasteskip
+
+Forskrift om bygging mv av hurtiggående fartøy · 1 versions, from 2026-01-01 (latest in force: 2026-01-01) · <https://lovdata.no/dokument/SF/forskrift/1998-01-05-6>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Kapittel 1. Generelle bestemmelser | [kapittel-01.md](kapittel-01.md) | 0 |  |
+| Kapittel 2. Internasjonale krav | [kapittel-02.md](kapittel-02.md) | 0 |  |
+| Kapittel 3. Godkjenning av utstyr | [kapittel-03.md](kapittel-03.md) | 0 |  |
+| Kapittel 4. Meldinger, dokumentasjon og kontroll | [kapittel-04.md](kapittel-04.md) | 0 |  |
+| Kapittel 5. Besiktelse for utstedelse av sikkerhetssertifikat og operasjonstillatelse og besiktelse av elektriske anlegg | [kapittel-05.md](kapittel-05.md) | 0 |  |
+| Kapittel 6. Tekniske og utstyrsmessige krav | [kapittel-06.md](kapittel-06.md) | 0 |  |
+| Kapittel 7. Operasjonskrav, manøvrering mv. | [kapittel-07.md](kapittel-07.md) | 0 |  |
+| Kapittel 8. Avsluttende bestemmelser | [kapittel-08.md](kapittel-08.md) | 0 |  |
+| Vedlegg 1. Signifikante bølgehøyder | [kapittel-09.md](kapittel-09.md) | 0 |  |
+| Vedlegg 2. Modellforsøksmetoden | [kapittel-10.md](kapittel-10.md) | 0 |  |
+| Norsk ikke-autorativ oversettelse av MSC.1 Circ.735 – Retningslinjer for utforming og drift av nye passasjerskip for å imøtekomme behov hos eldre og personer med nedsatt funksjonsevne | [kapittel-11.md](kapittel-11.md) | 0 |  |
+| GENERELL INFORMASJON FØR OMBORDSTIGNING | [kapittel-11-kapittel-01.md](kapittel-11-kapittel-01.md) | 0 |  |
+| ATKOMST TIL TERMINALEN | [kapittel-11-kapittel-02.md](kapittel-11-kapittel-02.md) | 0 |  |
+| ATKOMST TIL SKIPET | [kapittel-11-kapittel-03.md](kapittel-11-kapittel-03.md) | 0 |  |
+| OPPSTILLING AV BILER | [kapittel-11-kapittel-04.md](kapittel-11-kapittel-04.md) | 0 |  |
+| PARKERING OM BORD | [kapittel-11-kapittel-05.md](kapittel-11-kapittel-05.md) | 0 |  |
+| HEIS | [kapittel-11-kapittel-06.md](kapittel-11-kapittel-06.md) | 0 |  |
+| FELLESROM | [kapittel-11-kapittel-07.md](kapittel-11-kapittel-07.md) | 0 |  |
+| KORRIDORER, DØRER OG REKKVERK | [kapittel-11-kapittel-08.md](kapittel-11-kapittel-08.md) | 0 |  |
+| DEKK OG GULV | [kapittel-11-kapittel-09.md](kapittel-11-kapittel-09.md) | 0 |  |
+| LUGARER | [kapittel-11-kapittel-10.md](kapittel-11-kapittel-10.md) | 0 |  |
+| TOALETTER | [kapittel-11-kapittel-11.md](kapittel-11-kapittel-11.md) | 0 |  |
+| TILDELING AV LUGARER | [kapittel-11-kapittel-12.md](kapittel-11-kapittel-12.md) | 0 |  |
+| OPPLÆRING AV BESETNING | [kapittel-11-kapittel-13.md](kapittel-11-kapittel-13.md) | 0 |  |
+| TILTAK FOR ALLERGIKERE | [kapittel-11-kapittel-14.md](kapittel-11-kapittel-14.md) | 0 |  |
+| INFORMASJON | [kapittel-11-kapittel-15.md](kapittel-11-kapittel-15.md) | 0 |  |
+| SERVICE | [kapittel-11-kapittel-16.md](kapittel-11-kapittel-16.md) | 0 |  |
+| § 1 | [paragraf-001.md](paragraf-001.md) | 0 |  |
+| § 2 | [paragraf-002.md](paragraf-002.md) | 0 |  |
+| § 4 | [paragraf-004.md](paragraf-004.md) | 0 |  |
+| § 5 | [paragraf-005.md](paragraf-005.md) | 0 |  |
+| § 6 | [paragraf-006.md](paragraf-006.md) | 0 |  |
+| § 7A | [paragraf-007-a.md](paragraf-007-a.md) | 0 |  |
+| § 8 | [paragraf-008.md](paragraf-008.md) | 0 |  |
+| § 8B | [paragraf-008-b.md](paragraf-008-b.md) | 0 |  |
+| § 8C | [paragraf-008-c.md](paragraf-008-c.md) | 0 |  |
+| § 9 | [paragraf-009.md](paragraf-009.md) | 0 |  |
+| § 10 | [paragraf-010.md](paragraf-010.md) | 0 |  |
+| § 11 | [paragraf-011.md](paragraf-011.md) | 0 |  |
+| § 12 | [paragraf-012.md](paragraf-012.md) | 0 |  |
+| § 13 | [paragraf-013.md](paragraf-013.md) | 0 |  |
+| § 14 | [paragraf-014.md](paragraf-014.md) | 0 |  |
+| § 15 | [paragraf-015.md](paragraf-015.md) | 0 |  |
+| § 16 | [paragraf-016.md](paragraf-016.md) | 0 |  |
+| § 17 | [paragraf-017.md](paragraf-017.md) | 0 |  |
+| § 18 | [paragraf-018.md](paragraf-018.md) | 0 |  |
+| § 19 | [paragraf-019.md](paragraf-019.md) | 0 |  |
+| § 20 | [paragraf-020.md](paragraf-020.md) | 0 |  |
+| § 21 | [paragraf-021.md](paragraf-021.md) | 0 |  |
+| § 22 | [paragraf-022.md](paragraf-022.md) | 0 |  |
+| § 23 | [paragraf-023.md](paragraf-023.md) | 0 |  |
+| § 24 | [paragraf-024.md](paragraf-024.md) | 0 |  |
+| § 25 | [paragraf-025.md](paragraf-025.md) | 0 |  |
+| § 26 | [paragraf-026.md](paragraf-026.md) | 0 |  |
+| § 27 | [paragraf-027.md](paragraf-027.md) | 0 |  |
+| § 28 | [paragraf-028.md](paragraf-028.md) | 0 |  |
+| § 29 | [paragraf-029.md](paragraf-029.md) | 0 |  |
+| § 30 | [paragraf-030.md](paragraf-030.md) | 0 |  |
+| § 31 | [paragraf-031.md](paragraf-031.md) | 0 |  |
+| § 32 | [paragraf-032.md](paragraf-032.md) | 0 |  |
+| § 33 | [paragraf-033.md](paragraf-033.md) | 0 |  |
+| § 34 | [paragraf-034.md](paragraf-034.md) | 0 |  |
+| § 36 | [paragraf-036.md](paragraf-036.md) | 0 |  |
+| § 37 | [paragraf-037.md](paragraf-037.md) | 0 |  |
+| § 38 | [paragraf-038.md](paragraf-038.md) | 0 |  |

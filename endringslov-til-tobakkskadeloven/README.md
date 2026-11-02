@@ -1,0 +1,7 @@
+# Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)
+
+Endringslov til tobakkskadeloven · 1 versions, from 2025-06-20 (latest in force: 2025-06-20) · <https://lovdata.no/dokument/NL/lov/2018-06-22-77>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
