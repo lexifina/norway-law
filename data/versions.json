@@ -60814,6 +60814,104 @@
      "sha256": "d9f63d8d6b9a9e44f3a8f87a5e197e570a2078e0d4ab55e97bee2a747314d96c"
     }
    ]
+  },
+  {
+   "slug": "for-2026-09-30-2228",
+   "short": "FOR-2026-09-30-2228",
+   "title": "Forskrift om endring i forskrift om tilskudd til veterinærreiser",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-09-30-2228",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-04T02:32:00Z#sf/sf-20260930-2228.xml",
+     "sha256": "39beab52ab914d06b9fc2b34cac3f4b477b566c6c55dc333aefb6ebaeb47da67"
+    }
+   ]
+  },
+  {
+   "slug": "for-2026-10-09-2216",
+   "short": "FOR-2026-10-09-2216",
+   "title": "Utvidelse av virkeområdet til lov 14. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-09-2216",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-04T02:32:00Z#sf/sf-20261009-2216.xml",
+     "sha256": "a5a6602ba72aee5dc1184562a1abce301fcf2bda2a9c1cfa2d2c6d7092d185b6"
+    }
+   ]
+  },
+  {
+   "slug": "for-2026-10-26-2238",
+   "short": "FOR-2026-10-26-2238",
+   "title": "Forskrift om endring i forskrift om høyere yrkesfaglig utdanning",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-26-2238",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-04T02:32:00Z#sf/sf-20261026-2238.xml",
+     "sha256": "4ca35e69c9e9bbb57a80f62777d6622ff2ba069cf77bcc0733a1a85eadb9f46b"
+    }
+   ]
+  },
+  {
+   "slug": "for-2026-10-28-2219",
+   "short": "FOR-2026-10-28-2219",
+   "title": "Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-28-2219",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 1,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-04T02:32:00Z#sf/sf-20261028-2219.xml",
+     "sha256": "46553839549e8438c441ed3b7e2c2cbc79f5f1ed4fc043167c725ae03b16f2fc"
+    }
+   ]
+  },
+  {
+   "slug": "for-2026-10-28-2239",
+   "short": "FOR-2026-10-28-2239",
+   "title": "Forskrift om opptak, studier og eksamen ved Høgskolen i Molde – Vitenskapelig høgskole i logistikk",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-28-2239",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 64,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-04T02:32:00Z#sf/sf-20261028-2239.xml",
+     "sha256": "b7f1fe56bbcac56b130ca32d9399bb024a432b40d282c950c39e794e76736b21"
+    }
+   ]
+  },
+  {
+   "slug": "for-2026-11-02-2222",
+   "short": "FOR-2026-11-02-2222",
+   "title": "Forskrift om minimumskrav til nullutslippsløsninger, biogass og biodrivstoff ved offentlige anskaffelser av bygge- og anleggskontrakter",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-11-02-2222",
+   "versions": [
+    {
+     "from": "2027-01-01",
+     "units": 10,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-04T02:32:00Z#sf/sf-20261102-2222.xml",
+     "sha256": "2b7c28c3d881f7b96f44881e45084c8ec5c214bccd637cfed6b7f9f6a0cbc9d0"
+    }
+   ]
+  },
+  {
+   "slug": "for-2026-11-02-2241",
+   "short": "FOR-2026-11-02-2241",
+   "title": "Forskrift om tidsbegrenset fritak fra krav til låssetting i fisket etter makrell og norsk vårgytende sild",
+   "url": "https://lovdata.no/dokument/SF/forskrift/2026-11-02-2241",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3,
+     "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2@2026-11-04T02:32:00Z#sf/sf-20261102-2241.xml",
+     "sha256": "b1858a708fb7882da54a9387be11849d569b499d64fdc8aa28f36af197212916"
+    }
+   ]
   }
  ]
 }

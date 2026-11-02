@@ -4102,12 +4102,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `for-2026-10-30-2189` | Forskrift om endring i integreringsforskriften | 1 | 2027-01-01 to 2027-01-01 |
 | `for-2026-09-21-2199` | Forskrift om endring i forskrift om stønad til høreapparat og tinnitusmaskerer | 1 | 2027-01-01 to 2027-01-01 |
 | `for-2026-10-23-2200` | Forskrift om bakketjenester på lufthavner | 1 | 2026-10-23 to 2026-10-23 |
+| `for-2026-09-30-2228` | Forskrift om endring i forskrift om tilskudd til veterinærreiser | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-10-09-2216` | Utvidelse av virkeområdet til lov 14. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven) | 1 | 2026-10-09 to 2026-10-09 |
+| `for-2026-10-26-2238` | Forskrift om endring i forskrift om høyere yrkesfaglig utdanning | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-10-28-2219` | Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-10-28-2239` | Forskrift om opptak, studier og eksamen ved Høgskolen i Molde – Vitenskapelig høgskole i logistikk | 1 | 2026-10-28 to 2026-10-28 |
+| `for-2026-11-02-2222` | Forskrift om minimumskrav til nullutslippsløsninger, biogass og biodrivstoff ved offentlige anskaffelser av bygge- og anleggskontrakter | 1 | 2027-01-01 to 2027-01-01 |
+| `for-2026-11-02-2241` | Forskrift om tidsbegrenset fritak fra krav til låssetting i fisket etter makrell og norsk vårgytende sild | 1 | 2026-11-02 to 2026-11-02 |
 
-The build made 4574 commits:
+The build made 4577 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4052 | first version of an act |
+| 4055 | first version of an act |
 | 522 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -4115,7 +4122,7 @@ Other counts:
 - 2 commits on the branch `fremtidig`: laws not yet in force on 2026-11-02.
 - 41 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 455 laws in the record.
-- 4939 tags.
+- 4942 tags.
 
 ## Dates
 
@@ -4127,13 +4134,13 @@ When a law gives no date of its own, the default rule applies: Norway has no sin
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fe52f9323bc286b72b872dadd86b7dbc7e5e00c238f7b3f128d0c9c9b5ba70d8` (84204064 bytes).
+- Corpus: sha256 `c63fdafdb96258f6c1b231fcbab35b50c3f26933457bacd8e465448ea45f0544` (84274608 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-4689 versions of 4085 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -6064,6 +6071,15 @@ No second build of this corpus has been compared yet.
 - Current-text regulations (2 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-03, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each act's units hold the consolidated document's text word for word (Lovdata's editorial notes, footnotes, the title line and repealed "(Opphevet)" articles apart; images are not included): paragraphs, articles ("Art.") and headings as the document numbers them, or one unit holding the whole text of a document with no numbered articles (a single-file act).
 - for-2026-09-21-2199 (FOR-2026-09-21-2199): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
 - for-2026-09-21-2199 (FOR-2026-09-21-2199): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- Current-text regulations (7 in this part): each is one version, Lovdata's consolidated text (unofficial) as retrieved on 2026-11-04, credited to Lovdata as the oldest version available and dated by the day Lovdata gives for the last change in force (or its own in-force day). Each act's units hold the consolidated document's text word for word (Lovdata's editorial notes, footnotes, the title line and repealed "(Opphevet)" articles apart; images are not included): paragraphs, articles ("Art.") and headings as the document numbers them, or one unit holding the whole text of a document with no numbered articles (a single-file act).
+- for-2026-09-30-2228 (FOR-2026-09-30-2228): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-09-30-2228 (FOR-2026-09-30-2228): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-09-2216 (FOR-2026-10-09-2216): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-26-2238 (FOR-2026-10-26-2238): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-26-2238 (FOR-2026-10-26-2238): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-10-28-2219 (FOR-2026-10-28-2219): single-file act. The consolidated document has no numbered articles, so the act is one unit (`tekst`) holding its whole text.
+- for-2026-10-28-2219 (FOR-2026-10-28-2219): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
+- for-2026-11-02-2222 (FOR-2026-11-02-2222): Lovdata states 2027-01-01 as the in-force day; this version belongs on fremtidig until that day.
 
 ## What AI did and did not do
 
@@ -6075,6 +6091,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and read sample documents to design it. No model wrote, edited or summarised legal text, and no model runs at data-build or git-build time.
+- none
 - none
 - none
 - none
