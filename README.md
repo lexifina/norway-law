@@ -1,5 +1,7 @@
 # Norway: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Norway's national law, which global-law reads at `norway/national/acts/`.
+
 The law of Norway as a git history: one file per provision, one commit per decision or law on the day it took effect, and the decision or law that made each change as the commit's author. `git blame` names the decision behind every paragraph; `git log` lists every change to a paragraph; picking a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `no/`.
