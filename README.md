@@ -30,7 +30,8 @@ Teksten er på norsk, bokmål eller nynorsk slik hver rettsakt ble vedtatt (eldr
 
 - **[Spør Claude om norsk rett](https://global-law.lexifina.com/v1/try_claude?country=norway)**: åpner Claude med et første spørsmål klart.
 - **[Spør ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=norway)**: det samme spørsmålet i ChatGPT.
-- **[Kall API-et i nettleseren](https://global-law.lexifina.com/v1/search_law?query=feriepenger&jurisdictions=norway)**: et søk i norsk rett etter «feriepenger», svar i JSON. Dokumentasjonen finner du [her](https://lexifina.com/api/global-law).
+- **[Søk i norsk rett på nettstedet vårt](https://lexifina.com/law?country=norway&q=feriepenger)**: et søk etter «feriepenger», med teksten i hver bestemmelse og versjonene av den, uten konto.
+- **[REST-API for utviklere](https://global-law.lexifina.com/v1/search_law?query=feriepenger&jurisdiction=norway)**: det samme søket som JSON, uten nøkkel. Dokumentasjonen finner du [her](https://lexifina.com/api/global-law).
 
 Begge assistentene leser historikken gjennom den gratis Global law-koblingen (MCP, `https://global-law.lexifina.com/mcp`); første gang gir chatten deg lenken som legger den til. Spør på norsk eller engelsk.
 
