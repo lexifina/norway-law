@@ -62,6 +62,7 @@ Hver endring tilskrives loven eller vedtaket som gjorde den, slik Lovtidend navn
 - Etter avspillingen stemmer hver av de 31 lovene med Lovdatas konsoliderte tekst av 21. oktober 2026 i hver bestemmelse, unntatt der den offisielle ordlyden i Lovtidend er beholdt framfor Lovdatas redigering; `REPRODUCE.md` lister opp hvert sted.
 - Hver rettsakt med bare gjeldende tekst har nøyaktig de paragrafene det konsoliderte dokumentet lister opp, og ordene, i rekkefølge, er dokumentets egne.
 - `tools/check_repo.py` leser hver versjon tilbake fra git på dagen den trådte i kraft og dagen før, og sammenligner den med korpuset; det kontrollerer også at trailerne i hver commit kan tolkes, at det ikke finnes merge-commits, og at ingen commit-dato går bakover eller ligger i framtiden.
+- [vulnerabilities/](vulnerabilities/README.md): mulige lovtekniske feil i norsk lovgivning, funnet av global-laws detektorer og kontrollert for hånd.
 
 ## Hva det ikke viser
 

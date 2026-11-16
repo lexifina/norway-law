@@ -62,6 +62,7 @@ Each change is credited to the law or decision that made it, as Lovtidend names 
 - After the replay, each of the 31 acts matches Lovdata's consolidated text of 21 October 2026 in every provision, except where the official Lovtidend wording is kept over Lovdata's editing; `REPRODUCE.md` lists each place.
 - Each current-text act has exactly the paragraphs its consolidated document lists, and its words, in order, are the document's own.
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus; it also checks that every commit's trailers parse, that there are no merge commits and that no commit date goes backwards or lies in the future.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Norwegian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
