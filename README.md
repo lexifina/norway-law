@@ -89,6 +89,10 @@ Ingen KI-modell har skrevet, oversatt eller rettet lovtekst, og ingen kjører n�
 
 Dette er en oversettelse av den engelske versjonen ([README.en.md](README.en.md)); ved avvik gjelder den engelske versjonen.
 
+## Visualiseringer
+
+- [visualisations/](visualisations/): diagrammer tegnet ut fra dette repositoriet. Ikke tegnet ennå.
+
 ## Mer
 
 Fra repositoriet [lexifina/global-law](https://github.com/lexifina/global-law) (på engelsk):
